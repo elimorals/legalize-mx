@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1928-01-24"
+last_updated: "1928-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE ENERO DE 1928.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE AGOSTO DE 1928.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -480,9 +480,11 @@ DE LA ELECCION E INSTALACION DEL CONGRESO.
 
 La Cámara de Diputados se compondrá de representantes de la Nación, electos en su totalidad cada dos años, por los ciudadanos mexicanos.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
 ###### Art. 52.
 
-Se elegirá un diputado propietario por cada sesenta mil habitantes o por una fracción que pase de veinte mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio. La población del Estado o Territorio que fuese menor que la fijada en este artículo, elegirá, sin embargo, un diputado propietario.
+Se elegirá un diputado propietario por cada cien mil habitantes o por una fracción que pase de cincuenta mil, teniendo en cuenta el censo general del Distrito Federal y el de cada Estado y Territorio; pero en ningún caso la representación de un Estado será menor de dos diputados, y la de un Territorio, cuya población fuese menor de la fijada en este artículo, será de un diputado propietario.
 
 ###### Art. 53.
 
@@ -670,19 +672,35 @@ IV.- Para arreglar definitivamente los límites de los Estados, terminando las d
 
 V.- Para cambiar la residencia de los Supremos Poderes de la Federación.
 
-VI.- Para legislar en todo lo relativo al Distrito Federal y Territorios, debiendo someterse a las bases siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
-1a.- El Distrito Federal y los Territorios se dividirán en Municipalidades, que tendrán la extensión territorial y número de habitantes suficiente para poder subsistir con sus propios recursos y contribuir a los gastos comunes.
+VI.- Para legislar en todo lo relativo al Distrito y Territorios Federales, sometiéndose a las bases siguientes:
 
-2a.- Cada Municipalidad estará a cargo de un Ayuntamiento de elección popular directa.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
-3a.- El Gobierno del Distrito Federal y los de los Territorios, estarán a cargo de Gobernadores que dependerán directamente del Presidente de la República. El Gobernador del Distrito Federal acordará con el Presidente de la República y los de los Territorios, por el conducto que determine la ley. Tanto el Gobernador del Distrito Federal como el de cada Territorio, serán nombrados y removidos libremente por el Presidente de la República.
+1a.- El Gobierno del Distrito Federal estará a cargo del Presidente de la República, quien lo ejercerá por conducto del órgano u órganos que determine la Ley respectiva.
 
-4a.- Los Magistrados y los Jueces de Primera Instancia del Distrito Federal y los de los Territorios, serán nombrados por el Congreso de la Unión, que se erigirá en Colegio Electoral en cada caso.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
-En las faltas temporales o absolutas de los Magistrados, se substituirán estos por nombramiento del Congreso de la Unión, y en sus recesos, por nombramientos provisionales de la Comisión Permanente. La ley orgánica determinará la manera de suplir a los jueces en sus faltas temporales y designará la autoridad ante la que se les exigirán las responsabilidades en que incurran, salvo lo dispuesto por esta misma Constitución respecto de responsabilidad de funcionarios.
+2a.- El Gobierno de los Territorios estará a cargo de Gobernadores, que dependerán directamente del Presidente de la República, quien los nombrará y removerá libremente.
 
-A partir del año de 1923, los Magistrados y los Jueces a que se refiere este inciso, sólo podrán ser removidos de sus cargos, si observan mala conducta y previo el juicio de responsabilidad respectivo, a menos que sean promovidos a empleo de grado superior. A partir de la misma fecha, la remuneración que dichos funcionarios perciban por sus servicios, no podrá ser disminuída durante su encargo.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+4a.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara, no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento, que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones, con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional, y el Presidente de la República, someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
+
+En los casos de faltas temporales por más de tres meses, de los Magistrados, serán estos substituídos mediante nombramientos que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente observándose en su caso, lo dispuesto en las cláusulas anteriores.
+
+En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquella y da la aprobación definitiva.
+
+Los Jueces de Primera Instancia, Menores y Correccionales del Distrito Federal y de los Territorios serán nombrados por el Tribunal Superior de Justicia del Distrito Federal; deberán tener los requisitos que la ley señale, y serán substituídos en sus faltas temporales, en los términos que la misma ley determine.
+
+La remuneración que los Magistrados y Jueces perciban por sus servicios, no podrá ser disminuída durante su encargo.
+
+Los Magistrados y los Jueces a que se refiere esta base, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
 5a.- El Ministerio Público en el Distrito Federal y en los Territorios estará a cargo de un Procurador General, que residirá en la ciudad de México, y del número de agentes que determine la ley, dependiendo dicho funcionario directamente del Presidente de la República, quien lo nombrará y removerá libremente.
 
@@ -730,23 +748,27 @@ XXIII.- Para formar su reglamento interior, y tomar las providencias necesarias 
 
 XXIV.- Para expedir la ley orgánica de la Contaduría Mayor.
 
-XXV.- Para constituirse en Colegio Electoral y nombrar a los Magistrados de la Suprema Corte de Justicia de la Nación, los Magistrados y Jueces del Distrito Federal y Territorios.
+> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION XXVII], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
-XXVI.- Para aceptar las renuncias de los Magistrados de la Suprema Corte de Justicia de la Nación y de los Magistrados y Jueces del Distrito Federal y Territorios, y nombrar los substitutos de dichos funcionarios en sus faltas temporales o absolutas.
-
-> <small>(REFORMADA, D.O.F. 8 DE JULIO DE 1921)</small>
-
-XXVII.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación, y legislar en todo lo que se refiera a dichas instituciones.
+XXV.- Para establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica; escuelas prácticas de agricultura, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la Nación, y legislar en todo lo que se refiera a dichas instituciones.
 
 La Federación tendrá jurisdicción sobre los planteles que ella establezca, sostenga y organice, sin menoscabo de la libertad que tienen los Estados para legislar sobre el mismo ramo educacional. Los títulos que se expidan por los establecimientos de que se trata, surtirán sus efectos en toda la República.
 
-XXVIII.- Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Presidente de la República, ya sea con carácter de substituto o de provisional en los términos de los artículos 84 y 85 de esta Constitución.
+> <small>(DEROGADA [N. DE E. REUBICADA, ANTES FRACCION XXVIII], D.O.F. 20 DE AGOSTO DE 1928)</small>
 
-XXIX.- Para aceptar la renuncia del cargo de Presidente de la República.
+XXVI.- Para constituirse en Colegio Electoral y elegir al ciudadano que debe substituir al Presidente de la República, ya sea con carácter de substituto o de provisional en los términos de los artículos 84 y 85 de esta Constitución.
 
-XXX.- Para examinar la cuenta que anualmente debe presentarle el Poder Ejecutivo, debiendo comprender dicho examen, no solo la conformidad de las partidas gastadas por el Presupuesto de Egresos, sino también la exactitud y justificación de tales partidas.
+(REUBICADA [N. DE E. ANTES FRACCION XXIX], D.O.F. 20 DE AGOSTO DE 1928)
 
-XXXI.- Para expedir todas las leyes que sean necesarias a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
+XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
+
+(REUBICADA [N. DE E. ANTES FRACCION XXX], D.O.F. 20 DE AGOSTO DE 1928)
+
+XXVIII.- Para examinar la cuenta que anualmente debe presentarle el Poder Ejecutivo, debiendo comprender dicho examen, no solo la conformidad de las partidas gastadas por el Presupuesto de Egresos, sino también la exactitud y justificación de tales partidas.
+
+(REUBICADA [N. DE E. ANTES FRACCION XXXI], D.O.F. 20 DE AGOSTO DE 1928)
+
+XXIX.- Para expedir todas las leyes que sean necesarias a objeto de hacer efectivas las facultades anteriores, y todas las otras concedidas por esta Constitución a los Poderes de la Unión.
 
 ###### Art. 74.
 
@@ -762,7 +784,17 @@ IV.- Aprobar el presupuesto anual de gastos discutiendo primero las contribucion
 
 V.- Conocer de las acusaciones que se hagan a los funcionarios públicos de que habla esta Constitución, por delitos oficiales, y en su caso, formular acusación ante la Cámara de Senadores y erigirse en Gran Jurado para declarar si ha o no lugar a proceder contra alguno de los funcionarios públicos que gozan de fuero constitucional, cuando sean acusados por delitos del orden común.
 
-VI.- Las demás que le confiere expresamente esta Constitución.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+VI.- Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, que le someta el Presidente de la República.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+VII.- Declarar justificadas o no justificadas las peticiones de destitución de autoridades judiciales que hiciere el Presidente de la República, en los términos de la parte final del artículo 111.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+VIII.- Las demás que le confiere expresamente esta Constitución.
 
 ###### Art. 75.
 
@@ -782,13 +814,23 @@ IV.- Dar su consentimiento para que el Presidente de la República pueda dispone
 
 V.- Declarar, cuando hayan desaparecido todos los poderes constitucionales de un Estado, que es llegado el caso de nombrarle un Gobernador provisional, quien convocará a elecciones conforme a las leyes constitucionales del mismo Estado. El nombramiento de Gobernador se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo Gobernador constitucional en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de los Estados no prevean el caso.
 
-VI.- Erigirse en Gran Jurado para conocer de los delitos oficiales de los funcionarios que expresamente designa esta Constitución.
-
-VII.- Las demás que la misma Constitución le atribuya y
-
-VIII.- Resolver las cuestiones políticas que surjan entre los poderes de un Estado cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la del Estado.
+VI.- Resolver las cuestiones políticas que surjan entre los poderes de un Estado cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la del Estado.
 
 La ley reglamentará el ejercicio de esta facultad y el de la anterior.
+
+VII.- Erigirse en Gran Jurado para conocer de los delitos oficiales de los funcionarios que expresamente designa esta Constitución.
+
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+VIII.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte de Justicia de la Nación, así como a las solicitudes de licencia y a las renuncias de los mismos funcionarios, que le someta el Presidente de la República.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+IX.- Declarar justificadas o no justificadas las peticiones de destitución de autoridades judiciales que hiciere el Presidente de la República, en los términos de la parte final del artículo 111.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+X.- Las demás que la misma Constitución le atribuye.
 
 ###### Art. 77.
 
@@ -823,6 +865,10 @@ III.- Dictaminar sobre todos los asuntos que queden sin resolución en los exped
 > <small>(REFORMADA, D.O.F. 24 DE NOVIEMBRE DE 1923)</small>
 
 IV.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria del Congreso o de una sola Cámara a sesiones extraordinarias, siendo necesario en ambos casos el voto de las dos terceras partes de los individuos presentes. La convocatoria señalará el objeto u objetos de las sesiones extraordinarias.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+V.- Otorgar o negar su aprobación a los nombramientos de Ministros de la Suprema Corte y Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, así como a las solicitudes de licencia de los Ministros de la Corte, que les someta el Presidente de la República.
 
 ### CAPITULO III.
 
@@ -940,7 +986,21 @@ XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley r
 
 XVI.- Cuando la Cámara de Senadores no esté en sesiones, el Presidente de la República podrá hacer provisionalmente los nombramientos de que hablan las fracciones III y IV, a reserva de someterlos a la aprobación de dicha Cámara cuando esté reunida.
 
-XVII.- Y las demás que le confiera expresamente esta Constitución.
+> <small>(REFORMADA, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+XVII.- Nombrar Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios y someter los nombramientos a la aprobación de la Cámara de Diputados o de la Comisión Permanente, en su caso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+XVIII.- Nombrar Ministros de la Suprema Corte de Justicia y someter los nombramientos, las licencias y las renuncias de ellos, a la aprobación de la Cámara de Senadores o de la Comisión Permanente, en su caso.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+XIX.- Pedir la destitución, por mala conducta, de las autoridades judiciales a que se refiere la parte final del artículo 111.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+XX.- Las demás que le confiere expresamente esta Constitución.
 
 ###### Art. 90.
 
@@ -962,13 +1022,11 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia y en Tribunales de Circuito y de Distrito cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación se compondrá de once Ministros y funcionará siempre en tribunal pleno, siendo sus audiencias públicas, excepción hecha de los casos en que la moral o el interés público así lo exigieren, debiendo celebrar sus sesiones en los períodos y términos que establezca la ley. Para que haya sesión en la Corte se necesita que concurran cuando menos dos terceras partes del número total de sus miembros, y las resoluciones se tomarán por mayoría absoluta de votos.
-
-Cada uno de los Ministros de la Suprema Corte designados para integrar ese Poder, en las próximas elecciones, durará en su encargo dos años; los que fueren electos al terminar este primer período, durarán cuatro años y a partir del año de 1923, los Ministros de la Corte, los Magistrados de Circuito y los Jueces de Distrito sólo podrán ser removidos cuando observen mala conducta y previo el juicio de responsabilidad respectivo, a menos que los Magistrados y los Jueces sean promovidos a grado superior.
-
-El mismo precepto regirá en lo que fuere aplicable dentro de los períodos de dos y cuatro años a que hace referencia este artículo.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito y en Juzgados de Distrito, cuyo número y atribuciones fijará la ley. La Suprema Corte de Justicia de la Nación se compondrá de dieciséis Ministros y funcionará en Tribunal Pleno o dividida en tres Salas, de cinco Ministros cada una, en los términos que disponga la ley. Las audiencias del Tribunal Pleno o de las Salas, serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Las sesiones serán celebradas en la forma y términos que establezca la ley respectiva. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, no podrá ser disminuida durante su encargo. Los Ministros de la Suprema Corte, los Magistrados de Circuito y los Jueces de Distrito, podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
 ###### Art. 95.
 
@@ -984,43 +1042,53 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los últimos cinco años, salvo el caso de ausencia en servicio de la República por un tiempo menor de seis meses.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
 ###### Art. 96.
 
-Los miembros de la Suprema Corte de Justicia de la Nación serán electos por el Congreso de la Unión en funciones de Colegio Electoral, siendo indispensable que concurran cuando menos las dos terceras partes del número total de diputados y senadores. La elección se hará en escrutinio secreto y por mayoría absoluta de votos. Los candidatos serán previamente propuestos, uno por cada Legislatura de los Estados, en la forma que disponga la ley local respectiva.
+Los nombramientos de los Ministros de la Suprema Corte, serán hechos por el Presidente de la República y sometidos a la aprobación de la Cámara de Senadores, la que otorgará o negará esa aprobación, dentro del improrrogable término de diez días. Si la Cámara no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación del Senado, no podrán tomar posesión los Magistrados de la Suprema Corte nombrados por el Presidente de la República. En el caso de que la Cámara de Senadores no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de dicha Cámara, en el siguiente período ordinario de sesiones. En este periodo de sesiones, dentro de los primeros diez días, el Senado deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Senado desecha el nombramiento, cesará desde luego en sus funciones el Ministro provisional, y el Presidente de la República someterá nuevo nombramiento a la aprobación del Senado, en los términos señalados.
 
-Si no se obtuviere mayoría absoluta en la primera votación, se repetirá entre los dos candidatos que hubieren obtenido más votos.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 ###### Art. 97.
 
-Los Magistrados de Circuito y los Jueces de Distrito serán nombrados por la Suprema Corte de Justicia de la Nación, tendrán los requisitos que exija la ley, durarán cuatro años en el ejercicio de su encargo y no podrán ser removidos de éste, sin previo juicio de responsabilidad o por incapacidad para desempeñarlo, en los términos que establezca la misma ley.
+Los Magistrados de Circuito y los Jueces de Distrito, serán nombrados por la Suprema Corte de Justicia de la Nación y tendrán los requisitos que exija la ley.
 
-La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un Distrito a otro o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
+La Suprema Corte de Justicia podrá cambiar de lugar a los Jueces de Distrito, pasándolos de un Distrito a otro, o fijando su residencia en otra población, según lo estime conveniente para el mejor servicio público. Lo mismo podrá hacer tratándose de los Magistrados de Circuito.
 
-Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito supernumerarios que auxilien las labores de los tribunales o juzgados donde hubiere recargo de negocios a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará alguno o algunos de sus miembros o algún Juez de Distrito o Magistrado de Circuito, o designará uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe la conducta de algún juez o Magistrado Federal o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público o algún otro delito castigado por la ley federal.
+Podrá también la Suprema Corte de Justicia de la Nación nombrar Magistrados de Circuito y Jueces de Distrito Supernumerarios que auxilien las labores de los Tribunales o Juzgados donde hubiere recargo de negocios, a fin de obtener que la Administración de Justicia sea pronta y expedita; y nombrará alguno o algunos de sus miembros, o algún Juez de Distrito o Magistrado de Circuito, o designará uno o varios comisionados especiales, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, o alguna de las Cámaras de la Unión, o el Gobernador de algún Estado, únicamente para que averigüe la conducta de algún Juez o Magistrado federal, o algún hecho o hechos que constituyan la violación de alguna garantía individual, o la violación del voto público, o algún otro delito castigado por la ley federal.
 
-Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte para que estos visiten periódicamente; vigilen la conducta de los Magistrados y Jueces que lo desempeñen y reciban las quejas que hubiere contra ellos; y ejerzan las demás atribuciones que señala la ley. La Suprema Corte de Justicia nombrará y removerá libremente a su Secretario y demás empleados que fije la planta respectiva aprobada por la ley. Los Magistrados de Circuito y Jueces de Distrito nombrarán y removerán también a sus respectivos secretarios y empleados.
+Los Tribunales de Circuito y Juzgados de Distrito serán distribuídos entre los Ministros de la Suprema Corte, para que éstos los visiten periódicamente, vigilen la conducta de los Magistrados y Jueces que los desempeñen, reciban las quejas que hubiere contra ellos y ejerzan las demás atribuciones que señala la ley. La Suprema Corte de Justicia nombrará y removerá libremente a su Secretario y demás empleados que fije la planta respectiva aprobada por la ley. Los Magistrados de Circuito y Jueces de Distrito nombrarán y removerán también a sus respectivos secretarios y empleados.
 
-La Suprema Corte cada año designará a uno de sus miembros como Presidente, pudiendo éste ser reelecto.
+La Suprema Corte de Justicia cada año designará uno de sus miembros como Presidente, pudiendo éste ser reelecto.
 
-Cada Ministro de la Suprema Corte de Justicia al entrar a ejercer su encargo, protestará ante el Congreso de la Unión, y en sus recesos, ante la Comisión Permanente, en la siguiente forma: Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, y las leyes que de ella dimanen, mirando en todo por el bien y prosperidad de la Unión?" Ministro: "Sí protesto." Presidente: "Si no lo hiciereis así la Nación os lo demande."
+Cada Ministro de la Suprema Corte de Justicia, al entrar a ejercer su encargo, protestará ante el Senado y en sus recesos, ante la Comisión Permanente, en la siguiente forma: Presidente: "¿Protestáis desempeñar leal y patrióticamente el cargo de Ministro de la Suprema Corte de Justicia de la Nación que se os ha conferido, y guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, mirando en todo por el bien y prosperidad de la Unión?"
+
+Ministro: "Sí protesto."
+
+Presidente: "Si no lo hiciereis así, la Nación os lo demande."
 
 Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte o ante la autoridad que determine la ley.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
 ###### Art. 98.
 
-Las faltas temporales de un ministro de la Suprema Corte de Justicia de la Nación, que no excedieren de un mes, no se suplirán si aquélla tuviere quórum para sus sesiones; pero si no lo hubiere, el Congreso de la Unión o en su receso la Comisión Permanente, nombrará por el tiempo que dure la falta, un suplente, de entre los candidatos presentados por los Estados para la elección del Magistrado propietario de que se trate, y que no hubieren sido electos. Si la falta fuere por dos meses o menos, el Congreso o en su caso la Comisión Permanente nombrará libremente, un Ministro provisional.
+Las faltas temporales de un Ministro de la Suprema Corte de Justicia de la Nación que no excedan de un mes, no se suplirán, si aquélla tuviere quórum para sus sesiones; pero si no lo tuviere, o si la falta excediere de un mes, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o en su receso a la de la Comisión Permanente, observándose en su caso, lo dispuesto en la parte final del artículo 96.
 
-Si faltare un Ministro por defunción, renuncia o incapacidad, el Congreso de la Unión hará nueva elección en los términos prescriptos por el artículo 96.
+Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación mientras se reúne aquél y da la aprobación definitiva.
 
-Si el Congreso no estuviere en sesiones, la Comisión Permanente hará un nombramiento provisional mientras se reune aquel, y hace la elección correspondiente.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 ###### Art. 99.
 
-El cargo de Ministro de la Suprema Corte de Justicia de la Nación sólo es renunciable por causa grave, celificada (sic) por el Congreso de la Unión, ante el que se presentará la renuncia. En los recesos de éste, la calificación se hará por la Comisión Permanente.
+Las renuncias de los Ministros de la Suprema Corte de Justicia, solamente procederán por causas graves; serán sometidas al Ejecutivo y si éste las acepta, serán enviadas para su aprobación al Senado, y en su receso, a la de la Comisión Permanente.
+
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
 
 ###### Art. 100.
 
-Las licencias de los Ministros cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; pero las que excedieren de este tiempo, las concederá la Cámara de Diputados o en su defecto la Comisión Permanente.
+Las licencias de los Ministros, cuando no excedan de un mes, serán concedidas por la Suprema Corte de Justicia de la Nación; las que excedan de este tiempo, las concederá el Presidente de la República con aprobación del Senado, o en sus recesos por la Comisión Permanente.
 
 ###### Art. 101.
 
@@ -1136,19 +1204,21 @@ En caso afirmativo, el acusado queda, por el mismo hecho, separado de su encargo
 
 No gozan de fuero constitucional los altos funcionarios de la Federación, por los delitos oficiales, faltas u omisiones en que incurran en el desempeño del (sic) algún empleo, cargo o comisión pública que hayan aceptado durante el período en que conforme a la ley se disfrute de fuero. Lo mismo sucederá respecto a los delitos comunes que cometan durante el desempeño de dicho empleo, cargo o comisión. Para que la causa pueda iniciarse cuando el alto funcionario haya vuelto a ejercer sus funciones propias, deberá procederse con arreglo a lo dispuesto en el artículo anterior.
 
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
 ###### Art. 111.
 
-De los delitos oficiales conocerá el Senado, erigido en Gran Jurado; pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados.
+De los delitos oficiales conocerá el Senado erigido en Gran Jurado; pero no podrá abrir la averiguación correspondiente, sin previa acusación de la Cámara de Diputados. Si la Cámara de Senadores declarase, por mayoría de las dos terceras parte (sic) del total de sus miembros, después de practicar las diligencias que estime convenientes y de oír al acusado, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración e inhabilitado para obtener otro por el tiempo que determinare la ley.
 
-Si la Cámara de Senadores declarase, por mayoría de las dos terceras partes del total de sus miembros, después de oír al acusado y de practicar las diligencias que estime convenientes, que éste es culpable, quedará privado de su puesto, por virtud de tal declaración o inhabilitado para obtener otro, por el tiempo que determinare la ley.
+Cuando el mismo hecho tuviere señalada otra pena en la ley, el acusado quedará a disposición de las autoridades comunes para que lo juzguen y castiguen con arreglo a ella.
 
-Cuando el mismo hecho tuviere señalada otra pena en la ley, el acusado quedará a disposición de las autoridades comunes, para que lo juzguen y castiguen con arreglo a ella.
+En los casos de este artículo y en los del 109 las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara de Diputados, son inatacables.
 
-En los casos de este artículo y en los del anterior, las resoluciones del Gran Jurado y la declaración, en su caso, de la Cámara de Diputados, son inatacables.
+Se concede acción popular para denunciar ante la Cámara de Diputados los delitos comunes u oficiales de los altos funcionarios de la Federación. Cuando la Cámara mencionada declare que ha lugar a acusar, nombrará una Comisión de su seno, para que sostenga ante el Senado la acusación de que se trate.
 
-Se concede acción popular para denunciar ante la Cámara de Diputados, los delitos comunes u oficiales de los altos funcionarios de la Federación, y cuando la Cámara mencionada declare que ha lugar a acusar ante el Senado, nombrará una Comisión de su seno, para que sostenga ante aquél la acusación de que se trate.
+El Congreso de la Unión expedirá a la mayor brevedad, una ley de responsabilidad de todos los funcionarios y empleados de la Federación y del Distrito y Territorios Federales, determinando como delitos o faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aun cuando hasta la fecha no hayan tenido carácter delictuoso. Estos delitos o faltas serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta, establece el artículo 20.
 
-El Congreso de la Unión expedirá, a la mayor brevedad, una ley sobre responsabilidad de todos los funcionarios y empleados de la Federación, determinando como faltas oficiales todos los actos u omisiones que puedan redundar en perjuicio de los intereses públicos y del buen despacho, aunque hasta la fecha no hayan tenido carácter delictuoso. Estos delitos serán siempre juzgados por un Jurado Popular, en los términos que para los delitos de imprenta establece el artículo 20.
+El Presidente de la República podrá pedir ante la Cámara de Diputados la destitución, por mala conducta, de cualquiera de los Ministros de la Suprema Corte de Justicia de la Nación, de los Magistrados de Circuito, de los Jueces de Distrito, de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, y de los Jueces del Orden Común del Distrito Federal y de los Territorios. En estos casos, sí la Cámara de Diputados, primero, y la Cámara de Senadores, después, declaran por mayoría absoluta de votos justificada la petición, el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido, y se procederá a nueva designación.
 
 ###### Art. 112.
 
@@ -1180,7 +1250,9 @@ El Ejecutivo Federal y los Gobernadores de los Estados tendrán el mando de la f
 
 Son aplicables a los Gobernadores, substitutos o interinos, las prohibiciones del artículo 83.
 
-El número de representantes en las Legislaturas de los Estados, será proporcional al de habitantes de cada uno, pero, en todo caso, el número de representantes de una Legislatura local no podrá ser menor de quince diputados propietarios.
+> <small>(REFORMADO, D.O.F. 20 DE AGOSTO DE 1928)</small>
+
+El número de representantes en las Legislaturas de los Estados, será proporcional al de habitantes de cada uno; pero en todo caso no podrá ser menor de siete diputados en los Estados cuya población no llegue a cuatrocientos mil habitantes; de nueve en aquellos cuya población exceda de este número y no llega a ochocientos mil habitantes y de once en los Estados cuya población sea superior a esta última cifra.
 
 En los Estados, cada distrito electoral nombrará un diputado propietario y un suplente.
 
@@ -1537,3 +1609,41 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 D.O.F. 24 DE ENERO DE 1928.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 2o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y TERRITORIO DE LA BAJA CALIFORNIA.
+
+D.O.F. 20 DE AGOSTO DE 1928.
+
+LEY QUE REFORMA LOS ARTICULOS 73, 74, 76, 79, 89, 94, 96, 97, 98, 99, 100 Y 111.
+
+###### ARTICULO 1o.
+
+Las reformas constitucionales a que se contrae la presente ley, entrarán en vigor el día 20 de diciembre del presente año.
+
+###### ARTICULO 2o.
+
+Los actuales Ministros de la Suprema Corte de Justicia de la Nación quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación del Senado.
+
+Los actuales Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Presidente de la República, con aprobación de la Cámara de Diputados. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Ministros y Magistrados.
+
+###### ARTICULO 3o.
+
+Los actuales Magistrados de Circuito y Jueces de Distrito quedarán sujetos a la ratificación de sus nombramientos por la Suprema Corte de Justicia de la Nación, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que la misma Suprema Corte quede integrada, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Magistrados y Jueces.
+
+###### ARTICULO 4o.
+
+Los actuales Jueces del Orden Común del Distrito Federal y de los Territorios, quedarán sujetos a la ratificación de sus nombramientos por el Tribunal Superior de Justicia del Distrito Federal, que decidirá si los ratifica dentro del término de sesenta días a contar de la fecha en que el mismo Tribunal Superior de Justicia quede integrado, de acuerdo con el presente Decreto. En caso de que esta ratificación no se llevare a efecto, cesarán en sus puestos tan pronto como sean designados los nuevos Jueces.
+
+D.O.F. 20 DE AGOSTO DE 1928.
+
+LEY QUE REFORMA EL ARTICULO 52 Y EL PARRAFO CUARTO DE LA FRACCION III DEL ARTICULO 115.
+
+PRIMERO.- La reforma del artículo 52 constitucional entrará en vigor al verificarse las elecciones para integrar la Cámara de Diputados del XXXIV Congreso de la Unión, en el año de 1930.
+
+SEGUNDO.- La división territorial que servirá de base para la elección de los Diputados a la XXXIV Legislatura de la Unión, será con sujeción al presente Decreto.
+
+TERCERO.- Las reformas al párrafo cuarto de la fracción III del artículo 115 constitucional, surtirán sus efectos en las elecciones de diputados a las Legislaturas de los Estados, en las fechas en que, de conformidad con sus Constituciones Políticas locales y leyes electorales respectivas, se verifiquen, a partir de la promulgación de la presente ley.
+
+D.O.F. 20 DE AGOSTO DE 1928.
+
+LEY QUE REFORMA LAS BASES 1a., 2a., Y 3a. DE LA FRACCION VI DEL ARTICULO 73.
+
+Unico.- Esta ley entrará en vigor el día primero de enero de mil novecientos veintinueve.
