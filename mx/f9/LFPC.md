@@ -4,7 +4,7 @@ identifier: "LFPC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-24"
-last_updated: "2003-06-13"
+last_updated: "2004-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPC"
 
 LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE FEBRERO DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 24 de diciembre de 1992.
 
@@ -40,15 +40,21 @@ LEY FEDERAL DE PROTECCION AL CONSUMIDOR
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de orden público e interés social y de observancia en toda la República. Sus disposiciones son irrenunciables y contra su observancia no podrán alegarse costumbres, usos, prácticas o estipulaciones en contrario.
+La presente ley es de orden público e interés social y de observancia en toda la República. Sus disposiciones son irrenunciables y contra su observancia no podrán alegarse costumbres, usos, prácticas, convenios o estipulaciones en contrario.
 
-El objeto de esta ley es promover y proteger los derechos del consumidor y procurar la equidad y seguridad jurídica en las relaciones entre proveedores y consumidores.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+El objeto de esta ley es promover y proteger los derechos y cultura del consumidor y procurar la equidad, certeza y seguridad jurídica en las relaciones entre proveedores y consumidores.
 
 "Son principios básicos en las relaciones de consumo:
 
-I. La protección de la vida, salud y seguridad del consumidor contra los riesgos provocados por prácticas en el abastecimiento de productos y servicios considerados peligrosos o nocivos;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. La protección de la vida, salud y seguridad del consumidor contra los riesgos provocados por productos, prácticas en el abastecimiento de productos y servicios considerados peligrosos o nocivos;
 
 II. La educación y divulgación sobre el consumo adecuado de los productos y servicios, que garanticen la libertad para escoger y la equidad en las contrataciones;
 
@@ -56,15 +62,23 @@ III. La información adecuada y clara sobre los diferentes productos y servicios
 
 IV. La efectiva prevención y reparación de daños patrimoniales y morales, individuales o colectivos;
 
-V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, administrativa y técnica a los consumidores;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-VI. El otorgamiento de facilidades a los consumidores para la defensa de sus derechos; y
+V. El acceso a los órganos administrativos con vistas a la prevención de daños patrimoniales y morales, individuales o colectivos, garantizando la protección jurídica, económica, administrativa y técnica a los consumidores;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VI. El otorgamiento de información y de facilidades a los consumidores para la defensa de sus derechos;
 
 VII. La protección contra la publicidad engañosa y abusiva, métodos comerciales coercitivos y desleales, así como contra prácticas y cláusulas abusivas o impuestas en el abastecimiento de productos y servicios;
 
-(ADICIONADA, D.O.F. 29 DE MAYO DE 2000) (REPUBLICADA, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-VIII.- La efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados.
+VIII. La real y efectiva protección al consumidor en las transacciones efectuadas a través del uso de medios convencionales, electrónicos, ópticos o de cualquier otra tecnología y la adecuada utilización de los datos aportados, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IX. El respeto a los derechos y obligaciones derivados de las relaciones de consumo y las medidas que garanticen su efectividad y cumplimiento.
 
 Los derechos previstos en esta ley no excluyen otros derivados de tratados o convenciones internacionales de los que México sea signatario; de la legislación interna ordinaria; de reglamentos expedidos por las autoridades administrativas competentes; así como de los que deriven de los principios generales de derecho, la analogía, las costumbres y la equidad.
 
@@ -72,11 +86,19 @@ Los derechos previstos en esta ley no excluyen otros derivados de tratados o con
 
 Para los efectos de esta ley, se entiende por:
 
-I. Consumidor: la persona física o moral que adquiere, realiza o disfruta como destinatario final bienes, productos o servicios. No es consumidor quien adquiera, almacene, utilice o consuma bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. Consumidor: la persona física o moral que adquiere, realiza o disfruta como destinatario final bienes, productos o servicios. Se entiende también por consumidor a la persona física o moral que adquiera, almacene, utilice o consuma bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, únicamente para los casos a que se refieren los artículos 99 y 117 de esta ley.
+
+Tratándose de personas morales que adquieran bienes o servicios para integrarlos en procesos de producción o de servicios a terceros, sólo podrán ejercer las acciones a que se refieren los referidos preceptos cuando estén acreditadas como microempresas o microindustrias en términos de la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y de la Ley Federal para el Fomento de la Microindustria y la Actividad Artesanal, respectivamente y conforme a los requisitos que se establezcan en el Reglamento de esta ley.
 
 II. Proveedor: la persona física o moral que habitual o periódicamente ofrece, distribuye, vende, arrienda o concede el uso o disfrute de bienes, productos y servicios;
 
-III. Secretaría: la Secretaría de Comercio y Fomento Industrial; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Secretaría: la Secretaría de Economía, y
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 IV. Procuraduría: la Procuraduría Federal del Consumidor.
 
@@ -88,33 +110,57 @@ A falta de competencia específica de determinada dependencia de la administraci
 
 Son auxiliares en la aplicación y vigilancia de esta ley las autoridades federales, estatales y municipales.
 
-> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 5o.
 
-Quedan exceptuadas de las disposiciones de esta Ley, los servicios que se presten en virtud de una relación o contrato de trabajo, los de las instituciones y organizaciones cuya supervisión o vigilancia esté a cargo de las comisiones nacionales Bancaria y de Valores, de Seguros y Fianzas o del Sistema de Ahorro para el Retiro; así como los servicios profesionales que no sean de carácter mercantil.
+Quedan exceptuadas de las disposiciones de esta ley, los servicios que se presten en virtud de una relación o contrato de trabajo, los servicios profesionales que no sean de carácter mercantil y los servicios que presten las sociedades de información crediticia.
+
+Asimismo, quedan excluidos los servicios regulados por las leyes financieras que presten las Instituciones y Organizaciones cuya supervisión o vigilancia esté a cargo de las comisiones nacionales Bancaria y de Valores; de Seguros y Fianzas; del Sistema de Ahorro para el Retiro o de cualquier órgano de regulación, de supervisión o de protección y defensa dependiente de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 6o.
 
-Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal y municipal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.
+Estarán obligados al cumplimiento de esta ley los proveedores y los consumidores. Las entidades de las administraciones públicas federal, estatal, municipal y del gobierno del Distrito Federal, están obligadas en cuanto tengan el carácter de proveedores o consumidores.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 7o.
 
-Todo proveedor está obligado a respetar los precios, garantías, cantidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiere ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a personas con discapacidad.
+Todo proveedor está obligado a informar y respetar los precios, tarifas, garantías, cantidades, calidades, medidas, intereses, cargos, términos, plazos, fechas, modalidades, reservaciones y demás condiciones conforme a las cuales se hubiera ofrecido, obligado o convenido con el consumidor la entrega del bien o prestación del servicio, y bajo ninguna circunstancia serán negados estos bienes o servicios a persona alguna.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 7 BIS.- El proveedor está obligado a exhibir de manera visible el monto total a pagar por los bienes, productos o servicios que ofrezca al consumidor.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 8o.
 
-Los proveedores están obligados a respetar los precios y tarifas acordados, fijados, establecidos, registrados o autorizados por la Secretaría o por cualquier otra dependencia federal, en los términos de la legislación de la materia.
+La Procuraduría verificará que se respeten los precios máximos establecidos en términos de la Ley Federal de Competencia Económica, así como los precios y tarifas que conforme a lo dispuesto por otras disposiciones sean determinados por las autoridades competentes.
+
+Los proveedores están obligados a respetar el precio máximo y las tarifas establecidas conforme al párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 8 BIS.- La Procuraduría elaborará material informativo, de orientación y de educación a los consumidores y acordará con los proveedores su divulgación en los lugares o establecimientos respectivos.
+
+La Procuraduría establecerá módulos o sistemas de atención y orientación a los consumidores en función de la afluencia comercial, del número de establecimientos y operaciones mercantiles, de la temporada del año y conforme a sus programas y medios, debiéndose otorgar a aquélla las facilidades necesarias para ello.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 9o.
 
-Los proveedores de bienes o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de vigilantes, guardias o personal auxiliar que preste servicios en el establecimiento de que se trate, independientemente de la responsabilidad personal en que incurra el infractor.
+Los proveedores de bienes o servicios incurren en responsabilidad administrativa por los actos propios que atenten contra los derechos del consumidor y por los de sus colaboradores, subordinados y toda clase de vigilantes, guardias o personal auxiliar que les presten sus servicios, independientemente de la responsabilidad personal en que incurra el infractor.
 
 ###### ARTICULO 10.
 
 Queda prohibido a cualquier proveedor de bienes o servicios llevar a cabo acciones que atenten contra la libertad o seguridad o integridad personales de los consumidores bajo pretexto de registro o averiguación. En el caso de que alguien sea sorprendido en la comisión flagrante de un delito, los proveedores, sus agentes o empleados se limitarán, bajo su responsabilidad, a poner sin demora al presunto infractor a disposición de la autoridad competente. La infracción de esta disposición se sancionará de acuerdo con lo previsto en esta ley, independientemente de la reparación del daño moral y la indemnización por los daños y perjuicios ocasionados en caso de no comprobarse el delito imputado.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Los proveedores no podrán aplicar métodos o prácticas comerciales coercitivas y desleales, ni cláusulas o condiciones abusivas o impuestas en el abastecimiento de productos o servicios. Asimismo, tampoco podrán prestar servicios adicionales a los originalmente contratados que no hubieren sido solicitados o aceptados expresamente, por escrito o por vía electrónica, por el consumidor.
 
 ###### ARTICULO 11.
 
@@ -124,9 +170,13 @@ El consumidor que al adquirir un bien haya entregado una cantidad como depósito
 
 Sin perjuicio de lo dispuesto por la legislación fiscal, el proveedor, tiene obligación de entregar al consumidor factura, recibo o comprobante, en el que consten los datos específicos de la compraventa, servicio prestado u operación realizada.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 13.
 
-Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información necesaria que les sea requerida para sustanciar los procedimientos a que se refiere esta ley, excepto cuando la información requerida sea de estricto uso interno o no tenga relación con el procedimiento de que se trate dicho plazo podrá ser ampliado por una sola vez.
+La Procuraduría verificará a través de visitas, requerimientos de información o documentación, monitoreos, o por cualquier otro medio el cumplimiento de esta ley. Para efectos de lo dispuesto en este precepto, los proveedores, sus representantes o sus empleados están obligados a permitir al personal acreditado de la Procuraduría el acceso al lugar o lugares objeto de la verificación.
+
+Las autoridades, proveedores y consumidores están obligados a proporcionar a la Procuraduría, en un término no mayor de quince días, la información o documentación necesaria que les sea requerida para el cumplimiento de sus atribuciones, así como para sustanciar los procedimientos a que se refiere esta ley, excepto cuando se demuestre que la información requerida sea de estricto uso interno o no tenga relación con el procedimiento de que se trate. Dicho plazo podrá ser ampliado por una sola vez.
 
 ###### ARTICULO 14.
 
@@ -136,23 +186,43 @@ El plazo de prescripción de los derechos y obligaciones establecidos en la pres
 
 Cuando el cobro se haga mediante cargo directo a una cuenta de crédito, débito o similar del consumidor, el cargo no podrá efectuarse sino hasta la entrega del bien, o la prestación del servicio, excepto cuando exista consentimiento expreso del consumidor para que éstas se realicen posteriormente.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 16.
 
-Las empresas dedicadas a la investigación de crédito o a la recopilación de información sobre consumidores con fines mercadotécnicos están obligadas a informar gratuitamente a cualquier persona que lo solicite si mantienen información acerca de ella. De existir dicha información, deberán ponerla a su disposición si ella misma o su representante lo solicita, e informar acerca de qué información han compartido con terceros y la identidad de esos terceros, así como las recomendaciones que hayan efectuado. La respuesta a cada solicitud deberá darse dentro de los 30 días siguientes a su presentación. En caso de existir alguna ambigüedad o inexactitud en la información, la empresa deberá efectuar de inmediato las correcciones que fundadamente indique la persona afectada, e informar las correcciones a los terceros que hayan recibido dicha información.
+Los proveedores y empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios están obligados a informar gratuitamente a cualquier persona que lo solicite si mantienen información acerca de ella. De existir dicha información, deberán ponerla a su disposición si ella misma o su representante lo solicita, e informar acerca de qué información han compartido con terceros y la identidad de esos terceros, así como las recomendaciones que hayan efectuado. La respuesta a cada solicitud deberá darse dentro de los treinta días siguientes a su presentación. En caso de existir alguna ambigüedad o inexactitud en la información de un consumidor, éste se la deberá hacer notar al proveedor o a la empresa, quien deberá efectuar dentro de un plazo de treinta días contados a partir de la fecha en que se le haya hecho la solicitud, las correcciones que fundadamente indique el consumidor, e informar las correcciones a los terceros a quienes les haya entregado dicha información.
+
+Para los efectos de esta ley, se entiende por fines mercadotécnicos o publicitarios el ofrecimiento y promoción de bienes, productos o servicios a consumidores.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 17.
 
-El consumidor podrá exigir a proveedores específicos y a agencias de investigación de crédito o de mercadotecnia, no ser molestado en su domicilio o lugar de trabajo para ofrecerle bienes o servicios, o para realizar dichas investigaciones, salvo autorización expresa del propio consumidor.
+En la publicidad que se envíe a los consumidores se deberá indicar el nombre, domicilio, teléfono y, en su defecto, la dirección electrónica del proveedor; de la empresa que, en su caso, envíe la publicidad a nombre del proveedor, y de la Procuraduría.
+
+El consumidor podrá exigir directamente a proveedores específicos y a empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios, no ser molestado en su domicilio, lugar de trabajo, dirección electrónica o por cualquier otro medio, para ofrecerle bienes, productos o servicios, y que no le envíen publicidad. Asimismo, el consumidor podrá exigir en todo momento a proveedores y a empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios, que la información relativa a él mismo no sea cedida o transmitida a terceros, salvo que dicha cesión o transmisión sea determinada por una autoridad judicial.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 18.
 
-Queda prohibido a las empresas dedicadas a la investigación de crédito o de mercadotecnia y a sus clientes, utilizar la información con fines diferentes a los crediticios o mercadotécnicos.
+La Procuraduría podrá llevar, en su caso, un registro público de consumidores que no deseen que su información sea utilizada para fines mercadotécnicos o publicitarios. Los consumidores podrán comunicar por escrito o por correo electrónico a la Procuraduría su solicitud de inscripción en dicho registro, el cual será gratuito.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 18 BIS.- Queda prohibido a los proveedores y a las empresas que utilicen información sobre consumidores con fines mercadotécnicos o publicitarios y a sus clientes, utilizar la información relativa a los consumidores con fines diferentes a los mercadotécnicos o publicitarios, así como enviar publicidad a los consumidores que expresamente les hubieren manifestado su voluntad de no recibirla o que estén inscritos en el registro a que se refiere el artículo anterior. Los proveedores que sean objeto de publicidad son corresponsables del manejo de la información de consumidores cuando dicha publicidad la envíen a través de terceros.
 
 ### Capítulo II. De las autoridades
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 19.
 
-La Secretaría de Comercio y Fomento Industrial estará facultada para expedir normas oficiales mexicanas respecto de:
+La Secretaría determinará la política de protección al consumidor, que constituye uno de los instrumentos sociales y económicos del Estado para favorecer y promover los intereses y derechos de los consumidores. Lo anterior, mediante la adopción de las medidas que procuren el mejor funcionamiento de los mercados y el crecimiento económico del país.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Dicha Secretaría está facultada para expedir normas oficiales mexicanas y normas mexicanas respecto de:
 
 I. Productos que deban expresar los elementos, substancias o ingredientes de que estén elaborados o integrados así como sus propiedades, características, fecha de caducidad, contenido neto y peso ó masa drenados, y demás datos relevantes en los envases, empaques, envolturas, etiquetas o publicidad, que incluyan los términos y condiciones de los instructivos y advertencias para su uso ordinario y conservación;
 
@@ -172,13 +242,19 @@ VIII. Características de productos, procesos, métodos, sistemas o prácticas i
 
 IX. Los demás que establezcan esta ley y otros ordenamientos.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La Secretaría, en los casos en que se requiera, emitirá criterios y lineamientos para la interpretación de las normas a que se refiere este precepto.
+
 ###### ARTICULO 20.
 
 La Procuraduría Federal del Consumidor es un organismo descentralizado de servicio social con personalidad jurídica y patrimonio propio. Tiene funciones de autoridad administrativa y está encargada de promover y proteger los derechos e intereses del consumidor y procurar la equidad y seguridad jurídica en las relaciones entre proveedores y consumidores. Su funcionamiento se regirá por lo dispuesto en esta ley, los reglamentos de ésta y su estatuto.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 21.
 
-El domicilio de la Procuraduría será la Ciudad de México y establecerá delegaciones en todas las entidades federativas. Los tribunales federales serán competentes para resolver todas las controversias en que sea parte.
+El domicilio de la Procuraduría será la Ciudad de México y establecerá delegaciones en todas las entidades federativas y el Distrito Federal. Los tribunales federales serán competentes para resolver todas las controversias en que sea parte.
 
 ###### ARTICULO 22.
 
@@ -192,7 +268,9 @@ I. Los bienes con que cuenta;
 
 II. Los recursos que directamente le asigne el Presupuesto de Egresos de la Federación;
 
-III. Los recursos que le aporten las dependencias y entidades de la administración pública federal, estatal y municipal;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Los recursos que le aporten las dependencias y entidades de la administración pública federal, estatal, municipal y del gobierno del Distrito Federal;
 
 IV. Los ingresos que perciba por los servicios que proporcione en los términos que señale la ley de la materia; y
 
@@ -210,13 +288,17 @@ III. Representar individualmente o en grupo a los consumidores ante autoridades 
 
 IV. Recopilar, elaborar, procesar y divulgar información objetiva para facilitar al consumidor un mejor conocimiento de los bienes y servicios que se ofrecen en el mercado;
 
-V. Formular y realizar programas de difusión y capacitación de los derechos del consumidor;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+V. Formular y realizar programas de educación para el consumo, así como de difusión y orientación respecto de las materias a que se refiere esta ley;
 
 VI. Orientar a la industria y al comercio respecto de las necesidades y problemas de los consumidores;
 
 VII. Realizar y apoyar análisis, estudios e investigaciones en materia de protección al consumidor;
 
-VIII. Promover y realizar directamente, en su caso, programas educativos y de capacitación en materia de orientación al consumidor y prestar asesoría a consumidores y proveedores;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VIII. Promover y realizar directamente, en su caso, programas educativos y de capacitación en las materias a que se refiere esta ley y prestar asesoría a consumidores y proveedores;
 
 IX. Promover nuevos o mejores sistemas y mecanismos que faciliten a los consumidores el acceso a bienes y servicios en mejores condiciones de mercado;
 
@@ -228,67 +310,133 @@ X. Actuar como perito y consultor en materia de calidad de bienes y servicios y 
 
 XI. Celebrar convenios con proveedores y consumidores y sus organizaciones para el logro de los objetivos de esta ley;
 
-XII. Celebrar convenios y acuerdos de colaboración de información con autoridades federales, estatales, municipales y entidades paraestatales, en beneficio de los consumidores;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XIII. Vigilar y verificar el cumplimiento de precios y tarifas acordados, fijados, establecidos, registrados o autorizados por la Secretaría y coordinarse con otras dependencias legalmente facultadas para inspeccionar precios para lograr la eficaz protección de los intereses del consumidor y, a la vez evitar duplicación de funciones;
+XII. Celebrar convenios y acuerdos de colaboración con autoridades federales, estatales, municipales, del gobierno del Distrito Federal y entidades paraestatales en beneficio de los consumidores; así como acuerdos interinstitucionales con otros países, de conformidad con las leyes respectivas;
 
-XIV. Vigilar y verificar el cumplimiento de normas oficiales mexicanas, pesas y medidas para la actividad comercial, instructivos, garantías y especificaciones industriales, en los términos de la Ley Federal sobre Metrología y Normalización;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XIII. Vigilar y verificar el cumplimiento de las disposiciones en materia de precios y tarifas establecidos o registrados por la autoridad competente y coordinarse con otras autoridades legalmente facultadas para inspeccionar precios para lograr la eficaz protección de los intereses del consumidor y, a la vez evitar duplicación de funciones;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XIV. Vigilar y verificar el cumplimiento de las disposiciones contenidas en esta ley y, en el ámbito de su competencia, las de la Ley Federal sobre Metrología y Normalización, así como de las normas oficiales mexicanas y demás disposiciones aplicables, y en su caso determinar los criterios para la verificación de su cumplimiento;
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XIV bis. Verificar que las pesas, medidas y los instrumentos de medición que se utilicen en transacciones comerciales, industriales o de servicios sean adecuados y, en su caso, realizar el ajuste de los instrumentos de medición en términos de lo dispuesto en la Ley Federal sobre Metrología y Normalización;
 
 XV. Registrar los contratos de adhesión que lo requieran, cuando cumplan la normatividad aplicable, y organizar y llevar el Registro Público de contratos de adhesión;
 
-XVI. Procurar la solución de las diferencias entre consumidores y proveedores conforme a los procedimientos establecidos en esta ley;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XVI. Procurar la solución de las diferencias entre consumidores y proveedores y, en su caso, emitir dictámenes en donde se cuantifiquen las obligaciones contractuales del proveedor, conforme a los procedimientos establecidos en esta ley;
 
 XVII. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivos de delitos y que sean de su conocimiento y, ante las autoridades competentes, los actos que constituyan violaciones administrativas que afecten los intereses de los consumidores;
 
-XVIII. Promover y apoyar la constitución de organizaciones de consumidores, proporcionándoles capacitación y asesoría;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XIX. Aplicar las sanciones establecidas en esta ley;
+XVIII. Promover y apoyar la constitución de organizaciones de consumidores, proporcionándoles capacitación y asesoría, así como procurar mecanismos para su autogestión;
 
-XX. Excitar a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicha excitativa; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-XXI. Las demás que le confieran esta ley y otros ordenamientos.
+XIX. Aplicar las sanciones y demás medidas establecidas en esta ley, en la Ley Federal sobre Metrología y Normalización y demás ordenamientos aplicables;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XX. Requerir a los proveedores o a las autoridades competentes a que tomen medidas adecuadas para combatir, detener, modificar o evitar todo género de prácticas que lesionen los intereses de los consumidores, y cuando lo considere pertinente publicar dicho requerimiento;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XXI. Ordenar se informe a los consumidores sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+XXII. Las demás que le confieran esta ley y otros ordenamientos.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 25.
 
-La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá emplear los siguientes medios de apremio:
+La Procuraduría, para el desempeño de las funciones que le atribuye la ley, podrá aplicar las siguientes medidas de apremio:
 
-I. Multa por el equivalente de una hasta doscientas veces el salario mínimo general vigente en el Distrito Federal. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo; y
+I. Apercibimiento;
 
-II. El auxilio de la fuerza pública.
+II. Multa de $150.00 a $15,000.00;
+
+III. En caso de que persista la infracción podrán imponerse nuevas multas por cada día que transcurra sin que se obedezca el mandato respectivo, hasta por $6,000.00, y
+
+IV. El auxilio de la fuerza pública.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 25 BIS.- La Procuraduría podrá aplicar las siguientes medidas precautorias cuando se afecte o pueda afectar la vida, la salud, la seguridad o la economía de una colectividad de consumidores:
+
+I. Inmovilización de envases, bienes, productos y transportes;
+
+II. El aseguramiento de bienes o productos en términos de lo dispuesto por el artículo 98 TER de esta ley;
+
+III. Suspensión de la comercialización de bienes, productos o servicios;
+
+IV. Colocación de sellos de advertencia, y
+
+V. Ordenar la suspensión de información o publicidad a que se refiere el artículo 35 de esta ley.
+
+Las medidas precautorias se dictarán conforme a los criterios que al efecto expida la Procuraduría y dentro del procedimiento correspondiente en términos de lo dispuesto en el artículo 57 y demás relativos de la Ley Federal sobre Metrología y Normalización; así como cuando se advierta que se afecta o se puede afectar la economía de una colectividad de consumidores en los casos a que se refiere el artículo 128 TER o cuando se violen disposiciones de esta ley por diversas conductas o prácticas comerciales abusivas, tales como: el incumplimiento de precios o tarifas exhibidos; el condicionamiento de la venta de bienes o de servicios; el incumplimiento de ofertas y promociones; por conductas discriminatorias y por publicidad o información engañosa. En el caso de la medida precautoria a que se refiere la fracción IV de este precepto, previo a la colocación del sello respectivo, la Procuraduría aplicará la medida a que se refiere el artículo 25, fracción I, de esta ley. Tales medidas se levantarán una vez que se acredite el cese de las causas que hubieren originado su aplicación. En su caso, la Procuraduría hará del conocimiento de otras autoridades competentes la aplicación de la o las medidas a que se refiere este precepto.
 
 ###### ARTICULO 26.
 
 La Procuraduría tendrá legitimación procesal activa para ejercer ante los tribunales competentes acciones de grupo en representación de consumidores, para que dichos órganos, en su caso, dicten:
 
-I. Sentencia que declare que una o varias personas han realizado una conducta que ha ocasionado daños o perjuicios a consumidores y, en consecuencia, proceda la reparación por la vía incidental a los interesados que acrediten su calidad de perjudicados. En este caso la Procuraduría deberá contar previamente con mandato de los consumidores perjudicados; o
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. Sentencia que declare que una o varias personas han realizado una conducta que ha ocasionado daños o perjuicios a consumidores y, en consecuencia, proceda la reparación por la vía incidental a los interesados que acrediten su calidad de perjudicados. La indemnización de daños y perjuicios que en su caso corresponda no podrá ser inferior al veinte por ciento de los mismos, o
 
 II. Mandamiento para impedir, suspender o modificar la realización de conductas que ocasionen daños o perjuicios a consumidores o previsiblemente puedan ocasionarlos.
 
-Las atribuciones que este artículo otorga a la Procuraduría son discrecionales y se ejercitarán previo análisis de su procedencia.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La Procuraduría en representación de los consumidores afectados podrá ejercer por la vía incidental la reclamación de los daños y perjuicios que correspondan, en base a la sentencia emitida por la autoridad judicial.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Las atribuciones que este artículo otorga a la Procuraduría se ejercitarán previo análisis de su procedencia, tomando en consideración la gravedad, el número de reclamaciones o denuncias que se hubieran presentado en contra del proveedor o la afectación general que pudiera causarse a los consumidores en su salud o en su patrimonio.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La Procuraduría estará exenta de presentar garantía alguna ante las autoridades judiciales competentes, para el ejercicio de las acciones señaladas en las fracciones I y II.
 
 ###### ARTICULO 27.
 
 El Procurador Federal del Consumidor tendrá las siguientes atribuciones:
 
-I. Representar legalmente a la Procuraduría;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. Representar legalmente a la Procuraduría, así como otorgar poderes a servidores públicos de la misma, para representarla en asuntos o procedimientos judiciales, administrativos y laborales;
 
 II. Nombrar y remover al personal al servicio de la Procuraduría, señalándole sus funciones y remuneraciones;
 
 III. Crear las unidades que se requieran para el buen funcionamiento de la Procuraduría y determinar la competencia de dichas unidades, de acuerdo con el estatuto orgánico;
 
-IV. Informar al Secretario de Comercio y Fomento Industrial sobre los asuntos que sean de la competencia de la Procuraduría;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Informar al Secretario de Economía sobre los asuntos que sean de la competencia de la Procuraduría;
 
 V. Proponer el anteproyecto de presupuesto de la Procuraduría y autorizar el ejercicio del aprobado;
 
 VI. Aprobar los programas de la entidad;
 
-VII. Establecer los criterios para la imposición de sanciones que determina la ley, así como para dejarlas sin efecto, reducirlas, modificarlas o conmutarlas, cuando a su criterio se preserve la equidad; observando en todo momento lo dispuesto por el artículo 132 del presente ordenamiento;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VII. Establecer los criterios para la imposición de sanciones que determina la ley, así como para dejarlas sin efecto, reducirlas, modificarlas o conmutarlas, cuando a su criterio se preserve la equidad; observando en todo momento lo dispuesto por los artículos 132 y 134 del presente ordenamiento;
 
 VIII. Delegar facultades de autoridad y demás necesarias o convenientes en servidores públicos subalternos, sin perjuicio de su ejercicio directo. Los acuerdos relativos se publicarán en el Diario Oficial de la Federación;
 
 IX. Fijar las políticas y expedir las normas de organización y funcionamiento de la Procuraduría;
 
-X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Comercio y Fomento Industrial; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+X. Expedir el estatuto orgánico de la Procuraduría, previa aprobación del Secretario de Economía, y
 
 XI. Las demás que le confiera esta ley y otros ordenamientos.
 
@@ -304,25 +452,27 @@ Las relaciones de trabajo entre la Procuraduría y sus trabajadores se regulará
 
 El personal de la Procuraduría estará incorporado al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 31.
 
-Como auxiliar de las autoridades, funcionará un consejo consultivo para la protección al consumidor cuyas funciones serán:
+Para la elaboración de sus planes y programas de trabajo, la Procuraduría llevará a cabo consultas con representantes de los sectores público, social y privado; con instituciones nacionales de educación superior, así como con organizaciones de consumidores. Asimismo, asesorará a la Secretaría en cuestiones relacionadas con las políticas de protección al consumidor y opinará sobre los proyectos de normas oficiales mexicanas y sobre cualquiera otra medida regulatoria que pueda afectar los derechos de los consumidores.
 
-I. Asesorar a la Secretaría en cuestiones relacionadas con las políticas de protección al consumidor y opinar sobre los proyectos de normas oficiales mexicanas que se pretenden expedir en los supuestos a que se refiere esta ley;
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-II. Opinar sobre problemas específicos relacionados con los intereses del consumidor y dar cuenta de ello a la Secretaría y a la Procuraduría; y
-
-III. Las demás que como órgano consultivo le confiera el acuerdo respectivo del Secretario de Comercio y Fomento Industrial.
-
-El consejo consultivo estará integrado por un representante de la Secretaría, por otro de la Procuraduría, por un representante de las instituciones nacionales de enseñanza superior; hasta tres representantes de los consumidores y hasta tres de los proveedores, designados por acuerdo del Secretario de Comercio y Fomento Industrial, de entre las entidades legalmente reconocidas. El Secretario designará al presidente del consejo.
-
-El consejo podrá invitar a sus sesiones de trabajo a las organizaciones de proveedores y de consumidores, directamente vinculados con el tema de la sesión.
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ### Capítulo III. De la información y publicidad
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 32.
 
-La información o publicidad relativa a bienes o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes y otras descripciones que induzcan o puedan inducir a error o confusión, por su inexactitud.
+La información o publicidad relativa a bienes, productos o servicios que se difundan por cualquier medio o forma, deberán ser veraces, comprobables y exentos de textos, diálogos, sonidos, imágenes, marcas, denominaciones de origen y otras descripciones que induzcan o puedan inducir a error o confusión por engañosas o abusivas.
+
+Para los efectos de esta ley, se entiende por información o publicidad engañosa o abusiva aquella que refiere características o información relacionadas con algún bien, producto o servicio que pudiendo o no ser verdaderas, inducen a error o confusión por la forma inexacta, falsa, exagerada, parcial, artificiosa o tendenciosa en que se presenta.
+
+La información o publicidad que compare productos o servicios, sean de una misma marca o de distinta, no podrá ser engañosa o abusiva en términos de lo dispuesto en el párrafo anterior. La Procuraduría podrá emitir lineamientos para la verificación de dicha información o publicidad a fin de evitar que se induzca a error o confusión al consumidor.
 
 ###### ARTICULO 33.
 
@@ -336,21 +486,33 @@ Los datos que ostenten los productos o sus etiquetas, envases y empaques y la pu
 
 Sin perjuicio de la intervención que otras disposiciones legales asignen a distintas dependencias, la Procuraduría podrá:
 
-I. Ordenar al proveedor que suspenda la publicidad que viole las disposiciones de esta ley;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-II. Ordenar que se realice la publicidad correctiva en la forma en que se estime suficiente; y
+I. Ordenar al proveedor que suspenda la información o publicidad que viole las disposiciones de esta ley y, en su caso, al medio que la difunda;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+II. Ordenar que se corrija la información o publicidad que viole las disposiciones de esta ley en la forma en que se estime suficiente, y
 
 III. Imponer las sanciones que correspondan, en términos de esta ley.
 
-En la imposición de las anteriores sanciones deberá concederse al infractor la garantía de audiencia a que se refiere el artículo 123 de este ordenamiento.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Para los efectos de las fracciones II y III, deberá concederse al infractor la garantía de audiencia a que se refiere el artículo 123 de este ordenamiento.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Cuando la Procuraduría instaure algún procedimiento administrativo relacionado con la veracidad de la información, podrá ordenar al proveedor que en la publicidad o información que se difunda, se indique que la veracidad de la misma no ha sido comprobada ante la autoridad competente.
 
 ###### ARTICULO 36.
 
 Se sancionará a petición de parte interesada, en los términos señalados en esta ley, a quien inserte algún aviso en la prensa o en cualquier otro medio masivo de difusión, dirigido nominativa e indubitablemente a uno o varios consumidores para hacer efectivo un cobro o el cumplimiento de un contrato.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 37.
 
-La falta de veracidad en los informes, instrucciones, datos y condiciones prometidas o sugeridas, además de las sanciones que se apliquen conforme a esta ley, dará lugar al cumplimiento de lo ofrecido o, cuando esto no sea posible, a la reposición de los gastos necesarios que pruebe haber efectuado el adquirente y, en su caso, al pago de daños y perjuicios.
+La falta de veracidad en los informes, instrucciones, datos y condiciones prometidas o sugeridas, además de las sanciones que se apliquen conforme a esta ley, dará lugar al cumplimiento de lo ofrecido o, cuando esto no sea posible, a la reposición de los gastos necesarios que pruebe haber efectuado el adquirente y, en su caso, al pago de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
 ###### ARTICULO 38.
 
@@ -364,9 +526,11 @@ Cuando se expendan al público productos con alguna deficiencia, usados o recons
 
 Las leyendas "garantizado", "garantía" o cualquier otra equivalente, sólo podrán emplearse cuando se indiquen en qué consisten y la forma en que el consumidor puede hacerlas efectivas.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 41.
 
-Cuando se trate de productos o servicios que de conformidad con las disposiciones aplicables, se consideren potencialmente peligrosos para el consumidor o lesivos para el medio ambiente o cuando sea previsible su peligrosidad, el proveedor deberá incluir un instructivo que advierta sobre sus características nocivas y explique con claridad el uso o destino recomendado y los posibles efectos de su uso, aplicación o destino fuera de los lineamientos recomendados. El proveedor responderá de los daños y perjuicios que cause al consumidor la violación de esta disposición.
+Cuando se trate de productos o servicios que de conformidad con las disposiciones aplicables, se consideren potencialmente peligrosos para el consumidor o lesivos para el medio ambiente o cuando sea previsible su peligrosidad, el proveedor deberá incluir un instructivo que advierta sobre sus características nocivas y explique con claridad el uso o destino recomendado y los posibles efectos de su uso, aplicación o destino fuera de los lineamientos recomendados. El proveedor responderá de los daños y perjuicios que cause al consumidor la violación de esta disposición, sin perjuicio de lo dispuesto en el artículo 92 TER de esta ley.
 
 ###### ARTICULO 42.
 
@@ -376,11 +540,19 @@ El proveedor está obligado a entregar el bien o suministrar el servicio de acue
 
 Salvo cuando medie mandato judicial o disposición jurídica que exija el cumplimiento de algún requisito, ni el proveedor ni sus dependientes podrán negar al consumidor la venta, adquisición, renta o suministro de bienes o servicios que se tengan en existencia. Tampoco podrá condicionarse la venta, adquisición o renta a la adquisición o renta de otro producto o prestación de un servicio. Se presume la existencia de productos o servicios cuando éstos se anuncien como disponibles.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Tratándose de servicios, los proveedores que ofrezcan diversos planes y modalidades de comercialización, deberán informar al consumidor sobre las características, condiciones y costo total de cada uno de ellos. En el caso de que únicamente adopten un plan específico de comercialización de servicios, tales como paquetes o sistemas todo incluido, deberán informar a los consumidores con oportunidad y en su publicidad, lo que incluyen tales planes y que no disponen de otros.
+
 Tratándose de contratos de tracto sucesivo, el proveedor podrá realizar una investigación de crédito para asegurarse que el consumidor está en condiciones de cumplirlo; igualmente, no se considerará que se viola esta disposición cuando haya un mayor número de solicitantes que el de bienes o servicios disponibles.
 
 ###### ARTICULO 44.
 
 La Procuraduría podrá hacer referencia a productos, marcas, servicios o empresas en forma específica, como resultado de investigaciones permanentes, técnicas y objetivas, a efecto de orientar y proteger el interés de los consumidores y publicar periódicamente dichos resultados para conocimiento de éstos.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Los resultados de las investigaciones, encuestas y monitoreos publicados por la Procuraduría no podrán ser utilizados por las empresas o proveedores con fines publicitarios o comerciales.
 
 ###### ARTICULO 45.
 
@@ -402,9 +574,11 @@ IV. Bienes o servicios con el incentivo de participar en sorteos, concursos y ot
 
 Por "oferta", "barata", "descuento", "remate" o cualquier otra expresión similar se entiende el ofrecimiento al público de productos o servicios de la misma calidad a precios rebajados o inferiores a los normales del establecimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 47.
 
-No se necesitará autorización para llevar a cabo promociones, excepto cuando así lo dispongan las normas oficiales mexicanas, en los casos en que se lesionen o se pueden lesionar los intereses de los consumidores.
+No se necesitará autorización ni aviso para llevar a cabo promociones, excepto cuando así lo dispongan las normas oficiales mexicanas, en los casos en que se lesionen o se puedan lesionar los intereses de los consumidores.
 
 No podrán imponerse restricciones a la actividad comercial en adición a las señaladas en esta ley, ni favorecer específicamente las promociones u ofertas de proveedores determinados.
 
@@ -412,17 +586,23 @@ No podrán imponerse restricciones a la actividad comercial en adición a las se
 
 En las promociones y ofertas se observarán las siguientes reglas:
 
-I. En los anuncios respectivos deberán indicarse las condiciones, así como el plazo de duración o el volumen de los bienes o servicios ofrecidos. Si no se fija plazo ni volumen, se presume que son indefinidos hasta que se haga del conocimiento público la revocación de la oferta, de modo suficiente y por los mismos medios de difusión; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+I. En los anuncios respectivos deberán indicarse las condiciones, así como el plazo de duración o el volumen de los bienes o servicios ofrecidos; dicho volumen deberá acreditarse a solicitud de la autoridad. Si no se fija plazo ni volumen, se presume que son indefinidos hasta que se haga del conocimiento público la revocación de la promoción o de la oferta, de modo suficiente y por los mismos medios de difusión, y
 
 II. Todo consumidor que reúna los requisitos respectivos tendrá derecho a la adquisición, durante el plazo previamente determinado o en tanto exista disponibilidad, de los bienes o servicios de que se trate.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 49.
 
-No se podrán realizar promociones en las que se anuncie un valor monetario para el bien o servicio sorteado, notoriamente superior al normalmente disponible en el mercado.
+No se podrán realizar promociones en las que se anuncie un valor monetario para el bien, producto o servicio ofrecido, notoriamente superior al normalmente disponible en el mercado.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 50.
 
-Si el autor de la promoción u oferta no cumple su ofrecimiento, el consumidor podrá optar por exigir el cumplimiento, aceptar otro bien o servicio equivalente o la rescisión del contrato y, en todo caso, tendrá derecho al pago de daños y perjuicios, los cuales no podrán ser inferiores a la diferencia económica entre el precio al que se ofrezca el bien o servicio objeto de la promoción u oferta y su precio normal.
+Si el autor de la promoción u oferta no cumple su ofrecimiento, el consumidor podrá optar por exigir el cumplimiento, aceptar otro bien o servicio equivalente o la rescisión del contrato y, en todo caso, tendrá derecho al pago de la diferencia económica entre el precio al que se ofrezca el bien o servicio objeto de la promoción u oferta y su precio normal, sin perjuicio de la bonificación o compensación a que se refiere el artículo 92 TER de esta ley.
 
 ### Capítulo V. De las ventas a domicilio, mediatas o indirectas
 
@@ -460,9 +640,11 @@ Cuando el cobro o cargo por un bien o servicio se haga en forma automática al r
 
 Los proveedores deberán mantener registros e informar al consumidor todo lo necesario para que pueda identificar individualmente la transacción y cerciorarse de la identidad del consumidor.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 56.
 
-El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá la facultad de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
+El contrato se perfeccionará a los cinco días hábiles contados a partir de la entrega del bien o de la firma del contrato, lo último que suceda. Durante ese lapso, el consumidor tendrá la facultad de revocar su consentimiento sin responsabilidad alguna. La revocación deberá hacerse mediante aviso o mediante entrega del bien en forma personal, por correo registrado, o por otro medio fehaciente. La revocación hecha conforme a este artículo deja sin efecto la operación, debiendo el proveedor reintegrar al consumidor el precio pagado. En este caso, los costos de flete y seguro correrán a cargo del consumidor. Tratándose de servicios, lo anterior no será aplicable si la fecha de prestación del servicio se encuentra a diez días hábiles o menos de la fecha de la orden de compra.
 
 ### Capítulo VI. De los servicios
 
@@ -470,11 +652,17 @@ El contrato se perfeccionará a los cinco días hábiles contados a partir de la
 
 En todo establecimiento de prestación de servicios, deberá exhibirse a la vista del público la tarifa de los principales servicios ofrecidos, con caracteres claramente legibles. Las tarifas de los demás, en todo caso, deberán estar disponibles al público.
 
-> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
+> <small>(ADICIONADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 58.
 
-Los proveedores de bienes y servicios que ofrezcan éstos al público en general, no podrán establecer preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como selección de clientela, reserva del derecho de admisión, exclusión a personas con discapacidad y otras prácticas similares, salvo por causas que afecten la seguridad o tranquilidad del establecimiento, de sus clientes o de las personas discapacitadas, o se funden en disposiciones expresas de otros ordenamientos legales. Dichos proveedores en ningún caso podrán aplicar o cobrar tarifas superiores a las autorizadas o registradas para la clientela en general, ni tampoco cuotas extraordinarias o compensatorias a las personas con discapacidad por sus implementos médicos, ortopédicos, tecnológicos, educativos o deportivos necesarios para su uso personal, incluyéndose el perro guía en el caso de invidentes.
+El proveedor de bienes, productos o servicios no podrá negarlos o condicionarlos al consumidor por razones de género, nacionalidad, étnicas, preferencia sexual, religiosas o cualquiera otra particularidad.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Los proveedores de bienes y servicios que ofrezcan éstos al público en general, no podrán establecer preferencias o discriminación alguna respecto a los solicitantes del servicio, tales como selección de clientela, condicionamiento del consumo, reserva del derecho de admisión, exclusión a personas con discapacidad y otras prácticas similares, salvo por causas que afecten la seguridad o tranquilidad del establecimiento, de sus clientes o de las personas discapacitadas, o se funden en disposiciones expresas de otros ordenamientos legales. Dichos proveedores en ningún caso podrán aplicar o cobrar tarifas superiores a las autorizadas o registradas para la clientela en general, ni ofrecer o aplicar descuentos en forma parcial o discriminatoria. Tampoco podrán aplicar o cobrar cuotas extraordinarias o compensatorias a las personas con discapacidad por sus implementos médicos, ortopédicos, tecnológicos, educativos o deportivos necesarios para su uso personal, incluyéndose el perro guía en el caso de invidentes.
+
+> <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 1994)</small>
 
 Los proveedores están obligados a dar las facilidades o contar con los dispositivos indispensables para que las personas con discapacidad puedan utilizar los bienes o servicios que ofrecen. Dichas facilidades y dispositivos no pueden ser inferiores a los que determinen las disposiciones legales o normas oficiales aplicables, ni tampoco podrá el proveedor establecer condiciones o limitaciones que reduzcan los derechos que legalmente correspondan al discapacitado como consumidor.
 
@@ -482,29 +670,113 @@ Los proveedores están obligados a dar las facilidades o contar con los disposit
 
 Antes de la prestación de un servicio, el proveedor deberá presentar presupuesto por escrito. En caso de reparaciones, el presupuesto deberá describir las características del servicio, el costo de refacciones y mano de obra, así como su vigencia, independientemente de que se estipulen mecanismos de variación de rubros específicos por estar sus cotizaciones fuera del control del proveedor.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 60.
 
-Las personas dedicadas a la reparación de toda clase de productos deberán emplear partes y refacciones nuevas y apropiadas para el producto de que se trate, salvo que el solicitante del servicio autorice expresamente que se utilicen otras. Cuando las refacciones o partes estén sujetas a normas de cumplimiento obligatorio, el uso de refacciones o partes que no cumplan con los requisitos da al consumidor el derecho a exigir los gastos necesarios que pruebe haber efectuado y, en su caso, al pago de daños y perjuicios.
+Las personas dedicadas a la reparación de toda clase de productos deberán emplear partes y refacciones nuevas y apropiadas para el producto de que se trate, salvo que el solicitante del servicio autorice expresamente que se utilicen otras. Cuando las refacciones o partes estén sujetas a normas de cumplimiento obligatorio, el uso de refacciones o partes que no cumplan con los requisitos da al consumidor el derecho a exigir los gastos necesarios que pruebe haber efectuado y, en su caso, a la bonificación a que se refiere el artículo 92 TER de esta ley.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 61.
 
-Los prestadores de servicios de mantenimiento o reparación deberán indemnizar al consumidor si por deficiencia del servicio el bien se pierde o sufre tal deterioro que resulte total o parcialmente inapropiado para el uso a que esté destinado. El derecho a la indemnización no podrá ser suprimido o limitado por pacto entre las partes.
+Los prestadores de servicios de mantenimiento o reparación deberán bonificar al consumidor en términos del artículo 92 TER si por deficiencia del servicio el bien se pierde o sufre tal deterioro que resulte total o parcialmente inapropiado para el uso a que esté destinado.
 
 ###### ARTICULO 62.
 
 Los prestadores de servicios tendrán obligación de expedir factura o comprobante de los trabajos efectuados, en los que deberán especificarse las partes, refacciones y materiales empleados; el precio de ellos y de la mano de obra; la garantía que en su caso se haya otorgado y los demás requisitos señalados en esta ley.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 63.
 
-Los sistemas de comercialización consistentes en la integración de grupos de consumidores que aportan periódicamente sumas de dinero para ser administradas por un tercero, destinadas a la adquisición de determinados bienes y servicios, sólo podrán ponerse en práctica previa notificación a la Secretaría y se cumplan los requisitos que fije el reglamento. Con excepción de lo dispuesto en la fracción III del artículo 103 de la Ley de Instituciones de Crédito.
+Los sistemas de comercialización consistentes en la integración de grupos de consumidores que aportan periódicamente sumas de dinero para ser administradas por un tercero, únicamente podrán operar para efectos de adquisición de bienes determinados o determinables, sean muebles nuevos o inmuebles destinados a la habitación o a su uso como locales comerciales, en los términos que señale el reglamento respectivo, y sólo podrán ponerse en práctica previa autorización de la Secretaría.
+
+La Secretaría podrá autorizar, en su caso, que estos sistemas de comercialización tengan por objeto los servicios de construcción, remodelación y ampliación de inmuebles, cuando se demuestre que las condiciones del mercado así lo ameriten y que se garanticen los derechos e intereses de los consumidores. Tratándose de esta autorización, no operará la afirmativa ficta.
+
+El plazo de operación de los sistemas de comercialización no podrá ser mayor a cinco años para bienes muebles y de quince años para bienes inmuebles.
+
+La Secretaría otorgará la autorización para la operación de los referidos sistemas de comercialización, que en todos los casos será intransmisible, cuando se cumplan con los siguientes requisitos:
+
+I. Que el solicitante sea una persona moral mexicana constituida como sociedad anónima de conformidad con la legislación aplicable, y que tenga por objeto social únicamente la operación y administración de sistemas de comercialización a que se refiere el presente artículo; así como las actividades necesarias para su adecuado desempeño;
+
+II. Que el solicitante acredite su capacidad administrativa, además de la viabilidad económica, financiera y operativa del sistema, en términos de los criterios que fije la Secretaría;
+
+III. Que el o los contratos de adhesión que pretenda utilizar el solicitante contengan disposiciones que salvaguarden los derechos de los consumidores, en los términos de esta ley y del reglamento correspondiente;
+
+IV. Que el solicitante presente a la Secretaría un plan general de funcionamiento del sistema y un proyecto de manual que detalle los procedimientos de operación del sistema, a efecto de que dicha dependencia cuente con los elementos suficientes para otorgar, en su caso, la autorización;
+
+V. Que el solicitante presente mecanismos para el cumplimiento de sus obligaciones como administrador del sistema respecto de la operación de cada grupo, en los términos que prevea el reglamento, y
+
+VI. Los demás que determine el reglamento.
+
+Una vez que el solicitante obtenga la autorización a que se refiere este precepto, y antes de comenzar a operar el o los sistemas de comercialización de que se trate, deberá solicitar el registro del o los contratos de adhesión correspondientes ante la Procuraduría Federal del Consumidor.
+
+El reglamento detallará y precisará aspectos tales como características de los bienes y servicios que puedan ser objeto de los referidos sistemas de comercialización; el contenido mínimo de contratos de adhesión; características, constitución y, en su caso, autorización y liquidación de grupos de consumidores; plazos de operación de los sistemas; determinación de aportaciones y tipos de cuotas y cuentas; adjudicaciones y asignaciones; gastos de administración, costos, penas convencionales, devoluciones e intereses que deben cubrir los consumidores; manejo de los recursos por parte de los mencionados proveedores; rescisión y cancelación de contratos; constitución de garantías, seguros y cobranza; revisión o supervisión de la operación de los mencionados sistemas por parte de terceros especialistas o auditores externos; características de la información que los proveedores deban proporcionar al consumidor, a las autoridades competentes y a los auditores externos; y criterios sobre la publicidad dirigida a los consumidores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 63 BIS.- En la operación de los sistemas de comercialización a que se refiere el artículo anterior, queda prohibida la comercialización de bienes que no estén determinados o no sean determinables; la constitución de grupos cuyos contratos de adhesión no venzan en la misma fecha; considerando como fecha de vencimiento a la de liquidación del grupo de que se trate; la constitución de grupos en los que se comercialicen bienes distintos o destinados a un uso diferente; la transferencia de recursos o financiamiento de cualquier tipo, ya sea de un grupo de consumidores a otro, o a terceros; la fusión de grupos de consumidores y la reubicación de consumidores de un grupo a otro; así como cualquier otro acto que contravenga lo dispuesto en esta ley y el reglamento respectivo, o que pretenda eludir su cumplimiento.
+
+Cualquier cantidad que deba ser cubierta por los consumidores, deberá estar plenamente identificada y relacionada con el concepto que le haya dado origen, debiendo destinarse exclusivamente al pago de los conceptos que correspondan, conforme a lo dispuesto en el propio reglamento.
+
+No podrán participar en la administración, dirección y control de sociedades que administren los sistemas de comercialización:
+
+I. Las personas que tengan litigio civil o mercantil en contra del proveedor de que se trate;
+
+II. Las personas condenadas mediante sentencia ejecutoriada por delito intencional que merezca pena corporal, o que estén inhabilitadas para desempeñar empleo, cargo o comisión en el sistema financiero;
+
+III. Los quebrados y concursados que no hubieren sido rehabilitados, y
+
+IV. Los terceros especialistas o auditores externos y las personas que realicen funciones de dictaminación, de inspección o vigilancia de los proveedores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 63 TER.- Las sociedades que administren los sistemas de comercialización a que se refiere el artículo 63, tendrán el carácter de proveedores en términos de lo dispuesto por el artículo 2 de esta ley. El proveedor será responsable de que el consumidor reciba el bien contratado en el plazo y conforme a las condiciones establecidas en el contrato de adhesión respectivo, debiendo responder del incumplimiento de cualquier cláusula contractual. El proveedor no podrá cobrar al consumidor penalización alguna si éste se retira del grupo por cualquier incumplimiento imputable a aquél.
+
+La Procuraduría podrá determinar que uno o varios proveedores suspendan de manera temporal la celebración de nuevos contratos con los consumidores, cuando el o los proveedores hubieren incurrido de manera grave o reiterada en violaciones a las disposiciones que correspondan, sin perjuicio de las sanciones que resulten aplicables. No obstante lo anterior, durante el tiempo en que subsista la suspensión mencionada, el o los proveedores deberán continuar operando los sistemas de comercialización cumpliendo las obligaciones asumidas con los consumidores, de conformidad con las disposiciones respectivas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 63 QUATER.- Serán causas de revocación de la autorización otorgada al proveedor, las siguientes:
+
+I. No iniciar operaciones dentro del plazo de seis meses a partir del otorgamiento de la autorización correspondiente, o la suspensión de operaciones sin causa justificada por un periodo superior a seis meses;
+
+II. La realización de actividades contrarias a la ley, al reglamento y a las demás disposiciones aplicables, así como la no observancia de las condiciones conforme a las cuales se haya otorgado la autorización;
+
+III. La omisión de la presentación de información que le requieran la Secretaría, la Procuraduría o los auditores que correspondan, o que la que presenten sea falsa, imprecisa o incompleta;
+
+IV. El indebido o inoportuno registro contable de las operaciones que haya efectuado el proveedor respecto de cada uno de los grupos constituidos, o por incumplimiento de sus obligaciones fiscales;
+
+V. La pérdida de la capacidad administrativa del proveedor para cumplir con sus obligaciones, así como por la pérdida de la viabilidad económica, financiera y operativa del sistema, y
+
+VI. Por cambio de objeto social, liquidación, concurso mercantil o disolución del proveedor.
+
+Cuando la Procuraduría detecte que el proveedor ha incurrido en alguna de las causas de revocación previstas en este artículo, lo hará del conocimiento de la Secretaría.
+
+Para los efectos de lo dispuesto por este precepto, la Secretaría notificará al proveedor la causal de revocación en la que éste hubiere incurrido, a fin de que éste manifieste lo que a su derecho convenga, en un plazo de cinco días hábiles. En caso de que la resolución definitiva que se emita determine la revocación de la autorización, el proveedor pondrá a la sociedad correspondiente en estado de disolución y liquidación sin necesidad de acuerdo de la asamblea de accionistas.
+
+Salvo por lo previsto en el presente ordenamiento, la disolución y liquidación de la sociedad deberán realizarse de conformidad con lo dispuesto en la Ley General de Sociedades Mercantiles.
+
+En el caso de decretarse la revocación a que se refiere este artículo, el proveedor deberá establecer los mecanismos y procedimientos que le permitan llevar a cabo la liquidación de los grupos existentes, así como cumplir con las obligaciones contraídas con los consumidores.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 63 QUINTUS.- La Secretaría y la Procuraduría, en el ámbito de sus competencias, verificarán el cumplimiento de esta ley, del reglamento y de las demás disposiciones aplicables. Asimismo, supervisarán la operación de los sistemas de comercialización a que se refiere este precepto, pudiendo requerir para ello información y documentación a los proveedores, así como establecer las medidas preventivas y correctivas que correspondan. De igual manera, supervisarán el proceso de liquidación de grupos a que se refiere el artículo anterior, salvaguardando, en el ámbito de su competencia, los intereses de los consumidores.
+
+Los proveedores estarán obligados a contratar terceros especialistas o auditores externos para efecto de revisar el funcionamiento de los sistemas respectivos. Dichos especialistas o auditores externos deberán contar con la autorización de la Secretaría en los términos que señale el reglamento y su actividad estará sujeta a las reglas que este último contenga. Los especialistas o auditores externos deberán entregar a la Secretaría y a la Procuraduría la información que éstas les requieran.
+
+La Procuraduría podrá sancionar a los especialistas o auditores externos que no cumplan con las obligaciones que les fije el reglamento, conforme a lo dispuesto en el artículo 128 de esta ley, sin perjuicio de las demás acciones legales que correspondan. Asimismo, la Procuraduría podrá solicitar a la Secretaría la revocación de la autorización que ésta les hubiere otorgado.
 
 ###### ARTICULO 64.
 
 La prestación del servicio de tiempo compartido, independientemente del nombre o de la forma que se dé al acto jurídico correspondiente, consiste en poner a disposición de una persona o grupo de personas, el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, en una unidad variable dentro de una clase determinada, por períodos previamente convenidos, mediante el pago de alguna cantidad, sin que, en el caso de inmuebles, se transmita el dominio de éstos.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 65.
 
-La venta o la preventa de un servicio de tiempo compartido sólo podrá iniciarse previa notificación a la Secretaría y el contrato correspondiente especifique:
+La venta o preventa de un servicio de tiempo compartido sólo podrá iniciarse cuando el contrato respectivo esté registrado en la Procuraduría y cuando especifique:
 
 I. Nombre y domicilio del proveedor;
 
@@ -528,9 +800,17 @@ I. Informar al consumidor previamente sobre el precio de contado del bien o serv
 
 II. En caso de existir descuentos, bonificaciones o cualquier otro motivo por el cual sean diferentes los pagos a crédito y de contado, dicha diferencia deberá señalarse al consumidor. De utilizarse una tasa fija, también se informará al consumidor el monto de los intereses a pagar en cada período. De utilizarse una tasa variable, se informará al consumidor sobre la regla de ajuste de la tasa, la cual no podrá depender de decisiones unilaterales del proveedor sino de las variaciones que registre una tasa de interés representativa del costo del crédito al consumidor, la cual deberá ser fácilmente verificable por el consumidor;
 
-III. Expresar el precio al público del bien o servicio el cual será independiente de los intereses y cargos correspondientes; y
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-IV. Respetarse el precio que se haya pactado originalmente en operaciones a plazo o con reserva de dominio, salvo lo dispuesto en otras leyes o convenio en contrario.
+III. Informar al consumidor el monto total a pagar por el bien, producto o servicio de que se trate, que incluya, en su caso, número y monto de pagos individuales, los intereses, comisiones y cargos correspondientes, incluidos los fijados por pagos anticipados o por cancelación; proporcionándole debidamente desglosados los conceptos correspondientes;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Respetarse el precio que se haya pactado originalmente en operaciones a plazo o con reserva de dominio, salvo lo dispuesto en otras leyes o convenio en contrario, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+V. En caso de haberse efectuado la operación, el proveedor deberá enviar al consumidor al menos un estado de cuenta bimestral, por el medio que éste elija, que contenga la información relativa a cargos, pagos, intereses y comisiones, entre otros rubros.
 
 ###### ARTICULO 67.
 
@@ -560,19 +840,91 @@ Cualquier cargo que se prevea hacer por motivo de la expedición de un crédito 
 
 ### Capítulo VIII. De las operaciones con inmuebles
 
-> <small>(REFORMADO, D.O.F. 21 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 73.
 
-Los actos relacionados con inmuebles sólo estarán sujetos a esta Ley cuando los proveedores sean fraccionadores o constructores de viviendas destinadas a casa habitación para venta al público o cuando otorguen al consumidor el derecho a usar inmuebles mediante el sistema de tiempo compartido, en los términos de los artículos 64 y 65 de la presente Ley.
+Los actos relacionados con inmuebles sólo estarán sujetos a esta ley, cuando los proveedores sean fraccionadores, constructores, promotores y demás personas que intervengan en la asesoría y venta al público de viviendas destinadas a casa habitación o cuando otorguen al consumidor el derecho de usar inmuebles mediante el sistema de tiempo compartido, en los términos de los artículos 64 y 65 de la presente ley.
+
+Los contratos relacionados con las actividades a que se refiere el párrafo anterior, deberán registrarse ante la Procuraduría.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 73 BIS.- Tratándose de los actos relacionados con inmuebles a que se refiere el artículo anterior, el proveedor deberá poner a disposición del consumidor al menos lo siguiente:
+
+I. En caso de preventa, el proveedor deberá exhibir el proyecto ejecutivo de construcción completo, así como la maqueta respectiva y, en su caso, el inmueble muestra;
+
+II. Los documentos que acrediten la propiedad del inmueble. Asimismo, deberá informar sobre la existencia de gravámenes que afecten la propiedad del mismo, los cuales deberán quedar cancelados al momento de la firma de la escritura correspondiente;
+
+III. La personalidad del vendedor y la autorización del proveedor para promover la venta;
+
+IV. Información sobre las condiciones en que se encuentre el pago de contribuciones y servicios públicos;
+
+V. Para el caso de inmuebles nuevos o preventas, las autorizaciones, licencias o permisos expedidos por las autoridades correspondientes para la construcción, relativas a las especificaciones técnicas, seguridad, uso de suelo, la clase de materiales utilizados en la construcción; servicios básicos con que cuenta, así como todos aquellos con los que debe contar de conformidad con la legislación aplicable. En el caso de inmuebles usados que no cuenten con dicha documentación, se deberá indicar expresamente en el contrato la carencia de éstos;
+
+VI. Los planos estructurales, arquitectónicos y de instalaciones o, en su defecto, un dictamen de las condiciones estructurales del inmueble. En su caso, señalar expresamente las causas por las que no cuenta con ellos así como el plazo en el que tendrá dicha documentación;
+
+VII. Información sobre las características del inmueble, como son la extensión del terreno, superficie construida, tipo de estructura, instalaciones, acabados, accesorios, lugar o lugares de estacionamiento, áreas de uso común con otros inmuebles, porcentaje de indiviso en su caso, servicios con que cuenta y estado físico general del inmueble;
+
+VIII. Información sobre los beneficios que en forma adicional ofrezca el proveedor en caso de concretar la operación, tales como acabados especiales, encortinados, azulejos y cocina integral, entre otros;
+
+IX. Las opciones de pago que puede elegir el consumidor, especificando el monto total a pagar en cada una de las opciones;
+
+X. En caso de operaciones a crédito, el señalamiento del tipo de crédito de que se trata, así como una proyección del monto a pagar que incluya, en su caso, la tasa de interés que se va a utilizar, comisiones y cargos. En el caso de la tasa variable, deberá precisarse la tasa de interés de referencia y la fórmula para el cálculo de dicha tasa.
+
+De ser el caso, los mecanismos para la modificación o renegociación de las opciones de pago, las condiciones bajo las cuales se realizaría y las implicaciones económicas, tanto para el proveedor como para el consumidor;
+
+XI. Las condiciones bajo las cuales se llevará a cabo el proceso de escrituración, así como las erogaciones distintas del precio de la venta que deba realizar el consumidor, tales como gastos de escrituración, impuestos, avalúo, administración, apertura de crédito y gastos de investigación. De ser el caso, los costos por los accesorios o complementos;
+
+XII. Las condiciones bajo las cuales el consumidor puede cancelar la operación, y
+
+XIII. Se deberá indicar al consumidor sobre la existencia y constitución de garantía hipotecaria, fiduciaria o de cualquier otro tipo, así como su instrumentación.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 73 TER.- El contrato que se pretenda registrar en los términos del párrafo segundo del artículo 73, deberá cumplir al menos, con los siguientes requisitos:
+
+I. Lugar y fecha de celebración del contrato;
+
+II. Estar escrito en idioma español, sin perjuicio de que puedan ser expresados, además, en otro idioma. En caso de diferencias en el texto o redacción, se estará a lo manifestado en el idioma español;
+
+III. Nombre, denominación o razón social, domicilio y registro federal de contribuyentes del proveedor, de conformidad con los ordenamientos legales sobre la materia;
+
+IV. Nombre, domicilio y, en su caso, registro federal de contribuyentes del consumidor;
+
+V. Precisar las cantidades de dinero en moneda nacional, sin perjuicio de que puedan ser expresadas también en moneda extranjera; en el caso de que las partes no acuerden un tipo de cambio determinado, se estará al tipo de cambio que rija en el lugar y fecha en que se realice el pago, de conformidad con la legislación aplicable;
+
+VI. Descripción del objeto del contrato;
+
+VII. El precio total de la operación, la forma de pago, así como las erogaciones adicionales que deberán cubrir las partes;
+
+VIII. Relación de los derechos y obligaciones, tanto del proveedor como del consumidor;
+
+IX. Las penas convencionales que se apliquen tanto al proveedor como al consumidor por el incumplimiento de las obligaciones contraídas, las cuales deberán ser recíprocas y equivalentes, sin perjuicio de lo dispuesto por los ordenamientos legales aplicables;
+
+X. En su caso, las garantías para el cumplimiento del contrato, así como los gastos reembolsables y forma para su aplicación;
+
+XI. El procedimiento para la cancelación del contrato de adhesión y las implicaciones que se deriven para el proveedor y el consumidor;
+
+XII. Fecha de inicio y término de ejecución de la actividad o servicio contratado, así como la de la entrega del bien objeto del contrato;
+
+XIII. En los casos de operaciones de compraventa de inmuebles, el proveedor deberá precisar en el contrato, las características técnicas y de materiales de la estructura, de las instalaciones y acabados.
+
+De igual manera, deberá señalarse que el inmueble cuenta con la infraestructura para el adecuado funcionamiento de sus servicios básicos;
+
+XIV. En el caso de operaciones de compraventa, deberán señalarse los términos bajo los cuales habrá de otorgarse su escrituración. El proveedor en su caso, deberá indicar que el bien inmueble deberá estar libre de gravámenes a la firma de la escritura correspondiente, y
+
+XV. Las demás que se exijan conforme a la presente ley para el caso de los contratos de adhesión.
 
 ###### ARTICULO 74.
 
 Los proveedores deberán efectuar la entrega física o real del bien materia de la transacción en el plazo pactado con el consumidor y de acuerdo con las especificaciones previamente establecidas u ofrecidas.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 75.
 
-En los contratos de adhesión relacionados con inmuebles se estipulará la información requerida en el capítulo VII, fecha de entrega, especificaciones, plazos y demás elementos que individualicen el bien. Los proveedores no podrán recibir pago alguno hasta que conste por escrito la relación contractual, excepto el relativo a gastos de investigación.
+En los contratos de adhesión relacionados con inmuebles se estipulará la información requerida en el Capítulo VII, fecha de entrega, especificaciones, plazos y demás elementos que individualicen el bien, así como la información requerida en el artículo 73 TER. Los proveedores no podrán recibir pago alguno hasta que conste por escrito la relación contractual, excepto el relativo a gastos de investigación.
 
 ###### ARTICULO 76.
 
@@ -598,13 +950,19 @@ V. El consumidor tendrá derecho a conocer toda la información sobre los térmi
 
 VI. El proveedor respetará la decisión del consumidor en cuanto a la cantidad y calidad de los productos que desea recibir, así como la de no recibir avisos comerciales, y
 
-VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, y cuidará las prácticas de mercadotecnia dirigidas a población vulnerable, como niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+VII. El proveedor deberá abstenerse de utilizar estrategias de venta o publicitarias que no proporcionen al consumidor información clara y suficiente sobre los servicios ofrecidos, en especial tratándose de prácticas de mercadotecnia dirigidas a la población vulnerable, como los niños, ancianos y enfermos, incorporando mecanismos que adviertan cuando la información no sea apta para esa población.
 
 ### Capítulo IX. De las garantías
 
 ###### ARTICULO 77.
 
 Todo bien o servicio que se ofrezca con garantía deberá sujetarse a lo dispuesto por esta ley y a lo pactado entre proveedores y consumidor.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Para los efectos del párrafo anterior la garantía no podrá ser inferior a sesenta días contados a partir de la entrega del bien o la prestación total del servicio.
 
 ###### ARTICULO 78.
 
@@ -614,7 +972,9 @@ La póliza de garantía deberá expedirse por el proveedor por escrito, de maner
 
 Las garantías ofrecidas no pueden ser inferiores a las que determinen las disposiciones aplicables ni prescribir condiciones o limitaciones que reduzcan los derechos que legalmente corresponden al consumidor.
 
-El cumplimiento de las garantías es exigible, indistintamente, al productor y al importador del bien o servicio, así como al distribuidor, salvo en los casos en que alguno de ellos o algún tercero asuma por escrito la obligación. El cumplimiento de las garantías deberá realizarse en el domicilio en que haya sido adquirido o contratado el bien o servicio, o en el lugar o lugares que exprese la propia póliza. El proveedor deberá cubrir al consumidor los gastos razonablemente erogados para lograr el cumplimiento de la garantía en domicilio diverso al antes señalado.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+El cumplimiento de las garantías es exigible, indistintamente, al productor y al importador del bien o servicio, así como al distribuidor, salvo en los casos en que alguno de ellos o algún tercero asuma por escrito la obligación. El cumplimiento de las garantías deberá realizarse en el domicilio en que haya sido adquirido o contratado el bien o servicio, o en el lugar o lugares que exprese la propia póliza. El proveedor deberá cubrir al consumidor los gastos necesarios erogados para lograr el cumplimiento de la garantía en domicilio diverso al antes señalado.
 
 ###### ARTICULO 80.
 
@@ -626,9 +986,15 @@ Mediante normas oficiales mexicanas la Secretaría podrá disponer que determina
 
 En caso de que el producto haya sido reparado o sometido a mantenimiento y el mismo presente deficiencias imputables al autor de la reparación o del mantenimiento dentro de los treinta días naturales posteriores a la entrega del producto al consumidor, éste tendrá derecho a que sea reparado o mantenido de nuevo sin costo alguno. Si el plazo de la garantía es superior a los treinta días naturales, se estará a dicho plazo.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 82.
 
-El consumidor puede optar por pedir la rescisión o la reducción del precio, y en cualquier caso, la indemnización por daños y perjuicios, cuando la cosa u objeto del contrato tenga defectos o vicios ocultos que la hagan impropia para los usos a que habitualmente se destine o que disminuyan su calidad o la posibilidad de su uso. Cuando el consumidor opte por la rescisión, el proveedor tiene la obligación de reintegrar el precio pagado.
+El consumidor puede optar por pedir la restitución del bien o servicio, la rescisión del contrato o la reducción del precio, y en cualquier caso, la bonificación o compensación, cuando la cosa u objeto del contrato tenga defectos o vicios ocultos que la hagan impropia para los usos a que habitualmente se destine, que disminuyan su calidad o la posibilidad de su uso, o no ofrezca la seguridad que dada su naturaleza normalmente se espere de ella y de su uso razonable. Cuando el consumidor opte por la rescisión, el proveedor tiene la obligación de reintegrarle el precio pagado y, en su caso, los intereses a que se refiere el segundo párrafo del artículo 91 de esta ley.
+
+La bonificación o compensación a que se refiere el párrafo anterior se determinará conforme a lo dispuesto en el artículo 92 TER de esta ley.
+
+Lo anterior sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
 
 ###### ARTICULO 83.
 
@@ -640,9 +1006,11 @@ Cuando el consumidor acuda a la Procuraduría para hacer valer sus derechos fuer
 
 ### Capítulo X. De los contratos de adhesión
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 85.
 
-Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aún cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista.
+Para los efectos de esta ley, se entiende por contrato de adhesión el documento elaborado unilateralmente por el proveedor, para establecer en formatos uniformes los términos y condiciones aplicables a la adquisición de un producto o la prestación de un servicio, aun cuando dicho documento no contenga todas las cláusulas ordinarias de un contrato. Todo contrato de adhesión celebrado en territorio nacional, para su validez, deberá estar escrito en idioma español y sus caracteres tendrán que ser legibles a simple vista. Además, no podrá implicar prestaciones desproporcionadas a cargo de los consumidores, obligaciones inequitativas o abusivas, o cualquier otra cláusula o texto que viole las disposiciones de esta ley.
 
 ###### ARTICULO 86.
 
@@ -650,11 +1018,15 @@ La Secretaría, mediante normas oficiales mexicanas podrá sujetar contratos de 
 
 Las normas podrán referirse a cualesquiera términos y condiciones, excepto precio.
 
-> <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-ARTICULO 86 BIS.- En los contratos de adhesión de prestación de servicios deben incluirse por escrito en caso de existir, los servicios adicionales, especiales o conexos que pueda solicitar el consumidor de forma opcional por conducto y medio del servicio básico.
+Los contratos de adhesión sujetos a registro deberán contener una cláusula en la que se determine que la Procuraduría será competente en la vía administrativa para resolver cualquier controversia que se suscite sobre la interpretación o cumplimiento de los mismos. Asimismo, deberán señalar el número de registro otorgado por la Procuraduría.
 
-Si el consumidor omitiera solicitar alguno de estos servicios, se entenderá que no podrá hacerlo, a menos que con posterioridad, exista una solicitud específica por escrito.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 86 BIS.- En los contratos de adhesión de prestación de servicios deben incluirse por escrito o por vía electrónica los servicios adicionales, especiales, o conexos, que pueda solicitar el consumidor de forma opcional por conducto y medio del servicio básico.
+
+El proveedor sólo podrá prestar un servicio adicional o conexo no previsto en el contrato original si cuenta con el consentimiento expreso del consumidor, ya sea por escrito o por vía electrónica.
 
 > <small>(ADICIONADO, D.O.F. 5 DE JUNIO DE 2000)</small>
 
@@ -674,9 +1046,23 @@ El consumidor gozará de las anteriores prerrogativas aun cuando no hubieren sid
 
 ARTICULO 86 QUATER.- Cualquier diferencia entre el texto del contrato de adhesión registrado ante la Procuraduría Federal del Consumidor y el utilizado en perjuicio de los consumidores, se tendrá por no puesta.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 87.
 
-En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
+En caso de que los contratos de adhesión requieran de registro previo ante la Procuraduría, los proveedores deberán presentarlos ante la misma antes de su utilización y ésta se limitará a verificar que los modelos se ajusten a lo que disponga la norma correspondiente y a las disposiciones de esta ley, y emitirá su resolución dentro de los treinta días siguientes a la fecha de presentación de la solicitud de registro. Transcurrido dicho plazo sin haberse emitido la resolución correspondiente, los modelos se entenderán aprobados y será obligación de la Procuraduría registrarlos, quedando en su caso como prueba de inscripción la solicitud de registro. Para la modificación de las obligaciones o condiciones de los contratos que requieran de registro previo será indispensable solicitar la modificación del registro ante la Procuraduría, la cual se tramitará en los términos antes señalados.
+
+Los contratos que deban registrarse conforme a esta ley, las normas oficiales mexicanas y demás disposiciones aplicables, y no se registren, así como aquéllos cuyo registro sea negado por la Procuraduría, no producirán efectos contra el consumidor.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 87 BIS.- La Procuraduría podrá publicar en el Diario Oficial de la Federación, el modelo de aquellos contratos que deban ser registrados de conformidad con el artículo 86 de esta ley, a fin de que los proveedores puedan utilizarlos. En tales casos, el proveedor únicamente dará aviso a la Procuraduría sobre la adopción del modelo de contrato para efectos de registro.
+
+Cuando el proveedor haya dado aviso a la Procuraduría para adoptar un contrato conforme al modelo publicado, no podrá modificarlo ni incluir otras cláusulas o excepciones a su aplicación, sin haber cumplido con lo dispuesto en el artículo 87 TER. En caso de no hacerlo, dichas modificaciones, adiciones o excepciones se tendrán por no puestas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 87 TER.- Cuando el contrato de adhesión de un proveedor contenga variaciones respecto del modelo de contrato publicado por la Procuraduría a que se refiere el artículo anterior, el proveedor deberá solicitar su registro en los términos del procedimiento previsto en el artículo 87.
 
 ###### ARTICULO 88.
 
@@ -702,6 +1088,12 @@ V. Prescriban el cumplimiento de ciertas formalidades para la procedencia de las
 
 VI. Obliguen al consumidor a renunciar a la protección de esta ley o lo sometan a la competencia de tribunales extranjeros.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 90 BIS.- Cuando con posterioridad a su registro se aprecie que un contrato contiene cláusulas que sean contrarias a esta ley o a las normas oficiales mexicanas, la Procuraduría, de oficio o a petición de cualquier persona interesada, procederá a la cancelación del registro correspondiente.
+
+En tales casos, la Procuraduría procederá conforme al procedimiento establecido en el artículo 123 de esta ley.
+
 ### Capítulo XI. Del incumplimiento
 
 ###### ARTICULO 91.
@@ -710,43 +1102,119 @@ Los pagos hechos en exceso del precio máximo determinado o, en su caso, estipul
 
 Los intereses se calcularán con base en el costo porcentual promedio de captación que determine el Banco de México, o cualquiera otra tasa que la sustituya oficialmente como indicador del costo de los recursos financieros.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 92.
 
-Los consumidores tendrán derecho a la reposición del producto, a la bonificación, compensación o devolución de la cantidad pagada, a su elección, en los siguientes casos:
+Los consumidores tendrán derecho, a su elección, a la reposición del producto o a la devolución de la cantidad pagada, contra la entrega del producto adquirido, y en todo caso, a una bonificación o compensación, en los siguientes casos:
 
-I. Cuando el contenido neto de un producto o la cantidad entregada sea menor a la indicada en el envase o empaque, considerados los límites de tolerancia permitidos por la normatividad;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-II. Si el bien no corresponde a la calidad, marca, o especificaciones y demás elementos sustanciales bajo los cuales se haya ofrecido; y
+I. Cuando el contenido neto de un producto o la cantidad entregada sea menor a la indicada en el envase, recipiente, empaque o cuando se utilicen instrumentos de medición que no cumplan con las disposiciones aplicables, considerados los límites de tolerancia permitidos por la normatividad;
 
-III. Si el bien reparado no queda en estado adecuado para su uso o destino, dentro del plazo de garantía.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+II. Si el bien no corresponde a la calidad, marca, o especificaciones y demás elementos sustanciales bajo los cuales se haya ofrecido o no cumple con las normas oficiales mexicanas;
+
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Si el bien reparado no queda en estado adecuado para su uso o destino, dentro del plazo de garantía, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. En los demás casos previstos por esta ley.
 
 En los casos de aparatos, unidades y bienes que por sus características ameriten conocimientos técnicos, se estará al juicio de peritos o a la verificación en laboratorios debidamente acreditados.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Si con motivo de la verificación la Procuraduría detecta el incumplimiento de alguno de los supuestos previstos por este precepto, podrá ordenar que se informe a los consumidores sobre las irregularidades detectadas para el efecto de que puedan exigir al proveedor la bonificación o compensación que corresponda, en los términos del artículo 98 BIS.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 92 BIS.- Los consumidores tendrán derecho a la bonificación o compensación cuando la prestación de un servicio sea deficiente, no se preste o proporcione por causas imputables al proveedor, o por los demás casos previstos por la ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 92 TER.- La bonificación o compensación a que se refieren los artículos 92 y 92 BIS no podrá ser menor al veinte por ciento del precio pagado. El pago de dicha bonificación o compensación se efectuará sin perjuicio de la indemnización que en su caso corresponda por daños y perjuicios.
+
+Para la determinación del pago de daños y perjuicios, la autoridad judicial considerará el pago de la bonificación o compensación que en su caso hubiese hecho el proveedor.
+
+La bonificación o compensación que corresponda tratándose del incumplimiento a que se refiere el artículo 92, fracción I, podrá hacerla efectiva el consumidor directamente al proveedor presentando su comprobante o recibo de pago del día en que se hubiere detectado la violación por la Procuraduría, y no podrá ser menor al veinte por ciento del precio pagado.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 93.
 
-La reclamación a que se refiere el artículo anterior podrá presentarse indistintamente al vendedor o al fabricante, a elección del consumidor, dentro de los dos meses siguientes a la fecha en que se haya recibido el producto, siempre que no se hubiese alterado por culpa del consumidor. El proveedor deberá satisfacer la reclamación en un plazo que no excederá de 15 días contados a partir de dicha reclamación. El vendedor o fabricante podrá negarse a satisfacer la reclamación si ésta es extemporánea, cuando el producto haya sido usado en condiciones distintas a las recomendadas o propias de su naturaleza o destino o si ha sufrido un deterioro esencial, irreparable y grave por causas imputables al consumidor.
+La reclamación a que se refiere el artículo 92 podrá presentarse indistintamente al vendedor, al fabricante o importador, a elección del consumidor, dentro de los dos meses siguientes a la fecha en que se haya recibido el producto, siempre que no se hubiese alterado por culpa del consumidor. El proveedor deberá satisfacer la reclamación en un plazo que no excederá de quince días contados a partir de dicha reclamación. El vendedor, fabricante o importador podrá negarse a satisfacer la reclamación si ésta es extemporánea, cuando el producto haya sido usado en condiciones distintas a las recomendadas o propias de su naturaleza o destino o si ha sufrido un deterioro esencial, irreparable y grave por causas imputables al consumidor.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 94.
 
-Las comprobaciones de calidad, especificaciones o cualquier otra característica, se efectuarán conforme a las normas oficiales mexicanas; a falta de éstas, conforme las normas, métodos o procedimientos que determinen la Secretaría o la dependencia competente del Ejecutivo Federal, previa audiencia de los interesados.
+Las comprobaciones de calidad, especificaciones o cualquier otra característica, se efectuarán conforme a las normas oficiales mexicanas; a falta de éstas, conforme las normas mexicanas o a los métodos o procedimientos que determinen la Secretaría o la dependencia competente del Ejecutivo Federal, previa audiencia de los interesados.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 95.
 
-Los productos que hayan sido repuestos por los proveedores o distribuidores, deberán serles repuestos a su vez contra su entrega, por la persona de quien los adquirieron o por el fabricante, quien deberá, en su caso, cubrir el costo de su reparación o el de la devolución, salvo que la causa de la devolución sea imputable al proveedor o distribuidor.
+Los productos que hayan sido repuestos por los proveedores o distribuidores, deberán serles repuestos a su vez contra su entrega, por la persona de quien los adquirieron o por el fabricante, quien deberá, en su caso, cubrir el costo de su reparación, devolución, bonificación o compensación que corresponda, salvo que la causa sea imputable al proveedor o distribuidor.
+
+En caso de que el producto en cuestión cuente con un documento que ampare la evaluación de la conformidad del mismo emitido por alguna de las personas acreditadas o aprobadas a que se refiere la Ley Federal sobre Metrología y Normalización, tales personas deberán cubrir al proveedor la bonificación o compensación que corresponda.
 
 ### Capítulo XII. De la vigilancia y verificación
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 96.
 
-La Procuraduría, con objeto de aplicar y hacer cumplir las disposiciones de esta ley, cuando no corresponda a otra dependencia, practicará la vigilancia y verificación necesarias en los lugares donde se administren, almacenen, transporten, distribuyan o expendan productos o mercancías o en los que se presten servicios, actuando en oficio y en los términos que dispone esta ley y, en lo no previsto, por lo dispuesto por la Ley Federal sobre Metrología y Normalización.
+La Procuraduría, con objeto de aplicar y hacer cumplir las disposiciones de esta ley y de la Ley Federal sobre Metrología y Normalización, cuando no corresponda a otra dependencia, practicará la vigilancia y verificación necesarias en los lugares donde se administren, almacenen, transporten, distribuyan o expendan productos o mercancías o en los que se presten servicios, incluyendo aquéllos en tránsito.
+
+Para la verificación y vigilancia a que se refiere el párrafo anterior, la Procuraduría actuará de oficio conforme a lo dispuesto en esta ley y en los términos del procedimiento previsto por la Ley Federal de Procedimiento Administrativo, y tratándose de la verificación del cumplimiento de normas oficiales mexicanas, de conformidad con la Ley Federal sobre Metrología y Normalización.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 97.
 
-Cualquier persona tiene derecho a denunciar ante la Procuraduría las violaciones a las disposiciones de esta ley. La Procuraduría actuará de oficio o a petición de parte.
+Cualquier persona podrá denunciar ante la Procuraduría las violaciones a las disposiciones de esta ley, la Ley Federal sobre Metrología y Normalización, normas oficiales mexicanas y demás disposiciones aplicables. En la denuncia se deberá indicar lo siguiente:
+
+I. Nombre y domicilio del denunciado o, en su caso, datos para su ubicación;
+
+II. Relación de los hechos en los que basa su denuncia, indicando el bien, producto o servicio de que se trate, y
+
+III. En su caso, nombre y domicilio del denunciante.
+
+La denuncia podrá presentarse por escrito, de manera verbal, vía telefónica, electrónica o por cualquier otro medio.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 97 BIS.- La orden de verificación a que se refiere el artículo 65 de la Ley Federal de Procedimiento Administrativo deberá ser exhibida y entregada en original a la persona con quien se entienda la diligencia. Si ésta se niega a recibirla, dicha circunstancia se asentará en el acta respectiva, sin que ello afecte la validez del acto.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 97 TER.- Cuando con motivo de una visita de verificación se requiera efectuar toma de muestras para verificar el cumplimiento de esta ley, en el acta se deberá indicar el número y tipo de muestras que se obtengan.
+
+Para la toma y análisis de las muestras a que se refiere el párrafo anterior, se procederá en los siguientes términos:
+
+I. Se tomarán por triplicado, una para el análisis de la Procuraduría, otra quedará en poder del visitado quien podrá efectuar su análisis, y la tercera tendrá el carácter de muestra testigo que quedará en poder del visitado y a disposición de la Procuraduría. A las muestras se colocarán sellos que garanticen su inviolabilidad;
+
+II. El resultado del análisis emitido por la Procuraduría se le notificará al visitado en los términos del artículo 104 de esta ley;
+
+III. En caso de que el visitado no esté de acuerdo con los resultados deberá exhibir el análisis derivado de la muestra dejada en su poder y además, la muestra testigo, dentro de los cinco días siguientes a la recepción de los resultados de la Procuraduría;
+
+IV. En tales casos, la Procuraduría ordenará el análisis de la muestra testigo en su laboratorio. El análisis se realizará en presencia de los técnicos designados por las partes, debiéndose levantar una constancia de ello. El dictamen derivado de este último, será definitivo, y
+
+V. En caso de tratarse de análisis o pruebas no destructivas, las muestras serán devueltas al visitado a su costa; en caso de que éste no las recoja en un plazo de treinta días a partir de la notificación respectiva, dichas muestras se podrán donar para fines lícitos o destruir.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 97 QUATER.- Si durante el procedimiento de verificación se detecta alguno de los supuestos previstos en el artículo 25 BIS de esta ley, se aplicarán, en su caso, las medidas precautorias que correspondan, asentándose dicha circunstancia en el acta respectiva. Lo anterior, sin perjuicio de iniciar el procedimiento previsto por el artículo 123 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 98.
 
-Se entiende por visita de verificación la que se practique en los lugares a que se refiere el artículo 96, según corresponda y de acuerdo con lo dispuesto por la Ley Federal sobre Metrología y Normalización, debiéndose:
+Se entiende por visita de verificación la que se practique en los lugares a que se refiere el artículo 96 de acuerdo con lo dispuesto en esta ley, debiéndose:
 
 I. Examinar los productos o mercancías, las condiciones en que se ofrezcan éstos o se presten los servicios y los documentos e instrumentos relacionados con la actividad de que se trate;
 
@@ -756,25 +1224,49 @@ III. Constatar la existencia o inexistencia de productos o mercancías, atendien
 
 IV. Llevar a cabo las demás acciones tendientes a verificar el cumplimiento de la ley.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 98 BIS.- Cuando con motivo de una verificación la Procuraduría detecte violaciones a esta ley y demás disposiciones aplicables, podrá ordenar se informe a los consumidores individual o colectivamente, inclusive a través de medios de comunicación masiva, sobre las acciones u omisiones de los proveedores que afecten sus intereses o derechos, así como la forma en que los proveedores los retribuirán o compensarán, debiendo éstos acreditar el cumplimiento de dicha orden. En caso de no hacerlo, se aplicarán las sanciones que correspondan.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 98 TER.- La Procuraduría podrá ordenar el aseguramiento de bienes o productos que se comercialicen fuera de establecimiento comercial cuando no cumplan con las disposiciones aplicables, conforme al procedimiento que al efecto se establezca y que se publique en el Diario Oficial de la Federación, y lo hará del conocimiento de las autoridades competentes a fin de que adopten las medidas que procedan.
+
 ### Capítulo XIII. Procedimientos
 
 #### Sección Primera. Disposiciones Comunes
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 99.
 
-La Procuraduría recibirá las reclamaciones de los consumidores con base en esta ley, las cuales podrán presentarse en forma escrita, oral o por cualquier otro medio idóneo cumpliendo con los siguientes requisitos:
+La Procuraduría recibirá las quejas o reclamaciones de los consumidores con base en esta ley, las cuales podrán presentarse en forma escrita, oral, telefónica, electrónica o por cualquier otro medio idóneo cumpliendo con los siguientes requisitos:
 
 I. Señalar nombre y domicilio del reclamante;
 
 II. Descripción del bien o servicio que se reclama y relación sucinta de los hechos; y
 
-III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante.
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+III. Señalar nombre y domicilio del proveedor que se contenga en el comprobante o recibo que ampare la operación materia de la reclamación o, en su defecto, el que proporcione el reclamante, y
+
+> <small>(ADICIONADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Señalar el lugar o forma en que solicita se desahogue su reclamación.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Las reclamaciones de las personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieran, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, serán procedentes siempre que el monto de la operación motivo de la reclamación no exceda de $300,000.00.
 
 La Procuraduría podrá solicitar a las autoridades federales, estatales, municipales o del Distrito Federal, que le proporcionen los datos necesarios para identificar y localizar al proveedor. Las autoridades antes señaladas deberán contestar la solicitud dentro de los quince días siguientes a la fecha de su presentación.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 100.
 
-Las reclamaciones podrán presentarse a elección del reclamante, en el lugar en que se haya originado el hecho motivo de la reclamación; en el domicilio del reclamante o en el del proveedor.
+Las reclamaciones podrán desahogarse a elección del reclamante, en el lugar en que se haya originado el hecho motivo de la reclamación; en el del domicilio del reclamante, en el del proveedor, o en cualquier otro que se justifique, tal como el del lugar donde el consumidor desarrolla su actividad habitual o en el de su residencia.
+
+En caso de no existir una unidad de la Procuraduría en el lugar que solicite el consumidor, aquélla hará de su conocimiento el lugar o forma en que será atendida su reclamación.
 
 ###### ARTICULO 101.
 
@@ -784,9 +1276,11 @@ La Procuraduría rechazará de oficio las reclamaciones notoriamente improcedent
 
 Presentada la reclamación se tendrá por interrumpido el término para la prescripción de las acciones legales correspondientes, durante el tiempo que dure el procedimiento.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 103.
 
-La Procuraduría notificará al proveedor dentro de los quince días siguientes a la fecha de recepción y registro de la reclamación.
+La Procuraduría notificará al proveedor dentro de los quince días siguientes a la fecha de recepción y registro de la reclamación, requiriéndole un informe por escrito relacionado con los hechos, acompañado de un extracto del mismo.
 
 ###### ARTICULO 104.
 
@@ -798,7 +1292,9 @@ II. Cuando se trate del requerimiento de un acto a la parte que deba cumplirlo;
 
 III. Cuando se trate de notificación de laudos arbitrales;
 
-IV. Cuando se trate de resoluciones que impongan un medio de apremio o una sanción;
+> <small>(REFORMADA, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+IV. Cuando se trate de resoluciones o acuerdos que impongan una medida de apremio o una sanción;
 
 V. Cuando la Procuraduría notifique al acreedor haber recibido cantidades en consignación;
 
@@ -806,19 +1302,51 @@ VI. Cuando la autoridad lo estime necesario; y
 
 VII. En los demás casos que disponga la ley.
 
-Las notificaciones personales deberán realizarse por notificador o por correo certificado con acuse de recibo del propio notificado o por cualquier otro medio fehaciente autorizado por la ley.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Las notificaciones personales deberán realizarse por notificador o por correo certificado con acuse de recibo del propio notificado o por cualquier otro medio fehaciente autorizado legalmente o por el destinatario, siempre y cuando éste manifieste por escrito su consentimiento. Dicha notificación se efectuará en el domicilio del local o establecimiento que señale el comprobante respectivo, o bien, en el que hubiere sido proporcionado por el reclamante.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Tratándose de la notificación a que se refiere la fracción primera de este precepto en relación con el procedimiento conciliatorio, la misma podrá efectuarse con la persona que deba ser notificada o, en su defecto, con su representante legal o con el encargado o responsable del local o establecimiento correspondiente. A falta de éstos, se estará a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Las notificaciones realizadas con quien deban entenderse en términos del párrafo anterior serán válidas aun cuando no se hubieren podido efectuar en el domicilio respectivo.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+En caso de que el destinatario no hubiere señalado domicilio para oír y recibir notificaciones o lo hubiere cambiado sin haber avisado a la Procuraduría, ésta podrá notificarlo por estrados.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Tratándose de actos distintos a los señalados con anterioridad, las notificaciones podrán efectuarse por estrados, previo aviso al destinatario, quien podrá oponerse a este hecho, así como por correo con acuse de recibo o por mensajería; también podrán efectuarse por telegrama, fax, vía electrónica u otro medio similar previa aceptación por escrito del interesado.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La documentación que sea remitida por una unidad administrativa de la Procuraduría vía electrónica, fax o por cualquier otro medio idóneo a otra unidad de la misma para efectos de su notificación, tendrá plena validez siempre que la unidad receptora hubiere confirmado la clave de identificación del servidor público que remite la documentación y que ésta se conserve íntegra, inalterada y accesible para su consulta.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 105.
 
-Salvo lo dispuesto en esta ley, los consumidores deberán presentar la reclamación dentro de los seis meses siguientes a cualquiera de los siguientes supuestos, el que ocurra primero:
+Las reclamaciones se podrán presentar dentro del término de un año, en cualquiera de los siguientes supuestos:
 
 I. Tratándose de enajenación de bienes o prestación de servicios.
 
 a) A partir de que se expida el comprobante que ampare el precio o la contraprestación pactada;
 
-b) A partir de que se pague el bien o sea exigible total o parcialmente el servicio; o
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
-c) A partir de que se reciba el bien, o se preste efectivamente el servicio.
+b) A partir de que se pague el bien o sea exigible el servicio, total o parcialmente;
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+c) A partir de que se reciba el bien, o se preste el servicio, o
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+d) A partir de la última fecha en que el consumidor acredite haber directamente requerido al proveedor el cumplimiento de alguna de las obligaciones pactadas por éste;
 
 II. Tratándose del otorgamiento del uso o goce temporal de bienes:
 
@@ -826,7 +1354,7 @@ a) A partir de que se expida el recibo a favor del que disfruta del uso o goce t
 
 b) A partir de que se cumpla efectivamente la contraprestación pactada en favor del que otorga el uso o goce temporal.
 
-Tratándose de bienes inmuebles, el plazo a que se refiere este artículo será de un año.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 106.
 
@@ -844,7 +1372,9 @@ V. En cumplimiento de convenios o laudos; y
 
 VI. Como garantía de compromisos asumidos ante la Procuraduría.
 
-La Procuraduría realizará la notificación correspondiente y ordenará su entrega al consignatario o, en su caso, al órgano judicial competente.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La Procuraduría realizará la notificación correspondiente y ordenará su entrega al consignatario o, en su caso, al órgano judicial competente. Una vez agotados los medios legales para la entrega del billete de depósito, sin que ello hubiese sido posible, prescribirán a favor de la Procuraduría los derechos para su cobro en un término de tres años, contados a partir de la primera notificación para su cobro.
 
 ###### ARTICULO 107.
 
@@ -872,7 +1402,9 @@ Aún cuando no medie reclamación, la Procuraduría estará facultada para aprob
 
 La Procuraduría señalará día y hora para la celebración de una audiencia de conciliación en la que se procurará avenir los intereses de las partes, la cual deberá tener lugar, por lo menos, cuatro días después de la fecha de notificación de la reclamación al proveedor.
 
-La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso será necesario que se confirmen por escrito los compromisos adquiridos.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La conciliación podrá celebrarse vía telefónica o por otro medio idóneo, en cuyo caso la Procuraduría o las partes podrán solicitar que se confirmen por escrito los compromisos adquiridos.
 
 ###### ARTICULO 112.
 
@@ -880,19 +1412,73 @@ En caso de que el proveedor no se presente a la audiencia o no rinda informe rel
 
 En caso de que el reclamante no acuda a la audiencia de conciliación y no presente dentro de los siguientes 10 días justificación fehaciente de su inasistencia, se tendrá por desistido de la reclamación y no podrá presentar otra ante la Procuraduría por los mismo (sic) hechos.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 113.
 
-El conciliador expondrá a las partes un resumen de la reclamación y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para llegar a un arreglo. Sin prejuzgar sobre el conflicto planteado, les presentará una o varias opciones de solución.
+Previo reconocimiento de la personalidad y de la relación contractual entre las partes el conciliador expondrá a las partes un resumen de la reclamación y del informe presentado, señalando los elementos comunes y los puntos de controversia, y las exhortará para llegar a un arreglo. Sin prejuzgar sobre el conflicto planteado, les presentará una o varias opciones de solución, salvaguardando los derechos del consumidor.
+
+Tratándose de bienes o servicios de prestación o suministro periódicos tales como energía eléctrica, gas o telecomunicaciones, el solo inicio del procedimiento conciliatorio suspenderá cualquier facultad del proveedor de interrumpir o suspender unilateralmente el cumplimiento de sus obligaciones en tanto concluya dicho procedimiento.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 114.
 
-El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.
+El conciliador podrá en todo momento requerir a las partes los elementos de convicción que estime necesarios para la conciliación, así como para el ejercicio de las atribuciones que a la Procuraduría le confiere la ley. Asimismo, podrá acordar la práctica de diligencias que permitan acreditar los hechos constitutivos de la reclamación. Las partes podrán aportar las pruebas que estimen necesarias para acreditar los elementos de la reclamación y del informe.
 
-El conciliador podrá suspender cuando lo estime pertinente o a instancias de ambas partes, la audiencia de conciliación hasta en dos ocasiones.
+El conciliador podrá suspender cuando lo estime pertinente o a instancia de ambas partes, la audiencia de conciliación hasta en tres ocasiones. Asimismo, podrá requerir la emisión de un dictamen a través del cual se cuantifique en cantidad líquida la obligación contractual.
 
-En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes.
+En caso de que se suspenda la audiencia, el conciliador señalará día y hora para su reanudación, dentro de los quince días siguientes, donde en su caso, hará del conocimiento de las partes el dictamen correspondiente, las cuales podrán formular durante la audiencia observaciones al mismo.
 
-De toda audiencia se levantará el acta respectiva.
+La Procuraduría podrá emitir un acuerdo de trámite que contenga el dictamen a que se refieren los párrafos anteriores, que constituirá título ejecutivo no negociable a favor del consumidor, siempre y cuando la obligación contractual incumplida que en él se consigne sea cierta, exigible y líquida a juicio de la autoridad judicial, ante la que el proveedor podrá controvertir el monto del título, presentar las pruebas y oponer las excepciones que estime convenientes.
+
+De toda audiencia se levantará el acta respectiva. En caso de que el proveedor no firme el acta, ello no afectará su validez, debiéndose hacer constar dicha negativa.
+
+Para la sustanciación del procedimiento de conciliación a que se refiere el presente Capítulo, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 114 BIS.- El dictamen a que se refiere el artículo anterior se efectuará en base a las siguientes consideraciones:
+
+I. Se calculará el monto de la obligación contractual, atendiendo a las cantidades originalmente pactadas por las partes;
+
+II. Se analizará el grado de cumplimiento efectuado por el proveedor con relación a la obligación objeto del procedimiento;
+
+III. Con los datos antes señalados, se estimará la obligación incumplida y, en su caso, la bonificación a que se refiere el artículo 92 TER, y
+
+IV. La bonificación señalada en la fracción anterior, se calculará conforme al siguiente criterio:
+
+a) En los casos en que el consumidor hubiere entregado la totalidad del monto de la operación al proveedor, la bonificación será del 30% del monto de la obligación contractual que se determine en el dictamen;
+
+b) Cuando el consumidor hubiere entregado más del 50% de la totalidad del monto de la operación al proveedor, la bonificación será del 25% del monto de la obligación contractual que se determine en el dictamen;
+
+c) En los supuestos en los que el consumidor hubiere entregado hasta el 50% de la totalidad del monto de la operación al proveedor, la bonificación será del 20% del monto de la obligación contractual que se determine en el dictamen, y
+
+d) En los demás casos, la bonificación correspondiente será del 20% del monto de la obligación contractual que se determine en el dictamen.
+
+Las bonificaciones señaladas con anterioridad, se fijarán sin perjuicio de las sanciones a que se hubiese hecho acreedor el proveedor o de que sean modificadas por la autoridad judicial.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 114 TER.- El dictamen emitido deberá contener lo siguiente:
+
+I. Lugar y fecha de emisión;
+
+II. Identificación de quien emite el dictamen;
+
+III. Nombre y domicilio del proveedor y del consumidor;
+
+IV. La obligación contractual y tipo de bien o servicio de que se trate;
+
+V. El monto original de la operación y materia de la reclamación;
+
+VI. La determinación del importe de las obligaciones a cargo del proveedor, y
+
+VII. La cuantificación líquida de la bonificación al consumidor.
+
+La determinación del importe consignado en el dictamen, para efectos de ejecución se actualizará por el transcurso del tiempo desde el momento en que se emitió hasta el momento en que se pague, tomando en consideración los cambios de precios en el país, de conformidad con el factor de actualización que arroje el Índice Nacional de Precios al Consumidor que mensualmente dé a conocer el Banco de México.
+
+La acción ejecutiva derivada del dictamen prescribirá a un año de su emisión.
 
 ###### ARTICULO 115.
 
@@ -900,17 +1486,23 @@ Los acuerdos de trámite que emita el conciliador no admitirán recurso alguno.
 
 Los convenios celebrados por las partes serán aprobados por la Procuraduría cuando no vayan en contra de la ley, y el acuerdo que los apruebe no admitirá recurso alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 116.
 
-En caso de no haber conciliación, el conciliador exhortará a las partes para que designen como árbitro a la Procuraduría, o a algún árbitro oficialmente reconocido o designado por las partes para solucionar el conflicto.
+En caso de no haber conciliación, el conciliador exhortará a las partes para que designen como árbitro a la Procuraduría o a algún árbitro independiente para solucionar el conflicto. Para efectos de este último caso, la Procuraduría podrá poner a disposición de las partes información sobre árbitros independientes.
 
 En caso de no aceptarse el arbitraje se dejarán a salvo los derechos de ambas partes.
 
 #### Sección Tercera. Procedimiento arbitral
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 117.
 
-La Procuraduría podrá actuar como árbitro cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos.
+La Procuraduría podrá actuar como árbitro entre consumidores y proveedores cuando los interesados así la designen y sin necesidad de reclamación o procedimiento conciliatorio previos, observando los principios de legalidad, equidad y de igualdad entre las partes.
+
+Cuando se trate de aquellas personas físicas o morales a que se refiere la fracción primera del artículo 2 de esta ley, que adquieren, almacenen, utilicen o consuman bienes o servicios con objeto de integrarlos en procesos de producción, transformación, comercialización o prestación de servicios a terceros, la Procuraduría podrá fungir como árbitro siempre que el monto de lo reclamado no exceda de $300,000.00.
 
 ###### ARTICULO 118.
 
@@ -920,35 +1512,49 @@ La designación de árbitro se hará constar mediante acta ante la Procuraduría
 
 En la amigable composición se fijarán las cuestiones que deberán ser objeto del arbitraje y el árbitro tendrá libertad para resolver en conciencia y a buena fe guardada, sin sujeción a reglas legales, pero observando las formalidades esenciales del procedimiento. El árbitro tendrá la facultad de allegarse todos los elementos que juzgue necesarios para resolver las cuestiones que se le hayan planteado. No habrá términos ni incidentes.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 120.
 
-En el juicio arbitral de estricto derecho las partes formularán compromiso en el que fijarán las del procedimiento que convencionalmente establezcan, aplicándose supletoriamente el Código de Comercio y a falta de disposición en dicho Código, el ordenamiento procesal civil local aplicable.
+En el juicio arbitral de estricto derecho las partes formularán compromiso en el que fijarán las reglas del procedimiento, acordes con los principios de legalidad; equidad e igualdad entre las partes. En el caso de que las partes no las propongan o no se hayan puesto de acuerdo, el árbitro las establecerá. En todo caso se aplicará supletoriamente el Código de Comercio y a falta de disposición en dicho Código, el ordenamiento procesal civil local aplicable.
 
 ###### ARTICULO 121.
 
 El laudo arbitral emitido por la Procuraduría o por el árbitro designado por las partes deberá cumplimentarse o, en su caso, iniciar su cumplimentación dentro de los quince días siguientes a la fecha de su notificación, salvo pacto en contrario.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 122.
 
-Sin perjuicio de las funciones de arbitraje que puede legalmente ejercer la Procuraduría, la Secretaría llevará una lista de árbitros independientes, oficialmente reconocidos para actuar como tales. Dichos árbitros podrán actuar por designación de las partes o designación de la Procuraduría, a petición del proveedor y del consumidor. En lo relativo a su inscripción y actuación se regularán por lo que disponga el reglamento de la presente ley.
-
-Las resoluciones que se dicten durante el procedimiento arbitral admitirán como único recurso el de revocación, que deberá resolverse por el árbitro designado en un plazo no mayor de 48 horas. El laudo arbitral sólo estará sujeto a aclaración dentro de los dos días siguientes a la fecha de su notificación.
+Las resoluciones que se dicten durante el procedimiento arbitral admitirán como único recurso el de revocación, que deberá resolverse por el árbitro designado en un plazo no mayor de tres días. El laudo arbitral sólo estará sujeto a aclaración dentro de los dos días siguientes a la fecha de su notificación.
 
 #### Sección Cuarta. Procedimientos por infracciones a la ley
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 123.
 
-Para la imposición de las sanciones a que se refiere esta ley, la Procuraduría notificará al presunto infractor de los hechos motivo del procedimiento y le otorgará un término de diez días hábiles para que rinda pruebas y manifieste por escrito lo que a su derecho convenga. En caso de no rendirlas, la Procuraduría resolverá conforme a los elementos de convicción de que disponga.
+Para determinar el incumplimiento de esta ley y en su caso para la imposición de las sanciones a que se refiere la misma, la Procuraduría notificará al presunto infractor de los hechos motivo del procedimiento y le otorgará un término de diez días hábiles para que rinda pruebas y manifieste por escrito lo que a su derecho convenga. En caso de no rendirlas, la Procuraduría resolverá conforme a los elementos de convicción de que disponga.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Cuando la Procuraduría detecte violaciones a normas oficiales mexicanas e inicie el procedimiento a que se refiere este precepto en contra de un proveedor por la comercialización de bienes o productos que no cumplan con dichas normas, notificará también al fabricante, productor o importador de tales bienes o productos el inicio del procedimiento previsto en este artículo. La Procuraduría determinará las sanciones que procedan una vez concluidos los procedimientos en cuestión.
 
 La Procuraduría admitirá las pruebas que estime pertinentes y procederá a su desahogo. Asimismo podrá solicitar del presunto infractor o de terceros las demás pruebas que estime necesarias.
 
 Concluido el desahogo de las pruebas, la Procuraduría notificará al presunto infractor para que presente sus alegatos dentro de los dos días hábiles siguientes.
 
-La Procuraduría resolverá dentro de los quince días siguientes.
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+La Procuraduría resolverá dentro de los quince días hábiles siguientes.
 
 ###### ARTICULO 124.
 
 La Procuraduría podrá solicitar al reclamante en los procedimientos conciliatorio o arbitral o, en su caso, al denunciante, aporten pruebas a fin de acreditar la existencia de violaciones a la ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 124 BIS.- Para la sustanciación del procedimiento por infracciones a la ley a que se refiere el presente Capítulo, se aplicará supletoriamente lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
 ### Capítulo XIV. Sanciones
 
@@ -956,25 +1562,63 @@ La Procuraduría podrá solicitar al reclamante en los procedimientos conciliato
 
 Las infracciones a lo dispuesto en esta ley serán sancionadas por la Procuraduría.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 126.
 
-Las infracciones a lo dispuesto por los artículos 11, 15, 16, 18, 60 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa por el equivalente por una y hasta ochocientas veces el salario mínimo general vigente en el Distrito Federal.
+Las infracciones a lo dispuesto por los artículos 8 BIS, 11, 15, 16 y demás disposiciones que no estén expresamente mencionadas en los artículos 127 y 128, serán sancionadas con multa de $150.00 a $480,000.00.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 127.
 
-Las infracciones a lo dispuesto por los artículos 7o, 13, 17, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 45, 49, 50, 52, 53, 54, 55, 58, 59, 61, 62, 66, 67, 68, 69, 70, 72, 75, 78, 79, 81, 82, 86, 87, 91, 93 y 95 serán sancionadas con multa hasta por el equivalente de una a mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
+Las infracciones a lo dispuesto por los artículos 7 BIS, 13, 17, 18 BIS, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 45, 47, 48, 49, 50, 52, 53, 54, 55, 57, 58, 59, 60, 61, 62, 66, 67, 68, 69, 70, 72, 75, 77, 78, 79, 81, 82, 85, 86 QUATER, 87 BIS, 90, 91, 93, 95 y 113 serán sancionadas con multa de $300.00 a $960,000.00.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. MAYO 29 DE MAYO 2000) (REPUBLICADO, G.O. 30 DE MAYO DE 2000)
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 128.
 
-Las infracciones a lo dispuesto por los artículos 8, 10, 12, 60, 63, 65, 74, 76 bis, 80 y 121 serán sancionadas con multa por el equivalente de una y hasta dos mil quinientas veces el salario mínimo general vigente para el Distrito Federal.
+Las infracciones a lo dispuesto por los artículos 7, 8, 10, 12, 44, 63, 63 BIS, 63 TER, 63 QUINTUS, 65, 73, 73 BIS, 73 TER, 74, 76 BIS, 80, 86 BIS, 87, 87 TER, 92, 92 TER, 98 BIS y 121 serán sancionadas con multa de $450.00 a $1,760,000.00.
 
-En casos particularmente graves, la Procuraduría podrá sancionar con clausura del establecimiento hasta por quince días. En tratándose de alimentos básicos, sujetos a precios máximos, procederá dicha clausura, previa notificación al presunto infractor, concediéndole un plazo de veinticuatro horas, para que manifieste lo que a su derecho convenga.
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 128 BIS.- En casos particularmente graves, la Procuraduría podrá sancionar con clausura total o parcial, la cual podrá ser hasta de noventa días y con multa de $90,000.00 a $2,520,000.00.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 128 TER.- Se considerarán casos particularmente graves:
+
+I. Aquellos en que de seguir operando el proveedor, se pudieran afectar los derechos e intereses de un grupo de consumidores;
+
+II. Cuando la infracción de que se trate pudiera poner en peligro la vida, la salud o la seguridad de un grupo de consumidores;
+
+III. Aquellas infracciones que se cometan en relación con bienes, productos o servicios que por la temporada o las circunstancias especiales del mercado afecten los derechos de un grupo de consumidores;
+
+IV. Aquellas conductas que se cometan aprovechando la escasez, lejanía o dificultad en el abastecimiento de un bien o en la prestación de un servicio;
+
+V. Cuando se trate de productos básicos de consumo generalizado, como alimentos, gas natural o licuado de petróleo, gasolina o productos sujetos a precio máximo o a precios o tarifas establecidos o registrados por la Secretaría o por cualquiera otra autoridad competente, y
+
+VI. La reincidencia en la comisión de infracciones a los artículos señalados en el artículo 128 de esta ley.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 128 QUATER.- Se sancionará con la prohibición de comercialización de bienes o productos, cuando habiendo sido suspendida ésta, se determine que no es posible su acondicionamiento, reproceso, reparación o sustitución, o bien cuando su comercialización no pueda realizarse conforme a las disposiciones de esta ley.
+
+En el caso de lo dispuesto en el párrafo anterior, la Procuraduría podrá ordenar la destrucción de los bienes o productos que correspondan.
+
+Tratándose de servicios, la prohibición de comercialización procederá cuando habiendo sido suspendida, no se garantice que su prestación pueda realizarse conforme a las disposiciones de esta ley.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 129.
 
-En caso de reincidencia se podrá aplicar multa hasta por el doble de las cantidades señaladas en los artículos 126, 127 y 128; y proceder a la clausura del establecimiento hasta por treinta días, en el caso de las infracciones a que se refiere el artículo 128, e inclusive arresto administrativo hasta por 36 horas.
+En caso de reincidencia se podrá aplicar multa hasta por el doble de las cantidades señaladas en los artículos 126, 127, 128, 128 BIS, e inclusive arresto administrativo hasta por treinta y seis horas.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+ARTICULO 129 BIS.- La Procuraduría actualizará cada año por inflación los montos referidos en pesos en los artículos 25, 99, 117, 126, 127, 128, 128 BIS y 133 de esta ley. A más tardar el día 30 de diciembre de cada año, la Procuraduría publicará en el Diario Oficial de la Federación los montos actualizados que estarán vigentes en el siguiente año calendario.
+
+Para estos efectos, la Procuraduría se basará en la variación observada en el valor del Índice Nacional de Precios al Consumidor, publicado por el Banco de México entre la última actualización de dichos montos y el mes de noviembre del año en cuestión.
 
 ###### ARTICULO 130.
 
@@ -994,79 +1638,77 @@ IV. Cualquier otro elemento o circunstancia que aporte elementos de convicción 
 
 Las resoluciones que emita la Procuraduría deberán estar debidamente fundadas y motivadas con arreglo a derecho, tomando en consideración los criterios establecidos en el presente ordenamiento.
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 132.
 
-Para determinar la sanción, la Procuraduría estará a lo dispuesto por esta Ley y su Reglamento y deberá considerarse, conforme al siguiente orden:
+La Procuraduría determinará las sanciones conforme a lo dispuesto en esta ley y su reglamento, considerando como base la gravedad de la infracción y tomando en cuenta los siguientes elementos:
 
-I. La condición económica del infractor;
+I. El perjuicio causado al consumidor o a la sociedad en general;
 
 II. El carácter intencional de la infracción;
 
-III. Si se trata de reincidencia;
+III. Si se trata de reincidencia, y
 
-IV. La gravedad de la infracción; y
+IV. La condición económica del infractor.
 
-V. El perjuicio causado al consumidor o a la sociedad en general.
+Asimismo, la Procuraduría deberá considerar los hechos generales de la infracción a fin de tener los elementos que le permitan expresar pormenorizadamente los motivos que tenga para determinar el monto de la multa en una cuantía específica.
 
 ###### ARTICULO 133.
 
 En ningún caso será sancionado el mismo hecho constitutivo de la infracción en dos o más ocasiones, ni por dos o más autoridades administrativas, excepto en el caso de reincidencia.
 
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
+Cuando por un mismo hecho u omisión se cometan varias infracciones a las que esta ley imponga una sanción, el total de las mismas no deberá rebasar de $5,040,000.00.
+
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 134.
 
-La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará discrecionalmente las circunstancias del caso y las causas que motivaron su imposición sin que la petición del interesado constituya un recurso.
+La autoridad que haya impuesto alguna de las sanciones previstas en esta ley la podrá condonar, reducir o conmutar, para lo cual apreciará las circunstancias del caso, las causas que motivaron su imposición, así como la medida en que la reclamación del consumidor haya quedado satisfecha, sin que la petición del interesado constituya un recurso.
+
+La autoridad no podrá ejercer la facultad referida en este precepto, respecto de las sanciones impuestas con motivo de los procedimientos de verificación y vigilancia del cumplimiento de esta ley y demás disposiciones aplicables.
 
 ### Capítulo XV. Recursos administrativos
 
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 135.
 
-En contra de las resoluciones de la Procuraduría dictadas con fundamento en las disposiciones de esta ley y demás derivadas de ella, se podrá interponer por escrito recurso de revisión, dentro de los quince días hábiles siguientes a la fecha en que surta efecto la notificación de la resolución recurrida.
+En contra de las resoluciones de la Procuraduría dictadas con fundamento en las disposiciones de esta ley y demás derivadas de ella, se podrá interponer recurso de revisión, en los términos de la Ley Federal de Procedimiento Administrativo.
 
 ###### ARTICULO 136.
 
-El recurso de revisión se interpondrá ante la autoridad que emitió la resolución y será resuelto por el órgano superior jerárquico que determine el Procurador, mediante acuerdo publicado en el Diario Oficial de la Federación.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 137.
 
-Podrán ofrecerse toda clase de pruebas, excepto la confesional, siempre que tengan relación con la resolución recurrida. Al interponerse el recurso de revisión deberán ofrecerse las pruebas correspondientes y acompañarse los documentos relativos.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 138.
 
-Si se ofrecen pruebas que ameriten desahogo, se concederá al interesado un plazo no menor de ocho ni mayor de treinta días para tal efecto. La autoridad podrá allegarse los elementos de convicción que considere necesarios. En lo no previsto en esta ley en materia de pruebas, se aplicará supletoriamente el Código Federal de Procedimientos Civiles.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 139.
 
-Concluido el período probatorio, la autoridad resolverá dentro de los quince días siguientes.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 140.
 
-El recurso de revisión será improcedente en los siguientes casos:
-
-I. Cuando se presente fuera de tiempo;
-
-II. Cuando no se acredite fehacientemente la personalidad con que se actúa; y
-
-III. Cuando no esté suscrito, a menos que se firme antes del vencimiento del término para interponerlo.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 141.
 
-La interposición del recurso de revisión suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas. Respecto de cualquier otra clase de resoluciones administrativas y de sanciones que no sean multa, la suspensión sólo se otorgará si concurren los siguientes requisitos:
-
-I. Que la solicite el recurrente;
-
-II. Que el recurso haya sido admitido;
-
-III. Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta ley; y
-
-IV. Que no se ocasionen daños o perjuicios a terceros en términos de esta ley, a menos que se garanticen éstos en el monto que fije la autoridad administrativa.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 142.
 
-No procede el recurso de revisión contra laudos arbitrales.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 ###### ARTICULO 143.
 
-Contra la resolución emitida para resolver algún recurso no procederá otro.
+(DEROGADO, D.O.F. 4 DE FEBRERO DE 2004)
 
 T R A N S I T O R I O S
 
@@ -1189,3 +1831,27 @@ SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 D.O.F. 13 DE JUNIO DE 2003.
 
 UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 4 DE FEBRERO DE 2004.
+
+PRIMERO. El presente Decreto entrará en vigor a los noventa días siguientes de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los artículos transitorios siguientes.
+
+SEGUNDO. El artículo 92 TER entrará en vigor ciento ochenta días después de la publicación del presente Decreto.
+
+TERCERO. La reforma al artículo 114, en lo relativo a la emisión del dictamen por parte de la Procuraduría, así como la reforma al artículo 26 y los artículos 114 BIS y 114 TER entrará en vigor un año después de la publicación del presente Decreto, sujeto a la disponibilidad presupuestal para la operación de las unidades necesarias en la Procuraduría para realizar las funciones establecidas en tales artículos.
+
+CUARTO. El artículo 18; la fracción IV y el párrafo segundo del artículo 99, respecto de las personas físicas, así como las reformas al artículo 100, al último párrafo del artículo 104 y al párrafo segundo del artículo 117, también este último respecto de las personas físicas, entrarán en vigor 9 meses después de la publicación del presente Decreto. Asimismo, en relación con las personas morales a que se refiere el segundo párrafo de la fracción I del artículo 2, así como el párrafo segundo de los artículos 99 y 117, respectivamente, dichas disposiciones entrarán en vigor 18 meses después de la publicación del presente Decreto.
+
+QUINTO. El procedimiento de cancelación de registro a que se refiere el artículo 90 BIS, sólo procederá respecto de los contratos que se registren a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Las operaciones derivadas de los sistemas de comercialización a que se refiere el artículo 63 de la ley, que se hubieren llevado a cabo en fecha anterior a la entrada en vigor del presente Decreto, les continuarán siendo aplicables hasta el vencimiento de los contratos y la liquidación de los grupos existentes a la fecha, las disposiciones que las regulaban.
+
+Las sociedades que actualmente administren dichos sistemas de comercialización no podrán abrir nuevos grupos de consumidores al amparo de tales disposiciones ni celebrar nuevos contratos de adhesión. No obstante lo anterior, durante los 60 y 240 días naturales inmediatos siguientes a la fecha de entrada en vigor del presente Decreto, según se trate de bienes muebles e inmuebles, respectivamente, las referidas sociedades podrán celebrar contratos de adhesión ajustándose a las disposiciones mencionadas en el párrafo anterior, exclusivamente cuando correspondan a grupos de consumidores que aún se encuentren en proceso de integración.
+
+SÉPTIMO. A partir de la entrada en vigor de este Decreto, las sociedades mencionadas únicamente podrán abrir nuevos grupos de consumidores y celebrar los correspondientes contratos de adhesión, cuando cuenten con la autorización de la Secretaría en términos del artículo 63 y cumplan con las disposiciones aplicables.
+
+OCTAVO. Para los efectos del artículo sexto transitorio, la Secretaría y la Procuraduría en el ámbito de sus competencias supervisarán el proceso de liquidación de los grupos, determinando para ello los lineamientos que correspondan.
+
+NOVENO. Las sociedades a que se refiere el artículo sexto transitorio, deberán presentar a la Secretaría la información relativa, entre otros rubros, a la operación del sistema, al número de contratos, número de grupos, plazos, situación que guarden los consumidores en la forma y términos que para tal efecto establezca la misma. La Secretaría podrá solicitar a las mencionadas sociedades que realicen auditorías externas respecto de grupos de consumidores constituidos conforme a las disposiciones vigentes hasta antes de la entrada en vigor del presente Decreto.
+
+El incumplimiento a las obligaciones de presentar la información o a realizar las auditorías a que se refiere este artículo, será sancionado en términos de lo dispuesto por el artículo 128 de la Ley Federal de Protección al Consumidor.
