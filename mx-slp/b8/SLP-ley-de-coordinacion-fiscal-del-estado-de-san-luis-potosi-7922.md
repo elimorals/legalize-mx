@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-coordinacion-fiscal-del-estado-de-san-luis-potosi-7922"
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-15"
-last_updated: "1994-01-31"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de San Luis Potosí, el viernes 15 de enero de 1988.
 
@@ -69,21 +69,17 @@ Los Municipios percibirán los recursos del Fondo de Fomento Municipal constitu�
 
 La cantidad que a cada Municipio corresponda del Fondo Generel (sic), será calculado conforme a la siguiente mecánica:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-I.- Del 20% distribuible se formarán dos fondos: El fondo general y el fondo de contingencai (sic).
+I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo conformado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, de acuerdo al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; y el segundo fondo constituido con un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
 
-El procedimiento y los factores de distribución de estos dos fondos serán aprobados anualmente por el H. Congreso del Estado.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se distribuirá entre los municipios en proporción al índice de población, conforme al último Censo General de Población, exclusivamente entre los municipios que hicieron uso de ese fondo.
 
-II.- El monto del fondo general será igual a la suma de participaciones que por este concepto hayan recibido los 56 Ayuntamientos en el año inmediato anterior a aquel para el cual se hace el cálculo, y se distribuirá entre los Municipios de acuerdo con los mismos porcentajes vigentes en ese ejercicio fiscal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-El fondo de contingencia se formará con el 100% del incremento que registre el fondo general para el período en que se efectúe el cálculo, y se distribuirá en relación directa con la población que cada Municipio reporte en el último censo general de población y vivienda.
-
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
-
-III.- Si el fondo general de participaciones no tuviera incremento con respecto al año inmediato anterior a aquel para el cual se efectúe el cálculo, el H. Congreso del Estado prorrogará los factores que hubieren correspondido a cada Municipio en ese año.
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
 
 > <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
 
@@ -99,27 +95,37 @@ El fondo de incentivo a la recaudación se distribuirá entre los municipios coo
 
 Los Municipios participarán en la distribución del Fondo de Fomento Municipal, conforme a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-I.- Con el 100% del fondo de fomento municipal se formarán dos acervos, como sigue:
+I.- Del cien por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo integrado con un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuente, conforme al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
 
-a).- El primero será igual a la suma total de las participaciones que en este fondo hayan recibido los 56 Ayuntamientos en el año inmediato anterior a aquel para el cual se hace el cálculo, y se distribuirá entre los Municipios de acuerdo con los mismos porcentajes vigentes en ese ejercicio fiscal.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-b).- El segundo se formará con el 100% del incremento que registre el fondo de fomento municipal para el período en que se efectúe el cálculo, y se distribuirá en relación directa con la población que cada Municipio reporte en el último censo general de población y vivienda.
+II.- Si al finalizar el año resultara un excedente del segundo fondo, éste se repartirá en proporción al índice de población conforme al último Censo General de Población exclusivamente entre los municipios que hicieron uso de ese fondo.
 
-> <small>(REFORMADA, P.O. 4 DE ENERO DE 1991)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- El procedimiento y los factores de distribución de estos dos acervos serán aprobados anualmente por el H. Congreso del Estado.
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
 
-> <small>(ADICIONADA, P.O. 4 DE ENERO DE 1991)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-III.- Si el fondo de fomento municipal no tuviera incremento con respecto al del año inmediato anterior a aquel para el cual se efectúe el cálculo, el H. Congreso del Estado prorrogará los factores que hubieren correspondido a cada Municipio en ese año.
+###### ARTICULO 6-A.
+
+La cantidad que a cada municipio corresponda de la recaudación federal participable por concepto del Impuesto Federal Sobre Tenencia o Uso de Vehículos será calculada de la siguiente forma:
+
+I.- Del veinte por ciento distribuible entre los municipios se formarán dos fondos: el primer fondo, integrado por un noventa por ciento del total distribuible, que se asignará a cada uno de ellos con base en el número de habitantes con que cuenten, conforme al último Censo General de Población publicado por el Instituto Nacional de Estadística, Geografía e Informática; el segundo fondo, constituido por un diez por ciento del total distribuible, que se utilizará para resarcir a aquellos municipios que con este nuevo sistema de reparto lleguen a percibir menos de lo que recibirían con base en el sistema de reparto vigente en el año de mil novecientos noventa y cuatro.
+
+II.- Si del segundo fondo resultara un excedente al finalizar el año, éste se repartirá en proporción al índice de población conforme al último Censo General de Población exclusivamente entre los municipios que hicieron uso de ese fondo.
+
+III.- De darse el caso de creación de nuevos municipios, para los efectos de las fracciones anteriores se sumará el número de habitantes tanto de la nueva cabecera municipal como de las comunidades rurales que lo integren, pero siempre con base en los datos del último Censo General de Población. El coeficiente así obtenido se restará del que correspondía al municipio o municipios de donde se segregó el área que integrará al nuevo municipio.
 
 ###### ARTICULO 7o.
 
 Las participaciones federales que correspondan a los Municipios de los Fondos que establece esta Ley se calcularán y pagarán por cada ejercicio fiscal.
 
-La Secretaría de Finanzas una vez identificada la asignación mensual que le corresponda a la Entidad de los Fondos previstos por la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponda a cada Municipio.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+La Secretaría de Planeación y Finanzas, una vez identificada la asignación mensual que le corresponda a la Entidad de los fondos previstos por la Ley de Coordinación Fiscal, afectará mensualmente la participación que le corresponda a cada municipio.
 
 De conformidad a lo dispuesto en el último párrafo del Artículo 7o. de la Ley Fiscal Federal mencionada, la liquidación definitiva se determinará a más tardar dentro de los cinco meses siguientes al cierre de cada ejercicio fiscal, tomando en cuenta las cantidades que se hubieren afectado provisionalmente.
 
@@ -133,9 +139,11 @@ El Estado podrá realizar pagos por cuenta de los HH. Ayuntamientos, con cargo a
 
 ### CAPITULO TERCERO. DE LOS ORGANISMOS DE COLABORACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 9o.
 
-El Ejecutivo del Estado por medio de la Secretaría de Finanzas y los Ayuntamientos de los Municipios, podrán celebrar convenio de Colaboración Administrativa en las siguientes materias:
+El Ejecutivo del Estado, por medio de la Secretaría de Planeación y Finanzas y los Ayuntamientos de los municipios podrán celebrar convenio de colaboración administrativa en las siguientes materias:
 
 I.- Registro de contribuyentes.
 
@@ -159,9 +167,11 @@ X.- Intervención en juicio.
 
 El ejercicio de las facultades que se convengan, será respecto de ls (sic) Impuestos Federales coordinados que al Estado correspondan, gravámenes Estatales y Municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 10o.
 
-El Ejecutivo del Estado por sí o por conducto de la Secretaría de Finanzas y los Ayuntamientos, participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de:
+El Ejecutivo del Estado, por sí o por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos participarán en el desarrollo, vigilancia y perfeccionamiento del Sistema de Coordinación Fiscal del Estado, por medio de:
 
 I.- La Convención Fiscal de los Ayuntamientos del Estado.
 
@@ -173,9 +183,11 @@ III.- El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Po
 
 La Convención Fiscal de los Ayuntamientos del Estado de San Luis Potosí, se establece como instancia de coordinación de los Ayuntamientos del Estado entre sí, y con el Gobierno del Estado de San Luis Potosí para la definición de la política tributaria de jurisdicción municipal y para la adopción de los sistemas de su administración.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 12o.
 
-La Convención Fiscal de los Ayuntamientos del Estado se integrará anualmente por los Presidentes de los Ayuntamientos a convocatoria expedida por el Gobernador del Estado. Funcionará bajo la presidencia del Titular del Ejecutivo o por el Secretario de Finanzas, y desarrollará sus trabajos conforme a las bases que la propia Convención establezca y el reglamento correspondiente defina.
+La Convención Fiscal de los Ayuntamientos del Estado se integrará anualmente por los Presidentes de los Ayuntamientos, a convocatoria expedida por el Gobernador del Estado. Funcionará bajo la presidencia del titular del Ejecutivo o del Secretario de Planeación y Finanzas y desarrollará sus trabajos conforme a las bases que la propia Convención establezca y el Reglamento correspondiente defina.
 
 ###### ARTICULO 13o.
 
@@ -187,13 +199,17 @@ II.- Informe del Instituto de Capacitación y Asesoría Fiscal del Estado de San
 
 III.- Elección de los integrantes de la Comisión Permanente de Funcionarios Fiscales.
 
-IV.- Informe de la Secretaría de Finanzas sobre el comportamientos de los impuestos municipales que por convenio Administrativo y de sus perspectivas de su desarrollo en el año siguiente.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+IV.- Informe de la Secretaría de Planeación y Finanzas sobre el comportamiento de los impuestos municipales que por convenio administrativo maneje la Secretaría y de las perspectivas de su desarrollo en el año siguiente.
 
 V.- Proyectos de Ley de Ingresos remitidos por los Ayuntamientos para el año siguiente y proyecto unificado de Ley de Ingresos.
 
 VI.- Proyectos de Reformas, ajustes o adecuaciones a la Ley de Hacienda Municipal sugeridos por los propios Ayuntamientos o por el Ejecutivo del Estado.
 
-VII.- Informe de la Secretaría de Finanzas sobre el comportamiento y perspectivas del financiamiento a los Municipios y de las acciones a su cargo.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+VII.- Informe de la Secretaría de Planeación y Finanzas sobre el comportamiento y perspectivas del financiamiento a los municipios y de las acciones a su cargo.
 
 ###### ARTICULO 14o.
 
@@ -213,13 +229,15 @@ III.- Efectuar en forma permanente estudios de Legislación Fiscal, así como es
 
 La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-El Secretario de Finanzas, el Presidente de la Comisión de Vigilancia del Poder Legislativo y por cuatro Municipios representados por sus Tesoreros, elegidos anualmente por los Ayuntamientos en el número que para cada grupo se indica, así como por el suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales en su ausencia.
+El Secretario de Planeación y Finanzas, el Presidente de la Comisión de Vigilancia del Poder Legislativo y por cuatro municipios representados por sus tesoreros, elegidos anualmente por los Ayuntamientos en el número que por cada grupo se indica, así como por un suplente por cada uno de los miembros, quienes asistirán a las reuniones y actos de la Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales, en su ausencia.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
 ###### ARTICULO 17o.
 
-La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales será presidida por el Secretario de Finanzas o el suplente que éste designe. Sus sesiones serán convocadas por el Presidente o por el Contador General de Glosa. Se desarrollarán de conformidad con el reglamento de la Comisión que esta misma apruebe, debiendo celebrarse cuando menos dos veces al año.
+La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales será presidida por el Secretario de Planeación y Finanzas o el suplente que éste designe. Sus sesiones serán convocadas por el Presidente o por el titular de la Contaduría Mayor de Hacienda. Se desarrollarán de conformidad con el Reglamento de la Comisión que esta misma apruebe, debiendo celebrarse cuando menos dos veces al año.
 
 ###### ARTICULO 18o.
 
@@ -237,7 +255,9 @@ IV.- Capacitar técnicos y Funcionarios Fiscales, tanto del Estado como de los M
 
 El Instituto de Capacitación y Asesoría Fiscal del Estado de San Luis Potosí estará integrado por:
 
-I.- El Director que será nombrado por el Secretario de Finanzas, quien lo presidirá, debiendo contar para el desempeño de sus trabajos con el personal especializado que requiera.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I.- El director, que será nombrado por el Secretario de Planeación y Finanzas, quien lo presidirá, debiendo contar para el desempeño de sus trabajos con el personal especializado que requiera.
 
 II.- Dos Tesoreros Municipales de entre los que integran la Comisión Permanente, fungiendo como asesores.
 
@@ -296,3 +316,11 @@ P.O. 31 DE ENERO DE 1994.
 PRIMERO.- Se derogan y quedan sin efecto todas las disposiciones legales, acuerdos o circulares que se opongan a este Ordenamiento.
 
 SEGUNDO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 1994.
+
+PRIMERO.- La presente Ley entrará en vigor el primero de enero de mil novecientos noventa y cinco.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a las contenidas en esta Ley.
+
+TERCERO.- Publíquese en el Periódico Oficial del Estado.
