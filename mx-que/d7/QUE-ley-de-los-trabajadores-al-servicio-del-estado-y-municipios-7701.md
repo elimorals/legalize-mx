@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-al-servicio-del-estado-y-municipios-770
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-27"
-last_updated: "2000-09-15"
+last_updated: "2002-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7701&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 27 de agosto de 1987.
 
@@ -341,7 +341,11 @@ El tiempo que dure la licencia del trabajador se computará como efectiva dentro
 
 Las licencias con goce de sueldo se concederán en los siguientes casos:
 
-I.- Hasta tres días en tres ocasiones distintas, dentro de cada año natural, separadas cuando menos de un mes. Estas licencias podrán ser concedidas por los Jefes de las respectivas Dependencias, bajo su responsabilidad, dando aviso inmediato al Departamento de Personal correspondiente; si no lo hubiere, a la Oficialía Mayor de la Entidad Pública que corresponda, según el caso.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+I.- Hasta tres días en tres ocasiones distintas, dentro de cada año natural, separadas cuando menos de un mes. Estas licencias podrán ser concedidas por los jefes de las respectivas dependencias, bajo su responsabilidad, dando aviso inmediato al departamento de personal correspondiente; si no lo hubiere, a la oficialía mayor de la entidad pública que corresponda, según el caso.
+
+En caso de alumbramiento de la esposa o concubina del trabajador, éste tendrá derecho a solicitar dos licencias consecutivas. Y por urgencia dependiendo del caso en particular, podrá solicitar hasta tres licencias consecutivas.
 
 II.- Para las comisiones que le sean conferidas al trabajador por el Sindicato al que pertenece, siempre que no afecte al Servicio, a juicio del Titular de la Dependencia.
 
@@ -422,6 +426,10 @@ II.- Ejecutar cualquier acto que restrinja a los trabajadores el derecho de real
 III.- Hacer propaganda política o religiosa dentro de sus Dependencias.
 
 IV.- Realizar actos de represión de cualquier índole, agresiones de palabra o de obra en contra de los trabajadores, familiares o dependientes económicos.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+V. Solicitar certificado o constancia de no embarazo a las mujeres que soliciten empleo o que ya lo tengan, así como en su caso, negarles el empleo teniendo la experiencia y conocimientos aptos para el mismo por el hecho de estar embarazada, pertenecer a un estado civil determinado, o tener bajo su responsabilidad el cuidado de hijos menores.
 
 ### CAPITULO II. DE LAS OBLIGACIONES DE LOS TRABAJADORES
 
@@ -546,6 +554,10 @@ II.- Por reducir los salarios de los trabajadores.
 III.- No pagar los salarios correspondientes en las fechas y lugares a que se refiere esta Ley.
 
 IV.- Las análogas a las establecidas en las fracciones anteriores y que sean de consecuencia grave en perjuicio de los trabajadores.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2002)</small>
+
+V.- Despedir a las mujeres trabajadoras por el hecho de estar embarazadas, pertenecer a un estado civil determinado, o estar al cuidado de hijos menores.
 
 ###### ARTICULO 59.
 
@@ -1534,3 +1546,13 @@ La presente Ley entrará en vigor a partir del día siguiente al de su publicaci
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan aquellas disposiciones que se opongan a la presente Ley.
+
+P.O. 20 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente ley.
