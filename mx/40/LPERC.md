@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "1975-12-31"
+last_updated: "1980-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ENERO DE 1980.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -89,6 +89,10 @@ VIII.- de la Juventud;
 IX.- de Servicios a la Comunidad;
 
 X.- de Antigüedad en el Servicio Público.
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 1980)</small>
+
+XI.- De Administración Pública.
 
 La misma persona puede recibir dos o más premios distintos; pero sólo una vez el premio correspondiente a uno de los campos de los conceptos instituidos, o a un sólo concepto si éste no se divide en campos.
 
@@ -510,7 +514,11 @@ Este premio se tramitará en la Secretaría de Gobernación, cuyo titular presid
 
 Es aplicable a este premio lo prevenido en el 38 de la presente Ley.
 
-### CAPITULO XV. Estímulos y Recompensas
+### CAPITULO XIV-BIS
+
+Premio Nacional de Administración Pública.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 72.
 
@@ -532,7 +540,9 @@ Es aplicable a este premio lo prevenido en el artículo 38, que en relación con
 
 Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario, cuyo monto fijará discrecionalmente el Consejo de Premiación.
 
-### CAPITULO XVI. Disposiciones Generales
+### CAPITULO XV. Estímulos y Recompensas
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 77.
 
@@ -553,6 +563,8 @@ En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 3
 ###### ARTICULO 81.
 
 El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
+
+### CAPITULO XVI. Disposiciones Generales
 
 ###### ARTICULO 82.
 
@@ -602,59 +614,123 @@ Cada Consejo de Premiación determinará los nombres de las medallas de las resp
 
 Los trabajadores y funcionarios que se consideren con derecho a este premio, podrán hacerlo valer por sí mismos o por conducto de su representación sindical o personal, ante el Consejo. En lo conducente, es aplicable el artículo 72 de la presente Ley.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 91-A.
+
+El Premio Nacional de Administración Pública se concederá a los seleccionados de entre los servidores públicos que prestan sus servicios en las dependencias o entidades cuyas relaciones laborales se rigen por el apartado "B" del artículo 123 Constitucional, de conformidad con lo dispuesto por el artículo 98 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 91-B.
+
+El Premio Nacional de Administración Pública se otorgará en tres grados y consistirá en medalla que será de clase correspondiente al grado y se adicionará con la cantidad que fije el Presidente de la República.
+
+La entrega se hará en solemne ceremonia que se celebrará el 5 de diciembre de cada año, fecha en la que se conmemora la publicación del primer Estatuto de los trabajadores al servicio de los Poderes de la Unión.
+
+El Premio será con cargo al Presupuesto de la Presidencia de la República.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 91-C.
+
+La selección de los servidores públicos con merecimientos para el Premio Nacional de Administración Pública, se hará por un jurado integrado por el Coordinador General de Estudios Administrativos quien lo presidirá y sendos representantes de la Coordinación General del Sistema Nacional de Evaluación, de la Comisión de Recursos Humanos del Gobierno Federal y de la Federación de Sindicatos de Trabajadores al Servicio del Estado. En caso de empate, el Presidente tendrá voto de calidad.
+
+Al efecto, la Comisión Interna de Administración y Programación, en funciones de la Comisión Evaluadora con la participación de un representante del Sindicato, en cada dependencia o entidad, deberá turnar a dicho jurado el expediente del servidor público seleccionado, de conformidad con el artículo 98 de la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 91-D.
+
+Si falleciere la persona a quien se debe otorgar el Premio Nacional de Administración Pública la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o a quien expresamente se hubiere designado.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 91-E.
+
+La Coordinación General de Estudios Administrativos de la Presidencia de la República tendrá bajo su custodia el libro de honor en el que se asentarán anualmente los nombres de los servidores públicos que hayan obtenido el Premio Nacional de Administración Pública.
+
 ###### ARTICULO 92.
 
-Los estímulos y recompensas se otorgarán a los trabajadores sujetos al régimen de la Ley Federal de los Trabajadores al Servicio del Estado, que durante el último año hayan desempeñado de modo sobresaliente las actividades o funciones que se les encomendaron, o hayan cumplido con eficacia inobjetable sus labores ordinarias, o hayan llevado a cabo alguno o varios actos que hubieran significado mejoramiento notorio del servicio. La misma persona puede ser objeto de esta distinción en cada uno de los años en que la merezca.
+Los estímulos y recompensas se otorgarán a los servidores públicos seleccionados de entre aquéllos que prestan sus servicios en las dependencias y entidades cuyas relaciones laborales se rigen por el apartado "B" del artículo 123 Constitucional.
+
+Para el otorgamiento de los estímulos y recompensas a que se refiere el párrafo anterior, deberá seleccionarse de entre los servidores públicos a aquéllos que hayan realizado alguna de las siguientes acciones:
+
+a) Desempeño sobresaliente de las actividades encomendadas.
+
+b) Aportaciones destacadas en actividades relativas al programa de reforma administrativa.
+
+c) Elaboración de estudios e iniciativas que aporten notorios beneficios para el mejoramiento de la administración pública en general.
+
+d) Iniciativas valiosas o ejecución destacada en materia de técnica jurídica.
+
+e) Iniciativas valiosas o ejecución destacada en materia de financiamiento de proyectos o programas.
+
+f) Iniciativas valiosas o ejecución destacada en materia de sistemas de consumo, de mantenimiento de equipos, de aprovechamiento máximo de recursos humanos y materiales y otras aportaciones análogas.
+
+g) Estudios y labores de exploración, descubrimiento, invención o creación en los campos técnico o científico que redunden en notorios beneficios para la administración pública o para la nación.
+
+Los empleados de confianza podrán participar en los casos establecidos en los incisos b) a g) del presente artículo.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 93.
 
-Los estímulos y recompensas se tramitarán a moción de los superiores jerárquicos, del interesado, de su representación sindical o de los compañeros de labores, ante el Consejo de premiación establecido en el Capítulo XIV de esta ley.
+Las recompensas consistirán en:
+
+a) La cantidad de veinticinco mil pesos para cada uno de los tres servidores públicos seleccionados en cada Dirección General o Unidad Administrativa equivalente.
+
+b) La cantidad de cincuenta mil pesos y diploma al que resulte elegido por cada dependencia o entidad.
+
+Los estímulos consistirán en diez díaz (sic) de vacaciones extraordinarias para el servidor público que haya sido seleccionado en cada departamento o unidad administrativa equivalente, en las dependencias o entidades.
+
+Dichos estímulos y recompensas serán otorgadas por el titular en la fecha de abanderamiento del grupo que represente a la dependencia o entidad en la ceremonia del 20 de noviembre.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 94.
 
-Los estímulos consistirán en la mención honorífica que se pronuncie y el diploma que se entregue en ceremonia solemne que para otorgarlos se organice cada año por las respectivas dependencias u organismos del Poder Publico, cuyos titulares tendrán las facultades que indica el artículo 72.
+Los estímulos y recompensas se tramitarán a propuesta de los superiores jerárquicos, el interesado, de su representante sindical o de los compañeros de labores.
+
+Los estímulos y recompensas podrán no ser otorgadas cuando a juicio de la Comisión Interna de Administración y Programación, en funciones de Comisión Evaluadora, no se hubieren satisfecho los requerimientos establecidos en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 95.
 
-Salvo lo especificado en los tres siguientes, en lo general las recompensas que establece esta ley consistirán en entregas en numerario o en especie, cuyo monto y naturaleza se determinarán por los Consejos de Premiación, que también harán el señalamiento de los beneficiarios. No tendrán este carácter los beneficios derivados del establecimiento de las condiciones generales de trabajo en las diversas unidades burocráticas.
+La Comisión Interna de Administración y Programación, en funciones de Comisión Evaluadora, con el apoyo técnico del titular de la unidad administrativa encargada de la administración de personal expedirá durante el mes de julio la convocatoria para iniciar la selección de los servidores públicos merecedores de los estímulos y recompensas.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 96.
 
-Se limita el arbitrio que establece el artículo anterior volviendo obligatorio las recompensas, en los siguientes casos:
+Para el otorgamiento de los estímulos establecidos en el penúltimo párrafo del artículo 93 se formará un Comité de Evaluación en cada Dirección General o unidad administrativa equivalente, el que estará formado por el Director General o equivalente, quien lo presidirá y tendrá voto de calidad, un representante del titular de la dependencia o entidad, un representante de la Unidad de Organización y Métodos, el delegado sindical correspondiente y un representante de la Unidad de Administración de Personal quien fungirá como Secretario Técnico del Comité.
 
-I.- Iniciativa valiosas o ejecución destacada en materia de:
+Dicho Comité de Evaluación, durante la segunda quincena del mes de septiembre de cada año, seleccionará de entre los servidores públicos a aquéllos que por haber realizado alguna de las acciones a que se refiere el artículo 92 de la presente Ley se hagan acreedores a los estímulos establecidos.
 
-a) Planes de organización estructural y funcional para llevar a cabo el programa de Reforma Administrativa del Ejecutivo Federal.
-
-b) Técnica jurídica aplicable.
-
-c) Financiamiento de proyectos o programas; y
-
-d) Sistemas de consumo, de mantenimiento de equipos, de aprovechamiento máximo de recursos humanos y materiales y otras aportaciones análogas.
-
-II.- Por estudios y labores de exploración, descubrimiento, invención o creación en los campos técnicos o científicos que redunden en notorios beneficios para la Administración Pública o para la nación.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 97.
 
-Las recompensas a que se refiere el artículo anterior consistirán en:
+Dentro de los tres días hábiles siguientes a la adopción de las resoluciones por el Comité de Evaluación, éste deberá proporcionar a la Comisión Interna de Administración y Programación correspondiente, los expedientes de los servidores públicos acreedores a estímulos para que ésta, dentro de la primera quincena del mes de octubre, seleccione de entre ellos a aquéllos a los que se debe otorgar la recompensa establecida en el inciso a) del artículo 93 de esta Ley.
 
-I.- Vacaciones extraordinarias.
-
-II.- Becas en instituciones o planteles del país o del extranjero, para los trabajadores galardonados o para sus familiares consanguíneos.
-
-III.- Entregas en efectivo.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 98.
 
-Las recompensas en efectivo consistirán en el importe de 15 a 120 días del sueldo que disfrute el trabajador.
+Una vez concluida la selección a que se refiere el artículo anterior, la Comisión Interna de Administración y Programación en funciones de Comisión Evaluadora, seleccionará al servidor público que por sus méritos se haga acreedor a la recompensa a que se refiere el inciso b) del artículo 93 de la presente Ley, el que será propuesto además como candidato de la dependencia o entidad para el Premio Nacional de Administración Pública ante el jurado a que se refiere el artículo 91-C de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 99.
 
-Si fallece la persona a cuyo favor se esté tramitando una recompensa que se declare procedente, la entrega se hará a los beneficiarios designados ante el ISSSTE, y a falta de esta designación, al albacea del juicio sucesorio correspondiente.
+En cada dependencia del Ejecutivo la Unidad de Administración de Personal deberá llevar un libro de honor en el que se asentarán los nombres de los servidores públicos que hayan obtenido los estímulos y recompensas.
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 100.
 
-En la materia del presente Capítulo, los Consejos de Premiación fungirán a la vez como Jurados.
+Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las recompensas, la entrega se hará a los beneficiarios designados ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, o a quien expresamente se hubiere designado.
 
 ###### ARTICULO 101.
 
@@ -667,6 +743,12 @@ Los premios y las entregas adicionales en numerario o en especie, así como las 
 ###### ARTICULO 103.
 
 Salvo que esta Ley contenga disposición expresa al respecto, los Jurados están facultados para proponer que dos o más personas con iguales merecimientos participen entre sí el mismo premio, o que éste se otorgue a cada una de ellas.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 1980)</small>
+
+###### ARTICULO 104.
+
+Las recompensas señaladas en efectivo por la presente Ley, se ajustarán en la proporción en que se modifique, el salario mínimo general en el Distrito Federal.
 
 TRANSITORIOS:
 
@@ -685,3 +767,11 @@ Esta Ley entrará en vigor a los tres días de su publicación en el "Diario Ofi
 México, D. F., a 4 de noviembre de 1975.- Juan Sabines Gutiérrez, S. P.- Mariano Araiza Zayas, D. P.- Germán Corona del Rosal, S. S.- José Luis Estrada Delgadillo, D. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los cinco días del mes de noviembre de mil novecientos setenta y cinco.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Secretario de la Defensa Nacional, Hermenegildo Cuenca Díaz.- Rúbrica.- El Secretario de Marina, Luis M. Bravo Carrera.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Mario Ramón Beteta M.- Rúbrica.- El Secretario del Patrimonio Nacional, Francisco Javier Alejo López.- Rúbrica.- El Secretario de Industria y Comercio, José Campillo Sáinz.- Rúbrica.- El Secretario de Agricultura y Ganadería, Oscar Brauer Herrera.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro - Rúbrica.- El Secretario de Obras Públicas, Luis Enrique Bracamontes.- Rúbrica.- El Secretario de Recursos Hidráulicos, Leandro Rovirosa Wade. - Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Salubridad y Asistencia, Gines Navarro Díaz de León.- Rúbrica.- El Secretario de Trabajo y Previsión Social, Carlos Gálvez Betancourt.- Rúbrica.- El Secretario de la Presidencia, Ignacio Ovalle Fernández.- Rúbrica.- El Secretario de la Reforma Agraria, Félix Barra García.- Rúbrica.- El Secretario de Turismo, Julio Hirschfeld Almada.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 15 DE ENERO DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
