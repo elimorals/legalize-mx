@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-congreso-del-estado-de-durango-15059"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-07-01"
-last_updated: "1999-07-01"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15059&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 1 de julio de 1999.
 
@@ -397,7 +397,7 @@ IV. Proponer al pleno del Congreso los integrantes de las Comisiones Legislativa
 
 V. Proponer al pleno del Congreso, para su designación o remoción, a quienes ocupen los siguientes cargos dentro de la Legislatura:
 
-a).-El Oficial Mayor;
+a).- El Oficial Mayor;
 
 b).- El Contador Mayor de Hacienda;
 
@@ -573,11 +573,11 @@ c).- El Presidente de cada comisión esta obligado a convocar a reunión con ant
 
 Las convocatorias a reunión de comisiones, deberán comunicarse con la anticipación mínima señalada en el artículo anterior, según sea el caso, salvo urgencia determinada por la mayoría de los miembros de la Comisión, y deberá incluir lo siguiente:
 
-a).-Proyecto de orden del día;
+a).- Proyecto de orden del día;
 
-b).-Fecha, hora y lugar preciso de su realización, dentro del Palacio Legislativo; y
+b).- Fecha, hora y lugar preciso de su realización, dentro del Palacio Legislativo; y
 
-c).-Relación pormenorizada de los asuntos que deberán ser votados por la Comisión.
+c).- Relación pormenorizada de los asuntos que deberán ser votados por la Comisión.
 
 ###### ARTÍCULO 73.
 
@@ -1009,11 +1009,19 @@ Para abrir los períodos de sesiones del Congreso, una vez cubierto el procedimi
 
 De lo anterior, deberá darse conocimiento a los Titulares de los Poderes Ejecutivo y Judicial del Estado, por medio de oficio. Lo mismo deberá hacerse a las Cámaras del Poder Legislativo Federal, a los Poderes Legislativos de las otras Entidades Federativas, y a los Ayuntamientos del Estado.
 
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
 ###### ARTÍCULO 126.
 
-El día 12 de Septiembre de cada año, el Gobernador del Estado, enviará al Congreso, por escrito un Informe de la situación que guarda la Administración Pública. Podrá comparecer a la sesión para dirigir un mensaje, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
+El día 12 de Septiembre de cada año, el Gobernador del Estado se presentará ante el Congreso para rendir por escrito un informe de la situación que guarda la Administración Pública.
 
-En esta sesión, hará uso de la palabra un diputado por cada uno de los partidos políticos representados en el Congreso. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y no excederá de quince minutos. Esta sesión será solemne y no tendrá más objeto que el indicado, durante la cual no procederán intervenciones o interrupciones por parte de los legisladores.
+Estando presente el Gobernador del Estado, hará uso de la palabra un diputado por cada uno de los partidos políticos representados en el Congreso, para fijar su postura respecto a la situación imperante en el Estado. Estas intervenciones se realizarán en orden creciente, en razón del número de diputados de cada grupo partidista y no excederá de quince minutos. Esta sesión será solemne y no tendrá más objeto que el indicado, durante la cual no procederán intervenciones o interrupciones por parte de los legisladores.
+
+En la sesión, el Ejecutivo dirigirá un mensaje con motivo del informe, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
+
+Previo a cada informe anual que rinda el Ejecutivo del Estado, el Presidente del Congreso designará la comisión legislativa encargada de coordinar el análisis de dicho informe y evaluar el cumplimiento de los objetivos y metas fijadas en el Plan Estatal de Desarrollo.
+
+Los Secretarios del Despacho del Ejecutivo, el Procurador General de Justicia y los titulares de los organismos públicos descentralizados de la Administración Pública Estatal que sean citados por el Congreso con motivo de la glosa del informe, comparecerán ante el Pleno, pero corresponderá a la citada comisión legislativa rendir el dictamen correspondiente.
 
 ## TÍTULO SEGUNDO. DE LAS INICIATIVAS Y LOS DICTÁMENES
 
@@ -1900,3 +1908,9 @@ TERCERO.- Se abroga la Ley Orgánica del Congreso del Estado, del 18 de diciembr
 Dado en el salón de sesiones del H. Congreso del Estado, en Victoria de Durango, Dgo., a los (21) veintiún días del mes de Abril de (1999) mil novecientos noventa y nueve.
 
 DIP. CARLOS ABRAHAM GARZA LIMON.- PRESIDENTE, DIP. OSCAR GARCIA BARRON.- SECRETARIO, DIP. JAIME RUIZ CANAAN.- SECRETARIO.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE AGOSTO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
