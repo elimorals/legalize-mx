@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1999-11-17"
+last_updated: "2002-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -595,15 +595,15 @@ ARTICULO 93 BIS-12.- Los jueces, notarios, corredores públicos, las oficinas p�
 
 #### SECCION SEGUNDA. DEL IMPUESTO SOBRE ADQUISICION DE BIENES INMUEBLES
 
+(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
+
+ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
+
 > <small>N. DE E. EL LEGISLADOR FUE OMISO (UNA VEZ ADICIONADO EL CAPITULO PRIMERO BIS) AL SEÑALAR LA UBICACION DEL PRESENTE ARTICULO, EN VIRTUD DE QUE ANTES PERTENECIA AL CAPITULO PRIMERO DE ESTE TITULO, P.O. 17 DE NOVIEMBRE DE 1999.</small>
 
 ###### ARTICULO 94.
 
 (DEROGADO, P.O. 25 DE ENERO DE 1989)
-
-(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999) (F. DE E., P.O. 1 DE DICIEMBRE DE 1999)
-
-ARTICULO 94 BIS.- Están obligados al pago del impuesto Sobre Adquisición de Bienes Inmuebles establecido en esta Ley, las personas físicas o morales que adquieran inmuebles que consistan en la superficie de terreno y la de construcción, en su caso, ubicados en el Municipio, así como los derechos relacionados con los mismos a que esta Ley se refiere. El impuesto se calculará aplicando al valor del inmueble la tasa del dos por ciento.
 
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 1999)</small>
 
@@ -841,21 +841,23 @@ Tasa o cuota Fija mensual
 
 I.- De espectáculos.
 
-A.- Cinematográficos:
+A.- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
 
-a).- Sobre el ingreso bruto:15%
+a).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
 
-b).- Instalados en vehículos, por función: de $150.00 a $650.00
+b).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
 
-c).- Funciones extraordinarias en horario diferente al autorizado.
+c).- (DEROGADO, P.O. 30 DE ENERO DEL 2002)
 
-Sobre el ingreso bruto: 5%
+> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
 
-B.- Teatro, variedades y otros similares por función sobre el ingreso bruto: del 15%
+B.- Obras de teatro, variedades y otros similares: 8% calculado sobre el ingreso total por función que derive de dichas actividades;
 
-C.- CIRCO:
+> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
 
-Por función sobre el ingreso bruto:15%
+C.- Funciones de circo: 8% calculado sobre el ingreso total por función que derive de dichas actividades;
+
+Los espectáculos públicos consistentes en obras de teatro y funciones de circo, no causarán el pago del impuesto adicional.
 
 D.- FESTIVALES TAURINOS:
 
@@ -899,7 +901,7 @@ Sobre el ingreso bruto: 10%
 
 V.- Otros espectáculos, diversiones o juegos no especificados sobre sus ingresos brutos: 20%
 
-VI.- Loterías, instaladas en locales permanentes o puestos semifijos: diario de: $75.00 a $300.00
+VI.- Loterías, instaladas en locales permanentes o puestos semifijos: diario de $75.00 a $300.00
 
 VII.- Por la obtención de premios en sorteos, loterías o rifas, sobre el ingreso bruto o valor del premio obtenido: 6%
 
@@ -3251,7 +3253,7 @@ El arrendamiento, la explotación, el traspaso y la cesión de bienes de propied
 
 ###### ARTICULO 207.
 
-Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes:
+Son aprovechamientos, los ingresos municipales ordinarios, no clasificados como impuestos, derechos o productos. Quedan comprendidos como tales los siguientes: (sic)
 
 ### CAPITULO SEGUNDO. RECARGOS
 
@@ -3428,6 +3430,12 @@ PRIMERO.- Aprobado que sea el Decreto, túrnese al Titular del Poder Ejecutivo d
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad".
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2002.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO PRIMERO.
 
