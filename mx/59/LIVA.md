@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "2001-03-02"
+last_updated: "2002-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ LEY DEL IMPUESTO AL VALOR AGREGADO
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
 
-ULTIMA MODIFICACION MISCELANEA FISCAL PUBLICADA EN DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2001.
+ULTIMA MODIFICACION MISCELANEA FISCAL EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE FEBRERO DE 2002.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
 
@@ -204,11 +204,11 @@ Los actos o actividades a los que se les aplica la tasa del 0%, producirán los 
 
 (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
-(ACTUALIZADO PRIMER PARRAFO EN SU MONTO POR EL ANEXO 5 DE LA RESOLUCION MISCELANEA FISCAL PARA 2000, D.O.F. 2 DE MARZO DE 2001) (REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)
+(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997) (REFORMADO PRIMER PARRAFO, EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 12 DE FEBRERO DE 2002)
 
 ###### ARTICULO 2o-C.
 
-Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,456,992.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
+Las personas físicas con actividades empresariales que únicamente enajenen bienes o presten servicios al público en general, no estarán obligadas al pago del impuesto por dichas actividades, siempre que en el año de calendario anterior hayan obtenido ingresos que no excedan de $1,521,100.00 por dichas actividades. La cantidad a que se refiere este párrafo se actualizará anualmente, en el mes de enero, en los términos del artículo 17-A del Código Fiscal de la Federación.
 
 Asimismo, estarán sujetas a lo previsto en este artículo las personas físicas que se dediquen a actividades agrícolas, silvícolas o pesqueras, no obstante que la totalidad o parte de sus actos o actividades no las realicen con el público en general, debiendo reunir, en todo caso, el requisito de límite de ingresos a que se refiere el párrafo anterior.
 
@@ -1768,10 +1768,6 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO. El presente Decreto entrará en vigor el 1o. de enero de 1999.
 
-D.O.F. 15 DE FEBRERO DE 1999.
-
-> <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
-
 D.O.F. 31 DE DICIEMBRE DE 1999.
 
 Disposiciones Transitorias de la Ley del Impuesto al Valor Agregado
@@ -1815,6 +1811,10 @@ Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas de
 D.O.F. 2 DE MARZO DE 2001.
 
 Unico. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 12 DE FEBRERO DE 2002.
+
+Unico.- La presente Resolución entrara en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
 
