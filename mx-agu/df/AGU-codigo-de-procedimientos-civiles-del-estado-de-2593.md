@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-civiles-del-estado-de-2593"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-16"
-last_updated: "2001-11-05"
+last_updated: "2004-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN LOS P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LAS CRONOLOGÍAS CORRESPONDIENTES A DICHAS FECHAS, EN LOS ÍNDICES RESPECTIVOS DE SUS HISTORIAS LEGISLATIVAS.</small>
+
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Código publicado en el Suplemento al Número. 29 del Periódico Oficial del Estado de Aguascalientes, el domingo 16 de julio de 1989.
 
@@ -3179,6 +3181,8 @@ VIII.- En todo lo demás se observarán, en lo conducente, las disposiciones de 
 
 ### CAPITULO II. Documentos Ejecutivos
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 507.
 
 En un juicio seguido entre dos o más personas podrán intervenir uno o más terceros, siempre que tengan interés propio y distinto del que tengan actor o demandado en la materia del juicio.
@@ -3291,23 +3295,41 @@ La sentencia que decide una tercería es apelable.
 
 ###### ARTICULO 529.
 
-Son documentos ejecutivos:
+Para que el juicio ejecutivo tenga lugar, se necesita que la acción se funde en un documento que traiga aparejada ejecución. En consecuencia, se consideran documentos ejecutivos, los siguientes:
 
-I.- Los testimonios de una escritura pública expedidos conforme a la ley;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
 
-II.- Los instrumentos públicos que conforme a este Código hacen prueba plena;
+I.- La primera copia de una escritura pública expedida por el juez o notario público ante quien se otorgó; y las ulteriores copias de esas mismas escrituras expedidas por mandamiento judicial, con citación de las personas a quienes interesa;
 
-III.- Cualquier documento privado, después de reconocido judicialmente por quien lo hizo o lo mandó extender, bastando con que se reconozca la firma, aun cuando se niegue la deuda;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+II.- Los demás instrumentos públicos que conforme a este Código hacen prueba plena;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+III.- Cualquier documento privado que haya sido reconocido expresamente ante notario o ante Autoridad Judicial competente, por quien lo hizo o lo mandó extender, bastando con que se reconozca la firma, aún cuando se niegue la deuda;
 
 IV.- La confesión de la deuda hecha ante juez competente por el deudor o por su representante con facultades para ello;
 
 V.- Los convenios celebrados en el curso de un juicio ante el juez, ya sea de las partes entre sí o de terceros que se hubieren obligado como fiadores, depositarios o en cualquier otra forma;
 
-VI.- El juicio uniforme de contadores, si las partes, ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+VI. Los convenios celebrados ante las autoridades ministeriales, judiciales o ejecutoras, en términos de lo previsto por la Legislación Penal del Estado de Aguascalientes, por los sujetos procesales interesados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2004)</small>
+
+VII.- Las pólizas originales de contratos celebrados con intervención de Corredor Público; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2004)</small>
+
+VIII. El juicio uniforme de contadores, si las partes, ante el juez o por escritura pública o por escrito privado reconocido judicialmente, se hubieren sujetado a él expresamente o lo hubieren aprobado.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 530.
 
-Las ejecutorias y los convenios judiciales, laudos o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
+Las ejecutorias y los convenios judiciales, laudos, convenios celebrados ante la Procuraduría Federal del Consumidor o laudos que emita tal autoridad, o juicios de contadores, motivarán ejecución si el interesado no intentare la vía de apremio.
 
 ###### ARTICULO 531.
 
@@ -3317,11 +3339,19 @@ Las cantidades que por intereses daños y perjuicios formen parte de la deuda re
 
 Si el título ejecutivo contiene obligación de hacer, se observarán las reglas siguientes:
 
-I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al artículo 1935 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
 
-II.- Si en el contrato se estableció alguna pena, por el importe de ésta se decretará la ejecución;
+I.- Si el actor exige la prestación del hecho por el obligado o por un tercero conforme al Artículo 1935 del Código Civil, el juez, atendidas las circunstancias del hecho, señalará un término prudente para que se cumpla la obligación;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+II.- Si en el contrato o convenio se estableció alguna pena, por el importe de ésta se decretará la ejecución;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
 
 III.- Si no se fijó la pena, el importe de los daños y perjuicios será fijado por peritos que el juez nombrará antes de despachar la ejecución;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
 
 IV.- Hecho el acto por el tercero o efectuado el embargo por los daños y perjuicios o la pena, puede oponerse el demandado, de la misma manera que en las demás ejecuciones.
 
@@ -3381,13 +3411,13 @@ El auto en que se denegare la ejecución admite el recurso de queja. En el que s
 
 Decretado el auto de ejecución, el cual tendrá la fuerza de mandamiento en forma, el ejecutor requerirá de pago al deudor, y no pagando éste en el acto, se procederá a embargarle bienes suficientes para cubrir la cantidad demandada y costas. El actor podrá asistir a la práctica de la diligencia.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 543.
 
-La ejecución se suspenderá cuando el demandado presente certificado legalmente expedido en que conste que se encuentra declarado su estado de quiebra, concurso o suspensión de pagos.
+La ejecución se suspenderá cuando el demandado presente certificado legalmente expedido en que conste que se encuentra declarado su estado de quiebra, concurso o suspensión de pagos, suspensión que no operará en tratándose de los convenios previstos en la fracción VI del artículo 529 del presente Código.
 
-También se suspenderá la ejecución cuando el deudor consigne la cantidad reclamada para evitar los gastos y molestias del embargo, reservándose el derecho de oponerse y la cantidad se depositará conforme a la ley; si no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte.
-
-Cualquier defensa que se alegue o recurso que se interponga, sólo se hará constar en la diligencia.
+También se suspenderá la ejecución cuando el deudor consigne la cantidad reclamada para evitar los gastos y molestias del embargo, reservándose el derecho de oponerse y la cantidad se depositará conforme a la Ley; si no fuere suficiente para cubrir la deuda principal y las costas, se practicará el embargo por lo que falte. Cualquier defensa que se alegue o recurso que se interponga solo se hará constar en la diligencia.
 
 ###### ARTICULO 544.
 
@@ -3521,6 +3551,8 @@ Lo anterior no limita a las partes para que a su costa y con el consentimiento d
 
 ### CAPITULO V. De los Alimentos
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 561.
 
 La demanda de desahucio debe fundarse en la falta de pago de tres o más mensualidades y se acompañará con el contrato escrito del arrendamiento, cuando ello fuere necesario para la validez del acto conforme al Código Civil. En caso de no ser necesario contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquiera otra bastante como medio preparatorio del juicio.
@@ -3561,11 +3593,15 @@ Si el actor lo pide, al ejecutarse el lanzamiento se embargarán bienes bastante
 
 En las contiendas sobre desahucio, se entiende domicilio legal la finca o departamento de cuya desocupación se trate, salvo pacto en contrario.
 
-### CAPITULO VI. Interdictos
+### CAPITULO VI. Del Daño Moral
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 571.
 
-Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán conforme a las reglas generales del juicio y a las especiales de este capítulo.
+Los juicios que versen sobre pago o aseguramiento de alimentos se tramitarán conforme a las reglas generales del juicio y a las especiales de este Capítulo.
+
+En los casos de los artículos 294 y 304 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
 
 ###### ARTICULO 572.
 
@@ -3591,13 +3627,45 @@ Si el embargo hubiere recaído en rentas o frutos, sueldos, pensiones o comision
 
 Si el embargo recae en bienes cuyo valor exceda el de la primera mensualidad, el embargo garantizará el suministro de las subsecuentes, también sin necesidad de requerimiento y embargo por cada mensualidad.
 
-### CAPITULO VII. De la Modificación de las Actas del Estado Civil
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 577.
+### CAPITULO VII. Interdictos
 
-En los casos del los Artículo 297 y 304 del Código Civil, se observarán las disposiciones relativas de este procedimiento.
+###### ARTÍCULO 577.
 
-### CAPITULO VIII. Del Divorcio por Mutuo Consentimiento
+Los procedimientos que tengan por objeto resolver sobre el ejercicio de las acciones a que se refiere el artículo 1790 del Código Civil, se tramitarán con sujeción a las reglas generales del juicio y a las especiales de este Capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 577-A.
+
+Presentada la demanda por el actor, en la cual se señalarán los medios probatorios permitidos por este código para acreditar la existencia de los hechos base de su acción, una vez que sea admitida, se ordenará se emplace al o a los demandados, para que dentro del término de seis días, formulen contestación, refiriéndose concretamente a cada hecho propuesto en la demanda y ofreciendo a su vez, los medios probatorios que proponga para acreditar sus excepciones y defensas.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 577-B.
+
+Formulada la contestación de demanda o transcurrido el término para ello, sin que se hubiere contestado, el juez admitirá y mandará preparar las pruebas que procedan, abriendo el juicio a desahogo de pruebas, hasta por un término de quince días, dentro de los cuales deberán realizarse todas las diligencias necesarias para su desahogo, señalando las fechas necesarias para su recepción.
+
+Antes de recibir las pruebas que se hayan admitido, se intentará la conciliación de las partes mediante el arbitraje del juez, en términos de lo establecido por el artículo 69 de este Código. Si no se llega a un acuerdo, se continuará con el desarrollo del juicio, en los términos previstos en el presente capítulo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 577-C.
+
+Si el demandado se allana a la demanda y solicita término para el pago de lo reclamado, el juez dará vista al actor para que, dentro de tres días manifieste lo que a su derecho convenga, debiendo el juez resolver de acuerdo a tales proposiciones de las partes.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 577-D.
+
+Concluido el desahogo de las pruebas admitidas, se oirán alegatos y se dictará sentencia, la cual atenderá precisamente lo previsto por el artículo 1790 del Código Civil del Estado, y será emitida dentro de los ocho días hábiles siguientes.
+
+En contra de la sentencia que se dicte en el procedimiento previsto en este Capítulo, procede el recurso de apelación.
+
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+
+### CAPITULO VIII. De la Modificación de las Actas del Estado Civil
 
 ###### ARTICULO 578.
 
@@ -3683,7 +3751,9 @@ Contra las resoluciones que se dicten ordenando la práctica de las medidas prov
 
 Cuando la sentencia decrete la demolición de la obra peligrosa, el juez dispondrá que se ejecute bajo la dirección de un perito, que designará al efecto, para evitar que al practicarse se causen perjuicios.
 
-### CAPITULO I. Reglas Generales
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+
+### CAPITULO IX. Del Divorcio por Mutuo Consentimiento
 
 ###### ARTICULO 598.
 
@@ -3709,7 +3779,9 @@ Es juez competente para conocer de estos juicios, el de Primera Instancia de la 
 
 Tan luego como cause ejecutoria la sentencia que se pronuncie en estos juicios, el juez cumplirá lo dispuesto en el artículo 135 del Código Civil.
 
-### CAPITULO II. Verificación y Graduación de Créditos
+> <small>(REFORMADA SU NUMERACION, P.O. 12 DE FEBRERO DE 2004)</small>
+
+### CAPITULO I. Reglas Generales
 
 ###### ARTICULO 604.
 
@@ -3759,11 +3831,11 @@ En cualquier caso en que los cónyuges dejaren pasar más de tres meses sin cont
 
 Ejecutoriada la sentencia de divorcio, el Tribunal mandará remitir copia de ella al Oficial del Registro Civil de su jurisdicción, al del lugar en que el matrimonio se efectuó y al de nacimiento de los divorciados para los efectos de los artículos 106, 108, y 313 del Código Civil.
 
-### CAPITULO III. De la Administración del Concurso
+### CAPITULO II. Verificación y Graduación de Créditos
 
 ## TITULO DECIMO SEGUNDO. DE LOS CONCURSOS
 
-### CAPITULO IV. Reglas del Deudor Común
+### CAPITULO III. De la Administración del Concurso
 
 ###### ARTICULO 615.
 
@@ -3825,7 +3897,7 @@ Mientras los acreedores ausentes se presentan, serán representados por el Minis
 
 El concursado en el caso de concurso forzoso, deberá presentar al juzgado, dentro de los cinco días de la notificación del auto que lo declare, un estado detallado de su activo y pasivo con nombres y domicilios de acreedores y deudores, privilegiados y avalistas; si no lo presentare lo hará el Síndico.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO IV. Reglas del Deudor Común
 
 ###### ARTICULO 623.
 
@@ -3937,7 +4009,7 @@ Los acreedores listados en el estado del deudor o que presentaren sus documentos
 
 Cuando al hacerse una cesión de bienes sólo hubiere acreedores hipotecarios, se observarán las disposiciones contenidas en el Título Primero, Tercera Parte, del Libro Cuarto del Código Civil, siendo forzosamente el síndico o el acreedor hipotecario primero en tiempo, quien litigará en representación de los demás acreedores, sin perjuicio de que también se observe lo dispuesto en los artículos precedentes.
 
-### CAPITULO II. Testamentarias
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 644.
 
@@ -4001,7 +4073,7 @@ Cuando el cargo de síndico fuere desempeñado sucesivamente por distintas perso
 
 En el caso de revocación del concurso, el síndico sólo percibirá honorarios de procurador en proporción a los trabajos realizados.
 
-### CAPITULO III. Intestados
+### CAPITULO II. Testamentarias
 
 ###### ARTICULO 654.
 
@@ -4017,7 +4089,7 @@ Si en el curso del juicio se hace constar que los bienes son inferiores a los cr
 
 ## TITULO DECIMO TERCERO. DE LAS SUCESIONES
 
-### CAPITULO IV. Inventario y Avalúo
+### CAPITULO III. Intestados
 
 ###### ARTICULO 656.
 
@@ -4187,7 +4259,7 @@ V.- Las resoluciones sobre los proyectos mencionados; y
 
 VI.- Lo relativo a la aplicación de los bienes.
 
-### CAPITULO V. De la Administración
+### CAPITULO IV. Inventario y Avalúo
 
 ###### ARTICULO 680.
 
@@ -4219,7 +4291,7 @@ Si se impugnare la validez del testamento o la capacidad legal de algún hereder
 
 En la junta prevenida por el artículo 680 podrán los herederos nombrar interventor conforme a la facultad que les concede el artículo 1609 del Código Civil y se nombrará precisamente en los casos previstos por el 1612 del mismo Código.
 
-### CAPITULO VI. De la Rendición de Cuentas
+### CAPITULO V. De la Administración
 
 ###### ARTICULO 686.
 
@@ -4269,7 +4341,7 @@ Al albacea se le entregarán los bienes sucesorios así como los libros y papele
 
 Si nadie se presenta reclamando la herencia o si no fuere reconocido el derecho de los presentados, se declarará heredera a la Beneficencia Pública.
 
-### CAPITULO VII. De la Liquidación y Partición de la Herencia
+### CAPITULO VI. De la Rendición de Cuentas
 
 ###### ARTICULO 696.
 
@@ -4417,7 +4489,7 @@ Aprobados el inventario y el avalúo por el juez, no podrán reformarse sino por
 
 Los gastos de inventario y avalúo serán a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
 
-### CAPITULO VIII. De la Tramitación por Notarios
+### CAPITULO VII. De la Liquidación y Partición de la Herencia
 
 ###### ARTICULO 720.
 
@@ -4485,7 +4557,7 @@ El dinero y alhajas se depositarán en la Secretaría de Finanzas, pero el juez 
 
 Aprobados el inventario y el avalúo de los bienes y terminados los incidentes a que uno y otro hubieren dado lugar se procederá a la liquidación del caudal.
 
-### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
+### CAPITULO VIII. De la Tramitación por Notarios
 
 ###### ARTICULO 734.
 
@@ -4535,7 +4607,7 @@ El auto que apruebe o repruebe las cuentas, será apelable.
 
 Las operaciones comprendidas en este capítulo y el precedente, se tramitarán por cuerda separada y no impedirán que se proceda a la liquidación y partición de la herencia ni a la entrega de las porciones hereditarias ni el otorgamiento de los títulos de propiedad, pero no se cancelará la garantía otorgada por el albacea y en el caso del artículo 1590 del Código Civil, se retendrá la porción hereditaria que le corresponda, hasta que hayan sido aprobadas estas operaciones y resueltos los incidentes a que hubieran dado lugar. Esto mismo se observará respecto de los interventores. Si el resultado de estas operaciones arroja un saldo a favor de la sucesión, se procederá en los términos del artículo 1672 del Código Civil. Si resultare saldo en contra de la sucesión, y ya hubiere sido entregada a los herederos su porción hereditaria, éstos responderán personalmente de su pago en proporción a la porción recibida, y hasta donde ésta alcance.
 
-### CAPITULO X. Del Testamento Público Cerrado
+### CAPITULO IX. Transmisión Hereditaria del Patrimonio Familiar
 
 ###### ARTICULO 744.
 
@@ -4709,7 +4781,7 @@ La adjudicación de bienes hereditarios se otorgará con las formalidades que la
 
 Contra la sentencia que apruebe o repruebe la partición, procede el recurso de apelación.
 
-### CAPITULO XI. Declaración de ser Formal el Testamento Privado
+### CAPITULO X. Del Testamento Público Cerrado
 
 ###### ARTICULO 774.
 
@@ -4733,7 +4805,7 @@ El Notario dará a conocer estas declaraciones por medio de una publicación en 
 
 Practicado el inventario y formado el proyecto de partición por el albacea con aprobación de los herederos, los exhibirá al Notario, quien los hará constar en actas separadas o bien en la escritura de adjudicación correspondiente en términos del artículo 767, de éste Código.
 
-### CAPITULO XII. Testamento Militar
+### CAPITULO XI. Declaración de ser Formal el Testamento Privado
 
 ###### ARTICULO 777.
 
@@ -4751,7 +4823,7 @@ V.- El acta o actas en que consten las adjudicaciones pueden servir de título a
 
 VI.- La transmisión de los bienes del patrimonio familiar, está exenta de contribuciones, cualquiera que sea su naturaleza.
 
-### CAPITULO I. Disposiciones Generales
+### CAPITULO XII. Testamento Militar
 
 ###### ARTICULO 778.
 
@@ -4769,7 +4841,7 @@ La protocolización de todo testamento cerrado, se hará en la notaría que desi
 
 Si se presentaren dos o más testamentos cerrados de una misma persona, sean de la misma fecha o de diversa, el juez procederá respecto de cada uno de ellos, como se previene en este capítulo y los hará protocolizar en un mismo oficio para los efectos a que haya lugar, en los casos previstos en los artículos 1406 y 1408 del Código Civil.
 
-### CAPITULO II. De la Declaración de Estado
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 781.
 
@@ -4801,7 +4873,7 @@ De la resolución que niegue la declaración solicitada, pueden apelar el promov
 
 La protocolización del testamento privado se hará en los términos del artículo 779 de este Código.
 
-### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
+### CAPITULO II. De la Declaración de Estado
 
 ###### ARTICULO 786.
 
@@ -4815,7 +4887,7 @@ De la declaración judicial se remitirá copia autorizada al Secretario de la De
 
 ## TITULO DECIMO CUARTO. JURISDICCION VOLUNTARIA
 
-### CAPITULO IV. Vigilancia y Cuentas de la Tutela
+### CAPITULO III. Nombramientos de Tutores y Curadores y Discernimiento de Estos Cargos
 
 ###### ARTICULO 788.
 
@@ -4863,7 +4935,7 @@ Los actos de jurisdicción voluntaria de que no se hiciere mención especial en 
 
 Los actos de que tratan los capítulos siguientes se sujetarán a las reglas que en ellos se establecen y a las contenidas en el presente, en cuanto no se opongan a lo establecido en sus respectivos capítulos.
 
-### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
+### CAPITULO IV. Vigilancia y Cuentas de la Tutela
 
 ###### ARTICULO 797.
 
@@ -4941,9 +5013,7 @@ La declaración de estado de los sordomudos se hará mediante el dictamen unáni
 
 Las sentencias que declaren la interdicción y las que le pongan término, se publicarán en el Periódico Oficial y en un diario de circulación estatal, por tres veces consecutivas, de siete en siete días.
 
-### CAPITULO VI. Adopción
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+### CAPITULO V. Disposición de Bienes de Menores, Incapacitados y Ausentes y de la Transacción Sobre sus Derechos
 
 ###### ARTICULO 807.
 
@@ -5051,7 +5121,9 @@ Contra las resoluciones que se dicten, conforme a los dos artículos anteriores,
 
 Una vez acreditado el nombramiento de curador, hecho por la persona facultada para ello por la ley u otorgado por el juez en los casos en que deba hacerlo, se hará saber la designación al nombrado y se procederá a discernirle el cargo, observándose en lo conducente las disposiciones de los artículos anteriores.
 
-### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
+### CAPITULO VI. Adopción
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
 ###### ARTICULO 832.
 
@@ -5123,7 +5195,7 @@ Cuando del examen de la cuenta resulten motivos graves para sospechar dolo o fra
 
 En todos los casos en que el tutor necesite para algún acto de la licencia del juez o de su aprobación, se requerirá la previa audiencia del curador, con el cual, en caso de oposición se substanciará el incidente relativo. En este incidente se decidirá solamente la diferencia entre el tutor y el curador y no se admitirá recurso alguno.
 
-### CAPITULO VIII. Depósito de Personas
+### CAPITULO VII. Excusa y Pérdida de la Patria Potestad
 
 ###### ARTICULO 845.
 
@@ -5207,7 +5279,7 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 La venta de los bienes indivisos pertenecientes a mayores o menores de edad, se hará con sujeción a este capítulo, teniendo en cuenta lo que se dispone en el artículo 587 del Código Civil.
 
-### CAPITULO IX. Informaciones Ad-Perpetuam
+### CAPITULO VIII. Depósito de Personas
 
 ###### ARTICULO 858.
 
@@ -5241,7 +5313,7 @@ La impugnación de la adopción simple y su revocación en los casos de los Art�
 
 Cuando se apruebe la adopción o se deje sin efecto, el juez cumplirá lo que previenen los artículos 424 y 433 del Código Civil.
 
-### CAPITULO X. Apeo y Deslinde
+### CAPITULO IX. Informaciones Ad-Perpetuam
 
 ###### ARTICULO 863.
 
@@ -5263,7 +5335,7 @@ La oposición se resolverá incidentalmente; debiendo el juez dictar las medidas
 
 El ascendiente que pierda la patria potestad en ningún caso podrá ser llamado a la tutela del menor.
 
-### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
+### CAPITULO X. Apeo y Deslinde
 
 ###### ARTICULO 868.
 
@@ -5326,6 +5398,8 @@ En los dos últimos casos el juez volverá a la mujer a casa de las personas baj
 ###### ARTICULO 878.
 
 En las diligencias de que trata este Capítulo, se oirá precisamente al Ministerio Público y contra las resoluciones que se dicten no procederá recurso alguno.
+
+### CAPITULO XI. Otros Actos de Jurisdicción Voluntaria
 
 ###### ARTICULO 879.
 
@@ -5552,3 +5626,7 @@ Si para el ejercicio de un derecho procesal estuviere corriendo un término y el
 P.O. 5 DE NOVIEMBRE DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
