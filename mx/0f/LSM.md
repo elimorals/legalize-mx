@@ -4,7 +4,7 @@ identifier: "LSM"
 country: "mx"
 rank: "ley"
 publication_date: "1940-09-11"
-last_updated: "1944-10-25"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2573&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,9 +22,9 @@ abbreviation: "LSM"
 
 LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE OCTUBRE DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
-Ley publicada en el Diario Oficial de la Federación el miércoles 11 de septiembre de 1940.
+Ley publicada en el Diario Oficial de la Federación, el miércoles 11 de septiembre de 1940.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -75,6 +75,10 @@ Hasta los 40 años, en la 2a. Reserva.
 Hasta los 45 años, en la Guardia Nacional.
 
 Las clases y oficiales servirán en la 1a. Reserva hasta los 33 y 36 años respectivamente y hasta los 45 y 50 en la 2a. Reserva.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ENERO DE 1998)</small>
+
+ARTICULO 5 BIS- En tiempo de paz, los mexicanos por nacimiento que adquieran otra nacionalidad, al cumplir con sus obligaciones del servicio de las armas no serán considerados en el activo en los términos de lo dispuesto en esta ley y en las disposiciones reglamentarias.
 
 ###### ARTICULO 6o.
 
@@ -433,3 +437,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO 2o.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
