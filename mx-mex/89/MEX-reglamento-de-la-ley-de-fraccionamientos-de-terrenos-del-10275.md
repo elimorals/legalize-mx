@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-fraccionamientos-de-terrenos-del-10275"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-04-11"
-last_updated: "1959-04-11"
+last_updated: "1975-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS DE TERRENOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE FEBRERO DE 1975.
 
-Reglamento publicado en la Sección Primera de la Gaceta del Gobierno del Estado de México, el sábado 11 de abril de 1959.
+Reglamento publicado en la Gaceta del Gobierno del Estado de México, el sábado 11 de abril de 1959.
 
 GUSTAVO BAZ, Gobernador Constitucional del Estado Libre y Soberano de México, a sus habitantes, sabed:
 
@@ -323,9 +323,13 @@ l).- Los demás datos que se consideren pertinentes para el mejor estudio y trá
 
 VI.- Un plano de conjunto, a escala conveniente, en el que se haga la localización del terreno con respecto a las zonas adyacentes.
 
+> <small>(REFORMADO, G.G. 15 DE FEBRERO DE 1975)</small>
+
 ###### Artículo 12.
 
-La Dirección de Comunicaciones y Obras Públicas, procederá a estudiar la solicitud y el proyecto general del fraccionamiento, a fin de emitir la resolución correspondiente. Al dictaminar, deberá tomar en consideración el contenido del plano regulador de la zona, así como las disposiciones del Código Sanitario y de la Ley Federal de Ingeniería Sanitaria.
+La Dirección de Comunicaciones y Obras Públicas, procederá a estudiar la solicitud y el proyecto general del fraccionamiento, oyendo el parecer del Ayuntamiento correspondiente, a fin de emitir lo resolución respectiva. Al dictaminar, deberá tomar en consideración el contenido de los planes y programas del Municipio, respecto a la zona de ubicación de los fraccionamientos, así como las disposiciones del Código Sanitario y de la Ley Federal de Ingeniería Sanitaria.
+
+La Dirección de Comunicaciones y Obras Públicas, tan pronto reciba solicitud en términos del artículo que precede, pedirá al Ayuntamiento respectivo la opinión o que se refiere el artículo 4o. de la Ley de Fraccionamientos, lo que deberá emitirse en un término no mayor de treinta días a partir de la fecha en que le sea solicitada por la Dirección de Comunicaciones y Obras Públicas, de no hacerlo en ese lapso, se tendrá como negativa al establecimiento del fraccionamiento, debiendo el Ayuntamiento respectivo justificar las razones de esto, en los quince dios siguientes; y de no hacerlo en este último plazo, se considerara favorable el establecimiento del fraccionamiento. En caso de oposición, se suspenderá el trámite hasta en tonto se resuelva lo conducente.
 
 ###### Artículo 13.
 
@@ -373,9 +377,13 @@ Cuando se hayan cumplido los requisitos exigidos por los artículos precedentes,
 
 La cesión de las superficies de terrenos necesarias para la creación de vías públicas y las destinadas a espacios verdes y servicios públicos, será hecha por el fraccionador al Municipio, mediante escritura pública, a costa del Ayuntamiento respectivo.
 
+> <small>(REFORMADO, G.G. 15 DE FEBRERO DE 1975)</small>
+
 ###### Artículo 23.
 
-Las obras de urbanización a que se refiere este Reglamento, deberán ser ejecutadas por el fraccionador dentro de los plazos que al respecto le señale la Dirección de Comunicaciones y Obras Públicas, a la que deberá dar aviso previo de la iniciación de los trabajos, para que ordene la supervisión de los mismos.
+Las obras de urbanización a que se refiere este Reglamento, deberán ser ejecutadas por el fraccionador dentro de los plazos que al respecto señale la Dirección de Comunicaciones y Obras Públicas, a la que deberá dar aviso previo de la iniciación de los trabajos para que ordene la supervisión de los mismos.
+
+El Ayuntamiento respectivo, podrá nombrar un inspector para que vigile y se informe sobre el desarrollo de los obras de urbanización y servidos públicos municipales que se lleven a cabo.
 
 ###### Artículo 24.
 
@@ -446,3 +454,9 @@ Dr. GUSTAVO BAZ
 El Secretario General de Gobierno,
 
 Dr. JORGE JIMENEZ CANTU
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+G.G. 15 DE FEBRERO DE 1975.
+
+ARTICULO TRANSITORIO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
