@@ -4,7 +4,7 @@ identifier: "OAX-ley-contra-los-vicios-del-alcoholismo-y-de-las-drogas-18504"
 country: "mx"
 rank: "ley"
 publication_date: "1922-07-06"
-last_updated: "1922-11-23"
+last_updated: "1923-06-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "OAX"
 
 LEY CONTRA LOS VICIOS DEL ALCOHOLISMO Y DE LAS DROGAS HEROICAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 1922.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1923.
 
-Ley publicada en el Periódico Oficial del Estado de Oaxaca el 6 de Julio de 1922.
+Ley publicada en el Periódico Oficial del Estado de Oaxaca el jueves 6 de Julio de 1922.
 
 MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes, hace saber:
 
@@ -259,9 +259,13 @@ En los primeros quince días del mes de enero de cada año, los propietarios de 
 
 Las Tesorerías Municipales percibirán una cuota de cinco a veinticinco pesos por las licencias que expidan los Presidentes Municipales para la apertura de tabernas, según la clase que les corresponda, a excepción de las tabernas a que se refiere el párrafo cuarto del inciso segundo de la Tarifa, cuyas licencias causarán una cuota de cincuenta centavos. Al calce y antes de la constancia a que se refiere el artículo 17, se pondrá también la de que se ha cubierto esa cuota.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1923)</small>
+
 ###### Artículo 27.
 
-Todo propietario de expendio de bebidas alcohólicas y de cualquier clase de ellos está obligado a poner en lugar visible, debidamente protegidas del polvo, la licencia municipal y la cuotización (sic) fiscal.
+Todo propietario de expendio de bebidas alcohólicas y de cualquiera clase de ellos está obligado a poner en lugar visible, debidamente protegidas del polvo, la licencia municipal y la cuotización (sic) fiscal.
+
+Asimismo está obligado a presentar cuando sea requerido, los comprobantes suficientes sobre la procedencia de las bebidas alcohólicas que expenda, por medio de documentos extendidos por el fabricante o productor y a cerciorarse en cada caso, de que éste ha manifestado su producción ante la Recaudación de Rentas respectiva.
 
 ### CAPITULO III.
 
@@ -301,11 +305,15 @@ El propietario de una taberna que no ponga los letreros a que se refiere el art�
 
 El propietario de cualquiera clase de expendios de bebidas alcohólicas que venda en horas o días prohibidos por la ley, sufrirá una multa de diez a quinientos pesos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1923)</small>
+
 ###### Artículo 35.
 
-Todo individuo que venda bebidas alcohólicas sin tener licencia, será castigado con una multa de diez a mil pesos, y, además, cubrirá el impuesto que le corresponda por al (sic) bimestre anterior al día en que se descubra la infracción a no ser que se pueda precisar que el tiempo que ha durado la infracción es mayor, en cuyo caso, pagará el impuesto por todo ese tiempo, con el recargo correspondiente, y se clausurará el expendio.
+Todo individuo que venda bebidas alcohólicas sin tener licencia, será castigado con una multa de diez a mil pesos, y, además, cubrirá el impuesto que le corresponda por el bimestre anterior al día en que se descubra la infracción a no ser que se pueda precisar que el tiempo que ha durado la infracción es mayor, en cuyo caso, pagará el impuesto por todo ese tiempo, con el recargo correspondiente, y se clausurará el establecimiento.
 
-Las fondas, casas de asistencia y lupanares, se considerarán comprendidos en esta disposición, por el hecho de encontrarse en ellos a dos o más personas libando bebidas alcohólicas.
+Se considerarán comprendidos en esta disposición los dueños de establecimientos comerciales de índole distinta a la de expendios de bebidas alcohólicas, a quienes, se les encuentra dichas bebidas, sea en el establecimiento comercial o en su habitación si estuviere en la misma casa que aquel sin que valga la excepción de que las tienen para su personal consumo o cualquier otro uso. En el mismo caso se considerarán las personas o sociedades que habiendo tenido expendio de bebidas alcohólicas, conserven existencias de éstas después de sesenta días de la clausura; en este caso, el Recaudador respectivo recogerá toda la existencia y la rematará en subasta pública a la que se convocará por medio de avisos verbales a los comerciantes del ramo; el producto se entregará al dueño, descontando los gastos del depositario y el importe del impuesto sobre compraventa.
+
+Las fondas, casas de asistencia y lupanares, se considerarán comprendidos en esta disposición, por el hecho de encontrarse en ellos bebidas alcohólicas.
 
 ###### Artículo 36.
 
@@ -347,9 +355,13 @@ Todo individuo que se encuentre en cualquier lugar público en estado de ebrieda
 
 Si el detenido por ebrio ejerciere autoridad, será castigado con arresto de dos a seis meses y multa de diez a trescientos pesos.
 
+> <small>(REFORMADO, P.O. 29 DE JUNIO DE 1923)</small>
+
 ###### Artículo 46.
 
-El Presidente Municipal que autorice u ordene que una taberna permanezca abierta fuera de las horas que permite la ley, o en los días en que la misma ley lo prohibe, será castigado con una suspensión de cargo de dos a seis meses, o con arresto mayor y destitución, si la propia autoridad ha estado en la taberna durante la infracción.
+El presidente municipal que autorice u ordene que una taberna permanezca abierta fuera de las horas que permite la ley, o en los días en que la misma lo prohibe, será castigado con suspensión del cargo de dos a seis meses, o con arresto mayor y destitución, si la propia autoridad ha estado en la taberna durante la infracción.
+
+Los presidentes municipales y recaudadores de rentas que encubran la venta clandestina de bebidas alcohólicas y drogas heroicas, serán castigados, los primeros, con las mismas penas que señala el párrafo anterior, y los segundos con arresto mayor y destitución.
 
 ###### Artículo 47.
 
@@ -432,5 +444,9 @@ Palacio de los Poderes del Estado. Oaxaca de Juárez a veintisiete de junio de m
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 23 DE NOVIEMBRE DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 29 DE JUNIO DE 1923.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
