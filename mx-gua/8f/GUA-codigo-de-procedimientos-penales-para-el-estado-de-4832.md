@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1981-08-04"
+last_updated: "1981-08-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1981.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -2395,6 +2395,8 @@ Incidentes de libertad.
 
 Libertad provisional bajo protesta.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1981)</small>
+
 ###### Art. 387.
 
 Todo inculpado tendrá derecho a ser puesto en libertad bajo caución, cuando el término medio aritmético de la pena corporal que corresponda al delito imputado no exceda de cinco años de prisión.
@@ -2531,23 +2533,29 @@ Libertad por desvanecimiento de datos.
 
 ###### Art. 406.
 
-La libertad bajo protesta podrá decretarse siempre que concurran las circunstancias siguientes:
+Todo inculpado tendrá derecho a ser puesto en libertad bajo protesta, en los siguientes casos:
 
-I.- Que la pena corporal que deba imponerse no exceda de dos años de prisión;
+a).- Siempre que se trate de delitos culposos;
 
-II.- Que sea la primera vez que delinque el inculpado;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1981)</small>
 
-III.- Qué éste tenga domicilio fijo y conocido en el lugar en donde se sigue o deba seguirse el proceso, o dentro de la jurisdicción del tribunal respectivo;
+b).- Si se trata de delitos preterintencionales, cuando el término medio aritmético de la sanción corporal no exceda de dos años siete meses de prisión;
 
-IV.- Que la residencia del inculpado en dicho lugar sea de un año cuando menos;
+c).- Si se trata de delitos dolosos, cuando la pena corporal que deba imponerse no exceda de dos años de prisión.
 
-V.- Que el inculpado tenga profesión, oficio, ocupación o medio honesto de vivir; y
+Quien solicite la libertad bajo protesta, deberá probar siempre: que tiene profesión, oficio, ocupación o modo honesto de vivir.
 
-VI.- Que a juicio de la autoridad que conceda no haya temor de que el inculpado se substraiga a la acción de la justicia.
+El Juez Podrá negar el beneficio de la libertad bajo protesta, atendiendo a la gravedad y circunstancias del delito imputado a la peligrosidad del inculpado, o a la posibilidad de que éste se substraiga a la acción de la Justicia.
 
-La libertad bajo protesta se substanciará en la forma establecida para los incidentes no especificados.
+Si el Agente del Ministerio Público prueba cualquiera de los siguientes extremos, el Juez negará o revocará, en su caso, el beneficio de la libertad bajo protesta:
 
-Serán aplicables a la libertad bajo protesta, las disposiciones contenidas en el artículo 399.
+I.- Que no es la primera vez que delinque el inculpado;
+
+II.- Que tiene su domicilio en lugar diferente a aquél en donde se siga o deba seguirse el proceso;
+
+III.- Que la residencia del inculpado en el lugar donde se siga o deba seguirse el proceso, sea inferior a un año.
+
+Serán aplicables a la libertad bajo protesta, las disposiciones contenidas en los Artículos 388, 389 y 399.
 
 ###### Art. 407.
 
@@ -2557,19 +2565,31 @@ Será igualmente puesto en libertad bajo protesta el inculpado, sin los requisit
 
 El auto en que se conceda la libertad bajo protesta no surtirá sus efectos hasta que el inculpado proteste formalmente presentarse ante el tribunal que conozca del asunto, siempre que se le ordene.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1981)</small>
+
 ###### Art. 409.
 
-La libertad bajo protesta se revocará en los casos siguientes:
+La libertad bajo protesta se revocará en los siguientes casos:
 
-I.- Cuando el inculpado desobedeciere, sin causa justa y probada, la orden de presentarse al tribunal que conozca de su proceso;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1981)</small>
 
-II.- Cuando cometiere un nuevo delito, antes de que el proceso en que se le concedió la libertad esté concluído por sentencia ejecutoria;
+I.- Cuando el inculpado desobedeciere, sin causa justa y probada, la orden de presentarse al Tribunal que conozca de su proceso los días fijos que se le señalen, o cualquier otra orden legítima del propio Tribunal;
 
-III.- Cuando amenazare al ofendido o a algún testigo de los que hayan depuesto o tenga que deponer en su proceso o tratare de cohechar o sobornar a alguno de éstos últimos, a algún funcionario del tribunal o al agente del Ministerio Público que intervenga en su proceso;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1981)</small>
 
-IV.- Cuando en el curso del proceso apareciere que el delito merece una pena mayor que la señalada en la fracción I del artículo 406;
+II.- Cuando se dictare en su contra un auto de formal prisión o de sujeción a proceso, con posterioridad por otro delito distinto, antes de que el proceso en que se le concedió la libertad este concluído por sentencia ejecutoria;
 
-V.- Cuando dejare de concurrir alguna de las condiciones expresadas en las fracciones III, V y VI del artículo 406;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1981)</small>
+
+III.- Cuando por sí, o por medio de su defensor, amenazare al afendido (sic),o a algún testigo de los que hayan depuesto o tenga que deponer en su proceso, u otorgare dádivas indebidas a algunos de éstos últimos, o tratare de cohechar a algún funcionario del Tribunal, o al Agente del Ministerio Público que intervenga en su proceso;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1981)</small>
+
+IV.- Cuando en el curso del proceso apareciere, si se trata de delitos preterintencionales, que el término medio aritmético de la pena es superior al señalado por el inciso b) del Artículo 406, o, si se trata de delitos dolosos, apareciere que el delito merece una pena mayor que la señalada en el inciso c) del Artículo 406.
+
+V.- (DEROGADA, P.O. 14 DE AGOSTO DE 1981)
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1981)</small>
 
 VI.- Cuando recaiga sentencia condenatoria contra el inculpado y ésta cause ejecutoria.
 
@@ -3480,3 +3500,9 @@ P.O. 4 DE AGOSTO DE 1981.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor cinco días después al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 14 DE AGOSTO DE 1981.
+
+###### ARTICULO UNICO.
+
+Este decreto surtirá efectos el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
