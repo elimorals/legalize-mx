@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-campanas-de-sanidad-animal-1376"
 country: "mx"
 rank: "reglamento"
 publication_date: "1979-05-15"
-last_updated: "1979-05-15"
+last_updated: "1992-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1376&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1979-04-26"
 
 REGLAMENTO PARA CAMPAÑAS DE SANIDAD ANIMAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 1992.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 15 de mayo de 1979.
 
@@ -173,9 +173,11 @@ En el desarrollo de las campañas, la movilización de animales deberá estar es
 
 Cuando en una región se considere erradicada una enfermedad o plaga de los animales, seguirán aplicándose aquellas medidas de seguridad convenientes para evitar reinfecciones o reinfestaciones, durante el tiempo que la Secretaría determine.
 
+> <small>(REFORMADO, D.O.F. 29 DE MAYO DE 1992)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría realizará los estudios conducentes que permitan proponer al Ejecutivo Federal emita la declaración de zona libre de plagas o enfermedades de animales.
+El Secretario de Agricultura y Recursos Hidráulicos, con base en los estudios que se realicen al efecto, hará, cuando proceda, la declaración de zona Libre de Plagas o enfermedades de animales, misma que deberá publicarse en el Diario Oficial de la Federación.
 
 ###### ARTICULO 33.
 
@@ -196,3 +198,9 @@ PRIMERO.- Se derogan todas las disposiciones reglamentarias que se opongan al pr
 SEGUNDO.- Este Reglamento entrará en vigor a partir del día siguiente de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los 26 días del mes de abril de mil novecientos setenta y nueve.- José López Portillo.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Francisco Merino Rábago.- Rúbrica.- El Secretario de la Reforma Agraria, Antonio Toledo Corro.- Rúbrica.- El Secretario de Salubridad y Asistencia, Emilio Martínez Manautou.- Rúbrica,- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 29 DE MAYO DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
