@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-procuraduria-general-de-justicia-del-3635"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-05-29"
-last_updated: "1980-05-29"
+last_updated: "1985-11-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE NOVIEMBRE DE 1985.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche el jueves 29 de mayo de 1980.
 
@@ -81,15 +81,17 @@ Las determinaciones y pedimentos del Procurador General de Justicia y de los dem
 
 ### CAPITULO PRIMERO. De su Estructura
 
-###### ARTICULO 8.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+###### Artículo 8.
 
 La Procuraduría General de Justicia del Estado se integra con:
 
 I.- El Procurador General de Justicia;
 
-II.- Un Primer Subprocurador;
+II.- El Primer Subprocurador;
 
-III.- Un Segundo Subprocurador;
+III.- El Segundo Subprocurador;
 
 IV.- La Dirección de Averiguaciones Previas;
 
@@ -97,19 +99,13 @@ V.- La Dirección de Control de Procesos;
 
 VI.- La Dirección de Policía Judicial;
 
-VII.- De los Agentes del Ministerio Público Auxiliares del Procurador;
+VII.- El Departamento Técnico Jurídico;
 
 VIII.- El Departamento de Servicios Periciales;
 
 IX.- El Departamento de Servicios Administrativos; y
 
-X.- El Departamento de Servicios Sociales y Participación Ciudadana;
-
-XI.- Los Agentes del Ministerio Público Investigadores adscritos a las Agencias, a la Dirección de Averiguaciones Previas y Tribunales;
-
-XII.- Los Agentes de la Policía Judicial; y
-
-XIII.- Los Subdirectores, Jefes de Departamento, Jefes de Oficina y demás personal que exija el servicio y determine el presupuesto.
+X.- Las demás unidades administrativas que se requieran para el correcto ejercicio de las funciones del Ministerio Público.
 
 ### CAPITULO SEGUNDO. Del Procurador
 
@@ -141,7 +137,7 @@ XI.- Investigar de oficio o a petición de parte de las detenciones arbitrarias 
 
 XII.- Poner en conocimiento del Pleno del Tribunal Superior de Justicia del Estado y del Gobernador, los abusos e irregularidades que se adviertan en los Juzgados y Salas del Tribunal;
 
-XIII.- Asistir a las sesiones del Pleno del Tribunal Superior de Justicia, pudiendo tomar parte en las deliberaciones solamente con voz, en los asuntos en que tenga intervención conforme a la Ley;
+XIII.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1985)
 
 XIV.- Encomendar a cualquiera de los Agentes del Ministerio Público, independientemente de sus funciones, el estudio de los asuntos que estime conveniente;
 
@@ -165,7 +161,9 @@ XXIII.- Formular los informes previos y justificados e intervenir en todos los j
 
 XXIV.- Asumir, en los casos que estime pertinentes, la representación de los demás funcionarios de la Procuraduría, en los juicios que se promuevan en su contra;
 
-XXV.- Recibir, cuando legalmente se requiera, por sí mismo o por conducto de la Unidad Administrativa que específicamente determine, las manifestaciones de bienes que formulen los funcionarios públicos del Estado, al tomar posesión de sus cargos y al dejarlos, realizando los demás actos que exija la Ley de la materia, para determinar la responsabilidad delictiva de los funcionarios mencionados; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+XXV.- Resolver, sin poder delegar tal facultad, respecto del desistimiento de los recursos que el Ministerio Público interponga; y,
 
 XXVI.- Las demás que ésta y otras leyes y reglamentos le confieran.
 
@@ -207,41 +205,51 @@ II.- Un Subdirector; y
 
 III.- El número de Agencias Investigadoras que exija el servicio y determine el presupuesto.
 
-###### ARTICULO 15.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-Son atribuciones y obligaciones de la Dirección de Averiguaciones Previas:
+###### Artículo 15.
 
-I.- Recibir las denuncias y querellas que le sean presentadas, practicando las averiguaciones previas en el distrito judicial cuya cabecera es la Ciudad de Campeche y, en su caso, ejercitar la acción penal;
+La Dirección de Averiguaciones Previas, por conducto de su titular o de los titulares de las agencias investigadoras, en su caso, tendrá las siguientes atribuciones:
 
-II.- Para el ejercicio de la función a que se refiere la fracción anterior se auxiliará con el número de Agentes Investigadores del Ministerio Público que determine el Procurador, conforme a las necesidades del servicio y las previsiones del presupuesto;
+I.- Recibir denuncias, acusaciones o querellas sobre conductas o hechos que puedan constituir delitos;
 
-III.- Practicar las averiguaciones previas en cualquier lugar del Estado por acuerdo expreso del Procurador, en los casos en que no se comisione a los Subprocuradores o a otro Agente del Ministerio Público Auxiliar;
+II.- Investigar los delitos del orden común, con el auxilio de las Policías Judicial y Preventiva, practicando las diligencias necesarias y allegándose las pruebas que considere pertinentes para la comprobación del cuerpo del delito y la probable responsabilidad de quienes en él hubieren intervenido, así como el daño causado y, en su caso, el monto del mismo;
 
-IV.- Dictar las determinaciones procedentes en los negocios a que se contraen las fracciones anteriores;
+III.- Restituir al ofendido en el goce de sus derechos, provisional e inmediatamente, de oficio o a petición de parte, cuando esté plenamente comprobado en la averiguación previa el delito de que se trate, exigiendo garantía suficiente si se estimare necesario;
 
-V.- Supervisar técnicamente las averiguaciones previas que practiquen los Agentes Investigadores del Ministerio Público en el Estado;
+IV.- Poner a disposición de la autoridad competente, sin demora, a las personas detenidas en caso de flagrante delito o de urgencia, de acuerdo con el artículo 16 Constitucional;
 
-VI.- Desahogar las consultas que le turnen los Agentes Investigadores del Ministerio Público, para incorporar a las averiguaciones previas las pruebas de la existencia de los delitos y de la probable responsabilidad de quienes en ellos hubieren participado;
+V.- Solicitar a la autoridad competente las órdenes de aprehensión, comparecencia y cateo, cuando estén satisfechos los requisitos del artículo 16 Constitucional y de las disposiciones relativas del Código de Procedimientos Penales del Estado;
 
-VII.- Desahogar las consultas que le turnen los Agentes Investigadores respecto al ejercicio de la acción penal;
+VI.- Asegurar los bienes u objetos relacionados con hechos delictuosos, en los casos que correspondan, para ponerlos a disposición del órgano jurisdiccional;
 
-VIII.- Solicitar las órdenes de aprehensión, comparecencia y cateo, cuando estén satisfechos los requisitos del Artículo 16 de la Constitución General de la República y de las disposiciones relativas del Código de Procedimientos Penales del Estado;
+VII.- Recabar de las dependencias y entidades de la Administración Pública Estatal, así como de otras autoridades y entidades, los informes, documentos y opiniones necesarios para el ejercicio de sus atribuciones;
 
-IX.- Ajustar sus actos a las instrucciones generales y especiales que dicte el Procurador, en tutela de las garantías individuales de los imputados y vigilar el cumplimiento de tales instrucciones por todos los Agentes Investigadores del Ministerio Público del Estado;
+VIII.- Requerir informes y documentos de los particulares para el ejercicio de sus atribuciones;
 
-X.- Turnar al Subprocurador que corresponda, conforme a la Delegación discrecional del Procurador, las averiguaciones en que se consulte determinación de reserva;
+IX.- Auxiliar al Ministerio Público Federal en los términos de la legislación vigente;
 
-XI.- Turnar al Procurador las averiguaciones en que se consulte determinación de archivo;
+X.- Auxiliar al Ministerio Público del Fuero Común de las demás entidades federativas, cuando así lo sea solicitado, en los términos de la Ley respectiva;
 
-XII.- Dar curso a exhortos, incompetencias, excusas e impedimentos que reciban de los Agentes Investigadores del Ministerio Público, turnándolos a las autoridades correspondientes;
+XI.- Solicitar la medida precautoria de arraigo;
 
-XIII.- Integrar expedientes, con copias autografiadas de las averiguaciones previas que se practiquen en todas las Agencias Investigadoras del Ministerio Público en el Estado;
+XII.- Turnar al Procurador las averiguaciones en que se consulte determinación de archivo;
 
-XIV.- Acordar con el Subprocurador a quien se le haya encomendado la facultad de control de su función y rendirle informe mensual del estado de las averiguaciones previas;
+XIII.- Turnar al Subprocurador que corresponda, conforme a la delegación discrecional de Procurador, las averiguaciones en que se consulte determinación de reserva;
 
-XV.- Proporcionar a los denunciantes, querellantes o a sus representantes legales, información del estado que guarde la averiguación previa a que se refiera su denuncia o querella, así como copia de las pruebas documentales que aporte; y
+XIV.- Ejercitar la acción penal ante los tribunales competentes por los delitos del orden común;
 
-XVI.- Todas las atribuciones y obligaciones que la Constitución General de la República, el Código de Procedimientos Penales del Estado, esta Ley, los reglamentos relativos, Acuerdos y Circulares del Procurador les otorguen y exijan a los Agentes del Ministerio Público, en ejercicio de la función investigadora.
+XV.- Proporcionar a los querellantes, denunciantes, o a sus representantes legales, información del estado que guarde la averiguación previa a que se refiere su denuncia o querella, así como copia de las pruebas documentales que aporten;
+
+XVI.- Acordar con el Subprocurador a quien se le haya encomendado la facultad de control de su función rindiéndole informe mensual del estado de las averiguaciones previas;
+
+XVII.- Integrar expedientes, con copias autografiadas de las averiguaciones previas que se practiquen en todas las Agencias Investigadoras en el Estado;
+
+XVIII.- Supervisar las labores de las Agencias Investigadoras, desahogando las consultas que se le formulen por los titulares de las mismas;
+
+XIX.- Recepcionar los exhortos, incompetencias y excusas que cursen los Agentes Investigadores, turnándolos a las autoridades correspondientes;
+
+XX.- Las demás atribuciones que le correspondan conforme a las leyes y reglamentos o acuerdos y circulares del Procurador.
 
 ### CAPITULO QUINTO. De la Dirección de Control de Procesos
 
@@ -353,19 +361,29 @@ En la hipótesis a que se refiere el artículo anterior, la Policía Judicial, b
 
 Tendrán el carácter de auxiliares en las funciones de Policía Judicial los Delegados de Hacienda en el Estado, los Síndicos, los Comisarios Municipales y los miembros de la Policía de Seguridad Pública y Tránsito, quienes tendrán la obligación de colaborar con aquella para el buen desempeño de sus funciones, debiendo ajustarse en sus actuaciones a lo previsto en el Artículo 16 de la Constitución General de la República, el Código de Procedimientos Penales del Estado, en esta Ley, reglamentos y determinaciones generales y especiales del Procurador.
 
-### CAPITULO SEPTIMO. De los Agentes del Ministerio Público Auxiliares del Procurador
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-###### ARTICULO 31.
+### CAPITULO SEPTIMO. Del Departamento Técnico Jurídico
 
-En apoyo y ejercicio de las atribuciones que le correspondan, el Procurador General de Justicia podrá actuar a través de Agentes del Ministerio Público, Auxiliares del Procurador, quienes tendrán las atribuciones siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-I.- Intervenir, como Agentes Investigadores del Ministerio Público en los asuntos que determine el Procurador;
+###### Artículo 31.
+
+En apoyo del Procurador General de Justicia funcionará un Departamento Técnico Jurídico, el cual se integrará con el número de Agentes del Ministerio Público que determine el propio Procurador, fungiendo uno de ellos como Jefe del Departamento. Sus atribuciones serán las siguientes:
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+I.- Realizar los estudios y emitir las opiniones y dictámenes derivados de las consultas de carácter jurídico que les sean sometidos por el Procurador;
 
 II.- Dictaminar en los asuntos en que el Procurador deba decidir:
 
 a) Sobre la falta de elementos para ejercitar la acción penal, que amerite determinación de archivo;
 
 b) Sobre procedencia del desistimiento de la acción penal, en los delitos que se persigan de oficio;
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+c). Sobre procedencia del desistimiento de los recursos interpuestos contra las resoluciones de los órganos jurisdiccionales;
 
 III.- Dictaminar en los asuntos en que el Procurador o por delegación de éste, los Subprocuradores, deban decidir:
 
@@ -375,7 +393,17 @@ b) Sobre formulación de conclusiones no acusatorias o contrarias a las constanc
 
 c) Sobre la imposibilidad de continuar el trámite de la averiguación previa que amerite determinación de reserva; y
 
-IV.- Intervenir en los demás asuntos en materia penal o civil que determine el Procurador.
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+IV.- Estudiar los problemas generales y especiales sobre legislación, reglamentación y elaboración de otras disposiciones administrativas, relacionadas con las funciones propias de la Institución, que acuerde el Procurador, formulando en su caso, los proyectos relativos;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+V.- Formular los informes previos y justificados y toda clase de promociones y recursos que deban presentarse o interponerse en los juicios de amparo promovidos contra actos del Procurador; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+VI.- Las demás que le correspondan conforme a las leyes y reglamentos, o acuerdos y circulares del Procurador.
 
 ### CAPITULO OCTAVO. Del Departamento de Servicios Periciales
 
@@ -387,11 +415,13 @@ I.- Un Jefe de Departamento;
 
 II.- El número de Peritos que se determinen por el Procurador; y
 
-III.- El número de Peritos Voluntarios que dentro de los programas de participación ciudadana cooperen con la procuración de justicia en forma permanente.
+III.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1985)
 
-###### ARTICULO 33.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-El Departamento de Servicios Periciales integrará secciones de Criminalística, de Identificación y de Medicina Forense.
+###### Artículo 33.
+
+El Departamento de Servicios Periciales dependerá directamente de la Dirección de Averiguaciones Previas y se integrará con las secciones de criminalística, de identificación y de medicina forense.
 
 ###### ARTICULO 34.
 
@@ -449,33 +479,21 @@ VI.- Ejercer las funciones de Oficialía de Partes;
 
 VII.- Las demás que le señalen las leyes, reglamentos, acuerdos y circulares del Procurador.
 
-### CAPITULO DECIMO. Del Departamento de Servicios Sociales y Participación Ciudadana
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-###### ARTICULO 42.
+### CAPITULO DECIMO. De las Agencias Investigadoras del Ministerio Público
 
-El Departamento de Servicios Sociales y Participación Ciudadana se integrará por:
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-I.- Un Jefe de Departamento;
+###### Artículo 42.
 
-II.- El personal administrativo que autorice el presupuesto;
+Las Agencias Investigadoras del Ministerio Público dependerán directamente de la Dirección de Averiguaciones Previas.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-Son atribuciones y obligaciones del Jefe del Departamento de Servicios Sociales y Participación Ciudadana:
+###### Artículo 43.
 
-I.- Brindar en general a todas las personas orientación social, familiar, y legal;
-
-II.- Canalizarlas, en su caso, a las Instituciones o lugares adecuados con propósito tutelar, preventivo o educativo, e instruirlas acerca de los derechos y obligaciones que tienen frente a la Procuraduría;
-
-III.- Atender a niños, adolescentes y adultos, sanos o enfermos, con problemas de conducta y a los familiares de aquéllos, para prevenir acciones u omisiones delictivas o antisociales y promover en todas las esferas sociales la salud mental de las personas;
-
-IV.- Promover y organizar la participación ciudadana en las actividades de la Procuraduría con el fin de hacer más efectiva la procuración de justicia.
-
-V.- Coordinar los programas en materia de Visitadores y Peritos Voluntarios Honorarios;
-
-VI.- Coordinarse con las asociaciones de profesionistas, escuelas, facultades, universidades, y con quien corresponda, para el caso que sea necesario convenir la forma de participación ciudadana en la procuración de Justicia, que es atribución de la institución; y
-
-VII.- Las demás que le señalen las leyes y los reglamentos.
+El número y ubicación de las Agencias Investigadoras serán determinados por el Procurador General de Justicia, atendiendo a las necesidades del servicio y previsión presupuestaria. Cada Agencia contará con el número de Agentes Investigadores del Ministerio Público y demás personal que se requiera para cubrir a satisfacción las necesidades del servicio.
 
 ### CAPITULO DECIMO PRIMERO. De los Agentes Investigadores del Ministerio Público
 
@@ -583,19 +601,25 @@ Los funcionarios deberán ser oídos en defensa y tendrán oportunidad de ofrece
 
 El Procurador deberá resolver conforme a los alegatos y pruebas, mediante resolución, debidamente fundada y motivada.
 
-###### ARTICULO 57.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-El personal del Ministerio Público será suplido de la manera siguiente:
+###### Artículo 57.
+
+El personal de la Procuraduría será suplido de la manera siguiente:
 
 I.- El Procurador, por los Subprocuradores, según su orden numérico;
 
-II.- Los Subprocuradores el uno por el otro y a falta o excusa de ambos, por el Auxiliar que designe el Procurador;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-III.- Los Agentes del Ministerio Público Auxiliares y los Agentes Adscritos, por quienes designe el Procurador.
+II.- Los Subprocuradores el uno por el otro; a falta o excusa de ambos, por el Director que designe el Procurador;
 
-IV.- Los Agentes del Ministerio Público Investigadores, por el Oficial Secretario en funciones; y
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
 
-V.- El personal restante por designación del Procurador.
+III.- Los Agentes del Ministerio Público y demás personal de la Institución, por el que designe el Procurador.
+
+IV.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1985)
+
+V.- (DEROGADA, P.O. 29 DE NOVIEMBRE DE 1985)
 
 ### CAPITULO SEGUNDO. De las Vacaciones y Licencias
 
@@ -633,7 +657,7 @@ No quedan comprendidos en esta disposición los cargos de carácter docente.
 
 ###### ARTICULO 63.
 
-El Procurador podrá autorizar el desempeño de otro cargo, cuando el mismo no sea compatible con las atribuciones del funcionario.
+(DEROGADO, P.O. 29 DE NOVIEMBRE DE 1985)
 
 ### CAPITULO CUARTO. De las Correcciones Disciplinarias
 
@@ -643,7 +667,9 @@ Sin perjuicio de la remoción o destitución, en caso de faltas graves, conforme
 
 I.- Apercibimiento;
 
-II.- Multa hasta de $ 2,000.00 pesos;
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1985)</small>
+
+II.- Multa hasta de cincuenta mil pesos;
 
 III.- Suspensión de empleo, sin goce de sueldo, hasta por 15 días.
 
@@ -676,3 +702,11 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los veintioc
 Por tanto, mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los veintiocho días del mes de mayo del año de mil novecientos ochenta.- El Gobernador Constitucional del Estado, ING. EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE NOVIEMBRE DE 1985.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente Decreto.
