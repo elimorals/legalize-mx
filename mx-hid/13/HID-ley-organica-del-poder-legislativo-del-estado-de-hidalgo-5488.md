@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-poder-legislativo-del-estado-de-hidalgo-5488"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1982-01-08"
-last_updated: "1982-05-24"
+last_updated: "1983-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DEL PODER LEGISLATIVO PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 1983.
 
 Ley publicada en el Alcance No. 2 del Periódico Oficial del Estado de Hidalgo, el 8 de enero de 1982
 
@@ -65,15 +65,13 @@ Para ser diputado se necesita llenar los requisitos que para el caso se señala 
 
 De conformidad con lo dispuesto por el Artículo 36 de la Constitución política del Estado, el Congreso se renovará en su totalidad cada tres años e iniciará sus funciones el día 1o. de Abril posterior a las elecciones.
 
-> <small>(REFORMADO, P.O. 24 DE MAYO DE 1982)</small>
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
 
 ###### ARTICULO 8o.
 
-La Legislatura de acuerdo con los Artículos 38 y 39 de la Constitución Política del Estado, se reunirá en Períodos Ordinarios de Sesiones y podrá celebrar Sesiones Extraordinarias.
+La H. Legislatura, de acuerdo con lo dispuesto en los Artículos 38 y 39 de la Constitución Política del Estado, se reunirá en Períodos Ordinarios de Sesiones y podrá celebrar Sesiones Extraordinarias.
 
-Habrá dos Períodos Ordinarios de Sesiones al año: el primero se iniciará el primero de abril y terminará el ultimo de Junio, el segundo comenzara el primero de Octubre y terminara el treinta y uno de Diciembre.
-
-Los Períodos de Sesiones Extraordinarias se efectuarán cuando sea necesario, mediante convocatoria de la Comisión Permanente o del Gobernador del Estado.
+Habrá dos Períodos Ordinarios de Sesiones al año; el primero se iniciará el 1º. de Abril y terminará el ultimo de Junio.- El segundo comenzará el 1º. de Octubre y terminará el 31 de Diciembre.- Los Periodos de Sesiones Extraordinarios se efectuaran cuando sean necesarios, mediante convocatoria de la Comisión Permanente o del Gobernador del Estado.
 
 ###### ARTICULO 9o.
 
@@ -139,9 +137,11 @@ El día señalado para la apertura del primer periodo de sesiones, después del 
 
 En los períodos siguientes al de la instalación del Congreso, la primera junta previa se celebrará cuatro días antes de la apertura con el fin de reunir el quórum necesario, el que deberá estar debidamente integrado en la junta preparatoria a celebrarse dos días antes de la apertura. En caso de no existir el quórum necesario en la primera junta, se excitará a los diputados propietarios a presentarse en la segunda, advertidos que de no hacerlo se llamará a los suplentes para la integración.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 22.
 
-En las sesiones de apertura de los periodos ordinarios y extraordinarios, se procederá a la elección del presidente y vice-presidente y de los secretarios, según lo previenen los artículos 25 y 26, y se discutirá y aprobará el Acta de la Sesión anterior y el presidente hará la declaratoria de la iniciación de los trabajos en los términos señalados en el Artículo 20, ajustándola al número y naturaleza del período correspondiente.
+En las Sesiones de apertura de los Periodos Ordinarios y Extraordinarios, se procederá a la elección del Presidente y Vice-Presidente y de los Secretarios, según lo previenen los Artículos 25 y 26 de esta Ley; y se discutirá y aprobará el Acta de la Sesión anterior y el Presidente hará la declaratoria de la iniciación de los trabajos en los términos señalados en el Artículo 20, ajustándola al número y naturaleza del Período correspondiente.
 
 ###### ARTICULO 23.
 
@@ -257,11 +257,13 @@ El coordinador general designará los asesores, secretarios auxiliares y demás 
 
 ### CAPITULO VII. DE LOS DIPUTADOS
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 37.
 
-Los diputados gozan del fuero que reconoce la Constitución. Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos o enjuiciados por ellas.
+Los Diputados gozan del fuero que reconoce la Constitución. Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos o enjuiciados por ellas.
 
-Los diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal, hasta que, seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes.
+Los Diputados son responsables por los delitos que cometan durante el tiempo de su encargo y por los delitos y faltas en que incurran en el ejercicio de ese mismo cargo, pero no podrán ser detenidos ni ejercitarse en su contra la acción penal, hasta que, seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales comunes, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Gobierno y de los Ayuntamientos del Estado.
 
 ###### ARTICULO 38.
 
@@ -365,15 +367,17 @@ En todos los demás casos las sesiones extraordinarias serán convocadas por el 
 
 Por regla general, las sesiones que celebre el Congreso serán públicas, a menos que la asamblea o la Diputación Permanente en su caso, considere que el asunto a tratar debe ser secreto.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 58.
 
-Son materia de sesión secreta:
+Son materia de Sesión Secreta:
 
-I.- Las acusaciones presentadas en contra de los diputados, el Gobernador del Estado, el Secretario General de Gobierno, el Secretario de Administración, el Secretario de Planeación, el Procurador General de Justicia y magistrados del Tribunal Superior de Justicia;
+I.- Las acusaciones presentadas en contra de los Diputados, el Gobernador del Estado, y en General de los Funcionarios a que se refiere el Articulo segundo de la Ley de Responsabilidades de los Servidores Públicos del Gobierno y de los Ayuntamientos del Estado,
 
 II.- Las comunicaciones dirigidas al Congreso con carácter de reservadas; y
 
-III.- Las cuentas puramente económicas y las que el presidente y el secretario califiquen de reservadas.
+III.- Las cuentas puramente económicas y las que el Presidente y el Secretario califiquen de reservadas.
 
 ###### ARTICULO 59.
 
@@ -455,15 +459,17 @@ Los acuerdos económicos serán autorizados por la Secretaria del Congreso y se 
 
 Para el despacho de los asuntos se nombrarán comisiones permanentes o especiales que los examinen e instruyan hasta ponerlos en estado de resolución .
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 73.
 
-Las comisiones permanentes serán de:
+Las Comisiones Permanentes serán de:
 
-I.- Legislación y puntos constitucionales;
+I.- Legislación y puntos Constitucionales;
 
 II.- Hacienda del Estado y Municipal;
 
-III.- Comisión inspectora de la Contaduría General;
+III.- Comisión Inspectora de la Contaduría General;
 
 IV.- Gobernación y Asuntos Municipales;
 
@@ -471,9 +477,11 @@ V.- Educación Pública y Justicia;
 
 VI.- Asuntos de Trabajo, Industriales y Comerciales.
 
-VII.- Asuntos Agrícolas, Forestales y Ganaderos; y
+VII.- Asuntos Agrícolas, Forestales y Ganaderos;
 
-VIII.- Corrección y Estilo.
+VIII.- Corrección y Estilo, y
+
+IX.- La Comisión Instructora que estará integrada por 5 Diputados, 3 Propietarios y 2 Suplentes, debiendo fungir como Presidente y Secretario de la misma, los nombrados en primer y segundo termino, respectivamente, quedando el tercero de los Propietarios como Vocal; los Suplentes cubrirán las vacantes que se presenten al actuar esta Comisión, que tendrá las funciones y atribuciones que le señala la Ley de Responsabilidades de los Servidores Públicos del Gobierno y de los Ayuntamientos del Estado.
 
 ###### ARTICULO 74.
 
@@ -483,9 +491,11 @@ La comisión, inspectora de la Contaduría General estará presidida por el Coor
 
 Las Comisiones especiales serán designadas por la Asamblea, cuando la urgencia o importancia de un asunto lo amerite.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 76.
 
-Las Comisiones permanentes o especiales, a excepción de la de corrección y estilo, serán dobles, distinguiéndose con las denominaciones de primera y segunda.
+Las Comisiones Permanentes o especiales, a excepción de las de Corrección y Estilo y de Instrucción, serán dobles, distinguiéndose con las denominaciónes de primera y segunda.
 
 ###### ARTICULO 77.
 
@@ -783,9 +793,11 @@ IV.- El paquete electoral recibido y los anexos que se agregan de las actuacione
 
 El procedimiento para la instrucción de procesos contra los funcionarios a que se refiere el título décimo de la Constitución Política del Estado, se regirá de acuerdo con lo dispuesto en la propia constitución y las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 140.
 
-Tratándose de delitos del orden común cometidos por los funcionarios a que se refieren los artículos 151 y 152 de la Constitución, el Congreso se erigirá en gran jurado y se declarará, por mayoría de votos de sus miembros, si ha lugar o no a formación de causa, previo dictamen que en ese sentido emita la comisión instructora, integrada por tres diputados.
+Tratándose de delitos del orden común cometidos por los funcionarios a que se refieren los artículos 151 y 152 de la Constitución, el Congreso se erigirá en Gran Jurado y se declarará, por mayoría de votos de sus miembros, si ha lugar o no a formación de causa, previo dictamen que en ese sentido emita la Comisión Instructora, integrada conforme al Articulo 73 de esta Ley.
 
 ###### ARTICULO 141.
 
@@ -875,9 +887,11 @@ Si la parte citada o su representante comparecen, será oída por la comisión y
 
 En cualquiera de los casos previstos en los artículos anteriores, los miembros de la comisión podrán hacer uso de la palabra hasta en tres ocasiones, ya sea que hable uno solo de sus miembros o los 3, para apoyar y sostener su dictamen, cuando éste sea objetado por algún legislador.
 
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1983)</small>
+
 ###### ARTICULO 158.
 
-Si el Congreso conoció de algún asunto de los que se mencionan en este capitulo, y entró en receso antes de ser resuelto, la comisión designada seguirá conociéndolo y tocará resolver a la permanente. Si fue la permanente la que inicio la legislatura nuevo periodo de sesiones, seguirá actuando la comisión designada y corresponderá al Congreso resolver. Si el conflicto fue planteado y la legislatura concluye su período constitucional, se pasará el asunto junto con toda la documentación que integre el expediente respectivo, para que sea la nueva legislatura quién continúe el procedimiento y resuelva en definitiva.
+Si el Congreso conoció de algún asunto de los que se mencionan en este Capitulo, y entró en receso antes de ser resuelto, la Comisión designada, seguirá conociéndolo y tocará resolver a la Permanente. Si fue la Permanente la que primeramente conoció del asunto y antes de resolverlo, inicio la Legislatura nuevo Periodo de Sesiones, seguirá actuando la Comisión designada y corresponderá al Congreso resolver. Si el conflicto fue planteado y la Legislatura concluye su Período Constitucional, se pasará el asunto junto con toda la documentación que integre el expediente respectivo, para que sea la nueva Legislatura quién continúe el procedimiento y resuelva en definitiva.
 
 ## ARTICULO TRANSITORIO
 
@@ -902,3 +916,7 @@ El Secretario General de Gobierno.- LIC. JOSE ANTONIO ZORRILLA PEREZ.- Rúbrica.
 P.O. 24 DE MAYO DE 1982.
 
 UNICO.- Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE DICIEMBRE DE 1983.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
