@@ -4,7 +4,7 @@ identifier: "SIN-codigo-civil-para-el-estado-de-sinaloa-9901"
 country: "mx"
 rank: "codigo"
 publication_date: "1940-07-23"
-last_updated: "1971-11-30"
+last_updated: "1972-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO CIVIL PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE NOVIEMBRE DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1972.
 
 Código publicado en el Periódico Oficial del Estado de Sinaloa, el 23 de julio de 1940.
 
@@ -5167,17 +5167,15 @@ Cuando parte de la cosa perteneciere exclusivamente a un copropietario o a algun
 
 Todo condueño tiene la plena propiedad de la parte alícuota que le corresponde y la de sus frutos y utilidades, pudiendo, en consecuencia, enajenarla, cederla e hipotecarla y aun substituir otro en su aprovechamiento, salvo si se tratare de derecho personal. Pero el efecto de la enajenación o de la hipoteca con relación a los condueños estará limitado a la porción que se le adjudique en la división al cesar la comunidad. Los condueños gozan del derecho del tanto.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1972)</small>
+
 ###### Artículo 949.
 
-Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
+Cuando los diferentes pisos, departamentos, viviendas o locales de un edificio, susceptibles de aprovechamiento independiente, con salidas propias a un elemento común de aquél o a la vía pública, pertenecieren a distintos propietarios, cada uno tendrá un derecho individual de propiedad sobre su piso, departamento, vivienda o local, y además, un derecho de copropiedad sobre los elementos y partes comunes del edificio, necesarios para su adecuado uso o disfrute, tales como el suelo, cimientos, sótanos, muros de carga, fosos, patios, pozos, escaleras, elevadores, pasos, corredores, cubiertas, canalizaciones, desagües, servidumbres y otros similares.
 
-I.- Las paredes maestras, el tejado o azotea, y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
+El derecho de copropiedad sobre los elementos comunes del edificio solo será enajenable, gravable o embargable por terceros, conjuntamente con el piso, departamento, vivienda o local de propiedad exclusiva respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del edificio no es susceptible de división.
 
-II.- Cada propietario costeará el suelo de su piso;
-
-III.- El pavimento del portal, puerta de entrada, patio común y obras de policía, comunes a todos, se costearán a prorrata por todos los propietarios;
-
-IV.- La escalera que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero, y así sucesivamente.
+Los derechos y obligaciones de los propietarios a que se refiere este precepto, se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compra venta correspondientes, por el Reglamento de Condominio y Administración elaborado para el edificio o conjunto de edificios y, en su caso, por la Ley Reglamentaria de este Artículo.
 
 ###### Artículo 950.
 
@@ -15326,3 +15324,7 @@ UNICO.- El presente Decreto surtirá sus efectos legales a los tres días de su 
 P.O. 30 DE NOVIEMBRE DE 1971.
 
 UNICO.- El presente Decreto empezará a surtir sus efectos legales correspondientes a partir del día 1o. de Enero de 1972.
+
+P.O. 8 DE ABRIL DE 1972.
+
+UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
