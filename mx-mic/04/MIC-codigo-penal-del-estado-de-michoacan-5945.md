@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-del-estado-de-michoacan-5945"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-07-07"
-last_updated: "1994-03-03"
+last_updated: "1994-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CODIGO PENAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE MARZO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1994.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Michoacán, el lunes 7 de julio de 1980.
 
@@ -693,7 +693,7 @@ Los reos que gocen del beneficio de la libertad condicional, quedarán bajo el c
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 1994)</small>
 
-Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de; secuestro, asalto, violación y robo, previstos en los artículos 228, 237 y 238, 240 párrafos segundo, tercero y cuatro, 267 y 303 fracciones I y IV, respectivamente, así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
+Artículo 76 bis.- La libertad condicional no se concederá a los sentenciados por los delitos de; secuestro, asalto, violación y robo, previstos en los artículos 228, 237y 238, 240 párrafos segundo, tercero y cuatro, 267 y 303 fracciones I y IV, respectivamente, así como a los habituales o a quienes hubieren incurrido en segunda reincidencia.
 
 ### CAPITULO XII. Suspensión condicional de la ejecución de la sanción
 
@@ -773,7 +773,7 @@ La muerte del delincuente extingue la acción penal y las sanciones impuestas, a
 
 La amnistía extingue la acción penal y las sanciones impuestas, con excepción de la reparación del daño, en los términos de la ley que se dicte concediéndola. Si no se expresaren, se entenderá que la acción penal y las sanciones se extinguen en todos sus efectos, con relación a todos los responsables del delito.
 
-### CAPITULO IV. Perdón del ofendido en los delitos de querella necesaria
+### CAPITULO IV. Perdon del ofendido en los delitos de querella necesaria
 
 ###### Artículo 84.
 
@@ -1421,13 +1421,13 @@ Se aplicarán de dos a seis años de prisión, multa hasta de diez mil pesos, de
 
 ###### Artículo 180.
 
-Iguales sanciones se aplicarán a las personas comisionadas por los funcionarios o empleados a que se refiere el artículo anterior, que con tal representación realicen los actos constitutivos del delito de concusión
+Iguales sanciones se aplicarán a las personas comisionadas por los funcionarios o empleados a que se refiere el artículo anterior, que con tal representación realicen los actos constitutivos del delito de concusión.
 
 ### CAPITULO VIII. Enriquecimiento ilícito
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 1994)</small>
 
-Artículo 186 bis.-. Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
+Artículo 186 BIS.-. Se sancionará a quien con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito. Existe enriquecimiento ilícito cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquéllos respecto de los cuales se conduzca como dueño en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
 Incurre en responsabilidad penal, asimismo, quien haga figurar como suyos bienes que el servidor público adquiera o haya adquirido en contravención de lo dispuesto en la misma ley a sabiendas de esta circunstancia.
 
@@ -1483,7 +1483,7 @@ I. Para impedir la ejecución de una ley, decreto o reglamento, el cobro de un i
 
 II. Con abuso de sus funciones o quebranto de las formalidades de ley, priven de la libertad a alguna persona;
 
-III. Ejerciendo sus funciones o con motivo de ellas, instiguen, toleren o infrinjan en forma directa a una persona detenida, sufrimientos de naturaleza física o mental, para mediante su intimidación obtener de ella, o de un tercero, información sobre determinados hechos o bien una confesión de responsabilidad, o para castigarla por un acto que haya cometido o que se sospeche ha perpetrado;
+III. (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA, P.O. 10 DE MARZO DE 1994)
 
 IV. Con abuso de sus funciones, ordenen o ejecuten la pesquisa o registro del cuerpo de una persona;
 
@@ -1553,13 +1553,11 @@ Los médicos, cirujanos y demás profesionistas similares y auxiliares, serán r
 
 I. Se les aplicará suspensión de un mes a cuatro años en su ejercicio; y,
 
-II. Estarán obligados a la reparación del daño por sus actos y por los de sus ayudantes, enfermeras o practicantes, cuando éstos obren de acuerdo con las instrucciones de aquellos.
+II. Estarán obligados a la reparación del daño por sus actos y por los de sus ayudantes, enfermeras o practicantes, cuando estos obren de acuerdo con las instrucciones de aquellos.
 
 ###### Artículo 192.
 
-La sanción del artículo anterior se aplicará a los médicos que, habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada y sin dar aviso inmediato a la autoridad correspondiente.
-
-La misma pena se impondrá a los médicos, cirujanos y demás profesionistas similares y auxiliares que no expidan de inmediato los certificados provisionales de lesiones.
+La sanción del artículo anterior se aplicará a los médicos que, habiendo otorgado responsiva para hacerse cargo de la atención de un lesionado o enfermo, lo abandonen en su tratamiento sin causa justificada y sin dar aviso inmediato a la autoridad correspondiente. La misma pena se impondrá a los médicos, cirujanos y demás profesionistas similares y auxiliares que no expidan de inmediato los certificados provisionales de lesiones.
 
 ###### Artículo 193.
 
@@ -1573,9 +1571,7 @@ Se impondrán prisión de tres meses a seis años y multa de quinientos a cinco 
 
 I. Al que presente denuncias o querellas calumniosas, entendiéndose por tales, aquéllas en que su autor imputa un delito a persona determinada sabiendo que ésta es inocente o que aquél no se ha cometido; y,
 
-II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa, o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad. En los casos anteriormente señalados, si el calumniado es declarado penalmente responsable, se impondrá al calumniador la misma sanción que a aquél.
-
-No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución de sobreseimiento dictado por el juez o tribunal que hubiese conocido del delito imputado.
+II. Al que para hacer que un inocente aparezca como reo de un delito, ponga sobre la persona del calumniado, en su casa, o en otro lugar adecuado para ese fin, una cosa que pueda dar indicios o presunciones de responsabilidad. En los casos anteriormente señalados, si el calumniado es declarado penalmente responsable, se impondrá al calumniador la misma sanción que a aquél. No se procederá contra el autor de ese delito, sino en virtud de sentencia ejecutoriada o resolución de sobreseimiento dictado por el juez o tribunal que hubiese conocido del delito imputado.
 
 ### CAPITULO II. Falsificación de Documentos y Uso de Documentos Falsos
 
@@ -1869,15 +1865,13 @@ Al que fuera del caso de bigamia, usando violencia o engaño, contraiga matrimon
 
 ###### Artículo 219.
 
-Se aplicarán de uno a cinco años de prisión, destitución e inhabilitación hasta por tres años a los funcionarios del Registro Civil que conociendo los impedimentos autoricen el matrimonio en los términos de este Capítulo.
+Se aplicarán de uno a cinco años de prisión, destitución e inhabilitación hasta por tres años a los funcionarios del Registro Civil que conociendo los impedimentos autoricen el matrimonio en los términos de este capítulo.
 
 ### CAPITULO III. Rapto
 
 ###### Artículo 220.
 
-Se impondrán sanción de uno a seis años de prisión y multa de mil a seis mil pesos, a los ascendientes que tengan cópula con sus descendientes.
-
-La sanción aplicable a estos últimos será de tres días a un año de prisión y multa de cien a mil pesos. Se aplicará de seis meses a tres años de prisión y multa de quinientos a tres mil pesos en caso de cópula entre hermanos.
+Se impondrán sanción de uno a seis años de prisión y multa de mil a seis mil pesos, a los ascendientes que tengan cópula con sus descendientes. La sanción aplicable a estos últimos será de tres días a un año de prisión y multa de cien a mil pesos. Se aplicará de seis meses a tres años de prisión y multa de quinientos a tres mil pesos en caso de cópula entre hermanos.
 
 ### CAPITULO IV. Amenazas
 
@@ -1897,7 +1891,7 @@ El delito de incumplimiento de obligaciones de asistencia familiar sólo se pers
 
 Para que el perdón concedido por el ofendido o su legítimo representante pueda producir la libertad del acusado, deberá éste exhibir ante el tribunal todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y garantizar el pago futuro de los mismos.
 
-### CAPITULO V. Extorsión
+### CAPITULO V. Extorción
 
 ###### Artículo 224.
 
@@ -2331,6 +2325,8 @@ Al que prive de la vida dolosamente a cualquier ascendiente consanguíneo, sea l
 
 ### CAPITULO IV. Fraude
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 1988)</small>
+
 ###### Artículo 284.
 
 Se aplicará de tres a cinco años de prisión a la madre que para ocultar su deshonra, prive de la vida a su hijo en el momento de su nacimiento, o dentro de las setenta y dos horas siguientes.
@@ -2447,7 +2443,9 @@ I. Cuando el valor de lo robado no exceda del importe de cien días de salario, 
 
 II. Si el valor de lo robado excede del importe señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de uno a tres años de prisión y multa de diez a treinta días de salario; y,
 
-III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario. Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
+III. Cuando el valor de lo robado exceda del importe de quinientos días de salario, la sanción será de tres a doce años de prisión y multa de treinta a ciento veinte días de salario.
+
+Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 301.
 
@@ -2601,23 +2599,17 @@ Los delitos previstos en este capítulo, sólo se perseguirán por querella del 
 
 ###### Artículo 324.
 
-Comete el delito de fraude, el que engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido para sí o para otro.
+Comete el delito de fraude, quien engañando a alguien o aprovechándose del error en que éste se halla, se haga ilícitamente de alguna cosa o alcance un lucro indebido para sí o para otro.
 
-El delito de fraude se castigará con las penas siguientes:
+Al responsable del delito de fraude se le sancionará conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+I. Con prisión de tres días a un año y multa de tres a diez días de salario, cuando el valor de lo defraudado no exceda del importe de cien días de salario;
 
-I. Con prisión de tres días a un año y multa de ciento cincuenta a tres mil pesos, cuando el valor de lo defraudado no exceda de quince mil pesos.
+II. Con prisión de uno a tres años y multa de diez a treinta días de salario, cuando el valor de lo defraudado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente; y,
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
+III. Con prisión de tres a doce años y multa de treinta a ciento veinte días de salario, si el valor de lo defraudado fuere mayor de quinientos días de salario.
 
-II. Con prisión de uno a tres años y multa de tres mil a nueve mil pesos, cuando el valor de lo defraudado excediere de quince mil pesos, pero no de sesenta mil pesos; y
-
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1984)</small>
-
-III. Con prisión de tres a doce años y multa de nueve mil a treinta y seis mil pesos, si el valor de lo defraudado fuere mayor de sesenta mil pesos.
-
-Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud no sólo del engaño, sino de las maquinaciones o artificios que para obtener ese bien se hayan empleado, la pena señalada en las fracciones anteriores se aumentará con prisión de tres días a dos años.
+Para la aplicación de este artículo se considerará como salario, el salario mínimo general vigente en el momento y lugar en que se cometió el delito.
 
 ###### Artículo 325.
 
@@ -2940,3 +2932,13 @@ P.O. 3 DE MARZO DE 1994.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MARZO DE 1994.
+
+DECRETO No. 78
+
+LEY PARA PREVENIR Y SANCIONAR LA TORTURA
+
+PRIMERO.- Esta Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se deroga la fracción III del artículo 185 del Código Penal de la Entidad.
