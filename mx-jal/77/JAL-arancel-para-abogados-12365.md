@@ -4,7 +4,7 @@ identifier: "JAL-arancel-para-abogados-12365"
 country: "mx"
 rank: "otro"
 publication_date: "1955-01-01"
-last_updated: "1983-01-22"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12365&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 ARANCEL PARA ABOGADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ENERO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Arancel publicado en el Periódico Oficial del Estado de Jalisco, el sábado 1 de enero de 1955.
 
@@ -173,6 +173,12 @@ Cuando el Abogado intervenga en cobros o transacciones extrajudiciales percibir�
 
 Los Abogados fijarán en el interior de su Bufete, en un lugar perfectamente visible, una copia del presente Arancel.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
+###### ARTICULO 21.
+
+Las cantidades dinerarias a que hace referencia el presente arancel, se entenderán pagaderas en la moneda de curso legal a la fecha en que sea exigible la obligación.
+
 ## TRANSITORIOS.
 
 I.- Se deroga el Decreto No. 702 de fecha 30 de septiembre de 1895; pero seguirá aplicándose en lo no previsto en éste Arancel.
@@ -198,3 +204,7 @@ P.O. 22 DE ENERO DE 1983.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Segundo. La aplicación de este arancel será para los negocios que se inicien con posterioridad a la vigencia del presente Decreto.
+
+P.O. 28 DE AGOSTO DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
