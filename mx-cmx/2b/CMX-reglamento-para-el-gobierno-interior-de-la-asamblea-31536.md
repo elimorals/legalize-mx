@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-31536"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-05-27"
-last_updated: "2003-09-23"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31536&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-29"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el martes 27 mayo de 2003.
 
@@ -1166,11 +1166,13 @@ IV.- Discusión en lo particular de los capítulos o artículos que al inicio de
 
 La discusión en lo particular se ordenará de manera análoga a la establecida por la discusión en lo general.
 
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 118.
 
-Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, votos particulares, propuestas que sean consideradas como de urgente y obvia resolución y aquellos casos que el Pleno expresamente así lo acuerde.
+Las intervenciones se pronunciarán personalmente y de viva voz, en un término máximo de diez minutos. Se exceptúan del término anterior la presentación de dictámenes, de votos particulares, propuestas que sean consideradas como de urgente y obvia resolución y aquellos casos que el Pleno expresamente así lo acuerde, los cuales tendrán una duración de 30 minutos.
 
-Cuando se trate de pronunciamientos, propuestas y denuncias a que se refiere el articulo 83, numeral 9 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
+Cuando se trate de pronunciamientos, propuestas y denuncias a que se refiere el artículo 83 numeral 9 de este ordenamiento, los Diputados podrán solicitar la palabra sin estar registrados en el orden del día para hablar sobre el mismo tema hasta por diez minutos. Sólo podrá participar un Diputado por cada Grupo Parlamentario.
 
 ###### Artículo 119.
 
@@ -1489,3 +1491,9 @@ G.O. 23 DE SEPTIEMBRE DE 2003.
 PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal. Para su mayor difusión, publíquese también en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente a su aprobación por el Pleno de la Asamblea.
+
+G.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Remítase al Jefe de Gobierno del Distrito Federal únicamente para su publicación en la Gaceta Oficial del Distrito Federal.
