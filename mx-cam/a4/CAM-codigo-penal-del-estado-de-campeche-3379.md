@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1984-12-19"
+last_updated: "1986-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -69,17 +69,23 @@ Cuando se cometa un delito no previsto en este Código, pero sí en una ley espe
 
 Delito es el acto u omisión que sancionan las leyes penales.
 
-###### Art. 6°.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
+
+###### Art. 6o.
 
 Los delitos pueden ser:
 
-I.- Intencionales;
+I.- Dolosos o intencionales;
 
-II.- No intencionales o de imprudencia.
+II.- Culposos o imprudenciales.
 
-El delito es intencional, cuando se infringe la ley penal con el ánimo de hacer lo que prohibe o dejar de hacer lo que ordena.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1986)</small>
 
-Se entiende por imprudencia toda imprevisión, negligencia, impericia, falta de reflexión o de cuidado que cause igual daño que un delito intencional.
+###### Art. 7o.
+
+Obra dolosa o intencionalmente el que, conociendo las circunstancias del hecho típico, quiera o acepte el resultado prohibido por la ley.
+
+Obra culposa o imprudencialmente el que realiza el hecho típico imcumpliendo (sic) un deber de ciudadano, que las circunstancias y condiciones personales le imponen.
 
 ###### Art. 7°.
 
@@ -3044,3 +3050,9 @@ Se derogan todas aquellas disposiciones que se opongan a las presentes reformas 
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto entrará en vigor a los sesenta días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1986.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
