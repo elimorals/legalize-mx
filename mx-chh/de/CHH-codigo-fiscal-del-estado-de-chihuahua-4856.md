@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2002-11-23"
+last_updated: "2002-12-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -265,9 +265,9 @@ Cuando la determinación o liquidación deban ser hechas por las autoridades fis
 
 35.- Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-El microfilm de los documentos que obran en los archivos de la Tesorería General del Estado y sus reproducciones, obtenidos por las autoridades fiscales, tendrán su valor probatorio sin necesidad de cotejo con sus originales, siempre y cuando sean certificados por funcionario competente.
+Los documentos, datos e información que obran en los archivos físicos y electrónicos de la Secretaría de Finanzas y Administración tendrán valor probatorio pleno. Sus reproducciones, impresiones y constancias, tendrán el mismo valor probatorio, sin necesidad de cotejo, siempre y cuando sean certificados por funcionario competente.
 
 36.- Las autoridades fiscales, a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidad líquida, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultadas para:
 
@@ -393,17 +393,33 @@ II.- Si es a los sujetos pasivos o responsables solidarios a quien corresponde d
 
 III.- Si se trata de obligaciones derivadas de contratos o concesiones que no señalen la fecha de pago, éste deberá hacerse dentro de los quince días siguientes a la fecha de su celebración u otorgamiento.
 
-> <small>(REFORMADO, P.O. 28 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-44.- El pago de los créditos fiscales, impuestos, derechos, productos y aprovechamientos deberá hacerse en efectivo o a través de los siguientes medios: Giros postales, telegráficos o bancarios, cheques certificados, cheques de caja, cheques de cuentas personales y tarjetas de crédito o débito de los contribuyentes que cumplan con los requisitos que para tal efecto establezca la Dirección de Ingresos de la Dirección General de Finanzas y Administración. El pago deberá efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Dirección General de Finanzas y Administración.
+44.- El pago de impuestos, derechos, productos o aprovechamientos, deberá efectuarse en las oficinas recaudadoras del Estado o en los establecimientos que autorice la Secretaría de Finanzas y Administración, a través de los siguientes medios:
 
-La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Tesorería General del Estado a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectiva mediante los procedimientos establecidos en este Código, para los demás créditos fiscales.
+I.- Efectivo;
 
-La autoridad fiscal recibirá el pago hecho por el sujeto pasivo, responsable solidario o por terceros reservándose la facultad de revisar, en el acto del entero o con posterioridad, la veracidad de los datos que se consignan y el efectivo cumplimiento de las obligaciones establecidas por este Código y demás disposiciones fiscales aplicables y en su caso formular las liquidaciones por concepto de los ingresos omitidos.
+II.- Giros postales, telegráficos o bancarios;
 
-Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
+III.- Cheques certificados, de caja, de cuentas personales o empresariales;
 
-Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, transcurridos diez días a partir del siguiente al en que se haya vencido el plazo en que el contribuyente o retenedor debió presentarlas, la Dirección General de Finanzas y Administración podrá hacerle efectivo un impuesto igual al de la última declaración con las modificaciones que en su caso hubiere tenido con motivo de la revisión. Este impuesto podrá ser rectificado por la Dirección General de Finanzas y Administración. Los contribuyentes o retenedores por su parte, continuarán obligados a presentar las declaraciones omitidas, caso en el que el impuesto pagado se acreditará contra el que resulte de dicha declaración, que podrá ser objeto de revisión.
+IV.- Tarjetas de crédito o de débito.
+
+Asimismo, podrán efectuar los pagos mediante transferencias de fondos a través de la red electrónica mundial, en cuyo caso se deberán observar los requisitos y procedimientos que establezca la Secretaría de Finanzas y Administración mediante Acuerdo que publique en el Periódico Oficial del Estado.
+
+El pago así efectuado y la presentación de declaraciones por el mismo medio no generarán cargo alguno por parte del Estado; tampoco la primera certificación que se solicite por el usuario, respecto de cada operación que haya realizado utilizando la red.
+
+El uso de las claves de identificación personal que se establezcan para la presentación de declaraciones y la realización de pagos a través de la red electrónica mundial, sustituye a la firma autógrafa y producirá los mismos efectos que las leyes otorgan a las declaraciones y pagos efectuados en las recaudaciones o establecimientos autorizados; en consecuencia, las declaraciones y pagos realizados mediante el uso de la red electrónica mundial tendrán el mismo valor probatorio.
+
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Finanzas y Administración a exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. La indemnización y el cobro del cheque se notificarán y se harán efectivos mediante los procedimientos establecidos en el Libro Segundo, Título Primero, de este Código.
+
+La autoridad fiscal recibirá el pago efectuado por el sujeto pasivo, responsable solidario o por terceros, reservándose la facultad de revisar, en el acto del entero o con posterioridad, la veracidad de los datos que se consignan y el efectivo cumplimiento de las obligaciones establecidas en este Código y demás disposiciones fiscales aplicables y en su caso, formular las liquidaciones por concepto de los ingresos omitidos.
+
+Las manifestaciones y declaraciones de los notarios, jueces que actúen por receptoría y contadores, salvo el caso del artículo 81, se entenderán hechas bajo su estricta responsabilidad, siendo solidariamente responsables del pago del impuesto omitido, sin perjuicio de las sanciones a que se hagan acreedores en los términos de este mismo Código.
+
+Cuando se omita la presentación de declaraciones para el pago de impuestos propios o retenidos, la Secretaría de Finanzas y Administración podrá hacer efectivo por concepto del impuesto, una cantidad igual a la de la última declaración, con las modificaciones que en su caso hubiere tenido con motivo de la revisión. El impuesto determinado podrá ser rectificado por la citada Secretaría. Los contribuyentes o retenedores continuarán obligados a presentar las declaraciones, caso en que el impuesto pagado se acreditará contra el que resulte de éstas, sin perjuicio de las facultades de la autoridad para proceder a su revisión.
+
+Los pagos a que se refiere este artículo, que se enteren mediante declaración, deberán presentarse en los formatos oficiales aprobados por la Secretaría de Finanzas y Administración. Las declaraciones podrán ser normales o complementarias. Las complementarias sólo podrán presentarse cuando exista error en la base de determinación de la normal y hasta por dos ocasiones, siempre y cuando no hayan iniciado las facultades de comprobación por parte de la Secretaría de Finanzas y Administración.
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
@@ -689,9 +705,13 @@ Los fedatarios públicos, dentro de los treinta días hábiles siguientes a la f
 
 Las autoridades correspondientes, si el objeto de la operación son bienes inmuebles, harán constar en la nota los datos catastrales relativos y si se encuentran al corriente en el pago de las contribuciones ordinarias y extraordinarias. El original de la nota se devolverá con la certificación de que se cubrió el impuesto conforme a la liquidación formulada bajo la responsabilidad del Notario, facultándolo para la autorización de la escritura.
 
-En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Mensualmente deberán remitir a la Recaudación de Rentas en cuya jurisdicción residan, una copia de los testimonios que expidan.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-La Tesorería General del Estado formulará modelo de las notas que deban presentar los Notarios.
+En los testimonios que expidan, deberán insertar la nota y el comprobante del pago de los impuestos respectivos. Cuando el entero de los impuestos se realice por medio de la red electrónica mundial, bastará se inserte en los testimonios el número de operación que le haya correspondido.
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+La Secretaría de Finanzas y Administración formulará modelo de las notas que deben presentar los notarios.
 
 83.- Los Encargados del Registro Publico de la Propiedad y del Comercio no inscribirán ninguna escritura o documento en que consten actos, resoluciones judiciales o administrativas gravadas por este Código, si no se les comprueba fehacientemente el pago de los impuestos que dichos actos generen y que los interesados están al corriente en el pago de los demás impuestos de que, con respecto al Fisco del Estado, son objeto los bienes materia de aquéllos, que existe prórroga legalmente concedida para su pago, que éste fue garantizado o que están exentos por disposición de la Ley.
 
@@ -785,7 +805,9 @@ XV.- No presentar, o no proporcionar o hacerlo extemporáneamente, los avisos, d
 
 XVI.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal;
 
-XVII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+XVII.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refieren las dos fracciones anteriores, alterados o falsificados, incluidas las declaraciones presentadas a través de la red electrónica mundial;
 
 XVIII.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocultar u omitir bienes o existencias que deban figurar en los inventarios, o registrarlos a precios inferiores de los reales; no practicar los inventarios que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan;
 
@@ -803,7 +825,9 @@ I.- No presentar o hacerlo extemporáneamente para su revisión, las declaracion
 
 II.- No pagar el impuesto o hacerlo extemporáneamente, cuando la ley les atribuya esta obligación o fueren comisionados y expensados por los interesados para tal fin;
 
-III.- Omitir insertar en los testimonios que expidan, el comprobante de pago del impuesto causado, o cuando omitan hacer constar que existe exención del impuesto y el fundamento legal de la misma;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+III.- Omitir insertar en los testimonios que expidan, el comprobante de pago del impuesto causado o la mención del número de operación si el entero se realiza a través de la red electrónica mundial o cuando omitan hacer constar que existe exención del impuesto y el fundamento legal de la misma;
 
 IV.- No poner a las escrituras o minutas las notas de "no pasó", en los casos en que deban ponerse de acuerdo con las leyes;
 
@@ -813,7 +837,9 @@ VI.- Expedir las notas a que se refiere la fracción anterior, en forma que dé 
 
 VII.- Autorizar actos, o contratos de enajenación o traspaso de negociaciones; de disolución de sociedades, u otros relacionados con fuentes de ingresos gravadas por la ley, sin cerciorarse plenamente de que se esté al corriente en las obligaciones fiscales, o sin dar avisos que prevenga este Código;
 
-VIII.- Inscribir o registrar documentos que carezcan de la constancia de haberse pagado el gravamen correspondiente, que existe prórroga legalmente concedida para su pago o que están exentas por disposición legal o resolución oficial;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VIII.- Inscribir o registrar documentos que carezcan de la constancia de haberse pagado el gravamen fiscal correspondiente, o de la inserción del número de operación cuando el pago se realice a través de la red electrónica mundial. En caso de prórroga, condonación o exención, deberán citar la disposición legal o resolución que la haya concedido;
 
 IX.- No proporcionar informes o datos o no exhibir documentos cuando deban hacerlo, en el plazo que fijen las disposiciones fiscales, o cuando lo exijan las autoridades competentes, o presentarlos incompletos o inexactos;
 
@@ -843,7 +869,9 @@ V.- Presentar los informes, avisos, datos o documentos a que se refiere la fracc
 
 VI.- Alterar documentos fiscales que tengan en su poder.
 
-VII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales o que se practicaron visitas de inspección o incluir en las actas relativas datos falsos.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+VII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones fiscales, que se practicaron visitas de inspección o incluir en las actas relativas datos falsos; certificar falsamente el entero de impuestos pagados o realizados a través de la red electrónica mundial.
 
 VIII.- No practicar las visitas de inspección cuando tengan obligación de hacerlo.
 
@@ -851,7 +879,9 @@ IX.- Intervenir en la tramitación o resolución de algún asunto, cuando tengan
 
 X.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos.
 
-XI.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento. Cooperar en cualquier forma para que se eludan las prestaciones fiscales.
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+XI.- Facilitar o permitir la alteración de las declaraciones, de datos, avisos o cualquier de (sic) documento, incluidas las declaraciones presentadas a través de la red electrónica mundial, y en general, cooperar en cualquier forma para que se eludan las prestaciones fiscales.
 
 XII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos o informes que legalmente puedan exigir los inspectores; no mostrar los libros, documentos, registros, bodegas o locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de la visita.
 
@@ -875,9 +905,13 @@ VI.- Asesorar o aconsejar a los causantes para evadir el pago de una prestación
 
 VII.- Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales;
 
-VIII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar;
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones;
+VIII.- No enterar, total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales retenidas, recaudadas o que debieron retener o recaudar, incluidas las realizadas a través de la red electrónica mundial;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos o con errores que traigan consigo la evasión parcial o total de las mismas prestaciones, incluidos los presentados a través de la red electrónica mundial;
 
 X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos, a sabiendas de que no se cubrieron los impuestos que en relación con los mismos se hubieran debido pagar;
 
@@ -999,7 +1033,9 @@ I.- Comete el delito de defraudación fiscal el contribuyente que realice cualqu
 
 a).- Cuando haya contradicción entre los datos que consten en libros, documentos o demás antecedentes relativos, con los datos que surjan de las declaraciones fiscales.
 
-b).- Cuando las declaraciones fiscales contengan datos falsos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+
+b).- Cuando las declaraciones fiscales contengan datos falsos, incluidas las presentadas por medio de la red electrónica mundial.
 
 c).- Proporcionar con falsedad, a las autoridades fiscales que lo requieran, los datos que sean necesarios para determinar la producción, el ingreso gravable o las contribuciones que se causen.
 
@@ -3413,9 +3449,17 @@ II.- Por el aumento, por cualquier causa, del capital social de sociedades civil
 
 III.- Por los actos tendientes a garantizar obligaciones, tales como fianzas, hipotecas, etc., sobre el importe de lo garantizado, se pagará $0.375 por cada cien pesos o fracción.
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
-IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante notario o ante autoridad judicial, pagará el equivalente al 85% (ochenta y cinco por ciento), sobre el salario mínimo diario, correspondiente a la zona económica de la capital del Estado. En el primer caso el entero del impuesto se comprobará con el original del certificado de pago que se entregará al apéndice del protocolo correspondiente: en el segundo, se adherirá a la copia auténtica que se agregue al apéndice del libro del registro de actos fuera de protocolo, poniéndose razón del pago en la que conste el número del certificado en el documento que se entregue al interesado, si el mandato fuese judicial, el comprobante de pago del impuesto se agregará a las actuaciones conducentes.
+IV.- El mandato que se haga constar en escritura pública o en escrito privado ratificado ante Notario o ante autoridad judicial, pagará el equivalente al 85% sobre el salario mínimo diario correspondiente a la zona económica de la Capital del Estado.
+
+En el caso de escritura pública, el entero del impuesto se comprobará con el original del certificado de pago que se agregará al apéndice del protocolo correspondiente.
+
+Tratándose de escritos privados ratificados, el certificado de pago se anexará a la copia auténtica que se agregue al apéndice del libro de registro de actos fuera de protocolo, y en el documento que se entregue al interesado se hará constar el número del certificado.
+
+En ambos casos, si el pago se realizó por conducto del Notario a través de la red electrónica mundial, bastará que el fedatario público asiente el número de operación que le correspondió.
+
+Si el mandato fuese judicial, deberá agregarse el certificado de ingresos a las actuaciones conducentes.
 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1977)</small>
 
@@ -4706,3 +4750,15 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas disposiciones que se opongan al presente decreto.
+
+P.O. 25 DE DICIEMBRE DE 2002.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto, la opción de presentar declaraciones y realizar pagos a través de la red electrónica mundial, estará sujeta a la expedición de las reglas de operación por parte de la Secretaría de Finazas (sic) y Administración.
+
+Las reglas deberán publicarse en el Periódico Oficial del Estado y expresar, como mínimo: las contribuciones cuya declaración y pago puedan efectuarse por conducto de la red electrónica, la fecha a partir de la cual podrá utilizarse este medio, así como los requisitos y procedimientos a los que deberán sujetarse los contribuyentes que opten por el mismo.
