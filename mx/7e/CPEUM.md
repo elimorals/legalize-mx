@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1971-07-06"
+last_updated: "1971-10-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE OCTUBRE DE 1971.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -120,9 +120,11 @@ No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualq
 
 No se considerará ilegal, y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto, a una autoridad, si no se profieren injurias contra ésta, ni se hiciere uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desee.
 
+> <small>(REFORMADO, D.O.F. 22 DE OCTUBRE DE 1971)</small>
+
 ###### Art. 10.
 
-Los habitantes de los Estados Unidos Mexicanos tienen libertad de poseer armas de cualquiera clase, para su seguridad y legítima defensa, hecha excepción de las prohibidas expresamente por la ley y de las que la nación reserve para el uso exclusivo del Ejército, Armada y Guardia Nacional; pero no podrán portarlas en las poblaciones sin sujetarse a los reglamentos de policía.
+Los habitantes de los Estados Unidos Mexicanos tienen derecho a poseer armas en su domicilio, para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley Federal y de las reservadas para el uso exclusivo del Ejército, Armada, Fuerza Aérea y Guardia Nacional. La ley federal determinará los casos, condiciones, requisitos y lugares en que se podrá autorizar a los habitantes la portación de armas.
 
 ###### Art. 11.
 
@@ -2416,7 +2418,7 @@ Dentro de los treinta días siguientes al en que entre en vigor esta reforma con
 
 ###### ARTICULO SEGUNDO.
 
-La Suprema Corte y el Tribual Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
+La Suprema Corte y el Tribunal Superior de Justicia del Distrito y Territorios Federales harán, respectivamente, las designaciones de los funcionarios inamovibles a que se refiere esta ley, dentro del término de treinta días, que se contarán a partir de la fecha en que tales cuerpos judiciales queden constituídos con arreglo al artículo anterior.
 
 D.O.F. 21 DE ABRIL DE 1945.
 
@@ -2665,3 +2667,7 @@ D.O.F. 6 DE JULIO DE 1971.
 DECRETO QUE ADICIONA LA BASE 4a. DE LA FRACCION XVI DEL ARTICULO 73.
 
 UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE OCTUBRE DE 1971.
+
+UNICO.- La presente reforma entrará en vigor el mismo día que entre en vigor la Ley Federal Reglamentaria a que la misma se refiere.
