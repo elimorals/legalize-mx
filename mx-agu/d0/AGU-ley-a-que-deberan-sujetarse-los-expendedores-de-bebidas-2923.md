@@ -4,7 +4,7 @@ identifier: "AGU-ley-a-que-deberan-sujetarse-los-expendedores-de-bebidas-2923"
 country: "mx"
 rank: "ley"
 publication_date: "1923-09-09"
-last_updated: "1923-09-09"
+last_updated: "2001-11-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "AGU"
 
 LEY A QUE DEBERAN SUJETARSE LOS EXPENDEDORES DE BEBIDAS ALCOHOLICAS AL MENUDEO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY QUE REGULA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE AGUASCALIENTES, PUBLICADA EN EL PERIODICO OFICIAL EL 26 DE NOVIEMBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el 9 de septiembre de 1923.
 
@@ -190,3 +192,27 @@ LIBERTAD Y CONSTITUCION.- Aguascalientes, Diciembre 11 1906.- J. T. Pedroza, D.S
 Al C. Gobernador del Estado.- Presente.
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Palacio del Gobierno del Estado. Aguascalientes, Diciembre 14 de 1906.- Alejandro Vázquez del Mercado.- Fernando Cruz, S. I.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE NOVIEMBRE DE 2001.
+
+PRIMERO.- Se abroga la Ley a que Deben Sujetarse los Expendedores de Bebidas Alcohólicas al Menudeo y el Reglamento para la Venta de Bebidas Alcohólicas, instrumentos jurídicos aprobados el 11 de diciembre de mil novecientos seis y publicados en El Republicano, Periódico Oficial del Gobierno del Estado de fecha 23 de diciembre del mismo año.
+
+SEGUNDO.- Se abroga la Ley Reglamentaria para la Venta y Consumo de Cerveza en el Estado aprobada el 26 de octubre de mil novecientos cincuenta y nueve y publicada en el Periódico Oficial del Gobierno del Estado de fecha 15 de noviembre del mismo año.
+
+TERCERO.- La presente Ley entrará en vigor a los noventa días naturales siguientes de su publicación en el Periódico Oficial del Estado.
+
+CUARTO.- En tanto los Ayuntamientos no expidan las disposiciones que establezcan los horarios para operar los giros sobre venta y consumo de bebidas alcohólicas, se sujetarán a los siguientes:
+
+I.- Tratándose de los establecimientos referidos en la fracción I del Artículo 11, podrán funcionar desde las doce horas del día, y tendrá la facultad de cerrar hasta las tres horas del día siguiente;
+
+II.- Los establecimientos referidos en la fracción II del artículo 11 tendrán horario de funcionamiento desde las siete horas del día hasta las dos de la mañana del día siguiente;
+
+III.- Los lugares donde eventualmente se puede autorizar la venta y consumo de bebidas alcohólicas, se sujetarán al horario establecido en el permiso expedido por el Ayuntamiento; y
+
+IV.- Los establecimientos donde puede autorizarse sólo la venta de bebidas alcohólicas, y aquellos referidos en la fracción V del Artículo 11, deberán sujetarse al horario de comercio que establezcan los Ayuntamientos. Las farmacias que cuenten con autorización, podrán funcionar las veinticuatro horas.
+
+QUINTO.- Es facultad de cada Ayuntamiento establecer en la Ley de Ingresos correspondiente. Los montos regulados en la presente Ley, para cobro de multas. (sic)
+
+SEXTO.- El Reglamento de la presente Ley se deberá expedir dentro de los ciento veinte días naturales siguientes a partir de la entrada en vigor del presente Decreto.
