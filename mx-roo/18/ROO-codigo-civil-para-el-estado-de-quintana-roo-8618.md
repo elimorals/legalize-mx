@@ -4,7 +4,7 @@ identifier: "ROO-codigo-civil-para-el-estado-de-quintana-roo-8618"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-08"
-last_updated: "1983-12-31"
+last_updated: "1991-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO CIVIL PARA EL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1991.
 
 Código publicado en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 8 de octubre de 1980.
 
@@ -14121,13 +14121,39 @@ Para los efectos del artículo 2757, por casa o departamento amueblado se entien
 
 Para celebrar el contrato de habitación en tiempo compartido, deberá obtenerse de la Secretaría Estatal de Obras Públicas, una constancia de que la construcción de las casas o edificios de que se trate, con sus pasillos, andadores, escaleras, elevadores, patios, estacionamientos y demás dependencias de uso común satisfacen las exigencias técnicas y de seguridad sanitarias que sirvieron de base para el otorgamiento de la licencia de construcción.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 1991)</small>
+
+Artículo 2761 BIS.- Para que pueda constituirse el régimen de tiempo compartido para el servicio turístico, se requiere que el propietario del inmueble o la persona que con legítima causa pueda disponer del mismo, acuda ante Notario Público y formalice mediante escritura pública la declaración unilateral por la que su inmueble se destina parcial o totalmente, en forma irrevocable, al uso exclusivo de la prestación de los servicios turísticos que integran el régimen de tiempo compartido, debiendo acompañar para estos efectos los siguientes documentos:
+
+a) Título de propiedad del inmueble o documentos que acreditan que puede disponer legítimamente del mismo; y que no tenga limitaciones de dominio o bravámenes (sic);
+
+b) Copia del plano general y de las unidades afectas al tiempo compartido debidamente certificados con sus correspondientes medidas, colindancias y características específicas de construcción;
+
+c) Descripción y número de unidades vacacionales e instalaciones afectas al tiempo compartido;
+
+d) Plazo por el cual se afecta el inmueble o la parte proporcional del mismo con el régimen de tiempo compartido;
+
+e) Condiciones en que se prorrogará la afectación a que se refiere la declaración; y
+
+f) Los casos en que pueda ser modificada la propia escritura.
+
+Una vez protocolizada la declaratoria, se inscribirá en el Registro Público de la Propiedad y del Comercio de la Jurisdicción que corresponda, y solamente por sentencia judicial podrá dejarse sin efectos la declaratoria, cuando se le demuestre al juez que no existe ningún contrato vigente de tiempo compartido que se refiera al inmueble que se pretende liberar.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1991)</small>
+
 ###### Artículo 2762.
 
-Los contratos celebrados sin la licencia a que se refiere el artículo anterior, estarán afectados de nulidad absoluta y el compartidor será sancionado por el Presidente Municipal, con multa hasta del equivalente a cinco mil días del salario mínimo.
+Los contratos de Tiempo Compartido y los de Tiempo Compartido Turístico celebrados sin las licencias, requisitos y autorizaciones a los que se refieren este Título Noveno, la Ley de Obras Públicas y Privadas del Estado y la Ley Orgánica Municipal para el Estado, estarán afectados de nulidad absoluta y el compartidor y/o el promotor, será sancionado por el Presidente Municipal con multa según el caso, hasta el equivalente a veinte mil días del salario mínimo vigente al día de pago de la sanción.
+
+Para los efectos de este Artículo se entiende por régimen de Tiempo Compartido Turístico, al servicio que se presta conforme a las disposiciones de la Ley Federal del Turismo, el Reglamento de la Prestación del servicio turístico del sistema de Tiempo Compartido y demás reglamentos aplicables de la materia.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1991)</small>
 
 ###### Artículo 2763.
 
-A los propietarios de inmuebles ya construidos al entrar en vigor este Código, les son aplicables, en lo conducente, las disposiciones de este artículo en cuanto a los nuevos contratos de habitación en tiempo compartido que en adelante celebren, y las disposiciones del artículo siguiente en cuanto a las renovaciones de los contratos ya celebrados o que llegaren a celebrar.
+En los casos en que las personas, ya sea compartidor y/u operador, sujetas a sanciones a que se refiere el presente Código, deban responder de otras sanciones dictadas por autoridades distintas, el Presidente Municipal, cuando así lo acuerden dichas autoridades, podrán mediante un fideicomiso, concentrar bienes y derechos de la persona sancionada para que se destinen al cumplimiento de las obligaciones y servicios contratados por los compartidarios con la persona sancionada.
+
+En la legislación específica que en materia de Tiempo Compartido Turístico sea expedida por la Legislatura y por la reglamentación que expidan los respectivos Ayuntamientos, se fijarán las modalidades, requisitos y condiciones en que se podrá efectuar dicha concentración de bienes y derechos.
 
 ###### Artículo 2764.
 
@@ -16692,3 +16718,11 @@ El presente Decreto entrar (sic) en vigor al día siguiente de su publicación e
 P.O. 31 DE DICIEMBRE DE 1983.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1991.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Para todos los efecto (sic) legales, la declaración protocolizada a que se refiere el Artículo 2761 Bis, se inscribirá conforme a lo establecido por el Artículo 3199 del propio Código Civil.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
