@@ -4,7 +4,7 @@ identifier: "TAM-codigo-electoral-para-el-estado-de-tamaulipas-11775"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-06-12"
-last_updated: "1997-02-15"
+last_updated: "1997-09-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO ELECTORAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE SEPTIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el lunes 12 de junio de 1995.
 
@@ -691,7 +691,7 @@ Para la pérdida del registro a que se refiere la fracción II de este Artículo
 
 Son causas de pérdida de la acreditación de un partido político las señaladas en el Artículo anterior, a excepción de las fracciones II y III.
 
-Ocurrida la pérdida del registro de un partido político nacional en los términos del Código Federal de Instituciones y Procedimientos Electorales, quedará sin efecto su acreditación ante el Instituto Estatal Electoral a partir de la publicación correspondiente en el Diario Oficial de la Federación, excepto cuando represente hasta la tercera fuerza electoral en el Estado de acuerdo a los resultados de la elección inmediata anterior para Diputados al Congreso Local.
+Ocurrida la pérdida del registro de un partido político nacional en los términos del Código Federal de Instituciones y Procedimientos Electorales, quedará sin efecto su acreditación ante el Instituto Estatal Electoral a partir de la publicación correspondiente en el Diario Oficial de la Federación, excepto cuando represente hasta la tercera fuerza electoral en el Estado; de acuerdo a los resultados de la elección inmediata anterior para Diputados al Congreso Local.
 
 ###### ARTICULO 58.
 
@@ -801,7 +801,7 @@ Es derecho de los partidos políticos, contratar tiempos en la radio para difund
 
 El régimen de financiamiento de los partidos políticos tendrá dos modalidades:
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 1997)</small>
 
 I.- Financiamiento público que de acuerdo con las disponibilidades presupuestales otorgará equitativamente el Estado, en un monto trianual a los partidos políticos para su sostenimiento, así como para garantizar que durante los procesos electorales cuenten con apoyos para sus actividades tendientes a la obtención del sufragio universal. Este será el que resulte de multiplicar el salario mínimo diario vigente en la Capital del Estado, por el número de electores, aplicándole el factor porcentual que establezca el Consejo Estatal Electoral.
 
@@ -997,9 +997,11 @@ Por cada Consejero y Representante de partido político propietario, habrá un s
 
 El Presidente y el Secretario del Consejo Estatal Electoral serán, respectivamente, Presidente y Secretario de la Junta Estatal Electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 84.
 
-El Consejo Estatal Electoral se reunirá dentro del mes de enero del año de la elección, con el objeto de preparar el proceso electoral. A partir de esa fecha y hasta la terminación de los comicios, sesionará por lo menos una vez al mes. Concluído el proceso electoral, se reunirá cuando sea convocado por su Presidente.
+El Consejo Estatal Electoral se reunirá en la última semana del mes de enero del año de elección, con el objeto de preparar el proceso electoral. A partir de esa fecha y hasta la terminación de los comicios, sesionará por lo menos una vez al mes. Concluído el proceso electoral, se reunirá cuando sea convocado por su Presidente.
 
 El Consejo Estatal Electoral ejercerá sus atribuciones en todo el Estado, a través de los Consejos Distritales y Municipales Electorales.
 
@@ -1665,9 +1667,11 @@ Las autoridades estatales y municipales están obligadas a proporcionar a los or
 
 El proceso electoral es el conjunto de actos que tienen por objeto la renovación periódica de los integrantes de los Poderes Ejecutivo y Legislativo, así como de los Ayuntamientos del Estado, mediante el sufragio universal, libre, secreto y directo; realizados por las autoridades electorales con la participación de los partidos políticos y de los ciudadanos, regulados por la Constitución Política Local y este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 129.
 
-El proceso electoral ordinario se inicia en el mes de enero del año de la elección y concluye con la calificación de la elección de Gobernador del Estado, o con la declaración de validez de la elección de Diputados según el principio de representación proporcional, cuando se trate de elecciones intermedias.
+El proceso electoral ordinario se inicia en la última semana del mes de enero del año de la elección y concluye con la calificación de la elección de Gobernador del Estado, o con la declaración de validez de la elección de Diputados según el principio de representación proporcional, cuando se trate de elecciones intermedias.
 
 Para los efectos de este Código, el proceso electoral ordinario comprende las etapas siguientes:
 
@@ -3549,7 +3553,7 @@ El Tribunal Estatal Electoral sólo puede declarar la nulidad de la votación en
 
 Los criterios fijados por el Tribunal Estatal Electoral en Segunda Instancia, sentarán jurisprudencia cuando se sustente el mismo sentido en 5 resoluciones.
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 1997)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 15 DE FEBRERO DE 1997)</small>
 
 ## TITULO TERCERO. DE LAS FALTAS Y SANCIONES ADMINISTRATIVAS
 
@@ -3764,3 +3768,9 @@ P.O. 15 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 El presente Decreto iniciará su vigencia el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE SEPTIEMBRE DE 1997.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
