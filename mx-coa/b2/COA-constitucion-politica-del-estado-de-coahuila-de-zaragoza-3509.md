@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1998-11-27"
+last_updated: "1999-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -702,6 +702,10 @@ XVI. Erigirse en Colegio Electoral, para elegir al ciudadano que deba sustituir 
 
 XVII. Otorgar o negar su aprobación a los nombramientos de Magistrados del Tribunal Superior de Justicia, que les someta el Gobernador del Estado, en los términos de esta Constitución y las Leyes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE MAYO DE 1999)</small>
+
+Igualmente, ratificar el nombramiento que el titular del Ejecutivo del Estado haga del Procurador General de Justicia en el Estado.
+
 > <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
 
 XVIII. Conocer de las renuncias y de las licencias de los Diputados, del Gobernador, de los Magistrados del Tribunal Superior de Justicia y de los miembros de los Ayuntamientos y Concejos Municipales.
@@ -994,13 +998,15 @@ I. Iniciar ante el Congreso del Estado las leyes, decretos y acuerdos que juzgue
 
 II. Dirigirse al Gobierno Federal, siempre que lo estime necesario, para obtener las resoluciones que reclamen el bien público y los intereses del Estado.
 
-Asimismo, cuando el Congreso del Estado no estuviere reunido, solicitar la protección de los Poderes de la Unión, en los casos a que se refiere el artículo 122 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
+
+Asimismo, cuando el Congreso del Estado no estuviere reunido, solicitar la protección de los Poderes de la Unión, en los casos a que se refiere el primer párrafo del artículo 119 de la Constitución Política de los Estados Unidos Mexicanos.
 
 III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado, y recíprocamente.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
 
-IV. Nombrar, suspender y remover libremente a los Secretarios del Ramo, a los Subsecretarios, al Procurador General de Justicia del Estado, a los Directores de los diferentes ramos, a los Agentes del Ministerio Público, a los Oficiales del Registro Civil y a todos los demás Servidores Públicos del Poder Ejecutivo, cuyo nombramiento, suspensión o remoción no estén determinados de otro modo en esta Constitución y las Leyes.
+IV. Nombrar, suspender y remover libremente a los secretarios del ramo, a los subsecretarios, a los directores de los diferentes ramos, a los Oficiales del Registro Civil y a todos los demás servidores públicos del Poder Ejecutivo, cuyo nombramiento, suspensión o remoción no estén determinados de otro modo en esta Constitución y las leyes.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1268,6 +1274,8 @@ El refrendo actualiza en el Secretario de Gobierno y los demás Secretarios del 
 
 Del Ministerio Público.
 
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
+
 ###### Artículo 94.
 
 Constituyen la Hacienda Pública del Estado:
@@ -1396,59 +1404,69 @@ De la Instrucción Pública.
 
 ###### Artículo 108.
 
-La institución del Ministerio Público representa los intereses de la sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
+Al Ministerio Público como representante de la sociedad, le compete, a través de sus agentes, la investigación y persecución de los delitos del orden común ante los tribunales, con el auxilio de la Policía Ministerial y de los Servicios Periciales, que estarán bajo su autoridad y mando inmediato, en los términos que disponen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás ordenamientos jurídicos.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### Artículo 109.
 
-Son atribuciones del Ministerio Público:
+La ley y los reglamentos que de ella emanen, organizarán la Institución del Ministerio Público, sus auxiliares y apoyos jurídicos, administrativos y técnicos, en una dependencia del Poder Ejecutivo del Estado que se denominará Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
 
-I. Velar por la exacta observancia de las leyes de interés general.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-II. Intervenir en los asuntos judiciales que interesen a las personas a quienes la Ley concede especial protección y en los que interesan a los establecimientos de beneficencia pública a los cuales representará, en la forma y términos que la misma Ley determine.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-III. Defender los intereses del Estado ante los Tribunales, excepto en lo relativo a la Hacienda Pública.
-
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
-
-IV. Hacer efectivas las responsabilidades penales en que incurran los servidores públicos.
-
-(REFORMADA, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
-
-V. Organizar y controlar a la Policía Judicial del Estado, que estará bajo su autoridad y mando inmediato.
-
-> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 1977)</small>
-
-VI. La persecución, ante los Tribunales de todos los delitos del orden común; y, por lo mismo, a él le corresponde recibir las denuncias, acusaciones o querellas, tanto de las Autoridades como de los particulares; investigar los hechos objeto de las mismas, ejercitar la acción penal contra los inculpados, solicitando en su caso su aprehensión o comparecencia; allegar al proceso las pruebas que acrediten el cuerpo del delito y la responsabilidad de los acusados; impulsar la secuela del procedimiento; y, en su oportunidad, pedir la aplicación de las penas que correspondan.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-VII. Cuidar de que los juicios del orden penal se sigan con toda regularidad para que la Administración de Justicia sea pronta y expedita.
-
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
-
-VIII. Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato, sin perjuicio de proveer lo conducente al castigo de los responsables.
-
-IX. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la Institución.
-
-X. Las demás que le señalen las leyes, tanto federales como del Estado.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### Artículo 110.
 
-El Ministerio Público estará integrado por un Procurador General de Justicia, que lo presidirá, y los Subprocuradores, Agentes y demás servidores públicos que determine su Ley Orgánica.
+El Ministerio Público estará presidido por el Procurador General de Justicia del Estado, quien será, además, el titular de la Dependencia, el Consejero Jurídico del Gobierno y Representante del Gobierno del Estado en los asuntos que le encomienden las leyes o expresamente el Gobernador.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+El Procurador General de Justicia del Estado, será designado por el Gobernador con la ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente. Antes de tomar posesión de su cargo, deberá rendir la protesta de Ley, ante el propio titular del Ejecutivo, quien podrá removerlo libremente. En tanto se designe un nuevo procurador y de que se le ratifique, ocupará el cargo el Subprocurador que designe el gobernador.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### Artículo 111.
 
-Para ser Procurador General de Justicia o Subprocurador, se requiere:
+El Ministerio Público del Estado, es una institución única e indivisible. Sus agentes, en el ejercicio de la procuración de justicia, en sus respectivas jerarquías administrativas, no tendrán subordinación más que a los niveles superiores orgánicos funcionales de la propia Institución.
 
-I. Ser ciudadano coahuilense en pleno ejercicio de sus derechos.
+Los titulares de la Policía Ministerial y de los Servicios Periciales, deberán cumplir y hacer cumplir las órdenes del Ministerio Público, cualquiera que sea la jerarquía administrativa del agente del cual emanen.
+
+Las órdenes del Ministerio Público no afectarán las opiniones técnicas y científicas que emitan los peritos en sus dictámenes.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### Artículo 112.
+
+Son atribuciones del Ministerio Público:
+
+I. Velar por la exacta observancia de las Constituciones Políticas de los Estados Unidos Mexicanos y del Estado y de las leyes de interés público.
+
+II. Respetar y hacer que se respeten los derechos humanos que otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y el orden jurídico que de ellas emane.
+
+III. Hacer efectivas las responsabilidades penales en que incurran los servidores públicos.
+
+IV. Organizar y controlar a la Policía Ministerial del Estado y a sus servicios periciales, que estarán bajo su autoridad y mando inmediato.
+
+V. Investigar y perseguir ante los tribunales los delitos del orden común, en los términos que prevengan los ordenamientos jurídicos aplicables.
+
+VI. Cuidar que los juicios del orden penal se sigan con toda regularidad para que la administración de justicia sea pronta y expedita.
+
+VII. Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato, sin perjuicio de proveer lo conducente al castigo de los responsables.
+
+VIII. Rendir a los Poderes del Estado los informes que le pidan sobre asuntos relativos a la Institución; y
+
+IX. Las demás que le señalen las leyes, tanto federales como del Estado.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### Artículo 113.
+
+El cargo de Procurador General de Justicia del Estado, no es renunciable, sino por causa grave y sí incompatible con cualquier empleo o comisión del Gobierno.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
+
+###### Artículo 114.
+
+Para ser Procurador o Subprocurador, se requiere:
+
+I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, y no adquirir otra nacionalidad.
 
 II. Tener título oficial de Licenciado en Derecho, expedido por autoridad o corporación legalmente facultada para otorgarlo e inscrito en el Tribunal Superior de Justicia del Estado.
 
@@ -1458,35 +1476,11 @@ IV. Gozar de buena reputación y no haber sido condenado ejecutoriamente por la 
 
 V. Tener un mínimo de cinco años de ejercicio profesional.
 
-###### Artículo 112.
-
-El cargo de Procurador General de Justicia no es renunciable sino por causa grave y si incompatible con cualquier otro empleo, o comisión del Gobierno.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
-
-###### Artículo 113.
-
-El Procurador General de Justicia y los Sub-procuradores, serán nombrados y removidos libremente por el Gobernador del Estado y antes de tomar posesión de sus cargos, deberán rendir la protesta de ley ante el propio Gobernador.
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
-
-###### Artículo 114.
-
-El Procurador General de Justicia del Estado será el Consejero Jurídico del Gobierno.
-
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 1999)</small>
 
 ###### Artículo 115.
 
-Los Agentes del Ministerio Público, serán nombrados y removidos por el Gobernador del Estado, a propuesta del Procurador General de Justicia, y deberán satisfacer los siguientes requisitos:
-
-I. Ser ciudadano coahuilense en pleno ejercicio de sus derechos.
-
-II. Tener título oficial de Licenciado en Derecho, expedido por autoridad o corporación legalmente facultada para otorgarlo e inscrito en el Tribunal Superior de Justicia del Estado.
-
-III. Tener veinticinco años de edad cumplidos, para el día de su designación; y
-
-IV. No haber sido condenado ejecutoriamente por la comisión de delito intencional.
+La designación y remoción de los subprocuradores y demás titulares de las unidades de la Procuraduría y demás personal destinado al despacho de los asuntos de la Dependencia, se hará en los términos que prevengan los ordenamientos respectivos.
 
 ### CAPITULO VII.
 
@@ -2823,3 +2817,9 @@ P.O. 27 DE NOVIEMBRE DE 1998.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE MAYO DE 1999.
+
+PRIMERO. Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Una vez que inicien su vigencia estas reformas, el segundo párrafo del artículo 110 se aplicará cuando se dé el motivo para ello.
