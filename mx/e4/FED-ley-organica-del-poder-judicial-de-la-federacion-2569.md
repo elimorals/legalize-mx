@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-2569"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-05-26"
-last_updated: "2000-06-12"
+last_updated: "2001-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2569&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOPJF"
 
 LEY ORGANICA DEL PODER JUDICIAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 26 de mayo de 1995.
 
@@ -330,7 +330,9 @@ a) Cuando habiéndose impugnado la constitucionalidad de un reglamento federal e
 
 b) De los amparos directos que por su interés y trascendencia así lo ameriten en uso de la facultad de atracción prevista en el segundo párrafo del inciso d) de la fracción V del artículo 107 de la Constitución Política de los Estados Unidos Mexicanos;
 
-IV. Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafo segundo, de la misma ley;
+> <small>(REFORMADA, D.O.F. 17 DE MAYO DE 2001)</small>
+
+IV.- Del recurso de queja interpuesto en los casos a que se refieren las fracciones V, VII, VIII, IX y X del artículo 95 de la Ley de Amparo, siempre que el conocimiento del amparo en que la queja se haga valer sea competencia de una de las Salas, directamente o en revisión, en los términos del artículo 99, párrafos segundo y tercero, de la misma ley;
 
 V. Del recurso de reclamación contra los acuerdos de trámite dictados por su presidente;
 
@@ -1064,7 +1066,7 @@ Los secretarios técnicos deberán tener título profesional expedido en alguna 
 
 ### CAPITULO UNICO
 
-###### Artículo 88.
+###### ARTICULO 88.
 
 Para su adecuado funcionamiento, el Consejo de la Judicatura Federal contará con los siguientes órganos: el Instituto de la Judicatura, la Visitaduría Judicial, la Contraloría del Poder Judicial de la Federación, el Instituto Federal de Defensoría Pública y el Instituto Federal de Especialistas de Concursos Mercantiles en los términos que establece la Ley de Concursos Mercantiles.
 
@@ -1222,7 +1224,7 @@ Para ser secretario de tribunal de circuito se deberá contar con experiencia pr
 
 Los actuarios deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, con título de licenciado en derecho expedido legalmente, gozar de buena reputación y no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año.
 
-Los secretarios y actuarios de los tribunales de circuito serán nombrados de conformidad con las disposiciones aplicables en materia de carrera judicial
+Los secretarios y actuarios de los tribunales de circuito serán nombrados de conformidad con las disposiciones aplicables en materia de carrera judicial.
 
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
 
@@ -1736,7 +1738,7 @@ En los órganos del Poder Judicial de la Federación, se considerarán como día
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
@@ -1818,7 +1820,7 @@ En términos de la fracción XIX del artículo 11 de esta ley, la Suprema Corte 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
@@ -1858,7 +1860,7 @@ DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACION
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DEL PROCEDIMIENTO PARA SU ELECCION
 
@@ -1918,7 +1920,7 @@ X.- Las demás que le señalen las leyes.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO EN LA SALA SUPERIOR.
 
@@ -1942,7 +1944,7 @@ La Sala Superior nombrará a un secretario general de acuerdos y a un subsecreta
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
@@ -2006,7 +2008,7 @@ XV.- Las demás que le confieran las leyes y el Reglamento Interno del Tribunal.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO EN LAS SALAS REGIONALES
 
@@ -2082,7 +2084,7 @@ XXVI.- Las demás que señalen las leyes, el Reglamento Interno o aquellas que s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE SU INTEGRACION Y FUNCIONAMIENTO
 
@@ -2112,7 +2114,7 @@ Si la ausencia de un magistrado es definitiva, el presidente de la Sala lo notif
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
@@ -2144,7 +2146,7 @@ En los procesos electorales federales extraordinarios, las impugnaciones a que s
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 3a.
+SECCION 3A.
 
 DE SUS PRESIDENTES
 
@@ -2196,7 +2198,7 @@ XV.- Las demás que sean necesarias para el correcto funcionamiento de la Sala o
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 1a.
+SECCION 1A.
 
 DE LOS REQUISITOS PARA OCUPAR EL CARGO.
 
@@ -2218,7 +2220,7 @@ e) Si ninguno de los candidatos de la terna obtuviera la mayoría calificada, se
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
@@ -2268,7 +2270,7 @@ Para el ejercicio de sus funciones la Sala Superior contará con un secretario g
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN , D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
@@ -2314,7 +2316,7 @@ Para el ejercicio de sus funciones cada una de las Salas Regionales nombrará a 
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE SUS ATRIBUCIONES
 
@@ -2384,7 +2386,7 @@ Cuando la Comisión de Administración estime que sus acuerdos o resoluciones pu
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE LAS ATRIBUCIONES DE LA COMISION DE ADMINISTRACION
 
@@ -2458,7 +2460,7 @@ XXXI.- Desempeñar cualquier otra función que la ley o el Reglamento Interno de
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 3a.
+SECCION 3A.
 
 DE SU PRESIDENTE
 
@@ -2486,7 +2488,7 @@ VIII.- Las demás que le señalen la ley, el Reglamento Interno y los acuerdos g
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 4a.
+SECCION 4A.
 
 DE LOS ORGANOS AUXILIARES
 
@@ -2604,7 +2606,7 @@ Asimismo, cuando las cargas de trabajo extraordinarias lo exijan, la Comisión d
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 2a.
+SECCION 2A.
 
 DE LAS RESPONSABILIDADES, IMPEDIMENTOS Y EXCUSAS
 
@@ -2644,7 +2646,7 @@ Los magistrados electorales y los servidores de la Sala Superior, así como los 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 3a.
+SECCION 3A.
 
 DE LAS VACACIONES, DIAS INHABILES, RENUNCIAS, AUSENCIAS Y LICENCIAS
 
@@ -2696,7 +2698,7 @@ Las licencias serán otorgadas a los servidores públicos y empleados del Tribun
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 4a.
+SECCION 4A.
 
 DE LAS ACTUACIONES JUDICIALES Y DEL ARCHIVO JURISDICCIONAL
 
@@ -2720,7 +2722,7 @@ Una vez concluido el plazo a que se refiere el artículo anterior el Tribunal El
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 5a.
+SECCION 5A.
 
 DE LA JURISPRUDENCIA
 
@@ -2762,7 +2764,7 @@ La jurisprudencia del Pleno de la Suprema Corte de Justicia de la Nación será 
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 6a.
+SECCION 6A.
 
 DE LAS DENUNCIAS DE CONTRADICCION DE TESIS DEL TRIBUNAL ELECTORAL
 
@@ -2780,7 +2782,7 @@ Las resoluciones que dicte el Pleno de la Suprema Corte de Justicia en los casos
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 7a.
+SECCION 7A.
 
 DE LA PROTESTA CONSTITUCIONAL
 
@@ -2804,7 +2806,7 @@ Todos los servidores públicos y empleados del Tribunal Electoral se conducirán
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE NOVIEMBRE DE 1996)</small>
 
-SECCION 8a.
+SECCION 8A.
 
 DEL PERSONAL DEL TRIBUNAL ELECTORAL
 
@@ -2961,3 +2963,7 @@ Para los efectos del párrafo anterior, se autoriza al Ejecutivo Federal para ha
 TERCERO.- Los delitos previstos en los artículos 366 ter y 366 quáter del Código Penal Federal vigentes con anterioridad a la fecha de entrada en vigor de este Decreto, seguirán aplicándose respecto de hechos cometidos durante su vigencia.
 
 CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 17 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
