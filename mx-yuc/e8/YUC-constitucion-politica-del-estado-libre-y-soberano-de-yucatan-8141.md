@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "1989-03-01"
+last_updated: "1989-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE MARZO DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 19 DE DICIEMBRE DE 1989.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -89,9 +89,9 @@ Son Yucatecos:
 
 I.- todos los nacidos dentro o fuera del territorio del Estado, de padres yucatecos;
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-II.- Los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado cinco años consecutivos; y
+II.- Los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado seis meses consecutivos; y
 
 III.- los extranjeros que se naturalicen con arreglo a las Leyes de la República y que hubieren residido en el Estado seis meses consecutivos.
 
@@ -267,23 +267,25 @@ El Congreso del Estado de Yucatán se compondrá de representantes electos cada 
 
 Las personas que hubiesen desempeñado las funciones de Diputado no podrán ser reelectos para el período inmediato siguiente. Los Diputados Suplentes podrán ser electos para el período inmediato siguiente con el carácter de Propietario, siempre que no hubieren estado en ejercicio; pero los Propietarios no podrán ser electos para dicho período ni con el carácter de Suplentes.
 
-> <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
 ###### Artículo 21.
 
-El Congreso del Estado se integrará con quince diputados electos en forma directa y mayoritaria en igual número de Distritos Electorales y hasta con cinco diputados de minoría que serán designados según el principio propio de este sistema.
+El Congreso del Estado se integrará con quince diputados electos en forma directa mediante el principio de mayoría relativa y diez diputados de minoría electos por el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal que corresponderá a la totalidad del territorio del Estado.
 
-La demarcación territorial de los quince Distritos Electorales la llevará a cabo la Comisión Electoral del Estado.
+La Ley reglamentaria determinará el ámbito geográfico de los distritos electorales.
 
-Para la asignación de diputados de minoría, se observarán las siguientes bases generales y, lo que sobre el particular disponga la Ley de Organizaciones Políticas y Procesos Electorales del Estado de Yucatán:
+Para la asignación de diputados de minoría, se observarán las siguientes bases generales y, lo que sobre el particular disponga la Ley Electoral del Estado:
 
-A) Que los partidos políticos hubiesen registrado candidatos, llenado los requisitos que disponga la Ley de la materia en, por lo menos ocho Distritos Electorales;
+A) Para obtener el registro de su lista, el partido político de lo solicite, deberá acreditar que participa con candidatos a diputados de mayoría relativa, en por lo menos ocho de los distritos uninominales.
 
-B) Los partidos políticos que obtengan cuando menos el 1.5% de la votación emitida en todo el Estado y no hayan obtenido alguna Diputación de mayoría.
+B) Tendrá derecho a que le sean atribuidos diputados de minoría, todo aquel partido político que alcance por lo menos 1.5% del total de la votación emitida en el Estado.
 
-Para asignar a los partidos políticos los Diputados de minoría se procederá conforme a lo que establezca la Ley de Organizaciones Políticas y Procesos eletorales (sic) del Estado de Yucatán.
+C) La Ley Electoral del Estado determinará la fórmula electoral y los procedimientos que se observarán en dicha asignación, en la que se seguirá el orden numérico que tuviesen los candidatos en la lista correspondiente.
 
-Por cada diputado propietario habrá un suplente. Todos los Diputados que integren el Congreso del Estado, como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones.
+D) Los partidos políticos tendrán derecho a que se les reconozca hasta dieciocho diputados sumando los electos por mayoría relativa y los de minoría.
+
+Todos los diputados que integren el Congreso del Estado como representantes del pueblo tienen la misma categoría e iguales derechos y obligaciones. Por cada diputado de mayoría relativa habrá un suplente.
 
 > <small>(REFORMADO, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -313,11 +315,13 @@ El cargo de Diputado es incompatible con cualquier cargo, comisión o empleo pú
 
 (DEROGADO, D.O. 24 DE DICIEMBRE DE 1979)
 
-> <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
+(REFORMADO, D.O. 19 DE DICIEMBRE DE 1989) (F. DE E., D.O. 26 DE DICIEMBRE DE 1989)
 
 ###### Artículo 25.
 
-El Congreso califica irrevocablemente la elección de sus miembros y resuelve las dudas relativas a la misma elección.
+El Congreso calificará la elección de sus miembros a través de un Colegio Electoral, que se integrará con todos los presuntos diputados, que hubieran obtenido constancia expedida por la Comisión Electoral del Estado, que hayan sido electos en forma directa y mayoritariamente, así como los de minoría.
+
+Se instituye un Tribunal de lo Contencioso Electoral, que tendrá la competencia que determine la Ley Electoral; las resoluciones de este Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral, que será la última instancia en la calificación de las elecciones. Las resoluciones del Colegio Electoral del Congreso del Estado serán definitivas e inatacables.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -511,9 +515,9 @@ XXIX.- arreglar los límites del Estado, por convenios amistosos, los cuales no 
 
 XXX.- nombrar el día anterior al de la clausura de cada período de sesiones ordinarias, la Diputación permanente que ha de funcionar en el receso del Congreso;
 
-> <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-XXXI.- erigirse en Colegio Electoral para hacer el escrutinio y la declaración respecto de la elección de Gobernador del Estado y Senadores al Congreso de la Unión;
+XXXI.- Erigirse en Colegio Electoral para calificar la elección de Gobernador del Estado y declarar electas las formulas de Senadores que hubieren obtenido mayoría de votos;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -525,7 +529,7 @@ XXXIII.- erigirse en Jurado de Acusación para los altos funcionarios de que tra
 
 > <small>(REFORMADA, D.O. 29 DE ENERO 1982)</small>
 
-XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste.
+XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;
 
 > <small>(REFORMADA, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -559,9 +563,13 @@ XLI.- Revocar el mandato conferido al Gobernador del Estado, a los Magistrados d
 
 XLII.- Hacer el cómputo de los votos emitidos en la elección de sus propios miembros, y resolver acerca de los Diputados de minoría, en los términos del Artículo 21, reformado, de esta Constitución;
 
-> <small>(REFORMADA, D.O. 2 DE FEBRERO 1984)</small>
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
 
-XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere necesario con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por vocación (sic) mayoritaria relativa, en los plazos y términos que disponga la Ley y la convocatoria respectiva. Las vacantes de los miembros de minoría del Congreso, propietarios y suplentes se cubrirán en cada caso, con los candidatos del mismo partido político que les siguieren conforme al porcentaje de votos alcanzados en la elección correspondiente;
+XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuere necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por votación mayoritaria relativa, en los plazos y términos que disponga la Ley y la convocatoria respectiva. Las vacantes de los miembros de minoría del Congreso se cubrirán con el candidato del mismo partido que siga en el orden numérico de la lista respectiva, después de habérsele asignado los diputados que le hubiesen correspondido;
+
+> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
+
+XLIII Bis.- Convocar a elecciones extraordinarias cuando se declare nula la elección de un Ayuntamiento, en el plazo y términos que disponga la Ley Electoral y la convocatoria respectiva;
 
 > <small>(ADICIONADA, D.O. 2 DE FEBRERO 1984)</small>
 
@@ -887,7 +895,9 @@ XI.- hacer uso del derecho de iniciar Leyes que le concede el artículo 35 de la
 
 XII.- cumplir con lo dispuesto en el artículo 28 de esta Constitución;
 
-XIII.- expedir la convocatoria para las elecciones públicas;
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 1989)</small>
+
+XIII.- expedir la convocatoria para las elecciones ordinarias.
 
 > <small>(REFORMADA, D.O. 26 DE FEBRERO DE 1988)</small>
 
@@ -1559,7 +1569,7 @@ D.O. 6 DE ENERO DE 1920.
 
 ###### ARTICULO SEGUNDO
 
-- Esta reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial" del Estado.
+- Esta reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" del Estado.
 
 D.O. 6 DE FEBRERO DE 1920.
 
@@ -1912,3 +1922,9 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 D.O. 1 DE MARZO DE 1989.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 19 DE DICIEMBRE DE 1989.
+
+PRIMERO.- Se derogan todas las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
