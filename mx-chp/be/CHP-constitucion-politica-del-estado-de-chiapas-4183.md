@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1953-12-30"
+last_updated: "1954-07-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JULIO DE 1954.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -945,6 +945,10 @@ Los jueces de Primera Instancia durarán también en su encargo 6 años pudiendo
 
 El tribunal Superior de Justicia del Estado funcionará en Pleno y por Salas, en los términos de la Ley Orgánica del Poder Judicial del Estado.
 
+> <small>(ADICIONADO, P.O. 21 DE JULIO DE 1954)</small>
+
+El Presidente del Tribunal Superior de Justicia informará al Congreso del Estado, en la apertura del Primer Período Ordinario de Sesiones de cada año, sobre el estado general que guarde la Administración de Justicia.
+
 ###### ARTICULO 59.
 
 Corresponde al Tribunal Superior de Justicia:
@@ -1500,3 +1504,13 @@ Quedan derogadas todas las Leyes, Decretos y demás disposiciones que se opongan
 ###### Artículo 2o.
 
 Este Decreto entrará en vigor a partir de esta fecha.
+
+P.O. 21 DE JULIO DE 1954.
+
+###### Artículo 1o.
+
+Quedan derogadas todas las leyes, decretos y demás disposiciones que se opongan a la reforma a que se contrae el presente decreto.
+
+###### Artículo 2o.
+
+Este Decreto entrará en vigor desde la fecha de su publicación en el Periódico Oficial del Estado.
