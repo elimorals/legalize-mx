@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1983-09-28"
+last_updated: "1983-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE DICIEMBRE DE 1983.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -511,7 +511,7 @@ VIII.- Dictar normas para la administración, conservación y enajenación de lo
 
 IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
 
-X.- (DEROGADA, P.O. 7 DE JULIO DE 1983)
+X.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1983)
 
 XI.- Legislar en materia de ingresos y egresos del Estado;
 
@@ -529,25 +529,19 @@ XVII.- Conceder honores, premios y recompensas a las personas que presten servic
 
 XVIII.- Hacer el escrutinio de los votos emitidos en la elección de Gobernador, calificar dicha elección y declarar electo al que haya obtenido mayoría;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
-XIX.- Separar de sus cargos a los miembros de los Ayuntamientos o declarar desaparecidos éstos, en su caso, a petición del Ejecutivo, cuando se llene cualquiera de los requisitos siguientes:
+XIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato o alguno de sus miembros, por alguna de las causas siguientes:
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
-
-a).- Cuando alguno de los integrantes del Ayuntamiento cometa un delito oficial o del orden común.
-
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+a) Cuando alguno de los miembros del Ayuntamiento cometa un delito;
 
 b).- Cuando el Cuerpo Edilicio se encuentre desintegrado por licencia o desaparición de una mayoría de sus componentes;
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
-
-c).- Cuando se juzgue indispensable ble (sic) para la tranquilidad y beneficio del municipio.
+c).- Cuando se juzgue indispensable para la tranquilidad y beneficio del municipio;
 
 Los miembros de los ayuntamientos tendrán siempre oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará, entre los vecinos, a quienes deban concluir los periodos respectivos.
+En caso de declararse desaparecido un ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura designará, entre los vecinos, a quienes deban concluir los períodos respectivos.
 
 XX.- Hacer la declaratoria de haber resultado electos Senadores por el Estado, los ciudadanos que a su juicio hubiesen obtenido la mayoría de los votos emitidos, de acuerdo con lo dispuesto por el artículo 56 de la Constitución General de la República;
 
@@ -759,7 +753,7 @@ I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado,
 
 II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;
 
-III.- (DEROGADA, P.O. 7 DE JULIO DE 1983)
+III.- (DEROGADA, P.O. 8 DE DICIEMBRE DE 1983)
 
 IV.- Someter al Congreso del Estado, las propuestas para la designación de magistrados del Supremo Tribunal de Justicia o a la Diputación Permanente según el caso;
 
@@ -781,11 +775,11 @@ XI.- Dar cuenta al Congreso, como lo dispone el artículo 33 de esta Constituci�
 
 XII.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión.
 
-> <small>(REFORMADA, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 XIII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública y tránsito en el Estado.
 
-La Policía y tránsito en la capital del Estado dependerá directamente del Gobernador y tendrá como jefe inmediato a un director.
+La Policía y Tránsito en el capital del Estado dependerá directamente del Gobernador y tendrá como jefe inmediato a un director.
 
 El Gobernador del Estado tendrá mando de las corporaciones de policía y tránsito en los Municipios donde eventual o transitoriamente se encuentre.
 
@@ -1237,7 +1231,7 @@ La Ley Orgánica de la Defensoría de Oficio fijará las demás atribuciones y d
 
 ## TITULO QUINTO. De los Municipios del Estado
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 104.
 
@@ -1343,11 +1337,11 @@ En los casos de juicio político, no cabe la gracia del indulto.
 
 El Estado adopta como base de su división territorial y de su organización política y administrativa el Municipio Libre. Su funcionamiento se sujetará a las disposiciones de esta Constitución y de la legislación reglamentaria respectiva.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 112.
 
-Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la cabecera que señala la ley y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+Cada Municipio será representado y administrado por un Ayuntamiento de elección popular directa, que debe residir en la cabecera que señale la Ley y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1373,57 +1367,35 @@ El Presidente, el Síndico y los Regidores de los Ayuntamientos, serán electos 
 
 (DEROGADO, P.O. 28 DE SEPTIEMBRE DE 1983)
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 117.
 
+Los Presidentes Municipales, Síndicos y Regidores de los ayuntamientos, serán electos simultáneamente y en su totalidad cada tres años y no podrán ser reelectos para el período inmediato. Por cada regidor propietario se elegirá un suplente.
+
+Las personas que por elección o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de los cargos de los ayuntamientos, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato con el carácter de suplentes; pero los que tengan el carácter de suplentes sí podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 118.
+
 El Ayuntamiento electo calificará la validez de las elecciones de sus miembros y resolverá las dudas que se susciten sobre ellas.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
-
-###### ARTICULO 118.
-
-Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, ser michoacano en ejercicio de sus derechos y no haber sido condenado por delito doloso;
-
-II. Haber cumplido veintiún años el día de la elección;
-
-III. No ser funcionario de la Federación, del Estado o municipal, ni tener mando de fuerza en el municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquella se celebre; si se trata de Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas;
-
-IV. No ser ni haber sido ministro o delegado de algún culto religioso;
-
-V. No estar comprendido en ninguno de los casos que señala el artículo 116.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 119.
 
 Para ser electo Presidente Municipal, Síndico o Regidor se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+I.- Ser ciudadano mexicano por nacimiento, ser michoacano en ejercicio de sus derechos y no haber sido condenado por delito doloso;
 
-I.- Ser ciudadano mexicano por nacimiento en ejercicio de sus derechos y no haber sido condenado por algún delito;
+II.- Haber cumplido veintiún años el día de la elección;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
+III.- No ser funcionario de la Federación, del Estado o municipal, ni tener mando de fuerza en el municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquella se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentes;
 
-II.- Ser originario del Estado o tener un año de residencia en el Municipio donde debe ejercer su encargo;
+IV.- No ser ni haber sido ministro o delegado de algún culto religioso;
 
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-III.- Saber leer y escribir;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-IV.- No ser funcionario de la Federación, del Estado o Municipal, ni tener mando de fuerza en el Municipio en que deba efectuarse la elección, durante los noventa días anteriores a la fecha en que aquélla se celebre; si se trata del Tesorero Municipal, es preciso que hayan sido aprobadas sus cuentas;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1960)</small>
-
-V.- No ser, ni haber sido ministro o delegado de algún culto, y
-
-(REFORMADA, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
-
-VI.- No estar comprendido en ninguno de los casos que señala el artículo 117.
+V.- No estar comprendido en ninguno de los casos que señala el artículo 117.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -1437,9 +1409,17 @@ Los ayuntamientos no pueden impedir la entrada o salida de mercancías o product
 
 Los ayuntamientos necesitan autorización del Congreso del Estado para comprar, vender y gravar bienes inmuebles, y para contratar empréstitos.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 122.
+
+Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal.
+
+Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad. El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
+
+###### Artículo 123.
 
 Son facultades y obligaciones de los ayuntamientos:
 
@@ -1449,47 +1429,47 @@ II. Administrar libremente su hacienda, la cual se formará de los rendimientos 
 
 a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.
 
-Los Ayuntamientos podrán celebrar convenios con la Tesorería General del Estado, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
+Los ayuntamientos podrán celebrar convenios con la Tesorería General del Estado, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.
 
-b) Las participaciones federales, que serán cubiertas con areglo (sic) a las bases, montos y plazos que anualmente determine el Congreso del Estado, a partir de criterios de prioridad regional, niveles de desarrollo y disponibilidad de recursos y servicios.
+b) Las participaciones federales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado, a partir de criterios de prioridad regional, niveles de desarrollo y disponibilidad de recursos y servicios.
 
 c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-No se establecerán exenciones o subsidios respecto de los incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado y de los municipios estarán exentos de dichas contribuciones;
+No se establecerán exenciones o subsidios respecto de los incisos a) y c) a favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado y de los municipios estarán exentos de dichas contribuciones.
 
-III. Aprobar sus presupuestos de egresos con base en sus ingresos disponibles y de conformidad con lo dispuesto en la Ley. El Congreso del Estado aprobará las leyes de ingresos de los ayuntamientos y revisará sus cuentas púbicas;
+III. Aprobar sus presupuestos de egresos con base en sus ingresos disponibles y de conformidad con lo dispuesto en la Ley. El Congreso del Estado aprobará las leyes de ingresos de los ayuntamientos y revisará sus cuentas públicas;
 
-IV. Expedir, de acuerdo con las bases normativas establecidas por el Congreso del Estado, los reglamentos y bandos para la administración y funcionamiento de los servicios públicos dentro de sus respectivas jurisdicciones;
+IV. Expedir, de acuerdo con las bases normativas establecidas por el Congreso del estado, los reglamentos y bandos para la administración y funcionamiento de los servicios públicos dentro de sus respectivas jurisdicciones;
 
 V. Proporcionar en sus jurisdicciones los servicios de:
 
 a) Agua potable y alcantarillado.
 
-b) Alumbrado Público.
+b) Alumbrado público.
 
 c) Limpia.
 
-d) Mercados y centrales de abastos.
+d) Mercados y centrales de abasto.
 
 e) Panteones.
 
 f) Rastros.
 
-g) Calles, parques y jardines
+g) Calles, parques y jardines.
 
-h) Policía y Tránsito; e,
+h) Policía y tránsito e,
 
 i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.
 
 Los municipios de una misma región geoeconómica y política, previo acuerdo entre sus ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
 
-VI. Formular, aprobar y administrar, en los términos de las leyes federales y estatales relativas, la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización de suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y, participar en la creación y administración de zonas de reserva ecológicas. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+VI. Formular, aprobar y administrar, en los términos de las leyes federales y estatales relativas, la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones y, participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
 
-VII. Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respetivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
+VII. Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;
 
 VIII. Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente;
 
-IX. Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
+IX. Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
 
 X. Cuidar de la repoblación y conservación de los bosques;
 
@@ -1499,75 +1479,35 @@ XII. Promover y fomentar el fraccionamiento de latifundios y procurar que se for
 
 XIII. Nombrar y remover libremente a sus empleados y concederles toda clase de licencias;
 
-XIV. Formar sus cuerpo (sic) de policía y tránsito;
+XIV.- Formar sus cuerpos de policía y tránsito;
 
-XV. Colaborar ampliamente con los organismos electorales, en los términos de la ley; y,
-
-XVI. Las demás que les señalen las leyes.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
-
-###### Artículo 123.
-
-Son facultades y obligaciones de los Ayuntamientos:
-
-I.- Representar jurídicamente al Municipio;
-
-II.- Administrar libremente su hacienda;
-
-III.- Someter sus presupuestos de Ingresos y Egresos a la aprobación del Congreso;
-
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
-
-IV.- Expedir los Reglamentos de los servicios municipales.
-
-V.- Vigilar las escuelas públicas y las particulares;
-
-VI.- Enviar al Ejecutivo en el mes de diciembre de cada año, memoria general sobre las labores que hayan desarrollado;
-
-VII.- Conocer anualmente, en pleno, el estado que guarde la administración municipal, por informe que rendirá el Presidente;
-
-VIII.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;
-
-IX.- Cuidar de la repoblación y conservación de los bosques, sancionando severamente a los destructores de arbolados;
-
-> <small>(F. DE E., P.O. 18 DE ABRIL DE 1960)</small>
-
-X.- Cumplir o dictar disposiciones para difundir y propagar la agricultura e industrias rurales;
-
-XI.- Promover y fomentar el fraccionamiento de latifundios y procurar que se formen colonias urbanas;
-
-XII.- Nombrar y remover libremente a sus empleados, y concederles toda clase de licencias;
-
-XIII.- Formar sus cuerpos de policía;
-
-XIV.- Colaborar ampliamente con los organismos electorales, en los términos de la ley, y
+XV.- Colaborar ampliamente con los organismos electorales, en los términos de la ley y,
 
 XV.- Las demás que les señalen las leyes.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 124.
 
-La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia y encargados del orden; sus facultades y obligaciones serán determinadas por la Ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
+La administración pública, fuera de la cabecera municipal, estará a cargo de jefes de tenencia o encargados del orden; sus facultades y obligaciones serán determinadas por la ley. Por cada propietario habrá un suplente y serán nombrados en plebiscito.
 
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 125.
 
-El cargo de Presidente, Síndico o Regidores es obligatorio y, sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
+El cargo de Presidente, Síndico y Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 126.
 
-Los Ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes Municipales. Los Regidores no tendrán mando directo sobre los empleados municipales.
+Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones unitarias permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
 ###### Artículo 127.
 
-Contra los actos de los presidentes municipales procede del recurso de queja ante los ayuntamientos respectivos.
+Contra los actos de los Presidentes Municipales, procede el recurso de queja ante los ayuntamientos respectivos.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -2110,3 +2050,7 @@ SEGUNDO. Reserve la Secretaría del H. Congreso del Estado, el expediente para q
 P.O. 28 DE SEPTIEMBRE DE 1983.
 
 UNICO. Este decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE DICIEMBRE DE 1983.
+
+UNICO. Este decreto entrará en vigor a los cinco días de su publicación en el Periódico Oficial del Estado.
