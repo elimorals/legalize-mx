@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1999-12-31"
+last_updated: "2000-06-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JUNIO DE 2000.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -207,7 +207,17 @@ III.- Asociarse individual y libremente para tomar parte en forma pacífica en l
 
 IV.- Ejercer en toda clase de negocios el derecho de petición; y
 
-V.- Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
+
+V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur;
+
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
+
+VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum; y
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+
+VII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan.
 
 29.- Son deberes del ciudadano sudcaliforniano:
 
@@ -251,17 +261,23 @@ Natividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en e
 
 ## TITULO QUINTO. DE LA SOBERANIA Y DE LA FORMA DE GOBIERNO
 
-> <small>(REFORMADO, B.O. 14 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
 
-36.- La Soberanía del Estado, reside esencial y originariamente en el pueblo sudcaliforniano, quien la ejerce por medio de los poderes constituidos en los términos de esta Ley Fundamental. La renovación de los poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+36.- La soberanía del Estado reside esencial y originariamente en el pueblo sudcaliforniano, quien lo ejerce por medio de los poderes constituidos en los términos de esta Ley fundamental. La renovación de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
+
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 I.- Los partidos políticos son entidades de interés público; la Ley determinará las formas específicas de su intervención en los procesos electorales. Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
 
 Los partidos políticos nacionales y estatales tienen como fin promover la participación del pueblo sudcaliforniano en la vida democrática, contribuir en la integración de la representación del Estado y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público en las esferas estatal y municipal y de acuerdo a los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo. Sólo los ciudadanos podrán afiliarse libre e individualmente a los partidos políticos.
 
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
+
 II.- La Ley garantizará que en los procesos electorales estatales y municipales los partidos políticos cuenten de manera equitativa con los recursos para llevar a cabo sus actividades político electorales.
 
 De igual manera determinará condiciones de equidad para que los partidos políticos tengan acceso a los medios de comunicación social.
+
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 III.- La Ley señalará las reglas a las que se sujetará el financiamiento de los partidos políticos y de sus campañas político electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
 
@@ -269,7 +285,9 @@ El financiamiento público para los partidos políticos que mantengan su registr
 
 La Ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales; establecerá los montos máximos que tendrán las aportaciones pecunarias (sic) de sus simpatizantes y los procedimientos para el control y vigilancia del origen y el uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
 
-IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público, a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
+
+IV.- La organización de los procesos electorales es una función que corresponde realizar al poder público a través de un organismo público autónomo en su funcionamiento e independiente en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que se denominará Instituto Estatal Electoral y en cuya integración concurren el Poder Legislativo del Estado, los partidos políticos y los ciudadanos en los términos que disponga la Ley. En el ejercicio de las funciones del organismo electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad y objetividad.
 
 El Instituto Estatal Electoral residirá en la ciudad capital del Estado y se conformará por un Consejo General, que será su órgano superior de dirección, el cual se integrará por un consejero Presidente y cuatro consejeros electorales con voz y voto. También concurrirán, con voz pero sin voto, un representante de cada uno de los partidos políticos que participen en las elecciones; un representante de cada una de las fracciones parlamentarias del Congreso del Estado; el Director del Registro Estatal de Electores y un Secretario General que se designará a propuesta del consejero Presidente con la aprobación de la mayoría de los consejeros electorales. Los Comités Distritales y Municipales Electorales y el Registro Estatal de Electores formarán parte de su estructura orgánica. Las mesas directivas de casilla estarán integradas por ciudadanos.
 
@@ -277,11 +295,17 @@ El consejero Presidente y los consejeros electorales del Instituto Estatal Elect
 
 La Ley señalará los requisitos que deben reunir el consejero Presidente y los consejeros Electorales del Instituto Estatal Electoral y determinarán las reglas y procedimientos correspondientes a su elección.
 
-El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación electoral y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la Ley, declaración de validez y otorgamientos de constancias en las elecciones de Diputados locales y Ayuntamientos, cómputo de la elección de Gobernador del Estado de Baja California Sur en cada uno de los distritos electorales uninominales, así como la regulación de la observancia electoral y de las encuestas o sondeos de opinión con fines electorales. Lo relativo al catálogo general de electores, padrón electoral, listado nominal y credencial para votar con fotografía, se sujetará a los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral. Las sesiones de todos los órganos electorales de dirección serán públicas en los términos que señale la Ley.
+(REFORMADO, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
+
+El Instituto Estatal Electoral tendrá a su cargo en forma integral y directa, además de las que determine la Ley, las actividades relativas a la capacitación electoral y educación cívica, geografía electoral, los derechos y prerrogativas de las agrupaciones y de los partidos políticos, impresión de materiales electorales, preparación de la jornada electoral, los cómputos en los términos que señale la Ley, declaración de validez y otorgamiento de constancias en las elecciones de Diputados Locales y Ayuntamientos, cómputo de la elección de Gobernador del Estado de Baja California Sur en cada uno de los distritos Electorales Uninominales, así como la regulación de la observancia electoral y de las encuestas o sondeos de opinión con fines electorales. Lo relativo al Catálogo General de Electores, padrón Electoral, Listado Nominal y credencial para votar con fotografía, se sujetará a los convenios que celebre el Instituto Estatal Electoral con el Instituto Federal Electoral, preparar, desarrollar y vigilar los procesos de plebiscito y referéndum en el Estado y los Municipios. Las sesiones de todos los órganos electorales de dirección serán públicos (sic) en los términos que señale la Ley.
+
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 V.- Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la Ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votado y de asociación.
 
 En materia electoral la interposición de los medios de impugnación constitucionales o legales no producirá efectos suspensivos sobre la resolución del acto impugnado.
+
+> <small>(REFORMADA, B.O. 14 DE FEBRERO DE 1997)</small>
 
 VI.- La Ley correspondiente tipificará los delitos y determinará las faltas en materia electoral, así como las sanciones que por ellos deban imponerse.
 
@@ -435,7 +459,9 @@ Podrá asistir también, por sí o por conducto de un Funcionario del Poder Ejec
 
 #### SECCION IV. DE LA INICIATIVA Y FORMACION DE LAS LEYES Y DECRETOS
 
-57.- El derecho de iniciar, reformar y adicionar leyes o decretos compete:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE JUNIO DE 2000)</small>
+
+57.- El derecho de iniciar, reformar y adicionar Leyes o decretos compete:
 
 I.- Al Gobernador del Estado;
 
@@ -445,7 +471,9 @@ III.- A los Ayuntamientos;
 
 IV.- Al Tribunal Superior de Justicia en su ramo; y
 
-V.- A los ciudadanos por conducto de los diputados de su distrito.
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+
+V.- A los ciudadanos del Estado registrados en la Lista Nominal de Electores, cuyo número represente cuando menos el 0.5% del total de dicho registro, mediante escrito presentado en los términos y con las formalidades que exija la Ley de la materia y la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur. Así como por conducto del Diputado de su Distrito.
 
 58.- Las iniciativas se sujetarán al trámite que señale la Ley Reglamentaria del Congreso del Estado. Una vez aprobadas, pasarán al Gobernador para que en plazo no mayor de diez días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación.
 
@@ -459,13 +487,25 @@ II.- De ser confirmado el proyecto original, por las dos terceras partes de los 
 
 III.- Si el Congreso del Estado aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por el Gobernador, se lo devolverá para los efectos de la fracción anterior.
 
-> <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2000)</small>
 
-61.- El Gobernador no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en Jurado de Sentencia o Colegio Electoral, las referentes a la responsabilidad de los Servidores Públicos, ni al Decreto de Convocatoria a Período Extraordinario de Sesiones, expedido por la Diputación Permanente.
+61.- El Gobernador no podrá hace (sic) observaciones sobre los acuerdos económicos, las resoluciones que dicte el Congreso del Estado erigido en jurado de sentencia, las referentes a la responsabilidad de los servidores públicos, o cuando se refieran a la designación de personas para ocupar algún cargo público, ni al Decreto de convocatoria a período extraordinario de sesiones, expedido por la Diputación Permanente.
 
 62.- Las iniciativas de ley o decreto que fueren desechadas por el Congreso del Estado, no podrán volver a ser presentadas en el mismo período de sesiones.
 
-63.- Toda resolución del Congreso del Estado tendrá carácter de ley o decreto y se comunicarán al Gobernador por el Presidente y el Secretario de la misma, con la formalidad: "El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto).
+63.- Toda resolución del Congreso del Estado tendrá carácter de ley o decreto y se comunicarán al Gobernador por el Presidente y el Secretario de la misma, con la formalidad:
+
+> <small>(REFORMADO [N. DE E. REUBICADO ANTES ÚLTIMA PARTE DEL PRIMER PÁRRAFO], B.O. 10 DE JUNIO DE 2000)</small>
+
+"El Congreso del Estado de Baja California Sur decreta: (texto de la ley o decreto)".
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2000)</small>
+
+Las Leyes expedidas por el Congreso del Estado, excepto las de carácter tributario o fiscal, podrán ser sometidas a referéndum, total o parcial, siempre que dentro de los sesenta días naturales posteriores a la fecha de su publicación cuando así se solicite, y se cumplan los requisitos que fije la ley.
+
+> <small>(ADICIONADO, B.O. 10 DE JUNIO DE 2000)</small>
+
+La ley establecerá el procedimiento a que se sujetará la organización de referéndum.
 
 > <small>(REFORMADA SU DENOMINACION, B.O. 30 DE ABRIL DE 1981)</small>
 
@@ -605,9 +645,13 @@ XLV.- Elegir al Magistrado del Tribunal Unitario de lo Contencioso Administrativ
 
 XLVI.- Elegir al Procurador General de Justicia, de una terna de aspirantes propuesta por el Gobernador del Estado, el cual, previa comparecencia de las personas propuestas, elegirá a quien ocupará el cargo. La elección del Procurador se hará por el voto de las dos terceras partes de los miembros del Congreso, dentro del improrrogable plazo de 10 días naturales para hacerlo; y en el caso de que, vencido ese plazo, aún no se haya realizado la elección, el Titular del Ejecutivo procederá a hacer la designación de entre los propuestos.
 
-> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+(ADICIONADA, B.O. 10 DE JUNIO DE 2000) (F. DE E., B.O. 31 DE JULIO DE 2000)
 
-XLVII.- Expedir las Leyes que sean necesarias para hacer efectivas las facultades anteriores.
+XLVII.- Solicitar al Instituto Estatal Electoral someta a plebiscito de los ciudadanos los actos del Poder ejecutivo que sean trascendentales para orden público o el interés social del Estado, así como en su respectiva circunscripción territorial los actos que pretendan efectuar los ayuntamientos, así como los convenios que tengan programado celebrar con otros municipios.
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+
+XLVIII.- Expedir las leyes que sean necesarias para hacer efectivas las facultades anteriores.
 
 #### SECCION VI. DE LA DIPUTACION PERMANENTE
 
@@ -825,9 +869,13 @@ XLIV.- Proponer al Congreso del Estado, una terna de aspirantes al puesto de Mag
 
 XLV.- Nombrar a los miembros del Consejo Tutelar para Menores en los términos que disponga la Ley de la materia
 
-> <small>(REFORMADA, B.O. 6 DE ABRIL DE 1999)</small>
+> <small>(ADICIONADA, B.O. 10 DE JUNIO DE 2000)</small>
 
-XLVI.- Las demás que señalen esta Constitución y sus Leyes.
+XLVI.- Solicitar al Consejo Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de Gobierno consideradas como trascendentes para la vida pública del Estado.
+
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
+
+XLVII.- Las demás que señalen esta Constitución y sus leyes.
 
 #### SECCION III. DE LAS DEPENDENCIAS DEL EJECUTIVO
 
@@ -1187,9 +1235,9 @@ La extensión y límites de las delegaciones y subdelegaciones serán determinad
 
 ### CAPITULO III. DE LA CREACION, SUPRESION Y ASOCIACION DE MUNICIPIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE JUNIO DE 2000)</small>
 
-122.- Para la creación de municipios en el Estado se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
+122.- Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:
 
 I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;
 
@@ -1211,9 +1259,11 @@ VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos
 
 VII.- Que previamente se escuche la opinión de los ayuntamientos de los municipios que puedan ser afectados en su territorio por la creación del nuevo;
 
-> <small>(ADICIONADA, B.O. 11 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, B.O. 10 DE JUNIO DE 2000)</small>
 
-VIII.- Que cuando menos las dos terceras partes de los ciudadanos del territorio que se pretenda erigir en municipio, manifiesten su conformidad.
+VIII.- Que cuando menos las dos terceras partes de los ciudadanos del territorio que se pretenda erigir en Municipio, manifiesten su conformidad en el plebiscito que al efecto se lleve a cabo.
+
+Cuando la solicitud provenga de los Ciudadanos, el procedimiento se sujetará a lo dispuesto por la Ley de la materia.
 
 123.- El Congreso del Estado podrá declarar la supresión de un municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridad (sic) para su creación.
 
@@ -1593,9 +1643,11 @@ Todo cargo o empleo público de la entidad es incompatible con cualquier otro de
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
-> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
+> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2000)</small>
 
-166.- Esta Constitución Política puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos. Estas iniciativas se sujetarán a los términos establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos los dos tercios del número total de Diputados que integran la Legislatura.
+166.- Esta Constitución Política puede ser adicionada o reformada.
+
+Las preposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos o los ciudadanos sudcalifornianos. Estas Iniciativas se sujetarán a los términos establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos, los dos tercios del número total de Diputados que integran la Legislatura.
 
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 
@@ -2120,3 +2172,9 @@ B.O. 14 DE JUNIO DE 1999.
 B.O. 31 DE DICIEMBRE DE 1999.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 10 DE JUNIO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
