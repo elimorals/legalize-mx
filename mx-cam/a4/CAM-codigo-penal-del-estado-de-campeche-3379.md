@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1975-12-16"
+last_updated: "1982-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -2185,6 +2185,8 @@ Si en el infanticidio tomare participación un médico, cirujano, comadrón o pa
 
 ### CAPITULO III. ABUSO DE CONFIANZA
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
+
 ###### Art. 294.
 
 Aborto es la muerte del producto de la concepción en cualquier momento de la preñez.
@@ -2449,13 +2451,19 @@ II.- El aprovechamiento de energía eléctrica o de cualquier otro fluído, ejec
 
 Para la aplicación de la sanción, se dará por consumado el robo desde el momento en que el ladrón tiene en su poder la cosa robada, aun cuando la abandone o lo desapoderen de ella.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
+
 ###### Art. 335.
 
-Cuando el valor de lo robado no exceda de quinientos pesos se impondrán hasta dos años de prisión y multa hasta de quinientos pesos.
+El delito de robo se sancionará en los términos siguientes:
 
-Cuando exceda de quinientos, pero no de dos mil pesos, la sanción será de dos a cuatro años de prisión y de quinientos a dos mil pesos de multa.
+I.- Cuando el valor de lo robado no exceda de veinte veces al monto del salario mínimo diario general aplicable en la región, con prisión de tres meses a dos años y multa que podrá ascender hasta el valor de lo robado;
 
-Cuando exceda de dos mil pesos, la sanción será de cuatro a diez años de prisión y de dos mil a diez mil pesos de multa.
+II.- Cuando exceda de veinte, pero no de cien veces al monto del salario de referencia, con prisión de uno a tres años y multa que podrá ascender hasta el valor de lo robado;
+
+III.- Cuando exceda de cien pero no de doscientas veces al monto del propio salario, con prisión de cuatro a diez años y multa que podrá ascender hasta el valor de lo robado;
+
+IV.- Cuando exceda de esas doscientas veces del monto del aludido salario con cinco a trece años de prisión y multa que podrá ascender hasta el valor de lo robado.
 
 ###### Art. 336.
 
@@ -2483,9 +2491,11 @@ I. Cuando ésta se haga a una persona distinta de la robada que se halle en comp
 
 II.- Cuando el ladrón la ejercite después de consumado el robo, para proporcionarse la fuga o defender lo robado.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
+
 ###### Art. 340.
 
-Cuando el valor de lo robado no pase de veinticinco pesos, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios, antes de que la autoridad tome conocimiento del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
+Cuando el valor de lo robado no exceda de la cantidad equivalente a tres días del salario mínimo general aplicable en la región, sea restituido por el ladrón espontáneamente y pague éste todos los daños y perjuicios ante la autoridad que inicie la averiguación del delito, no se impondrá sanción alguna, si no se ha ejecutado el robo por medio de la violencia.
 
 ###### Art. 341.
 
@@ -2589,11 +2599,15 @@ Siempre serán considerados como instrumentos del delito de abigeato, las cabalg
 
 ###### Art. 358.
 
-Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble, de la que se le haya transmitido la tenencia y no el dominio, se le sancionará con prisión hasta de un año y multa hasta de quinientos pesos, cuando el monto del abuso no exceda de esa cantidad.
+Al que con perjuicio de alguien disponga para sí o para otro de cualquier cosa ajena mueble de la que se le haya transmitido la tenencia y no el dominio, se le sancionará como sigue:
 
-Si excede de esa suma, pero no de veinte mil pesos, la prisión será de uno a seis años y la multa de quinientos a cinco mil pesos.
+I.- Cuando el abuso no exceda de veinte veces al monto del salario mínimo diario general aplicable en la región, con prisión hasta de seis meses y multa, que podrá ascender a la suma o al valor de la cosa de que se haya dispuesto;
 
-Si el monto es mayor de veinte mil pesos, la prisión será de seis a doce años y multa de cinco mil a diez mil pesos.
+II.- Cuando exceda de veinte, pero no de cien veces al monto del salario de referencia, con prisión de seis meses a tres años y multa que podrá ascender a la suma o al valor de la cosa de que se haya dispuesto;
+
+III.- Cuando exceda de cien, pero no de doscientas veces al monto del aludido salario, con prisión de tres a seis años y multa que podrá ascender a la suma o al valor de la cosa de que se haya dispuesto;
+
+IV.- Cuando exceda de doscientas veces al monto del señalado salario, con prisión de cinco a doce años y multa que podrá ascender a la suma o al valor de la cosa de que se haya dispuesto.
 
 ###### Art. 359.
 
@@ -2617,15 +2631,25 @@ El delito previsto en este capítulo solamente se perseguirá a petición de par
 
 Comete el delito de fraude el que engañando a uno o aprovechándose del error en que éste se halla, se hace ilícitamente de alguna cosa o alcanza un lucro indebido.
 
-El delito de fraude se castigará con las penas siguientes:
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
 
-I.- Con prisión de tres días a seis meses y multa de cinco a cincuenta pesos, cuando el valor de lo defraudado no exceda de esta última cantidad;
+Este delito se sancionará como sigue:
 
-II.- Con prisión de seis meses a tres años y multa de cincuenta a quinientos pesos, cuando el valor de lo defraudado excediere de cincuenta pesos, pero no de tres mil;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1982)</small>
 
-III.- Con prisión de 3 a 12 años y multa hasta de diez mil pesos, si el valor de lo defraudado fuere mayor de tres mil pesos.
+I.- Cuando lo defraudado no exceda de cinco veces al monto del salario mínimo diario general aplicable en la región, con prisión de uno a seis meses y multa que podrá ascender hasta el valor de lo defraudado;
 
-Cuando el sujeto pasivo del delito entregue la cosa de que se trata a virtud, no solo de engaño, sino de maquinaciones o artificios que para obtener esa entrega se hayan empleado, la pena señalada en los artículos anteriores se aumentará con prisión de tres días a dos años.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1982)</small>
+
+II.- Cuando exceda de cinco, pero no de cien veces al monto del salario de referencia, con prisión de seis meses a tres años y multa que podrá ascender hasta el valor de lo defraudado;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 1982)</small>
+
+III.- Cuando exceda de cien, pero no de doscientas veces al monto del aludido salario, con prisión de tres a siete años y multa que podrá ascender hasta el valor de lo defraudado;
+
+> <small>(ADICIONADA, P.O. 15 DE ENERO DE 1982)</small>
+
+IV.- Cuando exceda de doscientas veces al monto del señalado salario, con prisión de cinco a quince años y multa que podrá ascender hasta el valor de lo defraudado.
 
 ###### Art. 363.
 
@@ -2681,9 +2705,11 @@ XVIII.- Al que por sí o por interpósita persona, cause perjuicio público o pr
 
 Para los efectos penales se entiende por fraccionar la división de terrenos en lotes.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1982)</small>
+
 ###### Art. 364.
 
-Cuando el valor de lo defraudado, conforme a los artículos anteriores de este capítulo, no exceda de cincuenta pesos, se castigará el delito con multa de cinco a cincuenta pesos y prisión de tres días a seis meses.
+Cuando el valor de lo defraudado no exceda de la cantidad equivalente a tres días del salario mínimo general aplicable en la región, se sancionará el delito con multa que podrá ascender hasta el duplo de lo defraudado.
 
 ###### Art. 365.
 
@@ -2816,3 +2842,11 @@ POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
 ###### ARTICULO UNICO.
 
 Los Código Penal y de Procedimientos Penales del Estado, a que se ha hecho mención, comenzarán a regir el día 2 de enero de 1976.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 15 DE ENERO DE 1982.
+
+###### ARTICULO UNICO.
+
+Estas reformas y adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
