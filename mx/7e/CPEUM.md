@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1975-02-06"
+last_updated: "1975-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,9 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 1975 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE FEBRERO DE 1975.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1638,9 +1636,9 @@ Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias
 
 La resolución que pronuncien las Salas o el Pleno de la Suprema Corte en los casos a que se refieren los dos párrafos anteriores, sólo tendrá el efecto de fijar la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias dictadas en los juicios en que hubiese ocurrido la contradicción, y (sic)
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADA, D.O.F. 17 DE FEBRERO DE 1975)</small>
 
-XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artículo y siempre que no esté reclamada la inconstitucionalidad de una ley, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
+XIV.- Salvo lo dispuesto en el párrafo final de la fracción II de este artículo, se decretará el sobreseimiento del amparo o la caducidad de la instancia por inactividad del quejoso o del recurrente, respectivamente, cuando el acto reclamado sea del orden civil o administrativo, en los casos y términos que señale la ley reglamentaria. La caducidad de la instancia dejará firme la sentencia recurrida.
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
@@ -1853,8 +1851,6 @@ Los Poderes de la Unión, tienen el deber de proteger a los Estados contra toda 
 ## TITULO SEXTO.
 
 DEL TRABAJO Y DE LA PREVISION SOCIAL.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE MARZO DE 1975 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -2937,3 +2933,17 @@ DECLARATORIA QUE ADICIONA EL PARRAFO SEXTO Y SEPTIMO DEL ARTICULO 27 Y LA FRACCI
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE FEBRERO DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Esta reforma entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+En los juicios de amparo pendientes de resolución ante la Suprema Corte de Justicia, en los que esté reclamada la inconstitucionalidad de una ley, turnados al ministro relator antes de que entre en vigor esta reforma, para decretar la caducidad de la instancia se requiere que transcurra un término de cien días, incluyendo los inhábiles, sin que el recurrente haya hecho promoción o se haya registrado acto procesal alguno en los autos. Dicho término se contará a partir del día siguiente en que entre en vigor esta reforma.
+
+###### ARTICULO TERCERO.
+
+Se faculta a la Suprema Corte de Justicia de la Nación para dictar las medidas necesarias para la efectividad e inmediato cumplimiento de la presente reforma.
