@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1982-01-11"
+last_updated: "1991-07-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1956-12-29"
 ---
 # LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 1982.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE JULIO DE 1991.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -67,11 +69,13 @@ III.- El usar y explotar temporalmente la obra por sí mismo o por terceros, con
 
 Los derechos que las fracciones I y II del artículo anterior conceden al autor de una obra, se consideran unidos a su persona y son perpetuos, inalienables, imprescriptibles e irrenunciables; se trasmite el ejercicio de los derechos a los herederos legítimos o a cualquier persona por virtud de disposición testamentaria.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 4o.
 
-Los derechos que el artículo 2o. concede en su fracción III al autor de una obra, comprenden la publicación, reproducción, ejecución, representación, exhibición, adaptación y cualquiera utilización pública de la misma, las que podrán efectuarse por cualquier medio según la naturaleza de la obra y de manera particular por los medios señalados en los tratados y convenios internacionales vigentes en que México sea parte. Tales derechos son transmisibles por cualquier medio legal.
+Los derechos que el artículo 2o., concede en su fracción III al autor de una obra, comprenden la publicación, reproducción, ejecución, representación, exhibición, adaptación y cualquiera utilización publica de la misma, las que podrán efectuarse por cualquier medio según la naturaleza de la obra y de manera particular por los medios señalados en los tratados y convenios internacionales vigentes en que México sea parte.
+
+Tales derechos pueden ser transmisibles por cualquier medio legal, incluida la enajenación y la concesión de uso o explotación temporal, como el arrendamiento.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -85,11 +89,11 @@ Independientemente del consentimiento previo, estos actos deben ejecutarse sin m
 
 El autor podrá en todo tiempo realizar y autorizar modificaciones a su obra.
 
-(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 6o.
 
-Los derechos de autor son preferentes a los de los intérpretes y de los ejecutantes de una obra, y en caso de conflicto se estará siempre a lo que más favorezca al autor.
+Los derechos de autor son preferentes a los de los intérpretes y de los ejecutantes de una obra, así como a los de los productores de fonogramas; en caso de conflicto, se estará siempre a lo que más favorezca al autor.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -113,9 +117,17 @@ g) Escultóricas y de carácter plástico.
 
 h) De arquitectura.
 
-i) De fotografía, cinematografía, radio y televisión.
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
-j) Todas las demás que por analogía pudieran considerarse comprendidas dentro de los tipos genéricos de obras artísticas e intelectuales antes mencionadas.
+i) De fotografía, cinematografía, audiovisuales, de radio y televisión;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE JULIO DE 1991)</small>
+
+j) De programas de computación, y
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], D.O.F. 17 DE JULIO DE 1991)</small>
+
+k) Todas las demás que por analogía pudieran considerarse comprendidas dentro de los tipos genéricos de obras artísticas e intelectuales antes mencionadas.
 
 La protección de los derechos que esta Ley establece surtirá legítimos efectos cuando las obras consten por escrito, en grabaciones o en cualquier otra forma de objetivación perdurable y que sea susceptible de reproducirse o hacerse del conocimiento público por cualquier medio.
 
@@ -199,7 +211,9 @@ La persona cuyo nombre o seudónimo conocido o registrado esté indicado como au
 
 Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, dichas acciones corresponderán al editor de ellas, quien tendrá las responsabilidades de un gestor, pero cesará la representación cuando el autor o el titular de los derechos comparezca en el juicio respectivo.
 
-Es libre el uso de la obra de autor anónimo mientras el mismo no se dé a conocer, para lo cual dispondrá del plazo de treinta años contados a partir desde la primera publicación de la obra. En todo caso, transcurrido ese lapso, la obra pasará al dominio público.
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+Es libre el uso de la obra de autor anónimo mientras el mismo no se dé a conocer, para lo cual dispondrá del plazo de cincuenta años contados a partir de la primera publicación de la obra.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -216,6 +230,10 @@ c) La publicación de obras de arte o de arquitectura que sean visibles desde lu
 d) La traducción o reproducción, por cualquier medio, de breves fragmentos de obras científicas, literarias o artísticas, en publicaciones hechas con fines didácticos o científicos o en crestomatías, o con fines de crítica literaria o de investigación científica, siempre que se indique la fuente de donde se hubieren tomado, y que los textos reproducidos no sean alterados.
 
 e) La copia manuscrita, mecanográfica, fotográfica, fotostática, pintada, dibujada o en micropelícula de una obra publicada, siempre que sea para el uso exclusivo de quien la haga.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+f) La copia que para su uso exclusivo como archivo o respaldo realice quien adquiera la reproducción autorizada de un programa de cómputo.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -289,11 +307,13 @@ El título o cabeza de un periódico, revista, noticiero cinematográfico, y, en
 
 La publicación o difusión deberá iniciarse dentro de un año a partir de la fecha del certificado de reserva.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 25.
 
-Son materia de reserva el uso y explotación exclusivos de los personajes ficticios o simbólicos en obras literarias, historietas gráficas o en cualquier publicación periódica, cuando los mismos tengan una señalada originalidad y sean utilizados habitual o periódicamente. Lo son también los personajes humanos de caracterización empleados en actuaciones artísticas.
+Son materia de reserva el uso y explotación exclusivos de los personajes ficticios o simbólicos en obras literarias, historietas gráficas o en cualquier publicación periódica, cuando los mismos tengan una señalada originalidad y sean utilizados habitual o periódicamente. Lo son también los personajes humanos de caracterización empleados en actuaciones artísticas, los nombres artísticos, así como las denominaciones de los grupos artísticos.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 Esta protección se adquiere mediante el correspondiente certificado de reserva de derechos, y durara cinco años que empezarán a contar desde la fecha del certificado, pudiendo prorrogarse por períodos sucesivos, iguales, previa comprobación de que el interesado está usando o explotando habitualmente esos derechos, ante la Dirección General del Derecho de Autor.
 
@@ -687,11 +707,11 @@ La declaratoria de limitación del derecho de autor se publicará en el "Diario 
 
 ### CAPITULO V. De los derechos provenientes de la utilización y ejecución públicas
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 72.
 
-El derecho de publicar una obra por cualquier medio no comprende, por sí mismo, el de su explotación en representaciones o ejecuciones públicas.
+El derecho de publicar una obra por cualquier medio no comprende, por sí mismo, el de su explotación en representaciones o ejecuciones públicas. Se considerará que una obra es objeto de representación o ejecución pública cuando sea presentada por cualquier medio a auditores o espectadores sin restringirla a determinadas personas pertenecientes a un grupo privado y que supere los límites de las representaciones domésticas usuales.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -777,6 +797,10 @@ II.- Se imprimirá la etiqueta, sello o calcomanía que los distinga y que consi
 
 III.- La impresión en forma y color destacados en el disco o fonograma de la sigiuente (sic) leyenda: "PAGADA LA EJECUCION PUBLICA EN MEXICO".
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE JULIO DE 1991)</small>
+
+Para los efectos legales, se considerará fonograma toda fijación exclusivamente sonora de la ejecución de una obra o de otros sonidos.
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 81.
@@ -831,6 +855,14 @@ II.- La fijación sobre una base material de sus actuaciones y ejecuciones direc
 
 III.- La reproducción, cuando se aparte de los fines por ellos autorizados.
 
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+ARTICULO 87 BIS. Los productores de fonogramas gozarán del derecho de autorizar u oponerse a la reproducción directa o indirecta de sus fonogramas, así como, a su arrendamiento o cualquier otra forma de explotación, siempre y cuando no se la hubieran reservado los autores o sus causahabientes. Asimismo, gozarán del derecho de oponerse a la distribución o venta de la reproducción no autorizada de sus fonogramas.
+
+La protección a que se refiere este artículo será de cincuenta años, contados a partir del final del año en que se fijaron por primera vez los sonidos incorporados al fonograma.
+
+Para los efectos legales, se considerará productor de fonogramas la persona física o moral que fija por primera vez la ejecución de una obra o de otros sonidos.
+
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 88.
@@ -841,25 +873,39 @@ I.- Por cualquiera de los intérpretes, cuando varios participen en una misma ej
 
 II.- Por los intérpretes individualmente y los ejecutantes en forma colectiva, previo acuerdo de la mayoría, cuando intervengan en una ejecución unas y otros.
 
-La oposición a la utilización secundaria de una ejecución dará acción a reclamar la indemnización correspondiente al abuso del derecho, en los términos del artículo 1912 del Código Civil del Distrito y Territorios Federales.
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1991)</small>
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+III. Por los productores de fonogramas, en los supuestos del artículo 87 bis.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+La oposición a la utilización secundaria de una ejecución dará acción a reclamar la indemnización correspondiente al abuso del derecho, en los términos del artículo 1912 del Código Civil para el Distrito Federal en materia común y para toda la República en materia federal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 89.
 
-Los intérpretes o ejecutantes, podrán solicitar de la autoridad judicial competente las providencias expresas en los artículos 384 y 385 del Código Federal de Procedimientos Civiles, para impedir las fijaciones o reproducciones a que se refiere el artículo 87 de esta Ley.
+Los intérpretes, ejecutantes o productores de fonogramas, podrán solicitar de la autoridad judicial competente, las providencias previstas en los artículos 384 y 385 del Código Federal de Procedimientos Civiles, para impedir la fijación, reproducción, distribución, venta o arrendamiento a que se refieren los artículos 87 y 87 bis de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 En lo conducente, serán aplicables las disposiciones de los artículos 388, 398 y demás relativos del mismo ordenamiento, sin que tenga que acreditarse la necesidad de la medida.
 
-> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 90.
 
-La duración de la protección concedida a intérpretes o ejecutantes será de 30 años contados a partir:
+La duración de la protección concedida a intérpretes o ejecutantes, será de cincuenta años contados a partir:
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 a).- De la fecha de fijación de fonogramas o disco.
 
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
 b).- De la fecha de ejecución de obras no grabadas en fonogramas.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 c).- De la fecha de la transmisión por televisión o radiodifusión.
 
@@ -1277,11 +1323,11 @@ Para el solo efecto de su registro, los documentos procedentes del extranjero qu
 
 Cuando dos o más personas hubiesen adquirido los mismos derechos respecto a una misma obra, prevalecerá la cesión inscrita en primer término, sin perjuicio del derecho de impugnación del registro.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 130.
 
-Quien solicite el registro de una obra entregará al Encargado del Registro tres ejemplares de la obra producida, editada o reproducida. Uno de los ejemplares será devuelto al interesado con las anotaciones procedentes. Para el cumplimiento de la obligación prevista en este artículo, cuando se trate de películas, se entregarán solamente los ejemplares del argumento, de la adaptación técnica y fotografías de las principales escenas. Cuando se trate de pinturas, esculturas y obras de carácter análogo, se presentarán copias fotográficas de ellas.
+La solicitud, trámite y registro de las obras se realizará conforme lo disponga el Reglamento del Registro Público del Derecho de Autor.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1305,7 +1351,11 @@ El Encargado del Registro tiene las siguientes obligaciones:
 
 I.- Inscribir cuando proceda las obras y documentos que le sean presentados;
 
-II.- Permitir que las personas que lo soliciten se enteren de las inscripciones y de los documentos que obran en el Registro;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1991)</small>
+
+II. Permitir que las personas que lo soliciten se enteren de las inscripciones y, salvo lo dispuesto en el párrafo siguiente, de los documentos que obran en el Registro.
+
+Tratándose de programas de computación el acceso a los documentos sólo se permitirá mediando autorización del titular del derecho de autor, su causahabiente o por mandamiento judicial y sin menoscabo de los derechos del autor, en aquellos casos que determine el Reglamento, del Registro Público del Derecho de Autor.
 
 III.- Expedir las copias certificadas de las constancias que se le soliciten, y
 
@@ -1335,107 +1385,139 @@ La Dirección General del Derecho de Autor publicará un Boletín del Derecho de
 
 ### CAPITULO VIII. De las sanciones
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 135.
 
-Se impondrá prisión de treinta días a seis años y multa de $100.00 a $10,000.00 en los casos siguientes:
+Se impondrá prisión de seis meses a seis años y multa por el equivalente de cincuenta a quinientos días de salario mínimo, en los casos siguientes:
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
 I.- Al que sin consentimiento del titular del derecho de autor explote con fines de lucro una obra protegida;
 
-II.- Al editor o grabador que edite o grabe para ser publicada una obra protegida, y al que la explote o utilice con fines de lucro, sin consentimiento del autor o del titular del derecho patrimonial;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1991)</small>
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+II. Al editor, productor o grabador que edite, produzca o grabe para ser publicada una obra protegida, y al que la explote o utilice con fines de lucro, sin consentimiento del autor o titular del derecho patrimonial.
 
-III.- Al editor o grabador que produzca mayor número de ejemplares que los autorizados por el autor o sus causahabientes;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1991)</small>
+
+III. Al editor, productor o grabador que produzca mayor número de ejemplares que los autorizados por el autor o sus causahabientes o a cualquier persona que, sin autorización de éste o éstos reproduzca con fines de lucro un programa de computación;
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 IV.- Al que sin las licencias previstas como obligatorias en esta Ley, a falta del consentimiento del titular del derecho de autor, edite, grabe, explote o utilice con fines de lucro una obra protegida;
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
 V.- Al que publique una obra substituyendo el nombre del autor por otro nombre, a no ser que se trate de seudónimo autorizado por el mismo autor;
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 VI.- Al que sin derecho use el título o cabeza de un periódico, revista, noticiero cinematográfico, programas de radio o televisión, y en general de cualquier publicación o difusión periódica protegida;
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
 VII.- Al que especule con libros de texto respecto de los cuales se haya declarado la limitación del derecho de autor, ya sea ocultándolos, acaparándolos o expendiéndolos a precios superiores al autorizado, y
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 VIII.- Al que especule en cualquier forma con los libros de texto gratuitos que distribuye la Secretaría de Educación Pública en las escuelas de la República Mexicana.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 136.
 
-Se impondrá de dos meses a tres años de prisión y multa de $50.00 a $5,000.00 en los casos siguientes:
+Se impondrá prisión de seis meses a cinco años y multa por el equivalente de cincuenta a trescientos días de salario mínimo, en los casos siguientes:
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 I.- Al que a sabiendas comercie con obras publicadas con violación de los derechos de autor;
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
 II.- Al que publique antes que la Federación, los Estados o los Municipios y sin autorización las obras hechas en el servicio oficial,
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
 
 III.- Al que publique obras compendiadas, adaptadas, traducidas o modificadas de alguna otra manera, sin la autorización del titular del derecho de autor sobre la obra original;
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 IV.- Al que dolosamente emplee en una obra un título que induzca a confusión con otra publicada con anteterioridad, (sic) y
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 V.- Al que use las características gráficas originales que sean distintivos de la cabeza de un periódico o revista, de una obra, o colección de obras, sin autorización de quien hubiese obtenido la reserva para su uso.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 137.
 
-Se aplicará la pena de prisión de treinta días a un año o multa de $50.00 a $5,000.00 o ambas sanciones a juicio del Juez, al que sin consentimiento del intérprete o del titular de sus derechos explote con fines de lucro una interpretación.
+Se impondrá prisión de seis meses a dos años o multa por el equivalente de cincuenta a trescientos días de salario mínimo, o ambas sanciones a juicio del juez, al que sin consentimiento del intérprete, ejecutante o del titular de sus derechos explote con fines de lucro una interpretación.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 138.
 
-Se aplicará la pena de prisión de treinta días a un año o multa de $50.00 a $5,000.00 o ambas sanciones a juicio del Juez, a quienes estando autorizados para publicar una obra, dolosamente lo hicieren en la siguiente forma:
+Se impondrá prisión de treinta días a un año o multa por el equivalente de cincuenta a trescientos días de salario mínimo, o ambas sanciones a juicio del juez, a quienes estando autorizados para publicar una obra, dolosamente lo hicieren en la siguiente forma:
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 I.- Sin mencionar en los ejemplares de ella el nombre del autor, traductor, compilador, adaptador o arreglista;
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 II.- Con menoscabo de la reputación del autor como tal y; en su caso, del traductor, compilador, arreglista o adaptador, y
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 III.- Con infracción de lo dispuesto en los artículos 43 y 52
 
-(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 139.
 
-Se impondrá prisión de dos meses a un año o multa de $50.00 a $5,000.00 a quien dé a conocer a cualquier persona una obra inédita o no publicada que haya recibido en confianza del titular del derecho de autor o de alguien en su nombre, sin el consentimiento de dicho titular.
+Se impondrá prisión de dos meses a un año o multa por el equivalente de cincuenta a trescientos días de salario mínimo, a quien dé a conocer a cualquier persona una obra inédita o no publicada que haya recibido en confianza del titular del derecho de autor o de alguien en su nombre, sin el consentimiento de dicho titular.
 
-(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 140.
 
-A los editores o impresores responsables, que dolosamente inserten en las obras una o varias menciones falsas de aquéllas a las que se refieren los artículos 27, 53, 55, 56 y 57, se les impondrá prisión de seis meses a tres años o multa de $50.00 a $10,000.00. En los casos de reincidencia dichas penas no serán alternativas, sino acumulativas.
+Se impondrá prisión de seis meses a tres años o multa por el equivalente de cincuenta a quinientos días de salario mínimo, a los editores o impresores responsables que dolosamente inserten en las obras una o varias menciones falsas de aquellas a las que se refieren 105 artículos 27, 53, 55 y 57 de esta Ley. En los casos de reincidencia dichas penas no serán alternativas, sino acumulativas.
 
-(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 141.
 
-Se impondrá a los funcionarios de las sociedades de autores que dispongan para gastos de administración, de cantidades superiores a las señaladas en el presupuesto a que se refiere el artículo 104, siempre que no concurra el caso de que trata el párrafo tercero del mismo precepto citado, las sanciones siguientes:
+Se impondrá a los funcionarios de las sociedades de autores que dispongan para gastos de administración de cantidades superiores a los previstos en el artículo 104 de esta Ley, siempre que no concurra el caso a que se refiere el párrafo tercero del mismo precepto, las sanciones siguientes:
 
-I.- Prisión de seis meses a tres años y multa de $50.00 a $500.00, cuando la suma erogada no exceda de $3,000.00, y
+I. Prisión de seis meses a tres años y multa por el equivalente de cincuenta a trescientos días de salario mínimo, cuando la suma erogada no exceda de quinientas veces dicho salario en la fecha de la comisión del delito, y
 
-II.- Prisión de tres a seis años y multa de $500.00 hasta $10,000.00, si la suma erogada fuera mayor de $3,000.00.
+II. Prisión de tres a seis años y multa por el equivalente de cien a quinientos días de salario mínimo, cuando la suma erogada exceda de quinientas veces dicho salario en la fecha de la comisión del delito.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 142.
 
-Se impondrá prisión de dos meses a un año y multa de $50.00 a $10,000.00 a quien explote o utilice con fines de lucro discos o fonogramas destinados a ejecución privada.
+Se impondrá prisión de seis meses a dos años y multa por el equivalente de cincuenta a quinientos días de salario mínimo, a quien sin la debida autorización, explote o utilice con fines de lucro discos o fonogramas destinados a ejecución privada.
 
-(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+ARTICULO 142 BIS. Se impondrá prisión de seis meses a seis años y multa por el equivalente de cincuenta a quinientos días de salario mínimo, a quien en infracción a lo previsto en el artículo 87 bis reproduzca, distribuya, venda o arriende, fonogramas con fines de lucro.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 143.
 
-Las infracciones a esta Ley y a sus reglamentos, que no constituyan delito, serán sancionadas por la Dirección General del Derecho de Autor, previa audiencia del infractor, con multa de $50.00 a $10,000.00. Al efecto, al tenerse conocimiento de la infracción, se notificará debidamente al presunto responsable, emplazándolo para que dentro de un término de quince días, que puede ampliarse a juicio de la autoridad, ofrezca las pruebas para su defensa. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor. En caso de reincidencia, que se considerará como tal la repetición de un acto de la misma naturaleza en un lapso de seis meses, la autoridad podrá imponer el doble de las multas.
+Para la aplicación de las sanciones económicas a que se refiere este capítulo, se tomará como base el salario mínimo general vigente en el Distrito Federal, en la fecha de la comisión del delito o de la infracción.
+
+Las sanciones económicas, en caso de delito, se aplicarán sin perjuicio de la reparación del daño.
+
+Las infracciones a esta ley y a sus reglamentos, que no constituyan delito, serán sancionadas por la Dirección General del Derecho de Autor, previa audiencia del infractor, con multa por el equivalente de diez a quinientos días de salario mínimo.
+
+Al tenerse conocimiento de la infracción, se notificará debidamente al presunto responsable, emplazándolo para que dentro de un término de quince días, que puede ampliarse a juicio de la autoridad, ofrezca las pruebas para su defensa y alegue lo que a su derecho convenga. El monto de la multa será fijado teniendo en cuenta la naturaleza de los hechos y las condiciones económicas del infractor.
+
+En caso de reincidencia, que se considerará como tal la repetición de un acto de la misma naturaleza en un lapso de seis meses, la autoridad podrá imponer el doble de las multas.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1549,21 +1631,43 @@ Para los efectos de la reparación se entiende por daño moral el que ocasionen 
 
 ### CAPITULO X. Recurso Administrativo de Reconsideración
 
-(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963) (F. DE E., D.O.F. 3 DE FEBRERO DE 1964)
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 157.
 
-Si alguna persona se ve afectada en sus derechos e intereses por resoluciones emanadas de la Dirección General del Derecho de Autor, podrá interponer por escrito y solicitar su reconsideración ante el Secretario de Educación Pública, dentro de un término de quince días hábiles contados a partir del día siguiente a aquel en que se notifique la resolución. La notificación se hará por correo certificado o por otra forma fehaciente.
+Contra las resoluciones emitidas por la Dirección General del Derecho de Autor, se podrá interponer recurso administrativo de reconsideración ante la unidad administrativa correspondiente de la Secretaría de Educación Pública, dentro de los quince días hábiles siguientes a aquél en que se notifique la resolución. La notificación se hará por correo certificado o por cualquier otra forma fehaciente.
 
-> <small>(F. DE E., D.O.F. 3 DE FEBRERO DE 1964)</small>
+Transcurrido el término a que se refiere el párrafo precedente, sin que el afectado interponga el recurso, la resolución de que se trate quedará firme.
 
-Transcurrido el término a que se refiere el párrafo precedente, sin que el afectado interponga el recurso, la resolución de que se trate quedará firme por ministerio de Ley.
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1991)</small>
 
-Con el escrito de inconformidad que contendrá nombre y domicilio del inconforme o de su representante legal, resolución o resoluciones impuganadas (sic) y puntos concretos de hecho y de derecho en que funde el recurso, deberán presentarse las pruebes que se juzguen pertinentes. El Secretario de Educación Pública podrá allegarse cuantos elementos de prueba estime necesarios y estará obligado a comunicar oportunamente, mediante correo certificado o en otra forma fehaciente si revoca, modifica, anula o confirma la resolución o resoluciones impugnadas.
+ARTICULO 157 A. El recurso administrativo de reconsideración deberá formularse por escrito y contener los siguientes requisitos:
 
-Cuando se trate de impugnación de multas impuestas, el interesado deberá comprobar ante la Dirección General del Derecho de Autor, haber garantizado su importe, mas los accesorios legales, ante las autoridades hacendarias correspondientes, conforme a los ordenamientos aplicables. La Dirección dará (sic) aviso correspondiente al titular de la Secretaría de Educación Pública.
+I. Nombre, denominación o razón social;
 
-No procede el recurso de reconsideración tratándose de laudos arbitrales a que se refiere el artículo 133 de esta Ley.
+II. Domicilio para oír y recibir notificaciones y el nombre de la persona autorizada para ello;
+
+III. Acto que se impugna y puntos concretos de hecho y de derecho en que se funde el recurso;
+
+IV. Los agravios que le cause el acto impugnado;
+
+V. Las pruebas que considere pertinentes;
+
+VI. Documentos que acrediten su personalidad, en su caso;
+
+VII. Documentos en que conste el acto impugnado, y
+
+VIII. Constancia de notificación del acto impugnado.
+
+En caso de incumplimiento de los requisitos antes señalados, la unidad administrativa competente requerirá al promovente para que en el plazo de cinco días los subsane; de no ser satisfechos, se tendrá por no presentado el recurso.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1991)</small>
+
+ARTICULO 157 B. La Secretaría de Educación Público, a través de la unidad administrativa competente para sustanciar y resolver el recurso administrativo de reconsideración, podrá allegarse cuantos elementos de prueba estime necesarios y estará obligada a comunicar oportunamente mediante correo certificado o en otra forma fehaciente si modifica, anula o confirma la resolución o resoluciones impugnadas.
+
+Tratándose de impugnación de multas, el interesado deberá comprobar ante dicha unidad administrativa, haber garantizado su importe más los accesorios legales ante las autoridades hacendarias correspondientes, conforme a los ordenamientos aplicables.
+
+No procede el recurso administrativo de reconsideración tratándose de laudos arbitrales a que se refiere el artículo 133 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -1880,3 +1984,15 @@ D.O.F. 11 DE ENERO DE 1982.
 ## [N. DE E. TRANSITORIO DEL DECRETO "POR EL QUE SE REFORMA Y ADICIONA LA LEY FEDERAL DE DERECHOS DE AUTOR”.]
 
 ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE JULIO DE 1991.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE DERECHOS DE AUTOR".]
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+El Reglamento del Registro Público del Derecho de Autor deberá ser expedido dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto. En tanto, permanecerá en vigor lo dispuesto por el artículo 130 de la Ley Federal de Derechos de Autor.
