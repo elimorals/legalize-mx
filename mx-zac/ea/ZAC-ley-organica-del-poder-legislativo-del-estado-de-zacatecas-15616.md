@@ -4,7 +4,7 @@ identifier: "ZAC-ley-organica-del-poder-legislativo-del-estado-de-zacatecas-1561
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-02"
-last_updated: "1998-12-02"
+last_updated: "1999-06-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE JUNIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 2 de diciembre de 1998.
 
@@ -589,11 +589,13 @@ Para calificar la responsabilidad de los Servidores Públicos por delitos, falta
 
 ### CAPITULO PRIMERO. DE LA COMISION DE REGIMEN INTERNO Y CONCERTACION POLITICA
 
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 49.
 
-La Comisión de Régimen Interno y Concertación Política es el órgano de gobierno y dirección general de la Legislatura del Estado. Se integrará con los diputados coordinadores de cada una de las fracciones legislativas, y sesionará por lo menos una vez por semana.
+La Comisión de Régimen Interno y Concertación Política es el órgano de gobierno y dirección general de la Legislatura del Estado. Se integrará con los diputados coordinadores y subcoordinadores de cada una de las fracciones legislativas, y sesionará por lo menos una vez por semana.
 
-Cada fracción legislativa representada en la Legislatura, acreditará además, un subcoordinador que suplirá, con derecho a voz y voto, únicamente los casos de ausencia del titular de la respectiva coordinación partidista.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 23 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 50.
 
@@ -661,9 +663,11 @@ XVIII. Las demás que le confiera esta ley, el reglamento interno y los acuerdos
 
 ### CAPITULO SEGUNDO. DE LA COMISION DE PLANEACION, PATRIMONIO Y FINANZAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 55.
 
-La Presidencia de la Comisión de Planeación, Patrimonio y Finanzas será rotativa. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
+La Comisión de Planeación, Patrimonio y Finanzas se integrará con dos Diputados de cada fracción parlamentaria. La Presidencia de la Comisión será rotativa. Se renovará cada seis meses conforme al calendario y en el orden que por acuerdo determine el Pleno.
 
 Esta Comisión sesionará por lo menos una vez por semana. A través de su Presidente, y previo consenso con sus integrantes, le corresponde el conocimiento, acuerdos y rendición de informes de los asuntos siguientes:
 
@@ -1460,3 +1464,9 @@ SECRETARIA
 DIP. LAE. ALMA ARACELI AVILA CORTES
 
 DIP. ENRIQUE RAMIREZ HERNANDEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE JUNIO DE 1999
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
