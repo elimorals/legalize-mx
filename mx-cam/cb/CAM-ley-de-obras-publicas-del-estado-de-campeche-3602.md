@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-obras-publicas-del-estado-de-campeche-3602"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-31"
-last_updated: "1993-07-14"
+last_updated: "2001-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE OBRAS PUBLICAS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2001.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Campeche, el viernes 31 de agosto de 1984.
 
@@ -78,6 +78,12 @@ d). OFICIALIA: La Oficialía Mayor del Ejecutivo del Estado;
 e). DEPENDENCIAS: Las señaladas en las fracciones I y II de este artículo;
 
 f). ENTIDADES: Los organismos, empresas y fideicomisos señalados en las fracciones III, IV y V de este mismo artículo.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2001)</small>
+
+###### ARTICULO 1o. Bis.
+
+Las disposiciones de esta ley son de observancia obligatoria para las dependencias y órganos de los Poderes Legislativo y Judicial, sin perjuicio de lo dispuesto en sus respectivas leyes orgánicas, así como para todos aquellos organismos que manejen o apliquen recursos provenientes de los erarios estatal o municipal. Las atribuciones que en esta ley se confieren al titular del Poder Ejecutivo y a dependencias de la Administración Pública del Estado se ejercerán, en la esfera de competencia de los Poderes Legislativo y Judicial y organismos en mención, por las dependencias y órganos de éstos homólogos de aquéllos.
 
 ###### ARTICULO 2o.
 
@@ -748,3 +754,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se faculta al Gobernador del Estado para expedir el Reglamento de la Ley de Obras Públicas del Estado de Campeche.
 
 TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este decreto.
+
+P.O. 30 DE JUNIO DE 2001.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
