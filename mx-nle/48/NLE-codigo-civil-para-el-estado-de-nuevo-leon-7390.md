@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1991-08-02"
+last_updated: "1993-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE ABRIL DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -455,7 +455,7 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 > <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-### CAPITULO VIII. ACTAS DE INSCRIPCIONES DE SENTENCIAS
+### CAPITULO VIII. ACTAS DE INSCRIPCION DE SENTENCIAS
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1891,7 +1891,9 @@ En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contr
 
 El cónyuge que haya dado causa al divorcio, no podrá volver a casarse, sino después de dos años, a contar desde que se decretó el divorcio.
 
-Para que los cónyuges que se divorcien voluntariamente puedan volver a contraer matrimonio, es indispensable que haya transcurrido un año desde que obtuvieron el divorcio.
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1993)</small>
+
+Para que los cónyuges que se divorcien voluntariamente, puedan volver a contraer matrimonio es indispensable, que haya transcurrido un año, desde que obtuvieron el Divorcio, dejando al arbitrio judicial, el poder reducir este término, tomando en cuenta la fecha del auto por el cual quedaron separados provisionalmente los cónyuges y también cuando al cónyuge divorciado le quede bajo su responsabilidad la custodia de los hijos.
 
 ###### Art. 290.
 
@@ -7501,7 +7503,7 @@ Testamento público abierto, es el que se otorga ante notario y tres testigos id
 
 ###### Art. 1409.
 
-El testador expresara de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al notario y a los testigos. El notario redactará por escrito las cláusulas del testamento sujetándose estrictamente a la voluntad del testador y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### Art. 1410.
 
@@ -15316,3 +15318,7 @@ PRIMERO:- Se derogan los artículos 1046, 1047, 1048, 1049, 1050, 1051, 1052, 10
 SEGUNDO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO:- Se derogan todas aquellas disposiciones contrarias a las normas conflictuales consagradas en los Artículos del 21 al 21 Bis VIII.
+
+P.O. 2 DE ABRIL DE 1993.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
