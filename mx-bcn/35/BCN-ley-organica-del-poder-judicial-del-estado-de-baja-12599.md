@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2003-01-10"
+last_updated: "2003-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE OCTUBRE DE 2003.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -2551,13 +2551,13 @@ Si el número de solicitudes planteadas, conforme a lo dispuesto en esta fracci�
 
 IV.- En el supuesto de que no se aprobasen los dictámenes presentados y habiéndose agotado una segunda ronda de votación, se procederá a nombrarlos mediante el sistema de sorteo, en el cual habrán de considerarse todas aquellas personas cuya solicitud fue aprobada.
 
-En caso de ratificación, previamente a la expedición de la convocatoria respectiva, el Congreso del Estado instruirá una Comisión Especial de su seno con el objeto de entrevistar, evaluar y dictaminar para efectos de ratificación y, será el Pleno el que resuelva, por el voto de las dos terceras partes de sus integrantes, lo conducente.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
 
-> <small>(ADICIONADO, P.O. 4 DE MAYO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 255.
 
-Los Magistrados Electorales desempeñarán su cargo durante tres años, pudiendo ser ratificados, hasta por un periodo igual.
+Los Magistrados Electorales desempeñarán su cargo durante tres años, sin poder ser ratificados en ningún caso.
 
 > <small>(REFORMADO, P.O. 10 DE ENERO DE 2003)</small>
 
@@ -3160,3 +3160,7 @@ El presente Decreto entrará en vigor el día de su publicación en el Periódic
 P.O. 10 DE ENERO DE 2003.
 
 UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 17 DE OCTUBRE DE 2003.
+
+ÚNICO: Las presentes reformas entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
