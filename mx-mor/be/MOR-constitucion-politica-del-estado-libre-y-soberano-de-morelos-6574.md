@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1989-06-21"
+last_updated: "1989-11-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE JUNIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE NOVIEMBRE DE 1989.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -1150,7 +1150,13 @@ Todos los Decretos, Reglamentos y Acuerdos del Gobernador del Estado, deberán s
 
 Los Secretarios del Despacho serán los órganos de comunicación por cuyo conducto hará saber el Gobernador sus resoluciones y en su caso, llevarán la voz de éste ante el Congreso, cuando el Gobernador o la Legislación Local lo juzguen oportuno.
 
-En cualquier tiempo el Congreso del Estado o la Diputación Permanente podrá citar a los Secretarios de Despacho para que informen del Estado que guarda la Administración de sus respectivos ramos. Asimismo podrán citarlos para explicar y asesorar al Congreso cuando se vaya a discutir un proyecto de Ley o a estudiar un negocio relacionado con el ramo de que está encargado.
+> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 1989)</small>
+
+Abierto al Primer Período Ordinario de Sesiones, los Secretarios de despacho darán cuenta al Congreso, del Estado que guarden sus respectivos ramos. El Congreso podrá citar a dichos servidores públicos para explicar o ampliar sus informes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE NOVIEMBRE DE 1989)</small>
+
+En cualquier tiempo, el Congreso o la Diputación Permanente, en su caso, podrá citar a los Titulares de las Secretarías para informar del estado que guarde la administración de la Dependencia a su cargo, o para explicar y asesorar cuando se discuta un proyecto Legislativo, o se estudie un asunto relacionado con sus atribuciones.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -2116,7 +2122,7 @@ UNICO.- El presente decreto entrará en vigor a partir del día siguiente al de 
 
 P.O. 29 DE DICIEMBRE DE 1983.
 
-DECRETO NO. 77
+DECRETO NUMERO 77
 
 PRIMERO.- El presente Decreto de reformas y adiciones a la Constitución Política del Estado Libre y Soberano de Morelos deberá cumplir con las formalidades establecidas en los Artículos 147 Fracciones I, II, III y 148 del mismo ordenamiento.
 
@@ -2217,3 +2223,13 @@ La Reforma Constitucional aprobada por éste Congreso del Estado, y en caso de q
 ###### ARTICULO TERCERO.
 
 Una vez hecho el cómputo a que se refiere el Artículo 148, de la Constitución Política del Estado, y la declaración de haber sido aprobadas las adiciones y Reformas por los Ayuntamientos, remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos a que hacer referencia la Fracción XVII del Artículo 70, de la Constitución Política del Estado.
+
+P.O. 2 DE NOVIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "TIERRA Y LIBERTAD", Organo del Gobierno del Estado Libre y Soberano de Morelos.
+
+###### ARTICULO SEGUNDO.
+
+Remítase al Ejecutivo del Estado el presente Decreto, para los efectos a que hacer referencia la Fracción XVII del Artículo 70 de la Constitución Política del Estado.
