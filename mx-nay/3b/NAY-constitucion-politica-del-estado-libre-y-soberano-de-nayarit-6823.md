@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1996-12-25"
+last_updated: "1998-09-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE SEPTIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -229,9 +229,9 @@ Son derechos del ciudadano Nayarita:
 
 I. Votar y poder ser votado en las elecciones populares del Estado, siempre que esté en el ejercicio de sus derechos cívicos y políticos en los términos que establezca la Ley.
 
-> <small>(REFORMADA, P.O. 6 DE MARZO DE 1993)</small>
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)</small>
 
-II. Asociarse libre y pacíficamente para participar en los asuntos políticos del Estado y de las demás prerrogativas consignadas en los Artículos 35 al 41 de la Constitución General de la República.
+II. Asociarse individual y libremente para participar en forma pacífica en los asuntos políticos del Estado y de las demás prerrogativas consignadas en los artículos 35 y 41 de la Constitución General de la República.
 
 III. Los nayaritas serán preferidos a los que no lo sean, en igualdad de circunstancias.
 
@@ -341,7 +341,9 @@ Para la asignación de los diputados por el principio de representación proporc
 
 I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales, y
 
-II. Los partidos políticos que hayan obtenido un mínimo de 1.5 por ciento de la votación total, tendrán derecho a concurrir a la asignación.
+> <small>(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)</small>
+
+II. Los partidos políticos que hayan obtenido un mínimo de 2.0 por ciento de la votación total, tendrán derecho a concurrir a la asignación.
 
 La Ley Electoral determinará el procedimiento y requisitos a que se sujetará la asignación de diputados de representación proporcional.
 
@@ -869,9 +871,7 @@ IX.- Tomar parte sin voto en la discusión de las Leyes o Decretos o comisionar 
 
 X.- Hacer cumplir los fallos y sentencias de los Tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-XI.- Proponer a la Legislatura, las ternas de ciudadanos que reúnan los requisitos establecidos por la ley, para la designación del Presidente del Organo Jurisdiccional Electoral y del Presidente del Organo Estatal Electoral. La ley establecerá los procedimientos y requisitos que deberán observarse para la total integración de esos organismos.
+XI.- (DEROGADA, P.O. 5 DE SEPTIEMBRE DE 1998)
 
 > <small>(REFORMADA, P.O. 26 DE ABRIL DE 1995)</small>
 
@@ -1561,11 +1561,11 @@ En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor 
 
 Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido.
 
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1975)</small>
+> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 1998)</small>
 
 ###### Art. 131.
 
-Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por la mayoría de los Diputados integrantes de la Legislatura o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación el voto afirmativo de las dos terceras partes de los Diputados miembros del Congreso, así como también de las dos terceras partes de los Ayuntamientos.
+Esta Constitución puede ser adicionada o reformada. Las proposiciones que tengan este objeto deberán ser presentadas por cualquier diputado integrante de la legislatura o ser iniciadas por el Ejecutivo del Estado, necesitándose para su aprobación el voto afirmativo de las dos terceras partes de los diputados miembros del Congreso, así como también de las dos terceras partes de los Ayuntamientos.
 
 ###### Art. 132.
 
@@ -1695,7 +1695,7 @@ P.O. 30 DE MARZO DE 1919.
 
 Este Decreto comenzará a surtir sus efectos desde el día de su promulgación.
 
-P.O. 24 DE JULIO DE 1919.
+P O. 24 DE JULIO DE 1919
 
 Este Decreto empezará a surtir sus efectos desde la fecha de su promulgación.
 
@@ -2209,7 +2209,7 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7885 QUE REFORMA ARTS. 37, 38 Y 69.
+DECRETO 7885 QUE REFORMA ARTS-37, 38 Y 69.
 
 PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
 
@@ -2240,3 +2240,13 @@ P.O. 25 DE DICIEMBRE DE 1996.
 ###### ARTICULO UNICO.
 
 El presente decreto de adiciones y reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, con sujeción a los requisitos y procedimientos que establece el artículo 131 de la Constitución Política.
+
+P.O. 5 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, en los términos y formalidades a que se refiere el artículo 131 de la Constitución Política que nos rige.
+
+###### ARTICULO SEGUNDO.
+
+Remítase la minuta aprobada a cada uno de los Ayuntamientos Constitucionales del Estado, para los efectos a que alude el artículo 131 de la Constitución Política que nos rige, a cuyo término deberán computarse los resultados y tramitarse el decreto promulgatorio respectivo.
