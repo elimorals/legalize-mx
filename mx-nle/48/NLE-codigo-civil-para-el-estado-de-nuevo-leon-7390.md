@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1979-01-05"
+last_updated: "1979-11-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 1979.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -367,15 +367,17 @@ En pena equivalente al triple de la señalada en este artículo, incurrirán las
 
 En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1979)</small>
 
 ###### Art. 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por las partes interesadas. Contendrá el día, la hora y el lugar de nacimiento, el número de certificado de nacimiento, el sexo del presentado, el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto, según el certificado de nacimiento.
+El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora, el lugar de nacimiento, el número de certificado de nacimiento, el sexo del presentado, y el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto, según el certificado de nacimiento.
 
-Se tomará al margen del acta la impresión digital del presentado en el caso de no presentarse el mencionado certificado.
+Se tomará al margen del Acta la impresión digital del presentado en el caso de no exhibir el mencionado certificado.
 
-Si el niño se presenta como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellido, haciéndose constar estas circunstancias en el acta.
+Si se trata de hijos nacidos fuera de matrimonio, en ningún caso y por ningún motivo se asentará en el Acta esa circunstancia o cualquiera otra que lo califique; ni podrá asentarse dato alguno que rebele las circunstancias de nacimiento.
+
+El Oficial del Registro Civil que viole lo establecido en los párrafos anteriores, será destituído de su cargo, sin prejuicio de las sanciones penales que pudieran corresponderle.
 
 ###### Art. 59.
 
@@ -4269,7 +4271,7 @@ Es poseedor de una cosa el que ejerce sobre ella un poder de hecho, salvo lo dis
 
 ###### Art. 791.
 
-Cuando en virtud de un acto jurídico el propietario entrega a otro una cosa, concediéndole el derecho de retenerla, temporalmente en su poder en calidad de usufructuario, arrendatario, acreedor pignoraticio, depositario, u otro título análogo, los dos son poseedores de la cosa. El que la posee a título de propietario tiene una posesión originaria, el otro, una posesión derivada.
+Cuando en virtud de un acto jurídico el propietario entrega a otro una cosa, concediéndole el derecho de retenerla, temporalmente en su poder en calidad de usufructurario, arrendatario, acreedor pignoraticio, depositario, u otro título análogo, los dos son poseedores de la cosa. El que la posee a título de propietario tiene una posesión originaria, el otro, una posesión derivada.
 
 ###### Art. 792.
 
@@ -5123,7 +5125,7 @@ Si se constituye a favor de varias personas simultáneamente, sea por herencia, 
 
 ###### Art. 981.
 
-Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructuario.
+Si se constituye sucesivamente, el usufructo no tendrá lugar sino en favor de las personas que existan al tiempo de comenzar el derecho del primer usufructurario.
 
 ###### Art. 982.
 
@@ -5165,7 +5167,7 @@ Si el usufructo comprendiera cosas que se deteriorasen por el uso, el usufructua
 
 ###### Art. 991.
 
-Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructuario tendrá el derecho de consumirlas, pero está obligado a restituírlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
+Si el usufructo comprende cosas que no pueden usarse sin consumirse, el usufructurario tendrá el derecho de consumirlas, pero está obligado a restituírlas, al terminar el usufructo, en igual género, cantidad y calidad. No siendo posible hacer la restitución, está obligado a pagar su valor, si se hubiesen dado estimadas, o su precio corriente al tiempo de cesar el usufructo, si no fueron estimadas.
 
 ###### Art. 992.
 
@@ -9479,7 +9481,7 @@ La solidaridad estipulada no da a la obligación el carácter de indivisible; ni
 
 ###### Art. 1899.
 
-Las obligaciones divisibles en que haya más de un deudor o acreedor se regirán por las reglas comunes de las obligaciones; las indivisibles en que haya mas de un deudor o acreedor se sujetarán a las siguientes disposiciones.
+Las obligaciones divisibles en que haya mas de un deudor o acreedor se regirán por las reglas comunes de las obligaciones; las indivisibles en que haya mas de un deudor o acreedor se sujetarán a las siguientes disposiciones.
 
 ###### Art. 1900.
 
@@ -14411,7 +14413,7 @@ XIV.- La promesa de contratar para que surta efectos contra tercero;
 
 XV.- Las escrituras que contengan la constitución del régimen de condominio y sus modificaciones;
 
-XVI.- Los documentos en que se establezca propiedad pública cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
+XVI.- Los documentos en que se establezca propiedad publica cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
 
 XVII.- Los demás títulos que la Ley ordene expresamente sean registrados.
 
@@ -14816,3 +14818,7 @@ Se derogan las disposiciones que se opongan al presente decreto.
 ###### Art. 3º.
 
 A la brevedad posible y previo aviso en el Periódico Oficial y en otro de mayor circulación en el Estado, se iniciará el nuevo sistema de formas y cuadernos y simultáneamente, se procederá a la cancelación y concentración en la Dirección del Registro Civil, de los libros y demás documentos actualmente en uso.
+
+P.O. 9 DE NOVIEMBRE DE 1979.
+
+UNICO:- El presente Decreto entrará en vigor, 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
