@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1964-07-08"
+last_updated: "1966-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1964.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE ENERO DE 1966.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -275,7 +275,9 @@ Por cada Diputado propietario se eligirá (sic) un suplente.
 
 Para ser Diputado se requiere:
 
-I.- Ser ciudadano tabasqueño por nacimiento, o por naturalización en el caso de la fracción I del artículo 19.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1966)</small>
+
+I.- Ser ciudadano Tabasqueño por nacimiento, originario del Distrito por el que se pretenda ser electo; o ciudadano tabasqueño por nacimiento o naturalización en el caso de la fracción I del Artículo 19, con residencia efectiva en el Distrito de que se trate no menor de dos años anteriores al día de su elección.
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 1946)</small>
 
@@ -663,7 +665,7 @@ II.- Condonar impuestos causados a favor del Tesoro Municipal a no ser en el cas
 
 Corresponde al Congreso en Asamblea plena, con asistencia de no menos de las tres cuartas partes del número total de Diputados, resolver acerca de la renuncia que de su cargo haga el Gobernador del Estado.
 
-Sólo podrá aceptarse la renuncia cuando a juicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
+Sólo podrá aceptarse la renuncia cuando ajuicio del Congreso hubiese causa grave y suficiente, y que la renuncia sea hecha personalmente por el Gobernador del Estado ante el Congreso, libre de toda coacción o violencia.
 
 (REUBICADO, P.O. 4 DE MAYO DE 1946)
 
@@ -1307,7 +1309,7 @@ La autoridad ante quien se ejercite el derecho de petición dictará su proveíd
 
 ###### Art. 150.
 
-Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales previstos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
+Las leyes de orden público y de policía son obligatorias aún para los extranjeros que por primera vez pisen el territorio del Estado, sin más excepción que los casos especiales provistos por el derecho internacional, por los tratados que celebre la Unión o por las leyes que aquélla expida conforme a sus facultades.
 
 ## Título Duodécimo.
 
@@ -1580,3 +1582,7 @@ UNICO.- Este decreto surte sus efectos legales desde la fecha de su publicación
 P.O. 8 DE JULIO DE 1964.
 
 UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno.
+
+P.O. 29 DE ENERO DE 1966.
+
+UNICO.- Este Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Estado.
