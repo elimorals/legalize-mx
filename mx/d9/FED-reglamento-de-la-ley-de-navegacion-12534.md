@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-navegacion-12534"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-16"
-last_updated: "2000-08-08"
+last_updated: "2005-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,9 @@ issue_date: "1998-11-10"
 
 REGLAMENTO DE LA LEY DE NAVEGACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ENERO DE 2005.
 
-Reglamento Publicado en la Primera Sección del Diario Oficial de la Federación el lunes 16 de noviembre de 1998.
+Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 16 de noviembre de 1998.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
@@ -289,7 +289,7 @@ La dimisión de bandera de la embarcación llevará consigo la cancelación del 
 
 ### Capítulo II. De las obligaciones y de los derechos de las Empresas
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 30.
 
@@ -297,19 +297,19 @@ En la aplicación de sus respectivos programas y de conformidad con el calendari
 
 Al término del plazo autorizado para proceder al abanderamiento de la embarcación, toda la tripulación deberá ser mexicana.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 31.
 
 Las Empresas que cuenten con embarcaciones inscritas en el Programa deberán informar a la Secretaría, semestralmente, sobre el cumplimiento que hayan dado a los compromisos asumidos por ellas.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 32.
 
 Una Empresa podrá transferir la embarcación inscrita en el Programa, con todos sus derechos y obligaciones, a otra que reúna los requisitos señalados en las fracciones I y II del artículo 27 del presente Reglamento. Una vez cubiertos estos requisitos, la Secretaría procederá a inscribir la transferencia previo el pago de los derechos correspondientes.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 33.
 
@@ -319,7 +319,7 @@ En caso de que una Empresa tuviere opción de compra de una embarcación inscrit
 
 ### Capítulo III. Del incumplimiento del programa de abanderamiento y de las infracciones
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 34.
 
@@ -335,7 +335,7 @@ IV. La Empresa retire voluntariamente su embarcación del Programa.
 
 En los casos de las fracciones I a III, la Secretaría concederá a la Empresa un plazo de quince días hábiles para que manifieste lo que a su derecho convenga y presente sus pruebas y defensas. Con base en éstas, dictará la resolución correspondiente dentro de los siguientes quince días hábiles.
 
-> <small>N. DE E. SE DEROGA EL PRESENTE ARTÍCULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
+> <small>N. DE E. SE DEROGA EL PRESENTE ARTICULO, SIN EMBARGO, CONTINUARA VIGENTE CONFORME A LO SEÑALADO POR EL ARTICULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. EL 8 DE AGOSTO DE 2000</small>
 
 ###### Artículo 35.
 
@@ -821,7 +821,7 @@ b) Si son extranjeros, la certificación de su carácter de navieros en el lugar
 
 II. En lo que respecta a las embarcaciones:
 
-> <small>N. DE E. EL CONTENIDO DEL INCISO D) QUEDO SUBSUMIDO EN EL PRESENTE APARTADO, AÚN Y CUANDO EL LEGISLADOR NO HACE UNA REFERENCIA CLARA Y PRECISA.</small>
+> <small>N. DE E. EL CONTENIDO DEL INCISO D) QUEDO SUBSUMIDO EN EL PRESENTE APARTADO, AUN Y CUANDO EL LEGISLADOR NO HACE UNA REFERENCIA CLARA Y PRECISA.</small>
 
 > <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
 
@@ -893,7 +893,7 @@ La Secretaría podrá revocar los permisos otorgados cuando, por cualquier circu
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 8 DE AGOSTO DE 2000)</small>
 
-Los permisos de navegación as que se refiere el artículo 34 de la Ley, que se otorguen a embarcaciones extrajeras cuando no las haya de bandera mexicana disponibles, tendrán una duración de noventa días naturales. Los interesados podrán solicitar la prórroga de estos permisos, siempre y cuando persistan las mismas circunstancias que dieron origen a su otorgamiento, debiendo presentar únicamente los certificados , contratos y seguros que hayan perdido vigencia.
+Los permisos de navegación as que se refiere el artículo 34 de la Ley, que se otorguen a embarcaciones extrajeras cuando no las haya de bandera mexicana disponibles, tendrán una duración de noventa días naturales. Los interesados podrán solicitar la prórroga de estos permisos, siempre y cuando persistan las mismas circunstancias que dieron origen a su otorgamiento, debiendo presentar únicamente los certificados, contratos y seguros que hayan perdido vigencia.
 
 ###### Artículo 83.
 
@@ -1027,15 +1027,19 @@ Presentada una solicitud para un puerto determinado, mientras no se resuelva sob
 
 La Secretaría, al determinar que el solicitante ha cumplido con los requisitos a que se refieren los artículos 95 y 96 de este Reglamento, indicará las prácticas que aquél deba llevar al cabo durante noventa días hábiles.
 
-Al finalizar las prácticas, el solicitante entregará a la capitanía de puerto de que se trate los comprobantes de las mismas, firmados por los capitanes de las embarcaciones en que se hayan efectuado, así como por los pilotos de puerto que lo hayan acompañado.
+> <small>(REFORMADO, D.O.F. 28 DE ENERO DE 2005)</small>
+
+Al finalizar las prácticas, el solicitante entregará a la capitanía de puerto de que se trate los comprobantes de las mismas, firmados por los capitanes de las embarcaciones en que se hayan efectuado.
 
 Cada comprobante deberá especificar el número consecutivo de maniobras, la fecha en que fueron realizadas y su tipo, así como el nombre de la embarcación, su eslora, manga y arqueo bruto.
 
 El comprobante contendrá la leyenda de que su expedición no motiva cobro alguno.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE ENERO DE 2005)</small>
+
 ###### Artículo 99.
 
-Dentro de los veinte días hábiles siguientes a la conclusión de las prácticas, el aspirante deberá sustentar un examen teórico y uno práctico ante un jurado integrado por el capitán de puerto de que se trate, un capitán de altura designado por la Secretaría y un piloto de puerto.
+Dentro de los veinte días hábiles siguientes a la conclusión de las prácticas, el aspirante deberá sustentar un examen teórico y uno práctico ante un jurado integrado por el capitán de puerto de que se trate y un capitán de altura designado por la Secretaría.
 
 Los temas que comprenderá el examen teórico serán determinados por la Secretaría con vista en las características del puerto respectivo y el temario se remitirá a la correspondiente capitanía.
 
@@ -1312,3 +1316,9 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
 
 TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den incumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
+
+D.O.F. 28 DE ENERO DE 2005.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
