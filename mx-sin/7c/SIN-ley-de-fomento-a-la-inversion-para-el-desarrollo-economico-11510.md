@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-fomento-a-la-inversion-para-el-desarrollo-economico-1151
 country: "mx"
 rank: "ley"
 publication_date: "1996-11-27"
-last_updated: "2001-09-19"
+last_updated: "2004-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE FOMENTO A LA INVERSION PARA EL DESARROLLO ECONOMICO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el miércoles 27 de noviembre de 1996.
 
@@ -109,173 +109,101 @@ g).- Comisión: Comisión Dictaminadora: Grupo operativo representativo de los s
 
 h).- UDI´S: Unidades de Inversión: Unidad de cuenta cuyo valor en pesos para cada día publica, periódicamente el Banco de México en el Diario Oficial de la Federación.
 
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2004)</small>
+
 ## TITULO II. DE LA DESREGULACION ECONOMICA Y SIMPLIFICACION ADMINISTRATIVA
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO I. DESREGULACION ECONOMICA
 
 ###### ARTICULO 4o.
 
-La desregulación económica es una tarea de carácter prioritario que tiene como fin simplificar, perfeccionar, eficientar y modernizar leyes y reglamentos estatales y municipales con el fin de lograr un entorno económico altamente competitivo que estimule la inversión y el crecimiento económico en el Estado de Sinaloa. Los esfuerzos de desregulación buscarán reducir los tiempos y costos derivados de las disposiciones normativas que afectan el establecimiento y operación de las empresas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 5o.
 
-Se formará un Comité que estará integrado por aquellas instituciones y dependencias federales, estatales y municipales responsables de aspectos relacionados con el establecimiento y operación de empresas, así como al menos los siguientes organismos del sector privado: Cámara de Comercio, de la Industria de Transformación, de la Construcción, Centro Empresarial, Asociaciones de Agricultores, Hoteleros, Banqueros, Ganaderos y Profesionistas.
-
-Los integrantes del Comité desempeñarán sus funciones honoríficamente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 6o.
 
-El Comité tendrá como sede las instalaciones de la Secretaría y sesionará mensualmente. En caso de considerarlo conveniente, el Titular de la Secretaría, podrá convocar a sesiones extraordinarias que podrán realizarse en lugares distintos a la sede.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 7o.
 
-El Comité tiene las facultades siguientes:
-
-I.- Actualizar el marco administrativo del Estado de Sinaloa, con el propósito de eliminar los obstáculos que generen ineficiencias en la actividad económica y con ello, se promueva la competitividad y la productividad;
-
-II.- Hacer propuestas específicas que ayuden a reducir el tiempo y simplificar los trámites necesarios para el establecimiento y operación de las actividades productivas;
-
-III.- Revisar periódicamente leyes y reglamentos a fin de evitar duplicidades y prácticas innecesarias y/o gravosas que afecten injustificadamente la operación de negocios;
-
-IV.- Turnar al Ejecutivo propuestas de modificación de leyes y reglamentos provenientes de instancias públicas y/o privadas para lograr una mejora contínua en el proceso de simplificación administrativa;
-
-V.- Formular propuestas de modificación a leyes y reglamentos de carácter federal;
-
-VI.- Recomendar la amonestación, remoción y/o sanción de los servidores públicos estatales o municipales que en forma recurrente e injustificada incidan en prácticas morosas para la autorización de trámites, permisos y licencias;
-
-VII.- Presentar quejas ante autoridades federales, solicitando la sanción, remoción y/o castigo de servidores públicos que en forma recurrente e injustificada obstruyan la instalación y/u operación de negocios;
-
-VIII.- Actuar como instancia facilitadora para la resolución de casos presentados a la Ventanilla Unica, no resueltos dentro del plazo perentorio señalado por las leyes y reglamentos correspondientes;
-
-IX.- Promover cursos de capacitación para servidores públicos, a fin de eficientar y aprovechar adecuadamente el nuevo marco regulatorio-administrativo;
-
-X.- Promover la celebración de acuerdos de coordinación entre el Gobierno del Estado y los H. Ayuntamientos, para desregular la actividad económica en sus respectivos ámbitos de competencia;
-
-XI.- Establecer propuestas de desregulación y simplificación que guarden congruencia con los lineamientos federales en esta materia; y
-
-XII.- En general, hacer propuestas que permitan reducir substancialmente plazos, trámites y requisitos innecesarios para el establecimiento y operación de negocios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 8o.
 
-El Comité presentará, a través de la Secretaría, a consideración del Codesin, un programa de desregulación en el que se establezcan objetivos y acciones para la reforma y simplificación integral de leyes y reglamentos, así como un Formato Unico, en el que se integrarán todos los trámites relacionados con el establecimiento, ampliación o reubicación de empresas ante las dependencias y entidades estatales y municipales competentes. Una vez aprobado el programa, éste se publicará en el Periódico Oficial "El Estado de Sinaloa" y otros medios de difusión.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 9o.
 
-El Comité será presidido por el Titular de la Secretaría y contará con un Secretario Técnico.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 10.
 
-Las facultades del Presidente del Comité, serán las siguientes:
-
-I.- Presidir las sesiones del Comité;
-
-II.- Representar al Comité ante las instituciones de carácter público, social y privado;
-
-III.- Vigilar el correcto funcionamiento del Comité;
-
-IV.- Apoyar y promover las iniciativas propuestas por el Comité;
-
-V.- Encomendar al Secretario Técnico la elaboración de nuevos estudios o el análisis de los presentados al Comité;
-
-VI.- Turnar al Secretario Técnico los estudios e investigaciones para la adecuada concertación de acciones;
-
-VII.- Calendarizar, en coordinación con los miembros del Comité, la fecha y hora en que se celebrarán las reuniones de trabajo; y
-
-VIII.- Las demás que por acuerdo y otras disposiciones legales se le atribuyan.
-
-El Titular de la Secretaría, en su carácter de Presidente del Comité, será el encargado de presentar los programas anuales, así como un reporte cuatrimestral al Pleno del propio Comité y al Codesin sobre los avances de dichos programas anuales de desregulación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 11.
 
-Para instrumentar propuestas y acuerdos del Comité, éste podrá contratar la participación de servicios profesionales especializados.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 12.
 
-El Presidente del Comité nombrará un Secretario Técnico dependiente de la Secretaría, cuyas funciones serán las siguientes:
-
-I.- Levantar minutas y dar seguimiento a los acuerdos tomados por el Comité;
-
-II.- Convocar y proponer la agenda de trabajo para las sesiones del Comité;
-
-III.- Dar seguimiento al programa anual de trabajo aprobado por el Comité;
-
-IV.- Dar forma a propuestas de desregulación y simplificación recibidas por el Comité;
-
-V.- Mantener una relación estrecha con miembros de las comisiones del H. Congreso del Estado o Ayuntamientos a quienes se turnarán las propuestas de desregulación y simplificación;
-
-VI.- Coordinar y dar seguimiento a los servicios profesionales contratados por el Comité; y
-
-VII.- En general, responsabilizarse de ejecutar todos los acuerdos y decisiones tomadas por el Comité.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 13.
 
-Para su funcionamiento, el Comité podrá sesionar en Pleno o integrarse en subcomités. Dichos subcomités incluirán representantes de dependencias según sea el caso a tratar, un representante de la Secretaría y un representante del sector empresarial y podrán integrarse, entre otras, bajo las siguientes áreas: comercio, ecología, salud, servicios públicos, industria, desarrollo urbano, transporte y finanzas. Estos subcomités serán presididos por la entidad con el mayor nivel de injerencia y responsabilidad en la materia a desregular.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 14.
 
-El Comité cuando así se requiera realizará encuestas entre los sectores productivos con el fin de identificar las leyes, procedimientos y trámites que inhiban o entorpezcan el establecimiento, ampliación y operación de unidades productivas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 15.
 
-A fin de agilizar el establecimiento, ampliación, reubicación y operación de negocios, el Comité propondrá ante las autoridades correspondientes, en términos de la legislación estatal, iniciativas para modificar o adicionar las leyes vigentes a efecto de adoptar el esquema de afirmativa ficta.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
+
+> <small>(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO II. SIMPLIFICACION ADMINISTRATIVA
 
 ###### ARTICULO 16.
 
-La Ventanilla Unica, tendrá las atribuciones siguientes:
-
-I.- Agilizar, facilitar y gestionar trámites para la obtención de licencias y permisos varios relacionados con el establecimiento, ampliación, reubicación y operación de actividades empresariales;
-
-II.- Procurar que se facilite la regulación jurídico-administrativa de empresas, establecimientos y prestadores de servicios;
-
-III.- Recibir propuestas y sugerencias del público orientadas a hacer más eficientes los trámites y procedimientos, canalizando dichas propuestas al Comité; y
-
-IV.- En general, proveer orientación, agilizar trámites y dar seguimiento a todo asunto relacionado con el establecimiento y la operación de actividades empresariales.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 17.
 
-La Ventanilla Unica tendrá su ubicación en la Secretaría, la cual podrá autorizar la instalación de Ventanillas Unicas Adicionales con todas o algunas de las atribuciones descritas en el artículo anterior, en diferentes instituciones, organismos empresariales, cámaras, ayuntamientos y otros, en todo el territorio estatal, si así lo considera necesario.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 18.
 
-La Secretaría publicará en el Periódico Oficial "El Estado de Sinaloa" y otros medios de difusión que considere necesarios, un listado de aquellos trámites y servicios que prestará al público a través de la Ventanilla Unica.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 19.
 
-Con el propósito de hacer más eficiente el trabajo que realice la Ventanilla Unica, la Secretaría invitará a las autoridades involucradas con el establecimiento, ampliación, reubicación y operación de negocios a nombrar un representante permanente, para que con su intervención se facilite y agilice el despacho de los trámites más recurrentes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 20.
 
-A fin de agilizar las diversas gestiones que realice la Ventanilla Unica, la Secretaría buscará celebrar acuerdos con las dependencias federales, estatales y municipales para facilitar el establecimiento, operación, reubicación y ampliación de negocios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 21.
 
-La Secretaría, asignará en la Ventanilla Unica un servidor público especial para apoyar integralmente a las empresas en las gestiones necesarias para su establecimiento y operación.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 22.
 
-Derivado de la operación de la Ventanilla Unica, la Secretaría presentará quejas ante la Contraloría General y Desarrollo Administrativo del Gobierno del Estado, así como ante el Codesin, cuando en su opinión existan elementos suficientes para denunciar a algún servidor público que esté obstruyendo injustificadamente el establecimiento, la ampliación, reubicación y operación de los negocios.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 23.
 
-Además de los supuestos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado, se podrá recomendar fincar sanciones administrativas a servidores públicos que obstruyan el establecimiento y/u operación de negocios.
-
-Entre otros, se considera la obstrucción de negocios en los siguientes casos:
-
-I.- No cumplimiento de plazos establecidos;
-
-II.- Mal uso de información o falta a la naturaleza confidencial de solicitudes y proyectos;
-
-III.- Pérdida de documentos;
-
-IV.- Solicitud de donaciones o apoyos, para beneficio particular; y
-
-V.- Alteración de reglas y procedimientos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ###### ARTICULO 24.
 
-Derivado de la operación de la Ventanilla Unica, la Secretaría formulará propuestas a las autoridades para que en la medida que sea posible se sustituya la solicitud de permisos y licencias por avisos de alta en formatos diseñados por las autoridades correspondientes.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GESTION EMPRESARIAL Y REFORMA REGULATORIA DEL ESTADO DE SONORA, P.O. 25 DE FEBRERO DE 2004)
 
 ## TITULO III. DE LOS INCENTIVOS FISCALES
 
@@ -1269,6 +1197,8 @@ Alberto López Vargas
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
+.
+
 P.O. 19 DE SEPTIEMBRE DE 2001.
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", con excepción del Artículo Sexto, relativo a la Ley de Coordinación Fiscal del Estado de Sinaloa, cuya vigencia será a partir del 1° de enero de 2002, en el entendido de que para el ejercicio fiscal de 2002 los factores provisionales que entrarán en vigor el 1 de enero de ese año se calcularán conforme lo establecido en el artículo 4 de la Ley, con las siguientes bases:
@@ -1282,3 +1212,11 @@ Artículo Segundo.- Las referencias que se hacen en las leyes, decretos, reglame
 Artículo Tercero.- En todas las leyes y reglamentos en los que se haga referencia a la Ley Orgánica de la Procuraduría Fiscal de la Secretaría de Hacienda Pública y Tesorería, la mención se entenderá hecha a la Ley Orgánica de la Procuraduría Fiscal del Estado.
 
 Artículo Cuarto.- En todas las leyes y reglamentos en los que se menciones al Procurador Fiscal de la Secretaría de Hacienda Pública y Tesorería, éstas se entenderán hechas al Procurador Fiscal del Estado.
+
+P.O. 25 DE FEBRERO DE 2004.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON LA LEY.
+
+Artículo Primero. La presente Ley entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial El Estado de Sinaloa.
+
+Artículo Segundo. Se deroga el Título II de la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa, publicada en el Periódico Oficial El Estado de Sinaloa número 143, segunda sección, de fecha 27 de noviembre de 1996, en lo correspondiente a la desregulación económica y simplificación administrativa, así como las demás disposiciones legales y administrativas que se opongan a la presente Ley.
