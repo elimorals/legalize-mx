@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1998-12-05"
+last_updated: "1999-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -651,6 +651,10 @@ El Ejecutivo podrá señalar el lugar, aún fuera del Estado, pero dentro de la 
 
 En la Ejecución de las sanciones y medidas de seguridad, dentro de los términos que en la sentencia se señalen y atentas las condiciones materiales existentes, se aplicarán al delincuente los procedimientos que se estimen conducentes para su corrección, educación, instrucción y adaptación social, de conformidad a lo establecido por la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, vigente en el Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+
+Tratándose de reos sentenciados por el delito de secuestro, los beneficios de la libertad preparatoria, remisión parcial de la pena o preliberación, previstos en la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, sólo procederán por acuerdo del Gobernador del Estado, previa opinión de la Dirección General de Prevención y Readaptación Social.
+
 ###### Art. 65.
 
 Toda persona privada de su libertad y que no se encuentre enferma o inválida, se ocupará en el trabajo que le competa de acuerdo con la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad del Estado, los reglamentos interiores del establecimiento donde se encuentre y con sus aptitudes personales. El producto de su trabajo se distribuirá como sigue: el cincuenta por ciento para la familia del reo, el veinte por ciento para gastos menores del interno en el reclusorio y el resto, por partes iguales, para la alimentación y vestido, al pago de la reparación del daño y para formar al recluso un fondo de reserva.
@@ -1125,11 +1129,9 @@ Cuando el miembro de la asociación sea o haya sido, en los tres años anteriore
 
 Se impondrá de seis meses a tres años de prisión a los que ejecuten en pandilla uno a más delitos, independientemente de las sanciones que les correspondan por el o los delitos cometidos.
 
-Se entiende por pandilla la reunión de tres o más personas que, sin estar organizadas con fines delictivos, cometen en común algún delito, si éste no es consecuencia de un acuerdo previo a la reunión.
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
-
-Sólo podrá darse esta figura en la comisión de los delitos: contra la vida y la integridad corporal; sexuales; ataques a las vías de comunicación; delitos contra la autoridad; ultrajes a la moral pública; allanamiento de morada; asalto; privación ilegal de la libertad; plagio; secuestro; rapto daño a las cosas y despojo.
+Se entiende por pandilla la reunión de tres o más personas que, sin estar organizadas con fines delictivos, cometen en común algún delito, si éste no es consecuencia de un acuerdo previo a la reunión. Sólo podrá darse esta figura en la comisión de los delitos: contra la vida, la integridad corporal, sexuales, ataques a las vías de comunicación, delitos contra la autoridad, ultrajes a la moral pública, allanamiento de morada, asalto, privación ilegal de la libertad, rapto, daño a las cosas, y despojo.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -1304,6 +1306,10 @@ Se impondrán de dos meses a tres años de prisión y multa por el importe de ve
 ###### Art. 142.
 
 Se impondrán de uno a seis meses de prisión al que provoque públicamente a cometer algún delito o haga apología de éste o de algún vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+
+En tratándose del delito de secuestro, a los que colaboren en la difusión pública de las pretensiones o mensajes de los secuestradores, fuera del estricto derecho a la información, se le impondrá una pena de tres a ocho años de prisión y multa de trescientos a seiscientos días de salario.
 
 ## TITULO SEPTIMO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
@@ -1739,9 +1745,9 @@ IV. Al que, a sabiendas, enajene o haga uso indebido de los objetos expresados e
 
 V. Al que, procurándose los objetos verdaderos que señala el presente artículo, haga uso indebido de ellos.
 
-### CAPITULO VII. Plagio o secuestro
+### CAPITULO VII. Secuestro
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, P.O. 14 DE ENERO DE 1999)</small>
 
 ###### Art. 167.
 
@@ -2055,7 +2061,13 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+
+###### Art. 188 Bis.
+
+A quien, una vez consumado un secuestro, sin ser partícipe del mismo, de modo persistente y mediante cualquier acción, amenace a la víctima, a sus familiares o representantes, para que no colaboren con las autoridades competentes, se le impondrá de seis meses a tres años de prisión y multa por el importe de trescientos a seiscientos días de salario.
+
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2075,7 +2087,7 @@ A los agentes del Ministerio Público, de la Policía Investigadora o de las pol
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2117,27 +2129,83 @@ I. Al particular que ilegítimamente prive a otro de su libertad personal; y
 
 II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empleando violencia física o moral.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1999)</small>
+
 ### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 194.
 
-Se impondrá de quince a treinta años de prisión y multa por el importe de ocho a sesenta días de salario, si la detención arbitraria de una persona tiene carácter de plagio o secuestro, en alguna de las formas siguientes:
+Comete el delito de secuestro quien prive ilegalmente de la libertad a otro con la finalidad de obtener rescate o de causar daño o perjuicio. Por rescate se entiende todo aquello que entrañe un provecho indebido y a cuya realización se condiciona la libertad del plagiado. Al responsable de este delito se le impondrá una pena de dieciocho a treinta años de prisión y multa por el importe de quinientos a mil días de salario mínimo.
 
-I. Cuando se trate de obtener dinero u otra cosa o de causar daños o perjuicios al plagiado o a otra persona relacionada con éste;
+Son disposiciones aplicables al secuestro, las siguientes:
 
-II. Cuando se haga uso de amenazas graves, maltrato, tormento o engaño;
+I. Al responsable de secuestro se le sancionará con una pena de veinticinco a treinta y cinco años de prisión y multa por el importe de mil a mil quinientos días de salario mínimo, cuando:
 
-III. Cuando la detención se haga en camino público, en paraje solitario o con allanamiento de morada; y
+a) Se cometa por servidores públicos que desempeñen funciones de prevención, investigación o persecución de delitos o por elementos de seguridad, activos en corporaciones privadas;
 
-IV. Cuando los plagiarios sean dos o más.
+b) El o los responsables, se ostenten con el carácter señalado en el inciso anterior, sin serlo;
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 1995)</small>
+c) Se cometa por personas que con anterioridad a la comisión del secuestro, hayan desempeñado funciones de prevención, investigación o persecución de delitos, o hubieren fungido como elementos de seguridad en corporaciones públicas o privadas;
 
-Si el plagiario pone en libertad a la persona secuestrada, dentro de los diez días siguientes al plagio, sin haber obtenido provecho o restituye, en su caso el que hubiese obtenido, se aplicarán las sanciones correspondientes a la privación ilegal de la libertad. Salvo si medió violencia física o moral sobre la persona secuestrada, en cuyo caso se le impondrá una pena de dos a ocho años de prisión. Si el o los plagiarios privan de la vida al ofendido se aplicarán las penas del homicidio calificado.
+d) El secuestrado sea menor de dieciocho o mayor de sesenta años, se trate de mujer embarazada o de persona que por su condición de salud física o estado mental se encuentre en mayor desventaja frente al secuestrador;
 
-Si el o los plagiarios privaran de la vida al ofendido, se aplicrán (sic) las penas del homicidio calificado.
+e) Entre el activo y el pasivo, exista vínculo de parentesco en cualquier línea hasta el cuarto grado, amistad, gratitud, trabajo, o cualquier otro que produzca confianza;
+
+f) Se torture, veje, maltrate o mutile al secuestrado;
+
+g) Se cometa con la finalidad de extraer al pasivo cualquier parte de su cuerpo para transplante;
+
+h) Durante el hecho se haga uso de narcóticos o cualquier sustancia o elemento susceptibles de anular o disminuir la resistencia de la víctima;
+
+i) El secuestro se desarrolle en diferentes entidades federativas;
+
+j) El activo utilice instalaciones o bienes gubernamentales, frecuencias, claves o códigos oficiales;
+
+k) Para lograr sus propósitos, se valga de redes internacionales de computadoras o de otros medios de alta tecnología, que impliquen marcada ventaja en el logro de su fin;
+
+l) El secuestro se cometa en casa habitación, sitio de trabajo, cualquiera de las rutas o lugares comúnmente frecuentados por el pasivo, inmediaciones de los mismos, en despoblado o área desprotegida;
+
+m) El secuestro se cometa contra más de una persona, sin perjuicio de las reglas aplicables de los artículos 54 y 55 de este Código;
+
+n) El secuestro se prolongue por más de cinco días;
+
+ñ) El activo acepte, persuada u obligue a la víctima a que realice directa o indirectamente, operaciones o transacciones bancarias, mercantiles, civiles, o cualquier otra que produzca liberación o transmisión de obligaciones, obtenga o no el beneficio;
+
+o) Se cometa por dos o más activos;
+
+p) El secuestrador obligue bajo amenazas, engaños o violencia a un tercero a participar en cualquier etapa del delito; y
+
+q) Para la obtención de los fines del delito, se amenace con dañar o perjudicar a la comunidad o particulares, mediante la utilización de explosivos, sustancias tóxicas, incendios, inundaciones, o cualquier otro que ponga en peligro a las personas y cosas.
+
+La misma pena de esta fracción se impondrá al responsable de secuestro, si algún pariente consanguíneo del ofendido dentro del segundo grado, sin haber sido víctima directa del ilícito, muere por alteraciones de salud que devinieren como efecto del delito, si el deceso se produce durante el secuestro o dentro de los siguientes sesenta días;
+
+II. Si el ofendido es privado de la vida o muere durante la comisión del delito, o concluido éste, en los siguientes sesenta días por causas originadas por el mismo, al secuestrador se le impondrá la pena de treinta a cuarenta años de prisión y multa por el importe de mil quinientos a dos mil días de salario;
+
+III. El activo que comunique a la autoridad antes que sus copartícipes, la información veraz con pormenores que hagan posible evitar o impedir el secuestro, o producido este, identifique a todos o algunos de los coautores o partícipes de la comisión del delito, o se logre localizar a la víctima sin mayor menoscabo de su salud, será sujeto a los siguientes beneficios:
+
+a) Si la información se produce antes de la comisión del ilícito, y la conducta conformare tentativa, se estará a lo dispuesto por el artículo 10 de este Código;
+
+b) Si la información se proporcionara una vez consumado el delito, ante el Ministerio Público en la averiguación previa, la pena será de seis meses a dos años de prisión; y
+
+c) Si la información aconteciere durante el proceso, el beneficio será de una tercera parte de la pena hasta lo dispuesto en el inciso anterior, acorde a la información proporcionada y a los resultados obtenidos con esta.
+
+Cuando la comunicación a que se refiere el primer párrafo de esta fracción provenga de persona vinculada a uno de los secuestradores por lazos de parentesco o amistad, al activo ligado con el informante se le impondrá una pena de tres a seis años de prisión y multa por el importe de doscientos a quinientos días de salario. Esta circunstancia no aprovecha a los demás coautores o partícipes.
+
+El Ministerio Público o el Juez, según corresponda, proporcionarán protección y vigilancia al activo que se encuentre en los supuestos de los incisos señalados en esta fracción o al informante a que se refiere el párrafo que antecede.
+
+La autoridad que reciba informes relacionados con un secuestro tendrá la obligación de transmitirlos sin demora al Ministerio Público en los términos del artículo 88 del Código de Procedimientos Penales; si la autoridad recibe dichos informes de uno o de los partícipes o autores del delito o de persona vinculada a alguno de ellos por lazos de parentesco o amistad, y los datos proporcionados arrojan los pormenores señalados en el primer párrafo de esta fracción, se aplicará a favor del activo del delito, lo dispuesto en los incisos que anteceden, o bien, la regla señalada en el párrafo segundo del mismo, según sea el caso. La información a que se refiere el párrafo primero de esta fracción podrá hacerse llegar a las autoridades personalmente, por escrito o a través de un representante.
+
+El mismo beneficio a que se contrae el inciso "b" de esta fracción, aprovechará al primero de los activos que de manera espontánea o negociada, ponga en libertad al ofendido sin mayor menoscabo de su salud, dentro de los cinco días siguientes al secuestro, sin haber obtenido provecho, o en su caso lo hubiere restituido, sin que esta circunstancia beneficie al resto de los coautores;
+
+IV. Se impondrá de tres a ocho años de prisión, y multa de trescientos a seiscientos días de salario, a quien con motivo de un secuestro, sin ser partícipe del mismo y fuera de las causas de exclusión del delito previstas por este Código:
+
+a) Actúe como intermediario en las negociaciones de rescate, no obstante inconformidad y advertencia de la familia de la víctima de no hacerlo; y
+
+b) A sabiendas del secuestro y con fines de lucro indebido efectúe el cambio de moneda nacional por divisas, o de éstas por moneda nacional destinadas al pago del rescate; y
+
+V. Se impondrá la sanción correspondiente al delito de fraude prevista en la fracción III, del artículo 251 de este código, a quien simule o argumente falsamente la realización de un secuestro.
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 1998)</small>
 
@@ -2825,7 +2893,19 @@ XVII. Al que grave dos o más veces la misma cosa en el mismo grado de preferenc
 
 > <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 1995)</small>
 
-XVIII. Al que afecte en fideicomiso una cosa que no le pertenece.
+XVIII. Al que afecte en fideicomiso una cosa que no le pertenece;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1999)</small>
+
+XIX. Al que en caso de secuestro y con motivo de su participación en las negociaciones de rescate obtenga un lucro indebido;
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1999)</small>
+
+XX. Al que, tratándose del delito referido en la fracción anterior, preste o simule servicios de asesoría con fines de lucro indebido, con o sin el consentimiento del secuestrado o de su familia; y
+
+> <small>(ADICIONADA, P.O. 14 DE ENERO DE 1999)</small>
+
+XXI. Al que, aprovechándose de la confusión anímica de la familia o de quien la represente en las negociaciones, en caso de secuestro, obtenga un lucro indebido prestando servicios con base en adivinaciones o facultades sin sustento científico, para el supuesto esclarecimiento de los hechos.
 
 > <small>(REFORMADO PRIMER PARRAFO P.O. 27 DE AGOSTO DE 1996)</small>
 
@@ -3276,3 +3356,13 @@ P.O. 5 DE DICIEMBRE DE 1998.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. En tanto no se reforme la Ley de Ejecución de Penas Restrictivas de la Libertad, la pena de trabajo en favor de la comunidad contemplada en el artículo 122, no será aplicable.
+
+P.O. 14 DE ENERO DE 1999.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para los efectos de adecuación del orden jurídico, se deberán realizar las reformas y adiciones a las leyes que correspondan.
+
+CUARTO. Se ordena dar profusa difusión periódica al presente decreto en los medios de comunicación electrónicos y escritos de mayor cobertura, difusión y circulación en el Estado.
