@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-anuncios-para-el-distrito-federal-14626"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-11"
-last_updated: "2001-07-06"
+last_updated: "2003-08-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14626&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-07-27"
 
 REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE JULIO DE 2001.
+N. DE E.: EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE ANUNCIOS PARA EL DISTRITO FEDERAL PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 28 DE AGOSTO DE 2003.
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el miércoles 11 de agosto de 1999.
 
@@ -1463,3 +1465,17 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se derogan las demás disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Oficialía Mayor, deberá tomar las medidas administrativas necesarias a efecto de destinar al personal suficiente para la actividad verificadora que realice la Secretaría de Desarrollo Urbano y Vivienda.
+
+G.O. 28 DE AGOSTO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de Anuncios para el Distrito Federal, de veintisiete de julio de mil novecientos noventa y nueve, publicado en la Gaceta Oficial del Distrito Federal, el once de agosto de mil novecientos noventa y nueve.
+
+TERCERO.- Los Planos de Zonificación en materia de anuncios a que se refiere este Reglamento, deberán expedirse en un plazo de ciento ochenta días hábiles siguientes a la publicación del mismo y hasta en tanto se difundan, continuarán aplicándose los planos vigentes, en todo aquello que no se oponga al presente Reglamento.
+
+CUARTO.- Los Lineamientos en materia de anuncios en vehículos de servicio de transporte vigentes, continuaran aplicándose hasta que la Secretaría de Transportes y Vialidad, emita unos nuevos.
+
+QUINTO.- Las solicitudes de las licencias, permisos o permisos publicitarios que se encuentren en trámite a la entrada en vigor del presente Reglamento, continuarán con el procedimiento con el que iniciaron hasta su conclusión.
+
+SEXTO .- Las licencias, permisos o permisos publicitarios que se encuentren vigentes a la entrada en vigor del presente Reglamento, no podrán renovarse a su vencimiento; siendo necesario la tramitación de un nuevo documento cumpliendo los requisitos que para el caso se establezcan en este Reglamento.
