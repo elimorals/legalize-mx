@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1951-05-05"
+last_updated: "1951-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE MAYO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1951.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -211,7 +211,7 @@ La soberanía del Estado reside en el pueblo, y a nombre de este la ejerce el Po
 
 ###### Art. 21.
 
-El Estado adopta la forma de Gobierno establecida en el artículo 4° de esta Constitución.
+El Estado adopta la forma de Gobierno establecida en el artículo 4º de esta Constitución.
 
 ###### Art. 22.
 
@@ -1289,9 +1289,11 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las judiciales por los Juzgados de Paz.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE SEPTIEMBRE DE 1951)</small>
+
 ###### Art. 131.
 
-En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma.
+En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la Cabecera de la misma. En el Estado de Tamaulipas las mujeres participarán en las mismas condiciones que los varones para votar y ser votadas en los cargos de elección popular en los Municipios.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
@@ -1535,7 +1537,7 @@ Esta Constitución se promulgará desde luego por Bando solemne en todo el Estad
 
 ###### Art. 2º.
 
-Quedan derogadas todas las leyes , circulares y disposiciones, en cuanto se opongan a la presente Constitución.
+Quedan derogadas todas las leyes, circulares y disposiciones, en cuanto se opongan a la presente Constitución.
 
 ###### Art. 3º.
 
@@ -1551,7 +1553,7 @@ Los Magistrados del Supremo Tribunal de Justicia electos el día siete de noviem
 
 ###### Art. 6º.
 
-El Congreso tendrá en el año de mil novecientos veintiuno, tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
+El Congreso tendrá en el año de mil novecientos veintinno (sic), tres períodos de sesiones ordinarias: el primero, en el mes de febrero; el segundo, en los meses de abril, mayo y junio, estos dos improrrogables; y el tercero, prorrogable hasta por un mes, en los meses de septiembre, octubre y noviembre. En estos períodos se ocupará especialmente de expedir las leyes que sean necesarias para la reorganización de los servicios públicos, de conformidad con los preceptos de esta Constitución, ya sea que la iniciativa de ellas se haga por el mismo Congreso o por el Ejecutivo.
 
 ###### Art. 7º.
 
@@ -1752,3 +1754,7 @@ P.O. 5 DE MAYO DE 1951.
 1o.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
 2o.- Queda derogado el Decreto No. 49 expedido por el H. Congreso Constitucional de esta Entidad Federativa, el 25 de enero de 1949.
+
+P.O. 19 DE SEPTIEMBRE DE 1951.
+
+UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
