@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2001-12-13"
+last_updated: "2002-12-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE DICIEMBRE DE 2002.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -673,7 +673,7 @@ XVII. Prestar consultoría a título oneroso a personas de derecho privado;
 
 XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadísticas sobre la situación sanitaria de la entidad, respecto a la materia de su especialización;
 
-XIX.- Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
+XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
 
 ## TITULO SEGUNDO. De la educación
 
@@ -5871,7 +5871,7 @@ II. Tratándose de las fracciones II y III, el beneficiario deberá devolver los
 
 ## TITULO SEGUNDO. Del fomento empresarial
 
-### CAPITULO TERCER. De la educación regular y especial
+### CAPITULO TERCERO. De la educación regular y especial
 
 ###### Artículo 10.
 
@@ -6369,6 +6369,14 @@ VI. Facilitar la adquisición de dispositivos, prótesis, herramientas, accesori
 
 16.- Para fomentar el desarrollo de programas públicos de atención médica a personas con capacidades diferentes, el Sistema Estatal de Desarrollo Integral de la Familia del Estado de México, en coordinación con el Consejo Estatal para la Protección de las Personas con Capacidades Diferentes y su Integración al Desarrollo Social, y las dependencias y organismos auxiliares estatales del sector salud, promoverá la canalización de recursos y apoyo técnico para investigación, prevención, curación y rehabilitación de personas con capacidades diferentes.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+El Ejecutivo del Estado podrá aprobar programas de becas para la atención de personas con capacidades diferentes, en especial para niños mexiquenses con alguna limitación física, sensorial o intelectual, con el objeto de que tengan acceso a recursos que se destinen a cubrir los gastos para su rehabilitación e incorporación a la sociedad.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2002)</small>
+
+Para la ejecución de los programas, el Ejecutivo del Estado designará las dependencias u organismos auxiliares de la administración pública estatal que deban coordinarse con los sectores público, social y privado.
+
 ###### Artículo 11.
 
 17.- La Secretaría de Salud emitirá el cuadro básico que agrupará, caracterizará y codificará los insumos para la atención de las personas con capacidades diferentes, al que deberán ajustarse las dependencias e instituciones que presten servicios de salud a estas personas.
@@ -6680,3 +6688,13 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 6 DE DICIEMBRE DE 2002.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor el día de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- La Secretaría de Finanzas y Planeación, de Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para la instrumentación y ejecución de los programas de becas para la atención de personas con capacidades diferentes, en especial para niños mexiquenses con alguna limitación física, sensorial o intelectual.
