@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1987-10-13"
+last_updated: "1991-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1991.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -242,6 +242,26 @@ III.- Por comprometerse, en cualquier forma, ante ministro de algún culto o ant
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
 ART. 14.- El Estado de San Luis Potosí es parte integrante de la Federación Mexicana. Adopta, para su régimen interior, la forma de gobierno republicano, representativo y popular; y se ejerce por medio de los Poderes Legislativos, Ejecutivo y Judicial, sin que puedan reunirse dos o más de éstos en una sola corporación o persona, excepto el caso de facultades extraordinarias concedidas al Ejecutivo, en los términos que establece la presente Constitución.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
+Los partidos políticos son entidades de interés público.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso a éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
+Los partidos políticos con registro nacional o estatal tendrán derecho a participar en las elecciones estatales y municipales, a condición de observar lo dispuesto por la ley de la materia.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
+Corresponde a los ciudadanos, Ayuntamientos, partidos y el Gobierno del Estado, la preparación, desarrollo y vigilancia de los procesos electorales.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 1991)</small>
+
+La Ley determinará los organismos que tentrán (sic) a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por etsa (sic) Constitución y las leyes que de ella emanen. Instituirá un Tribunal de lo contencioso electoral que endrá (sic) la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y sólo podrán ser modificadas por el Colegio Electoral de la Cámara de Diputados, que será la última instancia de la calificación de las elecciones; sus resoluciones tendrán el carácter de definitivas.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
 
@@ -1396,3 +1416,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 13 DE OCTUBRE DE 1987.
 
 UNICO.- Las reformas contenidas en el presente Decreto, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, excepto las contenidas en el Artículo 67, las cuales tendrán vigencia a los treinta días de su publicación.
+
+P.O. 22 DE FEBRERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+La presente reforma deberá remitirse a los Ayuntamientos para que la aprueben con el quórum que señala el Artículo 120 Constitucional.
+
+###### ARTICULO SEGUNDO.
+
+Después deberá procederse a su publicación en el Periódico Oficial del Estado y entrará en vigor al día siguiente en que se publique.
