@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2003-12-27"
+last_updated: "2004-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2004.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1115,7 +1115,11 @@ XI.- Aprovechar el poder o autoridad propios del empleo, cargo o comisión que d
 
 XII.- El servidor público que teniendo conocimiento de una privación ilegal de libertad, no la haga cesar si esto estuviere dentro de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2004)</small>
+
 195.- Al que cometa el delito de abuso de autoridad se le impondrá prisión de seis meses a seis años, multa de cinco a cincuenta cuotas y destitución de empleo.
+
+Lo anterior sin perjuicio de que se imponga hasta por seis años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1994)</small>
 
@@ -1137,13 +1141,21 @@ I.- La persona encargada de un servicio público del Estado, o descentralizado, 
 
 II.- El que dé u ofrezca dinero o cualquiera otra dádiva a la persona encargada de un servicio público del Estado, Municipal o descentralizado o de participación estatal, sea o no servidor público, para que haga u omita un acto lícito o ilícito relacionado con sus funciones.
 
-198.- El delito de cohecho se sancionará con tres meses a cinco años de prisión y multa equivalente a dos tantos del beneficio obtenido, solicitado u ofrecido; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal, siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2004)</small>
+
+198.- El delito de cohecho se sancionará con uno a seis años de prisión y multa equivalente a dos tantos del beneficio obtenido, solicitado u ofrecido; al cohechado se le impondrá además la destitución de su empleo, cargo o comisión, pero el cohechador quedará libre de toda responsabilidad penal, siempre que haya obrado por coacción moral y que dentro de los cinco días siguientes a la comisión del delito ponga los hechos en conocimiento del Ministerio Público y pruebe aquella circunstancia.
 
 ### CAPITULO V. PECULADO
 
 199.- Comete el delito de peculado el servidor público del Estado, Municipio u organismo descentralizado, aún cuando sea en comisión por tiempo limitado y no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto, dinero, valores, fincas o cualquier otra cosa perteneciente al Estado, a un Municipio, a un organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
-200.- Al que cometa el delito de peculado se le impondrán de seis meses a seis años de prisión, multa equivalente a dos tantos del beneficio obtenido y destitución de empleo o cargo e inhabilitación para desempeñar otros, de seis meses a tres años si el monto del beneficio obtenido no excede de cien veces el salario mínimo mensual y de tres a diez años si excede de dicho límite.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2004)</small>
+
+200.- Al que cometa el delito de peculado se le impondrán de uno a diez años de prisión, multa equivalente a dos tantos del beneficio obtenido y destitución de empleo o cargo.
+
+Lo anterior sin perjuicio de que cuando el monto del beneficio obtenido no excediere de cien veces el salario mínimo general mensual se imponga hasta por tres años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquellos de los considerados bajo la naturaleza jurídica de honoríficos.
+
+Si el monto del beneficio obtenido excediere del límite a que se refiere el párrafo anterior, la inhabilitación será de tres a diez años.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1989)</small>
 
@@ -1175,9 +1187,13 @@ III.- Abrieren o consintieren abrir sin la autorización correspondiente, papele
 
 ### CAPITULO VIII. ENRIQUECIMIENTO ILICITO
 
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2004)</small>
+
 205.- Al servidor público que con motivo de su empleo, cargo o comisión en el servicio público, haya incurrido en enriquecimiento ilícito, se le impondrá de uno a nueve años de prisión y de cincuenta a doscientos cincuenta cuotas, además del decomiso de los bienes cuya procedencia no se logre acreditar.
 
-Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre o de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
+Lo anterior sin perjuicio de que se imponga hasta por diez años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal, aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
+
+Se presumirá que existe enriquecimiento ilícito, cuando el servidor público no pudiere acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre (sic) de aquellos respecto de los cuales se conduzca como dueño, en los términos de la Ley de Responsabilidades de los Servidores Públicos.
 
 La comisión del delito deberá probarse de acuerdo con esta Ley.
 
@@ -1194,6 +1210,10 @@ III.- Otorgue indebidamente contratos, concesiones, permisos, licencias, autoriz
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1993)</small>
 
 IV.- Otorgue contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras, ventas o realice cualquier acto jurídico que produzca y transfiera algún beneficio económico al propio servidor público, a persona con la que tenga parentesco por consanguinidad o afinidad hasta el segundo grado, o relación directa de trabajo; a personas colectivas de las que el servidor público o las personas aludidas formen parte; y a personas que no satisfagan los requisitos legales exigidos para tener derecho al beneficio.
+
+> <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2004)</small>
+
+Lo anterior sin perjuicio de que se imponga hasta por cuatro años la pena de inhabilitación para desempeñar cualquier cargo o función pública, estatal o municipal aún aquéllos de los considerados bajo la naturaleza jurídica de honoríficos.
 
 ### CAPITULO I. DELITOS COMETIDOS EN LA ADMINISTRACION DE JUSTICIA Y EN OTROS RAMOS DEL PODER PUBLICO
 
@@ -2988,3 +3008,7 @@ P.O. 27 DE DICIEMBRE DE 2003.
 DECRETO NO. 348 QUE ADICIONA ART. 183-bis
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE JUNIO DE 2004
+
+UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
