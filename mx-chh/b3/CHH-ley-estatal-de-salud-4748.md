@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-4748"
 country: "mx"
 rank: "ley"
 publication_date: "1987-03-11"
-last_updated: "2000-05-31"
+last_updated: "2003-03-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 2003.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 11 de marzo de 1987.
 
@@ -1357,6 +1357,10 @@ II.- Contar, en su caso, con un responsable que reúna los requisitos que determ
 
 III.- Contar, en su caso, con los auxiliares del responsable que determinen los reglamentos, en atención al volumen de productos que se manejen, las líneas de producción, la duración y el horario de la jornada de operaciones. La autoridad sanitaria competente podrá dispensar este requisito, previo estudio fundado y motivado.
 
+> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2003)</small>
+
+ARTICULO 166 BIS.- Tratándose de moteles, establecimientos autorizados para expender e ingerir bebidas embriagantes en los términos de la Ley respectiva y demás lugares que determine la reglamentación respectiva, deberán expender en dichos sitios, preservativos masculinos.
+
 ### CAPITULO IV. PANTEONES
 
 ###### ARTICULO 167.
@@ -2204,3 +2208,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en un término de noventa días contados apartir (sic) del siguiente día en que se publique en el Periódico Oficial del Estado.
+
+P.O. 12 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los establecimientos a que se refiere el artículo 166 Bis de la mencionada Ley, deberán dar cumplimiento a lo dispuesto por dicho artículo, en un término de 60 días, a partir de la entrada en vigor del presente Decreto.
