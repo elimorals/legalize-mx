@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1937-10-03"
+last_updated: "1937-10-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE OCTUBRE DE 1937.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -615,7 +615,9 @@ II. No pertenecer al Estado eclesiástico, ni ser ministro de culto alguno; sabe
 
 III. No estar, al celebrarse las elecciones, en funciones de Gobernador, como sustituto, por falta temporal o absoluta del Gobernador Constitucional.
 
-IV. No ser Militar en servicio activo desde un año antes de la elección.
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1937)</small>
+
+IV. No ser militar en servicio desde seis meses anteriores al día de la elección.
 
 V. No ser Secretario General del Despacho, Procurador de Justicia, Magistrado Propietario ó Supernumerario en funciones, ni empleado de la Federación, salvo que han dejado el cargo desde los noventa días anteriores al de la elección.
 
@@ -685,9 +687,9 @@ VIII.- Hacer observaciones dentro del término de diez días a las leyes que exp
 
 IX - Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1933)</small>
+> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 1937)</small>
 
-X.- Presentar el mismo día de la apertura del primer período de sesiones del Congreso, una memoria del estado de la Administración Pública.
+X.- Presentar el día 15 de septiembre de cada año ante el H. Congreso del Estado, una memoria del estado de la Administración Pública.
 
 XI.- Convocar a la Legislatura a sesiones extraordinarias, por sí y cuando lo acordare la Diputación permanente.
 
@@ -1166,5 +1168,17 @@ P.O. 8 DE DICIEMBRE DE 1935.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
 
 P.O. 3 DE OCTUBRE DE 1937.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 7 DE OCTUBRE DE 1937.
+
+DECRETO No. 286.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
+
+P.O. 7 DE OCTUBRE DE 1937.
+
+DECRETO No. 287.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
