@@ -4,7 +4,7 @@ identifier: "VER-ley-de-hacienda-del-estado-de-veracruz-llave-6578"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1993-12-28"
+last_updated: "1994-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE HACIENDA DEL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE DICIEMBRE DE 1993
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 1994.
 
 Ley publicada en la Gaceta Oficial. Organo del Gobierno del Estado de Veracruz-Llave, el sábado 31 de diciembre de 1983.
 
@@ -977,19 +977,19 @@ VI.- Por la inscripción de cualquier tipo de testamentos, contratos de depósit
 
 VII.- Por la inscripción de escrituras constitutivas de sociedades civiles o mercantiles o de aumento de capital sobre el importe del capital o su aumento.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 a).-Hasta N$1,000.00 6 Salarios Mínimos.
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 b).-Por lo que exceda de N$1,000.00 por cada N$100.00 o fracción. N$0.02
 
-> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 1992)</small>
 
 c).- Inscripción de actas y estatutos, de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa sobre el capital social, por cada N$10.00 o fracción. N$0.015
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 d).- Por la inscripción de documentos cuando se modifique el capital de sociedades de capital variable
 
@@ -1125,6 +1125,10 @@ i).-Las inscripciones de los títulos a que se refiere el artículo siete del De
 
 j).-Las inscripciones preventivas a que se refiere el artículo 2951 del Código Civil del Estado.
 
+> <small>(ADICIONADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+
+k).-La inscripción de los contratos traslativos de dominio que en atención a los fines que persiguen, se otorguen por: La Comisión para la Regularización de la Tenencia de la Tierra (CORETT), el Fondo de Vivienda para los Trabajadores al Servicio del Estado (FOVISSSTE), el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT); El Instituto de Pensiones del Estado (IPE); el Instituto Veracruzano de la Vivienda (INVERVI); y la Dirección General de Patrimonio del Estado.
+
 > <small>(ADICIONADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 46-A.
@@ -1159,25 +1163,33 @@ Por los servicios que presta la Editora de Gobierno del Estado, se causarán y p
 
 I.- Publicaciones:
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 a).-Edicto de interés pecuniario, como las prescripciones positivas, denuncias de juicio sucesorio, aceptación de herencia, remates, convocatorias para fraccionamientos.
 
-Palabra por inserción N$1.50
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+Palabra por inserción: N$ 0.75
 
-b).- Edicto de Interés Social, como: cambio de nombre, póliza de defunción.
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
-Palabra por inserción N$0.10
+b).- Palabra por inserción N$ 1.00
 
-> <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1993)</small>
+Edicto de interés social, como cambio de nombre, póliza de defunción.
+
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+
+Palabra por inserción: N$ 0.50
+
+> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
 
 c) Cortes de caja, balances o cualquier documento de formación especial. Por plana.
 
 6 salarios mínimos
 
-N$ 300.00
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
+
+Por Plana: N$ 150.00
 
 II.-Ventas:
 
@@ -1313,13 +1325,11 @@ C).-El uso y almacenamiento de explosivos.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 30 DE DICIEMBRE DE 1989)</small>
 
-### CAPITULO SEXTO. DE LOS DERECHOS POR SERVICIOS PRESTADOS
+### CAPITULO SEXTO
 
-POR LA SECRETARIA DE COMUNICACIONES
+DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA SECRETARIA DE COMUNICACIONES.
 
-DIRECCION GENERAL DE COMUNICACIONES
-
-DEPARTAMENTO DE TELECOMUNICACIONES
+DIRECCION GENERAL DE TELECOMUNICACIONES.
 
 > <small>(REFORMADO, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1435,9 +1445,9 @@ Por revalidación Anual
 
 50 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-VII.-Por Servicios de control vehicular:
+VII.- Por servicios de control vehicular:
 
 > <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1451,9 +1461,9 @@ B).-Reposición de una placa.
 
 4 salarios mínimos
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-C).-Canje anual de engomado y tarjeta de circulación.
+C).-Canje anual de calcomanía y tarjeta de circulación:
 
 4 salarios mínimos
 
@@ -1469,9 +1479,9 @@ E).-Baja de vehículos correspondientes a la misma localidad.
 
 1 salario mínimo
 
-> <small>(REFORMADA, G.O. 24 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-F).-Baja de vehículos correspondientes a otra Delegación de Tránsito o Entidad Federativa.
+F).-Baja de vehículos correspondientes a otra Entidad Federativa:
 
 8 salarios mínimos
 
@@ -1531,6 +1541,12 @@ G).-Expedición de permisos temporales.
 
 Por día 0.50 salarios mínimo
 
+> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
+
+H).-Por la expedición de nuevas placas por reasignaciones otorgadas por la Dirección General de Tránsito y Transporte del Estado:
+
+8 salarios mínimos
+
 > <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
 
 IX.-Por la Prestación de otros Servicios:
@@ -1575,27 +1591,23 @@ XI.- Por la transmision por sucesion de los derechos de concesion para prestar e
 
 De 100 a 1000 Salarios Mínimos
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-XII.-Por el otorgamiento de permiso para prestar el servicio de grúas.
+XII.-Por el otorgamiento de concesión para prestar el servicio público de grúas:
 
-Por grúa
+Por grúa. 150 salarios mínimos
 
-80 salarios mínimos
+Revalidación anual: 60 salarios mínimos
 
-Revalidación anual
+> <small>(REFORMADA, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
-40 salarios mínimos
+XIII.-Por la autorización para prestar el servicio público de déposito y custodia de vehículos, de acuerdo con el Reglamento de Tránsito y Transporte:
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 1990)</small>
+150 salarios mínimos
 
-XIII.- Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el reglamento de tránsito y Transporte.
+Revalidación anual:
 
-60 salarios mínimos
-
-Revalidación anual
-
-30 salarios mínimos
+100 salarios mínimos
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE DICIEMBRE DE 1991)</small>
 
@@ -1627,7 +1639,7 @@ II.-Por la certificación de documentos públicos que hayan sido expedidos por l
 
 0.25 salario mínimo
 
-> <small>(REFORMADA SU DENOMINACION, G.O. 29 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINCACION, G.O. 17 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO OCTAVO. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA DIRECCION GENERAL
 
@@ -3376,3 +3388,9 @@ EL PRESENTE ORDENAMIENTO ENTRARA EN VIGOR EL DIA 1° DE ENERO DE 1994, PREVIA PU
 ###### ARTICULO SEGUNDO.
 
 SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE ORDENAMIENTO.
+
+G.O. 17 DE DICIEMBRE DE 1994.
+
+PRIMERO.-El presente ordenamiento entrará en vigor el día 1° de enero de 1995, previa su publicación en la "Gaceta Oficial", Órgano del Gobierno del Estado.
+
+SEGUNDO.-Se derogan todas las disposiciones que se opongan al presente ordenamiento.
