@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1948-06-20"
+last_updated: "1948-07-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 1948.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -283,7 +283,9 @@ XIX.- Investir al Gobernador de facultades extraordinarias, cuando por circunsta
 
 XX.- Formar su Reglamento interior y dictar las disposiciones necesarias para el servicio de sus oficinas.
 
-XXI.- (DEROGADA, P.O. 20 DE AGOSTO DE 1945)
+> <small>(ADICIONADA, P.O. 25 DE JULIO DE 1948)</small>
+
+XXI.- El Congreso se reunirá en Sesión Solemne el día primero de octubre de cada año, para recibir el informe que el Ejecutivo del Estado le deberá rendir sobre el estado que guarden los diversos ramos de la Administración Pública.
 
 ### CAPITULO CUARTO.
 
@@ -398,6 +400,14 @@ I.- Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes, haciendo us
 > <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 1944)</small>
 
 II.- Presentar al Congreso cada año, al día siguiente de la apertura del primer período de sesiones ordinarias, un informe, por escrito, sobre el estado que guarden los diversos ramos de la Administración Pública, y, a más tardar el día diez de diciembre, los Proyectos de Presupuesto de Ingresos y de Egresos del Estado, para el siguiente ejercicio fiscal.
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1948)</small>
+
+a).- Presentar al Congreso, el día primero de octubre de cada año, un informe sobre el estado que guarden los diversos ramos de la Administración Pública, y
+
+> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1948)</small>
+
+b).- A más tardar el día diez de diciembre presentar los proyectos de Presupuestos de Ingresos y Egresos del Estado, para el siguiente ejercicio fiscal.
 
 III.- Asistir a la apertura del primer período de sesiones del Congreso y presentar por escrito cuando se abra un período de sesiones extraordinarias promovido por él, las razones o causas que hicieron necesaria la convocatoria.
 
@@ -782,3 +792,7 @@ UNICO.- Este Decreto entrará en vigor diez días después de su publicación en
 P.O. 20 DE JUNIO DE 1948.
 
 UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Gobierno de Estado.
+
+P.O. 25 DE JULIO DE 1948.
+
+Este decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Gobierno del Estado.
