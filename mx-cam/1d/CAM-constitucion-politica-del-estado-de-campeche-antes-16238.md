@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1998-11-25"
+last_updated: "1999-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 1999.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -951,7 +951,7 @@ El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Est
 
 El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 1997)</small>
 
 ###### ARTICULO 71.
 
@@ -1089,11 +1089,11 @@ Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despac
 
 Las faltas de los Secretarios de las dependencias de la Administración Pública serán suplidas en la forma que determine la correspondiente Ley Orgánica.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 1999)</small>
 
 ###### ARTICULO 75.
 
-La Ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos por el Gobernador, de acuerdo con la ley respectiva. El Ministerio Público estará presidido por un Procurador General de Justicia del Estado, quien deberá satisfacer los requisitos que señala el artículo 79, y será designado y removido por el Gobernador con ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
+La Ley organizará el Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos por el Gobernador, de acuerdo con la ley respectiva. El Ministerio Público estará presidido por un Procurador General de Justicia del Estado, quien deberá satisfacer los requisitos que señala el artículo 79, con excepción de la edad, que no podrá ser menor de treinta años; y será designado y removido por el Gobernador con ratificación del Congreso del Estado o, en sus recesos, de la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -1459,7 +1459,7 @@ V.- Cada Comisaría Municipal será administrada por una sóla persona, auxiliar
 
 Los presidentes, regidores, síndicos y comisarios durarán en sus cargos tres años.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ABRIL DE 1992)</small>
 
 ###### ARTICULO 103.
 
@@ -1917,7 +1917,7 @@ ART. UNICO.- La presente reforma entrará en vigor al día siguiente de su publi
 
 P.O. 23 DE DICIEMBRE DE 1961.
 
-UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, órgano del Gobierno del Estado.
 
 P.O. 14 DE JULIO DE 1964.
 
@@ -2078,3 +2078,9 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del pre
 P.O. 25 DE NOVIEMBRE DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE ENERO DE 1999.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente Decreto.
