@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1942-07-22"
+last_updated: "1942-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1942.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -169,13 +169,17 @@ Los ciudadanos nuevoleoneses, reunidos en sus respectivas secciones en los días
 
 Fuera del caso de delito infraganti, ningún ciudadano puede ser arrestado el día de las elecciones ni la víspera. En caso de delito infraganti la autoridad tomará las providencias necesarias para la aprehensión del delincuente, una vez que haya depositado su voto.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
+
 ###### Art. 44.
 
-La ley reglamentaria determinará las obligaciones y facultades de los Partidos Políticos y de los candidatos independientes, garantizando ampliamente sus derechos; dispondrá detalladamente la forma, procedimientos y demás requisitos con que deben celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales y en Fracciones Judiciales, señalando los Municipios que, correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; designará quienes no tienen derecho a votar; precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirla y resolverla, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
+La Ley reglamentaria determinará las obligaciones y facultades de los Partidos Políticos y de los candidatos independientes, garantizando ampliamente sus derechos; dispondrá detalladamente la forma, procedimientos y demás requisitos con que deben celebrarse las elecciones, en el concepto de que cada asamblea electoral resolverá las dudas que se ofrezcan sobre la calidad de sus propios miembros; dividirá el Estado en Distritos Electorales y en Sectores Judiciales, señalando los Municipios que correspondan a cada uno; establecerá los derechos y obligaciones de los votantes; disignará quienes no tienen derecho a votar; precisará los casos de nulidad de una elección, acordándose los trámites a que debe sujetarse el procedimiento para pedirle y resolverla, y establecerá las penas que deben aplicarse a los infractores de sus disposiciones.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
 ###### Art. 45.
 
-El censo electoral se levantará cada cuatro años y precisamente en el que corresponda a la elección de Gobernador.
+El censo electoral se levantará cada seis años y precisamente en el que corresponda a la elección de Gobernador.
 
 ## TITULO IV.
 
@@ -661,9 +665,9 @@ Las faltas temporales de los Magistrados se cubrirán por los Supernumerarios, e
 
 Para ser Magistrado y Procurador de Justicia se requiere:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 1937)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1942)</small>
 
-I.- Ser ciudadano mexicano por nacimiento y Ciudadano Nuevoleonés, nativo del Estado, en ejercicio de sus derechos civiles y políticos;
+I.- Ser ciudadano mexicano por nacimiento y ciudadano nuevoleonés, nativo del Estado o con residencia en el mismo por más de diez años consecutivos e inmediatamente anteriores a la fecha de la elección, en ejercicio de sus derechos civiles y políticos;
 
 II.- Tener treinta años de edad cumplidos para la fecha de la elección o nombramiento;
 
@@ -1262,3 +1266,7 @@ P.O. 22 DE JULIO DE 1942.
 ###### ARTICULO SEGUNDO.
 
 Estas reformas empezarán a regir el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1942.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
