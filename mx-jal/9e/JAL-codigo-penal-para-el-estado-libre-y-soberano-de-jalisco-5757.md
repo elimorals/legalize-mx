@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1999-01-14"
+last_updated: "1999-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE MARZO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -2087,7 +2087,7 @@ A los agentes del Ministerio Público, de la Policía Investigadora o de las pol
 
 Si se aplica la violencia en la detención, la pena se aumentará de uno a tres años de prisión.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO I. De las Definiciones
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2097,7 +2097,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO I. De las Definiciones
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2117,7 +2117,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2131,7 +2131,7 @@ II. Al que obligue a otro a prestar trabajos o servicios personales, ya sea empl
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 14 DE ENERO DE 1999)</small>
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2769,23 +2769,23 @@ Si el daño previsto en el Art. 259 de este Código, se produce en las especies 
 
 Al responsable de los ilícitos a que se refieren los artículos anteriores, cuando se trata de pies de cría o sementales en producción para mejoramiento genético de la especie, se le aumentará la pena hasta en una tercera parte más de la que le corresponda, y la multa será de veinte a doscientos días de salario.
 
-> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1999)</small>
 
 ###### Art. 242.
 
-Las mismas sanciones que señalan los artículos anteriores según el caso, se impondrán a los que adquieran dos o más animales robados o producto de abigeato; a las autoridades que intervengan en la legalización de documentos que acrediten la propiedad de esos animales, si no tomaron aquellas o estas, las medidas ordinarias para cerciorarse de la procedencia legítima de los animales; así como el que proteja dos o más cabezas de animales robados o que provengan de abigeato, con documentación alterada o expedida para otro.
+Las mismas sanciones que señalan los artículos anteriores, según el caso, se impondrán a los que a sabiendas de su origen ilegal adquieran animales producto de abigeato; así como al que proteja dos o más cabezas de animales robados o que provenga de abigeato, con documentación alterada o expedida para otro.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 1998)</small>
 
 Iguales sanciones se impondrán a los vaqueros pastores o cualquier otro encargado de la custodia, vigilancia o traslado de los animales, que cometan alguno de los delitos previstos en los artículos anteriores.
 
-(REFORMADO, P.O. 29 DE JULIO DE 1989) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 1989)
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 1999)</small>
 
 ###### Art. 243.
 
-Al que transporte ganado sin haber tomado las medidas para cerciorarse de su procedencia legítima, se le impondrán de seis meses a cuatro años de prisión y multa por el importe de dos a veinte días de salario, si resulta que se trata de animales robados.
+Al que a sabiendas de su origen ilegal transporte ganado producto de abigeato, se le aplicarán las sanciones que respectivamente señalan los artículos 240, 241 bis y 242.
 
-Si el transporte se hace a sabiendas de que se trata de animales robados, o provenientes de abigeato, se aplicarán las sanciones que, respectivamente, señalan los Arts. 240, 241-bis y 242.
-
-Al que a sabiendas comercie con pieles, carnes u otros derivados obtenidos del robo de animales o del abigeato, se le impondrán de dos a seis años de prisión y multa por el importe de veinte a ochenta días de salario.
+Se le impondrá una pena de dos a sesis (sic) años de prisión y multa por el importe de veinte a ochenta días de salario, al que a sabiendas de su origen ilegal, comercie con pieles, carnes u otros derivados obtenidos del robo de animales o del abigeato.
 
 ###### Art. 244.
 
@@ -3115,7 +3115,7 @@ V. Propale dolosamente noticias falsas en torno al desarrollo de la jornada elec
 
 VI. Impida con violencia la instalación; apertura o cierre de una casilla.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 270.
 
@@ -3126,8 +3126,6 @@ I. Obligue a sus subordinados a emitir su voto en favor de un candidato o partid
 II. Condicione la prestación de un servicio público, el cumplimiento de programas o la realización de obras públicas a la emisión del sufragio en favor de un partido político o candidato; o
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
@@ -3178,6 +3176,8 @@ Por la comisión de cualesquiera de los delitos comprendidos en el presente cap�
 ###### Art. 278.
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos del artículo 11 de este Código, no podrán gozar del beneficio de la libertad provisional.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ## TRANSITORIOS
 
@@ -3366,3 +3366,7 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. Para los efectos de adecuación del orden jurídico, se deberán realizar las reformas y adiciones a las leyes que correspondan.
 
 CUARTO. Se ordena dar profusa difusión periódica al presente decreto en los medios de comunicación electrónicos y escritos de mayor cobertura, difusión y circulación en el Estado.
+
+P.O. 18 DE MARZO DE 1999.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
