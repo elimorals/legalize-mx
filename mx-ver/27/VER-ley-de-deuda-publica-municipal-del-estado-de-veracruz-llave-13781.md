@@ -4,7 +4,7 @@ identifier: "VER-ley-de-deuda-publica-municipal-del-estado-de-veracruz-llave-137
 country: "mx"
 rank: "ley"
 publication_date: "1997-06-12"
-last_updated: "1997-06-12"
+last_updated: "2002-11-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE DEUDA PUBLICA MUNICIPAL DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO HACENDARIO MUNICIPAL PARA EL ESTADO DE VERACRUZ-LLAVE, PUBLICADO EN LA G.O. DE 22 DE NOVIEMBRE DE 2002.
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 12 de junio de 1997.
 
@@ -314,3 +316,21 @@ Dada en el salón de sesiones de la Honorable Quincuagésima Séptima Legislatur
 En cumplimiento de lo dispuesto por la fracción I del artículo 87 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Estatal, en la ciudad de Xalapa-Enríquez, Veracruz, a los once días del mes de junio de mil novecientos noventa y siete.
 
 Patricio Chirinos Calero, Gobernador Constitucional del Estado.-Miguel Angel Yunes Linares, Secretario General de Gobierno.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 22 DE NOVIEMBRE DE 2002.
+
+Primero. El presente Código entrará en vigor el día 1 de enero de 2003, previa publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se abroga la Ley de Deuda Pública Municipal del Estado de Veracruz-Llave, y se derogan la Ley de Hacienda Municipal del Estado de Veracruz-Llave y todas las disposiciones que se opongan al presente Código.
+
+Tercero. Los ordenamientos que aludan a las leyes que se señalan en el artículo anterior se entenderán referidos al presente Código.
+
+Cuarto. Las contribuciones, los créditos fiscales y los procedimientos administrativos generados bajo la vigencia de la Ley de Hacienda Municipal que se deroga, se cobrarán, tramitarán y resolverán conforme a dicho ordenamiento legal hasta su conclusión.
+
+Quinto. Las Leyes de Ingresos de los Municipios para el ejercicio fiscal del año 2003 deberán contener las previsiones de ingresos por los conceptos establecidos en el Libro Tercero del presente Código.
+
+Sexto. Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo Sexto Transitorio de la Ley de Catastro, entrarán en vigor a partir del 1 de enero del año 2004.
+
+Séptimo. Por esta única y exclusiva vez, y sin que siente precedente, previo acuerdo de la Comisión Permanente de Vigilancia del Congreso del Estado, se autoriza a los Ayuntamientos a cubrir, con recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios del año 2002, la deuda pública documentada, aprobada por el Cabildo, siempre que ésta no haya excedido del cuarenta por ciento de aquel Fondo.
