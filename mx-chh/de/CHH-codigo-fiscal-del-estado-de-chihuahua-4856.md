@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1986-12-31"
+last_updated: "1988-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE ENERO DE 1988.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -393,15 +393,17 @@ Cuando se omita la presentación de declaraciones para el pago de impuestos prop
 
 45.- La falta de pago de un crédito fiscal en la fecha o término establecido en las disposiciones respectivas, determina que el crédito sea exigible.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 1988)</small>
 
-46.- El Tesorero General del Estado podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+46.- El Director General de Finanzas del Estado podrá conceder prórrogas para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el término dentro del cual deben pagarse las parcialidades no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a Ejercicios Fiscales anteriores, o de situaciones excepcionales, casos en los cuales el término podrá ser hasta de tres años.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 En los casos a que se refiere este precepto deberá garantizarse el interés fiscal, salvo que proceda dispensar la garantía.
 
-> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO, P.O. 13 DE ENERO DE 1988)</small>
 
-Durante los términos concedidos se causarán intereses hasta el 5.5% mensual, a juicio del Tesorero.
+Durante los términos concedidos se causarán intereses hasta el 8.5% mensual, a juicio del Director General de Finanzas.
 
 47.- Vencerán anticipadamente los términos y la autorización para pagar en parcialidades y el crédito fiscal será inmediatamente exigible:
 
@@ -425,9 +427,9 @@ Las autoridades, a solicitud del interesado expresada en el momento de hacer el 
 
 La protesta quedará sin efecto y el pago se considerará definitivo desde la fecha en que se hizo el entero respectivo, cuando no se promuevan dentro del término legal los recursos o medios de defensa o fueren rechazados o sobreseídos o cuando de la resolución que se dicte resultare la procedencia del pago.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE FEBRERO DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ENERO DE 1988)</small>
 
-50.- Los causantes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 8.25% por cada mes o fracción que transcurra, a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
+50.- Los contribuyentes y responsables solidarios que no paguen los créditos fiscales que les sean exigibles, deberán cubrir recargos por la mora; la tasa será de un 12.75% por cada mes o fracción que transcurra a partir de la fecha de exigibilidad, hasta que se efectúe el pago. Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, los gastos de ejecución y las multas por infracciones a disposiciones fiscales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1605,7 +1607,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -4372,3 +4374,9 @@ P.O. 31 DE DICIEMBRE DE 1986.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor en todo el Estado a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ENERO DE 1988.
+
+###### ARTICULO UNICO
+
+El presente Decreto entrará en vigor en todo el Estado al día siguiente de su publicación en el Periódico Oficial del Estado.
