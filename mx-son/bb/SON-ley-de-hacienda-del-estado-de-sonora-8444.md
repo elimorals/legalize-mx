@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1992-12-31"
+last_updated: "1993-07-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1993.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976
 
@@ -1599,6 +1599,10 @@ III.- (DEROGADA, B.O. 29 DE DICIEMBRE DE 1983)
 
 IV.- Cuando no sea posible especificar en forma separada el valor de los muebles e inmuebles: 3%.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 8 DE JULIO DE 1993)</small>
+
+Cuando el sujeto del impuesto acredite su calidad de jubilado o pensionado, en los términos del Artículo 298 del presente ordenamiento, se aplicará la tasa correspondiente, reducida en un 50%, siempre y cuando se trate de operaciones que no excedan de 3.2 veces el salario mínimo general diario vigente en el área geográfica de que se trate, elevado al año.
+
 ###### Artículo 189 Bis.
 
 (DEROGADO, B.O. 29 DE DICIEMBRE DE 1983)
@@ -1719,7 +1723,7 @@ V.- De dividendos.
 
 ###### Artículo 203.
 
-El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquél en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
+El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquel en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
 
 ###### Artículo 204.
 
@@ -1783,7 +1787,7 @@ V.- Las demás que impongan otras disposiciones fiscales.
 
 Los notarios ante quienes se celebre (sic) los contratos, actos u operaciones a que alude el Artículo 198 están obligados:
 
-I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a estos se haga, anexando copia de la escritura correspondiente;
+I.- Al informar a la Oficina recaudadora de su jurisdicción, dentro de los quince días siguientes a la celebración de dichos actos, convenios o contratos, así como de toda modificación que a éstos se haga, anexando copia de la escritura correspondiente;
 
 II.- A dar aviso, dentro del término de quince días siguientes, del otorgamiento de las escrituras en que se haga constar la extinción de las obligaciones que originan los ingresos gravables;
 
@@ -2773,6 +2777,32 @@ Las cuotas de los derechos serán iguales, para quienes reciban servicios análo
 
 Para la determinación de las cuotas de los derechos, se tendrá en cuenta el costo de dichos servicios o el uso que se haga de ellos y la situación económica del obligado.
 
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Cuando el solicitante acredite su calidad de jubilado o pensionado y sea el beneficiario directo del mismo, se aplicarán las cuotas correspondientes a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
+
+I.- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado para un solo vehículo de su propiedad.
+
+II.- Derechos por expedición de licencias para conducir.
+
+III.- Derechos por los servicios que presta el Registro Público de la Propiedad y,
+
+IV.- En general por la legalización de firmas, expedición de certificados y certificaciones por cuyos servicios deban pagarse derechos en los términos de la presente Ley.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Para los efectos anteriores, se consideran jubilados o pensionados, aquellas personas que acrediten la calidad correspondiente mediante la documentación oficial expedida por las Instituciones Públicas de Seguridad Social que a continuación se señalan:
+
+I.- Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado de Sonora;
+
+II.- Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado;
+
+III.- Instituto Mexicano del Seguro Social;
+
+IV.- Instituto de seguridad y Servicios Sociales de las Fuerzas Armadas Mexicanas, de Petróleos Mexicanos, de la Comisión Federal de Electricidad y de Ferrocarriles Nacionales de México;
+
+V.- Otras instituciones de Seguridad Social de la Federación, Estados o Municipios que presten estos servicios.
+
 ###### Artículo 299.
 
 En los Capítulos siguientes se señalan los servicios que quedan sujetos al pago de derechos y el importe de los mismos.
@@ -3727,6 +3757,14 @@ Para la ubicación en el rango correspondiente de las cuotas anteriores se tomar
 
 Tratándose de título que expida la Nación, el Gobierno del Estado y el H. Ayuntamiento, para satisfacer necesidades del interés social. En estos casos se se (sic) exceptúan de la obligación de la presentación del avalúo. N$ 100.00
 
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+En la adquisición de terrenos destinados a edificación de vivienda de interés social y popular cuyo valor al término de su edificación no exceda de la suma que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, en lugar de la tasa señalada en el punto 1 de este Artículo se causará y se pagará por cada operación, 1.75 al millar.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Para la aplicación de la tasa a que se refiere el párrafo anterior, deberá presentarse copia de la licencia de uso del suelo correspondiente, teniendo el solicitante del servicio el plazo de un año contado a partir de la fecha de inscripción, para edificar o desarrollar el predio, caso contrario deberá cubrir la diferencia que resulte de aplicar la tasa establecida en el Punto 1 de este Artículo.
+
 b) La inscripción de la Cláusula resolutiva en los contratos de compra-venta con reserva de dominio de bienes muebles e inmuebles.
 
 c) La inscripción o registro de contratos de fideicomiso traslativo de dominio, cesión de derechos gratuita u onerosa, donaciones y contratos de obra a precio alzado.
@@ -3748,10 +3786,6 @@ j) Disolución de sociedades conyugales sobre inmuebles y protocolización de co
 k) Por inscripción de embargos judiciales y administrativos.
 
 l) Declaración unilateral o información Ad-perpetuam sobre la construcción.
-
-> <small>(DEROGADA, B.O. 31 DE DICIEMBRE DE 1992)</small>
-
-TARIFA
 
 2.- La inscripción del documento en el que conste
 
@@ -3775,15 +3809,21 @@ fusiones predios rústicos o urbanos o se
 
 constituya el régimen de condominio. N$ 120.00
 
-Independientemente de la tarifa anterior se
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-cobrará en forma adicional por cada lote. N$ 20.00
+Tratándose de operaciones destinadas a edificación o adquisición de vivienda se aplicará la cuota reducida en un 50%.
 
-Tratándose de las operaciones antes señalas
+(REFORMADO, B.O. 8 DE JULIO DE 1993
 
-cuyo destino sea para casa habitación se
+Independientemente de la cuota anterior se cobrará en forma adicional por cada lote o local, N$ 20.00.
 
-aplicarán las cuotas reducidas en un 50 %.
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Tratándose de lotes para construcción de vivienda:
+
+a) Tipo residencial, N$ 6.00
+
+b) Tipo de interés social y popular cuyo valor al momento de la operación no exceda de la suma de multiplicar por el 25 el salario mínimo general elevado al año, vigente en el área geográfica de que se trate, N$ 3.00.
 
 7.- Los créditos hipotecarios, refaccionarios,
 
@@ -3863,31 +3903,73 @@ tratándose de créditos ya inscritos, del mismo
 
 acreedor se pagará. N$ 120.00
 
-15.- Certificados de no inscripción para obtención
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
 
-de becas y vivienda. N$ 10.00
+Los créditos hipotecarios para la adquisición de
+
+terrenos destinados a edificación de vivienda de
+
+interés social y popular cuyo valor al momento
+
+de la operación no exceda de la suma que resulte
+
+de multiplicar por 25 el salario mínimo general
+
+elevado al año, vigente en el área geográfica de
+
+que se trate, causarán sobre el importe de la
+
+operación, 1.75 al millar.
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Para la aplicación de la tasa a que se refiere el
+
+párrafo anterior, deberá presentarse copia de la
+
+licencia de uso del suelo correspondiente, teniendo
+
+el solicitante del servicio el plazo de un año
+
+contado a partir de la fecha de inscripción, para
+
+edificar o desarrollar el predio, caso contrario deberá
+
+cubrir la diferencia que resulte de aplicar la tasa
+
+establecida en el primer párrafo de este apartado.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+15.- Certificados de no propiedad para obtención
+
+de becas, N $ 10.00.
 
 16.- Certificados de no propiedad. N$ 40.00
 
-Tratándose de operaciones relativas a
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-vivienda el importe de la cuota que resulte
+Tratándose de operaciones relativas a vivienda de
 
-por la presentación de los servicios anteriores,
+interés social y popular cuyo valor al momento de
 
-se reducirá en un 50 %.
+la operación no exceda de la suma que resulte
 
-17.- Todos los demás certificados, así como
+de multiplicar por 25 el salario mínimo general
 
-la solicitud de información de antecedentes
+elevado al año, vigente en el área geográfica
 
-regístrales. N$ 60.00
+de que se trate, el importe de la cuota por la
 
-Tratándose de operaciones relativas a vivienda el
+prestación de los servicios a que se refiere este
 
-importe de la cuota que resulte por la prestación de
+punto se reducirá en un 75%.
 
-los servicios anteriores, se reducirá en un 50 %.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+17.- Por solicitud de información de antecedentes
+
+registrales, por persona N$ 15.00
 
 18.- Por la expedición de copias fotostáticas simples
 
@@ -3909,13 +3991,23 @@ o inmuebles, se pagarán por cada antecedente
 
 de las inscripciones. N$ 20.00
 
-Tratándose de cancelaciones de inscripciones
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-o de gravámenes recaídos sobre bienes
+Tratándose de cancelaciones de inscripciones o
 
-inmuebles destinados a vivienda la cuota se
+de gravámenes recaidos sobre bienes inmuebles
 
-aplicará reducida en un 50%.
+destinados a vivienda de interés social y popular
+
+cuyo valor al momento de la operación no exceda
+
+de la suma que resulte de multiplicar por 25 el
+
+salario mínimo general elevado al año, vigente
+
+en el área geográfica de que se trate, la cuota se
+
+aplicará reducida en un 75%.
 
 21.- Por cada anotación marginal que se
 
@@ -3923,15 +4015,25 @@ efectué al presentar cualquier documento
 
 público o privado para su registro. N$ 20.00
 
-Por cada anotación marginal que se efectué
+(REFORMADO, B.O. 8 DE JULIO DE 1993
 
-al presentar cualquier documento público
+Por cada anotación marginal que se efectúe al
 
-o privado para su registro relativo a adquisición
+presentar cualquier documento público o privado
 
-de inmuebles destinados a vivienda, la cuota se
+para su registro relativo a adquisición de inmuebles
 
-aplicará reducida en un 50 %.
+destinados a vivienda de interés social y popular
+
+cuyo valor al momento de la operación no exceda
+
+de la suma que resulte de multiplicar por 25 el salario
+
+mínimo general elevado al año, vigente en el área
+
+geográfica de que se trate, la cuota se aplicará
+
+reducida en un 75%.
 
 22.- Por anotación de segundo ejemplar cuando
 
@@ -3944,6 +4046,30 @@ sea simultánea la inscripción del primer ejemplar. N$ 40.00
 de prenda, habilitación o avío y refaccionarias y sus
 
 convenios modificatorios. N$ 40.00
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+25.- Por expedición de certificados de antecedentes
+
+registrales N$ 50.00
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+26.- Todos los demás certificados N$ 60.00
+
+Tratándose de operaciones relativas a vivienda de interés
+
+social y popular cuyo valor al momento de la operación
+
+no exceda de la suma que resulte de multiplicar por 25
+
+el salario mínimo general elevado al año, vigente en el
+
+área geográfica de que se trate, el importe de la cuota
+
+que resulte por la prestación del servicio señalado en
+
+este punto, se reducirá en un 50%.
 
 ###### Artículo 322.
 
@@ -4147,9 +4273,11 @@ catastral, por cada hoja. N$ 50.00
 
 catastral, por cada predio. N$ 20.00
 
-7.- Por asignación de clave catastral a los lotes de
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-terreno de fraccionamientos, por cada clave. N$ 10.00
+7.- Por asignación de clave catastral a lotes de
+
+terreno de fraccionamientos, por cada clave. N$ 6.00
 
 8.- Por certificación del valor catastral en la
 
@@ -4678,3 +4806,9 @@ PRIMERO.- Esta Ley entrará en vigor en todo el Estado, el día 1o. de enero de 
 SEGUNDO.- Los derechos causados conforme a las disposiciones vigentes con anterioridad a la fecha en que entre en vigor la presente Ley, deberán ser pagados en el monto, forma y plazos establecidos en dichas disposiciones.
 
 TERCERO.- El factor de ajuste para la actualización de los derechos a que se refiere el Artículo 299 de la presente Ley, se aplicará a partir del mes de julio de 1993.
+
+B.O. 8 DE JULIO DE 1993.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor en todo el Estado al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
