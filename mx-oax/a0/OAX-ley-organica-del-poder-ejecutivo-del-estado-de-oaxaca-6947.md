@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-6947"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-12-01"
-last_updated: "1999-07-05"
+last_updated: "2001-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6947&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el 1° de diciembre de 1992.
 
@@ -148,6 +148,10 @@ XII.- SECRETARIA TECNICA.
 > <small>(ADICIONADA, P.O. 5 DE JULIO DE 1999)</small>
 
 XIII.- SECRETARIA DE TRANSPORTE.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DEL 2001)</small>
+
+XIV.- SECRETARIA DE ASUNTOS INDIGENAS.
 
 > <small>(ADICIONADO, P.O. 28 DE MAYO DE 1996)</small>
 
@@ -613,6 +617,36 @@ XV.- Vigilar que los Programas que se realicen en materia de Desarrollo Turísti
 
 XVI.- Los demás que le señalen las Leyes, Decretos y Reglamentos.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DEL 2001)</small>
+
+ARTICULO 26 bis.- A la Secretaría de Asuntos Indígenas corresponde el despacho de los siguientes asuntos:
+
+I.- Formular, organizar, promover y ejecutar las políticas y acciones para el cumplimiento de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado de Oaxaca;
+
+II.- Investigar los problemas relativos a los pueblos y comunidades indígenas del Estado;
+
+III.- Estudiar, proponer y participar en las medidas de mejoramiento que requieren los pueblos y comunidades indígenas del Estado;
+
+IV.- Promover ante el Ejecutivo del Estado, la aprobación y aplicación de las medidas de mejoramiento, desarrollo, bienestar y defensa de los pueblos y comunidades indígenas del Estado;
+
+V.- Formular los programas de desarrollo coordinadamente con los pueblos y comunidades indígenas para la defensa de sus recursos naturales, conocimiento y preservación de sus sistemas normativos consuetudinarios, protección de las mujeres y niños indígenas, en congruencia con el Plan Estatal de Desarrollo;
+
+VI.- Organizar, dirigir y controlar la asistencia jurídica de personas que carezcan de defensor, así como la procuración jurídica de indígenas y los pueblos y comunidades indígenas;
+
+VII.- Intervenir en la realización de las medidas aprobadas para el mejoramiento de los pueblos y comunidades indígenas, coordinando la acción de los órganos gubernamentales competentes;
+
+VIII.- Fungir como órgano consultivo de las instituciones oficiales y privadas en las materias que, conforme a la presente Ley son de su competencia;
+
+IX.- Difundir, cuando lo estime conveniente y por los medios adecuados, los resultados de sus investigaciones, estudios, promociones y trabajos públicos;
+
+X.- Emprender las obras de mejoramiento de los pueblos y comunidades indígenas que le encomiende el Ejecutivo, en coordinación con las dependencias estatales y federales que actúen en la materia;
+
+XI.- Participar conjunta y coordinadamente con las dependencias estatales y federales competentes en la conciliación de los conflictos de límites comunales, ejidales, pequeña propiedad o municipales en donde exista interés de pueblos y comunidades indígenas;
+
+XII.- Promover la preservación del acervo cultural de las etnias y el desarrollo de las formas consuetudinarias de organización social y económica de las comunidades indígenas del Estado, en cumplimiento a las disposiciones de la Ley de Derechos de los Pueblos y Comunidades Indígenas del Estado; y
+
+XIII.- Las demás que le encomiende expresamente el Titular del Poder Ejecutivo Estatal y que le señalen Leyes, Decretos y Reglamentos.
+
 ###### ARTICULO 27.
 
 A la Secretaría de Desarrollo Agropecuario y Forestal corresponde el despacho de los siguientes asuntos:
@@ -1022,3 +1056,11 @@ Los recursos humanos, presupuestales y materiales adscritos a las dependencias q
 CUARTO.- El personal de las dependencias que en la aplicación de este Decreto sea transferido a la Secretaría de Transporte, se le respetarán íntegramente sus derechos laborales.
 
 QUINTO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE MARZO DEL 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- La Procuraduría para la Defensa del Indígena se integrará a la Secretaría de Asuntos Indígenas como un órgano administrativo, la reestructuración no afectará los derechos laborales de sus trabajadores.
+
+TERCERO.- El Gobernador del Estado dispondrá la dotación de recursos materiales, financieros y humanos para el funcionamiento de la Secretaría de Asuntos Indígenas, y a través de las dependencias competentes aprobará su estructura orgánica.
