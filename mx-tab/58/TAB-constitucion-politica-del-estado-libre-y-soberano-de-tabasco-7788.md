@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1946-05-04"
+last_updated: "1952-05-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1952.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -367,11 +367,11 @@ Los Diputados que no concurran a una sesión sin causa justificada o sin previo 
 
 El Congreso tendrá cada año dos períodos de sesiones ordinarias; el primero del dieciséis de septiembre al quince de enero del año siguiente: el segundo, del 15 de abril al 31 de mayo. Estos períodos serán prorrogables por el tiempo que, según las necesidades del servicio público, acuerde el Congreso.
 
-(REUBICADO, P.O. 4 DE MAYO DE 1946)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 1952)</small>
 
 ###### Art. 50.
 
-A la apertura de sesiones del Congreso en el primer período de sesiones de cada año, asistirá el Gobernador del Estado y rendirá al Congreso un informe acerca de la situación que guarden los diversos ramos de la administración pública.
+El día 20 de noviembre de cada año asistirá al Congreso el Gobernador del Estado y rendirá a la Legislatura un informe acerca de la situación que guarden los diversos ramos de la administración pública.
 
 El Presidente del Congreso contestará en términos generales.
 
@@ -1544,3 +1544,13 @@ UNICO.- Este Decreto comenzará a surtir sus efectos legales a partir del día 1
 P.O. 4 DE MAYO DE 1946.
 
 UNICO. Este Decreto entrará en vigor quince días después del de su publicación en el Periódico Oficial del Estado; pero la reforma del artículo 45, que pasa a ser 49, no entrará en vigor sino hasta el 16 de septiembre del año en curso.
+
+P.O. 31 DE MAYO DE 1952.
+
+###### Art. 1o.
+
+Este Decreto comenzará a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+###### Art. 2º.
+
+Para mayor publicidad promúlguese el presente Decreto por bando solemne en esta Capital y en las Cabeceras Municipales.
