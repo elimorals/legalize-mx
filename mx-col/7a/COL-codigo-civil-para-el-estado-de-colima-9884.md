@@ -4,7 +4,7 @@ identifier: "COL-codigo-civil-para-el-estado-de-colima-9884"
 country: "mx"
 rank: "codigo"
 publication_date: "1954-09-25"
-last_updated: "1982-07-03"
+last_updated: "1984-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 NUEVO CODIGO CIVIL PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 1984.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Colima, el 25 de Septiembre de 1954.
 
@@ -6043,19 +6043,35 @@ ART. 1804.- Cuando una persona hace uso de mecanismos, instrumentos, aparatos o 
 
 ART. 1805.- Cuando sin el empleo de mecanismos, instrumentos, etc., a que se refiere el artículo anterior, y sin culpa o negligencia de ninguna de las partes, se producen daños, cada una de ellas los soportará sin derecho a indemnización.
 
-ART. 1806.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él, y cuando ello sea imposible, en el pago de daños y perjuicios:
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1984)</small>
 
-I.- Cuando el daño se cause a las personas y produzca la muerte o incapacidad total, parcial o temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima, y tomando por base la utilidad o salario que percibe;
+ART. 1806.- La reparación del daño debe consistir en el restablecimiento de la situación anterior a él y cuando ello sea imposible en el pago de daños y perjuicios.
 
-II.- Cuando la utilidad o salario exceda de veinticinco pesos diarios, no se tomará en cuenta sino esa suma para fijar la indemnización;
+I.- Cuando el daño se cause a las personas y produzca la muerte, incapacidad total permanente, parcial permanente total temporal, o parcial temporal, el monto de la indemnización se fijará aplicando las cuotas que establece la Ley Federal del Trabajo, según las circunstancias de la víctima y tomando por base la utilidad o salario que percibe;
 
-III.- Si la víctima no percibe utilidad o salario, o no pudiere determinarse éste, el pago se acordará tomando como base el salario mínimo;
+II.- Cuando la utilidad o salario exceda del doble del salario mínimo, no se tomará en cuenta sino esta suma para fijar la indemnización;
 
-IV.- Los créditos por indemnización cuando la víctima fuere un asalariado son intransferibles, y se cubrirán preferentemente en forma de pensión o pagos sucesivos;
+III.- Si la víctima no percibe ni utilidad ni salario o no pudiere determinarse este, el pago se acordará tomando como base el salario mínimo general vigente para la Zona económica del Estado;
 
-V.- Las anteriores disposiciones se observarán en el caso del artículo 2,537 de este Código.
+IV.- Los créditos por indemnización, cuando la víctima fuere un asalariado, son intransferibles y se cubrirán preferentemente en una sola exhibición, salvo Convenio entre las partes;
 
-ART. 1807.- Independientemente de los daños y perjuicios el juez puede acordar, en favor de la víctima de un hecho ilícito, o de su familia, si aquélla muere, una indemnización equitativa, a título de reparación moral que pagará el responsable del hecho. Esa indenmización (sic) no podrá exceder de la tercera parte de lo que importe la responsabilidad civil. Lo dispuesto en este artículo no se aplicará al Estado en el caso previsto en el artículo 1,819.
+V.- Las anteriores disposiciones se observarán en el caso del Artículo 2537 de este Código.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1984)</small>
+
+ART. 1807.- Por daño moral se entiende la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspecto físico, o bien en la consideración que de si mismo tienen los demás.
+
+Cuando un hecho u omisión ilícitos produzcan un daño moral, el responsable del mismo tendrá la obligación de repararlo mediante una indemnización en dinero, con independencia de que se haya causado daño material, tanto en responsabilidad contractual como extracontractual. Igual obligación de reparar el daño moral tendrá quien incurra en responsabilidad objetiva y conforme al Artículo 1804, así como el Estado y sus funciones conforme el Artículo 1819 del presente Código.
+
+La acción de reparación no es transferible a terceros por acto entre vivos y solo pasa a los herederos de la víctima cuando ésta haya intentado la acción en vida.
+
+El monto de la indemnización lo determinará el Juez tomando en cuenta los derechos lesionados, el grado de responsabilidad, la situación económica del responsable y la de la víctima, así como las demás circunstancias del caso.
+
+Cuando el daño moral haya afectado a la víctima en su decoro, honor, reputación, o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia que refleje adecuadamente la naturaleza y el alcance (sic) la misma, a través de los medios informativos que considere convenientes. En los casos en que el daño derive de un acto que haya tenido difusión en los medios informativos, el Juez ordenará que los mismos den publicidad al extracto de la sentencia, con la misma relevancia que hubiere tenido la difusión original.
+
+No estará obligado a la reparación del daño moral quien ejerza sus derechos de opinión, crédito expresión, e información en los términos y con las limitaciones de los Artículo (sic) 6o. y 7o. de la Constitución General de la República.
+
+En todo caso, quien demande la reparación del daño moral por responsabilidad contractual o extracontractual deberá acreditar plenamente la ilicitud de la conducta del demandado y el daño que directamente le hubiere causado tal conducta.
 
 ART. 1808.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligadas, de acuerdo con las disposiciones de este capítulo.
 
@@ -6633,7 +6649,11 @@ ART. 2005.- El precio de la cosa será el que tendría al tiempo de ser devuelta
 
 ART. 2006.- Al estimar el deterioro de una cosa se atenderá no solamente a la disminución que él causó en el precio de ella, sino a los gastos que necesariamente exija la reparación.
 
-ART. 2007.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afección, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con el objeto de lastimar la afectación del dueño; el aumento que por estas causas se haga no podrá exceder de una tercera parte del valor común de la cosa.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 1984)</small>
+
+ART. 2007.- Al fijar el valor y deterioro de una cosa, no se atenderá al precio estimativo o de afecto, a no ser que se pruebe que el responsable destruyó o deterioró la cosa con objeto de lastimar los sentimientos o afectos del dueño.
+
+El aumento que por éstas causas se haga se determinará conforme a lo dispuesto por el Artículo 1807.
 
 ART. 2008.- La responsabilidad civil puede ser regulada por convenio de las partes, salvo aquellos casos en que la ley disponga expresamente otra cosa.
 
@@ -9802,3 +9822,7 @@ P.O. 3 DE JULIO DE 1982.
 DECRETO No. 245.
 
 UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+P.O. 4 DE FEBRERO DE 1984.
+
+UNICO.- El presente Decreto comenzará a surtir sus efectos al día siguiente de su Publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
