@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1998-01-09"
+last_updated: "1998-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1998.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -522,7 +522,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 56.
 
@@ -724,9 +724,9 @@ XXII. Recibir la protesta de Ley a los Diputados, al Gobernador y a los Magistra
 
 XXIII. Designar al Presidente y Consejeros de la Comisión de los Derechos Humanos del Estado de Coahuila; en la forma que determine la ley.
 
-> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
 
-XXIV. Elaborar y aprobar su propio Presupuesto de Egresos.
+XXIV. Elaborar y aprobar su propio presupuesto de egresos, así como rendir su cuenta pública en los términos de ley.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -762,9 +762,11 @@ XXXII. Expedir las Leyes que establezcan la concurrencia del Gobierno del Estado
 
 XXXIII. Examinar, discutir y aprobar anualmente el Presupuesto de Egresos del Estado, discutiendo primero las contribuciones que, a su juicio, deben decretarse para cubrirlo, así como aprobar las Leyes de Ingresos que cada año deberán enviar los Ayuntamientos, haciéndoles las modificaciones que estime convenientes; y determinar, también anualmente, las bases, montos y plazos que habrán de observarse para que se cubra a los Municipios, por conducto de la Secretaría de Finanzas, o en la forma que señalen los ordenamientos legales aplicables, las participaciones federales que les correspondan.
 
-> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1998)</small>
 
-XXXIV. Revisar, discutir y aprobar anualmente, las cuentas públicas Estatal y Municipales del año anterior, que deberán serle presentadas por el Ejecutivo del Estado y los Ayuntamientos, respectivamente, dentro de los primeros cuatro meses del ejercicio fiscal siguiente.
+XXXIV. Revisar, discutir y aprobar, en su caso, trimestralmente, las cuentas públicas Estatales y Municipales, previo examen y glosa de la Secretaría de Finanzas y de las Tesorerías Municipales. Dentro de los noventa días siguientes al envío de las cuentas públicas, se emitirán los dictámenes que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
 La revisión de dichas cuentas públicas tendrá por objeto conocer los resultados de las gestiones financieras respectivas y comprobar si se han ajustado a los correspondientes presupuestos de egresos.
 
@@ -1136,7 +1138,9 @@ IV. Concurrir cada año al Congreso, dentro de los primeros quince días del seg
 
 V. Rendir los informes que le solicite el Congreso del Estado en los términos de la fracción XL del artículo 67.
 
-VI. Presentar al Congreso dentro de los primeros cuatro meses del año fiscal, la cuenta general del año anterior.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
+
+VI. Presentar al Congreso la cuenta pública, dentro del término que disponga la Ley.
 
 > <small>(REFORMADA, P.O. 3 DE NOVIEMBRE DE 1992)</small>
 
@@ -1320,9 +1324,9 @@ Son obligaciones del Secretario de Finanzas:
 
 I. Glosar las cuentas presentadas por los Recaudadores de Rentas, dando cuenta al Gobernador del resultado de las mismas.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
 
-II. Presentar anualmente al Congreso del Estado, previo acuerdo del Titular del Poder Ejecutivo y dentro de los primeros tres meses del ejercicio fiscal siguiente, la cuenta pública estatal del año anterior, para efectos de su revisión, discusión y aprobación, en su caso.
+II. Presentar al Congreso del Estado, dentro del término que disponga la Ley, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública, para efectos de su revisión, discusión y aprobación, en su caso.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1738,9 +1742,9 @@ XVII. Participar en los organismos y con las dependencias oficiales competentes,
 
 XVIII. Otorgar concesiones, autorizaciones, permisos y licencias, respecto de los servicios públicos de su competencia, en los términos de los ordenamientos legales aplicables.
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1998)</small>
 
-XIX. Autorizar y glosar en el mes de enero de cada año, la cuenta pormenorizada, los documentos y los libros de ingresos de la hacienda pública municipal, correspondiente al año anterior, así como presentar al Congreso del Estado la cuenta pública municipal del año anterior, dentro de los primeros tres meses del siguiente ejercicio fiscal.
+XIX. Autorizar y glosar, la cuenta pormenorizada, los documentos y los libros de ingresos y egresos de la Hacienda Pública Municipal, así como presentar al Congreso del Estado la cuenta pública municipal dentro del término que disponga la Ley.
 
 > <small>(ADICIONADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1966,7 +1970,9 @@ El Tribunal Superior de Justicia, por conducto de su Presidente, propondrá ante
 
 Los recursos que se asignen para satisfacer el presupuesto aprobado, serán administrados directamente por el Poder Judicial.
 
-El Congreso del Estado revisará la relación de gastos al año anterior, que el Presidente del Tribunal deberá presentar anualmente dentro del término que disponga la Ley, y si encontrare discrepancia entre las cantidades gastadas y las partidas autorizadas, o no existiera exactitud y justificación de los gastos hechos, determinará las (sic) responsabilidad de acuerdo a la Ley.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1998)</small>
+
+El Congreso del Estado revisará la relación de gastos, que el Presidente del Tribunal deberá presentar dentro del término que disponga la Ley, y si encontrare discrepancia entre las cantidades gastadas y las partidas autorizadas, o no existiera exactitud y justificación de los gastos hechos, determinará la responsabilidad de acuerdo a la Ley.
 
 > <small>(F. DE E., P.O. 5 DE JULIO DE 1988)</small>
 
@@ -2799,3 +2805,13 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 9 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
