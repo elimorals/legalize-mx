@@ -1,0 +1,226 @@
+---
+title: "REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA"
+identifier: "FED-reglamento-interior-de-la-loteria-nacional-para-la-485"
+country: "mx"
+rank: "reglamento"
+publication_date: "1985-07-24"
+last_updated: "1985-07-24"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=485&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "485"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "REGLAMENTO"
+original_gazette_section: "18"
+reform_count: "4"
+scjn_last_update: "2011-04-01"
+issue_date: "1985-07-05"
+---
+# REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
+
+REGLAMENTO INTERIOR DE LA LOTERIA NACIONAL PARA LA ASISTENCIA PUBLICA
+
+TEXTO ORIGINAL.
+
+Reglamento publicado en el Diario Oficial de la Federación, el miércoles 24 de julio de 1985.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Secretaría de Hacienda.
+
+El suscrito, licenciado Guillermo Hori Robaina, Secretario de la Junta Directiva de la Lotería Nacional para la Asistencia Pública,
+
+Certifica: que en la sesión de dicho cuerpo colegiado celebrado el día veintisiete de junio de mil novecientos ochenta y cinco, tras el desahogo del punto quinto del orden del día, "Proyecto de Reglamento Interior", se tomó el siguiente:
+
+"ACUERDO: Los señores miembros de la Junta Directiva, por unanimidad, aprobaron el Reglamento Interior de la Lotería Nacional para la Asistencia Pública presentado por la Dirección General, para los efectos legales consiguientes, ya que en él se han incluido las observaciones y recomendaciones que, en su oportunidad, fueron hechas por los propios miembros de dicho Cuerpo Colegiado." Doy fe.
+
+México, Distrito Federal, a cinco de julio de mil novecientos ochenta y cinco.
+
+Lic. Guillermo Hori Robaina.- Secretario.
+
+REGLAMENTO Interior de la Lotería Nacional para la Asistencia Pública.
+
+### CAPITULO I.- De las Disposiciones Generales
+
+###### Artículo 1o.
+
+La Lotería Nacional para la Asistencia Pública es un Organismo Descentralizado de la Administración Pública Federal, con personalidad jurídica y patrimonio propios, con domicilio en la Ciudad de México, Distrito Federal.
+
+###### Artículo 2o.
+
+El presente Reglamento tiene por objeto determinar la organización estructural y funcional de la Lotería Nacional para la Asistencia Pública, con base en la cual llevará a cabo sus actividades en cumplimiento del objeto que se establece en su Ley Orgánica.
+
+Siempre que en este Reglamento se haga mención de “La Entidad”, “El Organismo” o “La Institución”, deberá entenderse que se trata de la Lotería Nacional para la Asistencia Pública.
+
+###### Artículo 3o.
+
+Se considerarán ingresos de la Entidad, de los que señala el artículo 3o. fracción V de su Ley Orgánica, entre otros, los siguientes:
+
+I.- Los premios y reintegros que correspondan a billetes de lotería que no se logren vender a terceros, salvo el premio mayor, el que se repartirá en la forma que se determine en las Bases específicas de cada tipo de sorteos.
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+II.- Los premios y reintegros a los billetes emitidos que, habiéndose vendido, no hayan sido cobrados por los tenedores de dichos billetes, una vez transcurrido el término de prescripción respectivo.
+
+###### Artículo 4o.
+
+Los recursos que en los términos del artículo 2o. de la Ley Orgánica de la Institución ésta deba enterar a la Tesorería de la Federación para el cumplimiento de su destino específico, serán remitidos a dicha Dependencia de conformidad con el procedimiento que establezca la Secretaría de Hacienda y Crédito Público, y conforme a las demás disposiciones legales aplicables.
+
+### CAPITULO II.- De la Junta Directiva
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+###### Artículo 5o.
+
+La Junta Directiva estará integrada por seis miembros y será presidida por el titular de la Secretaría de Hacienda y Crédito Público, siendo los demás integrantes de la misma los titulares de las Secretarías de Gobernación, de Programación y Presupuesto y de Salud y dos personas designadas por el Presidente de la República, una de las cuales fungirá como Director General.
+
+En las ausencias del Presidente, la Junta Directiva será presidida por los Secretarios de Estado miembros de la misma en el orden antes establecido. En ausencia de tales miembros propietarios, los suplentes que designen presidirán las sesiones en el orden señalado con anterioridad.
+
+###### Artículo 6o.
+
+Conforme a lo dispuesto por el artículo 6o. de la Ley Orgánica, corresponde a la Junta Directiva:
+
+I.- Aprobar la organización estructural y funcional de la Institución expidiendo al efecto su Reglamento Interior;
+
+II.- Aprobar, supervisar y evaluar los programas del organismo;
+
+III.- Aprobar los anteproyectos de presupuesto anual de ingresos y de egresos;
+
+IV.- Aprobar las bases para la realización de las distintas clases de sorteos;
+
+V.- Aprobar la constitución y los incrementos de las reservas y garantías, así como las bases para su operación, de conformidad con las autorizaciones que al efecto emita la Secretaría de Hacienda y Crédito Público;
+
+VI.- Determinar las garantías que deben constituir los expendedores de carácter fijo y los vendedores ambulantes de billetes, a efecto de obtener la dotación de billetes correspondiente;
+
+VII.- Aprobar los calendarios semestrales de sorteos y el reparto de premios de los mismos;
+
+VIII.- Analizar y aprobar, en su caso, el informe anual de actividades y de resultados que rinda el Director General;
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+IX.- Aprobar las bases para la devolución de los billetes que no logren enajenar los expendedores de carácter fijo o los vendedores ambulantes de billetes; y
+
+X.- Ejercer las demás atribuciones que le correspondan conforme a las leyes.
+
+###### Artículo 7o.
+
+La Junta Directiva se reunirá en sesiones ordinarias cuando menos cada dos meses, y en sesiones extraordinarias siempre que lo considere conveniente su Presidente.
+
+A estas sesiones asistirán los comisarios que, en los términos del artículo 4o. de la Ley Orgánica de la Entidad, designen las Secretarías de Hacienda y Crédito Público y de la Contraloría General de la Federación.
+
+Las reuniones versarán sobre los puntos de la orden del día que se incluyan en la convocatoria respectiva, considerándose válidas las sesiones con la asistencia de cuando menos cuatro de los miembros de la Junta. Las decisiones se tomarán por mayoría de votos y en caso de empate su Presidente tendrá voto de calidad.
+
+###### Artículo 8o.
+
+La Junta Directiva, para el desarrollo de sus funciones, designará un Secretario para que la auxilie; tendrá el carácter de fedatario en las sesiones, en la votación sobre deliberaciones de asuntos planteados y en los actos y acuerdos de este órgano colegiado, y será el encargado de convocar a las sesiones de la Junta.
+
+###### Artículo 9o.
+
+De cada sesión de la Junta Directiva se levantará acta que será firmada cuando menos por el Presidente y Secretario de la misma. En dicha acta deberá indicarse la fecha y tipo de sesión, los asuntos tratados, las discusiones y comentarios relevantes y los acuerdos aprobados por la Junta.
+
+### CAPITULO III.- Del Director General
+
+###### Artículo 10o.
+
+En los términos de la Ley Orgánica de la Entidad, corresponde al Director General:
+
+I.- Dirigir, administrar y representar legalmente al Organismo, para lo cual estará investido de las siguientes facultades:
+
+a).- Las que corresponden a un mandatario general para pleitos y cobranzas con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley.
+
+b).- Las inherentes a un mandatario general para administrar bienes y derechos con toda clase de facultades administrativas.
+
+c).- Las derivadas de un mandato general para ejercer actos de dominio, tanto en lo relativo a adquirir y enajenar bienes, cuanto para hacer toda clase de gestiones a fin de defenderlos.
+
+d).- La especial derivada del artículo 9o. de la Ley General de Títulos y Operaciones de Crédito, para suscribir títulos.
+
+e).- Las que se requieran para presentar denuncias o querellas, desistirse de las mismas, otorgar perdón, constituirse en coadyuvante del Ministerio Público, así como para promover juicio de amparo y desistirse del mismo.
+
+II.- Nombrar al personal de la Entidad;
+
+III.- Elaborar y proponer a la Junta Directiva los programas y presupuestos del organismo;
+
+IV.- Rendir a la Junta Directiva un informe anual de actividades y de resultados, y los demás informes que la propia Junta determine.
+
+El informe anual será presentado a más tardar el último día del mes de febrero que corresponda y una vez aprobado, deberá publicarse.
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+V.- Llevar a cabo todos los actos necesarios para el cumplimiento de los objetivos del organismo, que no queden reservados conforme a esta Ley a la Junta Directiva; y
+
+VI.- Las demás atribuciones de administración que le otorgue la Junta Directiva.
+
+###### Artículo 11o.
+
+El Director General podrá delegar parcialmente las facultades anteriormente enumeradas en favor de servidores subalternos, de acuerdo a su ámbito de competencia.
+
+Asimismo, podrá sustituir parcialmente las facultades de representación enumeradas en la fracción I del artículo anterior, en las personas que juzgue pertinente, con excepción de las relativas a actos de dominio sobre inmuebles propiedad de la Institución, facultad que será indelegable y exclusiva del mismo.
+
+### CAPITULO IV.- De los Sorteos
+
+###### Artículo 12o.
+
+Los sorteos que para el cumplimiento de su objeto lleve a cabo la Institución, se regirán por las bases que para cada tipo de los mismos dicte la Junta Directiva, las que se darán a conocer al público a través del Diario Oficial de la Federación y otros medios de difusión que acuerde el Director General.
+
+En las referidas bases se señalarán las reglas para los repartos de premios de los sorteos respectivos.
+
+###### Artículo 13o.
+
+La Institución sólo dejará de pagar los premios y reintegros al tenedor de un billete agraciado en algún sorteo de los que verifique, cuando medie orden judicial en la que el Juez Competente de que se trate prohíba a la Entidad el pago del premio respectivo.
+
+###### Artículo 14o.
+
+Los billetes de lotería que emita la Entidad para la participación de sus tenedores en los sorteos respectivos se dividirán en tantas series y fracciones como acuerde la Junta Directiva. Dichas fracciones contendrán las características que se determinen en las bases de cada tipo de sorteo.
+
+###### Artículo 15o.
+
+Los derechos al cobro de premios y reintegros, resultantes de los sorteos celebrados, prescribirán en un año contado a partir del día siguiente al de la fecha de la celebración del sorteo de que se trate.
+
+Para efectos de la prescripción antes referida se considerarán años calendario y el término concluirá a las 12 horas del día siguiente. En caso de que el último día de vigencia de derechos fuere inhábil, se correrá el término al siguiente día hábil.
+
+###### Artículo 16o.
+
+Los calendarios de los sorteos serán aprobados semestralmente por la Junta Directiva y se darán a conocer con anticipación a su vigencia, quedando facultada la Junta Directiva para introducir en los mismos los cambios que estime convenientes.
+
+### CAPITULO V.- De la Organización Interna
+
+###### Artículo 17o.
+
+La Lotería Nacional contará para el estudio, planeación, despacho y ejecución de los actos y asuntos que le competen, con los Organos y Unidades Administrativas, Operativas, de Asesoría y Comités de Apoyo que establezca el Director General, conforme a los organigramas aprobados por las Secretarías de Hacienda y Crédito Público y Programación y Presupuesto.
+
+Asimismo, la Entidad contará con las sucursales que el Director General estime necesario establecer en aquellas ciudades de la República que por su importancia conforme al volumen de billetes que ahí se vendan, lo requieran.
+
+Para la creación de una nueva unidad administrativa que modifique el organigrama aprobado, se requerirá la previa aprobación de la Junta Directiva, a propuesta del Director General de la Entidad.
+
+### CAPITULO VI.- De la Relación Entre la Entidad y Quienes le Auxilian en la Distribución y Venta de Billetes
+
+###### Artículo 18o.
+
+La distribución y venta de los billetes que participen en los sorteos que la Institución lleve a cabo, se hará directamente por la Lotería Nacional a través de sus oficinas centrales o sucursales, o por cuenta de ésta, por medio de expendedores de carácter fijo o vendedores ambulantes con quienes contrate una o ambas actividades.
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+Los referidos expendedores y vendedores no estarán subordinados al Organismo en la distribución y venta de billetes ni sujetos a horarios o lugares determinados de venta, quedando facultados para llevar a cabo simultáneamente otras actividades y auxiliarse de una o varias personas, con las obligaciones que contraigan en los contratos mercantiles de expendio que, en su caso, suscriban con la Institución.
+
+A falta de tales contratos, los expendedores y vendedores ambulantes de billetes realizarán la venta de billetes de lotería de conformidad con las reglas generales que al efecto apruebe la Junta Directiva de la Institución, siempre con las características mencionadas en el párrafo anterior.
+
+### CAPITULO VII.- De las Relaciones Entre la Lotería y sus Trabajadores
+
+###### Artículo 19o.
+
+Conforme a lo dispuesto en su Ley Orgánica, las relaciones entre la Lotería Nacional y sus trabajadores se regirán por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+
+### CAPITULO VIII.- De las Reservas y Garantías
+
+###### Artículo 20o.
+
+La Institución contará con las reservas y garantías que conforme a las autorizaciones que al efecto expida la Secretaría de Hacienda y Crédito Público, determine la Junta Directiva, la que señalará, también con la autorización de la referida Secretaría, sus incrementos y bases para su operación.
+
+## ARTICULOS TRANSITORIOS
+
+PRIMERO.- Se derogan todas las disposiciones que se opongan al presente. El Reglamento Interno de la Lotería Nacional para la Asistencia Pública y del Funcionamiento Interior de su Consejo de Administración, publicado en el Diario Oficial de la Federación de fecha 13 de noviembre de 1940 se continuará aplicando en todo lo que no se oponga a este ordenamiento.
+
+SEGUNDO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>(F. DE E., D.O.F. 4 DE SEPTIEMBRE DE 1985)</small>
+
+México, Distrito Federal, a cinco de julio de mil novecientos ochenta y cinco.- Lic. Guillermo Hori Robaina, Secretario.- Rúbrica.
