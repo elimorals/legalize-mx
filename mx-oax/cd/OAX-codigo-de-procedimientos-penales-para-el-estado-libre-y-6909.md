@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1995-06-03"
+last_updated: "1995-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -361,9 +361,13 @@ EXTORSION, previsto en el artículo 383 BIS en relación con las fracciones II y
 
 TORTURA, previsto en los artículos 2, 3 y 4 de la Ley Estatal para Prevenir y Sancionar la Tortura.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1995)</small>
 
-TENTATIVA, a que se refiere el artículo 68 en relación con los delitos previstos en los artículos 141, 155, 195, 208 fracciones XXIII y XXIV, 246, 247, 248 primero y segundo párrafos, 268, 269, 270 último párrafo, 285, 307, 309 primera parte, 348, 349 en relación con el 369 BIS, 372, 373 fracción III, y 383 BIS en relación con las fracciones II y III.
+DELITOS ELECTORALES, previstos en los artículos 395 y 398 del Código Penal del Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1995)</small>
+
+LA TENTATIVA a que se refiere el artículo 68 en relación con los delitos previstos en los artículos 141, 155, 195, 208 fracciones XXIII y XXIV, 246, 247, 248 primero y segundo párrafos, 268, 269, 270 último párrafo, 285, 307, 309 primera parte, 348, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII y 369 Bis, 372, 373 fracción III, y 383 Bis, en relación con las fracciones II y III.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
 
@@ -485,7 +489,7 @@ Si de las mismas diligencias apareciere claramente que la muerte no tuvo por ori
 
 ###### Art. 38.
 
-Fuera de los casos a que se refiere el artículo anterior, la autoridad que conozca del caso, oyendo la opinión de los Peritos Médicos Oficiales o de un facultativo en defecto de aquéllos, resolverá si debe o no practicarse la autopsia, y girará las órdenes respectivas para el levantamiento del acta de defunción (sic) y de inhumación del cadáver, entregando éste, en su caso, a las personas que lo reclamen. Al proceso se agregará copia certificada del acta de defunción (sic) que se levante.
+Fuera de los casos a que se refiere el artículo anterior, la autoridad que conozca del caso, oyendo la opinión de los Peritos Médicos Oficiales o de un facultativo en defecto de aquéllos, resolverá si debe o no practicarse la autopsia, y girará las órdenes respectivas para el levantamiento del acta de defunción y de inhumación del cadáver, entregando éste, en su caso, a las personas que lo reclamen. Al proceso se agregará copia certificada del acta de defunción que se levante.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
@@ -3167,9 +3171,11 @@ SENTENCIA IRREVOCABLE.
 
 Las pruebas que se ofrezcan para acreditar los requisitos que exige el Artículo 97 del Código Penal para la concesión de la condena condicional, se rendirán durante la instrucción sin que el ofrecimiento de esas pruebas por parte del procesado, signifique la aceptación de su responsabilidad en los hechos que se le imputan.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1995)</small>
+
 ###### Art. 471.
 
-Al formular sus conclusiones el acusado o su defensor, si estiman procedente la condena condicional, lo indicarán así para el caso en que el Tribunal imponga una medida privativa de libertad que no exceda de dos años.
+Al formular sus conclusiones el acusado o su defensor, si estiman procedente la condena condicional, lo indicarán así para el caso en que el Tribunal imponga una medida privativa de libertad que no exceda de tres años.
 
 ###### Art. 472.
 
@@ -3864,3 +3870,7 @@ P.O. 27 DE AGOSTO DE 1994.
 P.O. 3 DE JUNIO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE JULIO DE 1995.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
