@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-gobierno-municipal-del-estado-de-sinaloa-22823"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-26"
-last_updated: "2004-02-04"
+last_updated: "2004-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE GOBIERNO MUNICIPAL DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el lunes 26 de noviembre de 2001.
 
@@ -167,9 +167,11 @@ Las faltas temporales del Presidente Municipal, cuando no excedan de diez días,
 
 Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presidente Municipal sólo podrá separarse de su puesto previa licencia concedida por el Ayuntamiento, quien elegirá de entre sus miembros a un Presidente Municipal Provisional. El suplente del electo será llamado a sustituirlo como Regidor.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 21.
 
-El Presidente Municipal no podrá ausentarse del territorio del Estado sin la previa autorización del Ayuntamiento, salvo causa de fuerza mayor debidamente comprobada.
+Las ausencias del Presidente Municipal, del territorio del Estado, cuando no excedan de cinco días, no requerirán la previa autorización del Ayuntamiento.
 
 ###### Artículo 22.
 
@@ -647,7 +649,7 @@ XIII. Rastros, Mercados y Centrales de Abasto; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE AGOSTO DE 2003)</small>
 
-XIV. De concertación Política
+XIV. De concertación Política.
 
 Las Comisiones Permanentes tendrán la competencia que se derive de su denominación, en relación a las áreas respectivas de la administración pública municipal y en su caso, a la materia de su conocimiento.
 
@@ -1330,3 +1332,9 @@ P.O. 4 DE FEBRERO DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE FEBRERO DE 2004.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
