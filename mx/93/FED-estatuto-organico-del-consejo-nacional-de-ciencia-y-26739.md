@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-26739"
 country: "mx"
 rank: "estatuto"
 publication_date: "2002-12-09"
-last_updated: "2002-12-09"
+last_updated: "2003-05-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26739&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-09-12"
 
 ESTATUTO ORGANICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE MAYO DE 2003.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de diciembre de 2002.
 
@@ -1129,127 +1129,73 @@ XXIII. Desempeñar las demás funciones que se establezcan en la Ley de Ciencia 
 
 Dirección Adjunta de Coordinación de Grupos y Centros de Investigación
 
+> <small>(REFORMADO, D.O.F. 9 DE MAYO DE 2003)</small>
+
 ###### Artículo 25.
 
 A la Dirección Adjunta de Coordinación de Grupos y Centros de Investigación le corresponde:
 
-I. Proponer al Director General los lineamientos y bases a las que se sujetará la gestión de la coordinación sectorial con los Centros Coordinados por el CONACYT, considerando su objeto, así como sus respectivos programas estratégicos de mediano plazo;
+I.- Establecer y ejecutar las bases y lineamientos mediante los cuales se llevará a cabo la coordinación sectorial de las entidades que integran el Sistema de Centros Públicos CONACYT, considerando su objeto, así como sus respectivos programas estratégicos de mediano plazo;
 
-II. Proponer al Director General las políticas de desarrollo para que los Centros coordinados por el CONACYT, integrantes del sector cumplan con eficiencia, eficacia y productividad su objeto;
+II.- Establecer y promover las políticas de desarrollo para que los Centros coordinados por CONACYT, integrantes del sector, cumplan con eficiencia, eficacia y productividad su objeto;
 
-III. Conformar la Red Nacional de Grupos y Centros de Investigación y alentar la integración de redes de cooperación e intercambio académico entre las instituciones de educación superior, y los centros de investigación;
+III.- Coordinar y evaluar el Sistema de Centros Públicos CONACYT, a fin de promover, fortalecer y optimizar la actividad científica y tecnológica y apoyar su contribución e impacto en la solución de problemas sociales, industriales y públicos; así como impulsar el desarrollo e implantación de las mejores prácticas organizacionales en el Sistema;
 
-IV. Apoyar la consolidación de grupos de investigación y de especialistas en las áreas estratégicas del conocimiento;
+IV.- Coordinar las actividades de las entidades sectorizadas para asegurar su participación y la presentación de sus propuestas para la elaboración, revisión, adecuación y ejecución del Programa Especial de Ciencia y Tecnología;
 
-V. Incrementar el apoyo destinado a promover la creación de comunidades científicas en áreas específicas y su capacidad para transferir tecnología a las empresas;
+V.- Proponer las políticas y los lineamientos en materia de investigación científica y de desarrollo tecnológico, así como proveer lo conducente para la elaboración de los convenios de desempeño, donde se establezcan las bases correspondientes y asegurar que los citados convenios de las Entidades Sectorizadas se sometan a la consideración y autorización del Organo de Gobierno de dichas entidades y ser el conducto para obtener la aprobación de la Secretaría de Hacienda y Crédito Público y la Secretaría de Contraloría y Desarrollo Administrativo. Asimismo gestionar la suscripción de los referidos convenios por parte de CONACYT y de los Centros Públicos de Investigación correspondientes y, en su caso, de la respectiva Coordinadora Sectorial;
 
-VI. Proponer, dirigir, coordinar e implantar la política científica-tecnológica de los Centros de Investigación, de acuerdo con lo establecido en el Programa Especial de Ciencia y Tecnología y el operativo anual;
+VI.- Proponer indicadores para evaluar y dictaminar el desempeño, objetivos y metas de los convenios de desempeño aprobados por el Organo de Gobierno de las entidades integrantes del Sistema de Centros Públicos CONACYT, así como los resultados y la calidad de los productos científicos, tecnológicos, de vinculación y de formación de recursos humanos, promoviendo a través de comités de pares (Comités Externos de Evaluación), un sistema uniforme de evaluación del desempeño que contenga indicadores para medir el impacto de las actividades de los centros de investigación, en los sectores social y productivo. Dicha evaluación se deberá realizar de forma anual;
 
-VII. Promover, en coordinación con las Direcciones Adjuntas de Ciencia y de Tecnología, la Red Nacional de Grupos y Centros de Investigación;
+VII.- Analizar y proponer a los Organos de Gobierno correspondientes, de conformidad con las leyes aplicables, la creación, transformación, disolución, liquidación, fusión, extinción o enajenación de entidades paraestatales o de la participación estatal respectiva con apego a la normatividad aplicable, en el campo de la Ciencia y la Tecnología;
 
-VIII. Promover y establecer lineamientos para la participación de los Centros agrupados en la Red Nacional de Grupos y Centros de Investigación que establece la Ley de Ciencia y Tecnología, con el objeto de crear sinergias, potenciar programas, optimizar recursos y lograr una mayor vinculación para mejorar resultados y eficientar la operación en su conjunto, así como para concentrar esfuerzos en áreas relevantes para el desarrollo nacional;
+VIII.- Coordinar el desarrollo de las sesiones ordinarias y extraordinarias de las Asambleas Generales, así como de los Organos de Gobierno, de las entidades que integran el Sistema de Centros Públicos CONACYT, vigilando que en la conformación de dichos cuerpos colegiados, CONACYT tenga la representación como Presidente y Secretario en los mismos de acuerdo con las designaciones y directrices de la Dirección General del Consejo;
 
-IX. Promover la creación de centros públicos y privados de investigación científica y tecnológica, particularmente en áreas aún no cubiertas y fortalecer los existentes para incrementar la competitividad y la innovación tecnológica de las empresas;
+IX.- Participar como Consejero en representación del Director General de CONACYT en los Organos de Gobierno de otros Centros de Investigación, dependencias, entidades, organizaciones privadas, Comités Técnicos, Comisiones, así como cualquier Organo Colegiado que se relacione con el objeto del CONACYT;
 
-X. Elaborar los estudios necesarios para opinar sobre la creación, transformación, disolución, liquidación, fusión, extinción o enajenación de las entidades paraestatales o de su participación estatal correspondiente, en el ámbito de su competencia, así como para recomendar la forma y términos para realizar lo anterior de conformidad con lo dispuesto por la Ley Federal de las Entidades Paraestatales y demás disposiciones jurídicas aplicables así como criterios y normas emitidas por la SHCP;
+X.- Ejercer en los Organos de Gobierno, previa aprobación del Director General de CONACYT, la representación de la titularidad de las acciones o partes sociales del Gobierno Federal que integren el capital social de las empresas de participación estatal mayoritaria en las que, de conformidad con los estatutos sociales, CONACYT sea Coordinadora de Sector;
 
-XI. Promover la creación de empresas de base tecnológica a partir de los productos, servicios y tecnologías desarrollados por centros públicos de investigación;
+XI.- Coordinar, concertar, dar seguimiento y apoyar el desarrollo de las sesiones ordinarias o extraordinarias de las Comisiones Dictaminadoras Externas para el ingreso, promoción y permanencia del personal científico y tecnológico de los Centros Públicos de Investigación que corresponda;
 
-XII. Asegurar que el CONACYT tenga la representación como Consejero y Secretario en los Organos de Gobierno de los Centros de Investigación, coordinados por este Consejo y que sus miembros representantes cuenten con la información y documentación necesarias para su participación;
+XII.- Participar, en coordinación con la Dirección Adjunta de Planeación, en el establecimiento de requisitos mínimos que deberán cumplir las instituciones académicas y de investigación u organismos especializados de carácter nacional o internacional para realizar la evaluación de los resultados de los programas gubernamentales en ciencia y tecnología;
 
-XIII. Participar como Consejero y en representación del CONACYT en los Organos de Gobierno de otros Centros de Investigación y diversas dependencias y entidades y organizaciones privadas, y en Comités Técnicos y Comisiones;
+XIII.- Participar, en coordinación con la Dirección Adjunta de Desarrollo Regional y Sectorial, por lo que hace a los Fondos CONACYT, en la instrumentación de los procesos para evaluar la inducción, integración, impacto, seguimiento y rendición de cuentas de los proyectos que concursen;
 
-XIV. Coordinar el desarrollo de las sesiones ordinarias o extraordinarias de las Asambleas Generales y de los Organos de Gobierno de los Centros del Sistema CONACYT, así como la conformación de dichos cuerpos colegiados;
+XIV.- Participar con las Direcciones Adjuntas que corresponda, en la constitución, operación, funcionamiento, evaluación y control de los fondos institucionales en materia de ciencia y tecnología, a que se refiere la Ley de Ciencia y Tecnología;
 
-XV. Coordinar la Presidencia y Secretariado en las sesiones de Organos de Gobierno de los Centros del Sistema CONACYT, de acuerdo con las designaciones y directrices de la Dirección General;
+XV.- Conformar la Red Nacional de Grupos y Centros de Investigación, establecer sus lineamientos, operar y promover que los Centros agrupados en ella sumen sus esfuerzos para potenciar programas, optimizar recursos y lograr una mayor vinculación; asimismo, en coordinación con las Direcciones Adjuntas de Ciencia y de Tecnología, promover y alentar la integración de redes de cooperación e intercambio académico entre las instituciones de educación superior y los centros de investigación, así como apoyar la consolidación de grupos de investigación y de especialistas en áreas estratégicas del conocimiento;
 
-XVI. Participar, en coordinación con las Secretarías de Hacienda y Crédito Público y Contraloría y Desarrollo Administrativo y la Dirección Adjunta de Planeación, en el establecimiento de requisitos mínimos que deberán cumplir las instituciones académica y de investigación u organismos especializados de carácter nacional o internacional para realizar la evaluación de los resultados de los programas gubernamentales en ciencia y tecnología relativos al ejercicio fiscal correspondiente;
+XVI.- Promover la creación de centros públicos y privados de investigación científica y tecnológica, particularmente en áreas aún no cubiertas, fortalecer los existentes y reforzar su capacidad para incrementar la competitividad, la innovación tecnológica y transferencia de tecnología al sector productivo;
 
-XVII. Promover, coordinar y evaluar el Sistema de Centros CONACYT, a fin de fortalecer y optimizar la actividad científica y tecnológica y apoyar su contribución e impacto en la solución de problemas sociales, industriales y públicos; así como impulsar el desarrollo e implantación de las mejores prácticas organizacionales en el Sistema;
+XVII.- Promover, en coordinación con la Dirección Adjunta de Tecnología, la creación de empresas de base tecnológica y comunidades científicas para transferir tecnología al sector productivo, a partir de los productos, servicios y tecnologías desarrollados por Centros Públicos de Investigación, asimismo conformar el catálogo de proyectos comercializables del Sistema de Centros Públicos CONACYT;
 
-XVIII. Establecer indicadores de desempeño, objetivos y metas para los Centros de Investigación CONACYT y evaluar los resultados y la calidad de los productos científicos, tecnológicos, de vinculación y de formación de recursos humanos, implantando un sistema uniforme de evaluación del desempeño que defina indicadores para medir el impacto de las actividades de los centros de investigación, en los sectores social y productivo, a través de comités de pares (Comités de Evaluación Externos);
+XVIII.- Actualizar la base de datos estadísticos de las entidades que integran el Sistema de Centros Públicos CONACYT y participar en el establecimiento y mantenimiento del SIICYT, en coordinación con la Dirección Adjunta de Planeación;
 
-XIX. Coordinar, concertar, dar seguimiento y apoyar el desarrollo de las sesiones ordinarias o extraordinarias de las Comisiones Dictaminadoras Externas para el ingreso, promoción y permanencia del personal científico y tecnológico de los Centros Públicos de Investigación;
+XIX.- Promover la inscripción al RENIECYT de Grupos y Centros que realicen investigación científica y desarrollo tecnológico en coordinación con la Dirección Adjunta de Servicios Jurídicos;
 
-XX. Apoyar, en coordinación con la Dirección Adjunta de Desarrollo Regional y Sectorial, y por lo que hace a los Fondos CONACYT, la instrumentación de los procesos para evaluar la inducción, integración, impacto, seguimiento y rendición de cuentas de los proyectos que concursen;
+XX.- Promover y participar en la gestión de las Instituciones de investigación interesadas en obtener su reconocimiento como Centro Público de Investigación;
 
-XXI. Brindar apoyo técnico para la constitución, operación, funcionamiento, evaluación y control de los fondos regulados en la Ley de Ciencia y Tecnología y, en su caso, para los fondos de investigación de los Centros Públicos de Investigación y para los recursos destinados a dichos Centros;
+XXI.- Promover e instrumentar un plan nacional de carrera, un sistema de compensaciones y un sistema nacional de estímulos e incentivos a investigadores y grupos de investigación que faciliten la movilidad interinstitucional, en coordinación con las Direcciones Adjuntas de Ciencia y de Tecnología, respetando los derechos laborales adquiridos individual o colectivamente;
 
-XXII. Coordinar con la Dirección Adjunta de Administración y Finanzas, la constitución, operación, funcionamiento, evaluación y control de los fondos institucionales en materia de ciencia y tecnología, a que se refiere la Ley de Ciencia y Tecnología;
+XXII.- Apoyar, en el ámbito de su competencia, al Consejo General en la integración y la coordinación de los diferentes Comités Intersectoriales y de vinculación que en materia de Ciencia y Tecnología se requieran, para el cumplimiento de lo establecido en la Ley de Ciencia y Tecnología;
 
-XXIII. Proponer los lineamientos de política y proveer lo conducente para la elaboración de los convenios de desempeño, donde se establezcan las bases correspondientes, así como asegurar que los citados convenios de las Entidades Sectorizadas se sometan a la consideración y autorización del Organo de Gobierno de dicha entidad, y ser el conducto para obtener la aprobación de la Secretaría de Hacienda y Crédito Público y la Secretaría de Contraloría y Desarrollo Administrativo. Asimismo gestionar la suscripción de los referidos convenios, por parte del CONACYT y de la Secretaría de Hacienda y Crédito Público;
+XXIII.- Colaborar con las Direcciones Adjuntas de Ciencia y de Tecnología, en la expedición de las Reglas de Operación del Sistema Nacional de Investigadores;
 
-XXIV. Determinar los mecanismos pertinentes para la revisión anual de los convenios de desempeño, así como para asegurar que los centros públicos presenten, la información del ejercicio fiscal correspondiente;
+XXIV.- Coordinar y orientar las acciones de planeación, programación, presupuestación, ejercicio, control y evaluación del gasto de las entidades sectorizadas, en la esfera de su competencia, emitir la conformidad por parte de CONACYT sobre las propuestas de gasto público que realicen las entidades correspondientes para elaborar el anteproyecto de presupuesto y sus modificaciones, asegurando la óptima ministración de recursos que otorga el Gobierno Federal para el desarrollo de las actividades de los Centros coordinados por CONACYT;
 
-XXV. Establecer, los mecanismos y procedimientos que permitan al CONACYT conocer y verificar periódicamente que las entidades sectorizadas realizan y ejecutan sus programas anuales y presupuestos en congruencia con los objetivos y prioridades del Programa Especial de Ciencia y Tecnología, así como adoptar o recomendar las medidas necesarias para corregir las desviaciones detectadas;
+XXV.- Integrar la información general y datos estadísticos que se envíen a la Secretaría de Hacienda y Crédito Público y, en su caso, al Congreso de la Unión, a fin de que se integren al Presupuesto de Egresos de la Federación y a la cuenta pública en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y sus disposiciones administrativas;
 
-XXVI. Ejercer las atribuciones de coordinación y orientación de las acciones de planeación, programación, presupuestación, ejercicio, control y evaluación del gasto de las entidades sectorizadas, en la esfera de su competencia, emitir la conformidad por parte del CONACYT sobre las propuestas de gasto público que realicen las entidades correspondientes para elaborar el anteproyecto de presupuesto y sus modificaciones, aprobar la información general y datos estadísticos que se envíen a la Secretaría de Hacienda y Crédito Público y, en su caso, al Congreso de la Unión, en los términos de la Ley de Presupuesto, Contabilidad y Gasto Público Federal y sus disposiciones administrativas;
+XXVI.- Determinar, en el ámbito de su competencia, la transferencia de recursos a Grupos y Centros de Investigación para el fomento y realización de investigaciones y desarrollos tecnológicos;
 
-XXVII. Asegurar la óptima ministración de los recursos que otorga el Gobierno Federal para el desarrollo de las actividades de los Centros coordinados por el CONACYT;
+XXVII.- Establecer y coordinar la política científica y tecnológica de los Centros Públicos de Investigación, de acuerdo con lo establecido en el Programa Especial de Ciencia y Tecnología e implantar medidas correctivas. Asimismo, determinar los mecanismos y procedimientos que permitan a CONACYT verificar que los Centros Públicos de Investigación, realicen y ejecuten sus programas anuales y presupuestos en congruencia con los objetivos del Programa Especial de Ciencia y Tecnología y el operativo anual;
 
-XXVIII. Aprobar los lineamientos específicos a que se sujetará la formulación de los presupuestos de las entidades del sector, en congruencia con los lineamientos generales de la Secretaría de Hacienda y Crédito Público, así como comunicar los mismos a los titulares de las Entidades Paraestatales coordinadas;
+XXVIII.- Determinar en coordinación con SHCP y SECODAM, los requerimientos de información financiera y presupuestal que se demanden a las entidades coordinadas; asimismo, analizar, integrar, validar y remitir dicha información a las dependencias citadas en coordinación con la Dirección Adjunta de Administración y Finanzas;
 
-XXIX. Aprobar los mecanismos de verificación periódica de los resultados de la ejecución de los programas y presupuestos de las entidades y su congruencia con los objetivos y prioridades del Programa Especial de Ciencia y Tecnología, y ordenar las medidas que habrán de adoptarse para corregir las desviaciones detectadas o, en su caso, reformar los programas y presupuestos respectivos;
+XXIX.- Remitir a la SHCP para su autorización la solicitud de movimientos a las estructuras orgánicas y ocupacionales, así como de personal operativo que realicen las entidades que integran el Sistema de Centros Públicos CONACYT, en coordinación con la Dirección Adjunta de Administración y Finanzas;
 
-XXX. Remitir a la Secretaría de Hacienda y Crédito Público, para su conformidad, si ésta no se emitió en la revisión del Organo de Gobierno, los anteproyectos de presupuesto de gasto financiamiento aprobados por el mismo, dentro de las Entidades Sectorizadas, con el fin de que se integren al proyecto de Presupuesto de Egresos de la Federación;
+XXX.- Brindar apoyo técnico para la constitución, operación, funcionamiento, evaluación y control de los fondos regulados en la Ley de Ciencia y Tecnología y, en su caso, para los fondos de investigación de los Centros Públicos de Investigación y para los recursos destinados a dichos Centros, y
 
-XXXI. Orientar y supervisar las actividades relativas a la programación, presupuestación y evaluación del gasto, y de los resultados de las entidades paraestatales bajo su coordinación;
-
-XXXII. Actualizar la base de datos estadísticos de los centros públicos de investigación;
-
-XXXIII. Participar en el establecimiento y mantenimiento del SIICYT, en coordinación con la Dirección Adjunta de Planeación;
-
-XXXIV. Promover la inscripción al RENIECYT de los Centros Públicos de Investigación en coordinación con la Dirección Adjunta de Servicios Jurídicos;
-
-XXXV. Participar y promover la gestión de las Instituciones de investigación interesadas en obtener su reconocimiento como Centro Público de Investigación;
-
-XXXVI. Conformar el catálogo de proyectos comercializables del Sistema Centros Públicos CONACYT;
-
-XXXVII. Determinar de manera conjunta con los Centros Públicos de Investigación el destino de los recursos autogenerados por éstos;
-
-XXXVIII. Establecer un plan nacional de carrera y un sistema de compensaciones de investigadores que faciliten la movilidad interinstitucional, en coordinación con las Direcciones Adjuntas de Ciencia y de Tecnología, respetando los derechos laborales adquiridos individual o colectivamente;
-
-XXXIX. Participar en el diseño y operación en coordinación con las Direcciones Adjuntas de Ciencia y de Tecnología, de un Sistema Nacional de Estímulos e incentivos a investigadores y grupos de investigación, respetando los derechos laborales adquiridos individual o colectivamente;
-
-XL. Apoyar al Consejo General en la integración y la coordinación de los diferentes Comités Intersectoriales y de vinculación que en materia de Ciencia se requieran, para el cumplimiento de lo establecido en la Ley de Ciencia y Tecnología;
-
-XLI. Participar en colaboración con las Direcciones Adjuntas de Ciencia y de Tecnología, para la expedición de las Reglas de Operación del Sistema Nacional de Investigadores;
-
-XLII. Coordinar las actividades de las entidades sectorizadas para asegurar su participación y la presentación de sus propuestas en la elaboración, revisión, adecuación y ejecución del Programa Especial de Ciencia y Tecnología;
-
-XLIII. Remitir a la SHCP para su autorización la solicitud de movimientos a las estructuras orgánicas y ocupacionales, así como de personal operativo que realicen las entidades coordinadas, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLIV. En coordinación con la SHCP y la SECODAM hará compatibles los requerimientos de información que se demanden a las entidades coordinadas, racionalizando los flujos de información, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLV. Captar, analizar, integrar, validar y remitir a la SHCP y SECODAM la información de las entidades coordinadas, así como la documentación que le fuere solicitada, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLVI. Aprobar y hacer llegar a la SHCP la información mensual, bimensual, trimestral y otras que le solicite esta última a las entidades coordinadas, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLVII. Captar y validar la información que sus entidades coordinadas, deban remitir a la SHCP y, en su caso, determinar las posibles causas y efectos de desviaciones proponiendo las medidas correctivas necesarias, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLVIII. Dar a conocer a sus entidades coordinadas; la forma, términos y periodicidad conforme a las cuales deberán proporcionarle información contable, financiera, presupuestaria, programática y económica, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-XLIX. Aprobar y hacer llegar a la SHCP la información de las entidades coordinadas, para la formulación de la cuenta pública, en coordinación con las Direcciones Adjuntas de Administración y Finanzas y de Planeación;
-
-L. Informar a la SHCP en un plazo no mayor de 30 días naturales, una vez concluido el proceso de desincorporación de una entidad;
-
-LI. Dar a conocer a la SECODAM irregularidades de las entidades coordinadas, que por su naturaleza e importancia impliquen un grave daño o perjuicio de urgente reparación, en coordinación con la Dirección Adjunta de Servicios Jurídicos;
-
-LII. Dar a conocer a la SHCP, las responsabilidades de las entidades coordinadas, que afecten a la Hacienda Pública Federal y al Patrimonio de las entidades derivadas del incumplimiento de la Ley, en coordinación con la Dirección Adjunta de Servicios Jurídicos;
-
-LIII. Consolidar la información relativa a la contratación por parte de las entidades coordinadas de los servicios de consultoría, asesorías y estudios, en coordinación con la Dirección Adjunta de Administración y Finanzas;
-
-LIV. Proponer y, previa aprobación, designar a las personas y servidores públicos, así como coordinar con ellos las actividades inherentes a su designación, y proporcionarles la asistencia y el apoyo técnico requerido, cuando deban ejercer las atribuciones que impliquen la titularidad de las acciones o partes sociales que integren el capital social de las empresas de participación estatal mayoritaria o entidades asimiladas a ese régimen;
-
-LV. Determinar las cuestiones que considere pertinentes para la revisión anual de los convenios de desempeño, así como asegurar que los Centros Públicos rindan al finalizar el ejercicio fiscal correspondiente, la información relativa a los Convenios de Desempeño suscritos;
-
-LVI. Proveer por sí o a través de los miembros representantes del CONACYT, lo conducente ante los Organos de Gobierno y Administración de las entidades sectorizadas, para la oportuna elaboración de los programas anuales y los presupuestos para la ejecución del Programa Especial de Ciencia y Tecnología;
-
-LVII. Establecer, con la participación de la Dirección Adjunta de Administración y Finanzas y el Director General de la entidad correspondiente, los mecanismos y procedimientos que permiten al CONACYT conocer y verificar periódicamente que las entidades sectorizadas realizan y ejecutan sus programas anuales y presupuestos en congruencia con los objetivos y prioridades del Programa Especial de Ciencia y Tecnología, así como adoptar o recomendar las medidas necesarias para corregir las desviaciones detectadas;
-
-LVIII. Recomendar, por sí o a través del representante del CONACYT en el Organo de Gobierno de las entidades sectorizadas, mediante su participación en las sesiones de éste, medidas adicionales sobre los sistemas establecidos por el titular de la respectiva entidad en materia de control, y
-
-LIX. Desempeñar las demás funciones que se establezcan en la Ley de Ciencia y Tecnología, la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
+XXXI.- Desempeñar las demás funciones que se establezcan en la Ley de Ciencia y Tecnología, la Ley Orgánica del Consejo Nacional de Ciencia y Tecnología, en el presente Estatuto y las que le sean encomendadas por el Director General, en la esfera de su competencia.
 
 Dirección Adjunta de Administración y Finanzas
 
@@ -1972,3 +1918,9 @@ DECIMO PRIMERO.- La Dirección Adjunta de Coordinación de Grupos y Centros de I
 DECIMO SEGUNDO.- La Dirección Adjunta de Coordinación de Grupos y Centros de Investigación, en coordinación con la Secretaría de Contraloría y Desarrollo Administrativo, emitirá los lineamientos para la celebración, desarrollo y seguimiento de las sesiones de los Organos de Gobierno de las Entidades coordinadas por el CONACYT, en un plazo que no excederá del 31 de diciembre de 2002.
 
 El presente Estatuto Orgánico del Consejo Nacional de Ciencia y Tecnología, se expide en la Ciudad de México, Distrito Federal, a los doce días del mes de septiembre de dos mil dos.- El Director General, Jaime Parada Avila.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 9 DE MAYO DE 2003.
+
+> <small>N. DE E. EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL PARA EL DISTRITO FEDERAL.</small>
