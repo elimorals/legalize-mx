@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-general-de-gobierno-14750"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-23"
-last_updated: "1999-06-23"
+last_updated: "2005-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14750&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE MARZO DE 2005.
 
-Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 23 de junio de 1999.
+Reglamento publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 23 de junio de 1999.
 
 C.P. PATRICIO MARTÍNEZ GARCÍA, Gobernador Constitucional del Estado Libre y Soberano de Chihuahua, en ejercicio de la facultad que me concede el Artículo 93, Fracción IV de la Constitución Política del Estado, y con fundamento en el Artículo 1º, Fracción VII, Artículos 10, 11, 16, de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, he tenido a bien emitir el siguiente:
 
@@ -55,11 +55,13 @@ REGLAMENTO INTERIOR DE LA SECRETARIA GENERAL DE GOBIERNO
 
 ## TITULO PRIMERO
 
-### CAPÍTULO ÚNICO. DISPOSICIONES PRELIMINARES
+### CAPITULO UNICO. DISPOSICIONES PRELIMINARES
+
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 1º.
 
-La Secretaría General de Gobierno es la Dependencia del Ejecutivo encargada de la conducción de la política interior del Estado; así como de coordinar y conducir las relaciones del Poder Ejecutivo con la Federación, de asesorar jurídicamente a las Dependencias y Entidades del Poder Ejecutivo, a los Ayuntamientos que así lo soliciten, teniendo a su cargo además la Prevención y Readaptación social; la aplicación de las normas del Derecho del Trabajo, el Registro Público de la Propiedad y del Notariado; el Registro Civil, la Regulación del Tránsito y del Transporte Público, así como vigilar la organización y funcionamiento de las Direcciones que ejerzan las atribuciones anteriores en los términos de las disposiciones legales aplicables.
+La Secretaría General de Gobierno es la Dependencia del Ejecutivo encargada de la conducción de la política interior del Estado; así como de coordinar y conducir las relaciones del Poder Ejecutivo con la Federación, de asesorar jurídicamente a las Dependencias y Entidades del Poder Ejecutivo, a los Ayuntamientos que así lo soliciten, teniendo a su cargo además; la aplicación de las normas del Derecho del Trabajo, el Registro Público de la Propiedad y del Notariado; el Registro Civil, el Transporte Público, así como vigilar la organización y funcionamiento de las Direcciones que ejerzan las atribuciones anteriores en los términos de las disposiciones legales aplicables.
 
 ###### ARTICULO 2º.
 
@@ -69,9 +71,11 @@ La Secretaría General de Gobierno, tiene a su cargo el despacho de los asuntos 
 
 El titular de la Secretaría General de Gobierno tendrá el cargo de Secretario General de Gobierno y será nombrado por el Gobernador del Estado, de acuerdo con la Constitución Política del Estado de Chihuahua.
 
-## TITULO SEGUNDO. ESTRUCTURA ORGANICA Y COMPETENCIA
+## TÍTULO SEGUNDO. ESTRUCTURA ORGANICA Y COMPETENCIA
 
-### CAPITULO PRIMERO. ESTRUCTURA ORGANICA
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2005)</small>
+
+### CAPÍTULO PRIMERO. ESTRUCTURA ORGANICA Y COMPETENCIA
 
 ###### ARTICULO 4º.
 
@@ -89,7 +93,9 @@ C) Trabajo y Previsión Social.
 
 D) Registro Civil.
 
-E) Tránsito y Transporte.
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2005)</small>
+
+E) Transporte.
 
 III. Departamentos dependientes de la Dirección de Gobernación:
 
@@ -97,15 +103,9 @@ A) Gobernación.
 
 B) Gobernación en Cd. Juárez.
 
-C) Prevención Social; que tendrá a su cargo la coordinación y evaluación de:
+C) (DEROGADO, P.O. 9 DE MARZO DE 2005)
 
-Tribunal Central para Menores.
-
-Tribunal Superior para Menores.
-
-Escuela de Rehabilitación Social para Menores.
-
-D) Centros de Rehabilitación Social en el Estado.
+D) (DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 E) Jurídico.
 
@@ -143,9 +143,11 @@ C) Oficinas del Registro Civil en el Estado.
 
 D) Departamento de Servicios Administrativos.
 
-VII. Departamentos Dependientes de la Dirección de Tránsito y Transporte:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE MARZO DE 2005)</small>
 
-A) Delegación General de Tránsito.
+VII. Departamentos Dependientes de la Dirección de Transporte:
+
+A) (DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 B) Departamento de Transporte para el Municipio (sic) Chihuahua.
 
@@ -165,11 +167,13 @@ C) Información y Análisis.
 
 F) Coordinación de Servicios Administrativos.
 
-G) Unidad Estatal de Protección Civil.
+G) (DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 H) Las demás que se establezcan en coordinación con otras Secretarías del Poder Ejecutivo del Estado.
 
-### CAPITULO SEGUNDO. COMPETENCIA DE LA SECRETARIA GENERAL DEL GOBIERNO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2005)</small>
+
+### CAPITULO SEGUNDO. COMPETENCIA DE LA SECRETARIA GENERAL DE GOBIERNO
 
 ###### ARTICULO 5º.
 
@@ -195,9 +199,9 @@ IX. Tramitar las Expropiaciones por Causa de Utilidad Pública.
 
 X. Expedir las licencias definitivas a los negocios donde se expendan, distribuyan o consuman bebidas alcohólicas, cualesquiera que sea su naturaleza, y vigilar la correcta aplicación de las disposiciones en esta materia.
 
-XI. Tomar las medidas de prevención social necesarias para la ejecución de las sentencias dictadas por los tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo y acordar todo lo relativo a la libertad absoluta, libertad preparatoria, condena condicional, beneficio preliberacional, indultos y beneficios y las demás atribuciones que en este ramo especifican el Código Penal, el de Procedimientos Penales y demás disposiciones relativas.
+XI. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-XII. Vigilar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como el de los Consejos Tutelares para Menores, Centros de Rehabilitación o de Mejoramiento para Menores, y demás Instituciones similares.
+XII. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 XIII. Llevar un registro general de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y certificaciones expedidas por el Ejecutivo.
 
@@ -211,17 +215,19 @@ XVII. Ejercer las funciones que le competan al Ejecutivo Estatal en materia de T
 
 XVIII. Organizar, dirigir y vigilar el ejercicio de la función del Registro Civil.
 
-XIX. Actuar en materia de tránsito, de acuerdo con las disposiciones del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado de Chihuahua y demás disposiciones legales, en estricta coordinación con las autoridades municipales.
+XIX. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-XX. Ejercer la vigilancia del tránsito y garantizar la seguridad de las carreteras dependientes del Estado y los caminos y demás vías de comunicación de competencia estatal, así mismo coordinar y normar las funciones de la Dirección de Tránsito.
+XX. (DEROGADA P.O. 9 DE MARZO DE 2005)
 
 XXI. Aprobar las tarifas del transporte público y otorgar concesiones o permisos de servicio público de transporte de pasajeros, de carga o mixto, urbano y semiurbano, en las carreteras y demás vías de comunicación de competencia estatal.
 
-XXII. Apoyar a los órganos encargados de ejecutar los programas de protección civil, en coordinación con los Gobiernos Federal y Municipales y los organismos privados y sociales.
+XXII. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 XXIII. Tramitar los recursos Administrativos que competa resolver al Gobernador Constitucional del Estado.
 
-XXIV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación con las funciones de Gobernación; Registro Público de la Propiedad y del Notariado; Trabajo y Previsión Social; Registro Civil; Tránsito y Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2005)</small>
+
+XXIV. Dirigir y vigilar el cumplimiento de las leyes y sus reglamentos en relación con las funciones de Gobernación; Registro Público de la Propiedad y del Notariado; Trabajo y Previsión Social; Registro Civil; Transporte, así como vigilar la organización y el funcionamiento de las Direcciones que ejerzan las atribuciones anteriores.
 
 XXV. Los demás asuntos que le atribuyan la Constitución Política del Estado, la Ley Orgánica del Poder Ejecutivo y otras Leyes y Reglamentos.
 
@@ -251,19 +257,19 @@ VI. Suscribir, para su validez y observancia constitucionales, los reglamentos y
 
 VII. Comparecer ante el Congreso del Estado o ante su Diputación Permanente, cuando sea requerido, para informar sobre la situación que guarde la Secretaría General de Gobierno, o bien, en los casos en que se discuta una ley o estudie un asunto concerniente a sus actividades.
 
-VIII. Presidir el Consejo Estatal de Seguridad Pública, de conformidad con las disposiciones legales y reglamentarias en la materia.
+VIII. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 IX. Ser parte integrante del Consejo Estatal de Seguridad en Carreteras, de acuerdo con lo previsto por la legislación en la materia.
 
 X. Suplir al Gobernador del Estado en su carácter de Presidente del Consejo Estatal de Población cuando la ley así lo prevea.
 
-XI. Fungir como Secretario Ejecutivo del Consejo Estatal de Protección Civil, de conformidad con la legislación aplicable.
+XI. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-XII. Elaborar el Programa Estatal de Protección Civil, así como ejecutar acuerdos que dicten el Gobernador del Estado y el Consejo Estatal de Protección Civil, de acuerdo con lo previsto por la ley de la misma.
+XII. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-XIII. Nombrar y Remover al Titular de la Unidad de Protección Civil.
+XIII. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-XIV. Designar a los Presidentes del Tribunal Central para Menores, así como del Tribunal Superior para Menores.
+XIV. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 XV. Intervenir en la celebración de convenios o acuerdos que comprendan aspectos relacionados con las atribuciones de la Dependencia.
 
@@ -331,15 +337,15 @@ III. Publicar, compilar y archivar las leyes y decretos expedidos por el Poder L
 
 IV. Compilar y archivar el Periódico Oficial del Gobierno del Estado, el Diario Oficial de la Federación y el Semanario Judicial de la Federación.
 
-V. Tomar las medidas de prevención social necesarias para la ejecución de las sentencias dictadas por los tribunales en contra de los reos que hayan sido puestos a disposición del Ejecutivo.
+V. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-VI. Tramitar lo relativo a la libertad absoluta, libertad preparatoria, condena condicional, beneficio preliberacional, indultos y beneficios, exhortos y las demás atribuciones que en este ramo especifica la legislación vigente.
+VI. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 VII. Llevar el registro de firmas de funcionarios y atender todo lo relativo a la legalización de firmas y a las certificaciones expedidas por el ejecutivo.
 
 VIII. Coordinar las actividades de las autoridades municipales y comunicarles los acuerdos del Ejecutivo, conociendo su funcionamiento y dictando las medidas preventivas del caso, en los términos de la Constitución.
 
-IX. Coordinar y evaluar el adecuado funcionamiento de las cárceles y establecimientos penitenciarios, así como de los consejos tutelares para menores, centros de rehabilitación o de mejoramiento para menores, y demás instituciones similares.
+IX. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
 X. Instrumentar los procedimientos de Expropiación por Causa de Utilidad Pública, promovidos por el Ejecutivo.
 
@@ -461,37 +467,39 @@ XIII. Nombrar y remover libremente a los oficiales de Certificación del Registr
 
 XIV. Las demás funciones que le sean asignadas por las disposiciones legales y reglamentarias correspondientes y por el Secretario General de Gobierno.
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 15º.
 
-Compete a la Dirección de Tránsito y Transporte:
+Compete a la Dirección de Transporte:
 
-I. Cuidar la observancia de la Ley de Tránsito, la Ley de Transporte y sus Vías de Comunicación y los ordenamientos que de ellas emanen, de conformidad con lo que confieren expresamente esas leyes y demás normas jurídicas.
+I. Cuidar la observancia de la Ley de Transporte y sus Vías de Comunicación y los ordenamientos que de ellas emanen, de conformidad con lo que confieren expresamente esas leyes y demás normas jurídicas.
 
-II. Actuar en materia de tránsito, de acuerdo con las disposiciones del Artículo 115 de la Constitución Política de lo (sic) Estados Unidos Mexicanos, de la Constitución Política del Estado de Chihuahua y demás disposiciones legales y reglamentarias, en coordinación con las autoridades municipales.
+II. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-(SIC) Inspeccionar los servicios relativos a la ingeniería de tránsito y al señalamiento de la vialidad en el Estado, con el propósito de salvaguardar y proteger la integridad física y el patrimonio de los conductores de vehículos y de los peatones.
+III. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-Realizar, en apoyo y con la participación de los Municipios, los estudios necesarios sobre tránsito de vehículos, con el fin de lograr una mejor utilización de las vías y de los medios de transporte.
+IV. Realizar, en apoyo y con la participación de los Municipios, los estudios necesarios sobre tránsito de transporte, con el fin de lograr una mejor utilización de las vías de comunicación.
 
-Llevar a cabo, con el concurso de los Municipios cuando así se requiera, los estudios para determinar las medidas técnicas y de operación de todos los medios de trasporte urbano, con el objeto de que se complementen armónicamente entre sí y con las obras de infraestructura vial.
+V. Llevar a cabo, con el concurso de los Municipios cuando así se requiera, los estudios para determinar las medidas técnicas y de operación de todos los medios de trasporte urbano, con el objeto de que se complementen armónicamente entre sí y con las obras de infraestructura vial.
 
-Coordinar las actividades en materia de vialidad y transporte, con las autoridades federales, estatales y municipales, así como con otros organismos cuya competencia u objeto se relacionen con estos asuntos.
+VI. Coordinar las actividades en materia de vialidad y transporte, con las autoridades federales, estatales y municipales, así como con otros organismos cuya competencia u objeto se relacionen con estos asuntos.
 
-Planear, autorizar, vigilar, coordinar y controlar los servicios de transporte público, con el apoyo de las autoridades municipales, conforme a lo estipulado por la legislación vigente.
+VII. Planear, autorizar, vigilar, coordinar y controlar los servicios de transporte público, con el apoyo de las autoridades municipales, conforme a lo estipulado por la legislación vigente.
 
-Otorgar, revocar y modificar, de conformidad con las disposiciones legales y reglamentarias, los permisos y concesiones necesarios para la explotación de vialidades de jurisdicción estatal, así como ejercer, en su caso, el derecho de reversión.
+VIII. Otorgar, revocar y modificar, de conformidad con las disposiciones legales y reglamentarias, los permisos y concesiones necesarios para la explotación de vialidades de jurisdicción estatal, así como ejercer, en su caso, el derecho de reversión.
 
-Inspeccionar las vías de comunicación y los medios de transporte estatales, en coordinación con las autoridades municipales y federales cuando así corresponda.
+IX. Inspeccionar los medios de transporte estatales, en coordinación con las autoridades municipales y federales cuando así corresponda.
 
-Establecer la normatividad en la materia de vialidad en zonas urbanas, carreteras y caminos de jurisdicción estatal, en coordinación con las instancias federales y municipales respectivas.
+X. (DEROGADA, P.O. 9 DE MARZO DE 2005)
 
-Planear y regular el uso adecuado de las comunicaciones terrestres y de los transportes en el Estado.
+XI. Planear y regular el uso adecuado de los transportes en el Estado.
 
-Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones y permisos de servicio público de transporte de personas, de carga, y mixto, en las carreteras y demás vías de comunicación de competencia estatal.
+XII. Aprobar las tarifas de transporte público y tramitar las solicitudes para el otorgamiento de concesiones y permisos de servicio público de transporte de personas, de carga, y mixto, en las carreteras y demás vías de comunicación de competencia estatal.
 
-Nombrar y remover a los delegados, comandantes, oficiales y agentes de las Delegaciones de Tránsito a cargo del Estado, así como a los inspectores de transporte.
+XIII. Nombrar y remover a los inspectores de transporte.
 
-Las demás funciones que le sean asignadas por las disposiciones legales y reglamentarias correspondientes y por el Secretario General de Gobierno.
+XIV. Las demás funciones que le sean asignadas por las disposiciones legales y reglamentarias correspondientes y por el Secretario General de Gobierno.
 
 ### CAPITULO CUARTO. COMPETENCIA DE LOS DEPARTAMENTOS
 
@@ -587,25 +595,11 @@ III. Las demás funciones que le señalen las disposiciones legales y reglamenta
 
 ###### ARTICULO 21°.
 
-Compete al Departamento de Prevención Social:
-
-I. Coordinar las medidas necesarias para llevar a cabo la ejecución de las sentencias emitidas por los tribunales en contra de los sentenciados, cuando éstos hayan sido puestos a disposición del Ejecutivo Estatal.
-
-II. Vigilar el cumplimiento de las normas preventivas y el establecimiento de instituciones tutelares de menores infractores.
-
-III. Coordinar y evaluar el funcionamiento de los Centros de Readaptación Social ubicados en la Ciudad de Chihuahua y supervisar el funcionamiento de los establecidos en el resto del Estado.
-
-IV. Tramitar las solicitudes de extradición, amnistía, indultos, libertad anticipada y traslado de reos, de conformidad con la legislación correspondiente.
-
-V. Promover y coordinar la elaboración de programas de educación, trabajo y enseñanzas de prácticas y oficios, con el fin de lograr la corrección y rehabilitación de los delincuentes.
-
-VI. Promover y evaluar la implantación de medidas de seguridad e higiene en los centros de rehabilitación social y tribunales para menores, que conlleven a evitar disturbios en los mismos y a propiciar la superación de los reclusos.
-
-VII. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director de Gobernación.
+(DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 ###### ARTICULO 22°.
 
-El Centro de Rehabilitación Social del Estado, el Tribunal Central para Menores, el Tribunal Superior para Menores y la Escuela de Rehabilitación para Menores se regirán de acuerdo a la legislación aplicable y a sus reglamentos interiores respectivos.
+(DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 ###### ARTICULO 23º.
 
@@ -839,39 +833,13 @@ IX. Concentrar en la Dirección del Registro Civil, los primeros cinco días de 
 
 X. Las demás funciones que le señalen las disposiciones legales y reglamentadas y las que le asigne el Director del Registro Civil, directamente o por conducto del Departamento de Normatividad y Apoyo.
 
-### CAPITULO NOVENO. COMPETENCIA DE LOS DEPARTAMENTOS DE LA DIRECCION DE TRANSITO Y TRANSPORTE
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE MARZO DE 2005)</small>
+
+### CAPITULO NOVENO. COMPETENCIA DE LOS DEPARTAMENTOS DE LA DIRECCION DE TRANSPORTE
 
 ###### ARTICULO 34°.
 
-Compete a la Delegación General de Tránsito:
-
-I. Vigilar y coordinar la aplicación de las disposiciones establecidas en la Ley de Tránsito del Estado de Chihuahua.
-
-II. Planear, dirigir, coordinar y supervisar el desempeño de las Delegaciones de Tránsito en el Estado bajo la responsabilidad del Ejecutivo Estatal, y realizar las labores de rectoría y vigilancia en aquellas Delegaciones cuyo funcionamiento se encuentre bajo la jurisdicción de los Ayuntamientos.
-
-III. Determinar las características de los dispositivos y señales para la regulación del tránsito en las vías de circulación.
-
-IV. Coordinar el Programa de Educación Vial en el Estado.
-
-V. Estudiar y aprobar los proyectos de operativos de seguridad, en los que participen la Policía de Tránsito de las Delegaciones a su cargo.
-
-VI. Vigilar que las Delegaciones de Tránsito a cargo del Ejecutivo, como las que estén a cargo de los Municipios, cumplan y hagan cumplir el Reglamento Interior de la Corporación.
-
-VII. Supervisar la autorización de permisos provisionales para circular, de conformidad con lo estipulado en la Ley de Tránsito.
-
-VIII. Verificar la instalación y el mantenimiento de los señalamientos viales a cargo de las Delegaciones de Tránsito bajo la responsabilidad del Ejecutivo Estatal.
-
-IX. Formular, en coordinación con los Ayuntamientos, proyectos y programas tendientes a optimizar la prestación de los servicios de tránsito en el Estado, y someterlos a la consideración del Director de Tránsito y Transporte.
-
-X. Coordinarse con autoridades federales, estatales y municipales, y con los sectores privado y social, para establecer normas de seguridad y operación, en actividades que requieran realizarse de manera conjunta.
-
-XI. Establecer, en coordinación con los ayuntamientos cuando así proceda, sistemas y procedimientos para realizar las funciones estipuladas en la Ley de Tránsito, y vigilar su operación.
-
-XII. Vigilar la aplicación de sanciones administrativas y económicas a los infractores de la Ley de Tránsito del Estado de Chihuahua.
-
-XIII. Proponer al Director el Nombramiento y la remoción de delegados, comandantes, oficiales y agentes de las Delegaciones de Tránsito a cargo del Estado.
-
-XIV. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director de Tránsito y Transporte.
+(DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 ###### ARTICULO 35º.
 
@@ -899,7 +867,9 @@ X. Detectar necesidades del servicio de transporte público, a través de estudi
 
 XI. Proponer al Director el nombramiento y la remoción de los inspectores de transporte.
 
-XII. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director de Tránsito y Transporte.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2005)</small>
+
+XII. Las demás funciones que le señalen las disposiciones legales y reglamentarias y las que le asigne el Director Transporte.
 
 ###### ARTICULO 36º.
 
@@ -995,25 +965,7 @@ IX. Las demás funciones que le asigne el Secretario General de Gobierno.
 
 ###### ARTICULO 43°.
 
-Compete a la Unidad Estatal de Protección Civil:
-
-I. Auxiliar en la elaboración e implantación de Programas de la materia, dirigiendo, supervisando y controlando los mismos.
-
-II. Coordinar su actividad con las Dependencias, con las Instituciones, y Organismos de los Sectores Público, Social y Privado, con los voluntarios y con la población en general.
-
-III. Por conducto de su titular, desempeñar el cargo de Secretario Técnico del Consejo Estatal de Protección Civil y dar seguimiento a los acuerdos que tome el propio Consejo.
-
-IV. Identificar y diagnosticar los riesgos a los que está expuesta la Entidad Federativa, y elaborar el Atlas Estatal de Riesgos.
-
-V. Coordinar y dirigir técnica y operativamente la atención de las emergencias.
-
-VI. Aplicar el Plan de Emergencia o los Programas establecidos por el Consejo Estatal y asegurar la adecuada coordinación de las acciones.
-
-VII. Auxiliar a la Secretaría General de Gobierno en la elaboración, instrumentación, operación y coordinación del Programa Estatal de Protección Civil.
-
-VIII. Promover la participación, integración y registro de grupo de voluntarios al Sistema Estatal de Protección Civil.
-
-IX. En general, realizar todo cuanto corresponda a la Secretaria General de Gobierno en materia de Protección Civil.
+(DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 ###### ARTICULO 44º.
 
@@ -1021,15 +973,15 @@ La Secretaría General de Gobierno podrá celebrar con las demás dependencias d
 
 ### CAPITULO DECIMO PRIMERO. AREAS DE PARTICIPACION DE LA SECRETARIA GENERAL DE GOBIERNO EN ORGANISMOS DE COLABORACION INTERINSTITUCIONAL
 
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2005)</small>
+
 ###### ARTICULO 45º.
 
-El Secretario General de Gobierno será parte integrante del Consejo Estatal de Seguridad Pública, teniendo la obligación de proporcionar los Servicios de Seguridad Pública, cuando así lo prevea la (sic) disposiciones legales aplicables en la materia.
-
-El Consejo Estatal de Seguridad Pública es un organismo cuyas atribuciones son el determinar las características generales a que habrán de sujetarse las políticas y programas para la prevención de delitos, los apoyos de la fuerza pública para el eficaz cumplimiento de las resoluciones que dicten las autoridades judiciales y en general todo lo relativo a la materia de Seguridad Pública en el Estado.
+El Secretario General de Gobierno será parte integrante del Consejo Estatal de Seguridad Pública.
 
 ###### ARTICULO 46°.
 
-El Secretario General de Gobierno fungirá como Secretario Ejecutivo de Consejo Estatal de Protección Civil, el cual es el órgano máximo del Sistema Estatal de Protección Civil, mismo que tiene por objeto salvaguardar a las personas, los bienes públicos, privados y el entorno, ante la posibilidad de siniestro o desastre, producido por causas de origen natural o humano, con funciones consultivas de Coordinación de acciones y de participación social para la planeación en el Estado y el conductor formal para convocar a los Sectores de la Sociedad para su integración al Sistema Estatal de Protección Civil.
+(DEROGADO, P.O. 9 DE MARZO DE 2005)
 
 ###### ARTICULO 47º.
 
@@ -1063,7 +1015,9 @@ III. El Director de Trabajo y Previsión Social, será suplido en sus ausencias 
 
 IV. El Director del Registro Civil, será suplido en sus ausencias por el Jefe del Departamento de Normatividad y Apoyo, y esté último por el Oficial del Registro Civil de la Capital del Estado que al efecto designe el Director, en este orden, en aquellas ausencias que sean menores de 15 días. Si exceden de quince días el Director del Registro Civil, será suplido por el funcionario que el Secretario General de Gobierno designe para el efecto.
 
-V. El Director de Tránsito y Transporte, será suplido en sus ausencias por el Jefe del Departamento de Tránsito para el Municipio de Chihuahua, en este orden, en aquellas ausencias que sean menores de quince días. Si exceden de quince días, el Director de Tránsito y Transporte será suplido por el funcionario que el Secretario General de Gobierno designe para el efecto.
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2005)</small>
+
+V. El Director de Transporte, será suplido en sus ausencias por el Jefe del Departamento de Transporte para el Municipio de Chihuahua, en aquellas ausencias que sean menores de quince días. Si exceden de quince días, el Director de Transporte será suplido por el funcionario que el Secretario General de Gobierno designe para el efecto.
 
 ###### ARTICULO 52º.
 
@@ -1092,3 +1046,9 @@ C.P. PATRICIO MARTÍNEZ GARCÍA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VÍCTOR EMILIO ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE MARZO DE 2005.
+
+ARTÍCULO.- Las reformas y adiciones a que se refiere el presente acuerdo entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
