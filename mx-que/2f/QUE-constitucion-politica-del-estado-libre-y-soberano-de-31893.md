@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1969-07-31"
+last_updated: "1969-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 1969.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1969.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -1327,11 +1327,11 @@ Si al comenzar un período constitucional, no se presentare el Gobernador electo
 
 En los casos de los cuatro artículos que anteceden, al faltar definitivamente el Gobernador, quedará investido provisionalmente de este cargo, el Presidente del Tribunal Superior de Justicia, para sólo el efecto de promulgar el decreto por el cual se nombra Gobernador interino o provisional, en sus respectivos casos.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 88.
 
-Cuando la falta fuere temporal y exceda de ocho días sin pasar de sesenta, lo suplirá por ministerio de Ley, el Secretario General de Gobierno que el mismo gobernador designe, siempre que el nombrado reúna los requisitos que señale la Constitución para ser Gobernador; en el caso de que el designado no reuna los requisitos a que se alude, por ministerio de ley asumirá las funciones a que este artículo se refiere el otro Secretario General de Gobierno. Si ninguno de los Secretarios reune los requisitos necesarios para ser Gobernador, la Legislatura o, en su caso la Diputación Permanente, designará desde luego un Gobernador Interino que funcione por el tiempo que dure la falta del propietario.
+Cuando la falta fuere temporal y no exceda de ocho días sin pasar de sesenta, lo suplirá por ministerio de Ley, el Secretario General de Gobierno que el mismo gobernador designe, siempre que el nombrado reúna los requisitos que señala la Constitución para ser Gobernador; en el caso de que el designado no reúna los requisitos a que se alude, por ministerio de ley asumirá las funciones a que este artículo se refiere el otro Secretario General de Gobierno. Si ninguno de los Secretarios reúne los requisitos necesarios para ser Gobernador, la Legislatura o, en su caso la Diputación Permanente, designará desde luego un Gobernador Interino que funcione por el tiempo que dure la falta del propietario.
 
 ###### Art. 89.
 
@@ -1341,7 +1341,7 @@ El cargo de Gobernador debe preferirse a cualquier otro del Estado, y sólo es r
 
 El Gobernador Constitucional, y el interino en su caso, al tomar posesión del cargo, prestarán ante la Legislatura o ante la Diputación Permanente, en los recesos de aquélla, la siguiente protesta: <<Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y todas las Leyes que de ellas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador del Estado que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la República y de esta Entidad Federativa.>> <<Si así no lo hiciere, que el Estado y la Nación me lo demanden.>>
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 91.
 
@@ -1453,7 +1453,7 @@ La infracción de las disposiciones de este artículo será causa de responsabil
 
 Del Secretario de Gobierno
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 95.
 
@@ -1471,19 +1471,19 @@ II.- Ser mayor de 30 años;
 
 III.- No pertenecer al estado eclesiástico, ni ser ministro de alguna religión o secta.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 97.
 
 En caso de falta temporal o absoluta de ambos Secretarios de Gobierno, mientras se hace el nuevo nombramiento, asumirá sus funciones el Oficial Mayor de la Secretaría.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 98.
 
-El titular del Ejecutivo del Estado, determinará los negocios que deban ser despachados por cada uno de los Secretarios de Gobierno, sin que por ello desaparezca la igualdad en funciones y atribuciones que menciona el Artículo 95.
+El titular del Ejecutivo del Estado determinará los negocios que deban ser despachados por cada uno de los Secretarios de Gobierno, sin que por ello desaparezca la igualdad de funciones y atribuciones que menciona el Artículo 95.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1969)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1969)</small>
 
 ###### Art. 99.
 
@@ -1491,9 +1491,9 @@ El Secretario de Gobierno que al efecto designe el Ejecutivo del Estado, concurr
 
 I.- Con el Gobernador, al abrirse el 16 de septiembre el período de sesiones;
 
-II.- Siempre que el Gobierno lo mande a tomar parte en las deliberaciones del Congreso, para manifestar la opinión del Ejecutivo en el asunto de que se trate;
+II.- Siempre que el Gobierno lo mande a tomar parte de las deliberaciones del Congreso, para manifestar la opinión del Ejecutivo en el asunto de que se trate;
 
-III.- Cuando fuere llamado por la Cámara, para que manifieste si el Ejecutivo tiene o no que hacer observaciones a algún proyecto de Ley o Decreto o para que informe sobre cualquier asunto.
+III.- Cuando fuere llamado por la Cámara, para que manifieste si el Ejecutivo tiene o no que hacer observaciones a algún proyecto de ley o decreto o para que informe sobre cualquier asunto.
 
 ## TRANSITORIOS.
 
@@ -1676,3 +1676,7 @@ ARTICULO TRANSITORIO.- La presente Ley surtirá sus efectos desde la fecha de su
 P.O. 31 DE JULIO DE 1969
 
 UNICO.- Aprobadas que fuesen las reformas propuestas por la mayoría de los Ayuntamientos de los Municipios del Estado, téngase por reformada la Constitución Local en los términos ya expresados.
+
+P.O. 25 DE SEPTIEMBRE DE 1969
+
+UNICO.- La presente Ley principiará a surtir sus efectos a partir de su publicación en el Periódico Oficial de esta Entidad.
