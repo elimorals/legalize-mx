@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1984-09-10"
+last_updated: "1984-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE SEPTIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE OCTUBRE DE 1984.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -851,11 +851,11 @@ VI.- El Jurado Popular; y
 
 VII.- Los demás funcionarios y auxiliares de la Administración de Justicia.
 
-> <small>(REFORMADO, B.O. 10 DE SEPTIEMBRE DE 1984)</small>
+> <small>(REFORMADO, B.O. 20 DE OCTUBRE DE 1984)</small>
 
-90.- El Tribunal Superior de Justicia del Estado se integra por cuatro Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Diputación Permanente, en su caso, en los términos de esta Constitución.
+90.- El Tribunal Superior de Justicia del Estado se integra por cinco Magistrados Numerarios, nombrados directamente por el Gobernador, con aprobación del Congreso del Estado o de la Comisión Permanente, en su caso, en los términos de esta Constitución.
 
-Para el trámite de las renuncias de los Magistrados del Tribunal, se seguirá el mismo procedimiento que para su nombramiento.
+Para el trámite de las renuncias de los Magistrados del Tribunal se seguirá el mismo procedimiento que para su nombramiento.
 
 91.- Para ser Magistrado se requiere:
 
@@ -1654,3 +1654,9 @@ DECRETO NUMERO 467.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+B.O. 20 DE OCTUBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
