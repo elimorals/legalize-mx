@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-servicio-militar-972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1942-11-10"
-last_updated: "1943-07-12"
+last_updated: "1944-10-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1942-09-08"
 
 REGLAMENTO DE LA LEY DEL SERVICIO MILITAR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JULIO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE OCTUBRE DE 1944.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 10 de noviembre de 1942.
 
@@ -498,6 +498,10 @@ El Presidente de la Junta designará a un menor de diez años, a quien se coloca
 ###### ARTICULO 79.
 
 Los jóvenes cuyos números ordinales vayan del uno al fijado para los conscriptos del Municipio, están en la obligación de ir a las unidades del activo; el resto se anotará en las listas definitivas con el signo de 20% y estarán obligados a ir a las unidades del activo, progresivamente, para cubrir las vacantes y siempre en el orden en que fueron sorteados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
+Los que no cumplan con este mandato serán juzgados por el delito de insumisión.
 
 ###### ARTICULO 80.
 
@@ -1309,9 +1313,11 @@ La Junta Municipal de Reclutamiento tiene la obligación ineludible de reunir a 
 
 Reunidos los conscriptos y los del 20% el día y hora designados para que aquellos marchen a incorporarse a las Unidades del activo, se pasará lista a fin de comprobar si todos están presentes; si faltaren algunos se avisará a los presentes del 20% que ocupen los primeros lugares de la lista hasta cubrir el número de conscriptos faltantes, que tienen obligación de permanecer en la localidad y presentarse cuatro días después para incorporarse, en caso de que para entonces continúen aquellos ausentes.
 
+> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 1944)</small>
+
 ###### ARTICULO 204.
 
-Al cuarto día de la fecha en que deben presentarse los conscriptos, la Junta Municipal de Reclutamiento consignará a las autoridades judiciales de la Federación a quienes no se hubieren presentado.
+Al cuarto día de la fecha en que deben presentarse los conscriptos, la Junta Municipal de Reclutamiento consignará al Ministerio Público Militar a quienes no se hubieren presentado, levantando previamente, una acta en la que se haga constar la falta de presentación.
 
 ###### ARTICULO 205.
 
@@ -1594,3 +1600,13 @@ D.O.F. 12 DE JULIO DE 1943.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 17 DE OCTUBRE DE 1944.
+
+###### ARTICULO 1°
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2°
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
