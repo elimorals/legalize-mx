@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-procedimientos-penales-para-el-estado-de-2595"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-04-12"
-last_updated: "2002-03-11"
+last_updated: "2002-06-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2595&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JUNIO DE 2002.
 
 Código publicado en el Suplemento al Número 15, del Periódico Oficial del Estado de Aguascalientes, el 12 de abril de 1992.
 
@@ -1439,13 +1439,17 @@ Si se tratare de homicidio, además de otras diligencias que sean procedentes, s
 
 Para certificar la pérdida de la vida, deberá comprobarse previamente la existencia de los siguientes signos de muerte:
 
-I.- Ausencia completa y permanente de conciencia;
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2002)</small>
 
-II.- Ausencia permanente de respiración espontánea;
+I.- Ausencia permanente de la respiración espontánea; y
 
-III.- Falta de percepción y respuesta a los estímulos externos; y
+> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2002)</small>
 
-IV.- Ausencia de los reflejos de los pares craneales y de los reflejos medulares.
+II.- Ausencia permanente de latidos cardíacos.
+
+III.- (DEROGADA, P.O. 10 DE JUNIO DE 2002)
+
+IV.- (DEROGADA, P.O. 10 DE JUNIO DE 2002)
 
 Si el cadáver hubiere sido sepultado se procederá a exhumarlo.
 
@@ -3818,5 +3822,9 @@ P.O. 26 DE NOVIEMBRE DE 2001.
 El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
 
 P.O. 11 DE MARZO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JUNIO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
