@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-los-municipios-del-estado-de-baja-2949"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-31"
-last_updated: "1988-12-31"
+last_updated: "1989-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 1985.
 
@@ -139,7 +139,9 @@ El impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de c
 
 El impuesto predial sobre la propiedad urbana se causará:
 
-a).- A razón de 5 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+a).- A razón de 5 al millar sobre el valor catastral de los predios destinados totalmente por el contribuyente para su propia casa habitación; en este caso no se aplicará el segundo párrafo del inciso "C" de este artículo.
 
 b).- A razón de 10 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa-habitación del contribuyente.
 
@@ -208,6 +210,14 @@ Están obligados al pago del impuesto sobre adquisición de inmuebles establecid
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
 Cuando del inmueble forman parte departamentos habitacionales la reducción se hará por cada uno de ellos, lo dispuesto en este párrafo no es aplicable a hoteles.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+En el caso de transmisión por causa de muerte entre parientes dentro del cuarto grado línea directa ascendente, descendente, el impuesto se calculará aplicando la tasa del 1% del valor del inmueble, después de reducirlo en 10 veces el salario mínimo general de la zona elevado al año, al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte, se causará aplicando la tasa prevista en el primer párrafo de este artículo, independientemente de que se cause por el cesionario, por la sucesión o por el adquiriente.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+En el caso de la fracción XIII del Artículo 16, el impuesto se calculará aplicando la tasa del 5% del valor del inmueble después de reducirlo en cinco veces el salario mínimo general de la zona elevado al año.
 
 > <small>(REFORMADO, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -285,13 +295,17 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad, en el caso de usufructo temporal, cuando se extinga.
 
-II.- Tratándose de adquisiciones efectuadas a través de Fideicomiso, cuando se realicen los supuestos de enajenación, en los términos del Código Fiscal de la Federación.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
+
+II.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realice la escritura pública en la que se transmita a la fiduciaria la propiedad del inmueble.
 
 III.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-> <small>(ADICIONADA, B.O. 1 DE JULIO DE 1987)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1989)</small>
 
-IV.- A la adjudicación de los bienes de la sucesión o a los dos años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiese llevado la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes de la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
+IV.- A la adquisición de los bienes de la sucesión, o a los dos años de la muerte del autor de la misma, si transcurrido ese plazo no se hubiere llevado la adjudicación.
+
+Al cederse los derechos hereditarios o enajenarse bienes de la sucesión, el impuesto correspondiente a la adquisición por causa de muerte se causará en el momento en que se realice la cesión o la enajenación.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -1935,7 +1949,7 @@ T A R I F A :
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
-I.- Automóviles de sitios o táxis (sic) por metro lineal anualmente 1 día salario mínimo.
+I.- Automóviles de sitios o táxis por metro lineal anualmente 1 día salario mínimo.
 
 > <small>(REFORMADA, B.O. 1 DE JULIO DE 1987)</small>
 
@@ -2246,3 +2260,9 @@ B.O. 31 DE DICIEMBRE DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día primero de enero de 1989.
+
+B.O. 20 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el día Primero de Enero de 1990.
