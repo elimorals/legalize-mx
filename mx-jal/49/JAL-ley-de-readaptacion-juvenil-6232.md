@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-readaptacion-juvenil-6232"
 country: "mx"
 rank: "ley"
 publication_date: "1958-08-09"
-last_updated: "1970-01-01"
+last_updated: "1981-10-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6232&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE READAPTACION JUVENIL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 9 de agosto de 1958.
 
@@ -41,11 +41,13 @@ LEY DE READAPTACION JUVENIL.
 
 Principios Generales.
 
-> <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 1969)</small>
+> <small>(REFORMADO, P.O. 31 DE OCTUBRE DE 1981)</small>
 
 ###### Artículo 1o.
 
-Los infractores menores de dieciséis años, que no estén legalmente emancipados no podrán ser sometidos a proceso ante las autoridades judiciales, sino que quedarán sujetos directamente a los organismos especiales a que se refiere esta Ley, para que previa la investigación y observación necesarias, se dicten las medidas conducentes para su educación y adaptación social, así como para atacar la causa o causas determinantes de su infracción.
+Los infractores menores de 18 años no podrán ser sometidos a proceso ante las Autoridades Judiciales sino que quedarán sujetos directamente a los Organismos Especiales a que se refiere la presente Ley, para que previa la investigación y observación necesarias, se dicten las medidas conducentes para su educación y adaptación social, así como para combatir la causa o causas determinantes de su infracción. Los menores de 12 años que no se encuentren abandonados y que vivan dentro de un seno familiar de buenas costumbres, no podrán ser tratados en ninguno de los establecimientos de Readaptación Social para el menor, pero sí serán sujetos al procedimiento respectivo.
+
+Se considerarán menores infractores los que teniendo menos de 18 años de edad, cometan una acción u omisión que las leyes penales sancionen.
 
 ###### Artículo 2o.
 
@@ -434,3 +436,9 @@ UNICO.- Esta Ley empezará a surtir sus efectos a los 3 días siguientes de su p
 P.O. 1 DE ENERO DE 1970.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 31 DE OCTUBRE DE 1981.
+
+Primero. Este Decreto comenzará a surtir sus efectos al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+Segundo. Los mayores de 16 años y menores de 18 que se encuentren actualmente procesados por alguno de los delitos previstos en el Código Penal serán remitidos a la Granja Industrial Juvenil de Recuperación para su tratamiento en los términos de la Ley de Readaptación Juvenil. Los Jueces que conozcan de esos procesos deberán sobreseerlos al entrar en vigor este Decreto.
