@@ -4,7 +4,7 @@ identifier: "LCF"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-27"
-last_updated: "1991-12-20"
+last_updated: "1992-07-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=692&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCF"
 
 LEY DE COORDINACION FISCAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación el miércoles 27 de diciembre de 1978.
 
@@ -249,6 +249,12 @@ No estarán sujetas a lo dispuesto en el primer párrafo de este artículo las c
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 En el reglamento que expida el Ejecutivo Federal se señalarán los requisitos para el registro de las obligaciones de Entidades y Municipios.
+
+> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 1992)</small>
+
+###### ARTICULO 9o-A.
+
+La Federación, a través de la Secretaría de Hacienda y Crédito Público, los Estados y los Municipios en donde existan puentes de peaje operados por la primera, podrán convenir en crear fondos cuyos recursos se destinen a la construcción, mantenimiento, reparación y ampliación de obras de vialidad en aquellos Municipios donde se ubiquen dichos puentes. La aportación a los fondos mencionados se hará en montos iguales por la Federación, Estado y Municipio sin que la aportación de la primera pueda exceder de un 10% del monto total de los ingresos que obtenga por la operación del puente de peaje de que se trate.
 
 ### CAPITULO II. Del Sistema Nacional de Coordinación Fiscal
 
@@ -881,3 +887,9 @@ D.O.F. 20 DE DICIEMBRE DE 1991.
 ## TRANSITORIO
 
 UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1992.
+
+D.O.F. 20 DE JULIO DE 1992.
+
+## TRANSITORIO
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
