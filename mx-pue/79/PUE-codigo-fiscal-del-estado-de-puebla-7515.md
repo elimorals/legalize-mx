@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2004-02-27"
+last_updated: "2004-08-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 2004.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -1099,7 +1099,7 @@ Los testigos pueden ser sustituidos en cualquier tiempo por no comparecer al lug
 
 III.- Las autoridades Fiscales podrán solicitar a otras Autoridades competentes que practiquen visitas, para comprobar hechos relacionados con las que aquéllas estén realizando.
 
-> <small>(REFORMADA, P.O. 11DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2003)</small>
 
 IV.- Los visitados, sus representantes o la persona con quien se entiendan las visitas, en el domicilio fiscal, están obligados a permitir a los visitadores designados por las autoridades fiscales, el acceso al lugar o lugares de la misma, así como mantener a su disposición la contabilidad y documentación que acredite el cumplimiento de las disposiciones fiscales, de las que los visitadores podrán obtener copias, las cuales previo cotejo con sus originales serán entregadas a los mismos, por escrito firmado por el contribuyente, representante legal o del tercero con quien se entienda la visita y podrán ser anexadas al acta final o a las parciales que se levanten con motivo de la visita.
 
@@ -1459,61 +1459,61 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-I.- De $ 38.00 a $ 77.00 a la comprendida en la fracción VI.
+I.- De $ 40.00 a $ 80.00 a la comprendida en la fracción VI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-II.- De $ 113.00 a $ 230.00 a la comprendida en la fracción II.
+II.- De $ 118.00 a $ 240.00 a la comprendida en la fracción II.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-III.- De $ 153.00 a $ 305.00 a la comprendida en la fracción III.
+III.- De $ 160.00 a $ 318.00 a la comprendida en la fracción III.
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2004)</small>
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-IV.- De $163.00 a $326.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
+IV.- De $198.00 a $396.00 a la establecida en la fracción V. Tratándose de declaraciones correspondientes al Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, la multa impuesta se reducirá en un 50%, al momento de efectuar su pago, cuando el contribuyente demuestre que únicamente tiene a su servicio hasta dos trabajadores, siempre que las erogaciones efectuadas por remuneraciones al trabajo personal no excedan del equivalente a cuatro veces el salario mínimo vigente en el Estado.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-V.- De $ 190.00 a $ 380.00 a la establecida en la fracción VII.
+V.- De $ 198.00 a $ 396.00 a la establecida en la fracción VII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-VI.- De $ 230.00 a $ 457.00 a la comprendida en la fracción XV.
+VI.- De $ 240.00 a $ 477.00 a la comprendida en la fracción XV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-VII.- De $ 305.00 a $ 609.00 a la señalada en la fracción XVIII.
+VII.- De $ 318.00 a $ 635.00 a la señalada en la fracción XVIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-VIII.- De $ 381.00 a $ 763.00 a las comprendidas en las fracciones IX y XI.
+VIII.- De $ 397.00 a $ 797.00 a las comprendidas en las fracciones IX y XI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-IX.- De $ 571.00 a $ 1,142.00 a la establecida en la fracción X.
+IX.- De $ 595.00 a $ 1,192.00 a la establecida en la fracción X.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-X.- De $ 608.00 a $ 1,220.00 a la comprendida en la fracción IV.
+X.- De $ 634.00 a $ 1,273.00 a la comprendida en la fracción IV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-XI.- De $ 687.00 a $ 1,373.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+XI.- De $ 716.00 a $ 1,433.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-XII.- De $ 763.00 a $ 1,525.00 a la señalada en la fracción XVII.
+XII.- De $ 797.00 a $ 1,591.00 a la señalada en la fracción XVII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-XIII.- De $ 1,905.00 a $ 3,813.00 a la comprendida en la fracción XIX.
+XIII.- De $ 1,988.00 a $ 3,979.00 a la comprendida en la fracción XIX.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 30 DE JUNIO DE 2003)
+(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y ADMINISTRACION, P.O. 4 DE AGOSTO DE 2004)
 
-XIV.- De $ 116.00 a $ 291.00 a quien cometa la comprendida en la fracción XX.
+XIV.- De $ 121.00 a $ 304.00 a quien cometa la comprendida en la fracción XX.
 
 > <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2004)</small>
 
@@ -2458,3 +2458,7 @@ P.O. 27 DE FEBRERO DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 4 DE AGOSTO DE 2004.
+
+ÚNICO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
