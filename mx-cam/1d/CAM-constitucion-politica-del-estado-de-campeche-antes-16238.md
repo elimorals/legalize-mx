@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1992-04-01"
+last_updated: "1993-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 1992.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1993.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -305,35 +305,35 @@ La soberanía del Estado reside esencial y originariamente en el pueblo campecha
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
-Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo en la vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
+Para hacer posible el acceso de los ciudadanos al ejercicio del poder público, promover la participación del pueblo vida democrática y contribuir a la integración de la representación estatal, los ciudadanos campechanos podrán organizarse en los Partidos Políticos Registrados.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1987)</small>
 
 Los Partidos Políticos son entidades de interés público, la ley determinará las formas específicas de su intervención en los procesos electorales estatales y municipales.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Instituto Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+La organización de las elecciones estatales y municipales es una función que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos y de los ciudadanos, según lo disponga la ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propio, denominado Consejo Electoral del Estado. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esa función estatal.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia, que se integrarán mayoritariamente por representantes de los partidos políticos. El órgano superior de dirección se integrará por consejeros y consejeros magistrados designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivo y técnico dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia, que se integrarán mayoritariamente por representantes de los partidos políticos. El órgano superior de dirección se integrará por consejeros designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivo y técnico dispondrán del personal calificado necesario para prestar el servicio electoral profesional. Los ciudadanos formarán las mesas directivas de casilla.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-El Instituto Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica o impresión de materiales electorales. Así mismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
+El Consejo Electoral del Estado agrupará para su desempeño, en forma integral y directa, además de las que determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales, asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas, en los términos que disponga la ley.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-La ley establecerá un sistema de medios de impugnación, de los que conocerán el Instituto y un Tribunal autónomo que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+La ley establecerá un sistema de medios de impugnación, de los que conocerán el Consejo y un Tribunal autónomo que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 El Tribunal Electoral del Estado tendrá la competencia y organización que determine la ley; funcionará en pleno, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral podrán ser revisadas y en su caso modificadas por el Colegio Electoral, en los términos de los artículos 36 y 54, fracciones XVII y XVIII, de esta Constitución. Para el ejercicio de sus funciones, contará con un cuerpo de magistrados y jueces instructores, los cuales serán independientes y responderán sólo al mandato de la ley.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
 
-Los consejeros magistrados y los magistrados del Tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para los magistrados del Tribunal Superior de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo estatal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos el número que corresponda de consejeros magistrados y magistrados del Tribunal Electoral. La ley señalará las reglas y el procedimiento correspondientes.
+Los consejeros ciudadanos y los magistrados del Tribunal deberán satisfacer los requisitos que señale la ley. Serán electos por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, de entre los propuestos por el Ejecutivo Estatal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos el número que corresponda de consejeros y magistrados del Tribunal Electoral. La ley señalará las reglas y el procedimiento correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -405,7 +405,9 @@ La demarcación territorial de los veintiún distritos electorales uninominales 
 
 La asignación de los diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que sobre el particular disponga la ley:
 
-a) Para obtener el registro de sus listas de candidatos a diputados, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en todos los distritos uninominales del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1993)</small>
+
+a) Para obtener el registro de sus listas de candidatos a diputados de representación proporcional, los partidos políticos deberán acreditar que participan con candidatos a diputados por mayoría relativa en cuando menos 14 de los distritos uninominales del Estado;
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -449,7 +451,7 @@ c).- Si se es oriundo de otro Estado, tener residencia cuando menos de cinco añ
 
 No será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1990)</small>
 
 ###### ARTICULO 34.
 
@@ -465,7 +467,7 @@ II.- Los Diputados y Senadores al Congreso de la Unión, que estén en ejercicio
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
-III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio.
+III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o de Policía, por el distrito o distritos en donde ejerzan mando, o en donde estuvieren en servicio;
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -530,8 +532,6 @@ Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones 
 ###### ARTICULO 40.
 
 El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTICULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -659,7 +659,7 @@ II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fu
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 1983)</small>
 
-III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquél y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
+III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; estableciendo los ingresos y egresos relativos a aquel y los ingresos que correspondan a éstos; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
 
 > <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 1985)</small>
 
@@ -759,7 +759,7 @@ XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de t
 
 XXXIV.- Por acuerdo de las dos terceras partes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna causa grave prevista por la Ley, siempre y cuando sus miembros hayan tenido oportunidad para rendir las pruebas y hacer los alegatos que a su juicio convengan.
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
@@ -1363,7 +1363,7 @@ a) Que hubiere registrado fórmula de candidatos en las elecciones municipales r
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
-b) Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
+b).- Que alcance por lo menos el 1.5 por ciento del total de la votación emitida en el municipio correspondiente.
 
 > <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
 
@@ -1926,3 +1926,9 @@ Tercero.- La LIV Legislatura del Congreso del Estado ejercerá su encargo del d�
 Cuarto.- El Gobernador electo para fungir durante el sexenio 1991 - 1997, concluirá su encargo el día 15 de septiembre de 1997. Dentro de la primera semana de septiembre de 1997, el Congreso del Estado elegirá un Gobernador Interino que fungirá del 16 de septiembre al 15 de octubre de 1997.
 
 Quinto.- Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO INICIARA SU VIGENCIA AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
