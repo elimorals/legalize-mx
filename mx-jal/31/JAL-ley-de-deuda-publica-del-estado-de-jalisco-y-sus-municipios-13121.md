@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-deuda-publica-del-estado-de-jalisco-y-sus-municipios-131
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-16"
-last_updated: "2000-09-19"
+last_updated: "2003-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE DEUDA PUBLICA DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el jueves 16 de enero de 1997.
 
@@ -157,9 +157,9 @@ VII. Autorizar al Estado a constituirse en garante de terceros, cuando lo justif
 
 VIII. Solicitar a las entidades públicas los informes necesarios para verificar que las operaciones de endeudamiento se realicen conforme a las disposiciones legales aplicables, formulando las observaciones que de ello se deriven, sin perjuicio de las responsabilidades a que hubiere lugar.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por las comisiones de Hacienda y Presupuestos y de Inspección del Congreso, y en su caso, por la Contaduría Mayor de Hacienda, conforme lo establece la Ley Orgánica del Poder Legislativo y demás ordenamientos en la materia.
+Las facultades a que se refieren las fracciones IV, VI y VIII de este artículo, serán ejercidas por las Comisiones de Hacienda y Presupuestos y de Inspección del Congreso, y en su caso, según corresponda, por la Auditoría Superior del Estado.
 
 ###### Artículo 12.
 
@@ -205,7 +205,9 @@ d) Llevar el registro de las obligaciones derivadas de la contratación de empr�
 
 e) Vigilar que la capacidad de pago de las entidades públicas estatales, que contraten financiamientos, sea suficiente para cubrir puntualmente los compromisos que contraigan;
 
-f) Comunicar a la Contaduría Mayor de Hacienda del Congreso, en un plazo no mayor de treinta días hábiles, todos los datos relacionados con las operaciones financieras derivados de obligaciones contingentes, y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+f) Comunicar al Congreso del Estado a través de la Auditoría Superior del Estado, en un plazo no mayor de treinta días hábiles, todos los datos relacionados con las operaciones financieras derivados de obligaciones contingentes; y
 
 g) Asesorar a los municipios y a sus entidades públicas, en la formulación de sus programas financieros y en todo lo relativo a la obtención de recursos por las operaciones financieras que realicen, y
 
@@ -227,10 +229,6 @@ I. Son facultades:
 
 a) Autorizar con el acuerdo de las dos terceras partes de los miembros del Ayuntamiento, la contratación de empréstitos directos adicionales a los que se refiere el inciso a) de la fracción II de este artículo y, en su caso, afectar en garantía de pago, las participaciones del municipio en impuestos federales y estatales;
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
-
-b) Aprobar la suscripción de actos, contratos y convenios que tengan por objeto la obtención de empréstitos y demás operaciones de deuda pública. Remitiéndolos para efecto de registro, fiscalización y revisión al Congreso del Estado, incluyendo las obligaciones derivadas de la deuda pública contingente;
-
 c) Aprobar la reestructuración de sus empréstitos y la de sus entidades, notificando al Congreso del Estado, con la justificación que avale su decisión, en un plazo de treinta días;
 
 (REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
@@ -245,9 +243,9 @@ II. Son obligaciones:
 
 a) Elaborar y aprobar sus programas financieros anuales dentro de sus presupuestos de egresos, que incluirán todas las operaciones de deuda pública a que se refiere esta Ley, remitiéndolos al Congreso del Estado para efectos de registro;
 
-(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000) (F. DE E., P.O. 19 DE DICIEMBRE DE 2000) (F. DE E., P.O. 13 DE MARZO DE 2001)
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
-b) Informar al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal; a dichos informes se acompañará la documentación soporte y deberá contener:
+b) Informar al Congreso del Estado, por conducto de la Auditoría Superior del Estado, al remitir la cuenta pública correspondiente, de la situación que guarda la deuda pública municipal; a dichos informes se acompañará la documentación soporte y deberá contener:
 
 > <small>(F. DE E., P.O. 13 DE MARZO DE 2001)</small>
 
@@ -267,7 +265,9 @@ Tratándose de aquellos casos en los que se requiera la aprobación de las dos t
 
 c) Proporcionar la información que el Congreso del Estado le requiera de acuerdo a esta Ley, en relación con las operaciones de deuda pública, así como la que le solicite el titular del Poder Ejecutivo del Estado, respecto de los empréstitos en que el estado se hubiese constituido como su aval o deudor solidario o para efectos de registro;
 
-d) Comunicar a la Secretaría de Finanzas del Estado y a la Contaduría Mayor de Hacienda del Congreso, en un plazo no mayor de diez días hábiles todos los datos relacionados con las operaciones financieras derivadas de obligaciones contingentes;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+d) Comunicar a la Secretaría de Finanzas del Estado y a la Auditoría Superior del Estado, en un plazo no mayor de diez días hábiles todos los datos relacionados con las operaciones financieras derivadas de obligaciones contingentes;
 
 e) Integrar e inscribir el registro de deuda pública municipal, sus obligaciones crediticias, así como inscribirlas en el Registro Estatal de Deuda Pública, y
 
@@ -475,11 +475,15 @@ I. Llevar sus propios registros de los empréstitos que contraten y proporcionar
 
 II. Informar anualmente a la Secretaría de Finanzas, el saldo de su deuda pública dentro de los primeros dos meses siguientes al ejercicio fiscal correspondientes, y
 
-III. Proporcionar los informes necesarios al Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda, dentro de los treinta días siguientes a la fecha en que se celebró el contrato, para los efectos de revisión y fiscalización.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+III. Proporcionar los informes necesarios al Congreso del Estado, por conducto de la Auditoría Superior del Estado, dentro de los treinta días siguientes a la fecha en que se celebró el contrato para los efectos de revisión y fiscalización.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 40.
 
-El Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, éste podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deberá ser comunicada oportunamente a la entidad de que se trate.
+El Congreso del Estado por conducto de la Auditoría Superior del Estado, llevará un registro de todas las operaciones de deuda estatal o municipal y de sus entidades; debiéndose asentar en el mismo los datos que para el Registro Estatal establece esta Ley. Así mismo analizará los endeudamientos que vayan contrayendo y les requerirá por la presentación de un análisis respecto de su deuda. Cuando de los datos registrados se estime que pueda estar en peligro su capacidad de pago y en tanto que dicha información no sea desahogada y adecuadamente soportada financieramente, éste podrá rehusar la inscripción de nuevas suscripciones de operaciones de endeudamiento, resolución que deberá ser comunicada oportunamente a la entidad de que se trate.
 
 > <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DEL 2000)</small>
 
@@ -530,3 +534,23 @@ P.O. 19 DE SEPTIEMBRE DEL 2000.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de enero de 2004, previa su publicación en el Periódico Oficial "El Estado de Jalisco" aplicándose lo dispuesto en los siguientes artículos transitorios.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. La Auditoría Superior iniciará sus funciones a la entrada en vigor del presente decreto, y su titular será el actual Contador Mayor de Hacienda, hasta el 31 de julio del año 2004.
+
+CUARTO. La revisión de la cuenta pública, que incluye el informe de avance de gestión financiera, conforme a las disposiciones de la ley contenida en el artículo primero de este decreto, se efectuará a partir de la cuenta pública del año 2004. Las revisiones de las cuentas públicas de los años 1999, 2000, 2001, 2002 y 2003 se efectuarán conforme a las disposiciones vigentes en dichos ejercicios.
+
+QUINTO. En todas las disposiciones legales o administrativas; resoluciones, contratos, convenios o actos expedidos o celebrados con anterioridad a la vigencia del presente decreto, en que se haga referencia a la Contaduría Mayor de Hacienda, se entenderán referidos a la Auditoría Superior del Estado; igualmente, cuando se haga referencia al Contador Mayor, se entenderá referido al Auditor Superior.
+
+SEXTO. Todos los inmuebles, equipos, archivos, expedientes, papeles y, en general, los bienes de la Contaduría Mayor de Hacienda, pasarán a la Auditoría Superior del Estado quedando destinados y afectos a su servicio. La Auditoría Superior del Estado igualmente se subroga en todos los derechos y obligaciones de aquella.
+
+Los servidores públicos de la Contaduría Mayor de Hacienda pasarán a formar parte de la Auditoría Superior del Estado, respetándose sus derechos en los términos de ley.
+
+SÉPTIMO. Los asuntos que se encuentren en trámite o en proceso en la Contaduría Mayor de Hacienda al entrar en vigor el presente decreto, continuarán tramitándose, por la Auditoría Superior del Estado en los términos de las disposiciones vigentes antes de la entrada en vigor del presente decreto.
+
+OCTAVO. Dentro del término de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, deberá expedirse el Reglamento Interno de la Auditoría Superior del Estado de Jalisco.
