@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-poder-judicial-del-estado-de-san-13199"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-12-10"
-last_updated: "1998-12-10"
+last_updated: "2003-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2003.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de diciembre de 1998.
 
@@ -621,7 +621,11 @@ Cada Magistrado desempeñará un turno mensual en la Sala de su adscripción y a
 
 Los Magistrados de las Salas respectivas, propondrán al Pleno las reformas y adiciones a las leyes de su materia, y todas las sugerencias tendientes al mejoramiento de la Administración de Justicia.
 
+(ABROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
+
 ### CAPITULO SEPTIMO. DEL TRIBUNAL ELECTORAL
+
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 1a.
 
@@ -629,17 +633,17 @@ DISPOSICIONES GENERALES
 
 ###### ARTICULO 71.
 
-El Tribunal Electoral de (sic) Estado de San Luis Potosí, funcionará de acuerdo a las facultades que le otorgan la Constitución Política del Estado y las disposiciones legales aplicables.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 72.
 
-El Presidente del Tribunal Electoral de Segunda Instancia así como los Presidentes de las Salas Regionales, al concluir sus funciones, remitirán, previo inventario, a la Oficialía Mayor del Supremo Tribunal, los recursos materiales y de igual forma, al Archivo Judicial del Supremo Tribunal, los expedientes que se hubieran formado con motivo de los medios de impugnación de su competencia, así como los Libros de Gobierno y auxiliares.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 73.
 
-El personal del Tribunal Electoral por ningún motivo podrá sacar los expedientes de los medios de impugnación de las instalaciones del Tribunal, salvo que existiera causa justificada para ello. Tampoco podrá hacer del conocimiento de las partes o de cualquier otra persona el sentido de algún proyecto antes de que se resuelva el asunto respectivo. Se prohíbe igualmente, entregar o circular a cualquier persona ajena al citado Tribunal los proyectos de autos, acuerdos o sentencias, de los asuntos sometidos al conocimiento de ese órgano Jurisdiccional, previa (sic) a la resolución de los mismos y de que éstos sean notificados a las partes.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
-El personal que contravenga estas disposiciones incurrirá en falta de probidad y honradez, que será motivo suficiente para el cese inmediato, independientemente de la responsabilidad penal en que pueda incurrir.
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 2a.
 
@@ -647,37 +651,25 @@ DE LA INSTALACION E INICIO DE LAS FUNCIONES DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 74.
 
-El Tribunal Electoral se instalará para ejercer sus funciones dentro del término que señala el párrafo tercero del artículo 26 de la Ley Orgánica.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 75.
 
-La Instalación se hará de la siguiente manera:
-
-I.- De la lista de Magistrados Numerarios designados por el Congreso del Estado, el nombrado en primer lugar, convocará a Sesión de Pleno Extraordinario a los demás Magistrados Numerarios, el primer día del plazo señalado para su instalación Dicha sesión deberá verificarse dentro de los cinco días siguientes.
-
-II.- La convocatoria se hará por escrito y se entregará personalmente a cada uno de los Magistrados, recabando constancia de ello. El escrito deberá contener:
-
-A).- Lugar, día y hora;
-
-B).- Objeto de la convocatoria;
-
-C).- Firma del Magistrado que convoca.
-
-III.- Cuando el Magistrado nombrado en primer lugar no realice la convocatoria en el término señalado en la fracción I de este artículo, lo hará al día siguiente, el Magistrado nombrado en segundo lugar y así sucesivamente lo harán los Magistrados restantes en el orden en que fueron designados;
-
-IV.- Una vez convocados los Magistrados, la sesión se llevara a efecto con los que comparezcan, siempre y cuando sean mayoría y de entre ellos, se elegirá al Presidente por unanimidad o mayoría de votos.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 76.
 
-La Sala de Segunda Instancia tendrá jurisdicción en el Estado de San Luis Potosí y su sede en la ciudad capital; las Salas Regionales serán en el número, ubicación y Jurisdicción que determine el Pleno del Supremo Tribunal.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 77.
 
-Durante el proceso electoral serán hábiles todas las horas y días del año.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 78.
 
-No obstante lo dispuesto en el artículo anterior, el Pleno de la Sala podrá determinar, en forma temporal, el horario de actividades en los términos que estime conveniente, conforme a las necesidades del servicio.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
+
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 3a.
 
@@ -685,47 +677,21 @@ DEL PLENO DE LAS SALAS DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 79.
 
-Para que sesione válidamente la Sala de Segunda Instancia del Tribunal se requerirá la presencia de por lo menos tres Magistrados, entre los cuales deberá estar el Presidente. Sus resoluciones se tomarán por mayoría de votos. En caso de empate, el Presidente tendrá voto de calidad.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 80.
 
-Las Salas Regionales de Primera Instancia del Tribunal Electoral funcionarán siempre en Pleno y sus resoluciones se tomarán por unanimidad o mayoría de votos. Sus sesiones serán públicas en la misma forma y términos que las de los organismos electorales previstos en la Ley.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 81.
 
-El Pleno de las Salas de ambas Instancias, tendrán las siguientes atribuciones:
-
-I.- Ejercer las que señale la Constitución Política del Estado, la Ley Electoral, la Ley Orgánica y demás leyes aplicables;
-
-II.- Elegir al Presidente de la Sala respectiva;
-
-III.- Tomar la protesta de ley del personal jurídico de la Sala que corresponda, en los términos que establece la Constitución;
-
-IV.- Celebrar las sesiones necesarias para atender los asuntos de su competencia;
-
-V.- Remover a propuesta del Presidente, a los Secretarios Generales de Acuerdos, Actuarios y personal administrativo, y a propuesta del Magistrado al que estén adscritos, a los Secretarios de Estudio y Cuenta;
-
-VI.- Asignar a los Magistrados, las comisiones que se requieran, para el mejor funcionamiento del Tribunal Electoral;
-
-VII.- Modificar el horario de actividades cuando las necesidades del servicio así lo requieran;
-
-VIII.- Elaborar el informe de actividades al concluir el proceso electoral;
-
-IX.- Habilitar como Actuario al Secretario de Estudio y Cuenta cuando las necesidades del servicio así lo ameriten.
-
-X.- Las demás que sean necesarias para el cumplimiento de las funciones del Tribunal Electoral.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 82.
 
-En las sesiones del Pleno se observará lo siguiente:
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
-I.- El ponente hará una breve relación de los resultandos, considerandos y sentido de la resolución que integre el proyecto y concluida ésta, el Presidente podrá (sic) a discusión la ponencia respectiva;
-
-II.- Concluido el debate, el Presidente concederá la palabra a los Magistrados para que emitan su voto, quienes en ningún caso podrán abstenerse de emitirlo;
-
-III.- A continuación se declarará la aprobación o la fijación del sentido que deba darse a la solución, que será por unanimidad o por mayoría, asentándose, en su caso, el sentido del voto particular;
-
-IV.- En las cuestiones sometidas al Pleno por el Presidente, que no sean proyecto de resolución, una vez discutidas, se recabará la opinión de los Magistrados, resolviendo por unanimidad o mayoría.
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 4a.
 
@@ -733,37 +699,17 @@ DE LOS PRESIDENTES DE LAS SALAS DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 83.
 
-El Presidente de Sala del Tribunal Electoral lo será el Magistrado que se elija en la sesión de Pleno Extraordinario que al efecto se realice, de acuerdo con las formalidades señaladas en este Reglamento. Durará en su encargo el período del proceso electoral para el que fue electo.
-
-El cargo de Presidente es renunciable y corresponderá al Pleno de la Sala calificar la renuncia.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 84.
 
-En los casos de ausencia temporal del Presidente, hará sus veces el Magistrado de mayor antigüedad, mientras se llama al Magistrado Suplente que corresponda, procediéndose en su caso, a juicio del Pleno, de acuerdo a la temporalidad de la falta, a la elección del Presidente, el que durará en su cargo el tiempo que dure la ausencia o hasta finalizar el período comprendido, según lo estime el Pleno.
-
-De existir dos o más Magistrados de igual antigüedad, presidirá el que se elija de común acuerdo entre los Magistrados.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 85.
 
-Son atribuciones de los Presidentes de Salas del Tribunal Electoral, además de las señaladas en la Ley Orgánica, las siguientes:
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
-I.- Delegar la representación que le confiere la Ley Orgánica;
-
-II.- Substanciar con el Secretario, los recursos que sean competencia de las Salas Regionales;
-
-III.- Proponer al Pleno de la Sala, los programas o actividades necesarios para el mejor funcionamiento de la misma;
-
-IV.- Convocar a los Magistrados a las Sesiones de Pleno;
-
-V.- Conceder permisos con o sin goce de sueldo hasta por cinco días al personal de la Sala, con excepción de los Magistrados;
-
-VI.- Llamar a los Magistrados Supernumerarios cuando proceda;
-
-VII.- Rendir al Supremo Tribunal, el informe de actividades a que se refiere la fracción VIII del artículo 81 de este Capítulo;
-
-VIII.- Observar, en lo que sea compatible, las disposiciones del Capítulo Décimo Quinto del Título Segundo de este Reglamento;
-
-IX.- Aquellas que establezca la Constitución Política del Estado, la Ley Electoral y las leyes aplicables.
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 5a.
 
@@ -771,7 +717,9 @@ DE LOS SECRETARIOS GENERALES DE ACUERDOS DEL-TRIBUNAL ELECTORAL
 
 ###### ARTICULO 86.
 
-Además de las facultades y obligaciones señaladas en el artículo 50 de la Ley Orgánica y en el Capítulo Décimo Quinto del Título Segundo de este Reglamento, en lo que sea compatible, el Secretario General de Acuerdos, deberá tener bajo su vigilancia y responsabilidad la bibliografía, decretos y documentos de la Sala.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
+
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 6a.
 
@@ -779,11 +727,13 @@ DE LOS SECRETARIOS DE ESTUDIO Y CUENTA DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 87.
 
-Los Secretarios de Estudio y Cuenta del Tribunal Electoral deberán observar lo establecido en el artículo 106 de este Reglamento con la salvedad de atender en sus proyectos de resolución, lo establecido en la Ley Electoral.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 88.
 
-Atenderán igualmente lo dispuesto en el Capítulo Décimo Quinto del Título Segundo de este Reglamento, en lo que sea compatible.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
+
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 7a.
 
@@ -791,9 +741,9 @@ DE LOS ACTUARIOS DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 89.
 
-Las obligaciones y atribuciones de los Actuarios del Tribunal Electoral son las que se encuentran establecidas en el artículo 107 y en el Capítulo Décimo Quinto del Título Segundo de este Reglamento, en lo que sea compatible y además deberán:
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
-I.- Suplir al Secretario General de Acuerdos en sus faltas o ausencias temporales.
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 8a.
 
@@ -801,11 +751,13 @@ DEL PERSONAL ADMINISTRATIVO DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 90.
 
-En cada Sala habrá el personal autorizado por el Presidente.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 91.
 
-El Personal Administrativo observará lo establecido en el artículo 109 y en el Capítulo Décimo Quinto del Título Segundo de este Reglamento en lo que sea compatible y ejecutará los trabajos que le encomienden sus Superiores Jerárquicos en relación a las funciones de las Salas.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
+
+(ABROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 Sección 9a.
 
@@ -813,15 +765,15 @@ DE LOS MAGISTRADOS SUPERNUMERARIOS DE LAS SALAS DEL TRIBUNAL ELECTORAL
 
 ###### ARTICULO 92.
 
-En los casos de faltas o ausencias temporales o definitivas de los Magistrados Numerarios, serán llamados los Magistrados Supernumerarios de la Sala de que se trate, quienes tendrán las mismas prerrogativas y obligaciones concedidas a los Numerarios.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 93.
 
-El llamamiento del Magistrado Supernumerario se hará por medio de oficio. El Magistrado llamado, sólo podrá dejar de presentarse por causa de enfermedad o alguna otra causa debidamente justificada, debiendo manifestarlo a la Sala por escrito.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ###### ARTICULO 94.
 
-Cuando algún Magistrado Supernumerario tuviera que ausentarse de la ciudad, una vez iniciado el proceso electoral, está obligado a comunicarlo por escrito a la Sala que corresponda, así como su regreso.
+(ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSÍ, P.O. 22 DE ABRIL DE 2003)
 
 ### CAPITULO OCTAVO. DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES MENORES
 
@@ -3842,3 +3794,15 @@ EL SECRETARIO GENERAL DE ACUERDOS
 LIC. ALEJANDRO IGOA OSORIO
 
 RUBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ABRIL DE 2003.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DEL ESTADO”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Capítulo Séptimo del Reglamento Interior del Poder Judicial del Estado, que se denomina Del Tribunal Electoral, expedido por el Pleno del Supremo Tribunal de Justicia del Estado el día 12 de Noviembre de 1998, publicado en el Periódico Oficial del Estado, el día 10 de Diciembre de 1998.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan al contenido del presente Reglamento.
