@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1985-10-31"
+last_updated: "1985-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE OCTUBRE DE 1985.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 1985.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -81,7 +81,7 @@ P.O. 13 DE SEPTIEMBRE DE 1929
 
 1°.- En tanto se reforma la Ley Orgánica del Municipio Libre, el Municipio de Colón tendrá los mismos límites que tiene como Delegación Municipal.
 
-2°.- Esta Ley comenzará a surtir sus efectos a portir (sic) del día 16 de Septiembre del año en curso.
+2°.- Esta ley comenzará a surtir sus efectos a portir (sic) del día 16 de septiembre del año en curso.
 
 P.O. 26 DE DICIEMBRE DE 1929
 
@@ -559,7 +559,9 @@ I.- Fijar cada año la Ley General de Ingresos y los Presupuestos de Egresos, co
 
 II.- Dar la resolución que corresponda, aprobando, reformando o reprobando las leyes de ingresos de los Municipios;
 
-III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley; así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal de Justicia del Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
+
+III.- Computar los votos emitidos en las elecciones de Diputados y de Gobernador del Estado, calificar la elección y hacer la declaración de los electos, en los términos de la ley, así como tomarles la protesta legal, lo mismo que a los Magistrados del Tribunal Superior de Justicia del Estado, y del Tribunal de lo Contencioso Administrativo del Estado.
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -593,13 +595,13 @@ Las resoluciones que emita la Legislatura sobre tales asuntos, serán definitiva
 
 XI.- Designar de entre los vecinos a los Consejos Municipales, a propuesta del Ejecutivo, a efecto de que éstos concluyan los períodos constitucionales respectivos, en el supuesto de que se hubiese declarado desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los suplentes ni se celebraren nuevas elecciones. Si alguno de los miembros dejare de desempeñar su cargo, será substituído por el suplente, o se procederá según lo disponga la Ley;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
 
-XII.- Elegir a los Magistrados propietarios y Supernumerarios del Tribunal Superior de Justicia del Estado, así como al Magistrado Propietario del Tribunal Fiscal del Estado y a los Supernumerarios que requiera la Administración de la Justicia Fiscal.
+XII.- Elegir a los Magistrados Propietarios y Supernumerarios del Tribunal Superior de Justicia del Estado, así como al Magistrado Propietario del Tribunal de lo Contencioso Administrativo del Estado y a los Supernumerarios que requiera la Administración de la Justicia a través de este Tribunal.
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1985)</small>
 
-XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Magistrados del Tribunal Fiscal.
+XIII.- Resolver acerca de la no aceptación o renuncia del cargo, que presenten los Diputados, el Gobernador, los Magistrados del Tribunal Superior de Justicia y los Magistrados del Tribunal de lo Contencioso Administrativo.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1979)</small>
 
@@ -2003,7 +2005,7 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 
 ###### ARTICULO SEGUNDO.
 
-Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
 
 P.O. 31 DE OCTUBRE DE 1985
 
@@ -2014,3 +2016,9 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 ###### ARTICULO SEGUNDO.
 
 Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la Publicación de la declaratoria que al respecto emita el Congreso.
+
+P.O. 19 DE DICIEMBRE DE 1985
+
+Artículo Primero.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga" y en los cartelones que señala el Artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los Ayuntamientos de los Municipios de la Entidad para los efectos de lo previsto en el Artículo 163 de la Ley Suprema invocada.
+
+Artículo Segundo.- Aprobadas, en su caso, las Reformas Propuestas al texto Constitucional, la presente Ley entrará en vigor al día siguiente de la Publicación en el Periódico Oficial del Estado, de la declaratoria que al respecto emita el Congreso del Estado.
