@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-del-articulo-27-constitucional-en-el-ramo-375
 country: "mx"
 rank: "ley"
 publication_date: "1958-11-29"
-last_updated: "1995-05-11"
+last_updated: "1996-11-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=375&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1958-11-27"
 
 LEY REGLAMENTARIA DEL ARTICULO 27 CONSTITUCIONAL EN EL RAMO DEL PETROLEO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE NOVIEMBRE DE 1996.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 29 de noviembre de 1958.
 
@@ -57,7 +57,27 @@ I. La exploración, la explotación, la refinación, el transporte, el almacenam
 
 II. La exploración, la explotación, la elaboración y las ventas de primera mano del gas, así como el transporte y el almacenamiento indispensables y necesarios para interconectar su explotación y elaboración, y
 
-III. La elaboración, el transporte, el almacenamiento, la distribución y las ventas de primera mano de aquellos derivados del petróleo que sean susceptibles de servir como materias primas industriales básicas y los del gas que constituyan petroquímicos básicos.
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+III. La elaboración, el transporte, el almacenamiento, la distribución y las ventas de primera mano de aquellos derivados del petróleo y del gas que sean susceptibles de servir como materias primas industriales básicas y que constituyen petroquímicos básicos, que a continuación se enumeran:
+
+1. Etano;
+
+2. Propano;
+
+3. Butanos;
+
+4. Pentanos;
+
+5. Hexano;
+
+6. Heptano;
+
+7. Materia prima para negro de humo;
+
+8. Naftas; y
+
+9. Metano, cuando provenga de carburos de hidrógeno, obtenidos de yacimientos ubicados en el territorio nacional y se utilice como materia prima en procesos industriales petroquímicos.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -66,6 +86,18 @@ III. La elaboración, el transporte, el almacenamiento, la distribución y las v
 La Nación llevará a cabo la exploración y la explotación del petróleo y las demás actividades a que se refiere el artículo 3o., que se consideran estratégicas en los términos del artículo 28, párrafo cuarto, de la Constitución Política de los Estados Unidos Mexicanos, por conducto de Petróleos Mexicanos y sus organismos subsidiarios.
 
 Salvo lo dispuesto en el artículo 3o., el transporte, el almacenamiento y la distribución de gas podrán ser llevados a cabo, previo permiso, por los sectores social y privado, los que podrán construir, operar y ser propietarios de ductos, instalaciones y equipos, en los términos de las disposiciones reglamentarias, técnicas y de regulación que se expidan.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+El transporte, el almacenamiento y la distribución de gas metano, queda incluida en las actividades y con el régimen a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+Cuando en la elaboración de productos petroquímicos distintos a los básicos enumerados en la fracción III del artículo 3o. de esta Ley se obtengan, como subproductos, petrolíferos o petroquímicos básicos, éstos podrán ser aprovechados en el proceso productivo dentro de las plantas de una misma unidad o complejo, o bien ser entregados a Petróleos Mexicanos o a sus organismos subsidiarios, bajo contrato y en los términos de las disposiciones administrativas que la Secretaría de Energía expida.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+Las empresas que se encuentren en el supuesto a que se refiere el párrafo anterior tendrán la obligación de dar aviso a la Secretaría de Energía, la cual tendrá la facultad de verificar el cumplimiento de las citadas disposiciones administrativas y, en su caso, imponer las sanciones a que se refiere el artículo 15 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
@@ -169,6 +201,14 @@ VI. Los demás instrumentos de regulación que establezcan las disposiciones apl
 
 Las infracciones a esta ley y a sus disposiciones reglamentarias podrán ser sancionadas con multas de 1,000 a 100,000 veces el importe del salario mínimo general vigente en el Distrito Federal, en la fecha en que se incurra en la falta, a juicio de la autoridad competente, tomando en cuenta la importancia de la falta.
 
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+En caso de infracción a lo dispuesto por los párrafos cuarto y quinto del artículo 4o. de esta Ley, sin perjuicio de las sanciones previstas en el párrafo anterior, el infractor perderá en favor de Petróleos Mexicanos los subproductos petrolíferos o petroquímicos básicos obtenidos.
+
+> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 1996)</small>
+
+Para aplicar este artículo, se seguirá el procedimiento previsto en la Ley Federal de Procedimiento Administrativo.
+
 > <small>(ADICIONADO, D.O.F. 11 DE MAYO DE 1995)</small>
 
 ###### ARTICULO 16.
@@ -222,3 +262,9 @@ TERCERO.- Petróleos Mexicanos conservará en propiedad y mantendrá en condicio
 Igualmente continuará realizando las actividades de transporte de gas con otros equipos que formen parte de su patrimonio, sujetándolas a las disposiciones aplicables.
 
 CUARTO.- Las disposiciones reglamentarias serán expedidas dentro de los 180 días siguientes a la fecha de entrada en vigor de este Decreto. Las regulaciones deberán establecerse para cada tipo de gas o combinación de ellos.
+
+D.O.F. 13 DE NOVIEMBRE DE 1996.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Petróleos Mexicanos conservará en propiedad y mantendrá en condiciones de operación los ductos y sus equipos e instalaciones accesorios para el transporte del metano, en los términos del artículo tercero transitorio del Decreto de reformas a la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, publicado en el Diario Oficial de la Federación de 11 de mayo de 1995.
