@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1992-10-10"
+last_updated: "1994-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1994.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -176,6 +176,10 @@ XVII.- Dirección Jurídica;
 XVIII.- Dirección General de Ecología;
 
 XIX.- Comisión Agraria Mixta.
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1994)</small>
+
+XX.- Dirección de Control y Evaluación Gubernamental.
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
@@ -463,61 +467,65 @@ IX.- Orientar, a solicitud de los Ayuntamientos, en materia de planeación, prog
 
 X.- Los demás que determinen expresamente las Leyes y Reglamentos.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XI.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública Estatal;
+XII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XII.- Expedir las normas que regulen el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control;
+XIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XIII.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado;
+XVI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XVII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XIV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieran a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control;
+XVIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XIX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XV.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas;
+XX.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XXI.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XVI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Oficialía Mayor de Gobierno o de la Coordinadora del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades, con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas;
+XXII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XXIII.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-XVII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de: registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
+XXIV.- (DEROGADA, P.O. 8 DE JULIO DE 1994)
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1994)</small>
 
-XVIII.- Establecer los requisitos para la designación de los comisarios o sus equivalentes en los órganos de vigilancia de los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración pública paraestatal, y en su caso, solicitar la remoción de éstos;
+ARTICULO 26 BIS.- A la Dirección de Control y Evaluación Gubernamental, le corresponde la atención y trámite de los siguientes asuntos:
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental de la Administración Pública estatal.
 
-XIX.- Establecer y mantener coordinación, e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
+II.- Expedir las normas que regulan el funcionamiento de los instrumentos y procedimientos de control de la Administración Pública Estatal, y en su caso requerir de las dependencias competentes, la instrumentación de normas complementarias para el ejercicio de facultades que aseguren el control.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+III.- Vigilar el cumplimiento de las normas de control y fiscalización, así como asesorar y apoyar a los órganos de control interno de las dependencias y entidades de la Administración Pública del Estado.
 
-XX.- Recibir y registrar las declaraciones patrimoniales que deban presentar los Servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con la (sic) leyes y reglamentos;
+IV.- Establecer las bases generales para la realización de auditorías en las dependencias y entidades de la Administración Pública del Estado, así como realizar las auditorías que se requieren a las dependencias y entidades en sustitución o apoyo de sus propios órganos de control.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+V.- Comprobar el cumplimiento, por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado de las mismas.
 
-XXI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebren con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan;
+VI.- Realizar, por sí o a solicitud de la Secretaría de Finanzas, Oficialía Mayor de Gobierno o de la Coordinación del sector correspondiente, auditorías y evaluaciones a las dependencias y entidades con el objeto de promover la eficiencia en sus operaciones y verificar el cumplimiento de los objetivos contenidos en sus programas.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+VII.- Inspeccionar y vigilar directamente o a través de los órganos de control que las dependencias y entidades cumplan con las normas y disposiciones en materia de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales de la Administración Pública Estatal.
 
-XXII.- Conocer e investigar los actos, omisiones o conductas de los Servidores Públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalen, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida;
+VIII.- Establecer los requisitos para la designación de los comisarios o sus equivalentes en los órganos de vigilancia de los Consejos o Juntas de Gobierno y Administración de las Entidades de la Administración Pública Paraestatal, y en su caso, solicitar la remoción de éstos.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+IX.- Establecer y mantener coordinación e intercambiar información y documentación con la Contaduría Mayor de Hacienda del Congreso del Estado, sobre las normas, procedimientos y sistemas de contabilidad y sobre los procedimientos de archivo contable de los libros o documentos justificativos y comprobatorios del ingreso y del gasto público.
 
-XXIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas;
+X.- Recibir y registrar las declaraciones patrimoniales que deban presentar los servidores de la Administración Pública Estatal y verificar y practicar las investigaciones que fueren pertinentes de acuerdo con las leyes y reglamentos.
 
-> <small>(ADICIONADA, P.O. 10 DE OCTUBRE DE 1992)</small>
+XI.- Atender las quejas que presenten los particulares con motivo de acuerdos, convenios o contratos que celebran con las dependencias y entidades de la Administración Pública Estatal, de acuerdo con las normas que se emitan.
 
-XXIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
+XII.- Conocer e investigar los actos, omisiones o conductas de los servidores públicos para constituir responsabilidades administrativas, aplicar las sanciones que correspondan en los términos que las leyes señalan, y en su caso, hacer las denuncias correspondientes ante el Ministerio Público, presentándole para tal efecto la colaboración que le fuere requerida.
+
+XIII.- Recibir de la Contaduría Mayor de Hacienda del Congreso del Estado, los informes sobre las irregularidades en los procedimientos y sistemas de contabilidad que localice al revisar la Cuenta Pública, para dictar las medidas que correspondan, en coordinación con la Secretaría de Finanzas.
+
+XIV.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ### CAPITULO VIII
 
@@ -1186,3 +1194,25 @@ P.O. 10 DE OCTUBRE DE 1992.
 DECRETO NUMERO 157.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Órgano Informativo del Gobierno del Estado.
+
+P.O. 8 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Baja California.
+
+###### ARTICULO SEGUNDO.
+
+Las atribuciones que la Ley de Responsabilidades de los Servidores Públicos confiere a la Secretaría de la Contraloría General del Estado y que se habían conferido a la Secretaría de Planeación y Presupuesto, serán ejercidas por la Dirección de Control y Evaluación Gubernamental.
+
+###### ARTICULO TERCERO.
+
+La Dirección de Control y Evaluación Gubernamental ejercerá en forma coordinada, las atribuciones que la Ley de Presupuesto, Contabilidad y Gasto Público y otros ordenamientos otorgan a la Secretaría de Planeación y Presupuesto y Secretaría de Finanzas.
+
+###### ARTICULO CUARTO.
+
+Los asuntos a cargo de la Secretaría de Planeación y Presupuesto que se encontraren en trámite y pendientes de resolución al momento de entrar en vigor el presente Decreto, serán resueltos por la Dirección de Control y Evaluación Gubernamental, conforme a las atribuciones que por este Decreto se le confieren.
+
+###### ARTICULO QUINTO.
+
+Los bienes y recursos que le fueron transferidos a la Secretaría de Planeación y Presupuesto de la Secretaría de la Contraloría General del Estado para el ejercicio de la fiscalización de la obra pública y de la Dirección de Responsabilidades por Decreto Número 149, de fecha 18 de agosto de 1992 de la Legislatura del Estado y publicado en el Periódico Oficial el 10 de octubre de 1992, se destinará a la Dirección de Control y Evaluación Gubernamental, que se crea mediante el presente Decreto.
