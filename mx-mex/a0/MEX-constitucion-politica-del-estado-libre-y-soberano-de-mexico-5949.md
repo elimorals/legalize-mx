@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1990-06-28"
+last_updated: "1990-12-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 JUNIO DE 1990.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 1 DE DICIEMBRE DE 1990.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -505,11 +505,11 @@ Los diputados que faltaren por 3 sesiones consecutivas, sin previa licencia de l
 
 Los diputados que no concurran a una sesión de la Legislatura, sin permiso de ella o de su Presidente o sin causa justificada, perderán el derecho a la dieta correspondiente al día de la falta, en los términos que lo establezca la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 20 DE JULIO DE 1978)</small>
+> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1990)</small>
 
 ###### Art. 53.
 
-La Legislatura no podrá abrir sus sesiones, ni ejercer su cometido sin la concurrencia de más de las dos terceras partes del número total de sus miembros.
+La Legislatura no podrá abrir sus Sesiones, ni ejercer su cometido, sin la concurrencia de la mitad más uno de sus miembros.
 
 ###### Art. 54.
 
@@ -769,7 +769,7 @@ XXIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas q
 
 XXV.- Aprobar los montos y conceptos de endeudamiento anual a que se refieren las Leyes de Ingresos y Presupuestos de Egresos del Estado y Municipios de conformidad a las bases establecidas en la Ley de la materia y dentro de las limitaciones previstas en el párrafo Segundo de la fracción VIII del Artículo 117 de la Constitución Federal.
 
-XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilitación previamente calificada de los Diputados propietarios;
+XXVI. Llamar a los Diputados suplentes respectivos, en caso de muerte, exoneración o inhabilidad previamente calificada de los Diputados propietarios;
 
 > <small>(REFORMADA, P.O. 11 DE MARZO DE 1978)</small>
 
@@ -793,7 +793,7 @@ XXXIII. Excitar a los Poderes de la Unión a que presten su protección al Estad
 
 XXXIV. Establecer tropa permanente dentro del territorio del Estado, previo consentimiento del Congreso de la Unión;
 
-XXXV. Conceder amnistías por delitos político de la competencia de los Tribunales del Estado;
+XXXV. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
 
 XXXVI. Conceder premios o recompensas por servicios eminentes o importantes prestados a la Humanidad o al Estado;
 
@@ -2660,3 +2660,7 @@ P.O. 28 DE JUNIO DE 1990
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
+
+P.O. 1 DE DICIEMBRE DE 1990
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno" del Estado.
