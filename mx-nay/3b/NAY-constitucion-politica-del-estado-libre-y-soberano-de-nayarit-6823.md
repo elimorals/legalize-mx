@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1995-11-18"
+last_updated: "1996-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1996.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1605,19 +1605,27 @@ IV. Es responsabilidad del Gobierno del Estado y de los sectores social y privad
 
 V. El sistema de planeación de los municipios se sujetará a los principios, estrategias y bases establecidas por esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+(REFORMADO, P.O. 25 DE DICIEMBRE DE 1996) (F. DE E., P.O. 5 DE FEBRERO DE 1997)
 
 ###### Art. 135.
 
-Los partidos políticos son entidades de interés público. La ley determinará las formas específicas de su intervención en el proceso electoral y se regirán conforme a los principios y finalidades que establece la Constitución General de la República.
+Las elecciones del Gobernador del Estado, de los miembros del Congreso y de los integrantes de los Ayuntamientos se realizará mediante sufragio universal, libre, secreto y directo.
 
-La organización, preparación, desarrollo y vigilancia de los procesos electorales locales a que se refiere la ley, es una función del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio, cuya integración y funciones se determinará en la Ley de la materia.
+Los partidos políticos son entidades de interés público. La ley determinará las formas específicas de su intervención en los procesos electorales y se regirán conforme a los principios, finalidades y prerrogativas ciudadanas que establece la Constitución General de la República.
 
-Dicho organismo tendrá facultad para conferir definitividad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos. Al efecto, otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las asignaciones de Diputados y Regidores de Representación Proporcional.
+El financiamiento público que reciban los partidos políticos para su sostenimiento y desarrollo de sus actividades tendientes a la obtención del sufragio, será equitativo y de acuerdo con las disponibilidades presupuestales del Estado.
 
-La ley establecerá un sistema de medios de impugnación de los que conocerá el Organo Electoral Estatal, sus órganos y el Tribunal Electoral del Estado en sus respectivas competencias. El Tribunal resolverá en forma definitiva e inatacable las impugnaciones que se presenten sobre la declaratoria de validez de la elección, otorgamiento de constancias y asignación de Diputados y Regidores por el principio de Representación Proporcional.
+La ley establecerá condiciones de equidad para el acceso de los partidos políticos a los medios de comunicación social; fijará los criterios para determinar los límites a las erogaciones que realicen en sus campañas electorales; establecerá los montos máximos que tengan el conjunto de las aportaciones pecuniarias de sus simpatizantes; los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y asimismo, señalará las sanciones que deben imponerse por el incumplimiento de estas disposiciones.
+
+La organización, preparación, desarrollo y vigilancia de los procesos electorales locales a los que se refiere la Ley, es una función del Estado que se ejercerá a través de un organismo público dotado de autonomía, con personalidad jurídica y patrimonio propio. Dicho organismo, tendrá facultades para conferir definitividad a las distintas etapas del proceso electoral, calificando y declarando la validez de las elecciones de Gobernador, Diputados y Ayuntamientos; para ese fin, otorgará las constancias a los candidatos que hubiesen obtenido mayoría de votos y hará las asignaciones de Diputados y Regidores de Representación Proporcional.
+
+La ley establecerá un sistema de medios de impugnación de los que conocerá el Organo Electoral Estatal, sus órganos y el Tribunal Electoral del Estado en sus respectivas competencias. El Tribunal resolverá en forma definitiva las impugnaciones que se presenten sobre la declaratoria de validez de la elección, otorgamiento de constancias y asignación de Diputados y Regidores por el principio de Representación Proporcional.
 
 El Tribunal Electoral del Estado se integrará y funcionará conforme lo disponga la ley de la materia y sus disposiciones reglamentarias.
+
+Las autoridades electorales sustentarán sus funciones en los principios rectores de certeza, legalidad, independencia, imparcialidad y objetividad. Su integración y funciones las determinará la Ley de la materia.
+
+Las leyes correspondientes tipificarán los delitos en materia electoral y determinarán las sanciones que por ellos se impongan.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)</small>
 
@@ -2201,7 +2209,7 @@ Por esta única vez y para los efectos del Artículo 85 de la reforma, los Conse
 
 P.O. 18 DE NOVIEMBRE DE 1995.
 
-DECRETO 7885 QUE REFORMA ARTS-37, 38 Y 69.
+DECRETO 7885 QUE REFORMA ARTS. 37, 38 Y 69.
 
 PRIMERO.- El presente decreto de reformas entrará en vigor, previos los trámites a que se refiere el artículo 131 de la Constitución Política, el día primero de enero de mil novecientos noventa y seis.
 
@@ -2226,3 +2234,9 @@ DECRETO 7887, QUE DEROGA EL SEGUNDO PARRAFO DE LA FRACCION XXVI DEL ART. 47.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
 
 SEGUNDO.- En cumplimiento a lo dispuesto por el artículo 131 de la Constitución Política, remítase el expediente y la Minuta Proyecto de Decreto relativa a los Honorables Ayuntamientos del Estado para los efectos a que alude el mencionado ordenamiento.
+
+P.O. 25 DE DICIEMBRE DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente decreto de adiciones y reformas entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado, con sujeción a los requisitos y procedimientos que establece el artículo 131 de la Constitución Política.
