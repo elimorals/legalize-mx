@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-transito-para-el-municipio-de-mexicali-baja-22978
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2004-09-10"
+last_updated: "2005-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE TRANSITO PARA EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2005.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1851,7 +1851,7 @@ Al conductor o pasajero que contravenga las disposiciones del presente Reglament
 
 > <small>N. DE E. VEASE TABLA DE SANCIONES EN EL P.O. DE 14 DE DICIEMBRE DE 2001, PAGINAS DE LA 96 A LA 106.</small>
 
-> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46.</small>
+> <small>N. DE E. REFORMAS A LA TABLA DE SANCIONES, P.O. 21 DE FEBRERO DE 2003, PAGINAS DE LA 24 A LA 25, REPUBLICADO, P.O. 7 DE MARZO DE 2003, PAGINAS DE LA 45 A LA 46, P.O. 11 DE MARZO DE 2005, PAGINA 57.</small>
 
 ###### ARTÍCULO 148.
 
@@ -1940,3 +1940,7 @@ UNICO.- LA PRESENTE REFORMA ENTRARÁ EN VIGOR EL DÍA SIGUIENTE DE SU PUBLICACI�
 P.O. 10 DE SEPTIEMBRE DE 2004.
 
 ÚNICO.- La presente modificación entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2005.
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
