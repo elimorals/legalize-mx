@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-presupuesto-contabilidad-y-gasto-173"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-11-18"
-last_updated: "1981-11-18"
+last_updated: "1990-05-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1981-11-13"
 
 REGLAMENTO DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 1990.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 18 de noviembre de 1981.
 
@@ -511,27 +511,37 @@ V. Llevar un registro de su personal con base en el nombramiento, filiación y l
 
 El personal que ingrese a prestar sus servicios en alguna entidad deberá declarar, bajo protesta de decir verdad, si se encuentra o no desempeñando otro empleo o comisión dentro de cualquiera de las entidades y, en caso afirmativo, deberán abstenerse de designarlo o contratarlo, hasta en tanto se determine la compatibilidad correspondiente en la inteligencia que, de no acatarse esta disposición, se constituirá la responsabilidad que proceda.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 1990)</small>
+
 ###### ARTICULO 54.
 
-Para percibir remuneraciones con cargo al presupuesto por el desempeño de dos más empleos o comisiones en las entidades comprendidas en las fracciones I a V del artículo 2o. de la Ley, se requerirá autorización de la compatibilidad correspondiente, emitida por la Secretaría.
+Para percibir remuneraciones con cargo al presupuesto por el desempeño de dos o más empleos o comisiones en las entidades comprendidas en las fracciones III a V del artículo 2o. de la Ley, se requerirá autorización de la compatibilidad correspondiente, emitida por la entidad contratante, conforme al instructivo que expida la Secretaría.
+
+Para el otorgamiento de la autorización antes señalada, cuando el solicitante tenga ya empleo o comisión en entidades distintas a las que se refiere el párrafo anterior, deberán considerarse en ese caso, las circunstancias en que se realice dicho empleo o comisión, a efecto de que se cumpla con los horarios establecidos y el ejercicio de las funciones respectivas.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 55.
 
-Será compatible el desempeño de dos o más empleos o comisiones en distintas entidades a las que se refiere el artículo anterior, siempre y cuando el horario fijado para los mismos no interfiera entre sí y se ajuste a lo dispuesto por la Secretaría.
+Será compatible el desempeño de dos o más empleos o comisiones en distintas entidades a las que se refiere el primer párrafo del artículo anterior, siempre y cuando el horario fijado para los mismos no interfiera entre sí.
 
-No será compatible el desempeño de dos o más plazas en una misma entidad o unidad administrativa con excepción de los casos en que se trate de plazas educacionales.
+No será compatible el desempeño de dos o más plazas en una misma entidad o unidad administrativa con excepción de los casos en que se trate de plazas educacionales o de otras que se señalen en el instructivo.
+
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 1990)</small>
 
 ###### ARTICULO 56.
 
-La Secretaría determinará en el Instructivo que para tal efecto expida las reglas que deberán observarse para aceptar el desempeño de dos o más empleos o comisiones con cargo al Presupuesto y será la competente para aclarar los casos de duda que al respecto se presentaren.
+La Secretaría expedirá el instructivo que contendrá las reglas que deberán observarse para aceptar el desempeño de dos o más empleos o comisiones en las entidades e las fracciones III a V del artículo 2o. de la Ley y será la competente para aclarar los casos de duda que al respecto se presentaren.
 
 ###### ARTICULO 57.
 
 El personal que ingrese a prestar sus servicios en alguna de las entidades y estuviere desempeñando otro empleo o comisión dentro de cualquiera otra de ellas, será responsable en los términos del Capítulo IV del Título Quinto de este Reglamento, si no cuenta con la autorización de compatibilidad correspondiente.
 
+> <small>(REFORMADO, D.O.F. 16 DE MAYO DE 1990)</small>
+
 ###### ARTICULO 58.
 
-La Secretaría podrá verificar en todo tiempo que los interesados estén cumpliendo con las áreas enumeradas en los horarios y jornadas establecidos y, en su caso, procederá a cancelar alguna autorización ya emitida cuando verifique que el interesado no desempeña alguno o algunos de los empleos o emisiones (sic) señalados en su solicitud o que los horarios indicados en dicho documento no son correctos.
+Los órganos de control interno o equivalentes de las entidades podrá verificar en todo tiempo que los interesados estén cumpliendo con las áreas enumeradas en los horarios y jornadas establecidos y, en su caso, promoverán la cancelación de alguna autorización ya emitida cuando verifiquen que el interesado no desempeña alguno o algunos de los empleos o comisiones señalados en su solicitud, o que los horarios indicados en dicho documento no son correctos.
 
 ###### ARTICULO 59.
 
@@ -679,15 +689,7 @@ VIII. Las demás disposiciones que emita la Secretaría.
 
 ###### ARTICULO 72.
 
-Para el ejercicio del gasto público que realicen las entidades comprendidas en las fracciones III a VIII del artículo 2o. de la Ley, por los conceptos que a continuación se señalan se requerirá además de los que establece este Reglamento, del dictamen favorable de las entidades que en cada caso se precisan, de conformidad con las disposiciones legales aplicables:
-
-I. De la Secretaría de Comercio, para la adquisición y arrendamiento de bienes muebles y de servicios relacionados con dichos bienes;
-
-II. De la Secretaría de Asentamientos Humanos y Obras Públicas, para arrendar o adquirir bienes inmuebles destinados al servicio público;
-
-III. De la Secretaría de Programación y Presupuesto, para todos los contratos relacionados con bienes, equipos y servicios en materia de informática, y
-
-IV. De las demás entidades que de acuerdo con las disposiciones legales aplicables deban intervenir.
+(DEROGADO, D.O.F. 16 DE MAYO DE 1990)
 
 ###### ARTICULO 73.
 
@@ -1596,3 +1598,11 @@ Se abroga el Reglamento de la Ley Orgánica del Presupuesto de Egresos de la Fed
 En tanto se dictan las disposiciones administrativas previstas en este Reglamento, se continuarán aplicando las expedidas con anterioridad, en lo que no se opongan al mismo.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de noviembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Programación y Presupuesto, Ramón Aguirre Velázquez.- Rúbrica.- El Jefe del Departamento del Distrito Federal. Carlos Hank González.- Rúbrica.
+
+N. D E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 16 DE MAYO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Secretaría de Programación y Presupuesto en un plazo que no excederá de cuarenta y cinco días hábiles contados a partir de la vigencia del presente Decreto, expedirá el instructivo a que se refiere el artículo 54 de este ordenamiento, el cual será publicado en el Diario Oficial de la Federación.
