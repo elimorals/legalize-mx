@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-municipal-del-estado-de-michoacan-6115"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-31"
-last_updated: "1992-12-31"
+last_updated: "1993-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6115&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1993.
 
 Ley publicada en Sección Segunda del Periódico Oficial del Estado de Michoacán, el sábado 31 de diciembre de 1983.
 
@@ -41,11 +41,11 @@ LEY DE HACIENDA MUNICIPAL DEL ESTADO DE MICHOACAN
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 1o.
 
-La Hacienda Pública de los Municipios del Estado de Michoacán, para cubrir los gastos de su administración y demás obligaciones a su cargo, percibirá en cada ejercicio fiscal los ingresos por concepto de Impuestos, Derechos, Contribuciones Especiales, Productos y Aprovechamientos que anualmente establezcan las leyes fiscales correspondientes, así como las Participaciones en Ingresos Federales.
+La hacienda pública de los municipios del Estado de Michoacán, percibirá en cada ejercicio fiscal para cubrir el gasto público y demás obligaciones a su cargo, los ingresos por concepto de impuestos, derechos, contribuciones especiales, aportaciones de mejoras, productos, aprovechamientos y participaciones en ingresos federales que anualmente se establezcan en la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 ###### ARTICULO 2o.
 
@@ -523,9 +523,9 @@ III. Los demás funcionarios y empleados que inscriban o registren esta clase de
 
 IV. Los peritos valuadores autorizados que no apliquen correctamente en la valuación de predios los valores unitarios aprobados, atendiendo a la clasificación del terreno y construcción de que se trate, por las cantidades dejadas de recaudar.
 
-> <small>(REFORMADO SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-#### Sección Tercera. De la Base
+#### Sección Tercera. De la Base y Tasa
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -541,13 +541,19 @@ Para los efectos de este Impuesto, se considera que el usufructo y la nuda propi
 
 El impuesto se calculará aplicando la tasa del 2% al valor del inmueble después de reducirlo en el equivalente a una vez el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-Tratándose de adquisiciones de vivienda, la reducción a que se refiere el párrafo anterior será de dos veces; si la vivienda es de interés social o popular, dicha reducción será de tres veces el referido salario. También se efectuará la reducción de tres veces dicho salario tratándose de adquisición de bienes hereditarios.
+Tratándose de adquisiciones de vivienda en general, la reducción a que se refiere el párrafo anterior será de tres veces. Si la vivienda es de tipo popular la reducción será de doce veces el referido salario. Tratándose de vivienda de interés social dicha reducción será de quince veces el mencionado salario. También se efectuará dicha reducción de quince veces, en el caso de adquisición de bienes hereditarios siempre y cuando en éste último caso, el caudal hereditario se encuentre conformado por un solo predio destinado a vivienda.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-Para los efectos del párrafo anterior, se entiende por vivienda de interés social o popular aquella cuyo valor en los términos del primer párrafo de este artículo, no exceda de 20 veces el salario mínimo general elevado al año, de la zona económica a que corresponda el Estado de Michoacán.
+Para los efectos del párrafo anterior se consideran los términos del primer párrafo de este artículo, como:
+
+a) Vivienda de interés social, aquella cuyo valor no exceda de quince veces el salario mínimo general vigente para el Estado, elevado al año.
+
+b) Vivienda popular, aquella cuyo valor no exceda de veinte veces el salario mínimo general vigente para el Estado, elevado al año.
+
+c) Vivienda en general, aquella cuyo valor exceda del límite a que se refiere el inciso b) anterior.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 1990)</small>
 
@@ -631,9 +637,9 @@ Cuando se trate de actos o contratos que se hagan constar en documento privado, 
 
 En los casos en que la transmisión de la propiedad se opere como consecuencia de una resolución judicial el adjudicatario firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que causó ejecutoria o estado.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-A la declaración deberá anexarse, además de los documentos señalados en los párrafos anteriores en sus respectivos casos, una constancia que expida la oficina recaudadora correspondiente de que el propietario del inmueble objeto de la transmisión de dominio no tiene ningún adeudo en relación con el propio inmueble.
+A la declaración deberán anexarse, además de los documentos señalados en los párrafos anteriores, en sus respectivos casos, el certificado de registro catastral y la constancia de que el propietario del inmueble, objeto de la transmisión de dominio, no tiene ningún adeudo en relación con el propio inmueble, expedidos por la autoridad competente; excepto tratándose de bienes inmuebles que provengan del patrimonio de los estados o municipios o de los institutos de vivienda.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -675,11 +681,13 @@ En los contratos celebrados fuera del Estado, pero en la República, en relació
 
 #### Sección Quinta. De las Exenciones
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 49.
 
-Están exentos del pago del Impuesto sobre Adquisición de Inmuebles, las adquisiciones de bienes inmuebles que realicen la Federación, el Estado y los Municipios para formar parte del dominio público; los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso, los que adquieran los estados extranjeros en caso de reciprocidad, los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materio, (sic) siempre que en este último caso, la adquisición se realice dentro de los seis meses siguientes de su constitución.
+No se pagará el Impuesto sobre Adquisición de Inmuebles en las adquisiciones que realicen la federación, los estados y municipios para formar parte del dominio público, y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
+
+Tampoco se pagará dicho impuesto, en las adquisiciones de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
 
 #### Sección Sexta. Disposiciones Generales
 
@@ -689,7 +697,9 @@ Están exentos del pago del Impuesto sobre Adquisición de Inmuebles, las adquis
 
 Por los actos de transmisión de dominio de bienes inmuebles que se hagan constar en escritura pública o privada, los notarios, jueces, corredores y demás fedatarios, que por disposición legal tengan funciones notariales, calcularán el impuesto sobre adquisición de inmuebles, bajo su estricta responsabilidad, conforme a lo dispuesto en este Capítulo.
 
-Los Fedatarios no podrán autorizar definitivamente ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido la constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen el comprobante de pago del impuesto que establece este Capítulo.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+Los fedatarios públicos no podrán autorizar definitivamente, ninguna escritura en la que hagan constar actos o contratos transmitivos de dominio de bienes inmuebles, si no han obtenido el certificado y constancia de no adeudo a que se refiere el artículo 45 de esta Ley y el avalúo correspondiente, salvo el caso de excepción que dicho precepto establece. Tampoco podrán autorizar definitivamente ninguna escritura en la que se hagan constar esta clase de actos o contratos, mientras los interesados no les entreguen el comprobante de pago del impuesto que establece este Capítulo.
 
 (REFORMA, P.O. 20 DE DICIEMBRE DE 1990)
 
@@ -719,9 +729,11 @@ Las infracciones a las disposiciones del presente capítulo, se sancionarán con
 
 #### Sección Primera. Del Objeto
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 54.
 
-Es objeto de esta contribución todo impuesto a la propiedad inmobiliaria, con las excepciones que esta Ley establece.
+Es objeto del Impuesto Adicional para Fomento Educativo, el Impuesto Predial y sobre Espectáculos Públicos, excepto el Impuesto Predial Ejidal y Comunal.
 
 #### Sección Segunda. De los Sujetos
 
@@ -731,15 +743,17 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen pagos
 
 #### Sección Tercera. De la Base y de la Tasa
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 56.
 
-La base de este impuesto es el importe de los gravámenes a la propiedad inmobiliaria, excepto el Impuesto Predial Ejidal y Comunal y el Impuesto Sobre Adquisición de Inmuebles.
+La base del Impuesto Adicional para Fomento Educativo, es el importe de las contribuciones a que se refiere el artículo 54 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 57.
 
-El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se hará efectivo en el momento de pagar los créditos mencionados en el artículo anterior, sobre la cantidad que se entere con carácter definitivo o en garantía de aquellos.
+El Impuesto Adicional para Fomento Educativo, se determinará conforme a la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán, y se enterará simultáneamente con las contribuciones base de este Impuesto, cuando éstas deban ser pagadas.
 
 #### Sección Cuarta. De las Exenciones
 
@@ -747,47 +761,117 @@ El impuesto se causará conforme a la tasa que señale la Ley de Ingresos y se h
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 1988)
 
-### CAPITULO IV. DEL IMPUESTO SOBRE INSTRUMENTOS PUBLICOS O PRIVADOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-#### Sección Primera. Del Objeto
+### CAPITULO IV. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Primera. Del Objeto y de los Sujetos
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 59.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+Es objeto del Impuesto sobre Espectáculos públicos, el ingreso que obtengan las personas físicas y morales que celebren espectáculos públicos de: teatro, conciertos culturales, funciones de cine, circo, lucha libre, corridas de toros, bailes públicos, eventos deportivos, espectáculos con variedad, audiciones musicales populares, torneos de gallos, carreras de caballos, jaripeos, exhibiciones de cualesquiera naturaleza y cualquier otro evento no especificado a los que se condicione el acceso al público en general mediante en pago de cuotas de admisión.
+
+Las personas físicas y morales que realicen actividades empresariales a que se refiere el Código Fiscal de la Federación, cuando celebren en sus establecimientos eventualmente espectáculos a que se refiere este artículo, estarán afectas al pago de este impuesto, si condicionan el acceso al pago de cuotas de admisión.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 60.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+Son responsables solidarios del pago del impuesto sobre Espectáculos públicos, los propietarios o poseedores de establecimientos en los que por cualquier acto o contrato, se autorice a las personas sujetas de este impuesto, para que celebren los espectáculos a que se refiere el artículo 59 de esta Ley, cuando dichas personas no efectúen el pago conforme a las disposiciones de este Capítulo.
 
 #### Sección Segunda. De los Sujetos
 
-#### Sección Tercera. De la Base
+(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993) (sic)
+
+#### Sección Tercera. De la Base y Tasa
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 61.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+El Impuesto sobre Espectáculos Públicos, se determinará aplicando al ingreso bruto que se obtenga en la celebración de los eventos de que se trate, las tasas que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán.
 
 #### Sección Cuarta. Del Pago
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 62.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+El entero del Impuesto sobre Espectáculos Públicos deberá efectuarse en la Tesorería Municipal correspondiente, a más tardar el día hábil siguiente a la fecha de la realización del evento de que se trate. Tratándose de cuotas preestablecidas, el entero se deberá efectuar dentro de los primeros cinco días del mes a que éstas correspondan.
+
+La Tesorería Municipal correspondiente, podrá establecer cuotas mensuales a los sujetos de este Impuesto, cuando la celebración de espectáculos públicos se realice permanentemente en establecimientos fijos. Para la determinación de la cuota mensual que corresponda se tomará en consideración lo siguiente:
+
+a) El promedio de los ingresos brutos obtenidos por el sujeto de este Impuesto en un período determinado, según las circunstancias de cada caso;
+
+b) Aplicará a los ingresos determinados en los términos del inciso anterior, la tasa que establezca la Ley de Ingresos para los Municipios del Estado de Michoacán, para el espectáculo de que se trate; y
+
+c) La cuota determinada se incrementará, cada vez que se apliquen los incrementos autorizados a los precios de acceso al evento de que se trate o cuando la Tesorería Municipal compruebe mediante intervención, que el ingreso promedio que obtenga el contribuyente en un período determinado, es superior al considerado como base para la determinación de la cuota anterior.
+
+Cuando se incrementen los precios de acceso, el incremento a la cuota correspondiente, se hará en la misma proporción en que se incrementen los precios o en su defecto, se llevará a cabo intervención por parte de la Tesorería Municipal correspondiente, para determinar la nueva base de la misma.
+
+Para la designación de interventores y determinación de las cuotas a que se refiere este artículo, se observarán las formalidades conducentes que se establecen en el artículo 63 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 63.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+Para la determinación y cobro del Impuesto sobre Espectáculos Públicos, la Tesorería Municipal correspondiente, designará a los interventores atendiendo a lo siguiente:
+
+a) La designación deberá ser por escrito y dirigida al sujeto del Impuesto conforme a la licencia previamente expedida;
+
+b) Señalar el lugar y fecha o en su caso, el período de celebración del evento de que se trate; y
+
+c) Los interventores designados deberán identificarse con credencial vigente, expedida por la autoridad competente del H. Ayuntamiento que corresponda.
+
+Los interventores designados elaborarán cédula de determinación del Impuesto, en la que anotarán los siguientes datos:
+
+1.- Nombre del sujeto del Impuesto;
+
+2.- Fecha de celebración o período y evento de que se trate;
+
+3.- Cantidad de boletos por cada localidad, importe unitario, suma por localidad e importe total del ingreso bruto, tasa del Impuesto, importe del impuesto, impuesto adicional e impuesto total;
+
+4.- Recabará firma de conformidad del sujeto del impuesto, la firmará en su carácter de interventor designado y entregará el original como comprobante de pago provisional, previa recaudación del impuesto correspondiente;
+
+5.- Informará al sujeto del impuesto que podrá acudir a las oficinas de la Tesorería Municipal correspondiente, al siguiente día hábil, a canjear el comprobante provisional por el recibo oficial y que de no hacerlo, aquél adquirirá el carácter de comprobante oficial definitivo; y
+
+6.- Enterará al siguiente día hábil al de la celebración del evento, el importe del impuesto recaudado a la caja de la Tesorería Municipal correspondiente, conjuntamente con la copia de la cédula de determinación elaborada.
+
+Cuando no se permita a los interventores designados, la determinación y cobro del impuesto correspondiente, se estimará el monto a pagar, considerando el aforo y cantidad de asistentes al evento de que se trate o por cualquier otro medio indirecto de apreciación que sirva de base. El pago del monto estimado así como de la sanción correspondiente, se exigirá mediante intervención a la caja o taquilla, en su caso, con el auxilio de la fuerza pública, procediendo en los términos de los apartados 4 y 5 de este artículo.
 
 #### Sección Quinta. De las Exenciones
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 64.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+Los sujetos del Impuesto sobre Espectáculos Públicos tendrán, además, las obligaciones siguientes:
+
+I. Si realizan los espectáculos públicos permanentemente en establecimiento fijo, manifestar por escrito a la Tesorería Municipal correspondiente, dentro de los 15 días siguientes a la fecha en que ocurran: Apertura o cierre de establecimiento, suspensión o reanudación de actividad y cambio de domicilio;
+
+II.- Si realizan espectáculos públicos en forma eventual, o si realizándose permanentemente, no se cuenta con establecimiento fijo:
+
+A) Presentar ante la Tesorería Municipal correspondiente, la licencia o permiso expedido por autoridad competente y el boletaje emitido para ser sellado, cuando menos con 2 días hábiles de anticipación a la fecha de celebración del espectáculo público de que se trate.
+
+Se exceptúan de la presentación del boletaje para su sellado, á los sujetos que para el acceso al evento de que se trate, expidan boletaje en rollo. En estos casos, se proporcionarán a los interventores designados, los números inicial y final de cada rollo, según localidad y función o evento. Cuando se trate de juegos mecánicos los números inicial y final de cada rollo, según el aparato correspondiente.
+
+B) No vender boletos de acceso si éstos no están sellados por la Tesorería Municipal correspondiente;
+
+C) Destruir los boletos recibidos de los espectadores a la entrada del espectáculo y entregar a la Tesorería Municipal correspondiente, el boletaje sellado sobrante para su inutilización; y
+
+D) Permitir a los interventores designados, la realización de sus actividades para la determinación y cobro del impuesto correspondiente.
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 65.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 1986)
+Las infracciones cometidas por los contribuyentes del Impuesto sobre Espectáculos Públicos, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal del Estado de Michoacán de Ocampo.
 
 ###### ARTICULO 66.
 
@@ -829,49 +913,45 @@ El pago de este impuesto será anual y se calculará aplicando la cuota o tarifa
 
 Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones contenidas en el Código Fiscal Municipal.
 
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ### CAPITULO VI. DEL IMPUESTO SOBRE LA AUTORIZACION DE HORARIO EXTRAORDINARIO A ESTABLECIMIENTOS QUE REALICEN ACTIVIDADES COMERCIALES
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Primera. Del Objeto
 
 ###### ARTICULO 73.
 
-Es objeto de este impuesto, la autorización otorgada por el Ayuntamiento para funcionamiento de establecimientos fuera del horario establecido en el Reglamento Municipal respectivo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Segunda. De los Sujetos
 
 ###### ARTICULO 74.
 
-Son sujetos de este impuesto, las personas físicas o morales que obtengan autorización para funcionar sus establecimientos en horas extraordinarias.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
 
 ###### ARTICULO 75.
 
-No son sujetos de este impuesto, los propietarios de los siguientes establecimientos:
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
 
-I.- Agencias de Inhumaciones;
-
-II.- Boticas, Farmacias y Droguerías;
-
-III.- Estacionamientos y Pensiones para Automóviles;
-
-IV.- Estaciones de Radio y Televisión;
-
-V.- Gasolinerías;
-
-VI.- Hospitales, Sanatorios, Clínicas, Laboratorios, y
-
-VII.- Hoteles, Moteles y Casas de Huéspedes.
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Tercera. De la Base y del Pago del Impuesto
 
 ###### ARTICULO 76.
 
-Los sujetos de este impuesto lo cubrirán en la Tesorería Municipal correspondiente en el momento de solicitar la autorización de horario extraordinario, de conformidad con la tarifa que determine la Ley de Ingresos, de acuerdo con la categoría del giro.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Cuarta. De las Infracciones y Sanciones
 
 ###### ARTICULO 77.
 
-Las infracciones a las disposiciones de este Capítulo se sancionarán de acuerdo con el Código Fiscal Municipal.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
 
 ### CAPITULO VII. DEL IMPUESTO SOBRE RIFAS, LOTERIAS, CONCURSOS O SORTEOS
 
@@ -1061,65 +1141,103 @@ El pago de este derecho, se hará a través de las Empresas suministradoras de e
 
 Las infracciones a este Capítulo, se sancionarán conforme a lo dispuesto por el Código Fiscal Municipal.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO VI. POR ABASTECIMIENTO DE AGUA POTABLE Y SERVICIOS DE DRENAJE Y ALCANTARILLADO
+### CAPITULO VI. POR ABASTECIMIENTO DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO
 
 #### Sección Primera. De la Definición
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 107.
 
-Se entiende por servicio o abastecimiento de agua potable, la conducción del líquido de su fuente de origen hasta la toma domiciliaria.
+Se entiende por servicios de abastecimiento de agua potable y servicios de alcantarillado y saneamiento, la extracción, cloración y conducción del líquido de su fuente original hasta la toma domiciliaria, así como, su descarga y saneamiento de aguas residuales.
 
-#### Sección Segunda. Del Objeto
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Segunda. Del Objeto y del Sujeto
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 108.
 
-Son objeto de este derecho todos los predios ubicados dentro de la jurisdicción de los Municipios del Estado de Michoacán, que están conectados o se conecten a la red de agua potable municipal o deban servirse de la misma.
+Están obligados al pago de los derechos por abastecimiento de agua potable y por servicios de alcantarillado y saneamiento, los propietarios o poseedores de predios que estén conectados o se conecten a las redes de los sistemas municipales correspondientes. También están obligados al pago de estos derechos, los gobiernos federal, estatal y municipales por el servicio prestado en predios propiedad de los mismos.
 
 ###### ARTICULO 109.
 
-No son objeto de este derecho las fincas propiedad de los Municipios y de los Gobiernos Federal y del Estado, destinados a servicios públicos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
+
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 #### Sección Tercera. De los Sujetos
 
 ###### ARTICULO 110.
 
-Son sujetos de este derecho los propietarios o poseedores de predios que disfruten de la prestación del servicio de agua potable.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
 
-#### Sección Cuarta. Del Pago del Derecho
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Cuarta. Del Pago
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 111.
 
-El consumo de agua potable se pagará mensual o bimestralmente en la oficina que corresponda, durante el período que señale el recibo y conforme a la tarifa que fije la Ley de Ingresos vigente.
+Los derechos por abastecimiento de agua potable se pagarán mensual o bimestralmente en la oficina que corresponda, dentro del mes siguiente, al mes o bimestre de que se trate, conforme a las tarifas que apruebe anualmente el Congreso del Estado, para cada sistema, a iniciativa de los ayuntamientos, con la asesoría técnica del Comité de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán.
+
+Para el establecimiento de las tarifas a que se refiere el párrafo anterior, se estará a los costos de administración, operación y mantenimiento que requieran cada uno de los sistemas correspondientes a cada municipio, así como, de saneamiento de aguas. Asimismo, deberá considerarse el tipo de servicio de abastecimiento, ya sea doméstico, comercial o industrial y la progresividad por el abastecimiento en metros cúbicos, tratándose de servicio medido al consumo mínimo, tratándose de cuotas fijas.
+
+Adicionalmente a las tarifas por abastecimiento a que se refiere el párrafo anterior, se establecerán cuotas por conexión de tomas domiciliarias a las redes de los sistemas y por descarga domiciliaria en Ias redes de alcantarillado. En las cuotas anteriores deberá quedar incluido el costo de la ruptura y reposición de pisos de calle, considerando material y mano de obra conforme a los diámetros y tipo de servicio que se contrate.
+
+Tratándose de nuevos fraccionamientos, se establecerán cuotas de conexión a las redes de agua potable, conforme al gasto requerido del fraccionamiento y costo de las obras de cabeza. Igualmente, se establecerán cuotas por conexión a la red de alcantarillado sanitario.
+
+Las tarifas que se establezcan conforme a este artículo y la Ley de Agua Potable, Alcantarillado y Saneamiento del Estado de Michoacán de Ocampo, además de su publicación en el Periódico Oficial del Estado, deberán ser publicadas en los estrados de las oficinas municipales y de los organismos operadores de los sistemas y, podrán en su caso, difundirse en otros medios, que permitan darlas a conocer a los usuarios.
+
+La falta de pago dentro de los plazos a que se refiere el primer párrafo de este artículo, causará recargos conforme a la tasa que fije la Ley de Ingresos para los Municipios del Estado de Michoacán y el pago de los derechos conjuntamente con sus accesorios, será exigido por los organismos operadores en su carácter de autoridades fiscales, mediante la aplicación del procedimiento administrativo de ejecución, conforme al Código Fiscal Municipal del Estado de Michoacán.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 112.
 
-Las instalaciones o reparaciones de los sistemas de conducción que se hagan fuera de las fincas o predios para conectarse con la red de distribución, serán por cuenta del propietario o poseedor.
+Las instalaciones o reparaciones de las tomas domiciliarias que se hagan fuera de los predios para conectarse con la red de distribución, serán por cuenta del propietario o poseedor.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 113.
 
-Los propietarios o poseedores de fincas y predios no tendrán derecho a disminución o exención en el pago de las cuotas por servicios de agua potable por causas de escasez o falta accidental del líquido, a menos que ésta sea completa y dure más de treinta días consecutivos; al efecto el Presidente Municipal deberá expedir certificado que se acompañará a la cuenta mensual respectiva.
+Los propietarios o poseedores de predios no tendrán derecho a disminución o cancelación del monto de los derechos por abastecimiento de agua potable y servicios de alcantarillado y saneamiento, cuando no se les proporcione el servicio por escasez o falta accidental del líquido, salvo que la suspensión del servicio sea completa y dure más de treinta días consecutivos.
+
+Cuando los propietarios o poseedores de predios, que disponiendo del servicio no lo utilicen por más de treinta días consecutivos, deberán demostrar esta circunstancia a satisfacción del organismo operador, a efecto de que se suspenda el cobro correspondiente. Cuando se reanude la utilización del servicio, se deberá manifestar este hecho al organismo operador, a efecto de que reanude el cobro correspondiente.
 
 #### Sección Quinta. De las Disposiciones Complementarias
 
 ###### ARTICULO 114.
 
-El régimen y reparto de las aguas propiedad de los Municipios, quedan sujetos a las leyes y reglamentos respectivos.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1993)
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 115.
 
-Los Notarios Públicos y quienes hagan sus veces, ante quienes otorguen escrituras de compraventa de predios urbanos o urbanizados, tienen estricta obligación de comprobar en la Tesorería Municipal correspondiente y antes de autorizar los títulos, que el inmueble materia de la operación está al corriente en los derechos de aguas o que no se causen tales derechos y dar aviso a la misma dependencia, por escrito, dentro de los tres días siguientes a la fecha en que sean autorizados los instrumentos, dando a conocer los nombres del vendedor y comprador, número de la cuenta y descripción del predio, a efecto de que se haga el cambio respectivo. El encargado del Registro Público de la Propiedad tampoco procederá al registro de ninguna escritura si no se le comprueba que se han pagado los derechos de servicio de agua; aun cuándo su administración esté encargada a una Junta operadora, como órgano descentralizado.
+Los notarios públicos y quienes conforme a la ley tengan el ejercicio de la fe pública, ante quienes se otorguen escrituras en las que se haga constar la adquisición de bienes inmuebles, tienen la obligación de comprobar ante el organismo operador del sistema de agua potable correspondiente, que el propietario del inmueble materia de la operación está al corriente del pago de los derechos a que se refiere este Capítulo, o en su caso, que no se causan tales derechos, previo a la autorización de los títulos. Asimismo, darán aviso por escrito al citado organismo, dentro de los tres días siguientes a la fecha en que sean autorizados dichos instrumentos, en el que se consignen los nombres del comprador y vendedor, número de la cuenta y descripción del predio, a efecto de que se haga el cambio respectivo.
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+Cuando los fedatarios públicos no cumplan con las obligaciones a que se refiere el párrafo anterior, serán responsables solidarios de los adeudos que por este concepto no pague el nuevo propietario.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 116.
 
-Tomando como base la tarifa asignada al usuario del servicio de agua potable, se agregará la cuota adicional que determina la Ley de Ingresos Municipal vigente, correspondiente a los derechos de drenaje y alcantarillado.
+Al monto de los derechos por suministro de agua potable que se determine conforme a las tarifas a que se refiere el artículo 111 de esta Ley, se adicionará el 20% de dichos derechos como contraprestación a los servicios de alcantarillado. Se exceptúan del pago del 20% adicional a que se refiere este artículo, los derechos que se determinen conforme a los párrafos tercero y cuarto del referido artículo 111.
 
 #### Sección Sexta. De las Infracciones y Sanciones
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 117.
 
-Las infracciones al presente Capítulo se sancionarán conforme a lo dispuesto en el Código Fiscal Municipal.
+Independientemente de las sanciones por las infracciones de carácter administrativo que se impongan conforme a las disposiciones correspondientes, las que se cometan en relación con este Capítulo, se sancionarán conforme a lo dispuesto en el Código Fiscal Municipal del Estado de Michoacán.
 
 ### CAPITULO VII. POR EXPEDICION, REVALIDACION Y CANJE DE PERMISOS O LICENCIAS
 
@@ -1223,7 +1341,9 @@ Será objeto de los derechos a que se refiere este Capítulo, la expedición por
 
 Son sujetos de este derecho las personas físicas o morales, que previa solicitud, se les expidan certificados, certificaciones, actas legalizaciones y copias de documentos existentes en los archivos de las oficinas municipales.
 
-#### Sección Cuarta. Del Pago del Derecho
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+#### Sección Cuarta. Del Pago
 
 ###### ARTICULO 132.
 
@@ -1387,11 +1507,21 @@ Los derechos por la prestación de estos servicios se cubrirá en la Tesorería 
 
 Las infracciones al presente Capítulo se sancionarán de conformidad con las disposiciones contenidas en el Código Fiscal Municipal.
 
-### CAPITULO I. DE AUMENTO DE VALOR Y MEJORIA ESPECIFICA DE LA PROPIEDAD
+> <small>(ADICIONADO CON ARTICULOS QUE LO INTEGRAN, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+### CAPITULO XIV. POR LA AUTORIZACION DE HORARIO EXTRAORDINARIO A ESTABLECIMIENTOS QUE REALICEN ACTIVIDADES EMPRESARIALES Y DE PRESTACION DE SERVICIOS
+
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 151-A.
+
+Están obligados al pago de los derechos por la autorización de horario extraordinario, las personas físicas y morales, que realicen actividades empresariales y de prestación de servicios, cuando soliciten realizar dichas actividades fuera del horario autorizado, conforme a las cuotas que establezca la Ley de Ingresos Municipal del Estado de Michoacán.
+
+Se exceptúa del pago de los derechos que se refiere el párrafo anterior, las siguientes: agencias de inhumaciones, farmacias, estacionamientos y pensiones para vehículos automotores, estaciones de radio y televisión, gasolineras, hospitales, laboratorios de análisis clínicos, hoteles, moteles y casas de huéspedes.
 
 ## TITULO CUARTO. CONTRIBUCIONES ESPECIALES
 
-### CAPITULO II. DE LA APORTACION DE MEJORAS
+### CAPITULO I. DE AUMENTO DE VALOR Y MEJORIA ESPECIFICA DE LA PROPIEDAD
 
 #### Sección Primera. Del Objeto
 
@@ -1517,7 +1647,7 @@ En lo no previsto en este Capítulo será de aplicación supletoria la Ley de De
 
 Las infracciones al presente Capítulo, se sancionarán conforme las disposiciones del Código Fiscal Municipal vigente.
 
-### CAPITULO I. ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO
+### CAPITULO II. DE LA APORTACION DE MEJORAS
 
 #### Sección Primera. Del Objeto
 
@@ -1581,9 +1711,7 @@ Las infracciones a este capítulo se sancionarán conforme a las disposiciones d
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO II
-
-ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
+### CAPITULO I. ENAJENACION DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO
 
 ###### ARTICULO 179.
 
@@ -1603,7 +1731,9 @@ Son objeto de este producto, la venta de los bienes abandonados y otros objetos 
 
 En ningún caso podrán enajenarse bienes de uso común, o destinados a un servicio público municipal, mientras tengan ese carácter o destino.
 
-### CAPITULO UNICO
+### CAPITULO II
+
+ARRENDAMIENTO DE BIENES MUEBLES E INMUEBLES PERTENECIENTES AL MUNICIPIO.
 
 ###### ARTICULO 183.
 
@@ -1623,7 +1753,7 @@ Los demás ingresos por actividades que no correspondan a funciones de derecho p
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
 
-### CAPITULO I. Recargos
+### CAPITULO UNICO
 
 ###### ARTICULO 187.
 
@@ -1633,31 +1763,31 @@ Constituyen este ingreso las cantidades que perciban los Municipios del Estado d
 
 ## TITULO OCTAVO. DE LOS INGRESOS EXTRAORDINARIOS
 
-### CAPITULO II. Multas
+### CAPITULO I. Recargos
 
 ###### ARTICULO 188.
 
 El pago de un crédito fiscal enterado fuera de los plazos señalados, causará los recargos que establece el Código Fiscal Municipal y fije la Ley de Ingresos vigente.
 
-### CAPITULO III. Reintegros
+### CAPITULO II. Multas
 
 ###### ARTICULO 189.
 
 Constituyen los ingresos de este ramo, las multas impuestas por infracciones a las Leyes Fiscales Municipales y las provenientes de infracciones a los demás ordenamientos de carácter municipal.
 
-### CAPITULO IV. Donativos a favor del Municipio
+### CAPITULO III. Reintegros
 
 ###### ARTICULO 190.
 
 Son reintegros los que se hagan por responsabilidad de los empleados municipales que manejen fondos provenientes de la glosa y revisión, ya sea preventiva o definitiva que practique el Ayuntamiento, Tesorería Municipal o Contaduría General de Glosa.
 
-### CAPITULO V. Indemnizaciones por Daños a Bienes Municipales
+### CAPITULO IV. Donativos a favor del Municipio
 
 ###### ARTICULO 191.
 
 Se aplicarán a este ramo de aprovechamientos, los donativos a favor del Municipio que haga la Federación.
 
-### CAPITULO UNICO
+### CAPITULO V. Indemnizaciones por Daños a Bienes Municipales
 
 ###### ARTICULO 192.
 
@@ -1666,8 +1796,6 @@ Al ramo de aprovechamientos se aplicarán los ingresos no previstos en las denom
 ## TITULO NOVENO. GENERALIDADES
 
 ### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 193.
 
@@ -1682,6 +1810,10 @@ III.- Los créditos otorgados por el Estado;
 IV.- Los créditos otorgados por particulares, y
 
 V.- Los créditos otorgados por otra fuente de financiamiento.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 194.
 
@@ -1747,23 +1879,19 @@ El presente decreto entrará en vigor el día 1o. de enero de 1991; previa publi
 
 Para los efectos a que se refiere el penúltimo párrafo del artículo 6o. de esta Ley, la vigencia de los avalúos notificados hasta diciembre de 1990, subsistirá hasta que hayan transcurrido dos años.
 
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO TERCERO.
 
-Para los efectos de lo dispuesto en el Artículo 7o. de esta Ley, para los predios cuyos avalúos hayan sido notificados hasta diciembre de 1990, la base de este impuesto se incrementará a lo que resulte de multiplicar ésta, por lo que se obtenga de dividir el Indice Nacional de Precios al Consumidor del segundo mes del bimestre en que los avalúos hayan vencido, entre el Indice Nacional de Precios al Consumidor del mismo mes del año anterior. A partir del incremento a las bases, a que se refiere este Artículo, la vigencia de ésta será la que señala el Artículo 6o. de dicha Ley.
+Para los efectos a que se refiere el artículo 111 de esta Ley, entre tanto no se establezcan las tarifas para la prestación del servicio de agua potable, alcantarillado y saneamiento, para el año de que se trate, se aplicarán las tarifas aprobadas para el año anterior. Para el año de 1994, se aplicará las aprobadas mediante la Ley de Ingresos de 1993, incrementadas en un 10%, excepto en los casos en que el H. Congreso del Estado haya aprobado tarifas de manera particular para algunos municipios. Asimismo, mientras no se constituyan los organismos operadores de los sistemas, las facultades recaudatorias de éstos, se ejercerán por las tesorerías municipales.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO CUARTO.
 
-Para los efectos del Artículo 42 de la Ley de Hacienda Municipal, durante el año de 1993, se aplicará la tasa del 4% en lugar de la establecida en dicho artículo.
+Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el Impuesto sobre Adquisición de Inmuebles, por las adquisiciones que realicen hasta el 31 de diciembre de 1994.
 
-Durante ese año las reducciones de salario mínimo general a que se refiere dicho artículo, será de 2 veces; cuando se trate de vivienda, de 3 veces; y, si la vivienda es de interés social o popular, dicha reducción será del equivalente a 5 veces el referido salario.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-###### ARTICULO QUINTO.
-
-Durante los años de 1992 y 1993, además de los requisitos previstos en el Artículo 9º de la Ley del Impuesto Sobre Adquisición de Inmuebles, el Impuesto a que se refiere el Capítulo II del Título Segundo de esta Ley de Hacienda Municipal del Estado de Michoacán, que resulte a carga del contribuyente en dichos años, en ningún caso deberá ser mayor a aquel que se hubiere determinado de conformidad con las disposiciones contenidas en la Ley de Hacienda Municipal, vigente al 31 de diciembre de 1990.
+El Ejecutivo del Estado dispondrá se publique y observe.
 
 P.O. 30 DE DICIEMBRE DE 1991.
 
@@ -1784,3 +1912,9 @@ DECRETO NUM 18.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE DICIEMBRE DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir del día 1 de enero de 1994, previa su publicación en el Periódico Oficial del Estado.
