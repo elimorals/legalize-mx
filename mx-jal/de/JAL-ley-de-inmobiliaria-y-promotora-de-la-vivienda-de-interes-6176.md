@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-inmobiliaria-y-promotora-de-la-vivienda-de-interes-6176"
 country: "mx"
 rank: "ley"
 publication_date: "1978-08-31"
-last_updated: "1978-08-31"
+last_updated: "1990-03-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DE LA INMOBILIARIA DE INTERES PUBLICO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: SABADO 31 DE MARZO DE 1990.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 31 de agosto de 1978.
 
@@ -57,11 +57,15 @@ III.- Promover la venta de sus predios cuyo uso habitacional o industrial demand
 
 IV.- Estudiar y proyectar las reglas para el uso y aprovechamiento de los inmuebles que se destinen a los servicios de la comunidad a que esta Ley se refiere.
 
-V.- Sugerir al Departamento de Planeación y Urbanización del Estado las medidas necesarias para evitar la especulación con predios o casa habitación cuando ésta sea contraria al interés social.
+> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+
+V.- Sugerir a la Secretaria de Desarrollo Urbano y Rural del Estado las medidas necesarias para evitar la especulación con predios o casas-habitación, cuando ésta sea contraria al interés social.
 
 VI.- Celebrar todo tipo de contratos incluyendo el de asociación cuando el interés social lo reclame sin perjuicio de los que directamente celebre el Gobierno del Estado.
 
-VII.- Sugerir ante el Departamento de Planeación y Urbanización del Estado la fundación de nuevos centros de Población, así como los supuestos para que se formulen por quien corresponda las declaraciones sobre provisiones, usos, reservas y destino de los mismos.
+> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+
+VII.- Sugerir a la Secretaría de Desarrollo Urbano y Rural del Estado la fundación de nuevos centros de población, así como los supuestos para que se formulen por quien corresponda las declaraciones sobre provisiones, usos, reservas y destino de los mismos.
 
 VIII.- Establecer los requisitos a que deberán sujetarse las personas que pretendan adquirir casa habitación o terreno de la Inmobiliaria.
 
@@ -95,11 +99,15 @@ El Consejo de Administración se integrará de la siguiente manera:
 
 I.- Por el Gobernador del Estado quien tendrá el carácter de Presidente del Consejo o por su Representante quien tendrá igual carácter y quienes tendrán voto de calidad.
 
-II.- Por el Tesorero General del Estado.
+> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
 
-III.- Por el Jefe del Departamento de Planeación y Urganización (sic) del Estado.
+II.- Por el Secretario de Finanzas del Estado.
 
-IV.- Por el Jefe del Departamento de Obras Públicas del Estado.
+> <small>(REFORMADA, P.O. 31 MARZO DE 1990)</small>
+
+III.- Por el Secretario de Desarrollo Urbano y Rural del Estado.
+
+IV.- (DEROGADA, P.O. 31 MARZO DE 1990)
 
 V.- Por la Dirección de Catastro.
 
@@ -384,3 +392,9 @@ LIC. FLAVIO ROMERO DE VELASCO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO DE ALBA MARTÍN.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O.31 DE MARZO DE 1990.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación, en Periódico Oficial El Estado de Jalisco.
