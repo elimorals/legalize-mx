@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-procedimientos-civiles-de-yucatan-8644"
 country: "mx"
 rank: "codigo"
 publication_date: "1941-12-24"
-last_updated: "1984-12-29"
+last_updated: "1991-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 3 DE DICIEMBRE DE 1991.
 
 Código publicado en el Diario Oficial los días 24, 26, 27, 29, 30 y 31 de Diciembre de 1941 y 5 de Enero de 1942.
 
@@ -97,19 +97,19 @@ El Juez puede habilitar los días y horas inhábiles, para actuar o para que se 
 
 Iniciada en horas hábiles una diligencia, podrá continuarse hasta su terminación sin necesidad de previa habilitación.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 13.
 
 En las actuaciones judiciales y en los escritos que presenten las partes, no se emplearán abreviaturas; tampoco se rasparán las frases equivocadas, sobre las que sólo se pondrá una línea delgada que permita la lectura, salvándose al fin con toda precisión el error cometido. Las fechas y cantidades se escribirán precisamente con letras.
 
-La infracción de este artículo será castigada con una multa de diez a cien pesos, que impondrá el Juez respectivo.
+La infracción de este Artículo será castigada con una multa de hasta diez veces el salario mínimo vigente en la ciudad de Mérida, que impondrá el Juez respectivo.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 14.
 
-La Oficialía de Partes será la encargada de recibir y distribuir los negocios que deban iniciarse, sea que se trate de jurisdicción contenciosa, sea de jurisdicción mixta o voluntaria, cuando deban conocer de ellos los Juzgados de lo Civil y de Hacienda y los de lo Familiar, procediendo en cada caso en los términos establecidos en el artículo 86 de la Ley Orgánica del Poder Judicial del Estado. Fuera de los casos señalados en dicho artículo, los demás escritos dirigidos a los aludidos Juzgados serán entregados al Secretario del Juzgado que corresponda, quien hará constar el día y la hora en que se presente cada escrito, dando cuenta de él, a más tardar dentro de veinticuatro horas, y poniendo de esto la constancia correspondiente; otorgará recibo del escrito al interesado si lo pidiere; y foliará exactamente los autos. Cualquiera falta a lo dispuesto en este artículo será castigada con una multa de diez pesos que el Juez impondrá de plano tan pronto como advierta la infracción o se le denuncie.
+La Oficialía de Partes será la encargada de recibir y distribuir los negocios que deban iniciarse, sea que se trate de jurisdicción contenciosa, sea de jurisdicción mixta o voluntaria, cuando deban conocer de ellos los juzgados de lo Civil y de Hacienda y los de lo Familiar, procediendo en cada caso en los términos establecidos en el Artículo 86 de la Ley Orgánica del Poder Judicial del Estado. Fuera de los casos señalados en dicho Artículo, los demás escritos dirigidos a los aludidos Juzgados serán entregados al Secretario del Juzgado que corresponda, quien hará constar el día y la hora en que se presente cada escrito, dando cuenta de él, a más tardar dentro de veinticuatro horas, y poniendo de esto la constancia correspondiente; otorgará recibo del escrito al interesado si lo pidiere; y foliará exactamente los autos. Cualquier falta a lo dispuesto en este Artículo será castigada con una multa de hasta diez veces el salario mínimo vigente en la ciudad de Mérida, que el Juez impondrá de plano tan pronto como advierta la infracción o se le denuncie.
 
 ###### ARTICULO 15.
 
@@ -173,9 +173,11 @@ ARTICULO 23 BIS.- Las resoluciones judiciales firmes dictadas en negocios de ali
 
 ### CAPITULO III. De las notificaciones
 
+(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+
 ###### ARTICULO 24.
 
-Las notificaciones y citaciones se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando en ellas no se dispusiere otra cosa. Se impondrá de plano a los infractores de este artículo, una multa de diez a cincuenta pesos.
+Las notificaciones y citaciones se verificarán lo más tarde el día siguiente al en que se dicten las resoluciones que las prevengan, cuando en ellas no se dispusiere otra cosa. Se impondrá de plano a los infractores de este artículo, una multa de 1 a 5 días de salario mínimo vigente en la ciudad de Mérida.
 
 ###### ARTICULO 25.
 
@@ -241,9 +243,11 @@ La lista expresará solamente los nombres y apellidos de los interesados o de su
 
 Además de los casos a que se refiere el artículo 26 de este Código, la notificación se hará personalmente cuando se hubiere dejado de actuar durante seis meses o más en el expediente, o se trate de personas extrañas al juicio o de casos muy urgentes en concepto del Juez.
 
+(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+
 ###### ARTICULO 37.
 
-Las notificaciones que se hicieren en forma distinta de la prevenida en este Capítulo serán nulas, y el notificador que las autorice incurrirá en una multa hasta de cien pesos, debiendo además responder de cuantos perjuicios y gastos se hayan originado por su culpa. La parte agraviada podrá promover ante el mismo Juez que conozca del negocio, el respectivo incidente sobre declaración de nulidad, dentro de los tres días siguientes a aquél en que tenga conocimiento de la notificación.
+Las notificaciones que se hicieren en forma distinta de la prevenida en este Capítulo serán nulas, y el notificador que las autorice incurrirá en una multa hasta de 10 veces el salario mínimo vigente en la ciudad de Mérida, debiendo además responder de cuantos perjuicios y gastos se hayan originado por su culpa. La parte agraviada podrá promover ante el mismo Juez que conozca del negocio, el respectivo incidente sobre declaración de nulidad, dentro de los tres días siguientes a aquél en que tenga conocimiento de la notificación.
 
 ###### ARTICULO 38.
 
@@ -351,15 +355,15 @@ La caducidad de la primera instancia no extingue la acción; ésta podrá ejerci
 
 La caducidad de la instancia no invalida la interrupción de la prescripción producida por la iniciación del juicio. El término de la prescripción comienza a correr de nuevo desde la fecha de la notificación del auto de caducidad.
 
-> <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 58.
 
-Los Magistrados y los Jueces tienen el deber de mantener el buen orden y de exigir que se les guarden las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren, con multas que no podrán pasar, en los Juzgados de Paz, de diez pesos; en los de Primera Instancia de veinticinco, y de cien en el Tribunal Superior.
+Los Magistrados y los Jueces tienen el deber de mantener el buen orden y de exigir que se les guarde el respeto y las consideraciones debidas, corrigiendo en el acto las faltas que se cometieren con multa de hasta 5 veces el salario mínimo vigente en la ciudad de Mérida, en los juzgados de Paz; en los de Primera instancia hasta de 25 veces el salario mínimo vigente en la ciudad de Mérida, y hasta de 50 veces el salario mínimo vigente en la ciudad de Mérida en el Tribunal Superior.
 
 Si las faltas llegaren a constituir delito, se procederá contra los responsables, con arreglo a lo dispuesto en el Código de Defensa Social.
 
-También podrán el Tribunal Superior y los Jueces imponer, por resolución escrita, correcciones disciplinarias a los Abogados, Secretarios, Actuarios y dependientes de los Tribunales y Juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
+También podrá el Tribunal Superior y los Jueces imponer, por resolución escrita, correcciones disciplinarias a los Abogados, Secretarios, Actuarios y Dependientes de los Tribunales y Juzgados por las faltas que cometan en el desempeño de sus funciones respectivas.
 
 ###### ARTICULO 59.
 
@@ -367,7 +371,9 @@ Se entenderá corrección disciplinaria:
 
 I.- El apercibimiento o prevención.
 
-II.- La multa que no exceda de cien pesos.
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
+II.- La multa que no exceda de 20 veces el salario mínimo vigente en la ciudad de Mérida.
 
 III.- La suspensión que no exceda de un mes.
 
@@ -379,7 +385,9 @@ Contra la resolución que impusiere la corrección disciplinaria, procede el rec
 
 Los Jueces, para hacer cumplir sus determinaciones, pueden emplear cualesquiera de los siguientes medios de apremio:
 
-I.- La multa desde cinco hasta cien pesos, que se duplicará en caso de reincidencia.
+> <small>(REFORMADA, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
+I.- La multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida.
 
 II.- El auxilio de la fuerza pública.
 
@@ -629,9 +637,11 @@ Los Jueces y los Magistrados tienen el deber de inhibirse del conocimiento de lo
 
 En el caso del artículo anterior, el Juez o Magistrado lo comunicará por oficio al Tribunal Superior a fin de que éste lleve el registro de las excusas de cada Juez o Magistrado, para formar su hoja de servicios.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 104.
 
-La infracción de los dos artículos anteriores será la causa de responsabilidad y se castigará, a queja de parte, con multa de diez a cien pesos y destitución de empleo.
+La infracción de los artículos anteriores será la causa de responsabilidad y se castigará, a queja de parte, con multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida y destitución de empleo.
 
 ### CAPITULO II. De las recusaciones
 
@@ -687,11 +697,11 @@ Si se declarare improcedente o no probada la causa de recusación que se hubiere
 
 ### CAPITULO III. De la substanciación y decisión de las recusaciones
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 115.
 
-Los Jueces o Tribunales desecharán de plano toda recusación que no estuviere hecha en tiempo y forma, o que no esté fundada en los artículos 101, 105, 109 y 110. La infracción de este precepto será sancionada, a queja de parte, por el Tribunal Superior de Justicia, con multa de diez a doscientos pesos.
+Los Jueces o Tribunales desecharán de plano toda recusación que no estuviere hecha en tiempo y forma, o que no esté fundada en los artículos 101, 105, 109, 110. La infracción de este precepto será sancionada, a queja de parte, por el Tribunal Superior de Justicia, con multa hasta de 20 veces el salario mínimo vigente en la ciudad de Mérida.
 
 ###### ARTICULO 116.
 
@@ -735,11 +745,11 @@ Si en la sentencia se declara que procede la recusación, volverán los autos al
 
 El Juez que conozca de una recusación, es irrecusable para sólo este efecto.
 
-> <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 124.
 
-Si se declara no ser bastante la causa o si recibido a prueba el incidente se fallare contra el recusante, se devolverán los autos con testimonio de la resolución al Juez recusado, para que continúe en el conocimiento del negocio, y se aplicará al recusante una multa de cinco a veinte pesos en los Juzgados de Paz; de veinte a doscientos en los Juzgados Menores y Mixtos, y de treinta a trescientos pesos en los Juzgados de lo Civil y de Hacienda.
+Si se declara no ser bastante la causa o si recibido a prueba el incidente se fallare contra el recusante, se devolverán los autos con testimonio de la resolución al Juez recusado, para que continúe en el conocimiento del negocio, y se aplicará al recusante una multa hasta de 20 días de salario mínimo vigente en la ciudad de Mérida, en los Juzgados de Paz; hasta de 50 días de salario mínimo en los Juzgados de lo Civil, Mixtos y de lo Familiar o de los Magistrados del Tribunal Superior.
 
 ###### ARTICULO 125.
 
@@ -1057,9 +1067,11 @@ Después de concluido el término ordinario no se recibirá prueba alguna que no
 
 El término extraordinario concluirá luego que se rindan las pruebas para que se pidió, aunque no haya expirado el plazo señalado.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 183.
 
-El litigante a quien se hubiere concedido el término extraordinario y no rindiese la prueba que hubiere propuesto, será condenado en la sentencia definitiva a pagar a su contrario una multa de cien a dos mil pesos, y a la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba rendida se calificare de inconducente.
+El litigante a quien se hubiere concedido el término extraordinario y no rindiese la prueba que hubiere propuesto, será condenado en la sentencia definitiva a pagar a su contrario una multa de hasta 50 veces el salario mínimo vigente en la ciudad de Mérida, y la indemnización de daños y perjuicios. En la misma pena incurrirá si la prueba rendida se calificare de inconducente.
 
 ###### ARTICULO 184.
 
@@ -1383,9 +1395,11 @@ Si el nuevo perito nombrado no aceptare, el Juez hará el nombramiento.
 
 El Juez señalará, lugar, día y hora para la práctica de la diligencia.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 253.
 
-El perito que dejare de concurrir, sin causa justificada calificada por el Juez, incurrirá en una multa de diez a cincuenta pesos, e indemnizará de los daños y perjuicios que por su falta se hayan causado, nombrándose otro perito.
+El perito que dejare de concurrir, sin causa justificada calificada por el Juez, incurrirá en una multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida e indemnizará de los daños y perjuicios que por su falta se hayan causado nombrándose otro perito.
 
 ###### ARTICULO 254.
 
@@ -1883,9 +1897,11 @@ A falta de ley expresa aplicable al caso, la controversia se decidirá en térmi
 
 Cuando hubiere condena de frutos, intereses, daños y perjuicios, se fijará su importe en cantidad líquida, o se establecerán por lo menos, las bases con arreglo a las cuales deba hacerse la liquidación, cuando no sean el objeto principal del juicio.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 346.
 
-Si transcurriese el término legal sin dictarse sentencia, los Jueces y Magistrados incurrirán de plano en una multa de cien a quinientos pesos, y pagarán los daños y perjuicios.
+Si transcurriese el término legal sin dictarse sentencia, los Jueces y Magistrados incurrirán de plano en una multa hasta de 30 veces el salario mínimo vigente en la ciudad de Mérida y pagarán daños y perjuicios.
 
 ###### ARTICULO 347.
 
@@ -1971,9 +1987,11 @@ El Juez en vista de lo que la parte exponga y sin otro trámite, lo más tarde a
 
 El auto que aclare la sentencia se reputará parte integrante de ésta.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 362.
 
-Siempre que los tribunales resuelvan no haber lugar a la aclaración que se pida, y juzgaren que el recurso se ha interpuesto maliciosamente, condenarán al que solicitó aquélla en las costas del recurso y le impondrán una multa de diez a cien pesos.
+Siempre que los tribunales resuelvan no haber lugar a la aclaración que se pida, y juzgaren que el recurso se ha interpuesto maliciosamente, condenarán al que solicitó aquélla en las costas del recurso y le impondrán una multa de hasta 30 veces el salario mínimo vigente en la ciudad de Mérida.
 
 ###### ARTICULO 363.
 
@@ -2327,9 +2345,11 @@ Nunca en virtud de ejecutoria dictada por tribunal extranjero, podrán rematarse
 
 Sólo hay secuestro judicial cuando la autoridad pública respectiva ordena por escrito y explícitamente que se aseguren bienes, poniéndolos en simple guarda, en administración o intervención, según su naturaleza, para garantizar los derechos deducidos o que deben deducirse en juicio.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 435.
 
-Cuando por vía de secuestro se aseguren dinero efectivo o alhajas, el depósito se hará precisamente en un Banco autorizado legalmente al efecto, y si no lo hubiere, en la Tesorería General del Estado. El billete de depósito se agregará al expediente y no se recogerá lo depositado sino en virtud de orden escrita del Juez de los autos.
+Cuando por vía de secuestro se aseguren dinero efectivo o alhajas, se remitirán éstos a la Unidad Administrativa del Poder Judicial del Estado. El recibo del depósito se enviará a la autoridad remitente y no se recogerá lo depositado sino en virtud de orden escrita del Juez de los autos.
 
 > <small>(F. DE E., D.O. 15 DE ENERO DE 1942)</small>
 
@@ -2411,9 +2431,11 @@ Para los efectos de los dos artículos que inmediatamente anteceden, el Juez man
 
 Todo depositario deberá otorgar fianza en autos y ante el Juez, por la cantidad que éste designe. Los que tengan administración o intervención, presentarán al Juzgado cada mes una cuenta de los esquilmos y demás frutos de la finca, y de los gastos erogados, no obstante cualquier recurso interpuesto en lo principal.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 448.
 
-El Juez, con audiencia de las partes, aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido en un Banco legalmente autorizado para ello. Los incidentes relativos al depósito y a las cuentas, se seguirán por cuerda separada.
+El Juez, con audiencia de las partes, aprobará o reprobará la cuenta mensual y determinará los fondos que deban quedar para los gastos necesarios, mandando depositar el sobrante líquido en la Unidad Administrativa del Poder Judicial del Estado. Los incidentes relativos al depósito y a las cuentas se seguirán por cuerda separada.
 
 ###### ARTICULO 449.
 
@@ -3011,9 +3033,11 @@ La incompetencia, por declinatoria de jurisdicción, se propondrá también al c
 
 El Juez remitirá desde luego los autos a su inmediato superior, emplazando a los interesados para que comparezcan ante éste, el cual, en una audiencia que fijará dentro de los seis días siguientes a aquél en que reciba los autos, admitirá y perfeccionará las pruebas que se ofrezcan, oirá los alegatos de las partes y del Ministerio Público, resolverá la cuestión y enviará sin retardo el expediente al Juez que estime competente, haciéndolo saber a los litigantes. La demanda y la contestación se tendrán como presentadas ante Juez competente.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 555.
 
-Cuando se declare improcedente la declinatoria, deberá pagar las costas causadas el que la promovió, y una multa hasta de quinientos pesos que, según la importancia del litigio, le impondrá el superior en favor del colitigante.
+Cuando se declare improcedente la declinatoria, deberá pagar las costas causadas el que la promovió, y una multa hasta de 100 días de salario mínimo vigente en la ciudad de Mérida, que, según la importancia del litigio, le impondrá el Superior en favor de su contraparte.
 
 ###### ARTICULO 556.
 
@@ -3343,9 +3367,11 @@ Verificado, de cualquiera de los modos que quedan indicados, el requerimiento, s
 
 La ejecución sólo se suspenderá cuando el demandado presente certificado legalmente expedido, en que conste que la finca que se quiere embargar, está sujeta a juicio hipotecario.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 615.
 
-De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad, librándose al efecto, copia certificada de la diligencia de embargo y poniéndose en autos la debida constancia. Es obligación del Juez enviar al Registro, dentro de veinticuatro horas, la copia certificada bajo pena de cincuenta pesos de multa.
+De todo embargo de bienes raíces se tomará razón en el Registro Público de la Propiedad librándose al efecto, copia certificada de la diligencia de embargo y poniéndose en autos la debida constancia. Es obligación del Juez enviar al Registro, dentro de veinticuatro horas, la copia certificada bajo pena de multa de hasta 20 veces el salario mínimo vigente en la ciudad de Mérida.
 
 ###### ARTICULO 616.
 
@@ -3425,15 +3451,15 @@ Si la sentencia declarase que no procede el juicio ejecutivo, reservará al acto
 
 ### CAPITULO V. Del juicio verbal
 
-> <small>(REFORMADO, D.O. 12 DE JULIO DE 1946)</small>
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 624.
 
-Serán objeto de juicio verbal las demandas cuya cuantía no exceda de quinientos pesos.
+Serán objeto de juicio verbal las demandas cuya cuantía no exceda de 50 veces el salario mínimo vigente en la ciudad de Mérida.
 
 Para estimar el interés del negocio se atenderá a lo que el actor demande como suerte principal.
 
-Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones en un año, a no ser que se tratare de prestaciones vencidas, en cuyo caso, se estará a lo dispuesto en la primera parte de este artículo.
+Cuando se demande el cumplimiento de una obligación consistente en prestaciones periódicas, se computará el importe de las pensiones de un año, a no ser que se tratare de prestaciones vencidas en cuyo caso, se estará a lo dispuesto en la primera parte de este Artículo.
 
 Las demandas de arrendamiento nunca serán objeto de juicio verbal.
 
@@ -3441,11 +3467,11 @@ Las demandas de arrendamiento nunca serán objeto de juicio verbal.
 
 Las disputas sobre el estado civil de las personas nunca serán motivo de juicio verbal, sea cual fuere el interés pecuniario que de ellas pueda dimanar a favor o en contra de los que las promuevan.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 626.
 
-Si al entablar demanda en juicio verbal se opusiere reconvención, por cantidad que exceda de quinientos pesos, se remitirá el expediente al Juez que corresponda por la cuantía de la reconvención para que éste continúe la tramitación del juicio.
-
-Si hubiere varios Jueces competentes, en la localidad, será preferido el que elija la parte que opuso la excepción.
+Si al entablar demanda en juicio verbal se opusiere reconvención, por cantidad de hasta 500 veces el salario mínimo vigente en la ciudad de Mérida, se remitirá el expediente al Juez que corresponda por la cuantía de la reconvención para que éste continúe la tramitación del juicio.
 
 > <small>(REFORMADO, D.O. 2 DE ENERO DE 1980)</small>
 
@@ -3465,9 +3491,11 @@ La orden se entregará al demandado en los términos prevenidos en el Capítulo 
 
 No compareciendo el demandado a la hora fijada, y formulada la demanda por el actor, se dará por contestada en sentido negativo, y se recibirá el juicio a prueba, si el actor lo pidiere o el Juez lo estimare necesario.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 631.
 
-Presentándose el demandado a la hora fijada y no el actor, se impondrá a éste una multa de cinco pesos, que se aplicará a aquel por vía de indemnización; y sin que justifique haberse hecho el pago, no se citará de nuevo para el juicio.
+Presentándose el demandado a la hora fijada, y no el actor, se impondrá a éste una multa de hasta 10 veces el salario mínimo vigente en la ciudad de Mérida, que se aplicará a aquél por vía de indemnización; y sin que justifique haberse hecho el pago, no se citará de nuevo para el juicio.
 
 ###### ARTICULO 632.
 
@@ -4013,9 +4041,11 @@ El compromiso puede celebrarse antes de que haya juicio, durante éste, y despu�
 
 El compromiso posterior a la sentencia irrevocable sólo tendrá lugar si los interesados renuncian expresamente los derechos que ella les otorga.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 748.
 
-El compromiso debe celebrarse en escritura pública, siempre que el interés del pleito exceda de mil quinientos pesos; si no llegara a esa cantidad, puede celebrarse en escrito privado ante Escribano Público.
+El compromiso debe de celebrarse en escritura pública, siempre que el interés del pleito exceda de 500 veces el salario mínimo vigente en la ciudad de Mérida; si no llegara a esa cantidad, puede celebrarse en escrito privado ante Escribano Público.
 
 ###### ARTICULO 749.
 
@@ -4465,9 +4495,11 @@ La sentencia de los arbitradores produce los mismos efectos que la de los árbit
 
 La jurisdicción voluntaria comprende todos los actos en que por disposición de la ley o por solicitud de los interesados, se requiere la intervención del Juez, sin que esté promovida ni se promueva cuestión alguna entre partes determinadas.
 
+(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+
 ###### ARTICULO 844.
 
-Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los Jueces de lo Civil y de Hacienda.
+Las solicitudes relativas a jurisdicción voluntaria se formularán por escrito ante los Jueces de lo Civil o de lo Familiar, según corresponda.
 
 ###### ARTICULO 845.
 
@@ -4739,9 +4771,11 @@ IV.- Obligarán a los tutores a que depositen en un Banco debidamente autorizado
 
 V.- Pedirán al efecto las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos, y remediar los que puedan haberse cometido.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 894.
 
-Las cuentas de la tutela deben de ir acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de cinco pesos.
+Las cuentas de la tutela deben ir acompañadas de sus documentos justificativos, a excepción de aquellas partidas que no excedan de 25 veces el salario mínimo vigente en la ciudad de Mérida.
 
 Son justificantes de pago:
 
@@ -4837,9 +4871,11 @@ La autorización se concederá bajo la condición de que se ejecute en todo caso
 
 El nombramiento de peritos para el avalúo, se hará siempre por el Juez.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 912.
 
-Hecha la venta, cuidará el Juez bajo su responsabilidad, de que se dé al precio que se haya obtenido la aplicación indicada al solicitar la autorización, depositándose entre tanto en un Banco debidamente autorizado.
+Hecha la venta cuidará el Juez bajo su responsabilidad, de que se dé al precio que se haya obtenido la aplicación indicada al solicitar la autorización, remitiéndose entre tanto, a la Unidad Administrativa del Poder Judicial del Estado, para lo que legalmente corresponda.
 
 ###### ARTICULO 913.
 
@@ -5359,9 +5395,11 @@ Para cualquier gasto imprevisto y urgente se necesita la autorización judicial.
 
 Las negociaciones a que el deudor estuviere dedicado, continuarán bajo la vigilancia del Síndico, mientras los acreedores acuerdan en la junta general lo que crean conveniente.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1016.
 
-Se depositarán en alguna Institución Bancaria, las alhajas y cualesquiera cantidades que se recauden, exceptuándose las sumas que por acuerdo de la junta u orden expresa del Juez, se destinen para los gastos indispensables.
+Se remitirán a la Unidad Administrativa del Poder Judicial del Estado, las alhajas y cualesquiera cantidades que se recauden, exceptuándose las sumas que por acuerdo de la Junta u orden expresa del Juez, se destinen para los gastos indispensables.
 
 ###### ARTICULO 1017.
 
@@ -5501,15 +5539,17 @@ Aceptado el convenio, el Juez lo aprobará en la misma junta si no fuere contrar
 
 Luego que el tribunal tenga conocimiento de la muerte de una persona, dictará, con audiencia del Ministerio Público, mientras no se presenten los interesados y sin perjuicio de lo dispuesto en el artículo 182 del Código Civil, las providencias necesarias para asegurar los bienes. Lo mismo hará si el difunto no era conocido o estaba de transeúnte en el lugar o si hubiese menores interesados o peligro de que se oculten o dilapiden los bienes.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1048.
 
-Las medidas urgentes para la conservación de los bienes, que el juez debe decretar en el caso del artículo anterior, son las siguientes:
+Las medidas urgentes para la conservación de los bienes, que el Juez debe decretar en el caso del Artículo anterior, son las siguientes:
 
 I.- Reunir los papeles del difunto que, cerrados y sellados, se depositarán en el secreto del Juzgado.
 
 II.- Ordenar a la administración de correos que le remita la correspondencia que venga para el autor de la sucesión, con la cual hará lo mismo que con los demás papeles.
 
-III.- Mandar depositar el dinero y alhajas en un establecimiento de crédito autorizado por la ley.
+III.- Remitir a la Unidad Administrativa del Poder Judicial del Estado, el dinero y las alhajas para los fines legales que correspondan.
 
 El Ministerio Público asistirá a la diligencia de aseguramiento de los bienes que se hallen en el lugar donde se tramite el juicio.
 
@@ -5851,9 +5891,11 @@ En los casos muy urgentes podrá el Juez, aun antes de que se cumpla el término
 
 El interventor no puede deducir en juicio las acciones que por razón de mejoras, manutención o reparación tenga contra la testamentaría o el intestado, sino cuando haya hecho esos gastos con autorización previa.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1110.
 
-El interventor tendrá el dos por ciento del importe de los bienes, si no exceden de veinte mil pesos; si excede de esta suma, pero no de cien mil pesos, tendrá además, el uno por ciento sobre el exceso, y si excediere de cien mil pesos, tendrá el medio por ciento además, sobre la cantidad excedente.
+El interventor tendrá el dos por ciento del importe de los bienes, si no excede de 200 veces el salario mínimo vigente en la ciudad de Mérida; si excede de esta suma, pero no de 500 veces el salario mínimo vigente en la ciudad de Mérida, tendrá además, el uno por ciento sobre el exceso, y se excediera de 500 veces el salario mínimo vigente el la ciudad de Mérida, tendrá el medio por ciento además, sobre la cantidad excedente. El albacea judicial tendrá el mismo honorario que el interventor.
 
 ###### ARTICULO 1111.
 
@@ -5889,9 +5931,11 @@ Aprobados el inventario y el avalúo de los bienes y terminados todos los incide
 
 El interventor, el cónyuge y el albacea, ya sea provisional, judicial o definitivo, están obligados a rendir, dentro de los cinco primeros días de cada año del ejercicio de su cargo, la cuenta de su administración correspondiente al año anterior, pudiendo el Juez de oficio exigir el cumplimiento de este deber.
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1118.
 
-Las cantidades que resulten líquidas se depositarán a disposición del Juzgado, en establecimiento de crédito autorizado por la ley.
+Las cantidades que resulten liquidadas se depositarán a disposición del Juzgado, en la Unidad Administrativa del Poder Judicial del Estado.
 
 ###### ARTICULO 1119.
 
@@ -6105,6 +6149,8 @@ Hechas las publicaciones que ordena el artículo 2371 del Código Civil, podrán
 
 ### CAPITULO XIV. De las sucesiones de menor cuantía
 
+> <small>(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 1154.
 
 Si el testamento fuere ológrafo, luego que lo reciba el encargado del Archivo Notarial tomará razón en el libro a que se refiere el artículo 2338 del Código Civil, asentando acta en que se hará constar haber recibido el pliego del Secretario de Legación, Cónsul o Vicecónsul por conducto de la Secretaría de Relaciones Exteriores, así como las circunstancias en que se halle la cubierta. En todo lo demás obrará como se dispone en el Capítulo IV, Título Tercero, Libro Cuarto del Código Civil.
@@ -6115,7 +6161,7 @@ Ante el tribunal competente se procederá respecto al testamento público cerrad
 
 ###### ARTICULO 1156.
 
-Los juicios de sucesión, cuando el caudal según el avalúo catastral o el valor aproximado de los bienes no pasa de un mil pesos, se radicarán por simple denuncia en comparecencia ante los Jueces de Paz o Menores si no hubiese Jueces de Paz y se tramitarán de oficio; pasando de esta cantidad hasta la de cinco mil pesos, y tratándose solo del patrimonio de la familia, aunque exceda de esa cantidad, se radicarán y tramitarán en la misma forma, ante los Jueces Menores o Mixtos que sean competentes territorialmente.
+Los Juicios de sucesión, cuando el caudal según el avalúo catastral o el valor aproximado de los bienes no pase de 200 días de salario mínimo vigente en la ciudad de Mérida, se radicarán por simple denuncia en comparecencia ante los Jueces de Paz y se tramitarán de oficio; pasando de esta cantidad se promoverán y tramitarán ante los Jueces de lo Familiar o Mixtos y de lo Familiar que sean competentes territorialmente.
 
 ###### ARTICULO 1157.
 
@@ -6155,9 +6201,11 @@ Si entre los herederos hubiere menores de edad, incapacitados o ausentes, el Jue
 
 Los herederos denunciarán los acuerdos que tomen acerca de la venta o adjudicación de los bienes y el Juez aprobará de plano dichos acuerdos, librándose al comprador o adjudicatario certificado de las constancias conducentes de autos para que les sirva de título de propiedad.
 
+(REFORMADO, D.O. 3 DE DICIEMBRE DE 1991) (F. DE E., D.O. 31 DE MARZO DE 1992)
+
 ###### ARTICULO 1165.
 
-Los juicios hereditarios en que el valor de los bienes no exceda de quinientos pesos, no causarán ningún impuesto al Estado ni a los Municipios del mismo, ni será necesaria la intervención del Ministerio Público, salvo lo que dispone el artículo 1091.
+Los juicios hereditarios en que el valor de los bienes no exceda de doscientas veces el salario mínimo vigente en la ciudad de Mérida, no causarán ningún impuesto al Estado ni a los Municipios del mismo, ni será necesaria la intervención del Ministerio Público, salvo lo que dispone el Artículo 1091.
 
 ###### ARTICULO 1166.
 
@@ -6242,3 +6290,9 @@ Este Decreto entrará en vigor el día siguiente de su publicación en el Diario
 ###### ARTICULO SEGUNDO.
 
 Todas las pensiones alimenticias fijadas hasta el treinta y uno de diciembre del año en curso, inclusive, serán aumentadas por primera vez el primero de Enero de mil novecientos ochenta y cinco.
+
+D.O. 3 DE DICIEMBRE DE 1991.
+
+> <small>(F. DE E., D.O. 31 DE MARZO DE 1992)</small>
+
+UNICO.- El presente Decreto entrará en vigor tres días después de su publicación en el Diario Oficial del Gobierno del Estado.
