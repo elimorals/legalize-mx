@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-premio-estatal-de-ciencia-y-tecnologia-34520"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-24"
-last_updated: "2003-10-24"
+last_updated: "2004-10-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL PREMIO ESTATAL DE CIENCIA Y TECNOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 2004.
 
 Reglamento publicado en la Sección III del Periódico Oficial del Estado de Baja California, el viernes 24 de octubre de 2003.
 
@@ -61,9 +61,11 @@ V.- COMITÉ: Al Comité del Premio Estatal de Ciencia y Tecnología.
 
 El Premio tiene por objeto reconocer, promover y estimular la investigación científica y tecnológica, realizada de manera individual o colectiva, por científicos o tecnólogos bajacalifornianos o que radiquen en la Entidad, cuya obra en estos campos se haga acreedora de distinción.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 4.
 
-El Premio es único e indivisible y consistirá en un diploma y una remuneración económica cuyo monto será de 3,000 veces el salario mínimo general vigente en el Estado, al momento de emitir la convocatoria.
+El Premio consistirá en un diploma y en una remuneración económica cuyo monto será de 3,000 veces el salario mínimo general vigente en el Estado, al momento de emitir la Convocatoria.
 
 ###### Artículo 5.
 
@@ -81,9 +83,11 @@ V.- Ciencias de la Educación y Humanidades; y,
 
 VI.- Ciencias de la Ingeniería y Tecnología.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 6.
 
-El Premio no podrá ser otorgado cuando el investigador o grupo de investigadores participen por segunda ocasión en la misma temática específica.
+El investigador o grupo de investigadores a los que se les ha otorgado el Premio, no podrán participar por segunda ocasión con el mismo trabajo de investigación científica y/o tecnológica que se sustente en documentación que ha sido base del Premio otorgado, conforme a lo señalado en las fracciones IV y V, del artículo 9, de este Reglamento.
 
 ### CAPÍTULO SEGUNDO. DE LOS CANDIDATOS
 
@@ -185,7 +189,9 @@ I.- Dar publicidad a las convocatorias;
 
 II.- Recibir y registrar candidaturas;
 
-III.- Informar al ganador del Premio de su designación; y,
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2004)</small>
+
+III.- Informar a él o los ganadores del Premio su designación; y,
 
 IV.- Cualquier otra función que le sea asignada por el Comité.
 
@@ -241,6 +247,14 @@ En caso de empate, se someterá a una segunda votación del Jurado Calificador, 
 
 El Jurador Calificador presentará al Comité su veredicto fundamentado con las razones que determinaron la decisión, en un plazo máximo de 30 días hábiles a partir de la recepción de las candidaturas. El Comité emitirá el dictamen final, el cual será inapelable.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 21 Bis.
+
+El Jurado Calificador podrá, en casos excepcionales, recomendar al Comité el otorgamiento del Premio en más de una de las áreas establecidas en el artículo 5 del Reglamento, considerando la valoración que se haga de la calidad de los trabajos de investigación científica y/o tecnológica de los candidatos que se presenten.
+
+Serán considerados como casos excepcionales cuando la calidad de los trabajos de los candidatos reúnan los requisitos establecidos en las fracciones I, II, III, IV y V, del artículo 21, del Reglamento, y además se presente en dos o más áreas de las referidas en el artículo 5 del Reglamento.
+
 ###### Artículo 22.
 
 El Comité podrá declarar desierto el Premio, cuando a su juicio los investigadores no cumplan con los requisitos establecidos en este Reglamento, o bien, no se presenten candidaturas.
@@ -251,17 +265,27 @@ El Comité podrá declarar desierto el Premio, cuando a su juicio los investigad
 
 El Premio será entregado anualmente por el Congreso del Estado a través de su Presidente, o en su caso, por la comisión o comisionado que éste designe para tal efecto.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 24.
 
-El ganador del Premio será informado de su designación mediante comunicación escrita que le dirija el Secretario Técnico, por lo menos con cinco días de antelación al evento de premiación.
+El o los ganador(es) del Premio será(n) informado(s) de su designación mediante comunicación escrita que le dirija el Secretario Técnico, por lo menos con cinco días de antelación al evento de premiación.
 
 ###### Artículo 25.
 
 El titular del trabajo ganador recibirá el monto total del Premio y un diploma en el que se expresará las razones por las que se confiere, así como una síntesis del acuerdo del jurado, conteniendo las firmas de los mismos. En caso de que el trabajo se realice en grupo, se entregará adicionalmente un diploma de reconocimiento a cada uno de sus integrantes.
 
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
+###### Artículo 25 Bis.
+
+En caso de que el Comité decida otorgar el- Premio a más de un candidato, el monto será distribuido equitativamente.
+
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 26.
 
-La entrega del Premio se realizará en acto solemne, en la fecha que para tal efecto determine el Comité. Dicho acto será revestido del mayor realce y significación, así como de la necesaria publicidad y divulgación en los medios de comunicación masivos de la Entidad. El nombre del ganador será dado a conocer públicamente con antelación al acto de entrega.
+La entrega del Premio se realizará en acto solemne, en la fecha que para tal efecto determine el Comité. Dicho acto será revestido del mayor realce y significación, así como de la necesaria publicidad y divulgación en los medios de comunicación masivos del Estado. El nombre de él o los ganador(es) será(n) dado(s) a conocer públicamente con antelación al acto de entrega.
 
 ### CAPÍTULO SEXTO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -298,3 +322,9 @@ BERNARDO H. MARTÍNEZ AGUIRRE
 SECRETARIO DE EDUCACIÓN Y BIENESTAR SOCIAL
 
 JOSÉ GABRIEL POSADA GALLEGO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE OCTUBRE DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
