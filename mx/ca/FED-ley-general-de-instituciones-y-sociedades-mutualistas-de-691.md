@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-instituciones-y-sociedades-mutualistas-de-691"
 country: "mx"
 rank: "ley_general"
 publication_date: "1935-08-31"
-last_updated: "2000-01-05"
+last_updated: "2000-06-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=691&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1935-08-26"
 
 LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE JUNIO DE 2000.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -378,6 +378,28 @@ La solicitud de autorización para constituir una institución de seguros para o
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
 El depósito de que trata este artículo no se exigirá cuando una institución o sociedad mutualista de seguros, que se encuentre operando, solicite ampliar su objeto para practicar operaciones o ramos distintos a aquéllos para los que tenga autorización en los términos de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+###### ARTICULO 16 Bis.
+
+Los dictámenes a que se refiere el artículo anterior y el artículo 105 de esta Ley deberán contener por lo menos los siguientes requisitos:
+
+I. Que los recursos materiales y humanos, propios o contratados con terceros, sean suficientes para cumplir con los planes ofrecidos a la población que pretende asegurar la institución, de conformidad con los planes y coberturas que pretenda ofrecer u operar.
+
+II. Que cuenten con los manuales de organización y procedimiento respecto de las prestaciones de servicios de salud que ofrezca.
+
+III. Que la institución, al prestar sus servicios, cumpla los requisitos establecidos en las Normas Oficiales Mexicanas aplicables en materia de salud, derivadas de la Ley General de Salud.
+
+IV. Que los profesionales de la salud, contratados por la institución, que prestarán los servicios a los contratantes o tomadores de seguros o sus beneficiarios, acrediten legalmente contar con los conocimientos técnicos médicos.
+
+V. Que en los planes de salud que comercialice la institución, se salvaguarde en todo momento la libertad de juicio clínico del médico, siempre y cuando éste se aplique con fundamento en la práctica médica reconocida por las academias científicas y basada en la ética médica.
+
+VI. Que la institución cuente con planes que contemplen e incentiven servicios de promoción a la salud y atención preventiva de sus asegurados, atendiendo a lo previsto por las Normas Oficiales Mexicanas en la materia, derivadas de la Ley General de Salud.
+
+VII. Que la institución cuente con un mecanismo interno ágil y oportuno para llevar a cabo el procedimiento y seguimiento de recepción y atención de quejas y reclamaciones de sus asegurados.
+
+VIII. Que la institución cuente con un programa para la mejora continua en la prestación de los servicios.
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -767,7 +789,7 @@ Los actos del director general y de los funcionarios que ocupen cargos con la je
 
 Lo establecido en los tres párrafos anteriores deberá transcribirse en los estatutos sociales de las instituciones de seguros;
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 VII Bis-2.- Las designaciones de consejeros de las instituciones nacionales de seguros se efectuarán por el Ejecutivo Federal a través de la Secretaría de Hacienda y Crédito Público, debiendo recaer dichas designaciones en servidores públicos de la administración pública federal o profesionales independientes de reconocida honorabilidad, experiencia y prestigio en materias económica y financiera. El cargo de consejero es personal y no podrá desempeñarse por medio de representantes. En ningún caso podrán ser consejeros el director general y los servidores públicos de la institución que ocupen cargos con las dos jerarquías inferiores a la de éste, así como las personas a que se refieren los incisos b) a f) y h) de la fracción VII Bis del presente artículo.
 
@@ -1237,9 +1259,27 @@ I.- Ofrecer y celebrar contratos en relación a las operaciones autorizadas, en 
 
 II.- Determinar sobre bases técnicas, las primas netas de riesgo a fin de garantizar con un elevado grado de certidumbre, el cumplimiento de las obligaciones que al efecto contraigan con los asegurados;
 
-III.- Prever que las estipulaciones contenidas en la documentación contractual correspondiente a las diversas operaciones de seguro así como en la determinación del importe de las primas y extraprimas, su devolución y pago de dividendos o bonificaciones, en caso de que se contrate ese beneficio, no den lugar a la disminución de la prima neta de riesgo, y
+III.- Prever que las estipulaciones contenidas en la documentación contractual correspondiente a las diversas operaciones de seguro así como en la determinación del importe de las primas y extraprimas, su devolución y pago de dividendos o bonificaciones, en caso de que se contrate ese beneficio, no den lugar a la disminución de la prima neta de riesgo, y (sic)
 
-IV.- Indicar de manera clara y precisa, en la documentación contractual de las operaciones de seguros y la relacionada con éstas, el alcance, términos, condiciones, exclusiones, limitantes, franquicias o deducibles y cualquier otra modalidad que se establezca en las coberturas o planes que ofrezca la institución de seguros así como los derechos y obligaciones de los contratantes, asegurados o beneficiarios. De igual manera, se deberá procurar claridad y precisión en la comunicación individual o colectiva que por cualquier medio realicen las instituciones de seguros con sus asegurados, contratantes y beneficiarios o con el público en general.
+IV.- Indicar de manera clara y precisa, en la documentación contractual de las operaciones de seguros y la relacionada con éstas, el alcance, términos, condiciones, exclusiones, limitantes, franquicias o deducibles y cualquier otra modalidad que se establezca en las coberturas o planes que ofrezca la institución de seguros así como los derechos y obligaciones de los contratantes, asegurados o beneficiarios. De igual manera, se deberá procurar claridad y precisión en la comunicación individual o colectiva que por cualquier medio realicen las instituciones de seguros con sus asegurados, contratantes y beneficiarios o con el público en general;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+V. En el caso de las instituciones de seguros que operan el ramo de salud, deberán contar con un Contralor Médico nombrado por el Consejo de Administración y ratificado por la Secretaría de Salud de acuerdo a los criterios que emita dicha Secretaría en donde se tomarán en cuenta, entre otros requisitos, la experiencia y conocimientos médicos, no tener parentesco por consanguinidad hasta el segundo grado, o afinidad, con el Director General de la institución, y no encontrarse en ninguno de los supuestos a que se refieren los incisos b), c), d), e), f), g) y h) de la fracción VII bis, del artículo 29 de esta Ley.
+
+El Contralor Médico deberá, entre otras actividades, supervisar el cumplimiento del programa de utilización de los servicios médicos de la institución, el funcionamiento de la red de servicios médicos de la institución a fin de que su cobertura sea apropiada, el cumplimiento de las Normas Oficiales Mexicanas aplicables derivadas de la Ley General de Salud y el seguimiento a las reclamaciones presentadas en contra de la institución, en los términos que establezca la Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, oyendo la opinión de la Secretaría de Salud.
+
+El Contralor Médico deberá informar cuatrimestralmente de las obligaciones a su cargo, a la Comisión Nacional de Seguros y Fianzas y a la Secretaría de Salud;
+
+> <small>(ADICIONADA, D.O.F. 6 DE JUNIO DE 2000)</small>
+
+VI.- En el caso de las instituciones de seguros que operen en el ramo de salud, deberán:
+
+a) Mantener los servicios médicos y hospitalarios ofrecidos, de tal manera que la infraestructura sea suficiente para satisfacer directa o indirectamente los contratos suscritos.
+
+b) Informar a los asegurados por escrito dentro de los quince días hábiles siguientes de los cambios en la red de infraestructura hospitalaria.
+
+c) Ofrecer planes donde el beneficiario pueda elegir médicos distintos a la red de la institución, mediante el pago de la cantidad diferencial que resulte entre el tabulador respectivo de la institución y el costo del servicio que le preste el médico, conforme a lo pactado.
 
 > <small>(ADICIONADO, D.O.F. 14 DE JULIO DE 1993)</small>
 
@@ -4312,3 +4352,7 @@ SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 ...
+
+D.O.F. 6 DE JUNIO DE 2000.
+
+ÚNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
