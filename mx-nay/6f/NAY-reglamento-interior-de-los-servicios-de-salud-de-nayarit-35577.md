@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-los-servicios-de-salud-de-nayarit-35577"
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-12-13"
-last_updated: "2003-12-13"
+last_updated: "2004-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCIÓN CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
-
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE NAYARIT.
 
-TEXTO ORIGINAL (REEDICION).
+TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 21 DE FEBRERO DE 2004.</small>
 
 Reglamento publicado en la sección novena del Periódico Oficial del Estado, el sábado 13 de diciembre de 2003.
 
@@ -233,53 +233,9 @@ El Director General ejercerá las facultades a que se refieren las fracciones I,
 
 ### CAPITULO VIII. DE LAS ATRIBUCIONES ESPECIFICAS DE LAS DIRECCIONES
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 21 DE FEBRERO DE 2004 RECORRIÓ LA NUMERACIÓN PROGRESIVA DE LOS ARTÍCULOS 22 AL 37 EN LUGAR DE LOS 36 QUE ORIGINALMENTE APARECÍAN.]</small>
 
-ARTICULO 21 (SIC).- La Dirección de Planeación, tendrá las siguientes atribuciones;
-
-I. Integrar los programas del organismo, supervisando su cumplimiento a través de análisis tendientes a proponer cambios y ajustes, buscando el equilibrio entre lo programado y lo ejecutado, todo ello con la finalidad de preparar oportunamente el diagnóstico subsecuente para la formulación de los programas operativos anuales y de esa manera mejorar la calidad y productividad de los servicios de salud en el Estado;
-
-II. Proponer controles administrativos de manejo y aprovechamiento de recursos públicos en la atención médica que se proporcione a los usuarios procurando que sean efectivos y se optimice su uso y utilidad en beneficio de la población que los solicita;
-
-III. Proponer políticas, normas, criterios, lineamientos y reglas útiles para el ejercicio productivo, eficiente y transparente del presupuesto del organismo, ajustándose a la norma estatal o federal que corresponda;
-
-IV. Formular, con la participación de la Dirección de Administración, el programa de inversiones en infraestructura y equipamientos del organismo, así como concentrar los reportes del avance físico y financiero de los proyectos correspondientes;
-
-V. Integrar y mantener actualizados los manuales de organización General, de procedimientos y de servicios del organismo; así como revisar y dictaminar los de las unidades administrativas y órganos desconcentrados del organismo;
-
-VI. Asesorar técnica y normativamente, a los órganos desconcentrados del organismo en la elaboración de proyectos, ejecución de trabajos relacionados con obras, conservación, mantenimiento, y adquisición de equipos e instrumental médico;
-
-VII. Proponer a la Dirección General del organismo las modificaciones que se requieran en la estructura administrativa del organismo;
-
-VIII. Establecer, coordinar y evaluar la difusión de los servicios, programas y estadísticas del organismo de manera periódica; conforme a los lineamientos y normas que emita la Secretaría de Salud Federal, para la elaboración y actualización de la información;
-
-IX. Supervisar y evaluar el proceso de planeación y ejecución del desarrollo informático del organismo, conforme a las políticas y lineamientos aplicables;
-
-X. Conducir y vigilar las acciones relacionadas con los programas de capacitación en informática y redes a fin de fortalecer el aprovechamiento de la tecnología, como medio para mejorar la productividad y la calidad de los servicios de salud que se proporcionan;
-
-XI. Coordinar el Subcomité de Informática del organismo, teniendo a su cargo el Secretariado Técnico;
-
-XII. Supervisar el diagnóstico de las instalaciones y equipo de computo, a fin de conocer las características, grado de aprovechamiento, explotación y condiciones operativas de cada uno de los equipos que se encuentran dentro del organismo;
-
-XIII. Promover, en coordinación con la Unidad de asuntos Jurídicos y la Dirección de Administración, el destino de bienes inmuebles para construcción de obras, en el ámbito de su competencia, así como su regularización ante las autoridades correspondientes;
-
-XIV. Coordinar el funcionamiento de la codificación de enfermedades, así como promover y vigilar el adecuado uso de la Clasificación Internacional de Enfermedades;
-
-XV. Distribuir los certificados de defunción, muerte fetal y nacimiento, así como controlar y supervisar, en colaboración con las instituciones que forman el sector, el manejo de los mismos;
-
-XVI. Diseñar y proponer métodos para el análisis de la información generada en las unidades administrativas del organismo y en las demás dependencias y entidades del sector salud;
-
-XVII. Analizar, en calidad de secretario técnico del grupo de trabajo de información, la información estadística generada por el organismo, el sector salud y los establecimientos que presten servicios de atención médica privados, para elevar la calidad, confiabilidad y oportunidad del Sistema Estatal de Información en Salud;
-
-XVIII. Evaluar la operación y utilización del Sistema Estatal de Información en Salud en la gestión y evaluación del organismo y, en su caso, analizar y proponer alternativas para hacerlo mas eficiente en este rubro;
-
-XIX. Proponer al Director General nuevos modelos de organización, modalidades de financiamiento, integración de redes de prestación de servicios y fórmulas de gestión para la reforma y modernización del organismo, en coordinación con las unidades administrativas responsables de su ejecución;
-
-XX. Auxiliar en el funcionamiento del Subcomité de Salud y Seguridad Social del COPLADENAY, para apoyar al fortalecimiento de las acciones de los programas de salud y las inversiones en infraestructura física sobre el particular, y;
-
-XXI. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 21.
 
@@ -325,9 +281,57 @@ XIX. Las demás que de manera expresa le confiera el Director General
 
 ### CAPITULO IX. DE LA UNIDAD DE ASUNTOS JURIDICOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 22.
+
+La Dirección de Planeación, tendrá las siguientes atribuciones;
+
+I. Integrar los programas del organismo, supervisando su cumplimiento a través de análisis tendientes a proponer cambios y ajustes, buscando el equilibrio entre lo programado y lo ejecutado, todo ello con la finalidad de preparar oportunamente el diagnóstico subsecuente para la formulación de los programas operativos anuales y de esa manera mejorar la calidad y productividad de los servicios de salud en el Estado;
+
+II. Proponer controles administrativos de manejo y aprovechamiento de recursos públicos en la atención médica que se proporcione a los usuarios procurando que sean efectivos y se optimice su uso y utilidad en beneficio de la población que los solicita;
+
+III. Proponer políticas, normas, criterios, lineamientos y reglas útiles para el ejercicio productivo, eficiente y transparente del presupuesto del organismo, ajustándose a la norma estatal o federal que corresponda;
+
+IV. Formular, con la participación de la Dirección de Administración, el programa de inversiones en infraestructura y equipamientos del organismo, así como concentrar los reportes del avance físico y financiero de los proyectos correspondientes;
+
+V. Integrar y mantener actualizados los manuales de organización General, de procedimientos y de servicios del organismo; así como revisar y dictaminar los de las unidades administrativas y órganos desconcentrados del organismo;
+
+VI. Asesorar técnica y normativamente, a los órganos desconcentrados del organismo en la elaboración de proyectos, ejecución de trabajos relacionados con obras, conservación, mantenimiento, y adquisición de equipos e instrumental médico;
+
+VII. Proponer a la Dirección General del organismo las modificaciones que se requieran en la estructura administrativa del organismo;
+
+VIII. Establecer, coordinar y evaluar la difusión de los servicios, programas y estadísticas del organismo de manera periódica; conforme a los lineamientos y normas que emita la Secretaría de Salud Federal, para la elaboración y actualización de la información;
+
+IX. Supervisar y evaluar el proceso de planeación y ejecución del desarrollo informático del organismo, conforme a las políticas y lineamientos aplicables;
+
+X. Conducir y vigilar las acciones relacionadas con los programas de capacitación en informática y redes a fin de fortalecer el aprovechamiento de la tecnología, como medio para mejorar la productividad y la calidad de los servicios de salud que se proporcionan;
+
+XI. Coordinar el Subcomité de Informática del organismo, teniendo a su cargo el Secretariado Técnico;
+
+XII. Supervisar el diagnóstico de las instalaciones y equipo de computo, a fin de conocer las características, grado de aprovechamiento, explotación y condiciones operativas de cada uno de los equipos que se encuentran dentro del organismo;
+
+XIII. Promover, en coordinación con la Unidad de asuntos Jurídicos y la Dirección de Administración, el destino de bienes inmuebles para construcción de obras, en el ámbito de su competencia, así como su regularización ante las autoridades correspondientes;
+
+XIV. Coordinar el funcionamiento de la codificación de enfermedades, así como promover y vigilar el adecuado uso de la Clasificación Internacional de Enfermedades;
+
+XV. Distribuir los certificados de defunción, muerte fetal y nacimiento, así como controlar y supervisar, en colaboración con las instituciones que forman el sector, el manejo de los mismos;
+
+XVI. Diseñar y proponer métodos para el análisis de la información generada en las unidades administrativas del organismo y en las demás dependencias y entidades del sector salud;
+
+XVII. Analizar, en calidad de secretario técnico del grupo de trabajo de información, la información estadística generada por el organismo, el sector salud y los establecimientos que presten servicios de atención médica privados, para elevar la calidad, confiabilidad y oportunidad del Sistema Estatal de Información en Salud;
+
+XVIII. Evaluar la operación y utilización del Sistema Estatal de Información en Salud en la gestión y evaluación del organismo y, en su caso, analizar y proponer alternativas para hacerlo mas eficiente en este rubro;
+
+XIX. Proponer al Director General nuevos modelos de organización, modalidades de financiamiento, integración de redes de prestación de servicios y fórmulas de gestión para la reforma y modernización del organismo, en coordinación con las unidades administrativas responsables de su ejecución;
+
+XX. Auxiliar en el funcionamiento del Subcomité de Salud y Seguridad Social del COPLADENAY, para apoyar al fortalecimiento de las acciones de los programas de salud y las inversiones en infraestructura física sobre el particular, y;
+
+XXI. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 23.
 
 La Dirección de Atención Médica, tendrá las siguientes facultades:
 
@@ -361,9 +365,9 @@ XIV. Coordinar la ejecución y puesta en marcha del Programa de Calidad, Equidad
 
 XV. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 23.
+###### ARTICULO 24.
 
 La Dirección de Servicios de Salud tiene las siguientes atribuciones:
 
@@ -425,9 +429,9 @@ XXVIII. Coordinar el funcionamiento del Centro Estatal de Capacitación para la 
 
 XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 24.
+###### ARTICULO 25.
 
 La Dirección de Regulación Sanitaria, tendrá las siguientes atribuciones:
 
@@ -461,9 +465,9 @@ XIV. Establecer, en coordinación con la Dirección de Servicios de Salud, los p
 
 XV. Las demás que le confiera el Director General y otras disposiciones, en el ámbito de su competencia;
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 25.
+###### ARTICULO 26.
 
 La Dirección de la Administración, tendrá las siguientes atribuciones:
 
@@ -505,7 +509,23 @@ XVIII. Coordinar y vigilar los pagos de los programas de fortalecimiento de unid
 
 XIX. Las demás que le señale el Director General y otras disposiciones, en el ámbito de su competencia.
 
-###### ARTICULO 26.
+### CAPITULO X. DE LOS ORGANOS DESCONCENTRADOS
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+ARTlCULO 28.- Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el organismo contará con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y gozarán de autonomía operativa.
+
+Los órganos administrativos desconcentrados y sus titulares tendrán la competencia y facultades que este Reglamento les confiera y las específicas que les señale (sic) los acuerdos de delegación de facultades del Director General, y las funciones que se establezcan en el manual general de operación del organismo.
+
+De acuerdo con las disposiciones relativas, el Director General podrá revisar, reformar, modificar o revocar las resoluciones dictadas por los órganos desconcentrados.
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+ARTlCULO 29.- Compete a los órganos desconcentrados del organismo, la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la ley, reglamento, decreto, acuerdo o instrumento jurídico que los rija o en los diversos en que se establezcan tales lineamientos.
+
+Los órganos desconcentrados contarán con un Consejo Interno que presidirá el Director General o quien él designe y cuya composición, funcionamiento y competencias observará lo establecido en el manual general de organización del organismo y del suyo propio.
+
+###### ARTICULO 27.
 
 La Unidad de Asuntos Jurídicos tiene las siguientes atribuciones:
 
@@ -537,37 +557,21 @@ XIII. Intaurar (sic) los recursos de revisión que se interpongan en contra de a
 
 XIV. Las demás que le confiera el Director General, en el ámbito de su competencia.
 
-### CAPITULO X. DE LOS ORGANOS DESCONCENTRADOS
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
-
-ARTlCULO 27.- Para la eficaz atención y eficiente despacho de los asuntos de su competencia, el organismo contará con órganos administrativos desconcentrados que le estarán jerárquicamente subordinados y gozarán de autonomía operativa.
-
-Los órganos administrativos desconcentrados y sus titulares tendrán la competencia y facultades que este Reglamento les confiera y las específicas que les señale (sic) los acuerdos de delegación de facultades del Director General, y las funciones que se establezcan en el manual general de operación del organismo.
-
-De acuerdo con las disposiciones relativas, el Director General podrá revisar, reformar, modificar o revocar las resoluciones dictadas por los órganos desconcentrados.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
-
-ARTlCULO 28.- Compete a los órganos desconcentrados del organismo, la planeación, programación, organización, dirección, control y evaluación del funcionamiento de las unidades administrativas a ellos adscritas, con sujeción a los lineamientos establecidos en la ley, reglamento, decreto, acuerdo o instrumento jurídico que los rija o en los diversos en que se establezcan tales lineamientos.
-
-Los órganos desconcentrados contarán con un Consejo Interno que presidirá el Director General o quien él designe y cuya composición, funcionamiento y competencias observará lo establecido en el manual general de organización del organismo y del suyo propio.
-
 ### CAPITULO XI. DE LA CONTRALORIA INTERNA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-ARTlCULO 29.- El organismo contará con un órgano de control interno, cuyo titular será designado por el titular de la Secretaría de la Contraloría General de Gobierno de quien dependerá operativamente y administrativamente del organismo.
+ARTlCULO 30.- El organismo contará con un órgano de control interno, cuyo titular será designado por el titular de la Secretaría de la Contraloría General de Gobierno de quien dependerá operativamente y administrativamente del organismo.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-ARTlCULO 30.- Corresponde a la Contraloría Interna realizar todas las actividades inherentes a la vigilancia, fiscalización, seguimiento, control y evaluación de la recepción de los recursos públicos federales, estatales y de otras fuentes social y privada, que se aporten al organismo y su debida aplicación congruente con la normatividad aplicable.
+ARTlCULO 31.- Corresponde a la Contraloría Interna realizar todas las actividades inherentes a la vigilancia, fiscalización, seguimiento, control y evaluación de la recepción de los recursos públicos federales, estatales y de otras fuentes social y privada, que se aporten al organismo y su debida aplicación congruente con la normatividad aplicable.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ### CAPITULO XII. DE LAS SUPLENCIAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### ARTICULO 31.
 
@@ -575,21 +579,25 @@ El órgano de control interno se sujetará a las disposiciones que de manera exp
 
 ###### ARTICULO 32.
 
-El Director General será suplido en sus ausencias temporales menores de 15 días, por el Director de área que él designe. En las mayores de 15 días, por el Director que designe la Junta de Gobierno.
-
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+El órgano de control interno se sujetará a las disposiciones que de manera expresa le confieran la Junta de Gobierno y la Secretaría de la Contraloría General de Gobierno.
 
 ###### ARTICULO 33.
 
+El Director General será suplido en sus ausencias temporales menores de 15 días, por el Director de área que él designe. En las mayores de 15 días, por el Director que designe la Junta de Gobierno.
+
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
+
+###### ARTICULO 34.
+
 Los Directores de área serán suplidos en sus ausencias temporales menores de 15 días, por el subdirector que ellos designen. En las mayores de 15 días, por el subdirector o el servidor público de la jerarquía inmediata inferior que designe el Director General.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-ARTlCULO 34.- Los subdirectores serán suplidos en sus ausencias temporales menores de 15 días, por el jefe de departamento que ellos designen. En las mayores de 15 días, por el jefe de departamento que designe el Director del área respectiva.
+ARTlCULO 35.- Los subdirectores serán suplidos en sus ausencias temporales menores de 15 días, por el jefe de departamento que ellos designen. En las mayores de 15 días, por el jefe de departamento que designe el Director del área respectiva.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 35.
+###### ARTICULO 36.
 
 Los jefes de departamento serán suplidos en sus ausencias temporales menores de 15 días, por el servidor público de la jerarquía inmediata inferior que ellos designen. En las mayores de 15 días, por el servidor público de la jerarquía inmediata inferior que designe el Director del área respectiva.
 
@@ -597,9 +605,9 @@ CAPlTULO XIII
 
 DEL ORGANO DE VIGILANCIA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EN LA SECCION CUARTA DEL 21 DE FEBRERO DE 2004 EN EL P.O., SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA REGLAMENTARIA.</small>
+> <small>(F. DE E., P.O. 21 DE FEBRERO DE 2004)</small>
 
-###### ARTICULO 36.
+###### ARTICULO 37.
 
 La Secretaría de la Contraloría General de Gobierno del Estado, será la encargada del control y la vigilancia del Organismo, nombrando para ello a un Comisario de Salud.
 
