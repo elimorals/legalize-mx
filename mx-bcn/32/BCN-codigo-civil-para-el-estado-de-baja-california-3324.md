@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "1992-09-30"
+last_updated: "1993-07-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 1993.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -11519,11 +11519,11 @@ Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géne
 
 El interés es legal o convencional.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, P.O. 16 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 2269.
 
-El interés legal es el cincuenta por ciento anual. El interés convencional es el que fijen los contratantes; puede ser mayor o menor que el interés legal; pero cuando el interés sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, la inexperiencia o ignorancia del deudor, a petición de éste el Juez, teniendo en cuenta las circunstancias del caso, podrá reducirlo equitativamente hasta el tipo legal.
+El interés legal en moneda nacional, es el que fije el Banco de México mediante el costo porcentual promedio, o su instrumento equivalente. Para el caso de obligaciones en moneda extranjera, el interés legal lo constituirá el porcentaje establecido por la misma institución de acuerdo a la moneda de que se trate. El interés convencional es el que fijen los contratantes; puede ser mayor o menor que el interés legal; pero cuando el interés convencional sea tan desproporcionado que haga fundadamente creer que se ha abusado del apuro pecuniario, la inexperiencia o ignorancia del deudor, a petición de éste el Juez teniendo en cuenta las circunstancias del caso, podrá reducirlo hasta el tipo legal.
 
 ###### ARTICULO 2270.
 
@@ -15032,3 +15032,7 @@ P.O. 30 DE SEPTIEMBRE DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano informativo del Gobierno del Estado.
+
+P.O. 16 DE JULIO DE 1993.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
