@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "2004-09-15"
+last_updated: "2004-10-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE OCTUBRE DE 2004.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -252,7 +252,7 @@ VI.- Expedir gratuitamente, a solicitud de los denunciantes o querellantes, copi
 
 VII.- Trasladarse al lugar de los hechos, para dar fe de las personas y de las cosas afectadas por el acto delictuoso, y a tomar los datos de las personas que lo hayan presenciado, procurando que declaren, si es posible, en el mismo lugar de los hechos, y citándolas en caso contrario para que dentro del término de veinticuatro horas comparezcan a rendir su declaración, y a realizar todas las diligencias inmediatas a que hace referencia este Código y las demás conducentes para la integración debida de la averiguación;
 
-VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos (sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
+VIII.- Asegurar que los denunciantes, querellantes u ofendidos precisen en sus declaraciones los hechos motivos(sic) de la denuncia o querella y las circunstancias de lugar, tiempo y modo en que ocurrieron;
 
 IX.- Proponer el no ejercicio de la acción penal cuando de las declaraciones iniciales y de los elementos aportados no se desprenda la comisión de conductas delictivas o elemento alguno para su investigación;
 
@@ -1210,7 +1210,7 @@ IV.- Que el inculpado no haya sido condenado por delito intencional.
 
 La presente disposición no será aplicable cuando se trate de los delitos graves señalados en este Código.
 
-> <small>(REFORMADO, D.O. F. 10 DE ENERO DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 134.
 
@@ -2258,6 +2258,14 @@ De la información al indiciado sobre los derechos antes mencionados, se dejará
 
 En todo caso se mantendrán separados a los hombres y a las mujeres en los lugares de detención.
 
+> <small>(ADICIONADO, G.O. 27 DE OCTUBRE DE 2004)</small>
+
+###### ARTICULO 269 Bis.
+
+El Ministerio Público comprobará la edad del inculpado con el acta de nacimiento expedida por la autoridad competente, una vez que sea presentado ante ese órgano investigador. De no ser esto posible, se acreditará por medio de dictamen médico rendido por los peritos que para tal efecto designe el Ministerio Público. En caso de duda, se presumirá la minoría de edad, de conformidad con lo dispuesto por la Ley para el Tratamiento de Menores Infractores para el Distrito Federal en Materia Común y para toda la República en Materia Federal.
+
+El incumplimiento de esta disposición se sancionará de conformidad con las leyes aplicables.
+
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 270.
@@ -2836,7 +2844,7 @@ El día señalado para la insaculación, estando presentes las personas a que se
 
 Al sacarse cada nombre, el juez lo leerá en voz alta. En ese acto, el Ministerio Público, y el acusado o su defensor, podrán recusar, sin expresión de causa, al designado por la suerte. Estas recusaciones podrán extenderse hasta cinco por parte del Ministerio Público, y el mismo número por cada acusado.
 
-Los jurados así recusados serán inmediatamente substituídos en el mismo sorteo; concluída la diligencia, el juez ordenará se cite a los jurados no recusados.
+Los jurados así recusados serán inmediatamente substituídos en el mismo sorteo; concluida la diligencia, el juez ordenará se cite a los jurados no recusados.
 
 ###### ARTICULO 335.
 
@@ -5583,3 +5591,9 @@ G.O. 15 DE SEPTIEMBRE DE 2004.
 PRIMERO.- El presente decreto entrará en vigor a los treinta días de su publicación en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+G.O. 27 DE OCTUBRE DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
