@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-adquisiciones-arrendamientos-y-prestacion-de-8204"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-25"
-last_updated: "1988-05-25"
+last_updated: "2002-06-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "ZAC"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON BIENES MUEBLES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2002.
 
-Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miercoles 25 de mayo de 1988.
+Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 25 de mayo de 1988
 
 LICENCIADO GENARO BORREGO ESTRADA, Gobernador Constitucional del Estado Libre y Soberano de Zacatecas, a sus habitantes hago saber:
 
@@ -57,7 +57,7 @@ LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS RELACIONADOS CON 
 
 ###### ARTICULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto regular;
+La presente ley es de orden público e interés social y tiene por objeto regular;
 
 I. Las acciones relativas a la planeación, programación, presupuestación y control que, en materia de adquisiciones y arrendamientos de bienes muebles y prestación de servicios relacionados con los mismos, realicen las dependencias y entidades de la Administración Pública Estatal, así como:
 
@@ -417,7 +417,9 @@ Los pedidos o contratos que deban formalizarse como resultado de su adjudicació
 
 El proveedor a quien se hubiere adjudicado el pedido o contrato como resultado de una licitación, perderá en favor de la convocante la garantía que hubiere otorgado, si por causas imputables a él la operación no se formaliza dentro de los plazos a que se refiere este artículo, pudiendo la dependencia o entidad, en este supuesto, adjudicar el contrato o pedido al participante siguiente en los términos del artículo 36 de esta Ley.
 
-Los derechos y obligaciones que se deriven de los pedidos y contratos una vez adjudicados, no podrán cederse en forma parcial ni total en favor de cualesquiera otra persona física o moral.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2002)</small>
+
+Los derechos y obligaciones que se deriven de los pedidos y contratos una vez adjudicados, no podrán cederse en forma parcial ni total en favor de cualesquiera otra persona, con excepción de los derechos de cobro, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate.
 
 ###### ARTICULO 43.
 
@@ -475,7 +477,7 @@ Para los efectos del párrafo anterior, las dependencias y entidades conservará
 
 ###### ARTICULO 52.
 
-Las dependencias y entidades controlarán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios lleven a cabo. Para tal efecto estableceran los medios y procedimientos de control que requieren, de acuerdo con las normas que dicte el ejecutivo estatal, a través de la Oficialía Mayor.
+Las dependencias y entidades controlarán los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios lleven a cabo. Para tal efecto establecerán los medios y procedimientos de control que requieran, de acuerdo con las normas que dicte el ejecutivo estatal, a través de la Oficialía Mayor.
 
 ###### ARTICULO 53.
 
@@ -626,3 +628,9 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. ROGELIO HERNANDEZ QUINTERO
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JUNIO DE 2002.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL, ORGANO DEL GOBIERNO DEL ESTADO.
