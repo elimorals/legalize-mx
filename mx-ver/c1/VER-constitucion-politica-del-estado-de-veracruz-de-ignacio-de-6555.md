@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1976-12-30"
+last_updated: "1977-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 1977.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -1083,11 +1083,13 @@ DE LA INVIOLABILIDAD Y REFORMA DE LA CONSTITUCIÓN.
 
 Esta Constitución no perderá su fuerza y vigor, aun cuando por alguna rebelión se interrumpa su observancia.
 
+> <small>(REFORMADO, G.O. 22 DE DICIEMBRE DE 1977)</small>
+
 ###### Artículo 130.
 
-Las reformas y adiciones a esta Constitución serán propuestas por una Legislatura y adoptadas por la siguiente, siendo necesario el voto de las dos terceras partes de los Diputados presentes, tanto para proponer como para aprobar unas y otras.
+La Constitución puede ser adicionada y reformada, a propuesta del Ejecutivo del Estado y de la mitad más uno de los representantes que integren la Legislatura, para que las adiciones y reformas lleguen a ser parte de la misma, se requiere del voto de las dos terceras partes del número total de Diputados Electos.
 
-Ni la Legislatura que proponga ni la que apruebe, pueden deliberar ni votar sin la concurrencia de las dos terceras partes del número total de Diputados.
+La Legislatura no podrá deliberar sin la concurrencia de las dos terceras partes de sus miembros.
 
 ###### Artículo 131.
 
@@ -1494,3 +1496,7 @@ Esta ley entrará en vigor el día primero de enero de 1977.
 ###### ARTICULO SEGUNDO.
 
 Envíese al Ejecutivo del Estado para su publicación en la "Gaceta Oficial" órgano del Gobierno de la Entidad.
+
+G.O. 22 DE DICIEMBRE DE 1977.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en la 'Gaceta Oficial', órgano del Gobierno del Estado.
