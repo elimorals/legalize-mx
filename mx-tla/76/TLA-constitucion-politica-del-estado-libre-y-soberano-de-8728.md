@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1956-08-08"
+last_updated: "1959-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE NOVIEMBRE DE 1959.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -331,13 +331,15 @@ Para que los Diputados puedan cumplir con lo dispuesto en las fracciones anterio
 
 Los Diputados, al abrirse el Período de Sesiones Ordinarias siguiente a la visita que hayan hecho a los pueblos que representan, presentarán al Congreso una Memoria que contenga las observaciones que hayan hecho, proponiendo a la vez las medidas que estimen conducentes para llenar el objeto que expresa la fracción IV de este artículo.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 1956)</small>
+> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1959)</small>
 
 ###### Art. 33.
 
-Al iniciarse las labores del Congreso el primero de diciembre de cada año, el Gobernador del Estado y el Presidente del H. Tribunal de Justicia rendirán ante el mismo, un informe del estado que guarden los diversos ramos de la Administración Pública. El Presidente del Congreso contestará a ambos términos generales.
+Al iniciarse las labores del Congreso el primero de diciembre de cada año, el Gobernador rendirá ante el mismo, un informe del estado que guardan los diversos ramos de la Administración Pública. El Presidente del Congreso, contestará en términos generales.
 
-El 15 de enero correspondiente al año de la transmisión de Poderes, el Gobernador Electo acudirá ante el H. Congreso a otorgar la protesta de acuerdo con las formalidades de rigor.
+En el curso del mes de diciembre el Presidente del H. Tribunal Superior de Justicia enviará su informe anual de la Administración de Justicia al H. Congreso.
+
+El 15 de enero correspondiente al año de la transmisión del Poder Ejecutivo, el Gobernador Electo acudirá ante el H. Congreso a otorgar la protesta de acuerdo con las formalidades de rigor.
 
 ###### Art. 34.
 
@@ -1094,5 +1096,9 @@ P.O. 10 DE MARZO DE 1954.
 El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 8 DE AGOSTO DE 1956.
+
+El presente Decreto surtirá sus efectos a partir de esta fecha.
+
+P.O. 18 DE NOVIEMBRE DE 1959.
 
 El presente Decreto surtirá sus efectos a partir de esta fecha.
