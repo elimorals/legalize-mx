@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "2000-04-05"
+last_updated: "2000-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 2000.
-
-(REPUBLICADO, P.O. 19 DE ABRIL DE 2000)
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -2955,9 +2953,7 @@ ARTICULO 258 C.- Salvo lo dispuesto en el artículo siguiente, el pago de los de
 
 Los funcionarios y empleados del Gobierno del Estado, se abstendrán de actuar o, en su caso, de entregar documentos o constancias relativas hasta en tanto el usuario presente el comprobante de pago respectivo. El funcionario o empleado que no cumpliere con esta disposición, tendrá responsabilidad solidaria con el contribuyente para el pago del importe de los derechos y sanciones que se causaren, independientemente de las penas que correspondan.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-Cuando se solicite la prestación de los servicios previstos en esta tarifa para el mismo día, causarán un tanto más de la cuota establecida para cada caso.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
 
@@ -2975,25 +2971,37 @@ Los derechos por concepto de certificaciones, cotejo, búsqueda y copia de docum
 
 TARIFA:
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-I.- Búsqueda de documentos, certificación o copia certificada un día de salario mínimo.
+I.- Búsqueda de expedientes y documentos, tres días de salario mínimo, certificación o expedición de copia certificada, un día de salario mínimo por hoja. Tratandose de certificación de expedientes de procedimientos judiciales o administrativos, se cobrará: hasta 15 hojas 1 día de salario mínimo, hasta 40 hojas 2, hasta 70 hojas 3, hasta 105 hojas 4 y de 106 hojas en adelante 5 días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-II.- Legalización o ratificación de firmas, por cada firma un día de salario mínimo.
+II.- Legalización o ratificación de firmas, por cada firma, tres días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones un día de salario mínimo.
+III.- Resoluciones u opiniones administrativas, sobre documentos, operaciones o trámites y regularizaciones, 3 días de salario mínimo.
 
 > <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1996)</small>
 
 IV.- Apostillamiento de documentos, cinco días de salario mínimo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 259.
 
-(DEROGADO, P.O. 18 DE DICIEMBRE DE 1993)
+Los derechos por concepto de adscripción de aspirante, examenes para obtener la patente de aspirante o el fiat de Notario Público, constancia de no inhabilitación para el servicio público y constancia de antecedentes no penales, se causarán conforme a lo siguiente:
+
+I.- Por el examen para obtener la patente de aspirante de Notario Público, trescientos días de salario mínimo.
+
+II.- Por el examen para obtener el fiat de Notario Público, cuatrocientos cincuenta días de salario mínimo.
+
+III.- Constancia de no inhabilitación para el servicio público, tres días de salario mínimo.
+
+IV.- Constancia de antecedentes no penales, tres días de salario mínimo.
+
+V.- En los términos de la Ley del Notariado, por la adscripción de un aspirante a una Notaría Pública, 150 días de salario mínimo.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3143,11 +3151,9 @@ XIV.- La cancelación de las inscripciones en los casos a que se refieren las fr
 
 XV.- La cancelación de las inscripciones relativas a los casos comprendidos en la fracción IX, con el importe de tres días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-XVI.- Búsqueda de documentos, certificación o copia certificada de los mismos o de protocolos, con un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad con el importe de dos días de salario mínimo.
-
-El importe de los derechos señalados en las fracciones I, III, V, VI, IX y XIX de este artículo, en ningún caso serán inferiores al equivalente de dos días de salario mínimo.
+XVI.- Búsqueda de documentos, tres días de salario mínimo; certificación o expedición de copia certificada de los mismos o de protocolos, un día de salario mínimo por hoja; certificado de libertad de gravamen y de no propiedad, con el importe de tres días de salario mínimo.
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1985)</small>
 
@@ -3201,11 +3207,9 @@ Para la determinación y cobro de los derechos que establece el artículo anteri
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Hacienda del Estado.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-II.- En los contratos de arrendamiento servirá de base para determinar los derechos, la suma del alquiler pactado como máximo en un año y de todas las demás prestaciones adicionales que estuvieren a cargo del arrendatario. Los contratos del subarrendamiento causarán los mismos derechos que los de arrendamiento.
+II.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2000)
 
 III.- En las emisiones de las cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, por las condiciones, cuotas, derechos y otros conceptos que no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca independientemente de la que se constituya a favor de los tenedores de las cédulas, la cual causará la cuota correspondiente por cantidad indeterminada.
 
@@ -3217,63 +3221,21 @@ IV.- En toda transmisión de bienes o derechos reales que se realice por contrat
 
 V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a la tasa establecida en la fracción I del artículo 263.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-VI.- Para la aplicación de los derechos comprendidos en la fracción I del Artículo 263 en su caso, la nuda propiedad y el usufructo se considerará el 50 % cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la Dirección de Catastro. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
+VI.- Para la aplicación de los derechos comprendidos en la fracción I del artículo 263 en su caso, la nuda propiedad y el usufructo se considerará el 50% de cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la Dirección de Catastro. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-VII.- Los derechos previstos en esta tarifa serán aumentados en un cien por ciento, cuando los interesados desearen obtener la inscripción del título, la expedición de certificados o copias certificadas el mismo día de su presentación.
+VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2000)
 
 VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de éstas, si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base, la cantidad que resulte, haciendo el cómputo por un año.
 
 IX.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-###### ARTICULO 265o.
+###### ARTICULO 265.
 
-No se causarán los derechos a que se refieren los Artículos 263 y 266, en los siguientes casos:
-
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado y sus organismos descentralizados, y los Municipios; así mismo los adquiridos por los organismos para ser destinados a satisfacer necesidades de vivienda en cumplimiento de su objeto que a continuación se indican:
-
-a).- Instituto Tamaulipeco de la Vivienda y Urbanización;
-
-b).- Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas;
-
-c).- Fideicomiso Fondo Nacional de Habitaciones Populares;
-
-d).- Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
-
-e).- Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado;
-
-f).- Unidad de Previsión y Seguridad Social del Estado de Tamaulipas; y,
-
-g).- Comisión para la Regularización de la Tenencia de la Tierra.
-
-II.- Las certificaciones o informes que soliciten el Gobierno Federal, el del Estado o los Municipios, cuando el pago de los derechos no correspondan a particulares.
-
-(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993) (F. DE E. P.O. 1 DE ENERO DE 1994)
-
-III.- Los informes que soliciten por las autoridades judiciales por causas penales o para juicios de amparo.
-
-IV.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1993)
-
-> <small>(REFORMADA PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-V.- Las inscripciones relativas a bienes inmuebles o derechos reales, adquiridos a través del Instituto Tamaulipeco de la Vivienda y Urbanización; Sistema para la Integración de la Población al Desarrollo Urbano de Tamaulipas; Fideicomiso Fondo Nacional de Habitaciones Populares; Instituto del Fondo Nacional de la Vivienda para los Trabajadores; Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales para los Trabajadores del Estado; Unidad de Previsión y Seguridad Social del Estado; Comisión para la Regularización de la Tenencia de la Tierra, así como los obtenidos con créditos otorgados por Instituciones de Crédito y con financiamiento concedido por los patrones a sus trabajadores.
-
-La exención señalada en esta fracción se aplicará si se cumplen los requisitos siguientes:
-
-a).- Que el adquirente no posea otra propiedad.
-
-b).- Tratándose de terrenos, que éstos no excedan de 250 M2 y cuando incluyan casa habitación ésta no exceda de 100 M2 de construcción.
-
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-VI.- Las inscripciones de los contratos de financiamiento concedidos a los promotores para la edificación de viviendas que no exceda de 100 M2 de construcción cada una.
+No se causarán los derechos a que se refieren los artículos 263 y 266 por los informes que soliciten las autoridades judiciales por causas penales o juicios de amparo.
 
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
@@ -3355,9 +3317,9 @@ XVI.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilit
 
 XVII.- La inscripción de resoluciones judiciales en que se declare una quiebra o se admita una liquidación judicial, con el importe de cuatro días de salario mínimo.
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-XVIII.- Búsqueda de documentos, certificaciones o copia certificada, un día de salario mínimo por hoja.
+XVIII.- Búsqueda de documentos, tres días de salario mínimo; certificaciones o copia certificada, un día de salario mínimo por hoja.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
@@ -3387,23 +3349,17 @@ V.- Los contratos que tengan prestaciones periódicas se valuarán en la suma de
 
 VI.- En los casos no previstos expresamente en el Artículo anterior, los derechos por servicios que se presten en el Registro Público de Comercio, se causarán por asimilación, en los términos de las fracciones relativas, a casos con los que guarden semejanza.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
-
-VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% cuando los interesados soliciten la inscripción el mismo día de su presentación.
+VII.- (DEROGADA, P.O. 21 DE DICIEMBRE DE 2000)
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1995)</small>
 
 VIII.- No se causarán los derechos previstos en la fracción II del artículo anterior, cuando se paguen los derechos establecidos en el artículo 287 de esta Ley.
 
-###### ARTICULO 268o.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-No se causarán los derechos a los que se refiere el Artículo 266o.
+###### ARTICULO 268.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 1991)</small>
-
-a).- En los casos comprendidas (sic) en el Artículo 265.
-
-b).- Las inscripciones de las Sociedades Cooperativas Escolares, dependientes de la Secretaría de Educación Pública y que estén bajo su vigilancia o la del Estado.
+No se causarán los derechos a que se refiere el artículo 266 por las inscripciones de las Sociedades Cooperativas Escolares.
 
 #### SECCION CUARTA. REGISTRO Y EXPEDICION DE TITULOS PROFESIONALES
 
@@ -3591,11 +3547,99 @@ VI.- (DEROGADA, P.O. 18 DE DICIEMBRE DE 1991
 
 ### CAPITULO VI. SERVICIOS PARA EL CONTROL VEHICULAR
 
-###### ARTICULO 281o.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
-VEASE TABLA ANEXA
+###### ARTICULO 281.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 18 DE DICIEMBRE DE 1993)</small>
+El Ejecutivo de Estado, por conducto de la Secretaría de Hacienda del Estado y Oficinas autorizadas, hará efectivos los derechos por servicios para el control vehicular, conforme a la siguiente:
+
+T A R I F A:
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+I.- Por la asignación del número de control vehicular y la expedición de las placas y de la documentación correspondiente;
+
+a).- Automóviles, camiones y similares, dieciseis días de salario mínimo.
+
+b).- Motocicletas y similares, seis días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+c).- Bicicletas, y demás vehículos de tracción no motorizada, tres días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+d).- Remolques, ocho días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+Los derechos comprendidos en esta fracción deberán pagarse dentro de los tres primeros meses del año en que deba efectuarse el canje de placas, de conformidad con las disposiciones de las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+Las personas físicas o morales que adquieran vehículos que no cuenten con placas, deberán hacerlo dentro de los quince días siguientes a la fecha de adquisición.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+II.- Por la expedición de placas de demostración, dieciséis días de salario mínimo. Estas placas sólo podrán expedirse a empresas que demuestren operar como comercializadoras habituales de vehículos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+III.- Concesiones de vehículos de servicio público estatal y cesiones de derechos de las mismas;
+
+1.- Servicios de ruta de pasajeros:
+
+a).- Vehículos con capacidad de hasta 10 pasajeros, seis días de salario mínimo.
+
+> <small>(F. DE E. P.O. 1 DE ENERO DE 1994)</small>
+
+b).- Vehículos con capacidad de hasta 25 pasajeros, ocho días de salario mínimo.
+
+c).- Vehículos con capacidad de más de 25 pasajeros, nueve días salario mínimo.
+
+2.- Vehículos de sitio, diez días de salario mínimo.
+
+3.- Servicio de carga de materiales:
+
+a).- Con capacidad de hasta 7 toneladas, doce días de salario mínimo.
+
+b).- Con capacidad de más de 7 toneladas, diecisiete días de salario mínimo.
+
+4.- Servicio especializado en carga (excluídos vehículos distribuidores de combustible doméstico)
+
+a).- Con capacidad de hasta 2 toneladas, doce días de salario mínimo.
+
+b).- Con capacidad de 2 a 5 toneladas, quince días de salario mínimo.
+
+c).- De 5 toneladas en adelante, diecisiete días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+5.- Transporte escolar y de empleados de empresas, cinco días de salario mínimo.
+
+> <small>(F. DE E. P.O. 1 DE ENERO DE 1994)</small>
+
+6.- Estacionamiento y pensión de automóviles, veinte días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+IV.- REVALIDACION ANUAL.
+
+Los derechos de revalidación comprendidos en las fracciones anteriores se causarán a razón del 50% y deberán pagarse cada año entre el 1º. de enero y 31 de marzo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+V.- Por reposición de la tarjeta de circulación y por el trámite de la solicitud de baja, en el control vehícular, en cada caso seis días de salario mínimo; si la solicitud de baja en el control vehicular corresponde a un vehículo con placas de otra entidad federativa, se pagarán ocho días de salario mínimo.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 1993)</small>
+
+VI.- Por la expedición de permiso provisional de circulación; por el trámite de cambio de domicilio y por el cambio de características de los vehículos, tres días de salario mínimo, en cada caso.
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+VII. Expedición de licencias para conducir vehículos, de motociclista, automovilista o chofer, seis días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 282o.
 
@@ -3635,6 +3679,16 @@ En su modalidad específica, 23 días de salario mínimo.
 
 c).- Por el otorgamiento de la concesión del manejo y disposición final de residuos sólidos no peligrosos, 201 días de salario mínimo.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+d).- Resolutivos de impacto ambiental.
+
+A).- Informe preventivo, cuatro días de salario mínimo.
+
+B).- Modalidad General, seis días de salario mínimo.
+
+C).- Modalidad específica, ocho días de salario mínimo.
+
 5.- Por el derecho de ingreso de visitantes ecoturistas a las áreas naturales protegidas, declaradas por el Titular del Ejecutivo Estatal.
 
 a).- Adultos, medio día de salario mínimo.
@@ -3663,17 +3717,51 @@ b).- Estudiantes e investigadores, un día y medio de salario mínimo.
 
 9.- Por los estudios de flora y fauna silvestres, el 20% de un día de salario mínimo por hectárea.
 
-###### ARTICULO 283o.
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 21 DE DICIEMBRE DE 2000)
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+### CAPITULO VII. DERECHOS POR SERVICIOS DE ADMINISTRACION Y CONTROL DEL DESARROLLO URBANO
 
-###### ARTICULO 284o.
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+###### ARTICULO 283.
 
-### CAPITULO VII. DERECHOS POR SERVICIOS DE PREVENCION Y CONTROL DE LA CONTAMINACION DEL MEDIO AMBIENTE
+Los servicios prestados por administración y control del desarrollo urbano se causarán, por certificación, conforme a lo siguiente:
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 1993)</small>
+I.- Expedición de certificados de uso de suelo:
+
+a).- Habitacional, cinco días de salario mínimo.
+
+b).- Otros, veinte días de salario mínimo.
+
+II.- Expedición de certificados de destino, dos días de salario mínimo.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2000)</small>
+
+###### ARTICULO 284.
+
+Por la revisión y, en su caso, aprobación de anteproyectos de fraccionamientos, se causarán, por metro cuadrado o fracción del área vendible:
+
+I.- Habitacional Residencial:
+
+a).- Fraccionamientos, 3% de día de salario mínimo.
+
+b).- Relotificaciones, 5% del día de salario mínimo.
+
+II.- Habitacional Medio:
+
+a).- Fraccionamientos, 1.5% de día de salario mínimo.
+
+b).- Relotificaciones, 3% de día de salario mínimo.
+
+III.- Habitacional Popular:
+
+a).- Fraccionamientos, .80% de día de salario mínimo.
+
+b).- Relotificaciones, 1.5% día de salario mínimo.
+
+IV.- Agropecuario, 2% de día de salario mínimo.
+
+V.- Régimen de propiedad en condominio habitacional, 4% de día de salario mínimo.
 
 ### CAPITULO VIII. DERECHOS DE COOPERACION
 
@@ -4020,3 +4108,13 @@ El presente Decreto entrará en vigor a partir de (sic) día siguiente al de su 
 ###### ARTICULO SEGUNDO.
 
 Las disposiciones contenidas en las fracciones VII y VIII del artículo 287 de la Ley de Hacienda del Estado que mediante el presente Decreto se modifican, estarán vigentes hasta el día 30 de abril del presente año.
+
+P.O. 21 DE DICIEMBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero del año 2001.
+
+###### ARTICULO SEGUNDO.
+
+Las Cantidades que le corresponda percibir al Estado y los Municipios del mismo, por concepto de incentivos por la realización de los trámites de inscripción de vehículos de procedencia extranjera, en ningún caso podrán destinarse a gasto corriente.
