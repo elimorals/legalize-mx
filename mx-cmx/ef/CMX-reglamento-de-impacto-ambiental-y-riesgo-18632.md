@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-impacto-ambiental-y-riesgo-18632"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-15"
-last_updated: "2002-09-24"
+last_updated: "2004-03-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18632&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2000-12-14"
 
 REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE SEPTIEMBRE DE 2002.
+N. DE E.: EL PRESENTE REGLAMENTO FUE DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE IMPACTO AMBIENTAL Y RIESGO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 26 DE MARZO DE 2004.
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: DEROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el viernes 15 de diciembre de 2000.
 
@@ -172,7 +174,7 @@ Las solicitudes de cambios de uso del suelo, siempre que las actividades a desar
 
 D) OBRAS O ACTIVIDADES QUE PRETENDAN REALIZARSE EN ÁREAS NATURALES PROTEGIDAS DE COMPETENCIA DEL DISTRITO FEDERAL:
 
-Todas las obras y actividades cuya realización se encuentre (sic) permitida (sic) por la Ley, el reglamento respectivo, los decretos que establezcan las áreas, así como los programas de manejo que al efecto se expidan.
+Todas las obras y actividades cuya realización se encuentre permitida por la Ley, el reglamento respectivo, los decretos que establezcan las áreas, así como los programas de manejo que al efecto se expidan.
 
 E) OBRAS O ACTIVIDADES DENTRO DE SUELO URBANO EN LOS SIGUIENTES CASOS:
 
@@ -1391,3 +1393,19 @@ G.O. 24 DE SEPTIEMBRE DE 2002.
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- Los procedimientos de solicitud de evaluación de impacto ambiental que se encuentren en trámite a la entrada en vigor de este decreto, se resolverán de acuerdo con las disposiciones vigentes en el momento de su presentación.
+
+G.O. 26 DE MARZO DE 2004.
+
+Primero.- El presente reglamento entrará en vigor el día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+Segundo.- Se deroga el Reglamento de Impacto Ambiental y Riesgo publicado en la Gaceta oficial del Distrito Federal el 15 de diciembre de 2000, así como todas las disposiciones que se opongan al presente Reglamento.
+
+Tercero.- Todos los procedimientos de solicitudes de evaluación de impacto ambiental que se encuentren en trámite se resolverán de conformidad con el reglamento vigente en el momento de su presentación, excepto aquellos en los que los promoventes soliciten la aplicación del presente ordenamiento.
+
+Cuarto.- Los acuerdos administrativos necesarios para la ejecución del presente reglamento, se expedirán dentro de los ciento veinte días siguientes a la publicación de este reglamento.
+
+Quinto.- En tanto se expiden los listados a que se refiere el artículo 7º de este reglamento, quedan sujetas a la presentación de la manifestación de impacto ambiental y el estudio de riesgo respectivo, además de las actividades previstas en este reglamento, aquéllas realizadas en establecimientos industriales, comerciales o de servicios que manejen sustancias o materiales con características explosivas, tóxicas, inflamables y biológico infecciosas, en un volumen mayor al treinta por ciento y menor al cien por ciento de la cantidad de reporte que se establece en los listados correspondientes de actividades altamente riesgosas competencia de la Federación.
+
+Sexto.- El Capítulo II del Acuerdo que establece el listado de obras o actividades que requieren autorización de impacto ambiental, las modalidades para su evaluación y los formularios e instructivos aplicables, publicado en la Gaceta Oficial del Distrito Federal el 7 de abril de 1997, permanecerá vigente en tanto se publiquen en la Gaceta Oficial del Distrito Federal las nuevas guías y formatos para la presentación de los informes preventivos, manifestaciones de impacto ambiental y avisos de ejecución de obras y acciones.
+
+Séptimo.- La Secretaría instrumentará un sistema electrónico para la presentación de los avisos a que se refieren los artículos 9º, 12, 13, 14, 21, 27 y 32 del Reglamento, mismo que entrará en vigor una vez publicado en la Gaceta Oficial del Distrito Federal.
