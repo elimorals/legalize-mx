@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1997-12-29"
+last_updated: "1998-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1997
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -95,7 +95,9 @@ Cuando en esta Ley o en alguna otra se dé una denominación nueva o distinta a 
 
 El pago de los créditos fiscales deberá hacerse en efectivo, salvo disposición expresa de una ley particular. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
 
-También se admitirán como medio de pago, los cheques de cuentas personales de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezcan las disposiciones fiscales o las que al efecto dicte la Secretaría de Finanzas y Tesorería General del Estado.
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+Se aceptarán como medios de pago, los cheques, certificados y los giros postales, telegráficos o bancarios; los cheques personales no certificados y las tarjetas electrónicas bancarias de crédito o de débito. Las tarjetas electrónicas bancarias de crédito o débito, únicamente se aceptarán cuando exista identidad entre el titular del crédito fiscal y el de la forma de pago, y en los lugares y operaciones que así autorice la Secretaría de Finanzas y Tesorería General del Estado. Los créditos fiscales podrán ser cubiertos en especie, mediante previa autorización por escrito del Secretario de Finanzas y Tesorero General del Estado, debiendo sujetarse para su valuación en lo conducente al procedimiento de remate previsto en el presente Código.
 
 ## TITULO SEGUNDO. De los Impuestos
 
@@ -1291,15 +1293,47 @@ c) Las actividades realizadas por el causante, y otros datos que puedan utilizar
 
 1. - Las personas físicas con actividades empresariales y las morales a que se refiere el artículo 155, podrán dictaminar por contador público registrado sus estados financieros, con relación al Impuesto Sobre Nóminas.
 
-Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de Finanzas y Tesorería General del Estado, que optan por dictaminar sus estados financieros en materia del Impuesto sobre Nóminas y presentar el dictamen respectivo, en un plazo no mayor de 15 días hábiles, contados a partir de la fecha del escrito respectivo.
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para tal efecto y mediante escrito libre, podrán dar aviso a la Secretaría de Finanzas y Tesorería General del Estado, que optan por dictaminar sus estados financieros en materia del Impuesto sobre Nóminas y presentar el dictamen respectivo, en un plazo no mayor de 30 días hábiles, contados a partir de la fecha del escrito respectivo.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-2. - Las revisiones o las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas deberán concluirse anticipadamente, cuando el contribuyente objeto de la revisión o visita antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla con los requisitos indicados en dicho precepto.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-3.- El Contador Público registrado que vaya a dictaminar los estados financieros con relación al Impuesto Sobre Nóminas a que se refiere el artículo 160 bis-1, deberá comunicar a la Secretaría de Finanzas y Tesorería General del Estado, mediante escrito libre, el nombre, denominación o razón social de las personas físicas con actividades empresariales o morales que hayan optado por dictaminar sus estados financieros para efectos del Impuesto Sobre Nóminas; así como el número de su registro al padrón estatal en materia de dicho impuesto y los ejercicios que comprende dicho Dictamen.
+
+La constancia de la autorización al Contador Público para dictaminar estados financieros expedida por la Secretaría de Hacienda y Crédito Público, así como la copia de la cédula profesional del Contador Público que vaya a realizar dicho Dictamen, deberán adjuntarse al Aviso a que se refiere el artículo 160 bis-1 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 ###### ARTICULO 160 Bis
 
-2. - Las visitas domiciliarias ordenadas para verificar el cumplimiento del Impuesto Sobre Nóminas podrán concluirse anticipadamente, cuando el visitado antes del inicio de la auditoría hubiere presentado el aviso que consigna el artículo anterior, siempre que el escrito correspondiente cumpla los requisitos indicados en dicho precepto.
+4.- El dictamen que practique el contador público registrado, deberá reunir los requisitos del Artículo 52 del Código Fiscal del Estado y su revisión se sujetará a las siguientes formalidades del procedimiento:
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+I.- La autoridad fiscal en el ejercicio de sus facultades de comprobación, requerirá indistintamente al contador público registrado que elaboró el dictamen, al contribuyente revisado, o a los terceros relacionados con el contribuyente o responsable solidario.
+
+a) Tratándose del contador público registrado, la autoridad fiscal podrá solicitarle, por escrito con copia al contribuyente, lo siguiente:
+
+1.-Cualquier información que, conforme al Código deberá de estar incluida en los estados financieros dictaminados para efectos fiscales.
+
+2.- La exhibición de los papeles de trabajo elaborados con motivo de la auditoría practicada; los cuales, en todo caso, se entiende que son propiedad del contador público.
+
+3.- La información que se considere pertinente para cerciorarse del cumplimiento de las obligaciones fiscales del contribuyente.
+
+4.- La exhibición de los sistemas y registros contables y documentación original.
+
+b) Por lo que se refiere al contribuyente, la autoridad fiscalizadora estará facultada para requerir por escrito, con copia al contador público registrado, la información que se considere pertinente para cerciorarse del cumplimiento de sus obligaciones fiscales, así como la exhibición de sus sistemas y registros contables y documentación original correspondiente.
+
+c) Por lo que respecta a los terceros relacionados con los contribuyentes o responsables solidarios en los términos del Artículo 27 del Código Fiscal del Estado, la información y documentación que consideren necesaria para verificar si son ciertos los datos consignados en el dictamen.
+
+II.- En los términos del último párrafo del artículo 44 del Código Fiscal del Estado, se considera que se inicia el ejercicio de facultades de comprobación en relación con los contribuyentes que hayan presentado sus estados financieros dictaminados, cuando la autoridad fiscal competente lleve a cabo alguno de los actos señalados en los incisos b) y c) de la fracción anterior.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+ARTICULO 160 bis-5. - Cuando esté notificada una orden de revisión o de visita domiciliaria pero no se haya iniciado la revisión documental, tomando en cuenta los antecedentes del contribuyente, respecto del cumplimiento de las obligaciones en materia de este impuesto, se le podrá autorizar el dictaminarse por los dos ejercicios anteriores a la fecha de la visita y en tal caso, la revisión o visita motivo de la orden notificada, se concluirá anticipadamente.
 
 ###### ARTICULO 160 Bis
 
@@ -1391,21 +1425,21 @@ II.- En los términos del último párrafo del artículo 44 del Código Fiscal d
 
 ###### ARTICULO 171.
 
-Son objeto del Impuesto Sobre Hospedaje las erogaciones realizadas por concepto de pago de servicios de hospedaje recibidos en hoteles, moteles, albergues y demás establecimientos de hospedaje y en campamentos y paraderos de casas rodantes, ubicados en el Estado de Nuevo León.
+Es objeto del Impuesto Sobre Hospedaje la prestación de servicios de hospedaje realizados en hoteles, moteles, albergues y demás establecimientos de hospedaje y en campamentos y paraderos de casas rodantes, ubicados en el Estado de Nuevo León.
 
-Dentro del objeto del impuesto se incluyen las erogaciones realizadas por el huésped bajo el sistema de tiempo compartido, por los servicios de hospedaje y por el otorgamiento de derechos de uso, goce o usufructo por períodos específicos, sobre un bien inmueble o porción del mismo, destinado al servicio de hospedaje.
+Dentro del objeto del impuesto se incluye el sistema de tiempo compartido, por los servicios de hospedaje y por el otorgamiento de derechos de uso, goce o usufructo por períodos específicos, sobre un bien inmueble o porción del mismo, destinado al servicio de hospedaje.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 172.
 
-Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que hagan las erogaciones objeto de este gravamen, incluso cuando el servicio se preste a terceras personas.
+Son sujetos de este impuesto las personas físicas, morales o las unidades económicas que presten los servicios objeto de este gravamen.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 173.
 
-Es base de este impuesto el monto total de las erogaciones gravadas. Se consideran erogaciones gravadas los pagos totales a que se refiere el artículo 171, incluyendo los intereses, penas convencionales y cualesquier otros conceptos que se adicionen, vinculados a los servicios prestados y que se realicen en efectivo o en especie, deduciendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá en el cálculo del impuesto.
+Es base de este impuesto el monto total de las erogaciones por la prestación de los servicios gravados. Se consideran erogaciones por la prestación de los servicios gravados los pagos totales por la prestación de los servicios a que se refiere el artículo 171, incluyendo los intereses, penas convencionales y cualesquier otros conceptos que se adicionen, vinculados a los servicios prestados y que se realicen en efectivo o en especie, deduciendo las devoluciones, descuentos, reducciones y bonificaciones recibidas. El Impuesto al Valor Agregado no se incluirá en el cálculo del impuesto.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -1419,9 +1453,13 @@ El impuesto se determinará aplicando una tasa del 2% sobre la base determinada 
 
 Se causará el impuesto en el momento en que ocurra el primero de cualquiera de los siguientes supuestos:
 
-I.- Se efectúen las erogaciones gravadas;
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Se hagan exigibles las erogaciones gravadas; o
+I.- Se efectúen las erogaciones por la prestación de los servicios gravados;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+II.- Se hagan exigibles las erogaciones por la prestación de los servicios gravados; o
 
 III.- Se expida el comprobante de pago correspondiente.
 
@@ -1433,39 +1471,53 @@ El impuesto se calculará por meses de calendario y se cubrirá ante la oficina 
 
 Las devoluciones, descuentos, reducciones y bonificaciones se deducirán en el mes que efectivamente se realicen.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 177.
 
-Las personas físicas y morales que presten los servicios objeto de este Impuesto, serán responsables solidarios del pago del mismo y de sus accesorios que se causen y tendrán además las siguientes obligaciones:
+Los sujetos de este impuesto tendrán las siguientes obligaciones:
 
-I.- Retener el impuesto a cargo de las personas obligadas a su pago y enterarlo en los términos previstos en el artículo 176, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado;
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Cubrir el impuesto y los accesorios a su cargo, en su carácter de responsables solidarios;
+I.- Cubrir el impuesto y los accesorios a su cargo y enterarlo en los términos previstos en el artículo 176, utilizando las formas oficiales aprobadas por la Secretaría de Finanzas y Tesorería General del Estado;
+
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+II.- Trasladar dicho impuesto a las personas que reciban los servicios objeto del mismo. Se entenderá por traslado del impuesto, el cobro o cargo que el contribuyente debe hacer a dichas personas de un monto equivalente al impuesto establecido en este Capítulo;
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 III.- Llevar un registro contable de los servicios que presten, de las contraprestaciones que perciban o se hagan exigibles y de los comprobantes de pago que expidan, mencionados en este Capítulo;
 
-IV.- Presentar ante la Secretaría de Finanzas y Tesorería General del Estado su aviso de inscripción, dentro del mes siguiente al día que inicien actividades por las cuales deban efectuar las retenciones a que se refiere este artículo. Este aviso se presentará por cada uno de los establecimientos en donde se preste el servicio de hospedaje;
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
+
+IV.- Presentar ante la Secretaría de Finanzas y Tesorería General del Estado su aviso de inscripción, dentro del mes siguiente al día que inicien actividades por las cuales deban efectuar el pago del impuesto. Este aviso se presentará por cada uno de los establecimientos en donde se preste el servicio de hospedaje.
+
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 V.- Presentar ante las mismas autoridades y dentro del plazo que señala la fracción anterior, los avisos de cambio de nombre, denominación o razón social, cambio de domicilio, traslado, traspaso o suspensión de actividades;
 
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 VI.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto;
 
-VII.- Presentar declaración mensual de las retenciones que les corresponda efectuar. Esta obligación subsistirá aun cuando no se hayan percibido erogaciones gravadas o no hubiese cantidad alguna a enterar o cubrir, excepto cuando el retenedor presente el aviso de suspensión respectivo.
+> <small>(REFORMADA, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+VII.- Presentar declaración mensual de los pagos que les corresponda efectuar. Esta obligación subsistirá aun cuando no se hayan realizado actividades gravadas o no hubiese cantidad alguna a enterar o cubrir, excepto cuando el contribuyente presente el aviso de suspensión respectivo.
+
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 178.
 
-La retención del impuesto podrá hacerse constar en forma expresa y por separado, en los comprobantes de pago que expidan los retenedores.
+El contribuyente trasladará el impuesto en forma expresa y por separado, en los comprobantes de pago que expida a las personas que reciban los servicios.
 
-La obligación a cargo de los retenedores de enterar el impuesto por las erogaciones correspondientes al objeto de este impuesto, subsistirá aun cuando no hubiesen efectuado la retención.
+La obligación a cargo de los contribuyentes de enterar el impuesto por las erogaciones correspondientes al objeto de este impuesto, subsistirá aun cuando no hubiesen efectuado el traslado del mismo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 179.
 
-No se pagará el impuesto tratándose de erogaciones que se realicen por la prestación de servicios de hospedaje y asistencia a estudiantes, realizadas por instituciones Educativas, Asociaciones Religiosas o en domicilios familiares.
+No se pagará el impuesto tratándose de la prestación de servicios de hospedaje y asistencia a estudiantes, realizadas por Instituciones Educativas, Asociaciones Religiosas o en domicilios familiares.
 
 ###### ARTICULO 180.
 
@@ -1569,7 +1621,7 @@ No se pagará el impuesto tratándose de erogaciones que se realicen por la pres
 
 ### CAPITULO DECIMO PRIMERO. Del Impuesto Sobre Hospedaje
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P. O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 205.
 
@@ -1999,9 +2051,9 @@ II.- Por servicios de vigilancia y verificación a cargo de Notarios Públicos, 
 
 Este derecho deberá ser cubierto durante los meses de Enero y Febrero de cada año.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-III.- Por inscripción y revalidación de fierros y señales de ganado, por cada uno N$15.00.
+III.- Por inscripción y revalidación de fierros y señales de ganado, por cada uno…...53 cuotas
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
@@ -2049,9 +2101,9 @@ VIII.- Por la tramitación del procedimiento de aclaración o rectificación de 
 
 IX.- Por servicio de información de inscripciones de Registro Civil, obtenidos mediante sistemas de comunicación, proporcionada por Oficialías ubicadas fuera del área metropolitana o del Estado, por acta 2.5 cuotas
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-X.- Por otros servicios no especificados $30.00
+X.- Por otros servicios no especificados.. 1.07 cuotas
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1979)</small>
 
@@ -2079,9 +2131,9 @@ a) Hasta N$ 50,000.00, por cada millar o fracción ….. N$ 4.00
 
 b) Por el excedente de N$ 50,000.00, por cada millar o fracción ….. N$ 5.00
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ….. $14.00
+c) Si no se consigna valor alguno o éste es indeterminado, se pagará por hoja ..... .5 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2105,13 +2157,13 @@ Tratándose de documentos o contratos que consignen prestaciones periódicas, si
 
 Por lo que hace a operaciones sobre bienes muebles o inmuebles, en que medie condición suspensiva, resolutoria, reserva de dominio o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el 75% de la tasa correspondiente y el 25 % restante, al practicarse la inscripción complementaria.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Por la expedición de copias, por cada hoja, sin perjuicio del derecho establecido en esta Ley ….. $.65
+II.- Por la expedición de copias, por cada hoja, sin perjuicio del derecho establecido en esta Ley.. .023 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-III.- Por certificación de copias, por cada documento ….. $65.00
+III.- Por certificación de copias, por cada documento.... 2.32 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2127,9 +2179,9 @@ V.- Por cualquier rectificación de inscripciones ….. 3.5 cuotas
 
 VI.- Por ratificación de firmas ante el Registrador, en los casos a que se refiere el Artículo 55 de la Ley Reglamentaria del Registro Público de la Propiedad ….. 3.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-VII.- Por el registro de subdivisiones de predios, por cada lote resultante ….. $16.00
+VII.- Por el Registro de subdivisiones de predios, por cada lote resultante… .57 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2137,37 +2189,37 @@ VIII.- Por el registro de planos de fraccionamientos, por cada lote vendible:
 
 A.- Fraccionamientos habitacionales:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados ….. $14.00
+a) Con lotes cuya superficie promedio sea mayor de 250 metros cuadrados…. .5 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados ….. $8.00
+b) Con lotes cuya superficie promedio sea hasta 250 metros cuadrados .. .28 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 B.- Fraccionamientos comerciales, industriales y campestres ….. 1 cuota
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-C.- Cementerios …… $6.50
+C.- Cementerios… .23 cuotas
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 En ningún caso la cantidad a pagar será inferior a ….. 4 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IX.- Por certificado de no inscripción de inmuebles ….. $40.00
+IX.- Por certificado de no inscripción de inmuebles… 1.43 cuotas
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
 
 Por certificado de inscripción de inmuebles, por cada inmueble o lote………………..… 1 cuota
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote ….. $52.00
+X.- Por certificado de gravámenes o de libertad de gravámenes, por cada inmueble o lote … 1.86 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2181,9 +2233,9 @@ En ningún caso la cantidad a pagar será menor a ….. 6 cuotas
 
 XII.- Por inscripción de avisos preventivos, por cada lote o inmueble ….. 3 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XIII.- Por la búsqueda de antecedentes registrales ….. $26.00
+XIII.- Por la búsqueda de antecedentes registrales… .93 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2197,13 +2249,13 @@ XV.- Por la utilización de sistemas digitalizados:
 
 a) Por búsqueda de antecedentes registrales respecto de condominios, fraccionamientos o programas de regularización …… 8 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Expedición de copias de registro de antecedentes, por cada una ….. $19.50
+b) Expedición de copias de registro de antecedentes, por cada una ..... .70 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Información de datos de antecedentes registrales ….. $19.50
+c) Información de datos de antecedentes registrales ..... .70 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2375,9 +2427,9 @@ Por los siguientes servicios prestados por la Dirección de Archivo General de N
 
 I.- Por certificación de constancia 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-II.- Por expedición de Segundos Testimonios, por hoja $13.00
+II.- Por expedición de Segundos Testimonios, por hoja.… .46 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2397,9 +2449,9 @@ Por los servicios prestados por la Secretaría de Educación.
 
 I.- Constancias de Estudios:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Por la legalización de certificados de escuelas técnicas y comerciales $28.00
+a) Por la legalización de certificados de escuelas técnicas y comerciales...1 cuota
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2551,17 +2603,7 @@ f) Hoteles de paso N$8,500.00
 
 Tratándose de establecimientos ubicados en los demás municipios, cubrirán el 50% de las cuotas establecidas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1994)</small>
-
-II.- Por la inscripción de contratos de arrendamiento de bienes inmuebles, a solicitud del particular, cada uno:
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-a) Si el importe de la renta calculado al mes no excede de 20 Cuotas …… $ 18.00
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
-
-b) Si el importe de la renta calculado al mes excede de 20 cuotas ….. 1.5 cuotas
+II. - (DEROGADA, P.O. 30 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2575,9 +2617,13 @@ En ningún caso la cantidad a pagar será inferior a ….. 2.5 cuotas
 
 Tratándose de consulta de valor actual real ….. 2.5 cuotas
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-IV.- Por expedición de certificado de no inscripción catastral $40.00
+Por la expedición de avalúos informativos para efecto de contribuciones previstas en la Ley de Desarrollo Urbano del Estado...… 2.5 cuotas
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+IV.- Por expedición de certificado de no inscripción catastral...… 1.43 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2589,11 +2635,15 @@ VI.- Por expedición de constancias catastrales certificadas, cada una 2 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-VII.- Por la inscripción de subdivisiónes, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante 1 cuota
+VII.- Por la inscripción de subdivisiones, relotificaciones, fraccionamientos, condominios o departamentos, por cada lote resultante 1 cuota
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 VIII.- Por información y ubicación de predios 1 cuota
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Por baja de construcción por demolición u otras causas…… 1 cuota
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2631,6 +2681,14 @@ c) Lote 1 cuota
 
 d) Lote certificado 2 cuotas
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+e) De construcción 2 cuotas
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+f) De construcción, certificados.... 3 cuotas
+
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 XII.- Por asignación de número de expediente catastral a planos de fraccionamientos 2.5 cuotas
@@ -2659,21 +2717,21 @@ d) Por placas de demostración, semestralmente 10.5 cuotas
 
 XIV.- Por reposición de tarjeta de circulación 2 cuotas
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 XV.- Por expedición de licencia de manejar o su reposición:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Con vigencia de dos años 3.5 cuotas
+a) Con vigencia de un año...1.9 cuota
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 b) Con vigencia de tres años 5 cuotas
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-XVI.- Por alta en el padrón vehicular, a los vehículos mencionados en la fracción XIII en los incisos a) y b) 3 cuotas
+XVI.- Por expedición o reposición de placas a los vehículos mencionados en la fracción XIII en los incisos a) y b).... 5 cuotas
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -2683,9 +2741,13 @@ XVII.- Por baja de vehículos del padrón vehicular 2.5 cuotas
 
 XVIII.- Por expedición de constancias y certificaciones……………. 1 cuota
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-Tratándose de vehículos por los cuales deba pagarse el Impuesto Sobre Tenencia o Uso de Vehículos, no se dará ningún trámite si no se acredita estar al corriente en el pago del referido impuesto.
+XIX. - Por servicio de información de datos o documentos de control vehicular, obtenidos mediante sistemas de comunicación, proporcionada por otras Entidades Federativas, por documento...2 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Para dar trámite al pago sobre el derecho de servicios de control vehicular, el propietario del vehículo deberá acreditar que no existe infracción alguna por violación al reglamento de tránsito en vigor.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2698,6 +2760,10 @@ Quienes se encuentren obligados legalmente a solicitar los servicios a que se re
 > <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE DICIEMBRE DE 1993)</small>
 
 La vigencia de las licencias de manejar expirará el último día del mes de nacimiento del conductor.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+Las personas físicas y morales que adquieran vehículos en el Estado, están obligadas a solicitar la inscripción o cambio de propietario en el padrón vehicular de la Secretaría de Finanzas y Tesorería General del Estado, dentro de los 15 días siguientes a su adquisición, mediante la documentación y requisitos que señale la propia Secretaría, siendo responsables solidarios en esta obligación los enajenantes, además de la responsabilidad en el pago de las contribuciones y demás obligaciones fiscales que se generen con motivo de la propiedad, posesión o tenencia de vehículos inscritos en el padrón vehicular, a cargo de las personas que aparezcan inscritas en dicho padrón. En caso de incumplimiento de esta obligación se impondrá una sanción hasta del 100% de los derechos, que correspondan conforme a la fracción XIII de este artículo.
 
 (REUBICADO [N. DE E. ANTES CAPITULO QUINTO], P.O. 31 DE DICIEMBRE DE 1993)
 
@@ -2767,6 +2833,10 @@ b) Proveedores N$220.00
 
 V.- Por la revisión de planos que se practique por concepto de ingeniería sanitaria, sobre el valor de las edificaciones que se pretendan construir, determinado por la Secretaría de Finanzas y Tesorería General del Estado, con base en los planos y proyectos que presente el interesado y en los demás datos que proporcionen las oficinas competentes se pagará por cada millar o fracción N$5.00
 
+(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1998) (F.DE E., P.O. 18 DE ENERO DE 1999)
+
+En ningún caso la cantidad a cubrir será menor a 2.5 cuotas
+
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 VI.- Por la expedición de constancias y certificados, que expidan las dependencias del Gobierno del Estado, no mencionadas en las disposiciones de este Título 1 cuota
@@ -2775,43 +2845,43 @@ VI.- Por la expedición de constancias y certificados, que expidan las dependenc
 
 VII.- Por incorporación a las redes de agua y drenaje, por metro cuadrado del área vendible:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados $3.00
+a) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio mayor de 250 metros cuadrados .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados $2.10
+b) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio entre 150 y 250 metros cuadrados .075 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados $1.35
+c) Fraccionamientos habitacionales cuyos lotes tengan una superficie promedio menor de 150 metros cuadrados .048 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-d) Fraccionamientos comerciales, por metro cuadrado $3.10
+d) Fraccionamientos comerciales, por metro cuadrado .110 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-e) Fraccionamientos industriales $3.40
+e) Fraccionamientos industriales .121 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-f) Fraccionamientos campestres $3.00
+f) Fraccionamientos campestres .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-g) Fraccionamientos funerarios $3.75
+g) Fraccionamientos funerarios .133 cuotas
 
 h) Predios que no formen parte de un fraccionamiento autorizado por las autoridades competentes, por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-1.- Por incorporación a las redes de agua $1.25
+1.- Por incorporación a las redes de agua .044 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-2.- Por incorporación a las redes de drenaje $1.25
+2.- Por incorporación a las redes de drenaje .044 cuotas
 
 > <small>N. DE E. EN RELACION CON LA VIGENCIA DE LOS DERECHOS CONTENIDOS EN EL PRESENTE ARTICULO, VER ARTICULO PRIMERO DEL DECRETO QUE MODIFICA ESTA LEY, P.O. 29 DE JULIO DE 1994</small>
 
@@ -2905,15 +2975,25 @@ e) Mayor de 1,000 m2. ….. 30 cuotas
 
 Adicionalmente se cubrirá una cantidad complementaria, por metro cuadrado de construcción, excluyendo estacionamientos, conforme a la siguiente tarifa:
 
-a) Hasta 100 m2 ….. $2.50
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-b) Mayor de 100 m2 y hasta 250 m2 ….. $5.00
+a) Hasta 100 m2 .09 cuotas
 
-c) Mayor de 250 m2 y hasta 500 m2 ….. $7.50
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-d) Mayor de 500 m2 y hasta 1,000 m2 ….. $10.00
+b) Mayor de 100 m2 y hasta 250 m2 .18 cuotas
 
-e) Mayor de 1,000 m2 ….. $12.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+c) Mayor de 250 m2 y hasta 500 m2 .27 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+d) Mayor de 500 m2 y hasta 1,000 m2 .36 cuotas
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
+
+e) Mayor de 1,000 m2 .43 cuotas
 
 La cuota prevista en el párrafo anterior no excederá de $ 8.00 por metro cuadrado, para las edificaciones habitacionales multifamiliares. Las casas habitación estarán exentas del pago de este derecho.
 
@@ -2921,9 +3001,9 @@ La cuota prevista en el párrafo anterior no excederá de $ 8.00 por metro cuadr
 
 IV.- Por factibilidad y autorización de regímenes en condominio:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos $3.75
+a) Vertical, por metro cuadrado de construcción, excluyendo estacionamientos .13 cuotas
 
 b) Horizontal, por metro cuadrado de terreno, conforme a la tarifa señalada en la fracción V.
 
@@ -2941,41 +3021,39 @@ b) Por proyecto urbanístico, por metro cuadrado de área vendible:
 
 1.- Habitacionales o industriales, exceptuando los predios reservados para equipamientos comerciales y de servicios de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-A. Lotes con superficie de hasta 150 metros cuadrados $3.75
+A. Lotes con superficie de hasta 150 metros cuadrados .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-B. Lotes con superficie de más de 150 metros cuadrados hasta 300 metros cuadrados $5.00
+B. Lotes con superficie de más de 150 metros cuadrados hasta 300 metros cuadrados .143 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-C. Lotes con superficie mayor de 300 metros cuadrados $6.00
+C. Lotes con superficie mayor de 300 metros cuadrados .172 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-2.- Industriales ubicados en los Municipios de Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina $3.75
+2.- Industriales ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Juárez, Monterrey, San Nicolás de los Garza, San Pedro Garza García y Santa Catarina .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-3.- Industriales ubicados en los Municipios de Apodaca, Escobedo, Guadalupe y Juárez $1.95
+3.- Campestres ubicados en los municipios de Apodaca, Guadalupe, Monterrey, San Pedro Garza García, Santa Catarina y Santiago .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-4.- Campestres ubicados en los Municipios de Monterrey, San Pedro Garza García, Santa Catarina y Santiago……………………………………………………………………………………$ 3.75
+4.- Campestres ubicados en el resto del Estado .007 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-5.- Campestres ubicados en el resto del Estado $.25
+5.- Otros ubicados en los municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina .107 cuotas
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-6.- Otros ubicados en los Municipios de Apodaca, Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, San Pedro Garza García, Santiago y Santa Catarina ...$ 3.75
+6.- Otros ubicados en el resto del Estado .007 cuotas
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
-
-7.- Otros ubicados en el resto del Estado…$.25
+7.- (DEROGADO, P.O. 30 DE DICIEMBRE DE 1998)
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
@@ -3458,3 +3536,23 @@ Los derechos previstos en el Artículo 276 bis, fracción V, inciso b), numeral 
 ###### ARTICULO QUINTO.
 
 Durante 1998 no se cubrirán los ingresos previstos en los Artículos 281 y 282 de la Ley de Hacienda del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1º de Enero de 1999.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 276, fracción XVI, de esta Ley, las placas de circulación identificadas en fondo blanco con caracteres y línea perimetral verde para el servicio privado y fondo blanco, con caracteres y línea perimetral negra y franja naranja, tratándose del servicio público, que no porten el emblema de la Entidad, el Código de barras y el Escudo del Estado, tendrán una vigencia hasta el día último del mes de agosto de 1999, por lo que el canje respectivo deberá realizarse antes de que concluya dicha vigencia.
+
+Las placas de circulación de vehículos de servicio público y privado local, tendrán la vigencia que se señale mediante decreto emitido por el ejecutivo federal.
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1999, los Derechos por Servicios prestados en el Registro Público de la Propiedad y del Comercio se cubrirán a una tarifa especial de 60 cuotas, en la inscripción de documentos en los que se consignen adquisiciones provenientes de dación en pago o adjudicación judicial o fiduciaria, realizadas por contribuyentes que por disposición legal no pueden conservar la propiedad de dichos bienes, tales como Instituciones Bancarias o Nacionales de Crédito, Organizaciones Auxiliares de Crédito y Casas de Bolsa.
+
+###### ARTICULO CUARTO.
+
+Durante 1999 no se cubrirán los ingresos previstos en los artículos 281 y 282 de la Ley de Hacienda del Estado.
