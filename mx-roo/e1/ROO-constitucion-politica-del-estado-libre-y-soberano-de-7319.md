@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1978-08-04"
+last_updated: "1980-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE DICIEMBRE DE 1980.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -397,17 +397,17 @@ No podrán reunirse dos o más de estos poderes en una persona o corporación ni
 
 #### SECCION PRIMERA. De la Elección e Instalación de la Legislatura
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1980)</small>
 
 ###### ARTICULO 52.
 
-La Legislatura del Estado de Quintana Roo, se integra con ocho diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y hasta con tres diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal. Los diputados serán electos cada tres años por votación universal, directa, libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+La Legislatura del Estado de Quintana Roo, se integra con nueve Diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales nominales, y hasta con tres Diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal. Los Diputados serán electos cada tres años por votación universal, directa libre y secreta de los ciudadanos quintanarroenses en ejercicio de sus derechos.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 1980)</small>
 
-ARTICULO 52 BIS.- Para la elección de los ocho diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en distritos electorales uninominales.
+ARTICULO 52 BIS.- Para la elección de los nueve Diputados electos según el principio de votación mayoritaria relativa, la Comisión Estatal Electoral hará la demarcación territorial correspondiente en distritos electorales uninominales.
 
-Para la elección de los tres diputados según en principio de representación proporcional, el Estado constituirá una circunscripción electoral plurinominal.
+Para la elección de los tres Diputados según en principio de representación proporcional, el Estado constituirá una circunscripción electoral plurinominal.
 
 > <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
 
@@ -1580,3 +1580,9 @@ Se derogan todas las disposiciones que se contrapongan al presente Decreto.
 P.O. 4 DE AGOSTO DE 1978.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
