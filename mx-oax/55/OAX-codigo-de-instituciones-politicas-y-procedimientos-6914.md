@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-instituciones-politicas-y-procedimientos-6914"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-02-12"
-last_updated: "1997-10-01"
+last_updated: "1997-10-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE INSTITUCIONES POLITICAS Y PROCEDIMIENTOS ELECTORALES DE OAXACA (CIPPEO)
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Oaxaca, el miércoles 12 de febrero de 1992.
 
@@ -774,6 +774,14 @@ b).- El Instituto asignará, del monto total determinado, un 20% el primer año,
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1997)</small>
 
 c).- De la cantidad total destinada anualmente para el financiamiento de los Partidos, se asignará el 30% en forma paritaria a todos los Partidos con registro, el 20% en forma proporcional a su representación en el Congreso del Estado, y el 50% restante de manera proporcional a la votación obtenida en la elección anterior de Diputados de Mayoría Relativa.
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+d).- Cada Partido Político tendrá derecho a recibir hasta el 10% de adicional del financiamiento anual que le corresponda, de acuerdo a los incisos a), b) y c) inmediatos anteriores, para apoyar actividades relativas a la educación, capacitación e investigación política y socioeconómica, así como a las tareas editoriales. Para su ejercicio, en todo caso, los Partidos deberán de comprobar y justificar los gastos erogados en la realización de estas actividades; y
+
+> <small>(ADICIONADO, P.O. 9 DE OCTUBRE DE 1997)</small>
+
+e).- Cuando el año de la elección coincida con la elección del Gobernador del Estado, los Partidos Políticos gozarán de un financiamiento adicional igual al del año electoral.
 
 7.- No tendrán derecho al financiamiento público los partidos políticos que hubieren perdido su registro.
 
@@ -5016,3 +5024,7 @@ TERCERO.- Los consejeros ciudadanos en funciones continuarán con su encargo, co
 CUARTO.- Los Partidos Políticos Nacionales que hayan perdido su registro en la última elección federal pero conserven representante o representantes populares dentro del Congreso del Estado y conserven el 1.5% de votación que señala el Código Electoral Estatal para que un partido conserve su registro, serán considerados solamente para la elección de 1998 como Partido Político con registro local y recibirá el mismo tratamiento.
 
 QUINTO.- En todos los artículos que se haga referencia a Consejeros Ciudadanos se entenderá a Consejeros Electorales.
+
+P.O. 9 DE OCTUBRE DE 1997.
+
+ÚNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
