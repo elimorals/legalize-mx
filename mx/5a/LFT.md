@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1974-12-24"
+last_updated: "1974-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1974.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -80,7 +80,9 @@ II. Una jornada mayor que la permitida por esta Ley;
 
 III. Una jornada inhumana por lo notoriamente excesiva, dada la índole del trabajo, a juicio de la Junta de Conciliación y Arbitraje;
 
-IV. Horas extraordinarias de trabajo para las mujeres y menores de dieciséis años;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+IV. Horas extraordinarias de trabajo para los menores de dieciséis años;
 
 V. Un salario inferior al mínimo;
 
@@ -96,7 +98,9 @@ X. La facultad del patrón de retener el salario por concepto de multa;
 
 XI. Un salario menor que el que se pague a otro trabajador en la misma empresa o establecimiento por trabajo de igual eficiencia, en la misma clase de trabajo o igual jornada, por consideración de edad, sexo o nacionalidad;
 
-XII. Trabajo nocturno industrial, o en establecimientos comerciales despues de las veintidós horas, para las mujeres y los menores de dieciséis años; y
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XII. Trabajo nocturno industrial o el trabajo despues de las veintidós horas, para menores de dieciséis años; y
 
 XIII. Renuncia por parte del trabajador de cualquiera de los derechos o prerrogativas consignados en las normas de trabajo.
 
@@ -1038,11 +1042,17 @@ XXV. Contribuir al fomento de las actividades culturales y del deporte entre sus
 
 XXVI. Hacer las deducciones previstas en las fracciones IV del artículo 97 y VII del artículo 110, y enterar los descuentos a la institución bancaria acreedora, o en su caso al Fondo de Fomento y Garantía para el Consumo de los Trabajadores. Esta obligación no convierte al patrón en deudor solidario del crédito que se haya concedido al trabajador.
 
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+XXVII. Proporcionar a las mujeres embarazadas la protección que establezcan los reglamentos.
+
 ###### Artículo 133.
 
 Queda prohibido a los patrones:
 
-I. Negarse a aceptar trabajadores por razón de su edad;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+I. Negarse a aceptar trabajadores por razón de edad o de su sexo;
 
 II. Exigir que los trabajadores compren sus artículos de consumo en tienda o lugar determinado;
 
@@ -1266,17 +1276,21 @@ Las empresas tendrán derecho a ejercitar ante las Juntas de Conciliación y Arb
 
 ### CAPITULO IV. Derechos de Preferencia, Antigüedad y Ascenso
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ### CAPITULO V. Invenciones de los Trabajadores
 
 ###### Artículo 154.
 
-Si no existe contrato colectivo o el celebrado no contiene la cláusula de admisión a que se refiere el párrafo primero del artículo 395, los patrones estarán obligados a preferir, en igualdad de circunstancias, a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, y a los sindicalizados respecto de quienes no lo estén.
+Si no existe contrato colectivo o el celebrado no contiene la cláusula de admisión a que se refiere el párrafo primero del artículo 395, los patrones estarán obligados a preferir en igualdad de circunstancias a los trabajadores mexicanos respecto de quienes no lo sean, a quienes les hayan servido satisfactoriamente por mayor tiempo, a quienes no teniendo ninguna otra fuente de ingreso económico tengan a su cargo una familia y a los sindicalizados respecto de quienes no lo estén.
 
 Se entiende por sindicalizado a todo trabajador que se encuentre agremiado a cualquier organización sindical legalmente constituida.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 155.
 
-Los trabajadores que se encuentren en los casos del artículo anterior y que aspiren a un puesto vacante o de nueva creación, deberán presentar una solicitud a la empresa o establecimiento indicando su domicilio y nacionalidad, si prestaron servicios con anterioridad y por qué tiempo, la naturaleza del trabajo que desempeñaron y la denominación del sindicato a que pertenezcan, a fin de que sean llamados al ocurrir alguna vacante o crearse algún puesto nuevo; o presentarse a la empresa o establecimiento al momento de ocurrir la vacante o de crearse el puesto, comprobando la causa en que funden su solicitud.
+Los trabajadores que se encuentren en los casos del artículo anterior y que aspiren a un puesto vacante o de nueva creación, deberán presentar una solicitud a la empresa o establecimiento indicando su domicilio y nacionalidad, si tienen a su cargo una familia y quienes dependen económicamente de ellos si prestaron servicio con anterioridad y por qué tiempo, la naturaleza del trabajo que desempeñaron y la denominación del sindicato a que pertenezcan, a fin de que sean llamados al ocurrir alguna vacante o crearse algún puesto nuevo; o presentarse a la empresa o establecimiento al momento de ocurrir la vacante o de crearse el puesto, comprobando la causa en que funden su solicitud.
 
 ###### Artículo 156.
 
@@ -1292,9 +1306,11 @@ Los trabajadores de planta y los mencionados en el artículo 156 tienen derecho 
 
 Una comisión integrada con representantes de los trabajadores y del patrón formulará el cuadro general de las antigüedades, distribuido por categorías de cada profesión u oficio y ordenará se le dé publicidad. Los trabajadores inconformes podrán formular objeciones ante la comisión y recurrir la resolución de ésta ante la Junta de Conciliación y Arbitraje.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 159.
 
-Las vacantes definitivas o por una duración mayor de treinta días o cuando se cree un puesto nuevo, serán cubiertos por el trabajador más antigüo de la categoría inmediata inferior de la respectiva profesión u oficio. Si concurren dos o más trabajadores de la misma antigüedad, será preferido el más capaz.
+Las vacantes definitivas o por una duración mayor de treinta días o cuando se cree un puesto nuevo, serán cubiertas por el trabajador mas antiguo de la categoría inmediata inferior de la respectiva profesión u oficio. Si concurren dos o más trabajadores de la misma antigüedad, tendrá prioridad el más capaz y, en igualdad de circunstancias, el que tenga a su cargo una familia.
 
 Si el patrón cumplió la obligación prevista en el artículo 132, fracción XV, el trabajador al que corresponda el puesto deberá acreditar que posee los conocimientos y la aptitud necesarios para desempeñarlo. En los contratos colectivos se establecerá el procedimiento para que el trabajador compruebe los conocimientos y aptitudes, bien con el certificado que se le hubiese extendido al terminar los cursos o enseñanzas de capacitación o adiestramiento, con el certificado de algún instituto o escuela de capacitación, por medio de un examen o de un período de prueba no mayor de treinta días, por varios de estos procedimientos, o por alguna otra modalidad que se convenga. Si el resultado de la prueba o pruebas no es favorable al trabajador, será llamado el que le siga en antigüedad. En los mismos contratos colectivos se establecerá la manera de cubrir las vacantes cuando no exista dentro de la empresa ningún trabajador con los conocimientos y aptitud necesarios para desempeñar el puesto.
 
@@ -1332,7 +1348,7 @@ V. En caso de muerte del trabajador, cualquiera que sea su antigüedad, la prima
 
 VI. La prima de antigüedad a que se refiere este artículo se cubrirá a los trabajadores o a sus beneficiarios, independientemente de cualquier otra prestación que les corresponda.
 
-### CAPITULO I. Trabajo de las Mujeres
+### CAPITULO I
 
 ###### Artículo 163.
 
@@ -1348,7 +1364,11 @@ II. Cuando el trabajador se dedique a trabajos de investigación o de perfeccion
 
 III. En cualquier otro caso, la propiedad de la invención corresponderá a la persona o personas que la realizaron, pero el patrón tendrá un derecho preferente, en igualdad de circunstancias, al uso exclusivo o a la adquisición de la invención y de las correspondientes patentes.
 
-## TITULO QUINTO. Trabajo de las Mujeres y de los Menores
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+## TITULO QUINTO. Trabajo de las Mujeres
+
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 164.
 
@@ -1358,35 +1378,35 @@ Las mujeres disfrutan de los mismos derechos y tienen las mismas obligaciones qu
 
 Las modalidades que se consignan en este capítulo tienen como propósito fundamental, la protección de la maternidad.
 
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
 ###### Artículo 166.
 
-En los términos del Artículo 123, de la Constitución, Apartado “A”, fracción II, queda prohibida la utilización del trabajo de las mujeres en:
+Cuando se ponga en peligro la salud de la mujer, o la del producto, ya sea durante el estado de gestación o el de lactancia y sin que sufra perjuicio en su salario, prestaciones y derechos, no se podrá utilizar su trabajo en labores insalubres o peligrosas, trabajo nocturno industrial, en establecimientos comerciales o de servicio después de las diez de la noche, así como en horas extraordinarias.
 
-I.- Labores peligrosas o insalubres;
-
-II.- Trabajo nocturno industrial; y
-
-III.- Establecimientos comerciales después de las diez de la noche.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 167.
 
-Son labores peligrosas o insalubres las que, por la naturaleza del trabajo, por las condiciones físicas, químicas y biológicas del medio en que se presta, o por la composición de la materia prima que se utilice, son capaces de actuar sobre la vida y la salud física y mental de la mujer en estado de gestación, o del producto.
+Para los efectos de este título, son labores peligrosas o insalubres las que, por la naturaleza del trabajo, por las condiciones físicas, químicas y biológicas del medio en que se presta, o por la composición de la materia prima que se utilice, son capaces de actuar sobre la vida y la salud física y mental de la mujer en estado de gestación, o del producto.
 
 Los reglamentos que se expidan determinarán los trabajos que quedan comprendidos en la definición anterior.
 
 ###### Artículo 168.
 
-No rige la prohibición contenida en el artículo 166, fracción I para las mujeres que desempeñen cargos directivos o que posean un grado universitario o técnico, o los conocimientos o la experiencia necesarias para desempeñar los trabajos, ni para las mujeres en general, cuando se hayan adoptado las medidas necesarias para la protección de la salud, a juicio de la autoridad competente.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ###### Artículo 169.
 
-Las mujeres no prestarán servicio extraordinario. En caso de violación de esta prohibición, las horas extraordinarias se pagarán con un doscientos por ciento más del salario que corresponda a las horas de la jornada.
+(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)
 
 ###### Artículo 170.
 
 Las madres trabajadoras tendrán los siguientes derechos:
 
-I. Durante el período del embarazo no podrán desempeñar trabajos peligrosos para su salud o la de su hijo, tales como los que produzcan trepidación o exijan esfuerzo físico considerable, levantar, tirar o empujar grandes pesos, o permanecer de pie durante largo tiempo;
+(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)(F. DE E., D.O.F. 9 DE ENERO DE 1975)
+
+I. Durante el período del embarazo, no realizarán trabajos que exijan esfuerzos considerables y signifiquen un peligro para su salud en relación con la gestación, tales como levantar, tirar o empujar grandes pesos, que produzcan trepidación, estar de pie durante largo tiempo o que actúen o puedan alterar su estado psíquico y nervioso;
 
 II. Disfrutarán de un descanso de seis semanas anteriores y seis posteriores al parto;
 
@@ -1408,7 +1428,9 @@ Los servicios de guardería infantil se prestarán por el Instituto Mexicano del
 
 En los establecimientos en que trabajen mujeres, el patrón debe mantener un número suficiente de asientos o sillas a disposición de las madres trabajadoras.
 
-## TITULO SEXTO. Trabajos especiales
+> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+## TITULO QUINTO BIS. Trabajo de los Menores
 
 ###### Artículo 173.
 
@@ -1474,9 +1496,11 @@ III. Distribuir el trabajo a fin de que dispongan del tiempo necesario para cump
 
 IV. Proporcionar a la Inspección del Trabajo los informes que les solicite.
 
-## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
+## TITULO SEXTO. Trabajos especiales
 
-### CAPITULO II. Trabajo de los Menores
+### CAPITULO II
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### Artículo 181.
 
@@ -2638,7 +2662,7 @@ La Inspección del Trabajo vigilará el cumplimiento de las normas a que se refi
 
 ### CAPITULO IV. Contrato-Ley
 
-## TITULO OCTAVO. Huelgas
+## TITULO SEPTIMO. Relaciones Colectivas de Trabajo
 
 ### CAPITULO V. Reglamento Interior de Trabajo
 
@@ -3182,7 +3206,9 @@ V. Normas para el uso de los asientos o sillas a que se refiere el artículo 132
 
 VI. Normas para prevenir los riesgos de trabajo e instrucciones para prestar los primeros auxilios;
 
-VII. Labores insalubres y peligrosas que no deban desempeñar las mujeres y los menores;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+VII.- Labores insalubres y peligrosas que no deben desempeñar los menores y la protección que deben tener las trabajadoras embarazadas;
 
 VIII. Tiempo y forma en que los trabajadores deben someterse a los exámenes médicos, previos o periódicos, y a las medidas profilácticas que dicten las autoridades;
 
@@ -3314,7 +3340,7 @@ Lo dispuesto en el párrafo anterior es aplicable, en el caso de que se reanuden
 
 Cuando se trate de la implantación de maquinaria o de procedimientos de trabajo nuevos, que traiga como consecuencia la reducción de personal, a falta de convenio, el patrón deberá obtener la autorización de la Junta de Conciliación y Arbitraje, de conformidad con lo dispuesto en el artículo 782 y siguientes. Los trabajadores reajustados tendrán derecho a una indemnización de cuatro meses de salario, más veinte días por cada año de servicios prestados o la cantidad estipulada en los contratos de trabajo si fuese mayor y a la prima de antigüedad a que se refiere el artículo 162.
 
-## TITULO NOVENO. Riesgos de Trabajo
+## TITULO OCTAVO. Huelgas
 
 ### CAPITULO III. Procuraduría de la Defensa del Trabajo
 
@@ -3576,7 +3602,7 @@ III. Si el escrito se presenta ante la Junta de Conciliación y Arbitraje, el Pr
 
 IV. Si el escrito se presenta ante las otras autoridades a que se refiere la fracción I, éstas, bajo su más estricta responsabilidad, harán llegar directamente a los patrones la copia del escrito de emplazamiento dentro de las veinticuatro horas siguientes a la de su recibo. Una vez hecho el emplazamiento, remitirán el expediente a la Junta de Conciliación y Arbitraje dentro del mismo término de veinticuatro horas.
 
-## TITULO DECIMO. Prescripción
+## TITULO NOVENO. Riesgos de Trabajo
 
 ###### Artículo 472.
 
@@ -3762,9 +3788,13 @@ I. La viuda, o el viudo que hubiese dependido económicamente de la trabajadora 
 
 II. Los ascendientes concurrirán con las personas mencionadas en la fracción anterior, a menos que se pruebe que no dependían económicamente del trabajador;
 
-III. A falta de viuda, concurrirá con las personas señaladas en las dos fracciones anteriores, la mujer con quien el trabajador vivió como si fuera su marido durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieran permanecido libres de matrimonio durante el concubinato, pero si al morir el trabajador tenía varias concubinas, ninguna de ellas tendrá derecho a la indemnización;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
-IV. A falta de viuda, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con la concubina que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada una dependía de él; y
+III.- A falta de cónyuge supérstite, concurrirá con las personas señaladas en las dos fracciones anteriores, la persona con quien el trabajador vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio durante el concubinato, pero si al morir el trabajador, hombre o mujer mantenía relaciones de concubinato con varias personas, ninguna de ellas tendrá derecho a la indemnización.
+
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+
+IV.- A falta de cónyuge supérstite, hijos y ascendientes, las personas que dependían económicamente del trabajador concurrirán con el concubino, hombre o mujer, que reúna los requisitos señalados en la fracción anterior, en la proporción en que cada uno dependía de él.
 
 V. A falta de las personas mencionadas en las fracciones anteriores, el Instituto Mexicano del Seguro Social.
 
@@ -3893,6 +3923,8 @@ Para los efectos de este Título, la Ley adopta la siguiente:
 ###### Artículo 515.
 
 La Secretaría del Trabajo y Previsión Social realizará las investigaciones y estudios necesarios, a fin de que el Presidente de la República pueda iniciar ante el Poder Legislativo la adecuación periódica de las tablas a que se refieren los artículos 513 y 514 al progreso de la Medicina del Trabajo.
+
+## TITULO DECIMO. Prescripción
 
 ###### Artículo 516.
 
@@ -6300,7 +6332,7 @@ La solicitud deberá contener una exposición de los hechos y causas que dieron 
 
 ###### Artículo 792.
 
-el patrón presentará con su solicitud:
+El patrón presentará con su solicitud:
 
 I. Los documentos públicos o privados que tiendan a comprobar la situación de la empresa o establecimiento y la necesidad de las medidas que solicite;
 
@@ -7135,3 +7167,7 @@ D.O.F. 24 DE DICIEMBRE DE 1974.
 DECRETO QUE REFORMA EL ARTICULO 95 DE LA LEY FEDERAL DEL TRABAJO.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1974.
+
+UNICO.-El presente Decreto entrará en vigor sesenta días después de su publicación en el "Diario Oficial" de la Federación.
