@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1956-12-31"
+last_updated: "1963-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1956.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -58,9 +58,9 @@ a). Los billetes del Banco de México, S.A., con las denominaciones que fijen su
 
 b). Las monedas de plata de uno, cinco y diez pesos con los diámetros, leyes, pesos, cuños y demás características que señalen los decretos relativos.
 
-> <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
-c). Las monedas de bronce de cincuenta centavos, con el diámetro, composición de liga metálica, peso, cuños y demás características que señala el decreto relativo;
+c). Las monedas de cuproníquel de cincuenta y de veinticinco centavos, con el diámetro, composición de liga metálica, peso, cuños y demás características que señala el decreto relativo;
 
 > <small>(REFORMADO, D.O.F. 15 DE SEPTIEMBRE DE 1955)</small>
 
@@ -531,3 +531,9 @@ Consiguientemente, desde la fecha en que entre en vigor el presente decreto, dej
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+Artículo Primero.- Se deroga el artículo 2o., del decreto del 13 de septiembre de 1955. Las monedas en circulación a que se refiere el artículo que se deroga continuarán sujetas a lo dispuesto en el artículo 2o. Transitorio de la Ley Monetaria.
+
+Artículo Segundo.- El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
