@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1992-10-03"
+last_updated: "1993-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO, REGLAMENTARIA DEL TITULO TERCERO DE LA CONSTITUCION POLITICA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1993.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -577,11 +577,11 @@ IV.(ADICIONADA, P.O. 9 DE ABRIL DE 1991)
 
 Con la formulación del Reglamento Interior de la Contaduría Mayor de Hacienda.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
 
 ###### Artículo 38.
 
-Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba resolver, erigiéndose en jurado de acusación y de sentencia, conforme lo preceptuado por el Art. 49, de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el Art. 50 de la propia Constitución, y con sujeción a los procedimientos que establece el título IX de esta Ley.
+Corresponde a la Comisión de Responsabilidades, el conocimiento de los asuntos en los que el Congreso deba de resolver, erigiéndose en jurado de acusación y de sentencia, conforme a lo preceptuado por el artículo 49, de la Constitución Política del Estado; o en jurado de procedencia, conforme a lo dispuesto por el artículo 50 de la propia Constitución, de acuerdo a los procedimientos que establece el Título Noveno de esta Ley; así como el conocimiento, estudio y dictamen de los asuntos relacionados con las declaraciones de situación patrimonial.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 1992)</small>
 
@@ -1375,7 +1375,9 @@ Son funciones específicas del Oficial Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
-II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados;
+> <small>(REFORMADA, P.O. 8 DE JULIO DE 1993)</small>
+
+II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados, así como con el previo acuerdo de la Comisión de Responsabilidades, coordinar todo lo relativo a las declaraciones de situación patrimonial;
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
@@ -1391,6 +1393,14 @@ VII. Cuidar el archivo, de acuerdo con las disposiciones que dicte la Presidenci
 
 VIII. Cuidar de que haya en existencia, suficiente papelería y útiles de oficina, para el desempeño de las funciones a cargo de la Secretaría.
 
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993)</small>
+
+IX. Recibir y extender el acuse correspondiente, de las declaraciones de situación patrimonial que en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, se presenten ante el Congreso de la Entidad, así como coordinar, supervisar y substanciar lo relativo al registro, control y verificación de las declaraciones de situación patrimonial a través de la Dirección respectiva; así como citar y requerir en los términos de Ley a quienes no cumplan con dicha obligación; y
+
+> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1993)</small>
+
+X. Las demás que le confieran la presente ley y su reglamento.
+
 > <small>(REFORMADA SU NUMERACION, P.O. 16 DE ENERO DE 1992)</small>
 
 ## TITULO NOVENO. Procedimiento en Materia de Responsabilidades de
@@ -1405,23 +1415,33 @@ QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
 Corresponde a la Comisión de Responsabilidades del Congreso del Estado, instruir los procedimientos de los asuntos en que la Legislatura deba resolver, erigida en jurado de acusación y en jurado de sentencia, en contra de los servidores públicos que señala el Art. 49 de la Constitución Política Local.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
 
 ###### Artículo 147.
 
-Las denuncias serán presentadas ante el Oficial Mayor del Congreso, quien asentará de inmediato la ratificación, previa identificación del denunciante.
+Las denuncias serán presentadas ante el Oficial Mayor del Congreso, quien dentro de los tres días hábiles siguientes asentará la ratificación, previa identificación del denunciante .
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+Hecha la ratificación, la turnará de inmediato a la Comisión de Responsabilidades, para que determine si es procedente o no la denuncia. De este trámite dará aviso a la Asamblea.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
 
 ###### Artículo 148.
 
-Turnada la denuncia a la Comisión de Responsabilidades, ésta dictaminará si la conducta atribuida corresponde a las enumeradas en el Art. 7º. De la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco y si el inculpado está comprendido entre los servidores públicos a que se refiere el Art. 2º. de la misma Ley, así como si la denuncia es procedente y, por lo tanto, amerita la incoación del procedimiento.
+Turnada la denuncia a la Comisión de Responsabilidades, ésta dictaminará en un plazo no mayor de 30 días hábiles, si la conducta atribuida corresponde a las enumeradas en el artículo 7º. de la Ley de Responsabilidades de los Servidores Públicos del estado de Jalisco y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º. de la misma Ley, así como si la denuncia es procedente y, por lo tanto, amerita la incoación del procedimiento.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1993)</small>
+
+En caso contrario, desechará de plano la denuncia, la cual podrá revisarse, a petición de parte por la Asamblea. Cuando una denuncia se hubiere desechado por insuficiencia de pruebas, con la presentación de pruebas supervenientes la Comisión podrá volverla a analizar.
+
+> <small>(ADICIONADO, P.O. 8 DE JULIO DE 1993)</small>
+
+Si resultare procedente la denunciae (sic) se presentará el dictamen a la Asamblea para su discusión y resolución.
+
+> <small>(REFORMADO, P.O. 8 DE JULIO DE 1993)</small>
 
 ###### Artículo 149.
 
-Dentro de los tres días hábiles siguientes al dictamen a que se hace referencia en el artículo anterior, la Comisión comunicará al denunciado sobre la materia de la denuncia, haciéndole saber su garantía de defensa y que puede, a su elección, comparecer o informar por escrito y ofrecer pruebas, dentro de los cinco días hábiles siguientes a la notificación.
+Dentro de los tres días hábiles siguientes a la aprobación del dictamen por parte de la Asamblea en que se declare la procedencia del juicio político, la Comisión comunicará al denunciado sobre la materia de la denuncia, haciéndose saber su garantía de defensa y que puede, a su elección, comparecer o informar por escrito y ofrecer pruebas, dentro de los cinco días hábiles siguientes a la notificación. La Comisión calificará la idoneidad de las pruebas, desechando las que a su juicio no sean pertinentes.
 
 > <small>(REFORMADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -1883,12 +1903,6 @@ DECRETO QUE REFORMA ART. 90.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
-P.O. 10 DE OCTUBRE DE 1989
-
-DECRETO QUE REFORMA ART. 90.
-
-Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
-
 P.O. 10 DE ABRIL DE 1990
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
@@ -1902,3 +1916,7 @@ Artículo Segundo. Este Decreto entrará en vigor al día siguiente de su public
 P.O. 3 DE OCTUBRE DE 1992
 
 Unico. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 8 DE JULIO DE 1993
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
