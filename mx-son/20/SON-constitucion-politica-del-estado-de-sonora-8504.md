@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1981-07-02"
+last_updated: "1983-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 2 DE JULIO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 3 DE ENERO DE 1983.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -388,6 +388,10 @@ VI. No pertenecer al estado eclesiástico, ni ser ministro de ningún culto reli
 VII. No haber sido diputado propietario en el período en que se fectúe (sic) la elección. Los suplentes podrán ser electos siempre que no hubiesen estado en ejercicio dentro de dicho período; pero los diputados propietarios no podrán ser electos con el carácter de suplentes.
 
 VIII. No haber sido diputado o senador propietario al Congreso de la Unión, dentro del período en que se celebre la elección. Los diputados y senadores suplentes podrán ser electos con el carácter de propietarios siempre que no hubiesen estado en ejercicio en el período en que se celebre la elección; pero los diputados y senadores propietarios no podrán ser electos con el carácter de suplentes.
+
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+
+IX. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
 ###### Artículo 34.
 
@@ -806,6 +810,10 @@ IV. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 V. No haber sido Magistrado del Supremo Tribunal o del Tribunal de lo Contencioso Administrativo, Procurador General de Justicia, Secretario o Subsecretario de Gobierno, Tesorero General del Estado, ni militar en servicio activo ni haber tenido mando de fuerzas dentro del Estado, en los seis meses inmediatamente anteriores al día de la elección.
 
 VI. No haber figurado, directa o indirectamente, en alguna asonada, motín o cuartelazo.
+
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+
+VII. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
 
 ###### Artículo 71.
 
@@ -1457,6 +1465,10 @@ II. Ser vecino del Municipio correspondiente con residencia efectiva, dentro del
 
 III. No desempeñar ningún cargo público en el municipio donde se hace la elección, ya dependa aquél del Estado o de la Federación; no estar en servicio activo en el ejército, ni tener mando de fuerzas en el mismo municipio, a menos de que, quien está comprendido en tales casos, se separe definitivamente de su empleo o cargo noventa días antes de la elección.
 
+> <small>(ADICIONADA, B.O. 3 DE ENERO DE 1983)</small>
+
+IV. No haber sido condenado por la Comisión de un delito intencional, aún cuando se haya cumplido la condena o extinguido la pena.
+
 ###### Artículo 134 Bis.
 
 (DEROGADO, B.O. 5 DE MAYO DE 1954)
@@ -2070,6 +2082,12 @@ B.O. 2 DE JULIO DE 1981.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Estado.
+
+B.O. 3 DE ENERO DE 1983.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
