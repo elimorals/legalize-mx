@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2000-03-31"
+last_updated: "2000-08-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE AGOSTO DE 2000.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -387,9 +387,11 @@ Cada municipio será administrado por un ayuntamiento de elección popular direc
 
 Los integrantes de los ayuntamientos de elección popular deberán cumplir con los requisitos previstos por la ley, y no estar impedidos para el desempeño de sus cargos, de acuerdo con los artículos 119 y 120 de la Constitución Política del Estado Libre y Soberano de México y se elegirán conforme a los principios de mayoría relativa y de representación proporcional, con dominante mayoritario.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+
 ###### Artículo 16.
 
-Los ayuntamientos se renovarán cada tres años, iniciarán su período el primero de enero del año siguiente al de las elecciones municipales ordinarias y lo concluirán el treinta y uno de diciembre del año de las elecciones para su renovación; y se integrarán por:
+Los ayuntamientos se renovarán cada tres años, iniciarán su periodo el 18 de agosto del año de las elecciones municipales ordinarias y lo concluirán el 17 de agosto del año de las elecciones para su renovación; y se integrarán por:
 
 > <small>(REFORMADA, G.G. 2 DE MARZO DE 1996)</small>
 
@@ -407,15 +409,19 @@ III. Un presidente, dos síndicos y nueve regidores, electos por planilla según
 
 IV. Un presidente, dos síndicos y once regidores, electos por planilla según el principio de mayoría relativa y un síndico y hasta ocho regidores designados por el principio de representación proporcional, cuando se trate de municipios que tengan una población de más de un millón de habitantes.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+
 ###### Artículo 17.
 
-El día quince de diciembre de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca de la gestión administrativa del cuerpo edilicio, relativos a los diversos ramos de la gestión y aplicación del ejercicio presupuestal; así mismo lo realizado respecto del plan municipal.
+El día 1 de agosto de cada año, el ayuntamiento se constituirá solemnemente en cabildo público, a efecto de que el presidente municipal informe por escrito acerca del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio.
 
 Dicho informe se publicará en la Gaceta Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+
 ###### Artículo 18.
 
-El día 30 de diciembre del último año de la gestión del ayuntamiento, en sesión solemne de cabildo deberán comparecer los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
+El día 17 de agosto del último año de la gestión del ayuntamiento, en sesión solemne de cabildo deberán comparecer los ciudadanos que, en términos de ley, resultaron electos para ocupar los cargos de presidente municipal, síndico o síndicos y regidores.
 
 La sesión tendrá por objeto:
 
@@ -425,11 +431,17 @@ I. Que los miembros del ayuntamiento entrante, rindan la protesta en términos d
 
 II. Que los habitantes del municipio conozcan los lineamientos generales del plan y programas de trabajo del ayuntamiento entrante, que será presentado por el presidente Municipal.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 11 DE AGOSTO DEL 2000)</small>
+
 ###### Artículo 19.
 
-A las nueve horas de el primer día del año siguiente en el que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el Ayuntamiento del Municipio de …, que deberá funcionar durante los años de …".
+A las nueve horas del día 18 de agosto del año en que se hayan efectuado las elecciones municipales, el ayuntamiento saliente dará posesión de las oficinas municipales a los miembros del ayuntamiento entrante, que hubieren rendido la protesta de ley, cuyo presidente municipal hará la siguiente declaratoria formal y solemne: "Queda legítimamente instalado el ayuntamiento del municipio de ..., que deberá funcionar durante los años de ...".
 
 A continuación se procederá a la suscripción de las actas y demás documentos relativos a la entrega-recepción de la administración municipal, con la participación de los miembros de los ayuntamientos y los titulares de sus dependencias administrativas salientes y entrantes, designados al efecto; la cual se realizará siguiendo los lineamientos, términos, instructivos, formatos, cédulas y demás documentación que disponga la Contaduría General de Glosa de la Legislatura del Estado para el caso, misma que tendrá en ese acto, la intervención que establezcan las leyes. La documentación que se señala anteriormente deberá ser conocida en la primera sesión de Cabildo por los integrantes del Ayuntamiento a los cuales se les entregará copia de la misma. El ayuntamiento saliente, a través del presidente municipal, presentará al ayuntamiento entrante, con una copia para la Legislatura, un documento que contenga sus observaciones, sugerencias y recomendaciones en relación a la administración y gobierno municipal.
+
+> <small>(ADICIONADO, G.G. 11 DE AGOSTO DEL 2000)</small>
+
+El ayuntamiento saliente realizara las acciones necesarias para dar cumplimiento a lo dispuesto en los artículos 18 y 19 de la presente Ley.
 
 ###### Artículo 20.
 
@@ -779,7 +791,9 @@ XIII. Vigilar que se integren y funcionen en forma legal las dependencias, unida
 
 XIV. Vigilar que se integren y funcionen los consejos de participación ciudadana municipal y otros órganos de los que formen parte representantes de los vecinos;
 
-XV.- Informar por escrito al ayuntamiento, el quince de diciembre de cada año, en sesión solemne de cabildo, del estado que guarda la administración municipal y de las labores realizadas durante el ejercicio;
+> <small>(REFORMADA, G.G. 11 DE AGOSTO DE 2000)</small>
+
+XV. Informar por escrito al ayuntamiento, el 1 de agosto de cada año, en sesión solemne de cabildo, del estado que guarda la administración pública municipal y de las labores realizadas durante el ejercicio;
 
 XVI. Cumplir y hacer cumplir dentro de su competencia, las disposiciones contenidas en las leyes y reglamentos federales, estatales y municipales, así como aplicar, a los infractores las sanciones correspondientes o remitirlos, en su caso, a las autoridades correspondientes;
 
@@ -1055,9 +1069,13 @@ Las comisiones del ayuntamiento carecen de facultades ejecutivas. Los asuntos y 
 
 Para la gestión, promoción y ejecución de los planes y programas municipales en las diversas materias, los ayuntamientos podrán auxiliarse de consejos de participación ciudadana municipal.
 
+> <small>(REFORMADO, G.G. 11 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 73.
 
-Cada consejo de participación ciudadana municipal se integrará con hasta cinco vecinos del municipio, uno de los cuales lo presidirá, y serán electos en las diversas localidades por quienes habitan en el ámbito de su comunidad, el último domingo del mes de enero del primer año de gobierno del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá publicar el propio ayuntamiento cuando menos diez días antes de esa fecha; o, en su caso, en la (s) fecha (s) señalada (s) en el calendario complementario que oportunamente apruebe el ayuntamiento para llevar a cabo la elección, el cual tendrá como fecha límite el 21 de marzo. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento.
+Cada consejo de participación ciudadana municipal se integrará hasta con cinco vecinos del municipio, con sus respectivos suplentes; uno de los cuales lo presidirá, otro fungirá como secretario y otro como tesorero y en su caso dos vocales, que serán electos en las diversas localidades por los habitantes de la comunidad, entre el último domingo del mes de octubre y el 15 de noviembre del año de la elección del ayuntamiento, en la forma y términos que éste determine en la convocatoria que deberá aprobar y publicar el ayuntamiento en los lugares mas visibles y concurridos de cada comunidad, cuando menos quince días antes de la elección. El ayuntamiento expedirá los nombramientos respectivos firmados por el presidente municipal y el secretario del ayuntamiento, entregándose a los electos a mas tardar el día en que entren en funciones, que será el día uno de diciembre del mismo año.
+
+Los integrantes del consejo de participación ciudadana que hayan participado en la gestión que termina no podrán ser electos a ningún cargo del consejo de participación ciudadana para el periodo inmediato siguiente.
 
 ###### Artículo 74.
 
@@ -1313,11 +1331,11 @@ VI. Las donaciones, herencias y legados que reciban.
 
 El gasto público comprende las erogaciones que por concepto de gasto corriente, inversión física, inversión financiera y cancelación de pasivo realicen los municipios.
 
+> <small>(REFORMADO, G.G. 11 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 99.
 
-El presidente municipal presentará anualmente al ayuntamiento a más tardar el quince de noviembre, el proyecto de presupuesto de egresos, para su consideración y aprobación.
-
-Tratándose del ejercicio que corresponda al inicio de la administración municipal, el ayuntamiento entrante deberá ratificar o, en su caso, proponer modificaciones al presupuesto correspondiente, a más tardar el día quince de febrero.
+El presidente municipal presentará anualmente al ayuntamiento a más tardar el 15 de noviembre, el proyecto de presupuesto de egresos, para su consideración y aprobación.
 
 ###### Artículo 100.
 
@@ -1401,7 +1419,7 @@ No podrán ser integrantes de los comités las personas que sean dirigentes de o
 
 Artículo 113 C.- Para cada obra estatal o municipal se constituirá un comité ciudadano de control y vigilancia. Sin embargo, en aquellos casos en que las características técnicas o las dimensiones de la obra lo ameriten, podrán integrarse más de uno.
 
-> <small>(ADICIONADO, G.G. 15 DE FEBRERO DE 1999)</small>
+ADICIONADO, G.G. 15 DE FEBRERO DE 1999)
 
 Artículo 113 D.- Los comités ciudadanos de control y vigilancia tendrán además, las siguientes funciones:
 
@@ -2114,3 +2132,9 @@ G.G. 31 DE MARZO DE 2000.
 PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta de Gobierno".
 
 SEGUNDO.- El presente decreto entrará en vigor el día de su publicación en la "Gaceta del Gobierno".
+
+G.G. 11 DE AGOSTO DE 2000.
+
+PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
