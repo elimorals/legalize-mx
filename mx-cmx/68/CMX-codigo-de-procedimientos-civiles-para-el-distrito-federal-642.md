@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1997-12-30"
+last_updated: "1998-05-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE MAYO DE 1998.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -3730,9 +3730,7 @@ Terminada la sección de ejecución se agregará al cuaderno principal del juici
 
 ARTICULO 474 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
-ARTICULO 475
-
-> <small>(DEROGADO, D.O.F. 21 DE ENERO DE 1967)</small>
+ARTICULO 475 (DEROGADO, D.O.F. 21 DE ENERO DE 1967)
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7066,39 +7064,57 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### CAPITULO IV. Adopción
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ARTICULO 923
 
-El que pretenda adoptar, deberá acreditar los requisitos señalados por el artículo 390 del Código Civil.
+El que pretenda adoptar deberá acreditar los requisitos señalados por el artículo 390 del Código Civil, debiéndose observar lo siguiente:
 
-En la promoción inicial deberá manifestar el nombre y edad del menor o incapacitado y el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o institución pública que lo hayan acogido y acompañar certificado médico de buena salud. Las pruebas pertinentes se recibirán sin dilación en cualquier día y hora hábil.
+I.- En la promoción inicial se deberá manifestar el tipo de adopción que se promueve, el nombre, edad y si lo hubiere domicilio del menor o persona con incapacidad que se pretende adoptar; el nombre, edad y domicilio de quienes en su caso ejerzan sobre él la patria potestad o tutela, o de la persona o institución de asistencia social pública o privada que lo haya acogido y acompañar certificado médico de buena salud. Los estudios socioeconómicos y psicológicos necesarios para efectuar el trámite de adopción deberán realizarse por el Sistema Nacional para el Desarrollo Integral de la Familia, directamente o por quien éste autorice;
 
-Cuando el menor hubiere sido acogido por una institución pública, el adoptante recabará constancia del tiempo de la exposición o abandono para los efectos del artículo 444 fracción IV del Código Civil.
+II.- Cuando el menor hubiere sido acogido por una institución de asistencia social pública o privada, el presunto adoptante o la institución según sea el caso, recabarán constancia del tiempo de la exposición o abandono para los efectos del artículo 444, fracción IV, del Código Civil;
 
-Si hubieren transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito del menor con el presunto adoptante, entre tanto se consuma dicho plazo.
+III.- Si hubieran transcurrido menos de seis meses de la exposición o abandono, se decretará el depósito de quien se pretende adoptar con el presunto adoptante, entre tanto se consuma dicho plazo;
 
-Si el menor no tuviere padres conocidos y no hubiere sido acogido por institución pública, se decretará el depósito con el presunto adoptante, por el término de seis meses para los mismo (sic) efectos.
+IV.- Si no se conociera el nombre de los padres o no hubiere sido acogido por institución de asistencia social, pública o privada, se decretará la custodia con el presunto adoptante, por el término de seis meses para los mismos efectos, siempre y cuando ello fuere aconsejable a criterio del Juez.
 
-> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 1971)</small>
+En los supuestos en que el menor haya sido entregado a dichas instituciones por quienes ejerzan en él la patria potestad, para promover su adopción en cualquiera de sus dos formas, no se requerirá que transcurra el plazo de seis meses a que se refiere el presente artículo, y
+
+V.- Tratándose de extranjeros se deberá acreditar su legal estancia o residencia en el país.
+
+Los extranjeros con residencia en otro país deberán presentar certificado de idoneidad expedido por la autoridad competente de su país de origen que acredite que el solicitante es considerado apto para adoptar; constancia de que el menor que se pretende adoptar ha sido autorizado para entrar y residir permanentemente en dicho Estado; autorización de la Secretaría de Gobernación para internarse y permanecer en el país con la finalidad de realizar una adopción.
+
+La documentación que presenten los solicitantes extranjeros en idioma distinto al español, deberá acompañarse de la traducción oficial.
+
+La documentación correspondiente deberá estar apostillada o legalizada por el Cónsul mexicano.
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ARTICULO 924
 
-Rendidas las justificaciones que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo conforme a los artículos 397 y 398 del Código Civil, el Juez de lo Familiar resolverá dentro del tercer día lo que proceda sobre la adopción.
+Rendidas las constancias que se exigen en el artículo anterior y obtenido el consentimiento de las personas que deben darlo, conforme al Código Civil, el Juez de lo Familiar resolverá dentro del tercer día, lo que proceda sobre la adopción.
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ARTICULO 925
 
-Cuando el adoptante y el adoptado pidan que la adopción sea revocada, el juez los citará a una audiencia verbal para dentro de los tres días siguientes, en la que resolverá conforme a lo dispuesto en el artículo 407 del Código Civil.
+Cuando el adoptante y el adoptado pidan que la adopción simple sea revocada, el Juez los citará a una audiencia verbal, para que dentro de los tres días siguientes, se resuelva conforme a lo dispuesto en el artículo 407 del Código Civil.
 
-> <small>(REFORMADO, D.O.F. 17 DE ENERO DE 1970)</small>
+Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al Código Civil, cuando fuere conocido su domicilio o, en su caso, se oirá al Ministerio Público.
 
-Si el adoptado fuere menor de edad, para resolver sobre la revocación se oirá previamente a las personas que prestaron su consentimiento conforme al artículo 397 del Código Civil, cuando fuere conocido su domicilio, o su caso se oirá al representante del Ministerio Público y al Consejo de Tutelas.
+Para acreditar cualquier hecho relativo a la revocación, las partes podrán ofrecer toda clase de pruebas, conforme a las disposiciones de este Código.
 
-Para acreditar cualquier hecho relativo a la conveniencia de la revocación, en los casos del artículo anterior, pueden rendirse toda clase de pruebas.
+> <small>(ADICIONADO, D.O.F. 28 DE MAYO DE 1998)</small>
+
+ARTICULO 925 A
+
+Cuando el adoptante o adoptantes soliciten la conversión de la adopción simple a plena y se reúnan los requisitos previstos en el artículo 404 del Código Civil, el Juez los citará a una audiencia verbal dentro de los ocho días siguientes con la intervención del Ministerio Público, luego de la cual se resolverá lo conducente, en el término de ocho días.
+
+> <small>(REFORMADO, D.O.F. 28 DE MAYO DE 1998)</small>
 
 ARTICULO 926
 
-La impugnación de la adopción y su revocación, en los casos de los artículos 394 y 405 fracción II del Código Civil, no pueden promoverse en diligencias de jurisdicción voluntaria.
+Los procedimientos de revocación en materia de adopción simple, se seguirán por la vía ordinaria.
 
 ### CAPITULO V. De las informaciones ad perpetuam
 
@@ -8141,3 +8157,13 @@ D.O.F. 30 DE DICIEMBRE DE 1997.
 PRIMERO.- Este Decreto entrará en vigor a los treinta días de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los procedimientos de carácter civil que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, se substanciarán y resolverán conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 28 DE MAYO DE 1998.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las adopciones que se encuentren en trámite a la fecha de publicación de las presentes reformas se resolverán de acuerdo con las disposiciones vigentes hasta antes de la publicación del presente Decreto.
+
+No obstante, si en las adopciones que actualmente se tramitan hubiere la voluntad del adoptante de obtener la adopción plena, podrá seguirse el procedimiento establecido por el presente Decreto.
+
+Las adopciones realizadas con anterioridad a la entrada en vigor del presente Decreto podrán convertirse a plenas, de acuerdo con los requisitos y procedimientos establecidos por este Decreto.
