@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-impuesto-predial-10738"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1995-12-28"
+last_updated: "1996-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL IMPUESTO PREDIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial, el 31 de diciembre de 1986.
 
@@ -389,7 +389,7 @@ XI.- No cumplir con los requerimientos de las Autoridades.
 
 XII.- No citar el número de cuenta del predio en los avisos o declaraciones o citarlo incorrectamente.
 
-> <small>(REFORMADO, P.O. 31 DICIEMBRE DE 1992)</small>
+> <small>(N. DE E., COMO SE OBSERVA EL PRESENTE ARTICULO CARECE DE FRACCIONES, SIN EMBARGO EN EL P.O. DEL 31 DE DICIEMBRE DE 1996 SE ADICIONA LA FRACCION XI Y XII; ADICION QUE NO ES POSIBLE APLICAR.)</small>
 
 ###### ARTÍCULO 38.
 
@@ -510,3 +510,9 @@ P.O. 28 DE DICIEMBRE DE 1995
 PRIMERO Esta Ley entrará en vigor el día primero de Enero de 1995.
 
 SEGUNDO Se derogan todas las disposiciones que se opongan a la presente ley.
+
+P.O. 31 DE DICIEMBRE DE 1996
+
+###### ARTICULO UNICO.
+
+LA PRESENTE LEY ENTRARA EN VIGOR A PARTIR DEL DIA 1o. DE ENERO DE 1997.
