@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-7928"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-16"
-last_updated: "2003-09-16"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el viernes 16 de junio de 1995.
 
@@ -65,17 +65,21 @@ En el proceso educativo deberá asegurarse que la participación del educando se
 
 Todos los individuos tienen derecho a recibir educación, con las mismas oportunidades de acceso al sistema educativo estatal, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 5º.
 
-El Gobierno del Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación primaria y secundaria.
+El Gobierno del Estado está obligado a prestar servicios educativos para que toda la población pueda cursar la educación preescolar, primaria y secundaria.
 
 Estos servicios se prestarán en el marco del federalismo y la concurrencia, previstos en la Constitución Política de los Estados Unidos Mexicanos, en la Ley General de Educación y conforme a la distribución de la función social educativa establecida en la presente Ley.
 
 Atenderá también la educación inicial, preescolar, indígena, especial y normal, así como las que contribuyen a la formación de docentes.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 6º.
 
-Los habitantes de la entidad deben cursar la educación primaria y secundaria y los padres o tutores están obligados a hacer que sus hijos o pupilos, menores de edad cursen ambos niveles educativos.
+Los habitantes de la Entidad deben cursar la educación preescolar, primaria y secundaria; y los padres o tutores están obligados a hacer que sus hijos o pupilos, menores de edad, cursen ambos niveles educativos.
 
 ###### ARTICULO 7º.
 
@@ -209,7 +213,9 @@ III.- Prestar los servicios de educación inicial, básica, incluyendo la indíg
 
 IV.- Aplicar los planes y programas de estudios oficiales en las escuelas de educación básica, normal y demás para la formación de maestros de educación básica;
 
-V.- Proponer a la Secretaría de Educación Pública de la Administración Pública Federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación primaria, secundaria, normal y demás para la formación de maestros de educación básica;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2004)</small>
+
+V.- Proponer a la Secretaría de Educación Pública de la Administración Pública Federal, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica;
 
 VI.- Ajustar, en su caso, el calendario escolar para cada ciclo lectivo en las escuelas oficiales, particulares incorporadas de educación primaria, secundaria, normal y demás para la formación de maestros, de acuerdo con las necesidades del servicio educativo en la entidad, con respeto a lo establecido por la Secretaría de Educación de la Administración Pública Federal;
 
@@ -355,9 +361,11 @@ La modalidad mixta, es aquella en la que el proceso de enseñanza aprendizaje se
 
 La educación inicial, es una prestación de servicios que está dirigida a niños menores de cuatro años de edad y tiene como propósito favorecer el desarrollo de las capacidades físicas, cognoscitivas, afectivas y sociales del infante. Se atiende en dos modalidades: la escolarizada para las zonas urbanas y la no escolarizada en comunidades urbano-marginadas y rurales; comprendida la orientación a padres de familia o tutores.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 32.
 
-La educación preescolar, constituye el primer nivel de la educación básica. Tiene como propósito promover el desarrollo integral del niño, y no es un antecedente obligatorio para cursar la educación primaria.
+La educación preescolar, constituye el primer nivel de la educación básica. Tiene como propósito promover el desarrollo integral del niño y es obligatoria para cursar la educación primaria.
 
 ###### ARTICULO 33.
 
@@ -445,9 +453,11 @@ IV.- Criterios y procedimientos de evaluación y acreditación, para verificar q
 
 Los programas de estudio fijan los propósitos específicos de aprendizaje y determinan el orden y distribución de los contenidos educativos mínimos de cada grado, área o asignatura de un ciclo escolar, así como los criterios y procedimientos que servirán de base para su evaluación y acreditación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE FEBRERO DE 2004)</small>
+
 ###### ARTICULO 43.
 
-En los niveles de educación, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad los planes y programas de estudio, determinados por la Secretaría de Educación Pública de la Administración Pública Federal.
+En los niveles de educación preescolar, primaria, secundaria, normal y demás para la formación de maestros de educación básica, serán obligatorios en esta Entidad los planes y programas de estudio determinados por la Secretaría de Educación Pública de la Administración Pública Federal.
 
 La Autoridad Educativa Local, dará a conocer a la Secretaría de Educación de la Administración Pública Federal sus opiniones sobre planes y programas de estudio y propondrá para su consideración y, en su caso, para su autorización, contenidos regionales que sin mengua de carácter nacional de los planes y programas citados, permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, tradiciones y demás aspectos propios de la entidad y sus respectivos municipios.
 
@@ -771,7 +781,9 @@ De la Educación que Impartan los Particulares.
 
 Los particulares podrán impartir educación en todos sus tipos y modalidades.
 
-Para impartir la educación primaria, secundaria, normal y demás para la formación de docentes de educación básica, deberán obtener previamente, la autorización expresa de la autoridad educativa estatal.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+Para impartir la educación preescolar, primaria, secundaria, normal y demás para la formación de docentes de educación básica, deberán obtener previamente la autorización expresa de la autoridad educativa estatal.
 
 Cuando se trate de estudios distintos de los antes mencionados, podrán obtener el reconocimiento de validez oficial de la autoridad educativa estatal.
 
@@ -1238,6 +1250,12 @@ P.O. 16 DE SEPTIEMBRE DE 2003.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+PRIMERO. Previa su publicación en el Periódico Oficial del Estado, el presente Decreto entrará en vigor el día siguiente al de su publicación, en el mismo órgano informativo oficial, del diverso Decreto por el que se reforman los párrafos primero y cuarto del artículo 10 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
 
 ## TRANSITORIOS
 
