@@ -4,7 +4,7 @@ identifier: "COL-ley-general-de-hacienda-municipal-3994"
 country: "mx"
 rank: "ley_general"
 publication_date: "1994-04-16"
-last_updated: "1994-04-16"
+last_updated: "1995-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY GENERAL DE HACIENDA MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1995.
 
 Ley publicada en el Periódico Oficial "El Estado de Colima", sábado 16 de abril de 1994.
 
@@ -754,6 +754,10 @@ En todo caso, los bienes inmuebles objeto del impuesto garantizarán preferentem
 ###### ARTICULO 81.
 
 Será base de este impuesto, el valor que resulte mayor entre el señalado como precio de la transmisión, el de avalúo bancario y el catastral.
+
+> <small>(ADICIONADO, P.O. 21 ENERO DE 1995)</small>
+
+El contribuyente podrá optar por considerar como base gravable para el pago de este impuesto, el valor de adquisición del inmueble disminuido con el valor que se tomó como base para calcular el impuesto a que se refiere este capítulo en su última adquisición, siempre que la misma se hubiere efectuado dentro de los tres años anteriores a la adquisición por la que se calcula el impuesto.
 
 ###### ARTICULO 82.
 
@@ -1890,3 +1894,9 @@ Dado en el Recinto Oficial del Poder Legislativo a los siete días del mes de ab
 Por lo tanto mando se imprima, publique, circule y observe.
 
 Dado en Palacio de Gobierno, a los 8 días del mes de abril 1994.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, RAMON PEREZ DIAZ.- Rúbrica.- EL SECRETARIO DE FINANZAS, M. ERNESTO TERRIQUEZ SAMANO.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA"
