@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1982-09-02"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -231,7 +231,9 @@ VII. Multa;
 
 VIII. Decomiso o destrucción de cosas peligrosas o nocivas;
 
-IX. Decomiso de los instrumentos del delito;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+IX. Decomiso de los instrumentos y del producto del delito;
 
 X. Amonestación;
 
@@ -307,15 +309,15 @@ La multa se impondrá a razón de días de salario. Para calcular el importe de 
 
 Cuando varias personas cometan el delito, el juez fijará la multa por cada uno de los delincuentes, según su participación en el hecho delictuoso y sus condiciones económicas.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ## TITULO TERCERO. APLICACION DE SANCIONES
 
 ### CAPITULO VI. Reparación del daño
 
 ###### Art. 28.
 
-Los instrumentos y objetos con que se cometa o intente cometer un delito doloso se decomisarán, si son de uso prohibido. Los instrumentos de uso lícito a que se refiere este artículo se decomisarán al acusado solamente cuando fuere condenado.
-
-En los delitos culposos no se decretara el decomiso de los instrumentos cuando sean de uso lícito.
+Los instrumentos, objetos y cualquiera otra cosa con que se cometa o intente cometer un delito, así como los que sean producto de él, se decomisarán si son de uso prohibido. Los objetos de uso lícito, a que se refiere este artículo, se decomisarán al acusado, solamente cuando fuere condenado por delito doloso. Si pertenecen a terceras personas, solo se decomisarán cuando hayan sido empleados para fines delictuosos, con conocimiento de su dueño.
 
 ### CAPITULO VII. Multa
 
@@ -331,7 +333,9 @@ La amonestación consiste en la advertencia que el juez hace al sentenciado, en 
 
 El apercibimiento consiste en la conminación que el juez hace al sentenciado para que no delinca, cuando se tema con fundamento que está en disposición de cometer otro delito, por su actitud.
 
-### CAPITULO VIII. Decomiso de los instrumentos del delito
+### CAPITULO VIII. Decomiso de los instrumentos y del producto del delito
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 32.
 
@@ -877,7 +881,9 @@ I. Abolir o reformar la Constitución Política del Estado o las Instituciones q
 
 II. Impedir la integración de nuevas instituciones o el libre ejercicio de las ya existentes;
 
-III. Separar de su cargo o impedirle el ejercicio del mismo a cualquiera de los funcionarios estatales que estando comprendidos en la Ley Orgánica de Responsabilidades de funcionarios públicos, no lo estén en la hipótesis materia del Artículo 132, Fracción III, parte final del Código Penal Federal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+III. Separar de su cargo o impedirle el ejercicio del mismo a cualquiera de los servidores estatales que estando comprendidos en la Ley de Responsabilidades de los Servidores Públicos, no lo estén en la hipótesis material del Art. 132, frac. III, parte final del Código Penal Federal; y
 
 IV. Sustraer de la obediencia del Gobierno del Estado, alguna población o fuerza pública.
 
@@ -947,9 +953,11 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 No se impondrá sanción al preso que se fugue, sino cuando obre de acuerdo con otro u otros presos y se fugue alguno de ellos o cuando ejerza violencia en las personas o en las cosas, en cuyo caso la sanción aplicable será de seis meses a tres años de prisión.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 117.
 
-Se impondrán de tres meses a dos años de prisión, destitución del cargo o empleo, a los funcionarios, empleados o agentes de la Administración pública que ordenen o permitan la salida ilegal de detenidos, procesados o sentenciados, para que por cualquier tiempo permanezcan fuera de las prisiones.
+Se impondrán de tres meses a dos años de prisión, destitución del cargo o empleo, a los servidores públicos o agentes de la Administración Pública que ordenen o permitan la salida ilegal de detenidos, procesados o sentenciados, para que por cualquier tiempo permanezcan fuera de las prisiones.
 
 ### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo público
 
@@ -965,6 +973,8 @@ Se impondrán de seis meses a dos años de prisión al que ilícitamente, sumini
 
 ### CAPITULO IV. Delitos cometidos contra representantes de la autoridad
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 120.
 
 Se impondrán de uno a tres años de prisión al que forme parte de una asociación o banda de tres o más personas unidas en forma indeterminada, bajo una jerarquía, con la finalidad de cometer uno o varios delitos no previstos específicamente al momento de la asociación, independientemente de la sanción que le corresponda por el o los delitos que lleguen a cometerse.
@@ -977,7 +987,9 @@ Se impondrá de seis meses a tres años de prisión a los que ejecuten en pandil
 
 Se entiende por pandilla la reunión de tres o más personas que, sin estar organizadas con fines delictivos, cometen en común algún delito, si éste no es consecuencia de un acuerdo previo a la reunión.
 
-Sólo podrá darse esta figura en la comisión de los delitos; contra la vida y la integridad corporal, sexuales, robo, ataques a las vías de comunicación, delitos contra la Autoridad, ultrajes a la moral pública, allanamiento de morada, asalto, privación ilegal de la libertad, plagio, secuestro, rapto, daño a las cosas y despojo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Sólo podrá darse esta figura en la comisión de los delitos: contra la vida y la integridad corporal; sexuales; ataques a las vías de comunicación; delitos contra la autoridad; ultrajes a la moral pública; allanamiento de morada; asalto; privación ilegal de la libertad; plagio; secuestro; rapto daño a las cosas y despojo.
 
 ### CAPITULO II. Corrupción de menores
 
@@ -1019,7 +1031,9 @@ Las disposiciones de este título sólo tendrán aplicación cuando se trate de 
 
 ## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
 
-### CAPITULO I. Ejercicio indebido y abandono de funciones públicas
+### CAPITULO I. Reglas Generales
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 128.
 
@@ -1043,17 +1057,17 @@ El que en una averiguación o en un juicio, sin que concurra alguna de las excep
 
 > <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
 
-### CAPITULO II. Abuso de autoridad
+### CAPITULO II. Ejercicio indebido y abandono del servicio público
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 131.
 
 Se impondrán de tres meses a tres años de prisión al que entorpezca o se oponga con actos materiales a la ejecución de obras o trabajos públicos, legalmente ordenados por la autoridad competente y que hayan sido notificados previamente al interesado.
 
-### CAPITULO III
+### CAPITULO III. Abuso de autoridad
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
-
-Coalición
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 132.
 
@@ -1061,9 +1075,11 @@ Se impondrán de tres meses a tres años de prisión al que quebrantare indebida
 
 ### CAPITULO IV. Cohecho
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 133.
 
-Se impondrán de quince días a seis meses de prisión al que cometa un delito en contra de un funcionario público o de cualquier empleado de la administración pública, en el acto de ejercer sus funciones o con motivo de ellas, además de las sanciones que le correspondan por el delito o los delitos cometido.
+Se impondrán de quince días a seis meses de prisión al que cometa un delito en contra de cualquier servidor público de la Administración, en el acto de ejercer sus funciones o con motivo de ellas, además de las sanciones que le correspondan por el delito o los delitos cometidos.
 
 ###### Art. 134.
 
@@ -1073,7 +1089,7 @@ Se impondrán de quince días a seis meses de prisión al que, por medio de la i
 
 ### CAPITULO V. Peculado
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 135.
 
@@ -1086,6 +1102,8 @@ II. Al que en sitio público y por cualquier medio ejecute, o haga ejecutar por 
 III. Al que invite a otro a la explotación carnal de su cuerpo.
 
 ### CAPITULO VI. Concusión
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 136.
 
@@ -1104,6 +1122,8 @@ Se impondrán de un mes a tres años de prisión y cierre temporal o definitivo 
 Cuando el que corrompa o emplee al menor, sea pariente consanguíneo dentro del tercer grado, padrastro, madrastra, maestro, responsable de su guarda o tutor de aquél, se privará al reo de todo derecho a la sucesión de los bienes del ofendido y de la patria potestad sobre él o sus descendientes y se le inhabilitará para ser tutor o curador.
 
 ### CAPITULO VII. Delitos Cometidos en la Custodia o Guarda de Documentos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 139.
 
@@ -1125,13 +1145,25 @@ Si la víctima del lenocinio es menor de edad, la pena será de tres a diez año
 
 Se impondrán de dos meses a dos años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario al que deliberadamente dedique o dé en arrendamiento una finca para ser destinada al comercio carnal.
 
-### CAPITULO VIII. Delitos cometidos en la administración de justicia y en otros ramos del poder público
+### CAPITULO VIII. Desvío y Aprovechamiento Indebido de Atribuciones y Facultades
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 142.
 
 Se impondrán de uno a seis meses de prisión al que provoque públicamente a cometer algún delito o haga apología de éste o de algún vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
-## TITULO SEPTIMO. DELITOS COMETIDOS POR FUNCIONARIOS O EMPLEADOS PUBLICOS
+## TITULO SEPTIMO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO IX. Enriquecimiento Ilícito
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO X. Delitos cometidos en la administración de justicia y en otros ramos del poder público
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ### CAPITULO I. Delito de abogados, patronos y litigantes
 
@@ -1149,181 +1181,255 @@ pública o de los documentos de crédito
 
 ### CAPITULO V. Falsedad en declaraciones y en informes dados a una autoridad
 
-### CAPITULO VI. Variación del nombre o del domicilio
-
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de uniformes o insignias
-
 ## TITULO OCTAVO. RESPONSABILIDAD PROFESIONAL
 
-### CAPITULO VIII. Reglas generales
+### CAPITULO VI. Variación del nombre o del domicilio
 
 ###### Art. 143.
 
 Se impondrán de dos meses a un año de prisión al que sin justa causa, con perjuicio de alguien y sin consentimiento, revele algún secreto o comunicación reservada que conoce o ha recibido con motivo de la confianza en él depositada. Estos casos solo se perseguirán por querella de la parte ofendida.
 
-Cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos, funcionario o empleado público, o cuando el secreto revelado o publicado sea de carácter industrial, se impondrán de uno a tres años de prisión y suspensión de profesión o cargo, de dos meses a un año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+Cuando la revelación punible sea hecha por cualquier servidor público que preste servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, se impondrán de uno a tres años de prisión y suspensión de profesión o cargo, de dos meses a un año.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de uniformes o insignias
+
+### CAPITULO VIII. Reglas generales
 
 ### CAPITULO UNICO. Vagancia y malvivencia
+
+## TITULO NOVENO. FALSEDAD
 
 ### CAPITULO I. Atentados al pudor
 
 > <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
 
-### CAPITULO II. Estupro
-
-## TITULO NOVENO. FALSEDAD
-
-### CAPITULO III. Violación
-
 ###### Art. 144.
 
-Se impondrán de tres meses a tres años de prisión a los funcionarios o empleados públicos que incurran en algún caso de las fracciones siguentes (sic):
+Para los efectos de este título:
 
-I. Al que ejerza las funciones de su empleo, cargo o comisión sin haber tomado posesión legítima o sin llenar todos los requisitos legales;
+I. Son servidores públicos: los representantes de elección popular, los miembros del Poder Judicial del Estado, y, en general, toda persona que desempeñe un cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o de los Municipios, así como quienes presten servicios en los organismos públicos descentralizados y empresas de participación estatal o municipal mayoritaria, o fideicomisos públicos;
 
-II. Al que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de notificado sobre la revocación de su nombramiento o sobre la destitución decretada por quien tenga facultades para hacerlo;
+II. Para la individualización de las sanciones previstas en este título, el juez tomará en cuenta, en su caso, si el servidor público es trabajador de base o de confianza; su antigüedad en el empleo; sus antecedentes de servicio; sus percepciones; su grado de instrucción; y las circunstancias especiales de los hechos constitutivos del delito. Sin perjuicio de lo anterior, la categoría de servidor público de confianza será una circunstancia que podrá dar lugar a una agravación de la pena;
 
-III. Al que, nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
+III. Salvo los casos establecidos en el Art. 145, frac. II, excepto que se encuentre suspendido el servidor público, y la V, de este Código, en todos los demás casos, se impondrá al responsable la sanción de destitución de su empleo, cargo o comisión; y
 
-Lo prevenido en las dos fracciones anteriores no comprende el caso en que al funcionario o empleado público, que deba cesar en sus funciones, se le ordene que continúe en ellas entre tanto se presenta la persona que haya de sustituirlo, siempre que la Ley no lo prohiba.
+IV. A los responsables de alguno de los delitos a que se refiere este título, independientemente de otras sanciones, se les inhabilitará para trabajar como servidores públicos, hasta por seis años, notificando tal resolución a la Contraloría General del Estado para su registro.
 
-IV. Al funcionario publico o agente del Gobierno que suponga y ejerza alguna comisión, empleo o cargo distinto del que realmente tuviese; y
-
-V. Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo, o antes de que se presente la persona que haya de reemplazarlo, lo abandone sin causa justificada.
-
-### CAPITULO I. De la suposición y supresión del estado civil
+### CAPITULO II. Estupro
 
 ###### Art. 145.
 
-Se impondrán de seis meses a tres años de prisión y destitución de su empleo, a todo funcionario o empleado público, sea cual fuere su categoría, en cualquiera de los casos siguientes:
+Se impondrán de tres meses a tres años de prisión y multa de treinta a ciento noventa y seis días de salario, a los servidores públicos que incurran en alguno de los casos siguientes:
 
-I. Cuando, para impedir la ejecución de una Ley, Decreto o Reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, emplee la fuerza pública con este objeto;
+I. Que ejerza las funciones de su empleo, cargo o comisión, sin haber tomado posesión legítima o sin llenar todos los requisitos legales;
 
-II. Cuando en el ejercicio de sus funciones, o con motivo de ellas, hiciere violencia a una persona sin causa legítima, la vejare o tratare con deshonestidad;
+II. Que continúe ejerciendo las funciones de un empleo, cargo o comisión, después de notificado sobre la revocación de su nombramiento o de la suspensión, o destitución decretada, por quien tenga facultades para hacerlo;
 
-III. Cuando, deliberadamente retarde o niegue a los particulares la protección o servicio que tenga obligación de otorgarles, o impida la presentación o el curso de una solicitud;
+III. Que nombrado por tiempo limitado, continúe ejerciendo sus funciones después de cumplido el término por el cual se le nombró.
 
-IV. Cuando ejecute, autorice o permita cualquier acto atentatorio a los derechos garantizados por la Constitución;
+Lo prevenido en las dos fracciones anteriores no comprende el caso en que al servidor público, que deba cesar en sus funciones, se le ordene que continúe en ellas, entre tanto se presenta la persona que haya de substituirlo, siempre que la Ley no lo prohiba;
 
-V. Cuando el encargado de una fuerza pública, requerido legalmente por una autoridad para que le preste auxilio, se niegue indebidamente a dárselo;
+IV. Que ejerza alguna comisión, empleo o cargo distinto del que realmente tuviese;
 
-VI. Cuando con cualquier pretexto obtenga de un subalterno parte o todo el sueldo de éste, o le exija dádivas;
+V. Que sin habérsele admitido la renuncia de una comisión, empleo o cargo lo abandone sin causa justificada; y
 
-VII. Cuando aproveche el poder y autoridad propias del empleo, cargo o comisión que desempeñe, para satisfacer, indebidamente algún interés propio o de cualquiera otra persona, que no sea de orden económico;
+VI. Que abandone, intencionalmente, servicios de vigilancia o custodia propiciando la comisión de un delito por su ausencia, independientemente de la penalidad que le resulte como coautor.
 
-VIII. Cuando haga que se le entreguen algunos fondos, valores u otra cosa cuya guarda o administración no le corresponda;
-
-Si dispone de los objetos recibidos como consecuencia del acto a que se refiere esta fracción, independientemente de las penas que señale el presente artículo, los responsables serán acreedores de las sanciones que les correspondan, por cualquier otro delito cometido;
-
-IX. Cuando el director o encargado de cualquier reclusorio reciba como detenida a una persona y la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente;
-
-X. Cuando un funcionario, en el ejercicio de sus funciones, tenga conocimiento de una privación ilegal de libertad y no la haga cesar de inmediato, si esto estuviese en sus atribuciones.
-
-### CAPITULO II. Exposición de infantes
+### CAPITULO III. Violación
 
 ###### Art. 146.
 
-Se impondrán de seis meses a dos años de prisión y destitución de empleo a los funcionarios y empleados públicos que se unan o asocien para tomar medidas contrarias a una Ley, reglamento o disposición legítima, impedir su ejecución o hacer dimisión de sus puestos con el fin preponderante de obstaculizar o suspender la administración pública en cualquiera de sus ramas.
+Comete el delito de abuso de autoridad todo servidor público, sea cual fuere su categoría que incurra en alguno de los casos siguientes:
 
-### CAPITULO III. Substracción de menores y robo de infante
+I. Cuando, para impedir la ejecución de una Ley, Decreto o Reglamento, el cobro de un impuesto o el cumplimiento de una resolución judicial, pide auxilio a la fuerza pública o la emplee con este objeto;
+
+II. Cuando en el ejercicio de sus funciones, o con motivo de ellas, hiciere violencia a una persona, sin causa legítima, o la vejare;
+
+III. Cuando, indebidamente, retarde o niegue a los particulares la protección o servicio que tenga obligación de prestarles, o impida la presentación o el curso de una solicitud;
+
+IV. Cuando ejecute, autorice o permita cualquier acto atentatorio a los derechos garantizados por la Constitución Política de los Estados Unidos Mexicanos, y por la del Estado;
+
+V. Cuando el encargado de una fuerza pública, requerido legalmente por una autoridad para que le preste auxilio, se niegue indebidamente a dárselo;
+
+VI. Cuando obtenga de un subalterno parte o todo el sueldo de éste, le exija dádivas u otro servicio indebido;
+
+VII. Cuando aproveche el poder y autoridad propias del empleo, cargo o comisión que desempeñe, para satisfacer, indebidamente, algún interés propio o de cualquiera otra persona, que no sea de orden económico;
+
+VIII. Cuando haga que se le entreguen fondos, valores u otra cosa, cuya guarda o administración no le corresponda.
+
+Si dispone de los objetos recibidos, como consecuencia del acto a que se refiere esta fracción, independientemente de las penas que señale el presente artículo, los responsables serán acreedores a las sanciones que les correspondan por cualquier otro delito cometido;
+
+IX. Cuando, estando encargado de cualquier establecimiento destinado a la ejecución de las sanciones privativas de libertad, de instituciones de readaptación social o de custodia, de rehabilitación de menores, de reclusorios preventivos o administrativos, sin los requisitos legales, reciba como presa, detenida, arrestada o interna a una persona, o la mantenga privada de su libertad, sin dar parte del hecho a la autoridad correspondiente, niegue que está detenida, si lo estuviere; o no cumpla la orden de libertad girada por la autoridad competente;
+
+X. Cuando, en el ejercicio de sus funciones, tenga conocimiento de una privación ilegal de la libertad y no la denunciase inmediatamente a la autoridad competente, o no la haga cesar, también inmediatamente si esto estuviere en sus atribuciones;
+
+XI. Cuando, a sabiendas, autorice o contrate a quien se encuentre legalmente inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+XII. Cuando otorgue cualquiera identificación que acredite, como servidor público, a quien no lo sea;
+
+XIII. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y
+
+XIV. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+
+Al que cometa el delito de abuso de autoridad, se le impondrán las siguientes sanciones:
+
+Si el monto del beneficio económico que reporte al responsable, por los actos que aquí se señalan, no excede del importe de ciento noventa y seis días de salario, se le impondrán de uno a cinco años de prisión y multa de dos a veinte días de salario.
+
+Si excede del monto a que se refiere el párrafo anterior, se impondrá de tres a ocho años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
+
+Si la comisión del hecho no reporta beneficio económico se impondrán al responsable, de uno a cinco años de prisión.
+
+### CAPITULO I. De la suposición y supresión del estado civil
 
 ###### Art. 147.
 
-Se impondrán de tres meses a cinco años de prisión y multa hasta por el importe de ciento noventa y seis días de salario y destitución e inhabilitación hasta por cinco años, para desempeñar cualquier función pública, a todo funcionario o empleado público del Estado, del Municipio, o de organismo descentralizado, que por si o por interpósita persona, solicite o reciba indebidamente dinero o cualquier otra dádiva o acepte una promesa para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones.
+Comete el delito de cohecho todo servidor público que, por sí o por interpósita persona, solicite o reciba, indebidamente, dinero o cualquier otra dádiva o servicio, o acepte una promesa para hacer, o dejar de hacer, algo justo o injusto relacionado con sus funciones.
 
-Igual pena se impondrá en lo conducente, al que, voluntariamente, dé u ofrezca dinero, o cualquiera otra dádiva, a alguna de las personas que se mencionan en el párrafo anterior, sea o no funcionario, para que ésta haga u omita un acto justo o injusto relacionado con sus funciones.
+Si el monto de lo solicitado o recibido no excede del importe de ciento noventa y seis días de salario, se le impondrá una pena de tres meses a cinco años de prisión y multa por el importe de dos a veinte días de salario.
 
-### CAPITULO IV. Bigamia
+Si excede del monto a que se refiere el párrafo anterior, se le impondrá de dos a once años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
+
+Las mismas penas se impondrán al que, espontáneamente dé u ofrezca dinero, o cualquiera otra dádiva o servicio, a un servidor público, para que éste haga u omita un acto justo o injusto relacionado con sus funciones.
+
+### CAPITULO II. Exposición de infantes
 
 ###### Art. 148.
 
-Comete el delito de peculado toda persona encargada de un servicio público del Estado, Municipal o descentralizado, aún cuando sea en comisión por tiempo indeterminado, tenga o no el carácter de funcionario que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado o municipio, a organismo descentralizado o a un particular si, por razón de su cargo los hubiese recibido en administración, en depósito o por otra causa. Se impondrán al responsable de seis meses a doce años de prisión y multa hasta por el importe de ciento noventa y seis días de salario y destitución del empleo o cargo e inhabilitación para desempeñar otros hasta por seis años.
+Comete el delito de peculado todo servidor público que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado o Municipio, organismo descentralizado o a un particular si, por razón de su cargo, los hubiese recibido en administración, en depósito o por otra causa.
 
-Si el monto de lo distraído no excede del importe de ciento noventa y seis días de salario, se le impondrá al responsable una pena de tres meses a seis años de prisión y multa por el importe de dos a veinte días de salario, independientemente de la destitución e inhabilitación para cubrir otro cargo o empleo de la misma naturaleza, por el término de uno a tres años.
+Si el monto de lo distraído no excede del importe de ciento noventa y seis días de salario, se le impondrá al responsable una pena de tres meses a seis años de prisión y multa por el importe de dos a veinte días de salario.
 
-> <small>(F. DE E., P.O. 28 DE OCTUBRE DE 1982)</small>
+Si excede del monto a que se refiere el párrafo anterior, se impondrá al responsable de seis meses a doce años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 149.
 
-Se impondrán de uno a ocho años de prisión y multa hasta por el importe de ciento dieciocho días de salario, al funcionario o empleado público que, a sabiendas, autorice o consienta el pago o la inclusión en nóminas oficiales, de personas que no tengan derecho a nombramiento como empleado público. Igual pena se aplicará al que a sabiendas autorice, ejecute el pago, o lo reciba.
+Se impondrán las penas señaladas en el segundo párrafo del artículo anterior, tanto al servidor público que, a sabiendas, autorice o consienta el pago o la inclusión, en nóminas oficiales, de personas que no tengan derecho a nombramiento de servidor público, como al que dolosamente autorice, ejecute el pago, o lo reciba.
 
-### CAPITULO V. Incesto
+### CAPITULO III. Substracción de menores y robo de infante
 
 ###### Art. 150.
 
-Se impondrán de tres meses a dos años de prisión, multa hasta por el importe de trescientos noventa y dos días de salario y destitución e inhabilitación para obtener otro puesto similar por un término hasta por seis años, a todo funcionario o empleado público o de organismo descentralizado que, con el carácter de tal, a título de impuesto o contribución, recargo, renta, rédito, salario, cooperación o emolumento, dolosamente exija, por sí o por medio de otro, dinero, valores, servicios o cualquiera otra cosa indebida o en mayor cantidad que la señalada por la Ley.
+Comete el delito de concusión todo servidor público que, en su carácter de tal y a título de impuesto, derecho o contribución, recargo, renta, rédito, salario, cooperación o emolumento, exija por sí o por medio de otro, dinero, valores, servicio o cualquier otra cosa indebida, o en mayor cantidad que la señalada por la Ley.
 
-Las sanciones se aplicarán también a los comisionados o encargados de ejecutar las órdenes del responsable si lo hacen a sabiendas del ilícito.
+Cuando la cantidad o el valor de lo exigido indebidamente no exceda del importe de ciento noventa y seis días de salario, se impondrá al responsable una pena de tres meses a dos años de prisión y multa hasta por el importe de dos a veinte días de salario.
 
-### CAPITULO VI. Adulterio
+Si excede del monto a que se refiere el párrafo anterior se impondrá al responsable de dos a nueve años de prisión y multa por el importe de ciento noventa y seis días de salario.
+
+### CAPITULO IV. Bigamia
 
 ###### Art. 151.
 
-Se impondrán de tres meses a tres años de prisión y destitución e inhabilitación para desempeñar empleo similar, a los funcionarios o empleados públicos o de organismos descentralizados que indebidamente:
+Se impondrán de uno a cuatro años de prisión a los servidores públicos que, indebidamente:
 
-I. Sustraigan, destruyan u oculten documentos o papeles que se les hayan confiado por razón de su cargo;
+I. Substraigan, destruyan u oculten documentos, papeles u objetos que les hayan sido confiados, o a los que tengan acceso por razón de su cargo;
 
-II. Desaparezcan o destruyan un expediente, actuaciones, documentos y objetos aportados en un procedimiento de cualquier naturaleza a que tengan acceso por razón de su empleo;
+II. Quebranten o consientan en quebrantar los sellos de documentos o efectos sellados por autoridad competente, que tengan bajo su custodia; y
 
-III. Quebranten o consientan en quebrantar los sellos de documentos o efectos sellados por autoridad competente que tengan bajo su custodia; y
+III. Abran, o consientan que se abran sin la autorización correspondiente, papeles o documentos cerrados que tengan bajo su custodia.
 
-IV. Abran, o consientan que se abran, sin la autorización correspondiente, papeles o documentos cerrados que tengan bajo su custodia.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO VII. Abandono de familiares
+### CAPITULO V. Incesto
 
 ###### Art. 152.
 
-Se impondrá de tres meses a dos años de prisión, destitución e inhabilitación de empleo similar, hasta por diez años, a todo funcionario o empleado de la administración pública, que incurra en alguno de los casos siguientes:
+Comete este delito el servidor público que, indebidamente:
 
-I. Dictar una resolución de fondo o una sentencia definitiva, con violación de algún precepto terminante de la Ley o manifiestamente contraria a las constancias de autos, cuando se obre por motivos injustificados y no por simple error de opinión; y
+I. Otorgue concesiones de prestación de servicio público o de explotación, aprovechamiento y uso de bienes de dominio del Estado y de los Municipios;
 
-II. Incurrir en cualquier acción u omisión tendiente a que se logre la impunidad de los delitos o faltas de que tenga conocimiento en el ejercicio de sus funciones, absteniéndose de hacer denuncia de los hechos o entorpeciendo su averiguación.
+II. Otorgue permisos, licencias o autorizaciones de contenido económico;
 
-### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
+III. Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, derechos, productos, aprovechamientos o aportaciones y cuotas, de seguridad social, en general, sobre los ingresos fiscales, y sobre precios y tarifas de los bienes y servicios producidos o prestados en la Administración Pública Estatal o Municipal;
+
+IV. Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios, o colocaciones de fondos y valores, con recursos económicos públicos;
+
+V. De los fondos recibidos por razón de su cargo, dolosamente, una aplicación pública distinta de aquélla a que estuvieren destinados, o hiciere un pago ilegal;
+
+VI. Promueva o gestione por sí o por interpósita persona, la tramitación o resolución ilícita de negocios públicos, ajenos a los inherentes a su empleo, cargo o comisión;
+
+VII. Otorgue por sí o por interpósita persona, en el desempeño de su empleo, cargo o comisión, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones, deducciones o subsidios; efectúe compras o ventas o realice cualquier acto jurídico en beneficio propio, de su cónyuge, descendientes o ascendientes, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o dependencia directa, socios o a sociedades de las que el servidor público o las personas antes referidas formen parte;
+
+VIII. Se valga de la información que posea por razón de su empleo cargo o comisión sea o no materia de sus funciones y que no sea de conocimiento público, para hacer por sí, o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido, a o cualquiera de las personas mencionadas en la frac. VII.
+
+Al que cometa el delito de desvío y aprovechamiento indebido de atribuciones y facultades, se le impondrán las siguientes sanciones:
+
+Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, no exceda del equivalente de quinientos días de salario, se impondrán de tres meses a dos años de prisión.
+
+Cuando exceda del monto señalado en el párrafo anterior, se impondrán de dos a nueve años de prisión.
+
+En ambos casos se impondrá una multa de treinta a trescientos días de salario.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+### CAPITULO VI. Adulterio
 
 ###### Art. 153.
 
-Se impondrán de un mes a dos años de prisión y destitución de su cargo, al defensor de oficio de un inculpado, que solo se concrete a aceptar el cargo o a solicitar la libertad caucional que menciona la frac. I del Art. 20 de la Constitución Política de los Estados Unidos Mexicanos, sin promover, injustificadamente, las diligencias conducentes, o que no interponga los recursos procedentes contra las resoluciones en que se adviertan violaciones notorias a la Ley.
+Existe enriquecimiento ilícito cuando el servidor público no pudiera acreditar el legítimo aumento de su patrimonio o la legítima procedencia de los bienes a su nombre, del cónyuge o hijos, o de aquéllos respecto de los cuales se conduzca como dueño.
 
-### CAPITULO II. Profanación de sepulcros o cadáveres
+Al que cometa el delito de enriquecimiento ilícito, se le aplicarán las siguientes sanciones:
+
+I. Cuando el monto no exceda del equivalente de quinientos días de salario, se impondrán de tres meses a dos años de prisión, y multa de diez a cien veces el salario a que se refiere el tercer párrafo del Art. 26 de este Código;
+
+II. Cuando el monto exceda de la cantidad que resulte en la fracción anterior, se impondrán de dos a diez años de prisión y multa de cien a doscientos días de salario;
+
+III. En todos los casos, el decomiso en beneficio del Estado, de los bienes obtenidos con el ilícito y cuando se trate de dinero, además deberá resarcir la cantidad correspondiente a los intereses que el capital hubiere devengado.
+
+### CAPITULO VII. Abandono de familiares
 
 ###### Art. 154.
 
-Se impondrán de un mes a dos años de prisión y destitución o suspensión hasta de un año, a los funcionarios, empleados o auxiliares de la administración de justicia u otro ramo del poder público, que incurran en alguno de los casos siguientes:
+Se impondrán de tres meses a dos años de prisión a los servidores públicos que incurran en alguno de los casos siguientes:
 
-I. Conocer de negocios para los cuales tengan impedimento legal, o abstenerse de conocer de los que les correspondan sin tener impedimento para ello;
+I. Conocer a sabiendas de negocios para los cuales tengan impedimento legal, o abstenerse de conocer de los que les corresponden sin tener impedimento para ello;
 
-II. Desempeñar otro empleo oficial o un puesto o cargo particular que la Ley les prohiba;
+II. Desempeñar algún cargo particular que la Ley les prohíba, u otro puesto o empleo oficial, una vez que tenga conocimiento de la resolución de incompatibilidad correspondiente, en los términos de la Ley Reglamentaria del Art. 62 de la Constitución del Estado;
 
 III. Litigar, por sí o por interpósita persona, cuando tengan impedimento legal para hacerlo;
 
-IV. Dirigir o aconsejar a las personas que ante ellos litiguen;
+IV. Dirigir o aconsejar sistemáticamente a las personas que ante ellos litiguen, propiciando con ello alguna ventaja para las partes;
 
-V. No cumplir, sin causa fundada para ello, una disposición que legalmente se les comunique por superior competente;
+V. No cumplir, sin causa fundada para ello, una disposición que legalmente se le comunique por superior competente;
 
-VI. Dictar u omitir una resolución o un acto de trámite violando algún precepto terminante de la Ley, o contrario a las actuaciones de un juicio y siempre que se obre por motivos injustos y no por simple error de opinión;
+VI. Dictar u omitir una resolución o un acto de trámite violando algún precepto terminante de la Ley, o contrario a las actuaciones de un juicio, siempre que se obre por motivos injustos y no por simple error de opinión;
 
-VII. Ejecutar actos o incurrir en omisiones que produzcan un daño o concedan una ventaja indebida a los interesados en un negocio, o a cualquier otra persona;
+VII. Ejecutar actos, o incurrir en omisiones, que produzcan un daño o concedan una ventaja indebida a los interesados en un negocio, o a cualquier otra persona;
 
-VIII. Abstenerse el agente del Ministerio Público, o quien haga sus veces, de practicar las diligencias necesarias para el ejercicio de sus funciones, o de determinar conforme a la Ley y, sin causa justificada, los asuntos de su competencia; y
+VIII. Abstenerse el agente del Ministerio Público, o quien haga sus veces, de practicar las diligencias necesarias para el ejercicio de sus funciones, o de determinar conforme a la Ley, sin causa justificada, los asuntos de su competencia;
 
-IX. Retardar o entorpecer dolosamente o por negligencia la administración de justicia.
+IX. Retardar o entorpecer dolosamente o por negligencia, la administración de justicia;
+
+X. Concretarse a aceptar el cargo de defensor de oficio de un inculpado, o ya siéndolo, a solicitar la libertad caucional que menciona la frac. I del Art. 20 de la Constitución Política de los Estados Unidos Mexicanos, y no promover injustificadamente, las diligencias conducentes, o no interponer los recursos y medios de defensa procedentes contra las resoluciones en que se adviertan violaciones notorias a la ley;
+
+XI. Dictar una resolución de fondo o una sentencia definitiva, con violación de algún precepto terminante de la ley o manifiestamente contraria a las constancias de autos, cuando se obre por motivos injustificados y no por simple error de opinión;
+
+XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en el ejercicio de sus funciones, abstenerse de hacer denuncia de ellos o entorpecer su averiguación.
+
+En los casos en que con motivo de la comisión de estos delitos, se obtenga un beneficio económico que no exceda del importe de ciento noventa y seis días de salario, se impondrá al responsable de tres meses a dos años de prisión y multa de dos a veinte días de salario.
+
+Si el monto del beneficio obtenido excede del señalado en el párrafo anterior, se impondrá al responsable, de dos a nueve años de prisión y multa hasta por el importe de ciento noventa y seis días de salario.
 
 ## TITULO DECIMO. DELITOS DE PELIGROSIDAD SOCIAL
 
+### CAPITULO I. Delitos en materia de inhumaciones y exhumaciones
+
+### CAPITULO II. Profanación de sepulcros o cadáveres
+
 ### CAPITULO I. Amenazas
-
-### CAPITULO II. Extorsión
-
-### CAPITULO III. Chantaje
 
 ## TITULO DECIMO PRIMERO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUAL
 
-### CAPITULO IV. Allanamiento de morada
+### CAPITULO II. Extorsión
 
 ## TITULO DECIMO SEGUNDO. DELITOS CONTRA EL ORDEN DE LA FAMILIA
 
-### CAPITULO V. Asalto
+### CAPITULO III. Chantaje
 
 ###### Art. 155.
 
@@ -1351,7 +1457,7 @@ II. Pedir dolosamente términos para probar lo que notoriamente no puede probars
 
 III. Presentar dolosamente, o hacer que otro presente testigos falsos o que aporte testimonios de igual naturaleza.
 
-### CAPITULO VI. Privación ilegal de la libertad y de otros derechos
+### CAPITULO IV. Allanamiento de morada
 
 ###### Art. 157.
 
@@ -1381,11 +1487,11 @@ Además de las sanciones fijadas para los delitos que resulten consumados, segú
 
 Los directores, administradores, médicos de sanatorios y clínicas particulares y quienes los substituyan, incurrirán en responsabilidad si, por motivos de orden económico rechazan la admisión y tratamiento médico de urgencia a un enfermo grave. En este caso, la pena será de uno a cinco años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario.
 
-### CAPITULO VII. Plagio o secuestro
+### CAPITULO V. Asalto
 
 ## TITULO DECIMO TERCERO. VIOLACION A LAS LEYES SOBRE INHUMACIONES Y EXHUMACIONES
 
-### CAPITULO VIII. Rapto
+### CAPITULO VI. Privación ilegal de la libertad y de otros derechos
 
 ###### Art. 162.
 
@@ -1397,7 +1503,7 @@ II. Al que falsifique documentos de crédito, cupones de intereses o dividendos 
 
 Las mismas sanciones se aplicarán al que, a sabiendas ponga en circulación los documentos falsos a que se refiere este artículo.
 
-### CAPITULO I. Golpes simples
+### CAPITULO VII. Plagio o secuestro
 
 ###### Art. 163.
 
@@ -1425,15 +1531,19 @@ IV. Al que, a sabiendas, enajene o haga uso indebido de los objetos expresados e
 
 V. Al que, procurándose los objetos verdaderos que señala el presente artículo, haga uso indebido de ellos.
 
-### CAPITULO II. Injurias
+### CAPITULO VIII. Rapto
 
 ###### Art. 167.
 
 Se impondrán de seis meses a cinco años de prisión al que incurra en cualquiera de los siguientes casos:
 
-I. El funcionario o empleado que, por engaño o sorpresa, hiciera que alguien firme un documento público que no hubiere firmado sabiendo su contenido;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-II. El Notario o cualquier otro funcionarios público que, en ejercicio de sus funciones, expida constancia, informes, o una certificación de hechos que no sean ciertos o dé fe de lo que no aparezca en autos, registros, expedientes, protocolo o documentos;
+I. El servidor público que, por engaño o sorpresa hiciera que alguien firme un documento público que no hubiere firmado sabiendo su contenido;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+II. El notario o cualquier otro servidor público que, en ejercicio de sus funciones, expida constancia, informes, o certificación de hechos que no sean ciertos o dé fe de lo que no aparezca en autos, registros, expedientes, protocolo o documentos;
 
 III. El que, para eximirse de un servicio debido legalmente o de una obligación impuesta por la Ley, formule una certificación de impedimento que no tenga, sea que la haga aparecer como expedida por un médico cirujano o por otra persona autorizada para expedirla;
 
@@ -1471,9 +1581,9 @@ XI. A sabiendas, hiciere uso indebido de un documento falso, aunque fuere copia 
 
 Para que sea punible el delito a que se refiere el artículo anterior, se necesita que la persona que incurra en alguno de los casos previstos, se proponga obtener algún provecho para sí o para otro, o cause daño material o moral, a cualquier persona o a la sociedad.
 
-### CAPITULO III. Difamación
+### CAPITULO I. Golpes simples
 
-### CAPITULO IV. Calumnia
+### CAPITULO II. Injurias
 
 ###### Art. 168.
 
@@ -1483,7 +1593,7 @@ I. Al que, con cualquier carácter, al declarar o informar ante alguna autoridad
 
 II. Al que de cualquier modo logre u obligue a un testigo, perito o intérprete para que, se conduzca con falsedad en un juicio.
 
-### CAPITULO V. Reglas generales
+### CAPITULO III. Difamación
 
 ###### Art. 169.
 
@@ -1493,15 +1603,19 @@ I. Al que, con un fin ilícito, oculte el nombre o apellido con el que sea conoc
 
 II. Al que, para eludir la práctica de una diligencia judicial o una notificación de cualquier clase, o citación de una autoridad, oculte su domicilio, o designe otro distinto o niegue de cualquier modo el verdadero; y
 
-III. Al funcionario o empleado público que, en los actos propios de su cargo, atribuyese a una persona título o nombre a sabiendas de que no le pertenece.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso
+III. Al servidor público que, en los actos propios de su cargo, atribuyese a una persona, título o nombre a sabiendas de que no le pertenece.
+
+### CAPITULO IV. Calumnia
 
 ###### Art. 170.
 
 Se impondrán de un mes a tres años de prisión:
 
-I. Al que, sin ser funcionario público, se atribuya ese carácter y ejerza alguna de las funciones correspondientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
+I. Al que, sin ser servidor público, se atribuya ese carácter y ejerza alguna de las funciones correspondientes;
 
 II. Al que, sin tener título profesional o autorización para ejercer alguna profesión reglamentada, expedidos por autoridad y organismos legalmente capacitados para ello, conforme a las disposiciones reglamentarias del Art. 5.° de la Constitución Política de los Estados Unidos Mexicanos, incurra en cualquiera de los casos siguientes:
 
@@ -1513,11 +1627,13 @@ c) Ofrezca públicamente sus servicios como profesionista; y
 
 d) Use un Título o autorización para ejercer alguna actividad profesional, sin tener derecho a ello;
 
-III. Al que usare uniforme, insignia o distintivo a que no tenga derecho, que sean exclusivos de funcionarios o personas que tengan carácter de autoridad en el Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-### CAPITULO II. Lesiones
+III. Al que usare uniforme, insignia o distintivo a que no tenga derecho, que sean exclusivos de servidores públicos o personas que tengan carácter de autoridad en el Estado.
 
-### CAPITULO III. Homicidio
+### CAPITULO V. Reglas generales
+
+### CAPITULO I. Disparo de arma de fuego sobre persona, ataque peligroso
 
 ###### Art. 171.
 
@@ -1525,7 +1641,7 @@ Para los efectos de este Título, se entiende por falsedad toda alteración de l
 
 ## TITULO DECIMO CUARTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
+### CAPITULO II. Lesiones
 
 ###### Art. 172.
 
@@ -1533,7 +1649,7 @@ Se impondrán de seis meses a dos años de prisión a las personas que, sin tene
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA EL HONOR
 
-### CAPITULO V. Parricidio
+### CAPITULO III. Homicidio
 
 ###### Art. 173.
 
@@ -1543,7 +1659,7 @@ Si se hiciere uso de la violencia física o moral, o participaren dos o más inf
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante.
 
-### CAPITULO VI. Instigación o ayuda al suicidio
+### CAPITULO IV. Reglas comunes para los delitos de lesiones y homicidios
 
 ###### Art. 174.
 
@@ -1553,7 +1669,7 @@ Para los efectos de este artículo, se entiende por castidad el atributo de la m
 
 Este delito se perseguirá por querella de la parte ofendida o de su legítimo representante. Cuando el acusado se case con la ofendida, cesará toda acción para perseguirlo y quedará sin efecto la sanción impuesta, salvo que se declare nulo el matrimonio.
 
-### CAPITULO VII. Infanticidio
+### CAPITULO V. Parricidio
 
 ###### Art. 175.
 
@@ -1569,21 +1685,21 @@ Se considera como violación todo caso en que la cópula se realice con persona 
 
 Si la persona ofendida fuere menor de diez años, la sanción será de seis a quince años de prisión.
 
+### CAPITULO VI. Instigación o ayuda al suicidio
+
+### CAPITULO VII. Infanticidio
+
 ### CAPITULO VIII. Aborto
 
 ### CAPITULO IX. Abandono de personas
+
+## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
 
 ### CAPITULO I. Robo
 
 ### CAPITULO II. Abigeato y robo de animales
 
-## TITULO DECIMO SEXTO. DELITOS CONTRA LA VIDA Y LA INTEGRIDAD CORPORAL
-
 ### CAPITULO III. Abuso de confianza
-
-### CAPITULO IV. Violación de depósito
-
-### CAPITULO V. Fraude
 
 ###### Art. 177.
 
@@ -1601,13 +1717,13 @@ V. Al que usurpe el estado civil de otro, con el fin de adquirir derechos de fam
 
 El responsable de alguno de los delitos señalados en este artículo perderá el derecho de heredar que tuviere, respecto de las personas a quienes por la comisión del delito perjudique en sus derechos de familia.
 
-### CAPITULO VI. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
+### CAPITULO IV. Violación de depósito
 
 ###### Art. 178.
 
 Se impondrán de dos a seis años de prisión al que exponga en una casa de expósitos a un menor de siete años que se le hubiese confiado, o lo entregue a otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad, en su defecto. Si el responsable es ascendiente o tutor, además, perderá los derechos que tenga sobre la persona y bienes del menor.
 
-### CAPITULO VII. Usura
+### CAPITULO V. Fraude
 
 ###### Art. 179.
 
@@ -1621,13 +1737,13 @@ El robo de infante lo comete el que se apodere de un menor de doce años de edad
 
 Si el menor es restituido a su familia o a la autoridad, espontáneamente, dentro de los quince días a partir de la fecha de la substracción y sin causarle perjuicio, solamente se aplicará al responsable la sanción de seis meses a cuatro años de prisión.
 
-### CAPITULO VIII. Daños en las cosas
+### CAPITULO VI. Delitos relacionados con la capacidad pecuniaria de las personas sujetas a concurso de acreedores
 
 ###### Art. 180.
 
 Se impondrán de tres meses a tres años de prisión al que, estando unido a una persona en matrimonio, contraiga otro. La misma sanción se aplicará al otro contrayente, si conocía el impedimento al tiempo de celebrarse el matrimonio.
 
-### CAPITULO IX. Despojo de inmuebles y aguas
+### CAPITULO VII. Usura
 
 ###### Art. 181.
 
@@ -1635,13 +1751,13 @@ Cometen incesto, los parientes que copulan entre sí, siempre que se trate de as
 
 El incesto entre ascendientes con descendientes se castigará con prisión de uno a cuatro años y los demás con prisión de seis meses a tres años.
 
-### CAPITULO I. Encubrimiento
+### CAPITULO VIII. Daños en las cosas
 
 ###### Art. 182.
 
 Se impondrán de quince días a dos años de prisión al hombre o mujer que tengan entre sí relaciones sexuales, bien sea en el domicilio conyugal o causando escándalo, sabiendo que uno de ellos o los dos están casados con otra u otras personas. Este delito se sancionará por querella del ofendido, pero el perdón del último beneficiará a ambos responsables, siempre que se otorgue hasta antes de dictar sentencia.
 
-### CAPITULO II. Adquisición ilegítima de bienes materia de un delito
+### CAPITULO IX. Despojo de inmuebles y aguas
 
 ###### Art. 183.
 
@@ -1657,6 +1773,8 @@ Para que el perdón concedido por el ofendido o su representante pueda producir 
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL PATRIMONIO
 
+### CAPITULO I. Encubrimiento
+
 ###### Art. 186.
 
 Se impondrán de un mes a dos años de prisión al que incurra en alguno de los casos siguientes:
@@ -1668,6 +1786,10 @@ II. Que ilegalmente exhume un cadáver; y
 III. Que retenga o se apodere de un cadáver, sin la anuencia de los deudos del fallecido, entendiéndose por tales, en orden de preferencia, el cónyuge, descendientes, ascendientes, concubina o concubinario y demás parientes en los términos de Ley.
 
 Si la retención del cadáver ocurre en un hospital particular, la pena que se aplique al responsable será de seis meses a tres años de prisión y multa por el importe de cuatro a ochenta días de salario.
+
+### CAPITULO II. Adquisición ilegítima de bienes materia de un delito o de una infracción penal
+
+(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983) (F. DE E., P.O. 2 DE FEBRERO DE 1984)
 
 ###### Art. 187.
 
@@ -2043,41 +2165,79 @@ I. La disposición o destrucción de una cosa mueble, ejecutada intencionalmente
 
 II. El aprovechamiento de energía eléctrica, agua o cualquier otro elemento, ejecutado sin derecho y sin consentimiento de quien legalmente puede autorizar o disponer de él.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 235.
 
-Al responsable del delito de robo se le sancionará conforme a las reglas siguientes:
+Al responsable del delito de robo simple se le impondrá como sanción:
 
-I. Cuando el valor de lo robado no exceda de del importe de ochenta días de salario, la sanción será de seis meses a dos años de prisión y multa por el importe de dos a ocho días de salario;
+I. De seis meses a dos años de prisión y multa por el importe de dos a diez días de salario, cuando el valor de lo robado no exceda del importe de ochenta días de salario;
 
-II. Cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente, la sanción será de dos a cinco años de prisión y multa por el importe de cuatro a veinte días de salario;
+II. De dos a cinco años de prisión y multa por el importe de cuatro a veinte días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la fracción siguiente;
 
-III. Cuando el valor de lo robado exceda del importe de trescientos noventa y dos días de salario, la sanción será de cuatro a ocho años de prisión y multa por el importe de veinte a ciento noventa y seis días de salario; y
+III. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario, cuando el valor de lo robado exceda de trescientos días de salario; y
 
-IV. Cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza no fuere estimable en dinero, la sanción será de dos a cinco años de prisión.
+IV. De dos a cinco años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuera estimable en dinero.
 
-En todos los casos, para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada, fijado preferentemente por peritos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
 ###### Art. 236.
 
-Al responsable del delito de robo calificado, además de las sanciones señaladas en el artículo anterior, se le impondrá de uno a tres años de prisión. Para los efectos de este Código, se considera calificado el delito de robo cuando:
+El delito de robo se considera calificado, cuando:
 
-I. Se ejecute con violencia en las personas o en las cosas, aún cuando la violencia se haga a la persona distinta de la robada, que se halle en compañía de ella, o a inmediaciones de donde ocurra la comisión del ilícito, o cuando el sujeto la ejecute después de consumado el robo para lograr la fuga o defender lo robado;
+I. Se ejecute con violencia en las personas o en las cosas, aún cuando la violencia se haga a persona distinta de la robada, que se halle en compañía de ella, o a inmediaciones de donde ocurra la comisión del ilícito, o cuando el sujeto la ejecute después de consumado el robo, para lograr la fuga o defender lo robado, pero sin usar armas;
 
 II. El objeto del robo sea un libro, un expediente o algún documento de una oficina o archivo público, o un documento que contenga obligación, liberación o transmisión de derechos;
 
 III. Se cometa aprovechando alguna relación de servidumbre, trabajo, hospedaje, hospitalidad, confianza, amistad o parentesco;
 
-IV. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también los movibles, sea cual fuere la materia de que están construídos;
+IV. Se cometa en lugar cerrado o en edificio, vivienda, aposento o cuarto que estén destinados para habitación, comprendiéndose en esta denominación no solo los que estén fijos en la tierra, sino también movibles, sea cual fuere la materia de que estén construidos;
 
-V. Se cometa aprovechando la falta de vigilancia, el desorden o confusión que se produzca por incendio, naufragio, inundación, accidentes o delitos en el tránsito de vehículos o aeronaves o por cualquier siniestro;
+V. Se cometa, aprovechando la falta de vigilancia, el desorden o confusión que se produzca por incendio, naufragio, inundación, accidente o delito en el tránsito de vehículos o aeronaves, o por cualquier siniestro;
 
-VI. El objeto del robo sean tubos, conexiones, tapas de registro o cualquier otro implemento de un servicio público u otros que estén bajo la salvaguarda pública, sin perjuicio de lo que proceda por el daño a la propiedad;
+VI. El objeto del robo sean tubos, conexiones, tapas de registro o cualquier otro implemento de un servicio público u otros que estén bajo la salvaguarda pública;
 
-VII. Se cometa de noche, o llevando armas o con fractura o empleo de llaves falsas, horadación, excavación o escalamiento, sean los sujetos dos o más, o fingiéndose funcionarios públicos o suponiendo una orden de alguna autoridad;
+VII. Cuando los responsables lleven armas, sin que en el caso hagan uso de ellas;
 
-VIII. Recaiga sobre vehículos estacionados en la vía pública; y
+VIII. El objeto, del robo sean postes, alambres y otros materiales de las cercas de los sembradíos y potreros, dejando éstos desprotegidos en todo o en parte; sean bombas, motores, o partes de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería;
 
-IX. El objeto sean postes, alambres y otros materiales de las cercas de los sembradíos y potreros, dejando éstos desprotegidos en todo o en parte; sean bombas, motores o partes de estos implementos, o cualquier objeto o aparato que esté usándose en la Agricultura o en la Ganadería, en un servicio público o que esté bajo la salvaguarda pública.
+IX. Recaiga sobre vehículos estacionados en la vía pública o en estacionamiento público o privado;
+
+X. Se cometa en edificio, vivienda, apartamiento o cuarto que, en el momento de ocurrir el delito, se encuentren ocupados, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuera la materia de que estén construidos;
+
+XI. Cuando la violencia a que se refiere la frac. I de este artículo se ejerza valiéndose de armas;
+
+XII. Cuando recaiga sobre vehículos automotores que se encuentren ocupados;
+
+XIII. Se cometa valiéndose de la nocturnidad, o llevándolo a cabo mediante fractura, o forzándolo de cualquier manera, horadación, excavación o escalamiento, sean los sujetos tres o más, se finjan servidores públicos o supongan una orden de alguna autoridad;
+
+XIV. Cuando los responsables sean miembros de un cuerpo de seguridad pública, aún cuando no estén en servicio; y
+
+XV. Cuando se ejecute a bordo de un vehículo de transporte público en servicio.
+
+Al responsable del delito de robo calificado se le sancionara, de acuerdo con la reglas que se consignan en los siguientes apartados:
+
+A) Si interviene algunas de las calificativas que se consignan en la frac. I a la IX del presente articulo, la sanción será:
+
+I. De dos a cinco años de prisión y multa por el importe de cinco a veinte días de salario, cuando el valor de lo robado no exceda del importe de ochenta días de salario;
+
+II. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+III. De cuatro a nueve años de prisión y multa por el importe de veinte a sesenta días de salario, cuando el valor de lo robado exceda del monto de trescientos días de salario; y
+
+IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
+
+B) Si interviene algunas de las calificativas que se consignan en la frac. X a la XV del presente articulo, la sanción será:
+
+I. De tres a ocho años de prisión y multa por el importe de quince a cuarenta días de salario cuando el valor de lo robado no exceda del importe de ciento ochenta días de salario.
+
+II. De cuatro a nueve años de prisión y multa por el importe de veinte a sesenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+
+III. De cinco años seis meses a once años de prisión y multa por el monto de treinta a noventa días de salario, cuando el valor de lo robado exceda del importe de trescientos días de salario; y
+
+IV. De tres años seis meses a siete años de prisión, cuando no pudiere determinarse el valor de lo robado, o, si por su naturaleza, no fuere estimable en dinero.
+
+En todos los casos de robo para estimar su cuantía, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por peritos.
 
 ###### Art. 237.
 
@@ -2305,9 +2465,11 @@ También quedarán exceptuados de sanción quienes no puedan cumplir con el debe
 
 En todo caso, la sanción que se imponga al encubridor, no podrá exceder de la impuesta al responsable del ilícito encubierto.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 1983)</small>
+
 ###### Art. 265.
 
-Se impondrán de un mes a cuatro años de prisión y multa por el importe de dos a veinte días de salario, al que adquiera o reciba el producto del delito a sabiendas que provenía de éste, o si de acuerdo a las circunstancias debía presumir su ilegítima procedencia.
+Se impondrá de un mes a cuatro años de prisión y multa por el importe de dos a veinte días de salario, al que adquiera o reciba el producto de un delito o infracción, a sabiendas que provenía de éstos o si de acuerdo con las circunstancias debía presumir su ilegítima procedencia. En caso de que la cosa adquirida o recibida fuere producto de un delito o infracción constitutivos de robo, se impondrá al responsable si el valor de los bienes adquiridos o receptados no excede del importe de doscientos días de salario, la pena de dos a cinco años de prisión; si excede de ese importe de tres a ocho años de prisión.
 
 ## TRANSITORIOS
 
@@ -2392,3 +2554,21 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO 11519
+
+Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. El presente Decreto entrara en vigor a los tres días de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+DECRETO 11520
+
+Primero.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Segundo. Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
