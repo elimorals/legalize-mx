@@ -4,7 +4,7 @@ identifier: "HID-ley-de-hacienda-municipal-5456"
 country: "mx"
 rank: "ley"
 publication_date: "1982-12-31"
-last_updated: "1992-12-31"
+last_updated: "1993-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE HACIENDA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 1982.
 
@@ -363,11 +363,9 @@ IV.- No se consideran departamentos habitacionales los que por sus característi
 
 Cuando del Inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
-> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-ARTICULO 8 R.- El impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, se causará y pagará aplicando la tasa general del 8% durante el período de julio a diciembre del año de 1991; durante el año de 1992 la tasa general aplicable será del 6% y en el año de 1993 dicha tasa será del 4%, incluidos el efecto del impuesto adicional.
-
-El Impuesto que resulte a cargo del contribuyente en dichos años, en ningún caso será mayor, a aquel que se hubiera determinado en los términos de la ley aplicable vigente al 31 de diciembre de 1990.
+ARTICULO 8 R.- El impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, se causará y pagará aplicando la tasa general del 2% sobre la base gravable.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -447,9 +445,13 @@ IV.- En las adquisiciones por los partidos y asociaciones políticas para su pro
 
 V.- En las adquisiciones realizadas por los organismos descentralizados de la Federación, Estados y Municipios que promueven la vivienda de interés social;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
-VI.- Tampoco se pagará el impuesto estalbecido (sic) en esta Ley, en las adquisiciones de inmuebles que hagan los arrendatarios Financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero, así como en las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley en la materia siempre que, en este último caso, la adquisición se realice dentro de los seis meses siguientes a su constitución.
+VI.- Tampoco se pagará el impuesto sobre traslación de dominio y otras operaciones con bienes inmuebles, en la adquisición de inmuebles que hagan los arrendatarios financieros al ejercer la opción de compra en los términos del contrato de arrendamiento financiero.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+
+En las adquisiciones que realicen las asociaciones religiosas constituidas en los términos de la Ley de la materia, tampoco se pagará este impuesto, durante el año de 1994 únicamente.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
@@ -1810,3 +1812,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 31 DE DICIEMBRE DE 1992.
 
 UNICO.- Previa su publicación en el Periódico Oficial del Gobierno del Estado, el presente Decreto entrará en vigor el día 1o. de Enero de 1993.
+
+P.O. 31 DE DICIEMBRE DE 1993.
+
+PRIMERO.- EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA 1o. DE ENERO DE 1994.
+
+SEGUNDO.- DEBERA ORDENARSE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES QUE SE OPONGAN A ESTE DECRETO.
