@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1986-11-29"
+last_updated: "1990-11-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2279,13 +2279,15 @@ Se impondrán de cinco a doce años de prisión y multa de diez a sesenta días 
 
 Al que infiera lesiones que pongan en peligro la vida, se le impondrán de tres a ocho años de prisión y multa de diez a treinta días de salario, sin perjuicio de las sanciones que le correspondan conforme a los artículos anteriores.
 
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 1990)</small>
+
 ###### ARTICULO 311.
 
-Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela, y en ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la primera parte del artículo 306 y, además, el autor no abusare de su derecho, corrigiendo con crueldad o con innecesaria frecuencia.
+Al que ejerciendo la Patria Potestad o la tutela, infiera lesiones a los menores o pupilos bajo su guarda, el juez podrá imponerle además de las penas correspondientes a las lesiones, suspensión o privación en el ejercicio de aquellos derechos.
 
 ###### ARTICULO 312.
 
-En cualquier otro caso, se impondrá al delincuente la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad en virtud de la cual tenga el derecho de corrección.
+(DEROGADO, P.O. 24 DE NOVIEMBRE DE 1990)
 
 ###### ARTICULO 313.
 
@@ -2830,3 +2832,11 @@ Y en cumplimiento de lo dispuesto en la Fracción II del Artículo 69 de la Cons
 El Secretario Gral. de Gobierno
 
 Lic. Rafael Pérez Cárdenas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 24 DE NOVIEMBRE DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
