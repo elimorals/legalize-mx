@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1972-11-10"
+last_updated: "1974-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE NOVIEMBRE DE 1972.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE ENERO DE 1974.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -1322,9 +1322,13 @@ Para ser secretario del Despacho se requiere: ser ciudadano mexicano por nacimie
 
 Todos los reglamentos, decretos y órdenes del Presidente deberán estar firmados por el secretario del Despacho, encargado del ramo a que el asunto corresponda, y sin estos requisitos no serán obedecidos. Los reglamentos, decretos y órdenes del Presidente, relativos al Gobierno del Distrito Federal y a los Departamentos Administrativos, serán enviados directamente por el Presidente al Gobernador del Distrito y al jefe del Departamento respectivo.
 
+> <small>(REFORMADO, D.O.F. 31 DE ENERO DE 1974)</small>
+
 ###### Art. 93.
 
-Los secretarios del Despacho, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos. Cualquiera de las Cámaras podrá citar a los secretarios de Estado para que informen, cuando se discuta una ley o se estudie un negocio relativo a su secretaría.
+Los Secretarios del Despacho y los Jefes de los Departamentos Administrativos, luego que esté abierto el período de sesiones ordinarias, darán cuenta al Congreso, del estado que guarden sus respectivos ramos.
+
+Cualquiera de las Cámaras podrá citar a los Secretarios de Estado y a los Jefes de los Departamentos Administrativos, así como a los Directores y Administradores de los Organismos Descentralizados Federales o de las Empresas de Participación Estatal Mayoritaria, para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 ### CAPITULO IV.
 
@@ -2713,3 +2717,7 @@ UNICO.- La presente reforma entrará en vigor quince días después de su public
 D.O.F. 10 DE NOVIEMBRE DE 1972.
 
 UNICO.- La presente reforma y adición entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE ENERO DE 1974.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
