@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-para-el-distrito-federal-265"
 country: "mx"
 rank: "ley"
 publication_date: "1987-01-15"
-last_updated: "1999-03-30"
+last_updated: "2002-11-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=265&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1986-12-19"
 
 LEY DE SALUD PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 28 DE NOVIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 15 de enero de 1987
 
@@ -461,6 +461,12 @@ I.- Llevar un estilo de vida, enfocado al autocuidado de su salud:
 II.- Ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios, y
 
 III.- Dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
+
+> <small>(ADICIONADO, G.O. 28 DE NOVIEMBRE DE 2002)</small>
+
+###### ARTICULO 16 Bis 5.
+
+La prestación y verificación de los servicios de atención médica, se sujetarán a lo previsto en la Ley General y las Normas Oficiales Mexicanas (NOM) correspondientes.
 
 > <small>(REFORMADO, G.O. 30 DE MARZO DE 1999)</small>
 
@@ -1581,3 +1587,9 @@ TERCERO.- Para su mayor difusión publíquese el presente Decreto en el Diario O
 CUARTO.- El Instituto de Servicios de Salud del Distrito Federal seguirá vigente, hasta que se cree la Secretaría de Salud del Distrito Federal.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 28 DE NOVIEMBRE DE 2002.
+
+PRIMERO.- Túrnese al Jefe de Gobierno del Distrito Federal para su publicación en la Gaceta Oficial del Distrito Federal y, para su mayor difusión, en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente decreto entrara en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
