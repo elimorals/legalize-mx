@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-4721"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-01-04"
-last_updated: "2004-04-24"
+last_updated: "2004-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4721&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de enero de 1989.
 
@@ -1449,9 +1449,15 @@ XIV.- Dejar de cumplir cualquiera de las demás obligaciones que les estén señ
 
 ### CAPITULO XII. DE LA OFICIALIA DE TURNOS
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 118.
 
-El Tribunal Pleno, atendiendo a la necesidad de distribuir de manera equitativa y proporcional los asuntos de nuevo inicio entre los Juzgados de un mismo Distrito, podrá establecer Oficialías de Turnos.
+El Tribunal Pleno, para distribuir de manera equitativa y proporcional los asuntos que se inicien ante los juzgados de un mismo Distrito, podrá establecer Oficialías de Turnos.
+
+En estas oficinas, se designará el personal necesario que reciba y capture a través de los medios que específicamente establezca el Departamento de Informática del Supremo Tribunal de Justicia, los documentos que deban enviarse a los diversos Tribunales del Poder Judicial.
+
+El personal estará bajo la dirección y responsabilidad del encargado de la Oficialía de Turnos.
 
 ###### ARTICULO 119.
 
@@ -1463,27 +1469,37 @@ El Encargado, además de los requisitos que esta Ley señala para los miembros d
 
 Los emolumentos del Encargado serán los mismos que el Presupuesto de Egresos señale para un Secretario de Juzgado de Primera Instancia del lugar donde se instale la dependencia a su cargo.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 121.
 
-El Encargado tendrá las siguientes obligaciones:
+El encargado tendrá las siguientes obligaciones:
 
-I.- Recibir por riguroso orden cronológico las demandas o promociones que inicien un procedimiento y los documentos que se acompañen a las mismas, y turnarlas a los Juzgados correspondientes en los términos establecidos por esta Ley, su Reglamento, las determinaciones del Pleno o del Presidente del Supremo Tribunal, cuidando escrupulosamente que el trámite se haga de manera de ágil y oportuno;
+I.- Recibir por riguroso orden cronológico las demandas o promociones que inicien un procedimiento y los documentos que se acompañen a las mismas, y turnarles a los Juzgados correspondientes en los términos establecidos por esta ley, su reglamento, las determinaciones del Pleno o del Presidente del Supremo Tribunal de Justicia, cuidando escrupulosamente que el trámite se haga de manera ágil y oportuna;
 
-II.- Abstenerse, en el desempeño de su función, de dar preferencias de cualquier clase a los interesados o a las autoridades de su adscripción. Se exceptúa de lo anterior y en los términos que señale el Reglamento, los casos de urgencia que requieran una inmediata intervención del Juez;
+II.- Recibir por conducto del personal que al efecto determine, las promociones que deban enviarse a los Tribunales, ordenando se haga la captura digital correspondiente y que el mismo día se envíen a la oficina a que van dirigidas, salvo que por la urgencia del caso se requiera que inmediatamente se haga la captura y se envíen a dicha oficina;
 
-III.- Llevar el libro de turnos y los de control que sean necesarios;
+III.- Asentar en los escritos que reciba, el día y la hora de presentación, sellando y firmando la constancia respectiva;
 
-IV.- Dar a conocer a los interesados con la prontitud debida, el destino de los asuntos que fueron turnados;
+IV.- En el desempeño de su función, abstenerse de dar preferencias de cualquier clase a los interesados o a las autoridades de su adscripción.
 
-V.- Distribuir las labores entre él y los demás empleados, para el mejor funcionamiento de la oficina, vigilando su desempeño.
+Se exceptúa de lo anterior y en los términos que señale el Reglamento, los casos de urgencia que requieran una inmediata intervención del Juez;
 
-VI.- Dar a conocer al Presidente del Tribunal, cualquier novedad o irregularidad que advierta y que juzgue conveniente su comunicación;
+V.- Llevar el libro de turnos y los de control que sean necesarios;
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+VI.- Dar a conocer a los interesados con la prontitud debida, el destino de los asuntos que fueron turnados;
 
-VII.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días del mes de enero, un informe estadístico anual sobre la prestación del servicio; y
+> <small>(F. DE E., P.O. 28 DE AGOSTO DE 2004)</small>
 
-VIII.- Todas las demás que prescriban las leyes.
+VII.- Distribuir las labores entre él y los demás empleados, para el mejor funcionamiento de la oficina, vigilando su desempeño;
+
+> <small>(F. DE E., P.O. 28 DE AGOSTO DE 2004)</small>
+
+VIII.- Dar a conocer al Presidente del Tribunal, cualquier novedad o irregularidad que advierta y que juzgue conveniente su comunicación;
+
+IX.- Rendir al Presidente del Tribunal, dentro de los primeros cinco días del mes de enero, un informe estadístico anual sobre la prestación del servicio; y
+
+X.- Todas las demás que prescriban las leyes.
 
 ###### ARTICULO 122.
 
@@ -2211,37 +2227,15 @@ En los casos de excusa o recusación del Secretario de Acuerdos, se aplicarán, 
 
 Los Testigos de Asistencia no serán recusables ni podrán excusarse del desempeño de su función.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
+
 ###### ARTICULO 178.
 
 Los Secretarios de Acuerdos tendrán las siguientes atribuciones:
 
-I.- Autorizar con su firma las resoluciones pronunciadas en el Juzgado de su adscripción, en la forma que señalen las leyes de procedimientos judiciales y reglamentos respectivos. Tendrán fe pública en todo lo relativo al ejercicio de su cargo;
+I.- Autorizar con su firma las resoluciones pronunciadas por el Juez de su adscripción, en la forma que señalen las leyes de procedimientos judiciales y reglamentos respectivos. Tendrán fe pública en todo lo relativo al ejercicio de su cargo;
 
-II.- Redactar los autos y llevar la correspondencia del Juzgado cuya firma les compete y elaborar los proyectos de acuerdo y de sentencia que se les encomienden;
-
-III.- Suplir al Juez en sus ausencias quedando a cargo del despacho de los asuntos del Juzgado en la forma que determina esta Ley.
-
-IV.- Bajo las indicaciones del Juez, vigilar el comportamiento de los funcionarios y empleados de su oficina para que desempeñen su trabajo correctamente, con puntualidad y disciplina;
-
-V.- Expedir toda clase de testimonios y copias certificadas previo acuerdo del Juez, sujetándose a lo dispuesto por la ley;
-
-VI.- Llevar un registro de abogados postulantes;
-
-VII.- Actuar como Ministro Ejecutor o Notificador cuando en el Juzgado no hubiere funcionario adscrito para ese efecto, en las ausencias de este último o cuando el Juez lo acuerde;
-
-VIII.- Asistir a las diligencias de prueba y audiencias que celebre el Juez, autorizando las actuaciones respectivas;
-
-IX.- Tener los libros que conforme a la ley deban llevarse en los Juzgados;
-
-X.- Llevar la estadística del Juzgado;
-
-XI.- Conservar todos los objetos, documentos, títulos-valor y numerario que por razones de su función reciban en depósito para su guarda y custodia, debiendo bajo pena de perder el cargo, comunicar a su superior la pérdida, sustracción o deterioro de aquéllos dentro de las veinticuatro horas siguientes a la en que tengan conocimiento;
-
-XII.- Distribuir el trabajo de los empleados para el mejor despacho de los asuntos;
-
-XIII.- Practicar todas aquellas diligencias que, correspondiendo al Juez, éste les encomiende su desahogo; y
-
-XIV.- Todas las demás que las leyes y reglamentos respectivos les otorguen.
+II.- Redactar los autos del acuerdo diario; elaborar los proyectos de acuerdo y de sentencia que se les encomienden y elaborar la correspondencia.
 
 ###### ARTICULO 179.
 
@@ -2359,7 +2353,7 @@ La misma regla que señala el párrafo anterior, se seguirá para el caso de las
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2533,7 +2527,7 @@ El Pleno determinará si la comisión de delitos imprudenciales o la privación 
 
 > <small>(ADICIONADO, P.O. 5 DE ENERO DE 2000)</small>
 
-### CAPITULO II. DEL PROCEDIMIENTO DE QUEJA PARA SANCIONAR LAS FALTAS
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 2000)</small>
 
@@ -2645,7 +2639,7 @@ Cuando una queja se interponga sin fundamento y así se declare por la autoridad
 
 ## TITULO NOVENO. DE LAS ADQUISICIONES, ARRENDAMIENTOS, CONTRATACION DE SERVICIO Y OBRA PUBLICA DEL PODER JUDICIAL
 
-> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
 
 ### CAPITULO III. DE LAS INCONFORMIDADES
 
@@ -2689,7 +2683,7 @@ En todo caso, recabará por los medios que estime conducentes todos aquellos ele
 
 El Reglamento establecerá las bases para las adquisiciones, arrendamientos, contratación y prestación de servicios y obra pública, así como para la enajenación de todo tipo de bienes que se realice con recursos del Fondo Auxiliar para la Administración de Justicia.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ENERO DE 2000)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO 216.
 
@@ -2729,7 +2723,7 @@ V.- Con las personas a las que se declare en estado de quiebra o suspensión de 
 
 VI.- Las demás que por cualquier causa se encuentren impedidas para ello por disposición de la ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 5 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2000)</small>
 
 ###### ARTICULO 219.
 
@@ -2920,3 +2914,7 @@ P.O. 24 DE ABRIL DE 2004.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE JULIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
