@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "1995-12-26"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACION FISCAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -69,25 +69,41 @@ II.- 20% de la Participación del Impuesto Federal sobre Tenencia o Uso de Vehí
 
 III.- 20% de la participación en el Impuesto Especial sobre Producción y Servicios;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-IV.- 20% de los Derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas; y
+IV.- 50% de los Derechos por licencias de funcionamiento para almacenamiento, distribución y compra-venta de bebidas alcohólicas;
 
-V.- 100% del Fondo de Fomento Municipal.
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+V.- 20% de la participación del Impuesto sobre Automóviles Nuevos; y
+
+VI.- 100% del Fondo de Fomento Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 4o.
 
-El Fondo General de Participaciones y el Impuesto sobre Tenencia o Uso de Vehículos se distribuirá entre los Municipios de la manera siguiente:
+Los Ingresos provenientes del Fondo General de Participaciones, del Impuesto sobre Tenencia o Uso de Vehículos y del Impuesto sobre Automóviles Nuevos, se distribuirán entre los Municipios de la manera siguiente:
 
 I.- Recibirán anualmente una cantidad igual a la que les hubiera correspondido en el año inmediato anterior; y
 
-II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del Incremento que tenga el Fondo General y el Impuesto sobre Tenencia o Uso de Vehículos, en el año para el que se hace el cálculo en relación con el año precedente, el coeficiente que se determinará conforme a las siguientes reglas:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
-a).- 50% en razón directa a la Recaudación efectiva del Impuesto Predial y Derechos por servicios de Consumo de Agua Potable, realizada en el territorio del Municipio en el penúltimo año anterior a aquél para el que se efectúa el cálculo.
+II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del Incremento que tenga el Fondo General, el Impuesto sobre Tenencia o Uso de Vehículos y el Impuesto sobre Automóviles Nuevos, en el año para el que se hace el cálculo en relación con el año precedente, el coeficiente que se determinará conforme a las siguientes reglas:
 
-b).- 40% en razón directa a la Población que registre el Municipio de acuerdo a los datos obtenidos en el Censo General de Población y Vivienda; y
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+a).- 50% en razón directa a la Recaudación efectiva del Impuesto Predial y Derechos por Servicios de Consumo de Agua Potable, realizada en el territorio del Municipio en el último año anterior a aquél para el que se efectúa el cálculo.
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+b).- 40% en razón directa a la población que registre cada Municipio, de acuerdo a la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, al iniciarse cada año; y
 
 c).- El 10% en razón proporcionalmente inversa a los factores que resulten de la Recaudación y Población a que se refieren los incisos a) y b) de este Artículo.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
+Los Municipios del Estado deberán enviar a la Secretaría de Planeación y Finanzas la información de la recaudación del Impuesto Predial y Derechos por Servicios de Consumo de Agua Potable a que se refieren los incisos a) y b), dentro de los primeros quince días del mes de enero del año en que se efectúe el cálculo. En caso de no contar con la información necesaria, la Secretaría de Planeación y Finanzas realizará el cálculo del monto de las participaciones que correspondan a los Municipios en forma provisional, con los coeficientes del ejercicio inmediato anterior y efectuará el ajuste correspondiente dentro de los treinta días siguientes, a aquél en que se cuente con dicha información.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
@@ -117,9 +133,11 @@ La compensación entre el derecho del Municipio a recibir Participaciones, y las
 
 ### CAPITULO TERCERO. DE LA VIGILANCIA DEL CALCULO Y LIQUIDACION DE LAS PARTICIPACIONES
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 8o.
 
-El Gobierno del Estado, deberá publicar en el Periódico Oficial y en uno de los de mayor circulación en la Entidad, los factores determinados en los términos de los Artículos 4 y 5 de esta Ley, dentro del primer semestre del año precedente al que van a regir; asimismo deberá publicar, dentro del mes de enero de cada año en los periódicos mencionados, el monto de las Participaciones que hubieren correspondido a cada uno de los Municipios, durante el Ejercicio Fiscal del año inmediato anterior.
+El Gobierno del Estado deberá publicar en el Periódico Oficial y en uno de los de mayor circulación en la Entidad, dentro del mes de enero de cada año, el monto de las Participaciones que hubieren correspondido a cada uno de los Municipios, durante el Ejercicio Fiscal del año inmediato anterior.
 
 ###### ARTICULO 9o.
 
@@ -206,3 +224,13 @@ P.O. 26 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR EL DIA PRIMERO DE ENERO DE 1996 MIL NOVECIENTOS NOVENTA Y SEIS.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor el día primero de enero de 1997 mil novecientos noventa y siete.
+
+###### ARTICULO SEGUNDO.
+
+La adición al artículo 3o. con su fracción V, y la reforma al artículo 4o. quedará sin efecto, si el Congreso de la Unión no restablece la vigencia de la Ley del Impuesto sobre Automóviles Nuevos.
