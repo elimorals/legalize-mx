@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-organismo-publico-descentralizado-19735
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-01-31"
-last_updated: "2001-01-31"
+last_updated: "2002-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19735&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL ORGANISMO PUBLICO DESCENTRALIZADO DEL GOBIERNO DEL ESTADO DE MORELOS DENOMINADO COMISION ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 2002.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 31 de enero de 2001.
 
@@ -81,9 +81,17 @@ VIII. Dirección General de Planeación, Estudios y Proyectos
 
 IX. Dirección General de Construcción y Mantenimiento
 
-X. Dirección general de Recursos Humanos y Financieros
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
 
-XI. Dirección General de Recursos Materiales y Desarrollo Institucional
+X. Dirección General de Perforación de Pozos
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XI. Dirección General de Recursos Humanos y Financieros, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XII. Dirección General de Recursos Materiales y Modernización
 
 Las unidades administrativas estarán integradas por los Titulares respectivos, Directores Generales, Subdirectores, Jefes de Departamento, Jefes de Oficina y demás servidores públicos que se señalen en los manuales de organización, quienes ejercerán sus atribuciones de conformidad con las disposiciones jurídicas aplicables, ajustándose a los lineamientos, normas y políticas internas que fije el Secretario Ejecutivo y a las que en su caso establezcan, en el ámbito de su competencia, otras dependencias de la Administración Pública Estatal.
 
@@ -407,13 +415,25 @@ XXIX. Participar en los planes y programas, que los sectores público, social y 
 
 XXX. Coordinar programas y campañas de protección y cuidado de los ecosistemas;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MAYO DE 2002)</small>
+
 XXXI. Previo acuerdo con el Secretario Ejecutivo, organizar y estructurar el Centro de Información Ambiental y proporcionar servicio a entidades públicas y privadas, instituciones educativas, organismos no gubernamentales y al público en general;
 
-XXXII. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario Ejecutivo, con respeto a las atribuciones de éste y de la Junta de Gobierno.
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XXXII. Planear, coordinar y ejecutar obras y acciones que permitan la prestación del servicio público consistente en la recolección, conducción, tratamiento, alejamiento y descarga de las aguas residuales, previo convenio celebrado con el Municipio de que se trate; así como el manejo y disposición de lodos generados y en general, las acciones necesarias para conservar y mejorar la calidad del agua en las corrientes, embalses y acuíferos, conforme a las disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XXXIII. Planear y ejecutar obras que cuenten con equipos, dispositivos, instalaciones y acciones que permitan recolectar, alejar, tratar las aguas residuales municipales, su posible reuso, previo convenio celebrado con el Municipio respectivo, así como el tratamiento y manejo de lodos resultantes y el manejo de las aguas pluviales, y
+
+XXXIV. Las demás que le confieran otras disposiciones jurídicas o le delegue el Secretario Ejecutivo, con respeto a las atribuciones de éste y de la Junta de Gobierno.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### Artículo 22.
 
-La Subsecretaría Ejecutiva de Agua y Saneamiento, le corresponde el ejercicio de las siguientes atribuciones:
+A la Subsecretaría Ejecutiva de Agua y Saneamiento, le corresponde el ejercicio dl las siguientes atribuciones específicas:
 
 I. Formular, actualizar y vigilar el cumplimiento del Plan Estatal Hidráulico, en coordinación con las autoridades federales, estatales y municipales, para los diversos usos que se le dan al agua en la Entidad;
 
@@ -471,9 +491,9 @@ XXVII. Ejecutar y supervisar obras de captación y distribución de agua potable
 
 XXVIII. Ejercer las atribuciones que le confiere a la CEAMA, la legislación Estatal en materia de agua, en cuanto a la administración, operación, conservación y mantenimiento de los sistemas y comités de agua potable, alcantarillado y saneamiento del Estado;
 
-XXIX. Planear, coordinar y ejecutar obras y acciones que permitan la prestación del servicio público consistente en la recolección, conducción, tratamiento, alejamiento y descarga de las aguas residuales, así como el manejo y disposición de lodos generados y en general, las acciones necesarias para conservar y mejorar la calidad del agua en las corrientes, embalses y acuíferos, conforme a las disposiciones ambientales aplicables;
+XXIX. (DEROGADA, P.O. 15 DE MAYO DE 2002)
 
-XXX. Planear y ejecutar obras que cuenten con equipos, dispositivos, instalaciones y acciones que permitan recolectar, alejar, tratar las aguas residuales municipales, su posible reuso, el tratamiento y manejo de lodos resultantes, así como el manejo de las aguas pluviales;
+XXX. (DEROGADA, P.O. 15 DE MAYO DE 2002)
 
 XXXI. Proponer programas de fomento y promoción de saneamiento, así como todos aquellos de carácter sectorial que establezca el Plan Estatal de Desarrollo y dirigir, coordinar y controlar su ejecución;
 
@@ -485,9 +505,11 @@ XXXIV. Planear y ejecutar los diagnósticos técnicos, administrativos y comerci
 
 XXXV. Las demás que le confieran otras disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### Artículo 23.
 
-Al Subsecretario Ejecutivo de Administración y Finanzas, le corresponde el ejercicio de las siguientes atribuciones genéricas:
+A la Subsecretaría Ejecutiva de Administración y Finanzas, le corresponde el ejercicio de las siguientes atribuciones específicas:
 
 I. Planear, organizar, programar, dirigir, controlar y evaluar el desarrollo de los programas de la Subsecretaría Ejecutiva a su cargo;
 
@@ -531,11 +553,29 @@ Al frente de la Coordinación de Asesores, habrá un titular, quien para la mejo
 
 A la Coordinación de Asesores le corresponde el ejercicio de las siguientes atribuciones:
 
-I. Prestar asesoría al Secretario Ejecutivo, en todos los asuntos que él le encomiende;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-II. Representar al Secretario Ejecutivo en los eventos que éste le señale, y
+I. Realizar y coordinar las acciones de apoyo del Secretario Ejecutivo;
 
-III. Las demás que el Secretario Ejecutivo le encomiende de manera expresa.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Prestar al Secretario Ejecutivo el apoyo y la asesoría que no estén expresamente encomendados a otras unidades administrativas de la CEAMA;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+III. Verificar la ejecución de los programas e instrucciones que expresamente señale el Secretario Ejecutivo, cuando competan a más de una de las unidades administrativas de la CEAMA;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+IV. Coordinar y llevar a cabo el seguimiento de los acuerdos e instrucciones que expresamente señale el Secretario Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+V. Representar al Secretario Ejecutivo, en los eventos que éste le señale, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VI. Las demás que le señalen las disposiciones jurídicas aplicables.
 
 ### CAPÍTULO SÉPTIMO. DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
@@ -617,25 +657,41 @@ X. Las demás que le confieran las disposiciones jurídicas.
 
 Se adscriben a la Subsecretaría Ejecutiva de Ecología y Medio Ambiente las siguientes Direcciones Generales:
 
-Dirección General de Vigilancia e Impacto Ambiental
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-Dirección General de Planeación y Protección Ambiental
+I. Dirección General de Vigilancia e Impacto Ambiental, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Dirección General de Planeación y Protección Ambiental.
 
 ###### Artículo 31.
 
 Se adscriben a la Subsecretaría Ejecutiva de Agua y Saneamiento las siguientes Direcciones Generales:
 
-Dirección General de Planeación, Estudios y Proyectos
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-Dirección General de Construcción y Mantenimiento
+I. Dirección General de Planeación, Estudios y Proyectos;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Dirección General de Construcción y Mantenimiento, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2002)</small>
+
+III. Dirección General de Perforación de Pozos.
 
 ###### Artículo 32.
 
 Se adscriben a la Subsecretaría Ejecutiva de Administración y Finanzas, las siguientes Direcciones Generales:
 
-Dirección General de Recursos Humanos y Financieros
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-Dirección General de Recursos Materiales y Desarrollo Institucional
+I. Dirección General de Recursos Humanos y Financieros, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Dirección General de Recursos Materiales y Modernización.
 
 ###### Artículo 33.
 
@@ -731,9 +787,23 @@ XIV. Proporcionar previo convenio, asesoría a los municipios en materia de conc
 
 XV. Promover eventos, cursos y concursos con el sector público, privado y social en materia ambiental;
 
-XVI. Apoyar a la Subsecretaría de Administración y Finanzas, en la realización de los concursos relacionados con las actividades que deba ejecutar en el ejercicio de sus atribuciones, de conformidad con las disposiciones jurídicas de la materia, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-XVII. Las demás que le confieran las disposiciones jurídicas aplicables, así como las que expresamente le encomiende el Subsecretario Ejecutivo.
+XVI. Apoyar a la Subsecretaría de Administración y Finanzas, en la realización de los concursos relacionados con las actividades que deba ejecutar en el ejercicio de sus atribuciones, de conformidad con las disposiciones jurídicas de la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XVII. Realizar inspecciones a los establecimientos industriales, comerciales, de servicios, así como a otros inmuebles, para verificar el cumplimiento del marco normativo vigente en materia ambiental;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XVIII. Evaluar los informes preventivos y las manifestaciones de impacto ambiental, de obras y actividades de conformidad con lo establecido en la normatividad vigente en la materia;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIX. Ejecutar acciones en materia de saneamiento de aguas residuales industriales y municipales previo convenio con el Ayuntamiento respectivo, y
+
+XX. Las demás que le confieran las disposiciones jurídicas aplicables, así como las que expresamente le encomiende el Subsecretario Ejecutivo.
 
 ###### Artículo 37.
 
@@ -799,6 +869,24 @@ V. Supervisar las obras de construcción que se ejecuten por contrato y ejecutar
 
 VI. Las demás que le confieran las disposiciones jurídicas aplicables.
 
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2002)</small>
+
+###### Artículo 39 Bis.
+
+Corresponde al Director General de Perforación de Pozos, el ejercicio de las siguientes atribuciones especificas:
+
+I. Brindar asesorías en materia de perforación, operación y mantenimiento de pozos, de acuerdo con la normatividad vigente en la materia;
+
+II. Realizar obras en materia de perforación, operación y mantenimiento de pozos, para ampliar, crear y mejorar los servicios que prestan los Sistemas de Agua Potable, Alcantarillado y Saneamiento en las comunidades urbanas y rurales del Estado y. en su caso, la CEAMA;
+
+III. Realizar obras relacionadas con perforación, operación y mantenimiento de pozos, para ampliar, crear y mejorar los servicios que prestan los distritos y unidades de riego en los ejidos y comunidades del Estado;
+
+IV. Supervisar las obras de perforación de pozos, que se realicen por contrato y ejecutar las autorizadas por administración directa, conforme al presupuesto aprobado y a las disposiciones jurídicas aplicables;
+
+V. Apoyar la realización de los concursos que se lleven a cabo para la contratación de obras y servicios relacionados con perforación, operación y mantenimiento de pozos, y
+
+VI. Las demás que le confieran las disposiciones jurídicas aplicables.
+
 ###### Artículo 40.
 
 Son funciones del Director General de Recursos Humanos y Financieros las siguientes atribuciones específicas:
@@ -831,27 +919,89 @@ XIII. Elaborar y actualizar, la estructura orgánica, el tabulador de sueldos, e
 
 XIV. Las demás que le confieran las disposiciones jurídicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### Artículo 41.
 
-Son funciones del Director General de Recursos Materiales y Desarrollo Institucional, las siguientes atribuciones específicas:
+Son funciones del Director General de Recursos Materiales y Modernización, las siguientes atribuciones especificas:
 
 I. Controlar y conservar en óptimas condiciones los bienes patrimoniales de la CEAMA y proporcionar las mejores condiciones de oportunidad precio y calidad, los recursos materiales necesarios para los fines de la comisión, de conformidad con la normatividad correspondiente;
 
-II. Establecer el Comité de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la CEAMA;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Auxiliar al Secretario Técnico del Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la CEAMA, en las funciones que tiene encomendadas;
 
 III. Vigilar y mantener los bienes de la CEAMA en adecuadas condiciones, de conformidad con la normatividad aplicable, cumpliendo con su uso, resguardo y aseguramiento;
 
 IV. Supervisar que las unidades administrativas de la CEAMA, cuenten con el material, equipo y capacitación necesarios para el óptimo desarrollo de sus funciones;
 
-V. Evaluar las necesidades de las unidades administrativas de la CEAMA, con relación a los servicios de informática y telecomunicaciones, con el objeto de desarrollar y coordinar los procesos de datos, información y comunicación interna y externa;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-VI. Mantener en nivel óptimo el uso de hardware y software, así como el adecuado uso de la infraestructura de redes y telecomunicaciones;
+V. Determinar en coordinación con las unidades administrativas de la CEAMA, la existencia en los almacenes, con base en criterios de eficiencia y economía;
 
-VII. Fijar los objetivos de calidad y eficiencia en las materias de su competencia, estableciendo controles que permitan la evaluación continua de resultados;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-VIII. Determinar en coordinación con las unidades administrativas de la CEAMA, la existencia en los almacenes, con base en criterios de eficacia y economía, y
+VI. Aplicar las políticas, normas y procedimientos en materia de modernización administrativa e informática;
 
-IX. Las demás que le confieran las disposiciones jurídicas.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VII. Proporcionar apoyo y asesoría en materia de informática y comunicaciones, a las unidades administrativas de la CEAMA, así como en lo relativo a la aplicación del Programa de Modernización Administrativa en la Comisión;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+VIII. Desarrollar y establecer un programa de capacitación informática permanente para el personal del organismo;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+IX. Evaluar las necesidades de las unidades administrativas de la CEAMA, así como emitir dictámenes técnicos en las materias de su competencia, tratándose de la adquisición y enajenación de bienes que realicen las unidades administrativas de la CEAMA;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+X. Analizar la factibilidad de implementación de nuevas tecnologías, avocadas a nuevas herramientas para el apoyo del funcionamiento general de la CEAMA;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XI. Realizar proyectos informáticos para el logro de los objetivos de la Comisión, coordinando e implementando acciones que permitan el desarrollo de procesos ágiles que satisfagan las necesidades de información de manera rápida y oportuna;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XII. Coordinar la modernización, reingeniería y desarrollo informático y de comunicaciones de la CEAMA;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIII. Planear el desarrollo y administración de los servicios y recursos informáticos;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIV. Coordinar y supervisar el análisis, diseño, desarrollo y operación de los sistemas de información que requieran las diferentes unidades administrativas de la CEAMA, estableciendo controles que permitan la evaluación continua de resultados;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XV. Controlar la asignación adecuada y oportuna de los recursos informáticos y brindar el soporte técnico necesario;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XVI. Mantener comunicación con la Coordinación General de Modernización y Desarrollo Científico Tecnológico, sobre los avances de actividades en materia de modernización e informática;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XVII. Supervisar que los resguardos documentales y dispositivos magnéticos de los documentos obligatorios de la Institución, como son compendio jurídico, manual de estructura, reglamento interior y manuales administrativos, se realicen con base en la normatividad establecida por las áreas respectivas del Gobierno del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XVIII. Coordinar el análisis y la redefinición de procesos que se requieran, para la optimización de estructuras y de procedimientos, promoviendo la automatización, la desconcentración y la descentralización administrativa, así como la simplificación de procesos para contar con información veraz, oportuna y segura para la toma de decisiones;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XIX. Establecer vínculos de comunicación con instituciones públicas, privadas, nacionales e internacionales, que realicen actividades similares, con el propósito de intercambiar conocimientos y experiencias en materia de modernización administrativa e informática;
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XX. Participar en los proyectos interinstitucionales de modernización, reingeniería y desarrollo informático, así como de comunicaciones que promueva la Coordinación General de Modernización y Desarrollo Científico Tecnológico, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2002)</small>
+
+XXI. Las demás que en el ámbito de su competencia, le sean conferidas por otras disposiciones jurídicas.
 
 ### CAPÍTULO DÉCIMO SEGUNDO. DE LAS COMISIONES, COMITÉS Y CONSEJOS DE LA CEAMA
 
@@ -881,35 +1031,53 @@ El Secretario Ejecutivo, los Subsecretarios Ejecutivos y los Directores Generale
 
 Para su mejor organización y funcionamiento, las comisiones, comités y consejos, establecerán sus propias normas internas de operación.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### Artículo 48.
 
-El Comité para el control de las Adquisiciones, Arrendamientos, Enajenaciones, Prestación de Servicios, Obras Públicas y Servicios relacionados con las mismas de la CEAMA, tendrá como objeto ser un órgano de supervisión de la aplicación de los recursos públicos destinados a la ejecución de obra pública, adquisiciones, arrendamientos, enajenaciones, contratación de servicios y demás operaciones en las materias competencia de la CEAMA, para el aprovechamiento racional y adecuado de éstos, ajustándose a los programas y disposiciones vigentes, en la materia que corresponda.
+El Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la CEAMA, tiene por objeto ser un órgano de supervisión de la aplicación de los recursos públicos destinados a adquisiciones, enajenaciones, arrendamientos, prestación de servicios y demás operaciones que se requieran, en las materias competencia de la CEAMA, para el aprovechamiento racional y adecuado de éstos, ajustándose a los programas y disposiciones correspondientes, así como a los criterios y lineamientos que dicte el Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
 
 ###### Artículo 49.
 
-Para el logro de su objeto, el Comité de Adquisiciones, Arrendamientos, Enajenaciones, Prestación de Servicios, Obras Públicas y Servicios relacionados con las mismas de la CEAMA, se integrará de la siguiente manera:
+Para el logro de su objeto, el Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación Servicios de la CEAMA, se integrará de la siguiente manera:
 
 I. Presidente: El Secretario Ejecutivo de la CEAMA;
 
-II. Secretario Ejecutivo: El Subsecretario Ejecutivo de Administración y Finanzas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-III. Secretario Técnico: El Director General de Recursos Materiales y Desarrollo Institucional;
+II. Secretario Ejecutivo: El representante del Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos;
 
-IV. Vocales: El Subsecretario Ejecutivo de Ecología y Medio Ambiente, el Subsecretario Ejecutivo de Agua y Saneamiento, un representante de las siguientes dependencias del Gobierno del Estado, de la Contraloría General, de la Oficialía Mayor, de la Secretaría de Gobierno, de la Secretaría de Desarrollo Urbano y Obras Públicas y de la Consejería Jurídica;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+III. Secretario Técnico: El Subsecretario Ejecutivo de Administración y Finanzas;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+IV. Vocales: El Subsecretario Ejecutivo de Ecología y Medio Ambiente y el Subsecretario Ejecutivo de Agua y Saneamiento;
 
 V. Asesores: El Comisario y el titular de la Unidad Jurídica de la CEAMA, quienes participarán con voz pero sin voto, y
 
 VI. Invitados: Los que se consideren necesarios que asistan, para proporcionar o aclarar la información de los asuntos a tratar, de acuerdo con las necesidades particulares de la CEAMA, quienes tendrán derecho a voz pero no a voto.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MAYO DE 2002)</small>
+
 ###### Artículo 50.
 
-El Comité de Adquisiciones, Arrendamientos, Enajenaciones, Prestación de Servicios, Obras Públicas y Servicios relacionados con las mismas de la CEAMA, tendrá las atribuciones siguientes:
+El Subcomité para el Control de las Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios de la CEAMA, tendrá las atribuciones siguientes:
 
-I. Divulgar el Contenido de las leyes de Obra Pública Estatal, de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo, la de Presupuesto, Contabilidad y Gasto Público Federal, así como las demás disposiciones aplicables a dichas actividades, además de orientar al personal responsable del abastecimiento y manejo de almacenes, en el cumplimiento de tales ordenamientos legales;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
 
-II. Ejecutar sus funciones de conformidad con la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo, sus normas, la Ley de Obra Pública Estatal, las leyes federales en la materia y los convenios suscritos con la federación que le otorguen facultades específicas;
+I. Divulgar el contenido de la normatividad vigente en materia de adquisiciones, enajenaciones, arrendamientos y prestación de servicios, así como las demás disposiciones jurídicas aplicables a dichas actividades, además de orientar al personal responsable del abastecimiento y manejo de almacenes, para el cumplimiento de tales normas;
 
-III. Establecer la coordinación correspondiente con los Comités del Ejecutivo del Estado, para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios y de Obras Públicas, para plantear los asuntos en las materias de su competencia y coadyuvar al cumplimiento de las normas y acuerdos que dicten tales instancias;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+II. Ejecutar sus funciones de conformidad con la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado de Morelos, las leyes federales en la materia y los convenios suscritos con la Federación, que le otorguen facultades específicas;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2002)</small>
+
+III. Establecer la coordinación correspondiente con el Comité para el Control de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Poder Ejecutivo del Estado de Morelos, para tratar los asuntos en las materias de su competencia y coadyuvar al cumplimiento de las normas y acuerdos que dicte el mencionado Comité, como órgano de autoridad en la materia;
 
 IV. Sugerir las investigaciones y métodos necesarios para otorgar mayor eficacia y unificación a los sistemas y procedimientos relacionados con las adquisiciones a realizar por la CEAMA;
 
@@ -984,3 +1152,13 @@ ING. E. JAVIER BOLAÑOS AGUILAR
 SECRETARIO EJECUTIVO DE LA COMISIÓN ESTATAL DEL AGUA Y MEDIO AMBIENTE
 
 RÚBRICAS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MAYO DE 2002.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO. Se abrogan las disposiciones administrativas que se opongan al presente Decreto.
+
+TERCERO. Los manuales y disposiciones administrativas correspondientes, seguirán aplicándose en todo lo que no se oponga al presente Decreto.
