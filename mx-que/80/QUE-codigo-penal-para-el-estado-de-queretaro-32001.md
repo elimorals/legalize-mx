@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1999-10-15"
+last_updated: "2000-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE OCTUBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -797,7 +797,7 @@ Para efectos de la substitución se requiere que el reo satisfaga los requisitos
 
 ###### ARTICULO 88.
 
-Se confiere a los Organos Jurisdiccionales la facultad de suspender condicionalmente la ejecución de la pena de prisión, si concurren las siguientes circunstancias:
+Se confiere a los Órganos Jurisdiccionales la facultad de suspender condicionalmente la ejecución de la pena de prisión, si concurren las siguientes circunstancias:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
@@ -805,9 +805,9 @@ I.- Que no hubiere sido condenado anteriormente, por sentencia ejecutoriada, por
 
 II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos.
 
-III.- Que durante el proceso no se haya sustraido a la acción judicial.
+III.- Que durante el proceso no se haya sustraído a la acción judicial.
 
-> <small>(REFORMADA, P.O. 2 DE ABRIL 1999)</small>
+> <small>(REFORMADA, P.O.2 DE ABRIL 1999)</small>
 
 IV.- Que la pena de prisión impuesta no exceda de cinco años;
 
@@ -1269,7 +1269,7 @@ Al que habiendo atropellado culposamente o por caso fortuito a una persona, no l
 
 ###### ARTICULO 146.
 
-Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por si mismo, lo entregue a una institución o a cualquiera otra persona, contraviniendo la Ley, o contra la voluntad de quien se lo confió o sin aviso al Juez de lo Familiar, se le aplicará prisión de tres meses a un año o trabajo en favor de la comunidad hasta por seis meses.
+Al que teniendo la obligación de hacerse cargo de un incapaz de cuidarse por si mismo, lo entregue a una institución o a cualquiera otra persona, contraveniendo la Ley, o contra la voluntad de quien se lo confió o sin aviso al Juez de lo Familiar, se le aplicará prisión de tres meses a un año o trabajo en favor de la comunidad hasta por seis meses.
 
 No se aplicará pena alguna a la madre que entregue a su hijo por ignorancia, extrema pobreza o cuando aquél haya sido producto de una violación.
 
@@ -1643,7 +1643,7 @@ Igual sanción se aplicará al que cometa robo de documentos que contengan oblig
 
 ###### ARTICULO 185.
 
-La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que correponda (sic) dentro del término señalado en el Código Civil.
+La pena que correponda (sic) al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que corresponda dentro del término señalado en el Código Civil.
 
 No habrá lugar a la disminución a que se refiere este Artículo, si al que se apoderó de la cosa le fuere reclamada por quien tenga derecho a ella y se rehúse a entregarla.
 
@@ -2023,7 +2023,41 @@ EXHUMACIÓN
 
 ### CAPITULO ÚNICO. RESPONSABILIDAD PROFESIONAL
 
-### CAPITULO I. SEDICIÓN
+### CAPITULO UNICO. DELITOS CONTRA EL AMBIENTE
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE 2000)</small>
+
+ARTICULO 246 A.- Se impondrá pena de 2 meses a 8 años de prisión y de 200 a 500 días multa, al que en contravención a la norma legal aplicable:
+
+I. Transporte, comercie, almacene, deseche, descargue o realice cualquier actividad empleando materiales o residuos peligrosos, en volúmenes que causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna o a los ecosistemas;
+
+II. Emita o descargue en la atmósfera, gases, humos, polvos, olores, vapores o emanaciones similares en cantidades o concentraciones que causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna o a los ecosistemas;
+
+III. Genere emisiones de ruido, vibraciones, energía térmica o lumínica, cuando por su intensidad causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna o a los ecosistemas.
+
+IV. Filtre o descargue aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en suelos o en aguas de jurisdicción local, o en aguas federales asignadas para la prestación de servicios públicos estatales o municipales, en cantidades o concentraciones que causen o puedan causar daños graves a la salud pública, a los recursos naturales, la flora, la fauna o a los ecosistemas.
+
+V. Por cualquier medio provoque o propague una plaga o enfermedad de las plantas, bosques o cultivos agrícolas, o una epizootia, si con ello se causan o pueden causarse daños graves a los recursos naturales, la flora, la fauna o los ecosistemas del Estado.
+
+VI. Ocasione un incendio que dé lugar a un grave menoscabo de los recursos forestales, pastizales o matorrales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE 2000)</small>
+
+ARTICULO 246 B.- Para estimar el potencial dañoso de las conductas previstas en las fracciones I a IV del artículo inmediato anterior, el juzgador atenderá a los parámetros máximos permisibles que establezcan las normas oficiales mexicanas y normas técnicas ecológicas locales, y en todo caso, además, al examen de peritos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE 2000)</small>
+
+ARTICULO 246 C.- Cuando las conductas previstas en este Capítulo se ejecuten en territorio decretado como área natural protegida, la pena se aumentará hasta en una mitad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE 2000)</small>
+
+ARTICULO 246 D.- Además de lo establecido en este capítulo, podrá imponer el juzgador:
+
+I. Alguna de las medidas de seguridad contempladas en el artículo 28 de este Código;
+
+II. Destitución de servidores públicos, en los casos en que se acredite su participación en la conducta ilícita, independientemente de la pena que les corresponda como responsables del delito; y
+
+III. La reparación del daño, en los términos de las disposiciones aplicables.
 
 ## TITULO SEGUNDO. DELITOS CONTRA LA SEGURIDAD
 
@@ -2033,7 +2067,7 @@ MEDIOS DE TRANSPORTE Y DE LA VÍAS
 
 DE COMUNICACIÓN
 
-### CAPITULO II. MOTÍN
+### CAPITULO I. SEDICIÓN
 
 ###### ARTICULO 222.
 
@@ -2065,7 +2099,7 @@ Al que por cualquier medio destruya total o parcialmente un vehículo de servici
 
 Cuando se cause algún daño por medio de cualquier vehículo de motor, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos por un tiempo no menor de seis meses ni mayor de cinco años. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO III. REBELIÓN
+### CAPITULO II. MOTÍN
 
 ###### ARTICULO 228.
 
@@ -2075,7 +2109,7 @@ Si este delito se comete por conductores de vehículos de transporte escolar o d
 
 En ambos casos se estará a lo dispuesto en el Artículo 227 de esta Ley.
 
-### CAPITULO IV. TERRORISMO
+### CAPITULO III. REBELIÓN
 
 ###### ARTICULO 229.
 
@@ -2087,15 +2121,15 @@ En tratándose de cónyuges, concubinos, ascendientes y descendientes, hermanos,
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 1991)</small>
 
-### CAPITULO V. SABOTAJE
+### CAPITULO IV. TERRORISMO
 
-### CAPITULO VI. CONSPIRACIÓN
+### CAPITULO V. SABOTAJE
 
 ## TITULO TERCERO. DELITOS CONTRA LA FE
 
 PUBLICA
 
-### CAPITULO VII. DISPOSICIONES COMUNES
+### CAPITULO VI. CONSPIRACIÓN
 
 ###### ARTICULO 230.
 
@@ -2105,7 +2139,7 @@ Si los objetos falsificados o alterados son propiedad de un particular, la sanci
 
 Al que use indebidamente cualquiera de los objetos arriba señalados, se le aplicarán las penas previstas en el párrafo anterior.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO VII. DISPOSICIONES COMUNES
 
 ###### ARTICULO 231.
 
@@ -2135,17 +2169,15 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 Cuando alguno de los delitos previstos en este Capítulo sea ejecutado por un servidor público en ejercicio de sus funciones, será penado, además, con privación del empleo e inhabilitación para ocupar otro cargo público hasta por 3 años.
 
-### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO
-
-PUBLICO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### ARTICULO 234.
 
 Al que haga uso de un documento falso o alterado para obtener un beneficio o causar daño, se le impondrá prisión de 3 meses a 3 años y de 15 a 90 días multa.
 
-### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES
+### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO
 
-PUBLICAS
+PUBLICO
 
 ###### ARTICULO 235.
 
@@ -2155,7 +2187,9 @@ Al que, sin serlo, se atribuya el carácter de profesionista, ofrezca públicame
 
 PUBLICA
 
-### CAPITULO IV. ABUSO DE AUTORIDAD
+### CAPITULO III. DESEMPEÑO IRREGULAR DE LAS FUNCIONES
+
+PUBLICAS
 
 ###### ARTICULO 236.
 
@@ -2169,7 +2203,7 @@ A los padres o tutores que acepten que los menores sujetos a su patria potestad,
 
 Para los efectos de este precepto se considerará que es empleado, el menor de dieciséis años de edad que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
 
-### CAPITULO V. INTIMIDACIÓN
+### CAPITULO IV. ABUSO DE AUTORIDAD
 
 ###### ARTICULO 238.
 
@@ -2177,9 +2211,9 @@ Al que explote el comercio sexual de otro, se mantenga de este comercio u obteng
 
 Si la persona objeto de la explotación fuere menor de dieciséis años de edad, la pena de prisión se aumentará hasta en una mitad.
 
-### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
+### CAPITULO V. INTIMIDACIÓN
 
-### CAPITULO VII. PECULADO
+### CAPITULO VI. COALICIÓN DE SERVIDORES PÚBLICOS
 
 ###### ARTICULO 239.
 
@@ -2201,7 +2235,7 @@ NORMAS DE INHUMACIÓN Y
 
 EXHUMACIÓN
 
-### CAPITULO VIII. COHECHO
+### CAPITULO VII. PECULADO
 
 ###### ARTICULO 240.
 
@@ -2219,7 +2253,7 @@ Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de 
 
 EJERCICIO DE LA PROFESIÓN
 
-### CAPITULO IX. CONCUSIÓN
+### CAPITULO VIII. COHECHO
 
 ###### ARTICULO 242.
 
@@ -2263,13 +2297,21 @@ Las mismas sanciones del artículo anterior se impondrán a los encargados o adm
 
 A los encargados, empleados o dependientes de farmacias que al surtir una receta sustituyan la medicina específicamente señalada, por otra que cause daños o sea evidentemente inapropiada al padecimiento para el cual se prescribió, se le impondrá prisión de 3 meses a 2 años y hasta 50 días multa.
 
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
+
+## TITULO SEPTIMO. DELITOS CONTRA EL AMBIENTE
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE 2000)</small>
+
+### CAPITULO IX. CONCUSIÓN
+
+### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
+
 ## TITULO PRIMERO. DELITOS CONTRA LA
 
 SEGURIDAD INTERIOR DEL
 
 ESTADO
-
-### CAPITULO X. ENRIQUECIMIENTO ILÍCITO
 
 ### CAPITULO XI. NEGOCIACIONES ILÍCITAS
 
@@ -2289,21 +2331,13 @@ PARTICULARES
 
 ### CAPITULO I. PROMOCIÓN DE CONDUCTAS ILÍCITA
 
-## TITULO CUARTO. DELITOS CONTRA LA
-
-ADMINISTRACIÓN DE JUSTICIA
-
-### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
-
 ###### ARTICULO 247.
 
 A los que en forma tumultuaria, sin uso de armas, resistan o ataquen a la autoridad para impedir el libre ejercicio de sus funciones con alguna de las finalidades a que se refiere el Artículo 249 de este Código se les aplicará prisión de 1 a 6 años.
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de sedición se les sancionará con prisión de 2 a 12 años.
 
-### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE
-
-RECURSOS PÚBLICOS
+### CAPITULO II. COHECHO COMETIDO POR PARTICULARES
 
 ###### ARTICULO 248.
 
@@ -2311,7 +2345,9 @@ A quienes para hacer uso de un derecho o pretextando su ejercicio o para evitar 
 
 A quienes dirijan, organicen, inciten, compelan o patrocinen económicamente a otros para cometer el delito de motín se les aplicará prisión de 2 a 12 años.
 
-### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
+### CAPITULO III. ADQUISICIÓN U OCULTACION INDEBIDA DE
+
+RECURSOS PÚBLICOS
 
 ###### ARTICULO 249.
 
@@ -2351,9 +2387,7 @@ Los rebeldes no serán responsables de los homicidios ni de las lesiones inferid
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros salvo que hubieran cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
-### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
-
-PARTICULARES
+### CAPITULO IV. FALSEDAD ANTE AUTORIDADES
 
 ###### ARTICULO 254.
 
@@ -2361,7 +2395,9 @@ Se impondrá prisión de 3 a 30 años, sin perjuicio de las penas que correspond
 
 Se aplicará prisión de 1 a 9 años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
+### CAPITULO V. DESOBEDIENCIA Y RESISTENCIA DE
+
+PARTICULARES
 
 ###### ARTICULO 255.
 
@@ -2375,13 +2411,13 @@ III.- Recursos o elementos esenciales, destinados al mantenimiento del orden pú
 
 Se aplicará prisión de 6 meses a 5 años, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
 
-### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
+### CAPITULO VI. QUEBRANTAMIENTO DE SELLOS
 
 ###### ARTICULO 256.
 
 A quienes resuelvan de concierto (sic) cometer uno o varios delitos del presente Título y acuerden los medios de llevar a cabo su determinación, se les impondrá prisión de 1 a 5 años.
 
-### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
+### CAPITULO VII. DELITOS CONTRA SERVIDORES PUBLICOS EN EJERCICIO DE SUS FUNCIONES
 
 ###### ARTICULO 257.
 
@@ -2395,13 +2431,11 @@ Tratándose de extranjeros se aumentarán hasta la mitad las penas previstas par
 
 A los mexicanos que cometan algún delito de carácter político, se les privará de sus derechos políticos o se les suspenderá en el ejercicio de éstos hasta por 8 años, contados a partir de que se extinga la pena de prisión o la potestad de ejecutarla.
 
-## TITULO QUINTO
+## TITULO CUARTO. DELITOS CONTRA LA
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
+ADMINISTRACIÓN DE JUSTICIA
 
-### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
-
-CONDECORACIONES
+### CAPITULO VIII. USURPACIÓN DE FUNCIONES PUBLICAS
 
 ###### ARTICULO 259.
 
@@ -2411,9 +2445,9 @@ Para los efectos de este Código, servidor público es toda persona que desempe�
 
 Los servidores públicos que cometan alguno de los delitos previstos en el presente Título serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
 
-### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES
+### CAPITULO IX. USO INDEBIDO DE UNIFORMES OFICIALES Y
 
-PÚBLICOS
+CONDECORACIONES
 
 ###### ARTICULO 261.
 
@@ -2433,15 +2467,15 @@ Al que cometa alguno de los delitos a que refieren las fracciones I, II y III de
 
 Al responsable de los delitos previstos en las fracciones IV y V se le impondrá prisión de 2 a 7 años y de 30 a 300 días multa.
 
-### CAPITULO II. FRAUDE PROCESAL
+### CAPITULO I. DELITOS COMETIDOS POR LOS SERVIDORES
+
+PÚBLICOS
 
 ###### ARTICULO 262.
 
 Al servidor público que indebidamente y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas, se le aplicará prisión de 3 meses a 3 años y de 10 a 120 días multa.
 
-### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
-
-DE PRUEBAS
+### CAPITULO II. FRAUDE PROCESAL
 
 ###### ARTICULO 263.
 
@@ -2469,11 +2503,9 @@ X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo 
 
 Cuando el monto del producto del delito o de los daños o perjuicios causados exceda de mil veces el salario, la sanción será de tres a nueve años de prisión y de 180 a 500 días multa.
 
-### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O
+### CAPITULO III. IMPUTACIÓN DE HECHOS FALSOS Y SIMULACIÓN
 
-DAÑO DE ACTUACIONES U OBJETOS
-
-RELACIONADOS CON ELLAS
+DE PRUEBAS
 
 ###### ARTICULO 264.
 
@@ -2493,23 +2525,27 @@ VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya conf
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de 1 a 6 años y de 30 a 300 días multa, penas que se aumentarán hasta en una mitad más por el caso previsto en la fracción VI de este Artículo.
 
-### CAPITULO V. EVASIÓN DE PRESOS
+### CAPITULO IV. SUSTRACCIÓN, DESTRUCCIÓN, ALTERACIÓN O
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+DAÑO DE ACTUACIONES U OBJETOS
+
+RELACIONADOS CON ELLAS
 
 ###### ARTICULO 265.
 
 Al servidor público que por si o por interpósita persona, utilizando la violencia física o moral, intimide a cualquier persona para evitar que ésta o un tercero denuncie, formule querella o aporte información relativa a la comisión de un delito, se le aplicarán de 2 a 6 años de prisión y de 50 a 450 días multa.
 
-### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS
+### CAPITULO V. EVASIÓN DE PRESOS
 
-DE LIBERTAD Y MEDIDAS DE SEGURIDAD
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 266.
 
 A los servidores públicos que se coaliguen para tomar medidas contrarias a una ley, reglamento o disposición de carácter general, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquier de sus ramas, se les impondrá de 6 meses a 3 años de prisión y de 30 a 180 días multa.
 
-### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
+### CAPITULO VI. QUEBRANTAMIENTO DE PENAS NO PRIVATIVAS
+
+DE LIBERTAD Y MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 267.
 
@@ -2517,7 +2553,7 @@ Al servidor público que para sí o para otro se apropie de dinero, valores, fin
 
 Si el valor de los objetos excede de mil veces el salario, se le aplicará prisión de 3 a 10 años y de 300 a 500 días multa.
 
-### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
+### CAPITULO VII. ENCUBRIMIENTO POR FAVORECIMIENTO
 
 ###### ARTICULO 268.
 
@@ -2527,9 +2563,7 @@ Cuando la cantidad o el valor de la dádiva, promesa o prestación, exceda de mi
 
 En ningún caso se devolverán a los responsables del delito de cohecho, el dinero o dádivas que se hubiesen entregado.
 
-### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y
-
-LITIGANTES
+### CAPITULO VIII. EJERCICIO INDEBIDO DEL PROPIO DERECHO
 
 ###### ARTICULO 269.
 
@@ -2537,9 +2571,9 @@ Al servidor público que con ese carácter y a título de impuesto o contribuci�
 
 Cuando la cantidad o el valor de lo exigido indebidamente, exceda de mil veces el salario, se aplicarán de 3 a 6 años de prisión y de 180 a 300 días multa.
 
-### CAPITULO X. DE LA TORTURA
+### CAPITULO IX. DELITOS DE ABOGADOS, DEFENSORES Y
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
+LITIGANTES
 
 ###### ARTICULO 270.
 
@@ -2549,9 +2583,9 @@ Se presumirá que existe enriquecimiento ilícito, cuando el servidor público n
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
-### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+### CAPITULO X. DE LA TORTURA
 
-(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 271.
 
@@ -2565,9 +2599,13 @@ III.- Valiéndose de la información que posea por razón de su empleo, cargo o 
 
 Si el monto de los beneficios económicos o de los perjuicios patrimoniales causados, excede de mil veces el salario, se impondrán de 3 a 10 años de prisión y de 240 a 500 días multa.
 
+### CAPITULO ÚNICO. DELITOS COMETIDOS CONTRA LA SEGURIDAD, CERTEZA Y EFICACIA DEL SUFRAGIO
+
+(ADICIONADO, P.O. 7 DE JULIO DE 1994) (F. DE E., P.O. 23 DE NOVIEMBRE DE 1995)
+
 ###### ARTICULO 272.
 
-Se impondrán de 6 meses a 6 años de prisión y hasta 30 días multa, al servidor público que por sí o por interpósita persona:
+Se impondrán de 6 meses a 6 años de prisión y hasta 30 días multa, al servidor público que por si o por interpósita persona:
 
 I.- Promueva o gestione la tramitación o resolución ilícita de negocios públicos ajenos a las responsabilidades inherentes a su empleo, cargo o comisión, o
 
@@ -2604,6 +2642,10 @@ Además de las penas a que se refiere el artículo anterior el perito, intérpre
 ###### ARTICULO 279.
 
 Al que sin causa legítima rehusare prestar un servicio al que la ley obligue o desobedeciere un mandato legítimo de la autoridad se le impondrá prisión de 3 meses a 1 año y hasta 20 días multa.
+
+## TITULO QUINTO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1994)</small>
 
 ###### ARTICULO 280.
 
@@ -3185,7 +3227,7 @@ P.O. 16 DE JULIO DE 1999
 
 ###### ARTICULO UNICO.
 
-La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del gobierno del Estado "La Sombra de Arteaga".
 
 P.O. 15 DE OCTUBRE DE 1999
 
@@ -3196,3 +3238,13 @@ Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan a la presente ley.
+
+P.O. 20 DE OCTUBRE DE 2000
+
+###### ARTICULO PRIMERO.
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+###### ARTICULO SEGUNDO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Gobierno del Estado "La Sombra de Arteaga".
