@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1953-12-26"
+last_updated: "1955-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1953.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1955.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -863,6 +863,8 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 #### SECCION I. DEL SUPREMO TRIBUNAL DE JUSTICIA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+
 #### SECCION II. DE LOS JUECES DE 1ª INSTANCIA Y MENORES
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
@@ -897,7 +899,7 @@ Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo denominado 
 
 ###### Art. 94.
 
-El Supremo Tribunal de Justicia, se compondrá de tres Magistrados propietarios, tres Suplentes, cinco Supernumerarios y los Interinos que accidentalmente nombre el Congreso o la Diputación Permanente, siendo uno de ellos el Presidente del Tribunal pleno.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y funcionará en Pleno o dividido en dos Salas, integradas cada una de éstas por el Presidente del Tribunal y dos Magistrados. Habrá, además, tres Magistrados Suplentes, quienes solo integrarán el pleno o las Salas cuando substituyan a un Magistrado Propietario, en los casos previstos por la Ley.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
 
@@ -931,23 +933,25 @@ IV. Ser de notoria buena conducta y haberla observado intachable públicamente.
 
 Los Magistrados del Supremo Tribunal de Justicia serán electos por el Congreso del Estado erigido en Colegio Electoral. La elección se hará en escrutinio secreto, siendo indispensable que concurran, cuando menos las dos terceras partes del número total de Diputados.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 ###### Art. 98.
 
-El Gobernador del Estado podrá pedir al Congreso la destitución, por mala conducta de cualquiera de los Magistrados del Supremo Tribunal de Justicia, y a éste, por igual motivo, la de los Jueces del orden común y Secretarios del Tribunal y de la Sala. Si el Congreso del Estado, o el Supremo Tribunal de Justicia en Pleno, en su caso, por mayoría absoluta de votos, declara justificada la petición, el funcionario acusado quedará privado desde luego de su cargo.
+El Gobernador del Estado podrá pedir al Congreso la destitución, por mala conducta, de cualquiera de los Magistrados del Supremo Tribunal, y a éste, por igual motivo, la de los Jueces del orden común y Secretarios del Tribunal y de las Salas. Si el Congreso del Estado, o el Supremo Tribunal de Justicia en Pleno, en su caso, por mayoría absoluta de votos declara justificada la petición, el funcionario acusado quedará privado desde luego de su cargo. La petición irá fundada en instructivo formado al efecto
 
-En el Congreso, la destitución se acordará en votación secreta, siendo indispensable que concurra, cuando menos las dos terceras partes del número total de Diputados.
+En el Congreso, la destitución se acordará en votación secreta, siendo indispensable que concurran, cuando menos, las dos terceras partes del número total de Diputados.
 
-Antes de pedir la destitución de algún funcionario judicial, el Gobernador oirá a éste, a efecto de que pueda apreciar en conciencia la justificac (sic) ón (sic) de tal petición.
+El Gobernador del Estado, antes de pedir la destitución, el Congreso o el Supremo Tribunal, en sus respectivos casos, antes de acordarla, deberán oír al funcionario acusado para, que puedan apreciar en conciencia la justificación de tal petición.
 
-> <small>(REFORMADO, P.O. 31 DE MAYO DE 1949)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 ###### Art. 99.
 
-Las faltas temporales y las relativas a determinado negocio, de los Magistrados Propietarios del Supremo Tribunal de Justicia, se cubrirán por sus respectivos Suplentes, y a falta de éstos, por los Supernumerarios, según su orden numérico. Agotados que fueren, por los Interinos que nombre el Congreso o la Diputación Permanente.
+Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes, según su orden numérico, mientras el Congreso del Estado hace nueva elección y toma posesión el electo. Si el Congreso no estuviere reunido, la Diputación Permanente hará en cada caso un nombramiento provisional, en tanto se reúne aquel y hace la elección correspondiente.
 
-Las faltas absolutas de los Magistrados Propietarios se cubrirán provisionalmente por los Suplentes o por los Supernumerarios, en la forma estatuida en el párrafo anterior, mientras el Congreso procede a hacer nueva elección. Si el Congreso no estuviere reunido, la Diputación Permanente hará un nombramiento provisional en tanto se reúne aquél y hace la elección correspondiente.
+Los Magistrados Propietarios serán substituidos en sus faltas temporales que excedan de quince días, por los Magistrados Suplentes, según su orden numérico. Si las faltas no exceden de ese término, o en los casos de recusación o excusa, serán cubiertas en una Sala, por los Magistrados de la otra, según el turno que corresponda; y en el Pleno, sólo serán substituidos por los Magistrados Suplentes, según su orden numérico, cuando por motivo de la falta o del impedimento, no se obtenga mayoría de tres votos por lo menos, en la resolución de un determinado negocio.
+
+Si no fuere posible integrar el pleno o las Salas, por tener impedimento legal para conocer de un determinado negocio los Magistrados llamados conforme a los párrafos anteriores de este artículo el Congreso del Estado, o la Diputación Permanente en su caso, nombrará los Magistrados Interinos que sean necesarios.
 
 ###### Art. 100.
 
@@ -965,43 +969,45 @@ Los funcionarios del Poder Judicial del Estado no podrán aceptar ni desempeñar
 
 La prohibición que antecede no comprende:
 
-I.- Los cargos docentes o en instituciones de beneficencia.
+I. Los cargos docentes o en instituciones de beneficencia.
 
-II.- A los Magistrados Suplentes, Supernumerarios e Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o excusa. Sin embargo, los Magistrados Suplentes y Supernumerarios podrán continuar ejerciendo las funciones notariales cuando substituyan a los Propietarios en sus faltas que no exceden de seis meses, y la abogacía cuando el período de suplencia no sea mayor de tres meses, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
-III.- Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
+II. A los Magistrados Suplentes e Interinos, cuando solamente integren el Pleno o las Salas del Supremo Tribunal de Justicia en los casos de recusación o escusa (sic). Sin embargo, los Magistrados Suplentes podrán continuar ejerciendo las funciones notoriales (sic) cuando substituyan a los propietarios en sus faltas que no excedan de seis meses, y la abogacía cuando el período de suplencia no sea mayor de tres meses; y
+
+III. Las funciones notariales, que podrán ser ejercidas por los Jueces de Primera Instancia y Menores en los lugares donde no haya Notaría, o habiéndolos estén impedidos para ejercerlas. La Ley del Notariado reglamentará esta fracción.
 
 ###### Art. 103.
 
 Es atribución del Poder Judicial del Estado, conocer en la forma y manera que lo fijen las leyes, las controversias cuya decisión no haya sido reservada de manera expresa a los Tribunales de la Federación, o a cualquiera otra autoridad.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1953)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
 
 ###### Art. 104.
 
-La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno de la Sala del Supremo Tribunal de Justicia y de los Juzgados conforme a las bases fijadas en esta Constitución correspondiendo exclusivamente al Supremo Tribunal en Pleno:
+La Ley Orgánica del Poder Judicial reglamentará el funcionamiento del Pleno y de las Salas del Supremo Tribunal de Justicia y de los Juzgados, conforme a las bases fijadas en esta Constitución, correspondiendo exclusivamente al Supremo Tribunal en PLENO:
 
-I. Conocer de las causas por delitos del orden común contra los altos funcionarios del Estado, previa la declaratoria a que se refiere el artículo 135.
+I. Conocer en única instancia de las causas por delitos del orden común contra los altos funcionarios del Estado, previa la declaratoria a que se refiere el Artículo 135.
 
-II. Conocer como Jurado de sentencia de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
+II. Conocer como jurado de sentencia, de las acusaciones por delitos oficiales contra los altos funcionarios del Estado.
 
-III. Declarar si ha lugar a formación de causa contra los Jueces de Primera Instancia, Secretarios del Supremo Tribunal y de las salas; y de los Jueces de los Tribunales para Menores.
+III. Declarar si ha lugar a formación de causa contra los Jueces de Primera Instancia, Secretarios del Supremo Tribunal y de las Salas, y de los Jueces de los Tribunales para Menores;
 
-IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí.
+IV. Conocer y resolver las controversias de cualquier orden que se susciten entre los Poderes del Estado, entre uno o más Poderes del Estado y los Ayuntamientos o entre éstos entre sí;
 
-V. Conocer en segunda instancia de los negocios que la tengan ante él conforme a las Leyes.
+V. Conocer de las competencias que se susciten entre los Jueces de Primera Instancia, o entre Jueces Menores de diversos Distritos Judiciales.
 
-VI. Llamar a los Magistrados Suplentes y Supernumerarios que deban cubrir las faltas de los Propietarios, ya sean absolutas temporales o relativas a determinado negocio, conforme el Artículo 99.
+VI. Llamar a los Magistrados Suplentes que deban cubrir las faltas de los Propietarios, ya sea absolutas, temporales o relativas a determinado negocio, conforme al Artículo 99;
 
-VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal, de las Salas de los Juzgados y de los Tribunales para Menores.
+VII. Nombrar a los Jueces y a los Secretarios, Actuarios y demás empleados subalternos del Supremo Tribunal, de las Salas, de los Juzgados y de los Tribunales para Menores;
 
-VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial.
+VIII. Determinar el número de Juzgados Menores que deberá haber en el Estado, el lugar de su residencia y el perímetro de su jurisdicción territorial;
 
-IX. Conocer de las competencias que se suscitaran entre los distintos juzgados del Estado.
+IX. Nombrar, cuando lo estime conveniente, Visitadores de Juzgados;
 
-X. Nombrar, cuando lo estime necesario, Visitadores de Juzgados, y
+X. Expedir los Reglamentos Internos del Supremo Tribunal y de los Juzgados, y
 
-XI. Expedir los Reglamentos Interinos del Supremo Tribunal y de los Juzgados.
+XI. Las demás que le confieran las Leyes.
 
 ###### Art. 105.
 
@@ -1285,7 +1291,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes funcion
 
 (3).- Al Secretario General de Gobierno, al Procurador General de Justicia, al Tesorero General, al Recaudador de Rentas residente en la Capital, les tomará la protesta el Gobernador del Estado, y ellos a su vez, a los demás empleados de sus dependencias que residan en la capital. En cuanto a los subalternos foráneos de las diversas secciones administrativas del Ejecutivo les tomará la protesta el Presidente Municipal de la jurisdicción en que ejerzan sus cargos.
 
-(4).- Al Secretario y demás empleados del Supremo Tribunal de Justicia y a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto Cuerpo. Al Secretario y Jueces, ante el Tribunal en pleno acuerdo y para los demás, ante el Secretario. A los Jueces de Primera Instancia que no puedan presentarse ante el Tribunal les tomará la protesta el Presidente Municipal de la cabecera en que residan. A los Jueces Menores les tomará la protesta el de Primera Instancia de su jurisdicción, o en caso de impedimento, el Síndico convecino.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1955)</small>
+
+(4).- A los Secretarios y demás empleados del Supremo Tribunal de Justicia y de las Salas, y a los Jueces de Primera Instancia y de los Tribunales para Menores les tomará la protesta el Presidente de aquel alto Cuerpo. A los Secretarios y Jueces, ante el Tribunal en Pleno, y para los demás, ante el Secretario de Acuerdos. A los Jueces de Primera Instancia que no puedan presentarse ante el Tribunal les tomará la protesta el Presidente Municipal de la cabecera en que residan. A los Jueces Menores les tomará la protesta el de Primera Instancia de su jurisdicción, o en caso de impedimento, el Síndico convecino.
 
 (5).- A los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
 
@@ -1796,3 +1804,13 @@ El Supremo Tribunal de Justicia dictará las medidas transitorias necesarias par
 ###### Artículo 5o.
 
 Mientras no se organicen los Tribunales para Menores, los Jueces de Primera Instancia seguirán conociendo de las infracciones a las Leyes Penales cometidas por menores, en los términos de los Códigos Penal y de Procedimientos Penales vigentes en el Estado.
+
+P.O. 31 DE DICIEMBRE DE 1955.
+
+Artículo Primero.- Las anterioros (sic) reformas iniciarán su vigencia el día primero de enero de mil novecientos cincuenta y seis.
+
+Artículo Segundo.- Antes del día veintiuno de diciembre del año actual, el Congreso del Estado procederá a la elección de dos Magistrados Propietarios, a efecto de que el Supremo Tribunal de Justicia quede integrado conforme a estas reformas el mismo día en que entren en vigencia.
+
+Artículo Tercero.- Los negocios que actualmente radican en el Supremo Tribunal de Justicia, si no fueren de la competencia del Pleno, pasarán al conocimiento de la Sala que correspondan.
+
+Artículo Cuarto.- El Supremo Tribunal de Justicia dictará las medidas transitorias necesarias para el cumplimiento de las presentes reformas, en cuanto no esté previsto por las mismas o por la Ley Orgánica del Poder Judicial.
