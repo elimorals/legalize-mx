@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-del-poder-judicial-del-estado-de-yucatan-23003"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-03-13"
-last_updated: "1993-12-01"
+last_updated: "1994-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE DICIEMBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 22 DE DICIEMBRE DE 1994.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el viernes 13 de marzo de 1992.
 
@@ -159,7 +159,7 @@ DE LOS MAGISTRADOS.
 
 ###### Artículo 13.
 
-El Tribunal Superior de Justicia se integrará por seis Magistrados denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; y funcionará en Pleno o en Salas, según lo determine esta Ley y las demás Leyes relativas. Uno de los Magistrados será el Presidente del Tribunal. Habrá seis Magistrados suplentes y para el despacho de los asuntos tendrá un Secretario General de Acuerdos, dos Secretarios que se denominarán Primero y Segundo y los Proyectistas y demás Auxiliares que fueren necesarios.
+El Tribunal Superior de Justicia se integrará por seis Magistrados denominados Primero, Segundo, Tercero, Cuarto, Quinto y Sexto; y funcionará en Pleno o en Salas, según lo determine esta Ley y las demás leyes relativas. Uno de los Magistrados será el Presidente del Tribunal. Habrá seis Magistrados suplentes y para el despacho de los asuntos tendrá un Secretario General de Acuerdos, dos Secretarios que se denominarán Primero y Segundo y los Proyectistas y demás Auxiliares que fueren necesarios.
 
 ###### ARTICULO 14.
 
@@ -223,7 +223,15 @@ XIX.- Conocer y resolver las cuestiones no previstas en la presente Ley en lo qu
 
 XX.- Dirigir las finanzas del Fondo Auxiliar para la Administración de Justicia del Estado;
 
-XXI.- Las demás atribuciones que le confieran las Leyes.
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XXI.- Designar a dos Magistrados Propietarios del Tribunal Superior de Justicia del Estado y a un Juez de Primera instancia del Poder Judicial del Estado, para integrar el Tribunal Superior Electoral del Estado, en los términos previstos por el Código Electoral del Estado de Yucatán.
+
+> <small>(ADICIONADA, D.O. 22 DE DICIEMBRE DE 1994)</small>
+
+XXII.- Designar a los Magistrados del Tribunal Electoral del Estado, de conformidad con las disposiciones contenidas en el Código Electoral del Estado de Yucatán.
+
+XXIII.- Las demás atribuciones que le confieran las Leyes.
 
 ###### ARTICULO 19.
 
@@ -1314,3 +1322,9 @@ Los Juzgados de Séptimo de Defensa Social y Quinto de lo Civil entrarán en fun
 ###### ARTICULO TERCERO.
 
 Los Juzgados Octavo de Defensa Social, Sexto de lo Civil y Cuarto de lo Familiar, entrarán en funciones cuando así lo acuerde el Pleno del Tribunal Superior de Justicia del Estado de Yucatán.
+
+D.O. 22 DE DICIEMBRE DE 1994.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado.
