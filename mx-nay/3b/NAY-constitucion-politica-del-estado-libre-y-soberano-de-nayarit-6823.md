@@ -4,7 +4,7 @@ identifier: "NAY-constitucion-politica-del-estado-libre-y-soberano-de-nayarit-68
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-17"
-last_updated: "1938-08-24"
+last_updated: "1939-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE AGOSTO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE ENERO DE 1939.
 
 Constitución publicada en el Periódico Oficial del Estado de Nayarit, los días 17, 21, 24 y 28 de febrero y 3, 7, 10 y 14 de marzo de 1918.
 
@@ -1057,15 +1057,17 @@ V. Las multas que conforme a las leyes deban ingresar al Erario.
 
 VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Público.
 
-> <small>(REFORMADO, P.O. 30 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
 
 ###### Art. 117.
 
-Para la guarda y distribución de los caudales públicos, habrá una Oficina Principal que se denominará Dirección General de Rentas, a cargo de un Director, la cual estará auxiliada a su vez por Oficinas Recaudadoras foráneas.
+Para la guarda distribución de los caudales públicos, habrá una Oficina Principal que se denominará Tesorería General del Estado, a cargo de un Tesorero, nombrado por el Ejecutivo, la cual será auxiliada por Oficinas Recaudadoras Foráneas.
+
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
 
 ###### Art. 118.
 
-El Director General de Rentas y Recaudadores foráneos distribuirán los fondos públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una ley posterior.
+El Tesorero General del Estado y Recaudadores Foráneos, distribuirán los Fondos Públicos conforme al Presupuesto de Egresos, y serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho Presupuesto o autorizados por una Ley posterior.
 
 ###### Art. 119.
 
@@ -1081,11 +1083,11 @@ Todo empleado de Hacienda que tuviere manejo de caudales públicos, lo caucionar
 
 El año fiscal queda comprendido del primero de enero al treinta y uno de diciembre inclusive.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
 
 ###### Art. 121 Bis.
 
-Para el arreglo y Administración de los caudales del Estado, el Ejecutivo nombrará y removerá libremente a un individuo que se denominará "Director General de Rentas"; quien desempeñará su cargo bajo las inmediatas órdenes e inspecsión (sic) del Gobernador.
+Para el arreglo y administración de los caudales del Estado, el Ejecutivo nombrará y removerá libremente a un individuo que se denominará "Tesorero General del Estado", quien desempeñará su cargo bajo las inmediatas órdenes e inspección del Gobernador.
 
 ## TITULO OCTAVO
 
@@ -1093,13 +1095,13 @@ Para el arreglo y Administración de los caudales del Estado, el Ejecutivo nombr
 
 Todo funcionario público, cualquiera que sea su categoría, es responsable de los delitos del orden común que cometa durante su encargo y de los delitos oficiales, faltas u omisiones en que incurriere en sus funciones; pero el Gobernador del Estado, durante el periodo de su duración sólo podrá ser acusado por los delitos de traición a la Patria, violación expresa de la Constitución Federal o de la Particular del Estado, ataques a la libertad electoral y delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1930)</small>
+> <small>(REFORMADO, P.O. 7 DE ENERO DE 1939)</small>
 
 ###### Art. 123.
 
-En los delitos del común (sic) que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno y el Director General de Rentas; la Legislatura, erigida en Gran Jurado, declarará, con aprobación de las dos terceras partes de sus miembros presentes, si ha o no lugar a formación de causa.
+En los delitos del Orden Común que cometieren los Diputados, los Magistrados del Supremo Tribunal, el Procurador General de Justicia, el Secretario General de Gobierno y el Tesorero General del Estado; la Legislatura, erigida en Gran Jurado, declarará, con aprobación de las dos terceras partes de sus miembros presentes si ha o no lugar a formación de causa.
 
-Cuando se trate del Gobernador, la Legislatura, erigida en Gran Jurado, declarará, con la aprobación de las dos terceras partes del número total de sus miembros, si ha no (sic) lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso, cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda por el mismo hecho separado de su encargo y sugeto (sic) desde luego a la acción de los Tribunales comunes, a menos que se trate del Gobernador del Estado pues, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
+Cuando se trate del Gobernador, la Legislatura erigida en Gran Jurado declarará con la aprobación de las dos terceras partes del número total de sus Miembros, si ha o no lugar a formación de causa. En caso negativo no habrá lugar a ningún procedimiento durante el periodo de sus funciones, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado deje de tener fuero. En caso afirmativo, el acusado queda por el mismo hecho, separado de su encargo y sujeto desde luego a la acción de los Tribunales Comunes, a menos que se trate del Gobernador del Estado, pues en, en tal caso, sólo habrá lugar a acusarlo como si se tratara de un delito oficial.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1334,3 +1336,7 @@ En la computación de términos pendientes al entrar en vigor los Códigos a que
 P.O. 24 DE AGOSTO DE 1938
 
 UNICO.- El presente Decreto surte sus efectos desde la fecha de su publicación, en el Periódico Oficial del Estado, y deroga todas las disposiciones que se opongan a su cumplimiento.
+
+P.O. 7 DE ENERO DE 1939
+
+UNICO.- El presente Decreto surte sus efectos a partir del día primero de enero de mil novecientos treinta y nueve.
