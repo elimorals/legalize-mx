@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-instituciones-y-procedimientos-electorales-del-11901"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-09-20"
-last_updated: "2003-06-30"
+last_updated: "2004-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ELECTORAL DEL ESTADO DE QUINTANA ROO, PUBLICADA EN EL PERIODICO OFICIAL DEL 4 DE MARZO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Código publicado en el Periódico Oficial el 20 de Septiembre de 1995.
 
@@ -4722,3 +4724,11 @@ P.O. 30 DE JUNIO DE 2003.
 PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado-
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a la presente.
+
+P.O. 4 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Esta Ley Electoral entrará en vigor a partir de los quince días siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga el Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo.
+
+TERCERO.- Los actos y procedimientos que se encuentren en trámite, concluirán de conformidad con el Código de Instituciones y Procedimientos Electorales del Estado de Quintana Roo que se abroga.
