@@ -4,7 +4,7 @@ identifier: "VER-codigo-financiero-para-el-estado-de-veracruz-de-ignacio-de-2138
 country: "mx"
 rank: "codigo"
 publication_date: "2001-04-03"
-last_updated: "2002-04-12"
+last_updated: "2002-07-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21383&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO NUMERO 18 FINANCIERO PARA EL ESTADO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE ABRIL DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE JULIO DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz, el martes 3 de abril de 2001.
 
@@ -215,9 +215,11 @@ Las autoridades fiscales ejercerán sus facultades en la forma y términos seña
 
 Las autoridades fiscales podrán aplicar el procedimiento administrativo de ejecución, con la finalidad de recuperar créditos fiscales insolutos, de conformidad con el Código de la materia.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
 ###### Artículo 22.
 
-Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código, las demás leyes aplicables y los convenios que, sobre el particular, se celebren.
+Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código y las demás leyes aplicables.
 
 ###### Artículo 23.
 
@@ -419,7 +421,9 @@ b) Si se trata de obligaciones derivadas de convenios, contratos o concesiones q
 
 c) Si las disposiciones fiscales no señalan la fecha de pago, éste deberá hacerse dentro de los quince días siguientes al nacimiento de la obligación fiscal.
 
-Los pagos se realizarán en horas y días hábiles. Si el último día del plazo o fecha determinada fuera inhábil, se prorrogará para el hábil siguiente.
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+Los pagos se realizarán en días y horas hábiles. Si el último día del plazo de pago o fecha determinada para realizar éste fuera inhábil o se trate de día viernes, se prorrogará para el hábil siguiente.
 
 Para los efectos de pago de contribuciones, aprovechamientos, productos o cualquier ingreso en favor del Estado, se considerarán como días inhábiles los sábados, domingos y días festivos señalados por ley. En los plazos establecidos por períodos y aquellos en que se señale una fecha determinada para su extinción se computarán todos sus días. Cuando las autoridades fiscales habiliten días inhábiles no se alterará el cálculo de los plazos.
 
@@ -543,11 +547,19 @@ Si dentro de dicho plazo no se efectúa la devolución, el Fisco del Estado paga
 
 La compensación entre particulares y el fisco estatal, entre el Estado y la Federación, demás Entidades Federativas y Municipios, podrá ser realizada respecto de cualquier clase de contribuciones, aprovechamientos, créditos o deudas, si unos y otros son líquidos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+
 ###### Artículo 48.
 
-Las contribuciones, aprovechamientos, créditos y deudas del Fisco Estatal, únicamente podrán compensarse cuando provengan de la aplicación de las disposiciones de este Código y se satisfagan los requisitos que para esta forma de extinción señala el derecho común.
+Los contribuyentes que presenten declaraciones periódicas y tengan saldos a su favor, podrán optar por compensar las cantidades que resulten a su cargo provenientes de la misma contribución, inclusive sus accesorios, cuando se encuentren en alguno de los siguientes supuestos:
 
-La compensación será autorizada por la autoridad fiscal, a petición del interesado.
+I. Cuando el saldo a favor provenga de ejercicios fiscales anteriores a aquel con el que pretendan compensar y no hubiera prescrito el derecho a realizar la compensación, presentarán aviso de compensación en el formato que al efecto emita la Secretaría, acompañando los documentos que al efecto se requieran por dicha dependencia.
+
+II. En caso de que la compensación sea por contribuciones correspondientes al mismo ejercicio, lo podrán compensar en cualquier momento del ejercicio, en la forma aprobada por la Secretaría.
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+La compensación de conceptos diferentes a las contribuciones, deberá ser autorizada por la autoridad fiscal, a petición del interesado.
 
 La misma autoridad fiscal, al tener conocimiento de que se han satisfecho los requisitos para la compensación, podrá autorizarla mediante resolución particular.
 
@@ -1099,6 +1111,10 @@ Son objeto de este impuesto las erogaciones en efectivo o en especie, por concep
 
 Para los efectos de este impuesto quedan comprendidas en el concepto de remuneraciones al trabajo personal subordinado, los sueldos y salarios, los cuales se integran con los pagos hechos en efectivo por cuota diaria, gratificaciones, percepciones, habitación, primas, comisiones y prestaciones en especie, con excepción de las señaladas en el artículo 103 de este Código.
 
+> <small>(ADICIONADO, G.O. 4 DE JULIO DE 2002)</small>
+
+Las personas físicas o morales que contraten la prestación de servicios con personas domiciliadas fuera del territorio del Estado, cuando ello implique la contratación de trabajadores y el servicio personal se preste en los términos del primer párrafo de este artículo, estarán obligadas a retener y enterar el impuesto de conformidad con lo previsto en el presente Capítulo. En este caso, se deberá proporcionar constancia de retención por parte de la persona que realizó la contratación.
+
 ###### Artículo 99.
 
 Son sujetos de este impuesto las personas físicas y morales que realicen las erogaciones a que se refiere el artículo anterior, así como los Gobiernos Federal, Estatal y Municipal, los organismos descentralizados, los desconcentrados, los autónomos y los fideicomisos de los tres órdenes de Gobierno.
@@ -1111,9 +1127,11 @@ La base del impuesto es el monto total de las erogaciones realizadas por concept
 
 Este impuesto se causará, liquidará y pagará aplicando la tasa del 2% sobre la base que señala el artículo anterior.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+
 ###### Artículo 102.
 
-El impuesto se causará en el momento en que se realicen las erogaciones por el trabajo personal subordinado.
+El impuesto se causará en el momento en que efectivamente se efectúen las erogaciones por el trabajo personal subordinado.
 
 Los contribuyentes pagarán mediante declaración mensual, a través de la forma oficial autorizada para tal efecto, a más tardar el día diecisiete del mes siguiente al de la causación del impuesto, en la Oficina de Hacienda del Estado correspondiente al domicilio fiscal del contribuyente o en las instituciones bancarias autorizadas por la Secretaría.
 
@@ -1201,7 +1219,9 @@ I. Inscribirse en el Registro Estatal de Contribuyentes, ante la Oficina de Haci
 
 Tratándose de empresas de nueva creación, las personas morales y las personas físicas, acreditarán esta condición ante la autoridad fiscal estatal mediante exhibición de la solicitud de inscripción en el Registro Federal de Contribuyentes presentada ante la Secretaría de Hacienda y Crédito Público. Las personas morales también presentarán su acta constitutiva protocolizada ante Notario Público, con los registros que marca la Ley. Los federatarios públicos comunicarán a la autoridad fiscal estatal la constitución de dichas personas morales.
 
-II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, liquidación, cancelación en el Registro Estatal de Contribuyentes y terminación de actividades; dentro del plazo de treinta días siguientes al que ocurra cualquiera de estos supuestos.
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+II. Presentar ante la Oficina de Hacienda del Estado que corresponda a la jurisdicción de su domicilio fiscal, los avisos de cambio de denominación o razón social, cambio de domicilio fiscal, suspensión o reanudación de actividades, liquidación, cancelación en el Registro Estatal de Contribuyentes, terminación de actividades, aumento o disminución de obligaciones, cambio de representante legal y apertura o cierre de sucursales; dentro del plazo de treinta días siguientes al que ocurra cualquiera de estos supuestos.
 
 III. Presentar copia del dictamen ante la autoridad fiscal estatal para efectos del impuesto sobre nóminas, cuando conforme a lo establecido en el Código Fiscal de la Federación, los contribuyentes estén obligados o hayan optado por dictaminar sus estados financieros por Contador Público autorizado. La copia del dictamen deberá presentarse dentro de los ocho meses siguientes a la terminación del ejercicio que se dictamine conforme a lo dispuesto en el Código Fiscal de la Federación.
 
@@ -1725,25 +1745,37 @@ Por servicios prestados por la Secretaría de Gobierno, a través de las depende
 
 A. Por servicios del Registro Público de la Propiedad:
 
-I. Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada $10.00 o fracción: $0.06
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+
+I. Por la inscripción de documentos que contengan actos jurídicos relativos a la adquisición, transmisión o modificación de la propiedad o posesión de bienes inmuebles o derechos reales sobre los mismos y que no estén comprendidos en las siguientes fracciones, se pagará tomando como base el mayor valor que resulte de comparar el valor catastral asignado por la oficina correspondiente con el consignado en la operación, por cada $10.00 o fracción: $0.80
 
 Cuando se trate del derecho real de usufructo a que se refiere el artículo 1013 del Código Civil del Estado, el cálculo de los derechos se hará sobre el 75% del valor que sirva de base conforme al párrafo anterior.
 
 En ningún caso la cantidad a pagar podrá ser menor de 5 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-II. Por la inscripción de documentos donde consten fraccionamientos, fusión de predios, lotificaciones, subdivisiones y servidumbres. 6 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-III. Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos. 6 salarios mínimos
+II. Por la inscripción de documentos donde consten fraccionamientos, fusión de predios, lotificaciones, subdivisiones y servidumbres. 10.4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+III. Por la inscripción de la división de copropiedad, del apeo y deslinde, de rectificación de medidas y linderos. 8 salarios mínimos
 
 IV. Por la inscripción de capitulaciones matrimoniales y disolución de sociedad conyugal. 10 salarios mínimos
 
-V. Por la inscripción de constitución de régimen de propiedad en condominio. Por cada vivienda o local: 3 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-VI. Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad, por cada $10.00 o fracción. $0.04
+V. Por la inscripción de constitución de régimen de propiedad en condominio. Por cada vivienda o local. 5 salarios mínimos
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+
+VI. Por la inscripción de documentos relativos a fianzas, hipotecas, reconocimientos de adeudos, créditos refaccionarios de habilitación o avío, mutuo con interés simple y arrendamiento financiero, garantizados con prenda o hipoteca en el Registro Público de la Propiedad, por cada $10.00 o fracción. $0.06
 
 En ningún caso la cantidad a pagar podrá ser menor de 10 salarios mínimos, ni mayor de 100 salarios mínimos.
 
-VII. Por el registro de actas de embargo, cédulas hipotecarias, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $10.00 o fracción. $0.10
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JULIO DE 2002)</small>
+
+VII. Por el registro de actas de embargo, cédulas hipotecarias, providencias judiciales y demás diligencias decretadas por la autoridad judicial o administrativa sobre el monto total de las cantidades cuyo cobro se asegure por medio del procedimiento, por cada $10.00 o fracción. $0.20
 
 Cuando en dichos actos se comprendan bienes de cualquier clase, correspondientes a dos o más entidades federativas, y no fuere posible establecer el valor proporcional de la cantidad asegurada respecto a los que se encuentren ubicados en el territorio veracruzano, se cobrará el 0.02% del valor de la suerte principal del embargo.
 
@@ -1751,35 +1783,55 @@ En ningún caso la cantidad a pagar podrá ser menor a 2 salarios mínimos ni ma
 
 VIII. Por la inscripción del contrato de arrendamiento, sobre fincas urbanas o rústicas. 5 salarios mínimos
 
-IX. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles. 6 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-X. Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito. 4 salarios mínimos
+IX. Por la inscripción del auto declaratorio de herederos y nombramiento de albacea, y cesión de derechos hereditarios si ésta no incluye bienes inmuebles. 8 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+X. Por la inscripción de cualquier tipo de testamentos, contratos de depósito, comodato, prestación de servicios profesionales de obra a precio alzado, aparcería agrícola o ganadera, renta vitalicia y cualquier otro documento que, conforme a la ley, pueda ser inscrito. 8 salarios mínimos
 
 XI. Por la inscripción de:
 
-a) Escrituras constitutivas de sociedades civiles o mercantiles. 20 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Documentos en que se modifique el capital de dichas sociedades. 15 salarios mínimos
+a) Escrituras constitutivas de sociedades civiles o mercantiles. 30 salarios mínimos
 
-c) Actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa. 10 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Documentos en que se modifique el capital de dichas sociedades. 20 salarios mínimos
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+c) Actas y estatutos de sociedades cooperativas, cualquiera que sea su objeto o denominación siempre que su funcionamiento se ajuste a la Ley Federal relativa. 12 salarios mínimos
 
 d) Documentos en que se modifique el acta constitutiva de la sociedad. 10 salarios mínimos
 
-e) Actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles. 10 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-f) Cualesquiera actas de asamblea de las sociedades y asociaciones antes indicadas. 12 salarios mínimos
+e) Actas constitutivas y modificación de asociaciones civiles, constituidas conforme a lo dispuesto en el artículo 2603 del Código Civil, siempre que no se aporten bienes inmuebles. 12 salarios mínimos
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+f) Cualesquiera actas de asamblea de las sociedades y asociaciones antes indicadas. 15 salarios mínimos
 
 g) La disolución de cualquiera de las sociedades y asociaciones mencionadas anteriormente siempre y cuando no se adjudiquen bienes inmuebles. 6 salarios mínimos
 
-h) Poderes y su cancelación. 6 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+h) Poderes y su cancelación. 8 salarios mínimos
 
 i) Documentos relativos a la enajenación de bienes muebles. 6 salarios mínimos
 
 XII. Por la inscripción de documentos constitutivos de Fideicomisos:
 
-a) Fideicomisos traslativos de dominio, se pagarán por cada $10.00 o fracción. $0.06
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Fideicomisos de garantía, se pagarán por cada $10.00 o fracción. $0.02
+a) Fideicomisos traslativos de dominio, se pagarán por cada $10.00 o fracción. $0.08
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Fideicomisos de garantía, se pagarán por cada $10.00 o fracción. $0.03
 
 c) Cualquier otro tipo de Fideicomiso diferente a los señalados en los incisos que anteceden. 5 salarios mínimos
 
@@ -1803,7 +1855,9 @@ XVI. Los documentos otorgados fuera del Estado pagarán un 25% adicional sobre l
 
 XVII. Por cada inscripción de documentos cuyo valor sea indeterminado, si la operación se refiere a inmuebles o derechos que tengan un valor fiscal, la cuota que en el caso corresponda se basará en éste y cuando el valor de las operaciones no pueda determinarse en esta forma. 4 salarios mínimos
 
-XVIII. Por cada hoja de la consulta electrónica. 0.28 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+XVIII. Por cada hoja de la consulta electrónica. 0.3 salarios mínimos
 
 XIX. Se exceptúan del pago de los derechos del Registro Público de la Propiedad a que se refiere este artículo:
 
@@ -1903,21 +1957,33 @@ n) Por copia de la hoja de la Gaceta. 0.50 salario mínimo
 
 Por servicios prestados por la Secretaría de Gobierno en materia de Gobernación, se causarán y pagarán los derechos siguientes:
 
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
 I. Por legalización de firmas que comprenden:
 
-a) Certificados de Registro Civil. 3 salarios mínimos
+a) Certificados de Registro Civil. 6 salarios mínimos
 
-b) Testimonios notariales y escrituras públicas. 3 salarios mínimos
+b) Testimonios notariales y escrituras públicas. 6 salarios mínimos
 
-c) Firmas de Funcionarios de Gobierno del Estado. 3 salarios mínimos
+c) Firmas de funcionarios de Gobierno del Estado. 5 salarios mínimos
 
-II. Por registro o diligenciación de exhortos: 4 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-III. Por actos realizados por el Departamento Central del Registro Civil del Estado, como son:
+II. Por registro o diligenciación de exhortos. 7 salarios mínimos
 
-a) Expedición de copia certificada de acta del estado civil de las personas. 1 salario mínimo
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Expedición de constancias o certificaciones. 1 salario mínimo
+III. Por actos realizados por el departamento central del Registro Civil del Estado, como son:
+
+a) Expedición de copia certificada de acta del estado civil de las personas. 1.5 salarios mínimos
+
+b) Expedición de constancias o certificaciones. 1.5 salarios mínimos
+
+c) Por la búsqueda hasta de cuatro años. 1 salario mínimo
+
+d) Cotejo de sello y firma. 2 salarios mínimos
+
+e) Cotejo de contenido. 1 salario mínimo
 
 IV. (DEROGADA, G.O. 27 DE DICIEMBRE DE 2001)
 
@@ -1925,11 +1991,17 @@ V. Por la conformidad para:
 
 a) Que las personas morales adquieran, posean o administren fincas rústicas para el cumplimiento de su objeto social. 30 salarios mínimos.
 
-b) El establecimiento de clubes de caza, tiro y otros de naturaleza similar. 30 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-c) El uso y almacenamiento de explosivos. 30 salarios mínimos
+b) El establecimiento de clubes de caza, tiro y otros de naturaleza similar. 90 salarios mínimos
 
-VI. Por Adhesión de "Apostilla" en un documento que deba surtir efectos en un País afiliado a la Convención de la Haya de 1961: 6 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+c) El uso y almacenamiento de explosivos. 90 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+VI. Por Adhesión de Apostilla en un documento que deba surtir efectos en un País afiliado a la Convención de la Haya de 1961. 9 salarios mínimos
 
 No causarán los derechos a que se refiere este artículo, la legalización de firmas en materia penal y en otros casos previstos por la Ley.
 
@@ -1943,43 +2015,63 @@ Por los servicios prestados por la Secretaría de Seguridad Pública, se causar�
 
 A. En materia de Tránsito y Transporte:
 
-I. Expedición de Licencia de Chofer, tipo "A" para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 12 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-Canje Trianual 4.5 salarios mínimos
+I. Expedición de Licencia de Chofer, tipo A para conducir vehículos de motor dedicados al Servicio Público de Transporte de Pasajeros, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 15 salarios mínimos
 
-II. Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 11 salarios mínimos
+Canje Trianual 7 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+II. Expedición de Licencia de Chofer, tipo B para conducir toda clase de vehículos de motor de Servicios Públicos de Carga y Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 14 salarios mínimos
+
+Canje Trianual 6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+III. Expedición de Licencia de Automovilista, tipo C para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico pericial. 12 salarios mínimos.
+
+Canje Trianual 5 salarios mínimos.
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+IV. Expedición de Licencia de Motociclista, tipo D para conducir vehículos de dos o más ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 8 salarios mínimos
 
 Canje Trianual 4 salarios mínimos
 
-III. Expedición de Licencia de Automovilista, tipo "C" para conducir únicamente automóviles de Servicio Particular, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico pericial. 9 salarios mínimos
-
-Canje Trianual 3 salarios mínimos
-
-IV. Expedición de Licencia de Motociclista, tipo "D", para conducir vehículos de dos o tres ruedas, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte, previo examen médico y pericial. 6 salarios mínimos
-
-Canje Trianual 3 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
 V. Expedición de Licencia de Motorista, para conducir maquinaria pesada para construcción. 7 salarios mínimos
+
+Canje Trianual. 3 salarios mínimos
 
 VI. Expedición de Duplicados de cualquier tipo de Licencias de las señaladas en las fracciones anteriores de este artículo. 4 salarios mínimos
 
 VII. Por la expedición de los siguientes permisos:
 
-a) Especiales para conducir hasta por 180 días renovables, a personas mayores de 16 y menores de 18 años. 4 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Para ocupar zonas para estacionamiento exclusivo en las Vías Públicas, cuando éstas resulten necesarias para la prestación de un Servicio Público, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte (por vehículo). 4 salarios mínimos
+a) Especiales para conducir hasta por 180 días renovables, a personas mayores de 16 y menores de 18 años. 6 salarios mínimos.
 
-Por revalidación anual 2 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-c) Para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada (Estacionamientos Públicos) de acuerdo con el Reglamento de la Ley de Tránsito y Transporte. 30 salarios mínimos
+b) Para ocupar zonas para estacionamiento exclusivo en las vías públicas, cuando éstas resulten necesarias para la prestación de un servicio público, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte (por vehículo). 6 salarios mínimos
+
+Por revalidación anual 3 salarios mínimos
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+c) Para establecer el Servicio al Público de Estacionamiento de Vehículos en Propiedad Privada (Estacionamientos Públicos) de acuerdo con el Reglamento de la Ley de Tránsito y Transporte. 40 salarios mínimos
 
 Por revalidación anual 15 salarios mínimos
 
-d) Particular, para el Transporte de Carga Específica o personas.
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+d) Particular, para el Transporte de Carga Específica o de personas.
 
 Por un año 10 salarios mínimos
 
-Por un día 1 salario mínimo
+Por un día 2 salarios mínimos
 
 e) Particular, para circular vehículos nuevos sin placas, ni tarjeta de circulación por 15 días. 3 salarios mínimos
 
@@ -1995,37 +2087,53 @@ b) Reposición de la Tarjeta Anual de Identificación de Operador de Transporte 
 
 c) Expedición de Tarifa Oficial para el Cobro de Servicio Público de Transporte de Pasajeros. 1 salario mínimo
 
-d) Expedición de Permisos de Sustitución Temporal de Unidad por 20 días: 1 salario mínimo
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+d) Expedición de Permisos de Sustitución Temporal de Unidad por 20 días: 2 salarios mínimos
 
 IX. Por la prestación de otros Servicios:
 
-a) Expedición de Constancias y Certificados Médicos y de cualquier otra naturaleza. 1 salario mínimo
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Expedición de permisos diversos. Por día: 1 salario mínimo
+a) Expedición de Constancias, Certificados Médicos y documentos de cualquier otra naturaleza. 2 salarios mínimos
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Expedición de permisos diversos. Por día: 2 salarios mínimos
 
 c) Por la utilización de grúas oficiales para el retiro de vehículos accidentados, infraccionados o por orden judicial, dentro de los límites de la ciudad de que se trate. 4 salarios mínimos
 
 d) Por la utilización de servicio oficial de depósito y custodia de vehículos accidentados, infraccionados o por orden judicial. Por día: 0.50 salario mínimo
 
-X. Por el otorgamiento de una concesión para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte:
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-a) Taxi y Colectivo. 200 salarios mínimos
+X. Por el otorgamiento de una concesión o permisos en trámite para prestar el Servicio Público de Transporte en las diferentes modalidades previstas en el artículo 177 del Reglamento de la Ley de Tránsito y Transporte.
 
-b) Urbano, Suburbano y Foráneo. 230 salarios mínimos
+a) Taxi, Colectivo y Rural Mixto. 250 salarios mínimos
 
-c) Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 125 salarios mínimos
+b) Urbano, Suburbano y Foráneo. 280 salarios mínimos
 
-XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
+c) Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 155 salarios mínimos
 
-XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 150 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-Revalidación anual: 100 salarios mínimos
+XI. Por la transferencia por fallecimiento del titular de una concesión para prestar el Servicio Público de Transporte en la modalidad de Taxi, Colectivo, Rural Mixto, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo o Transporte de Personal de Empresas. 50 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+XII. Por la autorización para prestar el servicio de depósito y custodia de vehículos, de acuerdo con el Reglamento de la Ley de Tránsito y Transporte: 200 salarios mínimos
+
+Revalidación anual. 150 salarios mínimos
 
 XIII. Por la transferencia por cesión de derechos de una concesión para prestar el Servicio Público de Transporte en las modalidades siguientes:
 
-a) Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo Turismo y Transporte de Personal de Empresas. 150 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Rural mixto. 100 salarios mínimos
+a) Taxi, Colectivo, Urbano, Suburbano, Foráneo, Carga, Escolar, Exclusivo de Turismo y Transporte de Personal de Empresas. 200 salarios mínimos
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Rural mixto. 150 salarios mínimos
 
 No se causarán estos derechos cuando la transferencia se realice por personas físicas para constituir una moral, siempre y cuando la aportación a la sociedad sea la concesión. Cuando la persona física enajene o transfiera su titularidad en la sociedad, se generará el pago previsto en esta fracción.
 
@@ -2051,9 +2159,13 @@ Por los servicios prestados por la Secretaría, se causarán y pagarán los dere
 
 A. Por servicios de Catastro.
 
-I. Por la expedición de una cédula catastral. 3 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-II. Por la expedición de un certificado de Valor Catastral o Catastral Provisional. 5 salarios mínimos
+I. Por la expedición de una cédula catastral. 7 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+II. Por la expedición de un certificado de Valor Catastral o Catastral Provisional. 10 salarios mínimos
 
 III. Por la expedición de una constancia de datos catastrales. 3 salarios mínimos
 
@@ -2125,11 +2237,17 @@ C. Por registro y control de vehículos de servicio privado:
 
 I. Alta en el Registro Estatal Vehicular de un vehículo nuevo o usado con dotación de placas, calcomanía numeral y tarjeta de circulación:
 
-a) Para automóvil y camión: 8 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Para remolque y motocicleta: 4 salarios mínimos
+a) Para automóvil y camión: 10 salarios mínimos
 
-II. Expedición de calcomanía de comprobación fiscal de pago de Tenencia y Derechos de control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho impuesto. 4 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Para remolque y motocicleta: 5 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+II. Expedición de Calcomanía de comprobación fiscal de pago de Tenencia y Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho impuesto. 5 salarios mínimos
 
 III. Baja de vehículo en el Registro Estatal Vehicular por siniestro, robo, cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas, destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
@@ -2143,17 +2261,27 @@ d) Sin la devolución de la tarjeta de circulación: 3 salarios mínimos
 
 IV. Baja de vehículos registrados en otra entidad federativa: 8 salarios mínimos
 
-V. Reposición de la tarjeta de circulación por robo, extravío o deterioro de la misma: 2 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+V. Reposición de la tarjeta de circulación por robo, extravío o deterioro de la misma, así como por fusión o escisión de sociedades. 2.5 salarios mínimos
 
 VI. Cambios en el Registro Estatal Vehicular que implican la reexpedición de tarjeta de circulación en los casos de cambio de propietario, de domicilio, de motor, de color, de uso, de capacidad, de combustible, o por error u omisión.
 
-a) Previa devolución de la tarjeta de circulación anterior: 2 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-b) Sin la devolución de la tarjeta de circulación anterior: 4 salarios mínimos
+a) Previa devolución de la tarjeta de circulación anterior: 4 salarios mínimos
 
-VII. Por el canje de placas, tarjeta de circulación y calcomanía numeral, dentro del plazo establecido por el Ejecutivo del Estado, atendiendo a las disposiciones de la Secretaría de Comunicaciones y Transportes relacionadas con el canje masivo de estos conceptos y cumplir con los requisitos que exige la Norma Oficial Mexicana, previa comprobación de estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y Derechos Vehiculares. 9 salarios mínimos
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-VIII. Canje de placas, tarjeta de circulación y calcomanía numeral fuera del plazo: 18 salarios mínimos
+b) Sin la devolución de la tarjeta de circulación anterior: 6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+VII. Por el canje de placas, tarjeta de circulación y calcomanía numeral, dentro del plazo establecido por el Ejecutivo del Estado, atendiendo a las disposiciones de la Secretaría de Comunicaciones y Transportes relacionadas con el canje masivo de estos conceptos y cumplir con los requisitos que exige la Norma Oficial Mexicana, previa comprobación de estar al corriente en el pago del Impuesto Sobre Tenencia o Uso de Vehículos y Derechos de Registro y Control de Vehículos. 12 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+VIII. Canje de placas, tarjeta de circulación y calcomanía numeral fuera del plazo establecido por el Ejecutivo del Estado. 20 salarios mínimos
 
 D. Por Registro y control de vehículos de servicio público:
 
@@ -2161,7 +2289,9 @@ I. Alta en el Registro Estatal Vehicular de un vehículo nuevo o usado con dotac
 
 II. Expedición de calcomanía de comprobación fiscal de pago de Tenencia y Derechos de Control Vehicular, el cual deberá pagarse en el mismo periodo establecido para el pago del Impuesto Federal sobre Tenencia o Uso de Vehículos, y de manera conjunta cuando se esté obligado al pago de dicho impuesto. 4 salarios mínimos
 
-III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma: 2 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+III. Reposición de tarjeta de circulación por robo, extravío o deterioro de la misma, así como por fusión o escisión de sociedades. 2.5 salarios mínimos
 
 IV. Baja de vehículos en el Registro Estatal Vehicular por: Siniestro, robo, cambio de servicio, reasignación, transferencia, sucesión testamentaria cambio de servicio, cambio a otra entidad federativa, por solicitud de canje de placas destrucción de calcomanía numeral y pérdida de una o las dos placas:
 
@@ -2179,75 +2309,21 @@ a) Previa devolución de la tarjeta de circulación anterior: 2 salarios mínimo
 
 b) Sin la devolución de la tarjeta de circulación anterior: 4 salarios mínimos
 
-VI. Por el canje de placas, tarjeta de circulación y calcomanía numeral, dentro del plazo establecido por el Ejecutivo del Estado, atendiendo a las disposiciones de la Secretaria de Comunicaciones y Transportes relacionadas con el canje masivo de estos conceptos y cumplir con los requisitos que exige la Norma Oficial Mexicana, previa comprobación de estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos y Derechos Vehiculares. 9 salarios mínimos
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
 
-VII. Canje de placas, tarjeta de circulación y calcomanía numeral fuera del plazo: 18 salarios mínimos
+VI. Por el canje de placas, tarjeta de circulación y calcomanía numeral, dentro del plazo establecido por el Ejecutivo del Estado, atendiendo a las disposiciones de la Secretaría de Comunicaciones y Transportes relacionadas con el canje masivo de estos conceptos y cumplir con los requisitos que exige la Norma Oficial Mexicana, previa comprobación de estar al corriente en el pago del Impuesto sobre Tenencia o Uso de Vehículos y Derechos de Registro y Control de Vehículos. 12 salarios mínimos
+
+> <small>(REFORMADA, G.O. 4 DE JULIO DE 2002)</small>
+
+VII. Canje de placas, tarjeta de circulación y calcomanía numeral fuera del plazo establecido por el Ejecutivo del Estado.
 
 E. Por el uso de puentes o carreteras de cuotas estatales o concesionados por la Federación.
 
 I. Por el uso de puentes o carreteras estatales.
 
-a) Por el uso del puente "El Prieto" del municipio Pueblo Viejo.
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
 
-1. Vehículos.
-
-Clase Tipo de Vehículo Cuota
-
-Monto en pesos
-
-1 Automóviles Turismo,
-
-Pick Ups, Panels y
-
-Motocicletas $5.00
-
-EE1 Por cada eje excedente $3.00
-
-2. Autobuses y Camiones.
-
-Clase Tipo de Vehículo Cuota
-
-Monto en pesos
-
-2 Autobuses y Camiones de
-
-dos ejes $8.00
-
-3 Autobuses y Camiones de
-
-tres ejes $11.00
-
-4 Camiones de carga de
-
-cuatro ejes $15.00
-
-5 Camiones de carga de
-
-cinco ejes $19.00
-
-6 Camiones de carga de
-
-seis ejes $23.00
-
-7 Camiones de carga de
-
-siete ejes $27.00
-
-8 Camiones de carga de
-
-ocho ejes $28.00
-
-9 Camiones de carga de
-
-nueve ejes $30.00
-
-10 Camiones de carga de
-
-diez ejes $35.00
-
-EE2 Por cada eje excedente $5.00
-
-b) Por el uso del puente "José López Portillo" del municipio de Alamo.
+a) Por el uso del puente El Prieto del municipio Pueblo Viejo.
 
 1. Vehículos.
 
@@ -2269,21 +2345,83 @@ Clase Tipo de Vehículo Cuota
 
 Monto en pesos
 
+2 Autobuses y Camiones
+
+de dos ejes $9.00
+
+3 Autobuses y Camiones
+
+de tres ejes $13.00
+
+4 Camiones de carga de
+
+cuatro ejes $17.00
+
+5 Camiones de carga de
+
+cinco ejes $22.00
+
+6 Camiones de carga de
+
+seis ejes $26.00
+
+7 Camiones de carga de
+
+siete ejes $31.00
+
+8 Camiones de carga de
+
+ocho ejes $32.00
+
+9 Camiones de carga de
+
+nueve ejes $34.00
+
+10 Camiones de carga de
+
+diez ejes $40.00
+
+EE2 Por cada eje excedente $6.00
+
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
+b) Por el uso del puente José López Portillo del municipio de Temapache.
+
+1. Vehículos.
+
+Clase Tipo de Vehículo Cuota
+
+Monto en pesos
+
+1 Automóviles Turismo,
+
+Pick Ups, Panels y
+
+Motocicletas $7.00
+
+EE1 Por cada eje excedente $5.00
+
+2. Autobuses y Camiones.
+
+Clase Tipo de Vehículo Cuota
+
+Monto en pesos
+
 2 Autobuses y Camiones de
 
 Carga de dos, tres y cuatro
 
-ejes $12.00
+ejes $14.00
 
 3 Autobuses y Camiones de cinco
 
-y seis ejes $25.00
+y seis ejes $28.00
 
 4 Camiones de carga de siete,
 
-ocho, nueve y diez ejes $45.00
+ocho, nueve y diez ejes $51.00
 
-EE2 Remolques de trailers $ 8.00
+EE2 Remolques de trailers $ 9.00
 
 II. (DEROGADA, G.O. 12 DE ABRIL DE 2002)
 
@@ -3427,9 +3565,11 @@ IV. Consolidar la información presupuestal y contable de la dependencia, de acu
 
 V. Elaborar el programa anual de adquisiciones de la dependencia.
 
+> <small>(REFORMADO, G.O. 4 DE JULIO DE 2002)</small>
+
 ###### Artículo 188.
 
-El Gobernador del Estado podrá disponer que los fondos o pagos de alguna dependencia o entidad sean manejados, temporal o permanentemente de manera centralizada por la Secretaría.
+El Gobernador del Estado podrá disponer que los fondos o pagos de alguna dependencia o entidad, así como su registro, sean manejados temporal o permanentemente de manera centralizada por la Secretaría.
 
 ### CAPÍTULO TERCERO. DE LA ADMINISTRACIÓN DE LOS RECURSOS HUMANOS
 
@@ -4766,3 +4906,9 @@ G.O. 12 DE ABRIL DE 2002.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del gobierno del estado, con excepción de la derogación de la fracción II del apartado E del artículo 143, que entrará en vigor en la fecha en la que, en su caso, se constituya el fideicomiso bursátil correspondiente.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 4 DE JULIO DE 2002.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano de difusión del Gobierno del estado de Veracruz-Llave.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
