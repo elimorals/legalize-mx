@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-28-1999-del-pleno-del-consejo-de-la-6324
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-09-29"
-last_updated: "1999-09-29"
+last_updated: "2001-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-09-22"
 
 ACUERDO GENERAL NUMERO 28/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE FIJA LAS BASES PARA LA ELABORACION, APROBACION Y ACTUALIZACION DE LA LISTA DE PERSONAS QUE PUEDAN FUNGIR COMO PERITOS ANTE LOS ORGANOS DEL PODER JUDICIAL DE LA FEDERACION A PARTIR DEL AÑO DOS MIL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO CUARTO TRANSITORIO DEL ACUERDO GENERAL 37/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 3 DE JULIO DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de septiembre de 1999.
 
@@ -88,3 +90,17 @@ PRIMERO.- Este Acuerdo iniciará su vigencia en la fecha de su aprobación.
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en dos diarios de circulación nacional.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 28/1999, que fija las bases para la elaboración, aprobación y actualización de la lista de las personas que puedan fungir como peritos ante los órganos del Poder Judicial de la Federación a partir del año dos mil, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de veintidós de septiembre de mil novecientos noventa y nueve, por unanimidad de votos de los señores Consejeros: Presidente ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a veintitrés de septiembre de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 3 DE JULIO DE 2001.
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- La Lista de personas que pueden fungir como peritos ante los Organos del Poder Judicial de la Federación, ordenada por el Acuerdo General 28/1999, del Pleno del Consejo de la Judicatura Federal, publicada en el Diario Oficial de la Federación el veintitrés de octubre de dos mil, tendrá vigencia hasta el treinta y uno de diciembre de dos mil uno.
+
+TERCERO.- Las personas que reunieron los requisitos para formar parte de la lista mencionada en el artículo transitorio que antecede, podrán formar parte de la Lista a que se refiere este Acuerdo, mediante escrito en el que manifiesten su intención, el cual deberá exhibirse ante la Secretaría Ejecutiva, en las fechas señaladas en el presente.
+
+CUARTO.- Se abroga el Acuerdo General 28/1999.
+
+QUINTO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en dos diarios de circulación nacional.
