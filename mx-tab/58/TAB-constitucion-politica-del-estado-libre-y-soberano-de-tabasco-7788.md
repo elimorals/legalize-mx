@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1987-08-26"
+last_updated: "1991-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ENERO DE 1991.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -189,45 +189,35 @@ El Poder Legislativo se deposita en un Congreso integrado por una Cámara de Dip
 
 El Congreso se integrará por representantes populares electos cada tres años, que constituirán en cada caso la Legislatura correspondiente; las elecciones serán directas y se apegarán a lo que dispone el Código Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 13.
 
-Se elegirá un Diputado propietario y un suplente por cada doscientos mil habitantes, o fracción que pase de cien mil, según el principio de votación mayoría relativa, tomando en cuenta el Censo General del Estado, pero en ningún caso la representación de un Municipio será menor de un Diputado.
+Se elegirá un Diputado Propietario y un suplente por cada uno de los Distritos Electorales uninominales, que corresponde a la demarcación municipal, según el principio de votación mayoritaria relativa, la Ley de la materia determinará el número de los Diputados que deban ser electos según el principio de representación proporcional mediante el sistema de listas regionales en cada una de las dos circunscripciones plurinominales.
 
-Y ocho diputados que serán electos según el principio de representación proporcional, mediante el sistema de listas regionales, votadas en circunscripciones plurinominales.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 12 DE ENERO DE 1991)</small>
 
 ###### ARTICULO 14.
 
-Para la elección de los ocho diputados, según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales, en el Estado.
+Para la elección de los Diputados según el principio de representación proporcional y el sistema de listas regionales, se constituirán dos circunscripciones electorales plurinominales.
 
-El Código Electoral del Estado determinará la forma de establecer la demarcación territorial de estas circunscripciones.
+La Legislación Electoral del Estado, determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-La elección de estos diputados se sujetará a las bases generales siguientes y a lo que en particular disponga el Código citado:
+La elección de esos Diputados se sujetará a las bases Generales siguientes, y a lo que en particular disponga la Legislación Electoral:
 
-I.- Para obtener el registro de sus listas regionales, el partido político que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en, por lo menos, la tercera parte de los Distritos Electorales Uninominales;
+I.- Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- Tendrá derecho a que le sean atribuídos diputados electos, según el principio de representación proporcional, todo aquel partido político que alcance por lo menos el 1.5% del total de la votación emitida para las listas regionales de las circunscripciones y no se encuentre comprendido en los siguientes supuestos:
+II.- Para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
 
-a) Haber obtenido el 51% de la votación estatal efectiva, y que su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara, superior o igual a su porcentaje de votos; o
+A) Ningún partido político podrá contar con mas de 21 Diputados electos mediante ambos principios.
 
-b) Haber obtenido menos del 51% de la votación estatal efectiva, y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Cámara;
+B) Al partido político que obtenga el 35% de la votación estatal y el mayor número de constancias de mayoría, le serán otorgadas constancias de asignación de Diputados en número suficientes para alcanzar la mayoría absoluta de la Cámara, se le asignará también un diputado de representación proporcional, por cada 3.5% de votación obtenida por encima del 35% y hasta el 72.5% en la forma en que determine la Legislación del Estado.
 
-III.- Al partido que cumpla con los (sic) dispuesto por las Fracciones I y II de este Artículo, le serán asignados, por el principio de representación proporcional, el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en cada circunscripción plurinominal.
+C) Si ningún Partido Político, obtiene el 35% de la votación estatal emitida, a todos los Partidos Políticos registrados para el proceso electoral correspondiente, le serán otorgadas constancias de asignación por el número de Diputados que se requiera para que su representación en la Cámara, por ambos principios, corresponda en su caso, al porcentaje de votos obtenidos.
 
-El Código determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
+D) El partido político que obtenga entre el 60% y el 70% de la votación estatal y su número de constancias de mayoría represente un porcentaje de total de la Cámara inferior a su porcentaje de votos, le serán asignados Diputados de representación proporcional, suficiente para que la suma de Diputados obtenidos por ambos principios, represente el mismo porcentaje de votos.
 
-IV.- En los términos de la Fracción Anterior, las normas para la asignación de curules son las siguientes:
-
-a) Si algún partidos obtiene el 51% o más de votación total efectiva y el número de constancias de mayoría relativa representan un porcentaje del total de la Cámara, inferior a su referido porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos, según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos;
-
-b) Ningún partido tendrá derecho a que le sean reconocidos más de 20 diputados que representen el 80% de la integración total de la Cámara, aún cuando hubiere obtenido un porcentaje de votos superior.
-
-c) Si ningún partido obtiene el 51% de la votación estatal efectiva y ninguno alcanza, con sus constancias de mayoría relativa, la mitad mas uno de los miembros de la Cámara al partido con más constancias de mayoría le serán asignados diputados de representación proporcional hasta alcanzar la mayoría absoluta de la Cámara; y
-
-d) En el supuesto anterior, y en caso de empate en el número de constancias, la mayoría absoluta de la Cámara será decidida a favor de aquel de los partidos empatados que haya alcanzado la mayor votación a nivel estatal en la elección de diputados por mayoría relativa.
+III.- La Ley determinará las normas para la aplicación de la fórmula que se observarán en la asignación en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -245,7 +235,9 @@ II.- Tener veintiún años cumplidos el día de la elección;
 
 III.- No estar en servicio activo en el Ejército ni tener mando en la Policía o Gendarmería Rural en el distrito donde se haga la elección, cuando menos noventa días antes de la misma;
 
-IV.- No ser Gobernador del Estado, ni Secretario de ramo alguno de Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia, Oficial Mayor o titular de alguna de las Direcciones de la propia Administración, Presidente Municipal o Funcionario Federal, a menos que permanezca separado de su cargo desde noventa días antes de la elección; y
+> <small>(REFORMADA, P.O. 12 DE ENERO DE 1991)</small>
+
+IV.- No ser Gobernador del Estado, ni Secretario de Ramo alguno de la Administración Pública, Procurador General de Justicia, Magistrado del Tribunal Superior de Justicia, Oficial Mayor o Titular de alguna de las Direcciones de la propia Administración, Presidente Municipal, Funcionario Electoral o Funcionario Federal, a menos que permanezca separado de su cargo desde noventa días antes de la elección; y
 
 V.- No ser ministro de culto religioso alguno.
 
@@ -533,7 +525,11 @@ XXXVIII.- Designar el día anterior al de la clausura en los períodos de sesion
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
-XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y las demás concedidas por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan a su régimen interior.
+XXXIX.- Expedir las Leyes necesarias para hacer efectivas todas las anteriores facultades y las demás concedidas por esta Constitución, así como las que no estén expresamente reservadas a los Poderes de la Unión y correspondan a su régimen interior;
+
+> <small>(ADICIONADA, P.O. 12 DE ENERO DE 1991)</small>
+
+XL.- Aquellos que la presente Constitución y las Leyes le señalen.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1608,3 +1604,9 @@ PRIMERO: Estas reformas fueron aprobadas conforme a los (sic) dispuesto por el A
 SEGUNDO: El presente Decretro (sic) entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 TERCERO: Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 12 DE ENERO DE 1991.
+
+Primero: Las reformas a que se refiere este Decreto, fueron aprobadas en los términos del Artículo 83 de la propia Constitución.
+
+Segundo: Este decreto surtirá sus efectos legales a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
