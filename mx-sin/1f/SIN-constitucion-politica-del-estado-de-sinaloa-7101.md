@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1946-06-27"
+last_updated: "1947-11-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1947.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -685,13 +685,11 @@ XXIV. I(sic) las demás que le confiera esta Constitución.
 
 #### SECCION I. DE LOS DEPARTAMENTOS GUBERNATIVOS
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1946)</small>
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1947)</small>
 
 ###### Art. 66.
 
-Para el estudio y despacho de los negocios determinados en el Artículo 65, de esta Constitución y demás que por Ley correspondan al Ejecutivo, habrá una Secretaría General de Gobierno y una Tesorería General, dependencias que funcionarán con las atribuciones que le señalen las Leyes.
-
-Además funcionará como Departamento Administrativo una Auditoría General de Hacienda, con sujeción a la Ley respectiva.
+Para el estudio y despacho de los negocios determinados en el artículo 65, de esta Constitución y además que por Ley corresponden al Ejecutivo, habrá una Secretaría General de Gobierno y una Tesorería General, Dependencias que funcionarán con las atribuciones que les señalen las Leyes.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1934)</small>
 
@@ -1640,3 +1638,7 @@ Unico.- Este Decreto surtirá sus efectos a partir de la fecha de su publicació
 P.O. 27 DE JUNIO DE 1946.
 
 Unico.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE NOVIEMBRE DE 1947.
+
+UNICO.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
