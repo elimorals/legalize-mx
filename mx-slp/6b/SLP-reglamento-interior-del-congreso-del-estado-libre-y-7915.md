@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-congreso-del-estado-libre-y-7915"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-12-28"
-last_updated: "1997-03-31"
+last_updated: "1997-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 1997.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el 28 de diciembre de 1993.
 
@@ -333,7 +333,9 @@ II.- La elección se realizará en votación por cédula.
 
 Las atribuciones del Presidente de la Gran Comisión serán las siguientes:
 
-I.- Hacer cumplir oportunamente las atribuciones que le corresponden a la Gran Comisión dispuestas por el Artículo 82 de la Ley.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
+I.- Hacer cumplir oportunamente las atribuciones que le corresponden a la Gran Comisión dispuestas por el artículo 65 de la Ley Orgánica del Poder Legislativo del Estado de San Luis Potosí.
 
 II.- Convocar y presidir las reuniones de la Gran Comisión, cuando menos una vez al mes.
 
@@ -827,9 +829,11 @@ Los asuntos que se presenten a la Diputación Permanente serán turnados a las C
 
 La Diputación Permanente dará cuenta al Congreso en el Período Ordinario siguiente, de los asuntos que hayan quedado pendientes de dictaminar.
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1997)</small>
+
 ###### ARTICULO 88.
 
-La Diputación Permanente estará integrada por cinco Diputados nombrados por el Congreso el día anterior a la clausura de sus sesiones ordinarias. De estos cinco Diputados tres serán propietarios y dos suplentes. El Primero de los propietarios será el Presidente y el último el Secretario. Las faltas del Presidente se suplirán por el suplente nombrado en segundo término y las de los demás propietarios, por los suplentes en el orden de su elección.
+La Diputación Permanente estará integrada por siete Diputados nombrados por el Congreso el día anterior de la clausura de cada periodo de sesiones ordinarias. De estos siete Diputados cinco serán Propietarios y dos Suplentes. Los Propietarios, conforme al orden de su elección ocuparán los cargos de Presidente, Vicepresidente, Secretario, Primer y Segundo Vocal. Las faltas del Presidente se suplirán por el Vicepresidente, las del Secretario por cualquiera de los Vocales y las de éstos últimos por los Suplentes en el orden de su elección.
 
 ###### ARTICULO 89.
 
@@ -1296,3 +1300,7 @@ P.O. 31 DE MARZO DE 1997.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente decreto.
+
+P.O. 13 DE SEPTIEMBRE DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
