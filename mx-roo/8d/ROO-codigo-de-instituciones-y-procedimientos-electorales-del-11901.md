@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-instituciones-y-procedimientos-electorales-del-11901"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-09-20"
-last_updated: "2001-05-30"
+last_updated: "2003-06-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CODIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JUNIO DE 2003.
 
 Código publicado en el Periódico Oficial el 20 de Septiembre de 1995.
 
@@ -3385,7 +3385,7 @@ REPRESENTACION PROPORCIONAL
 
 Para la asignación de Diputados electos por el principio de representación proporcional, se determinará cuáles partidos están en los casos del Artículo 54 de la Constitución Política del Estado, y se sujetará a las siguientes bases:
 
-I.- Al partido político que hubiere obtenido la mitad o más de las constancias de mayoría relativa y el 40% de la votación total de la elección de diputados, se le asignarán diputaciones por el principio de representación proporcional, hasta acceder al 52% del total de diputados que integran el Congreso del Estado.
+I.- (DEROGADA, P.O. 30 DE JUNIO DE 2003)
 
 II.- A todos los partidos políticos que hayan obtenido por lo menos el 2.5% del total de la votación estatal emitida, se le asignará una diputación, y
 
@@ -3395,13 +3395,17 @@ a).- Cociente electoral; y
 
 b).- Resto mayor.
 
-Para la aplicación del primer elemento, después de restada de la votación efectiva, la votación del partido que obtuvo las dos terceras partes o más de las constancias de mayoría relativa, así como la utilizada para la asignación de curules a los partidos que obtuvieron el 2.5% de la votación estatal emitida, el total de votos que representa la votación ajustada se divide entre el número de curules a repartir con el cociente que resulte, se asignarán a los partidos políticos tantas diputaciones como número de veces contenga su volumen el cociente electoral obtenido.
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2003)</small>
+
+Para la aplicación del primer elemento, después de restada de la votación efectiva la utilizada para la asignación de curules a los partidos que obtuvieron el 2.5% de la votación estatal emitida, el total de votos que representa la votación ajustada se divide entre el número de curules a repartir en el cociente que resulte, se asignarán a los partidos políticos tantas diputaciones como número de veces contenga su volumen el cociente electoral obtenido.
 
 Por votación efectiva se entenderá la que resulte de deducir de la votación estatal emitida los votos nulos, así como los votos de aquellos partidos que no hayan alcanzado el 2.5%.
 
 Si después de aplicar el cociente electoral, aún quedaren diputaciones por distribuir, se utilizarán en forma decreciente los restos mayores, que son los remanentes de votos que tuvieron los partidos políticos una vez restados los utilizados en las asignaciones anteriores.
 
-En ningún caso un partido político podrá contar con más de quince diputados por ambos principios.
+(REFORMADO, P.O. 30 DE JUNIO DE 2003) (F. DE E., P.O. 3 DE JULIO DE 2003)
+
+Ningún Partido Político podrá tener más de quince diputados por ambos principios. En ningún caso, un Partido Político podrá contar con un número de diputados por ambos principios, que representen un porcentaje del total del Congreso que exceda en dieciséis puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al Partido Político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida más el dieciséis por ciento.
 
 Los diputados electos según el principio de representación proporcional se asignan en el orden en que fueron registrados en las listas estatales de cada partido.
 
@@ -4707,8 +4711,14 @@ P.O. 30 DE MAYO DE 2001.
 
 ###### ARTICULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, previa la declaración de aprobación de la reforma constitucional que se propone en el propio dictamen.
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, previa la declaración de aprobación de la reforma constitucional que se propone e4n el propio dictamen.
 
 ###### ARTICULO SEGUNDO.
 
 El financiamiento público estatal para el sostenimiento de las actividades ordinarias permanentes de los partidos políticos, previsto en el presente Decreto, será aplicable de manera retroactiva a partir del mes de enero del año en curso, debiendo el Consejo General del Consejo Estatal Electoral hacer las estimaciones conducentes, conforme a los elementos aprobados mediante este Decreto.
+
+P.O. 30 DE JUNIO DE 2003.
+
+PRIMERO.- Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado-
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan a la presente.
