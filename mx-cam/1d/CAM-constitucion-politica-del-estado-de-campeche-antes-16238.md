@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1978-12-30"
+last_updated: "1979-09-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 1978.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE SEPTIEMBRE DE 1979.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -381,7 +381,9 @@ Para ser electo diputado propietario o suplente se requiere:
 
 I.- Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;
 
-II.- Tener 25 años cumplidos, el día de la elección;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+II.- Tener 21 años cumplidos, el día de la elección;
 
 III.- Además de los requisitos anteriores, según el caso, se necesitarán los siguientes:
 
@@ -407,7 +409,9 @@ III.- Los jefes militares del Ejército Nacional y los de la fuerza del Estado o
 
 IV.- Los jefes de la Guardia Nacional que estuvieren en servicio activo, por el distrito o distritos en donde ejerzan mando;
 
-V.- El Gobernador del Estado, el Secretario General de Gobierno, los Magistrados del Tribunal Superior de Justicia, el Tesorero General del Estado y el Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+V.- El Gobernador del Estado, los Secretarios de los diversos Ramos de la Administración Pública Estatal, los Titulares de las Direcciones de la propia Administración, los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
 VI.- Los Jueces de Primera Instancia, los Recaudadores de Rentas y los Presidentes Municipales, en los distritos electorales en donde ejerzan sus funciones.
 
@@ -485,17 +489,25 @@ Las sesiones del Congreso tendrán el carácter de públicas o secretas, en los 
 
 ### CAPITULO XII. De la Iniciativa y Formación de las Leyes
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 46.
 
-El derecho de iniciar Leyes o Decretos compete:
+El derecho de iniciar leyes o decretos compete:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Al Gobernador del Estado;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- A los diputados al Congreso del Estado;
 
-III.- A los Ayuntamientos; y
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+III.- A los Ayuntamientos en asuntos del Ramo Municipal.
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 IV.- Al Tribunal Superior de Justicia, en materia de su competencia.
 
@@ -565,7 +577,9 @@ e).- Que la erección del nuevo Municipio sea aprobada por las dos terceras part
 
 II.- Cambiar la residencia de los poderes del Estado, pero sólo a iniciativa fundada del Poder Ejecutivo y por el voto de las dos terceras partes de los diputados presentes;
 
-III.- Legislar en todo lo que concierne a los ramos de la Administración Pública del Estado, salvo en aquello que de acuerdo con la Constitución General de la República, compete a los Poderes Federales;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+III.- Imponer las contribuciones que deban corresponder al Estado y a los Municipios, fijando anualmente los ingresos y egresos que fueren necesarios para cubrir los presupuestos que se sometan a su consideración y aprobación por el Ejecutivo; determinar en los términos de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución, las participaciones que correspondan a los Municipios en los impuestos federales y estatales; legislar sobre la integración del patrimonio del Estado y de los Municipios; y legislar en todo lo concerniente a los diversos ramos de la Administración Pública del Estado;
 
 IV.- Expedir todas las leyes que sean necesarias para hacer efectivas las facultades otorgadas por esta Constitución a los Poderes del Estado;
 
@@ -575,7 +589,7 @@ VI.- Crear y suprimir empleos públicos del Estado y señalar, aumentar o dismin
 
 VII.- Nombrar y remover a los empleados de su dependencia, concederles licencia en los términos de Ley y aceptarles sus renuncias;
 
-> <small>(REFORMADA, P.O. 5 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, P.O., 5 DE ENERO DE 1974)</small>
 
 VIII.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribunales del Estado;
 
@@ -605,9 +619,13 @@ XX.- Resolver los problemas políticos intermunicipales y los que se susciten en
 
 XXI.- Aprobar las cuentas de la recaudación e inversión de las rentas públicas del Estado, que anualmente debe presentar el Ejecutivo;
 
-XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada municipio, que anualmente le serán remitidas por conducto de la Secretaría General de Gobierno, ya glosadas;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados, al Secretario General de Gobierno y al Tesorero General del Estado y como Jurado de Declaración y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
+XXII.- Revisar y aprobar las cuentas de los ingresos y egresos de cada Municipio, que anualmente le serán remitidas por conducto del Ejecutivo del Estado, ya glosadas;
+
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXIII.- Conocer como Jurado de Declaración en los delitos oficiales de que se acuse al Gobernador del Estado, a los Diputados y a los Secretarios de los diversos Ramos de la Administración Pública Estatal, y como Jurado de Declaraciones y de Sentencia, en los delitos oficiales cometidos por los Magistrados del Tribunal Superior de Justicia y el Procurador General de Justicia;
 
 XXIV.- Erigirse en Jurado para declarar si ha o no lugar a proceder contra los altos funcionarios públicos, en caso de delitos del orden común;
 
@@ -617,7 +635,37 @@ XXVI.- Comunicarse con el Ejecutivo del Estado por medio de comisiones de su sen
 
 XXVII.- Expedir la convocatoria para elecciones extraordinarias, con el objeto de cubrir las vacantes de sus respectivos miembros;
 
-XXVIII.- Las demás que le asignen esta Constitución y la General de la República.
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXVIII.- Autorizar al Ejecutivo para que celebre contratos o convenios con los demás Estados o con la Federación sobre asuntos relacionados con la Administración Pública del Estado y aprobar en su caso tales contratos o convenios;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXIX.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna ley o acto del Gobierno Federal constituya violación alguna a la soberanía del Estado o a la Constitución General de la República;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXX.- Citar al Secretario del Ramo que corresponda para que informe cuando se discuta una ley o se estudie un negocio relativo a su Secretaría;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXI.- Expedir la Ley Orgánica Municipal y las bases de policía y buen gobierno a que deberán sujetarse los Municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXII.- Autorizar la enajenación o gravamen de los bienes de los Municipios;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXIII.- Nombrar, a propuesta del Gobernador, una Junta Municipal compuesta de tres personas, cuando debiendo renovarse un Ayuntamiento no se hubiese celebrado su elección en la fecha correspondiente, o habiendo sido elegido no se presentare oportunamente al ejercicio de sus funciones. Dicha Junta se encargará provisionalmente de las funciones del Ayuntamiento hasta en tanto se celebren elecciones extraordinarias que deberán efectuarse en un plazo no mayor de sesenta días. Las mismas facultades se entenderán conferidas al Congreso cuando las elecciones Municipales se declaren nulas o por cualquier causa desaparecieren los Poderes del Ayuntamiento, siempre que tales situaciones se presentaren dentro del primer año de su correspondiente ejercicio, pues de suceder durante los dos últimos años del período de Gobierno Municipal, el Congreso siempre a propuesta del Gobernador, nombrará un Comité Municipal, integrado por tres personas el que asumirá la administración municipal hasta la conclusión del período de Gobierno respectivo. Por cada integrante del Comité habrá un suplente;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXIV.- Suspender temporalmente o definitivamente por sí o a petición del Ejecutivo, previa formación de proceso, a los miembros de los Ayuntamientos cuando abusen de sus facultades, siempre que así se acuerde por el voto de las dos terceras partes de los miembros de la Legislatura; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXV.- Las demás que le asignen esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -739,13 +787,15 @@ Cuando la falta de gobernador ocurriese después de los dos primeros años del p
 
 Si al comenzar un período constitucional no se presentase el gobernador electo o la elección no estuviese hecha y declarada el 16 de septiembre, cesará sin embargo el gobernador cuyo período haya concluído y se encargará desde luego del Poder Ejecutivo en calidad de gobernador interino, el que designe el Congreso del Estado, o, en su caso, con el carácter de provisional el que designe la Diputación Permanente, procediéndose como disponen los artículos 64 y 65.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 67.
 
-Cuando la falta de gobernador fuese temporal, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un gobernador interino para que funcione durante el tiempo que dure dicha falta, a no ser que ésta no exceda de 60 días, en cuyo caso el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
+Cuando la falta de Gobernador fuere temporal excediendo de sesenta días, el Congreso del Estado si estuviese reunido o en su defecto la Diputación Permanente, designará un Gobernador Interino para que funcione durante el tiempo que dure dicha falta.
 
-Si la falta se convirtiese de temporal en absoluta, se procederá como disponen los artículos anteriores.
+Para suplir las ausencias temporales del Gobernador hasta por sesenta días, éste designará de entre los Secretarios de alguno de los Ramos de la Administración Pública, al funcionario que deba encargarse del Despacho del Poder Ejecutivo, comunicándolo al Congreso del Estado, o en defecto a la Diputación Permanente.
+
+Si la falta se convirtiere de temporal en absoluta, se procederá como disponen los artículos anteriores.
 
 En caso de licencia del Gobernador del Estado, quedará impedido el interino para ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período.
 
@@ -763,51 +813,77 @@ El ciudadano que hubiese sido designado gobernador provisional en el caso de fal
 
 El Gobernador al tomar posesión de su cargo, prestará ante el Congreso del Estado o ante la Diputación Permanente, en los recesos de aquél, la siguiente protesta: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad del mismo, y si así no lo hiciere, que la Nación o el Estado me lo demanden".
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 70.
 
-El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviese reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de 60 días; en tal caso, el Secretario General de Gobierno se encargará del despacho del Poder Ejecutivo.
+El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días, en tal caso, el Secretario del Ramo que designe el Gobernador se encargará del Despacho del Poder Ejecutivo.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 71.
 
-Las facultades y obligaciones del Ejecutivo son:
+Las facultades y obligaciones del Gobernador son:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- Designar a los Magistrados del Tribunal Superior de Justicia del Estado y someter estos nombramientos a la aprobación de la Cámara de Diputados o de la Diputación Permanente, según el caso;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Informar al Tribunal Superior de Justicia de las faltas que cometan los jueces inferiores;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 IV.- Pedir la destitución, de acuerdo con lo dispuesto por el artículo 86, ante el Congreso del Estado, de cualquiera de los Magistrados del Tribunal Superior de Justicia y de los jueces de primera instancia;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 V.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;
 
-VI.- Nombrar y remover libremente:
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-A).- Al Secretario General de Gobierno y demás funcionarios y empleados de la Administración Pública, cuyo nombramiento o remoción no estén determinados de otro modo en la Constitución o en las leyes;
+VI.- Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo;
 
-B).- Al Tesorero General del Estado y demás empleados del ramo de Hacienda.
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 VII.- Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 VIII.- Decretar la expropiación por causas de utilidad pública, en la forma que determinen las leyes;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 IX.- Dirigir como Jefe de la Hacienda Pública la administración de ella; cuidar de que los caudales públicos estén siempre bien asegurados, se recauden e inviertan con arreglo a las leyes, ordenando al efecto la práctica de visitas a las oficinas rentísticas del Estado, para corregir los males e irregularidades que se notaren;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 X.- Publicar en el Periódico Oficial los Balances correspondientes de la Hacienda Pública del Estado, de acuerdo con lo dispuesto en la Ley o Reglamento respectivo;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 XI.- Impedir los abusos de la fuerza pública contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 XII.- Excitar a los Ayuntamientos, Presidentes Municipales y de Sección y Comisarios, cuando lo estime conveniente, para el mejoramiento de los ramos de la Administración Municipal;
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 XIII.- Visitar los municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 XIV.- Pedir autorización al Congreso y en su receso a la Diputación Permanente para salir del territorio del Estado por más de 60 días;
 
-XV.- Estipular contratos para concesiones y otorgar éstas, si aquéllos fueren aprobados por el Congreso;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XV.- Celebrar contratos y convenios; otorgar permisos, concesiones y autorizaciones de acuerdo con las leyes relativas; así como representar al Estado en su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;
 
 XVI.- Enajenar, con autorización del Congreso, los bienes que según las leyes pertenezcan al Estado;
 
@@ -825,31 +901,55 @@ XXII.- Pedir la protección de los Poderes de la Unión en caso de sublevación 
 
 XXIII.- Las atribuciones en lo referente a Guardia Nacional y fuerza pública que confieren a los Estados de la Federación la Constitución General y las leyes relativas;
 
-XXIV.- Fomentar el turismo y promover el desarrollo industrial y agropecuario del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-XXV.- Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
+XXIV.- Nombrar apoderados para toda clase de asuntos, dentro o fuera del Estado;
 
-> <small>(REFORMADA, P.O., 5 DE ENERO DE 1974)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
-XXVI.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado, y todas las demás atribuciones y obligaciones provenientes de la Constitución Federal, de la del Estado y de las leyes que de ellas emanen.
+XXV.- Formular el Programa Anual de Gobierno, mediante una adecuada planificación y aprovechamiento de los recursos naturales del Estado a fin de promover el desarrollo social, económico, industrial, turístico y agropecuario de la entidad;
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXVI.- Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXVII.- Crear organismos descentralizados o desconcentrados del Estado, tendientes al fomento, desarrollo y explotación de los recursos de la entidad, con un sentido social;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXVIII.- Coordinar las inversiones públicas estatal y municipal para los efectos de las tres fracciones anteriores y propiciar su armonización con los programas del Gobierno Federal;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXIX.- Promover la inversión de todos los sectores de acuerdo con el programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXX.- Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y
+
+> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+XXXI.- Todas las demás atribuciones y obligaciones que se le confieren por la Constitución Federal, por esta Constitución y por las leyes que de ellas emanen.
+
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 72.
 
-Para el despacho de los negocios que corran a cargo del Ejecutivo, habrá un secretario que se denominará "Secretario General de Gobierno".
+Para el despacho de los asuntos que correspondan al Ejecutivo del Estado, habrán las Secretarías de los Ramos de Administración Pública y el número de Dependencias que establezca la Ley Orgánica relativa, que distribuirá las funciones que a cada una deba corresponder y señalará los requisitos que el Gobernador observará para nombrar a los Titulares de las mismas.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 73.
 
-Para ser Secretario General se requiere ser ciudadano campechano y tener 25 años de edad.
+Los acuerdos, órdenes y disposiciones que dicte el Gobernador y que sean despachados por las diversas Secretarías del Poder Ejecutivo, irán firmados por el Titular de la Dependencia que los despache y por el Gobernador del Estado; sin este requisito no obligarán.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 74.
 
-Las faltas del Secretario General serán suplidas por el Oficial Mayor de la Secretaría, quien para serlo deberá reunir los mismos requisitos que el Secretario General.
+Las faltas de los Secretarios de los diversos ramos de la Administración Pública, serán suplidas en la forma que determine la Ley Orgánica del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -871,7 +971,7 @@ El Procurador General, será el consejero jurídico del Gobierno e intervendrá 
 
 ### CAPITULO XVII. De la Responsabilidad de los Funcionarios Públicos
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ### CAPITULO XVIII. De los Municipios del Estado
 
@@ -881,11 +981,15 @@ El Procurador General, será el consejero jurídico del Gobierno e intervendrá 
 
 Se deposita el ejercicio del Poder Judicial del Estado en un Tribunal Superior de Justicia y en Juzgados de Primera Instancia, Menores y de Paz, que se establecerán y funcionarán en la forma que disponga la Ley Orgánica del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 78.
 
-El Tribunal Superior de Justicia del Estado se compondrá de tres Magistrados propietarios y tres suplentes; cada uno de ellos será nombrado por el Ejecutivo, y sometido el nombramiento a la aprobación del Congreso. Tendrán el carácter de inamovibles y sólo podrán ser removidos de sus cargos cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86 o previo el juicio de responsabilidad correspondiente.
+El Tribunal Superior de Justicia del Estado se compondrá de cinco Magistrados propietarios y cinco suplentes por lo menos, y funcionará en Pleno o en Salas de la manera que establezca la Ley Orgánica del Poder Judicial de la Entidad.
+
+Los nombramientos de los Magistrados serán hechos por el Gobernador y sometidos a la aprobación del Congreso o en su caso de la Diputación Permanente.
+
+Los Magistrados durarán en sus cargos seis años, a cuyo término si fueren confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos cuando faltaren al cumplimiento de sus deberes oficiales o violaren notoriamente las buenas costumbres, de acuerdo con lo dispuesto por el artículo 86 o previo el juicio de responsabilidad correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -933,19 +1037,27 @@ Las licencias de los Magistrados, cuando no excedan de un mes, serán concedidas
 
 Los magistrados del Tribunal Superior de Justicia, los jueces de primera instancia y sus respectivos secretarios, no podrán desempeñar empleo o cargo de la Federación, de otro Poder del Estado, del Municipio ni de particulares, por el cual reciban remuneración, exceptuados los cargos en los ramos de instrucción y asistencia públicas. La infracción de esta disposición será castigada con la pérdida del cargo de magistrado, juez o secretario.
 
-((REFORMADO, P.O. 29 DE MAYO DE 1965)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 84.
 
-Los Jueces de primera instancia serán inamovibles y deberán llenar los requisitos siguientes:
+Los Jueces de Primera Instancia, deberán cubrir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
+
 II.- Poseer título profesional de abogado expedido por autoridad o corporación legalmente facultada para ello, y
+
+> <small>(REFORMADA, P.O. 29 DE MAYO DE 1965)</small>
 
 III.- Gozar de buena reputación.
 
-Sólo podrán ser removidos de su cargo cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86, o previo el juicio de responsabilidad correspondiente.
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+Durarán en sus cargos seis años, a cuyo vencimiento, de ser confirmados sus nombramientos, serán inamovibles y sólo podrán ser removidos de sus cargos cuando falten al cumplimiento de sus deberes oficiales o violen notoriamente las buenas costumbres, de acuerdo con lo que dispone el artículo 86, o previo el juicio de responsabilidad correspondiente.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -961,11 +1073,13 @@ El Gobernador podrá pedir ante el Congreso del Estado, o, ante la Diputación P
 
 El Gobernador del Estado, antes de pedir al Congreso la destitución de algún funcionario judicial, oirá a éste, en lo privado, a efecto de poder apreciar en conciencia la justificación de su solicitud. También será oído dicho funcionario por el Congreso o por la Diputación Permanente, en su caso.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 87.
 
-El Tribunal Superior de Justicia funcionará en pleno o dividido en tres salas, de acuerdo con lo que prevenga su Ley Orgánica.
+Será Presidente del Tribunal Superior de Justicia, el Magistrado propietario que anualmente sea electo para ese efecto por dicho Cuerpo Colegiado, y sus faltas temporales suplidas por otro Magistrado Propietario designado en la misma forma que el anterior.
+
+El Presidente del Tribunal Superior de Justicia concurrirá al Congreso el último domingo del mes de agosto de cada año y rendirá ante la H. Representación Popular un informe escrito acerca de la situación que guarde la Administración de Justicia en el Estado, informe que contestará en el mismo acto el Presidente del Congreso.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -973,7 +1087,9 @@ El Tribunal Superior de Justicia funcionará en pleno o dividido en tres salas, 
 
 Corresponde al Tribunal Pleno:
 
-I.- Conocer como Jurado de Sentencia de los delitos oficiales que cometan: el Gobernador del Estado, los Diputados al Congreso, el Secretario General de Gobierno, el Procurador General de Justicia y el Tesorero General del Estado;
+> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
+
+I.- Conocer como Jurado de Sentencia de los delitos oficiales que cometan el Gobernador del Estado, los Diputados al Congreso y los Secretarios de los diversos Ramos de la Administración Pública de la entidad.
 
 II.- Juzgar por los mismos delitos a los Presidentes de Ayuntamientos y concejales, y a los jueces de primera instancia, menores y de paz;
 
@@ -1003,7 +1119,7 @@ IX.- Remover a los empleados de los juzgados de primera instancia, menores y de 
 
 ###### ARTICULO 89.
 
-Los diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, el Secretario General de Gobierno, el Procurador General de Justicia, el Tesorero General del Estado y el Presidente, Regidores y Síndicos de los Ayuntamientos, son responsables por los delitos del orden común que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones oficiales.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Secretarios de los diversos Ramos de la Administración Pública Estatal, el Procurador General de Justicia, y el Presidente, Regidores y Síndicos de los Ayuntamientos, son responsables por los delitos del orden común que cometan durante el tiempo de su encargo y por los delitos, faltas u omisiones en que incurran en el ejercicio de sus funciones oficiales.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1253,11 +1369,11 @@ Ningún individuo podrá desempeñar a la vez dos cargos de elección popular, c
 
 Los funcionarios rendirán la protesta ante quien corresponda en la siguiente forma: "La autoridad que reciba la protesta dirá: "¿Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen, y cumplir leal y patrióticamente con los deberes del cargo de ……. que el Estado os ha conferido?". El interrogado contestará; "Sí, protesto". Acto continuo la misma autoridad que tome la protesta, dirá: "Si no lo hiciéreis así, que la Nación y el Estado os lo demanden".
 
-> <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 119.
 
-Todos los funcionarios de elección popular recibirán una remuneración por sus servicios, con excepción de los Regidores y Síndicos de los Ayuntamientos.
+Todos los funcionarios estatales y municipales de elección popular y por nombramiento, recibirán una remuneración por sus servicios.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -1596,3 +1712,7 @@ El presente decreto iniciará su vigencia al día siguiente de su publicación e
 P.O. 30 DE DICIEMBRE DE 1978.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 25 DE SEPTIEMBRE DE 1979.
+
+UNICO.- Estas reformas a la Constitución Política del Estado de Campeche, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado. Las reformas que se refieren al Poder Judicial, entrarán en vigor en cuanto se modifique la Ley Orgánica del Poder Judicial del Estado.
