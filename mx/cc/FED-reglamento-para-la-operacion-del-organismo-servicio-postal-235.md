@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-operacion-del-organismo-servicio-postal-235"
 country: "mx"
 rank: "reglamento"
 publication_date: "1988-10-31"
-last_updated: "1988-10-31"
+last_updated: "2000-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=235&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-10-14"
 
 REGLAMENTO PARA LA OPERACION DEL ORGANISMO SERVICIO POSTAL MEXICANO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en el Diario Oficial de la Federación el lunes 31 de octubre de 1988.
 
@@ -61,6 +61,38 @@ AGENTE POSTAL: La persona física o moral que por virtud de un contrato auxilie 
 
 La prestación de los servicios a que se refiere este Reglamento se sujetará a las disposiciones de la Ley, de los tratados y convenios internacionales celebrados o que celebre el Gobierno Mexicano y de este ordenamiento, y por las demás leyes y disposiciones normativas y administrativas aplicables.
 
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 3-A.
+
+Las solicitudes o promociones relacionadas con la prestación de los servicios, derechos y obligaciones que se establecen en la Ley y este Reglamento, con excepción de aquellos que se realicen directamente en ventanillas o se depositen en los buzones, deberán presentarse por escrito, firmadas por el promovente o su representante legal y contendrán los siguientes requisitos:
+
+I. Nombre, denominación o razón social del solicitante;
+
+II. Nombre del representante legal, en su caso;
+
+III. Clave del Registro Federal de Contribuyentes del promovente;
+
+IV. Domicilio y nombre de la persona o personas autorizadas para recibir notificaciones;
+
+V. Unidad administrativa del organismo a quien se dirige la petición;
+
+VI. La petición que se formula;
+
+VII. Los hechos y razones que dan motivo a la petición;
+
+VIII. Lugar y fecha de emisión del escrito correspondiente;
+
+IX. Números de teléfono, fax y correo electrónico (opcional);
+
+X. Documento que acredite la existencia de la persona moral, en su caso;
+
+XI. Documento que acredite la personalidad del representante legal, en su caso, que realice el trámite, y
+
+XII. Los demás específicos que para cada trámite o solicitud se establezcan en la Ley; en el presente reglamento o en las disposiciones administrativas aplicables.
+
+Los plazos de respuesta previstos en este reglamento, empezarán a correr a partir de la recepción de la solicitud o promoción por la unidad administrativa competente. En caso de que no se señale expresamente el plazo de respuesta para algún trámite determinado, se considerará como plazo máximo de respuesta el de 20 días hábiles.
+
 ### CAPITULO SEGUNDO. De las Modalidades de la Correspondencia y Envíos
 
 ###### ARTICULO 4o.
@@ -80,6 +112,12 @@ III.- Bultos conteniendo mercancías.
 IV.- Piezas agrupadas y con tasa única.
 
 V.- Cartas y tarjetas distintas a la correspondencia.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 5-A.
+
+Tratándose de depósitos masivos de correspondencia y envíos, en los servicios de cartas, propaganda comercial, publicaciones periódicas y envíos mixtos, además de las tarifas preferenciales que les pudieran corresponder, se podrá aplicar a favor de los interesados un descuento, previa solicitud en los formatos autorizados por el Organismo al efecto.
 
 ### CAPITULO TERCERO. Entrega de la Correspondencia y los envíos
 
@@ -147,7 +185,7 @@ La correspondencia y envíos dirigidos a personas recluidas en establecimientos 
 
 ###### ARTICULO 14.
 
-Cuando la correspondencia y envíos registrados se entreguen por conducto de los Administradores de establecimientos penales, beneficencia o de índole semejante, los Administradores firmarán constancia de que las piezas quedan en su poder para su entrega a los destinatarios, a reserva de que devuelvan la documentación correspondiente con la firma del propio destinatario.
+Cuando la correspondencia y envíos registrados se entreguen por conducto de los Administradores de establecimientos penales, beneficencia o de índole semejante, los Administradores firmarán constancia de que las piezas quedan en su poder para su entrega a los destinatarios, a reserva de que devuelvan la documentación correspondiente con la firma del propio destinatario
 
 ###### ARTICULO 15.
 
@@ -411,6 +449,58 @@ El contrato deberá especificar las obligaciones del contratista, sus derechos, 
 
 Queda prohibido ceder en todo o en parte los derechos y transferir las obligaciones del contrato sin la previa aprobación del Organismo.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+### CAPITULO DECIMO. De las reclamaciones e indemnizaciones
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 61.
+
+En los casos de pérdida, violación, robo, daños, faltantes y destrucción de la correspondencia y envíos, tanto nacionales como internacionales, incluyendo el servicio acelerado, el interesado podrá presentar ante el organismo una reclamación, en el formato autorizado al efecto, el cual contendrá los datos y se acompañará de los documentos que a continuación se señalan:
+
+I. Datos de la correspondencia o envío reclamado:
+
+a) Número, clase y contenido de la pieza o envío;
+
+b) Valor declarado;
+
+c) Valor del envío asegurado o reembolso;
+
+d) Valor por cobrar;
+
+e) Oficina y fecha del depósito, y
+
+f) Factura comercial, sólo para el caso de servicio acelerado;
+
+II. Nombre, domicilio y teléfono, fax o correo electrónico, en su caso, del remitente y del destinatario, y
+
+III. El comprobante o guía de depósito de la correspondencia o envío.
+
+A partir de la fecha de la presentación de la reclamación, acompañada de los datos y documentos completos, el organismo resolverá la reclamación en un plazo máximo de sesenta días hábiles tratándose del correo tradicional y treinta días hábiles en el caso del servicio acelerado de correspondencia y envíos.
+
+En caso de que existan deficiencias u omisiones en la reclamación presentada, el organismo deberá prevenir al reclamante, dentro del plazo de diez días hábiles, contados a partir de la fecha de recepción de la solicitud, para que subsane las omisiones, o aclare las deficiencias.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 62.
+
+En caso de proceder la reclamación, el organismo determinará la indemnización que corresponda, y la pondrá a disposición del reclamante.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 63.
+
+Las indemnizaciones, salvo caso fortuito o fuerza mayor, se ajustarán a las siguientes bases:
+
+I. En el caso de correspondencia registrada, se otorgará el equivalente a la cantidad del porte o franqueo pagado;
+
+II. En el caso de piezas postales, cursadas por el servicio acelerado de correspondencia y envíos, la indemnización será el equivalente de hasta 30 días de salario mínimo general vigente en el Distrito Federal, y
+
+III. Tratándose de correspondencia internacional, la indemnización se cubrirá en los términos de los tratados internacionales, o, en su caso, de los acuerdos interinstitucionales.
+
+No procederá el pago de la indemnización prevista en este artículo, por la correspondencia ordinaria, así como tampoco cuando el daño o destrucción de la correspondencia y los envíos o piezas postales sean consecuencia de vicios propios o de la envoltura o empaque inadecuado, imputable al usuario, o se trate de correspondencia o envíos prohibidos por el artículo 15 de la Ley.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -422,3 +512,13 @@ El presente Reglamento entrará en vigor al día siguiente de su publicación en
 Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de octubre de mil novecientos ochenta y ocho.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Daniel Díaz Díaz.- Rúbrica.
+
+N. DE. E: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Dentro de sesenta días naturales posteriores a la publicación de este Decreto, la Secretaría de Comunicaciones y Transportes deberá publicar en el Diario Oficial de la Federación una tabla de los certificados de seguridad que requieren las embarcaciones y artefactos navales, previstos en el Reglamento a que se refiere el artículo décimo primero del presente Decreto, de acuerdo a sus características y servicio al que se destinen.
+
+TERCERO. Los artículos 30 a 35 del Reglamento a que se refiere el artículo décimo primero del presente Decreto, continuarán vigentes para las empresas que tengan embarcaciones extranjeras inscritas en el Programa de Abanderamiento, hasta la fecha en que den cumplimiento a los compromisos asumidos para abanderar dichas embarcaciones como mexicanas y los casos de incumplimiento serán sancionados conforme al artículo 140 fracción V, de la Ley de Navegación.
