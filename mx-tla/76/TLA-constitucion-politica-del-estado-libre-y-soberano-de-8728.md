@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "1936-08-31"
+last_updated: "1944-10-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE AGOSTO DE 1936.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE OCTUBRE DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -505,11 +505,11 @@ El Ejercicio del Poder Ejecutivo del Estado se deposita en un solo individuo que
 
 La elección de Gobernador será popular directa y se hará en los términos que disponga la Ley Electoral.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1934)</small>
+> <small>(REFORMADO, P.O. 11 DE OCTUBRE DE 1944)</small>
 
 ###### Art. 48.
 
-El Gobernador entrará a ejercer sus funciones el día 15 de enero posterior a la elección, durará en su encargo cuatro años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de Interino, Provisional o Substituto Encargado del Despacho.
+El Gobernador entrará a ejercer sus funciones el día 15 de enero posterior a la elección, durará en su encargo seis años, y en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional o Substituto Encargado del Despacho.
 
 ###### Art. 49.
 
@@ -950,3 +950,7 @@ Transitorio.- Estas adiciones y reformas entrarán en vigor el día 15 quince de
 P.O. 31 DE AGOSTO DE 1936.
 
 Las reformas que anteceden entrarán en vigor a partir del día primero de septiembre de mil novecientos treinta y seis.
+
+P.O. 11 DE OCTUBRE DE 1944.
+
+El presente Decreto surtirá sus efectos a partir de esta fecha.
