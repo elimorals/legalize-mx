@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1941-01-31"
+last_updated: "1941-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,6 +24,8 @@ issue_date: "1934-08-20"
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE ENERO DE 1941.
+
+> <small>[N. DE E. CONTIENE EL "ACUERDO QUE ADICIONA LA LISTA DE ENFERMEDADES TRANSMISIBLES" AL ARTÍCULO 137, PUBLICADO EN LA SECCIÓN PRIMERA DEL DIARIO OFICIAL EL SÁBADO 6 DE DICIEMBRE DE 1941.]</small>
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -904,6 +906,8 @@ Serán aplicables las disposiciones de este Título, en los puertos y poblacione
 ###### ARTICULO 137.
 
 Se declara de interés público la campaña contra las enfermedades transmisibles, la que se realizará mediante las disposiciones que en forma de reglamentos especiales dicte el Departamento de Salubridad.
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ACUERDO QUE ADICIONA LA LISTA DE ENFERMEDADES TRANSMISIBLES, PUBLICADO EN EL D. O. 6 DE DICIEMBRE DE 1941, SE CONSIDERAN COMO ENFERMEDADES TRANSMISIBLES, ADEMÁS: “Lesiones supuradas (incluyendo heridas y úlceras infectadas, forunculosis, otitis supurada, panadizos, piodermitis y piorrea), pediculosis y sarna”.]</small>
 
 Para los efectos de este Título y sus reglamentos, se consideran enfermedades transmisibles: blenorragia, cólera, chancro blando, dengue, difteria, disenterías amibiana y bacilar, enfermedad de Nicolás y Favre, erisipela, escarlatina, fiebre amarilla, fiebre ondulante, fiebres paratifoideas, fiebre recurrente, fiebre tifoidea, filariosis, granuloma venéreo, infección puerperal, Kala-azar, lepra, leishmaniosis, meningitis cerebro-espinal, oftalmia purulenta, orejones, paludismo, peste, poliomielitis anterior aguda de la infancia, polioencefalitis aguda, psitacosis, pústula maligna, quiste hidatídico, rabia, rubiola, sarampión, sífilis, tétanos, tifo exantemático, tiña, tosferina, tracoma, tuberculosis, tularemia, uncinariasis, varicela, viruela y las demás que determine expresamente el Consejo de Salubridad General o el Departamento de Salubridad Pública.
 
@@ -3336,3 +3340,11 @@ Este Decreto entrará en vigor sesenta días después de su publicación en el "
 ###### ARTICULO 2°.
 
 Se derogan todas las demás disposiciones que se opongan a las presentes reformas.
+
+D.O. 6 DE DICIEMBRE DE 1941.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL "ACUERDO QUE ADICIONA LA LISTA DE ENFERMEDADES TRANSMISIBLES".]</small>
+
+El Departamento de Salubridad Pública, en uso de la facultad que le concede el artículo 137 del Código Sanitario, y para los efectos que el propio artículo determina, declara que se consideran como enfermedades transmisibles, además de las que enumera dicho precepto legal, las siguientes:
+
+Lesiones supuradas (incluyendo heridas y úlceras infectadas, forunculosis, otitis supurada, panadizos, piodermitis y piorrea), pediculosis y sarna.
