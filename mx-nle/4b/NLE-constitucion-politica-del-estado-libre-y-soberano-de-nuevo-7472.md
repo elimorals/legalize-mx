@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "1948-09-29"
+last_updated: "1949-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1949.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -561,7 +561,9 @@ XV.- Visitar, dentro del período de su Gobierno, todos los pueblos del Estado p
 
 XVI.- Pasar al Procurador de Justicia los asuntos que deban ventilarse ante los Tribunales para que ejercite las atribuciones de su ministerio.
 
-XVII.- Nombrar los Jueces del Estado Civil y los Registradores de la propiedad por medio de terna que le pasen los Ayuntamientos.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 1949)</small>
+
+XVII.- Nombrar, mediante terna que le presente el respectivo Ayuntamiento, a los Registradores de la Propiedad.
 
 XVIII.- Suspender provisionalmente hasta por quince días a los Presidentes Municipales que abusen de sus facultades, pudiendo ocurrir éstos a la Legislatura o Diputación Permanente a reclamar sus derechos. El Gobernador dará cuentas a la Legislatura o Diputación Permanente después de que use de esta facultad, acompañando los justificantes respectivos.
 
@@ -578,6 +580,10 @@ XXIII.- Rendir los informes a que se refiere la fracción XIII del art. 63.
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1928)</small>
 
 XXIV.- Proponer terna al Congreso para Tesorero General del Estado y removerlo libremente, enviando nueva terna al Congreso
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 1949)</small>
+
+XXV.- Nombrar directamente a los Oficiales del Registro Civil en el Municipio de Monterrey, y mediante terna que al efecto presente el respectivo Ayuntamiento, a aquellos que correspondan a Municipios en que exista más de una Oficialía. Exceptuando el Municipio de Monterrey, en los demás será precisamente Oficial del Registro Civil el Alcalde Primero del Municipio de que se trate ya sea como Oficial Unico, o como Oficial Primero concurriendo con otro u otros de los designados mediante terna por el Ejecutivo.
 
 ###### Art. 86.
 
@@ -1294,5 +1300,9 @@ P.O. 30 DE ABRIL DE 1947.
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
 
 P.O. 29 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
+
+P.O. 11 DE MAYO DE 1949.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
