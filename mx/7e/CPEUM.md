@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1988-05-11"
+last_updated: "1990-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ABRIL DE 1990.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -110,7 +110,9 @@ La Ley determinará en cada Estado, cuáles son las profesiones que necesitan t�
 
 Nadie podrá ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad judicial, el cual se ajustará a lo dispuesto en las fracciones I y II del artículo 123.
 
-En cuanto a los servicios públicos sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los de jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrá carácter obligatorio y gratuito. Los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la ley y con las excepciones que ésta señale.
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+En cuanto a los servicios públicos, sólo podrán ser obligatorios, en los términos que establezcan las leyes respectivas, el de las armas y los jurados, así como el desempeño de los cargos concejiles y los de elección popular, directa o indirecta. Las funciones electorales y censales tendrán carácter obligatorio y gratuito, pero serán retribuidas aquéllas que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes. Los servicios profesionales de índole social serán obligatorios y retribuidos en los términos de la ley y con las excepciones que ésta señale.
 
 El Estado no puede permitir que se lleve a efecto ningún contrato, pacto o convenio que tenga por objeto el menoscabo, la pérdida o el irrevocable sacrificio de la libertad de la persona, ya sea por causa de trabajo, de educación o de voto religioso. La ley en consecuencia, no permite el establecimiento de órdenes monásticas, cualquiera que sea la denominación u objeto con que pretendan erigirse.
 
@@ -604,7 +606,9 @@ I.- Votar en las elecciones populares;
 
 II.- Poder ser votado para todos los cargos de elección popular, y nombrado para cualquier otro empleo o comisión, teniendo las calidades que establezca la ley;
 
-III.- Asociarse para tratar los asuntos políticos del país;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+III.- Asociarse libre y pacíficamente para tomar parte en los asuntos políticos del país;
 
 IV.- Tomar las armas en el Ejército o Guardia Nacional, para la defensa de la República y de sus instituciones, en los términos que prescriben las leyes; y
 
@@ -614,7 +618,11 @@ V.- Ejercer en toda clase de negocios el derecho de petición.
 
 Son obligaciones del ciudadano de la República:
 
-I.- Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista; así como también inscribirse en los padrones electorales, en los términos que determinen las leyes;
+> <small>(REFORMADA, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+I.- Inscribirse en el catastro de la municipalidad, manifestando la propiedad que el mismo ciudadano tenga, la industria, profesión o trabajo de que subsista; así como también inscribirse en el Registro Nacional de Ciudadanos, en los términos que determinen las leyes.
+
+La organización y el funcionamiento permanente del Registro Nacional de Ciudadanos y la expedición del documento que acredite la ciudadanía mexicana son servicios de interés público, y por tanto, responsabilidad que corresponde al Estado y a los ciudadanos en los términos que establezca la ley;
 
 II.- Alistarse en la Guardia Nacional;
 
@@ -707,6 +715,30 @@ En los procesos electorales federales los partidos políticos nacionales deberá
 > <small>(ADICIONADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones estatales y municipales.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+La organización de las elecciones federales es una función estatal que se ejerce por los Poderes Legislativo y Ejecutivo de la Unión, con la participación de los partidos políticos nacionales y de los ciudadanos según lo disponga de (sic) ley. Esta función se realizará a través de un organismo público dotado de personalidad jurídica y patrimonio propios. La certeza, legalidad, imparcialidad, objetividad y profesionalismo serán principios rectores en el ejercicio de esta función estatal.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+El organismo público será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, así como con órganos ejecutivos y técnicos. De igual manera, contará con órganos de vigilancia que se integrarán mayoritariamente por representantes de los partidos políticos nacionales. El órgano superior de dirección se integrará por consejeros y consejeros magistrados designados por los Poderes Legislativo y Ejecutivo y por representantes nombrados por los partidos políticos. Los órganos ejecutivos y técnicos dispondrán del personal calificado necesario para prestar el servicio electoral profesional, los ciudadanos formarán las mesas directivas de casillas.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+El organismo público agrupará para su desempeño, en forma integral y directa, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, computos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+La ley establecerá un sistema de medios de impugnación de los que conocerán el organismo público y un tribunal autónomo, que será órgano jurisdiccional en materia electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+El tribunal electoral tendrá la competencia y organización que determine la ley; funcionará en pleno o salas regionales, resolverá en una sola instancia y sus sesiones serán públicas. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración. Contra sus resoluciones no procederá juicio ni recurso alguno, pero aquéllas que se dicten con posterioridad a la jornada electoral sólo podrán ser revisadas y en su caso modificadas por los Colegios Electorales en los términos de los Artículos 60 y 74, fracción I, de esta Constitución. Para el ejercicio de sus funciones, contará con cuerpos de magistrados y jueces instructores, los cuales serán independientes y responderán solo al mandato de la ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+Los consejeros magistrados y los magistrados del tribunal deberán satisfacer los requisitos que señale la ley, que no podrán ser menores a los que señala esta Constitución para ser ministro de la Suprema Corte de Justicia de la Nación. Serán electos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados, de entre los propuestos por el Ejecutivo Federal. Si dicha mayoría no se lograra en la primera votación, se procederá a insacular de los candidatos propuestos, el número que corresponda de consejeros magistrados y magistrados del tribunal. La ley señalará las reglas y el procedimiento correspondientes.
 
 ### CAPITULO II.
 
@@ -810,39 +842,27 @@ La demarcación territorial de los 300 distritos electorales uninominales será 
 
 Para la elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se constituirán cinco circunscripciones electorales plurinominales en el país. La Ley determinará la forma de establecer la demarcación territorial de estas circunscripciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
 
 ###### Art. 54.
 
-La elección de los 200 diputados según el principio de representación proporcional y el Sistema de Listas Regionales, se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+La elección de los 200 diputados según el principio de representación proporcional y el sistema de listas regionales, se sujetará a las siguientes bases y reglas y a lo que disponga la ley:
 
-> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+I. Un partido político, para obtener el registro de sus listas regionales, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos doscientos distritos uninominales;
 
-I.- Para obtener el registro de sus listas regionales, el partido político nacional que lo solicite, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los 300 distritos uninominales.
+II. Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que le sean atribuidos diputados según el principio de representación proporcional;
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+III. Al partido político que cumpla con lo dispuesto por las dos bases anteriores, le serán asignados diputados por el principio de representación proporcional. La ley establecerá la fórmula para la asignación. Además, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional, todo aquel partido político nacional que alcance por lo menos el 1.5% del total de la votación emitida para las listas regionales de las cinco circunscripciones y no se encuentre comprendido en los siguientes supuestos:
+IV. En todo caso, para el otorgamiento de las constancias de asignación se observarán las siguientes reglas:
 
-A) Haber obtenido el 51% o más de la votación nacional efectiva, y que su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara, superior o igual a su porcentaje de votos, o
+a) Ningún partido político podrá contar con más de trescientos cincuenta diputados electos mediante ambos principios;
 
-B) Haber obtenido menos del 51% de la votación nacional efectiva, y que su número de constancias de mayoría relativa sea igual o mayor a la mitad más uno de los miembros de la Cámara.
+b) Si ningún partido político obtiene por lo menos el treinta y cinco por ciento de la votación nacional emitida, a todos los partidos políticos que cumplan con lo dispuesto en las dos bases anteriores le será otorgada constancia de asignación por el número de diputados que se requiera para que su representación en la Cámara, por ambos principios, corresponda en su caso, al porcentaje de votos obtenido;
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+c) Al partido político que obtenga el mayor número de constancias de mayoría y el treinta y cinco por ciento de la votación nacional, le será otorgada constancia de asignación de diputados en número suficiente para alcanzar la mayoría absoluta de la Cámara. Se le asignarán también dos diputados de representación proporcional, adicionalmente a la mayoría absoluta, por cada uno por ciento de votación obtenida por encima del treinta y cinco por ciento y hasta menos del sesenta por ciento, en la forma que determine la ley;
 
-III.- Al partido que cumpla con lo dispuesto por las fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista regional que corresponda al porcentaje de votos obtenidos en cada circunscripción plurinominal. La Ley determinará las normas para la aplicación de la fórmula que se observará en la asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
-
-IV.- En los términos de la fracción anterior las normas para la asignación de curules, son las siguientes:
-
-A) Si algún partido obtiene el 51% o más de la votación nacional efectiva y el número de constancias de mayoría relativa representan un porcentaje del total de la Cámara, inferior a su referido porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional, hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
-
-B) Ningún partido tendrá derecho a que le sean reconocidos más de 350 diputados, que representan el 70% de la integración total de la Cámara, aun cuando hubiere obtenido un porcentaje de votos superior.
-
-C) Si ningún partido obtiene el 51% de la votación nacional efectiva y ninguno alcanza, con sus constancias de mayoría relativa, la mitad más uno de los miembros de la Cámara, al partido con más constancias de mayoría le serán asignados diputados de representación proporcional, hasta alcanzar la mayoría absoluta de la Cámara, y
-
-D) En el supuesto anterior, y en caso de empate en el número de constancias, la mayoría absoluta de la Cámara será decidida en favor de aquel de los partidos empatados, que haya alcanzado la mayor votación a nivel nacional, en la elección de diputados por mayoría relativa.
+d) El partido político que obtenga entre el sesenta por ciento y el setenta por ciento de la votación nacional, y su número de constancias de mayoría relativa represente un porcentaje del total de la Cámara inferior a su porcentaje de votos, tendrá derecho a participar en la distribución de diputados electos según el principio de representación proporcional hasta que la suma de diputados obtenidos por ambos principios represente el mismo porcentaje de votos.
 
 ###### Art. 55.
 
@@ -906,17 +926,21 @@ Los Senadores y Diputados al Congreso de la Unión no podrán ser reelectos para
 
 Los Senadores y Diputados Suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio; pero los Senadores y Diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
 
 ###### Art. 60.
 
-Cada Cámara calificará las elecciones de sus miembros y resolverá las dudas que hubiese sobre ellas.
+Cada Cámara calificará a través de un Colegio Electoral la elegibilidad y la conformidad a la ley de las constancias de mayoría o de asignación proporcional a fin de declarar, cuando proceda, la validez de la elección de sus miembros.
 
-El Colegio Electoral de la Cámara de Diputados se integrará con todos los presuntos diputados que hubieren obtenido constancia expedida por la Comisión Federal Electoral, tanto con los electos por el principio de votación mayoritaria relativa como con los electos por el principio de representación proporcional.
+El Colegio Electoral de la Cámara de Diputados se integrará por cien presuntos diputados propietarios nombrados por los partidos políticos en la proporción que les corresponda respecto del total de las constancias otorgadas en la elección de que se trate.
 
-El Colegio Electoral de la Cámara de Senadores se integrará, tanto con los presuntos senadores que hubieren obtenido la declaración de la legislatura de cada Estado y de la Comisión Permanente del Congreso de la Unión, en el caso del Distrito Federal, como con los senadores de la anterior Legislatura que continuarán en el ejercicio de su encargo.
+El Colegio Electoral de la Cámara de Senadores se integrará, tanto con los presuntos senadores que hubieren obtenido la declaración de la legislatura de cada Estado y de la Comisión Permanente del Congreso de la Unión, en caso del Distrito Federal, como con los senadores de la anterior legislatura que continuarán en el ejercicio de su encargo.
 
-Corresponde al Gobierno Federal la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen e instituirá un tribunal que tendrá la competencia que determine la Ley; las resoluciones del tribunal serán obligatorias y sólo podrán ser modificadas por los Colegios Electorales de cada Cámara, que serán la última instancia en la calificación de las elecciones; todas estas resoluciones tendrán el carácter de definitivas e inatacables.
+Las constancias otorgadas a presuntos legisladores cuya elección no haya sido impugnada ante el tribunal serán dictaminadas y sometidas desde luego a los Colegios Electorales, para que sean aprobadas en sus términos, salvo que existiesen hechos supervenientes que obliguen a su revisión por el Colegio Electoral correspondiente.
+
+Las resoluciones del tribunal electoral serán obligatorias y sólo podrán ser modificadas o revocadas por los Colegios Electorales mediante el voto de las dos terceras partes de sus miembros presentes, cuando de su revisión se deduzca que existan violaciones a las reglas en materia de admisión y valoración de pruebas y en la motivación del fallo, o cuando éste sea contrario a derecho.
+
+Las resoluciones de los Colegios Electorales serán definitivas e inatacables.
 
 ###### Art. 61.
 
@@ -1092,9 +1116,31 @@ VI. Para legislar en todo lo relativo al Distrito Federal, sometiéndose a las b
 
 Los Representantes a la Asamblea del Distrito Federal serán electos cada tres años y por cada propietario se elegirá un suplente; las vacantes de los Representantes serán cubiertas en los términos de la fracción IV del artículo 77 de esta Constitución.
 
-La asignación de los Representantes electos según el principio de representación proporcional, se sujetará a las normas que esta Constitución y la ley correspondiente contengan.
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
 
-Para la organización, desarrollo, vigilancia y contencioso electoral de las elecciones de los representantes a la Asamblea del Distrito Federal, se estará a lo dispuesto por el artículo 60 de esta Constitución.
+La elección de los veintiséis representantes según el principio de representación proporcional y el sistema de listas en una sola circunscripción plurinominal, se sujetará a las siguientes bases y a lo que en lo particular disponga la ley:
+
+a) Un partido político, para obtener el registro de su lista de candidatos a representantes a la Asamblea del Distrito Federal, deberá acreditar que participa con candidatos por mayoría relativa en todos los distritos uninominales del Distrito Federal;
+
+b) Todo partido político que alcance por lo menos el uno y medio por ciento del total de la votación emitida para la lista de la circunscripción plurinominal, tendrá derecho a que le sean atribuidos representantes según el principio de representación proporcional;
+
+c) Al partido político que cumpla con lo dispuesto por los dos incisos anteriores, le serán asignados representantes por el principio de representación proporcional. La ley establecerá la fórmula para la asignación tomando en cuenta las reglas establecidas en el artículo 54 para la Cámara de Diputados. Además, en la asignación se seguirá el orden que tuviesen los candidatos en la lista correspondiente.
+
+> <small>(REFORMADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+En todo caso, para el otorgamiento de las constancias de asignación se observarán las siguientes reglas:
+
+a) Ningún partido político podrá contar con más de 43 representantes electos mediante ambos principios;
+
+b) Al partido político que obtenga el mayor número de constancias de mayoría y por lo menos el treinta por ciento de la votación en el Distrito Federal, le será otorgada la constancia de asignación por el número suficiente de representantes para alcanzar la mayoría absoluta de la Asamblea.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+Para la organización y contencioso electorales de la elección de los representantes a la Asamblea del Distrito Federal se estará a lo dispuesto por el artículo 41 de esta Constitución.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ABRIL DE 1990)</small>
+
+El Colegio Electoral que califique la elección de los representantes a la Asamblea del Distrito Federal, se integrará con los presuntos representantes que hayan obtenido constancias de mayoría o de asignación proporcional en su caso, siendo aplicables las reglas que para la calificación establece el artículo 60 de esta Constitución.
 
 Los Representantes a la Asamblea del Distrito Federal deberán reunir los mismos requisitos que el artículo 55 establece para los Diputados Federales y les será aplicable lo dispuesto por los artículos 59, 61, 62 y 64 de esta Constitución.
 
@@ -2772,23 +2818,17 @@ Se faculta al C. Encargado del Poder Ejecutivo de la Unión para que expida la l
 
 El Congreso Constitucional en el período ordinario de sus sesiones, que comenzará el 1o. de septiembre de este año, expedirá todas las leyes orgánicas de la Constitución que no hubieren sido ya expedidas en el período extraordinario a que se refiere el artículo 6o. transitorio, y dará preferencia a las leyes relativas a Garantías Individuales, y artículos 30, 32, 33, 35, 36, 38, 107 y parte final del artículo 111 de esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 7 DE ABRIL DE 1986)</small>
-
 ###### Art. 17.
 
-Los Diputados que se elijan a la LIV Legislatura del Congreso de la Unión, durarán en funciones del 1o. de septiembre de 1988 hasta el 31 de octubre de 1991.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
+(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
 
 ###### Art. 18.
 
-Los senadores que se elijan a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1994, y los que se elijan para la LIV Legislatura, que serán los nombrados en segundo lugar, durarán en funciones del 1o. de septiembre de 1988 al 31 de octubre de 1991.
-
-> <small>(ADICIONADO, D.O.F. 10 DE AGOSTO DE 1987)</small>
+(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
 
 ###### Art. 19.
 
-La Comisión Permanente se integrará con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
+(DEROGADO, D.O.F. 6 DE ABRIL DE 1990)
 
 > <small>(F. DE E., D.O.F. 6 DE FEBRERO DE 1917)</small>
 
@@ -3749,3 +3789,17 @@ La presente reforma y adición a la Constitución Política de los Estados Unido
 D.O.F. 11 DE MAYO DE 1988.
 
 UNICO.- Este Decreto entrará en vigor al siguiente día de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ABRIL DE 1990.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto no se establezca el servicio del Registro Nacional Ciudadano, los ciudadanos deberán inscribirse en los padrones electorales.
+
+TERCERO.- Los diputados electos a la LIV Legislatura del Congreso de la Unión durarán en sus funciones hasta el 31 de octubre de 1991.
+
+CUARTO.- Los senadores electos por tres años a la LIV Legislatura durarán en su cargo hasta el 31 de octubre de 1991. Los senadores electos por seis años a las LIV y LV Legislaturas del Congreso de la Unión durarán en funciones hasta el 31 de octubre de 1994.
+
+QUINTO.- La Comisión Permanente se integra con 37 miembros en los términos del Artículo 78 de esta Constitución a partir del primer receso de la LIV Legislatura al H. Congreso de la Unión.
+
+SEXTO.- En tanto se expida por el Congreso de la Unión la nueva ley reglamentaria en materia electoral, seguirá en vigor el Código Federal Electoral.
