@@ -4,7 +4,7 @@ identifier: "COL-ley-de-prevencion-y-readaptacion-social-para-el-estado-de-12433
 country: "mx"
 rank: "ley"
 publication_date: "1997-08-02"
-last_updated: "1997-08-02"
+last_updated: "1998-03-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 LEY DE PREVENCION Y READAPTACION SOCIAL PARA EL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE MARZO DE 1998.
 
-Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997.
+Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 2 de agosto de 1997..
 
 CARLOS DE LA MADRID VIRGEN, Gobernador Constitucional del Estado Libre y Soberano de Colima, a sus habitantes sabed:
 
@@ -437,7 +437,9 @@ VIII.- Que se abstenga de causar molestias al ofendido, a sus familiares o a las
 
 IX.- Que se someta a la vigilancia que sobre él ejercerá la DIRECCION.
 
-Cuando el titular del Poder Ejecutivo lo considere conveniente, podrá expedir programas de despresurización penitenciaria, conforme al cual se concederá el beneficio a que se refiere este artículo cuando el interno haya cumplido el 40% ó 50% de su condena, demuestre efectiva readaptación, se trate de un delincuente primario, cumpla con los requisitos a que se refieren las fracciones anteriores y otorgue su visto bueno el Consejo Técnico respectivo. En ningún caso podrá concederse este beneficio cuando se trate de sentenciados por delitos graves, previstos en el artículo 10 del Código Penal o leyes especiales.
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1998)</small>
+
+Cuando el titular del Poder Ejecutivo lo considere conveniente, podrá expedir programas de despresurización penitenciaria, conforme al cual se concederá el beneficio a que se refiere este artículo cuando el interno haya cumplido el 40% ó 50% de su condena, demuestre efectiva readaptación, se trate de un delincuente primario, cumpla con los requisitos a que se refieren las fracciones anteriores y otorgue su visto bueno el Consejo Técnico respectivo. En ningún caso podrá concederse este beneficio cuando se trate de sentenciados por los siguientes delitos: homicidio calificado, robo con violencia, secuestro y violación.
 
 ###### ARTICULO 61.
 
@@ -559,7 +561,9 @@ En caso de hacerse efectiva la pena de prisión sustituida se tomará en cuenta 
 
 A la mujer que se encuentre en estado de gravidez durante el cumplimiento de la pena de prisión impuesta por la autoridad judicial competente, la DIRECCION podrá autorizarle la sustitución provisional de la prisión por tratamiento en libertad, durante el embarazo y los 45 días siguientes al parto. Transcurrido ese término deberá regresar a cumplir el resto de la sanción impuesta en el lugar que señale la DIRECCION.
 
-Al sentenciado mayor de 75 años de edad, la DIRECCION podrá autorizarle la sustitución de la prisión por tratamiento en libertad hasta el total cumplimiento de la sanción.
+REFORMADO, P.O. 28 DE MARZO DE 1998)
+
+Al sentenciado mayor de 70 años de edad, la Dirección podrá autorizarle la sustitución de la prisión por tratamiento en libertad hasta el total cumplimiento de la sanción.
 
 Este tratamiento, procederá también en beneficio de los internos que padezcan una enfermedad en fase terminal.
 
@@ -676,3 +680,9 @@ Por tanto mando se imprima, publique, circule y observe.
 Dado en Palacio de Gobierno, a los veinticuatro días del mes de julio de mil novecientos noventa y siete.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. RAMON PEREZ DIAZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE MARZO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
