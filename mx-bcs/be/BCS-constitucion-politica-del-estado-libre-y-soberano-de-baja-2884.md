@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1989-07-10"
+last_updated: "1989-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE JULIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE OCTUBRE DE 1989.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -283,27 +283,29 @@ II.- La elección de Diputados por el principio de Representación Proporcional 
 
 a).- Se constituirá una sola circunscripción plurinominal que comprenderá todo el Estado.
 
-b).- Los Partidos Políticos tendrán derecho a postular candidatos por el principio de Representación Proporcional, siempre y cuando hayan registrado candidatos por lo menos en cinco distritos electorales uninominales.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
-c).- Para que un Partido Político tenga derecho a que le sean acreditados de entre sus candidatos, Diputados de Representación Proporcional, deberán alcanzar por lo menos el cinco por ciento del total de la votación emitida en el Estado para todas las listas y siempre que no haya logrado ningún Diputado de Mayoría Relativa; se tomará en cuenta para las asignaciones, el orden que tuviesen los candidatos en las listas correspondientes.
+b).- Los Partidos Políticos tendrán derecho a postular Candidatos por el Principio de Representación Proporcional, siempre y cuando hayan registrado Candidatos por lo menos en ocho Distritos Electorales Uninominales.
 
-La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación.
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
-> <small>(REFORMADA, B.O. 10 DE JULIO DE 1978)</small>
+c).- Para que un Partido Político tenga derecho a que les sean acreditados de entre sus Candidatos, Diputados de Representación Proporcional, deberá alcanzar por lo menos el tres por ciento del total de las votaciones emitidas en el Estado para todas las listas y siempre que no haya logrado más de una Diputación de Mayoría Relativa; se tomarán en cuenta para las asignaciones, el orden que tuviesen los Candidatos en las listas correspondientes.
 
-III.- Si un partido político logra mayoría relativa en la elección directa, en uno o más Distritos Electorales mediante el sistema electoral uninominal, no tendrá derecho a diputado de representación proporcional.
+La Ley determinará las fórmulas electorales y los procedimientos que se observen en dicha asignación.
+
+> <small>(REFORMADA, B.O. 31 DE OCTUBRE DE 1989)</small>
+
+III.- El Partido Político que logre mayoría relativa en la elección directa, en dos o más Distritos Electorales, mediante el Sistema Electoral Uninominal, no tendrá derecho a que se les asigne Diputado por el Principio de Representación Proporcional.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
 
 42.- Los diputados de mayoría relativa y de representación proporcional, son representantes del pueblo sudcaliforniano, tienen la misma categoría e igualdad de derechos y obligaciones. Por cada diputado propietario se elegirá un suplente y la elección será por fórmula.
 
-> <small>(REFORMADO, B.O. 10 DE JULIO DE 1978)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
-43.- El Congreso del Estado que se instale cada tres años en los términos de la Ley Electoral del Estado, calificará las elecciones de sus miembros y la de Gobernador, en su caso, resolverá las dudas que hubiere sobre ellas.
+43.- La Diputación Permanente del Congreso del Estado, convocará a Período Extraordinario de Sesiones, para que en los términos de la Ley Electoral del Estado, proceda a calificar las elecciones de los Diputados Locales que habrán de constituir la siguiente Legislatura.
 
-Asimismo se constituirá en Colegio Electoral, compuesto de cinco presuntos diputados de mayoría relativa, de acuerdo con las constancias que registre la Comisión Estatal Electoral que hayan obtenido el mayor número de votos en su Distrito y un presunto diputado de representación proporcional del partido que haya obtenido el porcentaje más alto de votación en la Entidad. El Colegio Electoral efectuará las Juntas Preparatorias para el examen y calificación de sus respectivas elecciones.
-
-Ambas resoluciones serán definitivas e inapelables.
+Por lo que hace a las elecciones de Gobernador y Ayuntamientos, el Congreso del Estado que se instale cada tres años, habrá de constituirse en Colegio Electoral, en los términos de la Ley Electoral del Estado para su calificación y en su momento la Comisión respectiva emitirá el dictamen que corresponda.
 
 44.- Para ser diputado al Congreso del Estado se requiere:
 
@@ -1147,29 +1149,13 @@ CONCEPTO E INTEGRACION
 
 134.- El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1986)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
-135.- Los Ayuntamientos se integrarán con un Presidente, un Síndico y ocho Regidores electos por sufragio universal directo, libre y secreto, mediante el sistema de mayoría relativa y hasta con un Regidor electo por el sistema de representación proporcional.
+135.- Los Ayuntamientos se integrarán por un Presidente, un Síndico y diez Regidores electos por sufragio universal directo libre y secreto, mediante el sistema de mayoría relativa y hasta con dos Regidores electos por el Principio de Representación Proporcional, con las siguientes excepciones: el Ayuntamiento de Comondú, que se integrará con un Presidente, un Síndico y doce Regidores electos por el Sistema de Mayoría Relativa y hasta con tres Regidores electos por el Principio de Representación Proporcional y el Ayuntamiento de la Capital del Estado que se integrará con un Presidente, un Síndico y catorce Regidores electos por el Sistema de Mayoría Relativa y hasta con cuatro por el Principio de Representación Proporcional, en los términos que señala la Ley Electoral del Estado, por cada miembro del Ayuntamiento, habrá un Suplente.
 
-En el caso de que los Municipios del Estado rebasen en su población total la cantidad de 50,000 habitantes, tendrán derecho a que se les asignen hasta dos Regidores más, electos por el sistema de mayoría relativa y uno más, electo por el principio de representación proporcional, con excepción del Ayuntamiento de la capital del Estado, el cual, por su elevada población, se integrará con un Presidente, un Síndico y doce Regidores electos por el sistema de mayoría relativa y hasta con tres Regidores electos por el principio de representación proporcional, en los términos que señala la Ley Electoral del Estado.
+La Ley Reglamentaria determinará los procedimientos que se observarán para las asignaciones que correspondan.
 
-Por cada miembro propietario del Ayuntamiento habrá un suplente.
-
-El partido político que alcance el mayor porcentaje de votación minoritaria, tendrá derecho a que se le adjudique el Regidor de representación proporcional en el Ayuntamiento respectivo, siempre y cuando satisfaga los siguientes requisitos:
-
-a).- Que hubieren registrado candidatos propietarios y suplentes en la elección Municipal respectiva.
-
-b).- Que no haya alcanzado el triunfo por mayoría relativa en la misma elección.
-
-c).- Que alcance, por lo menos, el cinco por ciento del total de la votación emitida en el Municipio correspondiente.
-
-En el Ayuntamiento de la capital del Estado, la primera asignación se hará en favor del partido que habiendo cumplido con los anteriores requisitos haya obtenido el mayor porcentaje de votación minoritaria.
-
-La segunda y tercera Regiduría se adjudicarán a aquellos partidos que habiendo reunido todos los requisitos señalados en esta misma disposición, hayan obtenido el segundo y tercer porcentaje de la votación minoritaria.
-
-La Ley Reglamentaria determinará los procedimientos que se observarán para dichas asignaciones.
-
-Los miembros de los Ayuntamientos durarán en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
+Los miembros de los Ayuntamientos duraran en su cargo tres años a partir de la fecha en que tomen posesión del mismo.
 
 136.- Ningún ciudadano puede excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo causa justificada calificada por el ayuntamiento.
 
@@ -1237,7 +1223,7 @@ IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de f
 
 V.- Mantener los servicios de seguridad pública y tránsito municipal.
 
-VI.- Establecer en el territorio del municipio, las delegaciones y subdelegaciones que sean necesarias;
+VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1247,7 +1233,7 @@ VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artí
 
 IX.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipa (sic);
 
-X.- Formular anualmente su proyecto de ley de ingresos, que será sometido a la aprobación del Congreso del Estado;
+X.- Formular anualmente su proyecto de ley de ingresos que será sometido a aprobación del Congreso del Estado;
 
 > <small>(REFORMADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -1441,9 +1427,9 @@ Todo cargo o empleo público de la entidad es incompatible con cualquier otro de
 
 ## TITULO UNDECIMO. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCION
 
-> <small>(REFORMADO, B.O. 25 DE ABRIL DE 1983)</small>
+> <small>(REFORMADO, B.O. 31 DE OCTUBRE DE 1989)</small>
 
-166.- Esta Constitución Política puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por cuatro Diputados o iniciadas por el Gobernador. el Tribunal Superior de Justicia o los Ayuntamientos. Estas Iniciativas se sujetarán a los trámites establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos los dos tercios del número total de Diputados que integran la Legislatura.
+166.- Esta Constitución Política puede ser adicionada o reformada. Las proposiciones que tengan este objeto, deberán estar suscritas por tres Diputados, Fracción Parlamentaria o iniciadas por el Gobernador, el Tribunal Superior de Justicia o los Ayuntamientos. Estas iniciativas se sujetarán a los términos establecidos para la expedición de las Leyes en los Artículos 57 al 63, pero requieren de la aprobación de cuando menos los dos tercios del número total de Diputados que integran la Legislatura.
 
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 
@@ -1677,7 +1663,7 @@ B.O. 16 DE DICIEMBRE DE 1983.
 
 ###### ARTICULO UNICO.
 
-EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL DÍA SIGUIENTE AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
+El presente Decreto entrará en vigor el siguiente día al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 B.O. 10 DE SEPTIEMBRE DE 1984.
 
@@ -1768,3 +1754,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO 2o.
 
 Los Diputados que se elijan para la VI Legislatura al Congreso del Estado, entrarán en funciones el día 15 de marzo de 1990, en virtud a las reformas al Artículo 50 de la Constitución Política del Estado de Baja California Sur, mediante Decreto No. 631 de fecha 19 de noviembre de 1987.
+
+B.O. 31 DE OCTUBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL SIGUIENTE DÍA AL DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR.
