@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-judicial-del-estado-de-san-luis-14868"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-12-25"
-last_updated: "2000-07-07"
+last_updated: "2002-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14868&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de San Luis Potosí, el miércoles 25 de diciembre de 1996.
 
@@ -167,7 +167,11 @@ XX. Aprobar el proyecto que formule su Presidente, sobre la relación de profesi
 
 XXI. Determinar el número, la ubicación y jurisdicción de las Salas Regionales de Primera Instancia del Tribunal Electoral, que se requerirán para cada proceso electoral; y
 
-XXII. Las demás que le confieren las Leyes.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE FEBRERO DE 2002)</small>
+
+XXII. Determinar el número de Juzgados Menores que deben existir en el Estado, así como aumentar o reducir el mismo conforme a las necesidades del servicio y acordar su competencia territorial. Tal determinación y acuerdo deben publicarse en el Periódico Oficial del Estado.
+
+XXIII. Las demás que le confieren las leyes.
 
 ### CAPITULO II. De la Presidencia del Supremo Tribunal de Justicia
 
@@ -615,9 +619,11 @@ Para ser Juez de Primera Instancia, se deben reunir los requisitos que señala l
 
 ### CAPITULO VII. De los Jueces Menores
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 63.
 
-En cada Municipio del Estado habrá cuando menos un Juez Menor.
+En la Entidad habrá el número de Juzgados Menores, que de conformidad con las necesidades del servicio, apruebe el Pleno del Supremo Tribunal de Justicia. En el acuerdo, que se publicará en el Periódico Oficial del Estado, el Pleno del Tribunal determinará la competencia territorial que corresponda a cada uno de ellos.
 
 ###### ARTICULO 64.
 
@@ -627,19 +633,37 @@ Para ser Juez Menor se requiere cumplir los requisitos que señala la Constituci
 
 Los Jueces Menores tendrán competencia mixta en cuanto a materia y por razón de territorio tendrán la del Municipio para el cual han sido nombrados.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 66.
 
 Los Jueces Menores conocerán:
 
-I. En materia civil, de negocios cuya cuantía no exceda de la suma equivalente a ciento ochenta y dos días de salario mínimo vigente en la zona económica de que se trate;
+I. En materia civil, de negocios cuya cuantía no exceda de la suma de setecientos treinta días de salario mínimo vigente en la zona económica de que se trate;
 
-II. En materia penal de los delitos cuya pena no exceda de dos años de prisión o estén sancionados alternativamente;
+II. De las diligencias de jurisdicción voluntaria que se promuevan en materia civil y familiar, salvo la adopción;
 
-III. A prevención, de los negocios civiles o de lo familiar que no sean de su competencia, en cuyo caso practicarán las diligencias urgentes remitiéndolas al Juzgado que corresponda;
+III. De las diligencias de conciliación en todo lo que corresponda al derecho familiar, así como de los despachos y requisitorias de asuntos civiles y familiares;
 
-IV. De igual manera a prevención, de los asuntos penales que no sean de su competencia, practicando las diligencias urgentes que soliciten las partes, debiendo resolver lo relativo a la situación jurídica del inculpado dentro del término constitucional y remitiendo a la mayor brevedad las actuaciones al Juzgado que corresponda; y
+IV. Del trámite y resolución de los divorcios por mutuo consentimiento;
 
-V. De los demás asuntos que les encomienden las leyes.
+V. A prevención de los negocios civiles o de lo familiar que no sean de su competencia, en cuyo caso practicarán las diligencias urgentes, remitiendo oportunamente las actuaciones al Juzgado que corresponda;
+
+VI. En materia penal de los delitos culposos y de aquellos cuya pena no exceda de cuatro años de prisión o estén sancionados con pena alternativa;
+
+VII. A prevención de los asuntos penales que no sean de su competencia, para cuyo efecto practicarán las diligencias urgentes que soliciten las partes, debiendo resolver lo relativo a la situación jurídica del inculpado dentro del término constitucional, remitiendo oportunamente las actuaciones al Juzgado competente, y
+
+VIII. Los demás asuntos que les encomienden las leyes o reglamentos.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2002)</small>
+
+###### ARTICULO 66 Bis.
+
+Corresponde a los Jueces Menores actuar como instancia conciliatoria, exclusivamente en el ámbito de su competencia, en los conflictos que surjan entre personas pertenecientes a comunidades con población mayoritariamente indígena, aplicando sus usos y costumbres, salvaguardando las garantías individuales que consagra la Constitución Política de los Estados Unidos Mexicanos, en las siguientes materias:
+
+I. Conciliar los conflictos en materia civil y familiar, y
+
+II. En materia penal, intervenir como conciliador, previo a la denuncia o querella, tratándose de delitos que se persigan a petición de parte ofendida y de aquellos en que los interesados decidan someterse a la conciliación, siempre y cuando no se trate de los que la ley califica como graves o se afecte sensiblemente a la sociedad.
 
 ###### ARTICULO 67.
 
@@ -1374,3 +1398,27 @@ LIC. FERNANDO SILVA NIETO.
 P.O. 7 DE JULIO DE 2000.
 
 UNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE FEBRERO DE 2002.
+
+PRIMERO. El artículo Primero del presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El artículo Segundo del presente Decreto, entrará en vigor a los cinco días naturales siguientes a la publicación del mismo en el Periódico Oficial del Estado.
+
+TERCERO. El Pleno del Supremo Tribunal de Justicia del Estado, con posterioridad a la entrada en vigor del artículo Segundo de este Decreto, deberá emitir los acuerdos y determinaciones necesarios para su cumplimiento.
+
+CUARTO. En tanto se reforman las leyes respectivas, los Jueces Menores aplicarán en materia de conciliación a que se refiere el artículo 66 Bis de este Decreto, las siguientes reglas:
+
+El procedimiento se regirá por los principios de oralidad, conciliación, inmediatez, sencillez y pronta resolución. Se iniciará con la comparecencia que se realice la parte interesada o bien, con la llegada de las actuaciones que remitan los Jueces Auxiliares.
+
+En ambos casos, el Juez Menor señalará fecha y hora para la celebración de la audiencia de conciliación a la que, previa citación, deberán comparecer las partes en conflicto, quienes verbalmente expondrán lo que a sus intereses convenga, levantándose un acta en la que se asentarán los pormenores del caso.
+
+El Juez Menor citará a la audiencia al Juez Auxiliar de la comunidad que corresponda a su jurisdicción, para que intervenga como intérprete y emita su opinión sobre el problema planteado; recibirá las pruebas que ofrezcan, procurando avenir a las partes con la finalidad de que concilien sus intereses contrapuestos.
+
+Si las partes llegan a un acuerdo el Juez pronunciará la resolución de manera clara y sencilla, la que tendrá la categoría de cosa juzgada.
+
+En caso de que las partes no acepten conciliar sus intereses, el Juez iniciará el procedimiento correspondiente cuando se trate de asuntos en materia civil y familiar.
+
+Las resoluciones de los Jueces Menores en asuntos de justicia indígena no admiten recurso alguno.
+
+QUINTO. Las relaciones laborales que en su caso se vean afectadas como consecuencia de este Decreto, se resolverán en los términos de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado y Municipios, vigente.
