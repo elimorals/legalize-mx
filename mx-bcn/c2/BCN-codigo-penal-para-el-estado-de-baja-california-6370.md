@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1995-08-04"
+last_updated: "1997-01-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ENERO DE 1997.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -2281,7 +2281,7 @@ Tipo y punibilidad.- Se impondrá de dos meses a dos años de prisión y hasta c
 
 Tipo y punibilidad.- Los ultrajes hechos al Congreso del Estado, a un Tribunal, a un cuerpo colegiado de la administración de justicia o a cualquier institución pública, se castigará con prisión de seis meses a dos años y hasta cien días multa.
 
-### CAPITULO IV. ULTRAJES A LA AUTORIDAD
+### CAPITULO IV. DELITOS COMETIDOS CONTRA FUNCIONARIOS PUBLICOS
 
 ###### Artículo 283.
 
@@ -2545,11 +2545,21 @@ Consumación de medios de apremio.- Cuando la Ley autorice el empleo de medios d
 
 Tipo y punibilidad.- Al que indebidamente destruya, retire, o de cualquier otro modo, quebrante los sellos puestos por orden legítima de la autoridad pública competente, se le impondrá prisión de tres meses a dos años y de veinte a sesenta días multa.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1997)</small>
+
 ###### Artículo 317.
 
 Tipo y punibilidad.- Al que de palabra o de obra ultraje a una autoridad en el ejercicio de sus funciones o con motivo de ellas, se le impondrá prisión de seis meses a tres años y hasta cien días multa; además de la que le corresponda por el delito cometido.
 
 Para los efectos de esta disposición, se entiende por ultraje toda acción o expresión ejecutada con el ánimo de denigrar u ofender a algún funcionario o agente de la autoridad.
+
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1997)</small>
+
+###### Artículo 317
+
+BIS.- Delitos cometidos contra funcionarios públicos o agentes de seguridad pública.- Al que cometa un delito en contra de un funcionario público o agente activo de los cuerpos de seguridad pública de los Municipios, del Estado o de la Federación, en el acto de ejercer sus funciones o con motivo de ellas se le impondrá prisión de cinco a diez años, además de la que le corresponda por el delito cometido.
+
+Esta disposición no surtirá efectos en los casos de delitos no graves por culpa o imprudenciales.
 
 ###### Artículo 318.
 
@@ -3096,3 +3106,7 @@ P.O. 4 DE AGOSTO DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 3 DE ENERO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Baja California.
