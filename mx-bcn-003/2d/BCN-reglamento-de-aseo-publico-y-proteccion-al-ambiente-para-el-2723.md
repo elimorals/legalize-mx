@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-aseo-publico-y-proteccion-al-ambiente-para-el-272
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-03-10"
-last_updated: "1992-03-10"
+last_updated: "1994-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO DE ASEO PUBLICO Y PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE TECATE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE FEBRERO DE 1994.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el martes 10 de marzo de 1992.
 
@@ -32,7 +32,7 @@ REGLAMENTO DE ASEO PUBLICO Y PROTECCION AL AMBIENTE PARA EL MUNICIPIO DE TECATE.
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-###### ARTICULO I.
+###### ARTICULO 1.
 
 Las disposiciones que contiene este reglamento son de orden público y de observancia general, regirán en el municipio de Tecate, B.C., y tienen como objeto establecer las bases para:
 
@@ -244,9 +244,11 @@ Los fraccionamientos que no hayan sido formalmente recibidos por el Ayuntamiento
 
 ### CAPITULO VII. RECOLECCION DE RESIDUOS SOLIDOS NO DOMESTICOS
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 1994)</small>
+
 ###### ARTICULO 31.
 
-Todo residuo sólido no doméstico que produzcan industrias, talleres, comercios, restaurantes, negocios de servicio público, oficinas de espectáculos o similares cuyos desechos excedan de 25 kilógramos, serán transportados por los titulares de esos giros a los sitios que les fije el Ayunta miento, para tal efecto o en su caso puedan hacer uso del servicio especial del departamento de aseo, cubriendo la cuota que corresponda conforme a la Ley de Ingresos Vigente.
+Todo residuo sólido no doméstico que resulte de las actividades comerciales, industriales y de servicio, de las instituciones de servicio público, centros de espectáculos y similares, cuyos desechos excedan de 25 kilógramos a la semana, así como los de todas las actividades que se desarrollen en la vía pública, deberán ser transportados por los responsables de estos giros, a los sitios que les fije el Ayuntamiento y deberán obtener el recibo correspondiente, o en su caso deberán hacer uso del servicio especial del Departamento de Aseo, cubriendo la cuota que establece el tabulador correspondiente, conforme a la ley de Ingresos vigente.
 
 ###### ARTICULO 32.
 
@@ -264,6 +266,10 @@ V. Cuando se trate del transporte de residuos peligrosos incompatibles o potenci
 
 V1. Contar con la autorización previa de la SEDUE.
 
+CAPITULO V111
+
+LA RECOLECCION DE RESIDUOS SOLIDOS EN HOSPITALES, CLINICAS, LABORATORIOS, CENTROS DE INVESTIGACION Y SIMILARES
+
 ###### ARTICULO 33.
 
 Los propietarios o responsables de clínicas, hospitales, laboratorios de análisis clínicos o similares, deberán incinerar o esterilizar, en el lugar, sus residuos de naturaleza peligrosa mediante el equipo o instalaciones autorizados por la SEDUE o el Municipio.
@@ -276,7 +282,7 @@ Los residuos sólidos provenientes de hospitales, clínicas, laboratorios de an�
 
 El transporte de estos desechos sólidos se cobrará de acuerdo a lo señalado por la Ley de Ingresos del Municipio.
 
-### CAPITULO VIII. LA RECOLECCION DE RESIDUOS SOLIDOS EN HOSPITALES, CLINICAS, LABORATORIOS, CENTROS DE INVESTIGACION Y SIMILARES
+### CAPITULO IX. TRATAMIENTO Y DISPOSICION FINAL DE LOS RESIDUOS DOMICILIARIOS INDUSTRIALES Y COMERCIALES
 
 ###### ARTICULO 36.
 
@@ -342,7 +348,7 @@ El Ayuntamiento intervendrá en la elección del sitio designado para los rellen
 
 La posterior utilización de un relleno sanitario o de un relleno sanitario para desechos industriales no peligrosos, una vez terminada su vida útil como tales, quedará determinada como “Zona Restringuida” (sic), hasta que la SEDUE en coordinación con el Ayuntamiento aprueben su destino.
 
-### CAPITULO IX. TRATAMIENTO Y DISPOSICION FINAL DE LOS RESIDUOS DOMICILIARIOS INDUSTRIALES Y COMERCIALES
+### CAPITULO X. LA BOLSA DE RESIDUOS INDUSTRIALES
 
 ###### ARTICULO 48.
 
@@ -368,7 +374,11 @@ Los envíos de los residuos mencionados podrán hacerse directamente del product
 
 Cualquier envío de residuos señalados con anterioridad deberá ser autorizado por el departamento de limpia pública quien se encargará de hacer los estudios necesarios para evitar contaminación, o la creación de focos infecciosos, se tomará en cuenta también lo establecido por las autoridades de la materia.
 
-### CAPITULO X. LA BOLSA DE RESIDUOS INDUSTRIALES
+### CAPITULO XI. RESIDUOS PELIGROSOS Y POTENCIALMENTE PELIGROSOS
+
+ARTICULO 55 (SIC).- Quienes generen residuos peligrosos serán responsables del manejo, tratamiento y disposición final que se dé a los mismos.
+
+Serán solidariamente responsables con aquellos, las empresas contratadas para tales fines, hasta en tanto los residuos no hubiesen sido destruidos, tratados o correctamente dispuestos en un confinamiento controlado.
 
 ###### ARTICULO 56.
 
@@ -608,11 +618,7 @@ El objeto del padrón antes señalado, es poder establecer planes de acción y m
 
 Se prohibe estrictamente la descarga, depósito o infiltración dentro del territorio del municipio, de cualquier desecho peligroso o potencialmente peligroso, sin previa autorización de la SEDUE y del Ayuntamiento.
 
-### CAPITULO XI. RESIDUOS PELIGROSOS Y POTENCIALMENTE PELIGROSOS
-
-ARTICULO 55 (SIC).- Quienes generen residuos peligrosos serán responsables del manejo, tratamiento y disposición final que se dé a los mismos.
-
-Serán solidariamente responsables con aquellos, las empresas contratadas para tales fines, hasta en tanto los residuos no hubiesen sido destruidos, tratados o correctamente dispuestos en un confinamiento controlado.
+### CAPITULO XII. RESIDUOS ESPECIFICOS
 
 ###### ARTICULO 86.
 
@@ -644,7 +650,7 @@ Los lodos y polvos generados en los sistemas de tratamiento anticontaminantes, a
 
 Solo se podrá disponer de los residuos sólidos industriales que no se consideren como peligrosos o potencialmente peligrosos por el método de relleno sanitario, ya sea por separado o conjuntamente con los residuos sólidos municipales, siempre y cuando exista la autorización previa del Ayuntamiento y en su caso de las autoridades competentes.
 
-### CAPITULO XII. RESIDUOS ESPECIFICOS
+### CAPITULO XIII. OBLIGACIONES Y PARTICIPACIONES CIUDADANAS
 
 ###### ARTICULO 90.
 
@@ -792,7 +798,7 @@ Queda estrictamente prohibido el depósito de cualquier tipo de escombros produc
 
 Todos los desechos de las empresas que trabajen mármol y materiales similares, deberán ser depositados en los rellenos sanitarios autorizados. Dichos desechos o residuos deberán ser previamente triturados.
 
-### CAPITULO XIII. OBLIGACIONES Y PARTICIPACIONES CIUDADANAS
+### CAPITULO XIV. FOMENTO Y PRESERVACION DE AREAS VERDES
 
 ###### ARTICULO 110.
 
@@ -814,7 +820,7 @@ Queda prohibido realizar actos que atenten contra la preservación de las áreas
 
 Las personas físicas o morales que por alguna circunstancia requieran talar árboles de su propiedad; deberán solicitar autorización al Presidente Municipal, quien únicamente podrá otorgar el permiso correspondiente, porque resulte necesario.
 
-### CAPITULO XIV. FOMENTO Y PRESERVACION DE AREAS VERDES
+### CAPITULO XV. INSPECCION Y VIGILANCIA
 
 ###### ARTICULO 115.
 
@@ -878,13 +884,13 @@ Cuando se trata de segunda o posterior inspección para verificar el cumplimient
 
 En los casos que proceda, la autoridad municipal hará del conocimiento del ministerio público la realización de actos u omisiones constatados que pudieran configurar uno o más delitos; así como podrá dar a conocer a las autoridades competentes las irregularidades encontradas durante la inspección que sean de otras competencias.
 
-### CAPITULO XV. INSPECCION Y VIGILANCIA
+### CAPITULO XVI. MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 124.
 
 Cuando exista riesgo inminente de desequilibrio ecológico o casos de contaminación con repercuciones (sic) peligrosas para los ecosistemas, sus componentes, o la salud pública, el municipio como medida de seguridad, podrá ordenar el decomiso de materiales o sustancias contaminantes, la clausura temporal o definitiva, parcial o total, de las fuentes contaminantes correspondientes, y promover la ejecución ante las autoridades competentes, en los términos de las leyes y ordenamientos relativos de alguna o algunas de las medidas de seguridad que en dichos ordenamientos se establecen.
 
-### CAPITULO XVI. MEDIDAS DE SEGURIDAD
+### CAPITULO XVII. SANCIONES
 
 ###### ARTICULO 125.
 
@@ -1142,13 +1148,13 @@ Es obligación del concesionario, sujetarse estrictamente a este reglamento en s
 
 El apoderamiento hecho por cualquier persona de los residuos y elementos a que se refiere el artículo 7 de este reglamento será sancionado, independiente mente de la pena que le corresponda conforme a la Ley por el delito de robo con una multa de hasta 30 días de salario mínimo vigente, el día del hecho que genere la sanción.
 
-### CAPITULO XVII. SANCIONES
+### CAPITULO XVIII. RECURSOS
 
 ###### ARTICULO 135.
 
 Las resoluciones dictadas con motivo de la aplicación y disposiciones que de este emanen, podrán ser recurridas por los interesados en los términos y formas que determinan el Título Noveno de la Ley Orgánica de la Administración Pública Municipal.
 
-### CAPITULO XVIII. RECURSOS
+### CAPITULO XIX. DE LOS DELITOS
 
 ###### ARTICULO 136.
 
@@ -1165,8 +1171,6 @@ Si las infracciones de cualquiera de las disposiciones contenidas en este reglam
 Las penas y sanciones que se apliquen a quien o quienes cometan un delito, se aplicarán de acuerdo a lo estipulado en la Ley General del Equilibrio Ecológico y Protección al Ambiente, en lo que se refiere al monto de las multas y al tiempo de las penas que deban cumplirse.
 
 ### CAPITULO XX. DENUNCIA POPULAR
-
-### CAPITULO XIX. DE LOS DELITOS
 
 ###### ARTICULO 139.
 
@@ -1211,3 +1215,9 @@ EL C. SRIO. GRAL. DEL AYUNTAMIENTO.
 C. ROBERTO CASTILLO CHAVARIN.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 18 DE FEBRERO DE 1994.
+
+La presente Reforma al Reglamento de Aseo Público y Protección al Ambiente, entrará en vigor al siguiente día de su publicación.
