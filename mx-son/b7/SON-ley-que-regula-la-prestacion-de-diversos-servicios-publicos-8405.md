@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-prestacion-de-diversos-servicios-publicos-840
 country: "mx"
 rank: "ley"
 publication_date: "1987-08-17"
-last_updated: "1996-12-30"
+last_updated: "2001-10-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE REGULA LA PRESTACION DE DIVERSOS SERVICIOS PUBLICOS MUNICIPALES
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE DICIEMBRE DE 1996.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE GOBIERNO Y ADMINISTRACION MUNICIPAL, PUBLICADA EN EL BOLETIN OFICIAL EL 15 DE OCTUBRE DE 2001.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Segunda del Boletín Oficial del Estado de Sonora, el lunes 17 de agosto de 1987.
 
@@ -1012,3 +1014,53 @@ La presente Ley entrará en vigor al día siguiente de su publicación en el Bol
 ###### ARTICULO SEGUNDO.
 
 Para que los particulares que hayan sido legalmente autorizados para instalar rastros con anterioridad a la entrada en vigor de la presente ley, puedan seguir prestando dicho servicio público en los términos de este ordenamiento, deberán acudir ante la autoridad municipal respectiva a realizar el trámite correspondiente, dentro de un plazo de 90 días a partir de la vigencia de la presente ley, a efecto de que se les otorgue el derecho de concesión respectivo o llegar a un convenio de concertación, en su caso, siempre y cuando cumplan con todos los requisitos que establece esta ley y demás disposiciones aplicables en la materia.
+
+B.O. 15 DE OCTUBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a los treinta días siguientes al día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+A la entrada en vigor de esta Ley, se abroga la Ley Orgánica de Administración Municipal, publicada en el Boletín Oficial del Gobierno del Estado el 2 de febrero de 1984 y la Ley que regula la Prestación de Servicios Públicos Municipales, publicada en el Boletín Oficial del Gobierno del Estado el 17 de agosto de 1987.
+
+###### ARTICULO TERCERO.
+
+Se derogan, asimismo, todas las disposiciones y ordenamientos legales que se opongan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Se concede a los Ayuntamientos del Estado un plazo de un año, contado a partir de la entrada en vigor de la presente Ley, para que reformen y en su caso formulen, aprueben y publiquen los reglamentos que deriven de la misma, asegurando la participación ciudadana. Mientras tanto, seguirán vigentes los actuales en lo que no se opongan a este ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Los municipios que no cuenten con Bando de Policía y Gobierno o con los reglamentos correspondientes, en tanto sus ayuntamientos los expidan, deberán tomar el acuerdo a que se refiere el artículo 349 de la presente Ley, el cual deberá ser publicado en el Boletín Oficial del Gobierno del Estado en un plazo no mayor de seis meses contados a partir de la entrada en vigor de esta Ley.
+
+###### ARTICULO SEXTO.
+
+Los trámites que se estén llevando a cabo en las instancias correspondientes relacionados con los bienes inmuebles propiedad del Municipio, que estuvieren pendientes de resolverse hasta antes de la entrada en vigor de la presente Ley, se continuarán hasta su terminación, conforme al contenido de las disposiciones anteriores que se abrogan; pudiendo, por acuerdo del Ayuntamiento respectivo, desistirse del procedimiento iniciado, para someterse a las nuevas disposiciones que esta Ley establece.
+
+###### ARTICULO SEPTIMO.
+
+Antes del inicio del ejercicio fiscal de 2002, el Congreso del Estado -en coordinación con los municipios respectivos- adoptarán las medidas conducentes a fin de que los valores unitarios de suelo que sirven de base para el cobro de las contribuciones sobre la propiedad inmobiliaria sean equiparables a los valores de mercado de dicha propiedad y procederán, en su caso, a realizar las adecuaciones correspondientes a las tasas aplicables para el cobro de las mencionadas contribuciones, a fin de garantizar su apego a los principios de proporcionalidad y equidad.
+
+###### ARTICULO OCTAVO.
+
+Los convenios celebrados entre el Estado y los municipios con anterioridad a la presente Ley, se ajustarán a lo establecido en la misma.
+
+###### ARTICULO NOVENO.
+
+En la realización de las acciones conducentes al cumplimiento de la presente Ley, se respetarán en todo momento los derechos y obligaciones contraídos previamente con terceros, así como los derechos de los trabajadores estatales y municipales.
+
+###### ARTICULO DECIMO.
+
+En un plazo no mayor a un año, contado a partir de que entre en vigor la presente Ley, el Congreso del Estado deberá emitir el ordenamiento legal correspondiente, donde se establecerán las bases de organización, funcionamiento, desarrollo, control y evaluación del servicio profesional de carrera para los servidores públicos de la administración municipal.
+
+###### ARTICULO DECIMO PRIMERO.
+
+En todos los procedimientos administrativos que se encuentren en trámite ante las autoridades municipales, el interesado podrá optar por su continuación conforme al procedimiento vigente durante su iniciación o por la aplicación de esta Ley.
+
+###### ARTICULO DECIMO SEGUNDO.
+
+Los recursos administrativos interpuestos por particulares con fundamento en la Ley Orgánica de Administración Municipal y que se encuentren en trámite a la entrada en vigor de la presente Ley, se tramitarán y resolverán de conformidad con la ley vigente al momento de su presentación.
