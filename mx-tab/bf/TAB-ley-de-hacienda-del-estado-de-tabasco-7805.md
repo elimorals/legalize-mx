@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-7805"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-30"
-last_updated: "1999-12-29"
+last_updated: "2000-04-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 30 de diciembre de 1992.
 
@@ -581,7 +581,7 @@ V. Los sujetos obligados al pago del impuesto con responsabilidad directa o soli
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+#### SECCION CUARTA. DE LAS EXENCIONES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -599,9 +599,9 @@ IV. Conservar a disposición de las autoridades fiscales y exhibir cuando se les
 
 V. Cuando los sujetos realicen eventos en varios establecimientos, acumularán la información de todos ellos en la declaración que corresponda a su domicilio fiscal en el Estado.
 
-> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
-#### SECCION CUARTA. DE LAS EXENCIONES
+#### SECCION TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
@@ -613,7 +613,7 @@ No obstante lo anterior, estas instituciones deberán cumplir con la obligación
 
 En ningún caso, se entenderán exentos del pago del impuesto los ingresos o premios obtenidos.
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1998)</small>
+> <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 28 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO SEXTO. DEL IMPUESTO POR LA PRESTACION DE SERVICIO DE HOSPEDAJE
 
@@ -727,7 +727,9 @@ III. Por la autorización de libros para el protocolo de los notarios 10.0 D.S.G
 
 IV. Por el registro de sello y firma que utiliza el notario público 9.0 D.S.M.G.V.
 
-V. Por la legalización de exhortos 3.0 D.S.M.G.V.
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+V. Por la legalización de exhortos provenientes de autoridad administrativa 3 D.S.M.G.V.
 
 #### SECCION SEGUNDA
 
@@ -740,6 +742,14 @@ I. Por las anotaciones de resoluciones judiciales y administrativas 3.0 D.S.M.G.
 II. Por el registro de nacimiento extemporáneo por mandato judicial 3.0 D.S.M.G.V.
 
 III. Por reconocimiento de hijos 3.0 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+IV. Por la expedición de constancia positiva o negativa de registro de nacimiento 1 D.S.M.G.V.
+
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+V. Por certificación de actas de nacimiento 1 D.S.M.G.V.
 
 #### SECCION TERCERA
 
@@ -1273,6 +1283,10 @@ III. La legalización de firmas en los documentos de traslado de dominio de bien
 
 IV. Por la ratificación de firmas ante cualquier autoridad administrativa o judicial 3.0 D.S.M.G.V.
 
+> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2000)</small>
+
+V. Por la legalización de exhortos judiciales efectuada por la autoridad competente 3 D.S.M.G.V.
+
 ###### Artículo 58.
 
 Toda solicitud que se realice para los efectos de lo establecido en este capítulo, deberá ir acompañada del recibo oficial correspondiente, donde conste que se ha cubierto el derecho respectivo.
@@ -1281,13 +1295,25 @@ Toda solicitud que se realice para los efectos de lo establecido en este capítu
 
 No causan los derechos a los que se refiere este título:
 
-I. La legalización de firmas y la expedición de certificados y certificaciones en los procesos penales y laborales que lleven a cabo los tribunales correspondientes;
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2000)</small>
 
-II. Los certificados o copias certificadas de documentos pertenecientes a personas de escasos recursos a juicio del servidor público;
+I. La legalización de firmas y la expedición de certificaciones en los procesos penales y laborales que lleven a cabo los tribunales correspondientes; así como la legalización de exhortos relativos a pensión alimenticia, guarda y custodia del menor.
+
+II. (DEROGADA, P.O. 1 DE ABRIL DE 2000)
 
 III. Los derechos de registros, la legalización de firmas, expedición de certificados y certificaciones solicitadas por las dependencias de la Federación, del Estado y de los Municipios, para asuntos oficiales de su competencia, siempre que la solicitud no implique relevo de la obligación a cargo de un particular para exhibir el documento respectivo;
 
 IV. Las certificaciones o copias certificadas que expidan el Registro Público de la Propiedad y del Comercio; a solicitud de las autoridades judiciales para que obren en causas penales o para acreditar la solvencia de fiadores que propongan los procesados o sentenciados, pero en el segundo caso sólo se expedirán gratuitamente cuando los interesados, de manera notoria, carezcan de recursos económicos.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2000)</small>
+
+###### Artículo 59
+
+Bis.- La Secretaría de Planeación y Finanzas a solicitud de la dependencia o entidad que preste el servicio de que se trate, podrá exentar o en su caso reducir el pago de los siguientes derechos:
+
+I.- El pago a que se refiere el artículo 44, fracciones II, IV y V, con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado.
+
+II.- El pago por legalización de documentación a que se refiere la fracción II del artículo 57 que expidan instituciones del Sistema Educativo Estatal.
 
 ### CAPITULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA DIRECCION DE SEGURIDAD PUBLICA
 
@@ -1462,3 +1488,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 1 DE ABRIL DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente del de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Se autoriza al Titular del Poder Ejecutivo del Estado de Tabasco para que a través de las dependencias con atribuciones legales, se coordinen en la debida cumplimentación de las prevenciones materia de este Decreto.
