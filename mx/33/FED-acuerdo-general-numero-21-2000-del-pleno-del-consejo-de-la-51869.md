@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-21-2000-del-pleno-del-consejo-de-la-5186
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-03-29"
-last_updated: "2000-03-29"
+last_updated: "2003-04-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51869&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2000-03-15"
 
 ACUERDO GENERAL NUMERO 21/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE MODIFICA EN SU PARTE CONDUCENTE LOS TITULOS PRIMERO Y SEGUNDO DEL ACUERDO GENERAL NUMERO 48/1998, CON EL OBJETO DE CAMBIAR LA DENOMINACION DE LA DIRECCION GENERAL DE AUDITORIA INTERNA, ASI COMO LA DE OPERACION Y DIAGNOSTICO ADMINISTRATIVO POR LAS DE DIRECCION GENERAL DE AUDITORIA FINANCIERA Y DIRECCION GENERAL DE AUDITORIA OPERACIONAL RESPECTIVAMENTE
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DEL ACUERDO GENERAL 17/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 14 DE ABRIL DE 2003, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 29 de marzo del 2000.
 
@@ -114,3 +116,17 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 21/2000, que modifica en su parte conducente los Títulos Primero y Segundo del Acuerdo General 48/1998, con el objeto de cambiar la denominación de la Dirección General de Auditoria Interna, así como la de Operación y Diagnóstico Administrativo por las de Dirección General de Auditoria Financiera y Dirección General de Auditoria Operacional, respectivamente, fue aprobado por el Pleno del Consejo de la Judicatura Federal, en sesión de quince de marzo de dos mil, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, Enrique Sánchez Bringas, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a dieciséis de marzo de dos mil.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ACUERDO.</small>
+
+D.O.F. 14 DE ABRIL DE 2003.
+
+PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+TERCERO.- El Contralor del Poder Judicial de la Federación proveerá lo necesario para dar cumplimiento al presente acuerdo.
+
+CUARTO.- La Secretaría Ejecutiva de Finanzas deberá actualizar los manuales, catálogos de puestos y demás instrumentos relativos, con el objeto de que estén acordes con las modificaciones a que se refiere este ordenamiento, en un término de dos meses a partir de la aprobación del presente acuerdo.
+
+QUINTO.- Se abroga el Acuerdo General 21/2000, del Pleno del Consejo de la Judicatura Federal, que modifica en su parte conducente los títulos primero y segundo del Acuerdo General 48/1998, con el objeto de cambiar la denominación de la Dirección General de Auditoría Interna, así como la de Operación y Diagnóstico Administrativo por las de Dirección General de Auditoría Financiera y Dirección General de Auditoría Operacional, respectivamente.
