@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transporte-para-el-estado-de-nuevo-leon-18552"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-25"
-last_updated: "2002-12-11"
+last_updated: "2003-09-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18552&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de octubre de 2000.
 
@@ -305,9 +305,11 @@ El Plan Sectorial de Transporte y Vialidad, debe contener los elementos básicos
 
 La Secretaría promoverá el otorgamiento de estímulos e incentivos a los transportistas y a los conductores que sobresalgan en la prestación del servicio público de transporte con altos índices de calidad y eficiencia.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 15.
 
-Las placas de circulación expedidas por la autoridad competente, a fin de que se brinde el servicio público de transporte, son consecuencia de la concesión otorgado en los términos de la presente Ley, por lo cual son indispensables e intransmisibles, excepto cuando se autorice la cesión de los derechos adquiridos por los prestadores del servicio, en los casos de muerte, invalidez o cesantía, previo permiso de la Secretaría, conforme a las normas que la misma determine salvaguardando el interés de la comunidad.
+Las placas de circulación expedidas por la Autoridad competente, a fin de que se brinde el Servicio Público del Transporte, son consecuencia de la concesión otorgada en los términos de la presente Ley, por lo cual son indispensables e intransferibles excepto en los vehículos de alquiler y cuando se autorice la cesión de derechos adquiridos por los prestadores del servicio; en los casos de muerte, invalidez o cesantía, previo permiso de la Secretaría, conforme a las normas que la misma determine salvaguardando el interés de la comunidad.
 
 ###### Artículo 16.
 
@@ -409,7 +411,9 @@ IV. Servicio de transporte sobre rieles: Aquel que se presta en cualquier tipo d
 
 V. Servicio de transporte especializado: Aquel que se presta a grupos mayores de cinco personas que cuentan con un destino común específico, que puede estar relacionado con fines laborales, educativos, turísticos o aquéllos que al efecto se autoricen. Dicho servicio podrá o no estar sujeto a itinerario, tarifa y horario determinado, debiendo observar las condiciones establecidas en la concesión correspondiente y demás disposiciones aplicables;
 
-VI. Servicio de vehículos de alquiler: Aquel que se presta a personas, en vehículos cerrados, con tarifa y taxímetro autorizado, sin itinerario fijo y podrá tener o no torreta. Los vehículos que se pretendan destinar a la prestación de este servicio, deberán tener una capacidad hasta de cinco pasajeros y de modelo con antigüedad no mayor de cinco años a la fecha en que se solicite la autorización.
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+VI. Servicio de vehículos de Alquiler: Aquel que se preste a personas, en vehículos cerrados, con tarifa y taxímetro autorizado sin itinerario fijo y podrá tener o no torreta. Los vehículos que se pretendan destinar a la prestación de este servicio, deberán tener una capacidad de hasta de cinco pasajeros y de modelo con antigüedad no mayor de ocho años a la fecha en que se solicite la autorización.
 
 ###### Artículo 24.
 
@@ -423,9 +427,9 @@ III. Regional: Quince años;
 
 IV. Especializado: Veinte años;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
 
-V. De Alquiler: Siete años.
+V. De alquiler: Ocho años.
 
 Estos plazos podrán variar en función de que los vehículos tengan longitud mayor a trece metros y que incluyan una mayor comodidad y seguridad para los pasajeros, según se indique en el Reglamento respectivo.
 
@@ -537,6 +541,10 @@ VI. Cumplido lo anterior, se procederá al otorgamiento de la concesión y se cu
 
 VII. La resolución que contenga la concesión correspondiente, se notificará al interesado en los términos del Código de Procedimientos Civiles vigente en el Estado, y se procederá a su publicación en el Periódico Oficial del Estado y a costa del interesado, en uno de los diarios de mayor circulación en la entidad.
 
+> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+El requisito previsto en la fracción IV del presente Artículo no será aplicable a las concesiones para transporte de alquiler.
+
 ###### Artículo 40.
 
 La concesión regula y ampara las condiciones del servicio, así como los vehículos e instalaciones que se determinen en dicha autorización, los cuales no podrán ser modificados si no cuentan con la aprobación del Titular del Ejecutivo, sujetándose además al resto de lineamientos técnicos que se expidan de acuerdo con la naturaleza del servicio.
@@ -579,6 +587,8 @@ Las personas físicas o morales interesadas en obtener las concesiones deberán 
 
 I. Presentar solicitud por escrito a la Secretaría, acompañada de garantía de seriedad que en ningún caso excederá del equivalente a cien cuotas;
 
+En caso de Persona Moral deberá de acompañar garantía de seriedad por un monto que no excederá de 100-cien cuotas.
+
 II. Acreditar su personalidad;
 
 III. Pagar los derechos correspondientes; y
@@ -591,7 +601,9 @@ Las concesiones que otorgue la Secretaría señalarán con precisión el tiempo 
 
 a) En el transporte especializado y de carga, la duración de la concesión será hasta de diez años; y
 
-b) Tratándose del transporte de alquiler, la concesión podrá ser hasta de cuatro años.
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 2003)</small>
+
+b) Tratándose de alquiler, la concesión podrá ser hasta de 06-seis años.
 
 Debiendo en ambos casos ser refrendado anualmente por la Secretaría, previo cumplimiento de los requisitos establecidos en el Reglamento y el pago de los derechos correspondientes.
 
@@ -1012,3 +1024,7 @@ Artículo Único.- El presente Decreto entrará en vigor noventa días posterior
 P.O. 11 DE DICIEMBRE DE 2002.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 19 DE SEPTIEMBRE DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
