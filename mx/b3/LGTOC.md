@@ -4,7 +4,7 @@ identifier: "LGTOC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1932-08-27"
-last_updated: "1932-08-27"
+last_updated: "1933-08-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2348&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGTOC"
 
 LEY GENERAL DE TITULOS Y OPERACIONES DE CREDITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE AGOSTO DE 1933.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 27 de agosto de 1932.
 
@@ -346,9 +346,11 @@ IV.- Prevendrá a los suscriptores del documento indicados por el reclamante, qu
 
 V.- Dispondrá, siempre que el reclamante lo pidiere, que el decreto y la orden de suspensión de que hablan las fracciones I y II se notifiquen a las Bolsas de Valores señaladas por aquél, con el fin de evitar la transferencia del documento.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 46.
 
-El pago hecho al detentador del título por cualquiera de los obligados, después de serle notificada la orden de suspensión, no libera al que lo hace, si queda firme el decreto de cancelación.
+El pago hecho al tenedor del título por cualquiera de los obligados, después de serle notificada la orden de suspensión, no libera al que lo hace, si queda firme el decreto de cancelación.
 
 ###### ARTICULO 47.
 
@@ -358,11 +360,17 @@ Se reputan con mejor derecho que el reclamante, los que adquirieron el documento
 
 Es aplicable al oponente lo dispuesto por los párrafos segundo, tercero, cuarto y quinto del artículo 43.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 48.
 
-La oposición del detentador del título debe substanciarse con citación del que pidió la cancelación, y de las personas mencionadas en la fracción III del artículo 45.
+La oposición del tenedor del título debe substanciarse con citación del que pidió la cancelación, y de las personas mencionadas en la fracción III del artículo 45.
 
-Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del Juzgado, y además asegure, con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
+Para que se dé entrada a la oposición, es necesario que el oponente deposite el documento a disposición del Juzgado, y además asegure con garantía real o personal satisfactoria, el resarcimiento de los daños y perjuicios que la oposición ocasione al que obtuvo el decreto de cancelación, para el caso de que aquélla no sea admitida.
+
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
 
 Oído dentro de tres días en traslado el reclamante, la oposición será recibida a prueba por un término que el Juez fijará atendiendo a las circunstancias del negocio, y que en ningún caso excederá de treinta días. El término para alegar será de cinco días para cada parte, y la resolución deberá dictarse dentro de diez días. Ninguno de esos términos puede suspenderse o prorrogarse.
 
@@ -374,27 +382,33 @@ Admitida la oposición en sentencia definitiva, quedarán de pleno derecho revoc
 
 Desechada la oposición, será el oponente quien pague las costas, daños y perjuicios ocasionados por ella al reclamante, y el Juez mandará que se entregue a éste el título depositado.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 51.
 
-La oposición de quien no tenga en su poder el título se substanciará en la misma forma que la del detentador, con la sola excepción de que no será necesario el depósito previo del documento para dar entrada a la demanda.
+La oposición de quien no tenga en su poder el título se substanciará en la misma forma que la del tenedor, con la sola excepción de que no será necesario el depósito previo del documento para dar entrada a la demanda.
 
-Si la oposición es admitida, se estará a lo dispuesto por el artículo 49. Si fuere desechada, quedarán firmes el decreto de cancelación y las órdenes de pago o de reposición previstos por las fracciones I y IV del artículo 45, siempre que no se haya opuesto también a la cancelación el detentador del título, depositándolo en los términos del artículo 48. En este último caso prevalecerá la resolución que recaiga sobre la oposición del detentador.
+Si la oposición es admitida, se estará a lo dispuesto por el artículo 49. Si fuere desechada, quedarán firmes el decreto de cancelación y las órdenes de pago o de reposición previstos por las fracciones I y IV del artículo 45, siempre que no se haya opuesto también a la cancelación el tenedor del título, depositándolo en los términos del artículo 48. En este último caso prevalecerá la resolución que recaiga sobre la oposición del tenedor.
 
 Las oposiciones que por separado se formulen contra la cancelación del título extraviado o robado deben acumularse, y fallarse en una misma sentencia.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 52.
 
 El que sin haber firmado el título sea designado en la demanda de cancelación como signatario, debe expresar su inconformidad ante el Juez que conoce de aquélla, dentro de los treinta días que sigan al de la notificación ordenada por la fracción III del artículo 45. Otro tanto hará el que haya suscrito el documento en una calidad diversa de la que en dicha demanda se le atribuya.
 
-Si el interesado no manifiesta su inconformidad en el plazo que antecede, se presumirá, salvo prueba en contrario, que es cierto lo que afirma el demandante. Contra esa presunción no se le recibirá prueba alguna sino en los procedimientos a que se refieren los artículos 54, 55 y 57, y deberá tenérsele como signatario, con la calidad indicada en la demanda, mientras no sea depositado el título por el detentador, en todo lo concerniente a los actos conservatorios previstos por los artículos 60 y 61.
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
 
-> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
+Si el interesado no manifiesta su inconformidad en el plazo que antecede, se presumirá, salvo prueba en contrario, que es cierto lo que afirma el demandante. Contra esa presunción no se le recibirá prueba alguna sino en los procedimientos a que se refieren los artículos 54, 55 y 57, y deberá tenérsele como signatario, con la calidad indicada en la demanda, mientras no sea depositado el título por el tenedor, en todo lo concerniente a los actos conservatorios previstos por los artículos 60 y 61.
+
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
 
 ###### ARTICULO 53.
 
-La cancelación del título extraviado o robado no libera a los signatarios de las prestaciones que el mismo les impone. Sólo extingue las acciones y derechos que respecto de éstas puedan incumbir al detentador del documento, desde que adquieran fuerza de definitivos el decreto de cancelación o la sentencia que desecha la oposición.
+La cancelación del título extraviado o robado no libera a los signatarios de las prestaciones que el mismo les impone. Sólo extingue las acciones y derechos que respecto de éstos puedan incumbir al tenedor del documento, desde que adquieran fuerza de definitivos el decreto de cancelación o la sentencia que deseche la oposición.
 
-Desde que la cancelación queda firme, por no haberse presentado ningún opositor, o por haberse desechado las oposiciones formuladas contra ella, el que la obtuvo puede reclamar a los signatarios del título el pago de éste, si fuere para entonces exigible, o que le extiendan un duplicado del mismo, si fuere de vencimiento posterior.
+Desde que la cancelación quede firme, por no haberse presentado ningún opositor, o por haberse desechado las oposiciones formuladas contra ella, el que la obtuvo puede reclamar a los signatarios del título el pago de éste, si fuere para entonces exigible, o que le extiendan un duplicado del mismo, si fuere de vencimiento posterior.
 
 ###### ARTICULO 54.
 
@@ -566,9 +580,11 @@ IV.- A día fijo.
 
 Las letras de cambio con otra clase de vencimientos, o con vencimientos sucesivos, se entenderán siempre pagaderas a la vista por la totalidad de la suma que expresen. También se considerará pagadera a la vista, la letra de cambio cuyo vencimiento no esté indicado en el documento.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 80.
 
-Una letra de cambio girada a uno o varios meses fecha o vista, vence el día correspondiente al de su otorgamiento del mes en que debe efectuarse el pago. Si éste no tuviere día correspondiente al del otorgamiento, la letra vencerá el último del mes.
+Una letra de cambio girada a uno o varios meses fecha o vista, vence el día correspondiente al de su otorgamiento o presentación del mes en que debe efectuarse el pago. Si éste no tuviere día correspondiente al del otorgamiento o presentación, la letra vencerá el último del mes.
 
 Si se fijare el vencimiento para "principios," "mediados" o "fines" de mes, se entenderán por estos términos los días primero, quince y último del mes que corresponda.
 
@@ -774,23 +790,31 @@ El pago hecho sobre uno de los ejemplares libera del pago de todos los otros; pe
 
 El endosante que hubiere endosado los ejemplares a personas diferentes, así como los endosantes posteriores, quedarán obligados por sus endosos como si constaren en letras distintas.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 119.
 
 La persona que haya remitido uno de los ejemplares para su aceptación, debe mencionar en los demás el nombre y domicilio de la persona en cuyo poder se encuentre aquél; la falta de esta indicación no invalida la letra.
 
-El detentador del ejemplar enviado a la aceptación, está autorizado y tiene además la obligación de presentarlo oportunamente y protestarlo en su caso; si al vencerse la letra no le hubiere sido exigido el ejemplar por quien tuviere derecho a él, deberá presentarlo al cobro para el efecto de que se deposite el importe de la letra en una institución de crédito o, en su defecto, en una casa de comercio, protestando la letra por falta de pago si el girado no hiciere el depósito. Tiene además obligación de entregar el ejemplar que se le envió para su aceptación y las actas de protesto, en su caso, al tenedor legítimo de otro ejemplar que contenga la indicación de la persona a quien el primero fue enviado.
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
+El tenedor del ejemplar enviado a la aceptación, está autorizado y tiene además la obligación de presentarlo oportunamente y protestarlo en su caso; si al vencerse la letra no le hubiere sido exigido el ejemplar por quien tuviere derecho a él, deberá presentarlo al cobro para el efecto de que se deposite el importe de la letra en una institución de crédito o, en su defecto, en una casa de comercio, protestando la letra por falta de pago si el girado no hiciere el depósito. Tiene además obligación de entregar el ejemplar que se le envió para su aceptación y las actas de protesto, en su caso, el tenedor legítimo de otro ejemplar que contenga la indicación de la persona a quien el primero fue enviado.
+
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
 
 ###### ARTICULO 120.
 
-Si el detentador se negare a hacer la entrega, el tenedor legítimo no podrá ejercitar sus acciones sino después de haber levantado acta de protesto:
+Si el tenedor se negare a hacer la entrega, el tenedor legítimo no podrá ejercitar sus acciones sino después de haber levantado acta de protesto:
 
-I.- Contra el detentador, haciendo constar la omisión de dicha entrega; y
+I.- Contra el tenedor, haciendo constar la omisión de dicha entrega; y
 
-II.- Contra el girado, por falta de aceptación o de pago del duplicado, siempre que tales protestos se levanten dentro de los términos que esta ley establece.
+II.- Contra el girado, por falta de aceptación o de pago del duplicado, siempre que tales protestos se levanten dentro de los términos que esta Ley establece.
+
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
 
 ###### ARTICULO 121.
 
-Cuando al detentador del original enviado para su aceptación se le presenten dos o más tenedores de los demás ejemplares para que entregue aquél, lo entregará al primero que lo solicite; y si se presentaren varios a un mismo tiempo, dará preferencia al portador del ejemplar marcado con el número ordinal más bajo.
+Cuando al tenedor del original enviado para su aceptación se le presenten dos o más tenedores de los demás ejemplares para que entregue aquél, lo entregará al primero que lo solicite; y si se presentaren varios a un mismo tiempo, dará preferencia al portador del ejemplar marcado con el número ordinal más bajo.
 
 ###### ARTICULO 122.
 
@@ -800,15 +824,19 @@ El tenedor de una letra de cambio tiene derecho a hacer copias de la misma. Esta
 
 Las suscripciones autógrafas del aceptante, de los endosantes y de los avalistas, hechas en la copia, obligan a los signatarios como si las mismas constaran en el original.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 124.
 
 La persona que haya remitido el original para su aceptación o que lo haya depositado, debe mencionar en las copias el nombre y domicilio de la persona en cuyo poder se encuentre dicho original. La falta de esta indicación no invalida los endosos originales puestos sobre las copias.
 
-El detentador del original está obligado a entregarlo al tenedor legítimo de la copia. El tenedor que, sin el original, quiera ejercitar sus derechos contra los suscriptores de la copia, debe probar con el protesto que el original no le fue entregado a su petición.
+El tenedor del original está obligado a entregarlo al tenedor legítimo de la copia. El tenedor que, sin el original, quiera ejercitar sus derechos contra los suscriptores de la copia, debe probar con el protesto que el original no le fue entregado a su petición.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 125.
 
-Cuando al detentador del original se le presentaren dos o más portadores legítimos de copias, obrará de acuerdo con lo que previene el artículo 121.
+Cuando al tenedor del original se le presentaren dos o más portadores legítimos de copias, obrará de acuerdo con lo que previene el artículo 121.
 
 SECCION 6a.
 
@@ -1064,7 +1092,9 @@ III.- Por no haberse admitido la aceptación por intervención de las personas a
 
 IV.- Por no haberse admitido el pago por intervención en los términos de los artículos 133 al 138;
 
-V.- Por no haberse ejercitado la acción contra cualquiera de los obligados en vía de regreso dentro de los tres meses que sigan a la fecha del protesto o, en el caso previsto por el artículo 141, al día de la presentación de la letra para su aceptación o para su pago; y
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+V.- Por no haber ejercitado la acción dentro de los tres meses que sigan a la fecha del protesto o, en el caso previsto por el artículo 141, al día de la presentación de la letra para su aceptación o para su pago; y
 
 VI.- Por haber prescrito la acción cambiaria contra el aceptante, o porque haya de prescribir esa acción dentro de los tres meses siguientes a la notificación de la demanda.
 
@@ -1072,17 +1102,23 @@ VI.- Por haber prescrito la acción cambiaria contra el aceptante, o porque haya
 
 La acción cambiaria del obligado en vía de regreso que paga la letra, contra los obligados en la misma vía anteriores a él, caduca:
 
-I.- Por haber caducado la acción de regreso del último tenedor de la letra de acuerdo con el artículo anterior;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
-II.- Por no haber ejercitado la acción contra cualquiera de los obligados en vía de regreso, aquél a quien la acción compete, dentro de los tres meses que sigan a la fecha en que hubiere pagado la letra, con los intereses y gastos accesorios, o a la fecha en que cause ejecutoria la sentencia que lo condenó a ese pago de no haberse allanado a hacerlo voluntariamente; y
+I.- Por haber caducado la acción de regreso del último tenedor de la letra de acuerdo con las fracciones I, II, III, IV y VI del artículo anterior;
+
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+II.- Por no haber ejercitado la acción dentro de los tres meses que sigan a la fecha en que hubiere pagado la letra, con los intereses y gastos accesorios, o a la fecha en que le fue notificada la demanda respectiva, si no se allanó a hacer el pago voluntariamente; y
 
 III.- Por haber prescrito la acción cambiaria contra el aceptante, o porque haya de prescribir esa acción dentro de los tres meses que sigan a la notificación de la demanda.
 
 En los casos previstos por el artículo 157, se considerará como fecha del pago, para los efectos de la fracción II de este artículo, la fecha de la anotación de recibo que debe llevar la letra pagada, o en su defecto, la del aviso o la de la letra de resaca a que aquel precepto se refiere.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 162.
 
-El ejercicio de la acción en el plazo fijado por las fracciones V, del artículo 160 y II del artículo 161, no impide su caducidad, sino cuando la demanda respectiva hubiere sido notificada debidamente dentro del mismo plazo. La notificación de la demanda impide la caducidad de la acción, aunque la demanda haya sido presentada ante Juez incompetente.
+El ejercicio de la acción en el plazo fijado por las fracciones V del artículo 160 y II del artículo 161, no impide su caducidad sino cuando la demanda respectiva hubiere sido presentada dentro del mismo plazo, aun cuando lo sea ante Juez incompetente.
 
 ###### ARTICULO 163.
 
@@ -1104,17 +1140,25 @@ II.- Desde que concluyan los plazos a que se refieren los artículos 93 y 128.
 
 Las causas que interrumpen la prescripción respecto de uno de los deudores cambiarios, no la interrumpen respecto de los otros, salvo el caso de los signatarios de un mismo acto que por ello resulten obligados solidariamente.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+La demanda interrumpe la prescripción, aun cuando sea presentada ante Juez incompetente.
+
 ###### ARTICULO 167.
 
 La acción cambiaria contra cualquiera de los signatarios de la letra es ejecutiva por el importe de ésta, y por el de los intereses y gastos accesorios, sin necesidad de que reconozca previamente su firma el demandado.
 
 Contra ella no pueden oponerse sino las excepciones y defensas enumeradas en el artículo 8.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 168.
 
-El último tenedor de la letra, o los obligados en vía de regreso que la hubieran pagado, pueden ejercitar las acciones que se deriven de los actos que dieron origen a la emisión o trasmisión de aquélla, después de haber intentado inútilmente la acción cambiaria contra su deudor directo, siempre que la obligación así exigida no haya resultado novada al emitirse o trasmitirse la letra. La novación de la obligación primitiva no se presume.
+Si de la relación que dió origen a la emisión o trasmisión de la letra se deriva una acción, ésta subsistirá a pesar de aquéllas, a menos que se pruebe que hubo novación.
 
-Si la acción cambiaria se hubiere extinguido por prescripción o caducidad, el tenedor de la letra, o el obligado en vía de regreso que la hubiere pagado, sólo podrá ejercitar la acción causal contra su obligado directo, restituyéndole la letra, y a condición de haber ejecutado los actos necesarios para que éste conserve las acciones de regreso que puedan incumbirle.
+Esa acción debe intentarse restituyendo la letra al demandado, y no procede sino después de que la letra hubiere sido presentada inútilmente para su aceptación o para su pago conforme a los artículos 91 al 94 y 126 al 128. Para acreditar tales hechos, y salvo lo dispuesto en el párrafo que sigue, podrá suplirse el protesto por cualquier otro medio de prueba.
+
+Si la acción cambiaria se hubiere extinguido por prescripción o caducidad, el tenedor sólo podrá ejercitar la acción causal en caso de que haya ejecutado los actos necesarios para que el demandado conserve las acciones que en virtud de la letra pudieran corresponderle.
 
 ###### ARTICULO 169.
 
@@ -1164,7 +1208,9 @@ Son aplicables al pagaré, en lo conducente, los artículos 77, párrafo final, 
 
 Para los efectos del artículo 152, el importe del pagaré comprenderá los réditos caídos; el descuento del pagaré no vencido se calculará al tipo de interés pactado en éste, o en su defecto al tipo legal; y los intereses moratorios se computarán al tipo estipulado para ellos; a falta de esa estipulación, al tipo de rédito fijado en el documento, y en defecto de ambos, al tipo legal.
 
-El suscriptor del pagaré se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso del artículo 169, en el que se equiparará al girador.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+El suscriptor del pagaré se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
 
 ### CAPITULO IV. Del cheque
 
@@ -1410,7 +1456,9 @@ Las obligaciones deben contener:
 
 I.- La denominación, el objeto y el domicilio de la sociedad emisora;
 
-II.- El importe del capital pagado de la sociedad emisora y el estado de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión;
+(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
+
+II.- El importe del capital pagado de la sociedad emisora y el de su activo y de su pasivo, según el balance que se practique precisamente para efectuar la emisión;
 
 III.- El importe de la emisión, con especificación del número y del valor nominal de las obligaciones que se emitan;
 
@@ -1428,9 +1476,11 @@ IX.- La firma de los administradores de la sociedad, autorizados al efecto;
 
 X.- La firma del representante común de los obligacionistas.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 211.
 
-No podrá pactarse que las obligaciones sean amortizadas por medio de sorteos a una suma superior a su valor nominal o con primas o premios, sino cuando el interés que haya de pagarse a todos los obligacionistas sea superior al cuatro por ciento anual y la cantidad periódica que deba destinarse a la amortización de las obligaciones y al pago de intereses, sea la misma durante todo el tiempo estipulado para dicha amortización.
+No podrá pactarse que las obligaciones sean amortizadas por medio de sorteos a una suma superior a su valor nominal o con primas o premios, sino cuando éstos tengan por objeto compensar a los obligacionistas por la redención anticipada de una parte o de la totalidad de la emisión, o cuando el interés que haya de pagarse a todos los obligacionistas sea superior al cuatro por ciento anual y la cantidad periódica que deba destinarse a la amortización de las obligaciones y al pago de intereses sea la misma durante todo el tiempo estipulado para dicha amortización.
 
 Cualquiera de los obligacionistas podrá pedir la nulidad de la emisión hecha en contra de lo prevenido en este artículo.
 
@@ -1500,7 +1550,9 @@ I.- Comprobar los datos contenidos en el balance de la sociedad emisora que se f
 
 II.- Comprobar, en su caso, la existencia de los contratos a que se refiere el párrafo primero del artículo 212;
 
-III.- Comprobar la existencia y el valor de los bienes dados en prenda o hipotecados en garantía de la emisión;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+III.- Comprobar la existencia y el valor de los bienes dados en prenda o hipotecados en garantía de la emisión, así como que los objetos pignorados, y en su caso las construcciones y los muebles inmovilizados incluidos en la hipoteca, estén asegurados, mientras la emisión no se amortice totalmente, por su valor, o por el importe de las obligaciones en circulación, cuando éste sea menor que aquél;
 
 IV.- Cerciorarse de la debida constitución de la garantía;
 
@@ -1510,13 +1562,17 @@ VI.- Recibir y conservar los fondos relativos como depositario y aplicarlos al p
 
 VII.- Autorizar las obligaciones que se emitan;
 
-VIII.- Ejercitar todas las acciones o derechos que al conjunto de obligacionistas correspondan por el pago de los intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, y ejecutar los actos conservatorios respectivos;
+(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
+
+VIII.- Ejercitar todas las acciones o derechos que al conjunto de obligacionistas corresponda por el pago de los intereses o del capital debidos o por virtud de las garantías señaladas para la emisión, así como los que requiera el desempeño de las funciones y deberes a que este artículo se refiere, y ejecutar los actos conservatorios respectivos;
 
 IX.- Asistir a los sorteos, en su caso;
 
 X.- Convocar y presidir la asamblea general de obligacionistas y ejecutar sus decisiones;
 
-XI.- Asistir a las asambleas generales de accionistas de la sociedad emisora;
+(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
+
+XI.- Asistir a las asambleas generales de accionistas de la sociedad emisora, y recabar de los administradores, gerentes y funcionarios de la misma todos los informes y datos que necesite para el ejercicio de sus atribuciones, incluyendo los relativos a la situación financiera de aquélla;
 
 XII.- Otorgar en nombre del conjunto de los obligacionistas, los documentos o contratos que con la sociedad emisora deban celebrarse.
 
@@ -1600,9 +1656,11 @@ Las acciones para el cobro de los cupones o de los intereses vencidos sobre las 
 
 Las acciones para el cobro de las obligaciones prescribirán en cinco años a partir de la fecha en que se venzan los plazos estipulados para hacer la amortización, o, en caso de sorteo, a partir de la fecha en que se publique la lista a que se refiere el artículo 222.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 228.
 
-La emisión de bonos, cédulas y obligaciones a que se refiere la Ley General de Instituciones de Crédito, se regirá por lo dispuesto en dicha ley.
+Son aplicables a las obligaciones y a sus cupones, en lo conducente, los artículos 77, párrafo final, 81, 90, 127, 130, 132, 139, 140, 142, 148, 149, 151 al 162, 164, 166 al 169, y 174, párrafo final.
 
 ### CAPITULO VI. Del certificado de depósito y del bono de prenda
 
@@ -1798,7 +1856,9 @@ Son aplicables al bono de prenda, en lo conducente, los artículos 90, 109 al 11
 
 Para los efectos del artículo 152, por importe del bono de prenda se entenderá la parte no pagada del adeudo consignado en éste, incluyendo los réditos caídos; y los intereses moratorios se calcularán al tipo estipulado para ellos; a falta de esa estipulación, al tipo de rédito fijado en el documento, y en defecto de ambos, al tipo legal.
 
-El tenedor que por primera vez negocie el bono de prenda separadamente del certificado de depósito se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de artículo 169, en el que se equiparará al girador.
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+El tenedor que por primera vez negocie el bono de prenda separadamente del certificado de depósito se considerará como aceptante para todos los efectos de las disposiciones enumeradas antes, salvo el caso de los artículos 168 y 169, en que se equiparará al girador.
 
 ### CAPITULO I. Del reporto
 
@@ -1984,6 +2044,8 @@ SECCION 1a.
 
 De la apertura de crédito
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 288.
 
 Los créditos abiertos en los libros de comerciantes podrán ser objeto de descuento, aun cuando no estén amparados por títulos de crédito suscritos por el deudor, siempre que se reúnan las siguientes condiciones:
@@ -2008,65 +2070,89 @@ Sólo las instituciones de crédito podrán celebrar las operaciones a que se re
 
 ###### ARTICULO 291.
 
-En virtud de la apertura de crédito, el acreditante se obliga a poner una suma de dinero a disposición del acreditado, para que éste haga uso del crédito concedido, en la forma y en los términos y condiciones convenidos, quedando obligado el acreditado a restituir al acreditante las cantidades de que disponga, y a pagarle los intereses, prestaciones y comisiones que se estipulen.
+En virtud de la apertura de crédito, el acreditante se obliga a poner una suma de dinero a disposición del acreditado, o a contraer por cuenta de éste una obligación, para que el mismo haga uso del crédito concedido en la forma y en los términos y condiciones convenidos, quedando obligado el acreditado a restituir al acreditante las sumas de que disponga, o a cubrirlo oportunamente por el importe de la obligación que contrajo, y en todo caso a pagarle los intereses, prestaciones, gastos y comisiones que se estipulen.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 292.
 
-Salvo convenio en contrario, la apertura de crédito se entiende concedida por el término de seis meses a partir de la fecha del contrato respectivo.
+Si las partes fijaron límite al importe del crédito, se entenderá, salvo pacto en contrario, que en él quedan comprendidos los intereses, comisiones y gastos que deba cubrir el acreditado.
+
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933) (F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)
 
 ###### ARTICULO 293.
 
-La apertura de crédito es denunciable en cualquier tiempo, por cualquiera de las partes. La denuncia por parte del acreditante, tendrá por efecto limitar el monto del crédito a las disposiciones hechas por el acreditado hasta el momento de la misma.
+Si en el contrato no se señala un límite a las disposiciones del acreditado, y tampoco es posible determinar el importe del crédito por el objeto a que se destina, o de algún otro modo convenido por las partes, se entenderá que el acreditante está facultado para fijar ese límite en cualquier tiempo.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 294.
 
-La apertura de crédito en cuenta corriente da derecho al acreditado a hacer remesas, antes de la fecha fijada para la liquidación, el reembolso parcial o total de las disposiciones que previamente hubiere hecho, quedando facultado, mientras el contrato no concluya, para disponer en la forma pactada del saldo que resulte a su favor.
+Aun cuando en el contrato se hayan fijado el importe del crédito y el plazo en que tiene derecho a hacer uso de él el acreditado, pueden las partes convenir en que cualquiera o una sola de ellas estará facultada para restringir el uno o el otro, o ambos a la vez, o para denunciar el contrato a partir de una fecha determinada o en cualquier tiempo, mediante aviso dado a la otra parte en la forma prevista en el contrato, o a falta de ésta, por ante notario o corredor, y en su defecto, por conducto de la primera autoridad política del lugar de su residencia, siendo aplicables al acto respectivo los párrafos tercero y cuarto del artículo 143.
 
-Son aplicables a la apertura de crédito en cuenta corriente, en lo que haya lugar, los artículos 306, 308 y 309.
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
+Cuando no se estipule término, se entenderá que cualquiera de las partes puede dar por concluido el contrato en todo tiempo, notificándolo así a la otra como queda dicho respecto del aviso a que se refiere el párrafo anterior.
+
+Denunciado el contrato o notificada su terminación de acuerdo con lo que antecede, se extinguirá el crédito en la parte de que no hubiere hecho uso el acreditado hasta el momento de esos actos; pero, a no ser que otra cosa se estipule, no quedará liberado el acreditado de pagar los premios, comisiones y gastos correspondientes a las sumas de que no hubiere dispuesto, sino cuando la denuncia o la notificación dichas procedan del acreditante.
 
 ###### ARTICULO 295.
 
 Salvo convenio en contrario, el acreditado puede disponer a la vista de la suma objeto del contrato.
 
-> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 296.
 
-Cuando se estipule en el contrato que el acreditado puede hacer uso del crédito concedido, total o parcialmente, haciendo que el acreditante contraiga una obligación a favor de terceras personas por cuenta del acreditado, la aceptación, el endoso, el aval, o la ejecución del acto por el cual el acreditante contraiga la obligación pactada por cuenta del acreditado, disminuirán desde luego el importe de la suma materia del crédito hasta por el monto de la responsabilidad contraída por el acreditante; pero el acreditado sólo estará obligado al reembolso de las cantidades que realmente cubra el acreditante en pago de las obligaciones que hubiere contraído por cuenta del acreditado.
+La apertura de crédito en cuenta corriente da derecho al acreditado a hacer remesas, antes de la fecha fijada para la liquidación, en reembolso parcial o total de las disposiciones que previamente hubiere hecho, quedando facultado, mientras el contrato no concluya, para disponer en la forma pactada del saldo que resulte a su favor.
 
-El acreditante estará facultado, salvo convenio en contrario, para exigir del acreditado el saldo insoluto al término del contrato, o para deducir las acciones que le correspondan por cada efecto o documento que llegue a su vencimiento sin que el acreditado cubra su importe o haga oportunamente al acreditante la provisión de fondos que corresponda.
+Son aplicables a la apertura del crédito en cuenta corriente, en lo que haya lugar, los artículos 306, 308 y 309.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 297.
 
-Salvo convenio en contrario, siempre que en virtud de una apertura de crédito, el acreditante acepte u otorgue letras, pagarés o cualquier otro título de crédito por cuenta del acreditado, éste quedará obligado a constituir en poder del acreditante la provisión de fondos suficiente, a más tardar el día hábil anterior a la fecha en que el documento aceptado u otorgado deba hacerse efectivo.
+Salvo convenio en contrario, siempre que en virtud de una apertura de crédito, el acreditante se obligue a aceptar u otorgar letras, a suscribir pagarés, a prestar su aval o en general a aparecer como endosante o signatario de un título de crédito, por cuenta del acreditado, éste quedará obligado a constituir en poder del acreditante la provisión de fondos suficiente (sic), a más tardar el día hábil anterior a la fecha en que el documento aceptado, otorgado o suscrito deba hacerse efectivo.
+
+La aceptación, el endoso, el aval o la suscripción del documento, así como la ejecución del acto de que resulte la obligación que contraiga el acreditante por cuenta del acreditado, deba éste o no constituir la provisión de que antes se habla, disminuirán desde luego el saldo del crédito, a menos que otra cosa se estipule; pero, aparte de los gastos, comisiones, premios y demás prestaciones que se causen por el uso del crédito, de acuerdo con el contrato, el acreditado sólo estará obligado a devolver las cantidades que realmente supla el acreditante al pagar las obligaciones que así hubiere contraído, y a cubrirle únicamente los intereses que correspondan a tales sumas.
 
 ###### ARTICULO 298.
 
 La apertura de crédito simple o en cuenta corriente, puede ser pactada con garantía personal o real. La garantía se entenderá extendida, salvo pacto en contrario, a las cantidades de que el acreditado haga uso dentro de los límites del crédito.
 
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
 ###### ARTICULO 299.
 
-Cuando no se señale cantidad, será nulo el contrato de apertura de crédito, a menos que pueda determinarse el importe del crédito por el objeto preciso a que se destine. En este caso, el crédito se entenderá concedido hasta por la suma que sea necesaria para lograr el objeto señalado en el contrato.
+El otorgamiento o trasmisión de un título de crédito o de cualquier otro documento por el acreditado al acreditante, como reconocimiento del adeudo que a cargo de aquél resulte en virtud de las disposiciones que haga del crédito concedido, no facultan al acreditante para descontar o ceder el crédito así documentado, antes de su vencimiento, sino cuando el acreditado lo autorice a ello expresamente.
+
+Negociado o cedido el crédito por el acreditante, éste abonará al acreditado, desde la fecha de tales actos, los intereses correspondientes al importe de la disposición de que dicho crédito proceda, conforme al tipo estipulado en la apertura de crédito; pero el crédito concedido no se entenderá renovado por esa cantidad, sino cuando las partes así lo hayan convenido.
+
+(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933).
 
 ###### ARTICULO 300.
 
-El pago del premio o comisión pactados por la apertura de crédito, salvo convenio en contrario, será obligatorio para el acreditado, aún cuando no haga uso o solo utilice parcialmente el crédito concedido, a menos que el contrato sea denunciado por el acreditante, en cuyo caso el acreditado sólo deberá cubrir la parte del premio o comisión correspondientes al plazo durante el cual haya estado en vigor el contrato.
+Cuando las partes no fijen plazo para la devolución de las sumas de que puede disponer el acreditado, o para que el mismo reintegre las que por cuenta suya pague el acreditante de acuerdo con el contrato, se entenderá que la restitución debe hacerse al expirar el término señalado para el uso del crédito, o en su defecto, dentro del mes que siga a la extinción de este último.
+
+La misma regla se seguirá acerca de los premios, comisiones, gastos y demás prestaciones que corresponda pagar al acreditado, así como respecto al saldo que a cargo de éste resulte al extinguirse el crédito abierto en cuenta corriente.
+
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 301.
 
-El contrato de apertura de crédito se extinguirá:
+El crédito se extinguirá, cesando, en consecuencia, el derecho del acreditado a hacer uso de él en lo futuro:
 
-I.- Por la expiración del término convenido;
+I.- Por haber dispuesto el acreditado de la totalidad de su importe, a menos que el crédito se haya abierto en cuenta corriente;
 
-II.- Por la denuncia del contrato hecha por cualquiera de las partes, en los términos del artículo 293;
+II.- Por la expiración del término convenido, o por la notificación de haberse dado por concluído el contrato, conforme al artículo 294, cuando no se hubiere fijado plazo;
 
-> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
+III.- Por la denuncia que del contrato se haga en los términos del citado artículo;
 
-III.- Por la falta o disminución de las garantías pactadas a cargo del acreditado, ocurridas con posterioridad al contrato, a menos que el acreditado suplemente o substituya debidamente la garantía en el término convenido al efecto;
+IV.- Por la falta o disminución de las garantías pactadas a cargo del acreditado, ocurridas con posterioridad al contrato, a menos que el acreditado suplemente o substituya debidamente la garantía en el término convenido al efecto;
 
-IV.- Por hallarse cualquiera de las partes en estado de suspensión de pagos, de liquidación judicial o de quiebra;
+V.- Por hallarse cualquiera de las partes en estado de suspensión de pagos, de liquidación judicial o de quiebra;
 
-V.- Por la muerte o interdicción de cualquiera de las partes o por disolución de la sociedad que hubiere abierto o a cuyo favor se hubiere concedido el crédito.
+VI.- Por la muerte, interdicción, inhabilitación o ausencia del acreditado, o por disolución de la sociedad a cuyo favor se hubiere concedido el crédito.
 
 SECCION 2a.
 
@@ -2190,6 +2276,10 @@ Los créditos de habilitación o avío estarán garantizados con las materias pr
 
 En virtud del contrato de crédito refaccionario, el acreditado queda obligado a invertir el importe del crédito precisamente en la adquisición de aperos, instrumentos, útiles de labranza, abonos, ganado, o animales de cría; en la realización de plantaciones o cultivos cíclicos o permanentes; en la apertura de tierras para el cultivo, en la compra o instalación de maquinarias y en la construcción o realización de obras materiales necesarias para el fomento de la empresa del acreditado.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+También podrá pactarse en el contrato de crédito refaccionario que parte del importe del crédito se destine a cubrir las responsabilidades fiscales que pesen sobre la empresa del acreditado o sobre los bienes que éste use con motivo de la misma, al tiempo de celebrarse el contrato, y que parte asimismo de ese importe se aplique a pagar los adeudos en que hubiere incurrido el acreditado por gastos de explotación o por la compra de los bienes muebles o inmuebles o de la ejecución de las obras que antes se mencionan, siempre que los actos u operaciones de que procedan tales adeudos hayan tenido lugar dentro del año anterior a la fecha del contrato.
+
 ###### ARTICULO 324.
 
 Los créditos refaccionarios quedarán garantizados, simultánea o separadamente, con las fincas, construcciones, edificios, maquinarias, aperos, instrumentos, muebles y útiles, y con los frutos o productos, futuros, pendientes o ya obtenidos, de la empresa a cuyo fomento haya sido destinado el préstamo.
@@ -2274,7 +2364,9 @@ I.- Por la entrega al acreedor, de los bienes o títulos de crédito, si éstos 
 
 II.- Por el endoso de los títulos de crédito en favor del acreedor, si se trata de títulos nominativos, y por este mismo endoso y la correspondiente anotación en el registro, si los títulos son de los mencionados en el artículo 24;
 
-III.- Por la entrega del título al acreedor, en caso de títulos no negociables, con notificación hecha al deudor, si se trata de títulos respecto de los cuales no se exija registro de emisión;
+> <small>(REFORMADA, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+III.- Por la entrega, al acreedor, del título o del documento en que el crédito conste, cuando el título o crédito materia de la prenda no sean negociables, con inscripción del gravamen en el registro de emisión del título o con notificación hecha al deudor, según que se trate de títulos o créditos respecto de los cuales se exija o no tal registro;
 
 > <small>(F. DE E., D.O.F. DE 8 DE SEPTIEMBRE DE 1932)</small>
 
@@ -2306,11 +2398,11 @@ Cuando la prenda se constituya sobre dinero, se entenderá transferida la propie
 
 El acreedor prendario está obligado a entregar al deudor, a expensas de éste, en los casos a que se refieren las fracciones I, II, III, V y VI del artículo 334, un resguardo que exprese el recibo de los bienes o títulos dados en prenda y los datos necesarios para su identificación.
 
-> <small>(F. DE E., D.O.F. 8 DE SEPTIEMBRE DE 1932)</small>
+> <small>(REFORMADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
 
 ###### ARTICULO 338.
 
-El acreedor prendario o el deudor, cuando éste conserve en su poder la prenda, además de estar obligados a la guarda y conservación de los bienes o títulos dados en prenda, deben ejercitar todos los derechos inherentes a ellos, siendo los gastos por cuenta del deudor, y debiendo aplicarse, en su oportunidad, al pago del crédito, todas las sumas que sean percibidas, salvo pacto en contrario. Es nulo todo convenio que limite la responsabilidad que para el acreedor o el deudor, en su caso, establece este artículo.
+El acreedor prendario, además de estar obligado a la guarda y conservación de los bienes o títulos dados en prenda, debe ejercitar todos los derechos inherentes a ellos, siendo los gastos por cuenta del deudor, y debiendo aplicarse, en su oportunidad, al pago del crédito, todas las sumas que sean percibidas, salvo pacto en contrario. Es nulo todo convenio que limite la responsabilidad que para el acreedor establece este artículo.
 
 ###### ARTICULO 339.
 
@@ -2370,6 +2462,10 @@ El fideicomitente puede designar varios fideicomisarios para que reciban simult�
 
 Cuando sean dos o más los fideicomisarios y deba consultarse su voluntad, en cuanto no esté previsto en la constitución del fideicomiso, las decisiones se tomarán a mayoría de votos computados por representaciones y no por personas. En caso de empate, decidirá el Juez de Primera Instancia del lugar del domicilio del fiduciario.
 
+> <small>(ADICIONADO, D.O.F. 31 DE AGOSTO DE 1933)</small>
+
+Es nulo el fideicomiso que se constituye en favor del fiduciario.
+
 ###### ARTICULO 349.
 
 Sólo pueden ser fideicomitentes las personas físicas o jurídicas que tengan la capacidad necesaria para hacer la afectación de bienes que el fideicomiso implica y las autoridades judiciales o administrativas competentes, cuando se trate de bienes cuya guarda, conservación, administración, liquidación, reparto o enajenación corresponda a dichas autoridades o a las personas que éstas designen.
@@ -2418,7 +2514,7 @@ III.- Si se tratare de cosa corpórea o de títulos al portador, desde que esté
 
 ###### ARTICULO 355.
 
-El fideicomisario tendrá, además de los derechos que se le concedan por virtud del acto constitutivo del fideicomiso, el de exigir su cumplimiento a la institución fiduciaria; el de atacar la validez de los actos que ésta cometa en su perjuicio, de mala fe o en exceso de las facultades que por virtud del acto constitutivo o de la ley le correspondan, y cuando ello sea procedente, el de reivindicar los bienes que a consecuencia de esos actos hayan salido del patrimonio objeto del fideicomiso.
+El fideicomisario tendrá, además de los derechos que se le concedan por virtud del acto constitutivo del fideicomiso, el de exigir su cumplimiento a la institución fiduciaria; el de atacar la validez de los actos que ésta cometa en su perjuicio, de mala fe o en exceso de las facultades que por virtud del acto constitutivo o de la ley le corresponda, y cuando ello sea procedente, el de reivindicar los bienes que a consecuencia de esos actos hayan salido del patrimonio objeto del fideicomiso.
 
 Cuando no exista fideicomisario determinado o cuando éste sea incapaz, los derechos a que se refiere el párrafo anterior, corresponderán al que ejerza la patria potestad, al tutor o al Ministerio Público, según el caso.
 
@@ -2503,3 +2599,19 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 26 de agosto de 1932.- El Secretario de Gobernación, Juan José Ríos.- Rúbrica.
 
 Al C..
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 31 DE AGOSTO DE 1933.
+
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
+###### ARTICULO 1°.
+
+Esta Ley entrará en vigor el día quince de septiembre de 1933.
+
+> <small>(F. DE E., D.O.F. 9 DE SEPTIEMBRE DE 1933)</small>
+
+###### ARTICULO 2°.
+
+Por ella se regirán los efectos jurídicos de los hechos anteriores a su vigencia, siempre que su aplicación no resulte retroactiva. En consecuencia, la aplicación de dicha Ley queda sujeta, en lo conducente, a las reglas contenidas en la segunda parte del artículo 2°. transitorio de la Ley General de Títulos y Operaciones de Crédito que por ésta se reforma.
