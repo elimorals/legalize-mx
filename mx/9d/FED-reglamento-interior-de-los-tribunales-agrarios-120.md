@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "1994-07-13"
+last_updated: "1995-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE FEBRERO DE 1995.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -343,9 +343,7 @@ X.- Llevar nota de las inspecciones que practiquen los magistrado numerarios y s
 
 XI.- Llevar nota de los programas de itinerancia que autorice el Tribunal Superior a los tribunales unitarios;
 
-> <small>(F. DE E., D.O.F. 12 DE AGOSTO DE 1993)</small>
-
-XII.- Preparar el trámite de las demandas de ampara directo que se presenten contra sentencias definitivas del Tribunal Superior, en términos de lo dispuesto en la Ley de Amparo para la autoridad responsable, remitiendo el expediente a la Dirección General de Asuntos Jurídicos, para que elabore y suscriba el informe justificado correspondiente y atienda el trámite del amparo;
+XII.- (DEROGADA, D.O.F. 10 DE FEBRERO DE 1995)
 
 XIII.- Llevar la Oficialía de Partes, el Archivo y la atención e información al público;
 
@@ -461,9 +459,13 @@ X.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Pres
 
 Corresponden a la Dirección General de Asuntos Jurídicos las siguientes atribuciones, que atenderá cumpliendo los lineamientos que dicten el Tribunal Superior y el Presidente:
 
-I.- Preparar los informes previos y justificados que los magistrados del Tribunal Superior, en conjunto o en lo individual, y los funcionarios del mismo deban rendir en los juicios de amparo que se interpongan contra sus actos y resoluciones;
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1995)</small>
 
-II.- Llevar el control y seguimiento de los juicios de amparo que se interpongan en contra de las resoluciones del Tribunal Superior y los magistrados que lo integran, y mantener al corriente la información de cada una de las actuaciones que estén obligados a realizar;
+I.- En los juicio (sic) de amparo directo e indirecto, preparar y suscribir los informes previos y justificados correspondientes, que deban rendir los Magistrados del Tribunal Superior en conjunto, en lo individual, así como los funcionarios del mismo; elaborar los acuerdos jurisdiccionales que deban pronunciarse en cada uno de ese tipo de asuntos, incluyendo todo lo relativo a la suspensión provisional y definitiva que corresponda en cada caso; ofrecer pruebas y expresar alegatos; interponer los recursos que procedan y, en general, realizar todos aquellos actos que sean necesarios para el buen desarrollo y terminación de dichos juicios. Cuando se trate de dar cumplimiento a la ejecutoria de un juicio de amparo, dictada contra sentencias emitidas por el Tribunal Superior, que ordene la reposición del procedimiento, la Dirección General de Asuntos Jurídicos deberá proporcionar al Magistrado ponente del expediente original, los documentos necesarios para que elabore el nuevo proyecto;
+
+> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 1995)</small>
+
+II.- Llevar el control de los juicios de amparo citados en la fracción anterior, mantener al corriente la información de cada una de las actuaciones que el Tribunal Superior esté obligado a realizar, proporcionar esta información cuando sea requerida por los Magistrados o por la Secretaría General de Acuerdos y emitir opinión a éstos sobre los alcances de cada una de las ejecutorias que dicten los órganos de control constitucional;
 
 III.- Someter a la consideración del Presidente las instrucciones para el cumplimiento de las sentencias que se emitan en los juicios de amparo e informar sobre las omisiones de los funcionarios encargados de cumplirlas;
 
@@ -986,3 +988,11 @@ D.O.F. 13 DE JULIO DE 1994.
 > <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
 
 SEGUNDO. La presente reforma entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE FEBRERO DE 1995.
+
+> <small>N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS DEL ACUERDO QUE SE RELACIONAN CON EL REGLAMENTO.</small>
+
+Segundo.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Tercero.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Boletín Judicial de la Federación.
