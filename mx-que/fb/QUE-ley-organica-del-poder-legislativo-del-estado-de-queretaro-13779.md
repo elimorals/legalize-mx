@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-legislativo-del-estado-de-queretaro-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-09-23"
-last_updated: "1998-08-21"
+last_updated: "1998-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13779&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:16 DE OCTUBRE DE 1998.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga" el día 23 de septiembre de 1997.
 
@@ -155,9 +155,11 @@ V.- A continuación el Presidente de la Mesa Directiva, rendirá la protesta de 
 
 VI.- El Presidente de la mesa Directiva hará la declaratoria de instalación de la H. Legislatura.
 
+> <small>(REFORMADO PRIMER PARRAFO, P. O. 16 DE OCTUBRE DE1998)</small>
+
 ###### ARTICULO 20.
 
-La Comisión Permanente y la Gran Comisión de la H. Legislatura deberán entregar a la comisión de Diputados nombrada por los grupos parlamentarios, los asuntos y recursos de la H. Legislatura mediante acta circunstanciada, a la que se agregará la documentación siguiente:
+La Comisión Permanente y la Comisión de Gobierno de la H. Legislatura deberán entregar a la comisión de Diputados nombrada por los grupos parlamentarios; los asuntos y recursos de la H. Legislatura mediante acta circunstanciada, a la que se agregará la documentación siguiente:
 
 I.- Informe por escrito de los asuntos pendientes que dejará la H. Legislatura y los recibidos durante el receso,
 
@@ -209,7 +211,9 @@ I.- La Mesa Directiva;
 
 II.- La Comisión Permanente;
 
-III.- La Gran Comisión
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+III.- La Comisión de Gobierno;
 
 IV.- Las Comisiones de Dictamen;
 
@@ -473,25 +477,47 @@ X.- Supervisar el procedimiento de entrega-recepción de las dependencias de la 
 
 XI.- Cumplir con las obligaciones que le señale la H. Legislatura, siempre que no fueren contrarias a las leyes, y las demás que sean necesarias para el ejercicio de sus atribuciones.
 
-### CAPITULO VI. DE LA GRAN COMISION
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+### CAPITULO VI. DE LA COMISION DE GOBIERNO
+
+> <small>(REFORMADO, P. O. 16 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 49.
 
-Al inicio de las funciones de la H. Legislatura, en la primera sesión, previa a la elección de las Comisiones Permanentes y al nombramiento de funcionarios los diputados elegirán la Gran Comisión, misma que estará formada por los Coordinadores de los Grupos Parlamentarios, teniendo un presidente y un Secretario electos por mayoría de votos del Pleno.
+La Comisión de Gobierno es el órgano de conducción y concertación política de la Legislatura y se integrará con los Coordinadores de los Grupos Parlamentarios. La Presidencia y Secretaría de la Comisión de Gobierno serán cargos que ocuparán alternadamente dichos Coordinadores en los términos, condiciones, tiempo y procedimientos que acuerde la mayoría del Pleno de los Diputados.
 
-Los integrantes de la Gran Comisión durarán en su cargo todo el ejercicio constitucional de la H. Legislatura, salvo que mediare renuncia o sustitución.
+Al inicio de las funciones de la Legislatura, en la sesión previa a la elección de las Comisiones Permanentes y al nombramiento de funciones que correspondan, se designará, por mayoría de votos, al Presidente y Secretario de la Comisión de Gobierno que funcionará durante el primer período de la alternancia.
+
+La mayoría del Pleno de los Diputados podrá sustituir al Presidente y Secretario de la Comisión de Gobierno en los siguientes casos:
+
+I.- Por renuncia al cargo;
+
+II.- Por haber sido sustituido como Coordinador de Grupo Parlamentario;
+
+III.- Por dejar el ejercicio de la diputación; y
+
+IV.- Por cualquier otra causa que justifique la sustitución a juicio de la mayoría de los Diputados del Pleno.
+
+La Presidencia de la Comisión de Gobierno y la Presidencia de la Comisión de Administración no podrán reunirse en una misma persona.
+
+> <small>(REFORMADO, P.O. 16 DEOCTUBRE DE 1998)</small>
 
 ###### ARTICULO 50.
 
-La Gran Comisión es el órgano de gobierno, concertación y de toma de decisiones políticas de la H. Legislatura del Estado y contará con un presupuesto, autorizado por el Pleno de la Legislatura que ejercerá su Presidente.
+La Comisión de Gobierno es el órgano de gobierno, concertación y de toma de decisiones políticas de la H. Legislatura del Estado y contará con un presupuesto, autorizado por el Pleno de la Legislatura que ejercerá su Presidente.
+
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 51.
 
-Las sesiones de la Gran Comisión serán periódicas y privadas. Para tomar resoluciones no se solicitará voto de sus integrantes, y en todo caso se señalará el criterio de los que lo soliciten.
+Las sesiones de la Comisión de Gobierno serán periódicas y privadas. Para tomar resoluciones no se solicitará voto de sus integrantes, y en todo caso se señalará el criterio de los que lo soliciten.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
 
 ###### ARTICULO 52.
 
-Son facultades de la Gran Comisión:
+Son facultades de la Comisión de Gobierno:
 
 I.- Buscar entre sus integrantes y los grupos parlamentarios que representan, la toma de decisiones concertadas en todos los ámbitos y materias que al Poder Legislativo corresponda;
 
@@ -509,23 +535,35 @@ VII.- Formalizar la entrega de la H. Legislatura a la Comisión respectiva, por 
 
 VIII.- Las demás que le confiere esta Ley y las disposiciones reglamentarias.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 53.
 
-Son facultades del Presidente de la Gran Comisión:
+Son facultades del Presidente de la Comisión de Gobierno:
 
-I.- Representar a la Gran Comisión;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
 
-II.- Coordinar las actividades de la Gran Comisión;
+I.- Representar a la Comisión de Gobierno;
 
-III.- Hacer cumplir los acuerdos que adopte la Gran Comisión;
+> <small>(REFORMADA, P.O. 16 DE OCTUBREE DE 1998)</small>
+
+II.- Coordinar las actividades de la Comisión de Gobierno;
+
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+III.- Hacer cumplir los acuerdos que adopte la Comisión de Gobierno;
 
 IV.- Proponer al Pleno de la H. Legislatura los nombres de los Diputados que representen al Poder Legislativo ante cualquier organismo público;
 
-V.- Firmar junto con el Secretario las actas de sesiones de la Gran Comisión;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+V.- Firmar junto con el Secretario las actas de sesiones de la Comisión de Gobierno;
 
 VI.- Coadyuvar con la Mesa Directiva de la H. Legislatura, para programar el orden del día de cada sesión;
 
-VII.- Recibir de la Tesorería copia de los informes mensuales que ésta genera respecto del ejercicio presupuestal, para consulta de los miembros de la Gran Comisión;
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+VII.- Recibir de la Tesorería copia de los informes mensuales que ésta genera respecto del ejercicio presupuestal, para consulta de los miembros de la Comisión de Gobierno;
 
 VIII.- Realizar todo tipo de actos jurídicos de contenido patrimonial a nombre de la H. Legislatura, siempre y cuando lo autorice el Pleno. Podrá delegar esta facultad en cualquier funcionario de la Legislatura, conforme a la naturaleza del acto.
 
@@ -541,9 +579,11 @@ Para el estudio, dictamen y despacho de los asuntos de la H. Legislatura se nomb
 
 Las Comisiones de Dictamen se elegirán desde la primera sesión que verifique la H. Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 55.
 
-Las Comisiones de Dictamen se compondrán de un Presidente, un Secretario y por el número de pro-secretarios que apruebe el Pleno a propuesta de la Gran Comisión.
+Las comisiones de Dictamen se compondrán de un Presidente, un Secretario y por el número de pro-secretarios que apruebe el Pleno a propuesta de la Comisión de Gobierno.
 
 Todos los miembros de las Comisiones de Dictamen tendrán igualdad de derechos. Cuando las Comisiones actúen unidas estas serán presididas por quien designe la mayoría de los integrantes, en la primera sesión que convocará el Presidente de la Legislatura.
 
@@ -605,9 +645,11 @@ XXV.- Prevención y Readaptación.
 
 XXVI.- Asuntos de Equidad y Género.
 
+> <small>(REFORMADO, P. O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 57.
 
-Las Comisiones de Dictamen, durarán todo el ejercicio constitucional de la H. Legislatura. Podrán renovarse con el acuerdo de la mayoría de los Diputados presentes y a propuesta de la Gran Comisión.
+Las Comisiones de Dictamen, durarán todo el ejercicio constitucional de la H. Legislatura. Podrán renovarse con el acuerdo de la mayoría de los Diputados presentes y a propuesta de la Comisión de Gobierno.
 
 ###### ARTICULO 58.
 
@@ -681,15 +723,19 @@ La Comisión de Administración de la H. Legislatura del Estado, tendrá como ob
 
 La Comisión de Administración estará integrada por un Presidente y un Secretario electos por el pleno de la Legislatura, y un representante de cada uno de los grupos parlamentarios que así lo deseen acrediten en su instalación quienes, tendrán derecho a voz y a voto; por el Oficial Mayor y el Tesorero, quienes solo tendrán derecho de voz. El presidente tendrá voto de calidad.
 
-Los Grupos parlamentarios a que pertenezcan el Presidente y el secretario, no podrán acreditar representantes en la comisión
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+Las sesiones de la Comisión de Administración serán mensuales y cada vez que fuere necesario a juicio de la Comisión de Gobierno o de la mayoría de los miembros de la propia Comisión de Administración.
 
 El Oficial Mayor y el Tesorero podrán solicitar la reconsideración sobre las resoluciones del Comité, cuando estas contravengan la estructura presupuestal o se opongan a la buena administración de las labores de la misma. Ejercerán esta facultad en la misma sesión en la que se tome la resolución de que se trate.
 
 La Comisión sesionará mensualmente y cuando así lo considere conveniente.
 
+> <small>(REFORMADO, P. O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 75.
 
-Solicitada la reconsideración a que se refiere el artículo 74, tendrá el efecto de suspender la ejecución del acuerdo hasta en tanto la Gran Comisión emita opinión al respecto, la cual se tomará en cuenta por la Comisión de Administración, quien reconsiderará el asunto y resolverá en definitiva. La Gran Comisión emitirá opinión en un plazo no mayor a quince días, en caso de que no lo haga así se considerará que ratifica la reconsideración.
+Solicitada la reconsideración a que se refiere el artículo 74, tendrá el efecto de suspender la ejecución del acuerdo hasta en tanto la Comisión de Gobierno emita opinión al respecto, la cual se tomará en cuenta por la Comisión de Administración, quien reconsiderará el asunto y resolverá en definitiva. La Comisión de Gobierno emitirá opinión en un plazo no mayor a quince días, en caso de que no lo haga así se considerará que ratifica la reconsideración.
 
 ###### ARTICULO 76.
 
@@ -711,7 +757,9 @@ IV.- Coordinar y aprobar los programas de desarrollo del personal administrativo
 
 V.- Vigilar la permanente actualización de inventario de bienes propiedad del Poder Legislativo;
 
-VI.- Formular conjuntamente con la Gran Comisión, dentro del mes de octubre de cada año, el proyecto de presupuesto de ingresos y egresos de la Legislatura para el ejercicio fiscal siguiente;
+> <small>(REFORMADA, P. O. 16 DE OCTUBRE DE 1998)</small>
+
+VI.- Formular conjuntamente con la Comisión de Gobierno, dentro del mes de octubre de cada año, el proyecto de presupuesto de ingresos y egresos de la Legislatura para el ejercicio fiscal siguiente;
 
 VII.- Aprobar los ajustes presupuestales que requiera el presupuesto de la Legislatura, de lo cual informará al Pleno;
 
@@ -751,9 +799,11 @@ Los Grupos Parlamentarios gozarán de personalidad jurídica
 
 La H. Legislatura otorgará recursos a cada Grupo Parlamentario, el cual queda supeditado al uso y comprobación de los mismos. El personal que lleguen a contratar los Grupos Parlamentarios con los recursos de que dispongan, no tendrán relación laborar con la H. Legislatura del Estado.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 81.
 
-El empleo de los recursos corresponderá a la decisión interna de cada Grupo, pero deberán presentar un informe anual ante la Comisión de Administración, sobre la aplicación de los mismos y acreditar su utilización de acuerdo a las políticas, que al efecto señale la Gran Comisión.
+El empleo de los recursos corresponderá a la decisión interna de cada Grupo, pero deberán presentar un informe anual ante la Comisión de Administración, sobre la aplicación de los mismos y acreditar su utilización de acuerdo a las políticas, que al efecto señale la Comisión de Gobierno.
 
 ###### ARTICULO 82.
 
@@ -763,11 +813,13 @@ Se propiciará que todos los grupos parlamentarios tengan derecho a estar repres
 
 DE LOS GRUPOS PARLAMENTARIOS
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 83.
 
-Los Grupos Parlamentarios acreditarán un representante en la Gran Comisión, quien estará facultado para tomar decisiones ante éste órgano, en representación de los demás integrantes de su correspondiente grupo, por lo que se podrá publicar su decisión como si ésta hubiere sido acordada por todos sus integrantes.
+Los Grupos Parlamentarios acreditarán un representante de la Comisión de Gobierno, quien estará facultado para tomar decisiones ante éste órgano, en representación de los demás integrantes de su correspondiente grupo, por lo que se podrá publicar su decisión como si ésta hubiere sido acordada por todos sus integrantes.
 
-Al representante acreditado ante la Gran Comisión se le reconocerá con el carácter de Coordinador de Grupo Parlamentario y tendrá la representación legal del mismo ante todas las instancias.
+Al representante acreditado ante la Comisión de Gobierno se le reconocerá con el carácter de Coordinador de Grupo Parlamentario y tendrá la representación legal del mismo ante todas las instancias.
 
 ###### ARTICULO 84.
 
@@ -777,9 +829,11 @@ Corresponde a los Diputados Integrantes de cada grupo parlamentario decidir sobr
 
 ### CAPITULO I. DE LA CONTADURÍA MAYOR DE HACIENDA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 85.
 
-En la primera sesión que verifique la Legislatura después de la apertura de su primer período ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Contaduría Mayor de Hacienda, de una terna que al efecto proponga la Gran Comisión.
+En la primera sesión que verifique la Legislatura después de la apertura de su primer período ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Contaduría Mayor de Hacienda, de una terna que al efecto proponga la Comisión de Gobierno.
 
 La Contaduría Mayor de Hacienda, es una dependencia de la Legislatura, y es el órgano de asesoría de la Comisión de Hacienda, por medio de esta, la H. Legislatura implementa el cumplimiento de sus facultades en materia hacendaría, de fiscalización y control de la Administración Pública Centralizada y Descentralizada Estatal y Municipal y de los organismos públicos autónomos. Se integrará y sujetará a lo que establece su Ley Orgánica.
 
@@ -803,9 +857,11 @@ VII.- No haber desempeñado en el periodo inmediato anterior, puestos de respons
 
 ### CAPITULO II. DE LA OFICIALÍA MAYOR
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 87.
 
-En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Oficialía Mayor de una terna que al efecto proponga la Gran Comisión
+En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Oficialía Mayor de una terna que al efecto proponga la Comisión de Gobierno.
 
 ###### ARTICULO 88.
 
@@ -855,9 +911,11 @@ El Oficial Mayor rendirá mensualmente informe sobre los asuntos de su competenc
 
 DE LA TESORERÍA.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 92.
 
-En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Tesorería, de una terna que al efecto proponga la Gran Comisión.
+En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Tesorería, de una terna que al efecto proponga la Comisión de Gobierno.
 
 ###### ARTICULO 93.
 
@@ -897,9 +955,11 @@ IX.- Los demás que señale esta Ley, la Comisión de Administración y la H. Le
 
 LEGISLATIVOS
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 95.
 
-En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Dirección de Asuntos Legislativos, de una terna que al efecto proponga la Gran Comisión.
+En la primera sesión que verifique la Legislatura después de la apertura de su primer periodo ordinario de sesiones del año de inicio de su ejercicio, los Diputados deberán elegir al titular de la Dirección de Asuntos Legislativos, de una terna que al efecto proponga la Comisión de Gobierno.
 
 ###### ARTICULO 96.
 
@@ -943,7 +1003,9 @@ XII.- Opinar sobre la necesidad y conveniencia de adquirir publicaciones, libros
 
 XIII.- Formar las colecciones de leyes, y decretos que se publiquen en el Periódico Oficial del Gobierno del Estado;
 
-XIV.- Bajo la supervisión de la Gran Comisión, la impresión, publicación y distribución del diario de los debates, y
+> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 1998)</small>
+
+XIV.- Bajo la supervisión de la Comisión de Gobierno, la impresión, publicación y distribución del diario de los debates, y
 
 XV.- Las demás que le señalen esta Ley y la H. Legislatura.
 
@@ -953,9 +1015,11 @@ XV.- Las demás que le señalen esta Ley y la H. Legislatura.
 
 El Instituto de Estudios Legislativos es una dependencia de la H. Legislatura del Estado, que tendrá por objeto el fortalecimiento del trabajo parlamentario, mediante la investigación y profundización en el conocimiento y difusión de las leyes y el trabajo de la H. Legislatura, de las técnicas parlamentarias y de aquellas áreas del conocimiento determinantes para el buen desempeño del Poder Legislativo, llevando a cabo tareas de investigación, desarrollo y superación de los Diputados y rescatando, preservando y acrecentando el acervo documental, histórico, teórico y doctrinario relacionado con la función legislativa en el Estado, así como la constancia escrita del desarrollo de las sesiones, los debates y resoluciones que emita el Pleno, para, oportunamente, difundirlo al pueblo de Querétaro.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1998)</small>
+
 ###### ARTICULO 99.
 
-Después de la apertura del primer periodo ordinario de sesiones de la H. Legislatura del año de inicio del ejercicio, los Diputados deberán elegir al titular del Instituto de Estudios Legislativos, de una terna que al efecto proponga la Gran Comisión.
+Después de la apertura del primer periodo ordinario de sesiones de la H. Legislatura del año de inicio del ejercicio, los Diputados deberán elegir al titular del Instituto de Estudios Legislativos, de una terna que al efecto proponga la Comisión de Gobierno.
 
 ###### ARTICULO 100.
 
@@ -1210,3 +1274,71 @@ N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRET
 P.O. 21 DE AGOSTO DE 1998
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO.
+
+P.O.16 DE OCTUBRE DE 1998
+
+LEY QUE REFORMA A LOS ARTICULOS 49 Y 74 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO.
+
+PRIMERO.- La presente Ley iniciará su vigencia el día de su aprobación por la Legislatura en los términos del párrafo segundo del artículo 36 de la Constitución Política del Estado.
+
+SEGUNDO.- La Presidencia y Secretaría de la Gran Comisión, para el plazo constitucional restante de la LII Legislatura, serán ocupadas por los coordinadores de los Grupos Parlamentarios en el siguiente orden:
+
+a) Del 1 de Junio al 31 de diciembre de 1998
+
+Presidente- Dip. Ernesto Luque Feregrino. P.R.I.
+
+Secretario- Dip. Francisco Javier Borbolla Alegría. P.C.
+
+b) Del 1 de enero al 30 de abril de 1999
+
+Presidente- Dip. Jesús Martínez Gómez. P.T.
+
+Secretario- Dip. Patricia Carrera Orea. P.V.E.M.
+
+c) Del 1 de Mayo al 30 de Agosto de 1999
+
+Presidente- Dip. Patricia Carrera Orea. P.V.E.M.
+
+Secretario- Dip. Martín Mendoza Villa. P.R.D.
+
+d) Del 1 de septiembre de 1999 al 15 de enero del año 2000
+
+Presidente- Dip. Martín Mendoza Villa. P.R.D.
+
+Secretario- Dip. Ramón Lorense Hernández. P.A.N.
+
+e) Del 16 de enero al 15 de mayo del 2000
+
+Presidente- Dip. Francisco Javier Borbolla Alegría. P.C.
+
+Secretario- Dip Jesús Martínez Gómez. P.T.
+
+f) Del 16 de mayo al 25 de septiembre del año 2000
+
+Presidente- Dip. Ramón Lorense Hernández. P.A.N.
+
+Secretario- Dip. Ernesto Luque Feregrino. P.R.I.
+
+TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+CUARTO.- Se derogan todas las disposiciones en cuanto se opongan a la presente.
+
+P.O.16 DE OCTUBRE DE 1998
+
+LEY QUE REFORMA LOS ARTICULOS 20, 24-III, 49, 50, 51, 52, 53, 55, 57, 74, 75, 76-VI, 81, 83, 85, 87, 92, 95, 97-XIV Y 99 DE LA LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE QUERETARO.
+
+###### ARTICULO PRIMERO.
+
+Esta ley entrará en vigor una vez que sea aprobada por el Pleno de la H. Legislatura, aplicándose lo dispuesto en el párrafo segundo del artículo 36 de la Constitución Política del Estado.
+
+###### ARTICULO SEGUNDO.
+
+La denominación de Comisión de Gobierno, surtirá efectos en el Reglamento para el Gobierno Interior y de Debates del Poder Legislativo del Estado de Querétaro Arteaga.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que contravengan a la presente Ley.
+
+###### ARTICULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
