@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2001-06-18"
+last_updated: "2001-06-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2001.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -185,11 +185,11 @@ El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho
 
 ### CAPITULO III. DE LAS ELECCIONES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 14.
 
-Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
+Las elecciones de Gobernador del Estado, de Diputados del Congreso del Estado y de los Presidentes Municipales, Síndicos Procuradores y Regidores de los Ayuntamientos, se realizarán mediante sufragio universal, libre, secreto y directo. Se resolverán a mayoría de sufragios y conforme al principio de representación proporcional, se verificarán el segundo domingo del mes de noviembre del año que corresponda y con sujeción a las disposiciones de la Ley Reglamentaria correspondiente.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
@@ -217,9 +217,9 @@ El Consejo Estatal se integrará por un presidente, por consejeros ciudadanos, c
 
 La ley establecerá un sistema de medios de impugnación con los plazos convenientes para el desahogo de todas las instancias impugnativas, de los que conocerán el organismo público autónomo a que se refiere el primer párrafo de este artículo y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad. En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1995)</small>
+(REFORMADO, P.O. 20 DE JUNIO DE 2001) (F. DE E. P.O. 29 DE JUNIO DE 2001)
 
-El organismo público autónomo de referencia, conforme a las disposiciones de la ley, declarará la validez de las elecciones de Diputados y Regidores por ambos principios y Presidentes Municipales, y otorgará las constancias de mayoría y asignación respectivas, las que podrán ser impugnadas, en los términos que señala la ley.
+El organismo público autónomo de referencia, conforme a las disposiciones de la ley, declarará la validez de las elecciones de Diputados y Regidores por ambos principios, Presidentes Municipales y Síndicos Procuradores, y otorgará las constancias de mayoría y asignación respectivas, las que podrán ser impugnadas, en los términos que señala la ley.
 
 > <small>(REFORMADO, P.O. 23 DE ENERO DE 1998)</small>
 
@@ -271,7 +271,7 @@ IV. En los Distritos electorales que designe la Ley Orgánica respectiva.
 
 ## TITULO V. DEL MUNICIPIO LIBRE
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ### CAPITULO I. DE LA DIVISION DEL PODER PUBLICO
 
@@ -537,9 +537,9 @@ XIII. Elegir al ciudadano que deba substituir al Gobernador del Estado, con el c
 
 XIV. Elegir a los Magistrados del Supremo Tribunal de Justicia del Estado en la forma que esta Constitución precise.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XV. Elegir Presidente Municipal y Regidores sustitutos en casos de vacante.
+XV. Elegir Presidente Municipal, Síndicos Procuradores y Regidores sustitutos en casos de vacante.
 
 XVI. Desempeñar todas las funciones que le encomiende la Ley Electoral para Poderes Federales.
 
@@ -559,13 +559,13 @@ XX. Conocer de las imputaciones formuladas mediante juicio político en contra d
 
 XXI. Expedir anualmente la Ley de Ingresos y Egresos del Estado.
 
-> <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XXII. Revisar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para tal efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las Tesorerías Municipales.
+XXII. Revisar y fiscalizar por medio de la Contaduría Mayor de Hacienda, la documentación comprobatoria y justificativa de los movimientos contables realizados por el Gobierno del Estado y por los Municipios. Para tal efecto, dicha documentación deberá mantenerse en todo momento a disposición del Congreso del Estado. La revisión y fiscalización de dichas cuentas no se limitará a precisar el ingreso y a investigar si las cantidades gastadas están o no de acuerdo con el presupuesto aprobado, sino que se extenderá a la formulación de las observaciones que procedan y a expedir los finiquitos o, en su caso, a dictar las medidas tendientes a fincar las responsabilidades de los servidores públicos a quienes les sean imputables, y efectuar, cuando menos una vez al año, visitas de inspección a todas y cada una de las Tesorerías Municipales.
 
-> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 1994)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-XXII Bis. Revisar el informe que rinda la Contaduría Mayor de Hacienda sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes.
+XXII BIS. Revisar y fiscalizar el informe que rinda la Contaduría Mayor de Hacienda sobre la aplicación de los recursos públicos estatales o municipales, asignados a los organismos descentralizados de participación estatal o municipal, en los términos previstos por las leyes.
 
 > <small>(REFORMADA, P.O. 20 DE ABRIL DE 1994)</small>
 
@@ -691,9 +691,9 @@ I. Recibir y despachar la correspondencia del Congreso, resolviendo sólo los as
 
 II. Abrir dictamen sobre todos los asuntos que hubieren quedado sin resolución en los expedientes y sobre los que en el receso del Congreso se presentaren, para dar a éste cuenta con ellos en el próximo período de su reunión.
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-III. Elegir Presidente Municipal y Regidores sustitutos en casos de vacante.
+III. Elegir Presidente Municipal, Regidores y Síndicos Procuradores Sustitutos de los Ayuntamientos en caso de vacante.
 
 IV. Convocar al Congreso a sesiones extraordinarias cuando proceda.
 
@@ -831,9 +831,9 @@ I. Sancionar, promulgar, reglamentar y ejecutar las leyes y decretos que expida 
 
 II. Nombrar y remover a los servidores públicos de su dependencia cuyo nombramiento y remoción no estén determinados de otro modo en la Constitución y demás leyes, así como concederles licencias y admitirles sus renuncias.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-III. Tener el mando de la fuerza pública en el Estado y en el Municipio donde residiera habitual o transitoriamente, pudiendo en estos casos nombrar al titular de la seguridad pública municipal, a propuesta del Presidente Municipal que corresponda; y podrá removerlo con causa justificada.
+III. Tener el mando de la fuerza pública en el Estado. En los casos en que el Gobernador del Estado juzgue como de fuerza mayor o alteración grave del orden público podrá transmitir órdenes a la Policía Preventiva Municipal, quien deberá acatarlas;
 
 En los casos de perturbación grave de la tranquilidad pública en alguno o varios lugares de uno o más Municipios, el Gobernador del Estado nombrará y removerá libremente al Inspector y demás miembros de la Policía del Municipio o Municipios donde hubiere causas de intranquilidad.
 
@@ -1389,7 +1389,7 @@ Se instituye la Jurisdicción Administrativa para conocer de las controversias q
 
 ### CAPITULO II. DEL JUICIO POLITICO
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ### CAPITULO III. DE LA DECLARATORIA DE PROCEDENCIA POR LA COMISION DE DELITOS
 
@@ -1405,55 +1405,59 @@ Se instituye la Jurisdicción Administrativa para conocer de las controversias q
 
 ###### Art. 110.
 
-Los Municipios tendrán personalidad jurídica y patrimonio propios y serán representados y administrados por un Ayuntamiento de elección popular directa, que residirá en la Cabecera Municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y los Poderes del Estado.
-
-Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas los Síndicos y Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-###### Art. 111.
-
-Compete a los Ayuntamientos el ejercicio de la función municipal, con las facultades y limitaciones establecidas en esta Constitución y las leyes que de ellas (sic) emanen, correspondiendo al Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-###### Art. 112.
-
-La elección directa de Presidente Municipal y de los Regidores, se verificará cada 3 años y entrará en funciones el día 1 de enero, previa protesta que otorgarán ante el Ayuntamiento saliente.
-
-Por cada Regidor Propietario se elegirá un suplente.
-
-Los Municipios, cualquier (sic) que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DEL 2000)</small>
-
-I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal 11 Regidores de Mayoría Relativa y 7 Regidores de Representación Proporcional.
-
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DEL 2000)</small>
-
-II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal 8 Regidores de Mayoría Relativa y 5 Regidores de Representación Proporcional.
-
-III. Los de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, 6 Regidores de Mayoría Relativa y 4 Regidores de Representación Proporcional.
-
-La Ley determinará forma y procedimiento para la asignación de Regidores de Representación Proporcional.
-
-###### Art. 113.
-
-(DEROGADO, P.O. 27 DE MARZO DE 1995)
-
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
-
-###### Art. 114.
-
-El cargo de Presidente Municipal y de Regidor será obligatorio pero no gratuito, y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
+Los Municipios tendrán personalidad jurídica y patrimonio propios y serán gobernados por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y el número de Síndicos Procuradores y Regidores que la ley determine, que residirá en la cabecera municipal. No habrá ninguna autoridad intermedia entre el Ayuntamiento y los poderes del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
+Los Municipios se dividirán en Sindicaturas y éstas en Comisarías, en cuyas jurisdicciones ejercerán las funciones ejecutivas y administrativas los Síndicos y Comisarios Municipales, respectivamente. Unos y otros serán nombrados cada tres años por el Ayuntamiento de la Municipalidad que corresponda y removidos libremente por el mismo.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+
+###### Art. 111.
+
+Compete a los Ayuntamientos y en su caso a los Concejos Municipales, ejercer de manera exclusiva el gobierno municipal, conforme a las disposiciones que establece la Constitución Federal, esta Constitución y las leyes que de ellas emanen, correspondiendo al Presidente Municipal ejercer las atribuciones ejecutivas y representativas, llevar la jefatura política y administrativa de la municipalidad y presidir las sesiones del Cabildo.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+
+###### Art. 112.
+
+La elección directa del Presidente Municipal, Regidores y Síndicos Procuradores, se verificará cada tres años y entrarán en funciones el día primero de enero, previa protesta que otorgarán ante el Ayuntamiento saliente.
+
+Por cada Regidor y Síndico Procurador Propietarios se elegirá un Suplente.
+
+Los municipios, cualquiera que sea su número de habitantes, integrarán sus Ayuntamientos de conformidad con lo siguiente:
+
+I. Los de Ahome, Guasave, Culiacán y Mazatlán, con un Presidente Municipal, un Síndico Procurador, once Regidores de Mayoría Relativa y siete Regidores de Representación Proporcional.
+
+II. Los de El Fuerte, Sinaloa, Salvador Alvarado, Mocorito, Navolato, Rosario y Escuinapa, con un Presidente Municipal, un Síndico Procurador, ocho Regidores de Mayoría Relativa y cinco Regidores de Representación Proporcional.
+
+III. Los Municipios de Choix, Angostura, Badiraguato, Cosalá, Elota, San Ignacio y Concordia, con un Presidente Municipal, un Síndico Procurador, seis Regidores de Mayoría Relativa y cuatro Regidores de Representación Proporcional.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+
+###### Art. 113.
+
+La Policía Preventiva Municipal estará al mando del Presidente Municipal, en los términos del Reglamento correspondiente y acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
+
+El Ejecutivo Federal tendrá el mando de la fuerza pública en los Municipios donde resida habitual o transitoriamente.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+
+###### Art. 114.
+
+El cargo de Presidente Municipal, de Regidor y de Síndico Procurador será obligatorio pero no gratuito y sólo será renunciable por causa justificada a juicio del Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
+
 ###### Art. 115.
 
-Para ser Regidor se requiere:
+Para ser Regidor o Síndico Procurador del Ayuntamiento se requiere:
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
 II. Ser originario o vecino de la municipalidad en que se elija cuando menos con un año antes de la elección.
 
@@ -1477,11 +1481,11 @@ II. Ser originario de la municipalidad que lo elija o vecino de ella cuando meno
 
 (DEROGADO, P.O. 27 DE ENERO DE 1984)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 117.
 
-Los Presidentes Municipales y Regidores de los Ayuntamientos, de elección popular directa, no podrán ser reelectos para el período inmediato.
+Los Presidente (sic) Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos de elección popular directa no podrán ser reelectos para el período inmediato.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1493,7 +1497,9 @@ Quienes por elección indirecta, por nombramiento o designación de parte de alg
 
 El Congreso del Estado, por acuerdo de las dos terceras partes de sus miembros, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus integrantes, por cualesquiera de las causas graves que prevenga la Ley, condicionándose lo anterior a que sean oídos en defensa de sus derechos y tengan la oportunidad suficiente para rendir pruebas y formular alegatos.
 
-En caso de declararse desaparecido un Ayuntamiento o de renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entraren en funciones los Suplentes, ni que se celebraren nuevas elecciones, el Congreso del Estado designará, de entre los vecinos a un Concejo Municipal que cubrirá el período respectivo. Dicho Concejo rendirá la protesta de Ley ante el propio Congreso.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
+
+En caso de declararse desaparecido un Ayuntamiento, o por renuncia, o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procediere que entren en funciones los Suplentes, ni que se celebren nuevas elecciones, el Congreso del Estado designará, de entre los vecinos a un Concejo Municipal que concluirá el período respectivo; estos Concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores. Dicho Concejo rendirá la protesta de Ley ante el propio Congreso del Estado.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1507,37 +1513,41 @@ Cuando la ausencia excediere del tiempo señalado en el párrafo anterior, el Pr
 
 En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 120.
 
-Cuando algún Regidor dejare de desempeñar su cargo, será sustituído por su suplente. Las vacantes serán cubiertas por designación que haga el Congreso del Estado.
+Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será sustituido por su Suplente, o se procederá según lo disponga la Ley.
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 121.
 
-Los Municipios, con el concurso del Ejecutivo del Estado, o de los organismos públicos paraestatales, cuando así fuera necesario o lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+Los municipios tendrán a su cargo las funciones y servicios públicos siguientes:
 
-I. Agua potable y alcantarillado;
+a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
 
-II. Aseo y Limpia;
+b) Alumbrado público;
 
-III. Alumbrado público;
+c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
-IV. Mercados, rastro y centrales de abasto;
+d) Mercados y centrales de abastos;
 
-V. Panteones;
+e) Panteones;
 
-VI. Calles, parques y jardines;
+f) Rastro;
 
-VII. Seguridad Pública y tránsito;
+g) Calles, parques y jardines, y su equipamiento;
 
-VIII. Educación pública, conforme a la distribución de la función educativa que fijen las leyes entre la Federación el Estado y los Municipios; y,
+h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y 73 y 74 de esta Constitución, policía preventiva municipal y tránsito;
 
-IX. Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+i) Educación pública, conforme a la distribución de la función educativa que fijen las leyes entre la Federación, el Estado y los Municipios; y
 
-Los Municipios, previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les correspondan.
+j) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas.
+
+Sin perjuicio de su competencia constitucional, en el desempeño de sus funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y esta Constitución.
+
+Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado de Sinaloa con Municipios de otras entidades federativas, aquéllos deberán contar con la aprobación del Congreso del Estado. Así mismo, cuando a juicio del ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien, se presten o ejerzan coordinadamente por el Estado y el propio municipio.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1561,15 +1571,17 @@ IV. Los ingresos derivados de la prestación de servicios públicos a su cargo; 
 
 V. Las Contribuciones y tasas adicionales que se establezcan en el Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio de valor de los inmuebles. Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
 
-No podrán establecerse exenciones o subsidios respecto a los ingresos señalados en las fracciones IV y V de este artículo, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado o de los Municipios estarán exentos de las contribuciones señaladas en las fracciones IV y V de este artículo.
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
+No podrán establecerse exenciones o subsidios respecto a los ingresos señalados en las fracciones IV y V de este artículo en favor de personas o institución alguna respecto de dichas contribuciones. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de contribuciones señaladas en las fracciones IV y V de este artículo, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 124.
 
-El Congreso aprobará las leyes de ingresos de los Ayuntamientos y revisará sus cuentas públicas.
+El Congreso del Estado aprobará las Leyes de Ingresos de los Municipios y revisará y fiscalizará sus cuentas públicas.
 
-Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1579,33 +1591,67 @@ Son facultades de los Ayuntamientos:
 
 I. Gobernar política y administrativamente el Municipio correspondiente;
 
-II. Expedir los bandos de policía y buen gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones, de acuerdo con las bases normativas establecidas en esta Constitución y las Leyes;
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+
+II. Aprobar y expedir los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organice la administración pública municipal, regule las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal, de acuerdo con las leyes que en materia municipal expida el Congreso del Estado.
+
+Las leyes en materia municipal deberán establecer:
+
+a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;
+
+b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al período del ayuntamiento;
+
+c) Las normas de aplicación general para celebrar los convenios a que se refieren las fracciones III y IV del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el segundo párrafo de la fracción VII del artículo 116 de dicho texto;
+
+d) El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir convenio correspondiente, el Congreso del Estado considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; siendo necesario en este caso solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y
+
+e) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
+
+El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquellos, con motivo de los actos derivados de los incisos c) y d) anteriores;
 
 III. Nombrar a su personal y remover libremente a sus empleados de confianza;
 
 IV. Conceder licencias y admitir las renuncias de sus propios miembros y del personal a su servicio;
 
-V. Con sujeción a las leyes federales y estatales relativas, podrán:
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
 
-A). Formular, aprobar y administrar la zonificación y planes de desarrollo urbano y municipal.
+V. Con sujeción a las leyes federales y estatales relativas podrán:
 
-B). Participar en la creación y administrar sus reservas territoriales.
+a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;
 
-C). Controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales.
+b) Participar en la creación y administración de sus reservas territoriales;
 
-D). Intervenir en la regularización de la tenencia de la tierra urbana.
+c) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;
 
-E). Otorgar licencias y permisos para construcciones.
+d) Intervenir en la regularización de la tenencia de la tierra urbana;
 
-F). Participar en la creación y administrar sus zonas de reservas ecológicas.
+e) Otorgar licencias y permisos para construcciones;
 
-Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+f) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;
+
+g) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional por sí o en coordinación con la federación, deberán asegurar la participación de los municipios;
+
+h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial; e
+
+i) Celebrar convenios para la administración y custodia de las zonas federales.
+
+Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarias;
 
 VI. Fijar y modificar la división de sus Municipalidades, en Sindicaturas y Comisarías y designar y remover las cabeceras respectivas, con la ratificación del Congreso del Estado.
 
 VII. Vigilar las escuelas oficiales y particulares de su jurisdicción, coadyuvando para que la asistencia escolar sea efectiva e informar al Ejecutivo del Estado sobre las deficiencias que se observen; y
 
-VIII. Las demás que les señalen las leyes.
+> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2001)</small>
+
+VIII. Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios del suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2001)</small>
+
+IX. Ejercer en forma directa, o por quien los ayuntamientos autoricen conforme a la ley, los recursos que integran la hacienda municipal; y
+
+> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2001)</small>
+
+X. Las demás que les señalen las leyes.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1661,7 +1707,7 @@ Ningún servidor público del Gobierno del Estado y de los Ayuntamientos tiene d
 
 ###### Art. 132.
 
-Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del Artículo 130, así como los Presidentes Municipales y Regidores de los Ayuntamientos.
+Podrán ser sujetos de juicio político, para sancionar su responsabilidad, el Gobernador, los Diputados Locales, los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados de las Salas de Circuito del Poder Judicial del Estado, los Secretarios del Despacho del Poder Ejecutivo, el Procurador General de Justicia y los Jueces de Primera Instancia, así como los Titulares y Directores, o sus equivalentes, de las entidades, instituciones u organismos que integren la administración pública paraestatal conforme al primer párrafo del artículo 130, así como los Presidentes Municipales, Regidores y Síndicos Procuradores de los Ayuntamientos.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -1805,9 +1851,9 @@ II. La protesta se pide y se dá por interpelación entre los siguientes servido
 
 (4).- A los Magistrados, los Secretarios y demás servidores públicos de las Salas de Circuito; a los Secretarios y demás servidores públicos del Supremo Tribunal de Justicia y de las Salas; así como a los Jueces de Primera Instancia, les tomará la protesta el Presidente de aquel alto cuerpo, ante el Tribunal en Pleno. A los Jueces Menores les tomará la protesta el de Primera Instancia de su Jurisdicción.
 
-> <small>(REFORMADO, P.O. 01 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
-(5).- Al Presidente Municipal y a los Regidores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo, el Presidente del Ayuntamiento saliente en sesión plena de éste. A los Regidores que se presenten después y a los suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
+(5).- Al Presidente Municipal, a los Regidores y Síndicos Procuradores del Ayuntamiento que va a instalarse, les tomará la protesta en grupo, el Presidente del Ayuntamiento saliente en sesión pública de éste. A los Regidores y Síndicos Procuradores que se presenten después y a los Suplentes que entren en ejercicio, el Presidente en funciones, en la sesión que corresponda.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1985)</small>
 
@@ -1839,11 +1885,11 @@ VII. Es ilegal la protesta rendida ante una autoridad no protestada.
 
 Todo servidor público, recibirá una remuneración adecuada, equitativa e irrenunciable por el desempeño de su cargo, empleo o comisión, la cual será fijada anualmente en el presupuesto de egresos del Estado, de los Municipios o de las Entidades Paraestatales, según sea el caso.
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2001)</small>
 
 ###### Art. 146.
 
-Al expedir y reformar el Congreso de (sic) Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos según las condiciones del erario, pero todo aumento que decreta las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal y los Regidores.
+Al expedir y reformar el Congreso del Estado la Ley de Ingresos y Presupuesto de Egresos, podrán aumentarse o disminuirse los sueldos de los servidores públicos según las condiciones del erario, pero todo aumento que decrete las dietas de sus propios miembros no tendrá efecto sino hasta la próxima Legislatura. Esta misma prevención se observará por los Ayuntamientos en su respectiva relación con el Presidente Municipal, los Regidores y los Síndicos Procuradores.
 
 ###### Art. 147.
 
@@ -2754,6 +2800,18 @@ Artículo Segundo.- El Congreso del Estado por conducto de su Comisión de Derec
 Artículo Tercero.- En tanto el Congreso del Estado expide las reformas a la Ley de la Comisión Estatal de los Derechos Humanos, ésta ejercerá sus atribuciones y competencia conforme a lo dispuesto por el presente decreto y ley reglamentaria vigente hasta dicha expedición.
 
 Artículo Cuarto.- El ejercicio de las funciones y facultades del Presidente y de los Consejeros actuales que integran el Consejo Consultivo de la Comisión Estatal de Derechos Humanos concluirá al término del periodo para el cual fue electo el primero.
+
+P.O. 20 DE JUNIO DE 2001.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa", salvo lo previsto en los siguientes artículos.
+
+Artículo Segundo.- Las reformas o adiciones a los artículos 14, 15, 43, 50, 112, 114, 115, 117, 132, 144 y 146, entrarán en vigor el 15 de enero del año 2004, para ser observadas en el proceso electoral de ese año.
+
+En tanto entran en vigor las reformas y adiciones a que se refiere este artículo, se continuarán aplicando las disposiciones vigentes.
+
+Artículo Tercero.- La integración de los Ayuntamientos, con un Presidente Municipal, Síndicos Procuradores y Regidores, a que se refiere el presente Decreto, será aplicable a los Ayuntamientos que inician su ejercicio constitucional a partir del primero de enero de 2005.
+
+Artículo Cuarto.- El Estado deberá adecuar sus leyes conforme a lo dispuesto en este Decreto a más tardar el treinta de noviembre del año 2001.
 
 ###### ARTÍCULO PRIMERO.
 
