@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-puertos-8972"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-21"
-last_updated: "1998-11-16"
+last_updated: "2000-08-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8972&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-11-18"
 
 REGLAMENTO DE LA LEY DE PUERTOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE AGOSTO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 21 de noviembre de 1994.
 
@@ -94,6 +94,20 @@ Para la debida y oportuna integración de las estadísticas portuarias, los conc
 Los administradores, operadores, concesionarios, permisionarios, prestadores de servicios y usuarios deberán poner en conocimiento de la capitanía las operaciones relacionadas con sus actividades portuarias, en la forma que determine la Secretaría.
 
 ### CAPITULO II. OBRAS
+
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+###### Artículo 8.
+
+Las solicitudes para ejecutar obras, deberán contener los requisitos establecidos en las fracciones I a IV y VI del artículo 17 de este Reglamento, además de lo siguiente:
+
+I. Los montos de inversión;
+
+II. Título de concesión, en su caso, de la zona federal marítimo terrestre o zona federal terrestre, y
+
+III. Autorización en materia de impacto ambiental para realizar la obra.
+
+La Secretaría deberá dar respuesta a las solicitudes en un plazo que no exceda de cuarenta y cinco días naturales contados a partir de la recepción de la misma.
 
 ###### Artículo 8o.
 
@@ -175,11 +189,19 @@ V. La descripción de los servicios que se pretendan prestar;
 
 VI. La acreditación de que cuenta con los recursos financieros, materiales y humanos para realizar el proyecto;
 
-VII. Los títulos de propiedad de los terrenos colindantes, inscritos en el Registro Público de la Propiedad y certificados por fedatario público, y
+VII. Los títulos de propiedad de los terrenos colindantes, inscritos en el Registro Público de la Propiedad y certificados por fedatario público, y (sic)
 
-VIII. La demás información que el solicitante considere conveniente.
+> <small>(ADICIONADA, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+VIII. La garantía de trámite que fije la Secretaría, y
+
+IX. La demás información que el solicitante considere conveniente.
 
 La Secretaría podrá requerir información adicional relacionada con la concesión solicitada, y resolverá en un plazo no mayor de sesenta días hábiles, a partir de que se cumplan los anteriores requisitos. En caso de que no responda, se considerará denegada.
+
+> <small>(ADICIONADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
+La Secretaría fijará el monto de la garantía que deberá otorgar el concesionario para garantizar el cumplimiento de las obligaciones, la cual se actualizará y mantendrá vigente durante todo el tiempo de la concesión.
 
 ###### Artículo 18.
 
@@ -207,17 +229,33 @@ Las concesiones podrán ser rescatadas por el Ejecutivo Federal, mediante indemn
 
 ### CAPITULO IV. PERMISOS
 
+> <small>(REFORMADO, D.O.F. 8 DE AGOSTO DE 2000)</small>
+
 ###### Artículo 21.
 
-Para obtener cualquiera de los permisos previstos en la Ley, y de acuerdo con la naturaleza de la obra o servicio, el interesado deberá presentar solicitud por escrito a la Secretaría con los requisitos establecidos en las fracciones I a VI del artículo 17 de este Reglamento, además de los siguientes:
+Para obtener permiso para construir y usar embarcaderos, atracaderos, botaderos y demás similares, se requerirá solicitud por escrito a la Secretaría, indicando el uso que se le pretende dar a la obra, acompañada con los requisitos establecidos en las fracciones I a III del artículo 8o. y I a IV, VI, VIII y IX del artículo 17 de este Reglamento, así como la cédula del Registro Federal de Contribuyentes.
 
-I. Los compromisos de calidad y productividad;
+Para construir las obras antes descritas, en zonas fluviales o lacustres, de uso particular, deberá presentar los requisitos señalados en las fracciones I a III del artículo 8o. y I, II, VIII y IX del artículo 17 de este Reglamento, además de croquis de localización que contenga las técnicas de construcción, la cédula del Registro Federal de Contribuyentes.
 
-II. El título de concesión, en su caso, de la zona federal marítimo terrestre, y
+Para obtener permiso para prestar servicios portuarios se deberán presentar los documentos señalados en las fracciones I, II, V, VI, VIII y IX del artículo 17, además de lo siguiente:
 
-III. La demás información que el solicitante considere conveniente.
+I. En todos los casos:
 
-La Secretaría fijará la garantía para el trámite y podrá, a su vez, requerir información adicional relacionada con la obra o prestación del servicio de que se trate, si fuere necesario.
+a) Características técnicas del servicio;
+
+b) Los compromisos de calidad;
+
+c) Las metas de productividad calendarizadas;
+
+d) Montos de inversión, y
+
+e) Cédula del Registro Federal de Contribuyentes;
+
+II. Para prestar el servicio de combustibles, además la franquicia de Petróleos Mexicanos;
+
+III. Para prestar el servicio de suministro de agua potable, además la autorización de la Comisión Nacional del Agua, y
+
+IV. Para el servicio de recolección de basura y eliminación de aguas residuales, además la autorización de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca.
 
 ###### Artículo 22.
 
@@ -1040,3 +1078,9 @@ VIII. Reglamento de los capítulos III, IV y V de la Ley para el Desarrollo de l
 IX. Reglamento del Padrón de Abanderamiento Mexicano, publicado en el Diario Oficial de la Federación el 7 de marzo de 1986.
 
 Asimismo, se derogan el artículo 55 del Reglamento de la Ley de Puertos y todas las disposiciones reglamentarias y administrativas que se opongan al presente Reglamento.
+
+D.O.F. 8 DE AGOSTO DE 2000.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS QUE SE ENCUENTRAN RELACIONADOS CON EL PRESENTE REGLAMENTO.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
