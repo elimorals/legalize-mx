@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-3238"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-31"
-last_updated: "1999-03-12"
+last_updated: "2003-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE MARZO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL PERIODICO OFICIAL DEL 29 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 31 de enero de 1984.
 
@@ -804,3 +806,19 @@ El Poder Judicial, en un plazo no mayor de 30 días a partir de la fecha en que 
 ###### ARTICULO CUARTO.
 
 Los Ayuntamientos del Estado, en un plazo no mayor de 30 días a partir de la fecha en que entre en vigor la presente Reforma, ordenarán que se establezca en el reglamento correspondiente la forma en que se harán públicas y se publicitarán las declaraciones patrimoniales de los servidores públicos titulares del Ayuntamiento.
+
+P.O. 29 DE AGOSTO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California, publicada en el Periódico Oficial del Estado con fecha 31 de Enero de 1984 y todas las disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos para determinar responsabilidades administrativas que se encuentren en trámite, serán substanciadas y resueltos de conformidad con la Ley de Responsabilidades que se abroga.
+
+Para efectos de este artículo, se entenderá que un asunto se encuentra en trámite desde el momento de la citación a que se refiere la fracción I del Artículo 58 de la Ley abrogada.
