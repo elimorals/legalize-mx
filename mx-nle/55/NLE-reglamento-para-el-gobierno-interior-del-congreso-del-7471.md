@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "2003-12-19"
+last_updated: "2003-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -49,11 +49,11 @@ El Congreso del Estado tiene las facultades que expresamente le señala la Const
 
 ### CAPITULO II. DE LAS JUNTAS PREPARATORIAS Y DE LA INSTALACION DE LA LEGISLATURA
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 3o.
 
-Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a los Artículos 167 al 171, de la Ley Electoral del Estado y entregadas las respectivas credenciales, los interesados se presentarán al recinto del Congreso quince días antes de la Apertura de las Sesiones, en el año de su instalación a las once horas para iniciar las Juntas Preparatorias correspondientes.
+Calificadas las elecciones de Diputados con arreglo a la Constitución Política del Estado de Nuevo León y a los Artículos 167 al 171, de la Ley Electoral del Estado y entregadas las respectivas credenciales, los interesados se presentarán al Recinto del Congreso el día 16 de agosto del año de su instalación a las once horas para iniciar las Juntas Preparatorias correspondientes.
 
 ###### Artículo 4o.
 
@@ -81,9 +81,11 @@ e) Clausura de la Primer Junta Preparatoria.
 
 Las dos Comisiones Revisoras estarán integradas por tres miembros, un Presidente y dos vocales, la primera se encargará de revisar las credenciales del resto de los presuntos Diputados y la segunda revisará las credenciales de los integrantes de la Primera Comisión Revisora.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 7o.
 
-En la Junta Preparatoria que se efectuará a partir de las once horas del tercer día siguiente al de la iniciación de dichas juntas, las Comisiones revisoras rendirán sus dictámenes a la consideración de los presuntos diputados para su aprobación.
+En la Junta Preparatoria que se efectuará a partir de las once horas del 19 de agosto del año de la elección, las Comisiones revisoras rendirán sus dictámenes a la consideración de los presuntos diputados para su aprobación.
 
 Los dictámenes constarán de dos partes. La primera contendrá una Exposición de Motivos, en donde se razone que las cartas-credenciales de presuntos Diputados son legítimas y si fueron expedidas de acuerdo a los procedimientos establecidos en la Constitución Política Local y en la Ley Electoral Estatal, y la segunda contendrá un punto resolutivo estableciendo la conclusión sobre el estudio de cada una de las cartas-credenciales, lo que se someterá a votación para su aprobación y en su caso para su posterior publicación en el Periódico Oficial del Estado.
 
@@ -91,25 +93,27 @@ Los dictámenes constarán de dos partes. La primera contendrá una Exposición 
 
 Para conocer, discutir y aprobar los dictámenes de que se trata, se celebrarán las Juntas Preparatorias que sean necesarias, debiendo llevarse a cabo éstas diariamente, bajo un orden del día que aprobarán previamente los presuntos Diputados.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 9o.
 
-El día anterior al de la Instalación de la Legislatura, los presuntos Diputados celebrarán la última de las Juntas Preparatorias, en la que todos aquellos cuyas credenciales hayan sido aprobadas, rendirán su protesta, en los términos de los Artículos 30, 31 y 32 de la Ley Orgánica del Poder Legislativo.
+El 31 de agosto del año de la elección, los presuntos Diputados celebrarán la última de las Juntas Preparatorias, en la que todos aquellos cuyas credenciales hayan sido aprobadas, rendirán su protesta, en los términos de los Artículos 30, 31 y 32 de la Ley Orgánica del Poder Legislativo.
 
 ###### Artículo 10.
 
 Otorgada la protesta a que se refiere el artículo anterior, por votación secreta y mediante cédula se procederá a la elección de la Directiva del Congreso, en los términos del Artículo 33 de la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 11.
 
-El día 23 de Septiembre a las once horas se reunirán los diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
+El día 1º de septiembre a las once horas se reunirán los diputados en el Recinto Oficial en Sesión Solemne para instalar la Legislatura y declarar la apertura del Primer Período Ordinario de Sesiones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 12.
 
-Iniciados los trabajos, el Presidente del H. Congreso hará la siguiente declaración: "La (número) Legislatura al H. Congreso del Estado de Nuevo León, queda legalmente instalada y abre hoy 20 de Septiembre de (año) el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".
+Iniciados los trabajos, el Presidente del H. Congreso hará la siguiente declaración: "La (número) Legislatura al H. Congreso del Estado de Nuevo León, queda legalmente instalada y abre hoy 1º de septiembre de (año), el Primer Período Ordinario de Sesiones correspondiente al Primer Año de Ejercicio Constitucional".
 
 Esta declaración será materia de un Decreto que sin más trámite se expedirá ese día y se publicará en el Periódico Oficial del Gobierno del Estado.
 
@@ -143,9 +147,11 @@ Cuando ocurra la falta absoluta de un Diputado Propietario o falta temporal mayo
 
 En las faltas temporales al presentarse el Propietario cesará en sus funciones el Suplente.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2003)</small>
+
 ###### Artículo 17.
 
-Los diputados tendrán derecho a recibir por igual la dieta, así como las compensaciones y partidas para gastos que requieran para el desempeño de sus funciones.
+Los diputados tendrán derecho a recibir por igual la dieta, así como las compensaciones y partidas para gastos que requieran para el desempeño de sus funciones legislativas y de gestión.
 
 ###### Artículo 18.
 
@@ -1936,3 +1942,15 @@ Artículo Único.- El presente Decreto entrará en vigor el día de su publicaci
 P.O. 19 DE DICIEMBRE DE 2003.
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+DECRETO NUM. 37.
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma a los Artículos 46 y 55 primer párrafo de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se está reformando las referidas disposiciones constitucionales.
+
+P.O. 29 DE DICIEMBRE DE 2003.
+
+DECRETO NUM. 58.
+
+Artículo Único.- La entrada en vigor del presente Decreto estará sujeta a la aprobación de la reforma al Artículo 63 fracción XII de la Constitución Política del Estado de Nuevo León, hasta en tanto inicie la vigencia del Decreto por el cual se está reformando la referida disposición constitucional.
