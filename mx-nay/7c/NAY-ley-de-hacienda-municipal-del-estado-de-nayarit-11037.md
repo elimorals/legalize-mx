@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-municipal-del-estado-de-nayarit-11037"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-28"
-last_updated: "1991-06-29"
+last_updated: "1991-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 28 de diciembre de 1983.
 
@@ -135,33 +135,35 @@ La determinación, liquidación, recaudación y cobro de los ingresos municipale
 
 #### SECCION PRIMERA. DEL OBJETO DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 15.
 
-Es objeto del impuesto predial.
+Es objeto de este Impuesto:
 
-I. La propiedad de predios urbanos.
+I. La propiedad de predios Urbanos y Rústicos
 
-II. La propiedad de predios rústicos.
+II. La propiedad en condominio
 
-III. La propiedad ejidal en los términos de la Legislación agraria federal.
+III. La propiedad Ejidal en los términos de la Legislación Agraria Federal.
 
-IV. La propiedad de predios donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos de la legislación federal sobre la materia.
+IV. Cuando se derive del usufructo
 
-V. La posesión de predios urbanos y rústicos en los siguientes casos:
+V. La propiedad de predios donde se ubiquen plantas de beneficio y establecimientos metalúrgicos, en los términos de la Legislación Federal sobre la Materia.
 
-A) Cuando no exista el propietario
+VI. La posesión de predios urbanos y rústicos en los siguientes casos:
 
-B) Cuando se derive de contratos de promesa de venta, de venta con reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
+a) Cuando no exista propietario.
 
-C) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles, y
+b) Cuando se derive de contratos de promesa de venta, de venta de reserva de dominio y de promesa de venta o venta de certificados de participación inmobiliaria, de vivienda, de simple uso o cualquier otro similar que autorice la ocupación material del inmueble y que origine algún derecho posesorio, aún cuando los mencionados contratos certificados o títulos, se hayan celebrado u obtenido con motivo de operaciones de fideicomiso.
 
-D) Cuando siendo propiedad del Estado o de sus Municipios, de la Federación o de las Entidades Federativas, se den en explotación por cualquier título a personas distintas de las antes citadas.
+c) Cuando por causas ajenas a la voluntad de los propietarios, éstos no se encuentren en posesión de los inmuebles.
 
-El objeto del impuesto predial incluye la propiedad o posesión de las construcciones permanentes edificadas sobre os predios.
+d) Cuando siendo propiedad del Estado o de sus Municipios, de la Federación o de las Entidades Federativas, se den en explotación por cualquier título a personas distintas de las antes citadas.
 
-Tratándose de predios rústicos. El objeto del impuesto incluye solamente la propiedad o posesión de las construcciones permanentes que no sean utilizadas directamente por propio destino en fines agrícolas, ganaderos y forestales
+VII. Las construcciones ubicadas en fundos legales y en zonas de urbanización en los Ejidos.
 
-VI. Las construcciones ubicadas en fundos legales y en zonas de urbanización en los ejidos.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 16.
 
@@ -169,33 +171,45 @@ No es objeto del impuesto predial la propiedad o posesión de predios que corres
 
 #### SECCION SEGUNDA. DE LOS SUJETOS DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 17.
 
 Son sujetos de este impuesto:
 
-I. Los propietarios de predios urbanos y rústicos los ejidatarios y los propietarios de plantas de beneficio y establecimientos metalúrgicos.
+I. Los propietarios de predios urbanos y rústicos, los ejidatarios y los propietarios de plantas de beneficios y establecimientos metalúrgicos.
 
-II. Los poseedores de predios urbanos y rústicos en el caso de la fracción V del artículo 15.
+II. Los poseedores de predios urbanos y rústicos en el caso de la fracción VI del artículo 15.
 
 III. Los fideicomitentes mientras sean poseedores del predio objeto del fideicomiso, los fideicomisarios que estén en posesión del predio, aún cuando todavía no se les trasmita la propiedad en cumplimiento del fideicomiso y los usufructuarios.
 
-IV. Los poseedores o propietarios de construcciones ubicadas en fundos legales y en zonas de urbanización de los ejidos.
+IV. Los poseedores o propietarios de construcciones ubicadas en fundos legales y en zonas de urbanización de los Ejidos.
 
-V. Con responsabilidad solidaria objetiva, los adquirentes por cualquier título de predios urbanos y rústicos.
+V. El titular de los derechos agrarios sobre la propiedad ejidal o comunal de conformidad con la Ley Federal de la Reforma Agraria.
 
-VI. Con responsabilidad solidaria:
+VI. Con responsabilidad solidaria objetiva, los adquirentes por cualquier título de predios urbanos y rústicos.
 
-A) Los propietarios de predios que hubiesen promovido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso B) de la fracción V del artículo 15.
+VII. Con responsabilidad solidaria:
 
-B) Los empleados de los Ayuntamientos o de cualquier otra autoridad del Estado de Nayarit que dolosamente formulen certificados de no adeudo del Impuesto Predial.
+a) Los propietarios de predios que hubiesen promovido en venta o hubieren vendido con reserva de dominio, en el caso a que se refiere el inciso b) de la fracción VI del artículo 15.
 
-C) Las instituciones fiduciarias en los casos de la fracción III de este artículo.
+b) Los funcionarios, empleados y fedatarios públicos que autoricen indebidamente o sancionen algún trámite, mediante el cual se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes objeto de este impuesto sin que esté al corriente en el pago del mismo.
 
-D) Los copropietarios, los coposeedores, los propietarios o poseedores respecto de los créditos fiscales derivados del bien o derecho común o individual y hasta por el monto del valor de avalúo de dichos bienes o derechos de las prestaciones fiscales que en cualquier tiempo se hubieren causado.
+c) Las instituciones fiduciarias en los casos de la fracción III de este artículo.
 
-VII. El Comisariado Ejidal, con responsabilidad solidaria por el núcleo de población.
+d) Los copropietarios, coposeedores, los propietarios o poseedores respecto de los créditos fiscales derivados del bien o derecho común o individual y hasta por un monto del valor de avalúo de dichos bienes o derechos de las prestaciones fiscales que en cualquier tiempo se hubieren causado.
+
+e) El nudo propietario cuando se trate de un bien dado en usufructo.
+
+f) El representante legal de asociaciones, sociedades y comunidades, respecto de los predios que por cualquier título posean.
+
+g) Tratándose de predios rústicos destinados a la agricultura, acuacultura, ganadería, porcicultura y avicultura, responderán solidariamente del pago del impuesto predial los adquirientes de productos que se generen en las actividades señaladas anteriormente, así como las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre productores o adquirientes.
+
+VIII. El comisariado ejidal, con responsabilidad solidaria por el núcleo de población.
 
 #### SECCION TERCERA. DE LA BASE DEL IMPUESTO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 18.
 
@@ -207,155 +221,239 @@ II. El valor en que aparezcan registrados.
 
 III. El valor de la maquinaria y equipo en caso de plantas de beneficio y establecimientos metalúrgicos.
 
+IV. Tratándose de predios rústicos:
+
+a) Los destinados a la agricultura, acuacultura, ganadería, porcicultura y avicultura, conforme el valor de su producción anual comercializada.
+
+b) Los que por algún motivo no obtengan producción en un año determinado la base de éste impuesto será la referida en las fracciones I y II de este artículo.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 19.
 
-En el caso de la fracción III del artículo anterior la autoridad competente determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial.
+En el caso de la fracción III del artículo anterior la autoridad competente determinará el valor que sirva de base, el que deberá ser lo más apegado posible a su valor comercial. El valor así determinado surtirá efecto de valor catastral.
 
-El valor así determinado surtirá efecto de valor catastral.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 20.
 
-Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
+Tratándose de terrenos destinados a cementerios el impuesto se causará sobre la superficie que no hubiese sido entregada para dedicarse a sepulturas. A este efecto durante el mes de Enero de cada año, los sujetos del impuesto manifestarán a la Tesorería Municipal, las superficies que hubieren entregado para sepulturas en año anterior, con objeto de que ésta dependencia determine la cuota del impuesto que habrá de pagarse en el año en que se haga la declaración y efectúe los ajustes que procedan respecto de lo pagado de más en el año anterior.
 
-En los casos de construcciones destinadas especialmente a cementerios con el sistema de gavetas superpuestas el impuesto predial se causará de acuerdo con las siguientes bases.
+En los casos de construcciones destinadas especialmente a cementerios con el sistema de gaveta superpuesta el impuesto predial se causará de acuerdo con las siguientes bases:
 
-1. La Autoridad competente, hará el avalúo catastral, incluyendo la tierra y todas las construcciones.
+1. La autoridad competente, hará el avalúo catastral incluyendo la tierra y todas las construcciones.
 
 2. En el primer año el impuesto se causará sobre la base del avalúo catastral.
 
-3. A partir del segundo año, el importe del avalúo catastral, incluyendo la tierra y todas las construcciones se reducirá en proporción al número de gavetas vendidas en el año inmediato anterior y la tasa del impuesto se aplicará sobre ese valor ajustado. Al efecto durante el mes de enero de cada año el propietario notificará a la tesorería Municipal el número de gavetas vendidas en el año anterior.
+3. A partir del segundo año, el importe del avalúo catastral incluyendo la tierra y todas las construcciones se reducirá en proporción al número de gavetas vendidas en el año inmediato anterior y la tasa del impuesto se aplicará sobre ese valor ajustado. Al efecto durante el mes de Enero de cada año el propietario notificará a la Tesorería Municipal el número de gavetas vendidas en el año anterior.
 
 4. A partir de la fecha en que queden vendidas todas las gavetas dejará de causarse el impuesto predial respecto de la tierra y construcciones que pasen en propiedad del Municipio según las concesiones respectivas.
 
-5. Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no haya transcurrido los tres años a que se refiere el artículo 21 de esta ley.
+5. Cuando el propietario aumente el precio de venta de las gavetas sobre los precios iniciales, la autoridad competente, hará la revaluación correspondiente del inmueble aunque no hayan transcurrido los tres años a que se refiere el artículo 21 de esta ley.
 
 #### SECCION CUARTA. DEL VALOR CATASTRAL
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 21.
 
-Para determinar el valor catastral de cada predio, se aplicará los valores unitarios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Autoridad Competente. Este valor se fijará cada tres años.
+Para determinar el valor catastral de cada predio, se aplicará los valores unitarios para el terreno y para los diferentes tipos de construcción que al efecto elabore la autoridad competente. Este valor se fijará por lo menos cada tres años.
 
-Para la actualización de los valores catastrales de predios ya valuados que no hayan sufrido modificaciones no se requerirá valuación de los peritos o de la autoridad competente, pues bastará aplicar los nuevos valores unitarios que menciona el párrafo anterior.
+Para la actualización de los valores catastrales de predios ya valuados que no hayan sufrido modificaciones no se requerirá valuación de los peritos o de la autoridad competente pues bastará aplicar los nuevos valores unitarios que menciona el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 22.
 
-El valor catastral podrá ser modificado antes de que transcurran tres años cuando ocurra alguna de las siguientes causas que puedan originar una revaluación o actualización del mismo:
+El valor catastral podrá ser modificado antes de que transcurran tres años cuando ocurra alguna de las siguientes causas que puedan originar una revaluación o actualización del mismo.
 
-I. Cuando en el predio se realicen construcciones, reconstrucciones, o ampliaciones de las construcciones ya existentes.
+I. Cuando en el predio se realicen construcciones o reconstrucciones, o ampliaciones de las construcciones ya existentes.
 
 II. Cuando en el predio, directa o indirectamente opere un cambio físico de urbanización que afecte notoriamente su valor.
 
-III. Cuando parte o la totalidad del predio sea objeto de traslado de dominio.
+III. Cuando parte o totalidad del predio sea objeto de traslado de dominio.
 
-IV. Cuando se obtengan elementos de catastración técnica sobre el predio y el avalúo existente haya sido fijado únicamente con la información del manifiesto para propiedades urbanas rústicas.
+IV. Cuando se obtengan elementos de catastración técnica sobre el predio y el avalúo existente haya sido únicamente con la información del manifiesto para propiedades urbanas.
 
 V. Cuando los predios se fusionen o se subdividan o sea motivo de fraccionamiento.
 
 VI. Cuando por la ejecución de obras públicas o privadas se modifique el valor de la propiedad raíz tanto en los predios directamente afectados como en su zona de influencia, determinada ésta por la autoridad competente.
 
-VII. Cuando en las fincas urbanas o rústicas, y ejidales en construcción o reedificación haya transcurrido un año de la iniciación de la construcción ó reedificación sin haberse terminado.
+VII. Cuando en las fincas urbanas o rústicas, en construcción o reedificación haya transcurrido un año de la iniciación de la construcción o reedificación sin haberse terminado.
 
 VIII. Cuando se haya cancelado una exención del impuesto predial o concesión de subsidio.
 
 IX. Cuando las construcciones de un predio sean demolidas o hubieren quedado en ruinas parcial o totalmente por el transcurso del tiempo o por siniestro.
 
-Las causas de modificación de la base del impuesto que se señalan en las fracciones I a IX del presente artículo deberán ser notificadas por el causante o por el responsable solidario a la Tesorería Municipal, dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
+Las causas de modificación de la base del impuesto que se señalan en las fracciones I y IX del presente artículo deberán ser notificadas por el contribuyente o por el responsable solidario a la Tesorería Municipal dentro de los quince días siguientes contados a partir de la fecha en que se haya producido la causa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 23.
 
-En el caso de la fracción III del artículo anterior, la modificación se hará tomando como base el valor que resulte más alto entre el de operación, el bancario y el catastral. En caso de las otras fracciones las modificaciones se llevarán a cabo en los términos del artículo 19o de esta Ley.
+En el caso de la Fracción III del artículo anterior, la modificación se hará tomando como base el valor que resulte más alto entre el de operación, el bancario y el catastral. En caso de las otras fracciones las modificaciones se llevarán a cabo en los términos del artículo 19 de esta Ley.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 24.
 
 Las autoridades que aprueben fraccionamientos, construcciones, reconstrucciones, ampliaciones, demoliciones o afectaciones de inmuebles, estarán obligadas a dar aviso correspondiente a la Tesorería Municipal durante el plazo de quince días a partir de la fecha de su aprobación.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 25.
 
-Las autoridades judiciales y administrativas al proceder al remate de inmuebles, recabarán de la Tesorería Municipal un informe sobre la responsabilidad fiscal que afecte a dichos bienes hasta la fecha de subasta.
+Las autoridades judiciales y administrativas al proceder al remate de inmuebles, recabarán de la Tesorería Municipal un informe sobre la responsabilidad Fiscal que afecte a dichos bienes hasta la fecha de subasta.
 
-Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate, la cantidad suficiente para cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda el recibo correspondiente que será entregado al adquirente del inmueble.
+Si de tal informe apareciere algún crédito fiscal insoluto, la autoridad retendrá del producto del remate la cantidad suficiente para cubrirlo, remitiéndola inmediatamente a la Tesorería Municipal para que ésta extienda el recibo correspondiente que será entregado al adquirente del inmueble.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 26.
 
-Los notarios públicos para autorizar en forma definitiva escrituras en que se haga constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean inmuebles ubicados en el Estado, deberán exigir constancia expedida por la Tesorería Municipal de que están al corriente en el pago de este impuesto, o de que no se causa.
+Los Notarios Públicos para autorizar en forma definitiva escrituras en que se haga constar contratos, convenios o resoluciones judiciales o administrativas, cuyo objeto sean inmuebles ubicados en el Estado, deberán exigir constancia expedida por la Tesorería Municipal que están al corriente en el pago de este impuesto, o de que no se causa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 27.
 
-Las modificaciones a los valores que sirvan de base surtirán sus efectos fiscales a partir del bimestre siguiente a aquél en que se notifiquen debidamente, con excepción de los provenientes por transmisiones de dominio o de promesa de venta, que surtirán sus efectos a partir del siguiente bimestre al de la fecha de su autorización notarial o de su otorgamiento cuando consten en documento privado.
+Las notificaciones a los valores que sirvan de base surtirán sus efectos fiscales a partir del bimestre siguiente a aquel en que se notifiquen debidamente, con excepción de los provenientes por transmisiones de dominio o de promesa de venta, que surtirán sus efectos a partir del siguiente bimestre al de la fecha de su autorización notarial o de su otorgamiento cuando conste en documento privado.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 28.
 
-Las valuaciones catastrales se practicarán por peritos que deberán ser arquitectos, ingenieros, o pasantes de estas profesiones.
+Las valuaciones catastrales se practicarán por peritos que deberán ser Arquitectos, Ingenieros, o pasantes de estas profesiones.
 
-La Autoridad Competente, ordenará por escrito las valuaciones catastrales y acreditará la personalidad de los peritos correspondientes por medio de credenciales oficiales.
+La autoridad competente, ordenará por escrito las valuaciones catastrales y acreditará la personalidad de los peritos correspondientes por medio de credenciales oficiales.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 29.
 
 Los peritos valuadores formularán sus valuaciones catastrales en dictámenes debidamente fundados y motivados, para cuyo efecto utilizarán las formas oficiales que apruebe la Tesorería Municipal.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 30.
 
 Los propietarios y poseedores a título de dueño de inmuebles que hubiesen permanecido ocultos a los registros catastrales, estarán obligados a manifestarlos a la Tesorería Municipal, así como cualquier excedencia en relación con los ya registrados.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 31.
 
-La Autoridad Competente deberá asignar los valores catastrales a los inmuebles que no lo tuviesen en la forma y términos que se establezcan en el reglamento respectivo.
+La autoridad competente deberá asignar los valores catastrales a los inmuebles que no lo tuviesen en la forma y términos que se establezcan en las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 32.
 
-Los propietarios, poseedores, inquilinos y cualquier otra persona encargada de un inmueble, estarán obligados a proporcionar a la Tesorería Municipal los datos documentos e informes que se soliciten, así como permitir el acceso al interior de los mismos para la identificación de los predios.
+Los propietarios poseedores, inquilinos y cualquier otra persona encargada de un inmueble estarán obligados a proporcionar a la Tesorería Municipal los datos, documentos e informes que se soliciten, así como permitir el acceso al interior de los mismos para la identificación de los predios.
 
 #### SECCION QUINTA. TASA DEL IMPUESTO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 33.
 
-El impuesto predial se causará y pagará de acuerdo con las tasas, tarifas y bases que señalen las leyes de Ingresos de los Municipios del Estado.
+El impuesto predial se causará y pagará de acuerdo con las tasas, tarifas y bases que señalen las leyes de ingresos de los Municipios del Estado.
 
-#### SECCION SEXTA. DEFINICIONES
+> <small>(REFORMADA SU DENOMINACION, P. O. 21 DE DICIEMBRE DE 1991)</small>
+
+#### SECCION SEXTA. DEL PAGO DEL IMPUESTO Y OBLIGACIONES
+
+> <small>(REFORMADO, P.O.21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 34.
 
-Para los efectos de este impuesto, se tomarán en cuenta las definiciones que sobre las diversas clases de predios y construcciones se señalan en los siguientes artículos.
+Los contribuyentes y responsables solidarios del pago de este impuesto, según sea el caso tendrán las obligaciones siguientes:
 
-#### SECCION SEPTIMA. DEL PAGO DEL IMPUESTO
+I.- PREDIOS O FINCAS URBANAS
+
+a). Presentar avisos, documentos, declaraciones que señalen la Ley de Catastro, así como las que le soliciten las autoridades fiscales para la determinación del impuesto.
+
+b). Pagar el impuesto a su cargo en la oficina recaudadora que corresponda a la ubicación de los predios por bimestres, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre.
+
+El pago podrá hacerse por anualidad, con una bonificación del cinco por ciento, para lo cual los interesados deberán presentar una solicitud por escrito a la Tesorería Municipal en un plazo que terminará el 31 de enero de cada año, en este caso el pago se hará a más tardar el último día hábil del mes de febrero.
+
+El pago por anualidad anticipada del impuesto predial no impide el cobro de diferencias que debe hacer la Tesorería Municipal por cambio de las bases gravables o alteración de la cuota del mismo.
+
+No obstante lo anterior el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
+
+II.- PREDIOS RUSTICOS.-
+
+a) Pagar el impuesto en la oficina recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas, ganaderos, porcícolas, avícolas y acuícolas.
+
+El impuesto deberá pagarse al salir los productos del predio rústico de origen o el efectuarse la primera venta. En caso de que los productos se destinen para su uso dentro del propio predio o sean almacenados dentro de éste, el impuesto se cubrirá en un plazo máximo de 30 días después de haberse efectuado la cosecha.
+
+b) Los productores deberán recabar y conservar por el término de 5 años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados fueron debidamente cubiertos de conformidad con las demás disposiciones establecidas.
+
+c) Los adquirentes de la producción agrícola, acuícola, ganadería, porcícola y avícola, así como los intermediarios o mediadores entre éstos y los productores, adicionalmente se sujetarán a lo siguiente:
+
+1.- Deberán registrarse en las oficinas recaudadoras de su jurisdicción, debiendo efectuar dicho registro dentro de los diez días hábiles siguientes a la fecha de iniciación de sus operaciones.
+
+2.- Presentar dentro de los cinco días posteriores a cada quincena, una declaración de los productos comprados durante este periodo.
+
+3.- Acompañarán a la declaración a que se refiere el párrafo anterior, copia de los recibos o constancias de pago de los impuestos respectivos.
+
+4.- Darán de baja su registro ante la oficina recaudadora, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
+
+5.- Podrán realizar en una sola exhibición del pago del impuesto correspondiente al producto obtenido de varios productores previa autorización de la autoridad competente, cuando se siga este procedimiento estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto. En dicha constancia deberá indicarse el número y la fecha de recibo de pago así como el mes a que corresponda la declaración en que se certifica por la oficina recaudadora la presentación del mencionado recibo.
+
+Lo que se recaude por los conceptos a que se refiere esta fracción, serán destinados única y exclusivamente para la inversión pública, en el medio rural y en el Municipio correspondiente, para lo cual se llevará una cuenta especial en la que verifiquen el escrupuloso manejo de éstos fondos, los Comités de Planeación Municipal o en su caso la Secretaría de Planeación y Desarrollo del Estado, otorgándose la participación al Ayuntamiento correspondiente.
+
+(REUBICADA, P.O. 21 DE DICIEMBRE DE 1991)
+
+#### SECCION SEPTIMA
+
+DEFINICIONES.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 35.
 
-Se denominan predios urbanos:
+Para los efectos de este impuesto, se tomarán en cuenta las definiciones que sobre las diversas clases de predios y construcciones se señalan en los siguientes artículos.
 
-I. Las casas, los edificios y demás construcciones existentes dentro del perímetro o fundo legal de las poblaciones, aún en el caso de que se dediquen en todo o en parte a un cultivo agrícola, quedando comprendidas las construcciones que se destinen a casa habitación, aún cuando se encuentren fuera del perímetro o fundo legal.
-
-II. Los solares o sitios para edificar, con construcciones o sin ellas, estén o no cercados, que se encuentren situados dentro del perímetro o fundo legal de las poblaciones; y
-
-Los edificios dedicados en las fincas rústicas a fábricas o cualesquiera otro establecimientos industriales que no sean los destinados a la transformación de los frutos de las mismas fincas.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 36.
 
-Se denomina predio rústico:
+Se denominarán Predios Urbanos:
 
-I. Todas las propiedades rurales, ubicadas fuera del perímetro o fundo legal de las poblaciones, tales como haciendas, ranchos, granjas, casa de campo, parcelas, huertas, montes y demás predios, con o sin habitaciones, adecuadas para la explotación agrícola o pecuaria;
+I. Las casas, los edificios y demás construcciones existentes dentro del perímetro o fundo legal de las poblaciones, aun en el caso de que se dediquen en todo o en parte a un cultivo agrícola, quedando comprendidas las construcciones que se destinen a casa habitación aún cuando se encuentren fuera del perímetro o fundo legal.
 
-II. Los ejidos cualesquiera que sea el estado de la posesión, ya sea que se disfruten en común o individualmente por parcelas, y;
+II. Los solares o sitios para edificar con construcciones o sin ellas estén o no cercados que se encuentren situados dentro del perímetro o fundo legal de las poblaciones.
 
-III. La pequeña propiedad creada a virtud de la Ley relativa.
+III. Los edificios dedicados en las fincas rústicas o fábricas o cualesquiera otros establecimientos industriales que no sean los destinados a la transformación de los frutos de las mismas fincas.
+
+> <small>(REFORMADO, P.O.21 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 37.
 
-Otras definiciones para efectos de este impuesto, son las siguientes:
+SE DENOMINA PREDIO RUSTICO
+
+I. Todas las propiedades rurales ubicadas fuera del perímetro o fundo legal de las poblaciones, tales como haciendas, ranchos, granjas, parcelas, huertas, montes y demás predios, con o sin habitaciones, dedicadas o adecuadas para la explotación agrícola o pecuaria.
+
+II. Los ejidos y comunidades cualesquiera que sea el estado de la posesión, ya sea que se disfruten en común o individualmente por parcelas.
+
+III. La pequeña propiedad creada a virtud de la ley relativa.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 38.
+
+Otras definiciones para efectos de este impuesto son las siguientes:
 
 I. Predio urbano edificado es el que tenga construcciones permanentes.
 
 II. Predio urbano no edificado, el que no tenga construcciones o si teniéndolas son provisionales.
 
-III. Construcciones permanentes las que tienen carácter definitivo y la posibilidad de usarse u ocuparse constantemente.
+III. Construcciones permanentes las que tienen carácter definitivo y las posibilidades de usarse u ocuparse constantemente.
 
-IV. Construcciones provisionales las que revelan un uso transitorio; en los casos de duda; la autoridad competente, determinará si las construcciones son o no provisionales.
+IV. Construcciones provisionales las que revelan un uso transitorio: en los casos de duda: la autoridad competente, determinará si las construcciones son o no provisionales.
 
 V. Valor catastral es el que fije a cada predio la autoridad competente.
-
-###### ARTICULO 38.
-
-La cuota del impuesto predial es anual de acuerdo con la dispuesto en las Leyes de Ingresos de los Municipios del Estado, pero su importe se pagará bimestralmente, durante los primeros quince días de los meses de enero, marzo, mayo, julio, septiembre y noviembre en la Recaudación de rentas de la jurisdicción a que corresponda o por conducto de los recaudadores que señala la Tesorería Municipal. Sin embargo el pago podrá hacerse por anualidad, con una bonificación del 5 por ciento de dicha anualidad para lo cual los interesados deberán presentar una solicitud por escrito a la Tesorería Municipal en un plazo que terminará el 31 de enero de cada año; en éste caso el pago se hará, a más tardar, el último día hábil del mes de febrero. El pago por anualidad anticipada del impuesto predial no impide el cobro de diferencias que debe hacer la Tesorería Municipal por cambio de las bases gravables o alteración de las cuotas del impuesto. No obstante lo dispuesto en el primer párrafo de este artículo, el pago de las cuotas mínimas que señalen las Leyes de Ingresos de los Municipios, se hará en una sola exhibición en el mes de enero de cada año, sin bonificación alguna.
 
 ###### ARTICULO 39.
 
@@ -405,13 +503,13 @@ X. Enajenación a través del fideicomiso, en los términos del Código Fiscal d
 
 XI. El arrendamiento financiero, en los términos del Código Fiscal de la Federación. En las permutas se considerarán que se efectúan dos adquisiciones.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1991)</small>
+
 ###### ARTICULO 43.
 
-El valor del inmueble que se considerará para los efectos del artículo 40, será el precio pactado, el cual en ningún caso podrá ser inferior al valor catastral correspondiente. Las autoridades fiscales estarán facultadas para practicar, ordenar o tomar en cuenta el avalúo del inmueble referido a la fecha de adquisición, y cuando al valor que resulte de dicho avalúo exceda en más de un 10 por ciento del precio pactado, éste no se tomará en cuenta y el impuesto se calculará sobre le valor del avalúo, formulándose la liquidación por las diferencias de impuesto que resulten.
+El valor del inmueble que se considerará para los efectos del Artículo 4o. será el que resulte más alto entre el valor de operación o precio pactado, el avalúo bancario, o el avalúo que formule la autoridad catastral en caso necesario.
 
-Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o mas deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
-
-Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique la autoridad competente. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere el párrafo anterior.
+En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere el párrafo anterior.
 
 Para los fines de este capítulo se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50 por ciento del valor de la propiedad.
 
@@ -644,6 +742,10 @@ P.O. 29 DE JUNIO DE 1991.
 ###### ARTICULO TERCERO.
 
 Las presentes modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1991.
+
+UNICO.- El presente Decreto entrará en vigor el día 1º. de enero de 1992, previa publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
 
 ###### ARTICULO PRIMERO.
 
