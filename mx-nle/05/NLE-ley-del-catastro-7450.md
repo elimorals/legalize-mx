@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-catastro-7450"
 country: "mx"
 rank: "ley"
 publication_date: "1964-01-18"
-last_updated: "1990-12-31"
+last_updated: "1991-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL CATASTRO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 18 de enero de 1964.
 
@@ -283,7 +283,7 @@ De las Infracciones y de las Sanciones.
 
 Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios que consignen datos falsos en sus declaraciones o manifestaciones, con excepción del relativo al valor del predio. II.- Los propietarios o poseedores de los predios que no presenten oportunamente los planos, datos, informes, declaraciones, manifestaciones y cualquier otro documento que señalen las leyes o las convocatorias respectivas, o no sean requeridos por las autoridades catastrales. III.- Los propietarios o poseedores de predios que se nieguen aclarar las dudas que surjan con motivo de sus declaraciones o manifestaciones. IV.- Los funcionarios y empleados públicos o privados a quienes esta Ley impone la obligación de auxiliar a los organismos catastrales para el mejor desempeño de sus funciones, y que no le presten oportuna y eficaz cooperación cuando les sea solicitada. V.- Los funcionarios y empleados de los organismos catastrales que por negligencia o dolo, posibiliten la infracción de esta Ley por los sujetos obligados a cumplirla.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 31o.
 
@@ -293,7 +293,7 @@ Son infractores de la presente Ley: I.- Los propietarios o poseedores de predios
 
 ###### ARTICULO 32o.
 
-Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V se les aplicará una multa de $5,000.00 a $30,000.00, por cada infracción. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
+Los infractores a que se refiere el artículo anterior serán sancionados como sigue: I.- Si están comprendidos en las fracciones I, III, IV y V se les aplicará una multa de $50,000.00 a $100,000.00 por cada infracción. II.- Si están comprendidos en los casos de la fracción II, la que resulte mayor entre $10,000.00 o hasta el 100% de las contribuciones omitidas. III.- En los casos de la fracción V, si a juicio del Secretario de Finanzas y Tesorero General del Estado la infracción es grave, además serán destituidos, sin perjuicio de la instancia de responsabilidad, si procediera.
 
 T R A N S I T O R I O S :
 
@@ -362,6 +362,12 @@ Conforme a lo dispuesto por el artículo 20 de la Ley del Catastro, durante el a
 ###### ARTICULO 12o.
 
 Conforme a lo dispuesto por el artículo 20 la Ley del Catastro, durante el año de 1991 se aplicará un incremento a las Bases Generales de Valores por Unidades Tipo y a los valores catastrales, en un 100 % respecto de los terrenos y en lo que respecta a las construcciones, en un 50 % tratándose de casas-habitación y en un 100 % tratándose de industrias, comercios y mejoras de cualquier otro tipo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+###### ARTICULO 13º.
+
+Conforme a lo dispuesto por el Artículo 20 de la Ley del Catastro, durante el año de 1992 se aplicará un incremento a las Bases Generales de Valores por Unidades Tipo y los valores catastrales, en un 75 % respecto de los terrenos y en lo que respecta a las construcciones, en un 20 % tratándose de industrias y comercios y en un 75 % tratándose de casas-habitación y mejoras de cualquier otro tipo.
 
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
@@ -502,3 +508,7 @@ UNICO.- La presente Ley entrará en vigor el día 1° de Enero de 1990.
 P.O. 31 DE DICIEMBRE DE 1990
 
 UNICO.- El presente Decreto entrará en vigor el día 1° de Enero de 1991.
+
+P.O. 30 DE DICIEMBRE DE 1991.
+
+UNICO:- EL presente Decreto entrará en vigor el día 1º. de Enero de 1992.
