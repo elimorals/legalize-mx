@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2003-09-04"
+last_updated: "2004-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 2004.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -607,7 +607,13 @@ XVII. Nombrar y remover al secretario, tesorero, titulares de las unidades admin
 
 XVIII. Administrar su hacienda en términos de ley, y controlar a través del presidente y síndico la aplicación del presupuesto de egresos del municipio;
 
-XIX. Aprobar su presupuesto de egresos;
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 2004)</small>
+
+XIX. Aprobar su presupuesto de egresos, en base a los ingresos presupuestados para el ejercicio que corresponda y establecer las medidas apropiadas para su correcta aplicación.
+
+Los Ayuntamientos al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza, determinada conforme a principios de racionalidad, austeridad, disciplina financiera, equidad, legalidad, igualdad y transparencia, sujetándose a lo dispuesto por el Código Financiero y demás disposiciones legales aplicables.
+
+Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
 
 XX. Autorizar la contratación de empréstitos, en términos de la Ley de Deuda Pública Municipal del Estado de México;
 
@@ -2290,3 +2296,13 @@ PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.- Mientras los ayuntamientos instalan oficialías mediadoras-conciliadoras, podrán remitir al Centro de Mediación y Conciliacióndel Poder Judicial del Estado de México los asuntos susceptibles de mediación o conciliación.
+
+G.G. 6 DE ABRIL DE 2004.
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al quinto día de su publicación en la "Gaceta del Gobierno".
+
+TERCERO.- Para el caso del presupuesto de egresos correspondiente al ejercicio fiscal 2004, su publicación en la "Gaceta Municipal" se hará a más tardar el día treinta y uno de julio del presente año.
+
+CUARTO.- En lo subsecuente, las administraciones municipales deberán adecuar sus presupuestos para el ejercicio fiscal correspondiente, conforme a las disposiciones del presente decreto.
