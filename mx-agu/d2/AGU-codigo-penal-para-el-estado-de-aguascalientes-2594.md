@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-2594"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-08-07"
-last_updated: "2001-11-26"
+last_updated: "2002-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CODIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MARZO DE 2002.
 
 Código publicado en el Suplemento al Número 32 del Periódico Oficial del Estado de Aguascalientes, el 7 de agosto de 1994.
 
@@ -295,7 +295,9 @@ Los delitos que se perseguirán por querella o a petición de parte legítimamen
 
 I.- Lesiones Dolosas, previstas en el Artículo 105 fracciones I y II;
 
-II.- Lesiones Culposas, previstas en el Artículo 108 bis;
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 2002)</small>
+
+II.- Lesiones culposas, previstas en los Artículos 117 párrafo segundo y 118 párrafo segundo;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2001)</small>
 
@@ -2968,3 +2970,7 @@ P.O. 26 DE NOVIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MARZO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
