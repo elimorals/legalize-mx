@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-penales-del-estado-de-nuevo-leon-7415"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-28"
-last_updated: "1991-06-07"
+last_updated: "1994-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 28 de marzo de 1990.
 
@@ -1975,7 +1975,7 @@ II.- Que sea hecha ante el Ministerio Público o el Tribunal de la causa y en pr
 
 III.- Que sea de dicho propio;
 
-IV.- Que no existan datos que, a juicio del Tribunal lo hagan inverosímil.
+IV.- Que no existan datos que, a juicio del Tribunal lo hagan inverosímil;
 
 No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Judicial podrá rendir informes pero no obtener confesiones; si lo hace, éstas carecerán de todo valor probatorio.
 
@@ -2299,7 +2299,7 @@ VII.- Cuando existan pruebas que acrediten fehacientemente la inocencia del acus
 
 VIII.- Cuando esté plenamente comprobado que en favor del inculpado existe alguna causa eximente de responsabilidad;
 
-IX.- Cuando el Procurador General de Justicia del Estado confirme o formule conclusiones no acusatorias;
+IX.- Cuando el Procurador General de Justicia del Estado confirme o formule conclusiones no acusatorias.
 
 En los casos de sobreseimiento siempre será el Juez el que decida si procede o no la solicitud del Ministerio Público.
 
@@ -3209,7 +3209,7 @@ Para revocar la libertad caucional siempre se deberá oír previamente al Minist
 
 ###### ARTICULO 512.
 
-La ejecución de las sentencias irrevocables en materia penal, salvo lo dispuesto en el último párrafo del artículo 516, corresponde al Ejecutivo. Este, a través de la Dirección de Prevención y Readaptación Social, designará los lugares en que los reos deban extinguir las sanciones privativas de libertad.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 513.
 
@@ -3225,7 +3225,7 @@ El Tribunal estará obligado a tomar de oficio todas las providencias conducente
 
 ###### ARTICULO 516.
 
-Para la ejecución de las sanciones, el Ejecutivo se someterá a lo prevenido en el Código Penal, en especial a las reglas consignadas en el título sexto, capítulo primero, a la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad, y en los reglamentos respectivos que deben ajustarse a las disposiciones antes mencionadas.
+(DEROGADO PRIMER PARRAFO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 La ejecución de la sentencia, en lo relativo a la reparación del daño y perjuicio a cargo del delincuente, corresponde al Juez del proceso ajustándose a las disposiciones del Código de Procedimientos Civiles a ese respecto.
 
@@ -3233,39 +3233,39 @@ La ejecución de la sentencia, en lo relativo a la reparación del daño y perju
 
 ###### ARTICULO 517.
 
-La solicitud del reo que crea tener derecho a la libertad preparatoria, se presentará a la Dirección de Prevención y Readaptación Social del Estado, con copia a la Dirección del establecimiento penitenciario.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 518.
 
-Recibida la solicitud, la Dirección de Prevención y Readaptación Social del Estado recabará los informes del Consejo Técnico Interdisciplinario, proporcionados por el Director del establecimiento en que esté internado el solicitante.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 519.
 
-El Ejecutivo, a través de la Dirección de Prevención y Readaptación Social, concederá la libertad preparatoria a los reos sentenciados con privación de libertad por más de tres años, cuando satisfagan los requisitos previstos en el artículo 104 del Código Penal, observándose lo previsto en el artículo 106 del mismo.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 520.
 
-La resolución en la cual se concede la libertad preparatoria será signada por el ejecutivo o el titular de la dependencia que tenga asignada dicha función, en los términos de la Ley Orgánica de la Administración Pública, tomando en consideración todos los informes y conclusiones remitidos por la Dirección de Prevención y Readaptación Social del Estado, incluyendo la solvencia e idoneidad del fiador.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 521.
 
-La resolución en la que se concede la libertad preparatoria, contendrá las observaciones y antecedentes relacionados con la conducta del reo durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reintegrado a la vida social por haber desaparecido su peligrosidad. Dicha solución será comunicada al Director del establecimiento respectivo, a la autoridad administrativa y al tribunal de la causa.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 522.
 
-Otorgada la fianza, se expedirá por el Director de Prevención y Readaptación Social la orden de libertad del reo beneficiado, haciéndole entrega al mismo de una copia de la resolución que haya concedido el beneficio.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 523.
 
-Cuando el liberado incumpla alguna de las condiciones señaladas en el artículo 104 del Código Penal, se le revocará su libertad preparatoria en los términos previstos por la fracción I del artículo 106 del mismo igualmente si el liberado es sentenciado por nuevo delito intencional mediante sentencia ejecutoria, será objeto de dicha revocación, de oficio, por la autoridad administrativa. Pero si el delito fuere culposo o preterintencional, dicha autoridad, según la gravedad del hecho, podrá revocar o mantener la libertad preparatoria fundando su resolución.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 524.
 
-Para que la autoridad administrativa esté en condiciones de dar cumplimiento a lo dispuesto por la fracción II del artículo 108 del Código Penal, la autoridad judicial que tenga conocimiento del o de los nuevos delitos que haya incurrido el liberado, dará parte al Ejecutivo y a la Dirección de Prevención y Readaptación Social del Estado.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 525.
 
-Cuando hubiere expirado el término de la condena que faltare por compurgar, el agraciado ocurrirá al director de Prevención y Readaptación Social, para que éste, en vista de la sentencia y de los informes del Ejecutivo, haga de plano la declaración de quedar el reo en absoluta libertad.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ### CAPITULO QUINTO. INDULTO Y RECONOCIMIENTO DE LA INOCENCIA DEL SENTENCIADO
 
@@ -3281,11 +3281,11 @@ Lo dispuesto en el artículo anterior excluye la posibilidad de aplicar simultá
 
 ###### ARTICULO 528.
 
-El Ejecutivo, tratándose de delitos políticos, podrá conmutar la pena de prisión por confinamiento, en los términos de la fracción I y II del artículo 83 del Código Penal, y la de éste por la multa, atendiendo a lo dispuesto por la fracción III del artículo en cuestión.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 529.
 
-La Dirección de Prevención y Readaptación Social podrá, previo acuerdo con su superior jerárquico, modificar o substituir la forma de cumplir con la sanción, siempre que dicha modificación no sea esencial y el reo acredite plenamente que no puede cumplir con alguna de las modalidades que se le hayan impuesto, por ser incompatibles con su edad, salud, sexo o constitución física.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 530.
 
@@ -3337,11 +3337,11 @@ Después de tres años de haberse cumplido la pena impuesta; de seis años, si s
 
 ###### ARTICULO 540.
 
-El indulto se concederá de acuerdo con lo que disponen los artículos 112 y 115 del Código Penal, y la Ley de Indulto. El solicitante ocurrirá al Ejecutivo con su instancia y con los comprobantes respectivos.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 541.
 
-El Ejecutivo, en vista de los comprobantes o si así conviniere a la tranquilidad y seguridad pública, concederá o no el indulto.
+(DEROGADO POR ARTICULO CUARTO TRANSITORIO DE LA LEY QUE REGULA LA EJECUCION DE LAS SANCIONES PENALES, P.O. 1 DE JUNIO DE 1994)
 
 ###### ARTICULO 542.
 
@@ -3440,3 +3440,21 @@ UNICO: El presente Decreto entrará en vigor al día siguiente de su publicació
 P.O. 7 DE JUNIO DE 1991.
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE JUNIO DE 1994.
+
+PRIMERO: La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO: Se abroga la Ley de Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León, promulgada con fecha 1-uno de junio de 1973- mil novecientos setenta y tres.
+
+TERCERO: Se derogan los artículos 83, 84, 99, 100, 101, 102, 103, 104, 105, 106, 107, 112, 114 y 115 del Código Penal del Estado de Nuevo León.
+
+CUARTO: Se derogan los artículos 512, el párrafo primero del artículo 516, y los artículos 517, 518, 519, 520, 521, 522, 523, 524, 525, 528, 529, 540 y 541 del Código de Procedimientos Penales del Estado de Nuevo León.
+
+QUINTO: Se derogan todas las disposiciones que se opongan a los preceptos de esta Ley.
+
+SEXTO: La libertad definitiva de los reclusos ya condenados en Primera o en Segunda Instancia para el día en que entre en vigor esta Ley, cualquiera que sea el delito imputado, se ajustará a los términos que a ese respecto dispone la anterior Ley sobre Ejecución de Penas Privativas y Restrictivas de la Libertad para el Estado de Nuevo León.
+
+SEPTIMO: Todas las solicitudes de libertad preparatoria y de indulto que se hallen pendientes de decidir al entrar en vigor esta Ley, se resolverán de acuerdo a ella o a los códigos o leyes anteriores que le resulten más favorables al solicitante.
+
+OCTAVO: El Ejecutivo del Estado, a través de la Dirección de Prevención y Readaptación Social, expedirá los reglamentos necesarios para los establecimientos penitenciarios y su régimen interior, para el Consejo Técnico Interdisciplinario, para el Consejo Técnico General y para el Patronato de Asistencia a Liberados.
