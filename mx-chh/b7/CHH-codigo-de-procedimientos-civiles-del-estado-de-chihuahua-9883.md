@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-civiles-del-estado-de-chihuahua-9883"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1989-05-17"
+last_updated: "1993-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 1993.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -603,7 +603,11 @@ X.- En los negocios relativos a suplir el consentimiento de quien ejerce la patr
 
 XI.- Para decidir las diferencias conyugales y los juicios de nulidad de matrimonio, lo es el del domicilio conyugal;
 
-XII.- En los juicios de divorcio el Tribunal de la residencia del demandado y en caso de abandono de hogar, el domicilio del cónyuge abandonado.
+XII.- En los juicios de divorcio el Tribunal de la residencia del demandado y en caso de abandono de hogar, el domicilio del cónyuge abandonado;
+
+> <small>(ADICIONADA, P.O. 25 DE AGOSTO DE 1993)</small>
+
+XIII.- En los Juicios de Alimentos, el del domicilio del acreedor alimentario o de su deudor, según escoja el actor.
 
 156.- Para determinar la competencia por razón de la cuantía del negocio se tendrá en cuenta lo que demande el actor. Los réditos, daños y perjuicios posteriores a la presentación de la demanda no serán tomados en consideración, aun cuando se reclamen en ella.
 
@@ -3944,3 +3948,7 @@ ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente d
 P.O. 17 DE MAYO DE 1989.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE AGOSTO DE 1993.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
