@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-medico-naval-12522"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-11-09"
-last_updated: "1998-11-09"
+last_updated: "1999-05-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12522&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-11-02"
 
 REGLAMENTO DE LA ESCUELA MEDICO NAVAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 1999.
 
 Reglamento Publicado en la Tercera Sección del Diario Oficial de la Federación el lunes 9 de noviembre de 1998.
 
@@ -265,7 +265,9 @@ El Jefe de Servicios corresponderá a la categoría de Oficial, designado por el
 
 I.- Ser responsable de que se proporcionen en cantidad y calidad los servicios de administración, alimentación, transportes, agua, sanidad, sastrería, lavandería, peluquería, zapatería y otros que se requieran para el buen funcionamiento de la escuela;
 
-II.- Planear, organizar y dirigir el mantenimiento de la infraestructura, así como el mantenimiento y la operación de las instalaciones maquinaria y equipo de la escuela de acuerdo al calendario de actividades académicas;
+> <small>(REFORMADA, D.O.F. 25 DE MAYO DE 1999)</small>
+
+II.- Planear, organizar y dirigir la conservación de la infraestructura, la operación de la maquinaria y equipo de la escuela, así como el mantenimiento de las instalaciones de redes eléctricas, hidráulicas y sanitarias, de acuerdo al calendario de actividades de la escuela;
 
 III.- Ser el responsable directo del ejercicio del presupuesto autorizado;
 
@@ -639,9 +641,11 @@ III.- Aspirante de segunda, y
 
 IV.- Aspirante de primera, que invariablemente pertenecerán al último año lectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 54.
 
-Al término del año lectivo de acuerdo al plan de estudios vigente, se otorgarán premios a los tres cadetes que hayan obtenido las mayores calificaciones finales de ocho puntos o más y a los tres oficiales alumnos que hayan obtenido las mayores calificaciones finales de nueve o más en todas las materias. Cuando varios alumnos obtengan igual puntuación el Consejo Docente decidirá, conforme a méritos, a quiénes corresponden estos premios.
+Al término del año lectivo de acuerdo al plan de estudios vigente, se otorgarán premios a los cadetes que hayan obtenido las mayores calificaciones finales de ocho puntos o más y a los oficiales alumnos que hayan obtenido las mayores calificaciones finales de nueve o más en todas las materias. Cuando varios cadetes u oficiales alumnos obtengan igual puntuación el Consejo Docente decidirá, conforme a méritos, a quiénes corresponden estos premios.
 
 Los cadetes que obtengan primeros premios deberán usar por cada primer premio un ángulo recto de galón de hilo de oro de doce milímetros de ancho, cuyos lados serán de sesenta milímetros de longitud, colocados en el brazo izquierdo con la bisectriz siguiendo la dirección longitudinal del brazo, el vértice hacia arriba y de manera que quede a igual distancia del codo y del hombro.
 
@@ -657,9 +661,11 @@ Los cadetes y oficiales alumnos podrán hacerse acreedores a las recompensas est
 
 El cadete que haya obtenido durante los cinco años de carrera el primer premio tendrá derecho a que se le otorgue una Mención Honorífica y aquellos que hayan obtenido combinados los primeros y segundos premios o solamente segundos premios en los cinco años de estudios tendrán derecho a una citación.
 
+> <small>(REFORMADO, D.O.F. 25 DE MAYO DE 1999)</small>
+
 ###### Artículo 58.
 
-El cadete que haya acumulado la mayor puntuación deportiva durante los cinco años de permanencia en la escuela tendrá derecho a la Condecoración al Mérito Deportivo Naval de Segunda Clase y el cadete que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias interiores representando a la Escuela Médico Naval y obtenga algún premio se hará acreedor a la condecoración al Mérito Deportivo Naval de Primera Clase, mismas que se le harán entrega en la ceremonia de graduación.
+El cadete que haya acumulado la mayor puntuación deportiva durante los cinco años de permanencia en la escuela tendrá derecho a la Condecoración al Mérito Deportivo Naval de Segunda Clase y el cadete que en competencias nacionales rompa el récord nacional, forme parte de una selección nacional en competencias internacionales representando a la Escuela Médico Naval y obtenga algún premio se hará acreedor a la Condecoración al Mérito Deportivo Naval de Primera Clase, mismas que se le harán entrega en la ceremonia de graduación.
 
 ###### Artículo 59.
 
@@ -952,3 +958,9 @@ Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente d
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Reglamento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dos días del mes de noviembre de mil novecientos noventa y ocho.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Marina, José Ramón Lorenzo Franco.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 25 DE MAYO DE 1999.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
