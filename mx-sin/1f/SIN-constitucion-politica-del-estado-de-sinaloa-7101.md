@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-01-15"
+last_updated: "1938-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE ABRIL DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -577,11 +577,11 @@ En caso de falta absoluta del Gobernador del Estado, ocurrida dentro de los tres
 
 Siempre que por cualquier motivo no pudiera por de pronto el Congreso o la Diputación Permanente, hacer la designación de que tratan los artículos anteriores, entrará a ocupar el cargo, provisionalmente, el Presidente del Supremo Tribunal de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 1938)</small>
 
 ###### Art. 61.
 
-El Gobernador nombrado en los términos de los tres artículos anteriores, no podrá ser Gobernador Constitucional del Estado, por elección popular, para el siguiente período, si ha ejercido sus funciones dentro del último año constitucional respectivo, pero sí podrá ser Gobernador substituto.
+El Gobernador nombrado en los términos de los tres artículos anteriores, no podrá ser electo popularmente en ningún tiempo y por ningún motivo, Gobernador Constitucional del Estado.
 
 ###### Art. 62.
 
@@ -1011,7 +1011,9 @@ II. Haber obtenido mayoría de sufragios legales.
 
 III. No haber sido Secretario General del Gobierno, Tesorero General del Estado, miembro del Supremo Tribunal de Justicia del mismo, Juez de 1a. Instancia, Recaudador de Rentas o Presidente Municipal, dentro de la Jurisdicción, ni haber tenido mando de fuerza de la Federación, del Estado o del Municipio dentro de los seis meses anteriores al día de la elección.
 
-IV. No haber sido convicto por ningún Tribunal, ni haber figurado directa o indirectamente en alguna asonada, motín o cuartelazo promovido en contra de las Instituciones de la Nación o del Estado.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE ABRIL DE 1938)</small>
+
+IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, no podrán ser electos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación en los términos de esta Constitución, desempeñan las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos popularmente para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietario no podrán ser electos para el período inmediato con el carácter de suplentes, pero los que tengan el carácter de suplente, sí podrán ser electos para el período inmediato como propietarios, a menos que hayan estado en ejercicio en el segundo año del período respectivo.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 1937)</small>
 
@@ -1382,3 +1384,7 @@ Artículo Tercero. Las presentes reformas entrarán en vigor a partir de la fech
 P.O. 15 DE ENERO DE 1938.
 
 Artículo Unico.- El presente Decreto surte sus efectos desde el día de su publicación y deroga todas las disposiciones que se opongan a su cumplimiento.
+
+P.O. 9 DE ABRIL DE 1938.
+
+Unico.- El presente Decreto surte sus efectos desde el día de su publicación.
