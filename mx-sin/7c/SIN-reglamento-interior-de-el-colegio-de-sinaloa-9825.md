@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-el-colegio-de-sinaloa-9825"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-23"
-last_updated: "1993-08-23"
+last_updated: "1996-02-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE EL COLEGIO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 23 de agosto de 1993.
 
@@ -69,21 +69,25 @@ Los miembros del Colegio deberán referir su pertenencia a éste en los document
 
 ### CAPITULO III. DE LA ESTRUCTURA ORGANICA
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 8o.
 
-Además de la estructura orgánica señalada en el Artículo 4o. de los Estatutos del Colegio, éste contará con un colegiado secretario y dos direcciones adjuntas de la Secretaría Administrativa.
+Además de la estructura orgánica señalada en el Artículo 4o. de los Estatutos del Colegio, éste contará con un colegiado secretario y dos direcciones adjuntas de la Secretaría Administrativa. Los titulares de estas direcciones serán nombrados por el Secretario Administrativo.
 
 ###### ARTICULO 9o.
 
 Uno de los miembros del Colegio fungirá como colegiado secretario, será nombrado por el Colegio en pleno y durará en su cargo dos años.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### ARTICULO 10.
 
-El Colegiado Secretario llevará la firma del Consejo, promoverá la ejecución de los acuerdos del Consejo y nombrará los directores adjuntos de la Secretaría Administrativa y vigilará la actividad de ésta.
+El Colegiado Secretario será el encargado de levantar las actas del Consejo Directivo, dar seguimiento a los Acuerdos del mismo y las demás que aquél le asigne en el marco de las atribuciones que le correspondan.
 
 ###### ARTICULO 11.
 
-El Secretario Administrativo será designado y removido por el Gobernador del Estado a propuesta del pleno del colegio, la duración de su cargo será indefinida.
+(DEROGADO, P.O. 9 DE FEBRERO DE 1996)
 
 ###### ARTICULO 12.
 
@@ -178,3 +182,11 @@ Francisco C. Frías Castro
 EL SECRETARIO DE EDUCACION PUBLICA Y CULTURA
 
 Gerónimo Martínez García
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE FEBRERO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
