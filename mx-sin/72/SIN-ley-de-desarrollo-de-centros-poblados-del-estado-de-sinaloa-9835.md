@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-desarrollo-de-centros-poblados-del-estado-de-sinaloa-983
 country: "mx"
 rank: "ley"
 publication_date: "1970-10-01"
-last_updated: "1993-08-04"
+last_updated: "2001-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE DESARROLLO DE CENTROS POBLADOS DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA": 4 DE AGOSTO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL "EL ESTADO DE SINALOA": 21 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Suplemento del Periódico Oficial "El Estado de Sinaloa" el 1o. de octubre de 1970.
 
@@ -1597,11 +1597,11 @@ Los usuarios tendrán obligación de contribuir proporcionalmente al sostenimien
 
 El Ayuntamiento supervisará la administración de los servicios para cerciorarse de que sean impartidos con regularidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE DICIEMBRE DE 2001)</small>
 
 ###### Artículo 127.
 
-El Ayuntamiento tomará las medidas que sean necesarias para que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio, se procederá al efecto a la construcción del equipamiento urbano (escuelas, parques deportivos, guarderías y demás) a cuya conservación y mejoramiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el H. Congreso del Estado autorice su enajenación o cambio de destino a solicitud del Ayuntamiento respectivo y en beneficio del Municipio que representa previa aprobación de las Comisiones Municipales de Desarrollo de Centros Poblados y de la Secretaría de Desarrollo Social, mismas que deberán contar previamente con la opinión de sus respectivos Consejos de Desarrollo Urbano. Los funcionarios o autoridades, que sin esa autorización enajenen, dispongan o permitan esto, para fines diversos de aquellos para los que los terrenos fueron originalmente destinados, serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya incluída, serán causa de separación del empleo o cargo, a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
+El Ayuntamiento tomará las medidas que sean necesarias paa que desde luego se aprovechen en los términos estipulados los terrenos donados al Municipio, se procederá al efecto a la construcción del equipamiento urbano a cuya conservación y mantenimiento estarán obligados todos los usuarios. Estos terrenos son imprescriptibles e inalienables, salvo los casos de excepción en los que expresamente el Ayuntamiento respectivo, mediante el voto de las dos terceras partes de sus integrantes, autorice su enajenación o cambio de destino en beneficio general del municipio que representa previa aprobación de las Comisiones Municipales de Desarrollo de Centros Poblados y de la Secretaría de Desarrollo Social, mismas que deberán contar, previamente, con la opinión de sus respectivos Consejos de Desarrollo Urbano. Los funcionarios o autoridades que sin esa autorización enajenen, dispongan o permitan esto, para fines diferentes de aquellos para los que los terrenos fueron originalmente destinados, serán responsables personalmente del pago correspondiente al Municipio y a los usuarios, independientemente de la responsabilidad penal en la que hubieren incurrido. Los actos mencionados realizados sin la autorización ya incluida, serán causa de separación del empleo o cargo a juicio del H. Ayuntamiento respectivo o del H. Congreso del Estado en su caso.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 1992)</small>
 
@@ -1918,3 +1918,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 4 DE AGOSTO DE 1993.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 21 DE DICIEMBRE DE 2001.
+
+UNICO.- El presente decreto se publicará en el Periódico Oficial "El Estado de Sinaloa" e iniciará su vigencia el primero de enero del año 2002.
