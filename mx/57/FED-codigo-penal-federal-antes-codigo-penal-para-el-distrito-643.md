@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1992-07-17"
+last_updated: "1992-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO FEDERAL EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1992.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -915,11 +915,11 @@ c) Abstenerse del abuso de bebidas embriagantes y del empleo de estupefacientes:
 
 d).- Sujetarse a las medidas de orientación y supervisión que se le dicten y a la vigilancia de alguna persona honrada y de arraigo, que se obligue a informar sobre su conducta, presentándolo siempre que para ello fuere requerida.
 
-> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 85.
 
-La libertad preparatoria no se concederá a los condenados por alguno de los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en el artículo 197, ni a los habituales o a los que hubieren incurrido en segunda reincidencia.
+La libertad preparatoria no se concederá a los sentenciados por alguno de los delitos contra la salud en materia de estupefacientes o psicotrópicos previstos en el artículo 197; por el delito de violación previsto en el primero y segundo párrafos del artículo 265 en relación con el artículo 266 bis fracción I; por el delito de plagio o secuestro previsto por el articulo 366, con excepción de lo previsto en la fracción VI de dicho artículo en relación con su antepenúltimo párrafo y lo dispuesto en el penúltimo párrafo; por el delito de robo con violencia en las personas en un inmueble habitado o destinado para habitación, conforme a lo previsto en el artículo 367 en relación con los artículos 372 y 381 bis, de este código; así como a los habituales y a quienes hubieren incurrido en segunda reincidencia.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1983)</small>
 
@@ -4954,3 +4954,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 D.O.F. 17 DE JULIO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 28 DE DICIEMBRE DE 1992.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL DIARIO OFICIAL DE LA FEDERACION.
