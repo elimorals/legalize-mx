@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1930-10-27"
+last_updated: "1931-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE OCTUBRE DE 1930.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ENERO DE 1931.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -577,9 +577,25 @@ El Poder Judicial del Estado se deposita en un Tribunal Supremo de Justicia, en 
 
 Del Tribunal de Justicia.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 1931)</small>
+
 ###### Artículo 68.
 
-El Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y cinco supernumerarios, funcionará siempre en pleno y sus audiencias serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean privadas. La ley respectiva determinará su funcionamiento. Las faltas absolutas de éstos funcionarios que ocurran un año antes de concluir el período de su duración se llenarán por nueva elección, no debiendo durar los electos en este caso, sino el tiempo que falte a los que reemplacen. Mientras se verifica la elección y se presentan los nuevamente electos, así como en las faltas absolutas que no excedan de un año y en las temporales que ocurran entrarán a funcionar los supernumerarios, con arreglo a lo que estableciere la ley orgánica respectiva. En caso de que no los hubiere o no estuvieren expedidos, se cubrirá la falta en los términos que aquella disponga.
+El Supremo Tribunal de Justicia se compondrá de cinco Magistrados Propietarios y cinco Supernumerarios, que funcionarán en Cinco Salas Unitarias, de acuerdo con la Ley Orgánica respectiva; y en Pleno en audiencia pública, salvo los casos en que la moral o el interés público exijan que sean privadas, para conocer los siguientes asuntos:
+
+I.- De aquellos a que se refiere el artículo 71 de esta Constitución en sus fracciones I, V, VIII y X.,
+
+II.- Para ejercitar el derecho de iniciativa que le concede la fracción III del artículo 41 de la Constitución.
+
+III.- Para conocer de las competencias y acumulaciones que se susciten entre los Jueces de Primera Instancia del Estado y los de la Federación, y entre aquellos y los de otros Estados,
+
+IV.- Para nombrar a los Jueces de Primera Instancia y Municipales,
+
+V.- Para conocer de las recusaciones y excusas de los Magistrados y Secretarios del Tribunal cuando funcione en Pleno, y
+
+VI.- Para los demás asuntos cuya resolución no corresponda a las Salas Unitarias, conforme a la Ley Orgánica de Tribunales.
+
+Las faltas absolutas de los Magistrados que ocurran durante los tres primeros años de su ejercicio, se llenarán por nueva elección, no debiendo durar los electos en este caso sino el tiempo que falte a los que reemplacen. Mientras se verifica la elección y se presentan los nuevamente electos, así como en las faltas absolutas que ocurran durante el último año de ejercicio y en las temporales, entrarán a funcionar los Supernumerarios, con arreglo a lo que estableciere la Ley Orgánica respectiva. En caso de que no los hubiere, o no estuvieren expeditos, se cubrirán las faltas en los términos que aquélla disponga.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1928)</small>
 
@@ -1372,3 +1388,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 27 DE OCTUBRE DE 1930.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE MICHOACAN.
+
+P.O. 15 DE ENERO DE 1931.
+
+Habiendo quedado satisfechos todos los requisitos exigidos por el artículo 175 de la Constitución Local para quedar debidamente hecha la reforma del artículo 68 de la misma, la modificación del citado artículo, contenida en la presente ley, entrará en vigor el día 16 de enero del año de 1931.
