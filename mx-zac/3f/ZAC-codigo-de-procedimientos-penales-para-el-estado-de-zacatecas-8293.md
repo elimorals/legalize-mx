@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-penales-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1967-07-19"
-last_updated: "1995-06-07"
+last_updated: "1997-02-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8293&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE FEBRERO DE 1997.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 19 de julio de 1967.
 
@@ -1357,7 +1357,7 @@ Para dictarse una orden de aprehensión no será obstáculo la circunstancia de 
 
 Si por datos posteriores el Ministerio Público estimare que ya no es procedente una orden de aprehensión, no ejecutada aún, previa autorización del Procurador General de Justicia, pedirá su revocación, la que se acordará de plano, sin perjuicio de que se continúe la averiguación y de que posteriormente vuelva a solicitarse, si procede.
 
-###### ARTICULO 194.
+###### ARTICULO 194
 
 Cuando se ejecute una orden de aprehensión dictada contra persona que maneje fondos públicos, se tomarán las providencias necesarias para que no se interrumpa el servicio y se haga entrega de los fondos, valores y documentos que tenga en su poder el inculpado, dictándose, entre tanto, las medidas preventivas que se juzguen oportunas para evitar que se sustraiga a la acción de la justicia.
 
@@ -2290,6 +2290,10 @@ ABIGEATO.- Cuando éste se ejecute con violencia en las personas o se cometa de 
 TORTURA.- Previsto en los Artículos 371, 372 y 373.
 
 LESIONES DOLOSAS.- Graves en cuanto al daño causado por las circunstancias de su ejecución, previsto en el Artículo 285 en relación a la fracción V del Artículo 286 y a los Artículos 287, 289 y 290.
+
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 1997)</small>
+
+DELITO ELECTORAL.- A que se refiere exclusivamente la modalidad prevista en el párrafo primero de la fracción VI del Artículo 385 del Código Penal.
 
 ###### ARTICULO 351.
 
@@ -3279,13 +3283,13 @@ Lic. Alejandro Borrego Acuña.
 
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
 
-P.O. 20 DE AGOSTO DE 1986
+P.O. 20 DE AGOSTO DE 1986.
 
 PRIMERO.- Las reformas y adiciones a que se refiere este Decreto, entrará en vigor a los treinta días siguientes a la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
 
 P.O. 1 DE MAYO DE 1991
 
-UNICO.- El presente Decreto entrará en vigor a los quince días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+UNICO.- El presente Decreto entrará en vigor a los quince día después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
 
 P.O. 10 DE JULIO DE 1993
 
@@ -3312,3 +3316,11 @@ Las presentes reformas entrarán en vigor a los treinta días de su publicación
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan lo dispuesto en las presentes reformas.
+
+P.O. 22 DE FEBRERO DE 1997
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
