@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1974-11-13"
+last_updated: "1977-07-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 1977.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -163,7 +163,7 @@ Hacer que sus hijos o pupilos menores de quince años, así como las demás pers
 
 Pierde el derecho de ciudadano del Estado el que deje de ser ciudadano mexicano.
 
-### CAPITULO IV
+### CAPITULO IV. DE LAS ATRIBUCIONES DEL CONGRESO
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -243,7 +243,7 @@ Pierde el derecho de ciudadano del Estado, el que deje de ser ciudadano mexicano
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-### CAPITULO I
+### CAPITULO I. DEL PODER EJECUTIVO
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -265,9 +265,9 @@ No podrán reunirse dos o más de estos poderes en una sola persona o corporaci�
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-### CAPITULO II. DEL SECRETARIO GENERAL DE GOBIERNO
+### CAPITULO II. DE LA ORGANIZACION DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 16.
 
@@ -303,9 +303,9 @@ V.- Solamente podrán acreditar diputados de partido, en los términos de las fr
 
 ## TITULO CUARTO
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(ADICIONADA, P.O. 13 DE JULIO DE 1977)</small>
 
-#### SECCION SEGUNDA. DEL PODER EJECUTIVO
+#### SECCION PRIMERA
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -391,7 +391,7 @@ Las resoluciones del Congreso tendrán el carácter de Ley o Decreto; las Leyes 
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO CUARTO (SIC). DEL MINISTERIO PUBLICO
+## TITULO QUINTO. DE LOS MUNICIPIOS
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -445,7 +445,7 @@ Si el Congreso no aceptare Ias observaciones del Ejecutivo, lo reservará para e
 
 El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste acuerde la prórroga de sus sesiones o ejerza funciones de Cuerpo Electoral o Jurado.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(ADICIONADA SU DENOMINACION, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 34.
 
@@ -547,7 +547,7 @@ La Comisión Permanente durará hasta la siguiente reunión ordinaria del Congre
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO QUINTO. DE LOS MUNICIPIOS
+## TITULO SEXTO. DE LA HACIENDA PUBLICA
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -581,11 +581,11 @@ Es también facultad de la Comisión Permanente, convocar a sesiones extraordina
 
 Cuando esto ocurra no se tratará ningún otro asunto de la Cámara ni se prolongarán las sesiones por más tiempo del indispensable para fallar.
 
-> <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1977)</small>
 
-#### SECCION TERCERA. DEL PODER JUDICIAL
+#### SECCION SEGUNDA
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(ADICIONADA SU DENOMINACION, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 38.
 
@@ -701,11 +701,17 @@ XII.- Imponer multas con arreglo a la Ley, a los funcionarios y empleados de su 
 
 XIII.- Revisar los actos de los Ayuntamientos en los casos que la Ley determine.
 
-XIV.- Acordar que concurra el Secretario General de Gobierno a las sesiones del Congreso, para que dé a éste los informes que pida o para apoyar en los debates, las observaciones que haga el ejecutivo a los proyectos de Ley o Decretos, o bien las iniciativas que presentare.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1977)</small>
+
+XIV.- Acordar que concurra el Secretario General de Gobierno o el Titular de la Dependencia que corresponda, a las sesiones del Congreso, para que den a éste los informes que pida o para apoyar, en los debates, las observaciones que haga el Ejecutivo o las iniciativas que se presenten.
 
 XV.- Pasar al Procurador General de Justicia los asuntos que deban ventilarse dentro de los Tribunales, para que ejercite ante ellos las atribuciones de su ministerio. Podrá sin embargo el Ejecutivo, nombrar algún abogado que lo represente en determinado asunto, cuando así lo crea conveniente.
 
-XVI.- Nombrar y remover libremente al Secretario y Subsecretario General de Gobierno, Oficial Mayor, Secretario Particular, Procurador General de Justicia, Directores, Subdirectores, y Jefes de Departamento dependientes del Poder Ejecutivo, Recaudadores y Subrecaudadores de Hacienda. Así mismo, nombrar a todos los empleados subalternos observándose sobre el particular y su remoción, lo que prevengan las leyes respectivas que determinarán, además, la categoría de empleados de base y de confianza, en la inteligencia de que ninguno de los funcionarios y empleados podrán pertenecer al estado eclesiástico o ser Ministros de algún culto.
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1977)</small>
+
+XVI.- Nombrar y remover libremente al Secretario y Subsecretario General de Gobierno, Secretarios del Despacho, Oficial Mayor, Procurador General de Justicia, Directores, Subdirectores y Jefes de Departamento, Recaudadores y Sub-Recaudadores de Hacienda. Y los demás funcionarios y empleados cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las Leyes.
+
+Ninguno de los funcionarios o empleados podrán pertenecer al estado eclesiástico o ser ministro de algún culto.
 
 XVII.- Expedir títulos profesionales conforme a la Ley respectiva.
 
@@ -721,39 +727,43 @@ XXII.- Proponer terna al Congreso para el nombramiento de magistrados del Tribun
 
 XXIII.- dejar en su lugar, como encargado del despacho del Poder Ejecutivo, al Secretario General de Gobierno, cuando su ausencia no exceda de un mes, de conformidad con lo dispuesto por el segundo párrafo del artículo 46.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 48.
 
-El Ejecutivo tendrá para el despacho de los negocios oficiales, un Secretario que se denominará "Secretario General de Gobierno". Para ocupar este puesto, son necesarios los mismos requisitos que para ser electo Gobernador.
+Para el despacho de los negocios del orden administrativo del Estado, habrá una Secretaría General de Gobierno y las demás Dependencias que establezca la Ley Orgánica de la Administración Pública del Estado, la que señalará las competencias que a cada una corresponda.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+El Secretario General de Gobierno requerirá, para su designado, de los mismos requisitos señalados que para ser electo Gobernador.
+
+La Ley Orgánica de la Administración Pública del estado fijará los requisitos que deberán tener los otros Titulares de las Dependencias para ser nombrados por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 49.
 
-Substituirá al Gobernador en sus faltas que no excedan de un mes, será el Jefe de la Secretaría y estarán a su cargo todos los negocios del ejecutivo del Estado, sean cuales fueren. Todos los Reglamentos y órdenes del Gobernador, deberán ir firmados por el Secretario General, sin este requisito, no serán obligatorios.
+Todos los Reglamentos y Acuerdos del Gobernador deberán ir firmados por el Titular de la Dependencia que corresponda. Sin este requisito, no serán obedecidos.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 50.
 
-Las faltas del Secretario General, serán suplidas por el Subsecretario General de Gobierno.
+Las ausencias de los Titulares de las Dependencias serán suplidas en los términos que establezca la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
-## TITULO SEXTO. DE LA HACIENDA PUBLICA
+## TITULO SEPTIMO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 51.
 
-El Congreso podrá citar al Secretario General de Gobierno para que informe cuando se discuta una ley o se estudie un negocio cualquiera.
+El Congreso podrá citar a los Titulares de las Dependencias para que informen cuando se discuta una Ley o se estudie un negocio que les competa.
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 1973)</small>
 
-#### SECCION TERCERA. Del Poder Judicial
+#### SECCION TERCERA. DEL PODER JUDICIAL
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 1951)</small>
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 52.
 
@@ -851,6 +861,10 @@ Si faltare algún Magistrado Propietario por defunción, renuncia, suspensión d
 
 Las Licencias de los Magistrados, cuando no excedan de dos meses, serán concedidas por el Tribunal Superior; las que excedan de ese tiempo, las concederá o rechazará el Congreso del Estado o la Comisión Permanente, en sus respectivos casos.
 
+> <small>(REFORMADA, P.O. 13 DE JULIO DE 1977)</small>
+
+#### SECCION CUARTA. DEL MINISTERIO PUBLICO
+
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 62.
@@ -931,29 +945,29 @@ En ningún caso podrán hacerse incorporaciones o segregaciones de un Municipio 
 
 La Hacienda del Estado se compone de los edificios públicos del mismo; de las herencias y bienes vacantes que estén dentro de su territorio; de los bienes mostrencos; de los créditos que tenga a su favor; de las rentas que deba percibir y de las contribuciones decretadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 71.
 
-La Dirección de Hacienda del Estado estará a cargo de un Director General y dependerá directamente del Ejecutivo.
+La Secretaría de Finanzas del Estado, dependerá directamente del Ejecutivo y estará a cargo del Secretario de Finanzas quien, además de la competencia fijada por esta Constitución, le corresponderá el despacho de los negocios que le señale la Ley Orgánica de la Administración Pública del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
-## TITULO SEPTIMO. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS PUBLICOS
+## TITULO OCTAVO. PREVENCIONES GENERALES
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
 ###### ARTICULO 72.
 
-El Director de Hacienda, presentará mensualmente al Gobierno los cortes de caja y balance de comprobación, reIativos al movimiento de fondos habidos en el mes anterior. Estos documentos se publicarán desde luego en el Periódico Oficial del Estado.
+El Secretario de Finanzas presentará mensualmente al Gobierno los cortes de caja y balance de comprobación, relativos al movimiento de fondos habido en el mes anterior. Estos documentos se publicarán desde luego en el Periódico Oficial del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 73.
 
-Todos los caudales públicos pertenecientes al Estado, ingresarán a la Dirección General o a las Oficinas Recaudadoras de Hacienda que determine la Ley. El Director de Hacienda hará la distribución de ellos según el presupuesto y será responsable, personal y precuniariamente (sic), por los pagos que efectúe sin que estén comprendidos en aquél, o autorizados por la Ley.
+Todos los caudales públicos pertenecientes al Estado, ingresarán a la Secretaría de Finanzas o a las Oficinas Recaudadoras de Hacienda que determine la Ley. El Secretario de Finanzas hará la distribución de ellos según el presupuesto y será responsable, personal y pecuniariamente, por los pagos que efectúe sin que estén comprendidos en aquél o autorizados por la Ley.
 
-Las ordenes con cargo a una partida o Ley que asigne una cantidad para gastos extraordinarios, serán firmadas forzosamente por el Gobernador y el Secretario General de Gobierno.
+La partida presupuestal o Ley que asigne una cantidad para gastos extraordinarios, serán firmadas forzosamente por el Gobernador y el Secretario General de Gobierno.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -975,11 +989,11 @@ Todo funcionario público, cualquiera que sea su categoría es responsable de lo
 
 Para los delitos oficiales se concede acción popular, sin obligación de constituirse en parte.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
+> <small>(REFORMADO, P.O. 13 DE JULIO DE 1977)</small>
 
 ###### ARTICULO 77.
 
-Siempre que se trate de algún delito del orden común cometido por algún Diputado, por el Gobernador, por algún Magistrado, por el Procurador General de Justicia, por el Secretario y Subsecretario General de Gobierno, por el Oficial Mayor o por el Director General de Hacienda, el Congreso, erigido en jurado, declarará, por los dos tercios de los votos de sus miembros presentes, cuando se trate de Gobernador, y por mayoría, cuando se trate de Ios otros funcionarios, si ha lugar o no a fosmación (sic) de causa. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales Comunes. La declaración de haber lugar a la formación de causa contra un funcionario de elección popular se requiere desde la fecha en que haya sido declarado electo.
+Siempre que se trate de algún delito del orden común cometido por algún Diputado, por el Gobernador, por algún Magistrado, por el Procurador General de Justicia, por el Secretario y Subsecretario General de Gobierno, por el Oficial Mayor o por los Secretarios del Despacho, el Congreso, erigido en jurado, declarará, por los dos tercios de los votos de sus miembros presentes cuando se trate de Gobernador, y por mayoría, cuando se trate de Ios otros funcionarios, si ha lugar o no a formación de causa. En caso negativo no habrá lugar a procedimiento ulterior. En el afirmativo, quedará el acusado, por ese solo hecho, separado de su encargo y sujeto a la acción de los Tribunales Comunes. La declaración de haber lugar a la formación de causa contra un funcionario de elección popular, se requiere desde la fecha en que haya sido declarado electo.
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -997,7 +1011,7 @@ Pronunciada la sentencia de responsabilidad por delitos oficiales, no podrá con
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO OCTAVO. PREVENCIONES GENERALES
+## TITULO NOVENO. DE LAS REFORMAS A LA CONSTITUCION
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1077,7 +1091,7 @@ La construcción de obras públicas las hará el Ejecutivo por contrato, o por a
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
-## TITULO NOVENO. DE LAS REFORMAS A LA CONSTITUCION
+## TITULO DECIMO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
 > <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1973)</small>
 
@@ -1553,6 +1567,8 @@ P.O. 13 DE NOVIEMBRE DE 1974.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
+P.O. 13 DE JULIO DE 1977.
+
 ###### Artículo 2o.
 
 Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
@@ -1562,3 +1578,11 @@ P.O. 17 DE JUNIO DE 1970.
 ###### ARTICULO 3o.
 
 El artículo 68 de la presente Constitución, en lo que se refiere al período de duración de los Ayuntamientos, entrará en vigor a partir del 1o. de enero de 1953, entretanto, los Ayuntamientos que se elijan durarán, dos años los de primera y segunda categoría y uno los de tercera.
+
+###### ARTICULO PRIMERO.
+
+Quedan derogadas todas las disposiciones que se opongan a las presentes reformas.
+
+###### ARTICULO SEGUNDO.
+
+Estas reformas entrarán en vigor una vez concluído el procedimiento establecido en el Artículo 93 de la Constitución Política del Estado de Chiapas, Fracciones I, II, III, IV, al día siguiente de su publicación en el Periódico Oficial del Estado.
