@@ -4,7 +4,7 @@ identifier: "LFMZAAH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1972-05-06"
-last_updated: "1972-05-06"
+last_updated: "1974-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=407&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFMZAAH"
 
 LEY FEDERAL SOBRE MONUMENTOS Y ZONAS ARQUEOLOGICOS, ARTISTICOS E HISTORICOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 6 de mayo de 1972.
 
@@ -68,9 +68,11 @@ V.- El Instituto Nacional de Bellas Artes y Literatura y
 
 VI.- Las demás autoridades y dependencias federales, en los casos de su competencia.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 4o.
 
-Las autoridades de los Estados, Territorios y Municipios tendrán, en la aplicación de esta Ley, la intervención que la misma y su Reglamento señalen.
+Las autoridades de los estados y municipios tendrán, en la aplicación de esta ley, la intervención que la misma y su reglamento señalen.
 
 ###### ARTICULO 5o.
 
@@ -104,9 +106,11 @@ El Instituto competente proporcionará asesoría profesional en la conservación
 
 El Instituto competente procederá a efectuar las obras de conservación y restauración de un bien inmueble declarado monumento histórico o artístico, cuando el propietario, habiendo sido requerido para ello, no la realice. La Tesorería de la Federación hará efectivo el importe de las obras.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
 ###### ARTICULO 11.
 
-Los propietarios de bienes inmuebles declarados monumentos históricos o artísticos que los mantengan conservados y en su caso los restauren, en los términos de esta Ley, podrán solicitar la exención de impuestos prediales correspondientes, en la jurisdicción del Distrito y Territorios Federales, con base en el dictamen técnico que expida el Instituto competente, de conformidad con el reglamento.
+Los propietarios de bienes inmuebles declarados monumentos históricos o artísticos que los mantengan conservados y en su caso los restauren, en los términos de esta ley, podrán solicitar la exención de impuestos prediales correspondientes, en la jurisdicción del Distrito Federal, con base en el dictamen técnico que expida el instituto competente, de conformidad con el reglamento.
 
 Los Institutos promoverán ante los Gobiernos de los Estados la conveniencia de que se exima del impuesto predial, a los bienes inmuebles declarados monumentos, que no se exploten con fines de lucro.
 
@@ -160,7 +164,9 @@ A falta de disposición expresa en esta Ley, se aplicarán supletoriamente:
 
 I.- Los tratados internacionales y las leyes federales; y
 
-II.- Los códigos civil y penal vigentes para el Distrito y Territorios Federales en materia común y para toda la República en materia federal.
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+II.- Los códigos civil y penal vigentes para el Distrito Federal en materia común y para toda la República en materia federal.
 
 ###### ARTICULO 20.
 
@@ -344,7 +350,9 @@ Al que por cualquier medio pretenda sacar o saque del país un monumento arqueol
 
 A los reincidentes en los delitos tipificados en esta Ley, se les aumentará la sanción desde dos tercios hasta otro tanto de la duración de la pena. La sanción para quienes resulten delincuentes habituales se aumentará de uno a dos tantos de la que corresponda al delito mayor.
 
-Para resolver sobre reincidencia y habitualidad se estará a los principios del Código Penal para el Distrito y Territorios Federales aplicable en toda la República en materia federal.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
+
+Para resolver sobre reincidencia y habitualidad se estará a los principios del Código Penal para el Distrito Federal, aplicable en toda la República en materia federal.
 
 Los traficantes de monumentos arqueológicos serán considerados delincuentes habituales para los efectos de esta Ley.
 
@@ -375,3 +383,11 @@ Se respetan los derechos adquiridos conforme a leyes anteriores, debiendo los ti
 México, D. F., a 28 de abril de 1972.- Renato Vega Alvarado, D. P.- Vicente Fuentes Díaz, S. P.- Raymundo Flores Bernal, D. S.- Vicente Juárez Carro, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiocho días del mes de abril de mil novecientos setenta y dos.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahúja.- Rúbrica.- El Secretario del Patrimonio Nacional, Horacio Flores de la Peña.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Hugo B. Margáin.- Rúbrica.- El Secretario de Relaciones Exteriores, Emilio O. Rabasa.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Octavio Sentíes Gómez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 23 DE DICIEMBRE DE 1974.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
