@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1976-12-31"
+last_updated: "1979-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1979.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -574,7 +574,7 @@ V.- Las tarifas estarán en vigor durante el período que las mismas indiquen. S
 
 Todas las tarifas, ya sea que señalen o no el término de su vigencia, estarán sujetas a ser revisadas, modificadas o canceladas, en los términos que ordene la Secretaría de Comunicaciones de conformidad con esta ley y su reglamento.
 
-VI.- Las clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
+VI.- La clasificación de efectos será uniforme para cada sistema de transportes en las zonas que fije la Secretaría y se formulará de acuerdo con lo que se determine en el Reglamento.
 
 ###### ARTICULO 56.
 
@@ -3532,7 +3532,9 @@ El Ejecutivo Federal, por conducto de la Secretaría de Comunicaciones, queda fa
 
 Tendrán franquicia en la Red Nacional:
 
-I.- Los mensajes oficiales de los funcionarios y empleados de los Poderes Legislativo, Ejecutivo y Judicial de la Federación, con las restricciones que establezca el reglamento;
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+I.- Los mensajes oficiales de los funcionarios y empleados de los Poderes Legislativo y Judicial de la Federación con las restricciones que establezca el reglamento;
 
 II.- Los mensajes de las autoridades judiciales de los Estados que actúen en auxilio de la justicia federal, en los casos previstos en el artículo 23 de la Ley Orgánica de los artículos 103 y 107 de la Constitución Federal;
 
@@ -3560,7 +3562,9 @@ c).- Los mensajes de las instituciones de crédito, en las que el Gobierno Feder
 
 X.- Pagarán el cincuenta por ciento de la tarifa en asuntos oficiales, los funcionarios y empleados de los Estados y Municipios, en los mensajes oficiales que se cambien entre sí, con los particulares o con las dependencias federales, cuando ventilen asuntos oficiales de carácter legal.
 
-Por causa de utilidad pública, la Secretaría de Comunicaciones podrá conceder franquicia telegráfica, parcial o totalmente, a instituciones culturales y científicas, por tiempo limitado y señalando la clase de asuntos que comprende la franquicia.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+
+La Federación estará obligada a pagar los derechos que correspondan en materia de comunicación eléctrica de la red nacional, salvo en los casos de franquicias señalados en esta Ley.
 
 ###### ARTICULO 391.
 
@@ -4634,17 +4638,19 @@ III.- En efectivo.
 
 Disfrutará de franquicia postal la correspondencia que en seguida se enumera:
 
-I.- La Oficial de los Poderes Legislativo, Ejecutivo y Judicial de la Federación.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
-II.- La particular del Presidente de la República, Secretarios y Subsecretarios de Estado, Jefes de los Departamentos Autónomos y Director General de Correos.
+I.- La oficial de los Poderes Legislativo y Judicial de la Federación.
+
+II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
 
 III.- La oficial de los Poderes Legislativo, Ejecutivo y Judicial de los gobiernos de los Estados y la de los municipios, cuando esté dirigida a oficinas federales.
 
-IV.- La que se refiere a la Estadística y Censos Nacionales.
+IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
 
 V.- La oficial del Registro Civil.
 
-VI.- La que dirijan los médicos a las autoridades sanitarias dando aviso de enfermos contagiosos.
+VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1979)
 
 VII.- Las publicaciones periódicas que reunan los requisitos que fije el reglamento.
 
@@ -4660,11 +4666,11 @@ Los exhortos a las actuaciones que remitan las autoridades en juicio de amparos 
 
 La correspondencia del servicio internacional disfrutará de franquicia en los casos que así lo determinen expresamente los convenios y tratados internacionales.
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 517.
 
-El Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones y Obras Públicas, podrá conceder franquicia para usar el servicio ordinario por vías de superficie, a instituciones culturales y científicas.
+El Ejecutivo de la Unión, por conducto de la Secretaría de Comunicaciones y Transportes, podrá conceder franquicia para usar el servicio ordinario por vías de superficie, a instituciones públicas de carácter cultural y científico.
 
 > <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1951)</small>
 
@@ -5032,7 +5038,7 @@ Se suspenderán hasta por seis meses las licencias del personal técnico aeroná
 
 La Secretaría de Comunicaciones revocará las licencias del personal aeronáutico cuando a su juicio y por contumacia, así lo merezcan.
 
-(REFORMADO, D.O.F. 23 DE ENERO DE 1950) (F. DE E., D.O.F. 11 DE MAYO DE 1950)
+(REFORMADO, D.O.F. 23 DE ENERO DE 1950)(F. DE E., D.O.F. 11 DE MAYO DE 1950)
 
 ###### ARTICULO 565.
 
@@ -5457,3 +5463,11 @@ D.O.F. 31 DE DICIEMBRE DE 1976.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor quince días después de su publicación, en el "Diario Oficial" de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 1979.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día primero de enero de mil novecientos ochenta.
