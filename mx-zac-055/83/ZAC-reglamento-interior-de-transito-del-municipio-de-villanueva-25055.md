@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-interior-de-transito-del-municipio-de-villanueva-250
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-06-01"
-last_updated: "2002-06-01"
+last_updated: "2004-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 REGLAMENTO INTERIOR DE TRANSITO DEL MUNICIPIO DE VILLANUEVA, ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 2004.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 1 de junio de 2002.
 
@@ -61,7 +61,9 @@ Para la aplicación del presente Reglamento, se entenderá por:
 
 I.- Ley: Ley de Tránsito del Estado;
 
-II.- Reglamento: El Reglamento de la Ley de Tránsito Municipal;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2004)</small>
+
+II.- Reglamento: El Reglamento de Tránsito Municipal;
 
 III.- Vía Pública: Espacio físico y su equipamiento de libre acceso, de jurisdicción municipal que se utiliza para el desplazamiento de peatones, vehículos o semovientes;
 
@@ -76,6 +78,10 @@ VII.- Director: Director General de Seguridad Pública y Tránsito Municipal;
 VIII.- Agente: Elemento uniformado de la Dirección General de Seguridad Pública y Vialidad, que realiza funciones de vigilancia y control del tránsito y la vialidad;
 
 IX.- Vehículos de emergencia: De tránsito, policía, bomberos y ambulancias.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+X.- Base de datos: El sistema de registro del historial de las infracciones a las disposiciones del presente Reglamento que cometan los conductores en el municipio de Villanueva.
 
 ### CAPÍTULO II. ATRIBUCIONES Y OBLIGACIONES DE LAS AUTORIDADES DE TRÁNSITO
 
@@ -107,7 +113,9 @@ VIII.- Imponer sanciones por infracciones cometidas a la Ley y su Reglamento;
 
 IX.- Presidir o participar en las comisiones que en materia de vialidad y transporte, acuerde el Presidente Municipal;
 
-X.- Realizar estudios e implementar programas permanentes que hagan posible el avance y actualización en materia de Ingeniería de Tránsito, Educación y Seguridad Vial;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MARZO DE 2004)</small>
+
+X.- Realizar estudios e implementar programas permanentes que hagan posible el avance y actualización en materia de Ingeniería de Tránsito, Educación y Seguridad Vial, así como mantener actualizada la Base de Datos señalada en la fracción X del artículo 2 del presente Reglamento;
 
 XI.- Previo acuerdo del Presidente Municipal, expedir Manual de Organización y Procedimientos, acuerdos y circulares de carácter interno;
 
@@ -203,11 +211,33 @@ II.- Participación en hecho de tránsito;
 
 III.- Presunción o evidencia de conducción punible;
 
-IV.- Abandono injustificado por más de 72 horas en las vías públicas;
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
 
-V.- Violación grave a las reglas sobre circulación, o sobre prestación de servicio público de transporte;
+IV.- Estacionarse en lugar prohibido por un tiempo mayor de diez (10) minutos;
 
-VI.- Orden escrita de autoridad competente.
+V.- Abandono injustificado por más de 72 horas en las vías públicas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VI.- Violación grave a las reglas sobre circulación;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VII.- Prestación de Servicio Público, en vehículo particular, de conformidad con el artículo 20 Fracción III de este ordenamiento;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VIII.- Prestación de Servicio Público, de vehículo particular en arrastre de otros vehículos;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+IX.- Al no presentar ningún tipo de documentación legal, que permita conducir y acreditar la propiedad del vehículo;
+
+X.- Orden escrita de autoridad competente;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XI.- Cuando el titular sea reincidente en el término de un año, por la misma falta de tres infracciones señaladas en el presente Reglamento.
 
 ### CAPÍTULO III. DE LA CLASIFICACIÓN DE LOS VEHÍCULOS
 
@@ -353,6 +383,10 @@ c) Queda estrictamente prohibido: alterar sus caracteres, doblarlas, colocarlas 
 
 d) Se prohíbe asimismo, utilizar placas de ornato o no reglamentarias;
 
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2004)</small>
+
+e) Cuando las placas que porte el vehículo no concuerden con su registro, éste se retirará inmediatamente de la circulación y se aplicarán al conductor las sanciones previstas en el presente Reglamento.
+
 II.- Encontrarse en buen estado de funcionamiento, a juicio de la Dirección para que su uso se realice en aceptables condiciones de seguridad;
 
 III.- Contar el vehículo con claxon capaz de emitir un sonido que sea audible, en circunstancias normales, a una distancia no menor de 60 metros. El uso de torretas, sirenas, silbatos o implementos análogos, será exclusivo de vehículos oficiales de emergencia;
@@ -390,6 +424,18 @@ XIII.- Estar provisto de cinturones de seguridad;
 XIV.- Los vehículos que expidan humo en exceso o con escape, radio o estero (sic) ruidosos, serán retirados de la circulación y sancionados sus propietarios o conductores;
 
 XV.- Para la circulación de vehículos con cristales polarizados o cubiertos con pinturas o materiales reflejantes, se requerirá autorización previa de la Dirección.
+
+> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2004)</small>
+
+La Dirección solamente emitirá autorizaciones de polarizado de bajo grado, con trasmitancia luminosa menor al 75% y solamente para los cristales delantero y trasero del vehículo. Quedando exceptuados de los (sic) anterior, los conductores que por razones médicas o de seguridad requieran de utilizar pinturas, materiales reflejantes o polarizado en mayor grado al señalado, pudiendo la dirección emitir la autorización correspondiente;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XVI.- No utilizar cornetas de aire dentro de la zona urbana; y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XVII.- Se prohíbe la instalación de calcomanías en cualquier parte del vehículo, que muestren imágenes que hagan apología de algún delito.
 
 ###### ARTÍCULO 11.
 
@@ -477,29 +523,63 @@ VI.- Detener su vehículo junto a la orilla de la banqueta, sin invadir ésta, p
 
 VII.- Conservar respecto del vehículo que va adelante, la distancia de visibilidad de parada que garantice la detención oportuna en los casos en que aquel frene intempestivamente, para lo cual, tomarán en cuenta la velocidad permitida y las condiciones de las vías sobre las que transiten.
 
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VIII.- Utilizar (sic) verificar que los pasajeros se coloquen los cinturones de seguridad en los asientos delanteros y cuando el automóvil esté provisto de ellos, en los asientos traseros, y
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+IX.- Todo conductor que transporte niños menores de ocho años, o cuya estatura no alcance un metro de altura, deberá llevarlos en el asiento trasero, de preferencia en un asiento apropiado y con los cinturones debidamente ajustados.
+
 PROHIBICIONES A CONDUCTORES
 
 ###### ARTÍCULO 20.
 
 Los conductores deberán respetar las siguientes prohibiciones:
 
-I.- Para conducir un vehículo de motor es necesario estar en pleno uso de sus facultades físicas y mentales portar la licencia correspondiente o documento que la supla y que ampare precisamente la operación del vehículo y servicio de que se trate, así mismo el conductor deberá utilizar el cinturón de seguridad;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2004)</small>
 
-II.- Transportar personas en la parte exterior de la carrocería o en lugares inadecuados por razones de seguridad, salvo casos excepcionales y previa autorización escrita;
+I.- Para conducir un vehículo de motor es necesario estar en pleno uso de sus facultades físicas y mentales, portar la licencia correspondiente o documento que la supla y que ampare precisamente la operación del vehículo y servicio de que se trate;
 
-III.- Transportar mayor número de personas que el señalado en la correspondiente tarjeta de circulación;
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
 
-IV.- Abastecer de combustible el vehículo con el motor en marcha;
+II.- El conductor deberá utilizar el cinturón de seguridad;
 
-V.- Entorpecer la marcha de columnas militares, escolares, desfiles cívicos, cortejos fúnebres, caravanas y manifestaciones autorizadas;
+III.- Transportar personas en la parte exterior de la carrocería o en lugares inadecuados por razones de seguridad, salvo casos excepcionales y previa autorización escrita;
 
-VI.- Efectuar competencias de cualquier índole en la vía pública;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 10 DE MARZO DE 2004)</small>
 
-VII.- Circular en sentido contrario o invadir el carril de contra flujo, así como transitar innecesariamente sobre las rayas longitudinales marcadas en la superficie de rodamiento que delimitan carriles de circulación;
+IV.- Transportar mayor número de personas que el señalado en la correspondiente tarjeta de circulación; en relación al artículo 8 fracción VI de este ordenamiento;
 
-VIII.- Conducir con aliento alcohólico, estado de ebriedad, o bajo los efectos de drogas, enervantes o calmantes aun cuando su uso sea recomendado por prescripción médica. Los anteriores supuestos se comprobarán mediante certificado médico;
+V.- Abastecer de combustible el vehículo con el motor en marcha;
 
-IX.- Cambiar de carril cuando exista raya continúa delimitando los carriles circulación (sic); o cuando siendo intermitente aquella, no se anuncie el cambio, con la debida anticipación, mediante la luz direccional respectiva.
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VI.- Abastecer de combustible (gas) a vehículo (sic) particulares, en la vía pública;
+
+VII.- Entorpecer la marcha de columnas militares, escolares, desfiles cívicos, cortejos fúnebres, caravanas y manifestaciones autorizadas;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2004)</small>
+
+VIII.- Efectuar comparencias (sic) de cualquier índole en la vía pública, sin contar con permiso de servicio concesionado;
+
+IX.- Circular en sentido contrario o invadir el carril de contra flujo, así como transitar innecesariamente sobre las rayas longitudinales marcadas en la superficie de rodamiento que delimitan carriles de circulación;
+
+X.- Conducir con aliento alcohólico, estado de ebriedad, o bajo los efectos de drogas, enervantes o calmantes aun cuando su uso sea recomendado por prescripción médica. Los anteriores supuestos se comprobarán mediante certificado médico;
+
+XI.- Cambiar de carril cuando exista raya continúa delimitando los carriles circulación (sic); o cuando siendo intermitente aquella, no se anuncie el cambio, con la debida anticipación, mediante la luz direccional respectiva;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XII.- Circular en el primer cuadro de la ciudad, camiones de dos o más ejes cuya capacidad de carga exceda de más de 3.5 toneladas;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XIII.- Conducir utilizando el teléfono celular, o en su caso, cualquier tipo de audífono o con el aparato de sonido a tal volumen, que le sea racionalmente imposible al conductor percatarse de los estímulos auditivos del ambiente;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XIV.- Sujetarse a las modalidades y limitantes que establezca la Dirección, la cual solamente utilizará al menor a conducir los vehículos automotores registrados en un horario de 6:00 a 22:00 horas.
 
 LÍMITES LEGALES DE VELOCIDAD MÁXIMA
 
@@ -801,79 +881,25 @@ XV.- Frente a tomas de agua para bomberos;
 
 XVI.- En donde exista señalamiento o marca que indique prohibido el estacionamiento;
 
-XVII.- En vías de circulación continua, por falta de combustible en el vehículo, o cualquier otra causa.
+XVII.- En vías de circulación continua, por falta de combustible en el vehículo, o cualquier otra causa;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XVIII.- A menos de 5 metros de una esquina;
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2004)</small>
+
+XIX.- En los lugares destinados a los discapacitados o personas con capacidades diferentes, o frente a las rampas de acceso a la banqueta.
 
 ### CAPÍTULO VII. CLASIFICACIÓN DE LAS VÍAS PÚBLICAS
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 10 DE MARZO DE 2004)</small>
+
 ###### ARTÍCULO 43.
 
-Las vías públicas se integran por el espacio físico y su equipamiento, de libre acceso, de jurisdicción estatal o municipal, que se utilizan para el desplazamiento de peatones, vehículos y semovientes, y se clasifican en:
+Queda prohibido apartar lugares de estacionamiento en la Vía Pública, así como colocar objetos que obstaculicen el mismo.
 
-I.- VÍAS PRIMARIAS
-
-A) De enlace
-
-1.- Carreteras y caminos estatales
-
-2.- Carreteras y caminos municipales
-
-a) De pavimento
-
-b) De terracería
-
-c) Brecha
-
-d) De herradura
-
-B) Principales
-
-1.- Anular o periférica
-
-2.- Radial
-
-3.- Boulevard
-
-4.- Avenida
-
-5.- Paseo
-
-6.- Calzada
-
-II.- SECUNDARIAS
-
-1.- Calle Colectora
-
-2.- Calle local
-
-a) Residencial
-
-b) Industrial
-
-3.- Callejón
-
-4.- Rinconada
-
-5.- Cerrada
-
-6.- Privada
-
-7.- Calle peatonal
-
-8.- Pasaje
-
-9.- Andador
-
-10.- Portal
-
-III.- AREAS DE TRANSFERENCIA
-
-1.- Estacionamientos
-
-2.- Sitios
-
-3.- Terminales urbanas, suburbanas y foráneas
-
-4.- Paraderos.
+Los Agentes removerán o depositarán en la Dirección, los objetos a que se refiere este artículo. En caso de que se requiera señalamiento para carga o descarga o señalización en tiendas o establecimientos comerciales, deberá presentarse en la Dirección a fin de otorgar el permiso.
 
 ### CAPÍTULO VIII. DE LAS SEÑALES Y DISPOSITIVOS DE PROTECCIÓN PARA EL CONTROL DEL TRÁNSITO
 
@@ -1055,95 +1081,67 @@ Donde haya semáforos para peatones, éstos deberán atender sus indicaciones.
 
 Al conductor que contravenga las disposiciones del presente reglamento se le sancionara, de acuerdo a la falta cometida, con el pago de una multa correspondiente al importe de 1 a 30 días de salario mínimo general vigente en el estado, de conformidad a lo establecido en el artículo 213 del Bando de Policía y Buen Gobierno, según se indica a continuación:
 
-ART. REFERENCIA CAUSAL
+> <small>(REFORMADA TABLA, P.O. 10 DE MARZO DE 2004)</small>
 
-10-I Placas. Falta de una
+ART. REFERENCIA CAUSAL I II III
 
-10-I Placas. Falta de ambas
+(1 día) (3 días) (5 días)
 
-10-I a) Placas. Portación en lugar inadecuado
+8-II Tránsito. Participación
 
-10-I c) Placas. Alteración de caracteres
+En hecho de X
 
-10-I d) Placas. Portar no reglamentarias
+8-V Injustificado. Abandono X
 
-10-I Tarjeta de Circulación. Falta de
+8-VI Reglas sobre circulación. X
 
-10-II Vehículos. Inadecuadas condiciones de funcionamiento
+Violación
 
-10-III Claxon. Falta de
+8-VIII Vehículo Particular. X
 
-10-III Dispositivos para vehículos de emergencia. Uso indebido
+Arrastre en
 
-10-IV a XIII Vehículos Falta de accesorios
+8-IX La propiedad. No acreditar X
 
-10-XIV Vehículos. Contaminantes del medio ambiente
+10-e) Placas. Sobre puestas X
 
-10-XV Vehículos. Cristales polarizados. Uso indebido
+10-XVI Uso de cornetas de aire X
 
-14-I a V Motocicletas. Condiciones y accesorios, falta de
+10-XVII Calcomanías X
 
-16 Remolques y similares. Condiciones y accesorios, falta de
+19-I a IX Conductor. Manejo
 
-17 Vehículos para transporte escolar. Accesorios, falta de
+negligente del X
 
-18 Vehículos con guardafangos, falta de aditamento protector
+20-II Cinturón de seguridad.
 
-19-I a VII Conductor. Manejo negligente del
+No utilizar X
 
-20-I Falta de licencia para conducir
+20-III a VIII Conductor. Violación a
 
-20-II a VI Conductor. Violación a prohibiciones del
+prohibiciones del X
 
-20-VII Conductor. Circular en sentido contrario o invadir carril de contraflujo
+20-XI Conductor. Cambio de
 
-20-VIII Conductor. Aliento alcohólico del
+carril negligente del X
 
-20-IX Conductor. Estado de ebriedad, efectos de drogas, enervantes o calmantes del
+20-XII Conductor. Circular en el
 
-20-X Conductor. Cambio de carril negligente del
+primer cuadro en 3.5
 
-21 Conductor. No respetar límites de velocidad
+toneladas el X
 
-22 Conductor. No respetar las reglas sobre preferencia de paso de vehículos de emergencia
+20-XIII Conducir. Audífonos X
 
-24 Circulación. Entorpecerla invadiendo intersección
+20-XIV Menores fuera de horario X
 
-25-I a III Circulación. Violación a reglas en intersecciones no controladas por semáforo o agente
+42- XVIII Estacionamiento en esquina X
 
-26 Circulación. Violación a reglas de preferencia en vías primarias
+42-XIX Lugares discapacitados X
 
-27, 28, 29 Y 30 Circulación. Violación a reglas sobre rebase a otros vehículos
+43 Apartado de lugares en vía
 
-31 Y 32 Circulación. Violación a reglas para cambiar de carril, reducir velocidad o detenerse
-
-33 Y 34 Circulación. Violación a reglas para hacer maniobras de vuelta en intersecciones
-
-35 Circulación. Violación a reglas para maniobras de reversa
-
-36 Luces. Violación a reglas sobre su uso
-
-37-I a X Motociclistas. Violación a condiciones y reglas para circulación
-
-38 Obstáculos al tránsito en la vía pública. Infringir la prohibición
-
-39-l a VIII Estacionamiento. Violación a reglas para el
-
-40-l a ll Vehículo, descompostura del Violación a reglas para prevenir accidentes
-
-41 Reparación de vehículos en la vía pública. Violación a las reglas sobre su prohibición.
-
-42-I a XVII Estacionamiento en la vía pública. Violación a las reglas que lo establecen
-
-44 Y 45 I a V Señales humanas. Inobservancia a las realizadas por el agente
-
-48 Marcas en la superficie de rodamiento. Violación a lo que su significado expresa
-
-50 Vibradores y dispositivos similares. No disminuir velocidad al aproximarse a ellos
-
-52- excepto III Semáforos. Desobediencia a las reglas en luces verde y ambar
-
-52-III Semáforos. Desobediencia a la regla que indica hacer alto ante luz roja
+pública X
 
 ###### ARTÍCULO 55.
 
@@ -1166,3 +1164,9 @@ Dado en el salón de Cabildo del Ayuntamiento de Villanueva del Estado de Zacate
 Regidores
 
 Sres. Juan Ramón Flores Delgado, Ma. Esther Espitia Alvarado, Amalia Flores Cárdenas, Manuel ÁviIa Rodríguez, Angélica Muro Cerros, J. Refugio Briceño Carrillo, Sigifredo Ruiz Alfaro, Raquel Raygoza Sánchez, Antonio Márquez Ávila, Juan Manuel Luna Rubio, Luis Carlos Morales Dávila, Juan Carlos del Rió Hernández, Julio Núñez Rosas, José Manuel de la Torre Cortés, Macedonia Enciso Vázquez, Martha Imelda Vázquez Serrano y José Isaías Gálvez Herrera.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE MARZO DE 2004.
+
+PRIMERO.- Este reglamento entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" órgano del Gobierno.
