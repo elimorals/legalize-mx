@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1987-11-13"
+last_updated: "1988-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -153,11 +153,15 @@ I.- El Presidente Municipal.
 
 II.- El Tesorero Municipal.
 
-III.- El Director de Catastro Municipal.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+III.- El Director o encargado del área de Catastro Municipal.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 6o.
 
-Son funciones y atribuciones del Director de Catastro;
+Son funciones y atribuciones del Director o encargado del área del Catastro.
 
 Ordenar y/o participar en las siguientes acciones:
 
@@ -189,9 +193,11 @@ X.- Lo demás que señala esta ley y su reglamento.
 
 El Presidente Municipal, a través de la Tesorería del Municipio, reglamentará los lineamientos y disposiciones catastrales, los sistemas técnicos y administrativos relacionados con las operaciones catastrales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 8o.
 
-La Tesorería Municipal, por conducto de la Dirección del Catastro, está facultada para ejecutar trabajos de:
+La Tesorería Municipal, por conducto de la Dirección o área del Catastro, está facultada para ejecutar trabajos de:
 
 I.- Localización y levantamiento de los predios, incluyendo las operaciones necesarias para determinar sus características, como son: clave catastral, elementos físicos, ubicación, uso, clasificaciones agrológicas y socio-económicas, así como los análisis estadísticos necesarios para los fines multifinalitarios del catastro.
 
@@ -213,35 +219,47 @@ Con base en los elementos físicos del predio y datos obtenidos, se formarán y 
 
 El catastro del municipio se basará en la planificación, medición y avalúo de cada uno de los predios que lo integran auxiliándose en tanto éstos trabajos se ejecutan, con las manifestaciones que conforme a esta ley presenten los contribuyentes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 11.
 
-La Tesorería Municipal por conducto de la Dirección del Catastro y mediante procedimientos que se establezcan en los diferentes instructivos, determinará los parámetros valuatorios para los diferentes tipos de construcción y de terreno.
+La Tesorería Municipal por conducto de la Dirección o área del Catastro y mediante procedimientos que se establezcan en los diferentes instructivos, determinará los parámetros valuatorios para los diferentes tipos de construcción y de terreno.
 
 ###### ARTICULO 12.
 
 La localización y levantamiento de predios, comprende las operaciones y trabajos ejecutados mediante sistemas especiales o terrestres, que determinen las características de los mismos y que aportan los elementos necesarios para: su ubicación, uso, valor, situaciones jurídicas y socio-económicas, así como los datos necesarios para los fines específicos y de información del catastro.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 13.
 
-Las operaciones catastrales se harán mediante órdenes escritas, al personal autorizado por la Dirección del Catastro y se practicarán en días y horas hábiles.
+Las operaciones catastrales se harán mediante órdenes escritas, al personal autorizado por la Dirección o área del Catastro y se practicarán en días y horas hábiles.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 14.
 
-Si los ocupantes se opusieran a la práctica de las operaciones catastrales, se dejará constancia de este hecho y se dará cuenta inmediata a la Dirección del Catastro para los efectos legales que procedan.
+Si los ocupantes se opusieran a la práctica de las operaciones catastrales, se dejará constancia de este hecho y se dará cuenta inmediata a la Dirección o área del Catastro para los efectos legales que procedan.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 15.
 
-La Dirección del Catastro, al tener conocimiento de los hechos establecidos en el artículo anterior, requerirán por escrito a los propietarios y ocupantes del predio para que permitan efectuar las operaciones catastrales o justifiquen su negativa. Si no lo hacen dentro del término de tres días la Dirección ordenará que asienten los datos catastrales, con los elementos de que se disponga, que serán considerados como tales, hasta que se practique la operación respectiva sin perjuicio de imponer a los infractores las sanciones correspondientes.
+La Dirección o área del Catastro al tener conocimiento de los hechos establecidos en el artículo anterior requerirán por escrito a los propietarios y ocupantes del predio para que permitan efectuar las operaciones catastrales o justifiquen su negativa. Si no lo hacen dentro del término de tres días la Dirección o área del Catastro ordenará que asienten los datos catastrales, con los elementos de que se disponga, que serán considerados como tales, hasta que se practique la operación respectiva sin perjuicio de imponer a los infractores las sanciones correspondientes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 16.
 
-Si como resultado de la verificación de los datos surgen diferencias entre las superficies de los predios inscritos en el Registro Público de la Propiedad y los que físicamente tenga, se dará origen a una rectificación de dimensiones del predio; mismo que será autorizada por la Dirección del Catastro para ser inscrita de acuerdo a los datos reales del predio de que se trate.
+Si como resultado de la verificación de los datos surgen diferencias entre las superficies de los predios inscritos en el Registro Público de la Propiedad y los que físicamente tenga, se dará origen a una rectificación de dimensiones del predio; mismo que será autorizada por la Dirección o área del Catastro para ser inscrita de acuerdo a los datos reales del predio de que se trate.
 
-En caso de afectar a predios colindantes, la Dirección del Catastro procederá al deslinde catastral del predio, a petición de la o las partes en conflicto, sujetándose al procedimiento establecicido (sic) en el artículo 18 de la Ley; y si no se contara con la conformidad de los propietarios de los predios colindantes tomará nota y dejará a salvo sus derechos, para que los ejerzan en los términos de las leyes correspondientes.
+En caso de afectar a predios colindantes la Dirección o área del Catastro, procederá al deslinde catastral del predio, a petición de la o las partes en conflicto, sujetándose al procedimiento establecido en el artículo 18 de la Ley; y si no se contará con la conformidad de los propietarios de los predios colindantes tomará nota y dejará a salvo sus derechos, para que los ejerzan en los términos de las leyes correspondientes.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 17.
 
-La Dirección del Catastro, practicará las operaciones de deslinde catastral, en atención a la solicitud de los interesados y al interés propio de esta dependencia, con objeto de ratificar la situación de los linderos de un predio.
+La Dirección o área del Catastro, practicará las operaciones de deslinde catastral, en atención a la solicitud de los interesados y al interés propio de esta dependencia, con objeto de ratificar la situación de los linderos de un predio.
 
 ###### ARTICULO 18.
 
@@ -249,17 +267,21 @@ El deslinde catastral se llevará a cabo mediante un acuerdo en el que se especi
 
 La ausencia de los interesados citados legalmente, no será motivo para suspender la ejecución de las actuaciones salvo cuando deba intervenir el Ministerio Público.
 
-El resultado de estas operaciones catastrales y en su caso las abservaciones (sic) de los propietarios o poseedores o de quienes los representen legalmente, se hará constar en acta circunstanciada, que firmará el personal autorizado de la Dirección del Catastro, que hubiere intervenido en los trabajos; pudiendo firmar, si lo consideran convenientes los propietarios o poseedores del predio deslindado y de los colindantes, o sus representantes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+El resultado de estas operaciones catastrales y en su caso las observaciones de los propietarios o poseedores o de quienes los representen legalmente, se hará constar en acta circunstanciada, que firmará el personal autorizado de la Dirección o área del Catastro, que hubiere intervenido en los trabajos, pudiendo firmar, si lo consideran conveniente los propietarios o poseedores del predio deslindado y de los colindantes, o sus representantes.
 
 En caso de no llegar a una conformidad plena, los propietarios o poseedores de predios colindantes, se hará constar en el acta y se dejará a salvo los derechos de los interesados.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 19.
 
-La Dirección del Catastro expedirá copias certificadas de los planos y documentos relativos a los predios previo pago de los derechos que determine la Ley de Ingresos Municipal.
+La Dirección o área del Catastro expedirá copias certificadas de los planos y documentos relativos a los predios previo pago de los derechos que determinen la Ley de Ingresos de los Municipios.
 
 ### CAPITULO V. De las Obligaciones Catastrales
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 20.
 
@@ -269,9 +291,11 @@ La valuación catastral tiene por objeto asignar valores a los bienes inmuebles 
 
 Los parámetros valuatorios de terreno y construcción que sirvan de base para la determinación de los valores catastrales, serán actualizados conforme a las disposiciones de esta ley y su reglamento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 22.
 
-Para determinar el valor catastral de cada predio, se aplicarán los parámetros valuatorios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Dirección del Catastro y sean autorizados por el Presidente Municipal.
+Para determinar el valor catastral de cada predio, se aplicarán los parámetros valuatorios para el terreno y para los diferentes tipos de construcción que al efecto elabore la Dirección o área del Catastro y sean autorizados por el Presidente Municipal.
 
 ###### ARTICULO 23.
 
@@ -295,9 +319,11 @@ VII.- Cuando se haya cancelado una exención fiscal concedida en los términos d
 
 VIII.- Cuando por cualquier motivo se modifiquen las características físicas, jurídicas y económicas que afecten su valor.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 24.
 
-La Dirección del Catastro en los casos en que no se puede determinar técnicamente el valor catastral de un predio o de aquellos originados por la fusión o división de otros, lo fijará provisionalmente con base en los elementos de que disponga.
+La Dirección o área del Catastro en los casos en que no se puede determinar técnicamente el valor catastral de un predio o de aquellos originados por la fusión y división de otros, lo fijará provisionalmente con base en los elementos de que disponga.
 
 ###### ARTICULO 25.
 
@@ -323,15 +349,21 @@ Una vez formuladas las tablas y cuadros de parámetros valuatorios y unidades ti
 
 Las tablas y cuadros de valores por unidades tipo deberán ser del dominio público y, al efecto, se fijarán en lugares visibles en la Tesorería Municipal correspondiente.
 
-La Dirección del Catastro resolverá las dudas que se susciten en lo referente a la aplicación de las tablas de parámetros valuatorios y unidades tipo.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
+La Dirección o área del Catastro resolverá las dudas que se susciten en lo referente a la aplicación de las tablas de parámetros valuatorios y unidades tipo.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 31.
 
-Aprobadas las tablas y cuadros de parámetros valuatorios y unidades tipo, la Dirección del Catastro, procederá a la valuación individual de los predios.
+Aprobadas las tablas y cuadros de parámetros valuatorios y unidades tipo, la Dirección o área del Catastro, procederá a la valuación individual de los predios.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 32.
 
-La valuación catastral de los predios se llevará a efecto, por el sistema de cálculo establecido por la Dirección del Catastro, la cual dictará las disposiciones administrativas y técnicas a que deberán sujetarse estos procesos.
+La valuación catastral de los predios se llevará a efecto, por el sistema de cálculo establecido por la Dirección o área del Catastro, la cual dictará las disposiciones administrativas y técnicas a que deberán sujetarse estos procesos.
 
 ###### ARTICULO 33.
 
@@ -357,33 +389,41 @@ En tales casos, cada localidad se empadronará con número de cuenta y clave cat
 
 ###### ARTICULO 37.
 
-Todo propietario o poseedor de predios, tiene la obligación de manifestarlo cada año a la Dirección de Catastro, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
+Todo propietario o poseedor de predios, tiene la obligación de manifestarlo cada año a la Dirección o área del Catastro, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
 
 ###### ARTICULO 38.
 
 Los propietarios poseedores u ocupantes de los predios, quedan obligados a proporcionar las facilidades necesarias para permitir el levantamiento de las características físicas del predio, así como practicar deslindes, avalúos y demás labores catastrales.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 39.
 
-Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división del terreno, deberán ser manifestadas por su propietario o poseedor a la Dirección del Catastro, dentro de los quince días hábiles siguientes a su terminación o modificación, utilizando para ello las formas oficiales respectivas.
+Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división del terreno, deberán ser manifestadas por su propietario o poseedor a la Dirección o área del Catastro, dentro de los quince días hábiles siguientes a su terminación o modificación. Utilizando para ello las formas oficiales respectivas.
 
 ###### ARTICULO 40.
 
 Se exime de la obligación establecida en el artículo anterior y de conformidad con la disposición de las leyes fiscales respectivas, únicamente a la Federación, el Estado y el Municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 41.
 
-Las dependencias oficiales, los Jueces y los Notarios Públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación legal o de tenencia de los bienes inmuebles, están obligados a manifestarlos a la Dirección del Catastro, en un plazo no mayor de quince días hábiles.
+Las dependencias oficiales, los Jueces y los Notarios Públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación legal o de tenencia de los bienes inmuebles, están obligados a manifestarlos a la Dirección o área del Catastro, en un plazo no mayor de quince días hábiles.
 
 Esta obligación se contrae particularmente a las oficinas que autoricen la ejecución de obras públicas o expidan licencias para construcción.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 42.
 
-Cuando en las manifestaciones que se hagan a la Dirección del Catastro aparezca que las dimensiones de un predio son diferentes a las expresadas en el título de propiedad, la propia Dirección ordenará el deslinde catastral del predio, en los términos de los artículos 16 y 18.
+Cuando en las manifestaciones que se hagan a la Dirección o área del Catastro, aparezca que las dimensiones de un predio son diferentes a las expresadas en el título de propiedad, la propia Dirección o área ordenará el deslinde catastral del predio en los términos de los artículos 16 y 18.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 43.
 
-El propietario o poseedor de predios ocultos está obligado a entregar la manifestación de registro y en caso de no hacerlo, en los términos de la misma, o los que fije el reglamento, la Dirección del Catastro tendrá la facultad de suplirlo, mediante investigación directa.
+El propietario o poseedor de predios ocultos está obligado a entregar la manifestación de registro y en caso de no hacerlo, en los términos de la misma o los que fije el reglamento, la Dirección o área del Catastro tendrá la facultad de suplirlo mediante investigación directa.
 
 ###### ARTICULO 44.
 
@@ -391,39 +431,53 @@ Para los efectos de la presente ley todos los propietarios o poseedores de predi
 
 ### CAPITULO VII. De las Notificaciones
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 45.
 
 Las personas físicas o morales que hubieren obtenido autorización para fraccionar un terreno a (sic) para establecer un condominio, deberá comunicarlo por escrito a la Tesorería Municipal, dentro de los quince días hábiles siguientes en que reciban la autorización, solicitando el deslinde y claves catastrales, debiendo anexar los documentos relativos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 46.
 
-La autoridad competente deberá comunicar por escrito a la Dirección del Catastro las solicitudes de fraccionamientos anexando un juego de copias de los planos presentados, dentro de los diez días siguientes a la fecha que los reciba, a fín de que ésta haga las observaciones y objeciones que considere pertinentes dentro de un plazo que no excederá de treinta días.
+La autoridad competente deberá comunicar por escrito a la Dirección o área del Catastro las solicitudes de fraccionamientos anexando un juego de copias de los planos presentados, dentro de los diez días siguientes a la fecha que los reciba, a fin de que ésta haga las observaciones y objeciones que considere pertinentes dentro de un plazo que no excederá de treinta días.
 
 Igualmente dicha autoridad deberá comunicar, para los fines a los que se refiere el párrafo anterior, cualquier modificación que se le solicite a los planos aprobados, acompañando los nuevos elementos cartográficos.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 47.
 
-La Dirección del Catastro al tener conocimiento de que la autoridad competente concedió autorización definitiva para fraccionar o establecer un condominio, hará los trabajos técnicos necesarios y en los treinta días hábiles siguientes, le devolverá los planos aprobados con la clave catastral o número de cuenta correspondiente a cada predio del fraccionamiento, o cada local o apartamento del condominio.
+La Dirección o área del Catastro al tener conocimiento de que la autoridad competente concedió autorización definitiva para fraccionar o establecer un condominio, hará los trabajos técnicos necesarios y en los treinta días hábiles siguientes, le devolverá los planos aprobados con la clave catastral o número de cuenta correspondiente a cada predio del fraccionamiento, a cada local o apartamento del condominio.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 48.
 
-Los propietarios de fraccionamientos o condominios deberán comunicar a la Dirección del Catastro cualquier modificación de los planos aprobados en los quince días hábiles siguientes al hecho, debiendo acompañar un ejemplar de los planos en que aparezcan las modificaciones a fin de proceder a la actualización de los padrones.
+Los propietarios de fraccionamientos o condominios deberán comunicar a la Dirección o área del Catastro cualquier modificación de los planos aprobados en los quince días hábiles siguientes al hecho, debiendo acompañar un ejemplar de los planos en que aparezcan las modificaciones a fin de proceder a la actualización de los padrones.
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 49.
 
-La Dirección de Obras Públicas Municipales comunicará a la Dirección del Catastro la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, en su caso, dentro de los quince días hábiles siguientes, para que proceda a efectuar las acciones catastrales correspondientes.
+La Dirección de Obras Públicas Municipales comunicará a la Dirección o área del Catastro la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, en su caso, dentro de los quince días hábiles siguientes, para que proceda a efectuar las acciones catastrales correspondientes.
 
 ###### ARTICULO 50.
 
 Cubiertos los requisitos técnico-administrativos que deben satisfacerse para la autorización de fraccionamientos, la Tesorería Municipal en coordinación con la Dirección de Obras Públicas Municipales otorgará la autorización para la venta de los lotes.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 51.
 
-La Dirección del Catastro, teniendo en su poder los planos autorizados para el fraccionamiento y el acta en que se haga constar la terminación de las obras de urbanización correspondiente, procederá a valuar cada uno de los lotes del fraccionamiento.
+La Dirección o área del Catastro, teniendo en su poder los planos autorizados para el fraccionamiento y el acta en que se haga constar la terminación de las obras de urbanización correspondiente, procederá a valuar cada uno de los lotes del fraccionamiento.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 52.
 
-En los casos de fraccionamientos que se constituyan total o parcialmente sin la autorización respectiva, la Dirección del Catastro, ante una situación de hecho, procederá tan pronto tenga conocimiento de ello, a efectuar las operaciones catastrales correspondientes con carácter provisional, comunicando de inmediato a las autoridades correspondientes, a efecto de que estas procedan a fincar las responsabilidades penales, civiles o administrativas, en los términos de los ordenamientos relativos, sin perjuicio de aplicar las sanciones fiscales y cobros omitidos.
+En los casos de fraccionamiento que se constituyan total o parcialmente sin la autorización respectiva, la Dirección o área del Catastro, ante una situación de hecho, procederá tan pronto tenga conocimiento de ello, a efectuar las operaciones catastrales correspondientes con carácter provisional, comunicando de inmediato a las autoridades correspondientes, a efecto de que estas procedan a fincar las responsabilidades penales, civiles o administrativas, en los términos de los ordenamientos relativos, sin perjuicio de aplicar las sanciones fiscales y cobros omitidos.
 
 Los notarios y las oficinas del registro público no autorizarán los documentos correspondientes, ni serán inscritos.
 
@@ -433,9 +487,11 @@ Respecto a los lotes del fraccionamiento que no hayan sido objeto de traslación
 
 ### CAPITULO VIII. Del Recurso, Administrativo
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 54.
 
-La Dirección del Catastro notificará a los propietarios, poseedores o a los representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras aperaciones (sic) catastrales relacionadas con el inmueble, en el predio objeto de la operación, o en el domicilio señalado por escrito para oír notificaciones.
+La Dirección o área del Catastro notificará a los propietarios, poseedores o a los representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación, o en el domicilio señalado por escrito para oír notificaciones.
 
 ###### ARTICULO 55.
 
@@ -445,7 +501,7 @@ Las notificaciones a los contribuyentes a que de lugar la aplicación de la pres
 
 ###### ARTICULO 56.
 
-En caso de inconformidad con el avalúo notificado en los términos establecidos por la presente ley, los contribuyentes podrán inconformarse en los términos que al efecto señale el Código Fiscal Municipal.
+En caso de inconformidad con el avalúo notificado en los términos establecidos por la presente ley, los contribuyentes podrán inconformarse en los términos que al efecto señale el Código Fiscal Municipal o someterse al procedimiento que al efecto establezca la Ley de Justicia Administrativa y del Tribunal de lo Contencioso Administrativo.
 
 ###### ARTICULO 57.
 
@@ -471,19 +527,25 @@ VI.- Cualquier otro error u omisión que modifique la valuación del predio, y q
 
 Las manifestaciones y avisos de los particulares y los notarios públicos que exige esta ley, deberán hacerse en las formas oficiales aprobadas al efecto.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 60.
 
-El Director de Obras Públicas del Municipio deberá remitir a la Dirección del Catastro, el primer día hábil de cada mes, una relación de las licencias otorgadas durante el mes anterior para nuevas construcciones permanentes, reconstrucciones y ampliaciones de las ya existentes.
+El Director de Obras Públicas del Municipio deberá remitir a la Dirección o área del Catastro, el primer día hábil de cada mes, una relación de las licencias otorgadas durante el mes anterior para nuevas construcciones permanentes, reconstrucciones y ampliaciones de las ya existentes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
 ###### ARTICULO 61.
 
-Los propietarios o poseedores de predios están obligados a dar aviso del cambio de su domicilio para oír notificaciones, a la Dirección del Catastro dentro de los quince días hábiles siguientes a que éste se haya efectuado.
+Los propietarios o poseedores de predios están obligados a dar aviso del cambio de su domicilio para oír notificaciones, a la Dirección o área del Catastro dentro de los quince días hábiles siguientes a que éste se haya efectuado.
 
 Si no lo hicieran se tendrá como legal el que hubieran señalado con anterioridad o el del predio mismo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 62.
 
-En los casos de predios no registrados en la Dirección del Catastro por causa imputable al propietario o poseedor, sujetos del impuesto, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su descubrimiento.
+En los casos de predios no registrados en la Dirección o área del Catastro por causa imputable al propietario o poseedor, sujetos del impuesto, deberán practicarse las operaciones catastrales correspondientes de acuerdo con el estado que guardan dichos predios en la fecha de su descubrimiento.
 
 ###### ARTICULO 63.
 
@@ -530,3 +592,7 @@ P.O. 13 DE NOVIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1988.
+
+UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
