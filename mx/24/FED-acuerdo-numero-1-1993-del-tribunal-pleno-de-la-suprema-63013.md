@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-numero-1-1993-del-tribunal-pleno-de-la-suprema-63013"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1993-01-27"
-last_updated: "1997-04-04"
+last_updated: "1997-06-02"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63013&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-01-13"
 
 ACUERDO No. 1/1993, DEL TRIBUNAL EN PLENO DEL DIA TRECE DE ENERO DE MIL NOVECIENTOS NOVENTA Y TRES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 1997.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el miércoles 27 de enero de 1993.
 
@@ -55,9 +55,9 @@ I.- Cuatro tribunales colegiados en materia penal, seis tribunales colegiados en
 
 II.- SEGUNDO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO DECIMO TERCERO DEL ACUERDO No. XIV/94 DEL TRIBUNAL EN PLENO DEL DIA SIETE DE JUNIO DE MIL NOVECIENTOS NOVENTA Y CUATRO, D.O.F. 29 DE JUNIO DE 1994)</small>
+> <small>(REFORMADO POR EL PUNTO UNDECIMO DEL ACUERDO GENERAL NUMERO 19/1997 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 2 DE JUNIO DE 1997)</small>
 
-1.- Dos tribunales colegiados en materias penal y administrativa, dos tribunales colegiados en materias civil y de trabajo y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
+1.- Dos tribunales colegiados en materia penal, dos tribunales colegiados en materia civil, un tribunal colegiado en materia de trabajo, un tribunal colegiado en materia administrativa y dos tribunales unitarios, con residencia en la ciudad de Toluca, México;
 
 2.- Un tribunal unitario con residencia en Ciudad Nezahualcóyotl, México;
 
@@ -690,6 +690,16 @@ D.O.F. 4 DE ABRIL DE 1997.
 PRIMERO.- Este Acuerdo entrará en vigor el veintiuno de abril de mil novecientos noventa y siete.
 
 SEGUNDO.- Se modifica el Acuerdo 1/1993 del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, así como el Acuerdo General número 10/1996 del Pleno del Consejo de la Judicatura Federal, de nueve de mayo de mil novecientos noventa y seis, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
+
+CUARTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 2 DE JUNIO DE 1997.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día dieciséis de junio de mil novecientos noventa y siete.
+
+SEGUNDO.- Se modifica el Acuerdo número 1/1993, del Pleno de la Suprema Corte de Justicia de la Nación, de fecha trece de enero de mil novecientos noventa y tres, modificado por el Acuerdo número 1/1994, del propio Pleno, de fecha primero de febrero de mil novecientos noventa y cuatro, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Quedan sin efecto las disposiciones dictadas con anterioridad, en lo que se opongan a este Acuerdo.
 
