@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2003-06-13"
+last_updated: "2004-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2004.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -8432,9 +8432,7 @@ ARTICULO 1,925.- Los jefes de casa o los dueños de hoteles o casas de hospedaje
 
 ARTICULO 1,926.- En los casos previstos por los artículos 1923, 1924 y 1925 el que sufra el daño puede exigir la reparación directamente del responsable, en los términos de este Capítulo.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
-
-ARTICULO 1,927.- El Estado tiene obligación de responder del pago de los daños y perjuicios causados por sus servidores públicos con motivo del ejercicio de las atribuciones que les estén encomendadas. Esta responsabilidad será solidaria tratándose de actos ilícitos dolosos, y subsidiaria en los demás casos, en los que sólo podrá hacerse efectiva en contra del Estado cuando el servidor público directamente responsable no tenga bienes o los que tenga no sean suficientes para responder de los daños y perjuicios causados por sus servidores públicos.
+ARTICULO 1,927.- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 2004)
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
@@ -11462,7 +11460,7 @@ ARTICULO 2,909.- Si quedare comprobada la insuficiencia de la finca y el deudor 
 
 ARTICULO 2,910.- Si la finca estuviere asegurada y se destruyere por incendio u otro caso fortuito, subsistirá la hipoteca en los restos de la finca, y además el valor del seguro quedará afecto al pago. Si el crédito fuere de plazo cumplido, podrá el acreedor pedir la retención del seguro, y si no lo fuere, podrá pedir que dicho valor se imponga a su satisfacción, para que se verifique el pago al vencimiento del plazo. Lo mismo se observará con el precio que se obtuviere en el caso de ocupación por causa de utilidad pública o de venta judicial.
 
-ARTICULO 2,911.- La hipoteca subsistirá íntegra aunque se reduzca la obligación garantida (sic), y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
+ARTICULO 2,911.- La hipoteca subsistirá íntegra aunque se reduzca la obligación garantida, y gravará cualquier parte de los bienes hipotecados que se conserven, aunque la restante hubiere desaparecido, pero sin perjuicio de lo que disponen los artículos siguientes.
 
 ARTICULO 2,912.- Cuando se hipotequen varias fincas para la seguridad de un crédito, es forzoso determinar por qué porción del crédito responde cada finca, y puede cada una de ellas ser redimida del gravamen, pagándose la parte de crédito que garantiza.
 
@@ -12164,7 +12162,7 @@ ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bi
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-De la inmatriculacion
+De la inmatriculación
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 1988)</small>
 
@@ -12903,3 +12901,9 @@ Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación 
 D.O.F. 13 DE JUNIO DE 2003.
 
 UNICO. El Presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor el 1o. de enero del año 2005.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite en los entes públicos federales, relacionados con la indemnización a los particulares derivada de las faltas administrativas en que hubieren incurrido los servidores públicos, se atenderán hasta su total terminación de acuerdo con las disposiciones aplicables a la fecha en que inició el procedimiento administrativo correspondiente.
