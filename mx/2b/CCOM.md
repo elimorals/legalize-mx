@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1996-05-24"
+last_updated: "2000-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MAYO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2000.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -354,9 +354,9 @@ Tampoco podrá decretarse, a instancia de parte, la comunicación, entrega o rec
 
 ###### Art. 44.
 
-Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
+Fuera de los casos prefijados en el artículo anterior, sólo podrá decretarse la exhibición de los libros, registros y documentos de los comerciantes, a instancia de parte o de oficio, cuando la persona a quien pertenezcan tenga interés o responsabilidad en el asunto en que proceda la exhibición.
 
-El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros, registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
+El reconocimiento se hará en el lugar en que habitualmente se guarden o conserven los libros registros o documentos, o en el que de común acuerdo fijen las partes, en presencia del comerciante o de la persona que comisione y se contraerá exclusivamente a los puntos que tengan relación directa con la acción deducida comprendiendo en ellos aún los que sean extraños a la cuenta especial del que ha solicitado el reconocimiento.
 
 ###### Art. 45.
 
@@ -562,7 +562,13 @@ XXII. Los contratos y obligaciones de los empleados de los comerciantes en lo qu
 
 XXIII. La enajenación que el propietario ó el cultivador hagan de los productos de su finca ó de su cultivo;
 
-XXIV. Cualesquiera otros actos de naturaleza análoga á los expresados en este Código.
+> <small>(ADICIONADA, D.O.F. 23 DE MAYO DE 2000)</small>
+
+XXIV. Las operaciones contenidas en la Ley General de Títulos y Operaciones de Crédito;
+
+> <small>(REFORMADA, D.O.F. 23 DE MAYO DE 2000)</small>
+
+XXV. Cualesquiera otros actos de naturaleza análoga a los expresados en este código.
 
 En caso de duda, la naturaleza comercial del acto será fijada por arbitrio judicial.
 
@@ -1422,7 +1428,7 @@ Disposiciones penales.
 
 ###### Art. 268.
 
-(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
+(DEROGADO POR EL ARTICULO 4° TRANSITORIO DE LA LEY GENERAL DE SOCIEDADES ERCANTILES, D.O.F. 4 DE AGOSTO DE 1934)
 
 ###### Art. 269.
 
@@ -5470,7 +5476,7 @@ Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes em
 
 Art. 1,414. Cualquier incidente o cuestión que se suscitare en los juicios ejecutivos mercantiles, serán resueltos por el juez con apoyo en las disposiciones respectivas de este título, y en su defecto, en lo relativo a los incidentes en los juicios ordinarios mercantiles; y a falta de unas y otras, a lo que disponga la ley procesal de la entidad federativa correspondiente, procurando la mayor equidad entre las partes sin perjuicio para ninguna de ellas.
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
 
 ### CAPÍTULO III.
 
@@ -5792,7 +5798,7 @@ III. El que fuese condenado en juicio ejecutivo y el que lo intente si no obtien
 
 > <small>(REFORMADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
-IV. El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias, y
+IV. El que fuere condenado por dos sentencias conformes de toda conformidad en su parte resolutiva, sin tomar en cuenta la declaración sobre costas. En este caso, la condenación comprenderá las costas de ambas instancias y
 
 > <small>(ADICIONADA, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5818,13 +5824,15 @@ De las competencias y excepciones procesales.
 
 Art. 1,090. Toda demanda debe interponerse ante juez competente.
 
-Art. 1,091. Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,091.- Cuando en el lugar donde se ha de seguir el juicio hubiere varios jueces competentes, conocerá del negocio el que elija el actor, salvo lo que dispongan en contrario las leyes orgánicas aplicables.
 
 Art. 1,092. Es juez competente aquel á quien los litigantes se hubieren sometido expresa ó tácitamente.
 
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,093. Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede y para el caso de controversia, señalan como tribunales competentes los del domicilio de cualquiera de las partes del lugar de cumplimiento de algunas de las obligaciones contraídas o de la ubicación de la cosa.
+Art. 1,093.- Hay sumisión expresa cuando los interesados renuncien clara y terminantemente al fuero que la ley les concede, y para el caso de controversia, señalan como tribunales competentes a los del domicilio de cualquiera de las partes, del lugar de cumplimiento de alguna de las obligaciones contraídas, o de la ubicación de la cosa.
 
 Art. 1,094. Se entienden sometidos tácitamente:
 
@@ -5854,19 +5862,13 @@ Art. 1,096. Es juez competente para conocer de la reconvención, aquel que conoc
 
 Si el valor de la reconvención es inferior a la cuantía de la competencia del juez que conoce de la demanda principal, en todos los casos seguirá conociendo este, pero no a la inversa.
 
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
 
-Art. 1,097. El juez que conozca de la quiebra y suspensión de pagos en concurso de acreedores, es competente para conocer de todos los juicios contra el fallido, incluyendo aquellos que se sigan contra otros codemandados en calidad de obligados solidarios avalistas, fiadores o que se les haya demandado por cualquier causa, prestaciones de contenido patrimonial y sea que se tramiten en procedimientos mercantiles o civiles, con el fin de que se acumulen al juicio concursal, universal y atractivo, con el fin de que dichos terceros puedan deducir sus derechos en ese proceso.
+Art. 1,097.- El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
 
-Se exceptúa de lo anterior aquellos que procedan de créditos hipotecarios o prendarios o en los que ya esté pronunciada y notificada la sentencia definitiva de primera instancia.
+Art. 1,097-Bis. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1989)</small>
-
-Art. 1,097 BIS. El juez o tribunal, que de las actuaciones de la incompetencia promovida, deduzca que se interpuso sin razón y con el claro propósito de alargar o entorpecer el juicio, impondrá una multa a la parte promovente, que no exceda del equivalente de cien días de salario mínimo vigente en el lugar en que se desahogue el procedimiento.
-
-> <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
-
-Art. 1,098. En el caso del primer párrafo del artículo anterior, cualquier interesado podrá solicitar al juez en donde se tramita el juicio, que en original remita los autos al concursal, sin que se tenga que promover cuestión competencial. También podrá solicitarle al juez concursal que solicite la remisión de los autos originales.
+Art. 1,098. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -5888,13 +5890,17 @@ Art. 1,102. Las contiendas sobre competencia sólo podrán entablarse a instanci
 
 Art. 1,103. Los litigantes pueden desistirse de la competencia antes o después de la remisión de los testimonios de constancias al Superior, y su desistimiento hará cesar la contienda.
 
-Art. 1,104. Sea cual fuere la naturaleza del juicio, serán preferidos á cualquier otro juez:
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,104.- Salvo lo dispuesto en el artículo 1093, sea cual fuere la naturaleza del juicio, serán preferidos a cualquier otro juez:
 
 I. El del lugar que el deudor haya designado para ser requerido judicialmente de pago;
 
 II. El del lugar designado en el contrato para el cumplimiento de la obligación.
 
-Art. 1,105. Si no se ha hecho la designación que autoriza el artículo anterior, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
+> <small>(REFORMADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,105.- Si no se ha hecho la designación que autoriza el artículo 1093, será competente el juez del domicilio del deudor, sea cual fuere la acción que se ejercite.
 
 Art. 1,106. Si el deudor tuviese varios domicilios, será preferido el que elija el acreedor.
 
@@ -5902,7 +5908,7 @@ Art. 1,107. A falta de domicilio fijo, será competente el juez del lugar donde 
 
 Art. 1,108. Si las cosas objeto de la acción real fueren varias y estuvieren ubicadas en distintos lugares, será juez competente el del lugar de la ubicación de cualquiera de ellas, adonde primero hubiere ocurrido el demandante. Lo mismo se observará cuando la cosa estuviere ubicada en territorio de diversas jurisdicciones.
 
-Art. 1,109. Es competente en los juicios de concurso de acreedores, el juez del domicilio del deudor.
+Art. 1,109. (DEROGADO, D.O.F. 23 DE MAYO DE 2000)
 
 Art. 1,110. En los casos de ausencia legalmente comprobados, es juez competente el del último domicilio del ausente, y si se ignora, el del lugar donde se halle la mayor parte de los bienes.
 
@@ -6466,7 +6472,7 @@ Art. 1,205. Son admisibles como medios de prueba todos aquellos elementos que pu
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1989)</small>
 
-Art. 1,206.El término de prueba es ordinario o extraordinario. Es ordinario el que se concede para producir probanzas dentro de la entidad federativa en que el litigio se sigue. Es extraordinario el que se otorga para que se reciban pruebas fuera de la misma.
+Art. 1,206. El término de prueba es ordinario o extraordinario. Es ordinario el que se concede para producir probanzas dentro de la entidad federativa en que el litigio se sigue. Es extraordinario el que se otorga para que se reciban pruebas fuera de la misma.
 
 > <small>(REFORMADO, D.O.F. 24 DE MAYO DE 1996)</small>
 
@@ -7314,6 +7320,170 @@ Art. 1,375. Bastará la interposición de una tercería excluyente, para que el 
 
 Art. 1,376. Si la tercería, cualquiera que sea, se interpone ante un juez de paz o menor, y el interés de ella excede del que la ley respectivamente somete á la jurisdicción de estos jueces, aquel ante quien se interponga remitirá lo actuado en el negocio principal y tercería, al juez que designe el tercer opositor y sea competente para conocer del negocio que representa mayor interés. El juez designado correrá traslado de la demanda verbal entablada y decidirá la tercería, sujetándose en la sustanciación á lo prevenido en los artículos anteriores.
 
+### CAPITULO I. Del procedimiento extrajudicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis.- Se tramitará en esta vía el pago de los créditos vencidos y la obtención de la posesión de los bienes objeto de las garantías otorgadas mediante prenda sin transmisión de posesión o fideicomiso de garantía, siempre que no existan controversias en cuanto a la exigibilidad del crédito, la cantidad reclamada y la entrega de la posesión de los bienes mencionados. Para efectos de lo anterior, el valor de los bienes podrá determinarse por cualquiera de los siguientes procedimientos:
+
+I. Por el dictamen que rinda el perito que las partes designen para tal efecto desde la celebración del contrato o en fecha posterior, o
+
+II. Por cualquier otro procedimiento que acuerden las partes por escrito.
+
+Al celebrar el contrato las partes deberán establecer las bases para designar a una persona autorizada, distinta del acreedor, para que realice el avalúo de los bienes, en caso de que éste no pueda llevarse a cabo, en términos de lo establecido en las fracciones de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 1.- El procedimiento se iniciará con el requerimiento formal de entrega de la posesión de los bienes, que formule al deudor el fiduciario o el acreedor prendario, según corresponda, mediante fedatario público.
+
+Una vez entregada la posesión de los bienes al fiduciario o acreedor prendario, éste tendrá el carácter de depositario judicial hasta en tanto no se realice lo previsto en el artículo 1,414 Bis 4.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 2.- Se dará por concluido el procedimiento extrajudicial y quedará expedita la vía judicial en los siguientes casos:
+
+I. Cuando se oponga el deudor a la entrega material de los bienes o al pago del crédito respectivo, o
+
+II. Cuando no se haya producido el acuerdo a que se refiere el artículo 1414 bis o éste sea de imposible cumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 3.- Fuera de los casos previstos en el artículo anterior, el fiduciario o el acreedor prendario podrá obtener la posesión de los bienes objeto de la garantía, si así se estipuló expresamente en el contrato respectivo. Este acto deberá llevarse a cabo ante fedatario público, quien deberá levantar el acta correspondiente, así como el inventario pormenorizado de los bienes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 4.- Una vez entregada la posesión de los bienes se procederá a la enajenación de éstos, en términos del artículo 1414 bis 17, fracción II.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 5.- En caso de que el fiduciario o el acreedor prendario, según corresponda, no pueda obtener la posesión de los bienes, se seguirá el procedimiento de ejecución forzosa a que se refiere el siguiente Capítulo de este Código.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 6.- No será necesario agotar el procedimiento a que se refieren los artículos anteriores, para iniciar el procedimiento de ejecución previsto en el Capítulo siguiente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
+### CAPITULO II. Del procedimiento judicial de ejecución de garantías otorgadas mediante prenda sin transmisión de posesión y fideicomiso de garantía
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 7.- Se tramitará de acuerdo a este procedimiento todo juicio que tenga por objeto el pago de un crédito cierto, líquido y exigible y la obtención de la posesión material de los bienes que lo garanticen, siempre que la garantía se haya otorgado mediante prenda sin transmisión de posesión o fideicomiso de garantía.
+
+Para que el juicio se siga de acuerdo con las disposiciones de este Capítulo, es requisito indispensable que el mencionado crédito conste en documento público o escrito privado, según corresponda, en términos de la Ley General de Títulos y Operaciones de Crédito y que sea exigible en los términos pactados o conforme con las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 8.- Presentado el escrito de demanda, acompañado del contrato respectivo y la determinación del saldo que formule el acreedor, y cuando el acreedor sea una institución de crédito anexando la certificación de saldo que corresponda, el juez bajo su más estricta responsabilidad, si encuentra que se reúnen los requisitos fijados en el artículo anterior, en un plazo no mayor de dos días, admitirá la misma y dictará auto con efectos de mandamiento en forma para que el deudor sea requerido de pago y, de no hacerlo, haga entrega de la posesión material al actor, de los bienes objeto de la garantía indicados en el contrato. En este último caso, el acreedor tendrá el carácter de depositario judicial y deberá informar al juez sobre el lugar en el que permanecerán los bienes que le han sido entregados, en tanto no sean vendidos.
+
+En el mismo auto mediante el cual se requiera de pago al deudor, el juez lo emplazará a juicio, en caso de que no pague o no haga entrega de la posesión material de los bienes dados en garantía al acreedor, para que dentro del término de cinco días ocurra a contestarla y a oponer, en su caso, las excepciones que se indican en el artículo 1414 bis 10.
+
+La referida determinación de saldo podrá elaborarse a partir del último estado de cuenta que, en su caso, el deudor haya recibido y aceptado, siempre y cuando se haya pactado, o bien el acreedor esté obligado por disposición de Ley a entregar estados de cuenta al deudor. Se entenderá que el deudor ha recibido y aceptado este último estado de cuenta, si no lo objeta por escrito dentro de los 10 días hábiles siguientes de haberlo recibido o bien efectúa pagos parciales al acreedor con posterioridad a su recepción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 9.- La diligencia a que se refiere el artículo anterior, no se suspenderá por ningún motivo y se llevará adelante hasta su conclusión, dejando al deudor sus derechos a salvo para que los haga valer como le convenga durante el juicio. A fin de poner en posesión material de los bienes al demandante, el juzgador apercibirá al deudor con multa que podrá ser desde tres y hasta cuatrocientas veces el salario mínimo general diario vigente en el Distrito Federal. Para la imposición de la mencionada multa, el juez deberá considerar el monto de la garantía reclamada.
+
+Si el deudor no hiciera entrega de los bienes en la diligencia prevista en este artículo, el secretario actuario lo hará constar y dará cuenta de ello al juez, quien procederá a hacer efectivo el medio de apremio decretado y dictará las medidas conducentes para lograr el cumplimiento de su resolución en términos del presente Capítulo, al efecto podrá hacer uso de los siguientes medios de apremio:
+
+I. El auxilio de la fuerza pública, y
+
+II. Si fuere ineficaz el apremio por causa imputable al deudor, el juez podrá ordenar arresto administrativo en contra de éste, hasta por 36 horas.
+
+En caso de que la garantía recaiga sobre una casa habitación, utilizada como tal por el demandado, éste será designado depositario de la misma hasta la sentencia, siempre que acepte tal encargo. Cuando conforme a la sentencia, proceda que el demandado entregue al demandante la posesión material del inmueble, el juez hará efectivo el medio de apremio decretado y dictará las medidas conducentes para lograr el cumplimiento de la sentencia, ajustándose a lo dispuesto en este artículo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Artículo 1,414 Bis 10.- El demandado podrá oponer las excepciones que a su derecho convenga, pero su trámite se sujetará a las reglas siguientes:
+
+I. Sólo se tendrán por opuestas las excepciones que se acrediten con prueba documental, salvo aquéllas que por su naturaleza requieran del ofrecimiento y desahogo de pruebas distintas a la documental;
+
+II. Si se opone la excepción de falta de personalidad del actor y se declara procedente, el juez concederá un plazo no mayor de diez días para que dicha parte subsane los defectos del documento presentado, si fueran subsanables; igual derecho tendrá el demandado, si se impugna la personalidad de su representante. Si no se subsana la del actor, el juez de inmediato sobreseerá el juicio, y si no se subsana la del demandado, el juicio se seguirá en rebeldía.
+
+III. Si se oponen excepciones consistentes en que el demandado no haya firmado el documento base de la acción o fundadas en la falsedad del mismo, serán declaradas improcedentes al dictarse la sentencia, cuando quede acreditado que el deudor realizó pagos parciales del crédito a su cargo, o bien, que éste ha mantenido la posesión de los bienes adquiridos con el producto del crédito. Lo anterior, sin perjuicio de que la improcedencia de dichas excepciones resulte de diversa causa;
+
+IV. Si se opone la excepción de litispendencia, sólo se admitirá cuando se exhiban con la contestación, las copias selladas de la demanda y la contestación a ésta o de las cédulas de emplazamiento del juicio pendiente, y
+
+V. Si se opone la excepción de improcedencia o error en la vía, el juez prevendrá al actor para que en un término que no exceda de tres días hábiles, la corrija.
+
+El juez, bajo su más estricta responsabilidad, revisará la contestación de la demanda y desechará de plano todas las excepciones notoriamente improcedentes, o aquéllas respecto de las cuales no se exhiba prueba documental o no se ofrezcan las pruebas directamente pertinentes a acreditarlas.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 11.- El allanamiento que afecte toda la demanda producirá el efecto de que el asunto pase a sentencia definitiva.
+
+El demandado aun cuando no hubiere contestado en tiempo la demanda, tendrá en todo tiempo el derecho de ofrecer pruebas, hasta antes de que se dicte la sentencia correspondiente, y por una sola vez.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 12.- Tanto en la demanda como en la contestación a la misma, las partes tienen la obligación de ser claras y precisas. En esos mismos escritos deberán ofrecer todas sus pruebas relacionándolas con los hechos que pretendan probar y presentar todos los documentos respectivos, salvo lo dispuesto en el segundo párrafo del artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 13.- Siempre que las pruebas ofrecidas sean contra la moral o el derecho, o no se ajusten a lo dispuesto en los artículos 1414 bis 11 y 1414 bis 12, o bien se refieran a hechos imposibles, notoriamente inverosímiles o no controvertidos por las partes, el juez las desechará de plano.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 14.- El juez resolverá sobre la admisión o desechamiento de pruebas en el auto que tenga por contestada o no la demanda. En el mismo auto, el juez dará vista al actor con las excepciones opuestas por el demandado, por el término de tres días y señalará fecha y hora para la celebración de la audiencia de pruebas alegatos y sentencia. Esta audiencia deberá celebrarse dentro de los diez días siguientes a aquél en que haya concluido el plazo fijado para que el actor desahogue la vista a que se refiere este artículo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 15.- La preparación de las pruebas quedará a cargo de las partes, por lo que deberán presentar a sus testigos, peritos, documentos públicos y privados, pliego de posiciones y demás pruebas que les hayan sido admitidas.
+
+Cuando las partes tengan que rendir prueba testimonial o pericial para acreditar algún hecho, deberán ofrecerla en los escritos de demanda o contestación, señalando el nombre y apellidos de sus testigos y de sus peritos, en su caso, y exhibir copia de los interrogatorios al tenor de los cuales deban ser examinados los testigos o del cuestionario para los peritos.
+
+El juez ordenará que se entregue una copia a cada una de las partes, para que al verificarse la audiencia puedan formular repreguntas por escrito o verbalmente.
+
+La prueba de inspección ocular deberá ofrecerse con igual oportunidad que las anteriores.
+
+Al promoverse la prueba pericial, el juez hará la designación de un perito, o de los que estime convenientes para la práctica de la diligencia, sin perjuicio de que cada parte pueda designar también un perito para que se asocie al nombrado por el juez o rinda dictamen por separado. La prueba pericial será calificada por el juez según prudente estimación.
+
+Si llamado un testigo o solicitado un documento que haya sido admitido como prueba, ésta no se desahoga por causa imputable al oferente, a más tardar en la audiencia, se declarará desierta, a menos que exista una causa de fuerza mayor debidamente comprobada.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 16.- El juez debe presidir la audiencia, ordenar el desahogo de las pruebas admitidas y preparadas, y dar oportunidad a las partes para alegar lo que a su derecho convenga, por escrito o verbalmente, sin necesidad de asentarlo en autos en este último caso. Acto continuo, el juez dictará sentencia, la que será apelable únicamente en efecto devolutivo.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 17.- Obtenido el valor de avalúo de los bienes, de acuerdo con lo dispuesto en el artículo 1414 bis, se estará a lo siguiente:
+
+I. Cuando el valor de los bienes sea menor o igual al monto del adeudo condenado, quedará liquidado totalmente el crédito respectivo, sin corresponder en consecuencia acción o derecho alguno a la parte actora para ejercitar o hacer valer con posterioridad en contra del demandado, por lo que respecta al contrato base de la acción, de conformidad con lo señalado por los artículos 379 y 412 de la Ley General de Títulos y Operaciones de Crédito. En este caso el acreedor o el fiduciario, según corresponda, podrá disponer libremente de los bienes objeto de la garantía, y
+
+II. Cuando el valor de los bienes sea mayor al monto del adeudo condenado, la parte acreedora o la fiduciaria, según se trate y una vez deducido el crédito, los intereses y los gastos generados, entregará al deudor el remanente que corresponda por la venta de los bienes.
+
+La venta a elección del acreedor o fiduciario, se podrá realizar ante el juez que conozca del juicio o fedatario público, mediante el procedimiento siguiente:
+
+a) Se notificará personalmente al deudor el día y la hora en que se efectuará la venta de los bienes a que se refiere el inciso siguiente. Dicha notificación deberá realizarse con cinco días de anticipación a la fecha de la venta;
+
+b) Se publicará en un periódico de la localidad en que se encuentren los bienes con por lo menos cinco días hábiles de antelación, un aviso de venta de los mismos, en el que se señale el lugar, día y hora en que se pretenda realizar la venta, señalando la descripción de los bienes, así como el precio de venta, determinado conforme al artículo 1414 bis.
+
+En dicha publicación podrán señalarse las fechas en que se realizarán, en su caso, las ofertas sucesivas de venta de los bienes. Cada semana en la que no haya sido posible realizar la venta de los bienes, el valor mínimo de venta de los mismos, se reducirá en un 10%, pudiendo el acreedor, a su elección, obtener la propiedad plena de los mismos cuando el precio de dichos bienes esté en alguno de los supuestos a que se refiere la fracción I de este artículo.
+
+El deudor que desee que se realicen más publicaciones relativas a la venta de los bienes podrá hacerlo directamente a su costa.
+
+c) Realizada la venta de los bienes, si el precio de venta de los mismos fuera superior al monto del adeudo, el acreedor procederá a entregar el remanente que corresponda al deudor en un plazo no mayor de cinco días, una vez que se haya deducido el monto del crédito otorgado, incluyendo intereses y demás gastos incurridos para la venta, en efectivo, cheque de caja o mediante billete de depósito a favor del deudor a través de fedatario.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 18.- En caso de incumplimiento de la parte actora a lo señalado en la fracción II del artículo anterior, el juez lo apercibirá con las medidas de apremio establecidas en el artículo 1414 bis 9, y le ordenará pagar una pena equivalente a cien y hasta tres mil veces, el salario mínimo diario general vigente en el Distrito Federal en las fechas de incumplimiento, por día transcurrido, mientras subsista el incumplimiento.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Artículo 1,414 Bis 19.- El acreedor o fiduciario, en tanto no realice la entrega al deudor del remanente de recursos que proceda en términos del artículo 1414 bis 17, fracción II, por la venta de los bienes objeto de la garantía, cubrirá a éste, por todo el tiempo que dure el incumplimiento, una tasa de interés equivalente a dos veces el Costo de Captación a Plazo de pasivos denominados en moneda nacional (CCP), que mensualmente da a conocer el Banco de México, mediante publicaciones en el Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2000)</small>
+
+Art. 1,414 Bis 20.- En los procedimientos que se ventilen conforme a lo señalado en este Capítulo, no se admitirán incidentes y las resoluciones que se dicten podrán ser apeladas sólo en efecto devolutivo, por lo que en ningún caso podrá suspenderse el procedimiento, salvo lo previsto en el último párrafo del artículo 1414 bis 10.
+
+En todo lo no previsto en este Capítulo serán aplicables las disposiciones contenidas en el Título III del Libro V, de este Código.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
+
+## TITULO TERCERO BIS. De los procedimientos de ejecución de la prenda sin transmisión de posesión y del fideicomiso de garantía
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE MAYO DE 2000)</small>
+
 ### CAPÍTULO I.
 
 Disposiciones generales.
@@ -7403,12 +7573,6 @@ Si se ha entablado la acción a que se refiere el párrafo anterior, se podrá n
 > <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1993)</small>
 
 Art. 1,425. Aun cuando exista un acuerdo de arbitraje las partes podrán, con anterioridad a las actuaciones arbitrales o durante su transcurso, solicitar al juez la adopción de medidas cautelares provisionales.
-
-> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
-
-## TÍTULO CUARTO.
-
-DEL ARBITRAJE COMERCIAL.
 
 > <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
 
@@ -7808,107 +7972,11 @@ Art. 1,499. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA L
 
 Art. 1,500. (DEROGADO POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)
 
-## TITULO TERCERO.
+## TÍTULO CUARTO.
 
-DE LOS JUICIOS EJECUTIVOS.
+DEL ARBITRAJE COMERCIAL.
 
-Art. 1,391. El procedimiento ejecutivo tiene lugar cuando la demanda se funda en documento que traiga aparejada ejecución.
-
-Traen aparejada ejecución:
-
-I. La sentencia ejecutoriada ó pasada en autoridad de cosa juzgada y la arbitral que sea inapelable, conforme al art. 1,346, observándose lo dispuesto en el 1,348;
-
-II. Los instrumentos públicos;
-
-III. La confesión judicial del deudor, según el artículo 1,288;
-
-IV. Las letras de cambio, libranzas, vales, pagarés y demás efectos de comercio en los términos que disponen los artículos relativos de este Código, observándose lo que ordena el art. 534 respecto á la firma del aceptante;
-
-V. Las pólizas de seguros conforme al artículo 441;
-
-VI. La decisión de los peritos designados en los seguros para fijar el importe del siniestro, observándose lo prescrito en el art. 420;
-
-VII. Las facturas, cuentas corrientes y cualesquiera otros contratos de comercio firmados y reconocidos judicialmente por el deudor.
-
-Art. 1,392. Presentada por el actor su demanda acompañada del título ejecutivo, se proveerá auto con efectos de mandamiento en forma, para que el deudor sea requerido de pago, y no haciéndolo se le embarguen bienes suficientes para cubrir la deuda y costas, poniéndolos bajo la responsabilidad del acreedor, en depósito de persona nombrada por éste, salvo lo dispuesto en las concesiones vigentes en favor de los Bancos.
-
-Art. 1,393. No encontrándose al deudor á la primera busca, se le dejará citatorio, fijándole día y hora hábil para que aguarde. Por el solo hecho de que el deudor no aguarde al emplazamiento se procederá á practicar al embargo con cualquiera persona que se encuentre en la casa ó con el vecino más inmediato.
-
-Art. 1,394. La diligencia de embargo no se suspenderá por ningún motivo, sino que se llevará adelante hasta su conclusión, dejando al deudor que la reclamare sus derechos á salvo para que los haga valer como le convenga durante el juicio ó fuera de él.
-
-Art. 1,395. En el embargo de bienes se seguirá este orden:
-
-I. Las mercancías;
-
-II. Los créditos de fácil y pronto cobro, á satisfacción del acreedor;
-
-III. Los demás muebles del deudor;
-
-IV. Los inmuebles;
-
-V. Las demás acciones y derechos que tenga el demandado.
-
-Cualquiera dificultad suscitada en el orden que deba seguirse, no impedirá el embargo. El ejecutor la allanará, prefiriendo lo que prudentemente crea más realizable, á reserva de lo que determine el juez.
-
-Art. 1,396. Hecho el embargo, acto continuo se notificará al deudor, ó á la persona con quien se haya practicado la diligencia, que dentro de tres días comparezca ante el juzgado á hacer paga llana de la cantidad demandada y las costas, ó á oponerse á la ejecución si tuviere alguna excepción para ello.
-
-Art. 1,397. Si se tratare de sentencia, no se admitirá más excepción que la de pago si la ejecución se pide dentro de ciento ochenta días; si ha pasado ese término, pero no más de un año, se admitirán además las de transacción, compensación y compromiso en árbitros; y transcurrido más de un año, serán admisibles también la de novación, comprendiéndose en ésta la espera, la quita, el pacto de no pedir y cualquier otro arreglo que modifique la obligación, y la de falsedad del instrumento, siempre que la ejecución no se pida en virtud de ejecutoria, convenio ó juicio constante en autos. Todas estas excepciones, sin comprender la de falsedad, deberán ser posteriores á la sentencia, convenio ó juicio, y constar por instrumento público, por documento judicialmente reconocido ó por confesión judicial.
-
-Art. 1,398. Los términos fijados en el artículo anterior, se contarán desde la fecha de la sentencia ó convenio, á no ser que en ellos se fije plazo para el cumplimiento de la obligación, en cuyo caso el término se contará desde el día en que se venció el plazo ó desde que pudo exigirse la última prestación vencida, si se tratare de prestaciones periódicas.
-
-Art. 1,399. Dentro de los tres días siguientes al embargo podrá el deudor oponer la excepción acompañando el instrumento en que se funde ó promoviendo la confesión ó reconocimiento judicial. De otra manera no será admitida.
-
-Art. 1,400. Si el ejecutante objetare el instrumento á que el artículo anterior se refiere, y ofreciere prueba, se señalará un término que no pase de diez días. Concluído este término el juez citará una audiencia verbal que se verificará dentro de tres días, y fallará dentro de cinco. La citación para la audiencia produce los efectos de citación para sentencia.
-
-Art. 1,401. Si se tratare de letras de cambio se observará lo dispuesto en el artículo 535 de este Código.
-
-Art. 1,402. Si se tratare de cartas de porte, se atenderá á lo que dispone el artículo 583.
-
-Art. 1,403. Contra cualquier otro documento mercantil que traiga aparejada ejecución, son admisibles las siguientes excepciones:
-
-I. Falsedad del título ó del contrato contenido en él;
-
-II. Fuerza ó miedo;
-
-III. Prescripción ó caducidad del título;
-
-IV. Falta de personalidad en el ejecutante, ó del reconocimiento de la firma del ejecutado, en los casos en que ese reconocimiento es necesario;
-
-V. Incompetencia del juez;
-
-VI. Pago ó compensación;
-
-VII. Remisión ó quita;
-
-VIII. Oferta de no cobrar ó espera;
-
-IX. Novación de contrato.
-
-Las excepciones comprendidas desde la fracción VI á la IX, sólo serán admisibles en juicio ejecutivo, si se fundaren en prueba documental.
-
-Art. 1,404. No verificando el deudor el pago dentro de tres días después si hecha la traba, ni oponiendo excepción contra la ejecución , á pedimento del actor y previa citación de las partes, se pronunciará sentencia de remate, mandando proceder á la venta de los bienes embargados y que de su producto se haga pago al acreedor.
-
-Art. 1,405. Si el deudor se opusiere á la ejecución expresando las excepciones que le favorecen y el negocio exigiere prueba, se concederá para ésta un término que no exceda de quince días.
-
-Art. 1,406. Concluído el término de prueba, y sentada razón de ello, se mandará hacer publicación de probanzas y se entregarán los autos, primero al actor y luego al reo, por cinco días á cada uno, para que aleguen de su derecho.
-
-Art. 1,407. Presentados los alegatos ó trascurrido el término para hacerlo, previa citación y dentro del término de ocho días, se pronunciará la sentencia.
-
-Art. 1,408. Si en la sentencia se declara haber lugar á hacer trance y remate de los bienes embargados y pago al acreedor, en la misma sentencia se decidirá también sobre los derechos controvertidos.
-
-Art. 1,409. Si la sentencia declarase que no procede el juicio ejecutivo, reservará al actor sus derechos para que los ejercite en la vía y forma que corresponda.
-
-Art. 1,410. A virtud de la sentencia de remate, se procederá á la venta de los bienes secuestrados, previo avalúo hecho por dos corredores ó peritos y un tercero en caso de discordia, nombrados aquéllos por las partes y éste por el juez.
-
-Art. 1,411. Presentado el avalúo y notificadas las partes para que ocurran al juzgado á imponerse de aquél, se anunciará en la forma legal la venta de los bienes, por tres veces, dentro de tres días, si fuesen muebles, y dentro de nueve si fuesen raíces, rematándose en seguida en pública almoneda y al mejor postor conforme á derecho.
-
-Art. 1,412. No habiéndose presentado postor á los bienes, el acreedor podrá pedir la adjudicación de ellos por el precio que para subastarlos se les haya fijado en la última almoneda.
-
-Art. 1,413. Las partes, durante el juicio, podrán convenir en que los bienes embargados se avalúen ó vendan en la forma y términos que ellos acordaren, denunciándolo así oportunamente al juzgado por medio de un escrito firmado por ellas.
-
-Art. 1,414. Cualquier incidente que se suscitare en el juicio mercantil ejecutivo, se decidirá por el juez sin sustanciar artículo, pero sin perjuicio del derecho de los interesados para que se les oiga en audiencia verbal siempre que así lo pidieren.
-
-> <small>(DEROGADO CON LOS CAPITULOS Y LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO 3° DE LAS DISPOSICIONES GENERALES DE LA LEY DE QUIEBRAS Y DE SUSPENSION DE PAGOS, D.O.F. 20 DE ABRIL DE 1943)</small>
+> <small>(ADICIONADO CON SU DENOMINACION, D.O.F. 22 DE JULIO DE 1993)</small>
 
 ## TITULO CUARTO.
 
@@ -8197,3 +8265,11 @@ D.O.F. 24 DE MAYO DE 1996.
 SE TRANSCRIBE UNICAMENTE EL TRANSITORIO DEL DECRETO DE REFORMAS QUE SE RELACIONA CON EL CODIGO.
 
 PRIMERO.- Las reformas previstas en los artículos 1o. y 3o., del presente decreto, entrarán en vigor sesenta días después de su publicación en el Diario Oficial de la Federación y no serán aplicables a persona alguna que tenga contratados créditos con anterioridad a la entrada en vigor del presente decreto. Tampoco serán aplicables tratándose de la novación o reestructuración de créditos contraídos con anterioridad a la entrada en vigor de este decreto.
+
+D.O.F. 23 DE MAYO DE 2000.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en el Artículo Transitorio siguiente.
+
+SEGUNDO.- Los fideicomisos de garantía constituidos con anterioridad a la fecha de entrada en vigor del presente Decreto, seguirán sujetos a las disposiciones que les resulten aplicables al momento de su contratación.
+
+Sin perjuicio de lo anterior, las partes que cuenten con facultades para ello conforme al contrato constitutivo de esos fideicomisos, podrán convenir que los mismos se sujeten a las disposiciones de esta Ley.
