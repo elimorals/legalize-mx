@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1981-08-14"
+last_updated: "1983-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE ENERO DE 1983.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -3241,11 +3241,11 @@ Cuando el reo cometiere un nuevo delito, el Tribunal que conozca de éste remiti
 
 Cuando se revoque la libertad anticipada, conforme a los dos artículos anteriores, se recogerá e inutilizará el salvoconducto.
 
-> <small>(REFORMADO, P.O. 14 DE MAYO DE 1978)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 1983)</small>
 
 ###### Art. 509.
 
-Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no concederse la libertad anticipada, el agraciado ocurrirá al Supremo Tribunal de Justicia, para que la Sala Penal correspondiere, en vista de la sentencia y del informe del Gobierno del Estado, haga de plano la declaración de quedar el reo en absoluta libertad y ordene la cancelación de la garantía correspondiente. De esta declaración se expedirán testimonios para el Ejecutivo del Estado, el Tribunal que haya conocido del proceso, y al interesado.
+Cuando hubiere expirado el término de la condena que debiera haberse compurgado, de no haberse concedido la libertad anticipada, el agraciado con esta última ocurrirá al Juzgado o a la Sala Penal que corresponda para que, en vista de la sentencia y del informe del Gobierno del Estado, se haga de plano la declaración de quedar el reo en absoluta libertad y, en su caso, se ordene la cancelación de la garantía correspondiente. De esta declaratoria se expedirán testimonios para el Ejecutivo del Estado, para el interesado, y para el Tribunal de la Primera Instancia que haya conocido del proceso, cuando la declaración provenga de una Sala Penal.
 
 ### CAPITULO V.
 
@@ -3506,3 +3506,9 @@ P.O. 14 DE AGOSTO DE 1981.
 ###### ARTICULO UNICO.
 
 Este decreto surtirá efectos el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 4 DE ENERO DE 1983.
+
+###### ARTICULO UNICO.
+
+Este decreto entrará en vigor el tercer día al de su publicación en el Periódico Oficial del Gobierno del Estado.
