@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1990-03-11"
+last_updated: "1990-08-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 1990.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 1990.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -657,9 +657,9 @@ II.- Presentar cada año al Congreso a más tardar el día 15 de diciembre, los 
 
 III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso;
 
-> <small>(REFORMADA, P.O. 16 DE JULIO DE 1989)</small>
+> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1990)</small>
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, en la apertura del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la Administración Pública Estatal.
+IV.- Informar anualmente y por escrito al Congreso del Estado, en el transcurso de los primeros quince días del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la administración pública estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -1219,7 +1219,7 @@ Sancionada en Aguascalientes, capital del Estado del mismo nombre, a los seis d�
 
 P.O. 25 DE JUNIO DE 1919.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
 
 P.O. 15 DE ENERO DE 1926.
 
@@ -1293,7 +1293,7 @@ El presente decreto surtirá sus efectos desde la fecha de su expedición.
 
 P.O. 8 DE DICIEMBRE DE 1929.
 
-DECRETO NÚMERO 192, POR EL QUE SE REFORMAN LOS ARTÍCULOS 15, 16 Y 30 DE LA CONSTITUCIÓN POLÍTICA LOCAL.
+DECRETO No. 193, POR EL QUE SE REFORMAN LOS ARTICULOS 19 Y 33 DE LA CONSTITUCION POLITICA LOCAL.
 
 ###### Artículo 3o.
 
@@ -1488,5 +1488,9 @@ Las presentes reformas entrarán en vigor al día siguiente de su publicación e
 El ejercicio constitucional de la H. LIII Legislatura del Estado, concluirá al instalarse legalmente la H. LIV Legislatura.
 
 P.O. 11 DE MARZO DE 1990.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 26 DE AGOSTO DE 1990.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
