@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-penales-para-el-estado-de-4832"
 country: "mx"
 rank: "codigo"
 publication_date: "1959-04-02"
-last_updated: "1991-08-23"
+last_updated: "1991-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE DICIEMBRE DE 1991.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 2 de abril de 1959.
 
@@ -1767,6 +1767,8 @@ Si ésta fuere objetada, se ordenará que sean traducidos por los peritos que de
 
 ### CAPITULO UNICO.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 1991)</small>
+
 ###### Art. 267.
 
 La confesión hará prueba plena en los casos de los artículos 164, fracción I, y 167.
@@ -1855,7 +1857,11 @@ Conclusiones.
 
 ###### Art. 279.
 
-Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público, por cinco días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso o fracción se aumentará un día al término señalado.
+Cerrada la instrucción se mandará poner la causa a la vista del Ministerio Público, por diez días, para que formule conclusiones por escrito. Si el expediente excediere de doscientas fojas, por cada cincuenta de exceso o fracción se aumentará un día al término señalado, sin que nunca sea mayor de veinte días hábiles. Se extenderá en autos el cómputo correspondiente.
+
+Transcurrido el plazo a que se refiere el párrafo anterior, sin que el Ministerio Público haya presentado conclusiones, el Juez informará mediante notificación personal al Procurador General de Justicia del Estado de esta omisión, para que éste formule u ordene la formulación de las conclusiones pertinentes en un plazo no mayor de quince días hábiles.
+
+Si transcurren los plazos a que se refiere el párrafo anterior sin que se formulen conclusiones, operará el sobreseimiento del proceso de pleno derecho, y el procesado será puesto en inmediata libertad.
 
 ###### Art. 280.
 
@@ -1895,7 +1901,9 @@ Procedimiento ante los Jueces de Partido.
 
 El sobreseimiento procederá en los casos siguientes:
 
-I.- Cuando el Procurador General de Justicia confirme o formule conclusiones no acusatorias;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1991)</small>
+
+I.- Cuando el Procurador General de Justicia confirme o formule conclusiones no acusatorias, y cuando no se rindan en los términos del artículo 279 de este Código;
 
 II.- Cuando el Ministerio Público se desista de la acción penal intentada;
 
@@ -3720,3 +3728,13 @@ P.O. 23 DE AGOSTO DE 1991.
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor el décimo quinto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE DICIEMBRE DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los asuntos que al entrar en vigor este decreto estén en situación de que formule conclusiones el Ministerio Público, esta Institución gozará de un término de quince días hábiles para formularlas. Si dentro de ese plazo no lo hace, el juez procederá en los términos de los párrafos segundo y tercero del artículo 279.
