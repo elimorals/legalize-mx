@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "2004-08-13"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -2123,7 +2123,9 @@ IV.- La determinación que se manda notificar; comprendiendo sólo la parte reso
 
 V.- El nombre y apellidos de la persona que recibe el instructivo.
 
-Al final del instructivo se asentará la razón correspondiente, la que deberá contener la firma del actuario y de quien recibe, o la causa por la que no firma o se niega a firmar.
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+Se asentará en el expediente la razón respectiva, la que deberá contener la firma del actuario y de quien recibe, o la causa por la cual este último no firma o se niega a firmar
 
 Las notificaciones personales podrán practicarse en el local del tribunal que las ordena, cuando los interesados así lo soliciten asistiendo personalmente al mismo. En este caso, el secretario del tribunal respectivo, hará la notificación dando lectura al auto o sentencia de que se trate, entregando al interesado el instructivo que corresponda y asentando razón en el expediente, la cual deberá firmarse por quien recibe la notificación y por quien la realiza.
 
@@ -5808,3 +5810,7 @@ P.O. 13 DE AGOSTO DE 2004.
 Artículo Primero.- Este decreto entrará en vigor el 1º de noviembre del año 2004, una vez publicado en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Los asuntos, negocios y juicios que se hayan iniciado antes de la fecha de la entrada en vigor del presente decreto, continuarán substanciándose conforme a las disposiciones anteriores hasta su total conclusión.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
