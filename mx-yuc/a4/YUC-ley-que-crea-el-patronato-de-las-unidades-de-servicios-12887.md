@@ -4,7 +4,7 @@ identifier: "YUC-ley-que-crea-el-patronato-de-las-unidades-de-servicios-12887"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-23"
-last_updated: "1994-04-25"
+last_updated: "1998-08-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY QUE CREA EL PATRONATO DE LAS UNIDADES DE SERVICIOS CULTURALES Y TURISTICOS DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ABRIL DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE AGOSTO DE 1998.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 23 de Noviembre de 1987.
 
@@ -43,17 +43,27 @@ El Patronato tendrá como objetivos:
 
 I.- Aprovechar plenamente los recursos arqueológicos y turísticos en beneficio de la economía de la Entidad y de sus habitantes;
 
-II.- Administrar las Unidades de Servicios Culturales y turísticos de las zonas arqueológicas de Uxmal y Chichén Itzá y las de Kabah, Sayil, Labná, Dzibichaltún y las grutas de Loltún y Balancanchén;
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
 
-III.- Fomentar y desarrollar actividades educativas y de difusión de los valores arqueológicos, antropológicos, históricos y turísticos del Estado de Yucatán;
+II.- Adquirir, edificar y administrar las Unidades de Servicios Culturales y Turísticos en el Estado de Yucatán, así como cualquier instalación o infraestructura de carácter cultural o turística en la propia Entidad Federativa y en su caso enajenar los bienes que formen parte de su patrimonio de conformidad con la normatividad legal aplicable y realizar aquellas actividades afines que determine la Junta de Gobierno;
 
-IV.- Incrementar el número de visitantes ofreciendo una mejor y mayor calidad de los servicios turísticos en las zonas arqueológicas.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+III.- Fomentar, incentivar y desarrollar actividades educativas y de difusión de los valores arqueológicos, antropológicos, históricos y turísticos del Estado de Yucatán;
+
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+IV.- Promover el incremento del número de visitantes a Yucatán ofreciendo una mejor y mayor calidad de los servicios en las Unidades de Servicios Culturales y Turísticos y en las instalaciones que administre;
 
 V.- Aumentar la captación de los recursos provenientes de la actividad turística destinándolos a la conservación, ampliación y mejoramiento de las instalaciones;
 
 VI.- Promover nacional e internacionalmente los atractivos turísticos del Estado y en especial, los de las zonas arqueológicas; y
 
 VII.- Operar los sistemas de luz y sonido de las zonas arqueológicas, procurando siempre el mejoramiento de sus instalaciones.
+
+> <small>(ADICIONADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+VIII.- Obtener los recursos, el financiamiento y contratar los créditos, en moneda nacional o extranjera, que sean necesarios para la consecución de los anteriores objetivos, de conformidad con la normatividad aplicable.
 
 ###### ARTICULO TERCERO.
 
@@ -65,7 +75,9 @@ II.- Con los beneficios o frutos que obtenga de su propio Patrimonio y de las ut
 
 III.- Con los intereses que le produzcan sus inversiones;
 
-IV.- Con los productos que obtenga de las concesiones o arrendamientos de los locales comerciales y de las unidades propiedad del Estado de Yucatán; y
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+IV.- Con los productos que obtenga de las concesiones o arrendamientos de los locales comerciales y de las instalaciones de las unidades propiedad del propio Patronato, y las que administre; y
 
 V.- Con los productos que obtenga de cualquier concesión que otorgue de conformidad con la Ley y del presente Decreto.
 
@@ -81,11 +93,41 @@ III.- El Director General.
 
 DE LA INTEGRACION DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO QUINTO.
 
-La Junta de Gobierno estará integrada por un Presidente, que será el Gobernador del Estado, un Secretario Técnico; que será el Director del Centro Regional del Instituto Nacional de Antropología e Historia en el Estado; un Coordinador de Promoción que será el representante de la Secretaría de Turismo del Gobierno Federal en Estado o por un representante del Fondo Nacional de Fomento al Turismo (FONATUR); un Tesorero, que será el Secretario de Finanzas del Gobierno del Estado y por dos Vocales que serán el Director del Instituto de Cultura del Estado y el Subsecretario Estatal de Turismo, que igualmente tendrán derecho a voz y voto.
+La Junta de Gobierno estará integrada por:
 
-El Director General del Patronato formará parte también de la Junta de gobierno, sin contar con derecho a voto.
+I.- Un Presidente, que será el Gobernador del Estado;
+
+II.- Un Secretario Técnico, que será el Director del Centro Regional del Instituto Nacional de Antropología e Historia en el Estado;
+
+III.- Un Coordinador de Promoción que será el Secretario de Desarrollo Industrial y Comercial del Gobierno del Estado;
+
+IV.- Un Tesorero, que será el Secretario de Hacienda y Planeación del Gobierno; y
+
+V.- Ocho Vocales con derecho a voz y a voto, que serán:
+
+a) El Secretario General de Gobierno, que además suplirá en sus ausencias al Presidente,
+
+b) El Secretario de Desarrollo Urbano, Obras Públicas y Vivienda del Gobierno del Estado,
+
+c) El Secretario de Ecología del Gobierno del Estado,
+
+d) El Director del Instituto de Cultura de Yucatán,
+
+e) Un representante del Fondo Nacional de Fomento al Turismo,
+
+f) Un representante de la Secretaría de Turismo del Gobierno Federal,
+
+g) El Presidente de la Cámara Nacional de Comercio, Servicios y Turismo de Mérida, y
+
+h) El Presidente de la Asociación Mexicana de Hoteles en Yucatán, Asociación Civil.
+
+Además contará con un Secretario de Actas y Acuerdos, con voz pero sin voto.
+
+El Director General del Patronato no formará parte de la Junta de Gobierno, pero deberá asistir a las sesiones teniendo derecho a voz, pero no a voto.
 
 DE LAS FUNCIONES DE LA JUNTA DE GOBIERNO
 
@@ -93,9 +135,13 @@ DE LAS FUNCIONES DE LA JUNTA DE GOBIERNO
 
 La Junta de Gobierno tendrá las siguientes funciones:
 
-I.- Normar el aprovechamiento, la administración y la vigilancia de las unidades de Servicios Culturales y Turísticos de las zonas arqueológicas de Uxmal y de Chichén Itzá y las de Kabá, Sayil, Labná, Dzibichaltún y de las grutas de Loltún y de Balancanchén.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
 
-II.- Nombrar al Director General del Patronato a propuesta del Presidente.
+I.- Normar el aprovechamiento, la administración y la vigilancia de las Unidades de Servicios Culturales y Turísticos ubicadas en el Estado de Yucatán, así como de las instalaciones e infraestructura de carácter cultural y turística que el Patronato administre en la propia Entidad Federativa, y las actividades afines que se determinen.
+
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+II.- Previo análisis, autorizar al Director General la adquisición a favor de este Patronato de bienes inmuebles y enajenarlos, de conformidad con la normatividad aplicable.
 
 III.- Conocer y evaluar los informes de actividades que presente la Dirección General.
 
@@ -103,11 +149,15 @@ IV.- Conocer los informes financieros y los avances en el Programa de gastos que
 
 V.- Aprobar los programas anuales del Patronato que elabore la Dirección General.
 
-VI.- Determinar el destino de los excedentes económicos que se generen del cobro de servicios y concesiones, tomando en cuenta el orden de prioridades establecido en la misma Ley.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+VI.- Determinar el destino de los excedentes económicos que se generen del cobro de servicios y concesiones, de conformidad con esta Ley.
 
 VII.- Aprobar los reglamentos que rijan las funciones del Patronato y los Servicios que se presten, a propuesta de la Dirección General.
 
-VIII.- Supervisar permanentemente el funcionamiento de las Unidades de Servicios en las zonas arqueológicas y velar por el cabal cumplimiento de los fines turísticos y culturales que persigue el Patronato.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+VIII.- Supervisar permanentemente el funcionamiento de las Unidades de Servicios, así como de las demás instalaciones culturales y turísticas que administre el Patronato, y velar por el cabal cumplimiento de los fines culturales y turísticos que persigue el mismo.
 
 IX.- Conocer y aprobar la realización de eventos y proyectos especiales en colaboración con otras instituciones públicas y privadas, que tiendan a reforzar la acción del Patronato y complementar sus esfuerzos.
 
@@ -116,6 +166,10 @@ X.- Aprobar los contratos de concesión de servicios y conocer el procedimiento 
 > <small>(ADICIONADA, D.O. 25 DE ABRIL DE 1994)</small>
 
 XI.- Fijar las tarifas a cargo de los usuarios de los servicios que preste el Patronato mediante acuerdo que sea publicado en el Diario Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+XII.- Conocer y autorizar la contratación de los créditos y las fuentes de financiamiento que sean necesarios para la consecución de sus objetivos, y de conformidad con la normatividad aplicable.
 
 DE LAS SESIONES DE LA JUNTA DE GOBIERNO
 
@@ -127,9 +181,11 @@ La Junta de Gobierno celebrará sesiones ordinarias trimestralmente y extraordin
 
 Las convocatorias serán suscritas por el Presidente o por el Secretario Técnico, y contendrán el lugar, fecha y hora para la sesión, así como la orden del día, a la que se acompañará la documentación relativa a los asuntos considerados en la misma y el proyecto de Acta de la sesión anterior. El Secretario Técnico la hará llegar a los miembros de la Junta de Gobierno cuando menos con cinco días hábiles anteriores a la fecha designada para la sesión.
 
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO NOVENO.
 
-El quórum requerido para la celebración de las sesiones sólo se integrará con la asistencia de todos los miembros o sus representantes.
+El quórum requerido para la celebración de las sesiones se integrará con la asistencia de la mitad más uno de sus integrantes, siempre y cuando esté presente el Presidente de la Junta de Gobierno o su suplente.
 
 ###### ARTICULO DECIMO.
 
@@ -137,29 +193,41 @@ Si la sesión no pudiese celebrarse en el día señalado por falta de quórum, s
 
 DE LOS ACUERDOS DE LA JUNTA DE GOBIERNO
 
-###### ARTICULO DECIMO PRIMERO
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
 
-Los acuerdos del Comité serán aprobados por unanimidad o en caso de que no se llegare a l acuerdo por estos procedimientos, se decidirán por mayoría en votación simple.
+###### ARTICULO DECIMO PRIMERO.
+
+Los acuerdos de la Junta de Gobierno serán aprobados por mayoría de votos de los asistentes. En caso de empate el Presidente, o en su caso su suplente, tendrá voto de calidad.
+
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
 
 ###### ARTICULO DECIMO SEGUNDO.
 
-El acta de cada sesión de la Junta de Gobierno deberá ser aprobada por ésta, será suscrita por el Presidente y por el Secretario Técnico que hará constar en ella la lista de asistencia, la orden del día y las resoluciones acordadas. De esta documentación se enviará copia a cada una de las partes que suscribieron el Convenio celebrada el 18 de marzo de 1985.
+El acta de cada sesión de la Junta de Gobierno deberá ser aprobada por ésta, será suscrita por todos los asistentes y se harán constar en ella la lista de asistencia, el orden del día y las resoluciones acordadas.
 
 DE LAS AREAS DE RESPONSABILIDAD Y DE LA UTILIZACION
 
 DE LOS RECURSOS FINANCIEROS
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO DECIMO TERCERO.
 
-Los recursos que obtenga el Patronato, deberán aplicarse invariable y necesariamente con la jerarquía de su importancia a saber:
+Los recursos que obtenga el Patronato deberán aplicarse a los siguientes conceptos:
 
-I.- Para mantenimiento, conservación, protección, vigilancia y limpieza de las zonas arqueológicas del Estado.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+I.- Para el funcionamiento y operación, mantenimiento, conservación, fomento, promoción, protección y limpieza de las zonas arqueológicas del Estado y de las Unidades de Servicios Culturales y Turísticos, así como de las instalaciones e infraestructura de carácter cultural, turística y administrativa que el Patronato tenga a su cargo;
 
 II.- Para el desarrollo de la investigación científica en el conocimiento de la Cultura Maya;
 
 III.- Para el fomento y desarrollo de actividades educativas relacionadas con la difusión y conocimiento de los valores históricos de la Cultura Maya;
 
 IV.- Para la difusión de los valores arqueológicos, antropológicos, históricos y turísticos de la Cultura Maya.
+
+> <small>(ADICIONADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+V.- Para edificaciones, adquisición de bienes muebles o inmuebles, pago de las obligaciones contraídas para el cumplimiento de los objetivos del propio Patronato y ampliación de las Unidades de Servicios Culturales y Turísticos, así como de cualquier instalación o infraestructura de carácter cultural o turística en la propia Entidad Federativa.
 
 ###### ARTICULO DECIMO CUARTO.
 
@@ -169,9 +237,11 @@ Los programas de mantenimiento, conservación, protección, vigilancia y limpiez
 
 La vigilancia, mantenimiento y limpieza de las Unidades de Servicios Culturales y Turísticos será normada y reglamentada por la Junta de Gobierno y su ejercicio estará a cargo del Patronato, sin detrimento de las facultades que en ese sentido corresponden al Instituto Nacional de Antropología e Historia.
 
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO DECIMO SEXTO.
 
-Los Programas aprobados por la Junta de Gobierno, deberán contar con el visto bueno y la supervisión del Instituto Nacional de Antropología e Historia.
+Los programas aprobados por la Junta de Gobierno, que se encuentren dentro de la esfera de competencia del Instituto Nacional de Antropología e Historia, deberán contar con el visto bueno y supervisión del mismo.
 
 DE LA INTEGRACION DEL CONSEJO CONSULTIVO
 
@@ -183,43 +253,81 @@ I.- Por el Director General del Patronato quien fungirá como Presidente del mis
 
 II.- Por el Vicepresidente de Turismo de la Cámara Nacional de Comercio, Servicios y Turismo de Mérida, quien tendrá el carácter de Secretario.
 
-III.- Y con un representante, respectivamente, del Instituto Nacional de Antropología e Historia.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
 
-IV.- De la Secretaría de Turismo.
+III.- Con un representante, respectivamente, de:
 
-V.- De la Subsecretaría de Turismo, de la Secretaría de Desarrollo Económico del Gobierno del Estado.
+a) El Instituto Nacional de Antropología e Historia,
 
-VI.- De la Secretaría de Educación del Gobierno del Estado.
+b) La Secretaría de Turismo,
 
-VII.- De la Secretaría de Desarrollo Urbano y Ecología (SEDUE).
+c) La Secretaría del Medio Ambiente, Recursos Naturales y Pesca,
 
-VIII.- De la Universidad Autónoma de Yucatán.
+d) La Secretaría de Desarrollo Industrial y Comercial del Gobierno del Estado,
 
-IX.- Del Instituto Tecnológico de Mérida.
+e) La Secretaría de Educación del Gobierno del Estado,
 
-X.- Del Instituto de Cultura del Estado de Yucatán.
+f) La Secretaría de Hacienda y Planeación del Gobierno del Estado,
 
-XI.- De la Asociación Mexicana de Hoteles y Moteles de Yucatán, Asociación Civil.
+g) La Secretaría de Ecología del Gobierno del Estado,
 
-XII.- De la Asociación Yucateca de Agencias de Viajes, Asociación Civil.
+h) El Instituto de Cultura del Estado de Yucatán,
 
-XIII.- De la Asociación de Arrendadoras de Vehículos del Sureste, Asociación Civil.
+i) El Instituto de la Juventud y el Deporte del Estado de Yucatán,
 
-XIV.- De la Cámara Nacional de la Industria Restaurantera y Alimentos condimentados.
+j) El Sistema para el Desarrollo Integral de la Familia DIF-Yucatán,
 
-XV.- De cada uno de los dos Sindicatos de Guías de Turismo del Estado de Yucatán.
+k) La Universidad Autónoma de Yucatán,
 
-XVI.- De la Empresa de Transportes Turísticos del Sureste (MAYARAMA).
+l) El Instituto Tecnológico de Mérida,
 
-XVII.- Del Municipio de Mérida.
+m) La Asociación Mexicana de Hoteles de Yucatán,
 
-XVIII.- Del Municipio de Tinum.
+n) La Asociación Yucateca de Agencias de Viajes,
 
-XIX.- Del Municipio de Santa Elena.
+o) La Asociación de Arrendadoras de Vehículos del Sureste,
 
-XX.- Del Consejo Estatal de Recurso para la Juventud (CREA).
+p) La Asociación de Agencias Promotoras de Turismo de Yucatán,
 
-XXI.- Del DIF del Estado de Yucatán.
+q) La Cámara Nacional de la Industria Restaurantera y Alimentos Condimentados, y
+
+r) Cada uno de los Sindicatos de Guías de Turismo del Estado de Yucatán.
+
+IV.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+V.- (DER0OGADA, D.O. 29 DE AGOSTO DE 1998)
+
+VI.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+VII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+VIII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+IX.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+X.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XI.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XIII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XIV.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XV.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XVI.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XVII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XVIII.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XIX.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XX.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
+
+XXI.- (DEROGADA, D.O. 29 DE AGOSTO DE 1998)
 
 ###### ARTICULO DECIMO OCTAVO.
 
@@ -227,7 +335,9 @@ El Consejo Consultivo tendrá las siguientes funciones:
 
 I.- Conocer y evaluar los programas del Patronato.
 
-II.- Supervisar el funcionamiento de los servicios culturales y turísticos que presta el Patronato.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+II.- Emitir su opinión respecto a los asuntos que le encomiende la Junta de Gobierno.
 
 III.- Realizar propuestas a fin de elaborar el Programa Anual de actividades del Patronato.
 
@@ -259,9 +369,11 @@ Las decisiones del Consejo Consultivo se tomarán por mayoría simple de votos.
 
 DEL NOMBRAMIENTO DEL DIRECTOR GENERAL
 
+> <small>(REFORMADO, D.O. 29 DE AGOSTO DE 1998)</small>
+
 ###### ARTICULO VIGESIMO CUARTO.
 
-La Junta de Gobierno nombrará al Director General del Patronato a propuesta de su Presidente.
+El Director General del Patronato será nombrado por el Gobernador del Estado.
 
 DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
 
@@ -269,9 +381,21 @@ DE LAS ATRIBUCIONES DEL DIRECTOR GENERAL
 
 El Director General tendrá las siguientes atribuciones:
 
-I.- Representar legalmente al Patronato como Apoderado General del mismo únicamente para la administración de bienes y para pleitos y cobranzas, con todas las facultades generales y particulares que requieran cláusula especial, conforme a la Ley, para tal fin.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
 
-II.- Formar parte de la Junta de Gobierno, con derecho a voz y asistir regularmente a todas sus sesiones.
+I.- Representar legalmente al Patronato y, por mandato que la Junta de Gobierno le otorgue, actuar como apoderado general de dicho Patronato para:
+
+a) Actos de administración de bienes del propio Patronato,
+
+b) Asuntos judiciales, comprendiendo pleitos y cobranzas y para comparecer ante cualquier autoridad municipal, estatal o federal. Incluyendo asuntos de naturaleza civil, penal, mercantil, laboral y administrativa, para demandar, contestar demandas, transigir en árbitros, ofrecer pruebas, articular y absolver posiciones, promover juicios de amparo y desistirse de los mismos, facultades que podrá delegar,
+
+c) Actos de dominio para adquirir a favor de este Patronato bienes inmuebles y enajenarlos, con la aprobación y autorización de la Junta de Gobierno y de conformidad con la normatividad aplicable, y
+
+d) Tramitar créditos y fuentes de financiamiento a favor del Patronato previa aprobación y autorización de la Junta de Gobierno, suscribiendo para estos efectos los contratos, documentos y títulos de crédito necesarios para este fin, de conformidad con la normatividad aplicable.
+
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+II.- Administrar el patrimonio del Patronato de conformidad a la normatividad.
 
 III.- Convocar y coordinar las reuniones del Consejo Consultivo con el carácter de Presidente del mismo.
 
@@ -283,7 +407,9 @@ VI.- Elaborar los programas anuales de actividades contemplando las opiniones y 
 
 VII.- Seleccionar y contratar al personal necesario para el buen desempeño del Patronato y la adecuada prestación de los servicios que ofrece.
 
-VIII.- Dar en arrendamiento los locales comerciales de las unidades de servicios culturales y turísticos en las distintas zonas arqueológicas del Estado y otorgar la concesión de los servicios que se estime conveniente, a particulares.
+> <small>(REFORMADA, D.O. 29 DE AGOSTO DE 1998)</small>
+
+VIII.- Otorgar a particulares la concesión de los servicios que estime conveniente y dar en arrendamiento los locales comerciales y las instalaciones de las Unidades de Servicios Culturales y Turísticos propiedad del Patronato y las ajenas que administre el mismo.
 
 IX.- Ejercer permanente y cabalmente la vigilancia, el mantenimiento y la limpieza de las unidades de servicios culturales y turísticos en las distintas zonas arqueológicas del Estado y supervisar el debido funcionamiento de los servicios que presta el Patronato a que fueron concesionados a particulares.
 
@@ -322,3 +448,13 @@ D.O. 25 DE ABRIL DE 1994.
 PRIMERO.- Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
 
 SEGUNDO.- Este Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del gobierno del Estado.
+
+D.O. 29 DE AGOSTO DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones legales que se opongan a lo dispuesto en este decreto.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
