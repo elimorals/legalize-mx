@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-de-planeacion-y-construccion-de-escuelas-1475
 country: "mx"
 rank: "ley"
 publication_date: "1999-05-26"
-last_updated: "1999-05-26"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL INSTITUTO DE PLANEACION Y CONSTRUCCION DE ESCUELAS DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 26 de mayo de 1999.
 
@@ -113,19 +113,23 @@ La Junta de Gobierno se integrará de la siguiente manera:
 
 3.- Un Director General, quien será designado por el C. Gobernador Constitucional del Estado.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 4.- Las siguientes Vocalías:
 
 A). Secretaría General de Gobierno.
 
-B). Secretaría de Finanzas y Administración.
+B). Secretaría de Finanzas.
 
-C). Secretaría de Planeación y Evaluación.
+C). Secretaría de Administración.
 
-D). Un representante del Comité Administrador del Programa Federal de Construcción de Escuelas.
+D). Secretaría de Planeación y Evaluación.
 
-E). Un representante de Servicios Educativos del Estado de Chihuahua.
+E). Un representante del Comité Administrador del Programa Federal de Construcción de Escuelas.
 
-F). Un representante de la Secretaría de Educación Pública en el Estado.
+F). Un representante de Servicios Educativos del Estado de Chihuahua.
+
+G). Un representante de la Secretaría de Educación Pública en el Estado.
 
 5.- Un Comisario Público y su respectivo suplente, quien será nombrado por la Secretaría de la Contraloría.
 
@@ -153,7 +157,9 @@ VIII.- Aceptar las donaciones, legados y demás liberalidades que se otorguen a 
 
 IX.- Fijar las reglas generales a que deberá sujetarse el Instituto en la celebración de acuerdos, convenios y contratos con los sectores público, social y privado, para la ejecución de obras de infraestructura educativa.
 
-X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto, aprobar la fijación de sus sueldos y prestaciones de conformidad con el Presupuesto de Egresos del Estado y a las políticas y lineamientos en la materia establecidas por la Secretaría de Finanzas y Administración, así como en los estatutos del Instituto.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+X.- Nombrar y remover, a propuesta del Director General, a los servidores públicos del Instituto, aprobar la fijación de sus sueldos y prestaciones de conformidad con el Presupuesto de Egresos del Estado y a las políticas y lineamientos en la materia establecidas por la Secretaría de Administración, así como en los estatutos del Instituto.
 
 XII (sic).- Establecer, con sujeción a las disposiciones legales relativas, los donativos o pagos extraordinarios que reciba y verificar que los mismos se apliquen precisamente a los fines señalados, de acuerdo con las instrucciones de la dependencia coordinadora de sector correspondiente.
 
@@ -285,7 +291,9 @@ I.- Cuando deje de cumplir sus fines u objeto; o
 
 II.- Cuando su funcionamiento no resulte ya conveniente desde el punto de las finanzas públicas del Estado o del interés público.
 
-En todo caso, la Secretaría de Finanzas y Administración, atendiendo a la opinión de la Secretaría de Comunicaciones y Obras Públicas y de la Contraloría del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
+En todo caso, la Secretaría de Finanzas, atendiendo a la opinión de las Secretarías de Comunicaciones y Obras Públicas y de la Contraloría del Estado, propondrá al Ejecutivo la disolución o extinción del Instituto.
 
 Si la actividad combinada o separada redunda en un incremento de eficiencia y productividad, podrá proponer su fusión o escisión, la cual deberá ser aprobada por el Congreso del Estado.
 
@@ -332,3 +340,29 @@ C.P. PATRICIO MARTINEZ GARCIA.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. VICTOR E. ANCHONDO PAREDES.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamientos, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a La Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
