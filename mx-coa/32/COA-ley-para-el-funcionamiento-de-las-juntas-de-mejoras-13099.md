@@ -4,7 +4,7 @@ identifier: "COA-ley-para-el-funcionamiento-de-las-juntas-de-mejoras-13099"
 country: "mx"
 rank: "ley"
 publication_date: "1949-03-12"
-last_updated: "1949-03-12"
+last_updated: "1967-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA EL FUNCIONAMIENTO DE LAS JUNTAS DE MEJORAS MATERIALES EN EL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1967.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 12 de marzo de 1949.
 
@@ -45,25 +45,33 @@ Las Juntas de Mejoras Materiales del Estado administrarán el patrimonio que est
 
 Se establecerán Juntas Locales de Mejoras Materiales en la cabecera de cada Municipio, las que tendrán personalidad jurídica y patrimonio propio, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1967)</small>
+
 ###### ARTICULO 3o.
 
 Las Juntas Locales de Mejoras Materiales se integrarán:
 
-I.- Por un representante del Gobierno del Estado, que fungirá como Presidente.
+I.- Por un Representante del Gobierno del Estado, que fungirá como Presidente.
 
-II.- Por un representante del H. Ayuntamiento que fungirá como Tesorero.
+II.- Por un Representante del R. Ayuntamiento que fungirá como Secretario.
 
-III.- Por un representante designado por la Cámara de Propietarios, que fungirá como Secretario, y
+III.- Por un Representante de la Cámara de Propietarios, que fungirá como Tesorero.
 
-IV.- Por un representante común, designado por mayoría por las Organizaciones Obreras, Campesinas, Sector Popular, Cámaras de Industria y Comercio y Clubes de carácter Social.
+IV.- Por un Representante de la Cámara de Comercio, que fungirá como Vocal, y
+
+V.- Por un Representante, de la Cámara de Propietarios, que fungirá como Vocal.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1967)</small>
 
 ###### ARTICULO 4o.
 
-Si no existiera Cámara de Propietarios en la localidad, el representante será designado por mayoría de votos en una asamblea de propietarios de predios, convocada con 10 días de anticipación por el representante del Gobierno del Estado.
+En caso de no existir Cámara de Propietarios en la localidad, los dos representantes serán designados por mayoría de votos en una asamblea de propietarios de inmuebles, convocada con diez días de anticipación por el Representante del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1967)</small>
 
 ###### ARTICULO 5o.
 
-En el caso de que los Organismos que deban designar al representante común en los términos del inciso IV del Artículo 3o. no se pusieran de acuerdo en un plazo de 10 días, el Ejecutivo del Estado hará la designación.
+Si transcurridos los diez días la asamblea de propietarios convocada no hace las designaciones, estas quedarán a cargo del Ejecutivo del Estado.
 
 ###### ARTICULO 6o.
 
@@ -266,3 +274,11 @@ EVELIO H. GONZALEZ TREVIÑO.- Rúbrica.
 EL OFICIAL MAYOR ENC. DEL DESPACHO:
 
 LIC. CARLOS VALDES VILLARREAL.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 1967.
+
+###### ARTICULO UNICO
+
+- Se fija un Término de noventa días contados a partir de la publicación de este Decreto en el Periódico Oficial, para que las Juntas Locales de Mejoras Materiales que actualmente funcionan en el Estado, se restructuren (sic) ajustándose a lo dispuesto en el Artículo Tercero.
