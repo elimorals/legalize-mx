@@ -4,7 +4,7 @@ identifier: "GUA-codigo-civil-para-el-estado-de-guanajuato-9891"
 country: "mx"
 rank: "codigo"
 publication_date: "1967-05-14"
-last_updated: "1995-08-15"
+last_updated: "1996-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9891&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO CIVIL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 1996.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Guanajuato, el 14 de mayo de 1967.
 
@@ -10427,7 +10427,7 @@ El incapaz que acepte el depósito, solamente queda obligado a restituir la cosa
 
 ###### Art. 2030.
 
-Cuando la incapacidad no fuere obsoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
+Cuando la incapacidad no fuere absoluta, podrá el depositario ser condenado al pago de daños y perjuicios, si hubiere procedido con dolo o mala fe.
 
 ###### Art. 2031.
 
@@ -12773,7 +12773,7 @@ Satisfechos los créditos de que se ha hablado anteriormente, se pagarán los cr
 
 ###### Art. 2488.
 
-Pagados los créditos enumerados en los capítulos que preceden (sic), se pagarán los créditos que consten en documento privado.
+Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
 
 ###### Art. 2489.
 
@@ -13003,15 +13003,21 @@ El registrador que haga una inscripción sin cumplir con lo dispuesto en el art�
 
 El registro producirá sus efectos desde el día y la hora en que el documento se hubiere presentado en la Oficina Registradora, siempre que el interesado haga entrega a la propia Oficina dentro de los 15 días siguientes a aquella presentación del recibo oficial de pago de los derechos correspondientes al registro del documento de referencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1991)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 1996)</small>
 
 ###### Art. 2516.
 
-Una vez que se firme una escritura en que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituido, transmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que se estuviere inscrita la propiedad en el Registro, o indicación del número del folio real. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad, o en el folio real que corresponda. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+Cuando vaya a otorgarse una escritura en la que se adquiera, trasmita, modifique, o extinga la propiedad o posesión de bienes raíces, o cualquier derecho real sobre los mismos, o que sin serlo sea inscribible, el notario o autoridad ante quien se haga el otorgamiento, podrá solicitar al Registro Público certificado sobre la existencia o inexistencia de gravámenes en relación con la misma. En dicha solicitud que surtirá efectos de aviso preventivo deberá mencionar la operación e inmueble de que se trate, los nombres de los contratantes y el respectivo antecedente registral. El registrador, con esta solicitud practicará inmediatamente la anotación marginal correspondiente, anotación que tendrá vigencia por un término de veinte días naturales a partir de la fecha de presentación de la solicitud.
 
-> <small>(REFORMADO, P.O. 19 DE JULIO DE 1985)</small>
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo precedente, el notario o autoridad ante quien se otorgó dará aviso preventivo acerca de la operación de que se trate al Registro Público dentro de los cinco días siguientes y contendrá además de los datos mencionados en el párrafo anterior, el número y la fecha de la escritura. El registrador, con el aviso citado practicará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días naturales a partir de la fecha de presentación del aviso. Si éste se da dentro del término de veinte días a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el mismo párrafo, en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
-Igualmente podrá registrarse en forma preventiva el embargo sobre bienes inmuebles a petición del ejecutante, o su representante, mediante simple aviso por escrito que expida el Ministro Ejecutor en el momento de la diligencia judicial que contenga los nombres de las partes en el Juicio o providencia en que se hubiere despachado, el tribunal que despachó la ejecución, el número del expediente correspondiente, el monto del embargo, la naturaleza del juicio o providencia, la fecha del embargo y los datos registrales que permitan la identificación del inmueble. Este aviso preventivo quedará sin efecto si el ejecutante no presenta las copias certificadas del embargo dentro del término de los diez días siguientes de la presentación del aviso.
+Si el testimonio respectivo se presentare el Registro Público dentro de cualquiera de los términos que señalan los dos párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del aviso y con arreglo a su número de entrada. Si el documento se presentare fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
+
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo primero de este artículo fuere privado, podrá dar aviso preventivo, con vigencia por noventa días, el notario, o el Juez competente que se haya cerciorado de la autenticidad de las firmas y de la voluntad de las partes, en cuyo caso el mencionado aviso surtirá los mismos efectos que el dado por los notarios en el caso de los instrumentos públicos. Si el contrato se ratifica ante el registrador, este deberá practicar de inmediato el aviso preventivo a que este precepto se refiere.
+
+Igualmente podrá registrarse en forma preventiva, el embargo sobre bienes inmuebles a petición del ejecutante, o su representante, mediante simple aviso por escrito que deberá expedir el Ministro Ejecutor en el momento de la diligencia judicial que contenga los nombres de las partes en el juicio o providencia en que se hubiere despachado, el tribunal que despacho la ejecución, el número del expediente correspondiente, el monto del crédito o de la providencia precautoria, la naturaleza del juicio o providencia, la fecha del embargo y los datos registrales que permitan la identificación del inmueble. Este aviso preventivo quedará sin efecto si el ejecutante no presenta las copias certificadas del embargo dentro del término de treinta días naturales siguientes al de la presentación del aviso.
+
+Los avisos preventivos a que se refiere este artículo no causarán pago de derechos.
 
 ###### Art. 2517.
 
@@ -13065,7 +13071,7 @@ IV. Cuando se declare la nulidad de la inscripción;
 
 V. Cuando sea vendido judicialmente el inmueble que reporte el gravamen en el caso previsto en el artículo 1820;
 
-VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción;
+VI. Cuando se trate de un embargo y se hubiere declarado la caducidad del procedimiento en que fue decretado, o hubieren transcurrido tres años de inactividad procesal después de la fecha de la inscripción.
 
 ###### Art. 2525.
 
@@ -15657,7 +15663,7 @@ DECRETO NUMERO 37, QUE ADICIONA EL ARTICULO 323 DEL CODIGO.
 
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación el Periódico Oficial del Gobierno del Estado.
 
 P.O. 28 DE JULIO DE 1989.
 
@@ -15700,6 +15706,12 @@ P.O. 7 DE AGOSTO DE 1992.
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 P.O. 15 DE AGOSTO DE 1995.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE ENERO DE 1996.
 
 ###### ARTICULO UNICO.
 
