@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2001-08-27"
+last_updated: "2001-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 1, PUBLICADO EN EL P.O. 13 DE DICIEMBRE DE 1992, TODO ORDENAMIENTO Y DEMÁS ESCRITOS QUE REFIERAN LA DENOMINACIÓN "TESORERÍA GENERAL" O "TESORERO GENERAL", EN LO SUCESIVO SERÁN "SECRETARÍA DE FINANZAS" O "SECRETARIO DE FINANZAS", SEGÚN CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2001.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -205,23 +205,23 @@ El Congreso se integrará con representantes del pueblo que residan en el territ
 
 Por cada Diputado Propietario se eligirá (sic) un Suplente.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 17.
 
-El Congreso del Estado estará integrado por dieciocho Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta nueve Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
+El Congreso del Estado estará integrado por veintitrés Diputados electos según el principio de votación de mayoría relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán trece al Municipio de Aguascalientes y al menos uno a cada uno de los municipios restantes, y hasta por cuatro Diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación es el Estado.
 
-El Instituto Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras, debiendo revisarse la misma después de cada Censo Nacional de Población.
+El Instituto Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales basado en un criterio poblacional. Se tomarán en cuenta los principios de contigüidad de fronteras, conectividad, compacidad y respeto a la división seccional; se propiciará la unidad geográfica de los distritos electorales. El número de habitantes que contendrá cada distrito no podrá diferir en veinte por ciento, más o menos, del cociente resultante. La revisión o adecuación se realizará después de cada Censo General de Población.
 
-La asignación de los nueve Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
+La asignación de los cuatro Diputados según el principio de representación proporcional, se sujetará a las siguientes bases y a lo que en particular disponga el Código Estatal Electoral:
 
-I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos doce de los dieciocho distritos uninominales.
+I.- El partido político deberá acreditar que tiene su registro nacional e inscribir candidatos a Diputados por mayoría relativa, en por lo menos quince de los veintitrés distritos uninominales.
 
 II.- Las diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el dos punto cinco por ciento de la votación emitida.
 
-III.- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional, el número de Diputados de sus listas que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
-
-El Código Estatal Electoral determinará la fórmula y el procedimiento que se observará en dicha asignación; y
+III.- El Código Estatal Electoral determinará la fórmula y el procedimiento que se observará en dicha asignación; y
 
 IV.- Los Diputados por mayoría relativa y de representación proporcional, tendrán la misma jerarquía e igualdad de derechos y obligaciones.
 
@@ -245,25 +245,25 @@ I.- El cinco por ciento de los ciudadanos inscritos en el Padrón Electoral, cuy
 
 II.- Una tercera parte de los Diputados que integran el H. Congreso del Estado.
 
+III.- Los Ayuntamientos de los Municipios del Estado, en el ámbito de su competencia; y
+
+IV.- El Gobernador del Estado.
+
 Para que la solicitud se declare aprobada se requiere del voto favorable de las dos terceras partes de los integrantes del H. Congreso del Estado, la cual será turnada al Instituto Estatal Electoral para que a su vez, elabore la pregunta para expedir enseguida la convocatoria correspondiente.
 
 No podrán someterse a Referéndum ni a Plebiscito aquellas leyes o artículos que contemplen las siguientes materias:
 
 a).- Las disposiciones constitucionales y legales en materia tributaria o fiscal, así como Ley de Ingresos y Presupuesto de Egresos en el Estado de Aguascalientes.
 
-b).- Ley Orgánica del Poder Ejecutivo del Estado de Aguascaliente.
+b).- Ley Orgánica del Poder Ejecutivo del Estado de Aguascalientes.
 
-c).- Ley Orgánica del H. Congreso del Estado y su Reglamento Interior.
+c).- Ley Orgánica del Poder Legislativo y sus Reglamentos.
 
 d).- Ley Orgánica del Poder Judicial del Estado; y
 
 e).- Las demás que determinen las leyes.
 
-El Tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Tribunal quien conozca y resuelva de los recursos.
-
-El Tribunal Local Electoral tendrá la facultad de declarar la validez de la elección.
-
-El Tribunal Local Electoral tendrá también participación en el plebiscito y el referéndum, con base en las atribuciones establecidas en la Ley de la materia.
+El Tribunal Local Electoral será un órgano jurisdiccional autónomo en su funcionamiento e independiente en sus decisiones, temporal, integrado por tres Magistrados, adscritos al Poder Judicial del Estado. En tiempo no electoral será el Pleno del Supremo Tribunal de Justicia del Estado quien conozca y resuelva de los recursos. El Tribunal Local Electoral tendrá la facultad de declarar la validez de la elección.
 
 El Instituto Estatal Electoral se integrará y funcionará conforme a lo que disponga el Código Estatal Electoral.
 
@@ -275,7 +275,7 @@ Los partidos políticos nacionales con registro, tendrán derecho a participar e
 
 Los partidos políticos tendrán derecho al uso permanente y en condiciones de equidad de los medios de comunicación social, de acuerdo con las formas y procedimientos que establezcan las leyes aplicables.
 
-El Código Estatal Electoral establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Instituto Estatal Electoral. También determinará los topes para gastos de campaña y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
+El Código Estatal Electoral establecerá las reglas a que se sujetará el financiamiento público de los partidos políticos y sus campañas electorales, de acuerdo a las disponibilidades del Presupuesto de Egresos del Estado y a lo que determine el Instituto Estatal Electoral. También determinará los topes para gastos de precampañas, campañas y los montos máximos de las aportaciones pecuniarias de los particulares. De igual forma, regulará los procedimientos de control y vigilancia del origen y uso del financiamiento en su conjunto y las sanciones que en su caso corresponda por incumplimiento.
 
 ###### Artículo 17 Bis.
 
@@ -379,7 +379,7 @@ Los diputados deben presentarse al recinto oficial el día señalado por la Ley 
 
 De las Facultades del Congreso.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 27.
 
@@ -389,19 +389,19 @@ I.- Legislar para el Estado, sobre todas las materias que no sean de la competen
 
 II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y de los Municipios.
 
-En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios.
+En materia de contribuciones municipales sobre la propiedad inmobiliaria, tomando en cuenta anualmente a propuesta de los Ayuntamientos, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para su cobro a propuesta de los Municipios;
 
 III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador y, en el que no podrá haber partidas secretas.
 
 IV.- Autorizar al Ejecutivo para celebrar empréstitos sobre el crédito del Estado, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
-Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
+Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos;
 
 V.- Revisar las cuentas públicas que trimestralmente deben presentarle el Gobernador del Estado, organismos descentralizados y los Ayuntamientos, dentro de los veinte días siguientes a la conclusión de los plazos señalados. En los recesos del Congreso, se presentarán ante la Diputación Permanente. La ampliación del plazo de entrega de éstas, estará sujeta a una solicitud justificada a juicio del Congreso.
 
 Las cuentas públicas se turnarán a la Comisión de Vigilancia de la Contaduría Mayor de Hacienda; ésta, con el auxilio del órgano técnico, revisará los resultados de la gestión financiera, comprobará que los ingresos estén de acuerdo a la Ley de Ingresos, que las partidas gastadas están justificadas y son conformes con las normas de ejecución de los Presupuestos de Egresos.
 
-La cuenta pública deberá ser revisada y fiscalizada semestralmente por el Honorable Congreso del Estado.
+La cuenta pública deberá ser revisada y fiscalizada semestralmente por el Honorable Congreso del Estado;
 
 VI.- Autorizar al Ejecutivo para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado.
 
@@ -413,19 +413,23 @@ IX.- Crear y suprimir cargos públicos.
 
 X.- Convocar a elecciones conforme a la Ley.
 
-XI. Erigirse en Colegio Electoral para la calificación de la elección de Gobernador del Estado.
+XI.- Para erigirse en Colegio Electoral en términos de lo dispuesto por los Artículos 42 y 44 de esta Constitución.
 
 XII.- Designar, en los términos que previene esta Constitución, al ciudadano que debe suplir al Gobernador en sus faltas temporales o absolutas.
 
 XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba sustituirlo durante su ausencia.
 
-XIV. Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
+XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+XV.- Designar a los Magistrados del Supremo Tribunal de Justicia del Estado, del Tribunal de lo Contencioso Administrativo y del Tribunal Local Electoral, de la terna propuesta por el Ejecutivo; en caso de que los rechace, aceptar una nueva terna en términos del Artículo 54 de esta Constitución.
 
 Los nombramientos de los Magistrados deberán recaer en aquellas personas seleccionadas por el Consejo de la Judicatura Estatal que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de su actividad jurídica.
 
-XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, los Consejeros Ciudadanos del Consejo Estatal Electoral y los Magistrados del Tribunal Local Electoral, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia del Estado, los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral y los Magistrados del Tribunal Local Electoral y del Tribunal Contencioso Administrativo, comunicándose su aceptación a la autoridad competente, para que proceda conforme a sus facultades.
 
 XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos suplentes.
 
@@ -435,17 +439,17 @@ XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
 
 XX.- Fijar y modificar la extensión del territorio que corresponda a los Municipios, por voto de las dos terceras partes de sus integrantes. Con esa misma mayoría crear nuevos Municipios con la intervención de los Municipios afectados.
 
-XXI.- Dirimir las controversias que no siendo de carácter judicial, ni sean de las previstas en el último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos se susciten entre los Ayuntamientos;
+XXI.- Dirimir las controversias que no siendo de carácter judicial, ni sean de las previstas en el último párrafo de la fracción II del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos se susciten entre los Ayuntamientos.
 
-XXII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes;
+XXII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes.
 
-XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste;
+XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
 
 XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
 
 XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad y recompensar a los buenos servidores de la Administración Pública.
 
-XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno.
+XXVI.- Expedir la Ley que regulará su estructura y funcionamiento interno, la cual será aprobada por las dos terceras partes de sus integrantes.
 
 La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
 
@@ -461,7 +465,7 @@ XXX.- Citar a solicitud de las dos terceras partes de sus miembros a los titular
 
 Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado.
 
-XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos y a los Magistrados del Tribunal Local Electoral, que reúnan los requisitos de la Ley de la materia, por el voto de dos terceras partes de sus integrantes, si en una primera votación no se obtuviere tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
+XXXI.- Elegir de entre las propuestas que le presenten sus integrantes a los Consejeros Ciudadanos del Consejo General del Instituto Estatal Electoral, que reúnan los requisitos de la Ley de la materia, por el voto de dos terceras partes de sus integrantes. Si en una primera votación no se obtuviere tal mayoría, se procederá a designarlos mediante el procedimiento de insaculación.
 
 XXXII.- Ratificar el nombramiento que el Gobernador del Estado haga del Procurador General de Justicia.
 
@@ -481,15 +485,13 @@ De la Diputación Permanente.
 
 Durante el receso del Congreso funcionará una Diputación Permanente, integrada por cinco Diputados con el carácter de propietarios y tres como suplentes, nombrados la víspera de la clausura de los períodos ordinarios de sesiones, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 29.
 
-La Diputación Permanente tendrá las siguientes facultades:
+La Diputación Permanente, tendrá las siguientes facultades:
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
-
-I.- Admitir las iniciativas de Ley o de Decreto que se le presenten para que el Congreso les de curso en el periodo ordinario de sesiones correspondiente.
+I.- Admitir las iniciativas de Ley o de Decreto que se le presenten para que el Congreso les dé curso en el período ordinario de sesiones correspondiente.
 
 II.- Despachar los asuntos de mero trámite.
 
@@ -497,19 +499,11 @@ III.- Convocar al Congreso a sesiones extraordinarias, cuando lo juzgue necesari
 
 IV.- Cambiar temporalmente la residencia de los Poderes del Estado, en casos de suma urgencia, mediante la aprobación del Ejecutivo.
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 1995)</small>
-
-V.- Recibir el expediente relativo a la elección de Gobernador del Estado, para el solo efecto de turnarlo al Congreso que erigido en Colegio Electoral procederá a su calificación.
-
-> <small>(ADICIONADA, P.O. 24 DE JULIO DE 1994)</small>
+V.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2001)
 
 VI.- Ejercer las mismas funciones que el Congreso en los casos de las fracciones XIV, XVI, XVII y XVIII del Artículo 27 de esta Constitución; y
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 1994)</small>
-
 VII.- Las demás que le confiere esta Constitución.
-
-VIII.- N. DE E. EL TEXTO DE LA PRESENTE FRACCION ACTUALMENTE QUEDO COMPRENDIDO DENTRO DE LA FRACCION VII.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -663,7 +657,7 @@ Si al comenzar un período constitucional no se presentase el Gobernador electo,
 
 En los casos en que el Gobernador pueda legalmente ausentarse del Territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, quien se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 46.
 
@@ -671,11 +665,11 @@ Son facultades y obligaciones del Gobernador:
 
 I.- Promulgar y ejecutar las Leyes que expida el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia.
 
-II.- Presentar cada año al Congreso a más tardar el 15 de diciembre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas a dar cuenta del mismo.
+II.- Presentar cada año al Congreso a más tardar el 15 de diciembre los proyectos de Ley de Ingresos y Presupuesto de Egresos para el Ejercicio Fiscal siguiente, debiendo comparecer el Secretario de Finanzas y Administración a dar cuenta del mismo.
 
-III.- (DEROGADA, P.O. 23 DE OCTUBRE DE 2000)
+III.- (DEROGADA, P.O. 29 DE OCTUBRE DE 2001)
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 y 30 de noviembre, sobre el estado general que guarde la administración pública estatal.
+IV.- Informar anualmente y por escrito al Congreso del Estado, dentro del período comprendido entre el 15 de noviembre al 15 de diciembre, sobre el estado general que guarde la administración pública estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia.
 
@@ -687,7 +681,7 @@ a).- De coordinación con las Secretarías de Estado y con los Municipios.
 
 b).- Sobre límites con los Estados vecinos previa aprobación del Congreso.
 
-c).- Respecto de cualquier otra materia de su competencia, con los demás Estados de la República.
+c).- Respecto de cualquier otra materia de su competencia, con los demás Estados de la República; y
 
 d).- En general, con las personas de derecho privado.
 
@@ -695,7 +689,7 @@ VIII.- Concertar empréstitos en los términos de la fracción IV del Artículo 
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso, tratándose de inmuebles.
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas, y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
+X.- Nombrar y remover al Secretario General de Gobierno, al Secretario de Finanzas y Administración, y a los demás servidores públicos del Poder Ejecutivo Estatal; así como al Procurador General de Justicia del Estado cuyo nombramiento será ratificado por el Congreso del Estado.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales.
 
@@ -745,13 +739,11 @@ III.- Ser mayor de treinta años.
 
 Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 50.
 
-Las faltas temporales del Secretario General de Gobierno serán
-
-suplidas por el servidor público inmediato inferior de la Secretaría, quien deberá firmar también cuando aquél quede encargado del Despacho.
+Las faltas temporales del Secretario General de Gobierno serán suplidas por el servidor público inmediato inferior de la Secretaría que establezca la Ley, quien deberá firmar también cuando aquél quede encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -759,7 +751,9 @@ suplidas por el servidor público inmediato inferior de la Secretaría, quien de
 
 Del Poder Judicial.
 
-> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -767,13 +761,23 @@ DEL PODER JUDICIAL.
 
 ###### Artículo 51.
 
-El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes, se deposita en el Supremo Tribunal de Justicia del Estado, en el Tribunal de lo Contencioso Administrativo del Estado, en los Juzgados, en un Tribunal Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, así como también en el Consejo de la Judicatura Estatal, que tendrá dentro de sus facultades las administrativas, las de la materia de Carrera Judicial y demás atribuciones que la Ley Orgánica respectiva determine.
+El Poder Judicial es el encargado de impartir justicia, aplicando las Leyes con plena independencia en el ejercicio de sus atribuciones jurisdiccionales y para la administración de su presupuesto.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1992)</small>
+El Poder Judicial del Estado está conformado por el Supremo Tribunal de Justicia del Estado, el Tribunal de lo Contencioso Administrativo del Estado, los Juzgados de Primera Instancia y Mixtos Menores, un Tribunal Local Electoral que será la máxima autoridad jurisdiccional en la materia, y órgano especializado dentro del Poder Judicial, y el Consejo de la Judicatura Estatal, que tiene a su cargo la Carrera Judicial.
+
+Las condiciones para el ingreso, formación y permanencia, en los diversos órganos jurisdiccionales que conforman al Poder Judicial, así como las facultades y obligaciones de éstos y de los servidores públicos que los integran, se regirán por lo dispuesto en esta Constitución y en las Leyes Orgánicas del Poder Judicial del Estado y del Tribunal de lo Contencioso Administrativo del Estado, respectivamente.
+
+La representación del Poder Judicial de Aguascalientes corresponde al Supremo Tribunal de Justicia del Estado, por conducto de su Presidente.
+
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 52.
 
-El Supremo Tribunal de Justicia, se integrará de siete Magistrados Propietarios y siete Supernumerarios y funcionará en pleno o en salas.
+El Supremo Tribunal de Justicia del Estado, se integrará por siete Magistrados Numerarios Propietarios y siete Supernumerarios o suplentes, y funcionará en pleno o en salas.
+
+Los Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, reunidos en pleno, elegirán de entre sus integrantes a su Presidente, quien ostentará el cargo cuatro años y no podrá ser reelecto para el período inmediato posterior.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -799,23 +803,29 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
 V.- No haber tenido cargo de secretario o su equivalente en el Poder Ejecutivo del Estado, Procurador de Justicia, Diputado Federal o Local o Dirigente de Partido Político durante el año previo al día de su designación.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 54.
 
-Los Magistrados del Supremo Tribunal de Justicia del Estado, se elegirán en la forma siguiente:
+Los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Local Electoral, se elegirán de la forma siguiente:
 
-El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia en el Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno.
+El Consejo de la Judicatura Estatal, encabezado por el Presidente del Supremo Tribunal de Justicia del Estado, siguiendo el procedimiento de selección que su propia Ley establezca, propondrá cinco candidatos por cada cargo a Magistrado al titular del Ejecutivo del Estado, quien de entre ellos formulará una terna la cual enviará al Congreso del Estado para que designe a un Magistrado con la aprobación de la mayoría de los asistentes al Pleno. Sólo los Magistrados del Tribunal Local Electoral serán electos por mayoría calificada y en caso de no lograrse ésta, serán seleccionados por insaculación.
+
+Los Magistrados del Tribunal Electoral contarán con un supernumerario que se seleccionará de entre los integrantes de las ternas presentadas por el Ejecutivo que no hubieran sido designados como numerarios, en los mismos términos del párrafo anterior.
 
 Si dentro del término de siete días hábiles de haber sometido la terna para Magistrado a la consideración del Congreso del Estado, éste nada resolviere, el derecho pasará al Ejecutivo del Estado, quien nombrará al Magistrado y lo comunicará al Consejo de la Judicatura Estatal.
 
 Si dentro del término referido el Congreso del Estado rechaza la terna propuesta por el Ejecutivo del Estado, éste propondrá una nueva terna de entre la cual el Congreso del Estado deberá elegir al Magistrado en un término de cinco días hábiles.
 
-(REFORMADO, P.O. 26 DE MARZO DE 1995)(F. DE E., P.O. 2 DE ABRIL DE 1995)
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 55.
 
-Los juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional.
+Los juzgados estarán a cargo de los jueces que nombrará el Consejo de la Judicatura Estatal, en número, categoría y especialidad que éste y la Ley Orgánica del Poder Judicial determinen; los aspirantes a ocupar los cargos referidos, deberán cumplir con los requisitos establecidos en el Artículo 53 de esta Constitución, a excepción de la edad y experiencia profesional que se fijarán en la Ley Orgánica del Poder Judicial.
 
 El Consejo de la Judicatura Estatal se integrará por siete miembros, de los cuales uno será el Presidente del Supremo Tribunal de Justicia del Estado que fungirá también como Presidente del Consejo; uno nombrado por los jueces de primera instancia en Materia Penal y otro nombrado por los jueces en las Materias Civil, Mixta y Familiar, ambos electos de entre ellos mismos; dos serán nombrados por el Congreso del Estado, los cuales no podrán ser Diputados Propietarios o Suplentes y dos nombrados por el Ejecutivo Estatal.
 
@@ -823,57 +833,55 @@ Los Consejeros deberán reunir los requisitos que la Ley determine y durarán en
 
 El Consejo estará facultado para expedir acuerdos para el adecuado ejercicio de sus funciones, de conformidad con lo que establezca la Ley, así como para coadyuvar en la elaboración del presupuesto de egresos del Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 56.
 
-Los Magistrados y Jueces deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva y durará en su encargo diez años, durante los cuales serán inamovibles, salvo caso de mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado.
+Los Jueces de Primera Instancia deberán ser nombrados mediante un concurso de oposición, aplicado por el Consejo de la Judicatura Estatal, como se disponga en la Ley respectiva.
 
-> <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 1999)</small>
+Los Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, durarán en su encargo quince años, y sólo podrán ser sustituidos cuando sobrevenga defunción, incapacidad física o mental permanente, o por mala conducta debidamente comprobada, calificada por el Consejo de la Judicatura Estatal o previo juicio de responsabilidad ante el Congreso del Estado, en cuyo caso serán destituidos.
 
-Lo dispuesto en el párrafo anterior no será aplicable a los Magistrados del Tribunal de lo Contencioso Administrativo.
+Ninguna persona que haya sido Magistrado Numerario del Supremo Tribunal de Justicia del Estado, podrá ser nombrada para un nuevo período, salvo que hubiere ejercido el cargo con carácter de provisional o interino.
 
-Ninguna persona que haya sido Magistrado podrá ser nombrada para un nuevo período, salvo que hubiere ejercido el cargo con carácter de provisional o interino.
+Al vencimiento del período para el que fueron designados, tendrán derecho a un haber por retiro.
 
-Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
+Durante los dos años siguientes a la fecha de su retiro, las personas que hayan ocupado el cargo de Magistrados Numerarios del Supremo Tribunal de Justicia del Estado, quedarán impedidos de actuar como patronos, abogados o representantes, en todo tipo de procedimientos tramitados ante los órganos del Poder Judicial del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE MARZO DE 1995)</small>
+Los Jueces de Primera Instancia, salvo que sean removidos por causa de mala conducta debidamente comprobada conforme a los lineamientos conducentes del segundo párrafo de este artículo, durarán diez años en el ejercicio de su encargo, al término de los cuales, atendiendo a los procedimientos de evaluación establecidos en la Ley Orgánica del Poder Judicial, podrán ser ascendidos en la carrera judicial.
+
+Los Magistrados del Supremo Tribunal de Justicia del Estado, los Magistrados del Tribunal de lo Contencioso Administrativo y los Jueces de Primera Instancia, no podrán ser nombrados para un nuevo período; estos últimos no podrán ser ascendidos en casos de mala conducta debidamente comprobada o hayan sido removidos del cargo.
+
+Los Magistrados del Tribunal de lo Contencioso Administrativo percibirán el haber por retiro que establece la Ley Orgánica del Tribunal de lo Contencioso Administrativo del Estado.
+
+Los Magistrados del Tribunal Local Electoral podrán ser reelectos por varios períodos siempre y cuando no excedan del plazo acumulado de diez años y no podrán ser nombrados para un nuevo período, cuando no sean ratificados o incurran en alguna de las hipótesis establecidas en el párrafo segundo de este Artículo.
+
+Las renuncias de los Magistrados del Supremo Tribunal de Justicia del Estado y del Tribunal Local Electoral, serán sometidas al Consejo de la Judicatura Estatal, y si éste las acepta, las enviará para su aprobación al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 57.
 
 Corresponde al Supremo Tribunal de Justicia del Estado:
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
-
-I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias;
-
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
 II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos.
 
-> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
-
-III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por ilícitos oficiales o del orden común.
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+III.- Declarar si ha lugar a formación de causa en contra de los jueces, por ilícitos oficiales o del orden común.
 
 IV.- Conocer del nombramiento y remoción de los servidores públicos del Poder Judicial en los términos señalados por los Artículos 55 y 56 de esta Constitución y del Reglamento del Consejo de la Judicatura Estatal.
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>N. DE E. PARA EFECTOS DE LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION REMITASE AL ARTICULO PRIMERO TRANSITORIO DEL DECRETO DE REFORMAS.</small>
 
-V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador;
-
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
+V.- Conceder licencia a sus Magistrados en funciones para separarse de sus cargos, y llamar de entre los Supernumerarios, al suplente respectivo.
 
 VI.- Formular su Reglamento Interior y de los Juzgados, los cuales deberán ser sancionados por dicho Consejo.
 
-> <small>(REFORMADA, P.O. 26 DE MARZO DE 1995)</small>
-
 VII.- Nombrar de entre sus Magistrados a Visitadores de los Juzgados a fin de vigilar permanentemente su buen funcionamiento; y
 
-> <small>(ADICIONADA, P.O. 26 DE MARZO DE 1995)</small>
-
-VIII.- Las demás facultades que le conceda esta Constitución.
+VIII.- Las demás facultades que le concede esta Constitución y las que establezca la ley que regule su estructura y funcionamiento, así como las que le confieran otros ordenamientos legales aplicables.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -915,15 +923,15 @@ El Procurador General de Justicia del Estado será el Consejero Jurídico del Go
 
 Tanto él como sus agentes se someterán estrictamente a las disposiciones de la Ley, siendo responsables de toda falta, omisión o violación en que incurran con motivo de sus funciones.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 62.
 
-El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos a la Procuraduría de Protección Ciudadana, la cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que violen derechos humanos, formulará recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
+El Congreso del Estado, en el ámbito de su competencia, establecerá como el organismo de protección a los derechos humanos a la Comisión Estatal de Derechos Humanos, la cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa, provenientes de cualquier autoridad o servidor público estatal que viole derechos humanos; asimismo, formulará recomendaciones públicas, autónomas, no vinculatorias, denuncias y quejas ante las autoridades respectivas.
 
 Este organismo no será competente tratándose de asuntos electorales, laborales ni jurisdiccionales, ni de consultas formuladas por autoridades, particulares u otras entidades sobre la interpretación de las disposiciones constitucionales y de la legislación reglamentaria.
 
-Para el pleno desempeño de sus atribuciones la Procuraduría de Protección Ciudadana contará con un consejo consultivo integrado por cinco personas con conocimiento en diversas materias técnicas, científicas y humanísticas, con carácter honorífico, designadas por el titular de la Procuraduría de Protección Ciudadana del Estado y por un período igual al del Procurador de Protección Ciudadana, para la resolución de casos que requieran sus conocimientos.
+Para el pleno desempeño de sus atribuciones la Comisión Estatal de Derechos Humanos contará con un Consejo Consultivo integrado por cinco personas con conocimiento de diversas materias técnicas, científicas y humanísticas, para la resolución de casos que requieran de sus conocimientos. Sus nombramientos, con carácter honorífico serán designados por el Presidente de la Comisión Estatal de Derechos Humanos, para un período igual al de dicho servidor público.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -931,11 +939,11 @@ CAPITULO DECIMOCUARTO
 
 De la Hacienda Pública.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 63.
 
-La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas, por conducto de los Secretarios de Finanzas y de Administración; y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
+La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estado y de las contribuciones que el Congreso decreta. Su administración estará a cargo del Ejecutivo y de la Secretaría de Finanzas y Administración; y de los Poderes Legislativo y Judicial, quienes serán responsables de su manejo en el ámbito de sus competencias.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -943,15 +951,13 @@ La Hacienda Pública se compone de los bienes y derechos pertenecientes al Estad
 
 No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por ley posterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE NOVIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 65.
 
-Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá el proyecto presentado con carácter temporal por el lapso que determine la Ley Orgánica del Congreso del Estado.
+Si al iniciarse un año fiscal no hubiere sido aprobado el presupuesto general correspondiente, se ejercerá la iniciativa presentada por el titular del Poder Ejecutivo o los Ayuntamientos, con carácter de temporal por el lapso que determine la Ley Orgánica del Poder Legislativo del Estado.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
-
-El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la ley; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la ley que estableció el empleo.
+El Congreso, al aprobar el Presupuesto de Egresos, no podrá dejar de señalar la retribución que corresponda a un empleo que esté establecido por la Ley; en caso de que por cualquier circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el presupuesto anterior, o en la Ley que estableció el empleo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1067,7 +1073,7 @@ Los recursos que integran la Hacienda Municipal serán ejercidos en forma direct
 
 Las Leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refieren las fracciones I y III, a favor de personas físicas o morales ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 71.
 
@@ -1091,13 +1097,13 @@ VIII.- Intervenir en la formulación y aplicación de programas de transporte p�
 
 IX.- Celebrar convenios para la administración y custodia de las zonas federales.
 
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, se expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
 X.- Elaborar las tablas de valores unitarios de suelo y construcciones, y someterlas a la aprobación del Congreso, para que sirvan de base para el cobro de contribuciones sobre la propiedad inmobiliaria; y
 
 XI.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente.
 
 Aquélla acatará las órdenes que el Gobernador del Estado le transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
-
-En lo conducente y de conformidad con los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1790,6 +1796,16 @@ UNICO.- El presente Decreto entrará en vigor el 1° de noviembre del 2001.
 P.O. 27 DE AGOSTO DE 2001.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con excepción de las reformas y adiciones que se realizan en el presente Decreto a los Artículos 17; 27 Fracciones XV y XVI; 51; 52; 54; 55; 56 y 57 Fracción V de la Constitución Política del Estado de Aguascalientes, que entrarán en vigor a los sesenta días siguientes de su publicación.
+
+SEGUNDO.- Los Magistrados del Supremo Tribunal de Justicia actualmente en funciones, concluirán su encargo al finalizar el plazo de diez años que se indica en su nombramiento, sin posibilidad de ser ratificados o extender su duración hasta completar quince años, pero tendrán derecho al haber por retiro previsto en el Artículo 56, sin que puedan ser reelectos bajo ninguna circunstancia.
+
+TERCERO.- Los Jueces de Primera Instancia actualmente en funciones, que no resulten ascendidos en la carrera judicial, a la conclusión de su encargo, deberán sustituirse de manera sucesiva, en el orden que decida el Consejo de la Judicatura Estatal.
+
+CUARTO.- Con el fin de proveer una salida e ingreso alternado de los actuales Magistrados del Supremo Tribunal de Justicia del Estado, por única ocasión y al terminar su encargo de diez años, los dos magistrados mas antiguos en el Poder Judicial serán sustituidos. Cada seis meses se aplicará el mismo procedimiento hasta completar la renovación total de los actuales magistrados.
 
 ###### ARTICULO UNICO.
 
