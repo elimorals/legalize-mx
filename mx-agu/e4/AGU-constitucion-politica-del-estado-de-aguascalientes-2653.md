@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1991-10-13"
+last_updated: "1992-03-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 1991.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE MARZO DE 1992.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -105,11 +105,11 @@ El Estado adopta para su régimen interior la forma de Gobierno Republicano, Rep
 
 Del Territorio del Estado.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 1965)</small>
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
 
-###### Artículo 9º.
+###### Artículo 9o.
 
-El Territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de: Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia y Pabellón de Arteaga.
+El territorio del Estado es el que de hecho y por derecho le pertenece, dentro de los límites establecidos por el Pacto Federal. Se divide en los Municipios de Aguascalientes, Rincón de Romos, Calvillo, Jesús María, Asientos, Tepezalá, Cosío, San José de Gracia, Pabellón de Arteaga, San Francisco de los Romo y El Llano.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -183,37 +183,63 @@ El Poder Legislativo se deposita en una corporación que se denomina Congreso de
 
 El Congreso se integrará con Representantes del Estado, electos en su totalidad cada tres años. Por cada Diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MARZO DE 1992)</small>
 
 ###### Artículo 17.
 
-La Cámara de Diputados estará integrada por dieciséis diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al Municipio de Aguascalientes y uno por cada uno de los Municipios restantes; y hasta siete Diputados electos según el principio de representación proporcional mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado.
+La Cámara de Diputados estará integrada por 18 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, de los que corresponderán ocho al municipio de Aguascalientes y uno por cada uno de los municipios restantes; y hasta siete diputados electos según el principio de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal cuya demarcación territorial es el Estado.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 La Comisión Estatal Electoral fijará el ámbito territorial de los distritos electorales uninominales y sus cabeceras.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 La asignación de los siete Diputados según el principio de representación proporcional se sujetará a las siguientes bases y a lo que en particular disponga la Ley:
 
-a).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados de Mayoría Relativa en por lo menos un 50% de los dieciséis distritos uninominales.
+> <small>(REFORMADO, P.O. 1 DE MARZO DE 1992)</small>
+
+a).- El partido político deberá acreditar que tiene su registro definitivo y registrar candidatos a Diputados de Mayoría Relativa, en por lo menos un 50% de los dieciocho distritos uninominales.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 b).- Las Diputaciones por el principio de representación proporcional se otorgarán a todo partido político que obtenga por lo menos el 1.5% de la votación emitida.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 c).- El partido político que cumpla con los incisos anteriores tendrá derecho a que se le asigne por el principio de representación proporcional el número de Diputados de sus listas que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
 
 La Ley determinará la fórmula electoral y el procedimiento que se observará en dicha asignación.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 d).- Los Diputados de mayoría relativa y de representación proporcional, como representantes del pueblo, tendrán la mismo (sic) jerarquía e igualdad de derechos y obligaciones.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 El Congreso del Estado, constituido en Colegio Electoral, calificará la elección de los presuntos Diputados de la Legislatura entrante.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 La Ley Orgánica de este Poder determinará el procedimiento respectivo. Contra las resoluciones del Colegio Electoral no procede juicio ni recurso alguno.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 La renovación de los Poderes Legislativo y Ejecutivo y de los Ayuntamientos se verificará por medio de elecciones populares directas, cuya organización es una función pública que se ejerce por los Poderes Legislativo y Ejecutivo del Estado, con la participación de los partidos políticos acreditados y de los ciudadanos reglamentada por la ley de la materia.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 La Ley Electoral del Estado de Aguascalientes regulará el ejercicio de los derechos y obligaciones políticos y electorales de los ciudadanos y partidos políticos, determinará las prerrogativas que tendrán estos últimos; dispondrá la forma, procedimientos y requisitos a los que deberán ajustarse las elecciones; reglamentará las atribuciones de los organismos electorales; establecerá un sistema de medios de impugnación de los que conocerá el organismo superior y un Tribunal Local Electoral autónomo que será órgano jurisdiccional en materia electoral y establecerá las penas que deberán aplicarse a los infractores de sus disposiciones, debiendo contar ambos organismos con Magistrados profesionalizados.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 Se considera a los Partidos Políticos como Entidades de interés público; la Ley determinará las formas específicas de su intervención en el proceso electoral.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
+
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 1991)</small>
 
 Los partidos políticos nacionales registrados tendrán derecho a participar en las elecciones estatales y municipales.
 
@@ -661,7 +687,7 @@ III.- Asistir a la apertura de los períodos ordinarios de sesiones del Congreso
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 1990)</small>
 
-IV.- Informar anualmente y por escrito al Congreso del Estado, en el transcurso de los primeros quince días del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la administración pública estatal;
+IV.- Informar anualmente y por escrito al Congreso del Estado, en el transcurso de los primeros quince días del Primer Período de Sesiones Ordinarias, sobre el estado general que guarde la administración pública estatal.
 
 V.- Pedir y dar informes al Congreso sobre cualquier ramo de la Administración, y al Supremo Tribunal sobre el de Justicia;
 
@@ -685,7 +711,7 @@ d).- En general, con las personas de derecho privado.
 
 VIII.- Concertar empréstitos en los términos de la fracción V del artículo 27 de esta Constitución;
 
-IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
+IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles.
 
 > <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
@@ -1526,3 +1552,29 @@ Las presentes reformas y adiciones entrarán en vigor el día siguiente de su pu
 P.O. 13 DE OCTUBRE DE 1991.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 1 DE MARZO DE 1992.
+
+###### ARTICULO 1o.
+
+Los Ayuntamientos de los Municipios creados serán electos mediante el proceso electoral de 1992 y asumirán sus funciones el primero de enero de 1993.
+
+###### ARTICULO 2o.
+
+A efecto de que los Municipios creados inicien sus labores, una vez aprobada su constitución, funcionarán por lo que resta del año de 1992, sendos Consejos Municipales por cada uno de ellos, integrados por un Presidente, un Secretario, un Tesorero y dos Vocales, quienes ejercerán sus funciones en base a las directrices que dicte el Congreso del Estado por conducto de la Gran Comisión.
+
+###### ARTICULO 3o.
+
+Los Consejos Municipales dependerán de la Gran Comisión del Congreso del Estado y su integración se dará a los sesenta días de publicado el presente Decreto.
+
+###### ARTICULO 4o.
+
+Los Consejos Municipales serán dotados de presupuesto propio que se determinará por la Gran Comisión del Congreso del Estado.
+
+###### ARTICULO 5o.
+
+Hasta en tanto inicia funciones el Ayuntamiento electo, los servicios públicos estarán a cargo del Ayuntamiento del Municipio de Aguascalientes.
+
+###### ARTICULO 6o.
+
+Por esta única ocasión, el Congreso del Estado determinará la Ley de Ingresos y el Presupuesto de Egresos que aplicarán los Ayuntamientos electos de San Francisco de los Romo y El Llano, durante el ejercicio fiscal de 1993.
