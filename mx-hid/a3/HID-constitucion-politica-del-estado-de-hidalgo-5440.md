@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2001-02-26"
+last_updated: "2002-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2002.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -488,6 +488,10 @@ El Congreso se integra con dieciocho diputados de mayoría electos por votación
 Los Diputados de mayoría relativa y de representación proporcional, son representantes del pueblo y tienen la misma categoría e iguales derechos y obligaciones.
 
 Por cada Diputado Propietario se elegirá un Suplente y la elección se hará por fórmula.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+Los diputados tienen la obligación de informar en el primer trimestre de cada año, sobre las actividades desempeñadas durante su ejercicio constitucional.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1689,8 +1693,6 @@ El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con qu
 
 (DEROGADO, P.O. 9 DE MAYO DE 1998)
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO POR EL DECRETO DE REFORMAS NUMERO 212, PUBLICADO EN EL P.O. DEL 26 DE FEBRERO DE 2001, SE MODIFICA DE MANERA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TITULO.</small>
-
 > <small>(REFORMADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 ## TITULO IX. DE LOS MUNICIPIOS
@@ -1837,7 +1839,9 @@ I. Ser hidalguense en pleno goce de sus derechos;
 
 II. Ser vecino del municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
 
-III. Tener, al menos, 21 años de edad el día de la elección;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2002)</small>
+
+III. Tener, al menos 21 años de edad en el caso del Presidente y de los Síndicos y de 18 años de edad en el caso de Regidores, al día de la Elección;
 
 IV. Tener modo honesto de vivir;
 
@@ -2728,3 +2732,15 @@ En tanto se realiza la transferencia a que se refiere el primer párrafo, las fu
 QUINTO.- El Ejecutivo del Estado y los municipios realizaran los actos conducentes a efecto de que los convenios que, en su caso, hubiesen celebrado con anterioridad, se ajusten a lo establecido en este decreto y a las leyes estatales que se expidan de conformidad con el mismo.
 
 SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2002.
+
+DECRETO NUM. 12, QUE ADICIONA UN PARRAFO TERCERO AL ARTICULO 30 DE LA CONSTITUCION.
+
+UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado Libre y Soberano de Hidalgo.
+
+P.O. 9 DE DICIEMBRE DE 2002.
+
+DECRETO NUM. 13, QUE MODIFICA LA FRACCION III DEL ARTICULO 128 DE LA CONSTITUCION.
+
+UNICO.- Este Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
