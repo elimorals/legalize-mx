@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-35284
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-31"
-last_updated: "2003-12-31"
+last_updated: "2004-01-07"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35284&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,6 +22,8 @@ issue_date: "2003-12-30"
 LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2004
 
 TEXTO ORIGINAL.
+
+ULTIMA MODIFICACION MISCELANEA FISCAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE ENERO DE 2004.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el miércoles 31 de diciembre de 2003.
 
@@ -821,11 +823,15 @@ El acreditamiento a que se refiere la fracción anterior, únicamente podrá efe
 
 VIII. Las personas que adquieran diesel para su consumo final en las actividades agropecuarias o silvícolas a que se refiere el inciso c) de la fracción VI del presente artículo, podrán solicitar la devolución del monto del impuesto especial sobre producción y servicios que tuvieran derecho a acreditar en los términos de la fracción VII que antecede, en lugar de efectuar el acreditamiento a que el mismo se refiere, siempre que cumplan con lo dispuesto en esta fracción.
 
-Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a $685.52 mensuales por cada persona física, salvo que se trate de personas físicas que cumplan con sus obligaciones fiscales en los términos de las Secciones I o II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,371.05 mensuales.
+(MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 7 DE ENERO DE 2004)
+
+Las personas a que se refiere el párrafo anterior que podrán solicitar la devolución, serán únicamente aquéllas cuyos ingresos en el ejercicio inmediato anterior no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año. En ningún caso el monto de la devolución podrá ser superior a $701.56 mensuales por cada persona física, salvo que se trate de personas físicas que cumplan con sus obligaciones fiscales en los términos de las Secciones I o II del Capítulo II del Título IV de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,403.14 mensuales.
 
 El Servicio de Administración Tributaria emitirá las reglas necesarias para simplificar la obtención de la devolución a que se refiere el párrafo anterior, a más tardar el 31 de enero de 2004.
 
-Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a $685.52 mensuales, por cada uno de los socios o asociados sin que exceda en su totalidad de $7,229.33 mensuales, salvo que se trate de personas morales que cumplan con sus obligaciones fiscales en los términos del Capítulo VII del Título II de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,371.05 mensuales, por cada uno de los socios o asociados, sin que en este último caso exceda en su totalidad de $13,704.91 mensuales.
+(MODIFICADO EN LAS CANTIDADES POR MISCELANEA FISCAL, D.O.F. 7 DE ENERO DE 2004)
+
+Las personas morales que podrán solicitar la devolución serán aquéllas cuyos ingresos en el ejercicio inmediato anterior, no hayan excedido de veinte veces el salario mínimo general correspondiente al área geográfica del contribuyente elevado al año, por cada uno de los socios o asociados, sin exceder de doscientas veces dicho salario mínimo. El monto de la devolución no podrá ser superior a $701.56 mensuales, por cada uno de los socios o asociados sin que exceda en su totalidad de $7,398.50 mensuales, salvo que se trate de personas morales que cumplan con sus obligaciones fiscales en los términos del Capítulo VII del Título II de la Ley del Impuesto sobre la Renta, en cuyo caso podrán solicitar la devolución de hasta $1,403.14 mensuales, por cada uno de los socios o asociados, sin que en este último caso exceda en su totalidad de $14,025.60 mensuales.
 
 Las cantidades en moneda nacional establecidas en los párrafos anteriores, se actualizarán en los meses de enero y julio con el factor de actualización correspondiente al periodo comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. El Servicio de Administración Tributaria realizará las operaciones aritméticas previstas en este artículo y publicará los resultados de la actualización en el Diario Oficial de la Federación a más tardar el día 10 de los meses citados.
 
@@ -1248,3 +1254,7 @@ La Secretaría de Hacienda y Crédito Público informará trimestralmente a las 
 México, D.F., a 28 de diciembre de 2003.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Juan de Dios Castro Lozano, Presidente.- Sen. Sara I. Castellanos Cortés, Secretaria.- Dip. Marcos Morales Torres, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+D.O.F. 7 DE ENERO DE 2004.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
