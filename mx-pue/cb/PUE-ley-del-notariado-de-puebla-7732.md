@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-de-puebla-7732"
 country: "mx"
 rank: "ley"
 publication_date: "1968-11-05"
-last_updated: "1994-07-01"
+last_updated: "2004-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1994.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA, PUBLICADO EN EL PERIODICO OFICIAL EL LUNES 2 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: ABROGADO.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el martes 5 de noviembre de 1968.
 
@@ -1527,10 +1529,6 @@ Las citaciones se harán por lo menos con 3 días de anticipación, por medio de
 
 ## TITULO DECIMO TERCERO. Del Archivo General de Notarías
 
-T R A N S I T O R I O S .
-
-> <small>(F. DE E., P.O. 20 DE MAYO DE 1969)</small>
-
 ### CAPITULO UNICO
 
 > <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 1983)</small>
@@ -1607,6 +1605,10 @@ El Director del Archivo usará en los testimonios o copias que expida, en sus co
 
 El Director será responsable personalmente de la custodia y conservación de todos los libros y documentos que consten en su Archivo, así como de las violaciones y faltas que cometa a los preceptos de esta Ley, y será sancionado por el Ejecutivo del Estado en la forma aplicable al personal dependiente de la Secretaría de Gobernación.
 
+T R A N S I T O R I O S .
+
+> <small>(F. DE E., P.O. 20 DE MAYO DE 1969)</small>
+
 ###### Artículo 1.
 
 La presente Ley entrará en vigor, quince días después de su publicación en el Periódico Oficial.
@@ -1656,3 +1658,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2004.
+
+PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación, en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley del Notariado del Estado, publicada en el Periódico Oficial del Estado el cinco de noviembre de mil novecientos sesenta y ocho, así como las demás disposiciones que se opongan a la presente.
+
+TERCERO.- Subsistirán las Notarías de número, creadas por disposiciones anteriores con demarcación territorial en la Ciudad y Distrito Judicial de Puebla, así como en los demás Distritos Judiciales del Estado.
+
+CUARTO.- Se respetarán los derechos adquiridos y todos los asuntos y trámites iniciados durante la vigencia de la Ley del Notariado que se abroga, serán validos hasta la etapa procedimental y de gestión en que se encuentren a la entrada en vigor de esta Ley, pero si ésta establece gestiones y procedimientos adicionales o diversos, se estará a lo que la misma señale y deberá cumplirse en sus términos.
+
+QUINTO.- Subsisten todos los derechos adquiridos por los notarios titulares, auxiliares, suplentes y asociados nombrados durante la vigencia de la ley que se abroga y otras disposiciones anteriores y relativas al Notariado y derogadas, mismos que no sufrirán modificación alguna.
+
+SEXTO.- Lo dispuesto en el artículo 217 de ésta ley por lo que respecta a la profesión y patente con que deberá contar el titular del archivo de notarias, surtirá sus efectos con el nombramiento que realice el Ejecutivo del Estado de un nuevo Titular.
