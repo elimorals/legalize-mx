@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1944-04-01"
+last_updated: "1944-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MAYO DE 1944.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -255,6 +255,8 @@ II. Por cumplimiento de la pena, o por haber finalizado él término o cesado lo
 
 ### CAPITULO II. DE LA ELECCION Y REUNION DEL CONGRESO
 
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+
 ###### Artículo 13.
 
 Las leyes determinaran a que autoridad corresponde decretar la suspensión, perdida o recuperación de los derechos de ciudadanía, en que términos y con qué requisitos ha de dictarse el fallo respectivo y el tiempo que debe durar la suspensión.
@@ -313,7 +315,7 @@ Los Diputados son inviolables por sus opiniones manifestadas en el desempeño de
 
 ###### Artículo 23.
 
-El Congreso se renovara en su totalidad, cada dos años.
+El Congreso se renovara en su totalidad, cada tres años.
 
 ## TITULO V. DEL PODER JUDICIAL
 
@@ -541,23 +543,27 @@ IV.- Los militares que no se hayan separado del servicio, cuando menos noventa d
 
 El Gobernador será nombrado por elección popular directa y en los términos que disponga la Ley Electoral.
 
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+
 ###### Artículo 50.
 
-El Gobernador entrara al ejercicio de sus funciones el 1° de abril, durará en su encargo cuatro años y no podrá ser reelecto.
+El Gobernador entrará en ejercicio de sus funciones el 1º de abril, durará en su encargo seis años y no podrá ser reelecto.
+
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
 
 ###### Artículo 51.
 
-Para suplir las faltas temporales del Gobernador, el Congreso, o en su receso la Diputación Permanente, nombrara un Gobernador interino.
+Para suplir las faltas temporales del Gobernador, el Congreso, o en su receso la Diputación Permanente, nombrará un Gobernador Interino.
 
-El caso de falta absoluta del Gobernador ocurrida durante los dos primeros años del periodo, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrara un Gobernador provisional y convocara inmediatamente a elecciones de Gobernador, que deberán tener lugar a la mayor brevedad posible.
+En caso de falta absoluta del Gobernador ocurrida durante los tres primeros años del período, el Congreso por el voto de dos tercios del número de Diputados presentes, nombrará un Gobernador Provisional y convocará inmediatamente a elecciones de Gobernador que deberán tener lugar a la mayor brevedad posible, el que deberá concluir el período respectivo.
 
-Si la falta absoluta ocurriere durante los dos últimos años del período, el Congreso, por el voto de dos tercios del número de Diputados presentes, nombrara un Gobernador substituto que desempeñara el cargo hasta la terminación del período.
+Si la falta absoluta ocurriere durante los tres últimos años del período, el Congreso, por el voto de dos tercios del número de Diputados presentes nombrará un Gobernador Substituto que desempeñará el cargo hasta la terminación del período.
 
-Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones, el Gobernador Interino continuara en el Gobierno hasta que tomen posesión, en sus respectivos casos, el Gobernador Provisional o el Substituto.
+Si la falta absoluta ocurriere no encontrándose el Gobernador en el ejercicio de sus funciones, el Gobernador Interino continuará en el Gobierno hasta que tome posesión, en sus respectivos casos, el Gobernador Provisional, o el Substituto.
 
-Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargara del Despacho del Gobierno hasta la toma de posesión del Gobernador provisional o del substituto, en sus respectivos casos.
+Si la falta absoluta ocurriere encontrándose el Gobernador en el ejercicio de sus funciones, el Presidente del Tribunal se encargará del Despacho del Gobierno, hasta la toma de posesión del Gobernador Provisional o del Substituto, en sus respectivos casos.
 
-El Presidente del Tribunal se encargara, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
+El Presidente del Tribunal se encargará, además, del Despacho del Gobierno, siempre que por cualquier motivo no precisado por esta Constitución, se encuentre acéfalo el Poder Ejecutivo.
 
 ###### Artículo 52.
 
@@ -667,13 +673,13 @@ El Secretario General así como el Subsecretario, no pueden desempeñar los ofic
 
 Se deposita el ejercicio del Poder Judicial en un Tribunal Superior y en los Tribunales inferiores.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 1930)</small>
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
 
 ### CAPITULO II. DEL SECRETARIO GENERAL
 
 ###### Artículo 61.
 
-El Tribunal Superior de Justicia estará formado por tres Magistrados que durarán en sus cargos cuatro años y tomarán posesión el día primero de abril.
+El Tribunal Superior de Justicia estará formado por tres Magistrados que durarán en sus encargos seis años y tomarán posesión el día 1º de abril.
 
 ###### Artículo 62.
 
@@ -781,9 +787,11 @@ Los Ayuntamientos serán representados judicialmente por uno o dos de sus miembr
 
 Las Asambleas Municipales se compondrán de Munícipes electos directa y popularmente, en la forma y términos que disponga la Ley Electoral, a razón de un Propietario y un Suplente por cada mil habitantes, pero ninguna Asamblea podrá tener menos de cinco ni más de nueve Munícipes. Para el efecto, cuando algún Municipio no tuviere cinco mil habitantes, se dividirá en cinco secciones para la elección de cinco Munícipes y, cuando pasare de nueve mil habitantes, se dividirá en nueve secciones, para el nombramiento de nueve Munícipes.
 
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+
 ###### Artículo 75.
 
-Las Asambleas Municipales se renovaran cada año por mitad, según el número para o impar de sus miembros.
+Las Asambleas Municipales se renovarán en su totalidad cada tres años.
 
 ###### Artículo 76.
 
@@ -833,7 +841,7 @@ XIII. Formar su reglamento interior.
 
 ###### Artículo 79.
 
-Los Presidentes Municipales serán electos cada dos años, directa y popularmente. Por cada propietario se elegirá un suplente. No podrán ser Presidentes Municipales propietarios ni suplentes, los ciudadanos que hayan desempeñado esos cargos en el período inmediato anterior.
+Los Presidentes Municipales serán electos cada tres años, directa y popularmente. Por cada Propietario se elegirá un Suplente. No podrán ser Presidentes Municipales Propietarios ni Suplentes, los CC. que hayan desempeñado esos cargos en el período inmediatamente anterior.
 
 ###### Artículo 80.
 
@@ -977,6 +985,8 @@ Todo funcionario y empleado publico, tendrá derecho a percibir el sueldo o emol
 
 ### CAPITULO III. DEL PRESIDENTE MUNICIPAL
 
+> <small>(DEROGADO [N. DE E. REFORMADO], P.O. 8 DE MAYO DE 1944)</small>
+
 ## TITULO VIII. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ## TITULO IX. DE LA RESPONSABILIDAD DE LOS FUNCIONARIOS
@@ -1030,3 +1040,11 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 1 DE ABRIL DE 1944.
 
 UNICO:- Este Decreto empezará a surtir sus efectos a partir del día primero de abril próximo.
+
+P.O. 8 DE MAYO DE 1944.
+
+1º.- El período Constitucional de la actual Legislatura terminará el último día de febrero de 1945; el del actual Gobernador el día 31 de marzo del mismo año y el de los Presidentes Municipales y la mitad de las Asambleas que tomaron posesión el día 1º. de enero próximo pasado, concluirán el 31 de diciembre de 1945.
+
+2º.- Por una sola vez la mitad de las Asambleas Municipales que deberán ser electas el primer domingo de diciembre próximo conforme al artículo 61 de la Ley Electoral vigente, durarán en su encargo solamente un año o sea a partir del primero de enero y hasta el 31 de diciembre de 1945, fecha en que deberán tomar posesión los próximos Presidentes Municipales y la totalidad de miembros de las Asambleas Municipales que conforme al cuerpo de este Decreto durarán en funciones tres años.
+
+El presente decreto deberá publicarse en el Periódico Oficial del estado y las reformas Constitucionales a que se refiere surtirán sus efectos a partir de la renovación de los próximos Poderes.
