@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1992-12-31"
+last_updated: "1996-12-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -659,17 +659,19 @@ Los jefes de las Dependencias, de acuerdo con los Representantes Sindicales resp
 
 ### CAPITULO XII. CONDICIONES GENERALES DE TRABAJO
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 74.
 
 Los sindicatos son las asociaciones de trabajadores constituidas para el estudio, mejoramiento y defensa de sus respectivos intereses.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 75.
 
-Habrá un Sindicato para los Tres Poderes Legislativo, Ejecutivo y Judicial, uno para cada uno de los Ayuntamientos y uno para cada uno de los Organismos Descentralizados; el Tribunal de Conciliación y Arbitraje en cada caso otorgará el reconocimiento de mayoría correspondiente.
+Habrá un sindicato para cada uno de los Poderes del Estado, uno para cada uno de los Ayuntamientos y para cada uno de los organismos descentralizados del Estado. El Tribunal de Conciliación y Arbitraje del Estado otorgará el reconocimiento correspondiente.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
 
 Tratándose de los Organismos Descentralizados, las estructuras sindicales existentes tendrán la representación sindical y manejarán la relación laboral con el Organismo de que se trate.
 
@@ -815,7 +817,7 @@ Todos los conflictos que surjan entre las Federaciones y los Sindicatos, o entre
 
 ###### ARTICULO 97.
 
-Las condiciones generales de trabajo se fijarán por los Titulares de los Tres Poderes, de cada Ayuntamiento y de cada uno de los Organismos Descentralizados, tomando en cuenta la opinión del Sindicato correspondiente y a solicitud de éste. Las condiciones generales de trabajo se revisarán cada tres años.
+Las condiciones generales de trabajo, se fijarán por los Titulares de los Poderes, Ayuntamientos y organismos descentralizados y tomando en cuenta la opinión del sindicato correspondiente. A solicitud de éste, las condiciones generales de trabajo se revisarán cada tres años.
 
 ###### ARTICULO 98.
 
@@ -841,9 +843,11 @@ Los sindicatos que objetaren sustancialmente las condiciones generales del Estad
 
 Las condiciones generales de trabajo, salvo acuerdo entre las partes, surtirán efectos a partir de la fecha de su depósito en el Tribunal de Conciliación y Arbitraje.
 
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO 101.
 
-Las condiciones generales de trabajo deberán ser analizadas por el Ejecutivo, a través de la Secretaria de Finanzas del Estado, cuando contengan prestaciones económicas que signifiquen erogaciones con cargo al Gobierno del Estado y que deban cubrirse a través del Presupuesto de Egresos del Estado, sin cuyo requisito no podrá exigirse su cumplimiento.
+Las prestaciones económicas de las condiciones generales de trabajo que signifiquen erogaciones económicas, deberán ser analizadas y aprobadas por las respectivas unidades administrativas de cada uno de los Poderes, Ayuntamientos y organismos descentralizados, que de acuerdo con su normatividad autoricen erogaciones y manejen fondos y valores. Sin este requisito, no podrá exigirse su cumplimiento.
 
 ### CAPITULO XIV. DECLARACION, PROCEDIMIENTO Y TERMINACION DE LA HUELGA
 
@@ -855,27 +859,33 @@ Huelga es la suspensión temporal del trabajo como resultado de una coalición d
 
 Para los efectos de este título, el sindicato de trabajadores es una coalición permanente.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 104.
 
-Declaración de huelga es la manifestación de la voluntad de las dos terceras partes de los trabajadores de los Tres Poderes, o de cada Ayuntamiento o de cada uno de los Organismos Descentralizados, de suspender las labores de acuerdo con los requisitos que esta Ley establece, si los Titulares de los mismos no acceden a sus demandas.
+Declaración de huelga es la manifestación de voluntad de las dos terceras partes de los trabajadores de cada uno de los Poderes, o cada Ayuntamiento o de cada uno de los organismos descentralizados, de suspender las labores, de acuerdo con los requisitos que esta Ley establece, si los Titulares de los mismos no acceden a sus demandas.
 
 ###### ARTICULO 105.
 
 La huelga puede ser general o parcial.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 106.
 
-La huelga general es la que se endereza en contra de la totalidad de las dependencias que integran los tres Poderes, o en contra de todas las dependencias de algún Ayuntamiento, o en contra de la totalidad de cada uno de los Organismos Descentralizados, y sólo puede ser motivada por cualquiera de las siguientes causas;
+La huelga general es la que se endereza en contra de la totalidad de las dependencias que integran cada uno de los Poderes, o en contra de todas las dependencias de algún Ayuntamiento, o en contra de la totalidad de cada uno de los organismos descentralizados, y sólo puede ser motivada por cualquiera de las siguientes causas:
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
 
 A).- Por falta de pago de salarios consecutivos correspondientes a un mes de trabajo, salvo el caso de fuerza mayor que calificará el Tribunal de Conciliación y Arbitraje;
 
-B).- Porque la política general de los Titulares de los Tres Poderes, o de los Ayuntamientos y/o de cada uno de los Organismos Descentralizados, comprobada por hechos, sea contraria a los derechos fundamentales que esta ley concede a los trabajadores, debiendo en tal caso, hacer la comprobación respectiva al propio Tribunal de Conciliación y Arbitraje.
+> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 1996)</small>
 
-c).- Porque se haga presión para frustrar una huelga parcial.
+B).- Porque la política general de los Titulares de cada uno de los Poderes, de los Ayuntamientos o de cada uno de los organismos descentralizados, comprobada por hechos, sea contraria a los derechos que esta Ley concede a los trabajadores, debiendo, en tal caso, hacer la comprobación respectiva al propio Tribunal de Conciliación y Arbitraje.
+
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1992)</small>
+
+C).- Porque se haga presión para frustrar una huelga parcial.
 
 ###### ARTICULO 107.
 
@@ -1416,3 +1426,11 @@ Los trabajadores con nombramiento de base que conforme a este Decreto, desempeñ
 ###### ARTICULO SEPTIMO.
 
 En tanto siga vigente el convenio celebrado entre el Gobierno del Estado de Quintana Roo y el Sindicato Nacional de Trabajadores de la Educación, con la intervención de la Federación (sic) través de la Secretaría de educación Pública, celebrado el 18 de mayo de 1992, las relaciones laborales y la organización colectiva de los trabajadores del Sistema Educativo Quintanarroense, se regirán por lo establecido en dicho convenio, en el Decreto de creación del Sistema Educativo Quintanarroense publicado en el Periódico Oficial del Gobierno del Estado del 19 de mayo de 1992 y en la presente ley en lo conducente y que no se oponga a los anteriores instrumentos legales.
+
+P.O. 13 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Inmediatamente que entre en vigor el presente Decreto, los trabajadores de los Poderes Legislativo y Judicial, por convocatoria previa de los Titulares de cada uno de estos Poderes, procederán conforme a lo dispuesto por los Artículos 78 al 87 de la Ley de los Trabajadores al Servicio de los Poderes Legislativo, Ejecutivo y Judicial, de los Ayuntamientos y Organismos Descentralizados del Estado de Quintana Roo, a organizar sus respectivos sindicatos, de acuerdo al procedimiento establecido en la propia Ley.
+
+TERCERO.- El actual Sindicato Unico de los Trabajadores al Servicio del Gobierno del Estado, mantendrá la titularidad de las relaciones laborales únicamente con el Poder Ejecutivo.
