@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-procuraduria-general-de-justicia-del-6686"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-08-24"
-last_updated: "1994-08-24"
+last_updated: "1999-07-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6686&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 24 de agosto de 1994.
 
@@ -85,11 +85,11 @@ I.- Salvaguardar los principios de constitucionalidad y legalidad en el ámbito 
 
 II.- Promover la pronta, expedita y debida procuración de justicia e intervenir en los actos que sobre esta materia, prevenga la legislación de planeación y desarrollo;
 
-III.- Representar al Estado en todos los actos en que este sea parte; intervenir en las controversias que se susciten entre dos o mas Municipios en los términos del artículo 5 fracción V de esta misma ley; pudiendo emitir la opinión que corresponda al Poder Ejecutivo en los casos previstos en los artículos 7 y 12 de la Ley Orgánica Municipal del Estado de Morelos, cuando así expresamente lo indique el Gobernador del Estado; e intervenir con voz en las controversias que se susciten entre el Poder Legislativo y el Poder Ejecutivo Estatal, en los términos del artículo 100, fracción V de la Constitución Política del Estado de Morelos;
+III.- (DEROGADA, P.O. 14 DE JULIO DE 1999)
 
 IV.- Tutelar los derechos colectivos e individuales de la Población y procurar el respeto a las garantías individuales;
 
-V.- Constituirse en el Asesor Jurídico del Gobierno del Estado;
+V.- (DEROGADA, P.O. 14 DE JULIO DE 1999)
 
 VI.- Investigar y perseguir los delitos del Orden Común;
 
@@ -121,23 +121,9 @@ II.- Proponer al Gobernador, las medidas que convengan para el mejoramiento de l
 
 III.- Denunciar ante el Tribunal Superior de Justicia del Estado las contradicciones que se observen en las Tesis sustentadas por las salas de dicho tribunal, a efecto de que el pleno resuelva lo procedente.
 
-###### ARTICULO 5º.
+###### ARTICULO 5°.
 
-La representación ante las autoridades jurisdiccionales y la intervención en controversias comprende:
-
-I.- Intervenir en los términos de la Ley de Amparo, en los Juicios Constitucionales en que se señale como Autoridad responsable al Gobernador y en su caso, previo acuerdo del Ejecutivo, en los demás en que se señale como Autoridad responsable a cualquiera de las autoridades o funcionarios Estatales o Municipales, siempre que éstos últimos así lo soliciten;
-
-II.- Intervenir como representante del Estado en todos los negocios en que éste sea parte o tenga interés jurídico;
-
-III.- Intervenir como coadyuvante en los negocios en que sea parte o tenga interés jurídico alguno de los municipios.
-
-Esta intervención procederá cuando así lo disponga el Gobernador, y los Ayuntamientos lo soliciten;
-
-IV.- Intervenir como representante del Gobierno en los casos previstos por la Ley General de Bienes del Estado de Morelos;
-
-V.- Intervenir durante el dictamen jurídico, sin efectos vinculantes y a requerimiento de las partes, en las controversias que se susciten entre dos o más Municipios, o entre el Estado y estos, previo acuerdo del Gobernador;
-
-VI.- Cuando la Procuraduría represente al Estado o intervenga como coadyuvante en los negocios en que sea parte o tenga interés jurídico el Estado o los Municipios, no podrá desistirse de las acciones intentadas, sin el acuerdo expreso del Gobernador o de quien hubiese solicitado la intervención.
+(DEROGADO, P.O. 14 DE JULIO DE 1999)
 
 ###### ARTICULO 6º.
 
@@ -155,19 +141,15 @@ V.- Garantizar el respeto a los Derechos Humanos de toda persona que se encuentr
 
 ###### ARTICULO 7º.
 
-La Asesoría Jurídica al Gobierno comprende, además de los casos a que se refieren los Artículo 3° Fracción II, y 4° Fracciones I y II de esta Ley:
-
-I.- La opinión sobre la Constitucionalidad de los Proyectos de Ley que el Gobernador envie para su estudio;
-
-II.- La opinión jurídica sobre los asuntos que plantee el Gobernador o lo solicite el titular de una dependencia de la administración pública;
-
-III.- El asesoramiento jurídico, en el orden estrictamente técnico y constitucional, respecto de los asuntos que lo requieran, por acuerdo del Gobernador, al ser tratados en reuniones de titulares de las dependencias de la administración pública estatal.
+(DEROGADO, P.O. 14 DE JULIO DE 1999)
 
 ###### ARTICULO 8º.
 
 La investigación y persecución de los delitos, comprenden;
 
-I.- En la averiguación previa: la recepción de denuncias, acusaciones o querellas, conforme lo disponen los Artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos y 79 de la Constitución del Estado; así como la práctica de todos los actos conducentes a la comprobación de los elementos del tipo descriptivo penal y la probable responsabilidad del inculpado, como elementos que funden el ejercicio de la acción penal, incluyendo el libramiento de la orden de aprehensión en los casos excepcionales contemplados en el párrafo V del artículo 16 de la Constitución Federal; comprende también, la protección al ofendido en los términos legales aplicables, el Ministerio Público solicitará a la autoridad jurisdiccional, las medidas precautorias de arraigo o de aseguramiento patrimonial, que resulten indispensables para los fines de la averiguación previa y en su caso, para el debido desarrollo del proceso. Al ejercitar la acción, el Ministerio Público, formulará a la autoridad jurisdiccional los pedimentos que legalmente correspondan;
+> <small>(REFORMADA, P.O. 14 DE JULIO DE 1999)</small>
+
+I.- En la averiguación previa: la recepción de denuncias, acusaciones o querellas, conforme lo disponen los artículos 16 y 21 de la Constitución Política de los Estados Unidos Mexicanos y 79 de la Constitución del Estado; así como la práctica de todos los actos conducentes a la comprobación del cuerpo del delito y la probable responsabilidad del inculpado, como elementos que funden el ejercicio de la acción penal, incluyendo el libramiento de la orden de aprehensión en los casos excepcionales contemplados en el párrafo V del artículo 16 de la Constitución Federal; comprende también la protección al ofendido en los términos legales aplicables, el Ministerio Público solicitará a la autoridad jurisdiccional las medidas precautorias de arraigo o de aseguramiento patrimonial que resulten indispensables para los fines a la averiguación previa y en su caso, para el debido desarrollo del proceso.
 
 II.- Ante las autoridades jurisdiccionales, conforme a la competencia de éstas, el Ministerio Público solicitará las órdenes de aprehensión, de comparecencia o de cateo, así como los exhortos y las medidas precautorias procedentes, aportará las pruebas conducentes al esclarecimiento de los hechos y de la responsabilidad que corresponda, planteando, en su caso, las excluyentes de responsabilidad penal o las causas de extinción de la pretención (sic) punitiva de que tengan conocimieno (sic). Formulará conclusiones y exigirá la reparación patrimonial que corresponda al ofendido, solicitando la aplicación de las penas y medidas que procedan. En los casos en que las resoluciones causen agravios a los intereses jurídicos de la sociedad, interpondrá los recursos ordinarios que resulten pertinentes.
 
@@ -187,11 +169,11 @@ I.- Proponer al Gobernador los instrumentos de alcance nacional, regional y esta
 
 II.- La intervención en los procedimientos de extradición de delincuentes.
 
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
+
 ###### ARTICULO 11º.
 
-El procurador intervendrá por si o po (sic) conducto de agentes de Ministerio Público en el ejercicio de las atribuciones a que se refieren los Artículos anteriores, según lo preceptuado en el reglamento y acuerdo que dicte el Procurador. El reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia.
-
-El Procurador deberá intervenir personalmente en los supuestos a que se refieren los Artículos 3°, Fracción II; 4°, Fracción II; 5º Fracción V; 9° y 10° Fracción I de este ordenamiento.
+El Procurador intervendrá por sí o por conducto de agentes del Ministerio Público en el ejercicio de las atribuciones a que se refieren los artículos anteriores, según lo preceptuado en el reglamento y acuerdo que dicte el Procurador. El reglamento prevendrá la distribución de los asuntos entre las unidades técnicas y administrativas de la dependencia. El Procurador deberá intervenir personalmente en los supuestos a que se refieren los artículos 3 fracción II, 4 fracción II; 9 y 10 fracción I de este ordenamiento.
 
 ###### ARTICULO 12º.
 
@@ -245,11 +227,19 @@ C).- Los funcionarios de otras dependencias del Ejecutivo, en los casos a que se
 
 También lo serán, las autoridades de la Federación o de los Estados, en los términos previstos en la Ley y en los convenios de Cooperación.
 
-> <small>(F. DE E., P.O. 31 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 1999)</small>
 
 ###### ARTICULO 17º.
 
-El Procurador será nombrado y removido libremente por el Gobernador y deberá satisfacer los requisitos que se señalen para ser Magistrado del Tribunal Superior de Justicia del Estado.
+El Procurador General de Justicia será nombrado conforme a lo dispuesto por los artículos 40 fracción XXXVII y 79-B de la Constitución Local.
+
+El Procurador General de Justicia será removido conforme a lo dispuesto en los artículos 40 fracción LIII y 79-B de la Constitución Local.
+
+En caso de falta absoluta del Procurador General o en tanto se hace la designación por el Poder Legislativo, el Gobernador del Estado podrá nombrar a una persona que se encargue temporalmente del cargo.
+
+Cuando sea renovado el Poder Ejecutivo, por elección directa o por el Congreso del Estado, su titular podrá solicitar al Poder Legislativo la designación de un nuevo Procurador.
+
+El Procurador designado invariablemente deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el artículo 90 de la Constitución del Estado.
 
 ###### ARTICULO 18º.
 
@@ -278,6 +268,10 @@ Para ser Perito Oficial de la Procuraduría se requiere tener la ciudadanía mex
 ###### ARTICULO 19º.
 
 Para ingresar o pertenecer al servicio de la institución en cualquier categoría de Agentes del Ministerio Público, de la Policía Judicial o de Servicios Periciales, los interesados deberán acreditar, en su caso, los requisitos a que se refiere el artículo anterior y aprobar los exámenes de ingreso participando en el curso de oposición o de méritos a los que se convoque, los servidores de la institución están obligados a seguir los cursos que se establezcan para su mejoramiento profesional.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
+
+Los Agentes del Ministerio Público y miembros de las instituciones policiales, se regirán por sus propias leyes, tal como lo dispone el artículo 123 de la Constitución General en su apartado B fracción XIII.
 
 ###### ARTICULO 20º.
 
@@ -332,6 +326,10 @@ Los Agentes del Ministerio Público, no podrán desempeñar otro puesto oficial,
 ###### ARTICULO 32º.
 
 La desobediencia o resistencia a las órdenes legalmente fundadas del Ministerio Público, de la Policía Judicial, dará lugar al empleo de medidas de apremio o a la imposición de correcciones y sanciones, según el caso, en los términos que prevenga esta Ley y el Código de Procedimientos Penales.
+
+> <small>(ADICIONADO, P.O. 14 DE JULIO DE 1999)</small>
+
+Los miembros de las instituciones policiales, podrán ser removidos de su cargo, si no cumplen con los requisitos que las leyes vigentes en el momento de la remoción señalen para permanecer en dichas instituciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, sólo procederá la indemnización.
 
 ###### ARTICULO 33º.
 
@@ -396,3 +394,13 @@ PROCURADOR GENERAL DE JUSTICIA
 JORGE ARTURO GARCIA RUBI
 
 Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE JULIO DE 1999.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por el artículo 44 y 70 fracción XVII de la Constitución Política del Estado de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
