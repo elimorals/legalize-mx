@@ -4,7 +4,7 @@ identifier: "VER-ley-del-registro-publico-de-la-propiedad-6790"
 country: "mx"
 rank: "ley"
 publication_date: "1979-12-29"
-last_updated: "1992-02-01"
+last_updated: "1996-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el sábado 29 de diciembre 1979.
 
@@ -287,9 +287,9 @@ DECIMASEXTA ZONA REGISTRAL.- Que comprende los municipios de: Zongolica (cabecer
 
 DECIMASEPTIMA ZONA REGISTRAL.- Que comprende los municipios de: Veracruz (cabecera), Alvarado, La Antigua, Boca del Río, Cotaxtla, Ignacio de la Llave, Jamapa, Manlio Fabio Altamirano, Medellín, Paso de Ovejas, Puente Nacional, Soledad de Doblado, Tierra Blanca, Tlalixcoyan, y Ursulo Galván.
 
-> <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 1996)</small>
 
-DECIMAOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cabecera), Acula, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Otatitlán, Playa Vicente, Tlacojalpan, Tres Valles y Tuxtilla.
+DECIMOCTAVA ZONA REGISTRAL.- Que comprende los municipios de: Cosamaloapan (cabecera), Acula, Carlos A. Carrillo, Chacaltianguis, Isla, Ixmatlahuacan, José Azueta, Otatitlán, Playa Vicente, Tlacojalpan, Tres Valles y Tuxtilla.
 
 > <small>(REFORMADO, G.O. 4 DE MAYO DE 1989)</small>
 
@@ -732,3 +732,17 @@ El presente ordenamiento entrará en vigor al día siguiente de su publicación 
 ###### ARTICULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan a este ordenamiento.
+
+G.O. 30 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente DECRETO entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado
+
+###### ARTICULO SEGUNDO.
+
+El Concejo de Administración Municipal, realizará sus funciones en el periodo comprendido del 1° de enero al 31 de diciembre de mil novecientos noventa y siete.
+
+###### ARTICULO TERCERO.
+
+Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
