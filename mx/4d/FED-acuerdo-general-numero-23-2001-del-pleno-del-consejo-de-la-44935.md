@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-23-2001-del-pleno-del-consejo-de-la-4493
 country: "mx"
 rank: "acuerdo"
 publication_date: "2001-04-25"
-last_updated: "2001-09-03"
+last_updated: "2001-09-13"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-04-16"
 
 ACUERDO GENERAL 23/2001, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE SEPTIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE SEPTIEMBRE DE 2001.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 25 de abril de 2001.
 
@@ -153,7 +153,9 @@ VI.- SEXTO CIRCUITO:
 
 2.- Un tribunal unitario con sede en Puebla.
 
-3.- Seis juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
+> <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+3.- Siete juzgados de distrito en el Estado de Puebla, con residencia en la ciudad del mismo nombre.
 
 4.- Dos juzgados de distrito en el Estado de Tlaxcala, con sede en la ciudad del mismo nombre.
 
@@ -271,7 +273,9 @@ XVIII.- DECIMOCTAVO CIRCUITO:
 
 XIX.- DECIMONOVENO CIRCUITO:
 
-1.- Cuatro tribunales colegiados con residencia en Ciudad Victoria.
+> <small>(REFORMADO POR EL PUNTO SEXTO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+1.- Cinco tribunales colegiados: cuatro con residencia en Ciudad Victoria y uno con sede en Reynosa.
 
 2.- Cuatro tribunales unitarios: uno con sede en Ciudad Victoria, uno con residencia en Matamoros, uno con sede en Reynosa y uno con residencia en Nuevo Laredo.
 
@@ -397,7 +401,17 @@ XVII.- DECIMOSEPTIMO CIRCUITO: Estado de Chihuahua.
 
 XVIII.- DECIMOCTAVO CIRCUITO: Estado de Morelos.
 
-XIX.- DECIMONOVENO CIRCUITO: Respecto de los tribunales colegiados es (sic) el Estado de Tamaulipas.
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+XIX.- DECIMONOVENO CIRCUITO:
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+La jurisdicción territorial de los tribunales colegiados con sede en Ciudad Victoria, será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en la citada ciudad y en la de Tampico.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO] POR EL PUNTO SEPTIMO DEL ACUERDO GENERAL 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE SEPTIEMBRE DE 2001)</small>
+
+En cuanto al tribunal colegiado con residencia en Reynosa, su jurisdicción territorial será la misma que la establecida para los juzgados de distrito en el Estado de Tamaulipas, con sede en Matamoros, Nuevo Laredo y Reynosa.
 
 La jurisdicción territorial del tribunal unitario con sede en Ciudad Victoria será igual a la establecida para los juzgados de distrito en el Estado de Tamaulipas, con residencia en la ciudad indicada y en Tampico.
 
@@ -690,3 +704,19 @@ D.O.F. 3 DE SEPTIEMBRE DE 2001.
 PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
 
 SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2001.
+
+ACUERDO 58/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO NÚMERO 3 APARTADO VI.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 13 DE SEPTIEMBRE DE 2001.
+
+ACUERDO 59/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE MODIFICA EL PUNTO SEGUNDO, INCISO 1, APARTADO XIX Y PUNTO TERCERO APARTADO XIX.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
