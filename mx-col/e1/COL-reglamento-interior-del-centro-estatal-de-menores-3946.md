@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-del-centro-estatal-de-menores-3946"
 country: "mx"
 rank: "reglamento"
 publication_date: "1985-01-26"
-last_updated: "1985-01-26"
+last_updated: "2003-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO INTERIOR DEL CENTRO ESTATAL DE MENORES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Colima, el sábado 26 de enero de 1985.
 
@@ -537,19 +537,115 @@ Independientemente de que el menor haya sido puesto en libertad el Centro a trav
 
 En el caso de menores que no cuenten con una familia y de los cuales nadie se haga responsable, podrán permanecer en el Centro como internos huéspedes, previo estudio del Departamento de Trabajo Social y la obligación de asistir a una escuela exterior, prepararse en el desempeño de algún arte u oficio y una vez capacitados, podrán abandonar el Centro. Para que un menor quede como interno huésped será condición indispensable que haya respondido satisfactoriamente a la terapéutica institucional y no represente riesgo de contaminación para los demás menores internos en el Centro.
 
-ARTICULO 50 (SIC).- La supervisión de la conducta que observen los menores es una responsabilidad de la Subdirección y el Departamento de Preceptoría, siendo ellos los únicos que de acuerdo con el Director General podrán aplicar correctivos a los menores que incurran en una conducta inadecuada.
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+ARTICULO 50 (SIC).- La supervisión de la conducta inadecuada que observen los menores es una responsabilidad de la Subdirección y el Departamento de Preceptoría, siendo ellos los únicos que de acuerdo con el Director General podrán aplicar correctivos a los menores que incurran en una conducta inadecuada de acuerdo a los criterios establecidos en los artículos subsecuentes.
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2003)</small>
 
 ###### ARTICULO 51.
 
-Los errores cometidos por los menores, sea por violaciones al reglamento o por desobediencia a alguna orden girada por el personal de preceptoría, maestros o demás encargados de su tratamiento, se sancionará de la siguiente manera:
+El Director del Centro Estatal de Menores deberá conceder estímulos a los menores como premio a su esfuerzo, buena conducta o hechos meritorios, con base en la opinión que emita el Consejo Técnico Interdisciplinario mediante un sistema permanente de valoración de la conducta, y de la calidad y productividad en el trabajo terapéutico. Dichos estímulos consistirán en:
 
-I.- La primera vez, será sujeto de una orientación adecuada por parte del preceptor;
+l.- Facilidad para participar en las actividades terapéuticas, recreativas o deportivas que ellos elijan;
 
-II.- Si el menor reitera o la falta es grave, ameritara reconvención por parte del Director General;
+II.- Asignación a labores productivas mejor retribuidas;
 
-III.- Si el menor insiste en su conducta errónea o de los actos ejecutados se desprende alguna circunstancia agravante, se le podrá aplicar un cambio en el tratamiento que se está siguiendo, procurando darle, énfasis a la atención psiquiátrica y psicológica con el objeto de controlar la agresividad, inseguridad y desorientación que refleja la conducta del menor.
+III.- Facilidad para recibir visitas con mayor frecuencia; y
 
-En caso de no lograr ningún avance, se comunicará esta situación a las autoridades competentes a fin de que se modifique la medida tutelar y se someta al menor a un régimen terapéutico más estricto.
+IV.- Reconocimiento escrito entregado en reunión general.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 51 Bis
+
+1.- Para efectos del presente Reglamento se considerarán infracciones las siguientes:
+
+l.- Intentar en vía de hecho evadirse, o conspirar para ello;
+
+II.- Poner en peligro su propia seguridad, la de sus compañeros o la de la Institución;
+
+III.- Interferir o desobedecer las disposiciones en materia de preceptoría;
+
+IV.- Causar daños a las instalaciones y equipo o darles mal uso o trato;
+
+V.- Entrar, permanecer o circular en áreas de acceso prohibido, o sin contar con la autorización para ello, en los lugares cuyo acceso se encuentre restringido;
+
+VI.- Substraer u ocultar los objetos propiedad o de uso de los demás menores, del personal de la Institución o de esta última;
+
+VII.- Faltar al respeto a las autoridades mediante injurias, falsedades u otras expresiones;
+
+VIII.- Alterar el orden en los dormitorios, talleres, comedores y demás áreas de uso común;
+
+IX.- Causar alguna molestia o proferir palabras soeces o injuriosas a los visitantes, personal de la Institución o demás menores;
+
+X.- Contravenir las disposiciones de higiene y aseo que se establezcan en el Centro;
+
+XI.- Acudir impuntualmente o abandonar las actividades o labores a las que deba concurrir;
+
+XII.- Incurrir en actos y conductas contrarias a la moral o a las buenas costumbres;
+
+XIII.- Infringir otras disposiciones del presente Reglamento; y
+
+XIV.- Ser reiterativo en la comisión de conductas irregulares.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 51 Bis
+
+2.- Las violaciones de los menores al presente Reglamento y demás disposiciones administrativas serán sancionadas de la siguiente manera:
+
+I. En los casos en que se cometa la infracción contenida en la fracción I del artículo anterior, se impondrá cambio a otro módulo o cambio a la sección de tratamientos especializados o de reflexión de la conducta;
+
+II. Cuando se cometa la infracción contenida en la fracción II del artículo anterior, se impondrá amonestación y reconvención en su módulo o en reunión general;
+
+III. A quien cometa la infracción contenida en la fracción III del artículo anterior, se impondrá cambio a otro módulo;
+
+IV. A quien incurra en la infracción contenida en la fracción IV del artículo anterior, se impondrá asignación del menor a labores de servicio comunitario o cambio a la sección de tratamientos especializados o de reflexión de conducta;
+
+V. En los casos en que se cometa la infracción contenida en la fracción V del articulo anterior, se impondrá prohibición para asistir o participar en actividades culturales, recreativas o deportivas hasta por un mes, o cambio a la sección de tratamientos especializados o de reflexión de conducta;
+
+VI. Cuando se cometa la infracción contenida en la fracción VI del articulo anterior, se impondrá prohibición para participar en actividades culturales, recreativas o deportivas, hasta por 2 meses o cambio a otro módulo, según la gravedad de la infracción;
+
+VII. A quien se cometa la infracción contenida en la fracción VII del artículo anterior, se impondrá prohibición para asistir o participar en actividades culturales, recreativas o deportivas, hasta por un mes o cambio a la sección de tratamientos especializados o de reflexión de la conducta, según la gravedad de la infracción;
+
+VIII. En los casos en que se cometa la infracción contenida en la fracción VIII del artículo anterior, se impondrá prohibición para participar en actividades culturales, recreativas o deportivas, hasta por tres meses o cambio a la sección de tratamientos especializados o de reflexión de la conducta, según la gravedad de la infracción;
+
+IX. En los casos en que se cometa la infracción contenida en la fracción IX del artículo anterior, se impondrá amonestación y reconvención en su módulo o en reunión general, suspensión total o parcial, hasta por 2 meses de los estímulos que se hubiesen otorgado, prohibición para participar en actividades culturales, recreativas o deportivas, hasta por 3 meses o reducción del tiempo ordinario de visitas o convivencia con los familiares hasta por 2 meses, según la gravedad de la infracción;
+
+X. A quien cometa la infracción contenida en la fracción X del artículo anterior, se impondrá amonestación y orientación en privado, suspensión total o parcial hasta por un mes, de los estímulos que se hubiesen otorgado, reducción del tiempo ordinario de visitas o convivencia con los familiares hasta por el mismo término, o asignación del menor a labores de servicio comunitario;
+
+XI. En los casos en que se cometa la infracción contenida en la fracción XI del artículo anterior, se impondrá suspensión total o parcial hasta por 20 días de los estímulos que se hubiesen otorgado, reducción del tiempo ordinario de visitas o convivencia con los familiares hasta por un mes, o asignación del menor a labores de servicio comunitario, según la gravedad de la infracción;
+
+XII. En los casos en que se cometa la infracción contenida en la fracción XII del artículo anterior, se impondrá amonestación y orientación en privado, suspensión total o parcial, hasta por 2 meses de los estímulos que se hubiesen otorgado, cambio a otro módulo o reducción del tiempo ordinario de visitas o convivencia con los familiares, hasta por 45 días;
+
+XIII. En los casos en que se cometa la infracción contenida en la fracción XIII del artículo anterior, se impondrá suspensión total o parcial hasta por 3 meses, de los estímulos que se hubiesen otorgado, reducción del tiempo ordinario de visitas o convivencia con los familiares hasta por 3 meses o cambio a la sección de tratamientos especializados o de reflexión de la conducta;
+
+XIV. En los casos en que se cometa la infracción contenida en la fracción XIV del artículo anterior, se impondrá suspensión total o parcial, hasta por 3 meses de los estímulos que se hubiesen otorgado, cambio a otro módulo, reducción del tiempo ordinario de visitas o convivencia con los familiares, hasta por 2 meses, o cambio a la sección de tratamientos especializados o de reflexión de la conducta;
+
+La imposición de las sanciones contenidas en el presente artículo corresponden al Director del Centro Estatal de Menores, con base en la opinión que emita el Consejo Técnico, tomando en consideración la gravedad de la infracción así como la reincidencia del infractor.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 51 Bis
+
+3.- Para la imposición de las correcciones disciplinarias el Director del Centro ordenará al presunto infractor comparezca en compañía de su padre tutor o representante legal, el Procurador de la Defensa del Menor y la Familia o sus promotores autorizados ante el Consejo Técnico Interdisciplinario que lo escuchará y resolverá lo conducente.
+
+Lo anterior deberá constar por escrito, cuyo original se agregará al expediente turnando copia a la Dirección General de Prevención y Readaptación Social y al Consejo Estatal de Menores. La resolución que se emita contemplará en forma sucinta, la falta que se le imputa, la manifestación que en su defensa haya hecho el menor y, en su caso, la corrección disciplinaria impuesta, en los términos del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 51 Bis
+
+4.- El menor por sí mismo o a través de sus familiares, defensores o la persona que él designe, podrá inconformarse, verbalmente o por escrito, respecto de la corrección disciplinaria impuesta, ante el propio Consejo Técnico Interdisciplinario o ante la Dirección General de Prevención y Readaptación Social, quienes en un término que no exceda de 10 días hábiles emitirán la resolución que proceda comunicándosela para su ejecución al Director del C.E.M., a la procuraduría de la Defensa del Menor y la Familia, al Consejo Estatal de Menores y al interesado, agregándose la copia de aquella al expediente del menor.
+
+El término para la interposición de la inconformidad será de quince días contados a partir del día siguiente al de la notificación del correctivo disciplinario.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2003)</small>
+
+###### ARTICULO 51 Bis
+
+5.- Queda estrictamente prohibida la instalación de celdas de castigos o mazmorras, así como el uso de torturas y maltrato físico, psíquico o moral que dañe la salud o la dignidad del menor. Cualquier violación a este artículo dará lugar al cese inmediato de la persona que la procure y ordene, sin perjuicio de las sanciones penales que correspondan.
 
 ### CAPITULO SEXTO.
 
@@ -630,3 +726,9 @@ El Consejo Tutelar de Menores y la Dirección General del Centro, llevarán a ca
 Dado en la residencia del Poder Ejecutivo del Estado a los quince días de noviembre de mil novecientos ochenta y cuatro.
 
 La Gobernadora Constitucional del Estado, LICDA. GRISELDA ALVAREZ.- Rúbrica.- El Secretario General de Gobierno, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- El Presidente del Consejo Tutelar de Menores, LIC. ISMAEL AGUAYO FIGUEROA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 25 DE OCTUBRE DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
