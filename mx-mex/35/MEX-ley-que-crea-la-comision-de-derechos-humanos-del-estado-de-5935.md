@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-la-comision-de-derechos-humanos-del-estado-de-5935
 country: "mx"
 rank: "ley"
 publication_date: "1992-10-20"
-last_updated: "1992-10-20"
+last_updated: "1994-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5935&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 1994.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 20 de octubre de 1992.
 
@@ -107,23 +107,25 @@ IV. Consultas que le formulen autoridades, particulares u otras entidades sobre 
 
 ### CAPITULO TERCERO. De la Organización de la Comisión de Derechos Humanos
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 1994)</small>
+
 ###### Artículo 8.
 
-La Comisión de Derechos Humanos estará constituida
+La Comisión de Derechos Humanos estará constituida por:
 
-I. El Consejo;
+I.- El Presidente;
 
-II. El Presidente;
+II.- El Secretario Ejecutivo;
 
-III. El Secretario Ejecutivo;
+III.- Los Visitadores Generales; y
 
-IV. Los Visitadores; y
+IV.- El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
 
-V. El personal profesional, técnico y administrativo necesario para la realización de sus funciones.
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 25 DE FEBRERO DE 1994)</small>
 
 ###### Artículo 9.
 
-La autoridad máxima de la Comisión de Derechos Humanos será el Consejo, el cual estará integrado por:
+La Comisión, para el mejor desempeño de sus responsabilidades, contará con un Consejo integrado por:
 
 I. Un presidente, que lo será el de la Comisión de Derechos Humanos;
 
@@ -147,9 +149,11 @@ Los Consejeros Ciudadanos durarán en su cargo tres años, pudiendo ser nombrado
 
 Los Consejeros Ciudadanos durante el período de su encargo no podrán desempeñar ningún cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 1994)</small>
+
 ###### Artículo 13.
 
-Los Consejeros Ciudadanos, recibirán la dieta de asistencia que fije el Presupuesto Anual de Egresos de la Comisión de Derechos Humanos.
+Los Consejeros Ciudadanos tendrán la dieta de asistencia que determine el Presupuesto Anual de Egresos autorizado a la Comisión.
 
 ###### Artículo 14.
 
@@ -165,15 +169,21 @@ II. No tener más de setenta y cinco años de edad ni menos de treinta y cinco a
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena.
 
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+IV.- No haber sido sancionado en el desempeño de empleo, cargo o comisión federal, estatal o municipal, con motivo de una recomendación de las comisiones de derechos humanos creadas por la ley.
+
 ###### Artículo 16.
 
 El Presidente de la Comisión de Derechos Humanos es la autoridad ejecutiva responsable del organismo y será propuesto por el Gobernador del Estado y sometido a la aprobación de la Legislatura Local.
 
 Para los efectos de lo previsto en el párrafo anterior, el Gobernador del Estado, propondrá a la Legislatura Local al menos dos candidatos.
 
+> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 1994)</small>
+
 ###### Artículo 17.
 
-El Presidente de la Comisión de Derechos Humanos durará en sus funciones cuatro años, y podrá ser designado para un segundo período.
+El Presidente de la Comisión de Derechos Humanos durará en sus funciones cuatro años, y podrá ser designado por la Legislatura del Estado para un segundo período, a propuesta del titular del Poder Ejecutivo, observándose para el efecto lo dispuesto por el artículo anterior.
 
 ###### Artículo 18.
 
@@ -186,6 +196,10 @@ II. Ser mayor de treinta años de edad, el día de su nombramiento;
 III. Tener título de Licenciado en Derecho expedido legalmente, y contar con tres años de ejercicio profesional cuando menos; y
 
 IV. Ser de reconocida buena conducta.
+
+> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+V.- No haber sido sancionado en el desempeño de empleo, cargo o comisión federal, estatal o municipal, con motivo de una recomendación de las comisiones de derechos humanos creadas por la ley.
 
 ###### Artículo 19.
 
@@ -215,37 +229,47 @@ El personal de la Comisión de Derechos Humanos deberá hacer uso de manera conf
 
 El Consejo de la Comisión de Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Determinar las políticas, normas y criterios que orienten las actividades de la Comisión de Derechos Humanos, en base a la política nacional en materia de derechos humanos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+I. Establecer las políticas, normas y criterios que orienten las actividades de la Comisión de Derechos Humanos;
 
 II. Proponer al Presidente de la Comisión de Derechos Humanos los mecanismos y programas necesarios para el respeto, defensa, protección, promoción, estudio y divulgación, de los derechos humanos;
 
-III. Aprobar la estructura administrativa y el Reglamento Interior de la Comisión de Derechos Humanos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+III.- Aprobar el Reglamento Interno de la Comisión de Derechos Humanos, así como sus modificaciones;
 
 IV. Transmitir a la Comisión de Derechos Humanos el sentir de la sociedad respecto al trabajo de la misma;
 
-V. Opinar sobre el proyecto de Informe Anual que el Presidente de la Comisión de Derechos Humanos deberá enviar a la Legislatura Local y al Titular del Poder Ejecutivo;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+V.- Opinar sobre el proyecto de informe anual que el Presidente de la Comisión de Derechos Humanos deberá rendir;
 
 VI. Solicitar al Presidente información adicional sobre los asuntos que se encuentren en trámite o haya resuelto la Comisión de Derechos Humanos;
 
-VII. Aprobar a propuesta del Presidente de la Comisión de Derechos Humanos, las Recomendaciones y, en su caso, las observaciones que resulten pertinentes a las autoridades en el Estado por violaciones a los derechos humanos;
+VII.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
 VIII. Aprobar, en su caso, las propuestas generales, que le formule el Presidente de la Comisión de Derechos Humanos, conducentes a una mejor protección de los derechos humanos en el Estado;
 
-IX. Aprobar, a propuesta del Presidente de la Comisión de Derechos Humanos, el nombramiento y remoción del Secretario Ejecutivo, de los Visitadores y del personal administrativo de la propia Comisión;
+IX.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
 X. Turnar al Secretario Ejecutivo, para su cumplimiento y seguimiento, los acuerdos que dicte el Consejo;
 
 XI. Formar con sus miembros los comités que considere pertinentes para el mejor desempeño de sus funciones;
 
-XII. Conocer el anteproyecto del Presupuesto Anual de Egresos de la Comisión de Derechos Humanos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
 
-XIII. Conocer el informe del Presidente de la Comisión de Derechos Humanos en relación al ejercicio anual del presupuesto; y
+XII.- Conocer el Presupuesto Anual de Egresos autorizado para la Comisión de Derechos Humanos;
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+XIII.- Conocer el informe del Presidente de la Comisión de Derechos Humanos en relación al ejercicio anual del presupuesto;
 
 XIV. Las demás que le sean conferidas en la presente Ley y otras disposiciones legales.
 
 ###### Artículo 25.
 
-El consejo como órgano colegiado, celebrará cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias cuando las convoquen el Presidente o por los menos tres de sus miembros. La convocatoria a las sesiones se hará en todos los casos por escrito.
+El consejo como órgano colegiado, celebrará cuando menos una sesión ordinaria al mes y las extraordinarias que sean necesarias cuando las convoque el Presidente o por los menos tres de sus miembros. La convocatoria a las sesiones se hará en todos los casos por escrito.
 
 ###### Artículo 26.
 
@@ -261,7 +285,9 @@ El Secretario asistirá a las sesiones con voz, pero sin voto.
 
 El Presidente de la Comisión de Derechos Humanos tendrá las siguientes atribuciones:
 
-I. Fungir como representante legal de la Comisión de Derechos Humanos;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+I.- Ejercer la representación legal de la Comisión de Derechos Humanos del Estado de México;
 
 II. Formular los lineamientos generales a los que se sujetarán las actividades administrativas de la Comisión de Derechos Humanos, así como nombrar, dirigir y coordinar las funciones del personal bajo su autoridad;
 
@@ -269,7 +295,9 @@ III. Dictar las medidas específicas que juzgue convenientes para el mejor desem
 
 IV. Coordinar a los Visitadores y al Secretario Ejecutivo y distribuir entre ellos los asuntos de su competencia;
 
-V. Enviar un informe anual de las actividades de la Comisión de Derechos Humanos al Congreso Local y al titular del Poder Ejecutivo Estatal, sobre las actividades que haya realizado en dicho período. Dicho informe será difundido en la forma más amplia posible para conocimiento de la sociedad;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+V.- Rendir un informe anual con la asistencia de los poderes Legislativo y Ejecutivo, sobre las actividades que la Comisión de Derechos Humanos haya realizado en dicho período. El informe será difundido para conocimiento de la sociedad;
 
 VI. Promover y fortalecer las relaciones de la Comisión de Derechos Humanos con organismos públicos, sociales y privados;
 
@@ -279,15 +307,19 @@ VIII. Aprobar y emitir las Recomendaciones públicas y acuerdos que resulten de 
 
 IX. Solicitar a cualquier autoridad dentro del Estado, conforme a las disposiciones legales, la información que requiera sobre probables violaciones a los derechos humanos;
 
-X. Proponer al Consejo, las Recomendaciones y, en su caso, las observaciones que resulten pertinentes a las autoridades en el Estado por violaciones a los derechos humanos;
+X. (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
-XI. Proponer al Consejo para su aprobación, en su caso, las propuestas generales conducentes a una mejor protección de los derechos humanos en el Estado;
+XI.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
-XII. Proponer al Consejo para su aprobación, en su caso, el nombramiento y remoción del Secretario Ejecutivo, de los Visitadores y del Personal administrativo de la Comisión de Derechos Humanos;
+XII.- (DEROGADA, G.G. 25 DE FEBRERO DE 1994)
 
-XIII. Elaborar el anteproyecto de Presupuesto Anual de Egresos de la Comisión de Derechos Humanos y el respectivo informe sobre su ejercicio para presentarse al Consejo de la misma;
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
 
-XIV. Remitir al Ejecutivo del Estado el anteproyecto de Presupuesto Anual de Egresos para que por su conducto sea enviado a la Legislatura del Estado para su aprobación en su caso;
+XIII.- Elaborar el anteproyecto de Presupuesto Anual de Egresos de la Comisión de Derechos Humanos y el informe sobre su ejercicio, del cual dará cuenta al Consejo;
+
+> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 1994)</small>
+
+XIV.- Remitir al Ejecutivo del Estado el anteproyecto de Presupuesto Anual de Egresos a fin de que, por su conducto, sea enviado a la Legislatura del Estado para su aprobación, en su caso;
 
 XV. Convocar y conducir las sesiones del Consejo; y
 
@@ -570,3 +602,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HUMBERTO LIRA MORA
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.G. 25 DE FEBRERO DE 1994.
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta del Gobierno.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
