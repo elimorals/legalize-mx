@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1940-10-22"
+last_updated: "1941-05-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MAYO DE 1941.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -2907,13 +2907,15 @@ Presentada la demanda con el documento o la justificación correspondiente, dict
 
 Si en el acto de la diligencia justificare el arrendatario con el recibo correspondiente, haber hecho el pago de las pensiones reclamadas o exhibiere su importe, se suspenderá la diligencia asentándose en ella el hecho y agregándose el justificante de pago para dar cuenta al juez. Si se hubiere exhibido el importe, se mandará entregar al actor sin más trámite y se dará por terminado el procedimiento. Si se exhibiere el recibo de pago, se mandará dar vista al actor por el término de tres días y si lo objeta se citará para la audiencia de pruebas y alegatos a que se refiere el artículo 480, y en caso de no objetarlo se da por concluida la instancia.
 
+> <small>(REFORMADO, P.O. 29 DE MAYO DE 1941)</small>
+
 ###### Artículo 478.
 
-Cuando durante el plazo fijado para el desahucio, exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el juez por terminada la providencia de lanzamiento sin condenación en costas.
+Cuando durante el plazo citado para el desahucio exhiba el inquilino el recibo de las pensiones debidas o el importe de ellas, dará el Juez por terminada la providencia de lanzamiento sin condenación de costas.
 
 Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
 
-Si el recibo presentado es de fecha posterior o la exhibición del importe de las pensiones se hace fuera del término señalado para el desahucio, también se dará por concluida la providencia de lanzamiento, pero se condenará al inquilino al pago de las costas causadas.
+Para los efectos de esta disposición y de la anterior, se equipara al recibo expedido por el propietario sobre el pago de las pensiones y surtirá los mismos efectos el expedido por el importe de la obras ejecutadas en la finca por el inquilino, que hubieren sido ordenadas expresamente por las Autoridades Sanitarias; estos recibos deberán estar visados por la Autoridad Sanitaria que ordenó la obra.
 
 ###### Artículo 479.
 
@@ -6270,3 +6272,9 @@ Cnel. ALFREDO DELGADO.
 El Secretario General de Gobierno,
 
 Lic. ALFREDO CRISTERNA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE MAYO DE 1941.
+
+Unico.- El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial.
