@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "1989-08-20"
+last_updated: "1992-09-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE SEPTIEMBRE DE 1992.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo día 20 de agosto de 1989.
 
@@ -461,15 +461,19 @@ Requisitos formales de las resoluciones judiciales.- Toda resolución deberá co
 
 Contenido de los autos.- Los autos contendrán una breve exposición del punto de que se trate y la resolución que corresponda, precedida de su motivación y fundamentos legales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 59.
 
-Contenido de las sentencias.- Además de los requisitos señalados para todas las resoluciones, las sentencias contendrán:
+Contenido de la sentencia.- Además de los requisitos señalados para todas las resoluciones, las sentencias contendrán:
 
 I.- El lugar en que se pronuncien;
 
 II.- La designación del Tribunal que las dicte;
 
-III.- Los nombres y apellidos del inculpado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, estado civil, residencia o domicilio y ocupación, oficio o profesión;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+III.- Los nombres y apellidos del inculpado, su sobrenombre si lo tuviere, el lugar de su nacimiento, su edad, estado civil, idioma, en su caso el grupo étnico indígena al que pertenece, dialecto, residencia o domicilio, ocupación, oficio o profesión;
 
 IV.- Una breve síntesis de los hechos objeto del proceso;
 
@@ -487,7 +491,7 @@ Firma de las resoluciones.- Las resoluciones judiciales se dictarán por el Juzg
 
 ###### Artículo 62.
 
-Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las sentencias y de los autos dictados por el Tribunal Superior de Justicia o por una Sala, se requerirá cuando menos, el voto de la mayoría de sus miembros. Cuando alguno de los componentes del Tribunal o Sala no estuviere conforme con la resolución de la mayoría expresará sucintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
+Requisitos de validez de las resoluciones del Tribunal.- Para la validez de las sentencias y de los autos dictados por el Tribunal Superior de Justicia o por una Sala, se requerirá cuando menos, el voto de la mayoría de sus miembros. Cuando alguno de los componentes del Tribunal o Sala no estuviere conforme con la resolución de la mayoría expresará suscintamente las razones de su inconformidad en voto particular, que se agregará al expediente.
 
 ###### Artículo 63.
 
@@ -665,6 +669,10 @@ Cuando el nuevo defensor no esté en condiciones de acuerdo con la naturaleza de
 
 En los casos de ausencia del Ministerio Público o del defensor de oficio, se comunicará su falta a su superior jerárquico para los efectos correspondientes.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+En el supuesto a que se refiere el artículo 49 de este Código no podrá llevarse a cabo las audiencias en que deba participar el inculpado sin el traductor a que dicho precepto se refiere.
+
 ###### Artículo 93.
 
 Comunicación del inculpado durante las audiencias.- Antes y durante la audiencia el inculpado tendrá derecho a comunicarse con sus defensores pero no con el público, si infringe esta disposición, el Juzgador podrá imponerle una corrección disciplinaria.
@@ -778,6 +786,10 @@ Requisitos de la orden de aprehensión.- El Ministerio Público solicitará y el
 Entrega del aprehendido.- Siempre que se realice una aprehensión en cumplimiento de una orden judicial, quien la hubiere ejecutado deberá poner el aprehendido dentro de las veinticuatro horas siguientes, a disposición del Juez respectivo, informando a éste acerca de la fecha, hora y lugar en que se efectuó.
 
 Se entenderá que el inculpado queda a disposición del Juzgador, para los efectos Constitucionales y legales correspondientes, desde el momento en que la Policía Judicial en cumplimiento de la orden respectiva, lo ponga a disposición de aquél en la prisión preventiva o en un centro de salud. El encargado del reclusorio o del centro de salud asentará en el documento relativo a la orden de aprehensión ejecutada que le presente la Policía Judicial, el día y hora del recibo del detenido.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+En el caso de que la detención de una persona exceda los términos señalados en los artículos 19 y 107 Fracción XVIII de la Constitución Política de los Estados Unidos Mexicanos, se presumirá que estuvo incomunicada y las declaraciones que haya emitido el detenido no tendrán validez.
 
 ###### Artículo 111.
 
@@ -1025,9 +1037,11 @@ Restitución de derechos del ofendido.- El ofendido o su legítimo representante
 
 ### CAPITULO IX. CATEOS
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 145.
 
-Autoridad facultada para expedir una orden de cateo y sus requisitos.- Solo el Juzgador podrá expedir, tanto en la averiguación previa como en el proceso, orden de cateo, la cual será escrita, expresará el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse, los objetos que se buscan y los motivos que lo justifiquen. Según las circunstancias del caso, el Juzgador resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos; debiéndose observar las formalidades previstas en el artículo 16 Constitucional.
+Autoridad Facultada para Expedir una Orden de Cateo y sus Requisitos: Solo el Juzgador podrá expedir, tanto en la averiguación previa como en el proceso, orden de cateo, la cual será escrita, expresará el lugar que ha de inspeccionarse, las personas que hayan de aprehenderse, los objetos que se buscan y los motivos que lo justifiquen. Según las circunstancias del caso, el Juzgador resolverá si el cateo lo realiza su personal, el Ministerio Público o ambos; debiéndose observar las formalidades previstas en el artículo 16 Constitucional y cuando no se cumplan, la diligencia carecerá de todo valor probatorio, sin que sirva de excusa el consentimiento de los ocupantes del lugar.
 
 ###### Artículo 146.
 
@@ -1091,9 +1105,11 @@ Obligación de exhibir documentos.- Toda persona a cuyo alcance o poder se halle
 
 ### CAPITULO II. CONFESION
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 158.
 
-Naturaleza.- Existe confesión cuando el inculpado admite como cierto y propio, el hecho delictuoso que se le imputa.
+Naturaleza.- Existe confesión cuando el inculpado admite como cierto y propio, el hecho delictuoso que se le imputa y sea rendida ante el Ministerio Público, el Juez o Tribunal de la causa, con las formalidades señaladas por el Artículo 20 Constitucional.
 
 ###### Artículo 159.
 
@@ -1161,6 +1177,10 @@ Versiones distintas de los hechos.- Cuando hubiere versiones distintas acerca de
 
 Intervención de peritos.- Siempre que para el examen de personas, hechos u objetos se requieran conocimientos especiales de determinadas ciencias, técnicas o artes, se procederá con intervención de peritos.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+Artículo 169 BIS.- Dictámenes Periciales.- Cuando el inculpado pertenezca a un grupo étnico indígena, el juzgador deberá allegarse dictámenes periciales, a fin de ahondar en el conocimiento de su personalidad y captar su diferencia cultural respecto a la cultura media regional y nacional.
+
 ###### Artículo 170.
 
 Designación y número de peritos.- El Ministerio Público y la defensa en la averiguación previa, o ambos y el Juzgador en el proceso, nombrarán los peritos que sean necesarios para dictaminar sobre cada punto que amerite su intervención.
@@ -1170,6 +1190,10 @@ La autoridad competente y las partes podrán interrogar a los peritos.
 ###### Artículo 171.
 
 Requisitos de los peritos.- Los peritos deberán tener título oficial en la ciencia, técnica o arte relativas al punto sobre el cual dictaminarán, si el ejercicio de su profesión está reglamentando; de lo contrario, podrán nombrarse prácticos en la materia. También se nombrarán peritos prácticos cuando no hubiere titulados en el lugar en que se actúe.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+Cuando el inculpado pertenezca a un grupo étnico indígena podrán ser peritos prácticos, personas que pertenezcan a dicho grupo.
 
 ###### Artículo 172.
 
@@ -1302,6 +1326,10 @@ Datos generales del testigo.- Después de protestarlo o exhortarlo, se preguntar
 Declaración.- Los testigos declararán de viva voz sin que les sea permitido leer las respuestas que tengan escritas; pero podrán consultar algunas notas o documentos que lleven consigo, cuando sea pertinente según la naturaleza del asunto y a juicio de quien practique las diligencias.
 
 El Ministerio Público y la defensa tendrán el derecho de interrogar directamente al testigo; pero el Tribunal podrá disponer que los interrogatorios se hagan por su conducto, cuando así lo estime necesario; tendrá la facultad de desechar las preguntas que a su juicio sean capciosas o inconducentes y, además, podrá interrogar al testigo sobre los puntos que estime conveniente.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+El acuerdo de desechamiento será revocable. Si el testigo no comparece a la primera citación, sin causa justificada, el juez ordenará que sea presentado a declarar.
 
 ###### Artículo 193.
 
@@ -1439,6 +1467,10 @@ IV.- Que no haya sido obtenida durante una detención inconstitucional o sin la 
 
 V.- Que no haya datos que la hagan inverosímil.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+No podrá consignarse a ninguna persona si existe como única prueba la confesión. La Policía Judicial podrá rendir informes pero no obtener confesiones si lo hace, éstas carecerán de todo valor probatorio.
+
 ###### Artículo 220.
 
 Confesión insuficiente.- La confesión por sí sola será estimada como prueba insuficiente, por lo que se requerirá de la existencia de otro u otros elementos probatorios que lo corroboren.
@@ -1523,9 +1555,15 @@ Querella por poder.- La querella formulada en representación de personas físic
 
 Medidas a tomar durante la averiguación previa.- Inmediatamente que el Ministerio Público tenga conocimiento de la probable existencia de un delito, dictará todas las medidas y providencias necesarias para proporcionar seguridad y auxilio a las víctimas; impedir que se pierdan, destruyan o alteren las huellas o vestigios del hecho delictuoso, los instrumentos, cosas, objetos o efectos del mismo; determinar que personas fueron testigos; evitar que el delito se siga cometiendo y, en general, impedir que se dificulte la averiguación, procediendo a la detención de los probables responsables en los casos de flagrante delito.
 
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+Artículo 231 BIS.- Averiguación Previa.- En la averiguación previa en contra de personas que no hablen o no entiendan suficientemente el idioma castellano, se le nombrará un traductor desde el primer día de su detención, quien deberá asistirla en todos los actos procedimentales sucesivos y en la correcta comunicación que haya de tener con su defensor.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 232.
 
-Acta inicial.- En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos, el nombre y carácter de la persona que denunció o se querelló de ellos, su declaración, y la del indiciado, si se encontrare presente; la descripción de lo que haya sido objeto de inspección; los nombres y domicilio de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
+Acta inicial.- En el caso del artículo anterior, se procederá a levantar el acta correspondiente, que contendrá: la hora, fecha y modo en que se tenga conocimiento de los hechos, el nombre y carácter de la persona que denunció o se querelló de ellos, su declaración, y la del indiciado si se encontrare presente, incluyendo el grupo étnico al cual pertenece; en su caso; la descripción de lo que haya sido objeto de inspección; los nombres y domicilio de los testigos que no se hayan podido examinar; el resultado de la observación de las particularidades que se hayan notado a raíz de ocurridos los hechos, en las personas que en ellos intervengan; las medidas y providencias que se hayan tomado para la investigación de los hechos, así como los demás datos y circunstancias que se estime necesario hacer constar.
 
 ###### Artículo 233.
 
@@ -1771,9 +1809,11 @@ II.- Librar orden de comparecencia en todos los demás casos.
 
 Plazo y objetivo de la declaración preparatoria.- Dentro de las cuarenta y ocho horas siguientes al momento en el que el inculpado esté a disposición del Juez, éste le hará saber en audiencia pública, el nombre de su acusador, la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en ese acto su declaración preparatoria.
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
 ###### Artículo 269.
 
-Nombramiento de defensor.- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el Juez le hará saber el derecho que tiene para defenderse, por sí o por persona de su confianza, a menos que ya haya designado defensor durante la averiguación previa y éste se encuentre presente. En caso de no tener quien lo defienda se le presentará la lista de los defensores de oficio para que elija el o los que le convenga. Si el acusado no quiere nombrar defensor, después de ser requerido para hacerlo, el Juez le nombrará uno de oficio.
+Nombramiento del defensor.- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere; el grupo étnico indígena a que pertenezca, en su caso, y si habla y entiende suficientemente el idioma castellano y sus demás circunstancias personales. Acto seguido, el Juez le hará saber el derecho que tiene para defenderse, por sí o por persona de su confianza, a menos que ya haya designado defensor durante la averiguación previa y este se encuentre presente. En caso de no tener quien lo defienda se le presentará la lista de los defensores de oficio para que elija el o los que le convenga. Si el acusado no quiere nombrar defensor, después de ser requerido para hacerlo, el Juez le nombrará uno de oficio.
 
 ###### Artículo 270.
 
@@ -1848,6 +1888,10 @@ Sobreseimiento.- El Juez de oficio o a petición de parte, decretará el sobrese
 ###### Artículo 283.
 
 Pruebas.- Durante la instrucción el Juzgador deberá admitir y desahogar las pruebas que legalmente le ofrezcan las partes en relación con los hechos imputados.
+
+> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 1992)</small>
+
+El juzgador deberá observar las circunstancias peculiares del inculpado, allegándose datos para conocer su edad, educación e ilustración, sus costumbres y conducta anterior, los motivos que lo impulsaron a delinquir, sus condiciones económicas y las especiales en que se encontraba en el momento de la comisión del delito, la pertinencia del inculpado en su caso a un grupo étnico indígena y las prácticas y características que como miembro de dicho grupo pueda tener, los demás antecedentes personales que puedan comprobarse, así como, sus vínculos de parentesco, amistad o nacidos de otras relaciones sociales, la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión que demuestren su mayor o menor temibilidad.
 
 Además, el Juzgador deberá tomar conocimiento directo del procesado, de la víctima y de las circunstancias del hecho, en la medida requerida para cada caso, teniendo amplias facultades para allegarse, de oficio, las pruebas que estime necesarias.
 
@@ -2812,3 +2856,11 @@ EL PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO.
 LIC. OSCAR R. TELLEZ ULLOA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 20 DE SEPTIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo Informativo del Gobierno del Estado.
