@@ -4,7 +4,7 @@ identifier: "SON-ley-que-establece-la-junta-central-de-conciliacion-y-9653"
 country: "mx"
 rank: "ley"
 publication_date: "1918-10-10"
-last_updated: "1925-11-18"
+last_updated: "1927-05-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY QUE ESTABLECE LA JUNTA CENTRAL DE CONCILIACION Y ARBITRAJE Y LAS JUNTAS MUNICIPALES DE CONCILIACION
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 18 DE NOVIEMBRE DE 1925.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 14 DE MAYO DE 1927.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Sonora, el jueves 10 de octubre de 1918.
 
@@ -313,7 +313,7 @@ La Junta Central de Conciliación y Arbitraje no podrá sesionar si no hay prese
 
 ###### Art. 51.
 
-Los miembros de la Junta Central de Conciliación y Arbitraje quedan inhabilitados para desempeñar cargos de elección popular en el año siguiente al de su funcionamiento.
+(DEROGADO, B.O. 14 DE MAYO DE 1927)
 
 ## TRANSITORIOS.
 
@@ -370,3 +370,7 @@ B.O. 18 DE NOVIEMBRE DE 1925.
 Primero.- El Ejecutivo del Estado, modificará el Reglamento para la renovación de la Junta Central de Conciliación y Arbitraje expedido en 1o. de enero de 1924, de acuerdo con la presente Ley.
 
 Segundo.- Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 14 DE MAYO DE 1927.
+
+UNICO.- Esta Ley entrará en vigor desde la fecha de su publicación en el Boletín Oficial del Estado.
