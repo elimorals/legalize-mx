@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1944-08-01"
+last_updated: "1948-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE AGOSTO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MAYO DE 1948.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -2901,11 +2901,11 @@ En el caso previsto en el segundo párrafo del artículo 2797 del Código Civil,
 
 Del Juicio Sumario de Desahucio.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
 
 ###### Artículo 475.
 
-La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades, y se acompañará precisamente el documento en que conste el contrato de arrendamiento.
+La demanda de desocupación debe fundarse en la falta de pago de dos o más mensualidades y se acompañará con el contrato escrito del arrendamiento cuando ello fuere necesario, para la validez del acto conforme al Código Civil. En caso de no ser necesario el contrato escrito o de haberse cumplido voluntariamente por ambos contratantes sin otorgamiento de documento, se justificará por medio de información testimonial, prueba documental o cualquier otra bastante como medio preparatorio del juicio.
 
 ###### Artículo 476.
 
@@ -5937,27 +5937,49 @@ III. Cuando se trate de comprobar la posesión de un derecho real.
 
 La información se recibirá siempre con citación del Ministerio Público; en los casos de las fracciones primera y segunda, con citación también de los colindantes y del Encargado del Registro de la Propiedad de la comprensión donde estuviere ubicado el inmueble, y los comprendidos en la fracción tercera con audiencia del propietario y de los demás partícipes del derecho real, cuando los haya.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+
 ###### Artículo 984.
 
-Cuando se pretenda acreditar alguno de los hechos a que se refieren los artículo 2904 y 2905 del Código Civil, presentada la solicitud de (sic) la cual deberá contener la descripción precisa del inmueble de que se trate, se mandará publicar un edicto que contenga el extracto de ella en el periódico Oficial del Estado y en un diario de los de mayor circulación, a juicio del Juez, citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante diez días en la puerta del Juzgado y en los demás sitios públicos de costumbre.
+Cuando se pretenda acreditar la posesión de bienes inmuebles para los efectos del artículo 2904 del Código Civil, la solicitud deberá contener la descripción precisa del inmueble, que abarcará sus dimensiones y colindancias y todos los demás datos necesarios para su exacta identificación. Deberá acompañarse el certificado mediante el cual se demuestre que el promovente no está en el caso del artículo 1154 del Código Civil. En caso de que este certificado no se acompañe o de que la descripción del inmueble no sea precisa se desechará de plano la solicitud.
 
-El certificado a que se refiere el artículo 2904 del Código Civil, deberá comprender los últimos diez años.
+Asimismo se acompañará a la solicitud, si se trata de una finca o solar urbano, una fotografía de la misma. Si se trata de finca rústica deberá acompañarse un plano.
+
+Presentada la solicitud, se mandará publicar por tres veces, de dien (sic) en diez días, un edicto que contenga un extracto de ella, en el Periódico Oficial y en otro de los de mayor circulación que se edite en el lugar más cercano al de la ubicación de los bienes, citando a los que se crean con derecho para que se presenten a oponerse. También se publicará el edicto fijándolo durante veinte días, cuando menos, en la puerta del Juzgado y en los demás sitios públicos de costumbre. En el edicto se hará saber al público que la fotografía o el plano del inmueble está expuesto en los estrados del Juzgado.
+
+A las personas que aparezcan como colindantes en la solicitud, tan pronto como ésta sea admitida en el juzgado se les remitirá copia de la misma. Si no se conoce su domicilio las copias serán entregadas a las personas encargadas de los inmuebles colindantes. Igualmente deberá remitirse copia de la solicitud a la Oficina Recaudadora que corresponda a la ubicación de los bienes. Esta oficina dentro del término de quince días deberá informar al Juzgado si aparece o no registrada a favor de otra persona en su totalidad o una parte de ella. En caso de estar registrada deberá ser citado personalmente el interesado a la audiencia en que se reciba la información para que exponga lo que a su derecho convenga.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
 
 ###### Artículo 985.
 
-Tres días después de publicados los edictos a que se refiere el artículo anterior, de lo cual se pondrá constancia en los autos, si no se hubiere presentado el opositor, el Juez señalará día y hora para recibir la información testimonial.
+Una vez satisfechos los requisitos que establece el artículo que antecede, de lo cual se pondrán constancias en los autos, si no se hubiere presentado opositor, el juez señalará día y hora para recibir la información testimonial. Esta no se recibirá si no se cuenta con la presencia personal del Agente del Ministerio Público y del respectivo registrador de la propiedad.
+
+Para la práctica de esta diligencia no se presentarán interrogatorios por escrito.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
 
 ###### Artículo 986.
 
-Los testigos serán por lo menos tres, de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere; el Juez ampliará su examen con las preguntas que estime pertinentes para asegurarse de la veracidad de su dicho y respecto de aquellos testigos que no sean de él conocidos o del Secretario, exigirá la presentación de dos que abonen a cada uno de aquellos.
+Los testigos serán por lo menos tres, cuyo arraigo en el lugar de ubicación de los bienes deberá certificar la más alta Autoridad Municipal que corresponda a dicho lugar.
+
+Tanto el juez, como el Agente del Ministerio Público y el encargado del Registro Público de la Propiedad tienen obligación de cerciorarse de la idoneidad de los testigos y hacerles cuantas preguntas sean necesarias para indagar si conocen los bienes de que se trata y les consta que el promovente ha poseído con todos los elementos necesarios para que opere la prescripción adquisitiva y en general sobre la veracidad de su dicho. Para aquellos testigos que no sean conocidos por el Juez o por el Secretario, se exigirá la presentación de dos que abonen a cada uno de aquéllos.
 
 El Ministerio Público y las personas con cuya citación se reciba la información, podrán tachar a los testigos por circunstancias que afecten a su credibilidad.
 
+Cuando haya datos o indicios que inclinen a sospechar que el promovente trata, mediante la información, de despojar inmuebles, o defraudar al Fisco, o de cometer cualquiera otro delito, el Juez, a petición del Ministerio Público, suspenderá la información, en cualquier estado en que se encuentre, hasta en tanto se efectúen las investigaciones que estime pertinente el Ministerio Público.
+
+No se recibirá la información si no fueron citados debidamente los colindantes.
+
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 1948)</small>
+
 ###### Artículo 987.
 
-Recibida la información el Juez declarará si se han o no acreditado los hechos que la motivaron. Si los declara acreditados, en el caso del artículo 2904 del Código Civil, declarará además que el poseedor se ha convertido en propietario en virtud de la prescripción y mandará protocolizar las diligencias en la Notaría que designe el promovente, así como expedir testimonio para su registro; en el caso del artículo 2905 del mismo Código, que se inscriba la resolución para los efectos del Capítulo V, del Título Segundo, Tercera Parte del Libro Cuarto del Código Civil, y, en los demás casos, que se entreguen originales las actuaciones al promovente.
+Recibida la información, el Juez, sin hacer declaración alguna, mandará que se protocolice en la Notaría que designe el promovente, quien recibirá el testimonio respectivo para su inscripción en el Registro Público de la propiedad.
 
-La resolución que declare no acreditados los hechos será apelable en ambos efectos.
+En los demás casos ordenará que se entreguen originales las actuaciones al promovente.
+
+La resolución que no admita o niegue la solicitud de información será apelable en ambos efectos.
 
 ###### Artículo 988.
 
@@ -6349,14 +6371,32 @@ Artículo Unico.- Este Decreto comenzará a surtir sus efectos a partir de la fe
 
 P.O. 15 DE ABRIL DE 1944.
 
-Artículo Primero.- Todos los contratos de arrendamiento de fincas urbanas para habitación vigentes o vencidos a la fecha de la publicación del presente decreto quedarán prorrogados por el tiempo que dure el actual estado de guerra con los países del Eje.
+Artículo Primero.- (DEROGADO, P.O.15 DE MAYO DE 1948)
 
-Artículo Segundo.- Los juicios sumarios de desocupación por terminación de contratos de arrendamiento de fincas urbanas para habitación que estén tramitándose a la vigencia de este decreto, quedarán suspensos en su procedimiento hasta que cese el estado actual de emergencia y sin que pare perjuicio al demandante la caducidad de la instancia.
+Artículo Segundo.- (DEROGADO, P.O.15 DE MAYO DE 1948)
 
-Artículo Tercero.- Quedan congeladas las rentas de fincas urbanas para habitación por el tiempo que dure el estado actual de guerra y en los términos que regían a la fecha de la publicación del presente decreto.
+Artículo Tercero.- (DEROGADO, P.O.15 DE MAYO DE 1948)
 
 Artículo Cuarto.- Este decreto empezará a surtir sus efectos a partir del día de su publicación en el Periódico Oficial del Estado.
 
 P.O. 1 DE AGOSTO DE 1944.
 
-UNICO. El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+UNICO. El presente Decreto surte sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno Estado.
+
+P.O. 15 DE MAYO DE 1948.
+
+DECRETO NO. 102, QUE SUPRIME LOS ARTICULOS 1°, 2° Y 3° TRANSITORIOS DEL DECRETO NUMERO 469, DEL P.O. 15 DE ABRIL DE 1944.
+
+Artículo Unico.- El Presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 1948.
+
+DECRETO NO. 103, QUE REFORMA EL ARTICULO 475.
+
+###### Artículo 1o.
+
+El presente Decreto comenzará a surtir sus efectos a partir de su publicación en el Periódico Oficial del Estado.
+
+###### Artículo 2o.
+
+La sustanciación de los negocios de jurisdicción voluntaria a que se refiere el presente Decreto, se acomodará desde luego a las disposiciones del mismo.
