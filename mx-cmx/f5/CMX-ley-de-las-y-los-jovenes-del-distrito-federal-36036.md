@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-las-y-los-jovenes-del-distrito-federal-36036"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-25"
-last_updated: "2000-07-25"
+last_updated: "2004-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36036&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-05-30"
 
 LEY DE LAS Y LOS JOVENES DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE ENERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 25 de julio del 2000.
 
@@ -288,7 +288,7 @@ Ningún joven puede ser molestado, discriminado o estigmatizado por su sexo, eda
 
 ###### Artículo 46.
 
-Los y las jóvenes son portadores y al mismo tiempo realizadores de los derechos humano que a continuación se mencionan:
+Los y las jóvenes son portadores y al mismo tiempo realizadores de los derechos humanos que a continuación se mencionan:
 
 a) Al pleno goce y disfrute de los derechos civiles, políticos, económicos, sociales y culturales contenidos en los respectivos pactos internacionales de las Naciones Unidas.
 
@@ -344,6 +344,8 @@ El patrimonio del Instituto está constituido por los bienes, derechos y obligac
 
 ### CAPITULO I. DEL CONSEJO DEL INSTITUTO
 
+> <small>(REFORMADO. G.O. 27 DE ENERO DE 2004)</small>
+
 ###### Artículo 51.
 
 Para el cumplimiento de sus fines corresponde al Instituto llevar a cabo las siguientes funciones:
@@ -390,7 +392,7 @@ II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afin
 
 III. Las personas que tengan litigios pendientes con el Instituto;
 
-IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o desempeñar el emplea, cargo o comisión en el servicio público, y
+IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o desempeñar el empleo, cargo o comisión en el servicio público, y
 
 V. Los Diputados Federales y Senadores, así como los Diputados Locales de la Asamblea Legislativa del Distrito Federal.
 
@@ -482,9 +484,13 @@ IV. Las demás que establezca la presente Ley.
 
 ###### Artículo 61.
 
-El Instituto debe contar con un Consejo de carácter consultivo, el cual tiene las siguientes atribuciones:
+El Instituto contará con un Consejo de carácter consultivo, el cual tiene las siguientes atribuciones:
 
-I. Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución de diagnósticos, planes, programas y proyectos que se impulsen para el logro de sus fines.
+I. Asesorar, proponer, opinar y apoyar al Instituto en la elaboración y ejecución de diagnósticos; y
+
+II. Vigilar el cumplimiento de las disposiciones establecidas en la presente Ley en términos de una efectiva ejecución del Plan Estratégico de Desarrollo Integral de la Juventud del Distrito Federal.
+
+> <small>(REFORMADO. G.O. 27 DE ENERO DE 2004)</small>
 
 ###### Artículo 62.
 
@@ -492,13 +498,13 @@ El Consejo está integrado de la siguiente forma:
 
 I. Por el Director o el Subdirector del Instituto, en su caso;
 
-II. Por tres diputados de la Comisión de la Juventud de la Asamblea;
+II. Por dos diputados de la Comisión de la Juventud de la Asamblea;
 
-III. Por tres representantes de las organizaciones no gubernamentales que tengan relación con la problemática juvenil;
+III. Por un representante de una organización no gubernamental que tenga estrecha vinculación con la problemática juvenil;
 
-IV. Por cinco representantes de organizaciones juveniles del Distrito Federal;
+IV. Por dos representantes de organizaciones juveniles del Distrito Federal; y
 
-V. Por dos representantes de los sectores económicos y productivos del Distrito Federal.
+V. Por un representante de los sectores económico y productivo del Distrito Federal, el cual tenga participación activa y directa en el desarrollo de programas para jóvenes.
 
 ###### Artículo 63.
 
@@ -583,3 +589,11 @@ TERCERO.- Publíquese en la Gaceta Oficial del Gobierno del Distrito Federal y e
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a 28 de abril de dos mil.- POR LA MESA DIRECTIVA, DIP. MARIA DE LOS ANGELES CORREA DE LUCIO, PRESIDENTA.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARIA.- FIRMAS.
 
 En cumplimiento de lo dispuesto por los artículos 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia de la Jefa de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de mayo de dos mil.- LA JEFA DE GOBIERNO DEL DISTRITO FEDERAL, ROSARIO ROBLES BERLANGA.- FIRMA.- EL SECRETARIO DE GOBIERNO, LEONEL GODOY RANGEL.- FIRMA.- LA SECRETARIA DE DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- FIRMA.- EL SECRETARIO DE SALUD, ARMANDO CORDERA PASTOR.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 27 DE ENERO DE 2004.
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO: La designación de los miembros del Consejo del Instituto, deberá tener lugar dentro de los 90 días naturales siguientes a la entrada en vigor del presente decreto.
