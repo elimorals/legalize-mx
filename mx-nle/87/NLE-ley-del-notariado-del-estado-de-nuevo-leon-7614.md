@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-notariado-del-estado-de-nuevo-leon-7614"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-26"
-last_updated: "1983-12-26"
+last_updated: "1997-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL NOTARIADO DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ENERO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de diciembre de 1983.
 
@@ -115,13 +115,17 @@ El Notario residirá en el Municipio que corresponda a su demarcación notarial.
 
 Los Notarios no serán remunerados por el Gobierno del Estado, sino que tendrán derecho de cobrar a los interesados, en cada caso, los honorarios correspondientes conforme a las reglas que señale el Arancel correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 1997)</small>
+
 ###### Artículo 18.
 
-Para obtener el nombramiento de Notario se requiere:
+Para obtener el nombramiento de notario se requiere:
 
 I.- Ser mexicano por nacimiento;
 
-II.- Haber cumplido veinticinco años de edad y no más de sesenta y cinco;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 1997)</small>
+
+II.- Haber cumplido veinticinco años de edad;
 
 III.- Residir en el Estado;
 
@@ -1166,3 +1170,9 @@ ALFONSO MARTINEZ DOMINGUEZ.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 GRACIANO BORTONI URTEAGA.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 20 DE ENERO DE 1997.
+
+UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
