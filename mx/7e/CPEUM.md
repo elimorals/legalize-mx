@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1962-11-21"
+last_updated: "1963-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE NOVIEMBRE DE 1962.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 1963.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -652,9 +652,21 @@ Se elegirá un diputado propietario por cada doscientos mil habitantes o por una
 
 Por cada diputado propietario, se elegirá un suplente.
 
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 1963)</small>
+
 ###### Art. 54.
 
-La elección de diputados será directa y en los términos que disponga la ley electoral.
+La elección de diputados será directa, con sujeción a lo dispuesto en el artículo 52 y se complementará, además, con diputados de partido, apegándose, en ambos casos, a lo que disponga la ley electoral y, en el segundo, a las reglas siguientes:
+
+I.- Todo Partido Político Nacional, al obtener el dos y medio por ciento de la votación total en el país en la elección respectiva, tendrá derecho a que se acrediten, de sus candidatos, a cinco diputados, y a uno más, hasta veinte como máximo, por cada medio por ciento más de los votos emitidos;
+
+II.- Si logra la mayoría en veinte o más distritos electorales, no tendrá derecho a que sean reconocidos diputados de partido, pero si triunfa en menor número, siempre que logre el dos y medio por ciento mencionado en la fracción anterior, tendrá derecho a que sean acreditados hasta veinte diputados, sumando los electos directamente y los que obtuvieron el triunfo por razón de porcentaje;
+
+III.- Estos serán acreditados por riguroso orden, de acuerdo con el porcentaje de sufragios que hayan logrado en relación a los demás candidatos del mismo partido, en todo el país;
+
+IV.- Solamente podrán acreditar diputados en los términos de este artículo, los Partidos Políticos Nacionales que hubieran obtenido su registro conforme a la Ley Electoral Federal, por lo menos con un año de anterioridad al día de la elección; y
+
+V.- Los diputados de mayoría y los de partido, siendo representantes de la nación como lo establece el artículo 51, tendrán la misma categoría e iguales derechos y obligaciones.
 
 ###### Art. 55.
 
@@ -731,6 +743,10 @@ Las Cámaras no pueden abrir sus sesiones ni ejercer su cargo sin la concurrenci
 Se entiende también que los diputados o senadores que falten diez días consecutivos, sin causa justificada o sin previa licencia del presidente de su respectiva Cámara, con la cual se dará conocimiento a ésta, renuncian a concurrir hasta el período inmediato, llamándose desde luego a los suplentes.
 
 Si no hubiese quórum para instalar cualquiera de las Cámaras o para que ejerzan sus funciones una vez instaladas, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, entre tanto transcurren los treinta días de que antes se habla.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 1963)</small>
+
+Incurrirán en responsabilidad, y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados o senadores, no se presenten, sin causa justificada a juicio de la Cámara respectiva, a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los Partidos Políticos Nacionales que habiendo postulado candidatos en una elección para diputados o senadores, acuerden que sus miembros que resultaren electos no se presenten a desempeñar sus funciones.
 
 ###### Art. 64.
 
@@ -1426,7 +1442,7 @@ Podrá también suplirse la deficiencia de la queja en materia penal y la de la 
 
 > <small>(ADICIONADO, D.O.F. 2 DE NOVIEMBRE DE 1962)</small>
 
-En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comuna.
+En los juicios de amparo en que se reclamen actos que tengan o puedan tener como consecuencia privar de la propiedad o de la posesión y disfrute de sus tierras, aguas pastos y montes a los ejidos y a los núcleos de población que de hecho o por derecho guarden el estado comunal, o a los ejidatarios y comuneros, deberá suplirse la deficiencia de la queja de acuerdo con lo que disponga la ley reglamentaria; y no procederán el desistimiento, el sobreseimiento por inactividad, ni la caducidad de la instancia, cuando se afecten derechos de los ejidos o núcleos de población comunal.
 
 III.- En materias judicial, civil o penal y del trabajo el amparo sólo procederá:
 
@@ -1498,7 +1514,7 @@ XIV.- Cuando el acto reclamado proceda de autoridades civiles o administrativas 
 
 XV.- El Procurador General de la República o el Agente del Ministerio Público Federal que al efecto designare, será parte en todos los juicios de amparo; pero podrán abstenerse de intervenir en dichos juicios, cuando el caso de que se trate carezca a su juicio, de interés público.
 
-XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda;.
+XVI.- Si concedido el amparo la autoridad responsable insistiere en la repetición del acto reclamado o tratare de eludir la sentencia de la autoridad federal, será inmediatamente separada de su cargo y consignada ante el Juez de Distrito que corresponda.
 
 XVII.- La autoridad responsable será consignada a la autoridad correspondiente, cuando no suspenda el acto reclamado debiendo hacerlo, y cuando admita fianza que resulte ilusoria o insuficiente, siendo en estos dos últimos casos, solidaria la responsabilidad civil de la autoridad con el que ofreciere la fianza y el que la prestare.
 
@@ -2485,3 +2501,7 @@ D.O.F. 21 DE NOVIEMBRE DE 1962.
 ###### ARTICULO UNICO.
 
 Esta Ley principiará a regir al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 22 DE JUNIO DE 1963.
+
+ARTICULO UNICO TRANSITORIO.- Las presentes adiciones y reformas entrarán en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
