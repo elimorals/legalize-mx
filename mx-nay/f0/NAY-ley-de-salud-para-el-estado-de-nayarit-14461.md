@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2000-11-08"
+last_updated: "2002-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2002.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -77,7 +77,7 @@ Son autoridades sanitarias estatales:
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
-I.- El Gobernador del Estado a través de la Secretaría de Salud;
+I.- El Gobernador del Estado, a través de la Secretaría de Salud;
 
 > <small>(REFORMADA P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -545,7 +545,7 @@ Las cuotas de recuperación que en su caso se recauden por la prestación de ser
 
 Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socio-económicas del usuario debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
 
-> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
+> <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000</small>
 
 Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
 
@@ -769,7 +769,7 @@ I.- El desarrollo de actividades educativos, socio-culturales y recreativas que 
 
 II.- La difusión de las orientaciones para la promoción de la salud mental;
 
-III.- La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, no deben causar alteraciones mentales o dependencias, y (sic9;
+III.- La realización de programas para prevención del uso de sustancias psicotrópicas, estupefacientes, inhalantes y otras sustancias, no deben causar alteraciones mentales o dependencias, y (sic);
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -2189,7 +2189,7 @@ Las autoridades judiciales o administrativas sólo admitirán como válidos los 
 
 ### CAPITULO IV. RECURSO DE INCONFORMIDAD
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2002)</small>
 
 ###### ARTICULO 257.
 
@@ -2551,85 +2551,51 @@ Cuando el contenido de un acta de verificación se desprenda la posible comisió
 
 ###### ARTICULO 304.
 
-Contra actos y resoluciones que dicten las autoridades sanitarias del Estado y de los Municipios que con motivo de la aplicación de esta ley dé fin a una instancia o resuelva en definitiva un expediente, los interesados podrán interponer el Recurso de Inconformidad.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+Contra las resoluciones y actos administrativos de las autoridades que contravengan lo previsto en este ordenamiento, podrá interponerse el recurso administrativo de inconformidad o el juicio ante el Tribunal de Justicia Administrativa, en términos de la Ley de Justicia y Procedimientos Administrativos del Estado de Nayarit.
 
 ###### ARTICULO 305.
 
-El plazo para interponer el recurso de inconformidad será de cinco días hábiles, contados a partir del día siguiente a aquél en que se hubiere notificado la resolución o acto a que se recurre.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 306.
 
-El recurso se interpondrá ante la unidad administrativa que hubiere dictado la resolución o acto combatido.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 307.
 
-En el escrito se precisará el nombre y domicilio de quien promueva los hechos objetos del recurso, la fecha en que, bajo protesta de decir verdad, manifiesta el recurrente, que tuvo conocimiento de la resolución, o acto impugnado la mención de la autoridad que dicta la resolución, ordenando o ejecutando el acto, ordenando el desahogo de las pruebas que por causa no imputable al infractor no hayan podido efectuarse ante dicha autoridad o sean supervenientes además de señalar domicilio para recibir notificaciones, en caso contrario de practicarán las mismas aún las de carácter personal por conducto de lista o cédula que se fije en los estrados de la Secretaría.
-
-I.- Los que acrediten la personalidad del promovente, siempre que no sea el directamente afectado y cuando dicha personalidad no hubiera sido reconocido con anterioridad por la autoridad sanitaria competente, en la instancia o expediente que concluyó con la resolución impugnada;
-
-II.- Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado, y
-
-III.- Original de la resolución impugnada, en su caso.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 308.
 
-En la substanciación del recurso sólo procederán las pruebas que se hayan ofrecido en el expediente que concluyó con la resolución o acto impugnado y las supervenientes; excepto la confesional.
-
-La audiencia de desahogo de pruebas se celebrará concurran o no las partes, testigos y peritos siempre que hayan sido notificados debidamente.
-
-Celebrada la audiencia de desahogo de pruebas la autoridad sanitaria resolverá el recurso de inconformidad dentro de 5 días hábiles posteriores a la celebración de la audiencia.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 309.
 
-Al recibir el recurso, la unidad respectiva verificará si éste es procedente, y si fue interpuesto en tiempo debe admitirlo o, en su caso proceder a su desechamiento.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 310.
 
-Las pruebas ofrecidas que procedan se admitirán por el área competente que deben continuar el trámite del recurso y para su desahogo, en su caso, se dispondrá de un término de 30 días hábiles, contados a partir de la fecha en que hayan sido admitidas.
-
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 311.
 
-En el caso de que el recurso fuere admitido, la unidad respectiva, sin resolver en lo relativo a la admisión de las pruebas que se ofrezcan, de inmediato remitirá el recurso y el expediente que contenga los antecedentes del caso, al área competente de la autoridad sanitaria que corresponda y que debe continuar el trámite del recurso.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 312.
 
-El titular del Poder Ejecutivo del Estado y los titulares del ayuntamiento, en el ámbito de su competencia, resolverá los recursos que se interpongan de conformidad con esta ley, y al efecto, podrá confirmar, modificar o revocar el acto o resolución que se haya combatido.
-
-Dichas autoridades, en uso de las facultades que les confiere la legislación aplicable, podrán delegar dicha atribución, debiéndose publicar en acuerdo respectivo en el Periódico Oficial Órgano del gobierno del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 313.
 
-A solicitud de los particulares que se consideren afectados por alguna resolución o acto de las autoridades sanitarias, estas los orientará sobre el derecho que tienen que recurrir la resolución o acto de que se trate, y sobre la tramitación del recurso.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 314.
 
-La interposición del recurso suspenderá la ejecución de las sanciones pecuniarias, si el infractor garantiza el interés fiscal.
-
-Tratándose de otro tipo de actos o resoluciones, la interposición del recurso suspenderá su ejecución siempre y cuando se satisfagan los siguientes requisitos:
-
-I.- Que lo solicite el recurrente;
-
-II.- Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público, y
-
-III.- Que fueren de difícil reparación por daños y perjuicios que se causen al recurrente, con la ejecución del acto o resolución combatida.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 315.
 
-En la tramitación de recurso de Inconformidad, se aplicará supletoriamente el código de procedimientos civiles del Estado.
+(DEROGADO POR ARTICULO SEGUNDO DEL DECRETO QUE APRUEBA LA LEY DE JUSTICIA Y PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE NAYARIT, P.O. 17 DE AGOSTO DE 2002)
 
 ###### ARTICULO 316.
 
@@ -2710,3 +2676,31 @@ C.P. Antonio Echevarría Domínguez.
 P.O. 8 DE NOVIEMBRE DE 2000
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 17 DE AGOSTO DE 2002
+
+Primero.- El presente decreto entrará en vigor a los cuarenta y cinco días siguientes al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, con excepción del Título Cuarto del ARTICULO PRIMERO de este decreto, el cual entrará en vigor el primer día del mes de enero del año 2003.
+
+El artículo 71 a que se refiere el ARTICULO PRIMERO del presente decreto, iniciará su vigencia el primero de enero del año 2003, a fin de que tanto el Poder Ejecutivo del estado como los Ayuntamientos expidan, antes de esta fecha, sus correspondientes reglamentos para el cobro y aplicación de gastos de ejecución, de conformidad con lo establecido en dicho artículo.
+
+Segundo.- El Gobernador dentro de los quince días siguientes a la entrada en vigor del presente decreto, en los términos a que se hace referencia el artículo 135 de la Ley de Justicia y Procedimientos Administrativos, someterá a la consideración del Congreso la lista de candidatos a magistrados, a fin de que el Congreso proceda a su designación.
+
+Tercero.- Los magistrados del Tribunal de Justicia Administrativa del Estado de Nayarit a más tardar el día quince del mes de noviembre del año 2002 preverán lo conducente a efecto de elegir a su presidente; preparar el proyecto de presupuesto que habrán de remitir al titular del Poder Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; elaborar y aprobar su reglamento interior; convocar a los procesos de selección y contratación del demás personal; aprobar el calendario laboral del Tribunal y, prevenir todo lo conducente para el inicio de su funcionamiento.
+
+En todo caso, la primera sesión de la sala del Tribunal de Justicia Administrativa del estado de Nayarit se llevará a cabo el día dos de enero del año 2003, en la cual se habrán de ratificar sus acuerdos previos.
+
+El Reglamento Interior y el calendario laboral del Tribunal de Justicia Administrativa del Estado de Nayarit, una vez aprobados por los magistrados, deberán publicarse debiendo iniciar su vigencia el día primero (sic) del año 2003.
+
+Cuarto.- El Gobernador del Estado por conducto de la Secretaría de Finanzas proverá lo necesario en cuanto a recursos financieros y materiales para el inicio del funcionamiento del Tribunal de Justicia Administrativa del Estado de Nayarit, en tanto se integra el presupuesto de éste, en el Presupuesto de Egresos del Estado.
+
+Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
+
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el (sic) artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+
+Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
+
+Igualmente, en un plazo no mayor de 120 días contados a partir de la entrada en vigor de esta resolución, adecuarán sus reglamentos y demás ordenamientos a fin de que sean acordes a lo establecido por el mismo.
+
+Séptimo.- El Congreso del Estado, en coordinación con el Poder Ejecutivo y los Ayuntamientos del estado, dispondrán los recursos humanos y financieros para que a partir de la publicación de este decreto, su contenido se difunda ampliamente entre los servidores públicos estatales y municipales, así como entre la población en general de toda la entidad.
+
+En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por conducto del Periódico Oficial de al menos 2000 ejemplares para que se difundan entre todas las dependencias de la administración pública estatal, los Ayuntamientos y la población en general.
