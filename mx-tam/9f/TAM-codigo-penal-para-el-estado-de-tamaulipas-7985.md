@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "1988-06-22"
+last_updated: "1993-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MARZO DE 1993.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -383,7 +383,9 @@ La prisión consiste en la privación temporal de la libertad, durante un lapso 
 
 La sanción pecuniaria comprende la multa y la reparación del daño, y será considerada como pena pública.
 
-La multa consiste en el pago que se haga al Estado de una suma de dinero y será determinada por los tribunales judiciales. Se fijará por días de salario, desde uno hasta doscientos, sin que pueda exceder de esta última cantidad. Su importe se calculará teniendo como base el salario mínimo general en la capital del Estado y en la fecha de consumación del delito.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
+La multa consiste en el pago que se haga al Estado de una suma de dinero y será determinada por los tribunales judiciales. Se fijará por días de salario, desde uno hasta cuatrocientos, sin que pueda exceder de esta última cantidad. Su importe se calculará teniendo como base el salario mínimo general en la capital del Estado y en la fecha de consumación del delito.
 
 La reparación del daño comprende:
 
@@ -409,7 +411,9 @@ II.- La que por sentencia se impone como sanción.
 
 En el primer caso, la inhabilitación y suspensión de derechos comienza y concluye con la sanción de que es consecuencia.
 
-En el segundo caso, si se impone con otra sanción privativa de la libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia, sin que pueda ser mayor de seis años.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
+En el segundo caso, si se impone con otra sanción privativa de la libertad, comenzará al terminar ésta y su duración será la señalada en la sentencia.
 
 ###### ARTICULO 49.
 
@@ -763,7 +767,7 @@ Las medidas de vigilancia definidas en el segundo párrafo del artículo 68, deb
 
 ###### ARTICULO 108.
 
-Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán, a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la de multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
+Los jueces, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán, a su prudente arbitrio, conmutar en la sentencia la pena de prisión, cuando ésta no exceda de dos años, por la multa que no podrá ser menor de veinte ni mayor de doscientos días de salario, según las condiciones económicas del delincuente y las circunstancias que antes se mencionan. En este caso quedará a elección del sentenciado compurgar la pena corporal o pagar la multa impuesta.
 
 ###### ARTICULO 109.
 
@@ -859,7 +863,7 @@ El perdón otorgado beneficia a los autores, partícipes y encubridores.
 
 ###### ARTICULO 117.
 
-El indulto sólo podrán concederse por el Ejecutivo del Estado, cuando haya sanción impuesta en sentencia firme.
+El indulto sólo podrá concederse por el Ejecutivo del Estado, cuando haya sanción impuesta en sentencia firme.
 
 ###### ARTICULO 118.
 
@@ -1257,7 +1261,7 @@ El que sin excusa legal se niegue a comparecer ante la autoridad o dar una decla
 
 ###### ARTICULO 181.
 
-Se impondrá sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, al que empleando la fuerza, el amago, la amenaza, o el engaño se oponga a que la autoridad o sus agentes ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo cuya ejecución se realice en forma legal.
+Se impondrá sanción de uno a dos años de prisión y multa de treinta a cuarenta días salario, al que empleando la fuerza, el amago, la amenaza, o el engaño se oponga a que la autoridad o sus agente ejerzan alguna de sus funciones o resista el cumplimiento de un mandato legítimo cuya ejecución se realice en forma legal.
 
 ###### ARTICULO 182.
 
@@ -1307,11 +1311,13 @@ Se aplicarán las sanciones de seis meses a tres años de prisión y multa de qu
 
 ### CAPITULO III. ABUSO DE AUTORIDAD
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
+
 ## TITULO QUINTO. DELITOS CONTRA LA MORAL PUBLICA
 
 ### CAPITULO IV. DE LA TORTURA
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 190.
 
@@ -1383,7 +1389,7 @@ III.- El que regentee, administre o sostenga prostíbulos, casas de cita o lugar
 
 ###### ARTICULO 200.
 
-Al responsable del delito de lenocinio se le impondrá una sanción de seis meses a ocho años de prisión y multa de quince a cien días de salario. Si el responsable del delito de lenocinio realiza su conducta con un menor de dieciséis años de edad, o por conducto de éste, la sanción será de dos a diez años de prisión y multa de treinta a ciento veinte días salario.
+Al responsable del delito de lenocinio se le impondrá una sanción de seis meses a ocho años de prisión y multa de quince a cien días salario. Si el responsable del delito de lenocinio realiza su conducta con un menor de dieciséis años de edad, o por conducto de éste, la sanción será de dos a diez años de prisión y multa de treinta a ciento veinte días salario.
 
 ###### ARTICULO 201.
 
@@ -1429,7 +1435,7 @@ Al responsable del delito de revelación de secretos se le impondrá una sanció
 
 ###### ARTICULO 207.
 
-Cuando la revelación punible sea hecha por personas que preste servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de uno a cinco años de prisión y multa de treinta a setenta días salario, y en su caso, suspensión de profesión o inhabilitación de dos meses a un año.
+Cuando la revelación punible sea hecha por personas que presten servicios profesionales o técnicos, o cuando el secreto revelado o publicado sea de carácter industrial, la sanción será de uno a cinco años de prisión y multa de treinta a setenta días salario, y en su caso, suspensión de profesión o inhabilitación de dos meses a un año.
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -1469,15 +1475,17 @@ IV.- El que ejerza funciones que no le corresponden por su empleo, cargo o comis
 
 Comete el delito de abandono de funciones públicas el que sin habérsele admitido la renuncia de su comisión, empleo o cargo lo abandone sin causa justificada.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 211.
 
-A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de tres días a un año de prisión y multa de treinta a doscientos días salario y destitución en su caso, e inhabilitación de un mes a dos años para desempeñar un empleo, cargo o comisión pública.
+A los responsables de los delitos previstos en este capítulo, se les impondrá una sanción de dos a seis años de prisión y multa de cien a cuatrocientos días de salario y destitución en su caso, e inhabilitación de tres a seis años para desempeñar un empleo, cargo o comisión públicos.
 
 ### CAPITULO I. RESPONSABILIDAD MEDICA, TECNICA Y ADMINISTRATIVA
 
 ###### ARTICULO 212.
 
-Al responsable del delito de abuso de autoridad se le impondrá una sanción de uno a ocho años de prisión, multa de treinta a doscientos días salario, destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
+Al responsable del delito de abuso de autoridad se le impondrá una sanción de dos a nueve años de prisión, multa de cien a cuatrocientos días de salario, destitución e inhabilitación de uno a ocho años para desempeñar otro empleo, cargo o comisión públicos.
 
 Iguales sanciones se impondrán a las personas que acepten los nombramientos, contrataciones o identificaciones a que se refieren las fracciones IX, X y XI de este artículo.
 
@@ -1509,7 +1517,11 @@ XI.- Otorgue cualquier identificación en que se acredite como servidor público
 
 ###### ARTICULO 213.
 
-Se sancionará con una pena de tres a ocho años de prisión, destitución del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión pública, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
+Se sancionará con una pena de tres a doce años de prisión, multa de doscientos a cuatrocientos días de salario, destitución del cargo e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión pública, al servidor público que ordene, consienta o aplique intencionalmente a una persona golpes, azotes, quemaduras, mutilaciones o cualquier otro tipo de violencia física o moral con el objeto de obtener de ella o de un tercero información, confesión de culpabilidad o cualquier otra conducta que dañe al pasivo o beneficie al servidor o a un tercero.
+
+Las mismas penas previstas en este Artículo se aplicarán al servidor público que, con motivo del ejercicio de su cargo, instigue, compela o a un tercero o se sirva de él para infligir a una persona dolores o sufrimientos graves, sean físicos o psíquicos; o no evite que se inflijan dichos dolores o sufrimientos a una persona que esté bajo su custodia.
+
+Se aplicarán las mismas penas al tercero que, con cualquier finalidad, instigado o autorizado, explícita o implícitamente, por un servidor público, inflija dolores o sufrimientos graves sean físicos o psíquicos a un detenido.
 
 ### CAPITULO I. FALSIFICACION Y CIRCULACION DE TITULOS Y DOCUMENTOS DE CREDITO PUBLICO
 
@@ -1517,11 +1529,15 @@ Se sancionará con una pena de tres a ocho años de prisión, destitución del c
 
 Cometen el delito de coalición de servidores públicos los que teniendo tal carácter se confabulen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución, o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas. No cometen este delito los trabajadores que se coaliguen en ejercicio de sus derechos constitucionales o que hagan uso del derecho de huelga.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 215.
 
-A los que cometan el delito de coalición a que se refiere el artículo anterior, se les impondrá una sanción de dos a siete años de prisión y multa de treinta a doscientos días salario y destitución e inhabilitación de dos a siete años para desempeñar otro empleo, cargo o comisión públicos.
+A los que cometan el delito de coalición a que se refiere el Artículo anterior, se les impondrá una sanción de dos a ocho años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a nueve años para desempeñar otro empleo, cargo o comisión públicos.
 
-### CAPITULO II. FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS
+### CAPITULO II
+
+FALSIFICACION Y USO DE SELLOS, LLAVES, PUNZONES, MATRICES, MARCAS, SEÑALES, PLANCHAS, CONTRASEÑAS Y FIERROS.
 
 ###### ARTICULO 216.
 
@@ -1535,9 +1551,13 @@ II.- El que de manera espontánea dé u ofrezca dinero o cualquier otra dádiva 
 
 Al responsable del delito de cohecho se le sancionará en la forma siguiente:
 
-I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de quinientos días salario, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientos días salario, se impondrán de dos a catorce años de prisión, multa de cien a doscientos días salario y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+I.- Cuando la cantidad o el valor de la dádiva o promesa no exceda de quinientos días salario, o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días de salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+II.- Cuando la cantidad o el valor de la dádiva, promesa o prestación exceda de quinientos días de salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 En ningún caso se devolverá a los responsables del delito de cohecho el dinero o dádivas entregadas, mismos que se aplicarán en beneficio del Estado.
 
@@ -1559,9 +1579,13 @@ IV.- Cualquier persona que sin tener el carácter de servidor público y estando
 
 Al responsable del delito de peculado se le impondrán las siguientes sanciones:
 
-I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de quinientos días salario, o no sea valuable, se impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de quinientos días salario se impondrán de dos a catorce años de prisión, multa de cien a doscientos días salario y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+I.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente no exceda de quinientos días salario o no sea valuable, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+II.- Cuando el monto de lo distraído o de los fondos utilizados indebidamente excedan de quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO IV. FALSEDAD EN DECLARACIONES Y EN INFORMES DADOS A UNA AUTORIDAD
 
@@ -1573,9 +1597,13 @@ Comete el delito de concusión el servidor público que con el carácter de tal 
 
 Al responsable del delito de concusión se le impondrán las siguientes sanciones:
 
-I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días salario o no sea valuable, se le impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos; y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días salario, se impondrán de dos a doce años de prisión, multa de cien a doscientos días salario y destitución e inhabilitación de dos a doce años para desempeñar otro empleo, cargo o comisión públicos.
+I.- Cuando la cantidad o el valor de lo exigido indebidamente no exceda del equivalente de quinientos días salario o no sea valuable, se le impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos, y
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+II.- Cuando la cantidad o el valor de lo exigido indebidamente exceda de quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO V. VARIACION DEL NOMBRE O DEL DOMICILIO
 
@@ -1593,7 +1621,7 @@ c).- Otorgue franquicias, exenciones, deducciones o subsidios sobre impuestos, d
 
 d).- Otorgue, realice o contrate obras públicas, deuda, adquisiciones, arrendamientos, enajenaciones de bienes o servicios o colocaciones de fondos y valores con recursos económicos públicos;
 
-II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hace referencia la fracción anterior o sea parte en las mismas; y
+II.- Toda persona que solicite o promueva la realización, el otorgamiento o la contratación indebidos de las operaciones a que hace referencia la fracción anterior o sea parte en las mismas, y
 
 III.- El servidor público que teniendo a su cargo fondos públicos, les dé a sabiendas, una aplicación pública distinta de aquella a que estuvieren destinados o hiciere un pago ilegal.
 
@@ -1601,9 +1629,13 @@ III.- El servidor público que teniendo a su cargo fondos públicos, les dé a s
 
 Al responsable del delito de uso indebido de atribuciones y facultades, se le impondrán las siguientes sanciones:
 
-I.- Cuando el monto a que asciendan las operaciones a que hace referencia este artículo no exceda del equivalente de quinientos días salario, se impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando el monto a que asciendan las operaciones a que hace referencia este artículo, exceda del equivalente a quinientos días salario, se impondrán de dos a doce años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de dos a diez años para desempeñar otro empleo, cargo o comisión públicos.
+I.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo no exceda del equivalente de quinientos días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+II.- Cuando el monto a que asciendan las operaciones a que hace referencia este Artículo, exceda del equivalente a quinientos días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO VI. USURPACION DE FUNCIONES PUBLICAS O DE PROFESION
 
@@ -1615,9 +1647,11 @@ I.- El servidor público que por sí o por interpósita persona, utilizando la v
 
 II.- El servidor público que con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 225.
 
-Al responsable del delito de intimidación se le impondrá una sanción de dos a nueve años de prisión, multa por un monto de cien a doscientos días salario, destitución e inhabilitación de dos a nueve años para desempeñar otro empleo, cargo o comisión públicos.
+Al responsable del delito de intimidación se le impondrá una sanción de dos a nueve años de prisión, multa de doscientos a cuatrocientos días salario, destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión.
 
 ### CAPITULO VII. USO INDEBIDO DE UNIFORMES, INSIGNIAS, DISTINTIVOS O CONDECORACIONES
 
@@ -1635,17 +1669,17 @@ III.- El servidor público que por sí o por interpósita persona, sustraiga, de
 
 Al responsable del delito de ejercicio abusivo de funciones se le impondrán las siguientes sanciones:
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este artículo no exceda de mil días salario, se impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos;
+I.- Cuando la cuantía a que asciendan las operaciones a que hace referencia este Artículo no exceda de mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión pública;
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-II.- Cuando la cuantía de las operaciones exceda de mil pero no de dos mil quinientos días de salario, se impondrán de dos a seis años de prisión, multa de setenta a doscientos días de salario y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión pública;
+II.- Cuando la cuantía de las operaciones exceda de mil pero no de tres mil días salario, se impondrán de seis a nueve años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a doce años para desempeñar otro empleo, cargo o comisión pública;
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-III.- Cuando la cuantía a que asciendan las operaciones exceda de dos mil quinientos días de salario, se impondrán de seis a doce años de prisión, multa de cien a doscientos días de salario y destitución e inhabilitación de seis a doce años para desempeñar otro empleo, cargo o comisión pública.
+III.- Cuando la cuantía a que asciendan las operaciones excedan a tres mil días de salario, se impondrán de nueve a doce años de prisión, multa de trescientos a cuatrocientos días salario y destitución e inhabilitación de ocho a catorce años para desempeñar otro empleo, cargo o comisión pública.
 
 ### CAPITULO VIII. DISPOSICION COMUN A LOS CAPITULOS PRECEDENTES
 
@@ -1659,9 +1693,11 @@ II.- Cualquier persona que promueva la conducta ilícita del servidor público o
 
 III.- El servidor público que por sí o por interpósita persona, indebidamente solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la fracción I del artículo 226 de este Código.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 229.
 
-Al responsable del delito de tráfico de influencia se le impondrá sanción de dos a seis años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
+Al responsable del delito de tráfico de influencia se le impondrá sanción de dos a ocho años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
 ### CAPITULO I. IMPUDICIA
 
@@ -1677,9 +1713,13 @@ Al responsable del delito de enriquecimiento ilícito se le impondrán las sigui
 
 I.- Decomiso en beneficio del Estado de aquellos bienes cuya procedencia no se logre acreditar de acuerdo con la Ley de Responsabilidades de los Servidores Públicos;
 
-II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de cinco mil días salario, se impondrán de tres meses a dos años de prisión, multa de treinta a doscientos días salario y destitución e inhabilitación de tres meses a dos años para desempeñar otro empleo, cargo o comisión públicos;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
 
-III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de cinco mil días salario, se impondrán de dos a catorce años de prisión, multa de cien a doscientos días salario y destitución e inhabilitación de dos a catorce años para desempeñar otro empleo, cargo o comisión públicos.
+II.- Cuando el monto a que ascienda el enriquecimiento ilícito no exceda de cinco mil días salario, se impondrán de dos a seis años de prisión, multa de cien a cuatrocientos días salario y destitución e inhabilitación de tres a seis años para desempeñar otro empleo, cargo o comisión públicos;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+III.- Cuando el monto a que ascienda el enriquecimiento ilícito exceda de cinco mil días salario, se impondrán de seis a catorce años de prisión, multa de doscientos a cuatrocientos días salario y destitución e inhabilitación de seis a catorce años para desempeñar otro empleo, cargo o comisión públicos.
 
 ## TITULO NOVENO. DELITOS COMETIDOS EN EL DESEMPEÑO DE FUNCIONES JUDICIALES O ADMINISTRATIVAS
 
@@ -2891,17 +2931,23 @@ Al responsable del apoderamiento o destrucción de expedientes o cualquier pieza
 
 Cuando el apoderamiento se cometa en despoblado recayendo sobre algún instrumento de labranza, maquinaria, del alambre, postes, materiales, materias primas, fruto recolectado o pendiente de recolectar, la pena se agravará hasta en una mitad más de la señalada en el artículo 402 fracciones I, II y III, según el valor de lo robado.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 1993)</small>
+
 ###### ARTICULO 410.
 
-El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402 se sancionará con prisión de un mes a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar, o vacuno, y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
+El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de uno a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar o vacuno y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MARZO DE 1993)</small>
 
 ###### ARTICULO 411.
 
-Se impondrá sanción de dos a ocho años de prisión y multa de cincuenta a cien días salario en los siguientes casos:
+Se impondrá sanción de tres a ocho años de prisión y multa de cien a trescientos días salario en los siguientes casos:
 
 I.- El hecho de herrar, señalar o marcar animales, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia; alterar o eliminar los fierros, marcas o señales que sirvan para acreditar la propiedad del ganado;
 
-II.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, o parte de ellos, de las especies mencionadas en el artículo 410, que resulten robadas, conociendo el activo esa circunstancia;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
+
+II.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, o parte de ellos, de las especies mencionadas en el Artículo 410, que resulten robadas, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia.
 
 III.- Las autoridades o a quienes intervengan en la legalización de documentos con el objeto de acreditar la propiedad de uno o varios semovientes, si no tomaren las medidas indispensables para cerciorarse de la procedencia legítima del animal;
 
@@ -3176,3 +3222,9 @@ P.O. 22 DE JUNIO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor treinta días después al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 1993.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
