@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-sobre-adquisiciones-enajenaciones-arrendamientos-354
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-26"
-last_updated: "2003-11-26"
+last_updated: "2003-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35445&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO SOBRE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y PRESTACION DE SERVICIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 de noviembre de 2003.
 
@@ -69,6 +69,10 @@ El cumplimiento y aplicación de las disposiciones de este Reglamento, quedará 
 
 La vigilancia en el cumplimiento de los preceptos normativos del presente Reglamento, quedará a cargo del Consejo Estatal Electoral y de la Comisión de Administración y Financiamiento del IEE, en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2003)</small>
+
+Todas las quejas, denuncias o inconformidades que se presenten en contra de los actos del Comité, serán turnadas a la Comisión de Administración y Financiamiento del IEE, quien analizará y resolverá en su caso lo conducente. Cuando el acto que se reclame sea relativo al fallo de una licitación, concurso o subasta, o a la adjudicación de un contrato hacia determinada persona, será el Consejo Estatal Electoral quien deberá emitir la resolución correspondiente.
+
 ###### ARTÍCULO 5.
 
 La Dirección Ejecutiva de Administración y Financiamiento del Instituto Estatal Electoral, deberán cumplir con las siguientes obligaciones, sin perjuicio de las atribuciones legales que le confiere el Código Electoral:
@@ -85,9 +89,11 @@ V. Aplicar los procedimientos que establezca el Instituto Estatal Electoral para
 
 VI. Dar cumplimiento a las resoluciones y normas que conforme al presente Reglamento emita el Comité.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 6.
 
-Los diferentes órganos del Instituto Estatal Electoral deberán de abstenerse de formalizar pedidos y contratos por cuenta propia, así como hacer modificaciones que se refieran a precios, anticipos, pagos, especificaciones y en general cualquier cambio que implique otorgar condiciones más ventajosas a las establecidas originalmente, si no existe previamente autorización otorgada por el Comité y la Dirección Ejecutiva de Administración y Financiamiento.
+Los diferentes órganos del Instituto Estatal Electoral deberán de abstenerse de formalizar pedidos y contratos por cuenta propia, así como hacer modificaciones que se refieran a precios, anticipos, pagos, especificaciones y en general cualquier cambio que implique otorgar condiciones ventajosas a las establecidas originalmente.
 
 ###### ARTÍCULO 7.
 
@@ -321,9 +327,11 @@ Las adquisiciones, arrendamientos, y prestaciones de servicios se adjudicarán o
 
 Para determinar el procedimiento de adjudicación de los contratos de adquisiciones, arrendamientos, y prestaciones de servicios, el Comité en su instauración y al inicio de cada ejercicio, determinará conforme al presupuesto anual del Instituto Estatal Electoral, los montos para cada una de las modalidades, a que refiere el art. 18 en su fracción V.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 30.
 
-Excepcionalmente y por acuerdo expreso del Comité, podrán realizarse adquisiciones y contratar arrendamientos y servicios, sin llevar la obtención de cotizaciones mínimas a que se refiere el artículo 18 fracción V, concursos o licitaciones públicas, en los siguientes casos específicos:
+Excepcionalmente y por acuerdo expreso del Comité, podrán realizarse adquisiciones y contratar arrendamientos y servicios, sin llevar la obtención de cotizaciones mínimas a que se refiere el artículo 18 fracción V, concursos o licitaciones publicas, en los siguientes casos específicos:
 
 I. Que el contrato solo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor u otros derechos exclusivos.
 
@@ -337,9 +345,13 @@ V. Si se hubiere rescindido el contrato respectivo por causas imputables al prov
 
 VI. Cuando los concursos o licitaciones se declaren desiertos en primera y segunda convocatoria, o que en ambas no se hubiesen recibido proposiciones solventes.
 
-VII. Existan razones justificadas para la adquisición y arrendamiento de bienes de marca o características determinadas.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
-VIII. Se trate de adquisiciones de bienes perecederos y servicios con características específicas que requiera el IEE.
+VII. Existan Razones justificadas para adquirir, arrendar o contratar bienes y servicios de marca o características específicas que requiera el IEE.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
+VIII. Se trate de adquisiciones de bienes perecederos.
 
 IX. Se trate de servicios de consultoría cuya difusión pudiera afectar el interés público o comprometer información de naturaleza confidencial del Instituto Estatal Electoral.
 
@@ -497,13 +509,23 @@ El Comité emitirá un dictamen que servirá como base para el fallo, en el que 
 
 En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en el acto de presentación y apertura de proposiciones, levantándose el acta respectiva que firmarán los asistentes, a quienes se entregará copia de la misma.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 41.
 
-Se procederá a declarar desierta una licitación cuando las propuestas presentadas no reúnan los requisitos de las bases de la licitación o sus precios no fueren aceptables, y en estos casos el Comité podrá autorizar la expedición de una segunda convocatoria o bien la adjudicación directa del contrato que se requiera, siempre y cuando este último supuesto se encuentre planamente (sic) justificado por razones de extrema necesidad o urgencia.
+Se procederá a declarar desierta una licitación en los siguientes casos:
 
-Tratándose de licitaciones en las que una o varias partidas se declaren desiertas, se podrá proceder solo respecto a esas partidas, a celebrar una nueva licitación o bien un procedimiento de invitación a cuando menos tres personas o de adjudicación directa, según corresponda de acuerdo al monto o por acuerdo expreso del Comité en el que se justifiquen plenamente las causas de su determinación.
+A. Cuando ningún proveedor solicite o recoja las bases.
 
-Se podrá cancelar una licitación cuando existan causas de fuerza mayor o caso fortuito que impidan su realización. De igual manera se podrá cancelar cuando existan circunstancias, debidamente justificadas, que provoquen la extinción de la necesidad para adquirir o arrendar los bienes o contratar la prestación de servicios, y que de continuarse con el procedimiento de contratación se pudiera ocasionar un daño o perjuicio al Instituto.
+B. Si no se inscribe cuando menos un participante en el acto de registro de licitantes.
+
+C. Si las propuestas presentadas no reúnen los requisitos de las bases de la licitación.
+
+D. Si las ofertas presentadas no fueren aceptables para el IEE.
+
+E. Cuando ninguna de las propuestas ofrezca las condiciones disponibles en cuanto a precio, calidad, oportunidad y demás características requeridas por el IEE.
+
+En estos casos el Comité podrá autorizar la expedición de una segunda convocatoria o bien la adjudicación directa del contrato que se requiera, siempre y cuando este último supuesto se encuentre plenamente justificado por razones de extrema necesidad o urgencia.
 
 ### CAPÍTULO III. CONCURSO POR INVITACIÓN A CUANDO MENOS TRES PERSONAS
 
@@ -681,7 +703,7 @@ III. La determinación de dar o no por rescindido el contrato deberá ser debida
 
 IV. Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general, o bien, cuando por causas justificadas se extinga la necesidad de requerir los bienes o servicios originalmente contratados, y se demuestre que de continuar con el cumplimiento de las obligaciones pactadas, se ocasionaría algún daño o perjuicio al patrimonio del Instituto Estatal Electoral. En estos supuestos el IEE reembolsará al proveedor los gastos no recuperables en que haya incurrido, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con el contrato correspondiente.
 
-V. Las resoluciones que emita el Comité no serán recurribles.
+V. (REFORMADA [N. DE E. DEROGADA], P.O. 10 DE DICIEMBRE DE 2003)
 
 ## TÍTULO SEXTO. DE LA ENAJENACIÓN DE BIENES MUEBLES
 
@@ -840,3 +862,19 @@ C. JESSICA MARÍA GUADALUPE ORTEGA DE LA CRUZ
 CONVERGENCIA
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE DICIEMBRE DE 2003.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+Primero.- Es competente para emitir el presente acuerdo en términos de lo expuesto en el considerando primero del mismo.
+
+Segundo.- Se aprueban las reformas a los artículos 6, 30 fracciones VII y VIII, 41 primer párrafo y 55 del Reglamento sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para el Instituto Estatal Electoral, en los términos que quedaron precisados en el considerando segundo del presente acuerdo.
+
+Tercero.- Las reformas al citado reglamento, entrarán en vigor a partir de la presente fecha, quedando sin efecto legal alguno el texto anterior de los artículos 6, 30 fracciones VII y VIII, 41 primer párrafo y 55 fracción V de la normatividad aludida.
+
+Cuarto.- Publíquese el presente acuerdo en el Periódico Oficial denominado "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+Quinto.- Agréguese al Reglamento sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios para el Instituto Estatal Electoral, el artículo transitorio que corresponda con motivo de las reformas a los artículos que quedaron precisados en el cuerpo del presente acuerdo.
