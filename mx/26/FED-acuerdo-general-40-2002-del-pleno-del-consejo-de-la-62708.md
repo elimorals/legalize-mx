@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-40-2002-del-pleno-del-consejo-de-la-62708"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-08-15"
-last_updated: "2002-08-15"
+last_updated: "2002-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62708&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-08-05"
 
 ACUERDO GENERAL 40/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL CAMBIO DE RESIDENCIA Y DOMICILIO DEL TERCER TRIBUNAL UNITARIO DEL DECIMOSEPTIMO CIRCUITO, CON SEDE EN CHIHUAHUA, A JUAREZ, CHIHUAHUA; A LA NUEVA JURISDICCION TERRITORIAL DEL MENCIONADO TRIBUNAL UNITARIO; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL MENCIONADO CIRCUITO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE DICIEMBRE DE 2002.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 15 de agosto de 2002.
 
@@ -81,6 +81,8 @@ DECIMOPRIMERO.- A partir del diecinueve de agosto de dos mil dos, los Tribunales
 
 Desde esa fecha, los asuntos nuevos que se presenten en dicha oficina, serán del conocimiento del Tercer Tribunal Unitario del Decimoséptimo Circuito, con excepción de aquellos asuntos que tengan relación con los que se encuentran en trámite en el Cuarto Tribunal Unitario del propio Circuito, en cuyo caso se turnarán al mencionado órgano jurisdiccional federal, con el propósito de evitar el pronunciamiento de resoluciones contradictorias; y las demás excepciones que procedan conforme a lo dispuesto en el Acuerdo General 23/2002, del Pleno del Consejo de la Judicatura Federal.
 
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 52/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 18 DE NOVIEMBRE DE 2002, SE PRORROGA EL PLAZO DE EXCLUSION SEÑALADO EN EL PRESENTE PUNTO, COMPRENDIENDO DEL 18 DE NOVIEMBRE AL 17 DE DICIEMBRE DE 2002.</small>
+
 DECIMOSEGUNDO.- El Cuarto Tribunal Unitario del Decimoséptimo Circuito quedará excluido del turno durante el periodo que comprende del diecinueve de agosto de dos mil dos al diecisiete de noviembre de dos mil dos.
 
 El dieciocho de noviembre de dos mil dos este órgano jurisdiccional se reincorporará al turno, de manera que a partir de esa fecha los asuntos de nuevo ingreso se repartirán entre los dos Tribunales Unitarios del Decimoséptimo Circuito, con sede en Juárez, Chihuahua.
@@ -110,3 +112,11 @@ SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación
 TERCERO.- Se encomienda a las Direcciones Generales de Recursos Humanos y de Asuntos Jurídicos, ambas del Consejo de la Judicatura Federal para que atiendan la situación laboral del personal adscrito al Tercer Tribunal Unitario del Decimoséptimo Circuito, en los términos establecidos por el Pleno del propio Consejo.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 40/2002, del Pleno del Consejo de la Judicatura Federal, Relativo al Cambio de Residencia y Domicilio del Tercer Tribunal Unitario del Decimoséptimo Circuito, con Sede en Chihuahua, a Juárez, Chihuahua; a la Nueva Jurisdicción Territorial del Mencionado Tribunal Unitario; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos entre los Tribunales Unitarios del Mencionado Circuito, fue aprobado por el propio Pleno, en sesión extraordinaria de cinco de agosto de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a cinco de agosto de dos mil dos.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS QUE REFORMAN EL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 18 DE NOVIEMBRE DE 2002.
+
+PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
