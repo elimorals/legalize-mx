@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interno-de-la-comision-estatal-de-arbitraje-17512"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-09-08"
-last_updated: "2000-09-08"
+last_updated: "2004-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17512&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO INTERNO DE LA COMISION ESTATAL DE ARBITRAJE MEDICO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 2004.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 8 de septiembre de 2000.
 
@@ -167,7 +167,9 @@ IX.- Designar a los representantes de la CESAMED, ante las entidades públicas y
 
 X.- Determinar los casos en que los miembros de los Organismos con los que la CESAMED haya celebrado convenios, deban emitir dictámenes y opiniones médicas respecto de los hechos que motiven las quejas;
 
-XI.- Emitir acuerdos, opiniones y laudos en asuntos que sean de la competencia de la CESAMED; y
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+XI.- Emitir acuerdos, opiniones, propuestas en amigable composición y laudos en asuntos que sean competencia de la CESAMED; y
 
 XII.- Las demás que le confiera el Decreto, el presente Reglamento y el Consejo.
 
@@ -213,9 +215,13 @@ III.- Orientar a los usuarios de los servicios médicos, respecto a las instanci
 
 III.- Recabar y revisar la información médica relacionada con los actos y hechos motivo de la queja; así como solicitar al prestador del servicio médico toda la documentación y datos necesarios para normar el criterio médico de la CESAMED;
 
-IV.- Realizar en forma conjunta con el Subcomisionado Jurídico, el estudio de la queja y el análisis de los informes y constancias recabadas a efecto de elaborar también de manera conjunta el proyecto del laudo que será puesto a consideración del Comisionado;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
 
-V.- Vigilar que la Unidad de Asesoría Médica, emita oportunamente los dictámenes y peritajes requeridos por la CESAMED, el Ministerio Público y las Autoridades Judiciales;
+IV.- Realizar en forma conjunta con el Subcomisionado Jurídico, el estudio de la queja y en análisis de los informes y constancias recabadas a efecto de elaborar coordinadamente, los proyectos de propuestas en amigable composición y de laudos, que serán sometidos a la consideración del Comisionado;
+
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+V.- Vigilar que la Unidad de Asesoría Médica emita oportunamente los dictámenes, peritajes, informes y opiniones de carácter médico o técnico requeridos por la CESAMED, el Ministerio Público, así como las autoridades judiciales y administrativas;
 
 VI.- Suplir al Comisionado en sus faltas temporales y en ausencia del Subcomisionado Jurídico;
 
@@ -231,7 +237,9 @@ Corresponde al Subcomisionado Jurídico el ejercicio de las siguientes facultade
 
 I.- Recabar y revisar la información jurídica relacionada con los actos y hechos motivo de la queja, así como solicitar a las partes toda la documentación y datos necesarios para normar el criterio jurídico de la CESAMED;
 
-II.- Realizar conjuntamente con el Subcomisionado Médico, el estudio de la queja y el análisis de los informes y constancias recabadas a efecto de elaborar el proyecto del laudo, para ponerlo a consideración del Comisionado;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+II.- Realizar conjuntamente con el Subcomisionado Médico, el estudio de la queja y el análisis de los informes y constancias recabadas a efecto de elaborar los proyectos de propuestas en amigable composición y de laudos, para ponerlos a consideración del Comisionado;
 
 III.- Suplir al Comisionado en las ausencias temporales;
 
@@ -385,7 +393,9 @@ II.- Unidad de Asesoría y Quejas.
 
 Corresponde a la Unidad de Asesoría Médica, el despacho de los siguientes asuntos:
 
-I.- Emitir los dictámenes y peritajes que le sean solicitados por el Subcomisionado Médico;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+I.- Emitir los dictámenes, peritajes, informes y opiniones de carácter médico o técnico que le sean solicitados por el Subcomisionado Médico;
 
 II.- Llevar a cabo el examen médico del paciente, en aquellos casos que la Unidad de Arbitraje lo solicite;
 
@@ -411,7 +421,9 @@ III.- Orientar a los usuarios y prestadores de servicios médicos sobre los dere
 
 IV.- Determinar si las quejas recibidas son competencia de la CESAMED;
 
-V.- Remitir a la Unidad de Conciliación, el expediente de queja para su conciliación y determinación procedente;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+V.- Proponer a los usuarios y prestadores de servicios médicos, el procedimiento de arbitraje en amigable composición, remitiendo en su caso a la Unidad de Conciliación, el expediente de queja para su conciliación y determinación procedente;
 
 VI.- Recabar información y comunicar al Comisionado y a los Subcomisionados, del estado que guarda el cumplimiento de los compromisos de los convenios celebrados en la etapa de conciliación o de los laudos derivados de las quejas presentadas, a efecto de que conozcan su grado de atención y determinen lo procedente;
 
@@ -441,7 +453,9 @@ III.- Presentar al Comisionado para su suscripción los citatorios y cédulas de
 
 IV.- Actuar como instancia conciliadora, en aquellos casos en que la reclamación sea susceptible de solución;
 
-V.- Proponer a los usuarios y prestadores de servicios médicos, la amigable composición;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+V.- Vigilar que la notificación a los prestadores de servicios médicos se realice dentro de los términos previstos en el Manual de Procedimientos;
 
 VI.- Sustanciar los procedimientos de conciliación;
 
@@ -449,7 +463,9 @@ VII.- Formular propuestas de conciliación entre las partes;
 
 VIII.- Elaborar y determinar, en su caso, de conformidad con la voluntad de las partes, los convenios resultado del procedimiento de conciliación;
 
-IX.- Proponer a las partes el procedimiento de arbitraje, en aquellos casos en que no sea posible la conciliación;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+IX.- Proponer a las partes el procedimiento de arbitraje en conciencia y en estricto derecho, en aquellos casos en que no sea posible la conciliación;
 
 X.- Elaborar en forma conjunta con las partes el compromiso arbitral, por virtud del cual designan a la CESAMED para que conozca y resuelva su controversia;
 
@@ -473,7 +489,9 @@ V.- Presentar al Comisionado para su suscripción los citatorios y cédulas de n
 
 VI.- Sustanciar los procedimientos de arbitraje;
 
-VIl.- Realizar los anteproyectos de laudos y remitirlos a los Subcomisionados Médico y Jurídico, respecto de los asuntos sometidos a arbitraje;
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 2004)</small>
+
+VII.- Realizar los anteproyectos de propuestas en amigable composición y laudos y remitirlos a los Subcomisionados Médico y Jurídico, respecto de los asuntos sometidos a arbitraje;
 
 VIII.- Emitir opiniones técnicas, en aquellos casos en que no se resuelva la queja mediante conciliación; y
 
@@ -486,3 +504,11 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- En tanto no se establezcan las Unidades Administrativas señaladas en el presente Ordenamiento, sus funciones serán desempeñadas por su Superior Jerárquico.
 
 Heroica Puebla de Zaragoza, a 29 de junio de 2000.- El Comisionado de la Comisión Estatal de Arbitraje Médico del Estado de Puebla.- DOCTOR MANUEL EDUARDO TOVIA ARRIOJA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 7 DE JULIO DE 2004.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Acuerdo.
