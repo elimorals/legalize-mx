@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2001-07-02"
+last_updated: "2001-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2001.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -177,39 +177,61 @@ II.- El Secretario de Finanzas y Desarrollo Social.
 
 III.- Los Subsecretarios de la Secretaría de Finanzas y Desarrollo Social.
 
-IV.- El Director de Asuntos Jurídicos.
+(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)(F. DE E., P.O. 28 DE ENERO DE 2002)
 
-V.- El Director de Ingresos.
+IV.- El Procurador Fiscal.
 
-VI.- El Director de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+V.- El Director de Asuntos Jurídicos.
 
-VII.- El Subdirector Técnico de Ingresos.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+VI.- El Director de Ingresos.
 
-VIII.- El Subdirector de Recaudación.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 1996)</small>
+VII.- El Director de Fiscalización.
 
-IX.- El Subdirector Técnico de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+VIII.- El Director de Recaudación.
 
-X.- El Subdirector Operativo de Fiscalización.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+IX.- El Subdirector Técnico de Ingresos.
 
-XI.- Los Jefes de las Oficinas Recaudadoras del Estado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+X.- El Subdirector Técnico de Recaudación
 
-XII.- El Director del Instituto de Catastro del Estado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+XI.- El Subdirector Operativo de Recaudación.
 
-XIII.- El Secretario Técnico del Instituto de Catastro del Estado.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XII.- El Jefe del Departamento de Ejecución.
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XIII.- El Subdirector Técnico de Fiscalización.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XIV.- El Subdirector Operativo de Fiscalización.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XV.- Los Jefes de las Oficinas Recaudadoras del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XVI.- El Director del Instituto de Catastro del Estado.
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+XVII.- El Secretario Técnico del Instituto de Catastro del Estado.
 
 Los demás servidores públicos a los que las Leyes y Convenios confieren facultades específicas en materia hacendaria y las que reciban por delegación expresa de las autoridades señaladas en este artículo.
 
@@ -259,9 +281,9 @@ En los plazos establecidos por períodos y aquéllos en que señale una fecha de
 
 También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las Oficinas Recaudadoras, Instituciones de Crédito autorizadas o se utilice algún otro medio de pago.
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-Las Autoridades Fiscales podrán habilitar los días y horas inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará al cálculo de plazos.
+Las Autoridades Fiscales podrán habilitar los días y horas inhábiles; esta circunstancia deberá comunicarse a los particulares y no alterará el cálculo de plazos. También podrán ampliar el horario de atención al público en las Oficinas Recaudadoras, los días en que se venzan los plazos para la presentación de declaraciones; hecho que se dará a conocer mediante publicación que realice la Secretaría de Finanzas y Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -849,7 +871,7 @@ c) Estar fundado y motivado y expresar la resolución, objeto o propósito de qu
 
 d) Contener la firma del servidor público competente que la emite y en su caso el nombre o nombres de las personas a las que vaya dirigido. Cuando se ignore el nombre de la persona a la que va dirigido, se señalarán los datos suficientes que permitan su identificación.
 
-Si se trata de resoluciones administrativas que determinen la responsabilidad solidaria se señalará además, la causa legal de la misma.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -941,7 +963,9 @@ III.- Embargar precautoriamente, los bienes o la negociación, en términos de l
 
 ARTICULO 41 B.- Las Autoridades Fiscales, a petición de los contribuyentes, podrán autorizar el pago a plazos, ya sea diferido o en parcialidades, de las contribuciones omitidas y de sus accesorios sin que dicho plazo exceda de doce meses. Las contribuciones omitidas y sus accesorios se actualizarán a partir de los meses en que se debieron haber pagado hasta aquél en que se conceda la autorización. Cada parcialidad se actualizará desde esta última fecha hasta el mes en que cada parcialidad se pague. Durante el plazo concedido se causarán recargos sobre el saldo insoluto, incluyendo accesorios, actualizado, a la tasa que mediante ley fije anualmente el Congreso de la Unión. Dicho saldo se actualizará desde la fecha de autorización del pago en parcialidades hasta el mes por el que se calculan los recargos.
 
-La Autoridades Fiscales al autorizar el pago a plazos exigirán que se garantice el interés fiscal mediante fianza.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+Las Autoridades Fiscales al autorizar el pago a plazos, exigirán que se garantice el interés fiscal mediante fianza o cualquiera de las formas de garantía establecidas en este Código.
 
 Cesará la autorización para pagar a plazos en forma diferida o en parcialidades cuando:
 
@@ -1027,9 +1051,13 @@ Si el contribuyente presenta aviso de cambio de domicilio, después de recibida 
 
 La visita podrá llevarse a cabo en el lugar en que se encuentre el contribuyente cuando éste no ocupe el último domicilio fiscal manifestado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-En el caso de que al inicio de una visita domiciliaria el contribuyente manifieste que no podrá estar presente durante el desarrollo de la misma o haya mediado citatorio sin que esté presente el representante legal, se podrá proceder al aseguramiento de la contabilidad y demás documentación que acredite el cumplimiento de las disposiciones fiscales.
+Cuando a juicio del visitador o visitadores exista peligro de que el visitado se ausente o pueda realizar maniobras para impedir el desarrollo de la diligencia, los visitadores podrán proceder al aseguramiento de la Contabilidad y demás documentación que acredite el cumplimiento de las disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+En el caso de que al inicio o durante el desarrollo de una visita domiciliaria, el contribuyente o su representante legal manifieste que no podrá estar presente durante el desarrollo de la misma o haya mediado citatorio sin que esté presente el contribuyente o su representante legal, se podrá proceder al aseguramiento de la contabilidad y demás documentación que acredite al cumplimiento de las disposiciones fiscales.
 
 II.- Al iniciarse la visita en el domicilio fiscal, los visitadores que en ella intervengan se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta inicial que se levante, sin que esta circunstancia invalide los resultados de la visita.
 
@@ -1121,7 +1149,9 @@ IV.- Que son ingresos que forman parte de la base gravable del contribuyente los
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+Se tendrán por no desvirtuados los hechos u omisiones consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -1151,7 +1181,9 @@ b).- Seis días contados a partir del siguiente a aquél en que surta sus efecto
 
 c).- Quince días contados a partir del siguiente a aquél en que surta sus efectos la notificación de la solicitud respectiva, en los demás casos.
 
-Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil proporcionar o de conseguir.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+Los plazos a que se refiere este inciso, se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de documentación o información de difícil obtención.
 
 ###### ARTICULO 47.
 
@@ -1189,9 +1221,11 @@ A la base gravable estimada por alguno de los procedimientos anteriores, se le a
 
 En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa y su base gravable sea diferente al ingreso, se procederá de la manera siguiente:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
-I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal previsto en la Ley de Ingresos y la Ley de Hacienda del Estado de Puebla, se considerará que los omitidos son los que resultan de aplicar la tasa correspondiente a la cantidad equivalente a cuatro veces el salario mínimo general diario vigente en el área geográfica en los meses o periodo que se revisa, elevado a dicho período, por cada trabajador a su servicio.
+I.- Tratándose del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal previsto en la Ley de Hacienda y de Ingresos del Estado de Puebla, se considerará que las erogaciones efectuadas a favor de los trabajadores son las que resulten de multiplicar cuatro veces el salario mínimo general diario vigente en el Estado en los meses o periodo que se revisen, elevado al mes o meses que se revisen por cada trabajador a su servicio.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
 En el caso de que se demuestre que el contribuyente tuvo trabajadores cuando menos por un día del período revisado, sin que pueda determinarse la duración de la relación laboral, se entenderá, para efectos fiscales, que dicho trabajador laboró todo el período revisado.
 
@@ -1613,6 +1647,10 @@ IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solv
 
 V.- Embargo en la vía administrativa.
 
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
+VI.- Títulos valor.
+
 ###### ARTICULO 82.
 
 La Autoridad Fiscal está facultada para aceptar o rechazar cualquiera de las formas con que el contribuyente pretenda garantizar el interés fiscal, vigilando que sean suficientes tanto en el momento de su aceptación, como con posterioridad y si no lo fueren, exigirá su ampliación o procederá al embargo de bienes.
@@ -1671,33 +1709,19 @@ Se podrá practicar embargo precautorio para asegurar el interés fiscal, antes 
 
 El embargo quedará sin efecto si la Autoridad no emite, dentro del plazo de un año contado desde la fecha en que fue practicado, resolución en la que determine créditos fiscales. Si dentro del plazo señalado la Autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme lo dispone este Capítulo. Si el contribuyente garantiza el interés fiscal en los términos del artículo 81 de este Código, se levantará el embargo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 ###### ARTICULO 87.
 
-Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2 % del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales pagarán por concepto de gastos de ejecución, por cada una de las diligencias de notificación, del requerimiento de pago, embargo, remate, enajenación fuera de remate o adjudicación al fisco estatal; así como por concepto de honorarios por intervención, las tasas que establezca la Ley de Ingresos del Estado y en los términos que en la misma se señalen.
 
-a) Por la notificación del requerimiento de pago señalado en este Código.
-
-b) Por la de embargo.
-
-c) Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
-
-Cuando los gastos de ejecución a que se refiere este artículo sean inferiores a dos veces el salario mínimo general diario vigente en el Estado, se cobrará esta cantidad en vez del 2 % del crédito.
-
-Los honorarios por intervención se causarán y pagarán aplicando la tasa del 15 % sobre el total del crédito fiscal, la cantidad que resulte de aplicar la tasa a que se refiere este artículo no será menor a una vez el salario mínimo general diario vigente en el Estado.
-
-> <small>(F. DE E., P.O. 6 DE FEBRERO DE 1996)</small>
-
-Asimismo se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, avalúos, de impresión y publicación de convocatorias y edictos que correspondan, inscripciones o cancelaciones en el Registro Público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+Asimismo se pagarán por concepto de gastos de ejecución, las erogaciones extraordinarias en que se incurra con motivo del Procedimiento Administrativo de Ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, avalúos, de impresión y publicación de convocatorias y edictos que correspondan, inscripciones o cancelaciones en el Registro Público, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
 
 Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
 
-En ningún caso los honorarios a que se refieren los párrafos anteriores podrán exceder de la cantidad que represente 600 salarios mínimos diarios vigentes en el Estado.
+En ningún caso los honorarios a que se refieren los párrafos anteriores podrán exceder de la cantidad que represente seiscientos salarios mínimos diarios vigentes en el Estado.
 
-Para los efectos de este artículo se entenderá como salario mínimo diario vigente en el Estado el que resulte aplicable en el momento en que se efectúen las erogaciones respectivas.
+Para los efectos de este artículo se entenderá como salario mínimo diario vigente en el Estado, el que resulte aplicable en el momento en que se efectúen las erogaciones respectivas.
 
 ### CAPITULO II. DEL EMBARGO
 
@@ -1829,7 +1853,7 @@ El interventor con cargo a la caja, tendrá las obligaciones siguientes:
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- Recuperar el monto de crédito fiscal adeudado de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, debiéndose cubrir cuando menos el 16 % del crédito fiscal durante el primer mes, después de separar las cantidades que correspondan por concepto de salarios.
+I.- Recuperar el monto del crédito fiscal adeudado de los ingresos de la negociación intervenida, en un plazo que no excederá de seis meses, debiéndose cubrir cuando menos el 16 % del crédito fiscal durante el primer mes, después de separar las cantidades que correspondan por concepto de salarios.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1889,9 +1913,11 @@ Cuando el dictamen rendido por el perito del embargado o terceros acreedores res
 
 En todos los casos previstos en este artículo los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles: veinte días si son inmuebles y treinta días cuando sean negociaciones, contados a partir de la fecha de su designación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2001)</small>
+
 ###### ARTICULO 107.
 
-El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquélla en que se determinó el precio que deberá servir de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
+El remate deberá ser convocado para una fecha fijada dentro de los treinta días siguientes a aquélla en la que quede firme la valuación que sirva de base. La publicación de la convocatoria se hará cuando menos diez días antes del remate.
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora.
 
@@ -2290,3 +2316,13 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 2 DE JULIO DE 2001.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2001.
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el primero de enero de 2002.
+
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2002)</small>
+
+SEGUNDO.- Las Autoridades Fiscales a que se refieren las fracciones IV, VIII, X, XI y XII del artículo 13 que se reforma, entrarán en funciones una vez que se realicen las adecuaciones orgánicas, administrativas y en materia jurídica correspondientes.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
