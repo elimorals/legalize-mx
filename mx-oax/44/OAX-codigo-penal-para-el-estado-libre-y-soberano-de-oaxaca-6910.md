@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1994-08-27"
+last_updated: "1995-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 1995.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -61,41 +61,27 @@ Reglas generales sobre delitos y responsabilidad.
 
 5o.- Delito es el acto u omisión que sancionan las leyes penales.
 
-6o.- Los delitos pueden ser:
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-I.- Intencionales;
+6o.- En los delitos de resultado material también será atribuible el resultado típico producido al que omita impedirlo, si éste tenía el deber jurídico de evitarlo. En estos casos se considerará que el resultado es consecuencia de una conducta omisiva, cuando se determine que el que omite impedirlo tenía el deber de actuar para ello, derivado de una ley, de un contrato o de su propio actuar precedente.
 
-II.- Culposos y,
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-III.- Preterintencionales.
+7o.- Los delitos pueden ser:
 
-El delito es intencional cuando se causa un resultado querido o aceptado, o cuando el resultado es consecuencia necesaria de la acción realizada u omisión cometida.
+I.- Dolosos, y
 
-El delito es culposo cuando se causa el resultado por negligencia, imprevisión, imprudencia, impericia, falta de reflexión o de cuidado, y en general, todo acto u omisión en que el infractor no haya buscado con ello la producción del resultado dañoso sobrevenido.
+II.- Culposos.
 
-Existe preterintencionalidad, cuando se causa daño mayor que el que se quiso causar, habiendo dolo directo respecto del daño querido, con relación al daño causado.
+Obra dolosamente el que, conociendo los elementos del tipo penal, o previendo como posible el resultado típico, quiere o acepta la realización del hecho descrito por la ley, y
 
-7o.- La intención de violar la ley se presume, por el solo hecho de cometer un delito o participar en cualquier forma en su ejecución, salvo prueba en contrario.
-
-La presunción establecida en el párrafo anterior no se destruye, aunque el infractor pruebe alguna de las siguientes circunstancias:
-
-I.- Que no se propuso ofender a determinada persona, si tuvo en general intención de causar daño;
-
-II.- Que no se propuso causar el daño que resultó, si éste fue consecuencia necesaria y notoria del hecho u omisión en que consistió el delito; o si el inculpado previó o pudo preveer (sic) esa consecuencia, por ser efecto ordinario del hecho u omisión y estar al alcance del común de las gentes; o si se resolvió a violar la ley, fuera cual fuese el resultado;
-
-III.- Que creía que la ley era injusta o moralmente lícito violarla;
-
-IV.- Que creía que era legítimo el fin que se propuso. Los Jueces, para aplicar la presente fracción, tomarán en cuenta si el hecho en que descansa la creencia del agente, se determina por la ley, como generador de un delito de culpa o si tal creencia está fundada en motivos racionales, en cuyo caso, se destruirá la presunción de existencia de dolo;
-
-V.- Que erró sobre la persona o cosa en que se propuso cometer el delito;
-
-VI.- Que obró con el consentimiento del ofendido exceptuando los casos de que habla el artículo 110 de este Código. Cuando alguien por error, comete un delito en perjuicio de persona distinta de aquella contra la que iba dirigida su acción, no se le imputarán las circunstancias que deriven de la cualidad del ofendido, tomándose en consideración para los efectos de la sanción, las circunstancias subjetivas en las que deliberó y ejecutó el delito, así como las cualidades inherentes a la persona contra la que dirigía su acción.
+Obra culposamente el que produce el resultado típico, que no previó siendo previsible o previó confiando en que no se produciría, en virtud de la violación a un deber de cuidado, que debía y podía observar según las circunstancias y condiciones personales.
 
 8o.- La responsabilidad penal no pasa de la persona y bienes de los delincuentes, excepto en los casos especificados en la ley.
 
 9o.- Cuando algún miembro o representante de una persona moral, de una sociedad, corporación o empresa de cualquier clase, con excepción de las Instituciones del Estado, comete un delito con los medios que para tal objeto las mismas entidades le proporcionan, de modo que resulta cometido a nombre o bajo el amparo de la representación social o a beneficio de ella, los tribunales podrán sujetarla a proceso, para el efecto de decretar en la sentencia, las sanciones correspondientes, que pueden traducirse en la suspensión o disolución de la agrupación, cuando lo estimen necesario para la seguridad pública, sin perjuicio de la responsabilidad individual en que hubieren incurrido los autores de los delitos cometidos.
 
-10.- El perdón o el consentimiento del ofendido no impiden la aplicación de las sanciones que correspondan salvo que se trate de infracciones que solo pueden perseguirse previa querella en relación con el artículo 110 de éste Código.
+10.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
 ### CAPITULO II.
 
@@ -103,21 +89,43 @@ Personas responsables de los delitos.
 
 11.- Los delitos son imputables a todos los que hayan cumplido dieciséis años de edad.
 
-12.- Son responsables de los delitos:
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Todos los que tomen parte en la concepción, preparación o ejecución de los mismos, o presten auxilio o cooperación de cualquier especie, por concierto previo o posterior, o sin él, o induzcan directamente a alguno a cometerlo.
+12.- Son autores o partícipes del delito:
 
-Los Jueces podrán aumentar o disminuir la sanción respectiva, dentro de los límites fijados por la ley, según la participación de cada responsable.
+I.- Los que acuerden o preparen su realización;
 
-13.- Si varios responsables toman parte en la ejecución de un delito determinado, y alguno de ellos comete un delito diverso, sin previo acuerdo con los otros, todos serán responsables de la comisión del nuevo delito, salvo que concurran los requisitos siguientes:
+II.- Los que lo realicen por sí;
 
-I.- Que el nuevo delito no sirva de medio adecuado para cometer el principal;
+III.- Los que lo realicen conjuntamente;
 
-II.- Que aquél no sea consecuencia necesaria o natural de éste o de los medios concertados;
+IV.- Los que lo lleven a cabo sirviéndose de otro;
 
-III.- Que no hayan sabido antes que se iba a cometer el nuevo delito; y
+V.- Los que determinen dolosamente a otro a cometerlo;
 
-IV.- Que no hayan estado presentes en la ejecución del nuevo delito, o que, habiendo estado, hayan hecho cuanto estaba de su parte para impedirlo.
+VI.- Los que dolosamente presten ayuda o auxilien a otro para su comisión;
+
+VII.- Los que con posterioridad a su ejecución auxilien al delincuente, en cumplimiento de una promesa anterior al delito, y
+
+VIII.- Los que sin acuerdo previo, intervengan con otros en su comisión, cuando no se pueda precisar el resultado que cada quien produjo.
+
+Los autores o partícipes a que se refiere el presente artículo responderán cada uno en la medida de su propia culpabilidad.
+
+Para los sujetos a que se refieren las fracciones VI, VII y VIII, se aplicará la punibilidad dispuesta por el artículo 72 de este Código.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+13.- Si varios sujetos toman parte en la realización de un delito determinado y alguno de ellos comete otro delito, sin previo acuerdo con los otros, todos serán considerados autores de la comisión del nuevo delito en cualesquiera de las hipótesis siguientes:
+
+a).- Que el nuevo delito hubiere servido de medio adecuado para cometer el principal;
+
+b).- Que el nuevo delito fuere una consecuencia necesaria o natural del realizado o de los medios concertados;
+
+c).- Que los participantes supieren previamente que se iba a cometer un nuevo delito; o
+
+d).- Que habiendo estado presentes en la ejecución del nuevo delito, no hubieren hecho cuanto estaba de su parte para impedirlo.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
 
 ###### Artículo 19.
 
@@ -405,55 +413,51 @@ El Ejecutivo Federal, por conducto de la Secretaría, elaborará la iniciativa d
 
 ### CAPITULO III.
 
-Circunstancias excluyentes de responsabilidad.
+Causas de exclusión del delito.
 
-14.- Excluyen la responsabilidad penal del agente en la comisión de un delito y por lo mismo lo exoneran de toda pena, las siguientes circunstancias:
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
+14.- El delito se excluye cuando:
 
-II.- Hallarse el acusado, al cometer el delito, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o estupefacientes, o por un estado tóxico-infeccioso agudo, o por un trastorno mental involuntario de carácter patológico y transitorio;
+I.- El hecho se realice sin intervención de la voluntad del agente;
 
-III.- El miedo grave o el temor fundado e irresistible de un mal inminente y grave en la persona del contraventor, o la necesidad de salvar su propia persona o sus bienes, o persona o bienes de otro, de un peligro real, grave e inminente, siempre que no exista otro medio practicable y menos perjudicial.
+II.- Falte alguno de los elementos del tipo penal del delito de que se trate;
 
-No se considerará que obra en estado de necesidad aquél, que, por su empleo o cargo, tenga el deber legal de sufrir el peligro.
+III.- Se actúe con el consentimiento del titular del bien jurídico afectado, siempre que se llenen los siguientes requisitos:
 
-IV.- Ejecutar un delito que sólo lo es por circunstancias del ofendido, si el acusado las ignoraba inculpablemente al tiempo de obrar;
+a).- Que el bien jurídico sea disponible;
 
-V.- Causar un daño por mero accidente, sin intención ni culpa alguna, ejecutando un hecho lícito con todas las precauciones debidas;
+b).- Que el titular del bien tenga la capacidad jurídica para disponer libremente del mismo; y
 
-VI.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho, y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
+c).- Que el consentimiento sea expreso o tácito y sin que medie algún vicio; o bien, que el hecho se realice en circunstancias tales que permitan fundadamente presumir que, de haberse consultado al titular, éste hubiere otorgado el mismo;
 
-Primera.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
+IV.- Se repela una agresión real, actual o inminente, y sin derecho, en protección de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa y racionalidad de los medios empleados y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona a quien se defiende.
 
-Segunda.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
+Se presumirá como defensa legítima, salvo prueba en contrario, el hecho de causar daño a quien por cualquier medio trate de penetrar, sin derecho, al hogar del agente, al de su familia, a sus dependencias, o a los de cualquier persona que tenga la obligación de defender, al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación; o bien, lo encuentre en alguno de aquellos lugares en circunstancias tales que revelen la probabilidad de una agresión;
 
-Tercera.- Que no hubo necesidad racional del medio empleado en la defensa;
+V.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el agente, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
-Cuarta.- Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales, o era notoriamente de poca importancia comparada con el que causó la defensa.
+VI.- La acción o la omisión se realicen en cumplimiento de un deber jurídico o en ejercicio de un derecho, siempre que exista necesidad racional del medio empleado para cumplir el deber o ejercer el derecho, y que éste último no se realice con el solo propósito de perjudicar a otro;
 
-Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquél que durante la noche, rechazare, en el momento mismo de estarse realizando, el escalamiento o rompimiento de las cercas, paredes o entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
+VII.- Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el agente hubiere provocado su trastorno mental dolosa o culposamente, en cuyo caso responderá por el resultado típico siempre y cuando lo haya previsto o le fuera previsible;
 
-Igual presunción favorecerá al que causare cualquier daño a un extraño a quien sorprendiere: en la habitación u hogar propios, de su familia o de cualquiera otra persona que tenga la misma obligación legal de defender, o en el local donde se encuentren bienes propios o respecto de los que tenga la misma obligación, siempre que la presencia del extraño ocurra de noche o en circunstancias tales que revelen la posibilidad de una agresión.
+Cuando la capacidad a que se refiere el párrafo anterior, solo se encuentre considerablemente disminuida, se estará a lo dispuesto por el artículo 72 A de este Código;
 
-La presunción de obrar en legítima defensa que establecen los párrafos próximos anteriores, tendrá también aplicación y surtirá los efectos indicados en este artículo, cuando los hechos que ella prevee (sic) se ejecuten de día en paraje solitario, para todos los efectos legales se considera como paraje solitario, no sólo el que está despoblado, sino también el que se halle dentro de una población, si por cualquier circunstancia no encuentra el agredido a quien pedir socorro;
+VIII.- Se realice la acción o la omisión bajo un error invencible sobre alguno de los elementos esenciales que integran el tipo penal.
 
-VII.- Obrar en cumplimiento de un deber, o en el ejercicio de un derecho consignado en la Ley;
+Si el error a que se refiere el párrafo anterior es vencible, se estará a lo dispuesto por el artículo 72 B de este Código;
 
-VIII.- Obedecer a un superior legítimo, en el orden jerárquico, aún cuando su mandato constituya un delito si esta circunstancia no es notoria ni se prueba que el acusado la conocía;
+IX.- Atentas las circunstancias que concurren en la realización de una conducta ilícita, no sea racionalmente exigible al agente una conducta diversa a la que realizó, en virtud de no haberse podido determinar a actuar conforme a derecho; o
 
-IX.- Contravenir las disposiciones de la Ley dejando de hacer lo que manda, por impedimento legítimo;
+X.- El resultado típico se produce por caso fortuito.
 
-X.- Ocultar al autor de un delito o los efectos, objetos o instrumentos del mismo, o impedir que se averigüe, cuando no se hiciere por un interés bastardo y no se empleare algún medio reprobado por la Ley, siempre que se trate de:
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-a).- Los ascendientes y descendientes consanguíneos o afines;
+15.- Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplimiento de un deber, o ejercicio de un derecho a que se refieren las fracciones IV, V y VI del artículo 14, se le impondrá la pena del delito culposo.
 
-b).- El cónyuge y parientes colaterales por consanguinidad hasta el cuarto grado y por afinidad hasta el segundo;
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-c).- Los que están ligados con el responsable por amor, respeto, gratitud o estrecha amistad.
-
-15.- El exceso en la legítima defensa constituído por el hecho de intervenir la tercera o cuarta circunstancia de las enumeradas en la segunda parte de la fracción VI del artículo que antecede, será considerado como delincuente por imprudencia.
-
-16.- Las circunstancias excluyentes de responsabilidad penal se harán valer de oficio.
+16.- Las causas de exclusión del delito se harán valer de oficio.
 
 ###### Artículo 32.
 
@@ -1343,7 +1347,13 @@ Sanción pecuniaria.
 
 La obligación de pagar el importe de la sanción pecuniaria es preferente y se cubrirá primero que cualquiera de las obligaciones que se hubieren contraído con posterioridad al delito.
 
-La multa es el pago al Estado de una suma de dinero que se fijará por días multa, los cuales no podrán exceder de quinientos. El día multa equivale al salario mínimo general vigente en el lugar y en el momento de consumarse el delito, si fuere consumado, en el día que cesó, si fuere continuo o permanente, o en el que se realice el último acto tendiente a su ejecución, en el caso de tentativa. La ley podrá también señalar multas que no hagan relación al salario mínimo general.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+La multa es el pago al Estado de una suma de dinero que se fijará por días multa, los cuales no podrán exceder de setecientos treinta. El día multa equivale al salario mínimo general vigente en el lugar y en el momento de consumarse el delito, si fuere consumado, en el día que cesó, si fuere continuo o permanente, o en el que se realice el último acto tendiente a su ejecución, en el caso de tentativa. La ley podrá también señalar multas que no hagan relación al salario mínimo general.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 3 DE JUNIO DE 1995)</small>
+
+Cuando este Código establezca multa en pesos, se hará la conversión de ésta tomando en cuenta el máximo de la multa fijada por la Ley con las correspondientes que a continuación se indican: cuando el máximo no sea superior a quinientos pesos, de uno a tres días multa; si excede de esta cantidad pero no de diez mil pesos, entre cuatro y veinte días multa; si es superior a diez mil pesos pero no pasa de cincuenta mil pesos, de veintiuno a doscientos días multa; y si excede de cincuenta mil pesos entre doscientos uno a quinientos días multa.
 
 24.- El importe de la sanción pecuniaria se distribuirá entre el Fondo para la Administración de Justicia y la parte ofendida; al primero se aplicará el importe de la multa y a la segunda el de la reparación.
 
@@ -1361,15 +1371,17 @@ La multa es el pago al Estado de una suma de dinero que se fijará por días mul
 
 31.- La autoridad a quien corresponda el cobro de la sanción pecuniaria, podrá fijar plazos para el pago, en los términos siguientes:
 
-I.- Si no excediere de mil pesos, se podrá conceder un plazo hasta de ciento veinte días, para pagarla por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo;
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
 
-II.- Para el pago que exceda de mil pesos, se podrá conceder un plazo hasta de seis meses; el pago se hará por terceras partes, en las condiciones expresadas en la fracción anterior.
+I.- Si no excediere de cien salarios, se podrá conceder un plazo hasta de veinte días, para pagarla por terceras partes, siempre que el deudor compruebe estar imposibilitado de hacerlo en menor tiempo;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
+
+II.- Para el pago que exceda de cien salarios, se podrá conceder un plazo hasta de seis meses; el pago se hará por terceras partes, en las condiciones expresadas en la fracción anterior.
 
 El beneficio anterior sólo se concederá cuando sea solicitada dentro del plazo señalado para el cumplimiento voluntario.
 
-32.- Cuando el sentenciado no pudiera pagar la multa que como sanción única se le aplicó, o solamente pudiera pagar parte de ella, los Tribunales podrán decretar en su sentencia la substitución de aquella sanción por la de prisión, sin que ésta pueda exceder de tres meses.
-
-Lo dispuesto en el párrafo que antecede no exime a la autoridad ejecutora de la sentencia, de la obligación de emplear todos los medios legales conducentes a hacer efectiva, la multa; pues sólo en el caso de que el cobro haya resultado infructuoso, se hará uso de la prisión.
+32.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
 33.- El autor de un delito está obligado a reparar el daño que con su comisión haya causado, salvo los casos sancionados por el artículo siguiente en los cuales lo estarán las personas que en el mismo se expresen.
 
@@ -1385,11 +1397,57 @@ III.- El Estado, subsidiariamente, por sus funcionarios y empleados.
 
 I.- La restitución de la cosa obtenida por la comisión del delito y si esto no fuera posible, el pago del precio de la misma;
 
-II.- La indemnización del daño material y moral causado a la víctima o a su familia.
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 1995)</small>
 
-La reparación del daño que deba ser hecha por el infractor tiene el carácter de pena, y se seguirá de oficio por el Ministerio Público. Cuando dicha reparación deba exigirse a terceros, tendrá el carácter de responsabilidad civil y se tramitará en los términos que fije el Código Procesal de la materia. En ambos casos, el monto de la reparación será fijado por el Tribunal que conozca del asunto de acuerdo con el daño que deba repararse y la capacidad económica del obligado a pagarla. Se tendrá en cuenta, en su caso, lo dispuesto por los artículos del citado Código Procesal.
+II.- La indemnización del daño material y moral, incluyendo el pago de los tratamientos curativos que, como consecuencia del delito sean necesarios para la recuperación de la salud de la víctima, y
 
-En casos de lesiones y homicidios y a falta de pruebas específicas respecto al daño causado, los jueces tomarán como base la tabulación de indemnizaciones que fija la Ley Federal del Trabajo y el salario mínimo existente en la región. Esta disposición se aplicará aún cuando el ofendido fuera menor de edad o incapacitado.
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
+
+III.- El resarcimiento de los perjuicios ocasionados.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+La reparación del daño que deba ser hecha por el infractor tiene el carácter de pena y se exigirá de oficio por el Ministerio Público. En cambio, la reparación que se exija a terceras personas tiene el carácter de responsabilidad civil y se tramitará en los términos que fije el Código Procesal respectivo.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+La capacidad económica del obligado únicamente se tomará en cuenta para la reparación del daño moral, excepto tratándose de lesiones y homicidio.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+El monto de la reparación del daño será fijado de acuerdo con las pruebas que obren en el proceso, salvo lo dispuesto en el párrafo undécimo de este artículo.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+Cuando el daño se cause a las personas y produzca la muerte, incapacidad total o parcial, permanente o temporal, el monto de la reparación se determinará atendiendo a lo dispuesto en la Ley Federal del Trabajo, computado sobre el salario o ingresos que percibiera la víctima al momento de su fallecimiento o de producirse la incapacidad.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+La indemnización por muerte en ningún caso podrá ser inferior al monto señalado en el inciso b) de este artículo.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+Tratándose de incapacidad mental, la reparación corresponderá a las personas a que se refiere el párrafo tercero del inciso b) de este artículo, a cuyo cuidado quede la víctima.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+A falta de pruebas específicas para fijar el monto de la reparación del daño, en los casos siguientes será:
+
+a).- En caso de lesiones que dejaren secuelas, el monto se determinará con base en la tabulación de indemnizaciones que fija la Ley Federal del Trabajo, computado sobre el triple o el doble del salario mínimo vigente, atendiendo a la regla establecida en el inciso siguiente. Si las secuelas fueren cicatrices perpetuas y notables en cara o en pabellón auricular, el monto será el equivalente a un año de salarios mínimos.
+
+b).- En caso de homicidio el monto de la reparación del daño será la cantidad equivalente al importe de setecientos noventa días, calculados sobre el triple del salario mínimo vigente.
+
+Tratándose de menores de dieciocho años o incapacitados, la reparación se calculará sobre el doble del salario mínimo vigente.
+
+Tendrán derecho a recibir el monto de la reparación: el cónyuge y los hijos; los ascendientes concurrirán con aquéllos a menos que se pruebe que no dependían económicamente de la víctima, a falta de cónyuge concurrirá con las personas señaladas anteriormente, la persona con quien la víctima vivió como si fuera su cónyuge durante los cinco años que precedieron inmediatamente a su muerte, o con la que tuvo hijos, siempre que ambos hubieren permanecido libres de matrimonio; a falta de todos los anteriores, los parientes colaterales hasta el sexto grado, que resultaren afectados directa e inmediatamente.
+
+Si los beneficiarios no se apersonaren o no acreditaren estar en los supuestos mencionados, la reparación corresponderá al Estado de Oaxaca, y se aplicará al Fondo para la Administración de Justicia, quedando a salvo el derecho de los beneficiarios a reclamar dicho pago.
+
+c).- Tratándose de lesiones que no dejan secuelas, el monto de los perjuicios ocasionados será el número de salarios correspondiente a los días que el pasivo tardó en sanar.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+En todo proceso penal el Ministerio Público estará obligado a solicitar, en su caso, la condena de la reparación del daño y el juez a resolver lo conducente. El incumplimiento de esta obligación por el agente del Ministerio Público motivará que el juez, al momento de dictar sentencia, comunique al C. Procurador General de Justicia dicha omisión para que éste imponga la sanción correspondiente. Si el juez no resuelve sobre la solicitud del agente del Ministerio Público, será sancionado por el Tribunal de Alzada, con multa de treinta a cincuenta días de salario mínimo, sin perjuicio de otras acciones que puedan ejercerse en su contra.
 
 36.- En los delitos culposos los automóviles, camiones o cualquier otro vehículo u objeto de uso lícito con que se cometa el delito, ya sean de propiedad del infractor o de un tercero obligado a la reparación, se asegurarán de oficio por la autoridad judicial para garantizar el pago de la reparación del daño, y solamente se levantará el aseguramiento si los propietarios otorgan fianza suficiente para garantizar dicho pago.
 
@@ -1407,9 +1465,21 @@ Los objetos de uso lícito a que se refiere este artículo se decomisarán al ac
 
 En los delitos culposos solamente se decomisarán los objetos que sean de uso prohibido.
 
-38.- Si los instrumentos o cosas de que habla la primera parte del artículo anterior, sólo sirven para delinquir, se destruirán al ejecutar la sentencia irrevocable.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Fuera de este caso, se aplicarán al Ejecutivo, si le fueren útiles, en caso contrario, se venderán a personas que no tengan prohibición de usarlas y su precio se aplicará a la mejora material de los establecimientos de reclusión.
+38.- La autoridad del conocimiento:
+
+I.- Respecto de las cosas decomisadas:
+
+a).- Si son de uso prohibido, nocivas o peligrosas ordenará su destrucción, salvo que estime conveniente conservarlas para fines de docencia o investigación;
+
+b).- Si las cosas no tienen las características señaladas en el inciso anterior, determinará su destino, según su utilidad, para beneficio de la administración de justicia;
+
+II.- Respecto de objetos o valores no decomisados en la sentencia, ordenará su entrega a quien acredite tener derecho a ellos, pero si éste no comparece en un lapso de noventa días a partir de la notificación personal que se le haga, se enajenará en subasta pública. Hecha esta se le notificará personalmente que el producto de la venta queda a su disposición por el plazo de seis meses, apercibido que de no presentarse, el producto de la venta se destinará al mejoramiento de la administración de justicia, previas las deducciones de los gastos ocasionados.
+
+III.- Respecto de bienes que no puedan conservarse o sean de costoso mantenimiento, durante la averiguación previa o el proceso, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien acredite tener derecho al mismo por un plazo de seis meses a partir de la notificación que se le haga, transcurrido el cual se depositará en la recaudación de rentas en caso de que la venta se hubiere verificado durante la averiguación previa, y en el Fondo para la Administración de Justicia si lo fue durante el proceso.
+
+Cuando no se conozca la persona que tenga derecho a los objetos a que se refieren las fracciones II y III, la notificación se hará por medio de edictos que se publicarán por tres veces consecutivas de siete en siete días en el Periódico Oficial del Estado y por una vez en otro periódico de los de mayor circulación en el Estado.
 
 ###### Artículo 77.
 
@@ -2091,13 +2161,23 @@ Reglas Generales.
 
 57.- Dentro de los límites fijados por la Ley, los Jueces y Tribunales aplicarán las sanciones penales establecidas por cada delito, teniendo en cuenta las circunstancias exteriores de ejecución y las peculiares del infractor. Para este efecto, los Tribunales deberán tener conocimiento directo del infractor, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
-58.- En concordancia con lo dispuesto en el artículo anterior, los Tribunales deberán tomar en consideración al determinar en cada caso las sanciones impuestas, las siguientes circunstancias:
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-a).- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla, y la extensión del daño causado y del peligro corrido;
+58.- El Juez fijará las penas y medidas de seguridad que estime justas y procedentes dentro de los límites señalados por cada delito, con base en la gravedad del ilícito y el grado de culpabilidad del agente, teniendo en cuenta:
 
-b).- La edad, educación, ilustración, costumbre y la conducta procedente del agente, los motivos que lo impulsaron o determinaron a delinquir y sus condiciones económicas;
+I.- La magnitud del daño causado al bien jurídico o del peligro a que se hubiese sido expuesto;
 
-c).- Las condiciones especiales en que se encontraba en el momento de la comisión del delito y los demás antecedentes y condiciones personales que puedan comprobarse, así como sus vínculos de parentesco, de amistad o nacidos de otras relaciones sociales; la calidad de las personas ofendidas y las circunstancias de tiempo, lugar, modo y ocasión, que demuestren la mayor o menor temibilidad del agente.
+II.- La naturaleza de la acción u omisión y de los medios empleados para ejecutarla;
+
+III.- Las circunstancias de tiempo, lugar, modo u ocasión del hecho realizado;
+
+IV.- La forma y grado de intervención del agente en la comisión del delito así como su calidad y la de la víctima u ofendido;
+
+V.- La edad, la educación, la ilustración, las costumbres, las condiciones sociales y económicas del sujeto, su conducta anterior, así como los motivos que lo impulsaron o determinaron a delinquir. Cuando el procesado perteneciere a un grupo étnico indígena, se tomarán en cuenta, además, sus usos y costumbres;
+
+VI.- El comportamiento posterior del acusado con relación al delito cometido; y
+
+VII.- Las demás condiciones especiales y personales en que se encontraba el agente en el momento de la comisión del delito, siempre y cuando sean relevantes para determinar la posibilidad de haber ajustado su conducta a las exigencias de la norma.
 
 59.- El Juez deberá tener conocimiento directo del sujeto, de la víctima y de las circunstancias del hecho en la medida requerida para cada caso.
 
@@ -2141,7 +2221,9 @@ I.- Cuando el acto culposo origine únicamente daño en propiedad ajena, cuyo mo
 
 II.- Cuando el acto culposo origine solamente daño en propiedad ajena, cualquiera que sea su monto, con motivo del manejo de vehículos de motor.
 
-Cuando por culpa y con motivo del tránsito de vehículos se causen lesiones de las comprendidas en los artículos 264 y 265 de este Código, o daño en propiedad ajena, cualquiera que sea su valor o ambos, sólo se perseguirá a petición de parte, siempre que el presunto responsable no se hubiere encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otra substancia que produzca efectos similares.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+Cuando por culpa y con motivo del tránsito de vehículos se causen lesiones de las comprendidas en los artículos 272 y 273 de este Código, o daño en propiedad ajena, cualquiera que sea su valor o ambos, sólo se perseguirá a petición de parte, siempre que el probable responsable no se hubiere encontrado en estado de ebriedad o bajo el influjo de estupefacientes u otra substancia que produzca efectos similares.
 
 71.- Sin perjuicio de atender a lo dispuesto en el artículo 58, los Tribunales, para determinar la aplicación de las penas en los casos a que se refiere el artículo que antecede, tomarán en consideración:
 
@@ -2153,13 +2235,27 @@ III.- Si el infractor ha cometido anteriormente un delito en circunstancias seme
 
 IV.- Si el infractor tuvo tiempo para obrar con reflexión y el cuidado necesario.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
+
 ### CAPITULO IV.
 
-Aplicación de las sanciones en los casos de Preterintencionalidad.
+Aplicación de sanciones especiales.
 
-72.- A los delitos preterintencionales se les aplicará la sanción de seis a quince años de prisión, si se tratara de homicidio.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-En casos de lesiones, se sancionarán hasta con las dos terceras partes que corresponda para el delito intencional.
+72.- En los casos previstos por las fracciones VI, VII y VIII del artículo 12, se impondrán de tres cuartas partes del mínimo a tres cuartas partes del máximo de la punibilidad correspondiente al delito de que se trate y, en su caso, de acuerdo con la modalidad respectiva.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+72 A.- Si la capacidad del autor de comprender el carácter ilícito del hecho, o de determinarse de acuerdo con esta comprensión, sólo se encuentra disminuida por las causas señaladas en la fracción VII del artículo 14 de este código, a juicio del juzgador, según proceda, se le impondrán desde las dos terceras partes del mínimo a las dos terceras partes del máximo de la punibilidad correspondiente al delito cometido, o de la medida de seguridad a que se refiere el artículo 85 o bien ambas, en caso de ser necesarios, tomando en cuenta el grado de afectación de la imputabilidad del autor.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+72 B.- En caso de que el error a que se refiere el segundo párrafo de la fracción VIII del artículo 14 sea vencible, la punibilidad será desde la tercera parte del mínimo a la tercera parte del máximo que corresponda al delito de que se trate.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+72 C.- Cuando se cometa un delito en virtud del extremo atraso cultural y el aislamiento social del sujeto activo, se le podrá imponer desde la tercera parte del mínimo a la tercera parte del máximo de la pena correspondiente al delito de que se trate.
 
 ### CAPITULO V.
 
@@ -2203,9 +2299,9 @@ Reclusión para los enfermos mentales y sordomudos.
 
 En igual forma procederán los tribunales con los procesados o condenados que se encuentren en alguno de los estados a que se refiere el párrafo que antecede, haciéndolo de acuerdo con lo que disponga el Código Procesal de la materia. Igualmente procederán también las autoridades encargadas de la ejecución de sentencias, en los casos en que los sentenciados enloquezcan durante el tiempo en que estén sujetos a una sanción privativa de libertad.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-86.- En los casos previstos en este Capítulo, las personas o enfermos a quienes se aplique reclusión podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por cantidad que no exceda de cien veces el salario mínimo general vigente en el momento y en el lugar en que se dicte el acuerdo respectivo, para garantizar el daño que aquellos pudieran causar por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez estime que ni aún con la garantía queda asegurado el interés de la sociedad, dichas personas seguirán en el establecimiento en que estuvieren recluidos.
+86.- En los casos previstos en este Capítulo, las personas o enfermos a quienes se aplique reclusión podrán ser entregados a quienes corresponda hacerse cargo de ellos, siempre que se otorgue fianza, depósito o hipoteca hasta por la cantidad de trescientas veces el salario mínimo general vigente en el momento y en el lugar en que se dicte el acuerdo respectivo, para garantizar el daño que aquellos pudieran causar por no haberse tomado las precauciones necesarias para su vigilancia. Cuando el Juez estime que ni aún con la garantía queda asegurado el interés de la sociedad, dichas personas seguirán en el establecimiento en que estuvieren recluidos.
 
 ### CAPITULO VIII.
 
@@ -2213,7 +2309,15 @@ Substitución y conmutación de sanciones.
 
 87.- La substitución se hará por los jueces o tribunales, al dictar la sentencia definitiva.
 
-88.- Los jueces y tribunales, apreciando las circunstancias personales del culpable, los móviles de su conducta, así como las circunstancias del hecho, podrán, a su prudente arbitrio, sustituir la pena de prisión que debiera imponerse, cuando ésta no exceda de un año por la de multa.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+88.- Los jueces y tribunales, apreciando las condiciones personales del sentenciado, los móviles de su conducta y las circunstancias del hecho, podrán a su prudente arbitrio, sustituir la pena de prisión que debiera imponerse, cuando ésta no exceda de dos años, por la de multa, que no será inferior a un día de salario por cada tres días de prisión.
+
+Para que el sentenciado pueda gozar de este beneficio deberá, en su caso, cubrir previamente el importe de la reparación del daño.
+
+El juez suspenderá la sustitución y ordenará que se ejecute la pena de prisión impuesta, si dentro del plazo de cinco días que le conceda, el sentenciado no cubre el importe de la reparación del daño o no paga la multa.
+
+El sentenciado conserva el derecho a exhibir el importe de la reparación del daño y la multa en cualquier momento; satisfechos el requisito, se hará del conocimiento de la Dirección de Prevención y Readaptación Social para que lo pongan en libertad.
 
 89.- El Ejecutivo, tratándose de delitos políticos, podrá hacer la conmutación de sanciones, después de impuestas en sentencia irrevocable, conforme a las siguientes reglas:
 
@@ -2251,11 +2355,13 @@ Ejecución de las sentencias.
 
 De la condena condicional.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
 97.- Queda a juicio de los Tribunales, salvo lo establecido en el Código Local de Procedimientos, respecto al procedimiento sumario, el suspender la ejecución de la pena impuesta en sus sentencias, siempre que concurran las siguientes circunstancias:
 
-I.- Que la pena impuesta sea privativa de libertad por un tiempo que no exceda de dos años;
+I.- Que la pena impuesta sea privativa de libertad por un tiempo que no exceda de tres años;
 
-II.- Que sea la primera vez que el sentenciado haya cometido o participado en la ejecución de algún delito tipificado en éste Código o en otras leyes de igual naturaleza;
+II.- Que sea la primera vez que el sentenciado haya cometido o participado en la ejecución de algún delito doloso;
 
 III.- Que hasta que cometió el delito por el cual se le ha sentenciado, haya observado buena conducta;
 
@@ -2263,23 +2369,47 @@ IV.- Que tenga modo honesto de vivir y de sufragar sus necesidades y las de las 
 
 98.- La suspensión a que se refiere el artículo que antecede, no comprende a las demás penas impuestas en la sentencia, ni implica la no exigibilidad de la reparación del daño en los términos que no haya declarado la sentencia respectiva, o la acción para demandarla.
 
-99.- Para que la suspensión de la ejecución de la sentencia surta sus efectos, el infractor deberá otorgar fianza bastante a juicio del Tribunal sentenciador, de que reparará en su caso el daño causado.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Si dentro del plazo que prudentemente le haya fijado el Tribunal, el infractor no otorga fianza, se procederá a la ejecución de la sentencia.
+99.- Para que la suspensión de la ejecución de la sentencia surta sus efectos, el infractor deberá:
 
-100.- Si durante el término de tres años contados desde la fecha de la sentencia irrevocable, el sentenciado no diere lugar a un nuevo proceso que concluya con sentencia condenatoria, se considerará extinguida la pena fijada en aquella. En caso contrario, se hará efectiva la primera sentencia, además de la segunda, en lo que el infractor será considerado como reincidente.
+I.- Cubrir el importe de la reparación del daño; y
+
+II.- Otorgar garantía bastante de que:
+
+a).- Se presentará ante la autoridad cuantas veces sea requerido;
+
+b).- Desempeñará una ocupación lícita;
+
+c).- Residirá en determinado lugar, del cual no podrá ausentarse sin permiso de la autoridad que ejerza sobre él cuidado y vigilancia; y
+
+d).- Observará buena conducta
+
+En caso de que el sentenciado no pueda cubrir el importe de la reparación del daño o de garantía, el Juzgador le otorgará un plazo de cinco días. Si concluido el plazo no se satisface el requisito mencionado, se procederá a la ejecución de la sentencia.
+
+El beneficiado conserva el derecho a exhibir el importe de la reparación del daño y de otorgar garantía en cualquier momento; satisfecho el requisito, se suspenderá de inmediato la prisión que estuviere compurgando, lo que hará del conocimiento de la Dirección de Previsión y Readaptación Social para que lo ponga en libertad.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+100.- Si durante el plazo de cuatro años contados desde la fecha de la sentencia irrevocable, el sentenciado no diere lugar a un nuevo proceso por delito doloso que concluya con sentencia condenatoria, se considerará extinguida la pena fijada en aquella. En caso contrario se hará efectiva la primera sentencia, además de la segunda, en ésta el infractor será considerado como reincidente. Tratándose de delito culposo, la autoridad competente resolverá motivadamente si debe aplicarse la sanción suspendida.
 
 101.- A los infractores a quienes se conceda el beneficio de la condena condicional, se les hará saber lo dispuesto en los artículos 98 y 100 de este Código, lo que se asentará en diligencia formal, sin que la falta de ésta formalidad, impida en su caso la aplicación de lo prevenido en dichos preceptos.
 
-102.- La obligación contraída por el fiador conforme al artículo 99, concluirá seis meses después de transcurridos los tres años que expresa el artículo 100, siempre que el infractor haya hecho efectiva la reparación del daño dentro de este término, pues en caso contrario se hará efectiva la fianza, aplicándose su producto al ofendido por el concepto indicado, con arreglo a la cantidad que judicialmente se haya determinado, y hasta donde alcance la fianza.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Si el infractor durante el término a que se refiere el artículo 100, fuera sentenciado condenatoriamente por la comisión de un nuevo delito, de pleno derecho se considerará cancelada la fianza al ponerse en ejecución la sentencia que se hallaba suspendida siempre que el sentenciado hubiere cubierto la reparación del daño, en caso contrario, se hará efectiva en la forma indicada en el párrafo anterior.
+102.- La garantía a que se refiere el artículo 99 se cancelará seis meses después de transcurridos los cuatro años señalados en el artículo 100.
 
-103.- Para la recta aplicación de los artículos 100 y 102, se tendrá presente lo siguiente: Si el agraciado con la condena condicional fuere nuevamente procesado, y al concluirse el plazo de tres años a que dichos artículos se refiere, el proceso no estuviere terminado, el plazo de referencia se tendrá por prorrogado hasta que se pronuncie sentencia irrevocable.
+Si el infractor, durante el plazo a que se refiere el artículo 100, fuere sentenciado condenatoriamente por la comisión de un nuevo delito, se cancelará la garantía al ponerse en ejecución la sentencia que se hallaba suspendida.
 
-104.- Cuando el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Tribunal respectivo, a fin de que éste, prevenga al sentenciado que presente nuevo fiador dentro del plazo máximo de tres meses, apercibido de que se hará efectiva la sentencia si no lo verifica.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-En caso de muerte o insolvencia del fiador, estará obligado el sentenciado a poner el hecho en conocimiento del Tribunal para el efecto y bajo el apercibimiento que se expresa en el párrafo anterior, salvo que el sentenciado haya cubierto para entonces la reparación del daño.
+103.- Para la recta aplicación de los artículos 100 y 102, se tendrá presente lo siguiente: Si el agraciado con la condena condicional fuere nuevamente procesado y, concluido el plazo de cuatro años a que dichos artículos se refiere, el nuevo proceso no estuviere terminado, el plazo de referencia se tendrá por prorrogado hasta que se pronuncie sentencia irrevocable.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+104.- Cuando se haya otorgado fianza y el fiador tenga motivos fundados para no continuar desempeñando el cargo, los expondrá al Tribunal respectivo, a fin de que éste prevenga al sentenciado que presente nuevo fiador dentro del plazo máximo de tres meses, apercibiéndolo de que se hará efectiva la sentencia si no lo presenta.
+
+En caso de muerte o insolvencia del fiador, el sentenciado estará obligado a poner el hecho en conocimiento del Tribunal para el efecto y bajo el apercibimiento que se expresa en el párrafo anterior.
 
 105.- Los tribunales al pronunciar su sentencia definitiva declararán en su caso, si conceden o no el beneficio de la condena condicional. El acusado o su defensor podrán solicitarla al Tribunal de Segunda Instancia, mediante la interposición del recurso respectivo, en el caso de que en primera instancia no se hubiere resuelto sobre dicho beneficio.
 
@@ -2373,7 +2503,13 @@ Si se dejare de actuar, la prescripción comenzará de nuevo desde el día sigui
 
 129.- Si para deducir una acción penal exigiere la ley declaración previa de alguna autoridad, las gestiones que a ese fin se realicen interrumpirán la prescripción.
 
-130.- La sanción pecuniaria prescribirá en un año; las demás sanciones se prescriben por el transcurso de un término igual al que debían durar.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+130.- La multa prescribirá en un año.
+
+La reparación del daño prescribe en diez años.
+
+Las demás sanciones prescriben por el transcurso de un lapso igual al que debían durar.
 
 131.- Cuando el reo hubiere extinguido ya una parte de su sanción, se necesitará para la prescripción tanto tiempo como el que falte de la condena.
 
@@ -2813,7 +2949,9 @@ En todos los casos incluídos en este artículo, además de las medidas señalad
 
 Asociaciones delictuosas.
 
-164.- Se impondrán prisión de seis meses a seis años y multa de quinientos a cinco mil pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer algún o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+164.- Se impondrán prisión de tres a seis años y multa de cincuenta a cien días de salario, al que tomare participación en una asociación o banda de tres o más personas, organizada para cometer alguno o algunos delitos, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiere cometer o haya cometido. Se presumirá que las organizaciones armadas tienen por objeto delinquir, cuando carezcan de la autorización legal correspondiente.
 
 165.- Cuando se ejecuten uno o más delitos, por pandilla, se aplicará a los que intervengan en su comisión, además de las penas que les correspondan por el o los delitos cometidos, la sanción de seis meses a seis años de prisión.
 
@@ -3467,27 +3605,37 @@ IV.- A quienes por cualquier medio alteren las mercancías o productos o reduzca
 
 Lo mandado en este Artículo se observará sin prejuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa con base en leyes especiales.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 1995)</small>
+
 TITULO DECIMOSEGUNDO.
 
-Delitos sexuales.
+Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
 ### CAPITULO I.
 
 Atentados al pudor, estupro y violación.
 
-241.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última ejecuta en ella un acto erótico sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicarán de tres días a seis meses de prisión y multa de cincuenta a quinientos pesos.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Si se hiciere uso de la violencia física o moral, la pena será de seis meses a cuatro años de prisión y multa de quinientos a cinco mil pesos.
+241.- Al que sin consentimiento de una persona púber o impúber, o con consentimiento de ésta última, ejecuta en ella un acto erótico sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicará una pena de uno a tres años de prisión y multa de quince a cincuenta días de salario.
+
+Si se hiciere uso de la violencia física o moral, la pena será de dos a seis años de prisión y multa de cincuenta a cien días de salario.
 
 242.- El atentado contra el pudor solo se castigará cuando se haya consumado.
 
-243.- Al que tenga cópula con mujer casta y honesta mayor de doce años y menor de dieciocho, empleando la seducción o el engaño, para alcanzar su consentimiento, se impondrán de cuatro meses a tres años de prisión y multa de trescientos a dos mil pesos.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-Cuando la estuprada fuere menor de quince años se presumirá en todo caso la seducción o el engaño.
+243.- A quien tenga cópula con persona casta y honesta, mayor de doce años y menor de dieciocho, obteniendo su consentimiento por medio de la seducción o el engaño, se le impondrán de cuatro meses a cuatro años de prisión y multa de treinta a setenta días de salario.
 
-244.- No se procederá contra el estuprador, sino por queja de la mujer ofendida o de sus padres; o a falta de éstos, de sus representantes legítimos; pero cuando el infractor se case con la mujer ofendida, cesará toda acción para perseguirlo.
+Cuando la persona estuprada fuere menor de quince años, se presumirá en todo caso la seducción o el engaño.
 
-245.- La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a la mujer y a los hijos, si los hubiera. Dicho pago se hará en la forma y términos que la Ley Civil fija para los casos de divorcio.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+244.- No se procederá contra el estuprador sino por queja de la persona ofendida o de sus padres, o a falta de éstos, de sus representantes legítimos; pero cuando el infractor se case con la mujer ofendida, cesará toda acción para perseguirlo.
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+245.- La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a los hijos, si los hubiere. Dicho pago se hará en la forma y términos, que la Ley Civil fija para los casos de divorcio.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1994)</small>
 
@@ -3615,13 +3763,11 @@ III.- Si las amenazas tienen por condición que el amenazado no ejecute un hecho
 
 Al que no otorgue la caución de no ofender, dentro de un mes, contado desde que cause ejecutoria la sentencia, se le impondrá prisión de tres meses a dos años.
 
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
 266.- Si el amenazador cumple su amenaza, se acumularán la sanción de ésta y la del delito que resulte.
 
-Si el amenazador consigue lo que se propone, se observarán las reglas siguientes:
-
-I.- Si lo que exigió y recibió fue dinero, o algún documento o cosa estimable en dinero, se le aplicará la sanción del robo con violencia;
-
-II.- Si exigió que el amenazado cometiera un delito, se acumulará a la sanción de la amenaza, la que le corresponda por su participación en el delito que resulte.
+Si el amenazador consigue que el amenazado cometa un delito, se acumulará a la sanción de la amenaza, la que le corresponda por su participación en el delito que resulte.
 
 ### CAPITULO II.
 
@@ -3667,11 +3813,7 @@ Lesiones.
 
 277.- Al que infiera una lesión que ponga en peligro la vida, se le impondrán de tres a siete años de prisión sin perjuicio de las sanciones que le corresponda conforme a los artículos anteriores.
 
-278.- Cuando las lesiones se infieran por dos o más personas se observarán las reglas siguientes:
-
-I.- A cada uno de los responsables se les aplicarán las sanciones que procedan por las lesiones que conste que hubiera inferido;
-
-II.- A todos los que hubieren atacado al ofendido con armas a propósito para inferirle las lesiones que recibió, si no constare quien o quienes le infirieron las que presente o cuáles heridas le infirieron, se les aplicará sanción hasta de seis años de prisión.
+278.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
 279.- Si las lesiones fueren inferidas en riña, se impondrá al responsable, si se trata del provocado, de la mitad de la mínima a la mitad de la máxima de las sanciones que establecen los artículos 272 al 277 de este Código según la lesión que se haya inferido y si se trata del provocador, de las cinco sextas partes de la mínima a las cinco sextas de la máxima de dichas sanciones, establecidas en los artículos 272 al 277, ya citados, según la lesión que se haya inferido.
 
@@ -3727,15 +3869,11 @@ III.- Que fué a causa de la constitución física de la víctima o de las circu
 
 290.- Si el homicidio se cometiere en riña, se aplicará a su autor la pena de uno a siete años de prisión si es el provocado, y la de cinco a doce años de prisión si es el provocador.
 
-291.- A los autores de un homicidio calificado se les aplicará la pena de treinta a cuarenta años de prisión. A los demás responsables, según su participación en el delito, de diez a veinte años de prisión.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-292.- Cuando un homicidio se ejecute por dos personas o más, sin acuerdo previo para cometerlo, a todas se les castigará conforme a las reglas siguientes:
+291.- A los autores de un homicidio calificado se les aplicará la pena de treinta a cuarenta años de prisión.
 
-I.- Si la víctima recibiere una o varias lesiones mortales y constare quien o quienes las infirieron, a éstos se les aplicará la sanción que corresponda por el homicidio que resultó y a los demás, de tres a seis años de prisión. Si no constare quien o quienes las infirieron, a todos se les aplicará de seis a quince años de prisión;
-
-II.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore quienes infirieron las primeras, pero constare quienes lesionaron, a todos éstos se les aplicará de seis a quince años de prisión y a los demás de tres a seis años de prisión; excepto a aquellos que comprueben haber inferido solo las segundas, a quienes se les aplicará la sanción que corresponda por dichas lesiones, aumentada en dos años, si se supiere quienes infirieron las mortales, se aplicará lo dispuesto en la Fracción que antecede;
-
-III.- Cuando las lesiones no fueren mortales sino por su número y no se pueda averiguar quiénes las infirieron, se aplicarán de seis a doce años de prisión a todos los que hubieren atacado al occiso con armas a propósito para inferir las heridas que aquél recibió, y a los demás de seis meses a tres años de prisión.
+292.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
 ### CAPITULO IV.
 
@@ -3751,7 +3889,7 @@ Reglas comunes para lesiones y homicidio.
 
 297.- Por riña se entiende, para todos los efectos penales: la contienda de obra y no de palabra, entre dos o más personas.
 
-298.- Cuando en la perpetración del delito de lesiones concurran personas que no estén armadas o no tengan armas a propósito para causar las lesiones que presente el ofendido, esos acompañantes serán castigados; con prisión de dos a cuatro años. Si se trata del delito de homicidio se aplicará lo dispuesto en el artículo 292 de este Código.
+298.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
 299.- Se entiende que las lesiones y el homicidio, son calificados, cuando se cometen con premeditación, con ventaja, con alevosía o a traición.
 
@@ -4003,17 +4141,17 @@ III.- La sustracción, destrucción, mutilación o apoderamiento de unos autos c
 
 355.- Cuando el valor de lo robado exceda de quinientas veces el salario, la prisión será de cuatro a diez años y la multa de ciento cincuenta a quinientas veces el salario.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de tres días hasta cinco años.
+356.- Para estimar la cuantía del robo, se atenderá únicamente el valor intrínseco de la cosa robada. Si ésta no fuera estimable en dinero, o por su naturaleza no fuere posible fijar su valor o cantidad, se aplicará prisión de seis meses hasta cinco años.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
 
 357.- Se aplicará prisión de seis meses a nueve años, al que sustraiga o inutilice, parcial o totalmente, un expediente perteneciente a una oficina pública o notaría; al que extraiga o destruya alguna de sus hojas, o parte de ellas, o las inutilice de cualquier manera; y también al que ejecute cualquiera de los actos enumerados en cualquier documento que se halle bajo la responsabilidad y dominio de alguna oficina pública o notaría. Si el delincuente fuere el propio notario quedará inhabilitado además de dos a diez años; y si fuere abogado o litigante, también se le inhabilitará por el mismo término.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres a cinco años de prisión.
+358.- En los casos de tentativa de robo, cuando no fuere posible determinar el monto, se aplicarán de tres meses a tres años de prisión.
 
 359.- Si el robo se ejecutare con violencia a las personas o las cosas, a la pena que corresponda por el robo simple, se agregarán de seis meses a cinco años de prisión. Si la violencia constituyere otro delito, se aplicarán las reglas de acumulación.
 
@@ -4043,17 +4181,19 @@ VI.- Cuando el ladrón se finja funcionario público o suponga una orden de la a
 
 364.- En todo caso de robo si el Juez, lo creyera justo, podrá suspender al infractor de un mes a seis años en los derechos de tutela curatela, perito, depositario o interventor judicial, síndico o interventor en concursos o quiebras albacea, asesor y representante de ausentes; o en el ejercicio de cualquiera profesión de las que exijan título.
 
-365.- El robo cometido por un ascendiente contra un descendiente suyo o por éste contra aquél, no produce responsabilidad penal contra dichas personas. Si además de las personas de que habla este Artículo, tuviere intervención en el robo alguna otra, no aprovechará a esta la excusa absolutoria; pero para castigarla, se necesita que lo pida el ofendido.
+365.- (DEROGADO, P.O. 3 DE JUNIO DE 1995)
 
-Pero si precediere, acompañara o siguiere al robo algún otro hecho que por sí solo constituya un delito, se aplicará la pena que para éste señale la Ley.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
 
-366.- El robo cometido por un cónyuge contra otro, por un suegro contra su yerno o su nuera, por éstos contra aquél por un padrastro contra su hijastro o viceversa, o por un hermano contra su hermano, produce responsabilidad penal; pero no se podrá proceder contra los delincuentes sino a petición del agraviado.
+366.- El robo cometido por un ascendiente contra un descendiente suyo o por éste contra aquél, por un cónyuge contra otro, por un suegro contra su yerno o nuera o por éstos contra aquél, por un padrastro contra su hijastro o viceversa, por un hermano contra su hermano, produce responsabilidad penal; pero no se podrá proceder contra los delincuentes sino a petición del agraviado.
 
 367.- No se castigará al que, sin emplear engaño o medios violentos, se apodere una sola vez de los objetos estrictamente indispensables, para satisfacer sus necesidades personales o familiares del momento.
 
 368.- Al que se le imputare el hecho de haber tomado una cosa ajena, sin consentimiento del dueño o legítimo poseedor, y acredite haberla tomado con carácter temporal y no para apropiársela o venderla, se le aplicarán de un mes a un año de prisión, siempre que justifique no haberse negado a devolverla, si se le requirió para ello. Además, pagará al ofendido como reparación del daño, el doble del alquiler, arrendamiento o interés de la cosa usada.
 
-369.- Además de la pena que le corresponda conforme a los Artículos 352 al 357 se aplicarán al delincuente de tres meses a tres años de prisión, en los casos siguientes:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 1995)</small>
+
+369.- Además de la pena que le corresponda, conforme a los artículos 353 a 355 y 357, se aplicarán al delincuente de tres meses a tres años de prisión, en los casos siguientes:
 
 I.- Cuando se cometa el delito en un lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no solo los que están fijos en la tierra sino también los movibles sea cual fuere la materia de que estén construidos;
 
@@ -4071,7 +4211,21 @@ VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en l
 
 VII.- Cuando el robo se cometa aprovechándose el delincuente de la consternación que una desgracia privada cause al ofendido o a su familia;
 
-VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública, aprovechándose el culpable del desorden o confusión que esos acontecimientos producen.
+VIII.- Cuando se cometa durante un incendio, terremoto u otra calamidad pública, aprovechándose el culpable del desorden o confusión que esos acontecimientos producen;
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
+
+IX.- Cuando se cometa estando la víctima en un vehículo particular o de transporte público; y
+
+> <small>(ADICIONADA, P.O. 3 DE JUNIO DE 1995)</small>
+
+X.- Cuando se trate de partes de vehículos automotores, o de objetos que se encuentren en el interior de los mismos.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+369 Bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 353 a 355 deben imponerse, se aplicarán de tres a seis años de prisión al que robe un vehículo automotor.
+
+Se entiende por vehículo, para los efectos de este artículo y del 369 de este Código, los automóviles, camionetas, camiones y tractocamiones de cualquier tipo, y autobuses.
 
 ### CAPITULO II.
 
@@ -4159,7 +4313,9 @@ III.- El hecho de que una persona haga aparecer como suyo un depósito que garan
 
 378.- No se juzgará como abuso de confianza la simple retención de la cosa recibida, cuando no se haga con el fin de apropiársela o de disponer de ella como dueño, siempre que al que la retenga la devuelva al primer requerimiento Judicial o notarial que le haga, o no la entregue a la autoridad, para que esta disponga de la misma conforme a la Ley.
 
-379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones de los Artículos 365 y 366 de este Código.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+379.- El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente las disposiciones del artículo 366 de este Código.
 
 ### CAPITULO IV.
 
@@ -4207,7 +4363,29 @@ XIV.- Al fiador que enajene o grave los bienes raíces cuyas inscripciones de pr
 
 382.- Se impondrá prisión de seis meses a ocho años y multa de cinco mil a diez mil pesos, o sólo la prisión al que, para hacerse de una cantidad de dinero en numerario, en papel moneda o billetes de banco, de un documento que importa obligación, liberación o transmisión de derechos o de cualquiera otra cosa ajena mueble, logre que se le entregue por medio de maquinaciones, engaños o artificios.
 
-383.- Son aplicables al fraude los Artículos 365 y 366 de este Código.
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+383.- Es aplicable al fraude el artículo 366 de este Código.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1995)</small>
+
+### CAPITULO IV BIS.
+
+Extorsión.
+
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1995)</small>
+
+383 Bis.- Comete el delito de extorsión el que sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial.
+
+Este delito se sancionará en los siguientes términos:
+
+I).- Cuando el lucro obtenido o perjuicio patrimonial causado no exceda de cien veces el salario mínimo general, se aplicará prisión de uno a tres años y multa de cinco a cien veces el salario.
+
+II) Si excede de cien veces el salario mínimo general, pero no de quinientas, la prisión será de tres a seis años y la multa de cien a doscientas cincuenta veces el salario.
+
+III) Si excede de quinientas veces el salario mínimo general, la prisión será de seis a doce años y la multa de doscientas cincuenta a quinientas veces el salario.
+
+Las penas anteriores podrán aumentarse hasta un tanto más, si el constreñimiento se realiza por uno o varios integrantes de una asociación delictuosa o por servidor o exservidor público, o por miembro o exmiembro de una corporación policial. En estos casos, también se impondrán la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar otro.
 
 ### CAPITULO V.
 
@@ -4374,6 +4552,12 @@ SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publi
 P.O. 27 DE AGOSTO DE 1994.
 
 ÚNICO.- Las presentes reformas, adiciones y derogaciones al Código Penal y Código de Procedimientos Penales del Estado Libre y Soberano de Oaxaca, entrarán en vigor el día cuatro de septiembre de mil novecientos noventa y cuatro previa su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE JUNIO DE 1995.
+
+PRIMERO. El presente decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los reos que se encuentren comprendidos en las hipótesis del artículo 97 del Código Penal, podrán solicitar al juez que pronunció la sentencia irrevocable, la concesión del beneficio de la condena condicional, y el juez, oyendo al Ministerio Público, resolverá lo que en derecho proceda.
 
 ###### Artículo 10.
 
