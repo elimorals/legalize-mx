@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1981-12-31"
+last_updated: "1982-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1982.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -60,6 +60,10 @@ Para los efectos de esta Ley, también se consideran automóviles, a los omnibus
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
 En el caso de vehículos de años modelo o de años de fabricación anteriores al de aplicación de esta Ley, el impuesto será la cantidad que resulte de aplicar lo dispuesto en los artículos 5o., 12, 13 y 14 de esta Ley, según corresponda, disminuida en 10% por cada año de antigüedad del vehículo. En caso de que no pueda comprobarse los años de antigüedad del vehículo, el impuesto se pagará sin hacer las disminuciones a que se refiere el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Las cuotas del impuesto establecidas en esta Ley, se ajustarán a la centena más próxima, cuando las fracciones de las centenas sean igual o superior a media centena, se aumentará a la centena siguiente y cuando sea inferior a la media centena, se reducirá a la centena inmediata anterior.
 
 ###### ARTICULO 2o.
 
@@ -105,7 +109,9 @@ SEGUNDA 11
 
 TERCERA 22
 
-III.- Para vehículos importados al país de circulación no restringida, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el factor de 50, por la cantidad que anualmente establezca el Congreso de la Unión.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+III.- Para vehículos importados al país de circulación no restringida, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el factor de 125, por la cantidad que anualmente establezca el Congreso de la Unión.
 
 B.- Para vehículos destinados al transporte de más de diez pasajeros o de efectos, el impuesto será la cantidad que resulte de multiplicar el factor que a continuación se señala por la cantidad que anualmente establezca el Congreso de la Unión:
 
@@ -231,11 +237,11 @@ Las oficinas de tránsito de la República Mexicana no autorizarán altas ni cam
 
 En este Capítulo se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor y motocicleta.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### ARTICULO 12.
 
-Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $240,000.00.
+Tratándose de aeronaves, el impuesto será la cantidad que resulte de multiplicar el peso de la aeronave adicionado con la carga máxima de despegue a nivel del mar, expresado en toneladas, por la cantidad que anualmente establezca el Congreso de la Unión. En ningún caso el impuesto excederá de $3.840,000.00.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -259,7 +265,9 @@ b).- La cantidad obtenida conforme al inciso anterior se multiplicará por la ca
 
 El factor a que se refiere la fracción III de esta (sic) artículo, se calculará multiplicando la longitud de la eslora en metros, por el cociente obtenido de dividir los caballos de fuerza entre mil.
 
-Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $200.00, ni superior a $100,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+Tratándose de las embarcaciones a que se refieren las fracciones I y III de este artículo, el impuesto que resulte no podrá ser inferior a $1,000.00, ni superior a $500,000.00, salvo que tratándose de la fracción III, el factor sea igual o menor a 0.2.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -275,7 +283,9 @@ II.- La cantidad obtenida conforme al inciso anterior se multiplicará por la ca
 
 No se pagará el impuesto en los términos de este Capítulo por la tenencia o uso de los siguientes vehículos:
 
-I.- Motocicletas hasta 349 centímetros cúbicos de cilindrada.
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1982)</small>
+
+I.- Motocicletas hasta 350 centímetros cúbicos de cilindrada.
 
 II.- Los importados temporalmente en los términos de la legislación aduanera y de la Ley del Registro Federal de Vehículos.
 
@@ -286,6 +296,10 @@ IV.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal qu
 V.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, distribuidoras y los comerciantes del ramo de vehículos.
 
 VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
+
+> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+
+VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
 
@@ -478,3 +492,85 @@ Categoría Año Modelo
 Unica 26000 19500 13000 10400 7800
 
 ARTICULO DECIMOQUINTO.- Los contribuyentes del impuesto sobre tenencia o uso de vehículos a que se refiere el Capítulo III de la Ley de la materia, con excepción de los helicópteros, pagarán dicho impuesto correspondiente al año de 1981, dentro del plazo que inicia el 1o. de enero y vence el 31 de julio de 1982, sin recargos ni sanciones y podrán calcular el impuesto conforme a las cuotas que estuviron (sic) vigentes en el año de 1981 o de 1982. El impuesto correspondiente al año de 1982 se pagará en el plazo comprendido entre el 1o. de julio y el 31 de diciembre de dicho año.
+
+D.O.F. 31 DE DICIEMBRE DE 1982.
+
+OTRAS DISPOSICIONES
+
+ARTICULO DECIMOQUINTO.- Para los efectos del cálculo del Impuesto sobre Tenencia o Uso de Vehículos para el año de 1983, se dan a conocer las siguientes cantidades:
+
+I.- Vehículos a que se refiere el artículo 5o. apartados A, fracción I, y B de la Ley del Impuesto sobre Tenencia o Uso de Vehículos .......... $ 3,100.00
+
+II.- Vehículos comprendidos en el artículo 5o. apartado A, fracciones II y III, así como los veleros .......... 4,000.00
+
+III.- Embarcaciones distintas de las comprendidas en la fracción II .......... 18,000.00
+
+IV.- Aeronaves .......... 115,000.00
+
+V.- Motocicletas .......... 25,000.00
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor en toda la República el día 1o. de enero de 1983.
+
+###### ARTICULO CUARTO.
+
+Por los vehículos de los años modelos que a continuación se indican destinados al transporte hasta de diez pasajeros, se causará el impuesto en 1983, sobre tenencia o uso de vehículos, conforme a la siguiente tarifa:
+
+A.- De fabricación nacional o importados iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente.
+
+Año Categoría
+
+Modelo A B C D E F
+
+1977 1500 5000 7600 20100 65000 130000
+
+1976 1300 4000 6500 15100 39000 97500
+
+1975 1100 3000 5000 10100 32500 65000
+
+1974 900 2500 4000 7600 19500 52000
+
+Para los efectos de la tarifa anterior se atenderá a las siguientes categorías:
+
+I.- Categoría "A".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue hasta de $83,000.00 por unidad.
+
+2.- Categoría "B".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $83,000.01 a $96,000.00 por unidad.
+
+3.- Categoría "C".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $96,000.01 a $116,000.00 por unidad.
+
+4.- Categoría "D".- Comprende automóviles cuyo precio oficial de venta al público al 1o. de enero de 1977 fue de $116,000.01 a $193,000.00 por unidad.
+
+5.- Categoría "E".- Comprende automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Público de $193,000.01 a $230,000.00 por unidad.
+
+6.- Categoría "F".- Comprende automóviles importados cuyo precio al 1o. de enero de 1977 determinó la Secretaría de Hacienda y Crédito Público de $230,000.01 en adelante por unidad.
+
+Los automóviles de años modelos de 1974 a 1977 que causen un impuesto mayor que el año modelo 1978, de acuerdo con el Artículo 5o. de la Ley del Impuesto sobre Tenencia o Uso de Vehículos, pagarán el impuesto correspondiente al año Modelo de 1978.
+
+Aquellos automóviles que al 1o. de enero de 1977 no tuvieron precio oficial de venta al público, pagarán de acuerdo a la categoría que les correspondió en el ejercicio fiscal de 1978.
+
+B.- Automóviles importados diferentes a los de fabricación nacional:
+
+1.- Vehículos importados a las zonas libres y franja fronteriza del norte del país, de circulación restringida a esas regiones.
+
+CATEGORIA AÑO MODELO
+
+1977 1976 1975 1974
+
+PRIMERA 13000 9700 6500 4800
+
+SEGUNDA 19500 16200 13000 9700
+
+TERCERA 39000 32500 26000 19500
+
+2.- Vehículos importados al país, de circulación no restringida.
+
+CATEGORIA MODELO
+
+1977 1976 1975 1974
+
+UNICA 130000 97500 65000 52000
+
+Los contribuyentes del impuesto sobre tenencia o uso de vehículos podrán optar por pagar dicho impuesto por los vehículos de los años modelo que se indican en este artículo, aplicando lo dispuesto en el mismo o conforme a las disposiciones de la Ley de la materia vigente.
