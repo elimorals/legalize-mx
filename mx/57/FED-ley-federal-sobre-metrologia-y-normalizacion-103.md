@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-metrologia-y-normalizacion-103"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-07-01"
-last_updated: "1996-12-24"
+last_updated: "1997-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-06-30"
 
 LEY FEDERAL SOBRE METROLOGIA Y NORMALIZACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE MAYO DE 1997.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 1 de julio de 1992.
 
@@ -87,13 +87,19 @@ g) En general, divulgar las acciones de normalización y demás actividades rela
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acreditamiento: el acto mediante el cual la Secretaría reconoce organismos nacionales de normalización, organismos de certificación, laboratorios de pruebas y de calibración y unidades de verificación, para que lleven a cabo las actividades a que se refiere esta Ley;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Acreditación: el acto por el cual una entidad de acreditación reconoce la competencia técnica y confiabilidad de los organismos de certificación, de los laboratorios de prueba, de los laboratorios de calibración y de las unidades de verificación para la evaluación de la conformidad;
 
 II. Calibración: el conjunto de operaciones que tiene por finalidad determinar los errores de un instrumento para medir y, de ser necesario, otras características metrológicas;
 
 III. Certificación: procedimiento por el cual se asegura que un producto, proceso, sistema o servicio se ajusta a las normas o lineamientos o recomendaciones de organismos dedicados a la normalización nacionales o internacionales;
 
 IV. Dependencias: las dependencias de la administración pública federal;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IV-A. Evaluación de la conformidad: la determinación del grado de cumplimiento con las normas oficiales mexicanas o la conformidad con las normas mexicanas, las normas internacionales u otras especificaciones, prescripciones o características. Comprende, entre otros, los procedimientos de muestreo, prueba, calibración, certificación y verificación;
 
 V. Instrumentos para medir: los medios técnicos con los cuales se efectúan las mediciones y que comprenden las medidas materializadas y los aparatos medidores;
 
@@ -105,11 +111,17 @@ VIII. Manifestación: la declaración que hace una persona física o moral a la 
 
 IX. Método: la forma de realizar una operación del proceso, así como su verificación;
 
-X. Normas mexicanas: las normas de referencia que emitan los organismos nacionales de normalización;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-XI. Normas oficiales mexicanas: las que expidan las dependencias competentes, de carácter obligatorio sujetándose a lo dispuesto en esta Ley y cuyas finalidades se establecen en el artículo 40.
+X. Norma mexicana: la que elabore un organismo nacional de normalización, o la Secretaría, en los términos de esta Ley, que prevé para un uso común y repetido reglas, especificaciones, atributos, métodos de prueba, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado;
 
-Las dependencias sólo podrán expedir normas o especificaciones técnicas, criterios, reglas, instructivos, circulares, lineamientos y demás disposiciones de naturaleza análoga de carácter obligatorio, en las materias a que se refiere esta Ley, siempre que se ajusten al procedimiento establecido y se expidan como normas oficiales mexicanas;
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+X-A. Norma o lineamiento internacional: la norma, lineamiento o documento normativo que emite un organismo internacional de normalización u otro organismo internacional relacionado con la materia, reconocido por el gobierno mexicano en los términos del derecho internacional;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+XI. Norma oficial mexicana: la regulación técnica de observancia obligatoria expedida por las dependencias competentes, conforme a las finalidades establecidas en el artículo 40, que establece reglas, especificaciones, atributos, directrices, características o prescripciones aplicables a un producto, proceso, instalación, sistema, actividad, servicio o método de producción u operación, así como aquellas relativas a terminología, simbología, embalaje, marcado o etiquetado y las que se refieran a su cumplimiento o aplicación;
 
 XII. Organismos de certificación: las personas morales que tengan por objeto realizar funciones de certificación;
 
@@ -119,11 +131,21 @@ XIV. Patrón: medida materializada, aparato de medición o sistema de medición 
 
 XV. Patrón nacional: el patrón autorizado para obtener, fijar o contrastar el valor de otros patrones de la misma magnitud, que sirve de base para la fijación de los valores de todos los patrones de la magnitud dada;
 
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+XV-A. Personas acreditadas: los organismos de certificación, laboratorios de prueba, laboratorios de calibración y unidades de verificación reconocidos por una entidad de acreditación para la evaluación de la conformidad;
+
 XVI. Proceso: el conjunto de actividades relativas a la producción, obtención, elaboración, fabricación, preparación, conservación, mezclado, acondicionamiento, envasado, manipulación, ensamblado, transporte, distribución, almacenamiento y expendio o suministro al público de productos y servicios;
 
-XVII. Unidades de verificación: las personas físicas o morales que hayan sido acreditadas para realizar actos de verificación por la Secretaría en coordinación con las dependencias competentes; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-XIX (sic). Verificación: la constatación ocular o comprobación mediante muestreo y análisis de laboratorio acreditado, del cumplimiento de las normas.
+XVII. Unidad de verificación: la persona física o moral que realiza actos de verificación; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+XVIII. Verificación: la constatación ocular o comprobación mediante muestreo, medición, pruebas de laboratorio, o examen de documentos que se realizan para evaluar la conformidad en un momento determinado.
+
+XIX. (DEROGADA, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 4o.
 
@@ -177,9 +199,11 @@ La Secretaría podrá requerir de los fabricantes, importadores, comercializador
 
 Para efectos de lo anterior, la Secretaría publicará en el Diario Oficial de la Federación, con la debida anticipación, la lista de instrumentos de medición y patrones cuyas verificaciones inicial, periódica o extraordinaria o calibración serán obligatorias, sin perjuicio de ampliarla o modificarla en cualquier tiempo.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 12.
 
-La Secretaría, así como las personas acreditadas por la misma, al verificar los instrumentos para medir, dejarán en poder de los interesados los documentos que demuestren que dicho acto ha sido realizado oficialmente.
+La Secretaría, así como las personas acreditadas por la misma, al verificar los instrumentos para medir, dejarán en poder de los interesados los documentos que demuestren que dicho acto ha sido realizado oficialmente. Esta verificación comprenderá la constatación de la exactitud de dicho instrumento dentro de las tolerancias y demás requisitos establecidos en las normas oficiales mexicanas y, en su caso, el ajuste de los mismos cuando cuenten con los dispositivos adecuados para ello.
 
 ###### ARTICULO 13.
 
@@ -201,9 +225,11 @@ La Secretaría determinará los instrumentos para medir apropiados en razón de 
 
 Los poseedores de los instrumentos para medir tienen obligación de permitir que cualquier parte afectada por el resultado de la medición se cerciore de que los procedimientos empleados en ella son los apropiados.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 17.
 
-Los instrumentos automáticos para medir que se empleen en los servicios de suministro o abastecimiento de agua, gas o energía eléctrica, quedan sujetos a las siguientes prevenciones:
+Los instrumentos de medición automáticos que se empleen en los servicios de suministro de agua, gas, energía eléctrica u otros que determine la Secretaría quedan sujetos a las siguientes prevenciones:
 
 I. Las autoridades, empresas o personas que proporcionen directamente el servicio, estarán obligadas a contar con el número suficiente de instrumentos patrón, así como con el equipo de laboratorio necesario para comprobar, por su cuenta, el grado de precisión de los instrumentos en uso;
 
@@ -259,11 +285,15 @@ Se instituye el Sistema Nacional de Calibración con el objeto de procurar la un
 
 La Secretaría autorizará y controlará los patrones nacionales de las unidades básicas y derivadas del Sistema General de Unidades de Medida y coordinará las acciones tendientes a determinar la exactitud de los patrones e instrumentos para medir que utilicen los laboratorios que se acrediten, en relación con la de los respectivos patrones nacionales, a fin de obtener la uniformidad y confiabilidad de las mediciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 25.
 
-El Sistema Nacional de Calibración, se integrará con el Centro Nacional de Metrología, los laboratorios de calibración acreditados y los demás expertos en la materia que se consideren convenientes. En apoyo de dicho Sistema, la Secretaría realizará las siguientes acciones:
+El Sistema Nacional de Calibración se integrará con la Secretaría, el Centro Nacional de Metrología, las entidades de acreditación que correspondan, los laboratorios de calibración acreditados y los demás expertos en la materia que la Secretaría estime convenientes. En apoyo a dicho Sistema, la Secretaría realizará las siguientes acciones:
 
-I. Acreditar laboratorios para que presten servicios técnicos de medición y calibración;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Participar en los comités de evaluación para la acreditación de los laboratorios para que presten servicios técnicos de medición y calibración;
 
 II. Integrar con los laboratorios acreditados cadenas de calibración, de acuerdo con los niveles de exactitud que se les haya asignado;
 
@@ -279,11 +309,15 @@ VII. Establecer mecanismos de evaluación periódica de los laboratorios de cali
 
 VIII. Las demás que se requieran para procurar la uniformidad y confiabilidad de las mediciones.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 26.
 
-La Secretaría acreditará los laboratorios que integran el Sistema Nacional de Calibración mediante comités de evaluación en los términos del artículo 69, siempre que cuenten con las instalaciones, equipo, patrones de medida, personal técnico, organización y métodos operativos adecuados para asegurar la confiabilidad de los servicios que presten.
+Para la acreditación de los laboratorios de calibración se estará a lo dispuesto en el artículo 68.
 
-La acreditación se otorgará por cada prueba específica de calibración o medición que esté en condiciones de efectuar al laboratorio.
+Cuando se requiera servicios técnicos de medición y calibración para la evaluación de la conformidad respecto de las normas oficiales mexicanas, los laboratorios acreditados deberán contar con la aprobación de la Secretaría conforme al artículo 70 y con patrones de medida con trazabilidad a los patrones nacionales.
+
+La acreditación y la aprobación de los laboratorios se otorgarán por cada actividad específica de calibración o medición.
 
 ###### ARTICULO 27.
 
@@ -293,7 +327,7 @@ Las operaciones sobre medición se harán constar en dictámenes que deberá exp
 
 ###### ARTICULO 28.
 
-La Secretaría podrá suspender o revocar el acreditamiento de los laboratorios de calibración, de acuerdo al procedimiento establecido en los artículos 118 y 119 de esta Ley.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ### CAPITULO V. Del Centro Nacional de Metrología
 
@@ -317,7 +351,9 @@ V. Asesorar a los sectores industriales, técnicos y científicos en relación c
 
 VI. Participar en el intercambio de desarrollo metrológico con organismos nacionales e internacionales y en la intercomparación de los patrones de medida;
 
-VII. Dictaminar a solicitud de parte, sobre la capacidad técnica de calibración o medición de los laboratorios que integren el Sistema Nacional de Calibración;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+VII. Realizar peritajes de tercería y dictaminar sobre la capacidad técnica de calibración o de medición de los laboratorios, a solicitud de parte o de la Secretaría dentro de los comités de evaluación para la acreditación;
 
 VIII. Organizar y participar, en su caso, en congresos, seminarios, conferencias, cursos o en cualquier otro tipo de eventos relacionados con la metrología;
 
@@ -415,23 +451,39 @@ Corresponde a las dependencias según su ámbito de competencia:
 
 I. Contribuir en la integración del Programa Nacional de Normalización con las propuestas de normas oficiales mexicanas;
 
-II. Expedir normas oficiales mexicanas en las materias relacionadas con sus atribuciones;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+II. Expedir normas oficiales mexicanas en las materias relacionadas con sus atribuciones y determinar su fecha de entrada en vigor;
 
 III. Ejecutar el Programa Nacional de Normalización en sus respectivas áreas de competencia;
 
-IV. Constituir los comités de evaluación y consultivos nacionales de normalización, así como prestarles el asesoramiento necesario;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IV. Constituir y presidir los comités consultivos nacionales de normalización;
 
 V. Certificar, verificar e inspeccionar que los productos, procesos, métodos, instalaciones, servicios o actividades cumplan con las normas oficiales mexicanas;
 
-VI. Aprobar, previo a su acreditamiento, la operación en su área de competencia de los organismos nacionales de normalización, de certificación, laboratorios de pruebas, y unidades de verificación;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-VII. Coordinarse en los casos que proceda con otras dependencias para cumplir con lo dispuesto en esta Ley; y
+VI. Participar en los comités de evaluación para la acreditación y aprobar a los organismos de certificación, los laboratorios de prueba y las unidades de verificación con base en los resultados de dichos comités, cuando se requiera para efectos de la evaluación de la conformidad, respecto de las normas oficiales mexicanas;
 
-VIII. Coordinarse con las instituciones de enseñanza superior para constituir programas de estudio para formar técnicos calificados.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+VII. Coordinarse en los casos que proceda con otras dependencias para cumplir con lo dispuesto en esta Ley y comunicar a la Secretaría su opinión sobre los proyectos de regulaciones técnicas de otros países, en los términos de los acuerdos y tratados internacionales en los que los Estados Unidos Mexicanos sea parte;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+VIII. Coordinarse con las instituciones de enseñanza superior, asociaciones o colegios de profesionales, para constituir programas de estudio y capacitación con objeto de formar técnicos calificados y promover las actividades a que se refiere esta Ley; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IX. Las demás atribuciones que le confiera la presente Ley y su reglamento.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 39.
 
-Corresponde a la Secretaría:
+Corresponde a la Secretaría, además de lo establecido en el artículo anterior:
 
 I. Integrar el Programa Nacional de Normalización con las normas oficiales mexicanas y normas mexicanas que se pretendan elaborar anualmente;
 
@@ -439,21 +491,45 @@ II. Codificar las normas oficiales mexicanas por materias y mantener el inventar
 
 III. Fungir como Secretario Técnico de la Comisión Nacional de Normalización y de los Comités Nacionales de Normalización, salvo que los propios comités decidan nombrar al secretario técnico de los mismos;
 
-IV. Acreditar a los organismos nacionales de normalización, de certificación, laboratorios de pruebas y de calibración y unidades de verificación previa aprobación de las dependencias competentes;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-> <small>(REFORMADA, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+IV. Mantener un registro de organismos nacionales de normalización, de las entidades de acreditación y de las personas acreditadas y aprobadas;
 
-V. Expedir las normas oficiales mexicanas en las áreas a que se refiere las fracciones I a IV, VI, VIII, IX, XII, XIV, XV y XVIII del artículo 40 de la presente Ley;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+V. Expedir las normas oficiales mexicanas a que se refieren las fracciones I a IV, VIII, IX, XII, XV y XVIII del artículo 40 de la presente Ley, en las áreas de su competencia;
 
 VI. Llevar a cabo acciones y programas para el fomento de la calidad de los productos y servicios mexicanos;
 
 VII. Coordinarse con las demás dependencias para el adecuado cumplimiento de las disposiciones de esta Ley, en base a las atribuciones de cada dependencia;
 
-VIII. Participar con voz y voto en todos los comités consultivos nacionales de normalización en los que se afecten las actividades industriales o comerciales; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-IX. Coordinarse con las instituciones de enseñanza superior para constituir programas de estudio para formar técnicos calificados.
+VIII. Participar con voz y voto en los comités consultivos nacionales de normalización en los que se afecten las actividades industriales o comerciales;
 
-### CAPITULO II. De las Normas Oficiales Mexicanas
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IX. Autorizar a las entidades de acreditación, recibir las reclamaciones que se presenten contra tales entidades y, en su caso, requerir la revisión de las acreditaciones otorgadas, así como aprobar, previa opinión de la Comisión Nacional de Normalización, los lineamientos para la organización de los comités de evaluación;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+X. Coordinar y dirigir los comités y actividades internacionales de normalización y demás temas afines a que se refiere esta Ley;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+XI. Fungir como centro de información en materia de normalización y notificar las normas oficiales mexicanas conforme a lo dispuesto en los acuerdos y tratados internacionales de los que los Estados Unidos Mexicanos sea parte, para lo cual las dependencias deberán proporcionarle oportunamente la información necesaria; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+XII. Las demás facultades que le confiera la presente Ley y su reglamento.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+
+### CAPITULO II. De las Normas Oficiales Mexicanas y de las Normas Mexicanas
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+#### SECCION I. De las Normas Oficiales Mexicanas
 
 ###### ARTICULO 40.
 
@@ -469,7 +545,7 @@ IV. Las características y/o especificaciones relacionadas con los instrumentos 
 
 V. Las especificaciones y/o procedimientos de envase y embalaje de los productos que puedan constituir un riesgo para la seguridad de las personas o dañar la salud de las mismas o el medio ambiente;
 
-VI. Los métodos de prueba y/o procedimientos para comprobar las especificaciones a que se refiere este artículo y el equipo y materiales adecuados para efectuar las pruebas correspondientes, así como los procedimientos de muestreo;
+VI. (DEROGADA, D.O.F. 20 DE MAYO DE 1997)
 
 VII. Las condiciones de salud, seguridad e higiene que deberán observarse en los centros de trabajo y otros centros públicos de reunión;
 
@@ -485,7 +561,7 @@ XII. La determinación de la información comercial, sanitaria, ecológica, de c
 
 XIII. Las características y/o especificaciones que deben reunir los equipos, materiales, dispositivos e instalaciones industriales, comerciales, de servicios y domésticas para fines sanitarios, acuícolas, agrícolas, pecuarios, ecológicos, de comunicaciones, de seguridad o de calidad y particularmente cuando sean peligrosos;
 
-XIV. Los requisitos y procedimientos que deberán observarse en la elaboración de normas mexicanas y en la certificación del cumplimiento de las mismas;
+XIV. (DEROGADA, D.O.F. 20 DE MAYO DE 1997)
 
 XV. Los apoyos a las denominaciones de origen para productos del país;
 
@@ -495,11 +571,17 @@ XVII. Las características y/o especificaciones, criterios y procedimientos para
 
 XVIII. Otras en que se requiera normalizar productos, métodos, procesos, sistemas o prácticas industriales, comerciales o de servicios de conformidad con otras disposiciones legales, siempre que se observe lo dispuesto por los artículos 45 a 47.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Los criterios, reglas, instructivos, manuales, circulares, lineamientos, procedimientos u otras disposiciones de carácter obligatorio que requieran establecer las dependencias y se refieran a las materias y finalidades que se establecen en este artículo, sólo podrán expedirse como normas oficiales mexicanas conforme al procedimiento establecido en esta Ley.
+
 ###### ARTICULO 41.
 
 Las normas oficiales mexicanas deberán contener:
 
-I. La denominación de la norma, su clave y en su caso, la mención a las normas en que se basa;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. La denominación de la norma y su clave o código, así como las finalidades de la misma conforme al artículo 40;
 
 II. La identificación del producto, servicio, método, proceso, instalación o, en su caso, del objeto de la norma conforme a lo dispuesto en el artículo precedente;
 
@@ -509,7 +591,9 @@ IV. Los métodos de prueba aplicables en relación con la norma y en su caso, lo
 
 V. Los datos y demás información que deban contener los productos o, en su defecto, sus envases o empaques, así como el tamaño y características de las diversas indicaciones;
 
-VI. El grado de concordancia con normas y recomendaciones internacionales cuando existan;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+VI. El grado de concordancia con normas y lineamientos internacionales y con las normas mexicanas tomadas como base para su elaboración;
 
 VII. La bibliografía que corresponda a la norma;
 
@@ -519,7 +603,7 @@ IX. Las otras menciones que se consideren convenientes para la debida compresió
 
 ###### ARTICULO 42.
 
-Las normas mexicanas deberán cumplir con lo dispuesto en las fracciones I a VII y IX del artículo anterior.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 43.
 
@@ -533,25 +617,21 @@ Asimismo, los organismos nacionales de normalización podrán someter a dichos c
 
 Los comités consultivos nacionales de normalización, con base en los anteproyectos mencionados, elaborarán a su vez los proyectos de normas oficiales mexicanas, de conformidad con lo dispuesto en el presente capítulo.
 
-Para la elaboración de normas oficiales mexicanas deberán tomarse en consideración la (sic) normas mexicanas y las emitidas por organismos internacionales reconocidos por el gobierno mexicano en los términos del derecho internacional.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Para la elaboración de normas oficiales mexicanas se deberá revisar si existen otras relacionadas, en cuyo caso se coordinarán las dependencias correspondientes para que se elabore de manera conjunta una sola norma oficial mexicana por sector o materia. Además, se tomarán en consideración las normas mexicanas y las internacionales, y cuando éstas últimas no constituyan un medio eficaz o apropiado para cumplir con las finalidades establecidas en el artículo 40, la dependencia deberá comunicarlo a la Secretaría antes de que se publique el proyecto en los términos del artículo 47, fracción I.
 
 Las personas interesadas podrán presentar a las dependencias, propuestas de normas oficiales mexicanas, las cuales harán la evaluación correspondiente y en su caso, presentarán al comité respectivo el anteproyecto de que se trate.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 45.
 
-Los anteproyectos que se presenten en los comités para discusión, deberán acompañarse de un análisis que comprenda:
+Los anteproyectos que se presenten en los comités para discusión se acompañarán de una manifestación de impacto regulatorio, en la forma que determine la Secretaría, que deberá contener una explicación sucinta de la finalidad de la norma, de las medidas propuestas, de las alternativas consideradas y de las razones por las que fueron desechadas, una comparación de dichas medidas con los antecedentes regulatorios, así como una descripción general de las ventajas y desventajas y de la factibilidad técnica de la comprobación del cumplimiento con la norma. Para efectos de lo dispuesto en el artículo 4A de la Ley Federal de Procedimiento Administrativo, la manifestación debe presentarse a la Secretaría en la misma fecha que al comité.
 
-I. La razón científica, técnica o de protección al consumidor de la norma, que apoyen su formulación y expedición;
+Cuando la norma pudiera tener un amplio impacto en la economía o un efecto sustancial sobre un sector específico, la manifestación deberá incluir un análisis en términos monetarios del valor presente de los costos y beneficios potenciales del anteproyecto y de las alternativas consideradas, así como una comparación con las normas internacionales. Si no se incluye dicho análisis conforme a este párrafo, el comité o la Secretaría podrán requerirlo dentro de los 15 días naturales siguientes a que se presente la manifestación al comité, en cuyo caso se interrumpirá el plazo señalado en el artículo 46, fracción I.
 
-II. La descripción de los beneficios potenciales de la norma, incluyendo los beneficios que no pueden ser cuantificados en términos monetarios y la identificación de aquellas personas o grupos que se beneficiarían por la norma;
-
-III. La descripción de los costos potenciales de la norma, incluyendo cualquier efecto adverso que no pueda ser cuantificado en términos monetarios y la identificación de las personas o grupos que tendrían la carga de los costos;
-
-IV. La cuantificación en términos monetarios de los beneficios netos potenciales de la norma, incluyendo una evaluación de los efectos que no pueden ser cuantificados en términos monetarios; y
-
-V. La justificación de por qué la norma oficial mexicana es entre otras alternativas posibles, el mecanismo que permite alcanzar el objetivo deseado con el mayor beneficio neto. Esta justificación deberá incluir una descripción de los otros mecanismos que permita alcanzar el mismo objetivo con mayor beneficio neto que la norma oficial mexicana propuesta, y las razones legales o de otra índole por las cuales estos mecanismos no fueron adoptados. Cuando no existan mecanismos alternativos deberá hacerse mención de ello en el análisis.
-
-Sólo se podrán expedir normas oficiales mexicanas que cumplan con lo dispuesto en este artículo, salvo que se trate del caso previsto en el artículo 48 de la presente Ley.
+Cuando el análisis mencionado no sea satisfactorio a juicio del comité o de la Secretaría, éstos podrán solicitar a la dependencia que efectúe la designación de un experto, la cual deberá ser aprobada por el presidente de la Comisión Nacional de Normalización y la Secretaría. De no existir acuerdo, estos últimos nombrarán a sus respectivos expertos para que trabajen conjuntamente con el designado por la dependencia. En ambos casos, el costo de la contratación será con cargo al presupuesto de la dependencia o a los particulares interesados. Dicha solicitud podrá hacerse desde que se presente el análisis al comité y hasta 15 días naturales después de la publicación prevista en el artículo 47, fracción I. Dentro de los 60 días naturales siguientes a la contratación del o de los expertos, se deberá efectuar la revisión del análisis y entregar comentarios al comité, a partir de lo cual se computará el plazo a que se refiere el artículo 47, fracción II.
 
 ###### ARTICULO 46.
 
@@ -565,11 +645,15 @@ II. La dependencia u organismo que elaboró el anteproyecto de norma, contestar�
 
 Los proyectos de normas oficiales mexicanas se ajustarán al siguiente procedimiento:
 
-I. Se publicarán íntegramente en el Diario Oficial de la Federación a efecto de que dentro de los siguientes 90 días naturales los interesados presenten sus comentarios al comité consultivo nacional de normalización correspondiente. Durante este plazo los análisis a que se refiere el artículo 45 estarán a disposición del público para su consulta en el comité;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Se publicarán íntegramente en el Diario Oficial de la Federación a efecto de que dentro de los siguientes 60 días naturales los interesados presenten sus comentarios al comité consultivo nacional de normalización correspondiente. Durante este plazo la manifestación a que se refiere el artículo 45 estará a disposición del público para su consulta en el comité;
 
 II. Al término del plazo a que se refiere de la fracción anterior, el comité consultivo nacional de normalización correspondiente estudiará los comentarios recibidos y, en su caso, procederá a modificar el proyecto en un plazo que no excederá los 45 días naturales;
 
-III. Las dependencias deberán ordenar la publicación de las respuestas a los comentarios recibidos, con anterioridad a la publicación de la norma oficial mexicana; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Se ordenará la publicación en el Diario Oficial de la Federación de las respuestas a los comentarios recibidos así como de las modificaciones al proyecto, cuando menos 15 días naturales antes de la publicación de la norma oficial mexicana; y
 
 IV. Una vez aprobadas por el comité de normalización respectivo, las normas oficiales mexicanas serán expedidas por la dependencia competente y publicadas en el Diario Oficial de la Federación.
 
@@ -581,17 +665,35 @@ Lo dispuesto en este artículo no se aplicará en el caso del artículo siguient
 
 En casos de emergencia, la dependencia competente podrá elaborar directamente, aún sin haber mediado anteproyecto o proyecto y, en su caso, con la participación de las demás dependencias competentes, la norma oficial mexicana, misma que ordenará se publique en el Diario Oficial de la Federación con una vigencia máxima de seis meses. En ningún caso se podrá expedir más de dos veces consecutivas la misma norma en los términos de este artículo.
 
-Si la dependencia que elaboró la norma decidiera extender el plazo de vigencia o hacerla permanente, se presentará como anteproyecto en los términos de las fracciones I y II del artículo 46.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Previa a la segunda expedición, se debe presentar una manifestación de impacto regulatorio a la Secretaría y si la dependencia que elaboró la norma decidiera extender el plazo de vigencia o hacerla permanente, se presentará como anteproyecto en los términos de las fracciones I y II del artículo 46.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Sólo se considerarán casos de emergencia los acontecimientos inesperados que afecten o amenacen de manera inminente las finalidades establecidas en el artículo 40.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+La norma oficial mexicana debe cumplir con lo dispuesto en el artículo 41, establecer la base científica o técnica que apoye su expedición conforme a las finalidades establecidas en el artículo 40 y tener por objeto evitar daños irreparables o irreversibles.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 49.
 
-(DEROGADO, D.O.F. 24 DE DICIEMBRE DE 1996)
+Cuando una norma oficial mexicana obligue al uso de materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías específicos, los destinatarios de las normas pueden solicitar la autorización a la dependencia que la hubiere expedido para utilizar o aplicar materiales, equipos, procesos, métodos de prueba, mecanismos, procedimientos o tecnologías alternativos. Debe acompañarse a la solicitud la evidencia científica u objetiva necesaria que compruebe que con la alternativa planteada se da cumplimiento a las finalidades de la norma respectiva.
+
+La dependencia turnará copia de la solicitud al comité consultivo nacional de normalización correspondiente dentro de los 5 días naturales siguientes a que la reciba, el cual podrá emitir su opinión. En todo caso la dependencia deberá resolver dentro de los 60 días naturales siguientes a la recepción de la solicitud. Este plazo será prorrogable una sola vez por igual periodo y se suspenderá en caso de que la dependencia requiera al interesado mayores elementos de justificación, reanudándose al día hábil siguiente al en que se cumpla el requerimiento. La autorización se otorgará dejando a salvo los derechos protegidos en las leyes en materia de propiedad intelectual, y se considerará que es afirmativa si no se emite dentro del plazo correspondiente.
+
+La autorización se publicará en el Diario Oficial de la Federación y surtirá efectos en beneficio de todo aquel que la solicite, siempre que compruebe ante la dependencia que se encuentra en los mismos supuestos de la autorización otorgada. La dependencia resolverá esta solicitud dentro de los 15 días naturales siguientes; en caso contrario se considerará que la resolución es afirmativa.
 
 ###### ARTICULO 50.
 
 Las dependencias podrán requerir de fabricantes, importadores, prestadores de servicios, consumidores o centros de investigación, los datos necesarios para la elaboración de anteproyectos de normas oficiales mexicanas. También podrán recabar, de éstos para los mismos fines, las muestras estrictamente necesarias, las que serán devueltas una vez efectuado su estudio, salvo que para éste haya sido necesaria su destrucción.
 
-Toda la información y documentación que se alleguen las dependencias para la elaboración de anteproyectos de normas oficiales mexicanas, así como para cualquier trámite administrativo relativo a las mismas, se empleará exclusivamente para tales fines, tendrá el carácter de confidencial y no será divulgada, gozando de la protección establecida en la Ley para el Fomento y Protección de la Propiedad Industrial.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+La información y documentación que se alleguen las dependencias para la elaboración de anteproyectos de normas oficiales mexicanas, así como para cualquier trámite administrativo relativo a las mismas, se empleará exclusivamente para tales fines y cuando la confidencialidad de la misma esté protegida por la ley, el interesado deberá autorizar su uso. A solicitud expresa del interesado, tendrá el carácter de confidencial y no será divulgada, gozando de la protección establecida en materia de propiedad intelectual.
 
 ###### ARTICULO 51.
 
@@ -605,6 +707,42 @@ Cuando no subsistan las causas que motivaron la expedición de una norma oficial
 
 Lo dispuesto en el párrafo anterior no es aplicable cuando se pretendan crear nuevos requisitos o procedimientos, o bien incorporar especificaciones más estrictas, en cuyo caso deberá seguirse el procedimiento para la elaboración de las normas oficiales mexicanas.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Las normas oficiales mexicanas deberán ser revisadas cada 5 años a partir de la fecha de su entrada en vigor, debiendo notificarse al secretariado técnico de la Comisión Nacional de Normalización los resultados de la revisión, dentro de los 60 días naturales posteriores a la terminación del período quinquenal correspondiente. De no hacerse la notificación, las normas perderán su vigencia y las dependencias que las hubieren expedido deberán publicar su cancelación en el Diario Oficial de la Federación. La Comisión podrá solicitar a la dependencia dicha cancelación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Sin perjuicio de lo anterior, dentro del año siguiente a la entrada en vigor de la norma, el comité consultivo nacional de normalización o la Secretaría podrán solicitar a las dependencias que se analice su aplicación, efectos y observancia a fin de determinar las acciones que mejoren su aplicación y si procede o no su modificación o cancelación.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
+
+#### SECCION II. De las Normas Mexicanas
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 51-A.
+
+Las normas mexicanas son de aplicación voluntaria, salvo en los casos en que los particulares manifiesten que sus productos, procesos o servicios son conformes con las mismas y sin perjuicio de que las dependencias requieran en una norma oficial mexicana su observancia para fines determinados. Su campo de aplicación puede ser nacional, regional o local.
+
+Para la elaboración de las normas mexicanas se estará a lo siguiente:
+
+I. Deberán incluirse en el Programa Nacional de Normalización;
+
+II. Tomar como base las normas internacionales, salvo que las mismas sean ineficaces o inadecuadas para alcanzar los objetivos deseados y ello esté debidamente justificado; y
+
+III. Estar basadas en el consenso de los sectores interesados que participen en el comité y someterse a consulta pública por un periodo de cuanto menos 60 días naturales antes de su expedición, mediante aviso publicado en el Diario Oficial de la Federación que contenga un extracto de la misma.
+
+Para que las normas elaboradas por los organismos nacionales de normalización, y excepcionalmente las elaboradas por otros organismos, cámaras, colegios de profesionistas, asociaciones, empresas, dependencias o entidades de la administración pública federal, se puedan expedir como normas mexicanas, deben cumplir con los requisitos establecidos en esta Sección, en cuyo caso el secretariado técnico de la Comisión Nacional de Normalización publicará en el Diario Oficial de la Federación la declaratoria de vigencia de las mismas, con carácter informativo.
+
+La revisión, actualización o cancelación de las normas mexicanas deberá cumplir con el mismo procedimiento que para su elaboración, pero en todo caso deberán ser revisadas o actualizadas dentro de los 5 años siguientes a la publicación de la declaratoria de vigencia, debiendo notificarse al secretariado técnico los resultados de la revisión o actualización. De no hacerse la notificación, el secretariado técnico de la Comisión Nacional de Normalización ordenará su cancelación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1996)</small>
+
+###### ARTICULO 51-B.
+
+La Secretaría, por sí o a solicitud de las dependencias, podrá expedir normas mexicanas en las áreas no cubiertas por los organismos nacionales de normalización, o cuando se demuestre a la Comisión Nacional de Normalización que las normas expedidas por dichos organismos no reflejan los intereses de los sectores involucrados. Para ello, los temas propuestos como normas mexicanas se deberán incluir en el Programa Nacional de Normalización, justificar su conveniencia y, en su caso, la dependencia que lo solicite deberá también demostrar que cuenta con la capacidad para coordinar los comités de normalización correspondientes. En todo caso, tales normas deberán cumplir con lo dispuesto en esta Sección.
+
 ### CAPITULO III. De la Observancia de las Normas
 
 ###### ARTICULO 52.
@@ -615,9 +753,13 @@ Todos los productos, procesos, métodos, instalaciones, servicios o actividades 
 
 Cuando un producto o servicio deba cumplir una determinada norma oficial mexicana, sus similares a importarse también deberán cumplir las especificaciones establecidas en dicha norma.
 
-Para tal efecto, antes de su internación al país, se deberá contar con el certificado o autorización de la dependencia competente para regular el producto o servicio correspondiente; o de órganos reguladores extranjeros que hayan sido reconocidos o aprobados por las dependencias competentes, mediante acuerdos publicados en el Diario Oficial de la Federación; o de organismos de certificación acreditados.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
-Cuando no exista norma oficial mexicana, los productos o servicios a importarse deberán mencionar ostensiblemente, antes y durante su comercialización, que cumplen con las especificaciones del país de origen, en su defecto las internacionales o a falta de éstas las del fabricante.
+Para tal efecto, los productos o servicios a importarse deberán contar con el certificado o autorización de la dependencia competente para regular el producto o servicio correspondiente, o de las personas acreditadas y aprobadas por las dependencias competentes para tal fin conforme a lo dispuesto en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Cuando no exista norma oficial mexicana, las dependencias competentes podrán requerir que los productos o servicios a importarse ostenten las especificaciones internacionales con que cumplen, las del país de origen o a falta de éstas, las del fabricante.
 
 ###### ARTICULO 54.
 
@@ -627,7 +769,17 @@ Las normas mexicanas, constituirán referencia para determinar la calidad de los
 
 En las controversias de carácter civil, mercantil o administrativo, cuando no se especifiquen las características de los bienes o servicios, las autoridades judiciales o administrativas competentes en sus resoluciones deberán tomar como referencia las normas oficiales mexicanas y en su defecto las normas mexicanas.
 
-Sin perjuicio de lo dispuesto por la ley de la materia, los bienes o servicios que adquieran o arrienden las dependencias y entidades de la administración pública federal, deberán cumplir con las especificaciones fijadas en las normas oficiales mexicanas.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Sin perjuicio de lo dispuesto por la ley de la materia, los bienes o servicios que adquieran, arrienden o contraten las dependencias y entidades de la administración pública federal, deben cumplir con las normas oficiales mexicanas y, en su caso, con las normas mexicanas, y a falta de éstas, con las internacionales.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Para la evaluación de la conformidad con dichas normas se estará a lo dispuesto en el Título Cuarto.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Cuando las dependencias y entidades establezcan requisitos a los proveedores para comprobar su confiabilidad o sus procedimientos de aseguramiento de calidad en la producción de bienes o servicios, dichos requisitos se deberán basar en las normas expedidas conforme a esta Ley, y publicarse con anticipación a fin de que los proveedores estén en condiciones de conocerlos y cumplirlos.
 
 ###### ARTICULO 56.
 
@@ -655,19 +807,27 @@ Se instituye la Comisión Nacional de Normalización con el fin de coadyuvar en 
 
 Integrarán la Comisión Nacional de Normalización:
 
-I. Los subsecretarios correspondientes de las Secretarías de Hacienda y Crédito Público; Desarrollo Social; Energía, Minas e Industria Paraestatal; Comercio y Fomento Industrial; Agricultura y Recursos Hidráulicos; Comunicaciones y Transportes; Salud; Trabajo y Previsión Social; Turismo; y Pesca;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Los subsecretarios correspondientes de las Secretarías de Desarrollo Social; Medio Ambiente, Recursos Naturales y Pesca; Energía; Comercio y Fomento Industrial; Agricultura, Ganadería y Desarrollo Rural; Comunicaciones y Transportes; Salud; Trabajo y Previsión Social, y Turismo;
 
 II. Sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior; de las cámaras y asociaciones de industriales y comerciales del país que determinen las dependencias; organismos nacionales de normalización y organismos del sector social productivo; y
 
-III. Los titulares del Consejo Nacional de Ciencia y Tecnología; de los Laboratorios Nacionales de Fomento Industrial; del Centro Nacional de Metrología; del Instituto Nacional de Ecología; del Instituto Nacional del Consumidor; del Instituto Mexicano de Comunicaciones; del Instituto Mexicano del Transporte; del Instituto Nacional de Pesca y de los institutos de investigación que se consideren pertinentes.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Los titulares de las subsecretarías correspondientes de las Secretarías de Hacienda y Crédito Público, de Contraloría y Desarrollo Administrativo, y de Educación Pública, así como del Consejo Nacional de Ciencia y Tecnología; del Centro Nacional de Metrología; del Instituto Nacional de Ecología; de la Procuraduría Federal del Consumidor; del Instituto Mexicano del Transporte; del Instituto Nacional de Pesca, y de los institutos de investigación o entidades relacionadas con la materia que se consideren pertinentes.
 
 Por cada propietario podrá designarse un suplente para cubrir las ausencias temporales de aquél exclusivamente.
 
 Asimismo, podrá invitarse a participar en la (sic) sesiones de la Comisión a representantes de otras dependencias, de las entidades federativas, organismos públicos y privados, organizaciones de trabajadores, consumidores y profesionales e instituciones científicas y tecnológicas, cuando se traten temas de su competencia, especialidad o interés.
 
-La Comisión será presidida rotativamente durante seis meses por los subsecretarios en el orden establecido en la fracción I de este artículo.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
-Para el desempeño de sus funciones, la Comisión contará con un secretariado técnico a cargo de la Secretaría.
+La Comisión será presidida rotativamente durante un año por los subsecretarios en el orden establecido en la fracción I de este artículo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Para el desempeño de sus funciones, la Comisión contará con un secretariado técnico a cargo de la Secretaría y un consejo técnico.
 
 ###### ARTICULO 60.
 
@@ -677,17 +837,25 @@ I. Aprobar anualmente el Programa Nacional de Normalización y vigilar su cumpli
 
 II. Establecer reglas de coordinación entre las dependencias y entidades de la administración pública federal y organizaciones privadas para la elaboración y difusión de normas y su cumplimiento;
 
-III. Recomendar la elaboración de las normas que considere conveniente;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Recomendar a las dependencias la elaboración, modificación, cancelación de normas oficiales mexicanas, o su expedición conjunta;
 
 IV. Resolver las discrepancias que puedan presentarse en los trabajos de los comités consultivos nacionales de normalización;
 
-V. Opinar, cuando se le solicite, sobre el acreditamiento de organismos nacionales de normalización;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+V. Opinar, cuando se requiera, sobre el registro de organismos nacionales de normalización;
 
 VI. Proponer la integración de grupos de trabajo para el estudio e investigación de materias específicas;
 
-VII. Proponer las medidas que se estimen oportunas para el fomento de la normalización;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-VIII. Dictar los lineamientos para la organización de los comités de evaluación y consultivos nacionales de normalización; y
+VII. Proponer las medidas que se estimen oportunas para el fomento de la normalización, así como aquellas necesarias para resolver las quejas que presenten los interesados sobre aspectos relacionados con la aplicación de la presente Ley;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+VIII. Dictar los lineamientos para la organización de los comités consultivos nacionales de normalización y opinar respecto de aquellos aplicables a lo(sic) comités de evaluación; y
 
 IX. Todas aquellas que sean necesarias para la realización de las funciones señaladas.
 
@@ -698,6 +866,16 @@ El reglamento interior de la Comisión determinará la manera conforme la cual s
 Las sesiones de la Comisión Nacional de Normalización serán convocadas por el secretario técnico a petición de su presidente o de cualquiera de los integrantes a que refiere el artículo 59 y se celebrarán por lo menos una vez cada 3 meses.
 
 En el caso de la fracciones I, II, IV y VIII del artículo anterior, las decisiones se tomarán por mayoría de votos de los miembros a que se refiere la fracción I del artículo 59 y las sesiones serán válidas con la asistencia de por lo menos siete de éstos. En los demás casos, por la mayoría de todos los miembros, pero deberán asistir por lo menos cuatro de los representantes mencionados en la fracción II del mismo artículo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 61-A.
+
+El Programa Nacional de Normalización se integra por el listado de temas a normalizar durante el año que corresponda para normas oficiales mexicanas, normas mexicanas o las normas a que se refiere el artículo 67, incluirá el calendario de trabajo para cada tema y se publicará en el Diario Oficial de la Federación. Cuando a juicio de la Comisión Nacional de Normalización dicho Programa requiera de un suplemento, deberá seguirse el mismo procedimiento que para su integración y publicación.
+
+La Comisión Nacional de Normalización establecerá las bases para la integración del Programa.
+
+Las dependencias competentes no podrán expedir normas oficiales mexicanas sobre temas no incluidos en el Programa del año de que se trate o en su suplemento, salvo los casos previstos en el artículo 48.
 
 ### CAPITULO V. De los Comités Consultivos Nacionales de Normalización
 
@@ -711,17 +889,25 @@ Las dependencias competentes, en coordinación con el secretariado técnico de l
 
 Las dependencias competentes, de acuerdo con los lineamientos que dicte la Comisión Nacional de Normalización, organizarán los comités consultivos nacionales de normalización y fijarán las reglas para su operación. La dependencia que regule el mayor número de actividades del proceso de un bien o servicio dentro de cada comité, tendrá la presidencia correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Los mismos se organizarán por materias o sectores a nivel nacional y no podrá existir más de un comité por dependencia, salvo en los casos debidamente justificados ante la Comisión.
+
 ###### ARTICULO 64.
 
 Las resoluciones de los comités deberán tomarse por consenso; de no ser esto posible, por mayoría de votos de los miembros. Para que las resoluciones tomadas por mayoría sean válidas, deberán votar favorablemente cuando menos la mitad de las dependencias representadas en el comité y contar con el voto aprobatorio del presidente del mismo. En ningún caso se podrá expedir una norma oficial mexicana que contravenga otras disposiciones legales o reglamentarias.
 
 ### CAPITULO VI. De los Organismos Nacionales de Normalización
 
+> <small>(REFORMADO PARRAFO PRIMERO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 65.
 
-Para obtener el acreditamiento por la Secretaría como organismo nacional de normalización, se requerirá la aprobación previa de la dependencia competente según la materia de que se trate. El solicitante deberá:
+Para operar como organismo nacional de normalización se requiere:
 
-I. Presentar solicitud por escrito;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Presentar solicitud de registro ante la Secretaría, con copia para la dependencia que corresponda;
 
 II. Presentar sus estatutos para aprobación de la Secretaría en donde conste que:
 
@@ -731,7 +917,9 @@ b) Sus labores de normalización se lleven a cabo a través de comités integrad
 
 c) Tengan cobertura nacional; y
 
-III. Presentar a la Secretaría el programa de financiamiento que asegure la continuidad en sus actividades.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Tener capacidad para participar en las actividades de normalización internacional, y haber adoptado el código para la elaboración, adopción y aplicación de normas internacionalmente aceptado.
 
 ###### ARTICULO 66.
 
@@ -741,63 +929,181 @@ I. Permitir la participación de todos los sectores interesados en los comités 
 
 II. Conservar las minutas de las sesiones de los comités y de otras deliberaciones, decisiones o acciones que permitan la verificación por parte de la Secretaría, y presentar los informes que ésta les requiera;
 
-III. Hacer del conocimiento público los proyectos de normas que pretendan emitir y atender cualquier solicitud de información que sobre éstos o sus normas hagan los interesados;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Hacer del conocimiento público los proyectos de normas mexicanas que pretendan emitir mediante aviso en el Diario Oficial de la Federación y atender cualquier solicitud de información que sobre éstos hagan los interesados;
 
 IV. Celebrar convenios de cooperación con la Secretaría a fin de que ésta pueda, entre otras, mantener actualizada la colección de normas mexicanas;
 
-V. Admitir en su órgano de gobierno a un representante de la Secretaría; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+V. Remitir al secretariado técnico de la Comisión Nacional de Normalización las normas que hubieren elaborado para que se publique su declaratoria de vigencia; y
 
 VI. Tener sistemas apropiados para la identificación y clasificación de normas.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 67.
 
-Las entidades de la administración pública federal, deberán constituir comités de normalización para la elaboración de las normas de referencia conforme a las cuales adquieran, arrienden o contraten bienes o servicios.
+Las entidades de la administración pública federal, deberán constituir comités de normalización para la elaboración de las normas de referencia conforme a las cuales adquieran, arrienden o contraten bienes o servicios, cuando las normas mexicanas o internacionales no cubran los requerimientos de las mismas, o bien las especificaciones contenidas en dichas normas se consideren inaplicables u obsoletas.
 
-Dichos comités se ajustarán en lo conducente a lo dispuesto por los artículos 62 y 64 de esta Ley.
+Dichos comités se constituirán en coordinación con el secretariado técnico de la Comisión Nacional de Normalización y se ajustarán en lo conducente a lo dispuesto en los artículos 62 y 64 de esta Ley. Las normas que elaboren deberán cumplir con lo previsto en el artículo 51-A.
 
-## TITULO CUARTO. DE LA ACREDITACION Y CERTIFICACION
+Se podrán someter las especificaciones requeridas por las entidades a los comités donde se hubieren elaborado las normas mexicanas respectivas, a fin de que aquéllos lleven a cabo la actualización de la norma mexicana correspondiente.
 
-### CAPITULO I. Disposiciones Generales
+Hasta en tanto se elaboren las normas de referencia a que alude el primer párrafo de este artículo, las entidades podrán efectuar la adquisición, arrendamiento o contratación conforme a las especificaciones que las mismas entidades determinen, pero deberán informar semestralmente al secretariado técnico de la Comisión Nacional de Normalización sobre los avances de los programas de trabajo de tales comités y justificar las razones por las cuales las normas no se hayan concluido.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+
+## TITULO CUARTO. DE LA ACREDITACION Y DETERMINACION DEL CUMPLIMIENTO
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+
+### CAPITULO I. De la Acreditación y Aprobación
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 68.
 
-La certificación y verificación de las normas oficiales mexicanas se realizará por las dependencias o por organismos de certificación, laboratorios de pruebas y de calibración y unidades de verificación acreditados.
+La evaluación de la conformidad será realizada por las dependencias competentes o por los organismos de certificación, los laboratorios de prueba o de calibración y por las unidades de verificación acreditados y, en su caso, aprobados en los términos del artículo 70.
+
+La acreditación de los organismos, laboratorios y unidades a que se refiere el párrafo anterior será realizada por las entidades de acreditación, para lo cual el interesado deberá:
+
+I. Presentar solicitud por escrito a la entidad de acreditación correspondiente, acompañando, en su caso, sus estatutos y propuesta de actividades;
+
+II. Señalar las normas que pretende evaluar, indicando la materia, sector, rama, campo o actividad respectivos y describir los servicios que pretende prestar y los procedimientos a utilizar;
+
+III. Demostrar que cuenta con la adecuada capacidad técnica, material y humana, en relación con los servicios que pretende prestar, así como con los procedimientos de aseguramiento de calidad, que garantice el desempeño de sus funciones; y
+
+IV. Otros que se determinen en esta Ley o su reglamento.
+
+Integrada la solicitud de acreditación, se procederá conforme a lo dispuesto en el artículo siguiente.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 69.
 
-La Secretaría deberá acreditar, previa la aprobación de las dependencias competentes, a las personas físicas o morales para operar como organismos de certificación, laboratorios de prueba y unidades de verificación.
+Las entidades de acreditación integrarán comités de evaluación, como órganos de apoyo para la acreditación y, en su caso, para la aprobación por las dependencias competentes.
 
-Para la aprobación a que se refiere el párrafo anterior, las dependencias formarán comités de evaluación integrados por técnicos calificados y con experiencia en los campos de las ramas específicas.
+Los comités de evaluación estarán constituidos por materias, sectores y ramas específicas, e integrados por técnicos calificados con experiencia en los respectivos campos, así como por representantes de los productores, consumidores, prestadores y usuarios del servicio, y por el personal técnico de las entidades de acreditación y de las dependencias competentes, conforme a los lineamientos que dicte la Secretaría, previa opinión de la Comisión Nacional de Normalización.
 
-En los casos en que el organismo, laboratorio o unidades por acreditar pretendan ofrecer servicios para dos o más dependencias, los comités correspondientes evaluarán y dictaminarán de manera conjunta la procedencia del acreditamiento.
+Cuando los comités de evaluación no cuenten con técnicos en el campo respectivo la entidad de acreditación lo notificará al solicitante y adoptará las medidas necesarias para contar con ellos.
+
+El comité de evaluación correspondiente designará a un grupo evaluador que procederá a realizar las visitas o acciones necesarias para comprobar que los solicitantes de acreditación cuentan con las instalaciones, equipo, personal técnico, organización y métodos operativos adecuados, que garanticen su competencia técnica y la confiabilidad de sus servicios.
+
+Los gastos derivados de la acreditación así como los honorarios de los técnicos que en su caso se requieran, correrán por cuenta de los solicitantes, los que deberán ser informados al respecto en el momento de presentar su solicitud.
+
+En caso de no ser favorable el dictamen del comité de evaluación, se otorgará un plazo de 180 días naturales al solicitante para corregir las fallas encontradas. Dicho plazo podrá prorrogarse por plazos iguales, cuando se justifique la necesidad de ello.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 70.
 
-Presentada la solicitud de acreditamiento, el comité de evaluación correspondiente procederá a realizar las visitas que sean necesarias para determinar si se cumplen los requisitos que fije la Ley, su reglamento y las normas oficiales mexicanas.
+Las dependencias competentes podrán aprobar a las personas acreditadas que se requieran para la evaluación de la conformidad en lo que se refiere a normas oficiales mexicanas, para lo cual se sujetarán a lo siguiente:
 
-Cuando los comités de evaluación no cuenten con expertos en determinada área, las dependencias notificarán al solicitante sobre este hecho y tomarán las medidas necesarias para contar con tales expertos. Cuando los expertos no sean personal de la dependencia, los honorarios de éstos correrán por cuenta de los solicitantes.
+I. Identificar las normas oficiales mexicanas para las que se requiere de la evaluación de la conformidad por personas aprobadas y, en su caso, darlo a conocer en el Diario Oficial de la Federación; y
 
-En caso de no ser favorable el dictamen del comité, se otorgará un plazo de 180 días naturales al solicitante para corregir las faltas encontradas. Dicho plazo podrá prorrogarse por plazos iguales, cuando se justifique la necesidad de ello.
+II. Participar en los comités de evaluación para la acreditación, o reconocer sus resultados. No duplicar los requisitos solicitados para su acreditación, sin perjuicio de establecer adicionales, cuando se compruebe justificadamente a la Secretaría la necesidad de los mismos a fin de salvaguardar tanto el objetivo de la norma oficial mexicana, como los resultados de la evaluación de la conformidad con la misma y la verificación al solicitante de las condiciones para su aprobación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 70-A.
+
+Para operar como entidad de acreditación se requiere la autorización de la Secretaría, previa opinión favorable de la mayoría de los miembros de la Comisión Nacional de Normalización a que se refiere la fracción I del artículo 59, y cumplir con lo siguiente:
+
+I. Acreditar la capacidad jurídica, técnica, administrativa y financiera, para lo que se deberá acompañar:
+
+a) Estatutos sociales o proyecto de éstos, detallando órganos de gobierno, y la estructura técnica funcional de la entidad donde conste la representación equilibrada de los organismos productivos, comerciales y académicos interesados, a nivel nacional, en el proceso de acreditación;
+
+b) Relación de los recursos materiales y humanos con que cuenta, o propuesta de los mismos, detallando grado académico y experiencia en la materia de éstos últimos; y
+
+c) Documentos que demuestren su solvencia financiera para asegurar la continuidad del sistema de acreditación;
+
+II. Demostrar su capacidad para atender diversas materias, sectores o ramas de actividad;
+
+III. Acompañar, en su caso, sus acuerdos con otras entidades similares o especializadas en las materias a que se refiere esta Ley; y
+
+IV. Señalar las tarifas máximas que aplicaría en la prestación de sus servicios.
+
+Integrada la documentación la Secretaría emitirá un informe y lo someterá a las dependencias competentes para su opinión.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 70-B.
+
+La entidad de acreditación autorizada deberá:
+
+I. Resolver las solicitudes de acreditación que le sean presentadas, emitir las acreditaciones correspondientes y notificarlo a las dependencias competentes;
+
+II. Cumplir en todo momento con las condiciones y términos conforme a los cuales se le otorgó la autorización;
+
+III. Permitir la presencia de un representante de las dependencias competentes que así lo soliciten en el desarrollo de sus funciones;
+
+IV. Integrar y coordinar los comités de evaluación para la acreditación conforme a los lineamientos que dicte la Secretaría, así como integrar un padrón nacional de evaluadores con los técnicos correspondientes;
+
+V. Revisar periódicamente el cumplimiento por parte de las personas acreditadas de las condiciones y requisitos que sirvieron de base para su acreditación;
+
+VI. Resolver las reclamaciones que presenten las partes afectadas por sus actividades, y responder sobre su actuación;
+
+VII. Salvaguardar la confidencialidad de la información obtenida en el desempeño de sus actividades;
+
+VIII. Participar en organizaciones de acreditación regionales o internacionales para la elaboración de criterios y lineamientos sobre la acreditación y el reconocimiento mutuo de las acreditaciones otorgadas;
+
+IX. Facilitar a las dependencias y a la Comisión Nacional de Normalización la información y asistencia técnica que se requiera en materia de acreditación y presentar semestralmente un reporte de sus actividades ante la misma; y
+
+X.- Mantener para consulta de cualquier interesado un catálogo clasificado y actualizado de las personas acreditadas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 70- C.
+
+Las entidades de acreditación y las personas acreditadas por éstas deberán:
+
+I. Ajustarse a las reglas, procedimientos y métodos que se establezcan en las normas oficiales mexicanas, las normas mexicanas y, en su defecto, las internacionales;
+
+II. Prestar sus servicios en condiciones no discriminatorias y observar las demás disposiciones en materia de competencia económica;
+
+III. Evitar la existencia de conflictos de interés que puedan afectar sus actuaciones y excusarse de actuar cuando existan tales conflictos;
+
+IV. Resolver reclamaciones de cualquier interesado; y
+
+V. Permitir la revisión o verificación de sus actividades por parte de la dependencia competente, y además por las entidades de acreditación en el caso de personas acreditadas.
+
+Cuando una entidad de acreditación o persona acreditada y aprobada tenga poder sustancial en el mercado relevante de acuerdo a la Ley Federal de Competencia Económica, la Secretaría estará facultada para establecer obligaciones específicas relacionadas con las tarifas, calidad y oportunidad del servicio.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 71.
 
-Las dependencias competentes podrán en cualquier tiempo realizar visitas de verificación para comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas, por parte de los organismos de certificación, de las unidades de verificación y de laboratorios acreditados.
+Las dependencias competentes podrán en cualquier tiempo realizar visitas de verificación para comprobar el cumplimiento de esta Ley, sus reglamentos y las normas oficiales mexicanas por parte de las entidades de acreditación, las personas acreditadas o cualquier otra entidad u organismo que realice actividades relacionadas con las materias a que se refiere esta Ley, así como a aquellas a las que presten sus servicios.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 72.
 
-La Secretaría publicará en el Diario Oficial de la Federación, periódicamente, la relación de los organismos nacionales de normalización, de los organismos de certificación, de laboratorios de pruebas y de calibración y de las unidades de verificación acreditados. Publicará también las suspensiones y revocaciones.
+La Secretaría mantendrá a disposición de cualquier interesado el listado de las entidades de acreditación autorizadas y de las personas acreditadas y aprobadas, por norma, materia, sector o rama, según se trate, así como de los organismos nacionales de normalización, de las instituciones o entidades a que se refiere el artículo 87-A y de los organismos internacionales reconocidos por el gobierno mexicano. Dicho listado indicará, en su caso, las suspensiones y revocaciones y será publicado en el Diario Oficial de la Federación periódicamente.
 
-### CAPITULO II. De la Certificación Oficial
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+
+### CAPÍTULO II. De los Procedimientos para la Evaluación de la Conformidad
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 73.
 
-Las dependencias de acuerdo con sus atribuciones, certificarán para fines oficiales que determinados procesos, productos, métodos, instalaciones, servicios o actividades cumplen las especificaciones establecidas en normas oficiales mexicanas. También podrán hacerlo a petición de parte, para fines particulares o de exportación.
+Las dependencias competentes establecerán, tratándose de las normas oficiales mexicanas, los procedimientos para la evaluación de la conformidad cuando para fines oficiales requieran comprobar el cumplimiento con las mismas, lo que se hará según el nivel de riesgo o de protección necesarios para salvaguardar las finalidades a que se refiere el artículo 40, previa consulta con los sectores interesados, observando esta Ley, su reglamento y los lineamientos internacionales. Respecto de las normas mexicanas u otras especificaciones, prescripciones o características determinadas, establecerán dichos procedimientos cuando así se requiera.
 
-Podrán certificar el cumplimiento de las normas oficiales mexicanas y de las normas mexicanas, por materias o sectores, los organismos de certificación acreditados conforme a lo dispuesto por esta Ley y su reglamento.
+Los procedimientos referidos se publicarán para consulta pública en el Diario Oficial de la Federación antes de su publicación definitiva, salvo que los mismos estén contenidos en la norma oficial mexicana correspondiente, o exista una razón fundada en contrario.
+
+Cuando tales procedimientos impliquen trámites adicionales, se deberá turnar copia de los mismos a la Secretaría para su opinión, antes de que los mismos se publiquen en forma definitiva. Asimismo, si involucran operaciones de medición se deberá contar con trazabilidad a los patrones nacionales aprobados por la Secretaría o en su defecto, a patrones extranjeros o internacionales confiables a juicio de ésta.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 74.
 
-Las dependencias a que se refiere el artículo anterior y los organismos de certificación podrán también certificar que los productos han sido elaborados con determinadas materias primas, o materiales o mediante procedimientos específicos que los distingan en calidad respecto a otros de la misma naturaleza, siempre y cuando se cercioren fehacientemente de las materias primas o procedimientos empleados.
+Las dependencias o las personas acreditadas y aprobadas podrán evaluar la conformidad a petición de parte, para fines particulares, oficiales o de exportación. Los resultados se harán constar por escrito.
+
+La evaluación de la conformidad podrá realizarse por tipo, línea, lote o partida de productos, o por sistema, ya sea directamente en las instalaciones que correspondan o durante el desarrollo de las actividades, servicios o procesos de que se trate, y auxiliarse de terceros especialistas en la materia que corresponda.
 
 ###### ARTICULO 75.
 
@@ -805,47 +1111,57 @@ Es obligatorio el contraste de los artículos de joyería y orfebrería elaborad
 
 ### CAPITULO III. De las Contraseñas y Marcas Oficiales
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 76.
 
-La Secretaría en coordinación con las dependencias competentes, establecerá las características de las marcas y contraseñas oficiales que deberán de llevar los productos sujetos al cumplimiento de normas oficiales mexicanas.
+Las dependencias competentes, en coordinación con la Secretaría, podrán establecer las características de las contraseñas oficiales que denoten la evaluación de la conformidad respecto de las normas oficiales mexicanas y, cuando se requiera, de las normas mexicanas.
+
+Los productos o servicios sujetos a normas oficiales mexicanas y normas mexicanas, podrán ostentar voluntariamente las contraseñas oficiales cuando ello no induzca a error al consumidor o usuario sobre las características del bien o servicio; se haya evaluado la conformidad por una persona acreditada o aprobada y las contraseñas se acompañen de las marcas registradas por la misma en los términos de la Ley de la Propiedad Industrial. Para ello se deberá obtener previamente la autorización de las personas acreditadas para el uso de sus marcas registradas.
+
+Las dependencias podrán requerir que determinados productos ostenten dichas contraseñas obligatoriamente, en cuyo caso se requerirá la evaluación de la conformidad por la dependencia competente o por las personas acreditadas y aprobadas para ello.
 
 ###### ARTICULO 77.
 
-Los productos o servicios sujetos al cumplimiento de normas oficiales mexicanas, deberán ostentar la contraseña que denote dicho cumplimiento.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
-De no ser posible fijarla en el producto mismo, se hará en sus envases, embalaje, etiquetas o envolturas. Además, podrá utilizarse en las facturas, correspondencia y publicidad relativa al producto o servicio de que se trate.
-
-La Secretaría y las dependencias, conforme a sus respectivas competencias, verificarán periódicamente que el uso de contraseña oficial corresponda a lo dispuesto en este artículo.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 78.
 
-La Secretaría autorizará el uso de las marcas y contraseñas oficiales a aquellas personas que demuestren, cumplir con lo dispuesto en esta Ley, su Reglamento y las normas oficiales mexicanas respectivas.
-
-Se podrá permitir el uso de marcas o contraseñas distintivas de organismos de certificación acreditados. También podrá permitirse su uso de manera conjunta con las marcas y contraseñas oficiales si esto no induce a error al consumidor sobre las características del bien o servicio.
+Las dependencias podrán establecer los emblemas que denoten la acreditación y aprobación de los organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación.
 
 ### CAPITULO IV. De los Organismos de Certificación
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 79.
 
-Para operar como organismo de certificación, será necesario contar con el acreditamiento de la Secretaría en los términos del artículo 69, mismo que se otorgará siempre que se cumpla con lo siguiente:
+Las dependencias competentes aprobarán a los organismos de certificación acreditados por cada norma oficial mexicana en los términos del artículo 70. Dicha aprobación podrá otorgarse por materia, sector o rama, siempre que el organismo:
 
-I. Solicitar por escrito el acreditamiento a la Secretaría y la aprobación de la dependencia correspondiente;
+I. Tenga cobertura nacional;
 
-II. Demostrar que cuenta con la capacidad técnica material y humana para llevar a cabo programas de certificación;
+II. Demuestre la participación, en su estructura técnica funcional de representantes de los sectores interesados a nivel nacional de productores, distribuidores, comercializadores, prestadores de servicios, consumidores, instituciones de educación superior y científica, colegios de profesionales, así como de aquellos que puedan verse afectados por sus actividades;
 
-III. Demostrar que cuenta con procedimientos de aseguramiento de calidad, que garanticen el desempeño de sus funciones;
+III. Cuente con procedimientos que permitan conducir sus actuaciones en el proceso de certificación con independencia de intereses particulares o de grupo; y
 
-IV. Demostrar no estar sujeto a influencia directa por algún fabricante, comerciante o persona moral mercantil; y
-
-V. Presentar sus estatutos y propuesta de actividades de certificación para aprobación.
+IV. Permita la presencia de un representante de la dependencia competente que así lo solicite en el desarrollo de sus funciones.
 
 ###### ARTICULO 80.
 
 Las actividades de certificación, deberán ajustarse a las reglas, procedimientos y métodos que se establezcan en las normas oficiales mexicanas, y en su defecto a las normas internacionales. Las actividades deberán comprender lo siguiente:
 
-I. Evaluación de los procesos, productos, servicios e instalaciones, mediante inspección ocular, pruebas, investigación de campo o revisión y evaluación de los programas de calidad; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-II. Seguimiento posterior a la certificación inicial, para comprobar el cumplimiento con las normas y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual del cliente.
+I. Evaluación de los procesos, productos, servicios e instalaciones, mediante inspección ocular, muestreo, pruebas, investigación de campo o revisión y evaluación de los programas de calidad;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+II. Seguimiento posterior a la certificación inicial, para comprobar el cumplimiento con las normas y contar con mecanismos que permitan proteger y evitar la divulgación de propiedad industrial o intelectual del cliente; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+III. Elaboración de criterios generales en materia de certificación mediante comités de certificación donde participen los sectores interesados y las dependencias. Tratándose de normas oficiales mexicanas los criterios que se determinen deberán ser aprobados por la dependencia competente.
 
 ### CAPITULO V. De los Laboratorios de Pruebas
 
@@ -855,15 +1171,17 @@ Se instituye el Sistema Nacional de Acreditamiento de Laboratorios de Pruebas co
 
 Los laboratorios acreditados podrán denotar tal circunstancia usando el emblema oficial del sistema nacional de acreditamiento de laboratorios de pruebas.
 
-La Secretaría, por sí o a solicitud de cualquier dependencia competente podrá concertar convenios con instituciones oficiales extranjeras e internacionales para el reconocimiento mutuo de laboratorios de pruebas acreditados.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 82.
 
-Para el acreditamiento de laboratorios de pruebas se estará a lo dispuesto en el artículo 69.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 83.
 
-El resultado de las pruebas que realicen los laboratorios acreditados, para los fines de esta Ley, se hará constar en un dictamen que será firmado, bajo su responsabilidad por la persona facultada por el propio laboratorio para hacerlo. Dichos dictámenes tendrán validez ante las dependencias y entidades de la administración pública federal.
+El resultado de las pruebas que realicen los laboratorios acreditados, se hará constar en un informe de resultados que será firmado por la persona facultada por el propio laboratorio para hacerlo. Dichos informes tendrán validez ante las dependencias y entidades de la administración pública federal, siempre que el laboratorio haya sido aprobado por la dependencia competente.
 
 ### CAPITULO VI. De las Unidades de Verificación
 
@@ -875,65 +1193,69 @@ Las unidades de verificación podrán, a petición de parte interesada, verifica
 
 Los dictámenes de las unidades de verificación serán reconocidos por las dependencias competentes, así como por los organismos de certificación y en base a ellos podrán actuar en los términos de esta Ley y conforme a sus respectivas atribuciones.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 86.
 
-Para operar como unidad de verificación será necesario contar con el acreditamiento de la Secretaría, en los términos del artículo 69, mismo que se otorgará siempre que se cumpla con lo siguiente:
-
-I. Solicitar por escrito el acreditamiento a la Secretaría y la aprobación de la dependencia correspondiente;
-
-II. Presentar una descripción detallada de los servicios que pretende prestar;
-
-III. Demostrar que se cuenta con capacidad técnica o profesional suficiente y, en su caso, con el personal capacitado para la prestación del servicio que se pretende ofrecer. Las normas oficiales mexicanas determinarán los niveles de suficiencia técnica o profesional para la materia de que se trate;
-
-IV. Demostrar contar con la infraestructura suficiente y adecuada relacionada con los servicios que pretende prestar;
-
-V. Informar de las normas oficiales mexicanas que se pretendan verificar, y se describan los procedimientos que se utilicen para la prestación de los servicios; y
-
-VI. Contar con la aprobación de la dependencia competente para la rama de que se trate.
+Las dependencias podrán solicitar el auxilio de las unidades de verificación para la evaluación de la conformidad con respecto de normas oficiales mexicanas, en cuyo caso se sujetarán a las formalidades y requisitos establecidos en esta Ley.
 
 ###### ARTICULO 87.
 
 El resultado de las operaciones que realicen las unidades de verificación se hará constar en un acta que será firmada, bajo su responsabilidad, por el acreditado en el caso de la(sic) personas físicas y por el propietario del establecimiento o por el presidente del consejo de administración, administrador único o director general de la propia unidad de verificación reconocidos por las dependencias, y tendrá validez una vez que haya sido reconocido por la dependencia conforme a las funciones que hayan sido específicamente autorizadas a la misma.
 
-### CAPITULO UNICO. Verificación y Vigilancia
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 20 DE MAYO DE 1997)</small>
+
+### CAPITULO VII. De los Acuerdos de Reconocimiento Mutuo
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 87-A.
+
+La Secretaría, por sí o a solicitud de cualquier dependencia competente o interesado, podrá concertar acuerdos con instituciones oficiales extranjeras e internacionales para el reconocimiento mutuo de los resultados de la evaluación de la conformidad que se lleve a cabo por las dependencias, personas acreditadas e instituciones mencionadas, así como de las acreditaciones otorgadas.
+
+Las entidades de acreditación y las personas acreditadas también podrán concertar acuerdos con las instituciones señaladas u otras entidades privadas, para lo cual requerirán el visto bueno de la Secretaría. Cuando tales acuerdos tengan alguna relación con las normas oficiales mexicanas, se requerirá, además, la aprobación del acuerdo por la dependencia competente que expidió la norma en cuestión y la publicación de un extracto del en el mismo Diario Oficial de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 87-B.
+
+Los convenios deberán ajustarse a lo dispuesto en los tratados internacionales suscritos por los Estados Unidos Mexicanos, al reglamento de esta Ley, y en su defecto, a los lineamientos internacionales en la materia, y observar como principios que:
+
+I. Exista reciprocidad;
+
+II. Sean mutuamente satisfactorios para facilitar el comercio de los productos, procesos o servicios nacionales de que se trate; y
+
+III. Se concerten preferentemente entre instituciones y entidades de la misma naturaleza.
 
 ## TITULO QUINTO. DE LA VERIFICACION
 
-### CAPITULO I. Del Premio Nacional de Calidad
+### CAPITULO UNICO. Verificación y Vigilancia
 
 ###### ARTICULO 88.
 
 Las personas físicas o morales tendrán la obligación de proporcionar a las autoridades competentes los documentos, informes y datos que les requieran por escrito, así como las muestras de productos que se les soliciten cuando sea necesario para los fines de la presente Ley y demás disposiciones derivadas de ella. En todo caso, respecto a las muestras se estará a lo dispuesto en los artículos 101 al 108 de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 89.
 
-La Secretaría llevará un registro con información actualizada de:
+Para efectos de control del cumplimiento con normas oficiales mexicanas las dependencias podrán integrar sistemas de información conforme a los requisitos y condiciones que se determinen en el reglamento de esta Ley, y aquellos que establezcan las dependencias a través de disposiciones de carácter general, evitando trámites adicionales.
 
-I. Empresas que realicen algún proceso o una fase del mismo, cuando éste o los productos o servicios, se encuentren sujetos a normas oficiales mexicanas o cuando ostenten contraseñas o marcas oficiales;
-
-II. Organismos nacionales de normalización, de certificación, laboratorios de pruebas y de calibración acreditados ante la Secretaría, así como de unidades de verificación; y
-
-III. En general, de toda aquella que se requiera para los fines de esta ley.
-
-La Secretaría deberá proporcionar esta información a las dependencias competentes, cuando así lo soliciten.
+Las dependencias deberán proporcionar a solicitud del secretariado técnico de la Comisión Nacional de Normalización o de cualquier dependencia competente la información contenida en dichos sistemas y otorgar facilidades para su consulta por las partes interesadas.
 
 ###### ARTICULO 90.
 
-Las personas a que se refiere el artículo anterior, para su registro deberán proporcionar a la Secretaría la siguiente información:
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
-I. Nombre y domicilio;
-
-II. Ubicación precisa del establecimiento donde se realice el proceso o alguna fase del mismo o en donde se presten los servicios; y
-
-III. Línea o líneas de productos o servicios que se manejan.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 91.
 
-Las dependencias competentes deberán periódica, aleatoriamente o cuando lo estimen necesario, y utilizando los métodos de muestreo estadístico establecidos en las normas oficiales mexicanas, realizar muestreos en los lugares donde se producen, fabrican, almacenan, expenden o prestan productos y servicios sujetos a normas oficiales mexicanas, con el objeto de verificar el cumplimiento de las especificaciones aplicables.
+Las dependencias competentes podrán realizar visitas de verificación con el objeto de vigilar el cumplimiento de esta Ley y demás disposiciones aplicables, independientemente de los procedimientos para la evaluación de la conformidad que hubieren establecido. Al efecto, el personal autorizado por las dependencias podrá recabar los documentos o la evidencia necesaria para ello, así como las muestras conforme a lo dispuesto en el artículo 101.
 
-La verificación se efectuará únicamente en laboratorios acreditados, salvo que éstos no existan para la prueba específica, se podrá realizar en otros, siempre con cargo al productor, fabricante, importador, comercializador o prestador de servicios a quien se efectúe la visita.
+Cuando para comprobar el cumplimiento con una norma oficial mexicana se requieran mediciones o pruebas de laboratorio, la verificación correspondiente se efectuará únicamente en laboratorios acreditados y aprobados, salvo que éstos no existan para la medición o prueba específica, en cuyo caso, la prueba se podrá realizar en otros laboratorios, preferentemente acreditados.
 
-Las dependencias competentes presumirán el cumplimiento de las normas oficiales mexicanas en aquellos casos en que el interesado cuente con certificado expedido por organismo nacional de certificación.
+Los gastos que se originen por las verificaciones por actos de evaluación de la conformidad serán a cargo de la persona a quien se efectúe ésta.
 
 ###### ARTICULO 92.
 
@@ -953,7 +1275,9 @@ Para los efectos de esta Ley se entiende por visita de verificación:
 
 I. La que se practique en los lugares en que se realice el proceso, alguna fase del mismo, de productos, instrumentos para medir o servicios, con objeto de constatar ocularmente que se cumple con lo dispuesto en esta Ley y demás disposiciones derivadas de ella, así como comprobar lo concerniente a la utilización de los instrumentos para medir; y/o
 
-II. La que se efectúe con objeto de comprobar el cumplimiento de las normas oficiales mexicanas, el contenido neto y, en su caso, la masa drenada; determinar los ingredientes que constituyan o integren los productos, si existe obligación de indicar su composición así como la veracidad de la información comercial o la ley de los metales preciosos. Dicha verificación se efectuará, tratándose de lotes de productos, sobre el número de unidades representativas conforme a las normas oficiales mexicanas y en los laboratorios del fabricante si cuenta con el equipo que se requiere, o en los acreditados por la Secretaría.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+II. La que se efectúe con objeto de comprobar el cumplimiento de las normas oficiales mexicanas, el contenido o el contenido neto y, en su caso, la masa drenada; determinar los ingredientes que constituyan o integren los productos, si existe obligación de indicar su composición, la veracidad de la información comercial o la ley de los metales preciosos. Esta verificación se efectuará mediante muestreo y, en su caso, pruebas de laboratorio.
 
 Cuando exista concurrencia de competencia, la verificación la realizarán las dependencias competentes de acuerdo a las bases de coordinación que se celebren.
 
@@ -963,11 +1287,13 @@ Las visitas de verificación que lleven a cabo la Secretaría y las dependencias
 
 La autoridad podrá autorizar se practiquen también en días y horas inhábiles a fin de evitar la comisión de infracciones, en cuyo caso el oficio de comisión expresará tal autorización.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 96.
 
-Los productores, propietarios, sus subordinados o encargados de establecimientos industriales o comerciales en que se realice el proceso o alguna fase del mismo, de productos, instrumentos para medir o se presten servicios sujetos al cumplimiento de la presente Ley, tendrán la obligación de permitir el acceso y proporcionar las facilidades necesarias al personal comisionado por la Secretaría o por las dependencias competentes para practicar las visitas, siempre que se cumplan los requisitos establecidos en el presente título.
+Los productores, propietarios, sus subordinados o encargados de establecimientos industriales o comerciales en que se realice el proceso o alguna fase del mismo, de productos, instrumentos para medir o se presten servicios sujetos al cumplimiento de la presente Ley, tendrán la obligación de permitir el acceso y proporcionar las facilidades necesarias a las personas autorizadas por la Secretaría o por las dependencias competentes para practicar la verificación, siempre que se cumplan los requisitos establecidos en el presente Título.
 
-Cuando los productores, propietarios o encargados decidan voluntariamente utilizar los servicios de verificación prestados por las personas físicas o morales a que se refiere el artículo 84, deberán presentar a la dependencia competente los informes a que se refieren los artículos 104 y 105 de esta Ley.
+Cuando los sujetos obligados a su observancia cuenten con un dictamen, certificado, informe u otro documento expedido por personas acreditadas y aprobadas, en los términos de esta Ley, se reconocerá el cumplimiento con las normas oficiales mexicanas.
 
 ###### ARTICULO 97.
 
@@ -1011,11 +1337,15 @@ La recolección de muestras se efectuará con sujeción a las siguientes formali
 
 I. Sólo las personas expresamente autorizadas por la Secretaría o por la dependencia competente podrán recabarlas.
 
-También podrán recabar dichas muestras, los organismos de certificación y las unidades de verificación únicamente cuando lo soliciten los propietarios o encargados de establecimientos;
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+También podrán recabar dichas muestras las personas acreditadas y aprobadas, para efectos de la evaluación de la conformidad;
 
 II. Las muestras se recabarán en la cantidad estrictamente necesaria, la que se constituirá por:
 
-a) el número de piezas que en relación con los lotes por examinar, integren el lote de muestra conforme a las normas oficiales mexicanas; y
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+a) El número de piezas que en relación con los lotes por examinar, integren el lote de muestra conforme a las normas oficiales mexicanas o a los procedimientos para la evaluación de la conformidad que publiquen las dependencias competentes; y
 
 b) Una o varias fracciones cuando se trate de productos que se exhiban a granel, en piezas, rollos, tiras o cualquiera otra forma y se vendan usualmente en fracciones;
 
@@ -1101,7 +1431,7 @@ Cuando sean inexactos los datos o información contenidos en las etiquetas, enva
 
 ## TITULO SEXTO. DE LOS INCENTIVOS, SANCIONES Y RECURSOS
 
-### CAPITULO II. De las Sanciones
+### CAPITULO I. Del Premio Nacional de Calidad
 
 ###### ARTICULO 110.
 
@@ -1111,19 +1441,67 @@ Se instituye el Premio Nacional de Calidad con el objeto de reconocer y premiar 
 
 El procedimiento para la selección de los acreedores al premio mencionado, la forma de usarlo y las demás prevenciones que sean necesarias, las establecerá el reglamento de esta Ley.
 
-### CAPITULO III. Del Recurso Administrativo
+### CAPITULO II. De las Sanciones
 
 ###### ARTICULO 112.
 
 El incumplimiento a lo dispuesto en esta Ley y demás disposiciones derivadas de ella, será sancionado administrativamente por las dependencias conforme a sus atribuciones y en base a las actas de verificación y dictámenes de laboratorios acreditados que les sean presentados a la dependencia encargada de vigilar el cumplimiento de la norma conforme lo establecido en esta Ley. Sin perjuicio de las sanciones establecidas en otros ordenamientos legales, las sanciones aplicables serán las siguientes:
 
-I. Multa hasta por el importe de 20,000 veces el salario mínimo general diario vigente en el Distrito Federal, en el momento que se cometa la infracción. Cuando persista la infracción podrán imponerse multas por cada día que transcurra;
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+I. Multa;
 
 II. Clausura temporal o definitiva, que podrá ser parcial o total;
 
-III. Arresto hasta por treinta y seis horas; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-IV. Suspensión y revocación del acreditamiento.
+III. Arresto hasta por treinta y seis horas;
+
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IV. Suspensión o revocación de la autorización, aprobación, o registro según corresponda; y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+V. Suspensión o cancelación del documento donde consten los resultados de la evaluación de la conformidad, así como de la autorización del uso de contraseñas y marcas registradas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 112-A.
+
+Se sancionará con multa las conductas u omisiones siguientes:
+
+I. De veinte a tres mil veces el salario mínimo cuando:
+
+a) No se proporcione a las dependencias los informes que requieran respecto de las materias previstas en esta Ley;
+
+b) No se exhiba el documento que compruebe el cumplimiento con las normas oficiales mexicanas que le sea requerido; o
+
+c) Se contravenga una norma oficial mexicana relativa a información comercial, y ello no represente engaño al consumidor;
+
+II. De quinientas a ocho mil veces el salario mínimo cuando:
+
+a) Se modifique sustancialmente un producto, proceso, método, instalación, servicio o actividad sujeto a una evaluación de la conformidad, sin haber dado aviso a la dependencia competente o a la persona acreditada y aprobada que la hubiere evaluado;
+
+b) No se efectúe el acondicionamiento, reprocesamiento, reparación, substitución o modificación, a que se refieren los artículos 57 y 109, en los términos señalados por la dependencia competente;
+
+c) Se utilice cualquier documento donde consten los resultados de la evaluación de la conformidad, la autorización de uso de contraseña, emblema o marca registrada, o que compruebe el cumplimiento con esta Ley y las disposiciones que de ella derivan, para un fin distinto del que motivó su expedición;
+
+d) Se contravengan disposiciones contenidas en las normas oficiales mexicanas;
+
+e) Se cometa cualquier infracción a la presente Ley, no prevista en este artículo;
+
+III. De tres mil a catorce mil veces el salario mínimo cuando:
+
+a) Se incurra en conductas u omisiones que impliquen engaño al consumidor o constituyan una práctica que pueda inducir a error;
+
+b) Se ostenten contraseñas, marcas registradas, emblemas, insignias, calcomanías o algún otro distintivo sin la autorización correspondiente; o
+
+c) Se disponga de productos o servicios inmovilizados;
+
+IV. De cinco mil a veinte mil veces el salario mínimo cuando se incurra en conductas u omisiones que impliquen grave riesgo a la salud, vida o seguridad humana, animal o vegetal, al medio ambiente o demás finalidades contempladas en el artículo 40;
+
+Para efectos del presente artículo, se entenderá por salario mínimo, el salario mínimo general diario vigente en el Distrito Federal al momento de cometerse la infracción.
 
 ###### ARTICULO 113.
 
@@ -1157,105 +1535,117 @@ Cuando el motivo de una infracción sea el uso de varios instrumentos para medir
 
 Las sanciones que procedan de conformidad con esta Ley y demás disposiciones derivadas de ella se impondrá sin perjuicio de las penas que correspondan a los delitos en que incurran los infractores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 118.
 
-La Secretaría, de oficio o a petición de las dependencias competentes, previo cumplimiento de la garantía de audiencia, podrá suspender el acreditamiento de los organismos nacionales de normalización, organismos de certificación, laboratorios de pruebas y de calibración y unidades de verificación cuando:
+La Secretaría y las dependencias competentes de oficio, a petición de la Comisión Nacional de Normalización o de cualquier interesado, previo cumplimiento de la garantía de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, podrán suspender total o parcialmente el registro, la autorización, o la aprobación, según corresponda, de los organismos nacionales de normalización, de las entidades de acreditación o de las personas acreditadas cuando:
 
 I. No proporcionen a la Secretaría o a las dependencias competentes en forma oportuna y completa los informes que le sean requeridos respecto a su funcionamiento y operación;
 
-II. Se impidan u obstaculicen las funciones de verificación y vigilancia de la Secretaría o de las dependencias competentes; y
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-III. Se disminuyan los recursos o la capacidad necesaria para emitir los dictámenes técnicos o las certificaciones en área determinadas, caso en el cual la suspensión se concentrará en el área respectiva.
+II. Se impida u obstaculice las funciones de verificación y vigilancia;
 
-En el caso de los organismos de certificación, además de lo dispuesto en las fracciones anteriores, procederá la suspensión, cuando se deje de observar lo dispuesto por los artículos 79 y 80.
+> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 1997)</small>
 
-Tratándose de los organismos nacionales de normalización, procederá la suspensión cuando se incurra en el supuesto de las fracciones I y II de este artículo o se deje de cumplir con alguno de los requisitos u obligaciones a que se refieren los artículos 65 y 66.
+III. Se disminuyan los recursos o la capacidad necesarios para realizar sus funciones, o dejen de observar las condiciones conforme a las cuales se les otorgó la autorización o aprobación;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+IV. Se suspenda la acreditación otorgada por una entidad de acreditación; o
+
+> <small>(ADICIONADA, D.O.F. 20 DE MAYO DE 1997)</small>
+
+V. Reincidan en el mal uso de alguna contraseña oficial, marca registrada o emblema.
+
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+Tratándose de los organismos nacionales de normalización, procederá la suspensión del registro para operar cuando se incurra en el supuesto de las fracciones I y II de este artículo o se deje de cumplir con alguno de los requisitos u obligaciones a que se refieren los artículos 65 y 66.
 
 Para los laboratorios de calibración, además de lo dispuesto en las fracciones anteriores, procederá la suspensión cuando se compruebe que se ha degradado el nivel de exactitud con que fue autorizado o no se cumpla con las disposiciones que rijan el funcionamiento del Sistema Nacional de Calibración.
 
 La suspensión durará en tanto no se cumpla con los requisitos u obligaciones respectivas, pudiendo concretarse ésta, sólo al área de incumplimiento cuando sea posible.
 
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
 ###### ARTICULO 119.
 
-La Secretaría, de oficio o a petición de las dependencias competentes o de la Comisión Nacional de Normalización, previo cumplimiento de la garantía de audiencia, podrá revocar el acreditamiento de los organismos de certificación, laboratorios de pruebas y de calibración y unidades de verificación, cuando:
+La Secretaría y las dependencias competentes de oficio, a petición de la Comisión Nacional de Normalización o de cualquier interesado, previo cumplimiento de la garantía de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, podrá revocar total o parcialmente la autorización o aprobación, según corresponda, de las entidades de acreditación o de las personas acreditadas cuando:
 
-I. Emitan certificados o dictámenes falseados;
+I. Emitan acreditaciones, certificados, dictámenes, actas o algún otro documento que contenga información falsa, relativos a las actividades para las cuales fueron autorizadas, acreditadas o aprobadas;
 
-II. Nieguen reiteradamente o injustificadamente a proporcionar el servicio que se le solicite;
+II. Nieguen reiterada o injustificadamente el proporcionar el servicio que se les solicite;
 
-III. Tratándose de la suspensión fundada en las fracciones I y II del artículo precedente, reincidan en la misma infracción, así como cuando la disminución de recursos o de capacidad para emitir certificados o dictámenes se prolongue por más de tres meses consecutivos; o
+III. Reincidan en los supuestos a que se refieren las fracciones I y II del artículo anterior, o en el caso de la fracción III de dicho artículo, la disminución de recursos o de capacidad para emitir certificados o dictámenes se prolongue por más de tres meses consecutivos; o
 
-IV.- Renuncien expresamente al acreditamiento concedido para operar.
+IV. Renuncien expresamente a la autorización, acreditación o aprobación otorgada. En el caso de personas acreditadas se cancele su acreditación por una entidad de acreditación.
 
-Cuando se trate de unidades de verificación, además de lo dispuesto en las fracciones anteriores, procederá la revocación, cuando hagan mal uso de su contraseña o la del organismo nacional de certificación que supervise sus actividades.
+La revocación conllevará la entrega a la autoridad competente de la documentación relativa a las actividades para las cuales dichas entidades fueron autorizadas, y aprobadas, la prohibición de ostentarse como tales, así como la de utilizar cualquier tipo de información o emblema pertinente a tales actividades.
 
-La revocación del acreditamiento conllevará la prohibición de ejercer las actividades que se hubieren autorizado y de hacer cualquier alusión al acreditamiento, así como la de utilizar cualquier tipo de información o símbolo pertinente al acreditamiento.
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 120.
 
-La Secretaría, de oficio, o a petición de las dependencias competentes, o de la Comisión Nacional de Normalización, previo cumplimiento de la garantía de audiencia podrá revocar el acreditamiento de los organismos nacionales de normalización cuando:
+La Secretaría, de oficio, o a petición de las dependencias competentes, de la Comisión Nacional de Normalización o de cualquier interesado, previo cumplimiento de la garantía de audiencia de acuerdo a lo establecido en la Ley Federal de Procedimiento Administrativo, podrá cancelar el registro para operar a los organismos nacionales de normalización cuando:
 
-I. Se incurra en el supuesto de la fracción I del artículo 118 o de la fracción III del artículo anterior;
+I. Se reincida en las infracciones a que se refiere el artículo 118;
 
-II. Se expidan normas mexicanas sin que haya existido consenso o que sea evidente que se pretendió favorecer los intereses de un sector; y
+II. Se expidan normas mexicanas sin que haya existido consenso o sea evidente que se pretendió favorecer los intereses de un sector; o
 
-III. Tratándose de suspensión fundada en el párrafo tercero del artículo 118, se reincida en la misma infracción, así como cuando la disminución de recursos o de capacidad para expedir normas se prolongue por más de tres meses consecutivos.
+III. En el caso de la fracción III del artículo 118, la disminución de recursos o de capacidad para expedir normas se prolongue por más de tres meses consecutivos.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MAYO DE 1997)</small>
+
+###### ARTICULO 120-A.
+
+Cuando derivado de una verificación se determine la comisión de una infracción, y el visitado cuente con un documento expedido por persona acreditada y aprobada, se le impondrá a ésta una multa equivalente a la que corresponda al visitado en virtud de la infracción cometida, siempre que exista negligencia, dolo o mala fe en dicha expedición, sin perjuicio de las demás sanciones que le correspondan.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE MAYO DE 1997)</small>
+
+### CAPITULO III. Del Recurso de Revisión y de las Reclamaciones
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 121.
 
-Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán recurrirlas administrativamente por escrito, que presentarán ante la autoridad que haya pronunciado la resolución, dentro del término de 15 días hábiles siguientes a su notificación.
+Las personas afectadas por las resoluciones dictadas con fundamento en esta Ley y demás disposiciones derivadas de ella, podrán interponer recurso de revisión en los términos de la Ley Federal de Procedimiento Administrativo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MAYO DE 1997)</small>
 
 ###### ARTICULO 122.
 
-El recurrente deberá acompañar al recurso lo siguiente:
+Las entidades de acreditación y las personas acreditadas y aprobadas deberán resolver las reclamaciones que presenten los interesados, así como notificar al afectado su respuesta en un plazo no mayor a 10 días hábiles, con copia a las dependencias competentes.
 
-I. Los documentos que acrediten legalmente su personalidad; exhibiendo la documentación respectiva, cuando el recurso no se interponga a nombre propio;
+Si el afectado no estuviere conforme con la respuesta emitida, podrá manifestarlo por escrito ante la dependencia que corresponda, acompañando los documentos en que se apoye. La dependencia remitirá copia a quien emitió la respuesta para que en un plazo no mayor a 5 días hábiles se le rinda un informe justificando su actuación.
 
-II. Copia del documento en que conste el acto impugnado; y
+Del análisis del informe que rinda la entidad de acreditación o las personas acreditadas y aprobadas, la dependencia competente podrá requerirle que reconsidere su actuación, o en su caso procederá a aplicar las sanciones que correspondan.
 
-III. Las pruebas que ofrezca y que tengan relación directa con los hechos constitutivos de la infracción.
+De no rendirse el informe, se presumirán ciertas las manifestaciones del afectado y la dependencia procederá conforme al párrafo anterior.
+
+Las entidades de acreditación y las personas acreditadas deberán mantener a disposición de las dependencias competentes, las reclamaciones que se les presenten.
 
 ###### ARTICULO 123.
 
-Excepto la confesional en el recurso administrativo podrán ofrecerse toda clase de pruebas, siempre que tengan relación con los hechos que constituyan la motivación de la resolución recurrida. Al interponerse el recurso deberán ofrecerse las pruebas correspondientes y acompañarse las documentales.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 124.
 
-Si se ofreciesen pruebas que ameritasen ulterior desahogo, se concederá al interesado un plazo, no menor de 8 ni mayor de 30 días hábiles, para tal efecto.
-
-Quedará a cargo del recurrente la presentación de testigos, dictámenes y documentos. De no presentarlos dentro del término concedido, la prueba correspondiente no se tendrá en cuenta al emitir la resolución respectiva.
-
-En lo no previsto en este capítulo será aplicable supletoriamente, en relación con el ofrecimiento, recepción y desahogo de pruebas, el Código Federal de Procedimientos Civiles.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 125.
 
-El recurso se tendrá por no interpuesto cuando:
-
-I. Se presenten fuera del término a que refiere el artículo 121;
-
-II. No se haya acompañado la documentación que acredite la personalidad jurídica del recurrente; y
-
-III. No aparezca suscrito por quien deba hacerlo, a menos que se firme antes del vencimiento del término para interponerlo.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 126.
 
-Las resoluciones no recurridas dentro del término establecido en el artículo 121, así como las dictadas al resolver los recursos o tenerlos por no interpuestos, tendrán administrativamente el carácter de definitivas.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ###### ARTICULO 127.
 
-La interposición del recurso suspenderá la ejecución de la resolución impugnada por cuanto el pago de multas, siempre que se garantice su importe, en los términos del Reglamento de esta Ley.
-
-Respecto de resoluciones que no impliquen pago de multas, la suspensión sólo se otorgará si ocurren los siguientes requisitos:
-
-I. Que la solicite el recurrente;
-
-II. Que el recurso sea procedente, atento a lo dispuesto en el Artículo 125;
-
-III. Que no se permita la consumación o continuación de actos y omisiones que impliquen inobservancia o contravención a lo dispuesto en esta Ley;
-
-IV. Que la ejecución de la resolución recurrida produzca daños o perjuicios de difícil reparación en contra del recurrente; y
-
-V. Que no se ocasionen daños o perjuicios a terceros, a menos que se garanticen éstos para el caso de no obtener resolución favorable.
+(DEROGADO, D.O.F. 20 DE MAYO DE 1997)
 
 ## TRANSITORIOS
 
@@ -1280,3 +1670,25 @@ D.O.F. 24 DE DICIEMBRE DE 1996.
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo previsto en el artículo siguiente.
+
+D.O.F. 20 DE MAYO DE 1997.
+
+PRIMERO. El presente decreto entrará en vigor el 1 de agosto de 1997.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo establecido en el presente decreto, en particular las relativas a la elaboración de normas oficiales mexicanas y a la aprobación de los organismos nacionales de normalización, organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación, contenidas en otros ordenamientos.
+
+TERCERO. La aprobación y acreditamiento de los organismos nacionales de normalización, organismos de certificación, laboratorios de prueba y de calibración, y unidades de verificación, otorgados con anterioridad a la entrada en vigor del presente decreto, serán reconocidos en los términos en los que se hayan otorgado. Para la renovación de la aprobación y acreditación y, en su caso para el registro, de tales entidades, se aplicarán las disposiciones contenidas en el presente decreto.
+
+CUARTO.- En tanto se publica en el Diario Oficial de la Federación la autorización de las entidades de acreditación y entran en funciones, la Secretaría de Comercio y Fomento Industrial tendrá a su cargo la acreditación de organismos de certificación, laboratorios de prueba y de calibración y unidades de verificación.
+
+QUINTO. Los proyectos de normas oficiales mexicanas publicados para consulta pública con anterioridad a la fecha de entrada en vigor del presente decreto, se ajustarán para su expedición a lo dispuesto en las disposiciones vigentes al momento en que se publicaron.
+
+SEXTO. Para efectos de lo dispuesto en el penúltimo párrafo del artículo 59 de la Ley, la presidencia de la Comisión Nacional de Normalización durará un año a partir de que concluya el periodo del presidente en funciones a la fecha de la entrada en vigor del presente decreto.
+
+SÉPTIMO. La Secretaría determinará y comunicará a las dependencias la forma en que deberá presentarse la manifestación de impacto regulatorio a que se refiere el artículo 45, dentro de los 30 días naturales siguientes a la publicación del presente decreto en el Diario Oficial de la Federación, previa opinión de la Comisión Nacional de Normalización.
+
+OCTAVO. Los plazos de revisión y actualización de las normas oficiales mexicanas y las normas mexicanas a que se refieren los artículos 51 y 51-A de la Ley, empezarán a partir de la entrada en vigor del presente decreto.
+
+NOVENO. La publicación de los procedimientos a que se refiere el artículo 73 de la Ley deberá realizarse dentro de los 6 meses siguientes a la entrada en vigor del presente decreto. En tanto se publican tales procedimientos, las dependencias continuarán determinando el cumplimiento con las normas oficiales mexicanas conforme a las disposiciones aplicables con anterioridad de la entrada en vigor del presente decreto.
+
+DÉCIMO. Las infracciones cometidas con anterioridad a la entrada en vigor del presente decreto se sancionarán conforme a lo establecido al momento de su comisión, salvo que el particular opte por someterse a lo dispuesto en el presente decreto.
