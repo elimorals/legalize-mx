@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-ejecutivo-del-estado-de-jalisco-5864"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-02-28"
-last_updated: "1995-07-11"
+last_updated: "1998-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de febrero de 1989.
 
@@ -207,39 +207,69 @@ XXI. La promoción de la participación social en asuntos de interés colectivo;
 
 XXII. Las demás atribuciones generales que le confieran las leyes, reglamentos y decretos vigentes.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 1998)</small>
 
 ###### Art. 23.
 
-Las atribuciones que la Ley otorga al Gobernador de Jalisco, como Titular del Poder Ejecutivo, se encomendarán a las siguientes Secretarías y Dependencias:
+Las atribuciones que la Ley otorga al Gobernador de Jalisco, como Titular del Poder Ejecutivo, se encomendarán a las siguientes Secretarías y dependencias:
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 I. Secretaría General de Gobierno;
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
 II. Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 III. Secretaría de Desarrollo Urbano;
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
 IV. Secretaría de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 V. Secretaría de Promoción Económica;
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
 VI. Secretaría de Turismo;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 VII. Secretaría de Educación;
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
 VIII. Secretaría de Cultura;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 IX. Secretaría de Salud;
 
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
+
 X. Secretaría de Vialidad y Transporte;
+
+> <small>(REFORMADA, P.O. 11 DE MARZO DE 1993)</small>
 
 XI. Secretaría de Administración;
 
-XII. Contraloría del Estado;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XIII. Procuraduría General de Justicia; y
+XII. Secretaría de Seguridad Pública, Prevención y Readaptación Social;
 
-XIV. (DEROGADA, P.O. 4 DE ENERO DE 1994)
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XIII. Contraloría del Estado, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE ENERO DE 1998)</small>
+
+XIV. Procuraduría General de Justicia.
+
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
 La Procuraduría General de Justicia y la Universidad de Guadalajara, se regirán por sus respectivas leyes.
 
@@ -255,11 +285,11 @@ En el Reglamento Interior de cada una de las Secretarías y Dependencias a que s
 
 En casos extraordinarios, o cuando exista duda sobre la competencia de alguna dependencia gubernamental para conocer de un asunto determinado, el Gobernador del Estado, por conducto de la Secretaría General de Gobierno, resolverá a qué secretaría o dependencia corresponde el despacho del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE ENERO DE 1998)</small>
 
 ###### Art. 27.
 
-Al frente de la Secretaría General de Gobierno habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia de cuatro Subsecretarios, encargados de Asuntos de Gobierno Interior; de Asuntos Jurídicos; de Seguridad Pública, Protección Civil y Prevención y Readaptación Social; y de promover y Encausar la participación Social. Así como un Director General de Prevención y de Readaptación Social; un Director General de Seguridad Pública; un Director General de Trabajo y Previsión Social y un Oficial Mayor.
+Al frente de la Secretaría General de Gobierno, habrá un Secretario, quien se auxiliará para el despacho de los asuntos de su competencia, de tres Subsecretarios, encargados, respectivamente , de los asuntos del Gobierno Interior; de Asuntos Jurídicos y de la Promoción y Encauzamiento de la Participación Social. Asimismo, contará para el auxilio en el despacho de los asuntos de su competencia, con un Director General de Trabajo y Previsión Social y un Oficial Mayor.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 1993)</small>
 
@@ -321,7 +351,7 @@ XIV. Manejar el Archivo General del Gobierno, entre tanto sus documentos tengan 
 
 XV. Intervenir en el proceso expropiatorio por causa de utilidad pública, en los términos de la Ley correspondiente;
 
-XVI. Ejercitar las atribuciones que le confieren al Estado, las Leyes Reglamentarias del Art. 10 de la Constitución General de la República;
+XVI. (DEROGADA, P.O. 10 DE ENERO DE 1998)
 
 XVII. Vigilar y, en su caso, proponer ante quien corresponda, que las publicaciones impresas y las transmisiones de radio y televisión, las películas cinematográficas y demás espectáculos públicos se mantengan dentro de los límites de rspeto (sic) a la vida privada, a la paz y moral pública y a la dignidad personal y no ataquen los derechos de terceros, ni induzcan la comisión de algún delito o perturben el orden público;
 
@@ -333,7 +363,9 @@ XX. Rendir las informaciones oficiales del Ejecutivo del Estado;
 
 XXI. El control del Archivo de Instrumentos Públicos, así como la intervención en el ejercicio del Notariado, en los términos de la Ley respectiva;
 
-XXII. El Control y administración de las cárceles preventivas, de los establecimientos de ejecución de sanciones y medidas de seguridad, en cuanto son servicios jurídicos y, en general, de todos los demás servicios legales no encomendados por la Ley a otras dependencias;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXII. Proporcionar todos los servicios jurídicos no encomendados por la ley a otras dependencias;
 
 XXIII. En general, los demás asuntos de política interior o de relaciones que competen al Ejecutivo y que no se atribuyan expresamente a otra dependencia del Gobierno del Estado;
 
@@ -353,7 +385,9 @@ XXIX. El control de la Dirección del Registro Civil del Estado y del Archivo Ge
 
 XXX. Atender los asuntos del trabajo y la previsión social;
 
-XXXI. Coordinar las funciones de protección ciudadana y seguridad pública de competencia del ejecutivo;
+> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+
+XXXI. Coordinar las funciones de protección ciudadana de competencia del Ejecutivo;
 
 XXXII. Promover y encauzar la participación social;
 
@@ -865,6 +899,50 @@ XVI. Practicar visitas de inspección a las distintas Secretarías y Dependencia
 
 XVII. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1998)</small>
+
+###### Art. 38 Bis.
+
+La Secretaría de Seguridad Pública, Prevención y Readaptación Social es la dependencia encargada de conducir y proporcionar los servicios de seguridad pública en el ámbito de su competencia, prevención y readaptación social, asistencia y apoyo a reos liberados, así como de diseñar e implantar los lineamientos estatales en materia criminal y de prevención del delito, fundando sus acciones en la integridad y derechos de las personas, en la preservación de las libertades y la paz pública y el respeto y preservación de los derechos humanos. Dicha Secretaría tendrá a su cargo las siguientes atribuciones:
+
+I. La conservación y mantenimiento del orden, la tranquilidad y seguridad pública en el Estado, así como la prevención social contra la delincuencia;
+
+II. Conducir en el Estado las normas, políticas y programas que derivan de la Ley General que Establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública;
+
+III. La prevención del delito y de las infracciones penales y administrativas del ámbito de su competencia, así como el tratamiento en todos los ámbitos, de los individuos que se encuentren internos en alguno de los Centros de Prevención y Readaptación Social en el Estado, así como el control y administración de estos últimos;
+
+IV. Establecer la creación, estructuración y aplicación de los programas tendientes a prevenir y combatir los hechos delictivos, y en los que deben participar las diferentes instituciones policiales, las cuales se distribuirán de acuerdo a la gravedad de los delitos y al índice de criminalidad de la circunscripción territorial;
+
+V. Crear bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, así como a la coordinación para tal fin de los diferentes cuerpos policiales;
+
+VI. Diseñar, colaborar en la implantación y evaluar la política criminal del Estado, atendiendo a las modalidades sociales, económicas y culturales de la sociedad;
+
+VII. Captar, procesar, ordenar y analizar la información estadística criminal del Estado, para presentarla de manera oportuna y confiable a las distintas instituciones públicas involucradas en la prevención y combate al delito y brindar información a la comunidad, a fin de ampliar la cultura cívica en estas materias y prevenir los delitos;
+
+VIII. Establecer y organizar programas y actividades que tengan como fin la readaptación social del procesado o sentenciado durante la ejecución de la sentencia, así como el estricto seguimiento que se dé al cumplimiento de la sanción que se le impone, la cual se ceñirá a lo que establece la normatividad emitida para tal efecto;
+
+IX. Diseñar, implantar, conducir, coordinar y evaluar las funciones de apoyo y asistencia a reos liberados, preliberados o que deban ejecutar algún substitutivo penal en el seno social, procurando su eficaz y pronta reinserción social, disponiendo para ello de todos los mecanismos adecuados de concertación social y de participación de la comunidad que sean recomendables, dándole seguimiento a los asistidos durante el tiempo que sea necesario, para evitar la reincidencia, así como realizar los estudios necesarios en torno a este fenómeno, para prevenirlo y combatirlo;
+
+X. Crear sistemas tendientes a la reinserción social de los sentenciados;
+
+XI. Diseñar, implantar y evaluar instrumentos y programas de educación preventiva y de organización vecinal para la prevención del delito, apoyándose, entre otros, en medios eficaces de promoción y comunicación masiva;
+
+XII. Difundir entre la población los programas que se establezcan de manera particular y general, en materia de prevención del delito;
+
+XIII. Diseñar, implantar, impulsar y fortalecer la profesionalización del personal dedicado a las tareas de seguridad pública y readaptación social, a través de una rigurosa selección de los aspirantes, de su capacitación en instalaciones adecuadas, de manera sistemática y continua, así como del Servicio Civil de Carrera y de la mejora de las condiciones laborales y salariales de este personal;
+
+XIV. Emitir las normas técnicas que deban regir en todo el Estado en cuanto a las características que deba reunir el personal de seguridad pública, así como de su desarrollo permanente y de los instrumentos, equipos, instalaciones y recursos en general que se apliquen para el desempeño de sus funciones;
+
+XV. Proponer al titular del Ejecutivo del Estado, todas las políticas y medidas que propicien una conducta policial basada en los principios de legalidad, eficiencia, profesionalismo y honradez, y combatir de manera enérgica y eficaz cualquier abuso o desviación en la conducta policial, así como aplicar y dirigir dichas políticas en el ámbito de su competencia;
+
+XVI. Conducir las funciones y vigilar la aplicación de las resoluciones emitidas por la Comisión de Honor y Justicia de las diversas corporaciones policiales del Estado, en los términos de ley;
+
+XVII. Ejercitar las atribuciones que le confieren al Estado, las leyes reglamentarias del artículo 10 de la Constitución General de la República;
+
+XVIII. Administrar los recursos que le sean asignados a efecto de realizar una equitativa distribución de los mismos, entre las diferentes áreas que la integran asignado de acuerdo a las necesidades y requerimientos de cada una de ellas los recursos financieros, humanos y materiales de que disponga y de acuerdo a la normatividad existente para tal efecto.
+
+XIX. Las demás que les sean encomendadas por el titular del Poder Ejecutivo o le confiera esta Ley y otras disposiciones legales aplicables.
+
 ###### Art. 39.
 
 La Contraloría del Estado es la dependencia responsable de ejecutar la auditoría de la administración pública central y paraestatal y de aplicar el derecho disciplinario a los servidores públicos, en los términos de las siguientes atribuciones:
@@ -1366,3 +1444,15 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 11 DE JULIO DE 1995.
 
 UNICO.- La Secretaría de Vialidad y Transporte dispondrá lo necesario para que las funciones del Consejo se sigan coordinando dentro de esta estructura administrativa.
+
+P.O. 10 DE ENERO DE 1998
+
+PRIMERO.- El presente Decreto entrará en vigor a los ciento veinte días de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Para la debida integración y estructuración de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, las Secretarías de Finanzas y de Administración y las dependencias involucradas, deberán prestar todo el auxilio y apoyo técnico que se les requiera, conforme a las disposiciones legales aplicables y a los programas y presupuestos vigentes.
+
+CUARTO.- En el proceso de instalación y creación de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, se preservarán íntegramente los derechos laborales de los servidores públicos del Estado que deban ser transferidos de una dependencia o entidad a otra, debiendo sujetarse a lo dispuesto por la Ley de Servidores Públicos del Estado de Jalisco y sus Municipios; y
+
+QUINTO.- El Ejecutivo de la Entidad, emitirá el reglamento interior de la Secretaría de Seguridad Pública, Prevención y Readaptación Social, en un plazo no mayor de treinta días a partir de la entrada en vigor del presente Decreto.
