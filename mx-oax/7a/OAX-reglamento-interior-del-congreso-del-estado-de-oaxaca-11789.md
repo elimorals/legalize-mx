@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-congreso-del-estado-de-oaxaca-11789"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-11-04"
-last_updated: "1998-12-19"
+last_updated: "1999-10-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Oaxaca, el sábado 4 de noviembre de 1995.
 
@@ -53,11 +53,11 @@ El presente Reglamento regula las disposiciones normativas que se derivan de la 
 
 ### CAPITULO I. DEL REGISTRO DE LAS CONSTANCIAS DE MAYORIA Y ASIGNACION
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 2.
 
-Los Diputados electos por el principio de mayoría relativa y los elegidos por el principio de representación proporcional, deberán de registrar entre los días 10 y 12 del mes de noviembre del año de su elección, en la Oficialía Mayor del Congreso, la constancia de mayoría, validez o asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, o la copia certificada de la Resolución que le hubiere sido favorable dictada por el Tribunal Estatal Electoral.
+Los Diputados electos por el principio de mayoría relativa y los elegidos por el principio de representación proporcional, deberán de registrar entre los días 7 a 9 del mes de noviembre del año de su elección, en la Oficialía Mayor del Congreso, la constancia de mayoría, validez o asignación, emitidas por los Consejos Distritales y General del Instituto Estatal Electoral, ó la copia certificada de la resolución que le hubiere sido favorable dictada por el Tribunal Estatal Electoral.
 
 Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De registro de Constancias” en el que se anotará: nombres y apellidos, edad, estado civil, domicilio y ocupación del Diputado Electo; los demás datos que contenga la Constancia de Mayoría o Asignación, así como la fecha y hora de su recepción. En el acto de registro, el Diputado Electo deberá entregar la copia de la Constancia de Mayoría o Asignación correspondiente y en su caso la resolución emitida en su favor.
 
@@ -65,11 +65,11 @@ Para los efectos anteriores, el Oficial Mayor llevará un libro denominado “De
 
 La Oficialía Mayor de la Legislatura, entregará al Diputado Electo la credencial de acceso a la sesión de instalación. La falta de dicho documento implica la prohibición de entrada a la sala de sesiones para ocupar una curul.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 4.
 
-La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 15 de noviembre a las 10:00 horas en el Salón de Sesiones del Congreso del Estado, cerciorándose de que firmen de enterados.
+La Comisión Instaladora, al expedir las credenciales de acceso a los Diputados electos, los citará para que estén presentes el día 13 de noviembre a las 10:00 horas en el Salón de Sesiones del Congreso del Estado, cerciorándose de que firmen de enterados.
 
 ###### ARTICULO 5.
 
@@ -83,25 +83,27 @@ La Legislatura no podrá abrir sus sesiones y ejercer su cometido sin la concurr
 
 ### CAPITULO II. DE LA INSTALACION Y APERTURA DE LA ASAMBLEA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 7.
 
-El día 15 de noviembre a las 10:00 horas, presentes en el Salón de Sesiones del Congreso del Estado, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura en los siguientes términos.
+El día 13 de noviembre a las 10:00 horas, presentes en el Salón de Sesiones del Congreso del Estado, la Comisión Instaladora y los Diputados Electos acreditados, procederán a instalar formalmente la nueva Legislatura en los siguientes términos.
 
 Tomará a los Diputados entrantes, en forma colectiva la protesta constitucional, realizando en seguida la siguiente declaratoria: "La (aquí el número ___ de orden) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, queda instalada hoy (aquí la fecha)".
 
 Hecha la declaración anterior, se expedirá el decreto respectivo y se comunicará la instalación de la Legislatura a las autoridades de la Federación y del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 8.
 
-El día 16 de noviembre del año de la renovación de la Legislatura, abierta la sesión con la asistencia del ciudadano Gobernador del Estado y el ciudadano Presidente del Tribunal Superior de Justicia, el Presidente de la Legislatura hará la siguiente declaratoria:
+El día quince de noviembre del año de la renovación de la Legislatura, abierta la sesión solemne el Presidente de la Legislatura hará la siguiente declaratoria:
 
-(aquí el número de legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, abre hoy, dieciséis de septiembre de (aquí el año), el primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal".
+"La (aquí el número de legislatura) Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, abre hoy quince de noviembre de (aquí el año), el primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal".
 
-A continuación se hará un receso para que se retire el ciudadano Gobernador del Estado y el Presidente del Tribunal Superior de Justicia asistido por la Comisión de Cortesía de la Legislatura, y después de este receso, se expedirá el decreto correspondiente dándose aviso de la apertura a las autoridades de la Federación, del Estado y de los Municipio (sic) de la Entidad.
+A continuación de conformidad con lo que establece el artículo 43 de la Constitución Política Local, el Ciudadano Gobernador del Estado presentará un informe sobre la situación que guarda la Administración Pública, pudiendo dar lectura al mismo, en este caso, el Presidente de la Legislatura contestará dicho informe en términos concisos y generales y con las formalidades que corresponden al acto.
+
+De la apertura del primer período ordinario de sesiones de la Legislatura, se expedirá el Decreto correspondiente, dándose aviso de la apertura a las autoridades de la Federación, del Estado y de los Municipios de la Entidad.
 
 ###### ARTICULO 9.
 
@@ -1296,3 +1298,9 @@ P.O. 19 DE DICIEMBRE DE 1998.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
 UNICO.- Las reformas de que se ocupa este Decreto, entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE OCTUBRE DE 1999.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
