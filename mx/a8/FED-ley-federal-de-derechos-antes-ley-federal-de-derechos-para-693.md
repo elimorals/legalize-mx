@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-derechos-antes-ley-federal-de-derechos-para-693"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1981-12-31"
-last_updated: "1998-12-31"
+last_updated: "1999-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=693&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,6 +20,8 @@ issue_date: "1981-12-30"
 # LEY FEDERAL DE DERECHOS -ANTES LEY FEDERAL DE DERECHOS PARA EL EJERCICIO FISCAL DE 1982-
 
 LEY FEDERAL DE DERECHOS
+
+ULTIMA ACTUALIZACION POR MISCELANEA FISCAL: 28 DE DICIEMBRE DE 1999.
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1998.
 
@@ -183,25 +185,59 @@ Tratándose de los derechos que se causen por ejercicios, cuando el uso o aprove
 
 Tratándose de los servicios que a continuación se enumeran que sean prestados por cualquiera de las Secretarías de Estado y Procuraduría General de la República, se pagarán derechos conforme a las cuotas que para cada caso a continuación se señalan, salvo en aquellos casos que en esta Ley se establecen expresamente.
 
-I.- Expedición de copias certificadas de documentos, por cada hoja tamaño carta u oficio $ 50.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-II.- Reposición de constancias o duplicados de las mismas, así como de calcomanías 12,000.00
+I.- Expedición de copias certificadas 8.65 9.00
 
-III.- Compulsa de documentos, por hoja 30.00
+de documentos, por cada hoja
+
+tamaño carta u oficio
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Reposición de constancias o 73.01 73.00
+
+duplicados de las mismas, así
+
+como de calcomanías
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Compulsa de documentos, 5.11 5.00
+
+por hoja
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-IV.- Copias de planos certificados, por cada una $ 13,500.00
+IV.- Copias de planos certificados, 52.71 53.00
+
+por cada una
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Legalización de firmas 237.54 238.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-V.- Legalización de firmas 39,000.00
+VI.- Por cualquier otra certificación 73.01 73.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+o expedición de constancias distintas
 
-VI.- Por cualquier otra certificación o expedición de constancias distintas de la (sic) señaladas en las fracciones que anteceden 12,000.00
+de la (sic) señaladas en las fracciones
+
+que anteceden
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -271,61 +307,105 @@ Asimismo, las dependencias y entidades a que se refiere el párrafo anterior, de
 
 Por la expedición de autorización en la que se otorga calidad migratoria de No Inmigrante a extranjeros y por las prórrogas correspondientes, en las diversas características migratorias, se pagará el derecho por servicios migratorios, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Turista............. $ 150.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Turista 169.79 170.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 II.- Visitante, con entradas y salidas múltiples:
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Para dedicarse a actividades no lucrativas………... N$ 225.00
+a).- Para dedicarse a actividades 169.79 170.00
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+no lucrativas
 
-b).- Para dedicarse a actividades no lucrativas, por cada prórroga…………. N$ 225.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Para dedicarse a actividades lucrativas............. 15,000.00
+b).- Para dedicarse a 839.08 839.00
 
-d).- Para dedicarse a actividades lucrativas, por cada prórroga............. 15,000.00
+actividades no lucrativas,
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+por cada prórroga
 
-III.- Visitantes Hombres de Negocios (FMN) o Visitante Consejero (FMVC)............. $ 150.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+c).- Para dedicarse a 1,362.35 1,362.00
 
-IV.- Asilado político, por la revalidación anual…….... N$ 225.00
+actividades lucrativas
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Estudiante, por cada revalidación anual................ 322,000.00
+d).- Para dedicarse a 1,362.35 1,362.00
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+actividades lucrativas,
 
-VI.- Visitante provisional.............. 3,000.00
+por cada prórroga
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Visitantes Hombres de 169.79 170.00
+
+Negocios (FMN) o Visitante
+
+Consejero (FMVC)
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Asilado político, por la 839.08 839.00
+
+revalidación anual
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Estudiante, por cada 1,362.35 1,362.00
+
+revalidación anual
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Visitante provisional 272.30 272.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII.- Ministro de culto o asociado religioso:
 
-a).- Por el otorgamiento de la característica.............. $ 493.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por cada prórroga.............. $ 493.00
+a).- Por el otorgamiento de la 839.34 839.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+característica
 
-VIII.- Transmigrante............. $ 150.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por cada prórroga 318.02 318.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Transmigrante 169.79 170.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 Por el cambio de característica migratoria dentro de la calidad de no inmigrante, se pagarán los derechos que correspondan al otorgamiento de la nueva característica a adquirir.
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Por la recepción, examen y estudio de la solicitud de cambio de turista a cualquier otra característica migratoria de la calidad de no inmigrante............. $ 220.00
+Por la recepción, examen y 318.02 318.00
+
+estudio de la solicitud de
+
+cambio de turista a cualquier
+
+otra característica migratoria de
+
+la calidad de no inmigrante
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -337,15 +417,43 @@ No pagarán el derecho por servicios migratorios a que se refiere la fracción I
 
 Por la expedición de autorización en la que se otorga calidad migratoria de inmigrantes en sus distintas características a extranjeros, así como por refrendo, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Autorización como inmigrante en las diferentes características de rentista, inversionista, profesionista, cargo de confianza, científico en actividades lucrativas, técnico, artista, deportista, asimilado y familiares del solicitante............ $ 1,066.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Autorización como inmigrante 1,814.97 1,815.00
+
+en las diferentes características
+
+de rentista, inversionista,
+
+profesionista, cargo de
+
+confianza, científico en
+
+actividades lucrativas, técnico,
+
+artista, deportista, asimilado y
+
+familiares del solicitante
 
 II.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por el refrendo de calidad migratoria en las diferentes características a que se refiere este artículo, se pagarán derechos conforme a la cuota de................ $ 429,000.00
+III.- Por el refrendo de calidad 1,815.70 1,816.00
+
+migratoria en las diferentes
+
+características a que se refiere
+
+este artículo, se pagarán
+
+derechos conforme a la cuota de
 
 Por el cambio de característica migratoria dentro de la calidad inmigrante, se pagarán los derechos que correspondan a la nueva característica a adquirir.
 
@@ -357,15 +465,37 @@ No pagarán los derechos a que se refiere este artículo, los científicos en ac
 
 Para el otorgamiento de la calidad de inmigrado, se pagarán las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la expedición de la declaratoria de inmigrado.............. $ 1,300.00
+2000 2000
 
-II.- Por la expedición de permisos a inmigrados para ejercer otras actividades distintas a las que le hubieran sido autorizadas, por cada uno.............. N$ 506.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por la recepción, examen y estudio de la solicitud de cambio de calidad a inmigrado............. $ 400.00
+I.- Por la expedición de la 2,213.41 2,213.00
+
+declaratoria de inmigrado
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de 1,734.92 1,735.00
+
+permisos a inmigrados para
+
+ejercer otras actividades
+
+distintas a las que le hubieran
+
+sido autorizadas, por cada uno
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la recepción, examen 578.25 578.00
+
+y estudio de la solicitud de
+
+cambio de calidad a inmigrado
 
 ###### ARTICULO 11.
 
@@ -403,11 +533,27 @@ VIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 IX.- Corresponsal.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 12.
 
-Por la prestación de los servicios migratorios en aeropuertos a pasajeros de vuelos internacionales que ingresen a territorio nacional, se cobrará la cuota de $20.00.
+Por la prestación
+
+de los servicios migratorios en
+
+aeropuertos a pasajeros de vuelos
+
+internacionales que ingresen a
+
+territorio nacional, se cobrará la
+
+cuota de 34.01
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -419,33 +565,61 @@ El derecho de servicios migratorios a que se refiere el presente artículo, podr
 
 Por la expedición de permisos, constancias y certificados, o registros a extranjeros, se pagará el derecho de servicios migratorios, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Permiso para contraer matrimonio con nacional............. $ 1,191.80
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Certificado para realizar trámites judiciales o administrativos con propósitos de divorcio o de nulidad de matrimonio con nacional mexicano............... $ 2,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Permiso para contraer 1,722.94 1,723.00
 
-III.- Permiso para realizar trámites de adopción............. $ 915.77
+matrimonio con nacional
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Permiso para ampliación o cambio de actividad o de empleador.............. $ 536.04
+II.- Certificado para realizar 3,405.28 3,405.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+trámites judiciales o
 
-V.- Certificados de legal internación y legal estancia............. $ 128.93
+administrativos con propósitos
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de divorcio o de nulidad de
 
-VI.- Permiso de salida y regreso al país............. $ 128.93
+matrimonio con nacional mexicano
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por cada inscripción en el Registro Nacional de Extranjeros............. $ 300.00
+III.- Permiso para realizar 1,323.90 1,324.00
+
+trámites de adopción
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Permiso para ampliación 1,323.87 1,324.00
+
+o cambio de actividad o de
+
+empleador
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Certificados de legal 186.37 186.00
+
+internación y legal estancia
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Permiso de salida y regreso 186.37 186.00
+
+al país
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por cada inscripción en el 433.68 434.00
+
+Registro Nacional de Extranjeros
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -453,13 +627,23 @@ VII.- Por cada inscripción en el Registro Nacional de Extranjeros............. 
 
 Por la reposición de la forma migratoria respectiva, se pagará el derecho por servicios migratorios conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- De no inmigrante.............. $ 200.00
+2000 2000
 
-II.- De inmigrante................. $ 6,000.00
+cuota sin ajuste cuota con ajuste
 
-III.- De inmigrado................. $ 9,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- De no inmigrante 340.48 340.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De inmigrante 544.76 545.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De inmigrado 817.32 817.00
 
 IV.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -473,21 +657,47 @@ Por los servicios migratorios que se presten en días inhábiles o fuera del hor
 
 I.- En puertos marítimos:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Por cada revisión de la documentación de la tripulación en embarcaciones cargueras, al desembarque y despacho, respectivamente............... $ 1,700.00
+a).- Por cada revisión de la
+
+documentación de la tripulación
+
+en embarcaciones cargueras, al
+
+desembarque y despacho,
+
+respectivamente 2,894.48 2,894.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 b).- Por cada revisión de la documentación de la tripulación de las embarcaciones turísticas comerciales, al desembarque y despacho, respectivamente, de acuerdo al número de personas a bordo:
 
-1. De 1 a 500 personas............. $ 1,300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2. De 501 a 1000 personas............. $ 1,688.00
+1. De 1 a 500 personas 1,879.37 1,879.00
 
-3. De 1001 a 1500 personas............. $ 2,010.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-4. De 1501 personas, en adelante............. $ 2,286.00
+2. De 501 a 1000 personas 2,440.28 2,440.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3. De 1001 a 1500 personas 2,905.82 2,906.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+4. De 1501 personas, en 304.81 3,305.00
+
+adelante
 
 Cuando el servicio migratorio extraordinario en puertos marítimos se preste a embarcaciones fondeadas, se incrementará el derecho correspondiente con un 25% adicional.
 
@@ -495,9 +705,19 @@ Cuando el servicio migratorio extraordinario en puertos marítimos se preste a e
 
 No se pagarán los derechos por servicios migratorios extraordinarios, cuando por causas no imputables al contribuyente, los servicios migratorios se tengan que proporcionar en días y horas inhábiles o en lugares distintos a las oficinas migratorias.
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- En aeropuertos internacionales, por cada revisión de la documentación de pasajeros en vuelos de fletamento, al ingreso y a la salida del país................ N$ 245.00
+II.- En aeropuertos 913.56 914.00
+
+internacionales, por cada
+
+revisión de la documentación
+
+de pasajeros en vuelos de
+
+fletamento, al ingreso y a la
+
+salida del país
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -515,11 +735,29 @@ Los ingresos que se obtengan por el derecho de servicios migratorios extraordina
 
 La parte de los ingresos que exceda el límite señalado en este artículo, no tendrá destino específico y se enterará a la Tesorería de la Federación a más tardar en el mes siguiente a aquél en que se obtuvo el ingreso.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 15.
 
-Por la prestación de servicios migratorios en puertos marítimos a pasajeros internacionales que ingresen a territorio nacional, pagarán derechos conforme a la siguiente cuota............. $ 49.00
+Por la prestación de
+
+Servicios migratorios en puertos
+
+marítimos a pasajeros internacionales
+
+que ingresen a territorio nacional,
+
+pagarán derechos conforme a la
+
+siguiente cuota
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+31.00 31.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -547,31 +785,83 @@ No se pagarán derechos por servicios migratorios por el cotejo de documentos pa
 
 Por la expedición de certificados de licitud de título y contenido de publicaciones y revistas y el duplicado de los mismos, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Certificado de licitud de título................. $ 4,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Certificado de licitud de contenido................... 5,000.00
+2000 2000
 
-III.- Duplicado de certificado de licitud de título................. 2,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Duplicado de licitud de contenido.................. 2,500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I.- Certificado de licitud de título 1,368.81 1,369.00
 
-V.- Registro de cambio de editor responsable............... 200,000.00.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+II.- Certificado de licitud de 1,711.06 1,711.00
 
-VI.- Agregado o variación del subtítulo........... 100,000.00
+contenido
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Duplicado de certificado de 684.34 684.00
+
+licitud de título
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Duplicado de licitud de 855.42 855.00
+
+contenido
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Registro de cambio de 1,219.08 1,219.00
+
+editor responsable
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Agregado o variación del 468.98 469.00
+
+subtítulo
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+###### ARTICULO 19
+
+1.- 1,634.00 1,634.00 (sic)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
 #### SECCION TERCERA. Publicaciones
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 19-A.
 
-Por los servicios de publicaciones que se presten en el Diario Oficial de la Federación, se pagará el derecho de publicaciones conforme a la cuota de N$ 2,000.00 por plana completa.
+Por los servicios de
+
+publicaciones que se presten en el
+
+Diario Oficial de la Federación, se
+
+pagará el derecho de publicaciones
+
+conforme a la cuota de 863.00 863.00
+
+por plana completa.
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -597,25 +887,63 @@ Los Poderes Legislativo y Judicial, así como las dependencias y entidades de la
 
 Por los servicios en materia de cinematografía se pagará el derecho de cinematografía, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- Por el trámite y estudio de la solicitud y, en su caso, autorización y clasificación de películas destinadas a exhibición pública en cualquier local o para su comercialización, incluidas la renta o venta:
 
-a).- De 35 milímetros o más, por rollo de 300 metros o fracción $125.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De 16 milímetros, 8 milímetros, Super 8 milímetros, por rollo de 100 metros o fracción $63.00
+a).- De 35 milímetros o más,
 
-c).- Videograma o material grabado, en cualquier formato o modalidad, por cada media hora o fracción $313.00
+por rollo de 300 metros o
+
+fracción $196.85 $197.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De 16 milímetros, 8
+
+milímetros, Super 8
+
+milímetros, por rollo de
+
+100 metros o fracción $99.20 $99.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Videograma o material
+
+grabado, en cualquier formato
+
+o modalidad, por cada media
+
+hora o fracción $492.96 $493.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 No pagarán los derechos a que se refiere esta fracción, las instituciones públicas que exhiban películas con fines culturales.
 
-II.- Expedición de certificados de origen de material filmado y grabado $373.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+II.- Expedición de certificados
 
-III.- Por la autorización del doblaje de películas, para exhibición $528.00
+de origen de material filmado
+
+y grabado $587.46 $587.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización del
+
+doblaje de películas, para
+
+exhibición $602.95 $603.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -623,19 +951,31 @@ IV.- Por la autorización para distribución de cada una de las copias de pelíc
 
 a).- Exhibirse públicamente:
 
-1.- De 1 a 20 $200.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- De 21 a 50 $175.00
+1.- De 1 a 20 $228.38 $228.00
 
-3.- De 51 en adelante $150.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- De 21 a 50 $199.83 $200.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3.- De 51 en adelante $171.28 $171.00
 
 b).- Comercializarse:
 
-1.- De 1 a 3000 $1.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- De 3001 a 9000 $0.75
+1.- De 1 a 3000 $1.13 $1.00
 
-3.- De 9001 en adelante $0.50
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- De 3001 a 9000 $0.83
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3.- De 9001 en adelante $0.56
 
 ###### ARTICULO 19-D.
 
@@ -651,49 +991,161 @@ Por los servicios en materia de televisión, cada concesionario o permisionario 
 
 I.- Por el trámite y estudio y, en su caso, la autorización anual al concesionario o permisionario de un sistema de televisión abierta, por cable, de señal restringida terrestre o satelital, para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Por cada canal cuya programación, en más del 50% de su tiempo, esté en el supuesto de esta fracción.............. $ 3,000.00
+a).- Por cada canal cuya 4,725.40 4,725.00
+
+programación, en más del
+
+50% de su tiempo, esté en
+
+el supuesto de esta fracción
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Por cada programa o conjunto de programas de una misma especie y fuente de derechos de explotación comercial, que no corresponda al supuesto del inciso anterior.............. $ 300.00
+b).- Por cada programa o 472.51 473.00
+
+conjunto de programas de
+
+una misma especie y fuente
+
+de derechos de explotación
+
+comercial, que no corresponda
+
+al supuesto del inciso anterior
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-II.- Por el trámite y estudio y,en su caso, la autorización anual o modificación de las condiciones de programa de concurso $514.00
+II.- Por el trámite y estudio y, 586.96 587.00
+
+en su caso, la autorización
+
+anual o modificación de las
+
+condiciones de programa de
+
+concurso
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-III.- Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero $514.00
+III.- Por el trámite y estudio y, 586.96 587.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+en su caso, la autorización anual
 
-IV.- Por el trámite y estudio y, en su caso, la autorización anual por modificación de los periodos de propaganda comercial $499.00
+por transmisiones en idioma
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+extranjero
 
-V.- Por el trámite y estudio y, en su caso, la autorización para la superposición en la imagen de mensajes publicitarios, por emisión de cada programa o evento deportivo $220.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+IV.- Por el trámite y estudio y, 569.83 570.00
 
-VI.- Por el trámite y estudio y, en su caso, clasificación y autorización de películas, series filmadas, telenovelas y teleteatros grabados destinados a su exhibición en televisión, a través de cualquier señal, en videograma o material grabado en cualquier formato o modalidad, por cada media hora o fracción $432.00
+en su caso, la autorización
+
+anual por modificación de los
+
+periodos de propaganda
+
+comercial
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el trámite y estudio y, 251.21 251.00
+
+en su caso, la autorización
+
+para la superposición en la
+
+imagen de mensajes
+
+publicitarios, por emisión
+
+de cada programa o evento
+
+deportivo
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por el trámite y estudio y, 493.32 493.00
+
+en su caso, clasificación y
+
+autorización de películas,
+
+series filmadas, telenovelas y
+
+teleteatros grabados destinados
+
+a su exhibición en televisión,
+
+a través de cualquier señal,
+
+en videograma o material
+
+grabado en cualquier formato
+
+o modalidad, por cada media
+
+hora o fracción
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 VII.- Supervisión para, en su caso, clasificación y autorización de comerciales destinados a trasmitirse por televisión, en cualquier formato o modalidad:
 
-a).- Hasta 30 segundos.............. $ 125.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De más de 30 y hasta 60 segundos.............. $ 251.00
+a).- Hasta 30 segundos 196.85 197.00
 
-c).- De más de 60 y hasta 180 segundos.............. $ 376.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- De más de 180 segundos............... $ 501.00
+b).- De más de 30 y hasta 60 395.31 395.00
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+segundos
 
-VIII.- Supervisión para, en su caso, clasificación y autorización del guión o libreto para televisión, por cada 30 minutos o fracción.............. $ 66.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- De más de 60 y hasta 180 592.20 592.00
+
+segundos
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- De más de 180 segundos 789.12 789.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Supervisión para, en su 103.92 104.00
+
+caso, clasificación y
+
+autorización del guión o
+
+libreto para televisión, por
+
+cada 30 minutos o fracción
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX
+
+a) 150.00 150.00
+
+b) 75.00 75.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -701,23 +1153,77 @@ VIII.- Supervisión para, en su caso, clasificación y autorización del guión 
 
 Por los servicios en materia de radio, cada concesionario o permisionario pagará el derecho de radio, conforme a las siguientes cuotas:
 
-I.- Por el trámite y estudio y, en su caso, la autorización anual para transmisión o distribución en México, de programación originada, desarrollada o proveniente del extranjero............. $ 226.00
+1er. Trimestre 1er. trimestre
 
-II.- Por el trámite y estudio y, en su caso, la autorización anual o modificación de las condiciones de programa de concurso............. $ 514.00
+2000 2000
 
-III.- Por el trámite y estudio y, en su caso, la autorización anual por transmisiones en idioma extranjero................ $ 514.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por el trámite y estudio y, en su caso, la autorización anual por modificación o alteración de los periodos de propaganda comercial............. $ 514.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el trámite y estudio y, en
+
+su caso, la autorización anual
+
+para transmisión o distribución en
+
+México, de programación originada,
+
+desarrollada o proveniente del
+
+extranjero 258.07 258.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el trámite y estudio y, en
+
+su caso, la autorización anual o
+
+modificación de las condiciones
+
+de programa de concurso 586.96 587.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el trámite y estudio y, en
+
+su caso, la autorización anual
+
+por transmisiones en idioma
+
+extranjero 586.96 587.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el trámite y estudio y,
+
+en su caso, la autorización
+
+anual por modificación o
+
+alteración de los periodos de
+
+propaganda comercial 586.96 587.00
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 #### SECCION QUINTA. Apostillamiento
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 19-G.
 
-Por el apostillamiento de documentos públicos federales, por cada documento $ 259.10
+Por el apostillamiento de
+
+documentos públicos federales,
+
+por cada documento 346.50 346.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -733,13 +1239,39 @@ No se pagará el derecho por el apostillamiento de documentos públicos que sean
 
 Por el estudio de solicitudes de permisos y concesiones, así como por el otorgamiento de permisos por visita turística a territorio insular de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el estudio y trámite de la solicitud de permiso para visita turística al territorio insular................... $ 150.00
+1er. Trimestre 1er. trimestre
 
-II.- Por el estudio y trámite de la solicitud de concesión en territorio insular.............. $ 400.00
+2000 2000
 
-III.- Por la expedición del permiso de visita turística.............. $ 300.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por la expedición de la concesión en territorio insular..... $ 800.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio y trámite de la
+
+solicitud de permiso para visita
+
+turística al territorio insular 299.98 300.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el estudio y trámite de la
+
+solicitud de concesión en territorio
+
+insular 800.04 800.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la expedición del permiso
+
+de visita turística 600.02 600.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la expedición de la concesión
+
+en territorio insular 1,600.18 1,600.00
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -751,35 +1283,123 @@ IV.- Por la expedición de la concesión en territorio insular..... $ 800.00
 
 Por la realización de trámites relacionados con los servicios privados de seguridad a que se refiere el artículo 52 de la Ley General que establece las Bases de Coordinación del Sistema Nacional de Seguridad Pública, cuando dichos servicios comprendan dos o más entidades federativas, las empresas pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- Por el estudio de la solicitud de autorización:
 
-a).- Para prestar los servicios de vigilancia en inmuebles.............. $ 5,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Para prestar los servicios de traslado y custodia de bienes.............. $ 5,000.00
+a).- Para prestar los servicios de vigilancia en inmuebles 7,875.71 7,876.00
 
-c).- Para prestar los servicios de traslado y protección de personas.............. $ 5,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+b).- Para prestar los servicios de
 
-d).- Para prestar los servicios de investigación privada a personas físicas o morales............. $ 4,000.00
+traslado y custodia de bienes 7,875.71 7,876.00
 
-II.- Por la expedición de la autorización............... $ 1,500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por la inscripción en el Registro Nacional del Personal de Seguridad Pública de cada integrante de las empresas que presten los servicios a que se refiere este artículo..... $ 50.00
+c).- Para prestar los servicios
 
-IV.- Por la inscripción en el Registro Nacional de Armamento y Equipo de cada arma de fuego o equipo a que se refiere este artículo.............. $ 15.00
+de traslado y protección de
 
-V.- Por consulta de antecedentes policiales, por cada elemento.............. $ 15.00
+personas 7,875.71 7,876.00
 
-VI.- Por cambio de representante legal............... $ 2,300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por cambio en la titularidad de las acciones o partes sociales.............. $ 2,300.00
+d).- Para prestar los servicios
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+de investigación privada a
+
+personas físicas o morales 4,568.00 4,568.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la
+
+autorización 2,363.00 2,363.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la inscripción en el Registro
+
+Nacional del Personal de Seguridad
+
+Pública de cada integrante de las
+
+empresas que presten los servicios
+
+a que se refiere este artículo 79.00 79.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la inscripción en el Registro
+
+Nacional de Armamento y Equipo de
+
+cada arma de fuego o equipo a que
+
+se refiere este artículo 24.00 24.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por consulta de antecedentes
+
+policiales, por cada elemento 24.00 24.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por cambio de representante
+
+legal 3,622.79 3,623.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por cambio en la titularidad de
+
+las acciones o partes sociales 3,622.79 3,623.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII 1,420.00 1,420.00 (sic)
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 19-J.
 
-Por la expedición o revalidación a empleados federales de cada licencia oficial individual de portación de armas de fuego, se pagarán derechos conforme a la siguiente cuota............. $ 180.00
+Por la expedición o
+
+revalidación a empleados federales
+
+de cada licencia oficial individual de
+
+portación de armas de fuego, se
+
+pagarán derechos conforme a la
+
+siguiente cuota
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+206.00 206.00
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+ARTICULO 19 K.- 2,161.00 2,161.00 (sic)
 
 ### CAPITULO II. De la Secretaría de Relaciones Exteriores
 
@@ -791,25 +1411,65 @@ Por la expedición o revalidación a empleados federales de cada licencia oficia
 
 Por la expedición de cada pasaporte o documento de identidad y viaje, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Pasaportes ordinarios con validez no mayor de tres años a estudiantes, becarios y trabajadores que presten sus servicios fuera de la República Mexicana......... $ 46,500.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+2000 2000
 
-II.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por un año, no comprendidos en la fracción anterior.............. $ 200.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Pasaportes ordinarios y documentos de identidad y viaje con validez hasta por cinco años.............. $ 525.00
+I.- Pasaportes ordinarios con validez
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+no mayor de tres años a estudiantes,
 
-IV.- Pasaportes ordinarios con validez hasta por diez años.............. $ 845.00
+becarios y trabajadores que presten
 
-V.- Pasaportes oficiales con validez hasta por un año............. $ 77,500.00
+sus servicios fuera de la República
 
-VI.- Pasaportes oficiales con validez hasta por dos años............... $ 77,500.00
+Mexicana 131.63 130.00
 
-VII.- Por el refrendo de pasaportes oficiales............... $ 46,500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Pasaportes ordinarios y documentos
+
+de identidad y viaje con validez hasta
+
+por un año, no comprendidos en la
+
+fracción anterior 275.71 275.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Pasaportes ordinarios y documentos
+
+de identidad y viaje con validez hasta
+
+por cinco años 723.78 725.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Pasaportes ordinarios con validez
+
+hasta por diez años 1,164.93 1,165.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Pasaportes oficiales con validez
+
+hasta por un año 219.47 220.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Pasaportes oficiales con validez
+
+hasta por dos años 219.47 220.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por el refrendo de pasaportes
+
+oficiales 131.63 130.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -825,27 +1485,55 @@ Los Diputados y Senadores del Congreso de la Unión y los miembros del Servicio 
 
 Los derechos por la prestación de servicios consulares se pagarán como sigue:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Actuaciones matrimoniales.............. $ 265.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Legalización de firmas o sellos.............. $ 225.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Actuaciones matrimoniales 365.33 365.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Legalización de firmas o
+
+sellos 310.19 310.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Visas de:
 
-a).- Certificados de análisis, de libre venta, de origen y médicos, por cada uno...... $ 270.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- Certificados de análisis, de libre
+
+venta, de origen y médicos, por
+
+cada uno 372.21 370.00
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-d).- Ordinarias en pasaportes extranjeros, cuando no exista convenio o acuerdo unilateral de supresión de visas.............. $ 225.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- Especial en pasaportes extranjeros con vigencia hasta por diez años.............. $ 355.00
+d).- Ordinarias en pasaportes
+
+extranjeros, cuando no exista
+
+convenio o acuerdo unilateral de
+
+supresión de visas 310.19 310.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Especial en pasaportes
+
+extranjeros con vigencia hasta
+
+por diez años 489.39 490.00
 
 Los derechos por la expedición de las visas ordinarias o especiales en pasaportes extranjeros a que se refieren los incisos d) y e) de esta fracción, podrán exentarse o reducirse cuando por acuerdo de la Secretaría de Relaciones Exteriores, en consideración a aspectos de reciprocidad internacional o en forma unilateral con el fin de estimular el turismo y los intercambios comerciales o culturales, lo estime conveniente.
 
@@ -853,25 +1541,55 @@ Los derechos por la expedición de las visas ordinarias o especiales en pasaport
 
 IV.- Expedición de certificados de:
 
-a).- Constitución de sociedades extranjeras, importación de armas, municiones, detonantes, explosivos y artificios químicos y de pasavantes o patentes provisionales de navegación, por cada uno.............. $ 1,130.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Matrícula consular a mexicanos, por cada una.............. $ 140.00
+a).- Constitución de sociedades
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+extranjeras, importación de armas,
 
-c).- Importación de psicotrópicos y estupefacientes............. $ 478.00
+municiones, detonantes, explosivos
 
-d).- Copia certificada de actas del registro civil, por cada una.............. $ 80.00
+y artificios químicos y de pasavantes
 
-e).- Otros certificados, a petición de parte, por cada uno.............. $ 385.00
+o patentes provisionales de navegación,
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+por cada uno 1,557.84 1,560.00
 
-f).- Lista de menaje de casa a mexicanos............. $ 624.20
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Matrícula consular a mexicanos,
 
-g).- Lista de menaje de casa a extranjeros............. $ 836.19
+por cada una 193.00 195.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Importación de psicotrópicos
+
+y estupefacientes 531.05 530.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Copia certificada de actas del
+
+registro civil, por cada una 110.27 110.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Otros certificados, a petición
+
+de parte, por cada uno 530.75 530.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- Lista de menaje de casa a
+
+mexicanos 812.14 810.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+g).- Lista de menaje de casa a
+
+extranjeros 1,087.95 1,090.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -889,45 +1607,71 @@ Cuando los servicios a que se refiere este artículo, sean prestados en territor
 
 Los derechos por la prestación de servicios notariales en las oficinas consulares mexicanas, se pagarán conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la renuncia de derechos hereditarios.............. $ 715.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la renuncia de derechos
+
+hereditarios 985.71 985.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
 II.- Por los mandatos o poderes, así como la revocación de los mismos:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Generales o especiales otorgados por personas físicas.............. $ 715.00
+a).- Generales o especiales
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+otorgados por personas físicas 985.71 985.00
 
-b).- Generales o especiales otorgados por personas morales .............. $ 1,075.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b).- Generales o especiales otorgados
 
-III.- Por cada testamento público abierto.............. $ 1,830.00
+por personas morales 1,482.02 1,480.00
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Por la expedición de subsecuentes Testimonios, por hoja .............. $ 45.00
+III.- Por cada testamento público
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+abierto 2,522.89 2,520.00
 
-V.- Por la recepción de cada testamento ológrafo.............. $ 915.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+IV.- Por la expedición de subsecuentes
 
-VI.- Por cada testamento público cerrado.............. $ 250.00
+Testimonios, por hoja 62.02 60.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por las autorizaciones que otorguen las personas que ejerzan la patria potestad o la tutela sobre menores o incapaces............... $ 275.00
+V.- Por la recepción de cada testamento
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+ológrafo 1,261.44 1,260.00
 
-VIII.- Cotejo de documentos............... $ 80.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por cada testamento público
+
+cerrado 344.65 345.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por las autorizaciones que otorguen
+
+las personas que ejerzan la patria potestad
+
+o la tutela sobre menores o
+
+incapaces 379.11 380.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Cotejo de documentos 110.27 110.00
 
 Siempre que una escritura notarial contenga diversos contratos o actos, los derechos se fiarán por cada uno de los contratos o actos principales y en un 50% por los accesorios y complementarios.
 
@@ -997,51 +1741,125 @@ No pagarán los derechos por los servicios que se establecen en esta sección, l
 
 Por la realización de trámites relacionados con las fracciones I y IV del artículo 27 Constitucional, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la recepción, examen y resolución de cada solicitud de uso de denominación en la constitución de sociedad y asociaciones. $ 150,000.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la recepción, examen y
+
+resolución de cada solicitud de uso
+
+de denominación en la constitución
+
+de sociedad y asociaciones 457.33 455.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la recepción, examen y
+
+resolución de cada solicitud de permiso
+
+de cambio de denominación o
+
+razón social 406.60 405.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-II.- Por la recepción, examen y resolución de cada solicitud de permiso de cambio de denominación o razón social. $ 312.51
+III.- Por el examen de cada solicitud
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de permiso a que se refieren las
 
-III.- Por el examen de cada solicitud de permiso a que se refieren las fracciones IV, V, y VII. $ 143.49
+fracciones IV, V, y VII 186.69 185.00
 
 IV.- Para la celebración de contratos u obtención de concesiones:
 
 a).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Obtención de concesiones del Gobierno Federal o de los gobiernos de las Entidades Federativas o de los Municipios. $ 2,961.00
+b).- Obtención de concesiones del
+
+Gobierno Federal o de los gobiernos
+
+de las Entidades Federativas o de
+
+los Municipios 3,289.67 3,290.00
 
 V.- Para la celebración de contratos de fideicomiso:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por aquellos fideicomisos a que se refiere el artículo 11 de la Ley de Inversión Extranjera. $ 5,208.81
+a).- Por aquellos fideicomisos a que
 
-b).- Para la modificación y reforma de los contratos de fideicomiso a que se refiere el inciso anterior. $ 1'000,000.00
+se refiere el artículo 11 de la Ley de
 
-c).- Para celebrar cesiones de derechos fideicomisarios. $ 1'000,000.00
+Inversión Extranjera 6,777.13 6,780.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Para los demás casos no señalados en los incisos anteriores. $ 112.00
+b).- Para la modificación y reforma de
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+los contratos de fideicomiso a que se
 
-VI.- Por la recepción y estudio del escrito de convenio de renuncia, para la adquisición de inmuebles fuera de zona restringida u obtención de concesiones para la exploración y explotación de minas o aguas en el territorio nacional. $ 2,961.00
+refiere el inciso anterior 3,049.20 3,050.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- A cada extranjero para adquirir en territorio nacional fuera de la zona restringida el dominio de tierras, aguas y sus accesiones. $ 1,645.00
+c).- Para celebrar cesiones de derechos
+
+fideicomisarios 3,049.20 3,050.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Para los demás casos no señalados
+
+en los incisos anteriores 223.93 225.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la recepción y estudio del
+
+escrito de convenio de renuncia, para
+
+la adquisición de inmuebles fuera de
+
+zona restringida u obtención de
+
+concesiones para la exploración y
+
+explotación de minas o aguas en el
+
+territorio nacional 3,289.67 3,290.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- A cada extranjero para adquirir
+
+en territorio nacional fuera de la zona
+
+restringida el dominio de tierras, aguas
+
+y sus accesiones 3,289.67 3,290.00
 
 VIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IX.- Por la presentación de cada aviso de uso de permiso en la constitución de sociedades o asociaciones y de reformas a sus estatutos. $ 151.00
+IX.- Por la presentación de cada
+
+aviso de uso de permiso en la
+
+constitución de sociedades o
+
+asociaciones y de reformas a sus
+
+estatutos 167.76 170.00
 
 X.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -1049,19 +1867,39 @@ X.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 XI.- Por la presentación extemporánea de los siguientes avisos:
 
-a).- De uso del permiso para la constitución de sociedades o asociaciones y de cambio de denominación o razón social. $ 823.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De liquidación, fusión o escisión de sociedades. $ 823.00
+a).- De uso del permiso para la
 
-c).- De modificación de la cláusula de exclusión por la de admisión de extranjeros. $ 823.00
+constitución de sociedades o
+
+asociaciones y de cambio de d
+
+nominación o razón social 914.35 915.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De liquidación, fusión o escisión
+
+de sociedades 914.35 915.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- De modificación de la cláusula de
+
+exclusión por la de admisión de
+
+extranjeros 914.35 915.00
 
 XII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 XIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XIV.- Los no especificados en las fracciones anteriores. $ 112.00
+XIV.- Los no especificados en las
+
+fracciones anteriores 223.93 225.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -1069,35 +1907,61 @@ XIV.- Los no especificados en las fracciones anteriores. $ 112.00
 
 Por los servicios que se presten en materia de nacionalidad y naturalización, a que se refiere el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable, se pagará el derecho de trámite de nacionalidad y naturalización, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Por los documentos expedidos con fundamento en el artículo 30, Apartado A, 32 y 37, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos:
 
-a).- Por expedición............. $ 100.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por reposición............. $ 50.00
+a).- Por expedición 130.10 130.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por reposición 65.04 65.00
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 II.- En las cartas de naturalización a las que se refiere la fracción I del Apartado B del citado precepto constitucional:
 
-a).- Por la recepción y estudio de cada solicitud de carta de naturalización............ $ 350,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por su expedición................. $ 500,000.00
+a).- Por la recepción y estudio de
 
-c).- Por reposición de documento............... $ 500,000.00
+cada solicitud de carta de
+
+naturalización 1,067.17 1,070.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por su expedición 1,524.54 1,525.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por reposición de
+
+documento 1,524.54 1,525.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- En las cartas de naturalización a que se refiere la fracción II del Apartado B del citado precepto constitucional y los artículos 16 y 17 de la Ley de Nacionalidad:
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por la recepción, estudio y expedición de cada carta........... N$ 346.00
+a).- Por la recepción, estudio y
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+expedición de cada carta 914.50 915.00
 
-b).- Por la reposición de documento.............. $ 300,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la reposición de
+
+documento 914.69 915.00
 
 IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
@@ -1105,13 +1969,15 @@ IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 V.- En los certificados de recuperación de nacionalidad mexicana a que se refiere la Ley de Nacionalidad:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el estudio y trámite de cada solicitud de certificados.............. $ 500.00
+a).- Por el estudio y trámite de cada solicitud de certificados 999.91 1,000.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por reposición del documento............... $ 470.20
+b).- Por reposición del
+
+documento 940.30 940.00
 
 c).- (DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -1137,11 +2003,11 @@ I.- El importe de los estímulos que se concedan de conformidad con la Ley del I
 
 II.- El importe de los estímulos cuando en la disposición en que se otorguen, se exima expresamente del pago de estos derechos.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 29.
 
-Las sociedades controladoras de grupos financieros, pagarán anualmente el derecho de inspección y vigilancia conforme a la cuota equivalente al 0.75 al millar de su capital social más reservas de capital, sin que la cantidad a pagar por este concepto sea inferior a $222,868.00 ni superior a $251,187.00.
+Las sociedades controladoras de grupos financieros, pagarán anualmente el derecho de inspección y vigilancia conforme a la cuota equivalente al 0.75 al millar de su capital social más reservas de capital, sin que la cantidad a pagar por este concepto sea inferior a 351,050.51 ni superior a 395,657.19.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1199,11 +2065,23 @@ II.- Al monto total de las cuotas para este sector determinadas en el ejercicio 
 
 III.- El importe de los derechos a pagar por cada entidad determinados conforme a la fracción que antecede, no podrá ser inferior a la cuota señalada en el artículo 29-K aplicables para las sociedades de ahorro y préstamo de nueva creación.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 29-E.
 
-La sociedades financieras de objeto limitado pagarán anualmente el derecho de inspección y vigilancia de $ 80,004.00.
+La sociedades financieras
+
+de objeto limitado pagarán anualmente el
+
+derecho de inspección y vigilancia de
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+126,018.25 126,018.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1223,13 +2101,33 @@ IV.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 Cuando una casa de bolsa pague derechos por inscripción en la sección de intermediarios del Registro Nacional de Valores e Intermediarios, no estará obligada a pagar cuotas por inspección y vigilancia en el ejercicio fiscal en que se realice la inscripción.
 
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 ###### ARTICULO 29-G.
 
-(DEROGADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)
+Los especialistas bursátiles
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+deberán pagar anualmente el derecho de
 
-Los especialistas bursátiles deberán pagar anualmente el derecho de inspección y vigilancia equivalente al 0.5 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a............. $ 435,282.91
+inspección y vigilancia equivalente al 0.5
+
+por ciento respecto de su capital contable,
+
+excluyendo el resultado no realizado por
+
+valuación de cartera de valores y
+
+actualización patrimonial, sin que los
+
+derechos a pagar por este concepto sean
+
+inferiores a 582,159.69 582,160.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1241,15 +2139,53 @@ Cuando un especialista bursátil pague derechos por inscripción en la sección 
 
 Las sociedades operadoras de las sociedades de inversión deberán pagar los siguientes derechos:
 
-I.- Por el estudio y trámite de la solicitud de autorización para la constitución y operación............... $ 8,918.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la autorización para la constitución y operación.............. $ 91,716.00
+2000 2000
 
-III.- Por la autorización de sociedades operadoras exclusivamente de sociedades de inversión de capitales.............. $ 80,291.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Inspección y vigilancia anual de sociedades operadoras de sociedades de inversión comunes y de inversión en instrumentos de deuda............... $ 19,351.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Inspección y vigilancia anual de sociedades operadoras exclusivamente de sociedades de inversión de capitales.............. $ 16,941.00
+I.- Por el estudio y trámite de la
+
+solicitud de autorización para la
+
+constitución y operación 14,047.13 14,047.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la autorización para la
+
+constitución y operación 144,466.42 144,466.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización de sociedades
+
+operadoras exclusivamente de sociedades
+
+de inversión de capitales 126,470.33 126,470.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Inspección y vigilancia anual de
+
+sociedades operadoras de sociedades
+
+de inversión comunes y de inversión
+
+en instrumentos de deuda 30,480.68 30,481.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Inspección y vigilancia anual de
+
+sociedades operadoras exclusivamente
+
+de sociedades de inversión de
+
+capitales 26,684.58 26,685.00
 
 VI.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1257,25 +2193,27 @@ VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 Cuando se paguen derechos por la autorización para la constitución de una sociedad operadora de sociedades de inversión, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 29-I.
 
-Las sociedades de inversión deberán pagar anualmente por el derecho de inspección y vigilancia el equivalente al 0.75 al millar respecto al monto en circulación de las acciones representativas de su capital social, valuadas a precio corriente en el mercado y a falta de éste, a su valor contable, sin que los derechos a pagar por este concepto sean inferiores a $ 5,856.00, ni excedan de $ 208,464.00. No quedarán comprendidas para los efectos del presente artículo, las sociedades de inversión especializadas en fondos para el retiro.
+Las sociedades de inversión deberán pagar anualmente por el derecho de inspección y vigilancia el equivalente al 0.75 al millar respecto al monto en circulación de las acciones representativas de su capital social, valuadas a precio corriente en el mercado y a falta de éste, a su valor contable, sin que los derechos a pagar por este concepto sean inferiores a 6,687.12, ni excedan de 238,062.23. No quedarán comprendidas para los efectos del presente artículo, las sociedades de inversión especializadas en fondos para el retiro.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Cuando las sociedades de inversión paguen derechos por inscripción de sus acciones en la sección de valores del Registro Nacional de Valores e Intermediarios, no se pagarán cuotas adicionales por inspección y vigilancia en el ejercicio fiscal correspondiente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 29-J.
 
-Por el estudio y trámite de la solicitud para la constitución de sociedades inmobiliarias y empresas de servicios auxiliares o complementarios se pagarán $ 8,918.00.
+Por el estudio y trámite de la solicitud para la constitución de sociedades inmobiliarias y empresas de servicios auxiliares o complementarios se pagarán 14,047.13
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Las oficinas o agencias de representación de entidades financieras del exterior establecidas en el país, las uniones de crédito, el Patronato del Ahorro Nacional, los fondos y fideicomisos públicos de fomento económico que realicen actividades financieras y que estén sujetos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, así como las inmobiliarias y empresas de servicios auxiliares o complementarios, deberán pagar anualmente el derecho de inspección y vigilancia conforme a la cuota actualizada del ejercicio inmediato anterior, sin que la cantidad a pagar por este concepto sea inferior a............. $ 22,434.86.
+Las oficinas o agencias de representación de entidades financieras del exterior establecidas en el país, las uniones de crédito, el Patronato del Ahorro Nacional, los fondos y fideicomisos públicos de fomento económico que realicen actividades financieras y que estén sujetos a la inspección y vigilancia de la Comisión Nacional Bancaria y de Valores, así como las inmobiliarias y empresas de servicios auxiliares o complementarios, deberán pagar anualmente el derecho de inspección y vigilancia conforme a la cuota actualizada del ejercicio inmediato anterior, sin que la cantidad a pagar por este concepto sea inferior a 30,004.99
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 El importe de las cuotas que deberán pagar las oficinas o agencias de representación, fondos o fideicomisos públicos y empresas de nueva creación referidos en el párrafo anterior, determinados de conformidad con este mismo artículo, no podrán ser inferiores a la cuota señalada en el artículo 29-K aplicable para las oficinas, fideicomisos y empresas de referencia.
 
@@ -1285,13 +2223,49 @@ El importe de las cuotas que deberán pagar las oficinas o agencias de represent
 
 Las entidades financieras de nueva creación, pagarán derechos de inspección y vigilancia durante el primer ejercicio fiscal en el cual inicien operaciones, conforme a las siguientes cuotas:
 
-I.- Sociedades controladoras de grupos financieros.............. $ 222,869.00
+1er. Trimestre 1er. trimestre
 
-II.- Instituciones de banca múltiple y de banca de desarrollo.............. $ 685,749.00
+2000 2000
 
-III.- Arrendadoras financieras, empresas de factoraje financiero, almacenes generales de depósito, uniones de crédito, sociedades de ahorro y préstamo, casas de cambio... $ 19,049.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Las oficinas o agencias de representación, fondos o fideicomisos públicos de fomento económico y demás empresas a que se refiere el artículo 29-J............... $ 19,049.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Sociedades controladoras de
+
+grupos financieros 351,052.07 351,052.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Instituciones de banca múltiple
+
+y de banca de desarrollo 1,080,157.56 1,080,158.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Arrendadoras financieras,
+
+empresas de factoraje financiero,
+
+almacenes generales de depósito,
+
+uniones de crédito, sociedades de
+
+ahorro y préstamo, casas de
+
+cambio 30,004.99 30,005.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Las oficinas o agencias de
+
+representación, fondos o fideicomisos
+
+públicos de fomento económico y
+
+demás empresas a que se refiere el
+
+artículo 29-J 30,004.99 30,005.00
 
 En los subsecuentes ejercicios fiscales, los derechos se determinarán conforme a las cuotas establecidas para cada sector y entidad de que se trate, sin que en caso alguno sea inferior a las cuotas aquí establecidas.
 
@@ -1301,9 +2275,21 @@ En los subsecuentes ejercicios fiscales, los derechos se determinarán conforme 
 
 Por las actuaciones de intervención gerencial de la Comisión Nacional Bancaria y de Valores se pagará mensualmente el derecho por intervención gerencial, conforme a las siguientes cuotas:
 
-I.- Instituciones de banca múltiple.............. $ 527,011.00
+1er. Trimestre 1er. trimestre
 
-II.- Casas de bolsa.............. $ 263,505.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Instituciones de banca
+
+múltiple 830,121.38 830,121.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Casas de bolsa 415,059.88 415,060.00
 
 III.- Para las demás entidades financieras, el doble de la cuota que corresponda a la entidad de que se trate como pago mensual por el derecho de inspección y vigilancia, o la parte proporcional de la cuota anual cuando el pago sea en otras parcialidades.
 
@@ -1321,11 +2307,25 @@ En el caso de fusión de entidades financieras o de filiales de entidades financ
 
 Para los efectos de lo dispuesto en los artículos 29, 29-A, 29-B, 29-C, 29-D, 29-E, 29-F, 29-G, 29-H, 29-I y 29-K, quedan comprendidas las filiales de entidades financieras del exterior de cualquier tipo, estando éstas obligadas a pagar las cuotas aplicables.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 29
 
-Ñ.- Las sociedades de información crediticia deberán pagar anualmente el derecho de inspección y vigilancia, conforme a la cuota de $ 53,336.00.
+Ñ.- Las sociedades de
+
+información crediticia deberán pagar
+
+anualmente el derecho de inspección y
+
+vigilancia, conforme a la cuota de
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+84,012.16 84,012.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1333,53 +2333,85 @@ Para los efectos de lo dispuesto en los artículos 29, 29-A, 29-B, 29-C, 29-D, 2
 
 Las instituciones para el depósito de valores, las bolsas de valores, las sociedades calificadoras de valores, las sociedades valuadoras de acciones de sociedades de inversión, así como las bolsas de futuros y opciones, las cámaras de compensación, socios liquidadores y socios operadores del mercado de futuros y opciones, y las empresas que administran mecanismos para facilitar las operaciones con valores, deberán pagar los siguientes derechos:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Las instituciones para el depósito de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 232,201.00.
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Las bolsas de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 438,114.00.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Las instituciones para el depósito de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a 365,751.37
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Las bolsas de valores, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a 690,095.28
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Las sociedades calificadoras de valores:
 
-a).- Por el estudio y trámite de la solicitud de autorización para la constitución de la sociedad.............. $ 8,918.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización de la sociedad.............. $ 91,716.00
+a).- Por el estudio y trámite de la
 
-c).- Por inspección y vigilancia anual.............. $ 90,615.00
+solicitud de autorización para la
+
+constitución de la sociedad 14,047.13 14,047.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización de la
+
+sociedad 144,466.42 144,466.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por inspección y vigilancia
+
+anual 142,732.18 142,732.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Sociedades valuadoras de acciones de sociedades de inversión:
 
-a).- Por el estudio y trámite de la solicitud de autorización para la constitución de la sociedad.............. $ 8,918.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización de la sociedad.............. $ 40,146.00
+a).- Por el estudio y trámite de la
 
-c).- Por inspección y vigilancia anual $ 200.00 por cada sociedad de inversión a la que le valúen sus acciones, sin que los derechos a pagar por este concepto sean inferiores a $ 10,000.00.
+solicitud de autorización para la
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+constitución de la sociedad 14,047.13 14,047.00
 
-V.- Las bolsas de futuros y opciones, por concepto de inspección y vigilancia anual:………… 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 114,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Por la autorización de la
 
-VI.- Las cámaras de compensación del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual:……….. 0.75 por ciento respecto de su patrimonio, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a $ 427,500.00
+sociedad 63,235.91 63,236.00
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Los socios liquidadores del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual:............. $ 237,500.00
+c).- Por inspección y vigilancia anual 314.98 por cada sociedad de inversión a la que le valúen sus acciones, sin que los derechos a pagar por este concepto sean inferiores a 15,751.46
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Los socios operadores del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual, por cada acción suscrita de las bolsas de futuros y opciones:............. $ 9,500.00
+V.- Las bolsas de futuros y opciones, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su capital contable, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a 152,466.82
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IX.- Las empresas que administran mecanismos para facilitar las operaciones con valores, por concepto de inspección y vigilancia:............. $ 60,000.00
+VI.- Las cámaras de compensación del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual: 0.75 por ciento respecto de su patrimonio, excluyendo el resultado no realizado por valuación de cartera de valores y actualización patrimonial, sin que los derechos a pagar por este concepto sean inferiores a 571,750.60
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Los socios liquidadores del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual: 317,639.22
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Los socios operadores del mercado de futuros y opciones cotizados en bolsa, por concepto de inspección y vigilancia anual, por cada acción suscrita de las bolsas de futuros y opciones: 12,705.55
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Las empresas que administran mecanismos para facilitar las operaciones con valores, por concepto de inspección y vigilancia: 80,245.68
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1389,33 +2421,249 @@ Las personas morales que en su carácter de emisoras tengan inscritos en el Regi
 
 I.- Por valores inscritos en la sección de valores:
 
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 a).- De emisoras de cualquier tipo:
 
-1.- Con sólo acciones inscritas.............. 1.20 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00.
+1er. trimestre 1er. trimestre
 
-2.- Con sólo obligaciones inscritas............... 1.20 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 126,991.00.
+2000 2000
 
-3.- Con acciones y obligaciones inscritas................ 1.20 al millar respecto al capital social más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00, y 0.80 al millar respecto al monto en circulación de cada emisión de obligaciones, sin que los derechos a pagar por este concepto excedan de $ 63,495.00.
+cuota sin cuota con
 
-4.- Con títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación, sobre bienes o derechos muebles o inmuebles o del capital de personas morales. También los valores emitidos por organismos descentralizados del Gobierno Federal, Gobiernos de los Estados y Municipios, así como de los organismos y empresas en que estos últimos participen.............. 1.20 al millar, respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 126,991.00.
+ajuste ajuste
 
-5.- Otros títulos o valores inscritos, distintos a los señalados en los numerales anteriores.............. $ 41,907.00, por cada emisión.
+1.- Con sólo 1.20 al millar respecto
+
+acciones al capital social más
+
+inscritas reservas de capital,
+
+sin que los derechos
+
+a pagar por este
+
+concepto excedan de 400,058.16
+
+2.- Con sólo 1.20 al millar respecto
+
+obligaciones al monto en circulación
+
+inscritas de cada emisión, sin que
+
+los derechos a pagar por
+
+este concepto excedan
+
+de 200,029.83
+
+3.- Con 1.20 al millar respecto
+
+acciones y al capital social más
+
+obligaciones reservas de capital,
+
+inscritas sin que los derechos
+
+a pagar por este
+
+concepto excedan
+
+de 400,058.16,
+
+y 0.80 al millar
+
+respecto al monto
+
+en circulación
+
+de cada emisión
+
+de obligaciones,
+
+sin que los
+
+derechos a pagar
+
+por este concepto
+
+excedan de 100,014.11 100,014.00
+
+4.- Con 1.20 al millar,
+
+títulos de respecto al
+
+crédito o monto en
+
+valores circulación
+
+inscritos de cada emisión,
+
+que sin que los
+
+otorguen derechos a
+
+a sus pagar por
+
+titulares este concepto
+
+derechos de excedan de 200,029.83 200,030.00
+
+crédito, de
+
+propiedad o
+
+de
+
+participación,
+
+sobre bienes
+
+o derechos
+
+muebles o
+
+inmuebles o
+
+del capital
+
+de personas
+
+morales.
+
+También los
+
+Valores
+
+emitidos por
+
+organismos
+
+descentralizados
+
+del Gobierno
+
+Federal,
+
+Gobiernos de
+
+los Estados y
+
+Municipios,
+
+así como de los
+
+organismos y
+
+empresas en que
+
+estos últimos
+
+participen
+
+5.- Otros títulos o
+
+valores inscritos,
+
+distintos a los
+
+señalados en los
+
+numerales
+
+anteriores por cada emisión 66,009.77 66,010.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 b).- De emisoras que sean entidades financieras de cualquier tipo, incluyendo a las filiales de entidades financieras del exterior:
 
-1.- Con acciones o certificados de aportación patrimonial inscritos, excepto de sociedades operadoras de sociedades de inversión y sociedades de inversión............... 1.20 al millar respecto del capital exhibido y reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 253,981.00.
+1.- Con 1.20 al millar
 
-2.- Bonos u obligaciones............... 1.20 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 158,738.00.
+acciones o respecto del
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+certificados capital
 
-3. Pagarés financieros:……….. 0.80 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 138,345.03
+de exhibido y
 
-4.- Valores fiduciarios.............. 0.80 al millar respecto al monto en circulación de cada emisión, sin que los derechos a pagar por este concepto excedan de $ 47,621.00.
+aportación reservas de
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+patrimonial capital, sin
 
-II.- Con valores inscritos en la Sección Especial se pagará anualmente la cuota de $ 32,404.00 por inscripción.
+inscritos, que los derechos
+
+excepto de a pagar por
+
+sociedades este concepto
+
+operadoras excedan de 400,058.16 400,058.00
+
+de
+
+sociedades
+
+de inversión
+
+y sociedades
+
+de inversión
+
+2.- Bonos u 1.20 al millar
+
+obligaciones respecto al
+
+monto en
+
+circulación de
+
+cada emisión,
+
+sin que los
+
+derechos a
+
+pagar por
+
+este concepto
+
+excedan de 250,036.14 250,036.00
+
+3. Pagarés 0.80 al millar
+
+financieros respecto al monto
+
+en circulación de
+
+cada emisión, sin
+
+que los derechos
+
+a pagar por este
+
+concepto excedan de 185,026.54 185,027.00
+
+4.- Valores 0.80 al millar
+
+fiduciarios respecto al monto en
+
+circulación de cada
+
+emisión, sin que los
+
+derechos a pagar por
+
+este concepto excedan
+
+de 75,010.20 75,010.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Con valores inscritos en la Sección
+
+Especial se pagará anualmente la
+
+cuota de 37,004.70 37,005.00
+
+por inscripción.
 
 III.- No computarán para los efectos de la cuota de inspección y vigilancia a que se refiere este artículo, los valores que hayan sido inscritos en el mismo ejercicio fiscal en el cual se paguen dichos derechos, excepto cuando se otorgue la inscripción para la ampliación de plazos, montos de emisión o de capital social.
 
@@ -1433,25 +2681,53 @@ Los auditores externos de instituciones de crédito y de casas de bolsa, así co
 
 I.- Tratándose de auditores externos de instituciones de crédito y casas de bolsa:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-a).- Por estudio y trámite para la obtención del registro correspondiente.............. $ 2,895.00
+2000 2000
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-b).- Por el registro provisional o definitivo............... $ 19,049.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+a).- Por estudio y trámite para la
 
-c).- Por la inspección y vigilancia anual.............. $ 19,049.00
+obtención del registro
+
+correspondiente 4,560.01 4,560.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por el registro provisional o
+
+definitivo 30,004.99 30,005.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por la inspección y vigilancia
+
+anual 30,004.99 30,005.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II.- Tratándose de peritos valuadores que presten servicios a instituciones de crédito:
 
-a).- Por el estudio y trámite de la solicitud para la obtención del registro provisional o definitivo o la renovación de este último............. $ 3,993.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por el registro provisional o definitivo o la renovación de este último............. $ 4,204.00
+a).- Por el estudio y trámite de la
+
+solicitud para la obtención del
+
+registro provisional o definitivo o la
+
+renovación de este último 4,560.01 4,560.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por el registro provisional o
+
+definitivo o la renovación de este
+
+último 4,800.86 4,801.00
 
 c).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -1465,31 +2741,67 @@ En aquel ejercicio fiscal en que un auditor externo pague la cuota por el concep
 
 Los valuadores profesionales de activos fijos de sociedades emisoras de valores a que se refiere el artículo 41 fracción II-Bis de la Ley del Mercado de Valores:
 
-I.- Por el estudio y trámite para la obtención de la autorización correspondiente......... $ 2,895.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio y trámite para la
+
+obtención de la autorización
+
+correspondiente 4,560.01 4,560.00
 
 II.- Por la autorización de valuadores personas físicas:
 
-a).- Área de inmuebles industriales............... $ 7,458.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Área de maquinaria y equipo.............. $ 7,458.00
+a).- Área de inmuebles
+
+industriales 11,747.41 11,747.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Área de maquinaria y equipo 11,747.41 11,747.00
 
 III.- Por la autorización de valuadores personas morales:
 
-a).- Área de inmuebles industriales.............. $ 22,081.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Área de maquinaria y equipo.............. $ 22,081.00
+a).- Área de inmuebles
+
+industriales 34,780.85 34,781.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Área de maquinaria y equipo 34,780.85 34,781.00
 
 IV.- Por derechos de inspección y vigilancia anual de valuadores personas físicas:
 
-a).- Área de inmuebles industriales............... $ 3,680.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Área de maquinaria y equipo.............. $ 3,680.00
+a).- Área de inmuebles
+
+industriales 5,796.52 5,797.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Área de maquinaria y equipo 5,796.52 5,797.00
 
 V.- Por derechos de inspección y vigilancia anual de valuadores personas morales:
 
-a).- Área de Inmuebles Industriales.............. $ 11,040.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Área de Maquinaria y Equipo.............. $ 11,040.00
+a).- Área de Inmuebles
+
+Industriales 17,389.61 17,390.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Área de Maquinaria y Equipo 17,389.61 17,390.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1497,11 +2809,31 @@ b).- Área de Maquinaria y Equipo.............. $ 11,040.00
 
 Por el estudio y la tramitación de cualquier solicitud de inscripción en el Registro Nacional de Valores e Intermediarios que lleva la Comisión Nacional Bancaria y de Valores, se pagará el derecho correspondiente conforme a las siguientes cuotas:
 
-I.- Solicitud de inscripción inicial o ampliación de la misma, en la Sección de Valores o Especial.............. $ 7,360.00
+1er. Trimestre 1er. trimestre
 
-II.- Solicitud de inscripción en la Sección de Intermediarios.............. $ 8,917.00
+2000 2000
 
-III.- Incorporación de emisoras al Listado Previo de Emisoras.............. $ 10,953.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Solicitud de inscripción inicial o
+
+ampliación de la misma, en la
+
+Sección de Valores o Especial 11,593.07 11,593.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Solicitud de inscripción en la
+
+Sección de Intermediarios 14,045.56 14,046.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Incorporación de emisoras al
+
+Listado Previo de Emisoras 17,252.55 17,253.00
 
 No se pagarán los derechos a que se refiere la fracción I de este artículo, cuando en los términos del primero y tercer párrafos del artículo 15 de la Ley del Mercado de Valores, se solicite de oficio la inscripción de instrumentos de deuda en la Sección de Valores del Registro Nacional de Valores e Intermediarios.
 
@@ -1513,65 +2845,159 @@ Por la inscripción en el Registro Nacional de Valores e Intermediarios, se paga
 
 I.- Sección de Valores:
 
-a).- Acciones o certificados de aportación patrimonial...................... 1.8 al millar por los primeros $ 372´397,206.00 del capital social autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+1er. Trimestre 1er. trimestre
 
-b).- Obligaciones.................... 1.8 al millar por los primeros $ 372´397,206.00 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- Acciones o certificados de 1.8 al millar por los primeros $ 586,581,498.07
+
+aportación patrimonial del capital social autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 6,900,959.37
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Obligaciones 1.8 al millar por los primeros $ 586,581,498.07 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 6,900,959.37
 
 c).- Títulos de crédito o valores inscritos que otorguen a sus titulares derechos de crédito, de propiedad o de participación sobre bienes o derechos muebles o inmuebles o del capital de personas morales, y otros valores:
 
-1. Con vigencia mayor a un año............... 1.8 al millar por los primeros $ 372´397,206.00 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 4´381,144.00.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1. Con vigencia mayor
 
-2. Programas de emisión con vigencia igual o menor a un año:…….. 0.9 al millar por los primeros $ 438,589,096.33 del monto autorizado y 0.45 al millar por el excedente. Se pagará en proporción al plazo de vigencia del programa o, en su caso, de la ampliación.
+a un año 1.8 al millar por los primeros $ 586,581,498.07 sobre el monto autorizado, y 0.9 al millar por el excedente sin que los derechos a pagar por este concepto excedan de $ 6,900,959.37
 
-d).- Acciones de sociedades de inversión............... 2.0 al millar respecto del monto total del capital social mínimo fijo.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+2. Programas de emisión con
 
-e).- Bonos u obligaciones emitidos o garantizados, según corresponda, por sociedades controladoras de grupos financieros, instituciones de crédito, de seguros, de fianzas, sociedades financieras de objeto limitado, casas de bolsa, organizaciones auxiliares de crédito y filiales de entidades financieras del exterior del mismo tipo……….. 0.9 al millar por los primeros $ 513,652,932.00 del monto autorizado y 0.45 al millar por el excedente.
+vigencia igual o menor a
+
+un año: 0.9 al millar por los primeros $ 586,581,498.08 del monto autorizado y 0.45 al millar por el excedente. Se pagará en proporción al plazo de vigencia del programa o, en su caso, de la ampliación.
+
+d).- Acciones de sociedades
+
+de inversión 2.0 al millar respecto del monto total del capital social mínimo fijo.
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Bonos u obligaciones emitidos
+
+o garantizados, según
+
+corresponda, por sociedades
+
+controladoras de grupos
+
+financieros, instituciones de
+
+crédito, de seguros, de fianzas,
+
+sociedades financieras de
+
+objeto limitado, casas de bolsa,
+
+organizaciones auxiliares de
+
+crédito y filiales de entidades
+
+financieras del exterior
+
+del mismo tipo 0.9 al millar por los primeros $ 586,581,498.58 del monto autorizado y 0.45 al millar por el excedente.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 f).- Otros títulos suscritos o emitidos por instituciones de crédito, organizaciones auxiliares de crédito, sociedades financieras de objeto limitado y filiales de entidades financieras del exterior del mismo tipo, representativos o no de un pasivo a su cargo, por clase de valor:
 
-1. Con vigencia mayor a un año.............. 0.45 al millar del monto autorizado por tipo de valor.
+1. Con vigencia mayor
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+a un año 0.45 al millar del monto autorizado por tipo de valor.
 
-2. Con vigencia igual o menor a un año, por tipo de valor:…….. 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 600,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-g).- Títulos opcionales emitidos por sociedades anónimas, casas de bolsa, instituciones de crédito y filiales de entidades financieras del exterior del mismo tipo............. 0.9 al millar respecto al monto total de las primas de emisión.
+2. Con vigencia igual o menor a
 
-h).- Valores emitidos por organismos descentralizados del Gobierno Federal.............. 0.9 al millar por los primeros $ 372´397,206.00 del monto autorizado y 0.45 al millar por el excedente.
+un año, por tipo de valor: 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 802,456.98
 
-i).- Valores emitidos por los Estados y Municipios, así como por los organismos descentralizados de entidades federativas o municipios................ 0.75 al millar por los primeros $ 387,023,274.00 del monto autorizado y 0.375 al millar por el excedente.
+g).- Títulos opcionales emitidos
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+por sociedades anónimas,
 
-j).- Certificados, pagarés y otros valores emitidos por el Gobierno Federal, por tipo de valor:……… 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 600,000.00
+casas de bolsa, instituciones de
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+crédito y filiales de entidades
 
-k).- Bonos de regulación monetaria emitidos por el Banco de México............ 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 702,689.00.
+financieras del exterior del
+
+mismo tipo 0.9 al millar respecto al monto total de las primas de emisión.
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h).- Valores emitidos por
+
+organismos descentralizados
+
+del Gobierno Federal 0.9 al millar por los primeros $ 586,581,498.07 del monto autorizado y 0.45 al millar por el excedente.
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- Valores emitidos por los
+
+Estados y Municipios, así como
+
+por los organismos
+
+descentralizados de entidades
+
+federativas o municipios 0.75 al millar por los primeros $ 609,619,750.63 del monto autorizado y 0.375 al millar por el excedente.
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+j).- Certificados, pagarés y otros
+
+valores emitidos por el Gobierno
+
+Federal, por tipo de valor: 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 802,456.98
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+k).- Bonos de regulación
+
+monetaria emitidos por el
+
+Banco de México 0.45 al millar del monto emitido por tipo de valor y en proporción a su plazo, sin que los derechos a pagar por este concepto en un ejercicio excedan de $ 802,456.93
 
 II.- Sección de Intermediarios:
 
-a).- Casas de bolsa, especialistas bursátiles y filiales de entidades financieras del exterior del mismo tipo.............. $ 767,520.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- Casas de bolsa,
+
+especialistas bursátiles y
+
+filiales de entidades financieras
+
+del exterior del mismo tipo $ 1,208,959.17 1,208,959.00
 
 III.- Sección Especial:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta pública en el extranjero, por inscripción............. $ 216,033.83
+a).- Valores emitidos en México o por personas morales mexicanas, respecto de los cuales se haga oferta pública en el extranjero, por inscripción $ 288,929.75
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Valores representativos de una deuda emitidos por organismos descentralizados del Gobierno Federal y valores emitidos por el propio Gobierno Federal, respecto de los cuales se haga oferta pública en el extranjero, por inscripción:............. $ 216,033.83
+b).- Valores representativos de una deuda emitidos por organismos descentralizados del Gobierno Federal y valores emitidos por el propio Gobierno Federal, respecto de los cuales se haga oferta pública en el extranjero, por inscripción $ 288,929.75
 
 IV.- Cualquier canje de acciones que no implique un aumento en el monto de capital social inscrito, o de títulos de deuda con objeto de actualizar o modificar los datos de inscripción por concepto de capitalización de intereses, el otorgamiento o liberación de garantías, así como la sustitución de fiduciario en el caso de certificados de participación, no causarán derecho alguno por concepto de registro.
 
-V.- Por cualquier certificación que se expida se pagará el derecho de $ 170.00.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por cualquier certificación que
+
+se expida se pagará el derecho de $267.73 268.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -1635,6 +3061,12 @@ Las bolsas de valores se abstendrán de inscribir valor alguno, mientras el emis
 
 Las instituciones y sociedades mutualistas de seguros, así como los establecimientos que de acuerdo a lo dispuesto por la Ley General de Instituciones y Sociedades Mutualistas de Seguros, deban estar sujetas a la inspección y vigilancia que realice la Comisión Nacional de Seguros y Fianzas, deberán pagar derechos conforme a lo siguiente:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- El 80% del presupuesto de gastos de inspección y vigilancia se prorrateará en relación con las primas emitidas de seguro directo y de reaseguro tomado por las instituciones durante los últimos doce meses anteriores a la fecha de determinación del cálculo.
@@ -1653,9 +3085,13 @@ Las sociedades mutualistas pagarán las cuotas de inspección y vigilancia calcu
 
 Los derechos a que se refieren las fracciones anteriores, se pagarán por mensualidades adelantadas.
 
-III.- Los derechos por servicio de inspección y vigilancia que proporcione la Comisión Nacional de Seguros y Fianzas a las sociedades controladoras, de grupos financieros bajo su supervisión, se determinarán en razón del 1 al millar respecto del capital pagado más reservas de capital, sin que los derechos a pagar por este concepto excedan de N$ 100.000.00 anuales.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Empresas de servicios complementarios que formen parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas................. N$ 5,000.00
+III.- Los derechos por servicio de inspección y vigilancia que proporcione la Comisión Nacional de Seguros y Fianzas a las sociedades controladoras, de grupos financieros bajo su supervisión, se determinarán en razón del 1 al millar respecto del capital pagado más reservas de capital, sin que los derechos a pagar por este concepto excedan de $ 345,047.77 anuales.
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Empresas de servicios complementarios que formen parte de grupos financieros cuyas sociedades controladoras se encuentren bajo supervisión de la Comisión Nacional de Seguros y Fianzas $ 17,252.19 17,252.00
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1663,25 +3099,63 @@ IV.- Empresas de servicios complementarios que formen parte de grupos financiero
 
 Por el servicio de autorización de agentes de seguros que proporciona la Comisión Nacional de Seguros y Fianzas, se pagarán derechos de autorización conforme a las siguientes cuotas:
 
-I.- Por la autorización provisional proporcionada a agentes de seguros personas físicas $ 200,000.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+2000 2000
 
-II.- Por la autorización definitiva a agentes de seguros personas físicas para actuar por cuenta propia con vigencia de tres años............. $ 1,292.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas............. $ 676.00
+I.- Por la autorización provisional
 
-IV.- Por la autorización a agentes de seguros personas morales $ 1'000,000.00
+proporcionada a agentes de
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+seguros personas físicas $ 938.11 938.00
 
-V.- Por la autorización para ejercer la actividad de apoderado de un agente de seguros persona moral para intervenir en el asesoramiento y contratación de seguros............. $ 1,292.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+II.- Por la autorización definitiva a
 
-VI.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior............. $ 676.00
+agentes de seguros personas físicas
+
+para actuar por cuenta propia con
+
+vigencia de tres años $ 1,475.41 1,475.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el refrendo trianual de las
+
+autorizaciones definitivas a agentes
+
+personas físicas $ 771.96 772.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización a agentes de
+
+seguros personas morales $ 4,691.20 4,691.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por la autorización para ejercer la
+
+actividad de apoderado de un agente
+
+de seguros persona moral para
+
+intervenir en el asesoramiento y
+
+contratación de seguros $ 1,475.41 1,475.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por el refrendo trianual de la
+
+autorización a que se refiere la
+
+fracción anterior $ 771.96 772.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1689,17 +3163,37 @@ VI.- Por el refrendo trianual de la autorización a que se refiere la fracción 
 
 Por el servicio de autorización o registro de intermediario de reaseguro que proporciona la Comisión Nacional de Seguros y Fianzas, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la autorización definitiva como intermediario de reaseguro............. $ 4,108.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la autorización para ejercer la actividad de apoderado de intermediario de reaseguro, para intervenir en el asesoramiento y contratación de reaseguro............. $ 1,292.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+I.- Por la autorización definitiva como
 
-III.- Por el refrendo quinquenal de la autorización a que se refiere la fracción anterior............. $ 676.00
+intermediario de reaseguro. $ 4,691.23 4,691.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la autorización para ejercer la
+
+actividad de apoderado de intermediario
+
+de reaseguro, para intervenir en el
+
+asesoramiento y contratación de
+
+reaseguro $ 1,475.41 1,475.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el refrendo quinquenal de la
+
+autorización a que se refiere la fracción
+
+anterior $ 771.96 772.00
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -1733,29 +3227,63 @@ Las cuotas que se recauden por los derechos a que se refiere este artículo se d
 
 Por el servicio de autorización que proporciona la Comisión Nacional de Seguros y Fianzas respecto de agentes de fianzas, se pagarán derechos de autorización conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la autorización definitiva a agentes de fianzas personas físicas para actuar por cuenta propia con vigencia de tres años............. $ 1,292.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por el refrendo trianual de las autorizaciones definitivas a agentes personas físicas............. $ 676.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+I.- Por la autorización definitiva a
 
-III.- Por la autorización a agentes de fianzas personas morales.............. $ 2,978.00
+agentes de fianzas personas físicas
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+para actuar por cuenta propia con
 
-IV.- Por la autorización para ejercer la actividad de apoderado de un agente de fianzas persona moral para intervenir en el asesoramiento y contratación de fianzas............. $ 1,292.00
+vigencia de tres años $ 1,475.41 1,475.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el refrendo trianual de la autorización a que se refiere la fracción anterior............. $ 676.00
+II.- Por el refrendo trianual de las
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+autorizaciones definitivas a agentes
 
-VI.- Por la autorización provisional proporcionada a agentes de fianzas personas físicas............... $ 596.00
+personas físicas $ 771.96 772.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización a agentes de
+
+fianzas personas morales $ 4,690.74 4,691.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización para ejercer la
+
+actividad de apoderado de un agente
+
+de fianzas persona moral para intervenir
+
+en el asesoramiento y contratación de
+
+fianzas $ 1,475.41 1,475.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el refrendo trianual de la
+
+autorización a que se refiere la
+
+fracción anterior $ 771.96 772.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la autorización provisional
+
+proporcionada a agentes de fianzas
+
+personas físicas $ 938.75 939.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -1773,13 +3301,17 @@ VI.- Por la autorización provisional proporcionada a agentes de fianzas persona
 
 Las Administradoras de Fondos para el Retiro y las Empresas Operadoras de la Base de Datos Nacional SAR, pagarán el derecho de inspección y vigilancia que se efectúa a éstas y a las Sociedades de Inversión Especializadas de Fondos para el Retiro que operen las primeras, a cargo de la Comisión Nacional del Sistema de Ahorro para el Retiro, conforme a las siguientes cuotas:
 
-I.- Las Administradoras de Fondos para el Retiro............. $ 24,000.00 cuota anual y adicionalmente $ 0.44 por cada cuenta individual que administren.
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Las Administradoras de Fondos para el Retiro $ 38,172.62 cuota anual y adicionalmente $ 0.64 por cada cuenta individual que administren.
 
 Para efectos del pago del derecho a que se refiere esta fracción, la cuota anual deberá pagarse a más tardar el día 17 del mes de enero del ejercicio fiscal que transcurra. Asimismo, el derecho por cada cuenta individual se pagará en los meses de abril, julio y octubre del presente ejercicio fiscal y enero del siguiente.
 
 Para determinar el monto de cada pago trimestral, se deberá tomar el número de cuentas abiertas que tenga cada Administradora de Fondos para el Retiro el último día hábil del mes inmediato anterior al mes en que deba efectuarse el pago de este derecho.
 
-II.- Las Empresas Operadoras de la Base de Datos Nacional SAR............. $ 24,000,000.00.
+(ACTUALIZADA EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Las Empresas Operadoras de la Base de Datos Nacional SAR $ 39,699,528.00
 
 Este pago podrá enterarse en dos parcialidades conforme a lo siguiente:
 
@@ -1821,11 +3353,11 @@ Una segunda parcialidad equivalente al monto que resulte de aplicar al saldo ins
 
 #### SECCION TERCERA.. Servicios Aduaneros
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 38.
 
-Por el tránsito internacional de mercancías de procedencia extranjera que lleguen de territorio nacional con destino al extranjero, se pagará la cuota de $ 65.00 por cada mil kilogramos o fracción de pesos de dichas mercancías, así como por el tráfico fluvial de trozas en que se pagará la cuota mencionada por cada una.
+Por el tránsito internacional de mercancías de procedencia extranjera que lleguen de territorio nacional con destino al extranjero, se pagará la cuota de $ 8.40 por cada mil kilogramos o fracción de pesos de dichas mercancías, así como por el tráfico fluvial de trozas en que se pagará la cuota mencionada por cada una.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -1835,11 +3367,11 @@ No se pagará este derecho por el tránsito aéreo de mercancías.
 
 El pago de los derechos a que se refiere el artículo anterior se hará en la aduana ante la que solicite el régimen de tránsito, previamente a la autorización del envío de las mercancías.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 40.
 
-Por la concesión a particulares para el manejo, almacenaje y custodia de las mercancías sujetas a trámite aduanero, se pagará el derecho de custodia de mercancías conforme a la cuota anual de............. $ 14,997.00
+Por la concesión a particulares para el manejo, almacenaje y custodia de las mercancías sujetas a trámite aduanero, se pagará el derecho de custodia de mercancías conforme a la cuota anual de $ 17,126.25
 
 ###### ARTICULO 41.
 
@@ -1875,17 +3407,25 @@ I.- Por cada quinientos kilogramos o fracción y durante:
 
 diarios
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Los primeros quince días naturales $ 1,200.00
+a).- Los primeros quince días
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+naturales $ 5.47 5.00
 
-b).- Los siguientes treinta días naturales 2,300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c) El tiempo que transcurra después de vencido el plazo
+b).- Los siguientes treinta días
 
-señalado en el inciso anterior 45.00
+naturales $ 10.61 11.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c) El tiempo que transcurra después
+
+de vencido el plazo señalado en el
+
+inciso anterior $ 17.15 17.00
 
 II.- Se pagará por cada día de almacenaje el doble de las cuotas establecidas en la fracción anterior, cuando se trate de las siguientes mercancías:
 
@@ -1903,9 +3443,9 @@ d) Las que por su naturaleza deban conservarse en refrigeración, en cuartos est
 
 e) Los animales vivos.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Los equipajes o efectos personales de pasajeros, por cada cien kilogramos o fracción, diariamente.......... $ 35.00
+III.- Los equipajes o efectos personales de pasajeros, por cada cien kilogramos o fracción, diariamente $ 8.83 9.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -1991,47 +3531,77 @@ II.- Del 1.76 al millar sobre el valor que tengan los bienes, tratándose de la 
 
 Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento o pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías en cualquiera de los dos supuestos anteriores.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación, así como en los retornos respectivos $ 89.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+III.- Tratándose de importaciones temporales de bienes distintos de los señalados en la fracción anterior siempre que sea para elaboración, transformación o reparación en programas de maquila o de exportación, así como en los retornos respectivos $ 140.14 140.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Cuando la importación de las mercancías a que se refiere el primer párrafo de esta fracción se efectúe mediante pedimento o pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente y no se pagará el retorno de dichas mercancías en cualquiera de los dos supuestos anteriores.
 
-a).- Tratándose de la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos $ 89.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+a).- Tratándose de la introducción al territorio nacional de bienes distintos a los señalados en la fracción II de este artículo, bajo el régimen de elaboración, transformación o reparación en recintos fiscalizados, así como en los retornos respectivos $ 140.14 140.00
 
-IV.- En el caso de las señaladas en los artículos 46 y 75 de la Ley Aduanera........ $ 36,000.00.
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- En el caso de las operaciones señaladas en los artículos 61, 97, 103, 106 y 116 de la Ley Aduanera, así como en el de las operaciones aduaneras que amparen mercancías que de conformidad con las disposiciones aplicables no tengan valor en aduana, por cada operación. $ 140.14 140.00
+
+> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Cuando se trate de mercancías exentas conforme a las Leyes de los Impuestos Generales de Importación y Exportación y a los Tratados Internacionales, se aplicará la tasa que establece la fracción I de este artículo.
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- En las operaciones de exportación............. $ 30,000.00
+V.- En las operaciones de exportación $ 140.52 141.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Cuando la exportación de mercancías se efectúe mediante pedimento consolidado a que se refiere el artículo 37 de la Ley Aduanera, el derecho de trámite aduanero se pagará por cada operación al presentarse el pedimento respectivo, debiendo considerarse a cada vehículo de transporte como una operación distinta ante la aduana correspondiente.
 
-> <small>(REFORMADA, D.O.F. 26 DE JULIO DE 1993)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- Tratándose de las efectuadas por los Estados extranjeros………… N$ 42.00
+VI.- Tratándose de las efectuadas
+
+por los Estados extranjeros $ 137.43 137.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VII.- Por aquellas operaciones en que se rectifique un pedimento y no se esté en los supuestos de las fracciones anteriores, así como cuando se utilice algunos de los siguientes pedimentos:
 
-a).- De tránsito interno............. $ 104.81
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De extracción del régimen de depósito fiscal para retorno............. $ 104.81
+a).- De tránsito interno $ 140.14 140.00
 
-c).- La parte II de los pedimentos de importación; exportación o tránsito............. $ 104.81
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+b).- De extracción del régimen de
 
-VIII.- Del 8 al millar, sobre el valor que tenga el oro para los efectos del impuesto general de importación, sin exceder de la cuota de.................. N$ 500.00
+depósito fiscal para retorno $ 140.14 140.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- La parte II de los pedimentos
+
+de importación; exportación o
+
+tránsito $ 140.14 140.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Del 8 al millar, sobre el valor
+
+que tenga el oro para los efectos
+
+del impuesto general de importación,
+
+sin exceder de la cuota de $ 1,484.67 1,485.00
 
 > <small>(ADICIONADO, D.O.F. 26 DE JULIO DE 1993)</small>
 
@@ -2093,25 +3663,57 @@ Por la expedición de la autorización para establecer depósitos fiscales para 
 
 Por los servicios que a continuación se señalan que se presten a los aspirantes para obtener patente de agente aduanal, autorización de apoderado aduanal o de dictaminador aduanero y a los agentes aduanales, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el examen para aspirante a agente aduanal, apoderado aduanal o dictaminador aduanero.............. $ 2,773.00
+2000 2000
 
-II.- Por la expedición de la patente de agente aduanal.......... $ 34,000.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por la autorización de apoderado aduanal o dictaminador aduanero.............. $ 100.00
+I.- Por el examen para aspirante a
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+agente aduanal, apoderado aduanal
 
-IV.- Por el estudio y aprobación de las escrituras constitutivas de las sociedades o asociaciones que exploten la patente de agente aduanal.............. $ 4,403.00
+o dictaminador aduanero $ 4,367.84 4,368.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la patente de
+
+agente aduanal $ 8,734.34 8,734.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización de apoderado
+
+aduanal o dictaminador
+
+aduanero $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el estudio y aprobación de las
+
+escrituras constitutivas de las sociedades
+
+o asociaciones que exploten la patente
+
+de agente aduanal $ 6,935.34 6,935.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 52.
 
-Por los servicios de análisis de laboratorio se pagarán por cada muestra analizada, la cuota de $5,000.00
+Por los servicios de análisis de laboratorio se pagarán por cada muestra analizada, la cuota de
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+$ 1,926.54 1,927.00
 
 #### SECCION CUARTA. Registro Federal de Vehículos
 
@@ -2141,11 +3743,27 @@ Por los servicios de análisis de laboratorio se pagarán por cada muestra anali
 
 Las máquinas registradoras de comprobación fiscal a que se refiere el artículo 29 del Código Fiscal de la Federación que proporcione la Secretaría de Hacienda y Crédito Público, darán lugar al pago de derechos, conforme a las siguientes cuotas:
 
-I.- Por la asignación............ $ 3'000,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por uso en el año en que se asigne............ $ 200,000.00
+2000 2000
 
-III.- Por uso en los cuatro años subsecuentes, por año............. $ 450,000.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la asignación $ 11,747.57 11,748.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por uso en el año en que se
+
+asigne $ 782.97 783.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por uso en los cuatro años
+
+subsecuentes, por año $ 1,761.99 1,762.00
 
 El mantenimiento de las máquinas registradoras de comprobación fiscal estará a cargo de los contribuyentes a quienes se les asignen dichas máquinas.
 
@@ -2165,21 +3783,97 @@ Los ingresos que se obtengan por los derechos a que se refiere este artículo, s
 
 Por el estudio y trámite de la solicitud de inscripción en el registro de bancos, entidades de financiamiento, fondos de pensiones y jubilaciones y fondos de inversión del extranjero, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Bancos extranjeros, por cada uno.............. $ 200.00
+1er. Trimestre 1er. trimestre
 
-II.- Entidades de financiamiento pertenecientes a estados extranjeros, por cada una...... $ 200.00
+2000 2000
 
-III.- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista, por cada una.............. $ 300.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización, por cada una.............. $ 250.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Entidades de financiamiento residentes en el extranjero dedicadas a promover la exportación mediante el otorgamiento de préstamos o garantías en condiciones preferenciales, por cada una.............. $ 200.00
+I.- Bancos extranjeros, por cada
 
-VI.- Fondos de pensiones y jubilaciones del extranjero, por cada uno.............. $ 250.00
+Uno $ 314.98 315.00
 
-VII.- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero, por cada uno.............. $ 350.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero, por cada una.............. $ 400.00
+II.- Entidades de financiamiento
+
+pertenecientes a estados extranjeros,
+
+por cada una $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Entidades que coloquen o
+
+inviertan en el país capital que
+
+provenga de títulos de crédito que
+
+emitan y que sean colocados en el
+
+extranjero entre el gran público
+
+inversionista, por cada una $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Entidades que otorguen créditos
+
+para financiar la adquisición de
+
+maquinaria y equipo y en general
+
+para la habilitación y avío o
+
+comercialización, por cada una $ 393.75 394.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Entidades de financiamiento
+
+residentes en el extranjero dedicadas
+
+a promover la exportación mediante
+
+el otorgamiento de préstamos o
+
+garantías en condiciones preferenciales,
+
+por cada una $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Fondos de pensiones y
+
+jubilaciones del extranjero, por
+
+cada uno $ 393.75 394.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Fondos de inversión en los que
+
+participan fondos de pensiones y
+
+jubilaciones del extranjero, por
+
+cada uno $ 551.23 551.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Personas morales del extranjero
+
+en las que participan fondos de
+
+pensiones y jubilaciones del extranjero,
+
+por cada una $ 630.02 630.00
+
+(ACTUALIZADA EN SU MONTO[N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- 613.00 613.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2187,23 +3881,81 @@ VIII.- Personas morales del extranjero en las que participan fondos de pensiones
 
 Por la renovación de la inscripción en el registro de bancos, entidades de financiamiento, fondos de pensiones y jubilaciones y fondos de inversión del extranjero, se pagarán derechos, por cada una, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- Anual:
 
-a).- Bancos extranjeros.............. $ 200.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Entidades de financiamiento pertenecientes a estados extranjeros.............. $ 200.00
+a).- Bancos extranjeros $ 314.98 315.00
 
-c).- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista.............. $ 300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización.............. $ 250.00
+b).- Entidades de financiamiento
 
-e).- Fondos de pensiones y jubilaciones del extranjero.............. $ 100.00
+pertenecientes a estados
+
+extranjeros $ 314.98 315.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Entidades que coloquen o
+
+inviertan en el país capital que
+
+provenga de títulos de crédito que
+
+emitan y que sean colocados en
+
+el extranjero entre el gran público
+
+inversionista $ 472.51 473.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Entidades que otorguen créditos
+
+para financiar la adquisición de
+
+maquinaria y equipo y en
+
+general para la habilitación y
+
+avío o comercialización $ 393.75 394.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Fondos de pensiones y jubilaciones
+
+del extranjero $ 157.48 157.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f) 220.00 220.00 (sic)
 
 II.- Semestral:
 
-a).- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero.............. $ 100.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero.............. $ 150.00
+a).- Fondos de inversión en los
+
+que participan fondos de pensiones
+
+y jubilaciones del extranjero. $ 157.48 157.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Personas morales del extranjero
+
+en las que participan fondos de
+
+pensiones y jubilaciones del
+
+extranjero $ 236.23 236.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2211,37 +3963,113 @@ b).- Personas morales del extranjero en las que participan fondos de pensiones y
 
 Por cada modificación de la denominación o razón social, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Bancos extranjeros.............. $ 100.00
+1er. Trimestre 1er. trimestre
 
-II.- Entidades de financiamiento pertenecientes a estados extranjeros.............. $ 100.00
+2000 2000
 
-III.- Entidades que coloquen o inviertan en el país capital que provenga de títulos de crédito que emitan y que sean colocados en el extranjero entre el gran público inversionista.............. $ 150.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Entidades que otorguen créditos para financiar la adquisición de maquinaria y equipo y en general para la habilitación y avío o comercialización.............. $ 100.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Entidades de financiamiento residentes en el extranjero dedicadas a promover la exportación mediante el otorgamiento de préstamos o garantías en condiciones preferenciales...... $ 100.00
+I.- Bancos extranjeros $ 157.48 157.00
 
-VI.- Fondos de pensiones y jubilaciones del extranjero.............. $ 150.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Fondos de inversión en los que participan fondos de pensiones y jubilaciones del extranjero.............. $ 175.00
+II.- Entidades de financiamiento
 
-VIII.- Personas morales del extranjero en las que participan fondos de pensiones y jubilaciones del extranjero.............. $ 175.00
+pertenecientes a estados
+
+extranjeros $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Entidades que coloquen o inviertan
+
+en el país capital que provenga de títulos
+
+de crédito que emitan y que sean
+
+colocados en el extranjero entre el
+
+gran público inversionista $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Entidades que otorguen créditos para
+
+financiar la adquisición de maquinaria y
+
+equipo y en general para la habilitación
+
+y avío o comercialización $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Entidades de financiamiento residentes
+
+en el extranjero dedicadas a promover la
+
+exportación mediante el otorgamiento de
+
+préstamos o garantías en condiciones
+
+preferenciales $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Fondos de pensiones y jubilaciones
+
+del extranjero $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Fondos de inversión en los que participan
+
+fondos de pensiones y jubilaciones del
+
+extranjero $ 275.60 276.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Personas morales del extranjero en
+
+las que participan fondos de pensiones
+
+y jubilaciones del extranjero $ 275.60 276.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- 257.00 257.00 (sic)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 #### SECCION OCTAVA. Resoluciones Relativas a Precios o Montos de Contraprestaciones entre Partes Relacionadas
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 53-G.
 
-Por el estudio y trámite de cada solicitud de resolución relativa a los precios o montos de contraprestaciones entre partes relacionadas, se pagarán derechos conforme a la cuota de $ 4,000.00.
+Por el estudio y trámite de cada solicitud de resolución relativa a los precios o montos de contraprestaciones entre partes relacionadas, se pagarán derechos conforme a la cuota de $ 6,300.57
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 53-H.
 
-Por cada revisión del informe anual sobre la aplicación de las resoluciones a que se refiere el artículo anterior, se pagarán derechos conforme a la cuota de $ 800.00.
+Por cada revisión
+
+del informe anual sobre la aplicación
+
+de las resoluciones a que se refiere
+
+el artículo anterior, se pagarán
+
+derechos conforme a la cuota de $ 1,260.09 1,260.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2259,17 +4087,17 @@ Por los servicios de estudio y trámite de solicitudes de personas físicas y mo
 
 Los ingresos que se obtengan por los derechos a que se refiere el artículo anterior, se destinarán a la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 53-K.
 
-Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $ 0.1233 por cada uno.
+Por la obtención de marbetes que se adhieran a los envases que contengan bebidas alcohólicas a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de marbetes conforme a la cuota de $ 0.1937 por cada uno.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 53-L.
 
-Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $ 0.50 por cada uno.
+Por la obtención de precintos que se adhieran a los envases que contengan bebidas alcohólicas a granel a que se refiere la Ley del Impuesto Especial sobre Producción y Servicios, se pagará el derecho de precintos conforme a la cuota de $ 0.74 por cada uno.
 
 ### CAPITULO IV. De la Secretaría de Programación y Presupuesto
 
@@ -2299,9 +4127,37 @@ Por la obtención de precintos que se adhieran a los envases que contengan bebid
 
 Se pagará el derecho de permiso de energía eléctrica, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso para la generación de energía eléctrica, conforme a las siguientes cuotas:
 
-I.- Tratándose de las modalidades de autoabastecimiento, cogeneración, pequeña producción, exportación e importación de energía eléctrica............. $ 50,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Tratándose de la modalidad de producción independiente de energía eléctrica............. $ 100,000.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Tratándose de las modalidades
+
+de autoabastecimiento, cogeneración,
+
+pequeña producción, exportación e
+
+importación de energía eléctrica $ 57,098.99 57,099.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Tratándose de la modalidad de
+
+producción independiente de energía
+
+eléctrica $ 114,198.01 114,198.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- 16,500.00 16,500.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- 33,000.00 33,000.00 (sic)
 
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2309,13 +4165,61 @@ II.- Tratándose de la modalidad de producción independiente de energía eléct
 
 Se pagará el derecho de permiso de gas natural, por el análisis, evaluación de la solicitud y, en su caso, la expedición del título de permiso relacionados con la distribución, transporte de gas natural y transporte de gas natural para usos propios, conforme a las siguientes cuotas:
 
-I.- Tratándose de permisos de distribución de gas natural otorgados sin licitación............. $ 100,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Tratándose de permisos de distribución de gas natural mediante licitación internacional............. $ 50,000.00
+2000 2000
 
-III.- Tratándose de permisos de transporte de gas natural............. $ 100,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Tratándose de permisos de transporte de gas natural para usos propios............. $ 50,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Tratándose de permisos de
+
+distribución de gas natural
+
+otorgados sin licitación $ 114,198.01 114,198.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Tratándose de permisos de
+
+distribución de gas natural mediante
+
+licitación internacional $ 57,098.99 57,099.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Tratándose de permisos de
+
+transporte de gas natural $ 114,198.01 114,198.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Tratándose de permisos de
+
+transporte de gas natural para
+
+usos propios $ 57,098.99 57,099.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- 100,000.00 100,000.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- 25,000.00 25,000.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- 25,000.00 25,000.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- 25,000.00 25,000.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- 25,000.00 25,000.00 (sic)
 
 #### SECCION PRIMERA. Minería
 
@@ -2349,29 +4253,49 @@ IV.- Tratándose de permisos de transporte de gas natural para usos propios.....
 
 Por los servicios relacionados con la presentación de exámenes de aspirante y definitivos, servicios de expedición y registro de habilitaciones, de garantías, de sellos, de firmas y por la autorización de libros de registro de corredores públicos, y expedición de credencial, se pagará el derecho de registro mercantil y de correduría, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Examen de aspirante de corredor público.............. $ 250.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Examen definitivo de corredor público.............. $ 500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+I.- Examen de aspirante de corredor
 
-III.- Expedición y registro de títulos de habilitación.............. $ 1,000.00
+Público $ 393.75 394.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Registro de garantías, sellos y firmas de corredores, por cada garantía, sello o firma.............. $ 150.00
+II.- Examen definitivo de corredor
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Público $ 787.55 788.00
 
-V.- Autorización de libros de registro de corredores, por cada libro.............. $ 150.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+III.- Expedición y registro de títulos
 
-VI.- Por la expedición de la credencial de corredor público............. $ 64.00
+de habilitación $ 1,575.11 1,575.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Registro de garantías, sellos y
+
+firmas de corredores, por cada
+
+garantía, sello o firma $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Autorización de libros de registro de
+
+corredores, por cada libro $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la expedición de la credencial
+
+de corredor público $ 73.06 73.00
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2379,39 +4303,37 @@ VI.- Por la expedición de la credencial de corredor público............. $ 64.
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-ARTCULO 63.- Por el estudio, trámite y resolución de solicitudes de concesión o asignación de exploración, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
+###### ARTICULO 63.
 
-Rango de Superficie
+Por el estudio, trámite y resolución de solicitudes de concesión o asignación de exploración, se pagarán los derechos que resulten de aplicar la siguiente tabla al número de hectáreas que pretende amparar la solicitud:
 
-(Hectáreas)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Límites
+Rango de Superficie (Hectáreas) Límites
 
-Inferior Superior Cuota Fija Cuota Adicional por
+Inferior Superior Cuota Cuota Adicional
 
-Hectárea Excedente del
+Fija por Hectárea
+
+Excedente del
 
 Límite Inferior
 
-1 30 $ 177.00 $ 2.93
+1 30 278.75 4.57
 
-31 100 268.00 5.42
+31 100 422.09 8.48
 
-101 500 657.00 13.05
+101 500 1,034.83 20.52
 
-501 1,000 6,134.00 17.01
+501 1000 9,661.92 26.75
 
-1,001 5,000 17,086.00 1.0289
+1,000 5,000 26,912.96 1.6203
 
-5,001 50,000 21,687.00 0.7348
+5,001 50,000 34,160.24 1.1569
 
-50,001 en adelante 54,983.00 0.6786
+50,001 en adelante 86,606.43 1.0683
 
 Por el estudio, trámite y resolución de solicitudes de concesión de explotación o para prorrogar la vigencia de éstas, se pagará por concepto de derechos el 50% de la cantidad que resulte de aplicar la tabla anterior.
-
-###### ARTICULO 63.
-
-(DEROGADO POR ARTICULO SEPTIMO TRANSITORIO DE LA LEY DE FOMENTO Y PROTECCION DE LA PROPIEDAD INDUSTRIAL, D.O.F. 2 DE AGOSTO DE 1994)
 
 ###### ARTICULO 63-A.
 
@@ -2423,15 +4345,45 @@ Por el estudio, trámite y resolución de solicitudes de concesión de explotaci
 
 Por el estudio y trámite de las solicitudes relativas al ejercicio de los derechos que prevé la Ley Minera, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Inscripción en el registro de apoderados............... $ 164.00
+1er. Trimestre 1er. trimestre
 
-II.- Reducción, división, identificación o unificación de superficie.............. $ 767.00
+2000 2000
 
-III.- Agrupamiento de concesiones mineras, la incorporación o separación de éstas a uno o más de ellos.............. $ 109.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Expedición de duplicado del título de concesión o asignación minera.............. $ 131.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Inscripción en el registro de peritos mineros.............. $ 164.00
+I.- Inscripción en el registro de
+
+apoderados $ 258.28 258.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Reducción, división, identificación
+
+o unificación de superficie $ 1,208.10 1,208.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Agrupamiento de concesiones mineras,
+
+la incorporación o separación de éstas
+
+a uno o más de ellos $ 171.65 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Expedición de duplicado del
+
+título de concesión o asignación
+
+minera $ 206.28 206.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Inscripción en el registro de
+
+peritos mineros $ 258.28 258.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2439,21 +4391,91 @@ V.- Inscripción en el registro de peritos mineros.............. $ 164.00
 
 Por el estudio y trámite de actos, contratos o convenios sujetos a inscripción en el Registro Público de Minería, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Inscripción de actos, contratos o convenios relativos a la transmisión de la titularidad de concesiones mineras o de los derechos que de ellas deriven.............. $ 438.00
+1er. Trimestre 1er. trimestre
 
-II.- Cancelación de las inscripciones relativas a los actos, contratos o convenios a que alude la fracción interior.............. $ 109.00
+2000 2000
 
-III.- Inscripción de sociedades mineras.............. $ 657.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Inscripción de las modificaciones estatutarias de dichas sociedades.............. $ 219.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Inscripción de la suscripción o adquisición de acciones o partes sociales por parte de instituciones de crédito, en su carácter de fiduciarias.............. $ 548.00
+I.- Inscripción de actos, contratos o
 
-VI.- Avisos notariales preventivos.............. $ 109.00
+convenios relativos a la transmisión
 
-VII.- Anotaciones preventivas para interrumpir la cancelación de las inscripciones de contratos o convenios sujetos a temporalidad.............. $ 109.00
+de la titularidad de concesiones
 
-VIII.- Revisión de la documentación que consigne las correcciones o aclaraciones requeridas para la inscripción o cancelación de los actos, contratos o convenios mencionados en las fracciones anteriores $ 96.00
+mineras o de los derechos que de
+
+ellas deriven $ 689.86 690.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Cancelación de las inscripciones
+
+relativas a los actos, contratos o
+
+convenios a que alude la fracción
+
+interior $ 171.65 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Inscripción de sociedades
+
+Mineras $ 1,034.83 1,035.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Inscripción de las modificaciones
+
+estatutarias de dichas
+
+sociedades $ 344.90 345.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Inscripción de la suscripción o
+
+adquisición de acciones o partes
+
+sociales por parte de instituciones
+
+de crédito, en su carácter de
+
+fiduciarias $ 863.14 863.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Avisos notariales
+
+preventivos $ 171.65 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Anotaciones preventivas para
+
+interrumpir la cancelación de las
+
+inscripciones de contratos o
+
+convenios sujetos a
+
+temporalidad $ 171.65 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Revisión de la documentación que
+
+consigne las correcciones o aclaraciones
+
+requeridas para la inscripción o cancelación
+
+de los actos, contratos o convenios
+
+mencionados en las fracciones
+
+anteriores $ 151.16 151.00
 
 ###### ARTICULO 65-A.
 
@@ -2469,11 +4491,37 @@ VIII.- Revisión de la documentación que consigne las correcciones o aclaracion
 
 Por la expedición de planos de la cartografía minera, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por cada plano a escala 1:50,000 que corresponda a las hojas topográficas del Instituto Nacional de Estadística, Geografía e Informática............... $ 1,095.00
+1er. Trimestre 1er. trimestre
 
-II.- Por cada porción de las hojas anteriores de 5 minutos de latitud y de longitud............ $ 109.00
+2000 2000
 
-III.- Por cada porción a que se refiere la fracción anterior a escala 1:25,000.............. $ 438.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por cada plano a escala 1:50,000 que
+
+corresponda a las hojas topográficas
+
+del Instituto Nacional de Estadística,
+
+Geografía e Informática $ 1,724.74 1,725.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada porción de las hojas
+
+anteriores de 5 minutos de latitud y
+
+de longitud $ 171.65 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por cada porción a que se refiere
+
+la fracción anterior a escala
+
+1:25,000 $ 689.86 690.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -2519,9 +4567,21 @@ Por la prestación de servicios relativos a las visitas para dictaminar sobre la
 
 Por los servicios que se presten a través del Registro Nacional de Inversiones Extranjeras, se pagará el derecho de inversiones extranjeras, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por recepción y resolución de cada solicitud individual de inscripción y, en su caso, de documentos anexos……….. N$ 384.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por recepción y resolución de
+
+cada solicitud individual de inscripción
+
+y, en su caso, de documentos
+
+anexos $ 1,218.01 1,218.00
 
 II.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
@@ -2531,19 +4591,25 @@ IV.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
 V.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- Por recepción, estudio y resolución de consultas que se presenten en materia registral............... $ 78,000.00
+VI.- Por recepción, estudio y resolución
+
+de consultas que se presenten en
+
+materia registral $ 305.21 305.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas a plazos establecidos, en materia registral, en la Ley de Inversión Extranjera, requerimientos o en cualquier otra disposición en materia de inversión extranjera:
 
-a).- Por la primera prórroga............... $ 78,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+a).- Por la primera prórroga $ 305.21 305.00
 
-b).- Por las ulteriores prórrogas.............. N$ 177.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por las ulteriores prórrogas $ 610.58 611.00
 
 VIII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
@@ -2555,45 +4621,113 @@ IX.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
 
 Por recepción y estudio de solicitudes y expedición de resoluciones específicas de la Comisión Nacional de Inversiones Extranjeras y de autorizaciones que emita la Secretaría de Comercio y Fomento Industrial, se pagará el derecho de inversiones extranjeras, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Suscripción o adquisición de acciones o partes sociales de sociedades por constituir o ya constituidas y establecimiento de sucursales para realizar actividades o adquisiciones con regulación específica y en las que la inversión extranjera participe en más del 49%... N$ 1,068.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Constitución de fideicomisos de acciones o partes sociales, por virtud de los cuales se deriven derechos en favor de la inversión extranjera.................. N$ 1,068.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I.- Suscripción o adquisición de acciones
 
-III.- Por afectación de acciones para que instituciones fiduciarias emitan instrumentos de inversión neutra, o la emisión de series especiales de acciones neutras por parte de sociedades mexicanas.................. N$ 1,036.00
+o partes sociales de sociedades por
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+constituir o ya constituidas y
 
-IV.- Entrada a nuevos campos de actividad económica, en donde se requiera resolución favorable de la Comisión Nacional de Inversiones Extranjeras.................. N$ 205.00
+establecimiento de sucursales para
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+realizar actividades o adquisiciones
 
-V.- Autorización para la inscripción de personas morales en el Registro Público de la Propiedad y el Comercio.................. N$ 300.00
+con regulación específica y en las que
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+la inversión extranjera participe en más
 
-VI.- Replanteamiento a resoluciones específicas o autorizaciones y exención de cumplimiento de programas y compromisos............. N$ 1,026.00
+del 49% $ 3,171.34 3,171.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Reconsideraciones o revisiones de resoluciones específicas.................. N$ 123.00
+II.- Constitución de fideicomisos de
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+acciones o partes sociales, por virtud
 
-VIII.- Por recepción, estudio o resolución de consultas o confirmaciones de criterio que se presenten sobre la legislación aplicable en materia de inversión extranjera.................. N$ 103.00
+de los cuales se deriven derechos en
+
+favor de la inversión extranjera $ 3,171.34 3,171.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por afectación de acciones para
+
+que instituciones fiduciarias emitan
+
+instrumentos de inversión neutra, o
+
+la emisión de series especiales de
+
+acciones neutras por parte de
+
+sociedades mexicanas $ 3,076.33 3,076.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Entrada a nuevos campos de
+
+actividad económica, en donde se
+
+requiera resolución favorable de la
+
+Comisión Nacional de Inversiones
+
+Extranjeras $ 608.67 609.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Autorización para la inscripción de
+
+personas morales en el Registro Público
+
+de la Propiedad y el Comercio $ 890.77 891.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Replanteamiento a resoluciones específicas
+
+o autorizaciones y exención de cumplimiento
+
+de programas y compromisos $ 3,046.63 3,047.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Reconsideraciones o revisiones de
+
+resoluciones específicas $ 365.17 365.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Por recepción, estudio o resolución
+
+de consultas o confirmaciones de criterio
+
+que se presenten sobre la legislación
+
+aplicable en materia de inversión
+
+extranjera $ 305.78 306.00
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
 IX.- Por recepción y estudio de solicitudes para el otorgamiento de prórrogas:
 
-a).- Por la primera prórroga.................. N$ 103.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la segunda y ulteriores prórrogas.................. N$ 206.00
+a).- Por la primera prórroga $ 305.78 306.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la segunda y ulteriores
+
+prórrogas $ 611.65 612.00
 
 X.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -2621,6 +4755,12 @@ XIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 Por los servicios relativos a la certificación oficial del cumplimiento con las Normas Oficiales Mexicanas de productos, procesos, métodos, instalaciones, servicios o actividades para fines oficiales, o a petición de parte interesada, o de exportación e importación, siempre y cuando en este último caso los productos y servicios a importar deban cumplir con las Normas Oficiales Mexicanas, así como por los servicios relativos a la certificación sobre la elaboración de productos, se pagará el derecho de normas, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
@@ -2629,17 +4769,25 @@ III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 IV.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el registro y autorización, para el uso de las marcas y contraseñas oficiales..... N$ 100.00
+V.- Por el registro y autorización,
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+para el uso de las marcas y
 
-VI.- Expedición de copias certificadas del certificado de cumplimiento con Norma Oficial Mexicana, mediante la colocación del olograma (sic) de seguridad, por cada hoja tamaño carta u oficio............... $ 15.00
+contraseñas oficiales $ 296.86 297.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por la expedición y reposición de tarjetas de certificación electrónica............... $ 275.00
+VI.- Expedición de copias certificadas del certificado de cumplimiento con Norma Oficial Mexicana, mediante la colocación del olograma (sic) de seguridad, por cada hoja tamaño carta u oficio $ 34.19 34.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por la expedición y reposición
+
+de tarjetas de certificación
+
+electrónica $ 628.28 628.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2661,19 +4809,79 @@ Cuando para la prestación de los servicios a que se refiere esta Sección, se r
 
 Por el registro y autorización de técnico responsable para la proyección y construcción de instalaciones que utilicen y aprovechen energía eléctrica, se pagarán las siguientes cuotas:
 
-I.- Ingeniero titulado con estudios de subestaciones, líneas de transmisión y distribución de instalaciones en fuerza y alumbrado.................. N$ 308.00
+1er. Trimestre 1er. trimestre
 
-II.- Pasante de ingeniería o técnico a nivel vocacional con estudios de subestaciones, líneas de transmisión y distribución e instalaciones en fuerza y alumbrado.................. N$ 246.00
+2000 2000
 
-III.- Técnico a nivel secundaria con estudios de instalaciones en fuerza y alumbrado..... N$ 154.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Ingeniero titulado con estudios
+
+de subestaciones, líneas de
+
+transmisión y distribución de
+
+instalaciones en fuerza y
+
+alumbrado $ 914.54 915.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Pasante de ingeniería o técnico
+
+a nivel vocacional con estudios de
+
+subestaciones, líneas de transmisión
+
+y distribución e instalaciones en fuerza
+
+y alumbrado $ 730.42 730.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Técnico a nivel secundaria con
+
+estudios de instalaciones en fuerza
+
+y alumbrado $ 457.22 457.00
 
 Por el refrendo del registro a que se refiere este artículo se pagará el 50% de la cuota del derecho que corresponda.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 73-F.
 
-Por la autorización para el uso de hologramas con que marcarán las obras o instalaciones que dictaminen las unidades de verificación acreditadas en materia de gas durante el desarrollo de sus actividades de verificación, se pagará el derecho de normas conforme a la cuota de N$ 100.00.
+Por la
+
+Autorización para el uso de
+
+hologramas con que marcarán
+
+las obras o instalaciones que
+
+dictaminen las unidades de
+
+verificación acreditadas en
+
+materia de gas durante el
+
+desarrollo de sus actividades
+
+de verificación, se pagará
+
+el derecho de normas
+
+conforme a la
+
+cuota de $ 296.86 297.00
 
 (REUBICADA CON LOS ARTICULOS QUE LA INTEGRAN [N. DE E. ANTES SECCION CUARTA DEL CAPITULO VI], D.O.F. 30 DE DICIEMBRE DE 1983)
 
@@ -2685,17 +4893,41 @@ Por la autorización para el uso de hologramas con que marcarán las obras o ins
 
 Por los servicios prestados con motivo de las solicitudes y permisos de importación, se pagará el derecho de permiso de importación, conforme a las siguientes cuotas:
 
-I.- Trámite de solicitudes de permisos de importación, cualquiera que sea su resolución, por cada una........ $ 500.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+2000 2000
 
-II.- Por la expedición de cada permiso de importación………… N$ 250.00
+cuota sin ajuste cuota con ajuste
 
-III.- Trámite de solicitudes de prórroga o de modificación de permisos de importación ya expedidos y no vencidos, por cada una....... 500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+I.- Trámite de solicitudes de permisos
 
-IV.- Por modificación del permiso de importación………… N$ 250.00
+de importación, cualquiera que sea su
+
+resolución, por cada una $ 166.20 166.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de cada permiso
+
+de importación $ 792.97 793.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Trámite de solicitudes de prórroga
+
+o de modificación de permisos de
+
+importación ya expedidos y no vencidos,
+
+por cada una $ 166.20 166.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por modificación del permiso
+
+de importación $ 792.97 793.00
 
 No se pagarán el derecho a que este artículo se refiere, cuando se trate de permisos de importación temporal de bienes que retornarán al extranjero incorporados en manufacturas nacionales o de permisos de importación de bienes donados del extranjero a organismos públicos del país para su empleo en actividades públicas, así como cuando exista convenio internacional del que México sea parte y en virtud del cual no deban cobrarse los derechos a que se refiere este artículo.
 
@@ -2709,9 +4941,23 @@ Asimismo no se pagará el derecho a que se refiere este artículo, cuando se tra
 
 Por la expedición de certificados de cupo de importación a solicitud del interesado, se pagará el derecho de certificados de cupo, conforme a las siguientes cuotas:
 
-I.- Expedición de certificado de cupo de importación......... $ 347.07
+1er. Trimestre 1er. trimestre
 
-II.- Modificación de certificado de cupo de importación...... $ 347.07
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Expedición de certificado de cupo
+
+de importación $ 792.97 793.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Modificación de certificado de
+
+cupo de importación $ 792.97 793.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -2719,17 +4965,51 @@ No se pagará el derecho a que se refiere este artículo, cuando se trate de cer
 
 Asimismo, no se pagará el derecho a que se refiere este artículo para los certificados de cupo de importación de bienes donados del extranjero a organismos públicos del país para su empleo en actividades públicas, así como cuando exista convenio internacional del que México sea parte y en virtud del cual no deban cobrarse los derechos a que se refiere este artículo.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 74-B.
 
-Por el estudio y trámite de cada solicitud para la autorización del Programa de Importación Temporal para Producir Artículos de Exportación............. $ 610.00
+Por el estudio
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+y trámite de cada solicitud para
+
+la autorización del Programa
+
+de Importación Temporal
+
+para Producir Artículos de
+
+Exportación $ 696.60 697.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 74-C.
 
-Por la expedición de cada tarjeta inteligente del Sistema Integral de Comercio Exterior adicional, que se derive de un Programa de Importación Temporal para Producir Artículos de Exportación autorizado............. $ 380.00
+Por la expedición
+
+De cada tarjeta inteligente del
+
+Sistema Integral de Comercio
+
+Exterior adicional, que se derive
+
+de un Programa de Importación
+
+Temporal para Producir Artículos
+
+de Exportación autorizado $ 433.93 434.00
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2747,11 +5027,33 @@ Los derechos señalados en los artículos 74, 74-A, 74-B y 74-C de la presente L
 
 #### SECCION SEXTA. Competencia Económica
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 77.
 
-Por la recepción, estudio y trámite de cada notificación de concentración a que se refiere la Ley Federal de Competencia Económica, cualquiera que sea la resolución que emita la Comisión Federal de Competencia, se pagarán derechos conforme a la cuota de $ 55,000.00.
+Por la recepción,
+
+estudio y trámite de cada
+
+notificación de concentración a
+
+que se refiere la Ley Federal de
+
+Competencia Económica,
+
+cualquiera que sea la resolución
+
+que emita la Comisión Federal
+
+de Competencia, se pagarán
+
+derechos conforme a la cuota de $ 86,633.21 86,633.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -2875,23 +5177,113 @@ IV.- Por el cumplimiento de disposiciones especiales, tendientes a proteger la s
 
 Por la expedición de certificados zoosanitarios y fitosanitarios, se pagará el derecho de certificación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-I.- Por cada certificado fitosanitario para la movilización nacional de productos y subproductos vegetales sujetos a regulación fitosanitaria. $ 30.00
+1er. Trimestre 1er. trimestre
 
-II.- Por cada certificado zoosanitario para la movilización nacional de animales vivos, productos y subproductos animales, sujetos a regulación zoosanitaria. $ 30.00
+2000 2000
 
-III.- Por cada certificado fitosanitario internacional para la exportación de vegetales, sus productos y subproductos. $ 150.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por cada certificado zoosanitario para la exportación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos. $ 150.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por cada certificado fitosanitario internacional para la importación de vegetales, sus productos y subproductos. $ 515.00
+I.- Por cada certificado fitosanitario
 
-VI.- Por cada certificado zoosanitario internacional para la importación de animales vivos, sus productos y subproductos, así como productos químicos, farmacéuticos, biológicos y alimenticios para uso en animales y consumo por éstos. $ 515.00
+para la movilización nacional de
 
-VII.- Por la certificación de la calidad zoosanitaria de cada establecimiento Tipo Inspección Federal, cuando sea realizada por la Comisión Nacional de Sanidad Agropecuaria. $ 6,000.00
+productos y subproductos vegetales
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+sujetos a regulación fitosanitaria $ 47.20 47.00
 
-VIII.- Por la certificación fitosanitaria de viveros, invernaderos, industrializadoras y empacadoras de productos regulados, despepitadoras de algodón, beneficiadoras de café, unidades de tratamiento hidrotérmico, empresas de tratamiento cuarentenario, centros de acopio de granos y semillas regulados.$ 400.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada certificado zoosanitario para
+
+la movilización nacional de animales
+
+vivos, productos y subproductos
+
+animales, sujetos a regulación
+
+zoosanitaria $ 47.20 47.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por cada certificado fitosanitario
+
+internacional para la exportación
+
+de vegetales, sus productos y
+
+subproductos $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por cada certificado zoosanitario
+
+para la exportación de animales vivos,
+
+sus productos y subproductos, así
+
+como productos químicos, farmacéuticos,
+
+biológicos y alimenticios para uso en
+
+animales y consumo por éstos $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por cada certificado fitosanitario
+
+internacional para la importación de
+
+vegetales, sus productos y
+
+subproductos $ 811.16 811.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por cada certificado zoosanitario
+
+internacional para la importación de
+
+animales vivos, sus productos y
+
+subproductos, así como productos
+
+químicos, farmacéuticos, biológicos
+
+y alimenticios para uso en animales
+
+y consumo por éstos $ 811.16 811.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por la certificación de la calidad
+
+zoosanitaria de cada establecimiento
+
+Tipo Inspección Federal, cuando sea
+
+realizada por la Comisión Nacional de
+
+Sanidad Agropecuaria $ 9,450.85 9,451.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Por la certificación fitosanitaria de
+
+viveros, invernaderos, industrializadoras
+
+y empacadoras de productos regulados,
+
+despepitadoras de algodón,
+
+beneficiadoras de café, unidades de
+
+tratamiento hidrotérmico, empresas de
+
+tratamiento cuarentenario, centros de
+
+acopio de granos y semillas regulados $ 456.78 457.00
 
 Por duplicado o renovación de los certificados a que se refiere este artículo, así como por la renovación de la certificación a que se refieren las fracciones VII y VIII, se pagará el 50% de la cuota correspondiente.
 
@@ -2903,9 +5295,39 @@ No se pagará el derecho a que se refiere este artículo por los animales y vege
 
 Por la certificación de empresas o establecimientos que realicen actividades en materia de plaguicidas agrícolas, se pagará por cada empresa y, en su caso, establecimiento, el derecho de certificación fitosanitaria en materia de plaguicidas, conforme a las siguientes cuotas:
 
-I.- Por la certificación fitosanitaria de empresas o establecimientos dedicados a la explotación, fabricación, elaboración, formulación, maquila, mezclado, acondicionamiento, envasado e importación de plaguicidas agrícolas............. $ 6,985.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la certificación fitosanitaria de empresas o establecimientos dedicados a la comercialización, aplicación y distribución de plaguicidas agrícolas............. $ 2,510.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la certificación fitosanitaria de
+
+empresas o establecimientos dedicados
+
+a la explotación, fabricación,
+
+elaboración, formulación, maquila,
+
+mezclado, acondicionamiento, envasado
+
+e importación de plaguicidas
+
+agrícolas $ 7,976.71 7,977.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la certificación fitosanitaria de
+
+empresas o establecimientos dedicados
+
+a la comercialización, aplicación y
+
+distribución de plaguicidas
+
+agrícolas $ 2,866.35 2,866.00
 
 Por la renovación o modificación de las certificaciones a que se refiere el presente artículo se cobrará el 50% de la cuota establecida para cada una de ellas.
 
@@ -2915,15 +5337,39 @@ Por la renovación o modificación de las certificaciones a que se refiere el pr
 
 Por los servicios técnicos que soliciten las empresas que realicen actividades en materia de plaguicidas agrícolas o pecuarios, se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el dictamen técnico de efectividad biológica de plaguicidas agrícolas o pecuarios................. $ 725.00
+2000 2000
 
-II.- Por la certificación de estudios para el establecimiento de límites máximos de residuos............... $ 5,000.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por el certificado fitosanitario o zoosanitario de liberación al medio ambiente de organismos manipulados mediante la aplicación de ingeniería genética.............. $ 1,451.00
+I.- Por el dictamen técnico de
+
+efectividad biológica de plaguicidas
+
+agrícolas o pecuarios $ 1,141.93 1,142.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la certificación de estudios
+
+para el establecimiento de límites
+
+máximos de residuos $ 11,424.61 11,425.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el certificado fitosanitario o
+
+zoosanitario de liberación al medio
+
+ambiente de organismos manipulados
+
+mediante la aplicación de ingeniería
+
+genética $ 2,285.48 2,285.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -2931,19 +5377,43 @@ III.- Por el certificado fitosanitario o zoosanitario de liberación al medio am
 
 Por la aprobación para el funcionamiento de los siguientes establecimientos u organismos, se pagará el derecho de aprobación en materia de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-I.- Organismos de normalización.............. $ 13,700.00
+1er. Trimestre 1er. trimestre
 
-II.- Organismos de certificación.............. $ 26,500.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Organismos de normalización $ 21,579.53 21,580.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Organismos de certificación $ 41,741.45 41,741.00
 
 III.- Unidades de verificación:
 
-a).- Personas físicas.............. $ 250.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Personas morales.............. $ 2,024.00
+a).- Personas físicas $ 393.75 394.00
 
-IV.- Laboratorios de pruebas.............. $ 800.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Médicos veterinarios para brindar servicios de asistencia técnica y capacitación zoosanitaria a los productores.............. $ 250.00
+b).- Personas morales $ 3,188.06 3,188.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Laboratorios de pruebas $ 1,260.09 1,260.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Médicos veterinarios para brindar
+
+servicios de asistencia técnica y
+
+capacitación zoosanitaria a los
+
+productores $ 393.75 394.00
 
 Por duplicado o refrendo de la aprobación a que se refiere este artículo se pagará el 50% de la cuota correspondiente.
 
@@ -2953,9 +5423,27 @@ Por duplicado o refrendo de la aprobación a que se refiere este artículo se pa
 
 Por la expedición de los documentos que contengan los requisitos técnicos fitosanitarios o zoosanitarios para el trámite en materia de sanidad agropecuaria se pagará el derecho de sanidad agropecuaria, conforme a las siguientes cuotas:
 
-I.- Por la expedición del formato de requisitos técnico-fitosanitarios para importación........ $ 100.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de la hoja de requisitos técnico-zoosanitarios para importación....... $ 100.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición del formato de
+
+requisitos técnico-fitosanitarios para
+
+importación $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la hoja de
+
+requisitos técnico-zoosanitarios
+
+para importación $ 157.48 157.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2967,15 +5455,41 @@ II.- Por la expedición de la hoja de requisitos técnico-zoosanitarios para imp
 
 Por los servicios que se presten al obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas:
 
-I.- Por el estudio y trámite de la solicitud de protección de derechos del obtentor.............. $ 4,700.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de la constancia de presentación.............. $ 250.00
+2000 2000
 
-III.- Por la expedición del título del obtentor............... $ 2,300.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por el reconocimiento del derecho de prioridad.............. $ 250.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por cambio de denominación.............. $ 635.00
+I.- Por el estudio y trámite de la
+
+solicitud de protección de derechos
+
+del obtentor $ 7,403.19 7,403.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la constancia
+
+de presentación $ 393.75 394.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la expedición del título del
+
+obtentor $ 3,622.79 3,623.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el reconocimiento del derecho
+
+de prioridad $ 393.75 394.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por cambio de denominación $ 1,000.19 1,000.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -2983,17 +5497,41 @@ V.- Por cambio de denominación.............. $ 635.00
 
 Por los servicios de registro de actos jurídicos relacionados con el obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme las siguientes cuotas:
 
-I.- Por el registro de sucesión de los derechos de protección............. $ 350.00
+1er. Trimestre 1er. trimestre
 
-II.- Por cada copia certificada del título............. $ 100.00
+2000 2000
 
-III.- Por el registro de la renuncia al derecho............. $ 500.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el registro de sucesión de
+
+los derechos de protección $ 700.05 700.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada copia certificada del
+
+título $ 199.97 200.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el registro de la renuncia
+
+al derecho $ 1,000.09 1,000.00
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-IV.- Copia de la caracterización de la variedad protegida.............. $ 127.00
+IV.- Copia de la caracterización de
 
-V.- Por las correcciones por causa imputable al usuario........... $ 65.00
+la variedad protegida $ 199.99 200.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por las correcciones por causa
+
+imputable al usuario $ 129.95 130.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -3001,23 +5539,25 @@ V.- Por las correcciones por causa imputable al usuario........... $ 65.00
 
 Por el refrendo anual del título de protección de los derechos del obtentor de variedades vegetales, se pagará el derecho del obtentor, conforme a las siguientes cuotas:
 
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 A B C
 
-Año 1 $ 1,000.00. $ 750.00. $ 500.00
+Año 1 2,000.23 1,501.86 1,000.09
 
-Año 2 $ 1,500.00. $ 1,250.00. $ 750.00
+Año 2 3,000.38 2,500.30 1,500.15
 
-Año 3 $ 1,750.00. $ 1,500.00. $ 1,000.00
+Año 3 3,500.45 3,000.38 2,000.23
 
-Año 4 $ 2,000.00 $ 1,750.00 $ 1,250.00
+Año 4 4,000.54 3,500.45 2,500.30
 
-Año 5 $ 2,500.00 $ 2,000.00 $ 1,500.00
+Año 5 5,000.67 4,001.37 3,000.38
 
-Año 6 al 15 $ 3,000.00 $ 2,500.00 $ 2,000.00
+Año 6 al 15 6,000.83 5,000.67 4,000.54
 
-Año 16
+Año 16 y 4,000.54 3,500.45 2,500.30
 
-y subsecuentes $ 2,000.00 $ 1,750.00 $ 1,250.00
+subsecuentes
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3037,19 +5577,35 @@ Se pagará el 50% del monto del derecho correspondiente a que se refiere esta Se
 
 Por los servicios de certificación sobre producción de semillas, se pagará el derecho de certificación de semilla conforme a lo siguiente:
 
-I.- Por la expedición de certificado de origen para exportación, por cada uno............. $ 85.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de certificados de calidad, por etiqueta............. $ 0.30
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición de certificado
+
+de origen para exportación, por
+
+cada uno $ 174.14 174.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de certificados
+
+de calidad, por etiqueta $ 0.6850
 
 III.- Por la autorización a personas físicas o morales como organismos de certificados de semillas:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Autorización.............. $ 3,000.00
+a).- Autorización $ 4,725.40 4,725.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por refrendo anual.............. $ 1,500.00
+b).- Por refrendo anual $ 2,362.68 2,363.00
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -3171,9 +5727,49 @@ III.- Para empresas comercializadoras............ $ 50,000.00
 
 Los concesionarios y permisionarios de servicios de telecomunicaciones pagarán el derecho de verificación del cumplimiento de las obligaciones establecidas en su respectivo título de concesión o permiso, así como en las disposiciones aplicables, conforme a las siguientes cuotas:
 
-I.- Por la verificación e inspección previa al inicio de operaciones y por la verificación e inspección de las modificaciones autorizadas a las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita............. $ 1,700.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la verificación e inspección a las instalaciones que constituyen las redes de los servicios de telecomunicaciones de los concesionarios, permisionarios y asignatarios, se pagará por cada visita............. $ 2,700.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la verificación e inspección
+
+previa al inicio de operaciones y
+
+por la verificación e inspección
+
+de las modificaciones autorizadas a
+
+las instalaciones que constituyen las
+
+redes de los servicios de
+
+telecomunicaciones de los
+
+concesionarios, permisionarios y
+
+asignatarios, se pagará por cada
+
+visita $ 3,622.00 3,622.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la verificación e inspección a
+
+las instalaciones que constituyen las
+
+redes de los servicios de
+
+telecomunicaciones de los
+
+concesionarios, permisionarios y
+
+asignatarios, se pagará por cada
+
+visita $ 4,511.00 4,511.00
 
 El pago de los derechos a que se refiere este artículo, deberá efectuarse dentro de los 15 días siguientes contados a partir de la fecha en que se realizó la visita de verificación e inspección.
 
@@ -3191,21 +5787,39 @@ El pago de los derechos a que se refiere este artículo, deberá efectuarse dent
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para el uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias en el territorio nacional, independientemente de la contraprestación a que se refiere el artículo 14 de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 4,352.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del título de concesión............... $ 7,253.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el estudio de la solicitud y
 
-III.- Por el estudio de la solicitud de prórroga del título de concesión............. $ 4,271.68
+de la documentación técnica,
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+administrativa y legal inherente
 
-IV.- Por la autorización de prórroga de concesión............. $ 4,271.68
+a la misma $ 16,760.00 16,760.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del título de
+
+concesión $ 12,051.00 12,051.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el estudio de la solicitud de
+
+prórroga del título de concesión $ 6,882.00 6,882.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización de prórroga
+
+de concesión $ 5,409.00 5,409.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3213,21 +5827,39 @@ IV.- Por la autorización de prórroga de concesión............. $ 4,271.68
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la instalación, operación o explotación de redes públicas de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 7,253.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del título de concesión............... $ 14,506.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el estudio de la solicitud y
 
-III.- Por el estudio de la solicitud de prórroga del título de concesión............. $ 8,542.17
+de la documentación técnica,
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+administrativa y legal inherente
 
-IV.- Por la autorización de prórroga de concesión............. $ 8,542.17
+a la misma $ 19,073.00 19,073.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del título de
+
+concesión $ 21,571.00 21,571.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el estudio de la solicitud de
+
+prórroga del título de concesión $ 13,477.00 13,477.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización de prórroga
+
+de concesión $ 11,424.50 11,424.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3235,21 +5867,39 @@ IV.- Por la autorización de prórroga de concesión............. $ 8,542.17
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la ocupación de posiciones orbitales geoestacionarias y órbitas satelitales asignadas al país y la explotación de sus respectivas frecuencias o bandas de frecuencias, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 4,352.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del título de concesión............... $ 7,253.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el estudio de la solicitud y
 
-III.- Por el estudio de la solicitud de prórroga del título de concesión............. $ 4,271.68
+de la documentación técnica,
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+administrativa y legal inherente
 
-IV.- Por la autorización de prórroga de concesión............. $ 4,271.68
+a la misma $ 15,778.00 15,778.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del título de
+
+concesión $ 10,367.00 10,367.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el estudio de la solicitud de
+
+prórroga del título de concesión $ 5,548.00 5,548.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización de prórroga
+
+de concesión $ 5,184.00 5,184.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3257,21 +5907,39 @@ IV.- Por la autorización de prórroga de concesión............. $ 4,271.68
 
 Por el estudio de la solicitud, expedición de título y prórroga de concesiones para la explotación de los derechos de emisión y recepción de señales de frecuencias o bandas de frecuencias asociadas a sistemas satelitales extranjeros que cubran y puedan prestar servicios en el territorio nacional, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 7,253.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del título de concesión............... $ 14,506.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el estudio de la solicitud y
 
-III.- Por el estudio de la solicitud de prórroga del título de concesión............. $ 8,542.17
+de la documentación técnica,
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+administrativa y legal inherente
 
-IV.- Por la autorización de prórroga de concesión............. $ 8,542.17
+a la misma $ 19,334.00 19,334.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del título de
+
+Concesión $ 21,669.00 21,669.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el estudio de la solicitud de
+
+prórroga del título de concesión $ 11,424.50 11,424.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización de prórroga
+
+de concesión $ 11,424.50 11,424.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3279,61 +5947,93 @@ IV.- Por la autorización de prórroga de concesión............. $ 8,542.17
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión en materia de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el registro de representantes o apoderados, después de los primeramente designados............. $ 1,708.90
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el registro de representantes
+
+o apoderados, después de los
+
+primeramente designados $ 3,802.00 3,802.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad de las concesiones:
 
-a).- Por el estudio.............. $ 10,840.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 3,666.00
+a).- Por el estudio $ 17,032.00 17,032.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 6,316.00 6,316.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por cambio en la escritura constitutiva del concesionario:
 
-a).- Por el estudio.............. $ 5,420.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 2,026.00
+a).- Por el estudio $ 9,682.00 9,682.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 4,305.00 4,305.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por autorización para prestar servicios adicionales:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el estudio.............. $ 921.00
+a).- Por el estudio $ 7,226.00 7,226.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 317.00
+b).- Por la autorización $ 2,266.00 2,266.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 V.- Por ampliación al área de cobertura de la red:
 
-a).- Por el estudio.............. $ 921.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 317.00
+a).- Por el estudio $ 6,258.00 6,258.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 2,266.00 2,266.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VI.- Por modificación de las características de uso, aprovechamiento o explotación de frecuencias o bandas de frecuencias concesionadas:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el estudio.............. $ 921.00
+a).- Por el estudio $ 5,619.00 5,619.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 317.00
+b).- Por la autorización $ 2,266.00 2,266.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por el estudio de prórrogas, solicitadas para el cumplimiento de obligaciones establecidas en el título de concesión y, en su caso, por la autorización de las prórrogas............. $ 754.93
+VII.- Por el estudio de prórrogas,
+
+solicitadas para el cumplimiento
+
+de obligaciones establecidas en el
+
+título de concesión y, en su caso,
+
+por la autorización de las
+
+prórrogas $ 1,716.00 1,716.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3341,21 +6041,37 @@ VII.- Por el estudio de prórrogas, solicitadas para el cumplimiento de obligaci
 
 Por el estudio de la solicitud, expedición y prórroga de permisos para el establecimiento, operación o explotación de una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 3,627.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del permiso.............. $ 7,253.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Por el estudio de la solicitud y
 
-III.- Por el estudio de la solicitud de prórroga del permiso............. $ 4,271.68
+de la documentación técnica,
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+administrativa y legal inherente
 
-IV.- Por la autorización de prórroga del permiso............. $ 4,271.68
+a la misma $ 10,937.00 10,937.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del permiso $ 12,174.00 12,174.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el estudio de la solicitud
+
+de prórroga del permiso $ 8,655.00 8,655.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización de prórroga
+
+del permiso $ 7,252.00 7,252.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3363,41 +6079,63 @@ IV.- Por la autorización de prórroga del permiso............. $ 4,271.68
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos para establecer, operar o explotar una comercializadora de servicios de telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el registro de representantes o apoderados, después de los primeramente designados............. $ 1,708.90
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el registro de representantes o apoderados, después de los primeramente designados. $ 4,859.00 4,859.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-a).- Por el estudio.............. $ 5,420.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 1,833.00
+a).- Por el estudio $ 8,537.27 8,537.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 2,887.20 2,887.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cambios en la escritura constitutiva del permisionario:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el estudio.............. $ 1,084.00
+a).- Por el estudio $ 1,707.41 1,707.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 367.00
+b).- Por la autorización $ 578.05 578.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por ampliación al área de cobertura de los servicios:
 
-a).- Por el estudio.............. $ 921.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 317.00
+a).- Por el estudio $ 7,367.00 7,367.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligaciones establecidas en el permiso y, en su caso, por la autorización de las prórrogas............. $ 754.93.
+b).- Por la autorización $ 3,391.00 3,391.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el estudio de prórrogas
+
+solicitadas para el cumplimiento de
+
+obligaciones establecidas en el
+
+permiso y, en su caso, por la
+
+autorización de las prórrogas $ 1,009.63 1,010.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3405,13 +6143,23 @@ V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligacione
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos en materia de telecomunicaciones, otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la autorización de modificaciones que requieran estudio técnico.............. $ 1,243.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la autorización de modificaciones que no requieran estudio técnico........ $ 657.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la autorización de modificaciones
+
+que requieran estudio técnico $ 3,321.00 3,321.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la autorización de modificaciones
+
+que no requieran estudio técnico $ 1,184.00 1,184.00
 
 ###### ARTICULO 100-A.
 
@@ -3423,13 +6171,27 @@ II.- Por la autorización de modificaciones que no requieran estudio técnico...
 
 Por el estudio de la solicitud y por la expedición del permiso para la instalación, operación o explotación de estaciones terrenas transmisoras o transreceptoras, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el estudio de la solicitud y de la documentación técnica, administrativa y legal inherente a la misma.............. $ 2,901.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la expedición del permiso.............. $ 1,451.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio de la solicitud y
+
+de la documentación técnica,
+
+administrativa y legal inherente
+
+a la misma $ 6,804.00 6,804.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del
+
+permiso $ 3,111.00 3,111.00
 
 III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -3439,37 +6201,55 @@ III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de permisos para instalar y operar estaciones terrenas transmisoras o transreceptoras, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el registro de representantes o apoderados después de los primeramente designados.............. $ 1,708.90
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el registro de representantes o apoderados después de los primeramente designados $ 2,905.00 2,905.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 II.- Por cambio en la titularidad del permiso:
 
-a).- Por el estudio.............. $ 5,420.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 1,833.00
+a).- Por el estudio $ 8,537.27 8,537.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 2,887.20 2,887.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Por cambio en la escritura constitutiva del permisionario:
 
-a).- Por el estudio.............. $ 1,084.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 367.00
+a).- Por el estudio $ 2,293.00 2,293.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 578.05 578.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Por cambio en las características técnicas y de operación de la estación terrena transmisora:
 
-a).- Por el estudio.............. $ 921.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización.............. $ 317.00
+a).- Por el estudio $ 2,472.00 2,472.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligaciones establecidas en el título de concesión y, en su caso, por la autorización de las prórrogas............. $ 754.93
+b).- Por la autorización $ 1,006.00 1,006.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligaciones establecidas en el título de concesión y, en su caso, por la autorización de las prórrogas $ 1,009.63 1,010.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3477,29 +6257,67 @@ V.- Por el estudio de prórrogas solicitadas para el cumplimiento de obligacione
 
 Por el estudio y trámite de la solicitud de inscripción en el Registro de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- De títulos de concesión, permisos y asignaciones otorgadas y, en su caso, por modificaciones autorizadas a los mismos............... $ 500.00
+1er. Trimestre 1er. trimestre
 
-II.- De servicios de valor agregado.............. $ 1,088.00
+2000 2000
 
-III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- De gravámenes impuestos a las concesiones o permisos............. $ 1,281.38
+I.- De títulos de concesión, permisos y
 
-V.- De cesión de derechos y obligaciones.............. $ 1,088.00
+asignaciones otorgadas y, en su caso,
 
-VI.- De bandas de frecuencias otorgadas en las distintas zonas del país.............. $ 1,088.00
+por modificaciones autorizadas a los
 
-VII.- De convenios de interconexión entre redes.............. $ 250.00
+mismos $ 831.00 831.00
 
-VIII.- De tarifas al público de los servicios de telecomunicaciones.............. $ 1,088.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De servicios de valor
+
+agregado $ 3,198.00 3,198.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- 1,628.00 1,628.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De gravámenes impuestos a las
+
+concesiones o permisos $ 1,591.00 1,591.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De cesión de derechos y
+
+obligaciones $ 1,610.00 1,610.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- De bandas de frecuencias
+
+otorgadas en las distintas zonas
+
+del país $ 561.00 561.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- De convenios de interconexión
+
+entre redes $ 2,060.00 2,060.00
+
+VIII.- De tarifas al público de los
+
+servicios de telecomunicaciones $ 1,714.00 1,714.00
 
 IX.- De cualquier otro documento relativo a operaciones de concesionarios o permisionarios, cuando los reglamentos de la Ley Federal de Telecomunicaciones exijan dicha formalidad............... $ 1,088.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-X.- De cualquier otro documento relativo a las operaciones de concesionarios o permisionarios que sea objeto de registro y que no requiera un estudio previo de la solicitud............. $ 117.77
+X.- De cualquier otro documento relativo a las operaciones de concesionarios o permisionarios que sea objeto de registro y que no requiera un estudio previo de la solicitud $ 117.77
 
 ###### ARTICULO 103-A.
 
@@ -3511,13 +6329,37 @@ X.- De cualquier otro documento relativo a las operaciones de concesionarios o p
 
 Por la asignación y administración de números geográficos y no geográficos, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la administración de números geográficos y no geográficos registrados en la base de datos de la Secretaría de Comunicaciones y Transportes, se pagará anualmente, por cada número............. $ 1.07
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por el estudio de la solicitud y, en su caso, por la expedición del oficio de asignación, de números geográficos y no geográficos, por cada número asignado............. $ 11.02
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la administración de números
+
+geográficos y no geográficos registrados
+
+en la base de datos de la Secretaría
+
+de Comunicaciones y Transportes,
+
+se pagará anualmente, por cada
+
+número $ 1.20 1.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el estudio de la solicitud y,
+
+en su caso, por la expedición del
+
+oficio de asignación, de números
+
+geográficos y no geográficos, por
+
+cada número asignado $ 12.55 13.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -3525,11 +6367,31 @@ II.- Por el estudio de la solicitud y, en su caso, por la expedición del oficio
 
 Por el estudio de la solicitud, por el otorgamiento del título de asignación de frecuencias o bandas de frecuencias para uso oficial y por la autorización de modificaciones o ampliaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el estudio de la solicitud de asignación............. $ 1,463.93
+1er. Trimestre 1er. trimestre
 
-II.- Por el otorgamiento del título de asignación............. $ 2,927.86
+2000 2000
 
-III.- Por la autorización de modificaciones o ampliaciones al título de asignación............. $ 1,463.93
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio de la solicitud de
+
+asignación $ 2,977.00 2,977.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el otorgamiento del título de
+
+asignación $ 3,588.00 3,588.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización de modificaciones
+
+o ampliaciones al título de
+
+asignación $ 2,125.00 2,125.00
 
 ###### ARTICULO 106.
 
@@ -3663,15 +6525,29 @@ III.- Por la autorización de modificaciones o ampliaciones al título de asigna
 
 Por el estudio de la solicitud y expedición de la constancia de modificaciones o ampliaciones a permisos de servicios de telecomunicaciones, incluidos los de valor agregado, que se presten al público y que hayan sido otorgados con anterioridad a la entrada en vigor de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 III.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Por el estudio de la solicitud de cada modificación o ampliación de servicios sujetos a permiso o registro y por la expedición de la constancia............. $ 3,507.78
+IV.- Por el estudio de la solicitud de
+
+cada modificación o ampliación de
+
+servicios sujetos a permiso o registro
+
+y por la expedición de la
+
+constancia $ 4,790.00 4,790.00
 
 V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
@@ -3697,49 +6573,93 @@ V.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 Por el estudio y autorización de la solicitud de modificaciones técnicas, administrativas, operativas y legales de los títulos de concesión para la instalación, operación y explotación de sistemas de televisión por cable y redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada, de televisión restringida y de música continua, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- Modificación del sistema:
 
-a).- Por el estudio............. $ 1,646.88
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 548.95
+a).- Por el estudio $ 8,793.00 8,793.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 1,419.00 1,419.00
 
 II.- Generación de nuevos canales:
 
-a).- Por el estudio............. $ 1,097.90
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 379.75
+a).- Por el estudio $ 2,026.00 2,026.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 611.00 611.00
 
 III.- Por cambios en la escritura constitutiva del concesionario:
 
-a).- Por el estudio............. $ 1,646.88
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 548.95
+a).- Por el estudio $ 2,202.55 2,203.00
 
-IV.- Por el registro de representantes o apoderados, después de los primeramente designados.............. $ 878.24.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 734.14 734.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el registro de representantes
+
+o apoderados, después de los
+
+primeramente designados $ 1,174.54 1,175.00
 
 V.- Por cambio en la titularidad de las concesiones:
 
-a).- Por el estudio............. $ 1,097.90
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 379.75
+a).- Por el estudio $ 4,701.00 4,701.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 507.85 508.00
 
 VI.- Por cambio en la titularidad de las acciones o partes sociales y de aportaciones de capital social de sociedades mercantiles:
 
-a).- Por el estudio............. $ 1,097.90
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 379.75
+a).- Por el estudio. $ 3,720.00 3,720.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 1,187.00 1,187.00
 
 VII.- Ampliación del sistema de otra población:
 
-a).- Por el estudio............. $ 3,844.01
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización............. $ 1,281.33
+a).- Por el estudio $ 7,145.00 7,145.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización $ 2,182.00 2,182.00
 
 VIII.- Por la autorización de prórroga de la concesión:
 
-a).- Por el estudio de la solicitud de prórroga del título de concesión............. $ 6,587.79
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la autorización de prórroga del título de concesión............. $ 2,195.92
+a).- Por el estudio de la solicitud de
+
+prórroga del título de concesión $ 8,810.67 8,811.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la autorización de prórroga del
+
+título de concesión $ 2,936.86 2,937.00
 
 ###### ARTICULO 123-A.
 
@@ -3775,69 +6695,143 @@ b).- Por la autorización de prórroga del título de concesión............. $ 
 
 Por el otorgamiento de concesiones para establecer estaciones de radiodifusión sonora, así como por sus modificaciones, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por estaciones de radio en la banda de 535 a 1705 Kilohertz (AM), de 3 a 30 Megahertz (OC) y de 88 a 108 Megahertz (FM):
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).-Por el estudio de la solicitud y de la documentación inherente a la misma............... $ 2,000.00
+a).-Por el estudio de la solicitud y
+
+de la documentación inherente
+
+a la misma $ 3,150.26 3,150.00
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Por expedición del título de concesión............... $ 3,729.00
+c).- Por expedición del título de
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+concesión $ 5,873.69 5,874.00
 
-d).- Por el estudio de la documentación solicitada con motivo de la expedición del título de concesión.............. $ 1,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por el estudio de la documentación
+
+solicitada con motivo de la expedición
+
+del título de concesión $ 1,575.11 1,575.00
 
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales correspondiente a:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Equipo de transmisión principal o auxiliar.............. $ 1,492.00
+a).- Equipo de transmisión principal
 
-b).- Frecuencia............. $ 1,713.75
+o auxiliar $ 2,350.07 2,350.00
 
-c).- Potencia............. $ 1,713.75
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Ubicación de los estudios............. $ 428.45
+b).- Frecuencia $ 3,915.74 3,916.00
 
-e).- Ubicación de la planta transmisora............. $ 1,713.75
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Potencia $ 3,915.74 3,916.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Ubicación de los estudios $ 978.90 979.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Ubicación de la planta
+
+transmisora $ 3,915.74 3,916.00
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-g).- Horario de operación de estaciones de radio moduladas en amplitud............. $ 856.85
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-h).- Por estudio de mediciones de intensidad de campo........... $ 15,000.00
+g).- Horario de operación de estaciones
 
-i).- Distintivo de llamada............. $ 428.40
+de radio moduladas en amplitud $ 1,957.76 1,958.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h).- Por estudio de mediciones de
+
+intensidad de campo $ 34,273.93 34,274.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- Distintivo de llamada $ 978.80 979.00
 
 j).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-k).- Escritura constitutiva de sociedades mercantiles............. $ 1,285.29
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-l).- Representante o apoderado legal después del primeramente aceptado............. $ 514.08
+k).- Escritura constitutiva de sociedades
 
-m).- Titularidad de acciones o partes sociales y de aportaciones integrantes del capital social de sociedades mercantiles............. $ 856.85
+mercantiles $ 2,936.73 2,937.00
 
-n).- Titularidad de los derechos de concesión............. $ 856.85
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+l).- Representante o apoderado
 
-III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada.............. $ 2,901.00
+legal después del primeramente
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+aceptado $ 1,174.54 1,175.00
 
-IV.- Por el estudio de la solicitud del refrendo de la concesión.............. $ 2,936.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+m).- Titularidad de acciones o partes
 
-V.- Por la expedición del título del refrendo de la concesión.............. $ 2,936.00
+sociales y de aportaciones integrantes
+
+del capital social de sociedades
+
+mercantiles $ 1,957.76 1,958.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+n).- Titularidad de los derechos de
+
+concesión $ 1,957.76 1,958.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el otorgamiento de
+
+prórroga para modificaciones
+
+de características técnicas
+
+autorizadas, así como para
+
+cumplir con la documentación
+
+fijada $ 4,569.46 4,569.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el estudio de la solicitud del
+
+refrendo de la concesión $ 4,624.60 4,625.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por la expedición del título del
+
+refrendo de la concesión $ 4,624.60 4,625.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3845,9 +6839,23 @@ V.- Por la expedición del título del refrendo de la concesión.............. $
 
 Por el otorgamiento de la autorización para uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de radiodifusión modulada en frecuencia, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el estudio técnico y legal de la solicitud.............. $ 1,492.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de la autorización.............. $ 2,486.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio técnico y legal
+
+de la solicitud $ 2,350.07 2,350.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la
+
+autorización $ 3,915.78 3,916.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -3855,83 +6863,149 @@ II.- Por la expedición de la autorización.............. $ 2,486.00
 
 Por el otorgamiento de concesiones para establecer estaciones de televisión, así como por modificaciones, se pagará el derecho por concesión de televisión, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- Por estaciones de televisión en las bandas de VHF (canales del 2 al 13) y UHF (canales del 14 al 69):
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el estudio de la solicitud y de la documentación inherente a la misma $ 2,000.00
+a).- Por el estudio de la solicitud y
+
+de la documentación inherente a
+
+la misma $ 3,150.26 3,150.00
 
 b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Por la expedición del título de concesión $ 2,936.00
+c).- Por la expedición del título de
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+concesión $ 4,624.60 4,625.00
 
-d).- Por el estudio de la documentación solicitada con motivo de la expedición del título de concesión $ 1,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por el estudio de la documentación
+
+solicitada con motivo de la expedición
+
+del título de concesión $ 1,575.11 1,575.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 II.- Por cada estudio de solicitud y documentación inherente a la misma, de cambios o modificaciones de características técnicas, administrativas o legales, correspondiente a:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Cambio de equipo transmisor principal o auxiliar $ 2,797.00
+a).- Cambio de equipo transmisor
 
-b).- Cambio de canal $ 1'500,000.00
+principal o auxiliar $ 4,405.65 4,406.00
 
-c).- Cambio de potencia $ 1'500,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Cambio de ubicación de los estudios $ 375,000.00
+b).- Cambio de canal $ 5,873.70 5,874.00
 
-e).- Cambio de ubicación de la planta transmisora $ 1'500,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Cambio de potencia $ 5,873.70 5,874.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Cambio de ubicación de los
+
+estudios $ 1,468.33 1,468.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Cambio de ubicación de la
+
+planta transmisora $ 5,873.70 5,874.00
 
 f).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-g).- Por estudio de mediciones de intensidad de campo $ 15,000.00
+g).- Por estudio de mediciones de
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+intensidad de campo $ 34,273.93 34,274.00
 
-h).- Distinto (sic) de llamada $ 642.63
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h).- Distinto (sic) de llamada $ 1,468.28 1,468.00
 
 i).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-j).- Escritura constitutiva de sociedades mercantiles $ 1,927.98
+j).- Escritura constitutiva de
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+sociedades mercantiles $ 4,405.24 4,405.00
 
-k).- Representante o apoderado legal, después del primeramente aceptado $ 642.63
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+k).- Representante o apoderado legal,
 
-l).- Titularidad de acciones o partes sociales y de aportaciones integrantes del capital social de sociedades mercantiles $ 1,285.29
+después del primeramente
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+aceptado $ 1,468.28 1,468.00
 
-m).- Titularidad de los derechos de concesión $ 1,285.29
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+l).- Titularidad de acciones o partes
 
-III.- Por el otorgamiento de prórroga para modificaciones de características técnicas autorizadas, así como para cumplir con la documentación fijada $ 2,902.00
+sociales y de aportaciones integrantes
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+del capital social de sociedades
 
-IV.- Por cada estudio de solicitud y de documentación técnica, administrativa y legal para instalar y operar estaciones complementarias de zona de sombra $ 3,627.00
+mercantiles $ 2,936.73 2,937.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el estudio de la solicitud del refrendo de la concesión $ 3,627.00
+m).- Titularidad de los derechos
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+de concesión $ 2,936.73 2,937.00
 
-VI.- Por la expedición del título de refrendo de la concesión $ 3,627.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el otorgamiento de prórroga
+
+para modificaciones de características
+
+técnicas autorizadas, así como para
+
+cumplir con la documentación
+
+fijada $ 4,571.03 4,571.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por cada estudio de solicitud y de
+
+documentación técnica, administrativa
+
+y legal para instalar y operar estaciones
+
+complementarias de zona de
+
+sombra $ 2,411.00 2,411.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el estudio de la solicitud del
+
+refrendo de la concesión $ 5,713.03 5,713.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la expedición del título de
+
+refrendo de la concesión $ 5,713.03 5,713.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -3939,13 +7013,37 @@ VI.- Por la expedición del título de refrendo de la concesión $ 3,627.00
 
 Por el otorgamiento de la autorización para el uso y aprovechamiento de la subportadora múltiplex subordinada al canal principal de televisión, independientemente de la contraprestación que corresponda conforme al Transitorio Sexto de la Ley Federal de Telecomunicaciones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por el estudio técnico y legal de la solicitud.............. $ 1,492.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de la autorización.............. $ 1,958.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio técnico y legal de
+
+la solicitud $ 2,350.07 2,350.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la
+
+autorización $ 3,084.09 3,084.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 126.
 
-(DEROGADO, D.O.F. 15 DE DICIEMBRE DE 1995)
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+I.- 3,114.00 3,114.00
+
+II.- 2,298.00 2,298.00 (sic)
 
 ###### ARTICULO 127.
 
@@ -4035,13 +7133,27 @@ Por el otorgamiento del permiso para la instalación y operación de estaciones 
 
 Por la inspección previa al inicio de operaciones a estaciones de radiodifusión, y de televisión y de servicios que se proporcionen por subportadoras de radiodifusión y de televisión, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Estaciones de radiodifusión y de televisión.................. $ 1'500,000.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Estaciones de radiodifusión y
+
+de televisión $ 5,873.70 5,874.00
 
 II.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-IV.- Subportadoras de radiodifusión y de televisión................ $ 1'000,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Subportadoras de radiodifusión y
+
+de televisión $ 3,915.77 3,916.00
 
 ###### ARTICULO 136.
 
@@ -4057,87 +7169,253 @@ IV.- Subportadoras de radiodifusión y de televisión................ $ 1'000,00
 
 Por la revisión y estudio de la documentación de la solicitud de homologación de equipos de telecomunicaciones y, en su caso, por el otorgamiento del certificado de homologación provisional o definitivo, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 A.- Por el estudio de la solicitud y de la documentación técnica, administrativa, operativa y legal inherente a la misma y, en su caso, por el otorgamiento del certificado de homologación provisional:
 
-I.- De conmutadores hasta de 30 líneas............. $ 1,884.39
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- De equipo transreceptor de radioenlace de 30 canales............. $ 2,826.58
+I.- De conmutadores hasta de 30
 
-III.- De conmutadores de 31 hasta 60 líneas............. $ 3,297.68
+líneas $ 2,310.00 2,310.00
 
-IV.- De equipo transreceptor de radioenlace de 60 canales............. $ 4,946.53
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De conmutadores de 61 hasta 120 líneas............. $ 6,124.27
+II.- De equipo transreceptor de
 
-VI.- De equipo transreceptor de radioenlace de 120 canales.............. $ 9,186.41
+radioenlace de 30 canales $ 3,454.00 3,454.00
 
-VII.- De conmutadores de 121 hasta 240 líneas............. $ 8,950.86
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- De equipo transreceptor de radioenlace de 240 canales............. $ 13,426.29
+III.- De conmutadores de 31 hasta
 
-IX.- De conmutadores de más de 240 líneas............. $ 14,839.59
+60 líneas $ 4,027.00 4,027.00
 
-X.- De equipo transreceptor de radio enlace de más de 240 canales............. $ 22,259.38
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XI.- De centrales telefónicas públicas............. $ 26,617.04
+IV.- De equipo transreceptor de
 
-XII.- De centrales telefónicas privadas digitales............. $ 6,124.27
+radioenlace de 60 canales $ 6,030.00 6,030.00
 
-XIII.- De estaciones terrenas transreceptoras maestras............. $ 14,839.59
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XIV.- De estaciones terrenas transreceptoras remotas............. $ 6,124.27
+V.- De conmutadores de 61 hasta
 
-XV.- De estaciones terminales móviles terrestres por satélite............. $ 4,946.53
+120 líneas $ 7,463.00 7,463.00
 
-XVI.- De equipo terminal satelital............. $ 2,826.58
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVII.- De ruteadores de baja y mediana capacidad............. $ 4,200.00
+VI.- De equipo transreceptor de
 
-XVIII.- De ruteadores de alta capacidad............. $ 14,839.59
+radioenlace de 120 canales $ 11,190.00 11,190.00
 
-XIX.- De conmutadores y multilíneas digitales de baja y mediana capacidad............. $ 4,200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XX.- De conmutadores y multilíneas digitales de alta capacidad............. $ 14,839.59
+VII.- De conmutadores de 121
 
-XXI.- De multiplexores digitales de baja y mediana capacidad............. $ 4,946.53
+hasta 240 líneas $ 10,904.00 10,904.00
 
-XXII.- De multiplexores digitales de alta capacidad............. $ 6,124.27
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXIII.- De terminal de datos............. $ 4,946.53
+VIII.- De equipo transreceptor de
 
-XXIV.- De transreceptores de facsímiles y facsímil-modem............. $ 2,826.58
+radioenlace de 240 canales $ 16,343.00 16,343.00
 
-XXV.- De teléfonos analógicos alámbricos y accesorios telefónicos............. $ 2,826.58
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXVI.- De teléfonos inalámbricos, digitales, celulares y sistemas personales de comunicación............. $ 2,826.58
+IX.- De conmutadores de más de
 
-XXVII.- De modem (300 a 14,400 bits/s)............. $ 2,826.58
+240 líneas $ 18,063.00 18,063.00
 
-XXVIII.- De equipo de fibra óptica............. $ 9,186.41
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXIX.- De centrales celulares............. $ 6,124.27
+X.- De equipo transreceptor de
 
-XXX.- De estación base celular............. $ 4,946.53
+radio enlace de más de 240
 
-XXXI.- De equipo transreceptor monocanal base............. $ 4,946.53
+canales $ 27,088.00 27,088.00
 
-XXXII.- De equipo transreceptor monocanal móvil............. $ 2,826.58
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXXIII.- De equipo transreceptor monocanal portátil............. $ 1,177.74
+XI.- De centrales telefónicas
 
-XXXIV.- De equipo repetidor fijo............. $ 4,946.53
+públicas $ 32,386.00 32,386.00
 
-XXXV.- De equipo receptor terminal............. $ 2,826.58
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXXVI.- De equipo transmisor terminal............. $ 2,826.58
+XII.- De centrales telefónicas
 
-XXXVII.- De equipo de radiocomunicación que emplea la técnica de espectro disperso............. $ 2,826.58
+privadas digitales $ 7,463.00 7,463.00
 
-XXXVIII.- De equipo conmutador telefónico privado con acceso inalámbrico............. $ 4,946.53
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXXIX.- De equipos multilíneas............. $ 4,946.53
+XIII.- De estaciones terrenas
 
-XL.- Otros equipos no contemplados en este artículo............. $ 2,500.00
+transreceptoras maestras $ 18,063.00 18,063.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIV.- De estaciones terrenas
+
+transreceptoras remotas $ 7,463.00 7,463.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XV.- De estaciones terminales móviles
+
+terrestres por satélite $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVI.- De equipo terminal satelital $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVII.- De ruteadores de baja y mediana
+
+capacidad $ 5,123.00 5,123.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVIII.- De ruteadores de alta
+
+capacidad $ 18,063.00 18,063.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIX.- De conmutadores y multilíneas
+
+digitales de baja y mediana
+
+capacidad $ 5,123.00 5,123.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XX.- De conmutadores y multilíneas
+
+digitales de alta capacidad $ 18,063.00 18,063.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXI.- De multiplexores digitales de
+
+baja y mediana capacidad $ 7,413.00 7,413.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXII.- De multiplexores digitales
+
+de alta capacidad $ 7,463.00 7,463.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXIII.- De terminal de datos $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXIV.- De transreceptores de facsímiles
+
+y facsímil-modem $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXV.- De teléfonos analógicos
+
+alámbricos y accesorios
+
+telefónicos $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXVI.- De teléfonos inalámbricos,
+
+digitales, celulares y sistemas
+
+personales de comunicación $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXVII.- De modem (300 a 14,400
+
+bits/s) $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXVIII.- De equipo de fibra
+
+óptica $ 11,190.00 11,190.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXIX.- De centrales celulares $ 8,190.74 8,191.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXX.- De estación base celular $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXI.- De equipo transreceptor
+
+monocanal base $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXII.- De equipo transreceptor
+
+monocanal móvil $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXIII.- De equipo transreceptor
+
+monocanal portátil $ 1,469.00 1,469.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXIV.- De equipo repetidor fijo $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXV.- De equipo receptor
+
+terminal $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXVI.- De equipo transmisor
+
+terminal $ 3,454.00 3,454.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXVII.- De equipo de radiocomunicación
+
+que emplea la técnica de espectro
+
+disperso $ 3,551.00 3,551.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXVIII.- De equipo conmutador
+
+telefónico privado con acceso
+
+inalámbrico $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXXIX.- De equipos multilíneas $ 6,034.00 6,034.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XL.- Otros equipos no contemplados
+
+en este artículo $ 3,057.00 3,057.00
 
 Por la expedición de un certificado de homologación definitivo, a solicitud del interesado, cuando se haya expedido uno provisional y no se hayan modificado las características técnicas y operativas autorizadas en éste, se cobrará el 50% de la cuota establecida en este apartado.
 
@@ -4161,15 +7439,27 @@ Por la expedición de un certificado de homologación definitivo, cuando se pres
 
 Por la expedición de la constancia de peritos en telecomunicaciones de profesionales técnicos responsables, de radioclubes y de certificados de aptitud para instalar y operar estaciones radioeléctricas y redes públicas de telecomunicaciones, respecto de los servicios que a continuación se señalan, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 I.- Constancias de registro de peritos en telecomunicaciones:
 
-a).- Expedición............ $ 15,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Revalidación.............. 10,000.00
+a).- Expedición $ 1,060.00 1,060.00
 
-c).- Modificaciones............. 10,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Revalidación 711.00 711.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Modificaciones 711.00 711.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -4177,17 +7467,17 @@ II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 III.- Certificados de aptitud para instalar y operar estaciones radioeléctricas del servicio de aficionados:
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Expedición............ .$ 10,000.00
+a).- Expedición $ 711.00 711.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Revalidación............. 5,000.00
+b).- Revalidación 364.00 364.00
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Modificaciones.............. 5,000.00
+c).- Modificaciones 364.00 364.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -4195,33 +7485,65 @@ IV.- Radioclubes:
 
 a).- Expedición:
 
-1.- Registro............ $ 20,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- Permiso para operar estaciones de servicio de aficionados........... 10,000.00
+1.- Registro $ 1,405.00 1,405.00
 
-3.- Permiso para instalar y operar estaciones repetidoras del servicio de aficionados……….. 10,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- Permiso para operar estaciones
+
+de servicio de aficionados 711.00 711.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3.- Permiso para instalar y operar
+
+estaciones repetidoras del servicio
+
+de aficionados 711.00 711.00
 
 b).- Revalidación:
 
-1.- Registro............ $ 10,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- Permiso para operar estaciones del servicio de aficionados........... 5,000.00
+1.- Registro $ 711.00 711.00
 
-3.- Permiso para instalar y operar estaciones repetidoras del servicio de aficionados………. 5,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Modificaciones............ $ 5,000.00
+2.- Permiso para operar estaciones
+
+del servicio de aficionados 364.00 364.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3.- Permiso para instalar y operar
+
+estaciones repetidoras del servicio
+
+de aficionados 364.00 364.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Modificaciones $ 364.00 364.00
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 V.- Constancia de registro de profesional técnico responsable
 
-a).- Expedición............. $ 152,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Revalidación............... 76,000.00
+a).- Expedición $ 859.00 859.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Responsiva, por cada estación o red pública.............. $ 294.00
+b).- Revalidación 438.00 438.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Responsiva, por cada estación
+
+o red pública $ 438.00 438.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -4229,19 +7551,37 @@ c).- Responsiva, por cada estación o red pública.............. $ 294.00
 
 Por los servicios prestados por las estaciones de la red nacional de radiomonitoreo y medición, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 I.- Por ajustes de frecuencia, ancho de banda y modulación a estaciones radioeléctricas:
 
-a).- Radiodifusión............. $ 400,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Servicios privados por cada transreceptor fijo............. $ 120,000.00
+a).- Radiodifusión $ 4,009.00 4,009.00
 
-c).- Servicios privados por cada transreceptor móvil............ $ 40,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+b).- Servicios privados por cada
 
-II.- Medición de los parámetros técnicos de la señal de televisión............ $ 800,000.00
+transreceptor fijo $ 731.40 731.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Servicios privados por cada
+
+transreceptor móvil $ 243.68 244.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Medición de los parámetros técnicos
+
+de la señal de televisión $ 4,876.73 4,877.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -4297,73 +7637,147 @@ II.- Medición de los parámetros técnicos de la señal de televisión.........
 
 Por los servicios que se presten por la operación del autotransporte federal en caminos de jurisdicción federal y servicios auxiliares, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 A.- Por los servicios relacionados con la expedición de:
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Por la calcomanía de identificación vehicular............. $ 52.00
+I.- Por la calcomanía de identificación
+
+vehicular $ 69.52 70.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 II.- Autorizaciones:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Para la cesión de derechos y obligaciones establecidos en los permisos............... $ 669.00
+a).- Para la cesión de derechos y
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+obligaciones establecidos en los
 
-b).- Para la celebración de convenios entre transportistas para la prestación de servicios de una misma clase y enrolar sus vehículos en la ruta que tengan autorizada............... $ 675.00
+permisos $ 1,053.73 1,054.00
 
-c).- (DEROGADO, .D.O.F. 26 DE DICIEMBRE DE 1990)
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b).- Para la celebración de convenios
 
-d).- Verificación técnica de las condiciones físicas del vehículo.............. $ 134.00
+entre transportistas para la prestación
+
+de servicios de una misma clase y
+
+enrolar sus vehículos en la ruta que
+
+tengan autorizada $ 1,063.18 1,063.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c) 297.00 297.00 (sic)
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Verificación técnica de las
+
+condiciones físicas del vehículo $ 211.01 211.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e) 373.00 373.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f) 392.00 392.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+g) 200.00 200.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h) 6,049.00 6,049.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i) 1,078.00 1,078.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 III.- Permisos:
 
-a).- De modalidades particulares especializado por vehículo........... $ 1,500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- De modalidades particulares
+
+especializado por vehículo $ 527.07 527.00
 
 b).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-c).- Para el transporte de automóviles en vehículo tipo góndola o madrina y para productos en vehículo tipo tanque, por vehículo............. $ 395.17.
+c).- Para el transporte de automóviles
 
-d).- Para el transporte de petróleo y sus derivados, por vehículo........... 1,500.00
+en vehículo tipo góndola o madrina y
+
+para productos en vehículo tipo tanque,
+
+por vehículo $ 395.17.
+
+d).- Para el transporte de petróleo y sus
+
+derivados, por vehículo 1,500.00
 
 e).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-f).- Para complementar la ruta autorizada por concesiones o permisos estatales, por vehículo............. $ 375.22
+f).- Para complementar la ruta autorizada
+
+por concesiones o permisos estatales,
+
+por vehículo $ 501.80 502.00
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 h).- (DEROGADO, D.O.F. 18 DE DICIEMBRE DE 1992)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-i).- Por cambio de propietario, derivado de cesión de derechos, por cada unidad............. $ 92.36
+i).- Por cambio de propietario, derivado
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de cesión de derechos, por cada
 
-j).- Especial para el autotransporte de objetos voluminosos o de gran peso por un solo viaje, por unidad............. $ 236.89
+unidad $ 123.49 123.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+j).- Especial para el autotransporte de
+
+objetos voluminosos o de gran peso
+
+por un solo viaje, por unidad $ 316.78 317.00
 
 k).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-l).- Para el autotransporte internacional de pasajeros, turismo y carga, por vehículo............. $ 195.49
+l).- Para el autotransporte internacional
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+de pasajeros, turismo y carga, por
 
-m).- Para operar depósitos de vehículos............. 200,000.00
+vehículo $ 892.00 892.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+m).- Para operar depósitos de
+
+vehículos 1,219.08 1,219.00
 
 1.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -4371,57 +7785,109 @@ m).- Para operar depósitos de vehículos............. 200,000.00
 
 n).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-ñ).- Por la operación y explotación de los servicios de autotransporte federal de carga, pasajeros y turismo............. $ 702.02
+ñ).- Por la operación y explotación
+
+de los servicios de autotransporte
+
+federal de carga, pasajeros y
+
+turismo $ 938.87 939.00
 
 o).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-p).- Para el transporte de materiales peligrosos y sus residuos................ 250,000.00
+p).- Para el transporte de materiales
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+peligrosos y sus residuos 978.80 979.00
 
-q).- Para el transporte de explosivos.............. $ 621.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+q).- Para el transporte de
 
-r).- Especial por un año para grúas industriales del servicio de autotransporte federal y privado............. $ 235.54.
+explosivos $ 978.12 978.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-s).- Para operar servicios transfronterizos en sus diversas modalidades.............. $ 200.00
+r).- Especial por un año para grúas
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+industriales del servicio de autotransporte
 
-t).- Para la construcción, operación y explotación de terminales de pasajeros......... 0.5 al millar
+federal y privado $ 356.00 356.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-u).- Para la construcción, operación y explotación de terminales interiores de carga........ 0.5 al millar
+s).- Para operar servicios transfronterizos
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+en sus diversas modalidades $ 314.98 315.00
 
-v).- Permiso de operación de terminales individuales u oficinas de sociedades de autotransporte federal de pasajeros o de carga.......... 1 al millar
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+t).- Para la construcción, operación
 
-w).- Para operar y explotar el servicio de paquetería y mensajería o servicios auxiliares............. $ 329.76
+y explotación de terminales de
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+pasajeros 0.5 al millar
 
-x).- Para operar el servicio de arrastre, arrastre y salvamento de vehículos............... $ 280.00
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+u).- Para la construcción, operación y
+
+explotación de terminales interiores de
+
+carga 0.5 al millar
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+v).- Permiso de operación de terminales
+
+individuales u oficinas de sociedades
+
+de autotransporte federal de pasajeros
+
+o de carga 1 al millar
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+w).- Para operar y explotar el servicio
+
+de paquetería y mensajería o servicios
+
+auxiliares $ 441.00 441.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+x).- Para operar el servicio de
+
+arrastre, arrastre y salvamento
+
+de vehículos $ 441.00 441.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+y) 607.00 607.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 IV.- Placas metálicas de identificación:
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Para automotor, remolque y semirremolque, para los servicios de autotransporte federal en sus diversas modalidades o de arrendamiento por placa............. $ 329.76
+a).- Para automotor, remolque y
 
-b).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
+semirremolque, para los servicios
+
+de autotransporte federal en sus
+
+diversas modalidades o de
+
+arrendamiento por placa $ 441.00 441.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- b) 422.00 422.00 (sic)
 
 c).- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -4433,15 +7899,79 @@ Cuando los trámites a que se refiere esta fracción sean realizados con motivo 
 
 V.- Por la expedición, reposición o modificación de tarjeta de circulación para el servicio de autotransporte federal de carga, pasaje, turismo, servicios auxiliares y arrendamiento:
 
-a).- Por la expedición de tarjeta de circulación o modificación para automotores, remolques y semirremolques para el servicio de autotransporte federal, servicios auxiliares y de arrendamiento............. $ 118.95.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la reposición de tarjeta de circulación para automotores, remolques y semirremolques de los servicios de autotransporte federal y servicios auxiliares y de arrendamiento............. $ 42.39
+a).- Por la expedición de tarjeta de
 
-c).- Revalidación de tarjeta de circulación para los vehículos automotores, remolques y semirremolques para los vehículos de servicio de autotransporte federal en sus diversas modalidades dentro del plazo señalado............. $ 327.40
+circulación o modificación para
 
-d).- Revalidación de tarjeta de circulación para los vehículos automotores remolques y semirremolques para los vehículos de servicio de autotransporte federal en sus diversas modalidades, después del plazo señalado............. $ 393.36
+automotores, remolques y
 
-e).- Revalidación de tarjeta de circulación para los vehículos automotores, remolques y semirremolques, para los vehículos del servicio de autotransporte federal en sus diversas modalidades, por cada año revalidado............. $ 460.49
+semirremolques para el servicio de
+
+autotransporte federal, servicios
+
+auxiliares y de arrendamiento $ 250.00 250.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por la reposición de tarjeta de
+
+circulación para automotores, remolques
+
+y semirremolques de los servicios de
+
+autotransporte federal y servicios
+
+auxiliares y de arrendamiento $ 100.00 100.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Revalidación de tarjeta de
+
+circulación para los vehículos
+
+automotores, remolques y
+
+semirremolques para los vehículos
+
+de servicio de autotransporte federal
+
+en sus diversas modalidades dentro
+
+del plazo señalado $ 437.85 438.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Revalidación de tarjeta de
+
+circulación para los vehículos
+
+automotores remolques y
+
+semirremolques para los vehículos
+
+de servicio de autotransporte federal
+
+en sus diversas modalidades,
+
+después del plazo señalado $ 526.06 526.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Revalidación de tarjeta de
+
+circulación para los vehículos
+
+automotores, remolques y
+
+semirremolques, para los vehículos
+
+del servicio de autotransporte
+
+federal en sus diversas modalidades,
+
+por cada año revalidado $ 615.83 616.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4451,33 +7981,37 @@ B.- Canje de placas metálicas y calcomanías de identificación:
 
 I.- Canje de placas metálicas de identificación y calcomanías de identificación para automotores del servicio de carga, pasajeros, turismo, servicios auxiliares y arrendamiento:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Dentro del plazo señalado............... $ 558.00
+a).- Dentro del plazo señalado $ 878.89 879.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Después del plazo señalado.............. $ 725.00
+b).- Después del plazo señalado $ 1,141.93 1,142.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Por cada año que no lo hayan efectuado............... $ 892.00
+c).- Por cada año que no lo hayan
+
+efectuado $ 1,405.00 1,405.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Canje de placa metálica y calcomanía de identificación para remolque y semirremolque:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Dentro del plazo señalado............... $ 278.00
+a).- Dentro del plazo señalado $ 437.85 438.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Después del plazo señalado.............. $ 334.00
+b).- Después del plazo señalado $ 526.06 526.00
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- Por cada año que no se haya efectuado.............. $ 391.00
+c).- Por cada año que no se haya
+
+efectuado $ 615.83 616.00
 
 C.- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -4489,23 +8023,27 @@ D.- Licencias para conducir:
 
 I.- Licencias:
 
-a).- Expedición.......... $ 1.260.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Refrendo.......... 180.00
+a).- Expedición $ 442.73 443.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Refrendo 119.00 119.00
 
 c).- (DEROGADO, D.O.F. 3 DE DICIEMBRE DE 1993)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Cambio de categoría.......... 2,500.00
+d).- Cambio de categoría 140.00 140.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-e).- Reexpedición............. 44,000.00
+e).- Reexpedición 268.02 268.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-f).- Duplicado .............. $ 170.00
+f).- Duplicado $ 267.73 268.00
 
 II.- (DEROGADA, D.O.F. 3 DE DICIEMBRE DE 1993)
 
@@ -4527,31 +8065,51 @@ V.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 VI.- Bajas de vehículos:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por cambio de vehículo.............. $ 335.00
+a).- Por cambio de vehículo $ 512.00 512.00
 
-b).- Definitiva............ 450.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Definitiva 157.97 158.00
 
-VII.- Suscripción de convenio anual celebrado por la Secretaría de Comunicaciones y Transportes con las empresas fabricantes y distribuidoras de vehículos nuevos, y empresas trasladistas............. $ 52.99
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Suscripción de convenio
+
+anual celebrado por la Secretaría
+
+de Comunicaciones y Transportes
+
+con las empresas fabricantes y
+
+distribuidoras de vehículos nuevos,
+
+y empresas trasladistas $ 70.82 71.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Expedición y reposición de placas metálicas de identificación de traslado a empresas armadoras o distribuidoras trasladistas de vehículos nuevos:
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por el pago de la renta mensual de placas de traslado.............. $ 223.00
+a).- Por el pago de la renta mensual
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de placas de traslado $ 351.20 351.00
 
-b).- Expedición o reposición por placa metálica de identificación............. $ 656.96
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+b).- Expedición o reposición por placa
 
-IX.- Reposición de placa metálica de identificación para automotor, remolque o semirremolque, por placa............ 5,000.00
+metálica de identificación $ 426.00 426.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Reposición de placa metálica de
+
+identificación para automotor, remolque
+
+o semirremolque, por placa $ 878.60 879.00
 
 X.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
@@ -4561,23 +8119,77 @@ XI.- (DEROGADA, D.O.F. 18 DE DICIEMBRE DE 1992)
 
 XII.- Inspecciones y revistas:
 
-a).- Inspección a personas físicas y morales del servicio federal de autotransporte, cuando la inspección exceda de 5 días hábiles, se pagará por día adicional........... 55,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Revista de vehículos............ 27,500.00
+a).- Inspección a personas físicas y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+morales del servicio federal de
 
-XIII.- Por el otorgamiento de cada juego de calcomanías y certificado de baja emisión de contaminantes, que se entregue a los centro de verificación de emisiones contaminantes de los vehículos de pasaje y carga.............. $ 5.00
+autotransporte, cuando la inspección
+
+exceda de 5 días hábiles, se pagará
+
+por día adicional $ 335.09 335.00
+
+b).- Revista de vehículos 27,500.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIII.- Por el otorgamiento de cada juego
+
+de calcomanías y certificado de baja
+
+emisión de contaminantes, que se
+
+entregue a los centro de verificación
+
+de emisiones contaminantes de los
+
+vehículos de pasaje y carga $ 7.85 8.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 XIV.- Registros:
 
-a).- De horario para los servicios de autotransporte federal de pasaje.............. $ 50.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De escrituras constitutivas y actas de asamblea de empresas de autotransporte federal en sus diversas modalidades............... $ 50.00
+a).- De horario para los servicios de
 
-c).- De actas constitutivas de empresas dedicadas al arrendamiento de remolques, semirremolques, automóviles y vehículos automotores con placas del servicio de autotransporte federal.............. $ 50.00
+autotransporte federal de pasaje $ 78.72 79.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De escrituras constitutivas y actas
+
+de asamblea de empresas de
+
+autotransporte federal en sus diversas
+
+modalidades $ 78.72 79.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- De actas constitutivas de empresas
+
+dedicadas al arrendamiento de remolques,
+
+semirremolques, automóviles y vehículos
+
+automotores con placas del servicio de
+
+autotransporte federal $ 78.72 79.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d) 5,154.00 5,154.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e) 109.00 109.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f) 575.00 575.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -4585,37 +8197,91 @@ c).- De actas constitutivas de empresas dedicadas al arrendamiento de remolques,
 
 Por los servicios que se presten para la operación del autotransporte privado en caminos de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la expedición, revalidación o reposición de la tarjeta de circulación para el autotransporte privado, en caminos de jurisdicción federal............. $ 788.38
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Modificación de la tarjeta de circulación para el autotransporte privado en caminos de jurisdicción federal............. $ 236.43
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
+I.- Por la expedición, revalidación o
 
-IV.- Expedición de permiso de traslado por un solo viaje para vehículo privado que transite vacío........... 300.00
+reposición de la tarjeta de circulación
+
+para el autotransporte privado, en
+
+caminos de jurisdicción federal $ 526.00 526.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Modificación de la tarjeta de
+
+circulación para el autotransporte
+
+privado en caminos de jurisdicción
+
+federal $ 161.00 161.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- 431.00 431.00 (sic)
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Expedición de permiso de traslado
+
+por un solo viaje para vehículo privado
+
+que transite vacío 105.24 105.00
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-V.- Permiso para vehículo de carga particular por contrato con terceros, por entidad..... 81,500.00
+V.- Permiso para vehículo de carga
+
+particular por contrato con terceros,
+
+por entidad 81,500.00
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VI.- Permiso con vigencia menor de un año............. 90,000.00
+VI.- Permiso con vigencia menor
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+de un año 90,000.00
 
-VII.- Permiso por un solo viaje para vehículo privado de autotransporte de objetos voluminosos o de gran peso, con exceso de peso o dimensión………… 64,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+VII.- Permiso por un solo viaje
 
-VIII.- Permiso para el transporte de materiales peligrosos y sus residuos.......... 250,000.00
+Para vehículo privado de
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+autotransporte de objetos
 
-IX.- Permiso especial por un año para el tránsito de grúas industriales del servicio privado, por vehículo.............. $ 200.00
+voluminosos o de gran
+
+peso, con exceso de peso
+
+o dimensión 300.02 300.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Permiso para el transporte de
+
+materiales peligrosos y sus
+
+residuos 978.80 979.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Permiso especial por un año para
+
+el tránsito de grúas industriales del
+
+servicio privado, por vehículo $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- 897.00 897.00 (sic)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -4647,17 +8313,45 @@ IX.- Permiso especial por un año para el tránsito de grúas industriales del s
 
 Por los servicios relativos a la inscripción en el Registro Aeronáutico Mexicano, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- De aeronaves.............. $ 1,000.00
+1er. Trimestre 1er. trimestre
 
-II.- De concesiones o permisos de servicios de transporte aéreo.............. $ 1,000.00
+2000 2000
 
-III.- De concesiones o permisos de aeropuertos, helipuertos, aeródromos o hidroaeródromos.............. $ 1,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- De permisos de pistas comunitarias.............. $ 200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De pólizas de seguros.............. $ 500.00
+I.- De aeronaves $ 1,575.11 1,575.00
 
-VI.- Por otros servicios prestados por el Registro.............. $ 200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De concesiones o permisos de
+
+servicios de transporte aéreo $ 1,575.11 1,575.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De concesiones o permisos de
+
+aeropuertos, helipuertos, aeródromos
+
+o hidroaeródromos $ 1,575.11 1,575.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De permisos de pistas
+
+comunitarias $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De pólizas de seguros $ 787.55 788.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por otros servicios prestados
+
+por el Registro $ 314.98 315.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4665,37 +8359,131 @@ VI.- Por otros servicios prestados por el Registro.............. $ 200.00
 
 Por el otorgamiento de las concesiones y permisos señalados en la Ley de Aeropuertos, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por cada concesión de aeropuertos.............. $ 10,000.00
+1er. Trimestre 1er. trimestre
 
-a).- Por su modificación.............. $ 1,250.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por cada concesión de
+
+aeropuertos $ 15,751.46 15,751.00
+
+a).- Por su modificación $ 1,968.90 1,969.00
 
 II.- Por cada permiso de:
 
-a).- Construcción de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Explotación de aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
+a).- Construcción de aeródromos de
 
-c).- Ampliación o remodelación de la infraestructura de aeropuertos; aeródromos de servicio particular; aeródromos de servicio particular con contrato con terceros; aeródromos de servicios generales; helipuertos de servicio privado; helipuertos de servicio privado con contrato con terceros o hidroaeródromos.............. $ 2,500.00
+servicio particular; aeródromos de
 
-d).- Por la modificación de los permisos a que se refiere esta fracción.............. $ 1,250.00
+servicio particular con contrato con
+
+terceros; aeródromos de servicios
+
+generales; helipuertos de servicio
+
+privado; helipuertos de servicio
+
+privado con contrato con terceros o
+
+hidroaeródromos $ 3,937.84 3,938.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Explotación de aeródromos de
+
+servicio particular; aeródromos de
+
+servicio particular con contrato con
+
+terceros; aeródromos de servicios
+
+generales; helipuertos de servicio
+
+privado; helipuertos de servicio
+
+privado con contrato con terceros o
+
+hidroaeródromos $ 3,937.84 3,938.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Ampliación o remodelación de la
+
+infraestructura de aeropuertos;
+
+aeródromos de servicio particular;
+
+aeródromos de servicio particular
+
+con contrato con terceros; aeródromos
+
+de servicios generales; helipuertos
+
+de servicio privado; helipuertos de
+
+servicio privado con contrato con terceros
+
+o hidroaeródromos $ 3,937.84 3,938.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por la modificación de los permisos
+
+a que se refiere esta fracción $ 1,968.90 1,969.00
 
 III.- Por cada permiso de:
 
-a).- Construcción y explotación de aeródromos de servicio comunitario.............. $ 250.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Modificación a los aeródromos de servicio comunitario.............. $ 100.00
+a).- Construcción y explotación de
+
+aeródromos de servicio
+
+comunitario $ 393.75 394.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Modificación a los aeródromos
+
+de servicio comunitario $ 157.48 157.00
 
 IV.- Por cada permiso para proporcionar servicios de almacenamiento y suministro de combustible de aviación:
 
-a).- De uso privado.............. $ 1,250.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De uso público.............. $ 5,000.00
+a).- De uso privado $ 1,968.90 1,969.00
 
-c).- Para aviones agrícolas.............. $ 500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- Para aerostatos, aviones ultraligeros u otros análogos.............. $ 500.00
+b).- De uso público $ 7,875.71 7,876.00
 
-V.- Por la autorización de extensión de horario en los aeródromos civiles, por cada media hora o fracción con tolerancia de cinco minutos posteriores a la media hora......... $ 150.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Para aviones agrícolas $ 787.55 788.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Para aerostatos, aviones ultraligeros
+
+u otros análogos $ 787.55 788.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por la autorización de extensión de
+
+horario en los aeródromos civiles, por
+
+cada media hora o fracción con tolerancia
+
+de cinco minutos posteriores a la media
+
+hora $ 236.23 236.00
 
 Cuando la extensión de horario de servicio de los aeródromos civiles sea solicitado por más de un concesionario, permisionario, autorizado u operador, cada solicitante pagará el 50% de la cuota establecida en esta fracción.
 
@@ -4705,17 +8493,57 @@ Cuando la extensión de horario de servicio de los aeródromos civiles sea solic
 
 Por los servicios de verificación establecidos en la Ley de Aviación Civil y en la Ley de Aeropuertos los concesionarios, permisionarios, autorizados u operadores pagarán derechos por hora de verificación, conforme a las siguientes cuotas:
 
-I.- Por verificación mayor.............. $ 2,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por verificación menor.............. $ 400.00
+2000 2000
 
-III.- Por la certificación a las verificaciones efectuadas por las unidades de verificación establecidas por terceros.............. $ 2,000.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por verificación mayor $ 3,158.00 3,158.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por verificación menor $ 630.02 630.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la certificación a las verificaciones
+
+efectuadas por las unidades de verificación
+
+establecidas por terceros $ 3,150.26 3,150.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- 200.00 200.00 (sic)
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 156.
 
-Por los servicios de certificación mediante vuelos de inspección de ayudas a la navegación aérea, por cada hora de vuelo, en aeronave verificadora para determinación de sitio y certificación periódica o especial se pagarán derechos conforme a la cuota de $ 28,100.00.
+Por los servicios de
+
+certificación mediante vuelos de inspección
+
+de ayudas a la navegación aérea, por
+
+cada hora de vuelo, en aeronave
+
+verificadora para determinación de
+
+sitio y certificación periódica o especial
+
+se pagarán derechos conforme a la
+
+cuota de $ 44,261.69 44,262.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -4727,19 +8555,31 @@ No se pagará el derecho a que se refiere este artículo por los servicios de ce
 
 Por los servicios relacionados con la expedición de capacidades y licencias al personal técnico aeronáutico o, en su caso, permiso se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Por la expedición de la capacidad y licencia o permiso para:
 
-a).- Personal de vuelo.............. $ 400.00
+a).- Personal de vuelo $ 630.02 630.00
 
-b).- Personal de tierra.............. $ 300.00
+b).- Personal de tierra $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Por la revalidación de licencia al:
 
-a).- Personal de vuelo.............. $ 200.00
+a).- Personal de vuelo $ 314.98 315.00
 
-b).- Personal de tierra.............. $ 150.00
+b).- Personal de tierra $ 236.23 236.00
 
-III.- Por reposición de la licencia.............. $ 150.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por reposición de la licencia $ 236.23 236.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -4747,21 +8587,49 @@ III.- Por reposición de la licencia.............. $ 150.00
 
 Por los servicios de expedición de los siguientes certificados, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Por la expedición de los siguientes certificados:
 
-a).- De aeronavegabilidad.............. $ 500.00
+a).- De aeronavegabilidad $ 787.55 788.00
 
-b).- De matrícula.............. $ 500.00
+b).- De matrícula $ 787.55 788.00
 
-c).- De matrícula provisional............... $ 500.00
+c).- De matrícula provisional $ 787.55 788.00
 
-d).- De aeronavegabilidad o matrículas de aeronaves agrícolas.............. $ 300.00
+d).- De aeronavegabilidad o matrículas
 
-e).- De aeronavegabilidad o matrícula de aerostatos, aeronaves ultraligeras u otros análogos, cuando operen fuera de las áreas geográficas autorizadas a sus clubes.............. $ 300.00
+de aeronaves agrícolas $ 472.51 473.00
 
-II.- Por la expedición de certificados de homologación por emisión de ruido........ $ 300.00
+e).- De aeronavegabilidad o matrícula de
 
-III.- Por la renovación o reposición del certificado de aeronavegabilidad o matrícula...... $ 500.00
+aerostatos, aeronaves ultraligeras u
+
+otros análogos, cuando operen fuera
+
+de las áreas geográficas autorizadas
+
+a sus clubes $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de certificados de
+
+homologación por emisión de ruido $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la renovación o reposición del
+
+certificado de aeronavegabilidad o
+
+matrícula $ 787.55 788.00
 
 Las cuotas de los derechos establecidos en las fracciones I y II ya incluyen la inscripción en el Registro Aeronáutico Mexicano.
 
@@ -4771,27 +8639,67 @@ Las cuotas de los derechos establecidos en las fracciones I y II ya incluyen la 
 
 Por los servicios relacionados con el otorgamiento de las concesiones, permisos o autorizaciones señalados en la Ley de Aviación Civil, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Concesión.............. $ 10,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Permiso.............. $ 5,000.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Concesión $ 15,751.46 15,751.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Permiso $ 7,875.71 7,876.00
 
 No se pagará el derecho establecido en esta fracción cuando los permisos se otorguen para talleres aeronáuticos o centros de capacitación o adiestramiento que los concesionarios, permisionarios, autorizados u operadores de servicios establezcan con motivo de su propia operación o de la Ley Federal del Trabajo.
 
-III.- Autorización.............. $ 250.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Permiso de aeronaves para uso agrícola.............. $ 2,500.00
+III.- Autorización $ 393.75 394.00
 
-V.- Autorización de clubes aéreos y de aeromodelismo.............. $ 500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Permiso de aeronaves para
+
+uso agrícola $ 3,937.84 3,938.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Autorización de clubes aéreos
+
+y de aeromodelismo $ 787.55 788.00
 
 Por la modificación de las concesiones, permisos o autorizaciones a que se refiere este artículo se pagará únicamente el 25% del monto de la cuota del derecho que corresponda, respectivamente.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 160.
 
-Por la expedición de cada certificado de aprobación tipo, se pagarán derechos conforme a la cuota de $ 500.00.
+Por la expedición
 
-Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos conforme a la cuota de $ 300.00 por cada vuelo.
+de cada certificado de aprobación
+
+tipo, se pagarán derechos conforme
+
+a la cuota de $ 160 787.55 788.00
+
+Por el otorgamiento de
+
+autorización de vuelos de
+
+traslado, se pagarán derechos
+
+conforme a la cuota de $ 472.51 473.00
+
+por cada vuelo.
 
 ###### ARTICULO 161.
 
@@ -4805,31 +8713,75 @@ Por el otorgamiento de autorización de vuelos de traslado, se pagarán derechos
 
 Por el Registro Público Marítimo Nacional, se pagará el derecho de registro marítimo nacional conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 A.- Tratándose de Buques:
 
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la inscripción de los certificados de
+
+las matrículas de las embarcaciones y
+
+artefactos navales mexicanos $ 391.90 392.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por contratos de adquisición,
+
+enajenación o cesión, así como los
+
+actos constitutivos de derechos reales,
+
+traslativos o extintivos de propiedad,
+
+sus modalidades, hipotecas, gravámenes
+
+y privilegios marítimos sobre las
+
+embarcaciones y artefactos navales
+
+mexicanos $ 220.00 220.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por contratos de arrendamiento
+
+o fletamento a casco desnudo de
+
+embarcaciones mexicanas $ 237.00 237.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por contratos de construcción de
+
+embarcaciones en México, o de aquéllas
+
+que se construyan en el extranjero
+
+y se pretendan abanderar como
+
+mexicanas $ 237.00 237.00
+
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
-I.- Por la inscripción de los certificados de las matrículas de las embarcaciones y artefactos navales mexicanos.................. N$ 132.00
+V.- Por embarcaciones extranjeras
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+incorporadas al programa de
 
-II.- Por contratos de adquisición, enajenación o cesión, así como los actos constitutivos de derechos reales, traslativos o extintivos de propiedad, sus modalidades, hipotecas, gravámenes y privilegios marítimos sobre las embarcaciones y artefactos navales mexicanos.......... N$ 60.00
+abanderamiento N$ 60.00
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por contratos de arrendamiento o fletamento a casco desnudo de embarcaciones mexicanas.................. N$ 60.00
+VI.- Por la cancelación de cualquiera
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+de los actos especificados en este
 
-IV.- Por contratos de construcción de embarcaciones en México, o de aquéllas que se construyan en el extranjero y se pretendan abanderar como mexicanas.................. N$ 60.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-V.- Por embarcaciones extranjeras incorporadas al programa de abanderamiento......... N$ 60.00
-
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
-
-VI.- Por la cancelación de cualquiera de los actos especificados en este apartado....... N$ 104.00
+apartado $ 385.00 385.00
 
 VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
@@ -4837,17 +8789,69 @@ VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
 
 Tratándose de embarcaciones menores cuando exista notoria diferencia entre el valor resultante de la operación y el estipulado en la factura y el valor comercial de la embarcación, se solicitará el avalúo correspondiente en los términos de la fracción I de este apartado.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-B.- Por la inscripción de los navieros y agentes navieros mexicanos, así como de los operadores, se pagará por concepto de derecho de registro marítimo nacional la cuota de N$ 200.00.
+B.- Por la inscripción de los
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+navieros y agentes navieros
 
-C.- Cualquier otro contrato o documento relativo a embarcaciones, comercio marítimo y actividad portuaria que no se encuentre comprendido en los apartados de este artículo se pagará por concepto de derecho de registro marítimo nacional, la cuota de N$ 60.00.
+mexicanos, así como de los
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+operadores, se pagará por
 
-Por el registro de los contratos de cesión parcial de derechos y de prestación de servicios que celebren los administradores portuarios integrales, así como los contratos que celebren con terceros, se pagará por concepto de derecho de registro marítimo nacional la cuota de............. $ 133.20.
+concepto de derecho de
+
+registro marítimo nacional la
+
+cuota de $ 732.00 732.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+C.- Cualquier otro contrato o
+
+documento relativo a
+
+embarcaciones, comercio
+
+marítimo y actividad portuaria
+
+que no se encuentre
+
+comprendido en los apartados
+
+de este artículo se pagará por
+
+concepto de derecho de
+
+registro marítimo nacional,
+
+la cuota de $ 221.00 221.00
+
+I.- Por el registro de los
+
+contratos de cesión parcial de
+
+derechos y de prestación de
+
+servicios que celebren los
+
+administradores portuarios
+
+integrales, así como los
+
+contratos que celebren con
+
+terceros, se pagará por
+
+concepto de derecho de
+
+registro marítimo nacional
+
+la cuota de $ 231.00 231.00
+
+II.- 64.00 64.00 (sic)
+
+III.- 220.00 220.00 (sic)
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4879,197 +8883,319 @@ Si existe duplicidad en el registro de acto o documento realizado ante la centra
 
 Por los servicios que preste la Secretaría de Comunicaciones y Transportes para la navegación marítima, servicios principales, auxiliares y conexos a la vía de navegación por agua, se pagará el derecho de navegación marítima conforme a las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 I.- Por el otorgamiento de abanderamiento y dimisión de bandera de embarcaciones, tomando en cuenta el arqueo bruto:
 
-a).- Hasta de 50 toneladas........... $ 2,000.00
+a).- Hasta de 50 toneladas $ 298.04 298.00
 
-b).- De más de 50 hasta 500 toneladas............. 4,000.00
+b).- De más de 50 hasta 500
 
-c).- De más de 500 hasta 5,000 toneladas............. 7,000.00
+toneladas 596.28 596.00
 
-d).- De más de 5,000 hasta 15,000 toneladas............... 10,000.00
+c).- De más de 500 hasta 5,000
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+toneladas 1,043.67 1,044.00
 
-e).- De 15,000.01 hasta 25,000.00 toneladas........ 25,000.00
+d).- De más de 5,000 hasta 15,000
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+toneladas 1,491.09 1,491.00
 
-f).- De 25,000.01 hasta 50,000.00 toneladas…..... 35,000.00
+50.00 (sic)
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+e).- De 15,000.01 hasta 25,000.00
 
-g).- De más 50,000.01 toneladas............. 40,000.00
+toneladas 25,000.00
+
+f).- De 25,000.01 hasta 50,000.00
+
+toneladas 5,219.10 5,219.00
+
+g).- De más 50,000.01 toneladas 5,964.77 5,965.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 II.- Por la expedición, revalidación o reposición del certificado de matrícula:
 
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 a).- Tratándose de embarcaciones para tráfico de recreo:
 
-1.- Hasta de 5 toneladas brutas de arqueo............. $ 261.00
+1.- Hasta de 5 toneladas brutas
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 392.00
+de arqueo $ 298.04 298.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 522.00
+2.- De 5.01 hasta 10 toneladas
+
+brutas de arqueo $ 447.63 448.00
+
+3.- De 10.01 hasta 20 toneladas
+
+brutas de arqueo $ 596.09 596.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 b).- Embarcaciones para tráfico interior de carga, pasajeros o carga y pasajeros:
 
-1.- Hasta de 5 toneladas brutas de arqueo............. $ 130.00
+1.- Hasta de 5 toneladas brutas
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 196.00
+de arqueo $ 148.43 148.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 261.00
+2.- De 5.01 hasta 10 toneladas
+
+brutas de arqueo $ 223.81 224.00
+
+3.- De 10.01 hasta 20 toneladas
+
+brutas de arqueo $ 298.04 298.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 c).- Tratándose de embarcaciones para remolque, dragado, salvamento y demás relacionados con las comunicaciones por agua o con las obras de los puertos:
 
-1.- Hasta de 5 toneladas brutas de arqueo............. $ 196.00
+1.- Hasta de 5 toneladas brutas
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 261.00
+de arqueo $ 223.81 224.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 392.00
+2.- De 5.01 hasta 10 toneladas
+
+brutas de arqueo $ 298.04 298.00
+
+3.- De 10.01 hasta 20 toneladas
+
+brutas de arqueo $ 447.63 448.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 d).- Tratándose de embarcaciones pesqueras en cualquier clase de pesca:
 
-1.- Hasta de 5 toneladas brutas de arqueo............. $ 193.00
+1.- Hasta de 5 toneladas brutas
 
-2.- De 5.01 hasta 10 toneladas brutas de arqueo............. $ 322.00
+de arqueo $ 220.38 220.00
 
-3.- De 10.01 hasta 20 toneladas brutas de arqueo............. $ 451.00
+2.- De 5.01 hasta 10 toneladas
+
+brutas de arqueo $ 367.70 368.00
+
+3.- De 10.01 hasta 20 toneladas
+
+brutas de arqueo $ 515.01 515.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 e).- Para embarcaciones que efectúen en cualquier clase de tráfico, navegación de altura, cabotaje e interior:
 
-1.- De 20.01 hasta 100 toneladas brutas de arqueo............. $ 193.00
+1.- De 20.01 hasta 100 toneladas
 
-2.- De 100.01 hasta 500 toneladas brutas de arqueo............. $ 290.00
+brutas de arqueo $ 606.00 606.00
 
-3.- De 500.01 hasta 5,000 toneladas brutas de arqueo............. $ 580.00
+2.- De 100.01 hasta 500 toneladas
 
-4.- De 5,000.01 hasta 15,000 toneladas brutas de arqueo............. $ 870.00
+brutas de arqueo $ 721.00 721.00
 
-5.- De 15,000.01 hasta 25,000 toneladas brutas de arqueo............. $ 2,418.00
+3.- De 500.01 hasta 5,000 toneladas
 
-6.- De 25,000.01 hasta 50,000 toneladas brutas de arqueo............. $ 3,385.00
+brutas de arqueo $ 835.00 835.00
 
-7.- De más de 50,000.01 toneladas brutas de arqueo............. $ 3,869.00
+4.- De 5,000.01 hasta 15,000 toneladas
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+brutas de arqueo $ 993.51 994.00
+
+5.- De 15,000.01 hasta 25,000 toneladas
+
+brutas de arqueo $ 2,761.28 2,761.00
+
+6.- De 25,000.01 hasta 50,000 toneladas
+
+brutas de arqueo $ 3,865.58 3,866.00
+
+7.- De más de 50,000.01 toneladas
+
+brutas de arqueo $ 4,418.30 4,418.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Para embarcaciones de hasta
+
+10 metros de eslora... 50.00 50.00 (sic)
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 III.- Por la expedición de autorización para la permanencia de artefactos navales y dragas en zonas marinas nacionales, por tonelada bruta o fracción de registro internacional:
 
-a).- Hasta 500 toneladas............. $ 3.7991
+a).- Hasta 500 toneladas $ 4.3382
 
-b).- De 500.01 hasta 1,000 toneladas............. $ 3.1407
+b).- De 500.01 hasta 1,000
 
-c).- De 1,000.01 hasta 5,000 toneladas............. $ 2.6097
+toneladas $ 3.5865
 
-d).- De 5,000.01 hasta 15,000 toneladas............. $ 1.9567
+c).- De 1,000.01 hasta 5,000
 
-e).- De 15,000.01 en adelante............. $ 1.3035
+toneladas $ 2.9801
+
+d).- De 5,000.01 hasta 15,000
+
+toneladas $ 2.2344
+
+e).- De 15,000.01 en adelante $ 1.4884
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 IV.- Por expedición de pasavantes por tonelaje bruto de arqueo:
 
-a).- Hasta de 5 toneladas............. 400.00
+a).- Hasta de 5 toneladas 59.45 59.00
 
-b).- De más de 5 hasta 10 toneladas.............. 700.00
+b).- De más de 5 hasta 10
 
-c).- De más de 10 hasta 20 toneladas............ 1,000.00
+toneladas 104.21 104.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+c).- De más de 10 hasta 20
 
-d).- De 20.01 hasta 100.00 toneladas........... 2,500.00
+toneladas 148.90 149.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+d).- De 20.01 hasta 100.00
 
-e).- De 100.01 hasta 500.00 toneladas............ 3,000.00
+toneladas 372.61 373.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+e).- De 100.01 hasta 500.00
 
-f).- De 500.01 hasta 1,000.00 toneladas............ 4,000.00
+toneladas 447.17 447.00
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+f).- De 500.01 hasta 1,000.00
 
-g).- De 1,000.01 hasta 5,000.00 toneladas............ $ 7,000.00
+toneladas 596.28 596.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+g).- De 1,000.01 hasta 5,000.00
 
-h).- De 5,000.01 hasta 15,000.00 toneladas.......... 9,000.00
+toneladas 1,043.67 1,044.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+h).- De 5,000.01 hasta 15,000.00
 
-i).- De 15,000.01 hasta 25,000.00 toneladas........... 12,000.00
+toneladas 1,341.89 1,342.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+i).- De 15,000.01 hasta 25,000.00
 
-j).- De 25,000.01 hasta 50,000.00 toneladas........... 15,000.00
+toneladas 1,789.29 1,789.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+j).- De 25,000.01 hasta 50,000.00
 
-k).- De más de 50,000.01 toneladas............ 20,000.00
+toneladas 2,236.66 2,237.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+k) De más de 50,000.01
+
+toneladas 2,982.28 2,982.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 V.- Por practicar o verificar arqueo de la embarcación, por la expedición de la marca de máxima carga o franco bordo y expedición de los certificados correspondientes o por la revalidación anual, por tonelada bruta o fracción:
 
-a).- Hasta 1,000 toneladas brutas de arqueo............. $5.00
+a).- Hasta 1,000 toneladas brutas
 
-b).- De más de 1,000 hasta 5,000 toneladas, por las primeras 1.000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes............. 3.00
+de arqueo $ 1.4113
 
-c).- De más de 5,000 hasta 15,000 toneladas, por las primeras 5,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes.............. 2.50
+b).- De más de 1,000 hasta 5,000
 
-d).- De más de 15,000 toneladas, por las primeras 15,000, la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes.......... 2.00
+toneladas, por las primeras 1.000
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+la cuota señalada en el inciso
+
+anterior, y por cada una o fracción
+
+de las excedentes 0.8454
+
+c).- De más de 5,000 hasta 15,000
+
+toneladas, por las primeras 5,000,
+
+la cuota señalada en el inciso anterior
+
+y por cada una o fracción de las
+
+excedentes 0.7037
+
+d).- De más de 15,000 toneladas, por
+
+las primeras 15,000, la cuota señalada
+
+en el inciso anterior y por cada una o
+
+fracción de las excedentes 0.5624
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VI.- Por la expedición del permiso especial de navegación para embarcaciones mercantes de carga en general, o mixto incluyendo el de pasajeros, por tonelada bruta o fracción de registro internacional:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+a).- Hasta 500 toneladas $ 4.30 4.00
 
-a).- Hasta 500 toneladas......... $ 30.00
+b).- De 500.01 hasta 1,000.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+toneladas 3.57 4.00
 
-b).- De 500.01 hasta 1,000.00 toneladas............ 25.00
+c).- De 1,000.01 hasta 5,000.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+toneladas 2.9801
 
-c).- De 1,000.01 hasta 5,000.00 toneladas............ 20.00
+d).- De 5,000.01 hasta 15,000.00
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+toneladas 2.2343
 
-d).- De 5,000.01 hasta 15,000.00 toneladas............ 15.00
+e).- De 15,000.01 en adelante 1.4884
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- De 15,000.01 en adelante......... 10.00
+VII.- Por la expedición del permiso
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+especial para tráfico de pasaje-ros (sic),
 
-VII.- Por la expedición del permiso especial para tráfico de pasaje-ros (sic), a partir de 2 toneladas por tonelada bruta de arqueo o fracción........... 700.00
+a partir de 2 toneladas por tonelada
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+bruta de arqueo o fracción 3.86 4.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VIII.- La expedición de liberación de embarques de cargas a buques mercantes de tercera bandera, que realicen el transporte de mercancías con destino a los puertos de los países con los cuales los Estados Unidos Mexicanos han suscrito convenios bilaterales de transporte marítimo y que no sean operados por los armadores nacionales autorizados por sus respectivos gobiernos en ámbito del convenio que se trate, por toneladas de carga liberada:
 
-a).- Embarques de hasta 500 toneladas de carga............... $ 915,000.00
+a).- Embarques de hasta 500 toneladas
 
-b).- Embarques de 500.01 hasta 1000 toneladas de carga............. 1'375,000.00
+de carga $ 6,919.73 6,920.00
 
-c).- Embarques de 1000.01 hasta 3,000 toneladas de carga.............. 1'850,000.00
+b).- Embarques de 500.01 hasta 1000
 
-d).- Embarques de 3,000.01 hasta 9,000 toneladas de carga............. 2'300,000.00
+toneladas de carga 10,398.68 10,399.00
 
-e).- Embarques de 9,000.01 toneladas de carga en adelante............. 2'750,000.00
+c).- Embarques de 1000.01 hasta 3,000
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+toneladas de carga 13,990.96 13,991.00
 
-IX.- Por la expedición de permisos de amarre temporal............. $ 100,000.00
+d).- Embarques de 3,000.01 hasta 9,000
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+toneladas de carga 17,394.26 17,394.00
 
-X.- Por la expedición de autorización para la extracción, remoción o reflotación de embarcaciones, aeronaves o artefactos navales............. $ 1,708.43
+e).- Embarques de 9,000.01 toneladas
+
+de carga en adelante 20,797.50 20,797.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Por la expedición de permisos
+
+de amarre temporal $ 391.39 391.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Por la expedición de autorización para
+
+la extracción, remoción o reflotación de
+
+embarcaciones, aeronaves o artefactos
+
+navales $ 2,284.87 2,285.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -5077,9 +9203,23 @@ X.- Por la expedición de autorización para la extracción, remoción o reflota
 
 Por actos relacionados con el programa de abanderamiento se pagará el derecho de navegación marítima, conforme a las siguientes cuotas:
 
-I.- Por la inscripción de cada embarcación.............. $ 460,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la prórroga en el plazo de inscripción............... $ 230,000.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la inscripción de cada
+
+embarcación $ 4,398.00 4,398.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la prórroga en el plazo de
+
+inscripción $ 2,368.00 2,368.00
 
 > <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -5099,11 +9239,43 @@ I.- Las dedicadas exclusivamente a fines humanitarios o científicos.
 
 II.- Las pertenecientes al Gobierno Federal, que estén dedicadas a servicios oficiales.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 167.
 
-Por el otorgamiento de concesiones, permisos y autorizaciones para la construcción y operación de obras marítimo portuarias; así como para la prestación de servicios públicos marítimos o portuarios en las vías generales de comunicación por agua, se pagará anualmente el derecho de concesión, permiso o autorización, conforme a la cuota de $183,000.00.
+Por el otorgamiento
+
+de concesiones, permisos y
+
+autorizaciones para la
+
+construcción y operación de
+
+obras marítimo portuarias;
+
+así como para la prestación
+
+de servicios públicos
+
+marítimos o portuarios en las
+
+vías generales de
+
+comunicación por agua, se
+
+pagará anualmente e
+
+derecho de concesión,
+
+permiso o autorización,
+
+conforme a la cuota de $ 716.39 716.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -5125,31 +9297,85 @@ IV.- Las instalaciones de señales marítimas y maniobras de rescate.
 
 Por las inspecciones de seguridad para salvaguardar la vida humana en el mar y prevenir la contaminación por las embarcaciones, se pagará el derecho de reconocimiento, certificación o revalidación anual de los certificados, según corresponda, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Por reconocimiento:
 
-a).- Hasta 10 toneladas $ 30.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De más de 10 y hasta 20 toneladas $ 60.00
+a).- Hasta 10 toneladas $ 40.09 40.00
 
-c).- De más de 20 y hasta 50 toneladas $ 240.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- De más de 50 y hasta 75 toneladas $ 750.00
+b).- De más de 10 y hasta 20
 
-e).- De más de 75 y hasta 100 toneladas $ 900.00
+toneladas $ 80.20 80.00
 
-f).- De más de 100 y hasta 200 toneladas $ 1,350.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-g).- De más de 200 y hasta 300 toneladas $ 1,650.00
+c).- De más de 20 y hasta 50
 
-h).- De más de 300 y hasta 500 toneladas $ 2,400.00
+toneladas $ 320.96 321.00
 
-i).- De más de 500 y hasta 1,000 toneladas $ 3,300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-j).- De más de 1,000 y hasta 2,000 toneladas $ 3,900.00
+d).- De más de 50 y hasta 75
 
-k).- De más de 2,000 toneladas brutas de arqueo, por las primeras 2,000 la cuota señalada en el inciso anterior, y por cada una o fracción de las excedentes $ 0.9750
+toneladas $ 1,003.04 1,003.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- De más de 75 y hasta 100
+
+toneladas $ 1,203.66 1,204.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- De más de 100 y hasta 200
+
+toneladas $ 1,805.50 1,805.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+g).- De más de 200 y hasta 300
+
+toneladas $ 2,206.72 2,207.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h).- De más de 300 y hasta 500
+
+toneladas $ 3,209.80 3,210.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- De más de 500 y hasta 1,000
+
+toneladas $ 4,413.48 4,413.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+j).- De más de 1,000 y hasta 2,000
+
+toneladas $ 5,215.94 5,216.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+k).- De más de 2,000 toneladas brutas
+
+de arqueo, por las primeras 2,000 la
+
+cuota señalada en el inciso anterior,
+
+y por cada una o fracción de las
+
+excedentes $ 1.3036
 
 Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pagará lo que resulte de aplicar el factor de 0.15 a la cuota correspondiente.
 
@@ -5157,17 +9383,41 @@ Si se efectúa a la embarcación un segundo o subsecuente reconocimiento, se pag
 
 II.- Por certificación o revalidación:
 
-a).- Hasta 10 toneladas $ 15.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De más de 10 y hasta 20 toneladas $ 30.00
+a).- Hasta 10 toneladas $ 20.03 20.00
 
-c).- De más de 20 y hasta 75 toneladas $ 120.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- De más de 75 y hasta 200 toneladas $ 150.00
+b).- De más de 10 y hasta 20
 
-e).- De más de 200 y hasta 1000 toneladas $ 210.00
+toneladas $ 40.09 40.00
 
-f).- De más de 1000 y hasta 2000 toneladas $ 240.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- De más de 20 y hasta 75
+
+toneladas $ 160.46 160.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- De más de 75 y hasta 200
+
+toneladas $ 200.58 201.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- De más de 200 y hasta 1000
+
+toneladas $ 280.83 281.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- De más de 1000 y hasta 2000
+
+toneladas $ 320.96 321.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. REPUBLICADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
 g).- De más de 2000 toneladas brutas de arqueo, por las primeras 2000 la cuota señalada en el inciso anterior y por cada una o fracción de las excedentes $ 0.06
 
@@ -5175,77 +9425,209 @@ g).- De más de 2000 toneladas brutas de arqueo, por las primeras 2000 la cuota 
 
 III.- Por estudio técnico de planos, proyectos y memorias de construcción:
 
-a).- En barcos hasta de 100 toneladas.............. $ 3,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- En barcos de más de 100 hasta 500 toneladas........... 4,000,00
+a).- En barcos hasta de 100
 
-c).- En barcos de más de 500 hasta 1,000 toneladas............. 5,000.00
+toneladas $ 1,311.41 1,311.00
 
-d).- En barcos de 1,000 a 5,000 toneladas............. 6,500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- En barcos de 5,000 a 10,000 toneladas............... 8,000.00
+b).- En barcos de más de 100 hasta
 
-f).- En barcos de más de 10,000 toneladas.............. 10,000.00
+500 toneladas 1,748.57 1,749.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- En barcos de más de 500 hasta
+
+1,000 toneladas 2,185.78 2,186.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- En barcos de 1,000 a 5,000
+
+toneladas 2,841.58 2,842.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- En barcos de 5,000 a 10,000
+
+toneladas 3,497.33 3,497.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- En barcos de más de 10,000
+
+toneladas 4,371.72 4,372.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 IV.- Por estudio técnico de planos, proyectos y memorias que impliquen reformas o adiciones:
 
-a).- En barcos hasta de 100 toneladas.............. $ 1,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- En barcos de más de 100 hasta 500 toneladas............ 2,000.00
+a).- En barcos hasta de 100
 
-c).- En barcos de más de 500 hasta 1,000 toneladas............ 3,500.00
+toneladas $ 437.00 437.00
 
-d).- En barcos de 1,000 a 5,000 toneladas.............. 5,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- En barcos de 5,000 a 10,000 toneladas............... 7,000.00
+b).- En barcos de más de 100 hasta
 
-f).- En barcos de mas de 10,000 toneladas.............. 9,000.00
+500 toneladas 874.19 874.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- En barcos de más de 500 hasta
+
+1,000 toneladas 1,529.99 1,530.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- En barcos de 1,000 a 5,000
+
+toneladas 2,185.78 2,186.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- En barcos de 5,000 a 10,000
+
+toneladas 3,060.20 3,060.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- En barcos de más de 10,000
+
+toneladas 3,934.54 3,935.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 V.- Por nueva presentación para estudio técnico de planos, proyectos, memorias para construcción, reformas o adiciones.
 
-a).- En barco hasta de 100 toneladas........... $ 1,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- En barcos de más de 100 hasta 500 toneladas.......... 2,000.00
+a).- En barco hasta de 100
 
-c).- En barcos de más de 500 hasta 1,000 toneladas............ 3,500.00
+toneladas $ 437.00 437.00
 
-d).- En barcos de 1,000 a 5,000 toneladas............ 5,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- En barcos de 5,000 a 10,000 toneladas........... 7,000.00
+b).- En barcos de más de 100 hasta
 
-f).- En barcos de más de 10,000 toneladas.............. 9,000.00
+500 toneladas 874.19 874.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- En barcos de más de 500 hasta
+
+1,000 toneladas 1,529.99 1,530.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- En barcos de 1,000 a 5,000
+
+toneladas 2,185.78 2,186.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- En barcos de 5,000 a 10,000
+
+toneladas 3,060.20 3,060.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- En barcos de más de 10,000
+
+toneladas 3,934.54 3,935.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 VI.- Por el reconocimiento total a una embarcación en construcción o en reparación para verificar su estado de avance y el cumplimiento de las especificaciones y normas que le son aplicables, se pagarán los derechos correspondientes de acuerdo al tonelaje bruto de arqueo conforme a las siguientes cuotas:
 
-a).- Hasta 50 toneladas brutas de arqueo comprendiendo 3 inspecciones parciales........... $ 10,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De más de 50 hasta 100 toneladas brutas de arqueo, comprendiendo 3 inspecciones parciales......... 15,000.00
+a).- Hasta 50 toneladas brutas de
 
-c).- De más de 100 hasta 200 toneladas brutas de arqueo, comprendiendo 4 inspecciones parciales......... 20,000.00
+arqueo comprendiendo 3 inspecciones
 
-d).- De más de 200 hasta 300 toneladas brutas de arqueo, comprendiendo 4 inspecciones parciales.......... 25,000.00
+parciales $ 2,914.39 2,914.00
 
-> <small>(F. DE E., D.O.F. 4 DE MARZO DE 1985)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- De más de 300 hasta 500 toneladas brutas de arqueo, comprendiendo 4 inspecciones parciales........... 30,000.00
+b).- De más de 50 hasta 100 toneladas
 
-f).- De más de 500 hasta 1000 toneladas brutas de arqueo, comprendiendo 4 inspecciones parciales........... 40,000.00
+brutas de arqueo, comprendiendo
 
-g).- De más de 1000 hasta 5000 toneladas brutas de arqueo, comprendiendo 4 inspecciones parciales......... 50,000.00
+3 inspecciones parciales 4,371.72 4,372.00
 
-h).- De más de 5000 hasta 15000 toneladas brutas de arqueo, comprendiendo 5 inspecciones parciales......... 60,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-i).- De más de 15000 hasta 25000 toneladas brutas de arqueo, comprendiendo 5 reparaciones parciales.......... 75,000.00
+c).- De más de 100 hasta 200 toneladas
 
-j).- De más de 25000 hasta 50000 toneladas brutas de arqueo, comprendiendo 6 inspecciones parciales.......... 125,000.00
+brutas de arqueo, comprendiendo
 
-k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más........... 5.00 por cada tonelada o fracción excedente.
+4 inspecciones parciales 5,829.05 5,829.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- De más de 200 hasta 300 toneladas
+
+brutas de arqueo, comprendiendo
+
+4 inspecciones parciales 7,286.34 7,286.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- De más de 300 hasta 500 toneladas
+
+brutas de arqueo, comprendiendo
+
+4 inspecciones parciales 8,743.68 8,744.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- De más de 500 hasta 1000 toneladas
+
+brutas de arqueo, comprendiendo
+
+4 inspecciones parciales 11,658.24 11,658.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+g).- De más de 1000 hasta 5000 toneladas
+
+brutas de arqueo, comprendiendo
+
+4 inspecciones parciales 14,572.86 14,573.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+h).- De más de 5000 hasta 15000 toneladas
+
+brutas de arqueo, comprendiendo
+
+5 inspecciones parciales 17,487.54 17,488.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- De más de 15000 hasta 25000 toneladas
+
+brutas de arqueo, comprendiendo
+
+5 reparaciones parciales 21,859.51 21,860.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+j).- De más de 25000 hasta 50000 toneladas
+
+brutas de arqueo, comprendiendo
+
+6 inspecciones parciales 36,432.54 36,433.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 inspecciones parciales, la cuota indicada en el inciso anterior, más 1.4543 por cada tonelada o fracción excedente.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5253,27 +9635,57 @@ k).- De más de 50,000 toneladas brutas de arqueo en adelante, comprendiendo 6 i
 
 Por la autorización y determinación de señalamiento marítimo con que deben cumplir las instalaciones privadas o concesionadas, se pagará el derecho de señalamiento marítimo, conforme a las siguientes cuotas:
 
-I.- Señales en escolleras............. $ 500.00
+1er. Trimestre 1er. trimestre
 
-II.- Señales en faros............. $ 2,000.00
+2000 2000
 
-III.- Señales en muelles............. $ 500.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Señales en atracaderos y peines de marinas turísticas................ $ 500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Señales de enfilaciones............. $ 1,000.00
+I.- Señales en escolleras $ 1,142.42 1,142.00
 
-VI.- Señales flotantes............. $ 400.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Señales diurnas............. $ 500.00
+II.- Señales en faros $ 4,569.80 4,570.00
 
-VIII.- Señales laterales fijas............. $ 400.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IX.- Señales acústicas............. $ 750.00
+III.- Señales en muelles $ 1,142.42 1,142.00
 
-X.- Señales radioeléctricas............. $ 1,200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XI.- Otras señales............. $ 1,350.00
+IV.- Señales en atracaderos y peines
+
+de marinas turísticas $ 1,142.42 1,142.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Señales de enfilaciones $ 2,284.87 2,285.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Señales flotantes $ 913.91 914.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Señales diurnas $ 1,142.42 1,142.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Señales laterales fijas $ 913.91 914.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Señales acústicas $ 1,713.62 1,714.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Señales radioeléctricas $ 2,741.87 2,742.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- Otras señales $ 3,084.62 3,085.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5281,15 +9693,41 @@ XI.- Otras señales............. $ 1,350.00
 
 Por los servicios que presta la Capitanía de Puertos fuera del tiempo señalado en los horarios oficiales a embarcaciones nacionales o extranjeras que efectúen cualquier clase de tráfico, de navegación de altura, marítima, costera, cabotaje, interior de puertos, fluvial o lacustre, se pagará el derecho de capitanía de puertos, por cada entrada, despacho, o maniobra de fondeo, conforme a las siguientes cuotas:
 
-I.- Hasta de 20 toneladas brutas de arqueo.............. $ 81.00
+1er. Trimestre 1er. trimestre
 
-II.- De más de 20 hasta 100 toneladas brutas de arqueo.............. $ 122.00
+2000 2000
 
-III.- De más de 100 hasta 500 toneladas brutas de arqueo.............. $ 200.00
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 500 hasta 1,000 toneladas brutas de arqueo.............. $ 407.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De más de 1,000 toneladas brutas de arqueo.............. $ 814.00
+I.- Hasta de 20 toneladas brutas de
+
+arqueo $ 127.54 128.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 20 hasta 100 toneladas
+
+brutas de arqueo $ 192.12 192.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 100 hasta 500 toneladas
+
+brutas de arqueo $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 500 hasta 1,000 toneladas
+
+brutas de arqueo $ 641.04 641.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De más de 1,000 toneladas brutas
+
+de arqueo $ 1,282.13 1,282.00
 
 En los casos señalados en la fracción I y cuando la embarcación se utilice para el servicio público de carga y pasaje en vías de comunicación fluvial, lacustre, interior de puerto y cabotaje, se pagará el 50% de la cuota establecida.
 
@@ -5301,17 +9739,51 @@ No se pagará el derecho a que se refiere este artículo por las embarcaciones q
 
 Por los servicios de verificación de la prueba de estabilidad o aprobación del protocolo correspondiente, por cada embarcación se pagará el derecho de verificación de embarcación, conforme a las siguientes cuotas:
 
-I.- Hasta 200 unidades de arqueo bruto............. $ 1,045.00
+1er. Trimestre 1er. trimestre
 
-II.- De más de 200 hasta 300 unidades de arqueo bruto............. $ 1,140.00
+2000 2000
 
-III.- De más de 300 hasta 1000 unidades de arqueo bruto............. $ 1,615.00
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 1000 hasta 5000 unidades de arqueo bruto............... $ 1,900.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De más de 5000 hasta 10000 unidades de arqueo bruto.............. $ 2,850.00
+I.- Hasta 200 unidades de arqueo
 
-VI.- De más de 10000 unidades de arqueo bruto................... $ 3,800.00
+bruto $ 2,387.68 2,388.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 200 hasta 300 unidades
+
+de arqueo bruto $ 2,604.75 2,605.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 300 hasta 1000 unidades
+
+de arqueo bruto $ 3,690.10 3,690.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 1000 hasta 5000 unidades
+
+de arqueo bruto $ 4,341.32 4,341.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De más de 5000 hasta 10000 unidades
+
+de arqueo bruto $ 6,511.98 6,512.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- De más de 10000 unidades de
+
+arqueo bruto $ 8,682.68 8,683.00
+
+(ACTUALIZADA EN SU MONTO (N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- 769.00 769.00 (sic)
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5319,17 +9791,47 @@ VI.- De más de 10000 unidades de arqueo bruto................... $ 3,800.00
 
 Por la revisión de cuadernos de estabilidad, manual de cargas, manual de operación, manual de carga de grano, por aprobación de libros de hidrocarburos, plan de emergencia para prevenir la contaminación y por la expedición de la carta de cumplimiento, se pagará el derecho de revisión de embarcación, anualmente por cada embarcación conforme a las siguientes cuotas:
 
-I.- Hasta 200 unidades de arqueo bruto................. $ 1,045.00
+1er. Trimestre 1er. trimestre
 
-II.- De más de 200 hasta 300 unidades de arqueo bruto............... $ 1,140.00
+2000 2000
 
-III.- De más de 300 hasta 1000 unidades de arqueo bruto................ $ 1,615.00
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 1000 hasta 5000 unidades de arqueo bruto............. $ 1,900.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De más de 5000 hasta 10000 unidades de arqueo bruto............. $ 2,850.00
+I.- Hasta 200 unidades de arqueo
 
-VI.- De más de 10000 unidades de arqueo bruto.................. $ 3,800.00
+bruto $ 2,387.68 2,388.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 200 hasta 300 unidades
+
+de arqueo bruto $ 2,604.75 2,605.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 300 hasta 1000 unidades
+
+de arqueo bruto $ 3,690.10 3,690.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 1000 hasta 5000 unidades
+
+de arqueo bruto $ 4,341.32 4,341.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De más de 5000 hasta 10000 unidades
+
+de arqueo bruto $ 6,511.98 6,512.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- De más de 10000 unidades de
+
+arqueo bruto $ 8,682.68 8,683.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5337,15 +9839,53 @@ VI.- De más de 10000 unidades de arqueo bruto.................. $ 3,800.00
 
 Por la revisión y aprobación del manual de operación de dique flotante y expedición de la carta de cumplimiento, se pagará el derecho de revisión de embarcación, anualmente por cada embarcación, conforme a las siguientes cuotas:
 
-I.- Dique menor de 150 metros de eslora............. $ 3,800.00
+1er. Trimestre 1er. trimestre
 
-II.- Dique de 150 metros o más de eslora............. $ 5,700.00
+2000 2000
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Dique menor de 150 metros de
+
+eslora $ 8,682.68 8,683.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Dique de 150 metros o más de
+
+eslora $ 13,024.05 13,024.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 170-D.
 
-Por la inspección, verificación y autorización de estaciones de servicio a balsas salvavidas y a estaciones de servicio para los equipos contra incendio de las embarcaciones, se pagará el derecho de estación de servicio, conforme a la cuota de $ 5,700.00
+Por la inspección,
+
+verificación y autorización de
+
+estaciones de servicio a balsas
+
+salvavidas y a estaciones
+
+de servicio para los equipos
+
+contra incendio de las
+
+embarcaciones, se pagará el
+
+derecho de estación de
+
+servicio, conforme a la
+
+cuota de $ 13,024.05 13,024.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5353,15 +9893,51 @@ Por la inspección, verificación y autorización de estaciones de servicio a ba
 
 Por la autorización a sociedades clasificadoras de buques, a personas físicas o morales, para realizar a nombre del gobierno mexicano, la inspección, reconocimiento y certificación de embarcaciones o artefactos navales, así como la autorización de proyecto de construcción, reparación o modificación, se pagará anualmente, el derecho para clasificador de buques, conforme a las siguientes cuotas:
 
-I.- Por persona moral............. $ 25,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por persona física............. $ 10,000.00
+2000 2000
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por persona moral $ 10,910.00 10,910.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por persona física $ 1,000.00 1,000.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 170-F.
 
-Por la autorización a las personas físicas o morales para realizar a nombre del gobierno mexicano el servicio de recepción de las aguas sucias y residuales de las embarcaciones o artefactos navales, así como para expedir la certificación correspondiente se pagará anualmente el derecho de recepción conforme a la cuota de $ 10,000.00
+Por la autorización
+
+a las personas físicas o morales para
+
+realizar a nombre del gobierno
+
+mexicano el servicio de recepción
+
+de las aguas sucias y residuales
+
+de las embarcaciones o artefactos
+
+navales, así como para expedir
+
+la certificación correspondiente
+
+se pagará anualmente
+
+el derecho de recepción
+
+conforme a la cuota de $ 22,849.28 22,849.00
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5369,23 +9945,65 @@ Por la autorización a las personas físicas o morales para realizar a nombre de
 
 Por la expedición y en su caso reposición de los siguientes documentos, se pagará el derecho de identidad marítima, conforme a las siguientes cuotas:
 
-I.- Expedición y reposición de libretas de mar e identidad marítima............... $ 25,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Títulos profesionales al personal de la marina mercante nacional, tanto de cubierta como de máquinas.............. $ 75,000.00
+2000 2000
 
-III.- Certificados de competencia para mandar embarcaciones, tanto en el departamento de cubierta como en el de máquinas............... $ 50,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Certificados de competencia especial para mandar o laborar en buques especializados.............. $ 100,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Expedición y reposición de
+
+Libretas de mar e identidad
+
+Marítima $ 152.21 152.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Títulos profesionales al
+
+Personal de la marina mercante
+
+nacional, tanto de cubierta
+
+como de máquinas $ 457.02 457.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Certificados de competencia para
+
+mandar embarcaciones, tanto en el
+
+departamento de cubierta como en el
+
+de máquinas $ 304.62 305.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Certificados de competencia
+
+especial para mandar o laborar en
+
+buques especializados $ 609.44 609.00
 
 V.- Pasavantes para poder ejercer como tripulantes en las embarcaciones nacionales:
 
-a).- Personal subalterno............. $ 50,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Personal titulado.............. $ 75,000.00
+a).- Personal subalterno $ 304.62 305.00
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- Expedición de refrendos de títulos a oficialidad de la marina mercante............. $ 100.00
+b).- Personal titulado $ 457.02 457.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Expedición de refrendos de títulos
+
+a oficialidad de la marina
+
+mercante $ 228.43 228.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -5393,17 +10011,79 @@ VI.- Expedición de refrendos de títulos a oficialidad de la marina mercante...
 
 Por la autorización para ejercer como Agente Naviero Consignatario de Buques, o Agente Naviero General, se pagará el derecho de agente naviero, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Por la expedición de la autorización de Agente Naviero Consignatario de Buques en:
 
-a).- Tráfico de Altura............. $ 1,805.00
+a).- Tráfico de Altura $ 4,124.23 4,124.00
 
-b).- Tráfico de Cabotaje............. $ 1,289.00
+b).- Tráfico de Cabotaje $ 2,945.22 2,945.00
 
-c).- Pesca comercial............. $ 1,289.00
+c).- Pesca comercial $ 2,945.22 2,945.00
 
-d).- Recreo............. $ 1,289.00
+d).- Recreo $ 2,945.22 2,945.00
 
-II.- Por la expedición de la autorización para actuar como Agente Naviero General...... $ 3,610.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de la autorización
+
+para actuar como Agente Naviero
+
+General $ 8,248.55 8,249.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+###### ARTICULO 171-B.
+
+8,935.00 8,935.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+###### ARTICULO 171-C.
+
+3,813.00 3,813.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+###### ARTICULO 171-D.
+
+4,500.00 4,500.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+###### ARTICULO 171-E.
+
+469.00 469.00 (sic)
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5415,113 +10095,227 @@ II.- Por la expedición de la autorización para actuar como Agente Naviero Gene
 
 Por los servicios relacionados con el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y puentes de jurisdicción federal, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía en carreteras y puentes de jurisdicción federal, por cada 100 metros o fracción que exceda de dicha longitud............. $ 972.00
+I.- Estudios técnicos de planos, proyectos
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+y memorias de obra, para obras e
 
-II.- Estudios técnicos de planos, proyectos y memorias de obra para construcción de obras por cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras y puentes de jurisdicción federal............. $ 972.00
+instalaciones marginales dentro del
+
+derecho de vía en carreteras y
+
+puentes de jurisdicción federal, por
+
+cada 100 metros o fracción que exceda
+
+de dicha longitud $ 1,109.98 1,110.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Estudios técnicos de planos, proyectos
+
+y memorias de obra para construcción
+
+de obras por cruzamientos superficiales,
+
+subterráneos o aéreos que atraviesen
+
+carreteras y puentes de jurisdicción
+
+federal $ 1,109.98 1,110.00
 
 III.- Por la autorización para la construcción de accesos que afecten el derecho de vía de una carretera, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
-IV.- Por el estudio técnico del proyecto, supervisión y autorización de obras para paradores................ 1% sobre el costo total de la obra.
+IV.- Por el estudio técnico del
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+proyecto, supervisión y autorización
 
-V.- Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de carreteras, puentes o vías férreas, por kilómetro o fracción............. $ 581.00
+de obras para paradores 1% sobre el costo total de la obra.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por el estudio técnico
+
+de planos, proyectos y
+
+memorias de obra y expedición
+
+de la autorización para la
+
+construcción de obras e
+
+instalaciones marginales
+
+subterráneas para cables de
+
+redes de telecomunicación
+
+que se realicen dentro de los
+
+derechos de vía de carreteras,
+
+puentes o vías férreas, por
+
+kilómetro o fracción $ 663.47 663.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VI.- Por el permiso para la construcción de accesos que afecten el derecho de vía de un camino o puente de cuota, incluyendo la supervisión de la obra:
 
-a).- Proyecto a realizar en terreno plano.............. $ 6,900.00
+a).- Proyecto a realizar en terreno
+
+plano $ 10,868.50 10,868.00
 
 b).- Proyecto a realizar en terreno de lomerío con:
 
-1.- Geometría en corte.............. $ 7,600.00
+1.- Geometría en corte $ 11,971.10 11,971.00
 
-2.- Geometría en terraplén.............. $ 8,300.00
+2.- Geometría en terraplén $ 13,073.70 13,074.00
 
 c).- Proyecto a realizar en terreno montañoso con:
 
-1.- Geometría en corte.............. $ 9,000.00
+1.- Geometría en corte $ 14,176.30 14,176.00
 
-2.- Geometría en terraplén.............. $ 9,700.00
+2.- Geometría en terraplén $ 15,278.92 15,279.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VII.- Por el estudio técnico del proyecto, supervisión y permiso de obras para paradores en caminos y puentes de cuota:
 
-a).- Con superficie total del proyecto hasta 3,000 M2.............. $ 16,200.00
+a).- Con superficie total del proyecto
 
-b).- Con superficie total del proyecto hasta 5,000 M2 .............. $ 19,300.00
+hasta 3,000 M2 $ 25,517.39 25,517.00
 
-c).- Con superficie total del proyecto hasta 10,000 M2 .............. $ 22,600.00
+b).- Con superficie total del proyecto
 
-d).- Con superficie mayor a los 10,000 M2, por cada 1,000 M2 adicionales.......... $ 650.00
+hasta 5,000 M2 $ 30,400.36 30,400.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+c).- Con superficie total del proyecto
+
+hasta 10,000 M2 $ 35,598.36 35,598.00
+
+d).- Con superficie mayor a los 10,000 M2,
+
+por cada 1,000 M2 adicionales $ 1,023.80 1,024.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VIII.- Por la revisión, permiso y supervisión del proyecto geométrico, estructura de pavimentos, obras hidráulicas y otras que se requieran no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-a).- Por obras desarrolladas en un tramo de 1 Km. de longitud.............. $ 6,900.00
+a).- Por obras desarrolladas en un
 
-b).- Por obras desarrolladas en un tramo no mayor de 5 Km. de longitud.............. $ 8,300.00
+tramo de 1 Km. de longitud $ 10,868.50 10,868.00
 
-c).- Por obras desarrolladas en un tramo no mayor de 20 Km. de longitud............ $ 9,700.00
+b).- Por obras desarrolladas en un tramo
 
-d).- Por obras desarrolladas en un tramo mayor de 20 Km., por cada kilómetro adicional.............. $ 100.00
+no mayor de 5 Km. de longitud $ 13,073.70 13,074.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+c).- Por obras desarrolladas en un tramo
+
+no mayor de 20 Km. de longitud $ 15,278.92 15,279.00
+
+d).- Por obras desarrolladas en un tramo
+
+mayor de 20 Km., por cada kilómetro
+
+adicional $ 157.48 157.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 IX.- Por la revisión, permiso y supervisión de señales y dispositivos para el control del tránsito no contempladas en el proyecto original o que requieran modificación en los caminos y puentes de cuota:
 
-a).- Proyecto comprendido en un tramo no mayor de 1 Km. .............. $ 1,400.00
+a).- Proyecto comprendido en un tramo
 
-b).- Proyecto comprendido en un tramo no mayor de 5 Km. .............. $ 2,800.00
+no mayor de 1 Km. $ 2,205.16 2,205.00
 
-c).- Proyecto comprendido en un tramo no mayor de 20 Km. .............. $ 3,400.00
+b).- Proyecto comprendido en un tramo
 
-d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional......... $ 100.00
+no mayor de 5 Km. $ 4,410.38 4,410.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+c).- Proyecto comprendido en un tramo
+
+no mayor de 20 Km. $ 5,355.47 5,355.00
+
+d).- Proyecto comprendido en un tramo
+
+mayor de 20 Km., por kilómetro
+
+adicional $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 X.- Por la revisión, permiso y supervisión de forestación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-a).- Proyecto comprendido en un tramo no mayor de 1 Km.............. $ 1,400.00
+a).- Proyecto comprendido en un tramo
 
-b).- Proyecto comprendido en un tramo no mayor de 5 Km.............. $ 2,280.00
+no mayor de 1 Km $ 2,205.16 2,205.00
 
-c).- Proyecto comprendido en un tramo no mayor de 20 Km.............. $ 3,400.00
+b).- Proyecto comprendido en un tramo
 
-d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional......... $ 100.00
+no mayor de 5 Km $ 3,591.30 3,591.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+c).- Proyecto comprendido en un tramo
+
+no mayor de 20 Km $ 5,355.47 5,355.00
+
+d).- Proyecto comprendido en un tramo
+
+mayor de 20 Km., por kilómetro
+
+adicional $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XI.- Por la revisión, permiso y supervisión de estación de casetas de cobro, edificios administrativos u otros servicios auxiliares no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-a).- Con superficie total del proyecto no mayor de 100 M2.............. $ 7,600.00
+a).- Con superficie total del proyecto
 
-b).- Con superficie total del proyecto mayor de 100 M2.............. $ 10,700.00
+no mayor de 100 M2 $ 11,971.10 11,971.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+b).- Con superficie total del proyecto
+
+mayor de 100 M2 $ 16,854.06 16,854.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XII.- Por revisión, permiso y supervisión de proyectos de iluminación no contemplada en el proyecto original o que requiera modificación en los caminos y puentes de cuota:
 
-a).- Proyecto comprendido en un tramo no mayor de 1 Km.............. $ 1,400.00
+a).- Proyecto comprendido en un tramo
 
-b).- Proyecto comprendido en un tramo no mayor de 5 Km.............. $ 2,800.00
+no mayor de 1 Km $ 2,205.16 2,205.00
 
-c).- Proyecto comprendido en un tramo no mayor de 20 Km.............. $ 3,400.00
+b).- Proyecto comprendido en un tramo
 
-d).- Proyecto comprendido en un tramo mayor de 20 Km., por kilómetro adicional........ $ 100.00
+no mayor de 5 Km $ 4,410.38 4,410.00
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+c).- Proyecto comprendido en un tramo
 
-XIII.- Por revisión, permiso y supervisión de estudios de aspectos operativos no contemplados en el proyecto original o que requiera modificación en los caminos y puentes de cuota... $ 2,100.00
+no mayor de 20 Km $ 5,355.47 5,355.00
+
+d).- Proyecto comprendido en un tramo
+
+mayor de 20 Km., por kilómetro
+
+adicional $ 157.48 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIII.- Por revisión, permiso y
+
+supervisión de estudios de
+
+aspectos operativos no
+
+contemplados en el proyecto
+
+original o que requiera
+
+modificación en los caminos
+
+y puentes de cuota $ 3,307.76 3,308.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5533,15 +10327,31 @@ XIII.- Por revisión, permiso y supervisión de estudios de aspectos operativos 
 
 Por el otorgamiento de autorizaciones para el cruzamiento de vías férreas por otras vías de comunicación y obras, se pagará el derecho de autorización de cruzamiento, conforme a las siguientes cuotas:
 
-I.- Subterráneas……… $ 135,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Aéreos……… $ 135,000.00
+2000 2000
 
-III.- A nivel………. $ 185,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- A desnivel……… $ 460,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Pasos superiores……….. $ 915,000.00
+I.- Subterráneas $ 822.78 823.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Aéreos $ 822.78 823.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- A nivel $ 1,127.66 1,128.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- A desnivel $ 2,804.03 2,804.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Pasos superiores $ 5,577.83 5,578.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5549,17 +10359,35 @@ V.- Pasos superiores……….. $ 915,000.00
 
 Por la autorización para la construcción de obras de vías destinadas al transporte ferroviario, se pagará el derecho de autorización de obras de vías, conforme a las siguientes cuotas:
 
-I.- Laderas o escapes........... $ 185,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Espuelas hasta 1,000 metros............. $ 275,000.00
+2000 2000
 
-III.- Cortas vías............ $ 135,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Patios y terminales............ $ 915,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Vías particulares............. $ 450,000.00
+I.- Laderas o escapes $ 1,127.66 1,128.00
 
-VI.- Levantamientos de vías $ 450,000.00.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Espuelas hasta 1,000 metros $ 1,676.24 1,676.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Cortas vías $ 822.78 823.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Patios y terminales $ 5,577.83 5,578.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Vías particulares $ 2,743.10 2,743.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Levantamientos de vías $ 2,743.10 2,743.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -5567,21 +10395,49 @@ VI.- Levantamientos de vías $ 450,000.00.
 
 Por las autorizaciones de derecho de vías ferroviarias, se pagará el derecho respectivo, conforme a las siguientes cuotas:
 
-I.- Arrendamientos.............. $ 135,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Enajenaciones............ $ 135,000.00
+2000 2000
 
-III.- Donaciones............. $ 185,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Permutas............ $ 185,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Construcciones de edificios............ $ 450,000.00.
+I.- Arrendamientos $ 822.78 823.00
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Enajenaciones $ 822.78 823.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Donaciones $ 1,127.66 1,128.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Permutas $ 1,125.70 1,126.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Construcciones de edificios. $ 2,743.10 2,743.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 172-D.
 
-Por la autorización para operar el transporte multimodal, se pagará la cuota de N$ 500.00.
+Por la
+
+autorización para operar el
+
+transporte multimodal, se
+
+pagará la cuota de $ 1,484.67 1,485.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5589,13 +10445,45 @@ Por la autorización para operar el transporte multimodal, se pagará la cuota d
 
 Por el otorgamiento de los permisos señalados en la Ley Reglamentaria del Servicio Ferroviario, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Para la prestación de servicios auxiliares, por cada uno.............. $ 3,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Para construir accesos, cruzamientos e instalaciones marginales en el derecho de vía de las vías férreas.............. $ 3,000.00
+2000 2000
 
-III.- Para instalar anuncios y señales publicitarias en el derecho de vía.............. $ 200.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Para construir y operar puentes sobre vías férreas.............. $ 6,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Para la prestación de servicios
+
+auxiliares, por cada uno $ 4,725.40 4,725.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para construir accesos, cruzamientos
+
+e instalaciones marginales en el derecho
+
+de vía de las vías férreas $ 4,725.40 4,725.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para instalar anuncios y señales
+
+publicitarias en el derecho de vía $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Para construir y operar puentes
+
+sobre vías férreas $ 9,450.85 9,451.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- 5,815.00 5,815.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- 296.00 296.00 (sic)
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5603,9 +10491,19 @@ IV.- Para construir y operar puentes sobre vías férreas.............. $ 6,000.
 
 Por los servicios relacionados con el otorgamiento de licencias federales ferroviarias, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la expedición.............. $ 200.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la revalidación.............. $ 200.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición $ 314.98 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la revalidación $ 314.98 315.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5613,19 +10511,47 @@ II.- Por la revalidación.............. $ 200.00
 
 Por los servicios de verificación establecidos en la Ley Reglamentaria del Servicio Ferroviario y su Reglamento, los concesionarios, permisionarios o autorizados, pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por verificación especial a los concesionarios de vías férreas.............. $ 700.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por la verificación técnica de las condiciones físicas y mecánicas del equipo ferroviario de los concesionarios del servicio público de transporte ferroviario, por cada unidad tractiva o de arrastre.............. $ 300.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por la expedición de la constancia de aprobación.............. $ 60.00
+I.- Por verificación especial a los concesionarios
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de vías férreas $ 1,102.56 1,103.00
 
-III.- Por verificación para la construcción o reconstrucción de obras ferroviarias.............. $ 824.42
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la verificación técnica
+
+de las condiciones físicas y
+
+mecánicas del equipo
+
+ferroviario de los concesionarios
+
+del servicio público de transporte
+
+ferroviario, por cada unidad
+
+tractiva o de arrastre $ 472.51 473.00
+
+a).- Por la expedición de la
+
+constancia
+
+de aprobación $ 94.47 94.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por verificación para la construcción
+
+o reconstrucción de obras
+
+ferroviarias $ 1,102.56 1,103.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5633,29 +10559,65 @@ III.- Por verificación para la construcción o reconstrucción de obras ferrovi
 
 Por la inscripción en el Registro Ferroviario Mexicano, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Del equipo ferroviario, por unidad............... $ 740.00
+1er. Trimestre 1er. trimestre
 
-II.- De gravámenes.............. $ 700.00
+2000 2000
 
-III.- De tarifas.............. $ 700.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Del reglamento interno de transporte y horarios.............. $ 700.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De las pólizas de seguros.............. $ 700.00
+I.- Del equipo ferroviario, por
 
-VI.- Por modificación de la inscripción............... $ 700.00
+unidad $ 1,165.57 1,166.00
 
-VII.- Por cancelación de la inscripción............... $ 700.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Por expedición de constancias de inscripción.............. $ 250.00
+II.- De gravámenes $ 1,102.56 1,103.00
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IX.- De la infraestructura ferroviaria............. $ 824.42
+III.- De tarifas $ 1,102.56 1,103.00
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-X.- Clasificación de los servicios de transporte ferroviario............. $ 824.42
+IV.- Del reglamento interno de
+
+transporte y horarios $ 1,102.56 1,103.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- De las pólizas de seguros $ 1,102.56 1,103.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por modificación de la
+
+inscripción $ 1,102.56 1,103.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por cancelación de la
+
+nscripción $ 1,102.56 1,103.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Por expedición de constancias
+
+de inscripción $ 393.75 394.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- De la infraestructura
+
+ferroviaria $ 1,102.56 1,103.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Clasificación de los servicios
+
+de transporte ferroviario $ 1,102.56 1,103.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -5663,11 +10625,21 @@ X.- Clasificación de los servicios de transporte ferroviario............. $ 824
 
 Por el otorgamiento de concesiones o asignaciones para la prestación del servicio público de transporte ferroviario o para la construcción, operación y explotación de las vías férreas que sean vía general de comunicación, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Para la prestación del servicio público de transporte ferroviario de pasajeros o de carga:
 
-a).- Por la expedición del título $ 700.00
+a).- Por la expedición del título $ 1,102.56 1,103.00
 
-b).- Por la reposición del título $ 500.00
+b).- Por la reposición del título $ 787.55 788.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Para la construcción, operación y explotación de vías férreas, que sean vía general de comunicación:
 
@@ -5679,19 +10651,27 @@ Kilómetros 100 a 500 500
 
 kilómetros kilómetros
 
-1.- Gobiernos estatales,
+1.- Gobiernos estatales, municipios
 
-municipios y entidades
+y entidades paraestatales de la
 
-paraestatales de la
+Administración Pública Federal $ 393.75 $ 551.23 $ 708.79
 
-Administración Pública Federal $ 250.00 $ 350.00 $ 450.00
+2.- Particulares exclusivamente $ 1,732.61 $ 3,307.76 $ 4,882.93
 
-2.- Particulares exclusivamente $ 1,100.00 $ 2,100.00 $ 3,100.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por la autorización para la cesión total o parcial de derechos y obligaciones establecidos en las concesiones o permisos $ 600.00
+III.- Por la autorización para la cesión
 
-IV.- Por prórroga de la vigencia $ 700.00
+total o parcial de derechos y obligaciones
+
+establecidos en las concesiones o
+
+permisos $ 945.05 945.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por prórroga de la vigencia $ 1,102.56 1,103.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5699,7 +10679,17 @@ IV.- Por prórroga de la vigencia $ 700.00
 
 Por las autorizaciones de los servicios ferroviarios, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Manuales de sistemas de control de tránsito............. $ 3,000.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Manuales de sistemas de control
+
+de tránsito $ 4,012.26 4,012.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
 
@@ -5823,17 +10813,29 @@ I.- Manuales de sistemas de control de tránsito............. $ 3,000.00
 
 Por los servicios de permisos para la reproducción de monumentos artísticos con fines comerciales, así como los permisos de exportación temporal de dichos bienes que se soliciten a la dependencia prestadora del servicio, en los términos de la legislación aplicable, se pagará el derecho sobre monumentos artísticos, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la reproducción fotográfica, a dibujo o ilustración a cualquier escala, por pieza......... $ 6,000.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por toma de molde, por pieza……... $ 16,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO [N. DE E. REFORMADA], D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+I.- Por la reproducción fotográfica,
 
-III.- Por la expedición de permisos de exportación temporal por pieza.......... $ 210.00
+a dibujo o ilustración a cualquier
+
+escala, por pieza $ 889.69 890.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por toma de molde, por pieza $ 2,372.68 2,373.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la expedición de permisos de
+
+exportación temporal por pieza $ 23.84 24.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -5849,9 +10851,19 @@ Asimismo, no se pagará el derecho a que se refiere este artículo por los permi
 
 Por los servicios de expedición de cédula individual de registro de objeto, permisos y dictámenes que presta la Secretaría de Educación Pública en materia de monumentos y zonas arqueológicas, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Expedición de cédula individual de registro de objeto............. $ 5.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Expedición de cédula individual
+
+de registro de objeto $ 6.66 7.00
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones civiles, juntas vecinales y uniones de campesinos, autorizados por el Instituto Nacional de Antropología e Historia como órganos auxiliares para preservar el patrimonio cultural de la Nación; así como a dependencias y entidades de los gobiernos Federal, Estatal y Municipal.
 
@@ -5859,15 +10871,55 @@ Se exceptúa del pago de derechos previsto en esta fracción a las asociaciones 
 
 II.- Permisos:
 
-a).- De exportación de reproducciones autorizadas, cuando éstas tengan sello o marca autorizada o registrada por el Instituto Nacional de Antropología e Historia, sin límite de objetos y por cada operación....................$ 15,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De exportación de reproducción autorizada, cuando éstas carezcan de sello, marca o registro por unidad de empaque.................. 150,000.00
+a).- De exportación de
+
+reproducciones autorizadas,
+
+cuando éstas tengan sello
+
+o marca autorizada o
+
+registrada por el Instituto
+
+Nacional de Antropología
+
+e Historia, sin límite de
+
+objetos y por cada
+
+operación $ 58.63 59.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De exportación de reproducción
+
+autorizada, cuando éstas carezcan
+
+de sello, marca o registro por unidad
+
+de empaque 587.24 587.00
 
 III.- Dictámenes
 
-a) Para determinar que un objeto o lote es reproducción, por unidad o empaque hasta veinticinco objetos………… $ 300.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b) Para establecer delimitación de inmuebles privados con monumentos y zonas arqueológicas, a petición de parte………… 500.00
+a) Para determinar que un objeto o lote
+
+es reproducción, por unidad o empaque
+
+hasta veinticinco objetos $ 88.71 89.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b) Para establecer delimitación de
+
+inmuebles privados con monumentos
+
+y zonas arqueológicas, a petición de
+
+parte 148.14 148.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -5875,13 +10927,25 @@ b) Para establecer delimitación de inmuebles privados con monumentos y zonas ar
 
 Por los servicios de permisos para la reproducción de monumentos arqueológicos e históricos muebles e inmuebles, se pagarán derechos sin límite de reproducciones; por cada monumento autorizado:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Reproducción fiel del monumento independientemente de la escala y materiales..... $ 250,000.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Reproducción basada en una versión libre del monumento.............. $ 500,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Reproducción fiel del monumento
+
+independientemente de la escala y
+
+materiales $ 978.80 979.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Reproducción basada en una
+
+versión libre del monumento $ 1,957.78 1,958.00
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -5899,17 +10963,37 @@ No pagarán los derechos establecidos en este artículo las autoridades e instit
 
 Por los permisos para filmación, videograbación y tomas fotográficas de monumentos arqueológicos, históricos y artísticos, museos y zonas de monumentos arqueológicos y artísticos, así como de filmación o videograbación de imágenes fotográficas de este patrimonio, se pagará el derecho de filmación y tomas fotográficas conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 A.- Filmaciones o videograbaciones:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Con fines comerciales, por día $ 100,000.00
+I.- Por día $ 5,092.80 5,093.00
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por cada 30 minutos o fracción de tiempo de filmación o videograbación, únicamente cuando se filmen o videograben imágenes fotográficas ya impresas, independientemente de los derechos por el permiso para el uso o reproducción señalados en el artículo 178-B de esta Ley $ 238.00
+II.- Por cada 30 minutos o fracción de
+
+tiempo de filmación o videograbación,
+
+únicamente cuando se filmen o videograben
+
+imágenes fotográficas ya impresas,
+
+independientemente de los derechos
+
+por el permiso para el uso o reproducción
+
+señalados en el artículo 178-B de esta
+
+Ley $ 318.27 318.00
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5919,9 +11003,15 @@ III.- Las instituciones públicas dedicadas a la promoción, enseñanza o invest
 
 B.- Tomas fotográficas.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Por día en zona arqueológica, museo, o monumento del patrimonio nacional bajo custodia de los institutos citados $ 1,903.96
+I.- Por día en zona arqueológica,
+
+museo, o monumento del patrimonio
+
+nacional bajo custodia de los institutos
+
+citados $ 2,546.38 2,546.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -5939,9 +11029,29 @@ No pagarán los derechos establecidos en este artículo, las autoridades e insti
 
 Por los permisos para uso o reproducción por fotografía impresa o en soporte digital, de fotografías a cargo de los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, para fines sancionados por las autoridades competentes de los mismos institutos, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Instituciones públicas dedicadas a la promoción, enseñanza o investigación de la cultura, la ciencia o el arte, por fotografía............. $ 117.05
+1er. Trimestre 1er. trimestre
 
-II.- Para instituciones o personas distintas de las señaladas en la fracción anterior, por fotografía............. $ 175.59
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Instituciones públicas dedicadas
+
+a la promoción, enseñanza o
+
+investigación de la cultura, la ciencia
+
+o el arte, por fotografía $ 156.52 157.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para instituciones o personas
+
+distintas de las señaladas en la
+
+fracción anterior, por fotografía $ 234.81 235.00
 
 III.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -5953,53 +11063,181 @@ No pagarán los derechos establecidos en este artículo las autoridades e instit
 
 Por los servicios de registro, permisos y dictámenes que prestan los Institutos Nacionales de Antropología e Historia o de Bellas Artes y Literatura en materia de monumentos y zonas históricas y artísticas, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Del Registro Público de Monumentos y Zonas Históricas y Artísticas:
 
-a).- Inscripción de bien inmueble de propiedad particular considerado monumento histórico o artístico y habitado por su propietario, por metro cuadrado................ $ 5,000.00
+a).- Inscripción de bien inmueble de
 
-b).- Inscripción de bien inmueble de propiedad particular considerado monumento histórico o artístico y dado en arrendamiento por metro cuadrado................ $ 5,000.00
+propiedad particular considerado
+
+monumento histórico o artístico y
+
+habitado por su propietario, por
+
+metro cuadrado $ 19.35 19.00
+
+b).- Inscripción de bien inmueble
+
+de propiedad particular considerado
+
+monumento histórico o artístico y
+
+dado en arrendamiento por metro
+
+cuadrado $ 19.35 19.00
 
 c).- Inscripción de bien inmueble de propiedad particular considerado monumento histórico o artístico, cuando el área total del terreno donde se encuentre ubicado el inmueble sea mayor al área construida en planta baja:
 
-1.- Por áreas sin construir, por metro cuadrado.................. $ 2,000.00
+1.- Por áreas sin construir, por metro
 
-2.- Por área construida la cuota establecida en los incisos a) y b).
+cuadrado $ 7.62 8.00
 
-d).- Inscripción de bien inmueble de propiedad particular que se encuentra ubicado dentro de la zona de monumentos históricos o artísticos, por metro cuadrado.................. $ 2,000.00
+2.- Por área construida establecida en los incisos a) y b).
 
-e).- Inscripción de bien inmueble de propiedad particular ubicado fuera de la zona de monumentos históricos o artísticos con posibilidad de catalogarse por su interés histórico o artístico, por metro cuadrado............... $ 2,000.00
+d).- Inscripción de bien inmueble de
+
+propiedad particular que se encuentra
+
+ubicado dentro de la zona de
+
+monumentos históricos o artísticos,
+
+por metro cuadrado $ 7.62 8.00
+
+e).- Inscripción de bien inmueble de
+
+propiedad particular ubicado fuera de
+
+la zona de monumentos históricos o
+
+artísticos con posibilidad de catalogarse
+
+por su interés histórico o artístico, por
+
+metro cuadrado $ 7.62 8.00
 
 f).- Inscripción de bienes inmuebles a que se refieren los incisos anteriores que requieran el servicio de elaboración de planos de localización y arquitectónicos, a solicitud de particular, además del pago de la cuota por inscripción:
 
-1.- Levantamiento y dibujo de planos en el Distrito Federal, por metro cuadrado............ $ 2,000.00
+1.- Levantamiento y dibujo de planos
 
-2.- Levantamiento y dibujo de planos cuando el inmueble se encuentre fuera del Distrito Federal, por metro cuadrado................ $ 2,000.00
+en el Distrito Federal, por metro
 
-3.- Levantamiento y dibujo de planos en el Distrito Federal de una zona de monumentos históricos o artísticos incluyendo los inmuebles que se encuentren en la misma, por metro cuadrado............... $ 2,000.00
+cuadrado $ 7.62 8.00
 
-4.- Levantamiento y dibujo de planos en el Distrito Federal, de fachadas colindantes a la calle de los inmuebles ubicados dentro de una zona de monumentos históricos o artísticos, por metro cuadrado................ $ 7,000.00
+2.- Levantamiento y dibujo de planos
 
-5.- Calca de planos de un inmueble para su registro proporcionados por el propietario, por cada plano............... $ 45,500.00
+cuando el inmueble se encuentre fuera
 
-g).- Inscripción de bien inmueble considerado monumento histórico o artístico............ $ 25,000.00
+del Distrito Federal, por metro
 
-h).- Inscripción de bien mueble considerado monumento histórico o artístico............... $ 15,000.00
+cuadrado $ 7.62 8.00
 
-i).- Constancia o certificado de inscripción de bien inmueble............... $ 6,000.00
+3.- Levantamiento y dibujo de planos
 
-j).- Constancia o certificado de inscripción de bien mueble o de colección............. $ 6,000.00
+en el Distrito Federal de una zona
+
+de monumentos históricos o artísticos
+
+incluyendo los inmuebles que se
+
+encuentren en la misma, por metro
+
+cuadrado $ 7.62 8.00
+
+4.- Levantamiento y dibujo de planos
+
+en el Distrito Federal, de fachadas
+
+colindantes a la calle de los
+
+inmuebles ubicados dentro de una
+
+zona de monumentos históricos o
+
+artísticos, por metro cuadrado $ 27.25 27.00
+
+5.- Calca de planos de un inmueble
+
+para su registro proporcionados por el
+
+propietario, por cada plano $ 177.99 178.00
+
+g).- Inscripción de bien inmueble
+
+considerado monumento histórico
+
+o artístico $ 97.77 98.00
+
+h).- Inscripción de bien mueble
+
+considerado monumento histórico
+
+o artístico $ 58.63 59.00
+
+i).- Constancia o certificado de
+
+inscripción de bien inmueble $ 23.32 23.00
+
+j).- Constancia o certificado de
+
+inscripción de bien mueble o de
+
+colección $ 23.32 23.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Permisos.
 
-a).- De exportación temporal para exhibición autorizada de naturaleza no comercial y con fines de difusión hasta por seis meses independientemente de la prima de seguro o garantía que proceda por el valor del monumento histórico o artístico................ $ 50,000.00
+a).- De exportación temporal
+
+para exhibición autorizada de
+
+naturaleza no comercial y con
+
+fines de difusión hasta por seis
+
+meses independientemente
+
+de la prima de seguro o garantía
+
+que proceda por el valor del
+
+monumento histórico o artístico $ 195.64 196.00
 
 b).- De exportación de reproducciones a persona física o moral:
 
-1.- Cuando los objetos tengan sello, marca autorizada y registrada por los Institutos Nacionales de Antropología e Historia y de Bellas Artes y Literatura, sin límite de objetos y por cada operación................ $ 15,000.00
+1.- Cuando los objetos tengan sello,
 
-2.- Cuando carezcan de sello, marca o registro por unidad de empaque, hasta 25 objetos................ $ 150,000.00
+marca autorizada y registrada por los
 
-III.- Por el dictamen para certificar el carácter histórico o artístico de un bien mueble o inmueble................ $ 15,000.00
+Institutos Nacionales de Antropología
+
+e Historia y de Bellas Artes y Literatura,
+
+sin límite de objetos y por cada
+
+operación $ 58.63 59.00
+
+2.- Cuando carezcan de sello, marca
+
+o registro por unidad de empaque,
+
+hasta 25 objetos $ 587.24 587.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3 (sic).- Por el dictamen para certificar el
+
+carácter histórico o artístico de un bien
+
+mueble o inmueble $ 58.63 59.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6007,39 +11245,79 @@ III.- Por el dictamen para certificar el carácter histórico o artístico de un
 
 Por las autorizaciones para la realización de obras en bienes inmuebles considerado monumentos históricos o artísticos, en inmuebles colindantes a esos monumentos, en edificaciones en zonas de monumentos históricos declarados, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Autorización para la realización de obra nueva:
 
-a).- Para casa habitación y escuelas................... $ 7,200.00
+a).- Para casa habitación y
 
-b).- Para conjuntos de departamentos, la cuota del inciso anterior y además, por cada unidad.............. $ 7,200.00
+escuelas $ 28.02 28.00
 
-c).- Para conjunto de casas las cuotas de los incisos a) y b) y además, por cada unidad................... $ 36,000.00
+b).- Para conjuntos de departamentos,
 
-d).- Para edificios de oficinas o mixtos................ $ 9,000.00
+la cuota del inciso anterior y además,
 
-e).- Para edificios industriales, bodegas, talleres, fábricas o servicios de automóviles y estacionamientos................ $ 11,000.00
+por cada unidad $ 28.02 28.00
 
-f).- Para restaurantes, hoteles, hospitales, teatros y cines................. $ 11,000.00
+c).- Para conjunto de casas las
 
-g).- Para conjuntos comerciales, supermercados, cabarets y similares............. $ 18,000.00
+cuotas de los incisos a) y b) y
+
+además, por cada unidad $ 140.85 141.00
+
+d).- Para edificios de oficinas o
+
+mixtos $ 35.03 35.00
+
+e).- Para edificios industriales,
+
+bodegas, talleres, fábricas o
+
+servicios de automóviles y
+
+estacionamientos $ 42.89 43.00
+
+f).- Para restaurantes, hoteles,
+
+hospitales, teatros y cines $ 42.89 43.00
+
+g).- Para conjuntos comerciales,
+
+supermercados, cabarets y
+
+similares $ 70.26 70.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Autorización para demolición, ampliación, modificación, restauración o rehabilitación, reestructuración y prórrogas de licencia:
 
-a).- Para demolición............... $ 3,600.00
+a).- Para demolición $ 13.88 14.00
 
-b).- Para ampliación.............. $ 11,000.00
+b).- Para ampliación $ 42.89 43.00
 
-c).- Para modificación................ $ 11, 00.00
+c).- Para modificación $ 42.89 43.00
 
-d).- Cualquier caso de obra no especificado................ $ 11, 00.00
+d).- Cualquier caso de obra no
+
+especificado $ 42.89 43.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 III.-Autorización para la fijación de anuncios:
 
-a).- Adosados al muro............ $ 3,600.00
+a).- Adosados al muro $ 13.88 14.00
 
-b).- En saliente.............. $ 11,200,00
+b).- En saliente $ 43.73 44.00
 
-c).- Cualquier caso de anuncio no especificado............ $ 11,000.00
+c).- Cualquier caso de anuncio no
+
+especificado $ 42.89 43.00
 
 ###### ARTICULO 181.
 
@@ -6059,59 +11337,281 @@ c).- Cualquier caso de anuncio no especificado............ $ 11,000.00
 
 Por los servicios que se presten en materia de derechos de autor, se pagarán derechos, conforme a las siguientes cuotas:
 
-I.- Recepción, examen, estudio y, en su caso, inscripción de obra literaria o artística, o de una obra derivada o versión............. $ 70.00
+1er. Trimestre 1er. trimestre
 
-II.- Recepción, examen, estudio y, en su caso, inscripción de las características gráficas y distintivas de obras............. $ 70.00
+2000 2000
 
-III.- Recepción, examen, estudio y, en su caso, inscripción de un fonograma, videograma o un libro............. $ 70.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Búsqueda y expedición de cada constancia de antecedentes o datos del registro............. $ 40.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Recepción, examen, estudio y, en su caso, inscripción de cada convenio o contrato............. $ 400.00
+I.- Recepción, examen, estudio y,
 
-VI.- Inscripción de poderes otorgados para gestionar ante el Instituto Nacional del Derecho de Autor, cuando la representación conferida abarque todos los asuntos del mandante............. $ 400.00
+en su caso, inscripción de obra literaria
 
-VII.- Recepción, examen y estudio de cada acto, documento, convenio o contrato, que en cualquier forma confiera, modifique, transmita, grave o extinga derechos patrimoniales de autor y, en su caso, inscripción de la anotación marginal correspondiente............. $ 600.00
+o artística, o de una obra derivada o
 
-VIII.- Recepción, examen, estudio y, en su caso, inscripción de las actas, documentos, escrituras y estatutos de las sociedades de gestión colectiva............. $ 600.00
+versión $ 103.00 103.00
 
-IX.- Recepción, examen, estudio y, en su caso, inscripción de cada convenio o contrato celebrado por las sociedades de gestión colectiva............. $ 500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-X.- Inscripción de poderes especiales que se otorguen a las sociedades de gestión colectiva para el cobro de percepciones derivadas de los derechos de autor, intérprete o ejecutante............. $ 250.00
+II.- Recepción, examen, estudio y,
 
-XI.- Inscripción de los poderes que autoricen la gestión individual de derechos patrimoniales............. $ 500.00
+en su caso, inscripción de las
 
-XII.- Solicitud e inicio del procedimiento de avenencia............. $ 100.00
+características gráficas y distintivas
 
-XIII.- Presentación del escrito que dé inicio al procedimiento de infracción administrativa en materia de derechos de autor............. $ 600.00
+de obras $ 103.00 103.00
 
-XIV.- Solicitud y dictamen de reservas de derechos al uso exclusivo de títulos de publicaciones o difusiones periódicas............. $ 600.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XV.- Solicitud y dictamen de la renovación de reservas de derechos al uso exclusivo de títulos de publicaciones o difusiones periódicas............. $ 300.00
+III.- Recepción, examen, estudio y,
 
-XVI.- Solicitud y dictamen de reservas de derechos al uso exclusivo de personajes ficticios o simbólicos, personajes humanos de caracterización, nombres artísticos, denominaciones de grupos artísticos o promociones publicitarias............. $ 1,200.00
+en su caso, inscripción de un fonograma,
 
-XVII.- Solicitud y dictamen de renovación de reservas de derechos al uso exclusivo de personajes ficticios o simbólicos, personajes humanos de caracterización, nombres artísticos, denominaciones de grupos artísticos o promociones publicitarias............. $ 600.00
+videograma o un libro $ 103.00 103.00
 
-XVIII.- Solicitud de análisis y búsqueda de antecedentes de títulos, nombres, o denominaciones de publicaciones periódicas, difusiones periódicas, nombres artísticos o denominaciones de grupos artísticos............. $ 50.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XIX.- Solicitud de análisis y búsqueda de antecedentes de nombres y características de personajes humanos de caracterización, personajes ficticios o simbólicos, o promociones publicitarias............. $ 100.00
+IV.- Búsqueda y expedición de cada
 
-XX.- Solicitud y dictamen de anotaciones marginales en los expedientes de reservas de derechos............. $ 300.00
+constancia de antecedentes o datos
 
-XXI.- Otorgamiento de números relativos al Número Internacional Normalizado del Libro (ISBN)............. $ 50.00
+del registro $ 64.00 64.00
 
-XXII.- Solicitud de declaración administrativa de nulidad de reservas de derechos al uso exclusivo............. $ 600.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXIII.- Solicitud de declaración administrativa de cancelación de reservas de derechos al uso exclusivo............. $ 600.00
+V.- Recepción, examen, estudio y,
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+en su caso, inscripción de cada
 
-XXIV.- Recepción, examen, estudio y, en su caso, inscripción de la anotación marginal correspondiente, de cualquier acto o instrumento que tenga por efecto la revocación del poder otorgado previamente inscrito............. $ 652.00
+convenio o contrato $ 585.00 585.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXV.- Solicitud, dictamen y, en su caso, expedición de la autorización de apoderado para la gestión individual de derechos patrimoniales............. $ 687.00
+VI.- Inscripción de poderes otorgados
+
+para gestionar ante el Instituto
+
+Nacional del Derecho de Autor,
+
+cuando la representación conferida
+
+abarque todos los asuntos del
+
+mandante $ 585.00 585.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Recepción, examen y estudio de
+
+cada acto, documento, convenio o
+
+contrato, que en cualquier forma confiera,
+
+modifique, transmita, grave o extinga
+
+derechos patrimoniales de autor y,
+
+en su caso, inscripción de la anotación
+
+marginal correspondiente $ 877.00 877.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Recepción, examen, estudio y,
+
+en su caso, inscripción de las actas,
+
+documentos, escrituras y estatutos de
+
+las sociedades de gestión
+
+colectiva $ 877.00 877.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Recepción, examen, estudio y,
+
+en su caso, inscripción de cada convenio
+
+o contrato celebrado por las sociedades
+
+de gestión colectiva $ 776.00 776.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Inscripción de poderes especiales
+
+que se otorguen a las sociedades de
+
+gestión colectiva para el cobro de
+
+percepciones derivadas de los derechos
+
+de autor, intérprete o ejecutante $ 369.00 369.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- Inscripción de los poderes que
+
+autoricen la gestión individual de
+
+derechos patrimoniales $ 735.00 735.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- Solicitud e inicio del procedimiento
+
+de avenencia $ 148.00 148.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIII.- Presentación del escrito que dé
+
+inicio al procedimiento de infracción
+
+administrativa en materia de derechos
+
+de autor $ 882.00 882.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIV.- Solicitud y dictamen de reservas
+
+de derechos al uso exclusivo de títulos
+
+de publicaciones o difusiones
+
+periódicas $ 882.00 882.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XV.- Solicitud y dictamen de la
+
+renovación de reservas de derechos
+
+al uso exclusivo de títulos de publicaciones
+
+o difusiones periódicas $ 463.00 463.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVI.- Solicitud y dictamen de reservas
+
+de derechos al uso exclusivo de
+
+personajes ficticios o simbólicos,
+
+personajes humanos de caracterización,
+
+nombres artísticos, denominaciones
+
+de grupos artísticos o promociones
+
+publicitarias $ 1,742.00 1,742.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVII.- Solicitud y dictamen de renovación
+
+de reservas de derechos al uso exclusivo
+
+de personajes ficticios o simbólicos,
+
+personajes humanos de caracterización,
+
+nombres artísticos, denominaciones
+
+de grupos artísticos o promociones
+
+publicitarias $ 911.00 911.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVIII.- Solicitud de análisis y búsqueda
+
+de antecedentes de títulos, nombres,
+
+o denominaciones de publicaciones
+
+periódicas, difusiones periódicas,
+
+nombres artísticos o denominaciones
+
+de grupos artísticos $ 85.00 85.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIX.- Solicitud de análisis y búsqueda
+
+de antecedentes de nombres y
+
+características de personajes humanos
+
+de caracterización, personajes ficticios
+
+o simbólicos, o promociones
+
+publicitarias $ 150.00 150.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XX.- Solicitud y dictamen de anotaciones
+
+marginales en los expedientes de reservas
+
+de derechos $ 463.00 463.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXI.- Otorgamiento de números relativos
+
+al Número Internacional Normalizado
+
+del Libro (ISBN $ 75.00 75.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXII.- Solicitud de declaración administrativa
+
+de nulidad de reservas de derechos al
+
+uso exclusivo $ 878.00 878.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXIII.- Solicitud de declaración
+
+administrativa de cancelación de
+
+reservas de derechos al uso
+
+exclusivo $ 879.00 879.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXIV.- Recepción, examen, estudio y,
+
+en su caso, inscripción de la anotación
+
+marginal correspondiente, de cualquier
+
+acto o instrumento que tenga por efecto
+
+la revocación del poder otorgado
+
+previamente inscrito $ 819.00 819.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXV.- Solicitud, dictamen y, en su
+
+caso, expedición de la autorización
+
+de apoderado para la gestión individual
+
+de derechos patrimoniales $ 863.00 863.00
 
 No se pagará el derecho por registro de obras a que se refiere este artículo, cuando se trate de libros de texto editados por la Federación, las entidades federativas, los municipios o por sus organismos descentralizados.
 
@@ -6125,55 +11625,123 @@ Para los efectos de la aplicación de lo señalado en la fracción V de este art
 
 Por los servicios que presta la Secretaría de Educación Pública, en materia de registro y ejercicio profesional, se pagará el derecho de registro y ejercicio profesional conforme a las siguientes cuotas:
 
-I.- Registro de colegio de profesionistas.......... $ 25,000.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+2000 2000
 
-II.- Registro de establecimiento educativo legalmente autorizado para expedir títulos profesionales, diplomas de especialidad o grados académicos............. $ 1,747.45
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Revalidación de título profesional, de diploma de especialidad y de grado académico............. $ 349.44
+I.- Registro de colegio de
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+profesionistas $ 3,992.73 3,993.00
 
-IV.- Registro de título profesional, de diploma de especialidad y de grado académico.... $ 174.70
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+II.- Registro de establecimiento
 
-V.- Expedición de autorización para el ejercicio de una especialidad............. $ 175.13
+educativo legalmente autorizado
 
-VI.- Expedición de autorización para constituir un colegio de profesionistas.......... 2,500.00
+para expedir títulos profesionales,
 
-VII.- Enmiendas al registro profesional:
+diplomas de especialidad o grados
 
-a).- En relación con colegios de profesionistas........... $2,500.00
+académicos $ 3,992.73 3,993.00
 
-b).- En relación con establecimiento educativo.......... 2,500.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-c).- En relación con título profesional o grado académico........... 500.00
+III.- Revalidación de título profesional,
 
-d).- Inscripción de asociado a un colegio de profesionistas que no figuren en el registro original......... 100.00
+de diploma de especialidad y de grado
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+académico $ 798.36 798.00
 
-VIII.- Expedición de duplicado de cédula o de autorización para el ejercicio de una especialidad............. $ 70.19
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+IV.- Registro de título profesional,
 
-IX.- Expedición de cédula profesional con efectos de patente o de cédula de grado académico............. $ 69.84
+de diploma de especialidad y de grado
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+académico $ 399.10 399.00
 
-X.- Expedición de autorización provisional para ejercer por estar el título profesional en trámite o para ejercer como pasante............. $ 69.84
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+V.- Expedición de autorización para
 
-XI.- Consultas de archivo………… N$ 23.00
+el ejercicio de una especialidad $ 400.09 400.00
 
-> <small>(ADICIONADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XII.- Constancias de antecedentes profesionales………… N$ 50.00
+VI.- Expedición de autorización
+
+para constituir un colegio de
+
+profesionistas $ 399.11 399.00
+
+VIII (sic).- Enmiendas al registro profesional:
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- En relación con colegios de
+
+profesionistas $ 399.11 399.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- En relación con establecimiento
+
+educativo $ 79.66 80.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- En relación con título profesional
+
+o grado académico $ 15.75 16.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Inscripción de asociado a un
+
+colegio de profesionistas que no
+
+figuren en el registro original $ 160.29 160.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII (sic).- Expedición de duplicado de
+
+cédula o de autorización para el
+
+ejercicio de una especialidad $ 399.11 399.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Expedición de cédula profesional
+
+con efectos de patente o de cédula
+
+de grado académico $ 159.50 159.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Expedición de autorización
+
+provisional para ejercer por estar
+
+el título profesional en trámite o para
+
+ejercer como pasante $ 159.50 159.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- Consultas de archivo $ 72.81 73.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- Constancias de antecedentes
+
+profesionales $ 158.52 159.00
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -6183,83 +11751,115 @@ XII.- Constancias de antecedentes profesionales………… N$ 50.00
 
 Por los siguientes servicios que presta la Secretaría de Educación Pública, se pagará el derecho de educación conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-I.- Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior............. $ 1,423.10
+I.- Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de tipo superior $ 1,423.10
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad............. $ 367.28
+a) 4,500.00 4,500.00 (sic)
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles de preescolar y medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad............. $ 367.28
+b) 1,945.00 1,945.00 (sic)
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por solicitud, estudio y resolución
+
+del trámite de autorización para imparti
+
+educación primaria, secundaria, normal
+
+y demás para la formación de maestros,
+
+sea cual fuere la modalidad $ 491.18 491.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por solicitud, estudio y resolución
+
+del trámite de reconocimiento de validez
+
+oficial de estudios de los niveles de
+
+preescolar y medio superior o equivalente
+
+y de formación para el trabajo, sea cual
+
+fuere la modalidad $ 491.18 491.00
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
-IV.- Acreditación y certificación a estudiantes de preparatoria abierta, por examen.......... $200.00
+IV.- Acreditación y certificación a
+
+estudiantes de preparatoria abierta,
+
+por examen $200.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 V.- Exámenes profesionales o de grado:
 
-a) De tipo superior.............. 500.00
+a) De tipo superior $ 97.59 98.00
 
-b) De tipo medio............. 250.00
+b) De tipo medio $ 49.00 49.00
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VI.- Exámenes a título de suficiencia, por materia:
 
-a) De educación primaria............ 100.00
+a) De educación primaria $ 19.33 19.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+b).- De tipo medio $ 11.00 11.00
 
-b).- De tipo medio............. $ 5.00
+c).- De tipo superior $ 36.00 36.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+d).- Del Instituto Nacional de Bellas
 
-c).- De tipo superior............. $ 15.80
+Artes y Literatura $ 47.00 47.00
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+e).- Del tipo medio superior en el Sistema Abierto de Educación Tecnológica Agropecuaria, por cada módulo $ 36.08 36.00
 
-d).- Del Instituto Nacional de Bellas Artes y Literatura.............. $ 20.80
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-e).- Del tipo medio superior en el Sistema Abierto de Educación Tecnológica Agropecuaria, por cada módulo............. $ 27.00
-
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VII.- Exámenes extraordinarios, por materia:
 
-a).- De tipo medio............. $ 4.16
+a).- De tipo medio $ 9.00 9.00
 
-b).- De tipo superior............. $ 15.80
+b).- De tipo superior $ 36.02 36.00
 
-c).- Del Instituto Nacional de Bellas Artes y Literatura.............. $ 12.50
+c).- Del Instituto Nacional de Bellas
+
+Artes y Literatura $ 28.48 28.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VIII.- Otorgamiento de diploma, título o grado:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- De tipo superior $ 94.96 95.00
 
-a).- De tipo superior............. $ 41.60
+b).- De tipo medio $ 23.00 23.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+c).- De capacitación para el trabajo
 
-b).- De tipo medio............. $ 10.00
-
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
-
-c).- De capacitación para el trabajo industrial…………. N$ 5.00
+industrial $ 15.73 16.00
 
 > <small>(F. DE E., D.O.F. 21 DE MAYO DE 1982)</small>
 
 IX.- Acreditación y certificación de conocimientos de tipo elemental:
 
-a) Completo........... 100.00
+a) Completo 100.00
 
-b) Por área............ 25.00
+b) Por área 25.00
 
-c) Por grado........... 15.00
+c) Por grado 15.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -6267,127 +11867,131 @@ X.- Por la solicitud de acreditación y certificación de conocimientos, por cad
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-a).- Secundaria.............. $ 90.00
+a).- Secundaria $ 90.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
-b).- Tipo medio-superior y superior............... $ 90.00
+b).- Tipo medio-superior y superior $ 90.00
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-c).- Competencia ocupacional en capacitación para el trabajo industrial………… N$ 86.00
+c).- Competencia ocupacional en
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+capacitación para el trabajo
+
+industrial N$ 86.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XI.- Expedición de duplicado de certificados de estudio:
 
-a).- De tipo medio............. $ 10.00
+a).- De tipo medio $ 23.00 23.00
 
-b).- De tipo superior............. $ 31.60
+b).- De tipo superior $ 72.14 72.00
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XII.- Por solicitud de revalidación de estudios:
 
-a).- De educación básica.............. $ 10.00
+a).- De educación básica $ 15.72 16.00
 
-b).- De educación media-superior............... $ 100.00
+b).- De educación media-superior $ 157.48 157.00
 
-c).- De educación superior.............. $ 300.00
+c).- De educación superior $ 472.51 473.00
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XIII.- Revisión de certificados de estudio, por grado escolar:
 
-a).- De tipo medio............. $ 2.50
+a).- De tipo medio $ 6.00 6.00
 
-b).- De tipo superior............. $ 8.30
+b).- De tipo superior $ 18.91 19.00
 
-c).- Del Instituto Nacional de Bellas Artes y Literatura............... $ 8.30
+c).- Del Instituto Nacional de Bellas
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+Artes y Literatura $ 18.91 19.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XIV.- Por solicitud de equivalencia de estudios:
 
-a).- De educación básica.............. $ 10.00
+a).- De educación básica $ 15.72 16.00
 
-b).- De educación media-superior............... $ 100.00
+b).- De educación media-superior $ 157.48 157.00
 
-c).- De educación superior............... $ 300.00
+c).- De educación superior $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XV.- Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+a).- De tipo superior $ 38.00 38.00
 
-a).- De tipo superior............. $ 16.60
+b).- De tipo medio $ 17.00 17.00
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-b).- De tipo medio............. $ 7.50
-
-c) De tipo elemental............ 20.00
+c) De tipo elemental $ 4.00 4.00
 
 Las escuelas de Instituciones de Asistencia Privada y las que impartan exclusivamente enseñanza especial a inválidos (minusválidos) no causarán el derecho a que se refiere esta fracción.
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVI.- Permiso provisional de práctica de locución............ $ 230.00
+XVI.- Permiso provisional de práctica
+
+de locución $ 44.78 45.00
 
 XVII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 XVIII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XIX.- Expedición de certificados de aptitud:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+a).- De locutor $ 26.01 26.00
 
-a).- De locutor.............. $ 4,300.00
+b).- De cronista o comentarista $ 53.45 53.00
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-b).- De cronista o comentarista.............. 8,800.00
-
-> <small>(REFORMADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XX.- Expedición de duplicado de certificados de aptitud:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+a).- De locutor $ 26.01 26.00
 
-a).- De locutor............... $ 4,300,00
+b).- De cronista o comentarista $ 53.45 53.00
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De cronista o comentarista............. 8,800.00
+XXI.- Consultas o constancias de
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+archivo $ 73.01 73.00
 
-XXI.- Consultas o constancias de archivo............... $ 12,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+XXII.- Cambio de carrera $ 38.87 39.00
 
-XXII.- Cambio de carrera......... $ 200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+XXIII.- Dictamen psicopedagógico
 
-XXIII.- Dictamen psicopedagógico para cambio de carrera.......... $ 300.00
+para cambio de carrera $ 58.55 59.00
 
-> <small>(ADICIONADA, D.O.F. 30 DICIEMBRE DE 1983)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XXIV.- Inscripción:
 
-a).- En curso de verano.......... $ 400.00
+a).- En curso de verano $ 78.03 78.00
 
-b).- En curso de regularización………. 400.00
+b).- En curso de regularización $ 78.03 78.00
 
-> <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+c).- Cursos de capacitación para el
 
-c).- Cursos de capacitación para el trabajo industrial………… N$ 71.00
+trabajo industrial $ 225.08 225.00
 
-> <small>(REFORMADA, D.O.F. 15 DICIEMBRE DE 1995)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXV.- Materias libres para alumnos inscritos............. $ 15.83
+XXV.- Materias libres para alumnos
+
+inscritos $ 36.09 36.00
 
 XXVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
@@ -6399,65 +12003,203 @@ XXVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1988)
 
 Por los servicios que presta el Registro Agrario Nacional, relativos a la inscripción y en su caso expedición de los documentos en que consten las operaciones originales y las modificaciones que sufra la propiedad ejidal y comunal, así como los derechos constituidos respecto de la misma, los relacionados con terrenos de colonias agrícolas y ganaderas, los que se refieran a la constitución de sociedades rurales y sobre propiedades agrícolas, ganaderas o forestales de las sociedades mercantiles y civiles; así como asistencia técnica y catastral, y demás servicios, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 A.- Por la inscripción de:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Documentos públicos o privados por virtud de los cuales se reconozcan, creen, modifiquen, transmitan o extingan derechos sobre tierras ejidales o comunales, siempre que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 114.00
+I.- Documentos públicos o privados por
 
-II.- Cancelación o rectificación de las inscripciones............. $ 17.72
+virtud de los cuales se reconozcan,
 
-III.- Acuerdo de asamblea que apruebe la Adopción de Dominio Pleno de Colonias, que no provengan del Programa de Regularización............. $ 22.16
+creen, modifiquen, transmitan o
 
-IV.- Otorgamiento del usufructo de las tierras de uso común o parceladas, como garantía para respaldar el cumplimiento de los contratos refaccionarios, de habilitación o avío o cualquier otro acto u obligación............. $ 17.72
+extingan derechos sobre tierras ejidales
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+o comunales, siempre que no
 
-V.- Documentos públicos o privados por los que se constituyan, modifiquen, liquiden, o extingan sociedades de solidaridad social, uniones de ejidos, sociedades de producción rural, asociaciones rurales de interés colectivo, así como cualquiera otra forma asociativa que constituyan los ejidatarios, comuneros o pequeños propietarios conforme a la Ley Agraria, incluidas las relativas a la explotación de parcelas con destino específico y sus modificaciones............. $ 52.00
+provengan del Programa de Certificación
 
-VI.- Conversión del régimen de dominio pleno al ejidal............. $ 99.88
+de Derechos Ejidales y Titulación de
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Solares $ 130.17 130.00
 
-VII.- Planos generales e internos, así como los de las grandes áreas de ejidos y comunidades que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 26.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Acuerdo de asamblea a que se refieren las fracciones I a VI y XV del artículo 23 de la Ley Agraria, así como su modificación, por cada uno............. $ 22.16
+II.- Cancelación o rectificación de
 
-IX.- Acuerdo de asamblea que apruebe la aportación de tierras de uso común a una sociedad civil o mercantil............. $ 99.88
+las inscripciones $ 23.67 24.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+III.- Acuerdo de asamblea que apruebe
 
-X.- Documentos públicos o privados por los que se constituyan sociedades civiles o mercantiles, emisoras o tenedoras de acciones o partes sociales serie “T”, así como aquellos que hagan constar el aumento o disminución del capital y la emisión de acciones o partes sociales de la serie “T”, la adquisición o enajenación de predios rústicos, modificaciones al contrato social, así como su liquidación y extinción............. $ 117.00
+la Adopción de Dominio Pleno de Colonias,
 
-XI.- Acuerdo de Asamblea que apruebe la adopción del dominio pleno en tierras ejidales........... $ 22.16
+que no provengan del Programa de
 
-XII.- Escritura constitutiva de un nuevo ejido............. $ 99.88
+Regularización $ 22.16
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a) 30.00 30.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b) 63.00 63.00 (sic)
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Otorgamiento del usufructo de las
+
+tierras de uso común o parceladas, como
+
+garantía para respaldar el cumplimiento
+
+de los contratos refaccionarios, de
+
+habilitación o avío o cualquier otro acto
+
+u obligación $ 23.67 24.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Documentos públicos o privados por
+
+los que se constituyan, modifiquen, liquiden,
+
+o extingan sociedades de solidaridad social,
+
+uniones de ejidos, sociedades de producción
+
+rural, asociaciones rurales de interés colectivo,
+
+así como cualquiera otra forma asociativa
+
+que constituyan los ejidatarios, comuneros
+
+o pequeños propietarios conforme a la
+
+Ley Agraria, incluidas las relativas a la
+
+explotación de parcelas con destino
+
+específico y sus modificaciones $ 59.37 59.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Conversión del régimen de dominio
+
+pleno al ejidal $ 133.56 134.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Planos generales e internos,
+
+así como los de las grandes áreas de
+
+ejidos y comunidades que no
+
+provengan del Programa de
+
+Certificación de Derechos Ejidales
+
+y Titulación de Solares $ 29.68 30.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Acuerdo de asamblea a que se
+
+refieren las fracciones I a VI y XV del
+
+artículo 23 de la Ley Agraria, así como
+
+su modificación, por cada uno $ 29.60 30.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Acuerdo de asamblea que apruebe la aportación de tierras de uso común a una sociedad civil o mercantil $ 63.00 63.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Documentos públicos o privados por los que se constituyan sociedades civiles o mercantiles, emisoras o tenedoras de acciones o partes sociales serie “T”, así como aquellos que hagan constar el aumento o disminución del capital y la emisión de acciones o partes sociales de la serie “T”, la adquisición o enajenación de predios rústicos, modificaciones al contrato social, así como su liquidación y extinción $ 133.60 134.00
+
+XI.- Acuerdo de Asamblea que apruebe
+
+la adopción del dominio pleno en tierras
+
+ejidales $ 22.16
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- Escritura constitutiva de un nuevo
+
+ejido $ 133.56 134.00
 
 B.- Por la expedición de los siguientes certificados y títulos de propiedad:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Certificados y títulos de propiedad por actos jurídicos que no provengan del Programa de Certificación de Derechos Ejidales y Titulación de Solares............. $ 52.00
+I.- Certificados y títulos de propiedad
 
-II.- Títulos de dominio pleno de colonias, siempre y cuando no provengan del Programa de Regularización de Colonias............. $ 44.39
+por actos jurídicos que no provengan
+
+del Programa de Certificación de
+
+Derechos Ejidales y Titulación de
+
+Solares $ 59.37 59.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Títulos de dominio pleno de colonias,
+
+siempre y cuando no provengan del
+
+Programa de Regularización de
+
+Colonias $ 59.34 59.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- 113.00 113.00 (sic)
 
 C.- Por la reposición de:
 
-I.- Certificados parcelarios o de derechos sobre tierras de uso común; así como de certificados de derechos agrarios expedidos por resolución jurisdiccional............. $ 44.39
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Certificados parcelarios o de derechos
+
+sobre tierras de uso común; así como
+
+de certificados de derechos agrarios
+
+expedidos por resolución
+
+jurisdiccional $ 59.34 59.00
 
 D.- Por la expedición de otros documentos:
 
-I.- Constancias............. $ 44.39.
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Constancias $ 59.34 59.00
 
 No se pagará el derecho establecido en esta fracción por la expedición de constancias que sean solicitadas por la Federación, estados y municipios y por las organizaciones campesinas, en este último caso, cuando acrediten que actúan en representación legal de los núcleos de población o de sus integrantes.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Oficios informativos sobre ubicación de predios............. $ 68.00
+II.- Oficios informativos sobre
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+ubicación de predios $ 77.65 78.00
 
-III.- Listado de ejidatarios o comuneros con derechos vigentes............. $ 100.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Listado de ejidatarios o comuneros
+
+con derechos vigentes $ 114.18 114.00
 
 E.- Por la asistencia técnica y catastral:
 
@@ -6465,35 +12207,85 @@ E.- Por la asistencia técnica y catastral:
 
 I.- Trabajos de campo, topográficos o fotogramétricos que no correspondan al Programa de Certificación de Derechos Ejidales y Titulación de Solares, o del Programa de Regularización de Colonias.
 
-a).- De 0.1 a 10 hectáreas............. $ 250.00 por hectárea.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De 10.1 a 50 hectáreas............. $ 220.00 por hectárea.
+a).- De 0.1 a 10 hectáreas $ 334.33 por hectárea
 
-c).- De 50.1 a 100 hectáreas............. $ 180.00 por hectárea.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-d).- De 100.1 a 500 hectáreas............. $ 150.00 por hectárea.
+b).- De 10.1 a 50 hectáreas $ 294.20 por hectárea
 
-e).- De 500.1 a 1,500 hectáreas............. $ 90.00 por hectárea.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-f).- De 1,500.1 a 10,000 hectáreas............. $ 60.00 por hectárea.
+c).- De 50.1 a 100 hectáreas $ 240.70 por hectárea
 
-g).- De 10,000.1 y más hectáreas............. $ 30.00 por hectárea.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Carta Catastral, en términos del artículo 98 del Reglamento Interior del Registro Agrario Nacional, por cada uno............. $ 44.39
+d).- De 100.1 a 500 hectáreas $ 200.58 por hectárea
 
-III.- Listados prediales referenciados a carta catastral, por hoja tamaño carta u oficio, por cada una............. $ 22.16.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- De 500.1 a 1,500 hectáreas $ 120.33 por hectárea
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- De 1,500.1 a 10,000 hectáreas $ 80.20 por hectárea
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+g).- De 10,000.1 y más hectáreas $ 40.09 por hectárea
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Carta Catastral, en términos del
+
+artículo 98 del Reglamento Interior del
+
+Registro Agrario Nacional, por cada
+
+uno $ 59.34 59.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Listados prediales referenciados
+
+a carta catastral, por hoja tamaño carta
+
+u oficio, por cada una $ 29.60 30.00
 
 F.- Por otros servicios:
 
-I.- Por el depósito de lista de sucesión y expedición de la constancia correspondiente...... $ 13.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por la apertura de lista de sucesión............. $ 13.00
+I.- Por el depósito de lista de sucesión
 
-III.- Por las anotaciones preventivas, su rectificación o cancelación............. $ 22.16.
+y expedición de la constancia
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+correspondiente $ 17.34 17.00
 
-IV.- Búsqueda, compulsa, y en su caso, expedición de la certificación de expediente relativo a acción agraria, por cada hoja tamaño carta u oficio............. $20.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la apertura de lista de
+
+sucesión $ 17.34 17.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por las anotaciones preventivas,
+
+su rectificación o cancelación $ 29.60 30.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Búsqueda, compulsa, y en su
+
+caso, expedición de la certificación
+
+de expediente relativo a acción
+
+agraria, por cada hoja tamaño carta
+
+u oficio $22.82 23.00
 
 No se pagará el derecho establecido en esta fracción cuando el servicio sea solicitado por la Federación, el Distrito Federal, Estados y Municipios en relación con asuntos oficiales y de su competencia, siempre que esta solicitud no derive de la petición de un particular. Tampoco se pagará este derecho cuando se trate de la expedición de copias certificadas para la substanciación del juicio de amparo.
 
@@ -6537,41 +12329,161 @@ No se pagará el derecho establecido en esta fracción cuando el servicio sea so
 
 Por los servicios que se prestan en relación con bienes inmuebles de la Federación, se pagará el derecho de Registro Público de la Propiedad Federal conforme a las siguientes cuotas:
 
-I.- Inscripción de enajenaciones de inmuebles federales en favor de particulares............. $ 124.16
+1er. Trimestre 1er. trimestre
 
-II.- Inscripción de enajenaciones de inmuebles federales a particulares con reserva de dominio o garantía hipotecaria en favor del Gobierno Federal............. $ 124.16
+2000 2000
 
-III.- Inscripción de demandas entabladas por particulares relacionadas con bienes inmuebles federales............. $ 124.16
+cuota sin ajuste cuota con ajuste
 
-IV.- Inscripción de las resoluciones judiciales o de árbitros o arbitradores que produzcan derechos en favor de particulares relacionadas con bienes inmuebles federales............. $ 124.16
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por calificación de documentos que se devuelven sin registrar por carencia u omisión de requisitos, impedimento legal o a petición del interesado............. $ 61.52
+I.- Inscripción de enajenaciones de
 
-VI.- Cancelación de hipotecas otorgadas en favor del Gobierno Federal una vez que se ha cubierto el adeudo que dio origen a la garantía hipotecaria............. $ 86.17
+inmuebles federales en favor de
 
-VII.- Cancelación de la reserva de dominio del Gobierno Federal una vez que se ha cubierto el pago del inmueble del cual la Federación se reservó el dominio............. $ 86.17
+particulares $ 283.69 284.00
 
-VIII.- Cancelación en el Registro Público mencionado de inmuebles que no tengan la característica de bien del dominio público............. $ 86.17
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IX.- Expedición de certificados de libertad o existencia de gravámenes............. $ 61.52
+II.- Inscripción de enajenaciones de
 
-X.- Expedición de certificados de inscripción de propiedad federal............. $ 102.62
+inmuebles federales a particulares
 
-XI.- Expedición de certificados de no inscripción federal......... $ 102.62
+con reserva de dominio o garantía
 
-XII.- Expedición de certificados de no propiedad federal......... $ 153.95
+hipotecaria en favor del Gobierno
 
-XIII.- Expedición de listados computarizados de los inmuebles incorporados al Sistema Nacional de Información Inmobiliaria, por hoja............. $ 5.06
+Federal $ 283.64 284.00
 
-XIV.- Expedición de copia certificada de folio real............. $ 137.84
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+III.- Inscripción de demandas entabladas
 
-XV.- Expedición de copia certificada de documento inscrito.............. $ 150.00
+por particulares relacionadas con bienes
 
-XVI.- Asiento en el folio real de modificaciones de inscripciones relativas a plazo, intereses, garantías, datos equivocados o cualquier otra que no constituya novación del contrato.... $ 50.29
+inmuebles federales $ 283.64 284.00
 
-XVII.- Otros tipos de asientos registrales en libros o en folio real que soliciten particulares............. $ 137.84
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Inscripción de las resoluciones
+
+judiciales o de árbitros o arbitradores
+
+que produzcan derechos en favor de
+
+particulares relacionadas con bienes
+
+inmuebles federales $ 283.64 284.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por calificación de documentos
+
+que se devuelven sin registrar por
+
+carencia u omisión de requisitos,
+
+impedimento legal o a petición del
+
+interesado $ 140.52 141.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Cancelación de hipotecas otorgadas
+
+en favor del Gobierno Federal una vez
+
+que se ha cubierto el adeudo que dio
+
+origen a la garantía hipotecaria $ 196.83 197.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Cancelación de la reserva de dominio
+
+del Gobierno Federal una vez que se ha
+
+cubierto el pago del inmueble del cual
+
+la Federación se reservó el
+
+dominio $ 196.83 197.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Cancelación en el Registro Público
+
+mencionado de inmuebles que no tengan
+
+la característica de bien del dominio
+
+público $ 196.83 197.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Expedición de certificados de libertad
+
+o existencia de gravámenes $ 140.52 141.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Expedición de certificados de inscripción
+
+de propiedad federal $ 234.43 234.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- Expedición de certificados de no
+
+inscripción federal $ 234.43 234.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- Expedición de certificados de no
+
+propiedad federal $ 351.68 352.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIII.- Expedición de listados computarizados
+
+de los inmuebles incorporados al Sistema
+
+Nacional de Información Inmobiliaria,
+
+por hoja $ 11.50 11.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIV.- Expedición de copia certificada
+
+de folio real $ 314.89 315.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XV.- Expedición de copia certificada
+
+de documento inscrito $ 236.23 236.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVI.- Asiento en el folio real de modificaciones
+
+de inscripciones relativas a plazo, intereses,
+
+garantías, datos equivocados o cualquier
+
+otra que no constituya novación del
+
+contrato $ 114.86 115.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVII.- Otros tipos de asientos registrales
+
+en libros o en folio real que soliciten
+
+particulares $ 314.89 315.00
 
 El pago de los derechos que establece este artículo comprende la búsqueda de antecedentes registrales y la expedición de las respectivas copias certificadas.
 
@@ -6585,23 +12497,65 @@ No pagarán los derechos a que se refieren las fracciones I, II, III, X, XIII, X
 
 Por los servicios que presta la Secretaría de Contraloría y Desarrollo Administrativo, derivado de la administración del patrimonio inmobiliario de la Federación, se pagará por cada inmueble el derecho del patrimonio inmobiliario, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por recepción y estudio de solicitudes de concesión o permiso sobre inmuebles del dominio público............. $ 1,250.00
+2000 2000
 
-II.- Por recepción y estudio de solicitudes de enajenación de inmuebles de la Federación.. $ 200.00
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por otorgamiento o prórroga de concesión o permiso sobre bienes de dominio público de la Federación............. $ 625.00
+I.- Por recepción y estudio de solicitudes
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de concesión o permiso sobre inmuebles
 
-IV.- Por recepción y estudio de solicitudes de autorización de un proyecto de construcción o ampliación de columbarios con nichos para el depósito de restos humanos áridos o cremados en templos de propiedad federal o sus anexidades............. $ 4,250.00
+del dominio público $ 1,671.76 1,672.00
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por aprobación del proyecto de construcción o ampliación de columbarios con nichos para el depósito de restos humanos áridos o cremados en templos de propiedad federal o sus anexidades............. $ 2,125.00
+II.- Por recepción y estudio de solicitudes
+
+de enajenación de inmuebles de la
+
+Federación $ 456.91 457.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por otorgamiento o prórroga de
+
+concesión o permiso sobre bienes de
+
+dominio público de la Federación $ 835.85 836.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por recepción y estudio de solicitudes
+
+de autorización de un proyecto de
+
+construcción o ampliación de columbarios
+
+con nichos para el depósito de restos
+
+humanos áridos o cremados en
+
+templos de propiedad federal o sus
+
+anexidades $ 5,684.04 5,684.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por aprobación del proyecto de
+
+construcción o ampliación de columbarios
+
+con nichos para el depósito de restos
+
+humanos áridos o cremados en templos
+
+de propiedad federal o sus
+
+anexidades $ 2,842.01 2,842.00
 
 (REUBICADA, D.O.F. 15 DE DICIEMBRE DE 1995)
 
@@ -6635,33 +12589,71 @@ En aquellos casos en que las Entidades Federativas hayan celebrado Convenio de C
 
 Por el otorgamiento de concesiones, permisos y autorizaciones para pesca, se pagará el derecho de pesca, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el otorgamiento o autorización de transferencia de concesiones para la pesca comercial.............. N$ 1,491.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el otorgamiento o autorización
+
+de transferencia de concesiones para
+
+la pesca comercial $ 5,144.45 5,144.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Por la expedición de permisos para:
 
-a).- La pesca comercial........... $ 100,000.00
+a).- La pesca comercial $ 468.98 469.00
 
-b).- Para realizar los trabajos pesqueros necesarios para fundamentar la solicitud de las concesiones de pesca comercial............. $ 60,000.00
+b).- Para realizar los trabajos pesqueros
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+necesarios para fundamentar la solicitud
 
-c).- La pesca de fomento a personas físicas o morales cuya actividad u objeto social sea la captura, comercialización o transformación de productos pesqueros.............. $ 179.00
+de las concesiones de pesca
 
-> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 1992)</small>
+comercial $ 281.30 281.00
+
+c).- La pesca de fomento a personas
+
+físicas o morales cuya actividad u objeto
+
+social sea la captura, comercialización
+
+o transformación de productos
+
+pesqueros $ 281.89 282.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 III.- Por el otorgamiento de autorizaciones para:
 
-a).- Instalar artes de pesca fija, en aguas de jurisdicción federal............ N$ 82.00
+a).- Instalar artes de pesca fija, en
 
-b).- Recolectar del medio natural reproductores, larvas, postlarvas, crías, huevos, semillas o alevines con fines de producción acuícola……....... N$ 130.00
+aguas de jurisdicción federal $ 282.79 283.00
 
-c).- La transferencia de permisos de pesca comercial............. N$ 132.00
+b).- Recolectar del medio natural
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+reproductores, larvas, postlarvas, crías,
 
-d).- Desembarcar productos pesqueros frescos, enhielados o congelados en puertos mexicanos, por embarcaciones extranjeras.............. $ 179.00
+huevos, semillas o alevines con fines
+
+de producción acuícola $ 448.42 448.00
+
+c).- La transferencia de permisos de
+
+pesca comercial $ 455.31 455.00
+
+d).- Desembarcar productos pesqueros
+
+frescos, enhielados o congelados
+
+en puertos mexicanos, por embarcaciones
+
+extranjeras $ 281.89 282.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -6679,11 +12671,29 @@ IV.- La pesca didáctica que realizan las instituciones educativas del país, re
 
 V.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 191-C.
 
-Por los permisos de excepción para pesca, por cada embarcación extranjera y por cada viaje hasta de 60 días, se pagará el derecho de pesca, conforme a la cuota de............. $ 1,601.02
+Por los
+
+permisos de excepción para
+
+pesca, por cada embarcación
+
+extranjera y por cada viaje
+
+hasta de 60 días, se pagará el
+
+derecho de pesca, conforme a
+
+la cuota de $ 2,141.22 2,141.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6691,31 +12701,75 @@ Por los permisos de excepción para pesca, por cada embarcación extranjera y po
 
 Por la expedición de permisos para embarcaciones destinadas a la pesca deportiva, se pagará el derecho de pesca, anualmente conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Embarcaciones de propiedad y uso particular:
 
-a).- Hasta 7.00 metros de eslora............. $ 190.31
+a).- Hasta 7.00 metros de eslora $ 254.50 254.00
 
-b).- De 7.01 a 9.00 metros de eslora............. $ 380.70
+b).- De 7.01 a 9.00 metros de
 
-c).- De 9.01 metros de eslora en adelante............. $ 571.09
+eslora $ 509.12 509.00
+
+c).- De 9.01 metros de eslora en
+
+adelante $ 763.76 764.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Embarcaciones de prestadores de servicios:
 
 a).- En aguas marinas:
 
-1.- De hasta 3 toneladas brutas de registro............. $ 408.28
+1.- De hasta 3 toneladas brutas de
 
-2.- De más de 3 toneladas brutas de registro............. $ 1,225.17
+registro $ 546.01 546.00
 
-b).- En aguas distintas de las marinas............. $ 408.28
+2.- De más de 3 toneladas brutas de
 
-c).- Embarcaciones extranjeras por tonelada bruta de registro o fracción............. $ 1,045.88
+registro $ 1,638.55 1,639.00
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- En aguas distintas de las
+
+marinas $ 546.01 546.00
+
+c).- Embarcaciones extranjeras por
+
+tonelada bruta de registro o
+
+fracción $ 1,398.75 1,399.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 191-E.
 
-Por la expedición de permisos individuales para efectuar la pesca deportivo-recreativa en embarcaciones y de manera subacuática, se pagará por cada permiso, el derecho de pesca, conforme a la cuota de............. $ 18.00
+Por la
+
+Expedición de permisos
+
+individuales para efectuar
+
+la pesca deportivo-recreativa
+
+en embarcaciones y de manera
+
+subacuática, se pagará por
+
+cada permiso, el derecho de
+
+pesca, conforme a la cuota de $ 24.05 24.00
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6725,13 +12779,79 @@ Por la expedición de permisos individuales para efectuar la pesca deportivo-rec
 
 Por los servicios de trámite y expedición de asignaciones, concesiones o permisos que se indican, incluyendo su posterior inscripción por parte de la Comisión Nacional del Agua en el Registro Público de Derechos de Agua, se pagará el derecho respectivo, conforme a las siguientes cuotas:
 
-I.- Por la expedición de cada título de asignación o concesión para explotar, usar o aprovechar aguas nacionales incluyendo su registro............. $ 1,289.90
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición de cada permiso de descarga de aguas residuales provenientes de procesos industriales a un cuerpo receptor, incluyendo su registro............. $ 1,766.61
+2000 2000
 
-III.- Por la expedición de cada permiso de descarga de aguas residuales, distintas a las que prevé la fracción anterior, incluyendo su registro............. $ 588.87
+cuota sin ajuste cuota con ajuste
 
-IV.- Por la autorización para modificar las características de los títulos o permisos a que se refieren las fracciones I, II y III de este artículo, respecto a la extracción o derivación, a la explotación, uso o aprovechamiento, de aguas nacionales, sustitución de usuarios, ubicación o características de las obras, punto o calidad de descarga o plazo............. $ 670.68
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición de cada título
+
+de asignación o concesión para
+
+explotar, usar o aprovechar
+
+aguas nacionales incluyendo
+
+su registro $ 1,725.13 1,725.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición de cada
+
+Permiso de descarga de aguas
+
+Residuales provenientes de
+
+procesos industriales a un
+
+cuerpo receptor, incluyendo
+
+su registro $ 2,362.68 2,363.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la expedición de cada
+
+permiso de descarga de aguas
+
+residuales, distintas a las que
+
+prevé la fracción anterior,
+
+incluyendo su registro $ 787.55 788.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la autorización para
+
+Modificar las características
+
+de los títulos o permisos
+
+a que se refieren las fracciones
+
+I, II y III de este artículo,
+
+respecto a la extracción
+
+o derivación, a la explotación,
+
+uso o aprovechamiento, de
+
+aguas nacionales,
+
+sustitución de usuarios,
+
+ubicación o
+
+características de las obras,
+
+punto o calidad de descarga
+
+o plazo $ 896.96 897.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6739,19 +12859,79 @@ IV.- Por la autorización para modificar las características de los títulos o 
 
 Por los servicios de trámite y expedición de títulos de concesión y permisos que se indican, se pagarán derechos conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por cada título de concesión para la extracción de materiales de cauces, vasos y depósitos de propiedad nacional.............. $ 640.00
+2000 2000
 
-II.- Títulos de concesión para el uso o aprovechamiento de terrenos de cauces, vasos, lagos o lagunas, así como esteros, zonas federales y demás bienes nacionales regulados por la Ley de Aguas Nacionales, por cada uno............. $ 546.80
+cuota sin ajuste cuota con ajuste
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Permiso para la construcción de obras hidráulicas destinadas a la explotación, uso o aprovechamiento de aguas nacionales o en zonas de veda y reglamentadas, para perforación de pozos para uso de aguas del subsuelo o para la construcción de obras en zona federal, por cada uno............. $ 1,955.00
+I.- Por cada título de concesión para la
 
-IV.- Por cada título de concesión para el uso o aprovechamiento de infraestructura hidráulica federal, incluyendo la prestación de los servicios respectivos............. $ 1,756.83
+extracción de materiales de cauces,
 
-V.- Por la autorización para modificar las características de los títulos o permisos a que se refieren las fracciones I a IV, respecto a la explotación, uso o aprovechamiento, sustitución de usuario, ubicación o plazo, por cada uno............. $ 670.68
+vasos y depósitos de propiedad
+
+nacional $ 730.85 731.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Títulos de concesión para el uso
+
+o aprovechamiento de terrenos de
+
+cauces, vasos, lagos o lagunas, así
+
+como esteros, zonas federales y demás
+
+bienes nacionales regulados por la Ley
+
+de Aguas Nacionales, por cada
+
+uno $ 731.27 731.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Permiso para la construcción de
+
+obras hidráulicas destinadas a la
+
+explotación, uso o aprovechamiento
+
+de aguas nacionales o en zonas de
+
+veda y reglamentadas, para perforación
+
+de pozos para uso de aguas del subsuelo
+
+o para la construcción de obras en zona
+
+federal, por cada uno $ 2,232.55 2,233.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por cada título de concesión para
+
+el uso o aprovechamiento de infraestructura
+
+hidráulica federal, incluyendo la prestación
+
+de los servicios respectivos $ 2,349.60 2,350.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por la autorización para modificar
+
+las características de los títulos o permisos
+
+a que se refieren las fracciones I a IV,
+
+respecto a la explotación, uso o
+
+aprovechamiento, sustitución de usuario,
+
+ubicación o plazo, por cada uno $ 896.96 897.00
 
 Los derechos a que se refiere este artículo, se pagarán independientemente de los que corresponden por el uso o goce de inmuebles, conforme al Título II de esta Ley.
 
@@ -6761,9 +12941,33 @@ Los derechos a que se refiere este artículo, se pagarán independientemente de 
 
 Por la expedición de los certificados siguientes, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la expedición del certificado de calidad del agua, a que se refieren las fracciones V del artículo 224 y IV del artículo 282, por cada uno............. $ 1,707.80
+1er. Trimestre 1er. trimestre
 
-II.- Por la expedición del certificado sobre el contenido de sólidos disueltos totales de aguas salobres, a que se refiere la fracción VI del artículo 224, por cada uno............. $ 1,707.80
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición del certificado de
+
+calidad del agua, a que se refieren
+
+las fracciones V del artículo 224 y IV
+
+del artículo 282, por cada uno $ 2,284.03 2,284.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la expedición del certificado
+
+sobre el contenido de sólidos disueltos
+
+totales de aguas salobres, a que se
+
+refiere la fracción VI del artículo 224,
+
+por cada uno $ 2,284.03 2,284.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6771,13 +12975,67 @@ II.- Por la expedición del certificado sobre el contenido de sólidos disueltos
 
 Por los servicios que preste el Registro Público de Derechos de Agua, a petición de parte interesada, se pagará el derecho conforme a las siguientes cuotas:
 
-I.- Por el estudio y tramitación de cada solicitud hecha por los usuarios o beneficiarios para la inscripción de la transmisión o prórroga de los títulos de concesión, asignación o permiso, en los términos de Ley, por cada uno............. $ 257.89
+1er. Trimestre 1er. trimestre
 
-II.- Por estudio y tramitación de cada solicitud de inscripción de los cambios que se efectúen en los títulos de concesión, asignación, permiso o autorización, así como de los padrones de usuarios distintos de los señalados en la fracción I de este artículo, por cada uno............. $ 64.44
+2000 2000
 
-III.- Por los servicios que preste el Registro Público por la búsqueda o acceso a la información de datos respecto de antecedentes registrales, por cada uno............. $ 128.93
+cuota sin ajuste cuota con ajuste
 
-IV.- Por la expedición de certificados o constancias de las inscripciones o documentos que obren en el Registro Público, por cada uno............. $ 64.44
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el estudio y tramitación de
+
+cada solicitud hecha por los usuarios
+
+o beneficiarios para la inscripción de
+
+la transmisión o prórroga de los títulos
+
+de concesión, asignación o permiso,
+
+en los términos de Ley, por cada
+
+uno $ 344.87 345.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por estudio y tramitación de cada
+
+solicitud de inscripción de los cambios
+
+que se efectúen en los títulos de
+
+concesión, asignación, permiso o
+
+autorización, así como de los padrones
+
+de usuarios distintos de los señalados
+
+en la fracción I de este artículo, por
+
+cada uno $ 86.16 86.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por los servicios que preste el
+
+Registro Público por la búsqueda o
+
+acceso a la información de datos
+
+respecto de antecedentes registrales,
+
+por cada uno $ 172.41 172.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la expedición de certificados
+
+o constancias de las inscripciones o
+
+documentos que obren en el Registro
+
+Público, por cada uno $ 86.16 86.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -6865,11 +13123,43 @@ Cuando se trate de áreas naturales protegidas de interés de la Federación con
 
 Los pasantes e investigadores que cuenten con permiso de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca para realizar estudios afines con las áreas a que se refiere este artículo, estarán exentos del pago del derecho correspondiente.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-B.
 
-Por pernoctar en los albergues federales instalados dentro de las áreas naturales protegidas de interés de la Federación a cargo de la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, constituidas sobre terrenos de propiedad federal, se pagará diariamente por persona el derecho de pernocta conforme a la cuota de $ 40.00.
+Por pernoctar
+
+en los albergues federales
+
+instalados dentro de las áreas
+
+naturales protegidas de interés
+
+de la Federación a cargo de la
+
+Secretaría de Medio Ambiente,
+
+Recursos Naturales y Pesca,
+
+constituidas sobre terrenos
+
+de propiedad federal,
+
+se pagará diariamente por
+
+persona el derecho de
+
+pernocta conforme a la
+
+cuota de $ 91.33 91.00
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de profesores, estudiantes, personas mayores de 65 años de edad, miembros de federaciones de excursionismo, montañismo y deportivas, que soliciten con anticipación ante la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, permiso para el acceso a los parques nacionales, pagarán el 50% del monto del derecho.
 
@@ -6879,23 +13169,39 @@ Tratándose de profesores, estudiantes, personas mayores de 65 años de edad, mi
 
 Por el otorgamiento de permisos o concesiones para el uso o aprovechamiento de las reservas de la biosfera, parques nacionales, parques marinos nacionales, reservas especiales de la biosfera, monumentos naturales y las áreas de protección de flora y fauna, se pagará el derecho de permiso o concesión de inmuebles federales, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por el otorgamiento de la concesión, anualmente............. $ 800.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por el otorgamiento de permiso, por cada uno............. $ 78.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por el otorgamiento de la
+
+concesión, anualmente $ 1,827.88 1,828.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el otorgamiento de permiso,
+
+por cada uno $ 178.14 178.00
 
 > <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 III.- Por el deslinde y levantamiento topográfico de la zona sujeta a concesión, por metro cuadrado:
 
-a).- Hasta 500 metros............. $ 100.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De 501 a 1000 metros............. $ 125.00
+a).- Hasta 500 metros $ 228.43 228.00
 
-c).- De 1001 en adelante............. $ 140.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De 501 a 1000 metros $ 285.52 286.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- De 1001 en adelante $ 319.83 320.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -6909,23 +13215,57 @@ IV.- Por el otorgamiento de permisos para prestadores de servicios turísticos, 
 
 a).- Por unidad de transporte terrestre:
 
-1.- Motorizada............. $ 83.30
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- No motorizada............. $ 16.60
+1.- Motorizada $ 190.27 190.00
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- No motorizada $ 37.87 38.00
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 b).- Por unidad de transporte acuática, subacuática o anfibia:
 
-1.- Embarcaciones hasta de 12 metros de eslora, incluyendo vehículos o aparatos sumergibles o anfibios, tablas de oleaje y sus equivalentes............. $ 142.29
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- Embarcaciones mayores de 12 metros de eslora, incluyendo vehículos o aparatos sumergibles o anfibios y sus equivalentes............. $ 2,847.29
+1.- Embarcaciones hasta de 12 metros
 
-3.- Motocicletas acuáticas y subacuáticas y demás aparatos motorizados equivalentes, diferentes a los enunciados en los numerales 1 y 2 de este inciso............. $ 200.00
+de eslora, incluyendo vehículos o
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+aparatos sumergibles o anfibios, tablas
 
-c).- Otros vehículos distintos a los señalados en los incisos anteriores................ $ 71.03
+de oleaje y sus equivalentes $ 190.27 190.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- Embarcaciones mayores de 12 metros
+
+de eslora, incluyendo vehículos o
+
+aparatos sumergibles o anfibios y sus
+
+equivalentes $ 3,808.01 3,808.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+3.- Motocicletas acuáticas y
+
+subacuáticas y demás aparatos
+
+motorizados equivalentes, diferentes
+
+a los enunciados en los numerales
+
+1 y 2 de este inciso $ 267.46 267.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Otros vehículos distintos a los
+
+señalados en los incisos
+
+anteriores $ 94.96 95.00
 
 d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
@@ -6933,15 +13273,27 @@ d).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
 V.- Permisos para filmaciones, videograbaciones y fotografías con fines comerciales:
 
-a).- Filmaciones o videogramas, por día............. $ 2,228.89
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Tomas fotográficas, por día............. $ 1,114.44
+a).- Filmaciones o videogramas,
+
+por día $ 5,092.80 5,093.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Tomas fotográficas, por día $ 2,546.36 2,546.00
 
 c).- Por fotografía publicada, indepedientemente (sic) de los derechos señalados en los incisos anteriores:
 
-1.- De 1 a 1000 ejemplares............. $ 42.80
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- De 1001 ejemplares en adelante............. $ 75.00
+1.- De 1 a 1000 ejemplares $ 97.76 98.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+2.- De 1001 ejemplares en
+
+adelante $ 171.32 171.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -6955,6 +13307,18 @@ Cuando en alguna de las áreas naturales protegidas se encuentre algún inmueble
 
 Estos derechos se pagarán independientemente de los que correspondan conforme al Título II de esta Ley.
 
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+###### ARTICULO 194-C
+
+1.- 57.00 57.00 (sic)
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 #### SECCION SEGUNDA. Inspección y Vigilancia
@@ -6965,25 +13329,99 @@ Estos derechos se pagarán independientemente de los que correspondan conforme a
 
 Por los servicios que a continuación se señalan, se pagará el derecho correspondiente, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la recepción y estudio de la solicitud para el uso, goce o aprovechamiento de las playas, de la zona federal marítimo terrestre y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas, específicamente en los casos de permisos, autorizaciones, concesiones, prórrogas de concesiones o permisos, cesión de derechos o autorización de modificaciones a las condiciones y bases del título de concesión o permisos............. $ 505.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la recepción y estudio
+
+de la solicitud para el uso,
+
+goce o aprovechamiento de las
+
+playas, de la zona federal
+
+marítimo terrestre y los terrenos
+
+ganados al mar o a cualquier
+
+otro depósito de aguas
+
+marítimas, específicamente en
+
+los casos de permisos,
+
+autorizaciones, concesiones,
+
+prórrogas de concesiones o
+
+permisos, cesión de derechos o
+
+autorización de modificaciones
+
+a las condiciones y bases del
+
+título de concesión o permisos $ 1,106.00 1,106.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- Por la verificación en campo de levantamiento topográfico presentado por el solicitante de uso o aprovechamiento de las playas, la zona federal marítimo terrestre, los terrenos ganados al mar, o a cualquier otro depósito que se forme por aguas marítimas:
 
-(VEASE ARCHIVO ANEXO)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Rango de Superficie (metros límites
+
+cuadrados)
+
+Inferior Superior Cuota fija Cuota Adicional
+
+por m2 excedente
+
+del límite inferior
+
+0.01 500.00 760.82 0.0000
+
+500.01 1,000.00 760.82 2.1308
+
+1,000.01 2,500.00 1,826.35 1.5912
+
+2,500.01 5,000.00 4,213.37 0.8617
+
+5,000.01 10,000.00 6,368.00 0.5490
+
+10,000.01 15,000.00 9,113.90 0.4223
+
+15,000.01 20,000.00 11,226.56 0.3681
+
+20,000.01 25,000.00 13,068.00 0.3186
+
+25,000.01 50,000.00 14,661.63 0.2646
+
+50,000.01 100,000.00 21,282.27 0.1465
+
+100,000.01 150,000.00 28,619.49 0.1108
+
+150,000.01 En adelante 34,169.51 0.0743
 
 A partir del límite inferior, a los m2 adicionales se les aplicará el factor correspondiente hasta llegar al límite inferior del siguiente rango.
 
-> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- Por la cesión de la concesión entre particulares............. $ 1,241.96
+III.- Por la cesión de la concesión
 
-> <small>(ADICIONADA, D.O.F. 10 DE MAYO DE 1996)</small>
+entre particulares $ 2,484.22 2,484.00
 
-IV.- Por la verificación de cumplimiento de obligaciones derivadas del título de concesión............. $ 248.34
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la verificación de cumplimiento
+
+de obligaciones derivadas del título
+
+de concesión $ 496.69 497.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -7015,13 +13453,19 @@ Cuando las playas, la zona federal marítimo terrestre, los terrenos ganados al 
 
 Por los servicios que a continuación se señalan se pagará el derecho por servicios de flora y fauna silvestres, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 A. Por el registro de:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Viveros y jardines botánicos............. $ 234.00
+I.- Viveros y jardines botánicos $ 267.20 267.00
 
 II.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -7029,33 +13473,113 @@ III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
 B. Por la expedición de permisos y, en su caso, de refrendos, anual o por temporada, así como por la expedición de certificados:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Por concepto de colecta científica de material biológico de flora y fauna silvestres, terrestres y acuáticas realizada en el país por extranjeros.............. $ 4,813.00
+I.- Por concepto de colecta científica
+
+de material biológico de flora y fauna
+
+silvestres, terrestres y acuáticas realizada
+
+en el país por extranjeros $ 7,581.15 7,581.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Las personas que realicen colecta científica en el país, bajo algún convenio con el gobierno federal o con alguna institución mexicana, así como con investigadores mexicanos registrados en el Sistema Nacional de Investigadores, no pagarán los derechos a que se refieren las fracciones I, III y IV de este apartado.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por la recepción y trámite de cada solicitud de certificados o autorizaciones relacionados con la exportación, importación o reexportación de ejemplares, productos y subproductos de especies silvestres, incluyendo las contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres de la que México forma parte, cualquiera que sea su resolución............. $ 234.00
+II.- Por la recepción y trámite de cada
 
-III.- Para colecta de material parental para su reproducción y propagación con fines comerciales en unidades de producción, de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte………….. $ 158.84
+solicitud de certificados o autorizaciones
 
-IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte…………. $ 158.84
+relacionados con la exportación,
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+importación o reexportación de ejemplares,
 
-V.- Para colecciones particulares de flora y fauna silvestres............. $ 234.00
+productos y subproductos de especies
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+silvestres, incluyendo las contenidas en
 
-VI.- Para posesión de aves de presa............. $ 234.00
+los listados de los apéndices I, II y III
+
+de la Convención sobre el Comercio
+
+Internacional de Especies Amenazadas
+
+de Fauna y Flora Silvestres de la que México
+
+forma parte, cualquiera que sea su
+
+resolución $ 267.20 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para colecta de material parental
+
+para su reproducción y propagación
+
+con fines comerciales en unidades
+
+de producción, de especies amenazadas
+
+o en peligro de extinción contenidas en
+
+los listados de los apéndices I, II y III
+
+de la Convención sobre el Comercio
+
+Internacional de Especies Amenazadas
+
+de Fauna y Flora Silvestre, de la que
+
+México forma parte $ 318.00 318.00
+
+IV.- Por trámite para colecta de material parental de especies amenazadas o en peligro de extinción contenidas en los listados de los apéndices I, II y III de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestre, de la que México forma parte $ 158.84
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Para colecciones particulares de
+
+flora y fauna silvestres $ 267.20 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Para posesión de aves de
+
+presa $ 267.20 267.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO] D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Artículo 194 F-1
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+I
+
+a) 594.00 594.00
+
+b) 267.00 267.00
+
+c) 298.00 298.00
+
+d) 178.00 178.00
+
+II
+
+a) 499.00 499.00
+
+b) 98.00 98.00
+
+c) 161.00 161.00
+
+d) 134.00 134.00 (sic)
 
 > <small>(ADICIONADO, D.O.F 10 DE MAYO DE 1996)</small>
 
@@ -7063,13 +13587,47 @@ VI.- Para posesión de aves de presa............. $ 234.00
 
 Por los estudios de flora y fauna silvestre, incluyendo su planificación, manejo y dictamen de impacto ambiental, se pagará el derecho de flora y fauna, por hectárea, conforme a las siguientes cuotas:
 
-I.- Distrito Federal, México, Morelos, Puebla, Tlaxcala, Hidalgo y Querétaro………. $ 4.72
+1er. Trimestre 1er. trimestre
 
-II.- Jalisco, Michoacán, Aguascalientes, Guanajuato, Nuevo León, San Luis Potosí y Zacatecas………… $ 6.32
+2000 2000
 
-III.- Baja California, Baja California Sur, Colima, Chihuahua, Durango, Coahuila, Sonora, Nayarit, Tamaulipas, Veracruz, Tabasco, Guerrero, Oaxaca, Chiapas, Campeche, Yucatán, Quintana Roo y Sinaloa………… $ 7.88
+cuota sin ajuste cuota con ajuste
 
-IV.- Por supervisión anual, por hectárea............. $ 2.34
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Distrito Federal, México, Morelos,
+
+Puebla, Tlaxcala, Hidalgo y
+
+Querétaro $ 9.36 9.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Jalisco, Michoacán, Aguascalientes,
+
+Guanajuato, Nuevo León, San Luis
+
+Potosí y Zacatecas $ 12.60 13.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Baja California, Baja California Sur,
+
+Colima, Chihuahua, Durango, Coahuila,
+
+Sonora, Nayarit, Tamaulipas, Veracruz,
+
+Tabasco, Guerrero, Oaxaca, Chiapas,
+
+Campeche, Yucatán, Quintana Roo y
+
+Sinaloa $ 15.72 16.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por supervisión anual, por
+
+hectárea $ 4.63 5.00
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7083,13 +13641,41 @@ Servicios Relacionados con el Agua y sus Bienes Públicos Inherentes.
 
 Por el otorgamiento de la autorización de los proyectos de obras o actividades cuya evaluación corresponda al Gobierno Federal, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-I.- Obra o actividad que requiera de informe preventivo............. $ 310.00
+1er. Trimestre 1er. trimestre
 
-II.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad general............. $ 580.00
+2000 2000
 
-III.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad intermedia............. $ 800.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Obra o actividad que requiera manifestación de impacto ambiental en su modalidad específica............. $ 860.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Obra o actividad que requiera de
+
+informe preventivo $ 353.99 354.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Obra o actividad que requiera
+
+manifestación de impacto ambiental
+
+en su modalidad general $ 662.33 662.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Obra o actividad que requiera
+
+manifestación de impacto ambiental
+
+en su modalidad intermedia $ 913.57 914.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Obra o actividad que requiera
+
+manifestación de impacto ambiental
+
+en su modalidad específica $ 982.08 982.00
 
 ###### ARTICULO 194-I.
 
@@ -7101,29 +13687,45 @@ IV.- Obra o actividad que requiera manifestación de impacto ambiental en su mod
 
 Por los servicios que a continuación se señalan, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por la recepción y evaluación del informe preventivo............. $ 2,518.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la recepción y evaluación del
+
+informe preventivo $ 2,875.48 2,875.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Por la recepción y evaluación de la manifestación de impacto ambiental:
 
-a).- En su modalidad general............. $ 4,941.00
+a).- En su modalidad general $ 5,642.50 5,642.00
 
-b).- En su modalidad intermedia............. $ 7,696.00
+b).- En su modalidad intermedia. $ 8,788.66 8,789.00
 
-c).- En su modalidad específica............. $ 10,213.00
+c).- En su modalidad específica $ 11,663.03 11,663.00
 
-III.- Por la verificación del cumplimiento de las medidas de prevención y mitigación..... $ 1,988.93
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la verificación del cumplimiento
+
+de las medidas de prevención y
+
+mitigación $ 3,978.39 3,978.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 IV.- Por la revalidación de evaluación de la autorización de impacto ambiental:
 
-a).- En su modalidad general............. $ 234.48
+a).- En su modalidad general $ 468.98 469.00
 
-b).- En su modalidad intermedia............. $ 410.39
+b).- En su modalidad intermedia $ 820.84 821.00
 
-c).- En su modalidad específica............. $ 644.94
+c).- En su modalidad específica $ 1,290.00 1,290.00
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7135,13 +13737,33 @@ Permisos para Pesca Deportiva.
 
 Por la recepción, evaluación y dictamen del programa de manejo forestal, para obtener autorización de aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima templado y frío, por volumen solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
 
-I.- Hasta 500 metros cúbicos...................E x e n t o
+1er. Trimestre 1er. trimestre
 
-II.- De más de 500 metros cúbicos hasta 1,000 metros cúbicos............. $ 266.26
+2000 2000
 
-III.- De más de 1,000 metros cúbicos hasta 5,000 metros cúbicos............. $ 399.42
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 5,000 metros cúbicos en adelante............. $ 621.38
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Hasta 500 metros cúbicos EXENTO EXENTO
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 500 metros cúbicos
+
+hasta 1,000 metros cúbicos $ 533.00 533.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 1,000 metros cúbicos
+
+hasta 5,000 metros cúbicos $ 799.00 799.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 5,000 metros cúbicos
+
+en adelante $ 1,243.00 1,243.00
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7149,13 +13771,33 @@ IV.- De más de 5,000 metros cúbicos en adelante............. $ 621.38
 
 Por la recepción, evaluación y dictamen del programa de manejo forestal para aprovechamiento de recursos forestales, forestación y reforestación de especies maderables de clima árido y semiárido, por metro cúbico solicitado para su aprovechamiento, se pagará el derecho de impacto ambiental conforme a las siguientes cuotas:
 
-I.- Hasta 500 metros cúbicos................... E x e n t o
+1er. Trimestre 1er. trimestre
 
-II.- De más de 500 metros cúbicos hasta 1,500 metros cúbicos............. $ 177.49
+2000 2000
 
-III.- De más de 1,500 metros cúbicos hasta 3,000 metros cúbicos............. $ 266.26
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 3,000 metros cúbicos en adelante............. $ 355.07
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Hasta 500 metros cúbicos EXENTO EXENTO
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 500 metros cúbicos
+
+hasta 1,500 metros cúbicos $ 354.94 355.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 1,500 metros cúbicos
+
+hasta 3,000 metros cúbicos $ 532.54 533.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 3,000 metros cúbicos
+
+en adelante $ 710.18 710.00
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7163,13 +13805,33 @@ IV.- De más de 3,000 metros cúbicos en adelante............. $ 355.07
 
 Por la recepción, evaluación y dictamen de los estudios de uso de suelo forestal y por superficie solicitada, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-I.- De más de 1 hectárea hasta 10 hectáreas............. $ 342.69
+1er. Trimestre 1er. trimestre
 
-II.- De más de 10 hectáreas hasta 50 hectáreas............. $ 742.49
+2000 2000
 
-III.- De más de 50 hectáreas hasta 200 hectáreas............. $ 1,484.99
+cuota sin ajuste cuota con ajuste
 
-IV.- De más de 200 hectáreas............. $ 2,284.60
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- De más de 1 hectárea hasta
+
+10 hectáreas $ 685.43 685.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De más de 10 hectáreas hasta
+
+50 hectáreas $ 1,485.15 1,485.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De más de 50 hectáreas hasta
+
+200 hectáreas $ 2,970.36 2,970.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De más de 200 hectáreas $ 4,569.80 4,570.00
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7177,11 +13839,31 @@ IV.- De más de 200 hectáreas............. $ 2,284.60
 
 Por la recepción, evaluación y dictamen de manifestaciones de impacto ambiental para aprovechamientos forestales de bosques y selvas tropicales y especies de difícil regeneración, así como aquéllos que determine la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, con base en lo que establecen la Ley General del Equilibrio Ecológico y la Protección al Ambiente y su Reglamento en materia de Impacto Ambiental, se pagará el derecho de impacto ambiental, conforme a las siguientes cuotas:
 
-I.- Manifestación de impacto ambiental modalidad general por un volumen mayor a 250 metros cúbicos............. $ 887.71
+1er. Trimestre 1er. trimestre
 
-II.- Manifestación de impacto ambiental modalidad intermedia............. $ 1,775.50
+2000 2000
 
-III.- Manifestación de impacto ambiental modalidad específica............. $ 2,663.23
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Manifestación de impacto ambiental
+
+modalidad general por un volumen mayor
+
+a 250 metros cúbicos $ 5,449.00 5,449.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Manifestación de impacto ambiental
+
+modalidad intermedia $ 652.00 652.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Manifestación de impacto ambiental
+
+modalidad específica $ 510.00 510.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7189,15 +13871,67 @@ III.- Manifestación de impacto ambiental modalidad específica............. $ 2
 
 1.- Por la solicitud y trámite de inscripción en el Registro Forestal Nacional y por la expedición de la constancia de asiento, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- De autorizaciones de los programas de manejo forestal.............. $ 300.00
+1er. Trimestre 1er. trimestre
 
-II.- De autorizaciones de cambio de uso de suelo.............. $ 300.00
+2000 2000
 
-III.- De centros de almacenamiento y transformación de materias primas forestales........ $ 300.00
+cuota sin ajuste cuota con ajuste
 
-IV.- De personas físicas o morales responsables de elaborar, dirigir la ejecución técnica o evaluar programas de manejo forestal.............. $ 300.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Por la modificación de las inscripciones a que se refiere este artículo se pagará la cuota de $ 150.00.
+I.- De autorizaciones de los programas
+
+de manejo forestal $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De autorizaciones de cambio de
+
+uso de suelo $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- De centros de almacenamiento y
+
+transformación de materias primas
+
+forestales $ 472.51 473.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- De personas físicas o morales
+
+responsables de elaborar, dirigir
+
+la ejecución técnica o evaluar programas
+
+de manejo forestal $ 472.51 473.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Por la modificación de las inscripciones
+
+a que se refiere este artículo se pagará
+
+la cuota de $ 236.23 236.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+###### ARTICULO 194-N
+
+2
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+I 157.00 157.00
+
+II 315.00 315.00
+
+III 236.00 236.00 (sic)
 
 > <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7209,35 +13943,161 @@ Por la modificación de las inscripciones a que se refiere este artículo se pag
 
 Por el otorgamiento de la licencia de funcionamiento a las fuentes fijas de jurisdicción federal que emitan olores, gases o partículas sólidas o líquidas a la atmósfera, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
-I.- Por la recepción y evaluación de solicitud de licencia............. $ 1,395.75
+1er. Trimestre 1er. trimestre
 
-II.- Actualización de licencia de funcionamiento por ampliación o modificación de procesos............. $ 670.40
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la recepción y evaluación
+
+de solicitud de licencia $ 2,791.85 2,792.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Actualización de licencia de
+
+funcionamiento por ampliación o
+
+modificación de procesos $ 1,341.00 1,341.00
 
 III.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1996)
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-P.
 
-Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación en centros autorizados, se pagará el derecho de prevención y control de la contaminación conforme a la cuota de………… $ 140.15
+Por los
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+servicios de verificación y
+
+certificación de equipos de
+
+medición de contaminantes
+
+de vehículos automotores
+
+en circulación en centros
+
+autorizados, se pagará el
+
+derecho de prevención y
+
+control de la contaminación
+
+conforme a la cuota de $ 280.28 280.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-Q.
 
-Por el servicio de certificación y verificación de emisiones contaminantes de vehículos automotores nuevos, a través de la prueba de laboratorio de emisiones vehiculares, por el método "CVS 75", se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota de…………… $ 4,604.93
+Por el
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+servicio de certificación y
+
+verificación de emisiones
+
+contaminantes de vehículos
+
+automotores nuevos, a
+
+través de la prueba de
+
+laboratorio de emisiones
+
+vehiculares, por el método
+
+"CVS 75", se pagará por
+
+cada prueba que se
+
+realice el derecho de
+
+prevención y control de la
+
+contaminación, conforme
+
+a la cuota de $ 9,211.17 9,211.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-R.
 
-Por el servicio de evaluación y verificación de la aplicación de métodos, procedimientos, partes, componentes y equipos que reduzcan las emisiones de contaminantes a la atmósfera generados por vehículos automotores, a través de la prueba estática de emisiones vehiculares, se pagará por cada prueba que se realice el derecho de prevención y control de la contaminación, conforme a la cuota………….. $ 47.29
+Por el
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+servicio de evaluación y
+
+verificación de la aplicación
+
+de métodos, procedimientos,
+
+partes, componentes y
+
+equipos que reduzcan las
+
+emisiones de contaminantes
+
+a la atmósfera generados
+
+por vehículos automotores,
+
+a través de la prueba estática
+
+de emisiones vehiculares, se
+
+pagará por cada prueba que
+
+se realice el derecho de
+
+prevención y control de la
+
+contaminación, conforme a la
+
+cuota $ 94.53 95.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ###### ARTICULO 194-S.
 
-Por el registro de empresas generadoras de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a la cuota de…………. $ 280.32
+Por el
+
+registro de empresas
+
+generadoras de residuos
+
+peligrosos, se pagará el
+
+derecho de prevención y
+
+control de la contaminación,
+
+conforme a la cuota de $ 23.00 23.00
 
 > <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
@@ -7245,13 +14105,81 @@ Por el registro de empresas generadoras de residuos peligrosos, se pagará el de
 
 Por el otorgamiento de la autorización en materia de residuos peligrosos, se pagará el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
 
-I.- Instalación y operación de sistemas de almacenamiento, recolección y transporte..... $ 3,426.90
+1er. Trimestre 1er. trimestre
 
-II.- Instalación y operación de sistemas de reuso, tratamiento y reciclaje........... $ 6,853.80
+2000 2000
 
-III.- Instalación y operación de sistemas de incineración y disposición final...... $ 20,561.40
+cuota sin ajuste cuota con ajuste
 
-> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Instalación y operación de sistemas
+
+de almacenamiento, recolección y
+
+transporte $ 1,863.00 1,863.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Instalación y operación de sistemas
+
+de reuso, tratamiento y reciclaje $ 1,862.00 1,862.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Instalación y operación de
+
+sistemas de incineración y
+
+disposición final $ 2,452.00 2,452.00
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- 2,452.00 2,452.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- 3,069.00 3,069.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- 24,737.00 24,737.00 (sic)
+
+(ACTUALIZADA EN SU MONTO [N. DE E. ADICIONADA], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- 40,732.00 40,732.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+ARTICULO 194 T-1
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+I 945.00 945.00
+
+II 444.00 444.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+ARTICULO 194 T-2 1,161.00 1,161.00 (sic)
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 #### SECCION QUINTA. De las Playas, la Zona Federal Marítimo Terrestre o los Terrenos Ganados al Mar o a Cualquier otro Depósito de Aguas Marítimas
 
@@ -7259,7 +14187,45 @@ III.- Instalación y operación de sistemas de incineración y disposición fina
 
 ###### ARTICULO 194-U.
 
-Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación, por cada dictamen técnico conforme a la cuota de............. $ 557.65
+Por el
+
+otorgamiento del dictamen
+
+técnico para la obtención de
+
+estímulos fiscales o créditos
+
+de organismos financieros,
+
+en las actividades relacionadas
+
+con la preservación y
+
+restauración del equilibrio
+
+ecológico y la protección al
+
+ambiente, se pagará el
+
+derecho de prevención y control
+
+de la contaminación, por cada
+
+dictamen técnico conforme a la
+
+cuota de $ 1,115.40 1,115.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I 302.00 302.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II 81.00 81.00
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III 84.00 84.00 (sic)
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7349,29 +14315,67 @@ III.- Por la expedición de cada certificado fitosanitario internacional para la
 
 Por el registro sanitario, su revisión o modificación de los productos que a continuación se señalan, se pagará por cada producto el derecho de registro sanitario, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 I.- Medicamentos alopáticos:
 
-a).- Cuyos ingredientes activos ya se encuentran registrados en México............. $ 4,936.00
+a).- Cuyos ingredientes activos ya
 
-b).- Cuyos ingredientes activos no se encuentran registrados en México, pero cuentan con registro y se venden libremente en su país de origen............. $ 5,370.00
+se encuentran registrados en
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+México $ 7,300.00 7,300.00
 
-II.- Medicamentos homeopáticos y herbolarios............. $ 2,913.00
+b).- Cuyos ingredientes activos no se
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+encuentran registrados en México,
 
-III.- Otros insumos de uso odontológico que no sean medicamentos............. $ 2,286.00
+pero cuentan con registro y se venden
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+libremente en su país de origen $ 7,300.00 7,300.00
 
-IV.- Equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación y productos higiénicos............. $ 2,102.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Productos que contengan sustancias tóxicas de alto y mediano riesgo para la salud................... $ 940,000.00
+II.- Medicamentos homeopáticos y
 
-VI.- Productos que contengan sustancias tóxicas de bajo riesgo para la salud.......... $ 188,000.00
+herbolarios $ 3,900.00 3,900.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Otros insumos de uso odontológico
+
+que no sean medicamentos $ 3,000.00 3,000.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Equipos médicos, prótesis, órtesis,
+
+ayudas funcionales, agentes de diagnóstico,
+
+materiales quirúrgicos, de curación y
+
+productos higiénicos $ 2,800.00 2,800.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Productos que contengan sustancias
+
+tóxicas de alto y mediano riesgo para la
+
+salud $ 3,680.70 3,681.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Productos que contengan
+
+sustancias tóxicas de bajo riesgo
+
+para la salud $ 735.99 736.00
 
 VII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -7389,15 +14393,43 @@ Los productos comprendidos en las fracciones I, II, III y IV que a juicio de la 
 
 Por los servicios de laboratorios que proporciona la dependencia prestadora del servicio, se pagará el derecho de laboratorio, conforme a las siguientes cuotas:
 
-I.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del tercer nivel.......... $ 20,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por el análisis de cada muestra que requiera, para su estudio de los servicios de laboratorio del segundo nivel.......... $ 10,000.00
+2000 2000
 
-III.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del primer nivel........... $ 5,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por el análisis de cada muestra que requiera, para su estudio, de los servicios de laboratorio del nivel cero............. $ 1,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+I.- Por el análisis de cada muestra que
+
+requiera, para su estudio, de los servicios
+
+de laboratorio del tercer nivel $ 496.69 497.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el análisis de cada muestra que
+
+requiera, para su estudio de los servicios
+
+de laboratorio del segundo nivel $ 248.30 248.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el análisis de cada muestra que
+
+requiera, para su estudio, de los servicios
+
+de laboratorio del primer nivel $ 124.02 124.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por el análisis de cada muestra que
+
+requiera, para su estudio, de los servicios
+
+de laboratorio del nivel cero $ 24.62 25.00
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la dependencia prestadora del servicio, determinará el nivel de los servicios de laboratorio señalados en este artículo.
 
@@ -7411,19 +14443,63 @@ La Secretaría de Hacienda y Crédito Público, oyendo la opinión de la depende
 
 Por los servicios de verificación o fomento sanitario, para evaluar o supervisar sobre las condiciones sanitarias de las actividades, productos y servicios, la aplicación de los métodos de prueba de laboratorios analíticos, procedimientos de verificación o ambos, cuando se realice a solicitud de los particulares, se pagará el derecho de verificación o fomento sanitario, conforme a las siguientes cuotas:
 
-I.- Por cada solicitud de visita de verificación sanitaria para la certificación de conformidad de buenas prácticas sanitarias con fines de exportación en establecimientos donde se procesen alimentos, bebidas no alcohólicas y alcohólicas, tabaco, productos de aseo, limpieza, perfumería y belleza, y de las materias primas y aditivos que intervengan en su elaboración.............. $ 720.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+2000 2000
 
-II.- Por cada solicitud de visita de evaluación para la autorización de las unidades de verificación, organismos de certificación, laboratorios de prueba y terceros autorizados............. $ 1,578.17
+cuota sin ajuste cuota con ajuste
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por cada solicitud de visita
+
+de verificación sanitaria para
+
+la certificación de conformidad
+
+de buenas prácticas sanitarias
+
+con fines de exportación en
+
+establecimientos donde se
+
+procesen alimentos, bebidas no
+
+alcohólicas y alcohólicas,
+
+tabaco, productos de aseo,
+
+limpieza, perfumería y belleza, y
+
+de las materias primas y aditivos
+
+que intervengan en su
+
+elaboración $ 1,134.07 1,134.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada solicitud de visita de
+
+Evaluación para la autorización
+
+de las unidades de verificación,
+
+organismos de certificación,
+
+laboratorios de prueba y terceros
+
+autorizados $ 2,110.66 2,111.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 III.- Por cada solicitud de visita de verificación para estupefacientes o psicotrópicos por:
 
-a).- Destrucción............. $ 927.00
+a).- Destrucción $ 1,058.60 1,059.00
 
-b).- Enfajillamiento, sello y lacre con fines de exportación............. $ 927.00
+b).- Enfajillamiento, sello y lacre con
+
+fines de exportación $ 1,058.60 1,059.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -7431,21 +14507,31 @@ b).- Enfajillamiento, sello y lacre con fines de exportación............. $ 927
 
 Por los estudios y análisis sanitarios que se realicen a petición de los particulares para determinar las condiciones sanitarias de las actividades, productos de los servicios, se pagará el derecho de análisis sanitarios, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 I.- Estudios sanitarios de carácter interdisciplinarios que requieren de la intervención de servicios de salud del tercer nivel.
 
-a).- De alto riesgo sanitario................$ 150,000.00
+a).- De alto riesgo sanitario $ 3,726.37 3,726.00
 
-b).- De riesgo medio sanitario............... $ 100,000.00
+b).- De riesgo medio sanitario $ 2,484.22 2,484.00
 
-c).- De riesgo bajo sanitario................ $ 50,000.00
+c).- De riesgo bajo sanitario $ 1,242.03 1,242.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Estudios sanitarios interdisciplinarios que requieran de la intervención de servicios de salud del segundo o primer nivel.
 
-a).- De alto riesgo sanitario............... $ 30,000.00
+a).- De alto riesgo sanitario $ 745.16 745.00
 
-b).- De riesgo medio sanitario.............. $ 25,000.00
+b).- De riesgo medio sanitario $ 620.87 621.00
 
-c).- De riesgo bajo sanitario............... $ 20,000.00
+c).- De riesgo bajo sanitario $ 496.69 497.00
 
 ###### ARTICULO 195-D
 
@@ -7461,43 +14547,87 @@ c).- De riesgo bajo sanitario............... $ 20,000.00
 
 Por la expedición de los certificados y dictámenes de los productos, servicios, uso y consumo de agua potable e industrial, se pagará por cada solicitud de certificado el derecho de certificados sanitarios, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Libre venta para exportación de insumos para la salud............. $ 530.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Libre venta para exportación de
+
+insumos para la salud $ 900.00 900.00
 
 II.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-III.- De transportes, de riesgo alto o medio, directo o indirecto, para la salud humana.. $ 40,000.00
+III.- De transportes, de riesgo alto
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+o medio, directo o indirecto, para la
 
-IV.- De transportes de riesgo bajo, directo o indirecto, para la salud humana…….. $ 20,000.00
+salud humana $ 993.60 994.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Sobre pozos de agua para abastecimiento privado, para determinar su calidad sanitaria……… $ 100,000.00
+IV.- De transportes de riesgo bajo,
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+directo o indirecto, para la salud
 
-VI.- Sobre la calidad sanitaria fisicoquímica y bactereológica del agua de uso y consumo humano............. $ 50,000.00
+humana $ 496.69 497.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Sobre las condiciones sanitarias de las plantas, equipos e instalaciones de tratamiento de agua de uso y consumo humano o industrial, que utilicen como fuente de abastecimiento los pozos de carácter privado............ $ 150,000.00
+V.- Sobre pozos de agua para abastecimiento
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+privado, para determinar su calidad
 
-VIII.- Equipos e instalaciones para el proceso del agua para uso y consumo humano e industrial............. $ 100,000.00
+sanitaria $ 2,484.22 2,484.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Sobre la calidad sanitaria fisicoquímica
+
+y bactereológica del agua de uso y consumo
+
+humano $ 1,242.03 1,242.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Sobre las condiciones sanitarias de
+
+las plantas, equipos e instalaciones de
+
+tratamiento de agua de uso y consumo
+
+humano o industrial, que utilicen como
+
+fuente de abastecimiento los pozos de
+
+carácter privado $ 3,726.37 3,726.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Equipos e instalaciones para el
+
+proceso del agua para uso y consumo
+
+humano e industrial $ 2,484.22 2,484.00
 
 > <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IX.- Expedición de permisos de responsable…........ $ 80,000.00
+IX.- Expedición de permisos de
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+responsable $ 80,000.00
 
-X.- Por cada certificado de buenas prácticas de fabricación o de manufactura de insumos para la salud............. $ 530.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Por cada certificado de buenas
+
+prácticas de fabricación o de manufactura
+
+de insumos para la salud $ 708.82 709.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -7505,37 +14635,57 @@ X.- Por cada certificado de buenas prácticas de fabricación o de manufactura d
 
 Por los servicios de trámite y expedición, prórroga o modificación del permiso sanitario en materia de publicidad vinculada a las actividades, productos, bienes y servicios a los que se refiere la Ley General de Salud, se pagará el derecho de permiso sanitario en materia de publicidad, por cada producto y tipo de mensaje, de conformidad con las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Televisión................................$ 150,000.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Cine.....................................$ 50,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I.- Televisión $ 3,726.37 3,726.00
 
-III.- Radio...................................$ 40,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+II.- Cine $ 1,242.03 1,242.00
 
-IV.- Prensa...................................$ 10,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+III.- Radio $ 993.60 994.00
 
-V.- Folletos, catálogos, carteles, murales y otros medios publicitarios similares..........$ 10,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Prensa $ 248.30 248.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Folletos, catálogos, carteles,
+
+muralesy otros medios publicitarios
+
+similares $ 248.30 248.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-VI.- Prensa o literatura médica, científica u otros medios de insumos para la salud............. $ 350.00
+VI.- Prensa o literatura médica, científica
+
+u otros medios de insumos para la
+
+salud $ 350.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
-VII.- Diccionario, catálogo, folleto o similar a especialidades farmacéuticas exclusivo para información técnica de insumos para la salud............. $ 350.00
+VII.- Diccionario, catálogo, folleto o
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+similar a especialidades farmacéuticas
 
-VIII.- Anuncios de exteriores............... $ 125,000,00
+exclusivo para información técnica de
+
+insumos para la salud $ 350.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Anuncios de exteriores $ 1,533.49 1,533.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -7551,59 +14701,149 @@ Por la publicidad de bebidas alcohólicas, tabaco, substancias tóxicas, plaguic
 
 Por los servicios prestados, con motivo de trámites de solicitudes, expedición de permisos sanitarios previos de importación o exportación, corrección, modificación y prórroga se pagará el derecho de permiso sanitario, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 I.- De alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración:
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por cada solicitud de permiso de importación $ 500.00
+a).- Por cada solicitud de permiso
 
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+de importación $ 1,000.09 1,000.00
 
-b).- Por cada solicitud de prórroga, corrección o de cualquier otra modificación relacionada con la importación $ 200.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+b).- Por cada solicitud de prórroga,
 
-c).- Por cada uno de los muestreos señalados en el permiso sanitario previo de importación $ 646.00
+corrección o de cualquier otra
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+modificación relacionada con la
 
-d).- Por cualquier otra modalidad relacionada con la autorización sanitaria previa de importación no especificada N$ 50.00
+importación $ 400.00 400.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por cada uno de los muestreos
+
+señalados en el permiso sanitario
+
+previo de importación $ 738.00 738.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por cualquier otra modalidad
+
+relacionada con la autorización
+
+sanitaria previa de importación
+
+no especificada $ 129.90 130.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 II.- De materias primas y productos terminados de medicamentos:
 
-a).- Por cada solicitud del permiso sanitario de importación de materia prima $ 500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por cada solicitud del permiso de importación de producto terminado $ 500.00
+a).- Por cada solicitud del permiso
 
-c).- Por cada solicitud del permiso sanitario de importación para uso propio $ 100.00
+sanitario de importación de materia
 
-d).- Por la modificación, corrección o prórroga en el permiso sanitario de importación $ 100.00
+prima $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por cada solicitud del permiso
+
+de importación de producto
+
+terminado $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por cada solicitud del permiso
+
+sanitario de importación para uso
+
+propio $ 133.72 134.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por la modificación, corrección
+
+o prórroga en el permiso sanitario de
+
+importación $ 133.72 134.00
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- De materias primas y productos terminados de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, materiales quirúrgicos, de curación, y productos higiénicos:
 
-a).- Por cada solicitud del permiso sanitario de importación en materia prima $ 500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por cada solicitud del permiso sanitario de importación de producto terminado $ 500.00
+a).- Por cada solicitud del permiso
 
-c).- Por cada solicitud del permiso sanitario de importación para uso propio $ 100.00
+sanitario de importación en materia
 
-d).- Por la modificación, corrección o prórroga en el permiso sanitario de importación $ 100.00
+prima $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por cada solicitud del permiso
+
+sanitario de importación de producto
+
+terminado $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por cada solicitud del permiso
+
+sanitario de importación para uso
+
+propio $ 133.72 134.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Por la modificación, corrección
+
+o prórroga en el permiso sanitario de
+
+importación $ 133.72 134.00
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Por cada solicitud del permiso sanitario previo de exportación de insumos para la salud:
 
-a).- De materia prima y producto terminado de medicamentos que sean o contengan estupefacientes o sustancias psicotrópicas $ 500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- De materia prima y producto terminado de hemoderivados $ 500.00
+a).- De materia prima y producto
 
-c).- Por la modificación, corrección o prórroga en el permiso sanitario previo de exportación $ 100.00
+terminado de medicamentos que sean
+
+o contengan estupefacientes o
+
+sustancias psicotrópicas $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- De materia prima y producto
+
+terminado de hemoderivados $ 900.00 900.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por la modificación, corrección
+
+o prórroga en el permiso sanitario
+
+previo de exportación $ 133.72 134.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -7615,13 +14855,39 @@ El derecho por los servicios previstos en la fracción I inciso c) de este artí
 
 Por los servicios prestados con motivo de trámite de solicitudes y certificados para exportación de alimentos, bebidas, tabaco, productos de aseo, limpieza, perfumería y belleza, así como por las materias primas y aditivos que intervengan en su elaboración, se pagará el derecho de certificación sanitaria, conforme a las siguientes cuotas:
 
-I.- Por cada uno de los trámites de solicitud de certificado con o sin análisis de laboratorio, así como por cualquier otra modalidad relacionada y no especificada............. $ 200.00
+1er. Trimestre 1er. trimestre
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+2000 2000
 
-II.- En caso de certificados que requieran de muestreo para análisis de laboratorio se pagará adicionalmente............. $ 554.71
+cuota sin ajuste cuota con ajuste
 
-III.- Por la corrección o modificación de un certificado expedido y que se encuentre vigente.............. $ 150.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por cada uno de los trámites de
+
+solicitud de certificado con o sin análisis
+
+de laboratorio, así como por cualquier
+
+otra modalidad relacionada y no
+
+especificada $ 456.91 457.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- En caso de certificados que requieran
+
+de muestreo para análisis de laboratorio
+
+se pagará adicionalmente $ 741.85 742.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la corrección o modificación de un
+
+certificado expedido y que se encuentre
+
+vigente $ 342.67 343.00
 
 No se pagará el derecho por los servicios previstos en la fracción II, cuando el análisis de los productos se realice en un laboratorio privado, y que hubiera sido aprobado por la Secretaría de Salud.
 
@@ -7631,29 +14897,59 @@ No se pagará el derecho por los servicios previstos en la fracción II, cuando 
 
 Por los servicios de trámite de cada solicitud de los permisos, expedición de licencias, autorización de personas físicas y morales como terceros auxiliares, así como por la autorización de protocolos de investigación y de la clave alfanumérica de remedios herbolarios, se pagará el derecho de trámite sanitario, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por los servicios de trámite de solicitudes de los permisos sanitarios de adquisición en plaza, muestreo y liberación de materia prima, fármacos o medicamentos que contengan estupefacientes o psicotrópicos............. $ 530.00
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por el permiso sanitario de liberación para la venta o distribución de materia prima y producto terminado de productos biológicos, biotecnológicos, hemoderivados o antibióticos, se pagará por cada solicitud de liberación............. $ 530.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por los servicios de trámite de
+
+solicitudes de los permisos sanitarios
+
+de adquisición en plaza, muestreo y
+
+liberación de materia prima, fármacos
+
+o medicamentos que contengan
+
+estupefacientes o psicotrópicos $ 708.82 709.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el permiso sanitario de liberación
+
+para la venta o distribución de materia
+
+prima y producto terminado de
+
+productos biológicos, biotecnológicos,
+
+hemoderivados o antibióticos, se pagará
+
+por cada solicitud de liberación $ 708.82 709.00
 
 > <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 III.- Por cada solicitud y expedición de licencia sanitaria de insumos para la salud:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Fábrica o laboratorio............. $ 1,644.00
+a).- Fábrica o laboratorio $ 2,500.00 2,500.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Almacén de depósito y distribución............. $ 1,552.00
+b).- Almacén de depósito y
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+distribución $ 1,772.33 1,772.00
 
-c).- Farmacias, boticas o droguerías............. $ 433.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Farmacias, boticas o
+
+droguerías $ 494.46 494.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -7663,21 +14959,51 @@ Por la actualización de la licencia sanitaria señalada en esta fracción, se p
 
 IV.- Por los servicios de reposición de licencias sanitarias y registros sanitarios de insumos para la salud, con motivo de pérdida, robo o extravío, se pagará conforme a la siguiente cuota:
 
-a).- Por la reposición de cada licencia sanitaria............. $ 250.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por la reposición de cada registro sanitario............. $ 500.00
+a).- Por la reposición de cada licencia
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+sanitaria $ 334.33 334.00
 
-V.- Por los servicios de aprobación de personas físicas o morales como terceros autorizados auxiliares a la regulación sanitaria, se pagará por cada solicitud de autorización de personas físicas o morales como terceros auxiliares............. $ 1,400.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Por la reposición de cada registro
 
-VI.- Por el servicio de trámite de solicitudes de autorización de protocolos de investigación de cada medicamento con fines de registro sanitario, se pagará por cada solicitud de protocolo de investigación............. $ 1,860.00
+sanitario $ 668.69 669.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Por cada solicitud de autorización de la clave alfanumérica de remedios herbolarios, se pagará............. $ 1,500.00
+V.- Por los servicios de aprobación de
+
+personas físicas o morales como terceros
+
+autorizados auxiliares a la regulación
+
+sanitaria, se pagará por cada solicitud
+
+de autorización de personas físicas o
+
+morales como terceros auxiliares $ 1,872.37 1,872.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por el servicio de trámite de solicitudes
+
+de autorización de protocolos de investigación
+
+de cada medicamento con fines de registro
+
+sanitario, se pagará por cada solicitud de
+
+protocolo de investigación $ 2,487.58 2,488.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Por cada solicitud de autorización
+
+de la clave alfanumérica de remedios
+
+herbolarios, se pagará $ 1,712.96 1,713.00
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7685,11 +15011,27 @@ VII.- Por cada solicitud de autorización de la clave alfanumérica de remedios 
 
 Por expedición, corrección o modificación del certificado de exportación de establecimientos que produzcan insumos para la salud destinados a la exportación, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la expedición.................. N$ 1,200.00
+1er. Trimestre 1er. trimestre
 
-II.- Por la corrección del certificado sanitario.................. N$ 50.00
+2000 2000
 
-III.- Por cualquier otra modalidad no especificada.................. N$ 50.00
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición $ 3,563.32 3,563.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la corrección del certificado
+
+sanitario $ 148.39 148.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por cualquier otra modalidad no
+
+especificada $ 148.39 148.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -7697,9 +15039,25 @@ III.- Por cualquier otra modalidad no especificada.................. N$ 50.00
 
 Por la inscripción de los actos jurídicos en materia sanitaria, se pagará por cada registro, el derecho de inscripción, de conformidad con las siguientes cuotas:
 
-I.- De cesión de derechos de autorizaciones sanitarias entre personas físicas........... $ 5,000.00
+1er. Trimestre 1er. trimestre
 
-II.- De cesión de derechos de autorizaciones sanitarias entre personas morales o entre personas físicas y morales............. $ 25,000.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- De cesión de derechos de autorizaciones
+
+sanitarias entre personas físicas $ 61.17 61.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De cesión de derechos de autorizaciones
+
+sanitarias entre personas morales o entre
+
+personas físicas y morales $ 306.56 307.00
 
 III.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
@@ -7715,11 +15073,57 @@ I.- Cuando se trate de establecimientos, locales, instalaciones o transportes de
 
 II.- Cuando se trate de establecimientos, locales, instalaciones, transportes, productos o bienes para el servicio de gobiernos extranjeros, en caso de reciprocidad.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
 #### SECCION DECIMA.. De los Servicios de Sanidad Forestal
 
 > <small>(ADICIONADO Y REUBICADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+###### ARTICULO 195-L
+
+195-L-1
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+I
+
+a) 17,147.00 17,147.00
+
+b) 17,147.00 17,147.00
+
+II 9,383.00 9,383.00
+
+III
+
+a) 2,962.00 2,962.00
+
+b) 2,962.00 2,962.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+ARTICULO 195 L-2 1,760.00 1,760.00 (sic)
+
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+ARTICULO 195 L-3 1,400.00 1,400.00 (sic)
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
 ### CAPITULO XV. De los Derechos a cargo de Organismos Descentralizados por prestar servicios exclusivos del Estado
 
@@ -7765,55 +15169,109 @@ Ferrocarriles Nacionales de México pagará por concepto de derechos por la pres
 
 Por los servicios que se presten en el Registro Nacional de Turismo, se pagará el derecho de registro turístico, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 I.- Por la inscripción de:
 
-a).- Establecimiento de alimentos y bebidas............. $ 85,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Transportación turística............... $ 92,000.00
+a).- Establecimiento de alimentos y
 
-c).- Agencias de viajes.............. $ 68,000.00
+bebidas $ 398.58 399.00
 
-d).- Establecimiento de hospedaje, campamentos y paradores de casas rodantes... $ 120,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- Operadores de marinas turísticas........... $ 180,000.00
+b).- Transportación turística $ 431.41 431.00
 
-f).- Guías de turistas............. $ 50,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Agencias de viajes $ 318.84 319.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Establecimiento de hospedaje,
+
+campamentos y paradores de casas
+
+rodantes $ 562.81 563.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Operadores de marinas
+
+turísticas $ 844.27 844.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- Guías de turistas $ 234.44 234.00
 
 g).- (DEROGADO D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-h).- Empresas de sistemas de intercambio de servicios turísticos.................. N$ 107.00
+h).- Empresas de sistemas de intercambio
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+de servicios turísticos $ 317.69 318.00
 
-i).- Operadoras turísticas de buceo.................. N$ 79.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- Operadoras turísticas de
+
+buceo $ 234.51 235.00
 
 II.- Por la reposición de comprobantes de inscripción:
 
-a).- Establecimientos de alimentos y bebidas............. $ 55,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Transportación turística............... $ 32,000.00
+a).- Establecimientos de alimentos y
 
-c).- Agencias de viajes............. $ 38,000.00
+bebidas $ 257.89 258.00
 
-d).- Establecimientos de hospedaje, campamentos y paradores de casas rodantes... $ 90,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-e).- Operadores de marinas turísticas............ $ 100,000.00
+b).- Transportación turística $ 149.91 150.00
 
-f).- Guías de turistas............. $ 30,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Agencias de viajes $ 178.12 178.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- Establecimientos de hospedaje,
+
+campamentos y paradores de casas
+
+rodantes $ 422.03 422.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e).- Operadores de marinas
+
+turísticas $ 468.98 469.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+f).- Guías de turistas $ 140.52 141.00
 
 g).- (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-h).- Empresas de sistemas de intercambio de servicios turísticos.................. N$ 60.00
+h).- Empresas de sistemas de intercambio
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+de servicios turísticos $ 178.12 178.00
 
-i).- Operadoras turísticas de buceo.................. N$ 47.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+i).- Operadoras turísticas de
+
+buceo $ 139.48 139.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7821,27 +15279,57 @@ i).- Operadoras turísticas de buceo.................. N$ 47.00
 
 Por la expedición de la constancia de inscripción en el Registro Nacional de Turismo, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Establecimientos de alimentos y bebidas……... $ 85,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Transportación turística............. $ 92,000.00
+2000 2000
 
-III.- Agencias de viajes............. $ 68,000.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Establecimientos de hospedaje, campamentos y paradores de casas rodantes. $ 120.000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Operadores de marinas turísticas........... $ 200,000.00
+I.- Establecimientos de alimentos
 
-VI.- Guías de turistas............. $ 50,000.00
+y bebidas $ 398.58 399.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Transportación turística $ 431.41 431.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Agencias de viajes $ 321.51 322.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Establecimientos de hospedaje,
+
+campamentos y paradores de casas
+
+rodantes $ 562.81 563.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Operadores de marinas
+
+turísticas $ 938.11 938.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Guías de turistas $ 234.44 234.00
 
 VII.- (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 1997)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Empresas de sistemas de intercambio de servicios turísticos.................. N$ 108.00
+VIII.- Empresas de sistemas de intercambio
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+de servicios turísticos $ 320.62 321.00
 
-IX.- Operadoras turísticas de buceo.................. N$ 79.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Operadoras turísticas de
+
+buceo $ 234.51 235.00
 
 > <small>(ADICIONADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -7861,7 +15349,23 @@ En aquellos casos en que las entidades federativas hayan celebrado Convenio de C
 
 ###### ARTICULO 195-S.
 
-Por la expedición de constancias de certificados de estudios y de duplicados de estudios parciales de educación militar, se pagará el derecho de servicios de educación militar conforme a la cuota de $ 50.00, por cada documento.
+Por la
+
+expedición de constancias
+
+de certificados de estudios
+
+y de duplicados de estudios
+
+parciales de educación
+
+militar, se pagará el derecho
+
+de servicios de educación
+
+militar conforme a la cuota de $ 114.16 114.00
+
+por cada documento.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7873,73 +15377,183 @@ Por la expedición de constancias de certificados de estudios y de duplicados de
 
 Por los servicios relacionados con armas y municiones, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-I.- Para la fabricación de armas de fuego, cartuchos, cartuchos de fuego central, armas deportivas o municiones esféricas de plomo............... $ 2,176.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Para la fabricación, importación y exportación de partes de escopeta.............. $ 2,176.00
+I.- Para la fabricación de armas de fuego,
 
-III.- Para la compra y consumo de cartuchos industriales, de salva o deportivos......... $ 2,176.00
+cartuchos, cartuchos de fuego central,
 
-IV.- Para talleres dedicados a la reparación de armas de fuego o gas.............. $ 2,143.00
+armas deportivas o municiones esféricas
+
+de plomo $ 3,427.48 3,427.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para la fabricación, importación
+
+y exportación de partes de
+
+escopeta $ 3,427.48 3,427.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para la compra y consumo de
+
+cartuchos industriales, de salva o
+
+deportivos $ 3,427.48 3,427.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Para talleres dedicados a la
+
+reparación de armas de fuego o
+
+gas $ 3,375.51 3,376.00
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-I.- De importación o exportación de armas, cartuchos y elementos constitutivos........ $ 1,506.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Para la compra de cartuchos deportivos a los expendios autorizados.............. $ 233.00
+I.- De importación o exportación de
+
+armas, cartuchos y elementos
+
+constitutivos $ 2,372.13 2,372.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para la compra de cartuchos
+
+deportivos a los expendios
+
+autorizados $ 366.97 367.00
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-I.- Para la importación o exportación de armas y cartuchos.............. $ 1,352.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Para la compra-venta, donación o permuta de armas o cartuchos.............. $ 34.00
+I.- Para la importación o exportación
 
-III.- Para la importación o exportación temporal de armas de fuego y cartuchos, con fines cinegéticos o de tiro.............. $ 1,306.00
+de armas y cartuchos $ 2,129.56 2,130.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para la compra-venta, donación
+
+o permuta de armas o cartuchos $ 53.51 54.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para la importación o exportación
+
+temporal de armas de fuego y cartuchos,
+
+con fines cinegéticos o de tiro $ 2,057.10 2,057.00
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 IV.- Para la transportación de armas:
 
-a).- Hasta por tres armas............. $ 78.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por cada arma adicional............. $ 26.00
+a).- Hasta por tres armas $ 104.30 104.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por cada arma adicional $ 34.73 35.00
 
 D.- Por los servicios prestados a coleccionistas o museos de armas de fuego:
 
-I.- Por el permiso para coleccionista o museo de armas de fuego.............. $ 1,090.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por la autorización para la adquisición y posesión de nuevas armas destinadas al enriquecimiento de una colección o de un museo, e inscripción en el mismo permiso.... $ 100.00
+I.- Por el permiso para coleccionista
+
+omuseo de armas de fuego $ 1,716.87 1,717.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la autorización para la adquisición
+
+y posesión de nuevas armas destinadas
+
+al enriquecimiento de una colección o
+
+de un museo, e inscripción en el mismo
+
+permiso $ 157.48 157.00
 
 E.- Por el trámite de cada registro:
 
-I.- Por el registro inicial para organizador cinegético o criador de fauna silvestre........ $ 2,746.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por su revalidación.............. $ 1,405.00
+I.- Por el registro inicial para organizador
 
-II.- Anual para club o asociación de deportistas de tiro y cacería.............. $ 2,032.00
+cinegético o criador de fauna
 
-III.- Por el registro de un arma de fuego.............. $ 14.00
+silvestre $ 4,325.31 4,325.00
 
-IV.- Por la expedición de cada constancia de registro.............. $ 43.00
+a).- Por su revalidación $ 2,213.03 2,213.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Anual para club o asociación de
+
+deportistas de tiro y cacería $ 3,200.66 3,201.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por el registro de un arma de
+
+fuego $ 22.01 22.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por la expedición de cada constancia
+
+de registro $ 67.69 68.00
 
 F.- Por la expedición o revalidación de cada licencia para la portación de arma de fuego:
 
 I.- Por la expedición de:
 
-a).- Licencia particular individual............... $ 658.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Licencia particular colectiva.............. $ 10,224.00
+a).- Licencia particular individual $ 1,036.40 1,036.00
 
-c).- Licencia oficial colectiva.............. $ 5,551.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Licencia particular colectiva $ 16,104.30 16,104.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Licencia oficial colectiva $ 8,743.61 8,744.00
 
 II.- Por la revalidación de:
 
-a).- Licencia particular individual.............. $ 658.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Licencia particular colectiva.............. $ 10,224.00
+a).- Licencia particular individual $ 1,036.40 1,036.00
 
-III.- Por la modificación de licencia particular colectiva u oficial colectiva.............. $ 774.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Licencia particular colectiva $ 16,104.30 16,104.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la modificación de licencia
+
+particular colectiva u oficial
+
+colectiva $ 1,219.13 1,219.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7947,37 +15561,119 @@ III.- Por la modificación de licencia particular colectiva u oficial colectiva.
 
 Por los servicios relacionados con explosivos y sustancias químicas, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 A.- Por la expedición o revalidación de cada uno de los siguientes permisos generales:
 
-I.- Para la compra, almacenamiento y consumo o compra-consumo de materiales explosivos.............. $ 4,024.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Para la fabricación de explosivos o sustancias químicas relacionadas con éstos, así como para la adquisición y almacenamiento de materia prima y productos terminados........ $ 4,024.00
+I.- Para la compra, almacenamiento y
 
-III.- Para la compra-venta, compra-consumo o almacenamiento de explosivos o sustancias químicas relacionadas con éstos.............. $ 4,103.00
+consumo o compra-consumo de
 
-IV.- Para la compra, almacenamiento y consumo de sustancias químicas en la fabricación y venta de artificios pirotécnicos.............. $ 583.00
+materiales explosivos $ 6,338.36 6,338.00
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por intervenciones para importación o exportación de armas, municiones, explosivos y sustancias químicas, a partir de la segunda intervención............. $ 110.00
+II.- Para la fabricación de explosivos
 
-Por la inspección para el reinicio de actividades de un permiso general suspendido a solicitud del interesado, se pagará el derecho conforme a la cuota de $ 1,210.00.
+o sustancias químicas relacionadas
+
+con éstos, así como para la adquisición
+
+y almacenamiento de materia prima
+
+y productos terminados $ 6,338.36 6,338.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para la compra-venta, compra-consumo
+
+o almacenamiento de explosivos o
+
+sustancias químicas relacionadas
+
+con éstos $ 6,462.79 6,463.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Para la compra, almacenamiento
+
+y consumo de sustancias químicas en
+
+la fabricación y venta de artificios
+
+pirotécnicos $ 918.28 918.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por intervenciones para importación
+
+o exportación de armas, municiones,
+
+explosivos y sustancias químicas, a
+
+partir de la segunda intervención $ 147.09 147.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Por la inspección para el reinicio de
+
+actividades de un permiso general
+
+suspendido a solicitud del interesado,
+
+se pagará el derecho conforme a la
+
+cuota de $ 1,905.89 1,906.00
 
 B.- Por la expedición de cada uno de los siguientes permisos ordinarios:
 
-I.- Para la compra de material explosivo o sustancias químicas.............. $ 354.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- De importación o exportación de explosivos o sustancias químicas relacionadas con éstos............... $ 1,374.00
+I.- Para la compra de material explosivo
 
-a).- Por su modificación.............. $ 1,374.00
+o sustancias químicas $ 557.57 558.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- De importación o exportación de
+
+explosivos o sustancias químicas
+
+relacionadas con éstos $ 2,164.21 2,164.00
+
+a).- Por su modificación $ 2,164.21 2,164.00
 
 C.- Por la expedición de cada uno de los siguientes permisos extraordinarios:
 
-I.- Para la compra-consumo, importación o exportación de material explosivo o sustancias químicas.............. $ 4,024.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Por la modificación a un permiso extraordinario de importación o exportación de explosivos o sustancias químicas relacionados con éstos.............. $ 1,374.00
+I.- Para la compra-consumo, importación
 
-III.- Para la compra-venta de artificios pirotécnicos.............. $ 354.00
+o exportación de material explosivo o
+
+sustancias químicas $ 6,338.36 6,338.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por la modificación a un permiso
+
+extraordinario de importación o
+
+exportación de explosivos o sustancias
+
+químicas relacionados con éstos $ 2,164.21 2,164.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Para la compra-venta de artificios
+
+pirotécnicos $ 557.57 558.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -7985,15 +15681,49 @@ III.- Para la compra-venta de artificios pirotécnicos.............. $ 354.00
 
 Por los servicios relacionados con explosivos, sustancias químicas, armas o municiones, se pagarán derechos conforme a las siguientes cuotas:
 
-I.- Por la expedición de cada permiso general para el transporte especializado de explosivos, sustancias químicas relacionadas con éstos, artificios, armamento o municiones....... $ 4,087.00
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por la expedición de cada permiso
+
+general para el transporte especializado
+
+de explosivos, sustancias químicas
+
+relacionadas con éstos, artificios,
+
+armamento o municiones $ 6,437.60 6,438.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Por el trámite de autorización:
 
-a).- De libros de compras y ventas a personas físicas o morales con permiso general....... $ 53.00
+a).- De libros de compras y ventas
 
-b).- Para cambio de razón social a un permiso general.............. $ 610.00
+a personas físicas o morales con
 
-III.- Por la autorización para modificar un permiso general en cualquiera de sus condiciones, por ubicación, técnica de trabajo u otro motivo que no afecte la clase de producción permitida............... $ 4,052.00
+permiso general $ 83.44 83.00
+
+b).- Para cambio de razón social a
+
+un permiso general $ 960.77 961.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por la autorización para modificar
+
+un permiso general en cualquiera de
+
+sus condiciones, por ubicación, técnica
+
+de trabajo u otro motivo que no afecte
+
+la clase de producción permitida $ 6,382.46 6,382.00
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -8005,17 +15735,51 @@ III.- Por la autorización para modificar un permiso general en cualquiera de su
 
 Por los servicios relacionados con el servicio militar nacional, se pagarán los siguientes derechos:
 
-I.- Por el permiso para salir del país.............. $ 58.00
+1er. Trimestre 1er. trimestre
 
-II.- Por el permiso para la liberación por naturalización.............. $ 58.00
+2000 2000
 
-III.- Por corrección de los datos base de la cartilla.............. $ 58.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Por aplazamiento en la incorporación.............. $ 58.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por expedición de duplicado de cartilla............... $ 58.00
+I.- Por el permiso para salir del
 
-VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo la cartilla del Servicio Militar Nacional.............. $ 114.00
+país $ 91.32 91.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por el permiso para la liberación
+
+por naturalización $ 91.32 91.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por corrección de los datos base
+
+de la cartilla $ 91.32 91.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por aplazamiento en la
+
+incorporación $ 91.32 91.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por expedición de duplicado
+
+de cartilla $ 91.32 91.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la elaboración de oficios,
+
+cuando siendo mayor de 40 años
+
+no obtuvo la cartilla del Servicio
+
+Militar Nacional $ 179.53 180.00
 
 ### CAPITULO I. Bosques
 
@@ -8029,15 +15793,27 @@ VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo l
 
 ### CAPITULO II. Pesca
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 #### SECCION PRIMERA. Educación Militar
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
 
 ### CAPITULO III. Puerto y Atraque
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 #### SECCION SEGUNDA. Servicios relacionados con el Registro Federal de Armas de Fuego y el control de explosivos
 
@@ -8053,23 +15829,51 @@ VI.- Por la elaboración de oficios, cuando siendo mayor de 40 años no obtuvo l
 
 Por el aprovechamiento de bosques nacionales en terrenos pertenecientes al Gobierno Federal, se pagarán derechos conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 I.- Por el aprovechamiento de la vegetación arbórea:
 
-a) Maderas, por metro cúbico rollo fustal sin corteza autorizado de: caoba, cedro rojo, primavera, fresno, nogal, guayacán y otras especies similares $ 770.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b) Maderas, por metro cúbico rollo fustal sin corteza autorizado de: canshan, barí, jobo, chacáguanacastle, ceiba, bojón, cedrillo y especies similares 145.00
+a) Maderas, por metro cúbico rollo fustal
+
+sin corteza autorizado de: caoba, cedro
+
+rojo, primavera, fresno, nogal, guayacán
+
+y otras especies similares $ 1,265.06 1,265.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b) Maderas, por metro cúbico rollo
+
+fustal sin corteza autorizado de:
+
+canshan, barí, jobo, chacáguanacastle,
+
+ceiba, bojón, cedrillo y especies
+
+similares 238.36 238.00
 
 c).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
 d).- (DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1983)
 
-e) Chicle, por tonelada autorizada 2,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+e) Chicle, por tonelada autorizada 3,285.97 3,286.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Por el aprovechamiento de la vegetación herbácea para pastoreo, por cabeza-mes.
 
-a) De ganado mayor $ 5.00
+a) De ganado mayor $ 8.00 8.00
 
-b) De ganado menor 2.50
+b) De ganado menor 3.88 4.00
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -8077,23 +15881,79 @@ b) De ganado menor 2.50
 
 El derecho sobre bosques se pagará previamente al aprovechamiento de bosques, en las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADO PRIMER PARRAFO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 197-A.
 
-Por la explotación de la vegetación arbórea en los cauces y zona federal de los ríos, se pagará el derecho de aprovechamiento forestal conforme a la cuota de $250.00 por metro cúbico de rollo de árbol autorizado.
+Por la
+
+explotación de la vegetación
+
+arbórea en los cauces y
+
+zona federal de los ríos,
+
+se pagará el derecho de
+
+aprovechamiento forestal
+
+conforme a la cuota de 68.97 69.00
+
+por metro cúbico de rollo de árbol autorizado.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 El pago del derecho a que este artículo se refiere, se hará previamente al aprovechamiento forestal ante las oficinas que al efecto autorice la Secretaría de Hacienda y Crédito Público.
 
+(ACTUALIZADO EN SU MONTO [N. DE E. ADICIONADO], D.O.F. 28 DE DICIEMBRE DE 1999)
+
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 ###### ARTICULO 198.
 
-(DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989)
+I 25.00 25.00
+
+II 48.00 48.00 (sic)
 
 ### CAPITULO V. Sal
 
 ###### ARTICULO 199.
 
-Las personas físicas y morales que al amparo de permisos excepcionales, realicen la pesca con embarcaciones de matrícula extranjera dentro de la zona económica exclusiva situada fuera del mar territorial, pagarán el derecho de pesca por tonelada neta de registro o fracción del barco, por cada viaje hasta de 60 días, conforme a la cuota de $ 995.73
+Las personas
+
+físicas y morales que al amparo
+
+de permisos excepcionales,
+
+realicen la pesca con
+
+embarcaciones de matrícula
+
+extranjera dentro de la zona
+
+económica exclusiva situada
+
+fuera del mar territorial,
+
+pagarán el derecho de pesca
+
+por tonelada neta de registro
+
+o fracción del barco,
+
+por cada viaje hasta de 60
+
+días, conforme a la cuota de $ 1,331.69 1,332.00
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -8113,75 +15973,127 @@ Lo dispuesto en este artículo, no modificará los convenios o acuerdos celebrad
 
 Las personas físicas y morales mexicanas que en su caso y conforme a la Ley de Pesca, practiquen la pesca comercial en aguas de jurisdicción nacional pagarán el derecho de pesca, anualmente, conforme a las siguientes cuotas:
 
-ESPECIE CUOTA ANUAL POR DE ARTES
+ESPECIE CUOTA ANUAL DE ARTES
 
-TONELADA NETA O O EQUIPOS
+POR TONELADA O EQUIPOS
 
-FRACCIÓN DE REGISTRO
+NETA O
 
-DE LA EMBARCACIÓN
+FRACCIÓN DE
 
-I.- ABULÓN $ 239.00
+REGISTRO DE LA
 
-II.- SARGAZO $ 32.00 $ 865.00
+EMBARCACIÓN
 
-III.- ALGAS MARINAS $ 1,470.00 $ 865.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- ALMEJAS $ 201.00 $ 865.00
+I.- ABULÓN $ 376.42
 
-V.- ANCHOVETA $ 22.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- CALAMAR $ 47.00
+II.- SARGAZO $ 50.35 $ 1,362.46
 
-VII.- CAMARÓN DE ALTAMAR $ 15.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- ALGAS MARINAS $ 2,315.43 $ 1,362.46
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- ALMEJAS $ 316.56 $ 1,362.46
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- ANCHOVETA $ 34.60
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- CALAMAR $ 74.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- CAMARÓN DE ALTAMAR $ 23.58
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 VIII.- CAMARÓN DE AGUAS
 
-PROTEGIDAS $ 31.00
+PROTEGIDAS $ 48.78
 
-IX.- CANGREJO $ 26.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-X.- CARACOL $ 109.00
+IX.- CANGREJO $ 40.90
 
-XI.- ERIZO $ 502.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XII.- JAIBA $ 17.00
+X.- CARACOL $ 171.65
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- ERIZO $ 790.69
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- JAIBA $ 26.74
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XIII.- ESPECIES MARINAS
 
-DE ESCAMA $ 22.00
+DE ESCAMA $ 34.60
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XIV.- ESPECIES DE ESCAMA
 
-DE AGUA DULCE $ 11.00
+DE AGUA DULCE $ 17.28
 
-XV.- LANGOSTA $ 104.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVI.- LANGOSTINO $ 17.00
+XV.- LANGOSTA $ 163.76
 
-XVII.- OSTIÓN $ 22.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVIII.- PICUDOS $ 19.00
+XVI.- LANGOSTINO $ 26.74
 
-XIX.- PULPO $ 62.00 $ 84.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XX.- SARDINA $ 22.00
+XVII.- OSTIÓN $ 34.60
 
-XXI.- TIBURÓN $ 3.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XXII.- TÚNIDOS $ 15.00
+XVIII.- PICUDOS $ 29.87
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIX.- PULPO $ 97.62 $ 132.26
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XX.- SARDINA $ 34.60
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXI.- TIBURÓN $ 4.67
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XXII.- TÚNIDOS $ 23.58
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XXIII.- OTRAS PESQUERÍAS
 
-MARINAS $ 20.00 $ 84.00
+MARINAS $ 31.47 $ 132.26
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 XXIV.- OTRAS PESQUERÍAS
 
-DE AGUA DULCE $ 11.00 $ 84.00
+DE AGUA DULCE $ 17.28 $ 132.26
 
 XXV.- Por la extracción de organismos adultos de especies de la fauna acuática del medio natural, para utilizarlos como pie de cría o reproductores, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
-XXVI.- Por la extracción de larvas y postlarvas de camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota de $ 230.00 por cada millón de organismos autorizados.
+XXVI.- Por la extracción de larvas y postlarvas de camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota de $ 362.23 por cada millón de organismos autorizados.
 
 XXVII.- Por la extracción de larvas, postlarvas, crías, huevos, semillas o alevines de otras especies de la flora y fauna acuáticas distintas al camarón del medio natural, para abastecer unidades de producción acuícola, se pagará la cuota anual por tonelada neta de registro establecida para la especie de que se trate.
 
@@ -8195,15 +16107,37 @@ El pago se efectuará atendiendo a la vigencia y fecha de expedición de los per
 
 Por el aprovechamiento de los recursos pesqueros en la pesca deportivo-recreativa, se pagará, el derecho de pesca, por permiso individual, conforme a las siguientes cuotas:
 
-I.- Por un día.............. $ 46.27
+1er. Trimestre 1er. trimestre
 
-II.- Por una semana.............. $ 115.87
+2000 2000
 
-III.- Por un mes.............. $ 173.84
+cuota sin ajuste cuota con ajuste
 
-IV.- Por un año.............. $ 231.83
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Para excursiones de pesca deportiva procedentes del extranjero, por cada integrante y por viaje de más de tres días y hasta por un año............. $ 329.76
+I.- Por un día $ 61.85 62.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por una semana $ 154.95 155.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por un mes $ 232.47 232.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por un año $ 310.01 310.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Para excursiones de pesca
+
+deportiva procedentes del extranjero,
+
+por cada integrante y por viaje de más
+
+de tres días y hasta por un año $ 441.00 441.00
 
 En este último caso, si son menores a tres días, se pagará la cuota señalada por día, multiplicada por el número de días de viaje.
 
@@ -8215,23 +16149,29 @@ En este último caso, si son menores a tres días, se pagará la cuota señalada
 
 ###### ARTICULO 200.
 
-Las personas físicas o morales que usen los puertos nacionales pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $ 1.42, por unidad de arqueo bruto o fracción.
+Las personas físicas o morales que usen los puertos nacionales pagarán por cada embarcación en tráfico de altura que entre a los mismos, el derecho de puerto de altura conforme a la cuota de $ 3.16, por unidad de arqueo bruto o fracción.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Tratándose de embarcaciones que realicen tráfico mixto, se pagará el 90% de la cuota correspondiente al derecho de puerto de altura, por cada puerto en que entren.
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 ###### ARTICULO 200-A.
 
-Las personas físicas o morales que entren a los puertos nacionales pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $ 0.64, por unidad de arqueo bruto o fracción.
-
-Por las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje, entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos siguientes al primero.
+Las personas físicas o morales que entren a los puertos nacionales pagarán, por cada embarcación de altura dedicada exclusivamente a actividades turísticas, el derecho de puerto de altura, conforme a la cuota de $ 1.42, por unidad de arqueo bruto o fracción.
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
+Por las embarcaciones que realicen exclusivamente actividades turísticas y que en un viaje, entren a diversos puertos nacionales, se pagará el 90% de la cuota a que se refiere el párrafo anterior, por cada uno de los puertos siguientes al primero.
+
+(ACTUALIZADO EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 ###### ARTICULO 201.
 
-Las personas físicas y las morales que usen los puertos nacionales pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $ 0.50, por unidad de arqueo bruto o fracción.
+Las personas físicas y las morales que usen los puertos nacionales pagarán por cada embarcación en tráfico de cabotaje que entre a los mismos, el derecho de puerto de cabotaje conforme a la cuota de $ 1.05, por unidad de arqueo bruto o fracción.
+
+> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 Las embarcaciones dedicadas exclusivamente a actividades turísticas pagarán el 75% de la cuota del derecho de puerto de cabotaje, por cada puerto en que entren.
 
@@ -8247,13 +16187,27 @@ Los derechos a que se refieren los artículos 200, 200-A y 201 de esta ley se pa
 
 Por las embarcaciones que atraquen en muelles propiedad de la Federación, por cada hora o fracción mayor de 15 minutos y por cada metro de eslora o fracción, se pagará el derecho de atraque conforme a las siguientes cuotas:
 
-I.- Por embarcación comercial............. $ 0.19
+1er. Trimestre 1er. trimestre
 
-II.- Por yate............. $ 0.14
+2000 2000
 
-III.- Por embarcación arrejerada............. $ 0.10
+cuota sin ajuste cuota con ajuste
 
-IV.- Por embarcación local comercial............. $ 0.15
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por embarcación comercial $ 0.35
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por yate $ 0.25
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por embarcación arrejerada $ 0.17
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por embarcación local comercial $ 0.26
 
 Para los efectos de este artículo, se entiende por embarcación comercial cualquiera que se destine a la realización de actos de comercio; por yate, toda embarcación que esté destinada exclusivamente al placer personal de sus propietarios o poseedores, sin perseguir fines de lucro; por embarcación arrejerada, aquella que únicamente utiliza el muelle para ser amarrada, por lo que no atraca en el mismo, o bien sólo hace contacto con él con su proa o su popa por hallarse en posición perpendicular al muelle; y por embarcación local comercial, la que opera únicamente en un puerto y está registrada en el mismo.
 
@@ -8319,11 +16273,23 @@ Los derechos a que se refiere este capítulo no se causarán cuando el uso o apr
 
 Los propietarios, remitentes o destinatarios de las mercancías que utilicen los muelles propiedad de la Federación, por sí o por conducto de los agentes aduanales, pagarán el derecho de muelle por cada tonelada o fracción de carga, conforme a las siguientes cuotas:
 
-I.- Mercancías de exportación............. $ 1.36
+1er. Trimestre 1er. trimestre
 
-II.- Mercancías de importación............. $ 2.85
+2000 2000
 
-III.- Mercancías de tráfico de cabotaje............. $ 0.71
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Mercancías de exportación $ 3.03 3.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Mercancías de importación $ 6.43 6.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Mercancías de tráfico de cabotaje $ 1.55 2.00
 
 El derecho a que se refiere la fracción I de este artículo se pagará dentro de los cinco días siguientes a aquél en que se presente a las autoridades aduaneras el pedimento de exportación; el derecho a que se refiere la fracción II del mismo artículo se pagará dentro de los cinco días siguientes a aquél en que se realice la descarga de las mercancías correspondientes a cada conocimiento de embarque; y el derecho a que se refiere la fracción III del propio numeral se pagará dentro de los cinco días siguientes a aquél en que se realice la carga o la descarga de las mercancías amparadas por cada conocimiento de embarque.
 
@@ -8333,9 +16299,25 @@ El derecho a que se refiere la fracción I de este artículo se pagará dentro d
 
 El pasajero que embarque o desembarque en muelles propiedad de la Federación, pagará el derecho de embarque o desembarque conforme a las siguientes cuotas:
 
-I.- En instalaciones no dedicadas exclusivamente al servicio de pasajeros............. $ 6.57
+1er. Trimestre 1er. trimestre
 
-II.- En instalaciones exclusivas para pasajeros............. $ 9.86
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- En instalaciones no dedicadas
+
+exclusivamente al servicio de
+
+pasajeros $ 14.94 15.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- En instalaciones exclusivas para
+
+pasajeros $ 22.46 22.00
 
 Los derechos a que se refiere este artículo se pagarán, por una sola vez en cada puerto, al momento en que se realice el embarque o desembarque de pasajeros.
 
@@ -8537,27 +16519,51 @@ Están obligadas al pago del derecho sobre agua, las personas físicas y las mor
 
 Por la explotación, uso o aprovechamiento de aguas nacionales a que se refiere este Capítulo, se pagará el derecho sobre agua, de conformidad con la zona de disponibilidad de agua en que se efectúe su extracción y de acuerdo con las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 A.- Por las aguas provenientes de fuentes superficiales o extraídas del subsuelo, a excepción de las del mar, por cada metro cúbico:
 
-I.- Zona de disponibilidad 1 $ 8.5958
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Zona de disponibilidad 2 $ 6.8766
+I.- Zona de disponibilidad 1 $ 11.4960
 
-III.- Zona de disponibilidad 3 $ 5.7305
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Zona de disponibilidad 4 $ 4.7277
+II.- Zona de disponibilidad 2 $ 9.1966
 
-V.- Zona de disponibilidad 5 $ 3.7249
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- Zona de disponibilidad 6 $ 3.3666
+III.- Zona de disponibilidad 3 $ 7.6638
 
-VII.- Zona de disponibilidad 7 $ 2.5342
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VIII.- Zona de disponibilidad 8 $ 0.9007
+IV.- Zona de disponibilidad 4 $ 6.3228
 
-IX.- Zona de disponibilidad 9 $ 0.6752
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Zona de disponibilidad 5 $ 4.9815
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Zona de disponibilidad 6 $ 4.5022
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Zona de disponibilidad 7 $ 3.3890
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Zona de disponibilidad 8 $ 1.2043
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Zona de disponibilidad 9 $ 0.9026
 
 Las empresas públicas y privadas que tengan asignación o concesión para explotar, usar o aprovechar aguas nacionales y suministren volúmenes de agua para consumo doméstico a centros o núcleos de población, cubrirán el derecho respecto de los volúmenes de agua suministrada, con las cuotas establecidas en el Apartado B, fracción I, de este artículo; para tales efectos, deberán contar con medidor que contabilice exclusivamente el volumen de agua que proporcionen para el citado uso.
 
@@ -8575,57 +16581,65 @@ b).- Concesionadas a empresas que presten el servicio de agua potable o alcantar
 
 c).- Concesionada a colonias populares constituidas como personas morales que por concesión de las personas morales a que se refiere el inciso a), presten el servicio de suministro de agua potable de uso doméstico.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 1 a 6 $ 199.46
+Zona de disponibilidad 1 a 6 $ 227.77
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 7 $ 92.91
+Zona de disponibilidad 7 $ 106.08
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 8 $ 46.43
+Zona de disponibilidad 8 $ 53.00
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 9 $ 23.15
+Zona de disponibilidad 9 $ 26.41
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Generación Hidroeléctrica $ 1.8073
+II.- Generación Hidroeléctrica $ 2.4169
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 III.- Acuacultura:
 
-Zona de disponibilidad 1 a 6 $ 1.1922
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 7 0.5874
+Zona de disponibilidad 1 a 6 $ 1.8774
 
-Zona de disponibilidad 8 $ 0.2766
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 9 $ 0.1316
+Zona de disponibilidad 7 $ 0.9248
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Zona de disponibilidad 8 $ 0.4353
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Zona de disponibilidad 9 $ 0.2068
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 IV.- Balnearios y centros recreativos:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 1 a 6 $ 4.8896
+Zona de disponibilidad 1 a 6 $ 6.5393
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 7 $ 2.4092
+Zona de disponibilidad 7 $ 3.2219
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 8 $ 1.1346
+Zona de disponibilidad 8 $ 1.5171
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Zona de disponibilidad 9 $ 0.5396
+Zona de disponibilidad 9 $ 0.7215
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -8705,7 +16719,9 @@ I.- El costo comprobado de los aparatos de medición y los gastos de su instalac
 
 A fin de hacer efectiva dicha disminución, los contribuyentes deberán presentar la factura de compra del aparato de medición y de su instalación en las oficinas de la Comisión Nacional del Agua, para su verificación y sellado.
 
-II.- $ 1.0019 por cada metro cúbico de agua potable que se proporcione al Distrito Federal o a los municipios del Valle de México, a través de su conexión transitoria a la respectiva red de agua potable, tratándose de pozos que no sean propiedad de dichas instancias de gobierno, pero que por necesidad pública las mismas requieran de su uso o aprovechamiento.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- $ 1.3397 por cada metro cúbico de agua potable que se proporcione al Distrito Federal o a los municipios del Valle de México, a través de su conexión transitoria a la respectiva red de agua potable, tratándose de pozos que no sean propiedad de dichas instancias de gobierno, pero que por necesidad pública las mismas requieran de su uso o aprovechamiento.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -9127,11 +17143,19 @@ El monto a acreditar, deberá efectuarse en la declaración provisional trimestr
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen bienes del dominio público de la Federación en los puertos, terminales, e instalaciones portuarias, la zona federal marítima, los diques, cauces, vasos, zonas de corrientes, depósitos de propiedad nacional y otros inmuebles del dominio público distintos de los señalados en otros Capítulos de este Título, conforme a lo que a continuación se señala:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- El 7.5% anual del valor del inmueble concesionado o permisionado incluyendo terreno, áreas de agua ocupadas, obras e instalaciones, en su caso.
 
-Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie concesionada o permisionada, la siguiente cuota............. $ 1.2679
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+Cuando se trate de bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales, distintos de los señalados en las fracciones IV y V de este artículo, pagarán anualmente por metro cuadrado de superficie concesionada o permisionada, la siguiente cuota $ 1.4477
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9145,47 +17169,93 @@ Para los efectos de las fracciones I, II y III que anteceden, el valor del inmue
 
 Cada cinco años como máximo deberá realizarse un nuevo avalúo, si el término de la concesión o permiso excede del periodo mencionado. Dicho avalúo únicamente deberá considerar el inmueble como originalmente se concesionó o permisionó, sin incluir las mejoras y adiciones que se hubieren efectuado durante la concesión o el permiso.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- De $ 0.0201 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+IV.- De $ 0.0228 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades agrícolas o pecuarias, en el caso de los bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- De $ 1.2649 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
+V.- De $ 1.4443 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de protección y ornato, no se realicen construcciones y el concesionario o permisionario sea propietario, poseedor o arrendatario del predio colindante a éste, respecto de aquellos bienes nacionales comprendidos en los artículos 113 y 114 de la Ley de Aguas Nacionales.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VI.- De $ 1.2679 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
+VI.- De $ 1.4477 anual por metro cuadrado cuando el uso o goce consista en la realización de actividades pesqueras.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- De $ 0.0505 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
+VII.- De $ 0.0575 anual por metro cuadrado, cuando el uso o goce consista en la realización de actividades de acuacultura.
 
 > <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 VIII.- Por instalaciones de telecomunicación:
 
-a).- En espacios cerrados, por cada metro cuadrado o fracción, mensualmente............. $ 247.59.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+a).- En espacios cerrados, por cada
+
+metro cuadrado o fracción,
+
+mensualmente $ 331.10 331.00
 
 b).- En espacios abiertos, mensualmente:
 
-1.- Por cada antena instalada............. $ 119.13.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-2.- Por cada torre instalada............. $ 247.59.
+1.- Por cada antena instalada $ 159.30 159.00
 
-c).- Por el derecho de uso de vía de las carreteras, vías férreas y puentes de jurisdicción federal con las instalaciones de ductos o cableados de redes públicas de telecomunicaciones, anualmente, por cada kilómetro o fracción............. $ 179.46.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+2.- Por cada torre instalada $ 331.10 331.00
 
-IX.- Por los espacios dentro de inmuebles de propiedad federal que no rebasen 30 m2, en donde se instalen módulos o máquinas expendedoras de bienes o servicios, se pagará por metro cuadrado o fracción, por cada mes............. $ 100.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por el derecho de uso de vía
+
+de las carreteras, vías férreas
+
+y puentes de jurisdicción federal
+
+con las instalaciones de ductos o
+
+cableados de redes públicas de
+
+telecomunicaciones, anualmente,
+
+por cada kilómetro o fracción $ 240.00 240.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Por los espacios dentro de
+
+inmuebles de propiedad federal
+
+que no rebasen 30 m2, en donde
+
+se instalen módulos o máquinas
+
+expendedoras de bienes o servicios,
+
+se pagará por metro cuadrado o
+
+fracción, por cada mes $ 133.72 134.00
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
 El derecho a que se refiere esta fracción, se efectuará anticipadamente mediante pagos provisionales semestrales a más tardar el día 17 de los meses de enero y julio del ejercicio de que se trate.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 El derecho del ejercicio, deducidos los pagos provisionales semestrales, se pagará mediante declaración que se presentará en las oficinas autorizadas dentro de los dos meses siguientes al cierre del mismo ejercicio.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-X.- Por el depósito de restos humanos áridos o cremados en un nicho construido en templos de propiedad federal o sus anexidades, por cada depósito............. $ 290.00
+X.- Por el depósito de restos humanos
+
+áridos o cremados en un nicho construido
+
+en templos de propiedad federal o sus
+
+anexidades, por cada depósito $ 387.81 388.00
 
 Las cuotas señaladas en las fracciones III y IV que anteceden, sólo se aplicarán cuando la actividad señalada en cada caso constituya la principal del concesionario o permisionario. En todo caso los contribuyentes podrán optar por pagar conforme a lo establecido en la fracción I de este artículo.
 
@@ -9217,7 +17287,39 @@ Los bienes a que se refiere este artículo en ningún caso serán objeto de los 
 
 Están obligadas a pagar el derecho por el uso, goce o aprovechamiento de inmuebles, las personas físicas y las morales que usen, gocen o aprovechen las playas, la zona federal marítimo terrestre, y los terrenos ganados al mar o a cualquier otro depósito de aguas marítimas. El monto del derecho a pagar se determinará con los siguientes valores y las zonas a que se refiere el artículo 232-D de esta Ley:
 
-(VEASE ARCHIVO ANEXO)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+ZONAS USOS
+
+PROTECCION Agricultura, General
+
+U ORNATO ganadería, ($/m2)
+
+($/m2) pesca y
+
+acuacultura
+
+($/m2)
+
+ZONA I 0.21 0.070 0.64
+
+ZONA II 0.43 0.070 1.31
+
+ZONA III 0.90 0.070 2.66
+
+ZONA IV 1.36 0.070 3.98
+
+ZONA V 1.83 0.070 5.33
+
+ZONA VI 2.78 0.070 8.00
+
+ZONA VII 3.72 0.070 10.67
+
+ZONA VIII 6.99 0.070 20.03
+
+ZONA IX 9.33 0.070 26.73
+
+ZONA X 18.69 0.070 53.47
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -9230,8 +17332,6 @@ Se considerará como uso de ornato, el que se dé a aquellas superficies ocupada
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 Se considerará como uso general el que se dé a aquellas superficies ocupadas en las cuales se hayan realizado construcciones con cimentación o se lleven a cabo actividades con fines de lucro. Se exceptúan las obras de protección o defensa contra fenómenos naturales.
-
-> <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -9323,13 +17423,25 @@ Los contribuyentes que estén obligados al pago de los derechos establecidos en 
 
 Por los derechos para la publicación, reproducción o comunicación pública de fotografías, independientemente de los derechos señalados en los artículos 176-A, 178-A y 178-B de esta Ley, se pagarán derechos por el uso, goce o aprovechamiento de los monumentos arqueológicos, artísticos e históricos, conforme a las siguientes cuotas:
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Impreso de 1 a 1000 ejemplares............. $ 73.12.
+2000 2000
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Impreso de 1001 ejemplares en adelante o publicado en soporte filmado, videograbado o digital............. $ 219.47.
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Impreso de 1 a 1000
+
+Ejemplares $ 97.77 98.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Impreso de 1001 ejemplares
+
+en adelante o publicado en soporte
+
+filmado, videograbado o digital $ 293.48 293.00
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9359,21 +17471,21 @@ Están obligadas a pagar el derecho por extracción de materiales, las personas 
 
 > <small>(DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 $/M3
 
-Grava............. $ 87.00
+Grava 99.33 99.00
 
-Arena............. $ 87.00
+Arena 99.33 99.00
 
-Arcillas y limos............. $ 63.00
+Arcillas y Limos 71.92 72.00
 
-Materiales en greña............. $ 68.00
+Materiales en Greña 77.65 78.00
 
-Piedra............. $ 75.00
+Piedra 85.63 86.00
 
-Otros............. $ 26.00
+Otros 29.68 30.00
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9399,13 +17511,33 @@ Tratándose del derecho a que se refieren las fracciones IV y V del artículo 23
 
 Por el permiso para la instalación de anuncios publicitarios fuera del derecho de vía e instalación de señalamientos informativos dentro del derecho de vía de las carreteras federales y en los recintos portuarios, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-I.- Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados $ 10,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados y de hasta 75 metros cuadrados 15,000.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+cuota sin ajuste cuota con ajuste
 
-III.- Señales informativas.................. N$ 1,331.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Anuncios publicitarios que tienen
+
+una superficie total hasta de 50 metros
+
+cuadrados $ 2,635.16 2,635.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Anuncios publicitarios que tienen
+
+una superficie total de más de 50
+
+metros cuadrados y de hasta 75
+
+metros cuadrados 3,952.7 3,953.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Señales informativas $ 3,952.31 3,952.00
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -9449,43 +17581,99 @@ No pagarán el derecho que se establece en el artículo 232-A, las entidades fed
 
 Por la caza o captura de animales silvestres, se pagará el derecho de caza deportiva, conforme a las siguientes cuotas:
 
-I.- Borrego cimarrón............. $ 21,448.00
+1er. Trimestre 1er. trimestre
 
-II.- Venado bura en Sonora o cola blanca texano............. $ 333.00
+2000 2000
 
-III.- Venado bura en el resto del país............. $ 250.00
+cuota sin ajuste cuota con ajuste
 
-IV.- Venado cola blanca en el resto del país o temazate............. $ 292.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Puma............. $ 572.00
+I.- Borrego cimarrón $ 28,685.13 28,685.00
 
-VI.- Gato montés............. $ 400.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-VII.- Faisán de collar............. $ 200.00
+II.- Venado bura en Sonora o cola
 
-VIII.- Pavo ocelado............. $ 191.00
+blanca texano $ 445.33 445.00
 
-IX.- Guajolote silvestre............. $ 200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-X.- Jabalí labios blancos............. $ 200.00
+III.- Venado bura en el resto del
 
-XI.- Perdiz o Tinamú............. $ 95.00
+país $ 334.33 334.00
 
-XII.- Patos, cercetas y gansos............. $ 200.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XIII.- Palomas............. $ 200.00
+IV.- Venado cola blanca en el resto
 
-XIV.- Jabalí de collar............. $ 50.00
+del país o temazate $ 390.49 390.00
 
-XV.- Zorra gris............. $ 50.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVI.- Otras aves de acuerdo al calendario cinegético............. $ 100.00
+V.- Puma $ 764.97 765.00
 
-XVII.- Otros pequeños mamíferos de acuerdo al calendario cinegético............. $ 100.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-XVIII.- Borrego audat............. $ 300.00
+VI.- Gato montés $ 534.94 535.00
 
-XIX.- Jabalí africano o warthog............. $ 300.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VII.- Faisán de collar $ 267.46 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VIII.- Pavo ocelado $ 255.41 255.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Guajolote silvestre $ 267.46 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Jabalí labios blancos $ 267.46 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XI.- Perdiz o Tinamú $ 127.03 127.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XII.- Patos, cercetas y gansos $ 267.46 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIII.- Palomas $ 267.46 267.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIV.- Jabalí de collar $ 66.84 67.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XV.- Zorra gris $ 66.84 67.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVI.- Otras aves de acuerdo al
+
+calendario cinegético $ 133.72 134.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVII.- Otros pequeños mamíferos
+
+de acuerdo al calendario
+
+cinegético $ 133.72 134.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XVIII.- Borrego audat $ 401.21 401.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+XIX.- Jabalí africano o warthog $ 401.21 401.00
 
 El pago del derecho de caza deportiva se hará previamente a la expedición del permiso correspondiente mediante declaración que se presentará a las oficinas autorizadas por la Secretaría de Hacienda y Crédito Público. En el caso de que se capturen animales en exceso de los que señala el permiso respectivo o sin éste, se cobrará el derecho que corresponda independientemente de que se impongan las sanciones a que haya lugar.
 
@@ -9497,19 +17685,83 @@ No se cobrarán derechos cuando se trate de animales para los que no se requiera
 
 Cuando la caza o captura de una especie esté vedada por las disposiciones en vigor, se pagará el derecho de caza deportiva conforme a las cuotas que a continuación se señalan según el riesgo de extinción de la especie, independientemente de las sanciones que procedan:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Aguila arpía, real o dorado, ballena jorobada o gris; berrendo, cochito, cóndor de California; elefante marino, foca fina de Guadalupe, lobo marino, halcón pradera y peregrino; guacamaya roja o verde; lobo mexicano; manatí; oso gris; oso negro; pavón o gran cornudo; tapir y jaguar; por cada uno........... $ 7`200,000.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Aguila solitaria; caimán; carpintero real o imperial; cocodrilo de río y de pantano; loro cabeza amarilla, cabeza azul o tehuano; mono aullador o zarahuato y araña; nutria marina y de río; ocelote; perro de las praderas; quetzal; teporingo o zacatuche; tortuga lora, verde o golfina; tucán pico de canoa y de collar y zopilote rey, por cada uno........... $ 1'600,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+I.- Aguila arpía, real o dorada,
 
-III.- Aguila calva o cabeza blaca; halcón aplomado; flamenco; guacamaya enana; monstruo de gila o escorpión; tigrillo; tortuga de mapimí o del desierto y tucan verde, por cada uno.. $ 800,000.00
+ballena jorobada o gris; berrendo,
 
-IV.- Oso hormiguero, pelícano café y oca salvaje por cada uno....... $ 250,000.00
+cochito, cóndor de California;
+
+elefante marino, foca fina de
+
+Guadalupe, lobo marino, halcón
+
+pradera y peregrino; guacamaya
+
+roja o verde; lobo mexicano;
+
+manatí; oso gris; oso negro;
+
+pavón o gran cornudo; tapir y
+
+jaguar; por cada uno $ 92,103.59 92,104.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Aguila solitaria; caimán;
+
+carpintero real o imperial;
+
+cocodrilo de río y de pantano;
+
+loro cabeza amarilla, cabeza
+
+azul o tehuano; mono aullador
+
+o zarahuato y araña; nutria
+
+marina y de río; ocelote; perro
+
+de las praderas; quetzal;
+
+teporingo o zacatuche;
+
+tortuga lora, verde o golfina;
+
+tucán pico de canoa y de collar
+
+y zopilote rey, por cada
+
+uno $ 61,402.34 61,402.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Aguila calva o cabeza
+
+blanca; halcón aplomado;
+
+flamenco; guacamaya enana;
+
+monstruo de gila o escorpión;
+
+tigrillo; tortuga de mapimí o
+
+del desierto y tucan verde, por
+
+cada uno $ 30,701.07 30,701.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Oso hormiguero, pelícano
+
+café y oca salvaje por cada uno $ 15,350.47 15,350.00
 
 No se estará obligado al pago del derecho a que se refiere este artículo y el anterior, cuando la captura de dichas especies se haga con la autorización de la autoridad competente para investigación científica o para preservar las especies.
 
@@ -9547,61 +17799,121 @@ Aquellos concesionarios o permisionarios u otros usuarios de servicios de teleco
 
 El derecho por el uso del espectro radioeléctrico, por los sistemas de radiocomunicación privada, se pagará anualmente por cada frecuencia asignada, conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
 I.- Para redes que cuenten con estaciones base o repetidoras:
 
-a).- Por cada estación base $ 3,800.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por cada estación repetidora $ 5,700.00
+a).- Por cada estación base $ 4,339.51 4,340.00
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-II.- Para quienes únicamente cuenten con equipos móviles o portátiles en la red, se pagará por todos los equipos móviles, portátiles o terminales de radiocomunicación privada de usuario $ 2,500.00
+b).- Por cada estación repetidora $ 6,509.27 6,509.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para quienes únicamente cuenten
+
+con equipos móviles o portátiles en la
+
+red, se pagará por todos los equipos
+
+móviles, portátiles o terminales de
+
+radiocomunicación privada de
+
+usuario $ 2,854.94 2,855.00
 
 III.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- Por cada frecuencia asignada a nivel nacional, no importando la cantidad de equipos bases o móviles $ 124'000,000.00
+IV.- Por cada frecuencia asignada a
 
-a).- Por frecuencia asignada a nivel regional, se pagará por entidad federativa, sin importar la cantidad de bases o móviles $ 6'000,000.00
+nivel nacional, no importando la cantidad
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+de equipos bases o móviles $ 581,735.59 581,736.00
 
-V.- Por los sistemas de alta frecuencia H.F., la cuota del derecho se pagará por hora frecuencia, tomando como mínimo dos horas diarias, por equipo terminal base o móvil.
+a).- Por frecuencia asignada a nivel regional,
 
-> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+se pagará por entidad federativa, sin importar
 
-VI.- Por la autorización provisional que no exceda de seis meses, se pagará diariamente por cada frecuencia $ 10,000.00
+la cantidad de bases o móviles $ 28,148.33 28,148.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+V.- Por los sistemas de alta frecuencia H.F.,
+
+la cuota del derecho se pagará por hora
+
+frecuencia, tomando como mínimo dos
+
+horas diarias, por equipo terminal base
+
+o móvil 610.70 611.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+VI.- Por la autorización provisional que
+
+no exceda de seis meses, se pagará
+
+diariamente por cada frecuencia $ 46.69 47.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
 VII.- Para los sistemas de radiocomunicación privada que restrinjan su área de cobertura exclusivamente a sus instalaciones o a aquellos sistemas que utilicen tecnologías de alta compatibilidad electromagnética, que no ocasionen problemas de interferencias a servicios establecidos que operen en bandas de frecuencias autorizadas y sistemas de espectro disperso, se cobrará:
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por equipo base $ 125,000.00
+a).- Por equipo base $ 489.33 489.00
 
-> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Por equipo móvil o portátil $ 25,000.00
+b).- Por equipo móvil o portátil $ 97.77 98.00
 
 > <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 VIII.- Para sistemas que utilicen el espectro radioeléctrico con fines de pruebas, con autorizaciones temporales con vigencia máxima de 6 meses, se pagará diariamente conforme a las siguientes cuotas:
 
-a).- Para equipos que operen en banda angosta $ 10,000.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-b).- Para equipos que operen en banda ancha $ 20,000.00
+a).- Para equipos que operen en
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+banda angosta $ 38.89 39.00
 
-IX.- Para el servicio privado móvil de radiocomunicación especializada de flotillas (trunking) se pagará por cada frecuencia sin importar el número de bases, móviles y repetidores $ 2,500.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+b).- Para equipos que operen en
 
-X.- Por la expedición de licencias de estaciones de radio a bordo de barcos y aviones $ 300.00
+banda ancha $ 78.15 78.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IX.- Para el servicio privado móvil de
+
+radiocomunicación especializada de
+
+flotillas (trunking) se pagará por cada
+
+frecuencia sin importar el número de
+
+bases, móviles y repetidores $ 5,712.29 5,712.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+X.- Por la expedición de licencias de
+
+estaciones de radio a bordo de barcos
+
+y aviones $ 401.21 401.00
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9625,21 +17937,59 @@ Las instituciones de asistencia médica o de beneficencia no contribuyentes del 
 
 El derecho por el uso del espectro radioeléctrico, por los enlaces redioeléctricos (sic) entre estudio-planta y de estaciones móviles remotas, correspondiente a los equipos transmisores, receptores y repetidores, se pagará anualmente conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión en A.M. y F.M................ $ 850,000.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Por cada frecuencia que utilice una estación transmisora, receptora y repetidora de enlace estudio-planta y de estaciones móviles remotas de estaciones de radiodifusión de televisión.............. $ 1'700,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+I.- Por cada frecuencia que utilice una estación
 
-III.- Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de radio restringido con señal digitalizada o de sistemas de música continua............. $ 1,500.00
+transmisora, receptora y repetidora de enlace
 
-> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+estudio-planta y de estaciones móviles remotas
 
-IV.- Por cada frecuencia que se utilice para enlaces de redes públicas de radiocomunicación fija para prestar servicios públicos de televisión restringida, sistemas de televisión por cable o televisión de alta definición............. $ 3,000.00
+de estaciones de radiodifusión en A.M. y
+
+F.M. $ 3,328.34 3,328.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada frecuencia que utilice una estación
+
+transmisora, receptora y repetidora de enlace
+
+estudio-planta y de estaciones móviles remotas
+
+de estaciones de radiodifusión de
+
+televisión $ 6,656.90 6,657.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por cada frecuencia que se utilice para
+
+enlaces de redes públicas de radiocomunicación
+
+fija para prestar servicios públicos de radio
+
+restringido con señal digitalizada o de sistemas
+
+de música continua $ 3,427.35 3,427.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+IV.- Por cada frecuencia que se utilice para
+
+enlaces de redes públicas de radiocomunicación
+
+fija para prestar servicios públicos de televisión
+
+restringida, sistemas de televisión por cable o
+
+televisión de alta definición $ 6,854.73 6,855.00
 
 > <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -9675,47 +18025,51 @@ Cuando se reutilicen las frecuencias a que se refieren las fracciones anteriores
 
 El derecho por el uso del espectro radioeléctrico, por el servicio de televisión restringida de servicio fijo de distribución terrenal punto a multipunto, de señales codificadas de audio y video por microondas, por cada megahertz concesionado, se pagará de conformidad con la tabla siguiente:
 
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 Área Básica de Servicio $
 
-denominada Cuota por MHz concesionado
+denominada Cuota por MHz
 
-1.- Culiacán 793.00
+concesionado
 
-2.- Hermosillo 670.00
+1.- Culiacán 1,600.00
 
-3.- Juárez 1,153.00
+2.- Hermosillo 1,352.00
 
-4.- Torreón 591.00
+3.- Juárez 2,328.00
 
-5.- Monterrey 6,314.00
+4.- Torreón 1,192.00
 
-6.- Saltillo 396.00
+5.- Monterrey 7,545.00
 
-7.- Mérida 528.00
+6.- Saltillo 798.00
 
-8.- Tuxtla Gutiérrez 563.00
+7.- Mérida 1,067.00
 
-9.- Villahermosa 751.00
+8.- Tuxtla Gutiérrez 1,136.00
 
-10.- Guadalajara 3,614.00
+9.- Villahermosa 1,516.00
 
-11.- León 1,401.00
+10.- Guadalajara 7,296.00
 
-12.- San Luis Potosí 634.00
+11.- León 2,827.00
 
-13.- Querétaro 1,368.00
+12.- San Luis Potosí 1,280.00
 
-14.- Puebla 1,549.00
+13.- Querétaro 2,762.00
 
-15.- Veracruz 542.00
+14.- Puebla 3,127.00
 
-16.- Oaxaca de Juárez 660.00
+15.- Veracruz 1,094.00
 
-17.- Ciudad de México 33,427.00
+16.- Oaxaca de Juárez 1,331.00
 
-18.- Toluca 1,119.00
+17.- Ciudad de México 39,944.00
 
-19.- Pachuca de Soto 550.00
+18.- Toluca 2,258.00
+
+19.- Pachuca de Soto 1,111.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9723,31 +18077,63 @@ denominada Cuota por MHz concesionado
 
 El derecho por el uso del espectro radioeléctrico, por los sistemas y redes públicas de comunicación, multicanales o monocanales entre estaciones móviles, portátiles o fijas, a través de una o más estaciones base, con o sin repetidor, se pagará anualmente conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Para el servicio de radiotelefonía celular, por cada frecuencia en uso y por cada región concesionada............. $ 1,272.97
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- Para el servicio de radiotelefonía móvil, convencional, por cada frecuencia asignada y por sistema............. $ 1,272.97
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+I.- Para el servicio de radiotelefonía celular,
 
-III.- Por los servicios de radiolocalización móvil de personas, radiolocalización de vehículos, radiolocalización móvil marítima y radiodeterminación, se pagarán derechos por frecuencia y por sistema............. $ 2,174.78.
+por cada frecuencia en uso y por cada región
+
+concesionada $ 2,908.59 2,909.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Para el servicio de radiotelefonía móvil,
+
+convencional, por cada frecuencia asignada
+
+y por sistema $ 2,908.59 2,909.00
+
+(ACTUALIZADA EN SU MONTO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- Por los servicios de radiolocalización móvil
+
+de personas, radiolocalización de vehículos,
+
+radiolocalización móvil marítima y
+
+radiodeterminación, se pagarán derechos
+
+por frecuencia y por sistema $ 2,908.59 2,909.00
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para los casos considerados en esta fracción se entenderá por sistema al área de cobertura del servicio concesionado, salvo para los casos de concesiones con cobertura nacional o regional en donde el sistema corresponde a cada entidad federativa involucrada dentro del área de concesión del servicio.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-IV.- En servicios móvil especializado de flotillas y de portadora común, se pagará el derecho por frecuencia y por sistema.............. $ 200.00
+IV.- En servicios móvil especializado de flotillas
+
+y de portadora común, se pagará el derecho por
+
+frecuencia y por sistema $ 314.98 315.00
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 Para fines de aplicación del derecho establecido en esta fracción se entenderá por sistema al área de cobertura servida por cada repetidor, sitio o base. Asimismo, en los sistemas en los que se reutilicen las frecuencias asignadas se aplicará en forma adicional, el derecho por cada frecuencia reutilizada y por sistema.
 
-> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-V.- Por el servicio de radiocomunicación móvil aeronáutica, por cada frecuencia y por estación base.............. $ 266.41.
+V.- Por el servicio de radiocomunicación móvil
+
+aeronáutica, por cada frecuencia y por estación
+
+base $ 356.28 356.00
 
 ###### ARTICULO 244-B.
 
@@ -9759,17 +18145,33 @@ V.- Por el servicio de radiocomunicación móvil aeronáutica, por cada frecuenc
 
 El derecho por el uso del espectro radioeléctrico, por los enlaces multicanales entre dos estaciones terminales para servicios públicos o privados para voz o datos, se pagará anualmente, por cada enlace, conforme a las siguientes cuotas:
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+1er. Trimestre 1er. trimestre
 
-I.- Por cada estación terminal o repetidor............. $ 743,000.00
+2000 2000
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+cuota sin ajuste cuota con ajuste
 
-II.- En cada canal de radiofrecuencia, por cada grupo de 120 canales telefónicos o fracción y hasta 960 canales telefónicos................. $ 743,000.00
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+I.- Por cada estación terminal o
 
-III.- En cada canal de radiofrecuencia, para capacidades adicionales a 960 canales telefónicos............... $ 743,000.00
+repetidor $ 2,909.33 2,909.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- En cada canal de radiofrecuencia, por cada
+
+grupo de 120 canales telefónicos o fracción
+
+y hasta 960 canales telefónicos $ 2,909.33 2,909.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+III.- En cada canal de radiofrecuencia, para
+
+capacidades adicionales a 960 canales
+
+telefónicos $ 2,909.33 2,909.00
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -9785,17 +18187,25 @@ La cuota total por cada enlace será el resultado de aplicar en forma acumulada 
 
 El derecho por el uso del espectro radioeléctrico, para sistemas de punto a punto o punto a multipunto entre estaciones terminales, a través de una o más estaciones base, con o sin repetidor, se pagará anualmente conforme a las siguientes cuotas:
 
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 I.- Por telefonía rural comunal:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por cada estación base o repetidor.................. N$ 200.00
+a).- Por cada estación base o
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+repetidor $ 593.81 594.00
 
-b).- Por estación terminal.................. N$ 75.00
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+b).- Por estación terminal $ 222.64 223.00
 
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
@@ -9805,21 +18215,35 @@ Tratándose de los servicios de telefonía rural proporcionados por los gobierno
 
 II.- Para servicios de voz o datos:
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-a).- Por cada estación base, nodo y cada repetidor se pagará por cada frecuencia... N$ 1,026.00
+a).- Por cada estación base, nodo y cada repetidor
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+se pagará por cada frecuencia $ 3,046.63 3,047.00
 
-b).- Por estación terminal en sistemas punto a punto, se pagará por cada frecuencia............. $ 1,138.87.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-> <small>(ADICIONADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
+b).- Por estación terminal en sistemas punto
 
-c).- Por frecuencia asignada a nivel regional se pagará por entidad federativa, sin importar la cantidad de bases, repetidores o estaciones terminales............. $ 12,319.17
+a punto, se pagará por cada
 
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+frecuencia $ 1,523.12 1,523.00
 
-d).- En sistemas punto a multipunto, por cada estación terminal............. $ 1,138.87.
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+c).- Por frecuencia asignada a nivel regional se
+
+pagará por entidad federativa, sin importar la
+
+cantidad de bases, repetidores o estaciones
+
+terminales $ 28,148.40 28,148.00
+
+(ACTUALIZADO EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+d).- En sistemas punto a multipunto,
+
+por cada estación terminal $ 1,523.12 1,523.00
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
 
@@ -9827,9 +18251,19 @@ d).- En sistemas punto a multipunto, por cada estación terminal............. $ 
 
 El derecho por el uso del espectro radioeléctrico, por los sistemas de enlaces transfronterizos fijos multicanales entre dos estaciones terminales, con o sin repetidor, se pagará anualmente conforme a las siguientes cuotas:
 
-I.- Por cada estación terminal.............. $ 500,000.00
+1er. Trimestre 1er. trimestre
 
-II.- Por cada canal telefónico............. $ 1'000,000.00
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+I.- Por cada estación terminal $ 3,047.88 3,048.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+II.- Por cada canal telefónico $ 6,095.96 6,096.00
 
 ###### ARTICULO 246.
 
@@ -9951,33 +18385,51 @@ Están obligadas a pagar los derechos sobre minería que establece este Capítul
 
 Los titulares de concesiones y asignaciones mineras pagarán semestralmente por cada hectárea o fracción concesionada o asignada, derechos sobre minería de acuerdo con las cuotas siguientes:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+1er. Trimestre 1er. trimestre
+
+2000 2000
+
+cuota sin ajuste cuota con ajuste
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 I.- Concesiones y asignaciones de exploración:
 
-a).- Durante el primer año de vigencia............. $ 1.1858.
+a).- Durante el primer año de
 
-b).- Del segundo al cuarto año de vigencia............. $ 3.59.
+vigencia $ 1.5856
 
-c).- A partir del quinto año de vigencia............. $ 7.33.
+b).- Del segundo al cuarto año de
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+vigencia $ 4.75 5.00
+
+c).- A partir del quinto año de
+
+vigencia $ 9.78 10.00
+
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
 II.- Concesiones de explotación:
 
-a).- Durante el primer y segundo año de vigencia............. $ 14.74.
+a).- Durante el primer y segundo año
 
-b).- Del tercero al cuarto año de vigencia............. $ 29.54.
+de vigencia $ 19.68 20.00
 
-c).- A partir del quinto año de vigencia............. $ 51.80.
+b).- Del tercero al cuarto año de
+
+vigencia $39.48 39.00
+
+c).- A partir del quinto año de
+
+vigencia $ 69.23 69.00
 
 La determinación del pago del derecho cuando la concesión o asignación cubra periodos inferiores a un semestre, se hará en la parte proporcional que corresponda con base en las mismas.
 
 En el caso de sustitución de concesiones o asignaciones por las causas previstas en la Ley Minera, excepto la contemplada por su artículo 15 párrafo tercero, la vigencia para efectos del pago del derecho sobre minería se computará a partir de la fecha de expedición de la concesión o asignación que se sustituye.
 
-> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+(ACTUALIZADO EN SU MONTO [N. DE E. REFORMADO], D.O.F. 28 DE DICIEMBRE DE 1999)
 
-Los titulares de concesiones mineras que al amparo de dichas concesiones exploren o exploten la sal gema, así como las sales y los subproductos que se obtengan de salinas formadas por aguas provenientes de mares actuales, superficial o subterráneamente, de modo natural o artificial, pagarán N$ 0.33 por tonelada vendida de sal y sus subproductos por concepto de derechos sobre minería. Cuando se otorguen al mismo concesionario nuevas concesiones, se pagará el 25% del derecho por hectárea que corresponda, conforme a lo establecido en este precepto, sin que el pago adicional exceda de un monto equivalente al que se derive de aplicar la cuota a que se refiere este párrafo.
+Los titulares de concesiones mineras que al amparo de dichas concesiones exploren o exploten sal gema, así como las sales y los subproductos que se obtengan por aguas provenientes de mares actuales superficial o subterráneamente, de modo natural o artificial, pagarán $ 1.0636 por tonelada vendida de sal y sus subproductos por concepto de derechos sobre minería. Cuando se otorguen al mismo concesionario nuevas concesiones, se pagará el 25% del derecho por hectárea que corresponda, conforme a lo establecido en este precepto, sin que el pago adicional exceda de un monto equivalente al que se derive de aplicar la cuota a que se refiere este párrafo.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -10435,29 +18887,39 @@ Los reportes que presente el responsable de la descarga estarán basados en dete
 
 Para calcular el monto del derecho a pagar por cada tipo de contaminante que rebase los límites máximos permisibles, se considerará el volumen de aguas residuales descargadas por trimestre y la carga de los contaminantes respectivos, de la siguiente forma:
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
 
-I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 0.5888 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.2943 por metro cúbico, para un cuerpo receptor tipo B o C.
+I.- Para coliformes fecales, el importe del derecho se determinará conforme a lo siguiente: si la descarga presenta un valor que supere el límite máximo permisible de 1,000 como número más probable (NMP) de coliformes fecales por cada 100 mililitros, el volumen descargado a que se refiere la fracción I, del artículo 278-B, de esta Ley, se multiplicará cada metro cúbico descargado al trimestre por $ 0.7872 por metro cúbico, si se trata de un cuerpo receptor tipo A y por $ 0.3934 por metro cúbico, para un cuerpo receptor tipo B o C.
 
 II.- Para el potencial Hidrógeno (pH), el importe del derecho se determinará de acuerdo con las cuotas indicadas en la Tabla II de este Capítulo, para ello, si la descarga se encuentra fuera de los límites máximos permisibles, superior a 10 o inferior a 5 unidades, el volumen descargado a que se refiere la fracción I, del artículo 278-B de esta Ley, se multiplicará por la cuota que corresponda según el rango en unidades de pH a que se refiere la citada Tabla.
 
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
 TABLA II
 
-CUOTAS EN PESOS POR METRO CÚBICO PARA POTENCIAL HIDROGENO (pH).
+CUOTAS EN PESOS POR METRO CUBICO PARA POTENCIAL HIDROGENO (pH).
 
-Rango en unidades Cuota por cada metro Rango en unidades Cuota por cada de pH cúbico descargado de pH metro cúbico
+Rango en unidades de pH Cuota por cada metro
 
-descargado
+cúbico descargado
 
-menor de 5 y hasta 4 $ 0.025 mayor de 10 y hasta 11 $ 0.115
+menor de 5 y hasta 4 0.034
 
-menor de 4 y hasta 3 0.075 mayor de 11 y hasta 12 0.349
+menor de 4 y hasta 3 0.114
 
-menor de 3 y hasta 2 0.225 mayor de 12 y hasta 13 0.494
+menor de 3 y hasta 2 0.350
 
-menor de 2 y hasta 1 0.650 mayor de 13 0.700
+menor de 2 y hasta 1 1.020
 
-menor de 1 0.900
+menor de 1 1.414
+
+mayor de 10 y hasta 11 0.177
+
+mayor de 10 y hasta 11 (sic) 0.544
+
+mayor de 10 y hasta 11 0.772
+
+mayor de 10 y hasta 11 1.098
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
 
@@ -10477,7 +18939,119 @@ c).- Para obtener el monto a pagar por cada contaminante, conforme al tipo de cu
 
 Para los contaminantes básicos, el resultado se multiplicará por 0.56 cuando la descarga sea a un cuerpo receptor tipo “A”; por 1.0 cuando la descarga sea a un cuerpo receptor tipo “B”; y por 1.2 cuando la descarga sea a un cuerpo receptor tipo “C”.
 
-(VEASE ARCHIVO ANEXO)
+(ACTUALIZADA EN SU MONTO, D.O.F. 28 DE DICIEMBRE DE 1999)
+
+TABLA III
+
+CUOTAS EN PESOS POR KILOGRAMO POR INDICE DE CUMPLIMIENTO DE LA DESCARGA
+
+Rango de Incumplimientos Cuota por kilogramo
+
+Contaminantes Metales
+
+Básicos Pesados y Cianuros
+
+mayor de 0.0 y hasta 0.10 0 0
+
+mayor de 0.10 y hasta 0.20 1.44 59.78
+
+mayor de 0.20 y hasta 0.30 1.72 70.97
+
+mayor de 0.30 y hasta 0.40 1.91 78.49
+
+mayor de 0.40 y hasta 0.50 2.04 84.27
+
+mayor de 0.50 y hasta 0.60 2.18 89.05
+
+mayor de 0.60 y hasta 0.70 2.27 93.15
+
+mayor de 0.70 y hasta 0.80 2.38 96.79
+
+mayor de 0.80 y hasta 0.90 2.43 100.04
+
+mayor de 0.90 y hasta 1.00 2.52 103.01
+
+mayor de 1.00 y hasta 1.10 2.57 105.71
+
+mayor de 1.10 y hasta 1.20 2.67 108.26
+
+mayor de 1.20 y hasta 1.30 2.71 110.61
+
+mayor de 1.30 y hasta 1.40 2.75 112.84
+
+mayor de 1.40 y hasta 1.50 2.84 114.91
+
+mayor de 1.50 y hasta 1.60 2.87 116.89
+
+mayor de 1.60 y hasta 1.70 2.90 118.79
+
+mayor de 1.70 y hasta 1.80 2.97 120.58
+
+mayor de 1.80 y hasta 1.90 3.01 122.30
+
+mayor de 1.90 y hasta 2.00 3.03 123.93
+
+mayor de 2.00 y hasta 2.10 3.10 125.51
+
+mayor de 2.10 y hasta 2.20 3.13 127.05
+
+mayor de 2.20 y hasta 2.30 3.16 128.51
+
+mayor de 2.30 y hasta 2.40 3.19 129.94
+
+mayor de 2.40 y hasta 2.50 3.22 131.33
+
+mayor de 2.50 y hasta 2.60 3.25 132.66
+
+mayor de 2.60 y hasta 2.70 3.29 133.94
+
+mayor de 2.70 y hasta 2.80 3.33 135.21
+
+mayor de 2.80 y hasta 2.90 3.37 136.43
+
+mayor de 2.90 y hasta 3.00 3.39 137.60
+
+mayor de 3.00 y hasta 3.10 3.42 138.77
+
+mayor de 3.10 y hasta 3.20 3.45 139.90
+
+mayor de 3.20 y hasta 3.30 3.47 141.02
+
+mayor de 3.30 y hasta 3.40 3.50 142.09
+
+mayor de 3.40 y hasta 3.50 3.53 143.15
+
+mayor de 3.50 y hasta 3.60 3.57 144.15
+
+mayor de 3.60 y hasta 3.70 3.58 145.15
+
+mayor de 3.70 y hasta 3.80 3.61 146.16
+
+mayor de 3.80 y hasta 3.90 3.64 147.12
+
+mayor de 3.90 y hasta 4.00 3.65 148.07
+
+mayor de 4.00 y hasta 4.10 3.67 149.01
+
+mayor de 4.10 y hasta 4.20 3.68 149.92
+
+mayor de 4.20 y hasta 4.30 3.72 150.81
+
+mayor de 4.30 y hasta 4.40 3.74 151.71
+
+mayor de 4.40 y hasta 4.50 3.76 152.56
+
+mayor de 4.50 y hasta 4.60 3.80 153.41
+
+mayor de 4.60 y hasta 4.70 3.81 154.25
+
+mayor de 4.70 y hasta 4.80 3.82 155.07
+
+mayor de 4.80 y hasta 4.90 3.84 155.89
+
+mayor de 4.90 y hasta 5.00 3.86 156.69
+
+mayor de 5.00 3.88 157.48
 
 IV.- Una vez efectuado el cálculo trimestral del derecho por cada contaminante, el contribuyente estará obligado a pagar únicamente el monto que resulte mayor para el trimestre que corresponda.
 
@@ -12838,3 +21412,7 @@ Para efectos del párrafo anterior la actualización deberá de efectuarse en lo
 Los contribuyentes deudores de los derechos a que se refieren los artículos 232-C y 232-D de la Ley Federal de Derechos, que hubieren impugnado los créditos fiscales mediante recursos administrativos o juicio, gozarán de los beneficios de la presente disposición, siempre y cuando presenten ante la Secretaría de Medio Ambiente, Recursos Naturales y Pesca, dentro de los meses de enero a diciembre de 1999, copia sellada del escrito de desistimiento.
 
 Los contribuyentes que se acojan a los beneficios establecidos en esta fracción y que incumplan con lo dispuesto en la misma, perderán los citados beneficios, debiendo calcular el importe a pagar de acuerdo a lo previsto en las disposiciones fiscales aplicables, considerando las actualizaciones y los recargos correspondientes, desde que se generó el adeudo. Asimismo, dichos beneficios no serán acumulables para efectos fiscales, ni darán derecho a devolución o compensación alguna.
+
+D.O.F. 28 DE DICIEMBRE DE 1999.
+
+LA ACTUALIZACION POR MISCELANEA FISCAL CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE FEDERAL.
