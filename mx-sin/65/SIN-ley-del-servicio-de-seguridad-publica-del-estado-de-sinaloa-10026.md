@@ -4,7 +4,7 @@ identifier: "SIN-ley-del-servicio-de-seguridad-publica-del-estado-de-sinaloa-100
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "1986-04-04"
+last_updated: "1993-04-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10026&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DEL SERVICIO DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ABRIL DE 1993.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el viernes 4 de abril de 1986.
 
@@ -45,9 +45,11 @@ LEY DEL SERVICIO DE SEGURIDAD PUBLICA DEL ESTADO DE SINALOA
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto establecer las bases para regular el servicio de seguridad pública en el Estado.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 2o.
 
-Es propósito del servicio de seguridad pública mantener la paz, la tranquilidad y el orden públicos (sic) y prevenir la comisión de los delitos y la violación a las leyes, reglamentos y demás disposiciones.
+Se entiende por seguridad pública para efectos de esta ley, la organización estatal y municipal como institución de gobierno, orientada al mantenimiento del respeto al derecho, a la tranquilidad y orden público, a la prevención de la comisión de delitos y a la consiguiente protección de las personas en su integridad y en sus bienes.
 
 ###### ARTICULO 3o.
 
@@ -63,6 +65,8 @@ El servicio de seguridad pública constituye una función prioritaria a cargo de
 
 ### CAPITULO II. DE LAS AUTORIDADES
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 6o.
 
 Son autoridades estatales en materia de seguridad pública:
@@ -71,9 +75,25 @@ I.- El Gobernador del Estado;
 
 II.- El Procurador General de Justicia;
 
-III.- El director de Policía Judicial; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
 
-IV.- El Director de Tránsito y Autotransporte.
+III.- El Secretario General de Gobierno;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+IV.- El Secretario de Protección Ciudadana;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+V.- El Director de la Policía Judicial;
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VI.- El Director General de Tránsito y Transportes, o la autoridad que legalmente lo substituya; y
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VII.- El Director de Prevención y Readaptación Social.
 
 ###### ARTICULO 7o.
 
@@ -93,7 +113,9 @@ Son atribuciones del Gobernador del Estado:
 
 I.- Mantener el orden público, preservando la paz y tranquilidad social y la seguridad interior del Estado;
 
-II.- Celebrar convenios o acuerdos con las autoridades federales, de las entidades federativas y municipales, para la mejor prestación del servicio de seguridad pública en el Estado;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+II.- Celebrar convenios o acuerdos con las autoridades federales, de las entidades federativas y municipales por sí o por conducto de la Procuraduría General de Justicia y la Secretaría de Protección Ciudadana, para la mejor prestación del servicio de Seguridad Pública en el Estado;
 
 III.- Vigilar el estricto cumplimiento de esta Ley; y,
 
@@ -103,11 +125,51 @@ IV.- Las que le confieran la presente ley y demás ordenamientos legales aplicab
 
 El Gobernador del Estado tendrá el mando de los cuerpos de Seguridad Pública del Estado y de los Municipios donde resida habitual o transitoriamente. En los demás casos el mando se ejercerá por los Presidentes Municipales.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 10.
 
-El Procurador General de Justicia, el director de Policía Judicial y el Director de Tránsito y Autotransporte, tendrán las atribuciones que señalen los ordenamientos legales aplicables y serán los encargados de ejectar las disposciones que dicte el Gobernador del Estado en ejercicio de sus facultades.
+Las autoridades señaladas en el artículo 6o. de la presente ley, tendrán las atribuciones y facultades que señalen los ordenamientos legales aplicables y serán las encargadas de ejecutar las disposiciones que en materia de seguridad pública dicte el Gobernador del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 11.
+
+Compete a la Secretaría de Protección Ciudadana:
+
+I- Formular y ejercer los programas de inspección operativa sobre los cuerpos de seguridad estatal y municipal, previo acuerdo o convenio que establezca con los ayuntamientos, a fin de evaluar el funcionamiento de los mismos y el avance de los programas, proponiendo ante las autoridades que correspondan, acciones correctivas y sobre la normatividad que deba observarse;
+
+II.- Establecer la normatividad y ejercer la supervisión del uso de las centrales de radio, telefonía, redes especiales de comunicación y centros repetidores de las corporaciones de seguridad pública estatal y municipal, proponiendo acciones correctivas que procuren el buen uso y optimar los recursos;
+
+III.- Formular y proponer programas de seguridad pública, ante las autoridades estatales y municipales, así como vigilar el cumplimiento de los mismos; supervisar además, las acciones que realicen las corporaciones de seguridad en materia de prevención y persecución del delito así como del cuidado de los reclusorios para adultos y jóvenes, proponiendo lo conducente a los titulares de las mismas;
+
+IV.- Coordinar las acciones de auxilio necesario a través de la fuerza pública estatal y municipal, los cuerpos de rescate, de bomberos, atención médica y demás medios de que se disponga, así como otros recursos humanos, financieros y materiales en situaciones de emergencia provocada por la naturaleza o el hombre;
+
+V.- Diseñar con la participación de las autoridades estatales y municipales el programa estatal de seguridad pública, supervisar su cumplimiento, establecer los mecanismos de control y de evaluación y actualizar sus contenidos;
+
+VI.- Informar bimestralmente al Ejecutivo Estatal, el estado que guarda la seguridad pública en el Estado y en los municipios en lo particular, así como vigilar el cumplimiento de las políticas que en la materia determine, y las que establecen las leyes;
+
+VII.- Planear y ejercer con la participación de las dependencias que correspondan, los apoyos de inversión para el Programa Estatal de Seguridad Pública, así como para la adquisición del equipamiento necesario a las corporaciones, acorde con los objetivos y necesidades;
+
+VIII.- Asesorar y representar al Ejecutivo Estatal en materia de seguridad pública, en reuniones, foros, simposium, congresos y actividades similares, así como para la celebración de convenios con la Federación, entidades federativas, municipios u otros organismos e instituciones, dándole la intervención legal que le competa a la Procuraduría General de Justicia;
+
+IX.- Planear, diseñar, coordinar y realizar los programas de participación ciudadana en materia de seguridad pública;
+
+X.- Organizar el sistema de análisis, supervisión y control, sobre el comportamiento del personal operativo en servicio, manteniendo un archivo estatal actualizado de los expedientes de dicho personal, el destino y uso del equipamiento policiaco, la práctica de los exámenes antidrogas y recepción y seguimiento sobre quejas y denuncias del público; y (sic)
+
+XI.- Cuando el interés público lo requiera, previo acuerdo del ayuntamiento, se hará cargo de los servicios operativos especiales o extraordinarios de la Dirección de Seguridad Pública Municipal que corresponda.
+
+XII.- Organizar y operar directamente el sistema estatal de formación y desarrollo de los recursos humanos que requieren los programas de justicia y seguridad pública, para lo cual, podrá realizar y celebrar todas las acciones y convenios con instituciones y organismos que conduzcan al cometido de este objetivo.
+
+XIII.- Convocar a los ciudadanos a los cursos que impartirá el Instituto Estatal de Ciencias Penales y Seguridad Pública, para capacitar a los elementos que pretendan formar parte de los cuerpos de seguridad pública del Estado o municipios.
+
+XIV.- Proponer al Instituto Estatal de Ciencias Penales y Seguridad Pública a los aspirantes que pretendan formar parte de los cuerpos de seguridad pública del Estado o municipios.
+
+XV.- Formular y ejecutar sistemas de protección de testigos, cuyos atestos revistan nodal importancia para la seguridad pública del Estado o municipios.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 11 Bis.
 
 Compete a los Presidentes Municipales:
 
@@ -119,7 +181,9 @@ III.- Celebrar convenios o acuerdos con las autoridades federales y estatales pa
 
 IV.- Participar en comisiones y programas de seguridad pública;
 
-V.- Reclutar aspirantes para ingresar a la Academia Estatal de Policía de Sinaloa y coadyuvar a su sostenimiento; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+V.- Auxiliar en el reclutamiento de aspirantes para ingresar a la institución encargada de la formación y capacitación de las fuerzas de seguridad pública en el Estado y coadyuvar a su sostenimiento;
 
 VI.- Ejercer las demás facultades que le confieran esta ley y los ordenamientos aplicables.
 
@@ -137,23 +201,37 @@ IV.- Propugnar por la profesionalización de los integrantes de los cuerpos de s
 
 V.- Ejercer las demás facultades que les confieran esta ley y los ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 13.
 
-Los Directores de Seguridad Pública Municipal, tendrán las atribuciones que señalen los ordenamientos legales aplicables y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten los Presidentes Municipales.
+Los Directores de Seguridad Pública Municipal, tendrán las atribuciones que señalen los ordenamientos legales aplicables y serán los encargados de ejecutar las disposiciones que en uso de sus facultades dicten las autoridades señaladas en el artículo 6o. de esta ley.
 
 ### CAPITULO IV. CLASIFICACION Y ATRIBUCIONES DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 14.
 
-Los cuerpos de seguridad pública son:
+Los cuerpos de seguridad que forman la fuerza pública en el Estado son:
 
-I.- En el ámbito estatal, las policías judicial y de tránsito; y,
+I.- En el ámbito estatal:
 
-II.- En el ámbito municipal, la policía preventiva.
+a) La Policía Judicial;
+
+b) La Policía de Tránsito; y
+
+c) El Cuerpo de Seguridad y Custodia de los reclusorios del Estado.
+
+II.- En el ámbito municipal:
+
+a) La Policía Preventiva Municipal.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 15.
 
-Los cuerpos de seguridad pública tendrán atribuciones normativas, operativas y de supervisión.
+Los cuerpos de seguridad pública tendrán atribuciones normativas, operativas y de supervisión, en el ámbito de su competencia.
 
 ###### ARTICULO 16.
 
@@ -173,13 +251,19 @@ IV.- Ejecutar los programas y acciones diseñados para prevenir los delitos; y,
 
 V.- Realizar acciones de auxilio a la población en casos de siniestros o de accidentes.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VI.- La custodia interna y externa, así como mantener el orden y la disciplina de los establecimientos de reclusión.
+
 ###### ARTICULO 18.
 
 Son atribuciones operativas de los cuerpos de seguridad pública municipal:
 
 I.- Observar y hacer cumplir los bandos de policía y buen gobierno;
 
-II.- Efectuar labores de vigilancia en la vía pública, parques y lugares destinados a espectáculos públicos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+II.- Efectuar labores de vigilancia en la vía pública, parques, edificios y lugares destinados a espectáculos públicos;
 
 III.- Vigilar que la propaganda que se realice en la vía pública no sea contraria a la moral y a las buenas costumbres;
 
@@ -187,13 +271,19 @@ IV.- Combatir toda manifestación pornográfica, el consumo de bebidas embriagan
 
 V.- Realizar acciones de auxilio a la población en casos de siniestros o de accidentes;
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VI.- Orientar y proporcionar ayuda a la población minusválida, deficientes visuales, ciegos, o personas que tengan cualesquier impedimento físico que les impida conducirse con seguridad en la vía pública.
+
 ###### ARTICULO 19.
 
 Se entiende por atribución de supervisión, la evaluación, verificación y control del cumplimiento de las disposiciones contenidas en la presente Ley y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 20.
 
-Para el mejor cumplimiento de sus funciones, los cuerpos de seguridad pública estatales y municipales se podrán auxiliar de las instituciones de servicio y asistencia social que operan en el Estado.
+Para el mejor cumplimiento de sus funciones, los cuerpos de seguridad pública estatales y municipales se podrán auxiliar de otras dependencias gubernamentales y de las instituciones de servicio y asistencia social que operan en el Estado.
 
 ### CAPITULO V. DE LAS OBLIGACIONES DE LOS CUERPOS DE SEGURIDAD PÚBLICA
 
@@ -209,13 +299,37 @@ III.- Recoger del personal que cause baja del servicio, el arma, credencial, equ
 
 IV.- Eliminar el uso de grados e insignias reservados al Ejército, Armada y Fuerza Aérea;
 
-V.- Permitir la realización de prácticas de servicio egresados de la Academia Estatal de Policía de Sinaloa; y,
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+V.- Permitir la realización de prácticas de servicio a los aspirantes de la institución encargada de la formación y capacitación de las fuerzas de seguridad pública en el Estado;
 
 VI.- Las demás que les confieran esta Ley y los ordenamientos aplicables.
 
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VII.- Exigir uniforme reglamentario en el desempeño de su cargo.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VIII.- Utilizar sólo vehículos identificados e identificables fácilmente por la población, como unidades policíacas.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+IX.- Evitar la práctica de torturas físicas o mentales e incomunicación de los detenidos.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+X.- Sólo recluir en los lugares que reúnan las condiciones mínimas de salubridad, higiene, comunicación y seguridad, requeridas para tal efecto.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+XI.- Las demás que les confieran esta Ley y los ordenamientos aplicables.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 22.
 
-Los nombramientos para cubrir las vacantes y plazas de nueva creación en las corporaciones policiales, sólo podrán otorgarse a egresados de la Academia Estatal de Policía de Sinaloa o de una institución similar.
+Los nombramientos para cubrir las vacantes y plazas de nueva creación en las corporaciones policiales, sólo podrán otorgarse a egresados de la institución encargada de la formación y capacitación de las fuerzas de seguridad pública en el Estado o similares.
 
 ###### ARTICULO 23.
 
@@ -249,13 +363,29 @@ Los cuerpos de seguridad pública deberán dotar a su personal de credencial que
 
 Las credenciales deberán ser firmadas:
 
-I.- Tratándose de la Policía Judicial, por su Director, el Procurador General de Justicia y el Subsecretario "A" de Gobierno;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
 
-II.- En el caso de la policía de tránsito, por su Director y el Subsecretario "A" de Gobierno; y
+I.- Tratándose de la Policía Judicial, por el Procurador General de Justicia y el Director de dicho cuerpo policial.
 
-III.- Por lo que hace a las policías preventivas, por el Presidente Municipal y el Director de Seguridad Pública.
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
 
-Los servidores públicos a que se refiere este artículo, incurrirán en responsabilidad oficial, cuando expidan credenciales a personas que no pertenezcan a las corporaciones policiales.
+II.- Tratándose de la Policía de Tránsito, por el Secretario del área y por su Director.
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+III.- De los Cuerpos de Seguridad y Custodia de los reclusorios del Estado, por el Director de Prevención y Readaptación Social y los Directores correspondientes.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+IV.- Por lo que hace a los Cuerpos de Seguridad Pública Municipal por el Presidente Municipal y por los Directores del área.
+
+> <small>(ADICIONADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+V.- Todas las credenciales deberán ser foliadas y para su registro se enviará copia a la Secretaría de Protección Ciudadana.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
+Los servidores públicos a que se refiere este artículo, incurrirán en responsabilidad oficial, cuando expidan credenciales a personas que no pertenezcan a las corporaciones policíacas.
 
 ### CAPITULO VI. DE LA COORDINACION DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
@@ -267,9 +397,11 @@ La coordinación de los cuerpos de seguridad pública tiene como objetivo fundam
 
 La coordinación podrá ser establecida entre los cuerpos de Seguridad Pública del Estado y de los Municipios y de aquellos con los de otras entidades federativas.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 32.
 
-La coordinación estará sujeta a lo dispuesto en la presente Ley, en los reglamentos, convenios y acuerdos respectivos.
+En el supuesto establecido en los artículos 30 y 31, podrá intervenir la Secretaría de Protección Ciudadana en coordinación con la Procuraduría General de Justicia, conforme a lo dispuesto a la presente ley, en los reglamentos, convenios y acuerdos respectivos.
 
 ### CAPITULO VII. POSESION Y PORTACION DE ARMAS DE LOS CUERPOS DE SEGURIDAD PUBLICA
 
@@ -289,9 +421,13 @@ Son derechos de los integrantes de las corporaciones policiales:
 
 I.- Recibir cursos de capacitación y adiestramiento;
 
-II.- Participar en los concursos de promoción para ascensos;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
 
-III.- Obtener estímulos y condecoraciones;
+II.- Participar en los concursos para la obtención de ascensos, estímulos, condecoraciones y becas para ellos, y para sus hijos, en cuanto a este último beneficio;
+
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+III.- Ser sujetos del régimen de asistencia social para la obtención de servicios médicos, seguro de vida, gastos de funeral y vivienda.
 
 IV.- Gozar de un trato digno y decoroso;
 
@@ -301,7 +437,9 @@ VI.- Gozar de las prestaciones y servicios de seguridad social;
 
 VII.- Recibir asesoría jurídica por las autoridades estatales y municipales en los casos en que por motivo del cumplimiento del servicio incurra, sin dolo, en hechos que pudiesen ser constitutivos de delito;
 
-VIII.- Colaborar como instructores técnicos con la Academia Estatal de Policía de Sinaloa;
+> <small>(REFORMADA, P.O. 5 DE ABRIL DE 1993)</small>
+
+VIII.- Colaborar como instructores técnicos en la formación y capacitación del personal de las fuerzas públicas en el Estado.
 
 IX.- Recibir la dotación de armas, parque, uniformes y divisas que deberán portar en el ejercicio de sus funciones;
 
@@ -393,11 +531,11 @@ Las correcciones disciplinarias para los integrantes de los cuerpos de seguridad
 
 Las autoridades a que esta Ley se refiere, promoverán la creación y funcionamiento de los Consejos Consultivos Estatal y Municipales de Seguridad Pública.
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
+
 ###### ARTICULO 47.
 
-Los Consejos serán organismos normativos y técnicos de apoyo, con la integración y atribuciones que en la materia les fijen las disposiciones aplicables.
-
-Igualmente actuarán como foros institucionales de consulta para que la sociedad sugiera las modalidades de la prestación del servicio de seguridad pública.
+Los consejos serán organismos normativos y técnicos de apoyo, con la integración y atribuciones que en materia les fijen las disposiciones aplicables y el Reglamento respectivo que expida el Ejecutivo del Estado.
 
 ###### ARTICULO 48.
 
@@ -407,23 +545,51 @@ Los Consejos participarán en la elaboración de planes y programas estatales y 
 
 Los organismos a que se refiere el presente capítulo, diseñarán y recomendarán mecanismos que procuren en la población, la creación de hábitos que contribuyan a la seguridad individual y colectiva.
 
-### CAPITULO XII. ACADEMIA ESTATAL DE POLICIA DE SINALOA
+> <small>(REFORMADA SU DENOMINACION, P.O. 5 DE ABRIL DE 1993)</small>
+
+### CAPITULO XII. INSTITUTO ESTATAL DE CIENCIAS PENALES Y SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 50.
 
-La Academia Estatal de Policía de Sinaloa tendrá por objeto la preparación profesional de los aspirantes a integrar los cuerpos de seguridad pública, en las modalidades de policía judicial, de tránsito y preventiva, así como la actualización del personal en servicio y la capacitación de maestros e investigadores en la materia.
+El Instituto Estatal de Ciencias Penales y Seguridad Pública, tiene como objetivo la formación, capacitación y especialización de todos y cada uno de los elementos, que realizan la función de seguridad pública y de procuración e impartición de justicia en el Estado, tratándose del ámbito Estatal o Municipal; buscando de esta forma, la profesionalización de los cuerpos y organismos que inciden en la tranquilidad social.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 51.
 
-La Academia impartirá gratuitamente cursos básicos, medio y superior de especialización, de actualización y de promoción para el mejoramiento profesional de los integrantes de los cuerpos de seguridad pública.
+El Instituto, establecerá el curso básico para la formación de los aspirantes a integrarse al servicio de seguridad pública en el Estado y capacitando a los integrantes de los cuerpos de seguridad pública, así como la impartición de cursos de actualización y profesionalización al personal en activo de los niveles inferior, medio y superior, además de la formación operativa y académica de especialistas e instructores policiales.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 52.
 
-La Academia tendrá la organización y atribuciones que les señalen la ley orgánica respectiva.
+El Instituto se regirá por su Ley Orgánica respectiva, dependiendo directamente del Secretario de Protección Ciudadana, considerándose a todo su personal, instructores y aspirantes, como elementos de confianza del Estado.
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 1993)</small>
 
 ###### ARTICULO 53.
 
-Los egresados de la Academia tendrán preferencia para ocupar cargos en los cuerpos de seguridad pública del Estado y de los Municipios.
+El Instituto celebrará los convenios con las diferentes instituciones educativas de nivel medio y superior, así como con agrupaciones de profesionistas, para obtener el apoyo técnico académico que se requiera.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 54.
+
+Se otorgará el reconocimiento académico, por las autoridades competentes en el Estado, de todos los títulos, certificados, diplomas, constancias y otros documentos escolares que expida el Instituto.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 55.
+
+El titular del Instituto será nombrado por el Gobernador del Estado, de una terna que le sea propuesta por el Secretario de Protección Ciudadana, pudiendo ser removido libremente por el propio Ejecutivo Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 1993)</small>
+
+###### ARTICULO 56.
+
+Los egresados del Instituto, tendrán preferencia para ocupar los cargos y mandos, en los diferentes organismos y cuerpos de seguridad pública del Estado y Municipios.
 
 TRANSITORIOS:
 
@@ -470,3 +636,15 @@ ANTONIO TOLEDO CORRO
 El Secretario de Gobierno
 
 LIC. ELEUTERIO RIOS ESPINOZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE ABRIL DE 1993.
+
+###### ARTICULO PRIMERO.
+
+Los títulos, certificados, diplomas, constancias y otros documentos escolares que haya expedido la Academia Estatal de Policía, tendrán pleno reconocimiento académico.
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
