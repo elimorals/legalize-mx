@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-para-el-servicio-publico-de-transporte-en-37944"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-02-23"
-last_updated: "2004-02-23"
+last_updated: "2004-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 REGLAMENTO PARA EL SERVICIO PUBLICO DE TRANSPORTE EN VEHICULOS DE ALQUILER EN EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2004.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 23 de febrero de 2004.
 
@@ -365,7 +365,7 @@ XII. Informar al órgano competente de los cambios de taxímetro que realice con
 
 XIII. Aplicar las tarifas autorizadas y vigilar que los conductores a su servicio las respeten;
 
-XIII(sic). Cumplir los requerimientos que haga la autoridad, en los plazos que le señalen.
+XIII (SIC). Cumplir los requerimientos que haga la autoridad, en los plazos que le señalen.
 
 ### CAPITULO II. Los Conductores
 
@@ -533,7 +533,9 @@ k) Sin modificaciones al sistema de escape original;
 
 II. Estado físico:
 
-1) El color será de la gama cromática Pantone, color rojo número 185 o similar;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2004)</small>
+
+1) El color será de la gama cromática Pantone, color rojo número 185 o similar, del cual deberá ir pintado todo el vehículo cuando éste pertenezca al municipio de Aguascalientes y Jesús María y en el caso de vehículos asignados a los demás municipios, el toldo deberá ser de color blanco;
 
 2) Los rótulos del automóvil deberán ser blancos con las siguientes especificaciones:
 
@@ -559,7 +561,9 @@ El sitio deberá anotarse con letra molde, de 2 cms. de base por 6 cms. de altur
 
 10) Sin propaganda de ningún tipo;
 
-11) Sin adhesivos, calcomanías, leyendas o personajes ilustrados, con excepción de las proporcionadas con información de la agrupación a la que pertenezca y las que autorice el Comisionado; y
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2004)</small>
+
+11) Sin adhesivos, calcomanías, leyendas o personajes ilustrados, con excepción de las proporcionadas con información de la agrupación a la que pertenezcan y las que autorice el órgano competente.
 
 12) No portar objetos que interfieran el área de visión del conductor;
 
@@ -731,9 +735,11 @@ La expedición de la tarjeta de identificación a que se refiere este capítulo,
 
 Las tarjetas de identificación tendrán una vigencia de tres años, debiendo solicitar el interesado su renovación al vencimiento de la misma, para lo cual se requerirá que se encuentre activo como conductor, debiendo estar registrado en una concesión, o demuestre haberse desempeñado como tal cuando menos durante un plazo de tres meses durante el último año de vigencia de su tarjeta.
 
-###### ARTICULO 74.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2004)</small>
 
-Para la expedición o en caso renovación de la tarjeta de identificación de conductor de taxi se requiere:
+###### ARTÍCULO 74.
+
+Para la expedición o en caso de renovación de la tarjeta de identificación de conductor de taxi, se requiere:
 
 I. Presentar el interesado, debidamente firmado por el concesionario, el formato oficial de la solicitud, donde deberá especificarse qué tipo de conductor es: conductor de base o conductor extra, acompañado de la siguiente documentación:
 
@@ -750,6 +756,10 @@ e. Recibo de pago por expedición o renovación de tarjeta de identificación;
 f. En caso de renovación, presentar la tarjeta de identificación anterior.
 
 Una vez que se verifique que el interesado haya cumplido con el requisito del artículo anterior y no se encuentre en los supuestos de los artículos 92 y 93, ambos del presente reglamento, se le tomará la fotografía para su tarjeta de identificación, haciendo entrega de la tarjeta de identificación.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2004)</small>
+
+Una vez que se verifique que el interesado haya cumplido con el requisito del artículo anterior y no se encuentre en los supuestos de los artículos 79 y 80, ambos del presente reglamento se !e tomará la fotografía para su tarjeta de identificación, haciendo entrega de la tarjeta de Identificación.
 
 ###### ARTICULO 75.
 
@@ -773,9 +783,11 @@ V. Los demás datos que señale la autoridad.
 
 El titular de la tarjeta deberá solicitar la renovación de la misma en el mes en que expire su vigencia, de no hacerlo, se le cancelará.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 78.
 
-En caso de destrucción, robo o extravío de la tarjeta, su titular deberá solicitar por escrito su reposición, verificando la autoridad en sus archivos si el documento extraviado gozaba de vigencia, autorizando su reposición previo pago de los derechos respectivos.
+En caso de destrucción, robo o extravío de la tarjeta, su titular deberá solicitar por escrito su reposición, adjuntando el acta informativa que levante ante el Ministerio Público, verificando la autoridad en sus escritos si el documento extraviado gozaba de vigencia, autorizando su reposición previo pago de los derechos respectivos.
 
 ###### ARTICULO 79.
 
@@ -971,9 +983,11 @@ El órgano competente, contará con un cuerpo de verificadores que tendrán a su
 
 Para el adecuado cumplimiento de sus atribuciones los verificadores podrán auxiliarse de los cuerpos de seguridad y tránsito estatales o municipales, según corresponda.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 97.
 
-Los inspectores tendrán las atribuciones siguientes:
+Los verificadores tendrán las atribuciones siguientes:
 
 I. Efectuar las visitas de verificación que, en el cumplimiento de sus funciones procedan;
 
@@ -1077,9 +1091,11 @@ Se sancionará con la Cancelación de la Concesión el incumplimiento a las cond
 
 Se sancionará con la Revocación de la Concesión al concesionario que incurra en incumplimiento de las disposiciones contenidas en los artículos 32 fracción I y 70, así como la señalada en el artículo 103 de este reglamento, además de las previstas en el Código.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2004)</small>
+
 ###### ARTICULO 115
 
-Los inspectores podrán adoptar como medida de seguridad la suspensión del servicio de una concesión, en caso de detectar anomalías que pongan en riesgo a los usuarios, así como a terceros, para efecto de que se corrijan dichas anomalías, lo anterior de conformidad con el Código.
+Los verificadores podrán adoptar como medida de seguridad la suspensión del servicio de una concesión, en caso de detectar anomalías que pongan en riesgo a los usuarios, así como a terceros, para efecto de que se corrijan dichas anomalías, lo anterior de conformidad con el Código.
 
 ###### ARTICULO 116.
 
@@ -1132,3 +1148,9 @@ Lic. Abelardo Reyes Sahagún.
 EL SECRETARIO DE DESARROLLO SOCIAL,
 
 C.P. Marco Aurelio Hernández Pérez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 15 DE MARZO DE 2004.
+
+EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
