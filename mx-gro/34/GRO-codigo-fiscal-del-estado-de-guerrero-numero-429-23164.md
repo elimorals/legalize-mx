@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-del-estado-de-guerrero-numero-429-23164"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-28"
-last_updated: "2001-12-28"
+last_updated: "2004-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23164&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL DEL ESTADO DE GUERRERO, NUMERO 429
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Alcance Número I del Periódico Oficial del Estado de Guerrero, el viernes 28 de diciembre de 2001.
 
@@ -373,7 +373,11 @@ XVI.- Las demás personas que señalen las leyes fiscales.
 
 Estarán exentos de pago de impuestos y derechos, además de quienes expresamente señalen las disposiciones fiscales:
 
-I.- Los municipios, la federación y las entidades federativas, cuando su actividad corresponda a sus funciones propias como entes de derecho público;
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2004)</small>
+
+I.- En el pago de impuestos, el Estado y Municipio, cuando su actividad corresponda a sus funciones propias como entes de derecho público.
+
+En el pago de derechos, el Estado, cuando su actividad corresponda a sus funciones propias como entes de derecho público.
 
 II.- Las instituciones de asistencia sin fines de lucro, de conformidad a las limitaciones que señala la Ley de Instituciones Privadas;
 
@@ -1003,7 +1007,7 @@ II.- En la solicitud se indicará el lugar y el plazo en los cuales se deben pro
 
 III.- Los informes, libros o documentos requeridos, deberán ser proporcionados por la persona a quien se dirigió la solicitud o por su representante legal;
 
-IV.- Si de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, se conocen hechos u omisiones que entrañen incumplimiento de las disposiciones fiscales, se le darán a conocer en forma circunstanciada mediante oficio, procediendo en igual forma aún y cuando no hubiese irregularidades que entrañen incumplimiento de las disposiciones fiscales;
+IV.- Si de la revisión de los informes, datos, documentos o contabilidad requeridos a los contribuyentes, responsables solidarios o terceros, se conocen hechos u omisiones que entrañen incumplimiento en las disposiciones fiscales, se le darán a conocer en forma circunstanciada mediante oficio, procediendo en igual forma aún y cuando no hubiese irregularidades que entrañen incumplimiento de las disposiciones fiscales;
 
 V.- El oficio de observaciones a que se refiere la fracción IV, se notificará cumpliendo con lo señalado en la fracción I de este artículo y en el lugar especificado en esta última fracción. El contribuyente o responsable solidario, contará con un plazo de veinte días contados a partir del siguiente a aquél en el que se le notificó el oficio de observaciones, para presentar los documentos, libros o registros que desvirtúen los hechos u omisiones asentados en el mismo, así como para optar por corregir su situación fiscal, cuando se trate de más de un ejercicio revisado o fracción de éste, se ampliará el plazo por quince días más, siempre que el contribuyente presente aviso dentro del plazo inicial de veinte días; y
 
@@ -2418,3 +2422,11 @@ El Secretario General de Gobierno.
 C. MARCELINO MIRANDA AÑORVE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 21 DE DICIEMBRE DE 2004.
+
+Primero.- El presente Decreto entrará vigor el día 1 de enero del año 2005.
+
+Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
