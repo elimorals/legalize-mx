@@ -4,7 +4,7 @@ identifier: "LFRSP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1982-12-31"
-last_updated: "1992-07-21"
+last_updated: "1994-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFRSP"
 
 LEY FEDERAL DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 31 de diciembre de 1982.
 
@@ -756,9 +756,21 @@ II.- Auxilio de la fuerza pública.
 
 Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
 
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+ARTICULO 77 bis.- Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y que la falta administrativa haya causado daños y perjuicios a particulares, éstos podrán acudir a las dependencias, entidades o a la Secretaría de la Contraloría General de la Federación para que ellas directamente reconozcan la responsabilidad de indemnizar la reparación del daño en cantidad líquida y, en consecuencia, ordenar el pago correspondiente, sin necesidad de que los particulares acudan a la instancia judicial o a cualquiera otra.
+
+El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
+
+Si el órgano del Estado niega la indemnización, o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, la vía administrativa o judicial.
+
+Cuando se haya aceptado una recomendación de la Comisión de Derechos Humanos en la que se proponga la reparación de daños y perjuicios, la autoridad competente se limitará a su determinación en cantidad líquida y la orden de pago respectiva.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 78.
 
-Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta Ley prevé se sujetarán a lo siguiente:
+Las facultades del superior jerárquico y de la Secretaría para imponer las sanciones que esta ley prevé se sujetarán a lo siguiente:
 
 > <small>(REFORMADA, D.O.F. 21 DE JULIO DE 1992)</small>
 
@@ -773,6 +785,10 @@ El plazo de prescripción se contará a partir del día siguiente a aquél en qu
 > <small>(ADICIONADO, D.O.F. 21 DE JULIO DE 1992)</small>
 
 En todos los casos la prescripción a que alude este precepto se interrumpirá al iniciarse el procedimiento administrativo previsto por el artículo 64.
+
+> <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 1994)</small>
+
+III.- El derecho de los particulares a solicitar la indemnización de daños y perjuicios, prescribirá en un año, a partir de la notificación de la resolución administrativa que haya declarado cometido (sic) la falta administrativa.
 
 ## TITULO CUARTO
 
@@ -945,3 +961,13 @@ La Asamblea de Representantes del Distrito Federal y las autoridades jurisdiccio
 La Suprema Corte de Justicia de la Nación y el Tribunal Superior de Justicia del Distrito Federal, así como las Cámaras de Senadores y Diputados del Congreso de la Unión y la Asamblea de Representantes del Distrito Federal, establecerán los órganos, sistemas, registros, formatos y demás circunstancias pertinentes que se requieran para ejercer las atribuciones que les confieren, en virtud de esta reforma, los artículos 79 a 90 de la Ley, en un plazo que no excederá de sesenta días naturales contados a partir de la entrada en vigor del presente ordenamiento. Al efecto, la Secretaría de la Contraloría General de la Federación entregará las declaraciones de situación patrimonial que en su oportunidad haya recibido a la autoridad que resulte competente en los términos de este Decreto.
 
 Para los fines de la presentación de las declaraciones de situación patrimonial, las Cámaras del Congreso de la Unión y la Asamblea de Representantes, así como el Pleno de la Suprema Corte de Justicia de la Nación y del Tribunal Superior de Justicia del Distrito Federal, determinarán los órganos que de manera provisional habrán de recibirlas respecto de los servidores públicos que les están adscritos, así como custodiarlas, en tanto se establecen los órganos señalados en el párrafo anterior. Para la presentación de las declaraciones, se podrán utilizar los formatos expedidos por la propia Secretaría.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+...
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
