@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1938-05-19"
+last_updated: "1938-05-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 1938.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE MAYO DE 1938.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -771,6 +771,8 @@ La Ley organizará la Defensoría Oficial y determinará la forma en que debe ej
 
 #### SECCION V. DE LA ENSEÑANZA PUBLICA
 
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
+
 ###### Art. 80.
 
 Constituyen la Hacienda Pública del Estado, todos los bienes muebles e inmuebles y los derechos reales y personales que en su favor determinen las leyes.
@@ -825,15 +827,31 @@ La omisión de esta formalidad hace responsables a las autoridades a quienes la 
 
 ###### Art. 90.
 
-Es obligación del Estado fomentar la Enseñanza Pública, e impartir al pueblo la Primaria, en su doble forma de elemental y superior. Ambas serán gratuitas, uniformes, laicas y obligatorias.
+Es obligación del Estado fomentar la enseñanza pública, e impartir al Pueblo la Primaria, en su doble forma elemental y superior. La Educación que imparta el Estado será socialista y además de excluir toda doctrina religiosa, combatirá el fanatismo y los prejuicios, para lo cual la Escuela organizará sus enseñanzas y actividades en forma que permita crear en la juventud un concepto racional y exacto del universo y de la vida social.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
 
 ###### Art. 91.
 
-La enseñanza preparatoria, la normal y la técnica, se impartirán gratuitamente en los establecimientos oficiales del Estado.
+La enseñanza secundaria, la preparatoria, la normal y la técnica, se impartirán gratuitamente en los establecimientos oficiales del Estado.
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 1938)</small>
 
 ###### Art. 92.
 
-La enseñanza es libre en Sinaloa, pero siempre sujeta a las prevenciones reglamentarias de la Ley Orgánica especial.
+Las actividades y enseñanzas de los planteles particulares deberán ajustarse, sin excepción alguna, a lo preceptuado en el párrafo segundo del artículo 90 y estarán a cargo de personas que en concepto del Estado tengan suficiente preparación profesional, conveniente moralidad e ideología acorde con este precepto. En tal virtud las corporacipnes (sic) religiosas, los ministros de los cultos, las sociedades por acciones que exclusiva y preferentemente realicen actividades educativas, y las asociaciones o sociedades ligadas directa o indirectamente con la propaganda de un credo religioso, no intervendrán en forma alguna en escuelas primarias, secundarias o normales, ni podrán apoyarlas económicamente.
+
+La formación de planes, programas y métodos de enseñanza corresponderá en todo caso al Estado.
+
+No podrán funcionar los planteles particulares sin haber obtenido previamente, en cada caso, la autorización expresa del Poder Público.
+
+El Estado podrá revocar, en cualquier tiempo, las autorizaciones concedidas. Contra la revocación no procederá recurso o juicio alguno.
+
+Estas mismas normas regirán la educación de cualquier tipo o grado que se imparta a obreros o campesinos.
+
+La Educación Primaria será obligatoria y el Estado la impartirá gratuitamente.
+
+El Estado podrá retirar discrecionalmente en cualquier tiempo, el reconocimiento de validez oficial a los estudios hechos en planteles particulares.
 
 ### CAPITULO IV. PODER JUDICIAL
 
@@ -1245,41 +1263,105 @@ Constituyen el patrimonio de la familia: la casa propiedad de un matrimonio leg�
 
 En el Estado no podrá expedirse ley o disposición alguna que limite la libertad de los herederos, legatarios y demás partícipes en una sucesión, para disponer a discreción de sus derechos en cualquier tiempo y en toda forma, ni que los obligue a mantener sus bienes en estado de comunidad, por más del término necesario para concluir el juicio sucesorio respectivo.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1933)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 1938)</small>
 
 ###### Art. 154.
 
-Para los efectos de la Ley de Expropiación, en el Estado, podrán éste y los Municipios, en sus respectivas jurisdicciones, ocupar la propiedad privada por causa de utilidad pública, MEDIANTE INDEMNIZACION, en los siguientes casos:
+Para los efectos de la Ley de Expropiación, en el Estado, podrán el Gobernador y los Presidentes Municipales, en sus respectivas jurisdicciones, ocupar la propiedad privada por causa de utilidad pública, MEDIANTE INDEMNIZACION y previa autorización del Congreso del Estado y de los Ayuntamientos, respectivamente en los siguientes casos:
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 I. Para la construcción y conservación de los caminos carreteros y vecinales y sus obras accesorias.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 II. Para la construcción de canales de irrigación por cuenta del Estado, por los particulares o por empresas autorizadas en forma.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 III. Para el aprovechamiento del agua en los usos domésticos de las poblaciones.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 IV. Para la utilización de cuencas naturales o artificiales de acaparamiento de agua.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 V. Para la desecación de lagos, lagunas y pantanos, con objeto de saneamiento o de aplicaciones agrícolas, y para el entarquinamiento de las regiones áridas.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 VI. Para la creación y fomento de la propiedad agrícola parcelaria.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 VII. Para la fundación de colonias y pueblos.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 VIII. Para el fraccionamiento de los terrenos comuneres (sic) y su adjudicación en lotes, cuando no habiendo podido reducirse a propiedad individual, por cualquier motivo, tengan más de diez años sin haberse constituido sus dueños en sociedad.
 
-IX. Para la creación de la propiedad comunal, para pástales en tierras que no sean de cultivo.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
+IX. Para la creación de la propiedad comunal, para pastales en tierras que no sean de cultivo.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 X. Para la conservación y replantación de los bosques.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 XI. Para la instalación de fuerza hidroeléctrica por cuenta del Estado o por empresas particulares.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 XII. Para el fomento y creación de industrias nuevas en el Estado.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 XIII. Para la fundación, ensanche, rectificación, saneamiento y urbanización de las poblaciones.
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
 
 XIV. Para la apertura de calles y jardines y para la construcción de escuelas, mercados, hospitales, cárceles, rastros y demás establecimientos del servicio público urbano.
 
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 1933)</small>
+
 XV. Para la construcción de parques y erección de monumentos en los sitios en que se hayan verificado célebres hechos históricos.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XVI. Para la satisfacción de necesidades colectivas en caso de guerra o trastornos interiores; para el abastecimiento de las ciudades y centros de población, de víveres o de otros artículos de consumo necesarios, y en los procedimientos empleados para comatir (sic) o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones u otras calamidades públicas.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XVII. En los medios empleados para la defensa Nacional o para el mantenimiento de la paz pública.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+VIII. (sic) En la defensa, conservación, desarrollo o aprovechamiento de los elementos naturales susceptibles de explotación.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XIX. En la equitativa distribución de la riqueza acaparada o monopolizada con ventaja exclusiva de una o varias personas y con perjuicio de la colectividad en general, o de una clase en particular.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XX. En la creación, fomento o conservación de una empresa para beneficio de la colectividad.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XXI. En las medidas necesarias para evitar la destrucción de los elementos naturales y los daños que la propiedad pueda sufrir en perjuicio de la colectividad.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XXII. En la creación o mejoramiento de centros de población y de sus fuentes propias de vida.
+
+> <small>(ADICIONADA, P.O. 21 DE MAYO DE 1938)</small>
+
+XXIII. En los demás casos previstos por leyes especiales.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1933)</small>
 
 La Ley relativa precisará todas las condiciones de detalle en la materia.
 
@@ -1408,3 +1490,7 @@ Este Decreto surtirá sus efectos desde el entrante período constitucional.
 ###### Artículo 2o.
 
 Publíquese en el Periódico Oficial del Estado.
+
+P.O. 21 DE MAYO DE 1938.
+
+UNICO. Estas reformas empiezan a surtir efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
