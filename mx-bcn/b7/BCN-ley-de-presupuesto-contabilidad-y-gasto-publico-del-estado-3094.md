@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-presupuesto-contabilidad-y-gasto-publico-del-estado-3094
 country: "mx"
 rank: "ley"
 publication_date: "1992-09-20"
-last_updated: "1998-11-06"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de septiembre de 1992.
 
@@ -43,7 +43,9 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO DEL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley tiene por objeto normar y regular el presupuesto de ingresos y egresos, la contabilidad y el archivo contable gubernamental así como el ejercicio, el examen, la vigilancia y la evaluación del gasto público:
 
-I. Del Gobierno del Estado de Baja California, misma que será aplicada por el Ejecutivo del Estado a través de la Oficialía Mayor de Gobierno, las Secretarías de Finanzas y de Planeación y Presupuesto, y por los Poderes Legislativo y Judicial en su ámbito de competencia, y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+I.- Del Gobierno del Estado de Baja California, misma que será aplicada por el Ejecutivo del Estado, a través de la Oficialía Mayor de Gobierno, la Secretaría de Planeación y finanzas, y por los Poderes Legislativo y Judicial en su ámbito de competencia, y
 
 II. De los Municipios del Estado, misma que será aplicada por los Ayuntamientos a través del Presidente Municipal.
 
@@ -93,37 +95,49 @@ La programación, presupuestación y ejercicio del gasto público estatal y muni
 
 Los Poderes Legislativo y Judicial, en el ámbito de sus respectivas competencias, podrán establecer los lineamientos que se requieran a efecto de ser congruentes en sus sistemas administrativos y de control de gasto, con lo establecido por ésta Ley.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 5o.
 
-El Ejecutivo del Estado, a través de las Secretarías de Finanzas y de Planeación y Presupuesto, y los Presidentes Municipales a través de las Tesorerías Municipales, coordinarán conforme lo establece la presente Ley, las actividades de programación-presupuestación, control, seguimiento y evaluación del gasto público.
+El Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, y los Presidentes Municipales, a través de las Tesorerías Municipales, coordinarán conforme lo establece la presente Ley, las actividades de programación-presupuestación, control, seguimiento y evaluación del gasto público.
 
 ###### ARTICULO 6o.
 
 Las Dependencias del Ejecutivo del Estado y de los Municipios orientarán y coordinarán la planeación, programación, presupuestación, control y evaluación del gasto de las Entidades Paraestatales o Paramunicipales que estén agrupadas en su sector, conforme al acuerdo respectivo que dicte el Ejecutivo del Estado o los Ayuntamientos y con base en las políticas y programas sectoriales, institucionales y especiales establecidos.
 
-Las proposiciones de las Entidades, en los términos de esta Ley, se presentarán a la Secretaría de Planeación y Presupuesto y a las Tesorerías Municipales, por conducto de la Dependencia coordinadora del sector a la que correspondan.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+Las proposiciones de las Entidades, en los términos de esta Ley, se presentarán a la Secretaría de Planeación y Finanzas y a las Tesorerías Municipales, por conducto de la Dependencia coordinadora del sector a la que correspondan.
 
 ###### ARTICULO 7o.
 
 Con el propósito de optimizar los recursos presupuestales que tienen asignados, las Dependencias y Entidades deberán planear, programar, presupuestar, controlar, evaluar y vigilar sus actividades con base en las disposiciones que de esta Ley y las que emanen de ella.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 8o.
 
-En cada una de las Dependencias del Ejecutivo, de los Municipios y en las demás Entidades, los encargados de ejecutar los programas serán los responsables, del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus Titulares a la Secretaría de Finanzas y Planeación y Presupuesto, Tesorerías Municipales o unidades equivalentes.
+En cada una de las Dependencias del Ejecutivo, de los Municipios y en las demás Entidades, los encargados de ejecutar los programas serán los responsables, del avance de los mismos y deberán informar periódicamente de los resultados obtenidos, por conducto de sus Titulares a la Secretaría de Planeación y Finanzas, Tesorerías Municipales o unidades equivalentes.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 9o.
 
-A la Secretaría de Planeación y Presupuesto, a las Sindicaturas Municipales o a las unidades de auditoría interna de las demás Entidades, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las Dependencias y Entidades a través de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que correspondan al Congreso del Estado.
+A la Dirección de Control y Evaluación Gubernamental, a las Sindicaturas Municipales o a las unidades de auditoría interna de las demás Entidades, quedará encomendada la vigilancia y verificación del ejercicio del gasto público de las Dependencias y Entidades, a través de visitas, inspecciones y auditorías, sin detrimento de las facultades legales que correspondan al Congreso del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 10.
 
-Las Dependencias y Entidades deberán proporcionar en el Poder Ejecutivo a la Oficialía Mayor, a las Secretarías de Finanzas y de Planeación y Presupuesto y, en los Municipios a la Oficialía Mayor, Tesorerías y Sindicaturas Municipales, la información que requieran, conforme a su ámbito de competencia, a efecto de ejercer las funciones previstas en esta Ley.
+Las Dependencias y Entidades deberán proporcionar en el Poder Ejecutivo a la Oficialía Mayor, a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental y, en los Municipios a la Oficialía Mayor; Tesorerías y Sindicaturas Municipales, la información que requieran, conforme a su ámbito de competencia, a efecto de ejercer las funciones previstas en esta Ley.
 
 ### CAPITULO SEGUNDO. DE LOS INGRESOS
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 11.
 
-Todas las Dependencias y Entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Finanzas y las Tesorerías Municipales, para que se incorporen en la Ley de Ingresos respectiva.
+Todas las Dependencias y Entidades que de sus actividades generen ingresos que con base a la legislación estatal o municipal, se consideren ingresos fiscales, deberán coordinarse con la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, para que se incorporen en la Ley de Ingresos respectiva.
 
 ###### ARTICULO 12.
 
@@ -131,7 +145,9 @@ Los Presupuestos de Ingresos incluirán la expectativa de entradas de efectivo p
 
 Los Presupuestos de Ingresos del Gobierno del Estado y de los Municipios forman parte de su Ley de Ingresos y deberán ser presentados oportunamente:
 
-I. Al Titular del Ejecutivo por la Secretaría de Finanzas del Estado, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los plazos y requisitos señalados en la fracción I del Artículo 27 de esta Ley.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+I. Al Titular del Ejecutivo por la Secretaría de Planeación y Finanzas del Estado, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado en los plazos y requisitos señalados en la fracción I del artículo 27 de esta Ley.
 
 II. A los Ayuntamientos por la Tesorería Municipal, correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser enviados al Congreso del Estado por conducto del Presidente Municipal a más tardar el día primero de noviembre del año inmediato anterior al que corresponda o hasta el quince de diciembre cuando inicien su encargo los Ayuntamientos en la fecha prevista por el Artículo 80 de la Constitución Política Local.
 
@@ -151,9 +167,13 @@ Todos los ingresos propios de ley deberán depositarse en cuentas bancarias, pro
 
 Los titulares de las Dependencias y Entidades reguladas por esta Ley informarán a la Contaduría Mayor de Hacienda el saldo, número, tipo de cuenta y nombre de la institución bancaria correspondiente, dentro de los quince días posteriores a su apertura e informarán sobre su cancelación dentro de los siguientes quince días a que esto ocurra.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 15.
 
-Las proposiciones que hagan los miembros del Congreso del Estado para modificar las Leyes de Ingresos del Estado o Municipios, leyes fiscales especiales o decretos que rijan en materia de ingresos de las Entidades mencionadas en el Artículo 2o., cuando no estén incluidos en las Leyes de Ingresos del Estado o Municipios, serán sometidos desde luego a la Comisión respectiva para su estudio y dictamen.
+Las proposiciones que se hagan al Congreso del Estado para modificar las Leyes de Ingresos del Estado, leyes fiscales especiales o decretos que rijan en materia de ingresos estatales, cuando no estén incluidos en las Leyes de Ingresos del Estado, serán sometidos desde luego a la Comisión respectiva para su estudio y dictamen.
+
+Los Ayuntamientos tienen de manera exclusiva la facultad de presentar al Congreso del Estado modificaciones a sus Leyes de Ingresos, las cuales serán sometidas desde luego a la Comisión respectiva para su estudio y dictamen.
 
 ### CAPITULO TERCERO. DEL PRESUPUESTO DE EGRESOS
 
@@ -169,6 +189,12 @@ El Presupuesto de Egresos del Gobierno del Estado, será el que contenga el Decr
 
 El Presupuesto de Egresos que apruebe el Congreso del Estado y el que aprueben los Ayuntamientos no podrán contemplar ni ser modificados para cubrir compensaciones extraordinarias o de cualquier otra denominación, durante o por conclusión del mandato o gestión de los Titulares o Funcionarios de la Administración Pública Estatal y Municipal y sus Dependencias y Entidades Paraestatal y Paramunicipal.
 
+> <small>(ADICIONADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 17 Bis.
+
+En los Presupuestos de Egresos de los Municipios se deberán hacer las adecuaciones presupuestales necesarias a fin de satisfacer sus obligaciones legales derivadas de las sentencias que se dicten contra el Ayuntamiento, a efecto de ser cumplidas.
+
 ###### ARTICULO 18.
 
 El Presupuesto de Egresos del Gobierno del Estado y de los Municipios comprenderá también, en apartado especial, las previsiones del gasto público que habrán de realizar las Entidades, que en su caso determine incluir en dicho presupuesto el Titular del Poder Ejecutivo y los Ayuntamientos.
@@ -183,29 +209,41 @@ Los Titulares de las Dependencias y Entidades cuidarán que la formulación de l
 
 La estructura de integración del Presupuesto de Egresos tendrá una base programática y se le dará una sustentación, lo suficientemente amplia, que abarque todas las responsabilidades del Gobierno del Estado, de los Municipios y de las demás Entidades, que emanen de la Constitución Política Local y demás leyes y reglamentos.
 
-La Secretaría de Planeación y Presupuesto, las Tesorerías Municipales y los órganos equivalentes en las Entidades, definirán en su caso, la estructura programática del Presupuesto de Egresos.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+La Secretaría de Planeación y Finanzas, las Tesorerías Municipales y los órganos equivalentes en las Entidades, definirán en su caso, la estructura programática del Presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 21.
 
-La Secretaría de Planeación y Presupuesto conjuntamente con la Secretaría de Finanzas, y las Tesorerías Municipales, al examinar los presupuestos de las Dependencias y Entidades, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes generales de financiamiento, elaborando el programa financiero que establece la Ley de Deuda Pública del Estado.
+La Secretaría de Planeación y Finanzas, y las Tesorerías Municipales, al examinar los presupuestos de las Dependencias y Entidades, verificarán, cuando los ingresos ordinarios y en su caso los extraordinarios no sean suficientes para cubrir el Presupuesto de Egresos correspondiente, que se determinen las fuentes generales de financiamiento, elaborando el programa financiero que establece la Ley de Deuda Pública del Estado de Baja California.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 22.
 
-Para la formulación del proyecto del presupuesto de egresos del Gobierno del Estado y de los Municipios, las Dependencias y Entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las Dependencias, directamente a la Secretaría de Planeación y Presupuesto y a las Tesorerías Municipales; las Entidades lo harán, en su caso, por conducto de la Dependencia coordinadora del sector correspondiente.
+Para la formulación del proyecto del presupuesto de egresos del Gobierno del Estado y de los Municipios, las Dependencias y Entidades comprendidas en el mismo, elaborarán su anteproyecto con base en los programas respectivos, y los remitirán en el caso de las Dependencias, directamente a la Secretaría de Planeación y Finanzas y a las Tesorerías Municipales; las Entidades lo harán, en su caso, por conducto de la Dependencia coordinadora del sector correspondiente.
 
 Los Poderes Legislativo y Judicial formularán sus propios proyectos de presupuesto y los remitirán al Ejecutivo del Estado a más tardar el 20 de noviembre del año inmediato anterior al que corresponda para que ordene su incorporación al proyecto de Presupuesto de Egresos del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 23.
 
-La Secretaría de Planeación y Presupuesto y las Tesorerías Municipales serán las encargadas de formular, con base en las propuestas que le presenten las Dependencias y Entidades, el proyecto de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, respectivamente.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales serán las encargadas de formular, con base en las propuestas que le presenten las Dependencias y Entidades, el proyecto de Presupuesto de Egresos del Gobierno del Estado y de los Municipios, respectivamente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 24.
 
-La Secretaría de Planeación y Presupuesto y las Tesorerías Municipales quedan facultadas para formular el proyecto de presupuesto de egresos de las Dependencias, o en su caso, el presupuesto de ingresos y de egresos de las Entidades, cuando no les sea presentado por éstas en los plazos que al efecto se les hubiese señalado.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales quedan facultadas para formular el proyecto de presupuesto de egresos de las Dependencias, o en su caso, el presupuesto de ingresos y de egresos de las Entidades, cuando no les sea presentado por éstas en los plazos que al efecto se les hubiese señalado.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 25.
 
-El proyecto de Presupuesto de Egresos del Gobierno del Estado, de los Municipios y de las demás Entidades, se integrará de conformidad con la documentación, normas y lineamientos de programación-presupuestación que para el efecto establezcan y proporcionen a las Dependencias y Entidades la Secretaría de Planeación y Presupuesto y las Tesorerías Municipales.
+El proyecto de Presupuesto de Egresos del Gobierno del Estado, de los Municipios y de las demás Entidades, se integrará de conformidad con la documentación, normas y lineamientos de programación-presupuestación que para el efecto establezcan y proporcionen a las Dependencias y Entidades la Secretaría de Planeación y Finanzas y las Tesorerías Municipales.
 
 ###### ARTICULO 26.
 
@@ -231,15 +269,19 @@ VIII. En general, toda información que se considere útil para demostrar la pro
 
 Los proyectos de Presupuesto de Egresos deberán ser presentados oportunamente:
 
-I.- Al Titular del Ejecutivo por la Secretaría de Planeación y Presupuesto, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado, el primero, en el plazo señalado en la fracción IV del Artículo 49 de la Constitución Política Local o hasta el 15 de Diciembre en los años que inicie el período constitucional y, los segundos el 15 de noviembre cuando no estén incluidos en el Presupuesto de Egresos del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+I.- Al Titular del Poder Ejecutivo por la Secretaría de Planeación y Finanzas, correspondientes al Gobierno del Estado y Entidades de la Administración Pública Paraestatal para ser enviados al Congreso del Estado, el primero, en el plazo señalado en la fracción IV del Artículo 49 de la Constitución Política Local o hasta el 15 de diciembre en los años que inicie el período constitucional y, los segundos el 15 de noviembre cuando no estén incluidos en el Presupuesto de Egresos del Gobierno del Estado; y
 
 II.- Al Presidente Municipal por la Tesorería Municipal, correspondientes al Municipio y a las Entidades de la Administración Pública Paramunicipal para ser enviados al Cabildo a más tardar el día primero de noviembre del año inmediato anterior al que corresponda.
 
 Aprobado el Presupuesto de Egresos para el ejercicio fiscal respectivo, el Ayuntamiento y las demás Entidades Paramunicipales deberán remitir por conducto del Presidente Municipal antes del día 10 de diciembre de cada año, copias del mismo y de sus programas y subprogramas acompañados del Acta de la Sesión de Cabildo en que se aprobó, al Congreso del Estado, para su conocimiento y efecto de la revisión de la Cuenta Pública.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 28.
 
-El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Presupuesto y los Titulares de las Entidades de la Administración Pública Paraestatal, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de las propuestas en el proyecto de Presupuesto de Egresos respectivo.
+El Titular del Poder Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas y los Titulares de las Entidades de la Administración Pública Paraestatal, proporcionarán al Congreso del Estado los datos estadísticos e información que solicite y que contribuya a la mejor comprensión de las propuestas en el proyecto de Presupuesto de Egresos respectivo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
@@ -261,9 +303,11 @@ Se deberá cumplir el mismo procedimiento de publicación por el cierre del ejer
 
 Los Titulares de las Dependencias y Entidades cuidarán que el alcance de sus programas, actividades, metas y beneficios sea congruente con el Presupuesto de Egresos aprobado por el Congreso del Estado o por los Cabildos.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 32.
 
-La Secretaría de Finanzas en coordinación con la Secretaría de Planeación y Presupuesto y las Tesorerías Municipales, podrán solicitar y obtener de las Dependencias y Entidades la información programática-presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos.
+La Secretada de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, podrán solicitar y obtener de las Dependencias y Entidades la información programática-presupuestal que se requiera para el seguimiento, evaluación y control del ejercicio del Presupuesto de Egresos, de conformidad con las prioridades y estrategias establecidas en los Planes de Desarrollo respectivos.
 
 ###### ARTICULO 33.
 
@@ -273,19 +317,25 @@ A toda proposición de aumento o creación de partidas al proyecto de Presupuest
 
 ### CAPITULO CUARTO. DEL EJERCICIO DEL GASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 34.
 
-Para la ejecución del gasto público las Dependencias y Entidades deberán sujetarse a las prevenciones de esta Ley y observarán las disposiciones que al efecto expidan la Oficialía Mayor, las Secretarías de Finanzas, de Planeación y Presupuesto, las Tesorerías Municipales, dentro de sus ámbitos de competencia respectivos.
+Para la ejecución del gasto público las Dependencias y Entidades deberán sujetarse a las prevenciones de esta Ley y observarán las disposiciones que al efecto expidan la Oficialía Mayor, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales, dentro de sus ámbitos de competencia respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 35.
 
-La Secretaría de Finanzas y las Tesorerías Municipales en el ámbito de sus competencias, serán las encargadas de recaudar los ingresos de las Dependencias, y efectuar los pagos que se (sic) requieran éstas para hacer frente al ejercicio del gasto público establecido en el Presupuesto de Egresos.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales en el ámbito de sus competencias, serán las encargadas de recaudar los ingresos de las Dependencias, y efectuar los pagos que se requieran éstas para hacer frente al ejercicio del gasto público establecido en el Presupuesto de Egresos.
 
 Las demás Entidades manejarán sus fondos y efectuarán sus pagos a través de sus Tesorerías o unidades administrativas que para el efecto establezcan.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 36.
 
-El ejercicio del gasto público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Finanzas del Estado, las Tesorerías Municipales o su equivalente en las Entidades, llevarán el registro de los compromisos establecidos o de control presupuestal, recabando la opinión de la Secretaría de Planeación y Presupuesto o su equivalente, cuando la disponibilidad presupuestal no sea suficiente.
+El ejercicio del gasto público comprende el manejo y aplicación de los recursos así como su justificación, comprobación y pago, con base en el Presupuesto de Egresos aprobado, para lo cual, la Secretaría de Planeación y Finanzas, las Tesorerías Municipales o su equivalente en las Entidades, llevarán el registro de los compromisos establecidos o de control presupuestal.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 1998)</small>
 
@@ -293,17 +343,21 @@ El ejercicio del gasto público comprende el manejo y aplicación de los recurso
 
 Las erogaciones del gasto público que realicen las Entidades y Dependencias, podrán cubrirse en efectivo, tratándose de gastos menores que se realicen a través de fondos revolventes y gastos diversos sujetos a comprobación, siempre que éstos se apeguen a la normatividad específica y que los recursos para estos casos se provean mediante cheques nominativos.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 37.
 
-Toda erogación a cargo del Presupuesto de Egresos deberá ser indispensable, normal y propia de la Entidad o Dependencia que los realiza, de aplicación estricta al ramo y programa al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales, el Reglamento de esta ley y las reglas generales que emitan la Secretaría de Finanzas del Estado y las Tesorerías Municipales en el ámbito de sus competencias, las cuales se harán del conocimiento del Congreso para los efectos de la revisión de la Cuenta Pública por parte de la Contaduría Mayor de Hacienda.
+Toda erogación a cargo del Presupuesto de Egresos deberá ser indispensable, normal y propia de la Entidad o Dependencia que los realiza, de aplicación estricta al ramo y programa al que corresponda, y ajustada a la descripción de la partida contra la cual se realiza el cargo. La comprobación del gasto público se efectuará con la documentación original que demuestre la entrega del pago correspondiente y que reúna los requisitos que establecen las disposiciones fiscales, el Reglamento de esta ley y las reglas generales que emitan la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales en el ámbito de sus competencias, las cuales se harán del conocimiento del Congreso para los efectos de la revisión de la Cuenta Pública por parte de la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 Una erogación se entenderá justificada cuando existan las disposiciones y documentos legales, que determinen el compromiso u obligación de hacer el pago, y que además exista la evidencia de haber sido tramitada ante las instancias facultadas para dotar de los recursos humanos, materiales o financieros.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 38.
 
-El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberán invertirse los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, quienes proporcionarán a la Secretaría de Planeación y Presupuesto o a la Sindicatura Municipal la información que se les solicite sobre la aplicación de los mismos.
+El Ejecutivo del Estado y los Ayuntamientos determinarán la forma en que deberán invertirse los subsidios que se otorguen a las Entidades, instituciones públicas o privadas y particulares, quienes proporcionarán a la Dirección de Control y Evaluación Gubernamental o a la Sindicatura Municipal la información que se les solicite sobre la aplicación de los mismos.
 
 ###### ARTICULO 39.
 
@@ -317,11 +371,13 @@ La deuda pública a amortizar, deberá cumplir previamente con lo establecido en
 
 Toda erogación o gasto público deberá contar con saldo suficiente en la partida del Presupuesto de Egresos respectivo y se sujetará a los requisitos que se establezcan en el Reglamento de esta Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 42.
 
-Las asignaciones consignadas en el Presupuesto de Egresos del Poder Ejecutivo, de los Ayuntamientos y de las Entidades de la Administración Pública Descentralizada, señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se reprogramarán por conducto de la Secretaría de Planeación y Presupuesto, las Tesorerías Municipales, o de las instancias equivalentes en las Entidades, respectivamente, a los programas previstos en el Plan Estatal o Municipal de Desarrollo que consideren convenientes, a la amortización de deuda pública o a los fines de asistencia social que determinen el Ejecutivo o los Presidentes Municipales, previa autorización del Congreso del Estado o del Ayuntamiento, respectivamente. Igual tratamiento deberá darse al ingreso que se obtenga de manera adicional al pronosticado base para la preparación del presupuesto de egresos.
+Las asignaciones consignadas en el Presupuesto de Egresos del Poder Ejecutivo, de los Ayuntamientos y de las Entidades de la Administración Pública Descentralizada, señalan el límite máximo de las erogaciones del que no podrán excederse, salvo que se trate de partidas o conceptos de gasto de ampliación automática, pero tampoco será necesario agotarlas si ello no se requiere, y en su caso, los ahorros que se obtengan por estos conceptos se reprogramarán por conducto de la Secretaría de Planeación y Finanzas, las Tesorerías Municipales, o de las instancias equivalentes en las Entidades, respectivamente, a los programas previstos en el Plan Estatal o Municipal de Desarrollo que consideren convenientes, a la amortización de deuda pública o a los fines de asistencia social que determinen el Ejecutivo o los Presidentes Municipales, previa autorización del Congreso del Estado o del Ayuntamiento, respectivamente. Igual tratamiento deberá darse al ingreso que se obtenga de manera adicional al pronosticado base para la preparación del presupuesto de egresos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
 
 En el ejercicio fiscal que resulte excedente de ingresos sobre egresos, cualquiera que sea la causa de éste, de las Entidades que reciben subsidio o aportación, estatal o municipal, se aplicará a cuenta del subsidio o aportación que les corresponda en el siguiente ejercicio fiscal, cuando no sean reprogramados y ejercidos en el mismo ejercicio conforme a lo señalado en el párrafo anterior.
 
@@ -347,11 +403,15 @@ Los Titulares de las entidades de la administración pública paraestatal, ejerc
 
 II.- El Poder Judicial por conducto del Presidente del Consejo de la Judicatura, solicitará al Congreso del Estado la autorización correspondiente para efectuar transferencias, ampliación, creación o supresión de partidas en su Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada. Excepto en tratándose de transferencias presupuestales que se efectúen dentro de un mismo grupo de gastos en el Presupuesto de Egresos, en cuyo caso sólo se deberá de dar aviso al Congreso del Estado dentro de los quince días siguientes a la fecha en que se efectúen, siempre y cuando la afectación presupuestal acumulada para cada partida del Presupuesto de Egresos no exceda del 15% de su monto autorizado. Sobre estas transferencias el Congreso del Estado resolverá lo procedente al evaluar la información de los avisos, los informes de avances y el cierre presupuestal del ejercicio.
 
-En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Presupuesto sobre la viabilidad financiera de la propuesta.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+En los casos en que se solicite ampliar el Presupuesto autorizado del ejercicio del Poder Judicial, por motivos distintos a los de ampliación automática, la solicitud de autorización deberá acompañarse de la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera de la propuesta.
 
 Sobre la respuesta del Congreso del Estado se aplicará lo dispuesto en el último párrafo de la fracción I del presente artículo.
 
-III.- Tratándose del Presupuesto de Egresos del Poder Legislativo, las solicitudes de modificación presupuestal se presentarán por la Comisión correspondiente, para la consecuente resolución por el Pleno del Congreso. En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Planeación y Presupuesto sobre la viabilidad financiera.
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+III.- Tratándose del Presupuesto de Egresos del Poder Legislativo, las solicitudes de modificación presupuestal se presentarán por la Comisión correspondiente, para la consecuente resolución por el Pleno del Congreso. En las modificaciones que contemplen una ampliación al Presupuesto autorizado del ejercicio, por motivos distintos a los considerados de ampliación automática, se deberá obtener la opinión de la Secretaría de Planeación y Finanzas sobre la viabilidad financiera.
 
 IV.- El Presidente Municipal y los Titulares de las Entidades de la Administración Pública Paramunicipal solicitarán por conducto de la Tesorería Municipal en conjunto con la Sindicatura, la autorización del Ayuntamiento para efectuar transferencias, ampliaciones, creación o supresión de partidas en el Presupuesto de Egresos, misma que deberá obtenerse antes de ejercer la modificación solicitada; excepto cuando se trate de las siguientes modificaciones presupuestales, sobre las cuales sólo se deberá dar aviso al Ayuntamiento dentro de los quince días siguientes a la fecha en que se efectúen:
 
@@ -369,19 +429,25 @@ Dentro de los términos legales para la presentación de la Cuenta Pública Anua
 
 Las Entidades de la Administración Pública Paraestatal y Paramunicipal administrarán y ejercerán su Presupuesto de Egresos aprobado.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 45.
 
-Cuando así se requiera, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las Entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Finanzas o por las Tesorerías Municipales, respectivamente.
+Cuando así se requiera, el Ejecutivo del Estado y los Ayuntamientos podrán disponer que los fondos y pagos correspondientes a las Entidades de la Administración Pública Paraestatal o Paramunicipal incluidas en el Presupuesto de Egresos del Gobierno del Estado y de los Municipios, se manejen eventual o permanentemente por la Secretaría de Planeación y Finanzas o por las Tesorerías Municipales, respectivamente.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 46.
 
-Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá a hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas en el ámbito de su competencia por la Secretaría de Planeación y Presupuesto, las Sindicaturas Municipales, las contralorías o unidades internas de auditoría de las demás Entidades resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por los Artículos 9 y 66 de esta Ley o por la Contaduría Mayor de Hacienda del Congreso Estado resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las leyes aplicables en la materia.
+Una vez concluida la vigencia del Presupuesto de Egresos, sólo procederá a hacer pagos con base en él, por los conceptos efectivamente devengados en el año que corresponda y siempre que estén debidamente contabilizados al 31 de diciembre del ejercicio correspondiente o por operaciones determinadas en el ámbito de su competencia por la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales, las contralorías o unidades internas de auditoría de las demás Entidades resultantes de las atribuciones de vigilancia y verificación del gasto público dispuestas por los artículos 9 y 66 de esta Ley o por la Contaduría Mayor de Hacienda del Congreso del Estado resultantes de las atribuciones de fiscalización de las Cuentas Públicas de conformidad con las leyes aplicables en la materia.
 
 ###### ARTICULO 47.
 
 La Oficialía Mayor de Gobierno y la de los Municipios en el ámbito de su competencia, serán responsables de que se lleve un registro del personal de las Dependencias, y de aquellas Entidades que para su operación reciban recursos del Poder Ejecutivo del Estado o de los Municipios.
 
-La Oficialía Mayor de Gobierno informará a la Secretaría de Finanzas y a la de Planeación y Presupuesto y, la Oficialía Mayor de los Municipios informará a la Tesorería y Sindicatura Municipal, cuando éstas lo soliciten, sobre el registro del personal a que se refiere el párrafo anterior.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+La Oficialía Mayor de Gobierno informará a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental, asimismo la Oficialía Mayor de los Municipios informará a la Tesorería y a la Sindicatura Municipal, cuando éstas lo soliciten, sobre el registro del personal a que se refiere el párrafo anterior.
 
 ### CAPITULO QUINTO. DE LA CONTABILIDAD
 
@@ -391,21 +457,27 @@ El objetivo primordial de la contabilidad de las Dependencias y Entidades será 
 
 La contabilidad se llevará con base acumulativa para facilitar la formulación, ejercicio y evaluación de los Presupuestos y sus programas, con objetivos, metas y unidades de ejecución, estableciendo cuentas específicas para registrar los ingresos que las Leyes o cualquier otra disposición aplicable en la materia autoricen percibir y los egresos que se realicen para cumplir con el gasto público.
 
-Los catálogos de cuentas que utilizarán las Dependencias a que se refieren el inciso c) subinciso 1 y 5 de la fracción I y el inciso a) de la fracción II del Artículo 2o. de ésta Ley serán emitidos por la Secretaría de Finanzas del Estado y las Tesorerías Municipales respectivamente y los de las Entidades mencionadas en los subincisos 2 a 4 del inciso c) de la fracción I y los incisos b), c) y d) de la fracción II del mismo Artículo, serán autorizados expresamente por dicha Secretaría y Tesorerías Municipales.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+Los catálogos de cuentas que utilizarán las Dependencias a que se refieren el inciso c) subinciso 1 y 5 de la fracción I y el inciso a) de la fracción II del artículo 2o. de esta Ley serán emitidos por la Secretaría de Planeación y Finanzas del Estado y las Tesorerías Municipales respectivamente y los de las Entidades mencionadas en los subincisos 2 a 4 del inciso c) de la fracción I y los incisos b), c) y d) de la fracción II del mismo artículo, serán autorizados expresamente por dicha Secretaría y Tesorerías Municipales.
 
 El Poder Legislativo y el Poder Judicial, en el ámbito de sus respectivas competencias, emitirán sus propios catálogos de cuentas apegándose a los lineamientos que se requieran a efecto de ser congruentes en sus sistemas contables con los establecidos para las Dependencias del Poder Ejecutivo.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 49.
 
-Es facultad de la Secretaría de Finanzas y de las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 18 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
+Es facultad de la Secretaría de Planeación y Finanzas y de las Tesorerías Municipales formular la Cuenta Pública Anual de la Hacienda Estatal y Municipal así como integrar la información o consolidar los estados financieros que emanen de las Entidades paraestatales o paramunicipales incluidas en los Presupuestos de Egresos de conformidad con el Artículo 18 de esta Ley, para someterla a consideración del Ejecutivo del Estado y de los Ayuntamientos respectivamente, para su presentación al Congreso del Estado en los términos y de acuerdo a las leyes vigentes respectivas.
 
-Para el cumplimiento de lo anterior, la Secretaría de Finanzas y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
+Para el cumplimiento de lo anterior, la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, dictarán las disposiciones administrativas que procedan.
 
-Asimismo, serán responsables la Secretaría de Finanzas, las Tesorerías Municipales y las unidades de contabilidad de las demás Entidades de la solventación de las observaciones sobre la Cuenta Pública mensual o anual que finque el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
+Asimismo, serán responsables la Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las unidades de contabilidad de las demás Entidades de la solventación de las observaciones sobre la Cuenta Pública mensual o anual que finque el Congreso del Estado por conducto de la Contaduría Mayor de Hacienda.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 50.
 
-La Secretaría de Finanzas y las Tesorerías Municipales, para el efecto de uniformar los criterios en materia de contabilidad implantarán y emitirán las normas, procedimientos y sistemas de registro a los cuales deberán sujetarse las Dependencias y Entidades.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, para el efecto de uniformar los criterios en materia de contabilidad implantarán y emitirán las normas, procedimientos y sistemas de registro a los cuales deberán sujetarse las Dependencias y Entidades.
 
 El sistema de contabilidad debe diseñarse y operar de tal forma que facilite la fiscalización de los activos, pasivos, ingresos, egresos y avances en la ejecución de los programas, y permita medir la eficiencia del gasto público.
 
@@ -425,9 +497,11 @@ III.- Créditos puente y su pago, obtenidos a corto plazo para subsanar deficien
 
 IV.- Inversiones por realizar de aportaciones de terceros para un fin específico.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 53.
 
-Las normas y procedimientos para llevar a cabo las operaciones transitorias o ajenas, las emitirá la Secretaría de Finanzas y las Tesorerías Municipales, en el ámbito de su competencia.
+Las normas y procedimientos para llevar a cabo las operaciones transitorias o ajenas, las emitirá la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en el ámbito de su competencia.
 
 ###### ARTICULO 54.
 
@@ -443,67 +517,91 @@ IV.- Estado de afectación patrimonial.
 
 V.- Estado de contabilidad o de activos, pasivos y patrimonio o de situación financiera
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 55.
 
-La Secretaría de Finanzas proporcionará a la Secretaría de Planeación y Presupuesto con la periodicidad que ésta determine, la información, contable, financiera y de otra índole que le requieran, para la evaluación de la programación-presupuestación del gasto público estatal.
+La Secretaría de Planeación y Finanzas proporcionará a la Dirección de Control y Evaluación Gubernamental con la periodicidad que ésta determine, la información, contable, financiera y de otra índole que le requieran, para la evaluación de la programación-presupuestación del gasto público estatal.
 
 ### CAPITULO SEXTO. DE LA EVALUACION DEL GASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 56.
 
-La Secretaría de Finanzas en coordinación con la Secretaría de Planeación y Presupuesto, y las Tesorerías Municipales realizarán periódicamente la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas.
+La Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales realizarán periódicamente la evaluación del ejercicio del gasto público, en función de los objetivos y metas de los programas autorizados, que comprenderá el seguimiento de los avances físicos y financieros que vayan presentando periódicamente los programas anuales aprobados, a efecto de medir el grado de cumplimiento de sus objetivos y metas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 56 Bis.
 
-El Gobernador del Estado, el Consejo de la Judicatura y los Ayuntamientos, a través de la Secretaría de Planeación y Presupuesto, del Presidente del Consejo de la Judicatura y de los Presidentes Municipales, respectivamente, informarán al Congreso del Estado de la ejecución de sus Presupuestos de Egresos de manera trimestral, dentro de los meses de abril, julio y octubre del ejercicio en curso por los tres primeros, y en el mes de marzo del ejercicio siguiente por lo que corresponde al cuarto trimestre del año; en el que deberá incluirse la evaluación financiera del ejercicio presupuestario en función de los programas que lo integran, así como el monto de las transferencias, ampliación, creación o supresión de partidas. Así mismo, en este informe se deberá precisar el monto y el detalle de las transferencias que no requirieron de autorización. Adicionalmente, y en los mismos plazos señalados, deberán remitir al Congreso del Estado la información financiera que se señala en las Fracciones I, II, IV y V del Artículo 54 de esta Ley.
+El Gobernador del Estado, el Consejo de la Judicatura y los Ayuntamientos, a través de la Secretaría de Planeación y Finanzas, del Presidente del Consejo de la Judicatura y de los Presidentes Municipales, respectivamente, informarán al Congreso del Estado de la ejecución de sus Presupuestos de Egresos de manera trimestral, dentro de los meses de abril, julio y octubre del ejercicio en curso por los tres primeros, y en el mes de marzo del ejercicio siguiente por lo que corresponde al cuarto trimestre del año; en el que deberá incluirse la evaluación financiera del ejercido presupuestario en función de los programas que lo integran, así como el monto de las transferencias, ampliación, creación o supresión de partidas. Así mismo, en este informe se deberá precisar el monto y el detalle de las transferencias que no requirieron de autorización. Adicionalmente, y en los mismos plazos señalados, deberán remitir al Congreso del Estado la información financiera que se señala en las fracciones I, II, IV y V del artículo 54 de esta Ley.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 57.
 
-La Secretaría de Finanzas en coordinación con la Secretaría de Planeación y Presupuesto, y las Tesorerías Municipales, establecerán las disposiciones administrativas que se requieran para el seguimiento y evaluación de los programas que realicen las Dependencias y Entidades.
+La Secretaría de Planeación y Finanzas en coordinación con la Dirección de Control y Evaluación Gubernamental, y las Tesorerías Municipales en coordinación con las Sindicaturas Municipales, establecerán las disposiciones administrativas qué se requieran para el seguimiento y evaluación de los programas que realicen las Dependencias y Entidades.
 
 ###### ARTICULO 58.
 
 Internamente las Dependencias y Entidades deberán evaluar en forma permanente sus programas, a efecto de cuantificar los objetivos, metas y beneficios alcanzados, mejorar la utilización de los recursos, controlar los avances y desviaciones, e instrumentar con oportunidad las medidas correctivas que racionalicen la aplicación del gasto.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 59.
 
-Para efecto de evaluación del Presupuesto de Egresos, las Dependencias y Entidades deberán proporcionar a las Secretarías de Finanzas y de Planeación y Presupuesto, y a las Tesorerías Municipales, información periódica sobre el grado de avance físico y financiero de los programas, así como las metas realizadas. Además enviarán la información adicional que les sea solicitada, dependiendo de la importancia y características propias de los programas a su cargo.
+Para efecto de evaluación del Presupuesto de Egresos, las Dependencias y Entidades deberán proporcionar a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental, y a las Tesorerías Municipales y Sindicaturas Municipales, información periódica sobre el grado de avance físico y financiero de los programas, así como las metas realizadas. Además enviarán la información adicional que les sea solicitada, dependiendo de la importancia y características propias de los programas a su cargo.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 60.
 
-En los casos en que las Dependencias y Entidades no proporcionen la información que les soliciten por los medios establecidos la Secretaría de Finanzas y las Tesorerías Municipales, éstas podrán solicitar la intervención de la Secretaría de Planeación y Presupuesto y de las Sindicaturas Municipales en los términos de la legislación aplicable.
+En los casos en que las Dependencias y Entidades no proporcionen la información que les soliciten por los medios establecidos la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, éstas podrán solicitar la intervención de la Dirección de Control y Evaluación Gubernamental y de las Sindicaturas Municipales en los términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 61.
 
-La Secretaría de Finanzas y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos del Gobierno del Estado y en el de los Municipios.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales tendrán la obligación de informar trimestralmente al Ejecutivo del Estado y a los Ayuntamientos respectivamente, sobre los resultados del seguimiento y evaluación del grado de avance físico-financiero de los programas autorizados en el Presupuesto de Egresos del Gobierno del Estado y en el de los Municipios.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 62.
 
-La Secretaría de Planeación y Presupuesto y las Sindicaturas Municipales tendrá la obligación de informar al Ejecutivo del Estado y a los Presidentes Municipales del resultado de las auditorías, visitas e inspecciones, que para verificar el cumplimiento de los programas y de las normas en el ejercicio del gasto público, realicen a las Dependencias y Entidades.
+La Dirección de Control y Evaluación Gubernamental y las Sindicaturas Municipales tendrán la obligación de informar al Ejecutivo del Estado y a los Presidentes Municipales del resultado de las auditorías, visitas e inspecciones, que para verificar el cumplimiento de los programas y de las normas en el ejercicio del gasto público, realicen a las Dependencias y Entidades.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 63.
 
-La Secretaría de Finanzas, las Tesorerías Municipales y las unidades equivalentes en las demás Entidades, tendrán la obligación de informar periódicamente al Ejecutivo del Estado y a los Ayuntamientos de la situación que guardan las finanzas públicas.
+La Secretaría de Planeación y Finanzas, las Tesorerías Municipales y las unidades equivalentes en las demás Entidades, tendrán la obligación de informar periódicamente al Ejecutivo del Estado y a los Ayuntamientos de la situación que guardan las finanzas públicas.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 64.
 
-La Secretaría de Planeación y Presupuesto y las Tesorerías Municipales, para efectos de cumplimiento del Artículo 26 de esta Ley y previa evaluación de los resultados programáticos que proporcione la Secretaría de Finanzas en el ámbito estatal y de acuerdo a las necesidades prioritarias de la comunidad, podrán reducir, ampliar o cancelar los programas a juicio del Ejecutivo del Estado y de los Ayuntamientos que requieran ser modificados, informando en un plazo de 30 días al Congreso del Estado de los cambios efectuados, para su conocimiento en el aspecto municipal y para aprobación en su caso, en el aspecto estatal.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, para efectos de cumplimiento del artículo 26 de esta Ley y previa evaluación de los resultados programáticos que proporcione la misma Secretaría en el ámbito estatal y de acuerdo a las necesidades prioritarias de la comunidad, podrán reducir; ampliar o cancelar los programas a juicio del Ejecutivo del Estado y de los Ayuntamientos que requieran ser modificados, informando en un plazo de 30 días al Congreso del Estado de los cambios efectuados, para su conocimiento en el aspecto municipal y para aprobación en su caso, en el aspecto estatal.
 
 ### CAPITULO SEPTIMO. DE LA VIGILANCIA Y VERIFICACION DEL GASTO PUBLICO
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 65.
 
-Quienes efectúen gasto público estarán obligados a proporcionar a las Secretarías de Finanzas y de Planeación y Presupuesto, y a las Tesorerías y Sindicaturas Municipales, la información que les soliciten, dentro de sus ámbitos de competencia, para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
+Quienes efectúen gasto público estarán obligados a proporcionar a la Secretaría de Planeación y Finanzas y a la Dirección de Control y Evaluación Gubernamental, y a las Tesorerías y Sindicaturas Municipales, la información que les soliciten, dentro de sus ámbitos de competencia, para la comprobación del cumplimiento de las obligaciones derivadas de esta Ley y de las disposiciones expedidas con base en ella.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 66.
 
-Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría de Finanzas y de Planeación y Presupuesto, y las Sindicaturas Municipales, ejercerán sus atribuciones de vigilancia y verificación del gasto público que ejerzan las Dependencias y Entidades, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados en sus respectivos programas.
+Sin detrimento de lo que establezcan otras disposiciones legales aplicables, la Secretaría de Planeación y Finanzas y la Dirección de Control y Evaluación Gubernamental, y las Sindicaturas Municipales, ejercerán sus atribuciones de vigilancia y verificación del gasto público que ejerzan las Dependencias y Entidades, con objeto de promover la eficiencia en sus operaciones y comprobar el cumplimiento, por parte de las mismas, de las disposiciones legales en vigor y la consecución de los objetivos y metas trazados en sus respectivos programas.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 67.
 
-La Secretaría de Planeación y Presupuesto y las Sindicaturas Municipales realizarán las visitas, inspecciones y auditorías en forma directa, o bien, requerir del auxilio de la Oficialía Mayor y de la Secretarías de Finanzas en el ámbito estatal, y de la Oficialía Mayor y de las Tesorerías en el ámbito municipal con el objeto de verificar la correcta aplicación de los recursos y comprobar el cumplimiento de los programas, o proveer lo necesario en caso de incumplimiento de los mismos.
+La Dirección de Control y Evaluación Gubernamental y las Sindicaturas Municipales realizarán las visitas, inspecciones y auditorías en forma directa, o bien, requerir del auxilio de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas en el ámbito estatal, y de la Oficialía Mayor y de las Tesorerías en el ámbito municipal con el objeto de verificar la correcta aplicación de los recursos y comprobar el cumplimiento de los programas, o proveer lo necesario en caso de incumplimiento de los mismos.
 
 ### CAPITULO OCTAVO. ARCHIVO CONTABLE GUBERNAMENTAL
 
@@ -511,17 +609,23 @@ La Secretaría de Planeación y Presupuesto y las Sindicaturas Municipales reali
 
 El conjunto de la documentación contable consistente en libros de contabilidad, registros contables, documentación comprobatoria del ingreso y del gasto público, así como la información financiera de las Dependencias y Entidades señaladas en el Artículo 2o. de esta Ley, constituyen el Archivo Contable Gubernamental, que deberá guardarse, conservarse, reproducirse y destruirse, de conformidad con lo dispuesto en este Capítulo.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 69.
 
-La Secretaría de Finanzas, en coordinación con la Secretaría de Planeación y Presupuesto del Estado a través de sus órganos de control de contabilidad gubernamental, y las Tesorerías Municipales en coordinación con las Tesorerías o unidades equivalentes de las Entidades, establecerán los lineamientos en materia de Archivo Contable Gubernamental.
+La Secretaría de Planeación y Finanzas del Estado, a través de sus órganos de control de contabilidad gubernamental, y las Tesorerías Municipales en coordinación con las Tesorerías o unidades equivalentes de las Entidades, establecerán los lineamientos en materia de Archivo Contable Gubernamental.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 70.
 
-Las Dependencias y Entidades instruirán a sus unidades respectivas de contabilidad para que en coordinación con la Secretaría de Finanzas y las Tesorerías Municipales, mantengan actualizados y uniformes los sistemas de operación de la documentación contable.
+Las Dependencias y Entidades instruirán a sus unidades respectivas de contabilidad para que en coordinación con la Secretaría de Planeación y Finanzas y las Tesorerías Municipales, mantengan actualizados y uniformes los sistemas de operación de la documentación contable.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 71.
 
-La planeación, organización y funcionamiento del Archivo Contable Gubernamental corresponderá a la Secretaría de Finanzas y a las Tesorerías Municipales.
+La planeación, organización y funcionamiento del Archivo Contable Gubernamental corresponderá a la Secretaría de Planeación y Finanzas y a las Tesorerías Municipales.
 
 ###### ARTICULO 72.
 
@@ -529,9 +633,11 @@ Las unidades de contabilidad de las Dependencias y Entidades deberán conservar 
 
 El plazo señalado en el párrafo anterior empezará a computarse a partir de la publicación en el Periódico Oficial del Estado, de la aprobación de la cuenta pública por el Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 73.
 
-La Secretaría de Finanzas y las Tesorerías Municipales, en coordinación con la Oficialía Mayor respectiva, definirán el valor histórico de los documentos existentes en el Archivo Contable Gubernamental y fijarán los criterios de aplicación correlativos.
+La Secretaría de Planeación y Finanzas y las Tesorerías Municipales, en coordinación con la Oficialía Mayor respectiva, definirán el valor histórico de los documentos existentes en el Archivo Contable Gubernamental y fijarán los criterios de aplicación correlativos.
 
 ###### ARTICULO 74.
 
@@ -547,17 +653,23 @@ Previa reproducción en el Archivo Contable Gubernamental, la documentación con
 
 Por lo que respecta a las Dependencias Estatales y Municipales, esta documentación la conservará la Oficialía Mayor, en los mismos términos.
 
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 77.
 
-La reproducción de la documentación contable de las Dependencias y Entidades, referente a ejercicios fiscales cuyas cuentas públicas hayan sido aprobadas por el Congreso del Estado y que obren en el Archivo Contable Gubernamental, serán certificadas a través de dictamen por los titulares de las Secretarías de Finanzas y de Planeación y Presupuesto en el ámbito estatal, y de la Tesorería y Sindicatura Municipal y la Secretaría del Ayuntamiento en el ámbito municipal.
+La reproducción de la documentación contable de las Dependencias y Entidades, referente a ejercicios fiscales cuyas cuentas públicas hayan sido aprobadas por el Congreso del Estado y que obren en el Archivo Contable Gubernamental, serán certificadas, a través de dictamen por los titulares de la Secretaría de Planeación y Finanzas y de la Dirección de Control y Evaluación Gubernamental en el ámbito estatal, y de la Tesorería, Sindicatura Municipal y la Secretaría del Ayuntamiento en el ámbito municipal.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 78.
 
-La reproducción de la documentación a que se refiere el Artículo anterior, se efectuará por lo menos en duplicado, quedando la guarda de cada una de éstas a cargo de la Secretaría de Finanzas del Estado, de la Tesorería Municipal y del Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, levantando acta circunstanciada de la entrega de la misma.
+La reproducción de la documentación a que se refiere el artículo anterior, se efectuará por lo menos en duplicado, quedando la guarda de cada una de éstas a cargo de la Secretaría de Planeación y Finanzas del Estado, de la Tesorería Municipal y del Congreso del Estado por conducto de la Contaduría Mayor de Hacienda, levantando acta circunstanciada de la entrega de la misma.
+
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 79.
 
-La documentación contable que haya sido reproducida y certificada a través de dictamen por los funcionarios competentes, procederá a destruyeres (sic) después de un año de aprobada la cuenta pública por el Congreso del Estado a partir de la publicación en el Periódico Oficial del Estado, por el método que resulte más idóneo previo inventario de la misma, asentándose los hechos en acta circunstanciada la cual firmarán funcionarios competentes de la Oficialía Mayor de Gobierno y de las Secretarías de Finanzas y de Planeación y Presupuesto del Estado y, Oficialía Mayor, Tesorería, Sindicatura y Secretaría de los Ayuntamientos, remitiéndose copia del acta a la Contaduría Mayor de Hacienda del Congreso del Estado en un plazo de 30 días posteriores a su destrucción.
+La documentación contable que haya sido reproducida y certificada, a través de dictamen por los funcionarios competentes, procederá a destruirse después de un año de aprobada la cuenta pública por el Congreso del Estado a partir de la publicación en el Periódico Oficial del Estado, por el método que resulte más idóneo previo inventario de la misma, asentándose los hechos en acta circunstanciada la cual firmarán funcionarios competentes de la Oficialía Mayor de Gobierno y de la Secretaría de Planeación y Finanzas y la Dirección de Control y Evaluación Gubernamental del Estado y, Oficialía Mayor, Tesorería, Sindicatura y Secretaría de los Ayuntamientos, remitiéndose copia del acta a la Contaduría Mayor de Hacienda del Congreso del Estado en un plazo de 30 días posteriores a su destrucción.
 
 ###### ARTICULO 80.
 
@@ -575,11 +687,15 @@ Transcurrido este lapso procederá a destruirse con las formalidades de inventar
 
 El incumplimiento de las disposiciones de la presente Ley, y de las que de ella se deriven, será sancionado en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Baja California y de los (sic) dispuesto en este Capítulo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 83.
 
-La Secretaría de Planeación y Presupuesto, las Sindicaturas Municipales y las Comisiones designadas del Congreso del Estado o del Tribunal Superior de Justicia, dictarán en el ámbito de su competencia, las medidas administrativas sobre las responsabilidades que afecten sus Haciendas Públicas o al patrimonio de las Entidades de la Administración Pública Paraestatal o Paramunicipal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella, y que se conozcan a través de:
+La Dirección de Control y Evaluación Gubernamental, las Sindicatura Municipales y las Comisiones designadas del Congreso del Estado o del Tribunal Superior de Justicia, dictarán en el ámbito de su competencia, las medidas administrativas sobre las responsabilidades que afecten sus Haciendas Públicas o al patrimonio de las Entidades de la Administración Pública Paraestatal o Paramunicipal, derivadas del incumplimiento de las disposiciones contenidas en esta Ley y de las que se hayan expedido con base en ella, y que se conozcan a través de:
 
-I. Visitas, auditorías o inspecciones que realicen la Secretaría de Planeación y Presupuesto o las Sindicaturas Municipales;
+> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+I.- Visitas, auditorías o inspecciones que realicen la dirección de Control y Evaluación Gubernamental o las Sindicaturas Municipales;
 
 II. Pliego de observaciones o de responsabilidades que emitan:
 
@@ -595,7 +711,9 @@ Las responsabilidades se constituirán en primer término a las personas que dir
 
 Serán responsables solidarios con los servidores públicos de las Dependencias o Entidades, los particulares en los casos en que hayan participado y originen una responsabilidad.
 
-Los responsables garantizarán a través de embargo precautorio y en forma individual el importe de los pliegos de observaciones o responsabilidades a que se refiere el Artículo anterior, en tanto la Secretaría de Planeación y Presupuesto, las Sindicaturas Municipales y las Comisiones designadas del Congreso del Estado o del Tribunal Superior de Justicia, determina la responsabilidad.
+> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+Los responsables garantizarán a través de embargo precautorio y en forma individual el importe de los pliegos de observaciones o responsabilidades a que se refiere el Artículo anterior, en tanto la Dirección de Control y Evaluación Gubernamental, las Sindicaturas Municipales y las Comisiones designadas del Congreso del Estado o del Tribunal Superior de Justicia, determina la responsabilidad.
 
 ###### ARTICULO 85.
 
@@ -676,3 +794,19 @@ P.O. 6 DE NOVIEMBRE DE 1998.
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+DECRETO NUMERO 370.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+DECRETO NUMERO 374.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor el día primero del mes de diciembre del año dos mil uno.
