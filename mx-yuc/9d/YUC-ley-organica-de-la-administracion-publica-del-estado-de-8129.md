@@ -4,7 +4,7 @@ identifier: "YUC-ley-organica-de-la-administracion-publica-del-estado-de-8129"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-03-10"
-last_updated: "1991-07-16"
+last_updated: "1994-07-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE YUCATAN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE JULIO DE 1994.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el jueves 10 de marzo de 1988.
 
@@ -289,7 +289,9 @@ IX.- Administrar los Centros de Readaptación Social para los delincuentes y est
 
 X.- Ejercer las funciones que al Ejecutivo del Estado corresponda, en materia de trabajo y previsión social;
 
-XI.- Vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores;
+> <small>(REFORMADA, D.O. 18 DE JULIO DE 1994)</small>
+
+XI.- Vigilar el establecimiento de instituciones y normas preventivas tutelares de menores infractores y administrar la Escuela de Educación Especial para menores infractores;
 
 XII.- Proporcionar asesoría jurídica a las dependencias y entidades de la Administración Pública del Estado;
 
@@ -1110,3 +1112,13 @@ SEXTO.- El presente Decreto entrará en vigor el día siguiente al de su publica
 D.O. 16 DE JULIO DE 1991.
 
 UNICO.- Las disposiciones contenidas en este Decreto surtirán sus efectos a partir del día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
+
+D.O. 18 DE JULIO DE 1994.
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones legales que se opongan a lo dispuesto en el presente Decreto.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado.
