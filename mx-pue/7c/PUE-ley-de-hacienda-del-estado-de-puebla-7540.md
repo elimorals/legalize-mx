@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-del-estado-de-puebla-7540"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-31"
-last_updated: "1996-06-04"
+last_updated: "1996-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 1993.
 
@@ -105,7 +105,9 @@ IV.- Las aportaciones al Instituto del Fondo Nacional de la Vivienda para los Tr
 
 V.- La alimentación y la habitación cuando no se proporcionen gratuitamente al trabajador, así como las despensas.
 
-VI.- Los premios por asistencia, y
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+VI.- Los premios por asistencia o por puntualidad, y
 
 VII.- Las cantidades aportadas para fines sociales, considerándose como tales las entregadas para constituir fondos de algún plan de pensiones establecido por el patrón o derivado de la contratación colectiva. Los planes de pensiones serán sólo los que reúnan los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
 
@@ -149,11 +151,37 @@ I.- Inscribirse en el registro de contribuyentes de este impuesto ante la oficin
 
 Los contribuyentes que no hubieran cumplido con la obligación de inscribirse en el registro de contribuyentes de este impuesto, que presenten una o más declaraciones, quedarán automáticamente inscritos en el mismo; con excepción de aquellos a que se refiere el artículo 5º párrafo segundo de esta Ley.
 
-(REFORMADA, P.O. 02 DE AGOSTO DE 1994).
+> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
-II.- Presentar ante la Oficina Recaudadora que corresponda a su domicilio fiscal, el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, actividad preponderante; así como de suspensión o reanudación de actividades, fusiones, y los de cancelación del registro de contribuyentes de este impuesto, dentro del mismo plazo señalado en la fracción anterior.
+II.- Presentar ante la Oficina Recaudadora que corresponda a su domicilio fiscal el aviso respectivo de cambio de nombre o razón social, de domicilio fiscal, actividad preponderante o registro estatal; así como de suspensión o reanudación de actividades, fusiones, escisiones y los de cancelación del registro de contribuyentes de este impuesto en matriz y sucursales domiciliadas en el Estado de Puebla, dentro del plazo señalado en la fracción anterior.
 
 III.- Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y lugares señalados al efecto.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+IV.- Expedir y conservar la documentación comprobatoria de las erogaciones gravadas por el (sic) este impuesto, durante el plazo al que se refiere el Código Fiscal del Estado, misma que deberá contener los siguientes requisitos:
+
+a) Nombre, denominación o razón social del contribuyente.
+
+b) Registro estatal.
+
+c) Domicilio fiscal.
+
+d) Número de folio.
+
+e) Nombre, firma y categoría del trabajador.
+
+f) Período y días laborados.
+
+g) Período que se paga.
+
+h) Conceptos e importes de las remuneraciones y deducciones efectuadas al trabajador.
+
+i) Firma del contribuyente o del representante legal.
+
+j) Número total de empleados.
+
+k) Total de erogaciones del período.
 
 ###### ARTICULO 9°.
 
@@ -333,6 +361,10 @@ Además de los casos a que se refiere el Código Fiscal del Estado, la autoridad
 
 Los funcionarios o empleados públicos no recibirán ninguna declaración de alta, baja o cambio de propietario sin haberse cerciorado de que esté cubierto el impuesto a que se refiere este capítulo, así como el de tenencia o uso de vehículos tanto federal como estatal y los derechos de control vehicular correspondientes.
 
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+Las personas físicas o morales que enajenen vehículos materia de este impuesto deberán presentar ante la Secretaría de Finanzas, dentro de los 15 días siguientes a la fecha de enajenación, un aviso en el que se dé a conocer dicho acto, acompañando la documentación que se señale en el formato que para estos efectos apruebe y publique dicha Dependencia.
+
 ###### ARTICULO 25.
 
 Son responsables solidarios del pago de este impuesto:
@@ -366,6 +398,10 @@ No se considerarán servicios gravados por este impuesto los de hospedaje, alber
 ARTICULO 26 B.- Están obligados al pago del impuesto sobre servicios de hospedaje, las persona físicas y las morales que presten servicios de hospedaje en el Estado de Puebla.
 
 Los contribuyentes realizarán el traslado del impuesto en forma expresa y por separado, a las personas a quienes se presten servicios de hospedaje. Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe hacer a dichas personas en un monto equivalente al impuesto establecido en este Capítulo que se calcule conforme a la tasa que establezca la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 26 B-I.- En el caso de que los sujetos de impuesto sobre servicios de hospedaje no lo hayan separado, para determinar su base se considerará que el mismo está incluido en el monto cobrado y en consecuencia, la Autoridad Fiscal procederá a dividir dicho monto entre 1.02, el resultado obtenido se restará al monto total de la operación y el resultado será el impuesto.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -407,7 +443,31 @@ III.- Presentar los avisos, documentos, datos o información que les soliciten l
 
 IV.- Realizar el traslado del impuesto en forma expresa y por separado, a las personas a quienes se presten servicios de hospedaje.
 
-V.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+V.- Expedir y conservar la documentación comprobatoria de las operaciones gravadas por el este impuesto, durante el plazo al que se refiere el Código Fiscal del Estado, misma que deberá contener los siguientes requisitos:
+
+a) Nombre, denominación o razón social del contribuyente.
+
+b) Registro estatal.
+
+c) Domicilio.
+
+d) Número de folio.
+
+e) Lugar y fecha de expedición.
+
+f) Cuota diaria.
+
+g) Total de días en que se prestó el servicio.
+
+h) Importe total consignado con número y letra, así como el monto de los impuestos que en términos de las disposiciones fiscales deban trasladarse.
+
+i) Los demás que señale esta Ley y los ordenamientos fiscales aplicables.
+
+> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
+
+VI.- Las demás que señale esta Ley y los ordenamientos fiscales aplicables.
 
 > <small>(ADICIONADO P.O. 4 DE JUNIO DE 1996)</small>
 
@@ -568,3 +628,11 @@ La Secretaría de Finanzas del Gobierno del Estado de Puebla inscribirá en el r
 ###### ARTÍCULO CUARTO.
 
 Las personas físicas y morales que a la fecha de la entrada en vigor de este decreto realicen las actividades a que se refiere Artículo 26 A de la Ley de Hacienda del Estado y que no se encuentren inscritas en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público, deberán presentar su aviso de inscripción al registro estatal del impuesto sobre servicios de hospedaje dentro de los quince días siguientes al inicio de la vigencia de este Decreto.
+
+P.O. 6 DE DICIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de mil noventa y siete.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- El incumplimiento de la obligación consignada en el último párrafo del artículo 24 de esta Ley, solo será objeto de sanción a partir del primero de junio de mil novecientos noventa y siete.
