@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-codigo-fiscal-de-la-federacion-362"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1997-06-02"
+last_updated: "2002-05-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=362&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DEL CODIGO FISCAL DE LA FEDERACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JUNIO DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE MAYO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 29 de febrero de 1984.
 
@@ -63,9 +63,11 @@ Tratándose de avisos relacionados con aportaciones de seguridad social, si en l
 
 Los contribuyentes quedarán relevados de la obligación de presentar los avisos cuando así se señale expresamente al aprobar la forma oficial de la declaración, que incluya la información requerida por el aviso de que se trate.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. DE 21 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 4o.
 
-Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales o por corredor público.
+Los avalúos que se practiquen para efectos fiscales tendrán vigencia durante seis meses, contados a partir de la fecha en que se efectúen y deberán llevarse a cabo por las autoridades fiscales, instituciones de crédito, la Comisión de Avalúos de Bienes Nacionales, por corredor público o personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública.
 
 En aquellos casos en que después de realizado el avalúo se lleven a cabo construcciones, instalaciones o mejoras permanentes al bien de que se trate, los valores consignados en dicho avalúo quedarán sin efecto, aun cuando no haya transcurrido el plazo señalado en el párrafo que antecede.
 
@@ -81,9 +83,9 @@ II.- La cantidad obtenida conforme a la fracción anterior, se dividirá entre e
 
 III.- El resultado que se obtenga conforme a la fracción anterior, será el valor del bien a la fecha a la que el avalúo sea referido. El valuador podrá efectuar ajustes a este valor, cuando existan razones que así lo justifiquen, las cuales deberán señalarse expresamente en el avalúo. Una vez presentado dicho avalúo no podrán efectuarse estos ajustes.
 
-> <small>(ADICIONADO, D.O.F. 8 DE JULIO DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2002)</small>
 
-Si el avalúo debe realizarse en poblaciones donde no se cuente con los servicios de instituciones de crédito, de la Comisión de Avalúos de Bienes Nacionales, de corredor público o de instituciones o empresas dedicadas a la compraventa y subasta de bienes, podrá designarse a personas o instituciones versadas en la materia.
+Si el avalúo debe realizarse en poblaciones en donde no se cuente con los servicios de instituciones de crédito, de la Comisión de Avalúos de Bienes Nacionales, de corredor público, empresas dedicadas a la compraventa y subasta de bienes o de personas que cuenten con cédula profesional de valuadores expedida por la Secretaría de Educación Pública, podrá designarse a personas o instituciones versadas en la materia.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -337,7 +339,7 @@ Además deberá estarse a lo siguiente:
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
-a).- Este aviso, durante su vigencia, libera al contribuyente de la obligación de presentar declaraciones periódicas, excepto tratándose de las del ejercicio en que interrumpa sus actividades y cuando se trate de contribuciones causadas aún no cubiertas o de declaraciones correspondientes a períodos anteriores a la fecha de inicio de la suspensión de actividades;
+a).- Este aviso, durante su vigencia, libera al contribuyente de la obligación de presentar declaraciones periódicas, excepto tratándose de las del ejercicio en que interrumpa sus actividades y cuando se trate de contribuciones causadas aún no cubiertas o de declaraciones correspondientes a períodos anteriores a la fecha de inicio de la suspensión de actividades.
 
 b).- Durante el período de suspensión de actividades, el contribuyente no queda relevado de dar los demás avisos previstos en este Reglamento.
 
@@ -428,6 +430,14 @@ VI.- Asegurar el registro total de operaciones, actos o actividades y garantizar
 VII.-. Identificar las contribuciones que se deben cancelar o devolver, en virtud de devoluciones que se reciban y descuentos o bonificaciones que se otorguen conforme a las disposiciones fiscales.
 
 VIII.- Comprobar el cumplimiento de los requisitos relativos al otorgamiento de estímulos fiscales.
+
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+IX.- Identificar los bienes distinguiendo, entre los bienes adquiridos o producidos, los correspondientes a materias primas y productos terminados o semiterminados, los enajenados, así como los destinados a la donación o, en su caso, a la destrucción.
+
+Tratándose de donativos en bienes que reciban las donatarias autorizadas de conformidad con la Ley del Impuesto sobre la Renta, éstas deberán llevar además, un control de dichos bienes, que les permita identificar a los donantes, los bienes recibidos y entregados y, en su caso, los bienes destruidos que no hubiesen sido entregados a los beneficiarios de las donatarias. Asimismo, deberán llevar un control de las cuotas de recuperación que obtengan por los bienes recibidos en donación.
+
+El contribuyente deberá registrar en su contabilidad la destrucción o donación de las mercancías o bienes en el ejercicio en el que se efectúen.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -643,7 +653,7 @@ IV.- Las resoluciones que ordenen se dejen de aprobar y registrar máquinas regi
 
 ###### ARTICULO 29-G.
 
-. (DEROGADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)
+(DEROGADO PRIMER PARRAFO, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -851,11 +861,15 @@ I.- Nombre, denominación o razón social, domicilio fiscal y clave del registro
 
 II.- Lugar y fecha de expedición.
 
-III.- Nombre, denominación o razón social y domicilio del donante.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+III.- Nombre, denominación o razón social y domicilio del donante y, en su caso, domicilio fiscal y clave del registro federal de contribuyentes.
 
 IV.- Cantidad y descripción de los bienes donados o, en su caso, el monto del donativo.
 
-V.- El señalamiento expreso que amparan un donativo.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+V.- El señalamiento expreso que amparan un donativo y que la donataria se obliga a destinar los bienes donados a los fines propios de su objeto social. Cuando el comprobante ampare la donación de bienes, deberá consignar la siguiente leyenda: "En el caso de que los bienes donados hayan sido deducidos previamente para los efectos del impuesto sobre la renta, este donativo no es deducible.
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -941,9 +955,7 @@ II.- Cédula profesional emitida por la Secretaría de Educación Pública.
 
 III.- Constancia emitida por colegio de contadores públicos que acredite su calidad de miembro activo, expedida dentro de los dos meses anteriores a la presentación de la solicitud.
 
-Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o
-
-condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
+Asimismo, deberá expresar bajo protesta de decir verdad que no está sujeto a proceso o condenado, por delitos de carácter fiscal o por delitos intencionales que ameriten pena corporal.
 
 > <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -963,59 +975,35 @@ III.- Número de registro asignado por la Dirección General de Auditoría Fisca
 
 IV.- Nombres de los contadores públicos autorizados para dictaminar que presten sus servicios a la misma persona moral.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
-
 ###### ARTICULO 46.
 
-Los contribuyentes que opten o se encuentren obligados a dictaminar sus estados financieros en los términos de los artículos 52 y 32-A del Código, respectivamente, deberán presentar aviso a las autoridades fiscales competentes dentro de los cuatro o tres meses siguientes a la fecha de terminación de su ejercicio fiscal, según se trate de personas físicas o morales, observando las siguientes reglas:
+(DEROGADO, D.O.F. 21 DE MAYO DE 2002)
 
-I.- El aviso deberá ser suscrito tanto por el contribuyentes como por el contador público que vaya a dictaminar.
-
-II.- El dictamen se referirá invariablemente a los estados financieros del último ejercicio fiscal.
-
-> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
-
-En los casos de liquidación, el dictamen a que se refiere el párrafo anterior, se podrá presentar tanto por el ejercicio de doce meses, como por el ejercicio irregular que se origina por esos hechos, siempre que dicha presentación se efectúe dentro de los tres meses siguientes a la fecha de terminación de su ejercicio fiscal.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 47.
 
-El aviso a que se refiere el artículo 46 de este Reglamento no surtirá efectos en el caso de contribuyentes que opten por dictaminar sus estados financieros cuando:
+El aviso a que se refiere el antepenúltimo párrafo del artículo 32-A del Código no surtirá efecto legal alguno cuando se presente fuera del plazo que establece dicho numeral.
 
-I.- No haya sido presentado en los términos de dicho precepto.
-
-II.- No esté registrado el contador público propuesto por el contribuyente para formular el dictamen o su registro se encuentre suspendido o cancelado.
-
-III.- Con anterioridad a la presentación del aviso haya sido notificada orden de visita domiciliaria al contribuyente, por el ejercicio fiscal al que se refiere el aviso.
-
-IV.- Se esté practicando visita domiciliaria al contribuyente por ejercicios anteriores a aquél a que se refiere el aviso, o bien, por haberse emitido, aun cuando no se haya notificado, orden de visita domiciliaria referente a dicho ejercicio.
-
-Cuando la visita domiciliaria se refiera a ejercicios anteriores al que se dictamina, la Secretaría, tomando en cuenta los antecedentes respecto del cumplimiento de las obligaciones fiscales del contribuyente, podrá dar efectos a la presentación del aviso, si así se le notifica a éste y al contador público dentro de los tres meses siguientes a la fecha en que se efectúe dicha presentación.
-
-V.- Exista impedimento del contador público que lo suscriba.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+Los contribuyentes a que se refiere el numeral citado en el párrafo anterior podrán renunciar a la presentación del dictamen, siempre que comuniquen dicha renuncia a la autoridad fiscal competente dentro de los tres meses siguientes a la presentación del aviso mencionado, manifestando los motivos que tuvieren para ello.
 
 ###### ARTICULO 48.
 
-Los contribuyentes a que se refiere el artículo 46 de este Reglamento podrán sustituir al contador público designado y en el caso de los contribuyentes que opten por dictaminar sus estados financieros, podrán renunciar a la presentación del dictamen, siempre que en ambos casos lo comuniquen a la autoridad fiscal competente, dentro de los tres meses siguientes a la presentación del aviso a que se refiere el citado artículo 46, manifestando los motivos que tuvieren.
+(DEROGADO, D.O.F. 21 DE MAYO DE 2002)
 
-Cuando el contador público no pueda formular el dictamen por incapacidad física o impedimento legal, el aviso para sustituirlo se podrá dar en cualquier tiempo antes de que concluya el plazo para presentar el dictamen.
-
-Si existe sustitución del contador público, las autoridades fiscales competentes, podrán autorizar a solicitud del contribuyente que el dictamen se presente dentro del octavo mes siguiente a la terminación del ejercicio fiscal de que se trate.
-
-El contador público tendrá la obligación de formular su dictamen, salvo que tenga incapacidad física o impedimento legal para hacerlo o que dentro de los tres meses siguientes a la fecha de presentación del aviso a que se refiere el artículo 46 anterior, presente nuevo aviso ante las mismas autoridades comunicando que renuncia a formularlo, justificando los motivos que tuviere.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2002)</small>
 
 ###### ARTICULO 49.
 
-Los contribuyentes a que se refiere el artículo 46 de este Reglamento, deberán presentar ante la autoridad fiscal competente dentro de los siete meses siguientes a la terminación del ejercicio fiscal de que se trate a través de discos magnéticos flexibles, la documentación a que se refiere la fracción III del artículo 50 de este Reglamento, acompañando a la misma, la carta de presentación del dictamen, así como el propio dictamen firmado por el contador público que lo emite y una relación por escrito de los archivos contenidos en el disco flexible agrupados de conformidad con las reglas de carácter general que al efecto expida la Secretaría. La presentación de dichos documentos y del disco se hará en dos tantos.
+Los contribuyentes obligados a dictaminar sus estados financieros, así como los contribuyentes que opten por hacerlo, deberán presentar la documentación a que se refiere el artículo 50 de este Reglamento, por sí mismos o por conducto del contador público registrado que haya elaborado el dictamen. Dicha presentación deberá efectuarse mediante el envío de documentos digitales a más tardar durante el mes de mayo del año inmediato posterior a la terminación del ejercicio fiscal de que se trate, de conformidad con las reglas de carácter general que emita el Servicio de Administración Tributaria y cumpliendo con los requisitos que en dichas reglas se establezcan. Tanto los contribuyentes como el contador público registrado deberán incorporar en los documentos digitales mencionados sus firmas digitales, de conformidad con las reglas de carácter general que establezca el Servicio de Administración Tributaria. Dicha presentación se efectuará mediante su envío a la dirección electrónica que en dichas reglas se señale. Los contribuyentes y el contador público registrado recibirán el acuse de recibo con sello digital en forma inmediata a la recepción por el Servicio de Administración Tributaria, previa validación que dicho órgano realice de la documentación a que se refiere este párrafo.
 
-La autoridad fiscal competente podrá conceder prórroga hasta por un mes para la presentación del dictamen y los documentos citados, si existen causas fortuitas o de fuerza mayor debidamente comprobadas que impidan el cumplimiento dentro del plazo mencionado en este artículo. La solicitud correspondiente deberá ser firmada por el contribuyente y presentarse a más tardar un mes antes del vencimiento de dicho plazo. Se considerará concedida la prórroga por un mes, si dentro de los diez días naturales siguientes a la fecha de presentación de la solicitud de prórroga la autoridad fiscal competente no le da contestación.
+Los contribuyentes que presenten el dictamen durante el mes de mayo deberán realizar dicha presentación en las fechas que les correspondan de conformidad con el calendario que mediante reglas de carácter general emita el Servicio de Administración Tributaria a más tardar el 15 de abril del año en que deba efectuarse la presentación.
 
-El dictamen y los documentos citados que se presenten fuera de los plazos que prevé este Reglamento, no surtirán efecto alguno, salvo que la autoridad fiscal competente considere que existen razones para admitir tales documentos, caso en el cual deberá comunicar tal hecho al contribuyente con copia al contador público, dentro de los tres meses siguientes a la fecha de su presentación.
+Tratándose de sociedades controladoras que hubieren obtenido autorización para dictaminar su resultado fiscal consolidado, la documentación a que se refiere el primer párrafo de este artículo, deberá presentarse a más tardar el 12 de junio del año inmediato posterior a la terminación del ejercicio fiscal de que se trate.
+
+Cuando los contribuyentes estén obligados a presentar el dictamen de sus estados financieros con motivo de la liquidación de una sociedad, dicho dictamen se podrá presentar tanto por el ejercicio comprendido entre el 1 de enero del año de calendario en que ocurra la liquidación y la fecha en que se presente el aviso de liquidación, así como por el ejercicio en que la sociedad esté en liquidación. El dictamen de referencia deberá presentarse dentro de los tres meses siguientes a la presentación de la declaración que con motivo de la liquidación deba elaborarse para los efectos del impuesto sobre la renta.
+
+La presentación del dictamen y los documentos citados fuera de los plazos que prevé este Reglamento, no surtirá efecto legal alguno.
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -1023,9 +1011,13 @@ El dictamen y los documentos citados que se presenten fuera de los plazos que pr
 
 Los contribuyentes a que se refiere el artículo anterior, deberán presentar lo siguiente:
 
-I.- Carta de presentación del dictamen con firma autógrafa del contribuyente y del contador público que dictamina.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2002)</small>
 
-II.- Dictamen e informe sobre la revisión de la situación fiscal del contribuyente debidamente firmados por el contador público.
+I.- Carta de presentación del dictamen.
+
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+II.- Dictamen e informe sobre la revisión de la situación fiscal del contribuyente.
 
 III.- Hoja electrónica de cálculo o sistema desarrollado para este objeto que contenga la información sobre los estados financieros básicos respecto de los cuales emite su dictamen, y los datos del cuestionario de autoevaluación inicial incluidos en las reglas de carácter general que para tal efecto expida la Secretaría, así como lo siguiente:
 
@@ -1247,6 +1239,14 @@ IX.- Análisis de contribuciones por pagar al cierre del ejercicio.
 
 X.- Relación de donatarias a las que les hayan otorgado donativos, así como de aquéllas de las que se hubieren recibido donativos.
 
+> <small>(ADICIONADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+XI.- Información sobre:
+
+a).- El origen y destino de los donativos en bienes.
+
+b).- Las políticas establecidas para determinar las cuotas de recuperación de los bienes recibidos en donación, distinguiendo a las personas que sean objeto de las mismas y a las que no lo son.
+
 Los documentos a que se refiere este artículo se presentarán en los términos a que se refiere el artículo 49 de este Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
@@ -1265,7 +1265,9 @@ b).- Que los donativos y sus rendimientos se hayan destinado a los fines propios
 
 c).- Comprobar, en su caso, la existencia de los convenios a que se refiere el último párrafo del artículo 14-B del Reglamento de la Ley del Impuesto sobre la Renta.
 
-II.- El informe del contador público registrado, deberá indicar que el mismo se emite en cumplimiento de lo dispuesto por el artículo 32-A, fracción II del Código Fiscal de la Federación. Dicho informe deberá contener el número de registro que lo autoriza a dictaminar, así como su nombre y firma.
+> <small>(REFORMADA, D.O.F. 21 DE MAYO DE 2002)</small>
+
+II.- El informe del contador público registrado deberá indicar que el mismo se emite en cumplimiento de lo dispuesto por el artículo 32-A, fracción II del Código. Dicho informe deberá contener el número de registro que lo autoriza a dictaminar, así como su nombre.
 
 III.- El estado de ingresos y egresos, incluyendo las notas a dicho estado, examinados por el contador público, respecto del cual emite su informe, deberá suscribirse por el representante legal de la donataria, debiendo presentarlo en forma comparativa con el del ejercicio inmediato anterior y expresarse en miles de pesos.
 
@@ -1375,7 +1377,9 @@ X.- Se revelarán los saldos y las transacciones con sus principales accionistas
 
 Estas transacciones son, entre otras, la adquisición o enajenación de bienes; la prestación o recepción de servicios; el otorgamiento o recepción del uso o goce temporal de bienes; así como la celebración de contratos que den lugar a regalías por los conceptos a que se refiere el inciso b), fracción II, del artículo 43 de la Ley del Impuesto Sobre la Renta.
 
-El contador público deberá señalar su nombre y número de registro que lo autoriza a dictaminar, así como firmar el informe.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2002)</small>
+
+El contador público deberá asentar en el informe su nombre y número de registro que lo autoriza a dictaminar.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -1431,7 +1435,9 @@ a).- Formule el dictamen en contravención a lo dispuesto en los artículos 52 d
 
 b).- El contador público acumule tres amonestaciones. En este caso la suspensión podrá ser hasta por un año.
 
-c).- El contador público no cumpla con lo señalado en el artículo 55 fracción I, inciso b) de este Reglamento. En este caso la suspensión será hasta por un año.
+> <small>(REFORMADO, D.O.F. 21 DE MAYO DE 2002)</small>
+
+c).- No exhibir los papeles de trabajo a que se refiere el artículo 55, fracción I, inciso b), de este Reglamento, en cuyo caso la suspensión será de uno a dos años.
 
 d).- No formule el dictamen debiendo hacerlo. En este caso la suspensión podrá ser hasta por dos años.
 
@@ -1764,3 +1770,9 @@ TERCERO.- Los contribuyentes que hayan venido cubriendo sus adeudos fiscales en 
 D.O.F. 2 DE JUNIO DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE MAYO DE 2002.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Para los efectos de lo dispuesto por el artículo 49 del Reglamento del Código Fiscal de la Federación, los dictámenes de estados financieros correspondientes al ejercicio fiscal de 2001, se deberán presentar a más tardar el 31 de julio de 2002. Los contribuyentes que presenten el dictamen durante el mes citado deberán realizar dicha presentación en las fechas y de conformidad con el calendario que mediante reglas de carácter general emita el Servicio de Administración Tributaria.
