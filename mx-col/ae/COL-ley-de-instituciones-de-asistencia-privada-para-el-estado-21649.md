@@ -4,7 +4,7 @@ identifier: "COL-ley-de-instituciones-de-asistencia-privada-para-el-estado-21649
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-16"
-last_updated: "2003-05-31"
+last_updated: "2003-08-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE INSTITUCIONES DE ASISTENCIA PRIVADA PARA EL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE AGOSTO DE 2003.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 16 de junio de 2001.
 
@@ -143,15 +143,21 @@ IX. Los requisitos que deberán exigirse a las personas que pretenden disfrutar 
 
 Al escrito deberá acompañarse el proyecto de estatutos, que deberá contener, además de la información señalada en este artículo, la forma de organización del Patronato, sus facultades y las de sus miembros individualmente considerados, según sus cargos.
 
-Cuando el fundador o los fundadores no determinen quién deberá integrar el Patronato o la forma de sustituir a sus miembros, el Consejo Directivo designará, desde luego, al primer Patronato. En lo sucesivo, al ocurrir una vacante los Patronos restantes designarán a quien deberá cubrirla.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2003)</small>
 
-Las personas morales constituidas con arreglo a otras Leyes y cuyo objeto corresponda a los señalados en esta Ley, podrán transformarse en Institución, para lo cual darán a conocer al Consejo Directivo la información que se señala en este artículo, acompañando copia certificada del acta de la asamblea de asociados o, en su caso, de la sesión del órgano superior de gobierno interno, en la que conste el acuerdo respectivo. El Consejo Directivo podrá aprobar o no la solicitud que en este caso se le presente.
+Cuando el fundador o los fundadores no determinen quien deberá integrar el Patronato o la forma de sustituir a sus miembros, el Consejo Directivo los requerirá para que corrijan esa omisión en un plazo máximo de 15 días a partir de que les sea notificada la resolución; con prevención que en caso de incumplimiento el Consejo Directivo designará, desde luego al primer Patronato. En lo sucesivo, al ocurrir una vacante los Patronos restantes designarán a quien deberá cubrirla.
+
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2003)</small>
+
+Las personas morales constituidas con arreglo a otras leyes y cuyo objeto corresponda a los señalados en esta Ley, podrán transformarse en Institución, para lo cual darán a conocer al Consejo Directivo la información que se señala en este artículo, acompañando copia certificada del acta de la asamblea de asociados o, en su caso, de la sesión del órgano superior de gobierno interno, en la que conste el acuerdo respectivo. El Consejo Directivo podrá aprobar o no la solicitud que en este caso se le presente; expresando en forma clara los motivos y fundamentos de su resolución, misma que podrá recurrirse ante el Tribunal.
 
 ###### Artículo 8º.
 
 Recibida por la Junta la solicitud a que se refiere el artículo anterior, se examinará el proyecto de estatutos cuidando que cumplan con las características que definen a las Instituciones y que se señalan en el artículo 2° de esta Ley. En su caso, se harán las observaciones correspondientes al fundador o fundadores para su corrección o adecuación. El Consejo resolverá en un plazo no mayor de cuarenta y cinco días si es o no de constituirse la Institución. La resolución se comunicará a los interesados dentro de un plazo que no excederá de quince días más, contados a partir de la fecha de la misma.
 
-Una vez autorizados los estatutos por el Consejo Directivo, se expedirá una copia certificada de los mismos y la declaratoria de constitución, para que se protocolicen ante notario público y se inscriba la escritura correspondiente en el Registro Público de la Propiedad y del Comercio, dentro de los noventa días a partir de la declaratoria.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2003)</small>
+
+Una vez autorizados los estatutos por el Consejo Directivo, se expedirá una copia certificada de los mismos y la declaratoria de constitución, para que se protocolicen ante notario público y se inscriba la escritura correspondiente en el Registro de la Propiedad y del Comercio, dentro de los noventa días a partir de la notificación de la referida declaratoria a la Institución.
 
 La declaratoria del Consejo Directivo sobre que es de constituirse la Institución, produce la afectación irrevocable de los bienes aportados a sus fines. Se deberá considerar en sus escrituras la afectación de los bienes inmuebles, para que surta efectos contra terceros y se formalice la translación de dominio de éstos.
 
@@ -299,7 +305,9 @@ Transcurrido el plazo a que se refiere el párrafo anterior sin que las Instituc
 
 La desincorporación surtirá sus efectos de inmediato, desde el momento mismo en que se adopte el acuerdo correspondiente por la asamblea de asociados o del Patronato y seguirá surtiendo tales efectos aun cuando la Junta, dentro de un plazo de treinta días, objete el acuerdo de desincorporación. En último caso, la Institución podrá impugnar la objeción ante el Tribunal, en los términos de la Ley respectiva. La desincorporación sólo dejará de surtir sus efectos por sentencia definitiva que así lo resuelva.
 
-Así mismo, las Instituciones, por voluntad propia, podrán desincorporarse del régimen previsto en este ordenamiento. En este caso, deberán transferir a la beneficencia privada, por conducto de la Junta, el incremento patrimonial adquirido al amparo de esta Ley. Para determinar la cuantía de la transferencia, se utilizará la pericial correspondiente.
+> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2003)</small>
+
+Así mismo, las Instituciones, por voluntad propia o por cancelación de su registro ante la Junta, podrán desincorporarse del régimen previsto en este ordenamiento. En este caso, deberán transferir a la beneficencia privada, por conducto de la Junta, el incremento patrimonial, en bienes de activo fijo adquirido con aportaciones directas efectuadas por el Gobierno del Estado de Colima o que se logren por conducto de la Junta, al amparo de esta Ley. Para determinar la cuantía de la transferencia, se utilizará la pericial correspondiente.
 
 La Institución que se desincorpore de la Junta dejará de recibir los beneficios y servicios que otorga esta Ley.
 
@@ -443,7 +451,9 @@ Además de los fundadores, podrán desempeñar el cargo de Patronos de las Insti
 
 I. Las personas nombradas por el fundador o designadas conforme a las disposiciones establecidas en los estatutos; y
 
-II. Las personas nombradas por el Consejo Directivo, en los siguientes casos:
+> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2003)</small>
+
+II.- Las personas nombradas por el Consejo Directivo, siempre que no se haya cumplido con la prevención establecida en el artículo 7° penúltimo párrafo, de esta ley; en los siguientes términos:
 
 a) Cuando se hayan agotado de la lista, las personas designadas por los estatutos y no se haya previsto la forma de sustitución de los Patronos;
 
@@ -1168,3 +1178,7 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA. Rúbrica. E
 P.O. 31 DE MAYO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE AGOSTO DE 2003.
+
+UNICO.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
