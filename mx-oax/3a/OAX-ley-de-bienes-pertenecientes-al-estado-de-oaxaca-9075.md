@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-bienes-pertenecientes-al-estado-de-oaxaca-9075"
 country: "mx"
 rank: "ley"
 publication_date: "1951-12-15"
-last_updated: "1951-12-15"
+last_updated: "2001-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9075&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE BIENES PERTENECIENTES AL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 1951.
 
@@ -143,7 +143,9 @@ Artículo Décimo-Séptimo: La posesión, conservación y administración de los
 
 Los particulares no pueden adquirir por prescripción los inmuebles pertenecientes al patrimonio del Estado de Oaxaca.
 
-Artículo Décimo-Octavo: Los bienes de dominio privado pertenecientes al patrimonio del Estado, pueden ser objeto de todos los contratos que regule el derecho común. Se exceptúan solamente los de comodato y las donaciones a particulares.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2001)</small>
+
+Artículo Décimo-Octavo.- Los bienes del dominio privado pertenecientes al patrimonio del Estado, pueden ser objeto de todos los contratos que regula el derecho común.
 
 Artículo Décimo-Noveno: Los actos o contratos que tengan relación con los inmuebles de la Hacienda Pública del Estado, y que para su validez o por acuerdo entre las partes requieran la intervención del Notario, serán otorgados ante el que designe el Departamento de Bienes del Estado dentro de la jurisdicción territorial correspondiente.
 
@@ -179,7 +181,7 @@ I.- Al Código Civil del Estado de Oaxaca; y
 
 II.- En las materias que no regule dicho Código, a las disposiciones de carácter general.
 
-Artículo Vigésimo-Octavo: Se faculta al Ejecutivo del Estado para transigir los pleitos surgidos con motivo del cumplimiento y aplicación de esta Ley, siempre que a su juicio sea conveniente a los intereses del Estado, dando cuenta a la Legislatura del Estado.
+Artículo Vigésimo Octavo: Se faculta al Ejecutivo del Estado para transigir los pleitos surgidos con motivo del cumplimiento y aplicación de esta Ley, siempre que a su juicio sea conveniente a los intereses del Estado, dando cuenta a la Legislatura del Estado.
 
 ### CAPITULO CUARTO
 
@@ -235,6 +237,20 @@ Artículo Trigésimo-Séptimo: Un Reglamento determinará las Secciones de que h
 
 Artículo Trigésimo-Octavo: Para los fines de esta Ley, se crea una oficina que se denominará Departamento de Bienes del Estado, como una Dependencia del Ejecutivo, la cual estará provista del personal necesario, cuyo número y sueldo determinará el Presupuesto de Egresos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2001)</small>
+
+### CAPITULO SEXTO
+
+Del Comodato y la Donación.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2001)</small>
+
+Artículo Trigésimo-Noveno.- El Titular del Poder Ejecutivo estará facultado a otorgar en comodato o donar a los particulares, bienes inmuebles del dominio privado cuando el objeto, motivo del comodato o de la donación, sea en beneficio de la colectividad y aprobado mediante Decreto por la Legislatura.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2001)</small>
+
+Artículo Cuadragésimo.- El Ejecutivo hará la solicitud correspondiente a la Legislatura, misma que de aprobarse deberá contar con el voto de las dos terceras partes de los integrantes de la Legislatura.
+
 TRANSITORIOS:
 
 Artículo Primero: Se deroga el artículo 1150 del Código Civil en cuanto establece la prescripción de los bienes inmuebles de propiedad privada del Estado, así como sus derechos y acciones.
@@ -256,3 +272,9 @@ Y lo comunico a usted para su conocimiento y fines consiguientes.
 Sufragio Efectivo. No Reelección.- El Respeto al Derecho Ajeno es la Paz.- Oaxaca de Juárez, a 15 de diciembre de 1951.- El Secretario Gral. del Despacho, Lic. Guillermo Candiani.- Rúbrica.
 
 Al C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación.
