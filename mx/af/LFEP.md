@@ -4,7 +4,7 @@ identifier: "LFEP"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1986-05-14"
-last_updated: "1996-12-24"
+last_updated: "1998-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=292&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFEP"
 
 LEY FEDERAL DE LAS ENTIDADES PARAESTATALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 14 de mayo de 1986.
 
@@ -198,7 +198,9 @@ El propio Organo de Gobierno sesionará válidamente con la asistencia de por lo
 
 El Director General será designado por el Presidente de la República, o a indicación de éste a través del Coordinador de Sector por el Organo de Gobierno, debiendo recaer tal nombramiento en persona que reúna los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, D.O.F. 23 DE ENERO DE 1998)</small>
+
+I. Ser ciudadano mexicano por nacimiento que no adquiera otra nacionalidad y estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
 II. Haber desempeñado cargos de alto nivel decisorio, cuyo ejercicio requiera conocimientos y experiencia en materia administrativa; y
 
@@ -641,3 +643,7 @@ QUINTO.- La Secretaría de Hacienda y Crédito Público realizará los actos que
 Las dependencias y entidades continuarán proporcionando los espacios físicos, los recursos humanos y materiales que requieran los referidos órganos de control interno.
 
 La relación laboral del resto del personal de dichos órganos de control interno no se modifica por la entrada en vigor del presente decreto.
+
+D.O.F. 23 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
