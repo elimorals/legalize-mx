@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-procedimiento-administrativo-para-el-13041"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-10-19"
-last_updated: "1998-10-19"
+last_updated: "2000-11-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL MUNICIPIO DE CIUDAD GUADALUPE, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 19 de octubre de 1998.
 
@@ -47,13 +47,17 @@ El trámite para los recursos previstos en la ley aplicable al caso concreto de 
 
 El recurso de inconformidad procederá en contra del acto emitido por cualquier autoridad municipal, cuando el particular estime que no se hizo en el acto reclamado, una exacta aplicación de la ley.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 3.
 
-El trámite del recurso estará a cargo del Contralor Municipal, a quien corresponderá también decretar lo conducente respecto a la suspensión de la ejecución de dicho acto. La resolución definitiva del recurso será emitida por el propio Contralor Municipal.
+El tramite del recurso estará a cargo del Secretario del Ayuntamiento, a quien corresponderá también decretar lo conducente respecto de la suspensión de la ejecución de dicho acto. La resolución definitiva del recurso será emitida por el propio Secretario del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
 
 ###### ARTÍCULO 4.
 
-La presentación del recurso se hará por triplicado ante la propia dependencia que hubiere dictado el acto impugnado, la que lo remitirá a la Contraloría Municipal, debiéndose tener como fecha de presentación la que se contenga en la constancia de recibo por la dependencia que emitió el acto impugnado.
+La presentación del recurso se hará por triplicado ante la propia Secretaría del Ayuntamiento o ante la dependencia que hubiere dictado el acto impugnado, quien deberá remitirlo a aquélla dentro del término de tres días.
 
 ### CAPÍTULO II. DE LA DEMANDA
 
@@ -83,7 +87,7 @@ Al interponerse el recurso de inconformidad, en representación de otra persona 
 
 ###### ARTÍCULO 8.
 
-Si el escrito mediante el cual se interpone el recurso no contiene agravios resultantes del enlace lógico-jurídico entre los hechos motivo de la inconformidad y los fundamentos legales aplicables, se negará lo solicitado sin prevención alguna.
+Si el escrito mediante el cual se interpone el recurso, no contiene agravios resultantes del enlace lógico-jurídico entre los hechos motivo de la inconformidad y los fundamentos legales aplicables, se negará lo solicitado sin prevención alguna.
 
 ### CAPÍTULO III. DE LAS NOTIFICACIONES
 
@@ -101,7 +105,9 @@ IV. Los acuerdos o resoluciones que ordenan notificar a terceros.
 
 V. Los acuerdos o resoluciones que pongan fin al recurso de inconformidad o cumplimenten sentencias de los tribunales.
 
-Si el recurrente no señala domicilio dentro el Municipio de Ciudad Guadalupe, Nuevo León, las notificaciones se efectuarán por lista de acuerdos que se fijaran en la Contraloría Municipal.
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
+Si el recurrente no señala domicilio dentro del Municipio de Guadalupe, Nuevo León, las notificaciones se efectuaran en la tabla de avisos que para tal efecto deberá colocarse en el local que ocupe la Secretaría del Ayuntamiento.
 
 Se notificarán por correo certificado, con acuse de recibo, los acuerdos que resuelvan sobre la suspensión del procedimiento administrativo de ejecución.
 
@@ -151,9 +157,13 @@ Harán prueba plena: la confesión expresa del recurrente las presunciones legal
 
 Las demás pruebas quedarán a la prudente apreciación de la autoridad.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 15.
 
-Las pruebas deberán rendirse en un plazo de quince días desde que se abra el período probatorio. Dicho término podrá ser prorrogado por una sola vez, hasta por quince días, a juicio del Contralor Municipal.
+Las pruebas deberá (sic) rendirse en un plazo de quince días desde que se abra el período probatorio. Dicho término podrá ser prorrogado por (sic)
+
+(sic) una sola vez, hasta por quince días, a juicio del Secretario del Ayuntamiento.
 
 ### CAPÍTULO VI. DE LA RESOLUCIÓN DEL RECURSO
 
@@ -197,7 +207,9 @@ La suspensión del acto administrativo materia del recurso de inconformidad se d
 
 Procede decretar la suspensión cuando concurran los requisitos siguientes:
 
-I. Que lo solicite por escrito el recurrente ante la Contraloría Municipal.
+> <small>(REFORMADA, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
+I. Que lo solicite por escrito el recurrente ante el C. Secretario del Ayuntamiento.
 
 II. Que no se siga perjuicio al interés social, ni se contravengan disposiciones de orden público.
 
@@ -205,7 +217,7 @@ III. Que sean de difícil reparación los daños y perjuicios que se causen al r
 
 IV. Que garantice el recurrente el interés fiscal; así como los daños y perjuicios que pudieran pararse (sic) a terceros o a la comunidad.
 
-Se considera que se siguen perjuicios al interés social o se contravienen disposiciones de orden público en los caso (sic) previstos por el artículo 124 fracción II. de la Ley de Amparo.
+Se considera que se siguen perjuicios al interés social o se contravienen disposiciones de orden público en los caso (sic) previstos por el artículo 124 fracción II de la Ley de Amparo.
 
 ###### ARTÍCULO 21.
 
@@ -233,9 +245,11 @@ En el incidente de suspensión se concentrará todo el procedimiento en una sola
 
 En la audiencia incidental, se recibirá el informe de la autoridad; así como las pruebas de las partes y sus alegaciones.
 
+> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2000)</small>
+
 ###### ARTÍCULO 24.
 
-Las pruebas, en el incidente, seguirán las mismas reglas que en el recurso de inconformidad, salvo los términos del período probatorio; no obstante, cuando por la naturaleza de las pruebas se requiera suspender la audiencia, el Controlador Municipal, podrá realizarlo, pero nunca resultando en la demora del asunto principal del recurso.
+Las pruebas, en el incidente, seguirán las mismas reglas que en el recurso de inconformidad, salvo los términos del período probatorio, no obstante, cuando por la naturaleza de las pruebas se requiera suspender la audiencia, el Secretario del Ayuntamiento podrá realizarlo, pero nunca resultando en la demora del asunto principal del recurso.
 
 ###### ARTÍCULO 25.
 
@@ -264,3 +278,13 @@ ING. ROGELIO BENAVIDES CHAPA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 SR. HERIBERTO GARCÍA GÓMEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE NOVIEMBRE DE 2000.
+
+PRIMERO.- Estas modificaciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abrogan todas las disposiciones reglamentarias, circulares, acuerdos y normas que contravengan el contenido de las presentes modificaciones.
+
+TERCERO.- Envíese al C. Secretario General de Gobierno, para que por su conducto se publique en el Periódico Oficial del Estado.
