@@ -4,7 +4,7 @@ identifier: "HID-codigo-fiscal-municipal-del-estado-de-hidalgo-5427"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-31"
-last_updated: "1983-12-30"
+last_updated: "1985-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CODIGO FISCAL MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1985.
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1982.
 
@@ -569,9 +569,11 @@ La regla prevista en la fracción II del artículo anterior, sólo se aplicará 
 
 La cancelación de los créditos fiscales se sujetará a las normas generales que se dicten por conducto de cada Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 76.
 
-El pago de los créditos fiscales realizados fuera de los plazos señalados por las leyes fiscales del Municipio, siempre que dicho entero se efectúe en forma espontanea, sólo dará lugar al cobro de recargos, de acuerdo don la tasa que fija la Ley de Ingresos de los Municipios. El monto de los mismos se calcularán por cada mes o fracción que transcurra sin hacerse el pago, sin que en ningún caso pueda exceder del 100% del importe de los impuestos, o derechos de que se trate.
+El pago de los créditos fiscales realizados fuera de los plazos señalados por las leyes fiscales del Municipio, siempre que dicho entero se efectúe en forma espontánea, solo dará lugar al cobro de recargos, de acuerdo con la tasa que fije la Ley de Ingresos de los Municipios. El monto de los mismos se calcularán por cada mes o fracción que transcurra sin hacerse el pago, sin que en ningún caso pueda exceder del 250% del importe de los impuestos, o derechos de que se trate.
 
 ###### ARTICULO 77.
 
@@ -687,7 +689,9 @@ En estos casos el inspector deberá estar facultado expresamente y por escrito p
 
 VI.- Emplear cualquiera de los siguientes medios de apremio o juzguen eficaces, para hacer cumplir sus determinaciones:
 
-a).- La multa desde $ hasta $ 1,000.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+a).- La multa desde $ 1,000.00 hasta $ 50,000.00;
 
 b).- El auxilio de la fuerza pública.
 
@@ -843,31 +847,51 @@ XI.- Las autoridades fiscales municipales dejarán de imponer sanciones cuando s
 
 El Ayuntamiento y sus dependencias impondrán las sanciones administrativas a las infracciones cuya responsabilidad recae sobre los sujetos pasivos o presuntos sujetos a una prestación fiscal, en los términos siguientes:
 
-I.- No cumplir con las obligaciones que señalen las disposiciones fiscales de inscribirse o registrarse en el registro de contribuyentes de la Tesorería Municipal, o hacerlos fuera de los plazos legales; no incluir en las manifestaciones para su inscripción en el registro de causantes que corresponda, las actividades por las que sea contribuye habitual de $ 500.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+I.- No cumplir con las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse en el registro de contribuyentes de la Tesorería Municipal, o hacerlos fuera de los plazos legales, no incluir en las manifestaciones para su inscripción en el registro de causantes que corresponda, las actividades por las que se contribuye habitual de $ 1,000.00 a $50,000.00.
 
 II.- Obtener o usar más de un número de registro que corresponda, para el cumplimiento de las obligaciones a su cargo, en relación con los impuestos o contribuciones municipales, de $1,000.00 a $100,000.00;
 
-III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes, de $ 1,000.00 a $100,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-IV.- No obtener oportunamente los permisos, placas, tarjetas, boletas de registro o cualquier otro documento exigido para las disposiciones fiscales; no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen, o no citar su número de registro o cuenta, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridades, de $100.00 a $5,000.00;
+III.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes de $ 10,000.00 a $100,000.00.
 
-V.- Emprender cualquier explotación sin obtener previamente el permiso, o sin llenar los requisitos exigidos por los ordenamientos fiscales, de $500.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-VI.- Tener en los giros comerciales o industriales instalaciones diversas de las aprobadas por el Ayuntamiento cuando los reglamentos exijan tal aprobación o modificarlas sin el correspondiente aviso o permiso, cuando lo exijan los ordenamientos fiscales, o utilizar materia prima distinta de la que se haya manifestado en su caso, de $ 100.00 a $ 50,000.00;
+IV.- No obtener oportunamente los permisos, placas, tarjetas, boletas de registro o cualquier otro documento exigido para las disposiciones fiscales, no tenerlos en los lugares que señalen dichas disposiciones; no devolverlos oportunamente dentro del plazo que las mismas disposiciones establecen. O no citar su número de registro o cuenta, según el caso, en las declaraciones, manifestaciones, promociones, solicitudes o gestiones que hagan ante cualquier oficina o autoridades, de $1,000.00 a $10,000.00.
 
-VII.- No llevar los sistemas contables a que aluden las disposiciones fiscales; llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas; hacerlos incompletos o inexactos o fuera de los plazos respectivos, de $500.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+V.- Emprender cualquier explotación sin obtener previamente el permiso, o sin llenar los requisitos exigidos por los ordenamientos fiscales de $1,000.00 a $50,000.00;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VI.- Tener en los giros comerciales o industriales, instalaciones diversas de las aprobadas por el Ayuntamiento cuando los reglamentos exijan tal aprobación o modificarlas sin el correspondiente aviso o permiso cuando lo exijan los ordenamientos fiscales, o utilizar materia prima distinta de la que se haya manifestado en su caso de $ 1,000.00 a $ 50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VII.- No llevar los sistemas contables a que aluden las disposiciones fiscales: llevarlos en forma distinta a como éstas prescriben, no hacer los asientos correspondientes a las operaciones efectuadas: hacerlos incompletos o inexactos o fuera de los plazos respectivos de $1,000.00 a $50,000.00.
 
 VIII.- Llevar doble juego de libros de $1,000.00 a $100,000.00;
 
 IX.- Hacer, mandar hacer o permitir en su contabilidad anotaciones, asientos, cuentas, nombres, cantidades o datos falsos; alterar, raspar o tachar en perjuicio del fisco, cualquier anotación, asiento o constancia hecha en la contabilidad o mandar o consentir que se hagan esas alteraciones, raspaduras o tachaduras; de $1,000.00 a $100,000.00;
 
-X.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deban conservar, de $ 500.00 a $ 5,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XI.- No devolver oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas, de $100.00 a $1,000.00;
+X.- Destruir o inutilizar los libros cuando no haya transcurrido el plazo durante el cual conforme a la Ley los deban conservar, de $ 1,000.00 a $ 50,000.00.
 
-XII.- Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma, de $ 500.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XIII.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten, de $100.00 a $ 5,000.00;
+XI.- No devolver oportunamente a las autoridades los comprobantes de pago de las prestaciones fiscales cuando lo exijan las disposiciones relativas de $1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XII.- Faltar a la obligación de extender comprobantes, facturas o cualesquiera otros documentos que señalen las leyes fiscales. No exigirlos cuando tengan obligación de hacerlo, no consignar por escrito los actos, convenios o contratos que de acuerdo con las disposiciones fiscales deban constar en esa forma de $ 1,000.00 a $50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XIII.- No presentar o no proporcionar, o hacerlo extemporáneamente, los avisos, declaraciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales. No comprobarlos, o no aclararlos, cuando las autoridades fiscales lo soliciten de $1,000.00 a $ 50,000.00.
 
 XIV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, libros y documentos a que se refiere la fracción anterior, incompletos o con errores que traigan consigo la evasión de una prestación fiscal, de $1,000.00 a $100,000.00;
 
@@ -875,99 +899,175 @@ XV.- Presentar los avisos, declaraciones, solicitudes, datos, informes, copias, 
 
 XVI.- Declarar los ingresos menores a los percibidos, hacer deducciones falsas, ocultar u omitir bienes o existencias que deben figurar en los inventarios, o listarlos a precios inferiores que los reales; o practicar los inventarios y balances que prevengan las disposiciones fiscales o hacerlo fuera de los plazos que estas dispongan, de $1,000.00 a $100,000.00;
 
-XVII.- No pagar en forma total o parcial los impuestos, contribuciones, derechos, productos, dentro de los plazos señalados por las Leyes Fiscales, hasta dos tantos de la prestación fiscal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVII.- No pagar en forma total o parcial los impuestos, contribuciones, derechos, productos dentro de los plazos señalados por las Leyes Fiscales, hasta tres tantos de la prestación fiscal.
 
 XVIII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitudes, similaciones, falsificaciones y otras maniobras, de $1,000.00 a $100,000.00;
 
-XIX.- Ostentar en forma no idónea y diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal, de $100.00 a $ 5,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XX.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos, de $ 500.00 a $ 50,000.00;
+XIX.- Ostentar en forma no idónea y diversa de lo que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal de $1,000.00 a $ 10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XX.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso ilegal de ellos, de $ 1,000.00 a $ 50,000.00.
 
 XXI.- Resistirse por cualquier medio, a las visitas de inspección; no suministrar los datos e informes que legalmente pueden exigir los inspectores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado, en relación con el objeto de la visita, de $5,000.00 a $200,000.00;
 
-XXII.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, de $ 5,000.00 a $200,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XXIII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones precedentes, de $100.00 a $ 5,000.00.
+XXII.- No conservar los libros, documentos y correspondencia que le sean dejados en calidad de depositarios, por los visitadores al estarse practicando visitas domiciliarias, de $20,000.00 a $200,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XXIII.- Violar otras disposiciones fiscales en forma no prevista en las fracciones procedentes de $5,000.00 a $ 200,000.00.
 
 ###### ARTICULO 97.
 
 Son infracciones y sanciones cuya responsabilidad corresponde a los funcionarios y empleados públicos de los Municipios, así como a los encargados de Servicios Públicos y órganos oficiales las siguientes:
 
-I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales, y en general, no cuidar el cumplimiento de las mismas, de $100.00 a $5,000.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo;
+I.- Dar entrada o curso a documentos que carezcan en todo o en parte de los requisitos exigidos por las disposiciones fiscales y en general, no cuidar el cumplimiento de las mismas, de $1,000.00 a $50,000.00.
 
-II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó el gravamen, de $500.00 a $50,000.00;
+Esta responsabilidad será exigible aún cuando los funcionarios o empleados no hayan intervenido directamente en el trámite o resolución respectiva, si les correspondía hacerlo por razón de su cargo.
 
-III.- Recibir el pago de una prestación fiscal y no enterar su importe en el plazo legal, $500.00 a $500,000.00 más accesorios legales;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+II.- Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos sin que exista constancia de que se pagó el gravamen de $1,000.00 a $50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+III.- Recibir el pago de una prestación fiscal y no enterar su importe en el plazo legal $1,000.00 a $50,000.00 más accesorios legales;
 
 IV.- No exigir el pago de las prestaciones fiscales, recaudar, permitir u ordenar que se recaude alguna prestación fiscal, sin cumplir con la forma establecida por las disposiciones aplicables y en perjuicio del control e interés fiscal de $50,000.00 a $500,000.00;
 
-V.- No presentar ni proporcionar, o hacer extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos; no presentar auxilio a las autoridades Fiscales para la determinación y cobro de las prestaciones tributarias, de $ 200.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados, de $ 200.00 a $ 10,000.00;
+V.- No presentar ni proporcionar, o hacer extemporáneamente los informes, avisos, datos o documentos que exijan las disposiciones fiscales, o presentarlos incompletos o inexactos: no prestar auxilio a las autoridades fiscales para la determinación y cobro de las prestaciones tributarias, de $ 1,000.00 a $10,000.00.
 
-VII.- Alterar los documentos fiscales que tengan en su poder, de $ 500.00 a $50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones o que se practicaron visitas de inspección o incurrir en las actas relativas datos falsos, de $ 200.00 a $10,000.00;
+VI.- Presentar los informes, avisos, datos o documentos a que se refiere la fracción anterior, alterados o falsificados de $ 1,000.00 a $ 50,000.00.
 
-IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlo, de $ 100.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-X.- Intervenir en la tramitación o devolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales, de $ 100.00 a $10,000.00;
+VII.- Alterar los documentos fiscales que tengan en su poder, de $ 1,000.00 a $ 50,000.00.
 
-XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan; revelar los datos declarados por los causantes o aprovecharse de ellos. Para los efectos de esta infracción los representantes de los causantes que intervengan en las juntas que califiquen, tabulen, o aprueben en su caso determinaciones para efectos fiscales, o los organismos fiscales autónomos, se asimilan a los empleados o funcionarios públicos, de $ 50,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, cooperar en cualquiera forma para que se eludan las prestaciones fiscales, de $ 500.00 a $500,000.00;
+VIII.- Asentar falsamente que se ha dado cumplimiento a las disposiciones o que se practicaron visitas de inspección o incurrir en las relativas datos falsos, de $ 1,000.00 a $50,000.00.
 
-XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, de $1,000.00 a $ 25,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XIV.- Resistirse por cualquier medio a las visitas de inspección; no suministrar datos o informes que legalmente puedan exigir los inspectores; no mostrar los libros, documentos, registros, bodegas, locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de las visitas, de $ 200.00 a $10,000.00;
+IX.- No practicar las visitas de inspección cuando tengan obligación de hacerlo de $ 1,000.00 a $50,000.00.
 
-XV.- Exigir bajo el titulo de cooperación o colaboración u otros semejantes, cualquier prestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su cargo, de $ 200.00 a $ 10,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XVI.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes, de $ 100.00 a $ 5,000.00.
+X.- Intervenir en la tramitación o resolución de algún asunto cuando tengan impedimento de acuerdo con las disposiciones fiscales de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XI.- Faltar a la obligación de guardar secreto respecto de los asuntos que conozcan, revelar los datos declarados por los causantes o aprovecharse de ellos. Para los efectos de esta infracción, los representantes de los causantes que intervengan en las juntas que califiquen, tabulen, o aprueben en su caso determinaciones para efectos fiscales, o los organismos fiscales autónomos se asimilan a los empleados o funcionarios públicos de $1,000.00 a $50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XII.- Facilitar o permitir la alteración de las declaraciones, avisos o cualquier otro documento, cooperar en cualquier forma para que se eludan las prestaciones fiscales de $1,000.00 a $50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XIII.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales o hacer uso indebido de ellos, de $1,000.00 a $ 50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XIV.- Resistirse por cualquier medio a las visitas de inspección; no suministrar datos o informes que legalmente puedan exigir los inspectores; no mostrar los libros, documentos, registros, bodegas, locales y en general negarse a proporcionar los elementos que se requieran en relación con el objeto de las visitas, de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XV.- Exigir bajo el titulo de cooperación u otros semejantes cualquier prestación que no esté expresamente prevista en la Ley, aún cuando se aplique a la realización de las funciones propias de su cargo, de $ 1,000.00 a $ 50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVI.- Infringir disposiciones fiscales en forma distinta de las previstas en las fracciones precedentes de $ 1,000.00 a $ 10,000.00.
 
 ###### ARTICULO 98.
 
 Son infracciones cuya responsabilidad recae sobre terceros:
 
-I.- No inscribirse en el registro, padrón o registro de causantes que corresponda, o consentir o tolerar que se inscriban a su nombre en dichos padrones o registros, negociaciones ajenas a percibir a nombre propio ingresos gravables que corresponda a otra persona, cuando esto último traiga como consecuencia omisión de impuestos o contribuciones, de $ 100.00 a $100,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-II.- No proporcionar avisos, informes, datos o documentos, o exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten, de $ 100.00 a $ 5,000.00
+I.- No inscribirse en el registro, padrón o registro de causantes que corresponda, o consentir o tolerar que se inscriba a su nombre en dichos padrones o registros, negociaciones ajenas a percibir a nombre propio ingresos gravables que correspondan a otra persona, cuando esto último traiga como consecuencia omisión de impuestos o contribuciones, de $ 1,000.00 a $100,000.00.
 
-III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, de $ 100.00 a $ 5,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-IV.- Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados, de $ 100.00 a $10,000.00;
+II.- No proporcionar avisos, informes, datos o documentos, o exhibirlos en el plazo fijado por las disposiciones fiscales, o cuando las autoridades lo exijan con apoyo en sus facultades legales. No aclararlos cuando las mismas autoridades lo soliciten de $ 1,000.00 a $10,000.00.
 
-V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, peritos o testigos, de $ 500.00 a $ 500,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-VI.- Asesorar o aconsejar a los causantes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan de $ 200.00 a $ 10,000.00;
+III.- Presentar los avisos, informes, datos y documentos de que se habla en la fracción anterior, incompletos o inexactos, de $ 1,000.00 a $ 10,000.00.
 
-VII.- Ser cómplices en cualquier forma no prevista, en la comisión de infracciones fiscales, hasta dos tantos de la prestación fiscal;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-VIII.- No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales, retenidas o que debieron retener o recaudar, de $500.00 a $50,000.00;
+IV.- Proporcionar los avisos, informes, datos y documentos a que se refieren las fracciones anteriores, alterados o falsificados de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+V.- Autorizar o hacer constar documentos, inventarios, balances, asientos o datos falsos, cuando actúen como contadores, peritos o testigos, de $ 1,000.00 a $ 50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VI.- Asesorar o aconsejar a los causantes para evadir el pago de una prestación fiscal o para infringir las disposiciones fiscales; contribuir a la alteración, inscripción de cuentas, asientos o datos falsos en los libros de contabilidad o en los documentos que se expidan de $1,000.00 a $ 50,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VII.- Ser cómplices en cualquier forma no prevista, en la comisión de infracciones fiscales, hasta tres tantos de la prestación fiscal.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+VIII.- No enterar total o parcialmente, dentro de los plazos que establezcan las disposiciones fiscales, el importe de las prestaciones fiscales, retenidas o que debieron retener o recaudar, de $1,000.00 a $50,000.00.
 
 IX.- Presentar los documentos relativos al pago de las prestaciones retenidas, alterados, falsificados, incompletos y con errores que traigan consigo la evasión parcial o total de las mismas prestaciones, de $1,000.00 a $100,000.00;
 
-X.- Adquirir, ocultar, retener o enajenar, productos, mercancías o artículos a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos se hubiera debido pagar de $ 100.00 a $5,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XI.- No cerciorarse, ni transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales impongan esa obligación, o hacer el transporte sin los requisitos establecidos por ello, de $ 100.00 a $ 5,000.00;
+X.- Adquirir ocultar, retener o enajenar, productos, mercancías, o artículos a sabiendas de que no se cubrieron los gravámenes que en relación con aquellos se hubiera debido pagar de $ 1,000.00 a $10,000.00.
 
-XII.- Hacer pagos y aceptar documentos que los comprueben cuando derivándose de hechos que generen el gravamen no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones, de $ 200.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XIII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo con las disposiciones fiscales, de $ 100.00 a $ 10,000.00;
+XI.- No cerciorarse al transportar artículos gravados, del pago de los impuestos que se hayan causado, cuando las disposiciones fiscales, impongan esa obligación, o hacer el transporte sin los requisitos establecidos por ello, de $ 1,000.00 a $ 10,000.00.
 
-XIV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, de $ 100.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XV.- No poner en conocimiento a las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XII de este artículo, de $ 200.00 a $10,000.00;
+XII.- Hacer pagos y aceptar documentos que los comprueban cuando derivándose de hechos que generen el gravamen no se haya cumplido con el pago de la prestación fiscal, o no se acredite su regular cumplimiento de acuerdo con las disposiciones de $ 1,000.00 a $10,000.00.
 
-XVI.- Alterar o destruir los cordones, o sellos oficiales, de $ 100.00 a $10,000.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XVII.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o de los causantes con quienes haya efectuado operaciones, en relación con el objeto de la visita, de $ 100.00 a $ 10,000.00;
+XIII.- No prestar a las autoridades fiscales el auxilio necesario para la determinación y cobro de una prestación fiscal, en los casos en que tengan obligación de hacerlo, de acuerdo a las disposiciones fiscales de $ 1,000.00 a $ 50,000.00.
 
-XVIII.- No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias, de $ 100.00 a $10,000.00; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
 
-XIX.- Infringir disposiciones fiscales en forma de las previstas en las fracciones procedentes, de $100.00 a $10,000.00.
+XIV.- Traficar con los documentos o comprobantes de pago de prestaciones fiscales, o hacer uso indebido de ellos, de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XV.- No poner en conocimiento a las autoridades fiscales, cuando se posean documentos de los mencionados en la fracción XII de este artículo, de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVI.- Alterar o destruir los cordones o sellos oficiales, de $ 1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVII.- Resistirse por cualquier medio a las visitas domiciliarias, no suministrar los datos o informes que legalmente puedan exigir los visitadores, no mostrar los libros, documentos, registros, bodegas, depósitos, locales o cajas de valores y en general, negarse a proporcionar los elementos que se requieran para comprobar la situación fiscal del visitado o de los causantes con quienes hayan efectuado operaciones, en relación con el objeto de la visita de $ 1,000.00 a $ 100,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XVIII.- No conservar los libros, documentos y correspondencia que les sean dejados en calidad de depositarios, por los visitadores, al estarse practicando visitas domiciliarias de $1,000.00 a $10,000.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1985)</small>
+
+XIX.- Infringir disposiciones fiscales en forma de las previstas en las fracciones procedentes, de $1,000.00 a $100,000.00.
 
 ### CAPITULO II. DE LOS DELITOS FISCALES
 
@@ -1211,9 +1311,27 @@ II.- Transcurrido el término que señala la fracción anterior, se ordenará re
 
 III.- Si la exigibilidad se origina por situaciones previstas en el artículo 50, se ordenará requerir al deudor para que efectúe el pago dentro de los cinco días hábiles siguientes a la fecha en que se surta efectos dicho requerimiento apercibido que de no hacerlo se le embargarán bienes de su propiedad suficientes para hacer efectivo el crédito fiscal y sus accesorios.
 
+> <small>(ADICIONADO P.O. 30 DE DICIEMBRE DE 1985)</small>
+
 ###### ARTICULO 128.
 
-(DEROGADO, P.O. 30 DE DICIEMBRE DE 1983)
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2 % del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
+
+I.- Por el requerimiento señalado en el primer párrafo del artículo 131 Bis de este Código;
+
+II.- Por la de embargo.
+
+III.- Por la de remate, enajenación fuera de remate o adjudicación al fisco federal.
+
+Cuando en los casos de las fracciones anteriores, el 2 % del crédito sea inferior a una vez el salario mínimo general diario de la zona económica correspondiente al de Pachuca, Hgo., se cobrará esta cantidad en vez del 2 % del crédito.
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias, podrán exceder de la cantidad equivalente a un salario mínimo general de la zona económica correspondiente a Pachuca, Hgo., elevado al año.
+
+Asimismo, se pagarán por concepto de gastos de ejecución las erogaciones extraordinarias en que se incurra con motivo del procedimiento administrativo de ejecución, las que únicamente comprenderán los gastos de transporte de los bienes embargados, de avalúo, de impresión y publicación de convocatorias y edictos, de inscripción o cancelación de gravámenes en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, así como los honorarios de las personas que contraten los interventores.
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de oposición al procedimiento administrativo de ejecución.
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán a las autoridades fiscales municipales, para el establecimiento de fondos de productividad y para financiar los programas de formación de funcionarios fiscales, salvo que por la ley estén destinados a otros fines.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2386,3 +2504,21 @@ Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del G
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+P.O. 30 DE DICIEMBRE DE 1985.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1º. de enero de 1986.
+
+###### ARTICULO SEGUNDO.
+
+Deberá ordenarse la publicación de este Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a la presente ley.
+
+###### ARTICULO CUARTO.
+
+Cuando se de una denominación nueva o distinta a alguna unidad administrativa establecida con posterioridad a la vigencia de esta Ley, dicha unidad ejercerá la competencia que determine la presente.
