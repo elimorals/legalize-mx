@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fiscalizacion-superior-del-estado-de-tamaulipas-23210"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2003-12-10"
+last_updated: "2004-04-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre del 2001.
 
@@ -349,11 +349,23 @@ Para la revisión de la cuenta pública de los ayuntamientos, la Auditoría vigi
 
 Para los efectos de esta ley, la Cuenta Pública estará constituida por los estados financieros contables, patrimoniales, presupuestales, programáticos y de otro orden del Estado o municipios, de acuerdo a sus ingresos y egresos.
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
+
 ###### ARTICULO 25.
 
-Las Cuentas Públicas trimestrales de los Poderes Ejecutivo, Legislativo y Judicial, así como de sus entidades paraestatales y del gobierno municipal, se remitirán al Congreso del Estado a más tardar en la segunda quincena del mes siguiente al término del trimestre que corresponda y se turnarán por la Comisión al Auditor Superior del Estado, para su revisión correspondiente.
+Las cuentas públicas de los poderes Estado se presentarán trimestralmente durante la segunda quincena del mes siguiente a la terminación de cada trimestre.}
 
-La Cuenta Pública se presentará por períodos trimestrales, mismos que comprenderán del primero de enero al último de marzo, del primero de abril al día último de junio, del primero de julio al último de septiembre y del primero de octubre al último de diciembre.
+Las cuentas públicas del Instituto Estatal Electoral, de la Comisión de Derechos Humanos del Estado y de todo ente público autónomo también se presentarán trimestralmente, durante la segunda quincena del mes siguiente a la terminación del trimestre.
+
+Las cuentas públicas de las entidades de la administración pública estatal se presentarán trimestralmente durante la segunda quincena del mes siguiente al término del trimestre que correspondan, sin demérito de la remisión de los estados financieros a que se refiere el artículo 26 de esta ley.
+
+Las cuentas públicas de los Ayuntamientos y de los organismos públicos municipales se presentarán cada tres meses, cada seis meses o anualmente, conforme a la determinación que adopte el Cabildo. Una vez determinada la opción de la periodicidad por parte del Ayuntamiento, no será factible modificar el calendario para su presentación, salvo que ocurran causas excepcionales que así lo ameriten a juicio del Congreso del Estado.
+
+Los periodos trimestrales para la rendición de las cuentas públicas comprenden del 1º de enero al 31 de marzo, del 1º de abril al 30 de junio, del 1º de julio al 30 de septiembre y del 1º de octubre al 31 de diciembre de cada año.
+
+Los Ayuntamientos que presenten trimestralmente sus cuentas públicas, deberán remitirlas al Congreso dentro de los últimos quince días del mes siguiente al trimestre que corresponda; los que la presenten en forma semestral la remitirán durante los primeros quince días del segundo mes siguiente al semestre que corresponda y los que la presenten anualmente la remitirán dentro de los primeros tres meses siguientes al término del ejercicio fiscal.
+
+Todas las cuentas públicas se remitirán al Congreso del Estado. Este las turnará a la Auditoría Superior del Estado, sea por conducto de la Comisión de Hacienda y Crédito Público cuando el Congreso esté en sesiones ordinarias o por medio de la Diputación Permanente cuando se encuentre en receso.
 
 ###### ARTICULO 26.
 
@@ -571,9 +583,9 @@ A partir del inicio de vigencia de esta ley, se abroga la Ley Orgánica de la Co
 
 Los Poderes del Estado y los organismos y empresas del sector paraestatal deberán presentar sus cuentas trimestralmente, para los efectos previstos en esta ley, a partir del ejercicio fiscal del 2002.
 
-> <small>(REFORMADO, P.O. 10 DE DIECIEMBRE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2004)</small>
 
-Para los efectos previstos en esta ley, los Ayuntamientos del Estado y los organismos públicos municipales presentarán sus cuentas públicas en forma trimestral, a partir del ejecicio fiscal del 2005.
+Al inicio de cada administración municipal, el Ayuntamiento determinará el periodo en el cual habrá de presentarse la Cuenta Pública, comunicándoselo oportunamente al Congreso del Estado. Los Ayuntamientos que opten por cualquiera de los tres periodos que prevé este ordenamiento para la presentación de la Cuenta Pública se ceñirán a esa determinación, a menos que exista una causa excepcional que a juicio del Congreso autorice su modificación.
 
 ###### ARTICULO CUARTO.
 
@@ -622,3 +634,13 @@ UNICO.- El presente Decreto entrará en vigor el 1° de Enero de 2003.
 P.O. 10 DE DICIEMBRE DE 2003.
 
 UNICO.- El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1° de Enero de 2004.
+
+P.O. 22 DE ABRIL DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- La Mesa Directiva del Congreso del Estado comunicará a los Ayuntamientos la aprobación del presente Decreto por los medios que estime idóneos, en la fecha en que el mismo entre en vigor.
+
+Artículo Tercero.- Con relación al ejercicio fiscal del año 2004, los Ayuntamientos que opten por la presentación trimestral de sus cuentas públicas, tendrán como plazo para presentarlas al Congreso hasta el 31 de mayo por lo que hace al primer trimestre, y hasta el 15 de agosto por lo que hace al segundo trimestre; el tercer trimestre deberá presentarse, a más tardar el 31 de octubre.
+
+Los Ayuntamientos que opten por la presentación semestral de la Cuenta Pública se ceñirán para su remisión al Congreso a lo dispuesto por el artículo 25 de la Ley de Fiscalización Superior del Estado.
