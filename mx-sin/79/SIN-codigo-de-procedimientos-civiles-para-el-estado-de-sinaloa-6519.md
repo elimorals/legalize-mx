@@ -4,7 +4,7 @@ identifier: "SIN-codigo-de-procedimientos-civiles-para-el-estado-de-sinaloa-6519
 country: "mx"
 rank: "codigo"
 publication_date: "1940-10-22"
-last_updated: "1984-06-29"
+last_updated: "1985-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE JUNIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE FEBRERO DE 1985.
 
 Código publicado en el Suplemento del Periódico Oficial "El Estado de Sinaloa", el martes 22 de octubre de 1940.
 
@@ -691,27 +691,33 @@ Si no cumplen con la última prevención, no se hará notificación alguna a la 
 
 La primera notificación se hará personalmente al interesado o interesados, en su caso a sus representantes o procuradores, por el Secretario o actuario del Juzgado que lo ordene, en su casa habitación o en el lugar donde el destinatario desempeñe su trabajo y finalmente donde se encuentre al interesado, si no obstante no se encontrare a éste, y cerciorado el notificador, bajo su responsabilidad, que la casa señalada como domicilio del destinatario es realmente su habilitación (sic), le dejará instructivo en el que hará constar: el nombre y apellido del promovente, el Juez o Tribunal que manda practicar la diligencia, la determinación que se manda notificar, la fecha y hora en que se deja y el nombre y apellido de la persona a quien se entrega, recogiéndole su firma en la razón que se levantará del acto que se agregará a las diligencias. La notificación de que se trata, en el caso de Personas Jurídicas, se entenderá con sus Gerentes.
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1981)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 114.
 
-Si se tratare de notificación de la demanda y a la primera búsqueda no se encontrare al destinatario, se le dejará citatorio con las personas a las que luego se refiere este Artículo, para hora hábil del día siguiente, y si no espera, se le hará la notificación por cédula.
+Si se tratare de notificación de la demanda y a la primera búsqueda no se encontrare al destinatario, se le dejará citatorio con las personas a las que se refiere el párrafo cuarto de este artículo, para hora hábil del día siguiente.
 
-La cédula, en los casos de este artículo y del anterior, se entregará a los parientes, empleados o domésticos del interesado, o a cualquier otra persona que viva en el domicilio señalado, después que el notificador se haya cerciorado de que ahí tiene su domicilio la persona que se busca y exponiendo siempre, el propio notificador, los medios por los cuales se enteró de dicha circunstancia.
+Previamente a dejar citatorio o practicar el emplazamiento, el notificador, bajo su estricta responsabilidad y en forma fehaciente, mediante el dicho de quien se encuentra en el domicilio o en su defecto de los vecinos inmediatos, deberá de cerciorarse de que el lugar donde se actúa es el domicilio de la persona que se busca, debiendo de exponerse en el acta los medios por los cuales se enteró de esa circunstancia.
 
-La cédula, que contendrá los requisitos del instructivo a que se refiere el artículo anterior, se entregará a la persona con quien se entienda la diligencia, así como copia simple de la demanda debidamente cotejada y sellada y, en su caso, copia simple de los demás documentos que el actor haya exhibido con la demanda, agregándose a los autos una copia del citatorio y de la cédula.
+Si en el domicilio señalado no se encontrare persona alguna o se negare a recibir el citatorio, éste se fijará en la puerta del domicilio, una copia se le entregará al vecino más inmediato para que la haga llegar al interesado y otra se agregará al expediente.
 
-Si en la casa designada para la notificación, se negasen a recibir la cédula o no se encontrase persona que la reciba, el notificador la fijará a los estrados del Juzgado y en la puerta de la casa, y además deberá enviar al destinatario de la demanda, copia de la cédula por pieza postal certificada con acuse de recibo que agregará al expediente y otro ejemplar de la misma la depositará en la Secretaría del H. Ayuntamiento donde deba ejecutarse la notificación.
+No obstante el citatorio el interesado no espera, se le hará la notificación por instructivo la que se entregará en el caso de que este artículo y del anterior, a los parientes, empleados o cualquier otra persona que ahí habite que sea mayor de catorce años, según su propio dicho, o a juicio del notificador.
 
-La notificación de la demanda a las personas morales, se hará por conducto de su legítimo representante.
+El instructivo, que contendrá los requisitos prevenidos en el artículo anterior, se entregará a la persona con quien se entienda la diligencia, junto con una copia simple de la demanda debidamente cotejada y sellada, y en su caso, copia simple de los demás documentos que el actor haya exhibido con la demanda y una copia del mismo se agregará al expediente.
 
-Las notificaciones personales subsiguientes se harán conforme a lo dispuesto en el artículo anterior.
+Si en el domicilio designado para el emplazamiento se negasen recibir el instructivo, no se encontrase ninguna de las personas señaladas o el mismo se encontrase cerrado, la diligencia se entenderá con el vecino más inmediato, y a partir de este momento se tiene por hecho el emplazamiento.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1944)</small>
+En este caso y en el del párrafo siguiente, será obligación del notificador fijar copia del instructivo en la puerta del domicilio, en los estrados del Juzgado y en la Secretaría del Ayuntamiento del Municipio donde se practique la notificación y por último se le enviará a dicho domicilio copia del instructivo por pieza postal certificada con acuse de recibo, debiéndose de agregar al expediente el comprobante de envío de la pieza postal, a más tardar el día siguiente de practicada la diligencia.
+
+Si no hubiere vecinos o éstos se negaren a recibir el instructivo y las copias del traslado, dichos documentos quedarán a disposición del interesado en la Secretaría del Juzgado que practicó la diligencia y el emplazamiento comenzará a surtir efectos después de cinco días de la fecha de envío del instructivo por correo, salvo que dentro de dicho término el demandado comparezca al local del Juzgado a recibir la notificación, en cuyo caso, el emplazamiento surtirá sus efectos el día de su realización.
+
+La notificación de la demanda a las personas morales, se hará por conducto de su legítimo representante; si los representantes fueren varios, el emplazamiento será válido cuando se haga a cualquiera de ellos y si la representación corresponde a una junta o cuerpo colegiado, bastará que se haga a uno de ellos. Si no se encontrare, se procederá en los términos expuestos en este artículo.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 1985)</small>
 
 ###### Artículo 115.
 
-Si las partes o procuradores no concurren al tribunal o juzgado como se previene en el Artículo anterior, la notificación se dará por hecha y surtirá todos sus efectos al día siguiente de dictada la resolución, siempre que se haya publicado el acuerdo respectivo en la puerta del tribunal o en su tabla de avisos y en la propia fecha del acuerdo. Si no se hubiere hecho la publicación en la misma fecha del acuerdo, la notificación surtirá sus efectos y empezarán a contarse los términos desde el día siguiente al en que la publicación se hiciere.
+Las notificaciones distintas a las personales se harán por lista de acuerdos, en los términos del Artículo 116 y surten sus efectos al día siguiente de su publicación.
 
 ###### Artículo 116.
 
@@ -726,6 +732,14 @@ Si se probare que no se hizo la notificación personalmente, compareciendo la pa
 ###### Artículo 118.
 
 Se notificarán personalmente los emplazamientos para contestar demanda, la citación para absolver posiciones, reconocer firmas, documentos, libros o papeles, las sentencias definitivas e interlocutorias con fuerza de tales, el acuerdo que mande hacer saber el envío de los autos a otro Tribunal, el auto que manda abrir el juicio de prueba, así como cuando en el juicio se ha dejado de actuar por más de dos meses por cualquier motivo y en los demás casos que la Ley lo disponga.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1985)</small>
+
+Salvo el emplazamiento para contestar demanda, las notificaciones a que se refiere este Artículo se harán conforme a lo dispuesto en el Artículo 113 en el domicilio señalado para ese efecto, y no encontrándose el interesado o su autorizado, la misma se hará por instructivo que se entregará a las personas a que se refiere el cuarto párrafo del Artículo 114, sin que sea necesario dejar citatorio previo. La notificación hecha al autorizado, surte los mismos efectos que si fuere practicada al interesado.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 1985)</small>
+
+Si la casa, despacho o domicilio señalado para oír notificaciones por las partes no existe, está desocupado o permanece cerrado después de dos búsquedas en horas de despacho, se hará constar dicha circunstancia y las notificaciones personales surtirán efectos por medio de instructivo fijado en las puertas del Juzgado.
 
 > <small>(REFORMADO, P.O. 3 DE MARZO DE 1956)</small>
 
@@ -6359,7 +6373,7 @@ III. Llegado el caso, el ejecutor, asociado de la parte que obtuvo y sirviendo d
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia en estos juicios, ocurrirá al Juez presentando sus pruebas, y éste con audiencia inmediata de las partes resolverá si subsiste o no el secuestro o el acto de ejecución practicado, sin decidir sobre la propiedad de la cosa ni sobre los hechos controvertidos.
 
-> <small>(DEROGADO, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)</small>
+DEROGADO, CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 29 DE JUNIO DE 1984)
 
 ## TITULO XVII.
 
@@ -6676,3 +6690,9 @@ El presente Decreto entrará en vigor, a partir de su publicación en el Periód
 P.O. 29 DE JUNIO DE 1984.
 
 Artículo Unico.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE FEBRERO DE 1985.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial "El Estado de Sinaloa".
