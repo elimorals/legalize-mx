@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1945-01-31"
+last_updated: "1950-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1934-08-20"
 ---
 # CODIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA DEROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DEL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS; ORDENAMIENTO QUE COMENZARÁ A REGIR A LOS TREINTA DÍAS DE SU PUBLICACIÓN EN EL DIARIO OFICIAL DE LA FEDERACIÓN.]</small>
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE ENERO DE 1945.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 1950. (DEROGADO)
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -3364,3 +3364,19 @@ D.O. 31 DE ENERO DE 1945.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 506 DEL CÓDIGO SANITARIO”.]
 
 ARTICULO TRANSITORIO.- El presente Decreto comenzará a regir al día siguiente de su publicación en el “Diario Oficial".
+
+D.O. 25 DE ENERO DE 1950.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+###### ARTICULO 1°.
+
+Este Código comenzará a regir a los treinta días de su publicación en el "Diario Dficial (sic)" de la Federación.
+
+###### ARTICULO 2°.
+
+Se deroga el Código Sanitario del 20 de agosto de 1934, y todas las leyes y reglamentos que se opongan a las disposiciones del presente Código.
+
+###### ARTICULO 3°.
+
+En tanto no se expidan los reglamentos de que trata este Código, continuarán en vigor los reglamentos y demás disposiciones actuales, en cuanto no se opongan a las de este mismo Código.
