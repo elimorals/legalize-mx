@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2002-12-31"
+last_updated: "2003-06-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2003.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -121,9 +121,11 @@ ARTÍCULO 13º En la Ley de Ingresos Municipal se establecerá anualmente los in
 
 ### Capítulo Segundo. De las Autoridades Fiscales Municipales
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 14º.
 
-El Presidente Municipal, el Ayuntamiento, el Sindico y el Tesorero Municipal son representantes de la Hacienda Pública del Municipio, y son las autoridades competentes para interpretar las leyes hacendarías y sus reglamentos municipales, así como proveer en la esfera de su exacta observancia.
+El Presidente Municipal, el Ayuntamiento, el Síndico y el Tesorero Municipal, son representantes de la Hacienda Pública del Municipio y, son las autoridades competentes para interpretar y aplicar las Leyes Hacendarías y sus Reglamentos Municipales, así como proveer en la esfera de su exacta observancia.
 
 ###### ARTÍCULO 15º.
 
@@ -169,9 +171,11 @@ VI. Impuesto adicional.
 
 #### Sección Primera. Objeto del Impuesto
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 20º.
 
-Es objeto del Impuesto Predial:
+Es objeto del Impuesto Predial, en su caso:
 
 I. La propiedad de predios urbanos y rústicos, y las construcciones permanentes existentes en ellos.
 
@@ -185,13 +189,13 @@ c). Cuando exista desmembración de la propiedad, de manera que una persona teng
 
 d). Cuando la ejerzan particulares sobre inmuebles propiedad de la Federación, Estado o Municipio u organismos descentralizados y sujetos a exención.
 
-e). Cuando los titulares sean la Federación, Estado o Municipios y se encuentren en explotación por personas distintas de los titulares.
+e). Cuando los titulares sean la Federación, Estado o Municipios y se encuentren en explotación bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
-I. (sic) El usufructo, el uso y el disfrute de los predios urbanos y rústicos, y las construcciones permanentes existentes en ellos.
+III. El usufructo, el uso y el disfrute de los predios urbanos y rústicos, y las construcciones permanentes existentes en ellos.
 
-II. La propiedad ejidal, salvo los casos establecidos en la Ley Agraria.
+IV. La propiedad ejidal, salvo los casos establecidos en la Ley Agraria.
 
-III. La propiedad de plantas de beneficio y establecimientos metalúrgicos.
+V. La propiedad de plantas de beneficio y establecimientos metalúrgicos.
 
 ###### ARTÍCULO 21º.
 
@@ -273,9 +277,11 @@ b). 19.5 al millar anual si no están explotados por su dueño.
 
 En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 27º.
 
-El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria, sin que su monto pueda excederse del 5% de su producción anual.
+El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria y de la presente Ley.
 
 ###### ARTÍCULO 28º.
 
@@ -511,7 +517,9 @@ I. Si puede determinarse previamente el monto del impuesto por adelantado, a mas
 
 II. Si no puede determinarse previamente el monto del impuesto, el representante de la autoridad –hacia la finalización del evento- formulará por triplicado la liquidación del impuesto para que sea pagado de inmediato al interventor; de no ser esto posible, el pago deberá realzarse el día hábil inmediato posterior. Un ejemplar de la liquidación se entregara al empresario y los otros dos a la Tesorería Municipal.
 
-III. El boletaje que el empresario distribuya en forma de obsequio o cortesía, se contabilizará igualmente para efectos de esta contribución.
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
+
+III. El boletaje que el empresario distribuya en forma de obsequio o cortesía, se contabilizará igualmente para efectos de esta contribución, cuando exceda del 10% del total de boletos emitidos.
 
 ###### ARTÍCULO 47º.
 
@@ -521,7 +529,9 @@ I. Obtener la licencia respectiva antes de anunciar una función o serie de esta
 
 II. Anotar en la solicitud de licencia la naturaleza del espectáculo, fecha, hora y lugar en que haya de efectuarse su periodicidad, la clasificación y cantidad de asientos, el máximo de espectadores que deba contener el local y acompañar tres ejemplares del programa respectivo, así como la totalidad de los boletos emitidos para el evento, debidamente foliados para su aprobación y sellado por parte de la Tesorería General Municipal.
 
-III. No permitir a persona alguna la entrada sin el correspondiente boleto, salvo a las Autoridades a que se refiere la Fracción anterior, miembros de la policía encargada de mantener el orden y empleados del establecimiento.
+> <small>(REFORMADA B.O. 30 DE JUNIO DE 2003)</small>
+
+III. No permitir a persona alguna la entrada sin el correspondiente boleto, salvo a las Autoridades a que se refiere la Fracción anterior, miembros de la policía encargada de mantener el orden y empleados del establecimiento, así como miembros de cuerpos médicos de emergencia y, en general, de protección civil.
 
 IV. Presentar a la autoridad local o a su representante, al terminar cada función, los boletos inutilizados a efecto de que se practique la liquidación del impuesto.
 
@@ -533,9 +543,15 @@ VII. No variar los precios fijados en los programas sin dar aviso a la Tesorerí
 
 VIII. Permitir que la autoridad o su representante vigile el cumplimiento de los preceptos de esta ley y demás disposiciones en vigor.
 
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+En caso de que, solicitada la autorización correspondiente y cumplidos los requisitos legales, la autoridad municipal no expida la mencionada autorización en un plazo máximo de cinco días hábiles, se considerará que dicha solicitud fue aprobada, quedando obligada la autoridad competente a sellar los boletos que exhiba el contribuyente para la realización del evento.
+
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 48º.
 
-Se faculta al Presidente Municipal para condonar proporcionalmente estos impuestos cuando se trate de los espectáculos cuyos productos se destinen en todo o en parte a alguna beneficencia u obra pública del Municipio.
+Se faculta al Presidente Municipal en términos de la Constitución Política de los Estados Unidos Mexicanos, para condonar o eximir total o parcialmente el pago de impuestos y sus accesorios, autorizar su pago a plazos, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar del municipio, una rama de actividad, la producción o venta de productos o la realización de una actividad, así como en casos de catástrofes sufridas por fenómenos metereológicos, plagas o epidemias.
 
 ###### ARTÍCULO 49º.
 
@@ -621,7 +637,7 @@ a). Zona pavimentada, asfaltada, adoquinada o empedrada.
 
 lineal o fracción: mínimo
 
-2.- Solares sin edificar, por metro cuadrado: 0.5% del salario
+2.- Solares sin edificar, por metro cuadrado: 0 .5% del salario
 
 mínimo.
 
@@ -746,6 +762,10 @@ El servidor público que preste algún servicio por el que se cause un derecho, 
 ###### ARTÍCULO 69º.
 
 En caso de discrepancia acerca de la procedencia o cuantía del derecho, cuando de su pago dependa la prestación del servicio o el desarrollo de una actividad, la consignación del importe fijado por Recaudación de Rentas de la Tesorería General Municipal, en los términos establecidos por las leyes fiscales dará lugar a la prestación de dicho servicio o al desarrollo de la actividad.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+Cuando por resolución administrativa o judicial se llegare a demostrar que el pago del contribuyente excedió la cantidad a la que en realidad estaba obligado, el Ayuntamiento procederá a la devolución de la cantidad pagada en exceso, de acuerdo con lo que establece el Código Fiscal para el Estado y Municipios de Baja California Sur.
 
 ###### ARTÍCULO 70º.
 
@@ -1255,13 +1275,17 @@ La expedición de autorización por uso del suelo habitacional en zonas populare
 
 La expedición de licencia de urbanización para los desarrollos urbanos tales como fraccionamientos, conjuntos habitacionales, desarrollos turísticos, condominiales, industriales o una combinación de los anteriores, causan un derecho del 7 al millar sobre el valor total de las obras de urbanización.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 81º.
 
-La dependencia Municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, sub división, división, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, supervisiones técnicas y dar visto bueno de seguridad y terminación de obra previo pago de acuerdo a la siguiente:
+La dependencia Municipal correspondiente podrá autorizar el registro de los responsables de proyectos de obras, aprobación del mismo, autorizar la fusión, sub división, división, lotificación o relotificación de predios, autorizar el uso del suelo para desarrollos urbanos y uso del suelo comercial urbano para giros comerciales, supervisiones técnicas y dar visto bueno de seguridad y terminación de obra previo pago de acuerdo a la siguiente
 
 TARIFA:
 
-a) Registro anual de responsables de 50 días salario
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+a) Registro anual de responsables de 40 días salario
 
 proyectos y obras mínimo.
 
@@ -1931,9 +1955,11 @@ Es objeto de este derecho los servicios que presta el Ayuntamiento por la expedi
 
 Son sujetos de estos derechos las personas físicas o morales que se dediquen a enajenar bebidas alcohólicas o a la prestación de servicios que incluyen el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
 
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 123º.
 
-Por la expedición de licencias, revalidaciones, cambios de actividad, cambios de domicilio y horario extraordinario en su funcionamiento a que se refiere este capítulo se causarán los derechos como lo establecen las siguientes.
+Por la expedición de licencias, revalidaciones, cambios de actividad o giro, cambio de domicilio, cambio de razón social y horario extraordinario en su funcionamiento a que se refiere este capítulo se causarán los derechos como lo establecen las siguientes:
 
 T RIFAS:
 
@@ -1943,181 +1969,269 @@ DESCRIPCIÓN COMERCIAL SALARIOS
 
 MÍNIMOS
 
-Hoteles 4 estrellas y superior categoría 2,350
+a).- Licencia principal en Hoteles 4 estrellas
 
-Por cada anexo especial de bar en hotel de
+y superior categoría. 2.350
 
-categoría 4 estrellas o superior categoría 275
+b).- Por cada anexo especial de bar en hotel
 
-Hotel 3 estrellas e inferior categoría incluye
+de categoría 4 estrellas o superior categoría,
 
-moteles 1,650
+(no incluye servi-bares en habitaciones) . 275
 
-Por cada anexo especial de bar en hotel de
+c).- Licencia principal en Hoteles 3 estrellas
 
-3 estrellas o inferior categoría incluye
+e inferior categoría incluye moteles. 1,650
 
-moteles 150
+d).- Por cada anexo especial de bar en hotel
 
-Súper mercado con venta de licor y cerveza 2,150
+de 3 estrellas o inferior categoría incluye
 
-Salones de Billar, Boliches y similares 1,475
+moteles, (no incluye servi-bares en
 
-Abarrotes con venta de bebidas alcohólicas
+habitaciones). 150
 
-al menudeo en envase cerrado 1,475
+e).- Súper mercado con venta de licor y
 
-Restaurante bar 2,500
+cerveza. 2,150
 
-Bar y/o discoteca 2,750
+f).- Restaurante bar. 2,500
 
-Centros nocturnos 4,000
+g).- Bar y/o discoteca. 2,750
 
-Restaurante con venta de cerveza y vinos
+h).- Centros nocturnos. 4,000
 
-de mesa 1,850
+i) - Restaurante con venta de bebidas
 
-Cabarets 4,000
+alcohólicas simultáneamente con alimentos. 1,850
 
-Salones de baile 1,750
+j).- Cabarets. 4,000
 
-Agencias distribuidoras 650
+k).- Salones de baile. 1,750
 
-Sub agencias distribuidoras 2,650
+l).- Agencias distribuidoras. 2,650
 
-Depósito o almacén 1,650
+m).- Sub agencias distribuidoras. 2,650
 
-Cantinas 3,000
+n).-Depósito o almacén. 1,650
 
-Eventuales por día 15
+Ñ (sic)).- Cantinas. 3,000
 
-Embarcaciones de recreo 1,800
+o).- Ultramarinos. 1,475
 
-I (sic).- Revalidaciones de licencias de funcionamientos y revalidación anual de giro para venta y consumo de bebidas alcohólicas por cada una.
+p).- Eventuales por día. 15
 
-ESTABLE CIMIENTOS SALARIOS
+q).- Embarcaciones de recreo cuando se
 
-MÍNIMOS
+preste el servicio de bar. 1,800
 
-Hoteles y moteles por cada establecimiento 75
-
-Supermercado con venta de licor y cerveza 65
-
-Salones de Billar, Boliches y similares 55
-
-Abarrotes con venta de cerveza 55
-
-Restaurant bar 80
-
-Bar y/o discoteca 85
-
-Centros nocturnos 180
-
-Restaurant con venta de cerveza 55
-
-Cabarets 180
-
-Salones de baile 100
-
-Agencias distribuidoras 130
-
-Sub agencias distribuidoras 130
-
-Depósitos 65
-
-Cantinas 100
-
-No especificados 125
-
-I (sic) Cambios de domicilio o nombre comercial de establecimientos con venta y consumo de bebidas alcohólicas por cada una.
+II. Revalidaciones de licencias de funcionamiento y revalidación anual de giro para venta y consumo de bebidas alcohólicas por cada una.
 
 ESTABLECIMIENTOS SALARIOS
 
 MÍNIMOS
 
-Hoteles y moteles por cada establecimiento 185
+a).- En Hoteles 4 estrellas y superior
 
-Salones de Billar, Boliches y similares 185
+categoría. 75
 
-Super mercado con venta de licor y cerveza 185
+b).- Por cada anexo especial de bar en
 
-Abarrotes con venta de cerveza 185
+Hotel de categoría 4 estrellas o superior,
 
-Restaurant bar 185
+(no incluye servi-bares en habitaciones). 75
 
-Bar y/o discoteca 185
+c).-En Hotel 3 estrellas e inferior
 
-Centros nocturnos 250
+categoría, incluye moteles. 65
 
-Restaurant con venta de cerveza 185
+d).-Por cada anexo especial de bar en
 
-Cabarets 250
+Hotel de 3 estrellas o inferior categoría,
 
-Salones de baile 185
+incluyendo moteles, (no incluye servi-bares
 
-Agencias 185
+en habitaciones). 65
 
-Sub agencias 185
+e).- Súper mercado con venta de licor y
 
-Depósitos 185
+cerveza. 65
 
-Cantinas 185
+f).- Salones de Billar, Boliches y similares. 55
 
-Ultramarinos 185
+g).- Mini-súper o Abarrotes con venta de
 
-Restaurant bar y/o bar con pista para baile
+bebidas alcohólicas al menudeo en envase
 
-y/o espectáculos 185
+cerrado. 55
 
-I (sic).- Autorización de funcionamiento de horario extraordinario a giros con venta y consumo de bebidas alcohólicas por hora
+h).- Restaurante bar. 80
 
-Establecimientos costo en salarios
+i).- Bar y/o discoteca. 85
 
-mínimos por hora
+j).- Centros nocturnos. 180
 
-diaria extraordinaria
+k).- Restaurante con venta de bebidas
 
-Lunes-Sabado
+alcohólicas simultáneamente con alimentos. 55
 
-Domingo
+l).- Cabarets. 180
 
-Hoteles y moteles por cada establecimiento 1 0.50
+m).- Salones de baile. 100
 
-Súper mercado con venta de vino, licor y
+n).-Agencias distribuidoras. 130
 
-cerveza 1 0.50
+Ñ (sic)).-Sub agencias distribuidoras. 130
 
-Minisuper o abarrotes con venta vino, licor y
+o).- Depósito o almacén. 65
 
-cerveza 2 1
+p).- Cantinas. 100
 
-Minisuper o abarrotes con venta de cerveza 1 1
+q).- Ultramarinos. 55
 
-Restaurante bar 2 1
+r).- Embarcaciones de recreo cuando se
 
-Restaurante con venta de cerveza 1 1
+preste el servicio de bar. 55
 
-Bar 2 1
+III. Cambios de domicilio o nombre comercial de establecimientos con venta y consumo de bebidas alcohólicas por cada una.
 
-Centros nocturnos 3 1
+ESTABLECIMIENTOS SALARIOS
 
-Cabarets 3 1
+MÍNIMOS
 
-Salones de baile 2 1
+a).- En Hoteles 4 estrellas y superior categoría. 185
 
-Discotecas 2 1
+b).- Por cada anexo especial de bar en
 
-Depósitos 1 1
+Hotel de categoría 4 estrellas o superior
 
-Cantinas 2 1
+categoría (no incluye servi-bares en
 
-Ultramarinos o licorería 1 1
+habitaciones). 185
 
-Cervecería 1 1
+c).- En Hoteles 3 estrellas e inferior
 
-La autorización de horario extraordinario de expedirá previo pago hasta por un máximo de noventa y seis horas por semana.
+categoría, incluye moteles. 185
 
-I (sic).- A los establecimientos de distribución al mayoreo de cervezas, vinos y licores, agencias y sub-agencias no se les otorgará tiempo extraordinario para su funcionamiento.
+d).- Por cada anexo especial de bar en
+
+Hotel de 3 estrellas o inferior categoría,
+
+incluyendo moteles (no incluye servi-bares
+
+en habitaciones). 185
+
+e).- Salones de Billar, Boliches y similares. 185
+
+f).- Súper mercado con venta de licor y
+
+cerveza. 185
+
+g).- Mini-súper o Abarrotes con venta
+
+bebidas alcohólicas al menudeo en envase
+
+cerrado. 185
+
+h).- Restaurante bar. 185
+
+i).- Bar y/o discoteca. 185
+
+j).- Centros nocturnos. 250
+
+k).- Restaurante con venta de bebidas
+
+alcohólicas simultáneamente con alimentos. 185
+
+l).- Cabarets. 250
+
+m).- Salones de baile. 185
+
+n).- Agencias distribuidoras. 185
+
+Ñ (sic)).- Subagencias distribuidoras. 185
+
+o).- Depósito o almacén. 185
+
+p).- Cantinas. 185
+
+q).- Ultramarinos. 185
+
+r).- Embarcaciones de recreo cuando se
+
+preste el servicio de bar. 185
+
+IV. Autorización de funcionamiento de horario extraordinario a giros con venta y consumo de bebidas alcohólicas, por hora.
+
+ESTABLECIMIENTOS COSTO EN SALARIOS
+
+MÍNIMOS POR HORA
+
+DIARIA
+
+EXTRAORDINARIA
+
+LUNES- DOMINGO
+
+SÁBADO
+
+a).- En Hoteles 4 estrellas y superior
+
+categoría. 1 0.50
+
+b).- Por cada anexo especial de bar
+
+en Hotel de categoría 4 estrellas
+
+o superior (no incluye servi-bares
+
+en habitaciones). 1 0.50
+
+c).- En Hoteles 3 estrellas e inferior
+
+categoría, incluye moteles. 1 0.50
+
+d).- Por cada anexo especial de bar
+
+en hotel de estrellas o inferior
+
+categoría, incluyendo moteles
+
+(no incluye serví bares en habitaciones). 1 0.50
+
+e).- Súper mercado con venta de vino,
+
+licor y cerveza. 1 0.50
+
+f).- Mini súper o abarrotes con venta de
+
+bebidas alcohólicas al menudeo en
+
+envase cerrado. 2 1
+
+g).- Restaurante bar. 2 1
+
+h).- Restaurante con venta de cerveza. 1 1
+
+i).- Bar y/o discoteca. 2 1
+
+j).- Centros nocturnos. 3 1
+
+k).- Cabarets. 3 1
+
+I).- Salones de baile. 2 1
+
+m).- Cantinas. 2 1
+
+n).- Ultramarinos. 1 1
+
+Ñ (sic)).- Restaurante con venta de bebidas
+
+alcohólicas simultáneamente con
+
+alimentos. 1 1
+
+V. A los establecimientos de distribución al mayoreo de cervezas, vinos y licores, agencias y sub-agencias no se les otorgará tiempo extraordinario para su funcionamiento.
 
 ###### ARTÍCULO 124º.
 
@@ -2295,9 +2409,11 @@ Para la autorización de estacionamiento en la vía pública, el solicitante deb
 
 Los pagos anuales se harán por adelantado en los meses de Enero y Febrero de acuerdo con el calendario que establezca la Autoridad Municipal correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 137º.
 
-Las licencias y permisos para el uso de la vía pública por quienes se dedican al comercio ambulante serán pagados mensualmente dentro de los primeros cinco días hábiles del mes, o dentro del siguiente mes a aquél en que inicien operaciones, una vez que el interesado haya acudido a la oficina de Recaudación Municipal de Rentas a solicitar su licencia, y que la autoridad haya determinado el cumplimiento de los requisitos legales y administrativo de acuerdo a las legislaciones correspondientes, para el otorgamiento del mismo. Para este fin habrán de aplicarse la siguiente:
+Las licencias y permisos para el uso de la vía pública, serán pagados mensualmente dentro de los primeros cinco días hábiles del mes, o dentro del siguiente mes a aquél en que inicien operaciones, una vez que el interesado haya acudido a la oficina de Recaudación Municipal de Rentas a solicitar su licencia, y que la autoridad haya determinado el cumplimiento de los requisitos legales y administrativos de acuerdo a las legislaciones correspondientes, para el otorgamiento del mismo. Para este fin habrán de aplicarse la siguiente:
 
 TARIFA:
 
@@ -2487,11 +2603,15 @@ ARTÍCULO 160° Los aprovechamientos no especificados en este título se recauda
 
 Además de las que señale la presente Ley, las multas o sanciones por infracciones a disposiciones municipales, serán cobradas en los términos y condiciones que establezcan las disposiciones legales que las prevén. El cobro de las multas se hará independientemente de que se exija el pago de las contribuciones respectivas y sus demás accesorios, según sea el caso.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+
 ###### ARTÍCULO 159º.
 
 Sin perjuicio de lo señalado en el artículo que antecede se establecen las siguientes sanciones económicas por:
 
-a). Por desacato al bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones relativas vigentes en el Municipio de Los Cabos, se impondrán de acuerdo a la siguiente:
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+a) Por desacato al bando de Policía y Buen Gobierno, Reglamento de Tránsito y demás disposiciones relativas vigentes en el Municipio de Los Cabos, se impondrán de acuerdo a lo siguiente:
 
 TARIFA:
 
@@ -2501,313 +2621,317 @@ CLAVE DESCRIPCIÓN IMPORTE
 
 MÍNIMO)
 
-1 Manejar sin licencia. 8
+1 Manejar sin licencia. 8 a 9
 
-2 Permitir manejar sin licencia. 3
+2 Permitir manejar sin licencia. 3 a 4
 
 3 Falta de resello anual a la licencia
 
-(cada uno) 3
+(cada uno) 3 a 4
 
 4 Manejar en estado de ebriedad,
 
-1º, 2º y 3er 20, 40, 80
+1º, 2º y 3er 20 a 21,
 
-Respectivamente
+40 a 41,
 
-5 Exceso de velocidad. 20
+81 a 80
+
+respectivamente
+
+5 Exceso de velocidad. 20 a 21
 
 6 Ir a más de 15 kilómetros frente
 
-a escuela. 5
+a escuela. 5 a 5
 
 7 Negarse a presentar licencia y
 
-tarjeta de circulación. 6
+tarjeta de circulación. 6 a 7
 
 8 No obedecer a las indicaciones
 
-del agente. 10
+del agente. 10 a 11
 
-9 Recurrir a la fuga. 20
+9 Recurrir a la fuga. 20 a 21
 
-10 Faltas al agente. 10
+10 Faltas al agente. 10 a 11
 
 11 Prestar servicios publico
 
-sin autorización. 65
+sin autorización. 65 a 66
 
-12 Circular fuera de ruta. 55
+12 Circular fuera de ruta. 55 a 56
 
-13 Por estacionarse mal. 3
+13 Por estacionarse mal. 3 a 4
 
-14 Estacionarse en exclusivo. 3
+14 Estacionarse en exclusivo. 3 a 4
 
 15 Estacionarse en paraderos de
 
 ascenso y descenso exclusivos
 
-para personas con discapacidad. 18
+para personas con discapacidad. 18 a 19
 
-16 Estacionarse en zona prohibida. 5
+16 Estacionarse en zona prohibida. 5 a 6
 
-17 Transportar pasaje en lugar de carga. 5
+17 Transportar pasaje en lugar de carga. 5 a 6
 
-18 Cortar cortejo fúnebre. 5
+18 Cortar cortejo fúnebre. 5 a 6
 
-19 Estacionarse en doble fila. 5
+19 Estacionarse en doble fila. 5 a 6
 
-20 Abandonar unidad en la vía publica. 5
+20 Abandonar unidad en la vía publica. 5 a 6
 
-21 No ceder el paso al peatón. 10
+21 No ceder el paso al peatón. 10 a 11
 
 22 No ceder el paso a vehículo
 
-de emergencia en funciones. 10
+de emergencia en funciones. 10 a 11
 
-23 Pasarse alto del agente. 5
+23 Pasarse alto del agente. 5 a 6
 
-24 Pasarse alto del semáforo. 10
+24 Pasarse alto del semáforo. 10 a 11
 
-25 Adelantar vehículo en bocacalle. 5
+25 Adelantar vehículo en bocacalle. 5 a 6
 
-26 Falta de luce en los faros delanteros. 5
+26 Falta de luce en los faros delanteros. 5 a 6
 
-27 Falta de luz posterior roja. 5
+27 Falta de luz posterior roja. 5 a 6
 
 28 Falta de luces laterales cuando el
 
-vehículo deba traerlas. 2
+vehículo deba traerlas. 2 a 3
 
-29 Transitar con luz alta en la ciudad. 5
+29 Transitar con luz alta en la ciudad. 5 a 6
 
 30 Falta de razón social en vehículos
 
-destinados al servicio publico. 5
+destinados al servicio publico. 5 a 6
 
-31 Circular en sentido contrario. 5
+31 Circular en sentido contrario. 5 a 6
 
-32 Dar vuelta en "u" en zona prohibida. 5
+32 Dar vuelta en "u" en zona prohibida. 5 a 6
 
-33 Transitar sin placas 20
+33 Transitar sin placas 20 a 21
 
-34 Transitar con placas vencidas. 10
+34 Transitar con placas vencidas. 10 a 11
 
-35 Transitar con placas sobrepuestas. 40
+35 Transitar con placas sobrepuestas. 40 a 41
 
-36 Falta de tarjeta de circulación. 3
+36 Falta de tarjeta de circulación. 3 a 4
 
 37 Uso indebido de placas
 
-demostradoras. 20
+demostradoras. 20 a 21
 
 38 Exceso de pasaje, por cada
 
-pasajero que exceda. 3
+pasajero que exceda. 3 a 4
 
 39 Carecer de espacio para personas
 
 con discapacidad en vehículos de
 
-servicio publico de pasaje. 5
+servicio publico de pasaje. 5ª 6
 
-40 Falta de revista en la unidad. 3
+40 Falta de revista en la unidad. 3 a 4
 
-41 Seguir vehículo de emergencia. 6
+41 Seguir vehículo de emergencia. 6 a 7
 
 42 Obstruir paso de vehículo de
 
-emergencia en funciones. 20
+emergencia en funciones. 20 a 21
 
 43 Circular con parabrisas estrellado,
 
-siempre que impida ver. 5
+siempre que impida ver. 5 a 6
 
-44 Falta de banderola en la carga. 3
+44 Falta de banderola en la carga. 3 a 4
 
-45 Efectuar falsa señal de direccional. 2
+45 Efectuar falsa señal de direccional. 2 a 3
 
-46 Falta de espejo lateral. 3
+46 Falta de espejo lateral. 3 a 4
 
-47 Estacionarse sobre guarnición. 3
+47 Estacionarse sobre guarnición. 3 a 4
 
-48 Transitar con escape ruidoso. 4
+48 Transitar con escape ruidoso. 4 a 5
 
-49 No reportar cambio de colores. 4
+49 No reportar cambio de colores. 4 a 5
 
-50 No reportar cambio de propietario. 15
+50 No reportar cambio de propietario. 15 a 16
 
 51 Obstruir paso del peatón en las
 
-áreas de paso peatonal. 4
+áreas de paso peatonal. 4 a 5
 
-52 Estacionarse en sentido contrario. 5
+52 Estacionarse en sentido contrario. 5 a 6
 
-53 No reunir los requisitos de circulación. 3
+53 No reunir los requisitos de circulación. 3 a 4
 
-54 Olvido de licencia para manejar. 5
+54 Olvido de licencia para manejar. 5 a 6
 
 55 Falta de casco protector al conducir
 
-motocicletas. 5
+motocicletas. 5 a 6
 
-56 Uso indebido de faros buscadores. 5
+56 Uso indebido de faros buscadores. 5 a 6
 
-57 Emplear luces rojas al frente. 5
+57 Emplear luces rojas al frente. 5 a 6
 
-58 Falta de luz en las placas. 2
+58 Falta de luz en las placas. 2 a 3
 
-59 Falta de luz naranja al frente. 2
+59 Falta de luz naranja al frente. 2 a 3
 
-60 Falta de luz direccional. 2
+60 Falta de luz direccional. 2 a 3
 
-61 Frenos en malas condiciones. 3
+61 Frenos en malas condiciones. 3 a 4
 
-62 Falta de frenos a bicicletas. 1
+62 Falta de frenos a bicicletas. 1 a 2
 
-63 Uso indebido del claxon. 3
+63 Uso indebido del claxon. 3 a 4
 
-64 Emisión excesiva de humo. 5
+64 Emisión excesiva de humo. 5 a 6
 
-65 Falta de espejo retrovisor. 3
+65 Falta de espejo retrovisor. 3 a 4
 
-66 Obstruir visibilidad en cristal trasero. 3
+66 Obstruir visibilidad en cristal trasero. 3 a 4
 
-67 Falta de limpiadores para-brisas. 2
+67 Falta de limpiadores para-brisas. 2 a 3
 
 68 Falta de llanta extra, llave de tuerca,
 
-gato, herramienta 3
+Gato y herramienta 3 a 4
 
-69 No dar aviso a cambio de domicilio. 2
+69 No dar aviso a cambio de domicilio. 2 a 3
 
 70 No dar aviso de modificaciones a la
 
-carrocería. 5
+carrocería. 5 a 6
 
-71 Mala colocación de placas. 3
+71 Mala colocación de placas. 3 a 4
 
-72 Mala colocación de calcomanías. 3
+72 Mala colocación de calcomanías. 3 a 4
 
 73 Usar tarjeta de circulación de otro
 
-vehículo. 10
+vehículo. 10 a 11
 
-74 Usar calcomanía de otro vehículo. 10
+74 Usar calcomanía de otro vehículo. 10 a 11
 
 75 Permitir manejar personas con
 
-incapacidad fisicomental. 10
+incapacidad fisicomental. 10 a 11
 
 76 Arrojar objetos o basura en la
 
-vía publica. 10
+vía publica. 10 a 11
 
 77 Llevar objetos que obstruyan la
 
-visibilidad. 3
+visibilidad. 3 a 4
 
 78 Cargar gasolina con el motor
 
-encendido. 2
+encendido. 2 a 3
 
 79 Cargar combustible con pasaje
 
 a bordo, en vehículo de servicio
 
-de pasaje. 2
+de pasaje. 3 a 4
 
 80 Transportar personas en vehículo
 
-de remolque cada uno. 2
+de remolque cada uno. 2 a 3
 
-81 Llevar carga mal sujeta. 5
+81 Llevar carga mal sujeta. 5 a 6
 
-82 Ocultar placa. 5
+82 Ocultar placa. 5 a 6
 
 83 Conducir en malas condiciones
 
-fisicomentales. 10
+fisicomentales. 10 a 11
 
-84 Abandono de víctimas en accidente. 50
+84 Abandono de víctimas en accidente. 50 a 51
 
-85 No prestar auxilio a accidentados. 5
+85 No prestar auxilio a accidentados. 5 a 6
 
-86 Transportar pasaje en estribo. 10
+86 Transportar pasaje en estribo. 10 a 11
 
-87 Remolcar vehículo sin autorización 10
+87 Remolcar vehículo sin autorización 10 a 11
 
-88 Dar vuelta en lugar no permitido. 5
+88 Dar vuelta en lugar no permitido. 5 a 6
 
 89 Presentar tarjeta de circulación
 
-ilegible. 3
+ilegible. 3 a 4
 
-90 Transitar con una placa. 5
+90 Transitar con una placa. 5 a 6
 
-91 Transitar con placas ilegibles. 5
+91 Transitar con placas ilegibles. 4 a 5
 
 92 Falta de permiso para transportar o
 
-conducir maquinaria pesada. 10
+conducir maquinaria pesada. 10 a 11
 
 93 Por alterar tarifas en servicio de
 
-transporte publico. 15
+transporte publico. 15 a 16
 
-94 No traer tarifas en lugar visible. 10
+94 No traer tarifas en lugar visible. 10 a 11
 
 95 Permitir control de dirección a
 
-personas acompañantes. 5
+personas acompañantes. 5 a 6
 
 96 Llevar personas o bultos en brazos
 
-al conducir. 5
+al conducir. 5 a 6
 
 97 Producir ruidos innecesarios
 
-(bocinas, otros). 5
+(bocinas, otros). 5 a 6
 
-98 No guarda distancia reglamentaria. 3
+98 No guarda distancia reglamentaria. 3 a 4
 
-99 Cambiar intempestivamente de carril. 3
+99 Cambiar intempestivamente de carril. 3 a 4
 
-100 Efectuar reversa más de permitido. 3
+100 Efectuar reversa más de permitido. 3 a 4
 
-101 Pasar sobre manguera de incendio. 3
+101 Pasar sobre manguera de incendio. 3 a 4
 
-102 Obstruir una intersección en crucero. 3
+102 Obstruir una intersección en crucero. 3 a 4
 
-103 Frenar bruscamente sin precaución. 3
+103 Frenar bruscamente sin precaución. 2 a 3
 
-104 Dar vuelta sin previa señal. 3
+104 Dar vuelta sin previa señal. 3 a 4
 
 105 Entablar competencia de velocidad
 
-en la vía publica. 50
+en la vía publica. 50 a 51
 
 106 Adelantar vehículo en la zona
 
-peatonal. 4
+peatonal. 4 a 5
 
-107 Adelantar hilera de vehículos. 3
+107 Adelantar hilera de vehículos. 3 a 4
 
 108 Impedir rebasar aumentando la
 
-velocidad. 5
+velocidad. 5 a 6
 
-109 Adelantar vehículo por acotamiento. 5
+109 Adelantar vehículo por acotamiento. 5 a 6
 
-110 Estacionarse sobre la acera. 3
+110 Estacionarse sobre la acera. 3 a 4
 
-111 Estacionarse frente a cochera. 3
+111 Estacionarse frente a cochera. 3 a 4
 
-112 Estacionarse frente a hidrante. 5
+112 Estacionarse frente a hidrante. 5 a 6
 
 113 Estacionarse frente a bomberos y
 
-ambulancia. 5
+ambulancia. 5 a 6
 
 114 No atender descuentos a estudiantes,
 
@@ -2815,107 +2939,117 @@ uniformados oficiales, tercera edad y
 
 personas con discapacidad, en
 
-servicio publico. 5
+servicio publico. 5 a 6
 
 115 Transportar pasaje en autobús
 
-Conduciendo ebrio / drogado. 30
+conduciendo ebrio / drogado. 30 a 31
 
 116 Transportar animales, bultos que
 
-molesten al pasaje. 5
+molesten al pasaje. 5 a 6
 
 117 Transportar más de 2 cargadores
 
-en camión de carga. 3
+en camión de carga. 3 a 4
 
 118 Transportar más de 2 personas
 
-en cabina, por cada uno. 3
+en cabina, por cada uno. 3 a 4
 
 119 Transportar carga que no sea
 
-debidamente abanderada. 3
+debidamente abanderada. 3 a 4
 
-120 Transitar con carrocería incompleta. 3
+120 Transitar con carrocería incompleta. 3 a 4
 
 121 Pintar carrocería con colores de
 
-servicio oficial y de emergencia. 10
+servicio oficial y de emergencia. 10 a 11
 
-122 Establecer sitio en lugar no autorizado. 5
+122 Establecer sitio en lugar no autorizado. 5 a 6
 
 123 Derrapar o patinar innecesaria e
 
-injustificadamente el vehículo. 20
+injustificadamente el vehículo. 20 a 21
 
-124 Subir y bajar pasaje en doble fila. 5
+124 Subir y bajar pasaje en doble fila. 5 a 6
 
 125 Subir y bajar pasaje por puerta
 
-izquierda. 5
+izquierda. 5 a 6
 
 126 Realizar maniobras para introducirse
 
-a negocios obstruyendo la circulación. 10
+a negocios obstruyendo la circulación. 10 a 11
 
 127 Realizar maniobras de carga sin
 
-permiso. 5
+permiso. 5 a 6
 
 128 Efectuar vuelta a exceso de
 
 velocidad y derrapar
 
-innecesariamente. 10
+innecesariamente. 10 a 11
 
 129 Estacionar camiones pesados en
 
-el primer cuadro de la ciudad. 15
+el primer cuadro de la ciudad. 15 a 16
 
-130 falta (sic) de Luz en las bicicletas. 1
+130 falta (sic) de Luz en las bicicletas. 1 a 2
 
 131 Ingerir bebidas embriagantes o
 
 estupefacientes en vehículo
 
-en movimiento. 20
+en movimiento. 20ª 21
 
-132 Pasarse alto de disco (señalamiento) 10
+132 Pasarse alto de disco (señalamiento) 10 a 11
 
 133 No ceder paso a vehículo en
 
-preferencia. 10
+preferencia. 10 a 11
 
 134 No usar cinturón de seguridad. Por
 
-Cada Ocupante. 3
+Cada Ocupante. 3 a 4
 
-b). Violaciones al Reglamento de Construcciones para el Estado de Baja California Sur en los siguientes términos:
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 30 DE JUNIO DE 2003)</small>
+
+b).- Violaciones al Reglamento de Construcciones para el Estado de Baja California Sur en los siguientes términos:
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 I.- Por no dar aviso dentro de los primeros 10 días hábiles siguientes a la terminación o suspensión de los trabajos de Construcción en:
 
-Casa Habitación 10 Salarios Mínimos
+Casa Habitación 10 a 11 Salarios Mínimos
 
-Locales Comerciales 20 Salarios Mínimos
+Locales Comerciales 20 a 21 Salarios Mínimos
 
-Locales Industriales 30 Salarios Mínimos
+Locales Industriales 30 a 31 Salarios Mínimos
 
 II.- Por no cumplir con las disposiciones de 30 a 40 Salarios
 
 conservación de edificaciones. Mínimos
 
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
+
 III.- Por ocular una obra terminada sin el permiso necesario en:
 
-Casa Habitación 30 Salarios Mínimos
+Casa Habitación 30 a 31 Salarios Mínimos
 
-Locales Comerciales 50 Salarios Mínimos
+Locales Comerciales 50 a 51 Salarios Mínimos
 
-Locales Industriales 100 Salarios Mínimos
+Locales Industriales 100 a 101 Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 IV.- Por incumplimiento a un citatorio o
 
-Requerimiento de la Autoridad 05 Salarios Mínimos
+Requerimiento de la Autoridad 5 a 6 Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 V.- Por dejar de solicitar la revisión anual
 
@@ -2923,17 +3057,21 @@ de prueba de seguridad en los centros
 
 de reunión, salas de espectáculos y
 
-hospitales 10 Salarios Mínimos
+hospitales 10 a 11 Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 VI.- Por carecer de los equipos del sistema
 
 hidráulico o tenerlos Incompletos o
 
-descompuestos 10 Salarios Mínimos
+descompuestos 10 a 11 Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 VII.- Por ejecutar una obra o parte de
 
-ella sin licencia necesaria 50 Salarios Mínimos
+ella sin licencia necesaria 50 a 51 Salarios Mínimos
 
 VIII.- Por incurrir en falsedad de los datos
 
@@ -2942,6 +3080,8 @@ consignados en la solicitud de la licencia
 que de otra manera no hubiera sido 50 a 300
 
 concedida, según la gravedad del caso Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 IX. Por omitirse en la solicitud de licencia
 
@@ -2955,7 +3095,7 @@ monumentos arqueológicos o
 
 históricos, de poblaciones típicas
 
-lugares de belleza natural 100 Salarios Mínimos
+lugares de belleza natural 100 a 101 Salarios Mínimos
 
 X.- Por ejecutarse una obra modificando el
 
@@ -2981,17 +3121,21 @@ por el Reglamento de Construcciones 30 a 50
 
 para el Estado de Baja California Sur Salarios Mínimos
 
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
+
 XIII.- Por no tener la precaución o no
 
 hacer las instalaciones necesarias para
 
 proteger la vida de las personas o los
 
-bienes públicos o privados 30 Salarios Mínimos
+bienes públicos o privados 30 a 31 Salarios Mínimos
+
+> <small>(REFORMADA, B.O. 30 DE JUNIO DE 2003)</small>
 
 XIV.- Por prescindir o no cumplir un
 
-requerimiento técnico o administrativo 30 Salarios Mínimos
+requerimiento técnico o administrativo 30 a 31 Salarios Mínimos
 
 XV.- Por impedir u obstaculizar al personal
 
@@ -3017,33 +3161,45 @@ a criterio de la autoridad, según la gravedad 20 a 100
 
 del caso y o meno, ni mayor de Salarios Mínimos
 
-a (sic)) Infracciones relacionadas al funcionamiento de establecimientos que expenden bebidas alcohólicas:
+> <small>(REFORMADO, B.O. 30 DE JUNIO DE 2003)</small>
 
-a). A aquellos establecimientos que ofendan la moral, las buenas costumbres o por así requerirlo el interés social, se le sancionará con 250 salarios mínimos.
+c).- Infracciones relacionadas al funcionamiento de establecimientos que expenden bebidas alcohólicas:
 
-b). Al no solicitar su revalidación anual en los plazos señalados en el Artículo 174 de esta Ley, con 65 salarios mínimos.
+I).- A aquellos establecimientos que ofendan la moral, las buenas costumbres o por así requerirlo el interés social, se le sancionará con multa de 250 a 251 salarios mínimos.
 
-c). Cuando el establecimiento funcione en un lugar distinto o se cambie su giro o razón social, sin la autorización correspondiente se sancionará con 200 salarios mínimos.
+II).- Al no solicitar su revalidación anual en los plazos señalados en el Artículo 174 de esta Ley, con una multa de 65 a 66 salarios mínimos.
 
-d). Cuando permita la entrada así como la venta de bebidas alcohólicas a menores de edad, 200 salarios mínimos.
+III).- Cuando el establecimiento funcione en un lugar distinto o se cambie su giro o razón social, sin la autorización correspondiente se sancionará con una multa de 200 a 201 salarios mínimos.
 
-e). Cuando no reúnan los requisitos contemplados en la normatividad que aplica la Secretaría de Salubridad y Asistencia, 50 salarios mínimos.
+IV).- Cuando permita la entrada así como la venta de bebidas alcohólicas a menores de edad, se impondrá una multa de 200 a 201 salarios mínimos.
 
-f). Cuando funcionen fuera del horario que les ha sido autorizado, se sancionará conforme a lo que dispone la Ley de la Materia.
+V).- Cuando no reúnan los requisitos contemplados en la normatividad que aplica la Secretaría de Salubridad y Asistencia, se impondrá una multa de 50 a 51 salarios mínimos.
 
-g). A los establecimientos que -sin la licencia respectiva que les autorice a ello- expendan bebidas en envase abierto para ser consumidas fuera de su local con una sanción de 50 salarios mínimos.
+VI).- Cuando funcionen fuera del horario que les ha sido autorizado, se sancionará conforme a lo que dispone la Ley de la Materia.
 
-h). A los establecimientos que expendan bebidas a personas en evidente estado de ebriedad con una sanción de 50 salarios mínimos.
+VII).- A los establecimientos que -sin la licencia respectiva que les autorice a ello, expendan bebidas en envase abierto para ser consumidas fuera de su local se impondrá una sanción de 50 a 51 salarios mínimos.
 
-i). Cuando no se cuente con personal de vigilancia debidamente calificado, en el caso de cantinas, cervecerías, discotecas, cabarets, centros nocturnos, bares y demás similares, se sancionara con 180 salarios mínimos.
+VIII).- A los establecimientos que expendan bebidas a personas en evidente estado de ebriedad, se impondrá una sanción de 50 a 51 salarios mínimos.
 
-j). Cuando, las cantinas cervecerías, discotecas, cabarets o centros nocturnos, bares o demás similares, se encuentren conectados con casas habitación, o tengan entrada común a ésta, se sancionará con 200 salarios mínimos, con excepción de los restaurantes, cafés, fondas y cenadurías.
+IX).- Cuando no se cuente con personal de vigilancia debidamente calificado, en el caso de cantinas, cervecerías, discotecas, cabarets, centros nocturnos, bares y demás similares, se sancionará con una multa de 180 a 181 salarios mínimos.
 
-k). Cuando, en los establecimientos en donde la ley al respecto lo requiera, no se coloquen avisos donde se especifique que está prohibida la entrada a menores de edad, se sancionará con 20 días de salario mínimo.
+X).- Cuando, las cantinas cervecerías, discotecas, cabarets o centros nocturnos, bares o demás similares, se encuentren conectados con casas habitación, o tengan entrada común a esta, se sancionará con una multa de 200 a 201 salarios mínimos, con excepción de los restaurantes, cafés, fondas y cenadurías.
 
-l). Cuando en los locales destinados a los almacenamientos de bebidas alcohólicas, vendan al menudeo, se les sancionará con 100 días de salario mínimo.
+XI).- Cuando, en los establecimientos en donde la ley al respecto lo requiera, no se coloquen avisos donde se especifique que está prohibida la entrada a menores de edad, se sancionará con una multa de 20 a 21 días de salario mínimo.
 
-m). Cuando se vendan bebidas alcohólicas fuera del establecimiento se sancionará con 100 salarios mínimos.
+XII).- Cuando en los locales destinados a los almacenamientos de bebidas alcohólicas, vendan al menudeo, se les sancionará con una multa de 100 a 101 días de salario mínimo.
+
+XIII).- Cuando se vendan bebidas alcohólicas fuera del establecimiento se sancionará con una multa de 100 a 101 salarios mínimos.
+
+> <small>(ADICIONADO, B.O. 30 DE JUNIO DE 2003)</small>
+
+d).- Sin perjuicio de lo señalado en el artículo 137 de esta Ley, se sancionará:
+
+I.- Por utilizar la vía pública con fines comerciales sin la autorización correspondiente, con multa de 50 a 150 salarios mínimos.
+
+II.- Causar molestias a las personas en tránsito con motivo de la actividad comercial en la vía pública, con multa de 50 a 150 salarios mínimos.
+
+III.- Introducirse a propiedad privada con fines comerciales, sin la autorización del propietario del inmueble, con multa de 50 a 150 salarios mínimos.
 
 ### Capítulo Cuarto. Rezagos
 
@@ -3264,3 +3420,9 @@ C. LEONEL EFRAÍN COTA MONTAÑO
 EL SECRETARIO GENERAL DE GOBIERNO
 
 C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 30 DE JUNIO DE 2003.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
