@@ -1,0 +1,642 @@
+---
+title: "LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS"
+identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
+country: "mx"
+rank: "ley_federal"
+publication_date: "2002-03-13"
+last_updated: "2002-03-13"
+status: "repealed"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "23592"
+scjn_status: "ABROGADO (A)"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "9 PRIMERA SECCION"
+reform_count: "13"
+scjn_last_update: "2018-06-15"
+issue_date: "2002-03-12"
+---
+# LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
+
+LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 13 de marzo de 2002.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+
+Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+
+DECRETO
+
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+###### ARTICULO PRIMERO.
+
+Se expide la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos para quedar como sigue:
+
+LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PUBLICOS
+
+## TITULO PRIMERO
+
+### CAPITULO UNICO. Disposiciones Generales
+
+###### ARTICULO 1.
+
+Esta Ley tiene por objeto reglamentar el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos, en materia de:
+
+I.- Los sujetos de responsabilidad administrativa en el servicio público;
+
+II.- Las obligaciones en el servicio público;
+
+III.- Las responsabilidades y sanciones administrativas en el servicio público;
+
+IV.- Las autoridades competentes y el procedimiento para aplicar dichas sanciones, y
+
+V.- El registro patrimonial de los servidores públicos.
+
+###### ARTICULO 2.
+
+Son sujetos de esta Ley, los servidores públicos federales mencionados en el párrafo primero del artículo 108 Constitucional, y todas aquellas personas que manejen o apliquen recursos públicos federales.
+
+###### ARTICULO 3.
+
+En el ámbito de su competencia, serán autoridades facultadas para aplicar la presente Ley:
+
+I.- Las Cámaras de Senadores y Diputados del Congreso de la Unión;
+
+II.- La Suprema Corte de Justicia de la Nación y el Consejo de la Judicatura Federal;
+
+III.- La Secretaría de Contraloría y Desarrollo Administrativo;
+
+IV.- El Tribunal Federal de Justicia Fiscal y Administrativa;
+
+V.- Los tribunales de trabajo y agrarios;
+
+VI.- El Instituto Federal Electoral;
+
+VII.- La Auditoría Superior de la Federación;
+
+VIII.- La Comisión Nacional de los Derechos Humanos;
+
+IX.- El Banco de México, y
+
+X.- Los demás órganos jurisdiccionales e instituciones que determinen las leyes.
+
+###### ARTICULO 4.
+
+Para la investigación, tramitación, sustanciación y resolución, en su caso, de los procedimientos y recursos establecidos en la presente Ley, serán autoridades competentes los contralores internos y los titulares de las áreas de auditoría, de quejas y de responsabilidades de los órganos internos de control de las dependencias y entidades de la Administración Pública Federal y de la Procuraduría General de la República.
+
+###### ARTICULO 5.
+
+Para los efectos de esta Ley se entenderá por:
+
+Ley: A la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+Secretaría: A la Secretaría de Contraloría y Desarrollo Administrativo.
+
+Contralorías internas: A los órganos internos de control de las dependencias y entidades de la Administración Pública Federal, así como de la Procuraduría General de la República.
+
+Contralores internos y titulares de las áreas de auditoría, de quejas y de responsabilidades: A los titulares de las contralorías internas y a los de las áreas de auditoría, de quejas y de responsabilidades, designados por la Secretaría.
+
+Dependencias: A las consideradas como tales en la Ley Orgánica de la Administración Pública Federal, incluidos sus órganos administrativos desconcentrados, así como la Procuraduría General de la República.
+
+Entidades: A las consideradas como entidades paraestatales en la Ley Orgánica de la Administración Pública Federal.
+
+###### ARTICULO 6.
+
+Cuando los actos u omisiones de los servidores públicos, materia de las quejas o denuncias, queden comprendidos en más de uno de los casos sujetos a sanción y previstos en el artículo 109 Constitucional, los procedimientos respectivos se desarrollarán en forma autónoma según su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo 3 turnar las quejas o denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
+
+## TITULO SEGUNDO. Responsabilidades Administrativas
+
+### CAPITULO I. Principios que rigen la función pública, sujetos de responsabilidad administrativa y obligaciones en el servicio público
+
+###### ARTICULO 7.
+
+Será responsabilidad de los sujetos de la Ley ajustarse, en el desempeño de sus empleos, cargos o comisiones, a las obligaciones previstas en ésta, a fin de salvaguardar los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia que rigen en el servicio público.
+
+###### ARTICULO 8.
+
+Todo servidor público tendrá las siguientes obligaciones:
+
+I.- Cumplir el servicio que le sea encomendado y abstenerse de cualquier acto u omisión que cause la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de un empleo, cargo o comisión;
+
+II.- Formular y ejecutar los planes, programas y presupuestos correspondientes a su competencia, y cumplir las leyes y la normatividad que determinen el manejo de recursos económicos públicos;
+
+III.- Utilizar los recursos que tenga asignados y las facultades que le hayan sido atribuidas para el desempeño de su empleo, cargo o comisión, exclusivamente para los fines a que están afectos;
+
+IV.- Rendir cuentas sobre el ejercicio de las funciones que tenga conferidas y coadyuvar en la rendición de cuentas de la gestión pública federal, proporcionando la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes;
+
+V.- Custodiar y cuidar la documentación e información que por razón de su empleo, cargo o comisión, tenga bajo su responsabilidad, e impedir o evitar su uso, sustracción, destrucción, ocultamiento o inutilización indebidos;
+
+VI.- Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+
+VII.- Comunicar por escrito al titular de la dependencia o entidad en la que preste sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba y que pudiesen implicar violaciones a la Ley o a cualquier otra disposición jurídica o administrativa, a efecto de que el titular dicte las medidas que en derecho procedan, las cuales deberán ser notificadas al servidor público que emitió la orden y al interesado;
+
+VIII.- Abstenerse de ejercer las funciones de un empleo, cargo o comisión, por haber concluido el período para el cual se le designó, por haber sido cesado o por cualquier otra causa legal que se lo impida;
+
+IX.- Abstenerse de disponer o autorizar que un subordinado no asista sin causa justificada a sus labores, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones;
+
+X.- Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+XI.- Excusarse de intervenir, por motivo de su encargo, en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquéllos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos o por afinidad hasta el cuarto grado, o parientes civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+
+El servidor público deberá informar por escrito al jefe inmediato sobre la atención, trámite o resolución de los asuntos a que hace referencia el párrafo anterior y que sean de su conocimiento, y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+
+XII.- Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, bienes muebles o inmuebles mediante enajenación en precio notoriamente inferior al que tenga en el mercado ordinario, donaciones, servicios, empleos, cargos o comisiones para sí, o para las personas a que se refiere la fracción XI de este artículo, que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión.
+
+Habrá intereses en conflicto cuando los intereses personales, familiares o de negocios del servidor público puedan afectar el desempeño imparcial de su empleo, cargo o comisión.
+
+Una vez concluido el empleo, cargo o comisión, el servidor público deberá observar, para evitar incurrir en intereses en conflicto, lo dispuesto en el artículo 9 de la Ley;
+
+XIII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XI;
+
+XIV.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese, rescisión del contrato o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la fracción XI;
+
+XV.- Presentar con oportunidad y veracidad las declaraciones de situación patrimonial, en los términos establecidos por la Ley;
+
+XVI.- Atender con diligencia las instrucciones, requerimientos o resoluciones que reciba de la Secretaría, del contralor interno o de los titulares de las áreas de auditoría, de quejas y de responsabilidades, conforme a la competencia de éstos;
+
+XVII.- Supervisar que los servidores públicos sujetos a su dirección, cumplan con las disposiciones de este artículo;
+
+XVIII.- Denunciar por escrito ante la Secretaría o la contraloría interna, los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda constituir responsabilidad administrativa en los términos de la Ley y demás disposiciones aplicables;
+
+XIX.- Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos;
+
+XX.- Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar la celebración de pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+XXI.- Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos con el fin de evitar la formulación o presentación de denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de quienes las formulen o presenten;
+
+XXII.- Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción XI;
+
+XXIII.- Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XI, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión, y
+
+XXIV.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición legal, reglamentaria o administrativa relacionada con el servicio público.
+
+El incumplimiento a lo dispuesto en el presente artículo dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de las normas específicas que al respecto rijan en el servicio de las fuerzas armadas.
+
+###### ARTICULO 9.
+
+El servidor público que deje de desempeñar su empleo, cargo o comisión deberá observar, hasta un año después de haber concluido sus funciones, lo siguiente:
+
+a) En ningún caso aprovechará su influencia u obtendrá alguna ventaja derivada de la función que desempeñaba, para sí o para las personas a que se refiere la fracción XI del artículo anterior;
+
+b) No usar en provecho propio o de terceros, la información o documentación a la que haya tenido acceso en su empleo, cargo o comisión y que no sea del dominio público, y
+
+c) Los servidores públicos que se hayan desempeñado en cargos de Dirección en el Instituto Federal Electoral, sus Consejeros, y los Magistrados del Tribunal Electoral del Poder Judicial de la Federación, se abstendrán de participar en cualquier encargo público de la administración encabezada por quien haya ganado la elección que ellos organizaron o calificaron.
+
+### CAPITULO II. Quejas o Denuncias, Sanciones Administrativas y Procedimientos para aplicarlas
+
+###### ARTICULO 10.
+
+En las dependencias y entidades se establecerán unidades específicas, a las que el público tenga fácil acceso, para que cualquier interesado pueda presentar quejas o denuncias por incumplimiento de las obligaciones de los servidores públicos.
+
+Las quejas o denuncias deberán contener datos o indicios que permitan advertir la presunta responsabilidad del servidor público.
+
+La Secretaría establecerá las normas y procedimientos para que las quejas o denuncias del público sean atendidas y resueltas con eficiencia.
+
+###### ARTICULO 11.
+
+Las autoridades a que se refieren las fracciones I, II y IV a X del artículo 3, conforme a la legislación respectiva, y por lo que hace a su competencia, establecerán los órganos y sistemas para identificar, investigar y determinar las responsabilidades derivadas del incumplimiento de las obligaciones establecidas en el artículo 8, así como para imponer las sanciones previstas en el presente Capítulo.
+
+###### ARTICULO 12.
+
+Los servidores públicos de la Secretaría que incurran en responsabilidad por incumplimiento de las obligaciones establecidas en el artículo 8, serán sancionados conforme al presente Capítulo por la contraloría interna de dicha Secretaría. El titular de esta contraloría será designado por el Presidente de la República y sólo será responsable administrativamente ante él.
+
+###### ARTICULO 13.
+
+Las sanciones por falta administrativa consistirán en:
+
+I.- Amonestación privada o pública;
+
+II.- Suspensión del empleo, cargo o comisión por un período no menor de tres días ni mayor a un año;
+
+III.- Destitución del puesto;
+
+IV.- Sanción económica, e
+
+V.- Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Cuando no se cause daños o perjuicios, ni exista beneficio o lucro alguno, se impondrán de seis meses a un año de inhabilitación.
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficio o lucro, o cause daños o perjuicios, será de un año hasta diez años si el monto de aquéllos no excede de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+
+En el caso de infracciones graves se impondrá, además, la sanción de destitución.
+
+En todo caso, se considerará infracción grave el incumplimiento a las obligaciones previstas en las fracciones VIII, X a XIV, XVI, XIX, XXII y XXIII del artículo 8 de la Ley.
+
+Para que una persona que hubiere sido inhabilitada en los términos de la Ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría, en forma razonada y justificada, de tal circunstancia.
+
+La contravención a lo dispuesto por el párrafo que antecede será causa de responsabilidad administrativa en los términos de la Ley, quedando sin efectos el nombramiento o contrato que en su caso se haya realizado.
+
+###### ARTICULO 14.
+
+Para la imposición de las sanciones administrativas se tomarán en cuenta los elementos propios del empleo, cargo o comisión que desempeñaba el servidor público cuando incurrió en la falta, que a continuación se refieren:
+
+I.- La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan, en cualquier forma, las disposiciones de la Ley o las que se dicten con base en ella;
+
+II.- Las circunstancias socioeconómicas del servidor público;
+
+III.- El nivel jerárquico y los antecedentes del infractor, entre ellos la antigüedad en el servicio;
+
+IV.- Las condiciones exteriores y los medios de ejecución;
+
+V.- La reincidencia en el incumplimiento de obligaciones, y
+
+VI.- El monto del beneficio, lucro, o daño o perjuicio derivado del incumplimiento de obligaciones.
+
+Para los efectos de la Ley, se considerará reincidente al servidor público que habiendo sido declarado responsable del incumplimiento a alguna de las obligaciones a que se refiere el artículo 8 de la Ley, incurra nuevamente en una o varias conductas infractoras a dicho precepto legal.
+
+###### ARTICULO 15.
+
+Procede la imposición de sanciones económicas cuando por el incumplimiento de las obligaciones establecidas en el artículo 8 de la Ley, se produzcan beneficios o lucro, o se causen daños o perjuicios, las cuales podrán ser de hasta tres tantos de los beneficios o lucro obtenidos o de los daños o perjuicios causados.
+
+En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios o lucro obtenidos o de los daños o perjuicios causados.
+
+El monto de la sanción económica impuesta se actualizará, para efectos de su pago, en la forma y términos que establece el Código Fiscal de la Federación, en tratándose de contribuciones y aprovechamientos.
+
+Para los efectos de la Ley se entenderá por salario mínimo mensual, el equivalente a treinta veces el salario mínimo general diario vigente en el Distrito Federal.
+
+###### ARTICULO 16.
+
+Para la imposición de las sanciones a que hace referencia el artículo 13 se observarán las siguientes reglas:
+
+I.- La amonestación pública o privada a los servidores públicos será impuesta por la Secretaría, el contralor interno o el titular del área de responsabilidades y ejecutada por el jefe inmediato;
+
+II.- La suspensión o la destitución del puesto de los servidores públicos, serán impuestas por la Secretaría, el contralor interno o el titular del área de responsabilidades y ejecutadas por el titular de la dependencia o entidad correspondiente;
+
+III.- La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será impuesta por la Secretaría, el contralor interno o el titular del área de responsabilidades, y ejecutada en los términos de la resolución dictada, y
+
+IV.- Las sanciones económicas serán impuestas por la Secretaría, el contralor interno o el titular del área de responsabilidades, y ejecutadas por la Tesorería de la Federación.
+
+Cuando los presuntos responsables desaparezcan o exista riesgo inminente de que oculten, enajenen o dilapiden sus bienes a juicio de la Secretaría, del contralor interno o del titular del área de responsabilidades, se solicitará a la Tesorería de la Federación, en cualquier fase del procedimiento administrativo a que se refiere el artículo 21 de la Ley, proceda al embargo precautorio de sus bienes, a fin de garantizar el cobro de las sanciones económicas que llegaren a imponerse con motivo de la infracción cometida. Impuesta la sanción económica, el embargo precautorio se convertirá en definitivo y se procederá en los términos del tercer párrafo del artículo 30 de la Ley.
+
+El incumplimiento a lo dispuesto en este artículo por parte del jefe inmediato, del titular de la dependencia o entidad correspondiente o de los servidores públicos de la Tesorería de la Federación, será causa de responsabilidad administrativa en los términos de la Ley.
+
+###### ARTICULO 17.
+
+La Secretaría impondrá las sanciones correspondientes a los contralores internos y a los titulares de las áreas de auditoría, de quejas y de responsabilidades cuando se abstengan injustificadamente de investigar o sancionar a los infractores, o que al hacerlo no se ajusten a las disposiciones jurídicas o administrativas aplicables, así como cuando incurran en actos u omisiones que impliquen responsabilidad administrativa.
+
+###### ARTICULO 18.
+
+Cuando por la naturaleza de los hechos denunciados o la gravedad de las presuntas infracciones la Secretaría estime que ella debe instruir el procedimiento disciplinario, requerirá al contralor interno, al titular del área de responsabilidades o al titular del área de quejas el envío del expediente respectivo, e impondrá, en su caso, las sanciones administrativas correspondientes.
+
+###### ARTICULO 19.
+
+Si la Secretaría o el contralor interno tuvieran conocimiento de hechos que impliquen responsabilidad penal, deberán denunciarlos ante el Ministerio Público o, en su caso, instar al área jurídica de la dependencia o entidad respectiva a que formule las querellas a que hubiere lugar, cuando así se requiera.
+
+###### ARTICULO 20.
+
+Para el cumplimiento de sus atribuciones, la Secretaría, el contralor interno o los titulares de las áreas de auditoría, de quejas y de responsabilidades, llevarán a cabo investigaciones debidamente motivadas o auditorías respecto de las conductas de los servidores públicos que puedan constituir responsabilidades administrativas, para lo cual éstos, las dependencias o entidades deberán proporcionar la información y documentación que les sean requeridas.
+
+La Secretaría o el contralor interno podrán comprobar el cumplimiento de las obligaciones de los servidores públicos a través de operativos específicos de verificación, en los que participen en su caso los particulares que reúnan los requisitos que aquélla establezca.
+
+###### ARTICULO 21.
+
+La Secretaría, el contralor interno o el titular del área de responsabilidades impondrán las sanciones administrativas a que se refiere este Capítulo mediante el siguiente procedimiento:
+
+I.- Citará al presunto responsable a una audiencia, notificándole que deberá comparecer personalmente a rendir su declaración en torno a los hechos que se le imputen y que puedan ser causa de responsabilidad en los términos de la Ley, y demás disposiciones aplicables.
+
+En la notificación deberá expresarse el lugar, día y hora en que tendrá verificativo la audiencia; la autoridad ante la cual se desarrollará ésta; los actos u omisiones que se le imputen al servidor público y el derecho de éste a comparecer asistido de un defensor.
+
+Hecha la notificación, si el servidor público deja de comparecer sin causa justificada, se tendrán por ciertos los actos u omisiones que se le imputan.
+
+La notificación a que se refiere esta fracción se practicará de manera personal al presunto responsable.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles;
+
+II.- Concluida la audiencia, se concederá al presunto responsable un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen;
+
+III.- Desahogadas las pruebas que fueren admitidas, la Secretaría, el contralor interno o el titular del área de responsabilidades resolverán dentro de los cuarenta y cinco días hábiles siguientes sobre la inexistencia de responsabilidad o impondrá al infractor las sanciones administrativas correspondientes y le notificará la resolución en un plazo no mayor de diez días hábiles. Dicha resolución, en su caso, se notificará para los efectos de su ejecución al jefe inmediato o al titular de la dependencia o entidad, según corresponda, en un plazo no mayor de diez días hábiles.
+
+La Secretaría, el contralor interno o el titular del área de responsabilidades podrán ampliar el plazo para dictar la resolución a que se refiere el párrafo anterior, por única vez, hasta por cuarenta y cinco días hábiles, cuando exista causa justificada a juicio de las propias autoridades;
+
+IV.- Durante la sustanciación del procedimiento la Secretaría, el contralor interno o el titular del área de responsabilidades, podrán practicar todas las diligencias tendientes a investigar la presunta responsabilidad del servidor público denunciado, así como requerir a éste y a las dependencias o entidades involucradas la información y documentación que se relacione con la presunta responsabilidad, estando obligadas éstas a proporcionarlas de manera oportuna.
+
+Si las autoridades encontraran que no cuentan con elementos suficientes para resolver o advirtieran datos o información que impliquen nueva responsabilidad administrativa a cargo del presunto responsable o de otros servidores públicos, podrán disponer la práctica de otras diligencias o citar para otra u otras audiencias, y
+
+V.- Previa o posteriormente al citatorio al presunto responsable, la Secretaría, el contralor interno o el titular del área de responsabilidades podrán determinar la suspensión temporal de su empleo, cargo o comisión, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga sobre la responsabilidad que se le impute. La determinación de la Secretaría, del contralor interno o del titular del área de responsabilidades hará constar expresamente esta salvedad.
+
+La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado.
+
+La suspensión cesará cuando así lo resuelva la Secretaría, el contralor interno o el titular del área de responsabilidades, independientemente de la iniciación o continuación del procedimiento a que se refiere el presente artículo en relación con la presunta responsabilidad del servidor público. En todos los casos, la suspensión cesará cuando se dicte la resolución en el procedimiento correspondiente.
+
+En el supuesto de que el servidor público suspendido temporalmente no resultare responsable de los hechos que se le imputan, la dependencia o entidad donde preste sus servicios lo restituirán en el goce de sus derechos y le cubrirán las percepciones que debió recibir durante el tiempo en que se halló suspendido.
+
+Se requerirá autorización del Presidente de la República para dicha suspensión si el nombramiento del servidor público de que se trate incumbe al Titular del Poder Ejecutivo. Igualmente, se requerirá autorización de la Cámara de Senadores, o en su caso de la Comisión Permanente, si dicho nombramiento requirió ratificación de aquélla en los términos de la Constitución Política de los Estados Unidos Mexicanos.
+
+En caso de que la Secretaría, por cualquier medio masivo de comunicación, difundiera la suspensión del servidor público, y si la resolución definitiva del procedimiento fuere de no responsabilidad, esta circunstancia deberá hacerse pública por la propia Secretaría.
+
+###### ARTICULO 22.
+
+En los lugares en los que no residan los contralores internos o los titulares de las áreas de quejas y de responsabilidades, los servidores públicos de las dependencias o entidades que residan en dichos lugares, practicarán las notificaciones o citaciones que en su auxilio aquéllos les encomienden mediante comunicación escrita.
+
+En dicha comunicación deberá señalarse expresamente la diligencia cuya práctica se solicita; los datos de identificación y localización del servidor público respectivo, y el plazo en el cual deberá efectuarse aquélla, así como acompañarse de la documentación correspondiente.
+
+El incumplimiento de lo anterior por parte de los servidores públicos de las dependencias o entidades a los que se les solicite el auxilio a que se refiere este artículo, será causa de responsabilidad administrativa en los términos de la Ley.
+
+###### ARTICULO 23.
+
+Se levantará acta circunstanciada de todas las diligencias que se practiquen, teniendo la obligación de suscribirla quienes intervengan en ella, si se negaren a hacerlo se asentará dicha circunstancia en el acta. Asimismo, se les apercibirá de las penas en que incurren quienes falten a la verdad.
+
+###### ARTICULO 24.
+
+Las resoluciones y acuerdos de la Secretaría, del contralor interno o del titular del área de responsabilidades durante el procedimiento a que se refiere este Capítulo constarán por escrito.
+
+Las sanciones impuestas se asentarán en el registro a que se refiere el artículo 40 de la Ley.
+
+###### ARTICULO 25.
+
+Los servidores públicos que resulten responsables en los términos de las resoluciones administrativas que se dicten conforme a lo dispuesto por la Ley, podrán optar entre interponer el recurso de revocación o impugnarlas directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+
+Las resoluciones que se dicten en el recurso de revocación serán también impugnables ante el Tribunal Federal de Justicia Fiscal y Administrativa.
+
+###### ARTICULO 26.
+
+El recurso de revocación se interpondrá ante la propia autoridad que emitió la resolución, dentro de los quince días hábiles siguientes a la fecha en que surta efectos la notificación respectiva.
+
+La tramitación del recurso se sujetará a las normas siguientes:
+
+I.- Se iniciará mediante escrito en el que deberán expresarse los agravios que a juicio del servidor público le cause la resolución, así como el ofrecimiento de las pruebas que considere necesario rendir;
+
+II.- La autoridad acordará sobre la admisibilidad del recurso y de las pruebas ofrecidas, desechando de plano las que no fuesen idóneas para desvirtuar los hechos en que se base la resolución, y
+
+III.- Desahogadas las pruebas, si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
+
+###### ARTICULO 27.
+
+La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, conforme a estas reglas:
+
+I.- En tratándose de sanciones económicas, si el pago de éstas se garantiza en los términos que prevenga el Código Fiscal de la Federación, y
+
+II.- En tratándose de otras sanciones, se concederá la suspensión si concurren los siguientes requisitos:
+
+a) Que se admita el recurso;
+
+b) Que la ejecución de la resolución recurrida produzca daños o perjuicios de difícil reparación en contra del recurrente, y
+
+c) Que la suspensión no traiga como consecuencia la consumación o continuación de actos u omisiones que impliquen perjuicios al interés social o al servicio público.
+
+###### ARTICULO 28.
+
+En los juicios ante el Tribunal Federal de Justicia Fiscal y Administrativa, en los que se impugnen las resoluciones administrativas dictadas conforme a la Ley, las sentencias firmes que se pronuncien tendrán el efecto de revocar, confirmar o modificar la resolución impugnada. En el caso de ser revocada o de que la modificación así lo disponga, se ordenará a la dependencia o entidad en la que el servidor público preste o haya prestado sus servicios, lo restituya en el goce de los derechos de que hubiese sido privado por la ejecución de las sanciones impugnadas, en los términos de la sentencia respectiva, sin perjuicio de lo que establecen otras leyes.
+
+El Tribunal Federal de Justicia Fiscal y Administrativa podrá otorgar la suspensión cumpliendo los requisitos a que se refiere el artículo anterior.
+
+No procederá la suspensión de la ejecución de las resoluciones administrativas que se impugnen mediante la interposición del recurso o ante el Tribunal Federal de Justicia Fiscal y Administrativa, en tratándose de infracciones graves o casos de reincidencia.
+
+###### ARTICULO 29.
+
+Las resoluciones que dicte el Tribunal Federal de Justicia Fiscal y Administrativa podrán ser impugnadas por la Secretaría, el contralor interno o el titular del área de responsabilidades, según corresponda.
+
+###### ARTICULO 30.
+
+La ejecución de las sanciones administrativas se llevará a cabo de inmediato, una vez que sean impuestas por la Secretaría, el contralor interno o el titular del área de responsabilidades, y conforme se disponga en la resolución respectiva.
+
+Tratándose de los servidores públicos de base, la suspensión y la destitución se ejecutarán por el titular de la dependencia o entidad correspondiente, conforme a las causales de suspensión, cesación del cargo o rescisión de la relación de trabajo y de acuerdo a los procedimientos previstos en la legislación aplicable.
+
+Las sanciones económicas que se impongan constituirán créditos fiscales a favor del Erario Federal, se harán efectivas mediante el procedimiento administrativo de ejecución, tendrán la prelación prevista para dichos créditos y se sujetarán en todo a las disposiciones fiscales aplicables.
+
+###### ARTICULO 31.
+
+Si el servidor público presunto responsable confesare su responsabilidad por el incumplimiento de las obligaciones a que hace referencia la Ley, se procederá de inmediato a dictar resolución, a no ser que quien conoce del procedimiento disponga la recepción de pruebas para acreditar la veracidad de la confesión. En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al servidor público dos tercios de la sanción aplicable, si es de naturaleza económica, pero en lo que respecta a indemnización, ésta en todo caso deberá ser suficiente para cubrir los daños o perjuicios causados, y siempre deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción. Quedará a juicio de quien resuelve disponer o no la suspensión, destitución o inhabilitación.
+
+###### ARTICULO 32.
+
+Para el cumplimiento de las atribuciones que les confiere la Ley, la Secretaría, el contralor interno o los titulares de las áreas de auditoría, de quejas y de responsabilidades, podrán emplear los siguientes medios de apremio:
+
+I.- Multa de hasta veinte veces el salario mínimo general diario vigente en el Distrito Federal, y
+
+II.- Auxilio de la fuerza pública.
+
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo que prevenga la legislación penal.
+
+###### ARTICULO 33.
+
+Cuando en el procedimiento administrativo disciplinario se haya determinado la responsabilidad del servidor público y ésta haya causado daños o perjuicios a los particulares, éstos podrán acudir ante la Secretaría o el contralor interno respectivo para que elaboren el dictamen correspondiente que comunicarán a la dependencia o entidad en la que el infractor se encuentre adscrito, para que éstas, si así lo determinan, reconozcan la responsabilidad de indemnizar la reparación de los daños y perjuicios en cantidad líquida y ordenen su pago, sin necesidad de que acudan a la instancia judicial o a cualquier otra.
+
+Lo anterior, sin perjuicio de que el particular acuda directamente ante la dependencia o entidad en la que el servidor público desempeñe su empleo, cargo o comisión para que éstas resuelvan lo conducente.
+
+Si la dependencia o entidad determina que no ha lugar a indemnizar o si el monto no satisface al reclamante, se tendrán expeditas, a su elección, las vías jurisdiccionales correspondientes.
+
+Cuando se haya aceptado una recomendación de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos, en la que se proponga la reparación de daños o perjuicios, la dependencia o entidad se limitará a su determinación en cantidad líquida y a emitir la orden de pago respectiva.
+
+El Estado podrá repetir de los servidores públicos el pago de la indemnización hecha a los particulares.
+
+###### ARTICULO 34.
+
+Las facultades de la Secretaría, del contralor interno o del titular del área de responsabilidades, para imponer las sanciones que la Ley prevé prescribirán en tres años, contados a partir del día siguiente al en que se hubieren cometido las infracciones, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
+
+En tratándose de infracciones graves el plazo de prescripción será de cinco años, que se contará en los términos del párrafo anterior.
+
+La prescripción se interrumpirá al iniciarse los procedimientos previstos por la Ley. Si se dejare de actuar en ellos, la prescripción empezará a correr nuevamente desde el día siguiente al en que se hubiere practicado el último acto procedimental o realizado la última promoción.
+
+El derecho de los particulares a solicitar la indemnización de daños o perjuicios prescribirá en dos años, contados a partir de la notificación de la resolución administrativa que haya declarado cometida la falta administrativa.
+
+## TITULO TERCERO
+
+### CAPITULO UNICO. Registro Patrimonial de los Servidores Públicos
+
+###### ARTICULO 35.
+
+La Secretaría llevará el registro y seguimiento de la evolución de la situación patrimonial de los servidores públicos de las dependencias y entidades, así como de las autoridades a que se refieren las fracciones IV y V del artículo 3, en los términos de la Ley y demás disposiciones aplicables.
+
+Las atribuciones que este Título otorga a la Secretaría se confieren a las autoridades a que aluden las fracciones I, II y VI a X del artículo 3, en el ámbito de sus respectivas competencias, conforme a la Ley y demás disposiciones aplicables.
+
+Para los efectos del párrafo que antecede, las citadas autoridades conforme a su propia legislación, determinarán los órganos encargados de ejercer dichas atribuciones, así como los sistemas que se requieran para tal propósito.
+
+###### ARTICULO 36.
+
+Tienen obligación de presentar declaraciones de situación patrimonial, ante la autoridad competente, conforme a lo dispuesto por el artículo 35, bajo protesta de decir verdad, en los términos que la Ley señala:
+
+I.- En el Congreso de la Unión: Diputados y Senadores, Secretarios Generales, Tesoreros y Directores de las Cámaras;
+
+II.- En la Administración Pública Federal Centralizada: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Presidente de la República, y los previstos en las fracciones IV, VII y XIII de este artículo;
+
+III.- En la Administración Pública Federal Paraestatal: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo, o equivalente al de los servidores públicos obligados a declarar en el Poder Ejecutivo Federal hasta el de Director General o equivalente;
+
+IV.- En la Procuraduría General de la República: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Procurador General, incluyendo agentes del Ministerio Público, Peritos e integrantes de la Policía Judicial;
+
+V.- En el Poder Judicial de la Federación: Ministros de la Suprema Corte de Justicia de la Nación, Consejeros de la Judicatura Federal, Magistrados de Circuito, Magistrados Electorales, Jueces de Distrito, secretarios y actuarios de cualquier categoría o designación;
+
+VI.- En el Tribunal Federal de Justicia Fiscal y Administrativa, y en los tribunales de trabajo y agrarios: Magistrados, miembros de junta, Secretarios, Actuarios o sus equivalentes;
+
+VII.- En la Secretaría: Todos los servidores públicos de confianza;
+
+VIII.- En el Instituto Federal Electoral: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Consejero Presidente;
+
+IX.- En la Auditoría Superior de la Federación: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de Auditor Superior de la Federación;
+
+X.- En la Comisión Nacional de los Derechos Humanos: Todos los servidores públicos desde el nivel de jefe de departamento u homólogo hasta el de Presidente de la Comisión;
+
+XI.- En los demás órganos jurisdiccionales e instituciones que determinen las leyes: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el de los titulares de aquéllos;
+
+XII.- Todos los servidores públicos que manejen o apliquen recursos económicos, valores y fondos de la Federación; realicen actividades de inspección o vigilancia; lleven a cabo funciones de calificación o determinación para la expedición de licencias, permisos o concesiones, y quienes intervengan en la adjudicación de pedidos o contratos;
+
+XIII.- En la Secretaría de Seguridad Pública: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo hasta el Secretario de Seguridad Pública, incluyendo a todos los miembros de la Policía Federal Preventiva, y
+
+XIV.- En el Banco de México: Todos los servidores públicos, desde el nivel de jefe de departamento u homólogo en la Administración Pública Federal Centralizada hasta el de Gobernador.
+
+Asimismo, deberán presentar las declaraciones a que se refiere este artículo, los demás servidores públicos de las dependencias, entidades y, de las autoridades a que se refieren las fracciones IV y V del artículo 3 de la Ley, que determine el Titular de la Secretaría, mediante disposiciones generales debidamente motivadas y fundadas.
+
+###### ARTICULO 37.
+
+La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
+
+I.- Declaración inicial, dentro de los sesenta días naturales siguientes a la toma de posesión con motivo del:
+
+a) Ingreso al servicio público por primera vez;
+
+b) Reingreso al servicio público después de sesenta días naturales de la conclusión de su último encargo;
+
+c) Cambio de dependencia o entidad, en cuyo caso no se presentará la de conclusión.
+
+II.- Declaración de conclusión del encargo, dentro de los sesenta días naturales siguientes a la conclusión, y
+
+III.- Declaración de modificación patrimonial, durante el mes de mayo de cada año.
+
+La Secretaría podrá solicitar a los servidores públicos una copia de la declaración del Impuesto Sobre la Renta del año que corresponda, si éstos estuvieren obligados a formularla o, en su caso, de la constancia de percepciones y descuentos que les hubieren emitido las dependencias o entidades, la cual deberá ser remitida en un plazo de tres días hábiles a partir de la fecha en que se reciba la solicitud.
+
+Si transcurrido el plazo a que hace referencia la fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, se suspenderá al infractor de su empleo, cargo o comisión por un período de quince días naturales.
+
+En caso de que la omisión en la declaración continúe por un período de treinta días naturales siguientes a la fecha en que hubiere sido suspendido el servidor público, la Secretaría declarará que el nombramiento o contrato ha quedado sin efectos, debiendo notificar lo anterior al titular de la dependencia o entidad correspondiente para los fines procedentes. Lo mismo ocurrirá cuando se omita la declaración a que alude la fracción III.
+
+El incumplimiento a lo previsto en el párrafo anterior, por parte del titular de la dependencia o entidad, será causa de responsabilidad administrativa en los términos de Ley.
+
+Para el caso de omisión, sin causa justificada, en la presentación de la declaración a que se refiere la fracción II, se inhabilitará al infractor por un año.
+
+En la imposición de las sanciones a que se refiere este artículo deberá sustanciarse el procedimiento administrativo previsto en el artículo 21 de la Ley.
+
+El servidor público que en su declaración de situación patrimonial deliberadamente faltare a la verdad en relación con lo que es obligatorio manifestar en términos de la Ley, previa sustanciación del procedimiento a que se refiere el artículo 21, será suspendido de su empleo, cargo o comisión por un período no menor de tres días ni mayor de tres meses, y cuando por su importancia lo amerite, destituido e inhabilitado de uno a cinco años, sin perjuicio de que la Secretaría formule la denuncia correspondiente ante el Ministerio Público para los efectos legales procedentes.
+
+###### ARTICULO 38.
+
+Las declaraciones de situación patrimonial podrán ser presentadas a través de formatos impresos; de medios magnéticos con formato impreso o de medios remotos de comunicación electrónica, empleándose en este último caso medios de identificación electrónica.
+
+La Secretaría tendrá a su cargo el sistema de certificación de los medios de identificación electrónica que utilicen los servidores públicos, y llevará el control de dichos medios.
+
+Asimismo, la Secretaría expedirá las normas y los formatos impresos; de medios magnéticos y electrónicos, bajo los cuales los servidores públicos deberán presentar las declaraciones de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar. De igual modo, podrá determinar que la presentación de las declaraciones por medios remotos de comunicación electrónica, sea obligatoria para los servidores públicos o categorías que determine.
+
+Para los efectos de los procedimientos penales que se deriven de la aplicación de las disposiciones del presente Título, son documentos públicos aquellos que emita la Secretaría para ser presentados como medios de prueba, en los cuales se contenga la información que obre en sus archivos documentales y electrónicos sobre las declaraciones de situación patrimonial de los servidores públicos.
+
+###### ARTICULO 39.
+
+En las declaraciones inicial y de conclusión del encargo se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+
+En las declaraciones de modificación patrimonial se manifestarán sólo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
+
+Tratándose de bienes muebles, la Secretaría determinará las características que deba tener la declaración.
+
+###### ARTICULO 40.
+
+La Secretaría llevará un registro de servidores públicos, el cual tendrá el carácter de público.
+
+En el registro se inscribirán los datos curriculares de los servidores públicos obligados a presentar declaración de situación patrimonial, sus funciones, ingresos y reconocimientos con motivo de sus empleos, cargos o comisiones; la información relativa a su situación patrimonial, en lo referente a sus ingresos del último año, bienes muebles e inmuebles, inversiones financieras y adeudos, así como en su caso los procedimientos administrativos instaurados y las sanciones impuestas a aquéllos.
+
+La publicitación de la información relativa a la situación patrimonial, se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
+
+La Secretaría expedirá las normas para la operación del registro y las constancias de sanciones, en todo caso la de inhabilitación, así como de no existencia de estas sanciones, que acrediten la situación específica de las personas que, en su caso, las requieran.
+
+Las dependencias y entidades invariablemente obtendrán la constancia de no inhabilitación de quienes pretendan ingresar al servicio público, previo al nombramiento o contratación respectivos. Dichas constancias podrán obtenerse del sistema electrónico que establezca la Secretaría.
+
+La información relativa a la situación patrimonial estará disponible hasta por un plazo de tres años posteriores a que el servidor público concluya su empleo, cargo o comisión.
+
+La información relacionada con las declaraciones de situación patrimonial de los servidores públicos, tendrá valor probatorio cuando lo solicite a la Secretaría el Ministerio Público o la autoridad judicial, en el ejercicio de sus respectivas atribuciones, el servidor público interesado o bien cuando la propia Secretaría lo requiera con motivo de la sustanciación de procedimientos administrativos de responsabilidades.
+
+###### ARTICULO 41.
+
+La Secretaría podrá llevar a cabo investigaciones o auditorías para verificar la evolución del patrimonio de los servidores públicos.
+
+Cuando existan elementos o datos suficientes que hagan presumir que el patrimonio de un servidor público es notoriamente superior a los ingresos lícitos que pudiera tener, la Secretaría, fundando y motivando su acuerdo, podrá citarlo para que manifieste lo que a su derecho convenga, en los términos del artículo siguiente.
+
+###### ARTICULO 42.
+
+Se citará personalmente al servidor público y se le harán saber los hechos que motiven la investigación, señalándole las incongruencias detectadas respecto de los bienes que integran su patrimonio, para que dentro del plazo de treinta días hábiles, contados a partir de la recepción del citatorio, formule a la Secretaría las aclaraciones pertinentes y ésta emita su resolución dentro de los quince días hábiles siguientes.
+
+Cuando no fuere posible entregar el citatorio, o cuando el servidor público o la persona con quien se entienda la notificación se negaren a firmar de recibido, el notificador hará constar dicha circunstancia en un acta que levantará ante dos testigos, sin que ello afecte el valor probatorio que en su caso posea este documento.
+
+Contra la práctica de la notificación respectiva, el servidor público podrá inconformarse ante la Secretaría, mediante escrito que deberá presentar dentro de los diez días hábiles siguientes a su realización, y dispondrá de un plazo igual para ofrecer las pruebas que a su derecho convenga.
+
+Una vez desahogadas las pruebas admitidas, si las hubiere, la Secretaría contará con un plazo de diez días hábiles para emitir su resolución.
+
+La facultad de la Secretaría para efectuar las investigaciones o auditorías a que se refiere el artículo anterior, subsistirá por todo el tiempo en que el servidor público desempeñe su empleo, cargo o comisión, y hasta tres años después de haberlo concluido.
+
+###### ARTICULO 43.
+
+Las dependencias, entidades e instituciones públicas estarán obligadas a proporcionar a la Secretaría, la información fiscal, inmobiliaria o de cualquier otro tipo, relacionada con los servidores públicos, sus cónyuges, concubinas o concubinarios y dependientes económicos directos, con la finalidad de que la autoridad verifique la evolución del patrimonio de aquéllos.
+
+Sólo el titular de la Secretaría o los Subsecretarios de la misma, en términos del párrafo anterior, podrán solicitar a la Comisión Nacional Bancaria y de Valores la información bancaria.
+
+###### ARTICULO 44.
+
+Para los efectos de la Ley y de la legislación penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge, concubina o concubinario y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servidor público.
+
+###### ARTICULO 45.
+
+Cuando los servidores públicos reciban, de una misma persona, algún bien o donación en los términos de la fracción XII del artículo 8 de la Ley, cuyo valor acumulado durante un año exceda de diez veces el salario mínimo general diario vigente en el Distrito Federal al momento de su recepción, deberán informarlo en un plazo no mayor a quince días hábiles a la autoridad que la Secretaría determine a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+
+###### ARTICULO 46.
+
+La Secretaría hará declaratoria al Ministerio Público, en su caso, cuando el sujeto a la verificación de la evolución de su patrimonio no justifique la procedencia lícita del incremento sustancial de éste, representado por sus bienes, los de las personas a que se refiere el artículo 43 de la Ley, y aquéllos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+
+Para los efectos de esta disposición, se considerará a la Secretaría coadyuvante del Ministerio Público en el procedimiento penal respectivo.
+
+###### ARTICULO 47.
+
+En todas las cuestiones relativas al procedimiento no previstas en los Títulos Segundo y Tercero de la Ley, así como en la apreciación de las pruebas, se observarán las disposiciones del Código Federal de Procedimientos Civiles.
+
+## TITULO CUARTO
+
+### CAPITULO UNICO. De las acciones preventivas para garantizar el adecuado ejercicio del servicio público
+
+###### ARTICULO 48.
+
+Para asegurar el cabal cumplimiento de los principios y obligaciones que la Ley impone a los servidores públicos, será responsabilidad de las dependencias y entidades, considerando las funciones que a cada una de ellas les corresponden y previo diagnóstico que al efecto realicen, establecer acciones permanentes para delimitar las conductas que en situaciones específicas deberán observar éstos en el desempeño de sus empleos, cargos o comisiones. Dicho diagnóstico deberá actualizarse conforme a los resultados que arroje la evaluación a que se refiere el artículo 50 de la Ley.
+
+En el establecimiento de las acciones referidas las dependencias y entidades deberán atender los lineamientos generales que emita la Secretaría.
+
+###### ARTICULO 49.
+
+La Secretaría, con sujeción a lo previsto en el artículo 48 de la Ley, emitirá un Código de Etica que contendrá reglas claras para que, en la actuación de los servidores públicos, impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando así una plena vocación de servicio público en beneficio de la colectividad.
+
+El Código de Etica a que se refiere el párrafo anterior, deberá hacerse del conocimiento de los servidores públicos de la dependencia o entidad de que se trate.
+
+###### ARTICULO 50.
+
+Las dependencias y entidades deberán evaluar anualmente el resultado de las acciones específicas que hayan establecido conforme a este Capítulo, y realizar, en su caso, las modificaciones que resulten procedentes, informando de ello a la Secretaría en los términos que ésta establezca.
+
+###### ARTICULO 51.
+
+Las dependencias y entidades deberán promover la participación de los sectores social y privado, así como en su caso, de los gobiernos estatales y municipales correspondientes, en la elaboración del diagnóstico a que se refiere el artículo 48 de la Ley, así como en la evaluación de las acciones que las mismas determinen, a efecto de garantizar la prevención de conductas indebidas de los servidores públicos.
+
+## TRANSITORIOS
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se derogan los Títulos Primero, por lo que se refiere a la materia de responsabilidades administrativas, Tercero y Cuarto de la Ley Federal de Responsabilidades de los Servidores Públicos, únicamente por lo que respecta al ámbito federal.
+
+Las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos seguirán aplicándose en dicha materia a los servidores públicos de los órganos ejecutivo, legislativo y judicial de carácter local del Distrito Federal.
+
+Artículo Tercero.- Con la salvedad a que se refiere el transitorio que antecede, se derogan todas aquellas disposiciones federales que se opongan a lo establecido en el presente ordenamiento.
+
+Artículo Cuarto.- Las autoridades a que se refiere el artículo 3 de esta Ley, que no cuenten con los órganos y sistemas previstos en los artículos 11 y 35, dispondrán para su establecimiento de un plazo que no excederá de sesenta días naturales, contados a partir de la entrada en vigor de este ordenamiento, para lo cual realizarán las adecuaciones procedentes a sus reglamentos interiores, manuales de organización o disposiciones equivalentes.
+
+Artículo Quinto.- Los servidores públicos que deban presentar declaraciones de situación patrimonial en los términos de este ordenamiento legal y que no hayan estado obligados a presentarlas conforme a la ley que se deroga, dispondrán por única vez de un plazo de sesenta días naturales para presentar la declaración a que se refiere la fracción I del artículo 37 de esta Ley, contados a partir del día siguiente a que concluya el plazo señalado en el transitorio que antecede.
+
+Artículo Sexto.- Los procedimientos seguidos a servidores públicos federales que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de esta Ley, así como las resoluciones de fondo materia de los mismos, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento en que se iniciaron tales procedimientos.
+
+Las disposiciones de la Ley Federal de Responsabilidades de los Servidores Públicos vigentes hasta la entrada en vigor de la presente Ley seguirán aplicándose por los hechos realizados durante su vigencia.
+
+Artículo Séptimo.- Con el fin de actualizar la información patrimonial de los servidores públicos con que cuenta la Secretaría de Contraloría y Desarrollo Administrativo, en la declaración de modificación patrimonial a presentarse en el mes de mayo de 2002, por única vez, los servidores públicos deberán proporcionar la información que se indique en el formato que al efecto emita dicha Dependencia, el cual deberá ser dado a conocer de manera oportuna.
+
+Artículo Octavo.- La Secretaría deberá emitir, en un plazo no mayor a ciento veinte días hábiles, contados a partir de la entrada en vigor de este ordenamiento, el Código de Etica, en términos de lo dispuesto por el artículo 49 de la Ley.
+
+Artículo Noveno.- Las menciones que en otras leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal se hagan de la Ley Federal de Responsabilidades de los Servidores Públicos o en particular de alguno de sus preceptos, se entenderán referidas a esta Ley o a los artículos de este ordenamiento legal cuyo contenido coincida con los de la Ley que se deroga, con la salvedad que se establece en el transitorio segundo de esta Ley.
+
+México, D.F., a 15 de diciembre de 2001.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Diego Fernández de Cevallos Ramos, Presidente.- Dip. Adrián Rivera Pérez, Secretario.- Sen. María Lucero Saldaña Pérez, Secretaria.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de marzo de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
