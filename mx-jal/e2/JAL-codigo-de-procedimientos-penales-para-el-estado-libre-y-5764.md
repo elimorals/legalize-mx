@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-procedimientos-penales-para-el-estado-libre-y-5764"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-12-07"
-last_updated: "1998-08-29"
+last_updated: "1999-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE AGOSTO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1999.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el martes 7 de diciembre de 1982.
 
@@ -598,6 +598,10 @@ Si el inculpado estuviere presente, se le mostrarán los objetos recogidos para 
 Toda persona que tenga conocimiento de la comisión de un delito está obligada a denunciarlo al Ministerio Público y, en caso de urgencia, ante cualquier funcionario o agente de policía, los que darán cuenta inmediata al Ministerio Público.
 
 Todo funcionario o empleado público, que en el ejercicio de sus funciones tenga noticias de la existencia de un delito, está obligado a participarlo inmediatamente al Ministerio Público, transmitiéndole todos los comprobantes o datos que tuviese, para que proceda conforme a sus atribuciones.
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1999)</small>
+
+En tratándose de secuestro, el Ejecutivo del Estado recompensará a no más de tres personas no partícipes del delito, por cada caso de secuestro, con el importe de por lo menos doscientos salarios mínimos a cada una, cuando proporcionen la información veraz con pormenores que hagan posible evitar o impedir el secuestro o, producido éste, identifique a todos o algunos de los coautores de la comisión del delito, o consiga localizar a la víctima, en cuyo caso la autoridad ministerial proporcionará a los informantes la protección y vigilancia que corresponda.
 
 ###### Art. 89.
 
@@ -2221,9 +2225,9 @@ Tratándose de delitos que afecten la vida o la integridad corporal, el monto de
 
 Se califican como delitos graves y en su caso el inculpado no tendrá derecho al beneficio de la libertad provisional bajo caución, los previstos en los ordenamientos siguientes:
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 14 DE ENERO DE 1999)</small>
 
-I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; plagio o secuestro, artículo 194; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y robo de animales, artículo 240, párrafos primero y segundo cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242, artículo 243; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
+I. En el Código Penal: Evasión de presos, artículo 113, excepto cuando el activo sea un particular o no haya violencia en las cosas y en las personas; corrupción de menores, artículo 136, último párrafo; cohecho, artículo 147, tercer y cuarto párrafo; peculado, artículo 148, párrafo tercero y 149; enriquecimiento ilícito, artículo 153, fracción II; violación, artículo 175; violación equiparada, artículo 176; robo de infante, artículo 179, párrafo cuarto; tráfico de menores, artículo 179 bis, párrafo segundo; extorsión, artículo 189; extorsión agravada, artículo 189 bis; asalto, artículo 192; secuestro y delitos relacionados previstos en el artículo 194, primer párrafo y sus fracciones I, II y V; homicidio, artículos 213, 217 y 219; parricidio, artículo 223; instigación y ayuda al suicidio si la víctima fallece, artículo 224; infanticidio, artículo 226; aborto, artículo 228, penúltimo y último párrafo; robo equiparado, artículo 234, fracciones III y IV; robo cometido en los siguientes casos, artículo 235, fracción II; robo agravado, artículo 235 bis; artículo 236 bis, apartado a), fracciones II y III, apartado b), en su totalidad y apartado c), fracciones I, II, III; y robo de animales, artículo 240, párrafos primero y segundo cuando se cometa en dos o más cabezas de ganado o se trate de reincidentes sea cual fuere su número, artículo 241 bis, artículo 242, artículo 243; fraude previsto en el artículo 252, fracción XIX; la fracción IV del artículo 262; y delitos electorales, artículo 270 fracción III, 276 y 278; los ilícitos penales mencionados en el párrafo anterior, en grado de tentativa punible previsto en el artículo 52 y el continuado grave establecido en el artículo 55 bis, también se califican como delitos graves;
 
 II. En la Ley Estatal para Prevenir y Sancionar la Tortura: Tortura artículo 3º; y
 
@@ -3182,3 +3186,13 @@ P.O. 5 DE MARZO DE 1998
 P.O. 29 DE AGOSTO DE 1998.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE ENERO DE 1999.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico Oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO. Para los efectos de adecuación del orden jurídico, se deberán realizar las reformas y adiciones a las leyes que correspondan.
+
+CUARTO. Se ordena dar profusa difusión periódica al presente decreto en los medios de comunicación electrónicos y escritos de mayor cobertura, difusión y circulación en el Estado.
