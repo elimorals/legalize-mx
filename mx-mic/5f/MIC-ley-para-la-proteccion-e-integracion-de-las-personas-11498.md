@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-proteccion-e-integracion-de-las-personas-11498"
 country: "mx"
 rank: "ley"
 publication_date: "1997-10-06"
-last_updated: "1997-10-06"
+last_updated: "2004-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11498&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MIC"
 
 LEY PARA LA PROTECCION E INTEGRACION DE LAS PERSONAS DISCAPACITADAS EN EL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA PERSONAS CON DISCAPACIDAD EN EL ESTADO DE MICHOACAN DE OCAMPO PUBLICADA EN EL PERIODICO OFICIAL EL 24 DE DICIEMBRE DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Michoacán, el lunes 6 de octubre de 1997.
 
@@ -418,3 +420,27 @@ DIPUTADO PRESIDENTE.- ALFREDO ESQUIVEL RAMIREZ.- DIPUTADO SECRETARIO.- LEONEL VI
 En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, ciudad de Morelia, Michoacán, a los 20 veinte días del mes de agosto de 1997, mil novecientos noventa y siete.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VICTOR MANUEL TINOCO RUBI.- EL SECRETARIO DE GOBIERNO.- LIC. ANTONIO GARCIA TORRES. (Firmados).
+
+P.O. 24 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto abroga la Ley para la Protección e Integración de las Personas Discapacitadas en el Estado de Michoacán de Ocampo, publicada en el Periódico Oficial del Estado, a los 6 días del mes de octubre del año 1997.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del Estado, deberán de expedir los reglamentos y bandos, las normas urbanísticas y arquitectónicas para la eliminación de barreras u obstáculos a que se refiere el presente decreto, dentro de un plazo no mayor de 90 días naturales, contados a partir del día en que entre en vigor el presente decreto, además, el Honorable Congreso del Estado, podrá exhortar cuantas veces sea necesario, a los Ayuntamientos del Estado, para que acaten las disposiciones del presente Decreto.
+
+El Ejecutivo del Estado, dentro del mismo término, deberá expedir el Reglamento de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+La Comisión de valoración a que se refiere el Capítulo Tercero del Título Segundo del presente Decreto, deberá conformarse y entrar en funciones en un plazo de noventa días a partir de la vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Programa Estatal de Prevención y Atención para las Personas con Discapacidad, deberá elaborarse en los meses de noviembre y diciembre de cada año, debiéndose publicar en el mes de enero por 3 tres días consecutivos, en el Periódico Oficial del Estado.
