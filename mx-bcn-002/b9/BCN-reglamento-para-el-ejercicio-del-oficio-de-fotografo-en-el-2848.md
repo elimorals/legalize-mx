@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-ejercicio-del-oficio-de-fotografo-en-el-2848
 country: "mx"
 rank: "reglamento"
 publication_date: "1989-11-20"
-last_updated: "1989-11-20"
+last_updated: "2000-11-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO PARA EL EJERCICIO DEL OFICIO DE FOTOGRAFO EN EL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO PRIMERO TRANSITORIO DEL REGLAMENTO PARA EL EJERCICIO DEL COMERCIO, O DE OTRAS ACTIVIDADES EN LA VIA O BIENES PUBLICOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADO.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 20 de noviembre de 1989.
 
@@ -288,3 +290,31 @@ ING. MANUEL ALBERTO RAMOS RUBIO
 SECRETARIO DEL AYUNTAMIENTO.
 
 ( Rúbrica )
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE NOVIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+Se Abrogan: el Reglamento para el ejercicio del Comercio Ambulante, Oficios y Servicios al Público en Bienes y Vías Públicas del Municipio de Mexicali, Baja California, publicado en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, el día veinte de Noviembre de mil novecientos ochenta y nueve; el Reglamento para el Ejercicio del Oficio de Fotógrafo en el Municipio de Mexicali, Baja California, publicado en el mismo órgano de difusión oficial mencionado, el día 20 de noviembre de mil novecientos ochenta y nueve; y el Reglamento de Aseadores de Calzado para el Municipio de Mexicali, Baja California, publicado en el mismo Periódico Oficial el día 20 de febrero de mil novecientos sesenta y siete.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones contenidas en el Reglamento de Imagen Urbana para el Municipio de Mexicali, publicado el 12 de agosto de 1994 en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, relativas a la ocupación de la vía publica para el ejercicio de actividades comerciales y prestación de servicios, en lo que se contrapongan a las disposiciones del presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan las disposiciones reglamentarias municipales que se opongan al objeto y fines del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Los permisos para el ejercicio del comercio o la prestación de servicios en la vía o bienes públicos, que hubieren sido expedidos con anterioridad a la entrada en vigor del presente Reglamento, continuarán vigentes por el término que en los mismos se indique.
+
+En los mercados sobre ruedas que a la fecha de entrada en vigor del presente Reglamento, funcionen con más de cien permisionarios, no se reducirá el número de éstos, pero tampoco se otorgarán nuevos permisos.
+
+En las zonas restringidas a que se refiere el artículo 40 fracción I incisos a y b, del presente Reglamento, la autoridad municipal no expedirá nuevos permisos, por lo que en su caso, sólo revalidará los que se hubieren expedido con anterioridad a la entrada en vigor del presente Reglamento, que cumplan con las condiciones que en el mismo se determinan.
+
+###### ARTÍCULO QUINTO.
+
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
