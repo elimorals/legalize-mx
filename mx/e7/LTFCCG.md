@@ -4,7 +4,7 @@ identifier: "LTFCCG"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-30"
-last_updated: "2002-12-30"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26853&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LTFCCG"
 
 LEY DE TRANSPARENCIA Y DE FOMENTO A LA COMPETENCIA EN EL CREDITO GARANTIZADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Ley publicada en la Sección Tercera del Diario Oficial de la Federación, el lunes 30 de diciembre de 2002.
 
@@ -64,9 +64,13 @@ III. La legislación civil de la Entidad Federativa donde se realicen los actos 
 
 Para los efectos de esta Ley se entiende por:
 
-I. Costo Anual Total. El que, para efectos informativos, anualiza la totalidad de los costos directos inherentes al Crédito Garantizado que otorguen las Entidades, excluyendo las contribuciones federales y locales y los costos correspondientes a trámites y servicios prestados por terceros.
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-II. Crédito Garantizado. El crédito que otorguen las Entidades con garantía real, ya sea a través de hipoteca, prenda, caución bursátil, fideicomiso de garantía o de cualquier otra forma, destinado a la adquisición, construcción, remodelación o refinanciamiento relativo a bienes inmuebles. Para efectos de esta definición, las operaciones que realicen las Entidades sujetas a la modalidad de compraventa con reserva de dominio, arrendamiento con opción de compra, compraventa en abonos, sistemas de comercialización consistentes en la integración de grupos de consumidores que aporten sumas de dinero para ser administradas por un tercero, se equiparan al Crédito Garantizado y tendrán el mismo tratamiento que otorga la presente Ley.
+I. Costo Anual Total. El que, para efectos informativos, anualiza la totalidad de los costos directos inherentes al Crédito Garantizado que otorguen las Entidades, incluyendo los seguros que dichas Entidades exijan contratar y excluyendo las contribuciones federales y locales, así como los costos correspondientes a trámites y servicios prestados por terceros.
+
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+II. Crédito Garantizado. El crédito que otorguen las Entidades con garantía real, ya sea a través de hipoteca, prenda, caución bursátil, fideicomiso de garantía o de cualquier otra forma, destinado a la adquisición, construcción, remodelación o refinanciamiento relativo a bienes inmuebles. Para efectos de esta definición, las operaciones que realicen las Entidades sujetas a la modalidad de compraventa con reserva de dominio, arrendamiento con opción de compra, compraventa en abonos, se equiparan al Crédito Garantizado y tendrán el mismo tratamiento que otorga la presente Ley.
 
 III. Crédito Garantizado a la Vivienda. El Crédito Garantizado que se otorgue relacionado con vivienda.
 
@@ -142,7 +146,9 @@ III. La tasa de interés ordinaria, moratoria y el Costo Anual Total;
 
 IV. Comisiones aplicables;
 
-V. Aceptación expresa por parte de la Entidad que otorga el crédito, de que recibirá el pago adelantado del mismo por parte de cualquiera otra Entidad y le cederá todos sus derechos derivados del contrato correspondiente, así como la aceptación expresa de que admitirá la sustitución de deudor;
+> <small>(REFORMADA, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+V. Aceptación expresa por parte de la Entidad que otorga el crédito, de que recibirá el pago adelantado del mismo por parte de cualquiera otra Entidad y le cederá todos sus derechos derivados del contrato correspondiente, así como la aceptación expresa de que admitirá la sustitución de deudor, en términos de los artículos 13 y 14 de la presente Ley;
 
 VI. Gastos a cargo del acreditado;
 
@@ -200,9 +206,11 @@ III. Las demás que prevean las Reglas.
 
 Tasas de Interés e Índices de Referencia.
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### Artículo 10.
 
-Con el objeto de que los solicitantes de un crédito puedan llevar a cabo la comparación de las características y conocer los costos directos inherentes a los Créditos Garantizados a la Vivienda, las Entidades deberán incluir dentro de la información previa y en la oferta vinculante un Costo Anual Total para fines de información exclusivamente. El Banco de México actuando para estos efectos como órgano técnico, dará a conocer en el Diario Oficial de la Federación, los componentes, metodología de cálculo y periodicidad de Costo Anual Total, los que tendrán carácter informativo para las personas que contraten crédito con las Entidades. Al efecto, dichas Entidades colaborarán proporcionando la información que el Banco de México les solicite.
+Con el objeto de que los solicitantes de un crédito puedan llevar a cabo la comparación de las características y conocer los costos directos inherentes a los Créditos Garantizados a la Vivienda, las Entidades deberán incluir dentro de la información previa y en la oferta vinculante un Costo Anual Total para fines de información exclusivamente. El Banco de México y la Secretaría de Economía, actuando para estos efectos como órganos técnicos en el ámbito de sus respectivas competencias, darán a conocer en el Diario Oficial de la Federación, los componentes, metodología de cálculo y periodicidad de Costo Anual Total, los que tendrán carácter informativo para las personas que contraten crédito con las Entidades. Al efecto, dichas Entidades colaborarán proporcionando la información que el Banco de México, y en su caso la Secretaría de Economía, les soliciten.
 
 ###### Artículo 11.
 
@@ -216,13 +224,17 @@ En los estados de cuenta que las Entidades envíen al acreditado deberá incluir
 
 ### Capítulo I.-. Subrogación de Deudor
 
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
 ###### Artículo 13.
 
-Cuando se celebre la compraventa de un bien inmueble sobre la que recaiga un Crédito Garantizado que aún no haya sido amortizado en su totalidad, el comprador subrogará al Deudor en sus derechos y obligaciones, sin necesidad de que se constituya una nueva garantía, con el fin de evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente.
+Cuando se celebre la compraventa de un bien inmueble sobre la que recaiga un Crédito Garantizado que aún no haya sido amortizado en su totalidad, el comprador se podrá subrogar en los derechos y obligaciones del Deudor, sin necesidad de que se constituya una nueva garantía, con el fin de evitar que se dupliquen los gastos inherentes al Crédito, en perjuicio del adquirente. Lo anterior, siempre y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumplan con los demás requisitos y obligaciones que establece el artículo 6 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
 ###### Artículo 14.
 
-Cuando exista un Crédito Garantizado a un Desarrollador Inmobiliario con el fin de que éste construya bienes inmuebles para su posterior comercialización, los compradores podrán subrogarse en los derechos y obligaciones del Desarrollador Inmobiliario, individualizándose dicho crédito en la parte proporcional del mismo que corresponda a la parte o inmueble adquirido, sin necesidad de que se constituya una nueva garantía, con el propósito de que no se repercutan nuevos gastos en perjuicio del comprador.
+Cuando exista un Crédito Garantizado a un Desarrollador Inmobiliario con el fin de que éste construya bienes inmuebles para su posterior comercialización, los compradores podrán subrogarse en los derechos y obligaciones del Desarrollador Inmobiliario, individualizándose dicho crédito en la parte proporcional del mismo que corresponda a la parte o inmueble adquirido, sin necesidad de que se constituya una nueva garantía, con el propósito de que no se repercutan nuevos gastos en perjuicio del comprador. Lo anterior, siempre y cuando el comprador presente a la Entidad, una solicitud de crédito y se cumpla con los demás requisitos y obligaciones que establece el artículo 6 de la presente Ley.
 
 ### Capítulo II.-. Subrogación de Acreedor
 
@@ -254,12 +266,20 @@ A efecto de lograr plenamente el objetivo de disminuir los costos de transacció
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor el 1o. de enero de 2003.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
-SEGUNDO. La Secretaría de Hacienda y Crédito Público, el Banco de México y la Comisión Nacional Bancaria y de Valores deberán publicar, en un término que no exceda de seis meses a partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir.
+PRIMERO. La presente Ley entrará en vigor el 1o. de enero de 2003. Lo dispuesto en la Ley no aplicará a los créditos contratados con anterioridad a su entrada en vigor.
 
-En tanto se publican dichas Reglas, las Entidades deberán ofrecer un listado de valuadores al acreditado, con el objeto de que éste se encuentre en posibilidad de elegir un perito valuador.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+SEGUNDO. La Secretaría de Hacienda y Crédito Público, la Secretaría de Economía, el Banco de México y la Sociedad Hipotecaria Federal deberán publicar, en un término que no exceda de seis meses a partir de la entrada en vigor de la presente Ley, las disposiciones que a cada una corresponda expedir. En tanto la Sociedad Hipotecaria Federal publica las reglas a que se refiere el artículo 7 de esta Ley, las Entidades deberán ofrecer un listado de valuadores al acreditado, con el objeto de que éste se encuentre en posibilidad de elegir un perito valuador.
 
 México, D.F., a 15 de diciembre de 2002.- Dip. Beatriz Elena Paredes Rangel, Presidenta.- Sen. Enrique Jackson Ramírez, Presidente.- Dip. Adela Cerezo Bautista, Secretaria.- Sen. Sara I. Castellanos Cortés, Secretaria.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de dos mil dos.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
