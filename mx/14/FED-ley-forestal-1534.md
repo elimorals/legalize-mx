@@ -4,7 +4,7 @@ identifier: "FED-ley-forestal-1534"
 country: "mx"
 rank: "ley"
 publication_date: "1926-04-24"
-last_updated: "1934-12-31"
+last_updated: "1938-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1926-04-05"
 
 LEY FORESTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1934.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE MARZO DE 1938.
 
 Ley publicada en el Número 45 del Diario Oficial, el sábado 24 de abril de 1926
 
@@ -391,13 +391,9 @@ Las faltas no especificadas en este capítulo, serán castigadas con arreglo a l
 
 Las multas se harán efectivas por las correspondientes oficinas de Hacienda, las que pueden, ejercitar la facultad económico-coactiva para ello.
 
-> <small>(REFORMADO, D.O. 7 DE FEBRERO DE 1928)</small>
-
 ###### ARTICULO 69.
 
-Del importe total de cada multa se aplicará una mitad al Erario Federal y la otra mitad se distribuirá por partes iguales entre el denunciante y el aprehensor, sin que en ningún caso pueda exceder la participación personal, de $500.00. Si no hubiere denunciante, su parte se aplicará al aprehensor o aprehensores, con la misma limitación señalada antes.
-
-Los empleados de la Oficina Central de la Dirección Forestal no tendrán derecho a participación alguna.
+(DEROGADO, D.O. 30 DE MARZO DE 1938)
 
 ###### ARTICULO 70.
 
@@ -538,3 +534,7 @@ Se autoriza al Ejecutivo Federal para que dentro de un término que vencerá el 
 ###### ARTICULO SEPTIMO.
 
 Quedan reformadas, en los términos de la presente Ley, la de Secretarías de Estado de 22 de marzo de 1934 y la Ley Forestal de 21 de abril de 1926; se derogan todas las disposiciones legales y reglamentarias que se opongan a la presente.
+
+D.O. 30 DE MARZO DE 1938.
+
+> <small>[N. DE E. EL "DECRETO QUE DEROGA EL ARTÍCULO 69 DE LA LEY FORESTAL DE 5 DE ABRIL DE 1926", NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL.]</small>
