@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1989-04-12"
+last_updated: "1989-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1989.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1703,9 +1703,13 @@ XI. Para fomento y creación de industrias nuevas en el Estado.
 
 XII. Para la fundación, ensanche, verificación, saneamiento y urbanización de las poblaciones, así como para la creación de reservas territoriales destinadas a alguno de los fines señalados por este Artículo.
 
-XIII. Para la apertura de calles y jardines y para la construcción de escuelas, mercados, hospitales, cárceles, rastros y demás establecimientos del servicio público urbano.
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1989)</small>
 
-XIV. Para la construcción de parques y erección de monumentos en los sitios en que se hayan verificado célebres hechos históricos.
+XIII. Para la apertura de calles y jardines; construcción de escuelas, mercados, hospitales, cárceles, rastros y demás establecimientos destinados a la prestación de un servicio público, o al fomento y difusión de actividades artísticas, culturales o artesanales.
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 1989)</small>
+
+XIV. Para la construcción de parques y erección de monumentos en los sitios en que se hayan verificado célebres hechos históricos, y la conservación o restauración de muebles e inmuebles que por su representatividad, inserción en determinado estilo, grado de innovación, materiales y técnicas utilizados, posean un valor estético o histórico sobresaliente. Tratándose de inmuebles, este valor podrá también estimarse atendiendo a su significación en el contexto urbano.
 
 XV. Para la satisfacción de necesidades colectivas en caso de guerra o trastornos interiores, para el abastecimiento de las ciudades y centros de población, de víveres o de otros artículos de consumo necesarios, y en los procedimientos empleados para combatir o impedir la propagación de epidemias, epizootias, incendios, plagas, inundaciones y otras calamidades públicas.
 
@@ -2356,6 +2360,12 @@ Mientras se instale la Tercera Sala, el Supremo Tribunal de Justicia será compu
 El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 P.O. 12 DE ABRIL DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 10 DE JULIO DE 1989.
 
 ###### ARTICULO UNICO.
 
