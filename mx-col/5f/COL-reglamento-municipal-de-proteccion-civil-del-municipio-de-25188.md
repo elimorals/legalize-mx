@@ -4,7 +4,7 @@ identifier: "COL-reglamento-municipal-de-proteccion-civil-del-municipio-de-25188
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-25"
-last_updated: "2002-05-25"
+last_updated: "2003-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO MUNICIPAL DE PROTECCION CIVIL DEL MUNICIPIO DE CUAUHTEMOC
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2003.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de mayo de 2002.
 
@@ -483,9 +483,11 @@ VIII. El Ayuntamiento a través de la dependencia administrativa correspondiente
 
 ### CAPITULO II. DE LAS SANCIONES
 
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2003)</small>
+
 ###### ARTICULO 41.
 
-La contravención a las disposiciones del presente Reglamento dará lugar a la imposición de una sanción que podrá consistir, según sea el caso, en multa, clausura temporal o definitiva en los términos de este capítulo. La imposición de las sanciones se sujetará a lo establecido por el Bando de Policía y Buen Gobierno del Municipio de Cuauhtémoc.
+La contravención a las disposiciones del presente Reglamento dará lugar a la imposición de una sanción que podrá consistir, según sea el caso, en multa, clausura temporal o definitiva en los términos de este capítulo. La imposición de las sanciones se sujetará a lo establecido por la Ley de Hacienda Municipal para el Municipio de Cuauhtémoc.
 
 ###### ARTICULO 42.
 
@@ -562,3 +564,9 @@ Dado en el Salón de Sesiones de Cabildo del H. Ayuntamiento Constitucional de C
 Lic. Cesar Ceballos Gómez.- Presidente Municipal.- Rúbrica.- C. Pedro Martínez Rivera.- Síndico.- Rúbrica.- Tec. Teresa Santa Ana Blake.- Regidora.- Rúbrica.- Profra. Ma. de Jesús Fajardo López.- Regidora.- Rúbrica.- Licda. Sandra Y. Ramírez Santillán.- Regidora.- Rúbrica.- C. Alfonso Michel Aguirre.- Regidor.- Rúbrica.- C. Carlos Yáñez Ibarra.- Regidor.- Rúbrica.- C. Luis E. Martínez Ceballos.- Regidor.- Rúbrica.- Dr. Ismael Estrada Ruíz.- Regidor.- Rúbrica.- Lic. Esteban González Rodríguez.- Secretario.- Rúbrica.
 
 ARTICULO SEGUNDO (SIC).- Quedarán derogadas las disposiciones legales de igual o menor jerarquía que se opongan al presente ordenamiento.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 22 DE MARZO DE 2003.
+
+LA MODIFICACION CON ANTELACION CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COLIMA.
