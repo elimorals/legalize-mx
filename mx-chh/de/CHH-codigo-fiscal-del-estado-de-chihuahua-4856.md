@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "2002-05-25"
+last_updated: "2002-08-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MAYO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE AGOSTO DE 2002.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -3693,7 +3693,9 @@ VII.- La expedición de certificados o copias certificadas del Registro Público
 
 VIII.- Los certificados o copias certificadas del Registro Público de la Propiedad, que se expidan con relación a la dotación o restitución de Ejidos, siempre que los peticionarios sean autoridades o los comisariados ejidales;
 
-IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de Ejidos, y
+> <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2002)</small>
+
+IX.- La inscripción en el Registro Público de la Propiedad de las resoluciones Presidenciales sobre dotación o restitución de ejidos, así como las inscripciones que se realicen respecto de títulos de propiedad de solares expedidos por el Registro Agrario Nacional;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1975)</small>
 
@@ -4662,3 +4664,13 @@ El presente Decreto entrará en vigor el primero de enero del año 2003.
 ###### ARTÍCULO SEGUNDO.
 
 Los municipios recaudarán los ingresos provenientes de la tasa adicional a que se refiere el Artículo Primero del presente Decreto, a partir de la entrada en vigor del mismo.
+
+P.O. 3 DE AGOSTO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
