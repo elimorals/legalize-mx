@@ -4,7 +4,7 @@ identifier: "FED-codigo-sanitario-de-los-estados-unidos-mexicanos-50076"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-31"
-last_updated: "1937-07-16"
+last_updated: "1937-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1934-08-20"
 
 CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE JULIO DE 1937.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 1937.
 
 Código publicado en la Sección Segunda al Número 53, del Diario Oficial, el viernes 31 de agosto de 1934.
 
@@ -965,6 +965,10 @@ El aislamiento sólo podrá permitirse en el mismo local en donde se encuentre e
 
 Queda prohibida la asistencia de personas atacadas de enfermedades transmisibles, en los sitios en que haya aglomeración de individuos, tales como fábricas, talleres, cárceles, cuarteles, oficinas, escuelas, habitaciones comunes, etc. Los enfermos sólo podrán permanecer en el recinto de los establecimientos que se citan cuando éstos tengan instalaciones sanitarias adecuadas, a juicio de la autoridad sanitaria, para el aislamiento y atención de aquéllos.
 
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 147 BIS.- Los trabajadores, dentro y fuera de la fábrica, quedarán sujetos a las medidas profilácticas que dicte el Departamento de Salubridad, de acuerdo con este capítulo, cuando se encuentren afectados de alguna enfermedad transmisible, ya tenga ésta el carácter de profesional o no.
+
 ###### ARTICULO 148.
 
 La vacunación y revacunación contra la viruela, son obligatorias para todos los habitantes de la República, en los términos, condiciones y forma de los reglamentos expedidos o que expida el Consejo de Salubridad General.
@@ -1299,185 +1303,157 @@ El consejo determinará por medio de los reglamentos que expida, las medidas que
 
 Los reglamentos determinarán las funciones que deberá ejercer directamente el Departamento y las que desempeñarán los funcionarios o empleados al servicio de educación pública como auxiliares de la Autoridad Sanitaria Federal.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
 ### CAPITULO VI
 
 De la salud de los trabajadores.
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
 
 #### SECCION PRIMERA. Del tiempo de trabajo
 
 ###### ARTICULO 216.
 
-Para los efectos de este Capítulo, se entiende por trabajo la actividad humana aplicada a fines intelectuales, materiales o de ambos géneros.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 217.
 
-Es trabajo diurno el comprendido entre las seis y las veinte horas. Es nocturno, el comprendido entre las veinte y las seis horas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 218.
 
-La duración máxima de la jornada de trabajo diurno, para personas de uno u otro sexo, no podrá exceder de ocho horas. Esta disposición no es aplicable a quienes desempeñan servicios domésticos distintos de los prestados en hoteles, fondas, hospitales u otros establecimientos análogos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 219.
 
-La jornada máxima de trabajo nocturno, será de siete horas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 220.
 
-Es jornada mixta la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que ésta abarque menos de tres horas y media. Si comprende tres y media horas a partir de las veinte, se reputará jornada nocturna.
-
-La duración máxima de la jornada mixta será de siete horas y media.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 221.
 
-La jornada máxima de trabajo para los mayores de doce años y menores de dieciséis, será de seis horas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 222.
 
-Cuando por circunstancias especiales deban aumentarse las horas de jornada, este trabajo será considerado como extraordinario y nunca podrá exceder de tres horas diarias ni de tres veces en una semana.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 223.
 
-Para las mujeres y los mayores de doce años, pero menores de dieciséis, en ningún caso habrá jornada extraordinaria de trabajo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 224.
 
-En los casos de siniestro o riesgo inminente en que peligre su vida, la de sus compañeros, la de sus patrones o la existencia misma de la empresa y en cualesquiera otras circunstancias de extrema gravedad, el obrero estará obligado a trabajar por tiempo mayor que el señalado para las jornadas máximas ordinarias y extraordinarias.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
 
 #### SECCION SEGUNDA. De los lugares de trabajo
 
 ###### ARTICULO 225.
 
-Las mujeres y los mayores de doce, pero menores de dieciséis años, no podrán desempeñar trabajo nocturno industrial, ni labores insalubres y peligrosas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 226.
 
-Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso cuando menos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 227.
 
-Las mujeres durante los tres meses anteriores al parto, no desempeñarán trabajos físicos que exijan un esfuerzo material considerable, o que impliquen algún daño a la salud de la mujer o de su hijo. Disfrutarán de ocho días de descanso antes de la fecha que aproximadamente se fije para el parto. En el mes siguiente al parto, gozarán de descanso y, durante el período de lactancia, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 228.
 
-Los trabajadores que tengan más de un año de servicios, disfrutarán de un período anual de vacaciones, que en ningún caso podrá ser inferior a cuatro días laborables. Después de dos años de servicios, el período anual de vacaciones comprenderá, cuando menos, seis días laborables. En todo tiempo, cuando la salud del trabajador así lo exija, disfrutará de un período de descanso determinando por el servicio médico de la negociación.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 229.
 
-Los reglamentos determinarán las limitaciones a que estará sujeto el trabajo de los jóvenes de ambos sexos, menores de catorce años, en los establecimientos en que, a juicio del Consejo, sean necesarias dichas limitaciones.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 230.
 
-Para los efectos de este Código, se clasifican los establecimientos, en industriales, comerciales y sus dependencias, en inofensivos, molestos, insalubres y peligrosos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 231.
 
-Los lugares y las condiciones en que hayan de ponerse los establecimientos a que se refiere el artículo anterior, variarán según la categoría en que el Departamento los clasifique, y serán fijados por los reglamentos respectivos.
-
-Los propios reglamentos establecerán las medidas necesarias para proteger a los vecinos de los establecimientos molestos; insalubres y peligrosos y de los daños que pueda causarles tal vecindad.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 232.
 
-Para construir, reconstruir o modificar un edificio destinado a establecimiento industrial, almacén o local de trabajo, debe el interesado solicitar por escrito, del Departamento, el permiso previo correspondiente.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 233.
 
-Para hacer la apertura de un establecimiento industrial, almacén o local de trabajo, es necesaria la aprobación definitiva del Departamento.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 234.
 
-Los reglamentos determinarán las condiciones que deben llenar los establecimientos industriales, comerciales y sus dependencias, y los locales de empresas de cualquier otra índole, referentes a:
-
-I.- Servicios generales como aprovisionamiento de aguas y su distribución, aguas industriales de desecho e instalaciones sanitarias;
-
-II.- Requisitos de construcción de las salas de trabajo; ubicación y condiciones del terreno; condiciones de los muros, techos y pisos;
-
-III.- Condiciones de higiene de las salas de trabajo, comprendiendo temperatura, humedad, cubicación, aereación y ventilación, iluminación y limpieza;
-
-IV.- Condiciones de higiene de las escuelas anexas a los establecimientos industriales, comerciales y sus dependencias;
-
-V.- Condiciones que deben llenar los cuartos de curación y los sanatorios anexos a los establecimientos industriales, comerciales y sus dependencias;
-
-VI.- Condiciones que deben llenar los mercados, servicios municipales y campos deportivos de los centros de trabajo a que se refiere el artículo siguiente.
-
-Las enumeraciones que en este artículo se contienen son enunciativas y no limitativas, pues la amplitud de los reglamentos relativos ha de abarcar cuánto se refiera a la higiene y salubridad de los establecimientos y locales a que el mismo alude.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 235.
 
-Cuando la población de un centro de trabajo exceda de doscientos habitantes, deberán reservarse no menos de cinco mil metros cuadrados de terrenos para el establecimiento de mercados públicos, instalaciones de edificios destinados a los servicios municipales y centros recreativos.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
 
 #### SECCION TERCERA. Profiláxis de las enfermedades de los trabajadores
 
 ###### ARTICULO 236.
 
-Enfermedad profesional es todo estado patológico que sobreviene a consecuencia de una causa repetida por largo tiempo como obligada consecuencia de la clase de trabajo que desempeña el obrero o del medio en que se ve obligado a trabajar y que provoca en el organismo una lesión o perturbación funcional permanente o transitoria. Las enfermedades profesionales pueden ser originadas por agentes físicos, químicos o biológicos.
-
-El Consejo formulará o modificará, en su caso, la lista de las enfermedades profesionales.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 237.
 
-Los reglamentos determinarán las medidas que deban tomarse en los establecimientos industriales, comerciales y sus dependencias, o en locales usados por empresas de cualquier otro género, para prevenir las enfermedades profesionales, fijando normas con respecto a:
-
-I.- Trabajo en temperaturas superiores o inferiores a la normal;
-
-II.- Trabajo en cámaras de aire comprimido;
-
-III.- Trabajo subterráneo;
-
-IV.- Trabajo en lugares con rayos lumínicos intensos o débiles;
-
-V.- Trabajo en donde se manejen materias cáusticas, tóxicas, irritantes o infectantes;
-
-VI.- Cualquiera otra especie de trabajo que entrañe posibilidad de contraer enfermedades, a juicio del Consejo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 238.
 
-Para los efectos de este capítulo y de sus reglamentos, se consideran enfermedades transmisibles las que se determinen conforme al artículo 137 de este Código.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 239.
 
-Los reglamentos especificarán:
-
-I.- Las reglas que en los establecimientos industriales, comerciales y sus dependencias, y en las empresas de cualquiera otra clase, deban practicarse para la separación, el aislamiento y el reingreso de los trabajadores atacados de las enfermedades a que se refiere el artículo anterior;
-
-II.- Las medidas profilácticas que deben aplicarse con relación a personas, instrumentos, materias primas, útiles, etc., del trabajo;
-
-III.- La forma de llevar a cabo constantemente la campaña profiláctica de las enfermedades transmisibles en los establecimientos industriales, comerciales y sus dependencias.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 240.
 
-Todo establecimiento industrial, comercial y las empresas de cualquiera otra especie cuya planta de obreros y empleados exceda de cincuenta personas, estarán obligados a tener un médico mexicano con título registrado, idóneo a juicio del Departamento, que los atienda y que cuide del exacto cumplimiento de las disposiciones de este Código y sus reglamentos.
-
-Los reglamentos determinarán el número de médicos que deberán ocupar las empresas según la naturaleza de cada industria y el número de personas que deben ser atendidas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 241.
 
-Los médicos a que se refiere el artículo anterior, que se consideran como auxiliares del Departamento para los efectos de este capítulo, deberán permanecer en los establecimientos respectivos un tiempo mínimo de dos horas, siempre las mismas, cuyo máximo se fijará teniendo en cuenta el número de obreros y la naturaleza de la industria de que se trate.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 242.
 
-La autoridad sanitaria determinará la forma como se deban llevar a cabo los servicios médicos que requieran los establecimientos industriales, comerciales y sus dependencias.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 243.
 
-El Departamento de Salubridad Pública, podrá, en todo tiempo, ordenar a las empresas industriales, comerciales y de cualquiera otra especie, las obras necesarias para cumplir con las disposiciones de este Código y sus reglamentos, o aquellas que a juicio del mismo Departamento sean necesarias para proteger la salud de las personas dedicadas a las labores relativas o de quienes reciban perjuicio de cualquiera naturaleza por la vecindad con las industrias.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 244.
 
-Reglamentos especiales de cada industria determinarán las condiciones específicas necesarias para hacer higiénico el trabajo de las mismas.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 245.
 
-El Consejo dictará los reglamentos necesarios para procurar la salud de los trabajadores del campo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
 
 #### SECCION CUARTA. De los accidentes del trabajo
 
 ###### ARTICULO 246.
 
-El Reglamento General Sobre Seguridad Industrial, determinará las medidas necesarias que las industrias deban adoptar para prevenir los accidentes de trabajo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 247.
 
-Reglamentos especiales de seguridad relativos a cada industria, determinarán las condiciones específicas que cada una de ellas deba satisfacer para prevenir los accidentes del trabajo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
+
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
 
 #### SECCION QUINTA. Materias nocivas y peligrosas
 
@@ -1489,15 +1465,15 @@ Tales materias no podrán elaborarse, importarse, transportarse o aprovecharse e
 
 ###### ARTICULO 249.
 
-El mismo Consejo determinará cuáles materias son peligrosas para la salubridad.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 250.
 
-Las materias a que se refiere el artículo anterior, sólo podrán elaborarse, importarse, transportarse, aprovecharse y usarse con estricto apego a la reglamentación que el Consejo expida, fijando los requisitos de elaboración, importación, distribución, uso y consumo.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ###### ARTICULO 251.
 
-El Consejo queda facultado para reglamentar los mandamientos de este capítulo, para adicionarlos y para suspender su ejecución, conforme a las exigencias de la salubridad general.
+(DEROGADO, D.O. 31 DE DICIEMBRE DE 1937)
 
 ### CAPITULO VII. Ingeniería sanitaria
 
@@ -1638,6 +1614,10 @@ XII.- La cantidad mínima de agua potable de que deberán surtirse, atendiendo a
 XIII.- Las obligaciones de propietarios o inquilinos, huéspedes y pasajeros o concurrentes en lo que respecta al uso y conservación de las instalacines (sic) sanitarias y, en general, al aseo e higiene de los edificios;
 
 XIV.- Los demás requisitos que sean necesarios desde el punto de vista de la salubridad e higiene.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+Las disposiciones de las fracciones II, III, IV, V, VII, VIII, IX, XII, de este artículo, por lo que toca a edificios destinados a fines industriales, y a la higiene y seguridad del trabajo, en lo que respecta a industrias de jurisdicción federal, se entenderán como correspondientes a las facultades de las autoridades del trabajo.
 
 ###### ARTICULO 270.
 
@@ -1790,6 +1770,84 @@ Asimismo y en los términos del artículo anterior, podrán ejecutar directament
 ###### ARTICULO 292.
 
 Cuando los Gobiernos de los Estados fueren remisos en el cumplimiento de las disposiciones que les impone el artículo 286, o no acaten las indicaciones que en uso de sus facultades les hiciere la autoridad sanitaria, quedará facultado el Departamento, cuando a su juicio se afecte a la salubridad general, para dictar las disposiciones respectivas y cuidar de la observancia de este capítulo y sus reglamentos e imponer las penas correspondientes en los casos de infracciones que se sorprendan quedando la recaudación de las citadas multas y las de los derechos respectivos en favor del Gobierno Federal, sin perjuicio de aplicar las sanciones que correspondan a los funcionarios remisos.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+#### Sección Segunda (sic)
+
+De las relaciones de las industrias con la salubridad general.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 1.- Desde el punto de vista de la salubridad general y en razón del vecindario, se clasifican los establecimientos industriales, comerciales y sus dependencias, en inofensivos, molestos, insalubres y peligrosos.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 2.- Los requisitos y las condiciones en que hayan de ponerse los establecimientos a que se refiere el artículo anterior, variarán según la categoría en la que el Departamento los clasifique, de acuerdo con los artículos siguientes.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 3.- Para los efectos de este Código se consideran bajo la denominación de establecimientos industriales, los locales a cubierto o a descubierto, destinados a manipulación, transformación o utilización de productos naturales o artificiales, mediante tratamientos físicos, químicos, biológicos, etc., bien sea por medio de la aplicación de maquinaria, instrumentos, etc., o sin ellos.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 4.- Se entiende por “dependencias” de los establecimientos industriales, todo anexo que tenga las características del establecimiento, desde el punto de vista industrial.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 5.- Se consideran como inofensivos los establecimientos industriales y sus dependencias, que no causen ni puedan causar daño o molestias al vecindario o a las personas que en ellos trabajan.
+
+Los establecimientos industriales inofensivos y sus dependencias pueden edificarse en sitios poblados.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 6.- Se denominan “molestos” los establecimientos industriales y sus dependencias, que sin ser insalubres ni peligrosos por sí mismos, causen incomodidades manifiestas al vecindario por los ruidos, trepidación, humos arrojados por las chimeneas, malos olores, etc.
+
+Los establecimientos correspondientes a este grupo sólo podrán situarse en lugares poblados, siempre que sin detrimento de las condiciones higiénicas de los locales de trabajo, supriman esos inconvenientes; de no ser así, sólo podrán establecerse en las zonas de planificación que señalen las autoridades competentes.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 7.- Se entiende por insalubres los establecimientos industriales y sus dependencias que puedan originar, por la naturaleza de los trabajos que allí se desarrollan, condiciones capaces de amenazar o dañar la salud de los trabajadores o del vecindario, debido a los materiales empleados, elaborados, desprendidos o de desecho.
+
+Estos establecimientos se situarán fuera de los lugares poblados y en los sitios que designe el Departamento de Salubridad, de acuerdo con las leyes de zonificación respectivas.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 8.- Se entiende por peligrosos los establecimientos industriales y sus dependencias que dañen o puedan dañar de modo inmediato y grave la vida o salubridad del vecindario, ya sea por la naturaleza de los trabajos allí desarrollados o de los materiales empleados elaborados, desprendidos o de desecho, o de cualquier otra naturaleza; o por el almacenamiento de substancias tóxicas, corrosivas, inflamables o explosivas.
+
+Estos establecimientos con sus dependencias, cuando sean peligrosos para el vecindario, se situarán por lo menos a un kilómetro de los sitios poblados o a la distancia que señale el Departamento de Salubridad, de acuerdo con las leyes respectivas y con el alcance o magnitud del peligro que se considere.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 9.- El Departamento de Salubridad Pública hará, de acuerdo con los artículos anteriores, la clasificación de los establecimientos industriales, y determinará los casos en que queden excluidos de lo prevenido en el presente Código, los laboratorios de investigación científica y análisis químicos.
+
+Los reglamentos establecerán las medidas necesarias para proteger a los vecinos de los establecimientos molestos, insalubres y peligrosos y de los daños que pueda causarles tal vecindad.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 10.- El Departamento de Salubridad fijará las condiciones que deban llenar los servicios generales, como aprovisionamiento de aguas y su distribución, de los establecimientos industriales, aguas industriales de desecho, instalaciones sanitarias, drenajes y avenamientos, y en general, las condiciones necesarias para proteger la salubridad del vecindario.
+
+Las enumeraciones que en este artículo se contienen son enunciativas y no limitativas, desde el punto de vista de la salubridad general, pues la amplitud de los reglamentos relativos ha de abarcar todo lo que se refiere a la salubridad de los establecimientos y locales que este artículo alude.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 11.- En todo caso en que de acuerdo do (sic) con la Ley del Trabajo, los patrones tengan obligación de reservar superficies de terreno para el establecimiento de mercados públicos, instalaciones de edificios destinados a los servicios municipales y centros recreativos, el Departamento de Salubridad Pública fijará sus condiciones sanitarias.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 12.- El Departamento de Salubridad Pública podrá, en todo tiempo, ordenar a las empresas industriales, las obras necesarias para cumplir con las prescripciones de este Código y sus reglamentos.
+
+Dictará, asimismo, las disposiciones sanitarias de las habitaciones de los trabajadores y medio en que éstas se encuentren.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 13.- El Consejo dictará los reglamentos necesarios para procurar la salud de los trabajadores del campo, a excepción de lo que se refiere a la prevención de enfermedades profesionales en las industrias agrícolas y conexas con la agricultura que amerita la prestación de trabajos en lugares limitados asimilables a una fábrica urbana.
+
+> <small>(ADICIONADO, D.O. 31 DE DICIEMBRE DE 1937)</small>
+
+ARTICULO 292 BIS 14.- El Departamento de Salubridad Pública fijará las condiciones en que deban importarse, transportarse, distribuirse y almacenarse las materias nocivas o peligrosas fuera del lugar en que se producen o aprovechan.
+
+El Consejo determinará cuáles materias son peligrosas para la salubridad.
 
 ### CAPITULO VIII. Policía Sanitaria con relación a las vías públicas
 
@@ -3236,3 +3294,15 @@ D.O. 24 DE MARZO DE 1936.
 D.O. 16 DE JULIO DE 1937.
 
 > <small>[N. DE E. EL “DECRETO QUE REFORMA VARIOS ARTÍCULOS DEL CÓDIGO SANITARIO DE LOS ESTADOS UNIDOS MEXICANOS”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL”.]</small>
+
+D.O. 31 DE DICIEMBRE DE 1937.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE DEROGA EL REGLAMENTO DE HIGIENE INDUSTRIAL Y REFORMA EL CÓDIGO SANITARIO VIGENTE”.]
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor tres días después de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente.
