@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-prevencion-social-y-tratamiento-de-menores-del-6073"
 country: "mx"
 rank: "ley"
 publication_date: "1995-01-20"
-last_updated: "1995-01-20"
+last_updated: "2002-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE PREVENCION SOCIAL Y TRATAMIENTO DE MENORES DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 10 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 10 de diciembre de 2002.
 
@@ -235,9 +235,13 @@ I. Instaurar el procedimiento y dictar las resoluciones técnico-jurídicas y de
 
 II. Supervisar el cumplimiento de la legalidad del procedimiento;
 
-III. Conciliar al menor con la víctima, y a las partes sobre el pago de la reparación del daño; y
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2002)</small>
 
-IV. Las demás que determinen otros ordenamientos legales.
+III. Remitir previo acuerdo de las partes al Centro de Mediación y Conciliación del Poder Judicial al menor infractor y a la víctima, en las infracciones que la presente ley permita conciliación o para efectos de reparación del daño;
+
+IV. Conciliar al menor con la víctima, y a las partes sobre el pago de la reparación del daño; y
+
+V. Las demás que determinen otros ordenamientos legales.
 
 ###### Artículo 19.
 
@@ -1008,3 +1012,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. CESAR CAMACHO QUIROZ
 
 (Rúbrica)
+
+P.O. 10 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publiquese el presente decreto en el periódico oficial "Gaceta del Gobierno" del Estado de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
