@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fraccionamientos-del-estado-de-puebla-7538"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-20"
-last_updated: "1974-12-20"
+last_updated: "1997-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FRACCIONAMIENTOS DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE MARZO DE 1997.
 
 Ley publicada en el Suplemento Número 1 del Periódico Oficial del Estado de Puebla, el viernes 20 de diciembre de 1974.
 
@@ -143,7 +143,9 @@ h) Placas de nomenclatura en los cruces de las calles.
 
 Los fraccionamientos habitacionales de tipo popular tendrán las características siguientes:
 
-I.- Los lotes tendrán un frente mínimo de 6 metros y una superficie no menor de 120 metros cuadrados destinándose a espacio libre una superficie no menor del 20% del de cada lote y la construcción se limitará a tres niveles, salvo el caso de las zonas de habitación vertical a que se refiere el artículo 6.
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 1997)</small>
+
+I.- Los lotes tendrán un frente mínimo de seis metros y una superficie no menor de noventa metros cuadrados destinándose a espacio libre una superficie no menor del 20% de cada lote y la construcción se limitará a tres niveles, salvo el caso de las zonas de habitación vertical a que se refiere el Artículo 6.
 
 II.- Las obras de urbanización obligatoria que a continuación se mencionan:
 
@@ -162,6 +164,16 @@ f) Pavimento asfáltico económico o empedrado de las calles.
 g) Arbolado en calles, jardinería y ornato en los espacios reservados para jardines públicos municipales.
 
 h) Placas de nomenclatura en los cruces de las calles.
+
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 1997)</small>
+
+III.- Cuando los fraccionamientos de tipo popular sean desarrollados por los propios interesados en la construcción de su vivienda se sujetarán a los siguientes requisitos:
+
+a).- Se organizarán y constituirán una persona jurídica o fideicomiso que no tenga fines de lucro, cuyo único objetivo sea el desarrollo del fraccionamiento con infraestructura y urbanización progresiva; para vivienda por autoconstrucción.
+
+b).- Sus integrantes deberán ser mayores de edad y no ser propietarios de un bien raíz que se destine a la vivienda y que esté localizado en el Municipio en el que se desarrollará el fraccionamiento.
+
+c).- Disponer de un proyecto ejecutivo del fraccionamiento, que comprenda el programa calendarizado de construcción de infraestructura, urbanización y vivienda, como requisitos para la obtención de la autorización de uso de suelo y servicios.
 
 Las casas que se construyan en fraccionamientos de este tipo, y los lotes en que se edifiquen, quedarán incorporadas, sin formalidad alguna, al régimen jurídico del patrimonio de familia, siempre y cuando su valor en conjunto no llegue a tres mil días del salario mínimo general de la zona económica en que estén ubicados, sea el único inmueble de la propiedad del jefe de la familia y esté ocupado por ella. Solamente podrán ser embargadas o sujetas a juicio hipotecario, por deudas provenientes del pago de sus contribuciones o del precio del lote de terreno o de la construcción sobre él edificada.
 
@@ -710,3 +722,13 @@ Se abroga la Ley de Fraccionamientos Urbanos del Municipio de Puebla publicada e
 EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo a los diecinueve días del mes de diciembre de mil novecientos setenta y cuatro.- Lic. Melquiades Morales Flores, D. P.- Adolfo García Camacho, D.S.- José Esquitín Laborador, D.S.- Rúbricas.
 
 Por tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los veinte días del mes de diciembre de mil novecientos setenta y cuatro.- El Gobernador Interino del Estado, Guillermo Morales Blúmenkron.- Rúbrica.- El Secretario General de Gobierno, Lic. Eduardo Langle Martínez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 10 DE MARZO DE 1997.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los trámites que se hayan realizado con anterioridad a la vigencia de la presente reforma, se continuarán a la disposición anterior.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
