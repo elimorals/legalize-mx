@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-18366"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-29"
-last_updated: "2003-08-28"
+last_updated: "2003-09-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 29 de septiembre de 2000.
 
@@ -763,9 +763,9 @@ III. La prevención del delito en el ámbito de su competencia;
 
 IV. Establecer la creación, estructuración y aplicación de los programas tendientes a combatir los hechos delictivos, en los que deben participar las diferentes instituciones policiales;
 
-V. Crear bancos de información que permitan el establecimiento de programas especiales que conlleven a la formación de una estrategia de prevención y combate a la delincuencia, así como a la coordinación para tal fin de los diferentes cuerpos policiales;
+V. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2003)
 
-VI. Captar, procesar, ordenar y analizar la información estadística criminal del Estado, para presentarla de manera oportuna y confiable a las distintas instituciones públicas involucradas en la prevención y combate al delito y brindar información a la comunidad, a fin de ampliar la cultura cívica en estas materias;
+VI. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 2003)
 
 VII. Diseñar, implantar y evaluar la política del Estado, tendiente a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad;
 
@@ -1112,3 +1112,9 @@ PRIMERA.- Una vez aprobado y expedido por el Constituyente Permanente el Decreto
 SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 TERCERA.- Cuando en alguna ley, reglamento o disposición jurídica se haga referencia a la Secretaría de Hacienda o a la Secretaría de Finanzas, se entenderá hecha a la Secretaría de Finanzas y Planeación.
+
+P.O. 3 DE SEPTIEMBRE DE 2003.
+
+PRIMERA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos a que se refieren los artículos 44 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
