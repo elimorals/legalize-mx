@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1988-06-15"
+last_updated: "1988-07-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1988.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -656,9 +656,9 @@ XLVI.- Para expedir Leyes a fin de crear organismos descentralizados y Empresas 
 
 XLVII.- Revisar las cuentas públicas del Gobierno del Estado y de los Municipios, cuando así lo aprueben las dos terceras partes de los miembros reunidos en la asamblea que lo determine.
 
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 1988)</small>
 
-XLVIII.- Legislar en materia de Asentamientos Humanos, Regularización de la Tenencia de la Tierra, Reservas Ecológicas, Territoriales y Utilización de Suelo, observando lo dispuesto por el Párrafo Tercero del Artículo 27 Constitucional y demás Leyes Federales.
+XLVIII.- Legislar dentro del ámbito de su competencia sobre la materia de Asentamientos Humanos, Regularización de la Tenencia de la Tierra, Reservas Ecológicas, Territoriales y Utilización del Suelo. Asimismo, legislar sobre Planeación Estatal del Desarrollo Económico y Social del Estado y sobre Programación, Promoción, Concertación y Ejecución de Acciones de Orden Económico.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -836,9 +836,9 @@ DEL PODER EJECUTIVO.
 
 ### CAPITULO IV.
 
-DE LA HACIENDA PUBLICA, PROGRAMACION Y DEL DESARROLLO URBANO Y RURAL.
+DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
 
 ###### Artículo 57.
 
@@ -944,9 +944,11 @@ Integrado el Congreso del Estado, procederá a hacer la designación de Gobernad
 
 En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-### CAPITULO I.
+### CAPITULO V.
 
-DISPOSICIONES PRELIMINARES.
+DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
+
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 70.
 
@@ -1038,9 +1040,9 @@ XXIV.- Velar por el libre ejercicio ciudadano del voto.
 
 XXV.- Salir del territorio del Estado o separarse de sus funciones, sin autorización del Congreso, hasta por treinta días.
 
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(REFORMADA, P.O. 7 DE JULIO DE 1988)</small>
 
-XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administración y tener en forma exclusiva la iniciativa de Leyes para crear los organismos descentralizados y empresas de participación estatal.
+XXVI.- Adoptar todas las medidas necesarias para la buena marcha de la Administración y tener en forma exclusiva la Iniciativa de Leyes para crear los organismos descentralizados y empresas de participación estatal. Asimismo, conducir la Planeación Estatal del Desarrollo Económico y Social del Estado y realizar las acciones conducentes a la Formulación, Instrumentación, Ejecución, Control y Evaluación de los planes y programas de desarrollo.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1110,11 +1112,9 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+DISPOSICIONES PRELIMINARES.
 
 ###### Artículo 74.
 
@@ -1156,17 +1156,43 @@ Los Secretarios del Despacho serán responsables de las resoluciones del Goberna
 
 Los servidores públicos a que se refiere el Artículo 74, de ésta Constitución no podrán desempeñar ningún otro puesto, cargo ó comisión, salvo la docencia, ó aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 7 DE SEPTIEMBRE DE 1977)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+
+### CAPITULO II.
+
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+
+###### Artículo 79-A.
+
+El Ministerio Público tiene las atribuciones fundamentales siguinetes (sic):
+
+I.- Vigilar y procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley e intervenir en cuanto corresponda para que la administración de justicia sea pronta y expedita.
+
+II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia a él, corresponderá recibir las denuncias, acusaciones o querellas tanto de las Autoridades como de los particulares, practicar, desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de las autoridades judiciales, buscar y presentar las pruebas que acrediten el cuerpo del delito y la responsabilidad de los inculpados, para promover en su caso, la acción penal ante dichos Tribunales; solicitar las órdenes de aprehensión, hacer que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos.
+
+III.- Intervenir en los asuntos judiciales que interesen a las personas y a quienes la Ley conceda especial protección, en la forma y términos que la misma determine.
+
+IV.- Defender ante los Tribunales los intereses del Estado.
+
+V.- Ejercer las demás atribuciones que le encomienden las Leyes.
+
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
+
+###### Artículo 79-B.
+
+El personal del Ministerio Público dependerá directamente del Ejecutivo del Estado, será nombrado y removido libremente por él y estará integrado por un Procurador General de Justicia, que será el Jefe de la Institución y por agentes de su dependencia.
+
+La Ley organizará al Ministerio Público y determinará la forma y términos en que deba ejercer sus funciones.
+
+El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y deberá tener los mismos requisitos que para ser Magistrado del Tribunal Superior exige el Artículo 90, de esta Constitución.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
 ### CAPITULO III.
 
 DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
-
-### CAPITULO IV.
-
-DEL MINISTERIO PUBLICO.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE AGOSTO DE 1965)</small>
 
 ###### Artículo 80.
 
@@ -1230,6 +1256,8 @@ El fenómeno de conurbación interestatal se presenta cuando dos o más centros 
 
 El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado.
 
+### CAPITULO IV.
+
 ### CAPITULO V.
 
 DE LA DEFENSORIA PUBLICA.
@@ -1240,13 +1268,13 @@ DE LA ORGANIZACION DE LOS MUNICIPIOS.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
-### CAPITULO II.
-
-PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
-
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
+
+### CAPITULO II.
+
+PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 ###### Artículo 86.
 
@@ -1420,29 +1448,15 @@ Habrá también el número de Jueces de categoría inferior que establezca la Le
 
 La Ley determinará los asuntos de la competencia de los Jueces de Primera Instancia y de los de categoría inferior, y la manera de cubrir las faltas temporales y absolutas de los mismos.
 
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
+
 ###### Artículo 106.
 
-El Ministerio Público es una Institución que tiene por objeto auxiliar la administración de justicia en el Estado y ejercer las funciones fundamentales siguientes:
-
-I.- Procurar el exacto cumplimiento de la Ley y el respeto a las garantías individuales en todos los asuntos en que intervenga, interponiendo los recursos que fueren procedentes con arreglo a la Ley.
-
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-II.- Perseguir ante los Tribunales del orden común los delitos; en consecuencia a él corresponderá recibir las denuncias, acusaciones o querellas tanto de las Autoridades como de los particulares, practicar, desde luego, las diligencias de carácter urgente, que no fueren de la exclusiva competencia de la Autoridades Judiciales, buscar y presentar las pruebas que acrediten el cuerpo del delito y la responsabilidad de los culpables, para promover en su caso, la acción penal ante dichos Tribunales; solicitar las órdenes de aprehensión, hacer que los juicios se sigan con toda regularidad, pidiendo la aplicación de las penas que estime procedentes en sus respectivos casos.
-
-III.- Intervenir en los asuntos judiciales que interesen a las personas a quienes la Ley conceda especial protección, en la forma y términos que la misma determine.
-
-IV.- Defender ante los Tribunales los intereses del Estado.
-
-V.- Ejercer las demás atribuciones que le encomienden las Leyes.
+(DEROGADO, P.O. 7 DE JULIO DE 1988)
 
 ###### Artículo 107.
 
-El personal del Ministerio Público dependerá directamente del Ejecutivo del Estado, será nombrado y removido libremente por él y estará integrado por un Procurador General de Justicia, que será el Jefe de la Institución, y por agentes de su dependencia.
-
-El Procurador General de Justicia deberá tener las mismas cualidades que para ser Magistrado del Tribunal Superior exije (sic) el artículo 90 de esta Constitución.
-
-La Ley organizará al Ministerio Público y determinará la forma y término en que deba ejercer sus funciones.
+(DEROGADO, P.O. 7 DE JULIO DE 1988)
 
 ###### Artículo 108.
 
@@ -1647,6 +1661,12 @@ La Administración Pública se guiará por los siguientes principios:
 I.- El derecho de asociación se reconoce para proteger y mejorar las condiciones económicas de obreros, campesinos y empleados, ejerciendo el Estado la defensa contra todos los actos de individuos o de asociaciones que menoscaben ese derecho.
 
 II.- Se fundará una escuela de agricultura para impartir la enseñanza agrícola a los jóvenes que deseen dedicarse a dicho ramo. A su tiempo se establecerán campos de experimentación en algunas regiones del Estado para la instrucción práctica de los agricultores.
+
+> <small>(ADICIONADA, P.O. 7 DE JULIO DE 1988)</small>
+
+III.- Los planes y los programas de la Administración Pública, tendrán su origen en un Sistema de Planeación Democrática del Desarrollo Estatal que, mediante la Consulta Popular a los diferentes sectores que integran la sociedad civil, recogerá las auténticas aspiraciones y demandas populares que contribuyan a realizar el proyecto social contenido en esta Constitución. La Ley facultará al Ejecutivo para establecer los procedimientos de participación y Consulta Popular y los criterios para la Formulación, Instrumentación, Control y Evaluación del Plan y los programas de Desarrollo; asimismo determinará los órganos responsables del proceso de planeación y las bases para que el gobernador del Estado celebre convenios de coordinación con el Gobierno Federal y otras Entidades Federativas, e induzca y concierte con los particulares las acciones tendientes a su elaboración y control.
+
+En el Sistema de Planeación Democrática, el Congreso del Estado tendrá la intervención que señale la Ley.
 
 ###### Artículo 120.
 
@@ -2129,3 +2149,19 @@ P.O. 15 DE JUNIO DE 1988.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Morelos.
+
+P.O. 7 DE JULIO DE 1988.
+
+DECRETO NUMERO 8
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 7 DE JULIO DE 1988.
+
+DECRETO NUMERO 9
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Remítase el presente Decreto al Ejecutivo del Estado, para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
