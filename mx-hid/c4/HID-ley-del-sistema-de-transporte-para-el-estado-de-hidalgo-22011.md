@@ -4,7 +4,7 @@ identifier: "HID-ley-del-sistema-de-transporte-para-el-estado-de-hidalgo-22011"
 country: "mx"
 rank: "ley"
 publication_date: "2001-08-06"
-last_updated: "2004-04-19"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL SISTEMA DE TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el 6 de agosto de 2001.
 
@@ -141,7 +141,9 @@ Corresponde al Ejecutivo Estatal, sin perjuicio de las facultades otorgadas a ot
 
 I. Planear, formular y conducir las políticas y programas del servicio de transporte estatal y sus servicios auxiliares y conexos;
 
-II. Otorgar, normar y regular las concesiones y permisos a que se refiere esta ley; vigilar su cumplimiento y resolver sobre su cancelación o terminación en su caso;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+II. Otorgar, expedir, autorizar, revocar, cancelar, normar y regular las concesiones y permisos a que se refiere esta Ley, por sí o a través del Secretario de Gobierno y del Secretario de Finanzas y Administración, quienes ejercerán dichas facultades, de manera mancomunada; vigilar su cumplimiento y resolver sobre su conclusión;
 
 III. Establecer las bases generales de regulación tarifaria y
 
@@ -233,7 +235,9 @@ XIX. Coordinarse con la Secretaría de Finanzas y Administración del Ejecutivo 
 
 XX. De conformidad con las Leyes de la materia, establecer mecanismos de coordinación con los Municipios, a efecto de que éstos colaboren en la planeación del Sistema de Transporte;
 
-XXI. Otorgar las concesiones y permisos materia de esta Ley prefiriendo, en igualdad de condiciones, a los solicitantes que ofrezcan y garanticen el mejor servicio al público usuario, tomando en cuenta la calidad del equipo e instalaciones de servicios auxiliares y conexos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+XXI. Otorgar por conducto del Secretario de Gobierno y del Secretario de Finanzas y Administración, concesiones y permisos materia de esta Ley, e (sic) términos que para tales efectos se establecen en la misma; prefiriendo, en igualdad de condiciones, a los solicitantes que ofrezcan y garanticen el mejor servicio al público usuario, tomando en cuenta la calidad del equipo e instalaciones de servicios auxiliares y conexos.
 
 XXII. Autorizar la renovación de las concesiones y permisos;
 
@@ -477,11 +481,11 @@ Las relaciones de trabajo entre el Instituto y su personal se regirán por la Le
 
 Todo vehículo destinado al servicio de transporte, debe contar con póliza vigente de seguro o su equivalente, la cual deberá ser suficiente para amparar la cobertura de daños a terceros, al operador, los usuarios y/o la carga que transporta de acuerdo a la modalidad que se traten la reparación de daños al medio ambiente y la ecología.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 22.
 
-Para los efectos de esta Ley, son vehículos del servicio de transporte, los autorizados para el traslado de personas y de bienes, previa concesión o permiso emitido por el Instituto.
+Para los efectos de esta Ley, son vehículos del servicio de transporte, los autorizados para el traslado de personas y de bienes, previa concesión o permiso otorgados por el Instituto, en los términos de lo previsto por los Artículos 39 y 41 de esta Ley.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -515,7 +519,9 @@ Cuando el concesionario o permisionario del servicio de transporte cambie de dom
 
 Las personas que tengan autorizado y registrado un vehículo para la prestación de servicio de transporte y lo enajene, deberá hacerlo del conocimiento del Instituto dentro de los diez días hábiles siguientes.
 
-El incumplimiento será motivo del pago de una multa por el importe de diez días de salario mínimo vigente en el Estado, más el de los derechos respectivos al propio trámite.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+El incumplimiento será motivo del pago de una multa por el importe de cinco a diez días de salario mínimo vigente en el Estado, más el de los derechos respectivos al propio trámite.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -523,7 +529,9 @@ El incumplimiento será motivo del pago de una multa por el importe de diez día
 
 La situación del chasis o del motor de un vehículo de servicio de transporte, deberá notificarse al Instituto para su registro, dentro de los treinta días contados a partir de que esto suceda, a efecto de que se realice la inspección vehicular y se autorice la expedición de la nueva tarjeta de circulación.
 
-Los propietarios de los vehículos de servicio de transporte, están obligados al cumplimiento de esta disposición; en caso contrario, se le sancionará con una multa equivalente al importe de cinco días de salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Los propietarios de los vehículos de servicio de transporte, están obligados al cumplimiento de esta disposición; en caso contrario, se les sancionará con una multa equivalente al importe de dos a cinco días de salario mínimo vigente en el Estado.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -607,9 +615,11 @@ Cualquier prestador del servicio de transporte que sea sorprendido utilizando la
 
 ### CAPÍTULO V. DEL SERVICIO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 39.
 
-Es facultad del Gobernador del Estado otorgar concesiones para la prestación del servicio público de transporte y los servicios auxiliares y conexos, quien la ejercerá por conducto del Instituto Estatal de Transporte.
+Es facultad del Gobernador del Estado otorgar concesiones para la prestación del servicio público de transporte y los servicios auxiliares, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de los Secretarios de Gobierno y de Finanzas y Administración, en forma mancomunada.
 
 Las concesiones se concederán a las personas que cumplan previamente con las formalidades y requisitos establecidos en este ordenamiento y demás disposiciones legales aplicables.
 
@@ -619,9 +629,11 @@ Las concesiones se concederán a las personas que cumplan previamente con las fo
 
 Las concesiones y permisos facultan a su Titular, para utilizar las vías públicas de Jurisdicción Estatal, imponiéndole condiciones especificas a la modalidad del servicio de que se trate y se supeditan a los supuestos de cancelación o modificación que pueda ejercer el Instituto en los casos señalados en esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 41.
 
-Es facultad del Gobernador del Estado otorgar los permisos materia de esta Ley, quien la ejercerá por conducto del Instituto Estatal de Transporte.
+Es facultad del Gobernador del Estado otorgar permisos materia de esta Ley, quien la ejercerá por conducto del Instituto Estatal del Transporte, a través de los Secretario (sic) de Gobierno y de Finanzas y Administración, en forma mancomunada.
 
 Los permisos se otorgarán a las personas que cumplan previamente con las formalidades y requisitos establecidos en este ordenamiento y demás disposiciones legales aplicables.
 
@@ -973,7 +985,9 @@ g) Las demás que señalen las bases de cada concurso y que sean necesarios para
 
 Las unidades destinadas al servicio de transporte, deben reunir las especificaciones técnicas y las condiciones de seguridad, higiene, comodidad y eficiencia, de conformidad con las disposiciones emitidas por el Instituto.
 
-Con excepción de los casos que específicamente detalla esta Ley, el servicio de transporte deberá prestarse en vehículos con una antigüedad no mayor de diez años a la fecha de fabricación del vehículo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Con excepción de los casos que específicamente se detallan en esta Ley y en su Reglamento y en lo que se refiere a materiales para la industria de la construcción y minerales a granel, agua potable y no potable, el servicio de transporte deberá prestarse en vehículos con una antigüedad no mayor de diez años a la fecha de fabricación del vehículo, quedando sujeta a esta vigencia las unidades tipo vagoneta, con una capacidad superior a ocho y máxima de catorce pasajeros, que exploten el servicio en zonas urbanas, suburbanas e interurbanas.
 
 ###### Artículo 68.
 
@@ -1093,9 +1107,9 @@ La solicitud de renovación deberá presentarse ante el Instituto, dentro de los
 
 La vigencia de la renovación de la concesión, será por treinta años.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
-Si la solicitud de renovación se interpone dentro de los noventa días siguientes al vencimiento de la concesión, el promovente será sancionado con el importe de una multa equivalente a sesenta y cinco días de salario mínimo vigente en la Entidad; realizado el pago de la sanción mencionada, se procederá al trámite solicitado.
+Si la solicitud de renovación se interpone dentro de los noventa días siguientes al vencimiento de la concesión, el promoverte (sic) será sancionado con una multa equivalente al importe de treinta a sesenta y cinco días de salario mínimo vigente en la Entidad; realizado el pago de la sanción mencionada, se procederá al trámite solicitado.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1213,7 +1227,9 @@ I. Para complementar los permisos relativos al servicio de transporte que hayan 
 
 II. Para complementar las concesiones o permisos relativas al servicio de transporte que hayan sido emitidas por Autoridades competentes de Entidades colindantes con el Estado de Hidalgo, se estará siempre a lo que señale el dictamen técnico que al efecto emita el Instituto. En caso de interés social, mediante Convenios de Colaboración y reciprocidad, se definirá la forma en que dicho transporte pueda efectuarse.
 
-Quien preste cualquiera de los servicios señalados anteriormente, sin contar con la autorización respectiva, será sancionado con una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
+Quien preste cualquiera de los servicios señalados anteriormente, sin contar con la autorización respectiva, será sancionado con una multa equivalente al importe de ciento cincuenta a trescientos días de salario mínimo vigente en la Entidad.
 
 ###### Artículo 95.
 
@@ -1495,9 +1511,11 @@ Cuando el concesionario o permisionario sufra la pérdida total o denuncie el ro
 
 Para la instalación de los servicios auxiliares y conexos se requiere según el caso, de contar con la autorización de las Dependencias u Organismos que a su cargo tienen la realización de las obras públicas, la autorización del uso del suelo, la conservación del medio ambiente y la ecología y la del Ayuntamiento de que se trate; con base en ellas, el Instituto autorizará la ubicación y características de los mismos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 134.
 
-Los servicios auxiliares son los que directamente conforman la infraestructura del sistema de transporte y su operación requiere de la concesión otorgada por el Instituto.
+Los servicios auxiliares son los que directamente conforman la infraestructura del sistema de transporte y su operación requiere de la concesión otorgada por el Instituto, en los términos de lo previsto por la fracción XXI del Artículo 9o de la presente Ley.
 
 Son servicios auxiliares materia de concesión:
 
@@ -1521,9 +1539,11 @@ VIII. Los demás que señale el Instituto.
 
 El pago de derechos por el otorgamiento de concesiones para explotar este tipo de servicio, será de acuerdo a la tarifa respectiva.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2004)</small>
+
 ###### Artículo 135.
 
-Los servicios conexos son los que complementan la operación del servicio de transporte y su prestación requiere de permiso emitido por el Instituto.
+Los servicios conexos son los que complementan la operación del servicio de transporte y su prestación requiere de permiso emitido por el Instituto, en los términos de los (sic) dispuestos por la fracción XXI del artículo 9 de este ordenamiento.
 
 Constituyen servicios conexos:
 
@@ -1873,11 +1893,11 @@ Se revocará la concesión o el permiso, a quienes por segunda ocasión infrinja
 
 Toda persona que altere o falsifique las placas reglamentarias o los documentos relativos a la inmatriculación de los vehículos, será sancionado con la aplicación de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad; aunado a lo anterior, de los hechos se dará conocimiento al Ministerio Público, para los efectos procedentes.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 153.
 
-Queda prohibido, prestar el servicio de transporte sin contar con la concesión o permiso correspondiente; los infractores serán sancionados mediante la imposición de una multa equivalente al importe de trescientos días de salario mínimo vigente en la Entidad, con independencia de las sanciones que les resulten aplicables por otros ordenamientos.
+Queda prohibido, prestar el servicio de transporte sin contar con la concesión o permiso correspondiente; los infractores serán sancionados mediante la imposición de una multa equivalente al importe de ciento cincuenta a trescientos días de salario mínimo vigente en la Entidad, con independencia de las sanciones que les resulten aplicables por otros ordenamientos.
 
 ###### Artículo 154.
 
@@ -1988,3 +2008,9 @@ P.O. 19 DE ABRIL DE 2004.
 PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Artículo Segundo.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
