@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1970-03-17"
+last_updated: "1971-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 1971.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1097,9 +1097,9 @@ Cuando la falta excediere del tiempo señalado en el párrafo anterior, el Presi
 
 En ningún caso podrá un Presidente Municipal ausentarse del territorio del Estado, salvo causa de fuerza mayor debidamente comprobada, sin la previa autorización del Ayuntamiento. Cuando infringiere el anterior precepto, perderá automáticamente su carácter de Funcionario y sólo podrá recuperarlo mediante el juicio respectivo.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1938)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
-Las faltas temporales de los demás Regidores, serán cubiertas por sus respectivos suplentes, al igual que las absolutas de cualquier Regidor, por mientras se hace nueva elección.
+Las faltas temporales de los demás Regidores serán cubiertas por sus respectios (sic) Suplentes al igual que las absolutas de cualquier Regidor, por mientras se designa el Substituto.
 
 ###### Art. 116.
 
@@ -1143,11 +1143,11 @@ IV. Los Presidentes Municipales y Regidores Propietarios de los Ayuntamientos, n
 
 V. Ser originario de la Municipalidad que lo elige o vecino de ella cuando menos cinco años anteriores a la elección, siempre que sea ciudadano Sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de diez años inmediatamente anteriores al día de la elección.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 1944)</small>
+> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 1971)</small>
 
 ###### Art. 117.
 
-Cuando por cualquiera circunstancia desaparecieren los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultades el Congreso del Estado, o en su defecto la Diputación Permanente, para elegir Regidores Substitutos mientras se convoca a nueva elección si la falta ocurriere dentro de los dos primeros años, más si ocurriere dentro del último, los nombrados terminarán el período.
+Cuando por cualquiera circunstancia desaparecieran los Ayuntamientos u ocurrieren faltas absolutas en su personal, tendrá facultad el Congreso del Estado o en su defecto la Diputación Permanente, para elegir Regidores Substitutos quienes terminarán el período.
 
 ###### Art. 118.
 
@@ -1868,3 +1868,7 @@ P.O. 17 DE MARZO DE 1970.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 28 DE AGOSTO DE 1971.
+
+UNICO.- El presente decreto comenzará a surtir sus efectos legales correspondientes, al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
