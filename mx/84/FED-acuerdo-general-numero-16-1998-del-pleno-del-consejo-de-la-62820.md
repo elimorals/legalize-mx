@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-03-22"
+last_updated: "1999-03-24"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -139,7 +139,9 @@ V.- QUINTO CIRCUITO:
 
 VI.- SEXTO CIRCUITO:
 
-1.- Cuatro tribunales colegiados y un tribunal unitario, con residencia en la ciudad de Puebla.
+> <small>(REFORMADO POR EL PUNTO UNDECIMO DEL ACUERDO GENERAL NUMERO 8/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE MARZO DE 1999)</small>
+
+1.- Seis tribunales colegiados especializados: uno en materia penal, uno en materia administrativa, tres en materia civil y uno en materia de trabajo; y, un tribunal unitario, todos con residencia en la ciudad de Puebla.
 
 2.- Seis juzgados de distrito con sede en la ciudad de Puebla.
 
@@ -602,6 +604,14 @@ TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en e
 D.O.F. 22 DE MARZO DE 1999.
 
 PRIMERO.- Este Acuerdo entrará en vigor el día diecinueve de abril de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 24 DE MARZO DE 1999.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día veintiséis de abril de mil novecientos noventa y nueve.
 
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
