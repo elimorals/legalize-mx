@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-crea-el-sistema-para-el-desarrollo-integral-de-la-11740
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-26"
-last_updated: "1993-06-17"
+last_updated: "2003-09-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE CREA EL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 2003.
 
 Ley Publicada en el Periódico Oficial del Estado de Querétaro de Arteaga, el jueves 26 de diciembre de 1985.
 
@@ -157,9 +157,11 @@ Los bienes e ingresos del Patronato no estarán sujetos a pago de contribuciones
 
 Los bienes que adquiera el Patronato serán propiedad del Sistema y los administrará buscando la realización de sus fines.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 11.
 
-Los integrantes del Patronato no percibirán retribución, emolumentos o compensación.
+Los integrantes del Patronato en ningún caso podrán percibir retribución, honorarios, emolumentos, gratificaciones, o prestación o remuneración en especie o dinero.
 
 ### CAPITULO V. DE LA JUNTA DIRECTIVA
 
@@ -251,9 +253,13 @@ XIV.- Las demás que le asigne esta Ley.
 
 Son facultades y obligaciones de la Procuraduría de la Defensa del Menor y la Familia:
 
-I.- Proporcionar orientación y Asistencia Jurídica a las personas de escasos recursos en materia de derecho familiar.
+> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
-II.- Actuar con interés jurídico ante las Autoridades y Tribunales competentes, cuando discrecionalmente considere afectados los derechos de menores, mayores incapaces, ancianos y minusválidos, respetando siempre las atribuciones y funciones que las Leyes encomiendan a otras Autoridades.
+I.- Proporcionar orientación y Asistencia Jurídica a las personas de escasos recursos en materia de derecho familiar. Dando seguimiento a los pleitos judiciales, para en caso de irregularidades, iniciar o reiniciar las actividades procesales conducentes.
+
+> <small>(REFORMADA P.O. 24 DE SEPTIEMBRE DE 2003)</small>
+
+II.- Actuar con interés jurídico ante las Autoridades y Tribunales competentes, cuando discrecionalmente considere afectados los derechos de menores, mayores incapaces, ancianos, minusválidos, y mujeres en periodos de gestación o lactancia, en estado de abandono o marginación y víctimas de maltrato, respetando siempre las atribuciones y funciones que las Leyes encomiendan a otras Autoridades.
 
 III.- Ejercer la defensa de los menores infractores.
 
@@ -295,11 +301,13 @@ V.- Las demás que le asigne la Ley.
 
 ###### ARTÍCULO 21.
 
-Los Ayuntamientos procurarán que los Sistemas Municipales para el Desarrollo Integral de la Familia, se organicen y estructuren en forma similar al Sistema Estatal.
+Los Ayuntamientos vigilarán y se encargarán de que todos los sistemas municipales para el Desarrollo Integral de la Familia se organicen y estructuren conforme al Sistema Estatal. Asimismo los integrantes del Patronato en ningún caso podrán percibir retribución, honorarios, emolumentos, gratificaciones, o prestación o remuneración en especie o dinero.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 22.
 
-Los Ayuntamientos, procurando respetar las normas y lineamientos de los Sistemas Nacional y Estatal, en las actas de las Sesiones de Cabildo en que aprueben la creación de los Sistemas Municipales, deberán hacer constar:
+Los Ayuntamientos respetando las normas y lineamientos de los Sistemas Nacional y Estatal, en las actas de las sesiones de Cabildo en que aprueben la creación de los Sistemas Municipales, deberán hacer constar:
 
 A).- Los objetivos que en materia de asistencia social se fije el Ayuntamiento.
 
@@ -363,10 +371,20 @@ PRIMERO.- Esta Ley entrará en vigor el día de su publicación en el Periódico
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 
+P.O. 24 DE SEPTIEMBRE DE 2003.
+
+PRIMERO.- La presente reforma entrará en vigor el día primero de octubre de 2003.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente.
+
+TERCERO.- Los sistemas municipales para el Desarrollo Integral de la Familia, que no estén estructurados y organizados conforme a las disposiciones aplicables para el Sistema Estatal para el Desarrollo Integral de la Familia, deberán adecuar sus ordenamientos legales de creación a efecto de cumplir con la normatividad aplicable, contando con un término no mayor a 90 días contados a partir de la entrada en vigor de la presente reforma.
+
 ### CAPITULO VIII. DEL DIRECTOR AMINISTRATIVO
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1993)</small>
 
 ### CAPITULO IX. DE LOS SISTEMAS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 2003)</small>
 
 ### CAPITULO X. DE LAS RELACIONES LABORALES
