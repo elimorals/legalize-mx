@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1942-12-31"
+last_updated: "1943-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1942.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1943.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -406,6 +406,8 @@ D.O.F. 31 DE DICIEMBRE DE 1942.
 
 Desde la fecha en que entre en vigor el presente decreto, se suspenderá indefinidamente la acuñación de monedas de cupro-níquel de cinco centavos creadas por el artículo 2°. del decreto de 26 de marzo de 1936, así como la de las monedas de bronce de dos centavos.
 
+> <small>N. DE E. EN RELACION CON LA VIGENCIA DEL PRESENTE PARRAFO, VER ARTICULO UNICO DEL DECRETO QUE PRORROGA HASTA EL 30 DE JUNIO PROXIMO, EL PLAZO PARA LA CIRCULACION DE LAS MONEDAS DE CUPRO-NIQUEL DE CINCO CENTAVOS, PUBLICADO EN EL D.O.F. 31 DE MARZO DE 1943.</small>
+
 ###### ARTICULO 2°.
 
 Se autoriza hasta el treinta y uno de marzo de mil novecientos cuarenta y tres, la circulación provisional de las monedas a que se refiere el artículo anterior. El Banco de México quedará obligado a cambiar las monedas a que alude el artículo anterior por monedas de otras denominaciones, durante el plazo indicado. Después de esa fecha tales monedas quedarán privadas de todo poder liberatorio legal.
@@ -420,9 +422,21 @@ Al efecto, los exportadores estarán obligados a comprobar ante las Aduanas resp
 
 El presente decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
 
+D.O.F. 31 DE MARZO DE 1943.
+
+> <small>N. DE E. DEBIDO A SU IMPORTANCIA, A CONTINUACION SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO QUE PRORROGA HASTA EL 30 DE JUNIO PROXIMO, EL PLAZO PARA LA CIRCULACION DE LAS MONEDAS DE CUPRO-NIQUEL DE CINCO CENTAVOS, PUBLICADO EN EL D.O.F. 31 DE MARZO DE 1943.</small>
+
 ###### ARTICULO 4°.
 
 Se prohibe igualmente, la fundición y afinación de las monedas que se retiran de la circulación por esta ley.
+
+###### ARTICULO UNICO.
+
+Se prorroga hasta el 30 de junio del presente año, el plazo que para la circulación de las monedas de cupro-níquel de cinco centavos, señala el artículo 2°. transitorio del Decreto de 29 de diciembre de 1942, por el cual se modificó la Ley Monetaria.
+
+## TRANSITORIOS
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
 ###### ARTICULO 3°.
 
