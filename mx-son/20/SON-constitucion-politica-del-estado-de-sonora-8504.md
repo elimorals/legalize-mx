@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1987-09-17"
+last_updated: "1988-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE SEPTIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MARZO DE 1988.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -1127,7 +1127,7 @@ Articulo 82 A. (DEROGADO, B.O. 18 DE JUNIO DE 1977)
 
 Disposiciones Generales.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 83.
 
@@ -1323,43 +1323,33 @@ Integración y Organización de los Municipios.
 
 ###### Artículo 112.
 
-El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia, en los juzgados de Primera Instancia, locales y menores, y en los demás organismos que la ley establezca.
+El Poder Judicial se depositará para su ejercicio en un Supremo Tribunal de Justicia y en los Juzgados de Primera Instancia, Locales y Menores.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE SEPTIEMBRE DE 1987)</small>
+Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables.
+
+El servicio judicial será gratuito. En consecuencia, quedan prohibidas las costas judiciales.
+
+Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuída durante su encargo.
+
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 113.
 
-El Supremo Tribunal de Justicia se compondrá de siete magistrados propietarios y ocho suplentes nombrados cada seis años, pudiendo los designados ser reelectos, y tomarán posesión de su cargo el veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que lo formen hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
+El Supremo Tribunal de Justicia se compondrá de diez Magistrados Propietarios y once Suplentes, nombrados cada seis años.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Los Magistrados designados podrán ser reelectos y, si lo fueren, sólo podrán ser privados del cargo en los términos del Título Sexto de esta Constitución.
 
-Los nombramientos de los Magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado y sometidos a la aprobación del Congreso, el que otorgará o negará esa aprobación dentro del término de cinco días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobado los nombramientos. Sin aprobación expresa o tácita no podrán tomar posesión del cargo.
+Los Magistrados tomarán posesión de su cargo el día veinticinco de octubre del año en que se inicie el período constitucional del Ejecutivo. Si por cualquier motivo no se hace nombramiento o los designados no se presentan al desempeño de su cargo, continuarán en funciones los individuos que formen el Supremo Tribunal de Justicia, hasta que tomen posesión los nuevamente nombrados. Los que fueren nombrados en el curso del período, desempeñarán sus funciones hasta la conclusión del mismo. Habrá también magistrados insaculados, cuya designación se hará en la forma que establezca la Ley Orgánica respectiva.
 
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+Los nombramientos de los magistrados del Supremo Tribunal de Justicia serán hechos por el Gobernador del Estado, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad dentro del Poder Judicial o entre las que lo merezcan por su honorabilidad, competencia y antecedentes, en otras ramas de la profesión jurídica. Dichos nombramientos serán sometidos a la aprobación del Congreso, el que otorgará o negará esta aprobación dentro del término de tres días. Si el Congreso no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin aprobación expresa o tácita no se podrá tomar posesión del cargo.
 
-En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación de la Cámara en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros cinco días el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento cesará desde luego en sus funciones de Magistrado provisional y el Gobernador del Estado someterá nuevo nombramiento para su aprobación en los términos señalados.
+En el caso de que el Congreso no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional, y que será sometido a la aprobación del Congreso en el siguiente período ordinario de sesiones. En este período ordinario de sesiones, dentro de los primeros tres días, el Congreso deberá aprobar o reprobar el nombramiento y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente, continuará en sus funciones con el carácter de definitivo. Si el Congreso rechaza el nombramiento, cesará desde luego en sus funciones de Magistrado Provisional y el Gobernador del Estado someterá nuevo nombramiento, para su aprobación en los términos señalados.
 
-> <small>(REFORMADO, B.O. 9 DE ABRIL DE 1984)</small>
-
-Los Magistrados en ejercicio, sólo podrán ser privados de sus cargos, en los términos del Título Sexto de esta Constitución.
-
-> <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
+> <small>(REFORMADO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 114.
 
-Para ser magistrado se requiere:
-
-I. Ser mexicano por nacimiento; nativo del Estado, o no siéndolo tener residencia efectiva en él no menor de cinco años inmediatamente anteriores al día de la elección, y estar en pleno ejercicio de sus derechos políticos.
-
-> <small>(REFORMADA, B.O. 23 DE DICIEMBRE DE 1972)</small>
-
-II. Tener veinticinco años cumplidos, por lo menos, el día de la elección.
-
-III. No haber sido condenado en proceso por ningún delito.
-
-IV. Ser de reconocida moralidad.
-
-V. Poseer el día de la elección, con antigüedad mínima de cinco años, título de licenciado en derecho, expedido por autoridad o corporación legalmente facultada para ello, y tener tres años cuando menos, de práctica profesional reconocida.
+Para ser Magistrado se requiere reunir los requisitos señalados en el artículo 95 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 115.
 
@@ -1401,7 +1391,9 @@ II. Conocer en segunda instancia de los juicios penales.
 
 III. Dirimir las competencias de jurisdicción que se susciten entre los jueces del Estado; así como las que surjan entre cualquiera autoridad judicial del Estado y la Junta Central de Conciliación y Arbitraje, y entre aquéllas y las juntas municipales de conciliación.
 
-IV. Nombrar y remover a los jueces de primera instancia y aceptarles su renuncia en la forma y términos señalados por la Ley.
+> <small>(REFORMADA, B.O. 17 DE MARZO DE 1988)</small>
+
+IV. Nombrar y remover a los Jueces de Primera Instancia, y aceptarles sus renuncias en la forma y términos señalados por la Ley. Los nombramientos de los Jueces serán hechos, preferentemente, entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezcan por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
 V. Nombrar y remover a sus Secretarios y a sus demás empleados subalternos, así como aceptarles su renuncia.
 
@@ -1423,7 +1415,9 @@ XIII. Autorizar el pago de los honorarios de los magistrados suplentes y de los 
 
 XIV. Proponer al Congreso se tomen las medidas encaminadas a remediar las omisiones y contradicciones que observare en las leyes.
 
-XV. Rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
+> <small>(REFORMADA, B.O. 17 DE MARZO DE 1988)</small>
+
+XV. Rendir, por conducto de su Presidente, ante el Congreso del Estado, en sesión especial, el último sábado del mes de septiembre de cada año, un informe sobre el estado que guarde la administración de justicia; así como rendir al Congreso y al Ejecutivo los informes que le pidan sobre el ramo judicial.
 
 XVI. Conocer de las controversias que se susciten entre el Ejecutivo del Estado y los Ayuntamientos.
 
@@ -1433,11 +1427,13 @@ XVII. Instruir y sentenciar de conformidad con las leyes relativas, en única in
 
 XVIII. Las demás que le confieran o impongan las leyes.
 
-> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MARZO DE 1988)</small>
 
 ###### Artículo 121.
 
-Cuando algún Magistrado tuviere que eximirse de conocer de un asunto determinado, por recusación o excusa, se llamará para que lo substituya al Suplente que corresponda. Si el Magistrado impedido fuere el ponente en dicho asunto, el Suplente que lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución respectivo a cargo del Magistrado Propietario siguiente en número a quien no afecte impedimento.
+Cuando algún magistrado estuviere impedido para conocer de un asunto determinado, será suplido, en los términos establecidos por la Ley Orgánica del Poder respectivo. Si el magistrado impedido fuere el ponente en dicho asunto, quien lo substituya no asumirá la ponencia, quedando la elaboración del proyecto a cargo del magistrado siguiente en número, a quien no afecte impedimento.
+
+> <small>(REFORMADO, B.O. 14 DE AGOSTO DE 1957)</small>
 
 Cuando todos los Magistrados en ejercicio estuvieren impedidos para conocer de determinado negocio, el Supremo Tribunal se integrará por Magistrados Suplentes o Insaculados, en su caso, correspondiendo presidir los debates y ser ponente al primero que conforme a la Ley hubiere sido llamado.
 
@@ -2021,7 +2017,7 @@ B.O. 19 DE ABRIL DE 1924.
 
 Primeros (sic).- Los Comisarios de Policía y los Ayuntamientos que resulten electos el último domingo de abril de 1924, durarán en funciones hasta el 15 de septiembre de 1925, y en los períodos siguientes tendrán la duración que señala la Constitución Política Local.
 
-Segundo.- Sométanse las reformas que anteceden a la aprobación de los H. H. Ayuntamientos del Estado para los efectos legales correspondientes.
+Segundo.- Sométanse las reformas que anteceden a la aprobación de los H H. Ayuntamientos del Estado para los efectos legales correspondientes.
 
 Tercero.- Esta Ley entrará en vigor cuando sea aprobada por la mayoría de los H. H. Ayuntamientos del Estado y previa publicación en el Boletín Oficial.
 
@@ -2372,3 +2368,13 @@ La LI y LII, Legislaturas del Congreso del Estado, tendrán dos períodos de ses
 ###### ARTICULO SEPTIMO.
 
 Para el período gubernamental comprendido del 13 de septiembre de 1985 y que terminará el día 12 de septiembre de 1991, el Gobernador rendirá su último informe de Gobierno, ante el Congreso del Estado, el día 26 de agosto.
+
+B.O. 17 DE MARZO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, con excepción del segundo párrafo del artículo 113, el cual entrará en vigor el día 22 de octubre de 1991; en consecuencia, los magistrados actualmente designados, culminarán sus períodos el día 24 de octubre de 1991.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la aplicación de esta Ley.
