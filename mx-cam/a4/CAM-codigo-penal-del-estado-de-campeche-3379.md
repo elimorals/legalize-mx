@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-3379"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-08"
-last_updated: "1986-12-23"
+last_updated: "1987-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO PENAL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1987.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el martes 8 de enero de 1974.
 
@@ -155,7 +155,9 @@ Son circunstancias excluyentes de responsabilidad penal:
 
 I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
 
-II.- Hallarse el acusado, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o estupefacientes, o por un estado toxinfeccioso agudo, o por un trastorno mental involuntario de carácter patológico y transitorio;
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+No podrá invocarse como excluyente de responsabilidad, el trastorno transitorio por quienes cometan delitos que atenten en contra de la vida y la integridad física o mental de menores de edad;
 
 III.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
@@ -1331,13 +1333,17 @@ Queda prohibido emplear a menores de dieciséis años en cantinas, tabernas y ce
 
 Para los efectos de este precepto se considerará como empleado en la cantina, taberna y centro de vicio al menor de dieciséis años que por un salario, por la sola comida, por comisión de cualquier índole, por cualquier otro estipendio, gaje o emolumento, o gratuitamente, preste sus servicios en tal lugar.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 178.
 
-Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privándose al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes.
+Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente aprovechándose de su profesión, arte u oficio, propicie la corrupción de menores. Idénticas sanciones se impondrán al corruptor cuando sea ascendiente, padrastro, madrastra o tutor, del menor, y se privará al reo, además, de todo derecho a los bienes del ofendido y de la patria potestad sobre sus descendientes, o del derecho de tutela.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 179.
 
-Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
+Los delincuentes de que se trata en este Capítulo quedarán inhabilitados permanentemente para ser tutores y curadores.
 
 ### CAPITULO I
 
@@ -1357,9 +1363,11 @@ II.- Al que induzca o solicite a una persona para que con otra, comercie sexualm
 
 III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbulos, casas de cita o lugares de concurrencia expresamente dedicados a explotar la prostitución, u obtenga cualquier beneficio con sus productos.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 182.
 
-Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea menor de edad, se aplicará al que encubra, concierte o permita dicho comercio, pena de cinco a diez años de prisión y multa de mil a cinco mil pesos.
+Cuando la persona cuyo cuerpo sea explotado por medio del comercio carnal sea menor de edad, se aplicará al que incubra (sic), concierte o permita dicho comercio, pena de seis a diez años de prisión y multa de 20 a 150 veces el salario mínimo vigente en el Estado, en el momento de la comisión del delito.
 
 ### CAPITULO II. EJERCICIO INDEBIDO O ABANDONO DE SERVICIO PUBLICO
 
@@ -1869,6 +1877,8 @@ III.- Al que usare uniforme, insignia, distintivo o condecoración a que no teng
 
 ### CAPITULO I. ATENTADOS AL PUDOR, ESTUPRO Y VIOLACION
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 222.
 
 Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se acumularán la falsificación y el delito que por medio de ella hubiere cometido el delincuente.
@@ -1882,6 +1892,8 @@ TITULO DECIMOSEPTIMO
 DELITOS CONTRA LA ECONOMIA DEL ESTADO Y EL BIENESTAR SOCIAL
 
 ### CAPITULO II. RAPTO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 224.
 
@@ -1935,9 +1947,11 @@ DELITOS SEXUALES
 
 ###### Art. 228.
 
-Al que sin consentimiento de una persona púber o impúber, o con consentimiento de esta última, ejecute en ella una (sic) acto erótico-sexual, sin el propósito directo e inmediato de llegar a la cópula, se le aplicarán de tres días a seis meses de prisión y multa de cinco a cincuenta pesos.
+Al que sin consentimiento de una persona púber o impúber o con consentimiento de esta última, ejecuten en ella un acto erótico sexual, sin el propósito directo o inmediato de llegar a la cópula, se le aplicarán de seis meses a un año de prisión y multa de diez a cincuenta veces el salario mínimo vigente en el Estado, en el momento de consumarse el delito.
 
-Si se hiciere uso de la violencia física o moral, la pena será de seis meses a cuatro años de prisión y multa de cincuenta a mil pesos.
+Si se hiciere uso de la violencia física o moral, la pena será de dos a cinco años de prisión y multa de veinte a cien veces el salario mínimo vigente en el Estado, en el momento de la comisión del delito.
+
+Cuanto (sic) el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro, o combatiere delito valiéndose de un cargo o empleo público, o ejerza una profesión y utilice los medios o circunstancias que ellos le proporcionen o sea ministro de algún culto se duplicarán las penas señaladas en los párrafos anteriores.
 
 ###### Art. 229.
 
@@ -1969,31 +1983,33 @@ La sanción de la violación será de tres a ocho años de prisión y multa de c
 
 Se equipara a la violación y se castigará como tal, la cópula con menor de trece años; o con persona aunque sea mayor de edad que se halle privada de razón o de sentido, o cuando por enfermedad o cualquier otra causa no pudiere resistir.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 235.
 
-A las sanciones señaladas en los artículos 230 y 233, se aumentarán de seis meses a dos años de prisión cuando el responsable tenga parentesco consanguíneo, por afinidad o civil con la persona ofendida, o la cópula sea contra el orden natural. También cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro, o cometiere el delito al desempeñar un cargo o empleo públicos o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionan, o sea ministro de algún culto.
+A las sanciones señaladas en los artículos 230 y 233 se aumentarán de seis meses a cinco años de prisión cuando el responsable tenga parentezco (sic) de consanguinidad, de afinidad o civil con la persona ofendida. También cuando el agente ejerciere autoridad sobre el pasivo o fuere su tutor o maestro o cometiere el delito valiéndose de un cargo o empleo públicos o ejerza una profesión y utilice los medios o circunstancias que ellos le proporcionen, o sea ministro de algún culto.
 
-Los responsables de que trata este artículo perderán la patria potestad, si la ejercieren, o la tutela, así como el derecho de heredar a la persona ofendida; los que ejercieran profesión u oficio, quedarán suspendidos en ello por el término de dos hasta cinco años y el funcionario o empleado públicos serán destituidos de su cargo o empleo.
+Los responsables de que trata este artículo perderán la patria potestad, si la ejercieren, o la tutela, o la guarda y custodia, así como el derecho de heredar a la persona ofendida; los que ejercieren profesión y oficio, quedarán suspendidos en ellos por el término de dos hasta cinco años y el funcionario o empleado públicos serán destituidos de su cargo o empleo, e inhabilitados por cinco años para desempeñar otro similar.
 
-Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a cien veces el salario mínimo diario vigente en la Capital del Estado.
+Si la violación fuere cometida con participación de dos o más personas, la prisión será de ocho a veinte años y la multa de veinte a cien veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito.
 
-La reparación del daño en los casos de estupro y violación comprenderá el pago de alimentos a los hijos, si los hubiere, y se hará en la forma y términos de la ley civil.
+La reparación del daño en los casos de estupro y violación comprenderá el pago de los alimentos a los hijos, si los hubiere, y se hará en la forma y términos de la ley civil.
 
 ### CAPITULO UNICO
 
 ###### Art. 236.
 
-Al que se apodere de una mujer por medio de la violencia física o moral, de la seducción o del engaño, para satisfacer algún deseo erótico sexual o para casarse, se le aplicará la pena de seis meses a seis años de prisión y multa de cincuenta a quinientos pesos.
+Al que se apodere de alguna persona por medio de la violencia física o moral, o del engaño, para satisfacer un deseo erótico sexual, o para casarse, se le aplicará la pena de uno a seis años de prisión y multa de diez a cincuenta veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 237.
 
-Se impondrá también la pena del artículo anterior, aunque el raptor no emplee la violencia ni el engaño sino solamente la seducción y consienta en el rapto la mujer, si ésta fuere menor de dieciséis años.
+Se impondrá la pena de dos a ocho años de prisión y multa de veinte a cien veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito, cuando la persona fuere menor de dieciséis años, aunque el raptor no emplee la violencia ni el engaño, y concienta (sic) el rapto dicho menor.
 
 ###### Art. 238.
 
-Por el solo hecho de no haber cumplido dieciséis años la mujer robada que voluntariamente siga a su raptor, se presume que éste empleó la seducción.
+(DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
 ###### Art. 239.
 
@@ -2149,11 +2165,13 @@ Al que infiera lesiones que pongan en peligro la vida, se le impondrán de tres 
 
 ###### Art. 259.
 
-Las lesiones inferidas por quienes ejerzan la patria potestad o la tutela, en ejercicio del derecho de corregir, no serán punibles si fueren de las comprendidas en la primera parte del artículo 254 y, además, el autor no abusare de su derecho, corrigiendo con crueldad y con innecesaria frecuencia.
+(DEROGADO, P.O. 28 DE ABRIL DE 1987)
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 260.
 
-En cualquier otro caso se impondrá al delincuente la sanción que corresponda con arreglo a las prevenciones anteriores y quedará, además, privado de la potestad en virtud de la cual tenga el derecho de corrección.
+Al que ejerciendo la patria potestad o la tutela o encargado de la custodia infiera lesiones a los menores o pupilos bajo su guarda, el Juez podrá imponerle, además de la pena correspondiente a las lesiones, suspensión o privación de aquellos derechos. Si la guarda o custodia del menor provienen del ejercicio de una profesión o empleo, también podrá sancionarse al infractor con la suspensión de uno a seis meses del ejercicio de la profesión o actividad respectiva, o con la destitución del cargo o empleo e inhabilitación por dos años para desempeñar otro similar.
 
 ###### Art. 261.
 
@@ -2184,6 +2202,8 @@ Si el ofendido fuere ascendiente del autor de una lesión, se aumentará dos añ
 De las lesiones que a una persona cause algún animal bravío será responsable el que con esa intención lo azuce o lo suelte, o haga esto último por descuido.
 
 ### CAPITULO V. INFANTICIDIO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 267.
 
@@ -2335,27 +2355,31 @@ Al que cometa el delito de parricidio se le aplicarán de trece a cuarenta años
 
 ###### Art. 290.
 
-Llámase infanticidio la muerte causada a un niño dentro de las setenta y dos horas de su nacimiento por alguno de sus ascendientes consanguíneos.
+Infanticidio es la muerte causada a un ser humano, por su madre, dentro de las setenta y dos horas de su nacimiento, siempre que la madre concurra la siguiente circunstancia:
 
-###### Art. 291.
-
-Al que cometa el delito de infanticidio se le aplicarán de seis a diez años de prisión, salvo lo dispuesto en el artículo siguiente.
-
-###### Art. 292.
-
-Se aplicarán de tres a cinco años de prisión a la madre que cometiere el infanticidio de su propio hijo, siempre que concurran las siguientes circunstancias;
-
-I.- Que no tenga mala fama;
+I.- Que tenga buena fama;
 
 II.- Que haya ocultado su embarazo;
 
-III.- Que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil;
+III.- Que el nacimiento del infante haya sido oculto y no se hubiere inscrito en el Registro Civil, y
 
-IV.- Que el infante no sea legítimo.
+IV.- Que el infante no sea producto de una unión matrimonial o concubinato.
+
+En este caso se aplicará de tres a seis años de prisión y multa de diez a cincuenta veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+###### Art. 291.
+
+Si en el infanticidio tomare participación un médico, cirujano, comadrón o partera, además de las penas privativas de la libertad que les correspondan, se les suspenderá de dos a cinco años en el ejercicio de su profesión.
+
+###### Art. 292.
+
+(DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
 ###### Art. 293.
 
-Si en el infanticidio tomare participación un médico, cirujano, comadrón o partera, además de las penas privativas de la libertad que le correspondan, se le suspenderá de uno a dos años en el ejercicio de su profesión.
+(DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
 ### CAPITULO II. INJURIAS Y DIFAMACION
 
@@ -2371,17 +2395,11 @@ Al que hiciere abortar a una mujer, se le aplicarán de uno a tres años de pris
 
 Si el aborto lo causare un médico, cirujano, comadrón o partera, además de las sanciones que le correspondan conforme al anterior artículo, se le suspenderá de dos a cinco años en el ejercicio de su profesión.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 297.
 
-Se impondrán de seis meses a un año de prisión a la madre que voluntariamente procure su aborto o consienta en que otro la haga abortar, si concurren estas tres circunstancias:
-
-I.- Que no tenga mala fama;
-
-II.- Que haya logrado ocultar su embarazo;
-
-III.- Que éste sea fruto de una unión ilegítima;
-
-Faltando alguna de las circunstancias mencionadas se le aplicarán de uno a cinco años de prisión.
+Se impondrán de uno a tres años de prisión a la madre que voluntariamente procure su aborto o concienta (sic) en que otro la haga abortar, cuando no tenga mala fama haya logrado ocultar su embarazo, y que éste no sea fruto de matrimonio o concubinato. En los demás casos se le aplicará prisión de uno a cinco años.
 
 ###### Art. 298.
 
@@ -2397,37 +2415,61 @@ No se aplicará sanción cuando de no provocarse el aborto, la mujer embarazada 
 
 Al que abandone a un niño incapaz de cuidarse a sí mismo o a una persona enferma, teniendo obligación de cuidarlos, se le aplicarán de un mes a cuatro años de prisión, si no resultare daño alguno, privándolo, además, de la patria potestad o de la tutela, si el delincuente fuere ascendiente o tutor del ofendido.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 301.
 
-Al que sin motivo justificado abandone a sus hijos, o a su cónyuge, sin recursos para atender sus necesidades de subsistencia, se le aplicarán de uno a seis meses de prisión y privación de los derechos de familia.
+Al que sin motivo justificado abandone a sus hijos o a su cónyuge sin recursos para atender a sus necesidades de subsistencia, se le aplicarán de dos a cinco años de prisión, privación de los derechos de familia y pago, como reparación del daño, de las cantidades no suministradas oportunamente por el acusado.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+Art. 301 BIS.- Al que intencionalmente se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a tres años. El juez resolverá la aplicación del producto del trabajo que realice el agente, a la satisfacción de las obligaciones alimentarias de éste.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 302.
 
-El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los legítimos representantes de los hijos; a falta de representantes de los menores la acción se iniciará por el Ministerio Público, a reserva de que el juez de la causa designe un tutor especial para los efectos de este artículo.
+El delito de abandono de cónyuge se perseguirá a petición de la parte agraviada. El delito de abandono de hijos se perseguirá de oficio y, cuando proceda, el Ministerio Público promoverá la designación de un tutor especial que represente a las víctimas del delito ante el Juez de la causa, quien tendrá facultades para designarlo.
+
+Tratándose del delito de abandono de hijos, se declarará extinguida la acción penal, oyendo previamente la autoridad judicial al representante de los menores, cuando el procesado cubra los alimentos vencidos, y otorgue garantías suficiente (sic) en favor de los ofendidos a juicio del Juez de que en lo sucesivo cumplirá con sus deberes alimentarios.
+
+En el caso de que el acusado que fuere puesto en libertad conforme a lo dispuesto con anterioridad, diese lugar a nueva consignación ante la autoridad judicial, por abandono de sus hijos se hará efectiva en favor de éstos la garantía otorgada, independientemente de las consecuencias penales a las que se haga acreedor por la comisión del nuevo ilícito.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 303.
 
-Para que el perdón concedido por el cónyuge ofendido o por los legítimos representantes de los hijos pueda producir la libertad del acusado, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
+Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar todas las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra causión (sic) en favor de la parte ofendida, a juicio del Juez de que en lo sucesivo pagará las cantidades que le correspondan.
+
+En el caso de que el acusado que fuere puesto en libertad conforme a lo dispuesto con anterioridad, diese lugar a nueva consignación ante la autoridad judicial, por abandono de su cónyuge, se aplicará en lo conducente lo dispuesto en el último párrafo del artículo que antecede.
 
 ###### Art. 304.
 
 Si del abandono a que se refieren los artículos anteriores resultare alguna lesión o la muerte, se presumirán éstas como premeditadas para los efectos de aplicar las sanciones que a estos delitos correspondan.
 
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 305.
 
-Al que encuentre abandonado en cualquier lugar a un menor incapaz de cuidarse a sí mismo, o a una persona herida, inválida o amenazada de un peligro cualquiera, se le aplicarán de uno a dos meses de prisión o multa de diez a cincuenta pesos, si no diere aviso inmediatamente a la autoridad u omitiera prestarles el auxilio necesario, cuando pudiere hacerlo sin riego personal.
+Al que encuentre abandonado en cualquier lugar a un menor incapaz de cuidarse a sí mismo o a una persona herida, inválida o amenazada de un peligro cualquiera, se le aplicará de uno a dos años de prisión y multa de cinco a diez veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito si no diere aviso inmediatamente a la autoridad u omitiere prestarles el auxilio necesario, cuando pudiere hacerlo sin riesgo personal.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 306.
 
-El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete que dejare en estado de abandono, sin prestarle o facilitarle asistencia y el cuidado que desde luego necesite, a persona a quien hubiere atropellado por imprudencia o accidente, será castigado con la pena de dos a ocho meses de prisión. Si el responsable estuviere en estado de embriaguez o bajo el influjo de drogas enervantes, la pena se aumentará en las dos terceras partes.
+El automovilista, motorista, conductor de un vehículo cualquiera, o jinete que dejare en estado de abandono sin prestarle o facilitarle la asistencia y en (sic) cuidado que desde luego necesite, a persona a quien hubiere atropellado por imprudencia, o fortuitamente, será castigado con la pena de uno a tres años de prisión. Si el atropellado fuere menor de edad, la pena se aumentará en las dos terceras partes.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 307.
 
-Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado, o lo entregue en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad en su defecto, se le aplicarán de uno a cuatro meses de prisión y multa de veinte a cien pesos.
+Al que exponga en una casa de expósitos a un niño menor de siete años que se le hubiere confiado, o lo entregue en ese o en otro establecimiento de beneficencia o a cualquiera otra persona, sin anuencia de la que se lo confió o de la autoridad, en su defecto, se le aplicarán de uno a dos años de prisión.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
 
 ###### Art. 308.
 
-Los ascendientes o tutores que entreguen en una casa de expósitos a un niño que esté bajo su potestad, perderán por ese solo hecho los derechos que tengan sobre la persona y bienes del expósito.
+La misma pena prevista en el Artículo anterior se impondrá a los ascendientes o tutores que entreguen a una casa de expósitos a un niño que esté bajo su potestad y además, perderán por ese solo hecho los derechos que tengan sobre la persona y los bienes del expósito.
 
 TITULO VIGESIMOTERCERO
 
@@ -2459,7 +2501,7 @@ No se podrá proceder contra el autor de golpes o violencias, sino por queja del
 
 ###### Art. 312.
 
-Los golpes dados y las violencias simples hechos en ejercicio del derecho de corrección, no son punibles.
+(DEROGADO, P.O. 28 DE ABRIL DE 1987)
 
 ### CAPITULO UNICO
 
@@ -2593,9 +2635,11 @@ I.- Al que obligue a otro a prestarle trabajo o servicios personales sin la retr
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 331.
 
-Se impondrá pena de cinco a cuarenta años de prisión y multa de mil a veinte mil pesos, cuando la privación ilegal de la libertad tenga el carácter de plagio o secuestro en alguna de las formas siguientes:
+Se impondrá pena de cinco a cuarenta años de prisión y multa de cincuenta a quinientas veces el salario mínimo diario vigente en el Estado, en el momento de cometerse el delito, cuando la privación ilegal de la libertad tenga el carácter de plagio o secuestro en alguna de las reformas siguientes:
 
 I.- Para obtener rescate o causar daño o perjuicio a la persona privada de la libertad o a otra persona relacionada con aquélla;
 
@@ -2607,7 +2651,9 @@ IV.- Si la detención se hace en camino público o en paraje solitario;
 
 V.- Si se comete el robo de infante menor de doce años, por quien sea extraño a su familia y no ejerza la tutela sobre el menor.
 
-Cuando el delito lo cometa un familiar del menor que no ejerce sobre él la patria potestad ni la tutela, la pena será de seis meses a cinco años de prisión.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+Cuando el delito lo cometa un familiar del menor que no ejerza sobre él la patria potestad o la tutela, ni esté encargado de su custodia por mandamiento judicial, la pena será de uno a nueve años de prisión.
 
 Si espontáneamente se pone en libertad a la persona antes de tres días y sin causar ningún perjuicio, sólo se aplicará la sanción correspondiente a la privación ilegal de la libertad de acuerdo con el artículo 329. Este beneficio no opera en el caso de la fracción III del presente artículo.
 
@@ -2813,6 +2859,10 @@ Se reputa como abuso de confianza la ilegítima posesión de la cosa retenida, s
 
 El delito previsto en este capítulo solamente se perseguirá a petición de parte ofendida, siendo aplicables en lo conducente los artículos 342 y 343.
 
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 362.
 
 Comete el delito de fraude el que engañando a uno o aprovechándose del error en que éste se halla, se hace ilícitamente de alguna cosa o alcanza un lucro indebido.
@@ -2979,19 +3029,33 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daños, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las reglas del robo simple. Si el daño se causa en un apiario o en implementos dedicados a la captura del camarón, la sanción corporal se aumentará de un mes a dos años.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1987)</small>
+
+TITULO VIGESIMOSEXTO
+
+ENCUBRIMIENTO
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 1987)</small>
+
 ###### Art. 376.
 
-Se aplicarán de tres meses a cuatro años de prisión y multa de cincuenta a dos mil pesos al que:
+Se aplicarán de uno a cuatro años de prisión y multa de quince a cien veces el salario mínimo diario vigente en el Estado, en el momento de la comisión del delito, al que:
 
-I.- No procure, por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se estén cometiendo, si son de los que se persiguen de oficio;
+I.- Con ánimo de lucro después de la ejecución del delito y sin haber participado en éste, adquiera, reciba u oculte el producto de aquél a sabiendas de esta circunstancia.
 
-II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió la cosa en venta o prenda tendría derecho para disponer de ella, si resultare robada;
+Si el que recibió la cosa en venta, prenda o bajo cualquier otro concepto, no tuvo conocimiento de la procedencia ilícita de aquélla, por no haber tomado las precauciones indispensables para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, la pena se disminuirá hasta en una mitad.
 
-III.- Requerido por las autoridades no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
+Para los efectos del párrafo anterior, los adquirientes de vehículos de motor deberán tramitar la transferencia o regularización del vehículo, cerciorándose de su legítima procedencia;
 
-IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
+II.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito;
 
-V.- Oculte al responsable de un delito, o los efectos, objetos o instrumentos del mismo, o impida que se averigüe.
+III.- Oculte o favorezca el ocultamiento del responsable de un delito, los efectos, objetos o instrumentos del mismo, o impida que se averigüe;
+
+IV.- Requerido por las autoridades no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes;
+
+V.- No procure, por los medios lícitos que tenga a su alcance y sin riesgo para su persona, impedir la consumación de los delitos que se sabe van a cometerse o se estén cometiendo, salvo que tenga obligación de afrontar el riesgo, en cuyo caso se estará a lo previsto en este Artículo o en otras normas aplicables; y
+
+VI.- No denuncie ante el Ministerio Público y, en caso de urgencia, ante cualquier funcionario o agente de policía, los delitos que sepa se han cometido, se estén cometiendo o vayan a cometerse, si son de los que deben perseguirse de oficio, y particularmente si los pasivos u ofendidos por dichos ilícitos son menores de edad, ancianos o minusválidos.
 
 ###### Art. 377.
 
@@ -3029,8 +3093,6 @@ POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
 
 Los Código Penal y de Procedimientos Penales del Estado, a que se ha hecho mención, comenzarán a regir el día 2 de enero de 1976.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
-
 P.O. 15 DE ENERO DE 1982.
 
 ###### ARTICULO UNICO.
@@ -3056,3 +3118,7 @@ P.O. 23 DE DICIEMBRE DE 1986.
 Artículo Primero.- El presente Decreto iniciará su vigencia a los treinta días de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a este Decreto.
+
+P.O. 28 DE ABRIL DE 1987.
+
+UNICO.- El presente decreto entrará en vigor a los tres días de su publicación en el Periódico Oficial del Estado.
