@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-7618"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-18"
-last_updated: "1990-04-27"
+last_updated: "1990-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE ABRIL DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 1990.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 18 de noviembre de 1986.
 
@@ -7837,7 +7837,7 @@ I.- Acompañarse el certificado de defunción del autor de la herencia o en su c
 
 II.- Acreditarse la defunción por medio de otro documento o prueba distinta, si por circunstancias justificadas, calificadas por el Juez, no pudiere presentarse copia del acta de defunción;
 
-III.- Acompañarse el comprobante del pago de la pensión de bibliotecas.
+III.- (DEROGADA, P.O. 12 DE JUNIO DE 1990)
 
 ###### Artículo 1353.
 
@@ -8544,5 +8544,9 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los procedimientos judiciales que se hayan iniciado antes de la vigencia del presente, continuarán hasta su conclusión de acuerdo a la legislación bajo cuyo imperio se iniciaron.
 
 P.O. 27 DE ABRIL DE 1990.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE JUNIO DE 1990.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
