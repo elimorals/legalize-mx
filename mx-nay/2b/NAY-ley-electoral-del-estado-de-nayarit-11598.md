@@ -4,7 +4,7 @@ identifier: "NAY-ley-electoral-del-estado-de-nayarit-11598"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-25"
-last_updated: "1998-09-09"
+last_updated: "2001-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ELECTORAL DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 2001.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el sábado 25 de noviembre de 1995.
 
@@ -81,9 +81,13 @@ Votar en las elecciones constituye un derecho y una obligación del ciudadano. E
 
 Quedan prohibidos los actos que generen presión o coacción a los electores.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 5.
 
-El derecho de votar lo ejercen los ciudadanos que tengan vigentes sus derechos políticos, estén anotados en la lista nominal y cuenten con su credencial para votar. El ejercicio de éstos derechos se limitará, invariablemente, a los casos y supuestos previstos expresamente por la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado.
+El derecho al voto corresponde a los ciudadanos nayaritas que cumplan con la calidad de elector. Tienen la calidad de elector, quienes se encuentren en pleno ejercicio de sus derechos políticos, estén anotados en la lista nominal de electores correspondiente a su sección, distrito y municipio, cuenten con la respectiva credencial para votar con fotografía y no tengan impedimento legal para el ejercicio de ese derecho.
+
+El ejercicio de este derecho se limitará, invariablemente, a los supuestos previstos expresamente por la Constitución Política de los Estados Unidos Mexicanos y la particular del estado.
 
 ### CAPITULO II. De las Obligaciones
 
@@ -213,9 +217,11 @@ En caso de declaración de nulidad de elecciones, la convocatoria se emitirá de
 
 Las convocatorias para la celebración de elecciones extraordinarias, no podrán restringir los derechos que esta ley reconoce a los ciudadanos y a los partidos políticos, ni alterar los procedimientos y formalidades que la misma establece.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 22.
 
-El Consejo Estatal Electoral y los Consejos Municipales, en ningún caso podrán modificar o ampliar los plazos fijados en esta ley a las diferentes etapas del proceso, salvo las actividades relativas al padrón electoral, listas nominales, entrega, reposición y resguardo de credenciales que de manera excepcional se convengan con el Registro Federal de Electores del Instituto Federal Electoral.
+El Consejo Estatal Electoral y los Consejos Municipales, en ningún caso podrán modificar o ampliar los plazos fijados en esta ley a las diferentes etapas del proceso. Los términos y plazos a que se sujetarán las actividades concernientes al registro de electores, quedarán sujetas al convenio que al efecto se suscriba en los términos del artículo 136 de la presente ley.
 
 En el caso de elecciones extraordinarias, el Congreso ajustará los plazos, conforme a la fecha señalada para las elecciones, en la convocatoria respectiva.
 
@@ -231,13 +237,23 @@ a) Que participan con fórmulas de candidatos a Diputados por el sistema de Mayo
 
 b) Haber registrado listas estatales de candidatos para esta elección de hasta un número de doce ciudadanos para cada partido político;
 
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+Opcionalmente, los partidos políticos podrán presentar esta lista con un número de seis ciudadanos que ocuparan los números nones de la lista total y los seis restantes, corresponderán a los números pares de la lista, mismos que serán cubiertos por el organismo electoral, una vez realizada la elección, con los candidatos de mayoría relativa registrados por el partido político respectivo, que no hayan alcanzado el triunfo de mayoría relativa y los cuales serán ordenados en forma decreciente conforme al porcentaje de votos obtenidos en relación directa al total de votos computados en la elección distrital respectiva.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+Una vez registrada la lista de candidatos por alguna de las anteriores opciones, el partido político postulante no podrá optar por otra.
+
 > <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
 
 c) Haber alcanzado por lo menos el 2.0% de la votación total estatal en la elección de Diputados;
 
 II. Todo partido político tendrá derecho a concurrir a la asignación de Diputados por el principio de Representación Proporcional, en proporción directa a su porcentaje de votos;
 
-III. A ningún partido político se le podrán asignar por ambos principios más de veinte Diputados.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+III. A ningún partido político o coalición se le podrán asignar por ambos principios más de dieciocho diputados.
 
 ###### Artículo 24.
 
@@ -547,11 +563,13 @@ Asimismo promoverá ante las autoridades correspondientes del Instituto Federal 
 
 Los partidos políticos con registro ante el organismo estatal electoral, independientemente de las demás prerrogativas otorgadas por esta ley, de acuerdo con la disponibilidad y obsecuencia al presupuesto del estado, tendrán derecho al financiamiento público en apoyo a sus actividades, así como para el desarrollo de aquellas tendientes a la obtención del sufragio, conforme a las disposiciones siguientes:
 
-> <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
 
-I. El Consejo Estatal Electoral distribuirá entre los partidos políticos con registro, el monto que resulte de multiplicar el 25 por ciento del equivalente al salario mínimo diario vigente en el Estado por el número total de ciudadanos inscritos en la lista nominal de electores en el Estado de la elección inmediata anterior de Diputados Locales.
+I. El Consejo Estatal Electoral distribuirá entre los partidos políticos con registro, el monto que resulte de multiplicar el 50 por ciento del equivalente al salario mínimo diario vigente en el Estado por el número total de ciudadanos inscritos en la lista nominal de electores en el Estado con corte a la fecha de la última elección;
 
-II. El monto que resulte de la anterior operación se dividirá por mitades: Una mitad será distribuida a partes iguales entre todos los partidos políticos con derecho a ello, y la otra mitad en proporción directa al número de votos obtenidos en dicha elección;
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+II. El monto que resulte de la anterior operación se dividirá tres partes: Una tercera parte será distribuida a partes iguales entre todos los partidos políticos que tengan derecho a ello, una segunda parte en proporción directa al número de votos obtenidos en la última elección, y la tercera parte restante, en proporción directa al número de diputados obtenidos en dicha elección.
 
 III. Los partidos políticos recibirán el monto de su financiamiento en tres anualidades, durante los tres años siguientes a la elección. La primera anualidad será por el 20% del total, la segunda por el 30% y la última por el 50%;
 
@@ -623,11 +641,15 @@ Los fondos y fideicomisos que constituyan, serán manejados a través de las ope
 
 ###### Artículo 52.
 
-El Consejo Estatal Electoral establecerá los procedimientos y mecanismos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las reglas y lineamientos específicos para la presentación de sus informes y comprobantes.
+El Consejo Estatal Electoral, establecerá los procedimientos y mecanismos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos, así como las reglas y lineamientos específicos para la presentación de sus informes y comprobantes.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
-De igual manera el Consejo Estatal Electoral nombrará una comisión para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La Comisión se integrará por dos Consejeros Ciudadanos y por el Secretario Técnico del Consejo quien la presidirá.
+De igual manera el Consejo Estatal Electoral nombrará una comisión para la revisión de los informes que los partidos políticos deberán presentar sobre el origen y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como de su empleo y aplicación. La comisión se integrará por dos Consejeros Ciudadanos, dos Auditores Externos y por el Secretario Técnico del Consejo quien la presidirá.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+Los dos auditores externos serán seleccionados mediante concurso de oposición, por convocatoria pública que al efecto expida el Consejo. El jurado calificador estará integrado por el Presidente del Organismo electoral y por el representante ante el mismo, de cada uno de los partidos políticos con representación en la Cámara de Diputados del Estado.
 
 A ese efecto, los partidos políticos presentarán anualmente, a más tardar el último día del mes febrero del año siguiente del ejercicio que se reporte, los ingresos totales y gastos ordinarios que hayan realizado durante el ejercicio objeto del informe, acompañando los comprobantes correspondientes.
 
@@ -637,7 +659,7 @@ La Comisión, con base en estos informes, elaborará dentro del término de cuar
 
 Este plazo será prorrogable por acuerdo de la Comisión hasta por quince días más en caso de advertir la falta de documentación comprobatoria, omisiones técnicas o irregularidades, a cuyo vencimiento elaborará un dictamen consolidado.
 
-Si el Consejo Estatal Electoral, con base en el dictamen, determina que los recursos no fueron empleados para los fines para los que se otorgaron, oirá en defensa a la directiva del partido de que se trate y dictará la resolución correspondiente. En caso de que, conforme a los alegatos y las pruebas presentadas, el Consejo estime que no justifica el gasto, suspenderá provisionalmente el financiamiento otorgado y dará vista al Tribunal Electoral del Estado para los efectos previstos en el Artículo 47 de esta ley.
+Si el Consejo Estatal Electoral, con base en el dictamen, determina que los recursos no fueron empleados para los fines para los que se otorgaron, oirá en defensa a la directiva del partido de que se trate y dictará la resolución correspondiente. En caso de que, conforme a los alegatos y las pruebas presentadas, el Consejo estime que no justifica el gasto, suspenderá provisionalmente el financiamiento otorgado y dará vista al Tribunal Electoral del Estado para los efectos previstos en el artículo 47 de esta ley.
 
 Además si el Consejo Estatal Electoral advierte la existencia de errores u omisiones que determinen que los recursos asignados para gastos de campaña no han sido utilizados para el fin que se otorgaron o rebasaron éste, dictará conforme el procedimiento anterior la resolución correspondiente y dará vista al Tribunal Electoral del Estado para los efectos de ley.
 
@@ -919,7 +941,7 @@ XXI. Resolver los recursos de su competencia en los términos de esta ley;
 
 XXII. Expedir su reglamento interior para el buen funcionamiento del Consejo Estatal Electoral y sus órganos desconcentrados;
 
-XXIII. Turnar al Tribunal Electoral del Estado la documentación de la elección impugnada, así como los recursos interpuestos que hubiese recibido de los partidos políticos, los candidatos o de sus representantes;
+XXIII. (DEROGADA, P.O. 10 DE OCTUBRE DE 2001)
 
 XXIV. Solicitar por conducto de su Presidente, el auxilio de la fuerza pública, para garantizar el desarrollo normal del proceso electoral; y
 
@@ -962,6 +984,10 @@ XIV. Solicitar a las autoridades competentes los medios de seguridad personal pa
 XV. Proponer al Consejo Estatal Electoral los programas de capacitación de los servidores públicos electorales, observadores, visitadores y ciudadanos encargados de las casillas;
 
 XVI. Expedir y entregar las constancias de asignación a los Diputados electos por el principio de Representación Proporcional y la de mayoría a los candidatos a Diputados electos por este principio, así como la del candidato a Gobernador Constitucional del Estado que hayan obtenido el mayor número de votos;
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+Turnar al Tribunal Electoral del Estado la documentación de la elección impugnada, así como los recursos interpuestos que hubiese recibido de los partidos políticos, los candidatos o de sus representantes;
 
 XVII. Proveer lo necesario para la recepción y custodia de la documentación electoral que le haya sido remitida por los Consejos Municipales Electorales;
 
@@ -1293,7 +1319,7 @@ a) Recibir del Presidente, la fracción de la lista nominal de electores y bolet
 
 b) Identificar a los electores y comprobar que sus nombres figuren en la lista nominal correspondiente;
 
-c) Una vez emitido el sufragio por el elector y depositado en la urna, requerirá al votante estampe su firma o huella digital en el espacio correspondiente de la lista nominal;
+c) (DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 d) Marcar la credencial del elector que haya ejercido su voto;
 
@@ -1381,347 +1407,183 @@ Los Consejos Municipales Electorales, dentro de las cuarenta y ocho horas siguie
 
 En idéntica forma procederán respecto de las subsecuentes sesiones.
 
+> <small>(DEROGADO CON LOS ARTICULOS Y CAPITULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
+
 ## TITULO SEXTO. Del Registro Estatal de Electores
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 106.
 
-El Consejo Estatal Electoral, por conducto de la dirección correspondiente, prestará los servicios relacionados con el Registro Estatal de Electores.
-
-El Registro Estatal de Electores es de carácter permanente y de interés público y tiene por objeto y finalidad la integración del padrón electoral del Estado.
-
-Los documentos, datos e informes que los ciudadanos proporcionen al Registro Estatal de Electores en cumplimiento de las obligaciones que les imponen la Constitución y esta ley, serán estrictamente confidenciales y no podrán comunicarse o darse a conocer, salvo cuando se trate de juicio, recursos o procedimientos en que el Consejo Estatal Electoral sea parte; o bien para cumplir con las obligaciones previstas por esta ley, en la Ley General de Población o por mandato de juez competente.
-
-Los miembros de los Consejos Estatal y Municipales Electorales tendrán acceso a la información que contiene el padrón electoral, exclusivamente para el cumplimiento de sus funciones y no podrán darla o destinarla a finalidades u objetos distintos al de la revisión del padrón electoral y las listas nominales.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 107.
 
-El Registro Estatal de Electores, para el mejor desempeño de sus funciones podrá establecer oficinas y agencias en los lugares que sean necesarios y auxiliarse de oficinas estatales y municipales.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 108.
 
-El Registro Estatal de Electores está integrado por las secciones siguientes:
-
-a) Del catálogo general de electores.
-
-b) Del padrón electoral.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 109.
 
-El catálogo general de electores contiene información básica de los hombres y mujeres nayaritas, mayores de dieciocho años.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
-El padrón electoral constará de los nombres de los ciudadanos consignados en el catálogo estatal de electores y de quienes hayan presentado la solicitud de registro.
-
-Las secciones del Registro Estatal de Electores, se formarán según el caso, mediante las acciones siguientes:
-
-a) La aplicación de la técnica censal total o parcial.
-
-b) La inscripción directa y personal de los ciudadanos.
-
-c) La incorporación de los datos que aporten las autoridades competentes, relativas a fallecimientos o habilitaciones, inhabilitaciones y rehabilitaciones de los derechos políticos de los ciudadanos.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 110.
 
-Con la finalidad de contar con un catálogo general de electores, del que se derive un padrón electoral integral, auténtico y confiable, por acuerdo del Consejo Estatal Electoral se podrá ordenar, si fuere necesario, se aplique la técnica censal total o parcial en el Estado de Nayarit.
-
-La técnica censal es el procedimiento que se realiza mediante entrevistas casa por casa, a fin de obtener la información básica de los nayaritas mayores de 18 años, consistente en:
-
-I. Apellido paterno, apellido materno y nombre completo;
-
-II. Lugar y fecha de nacimiento;
-
-III. Edad y sexo;
-
-IV. Domicilio actual y tiempo de residencia;
-
-V. Ocupación, y
-
-VI. En su caso, el número y fecha del certificado de naturalización.
-
-La información básica contendrá, además, el distrito electoral uninominal, el Municipio la localidad y la sección electoral correspondiente al domicilio, así como la fecha en que se realizó la visita y el nombre y la firma del entrevistador.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 111.
 
-Concluida la aplicación de la técnica censal total o parcial, el Registro Estatal de Electores, a través del Consejo Estatal Electoral, verificará que en el catálogo general de electores no existan duplicaciones, a fin de asegurar que cada elector aparezca registrado una sola vez.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 112.
 
-Con base en el catálogo general de electores, el registro procederá a la formación del padrón electoral y, en su caso, a la expedición de las credenciales para votar.
-
-Independientemente del registro en el catálogo general de electores, para la incorporación al padrón electoral se requerirá solicitud individual en que consten firma, huella digital y fotografía del ciudadano.
-
-Con base en la solicitud se expedirá la correspondiente credencial para votar.
-
-Para obtener la credencial para votar, el ciudadano deberá identificarse a través de los medios o procedimientos que determine el Comité Técnico y de Vigilancia del Consejo Estatal Electoral.
-
-En todos los casos, al recibir su credencial para votar, el interesado deberá firmarla y poner su huella digital, previa identificación que haga a satisfacción del funcionario electoral que realice la entrega.
-
-Se conservará la constancia de entrega de la credencial para votar con la referencia de los medios identificatorios.
-
-Los formatos de credencial para votar que no hubiesen sido utilizados se relacionarán debidamente y serán depositados en un lugar que garantice su salvaguarda hasta la conclusión de la jornada electoral de que se trate. El Comité Técnico y de Vigilancia, de acuerdo con el procedimiento que a tal efecto acuerde el Consejo Estatal Electoral, tomará las medidas para su cumplimiento por parte de los integrantes del Registro, quienes podrán estar acompañados de los representantes de los partidos políticos, para que verifiquen que se cumpla con dicho procedimiento.
-
-Las oficinas del Registro Estatal de Electores verificarán que los nombres de los ciudadanos que no hayan acudido a obtener su credencial para votar, no aparezcan en las listas nominales de electores.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 113.
 
-Una vez llevado a cabo el procedimiento a que se refiere el artículo anterior, se procederá a formar las listas nominales de electores del padrón electoral con el listado de electores a quienes se les haya entregado su credencial para votar.
-
-Los listados se formularán por Municipio y por secciones electorales.
-
-Los listados anteriores se pondrán a disposición de los partidos políticos para su revisión y, en su caso, para que formulen las observaciones que estimen pertinentes.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 114.
 
-El Registro Estatal de Electores proveerá lo necesario para que las listas nominales se pongan en conocimiento de la ciudadanía en cada distrito o municipio que corresponda.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
-La documentación relativa a las altas o bajas de ciudadanos en el padrón electoral quedará bajo la custodia y responsabilidad de la Dirección del Registro Estatal de Electores y sus representaciones municipales.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 115.
 
-A fin de actualizar el catálogo general de electores y el padrón electoral, el Registro Estatal de Electores realizará anualmente, durante el mes de enero, una campaña intensa convocando y orientando a la ciudadanía a cumplir con las obligaciones siguientes:
-
-I. Durante el periodo de actualización deberán acudir ante las oficinas del Registro, en los lugares que éste determine, para ser incorporados al catálogo general de electores, todos aquellos ciudadanos que:
-
-a) Que no hubiesen sido incorporados durante la aplicación de la técnica censal total; y
-
-b) Que hubiesen alcanzado la ciudadanía con posterioridad a la aplicación de la técnica censal total;
-
-II. Durante el periodo de actualización también deberán de acudir a las oficinas los ciudadanos incorporados en el catálogo general de electores y en el padrón electoral que:
-
-a) No hubieren notificado su cambio de domicilio;
-
-b) Incorporados en el catálogo general de electores no estén registrados en el padrón electoral;
-
-c) Hubiesen extraviado su credencial para votar;
-
-d) Suspendidos en sus derechos políticos, hubieren sido rehabilitados.
-
-Los ciudadanos al acudir voluntariamente a darse de alta o dar aviso de cambio de domicilio, o bien al ser requeridos por el personal del Registro Estatal de Electores, durante la aplicación de la técnica censal, tendrán la obligación de señalar el domicilio en que hubieren sido registrados con anterioridad y, en su caso, firmar, poner la huella digital y fotografía con los documentos para la actualización respectiva.
-
-El Consejo Estatal Electoral y los medios de comunicación podrán coadyuvar con el registro en las tareas de orientación ciudadana.
-
-A petición de los ciudadanos, las autoridades estatales y municipales están obligadas a expedir gratuitamente, todas aquellas certificaciones y constancias que les sean necesarias para acreditar su residencia, tiempo de la misma y mayoría de edad, a efecto de lograr su inscripción en el padrón electoral.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 116.
 
-Los ciudadanos podrán solicitar su incorporación en el catálogo general de electores o, en su caso, su inscripción en el padrón electoral, en periodos distintos a los de la actualización a que se refieren los artículos precedentes, desde el día siguiente al de la elección hasta el día último del mes de enero del año de la elección ordinaria.
-
-Los nayaritas que en el año de la elección cumplan 18 años entre el 1o. de febrero y el día de los comicios, deberán solicitar su inscripción, a más tardar, el día último del mes de enero.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 117.
 
-La solicitud de incorporación al catálogo general de electores podrá servir para la inscripción de los ciudadanos en el padrón electoral, ésta se hará en formas individuales en las que se asentarán los datos siguientes:
-
-I. Apellido paterno, apellido materno y nombre completo;
-
-II. Lugar y fecha de nacimiento;
-
-III. Edad y sexo;
-
-IV. Domicilio actual y tiempo de residencia;
-
-V. Ocupación;
-
-VI. En su caso, el número y la fecha del certificado de naturalización; y
-
-VII. Firma y, en su caso, huella digital y fotografía del solicitante.
-
-El personal encargado de la inscripción asentará en las formas a que se refiere el párrafo anterior, los datos siguientes:
-
-a) Municipio y localidad donde se realice la inscripción;
-
-b) Distrito y sección electoral correspondiente al domicilio; y
-
-c) Fecha de la solicitud de inscripción.
-
-Al ciudadano que solicite su inscripción en los términos de este artículo se le entregará un comprobante de su solicitud, con el número de ésta, el cual devolverá al momento de recibir o recoger su credencial para votar.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 118.
 
-Los nayaritas residentes en el territorio del Estado que se encuentren incapacitados físicamente para acudir a inscribirse ante las oficinas del Registro, deberán solicitar su inscripción, por escrito, acompañando la documentación que acredite su incapacidad.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 119.
 
-Es obligación de los ciudadanos inscritos en el padrón electoral, dar aviso de su cambio de domicilio ante la oficina o representación del Registro Estatal de Electores, más cercana a su nuevo domicilio.
-
-En los casos en que un ciudadano solicite su alta por cambio de domicilio, deberá exhibir y entregar la credencial para votar correspondiente a su domicilio anterior, o aportar los datos de la misma en caso de haberla extraviado, para que se proceda a cancelar tal inscripción, a darlo de alta en el listado correspondiente a su domicilio actual y expedirle su nueva credencial para votar. Las credenciales substituidas por el procedimiento anterior serán destruidas de inmediato.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 120.
 
-Podrán solicitar la expedición de credencial para votar o la rectificación ante el Registro Estatal de Electores, aquellos ciudadanos que:
-
-a) Habiendo cumplido con los requisitos y trámites correspondientes no hubieren obtenido oportunamente su credencial para votar;
-
-b) Habiendo obtenido oportunamente su credencial para votar, no aparezcan incluidos en la lista nominal de electores de la sección correspondiente a su domicilio; o
-
-c) Consideren haber sido indebidamente incluidos o excluidos de la lista nominal de electores de la sección correspondiente a su domicilio.
-
-En los casos a que se refiere el párrafo anterior, la solicitud de expedición o de rectificación se presentará en cualquier tiempo durante los dos años previos al del proceso electoral.
-
-En el año de la elección los ciudadanos que se encuentren en el supuesto del inciso a) del primer párrafo de este artículo, podrán presentar solicitud de expedición de credencial para votar hasta el día último de febrero. En los casos previstos en los incisos b) y c) del párrafo señalado, los ciudadanos podrán presentar solicitud de rectificación a más tardar el día 15 de marzo.
-
-En el Registro Estatal de Electores, existirán a disposición de los ciudadanos los formatos necesarios para la presentación de la solicitud respectiva.
-
-El Registro Estatal de Electores resolverá la procedencia o improcedencia de la solicitud de expedición de credencial para votar, en un plazo de veinte días naturales.
-
-La resolución que declare improcedente la solicitud de expedición de credencial o de rectificación o la falta de respuesta en tiempo, serán recurribles ante el Tribunal Electoral. Para tal efecto, los ciudadanos interesados tendrán a su disposición en las oficinas del Registro Estatal de Electores los formatos necesarios para la interposición del recurso respectivo.
-
-La resolución recaída a la solicitud de expedición de credencial o de rectificación será notificada personalmente al ciudadano si éste comparece ante la oficina responsable de la inscripción o, en su caso por telegrama o correo certificado.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 121.
 
-El Registro Estatal de Electores podrá utilizar la técnica censal parcial en distritos, municipios y secciones o partes de éstos, en aquellos casos en que así se acuerde en el seno del Consejo Estatal Electoral o cuando lo solicite el Presidente de dicho Consejo, a fin de mantener actualizados tanto el catálogo general de electores como el padrón electoral.
-
-La técnica censal parcial tendrá por objeto recabar la información básica de los ciudadanos no incluidos en el catálogo general de electores o, en su caso, verificar los datos contenidos en el mismo mediante visitas casa por casa.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 122.
 
-Las credenciales para votar que se expidan conforme a lo previsto por esta ley, estarán a disposición de los interesados hasta el 28 de febrero del año de la elección.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 123.
 
-Las listas nominales de electores son las relaciones elaboradas por el Registro Estatal de Electores que contienen el nombre de las personas incluidas en el padrón electoral, agrupadas por Municipio y sección, a quienes se les ha expedido y entregado su credencial para votar.
-
-La sección electoral es la fracción territorial de los distritos electorales uninominales para la inscripción de los ciudadanos en el padrón electoral y en las listas nominales de electores.
-
-Cada sección tendrá como mínimo cincuenta electores y como máximo mil quinientos.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 124.
 
-El Registro Estatal de Electores entregará a sus representaciones las listas nominales de electores para que sean exhibidas, a más tardar el día 1o. de marzo, por quince días naturales.
-
-La exhibición se hará en cada Sección Electoral fijando en un lugar público, las listas nominales de electores ordenadas alfabéticamente.
-
-El Registro podrá acordar otras formas de difusión de las listas nominales de electores, para que éstas sean conocidas por el mayor número de ciudadanos.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 125.
 
-Una vez recibidas y acreditadas las observaciones pertinentes, las representaciones municipales devolverán a la oficina central del Registro las listas nominales, sin que en ningún caso la entrega pueda exceder del 16 de marzo.
-
-Cuando proceda, las observaciones serán introducidas a los listados del padrón electoral, haciéndose las modificaciones respectivas.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 126.
 
-El Consejo Estatal Electoral tendrá a su disposición, para su revisión y la de los partidos políticos, las listas nominales de electores durante veinte días naturales a partir del 15 de febrero de los dos años anteriores al de la celebración de la elección ordinaria.
-
-Los partidos políticos podrán formular por escrito al Registro Estatal de Electores sus observaciones sobre los ciudadanos inscritos o excluidos indebidamente de las listas nominales, durante el plazo señalado en el párrafo anterior.
-
-El Registro Estatal de Electores examinará las observaciones de los partidos políticos haciendo, en su caso, las modificaciones que procedan.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 127.
 
-A más tardar el día 1o. de marzo del año en que se celebre el proceso electoral ordinario, el Registro entregará al Consejo Estatal Electoral copia de las listas nominales de electores, con corte al día último de enero, ordenadas alfabéticamente y por secciones, correspondientes a cada uno de los Municipios electorales.
-
-Las listas nominales de los ciudadanos que hubieren obtenido su credencial en el mes de febrero, en los términos del Artículo 122, serán entregadas a los partidos políticos a más tardar el día 15 de marzo del año de la elección.
-
-El Consejo Estatal Electoral entregará las listas a los partidos políticos que la integren para que éstos formulen observaciones al Registro dentro de los diez días siguientes a la recepción de las mismas. Dichas observaciones deberán señalar hechos y casos concretos e individualizados.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 128.
 
-Una vez concluidos los procedimientos a que se refieren los artículos anteriores, el Director del Registro ordenará la impresión de las listas nominales definitivas por Municipio y por sección electoral para su entrega, por lo menos treinta días antes de la jornada electoral, al Consejo Estatal Electoral para su distribución.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 129.
 
-A fin de mantener permanentemente actualizados el catálogo general de electores y el padrón electoral, el Registro recabará de los órganos de las administraciones públicas federal, estatal y municipales, la información necesaria para incluir todo cambio que los afecte.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
-Los servidores públicos del Registro Civil deberán informar al Registro Estatal de Electores de los fallecimientos de personas dentro de los diez días siguientes de la fecha de expedición del acta respectiva.
-
-El Director podrá celebrar convenios de cooperación tendientes a que la información a que se refiere este artículo se proporcione puntualmente.
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 130.
 
-La credencial para votar deberá contener los datos siguientes:
-
-I. Entidad Federativa, Municipio y localidad que corresponda al domicilio;
-
-II. Distrito o sección electoral en donde deberá votar;
-
-III. Apellido paterno, apellido materno y nombre completo;
-
-IV. Domicilio;
-
-V. Sexo;
-
-VI. Edad y año de registro; y
-
-VII. Clave de registro.
-
-Además de los requisitos anteriores deberá contener:
-
-a) Lugar para asentar la firma, huella digital y fotografía del elector;
-
-b) Espacios necesarios para marcar años y elección de que se trate; y
-
-c) Firma impresa del Director del Registro Estatal de Electores.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 131.
 
-A más tardar el día 30 de abril del año en que se celebren las elecciones, los ciudadanos cuya credencial para votar se hubiere extraviado o sufrido algún deterioro grave, deberán solicitar su reposición ante la oficina o representación del Registro de Electores correspondiente a su domicilio.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 132.
 
-El Comité Técnico y de Vigilancia, es el órgano del Consejo Estatal Electoral que tiene como función, organizar la participación de los partidos políticos en la integración, depuración y actualización del padrón electoral.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 133.
 
-El Comité Técnico y de Vigilancia del Registro de Electores, se integra por:
-
-I. El Director del Registro Estatal de Electores;
-
-II. El representante propietario o el suplente por cada uno de los partidos políticos acreditados ante el Consejo Estatal Electoral; y
-
-III. Un Secretario designado por el Presidente.
-
-El Comité sesionará con la presencia de la mayoría de sus integrantes, entre los que deberá estar el Presidente y sus decisiones se tomarán por mayoría de votos; todos los integrantes del Comité tienen derecho a voz y voto.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 134.
 
-El Comité técnico y de Vigilancia sesionará obligatoriamente por lo menos una vez al mes.
-
-Iniciará sus funciones dentro de los quince días posteriores a la instalación del Consejo Estatal Electoral y sesionará hasta la fecha de entrega de las listas nominales de electores definitivas al propio Consejo.
-
-De cada sesión, habrá de levantarse el acta correspondiente, recabando las firmas de los asistentes a la misma. Deberá consignarse por escrito en el acta, las inconformidades que se llegaren a presentar por alguno de los integrantes del Comité, así como los acuerdos que se hayan tomado.
-
-Los representantes de los partidos políticos tendrán derecho a recibir una copia del acta.
-
-El Presidente del Comité Técnico y de Vigilancia, enviará copia del acta de cada una de las sesiones al Presidente del Consejo Estatal Electoral, dentro de las veinticuatro horas siguientes a la conclusión de la sesión respectiva.
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 135.
 
-El Comité Técnico y de Vigilancia tiene las siguientes atribuciones:
+(DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
-I. Vigilar que el empadronamiento de los ciudadanos se lleve a cabo en los términos establecidos por esta ley, conforme a los acuerdos que sobre la materia dicte el Consejo Estatal Electoral;
-
-II. Vigilar que se entregue oportunamente a los ciudadanos su credencial para votar;
-
-III. Solicitar por conducto del Presidente, la colaboración técnica e informática de los servidores públicos en los términos de esta ley.
-
-IV. Solicitar al Consejo Estatal Electoral, por conducto del Presidente, la aprobación para que se utilicen las técnicas censales electorales para la depuración y actualización del padrón electoral en forma parcial, cuando así sea acordado;
-
-V. Recibir, conocer y tramitar los recursos que formulen los partidos políticos y los ciudadanos para la depuración y actualización del padrón electoral;
-
-VI. Promover la aplicación de los mecanismos que estime convenientes para constatar la veracidad del padrón electoral; y
-
-VII. Las demás que le confiera esta ley y el Consejo Estatal Electoral.
+> <small>(REFORMADA SU NUMERACION, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO V. De las Listas Nominales de Electores y de su Revisión
 
 ###### Artículo 136.
 
-El Comité Técnico y de Vigilancia a través de su Presidente, deberá estar permanentemente en posibilidades de informar al Consejo Estatal Electoral, acerca del estado que guarda el catálogo, el padrón estatal electoral, los listados nominales electorales y la entrega o reposición de la credencial para votar.
+El Consejo Estatal Electoral celebrará convenios con el Instituto Federal Electoral, respecto al registro de electores, con el propósito de utilizar el catálogo general de electores, el padrón electoral, las listas nominales de electores y la credencial para votar, así como los demás documentos necesarios para el desarrollo del proceso local electoral.
 
 ## TITULO SEPTIMO. Del Proceso Electoral
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO VI. De la Credencial para Votar
 
 ###### Artículo 137.
 
-El Consejo Estatal Electoral celebrará convenios con el Instituto Federal Electoral, respecto al registro de electores, con el propósito de utilizar el catálogo general de electores, el padrón electoral, las listas nominales de electores y la credencial para votar, así como los demás documentos necesarios para el desarrollo del proceso local electoral.
+El proceso electoral ordinario se inicia con la formalización del acto a que se refiere el artículo 76 de la presente ley y concluye con la declaración de validez de la elección y expedición de las constancias respectivas, o en su caso, un (sic) vez que quede firme la resolución del último de los medios de impugnación que se hubieren interpuesto.
 
-El convenio deberá sujetarse a los preceptos de esta Ley y a lo establecido en el Código Federal de Instituciones y Procedimientos Electorales.
+Para los efectos de esta Ley, el proceso electoral ordinario comprende las etapas siguientes:
+
+a) Preparación de la elección
+
+b) Jornada electoral.
+
+c) Resultados y declaraciones de validez de las elecciones.
+
+I.- La etapa de preparación de la elección comprende del inicio del proceso electoral, hasta el inicio de la jornada electoral.
+
+II.- La etapa de la Jornada electoral se inicia a las 8:00 horas del primer domingo de julio del año de la elección y concluye con la clausura de la casilla.
+
+III.- La etapa de resultados y de declaraciones de validez de las elecciones, comprende, desde la remisión de la documentación y expedientes electorales al Consejo Municipal respectivo, hasta la conclusión del proceso electoral.
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ### CAPITULO VII. Del Comité Técnico y de Vigilancia
 
-### CAPITULO VIII. De los Convenios de Colaboración
+### CAPITULO ÚNICO. De los Convenios de Colaboración
+
+(REUBICADO [N. DE E. ANTES 137], P.O. 10 DE OCTUBRE DE 2001)
 
 ###### Artículo 138.
 
@@ -1795,7 +1657,11 @@ Los Presidentes de los Consejos Municipales Electorales comunicarán al Consejo 
 
 El Consejo Estatal Electoral enviará para su publicación en el Periódico Oficial del Estado las listas de candidatos registrados ante los Consejos Electorales para Gobernador del Estado, Diputados de Mayoría Relativa, Diputados de Representación Proporcional, Presidentes municipales, Síndicos y Regidores de Mayoría Relativa de los Ayuntamientos, y listas de Regidores de Representación Proporcional. En caso de sustitución de candidatos la publicación se hará en la misma forma a más tardar tres días después del acuerdo respectivo.
 
-### CAPITULO I. Del Procedimiento de Registro de Candidatos
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO I. Del Proceso Electoral y sus Etapas
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 145.
 
@@ -1824,6 +1690,10 @@ La propaganda que los partidos políticos, las coaliciones y los candidatos real
 ###### Artículo 149.
 
 Las oficinas, edificios, locales, vehículos y toda clase de bienes muebles e inmuebles de propiedad o uso federal, estatal o municipal, no podrán emplearse bajo ningún concepto y por ningún medio para fines de propaganda electoral, salvo las excepciones previstas en esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+Los gobiernos estatal y municipales, dos meses antes de la jornada electoral, se abstendrán de publicar y difundir por cualquier medio, la obra pública y los programas asistenciales.
 
 ###### Artículo 150.
 
@@ -1859,13 +1729,17 @@ El día de la elección y los tres que antecedan, no se permitirá la celebraci�
 
 En los lugares señalados para la ubicación de las casillas, y en una distancia de cincuenta metros no habrá ninguna propaganda electoral el día de la elección y si la hubiera, ésta deberá ser retirada inmediatamente por las autoridades municipales.
 
-### CAPITULO II. De las Campañas Electorales
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO II. Del Procedimiento de Registro de Candidatos
 
 ###### Artículo 153.
 
 En cada sección electoral se instalará una casilla donde funcionará la mesa directiva respectiva, para recibir la votación de los ciudadanos residentes en la misma, la cual para su integración se sujetará a lo siguiente:
 
-I. En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a mil quinientos electores, se nombrarán el número de secretarios auxiliares necesarios, que resulte de dividir el número de ciudadanos inscritos en la lista nominal de electores entre 500; nombrándose uno más si el excedente es mayor de 100 electores. Los Secretarios Auxiliares sólo funcionarán en este supuesto y ejercerán las funciones a que se refiere la fracción IV del artículo 96 de esta ley.
+> <small>(REFORMADA, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+I. En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a mil electores, se nombrará el número de secretarios auxiliares necesarios, que resulte de dividir el número excedente a dicha cantidad de ciudadanos inscritos en la lista nominal de electores entre 500; nombrándose uno más si la última fracción es mayor de 100 electores. Los Secretarios Auxiliares sólo funcionarán en este supuesto y ejercerán las funciones a que se refiere la fracción IV del Artículo 96 de esta ley.
 
 II. En cada casilla se deberá garantizar el ejercicio del voto secreto, utilizándose mamparas diseñadas para tal efecto u otros medios que permitan la emisión secreta del voto.
 
@@ -1913,13 +1787,13 @@ Para la ubicación de las casillas se dará preferencia a las escuelas y edifici
 
 Cuando las condiciones geográficas de una sección rural hagan difícil el acceso de los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de varias casillas extraordinarias en lugares que ofrezcan un fácil acceso a los electores. Esta disposición se aplicará excepcionalmente en zonas urbanas.
 
-### CAPITULO III. De la Ubicación de las Casillas y Mesas Directivas
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO III. De las Campañas Electorales
 
 ###### Artículo 159.
 
-Los partidos políticos o coaliciones, una vez registrados sus candidatos y fórmulas de candidatos, tienen derecho a nombrar dos representantes y un suplente común ante cada casilla, así como un representante general y un suplente por cada diez casillas urbanas o uno por cada cinco casillas rurales en cada Municipio. Los representantes generales y de casilla deberán tener credencial para votar y ser vecinos de la sección electoral o Municipio que corresponda, debiendo ser acreditados del 4 al 25 de junio del año de la elección.
-
-Los suplentes sólo entrarán en funciones en ausencia de los representantes propietarios.
+Los partidos políticos o coaliciones, una vez registrados sus candidatos y fórmulas de candidatos, tienen derecho a nombrar dos representantes y un suplente común ante cada casilla, así como un representante general y un suplente por cada diez casillas urbanas o uno por cada cinco casillas rurales en cada Municipio. Los representantes generales y de casilla deberán tener credencial para votar y ser vecinos de la sección electoral o municipio y distrito que corresponda, debiendo ser acreditados los primeros, del 4 al 25 de junio del año de la elección y los segundos, del mismo 4 de junio y hasta las doce horas del jueves anterior a la elección.
 
 ###### Artículo 160.
 
@@ -1951,9 +1825,15 @@ IV. En su caso, firmar el acta o formular protestas con mención de las causas q
 
 V. Acompañar al presidente de la mesa al Consejo Municipal Electoral correspondiente para hacer entrega de la documentación electoral.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
 ###### Artículo 162.
 
-El registro de los nombramientos de los representantes ante las mesas directivas de casilla y representantes generales, se hará ante el Consejo Municipal Electoral respectivo, con base en las reglas siguientes:
+El registro de los representantes ante las mesas directivas de casillas, se hará ante el Consejo Municipal Electoral respectivo en el plazo a que se refiere el artículo 159 de esta ley, bastando para ello, presentar una lista con sus nombres y apellidos, así como la casilla donde actuarán.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+El registro de los nombramientos de los representantes generales, se hará durante el plazo a que se refiere el artículo 159 de esta ley, ante el Consejo Municipal Electoral respectivo, con base en las reglas siguientes:
 
 I. El nombramiento se contendrá en un escrito en original y copia, en papel membretado del partido interesado y suscrito con la firma de quien legalmente lo represente conteniendo los siguientes datos:
 
@@ -1981,7 +1861,9 @@ Si una vez efectuado el registro de representantes a petición de algún partido
 
 Para garantizar a los representantes de los partidos políticos su acreditación ante la mesa directiva que indique su nombramiento, el Presidente del Consejo Municipal Electoral entregará al Presidente de cada casilla, una relación de los representantes de los partidos políticos que tengan derecho a actuar en la casilla de que se trate, así como una lista de los representantes generales.
 
-### CAPITULO IV. De los Representantes
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+### CAPITULO IV. De la Ubicación de las Casillas y Mesas Directivas
 
 ###### Artículo 165.
 
@@ -2077,7 +1959,9 @@ n) Recuadro de los representantes de partidos políticos presentes, en relación
 
 ## TITULO OCTAVO. De la Jornada Electoral
 
-### CAPITULO V. De la Documentación y Material Electoral
+### CAPITULO V. De los Representantes
+
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 172.
 
@@ -2147,17 +2031,19 @@ II. Otro tanto se entregará al interesado, firmado de recibido con fecha y hora
 
 El o los Secretarios, harán constar los incidentes que se susciten en la misma en el acta correspondiente.
 
-### CAPITULO I. Disposiciones Generales
-
-A) SISTEMA DE SEGURIDAD DE LAS ELECCIONES
+### CAPITULO VI. De la Documentación y Material Electoral
 
 ###### Artículo 182.
 
-A las ocho horas del día de la elección los integrantes de la mesa directiva de casilla, propietarios y suplentes, se presentarán al lugar de ubicación, con el propósito de proveer lo necesario al acto de inicio de la jornada.
+A las 7:00 horas del día de la elección, los integrantes de la mesa directiva de casilla, propietarios y suplentes, se presentarán al lugar de su ubicación, con el propósito de proveer lo necesario al acto de inicio de la jornada electoral.
 
 A ese efecto, los integrantes de la casilla, propietarios o suplentes, procederán a la instalación del mismo en presencia de los representantes de partidos políticos que concurran, anotándose en el acta de la jornada la hora, lugar, domicilio, nombres de los funcionarios y demás datos relativos al acto, y marcándose los cuadros de los representantes que estuvieron presentes en la instalación; así como que se formó la urna en presencia de los funcionarios, representantes y electores asistentes y que se comprobó estaba vacía.
 
 Los representantes de los partidos políticos podrán solicitar que las boletas electorales sean rubricadas o selladas por uno de los representantes partidistas designado por sorteo, quien deberá hacerlo por partes para no obstaculizar el desarrollo de la votación. La falta de rúbrica o sello en las boletas no será motivo para anular los sufragios recibidos.
+
+> <small>(ADICIONADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+A las 08:00 horas el presidente del a mesa declarará en voz alta que se inicia la recepción de la votación.
 
 ###### Artículo 183.
 
@@ -2217,7 +2103,9 @@ I. Los notarios públicos y jueces que deban dar fe de cualquier acto relacionad
 
 II. Los funcionarios del Consejo Municipal Electoral que fueren llamados por el presidente de la mesa directiva.
 
-### CAPITULO II. De la Instalación y Apertura de Casillas
+### CAPITULO I. Disposiciones Generales
+
+A) SISTEMA DE SEGURIDAD DE LAS ELECCIONES
 
 ###### Artículo 190.
 
@@ -2231,7 +2119,9 @@ III. Cumplidos los requisitos para acreditar la calidad de elector, el President
 
 IV. El elector de manera secreta, marcará el círculo que contenga el partido político por el que sufraga en la boleta respectiva, e introducirá personalmente la boleta en la urna, ante la fe de los escrutadores;
 
-V. El Secretario de la mesa solicitará al ciudadano que estampe su firma o huella digital en la lista nominal procediendo a:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+V. El Secretario de la mesa procederá a:
 
 a) Marcar la credencial para votar del elector que ha ejercido su derecho;
 
@@ -2239,9 +2129,11 @@ b) Impregnar con líquido indeleble el dedo pulgar derecho del elector;
 
 c) Devolver al elector su credencial para votar; y
 
-d) En caso de negativa del elector a firmar o estampar su huella digital en la lista nominal, el Secretario de la Mesa pondrá en el espacio relativo la razón correspondiente a "se negó a firmar", sin que su omisión dé lugar a impugnación o recurso alguno;
+d) (DEROGADO, P.O. 10 DE OCTUBRE DE 2001)
 
-VI. Los representantes de los partidos políticos ejercerán su derecho al sufragio en la casilla ante la que fueron acreditados. El Secretario los anotará al final de la lista nominal, recabando la firma correspondiente.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
+
+VI. Los representantes de los partidos políticos ejercerán su derecho al sufragio en la casilla ante la que fueron acreditados. El Secretario los anotará al final de la lista nominal, si no fueren de la sección en la que actúan.
 
 ###### Artículo 191.
 
@@ -2257,7 +2149,9 @@ I. Si el elector está impedido físicamente o no sabe leer ni escribir, de requ
 
 II. Si el elector pertenece a las fuerzas armadas o a la policía, debe presentarse a votar individualmente, sin armas y sin vigilancia o mando superior alguno.
 
-### CAPITULO III. De la Votación
+### CAPITULO II. De la Instalación y Apertura de Casillas
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
 ###### Artículo 193.
 
@@ -2345,9 +2239,11 @@ a) Las boletas no utilizadas;
 
 b) Los votos válidos y los nulos;
 
-Los sobres deberán quedar cerrados y sobre su envoltura firmarán los miembros de la mesa directiva y los representantes de los partidos políticos, si desean hacerlo.
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2001)</small>
 
-### CAPITULO IV. Del Cierre de la Votación, Escrutinio, Cómputo y Clausura de las Casillas
+En forma adicional a los sobres referidos, por fuera del paquete electoral correspondiente a la elección de diputados, se fijará un sobre conteniendo copia legible del acta de la jornada electoral para los efectos del programa de resultados preliminares y el cual se desprenderá al recibirse en el Consejo Municipal Electoral respectivo.
+
+### CAPITULO III. De la Votación
 
 ###### Artículo 199.
 
@@ -2379,7 +2275,7 @@ c) El Presidente del Consejo, bajo su responsabilidad los salvaguardará y al ef
 
 De la recepción de los sobres que contengan los expedientes electorales se levantará acta circunstanciada en la que se haga constar, en su caso, los que hubieren sido recibidos sin reunir los requisitos que señala esta ley.
 
-### CAPITULO V. Del Envío y Recepción de los Paquetes Electorales
+### CAPITULO IV. Del Cierre de la Votación, Escrutinio, Cómputo y Clausura de las Casillas
 
 ###### Artículo 202.
 
@@ -2397,7 +2293,7 @@ Para el mejor conocimiento de los ciudadanos, concluido el plazo a que se refier
 
 ## TITULO NOVENO. De los Cómputos y de la Declaratoria de Validez de las Elecciones
 
-### CAPITULO VI. De la Información de los Resultados Preliminares
+### CAPITULO V. Del Envío y Recepción de los Paquetes Electorales
 
 ###### Artículo 203.
 
@@ -2531,7 +2427,7 @@ Los Presidentes de los Consejos Municipales Electorales, autorizarán respectiva
 
 Las sesiones de cómputo municipal, al instalarse, darán inicio con la elaboración de un acta circunstanciada.
 
-### CAPITULO I. Reglas Generales para Cómputos Municipales
+### CAPITULO VI. De la Información de los Resultados Preliminares
 
 ###### Artículo 214.
 
@@ -2645,7 +2541,7 @@ El Presidente del Consejo Estatal Electoral, conservará en su poder, una copia 
 
 De igual manera, el Presidente tomará las medidas necesarias para el depósito, en el lugar señalado para tal efecto, de la documentación electoral que le haya sido remitida por los Consejos Municipales Electorales a que se refiere esta ley, hasta la conclusión del proceso electoral, procediendo después de los tres meses siguientes, a su destrucción.
 
-### CAPITULO II. Del Cómputo Estatal y Declaración de Validez de la Elección del Gobernador y Diputados e Integración del Congreso
+### CAPITULO I. Reglas Generales para Cómputos Municipales
 
 ###### Artículo 218.
 
@@ -2717,7 +2613,7 @@ Sus resoluciones se tomarán por mayoría de votos y en caso de empate, el Presi
 
 ## TITULO DECIMO. De la Justicia Electoral
 
-### CAPITULO I. Del Tribunal Electoral del Estado
+### CAPITULO II. Del Cómputo Estatal y Declaración de Validez de la Elección del Gobernador y Diputados e Integración del Congreso
 
 ###### Artículo 225.
 
@@ -2871,7 +2767,7 @@ El Secretario General de Acuerdos, el personal jurídico y administrativo, tendr
 
 ## TITULO DECIMO PRIMERO. De las Nulidades; del Sistema de Medios de Impugnación; y de las Faltas y Sanciones Administrativas
 
-### CAPITULO II. De los Magistrados
+### CAPITULO I. Del Tribunal Electoral del Estado
 
 ###### Artículo 237.
 
@@ -2943,7 +2839,7 @@ La Sala del Tribunal Electoral del Estado podrá declarar la nulidad de una elec
 
 Los partidos políticos no podrán invocar en su favor, en ningún recurso, causas de nulidad, hechos o circunstancias que el propio partido dolosamente, haya provocado.
 
-### CAPITULO III. Del Funcionamiento del Tribunal
+### CAPITULO II. De los Magistrados
 
 ###### Artículo 244.
 
@@ -2955,7 +2851,7 @@ Tratándose de la inelegibilidad de candidatos a Diputados o Regidores de Repres
 
 En el caso de la declaración de inelegibilidad de un candidato electo por el principio de Mayoría, tomará el lugar del declarado no elegible, quien fuere su suplente en la fórmula o planilla.
 
-### CAPITULO IV. Del Presidente del Tribunal
+### CAPITULO III. Del Funcionamiento del Tribunal
 
 ###### Artículo 246.
 
@@ -3027,7 +2923,7 @@ El cómputo de los plazos se hará a partir del día siguiente de aquél en que 
 
 En ningún caso, la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados, si no hasta que se resuelvan en definitiva éstos por los órganos competentes.
 
-### CAPITULO V. De los Jueces Instructores
+### CAPITULO IV. Del Presidente del Tribunal
 
 ###### Artículo 249.
 
@@ -3063,7 +2959,7 @@ B)Su representante ante el Consejo Estatal Electoral; y
 
 C) Su representante ante el Consejo Estatal Electoral, para impugnar la asignación de Diputados según el principio de Representación Proporcional.
 
-### CAPITULO VI. Del Secretario General de Acuerdos
+### CAPITULO V. De los Jueces Instructores
 
 ###### Artículo 252.
 
@@ -3095,7 +2991,7 @@ b) Dentro de las cuarenta y ocho horas siguientes, contadas a partir de la concl
 
 Durante el tiempo que transcurre entre dos procesos electorales ordinarios, los recursos de revisión y apelación que sean interpuestos se regirán por las reglas que tienen establecidas para el proceso electoral.
 
-### CAPITULO I. De los Casos de Nulidad
+### CAPITULO VI. Del Secretario General de Acuerdos
 
 ###### Artículo 255.
 
@@ -3149,9 +3045,9 @@ El Tribunal Electoral del Estado podrá notificar sus resoluciones a cualquier h
 
 No se requerirán de notificación personal y surtirá sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial del Estado, o algún diario de circulación estatal, o mediante la fijación de cédulas en los estrados de los organismos electorales y del Tribunal Electoral o en lugares públicos, en los términos de esta ley.
 
-### CAPITULO IX. De la Acumulación
+### CAPITULO VIII. De la Improcedencia y del Sobreseimiento
 
-### CAPITULO II. De los Efectos de la Declaración de Nulidad
+### CAPITULO I. De los Casos de Nulidad
 
 ###### Artículo 262.
 
@@ -3175,9 +3071,9 @@ d) Podrán ofrecer y aportar pruebas dentro de los plazos establecidos en esta l
 
 e) Los escritos deberán estar firmados autógrafamente.
 
-### CAPITULO X. Reglas de Procedimiento para los Recursos
+### CAPITULO IX. De la Acumulación
 
-### CAPITULO III. Del Sistema de Medios de Impugnación
+### CAPITULO II. De los Efectos de la Declaración de Nulidad
 
 ###### Artículo 263.
 
@@ -3215,9 +3111,9 @@ c) Cuando la autoridad electoral modifique o revoque el acto o la resolución im
 
 d) Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia en los términos del Artículo 263 de esta ley.
 
-### CAPITULO XI. De las Pruebas
+### CAPITULO X. Reglas de Procedimiento para los Recursos
 
-### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
+### CAPITULO III. Del Sistema de Medios de Impugnación
 
 ###### Artículo 265.
 
@@ -3227,9 +3123,9 @@ Las Salas del Tribunal Electoral del Estado podrán acumular los expedientes de 
 
 El Pleno del Tribunal Electoral del Estado deberá acumular los recursos de reconsideración que a su juicio lo ameriten.
 
-### CAPITULO XII. De las Resoluciones
+### CAPITULO XI. De las Pruebas
 
-### CAPITULO V. De los Plazos y de los Términos
+### CAPITULO IV. De la Competencia, de la Legitimación y de la Personería
 
 ###### Artículo 266.
 
@@ -3419,9 +3315,9 @@ d) Auxilio de la fuerza pública.
 
 Los medios de apremio serán aplicados por el Presidente del Tribunal Electoral del Estado y para hacerlas efectivas podrá auxiliarse de los órganos del Ejecutivo del Estado o municipales que correspondan.
 
-### CAPITULO XIII. De las Faltas Administrativas y de las Sanciones
+### CAPITULO XII. De las Resoluciones
 
-### CAPITULO VI. De las Notificaciones
+### CAPITULO V. De los Plazos y de los Términos
 
 ###### Artículo 277.
 
@@ -3463,7 +3359,9 @@ Son objeto de la prueba los hechos controvertibles. No lo será el derecho, los 
 
 El que afirma está obligado a probar. También lo está el que niega, cuando su negativa envuelve la afirmación expresa de un hecho.
 
-### CAPITULO VII. De las Partes
+### CAPITULO XIII. De las Faltas Administrativas y de las Sanciones
+
+### CAPITULO VI. De las Notificaciones
 
 ###### Artículo 281.
 
@@ -3565,7 +3463,7 @@ Los criterios fijados por el Pleno del Tribunal Electoral dejarán de tener car�
 
 El Tribunal Electoral hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión del proceso electoral. El Presidente enviará al Congreso del Estado, las tesis y criterios que se hubiesen adoptado, con recomendación de sus alcances.
 
-### CAPITULO VIII. De la Improcedencia y del Sobreseimiento
+### CAPITULO VII. De las Partes
 
 ###### Artículo 289.
 
@@ -3742,3 +3640,9 @@ El presente decreto entrará en vigor una vez cumplidas las formalidades legales
 ###### ARTICULO SEGUNDO.
 
 Por virtud de las presentes reformas y adiciones se deja sin efecto el decreto 7903, relativo a la aprobación de los nombramientos de los Magistrados del Tribunal Electoral publicado en el Periódico Oficial el día 9 de diciembre de 1995.
+
+P.O. 10 DE OCTUBRE DE 2001
+
+Artículo Primero.- El presente decreto entrará en vigor en los términos establecidos por el artículo 55 de la Constitución Política del Estado, debiendo publicarse en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+Artículo Segundo.- Se derogan las disposiciones legales que se opongan a las presentes reformas.
