@@ -4,7 +4,7 @@ identifier: "LIVA"
 country: "mx"
 rank: "ley"
 publication_date: "1978-12-29"
-last_updated: "1980-12-30"
+last_updated: "1981-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=703&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,27 +20,145 @@ abbreviation: "LIVA"
 ---
 # LEY DEL IMPUESTO AL VALOR AGREGADO
 
-LEY DEL IMPUESTO AL VALOR AGREGADO
+LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1980.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2017.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1978.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Coahuila, el martes 18 de septiembre de 2012.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+EL C. RUBÉN IGNACIO MOREIRA VALDEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-JOSE LOPEZ PORTILLO, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
-Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
+DECRETA:
 
-DECRETO
+NÚMERO.- 93
 
-"El Congreso de los Estados Unidos Mexicanos, decreta:
+LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY DEL IMPUESTO AL VALOR AGREGADO
+## TÍTULO PRIMERO. DE LA LEY Y AUTORIDADES COMPETENTES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Objeto de la ley
+
+###### ARTÍCULO 1.
+
+La presente ley es de orden público, de interés social así como de observancia general en el Estado de Coahuila de Zaragoza y tiene por objeto:
+
+I. Prevenir y combatir el abuso en el consumo de bebidas alcohólicas;
+
+II. Regular la venta, consumo y almacenaje de bebidas alcohólicas en el Estado de Coahuila de Zaragoza realizadas por personas físicas o morales, mediante el establecimiento de horarios y el otorgamiento, refrendo y revocación de las licencias o permisos correspondientes, y
+
+III. Promover campañas de difusión encaminadas a prevenir y combatir el abuso en el consumo de bebidas alcohólicas.
+
+Ámbito de aplicación
+
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
+
+###### ARTÍCULO 2.
+
+Corresponde la aplicación de esta ley al Poder Ejecutivo del Estado de Coahuila de Zaragoza, por conducto de las secretarias de Finanzas y de Gobierno, así como a los municipios en su esfera competencial. También coadyuvarán en ello, la Procuraduría General de Justicia del Estado, las secretarías de Gobierno, de Educación y de Salud, y las áreas encargadas de seguridad pública y tránsito en los municipios del estado.
+
+Supletoriedad
+
+###### ARTÍCULO 3.
+
+Será de aplicación supletoria a esta ley, lo dispuesto en el Código Fiscal para el Estado de Coahuila de Zaragoza, Código Municipal para el Estado de Coahuila de Zaragoza, la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza y la Ley de Hacienda para el Estado de Coahuila de Zaragoza, cuando no sea contrario a la naturaleza de la presente.
+
+Glosario
+
+###### ARTÍCULO 4.
+
+Para los efectos de esta ley se entenderá por:
+
+I. Almacenaje: Actividad dirigida a conservar bebidas alcohólicas en forma transitoria, con carácter de mercancía;
+
+II. Bar y Cantina: Establecimiento dedicado a la venta de bebidas alcohólicas al copeo o en botella para ser consumidas dentro del mismo;
+
+III. Bebida alcohólica: Aquella que contenga alcohol etílico en una proporción de 2% y hasta 55% en volumen, de acuerdo a lo dispuesto por el artículo 217 de la Ley General de Salud;
+
+IV. Cabaret: Establecimientos en donde se expenden bebidas alcohólicas en envase abierto o al copeo y se presentan espectáculos exclusivamente para adultos;
+
+V. Círculo social, club social, deportivo y semejantes: Establecimiento de acceso exclusivo para socios e invitados en los que se expenden y se sirven bebidas alcohólicas para su consumo dentro del mismo;
+
+VI. Casino: casa o centro de apuestas o lugares donde se practican juegos de azar, cualquiera que sea su denominación, con excepción de los palenques;
+
+VII. Centros de espectáculos deportivos o recreativos: Establecimientos que ofrecen al público eventos deportivos, musicales y otros, tales como estadios, lienzos charros, plazas de toros, arenas de box y lucha libre, balnearios y otros, en los cuales pueden vender cerveza en recipientes que no sean de vidrio;
+
+VIII. Certificación: Licencia que emiten los municipios conforme a lo establecido en el Código Financiero para los Municipios del Estado de Coahuila de Zaragoza, como requisito previo para la procedencia de la licencia o permiso especial de operación estatales, de aquellos establecimientos en que se vendan o consuman bebidas alcohólicas en el ámbito de su circunscripción territorial, de conformidad con los requisitos y procedimientos establecidos en la presente ley;
+
+IX. Cervecería: Establecimientos en el (sic) que de manera exclusiva se vende cerveza, tanto envasada como de barril para su consumo inmediato dentro del local;
+
+X. Consumo: La ingestión de bebidas alcohólicas en los establecimientos y lugares autorizados o no, en los términos de la presente ley;
+
+XI. Depósito de cerveza: Expendios de cerveza que se dedican a la venta de este producto en bote o botella debidamente cerrado para su consumo fuera de dichos establecimientos;
+
+XII. Discoteca bar: Establecimientos exclusivos para baile, con venta de bebidas al copeo o en botella para ser consumidas dentro de los mismos;
+
+XIII. Distribuidor de cerveza: Agencias que se dedican a la distribución de cerveza en bote o botella cerrada, ya sea de origen nacional o importada;
+
+XIV. Estado: El Estado de Coahuila de Zaragoza;
+
+XV. Expendio de vinos y licores: Establecimientos en donde se venden de manera preponderante vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos;
+
+XVI. Giro: Característica comercial del local o establecimiento para el que se expida la licencia;
+
+XVII. Hotel y motel: Establecimiento que ofrece al público renta de habitaciones y en sus instalaciones pueden destinar áreas para restaurante, bar, cafetería o salones de eventos, en los cuales se expenden bebidas alcohólicas en envase abierto o al copeo para su consumo en el interior. En sus habitaciones pueden tener servicio de servi-bar;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+
+XVIII. Ladies bar: Establecimiento donde se expenden bebidas alcohólicas para su consumo inmediato, pudiendo contar con espacio destinado para bailar y servicio completo de restaurant;
+
+XIX. Ley: La Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
+
+XX. Licencia: Autorización que emite la Secretaría de Finanzas del Estado de Coahuila de Zaragoza para la operación de aquellos establecimientos en que se vendan o consuman bebidas alcohólicas de conformidad con los requisitos y procedimientos establecidos en la presente ley;
+
+XXI. Miscelánea y tienda de abarrotes: Establecimiento donde se venden productos comestibles, no comestibles, de higiene personal y de aseo para el hogar a granel, envasados, empaquetados, etiquetados y con envoltura, sin renta de máquinas de videojuegos; con venta exclusivamente de cerveza y únicamente en botella cerrada;
+
+XXII. Permiso especial: Documento expedido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, con carácter provisional, hasta por treinta días naturales improrrogables, a personas físicas o morales, para llevar a cabo la venta al menudeo de bebidas alcohólicas en envase abierto y al copeo, en lugar determinado, el cual puede ser revocado por violaciones a esta ley o a otros ordenamientos aplicables o porque así lo requiera el interés público;
+
+XXIII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
+
+XXIV. Refrendo: Acto administrativo emitido por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza, mediante el cual se prorroga la vigencia de las licencias expedidas, por el término de un año;
+
+XXV. Reglamento: El reglamento de la Ley para la Regulación de Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza;
+
+XXVI. Reglamento municipal: El que expidan los municipios del estado de Coahuila de Zaragoza, para proveer la aplicación y observancia de la presente ley en la circunscripción territorial que les corresponda;
+
+XXVII. Regularización de licencia: Modificaciones efectuadas por la Secretaría de Finanzas del Estado de Coahuila de Zaragoza a las licencias otorgadas, previa solicitud del interesado, una vez cubiertos los requisitos procedentes que señale la presente ley y demás disposiciones aplicables;
+
+XXVIII. Restaurant bar: Establecimientos que comercializan bebidas alcohólicas al copeo o en botella acompañadas de alimentos o sin ellos para ser consumidas dentro de los mismos;
+
+XXIX. Restaurantes: Establecimientos dedicados preponderantemente a la venta de alimentos en donde se ofrezcan bebidas alcohólicas al copeo o en botella para su consumo inmediato dentro de los mismos y únicamente acompañados de alimentos;
+
+XXX. Revocación: Acto administrativo público, debidamente fundado y motivado de manera suficiente, clara y precisa, que declara extinguidos los derechos que se desprenden de las licencias, cuando así lo exija el interés público o cuando se contravenga la presente ley;
+
+XXXI. Secretaría de Educación: La Secretaria de Educación del Estado de Coahuila de Zaragoza;
+
+XXXII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila de Zaragoza;
+
+XXXIII. Secretaría de Finanzas: La Secretaría de Finanzas del Estado de Coahuila de Zaragoza;
+
+XXXIV. Secretaría de Gobierno: La Secretaría de Gobierno del Estado de Coahuila de Zaragoza;
+
+XXXV. Supermercados: Establecimientos cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, embutidos, lácteos o marinos, artículos de consumo básico de uso doméstico y otra clase de mercancías, dentro de las cuales se incluyen, de manera complementaria, la venta de vinos, licores y cerveza en cualquier presentación, en recipientes debidamente cerrados para su consumo fuera de los mismos; y
+
+XXXVI. Venta: Comercialización de bebidas alcohólicas.
+
+Comercialización
+
+###### ARTÍCULO 5.
+
+En el estado únicamente pueden vender, comprar, ofrecer, preparar, servir o consumir bebidas alcohólicas, las personas mayores de 18 años de edad.
+
+Para efectos de acreditar la mayoría de edad en relación con la venta, compra, expendio o consumo de bebidas alcohólicas, únicamente se considerarán válidos la credencial para votar con fotografía expedida por el Instituto Federal Electoral, pasaporte o cualquier otro documento oficial con fotografía que contenga la fecha de nacimiento del portador.
+
+Autorización
+
+###### ARTÍCULO 6.
+
+Únicamente podrán realizar actividades de venta o expendio de bebidas alcohólicas, aquellas personas o establecimientos que cuenten con la debida licencia o permiso especial expedido por la Secretaría de Finanzas, previo cumplimiento de los requisitos previstos en esta ley, su reglamento y demás disposiciones legales aplicables.
 
 ###### ARTICULO 1o.
 
@@ -178,7 +296,75 @@ El contribuyente que reciba la devolución de bienes enajenados u otorgue descue
 
 El contribuyente que reciba el descuento, la bonificación o devuelva los bienes enajenados, disminuirá el impuesto cancelado o restituido de las cantidades acreditables o que tuviere pendientes de acreditamiento. Si no tuviere impuesto pendiente de acreditar del cual disminuir el impuesto cancelado o restituido, lo pagará al presentar la declaración mensual que corresponda al mes en que reciba el descuento, la bonificación o efectúe la devolución.
 
-### CAPITULO II. DE LA ENAJENACION
+### CAPÍTULO SEGUNDO. AUTORIDADES COMPETENTES
+
+Competencia
+
+###### ARTÍCULO 7.
+
+Son autoridades competentes para aplicar la presente ley, por conducto de sus titulares y/o quien establezca sus respectivos reglamentos:
+
+I. La Secretaría de Finanzas;
+
+II. La Secretaría de Salud;
+
+III. La Secretaría de Gobierno;
+
+IV. (DEROGADA, P.O. 9 DE AGOSTO DE 2016)
+
+V. La Procuraduría General de Justicia, y
+
+VI. Los municipios del estado.
+
+Atribuciones generales
+
+###### ARTÍCULO 8.
+
+Corresponde a las autoridades a que se refiere el artículo anterior, en el ámbito de su competencia, el ejercicio de las siguientes atribuciones:
+
+I. Elaborar y difundir programas de información y orientación públicos para evitar el abuso en el consumo de bebidas alcohólicas en el estado;
+
+II. Promover una adecuada coordinación para el cumplimiento del objeto de esta ley;
+
+III. Promover la participación de las empresas, asociaciones civiles y ciudadanos en general en la planeación, programación y ejecución de acciones de naturaleza preventiva y correctiva del abuso en el consumo de bebidas alcohólicas;
+
+IV. Coadyuvar con las instituciones públicas y privadas dedicadas a la prevención y tratamiento de adicciones relacionadas con el abuso del consumo de bebidas alcohólicas, y
+
+V. Las demás que establezca esta ley, su reglamento y otras disposiciones legales aplicables.
+
+Atribuciones de la Secretaría de Finanzas
+
+###### ARTÍCULO 9.
+
+Corresponde a la Secretaría de Finanzas el ejercicio de las siguientes atribuciones:
+
+I. Expedir o negar, en su caso, las licencias y permisos especiales para la venta y consumo de bebidas alcohólicas, previstas en esta ley, previa opinión del municipio de que se trate;
+
+II. Otorgar en caso de que se cumplan los requisitos previstos en esta ley, el refrendo de las licencias;
+
+III. Llevar a cabo el procedimiento de suspensión de los derechos y revocación de las licencias y permisos que haya expedido en los términos de la presente ley, de conformidad con lo previsto en el capítulo cuarto del título tercero de la misma;
+
+IV. Verificar, en relación con las licencias y permisos para el almacenaje, venta y consumo de bebidas alcohólicas, la vigencia de las mismas y el exacto cumplimiento de las obligaciones de quienes son titulares y el cumplimiento de requisitos por quienes las soliciten;
+
+V. Autorizar o negar, en su caso, los cambios de titular, domicilio o de giro de las licencias, cumpliendo con los requisitos señalados en esta ley;
+
+VI. Expedir duplicados de las licencias y de los permisos especiales en los casos de pérdida o extravío;
+
+VII. Revocar las licencias o permisos especiales, en los términos de la presente ley;
+
+VIII. Elaborar y administrar el padrón único de establecimientos dedicados a la venta, consumo o expendio de bebidas alcohólicas,
+
+IX. Expedir y ejecutar órdenes de inspección y verificación a los establecimientos y lugares previstos en este ordenamiento;
+
+X. Determinar e imponer las multas por infracciones que se conozcan con motivo de los actos de inspección y verificación, realizados por personal autorizado adscrito a esa Secretaría;
+
+XI. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen, y
+
+XII. Efectuar el cobro coactivo de las multas que impongan las autoridades estatales y que deriven de infracciones a la presente ley.
+
+La Secretaría de Finanzas podrá expedir disposiciones administrativas de carácter general, que establezcan los criterios de interpretación para la aplicación de las disposiciones de esta ley.
+
+Atribuciones de la Secretaría de Salud
 
 ###### ARTICULO 8o.
 
@@ -220,553 +406,1147 @@ VII.- Partes sociales, documentos pendientes de cobro y títulos de crédito, co
 
 VIII.- Los que sin propósito de lucro enajenen en beneficio exclusivo de sus agremiados, miembros o trabajadores, según sea el caso, las tiendas que establezcan los sindicatos obreros, las organizaciones ejidales y comunales que operen en los términos de la Ley de Reforma Agraria, así como las dependencias y organismos públicos que señale la Secretaría de Hacienda y Crédito Público en disposiciones de carácter general.
 
-###### ARTICULO 10.
+###### ARTÍCULO 10.
 
-Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío, en el país se realiza la entrega material del bien por el enajenante. La enajenación de bienes sujetos a matrícula o registro mexicanos, se considerará realizada en territorio nacional aún cuando al llevarse a cabo se encuentren materialmente fuera de dicho territorio.
+Corresponde a la Secretaría de Salud el ejercicio de las siguientes atribuciones:
 
-Tratándose de bienes intangibles, se considera que la enajenación se realiza en territorio nacional cuando el adquirente y el enajenante residan en el mismo.
+I. Ejercer la verificación y control sanitario de los establecimientos en que se realice la venta o consumo de bebidas alcohólicas y en su caso, aplicar las medidas de seguridad y sanciones correspondientes, de conformidad con la Ley Estatal de Salud;
 
-###### ARTICULO 11.
+II. Implementar el Programa contra el Alcoholismo y Abuso de Bebidas Alcohólicas previsto en la Ley Estatal de Salud, en coordinación con las autoridades sanitarias federales;
 
-Se considera que se efectúa la enajenación de los bienes en el momento en que se realice cualquiera de los supuestos siguientes:
+III. Promover y realizar investigaciones científicas de los efectos del abuso en el consumo de bebidas alcohólicas;
 
-I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
+IV. Coordinarse con las instituciones u organismos que brinden tratamiento contra el abuso en el consumo de bebidas alcohólicas, así como elaborar y mantener un registro de las mismas, y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+V. Promover programas de capacitación dirigidos a personas cuya actividad se encuentre relacionada con la venta, expendio y consumo de bebidas alcohólicas.
 
-II.- Se pague parcial o totalmente el precio, salvo en los casos que esta Ley señale.
+La Secretaría de Salud deberá remitir un informe a las secretarías de Gobierno y de Finanzas, dentro de los diez días siguientes a la fecha en que tenga conocimiento de las irregularidades que se hayan observado con motivo de las inspecciones o verificaciones que realice en los establecimientos y lugares previstos en la presente ley, acompañando copia del dictamen que emita.
 
-III.- Se expida el documento que ampare la enajenación.
+Atribuciones de la Secretaría de Gobierno
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+###### ARTÍCULO 11.
 
-###### ARTICULO 12.
+Corresponde a la Secretaría de Gobierno el ejercicio de las siguientes atribuciones:
 
-Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, así como las cantidades que además se carguen o cobren al adquirente por otros impuestos, derechos, intereses normales o moratorios, penas convencionales o cualquier otro concepto. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo.
+I. Establecer el número de licencias o permisos que se podrán autorizar como máximo en una localidad o zona geográfica, conforme a las disposiciones reglamentarias;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+II. Dar a conocer a los municipios y de las dependencias competentes, todas las irregularidades o violaciones a la presente ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen, y
 
-Los intereses moratorios y penas convencionales, darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+III. Restringir en fechas o períodos específicos el horario de funcionamiento de los establecimientos a que se refiere la presente ley, por causas de interés público, así como cuando lo determine la Ley Federal del Trabajo, el Código Federal de Instituciones y Procedimientos Electorales o el Código Electoral para el Estado de Coahuila Zaragoza.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Atribuciones de la Secretaría de Seguridad Pública y de la Procuraduría General de Justicia
 
-En las enajenaciones en abonos se podrá diferir el impuesto, en los términos y la forma que señale el Reglamento. Tratándose de arrendamiento financiero, al impuesto que corresponda a la operación, se le aplicará el por ciento que señala la Ley del Impuesto sobre la Renta para determinar el monto original de la inversión y la diferencia será el impuesto que podrá diferirse, en los términos que señale el Reglamento.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 12.
 
-Tratándose de pagos anticipados que reciba el enajenante de bienes de capital, antes de enviar o entregar materialmente el bien, el impuesto se cubrirá en el momento en que se efectúe cada pago anticipado y sobre el monto del mismo; al enviarse o entregarse el bien, se pagará la diferencia de impuesto que resulte por el total de la operación.
+Corresponde a la Secretaría de Gobierno y a la Procuraduría General de Justicia coadyuvar con las autoridades estatales y municipales en la vigilancia del cumplimiento de esta ley.
 
-###### ARTICULO 13.
+Atribuciones de los municipios
 
-(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1980)
+###### ARTÍCULO 13.
 
-### CAPITULO III. DE LA PRESTACION DE SERVICIOS
+Corresponde a los municipios del estado:
 
-###### ARTICULO 14.
+I. Emitir las certificaciones para el otorgamiento de licencias y permisos especiales en el ámbito de su circunscripción territorial;
 
-Para los efectos de esta Ley se considera prestación de servicios independientes:
+II. Vigilar el cumplimiento de los días y horarios de funcionamiento de los establecimientos que regula esta ley;
 
-I.- La prestación de obligaciones de hacer que realice una persona a favor de otra, cualquiera que sea el acto que le dé origen y el nombre o clasificación que a dicho acto le den otras leyes.
+III. Clausurar de inmediato cualquier establecimiento en que se vendan o consuman bebidas alcohólicas sin contar con licencia o permiso especial expedido por la Secretaría de Finanzas o cuando el que tengan, no esté vigente;
 
-II.- El transporte de personas o bienes.
+IV. Expedir y ejecutar órdenes de inspección y verificación de los establecimientos y lugares a que se refiere esta ley, con excepción de las relativas a materia de salud, cuyo ejercicio compete a las autoridades sanitarias estatales;
 
-III.- El seguro, el reaseguro, el afianzamiento y el reafianzamiento.
+V. Determinar e imponer las sanciones a que se refiere esta ley, por infracciones que se conozcan con motivo de los actos de inspección o verificación realizados por personal municipal;
 
-IV.- El mandato, la comisión, la mediación, la agencia, la representación, la correduría, la consignación y la distribución.
+VI. Proceder a la clausura inmediata cuando de la inspección o verificación se observe que el establecimiento o lugar inspeccionado o verificado no cuente con las condiciones y medidas que prevé el presente ordenamiento y las disposiciones legales aplicables;
 
-V.- La asistencia técnica y la transferencia de tecnología.
+VII. Hacer del conocimiento de las secretarías de Gobierno y de Finanzas, todas las irregularidades o violaciones a la presente ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
 
-VI.- Toda otra obligación de dar, de no hacer o de permitir, asumida por una persona en beneficio de otra, siempre que no esté considerada por esta Ley como enajenación o uso o goce temporal de bienes.
+VIII. Sancionar a los conductores, ocupantes y propietarios de vehículos automotores cuando en su interior se consuman bebidas alcohólicas;
 
-No se considera prestación de servicios independientes la que se realiza de manera subordinada mediante el pago de una remuneración, ni los servicios por los que se perciban ingresos que la Ley del Impuesto sobre la Renta asimile a dicha remuneración.
+IX. Sancionar a los conductores de vehículos automotores que transporten bebidas alcohólicas en envase abierto el mismo habitáculo en que debe viajar el conductor; y
 
-###### ARTICULO 15.
+X. Efectuar el cobro coactivo de las multas que impongan las autoridades municipales y que deriven de infracciones a la presente ley.
 
-No se pagará el impuesto por la prestación de los siguientes servicios:
+## TÍTULO SEGUNDO. DE LOS ESTABLECIMIENTOS EN DONDE SE EXPENDAN O CONSUMAN BEBIDAS ALCOHÓLICAS
 
-I.- Los prestados directamente por la Federación, Distrito Federal, Estados y Municipios que no correspondan a sus funciones de derecho público.
+### CAPÍTULO PRIMERO. DE LOS HORARIOS
 
-II.- Los prestados por instituciones públicas de seguridad social.
+Horario autorizado
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 14.
 
-III.- Los prestados en forma gratuita, excepto cuando los beneficiarios sean los miembros, socios o asociados de la persona moral que preste el servicio.
+En los establecimientos a que se refiere esta ley, únicamente podrán expenderse o consumirse bebidas alcohólicas dentro de los siguientes horarios:
 
-IV.- Los de enseñanza, que presten los organismos descentralizados y los establecimientos de particulares que tengan autorización o reconocimiento de validez oficial de estudios, en los términos de la Ley Federal de Educación.
+I. Los distribuidores y depósitos de cerveza, expendios de vinos y licores, misceláneas y tiendas de abarrotes, así como los supermercados para los efectos de la presente ley, de las 10:00 a las 23:00 horas de lunes a sábado.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+II. Los bares, cantinas y cervecerías, de las 11:30 de un día a las 2:00 horas del día siguiente de lunes a sábado.
 
-V.- El transporte público terrestre de personas, excepto por ferrocarril, y el que requiera de concesión o permiso federal para operar.
+III. Los ladies bar, cabarets, discotecas bar, clubes sociales y deportivos, hoteles y moteles, de las 11:30 horas de un día a las 2:00 horas del día siguiente de lunes a sábado.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+IV. Los restaurantes y restaurants bar, de las 11:30 horas de un día a las 2:00 horas del día siguiente, todos los días de la semana.
 
-VI.- El transporte marítimo de bienes efectuado por personas no residentes en el país.
+V. En los centros de espectáculos, deportivos o recreativos se podrá expender bebidas alcohólicas únicamente en vaso de desechable, durante el desarrollo del evento y en los horarios establecidos en la fracción anterior, pero la venta deberá suspenderse al término del evento,. (sic)
 
-VII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+Días Domingo
 
-VIII.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
 
-IX.- El aseguramiento contra riesgos agropecuarios y los seguros de vida, ya sea que cubran el riesgo de muerte u otorguen rentas vitalicias o pensiones, así como las comisiones de agentes y los reaseguros, que correspondan a los seguros citados.
+###### ARTÍCULO 15.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+La venta de bebidas alcohólicas en envase cerrado en los establecimientos a que se refiere la fracción I del artículo anterior, estará permitido los días domingo, de las 10:00 a las 14:00 horas.
 
-X.- Por los que deriven intereses y toda otra contraprestación distinta del principal que:
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
 
-a).- Deriven de operaciones en las que el enajenante, el prestador del servicio o quien conceda el uso o goce temporal de bienes, proporcione financiamiento relacionado con actos o actividades por los que no se esté obligado al pago de este impuesto o a los que se les aplique la tasa del 0%.
+Las casas productoras de vinos y licores y sus distribuidores de los municipios de Parras y Cuatro Ciénegas, quedan exceptuados del horario de venta de bebidas alcohólicas establecido en esta ley para el día domingo, permitiéndose su venta en el horario comprendido de las doce a las veinte horas, tratándose de restaurant bar y restaurantes se permitirá también el expendio en botella cerrada para llevar, única y exclusivamente en lo referente a vinos producidos en dichos municipios.
 
-b).- Reciban o paguen las instituciones de crédito y las uniones de crédito, en operaciones de financiamiento, para las que requieran de concesión o autorización y por concepto de descuento en documentos pendientes de cobro, así como las comisiones de los agentes y corresponsales de las instituciones de crédito por dichas operaciones.
+Excepción
 
-c).- Reciban las instituciones de fianzas, las de Seguros y las Sociedades mutualistas de seguros, en operaciones de financiamiento.
+###### ARTÍCULO 16.
 
-d) Paguen los trabajadores a sus patrones en operaciones de mutuo, así como los pagados por los derechohabientes a instituciones de seguridad social.
+Fuera del horario establecido en la presente ley, dichos establecimientos deberán permanecer cerrados, a excepción de aquellos cuya actividad preponderante sea la preparación, expendio, venta y consumo de alimentos, hoteles y moteles, misceláneas y abarrotes, supermercados y lugares públicos de reunión con variedad artística y similares; así como los establecimientos contratados para festejos privados, en los cuales los invitados no pagan la entrada ni consumo. En estos casos de excepción los establecimientos podrán permanecer abiertos, pero no se podrán expender o consumir bebidas alcohólicas en los mismos fuera del horario que dispone esta ley.
 
-e).- Provengan de cajas de ahorro de los trabajadores, y de fondos de ahorro establecido por las empresas siempre que reúna los requisitos de deducibilidad en los términos de la Ley del Impuesto sobre la Renta.
+La Secretaría de Finanzas llevará un registro de los establecimientos que deberán permanecer cerrados fuera de los horarios establecidos y de los que se encuentren exceptuados de tal supuesto en los términos de esta disposición, y lo pondrá a disposición de las autoridades encargadas de la inspección y vigilancia de dichos establecimientos.
 
-f).- Deriven de obligaciones emitidas conforme a lo dispuesto en la Ley General de Títulos y Operaciones de Crédito.
+Reducción de Horarios
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 17.
 
-XI.- Los prestados por bolsas de valores con concesión para operar y por casas de bolsa, así como las comisiones de agentes, corredores y promotores de bolsa.
+El horario establecido en esta ley señala los límites máximos, por lo que la Secretaría de Finanzas o los Ayuntamientos, dentro de los parámetros establecidos en la presente ley, podrá reducir los horarios referidos de acuerdo a las circunstancias particulares, a través de disposiciones generales de tipo administrativo, cuando por razones de desarrollo económico, orden público o interés general estime necesarios.
 
-XII.- Los proporcionados a sus miembros como contraprestación normal por sus cuotas y siempre que los servicios que presten sean únicamente los relativos a los fines que les sean propios, tratándose de:
+Clasificación
 
-a).- Partidos, asociaciones, coaliciones y frentes políticos legalmente reconocidos.
+###### ARTÍCULO 18.
 
-b).- Sindicatos obreros y organismos que los agrupen.
+La clasificación de los establecimientos mencionados en el presente capítulo es enunciativa, no limitativa. Cualquier establecimiento, sea cual fuere su clasificación, por el solo hecho de vender o permitir el consumo de bebidas alcohólicas, se sujetará a lo dispuesto en esta ley.
 
-c).- Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que las agrupen.
+Para tal efecto, dichos establecimientos, de acuerdo con el giro o actividad que exploten, serán equiparables a los mencionados en esta ley, según sea el caso.
 
-d).- Asociaciones patronales y colegios de profesionales.
+### CAPÍTULO SEGUNDO. DEL FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS EN QUE SE VENDAN O CONSUMAN BEBIDAS ALCOHÓLICAS
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Sujeción a la ley
 
-e).- Asociaciones o sociedades civiles organizadas con fines científicos, políticos, religiosos y culturales, a excepción de aquellas que proporcionen servicios con instalaciones deportivas cuando el valor de éstas representen más del 50% del total de las instalaciones.
+### CAPÍTULO PRIMERO. DE LAS LICENCIAS Y PERMISOS ESPECIALES
 
-XIII.- Los de espectáculos públicos por el boleto de entrada. No se consideran espectáculos públicos los prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
+Requisitos
 
-XIV.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles.
+###### ARTÍCULO 19.
 
-XV.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas.
+Las personas físicas y morales que se dediquen a las actividades mencionadas en este ordenamiento, se sujetarán, respecto de los establecimientos y lugares regulados por el mismo, a los horarios y ubicaciones que establezcan la presente ley, su reglamento, los reglamentos municipales y demás ordenamientos aplicables, así como, a las limitaciones que determinen las autoridades competentes.
 
-XVI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
+> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
 
-###### ARTICULO 16.
+Los propietarios de los establecimientos regulados en esta ley, deberán además cuando así se les requiera, remitir a la Secretaría de Gobierno, una lista que contenga los datos de todo el personal que labora con ellos, incluyendo copia de identificación oficial.
 
-Para los efectos de esta Ley, se entiende que se presta el servicio en territorio nacional cuando en el mismo se lleva a cabo, total o parcialmente, por un residente en el país.
+El incumplimiento de las obligaciones señaladas en el párrafo que antecede será causa de clausura inmediata del establecimiento.
 
-En el caso de transporte internacional, se considera que el servicio se presta en territorio nacional independientemente de la residencia del porteador, cuando en el mismo se inicie el viaje, incluso si éste es de ida y vuelta.
+Programas de prevención
 
-Tratándose de transportación aérea internacional, se considera que únicamente se presta el 25% del servicio en territorio nacional. La transportación aérea a las poblaciones mexicanas en las fronteras del país gozará del mismo tratamiento.
+###### ARTÍCULO 20.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+Las secretarías de Educación, de Salud y de Finanzas conjuntamente con los municipios del estado, las cámaras y organizaciones empresariales y de comerciantes, los propietarios u operadores de los establecimientos que regula esta ley, ciudadanos interesados y demás autoridades competentes, promoverán la implementación de programas de prevención de consumo de bebidas alcohólicas, de comisión de delitos y de accidentes automovilísticos que puedan ocasionarse por este motivo.
 
-###### ARTICULO 17.
+## TÍTULO TERCERO. DEL OTORGAMIENTO, CANCELACIÓN O REVOCACIÓN DE LAS LICENCIAS O PERMISOS ESPECIALES
 
-En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien los preste y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el prestador de servicios. Tratándose de seguros, las primas correspondientes darán lugar al pago del impuesto al valor agregado en el mes en que se paguen.
+###### ARTÍCULO 21.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+Para la venta de bebidas alcohólicas en cualquiera de las modalidades que señala esta ley es requisito indispensable contar, de manera previa y por escrito, con la licencia correspondiente expedida por la Secretaría de Finanzas, misma que tendrá que ser publicada en el padrón único y refrendada en el mes de enero de cada año para tener validez.
 
-###### ARTICULO 18.
+Tratándose de la licencia para el giro de miscelánea, ésta se expedirá exclusivamente a las personas físicas que tributen bajo el régimen de pequeños contribuyentes y cumplan con lo dispuesto en la presente ley.
 
-Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada, así como las cantidades que además se carguen o cobren a quien reciba el servicio por otros impuestos, derechos, viáticos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+Exhibición
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 22.
 
-Tratándose de personas morales que presten servicios preponderantemente a sus miembros, socios o asociados, los pagos que éstos efectúen, incluyendo aportaciones al capital para absorber pérdidas, se considerarán como valor para efecto del cálculo del impuesto.
+Los propietarios u operadores de los establecimientos deberán exhibir en lugares visibles de su interior la licencia y el refrendo anual y fijar en lugar visible del exterior del local el número de la licencia o permiso especial.
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Trámite
 
-En el caso de mutuo y otras operaciones de financiamiento, se considerará como valor los intereses y toda otra contraprestación distinta del principal que reciba al acreedor.
+###### ARTÍCULO 23.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Para la tramitación de la licencia referida en este capítulo, el interesado deberá:
 
-### CAPITULO IV. DEL USO O GOCE TEMPORAL DE BIENES
+I. Comparecer ante la Secretaría de Finanzas personalmente, o a través de su representante o apoderado legal, con identificación oficial, a realizar los trámites correspondientes;
 
-### CAPITULO V. DE LA IMPORTACION DE BIENES Y SERVICIOS
+II. Presentar solicitud que contenga el giro específico que pretenda operar y que deberá ser congruente con la licencia de uso del suelo del inmueble;
 
-###### ARTICULO 19.
+III. Croquis en el que se indique en forma clara y precisa la ubicación del local en que se pretenda establecer;
 
-Para los efectos de esta Ley se entiende por uso o goce temporal de bienes, el arrendamiento, el usufructo y cualquier otro acto, independientemente de la forma jurídica que al efecto se utilice, por el que una persona permita a otra usar o gozar temporalmente bienes tangibles, a cambio de una contraprestación.
+IV. Copia de la cédula del registro federal de contribuyentes;
 
-###### ARTICULO 20.
+V. Copia certificada del testimonio de la escritura pública constitutiva y sus modificaciones si se trata de una sociedad mercantil, o del acta de nacimiento tratándose de personas físicas, así como el poder notariado de quien actúa en su nombre en caso de hacerse a través de representante legal;
 
-No se pagará el impuesto por el uso o goce temporal de los siguientes bienes:
+VI. Certificación expedida por el municipio en cuyo territorio se pretende establecer;
 
-I.- El suelo.
+VII. Original de la licencia de uso del suelo y de edificación, y demás licencias o permisos de orden municipal que corresponda según el giro del establecimiento;
 
-II.- Inmuebles destinados o utilizados exclusivamente para casa-habitación. Si un inmueble tuviere varios destinos o usos, no se pagará el impuesto por la parte destinada o utilizada para casa-habitación. Lo dispuesto en esta fracción no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje.
+VIII. Dictamen favorable emitido por la autoridad de protección civil competente, según corresponda;
 
-III.- Fincas dedicadas o utilizadas sólo a fines agrícolas o ganaderos.
+IX. Autorizaciones sanitarias que expidan las autoridades de la materia;
 
-IV.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 1980)
+X. Demás permisos especiales que requiera, debido a su ubicación o características, emitidos por autoridades que regulan el desarrollo urbano o el patrimonio histórico;
 
-V.- Libros, periódicos y revistas.
+XI. Constancia de pagos actualizados de los derechos que señale la Ley de Hacienda para el Estado de Coahuila de Zaragoza y demás obligaciones fiscales estatales y municipales que correspondan;
 
-###### ARTICULO 21.
+XII. Comprobar no estar impedido para ejercer el comercio, de acuerdo a las disposiciones legales aplicables.
 
-Para los efectos de esta Ley, se entiende que se concede el uso o goce temporal de un bien tangible en territorio nacional, cuando en éste se encuentre el bien en el momento de su entrega material a quien va a realizar su uso o goce.
+Tratándose de personas físicas o morales extranjeras, anexar la documentación con la cual acrediten estar autorizadas por las autoridades competentes en los términos de las disposiciones legales aplicables, para dedicarse a actividades comerciales en el país.
 
-###### ARTICULO 22.
+XIII. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
 
-Cuando se otorgue el uso o goce temporal de un bien tangible, se tendrá obligación de pagar el impuesto en el momento en que sean exigibles las contraprestaciones a favor de quien efectúa dicho otorgamiento y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el contribuyente.
+XIV. Los demás requisitos establecidos en esta ley y en cualquier otro ordenamiento.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+En caso de que se incumpla con alguno de los requisitos antes señalados, se requerirá al solicitante para que lo subsane en un plazo no mayor a diez días hábiles. En caso de no hacerlo, no se dará trámite a la solicitud. En estos casos la Secretaría de Finanzas devolverá al solicitante los documentos que integran el expediente.
 
-###### ARTICULO 23.
+Integración de expediente
 
-Para calcular el impuesto en el caso de uso o goce temporal de bienes, se considerará el valor de la contraprestación pactada a favor de quien los otorga, así como las cantidades que además se carguen o cobren a quien se otorgue el uso o goce por otros impuestos, derechos, gastos de mantenimiento, contrucciones (sic), reembolsos, intereses normales o moratorios, penas convencionales o cualquier otro concepto.
+### CAPÍTULO SEGUNDO. DE LAS CERTIFICACIONES MUNICIPALES
 
-### CAPITULO VI. DE LA EXPORTACION DE BIENES O SERVICIOS
+Requisito previo
 
-###### ARTICULO 24.
+###### ARTÍCULO 24.
 
-Para los efectos de esta Ley, se considera importación de bienes o de servicios:
+Recibida la solicitud de licencia con toda la documentación a que se refiere el artículo anterior, la Secretaría de Finanzas integrará el expediente administrativo correspondiente y corroborará los datos proporcionados por el solicitante, a fin de verificar que se cumpla con los requisitos legales.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Plazo para resolver
 
-I.- La introducción al país de bienes.
+###### ARTÍCULO 25.
 
-II.- La adquisición por personas residentes en el país de bienes intangibles enajenados por personas no residentes en él.
+La Secretaría de Finanzas contará con un plazo de treinta días hábiles, contados a partir de la presentación de la solicitud, para pronunciarse sobre la expedición de la licencia, fundando y motivando el acuerdo que emita al efecto.
 
-III.- El uso o goce temporal, en territorio nacional, de bienes intangibles proporcionados por personas no residentes en el país.
+Requisitos de las licencias
 
-IV.- El uso o goce temporal, en territorio nacional, de bienes tangibles cuya entrega material se hubiera efectuado en el extranjero.
+###### ARTÍCULO 26.
 
-V.- El aprovechamiento en territorio nacional de los servicios a que se refiere el artículo 14, cuando se presten por no residentes en el país. Esta fracción no es aplicable al transporte internacional.
+Las licencias otorgadas por la Secretaría de Finanzas, deberán contener los siguientes datos:
 
-###### ARTICULO 25.
+> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
 
-No se pagará el impuesto al valor agregado en las importaciones siguientes:
+I. Nombre del titular. Cuando el titular de la licencia no sea quien enajene o preste los servicios objeto de esta ley, deberá registrar ante las secretarías de Finanzas y de Gobierno el nombre de la persona que en su lugar explota los derechos que le otorga la licencia mencionada;
 
-I.- Las que, en los términos de la legislación aduanera, no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo. Si los bienes importados temporalmente son objeto de uso o goce en el país, se estará a lo dispuesto en el Capítulo IV de esta Ley.
+II. Domicilio del establecimiento;
 
-II.- Las de equipajes y menajes de casa a que se refiere el Código Aduanero.
+III. Giro autorizado;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+IV. Número de licencia;
 
-III.- Las de bienes cuya enajenación en el país y la de servicios por cuya prestación en territorio nacional, no den lugar al pago del impuesto al valor agregado o se les aplique la tasa del 0%. No quedan comprendidos en esta fracción los bienes muebles usados.
+V. Folio de la certificación municipal;
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VI. Lugar y fecha de expedición;
 
-IV.- Las de bienes donados por residentes en el extranjero a la Federación, entidades federativas, municipios o a cualquier otra persona que mediante reglas de carácter general autorice la Secretaría de Hacienda y Crédito Público.
+VII. Sello de la Secretaría de Finanzas, y
 
-###### ARTICULO 26.
+VIII. Los demás que señale esta ley, su reglamento y demás disposiciones aplicables.
 
-Se considera que se efectúa la importación de bienes o servicios:
+Las solicitudes podrán presentarse simultáneamente, y la del Estado, sólo se autorizara, siempre y cuando se presente la del Municipio autorizada.
 
-I.- En el momento en que los bienes queden a disposición del importador en la aduana, recinto fiscal o fiscalizado.
+Recurso
 
-II.- En caso de importación temporal al convertirse en definitiva.
+###### ARTÍCULO 27.
 
-III.- Tratándose de bienes intangibles adquiridos de personas residentes en el extranjero o de toda clase de bienes sobre los cuales dichas personas concedan el uso o goce, en el momento en que se realice alguno de los supuestos siguientes:
+Contra la resolución que niegue la licencia podrá interponerse el recurso de revocación previsto en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
 
-a).- Se aprovechen en territorio nacional.
+Padrón
 
-b).- Se pague parcial o totalmente la contraprestación.
+###### ARTÍCULO 28.
 
-c).- Se expida el documento que ampare la operación.
+La Secretaría de Finanzas contará con un padrón único de todas las licencias existentes, mismo que será publicado en la página de internet oficial del gobierno del estado y que deberá contener al menos los siguientes datos:
 
-Cuando se pacten contraprestaciones periódicas, se atenderá al momento en que sea exigible la contraprestación de que se trate.
+I. Ubicación del establecimiento;
 
-IV.- En el caso de aprovechamiento en territorio nacional de servicios prestados en el extranjero se estará a los términos del artículo 17 de esta Ley.
+II. Nombre comercial del establecimiento;
 
-###### ARTICULO 27.
+III. Giro del establecimiento;
 
-Para calcular el impuesto al valor agregado tratándose de importación de bienes tangibles, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de este último gravamen y de los demás que se tengan que pagar con motivo de la importación.
+IV. Número y fecha de expedición de la licencia y sus subsecuentes refrendos.
 
-El valor que se tomará en cuenta tratándose de importación de bienes o servicios a que se refieren las fracciones II a V del artículo 24 será el que les correspondería en esta Ley por enajenación de bienes, uso o goce de bienes o prestación de servicios, en territorio nacional, según sea el caso.
+V. Sanciones y reportes;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VI. Folio de la certificación municipal correspondiente, y
 
-###### ARTICULO 28.
+VII. Los demás que procedan conforme a la Ley de Acceso a la Información Pública y Protección de Datos Personales del Estado de Coahuila de Zaragoza.
 
-Tratándose de la importación de bienes tangibles, el pago tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito, sin que contra dicho pago se acepte el acreditamiento o compensación.
+Será requisito indispensable de validez de la licencia el estar inscrito en el padrón único.
 
-Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto que esta Ley establece, mediante declaración que presentarán ante la aduana correspondiente.
+Permiso Especial
 
-El impuesto al valor agregado pagado al importar bienes dará lugar a acreditamiento en los términos y con los requisitos del artículo 4o. de esta Ley.
+### CAPÍTULO TERCERO. DE LOS CAMBIOS DE TITULAR, DOMICILIO Y GIRO, Y PÉRDIDA DE LA LICENCIA O PERMISO ESPECIAL
 
-No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponde conforme a esta Ley.
+Autorización
 
-### CAPITULO VII. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+###### ARTÍCULO 29.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Las personas físicas y morales con establecimientos temporales que con motivo de festividades regionales, ferias, verbenas, espectáculos públicos y espectáculos deportivos y recreativos de naturaleza análoga, pretendan enajenar bebidas alcohólicas o a la prestación de servicios que incluyan el expendio de dichas bebidas, total o parcialmente con el público en general, deberán obtener permiso especial del Municipio, expedido por la Secretaría de Finanzas.
 
-###### ARTICULO 29.
+Solicitud
 
-Las empresas residentes en el país no pagarán el impuesto por enajenación de bienes o prestación de servicios, cuando unos u otros se exporten.
+###### ARTÍCULO 30.
 
-Para los efectos de esta Ley, se considera exportación de bienes o servicios:
+Para la expedición de los permisos especiales, el interesado, representante o apoderado legal deberá presentar solicitud por escrito a la Secretaría de Finanzas con un mínimo de veinte y un máximo de sesenta días hábiles de anticipación a la fecha de inicio del evento y acompañar los siguientes datos:
 
-I.- La que tenga el carácter de definitiva, en los términos de la legislación aduanera.
+I. Nombre del solicitante y domicilio;
 
-II.- La enajenación de bienes intangibles realizada por persona residente en el país a quien resida en el extranjero.
+II. Lugar del evento. Éste deberá tener las medidas de seguridad que determine la ley u ordenamientos correspondientes y, en su caso, las autorizaciones que requieran de las demás autoridades;
 
-III.- El uso o goce temporal, en el extranjero, de bienes intangibles proporcionados por personas residentes en el país.
+III. Giros que se van a instalar;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+IV. Área de venta, consumo o servicio de bebidas alcohólicas;
 
-IV.- El aprovechamiento en el extranjero de servicios prestados por residentes en el país, por concepto de:
+V. Croquis de ubicación de las áreas de venta, consumo o servicio;
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VI. Motivo del evento o celebración, días de duración y horario solicitado para la venta y consumo de bebidas alcohólicas;
 
-a).- Asistencia técnica, servicios técnicos relacionados con ésta e informaciones relativas a experiencias industriales, comerciales o científicas.
+VII. Dictamen favorable emitido por la autoridad de protección civil competente, según corresponda;
 
-b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la industria maquiladora.
+VIII. Copia de la credencial de elector, pasaporte o cualquier otra identificación oficial con fotografía del solicitante si es persona física o del acta constitutiva y el poder del representante legal, si se trata de una persona moral.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Tratándose de personas físicas o morales extranjeras, anexar la documentación con la cual acrediten estar autorizadas por las autoridades competentes en los términos de las disposiciones legales aplicables, para dedicarse a actividades comerciales en el país;
 
-c).- Publicidad.
+IX. Título de propiedad, contrato de arrendamiento o la documentación que ampare su derecho para utilizar el inmueble. En caso de no ser propietario del inmueble deberá contar con el consentimiento por escrito del propietario;
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+X. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales;
 
-d).- Comisiones y mediaciones.
+XI. Certificación municipal en favor del mismo solicitante, y
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+XII. Los demás que establezca la ley, su reglamento y otras disposiciones legales aplicables.
 
-e).- Seguros y reaseguros, así como afianzamientos y reafianzamientos.
+En caso de que se incumpla con alguno de los requisitos antes señalados, se requerirá al solicitante para que lo subsane en un plazo no mayor a diez días hábiles. En caso de no hacerlo, no se dará trámite a la solicitud. En estos casos la Secretaría de Finanzas devolverá al solicitante los documentos que integran el expediente.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Los trámites ante la Secretaría de Finanzas y los Ayuntamientos se podrán iniciar y realizar de manera simultánea, sin embargo, la Secretaría de Finanzas otorgará la licencia previa certificación municipal.
 
-f).- Operaciones de financiamiento.
+Requisitos permisos especiales
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+###### ARTÍCULO 31.
 
-V.- La transportación internacional de bienes prestada por residentes en el país.
+Los permisos especiales que expida la Secretaría de Finanzas deberán contener lo siguiente:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+I. Nombre de las personas físicas o morales que los solicitan;
 
-VI.- La transportación aérea de personas, prestada por residentes en el país, por la parte del servicio que en los términos del último párrafo del artículo 16 no se considera prestada en territorio nacional.
+II. Número de folio, duración del permiso, lugar y horario de funcionamiento;
 
-###### ARTICULO 30.
+III. Delimitación del área específica donde se expenderán o consumirán las bebidas alcohólicas, su tipo y cantidad;
 
-El exportador de bienes o servicios, en los casos mencionados en el artículo anterior, podrá elegir entre el acreditamiento o la devolución de las cantidades a que se refiere el artículo 4o., que correspondan a los bienes o servicios exportados, incluso cuando se trate de los supuestos previstos en los artículos 9o. y 15 de esta Ley. También procederá el acreditamiento o la devolución cuando las empresas residentes en el país exporten bienes tangibles para enajenarlos o para conceder su uso o goce en el extranjero.
+IV. Las medidas de seguridad o condiciones específicas que deba cumplir su titular;
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+V. Folio de la certificación municipal, y
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+VI. Sello correspondiente.
 
-La devolución en el caso de exportación de bienes tangibles procederá hasta que la exportación se consume, en los términos de la legislación aduanera. En los demás casos, procederá hasta que sea exigible la contraprestación y en proporción a la misma.
+Tratándose de permisos especiales para eventos deportivos, artísticos o culturales que por sus características tengan especial interés regional y trascendencia a nivel federal, estatal o municipal, y cuya organización y planeación esté encomendada a comités ajenos al solicitante, la autoridad podrá recibir la solicitud al menos con 10 días hábiles de anticipación y otorgar dicho permiso especial, ajustándolo a las características de modo, tiempo y lugar propias del evento.
 
-###### ARTICULO 31.
+Plazo para resolver sobre permiso especial
 
-Tratándose de exportación definitiva de bienes tangibles, se considerará como valor de la misma, el que aparezca en la factura comercial que expida el exportador.
+### CAPÍTULO CUARTO. DEL REFRENDO, REVOCACIÓN Y CANCELACIÓN DE LAS LICENCIAS
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-Cuando se exporten bienes intangibles o se otorgue su uso o goce temporal en el extranjero o se exporten servicios, se atenderá al importe de la contraprestación pactada o, en su defecto, al valor que los servicios o los bienes mencionados o su aprovechamiento, tengan en el mercado nacional.
+Requisitos
 
-### CAPITULO VIII. DE LAS FACULTADES DE LAS AUTORIDADES
+###### ARTÍCULO 45.
 
-###### ARTICULO 32.
+Para que proceda el otorgamiento del refrendo deberá presentarse ante la Secretaria de Finanzas en el mes de febrero, el pago de los derechos correspondientes que prevé la Ley de Hacienda para el Estado de Coahuila de Zaragoza, además, el titular de la licencia deberá exhibir la revalidación de la certificación municipal.
 
-Los obligados al pago de este impuesto y las personas que realicen los actos y actividades a que se refiere el artículo 2o.-A tienen, además de las obligaciones señaladas en otros artículos de esta Ley, las siguientes:
+> <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2017)</small>
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Trámite
 
-I.- Llevar los libros de contabilidad y registros que señale el Reglamento y efectuar, conforme al mismo, la separación de los actos o actividades de las operaciones por los que deba pagarse el impuesto por las distintas tasas, de aquellos por los cuales esta Ley libera de pago.
+###### ARTÍCULO 46.
 
-II.- Realizar, tratándose de comisionistas, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta del comitente.
+Para que proceda el trámite de refrendo de las licencias a que se refiere el presente capítulo, no se exigirá más requisito que el pago de los derechos correspondientes. Los interesados no estarán obligados a proporcionar copias adicionales de documentos entregados previamente ante la autoridad competente.
 
-III.- Expedir documentos que comprueben el valor de la contraprestación pactada, señalando en los mismos, expresamente y por separado, el impuesto al valor agregado que se traslada a quien adquiera los bienes, los use o goce temporalmente, o reciba los servicios. Dichos documentos deberán entregarse o enviarse a quien efectúa o deba efectuar la contraprestación, dentro de los 15 días naturales siguientes a aquél en el que realicen los supuestos señalados en los artículos 11, 17 y 22 de esta Ley.
+La autoridad competente contará con un plazo de tres meses a partir del refrendo correspondiente para verificar que el titular de la licencia se encuentra inscrito en el padrón único y está al corriente en el pago del impuesto sobre nóminas y demás obligaciones fiscales estatales y municipales.
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+En caso de incumplimiento, se otorgará un plazo de cinco días hábiles para subsanarlo. Transcurrido el plazo señalado sin que se haya subsanado el incumplimiento, procederá la cancelación de la licencia correspondiente.
 
-La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general, podrá establecer que se incluya en el valor de la contraprestación pactada el monto del impuesto al valor agregado, cuando se trate de actos o actividades que por su monto o por tratarse de determinadas ramas de actividades, considere conveniente otorgar estas facilidades.
+Convalidación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+ARTÍCULO 47 El pago de derechos por refrendo no convalida la falta de licencia o permiso especial ni autoriza para operar el establecimiento.
 
-En todo caso, los contribuyentes estarán obligados a trasladar el impuesto en forma expresa y por separado en la documentación a que se refiere esta fracción, cuando el adquirente, el prestatario del servicio o quien use o goce temporalmente el bien, así lo solicite.
+Vigencia
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 48.
 
-IV.- Presentar en las oficinas autorizadas las declaraciones señaladas en esta ley. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, mensual o del ejercicio, según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente. Lo dispuesto en esta fracción no es aplicable a los casos señalados en los artículos 28 y 33 de esta Ley.
+La licencia para el giro de miscelánea tendrá vigencia anual y no causará los derechos por el refrendo anual.
 
-Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deba pagarse impuesto conforme a esta Ley, están obligados a formular a nombre de sus representadas las declaraciones correspondientes y pagar el impuesto respectivo, por el que tendrán responsabilidad solidaria.
+Supuestos de revocación
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 49.
 
-Los contribuyentes dedicados a la agricultura, ganadería o pesca, comercial, por cuyas actividades únicamente sea aplicable la tasa del 0%, podrán optar por quedar liberados de las obligaciones establecidas en las fracciones I, II y IV, de este artículo y en ese caso, no tendrán derecho a devolución.
+La Secretaría de Finanzas podrá, en cualquier momento, revocar la licencia por cualquiera de los siguientes supuestos:
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+I. Que no obtenga el refrendo de la licencia dentro del primer mes del ejercicio fiscal;
 
-Los contribuyentes que tengan en copropiedad una negociación, designarán representante común previo aviso de tal designación ante las autoridades fiscales, y será éste quien a nombre de los copropietarios cumpla con las obligaciones establecidas en esta Ley.
+II. Que el establecimiento funcione en lugar distinto al autorizado en la licencia o con un giro diferente al manifestado en la misma;
 
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+III. Cuando la autoridad municipal decrete la clausura definitiva;
 
-En el caso de que los ingresos deriven de actos o actividades que realice una sucesión, el representante legal de la misma pagará el impuesto presentando declaraciones mensuales y del ejercicio, por cuenta de los herederos o legatarios.
+IV. Cuando habiendo presentado suspensión de actividades, ésta dure más de tres años;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+V. Cuando por su funcionamiento o ubicación se ofenda la moral pública o las buenas costumbres;
 
-###### ARTICULO 33.
+VI. Cuando estén ubicados en la cercanía de escuelas, hospitales, parques y jardines públicos, cuarteles, centros de trabajo, centros culturales y templos religiosos o por así requerirlo el interés social;
 
-Cuando se enajene un bien o se preste un servicio en forma accidental, por los que deba pagar impuesto en los términos de esta Ley, el contribuyente lo pagará mediante declaración que presentará en las oficinas autorizadas, dentro de los 15 días hábiles siguientes a aquél en el que obtenga la contraprestación, sin que contra dicho pago se acepte acreditamiento. En las importaciones ocasionales el pago se hará como lo establece el artículo 28 de esta Ley. En estos casos no formulará declaración anual ni mensual ni llevará contabilidad; pero deberá expedir los documentos que señala la fracción III del artículo anterior y conservar la documentación correspondiente durante 5 años.
+VII. Cuando el establecimiento no cumpla con las normas de salubridad e higiene que establecen las leyes, o
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+VIII. Cuando el establecimiento incumpla en más de tres ocasiones con los horarios autorizados para la enajenación y expendio de bebidas, independientemente de las sanciones a que se haga acreedor por estos motivos.
 
-Tratándose de enajenación de inmuebles por la que se deba pagar el impuesto en los términos de esta ley, consignada en escritura pública, los notarios, corredores, jueces y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad y lo enterarán dentro del mes siguiente a la fecha en que se firme la escritura en la oficina autorizada que corresponda a su domicilio.
+La Secretaría de Finanzas podrá solicitar la información correspondiente de las autoridades de salud, de educación, de seguridad pública del estado y municipales, y demás competentes, para la verificación de los supuestos a que se refiere este artículo.
 
-###### ARTICULO 34.
+La revocación es independiente de las sanciones que correspondan por seguir realizando la actividad sin licencia para el funcionamiento y revalidación anual.
 
-Cuando la contraprestación que reciba el contribuyente no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o en su defecto el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
+La Secretaría de Finanzas podrá autorizar la reubicación de los establecimientos cuya licencia de funcionamiento hubiere sido revocada en términos del presente artículo, cuando lo considere conveniente.
 
-En las permutas y pagos en especie, el impuesto al valor agregado se deberá pagar por cada bien cuya propiedad se trasmita, o cuyo uso o goce temporal se proporcione, o por cada servicio que se preste.
+Autoridad Competente
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 50.
 
-###### ARTICULO 35.
+La Secretaría de Finanzas es la autoridad competente para imponer las sanciones previstas en la presente ley, así como para substanciar el procedimiento administrativo de revocación de licencias y permisos.
 
-Las personas físicas que enajenen bienes o presten servicios, cuando sean contribuyentes menores conforme a la Ley del Impuesto sobre la Renta pagarán el impuesto al valor agregado en los términos de esta Ley, salvo que las autoridades fiscales les estimen el valor de sus actividades por las que se deba pagar impuesto. En este último caso, se observarán las siguientes disposiciones:
+Trámite
 
-I.- Las personas mencionadas llevarán los registros simplificados de sus operaciones que determine la Secretaría de Hacienda y Crédito Público.
+###### ARTÍCULO 51.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+El procedimiento administrativo a que se refiere este capítulo, se substanciará y resolverá conforme a lo dispuesto por la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza, en lo que resulte aplicable.
 
-II.- Dichas personas no tendrán obligación de calcular ni declarar mensualmente el monto de las contraprestaciones que correspondan a sus actividades por las que deban pagar el impuesto. Las autoridades fiscales estimarán el monto mensual citado sobre el cual aplicarán el 10%, el 6% o el 0% señalados en los artículos 1o., 2o. y 2o.-A de esta Ley, respectivamente.
+Resolución
 
-III.- Del impuesto mensual resultante, el contribuyente podrá deducir el impuesto al valor agregado que le hubieran trasladado, siempre que tenga en su poder la documentación que reúna los requisitos de esta Ley y de su Reglamento, que ampare sus adquisiciones uso o goce temporal de bienes y servicios recibidos. La diferencia resultante será la cantidad que el contribuyente deberá pagar a las oficinas autorizadas, a más tardar el día 15 de cada mes o al día siguiente hábil si aquél no lo fuera.
+###### ARTÍCULO 52.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+La resolución que se emita será fundada y motivada y examinará todos y cada uno de los argumentos hechos valer por el titular de la licencia o permiso, dentro del plazo concedido al efecto, teniendo la autoridad la facultad de invocar hechos notorios.
 
-IV.- La estimación hecha por las autoridades fiscales se mantendrá indefinidamente hasta que las propias autoridades formulen una nueva. A partir del primer pago provisional que corresponda a cada año de calendario, la estimación se incrementará en la cantidad que resulte de aplicarle el factor que en su caso señale anualmente el Congreso de la Unión.
+En la resolución correspondiente, la Secretaría de Finanzas podrá:
 
-V.- Cuando de las comprobaciones que lleven a cabo las autoridades fiscales aparezca que el total de las contraprestaciones reales por las que el contribuyente deba pagar el impuesto al valor agregado es superior en más de un 20% a la última estimación practicada, se rectificará ésta y se cobrarán las diferencias que procedan más los recargos de Ley, salvo que el contribuyente solicite espontáneamente a las autoridades fiscales la rectificación de la estimación.
+I. Suspender los derechos derivados de la licencia;
 
-No se practicará estimación tratándose de enajenación de inmuebles, del otorgamiento del uso o goce de toda clase de bienes, de comisión o de mediación, o de cualesquiera de los otros actos a que se refiere el artículo 14, fracción IV de esta Ley.
+II. Revocar la licencia o permiso de que se trate;
 
-###### ARTICULO 36.
+III. Ordenar la clausura del establecimiento, y
 
-Los contribuyentes que paguen impuesto al valor agregado con base en estimación practicada por las autoridades fiscales, deberán recabar y conservar, por el término de 5 años la documentación en que conste el impuesto que les hubiere sido trasladado y expedir documentos que reúnan requisitos fiscales, cuando se lo solicite el adquirente de los bienes o el usuario del servicio, conservando copia de los mismos. En los documentos que expidan señalarán por separado el impuesto que corresponda a los actos por los que deba pagarse, trasladarán su monto al adquirente de los bienes o al usuario del servicio y considerarán que dicho monto forma parte del que resulta de la estimación.
+IV. Declarar subsistentes los derechos del titular de la licencia o permiso de que se trate.
 
-###### ARTICULO 37.
+## TÍTULO CUARTO. DE LA VIGILANCIA, OBLIGACIONES, PROHIBICIONES Y SANCIONES
 
-Para los efectos de la estimación que realicen las autoridades fiscales, se tomará en cuenta:
+###### ARTÍCULO 32.
 
-Importe de compras efectuadas; inventarios de mercancías, de maquinaria y equipo; monto de la renta del local en que estén establecidos los negocios; número de trabajadores que tengan a su servicio y sueldos de que disfruten; pagos de cuotas al Instituto Mexicano del Seguro Social; impuestos pagados a la Federación, Distrito Federal, Estados o Municipios; cantidades que hayan cubierto por concepto de energía eléctrica y teléfonos; retiros en efectivo y en especie efectuados por el propietario del negocio para la atención de sus necesidades personales y de su familia; zona comercial en que se encuentre ubicado el negocio; informaciones recabadas de terceros y, en general, todos los elementos de juicio que puedan utilizarse para la estimación del valor de las actividades por las que se deba pagar el impuesto.
+La Secretaría de Finanzas contará con un plazo de quince días hábiles, contados a partir de la presentación de la solicitud, para pronunciarse sobre la expedición del permiso especial, fundando y motivando el acuerdo que emita al efecto.
 
-### CAPITULO IX. DE LAS PARTICIPACIONES A LAS ENTIDADES FEDERATIVAS
+El permiso especial únicamente será válido por el tiempo y en el lugar para el cual fue expedido. En ningún caso el permiso especial podrá tener una vigencia superior a un mes, pudiendo la autoridad estatal en el ámbito de su competencia, inspeccionar y vigilar su funcionamiento. Cuando el establecimiento no cumpla con las normas que establecen las leyes, se procederá a la cancelación del permiso especial otorgado y a la clausura del establecimiento en su caso.
 
-###### ARTICULO 38.
+Los Municipios, podrán otorgar permiso para la venta de bebidas en festividades locales hasta por un terminó máximo de 24 horas, dentro de los horarios establecidos en la presente ley.
 
-Cuando se omita la presentación de una o más declaraciones para el pago del impuesto establecido en esta Ley, transcurridos 10 días a partir del siguiente a aquél en el que se haya vencido el plazo en el cual el contribuyente debió presentarlas, las autoridades fiscales podrán hacerle efectivo un impuesto igual al que se hubiera pagado con cualquiera de las seis últimas declaraciones mensuales o con la anual, según corresponda, con las modificaciones que, en su caso, hubiese tenido con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales. Este impuesto podrá ser rectificado por las autoridades fiscales. Los contribuyentes continuarán obligados a presentar las declaraciones omitidas, caso en el que el impuesto pagado se deducirá del que resulte de dicha declaración, que podrá ser objeto de comprobación. Las facultades de las autoridades fiscales establecidas en este artículo, se ejercitarán sin perjuicio de las demás que confieren las leyes a dichas autoridades.
+Criterios para otorgar o negar licencias
 
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+###### ARTÍCULO 33.
 
-###### ARTICULO 39.
+La Secretaría de Finanzas podrá autorizar o negar las licencias y permisos especiales a que se refiere la presente ley tomando en cuenta su ubicación, el número de establecimientos existentes en cada municipio, la conveniencia de combatir el alcoholismo y las disposiciones de salubridad e higiene, así como de protección civil aplicables, tomando en cuenta la opinión del Ayuntamiento.
 
-Las autoridades fiscales podrán determinar presuntivamente el valor de las actividades por las que se debe pagar impuesto al valor agregado, en los casos a que se refiere las fracciones I a IV del artículo 61 de la Ley del Impuesto sobre la Renta. Para estos efectos, calcularán las contraprestaciones totales recibidas por el contribuyente en el ejercicio de que se trate, utilizando los datos de su contabilidad y documentación o tomarán como base los contenidos en la declaración del impuesto sobre la renta correspondiente al mismo ejercicio o a uno anterior, con las modificaciones que, en su caso, hubieran tenido con motivo del ejercicio de las facultades de comprobación; o bien, determinarán presuntivamente el valor por los medios indirectos de la investigación económica o de cualquiera otra clase.
+Nulidad
 
-Al importe de la determinación presuntiva se aplicará la tasa del impuesto que corresponda conforme a esta Ley y el resultado se reducirá con las cantidades acreditables que compruebe.
+###### ARTÍCULO 34.
 
-###### ARTICULO 40.
+Las licencias, permisos especiales y refrendos que se expidan en contravención a las disposiciones establecidas en esta ley son nulos de pleno derecho. Los servidores públicos que hayan intervenido en la emisión de esos actos serán sujetos a lo establecido en la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila y en el Código Penal para el Estado de Coahuila de Zaragoza, en caso de que la conducta constituya un delito.
 
-Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades, se presumirá que los bienes adquiridos fueron enajenados y que el valor de la enajenación fue el que resulta de las siguientes operaciones.
+###### ARTÍCULO 35.
 
-I.- El valor determinado de adquisición se multiplica por el por ciento de utilidad bruta con que opera el contribuyente.
+Como requisito previo para la expedición de las licencias o los permisos especiales, cambio de titular, domicilio o giro, se requiere la obtención de la correspondiente certificación municipal.
 
-II.- La cantidad resultante se sumará al monto determinado de adquisición y la suma será el valor de la enajenación.
+Solicitud
 
-El por ciento de utilidad bruta se obtendrá de los datos contenidos en la declaración del impuesto sobre la renta del contribuyente en el ejercicio de que se trate o de la última que hubiera presentado para ese efecto. A falta de declaración se entenderá que el por ciento de utilidad bruta es de 50%.
+###### ARTÍCULO 36.
 
-Igual procedimiento se seguirá para determinar el valor por enajenación de bienes faltantes en inventarios. En este caso si no pudiere determinarse el monto de la adquisición se considerará el que corresponda a bienes de la misma especie adquiridos por el contribuyente en el ejercicio de que se trate y, en su defecto, el de mercado o el de avalúo.
+Para obtener la certificación municipal, los interesados deberán presentar ante la autoridad municipal respectiva, la solicitud correspondiente, acompañando la información y documentación siguiente:
 
-###### ARTICULO 41.
+I. Comparecer personalmente, o a través de su representante o apoderado legal, con identificación oficial, a realizar los trámites correspondientes;
 
-La Secretaría de Hacienda y Crédito Público celebrará convenio con los Estados que soliciten adherirse al Sistema Nacional de Coordinación Fiscal para recibir participaciones en los términos de la Ley de Coordinación Fiscal, conviniendo en no mantener impuestos locales o municipales sobre:
+II. Copia certificada del testimonio de la escritura pública constitutiva y sus modificaciones si se trata de una sociedad mercantil, o del acta de nacimiento tratándose de personas físicas, así como el poder notariado de quien actúa en su nombre en caso de hacerse a través de representante legal;
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+III. Domicilio para oír y recibir notificaciones;
 
-I.- Los actos o actividades por los que deba pagarse el impuesto al valor agregado o sobre las prestaciones o contraprestaciones que deriven de los mismos, ni sobre la producción de bienes cuando por su enajenación deba pagarse dicho impuesto.
+IV. Clave del registro federal de contribuyentes;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+V. La constancia de zonificación del uso del suelo, la licencia del uso del suelo y la licencia de edificación; con esta constancia y licencias se deberá acreditar que el uso del suelo está permitido para el giro que se llevará a cabo en el establecimiento de que se trate;
 
-II.- La enajenación de bienes o prestación de servicios cuando una u otra se exporten o sean de los señalados en el artículo 2o-A de esta Ley.
+VI. Dictamen favorable de protección civil, expedido por la autoridad municipal competente;
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+VII. Autorización sanitaria;
 
-III.- Los bienes que integren el activo o sobre la utilidad o el capital de las empresas.
+VIII. Acreditar que se encuentra al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+IX. Acreditar que la ubicación cumpla con el mínimo de distancia respecto a las instituciones educativas, centros de salud, hospitales, templos, iglesias y centros religiosos legalmente acreditados, con base a los ordenamientos legales aplicables.
 
-IV.- Intereses, los títulos de crédito y los productos o rendimientos derivados de su propiedad o enajenación.
+La certificación municipal tendrá una vigencia anual. El interesado deberá solicitar la revalidación en el mes de enero del año en curso, previo pago de derechos que corresponda.
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+Plazo para resolver
 
-V.- El uso o goce temporal de casa habitación.
+###### ARTÍCULO 37.
 
-Tampoco mantendrán impuestos locales o municipales de carácter adicional sobre las participaciones en gravámenes federales que les correspondan.
+Recibida la solicitud, la autoridad municipal contará con un plazo de treinta días hábiles, contados a partir de la presentación de la solicitud, para otorgarla o negarla, fundando y motivando el acuerdo que emita al efecto.
 
-El Distrito Federal no establecerá ni mantendrá en vigor los gravámenes a que se refiere este artículo.
+Negativa
 
-###### ARTICULO 42.
+### CAPÍTULO PRIMERO. DE LA INSPECCIÓN Y VIGILANCIA
 
-Se exceptúan de lo dispuesto en el artículo anterior los impuestos que los Estados o el Distrito Federal tengan establecidos o establezcan sobre enajenación de construcciones por las que deba pagarse el impuesto al valor agregado.
+Autoridades competentes
 
-En ningún caso lo dispuesto en el artículo anterior, se entenderá limitativo de la facultad de los Estados y del Distrito Federal para gravar con impuestos locales o municipales la propiedad o posesión del suelo o construcciones, o la trasmisión de propiedad de los mismos o sobre plusvalía o mejoría específica, siempre que no se discrimine en contra de los contribuyentes del impuesto al valor agregado.
+###### ARTÍCULO 53.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+La Secretaría de Finanzas, la Secretaría de Gobierno y la dependencia municipal que determine el ayuntamiento respectivo, son autoridades para inspeccionar, verificar y comprobar el exacto cumplimiento de las disposiciones de esta ley, por lo que están facultadas para realizar los actos y diligencias necesarias, en los términos previstos en la misma.
 
-Tratándose de energía eléctrica las entidades federativas no podrá (sic) decretar impuestos, contribuciones o gravámenes locales o municipales, cualquiera que sea su origen o denominación, sobre:
+Ordenes de Inspección o verificación
 
-I.- Producción, introducción, transmisión, distribución, venta o consumo de energía eléctrica.
+###### ARTÍCULO 54.
 
-II.- Actos de organización de empresas generadoras o importadoras de energía eléctrica.
+Están facultados para expedir las órdenes de inspección o verificación previstas en la presente ley, en el ámbito de sus respectivas competencias y conforme a sus reglamentos interiores:
 
-III.- Capitales invertidos en los fines que expresa la fracción I.
+I. La Secretaría de Finanzas;
 
-IV.- Expedición o emisión por empresas generadoras e importadoras de energía eléctrica, de títulos, acciones u obligaciones y operaciones relativas a los mismos.
+II. La Secretaría de Salud;
 
-V.- Dividendos, intereses o utilidades que representan o perciban las empresas que señala la fracción anterior.
+III. La Secretaría de Gobierno, y
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1979)</small>
+IV. Los municipios.
 
-Se exceptúa de lo dispuesto en las fracciones anteriores, el impuesto a la propiedad privada que grava la tierra, pero no las mejoras y la urbana que pertenezca a las plantas productoras e importadoras.
+Habilitación de horas
+
+###### ARTÍCULO 55.
+
+Para la realización de las visitas domiciliarias que tengan por objeto inspeccionar, vigilar, verificar y comprobar el cumplimiento de las disposiciones de esta ley, además de los días hábiles, las autoridades competentes podrán habilitar las veinticuatro horas de todos los días del año.
+
+Visita domiciliaria
+
+###### ARTÍCULO 56.
+
+La orden de visita domiciliaria que para los efectos del artículo anterior se expida, deberá cumplir con los siguientes requisitos:
+
+I. Constar por escrito;
+
+II. Ostentar la firma autógrafa del servidor público competente;
+
+III. Señalar la autoridad que lo emite;
+
+IV. Señalar lugar y fecha de emisión;
+
+V. Estar fundado, motivado (sic) y señalar el objeto que persiga;
+
+VI. El lugar o lugares donde debe efectuarse la inspección;
+
+VII. El nombre de la persona o personas que deban efectuar la inspección. Las personas designadas para efectuar la visita la podrán hacer conjunta o separadamente, y
+
+VIII. Nombre del propietario del lugar y/o establecimiento sujeto de inspección.
+
+Acceso
+
+###### ARTÍCULO 57.
+
+Los propietarios, responsables, encargados o quien se encuentre al frente de los lugares señalados en la orden de verificación, están obligados a permitir el acceso y dar facilidades e informes a los visitadores en el desarrollo de su labor.
+
+Desarrollo de las inspecciones
+
+###### ARTÍCULO 58.
+
+Las inspecciones a que se refiere este capítulo, se realizarán conforme a lo siguiente:
+
+I. Al presentarse los visitadores al lugar en donde deba practicarse la diligencia, entregarán la orden de inspección al propietario, a su representante legal, al encargado o a quien se encuentre al frente del establecimiento y/o lugar visitado, indistintamente, y con dicha persona se entenderá la inspección;
+
+II. Los visitadores se deberán identificar ante la persona con quien se entienda la diligencia, requiriéndola para que designe dos testigos; si éstos no son designados o los designados no aceptan servir como tales, los visitadores los designarán, haciendo constar esta situación en el acta que levanten, sin que esta circunstancia invalide los resultados de la inspección;
+
+III. En toda inspección, se levantará acta por duplicado, en la que se harán constar en forma circunstanciada los hechos u omisiones conocidos por los inspectores, en los términos de esta ley o, en su caso, las irregularidades detectadas durante la inspección.
+
+En dicha acta deberá, además hacerse constar:
+
+a) La hora, día, mes y año en que inicie y concluya la diligencia, número y fecha de expedición de la orden de inspección que la motive;
+
+b) Nombre y cargo de la persona con la que se entendió la diligencia, así como una descripción del documento mediante el cual se identificó;
+
+c) Los datos generales de las personas que fungieron como testigos;
+
+d) Las manifestaciones vertidas por el visitado, si quisiera hacerlas;
+
+e) Descripción de los documentos que se pongan a la vista del inspector durante el desarrollo de la diligencia, y
+
+f) Las circunstancias que el visitador observó durante el recorrido físico del establecimiento o lugar visitado.
+
+IV. El acta deberá ser firmada por la persona con quien se entendió la diligencia y por los testigos que en ella intervinieron. Quien no sepa firmar estampará su huella digital.
+
+Si al cierre del acta de inspección, la persona con quien se entendió la diligencia o los testigos se niegan a firmarla o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dichas circunstancias se asentarán en la propia acta, sin que esto afecte la validez y valor probatorio de la misma; dándose por concluida la inspección, y
+
+V. En la misma acta, se hará del conocimiento del interesado que cuenta un plazo de 5 días hábiles siguientes a la fecha en que se hubiere llevado a cabo la inspección, para presentar las pruebas y alegatos tendientes a desvirtuar lo ahí asentado;
+
+Tratándose de inspecciones realizadas por autoridades municipales, se podrá aplicar el reglamento municipal que corresponda, en lo que no contravenga a la presente ley.
+
+Resolución
+
+###### ARTÍCULO 59.
+
+Transcurrido el plazo a que se refiere la fracción V del artículo anterior, la autoridad competente dictará la resolución que proceda.
+
+Fuerza Pública
+
+###### ARTÍCULO 60.
+
+Cuando lo considere necesario, la autoridad podrá solicitar el auxilio de la fuerza pública para efectuar las visitas de inspección y vigilancia.
+
+Clausura
+
+###### ARTÍCULO 61.
+
+El visitador que lleve a cabo la diligencia, podrá proceder a la clausura inmediata del establecimiento o lugar inspeccionado, sin que resulte obligatorio dar cumplimiento a lo dispuesto en el artículo anterior cuando durante la inspección o verificación se detecte que:
+
+I. El establecimiento o lugar inspeccionado no cuente con la licencia o permiso especial correspondiente vigente para almacenar o vender bebidas alcohólicas. En este caso deberá dar vista inmediatamente al Ministerio Público denunciando los hechos para efecto de que inicie la correspondiente averiguación previa.
+
+II. No cumpla con lo dispuesto en las normas legales aplicables;
+
+III. Se lleva a cabo la venta de bebidas alcohólicas distintas a la clasificación autorizada o en forma diversa a la que permita el giro de la licencia o permiso correspondiente, y
+
+IV. Se lleva a cabo la venta o suministro de bebidas alcohólicas en cualquier forma y presentación a menores de edad.
+
+La clausura inmediata del establecimiento, se llevará a cabo mediante la colocación de sellos que impidan el acceso al interior del establecimiento o lugar correspondiente, asentando en el acta dicha circunstancia y el sustento legal aplicable.
+
+En la misma acta, se hará del conocimiento del interesado que cuenta con un plazo de 10 días hábiles siguientes a la fecha en que se hubiere llevado a cabo la inspección, para presentar las pruebas y alegatos tendientes a desvirtuar lo ahí asentado.
+
+Clausura inmediata
+
+###### ARTÍCULO 62.
+
+Las autoridades a que se refiere el artículo 54 de la presente ley, podrán emitir orden de clausura inmediata, cuando el informe y dictamen aportados por la Secretaría de Salud, concluya que el establecimiento inspeccionado o verificado no cuenta con las medidas de salubridad e higiene que exigen las leyes de la materia, o bien, cuando el dictamen remitido por la autoridad de protección civil, establezca que aquél no satisface las normas aplicables en la materia.
+
+Informe
+
+###### ARTÍCULO 63.
+
+De todo procedimiento administrativo realizado con motivo de la aplicación de la presente ley, la autoridad que lo lleve a cabo, deberá informar a las secretarías de Gobierno y de Finanzas, cinco días hábiles después de que haya quedado firme la resolución emitida.
+
+###### ARTÍCULO 38.
+
+La autoridad municipal podrá negar la certificación municipal por alguna de las siguientes causas:
+
+I. El uso del suelo para las actividades que se pretenden efectuar, se encuentre prohibido en los planes de desarrollo urbano;
+
+II. Con base en los estudios de impacto social se desprenda que el otorgamiento de la certificación pudiera alterar el orden y la seguridad pública;
+
+III. El ayuntamiento determine no incrementar el número de establecimientos en donde se expendan o consuman bebidas alcohólicas en un municipio o en un sector del mismo, o
+
+IV. Exista impedimento legal para la realización de las actividades reguladas por la presente ley.
+
+Los ayuntamientos están facultados para elaborar y expedir los reglamentos que regulen el funcionamiento de los centros de producción, almacenamiento, distribución, expendio, venta y consumo de bebidas alcohólicas que se ubiquen en su demarcación territorial, en los términos de esta ley y demás disposiciones aplicables en la materia.
+
+Asimismo, cuando el orden público se vea afectado por los centros ya mencionados, el Ayuntamiento podrá solicitar al Ejecutivo del Estado a través de la Secretaría de Finanzas, la reubicación de dichos centros o la cancelación de la licencia otorgada.
+
+###### ARTÍCULO 39.
+
+La Secretaría de Finanzas podrá autorizar o negar los cambios de titular, domicilio o de giro del establecimiento, cuando se reúnan los requisitos que señala la presente ley.
+
+Requisitos
+
+###### ARTÍCULO 40.
+
+Para la procedencia del cambio de titular de las licencias el solicitante deberá reunir los siguientes requisitos:
+
+I. Entregar solicitud oficial dirigida a la Secretaría de Finanzas que contenga los siguientes datos:
+
+a) Nombre del solicitante y domicilio;
+
+b) Domicilio del establecimiento, y
+
+c) Giro de establecimiento.
+
+II. Copia certificada de la credencial de elector de quien pretenda ser el nuevo titular si es persona física o del acta constitutiva si se trata de una persona moral;
+
+III. Entregar la licencia original o, en su caso, presentar la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial, del extravío de la licencia;
+
+IV. No encontrarse impedido por ley o resolución emitida por autoridad competente;
+
+V. Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales, y
+
+VI. Los demás que establezca la presente ley, su reglamento y otras disposiciones aplicables.
+
+Solicitud
+
+### CAPÍTULO SEGUNDO. DE LAS OBLIGACIONES, PROHIBICIONES Y SANCIONES
+
+Obligaciones
+
+###### ARTÍCULO 64.
+
+Son obligaciones de los propietarios u operadores de los establecimientos en los que se expendan o consuman bebidas alcohólicas, y de los representantes, administradores o encargados de los mismos, las siguientes:
+
+I. Contar con la licencia, refrendo o permiso especial vigente;
+
+II. Operar únicamente el giro autorizado;
+
+III. Exhibir en lugar visible al interior del establecimiento, la licencia y, en su caso, el refrendo anual y fijar en el exterior del local en un lugar claramente visible el número de licencia;
+
+IV. Contar con instalaciones higiénicas, adecuadas y seguras según el giro, de conformidad con las disposiciones legales aplicables;
+
+V. Enajenar únicamente bebidas alcohólicas que cuenten con la debida autorización oficial, para su venta y consumo;
+
+VI. Cumplir con el horario a que se refiere el presente ordenamiento;
+
+VII. Permitir visitas de verificación o inspección, cuando se presente orden emitida por autoridad competente;
+
+VIII. Cumplir las suspensiones de actividades que en fechas y horas determinadas fije la autoridad;
+
+IX. Informar de inmediato a la autoridad competente sobre las alteraciones al orden o la comisión de ilícitos o faltas administrativas, así como la presencia de personas con armas blancas o de fuego en sus establecimientos;
+
+X. Evitar que los clientes violen el horario de consumo autorizado;
+
+XI. Retirar de las mesas las bebidas alcohólicas que continúen servidas al término de los horarios establecidos en esta ley;
+
+XII. Notificar por escrito a la Secretaría de Finanzas, la intención de cancelar la licencia o permiso especial del cual se es titular;
+
+XIII. Respetar y mantener los signos y símbolos de clausura impuestos por la autoridad hasta en tanto se dicte disposición en contrario;
+
+XIV. Refrendar cada año el empadronamiento de su licencia ante la Secretaría de Finanzas;
+
+XV. Revalidar anualmente la certificación municipal expedida por la autoridad competente;
+
+XVI. Solicitar la acreditación de la mayoría de edad a aquellas personas que pretendan ingerir o adquirir bebidas alcohólicas;
+
+XVII. Exhibir en lugar visible al público consumidor el cartel oficial emitido por la Secretaría de Salud que contenga la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”;
+
+XVIII. No condicionar la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas;
+
+XIX. Informar a los administradores, empleados, encargados y representantes del establecimiento del contenido de la presente ley, su reglamento y demás disposiciones aplicables y de las sanciones en caso de incumplimiento;
+
+XX. Vender, expender o entregar para consumo, bebidas alcohólicas libres de adulteración, contaminación o alteración, y con el contenido de alcohol etílico permitido, en los términos de las disposiciones aplicables;
+
+XXI. Hacer saber, al inicio del evento, a todas las personas que se encuentren dentro de estos establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4° de esta ley, las salidas de emergencia y rutas de evacuación del lugar, así como las medidas de seguridad que deben tomar en caso de algún incidente, accidente, percance o ataque al local.
+
+XXII. Imponer el uso de uniforme al personal que tenga laborando, estableciendo dos tipos de uniformes: uno para el personal de seguridad y otro para el resto de los empleados, en los establecimientos a que se refieren las fracciones II, IV, VI, VII, IX, XII, XVII, XVIII, XXVIII y XXIX, del artículo 4° de esta ley, y
+
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2016)</small>
+
+XXIII. Exhibir en lugar visible al público consumidor un cartel oficial emitido por la Secretaría de Salud que contenga la leyenda "El consumo de bebidas alcohólicas durante el embarazo puede causar problemas de salud físicos y mentales en el feto".
+
+Los dependientes y empleados de los establecimientos que suministren bebidas alcohólicas estarán obligados a observar el comportamiento de los consumidores y a negar el suministro a quienes se encuentren en evidente estado de ebriedad.
+
+Prohibiciones
+
+###### ARTÍCULO 65.
+
+Son prohibiciones para propietarios u operadores de los establecimientos que cuenten con licencia para la venta de bebidas alcohólicas o permisos especiales o sus representantes, administradores o encargados de los establecimientos a los que se refiere el presente ordenamiento, los siguientes:
+
+I. Vender, servir, obsequiar o permitir el consumo de bebidas alcohólicas, a:
+
+a) Menores de edad o incapaces;
+
+b) Personas en evidente estado de ebriedad o bajo el efecto evidente de psicotrópicos;
+
+c) Militares, oficiales y agentes de tránsito, oficiales y agentes de policía, y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a las personas que realicen las inspecciones en servicio en ese establecimiento, y
+
+d) Personas que porten cualquier tipo de armas.
+
+II. Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Por lo que hace al establecimiento previsto en la fracción XVII del mismo artículo, únicamente se admitirá la entrada de menores acompañados de sus padres o tutores;
+
+III. Alterar, contaminar o adulterar las bebidas alcohólicas, para su venta, expendio o consumo;
+
+IV. Expender en el interior de los establecimientos bajo la modalidad conocida como ¨barra libre¨ o cualquier otra que implique la posibilidad del consumo libre sin que exista el cobro por cada bebida consumida;
+
+V. Ofrecer, vender o comercializar bebidas alcohólicas, en cualquiera de sus presentaciones, para su venta a través del sistema de servicio para llevar a transeúntes o automovilistas;
+
+VI. Expender bebidas alcohólicas en envase abierto para llevar, o permitir a sus clientes salir del establecimiento con bebidas alcohólicas en envase abierto;
+
+VII. Ofrecer, vender o comercializar bebidas alcohólicas en la vía y lugares públicos, así como en los comercios ambulantes, fijos, semifijos, pulgas, tianguis, mercados, mercados rodantes y similares, cuando no cuenten con la licencia o el permiso especial correspondiente;
+
+VIII. Permitir el consumo de bebidas alcohólicas en el interior del establecimiento, su estacionamiento y toda área destinada a la operación del mismo para los giros señalados en las fracciones XI, XIII, XV, XXI y XXXV del artículo 4° de esta ley, debiendo tener en lugar visible dentro del local, avisos que hagan saber al público esta prohibición;
+
+IX. Vender o suministrar bebidas alcohólicas a establecimientos que carezcan de la licencia o permiso especial o que se encuentren sancionados con clausura temporal o definitiva mientras dure la clausura, tratándose de los fabricantes, distribuidores mayoritarios, almacenes y agencias a quienes la autoridad les haya notificado tal medida;
+
+X. Vender o permitir el consumo de bebidas alcohólicas fuera del área autorizada por la licencia o permiso especial;
+
+XI. Permitir la promoción y venta de productos alcohólicos por su personal fuera del establecimiento;
+
+XII. Anunciarse al público por cualquier medio, con un giro de los previstos en esta ley distinto al autorizado en su licencia;
+
+XIII. Expender o vender bebidas alcohólicas en instituciones educativas, centros de reinserción social, instalaciones de gobierno, instituciones de beneficencia, hospitales, sanatorios y similares;
+
+XIV. Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a los inspectores o cualquier otro servidor público del estado y los municipios, y
+
+XV. Permitir que los clientes tengan cualquier tipo de interacción que implique contacto físico impúdico con las meseras o meseros, artistas que se presenten, bailarinas o bailarines o cualquier empleada o empleado del lugar; y
+
+XVI. Las demás que establezca esta ley, su reglamento y otras disposiciones legales aplicables.
+
+En los establecimientos o lugares que se vendan o consuman bebidas alcohólicas queda estrictamente prohibida la presentación de espectáculos con personas desnudas o semidesnudas o en los que la vestimenta de los participantes permita al espectador ver en todo o en parte los órganos reproductores externos o la región genital y además, en el caso de las mujeres los senos.
+
+En los establecimientos conocidos como casinos, centros o casas de apuestas o de juegos de azar, cualquiera que sea su denominación, queda estrictamente prohibida la venta y consumo, aún a título gratuito, de bebidas alcohólicas.
+
+Observancia de la ley
+
+###### ARTÍCULO 66.
+
+Las personas que adquieran bebidas alcohólicas estarán sujetas a las disposiciones de esta ley, su reglamento y a los demás ordenamientos aplicables.
+
+Establecimientos y horarios autorizados
+
+###### ARTÍCULO 67.
+
+Las personas que adquieran bebidas alcohólicas tienen la obligación de realizarlo en los establecimientos y horarios autorizados.
+
+Conducción de vehículo
+
+###### ARTÍCULO 68.
+
+Se prohíbe el consumo de bebidas alcohólicas a bordo de vehículos, el conductor deberá abstenerse de consumirlas y será responsable de que sus acompañantes o pasajeros tampoco lo hagan.
+
+La transportación de bebidas alcohólicas en vehículos, siempre deberá hacerse en envase cerrado.
+
+Obligaciones de padres, tutores o quienes ejercen patria potestad
+
+###### ARTÍCULO 69.
+
+Los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia de un menor de edad no emancipado o de un incapaz están obligados a:
+
+I. Orientar y educar a los menores o incapaces a su cargo sobre el consumo de las bebidas alcohólicas y los efectos que produce su abuso;
+
+II. Vigilar las conductas de los menores o incapaces a su cargo, con el fin de prevenir, o en su caso, detectar el consumo de bebidas alcohólicas;
+
+III. Tomar las medidas necesarias para que los menores o incapaces a su cargo que consuman bebidas alcohólicas, particularmente en aquellos casos en que se abuse de las mismas, se sometan al tratamiento correspondiente;
+
+IV. Colaborar con las autoridades e instituciones educativas cuando se detecte en el menor o incapaz a su cargo el consumo de bebidas alcohólicas, y
+
+V. Participar, conjuntamente con los menores o incapaces a su cargo, en los tratamientos o medidas disciplinarias que se les impongan a éstos, por consumir bebidas alcohólicas.
+
+Sanciones
+
+###### ARTÍCULO 70.
+
+Las sanciones aplicables por infracción a lo dispuesto en esta ley serán las siguientes:
+
+I. Multa hasta con cien días de salario mínimo vigente en la capital del estado, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+
+a) Omitan exhibir en un lugar visible al interior del establecimiento, la licencia y, en su caso, el refrendo anual;
+
+b) Permitan que los clientes violen el horario de consumo;
+
+c) Omitan exhibir en lugar visible al público, el cartel oficial emitido por la Secretaría de Salud que contenga la leyenda “El consumo abusivo de alcohol puede producir adicciones y graves problemas de salud”;
+
+d) Condicione la prestación de sus servicios a la venta, expendio o consumo de bebidas alcohólicas.
+
+II. Multa hasta con doscientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley que reincidan en las conductas descritas en la fracción anterior;
+
+III. Multa hasta con cuatrocientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+
+a) Abstenerse de informar a la autoridad competente sobre las alteraciones al orden o la comisión de ilícitos o faltas administrativas, así como la presencia de personas con armas blancas o de fuego;
+
+b) Anunciarse u operar bajo algún giro distinto a la licencia autorizada;
+
+c) Permitir la promoción y venta de productos alcohólicos por su personal fuera del establecimiento;
+
+d) Ofrecer, vender o comercializar bebidas alcohólicas en la vía y lugares públicos, así como en los comercios ambulantes, fijos, semifijos, pulgas, tianguis, mercados, mercados rodantes y similares, cuando no cuenten con la licencia o permiso especial correspondiente;
+
+e) Vender o permitir el consumo de bebidas alcohólicas fuera del área autorizada por la licencia o permiso especial;
+
+f) Ofrecer, vender o comercializar bebidas alcohólicas en cualquiera de sus presentaciones, para su venta a través del sistema de servicio para llevar a transeúntes o automovilistas;
+
+g) Vender bajo la modalidad conocida como ¨barra libre¨ o cualquier otra que permita el consumo libre sin cobro por cada bebida consumida;
+
+h) Expender bebidas alcohólicas en envase abierto para llevar, o permitir a sus clientes salir del establecimiento con bebidas alcohólicas en envase abierto;
+
+i) Permitir el consumo de bebidas alcohólicas en el interior del establecimiento, su estacionamiento y toda área destinada a la operación del mismo para los giros señalados en las fracciones XI, XIII, XV, XXI y XXXV del artículo 4° de esta ley.
+
+IV. Multa hasta con quinientos cincuenta días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que reincidan en las conductas descritas en la fracción anterior;
+
+V. Multa hasta con setecientos días de salario mínimo vigente en la capital del estado, a los propietarios u operadores de los establecimientos a que se refiere esta ley, que cometan por primera vez las siguientes infracciones:
+
+a) Permitir la entrada a menores de edad, a los establecimientos descritos en las fracciones II, IV, IX, XI, XII y XVII del artículo 4°. Tratándose de los establecimientos previstos en la fracción XVII del mismo artículo, permitirles la entrada sin la compañía de sus padres o tutores;
+
+b) Vender, servir, obsequiar o permitir el consumo de bebidas alcohólicas a menores de edad o incapaces;
+
+c) Vender, servir, obsequiar o permitir el consumo de bebidas alcohólicas a las personas que porten cualquier tipo de armas;
+
+d) Vender bebidas alcohólicas fuera de los horarios establecidos y durante las fechas y horas de suspensión de actividades que fije la autoridad;
+
+e) Permitir el consumo en el interior de los establecimientos cuando se cuenta con licencias para venta en envase cerrado;
+
+f) Vender, servir, obsequiar o permitir el consumo de bebidas alcohólicas a militares, oficiales y agentes de tránsito, oficiales y agentes de policía, y demás encargados de la seguridad pública cuando estén en servicio o porten uniforme, así como a las personas que realicen las inspecciones en servicio en dicho establecimiento;
+
+g) Expender o vender bebidas alcohólicas en instituciones educativas, centros de reinserción social, instalaciones de gobierno, instituciones de beneficencia, hospitales, sanatorios y similares;
+
+h) Ofrecer por sí o por interpósita persona, dinero, objetos o servicios a las personas que realicen la inspección o verificación.
+
+En el caso de los supuestos a que se refiere esta fracción podrá la autoridad imponer además como sanción la clausura temporal hasta por 30 días.
+
+VI. Multa hasta con mil quinientos días de salario mínimo vigente en la capital del estado a los propietarios u operadores de los establecimientos a que se refiere esta ley, que sean sorprendidos en:
+
+a) Reincidir en las conductas descritas en la fracción anterior;
+
+b) Vender bebidas alcohólicas sin la licencia, refrendo o permiso especial correspondiente;
+
+c) Vender o suministrar bebidas alcohólicas a establecimientos que carezcan de licencia o permiso especial, o se encuentren sancionados con clausura temporal o definitiva, mientras dure la clausura, tratándose de los fabricantes, distribuidores mayoritarios, almacenes y agencias a quienes la autoridad les haya notificado tal medida.
+
+En el caso de los supuestos a que se refiere esta fracción podrá la autoridad imponer además como sanción la clausura temporal hasta por 60 días.
+
+VII. Arresto administrativo, hasta por treinta y seis horas, a los propietarios, encargados y/o empleados de los establecimientos a que se refiere esta ley, que obstruyan de cualquier forma las labores de la autoridad;
+
+VIII. Clausura temporal hasta por 30 días naturales:
+
+a) A los establecimientos que no cumplan con las normas de protección civil, desarrollo urbano y salud;
+
+b) Cuando se sorprenda por primera vez vendiendo bebidas alcohólicas que no cuenten con la debida autorización oficial para su venta y consumo;
+
+IX. Clausura definitiva y revocación de la licencia para el caso de reincidencia en cualquiera de los supuestos señalados en la fracción anterior, o cuando se sorprenda en la venta de bebidas alcohólicas sin la correspondiente licencia, refrendo o permiso especial vigente.
+
+Se entiende por clausura, como medida cautelar, el acto administrativo, realizado por la autoridad competente, a través del cual se suspenden las actividades dentro de un establecimiento en el que se almacenen, vendan o consuman bebidas alcohólicas, al actualizarse cualquiera de los supuestos establecidos en esta ley o como consecuencia de la imposición de alguna de las sanciones previstas en la misma.
+
+Para el caso de que se ordene la clausura mediante resolución, como consecuencia de la suspensión de los derechos o revocación de la licencia o permiso correspondiente, el personal que designe la autoridad emisora de dicho acto administrativo procederá en los términos de la presente ley y la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza; procediendo además a colocar sellos de papel engomado, mismos que se pegarán en todos los accesos al establecimiento en forma tal que impidan totalmente la entrada al mismo.
+
+X. Revocación de licencia y multa de hasta mil quinientos días de salario mínimo vigente en la capital del estado cuando:
+
+a) Con motivo de la inspección o verificación realizada por la autoridad competente, se detecte que el infractor haya reincidido en una o más infracciones u obligaciones señaladas en esta ley;
+
+b) Su titular ceda o arriende la licencia o permiso o los derechos derivados de los mismos o cambie el domicilio del establecimiento, sin la autorización de la Secretaría de Finanzas;
+
+c) Su titular constituya o permita que se constituya un gravamen sobre la licencia o permiso;
+
+d) Los establecimientos regulados por esta ley, no cumplan con los requisitos de seguridad y salubridad que deben reunir, de conformidad con la ley de la materia y demás disposiciones legales aplicables;
+
+e) Se vendan o suministren bebidas alcohólicas fuera de las presentaciones y especificaciones que establece la legislación sanitaria vigente o en contra de la forma que permita el giro correspondiente;
+
+f) Los propietarios u operadores de los establecimientos que sean sorprendidos vendiendo bebidas alcohólicas adulteradas, contaminadas o alteradas;
+
+g) Se opere con licencia o permiso suspendidos;
+
+h) Se violen las prohibiciones establecidas en la fracción XVI del artículo 65 de esta ley y en el penúltimo párrafo del mismo precepto, o
+
+i) Se dé alguno de los supuestos que se prevén en los artículos 100 y 101 de la Ley de Hacienda para el Estado de Coahuila de Zaragoza.
+
+XI. Multa hasta con cien días de salario mínimo vigente en la capital del estado o arresto a quien:
+
+a) Ingiera bebidas alcohólicas en vehículos durante su trayecto;
+
+b) Adquiera bebidas alcohólicas en establecimientos o en horarios no autorizados.
+
+XII. Cuando se detecte un establecimiento que viole lo dispuesto es (sic) en el último párrafo del artículo 65 de esta ley, se procederá de inmediato a su clausura definitiva y se dará vista al Ministerio Público para los efectos conducentes.
+
+Las sanciones a que se refiere este artículo podrán imponerse conjunta o separadamente sin que en ningún caso exceda la multa del monto equivalente a dos mil quinientos días de salario mínimo.
+
+Las sanciones anteriores serán independientes de las que procedan de conformidad a lo establecido en el Código Penal para el Estado de Coahuila de Zaragoza, la Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza y las demás disposiciones aplicables.
+
+Al aplicarse las sanciones se tomarán en cuenta la capacidad económica del infractor, la gravedad de la infracción, las circunstancias particulares del caso y la reincidencia.
+
+Reincidencia
+
+###### ARTÍCULO 71.
+
+Se entiende por reincidencia, la segunda o posteriores veces que se sancione al infractor por la comisión de una misma conducta establecida en esta ley en un período de 545 días naturales.
+
+La reincidencia en la comisión de las infracciones previstas en esta ley será evaluada por la Secretaría de Finanzas, pudiendo ésta negar el refrendo correspondiente de la licencia o permiso, mediante resolución debidamente fundada y motivada.
+
+Levantamiento de Clausura
+
+###### ARTÍCULO 72.
+
+El levantamiento de clausura será ordenado por la autoridad que la decretó, una vez que se haya efectuado el pago de las multas respectivas y corregido las situaciones que originaron la clausura correspondiente.
+
+Requisitos del acta de levantamiento
+
+###### ARTÍCULO 73.
+
+La autoridad que haya ordenado la clausura, designará al personal que habrá de llevar a cabo el rompimiento de los sellos que se hayan colocado, debiendo levantarse al efecto acta circunstanciada por triplicado ante dos testigos designados por el titular de la licencia o, en su defecto, por la autoridad encargada de efectuar la diligencia, entregándose un ejemplar al titular de la licencia, remitiéndose uno o más a la Secretaría de Finanzas y el original quedará en poder de la autoridad que ordene el acto. En dicha acta se hará constar la corrección de las circunstancias que originaron la clausura y se asentarán las nuevas condiciones del establecimiento.
+
+Multa
+
+ARTÍCULO 74 Cuando la sanción consista en multa, ésta será considerada como crédito fiscal, de conformidad con lo dispuesto por el Código Fiscal para el Estado de Coahuila de Zaragoza.
+
+Trabajo a favor de la comunidad
+
+###### ARTÍCULO 75.
+
+Cuando la sanción consista en arresto, a fin de que éste no le sea aplicado, el infractor podrá solicitar cubrir un servicio a la comunidad de una hora por cada hora de arresto, debiendo acreditarlo ante la autoridad competente, la cual determinará si lo concede o no, tomando en cuenta las circunstancias particulares del caso. Las primeras ocho horas de arresto no serán conmutables.
+
+Cuando el infractor no cumpla con el tiempo de servicio comunitario impuesto por la autoridad competente, deberá cumplir con dos horas de arresto por cada hora de servicio no prestado, en los términos del ordenamiento correspondiente.
+
+Menores de edad
+
+###### ARTÍCULO 76.
+
+Cuando la infracción haya sido cometida por un menor de edad la autoridad competente deberá hacer del conocimiento de los padres, tutores, quienes ejerzan la patria potestad o tengan la custodia, la advertencia que consista en señalar las infracciones cometidas y las sanciones correspondientes, de acuerdo con lo que establece esta ley.
+
+Prescripción
+
+###### ARTÍCULO 77.
+
+La prescripción para la aplicación de las sanciones será de cinco años y los términos para la misma serán continuos y se contarán desde el día en que la autoridad tuvo conocimiento de que se cometió la falta o infracción administrativa si fuere consumada, o desde que cesó, si fuere continua.
+
+Conocimiento al Ministerio Público
+
+###### ARTÍCULO 78.
+
+Cuando con motivo de la aplicación de la presente ley, de las inspecciones y verificaciones que se realicen de acuerdo con la misma, se conozca por cualquier persona o autoridad la posible comisión de algún delito, lo hará del inmediato conocimiento del Ministerio Público.
+
+## TÍTULO QUINTO. DEL RECURSO Y LA DENUNCIA POPULAR
+
+### CAPÍTULO PRIMERO. DEL RECURSO
+
+Recurso
+
+###### ARTÍCULO 79.
+
+Contra cualquier acto de la Secretaría de Finanzas o de las autoridades municipales que viole la presente ley, procederá el recurso previsto en la Ley de Procedimiento Administrativo para el Estado de Coahuila de Zaragoza.
+
+El recurso de revocación previsto en el Código Fiscal para el Estado de Coahuila de Zaragoza procederá exclusivamente en los asuntos de naturaleza fiscal.
+
+### CAPÍTULO SEGUNDO. DE LA DENUNCIA POPULAR
+
+Trámite de la Denuncia
+
+###### ARTÍCULO 80.
+
+Toda persona podrá denunciar de forma verbal o escrita, ante las autoridades competentes, los hechos, actos u omisiones que contravengan las disposiciones contenidas en esta ley. Estas denuncias deberán tramitarse sin mayores requisitos que los indispensables para conocer la ubicación del establecimiento y la conducta que se considera violatoria de la presente ley.
+
+Las autoridades correspondientes establecerán mecanismos para evitar los requisitos excesivos en la admisión y seguimiento de las denuncias; respetando en su caso la solicitud del denunciante secreto respecto de su identidad, por razones de seguridad e interés particular.
+
+T R A N S I T O R I O S
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+SEGUNDO. Los municipios deberán remitir a la Secretaría de Finanzas, la información relativa al padrón de licencias o permisos para la venta de bebidas alcohólicas dentro de los siguientes treinta días naturales contados a partir de la entrada en vigor del presente decreto, que incluya cuando menos el nombre del titular, giro o giros autorizados, domicilio del establecimiento y adeudos en su caso, indicando el monto por cada año.
+
+TERCERO. En aquellos casos en que la Secretaría de Finanzas advierta que la información de integración derivada de los padrones municipales, no corresponda con las personas que se encuentren explotando en virtud de un título legal la licencia correspondiente, procederá la regularización y actualización en el padrón único al que se refiere el presente decreto, solamente en lo que se refiere al cambio de titular, en el periodo señalado en el siguiente artículo transitorio.
+
+CUARTO. Las personas que sean titulares de licencias o permisos especiales deberán acreditar estar al corriente en el pago de los derechos que establece esta ley.
+
+De acreditar el pago de los derechos por licencia, refrendo o permiso especial a que se refiere el párrafo anterior, se expedirá la licencia o permiso especial correspondiente al titular de la misma. En caso que existan adeudos en el pago de derechos, la expedición de la licencia, refrendo o permiso especial sólo será procedente, cuando se haya cubierto la totalidad del crédito correspondiente.
+
+QUINTO. Las solicitudes de licencia o permiso especial que se encuentren en trámite a la entrada en vigor del presente decreto, se resolverán conforme a las disposiciones del mismo.
+
+SEXTO. El Poder Ejecutivo del Estado expedirá el Reglamento de la Ley para la Regulación de la Venta y Consumo de Alcohol en el Estado de Coahuila de Zaragoza, dentro de un término no mayor a ciento ochenta días naturales contados a partir de la entrada en vigor del presente decreto.
+
+SÉPTIMO. Los ayuntamientos de los municipios del estado deberán expedir o modificar, en su caso, los reglamentos correspondientes, en los términos del presente decreto dentro de los ciento ochenta días siguientes al de la entrada en vigor del mismo.
+
+OCTAVO. Se derogan todas aquellas disposiciones que se opongan al contenido de la presente ley.
+
+DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila de Zaragoza, a los cuatro días del mes de septiembre del año dos mil doce.
+
+DIPUTADA PRESIDENTA
+
+MARÍA GUADALUPE RODRÍGUEZ HERNÁNDEZ
+
+(RÚBRICA)
+
+DIPUTADO SECRETARIO
+
+JOSÉ FRANCISCO RODRÍGUEZ HERRERA
+
+(RÚBRICA)
+
+DIPUTADO SECRETARIO
+
+SAMUEL ACEVEDO FLORES
+
+(RÚBRICA)
+
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE
+
+Saltillo, Coahuila de Zaragoza, a 14 de septiembre de 2012
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO
+
+RUBÉN IGNACIO MOREIRA VALDEZ
+
+(RÚBRICA)
+
+EL SECRETARIO DE GOBIERNO
+
+HERIBERTO FUENTES CANALES
+
+(RÚBRICA)
+
+EL SECRETARIO DE FINANZAS
+
+JESÚS JUAN OCHOA GALINDO
+
+(RÚBRICA)
+
+LA SECRETARIA DE SALUD
+
+BERTHA CRISTINA CASTELLANOS MUÑOZ
+
+(RÚBRICA)
+
+EL SECRETARIO DE SEGURIDAD PÚBLICA
+
+JORGE LUIS MORÁN DELGADO
+
+(RÚBRICA)
+
+EL PROCURADOR GENERAL DE JUSTICIA DEL ESTADO
+
+HOMERO RAMOS GLORIA
+
+(RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO 41.
+
+La solicitud de cambio de domicilio y de giro del establecimiento, deberá cumplir con los siguientes requisitos:
+
+I. Para cambio de domicilio:
+
+a) Reunir los requisitos señalados en el artículo 23 de esta ley;
+
+b) Hacer la entrega de la licencia original o, en su caso de la denuncia de robo ante las autoridades competentes, o la manifestación bajo protesta de decir verdad, pasada ante la fe notarial, del extravío de la licencia, y
+
+c) Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales.
+
+II. Para cambio de giro:
+
+a) Solicitud dirigida a la Secretaría de Finanzas;
+
+b) Original de la licencia de uso de suelo y edificación;
+
+c) Copia de la licencia y último refrendo;
+
+d) Justificar estar al corriente en el pago de sus obligaciones fiscales estatales y municipales;
+
+e) Dictamen de las autoridades competentes en materia de protección civil, y
+
+f) Certificación del municipio de que se trate.
+
+El solicitante deberá presentar el original y una fotocopia de la solicitud y de los documentos mencionados ante la Secretaría de Finanzas. Realizado el cotejo de los documentos, se devolverán los originales, excepto la licencia anterior.
+
+Trámite
+
+###### ARTÍCULO 42.
+
+La información que se remita a la Secretaría de Finanzas con motivo de las solicitudes a que se refiere este capítulo, deberá ser formulada bajo protesta de decir verdad y los trámites deberán realizarse por el interesado o su representante legal, debidamente acreditado.
+
+No se dará trámite alguno a las solicitudes de cambio de titular, domicilio o giro que no reúnan los requisitos señalados, para lo cual la Secretaría de Finanzas está facultada para devolver al solicitante los documentos que integran el expediente de solicitud, cuando se compruebe que no reúne los requisitos o que no cumple con las demás disposiciones establecidas en este ordenamiento, dando por concluido y quedando sin efecto el trámite a la entrega de los mismos.
+
+Plazo para resolver
+
+###### ARTÍCULO 43.
+
+La Secretaría de Finanzas contará con un plazo de treinta días hábiles para pronunciarse sobre el cambio de titular, domicilio o giro, contados a partir de la presentación de la solicitud, fundando y motivando el acuerdo que emita al efecto.
+
+Robo o destrucción de licencia o permiso
+
+###### ARTÍCULO 44.
+
+Si el titular de una licencia o permiso especial por alguna causa la extravía, se la roban o destruyen, en un plazo no mayor de cinco días hábiles siguientes a la fecha del suceso, deberá formular la denuncia ante la autoridad competente y con la copia de la misma, podrá solicitar a la Secretaría de Finanzas la reposición a su favor, mediante el escrito correspondiente en el cual señalará bajo protesta de decir verdad, el motivo de dicha pérdida.
+
+El solicitante deberá realizar el pago de los derechos correspondientes previo a la reposición de la licencia o permiso especial. Al otorgarse la misma, deberá ser apercibido de que en caso de falsedad o mal uso, procederán los trámites de clausura definitiva del establecimiento y revocación de la licencia o permiso especial.
+
+La solicitud con acuse de recibo por la Secretaría de Finanzas, facultará al interesado a continuar operando durante el período de treinta días naturales, contados a partir de la recepción de la solicitud, con excepción del permiso especial, ya que dicha solicitud con acuse de recibo solo lo facultará a seguir operando hasta el día señalado como término de la vigencia del permiso especial.
+
+La Secretaría de Finanzas deberá emitir resolución respecto a la solicitud de reposición de la licencia, dentro del término señalado en el párrafo anterior.
+
+Cuando se presuma que los hechos revisten carácter delictivo, se procederá a la denuncia ante las autoridades correspondientes.
 
 ## TRANSITORIOS
 
-###### ARTICULO PRIMERO.
+###### ARTÍCULO PRIMERO.
 
-Esta Ley entrará en vigor, en toda la República, el día primero de enero de 1980.
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
 
-###### ARTICULO SEGUNDO.
+###### ARTÍCULO SEGUNDO.
 
-Al entrar en vigor la presente Ley, quedarán abrogadas las leyes y decretos siguientes:
+Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-1.- Ley Federal del Impuesto sobre Ingresos Mercantiles.
-
-2.- Ley del Impuesto sobre Reventa de Aceites y Grasas Lubricantes.
-
-3.- Ley del Impuesto sobre Compraventa de Primera Mano de Alfombras, Tapetes y Tapices.
-
-4.- Ley del Impuesto sobre Despepite de Algodón en Rama.
-
-5.- Ley del Impuesto sobre Automóviles y Camiones Ensamblados.
-
-6.- Decreto por el cual se fija el impuesto que causarán el Benzol, Toluol, Xilol y Naftas de Alquitrán de Hulla, destinados al consumo interior del país.
-
-7.- Ley del Impuesto a la Producción del Cemento.
-
-8.- Ley del Impuesto sobre Cerillos y Fósforos.
-
-9.- Ley del Impuesto sobre Compraventa de Primera Mano de Artículos Electrónicos, Discos, Cintas, Aspiradoras y Pulidoras.
-
-10.- Ley del Impuesto sobre Llantas y Cámaras de Hule.
-
-11.- Ley del Impuesto a las Empresas que explotan Estaciones de Radio o Televisión.
-
-12.- Ley del Impuesto sobre Vehículos Propulsados por Motores Tipo Diesel y por Motores Acondicionados para uso de Gas Licuado de Petróleo.
-
-13.- Ley de Compraventa de Primera Mano de Artículos de Vidrio o Cristal.
-
-14.- Ley Federal del Impuesto sobre Portes y Pasajes.
-
-15.- Decreto relativo al impuesto del 10% sobre las entradas brutas de los Ferrocarriles.
-
-16.- Decreto que establece un Impuesto sobre Uso de Aguas de Propiedad Nacional en la Producción de Fuerza Motriz.
-
-17.- Ley del Impuesto sobre la Explotación Forestal.
-
-18.- Ley de Impuestos y Derechos a la Explotación Pesquera.
+P.O. 9 DE MAYO DE 2017.
 
 ###### ARTICULO TERCERO.
 
@@ -863,3 +1643,39 @@ Tratándose de contribuyentes menores que realicen actos o actividades a los que
 ###### ARTICULO DECIMO PRIMERO.
 
 Los contribuyentes que durante 1981 realicen actividades agropecuarias como ejidatarios, comuneros, colonos o pequeños propietarios en superficies equivalentes a 20 hectáreas de riego teórico en los términos de la Ley Federal de Reforma Agraria, podrán tener derecho a la devolución del Impuesto al Valor Agregado aun cuando no lleven los libros de contabilidad que señale el Reglamento de la Ley de la materia. El trámite de devolución deberá ajustarse a los requisitos que señale la Secretaría de Hacienda y Crédito Público en reglas de carácter general.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE MAYO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 415.- SE MODIFICA LA FRACCIÓN II DEL ARTÍCULO 150 Y LA FRACCIÓN D) Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 156 DE LA LEY ESTATAL DE SALUD; ASÍ MISMO, SE MODIFICA LA FRACCIÓN XXIII DEL ARTÍCULO 64 DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 509 POR EL QUE "SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE ABRIL DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 797.- SE REFORMA EL ARTÍCULO 4 FRACCIÓN XVIII DE (SIC) LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 847.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 21 DE NOVIEMBRE DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 998.- SE MODIFICAN Y SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DEL EQUILIBRIO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY ESTATAL DE SALUD; DE LA LEY DE ASENTAMIENTOS HUMANOS Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY PARA LA REGULACIÓN DE LA VENTA Y CONSUMO DE ALCOHOL EN EL ESTADO DE COAHUILA DE ZARAGOZA; DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS PARA EL ESTADO DE COAHUILA DE ZARAGOZA; Y DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Las dependencias estatales y municipales correspondientes deberán llevar a cabo las adecuaciones necesarias en su reglamentación dentro de los 60 días naturales contados a partir de la entrada en vigor del presente decreto.
