@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "2003-03-04"
+last_updated: "2004-06-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -187,9 +187,9 @@ Cuando ninguno de los comparecientes reúna los requisitos mencionado (sic), deb
 
 Son facultades y obligaciones de los oficiales del Registro Civil, además de las ya establecidas, las siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2004)</small>
 
-I. Tener en existencia los formatos necesarios para el levantamiento de las actas del Registro Civil, así como para la expedición de las copias certificadas, de los extractos de las mismas y documentos del apéndice;
+I. Tener en existencia las formas del registro civil necesarias para el levantamiento de las actas del registro civil, así como para la expedición de las copias certificadas, de los extractos de las mismas y documentos del apéndice;
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -261,9 +261,11 @@ El registro de cualquier acto del estado civil, se regirá en cuanto a sus cobro
 
 Si se perdiese o destruyese alguno de los ejemplares de las actas del registro civil, los oficiales o el titular del Archivo General según sea el caso, darán aviso del hecho a la Dirección General del Registro Civil así como al ministerio público.
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2004)</small>
+
 ###### Artículo 26.
 
-La Dirección General del Registro Civil tendrá la responsabilidad de disponer la reposición de los documentos destruidos o extraviados, sacándose copia de cualesquiera de los ejemplares que existan, quedando como responsables únicos de la reposición, el oficial o el titular del archivo, según las disposiciones establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado, quienes en caso de omisión, se harán acreedores a las sanciones que la misma establece.
+La Dirección General del Registro Civil o las oficialías municipales, según el caso, en la pérdida o destrucción de documentos, tendrán la responsabilidad de disponer su reposición, sacándose copia de cualquiera de los ejemplares que existan, quedando como responsables únicos de la reposición, el oficial o el titular del archivo, según las disposiciones establecidas por la Ley de Responsabilidades de los Servidores Públicos del Estado de Jalisco, quienes en caso de omisión, se harán acreedores a las sanciones que la misma establece.
 
 ###### Artículo 27.
 
@@ -278,6 +280,10 @@ Para establecer el estado civil adquirido por los mexicanos fuera de la Repúbli
 En la formulación de las actas del estado civil se observarán las siguientes reglas:
 
 I. Los testigos que intervengan en las actas del Registro Civil serán mayores de edad, prefiriéndose a los parientes de los interesados o en caso de no serlo, a quienes éstos designen;
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Queda prohibido a los servidores públicos que laboran en el Registro Civil ser testigos en las actas que se elaboren en la oficina de su adscripción, en caso de hacerlo serán sancionados en los términos de la legislación aplicable.
 
 > <small>(REFORMADA, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -299,15 +305,19 @@ VII. Los documentos que presenten se anotarán poniéndoles el número de acta y
 
 VIII. Se testarán de oficio las palabras que conduzcan a establecer que un hijo es incestuoso o que la muerte de personas ocurrió en prisión;
 
-IX. No podrán dejar de anotarse los datos previstos en los formatos de actas; y
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+IX. No podrán dejar de anotarse los datos previstos en las formas del Registro Civil; y
 
 X. No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004)</small>
 
 ###### Artículo 30.
 
-Las actas del estado civil se asentarán en formatos con características especiales, cuyas estructuras y contenido estarán determinadas por las disposiciones legales relativas. La elaboración será por quintuplicado en las actas de nacimiento, matrimonio y defunción; y por cuadruplicado en las demás; se levantarán en forma computarizada o mecanografiada, debiendo contener la Clave Unica del Registro de Población.
+Las actas del estado civil se levantarán en formatos con características especiales denominados formas del registro civil, cuyas estructuras y contenido estarán determinados por las disposiciones legales relativas, la elaboración será por quintuplicado en las actas de nacimiento, matrimonio, divorcio, defunción; y por cuadruplicado en las demás; se levantarán en forma computarizada o mecanografiada debiendo contener la clave única del registro de población.
+
+> <small>(F. DE E., 9 DE OCTUBRE DE 2004)</small>
 
 El hacer constar un acto y el asentamiento del acta en un formato no autorizado por la Dirección General del Registro Civil, producirá su nulidad absoluta, independientemente de las responsabilidades en que incurra el oficial del Registro Civil.
 
@@ -315,9 +325,11 @@ El hacer constar un acto y el asentamiento del acta en un formato no autorizado 
 
 Para asentar los actos a que se refiere el artículo anterior, existirá un formato específico para cada uno. Si por cualquier causa no existiere, se asentará en el de inscripciones generales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004)</small>
+
 ###### Artículo 32.
 
-Los formatos serán expedidos por la Dirección General del Registro Civil; los oficiales remitirán todas las copias que se generen a la misma Dirección, exceptuando el ejemplar del acta que se entrega al interesado y el original que se queda en la oficialía para formar los libros de cada uno de los actos.
+Las formas del registro civil, serán expedidas por la dirección general del registro civil; los oficiales remitirán todas las copias que se generen a la misma dirección, exceptuando el ejemplar del acta que se entrega al interesado y el original que se queda en la Oficialía para formar los libros de cada uno de los actos.
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2003)</small>
 
@@ -347,6 +359,26 @@ Los actos del estado civil relativos a la misma persona deberán anotarse en su 
 
 Cualquier anotación que tenga que hacerse en algún acta del estado civil de las personas, se deberá realizar al margen de la misma, si no fuese posible se hará por el reverso y si ya no existiese espacio para ello, se hará en hoja adherida al acta, la cual deberá entresellarse.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+La Dirección General del Registro Civil del Estado, deberá informar al registro nacional de población e identificación personal, las resoluciones que emitan las autoridades administrativas o judiciales, de las que resulten modificaciones de los datos de registro de la persona, en los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+I. Reconocimiento;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+II. Adopción;
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+III. Nulidad; y
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+IV. Rectificación.
+
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 38.
@@ -370,6 +402,10 @@ La declaración de nacimiento se hará por el padre, por la madre o ambos, o per
 ###### Artículo 41.
 
 Los profesionales de la medicina, paramédicos o parteras que hubieren asistido el alumbramiento, deberán extender dentro de los seis días siguientes y en forma gratuita, constancia única de nacimiento expedida y autorizada por la Secretaría de Salud y Bienestar Social del Estado, anotando el nombre y huella digital de la madre, número de orden que ocupa ese parto; así como huella digital, día, hora y lugar de nacimiento, sexo, peso y demás características de los recién nacidos, que pudieran servir de identificación.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Para llevar a cabo el registro de un nacimiento, el Oficial del Registro Civil exigirá la constancia única de nacimiento, y la cancelará para evitar la duplicidad de registros.
 
 Cuando no se de asistencia profesional durante el parto, para registrar el nacimiento se requiere, información rendida y apoyada por dos testigos vecinos o conocidos de la madre que sepan y les conste la gravidez y fecha de nacimiento, cuya declaración se efectuará ante el Oficial del Registro Civil, Presidente Municipal, Servidor Público responsable del Sistema para el Desarrollo Integral de la Familia en la localidad o del Ministerio Público, quienes tendrán la obligación de cerciorarse de la veracidad de la información ante ellos vertida.
 
@@ -421,6 +457,10 @@ Toda persona que encontrare a un menor o en cuya casa o propiedad fuere expuesto
 
 La misma obligación tienen los responsables de los reclusorios preventivos, instituciones de readaptación social; asociaciones religiosas y de cualesquiera casa de comunidad, especialmente las de hospitales, sanatorios, casas de maternidad u otros establecimientos similares, respecto de los niños nacidos o expuestos en ellas.
 
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+En todos los casos deberá existir constancia de la búsqueda de los progenitores por parte del representante social o los sistemas de desarrollo integral para la familia municipales, ello a fin de agotar la posibilidad de registrar al menor con los apellidos de sus padres.
+
 ###### Artículo 50.
 
 En las actas que se levanten en estos casos, se expresarán todos los datos que se puedan obtener de aquellos que para las de nacimiento se alude en esta ley.
@@ -447,9 +487,11 @@ Cuando se trate de parto múltiple, se levantará una acta por cada uno de los n
 
 ### CAPITULO VI. De los registros extemporáneos de nacimiento
 
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2004)</small>
+
 ###### Artículo 56.
 
-Con las excepciones de ley, será registro extemporáneo de nacimiento, el efectuado después de los ciento ochenta días de ocurrido éste.
+Con las excepciones de ley, será registro extemporáneo de nacimiento, el efectuado después de los ciento ochenta días naturales, contados a partir del día siguiente al de ocurrido el alumbramiento.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -469,9 +511,11 @@ Las actas de registro extemporáneo de nacimiento deberán contener los datos pr
 
 El acta de reconocimiento de hijo contendrá: el nombre, apellidos, sexo, fecha y lugar de nacimiento, la edad, domicilio, huella digital y Clave Unica del Registro de Población del reconocido. Asimismo se asentarán los nombres, apellidos, edades, estado civil, nacionalidad y domicilio, del reconocedor, de los padres del mismo, así como de los testigos, y en su caso, del representante legal.
 
+(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2004) (F. DE E., P.O. 9 DE OCTUBRE DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
+
 ###### Artículo 60.
 
-Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento, se formulará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes requisitos, en sus respectivos casos:
+Si el reconocimiento del hijo se hiciere después de haber sido registrado su nacimiento se formulará acta separada en la que, se cancelará la clave única del registro de población y se asignará una nueva en la correspondiente acta de reconocimiento; debiendo el registro civil notificar lo anterior al registro nacional de población. El acta de reconocimiento además de los requisitos a que se refiere el artículo que precede; se observarán los siguientes requisitos, en sus respectivos casos:
 
 I. Si el hijo es mayor de dieciséis años se expresará en el acta su consentimiento para ser reconocido;
 
@@ -518,6 +562,10 @@ Cuando el reconocimiento se haga en disposición testamentaria, luego que se con
 Dictada la resolución judicial definitiva que autorice la adopción, el o los adoptantes, dentro del término de ocho días, presentarán al oficial del Registro Civil de su domicilio, copia certificada de la sentencia y de la certificación de que ha causado estado, a fin de que se levante el acta correspondiente. El juez, en todo caso, enviará al Registro Civil la copia mencionada para que se levante el acta.
 
 La falta de registro de la adopción no quita a ésta sus efectos legales, pero sujeta al responsable de la misma a una multa equivalente a diez días del salario mínimo general vigente en la zona geográfica de su ubicación, que impondrá el oficial del Registro Civil.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2004)</small>
+
+Artículo 67 bis.- En los casos de adopción plena, se cancelará la clave única de registro de población que hubiere sido asignada, y se asignará una nueva en la correspondiente acta en el presente caso, la dirección general del registro civil deberá notificar dicha circunstancia al registro nacional de población e identificación personal para los efectos correspondientes.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 1996)</small>
 
@@ -644,6 +692,10 @@ VII. Copia certificada de la resolución que decrete la dispensa judicial de imp
 > <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
 
 VIII. Constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, en el cual se acredite que el hombre y la mujer recibieron el curso prematrimonial, previsto en el artículo 267 bis del Código Civil.
+
+> <small>(ADICIONADA, P.O. 24 DE JUNIO DE 2004)</small>
+
+IX. Copia simple de la Cartilla Nacional de Salud de la Mujer.
 
 ###### Artículo 83.
 
@@ -1192,3 +1244,17 @@ P.O. 4 DE MARZO DE 2003.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El Ejecutivo del Estado en un término no mayor a 60 días deberá tomar las medidas administrativas pertinentes, para la correcta ejecución de lo contenido en el segundo párrafo del artículo 6.
+
+P.O. 24 DE JUNIO DE 2004.
+
+DECRETO NO. 20518, QUE REFORMA ARTICULOS 82 DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
+
+P.O. 24 DE JUNIO DE 2004.
+
+DECRETO NO. 20519, QUE REFORMA DIVERSOS ARTICULOS DE LA LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO.
+
+ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
