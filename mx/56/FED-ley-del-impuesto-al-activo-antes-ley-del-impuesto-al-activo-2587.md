@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1996-05-10"
+last_updated: "1996-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,109 +19,27 @@ issue_date: "1988-12-30"
 ---
 # LEY DEL IMPUESTO AL ACTIVO -ANTES LEY DEL IMPUESTO AL ACTIVO DE LAS EMPRESAS-
 
-LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
+LEY DEL IMPUESTO AL ACTIVO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1996.
 
-Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
+Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
-EL C. HUMBERTO MOREIRA VALDÉS, GOBERNADOR CONSTITUCIONAL DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
+LEY que establece, reforma, adiciona y deroga diversas disposiciones fiscales.
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
 
-DECRETA:
+CARLOS SALINAS DE GORTARI, Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
 
-NÚMERO 296.-
+Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
-LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
+DECRETO
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+"EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
 
-###### Artículo 1.
+LEY QUE ESTABLECE, REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES FISCALES.
 
-Esta ley es de orden público e interés general, y de observancia obligatoria en el Estado de Coahuila.
-
-###### Artículo 2.
-
-La presente ley tiene por objeto:
-
-I. Promover la cultura de tolerancia y respeto en la convivencia entre no fumadores y fumadores;
-
-II. Prevenir, concientizar y difundir las consecuencias para la salud de las personas, generadas por el consumo voluntario de productos del tabaco;
-
-III. Proteger la salud de los no fumadores de los efectos por inhalar involuntariamente el humo ambiental generado por la combustión del tabaco, al convivir en espacios cerrados con fumadores, en los sitios señalados en esta ley;
-
-IV. Establecer mecanismos y acciones tendientes a prevenir y disminuir las consecuencias generadas en la salud de la población, derivadas de la inhalación involuntaria del humo ambiental generado por la combustión del tabaco en cualquiera de sus formas;
-
-V. Establecer la coordinación entre las autoridades federales, estatales y municipales tendiente al establecimiento de programas y acciones que procuren reducir los daños a la salud de las personas, derivados del consumo de productos de tabaco, y
-
-VI. Establecer las sanciones para los que incumplan lo previsto en esta ley.
-
-###### Artículo 3.
-
-Para efectos de la presente ley, se entiende por:
-
-I. Área abierta: Los espacios que se encuentran ubicados al aire libre;
-
-II. Área cerrada: El espacio de un establecimiento que se encuentra separado por bardas, techos o cualquier otro material, que lo aísle del exterior;
-
-III. Bar: Establecimiento donde se consumen preponderantemente bebidas alcohólicas, botanas y en menor medida algún alimento;
-
-IV. Cafetería: Establecimiento donde se sirve café y otras bebidas, así como alimentos fríos o que requieren poca preparación;
-
-V. Centro de Entretenimiento: A los parques de diversiones, circos, kermesses, ferias y otros similares;
-
-VI. Centro de Entretenimiento para adultos: A los cabarets, centros de espectáculos y otros similares;
-
-VII. Discoteca: Establecimiento de acceso exclusivo para adultos con horario preferentemente nocturno para escuchar música, bailar y consumir bebidas;
-
-VIII. Dueño: Al propietario, o persona física o moral titular de la licencia de operación o concesión, o quien asuma esa responsabilidad con motivo de la operación o explotación del establecimiento o del vehículo de transporte público o escolar, o la persona física o moral titular de la tarjeta de circulación del vehículo de transporte público o escolar;
-
-IX. Entes Públicos: El Poder Legislativo del Estado y cualquiera de sus dependencias, el Poder Ejecutivo del Estado y todas las dependencias y entes de la administración pública estatal y paraestatal, el Poder Judicial del Estado y todos sus órganos, los ayuntamientos de los municipios, todas las dependencias y entidades de la administración pública municipal, los órganos autónomos previstos en la Constitución local y en las leyes estatales reconocidos como de interés público;
-
-X. Escuelas: Los recintos de enseñanza indígena, especial, inicial, preescolar, primaria, secundaria, media, media superior, superior, para adultos y de formación para el trabajo del sector público y privado;
-
-XI. Establecimientos: Los locales que presten algún servicio, entre los cuales se incluye de manera enunciativa más no limitativa, las oficinas o negocios, asociaciones de beneficencia, instituciones educativas y espacios escolares, bancos, instituciones financieras, cafeterías, restaurantes, negocios de venta de comida, cafeterías, discotecas, bares, cantinas, cervecerías, pulquerías, recepción, lobby, gimnasios, fábricas, baños, pasillos, escaleras interiores, bibliotecas, salas de juntas o conferencias, cuartos o áreas con equipo de fotocopiado, vehículos de la compañía, lugares recreativos de boliche y/o billar, cines, teatros, museos, auditorios, hospitales, tiendas de autoservicio, de convivencia, comerciales o de servicio, hoteles, moteles y posadas;
-
-XII. Fumador pasivo o no fumador: La persona que se encuentra en condiciones de inhalar involuntariamente el humo producto de la combustión de tabaco, como consecuencia de la cercanía con alguna persona que fume;
-
-XIII. Fumador: La persona que consume productos de tabaco mediante la combustión del mismo, bajo la forma de cigarrillo, puros u otros tabacos labrados, o mediante el uso de pipas u otro instrumento similar;
-
-XIV. Fumar: Acción y efecto de consumir tabaco mediante combustión;
-
-XV. Hoteles: Establecimiento mercantil que tenga por objeto brindar el servicio de hospedaje, entendiéndose por estos también a los moteles, casas de huéspedes, hostales, posadas o cualquier otro de naturaleza similar;
-
-XVI. Menor de edad: Toda persona menor de 18 años;
-
-XVII. Reincidencia: La violación a las disposiciones de esta ley, dos o más veces, dentro del período de un año calendario, contado a partir de la aplicación de la sanción inmediata anterior;
-
-XVIII. Restaurante: Las fondas, comedores o cualquier otro establecimiento mercantil similar que tiene por objeto la preparación y expendio de alimentos y bebidas para su consumo en el lugar;
-
-XIX. Sanción: La pena establecida a quien viola las disposiciones de la presente ley;
-
-XX. Sección de bar de restaurantes: Área delimitada dentro de un local donde las personas consumen preponderantemente bebidas alcohólicas, botanas y en menor medida alimentos;
-
-XXI. Sección: Área delimitada de un establecimiento;
-
-XXII. Secretaría de Salud: La Secretaría de Salud del Estado de Coahuila;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
-
-XXIII. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
-
-XXIV. Terraza: Área de un establecimiento para que los clientes puedan sentarse al aire libre.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
-
-XXV. Secretaría de Medio Ambiente: a la Secretaría del Medio Ambiente del Estado de Coahuila de Zaragoza.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE MARZO DE 2014)</small>
-
-XXVI. Procuraduría del Ambiente: La Procuraduría de Protección al Ambiente del Estado de Coahuila de Zaragoza.
-
-###### Artículo 4.
-
-En el procedimiento de inspección, verificación, impugnación y sanción será aplicable la Ley en la materia para el Estado de Coahuila de Zaragoza.
+.....
 
 ###### ARTICULO DECIMO.
 
@@ -131,15 +49,19 @@ Se establece un impuesto al activo de las empresas, de conformidad con las sigui
 
 LEY DEL IMPUESTO AL ACTIVO
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 1o.
 
-Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto, únicamente por esos bienes.
+Las personas físicas que realicen actividades empresariales y las personas morales, residentes en México, están obligadas al pago del impuesto al activo, por el activo que tengan, cualquiera que sea su ubicación. Las residentes en el extranjero que tengan un establecimiento permanente en el país, están obligadas al pago del impuesto por el activo atribuible a dicho establecimiento. Las personas distintas a las señaladas en este párrafo, que otorguen el uso o goce temporal de bienes, incluso de aquellos bienes a que se refieren el Capítulo III del Título IV y los artículos 133, fracción XIII, 148, 148-A y 149 de la Ley del Impuesto sobre la Renta, que se utilicen en la actividad de otro contribuyente de los mencionados en este párrafo, están obligadas al pago del impuesto, únicamente por esos bienes.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 También están obligados al pago de este impuesto, los residentes en el extranjero por los inventarios que mantengan en territorio nacional para ser transformados o que ya hubieran sido transformados por algún contribuyente de este impuesto.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+Las empresas que componen el sistema financiero están obligadas al pago del impuesto por su activo no afecto a su intermediación financiera.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -182,6 +104,28 @@ Los residentes en el extranjero a que se refiere el párrafo segundo del artícu
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Para calcular el valor de los activos señalados en la fracción IV de este artículo, los contribuyentes a que se refiere el párrafo anterior considerarán el valor consignado a la entrada al país de dichos activos, adicionado del valor consignado cuando se retornen al extranjero y dividiendo el resultado entre dos. Este último resultado se dividirá entre 365 y el cociente se multiplicará por el número de días que permanecieron en territorio nacional. Los valores a que se refiere este párrafo serán los consignados en los pedimentos a que se refiere la legislación aduanera.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 2o.
+
+BIS.- Las personas físicas que otorguen el uso o goce temporal de inmuebles, que se utilicen por otro contribuyente del impuesto, para determinar el monto original de los mismos, estarán a lo siguiente:
+
+I.- Determinarán por separado el monto original de la inversión del terreno y de las construcciones, considerando el valor declarado en la escritura notarial en la que conste la adquisición. Cuando en dicha escritura no se hubiera hecho la separación de dicho monto para el terreno y las construcciones, los contribuyentes considerarán las proporciones que para el terreno y las construcciones, se hayan dado en el avalúo practicado a la fecha de la adquisición del bien de que se trate, o considerarán las proporciones que aparezcan en los valores catastrales que correspondan a la fecha de adquisición.
+
+En el caso de que no puedan determinarse las proporciones señaladas en el párrafo anterior, se considerará que del monto original de la inversión del bien de que se trate, el 80% corresponde a las construcciones y el 20% al terreno.
+
+II.- Cuando no se pueda determinar el monto original de la inversión de un inmueble, se considerará como dicho monto, el que resulte conforme a lo siguiente:
+
+a).- En el caso de las construcciones, mejoras o ampliaciones del inmueble, se considerará como monto el valor que se contenga en el aviso de terminación de obra. En caso de que no se consigne el valor correspondiente en el aviso de terminación de obra o de que no exista la obligación de dar dicho aviso, se considerará como monto original de la inversión de las construcciones, mejoras o ampliaciones del inmueble, el 80% del valor del avalúo que al efecto se practique por persona autorizada, por la Secretaría de Hacienda y Crédito Público, referido a la fecha en que las mismas se hayan terminado.
+
+b).- Tratándose de bienes adquiridos en rifa o sorteo antes del 1o. de enero de 1981, se considerará como monto el que haya servido para efectos del impuesto federal sobre loterías, rifas, sorteos y juegos permitidos. Tratándose de bienes adquiridos en rifa o sorteo a partir de la fecha antes citada, el que haya servido para efectos del impuesto sobre la renta. Si para determinar la base de los mencionados impuestos se practicó avalúo, éste se considerará el monto original de la inversión referido a la fecha de adquisición.
+
+c).- Tratándose de bienes adquiridos por herencia, legado o donación, incluyendo las donaciones efectuadas por la Federación, Estados, Distrito Federal, Municipios u organismos descentralizados, se considerará el monto original de la inversión que dicho bien haya tenido para el autor de la sucesión o para el donante, respectivamente. Si no pudiera determinarse dicho monto, se considerará como tal el 80% del valor del avalúo practicado al bien de que se trate referido al momento de la adjudicación o de la donación, según corresponda.
+
+d).- Tratándose de bienes adquiridos por prescripción, se determinará su monto original de la inversión conforme al avalúo que haya servido de base para el pago de impuestos con motivo de la adquisición. Si en la fecha en que se adquirió no procedió la realización del avalúo, se efectuará uno referido al momento en que la prescripción se hubiera consumado, independientemente de la fecha de la resolución que la declare. Cuando no pueda determinarse la fecha en que se consumó la prescripción adquisitiva, se tomará como tal aquélla en que se haya promovida (sic) ésta.
+
+Cuando para determinar el monto original de la inversión de un bien base de este impuesto, se deba realizar un avalúo en los términos de esta fracción, el contribuyente podrá acreditar el costo del avalúo contra los pagos provisionales del impuesto y el correspondiente al del ejercicio en que se efectuó dicho avalúo.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -245,78 +189,6 @@ Los activos financieros denominados en moneda extranjera, se valuarán al tipo d
 
 Son supletorias del presente ordenamiento las disposiciones de la Ley Estatal de Salud, la Ley General de Salud y los demás ordenamientos que por su naturaleza y materia deban observarse para el debido cumplimiento de la presente ley.
 
-### CAPÍTULO SEGUNDO. ATRIBUCIONES DE LA AUTORIDAD
-
-###### Artículo 6.
-
-La aplicación y vigilancia del cumplimiento de esta ley corresponde, en el ámbito de sus respectivas competencias:
-
-I. Al Ejecutivo del Estado, por conducto de las dependencias y entidades que sean competentes conforme a los términos de la misma;
-
-II. A los municipios, por conducto de las dependencias y entidades municipales competentes en términos de esta ley y sus reglamentos respectivos, y
-
-III. A los organismos de la administración pública paraestatal que, en su caso, se establezcan.
-
-###### Artículo 7.
-
-En la vigilancia del cumplimiento de esta ley coadyuvarán activamente:
-
-I. Los directores y maestros de los centros de educación de todos los niveles, así como los dueños, propietarios, poseedores, responsables y empleados de los locales, establecimientos y medios de transporte a los que se refiere esta ley;
-
-II. Las asociaciones de padres de familia de las escuelas e institutos públicos y privados;
-
-III. Los usuarios de los establecimientos, oficinas o industrias;
-
-IV. Los órganos de control interno de las oficinas dependientes del Gobierno del Estado, de los ayuntamientos, y órganos autónomos, cuando el infractor sea servidor público o se encuentre en dichas instalaciones;
-
-V. Los municipios del Estado de Coahuila, y
-
-VI. Las organizaciones de la sociedad civil cuyo campo de acción tenga que ver con temas de educación, salubridad y desarrollo humano.
-
-###### Artículo 8.
-
-Corresponde al Ejecutivo del Estado:
-
-I. Coordinarse con las autoridades sanitarias federales y municipales para la ejecución en el Estado del programa contra el tabaquismo;
-
-II. Formular y conducir la política estatal para la prevención y el tratamiento de padecimientos originados por el tabaquismo;
-
-III. Gestionar y promover la educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
-
-IV. Determinar y ejercer medios de control en el expendio de tabaco en cualquiera de sus formas, para prevenir su consumo por parte de los menores de edad;
-
-V. Vigilar el cumplimiento de la prohibición de fumar fuera de los lugares permitidos, en edificios, oficinas y cualquier otra instalación al servicio del gobierno estatal o de los organismos públicos que posean autonomía constitucional;
-
-VI. Suscribir convenios con los ayuntamientos para la aplicación de la presente ley;
-
-VII. Imponer las sanciones correspondientes en caso de que se comprueben infracciones a esta ley, a través de la autoridad fiscalizadora correspondiente, y
-
-VIII. Ejercer las demás atribuciones que determine la presente ley y disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 9.
-
-Corresponden a la Secretaría de Salud y a la Secretaría de Medio Ambiente mediante la Procuraduría de Protección al Ambiente:
-
-I. Conocer de las denuncias presentadas por los ciudadanos o usuarios, cuando en los edificios, establecimientos mercantiles, médicos, industriales, de enseñanza, edificios e instalaciones de los órganos del Gobierno del Estado, de los municipios y órganos autónomos del Estado, no se establezcan salas para fumadores aisladas de las áreas de uso común, o habiéndolas no se respete la prohibición de fumar fuera de las áreas destinadas para ello.
-
-Para el caso de las instalaciones del Gobierno del Estado, se dictarán las medidas preventivas necesarias a efecto de proteger la salud de los no fumadores, mismas que se prolongarán hasta que sea corregida la falta;
-
-II. Ordenar de oficio o por denuncia ciudadana, la realización de visitas de verificación en los establecimientos, empresas y oficinas del Gobierno del Estado y los municipios, para cerciorarse del cumplimiento de las disposiciones de esta ley;
-
-III. Diseñar el catálogo de letreros y/o señalamientos preventivos, informativos o restrictivos, que serán colocados al interior de los establecimientos, empresas y oficinas de los órganos del Gobierno del Estado y los ayuntamientos, y en los vehículos de transporte público y escolar, para prevenir el consumo de tabaco y establecer las prohibiciones pertinentes;
-
-IV. Informar a los órganos de control interno de las oficinas o instalaciones que pertenezcan a los órganos del Gobierno del Estado y los ayuntamientos, la violación a la presente ley por parte de los servidores públicos, a efecto de que se inicien los procedimientos administrativos correspondientes;
-
-V. Coordinarse con la Procuraduría General de Justicia del Estado, para poner a disposición de la autoridad municipal de salud a las personas físicas que incumplan con lo establecido en la presente ley. Así mismo, deberán entregar a dicha autoridad la información que sustente la violación a lo establecido en esta ley;
-
-VI. Realizar, en conjunto con la iniciativa privada u organizaciones no gubernamentales, campañas de información y difusión para prevenir el uso y consumo de tabaco, y
-
-VII. Las demás que le otorgue la ley y demás disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2017)</small>
-
 ###### ARTICULO 5o.
 
 Los contribuyentes podrán deducir del valor del activo en el ejercicio, las deudas contratadas con empresas residentes en el país o con establecimientos permanentes ubicados en México de residentes en el extranjero, siempre que se trate de deudas no negociables. También podrán deducirse las deudas negociables en tanto no se le notifique al contribuyente la cesión del crédito correspondiente a dichas deudas a favor de una empresa de factoraje financiero, y aun cuando no habiéndosele notificado la cesión el pago de la deuda se efectúe a dicha empresa o a cualquier otra persona no contribuyente de este impuesto.
@@ -343,9 +215,19 @@ Los contribuyentes podrán determinar el impuesto del ejercicio, considerando el
 
 El impuesto a que se refiere el párrafo anterior se actualizará por el periodo transcurrido desde el último mes de la primera mitad del cuarto ejercicio inmediato anterior, hasta el último mes de la primera mitad del ejercicio por el que se determine el impuesto.
 
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+Para los efectos de lo dispuesto en el primer párrafo de este artículo los contribuyentes actualizarán el impuesto que les hubiera correspondido de no haber ejercido la opción a que se refiere este precepto.
+
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 Una vez ejercida la opción que establece este artículo, el contribuyente deberá pagar el impuesto con base en la misma por los ejercicios subsecuentes, incluso cuando se deba pagar este impuesto en el periodo de liquidación.
+
+> <small>(ADICIONADO, D.O.F. 10 DE MAYO DE 1996)</small>
+
+###### ARTICULO 5o.- B.
+
+Las empresas que componen el sistema financiero considerarán como activo no afecto a su intermediación financiera, los activos fijos, los terrenos, los gastos y cargos diferidos, que no respalden obligaciones con terceros resultantes del desarrollo de su actividad de intermediación financiera de conformidad con la legislación aplicable. No se incluirán los activos que por disposición legal no puedan conservar en propiedad. Estos contribuyentes sólo podrán deducir del valor del activo, las deudas contratadas para la adquisición de los activos mencionados, siempre que reúnan los requisitos a que se refiere el artículo 5o. de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -355,21 +237,25 @@ No pagarán el impuesto al activo las siguientes personas:
 
 I.- Quienes no sean contribuyentes del impuesto sobre la renta.
 
-II.- Las empresas que componen el sistema financiero.
+II.- (DEROGADA, D.O.F. 10 DE MAYO DE 1996)
 
 III.- Las personas físicas que realicen actividades empresariales al menudeo en puestos fijos y semifijos en la vía pública o como vendedores ambulantes, cuando las mismas hayan optado por pagar el impuesto sobre la renta de conformidad con lo dispuesto por el Reglamento de la Ley del Impuesto sobre la Renta.
 
 IV.- Quienes otorguen el uso o goce temporal de bienes cuyos contratos de arrendamiento fueron prorrogados en forma indefinida por disposición legal (rentas congeladas), únicamente por dichos bienes.
 
-V.- Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refieren las fracciones I y II de este artículo, únicamente por dichos bienes.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+V.- Las personas físicas residentes en México que no realicen actividades empresariales y otorguen el uso o goce temporal de bienes a las personas a que se refiere la fracción I de este artículo, únicamente por dichos bienes.
 
 VI.- Quienes utilicen bienes destinados sólo a actividades deportivas, cuando dicha utilización sea sin fines de lucro o únicamente por sus socios o miembros, así como quienes se dediquen a la enseñanza y cuenten con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, únicamente por los bienes empleados en las actividades señaladas por esta fracción.
 
-Las personas a que se refieren las fracciones I y II de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
+> <small>(REFORMADO, D.O.F. 10 DE MAYO DE 1996)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+Las personas a que se refiere la fracción I de este artículo que mantengan los inventarios a que se refiere el párrafo segundo del artículo 1o. de esta Ley, o que otorguen el uso o goce temporal de bienes que se utilicen en la actividad de un contribuyente de los mencionados en el artículo 1o. de esta Ley, a excepción de las que estén autorizadas para recibir donativos deducibles para efectos de la Ley del Impuesto sobre la Renta en los términos de la fracción I del artículo 24 y fracción IV del artículo 140 de dicha Ley, pagarán el impuesto por dichos bienes.
 
-No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, los dos siguientes y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+No se pagará el impuesto por el periodo preoperativo, ni por los ejercicios de inicio de actividades, los dos siguientes y el de liquidación, salvo cuando este último dure más de dos años. Lo dispuesto en este párrafo no es aplicable a los ejercicios posteriores a fusión, transformación de sociedades o traspaso de negociaciones, ni a los contribuyentes que inicien actividades con motivo de la escisión de sociedades, ni tampoco tratándose de las sociedades que en los términos del Capítulo IV del Título II de la Ley del Impuesto sobre la Renta, tengan el carácter de controladoras, ni de las sociedades controladas que se incorporen a la consolidación, excepto por la proporción en la que la sociedad controladora no participe directa o indirectamente en el capital social de dichas controladas, o por los bienes nuevos o bienes que se utilicen por primera vez en México, adquiridos por las sociedades controladas que se incorporen a la consolidación.
 
 Los contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de los bienes a que se refieren las fracciones II y III del artículo 2o. de esta Ley, pagarán el impuesto incluso por los ejercicios de inicio de actividades y el siguiente. Estos contribuyentes no podrán ejercer la opción a que se refiere el artículo 5o-A durante los ejercicios mencionados.
 
@@ -391,7 +277,7 @@ Las personas morales y las personas físicas enterarán el impuesto a más tarda
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-El pago provisional mensual se determinará dividiendo entre doce el impuesto actualizado que correspondió al ejercicio inmediato anterior, multiplicando el resultado por el número de meses comprendidos desde el inicio del ejercicio hasta el mes al que se refiere el pago, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del ejercicio por el que se paga el impuesto, efectuados con anterioridad
+El pago provisional mensual se determinará dividiendo entre doce el impuesto actualizado que correspondió al ejercicio inmediato anterior, multiplicando el resultado por el número de meses comprendidos desde el inicio del ejercicio hasta el mes al que se refiere el pago, pudiendo acreditarse contra el impuesto a pagar los pagos provisionales del ejercicio por el que se paga el impuesto, efectuados con anterioridad.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -415,13 +301,21 @@ Los contribuyentes menores pagarán este impuesto como parte de la determinació
 
 El contribuyente podrá disminuir el monto de los pagos provisionales, cumpliendo los requisitos que señale el Reglamento de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
-
-Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, el fiduciario o el asociante efectuará por cuenta de los fideicomisarios o por cuenta propia y de los asociados, según sea el caso, los pagos provisionales a que se refiere este artículo, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dichas actividades en el último ejercicio del fiduciario o asociante.
+> <small>(DEROGADO DECIMO PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 Las personas físicas que realicen actividades agrícolas o ganaderas, estarán relevadas de efectuar pagos provisionales en los términos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 7o.
+
+BIS.- Cuando a través de un fideicomiso o de una asociación en participación se realicen actividades empresariales, la fiduciaria y el asociante, cumplirán por cuenta del conjunto de fideicomisarios o en su caso, del fideicomitente, cuando no hubieran sido designados los primeros, o por cuenta propia y de los asociados, según corresponda, con la obligación de efectuar los pagos provisionales a que se refiere el artículo 7o. de la misma, por el activo correspondiente a las actividades realizadas por el fideicomiso o asociación, considerando para tales efectos el activo que correspondió a dichas actividades en el último ejercicio de la fiduciaria o asociante.
+
+Tratándose de los contratos de asociación en participación y de fideicomiso, los fideicomisarios, o en su caso, el fideicomitente cuando no hubieran sido designados los primeros, el asociante y cada uno de los asociados según se trate, para determinar el valor de su activo en el ejercicio, adicionarán el valor del activo en el ejercicio correspondiente a las actividades realizadas por el fideicomiso o la asociación en participación y podrán acreditar el monto de los pagos provisionales de este impuesto efectuados por la fiduciaria o el asociante, según corresponda a los fideicomisarios, o en su caso, al fideicomitente cuando no hubieran sido designados los primeros, o a los asociados.
+
+Las fiduciarias aplicarán lo dispuesto en el artículo 6o. penúltimo párrafo de esta Ley, siempre que los fideicomisarios, o en su caso, el fideicomitente, cuando no hubieran sido designados los primeros, se encuentren en alguno de los supuestos establecidos en el párrafo citado.
 
 > <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -499,53 +393,59 @@ Los derechos al acreditamiento y a la devolución previstos en este artículo so
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-###### Artículo 10.
+###### ARTICULO 10.
 
-Corresponde a la Secretaría de Seguridad Pública y a la policía preventiva de los municipios las siguientes acciones:
+Los contribuyentes podrán acreditar contra el impuesto del ejercicio una cantidad equivalente al impuesto sobre la renta efectivamente pagado en el mismo, en los términos de este artículo y del anterior, correspondiente a sus ingresos por otorgar el uso o goce temporal de bienes inmuebles por los que se esté obligado al pago de este impuesto.
 
-I. Poner a disposición de la autoridad municipal correspondiente, a las personas físicas que hayan sido sorprendidas consumiendo tabaco en cualquiera de sus presentaciones, en algún lugar prohibido, siempre que hayan sido requeridas a modificar su conducta y se nieguen a hacerlo;
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-II. Abstenerse de dar malos tratos o inducir a la corrupción a las personas físicas que deban ser presentadas ante la autoridad municipal, y
+Para ello se calculará el impuesto sobre la renta, sin incluir los ingresos provenientes del uso o goce temporal de bienes por los que se esté obligado al pago de este impuesto. Por separado, se calculará el impuesto sobre la renta sobre el total de los ingresos. La diferencia entre las dos cantidades será el importe máximo del impuesto sobre la renta que se podrá acreditar.
 
-III. Las demás que le otorguen ésta y demás disposiciones jurídicas aplicables.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2017)</small>
+Los contribuyentes que otorguen el uso o goce temporal de bienes inmuebles a que se refiere este artículo podrán acreditar contra los pagos provisionales de este impuesto los que efectúen en el impuesto sobre la renta en los términos del Capítulo III del Título IV de la Ley del Impuesto sobre la Renta.
 
-Las atribuciones a que se refiere este artículo serán ejercidas por la Fiscalía y la policía preventiva de los municipios, quienes al momento de ser informados de la comisión de una infracción, requerirán al infractor a modificar su conducta, a trasladarse a las áreas reservadas para fumadores o abandonar el lugar, y en caso de no acatar la indicación, se procederá de acuerdo a lo establecido en la fracción I del presente artículo.
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-###### Artículo 11.
+Los condóminos o fideicomisarios a que se refiere la fracción XIII del artículo 133 y el artículo 148-A de la Ley de Impuesto sobre la Renta podrán acreditar una cantidad equivalente al impuesto al activo efectivamente pagado, incluso en los pagos provisionales, contra el impuesto sobre la renta que resulte a su cargo en los términos de los preceptos mencionados.
 
-Corresponde a los municipios en el ámbito de su competencia:
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. Coordinarse con las autoridades sanitarias federales y estatales para la ejecución en el municipio del programa contra el tabaquismo;
+En el caso de los ingresos a que se refiere la fracción XIII del artículo 133 y el artículo 148-A de la Ley del Impuesto sobre la Renta, el administrador del inmueble calculará el impuesto al activo correspondiente a cada uno de los condóminos o fideicomisarios y el monto de la retención que proceda en el impuesto sobre la renta una vez efectuado el acreditamiento a que se refiere el párrafo anterior.
 
-II. Formular y conducir la política municipal para la prevención y el tratamiento de padecimientos originados por el tabaquismo;
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. Gestionar y promover la educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+###### ARTICULO 11.
 
-IV. Vigilar el cumplimiento de la prohibición de fumar, fuera de los lugares permitidos, en edificios, oficinas y cualquier otra instalación al servicio del gobierno municipal o de los organismos públicos que posean autonomía constitucional;
+Las sociedades cooperativas de producción, así como las sociedades y asociaciones civiles que distribuyan anticipos o rendimientos a sus miembros en los términos de la fracción XI del artículo 22 de la Ley del Impuesto sobre la Renta, podrán considerar el impuesto que hubieren retenido por dichos conceptos conforme a lo dispuesto en el Capítulo I del Título IV de la Ley mencionada, como impuesto sobre la renta correspondiente a la persona moral de que se trate, para los efectos del artículo 9o. de esta Ley.
 
-V. Suscribir convenios con el Estado para la aplicación de la presente ley, y
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VI. Las demás atribuciones que determine la presente ley y sus disposiciones reglamentarias.
+###### ARTICULO 12.
 
-###### Artículo 12.
+Los contribuyentes que paguen el impuesto sobre la renta conforme al régimen simplificado contenido en la Sección II del Capítulo VI del Título IV o del Título II-A de la Ley de la materia determinarán el valor del activo en el ejercicio, sumando los promedios de los activos previstos en este artículo. Los promedios se calcularán conforme a lo siguiente:
 
-Corresponde a la autoridad municipal de salud
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
+I.- El saldo promedio de los activos financieros, se calculará sumando los saldos de éstos al último día de cada mes del ejercicio y dividiendo el resultado entre doce.
 
-I. Conocer de las infracciones realizadas por las personas físicas que ponga a su disposición los elementos de la Policía del Estado de la Procuraduría y la Policía Preventiva de los municipios;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. Aplicar las sanciones que se deriven del incumplimiento de esta ley, y
+II.- Tratándose de los activos fijos, gastos y cargos diferidos y de terrenos, el saldo promedio se calculará multiplicando el monto original de la inversión de cada uno de los activos y terrenos por el factor de la tabla de activos fijos, gastos y cargos diferidos y terrenos, que dé a conocer la Secretaría de Hacienda y Crédito Público y sumando el resultado obtenido por cada uno.
 
-III. Llevar a cabo las visitas de verificación o en su caso de inspección, competencia de la Secretaría de Salud, así como de sancionar a los titulares de establecimientos o empresas donde se hayan realizado.
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Para el procedimiento de sanción que sea competencia de la autoridad municipal de salud, se seguirá lo establecido en la ley correspondiente.
+III.- Tratándose de inventarios, se sumará el valor de éste al inicio y al final del ejercicio, valuados conforme al artículo 3o. de esta Ley. El resultado se dividirá entre dos.
 
-### CAPÍTULO TERCERO. MEDIDAS PARA LA PROTECCION A LOS NO FUMADORES
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-#### SECCIÓN PRIMERA. PROHIBICIONES
+La Secretaría de Hacienda y Crédito Público dará a conocer anualmente la tabla de factores de activos fijos, gastos y cargos diferidos a que se refiere la fracción II de este artículo, tomando en consideración el año en que se adquirieron o se aportaron los activos, las tasas máximas de deducción previstas en los artículos 43, 44 y 45 de la Ley del Impuesto sobre la Renta y el factor de actualización que les correspondería a dichos bienes si se hubieran adquirido en el sexto mes de cada año.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los contribuyentes a que se refiere este artículo, que obtengan ingresos exclusivamente por la realización de actividades agrícolas, ganaderas o silvícolas, considerarán como valor de su activo en el ejercicio, el valor catastral de sus terrenos que sirva de base para determinar el impuesto predial. El cálculo de este impuesto se hará sin incluir maquinaria y equipo.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE MARZO DE 1996)</small>
 
 ###### ARTICULO 12-A.
 
@@ -565,53 +465,65 @@ Al impuesto al activo pagado durante los ejercicios anteriores a aquél en que l
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-###### Artículo 13.
+###### ARTICULO 13.
 
-En el Estado de Coahuila queda prohibido fumar en los siguientes lugares:
+La controladora que consolide para efectos del impuesto sobre la renta, estará a lo siguiente:
 
-I. Elevadores de edificios públicos o particulares destinados al uso del público en general;
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. Áreas cerradas de oficinas bancarias, tiendas de autoservicio, conveniencia, departamentales y/o de servicios en los que se proporcione atención directa al público, con excepción de los lugares específicamente designados para ello;
+I.- Calculará el valor del activo en el ejercicio, en forma consolidada, sumando el valor de su activo con el del activo de cada una de las controladas, en proporción a la participación accionaria promedio en que la controladora participe, directa o indirectamente, en su capital social.
 
-III. Oficinas de cualquier dependencia o entidad de la Administración Pública del Estado o municipios y de los órganos autónomos de éstos; oficinas, juzgados o instalaciones del Poder Judicial, y oficinas administrativas, auditorios, módulos de atención, comisiones o salas de juntas del Poder Legislativo del Estado. Lo anterior salvo que de conformidad con lo establecido en esta ley, se designen espacios para ello;
+Para los efectos del párrafo anterior, el valor de los activos de la controladora y de cada una de las controladas se determinará considerando el valor y la fecha en que se adquirieron por primera vez por las sociedades que consoliden. En caso de que existan cuentas y documentos por cobrar o por pagar de la controladora o controladas, con otras empresas del grupo que no causen el impuesto consolidado, no se incluirán en proporción a la participación accionaria promedio por día en que la controladora participe, directa o indirectamente, en su capital social. Tampoco se incluirán en el valor de los activos de la controladora, las acciones de sus controladas residentes en el extranjero.
 
-IV. Hospitales, guarderías y asilos o casas de reposo público y privado, clínicas, centros de salud, centros de atención médica públicos y privados, con excepción de los lugares específicamente designados para ello;
+Del valor del activo a que se refieren los párrafos anteriores, se podrá deducir el valor de las deudas a que se refiere el artículo 5o. de esta Ley, que correspondan a la controladora y a cada una de las controladas que deban pagar el impuesto a que se refiere esta Ley, en proporción a la participación accionaria promedio por día en que la controladora participe, directa o indirectamente, en su capital social.
 
-V. En las Cafeterías y restaurantes o anexos pertenecientes a las unidades señaladas en la fracción anterior, se podrán instalar secciones de fumar debidamente delimitadas y señaladas;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-VI. Áreas cerradas de bibliotecas, hemerotecas, museos, casas de la cultura y centros públicos de cómputo, salvo en los respectivos vestíbulos o secciones de fumar debidamente delimitadas y señaladas;
+II.- La sociedad controladora efectuará pagos provisionales consolidados en los términos del artículo 7o. de esta Ley, considerando el impuesto consolidado que corresponda al ejercicio inmediato anterior.
 
-VII. Áreas cerradas donde se practique deporte, salvo que se habiliten espacios para ello de acuerdo a lo establecido en esta ley;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-VIII. En los centros públicos o privados de educación inicial, básica indígena, especial, media y media superior, incluyendo auditorios, bibliotecas, laboratorios, centros de cómputo, salones de clase y sanitarios;
+III.- Presentará declaración del ejercicio dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal, en la que determinará el impuesto consolidado. En caso de que en esta declaración resulte diferencia a cargo, la sociedad controladora deberá enterarla con la propia declaración.
 
-IX. Áreas cerradas de los cines, teatros, museos, centros de entretenimiento y auditorios a los que tenga acceso el público en general, con excepción de los vestíbulos y secciones expresamente señaladas para fumar;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-X. Sanitarios de acceso público, baños públicos y sanitarios móviles;
+IV.- En caso de que alguna de las sociedades controladas, presenten declaración complementaria con el fin de subsanar errores u omisiones, y con ello se modifique el impuesto determinado o el impuesto acreditado, a más tardar dentro del mes siguiente a aquél en el que ocurra este hecho, la controladora presentará declaración complementaria de consolidación haciendo las modificaciones a que haya lugar. Si en la declaración complementaria de consolidación resulta diferencia a cargo, la controladora la deberá enterar conjuntamente con la declaración.
 
-XI. Vehículos de servicio público de transporte colectivo que circulen en el Estado;
+Cuando se trate de declaraciones complementarias de las controladas, originadas por el dictamen a sus estados financieros, la controladora podrá presentar una sola declaración complementaria, agrupando las modificaciones a que haya lugar, a más tardar a la fecha de presentación del dictamen relativo a la declaración de consolidación.
 
-XII. Vehículos de transporte escolar;
+> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-XIII. Centros de entretenimiento para adultos, salvo que se designen espacios para ello de conformidad con lo establecido en esta ley;
+V.- La controladora deberá tener a disposición de las autoridades fiscales, la información y documentos que comprueben los valores de los activos y pasivos que se tomaron como base para calcular el impuesto consolidado en el ejercicio.
 
-XIV. Secciones en donde expresamente se prohíba fumar en establecimientos distintos de los señalados en las fracciones anteriores, al que tenga acceso el público en general, debiendo habilitar espacios para fumadores de acuerdo a lo establecido en esta ley, y
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-XV. En todos los establecimientos que de conformidad con la ley correspondiente tengan espacios para bailar, queda prohibido fumar en dichos espacios.
+Las sociedades controladas efectuarán sus pagos provisionales y el impuesto del ejercicio por la parte que no quedó incluida en los pagos provisionales y en la declaración del ejercicio presentados por la controladora.
 
-Queda prohibido fumar en los establecimientos en que se expendan alimentos y que no excedan de 30 metros cuadrados de superficie para el servicio; igual prohibición recaerá en salones de fiestas infantiles, cualquiera que sea su superficie.
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-Será responsabilidad de los dueños, propietarios o funcionarios de los establecimientos o instalaciones a que se refieren las fracciones II, III, IV, VI, VII, VIII, IX de este artículo, asignar áreas para fumadores, mismas que deberán cumplir con los requisitos definidos en la presente ley.
+En el primer ejercicio en que la sociedad controladora deba efectuar pagos provisionales consolidados, los determinará considerando el impuesto que le correspondería como si hubiera consolidado el ejercicio inmediato anterior.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+La sociedad controladora y las controladas podrán efectuar sus pagos provisionales, ajustes y pagos del impuesto del ejercicio, en los términos de los artículos 7o.- A, 7o.-B, y 8o.- A de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Para efectos de este impuesto, la controladora y las controladas estarán a lo dispuesto en la Ley del Impuesto sobre la Renta en lo que se refiere a incorporación, desincorporación, acreditamiento y devolución del impuesto sobre la renta, así como para el cálculo de pagos provisionales y del ejercicio.
+
+> <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
 ###### ARTICULO 13-A.
 
 En la escisión de sociedades, las sociedades escindentes y las escindidas estarán a lo siguiente:
 
-I.- Determinarán el monto de los pagos provisionales que les corresponda en el ejercicio en que se efectúe la escisión, considerando el pago provisional del periodo determinado conforme a los párrafos tercero y quinto del artículo 7o. de esta Ley en la proporción en que participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles en los términos del artículo 5o. de este ordenamiento, ambos referidos al ejercicio en que se efectúa la escisión.
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
 
-II.- Tendrán derecho a acreditar en el ejercicio, los pagos provisionales enterados con anterioridad a la escisión, los que se dividirán entre las sociedades en la misma proporción a que se refiere la fracción anterior.
+I.- En el ejercicio en que se efectúe la escisión y el siguiente, para efectos de los párrafos tercero y quinto del artículo 7o. de esta Ley, determinarán el monto de los pagos provisionales del período que corresponda, considerando el impuesto actualizado del último ejercicio de 12 meses de la sociedad antes de la escisión, en la proporción en que, a la fecha de la escisión, participe cada una de ellas del valor de su activo a que se refiere el artículo 2o. de la misma, después de disminuirle en la misma proporción las deudas deducibles, existentes a la misma fecha, en los términos del artículo 5o. de este ordenamiento. El impuesto del último ejercicio de 12 meses se actualizará por el periodo comprendido desde el último mes del ejercicio inmediato anterior al de 12 meses, hasta el último mes del ejercicio inmediato anterior a aquél por el cual se calcula el impuesto.
+
+> <small>(REFORMADA, D.O.F. 10 DE MAYO DE 1996)</small>
+
+II.- La sociedad escindente acreditará en el ejercicio de que se trate, la totalidad de los pagos provisionales enterados en dicho ejercicio, con anterioridad a la escisión, incluso cuando los pagos provisionales los hubiera efectuado de conformidad con lo dispuesto en el artículo 7o.-A de esta Ley. En ningún caso las sociedades escindidas podrán acreditar los pagos provisionales realizados por la escindente.
 
 III.- La sociedad escindente y las escindidas deberán continuar con la opción a que se refiere el artículo 5o-A de esta Ley, cuando la hubiera ejercido la escindente, en cuyo caso en el ejercicio en que se efectúa la escisión y el siguiente, deberán considerar ambas sociedades, el impuesto del penúltimo y último ejercicio inmediato anterior al de la escisión, en la proporción a que se refiere la fracción I de este artículo. A partir del tercer ejercicio en que se efectuó la escisión considerarán el impuesto que le hubiera correspondido a la sociedad en el penúltimo ejercicio inmediato anterior.
 
@@ -619,481 +531,9 @@ En caso de que la escindente no haya ejercido la opción a que se refiere el art
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
-###### Artículo 14.
+###### ARTICULO 14.
 
-Los dueños, propietarios, concesionarios, poseedores y responsables de los vehículos para transporte individual y colectivo, deberán fijar en el interior y exterior de los mismos, letreros o emblemas que indiquen la prohibición de fumar; En caso de que algún pasajero se niegue a cumplir, deberán dar aviso a la policía preventiva, a efecto de ser remitidos a la autoridad municipal correspondiente.
-
-Los conductores deberán abstenerse de fumar en el interior de los mismos cuando viajen acompañados de niñas, niños y adolescentes. La inobservancia a esta disposición se sancionará como infracción de tránsito por las autoridades municipales.
-
-Los conductores de los vehículos de transporte que no acaten las disposiciones del presente ordenamiento, deberán ser reportados a la Comisión de transporte municipal, a través de la autoridad sanitaria competente que reciba la denuncia, para que ésta implemente las correcciones disciplinarias correspondientes, sin perjuicio de las sanciones que establece esta ley.
-
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 2017)</small>
-
-###### Artículo 15.
-
-Los menores de edad, no podrán ingresar a las secciones de fumar de los lugares públicos señalados por la presente ley.
-
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
-
-###### Artículo 16.
-
-En los locales cerrados y establecimientos en los que se expendan al público alimentos para su consumo, los dueños, propietarios, administradores, responsables, empleados y/o encargados de los mismos establecerán secciones de no fumar y de fumar.
-
-La sección para no fumadores no podrá ser menor al 50% del espacio del establecimiento.
-
-Fuera de las áreas reservadas para fumadores no deberán existir ceniceros de ningún tipo, además se deberá contar con suficiente ventilación en las áreas de fumadores y en su caso, se colocarán extractores de humo para evitar que éste se propague hacia las áreas de no fumadores.
-
-Estas secciones deberán contar con los señalamientos o indicaciones suficientemente visibles para el público, que delimiten las áreas de fumar y de no fumar.
-
-###### Artículo 17.
-
-En los bares, centros de entretenimiento para adultos y discotecas, los dueños, propietarios, responsables, empleados y/o encargados de los mismos, deberán delimitar las secciones para fumadores y no fumadores de acuerdo a la demanda, con señalamientos o letreros suficientemente visibles al público.
-
-En dichos establecimientos, la sección destinada para los no fumadores, no podrá ser menor del 50% del espacio total del establecimiento cerrado.
-
-###### Artículo 18.
-
-Las secciones para fumadores y no fumadores deberán quedar separadas una de la otra, contar con comodidades similares, estar identificadas permanentemente con señalamientos y avisos en lugares visibles al público asistente incluyendo las mesas.
-
-Las secciones de fumar deberán contar con al menos una de las siguientes características:
-
-I. Tener ventilación hacia el exterior, o estar en un área abierta;
-
-II. Contar con un sistema de extracción de aire tal que garantice que el aire proveniente de la sección de fumar y que contiene humo de tabaco no se filtre al área de no fumadores, y
-
-III. Estar aislada de las áreas de no fumadores o contar con los estudios y equipos que avalen y garanticen que el humo producido por la práctica de fumar tabaco, no se filtre a las áreas reservadas para no fumadores.
-
-###### Artículo 19.
-
-En los establecimientos dedicados al hospedaje, los dueños, propietarios, administradores, responsables empleados y/o encargados de los mismos, deberán delimitar secciones para fumadores y no fumadores, en todo caso dicho porcentaje no podrá ser menor al 50%.
-
-###### Artículo 20.
-
-Los dueños, propietarios, poseedores o responsables de los locales cerrados con secciones de fumar y no fumar, coadyuvarán en forma solidaria con las autoridades correspondientes en la vigencia de la restricción de no fumar.
-
-El dueño, propietario o titular del establecimiento, o su personal, deberá exhortar a quien se encuentre fumando fuera de las áreas autorizadas, a que se abstenga de hacerlo, o trasladarse a las áreas autorizadas para tal fin; en caso de negativa, se le requerirá abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitaran el auxilio de la fuerza pública, a efecto de que pongan al infractor a disposición del juez municipal competente.
-
-La responsabilidad de los dueños, propietarios, poseedores o administradores, a que se refiere el presente artículo terminara en el momento en que dé aviso a la policía preventiva.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
-
-Los mecanismos y procedimientos que garanticen la eficacia en la aplicación de la medida referida en el párrafo anterior, quedaran establecidos en el reglamento respectivo que expida la Secretaría de Salud, en coordinación con la Procuraduría.
-
-###### Artículo 21.
-
-Las personas físicas que violen lo previsto en este capítulo, y que después de ser conminadas a modificar su conducta, no lo hicieren, se harán sujetos a una multa de acuerdo a lo establecido en el capítulo correspondiente de la presente ley.
-
-###### Artículo 22.
-
-En los locales cerrados y establecimientos en los que se expenden alimentos y bebidas para su consumo en el lugar, los dueños, propietarios, poseedores o responsables de la negociación deberán:
-
-I. Informar a las personas mayores de edad, de la prohibición de ingresar con menores de edad a las áreas destinadas para fumadores;
-
-II. Colocar en los accesos de las áreas para fumadores la señalización adecuada para indicar que se trata de un área de no fumar, y
-
-III. Colocar permanentemente en las mesas de las áreas para no fumadores distintivos de señalización que aclaren que se trata de una sección de no fumar.
-
-#### SECCIÓN TERCERA. DE LOS ÓRGANOS DE GOBIERNO DEL ESTADO Y LOS MUNICIPIOS
-
-###### Artículo 23.
-
-En las oficinas o instalaciones de los distintos órganos del Gobierno del Estado, los municipios y órganos autónomos del Estado, podrán acondicionarse áreas, salas o espacios abiertos para fumadores, mismos que deberán cumplir con los requerimientos especificados en el artículo 18 de la presente ley.
-
-En caso de que los inmuebles por su estructura o distribución no respondan a tales circunstancias, la prohibición de fumar será aplicable en toda la superficie del mismo.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
-
-###### Artículo 24.
-
-Las personas físicas que no sean servidores públicos y que no respeten las disposiciones de la presente ley, cuando se encuentren en un edificio público, y que después de ser exhortadas a modificar su conducta o abandonar el lugar no lo hicieren, deberán ser puestas de inmediato a disposición de la autoridad respectiva, por cualquier elemento de la Policía del Estado de la Procuraduría o de la policía preventiva municipal.
-
-###### Artículo 25.
-
-Los órganos del Gobierno del Estado instruirán a los titulares de las dependencias, unidades administrativas, órganos, entidades y cualquier autoridad de estas áreas, a fin de que en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determine la Secretaría de Salud, que indiquen cuales son las áreas en que se prohíbe fumar.
-
-###### Artículo 26.
-
-Todas aquellas concesiones o permisos que otorgue el Gobierno del Estado o los municipios según corresponda la competencia, y cuyo objeto sea brindar algún servicio al público, establecerán los mecanismos necesarios para que se de cumplimiento a la presente ley.
-
-###### Artículo 27.
-
-El Ejecutivo del Estado canalizará los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente ley, a la ejecución de acciones para la prevención y tratamiento de enfermedades atribuibles al tabaco o para llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
-
-###### Artículo 28.
-
-Los funcionarios y servidores públicos que violen lo dispuesto en la presente ley serán sancionados por los órganos de control que les corresponda.
-
-#### SECCIÓN CUARTA. DE LA DIVULGACION Y CONCIENTIZACION SOBRE LOS DAÑOS A LA SALUD POR EL CONSUMO DE TABACO
-
-###### ARTICULO 29.
-
-El Ejecutivo del Estado promoverá ante los titulares de las dependencias y entidades de la Administración Pública Estatal, que en las oficinas de sus respectivas unidades administrativas, órganos y entidades, se deberán establecer las modalidades a las que se refiere el artículo 13 de esta ley. Harán lo propio los titulares de los Poderes Legislativo y Judicial, así como los órganos autónomos constitucionales.
-
-###### ARTICULO 30.
-
-El Gobierno del Estado promoverá a través de la Secretaría de Salud, la realización de campañas de concientización y divulgación de esta ley, a fin de que se establezcan modalidades similares a las que se refiere este ordenamiento en:
-
-I. Oficinas y despachos privados;
-
-II. Auditorios, salas de juntas y conferencias del sector privado;
-
-III. Restaurantes, cafeterías y demás instalaciones de las empresas privadas, diferentes a los mencionados en el artículo 13 de esta ley;
-
-IV. Instalaciones de las instituciones, educativas privadas y públicas que cuenten con niveles de educación superior, y
-
-V. Medios de transporte colectivo de las entidades paraestatales, de los sindicatos y de las empresas que proporcionen ese servicio a sus empleados.
-
-###### Artículo 31.
-
-La Secretaría de Salud orientará a la población sobre los riesgos a la salud por el consumo de tabaco, y realizará campañas permanentes de información, concientización y difusión para prevenir el uso y consumo de tabaco.
-
-###### Artículo 32.
-
-La publicidad de tabaco deberá sujetarse a lo dispuesto en la Ley General de Salud, el Reglamento de la Ley General de Salud, la Ley Estatal de Salud y demás disposiciones aplicables en materia de publicidad.
-
-###### Artículo 33.
-
-Queda prohibida la venta de tabaco en cualquiera de sus modalidades a menores de edad, en cualquier establecimiento comercial. Así mismo queda prohibida la instalación y funcionamiento de máquinas automáticas expendedoras de cigarros en los lugares antes mencionados.
-
-###### Artículo 34.
-
-Los integrantes de las asociaciones de padres de familia de las escuelas e institutos públicos y privados, podrán vigilar de manera individual o colectiva, que se cumpla con la prohibición de fumar en las aulas, bibliotecas, auditorios y demás instalaciones a las que deban acudir los alumnos y el personal docente de las respectivas instituciones educativas.
-
-#### SECCIÓN QUINTA. DE LAS INSPECCIONES Y VERIFICACIONES
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 35.
-
-Secretaría (sic) de Salud y a la Secretaria de Medio Ambiente mediante la Procuraduría de Protección al Ambiente ejercerá las funciones de vigilancia, inspección y verificación que correspondan y aplicará las sanciones que en este ordenamiento se establecen, sin perjuicio de las facultades que se confieran a otras dependencias del Ejecutivo Estatal o las que establezcan los ordenamientos federales y locales aplicables.
-
-###### Artículo 36.
-
-Las inspecciones y verificaciones se sujetarán a las siguientes bases:
-
-I. El verificador deberá contar con orden por escrito que contendrá la fecha y ubicación de local cerrado o establecimiento por inspeccionar; objeto y aspectos de la visita; el fundamento legal y la motivación de la misma; el nombre y la firma de la autoridad que expida la orden y el nombre del inspector;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
-
-II. El verificador se deberá identificar ante el dueño, propietario, poseedor o responsable del lugar, con la credencial vigente que para tal efecto expida la Secretaria de Salud o la Secretaria de Medio Ambiente y entregará copia legible de la orden de inspección;
-
-III. Los verificadores practicarán la visita dentro de las 24 horas siguientes a la expedición de la orden;
-
-IV. Al inicio de la visita de inspección, el verificador deberá requerir al visitado para que designe a dos personas que funjan como testigos en el desarrollo de la diligencia, advirtiéndole que en caso de no hacerlo, éstos serán propuestos y nombrados por el propio inspector;
-
-V. De toda visita se levantará acta circunstanciada por triplicado, en formas numeradas y foliadas, en la que se expresará: lugar, fecha y nombre de la persona con quien se entienda la diligencia, así como las incidencias y el resultado de las mismas; el acta deberá ser firmada por el verificador, por la persona con quien se entendió la diligencia, y por los testigos de asistencia propuestos por ésta o nombrados por el inspector en el caso de la fracción anterior. Si alguna de las personas señaladas se niega a firmar, el inspector lo hará constar en el acta, sin que esta circunstancia altere el valor probatorio del documento;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
-
-VI. El verificador comunicará al visitado si existen omisiones en el cumplimiento de cualquier obligación a su cargo ordenada por el presente ordenamiento, haciendo constar en el acta que cuenta con diez días hábiles para impugnarla por escrito ante la Autoridad Respectiva a fin de exhibir las pruebas y alegatos que a su derecho convengan, y
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
-
-VII. Uno de los ejemplares legibles del acta quedará en poder de la persona con quien se entendió la diligencia; el original y la copia restante se entregarán a la Autoridad que realizó la verificación.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 37.
-
-Transcurrido el plazo a que se refiere la fracción VI del artículo anterior, la Secretaria de Salud o bien la Secretaria de Medio Ambiente por medio de la Procuraduría de Protección al Ambiente, calificará las faltas dentro de un término de tres días hábiles considerando la gravedad de la infracción; determinará si existe reincidencia, las circunstancias en que hubieren concurrido, las pruebas aportadas y los alegatos formulados, en su caso, y dictará la resolución que proceda debidamente fundada y motivada, notificándola personalmente al visitado.
-
-### CAPÍTULO CUARTO. DE LAS SANCIONES
-
-#### SECCIÓN PRIMERA. DE LOS TIPOS DE SANCIONES
-
-###### Artículo 38.
-
-La contravención a las disposiciones de la presente ley, será considerada falta administrativa, y dará lugar a la imposición de una sanción económica en los términos de este capítulo, estableciéndose que lo recaudado por concepto de dichas sanciones se aplicará por conducto de la Secretaría de Salud, a programas tendientes a prevenir los daños a la salud ocasionados por el habito de fumar, y en caso de existir reincidencia un arresto por 36 horas.
-
-###### Artículo 39.
-
-Para la fijación de la sanción económica, que deberá hacerse entre el mínimo y máximo establecido, se tomará en cuenta la gravedad de la infracción concreta, las condiciones económicas de la persona física o moral a la que se sanciona, la reincidencia y demás circunstancias que sirvan para individualizar la sanción.
-
-###### Artículo 40.
-
-Las sanciones administrativas podrán consistir en:
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2014)</small>
-
-I. Multa, que podrá ser de hasta por el importe entre 1, 000 a 4,000 días de salario mínimo diario general vigente en el Estado;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
-
-II. Suspensión temporal del servicio;
-
-> <small>(REFORMADA, P.O. 9 DE AGOSTO DE 2016)</small>
-
-III. Clausura definitiva del servicio, en cuyo caso quedarán sin efecto las autorizaciones que se hubieran otorgado al establecimiento;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE AGOSTO DE 2016)</small>
-
-IV. Arresto por 36 horas.
-
-En el caso de reincidencia, se aplicará el doble del monto de la última sanción impuesta y arresto hasta por 36 horas en contra de quien cometiera dos o más infracciones en un período de un año calendario.
-
-> <small>(REFORMADO, P.O. 9 DE AGOSTO DE 2016)</small>
-
-###### Artículo 41.
-
-Se sancionará con multa equivalente a diez días de salario mínimo diario general vigente, a las personas que fumen en los lugares que prohíbe el presente ordenamiento; la multa será impuesta por la Secretaría de Salud, y será puesto a disposición de ésta o de la autoridad municipal correspondiente, por cualquier elemento de la Policía del Estado de la Procuraduría o de la policía preventiva.
-
-###### Artículo 42.
-
-La autoridad sanitaria competente, sancionará con multa equivalente de diez y hasta cien veces de salario mínimo diario general vigente, cuando se trate de dueños, propietarios, poseedores o responsables de los locales cerrados y establecimientos, que no cumplan con las disposiciones de la presente ley.
-
-En caso de reincidencia, se aplicará el doble de la última sanción impuesta; y de reincidir nuevamente, se procederá a la clausura del establecimiento según lo establecido en la fracción III del artículo 40.
-
-###### Artículo 43.
-
-La Secretaría de Salud sancionará con veinte días de salario mínimo general vigente al titular de la concesión o permiso cuando se trate de medios de transporte; en el caso de que no fijen las señalizaciones a que se refiere esta ley, o permitan la realización de conductas prohibidas por esta ley.
-
-En caso de reincidencia, se aplicará el doble de la última sanción económica impuesta; en caso de segunda reincidencia, procederá la cancelación de la concesión o permiso.
-
-###### Artículo 44.
-
-Si el infractor fuese jornalero, obrero o trabajador, la multa no excederá del equivalente a un día de su ingreso neto. La Secretaría de Salud o en su caso la autoridad municipal correspondiente, instruirá al infractor a efecto de que conmute su sanción por la realización de trabajos a favor de la comunidad.
-
-Para la fijación del ingreso por día, se tomará en cuenta el tipo de actividad que desempeña y se hará por determinación presuntiva, comparando los ingresos de otras personas que desempeñen la misma labor.
-
-La calidad de jornalero, obrero o trabajador podrá demostrarse con cualquier documento fehaciente expedido por el patrón o empleador, o por alguna institución de seguridad social.
-
-Los trabajadores no asalariados podrán demostrar esta calidad con cualquier documento público, que compruebe el tipo de actividad que realiza de manera preponderante.
-
-Los infractores a que hacen referencia los párrafos anteriores, tendrán un período de diez días hábiles para demostrar su calidad de trabajador jornalero, obrero o trabajador no asalariado, ante la Secretaría de Salud o en su caso la autoridad municipal correspondiente, y pagar el importe de la multa o los trabajos a favor de la comunidad.
-
-### CAPÍTULO QUINTO. DE LAS NOTIFICACIONES
-
-###### Artículo 45.
-
-La notificación de las resoluciones administrativas emitidas por las autoridades sanitarias, en términos de esta ley, será de carácter personal.
-
-###### Artículo 46.
-
-Cuando la persona a quien deba hacerse la notificación no se encontrare, se le dejará citatorio para que esté presente a una hora determinada del día hábil siguiente, apercibiéndola de que de no encontrarse se entenderá la diligencia con quien se encuentre presente.
-
-###### Artículo 47.
-
-Si habiendo dejado citatorio, el interesado no se encuentra presente en la fecha y hora indicada, se entenderá la diligencia con quien se halle en el local cerrado o establecimiento.
-
-###### Artículo 48.
-
-Las notificaciones se harán en días y horas hábiles.
-
-### CAPÍTULO SEXTO. DEL RECURSO DE INCONFORMIDAD
-
-###### Artículo 49.
-
-El recurso de inconformidad tiene por objeto que la autoridad revoque o modifique las resoluciones administrativas que se reclaman.
-
-###### Artículo 50.
-
-El recurso deberá presentarse por escrito ante la misma autoridad, dentro de los diez días hábiles siguientes a partir de la notificación del acto que se reclama y se suspenderán los efectos de la resolución, cuando éstos no se hayan consumado siempre que no se altere el orden público o el interés social.
-
-###### Artículo 51.
-
-En el escrito de inconformidad se expresarán: nombre, domicilio de quien promueve, los agravios que considere se le causan, la resolución que motiva el recurso y la autoridad que haya dictado el acto reclamado. En el mismo escrito deberán ofrecerse las pruebas y alegatos, especificando los puntos sobre los que deban versar, mismos que en ningún caso serán extraños a la cuestión debatida.
-
-###### Artículo 52.
-
-Admitido el recurso interpuesto se señalará el día y la hora para la celebración de una audiencia en la que se oirá en defensa al interesado, y se desahogarán las pruebas ofrecidas, levantándose al término de la misma, acta suscrita por los que en ella hayan intervenido.
-
-###### Artículo 53.
-
-La autoridad dictará y notificará la resolución que corresponda, debidamente fundada y motivada, en un plazo de tres días hábiles, misma que deberá notificar al interesado personalmente en los términos del Código Procesal Civil para el Estado.
-
-Si transcurrido el plazo no se ha notificado la resolución que corresponda, se entenderá que el recurso ha sido resuelto en sentido favorable al recurrente.
-
-###### Artículo 54.
-
-El procedimiento ante la Secretaría de Salud o en su caso ante la autoridad municipal correspondiente se regulará por lo que establece la Ley de la materia.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE MARZO DE 2014)</small>
-
-### CAPÍTULO SÉPTIMO. DE LA DENUNCIA CIUDADANA
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 55.
-
-Cualquier persona podrá presentar ante la autoridad correspondiente una denuncia ciudadana, en caso de que observe el incumplimiento de cualquiera de las obligaciones establecidas en esta Ley, el Reglamento y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 56.
-
-La autoridad competente salvaguardará la identidad e integridad del ciudadano denunciante.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 57.
-
-La Secretaria de Salud y la Secretaria de Medio Ambiente mediante la Procuraduría del Ambiente pondrán en operación una línea telefónica de acceso gratuito para que los ciudadanos puedan efectuar denuncias, quejas y sugerencias, así como respecto del incumplimiento de esta Ley, el Reglamento y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2014)</small>
-
-###### Artículo 58.
-
-Al conocer de una denuncia ciudadana mediante la que se reporte el incumplimiento de esta Ley y su Reglamento, la Secretaría y la Procuraduría del Ambiente ordenarán la realización de visitas de verificación en el lugar en que presuntamente se esté cometiendo o se haya cometido la infracción, a efecto de que, en su caso, se impongan las sanciones que correspondan.
-
-T R A N S I T O R I O S.
-
-PRIMERO.- Esta ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO.- Se abroga el Reglamento para la Protección de los No Fumadores en el Estado de Coahuila.
-
-TERCERO.- Las autoridades estatales y municipales, en el ámbito de su competencia, emitirán los reglamentos necesarios para la debida aplicación de ésta ley.
-
-CUARTO.- La Secretaría de Salud contará con un plazo de 60 días naturales, posteriores a la publicación de la ley, para la elaboración y difusión del manual de señalamientos y avisos que deberán ser colocados en forma obligatoria, por los establecimientos, empresas, industrias y oficinas de gobierno a que hace referencia el presente ordenamiento.
-
-QUINTO.- Una vez establecido el manual, el Ejecutivo del Estado difundirá su contenido, a través de las cámaras empresariales e industriales y medios masivos de comunicación.
-
-SEXTO.- Todos los establecimientos, empresas, industrias y oficinas de gobierno y órganos autónomos del Estado a que se refiere la presente ley, contarán con un plazo de 90 días naturales siguientes a la publicación del presente ordenamiento, para cumplir con todos los requerimientos de este.
-
-SEPTIMO.- Los propietarios, poseedores o responsables de los vehículos a que se refiere la fracción XI y XII del artículo 13 deberán dar cumplimiento a la obligación de fijar en el interior y exterior de los vehículos, las señalizaciones adecuadas durante los 60 días siguientes contados a partir de que entre en vigor la presente ley.
-
-OCTAVO.- En relación con los municipios, el Capitulo Cuarto de las Sanciones de la presente ley, entrara en vigor una vez que los mismos realicen las modificaciones correspondientes en sus Leyes de Ingresos.
-
-NOVENO.- Se derogan las disposiciones establecidas en otros ordenamientos en lo que contravengan lo dispuesto en la presente ley.
-
-DADO en el Salón de Sesiones del Congreso del Estado, en la Ciudad de Saltillo, Coahuila, a los veintidós días del mes de mayo del año dos mil siete.
-
-DIPUTADO PRESIDENTE.
-
-JUAN CARLOS AYUP GUERRERO.
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO.
-
-JOSÉ LUIS MORENO AGUIRRE.
-
-(RÚBRICA)
-
-DIPUTADO SECRETARIO.
-
-ALFREDO GARZA CASTILLO.
-
-(RÚBRICA)
-
-IMPRIMASE, COMUNÍQUESE Y OBSÉRVESE.
-
-Saltillo, Coahuila, 24 de mayo de 2007.
-
-EL GOBERNADOR DEL ESTADO
-
-PROFR. HUMBERTO MOREIRA VALDÉS
-
-(RÚBRICA)
-
-EL SECRETARIO DE GOBIERNO
-
-LIC. HOMERO RAMOS GLORIA
-
-(RÚBRICA)
-
-EL SECRETARIO DE SALUD
-
-DR. RAYMUNDO S. VERDUZCO ROSAN
-
-(RÚBRICA)
-
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
-
-P.O. 15 DE ENERO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-SEGUNDO. Las dependencias y entidades que actualmente ejecutan funciones que mediante el presente Decreto se transfieren a la Secretaría de Gobierno, contarán con un término de 30 días hábiles para adecuar los manuales de organización y demás procedimientos administrativos necesarios para el cumplimiento de lo previsto en este Decreto.
-
-TERCERO. Se otorga un plazo de 30 días hábiles para que se lleven a cabo las reformas y adecuaciones a las disposiciones reglamentarias que correspondan.
-
-CUARTO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
-
-P.O. 12 DE MAYO DE 2009.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO. Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a la Procuraduría General de Justicia del Estado y al Procurador General de Justicia del Estado; a la Secretaría de Seguridad Pública del Estado y al Secretario de Seguridad Pública del Estado, se entenderán hechas a la Fiscalía General y al Fiscal General.
-
-TERCERO. Todas las disposiciones; menciones y referencias que se hagan en las leyes y reglamentos nacionales, estatales y municipales a las subprocuradurías y a los subprocuradores, se entenderán hechas a las fiscalías especializadas y a los fiscales especializados, conforme a las siguientes denominaciones:
-
-Subprocurador Ministerial: Fiscal Ministerial, de Investigación y Operación Policial.
-
-Subprocurador de Control de Procesos y Legalidad: Fiscal de Control de Procesos y Legalidad.
-
-Subprocurador Jurídico de Profesionalización y de Proyectos: Fiscal Jurídico, de Profesionalización y de Proyectos.
-
-CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 18 DE MARZO DE 2014.
-
-ÚNICO.- El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE AGOSTO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 509.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 9 DE AGOSTO DE 2016.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 510.- SE REFORMA EL ARTÍCULO 40 PARA AGREGAR LAS FRACCIONES II, III, IV A LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA".]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 1 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO 1010.- SE REFORMA EL ARTÍCULO 14 Y 15 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA".]
-
-UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
-
-P.O. 26 DE DICIEMBRE DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 1177.- POR EL QUE “SE REFORMA EL ARTÍCULO 10 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA”.]
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, sin perjuicio de lo dispuesto en los transitorios siguientes.
-
-SEGUNDO. La Ley Orgánica de la Comisión Estatal de Seguridad Pública del Estado de Coahuila de Zaragoza continuará vigente, en lo que no se oponga al presente decreto, hasta la entrada en vigor del Reglamento Interior de la Secretaría de Seguridad Pública.
-
-TERCERO. La reforma a las disposiciones relativas a la Procuraduría para Niños, Niñas y la Familia como organismo público descentralizado que se crea mediante el presente decreto, entrarán en vigor una vez instalado su órgano de gobierno y se realice la entrega recepción con la dependencia centralizada de la administración pública estatal denominada de la misma forma a la cual sustituye.
-
-CUARTO. La reforma a las disposiciones relativas al órgano desconcentrado Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, el cual sustituye al Instituto Coahuilense del Catastro y la Información Territorial y al Registro Público del Estado de Coahuila de Zaragoza, entrarán en vigor una vez que sea nombrado su titular y se realice la entrega recepción correspondiente.
-
-Las disposiciones relativas al Instituto de (sic) Coahuilense de las Mujeres e Instituto Coahuilense de la Juventud entrarán en vigor una vez que se nombre a sus respectivos titulares y se realice la entrega recepción correspondiente.
-
-QUINTO. La Secretaría de Finanzas en coordinación con la Secretaría de Fiscalización y Rendición de Cuentas, deberá realizar las acciones conducentes para extinguir el organismo descentralizado Instituto Coahuilense del Catastro y la Información Territorial, en términos de las disposiciones legales y administrativas aplicables.
-
-SÉXTO. La Secretaría de Finanzas y la Secretaría de Fiscalización y Rendición de Cuentas en el ámbito de sus atribuciones, en coordinación con las dependencias o entidades competentes, deberán implementar la entrega recepción y las acciones necesarias para que los recursos humanos, materiales, financieros y presupuestales que corresponden a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y a la Procuraduría para Niños, Niñas y la Familia como dependencias de la administración pública centralizada, sean reasignados a las dependencias y entidades que los sustituyan y asuman sus atribuciones, de acuerdo a este decreto, a la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y demás disposiciones legales y administrativas.
-
-Los trabajadores que con motivo del cumplimiento del presente decreto deban quedar adscritos a una dependencia o entidad diferente a su actual centro de trabajo, en ninguna forma resultarán afectados en sus derechos laborales.
-
-SÉPTIMO. La Secretaría de Finanzas en coordinación con las autoridades competentes, deberá realizar las gestiones necesarias para las adecuaciones o modificaciones presupuestales para la implementación de este decreto.
-
-OCTAVO. La Secretaría de Gobierno, deberá llevar a cabo las acciones para dotar de recursos materiales, humanos y financieros al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, para su adecuado funcionamiento y debido cumplimiento de su objeto.
-
-Una vez que inicie sus funciones el Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, como órgano desconcentrado de la Secretaría de Gobierno, los sistemas, la papelería,sellosydemás (sic) materialesdetrabajoquetenganel (sic) nombre de Instituto Coahuilense del Catastro y la Información Territorial, y del Registro Público del Estado de Coahuila de Zaragoza respectivamente, serán válidos y seseguiránusando (sic), hasta en tanto se realicen los ajustes procedentes a los sistemas y se adquieran los materiales o insumos antes mencionados, adecuados al presente decreto.
-
-NOVENO. El Reglamento Interior del Instituto Registral y Catastral del Estado de Coahuila de Zaragoza, se deberá expedir dentro del plazo de sesenta días hábiles, contados a partir de la fecha en que se nombre al titular del Instituto, como órgano desconcentrado de la Secretaría de Gobierno.
-
-DÉCIMO. Cuando en alguna disposición legal o administrativa otorguen facultades o se hagan menciones a la Secretaría de Desarrollo Social, a la Secretaría de Medio Ambiente, a la Secretaría de la Juventud, a la Secretaría de las Mujeres, a la Comisión Estatal de Seguridad, al Instituto Coahuilense del Catastro y la Información Territorial, y al Registro Público del Estado de Coahuila de Zaragoza, se entenderán conferidas o referidas de la siguiente forma:
-
-Secretaría de Desarrollo Social a la Secretaría de Inclusión y Desarrollo Social.
-
-Secretaría de Medio Ambiente a la Secretaría de Medio Ambiente y Desarrollo Urbano.
-
-Secretaría de la Juventud al Instituto Coahuilense de la Juventud.
-
-Secretaría de las Mujeres al Instituto Coahuilense de las Mujeres.
-
-Comisión Estatal de Seguridad a la Secretaría de Seguridad Pública.
-
-Instituto Coahuilense del Catastro y la Información Territorial o al Registro Público del Estado de Coahuila de Zaragoza al Instituto Registral y Catastral del Estado de Coahuila de Zaragoza.
-
-DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán tramitados por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero, hasta su conclusión.
-
-DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
-
-DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+Para los efectos de esta Ley, se considera establecimiento permanente, acciones, sistema financiero, monto original de la inversión, activo fijo y gastos y cargos diferidos los que la Ley del Impuesto sobre la Renta define o considera como tales.
 
 ## TRANSITORIOS
 
@@ -1240,3 +680,27 @@ UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 D.O.F. 29 DE MARZO DE 1996.
 
 > <small>N. DE E. LAS ACTUALIZACIONES CON ANTELACION CITADAS, NO SEÑALAN DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL FEDERAL.</small>
+
+D.O.F. 10 DE MAYO DE 1996.
+
+DISPOSICIONES TRANSITORIAS DE LA LEY DEL IMPUESTO AL ACTIVO
+
+###### ARTICULO CUARTO.
+
+Para efectos de lo dispuesto por el Artículo Tercero de esta Ley, se aplicarán las siguientes disposiciones:
+
+I.- Las empresas que componen el sistema financiero podrán, a partir del ejercicio de 1996 y hasta el de 1998, realizar el acreditamiento a que se refiere el segundo párrafo del artículo 9o. de la Ley del Impuesto al Activo, considerando el impuesto sobre la renta y el impuesto al activo, causados en cada uno de los tres ejercicios anteriores al ejercicio de que se trate.
+
+El impuesto al activo que resulte después del acreditamiento a que se refiere el párrafo anterior y el primer párrafo del artículo 9o. de la Ley del Impuesto al Activo, será el impuesto a pagar en el ejercicio de que se trate, para efectos de dicha Ley.
+
+II.- Las empresas que componen el sistema financiero podrán determinar el impuesto al activo a partir del ejercicio de 1996 y hasta el de 1999, conforme a lo dispuesto por el artículo 5o.-A de la Ley del Impuesto al Activo.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE DICIEMBRE DE 1996.
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1997.
