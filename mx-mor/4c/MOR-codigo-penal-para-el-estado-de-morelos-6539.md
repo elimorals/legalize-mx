@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2002-03-06"
+last_updated: "2003-08-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO PENAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE AGOSTO DE 2003.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -825,13 +825,13 @@ Si el delito por el que se impone la publicación fue cometido a través de alg�
 
 Se ordenará igualmente la publicación, a título de reparación y por solicitud del inculpado, cuando éste fuere absuelto o se sobresea el proceso.
 
-### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
+### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
 
 ###### ARTICULO 54.
 
 Cuando la sentencia imponga una sanción que restrinja libertades o derechos o sustituya la privación de libertad o la multa, y en los demás casos que la ley previene, el tribunal dispondrá la supervisión de la autoridad sobre el sentenciado. Esta consiste en observación y orientación de la conducta del sentenciado por personal dependiente de la autoridad ejecutora, y durará el tiempo necesario para que se extinga la sanción principal impuesta al sentenciado sujeto a supervisión.
 
-### CAPITULO XVI. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS COLECTIVAS
+### CAPITULO XV. SUPERVISION DE LA AUTORIDAD
 
 ###### ARTICULO 55.
 
@@ -1795,6 +1795,8 @@ Solo se procederá contra el hostigador a petición del ofendido o de su legíti
 
 ### CAPITULO III. DESPOJO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 159.
 
 Al que tenga cópula con persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio del engaño, se le aplicará de cinco a diez años de prisión.
@@ -2087,7 +2089,7 @@ A quien a sabiendas de que es producto de abigeato, almacene, posea o transporte
 
 ###### ARTICULO 184.
 
-Se aplicará prisión de seis meses a seis años y de cien a cuatrocientos días multa, al que sin consentimiento de quien tenga derecho a otorgarlo o engañando a éste:
+Se aplicará prisión de seis a diez años y de doscientos a ochocientos días de multa, al que sin consentimiento de quien tenga derecho a otorgarlo o engañando a éste:
 
 I. Disponga de un inmueble que ha recibido a título de depositario judicial;
 
@@ -2103,11 +2105,13 @@ VI. Ejerza actos de dominio que lesionen derechos legítimos del usuario de dich
 
 Las sanciones previstas en este Capítulo se impondrán aunque los derechos posesorios sean dudosos o estén sujetos a litigio.
 
+> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2003)</small>
+
 ###### ARTICULO 185.
 
-Se incrementarán hasta en una mitad las sanciones aplicables conforme al artículo anterior, con respecto a quienes figuren como inductores en la comisión de dos o más delitos de despojo.
+Se incrementarán hasta en una mitad las sanciones aplicables conforme al artículo anterior, con respecto a quienes figuren como inductores en la comisión del delito de despojo.
 
-La misma sanción prevista en el párrafo anterior se aplicará cuando el despojo se realice por tres o más personas, o con empleo de violencia.
+La misma sanción prevista en el párrafo anterior se aplicará cuando el despojo se realice por tres o más personas, o con empleo de violencia, o se cometa en lugar despoblado.
 
 ### CAPITULO XIII. DISPOSICIONES COMUNES
 
@@ -3636,3 +3640,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de informativo del Gobierno del Estado de Morelos.
+
+P.O. 13 DE AGOSTO DE 2003.
+
+PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto en los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
