@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-organo-de-fiscalizacion-superior-del-estado-18884"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-27"
-last_updated: "2003-06-04"
+last_updated: "2004-06-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL ORGANO DE FISCALIZACION SUPERIOR DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el miércoles 27 de diciembre de 2000.
 
@@ -75,13 +75,65 @@ X. Gestión Financiera: La actividad de los Sujetos de Fiscalización respecto d
 
 XI. Gasto Público: Las erogaciones por conceptos de gasto corriente, de capital, de inversión y financiero, así como las transferencias, pagos de pasivo y de deuda pública, que los Sujetos de Fiscalización, realicen en el ejercicio de sus funciones conforme a su presupuesto de egresos en la esfera de su competencia;
 
-XII. Fiscalización Superior: Facultad conferida al Órgano de Fiscalización Superior del Estado, consistente en la revisión y fiscalización posterior de los ingresos y egresos, de las Cuentas Públicas, comprobando que se proceda conforme a las leyes y normas establecidas para el ejercicio del gasto de las haciendas públicas Estatal y Municipales relativas a la gestión financiera así como para el cumplimiento de los planes y programas y demás legislación relativa a la recaudación, planeación, programación y ejercicio de recursos públicos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XII. Fiscalización Superior: Facultad conferida al Órgano de Fiscalización Superior del Estado, consistente en la revisión y fiscalización posterior de los ingresos y egresos de las Cuentas Públicas y de los informes de avance de gestión financiera, comprobando que se proceda conforme a las leyes y normas establecidas para el ejercicio del gasto de las haciendas públicas Estatal y Municipales relativas a la gestión financiera así como para el cumplimiento de los planes y programas y demás legislación relativa a la recaudación, planeación, programación y ejercicio de recursos públicos;
 
 XIII. Informe del Resultado: Informe del resultado de la revisión y fiscalización de las Cuentas Públicas que el Órgano, por conducto de la Comisión, presenta al Congreso;
 
 XIV. Programas: Los contenidos en los presupuestos aprobados a los que se sujeta la Gestión o actividad de los Sujetos de Fiscalización;
 
 XV. Servidores públicos: Los que se consideran como tales en la Constitución Política del Estado de Nayarit y en la Ley de Responsabilidades de los Servidores Públicos del Estado.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XVI. Informe de Avance de Gestión Financiera: El Informe, que como parte integrante de la Cuenta Pública, rinden los Sujetos de Fiscalización de manera consolidada sobre los avances físicos y financieros de los programas aprobados en los presupuestos respectivos, a fin de que el Órgano de Fiscalización Superior fiscalice en forma posterior a la conclusión de los procesos correspondientes, los ingresos y egresos; el manejo, la custodia y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XVII. Proceso concluido: Aquél que los sujetos de fiscalización reporten como tal, en el Informe de Avance de Gestión Financiera, con base en los Informes de Gasto Devengado, de acuerdo a la estructura programática autorizada;
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XVIII. Informes de Gasto Devengado: Informe que refleja el pasivo que presenta un gasto ejercido en o antes de una fecha determinada, pagadero en fecha futura.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XIX. Gasto Ejercido: Es la parte del presupuesto autorizado que se gasta con cargo al ejercicio en curso, independientemente de que el pago se realice en el mismo ejercicio o en el siguiente.
+
+> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XX.- Principios Básicos de Contabilidad Gubernamental: Fundamentos esenciales de carácter obligatorio para los sujetos de fiscalización creados por ley o decreto y que deben emplearse para el registro de sus operaciones y la presentación de los correspondientes estados financieros, presupuestales, programáticos y económicos, que consisten en:
+
+Ente.- Toda dependencia o entidad pública, estatal o municipal con existencia propia e independiente que haya sido creada por ley o decreto.
+
+Base de Registro.- Los gastos deben ser reconocidos y registrados en el momento en que se devenguen y los ingresos cuando se realicen.
+
+Cuantificación en Términos Monetarios.- Los derechos, obligaciones y en general las operaciones que realicen los entes, serán registrados en moneda nacional.
+
+Periodo Contable.- La vida del ente se dividirá en periodos uniformes para efectos de registro de las operaciones y de la información acerca de las mismas.
+
+Costo Histórico.- Los bienes se deben de registrar a su costo de adquisición o a su valor estimado, en caso de que sean producto de una donación o adjudicación.
+
+Existencia Permanente.- Se considera que el ente tiene vida permanente, salvo modificación posterior de la ley o decreto que lo creó en la que se especifique lo contrario.
+
+Control Presupuestario.- Corresponde al sistema contable el registro presupuestario de los ingresos y egresos comprendidos en el presupuesto del ente, así como su vinculación con el avance físico y financiero de los proyectos programados.
+
+Revelación Suficiente.- Los estados financieros presupuestales y patrimoniales, deben incluir la información suficiente para mostrar amplia y claramente la situación financiera presupuestal y patrimonial del ente.
+
+Integración de la Información.- Cuando se integren informes financieros independientes en uno solo, deben eliminarse las operaciones efectuadas entre las distintas unidades o entes y los estados financieros no deben reflejar superávit o déficit originados entre ellas.
+
+Importancia Relativa.- Los estados financieros, presupuestales, patrimoniales, deben revelar todas las partidas que son de suficiente importancia para efectuar las evaluaciones o tomar decisiones.
+
+Consistencia.- Las políticas, métodos de cuantificación y procedimientos contables deben de ser los apropiados para reflejar la situación del ente, debiendo aplicarse con criterio uniforme a lo largo de un periodo a otro.
+
+Cumplimiento de Disposiciones Legales.- El ente debe observar las disposiciones legales que le sean aplicables en toda transacción, en su registro, comprobación y en general en cualquier aspecto relacionado con el sistema contable presupuestal.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+###### Artículo 4º.
+
+La fiscalización superior se realizará en forma posterior a la presentación de las Cuentas Públicas, y de los Informes de Avance de Gestión Financiera de manera externa, independiente y autónoma de cualquier forma de control interno de los sujetos de fiscalización.
 
 ###### Artículo 4.
 
@@ -115,9 +167,13 @@ La interpretación y aplicación de esta Ley, estará a cargo del Congreso, la C
 
 El Órgano será competente para:
 
-I. Fiscalizar las Cuentas Públicas, los ingresos, egresos, deuda, activos, patrimonio, el manejo, custodia y aplicación de los fondos, recursos de los Sujetos de Fiscalización así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
 
-II. Verificar, en forma posterior a la presentación de las Cuentas, si la Gestión Financiera y el ejercicio del Gasto Público de los Sujetos de fiscalización, se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+I. Fiscalizar las Cuentas Públicas, los ingresos, egresos, deuda, activos, patrimonio, el manejo, custodia y aplicación de los fondos, recursos de los Sujetos de Fiscalización así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos conforme a los indicadores estratégicos aprobados en el presupuesto, a efecto de verificar el desempeño de los mismos y la legalidad en el uso de los recursos públicos;
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+II. Verificar, en forma posterior a la presentación de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera, si su gestión y el ejercicio del gasto público de los Sujetos de Fiscalización, se efectuaron conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad, obligaciones fiscales y laborales, contratación de servicios personales y generales, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
 III. Comprobar y verificar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los Sujetos de fiscalización celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las Haciendas Públicas Estatal y Municipales así como al patrimonio de los demás Sujetos de fiscalización;
 
@@ -127,7 +183,9 @@ V. Verificar obras en proceso o ejecutadas, bienes adquiridos y servicios contra
 
 VI. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los Sujetos de Fiscalización, hayan recibido, u otorgado con cargo a su presupuesto, a municipios, particulares y en general a cualquier persona pública o privada, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
-VII. Establecer los criterios respecto de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sean presentadas, en los términos de ley;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+VII. Establecer los criterios respecto de las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas y de los Informes de Avance de Gestión Financiera verificando que sean presentadas, en los términos de ley;
 
 VIII. Establecer las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la práctica idónea de la fiscalización, auditorías y revisiones;
 
@@ -251,7 +309,9 @@ I. Representar legalmente al Órgano e intervenir en toda clase de juicios en qu
 
 II. Elaborar el proyecto de presupuesto anual del Órgano y remitirlo al Congreso del Estado por conducto de la Comisión para su inclusión en el Proyecto de Presupuesto de Egresos del Estado;
 
-III. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, dentro de los veinte días posteriores al trimestre que corresponda su ejercicio por conducto de la Comisión;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+III. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, por conducto de la Comisión;
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -297,11 +357,13 @@ XXI. Promover ante las autoridades competentes el fincamiento de otras responsab
 
 XXII. Solicitar ante las autoridades competentes el cobro de las multas y sanciones resarcitorias que se impongan en los términos de esta Ley;
 
-XXIII. Condonar total o parcialmente las multas impuestas en el cumplimiento de sus funciones; debiendo informar a la Comisión de los motivos considerados para su otorgamiento; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+XXIII. Condonar total o parcialmente las multas impuestas en el cumplimiento de sus funciones; debiendo informar a la Comisión de los motivos considerados para su otorgamiento;
 
-XXIV. Expedir los criterios generales de auditoría que deberán seguir los órganos de control interno de los sujetos de fiscalización; y
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+XXIV. Emitir mediante acuerdo las actualizaciones a los Principios Básicos de Contabilidad Gubernamental adicionales a los que ya se establecen en esta ley que se estimen necesarios para garantizar que la ejecución y registro de las operaciones de los sujetos de fiscalización y que faciliten la transparencia del gasto público y la eficiencia en su fiscalización. El Auditor General al efecto de emitir las actualizaciones correspondientes podrá consultar a los colegios profesionales que existan en el estado y a los sujetos de fiscalización; y
 
 > <small>(ADICIONADA, P.O. 4 DE JUNIO DE 2003)</small>
 
@@ -469,7 +531,9 @@ La Comisión coordinará y evaluará el funcionamiento del Órgano y tendrá las
 
 I. Ser el conducto de comunicación entre el Congreso y el Órgano;
 
-II. Recibir del Congreso o, en su caso, de la Diputación Permanente sus Cuentas Públicas y turnarlas al Órgano;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+II. Recibir del Congreso o, en su caso, de la Diputación Permanente su Cuenta Pública y los Informes de Avance de Gestión Financiera y turnarlos al Órgano;
 
 III. Recibir el Informe de Resultado que presente el Órgano y emitir el dictamen correspondiente, y turnarlo al Pleno del Congreso;
 
@@ -523,13 +587,21 @@ Analizados los elementos aportados por las partes, si la Comisión, por votació
 
 Los Sujetos de fiscalización tendrán la facultad de formular queja ante la Comisión sobre los actos del Auditor General o Auditores Especiales del Órgano que contravengan las disposiciones de esta ley, en cuyo caso, la Comisión substanciará la investigación preliminar a fin de determinar si se actualiza alguna de las hipótesis a que se refiere el artículo 20 de esta ley, así como si ha lugar o no a iniciar el procedimiento previsto en los dos artículos anteriores, o los procedimientos previsto (sic) en la Ley de Responsabilidades de los Servidores Públicos.
 
-### CAPÍTULO IV. DE LAS CUENTAS PÚBLICAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO IV. DE LAS CUENTAS PÚBLICAS Y DE LOS
+
+INFORMES DE AVANCE DE GESTIÓN FINANCIERA
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 33.
 
-Para los efectos de esta ley, la Cuenta Pública se constituirá por:
+Para los efectos de esta ley, la Cuenta Pública y los Informes de Avance de Gestión Financiera se constituirán por:
 
-I. El estado analítico de ingresos y egresos, los estados programáticos, presupuestarios, financieros, económicos, contables consolidados y analíticos que muestren el registro de las operaciones derivadas de la aplicación de las leyes de ingresos y del ejercicio de los Presupuestos de Egresos del Estado y de los Municipios en su caso;
+A.- La Cuenta Pública:
+
+I. El estado analítico de ingresos y egresos, los estados programáticos, presupuestarios, financieros, económicos, contables consolidados y analíticos que muestren el registro de las operaciones derivadas de la aplicación de las leyes de ingresos y del ejercicio de los Presupuestos de Egresos del Estado y de los Municipios, en su caso;
 
 II. Los programas y sus avances;
 
@@ -539,9 +611,21 @@ IV. El estado analítico de deuda pública directa y contingente; y
 
 V. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
 
+B.- Los Informes de Avance de Gestión Financiera se referirán a los programas a cargo de los Sujetos de Fiscalización, para conocer el grado de cumplimiento de los objetivos, metas y satisfacción de necesidades en ellos proyectados y que como parte integrante de la Cuenta Pública deben contener:
+
+I. El flujo contable de ingresos y egresos al término de cada trimestre del que se informe;
+
+II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en los presupuestos correspondientes a cada sujeto de fiscalización;
+
+III. Los procesos concluidos; y
+
+IV. Los demás estados complementarios y aclaratorios, documentos e información general que a juicio del Órgano, sean indispensables para el análisis de resultados.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### Artículo 34.
 
-Las Cuentas Públicas serán presentadas por los Sujetos de fiscalización al Congreso, en términos de ley, a través del Órgano, el cual deberá remitir el Informe del Resultado por conducto de la Comisión.
+Las Cuentas Públicas y los Informes de Avance de Gestión Financiera serán presentados por los Sujetos de fiscalización al Congreso, en términos de esta ley, a través del Órgano, el cual deberá remitir el Informe del Resultado por conducto de la Comisión.
 
 ###### Artículo 35.
 
@@ -559,43 +643,51 @@ El Órgano conservará en su poder las Cuentas Públicas, mientras sean exigible
 
 Los Sujetos de fiscalización tendrán la obligación de conservar en su poder durante cinco años, los libros, registros de contabilidad y la información financiera correspondiente, así como los documentos justificativos y comprobatorios de la cuenta de la Hacienda Pública, mientras no prescriban las acciones derivadas de las operaciones en ellos consignadas, computándose el término a partir de que el Congreso del Estado haya decretado la conclusión de la revisión de la cuenta de la Hacienda Pública del ejercicio fiscal con la respectiva publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+
 ### CAPÍTULO V. DE LA PRESENTACIÓN DE LAS CUENTAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+Y DE LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 38.
 
-La presentación de las cuentas públicas será trimestral a partir del primer día del año fiscal correspondiente y deberá sujetarse a lo siguiente:
+La presentación de las cuentas públicas y de los informes de avance de gestión financiera deberá sujetarse a lo siguiente:
 
-I. Las Cuentas Públicas deberán entregarse, dentro del plazo de 30 días siguientes, contados a partir del último día del trimestre del que se informe;
+I. Las Cuentas Públicas se presentarán anualmente, dentro de los 45 días naturales siguientes al último día del ejercicio fiscal del que se informe;
 
-II. Las Cuentas Públicas relativas al último trimestre deberán presentarse dentro los de los 45 días siguientes contados a partir del último día del trimestre del ejercicio fiscal correspondiente, en el cual los sujetos de fiscalización deberán presentar un informe consolidado y analítico, relativo a los tres trimestres anteriores del ejercicio del que se informe.
+II. Los Informes de Avance de Gestión Financiera comprenderán información relativa a los meses de enero a marzo, de abril a junio, y de julio a septiembre y deberán presentarse dentro de los treinta días naturales posteriores al último día del trimestre del que se informe. La información relativa al periodo de octubre a diciembre se presentará dentro de los cuarenta y cinco días posteriores al ejercicio del que se informe.
 
-III. En el ejercicio fiscal en el que se realice el relevo constitucional de los titulares de los Poderes o de los integrantes de los Ayuntamientos, la Cuenta Pública del trimestre de transmisión la remitirá la administración entrante;
-
-IV. En la remisión de la cuenta pública del Poder Ejecutivo y en las de los Ayuntamientos deberá incluirse, de manera consolidada, la información correspondiente a sus organismos públicos descentralizados, fideicomisos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
+III. En la remisión de la Cuenta Pública y de los Informes de Avance de Gestión Financiera del Poder Ejecutivo y en las de los Ayuntamientos se incluirá de manera consolidada y analítica, la información correspondiente a sus organismos públicos descentralizados, fideicomisos, fondos y empresas de participación estatal o municipal, según sea el caso, así como de las personas físicas o morales que hayan recibido recursos públicos con cargo a sus respectivos erarios.
 
 A fin de dar cumplimiento a lo establecido en el párrafo anterior, los titulares de las entidades de la administración pública estatal y municipal, harán llegar con la debida anticipación al Ejecutivo Estatal o al Ayuntamiento, según corresponda, por conducto de la Secretaría de Finanzas o de la Tesorería Municipal, la información y documentación correspondiente.
 
-Para tal efecto, la Secretaría de Finanzas y la Tesorería Municipal, podrán solicitar en el ámbito de sus competencias, a las entidades estatales o municipales, la información adicional que estimen necesaria para cumplir en tiempo y forma con la remisión de la cuenta pública.
+Para tal efecto, la Secretaría de Finanzas y la dependencia municipal competente, podrán requerir en el ámbito de sus competencias, a las entidades estatales o municipales, la información adicional que estimen necesaria para cumplir en tiempo y forma con la presentación de la cuenta pública y de los Informes de Avance de Gestión Financiera.
 
-V.- En el caso de los Poderes Legislativo y Judicial así como de los demás entes públicos la remisión de sus cuentas públicas deberá presentarse directamente al Congreso por conducto del Organo, en los términos de esta ley.
+IV. En el caso de los Poderes Legislativo y Judicial así como de los demás entes públicos la remisión de sus cuentas públicas y de los Informes de Avance de Gestión Financiera se presentará directamente al Congreso por conducto del Órgano, en los términos de esta ley.
 
-VI. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública, cuando medie solicitud del titular del sujeto fiscalizado suficientemente justificada a juicio de la Comisión de Hacienda, debiendo comparecer por escrito en todo caso, el titular de la dependencia correspondiente a informar de las razones que lo motiven. En ningún caso la prórroga excederá de treinta días naturales.
+V. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública y de los Informes de Avance de Gestión Financiera, cuando medie solicitud del titular del sujeto fiscalizado en la que a juicio de la Comisión, se justifique dicha ampliación; en todo caso, el titular de la dependencia correspondiente del manejo financiero deberá comparecer ante la Comisión a informar de las razones que motiven su solicitud. En ningún caso la prórroga excederá de treinta días naturales.
 
-VII. La falta de la presentación de las cuentas públicas en los plazos establecidos en este artículo será causa de responsabilidad en los términos de ley.
+VI. La falta de la presentación injustificada de la Cuenta Pública y de los Informes de Avance de Gestión Financiera en los plazos establecidos en este artículo será causa de responsabilidad en los términos de ley.
 
-Cuando las cuentas públicas cuenten con un retraso en su presentación de dos trimestres sin que medie justificación válida alguna, el Órgano promoverá las acciones de responsabilidad en contra de los titulares de los sujetos de fiscalización en los términos de las leyes de la materia, debiéndose notificar de dicha circunstancia al Congreso por conducto de la Comisión.
+Cuando la Cuenta Pública y los Informes de Avance de Gestión Financiera cuenten con un retraso en su presentación superior a los quince días sin que medie justificación procedente, el Órgano promoverá las acciones de responsabilidad en contra de los titulares de los sujetos de fiscalización en los términos de las leyes de la materia, debiéndose notificar de dicha circunstancia al Congreso por conducto de la Comisión.
 
-### CAPÍTULO VI. DE LA REVISIÓN DE LAS CUENTAS DE LA HACIENDA PÚBLICA ESTATAL Y MUNICIPAL Y DE LOS DEMÁS SUJETOS DE FISCALIZACIÓN
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO VI. DE LA REVISIÓN DE LA CUENTA PÚBLICA Y DE
+
+LOS INFORMES DE AVANCE DE GESTIÓN FINANCIERA
 
 ###### Artículo 39.
 
 El Órgano, para revisar las Cuentas Públicas, establecerá las normas, procedimientos, métodos y sistemas de auditoría y fiscalización y promoverá la elaboración de los manuales correspondientes para su aplicación interna.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### Artículo 40.
 
-El Órgano, para el cumplimiento de las atribuciones que le confieren la Constitución del Estado y esta Ley, tiene plenas facultades para fiscalizar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones, auditorías y en general, recabar los elementos de información necesarios para cumplir con sus funciones; para tal efecto, podrá servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos, aplicando en su caso, técnicas y procedimientos de auditoría y periciales.
+El Órgano, para el cumplimiento de las atribuciones que le confieren la Constitución del Estado y esta ley, tiene plenas facultades para fiscalizar toda clase de libros, instrumentos, documentos y objetos, practicar visitas, inspecciones, auditorías y en general, recabar los elementos de información necesarios para cumplir con sus funciones; para tal efecto, podrá citar a comparecer en forma personal ante él a personas vinculadas con el manejo y la aplicación del gasto público y en general servirse de cualquier medio lícito que conduzca al esclarecimiento de los hechos, aplicando en su caso, técnicas y procedimientos de auditoría y periciales.
 
 Podrá, igualmente, determinar qué sujetos de fiscalización deben presentar su cuenta pública, dictaminada por contador público externo u otro profesional autorizado según los requerimientos que establezca la Comisión. En todo caso, ésta, podrá por sí misma proceder a la práctica de auditorías, cuando existan elementos de juicio que acrediten su intervención.
 
@@ -671,21 +763,31 @@ III. Revisar si las entidades alcanzaron con eficacia los objetivos y metas fija
 
 A solicitud del Órgano, los sujetos de fiscalización le informarán de los actos y convenios de los que les resulten derechos y obligaciones, con objeto de verificar si de sus términos y condiciones pudieran derivarse daños y perjuicios en contra de la hacienda pública estatal o municipal que impliquen incumplimiento de alguna ley relacionada con la materia.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### Artículo 49.
 
-Los sujetos de fiscalización están obligados a proporcionar la información y documentación que les solicite el órgano y a permitir la práctica de visitas, inspecciones y auditorías necesarias para el esclarecimiento de los hechos.
+El Órgano, en ejercicio de sus facultades de fiscalización, podrá realizar visitas, inspecciones y auditorías durante el ejercicio fiscal en curso, respecto de los procesos reportados como concluidos en los Informes de Avance de Gestión Financiera; en caso contrario, sólo podrá realizar dichas actuaciones a partir de la presentación de la Cuenta Pública. Al efecto, los titulares de los sujetos de fiscalización y los de sus respectivas dependencias están obligados a proporcionar la información y documentación que les solicite el órgano y a permitir la práctica de revisiones necesarias para el esclarecimiento de los hechos.
 
-Si se negaren a proporcionar la información o documentación solicitada o no permitieran la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, la práctica de visitas, inspecciones y auditorías, ésta lo hará del conocimiento del Congreso del Estado por conducto de la Comisión, para fincar las responsabilidades procedentes conforme a la ley.
+La negativa a proporcionar la información o documentación solicitada por el Órgano o a permitirle la revisión o fiscalización de los libros, instrumentos y documentos de fiscalización comprobatorios y justificativos del ingreso y del gasto público, así como la obstaculización a la práctica de visitas, inspecciones y auditorías será causa de responsabilidad grave la cual será sancionada conforme a la ley. El Órgano por conducto de la Comisión hará del conocimiento del Congreso la relación de servidores públicos que incurran en alguna de las acciones descritas a efecto de instruir los procedimientos disciplinarios que en el ejercicio de sus atribuciones le corresponda determinar.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 50.
 
-Respecto de la cuenta pública correspondiente a los tres primeros trimestres del ejercicio fiscal del que se trate, el Órgano podrá realizar observaciones, disponiendo los sujetos de fiscalización de veinte días hábiles para presentar las solventaciones que procedan.
+Respecto de la Cuenta Pública y de los Informes de Avance de Gestión Financiera, el Órgano podrá realizar observaciones, disponiendo los Sujetos de Fiscalización de veinte días naturales para presentar los argumentos, documentos y comentarios que se estimen pertinentes.
 
-En todo caso, las observaciones a que se refiere el párrafo anterior, inclusive las que se generen para el cuarto trimestre, deberán notificarse a los sujetos de fiscalización a más tardar el 31 de agosto del año siguiente al ejercicio fiscal revisado, con el propósito de que sus comentarios se integren al Informe del Resultado de la revisión de la Cuenta Pública correspondiente.
+En todo caso, las observaciones a que se refiere el párrafo anterior, deberán notificarse a los sujetos de fiscalización a más tardar el 31 de agosto del año siguiente al ejercicio fiscal revisado. Los argumentos que se presenten en todo caso, deberán formar parte del Informe del Resultado de la revisión de la Cuenta Pública correspondiente.
 
-El Órgano podrá revisar información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al que se fiscalice; cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales o existan elementos supervinientes que a juicio del Órgano presupongan la existencia de daños o perjuicios al erario público estatal o municipal cometidos en ejercicios anteriores al que se fiscalice en tanto no prescriban las facultades de fiscalización del Organo.
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+Artículo 50 bis.- La fiscalización del Informe de Avance de Gestión Financiera y de la Cuenta Pública está limitada al principio de anualidad a que se refiere el artículo 121 de la Constitución Política del Estado de Nayarit; por lo que un proceso que abarque en su ejecución dos o más ejercicios fiscales, podrá ser revisado y fiscalizado anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse la Cuenta Pública; lo mismo ocurrirá cuando el proceso se declare como concluido. La revisión de conceptos ya fiscalizados con motivo del Informe de Avance de Gestión Financiera, no deberá duplicarse a partir de la revisión de la Cuenta Pública salvo que dicho proceso no haya sido objeto de fiscalización por parte del Órgano.
+
+Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, el Órgano podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al de la Cuenta Pública en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales.
+
+Igualmente, podrá revisar información y documentos relacionados con conceptos específicos de gasto correspondientes a ejercicios anteriores al que se fiscalice; cuando existan elementos que a juicio del Órgano presupongan la existencia de daños o perjuicios al erario público estatal o municipal, en tanto no prescriban las facultades del Órgano para determinar responsabilidades resarcitorias.
+
+Bajo ninguna circunstancia las hipótesis referidas en los dos párrafos anteriores presupondrán abierta, para todos los efectos legales, nuevamente la Cuenta Pública del ejercicio correspondiente a la revisión específica señalada.
 
 ### CAPÍTULO VII. DEL INFORME DEL RESULTADO
 
@@ -694,6 +796,10 @@ El Órgano podrá revisar información y documentos relacionados con conceptos e
 ###### Artículo 51.
 
 El Órgano presentará al Congreso, por conducto de la Comisión, el Informe del Resultado, a más tardar el día 15 del mes de noviembre del año siguiente al que se fiscalice, mismo que tendrá carácter público y mientras ello no suceda, el Órgano deberá guardar reserva de sus actuaciones e informaciones.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+A petición del Órgano, por causa justificada, el Congreso podrá autorizar se prorrogue la presentación del Informe del Resultado debiendo mediar dictamen de la Comisión.
 
 ###### Artículo 52.
 
@@ -721,21 +827,33 @@ El Órgano, en el informe del resultado, dará cuenta al Congreso de los pliegos
 
 #### SECCIÓN PRIMERA. De la Determinación de Daños y Perjuicios
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 54.
 
-Si de la Fiscalización de las Cuentas Públicas, inclusive las que apruebe el Congreso, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal o municipales, al patrimonio de las entidades paraestatales, paramunicipales o al de los Entes Públicos, el Órgano procederá de inmediato a :
+Si de la fiscalización de las Cuentas Públicas, inclusive las que apruebe el Congreso, aparecieran irregularidades que permitan presumir la existencia de hechos o conductas que produzcan daños y perjuicios en contra de las Haciendas Públicas estatal o municipales, al patrimonio de las entidades paraestatales, paramunicipales o al de los Entes Públicos, el Órgano procederá de inmediato a:
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
 I. Establecer la presunción de responsabilidades a través del acuerdo que se dicte, así como el señalamiento de presuntos responsables y la determinación del monto de los daños y perjuicios correspondientes fincando directamente a los responsables el importe para resarcir el daño, así como las indemnizaciones y sanciones pecuniarias respectivas;
 
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
+
 II. Promover las acciones de responsabilidad a que se refiere el Título Octavo de la Constitución Política del Estado y la ley de la materia;
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
 III. Presentar las denuncias y querellas penales, en cuyos procedimientos tendrá la intervención a que haya lugar;
 
-IV. Coadyuvar con el Ministerio Público en las investigaciones y procesos penales correspondientes. En estos casos, el Ministerio Público recabará previamente la opinión del Órgano, respecto de las resoluciones que dicte sobre el no ejercicio o el desistimiento de la acción penal;
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+IV. Coadyuvar con el Ministerio Público y sus agentes en las investigaciones y procesos penales correspondientes. A efecto de garantizar la reparación del daño al erario público estatal y municipal, en las denuncias y querellas penales promovidas por el Órgano, éste tendrá el carácter de ofendido pudiendo promover las acciones procedentes conforme a derecho, sin perjuicio de las que directamente promuevan los sujetos de fiscalización.
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
 V. Promover ante las autoridades competentes el fincamiento de otras responsabilidades; y
+
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
 VI. Promover las quejas o denuncias en contra de aquellos servidores públicos que debiendo conocer los hechos denunciados por el órgano omitan resolver sobre los mismos.
 
@@ -809,7 +927,13 @@ I. Se citará personalmente al presunto o presuntos responsables a una audiencia
 
 Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
 
-II. Celebrada la audiencia, el presunto responsable contará con cinco días hábiles para ofrecer pruebas; vencido este plazo, se citará a la audiencia de desahogo de pruebas que podrá diferirse por una sola vez, en la cual se dictará fecha para recibir alegatos por escrito;
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+Al momento de comparecer, los presuntos responsables, deberán señalar domicilio en la capital del estado para recibir cualquier notificación, de lo contrario las subsecuentes se realizarán en los estrados del Órgano.
+
+> <small>(REFORMADA, P.O. 16 DE JUNIO DE 2004)</small>
+
+II. Celebrada la audiencia, el probable responsable contará con cinco días hábiles para ofrecer pruebas; vencido este plazo, conforme a las pruebas ofrecidas y admitidas las que procedan; se citará a la audiencia de desahogo de pruebas dentro de los diez días hábiles siguientes, misma que podrá diferirse por una sola vez, en la cual se dictará fecha para recibir alegatos por escrito.
 
 III. Se emitirá resolución dentro de los treinta días hábiles siguientes a la audiencia de alegatos; en la resolución, se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a el o los sujetos responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría de Finanzas o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del sujeto de Fiscalización y al órgano de control interno respectivo;
 
@@ -949,21 +1073,57 @@ El Organo contará con un Instituto de Capacitación y Desarrollo en Fiscalizaci
 
 Para el cumplimiento de sus fines, el Instituto de Capacitación y Desarrollo en Fiscalización Superior, dispondrá del presupuesto que se le asigne anualmente, así como de los ingresos autogenerados que obtenga por la recuperación de cuotas por los servicios que preste y otras actividades que realice relacionadas con sus objetivos.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE JUNIO DE 2004)</small>
+
+### CAPÍTULO XIII. DE LA REVISIÓN DE SITUACIONES EXCEPCIONALES
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
+
 ###### Artículo 81.
 
-(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+Para los efectos de lo previsto en el párrafo tercero de la fracción I, del artículo 121 de la Constitución Política del Estado de Nayarit, cuando se presenten denuncias sustentadas en pruebas de las cuales pueda inferirse el probable manejo, aplicación o custodia irregular de recursos públicos estatales o municipales, o de su desvío; el Órgano, una vez valorada la denuncia estará facultada para proceder a requerir a los Sujetos de Fiscalización, revisiones de conceptos específicos vinculados de manera directa a las denuncias presentadas.
+
+En el requerimiento se deberá expresar el motivo que lo origine y los indicios probatorios razonables, mediante los cuales se presuma que la irregularidad cometida ocasionó un daño al Estado o a los municipios en su hacienda pública.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 82.
 
-(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+Los sujetos de fiscalización, deberán rendir al Órgano, en un plazo que no excederá de veinte días naturales contados a partir de la recepción del requerimiento, un informe respecto a los hechos que se denuncien, el resultado de sus actuaciones, el nombre de los servidores públicos que pudieran resultar involucrados y, en su caso, las sanciones que se les hubieren impuesto o a las que se hubieren hecho acreedores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 83.
 
-(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+Para los efectos de esta ley, se entenderá por situaciones excepcionales aquéllas en las cuales, de la denuncia que al efecto se presente, se deduzca al menos alguna probable responsabilidad en las circunstancias siguientes:
+
+a) Un daño patrimonial que afecte a la hacienda pública estatal, por un monto que resulte superior a diez mil veces el salario mínimo diario general vigente en el estado;
+
+b) Un daño patrimonial que afecte a la hacienda pública de algún municipio, por un monto que resulte superior a seis mil veces el salario mínimo diario general vigente en el estado;
+
+c) Hechos que impliquen la comisión de probables conductas delictivas;
+
+d) La afectación de áreas estratégicas o prioritarias de la economía del estado o de los municipios;
+
+e) El riesgo de que se paralice la prestación de servicios o funciones públicas esenciales para la comunidad, y/o
+
+f) El uso de recursos financieros para fines distintos a los autorizados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE JUNIO DE 2004)</small>
 
 ###### Artículo 84.
 
-(DEROGADO, P.O. 4 DE JUNIO DE 2003)
+Los Sujetos de Fiscalización estarán obligados a realizar la revisión que el Órgano les requiera y a rendir el informe, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que conforme a la ley competa a las autoridades y a los servidores públicos de los Poderes del Estado, los Ayuntamientos y de los demás entes públicos estatales y municipales.
+
+> <small>(ADICIONADO, P.O. 16 DE JUNIO DE 2004)</small>
+
+###### Artículo 85.
+
+Si transcurrido el plazo señalado en el artículo 82 de esta ley, el Sujeto de Fiscalización, sin causa justificada, no presenta el informe a que el mismo numeral se refiere, el Órgano procederá a fincar las responsabilidades que correspondan, y a imponer a los servidores públicos responsables de la omisión una sanción en los términos del artículo 7º bis de esta ley.
+
+El fincamiento de responsabilidades y la imposición de sanciones no relevará al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
+
+Lo dispuesto en el presente capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes fueren aplicables.
 
 T R A N S I T O R I O S
 
@@ -1034,3 +1194,17 @@ A efecto de dar cumplimiento al artículo 204 de la Ley Municipal para el Estado
 ###### ARTÍCULO QUINTO.
 
 El reglamento al que hace referencia la presente ley, deberá expedirse a más tardar en noventa días a partir de la entrada en vigor del presente decreto.
+
+P.O. 16 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto de reformas a la Ley del Órgano de Fiscalización Superior del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la disposición contenida en la fracción III del artículo 38, los Ayuntamientos contarán con un plazo no mayor de treinta días después de la entrada en vigor de la presente reforma para que adecuen la normatividad reglamentaria correspondiente.
+
+###### ARTÍCULO TERCERO.
+
+Los Presupuestos de Egresos de los Sujetos de Fiscalización que a la fecha de entrada en vigor de este decreto no cuenten con indicadores estratégicos que permitan evaluar el cumplimiento de los objetivos de los programas contenidos en dichos presupuestos, deberán incluirse en los distintos presupuestos de egresos vigentes a partir del ejercicio fiscal 2005.
