@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-clasificacion-de-titulos-contenidos-y-22248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-23"
-last_updated: "2001-10-23"
+last_updated: "2003-11-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22248&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "2001-08-30"
 
 REGLAMENTO DE CLASIFICACION DE TITULOS, CONTENIDOS Y OPERACION DE VIDEOJUEGOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO PARA LA OPERACION DE VIDEOJUEGOS EN EL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 18 DE NOVIEMBRE DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal el martes 23 de octubre de 2001.
 
@@ -231,3 +233,21 @@ TERCERO. - El Catálogo de clasificación de títulos y contenidos de videojuego
 CUARTO.- Las actualizaciones y modificaciones al Catálogo de clasificación de títulos y contenidos de videojuegos, se harán trimestralmente y se publicarán en la Gaceta Oficial del Distrito Federal.
 
 Dado en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los treinta días del mes de agosto del año dos mil uno.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, JOSÉ AGUSTÍN ORTIZ PINCHETTI.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO PUBLICADOS EN LA GACETA OFICIAL DEL DISTRITO FEDERAL.</small>
+
+G.O. 18 DE NOVIEMBRE DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento de Clasificación de Títulos Contenidos y Operación de Videojuegos publicado en la Gaceta Oficial del Distrito Federal el 23 de octubre de 2001 y demás disposiciones que se opongan a lo dispuesto en el presente ordenamiento.
+
+TERCERO. Para efectos de la creación del Registro de Videojuegos a que hace referencia el artículo 50 inciso h), 52, 2. párrafo y transitorio décimo primero de la Ley, los interesados contarán con un término no mayor a 30 días hábiles, a partir de la entrada en vigor del presente Reglamento para registrar sus Videojuegos.
+
+CUARTO. A partir de que venza el término establecido en el artículo transitorio anterior, la Secretaría tendrá un plazo de 40 días hábiles para publicar en la Gaceta Oficial del Distrito Federal el Registro de Videojuegos, conforme a este Reglamento.
+
+QUINTO. Las verificaciones administrativas que tengan como objeto verificar el cumplimiento de las disposiciones contenidas en el presente Reglamento, podrán iniciar 70 días hábiles después de la publicación del mismo, sin menoscabo de que sé efectúen aquellas verificaciones que tengan como finalidad verificar el cumplimiento de los otros ordenamientos jurídicos.
+
+SEXTO. Los titulares de los Establecimientos que a la entrada en vigor del presente Reglamento operen Videojuegos, contaran con un término de 30 días hábiles contados a partir de dicha entrada en vigor, para cumplir con lo establecido en el artículo 14 del presente ordenamiento.
+
+SEPTIMO. Los formatos a que se refiere este Reglamento, deberán expedirse por la Secretaría, de conformidad con las disposiciones jurídicas y administrativas aplicables.
