@@ -4,7 +4,7 @@ identifier: "SON-constitucion-politica-del-estado-de-sonora-8504"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-15"
-last_updated: "1984-07-05"
+last_updated: "1985-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CONSTITUCION POLITICA DEL ESTADO DE SONORA, QUE REFORMA LA DE 1o. DE NOVIEMBRE DE 1872
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 1984.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE ENERO DE 1985.
 
 Constitución publicada en la Edición Oficial del Estado de Sonora, el 15 de septiembre de 1917.
 
@@ -697,6 +697,10 @@ XXIII. Para discutir, modificar, aprobar o reprobar el Presupuesto de Ingresos q
 
 XXIV. Para discutir, modificar, aprobar o reprobar anualmente las Leyes de Ingresos y Presupuestos de Ingresos de los Ayuntamientos, así como las modificaciones a dichos presupuestos.
 
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
+
+XXIV Bis. Para revisar los estados financieros a que se refiere el Artículo 136 Fracción XXIII de esta Constitución, pudiendo ordenar visitas e inspecciones, practicar auditorias, solicitar informes y, en general, recabar los elementos de información necesarios para cumplir con sus funciones.
+
 > <small>(REFORMADA, B.O. 30 DE ENERO DE 1984)</small>
 
 XXV. Para revisar anualmente las cuentas públicas del Estado del año anterior que deberá presentar el Ejecutivo y las de los Municipios que deberán presentar los Ayuntamientos. La revisión de las cuentas públicas tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en los presupuestos aprobados y analizar el cumplimiento de los objetivos y metas contenidos en los programas, a cuya ejecución se haya asignado los recursos presupuestados. Si de la glosa aparecieren discrepancias entre las cantidades ejercidas, las partidas aprobadas y las metas alcanzadas, o no existiere exactitud y justificación de los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
@@ -709,7 +713,7 @@ XXVII. Para autorizar al Ejecutivo y a los Ayuntamientos a fin de que contraigan
 
 XXVIII. Para conceder amnistías por delitos cuyo conocimiento corresponda privativamente a los Tribunales del Estado.
 
-XXIX. Para otorgar permisos o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
+XXIX. Para otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado.
 
 XXX. Para aprobar o reprobar la creación de nuevas Comisarías o suprimir las existentes, a iniciativa de los ayuntamientos correspondientes.
 
@@ -719,7 +723,13 @@ XXXI. Para expedir la ley que regulará su estructura y funcionamiento internos,
 
 La ley y los reglamentos a que se refieren los párrafos anteriores no podrán ser vetados ni necesitarán la promulgación del Ejecutivo para tener vigencia.
 
-XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su oficina de Glosa.
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
+
+XXXII. Para nombrar y remover conforme a las leyes a los empleados de su Secretaría y de su Contaduría Mayor de Hacienda.
+
+> <small>(ADICIONADA, B.O. 10 DE ENERO DE 1985)</small>
+
+XXXII Bis. Para vigilar, por medio de una comisión de su seno, el exacto desempeño de las funciones de la Contaduría Mayor de Hacienda.
 
 XXXIII. Para investir al Ejecutivo de facultades extraordinarias, por tiempo limitado y por el voto de las dos terceras partes del número total de sus miembros, en casos excepcionales y cuando así lo estime conveniente por las circunstancias especiales en que se encuentre el Estado. En tales casos se expresará con toda claridad la facultad o facultades con que se le invista y que nunca podrá ser las de organización municipal, funciones electorales y de jurado.
 
@@ -757,7 +767,7 @@ XLIII Bis. Para instituir Tribunales de lo Contencioso Administrativo dotados de
 
 También podrá instituir Tribunales de Conciliación y Arbitraje que conozcan de las controversias que surjan de la aplicación de las leyes que regulen las relaciones entre los trabajadores del Servicio Civil y los titulares de las entidades y dependencias públicas en que presten sus servicios.
 
-XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas los demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
+XLIV. Para expedir las leyes concernientes a la administración y gobierno interior del Estado en todos sus ramos, interpretarlas, aclararlas o derogarlas y hacer efectivas las facultades expuestas y todas las demás que le confieran la Constitución General de la República, esta Local y las leyes que de ellas emanen.
 
 #### SECCION VI.
 
@@ -859,9 +869,9 @@ La elección de Gobernador será popular directa, en los términos que disponga 
 
 Para ser Gobernador del Estado se requiere:
 
-> <small>(REFORMADA, B.O. 13 DE MARZO DE 1971)</small>
+> <small>(REFORMADA, B.O. 10 DE ENERO DE 1985)</small>
 
-I. Ser mexicano por nacimiento e hijo de padres mexicanos, nativo del Estado y con residencia efectiva en él no menor de tres años inmediatamente anteriores al día de la elección; y no siendo originario de Sonora tener cuando menos diez años de residencia efectiva inmediatamente anteriores al día de la elección.
+I. Ser mexicano por nacimiento, hijo de padres mexicanos y nativo del Estado; y no siendo originario de Sonora tener cuando menos cinco años de residencia efectiva inmediatamente anteriores al día de la elección.
 
 II. Ser ciudadano del Estado en pleno ejercicio de sus derechos políticos.
 
@@ -1883,7 +1893,9 @@ Los cargos o empleos públicos no son, ni pueden ser en el Estado, propiedad o p
 
 Toda persona adquiere la vecindad si reside de manera efectiva, durante dos años en algún lugar del territorio del Estado y ejerce alguna profesión, arte, industria, empleo o actividad productiva y honorable.
 
-Quienes teniendo la residencia y vecinada (sic) se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal según el caso o cargos de representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos a que se refieren los Artículos 9 Fracción II, 33 Fracción III, 70 Fracción I, 114 Fracción I y 132 Fracción II de esta Constitución.
+> <small>(REFORMADO, B.O. 10 DE ENERO DE 1985)</small>
+
+Quienes teniendo la residencia y vecindad se ausentaren del lugar de su residencia para desempeñar cargos de elección popular, siempre y cuando ejerzan precisamente el mandato conferido por el pueblo, o para prestar o desempeñar cargos conferidos por el Gobierno Federal o Estatal, según el caso, o cargos de representación gremial o sindical, no perderán los beneficios de la mencionada vecindad y residencia efectiva para los efectos de los Artículos 9o. Fracción II, 33 Fracción III, 114 Fracción I y 132 Fracción II de esta Constitución.
 
 > <small>(REFORMADO, B.O. 5 DE MAYO DE 1954)</small>
 
@@ -2332,6 +2344,18 @@ LEY No. 59, QUE REFORMA DIVERSOS ARTICULOS DE LA CONSTITUCION.
 ###### ARTICULO UNICO.
 
 La presente Ley entrará en vigor al día siguiente de su Publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ENERO DE 1985.
+
+LEY No. 97, QUE REFORMA EL ARTICULO 64 DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 10 DE ENERO DE 1985.
+
+LEY No. 98, QUE REFORMA LOS ARTICULOS 70 Y 156 DE LA CONSTITUCION.
+
+UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 74.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL PARA LA SUSTENTABILIDAD DEL ESTADO DE DURANGO".]
 
