@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2003-03-20"
+last_updated: "2003-08-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -693,6 +693,20 @@ El aguinaldo se cubrirá proporcionalmente tomando en cuenta las faltas de asist
 
 Los servidores públicos que no hayan cumplido un año de labores tendrán derecho a que se les pague esta prestación, en proporción al tiempo efectivamente trabajado.
 
+> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2003)</small>
+
+Art. 54 bis. Los titulares y servidores públicos de las entidades y dependencias señaladas en el artículo 1º de esta Ley, podrán recibir incentivos, bonos o compensaciones los que deberán sujetarse a lo previsto en el Presupuesto de Egresos que corresponda. Dichos incentivos, o bonos o compensaciones, deberán ser equitativos conforme a las categorías y niveles existentes en las plantillas de servidores públicos de cada dependencia o entidad.
+
+El otorgamiento de estos beneficios se sujetará a lo siguiente:
+
+I. Los incentivos, bonos o compensaciones que se entreguen a los servidores públicos, en ningún caso podrán ser superiores al salario mensual que perciban;
+
+II. Las entidades y dependencias deberán tomar en cuenta la puntualidad, asistencia y productividad, además de otros criterios y condiciones que establezcan claramente en sus respectivos ordenamientos internos, para que los servidores públicos puedan ser merecedores de los incentivos, bonos o compensaciones, los cuales se otorgarán una sola vez por año; y,
+
+III. El pago de estos beneficios deberá registrarse en el recibo de nómina del servidor público que corresponda.
+
+Los servidores públicos que otorguen o reciban estos beneficios en contravención al presente artículo será (sic) sancionado de conformidad a lo establecido en la Ley de Responsabilidades para los Servidores Públicos en el Estado de Jalisco.
+
 ### CAPITULO V. De las obligaciones de los servidores públicos
 
 ### CAPITULO I. De las obligaciones de las entidades públicas
@@ -735,7 +749,7 @@ XVI. Comunicar por escrito al titular de la Dependencia o Entidad de la que pres
 
 XVII. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el período para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
 
-XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días contínuos o treinta discontinuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
+XVIII. Abstenerse el superior jerárquico de disponer o autorizar a un servidor público a no asistir, sin causa justificada, a sus labores por más de quince días continuos o treinta discontínuos en un año, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio público no lo exijan;
 
 XIX. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular que la ley le prohíba;
 
@@ -2112,3 +2126,11 @@ SÉPTIMO.- El Secretario de Acuerdos del Tribunal adscrito al Pleno fungirá, du
 P.O. 20 DE MARZO DE 2003.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco", en cuanto al artículo 41, este será obligatorio a partir del 1° de enero del 2004.
+
+P.O. 28 DE AGOSTO DE 2003.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los derechos adquiridos por los servidores públicos para recibir Incentivos, bonos o compensaciones, serán respetados.
+
+TERCERO.- A los servidores públicos y titulares no sujetos a las condiciones generales de trabajo les serán respetados sus derechos de conformidad a los acuerdos presupuestarios para el ejercicio fiscal de 2003.
