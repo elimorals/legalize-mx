@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2004-11-24"
+last_updated: "2004-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -737,7 +737,7 @@ V. Nombrar y remover a sus servidores públicos en los términos que señale la 
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2002)</small>
 
-VI. Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
+VI.- Revisar y calificar las cuentas públicas de los Poderes del Estado, de los Ayuntamientos, de los entes públicos estatales y de todo organismo estatal o municipal que administre o maneje fondos públicos. La revisión de la cuenta tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en la Ley de Ingresos y en el Presupuesto de Egresos, así como si se han cumplido los objetivos contenidos en los programas.
 
 Para la revisión de las cuentas públicas, el Congreso cuenta con la Auditoría Superior del Estado. La ley determinará la organización y funcionamiento de dicho órgano técnico de fiscalización superior del Congreso, el cual contará con independencia en sus funciones y autonomía presupuestal para el ejercicio de sus atribuciones. La coordinación y evaluación del desempeño de dicho órgano estará a cargo del Congreso en los términos que disponga la ley;
 
@@ -787,9 +787,9 @@ Asimismo, conocer de las imputaciones que se hagan a los servidores públicos a 
 
 XX. Conceder ammistía (sic) por delitos cuyo conocimiento corresponde exclusivamente a los tribunales del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, en los términos que establece la presente Constitución;
+XXI. Elegir y remover a los Magistrados del Supremo Tribunal de Justicia del Estado, en los términos que establece la presente Constitución. Asimismo, elegir y remover al Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1275,7 +1275,7 @@ Si al abrirse el período de sesiones ordinarias estuviere corriendo término de
 
 ###### Art. 86.
 
-Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
+Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista, el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
 
 > <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
 
@@ -1335,9 +1335,9 @@ VII.- Presentar al Congreso la Iniciativa de Ley de Ingresos del Estado, el proy
 
 VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad. Asimismo, nombrar y aceptar las renuncias de los Magistrados del Tribunal de lo Contencioso-Administrativo del Estado y concederles las licencias que excedan del plazo previsto en la Ley de la materia;
+IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -1353,9 +1353,9 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
 
-XIV.- Enviar al Congreso del Estado, para su aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución;
+XIV.- Enviar al Congreso del Estado, para su estudio y, en su caso aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución. Asimismo, la propuesta de designación del Magistrado del Tribunal Fiscal del Estado;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -3229,37 +3229,11 @@ P.O. 24 DE NOVIEMBRE DE 2004.
 
 Artículo Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTICULO UNICO.
+P.O. 15 DE DICIEMBRE DE 2004.
 
-El presente decreto entrará en vigor a partir del 1o. de septiembre de 1989.
+###### ARTICULO UNICO
 
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE ADICIONA LA FRACCIÓN XXIX-H DEL ARTÍCULO 73, LA FRACCIÓN I-B DEL ARTÍCULO 104 Y UN PÁRRAFO FINAL A LA FRACCIÓN V DEL ARTÍCULO 107; REFORMA EL ARTÍCULO 94, EL PRIMER Y SEGUNDO PÁRRAFOS DEL ARTÍCULO 97, EL ARTÍCULO 101, Y EL INCISO A) DE LA FRACCIÓN III, EL PRIMER PÁRRAFO Y EL INCISO B) DE LA FRACCIÓN V Y LAS FRACCIONES VI, VIII Y XI DEL ARTÍCULO 107; DEROGA LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO DE LA FRACCIÓN I DEL ARTÍCULO 104 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 107.
-
-UNICO.- El presente Decreto entrará en vigor el día 15 de enero de 1988, previa su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 73 FRACCIÓN VI, 79 FRACCIÓN V, 89 FRACCIONES II Y XVII, 110 PRIMER PÁRRAFO, 111 PRIMER PÁRRAFO Y 127 Y SE DEROGA LA FRACCIÓN VI DEL ARTÍCULO 74.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Los Representantes a la Asamblea del Distrito Federal serán electos simultáneamente a los Diputados Federales que integrarán la LIV Legislatura del Congreso de la Unión, en la forma y términos que señale la ley respectiva.
-
-TERCERO.- La Ley sobre Justicia en Materia de Faltas de Policía y Buen Gobierno del Distrito Federal y su Reglamento, así como las disposiciones administrativas relativas al Distrito Federal, en las materias a que se refiere el inciso A) de la base 3a. de la fracción VI del artículo 73 de la Constitución, continuarán vigentes hasta en tanto la Asamblea de Representantes del Distrito Federal dicte los bandos, ordenanzas y reglamentos correspondientes, en los términos del presente Decreto.
-
-CUARTO.- En tanto se instala la Asamblea de Representantes del Distrito Federal, los nombramientos de Magistrado del Tribunal Superior de Justicia del Distrito Federal continuarán siendo sometidos por el Presidente de la República, a la aprobación de la Cámara de Diputados del Congreso de la Unión, o de la Comisión Permanente, en su caso.
-
-QUINTO.- Las elecciones de los Representantes a la Asamblea del Distrito Federal, se regirán en lo conducente, y hasta en tanto se expida el ordenamiento correspondiente, por las normas que la Constitución Política de los Estados Unidos Mexicanos y el Código Federal Electoral contienen en materia de elección de los Diputados Federales al Congreso de la Unión.
-
-SEXTO.- Los debates de la Asamblea de Representantes del Distrito Federal, se regirán hasta en tanto se expida el ordenamiento a que se refiere el inciso I) de la base 3a. del artículo 73 Constitucional, por lo dispuesto en el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
-
-SEPTIMO.- El Colegio Electoral de la Asamblea de Representantes del Distrito Federal que calificará la elección de 1988, habrá de reunirse para este fin, durante la primera quincena del mes de octubre, del propio año de la elección.
-
-D.O.F. 10 DE AGOSTO DE 1987.
-
-DECRETO QUE REFORMA EL ARTÍCULO 78 Y ADICIONA UN ARTÍCULO DÉCIMO NOVENO TRANSITORIO.
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
