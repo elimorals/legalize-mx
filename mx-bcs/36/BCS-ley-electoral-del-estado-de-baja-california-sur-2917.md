@@ -4,7 +4,7 @@ identifier: "BCS-ley-electoral-del-estado-de-baja-california-sur-2917"
 country: "mx"
 rank: "ley"
 publication_date: "1995-08-18"
-last_updated: "2000-06-20"
+last_updated: "2001-05-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ELECTORAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE JUNIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE MAYO DE 2001.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el 18 de agosto de 1995.
 
@@ -2175,11 +2175,13 @@ b).- La jornada electoral; y
 
 c).- La posterior a las elecciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 17 DE MAYO DE 2001)</small>
+
 ###### ARTICULO 165.
 
-La preparación de las elecciones comprende los siguientes actos:
+La preparación de las elecciones comprende los siguientes actos y con ello inicia el proceso electoral:
 
-I.- La aprobación de la división del territorio del Estado en 15 Distritos Electorales Uninominales y las Secciones Electorales que se determinen;
+I.- (DEROGADA, B.O. 17 DE MAYO DE 2001);
 
 II.- La publicación de la convocatoria y avisos para la celebración de los comicios para Diputados por los principios de mayoría relativa y de representación proporcional; Gobernador del Estado e integrantes de Ayuntamientos, según sea el caso;
 
@@ -4356,3 +4358,7 @@ B.O. 20 DE JUNIO DE 2000.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 17 DE MAYO DE 2001.
+
+ÚNICO.- El presente decreto entrara en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
