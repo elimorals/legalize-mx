@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-17112"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-09-08"
-last_updated: "2002-02-15"
+last_updated: "2005-03-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MARZO DE 2005.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 8 de septiembre de 2000.
 
@@ -163,6 +163,14 @@ XI. Oficialía Mayor; y,
 
 XII. Procuraduría General de Justicia del Estado
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XIII Secretaría de Infraestructura y Transporte.
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XIV. Secretaría de Seguridad Pública.
+
 ###### ARTICULO 20.
 
 Para ser titular de las dependencias del Ejecutivo a que se refiere esta ley, se requiere:
@@ -265,9 +273,11 @@ XVI. Las demás que le encomienden expresamente las leyes, reglamentos y el Gobe
 
 A la Secretaría de Gobierno le corresponde el despacho de los siguientes asuntos:
 
-I. Conducir y regular la política interior del Estado, en un marco de garantías y legalidad, informando veraz y oportunamente al Titular del Ejecutivo;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-II. Consolidar los servicios de la dependencia en materia de política interior, servicios jurídicos, protección civil, prevención social, seguridad pública, transporte y vialidad y de menores infractores que se desglosan en este artículo, promoviendo que su organización, regionalización y cobertura, atiendan los requerimientos de la población del Estado;
+I. Conducir y regular la política interior del Estado, así como consolidar los servicios jurídicos, observando las disposiciones constitucionales y legales aplicables e informando veraz y oportunamente al Titular del Poder Ejecutivo;
+
+II. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 III. Suplir las ausencias del Gobernador del Estado en los casos previstos en el Artículo 85 Fracciones I y II de la Constitución Política del Estado;
 
@@ -307,27 +317,27 @@ XX. A petición de parte interesada, intervenir en los conflictos de las asociac
 
 XXI. Verificar los centros de trabajo para constatar que se cumpla con las condiciones que establece la Ley Federal del Trabajo y normas que de ella se deriven. Igualmente prestar asistencia jurídica gratuita a los Sindicatos o trabajadores que lo soliciten y representarlos ante los Tribunales del Trabajo;
 
-XXII. Proponer al Gobernador del Estado en coordinación con el Consejo Estatal de Seguridad Pública y dentro de la intervención que le confiere la ley, los programas relativos a la seguridad pública y protección de los habitantes de la entidad, al orden público y a la prevención de los delitos;
+XXII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-XXIII. Participar en la operación de los servicios de seguridad pública del Estado de conformidad con las normas, políticas y lineamientos establecidos por el Consejo Estatal de Seguridad Pública y proveer al orden interno, protegiendo a los particulares en sus personas, propiedades y derechos; proveer el orden y seguridad en los centros de readaptación social del Estado y el Consejo Tutelar de Menores Infractores; así como participar en la realización de los operativos especiales en el interior de estos establecimientos, cuando así lo determinen las autoridades competentes;
+XXIII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-XXIV. Previa autorización del Gobernador del Estado, coordinar la participación de los Cuerpos de Policía de carácter Federal, en las acciones previstas en los acuerdos de los Consejos Nacional y Estatal de Seguridad Pública; prestar el auxilio de la fuerza pública cuando de acuerdo a la ley, lo requieran los diversos órganos y dependencias de los Poderes del Estado; así como las demás acciones que dispongan la ley o los reglamentos aplicables;
+XXIV. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXV. En lo concerniente a los Derechos Humanos, vigilar el cumplimiento de las recomendaciones de medidas administrativas que requiera su cumplimiento; proporcionando, la adecuada colaboración con las Comisiones Nacional y Estatal de Derechos Humanos;
 
 XXVI. Coadyuvar y fomentar las relaciones con los grupos políticos y sociales, así como, conducir la adecuada atención política de la problemática de las comunidades indígenas y de los grupos marginados del Estado, en su caso, todo lo anterior, en coordinación con la Secretaría de Desarrollo Agropecuario; Rural e Indígena;
 
-XXVII. Coordinar la organización de la prevención social contra la delincuencia, así como administrar los Centros de Readaptación Social y el Consejo Tutelar para Menores Infractores;
+XXVII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-XXVIII. Ejecutar las normas privativas y restrictivas de la libertad de quienes hayan sido sentenciados, y tramitar, por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad y traslado de reos;
+XXVIII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
-XXIX. Elaborar, coordinar y vigilar la ejecución de los Programas del Sistema de Protección Civil y de Prevención y Readaptación Social en el Estado, a fin de consolidar las políticas de protección social de la población del Estado, en coordinación con las autoridades locales y federales involucradas;
+XXIX. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXX. Participar con la Secretaría de Desarrollo urbano y Medio Ambiente, en la formulación de recomendaciones vinculadas con sus atribuciones en la planeación, el transporte de pasajeros y carga, de los proyectos y en el seguimiento al proceso de ejecución de las mismas;
 
 XXXI. Atender los asuntos de política interior vinculados con la observancia y aplicación de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado y su Reglamento, en lo concerniente a la vialidad y al transporte de carga y de pasajeros;
 
-XXXII. Instrumentar, ejecutar y evaluar campañas preventivas, de información o colaboración, en materia de seguridad pública, vialidad, contaminación, grupos especiales y, sobre el transporte de pasajeros y de equipos, cargas y materiales peligrosos;
+XXXII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XXXIII. Participar en las actividades en materia de vialidad y transporte, con las autoridades federales, estatales y municipales, así como con las entidades paraestatales cuya competencia y objeto se relacione con estas materias;
 
@@ -445,103 +455,167 @@ XXVI. Las demás que le encomienden expresamente las leyes y reglamentos;
 
 A la Secretaría de Desarrollo Urbano y Medio Ambiente le corresponde el despacho de los siguientes asuntos:
 
-I. Formular, instrumentar, conducir y evaluar, las políticas y programas sectoriales de desarrollo urbano, asentamientos humanos, infraestructura, obras públicas, comunicaciones, transportes, vivienda, agua potable y alcantarillado, ecología e hidrología con base en las disposiciones constitucionales y legales y las normas y lineamientos que determine el Ejecutivo del Estado y en correlación con el Sistema Estatal de Planeación, sin perjuicio de la competencia que corresponda a los Municipios de la entidad;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-II. Proporcionar a los ayuntamientos y a las asociaciones en general, asesoría para la elaboración de programas y proyectos en las materias competencia de la Secretaría, cuando así lo soliciten; además, consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público y mayor cercanía y calidad de servicios a la población;
+I. Formular, instrumentar, conducir y evaluar, las políticas y programas sectoriales de ordenamiento territorial, desarrollo urbano, de ecología y medio ambiente, en congruencia con el Sistema Estatal de Planeación y con base en las disposiciones constitucionales y legales, y las normas y lineamientos que determine el Ejecutivo del Estado, sin perjuicio de las competencias que correspondan a la Federación o a los Municipios de la Entidad;
 
-III. Formular y conducir las políticas generales de asentamientos humanos de la competencia del Gobierno del Estado, de acuerdo a las leyes de la materia e instrumentar y ejecutar acciones para el adecuado desarrollo urbano, el ordenamiento territorial, la ubicación de asentamientos humanos y la promoción de dotación de viviendas; formular y promover sin perjuicio de la competencia que corresponda a los Municipios, la planificación y zonificación de viviendas en las zonas urbanas y rurales del Estado, así como vigilar el desenvolvimiento urbanístico de las diversas comunidades y centros de población; asimismo, promover y vigilar que el desarrollo urbano de las diversas comunidades y centros de población estratégicos del Estado, sea de acuerdo a las previsiones y planes respectivos, en coordinación con los Ayuntamientos correspondientes;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-IV. Promover, conducir y evaluar la realización de los programas de vivienda y llevar su gestión y ejecución a través del Instituto de Vivienda de Quintana Roo, la Comisión de Agua Potable y Alcantarillado, en coordinación con los gobiernos municipales, y demás instituciones participantes; asimismo intervenir en los programas crediticios para la vivienda;
+II. Concertar, coordinar, instrumentar y evaluar la ejecución de los programas de ordenamiento territorial, desarrollo urbano, asentamientos humanos, vivienda, agua potable y saneamiento, en coordinación con las dependencias y entidades de la Administración Pública del Estado, respetando las competencias de la Autonomía Municipal;
 
-V. Vigilar, en coordinación con las autoridades municipales, el cumplimiento de las normas técnicas sobre el uso del suelo para obras publicas y apoyarles en el establecimiento y supervisión de la zonificación urbana de sus centros de población;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-VI. Elaborar, instrumentar y evaluar los programas de desarrollo urbano y de ecología, con la participación de las dependencias, entidades y sectores involucrados y atendiendo a criterios de desarrollo sustentable, equilibrio ecológico y potencialidad en el uso de recursos, con la finalidad de incrementar y mejorar los niveles de bienestar de la población;
+III. Promover y vigilar en coordinación con los Ayuntamientos del Estado, el ordenamiento territorial y el desarrollo equilibrado de los asentamientos humanos del Estado, así como ejecutar las acciones tendientes al mejoramiento de las zonas marginadas;
 
-VII. Formular, conducir y evaluar las políticas y programas de desarrollo de los servicios urbanos y los relativos a la construcción, conservación y mantenimiento de las obras de infraestructura para el manejo de desechos sólidos, la restauración de sitios contaminados y el reciclamiento y tratamiento de los desechos, en coordinación con las dependencias, entidades y sectores involucrados; aplicar la normatividad para el manejo y disposición final de los residuos industriales y domésticos, así como para la construcción de los sistemas de tratamiento de aguas residuales;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-VIII. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado; administrar en coordinación con las entidades correspondientes, las reservas territoriales y demás tierras que no sean del dominio de la Federación o de los Municipios; y en coordinación con la Secretaría de Hacienda, establecer los métodos para darle el valor más cercano al real de acuerdo a esas características y en su caso, proporcionar estos datos a los ayuntamientos para determinar los avalúos de los predios dentro de su jurisdicción, así como para la fusión, subdivisión y fraccionamiento de éstos;
+IV. Coadyuvar con los Ayuntamientos en la formulación de sus planes, programas y normas técnicas, relacionadas con el ordenamiento territorial, el desarrollo urbano y la vivienda;
 
-IX. Establecer y vigilar el cumplimiento de los programas de adquisición de reservas territoriales del Estado, con la participación que corresponda a otras autoridades;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-X. Vigilar la observancia y aplicación de la Ley de Tránsito, Transporte y Explotación de Vías y Carreteras del Estado y de su Reglamento; así como formular y ejecutar los programas carreteros, de comunicaciones y de transportes de la competencia del Gobierno del Estado;
+V. Promover y vigilar, en coordinación con los Ayuntamientos correspondientes, que el desarrollo y equipamiento urbano de las diversas comunidades y centros de población del Estado, guarden congruencia con las previsiones y planes respectivos;
 
-XI. Determinar, con la participación de la Secretaría de Gobierno, las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; así como estudiar y dictaminar sobre las alternativas en la selección del equipamiento que deban adquirir las áreas dedicadas al servicio del transporte en el sector; de sitios de transporte público de carga, taxis y autobús: igualmente autorizar cambios de unidades, fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros; todo lo anterior sin perjuicio de la competencia que corresponda a los Municipios;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XII. Instrumentar en el ámbito de su competencia, la acciones encaminadas a mejorar la vialidad en lo referente a la ingeniería de tránsito y llevar cabo (sic) los estudios para determinar medidas técnicas y operacionales de todos los medios de transporte urbano, con el objetivo de que se complementen entre sí y con las obras de infraestructura vial;
+VI. Promover, proponer, conducir y evaluar la realización de los programas de desarrollo urbano, ecología, medio ambiente, vivienda y los relacionados con los servicios de agua potable y saneamiento en coordinación con los gobiernos municipales, e instituciones públicas competentes;
 
-XIII. Elaborar, sin perjuicio de la competencia municipal, los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos, vigilar la observancia de la normatividad en la materia; así como formular, elaborar y actualizar, en coordinación con las autoridades competentes, la normatividad del señalamiento horizontal y vertical de la red vial; y de los dispositivos de control de tránsito; asimismo, preparar los proyectos ejecutivos correspondientes;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XIV. Establecer conforme a las disposiciones jurídicas aplicables, las normas técnicas y administrativas a que debe sujetarse la construcción y operación de los programas a que se refiere la fracción anterior, y en coordinación con la Secretaría de Gobierno, para la prestación del servicio público de transporte local, con excepción del transporte urbano municipal;
+VII. Determinar en los períodos que señalen las disposiciones legales, las características de la propiedad raíz en el Estado; en coordinación con la Secretaría de Hacienda, establecer los métodos para darle el valor más cercano al real, de acuerdo a esas características. En su caso, proporcionar la información resultante a los Ayuntamientos, para determinar los avalúos de los predios dentro de su jurisdicción, así como para la fusión, subdivisión y fraccionamiento de éstos;
 
-XV. Estudiar, planear y controlar el servicio público de transporte de pasajeros, carga, renta de toda clase de vehículos, servicio público especializado y servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los municipios;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XVI. Tramitar los permisos y concesiones que otorgue el Gobernador del Estado para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción estatal, previo cumplimiento de lo dispuesto en la ley de la materia;
+VIII. Establecer y vigilar el cumplimiento de los programas relacionados con las reservas territoriales en el Estado, con la participación que corresponda al Instituto del Patrimonio Inmobiliario Estatal;
 
-XVII. Otorgar, revocar, modificar, reducir o anular por acuerdo del Gobernador del Estado las concesiones, permisos y autorizaciones para la prestación del servicio público de transporte en vías de jurisdicción local y en su caso, declarar su caducidad, así como ejercer el derecho de reversión de las concesiones, de conformidad a la ley de la materia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XVIII. Coordinar con las autoridades Federales, Estatales y Municipales la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado en coordinación con otras autoridades;
+IX. Proponer, convenir y coordinar las acciones y medidas necesarias de protección al ambiente con el fin de preservar, restaurar y fortalecer el equilibrio ecológico y disminuir la fragilidad ambiental de los ecosistemas del Estado, en acuerdo con el Gobierno Federal, las dependencias y entidades del Poder Ejecutivo Estatal y los Gobiernos Municipales, de conformidad con la distribución de competencias existente;
 
-XIX. Fijar, en coordinación con la Secretaría de Hacienda, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XX. Realizar estudios sobre la forma de optimizar el uso del equipo de transporte colectivo y con base en ellos dictar y supervisar el cumplimiento de las normas que conduzcan a su mejor aprovechamiento;
+X. Promover, Certificar e Implementar programas para el cumplimiento cabal de la normatividad ambiental y la aplicación de criterios de protección, restauración y aprovechamiento sustentable de los recursos naturales y de prevención y disminución de la contaminación ambiental atmosférica;
 
-XXI. Coordinar la operación de las actividades en materia de vialidad y transporte, con las autoridades Federales, Estatales y Municipales, así como con las Entidades Paraestatales, cuya competencia y objeto se relacione con estas materias;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXII. Convocar a la celebración de concursos para la ejecución de obras públicas en la entidad, señalar las adjudicaciones y supervisar el cumplimiento de los contratos de obras celebrados por la Administración Pública Estatal; así como, integrar y supervisar los estudios y proyectos ejecutivos para la construcción y mantenimiento de las obras públicas;
+XI. Gestionar con las dependencias federales, estatales y municipales correspondientes, el otorgamiento de incentivos y estímulos en favor de los particulares que contribuyan a la protección ambiental y al equilibrio de los ecosistemas de la entidad;
 
-XXIII. Coordinar la ejecución de planes y proyectos de obras de construcción, ampliación, rehabilitación y mantenimiento de la red carretera de la infraestructura de comunicaciones del Estado, así como construir, mantener y conservar en su caso, directamente o por adjudicación a particulares en términos de Ley, las obras de vialidad, de carreteras y demás de infraestructura de comunicaciones de jurisdicción local y las que se le asignen; además ejecutar las acciones técnicas de seguimiento, evaluación y control de las mismas, sin perjuicio de las facultades que en dichas materias correspondan a las otras dependencias;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXIV. Por acuerdo del Gobernador del Estado y en términos de las leyes aplicables, concesionar la construcción, administración, operación y conservación de caminos y vialidades de competencia local;
+XII. Proporcionar asesoría y servicios tendientes a la conservación, restauración y de aprovechamiento de los recursos naturales y el ambiente, y llevar el registro de las personas físicas y morales acreditadas para ello, así como el padrón correspondiente.
 
-XXV. Construir y conservar en buen estado la red carretera, puentes, caminos, obras portuarias y conexas o accesorias de ellas que estimen necesaria y que sea de competencia local;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXVI. Formular y conducir las políticas generales de obras públicas, asimismo, proponer las obras públicas al Ejecutivo del Estado y participar en la celebración de convenios en materia de obras públicas;
+XIII. Celebrar convenios con instituciones públicas y privadas, que promuevan y fomenten la conservación, restauración y evaluación de los recursos naturales y el medio ambiente;
 
-XXVII. Apoyar a los ayuntamientos cuando lo soliciten a planear, construir, rehabilitar, operar, conservar y mejorar los sistemas de agua potable, agua desalada, alcantarillado, tratamiento y reusos de aguas residuales; participar, en coordinación con las dependencias y organismos federales y municipales en la formulación de proyectos y ejecución de obras sobre dichas materias;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXVIII. Determinar, coordinar y administrar, en su caso, programas y servicios estatales en materia hidráulica y de abastecimiento de agua potable; así como los servicios de drenaje y alcantarillado y los demás relacionados con el equipamiento urbano, sin interferir la competencia municipal;
+XIV. Instrumentar e impulsar metodologías y procedimientos de valuación económica del capital natural y de los bienes y servicios ambientales;
 
-XXIX. Dictar las normas generales y ejecutar lo relativo a las obras de reparación, adaptación y demolición que le sean asignadas, de inmuebles propiedad del Gobierno del Estado; asimismo impulsar y promover los trabajos de conservación de las obras públicas y supervisar los proyectos de los mismos;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXX. Construir, mantener y operar, en su caso, directamente o por adjudicación a particulares las obras públicas que correspondan al equipamiento urbano, que no sean competencia de otra Secretaria.
+XV. Evaluar la calidad del aire y del ambiente y establecer y promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpos de agua de jurisdicción estatal, entre otros;
 
-XXXI. Participar, en coordinación con las dependencias competentes en la proyección, estudio, construcción y conservación de obras de desecación, drenaje y mejoramiento de terrenos con la finalidad de adecuar el desarrollo urbano, la infraestructura y la vivienda;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXXII. Formular, normar y conducir las políticas de ecología en general, para preservar el medio ambiente y la ecología; asimismo promover, expedir y ejecutar los programas de ordenamiento ecológico del territorio al que se refiere la Ley General del Equilibrio Ecológico y la Protección al Ambiente y la Ley de Equilibrio Ecológico y la Protección del Ambiente del Estado de Quintana Roo.
+XVI. Promover, en coordinación con la Secretaría de Educación y Cultura, la incorporación de contenidos ambientales en la política educativa del Estado y en los planes y programas de estudios, así como la formación de actitudes y valores de protección y conservación del patrimonio natural;
 
-XXXIII. Aplicar y vigilar el cumplimiento de las disposiciones legales en materia de ecología y de protección al ambiente atribuidas al Ejecutivo Estatal, así como formular, ejecutar y evaluar el Programa Estatal de Protección al Ambiente. Igualmente, difundir los programas y estrategias en la materia;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXXIV. Convenir con los gobiernos Federal, Estatales y Municipales del Estado, así como con los particulares, la realización conjunta y coordinada de acciones de protección y restauración ambiental e instrumentar, regular y promover el uso y aprovechamiento sustentable de los recursos del Estado, en colaboración con las dependencias federales y estatales competentes. De igual forma instrumentar, ejecutar y evaluar campañas para la utilización de técnicas y procedimientos de desarrollo sustentable; así como para racionalizar el uso de los recursos naturales del Estado;
+XVII. Aplicar la normatividad para la construcción de los sistemas de tratamiento de aguas residuales;
 
-XXXV. Fijar, normar, dictaminar y evaluar en el ámbito de su competencia, las medidas y mecanismos para prevenir, restaurar y corregir la contaminación del aire, suelo, agua y el ambiente en general; así como para las manifestaciones de impacto ambiental de proyectos de desarrollo presentados por los sectores público, social y privado y resolver sobre los estudios de riesgo ambiental; así como sobre los programas para la prevención de accidentes con incidencia ecológica;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXXVI. Dentro de la competencia que corresponda al Estado, formular y aplicar la reglamentación en materia de cuidado y preservación de la contaminación ambiental, ordenamiento ecológico, impacto ambiental y demás necesarias para el cumplimiento de las políticas y normas en la materia;
+XVIII. Coadyuvar en la vigilancia sobre la conservación de las corrientes de agua, ríos, lagos y lagunas de jurisdicción estatal y en la protección de cuencas alimentadoras y demás cuerpos de agua;
 
-XXXVII. Evaluar la calidad del aire y del ambiente, en general establecer y promover el Sistema Estatal de Información Ambiental, que incluirá los sistemas de monitoreo atmosférico, de suelo y de cuerpo del agua de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XXXVIII. Instrumentar e impulsar metodologías y procedimientos de valuación económica del capital natural y de los bienes y servicios ambientales;
+XIX. Conformar, operar y elaborar programas para el Sistema Estatal de Áreas Naturales Protegidas en el Estado, con la participación que corresponda a los Gobiernos Municipales, así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales, competencia del Estado;
 
-XXXIX.- Promover y ejecutar, en coordinación con la Comisión de Agua Potable y Alcantarillado del Estado, directamente o por terceros, la construcción y operación de instalaciones para el tratamiento de residuos industriales, infectocontagiosos, desechos sólidos, tóxicos y aguas residuales;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XL. Promover, coordinar y participar en acciones de protección, conservación, reforestación, fomento, vigilancia y aprovechamiento racional, equilibrado y sustentable de los recursos naturales en la entidad;
+XX. Desarrollar, en coordinación con la Secretaría de Desarrollo Agropecuario, Rural e Indígena, y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
 
-XLI. Desarrollar, en coordinación con las Secretarías de Planeación y Desarrollo Regional y de Desarrollo Agropecuario, Rural e Indígena y con las autoridades federales competentes, el censo de predios forestales y silvopastoriles y de sus productos; así como, levantar, organizar, manejar y actualizar las cartografías correspondientes, los inventarios de recursos naturales y de fauna y flora silvestre que competa al Gobierno del Estado;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XLII. Regular y promover, en colaboración con las autoridades Federales, Estatales y Municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado de acuerdo con lo que establezca la Ley de Equilibrio Ecológico y Protección al Ambiente del Estado de Quintana Roo;
+XXI. Regular y promover, en colaboración con las Autoridades Federales, Estatales y Municipales, la protección y preservación de los recursos de fauna y flora silvestres del Estado, de acuerdo con las disposiciones legales aplicables;
 
-XLIII. Establecer y conducir las políticas de administración de las áreas naturales protegidas de interés estatal; vigilar su planeación y evaluación periódica; así como normar y supervisar la operación de los parques, zoológicos, jardines botánicos, reservas y parques naturales competencia del Estado;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XLIV. Aplicar las restricciones en materia ecológica y sobre los recursos naturales establecidos en las disposiciones jurídicas aplicables e intervenir, en coordinación con las dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
+XXII. Aplicar las restricciones en materia ecológica y sobre los recursos naturales establecidas en las disposiciones jurídicas aplicables, e intervenir, en coordinación con las dependencias competentes, en el establecimiento y levantamiento de vedas forestales, de caza y de pesca;
 
-XLV. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Estado;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XLVI. Coadyuvar en la vigilancia sobre la conservación de las corrientes de agua, ríos, lagos y lagunas de jurisdicción estatal y en la protección de cuencas alimentadoras y las obras de corrección torrencial;
+XXIII. Promover y realizar estudios e investigaciones de carácter científico y tecnológico, que contribuyan a impulsar el conocimiento de los diversos ecosistemas y del medio ambiente de la Entidad;
 
-XLVII. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia, y dar seguimiento a la aplicación de las que correspondan a otras autoridades;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XLVIII. Participar en la formulación y conducción de las políticas generales de asentamientos humanos y de la promoción de dotación de viviendas para las comunidades indígenas del Estado, procurando el adecuado desarrollo urbano y el ordenamiento territorial;
+XXIV. Fomentar y conducir estudios, trabajos y servicios meteorológicos del Estado:
 
-XLIX. Las demás que le encomienden expresamente las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XXV. Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia; dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que formulen los particulares de conformidad con las disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XXVI. Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que le estén subordinados en ejercicio de sus atribuciones; y
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XXVII. Proporcionar a los Ayuntamientos y a las asociaciones en general, asesoría para la elaboración de programas y proyectos en las materias competencia de la Secretaría, cuando así lo soliciten; además, consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público, mayor cercanía y calidad de servicios a la población; y
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XXVIII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2005)</small>
+
+ARTICULO 34 BIS.- A la Secretaría de Infraestructura y Transporte le corresponde el despacho de los siguientes asuntos:
+
+I.- Formular, instrumentar, conducir, ejecutar y evaluar las políticas y programas sectoriales de infraestructura, obras públicas, comunicaciones y transportes, con base en las disposiciones constitucionales y legales y en congruencia con el Sistema Estatal de Planeación, sin perjuicio de la competencia que corresponda a los Municipios de la Entidad;
+
+II.- Realizar obras públicas, directamente o a través de terceros, en los términos de la Ley de Obras Públicas del Estado de Quintana Roo y demás disposiciones aplicables;
+
+III.- Elaborar, directamente o a través de terceros, los estudios, proyectos arquitectónicos y de ingeniería necesarios para ejecutar las obras públicas, observando las disposiciones legales y reglamentarias correspondientes, y vigilar su cumplimiento;
+
+IV.- Vigilar la aplicación de las disposiciones legales y normas técnicas para realizar o aprobar, según el caso, la construcción de las obras públicas que ejecute el Gobierno, por sí o en colaboración con la Federación, los Ayuntamientos o los particulares;
+
+V.- Elaborar en coordinación con las dependencias y entidades de la Administración Pública Estatal, el Programa Anual de Obras Públicas, y vigilar su cumplimiento;
+
+VI.- Elaborar los programas y participar en la celebración de convenios en materia de obras públicas e infraestructura;
+
+VII.- Apoyar a los Ayuntamientos en la planeación, construcción, rehabilitación, operación, conservación y mejoramiento de la infraestructura hidráulica y demás obra pública;
+
+VIII.- Impulsar, promover y supervisar los trabajos de conservación de las obras públicas;
+
+IX.- Vigilar que la ejecución de los programas de comunicaciones y de transportes, de la competencia del Gobierno del Estado, se realicen en los términos de las disposiciones legales correspondientes;
+
+X.- Coordinar con las autoridades Federales, Estatales y Municipales, la realización de actividades relativas a la ingeniería del transporte y al señalamiento de la vialidad del Estado, en coordinación con otras autoridades;
+
+XI.- Establecer y coordinar, conjuntamente con la Secretaría de Gobierno y conforme a las disposiciones jurídicas aplicables, las normas técnicas y administrativas a que deben sujetarse la construcción y operación de las obras y programas, para la prestación del servicio público de transporte, de competencia del Gobierno del Estado;
+
+XII.- Estudiar, planear y controlar el servicio público de transporte en todas sus modalidades; el servicio público especializado y el servicio público de estacionamiento y terminales de jurisdicción estatal, sin perjuicio de la competencia de los Municipios;
+
+XIII.- Tramitar los permisos y concesiones que otorgue el Gobernador del Estado, para la prestación de servicios de autotransporte en las carreteras del Estado y vías de jurisdicción Estatal, previo cumplimiento de lo dispuesto en la ley de la materia;
+
+XIV.- Fijar, en coordinación con la Secretaría de Hacienda, las tarifas del transporte público del Estado, con base en los estudios técnicos que realice; asimismo, administrar las vías de cuota a cargo del Gobierno del Estado;
+
+XV.- Realizar estudios para la optimización del transporte colectivo y dictar y supervisar el cumplimiento de las normas que conduzcan al mejor aprovechamiento de éste;
+
+XVI.- Determinar, con la participación de la Secretaría de Gobierno, las rutas de penetración de vehículos de servicio público de transporte de pasajeros suburbano y foráneo, las políticas y normas de operación de los paraderos del servicio público de transporte de pasajeros; estudiar y dictaminar sobre las alternativas en la selección del equipamiento que deban adquirir las áreas dedicadas al servicio del transporte en el sector; de sitios de transporte público de carga, taxis y autobús; igualmente, autorizar cambios de unidades y fijar frecuencias y horarios de las unidades de transporte de carga y pasajeros; todo lo anterior sin perjuicio de la competencia que corresponda a los Municipios;
+
+XVII.- Coordinar la operación de las actividades en materia de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las Entidades Paraestatales, cuya competencia y objeto se relacionen con estas materias;
+
+XVIII.- Elaborar, sin perjuicio de la competencia Municipal, los estudios que contribuyan a determinar la ubicación, construcción y el funcionamiento de los estacionamientos públicos; vigilar el cumplimiento de la normatividad en la materia, así como formular, elaborar y actualizar, en coordinación con las autoridades competentes, la normatividad del señalamiento horizontal y vertical de la red vial, y de los dispositivos de control de tránsito;
+
+XIX.- Construir y conservar en buen estado la red carretera, puentes, caminos, obras portuarias y conexas o accesorias de ellas, que sean de competencia local;
+
+XX.- Aplicar las sanciones previstas en las disposiciones legales en las materias de su competencia, y dar seguimiento a la aplicación de las que correspondan a otras autoridades, y resolver los recursos y quejas que le presenten, de conformidad con las disposiciones legales correspondientes;
+
+XXI.- Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que le estén subordinados en ejercicio de sus atribuciones; y
+
+XXII.- Proporcionar a los Ayuntamientos y a las Asociaciones en general, asesoría para la elaboración de programas y proyectos en las materias competencia de la Secretaría, cuando así lo soliciten; además, consolidar y regular los servicios regionales del sector, procurando su vinculación con el modelo de organización y desarrollo regional del Estado bajo criterios de eficiencia, productividad y ahorro en el gasto público, mayor cercanía y calidad de servicios a la población; y
+
+XXIII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ###### ARTICULO 35.
 
@@ -761,7 +835,7 @@ XXXII. Las demás que le encomienden expresamente las leyes y reglamentos.
 
 A la Secretaría de Salud corresponde el despacho de los siguientes asuntos:
 
-I. Aplicar y supervisar el cumplimiento de las disposiciones que en materia de salud señaladas en las Constituciones de Ios Estados Unidos Mexicanos y Política del Estado, actualizar, vigilar y difundir el cumplimiento de las Leyes General de Salud y la de Salud para el Estado de Quintana Roo, así como elaborar las normas de su competencia, que deban orientar los servicios de salud, seguridad y de asistencia social que presten los sectores público, social y privado en la entidad;
+I. Aplicar y supervisar el cumplimiento de las disposiciones que en materia de salud señaladas en las Constituciones de los Estados Unidos Mexicanos y Política del Estado, actualizar, vigilar y difundir el cumplimiento de las Leyes General de Salud y la de Salud para el Estado de Quintana Roo, así como elaborar las normas de su competencia, que deban orientar los servicios de salud, seguridad y de asistencia social que presten los sectores público, social y privado en la entidad;
 
 II. Formular, instrumentar, conducir, difundir y evaluar las políticas y programas sectoriales en materia de salud, seguridad social, asistencia social, salubridad y salud pública, con base en la legislación estatal y federal aplicable y las normas y lineamientos que determine el Gobernador del Estado y en vinculación con el Sistema Estatal de Planeación de la Entidad; asimismo conducir las relaciones con la Federación para la descentralización de este tipo de servicios y otras actividades conjuntas;
 
@@ -833,13 +907,13 @@ XII. Organizar, operar, supervisar y evaluar el ejercicio de las funciones que e
 
 XIII. Colaborar con las autoridades competentes en las acciones para fomentar el cuidado y conservación de zonas arqueológicas, monumentos artísticos e históricos y objetos de interés cultural, así como en aquellas relacionadas con la administración y conservación de estas áreas recreativas de descanso, parques bosques, lagos, lagunas y otros atractivos típicos o naturales y de interés para el desarrollo turístico, procurando estimular la conservación y protección del entorno natural y cultural;
 
-XIV. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que sé presten en el Estado;
+XIV. Apoyar, controlar y supervisar, en coordinación con las dependencias competentes y de acuerdo con las leyes, reglamentos y acuerdos en la materia, los servicios turísticos de transporte, hospedaje, alimentación y similares que se presten en el Estado;
 
 XV. Colaborar con las autoridades competentes en la instrumentación del registro de escuelas y centros de educación y capacitación turística y opinar sobre los estudios que imparten en la materia, así como emitir recomendaciones en programas de capacitación para guías de turistas y sancionar la valuación que se practique a los aspirantes; asimismo, participar en la elaboración de programas educativos y de capacitación, previa determinación de las necesidades en la entidad;
 
 XVI. Proporcionar información y orientación a los turistas cubriendo los centros de mayor afluencia, carreteras y terminales de transporte aéreo, terrestre y marítimo, según se requiera, así como instalar, coordinar y dirigir módulos de información. Cuando algunas de estas acciones se descentralicen a las autoridades municipales, establecer los mecanismos de coordinación, apoyo y capacitación requeridos;
 
-XVII. Intervenir en las controversias entre turistas y prestadores de servicios y Ilevar a cabo la conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
+XVII. Intervenir en las controversias entre turistas y prestadores de servicios y llevar a cabo la conciliación para resolver los conflictos de intereses, canalizando hacia las autoridades competentes los asuntos que impliquen violaciones a la Ley y sus reglamentos;
 
 XVIII. Participar en acciones coordinadas con las dependencias competentes para auxiliar a los turistas en casos de emergencia o desastre;
 
@@ -891,7 +965,7 @@ IX. Coordinarse con la Contaduría Mayor de Hacienda para el establecimiento de 
 
 X. Participar en el Consejo Estatal para la Modernización de la Administración Pública de Quintana Roo e intervenir en la determinación y supervisión de las normas y procedimientos para regular la organización, funcionamiento y desarrollo de las dependencias y entidades de la misma;
 
-XI. Establecer lineamientos y mecanismos que modernicen las normas, los procedimientos y los instrumentos de control y evaluación de la actividad gubernamental, con el propósito de satisfacer las legitimas necesidades de la sociedad;
+XI. Establecer lineamientos y mecanismos que modernicen las normas, los procedimientos y los instrumentos de control y evaluación de la actividad gubernamental, con el propósito de satisfacer las legítimas necesidades de la sociedad;
 
 XII. Comprobar el cumplimiento por parte de las dependencias y entidades de la Administración Pública Estatal, de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio, fondos y valores de la propiedad o al cuidado del Poder Ejecutivo del Estado;
 
@@ -975,13 +1049,17 @@ IX. Administrar y controlar los Almacenes Generales, los Talleres Gráficos e Im
 
 X. Participar en la Comisión Estatal para la Modernización de la Administración Pública y en coordinación con la Secretaría de Gobierno y bajo las directrices del Gobernador del Estado, en la instrumentación de los proyectos de reglamentos interiores y manuales administrativos de las dependencias y entidades; sujetándose a los criterios de simplificación y calidad en el servicio;
 
-XI. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles e inmuebles propiedad del Estado, conforme a la integración que previene el Artículo 112 de la Constitución Política del Estado, así como administrar y asegurar la conservación y mantenimiento de los mismos;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
 
-XII. Intervenir, en los términos de las leyes de la materia, en la celebración de contratos de compraventa, arrendamiento, donación y demás de carácter inmobiliario que suscriban las dependencias de la Administración Pública Estatal;
+XI. Elaborar, controlar y mantener actualizado el inventario de los bienes muebles propiedad del Estado; administrar y asegurar la conservación y mantenimiento de los mismos, y coadyuvar con el Instituto del Patrimonio Inmobiliario de la Administración Pública Estatal en la instrumentación del Sistema de Administración Inmobiliaria Estatal;
+
+XII. (DEROGADA, P.O. 17 DE MARZO DE 2005)
 
 XIII. Establecer las políticas, normas, sistemas y procedimientos para la proyección, integración y funcionamiento del Sistema de Servicio Civil de Carrera en la Administración Pública del Estado;
 
-XIV. Administrar y regular el Registro del Patrimonio Publico del Estado, el centro de transporte aéreo y los servicios regionales de administración;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2005)</small>
+
+XIV. Administrar y regular el Centro de Transporte Aéreo y los Servicios Regionales de Administración;
 
 XV. Organizar en colaboración con las dependencias y entidades del Estado, y los sectores social y privado, los actos cívicos en la entidad;
 
@@ -1018,6 +1096,64 @@ X. Consolidar y regular los servicios regionales del sector, procurando su vincu
 XI. Opinar sobre los otorgamientos de permisos y autorizaciones de parte de las autoridades locales, a los prestadores de servicios de seguridad privada, así como intervenir, con las autoridades competentes en la instrumentación del registro de centros y de programas educativos y de capacitación para la formación del personal que brinde dichos servicios;
 
 XII. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2005)</small>
+
+ARTÍCULO 42 BIS. A la Secretaría de Seguridad Pública le compete el despacho de los siguientes asuntos:
+
+I.- Coordinar, dirigir, vigilar, desarrollar instrumentar y ejecutar la política estatal en materia de seguridad pública, política criminal, servicios de seguridad privada, como prevención y readaptación social del delincuente y tratamiento de menores infractores, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+
+II.- Establecer, dirigir y controlar, en el ámbito de su competencia, la política de la Secretaría, así como programar, coordinar y evaluar, en términos de los ordenamientos aplicables, las actividades del sector correspondiente, aprobando al efecto las mismas, de conformidad con los objetivos, metas y políticas que determine el Gobernador del Estado;
+
+III.- Proponer al Gobernador del Estado en coordinación con el Consejo Estatal de Seguridad Pública y dentro de la intervención que le confiere la Ley de la materia, los programas relativos a la seguridad pública y protección de los habitantes de la Entidad, al orden público y a la prevención de los delitos;
+
+IV.- Participar en la operación de los servicios de seguridad pública del Estado de conformidad con las normas, políticas y lineamientos establecidos por el Consejo Estatal de Seguridad Pública y proveer al orden interno, protegiendo a los particulares en sus personas, propiedades y derechos; proveer el orden y seguridad en los Centros de Readaptación Social del Estado y en el Centro De Observación y Diagnostico para Menores Infractores; así como participar en la realización de los operativos especiales en el interior de estos establecimientos, cuando así lo determinen las autoridades competentes;
+
+V.- Proponer al Ejecutivo Estatal las medidas necesarias para organizar las actividades de las Dependencias y Entidades que atiendan el fenómeno delictivo;
+
+VI.- Promover la participación de los ciudadanos en el diseño y planeación de planes y programas en materia de seguridad pública, así como para el desarrollo de actividades de vigilancia sobre el desempeño de la Secretaría;
+
+VII.- Organizar, dirigir, administrar, supervisar y ejercer el mando directo de las corporaciones policíacas y demás fuerzas de seguridad estatales y protección civil, así como nombrar y remover a los titulares de las mismas a fin de garantizar el desempeño honesto de su personal y aplicar su correspondiente régimen disciplinario;
+
+VIII.- Coordinar el Sistema Estatal de Protección Civil, así como implementar las medidas necesarias a fin de proteger y salvaguardar a la población ante la eventualidad de un desastre, en términos de la legislación aplicable en la materia;
+
+IX.- Establecer un sistema destinado a obtener, analizar, estudiar y procesar información en materia de seguridad pública, mediante métodos que garanticen el estricto respeto a los derechos humanos, con apego a los principios de reserva y confidencialidad en el servicio público;
+
+X.- Disponer, por acuerdo del Gobernador del Estado, del mando de la Policía Municipal, en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+
+XI.- Autorizar, en el ámbito de su competencia y en términos de la licencia colectiva concedida por la Autoridad Federal, el uso de armas a los elementos de las fuerzas policiales en el ámbito del Estado;
+
+XII.- Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las Autoridades Judiciales y Administrativas;
+
+XIII.- Promover lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal y elaborar los programas de readaptación social de sentenciados;
+
+XIV.- Administrar los Centros de Readaptación Social y dar trámite a las solicitudes de libertad anticipada y traslado de procesados y sentenciados;
+
+XV.- Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia;
+
+XVI.- Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
+XVII.- Colaborar, cuando así se lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente;
+
+XVIII.- Autorizar, supervisar, verificar, ratificar y controlar los servicios de seguridad privada en el Estado;
+
+XIX.- Atender de manera expedita las denuncias y quejas ciudadanas con relación al ejercicio de sus atribuciones;
+
+XX.- Proponer al Gobernador del Estado, el nombramiento del Comisionado de la Policía Estatal Preventiva;
+
+XXI.- Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos, así como preservar la libertad, el orden y la paz públicos;
+
+XXII.- Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo;
+
+XXIII.- Celebrar convenios de colaboración, en el ámbito de su competencia y en el marco del Sistema Nacional de Seguridad Pública, con otras Autoridades Federales, Estatales, Municipales y del Distrito Federal, así como establecer acuerdos de colaboración con instituciones similares, en los términos de los tratados internacionales, conforme a la legislación aplicable;
+
+XXIV.- Participar en las actividades de vialidad y transporte, con las Autoridades Federales, Estatales y Municipales, así como con las entidades paraestatales cuya competencia y objeto se relacione con estas materias;
+
+XXV.- Certificar los documentos que obren en sus archivos y los expedidos por los servidores públicos que les estén subordinados en ejercicio de sus atribuciones;
+
+XXVI.- Administrar, vigilar y controlar los Centros de Observación y Diagnóstico para Menores Infractores del Estado; y
+
+XXVII.- Las demás que le encomienden expresamente las leyes y reglamentos.
 
 ## TITULO TERCERO. De la Administración Pública Paraestatal
 
@@ -1146,3 +1282,29 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- Las disposiciones del presente Decreto, no serán aplicables respecto a los funcionarios de la administración pública estatal, titulares de las unidades y áreas de carácter administrativo del Poder Judicial, que actualmente se encuentren desempeñando alguno de los cargos a que hacen referencias los artículos 21 de la Ley Orgánica de la Administración Pública y 91 y 93 de la Ley Orgánica del poder Judicial, ambas del Estado de Quintana Roo.
 
 TERCERO.- A partir de la entrada en vigor del presente Decreto, todas las dependencias y entidades de la administración pública central y paraestatal, así como las unidades administrativas y áreas de la Oficialía Mayor del Poder Judicial del Estado, se sujetarán a las disposiciones del mismo, y paulatinamente deberán hacer las adecuaciones correspondientes en los ordenamientos internos que regulen su propio funcionamiento.
+
+P.O. 17 DE MARZO DE 2005.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Quintana Roo.
+
+Artículo Segundo.- El Ejecutivo del Estado deberá expedir los Reglamentos Interiores de la Secretaría de Seguridad Pública y de la Secretaría de Infraestructura y Transporte, así como realizar las adecuaciones correspondientes a los reglamentos interiores de las Secretarías cuyas atribuciones se modifican, en un plazo no mayor de seis meses, contado a partir de la entrada en vigor del presente Decreto. Entre tanto, seguirán vigentes los reglamentos aplicables, en lo que no se opongan a este Decreto.
+
+Artículo Tercero.- Los traspasos que por motivo de este Decreto deban realizarse de una dependencia a otra, incluirán las adecuaciones presupuestarias derivadas de las modificaciones a la estructura programática y financiera, a los calendarios financieros y de metas, así como los traspasos de recursos humanos y de los activos patrimoniales que la dependencia haya utilizado para los asuntos a su cargo.
+
+Artículo Cuarto.- El Ejecutivo del Estado, por conducto de las Secretarías de Hacienda y de la Contraloría, con la participación de las Dependencias correspondientes, deberán concluir dichas adecuaciones presupuestarias y traspasos de personas, recursos materiales y financieros, así como de los activos patrimoniales, en un plazo no mayor a seis meses, a partir de la entrada en vigor del presente Decreto. Al término de éste se deberá rendir el informe respectivo a Congreso del Estado.
+
+Artículo Quinto.- Se faculta al Gobernador del Estado, para que, en términos de la Ley del Presupuesto, Contabilidad y Gasto Público y el Decreto que autoriza el Presupuesto de Egresos del Estado para el ejercicio 2005, realice en su caso, los ajustes necesarios a este presupuesto de egresos por las modificaciones a la estructura orgánica del Poder Ejecutivo, debiendo informar de ello a la Legislatura del Estado.
+
+Artículo Sexto.- Los derechos laborales del personal que en virtud de lo dispuesto en el presente Decreto, pase de una dependencia a otra, se respetarán conforme a la ley.
+
+Artículo Séptimo.- En un plazo no mayor de tres meses, a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá crear el Instituto del Patrimonio Inmobiliario de la Administración Pública del Estado. Para tal efecto, todos los bienes inmuebles del dominio público y privado del Gobierno del Estado, se sujetarán al control, supervisión, administración o disposición, según el caso, del citado Instituto, en los términos que al efecto se establezcan en el propio Decreto. Quedan exceptuados de esta obligación, el patrimonio propio de las entidades de la Administración Pública Paraestatal, con excepción de las reservas territoriales que son bienes de dominio privado del Gobierno del Estado, que administra el Instituto de Fomento a la Vivienda y Regularización de la Propiedad.
+
+Artículo Octavo.- Los asuntos que con motivo de este Decreto, deban pasar de una Secretaría a otra, permanecerán en el último trámite que hubieren alcanzado, hasta que las unidades administrativas que los despachen se incorporen a la dependencia que señala el mismo, a excepción de aquellos urgentes o sujetos a término, los cuales se atenderán por las dependencias que las venían despachando.
+
+Hasta en tanto no se cree el Instituto de Patrimonio Inmobiliario de la Administración Pública del Estado, la Oficialía Mayor continuará desarrollando sus funciones relacionadas con los bienes inmuebles del dominio del Gobierno del Estado.
+
+Artículo Noveno.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+Artículo Décimo.- Las menciones contenidas en otras leyes, reglamentos y en general en cualquier disposición, respecto de las Secretarías o entidades paraestatales cuyas funciones se reforman por virtud de este Decreto, se entenderán referidas a las dependencias o entidad que, respectivamente, asuman tales funciones.
+
+Artículo Décimo Primero.- Para los efectos del Presente Decreto, se entenderá como "Centro de Observación y Diagnóstico para Menores Infractores" al Consejo Tutelar para Menores Infractores, y en tanto, no se expidan las disposiciones legales del citado Centro, serán aplicables las establecidas en la Ley del Consejo Tutelar para Menores Infractores del Estado de Quintana Roo.
