@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-del-impuesto-sobre-la-renta-434"
 country: "mx"
 rank: "reglamento"
 publication_date: "1984-02-29"
-last_updated: "1992-03-31"
+last_updated: "1992-11-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=434&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1984-02-28"
 
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE NOVIEMBRE DE 1992.
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 29 de febrero de 1984.
 
@@ -38,6 +38,8 @@ Que en tal virtud, se hace necesaria la expedición de un nuevo Reglamento en el
 REGLAMENTO DE LA LEY DEL IMPUESTO SOBRE LA RENTA
 
 ## TITULO I. Disposiciones Generales
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ### Capítulo Unico
 
@@ -97,7 +99,7 @@ La parte del impuesto sobre la renta pagado en el extranjero que no sea acredita
 
 > <small>(REFORMADO, D.O.F. 15 DE MAYO DE 1990)</small>
 
-###### ARTICULO 7o-A.
+###### ARTICULO 7o- A.
 
 Se calcularán hasta el diezmilésimo los factores de ajuste y actualización a que se refiere el artículo 7o. de la Ley, así como el coeficiente de utilidad a que se refieren las fracciones I de los artículos 12 y 111 de la Ley citada.
 
@@ -197,11 +199,9 @@ IV.- (DEROGADA, D.O.F. 15 DE MAYO DE 1990)
 
 > <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
-###### ARTICULO 7o.-H.
+###### ARTICULO 7o-H.
 
 Para los efectos del inciso b) de la fracción IV del artículo 7o-B de la Ley se considerarán créditos las cuentas por cobrar a plazo menor de un mes a cargo de personas morales no contribuyentes o de personas físicas, contratadas con los contribuyentes que componen el sistema financiero en la realización de operaciones propias de su actividad.
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE MAYO DE 1990)</small>
 
 ## TITULO II. De las Personas Morales
 
@@ -213,21 +213,15 @@ Disposiciones Generales
 
 Para los efectos de la fracción IV del artículo 12-A de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que correspondan dichos pagos, podrán disminuir el monto de los que les correspondan hasta por seis meses del mismo ejercicio, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el día 15 del primer mes del periodo por el que el que se solicita la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 30 DE JUNIO DE 1988)</small>
+> <small>(DEROGADOS SEGUNDO Y TERCER PARRAFOS, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
+
+> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
 El contribuyente estará obligado a calcular en la declaración del ejercicio, los pagos provisionales que le hubieran correspondido conforme al artículo 12 de la Ley, sustituyendo el coeficiente a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
 
-> <small>(ADICIONADO, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
 
 Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-El contribuyente estará obligado a calcular en la declaración del ejercicio, los pagos provisionales que le hubieran correspondido conforme al artículo 12 de la Ley, sustituyendo el coeficiente a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Cuando resulte que los pasos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido. No se pagarán recargos cuando dicha diferencia no exceda del 10% del pago efectuado.
 
 > <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
 
@@ -1741,21 +1735,11 @@ IV.- Que se obtenga autorización de la autoridad administradora para efectuar e
 
 Para los efectos del antepenúltimo párrafo del artículo 111 de la Ley, en los casos en que los contribuyentes estimen justificadamente que el coeficiente de utilidad que deben aplicar para determinar los pagos provisionales, es superior al coeficiente de utilidad del ejercicio al que correspondan dichos pagos, podrán disminuir el monto de los que les correspondan hasta por seis meses del mismo ejercicio, siempre que obtengan la autorización respectiva, la cual se solicitará a la autoridad administradora competente, a más tardar el día l5 del primer mes del periodo por el que se solicita la disminución del pago, mediante la forma oficial que al efecto publique la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(DEROGADOS SEGUNDO Y TERCER PARRAFOS, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
 
-El contribuyente estará obligado a calcular en la declaración del ejercicio los pagos provisionales que le hubieren correspondido conforme al artículo 111 de la Ley, substituyendo el coeficiente de utilidad a que se refiere la fracción I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición, con los datos relativos a la declaración del ejercicio en el cual se disminuyó el pago.
-
-> <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 5 DE NOVIEMBRE DE 1992)</small>
 
 Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior, se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-El contribuyente estará obligado a calcular en la declaración del ejercicio los pagos provisionales que le hubieran correspondido conforme al artículo 111 de la Ley, sustituyen el coeficiente de utilidad a que se refiere la decisión I de dicho artículo, por el coeficiente de utilidad determinado conforme a dicha disposición, con los datos relativos a la declaración del ejercicio en el cual se disminuye el pago.
-
-> <small>(REFORMADO, D.O.F. 30 DE JUNIO DE 1988)</small>
-
-Cuando resulte que los pagos provisionales se hubieran cubierto en cantidad menor de la debida en los términos del párrafo anterior se cubrirán recargos por la diferencia entre los pagos autorizados y los que le hubieran correspondido. No se pagarán recargos cuando dicha diferencia no exceda del 10% del pago efectuado.
 
 > <small>(ADICIONADO, D.O.F. 31 DE MARZO DE 1992)</small>
 
@@ -2832,3 +2816,7 @@ Las entidades de financiamiento registradas en la Secretaría, en el año de 199
 D.O.F. 31 DE MARZO DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación, a excepción de lo dispuesto en el artículo 77 de este Reglamento que entrará en vigor el 1o. de enero de 1994.
+
+D.O.F. 5 DE NOVIEMBRE DE 1992.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
