@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1955-01-05"
+last_updated: "1964-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1955.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE DICIEMBRE DE 1964.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -575,6 +575,8 @@ Lo dispuesto en los párrafos anteriores no se aplicará cuando el delito se com
 
 ### CAPITULO IV. Aplicación de sanciones a los responsables de varios delitos y a los reincidentes
 
+> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1964)</small>
+
 ###### ARTICULO 63.
 
 A los responsables de tentativas punibles, se les aplicará a juicio del Juez y teniendo en consideración las prevenciones de los artículos 52 y 59, hasta las dos terceras partes de la sanción que se les debiera imponer de haberse consumado el delito salvo disposición en contrario.
@@ -583,7 +585,7 @@ A los responsables de tentativas punibles, se les aplicará a juicio del Juez y 
 
 ###### ARTICULO 64.
 
-En caso de acumulación se impondrá la sanción del delito mayor, que podrá aumentarse hasta la suma de las sanciones de los demás delitos, sin que nunca pueda exceder de treinta años, teniendo en cuenta las circunstancias del artículo 52.
+En caso de acumulación, se impondrá la sanción del delito mayor que podrá aumentarse hasta la suma de las sanciones de los demás delitos sin que nunca pueda exceder de cuarenta años teniendo en cuenta las circunstancias del artículo 52.
 
 > <small>(REFORMADO, D.O.F. 12 DE MAYO DE 1938)</small>
 
@@ -3470,3 +3472,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 D.O.F. 5 DE ENERO DE 1955.
 
 UNICO.- Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
+
+D.O.F. 19 DE DICIEMBRE DE 1964.
+
+UNICO.- La presente reforma entrará en vigor cinco días después de su publicación en el "Diario Oficial" de la Federación.
