@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-los-tribunales-agrarios-120"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-05-13"
-last_updated: "2000-11-01"
+last_updated: "2003-03-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1992-05-08"
 
 REGLAMENTO INTERIOR DE LOS TRIBUNALES AGRARIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MARZO DE 2003.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 13 de mayo de 1992.
 
@@ -387,23 +387,53 @@ XIV.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Pr
 
 ### CAPITULO VI. DE LA CONTRALORIA INTERNA
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 33.
 
-Corresponden a la Contraloría Interna las siguientes atribuciones, que atenderá cumpliendo los lineamientos que dicten el Tribunal Superior y el Presidente:
+Corresponden a la Contraloría Interna las siguientes atribuciones:
 
-I.- Recibir del Presidente las quejas y denuncias que se presenten contra los servidores de los tribunales agrarios, identificarlas e investigarlas, haciendo las indagaciones necesarias y formular opinión ante el Presidente, para éste la someta a la consideración del Tribunal Superior;
+I.- Tramitar y resolver únicamente sobre la responsabilidad de carácter administrativo, que pudiera resultar de quejas presentadas por los quejosos, o inspecciones, auditorías y revisiones que se practiquen por la propia Contraloría, en los términos del artículo 73 de este ordenamiento.
 
-II.- Establecer el sistema de control y vigilancia del ejercicio presupuestal y recibir las justificaciones sobre sus desviaciones;
+II.- Desechar de plano las quejas anónimas, o notoriamente infundadas.
 
-III.- Practicar las auditorías, revisiones específicas y otras diligencias que disponga el Tribunal Superior y el Presidente;
+III.- Admitir a trámites las quejas y denuncias que se presenten contra los servidores de los Tribunales Agrarios, que estén debidamente fundadas y motivadas.
 
-IV.- Intervenir en la entrega y recepción de la oficinas de los tribunales agrarios, de acuerdo a las disposiciones que se expidan con este motivo;
+IV.- Identificar e investigar, las quejas y denuncias a que se refiere la fracción I de este artículo, mediante las indagaciones necesarias, y determinar si hay elementos suficientes para iniciar el procedimiento administrativo y, en su caso, fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en términos de ley.
 
-V.- Apoyar a los servidores públicos de los tribunales agrarios en el cumplimiento de su obligación de presentar la declaración de situación patrimonial; y
+V.- Remitir a la Secretaría General de Acuerdos, para su trámite, conforme a lo establecido en el artículo 76 de este Reglamento las quejas en que las que el Contralor Interno considere que hay elementos que permiten suponer la existencia de una responsabilidad administrativa de los Magistrados de los Tribunales Unitarios y del Superior.
 
-VI.- Las demás inherentes a su cargo que acuerden el Tribunal Superior y el Presidente.
+VI.- Calificar y constituir los pliegos de Responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento.
+
+VII.- Establecer el sistema de control y vigilancia del ejercicio presupuestal, recibir las justificaciones sobre su aplicación y en caso de existir desviación de recursos, instaurar el procedimiento administrativo respectivo.
+
+VIII.- Tramitar, sustanciar y resolver los Recursos de Revocación que interpongan los Servidores Públicos, en contra de las resoluciones dictadas por la Contraloría Interna.
+
+IX.- Tramitar, sustanciar y resolver las inconformidades promovidas contra actos del procedimiento de contratación de adquisición, arrendamiento y servicios, en los que intervengan los Tribunales Agrarios.
+
+X.- Tramitar, sustanciar y resolver los Recursos de Revisión, que se promuevan en contra de las resoluciones pronunciadas en las inconformidades a que se refiere la fracción anterior.
+
+XI.- Intervenir ante las diversas instancias jurisdiccionales cuando se impugne una resolución emitida por la propia Contraloría Interna.
+
+XII.- Expedir copias debidamente certificadas por el Secretario General de Acuerdos, de los documentos que obren en los archivos del Organo Interno de Control, cuando éstas sean requeridas para ser presentadas en los juicios de amparo conforme al artículo 152 de la ley de la materia o bien cuando sean requeridas por autoridades jurisdiccionales o administrativas.
+
+XIII.- Elaborar el programa trimestral de auditorías, inspecciones y visitas que se pretendan llevar a cabo, someterlo a la autorización del Presidente y mantenerlo informado sobre el resultado de las acciones de control que se vayan realizando.
+
+XIV.- Coadyuvar con la Oficialía Mayor para la formulación del anteproyecto del presupuesto de los Tribunales Agrarios y proponer medidas preventivas para lograr el correcto ejercicio del presupuesto.
+
+XV.- Denunciar ante el Ministerio Público los hechos de que tenga conocimiento que impliquen responsabilidad penal, e instar al área jurídica respectiva a formular, cuando así se requiera, las querellas a que hubiere lugar.
+
+Las denuncias y querellas podrán ser presentadas indistintamente por la Contraloría Interna, la Dirección General de Asuntos Jurídicos o, en su caso, las Unidades de Asuntos Jurídicos de los Tribunales Unitarios Agrarios.
+
+XVI.- Requerir a las unidades administrativas de los Tribunales Agrarios, la información y documentación necesaria para cumplir con sus atribuciones.
+
+XVII.- Intervenir en la entrega y recepción de las oficinas de los Tribunales Agrarios, de acuerdo con las disposiciones que al efecto se expidan.
+
+XVIII.- Apoyar a los Servidores Públicos de los Tribunales Agrarios en el cumplimiento de la obligación de presentar su declaración de situación patrimonial.
+
+XIX.- Intervenir, previa invitación, en los procedimientos de contratación para la adquisición y arrendamiento de bienes muebles y la prestación de servicios, así como de enajenación que celebre el Tribunal Superior Agrario.
+
+XX.- Las demás que se le atribuyan expresamente por el presidente y las que le confieran las leyes y reglamentos.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -563,11 +593,9 @@ X.- El magistrado visitador rendirá un informe por escrito al Tribunal Superior
 
 XI.- En caso que durante la visita se presenten quejas, se registrarán en la Oficialía de Partes del Tribunal Unitario y los interesados podrán solicitar al magistrado visitador que se les expida constancia y recibo de las pruebas aportadas, para que se turne de inmediato para su trámite correspondiente a la Contraloría Interna.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
-
 ###### Artículo 42.
 
-En caso de que, como resultado de la inspección, resultare alguna responsabilidad para cualquiera de los funcionarios del tribunal unitario inspeccionado, el Tribunal Superior determinará la realización de una audiencia en la que se dé al afectado la oportunidad de aportar pruebas y alegar lo que a su derecho convenga, en descargo de la falta que se le atribuye. Una vez realizada esta audiencia, el Tribunal Superior determinará lo conducente, el que podrá solicitar previamente opinión de la Contraloría Interna.
+(DEROGADO, D.O.F. 7 DE MARZO DE 2003)
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -607,6 +635,12 @@ El Tribunal Superior hará la división del país en distritos de justicia agrar
 
 Los funcionarios y empleados de los tribunales unitarios estarán impedidos para desempeñar otro cargo o empleo público o de particulares, que sea incompatible con el que tienen en dichos tribunales; y estarán impedidos para realizar funciones que sean distintas a las que les corresponden conforme a su cargo, salvo los casos de habilitación o suplencia.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### Artículo 47 Bis.
+
+Los magistrados de los Tribunales Unitarios Agrarios serán corresponsables con los jefes de las unidades administrativas de lograr la optimización y salvaguarda de los recursos humanos, financieros y materiales, asignados al Tribunal Unitario a su cargo, con estricto apego a la normatividad vigente.
+
 > <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
 
 ###### Artículo 48.
@@ -619,17 +653,27 @@ Los secretarios de acuerdos "B" seleccionados por el Tribunal Superior entre los
 
 Los secretarios de los tribunales unitarios deberán hacer las notificaciones que en casos especiales, les ordene el magistrado.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 49.
 
-Corresponden al secretario de estudio y cuenta las siguientes atribuciones, que atenderá cumpliendo los lineamientos que reciba directamente del magistrado del tribunal unitario, a quien dará cuenta también directamente:
+Los secretarios de Estudio y Cuenta, deberán reunir los siguientes requisitos
+
+I.- Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos.
+
+II.- Ser Licenciado en Derecho con título debidamente registrado, expedido cuando menos dos años antes de la fecha de la designación.
+
+III.- Comprobar una práctica profesional mínima de dos años, y
+
+IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena privativa de libertad.
+
+En cuanto a sus atribuciones, le corresponden las siguientes, que atenderá cumpliendo los lineamientos que reciba directamente del Magistrado, a quien dará cuenta también directamente:
 
 I.- Elaborar los proyectos de sentencias y demás resoluciones que se le encomienden;
 
-II.- Analizar los expedientes judiciales relacionados con los proyectos que debe elaborar, quedando unos y otros bajo su responsabilidad; y
+II.- Analizar los expedientes judiciales relacionados con los proyectos que debe elaborar, quedando unos y otros bajo su responsabilidad, y
 
-III.- Proporcionar apoyo al magistrado del tribunal unitario al que esté adscrito, conforme a las funciones propias de su cargo.
+III.- Proporcionar apoyo al Magistrado del Tribunal Unitario al que esté adscrito conforme a las funciones propias de su cargo.
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
 
@@ -809,133 +853,183 @@ Las faltas y licencias de los servidores de base se sujetarán a lo dispuesto po
 
 ### CAPITULO XVII. DE LOS IMPEDIMENTOS Y EXCUSAS
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
-###### Articulo 66.
+###### Artículo 66.
 
-Los magistrados que se consideren impedidos para conocer de algún asunto, en términos de lo previsto por el artículo 27 de la Ley Orgánica, harán la manifestación de excusa ante el Tribunal Superior, para que éste la califique.
+Los magistrados que se consideren impedidos para conocer de algún asunto en el que se presente cualquiera de las causas previstas en el artículo 166 de la Ley Orgánica del Poder Judicial de la Federación, deberán presentar por escrito su excusa ante el Tribunal Superior, del cual, el Secretario General de Acuerdos dará cuenta al Magistrado Presidente, se radicará y turnará al Magistrado Ponente que corresponda a conocer del mismo por razón de turno, quien someterá al Pleno el proyecto de resolución para que la califique.
 
-Si se resuelve fundada la excusa del Magistrado del Tribunal Unitario, para sustituirlo en el trámite y resolución del caso, el Tribunal Superior decidirá trasladar el conocimiento del asunto al Tribunal Unitario más cercano, designará al magistrado supernumerario o determinará que sea el secretario de acuerdos quien asuma el conocimiento, pero en este último caso, para el único efecto de sustanciar la fase de instrucción del juicio.
+Si se resuelve que es procedente y fundada la excusa, del Magistrado del Tribunal Unitario, para sustituirlo en el trámite y resolución del caso, el Tribunal Superior decidirá si se traslada el conocimiento del asunto al Tribunal Unitario más cercano, o designa al Magistrado Supernumerario que conozca del mismo, o bien que el Secretario de Acuerdos asuma el conocimiento, pero en este último caso, para el único efecto de sustanciar la fase de instrucción del juicio y posteriormente el Tribunal Superior determinará qué Magistrado habrá de dictar la sentencia respectiva.
 
-Cuando se trate del impedimento de un Magistrado Numerario del Tribunal Superior, éste no podrá participar en las deliberaciones ni en la decisión, sobre la excusa; en su lugar actuará el magistrado supernumerario, salvo que se trate del magistrado presidente, en cuyo caso actuará como tal el magistrado presente con mayor antigüedad.
+Cuando se trate de la excusa por impedimento de un Magistrado Numerario, del Tribunal Superior, se seguirá el mismo procedimiento señalado en el primer párrafo de este artículo, en la inteligencia de que éste no podrá estar presente en las deliberaciones ni en la decisión sobre la excusa; y en su lugar actuará el Magistrado Supernumerario.
 
-Si se trata de un magistrado del propio Tribunal Superior, se seguirá el mismo procedimiento señalado para la resolución sobre la excusa.
+Si se resuelve que es procedente y fundada la excusa del Magistrado Numerario, el Tribunal Superior determinará si se turna el asunto al Magistrado Supernumerario para su conocimiento o se le da nuevo turno.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993)</small>
+En el caso de impedimento por parte del Magistrado Presidente, presentará su excusa por escrito ante el Pleno del Tribunal Superior. Para el trámite respectivo, se seguirá el procedimiento señalado en el primer párrafo de este artículo, en la inteligencia de que éste no podrá estar presente en las deliberaciones ni en la decisión sobre la excusa; en las que actuará como Magistrado Presidente, el de mayor antigüedad que se encuentre presente.
+
+Si se resuelve que es procedente y fundada la excusa del Magistrado Presidente, deberá ausentarse de la Sala cuando se proceda a la aprobación del asunto que motivó la excusa y en su lugar actuará el Magistrado de mayor antigüedad, que se encuentre presente.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 67.
 
-Las partes en juicio podrán interponer la queja ante el Tribunal Superior en contra de los magistrados y demás servidores públicos de los tribunales agrarios, cuando no observen lo dispuesto por los artículos 50 y 68 del presente Reglamento.
+Incurren en la responsabilidad que fije la legislación aplicable, los servidores públicos de los Tribunales Agrarios que:
 
-El Tribunal Superior deberá recibir las pruebas y el informe del servidor contra quien se interpuso la queja y, si la encuentra justificada, impondrá la sanción que corresponda, en los términos de la ley. Tratándose de tribunales unitarios, la queja se presentará ante el magistrado que conozca del asunto, quien la remitirá al Tribunal Superior en un plazo de tres días, acompañada de las pruebas en que se funde la petición, así como de las pruebas y el informe del servidor contra quien se interpuso la queja.
+I.- Teniendo impedimento para conocer de algún negocio, no se excusen.
 
-(REFORMADO Y REUBICADO, D.O.F. 20 DE JULIO DE 1993) (F. DE E., D.O.F. 12 DE AGOSTO DE 1993)
-
-###### Artículo 68.
-
-Incurren en la responsabilidad que fije la legislación aplicable, los servidores públicos de los tribunales agrarios que:
-
-I.- Teniendo impedimento para conocer de algún negocio, no se excusen;
-
-II.- Se excusen sin tener impedimento; o
+II.- Se excusen sin tener impedimento, o
 
 III.- Se excusen fundándose en causas diversas de las que les impiden conocer el asunto.
 
-En el caso de la fracción I, si la queja resulta fundada, el Tribunal Superior impondrá la sanción que corresponda en los términos de ley y ordenará la sustitución inmediata del magistrado en el conocimiento de la causa, por el magistrado del tribunal unitario más cercano, por un magistrado supernumerario o por el secretario de acuerdos correspondientes.
+Las partes en juicio podrán interponer queja por escrito, ante el Tribunal Superior en contra de los magistrados y demás servidores públicos de los Tribunales Agrarios, cuando no observen lo dispuesto por las tres fracciones anteriores y por el artículo 50 del presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+
+###### Artículo 68.
+
+El Tribunal Superior dará trámite a las quejas a que se refiere el artículo anterior, conforme a lo dispuesto por el párrafo primero del artículo 66 de este ordenamiento y en su oportunidad recibirá el informe y las pruebas que ofrezca el servidor público, contra quien se interpuso la queja.
+
+En el caso de la fracción I, si la queja fuera interpuesta en contra del Magistrado de la causa y ésta resultara fundada y justificada, se impondrá la sanción que corresponda, en los términos de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos y ordenará la sustitución inmediata del Magistrado en el conocimiento del asunto, por el Magistrado del Tribunal Unitario más cercano; por un Magistrado Supernumerario o por el Secretario de Acuerdos correspondiente, pero en este último caso, para el único efecto de sustanciar la fase de instrucción del juicio y posteriormente el Tribunal Superior determinará qué Magistrado habrá de dictar la sentencia respectiva.
+
+Tratándose de servidores públicos adscritos a los Tribunales Unitarios, la queja se presentará ante el Magistrado que conozca del asunto, que la motivó, quien la remitirá al Tribunal Superior en un plazo de tres días, acompañada de las pruebas en que se funde la misma; así como del informe y las pruebas que ofrezca el servidor público, contra quien se interpuso la queja.
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 20 DE JULIO DE 1993)</small>
 
 ### CAPITULO XVIII. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS DE LOS TRIBUNALES AGRARIOS
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 69.
 
-Pueden ser sujetos de responsabilidad los magistrados y los demás servidores públicos de los tribunales agrarios.
+Los Servidores Públicos de los Tribunales Agrarios, tendrán la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión, cuyo incumplimiento dará lugar a las sanciones correspondientes, previstas en la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, aplicable de conformidad con lo dispuesto por el artículo 30 de la Ley Orgánica de los Tribunales Agrarios.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 70.
 
-Las responsabilidades administrativas de los servidores públicos de los tribunales agrarios, así como las sanciones correspondientes, se identificarán, investigarán y determinarán conforme a la Ley Federal de Responsabilidades de los Servidores Públicos y lo dispuesto por el presente Reglamento. Los magistrados agrarios sólo serán responsables al establecer o fijar la interpretación o aplicación de los criterios legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
+Son sujetos de responsabilidad administrativa en el Servicio Público, los magistrados, funcionarios y empleados en general, que desempeñen un empleo, cargo o comisión de cualquier naturaleza en los Tribunales Agrarios.
 
-En caso de falta grave en los términos de las disposiciones aplicables, atribuida a los magistrados del Tribunal Superior y de los tribunales unitarios, deberá procederse en los términos del párrafo segundo del artículo 17 de la Ley Orgánica.
-
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 71.
 
-Los servidores públicos de los tribunales agrarios tienen la obligación de salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia en el desempeño de su empleo, cargo o comisión, cuyo incumplimiento dará lugar a las sanciones que correspondan y que se encuentran previstas en la Ley Federal de Responsabilidades de los Servidores Públicos, aplicable de acuerdo con el artículo 30 de la Ley Orgánica.
+El trámite para determinar las responsabilidades administrativas de los servidores públicos de los Tribunales Agrarios a que se refiere este capítulo, se iniciará por regla general mediante queja escrita presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos; sin perjuicio de que podrá presentarse de manera verbal cuando los quejosos sean integrantes de comunidades indígenas o ejidos, ya sea que la presenten en forma individual o colectiva. En todo caso, deberá levantarse acta de la diligencia, de la que se entregará una copia al quejoso.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+La queja deberá presentarse en las oficinas de la Contraloría Interna de los Tribunales Agrarios con sede en la Ciudad de México, Distrito Federal, o en la Oficialía de Partes del Tribunal Unitario al que se encuentre adscrito el servidor público contra quien se interponga ésta, misma que remitirá a la Contraloría Interna en un término no mayor de tres días. Las quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y la supuesta responsabilidad del servidor público.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 72.
 
-El trámite para determinar las responsabilidades de los servidores públicos de los tribunales agrarios a que se refiere este capítulo se iniciará por queja escrita presentada por cualquier persona o por el servidor público que tenga conocimiento de los hechos.
+La Contraloría Interna, llevará a cabo la identificación e investigación de las responsabilidades administrativas de los servidores públicos de los Tribunales Agrarios, y requerirá al servidor o servidores públicos posibles responsables un informe sobre los hechos que se le atribuyen con motivo de la queja para resolver la procedencia de ésta; para lo cual evaluará los elementos y pruebas existentes y realizará indagaciones; si considera que no hay elementos suficientes para iniciar el procedimiento, así la resolverá, y comunicará al quejoso el acuerdo respectivo. En los asuntos que así lo determine el Contralor Interno, podrá solicitarse la opinión de la Dirección General de Asuntos Jurídicos.
 
-La queja deberá presentarse en la Oficialía de Partes del Tribunal Superior o del Tribunal Unitario al que corresponda el servidor público contra quien se haga valer.
-
-Las quejas que se formulen deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
-
-La queja podrá presentarse de manera verbal cuando se trate de miembros de comunidades indígenas, ejidatarios, comuneros o avecindados.
-
-En todo caso, deberá levantarse un acta de la diligencia, dándose copia al quejoso.
-
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 73.
 
-La Contraloría Interna sólo conocerá quejas de carácter administrativo; los actos de naturaleza jurisdiccional podrán ser recurridos por los medios de impugnación que la ley permita. En estos casos, la Contraloría desechará la queja por improcedente.
+En caso de existir los elementos suficientes, la Contraloría Interna acordará la instauración y sustanciación del procedimiento de responsabilidad, e impondrá las sanciones correspondientes, conforme a los siguientes lineamientos:
 
-La Contraloría Interna recibirá las quejas que estén debidamente fundadas y motivadas contra los servidores públicos de los tribunales agrarios y determinará si hay elementos suficientes para iniciar el procedimiento administrativo. Cuando éste sea procedente se sustanciará en los términos del artículo 74 de este Reglamento. En caso contrario, se informará al interesado. Las quejas anónimas serán desechadas de plano.
+I.- Se notificará al posible responsable de la instauración del procedimiento y se le solicitará su informe en torno a los hechos que se le atribuyen y que pudieran ser causa de responsabilidad administrativa.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+En la notificación deberá señalarse el lugar, día y hora en que tendrá verificativo la misma; caso de considerarse necesaria la celebración de una audiencia, se comisionará personal de la Contraloría Interna para su desahogo, la autoridad ante la cual se desarrollará ésta; los actos u omisiones que se le atribuyan al servidor público y el derecho que tiene a comparecer asistido de un defensor.
+
+La notificación se practicará de manera personal al supuesto responsable, en términos de lo dispuesto por el artículo 310 y siguientes del Código Federal de Procedimientos Civiles, aplicado supletoriamente.
+
+Las notificaciones o citaciones que deban efectuarse fuera del Distrito Federal en donde reside la Contraloría Interna de los Tribunales Agrarios, podrán practicarse por conducto de los Tribunales Unitarios en cuya jurisdicción territorial se encuentre el servidor público contra quien se formuló la queja, la cual deberá encomendarse mediante comunicación por escrito.
+
+En dicha comunicación deberá señalarse expresamente la diligencia cuya práctica se solicita; los datos de identificación y localización del servidor público respectivo, y el plazo en el cual deberá realizarse aquélla, así como acompañarse de la documentación correspondiente.
+
+El incumplimiento de lo anterior por parte de los servidores públicos de los Tribunales Agrarios a quienes se solicite el auxilio para la práctica de las notificaciones antes mencionadas, será causa de responsabilidad administrativa.
+
+Hecha la notificación, si el servidor público deja de comparecer sin causa justificada, se tendrán por ciertos los actos u omisiones que se le atribuyen.
+
+Entre la fecha de la citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de veinte días hábiles.
+
+II.- Concluida la audiencia, se concederá al posible responsable un plazo de cinco días hábiles para que ofrezca los elementos de prueba que estime pertinentes y que tengan relación con los hechos que se le atribuyen.
+
+III.- Desahogadas las pruebas que fueren admitidas, el Contralor Interno resolverá dentro de los cuarenta y cinco días hábiles siguientes sobre la inexistencia de responsabilidad o impondrá al infractor las sanciones administrativas correspondientes y le notificará la resolución en un plazo no mayor de diez días hábiles. Dicha resolución, en su caso, se notificará para los efectos de su ejecución al jefe inmediato y al Presidente, en un plazo no mayor de diez días hábiles.
+
+IV.- Durante la sustanciación del procedimiento, el contralor interno o la persona comisionada por éste para el efecto podrá practicar todas las diligencias tendientes a investigar la posible responsabilidad del servidor público contra el que se haya interpuesto queja, así como requerir a éste y a las áreas involucradas, la información y documentación que se relacione con la posible responsabilidad, estando obligadas éstas a proporcionarlas de manera oportuna.
+
+Si encontraran que no cuentan con elementos suficientes para resolver o advirtieran datos o información que impliquen nueva responsabilidad administrativa a cargo del posible responsable o de otros servidores públicos, podrán disponer la práctica de otras diligencias o citar para otra u otras audiencias, y
+
+V.- Previa o posteriormente al citatorio al posible responsable, el Contralor Interno podrá determinar la suspensión temporal de su empleo, cargo o comisión, si a su juicio así conviene para la conducción o continuación de las investigaciones. La suspensión temporal no prejuzga respecto de la responsabilidad del servidor público. La determinación del Contralor Interno o del titular del área de responsabilidades hará constar expresamente esta salvedad.
+
+La suspensión temporal a que se refiere el párrafo anterior suspenderá los efectos del acto que haya dado origen a la ocupación del empleo, cargo o comisión, y regirá desde el momento en que sea notificada al interesado.
+
+La suspensión cesará cuando así lo resuelva el Contralor Interno, independientemente de la iniciación o continuación del procedimiento a que se refiere el presente artículo en relación con la posible responsabilidad del servidor público. En todos los casos, la suspensión cesará cuando se dicte la resolución en el procedimiento correspondiente.
+
+En el supuesto de que el servidor público suspendido temporalmente no resultara administrativamente responsable, será restituido en el goce de sus derechos y se le cubrirán las percepciones que debió recibir durante el tiempo en que estuvo suspendido. Se levantará acta circunstanciada de todas las diligencias que se practiquen, teniendo la obligación de suscribirla quienes intervengan en ella, si se negaren hacerlo, se asentará dicha circunstancia en el propio documento. Asimismo, se les apercibirá de las penas en que incurren quienes falten a la verdad.
+
+Las resoluciones y acuerdos del Contralor Interno o del titular del área de responsabilidades, durante el procedimiento constarán por escrito.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 74.
 
-Corresponde a la Contraloría Interna la identificación e investigación de las responsabilidades administrativas y requerirá al servidor o servidores públicos imputados un informe sobre los hechos motivo de la queja para resolver la procedencia de ésta; para lo cual evaluará los elementos y pruebas existentes, y realizará indagaciones; si considera que no hay elementos suficientes para iniciar el procedimiento, pedirá opinión a la Dirección General Jurídica y así la resolverá comunicando al quejoso el acuerdo respectivo.
+Las sanciones por falta administrativa consistirán en:
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+a) Amonestación privada o pública;
+
+b) Suspensión del empleo, cargo o comisión por un periodo no menor de tres días ni mayor a un año;
+
+c) Destitución del puesto;
+
+d) Sanción económica, e
+
+e) Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público.
+
+Cuando no se causen daños o perjuicios ni exista beneficio o lucro alguno, se impondrán de seis meses a un año de inhabilitación.
+
+Cuando la inhabilitación se imponga como consecuencia de un acto u omisión que implique beneficio o lucro, o cause daños o perjuicios, será de uno hasta diez años, si el monto de aquéllos no excede de doscientas veces el salario mínimo general mensual vigente en el Distrito Federal, y de diez a veinte años si excede de dicho límite. Este último plazo de inhabilitación también será aplicable por conductas graves de los servidores públicos.
+
+En el caso de infracciones graves se impondrá, además, la sanción de destitución.
+
+Se considerará grave el incumplimiento a las obligaciones previstas en las fracciones VIII, X, XI a XIV, XVI, XIX, XXII, XXIII del artículo 8 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos.
+
+Tratándose de las sanciones de amonestación privada o pública serán aplicadas directamente por la Contraloría Interna.
+
+La Contraloría Interna puede emitir su resolución tratándose de las sanciones a que se refieren los incisos b), c), d) y e) según corresponda, pero para que surta efectos es necesario que el Pleno del Tribunal Superior la ratifique, para tal efecto la Contraloría Interna deberá enviar a la Secretaría General de Acuerdos el expediente administrativo con su respectiva resolución para ser presentada en la sesión correspondiente.
+
+En los casos antes mencionados, la resolución correspondiente será notificada por la Contraloría Interna a los interesados dentro de un plazo no mayor de diez días hábiles.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 75.
 
-En caso de procedencia de la queja, acordará la instauración y sustanciación del procedimiento en los términos siguientes:
+Los servidores públicos que resulten responsables en términos de las resoluciones administrativas que se dicten conforme a lo dispuesto por la ley, podrán optar entre interponer el recurso de revocación ante la Contraloría Interna, o impugnarlas directamente ante el Tribunal Federal de Justicia Fiscal y Administrativa, en términos de lo dispuesto por el artículo 25 de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, el cual se sustanciará conforme al procedimiento señalado en el artículo 26 del propio ordenamiento, con la salvedad de que para que surta sus efectos la resolución correspondiente, es necesario que el Pleno del Tribunal Superior Agrario la ratifique.
 
-Citará al servidor o servidores públicos imputados a una audiencia para que ofrezcan pruebas y aleguen lo que a su derecho corresponda; admitidas y desahogadas las pruebas, si las hubiere, la Contraloría Interna emitirá opinión sobre la existencia o no de responsabilidad, dentro de los treinta días hábiles siguientes y someterá a consideración del Tribunal Superior la determinación de existencia de la responsabilidad y la sanción correspondiente, en los términos de la ley aplicable.
-
-La resolución del Tribunal Superior se notificará personalmente al o los interesados dentro de las setenta y dos horas siguientes.
-
-La aplicación de las sanciones a los servidores públicos de los tribunales unitarios agrarios corresponde a los magistrados unitarios y la de los servidores públicos del Tribunal Superior al Oficial Mayor.
-
-El servidor público sancionado podrá presentar recursos de revocación ante el Tribunal Superior dentro de los siguientes 15 días posteriores a la notificación personal que se le haga. Esta se turnará y resolverá conforme a lo previsto en el párrafo segundo del artículo 76 de este Reglamento, dentro de los 15 días siguientes a su presentación.
-
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 76.
 
-En el caso de faltas atribuidas a los magistrados que sean notoriamente improcedentes, infundadas o anónimas la Contraloría Interna las desechará de plano contando con la opinión de la Dirección General Jurídica.
+El Tribunal Superior, sin trámite previo alguno, podrá imponer la corrección disciplinaria de apercibimiento a los servidores públicos de los Tribunales Agrarios que falten al buen orden, respeto y consideración, dentro de los propios Tribunales o en su actuación ante otros Organos Jurisdiccionales.
 
-En los demás casos, la determinación de la responsabilidad y la aplicación de la sanción corresponde exclusivamente al Tribunal Superior. Para su trámite se remitirá el expediente al magistrado que corresponda, según el turno respectivo, quien previa sustanciación y estudio de la misma, concediendo el derecho de audiencia al magistrado imputado, en un plazo no mayor de quince días, elaborará el proyecto de resolución que someterá al conocimiento del Tribunal Superior para su resolución definitiva, misma que podrá ser impugnada en los términos señalados en el artículo anterior.
+En caso de falta grave de los magistrados del Tribunal Superior y de los Tribunales Unitarios, en el desempeño de sus cargos, solamente podrán ser removidos conforme al procedimiento aplicable para los funcionarios del Poder Judicial de la Federación, de acuerdo con lo establecido en el segundo párrafo del artículo 17 de la Ley Orgánica de los Tribunales Agrarios.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 77.
 
-La sanción se notificará personalmente tanto al interesado como al quejoso, y se dará aviso a los órganos correspondientes.
+Para la determinación de la responsabilidad y aplicación de la sanción correspondiente, en el caso de supuestas faltas administrativas de los magistrados, la Contraloría Interna, previa sustanciación y estudio de la queja, concederá el derecho de audiencia al Magistrado en cuestión, y en un plazo no mayor de treinta días, elaborará una propuesta de resolución que someterá a la aprobación del Tribunal Superior, por lo menos ocho días antes de la celebración de la Sesión Plenaria correspondiente, previa opinión de la Dirección General de Asuntos Jurídicos.
 
-> <small>(REFORMADO, D.O.F. 1 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 78.
 
-Las disposiciones de este capítulo se observarán sin perjuicio de lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado, en la Ley Orgánica y en otros ordenamientos aplicables supletoriamente.
+La sanción se notificará personalmente tanto al Magistrado sancionado como al quejoso.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 79.
 
-(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
+Las resoluciones pronunciadas por el Tribunal Superior, podrán ser impugnadas por el Magistrado sancionado mediante el recurso de revocación que deberá presentar ante la Oficialía de Partes del Tribunal Superior, dentro del término de quince días siguientes a la notificación personal que se le haga, la cual se tramitará en los mismos términos que el escrito de queja.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### Artículo 80.
 
-(DEROGADO, D.O.F. 1 DE NOVIEMBRE DE 2000)
+Las disposiciones de este capítulo se observarán sin perjuicio de lo establecido en la Ley Federal de los Trabajadores al Servicio del Estado, en la Ley Orgánica de los Tribunales Agrarios, y la del Poder Judicial de la Federación, así como otros ordenamientos aplicables supletoriamente.
 
 ###### Artículo 81.
 
@@ -1022,3 +1116,7 @@ D.O.F. 1 DE NOVIEMBRE DE 2000.
 SEGUNDO.- Estas reformas entrarán en vigor el día primero de noviembre de este año de dos mil.
 
 TERCERO.- Publíquese en el Diario Oficial de la Federación.
+
+D.O.F. 7 DE MARZO DE 2003.
+
+PRIMERO.- Estas reformas entrarán en vigor al día siguiente de su aprobación.
