@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-catastro-del-estado-de-campeche-3448"
 country: "mx"
 rank: "ley"
 publication_date: "1992-04-11"
-last_updated: "1992-04-11"
+last_updated: "1994-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE CATASTRO DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MARZO DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 11 de abril de 1992.
 
@@ -135,33 +135,59 @@ A falta de disposición expresa, deberán considerarse como normas supletorias l
 
 ### CAPITULO SEGUNDO. DE LAS AUTORIDADES
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 6.
 
-La aplicación de la presente Ley compete a los ayuntamientos de los municipios del Estado, los que organizarán la Dependencia Catastral con el rango de Dirección, Subdirección o Departamento, según sus necesidades, a la que dotarán del personal técnico y administrativo que resulte necesario.
+La aplicación de la presente Ley compete a:
+
+I. Los Ayuntamientos de los Municipios del Estado; y
+
+II. El Instituto Catastral del Estado de Campeche o "ICECAM", como organismo descentralizado de la Administración Pública del Estado.
+
+Los Ayuntamientos de los Municipios del Estado organizarán su correspondiente dependencia catastral con el rango de Dirección, Subdirección o Departamento, según sus necesidades y recursos presupuestales, a las que dotarán del personal técnico y administrativo que resulte suficiente.
+
+El ICECAM se organizará y funcionará conforme a lo que disponga esta Ley y a lo que se establezca en el Acuerdo del Ejecutivo del Estado que lo cree.
 
 ###### Artículo 7.
 
 Compete a los ayuntamientos del Estado:
 
-I. Establecer la política, las normas y lineamientos generales del Catastro y evaluar su cumplimiento;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
 
-II. Establecer los programas tendientes a lograr los objetivos del Catastro;
+I. Proponer al ICECAM las políticas, normas y lineamientos generales de catastro y evaluar su cumplimiento;
 
-III. Suscribir acuerdos de coordinación en materia de Catastro con dependencias y entidades de la Administración Pública federal y estatal, con otros ayuntamientos del Estado y con particulares;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
 
-IV. Formular los proyectos de zonificación catastral y de valores unitarios de suelo y de construcción;
+II. Proponer al ICECAM los programas tendientes a lograr los objetivos del catastro;
 
-V. Formular las normas técnicas y administrativas aplicables a la realización de los trabajos catastrales, incluyendo la identificación, el registro, la valuación, la revaluación y el deslinde de los predios ubicados en el municipio respectivo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
 
-VI. Apoyar a las autoridades estatales en los estudios para determinar los límites del territorio del Estado y de los municipios;
+III. Aplicar las políticas, las normas, los lineamientos y los programas de catastro en el territorio de su respectivo Municipio, considerando los ordenamientos establecidos por el ICECAM;
 
-VII. Integrar la información catastral de su municipio:
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
 
-VIII. Elaborar y mantener actualizada la cartografía catastral de su municipio;
+IV. Suscribir acuerdos de coordinación en materia de catastro, con dependencias y entidades de la Administración Pública Estatal, con otros Ayuntamientos del Estado y con particulares;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
+
+V. Formular y presentar al ICECAM, para su revisión y aprobación, los proyectos de zonificación catastral y de tablas de valores unitarios del suelo y construcción;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
+
+VI. Proponer al ICECAM las normas técnicas y administrativas aplicables a la realización de los trabajos catastrales, incluyendo la identificación, el registro, la valuación, la revaluación y el deslinde de los predios ubicados en sus respectivos Municipios;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
+
+VII. Apoyar a las autoridades estatales en los estudios para determinar los límites del territorio del Estado y de los Municipios;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 1994)</small>
+
+VIII. Integrar la información catastral de su respectivo Municipio y elaborar el proyecto de cartografía catastral del mismo, el que mantendrá debidamente actualizado, para someterlo a la consideración del ICECAM;
 
 IX. Asignar Clave Catastral a cada uno de los predios de su municipio;
 
-X. Inscribir los predios en el padrón catastral y mantenerlo actualizado;
+X. Inscribir los predios en el Padrón Catastral y mantenerlo actualizado;
 
 XI. Solicitar a los propietarios o poseedores de predios, sean de particulares, de ejidatarios, de comuneros o de dependencias y organismos federales, estatales y municipales, los datos, documentos o informes que sean necesarios para integrar y actualizar el Padrón Catastral;
 
@@ -175,9 +201,11 @@ XV. Expedir los acuerdos delegatorios de facultades correspondientes; y
 
 XVI. Las demás que determine esta Ley y otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 8.
 
-Las dependencias y las entidades de la Administración Pública estatal y federal, así como los particulares, están obligados a proporcionar a la Dependencia Catastral toda la información que ésta solicite, en relación con sus actividades catastrales, para el mejor desempeño de sus funciones.
+Las dependencias y entidades de la Administración Pública, Estatal y Federal, así como los particulares, están obligados a proporcionar a la respectiva dependencia catastral municipal y al ICECAM, toda la información que éstos les soliciten en relación con sus actividades catastrales, para el mejor desempeño de sus funciones.
 
 ## TITULO SEGUNDO. DEL CATASTRO
 
@@ -187,9 +215,11 @@ Las dependencias y las entidades de la Administración Pública estatal y federa
 
 Los ayuntamientos están obligados a conformar su Padrón Catastral en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 10.
 
-Los propietarios y poseedores de los predios ubicados dentro del territorio del municipio deberán inscribirlos en el Padrón Catastral, señalando sus características físicas, ubicación, uso y valor, así como los datos socioeconómicos y estadísticos necesarios para cumplir con los objetivos del Catastro.
+Los propietarios y poseedores de los predios ubicados dentro del territorio del Municipio deberán inscribirlos en el Padrón Catastral, señalando sus características físicas, ubicación y uso, así como los datos socioeconómicos y estadísticos necesarios para cumplir con los objetivos del catastro; asimismo proporcionarán los datos de inscripción del predio en la correspondiente oficina del Registro Público de la Propiedad.
 
 ###### Artículo 11.
 
@@ -321,6 +351,10 @@ Las aclaraciones o información adicional solicitada por el Ayuntamiento serán 
 
 Los notarios públicos están obligados a registrar ante la Dependencia Catastral respectiva toda transmisión de la propiedad de los inmuebles, antes de registrar dichos actos en el Registro Público de la Propiedad.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 1994)</small>
+
+En caso de no concretarse el registro del acto, los notarios deberán informar de ello a la dependencia catastral para su conocimiento y efectos correspondientes.
+
 ###### Artículo 28.
 
 Las personas físicas o morales que adquieran la propiedad, o posesión de predios deberán manifestarlo de inmediato a la Dependencia Catastral correspondiente.
@@ -339,9 +373,11 @@ Los ayuntamientos proporcionarán información y expedirán constancias y certif
 
 ### CAPITULO SEGUNDO. DE LOS VALORES UNITARIOS
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 32.
 
-Los ayuntamientos podrán proponer al H. Congreso del Estado para su aprobación, durante el mes de diciembre de cada año, la división del territorio de sus respectivos municipios en zonas y sectores catastrales, así como las tablas de los valores unitarios de suelo y de construcción. Una vez que el H. Congreso del Estado aprueba las zonas y sectores catastrales, así como los valores unitarios del suelo y de construcción, serán publicados en el Periódico Oficial del Gobierno del Estado y tendrán vigencia a partir del día siguiente de su publicación.
+Los Ayuntamientos propondrán al ICECAM, para su conocimiento y revisión, los proyectos de división del territorio de sus respectivos Municipios en zonas y sectores catastrales, así como los de las tablas de los valores unitarios de suelo y de construcción. Hecha la revisión y, en su caso, las modificaciones o adecuaciones que determine el ICECAM, los Ayuntamientos los presentarán, en el mes de Diciembre, al Congreso del Estado para su aprobación definitiva. El decreto que expida el Congreso se publicará en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
 
 ###### Artículo 33.
 
@@ -407,7 +443,9 @@ Los ayuntamientos establecerán el valor catastral de cada predio de acuerdo con
 
 Los ayuntamientos elaborarán sus Instructivos de Valuación, Revaluación y Deslinde de los predios, en los cuales señalarán cada uno de los factores de mérito y demérito que inciden en el proceso de valuación, revaluación y deslinde.
 
-Los instructivos serán autorizados por el H. Congreso del Estado y serán publicados en el Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
+Los instructivos deberán apegarse a la normatividad que al respecto emita el ICECAM, organismo al que se turnarán para su revisión. Hecha la misma, los instructivos se someterán a la aprobación del Congreso del Estado. El correspondiente decreto se publicará en el Periódico Oficial del Gobierno del Estado y entrará en vigor al día siguiente de su publicación.
 
 ###### Artículo 40.
 
@@ -435,9 +473,11 @@ Para los predios que estén sujetos al régimen de propiedad condominal, la valu
 
 La valuación y revaluación catastral de inmuebles será realizada, en su caso, de acuerdo con los datos proporcionados por el interesado en la Solicitud de Registro Catastral. En todos los casos, los valuadores autorizados por los ayuntamientos podrán realizar las visitas y estudios técnicos de campo que sean necesarios para constatar la veracidad de los datos proporcionados por el interesado.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 46.
 
-El personal autorizado para efectuar los trabajos de valuación, revaluación y deslinde, portarán credencial emitida por la Presidencia Municipal del Ayuntamiento respectivo, así como un oficio emitido por la Dependencia Catastral, en el que se señalará la naturaleza del trabajo por realizar.
+El personal autorizado para efectuar los trabajos de valuación, revaluación y deslinde portarán credencial emitida por el ICECAM o por la presidencia del respectivo Ayuntamiento, así como un oficio, emitido por el ICECAM o la correspondiente dependencia catastral municipal, en el que se señalará la naturaleza del trabajo por realizar.
 
 ###### Artículo 47.
 
@@ -511,9 +551,11 @@ Los trabajos de deslinde catastral y de rectificación o aclaración de linderos
 
 ### CAPITULO PRIMERO. CLASIFICACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 56.
 
-Los ayuntamientos autorizarán las formas oficiales para inscribir, manifestar, certificar y notificar el resumen de sus operaciones catastrales, que serán:
+Los Ayuntamientos, en coordinación con el ICECAM, autorizarán las formas oficiales para inscribir, manifestar, certificar y notificar el resumen de sus operaciones catastrales que serán:
 
 I. Cédula Catastral;
 
@@ -555,9 +597,11 @@ d) Fecha de elaboración; y
 
 e) Nombre y firma de la autoridad catastral.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 1994)</small>
+
 ###### Artículo 58.
 
-La Dependencia Catastral del Ayuntamiento conservará el original de la Cédula Catastral.
+La dependencia catastral del Ayuntamiento conservará la copia de la cédula catastral; el original lo remitirá al ICECAM para los efectos que correspondan.
 
 ###### Artículo 59.
 
@@ -878,3 +922,11 @@ SALON DE SESIONES DEL PALACIO LEGISLATIVO, CAMPECHE, CAM., ABRIL 10, 1992.- C. M
 Por lo tanto mando se imprima, publique y circule para su debido cumplimiento.
 
 Dado en el Palacio de Gobierno del Estado, en Campeche a los diez días del mes de abril de mil novecientos noventa y dos.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, ING. JORGE SALOMON AZAR GARCIA.- EL SECRETARIO DE GOBIERNO, LIC. CRUZ MANUEL ALFARO ISAAC.- RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 24 DE MARZO DE 1994.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
