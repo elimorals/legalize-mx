@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-administrativos-para-el-estado-de-2140
 country: "mx"
 rank: "codigo"
 publication_date: "2001-01-29"
-last_updated: "2003-04-22"
+last_updated: "2004-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 2 DE FEBRERO DE 2004.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 29 de enero de 2001.
 
@@ -117,7 +117,13 @@ XXI. Tribunal: Tribunal de lo Contencioso Administrativo del Poder Judicial del 
 
 La Administración Pública, conforme a los principios de descentralización, desconcentración, coordinación, cooperación, eficiencia y eficacia, deberá abstenerse de prácticas que impliquen vías de hecho administrativas contrarias a las garantías constitucionales, a las disposiciones previstas en este Código o en otras normas.
 
-El incumplimiento de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la ley de la materia y este Código, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 2 DE FEBRERO DE 2004)</small>
+
+Para su debida validez y eficacia, las comunicaciones entre los servidores públicos por las que se ordene o solicite la tramitación o ejecución de actos y procedimientos administrativos, así como de acciones de control y evaluación, deberán hacerse en forma escrita, debidamente fundadas y motivadas en las disposiciones aplicables al caso concreto.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 2 DE FEBRERO DE 2004)</small>
+
+El incumplimientos de las disposiciones previstas en este ordenamiento dará lugar a la responsabilidad de los servidores públicos, en términos de la ley de la materia y este Código, sin perjuicio de las demás responsabilidades que señalen las leyes del Estado.
 
 ###### Artículo 4.
 
@@ -251,9 +257,9 @@ Los actos administrativos, tales como reglamentos, decretos, acuerdos, circulare
 
 Los actos administrativos de carácter individual, cuando lo prevean los ordenamientos aplicables, deberán publicarse en el referido órgano informativo oficial.
 
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-Los manuales, instructivos y formatos que, para su organización y funcionamiento expida la Administración Pública estatal, se publicarán en la Gaceta Oficial del estado previamente a su aplicación.
+Los manuales de organización que expidan las dependencias y entidades, se harán públicos a través de internet. Los particulares podrán consultarlos en la unidad administrativa que corresponda y, en su caso, solicitar copia certificada de los mismos, previo pago de los derechos correspondientes. Los instructivos y formatos que expida la Administración Pública estatal se publicarán en la Gaceta Oficial del Estado, previamente a su aplicación.
 
 Los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, expedidos por los ayuntamientos en sus respectivas jurisdicciones, surtirán sus efectos tres días después de su publicación en la Tabla de Avisos del Palacio Municipal.
 
@@ -271,9 +277,11 @@ El acto administrativo válido es ejecutivo cuando el ordenamiento jurídico apl
 
 ### CAPÍTULO III. DE LA NULIDAD, ANULABILIDAD Y REVOCACIÓN
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 16.
 
-La omisión o irregularidad de cualquiera de los elementos de validez exigidos por el artículo 7 de este Código, producirá la nulidad del acto administrativo.
+La omisión o irregularidad de cualquiera de los elementos de validez exigidos por el artículo 7 de este Código, producirá la nulidad del acto administrativo. De igual manera, serán nulas las comunicaciones entre servidores públicos que omitan los requisitos previstos en el segundo párrafo del artículo 3 del presente ordenamiento.
 
 El acto administrativo que se declare jurídicamente nulo, será inválido; no se presumirá legítimo ni ejecutable, ni podrá subsanarse, sin perjuicio de que pueda emitirse un nuevo acto.
 
@@ -413,13 +421,13 @@ Las notificaciones se efectuarán, a más tardar, el día hábil siguiente al en
 
 I. Personalmente a los interesados y por oficio a las autoridades, en su caso, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, regularización del procedimiento y demás resoluciones o actos administrativos que puedan ser impugnados. En estos casos, también podrán efectuarse por correo registrado con acuse de recibo;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-II. Por edicto que se publique por una sola vez en la Gaceta Oficial del estado, y en uno de los periódicos de mayor circulación estatal o nacional, tratándose de emplazamientos, citaciones, requerimientos y demás resoluciones o actos administrativos que puedan impugnarse, cuando el interesado a quien deba notificarse haya desaparecido, se ignore su domicilio, se encuentre fuera del territorio del Estado, sin haber nombrado representante legal, o hubiere fallecido y no se conozca al albacea de la sucesión a quien deba notificarse. En este caso, las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que se haya efectuado su publicación por edicto;
+II. Por edicto que se publique por una sola vez en la Gaceta Oficial del Estado, y en uno de los periódicos de mayor circulación estatal o nacional, cuando la persona a quien deba notificarse hubiese desaparecido, se ignore su domicilio o que éste o el de su representante no se encuentren en territorio nacional, así como en aquellos casos en que la persona hubiere fallecido y no se conozca al representante de la sucesión;
 
-> <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-III. Por estrados ubicados en las oficinas de la administración pública o del Tribunal abiertas al público, cuando así lo señale la parte interesada o se trate de actos distintos a emplazamientos, citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados, fijando durante tres días consecutivos el documento que se notifica. En estos casos, las notificaciones surtirán efectos el día en que se hubiere fijado por última vez el documento; y
+III. Por estrados ubicados en las oficinas de la administración pública o del Tribunal abiertas al público, cuando así lo señale la parte interesada, así como cuando la persona a quien deba notificarse se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales, manteniendo cerrado el local donde tenga su domicilio fiscal, se oponga a la diligencia de notificación, desocupe el local donde tenga su domicilio fiscal, sin presentar el aviso de cambio de domicilio. Al efecto se fijará en los estrados durante cinco días consecutivos el documento que se notifica. En estos casos, se tendrá por practicada la notificación el día en que se hubiere fijado por última vez el documento; y
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -1293,6 +1301,12 @@ Las autoridades podrán, de conformidad con las normas, verificar bienes, person
 
 Al efecto, las autoridades fiscales podrán designar por escrito a notificadores, inspectores, auditores, verificadores y visitadores para que, con ese carácter, diligencien los actos administrativos que se les encomienden.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 162 A. Las autoridades fiscales podrán solicitar de los contribuyentes, responsables solidarios o terceros, datos, informes o documentos para planear y programar actos de fiscalización, sin cumplir con lo dispuesto por las fracciones IV, V, VI y VII del Artículo 177 de este Código.
+
+No se considerará que las autoridades fiscales inician el ejercicio de sus facultades de comprobación, cuando únicamente soliciten los datos, informes y documentos a que se refiere este artículo, pudiendo ejercerlas en cualquier momento.
+
 ###### Artículo 163.
 
 Toda visita de verificación o domiciliaria deberá ajustarse a los procedimientos y formalidades que establezcan este Código y las demás normas.
@@ -1381,13 +1395,13 @@ a) El nombre, denominación o razón social de la persona visitada y el lugar do
 
 b) El nombre de los auditores, inspectores o visitadores que practicarán la diligencia, los cuales se podrán substituir, aumentar o reducir en cualquier tiempo por la autoridad que expidió la orden; en esos casos, se notificará por escrito al visitado; y
 
-c) Tratándose de visitas domiciliarias de carácter fiscal, las contribuciones cuyo cumplimiento vaya a ser objeto de revisión y, en su caso, los ejercicios a que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales en determinado plazo o concretarse únicamente a determinados aspectos, pero sólo en materia de impuestos o derechos, incluso aquellos de carácter federal cuya administración le haya sido encomendada al Estado, o aquellos impuestos sobre los cuales tenga participación y se faculte a las autoridades fiscales estatales o municipales para su verificación;
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
 
-> <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
+c) Tratándose de visitas domiciliarias de carácter fiscal, las contribuciones cuyo cumplimiento vaya a ser objeto de revisión y, en su caso, los ejercicios a que deberá limitarse la visita. Esta podrá ser de carácter general para verificar el cumplimiento de las disposiciones fiscales en determinado plazo o concretarse únicamente a determinados aspectos, pero sólo en materia de impuestos o derechos. Las personas designadas para efectuar la visita la podrán hacer en forma conjunta o separada;
 
-Las personas designadas para efectuar la visita la podrán hacer en forma conjunta o separada;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-II. La visita se realizará en el lugar o lugares señalados en la orden;
+II. La visita se realizará en el lugar o lugares señalados en la orden. De toda visita domiciliaria se levantará acta en la que se harán constar en forma circunstanciada los hechos u omisiones que se hubieren conocido por los visitadores;
 
 I(REFORMADA, G.O. 6 DE ENERO DE 2003)
 
@@ -1403,15 +1417,17 @@ VII. Tratándose de visitas domiciliarias a establecimientos que expendan bebida
 
 VIII. Los libros, registros, sistemas, declaraciones fiscales, avisos, solicitudes y demás documentos que integren su contabilidad, serán examinados en el establecimiento, domicilio u oficina del visitado. Los auditores, inspectores o visitadores estarán facultados para obtener copias de dicha contabilidad y demás documentos que acrediten el cumplimiento de las disposiciones aplicables, para que, previa cotejo con sus originales, sean certificadas por autoridad competente o fedatario público;
 
-IX. Al concluirse la visita, se levantará un acta donde se harán constar los resultados en forma circunstanciada;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+IX. Al concluirse la visita, se levantará un acta donde se harán constar los resultados en forma circunstanciada. En materia fiscal, si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado;
 
-X. El visitado, los testigos y los auditores, inspectores o visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará, en todo caso, al visitado o a la persona con la que se entienda la diligencia; si se niegan a aceptarlo, dicha negativa se asentará en la propia acta sin que esto afecte su validez y valor probatorio;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+X. El visitado, los testigos y los auditores, inspectores o visitadores firmarán el acta final. Si el visitado o los testigos se niegan a firmar, así se hará constar, sin que esta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará, en todo caso, al visitado o a la persona con la que se entienda la diligencia; si se niegan a aceptarlo, dicha negativa se asentará en la propia acta sin que esto afecte su validez y valor probatorio;
 
-XI. Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita;
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
+
+XI. Con las mismas formalidades indicadas en las fracciones IV, V, IX y X de este artículo, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita. Una vez levantada el acta final, no se podrán levantar actas complementarias sin que exista una nueva orden de visita. Los hechos u omisiones consignados por los visitadores en las actas hacen prueba de la existencia de tales hechos o de las omisiones encontradas;
 
 XII. Cuando en el desarrollo de una visita las autoridades conozcan hechos u omisiones que puedan entrañar incumplimiento de las normas, los consignarán en forma circunstanciada en actas parciales. También se asentarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante, se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos veinte días, durante los cuales el visitado podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones;
 
@@ -1459,9 +1475,21 @@ Las autoridades fiscales deberán concluir la visita que se desarrolle en el dom
 
 Lo antes dispuesto no es aplicable a aquellos contribuyentes que estén obligados a dictaminar sus estados financieros u opten por hacerlo en los términos de la ley de la materia, por lo que en el caso de visita o revisión a los mismos, las autoridades fiscales podrán continuar con el ejercicio de sus facultades de comprobación sin sujetarse a la limitación antes señalada.
 
-El plazo a que se refiere el primer párrafo de este artículo, podrá ampliarse por períodos iguales hasta por dos ocasiones, siempre que el oficio mediante el cual se notifique la prórroga correspondiente sea expedido por el superior jerárquico de la autoridad fiscal que ordenó la visita o revisión.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+El plazo a que se refiere el primer párrafo de este artículo podrá ampliarse por períodos iguales, hasta por dos ocasiones, siempre que el oficio mediante el cual se notifique la prórroga correspondiente sea expedido, en la primera ocasión, por la autoridad o autoridades fiscales que ordenaron la visita o revisión y, en la segunda, por el superior jerárquico de la autoridad o autoridades fiscales que ordenaron la citada visita o revisión.
 
 Cuando las autoridades no cierren el acta final de visita o no notifiquen el oficio de observaciones o, en su caso, el de conclusión de la revisión dentro de los plazos mencionados, ésta se entenderá concluida en esa fecha, quedando sin efectos la orden y las actuaciones derivadas de dicha visita o revisión.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 173 A. Los plazos para concluir las visitas domiciliarias o las revisiones de gabinete a que se refiere el primer párrafo del artículo anterior y los plazos de las prórrogas que procedan conforme a dicho artículo, se suspenderán en los casos de:
+
+I. Huelga, a partir de que se suspendan temporalmente el trabajo y hasta que termine la huelga;
+
+II. Fallecimiento del contribuyente, hasta en tanto se designe al representante legal de la sucesión; o
+
+III. Cuando el contribuyente desocupe su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando no se le localice en el que haya señalado, hasta que se le localice.
 
 ###### Artículo 174.
 
@@ -1489,9 +1517,9 @@ I. Cuando los contribuyentes omitan presentar en el período de pago la declarac
 
 II. Tratándose de aquellos casos en que se conozca de manera fehaciente la cantidad a la que le puede ser aplicada la tasa o cuota respectiva, la propia autoridad fiscal podrá hacer efectiva al contribuyente una cantidad igual a la contribución que a éste le corresponda determinar;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-III. Cuando el contribuyente omita presentar en forma consecutiva las últimas tres declaraciones de las contribuciones a que se encuentra obligado o cuando no atienda a dos requerimientos de la autoridad en los términos que menciona la fracción IV de este artículo, la autoridad fiscal competente podrá ordenar la práctica de visita domiciliaria; o
+III. Embargar precautoriamente los bienes o la negociación u ordenar la práctica de visita domiciliaria o revisión de gabinete, cuando el contribuyente omita presentar, en forma consecutiva, las últimas tres declaraciones de las contribuciones a que se encuentra obligado o cuando no atienda a dos requerimientos de la autoridad, en los términos que dispone la fracción IV de este artículo. El embargo quedará sin efecto cuando el contribuyente cumpla con el requerimiento o dos meses después de practicado si durante dicho plazo las autoridades fiscales no inician el ejercicio de sus facultades de comprobación; o
 
 IV. Requerir la presentación del documento omitido en un plazo de quince días para el primer requerimiento, y de seis días para el subsecuente. Si no se atiende el requerimiento se impondrá la multa correspondiente, en términos de la ley de la materia. La autoridad en ningún caso formulará más de dos requerimientos por una misma omisión.
 
@@ -1525,9 +1553,11 @@ III. Quince días contados a partir del siguiente a aquel en que se le notificó
 
 Los plazos a que se refieren las fracciones II y III de este artículo, se podrán ampliar por las autoridades fiscales por diez días más, siempre que, mediante escrito, sea solicitado por el interesado antes de vencer el plazo de que dispone para presentar la documentación solicitada, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 179.
 
-Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes formulados por contadores públicos sobre los estados financieros de los contribuyentes; en cualquier otro dictamen que tenga repercusión fiscal formulado por contador público o relación con el cumplimiento de las disposiciones fiscales; o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes.
+Se presumirán ciertos, salvo prueba en contrario, los hechos afirmados en los dictámenes que, conforme a las disposiciones fiscales federales, formulen los contadores públicos sobre los estados financieros de los contribuyentes; en cualquier otro dictamen que tenga repercusión fiscal formulado por contador público o relación con el cumplimiento de las disposiciones fiscales; o bien en las aclaraciones que dichos contadores formulen respecto de sus dictámenes.
 
 #### SECCIÓN CUARTA. DE LA DETERMINACIÓN PRESUNTIVA
 
@@ -1657,7 +1687,13 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 El crédito fiscal se extingue por prescripción en el término de cinco años.
 
-El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en el recurso de revocación. El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que la autoridad notifique o haga saber al deudor o por el reconocimiento expreso a tácito de éste respecto a la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+> <small>(REFORMADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+El término de la prescripción se inicia a partir de la fecha en que el pago pudo ser legalmente exigido y se podrá oponer como excepción en el recurso de revocación. El término para que se consuma la prescripción se interrumpe en los siguientes casos:
+
+I. Con cada gestión de cobro que la autoridad notifique o haga saber al deudor. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del deudor.
+
+II. Por el reconocimiento expreso o tácito del contribuyente deudor respecto a la existencia del crédito.
 
 Los interesados podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
@@ -1706,6 +1742,28 @@ I. Cuando no se efectúe el pago en los términos del artículo 194 de este Cód
 II. A petición del interesado, para garantizar un crédito fiscal; o
 
 III. Cuando a criterio razonado de la autoridad fiscal hubiere peligro de que el obligado se ausente, enajene u oculte bienes o realice cualquier maniobra tendente a evadir el cumplimiento del crédito fiscal. La resolución que determino el crédito se notificará al interesado dentro de los treinta días posteriores a la fecha del embargo precautorio. Si el crédito fiscal se cubre en la diligencia del requerimiento de pago, el deudor no estará obligado a pagar gastos de ejecución.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 196 A. Sin perjuicio de lo señalado en el artículo anterior, se podrá practicar embargo precautorio sobre los bienes o la negociación del contribuyente, para asegurar el interés fiscal, cuando:
+
+I. El contribuyente se oponga u obstaculice la iniciación o desarrollo de las facultades de comprobación de las autoridades fiscales o no se pueda notificar su inicio por haber desaparecido o por ignorarse su domicilio;
+
+II. Después de iniciadas las facultades de comprobación, el contribuyente desaparezca o exista riesgo inminente de que oculte, enajene o dilapide sus bienes;
+
+III. El contribuyente se niegue a proporcionar la contabilidad que acredite el cumplimiento de las disposiciones fiscales, a que está obligado;
+
+IV. El crédito fiscal no sea exigible pero haya sido determinado por el contribuyente o por la autoridad en el ejercicio de sus facultades de comprobación, cuando a juicio de ésta exista peligro inminente de que el obligado realice cualquier maniobra tendente a evadir su cumplimiento. En este caso, la autoridad trabará el embargo precautorio hasta por un monto equivalente al de la contribución o contribuciones determinadas, incluyendo sus accesorios. Si el pago se hiciera dentro de los plazos legales, el contribuyente no estará obligado a cubrir los gastos que origine la diligencia y se levantará el embargo.
+
+La autoridad que practique el embargo precautorio levantará acta circunstanciada en la que precise las razones del embargo.
+
+La autoridad requerirá al obligado, en el caso de la fracción IV de este artículo para que en el término de tres días desvirtúe el monto por el que se realizó el embargo. Transcurrido el plazo antes señalado, sin que el obligado hubiera desvirtuado el monto del embargo precautorio, éste quedará firme.
+
+El embargo precautorio quedará sin efectos si la autoridad no emite, en el caso de las fracciones II y III de este artículo, resolución en la que determine créditos fiscales dentro de los plazos establecidos en los artículos 173 y 177 de este Código y de 18 meses en el de la fracción I, contados desde la fecha en que fue practicado. Si dentro de los plazos señalados, la autoridad los determina, el embargo precautorio se convertirá en definitivo y se proseguirá el procedimiento administrativo de ejecución conforme a las disposiciones de este capítulo, debiendo dejar constancia de la resolución y de la notificación de la misma en el expediente de ejecución. Si el particular garantiza el interés fiscal en los términos del artículo 51 del Código Financiero se levantará el embargo.
+
+El embargo precautorio practicado antes de la fecha en que el crédito fiscal sea exigible, se convertirá en definitivo al momento de la exigibilidad de dicho crédito fiscal y se aplicará el procedimiento administrativo de ejecución.
+
+Son aplicables al embargo precautorio a que se refiere este artículo y el previsto por el artículo 176, fracción III, de éste Código, las disposiciones establecidas para el embargo y para la intervención en el procedimiento administrativo de ejecución que, conforme a su naturaleza, le sean aplicables.
 
 ###### Artículo 197.
 
@@ -1827,9 +1885,11 @@ Si no fuere factible romper a forzar las cerraduras de cajas y otros objetos uni
 
 El notificador ejecutor subsanará cualquier otra dificultad que se suscite en la diligencia de embargo, dando aviso de inmediato al jefe de la oficina ejecutara.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 2 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 210.
 
-El jefe de la oficina ejecutara, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes inmuebles; o de interventores con cargo a la caja o de administradores en los embargos de negociaciones comerciales, industriales o agropecuarias, sin perjuicio de las determinaciones de las autoridades jurisdiccionales competentes.
+El jefe de la oficina ejecutora, bajo su responsabilidad, nombrará y removerá libremente a los depositarios, quienes tendrán el carácter de administradores en los embargos de bienes inmuebles; o de interventores con cargo a la caja o de administradores en los embargos de negociaciones comerciales, industriales o agropecuarias, sin perjuicio de las determinaciones de las autoridades jurisdiccionales competentes. Cuando el nombrado no aceptare el cargo o el jefe de la oficina exactora no lo hubiere designado, el ejecutor podrá efectuar el nombramiento correspondiente dentro de la misma diligencia de embargo.
 
 > <small>(ADICIONADO, G.O. 6 DE ENERO DE 2003)</small>
 
@@ -2137,8 +2197,6 @@ Para resolver sobre la preferencia de derechos, se estará a lo dispuesto por lo
 
 Las autoridades, a través de sus unidades de control interno, serán competentes para la determinación de responsabilidades a los servidores públicos y, en su caso, para el fincamiento de las indemnizaciones y sanciones administrativas que correspondan; así como para promover ante las autoridades competentes el fincamiento de otras responsabilidades y presentar las denuncias y querellas penales, en términos de las normas aplicables.
 
-> <small>N. DE E. ES DE OBSERVARSE QUE EN EL EXTRACTO DEL DECRETO DE REFORMAS PUBLICADO EN LA G.O. DE 22 DE ABRIL DE 2003, EL LEGISLADOR ES OMISO AL SEÑALAR EL ESTADO QUE GUARDARA EL PARRAFO SEGUNDO DEL PRESENTE ARTICULO, SIN EMBARGO, DE LA LECTURA DE ESTE ULTIMO SE CONCLUYE QUE DICHO PARRAFO FUE DEROGADO, LO QUE SE HACE DEL CONOCIMIENTO DEL USUARIO.</small>
-
 > <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
 
 Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, las unidades de control interno de las autoridades aplicarán el siguiente procedimiento:
@@ -2147,9 +2205,9 @@ Cuando se actualice alguno de los supuestos previstos en el párrafo anterior, l
 
 I. Se citará personalmente al presunto responsable a una audiencia en la sede de la autoridad, haciéndole saber los hechos u omisiones que se le imputan y que sean causa de responsabilidad en los términos de ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y formular alegatos, por sí o por medio de un defensor; apercibido que de no comparecer sin justa causa, se tendrá por precluido su derecho para ofrecer pruebas y formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días;
 
-> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADA, G.O. 2 DE FEBRERO DE 2004)</small>
 
-II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan; cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables, se proceda a su recuperación mediante el Procedimiento Administrativo de Ejecución;
+II. Celebrada la audiencia, se emitirá resolución dentro de los quince días siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanciones correspondientes, y se notificará al responsable y al superior jerárquico dicha resolución para los efectos que procedan. Cuando la resolución constituya, además, un crédito fiscal, se remitirá un tanto autógrafo de la misma a la oficina ejecutora que corresponda, para el efecto de que si, en un plazo de quince días siguientes a la fecha en que surta efectos la notificación, el crédito fiscal no es cubierto, o no es impugnado y debidamente garantizado en términos de las normas aplicables, se haga efectivo a través del procedimiento administrativo de ejecución;
 
 > <small>(REFORMADA, G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -2207,11 +2265,139 @@ Si el servidor público presunto responsable, confesare su responsabilidad por e
 
 Las atribuciones de los órganos de control interno de las autoridades y del superior jerárquico para determinar responsabilidades e imponer sanciones caducan en tres años, contados a partir de la fecha de la comisión de la infracción.
 
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+### CAPÍTULO IV BIS. DEL PROCEDIMIENTO PARA LA RESCISIÓN ADMINISTRATIVA DE LOS CONTRATOS DE OBRA PÚBLICA
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 A. Las Dependencias y Entidades de la Administración Pública, por sí o a solicitud del órgano interno de control, podrán rescindir administrativamente los contratos de obra pública por contravención a las disposiciones de la Ley de Obras Públicas del Estado y demás aplicables en la materia, así como por el incumplimiento de cualquiera de las obligaciones del contratista.
+
+La rescisión operará de pleno derecho y sin necesidad de declaración judicial, en aquellos casos en los que la dependencia o entidad sea la que determine rescindir un contrato, de conformidad con el procedimiento que establece el presente capítulo.
+
+Cuando el contratista considere que existen elementos para rescindir el contrato, será necesario que acuda ante el Tribunal de lo Contencioso Administrativo del Poder Judicial del Estado para obtener la declaración correspondiente.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 B. Serán causales de rescisión administrativa de los contratos de obra pública, por causas imputables al contratista:
+
+I. Si de manera injustificada no inicia los trabajos objeto del contrato dentro de los quince días siguientes a la fecha convenida:
+
+II. Si interrumpe injustificadamente la ejecución de los trabajos o se niega a reparar o reponer alguna parte de ellos, que hubiere sido detectada como defectuosa por la dependencia o entidad;
+
+III. Si no ejecuta los trabajos de conformidad con lo estipulado en el contrato o sin motivo justificado no acata las órdenes dadas por el residente de obra o por el supervisor;
+
+IV. Si no da cumplimiento a los programas de ejecución por falta de materiales, trabajadores o equipo de construcción y que, a juicio de la dependencia o entidad, el atraso pueda dificultar la terminación satisfactoria de los trabajos en el plazo estipulado.
+
+No implicará retraso en el programa de ejecución de la obra y, por tanto, no se considerará como incumplimiento del contrato y causa de su rescisión, cuando éste tenga lugar por la falta de información referente a planos, especificaciones o normas de calidad, de entrega física de las áreas de trabajo o de entrega oportuna de materiales y equipos de instalación permanente, de licencias, y permisos que deba proporcionar o suministrar la contratante, así como cuando la dependencia o entidad hubiere ordenado la suspensión de los trabajos;
+
+V. Si es declarado en concurso mercantil en los términos de la ley de la materia;
+
+VI. Si subcontrata partes (sic) de los trabajos objeto del contrato, sin contar con la autorización por escrito de la dependencia o entidad;
+
+VII. Si cede los derechos de cobro derivados del contrato, sin contar con la autorización por escrito de la dependencia o entidad;
+
+VIII. Si no da a la dependencia o entidad o a las dependencias que tengan facultad para intervenir, las facilidades y datos necesarios para la inspección, vigilancia y supervisión de los materiales y trabajos;
+
+IX. Si cambia su nacionalidad por otra, en el caso de que se haya establecido como requisito tener determinada nacionalidad;
+
+X. Si siendo extranjero, invoca la protección de su gobierno en relación con el contrato;
+
+XI. El incumplimiento de las obligaciones derivadas del contrato, así como de las leyes y demás disposiciones aplicables.
+
+Las dependencias y entidades, atendiendo a las características, magnitud y complejidad de los trabajos, podrán establecer en los contratos otras causas de rescisión.
+
+El contratista será el único responsable de la ejecución de los trabajos y deberá sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y de medio ambiente que rijan en el ámbito federal, estatal o municipal, así como a las instrucciones que al efecto le señale la dependencia o entidad. Las responsabilidades y los daños y perjuicios que resultaren por su inobservancia serán a cargo del contratista.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 C. Las dependencias y entidades deberán llevar a cabo el procedimiento de rescisión administrativa, a través del funcionario facultado para ello, o por la autoridad administrativa que hubiere suscrito el contrato, de conformidad con lo dispuesto por los artículos 7 y 8 de este Código, así como con las formalidades siguientes:
+
+I. Se comunicará por escrito al contratista el inicio del procedimiento de rescisión administrativa, indicándose lo siguiente:
+
+a) Las causales de rescisión imputables al contratista y, en su caso, las cláusulas del contrato que se consideren incumplidas;
+
+b) Los hechos que motiven la presunción de que el contratista ha actualizado alguna causal de rescisión;
+
+c) El término legal con que cuente el contratista para exponer lo que a su derecho convenga y aporte las pruebas que estime pertinentes, mismo que será de diez días hábiles, contado a partir del día siguiente al en que surta efectos su notificación;
+
+d) La citación al contratista para la celebración del acta circunstanciada de obra, indicándose la fecha, hora y lugar en que deba llevarse a cabo.
+
+II. Transcurrido el término a que se refiere la fracción anterior, se resolverá de manera fundada y motivada, considerando los argumentos y pruebas que hubiere hecho valer el contratista, indicándose la determinación de dar o no por rescindido el contrato.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 D. Las dependencias o entidades deberán abstenerse de cubrir los importes resultantes de trabajos ejecutados, aún no liquidados, hasta que el contratista otorgue el finiquito correspondiente, dentro de los treinta días naturales siguientes a la fecha de notificación de la resolución al procedimiento administrativo de rescisión de contrato.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 E. Una vez notificado por la dependencia o entidad el inicio del procedimiento de rescisión de contrato, éstas procederán a tomar inmediata posesión de los trabajos ejecutados para hacerse cargo del inmueble y de las instalaciones respectivas, levantando ante fedatario público, con o sin la comparecencia del contratista, acta circunstanciada del estado en que se encuentre la obra, en la cual se consignarán:
+
+I. Lugar, fecha y hora en que se levanta;
+
+II. Nombre y firma del residente de obra de la dependencia o entidad, del representante del órgano interno de control y, en su caso, del supervisor y del superintendente de construcción del contratista y, si se diera, la asistencia del contratista;
+
+III. Descripción de los trabajos y de los datos que se consideren relevantes;
+
+IV. Importe contractual considerando, en su caso, los convenios de modificación;
+
+V. Relación de las estimaciones o de gastos aprobados;
+
+VI. Descripción pormenorizada del estado que guardan los trabajos;
+
+VII. Periodo de ejecución de los trabajos, precisando la fecha de inicio y terminación contractual y, en su caso, el desfasamiento en que se encuentre la ejecución de la obra al momento del levantamiento del acta; y
+
+VIII. Monto amortizado y pendiente del anticipo.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 F. Una vez que hubiere causado estado la resolución que se dicte con motivo de la rescisión de un contrato, la dependencia o entidad de que se trate solicitará a la autoridad ejecutora facultada para ello que se hagan efectivas las garantías otorgadas por el contratista.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 G. Cuando las garantías otorgadas por el contratista consistan en pólizas de fianza, las dependencias y entidades deberán remitir a la autoridad ejecutora facultada para ello una solicitud escrita que contenga, como mínimo, los datos siguientes:
+
+I. Nombre de la autoridad u oficina remitente;
+
+II. Lugar y fecha;
+
+III. Importe de la obligación y accesorios legales a cobrar;
+
+IV. Concepto de la obligación;
+
+V. Fecha en que se hizo la exigible la obligación del fiado;
+
+VI. Institución fiadora;
+
+VII. Número, fecha e importe de la póliza de fianza y, en su caso, de los documentos modificatorios de la misma;
+
+VIII. Relación de los documentos que forman el expediente, con respecto a la obligación o crédito de que se trate, y
+
+IX. Nombre y firma del funcionario remitente.
+
+La dependencia o entidad de que se trate deberá enviar a la institución fiadora, mediante correo certificado con acuse de recibo, una copia del oficio de remisión a que alude el primer párrafo de este artículo.
+
+> <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2004)</small>
+
+Artículo 259 H. Las dependencias o entidades deberán anexar a la solicitud para hacer efectiva una fianza la documentación siguiente:
+
+I. Contrato o documento en que conste la obligación o crédito a cargo del fiado;
+
+II. Póliza de la fianza que garantizó la obligación de que se trate y, en su caso, los documentos modificatorios de la misma;
+
+III. Acta circunstanciada levantada, con intervención de las autoridades competentes, donde consten los actos u omisiones del fiado que constituyan el incumplimiento de las obligaciones garantizadas;
+
+IV. Liquidación formulada por cada una de las pólizas de fianza, en donde se determine el monto de las obligaciones exigibles y sus accesorios legales, si éstos estuvieren garantizados;
+
+V. Actuaciones administrativas dictadas en el procedimiento de rescisión administrativa;
+
+VI. Si los hubiere, copia de la demanda, escrito de inconformidad o de cualquier otro recurso legal, presentado por el fiado, así como copia de las sentencias o resoluciones firmes de las autoridades competentes y de las notificaciones que correspondan a estas últimas; y
+
+VII. En su caso, comprobantes de entrega de anticipos, pago de estimaciones y demás comprobantes de información financiera.
+
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ### CAPÍTULO II. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
-
-### CAPÍTULO III. DE LA DEMANDA
 
 ## TÍTULO CUARTO. DEL RECURSO DE REVOCACIÓN
 
@@ -2365,7 +2551,7 @@ Contra la resolución que recaiga al recurso de revocación procede el juicio co
 
 # LIBRO TERCERO. DEL JUICIO CONTENCIOSO
 
-### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
+### CAPÍTULO III. DE LA DEMANDA
 
 ###### Artículo 278.
 
@@ -2451,7 +2637,7 @@ II. Sentencias interlocutorias, las que no resuelven una cuestión principal; y
 
 III. Sentencias definitivas, las que resuelven el juicio o recurso en lo principal.
 
-### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
+### CAPÍTULO IV. DE LA CONTESTACIÓN DE DEMANDA
 
 ###### Artículo 289.
 
@@ -2503,7 +2689,7 @@ El sobreseimiento del juicio podrá ser total o parcial.
 
 Contestada la demanda, el magistrado examinará el expediente y si encontrare acreditada alguna causa evidente de improcedencia a sobreseimiento, a petición de parte o de oficio, emitirá la resolución en la que se dé por concluido el juicio. En caso de que la causal no sea clara, ésta se decidirá en la sentencia definitiva.
 
-### CAPÍTULO VI. DE LOS INCIDENTES
+### CAPÍTULO V. DE LA SUSPENSIÓN DEL ACTO IMPUGNADO
 
 ###### Artículo 292.
 
@@ -2599,7 +2785,7 @@ El tercero perjudicado, dentro de los quince días siguientes al en que surta ef
 
 Deberá adjuntar a su escrito, el documento con el que acredite su personaría cuando no promueva en nombre propio, las pruebas documentales que ofrezca, el interrogatorio para los testigos y el cuestionario para los peritos. Es aplicable en lo conducente, lo dispuesto en el último párrafo de los artículos 293 y 295 del presente Código.
 
-### CAPÍTULO VII. DE LA AUDIENCIA
+### CAPÍTULO VI. DE LOS INCIDENTES
 
 ###### Artículo 300.
 
@@ -2651,7 +2837,7 @@ En la contestación de la demanda o antes del cierre de la instrucción, la auto
 
 Se dictará acuerdo sobre la contestación de demanda a más tardar al tercer día siguiente al de su presentación. En el mismo acuerdo se tendrán por admitidas o desechadas las pruebas ofrecidas; se ordenarán, en su caso, las providencias necesarias para su desahogo, señalando el derecho del demandante para ampliar su demanda y las consecuencias de no hacerlo, y se fijará fecha para la audiencia del juicio, la que deberá celebrarse dentro de los treinta días siguientes; o cuarenta y cinco días en el supuesto de ampliación de demanda, ambos plazos contados a partir de la fecha de emisión del acuerdo respectivo.
 
-### CAPÍTULO VIII. DE LA SENTENCIA
+### CAPÍTULO VII. DE LA AUDIENCIA
 
 ###### Artículo 305.
 
@@ -2699,7 +2885,7 @@ Para hacer efectivas las garantías otorgadas con motivo de la suspensión, el i
 
 La Sala, dentro de los tres días siguientes, dará vista a las demás partes y citará a una audiencia de pruebas y alegatos que deberá celebrarse dentro de los cinco días siguientes, en la que dictará la resolución que corresponda.
 
-### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
+### CAPÍTULO VIII. DE LA SENTENCIA
 
 ###### Artículo 312.
 
@@ -2767,7 +2953,7 @@ Los magistrados que conozcan de una recusación serán irrecusables para ese só
 
 Las demás cuestiones que surjan dentro del juicio contencioso se decidirán de plano, salvo las que trasciendan al resultado del juicio, que se resolverán en la sentencia. Tales cuestiones se harán valer a petición de parte interesada dentro de los tres días siguientes a la notificación del acuerdo respectivo.
 
-### CAPÍTULO X. DE LOS RECURSOS
+### CAPÍTULO IX. DEL CUMPLIMIENTO DE LA SENTENCIA
 
 ###### Artículo 320.
 
@@ -2796,6 +2982,8 @@ Concluida la audiencia, los autos serán turnados para resolver, lo cual deberá
 ###### Artículo 324.
 
 En cualquier momento de la tramitación del juicio contencioso, hasta antes del cierre de la instrucción, las partes podrán llegar a arreglos conciliatorios que pongan fin al asunto, siempre que no sean contrarios a las normas. Los convenios respectivos aprobados por el magistrado de la Sala del conocimiento producirán todos los efectos jurídicos inherentes a una sentencia ejecutoria, con autoridad de cosa juzgada.
+
+### CAPÍTULO X. DE LOS RECURSOS
 
 ###### Artículo 325.
 
@@ -3038,3 +3226,11 @@ G.O. 22 DE ABRIL DE 2003.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado, excepto en los casos de fiscalización anteriores al ejercicio fiscal del año 2002.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 2 DE FEBRERO DE 2004.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Los procedimientos de rescisión de contratos de obra pública iniciados en fecha anterior a la entrada en vigor de este decreto deberán sustanciarse y concluirse conforme a las bases que los sustentaron.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan al presente decreto.
