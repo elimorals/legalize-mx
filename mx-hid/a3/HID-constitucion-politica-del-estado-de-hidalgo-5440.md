@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1982-12-31"
+last_updated: "1983-08-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE AGOSTO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -805,7 +805,9 @@ XVI. Aprobar las expropiaciones, que por causa de utilidad pública, determine e
 
 XVII. Recibir y aprobar, en su caso, la cuenta justificada que está obligada a rendir toda persona física o moral que recibida a cualquier título, fondos del erario estatal, comprendidos en el Presupuesto de Egresos del año correspondiente;
 
-XVIII. Decidir sobre la desaparición de poderes municipales en casos graves con votación calificada de las dos terceras partes de la totalidad de los Diputados;
+> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 1983)</small>
+
+XVIII. Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que las Leyes Locales prevengan, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan. En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta, o de la mayoría de sus miembros si conforme a la Ley no procediere que entraren en funciones los suplentes ni que se celebraren nuevas elecciones, las Legislaturas designarán entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos;
 
 XIX. Instalar y presidir la Junta Preparatoria del nuevo Congreso del Estado;
 
@@ -1039,7 +1041,7 @@ XXXI. Ejercer el derecho de veto en los términos de esta Constitución;
 
 XXXII. Ejercer las facultades que le otorga la Constitución Federal en relación con la Guardia Nacional;
 
-XXXIII. Proponer al Congreso del Estado o a la Comisión Permanente, en su caso, la integración de los Consejos Municipales, en los casos que señala esta Constitución;
+XXXIII. (DEROGADA, P.O. 16 DE AGOSTO DE 1983)
 
 XXXIV. Representar al Estado en las comisiones tanto federales, como interestatales regionales;
 
@@ -1389,7 +1391,7 @@ Los bienes inmuebles del Estado son inembargables e imprescriptibles, y para ena
 
 ### CAPITULO I. DEL MUNICIPIO LIBRE
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 105.
 
@@ -1467,7 +1469,7 @@ Para ser Magistrados del Tribunal Administrativo, se exigirán los mismos requis
 
 ###### Artículo 115.
 
-El Municipio es una institución jurídico-política, con territorio determinado, en el que se asienta un núcleo de población, dotado de autonomía para atender a sus necesidades y elegir directamente a sus autoridades.
+El municipio es una Institución con personalidad jurídica-política, con territorio determinado, en el que se encuentra el núcleo de población, dotado de autonomía para atender a sus necesidades, para lo cual manejará su patrimonio conforme a la Ley y eligirá (sic) directamente a sus autoridades.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1599,11 +1601,27 @@ Los bienes de dominio público municipal son inalienables, imprescriptibles e in
 
 Los bienes de dominio privado podrán ser enajenados mediante acuerdo del Ayuntamiento, aprobado por el Congreso.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 16 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 129.
 
-La Hacienda de los Municipios del Estado, se formará con las percepciones que establezcan su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participaciones de impuestos federales y estatales, convenios, legados, donaciones y por cualquiera otra causa.
+La Hacienda de los Municipios del Estado se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, así como las que obtengan por concepto de participación de impuestos federales y estatales, convenios, legados, donación, y por cualquier otra causa; y en todo caso, los Ayuntamientos:
+
+I. Administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que las legislaturas establezcan a su favor;
+
+II. Percibirán las contribuciones, incluyendo tasas adicionales, que establezcan los Estados sobre la propiedad inmobiliaria, de su fraccionamiento, división consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga de algunas de las funciones relacionadas con la administración de esas contribuciones;
+
+III. Recibirán las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por las Legislaturas de los Estados; y
+
+IV. Dispondrán de los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las Leyes Locales no establecerán exenciones o subsidios respecto de las mencionadas contribuciones en favor de persona físicas o morales, ni de instituciones oficiales o privadas; sólo los bienes de dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+Las Legislaturas de los Estados aprobarán las leyes de ingresos de los Ayuntamientos y revisarán sus cuentas públicas.
+
+Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1665,15 +1683,11 @@ La elección de los miembros de los Ayuntamientos será calificada por el Congre
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, que hubiesen estado en ejercicio, no podrán ser electos para el período inmediato como Propietarios o Suplentes; pero estos últimos si podrán serlo como Propietarios, a menos que hayan ejercido el cargo.
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 16 DE AGOSTO DE 1983)</small>
 
 ###### Artículo 137.
 
-Cuando no se hubiera efectuado la elección en la fecha en la que deba renovarse el Ayuntamiento o efectuada ésta no se presentare el Ayuntamiento a tomar posesión de su cargo, el Gobernador propondrá al Congreso un Consejo Municipal, que se encargará de las funciones, en tanto se convoca a una nueva elección extraordinaria.
-
-El mismo procedimiento se seguirá cuando la elección se declare nula, o cuando por cualquier causa de conformidad con la Ley, desaparezcan los Poderes del Ayuntamiento, dentro de los dos primeros años de su ejercicio.
-
-Cuando ocurriere la desaparición de Poderes en el último año del período de gobierno municipal, el Congreso del Estado o la Comisión Permanente, en su caso, a propuesta del Gobernador, nombrará un Concejo Municipal, que concluirá el período de gobierno.
+Si alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo, será substituido por su suplente, o se procederá según lo disponga la Ley.
 
 > <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1709,41 +1723,79 @@ A continuación el Presidente Municipal tomará la protesta a los demás integra
 
 Son facultades y obligaciones del Ayuntamiento:
 
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
 I. Cumplir y hacer cumplir las Leyes, Decretos y disposiciones federales, estatales y municipales;
 
-II. Expedir sus reglamentos de Policía y Buen Gobierno, sobre los ramos y materias de administración municipal, entendiéndose por tales, aquellos que no estén reservados a la Federación o al Estado;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+II. Expedir, de acuerdo con las bases normativas que establezca el Congreso, los Bandos de Policía y Buen Gobierno y los reglamentos, de sus respectivas jurisdicciones, y que no estén reservados a la Federación o al Estado;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
 III. Conceder licencias a sus miembros hasta por treinta días, y llamar a quienes deben suplirlos;
 
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
 IV. Designar al Regidor que deba sustituir al Presidente Municipal, en caso de falta absoluta de éste y de su Suplente, y llamar a los Suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
 
-V. Mantener los servicios de seguridad pública municipal;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-VI. Establecer en el territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias;
+V. Establecer en el territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias;
 
-VII. Cooperar con las autoridades federales y estatales, en las funciones de su competencia y planes de desarrollo dentro del Municipio;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-VIII. Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas con auxilio del organismo correspondiente, así como de acuerdo con las Leyes estatales y Decretos relativos, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las Leyes y Decretos correlativos;
+VI. Cooperar con las autoridades federales y estatales, en las funciones de su competencia y planes de desarrollo dentro del Municipio;
 
-IX. Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipal;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-X. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la aprobación del Congreso del Estado;
+VII. Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas con auxilio del organismo correspondiente, así como de acuerdo con las Leyes Estatales y Decretos relativos, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las Leyes y Decretos correlativos;
 
-XI. Formular anualmente su Presupuesto de Egresos, que será sometido a la aprobación del Congreso del Estado;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-XII. Rendir al Congreso del Estado, por conducto de la Comisión Permanente, en su caso, dentro de los dos primeros meses de su ejercicio fiscal, la cuenta del gasto público del año anterior;
+VIII. Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipal;
 
-XIII. Vigilar el cumplimiento del Plan Global en lo que respecta a su Municipio, propuesto por el Gobernador al tomar posesión;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-XIV. Promover el desenvolvimiento social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad;
+IX. Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la aprobación del Congreso del Estado;
 
-XV. Acordar lo conducente para la formación y estadística del Municipio;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-XVI. Facultar al Presidente Municipal para que pueda celebrar contratos con particulares o instituciones oficiales, sobre asuntos de interés público del Municipio, en cuyo caso se requiere, además, la aprobación del Congreso;
+X. Rendir al Congreso del Estado, o por conducto de la Comisión Permanente, en su caso dentro de los dos primeros meses de su ejercicio fiscal, la cuenta del gasto público del año anterior;
 
-XVII. Admitir o deshechar la licencia que solicitaren los regidores;
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
-XVIII. Admitir o rechazar las renuncias de los funcionarios y empleados del Ayuntamiento; y
+XI. Vigilar el cumplimiento del Plan Global en lo que respecta a su Municipio, propuesto por el Gobernador al tomar posesión;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XII. Promover el desenvolvimiento social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XIII. Acordar lo conducente para la formación y estadística del Municipio;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XIV. Facultar al Presidente Municipal para que pueda celebrar contratos con particulares o instituciones oficiales, sobre asuntos de interés público del Municipio, en cuyo caso se requiere, además, la aprobación del Congreso;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XV. Admitir o desechar la licencia que solicitaren los regidores;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XVI. Admitir o rechazar las renuncias de los funcionarios y empleados del Ayuntamiento;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XVII. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de tenencia de tierra urbana; otorgar licencia y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución General de la República, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
+
+XVIII. Cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades Federativas formen o tiendan a formar una continuidad demográfica, la Federación, las Entidades Federativas y los Municipios respectivos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de dichos centros con apego a las leyes de la materia; y
+
+> <small>(F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)</small>
 
 XIX. Las demás que le concedan la Constitución General de la República, esta Constitución y las Leyes que de ellas emanen.
 
@@ -1751,11 +1803,37 @@ XIX. Las demás que le concedan la Constitución General de la República, esta 
 
 ### CAPITULO VIII. DE LAS FACULTADES Y OBLIGACIONES DEL AYUNTAMIENTO
 
-> <small>(ADICIONADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+(REFORMADO, P.O. 16 DE AGOSTO DE 1983) (F. DE E., P.O. 1 DE SEPTIEMBRE DE 1983)
 
 ###### Artículo 142.
 
 El ejercicio de las facultades a que se refiere el artículo anterior, se sujetará a los procedimientos que establezca la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 16 DE AGOSTO DE 1983)</small>
+
+###### Artículo 142 Bis.
+
+Los Municipios, con el concurso de los Estados cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
+
+a). Agua Potable y Alcantarillado;
+
+b). Alumbrado Público;
+
+c). Limpia;
+
+d). Mercados y Centrales de Abasto;
+
+e). Panteones;
+
+f). Rastro;
+
+g). Calles, parques y Jardines;
+
+h). Seguridad Pública y Tránsito, e
+
+i). Los demás que las Legislaturas Locales determinen según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios de un mismo Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la eficaz prestación de los servicios públicos que les correspondan.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1951,7 +2029,7 @@ Esta Constitución mantendrá su vigencia aun cuando por alguna rebelión se int
 
 ###### Artículo 1°.
 
-Esta Constitución se protestara con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
+Esta Constitución se protestará con toda solemnidad en todo el Estado, quedando derogada desde luego la anterior, así como sus adiciones y reformas.
 
 ###### Artículo 1°.
 
@@ -1961,11 +2039,11 @@ El Estado de Hidalgo, como integrante de los Estados Unidos Mexicanos, es libre 
 
 ###### Artículo 2°.
 
-En tanto se expiden las leyes orgánicas relativas, continuaran rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
+En tanto se expiden las leyes orgánicas relativas, continuarán rigiendo en el Estado, las vigentes en la actualidad así como los decretos y reglamentos que no se opongan a la presente Constitución ni a la General de 5 de febrero de 1917.
 
 ###### Artículo 3°.
 
-El período Constitucional de la actual Legislatura, terminara el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
+El período Constitucional de la actual Legislatura, terminará el último día de febrero de 1921; el del Gobernador, el 31 de marzo del mismo año y el de los Magistrados del Superior Tribunal de Justicia, el 4 de mayo de 1923.
 
 ###### Artículo 2°.
 
@@ -2118,6 +2196,10 @@ UNICO.- Estas reformas entraran en vigor a partir del día siguiente de su publi
 P.O. 31 DE DICIEMBRE DE 1982.
 
 UNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el "Periódico Oficial" del Gobierno del Estado de Hidalgo, y cumplido el requisito establecido en el párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
+
+P.O. 16 DE AGOSTO DE 1983.
+
+UNICO.- Estas modificaciones entrarán en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, una vez cumplidos los requisitos establecidos por los Artículos 51 y párrafo segundo del Artículo 158 de la propia Constitución Política del Estado.
 
 ###### Artículo 3o.
 
