@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2002-03-06"
+last_updated: "2002-05-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACION
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE MARZO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MAYO DE 2002.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -69,7 +69,23 @@ VI.- Proceso educativo, a la interacción de los educandos, contenidos y educado
 
 VII.- Sistema Educativo Estatal, al grupo de personas, instituciones y elementos educativos dedicados a tal función en esta Entidad, y en los términos de esta ley; y
 
-VIII.- Ley, a la Ley Estatal de Educación.
+VIII.- Ley, a la Ley Estatal de Educación;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+IX.- Género, al constructo (sic) social que alude a las relaciones y a la asignación de roles diferenciados entre hombres y mujeres y que invoca dos premisas fundamentales.
+
+La diferencia biológica entre hombres y mujeres utilizada para cimentar la construcción social que establece dos tipos de personas y modos de vida en formas asociadas de ser.
+
+La diferenciación entre hombres y mujeres, la cual se expresa en la definición de ámbitos sociales de acción para hombres y mujeres;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+X.- Perspectiva de género, a la posición o modo personal que acepta la iniquidad, discriminación y la servidumbre del papel social de las mujeres;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XI.- Enfoque de género, a la orientación de las acciones para centrar, proyectar y dirigir la atención y el interés de favorecer, en todas y cada una de las prácticas pedagógicas, el mejoramiento de la condición de las mujeres.
 
 ###### Artículo 3.
 
@@ -107,7 +123,9 @@ La función social educativa de las universidades y demás instituciones de educ
 
 La educación que impartan el Estado, los municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios tendrá, además de los fines establecidos en el segundo párrafo del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, los siguientes:
 
-I.- Contribuir al desarrollo integral del educando, promoviendo los valores por medio de una planificación dentro de todos los niveles del Sistema Educativo Estatal, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con su participación activa y estimulando su capacidad emprendedora, con un alto sentido de responsabilidad social;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Contribuir al desarrollo integral del educando, promoviendo los valores por medio de una planificación, con enfoque de género, dentro de todos los niveles del Sistema Educativo Estatal, para que ejerza plenamente sus capacidades dentro de un marco de equidad entre los sexos que permita una convivencia social armónica y justa, todo ello con su participación activa y estimulando con su capacidad emprendedora, con un alto sentido de responsabilidad social;
 
 II.- Favorecer el desarrollo de las capacidades del educando de observación, análisis y reflexión críticos para la formación de sus conocimientos;
 
@@ -551,11 +569,15 @@ I.- Desarrollar todas las capacidades de las niñas y de los niños, dentro de u
 
 II.- Promover el desarrollo integral de las niñas y de los niños, a través de situaciones y oportunidades que les permitan ampliar y consolidar su estructura mental, lenguaje, psicomotricidad y afectividad;
 
-III.- Estimular, incrementar y orientar la curiosidad de las niñas y de los niños, para iniciarlos en el conocimiento, respeto y comprensión de la naturaleza;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+III.- Estimular, incrementar y orientar la curiosidad de las niñas y de los niños, para iniciarlos en el conocimiento, respeto y comprensión de la naturaleza y de sus sexo (sic), en un marco de equidad de género;
 
 IV.- Contribuir a la socialización de las niñas y de los niños, estimulándolos para que participen en acciones de integración en la familia, la escuela y la comunidad;
 
-V.- Ampliar los espacios de reconocimiento para las niñas y para los niños en la sociedad, proporcionando un clima de respeto y estimulación para su desarrollo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+V.- Ampliar los espacios de reconocimiento para las niñas y para los niños en la sociedad, proporcionando un clima de respeto hacia los sexos y estimulación para su desarrollo con un enfoque de género;
 
 VI.- Promover y consolidar la educación inicial como un programa de apoyo y solidaridad a quienes ejerzan la patria potestad y trabajen fuera del hogar;
 
@@ -575,11 +597,15 @@ El Estado tiene la obligación de extender la cobertura de este nivel y otorgar 
 
 La educación preescolar, tiene por finalidad sentar las bases para que el educando logre una identidad vinculada en forma armónica con su entorno y el desarrollo pleno de sus potencialidades; por ello, debe alcanzar los propósitos que señalan los programas vigentes y considerar:
 
-I.- Los intereses, las necesidades y el desarrollo biopsicosocial de las niñas y de los niños, enfocados a una educación integral;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Los intereses, las necesidades y el desarrollo biopsicosocial de las niñas y de los niños, enfocados a una educación integral con enfoque de género;
 
 II.- La necesidad de afecto y de seguridad que tiene el educando como base de su adecuado desarrollo emotivo;
 
-III.- El desarrollo de la cooperación a través de su incorporación gradual al trabajo colectivo y de pequeños grupos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+III.- El desarrollo de la cooperación a través de su incorporación gradual al trabajo colectivo y de pequeños grupos, promoviendo las relaciones equitativas entre los géneros;
 
 IV.- El establecimiento de las bases para el aprendizaje de la lectoescritura y de las matemáticas;
 
@@ -589,13 +615,17 @@ VI.- Promover el aprendizaje del idioma inglés; y
 
 VII.- Estimular en las niñas y en los niños el respeto por su entorno ecológico;
 
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+VIII.- Estimular, incrementar y orientar la curiosidad de las niñas y de los niños sobre el conocimiento de los sexos con enfoque de género;
+
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
-VIII.- Inculcar en los niños el respeto a la propiedad pública y privada; y
+IX.- Inculcar en los niños el respeto a la propiedad pública y privada; y
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
-IX.- Impulsar la creación de la cultura al no graffiti.
+X.- Impulsar la creación de la cultura al no graffiti.
 
 #### SECCIÓN VIII. DE LA EDUCACIÓN PARA ADULTOS
 
@@ -603,13 +633,17 @@ IX.- Impulsar la creación de la cultura al no graffiti.
 
 Tendrá las siguientes particularidades:
 
-I.- Será esencialmente formativa;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Será esencialmente formativa con un enfoque de género;
 
 II.- Será vinculatoria con la educación preescolar y la educación secundaria;
 
 III.- Comprenderá seis grados, mismos que de manera sistemática se enlazarán progresivamente;
 
-IV.- Se sujetará en lo general, en los diversos grados, a los planes y programas de la Secretaría de Educación Pública, incorporando a ellos los contenidos regionales necesarios para el mayor conocimiento del Estado y la comprensión de su problemática; y
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+IV.- Se sujetará en lo general, en los diversos grados, a los planes y programas de la Secretaría de Educación Pública, incorporando a ellos los contenidos regionales necesarios para el mayor conocimiento del Estado y la comprensión de su problemática. Así como aquellos requeridos para el conocimiento de su sexo y sexualidad con enfoque de género; y
 
 V.- Promoverá la enseñanza del idioma inglés, así como la apropiación de los avances tecnológicos y científicos.
 
@@ -619,13 +653,17 @@ Sus finalidades son:
 
 I.- Contribuir al desarrollo armónico de la personalidad de la niña y del niño para que ejerzan a plenitud sus capacidades, tales como el autoaprendizaje, la iniciativa y el espíritu emprendedor, entre otros;
 
-II.- Proporcionar al educando las bases para el ejercicio de sus derechos y el cumplimiento de sus deberes;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Proporcionar al educando las bases para el ejercicio de sus derechos y el cumplimiento de sus deberes con un enfoque de género;
 
 III.- Fomentar en las niñas y en los niños el amor y el respeto a la familia, a la patria, sus símbolos y sus instituciones;
 
 IV.- Propiciar las condiciones indispensables para impulsar al educando a la investigación, con base en la observación, la experimentación, la creatividad y reflexión crítica;
 
-V.- Coadyuvar a la socialización de las niñas y de los niños propiciando la formación de hábitos, actitudes y valores;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+V.- Coadyuvar a la socialización de las niñas y de los niños proporcionando la formación de hábitos, actitudes y valores, entre los que el respeto a los sexos será prioritario;
 
 VI.- Proporcionar al educando los elementos necesarios para el conocimiento de su sexualidad, así como la necesidad de una planificación familiar con respeto a la dignidad de la persona y sin menoscabo a la libertad, promoviendo la paternidad responsable, la fidelidad conyugal y la importancia del respeto, el amor y la unión en la vida familiar, evitando la violencia intrafamiliar;
 
@@ -765,7 +803,9 @@ La educación secundaria comprenderá tres grados enlazados en forma progresiva.
 
 Son finalidades de la educación secundaria:
 
-I.- Promover el desarrollo armónico e integral del educando, para contribuir a la formación de su personalidad, afianzando su autoestima, su sentido de identidad y de servicio;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Promover el desarrollo armónico e integral del educando y de la educanda con un enfoque de género, para contribuir a la formación de sus personalidades, afianzando sus autoestimas, sus sentidos de identidad y de servicio. Así como el respeto mutuo entre los sexos;
 
 II.- Fomentar la orientación educativa a efecto de que el alumno logre mejores niveles de aprovechamiento, eficiencia y su adecuado encauzamiento a etapas posteriores de su desarrollo;
 
@@ -857,11 +897,15 @@ VI.- Crear, fomentar y desarrollar en los educandos el espíritu de solidaridad 
 
 VII.- Propiciar el conocimiento y preservación del entorno ecológico;
 
-VIII.- Fomentar en los alumnos la práctica cotidiana de valores universales, la visión humanística, así como el conocimiento y respeto de los derechos humanos;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+VIII.- Fomentar en los alumnos y las alumnas la práctica cotidiana de valores universales, la visión humanística, la igualdad entre los sexos, así como el conocimiento y respeto de los derechos humanos y de la equidad de género;
 
 IX.- Propiciar que los educandos valoren la educación artística como una opción de vida; y
 
-X.- Fortalecer en el educando el conocimiento de su sexualidad en los aspectos biopsicosociales para favorecer el ejercicio responsable de la misma;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+X.- Fortalecer en el educando y en la educanda el conocimiento de sus sexualidades en los aspectos biopsicosociales, basado en el respeto mutuo de los sexos para favorecer el ejercicio responsable de las mismas, con un enfoque de género;
 
 > <small>(ADICIONADA, P.O. 6 DE MARZO DE 2002)</small>
 
@@ -927,9 +971,13 @@ La educación especial está destinada a personas con necesidades educativas esp
 
 Las finalidades de la educación especial son:
 
-I.- Atender, con equidad social, a los educandos con necesidades educativas especiales, con o sin discapacidad y a quienes tengan aptitudes sobresalientes, de manera adecuada a sus propias condiciones;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
 
-II.- Integrar a los niños, jóvenes y adultos, con necesidades educativas especiales, con o sin discapacidad o con aptitudes sobresalientes, al sistema educativo regular, en sus diferentes tipos, niveles y modalidades, con igualdad de oportunidades de ingreso, permanencia y promoción;
+I.- Atender, con equidad social y de género, a los educandos y educandas con necesidades educativas especiales, con o sin discapacidad y a quienes tengan aptitudes sobresalientes, de manera adecuada a sus propias condiciones;
+
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Integrar a los niños, niñas, los y las jóvenes, adultos y adultas, con necesidades educativas especiales, con o sin discapacidad o con aptitudes sobresalientes, al sistema educativo regular, en sus diferentes tipos, niveles, modalidades, con igualdad de oportunidades de ingreso, permanencia promoción y sexo;
 
 III.- Para quien no logre la integración a la escuela regular, esta educación procurará la satisfacción de necesidades básicas de aprendizaje, para lograr autonomía en la convivencia social y productiva de las personas con necesidades educativas especiales, con o sin discapacidad o con aptitudes sobresalientes;
 
@@ -995,9 +1043,11 @@ La educación para adultos parte del reconocimiento de los saberes, conocimiento
 
 El Poder Ejecutivo del Estado es el responsable directo de la prestación de los servicios educativos para adultos, sin perjuicio de la concurrencia de los Gobiernos Federal, Municipal y de los particulares.
 
+> <small>(REFORMADO, P.O. 22 DE MAYO DE 2002)</small>
+
 ###### Artículo 80.
 
-La educación para adultos será flexible y diversificada, conforme a los intereses y requerimientos de los demandantes, adoptando modelos pertinentes para el aprendizaje de la población adulta.
+La educación para adultos será flexible y diversificada conforme a los intereses y requerimientos de los y las demandantes, adoptando modelos pertinentes para el aprendizaje de la población adulta, pero siempre bajo un enfoque que propicie la convivencia armónica, el respeto y la igualdad entre los sexos.
 
 ###### Artículo 81.
 
@@ -1037,7 +1087,9 @@ II.- Incrementar la capacidad funcional del organismo del educando, estableciend
 
 III.- Proporcionar seguridad al educando mediante la realización de actividades físicas;
 
-IV.- Favorecer la integración social a través de las actividades deportivas y recreativas, sustentadas en la educación física. En lo referente al deporte escolar, en nivel primaria, será una práctica de carácter convivencial y recreativa; en la educación secundaria, media superior y superior será, además, de carácter competitivo;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+IV.- Favorecer la integración social a través de las actividades deportivas y recreativas, sustentadas en la educación física. En lo referente al deporte escolar de nivel primaria, será una práctica de carácter convivencial y recreativa; en la educación secundaria, media superior y superior será, además, de carácter competitivo. Todo ello en un marco de respeto, de igualdad entre los sexos y con un enfoque de género que garantice la equidad;
 
 V.- Conocer el organismo humano, educarlo, hacerlo más eficiente y disfrutar del movimiento corporal;
 
@@ -1083,7 +1135,9 @@ Las finalidades de la educación artística son:
 
 I.- Favorecer el desenvolvimiento armónico del educando, a través de su desarrollo biopsicosocial;
 
-II.- Propiciar la formación, proyección e integración social del educando, a través de la participación activa en disciplinas artísticas;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Propiciar la formación, proyección e integración social del educando y de la educanda a través de la participación activa en disciplinas artísticas, procurando la igualdad de sexos y la equidad de género;
 
 III.- Fomentar el conocimiento, el aprecio y el disfrute del patrimonio artístico de la humanidad;
 
@@ -1093,7 +1147,9 @@ V.- Fortalecer la seguridad y la autoestima del educando, mediante su participac
 
 VI.- Preservar las manifestaciones artísticas propias de nuestra cultura y ayudar a rescatar las que se han perdido, como una forma de fortalecer la identidad nacional y regional;
 
-VII.- Estimular la sensibilidad y la creatividad en el educando, a través del quehacer artístico;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+VII.- Estimular la sensibilidad y la creatividad en el educando y la educanda a través del quehacer artístico, sin menoscabo de sexo y género;
 
 VIII.- Promover la proyección de valores artísticos y la difusión de sus obras; y
 
@@ -1127,7 +1183,9 @@ Las finalidades de la educación tecnológica en el tipo básico son:
 
 I.- Desarrollar en el educando una actitud participativa mediante el conocimiento de procesos tecnológicos, la planeación, el diseño y la construcción de objetos útiles;
 
-II.- Contribuir al desarrollo del educando proporcionándole elementos que le permitan ejercer a plenitud sus capacidades y sus destrezas manuales;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Contribuir al desarrollo del educando y de la educanda proporcionándoles elementos que les permitan ejercer a plenitud sus capacidades y sus destrezas manuales, sin menoscabo de sexo y con un enfoque de género;
 
 III.- Crear y fomentar actitudes de iniciativa y de responsabilidad, así como hábitos de seguridad e higiene, tanto en lo personal como en lo colectivo; y
 
@@ -1137,7 +1195,9 @@ IV.- Promover el conocimiento de los avances tecnológicos y su utilización en 
 
 Las finalidades de la educación tecnológica, en los niveles medio superior, superior y educación para y en el trabajo, son:
 
-I.- Procurar la adquisición de conocimientos, habilidades o destrezas que permitan desarrollar una actividad productiva a quien los recibe, mediante alguna labor u oficio calificados;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- Procurar la adquisición de conocimientos, habilidades o destrezas que permitan desarrollar una actividad productiva a quien los recibe, mediante alguna labor u oficio calificado, sin menoscabo de sexo y con un enfoque de género;
 
 II.- Propiciar el aprendizaje de los principios fundamentales de la ciencia y tecnología, además de proporcionar una formación interdisciplinaria para el desarrollo de su trabajo profesional;
 
@@ -1177,13 +1237,17 @@ Las finalidades de la educación superior son:
 
 I.- La formación de profesionistas altamente capacitados en su área y comprometidos con su comunidad; y
 
-II.- Preparar íntegramente al educando para un desempeño profesional ético.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Preparar integralmente al educando para un desempeño profesional ético, en donde se privilegie la igualdad entre los sexos y la equidad de género.
 
 ###### Artículo 105.
 
 El Ejecutivo del Estado creará e impulsará el Sistema Estatal de Formación de Profesionales de la Educación, el cual tendrá los siguientes ámbitos de competencia:
 
-I.- La formación inicial, con nivel de licenciatura de docentes de educación básica, incluyendo aquellas para la atención de la educación indígena, especial, de educación física, artística y tecnológica;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+I.- La formación inicial, con nivel de licenciatura de docentes de educación básica, incluyendo aquellas para la atención de la educación indígena, especial, de educación física, artística, tecnológica, inicial y de género;
 
 II.- La actualización de los docentes en servicio, entendida como la constante información respecto a los avances pedagógicos, innovaciones y estrategias didácticas;
 
@@ -1217,7 +1281,11 @@ VIII.- Fortalecer en los educandos una sólida conciencia de superación persona
 
 IX.- Favorecer en el normalista el aprendizaje de técnicas de autodidactismo; y
 
-X.- Fortalecer en el docente la adquisición de una cultura ecológica.
+X.- Fortalecer en el docente la adquisición de una cultura ecológica;
+
+> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2002)</small>
+
+XI.- Formar a los futuros docentes bajo y con un enfoque de género que propiciará la igualdad y el respeto entre los sexos.
 
 ###### Artículo 108.
 
@@ -1255,7 +1323,9 @@ Son propósitos de la educación para y en el trabajo y la productividad:
 
 I.- Lograr una formación para el trabajo de calidad y pertinencia, a fin de incorporar a amplios sectores de la población a las distintas modalidades de capacitación, congruentes con las condiciones del mercado laboral y las expectativas del sector social;
 
-II.- Procurar la adquisición de conocimientos, habilidades, destrezas y actitudes que permitan a quien la recibe, desarrollar una actividad productiva y demandada en el mercado laboral, de acuerdo a las expectativas sociales, mediante alguna ocupación u oficio calificados;
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+II.- Procurar la adquisición de conocimientos, habilidades, destrezas y actitudes con una perspectiva de género, que permitan a quien la recibe desarrollar relaciones de igualdad y respeto entre los sexos, así como una actividad productiva y demandada en el mercado laboral, de acuerdo a las expectativas sociales mediante alguna ocupación u oficio calificados;
 
 III.- Fortalecer y difundir los servicios de capacitación extraescolar que ofrecen las instituciones, ampliando su ámbito de acción hacia las necesidades empresariales y comunitarias específicas;
 
@@ -1263,7 +1333,9 @@ IV.- Ampliar la cobertura del servicio con la decidida y concertada participaci�
 
 V.- Crear un ambiente propicio para llevar a cabo actividades técnico-científicas, cívicas, sociales, culturales y deportivas, que permitan preparar integralmente al capacitando y hacer extensivos sus beneficios a la comunidad; y
 
-VI.- Fortalecer la actitud creativa y empresarial en docentes y capacitandos, mediante el desarrollo de actividades curriculares y extracurriculares que fomenten el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional del empleo.
+> <small>(REFORMADA, P.O. 22 DE MAYO DE 2002)</small>
+
+VI.- Fortalecer la actitud creativa y empresarial en los y las docentes, y capacitados y capacitadas, mediante el desarrollo de actividades curriculares y extracurriculares que fomenten el autoempleo y la creación de empresas para coadyuvar en la solución de la problemática regional del empleo. Sin menoscabo de sexos y con un enfoque de género.
 
 ###### Artículo 114.
 
@@ -1980,3 +2052,9 @@ El Poder Ejecutivo del Estado, deberá expedir el reglamento correspondiente en 
 P.O. 6 DE MARZO DE 2002.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE MAYO DE 2002.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
