@@ -4,7 +4,7 @@ identifier: "LGOAAC"
 country: "mx"
 rank: "ley_general"
 publication_date: "1985-01-14"
-last_updated: "1999-01-18"
+last_updated: "1999-05-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGOAAC"
 
 LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE MAYO DE 1999.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de enero de 1985.
 
@@ -214,7 +214,7 @@ Sólo podrá revocarse el nombramiento de estos consejeros cuando se revoque el 
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-VI.- El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
+VI. El número de administradores no podrá ser inferior de cinco, salvo el caso de uniones de crédito en que no será inferior a siete, y en ambos casos actuarán constituidos en consejo de administración;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -298,7 +298,7 @@ Además de las actividades señaladas en los párrafos anteriores, los almacenes
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-I. Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
+I.- Prestar servicios de guarda o conservación, manejo, control, distribución, transportación y comercialización, así como los demás relacionados con el almacenamiento, de bienes o mercancías, que se encuentren bajo su custodia, sin que éstos constituyan su actividad preponderante;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -308,11 +308,11 @@ III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IV. Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
+IV.- Empacar y envasar los bienes y mercancías recibidos en depósito por cuenta de los depositantes o titulares de los certificados de depósito, así como colocar los marbetes, sellos o etiquetas respectivos;
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-V. Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
+V.- Otorgar financiamientos con garantía de bienes o mercancías almacenados en bodegas de su propiedad o en bodegas arrendadas que administren directamente y que estén amparados con bonos de prenda, así como sobre mercancías en tránsito amparadas con certificados de depósito;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -320,7 +320,7 @@ VI. Obtener préstamos y créditos de instituciones de crédito, de seguros y de
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-VII. Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
+VII.- Emitir obligaciones subordinadas y demás títulos de crédito, en serie o en masa, para su colocación entre el gran público inversionista;
 
 > <small>(ADICIONADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
@@ -328,15 +328,15 @@ VIII. Descontar, dar en garantía o negociar los títulos de crédito y afectar 
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-IX. Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
+IX.- Gestionar por cuenta y nombre de los depositantes, el otorgamiento de garantías en favor del fisco federal, respecto de las mercancías almacenadas por los mismos, a fin de garantizar el pago de los impuestos, conforme a los procedimientos establecidos en la Ley Aduanera;
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-X. Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
+X.- Prestar servicios de depósito fiscal, así como cualesquier otros expresamente autorizados a los almacenes generales de depósito en los términos de la Ley Aduanera; y
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 1996)</small>
 
-XI. Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
+XI.- Las demás operaciones análogas y conexas que, mediante reglas de carácter general, autorice la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Valores.
 
 > <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1996)</small>
 
@@ -1092,7 +1092,7 @@ Cuando las inversiones hechas en los términos de la fracción VI del artículo 
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO III Bis. De las empresas de factoraje financiero
+### CapItulo III Bis. De las empresas de factoraje financiero
 
 > <small>(ADICIONADO, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -1298,29 +1298,29 @@ I. Operar con sus propias acciones, salvo en los casos previstos en la Ley del M
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-III. Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
+III.- Celebrar operaciones, en virtud de las cuales resulten o puedan resultar deudores de la empresa de factoraje financiero, los directores generales o gerentes generales, salvo que correspondan a préstamos de carácter laboral; los comisarios propietarios o suplentes, estén o no en funciones; los auditores externos de la empresa de factoraje financiero; o los ascendientes o descendientes en primer grado o cónyuges de las personas anteriores. La violación a lo previsto en esta fracción se sancionará conforme a lo dispuesto en el artículo 96 de esta Ley;
 
-IV. Recibir depósitos bancarios de dinero;
+IV.- Recibir depósitos bancarios de dinero;
 
-V. Otorgar fianzas o cauciones;
+V.- Otorgar fianzas o cauciones;
 
-VI. Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-VII. Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
+VI.- Enajenar los derechos de crédito objeto de un contrato de factoraje financiero al mismo cliente del que los adquirió, o a empresas vinculadas con éste o integradas con él en un mismo grupo;
 
 > <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-VIII. Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
+VII.- Adquirir bienes, mobiliario o equipo no destinados a sus oficinas. Si por adjudicación o cualquier otra causa adquiriesen tales bienes, deberán proceder a su venta, la que se realizará, en el plazo de un año, si se trata de bienes muebles, o de dos años, si son inmuebles;
 
-IX. Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
+> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
 
-X. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+VIII.- Realizar operaciones con oro, plata y divisas. Se exceptúan las operaciones de divisas relacionadas con financiamientos o contratos que celebren en moneda extranjera, o cuando se trate de operaciones en el extranjero vinculadas a su objeto social, las cuales se ajustarán en todo momento a las disposiciones de carácter general que, en su caso, expida el Banco de México;
 
-XI. Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+IX.- Adquirir derechos de crédito a cargo de subsidiarias, filiales, controladoras o accionistas de las propias empresas de factoraje financiero, a excepción de la adquisición de instrumentos financieros emitidos por las instituciones de crédito;
 
-XII. Realizar las demás operaciones que no les están expresamente autorizadas.
+X.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+
+XI.- Descontar, garantizar y en general, otorgar créditos distintos de los expresamente autorizados en esta Ley;
+
+XII.- Realizar las demás operaciones que no les están expresamente autorizadas.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1664,7 +1664,7 @@ Las organizaciones auxiliares del crédito y casas de cambio deberán rendir a l
 
 Las organizaciones auxiliares del crédito y casas de cambio están obligadas a permitir las visitas de inspección. El visitador o inspector de la Comisión Nacional Bancaria que tenga a su cargo la inspección, deberá ser atendido por el principal funcionario de la organización o casa de cambio de que se trate y en ausencia de éste, por el funcionario que lo supla o por el de jerarquía inmediata inferior que se encuentre.
 
-> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JULIO DE1993)</small>
 
 La Comisión Nacional Bancaria no está obligada a llevar a cabo visitas de inspección a solicitud de particulares ni a proporcionar a éstos ninguna información sobre dichas inspecciones.
 
@@ -2030,7 +2030,7 @@ Las solicitudes de autorización para operar casas de cambio deberán acompañar
 
 > <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-I. Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
+I.- Proyecto de estatutos sociales de la sociedad anónima correspondiente, relación de socios que habrán de integrarla con el capital que suscribirán, además de la documentación que la Secretaría de Hacienda y Crédito Público estime conveniente para avalar su solicitud;
 
 II. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
@@ -2042,7 +2042,7 @@ III. Comprobante de depósito en moneda nacional constituido en Nacional Financi
 
 En los casos de revocación a que se refiere la fracción I del artículo 87 de esta Ley se hará efectivo el depósito de garantía, aplicándose al fisco federal el importe original del depósito mencionado en el párrafo anterior. En el supuesto de que se deniegue la autorización solicitada, exista desistimiento por parte de los interesados o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito referido.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O. F. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 84.
 
@@ -2052,9 +2052,9 @@ I. Contarán con un local exclusivo para la realización de sus operaciones;
 
 II Deberán proporcionar a la Secretaría de Hacienda y Crédito Público o al Banco de México, su posición en divisas cuando le sea solicitada;
 
-III. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+III.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
-IV. (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
+IV.- (DEROGADA, D.O.F. 15 DE JULIO DE 1993)
 
 > <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -2062,11 +2062,13 @@ V. Sus operaciones con divisas y metales preciosos, deberán ajustarse a las dis
 
 A petición del Banco de México, las casas de cambio estarán obligadas a darle a conocer sus posiciones de divisas, incluyendo metales preciosos y a transferirle sus activos en esos efectos, que tengan en exceso de sus obligaciones en los mismos. La transferencia se hará al precio a que se hayan cotizado en el mercado las divisas, en la fecha en que el Banco de México dicte el acuerdo respectivo, y
 
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADA, D.O. F. 27 DE DICIEMBRE DE 1991)</small>
 
 VI. Proporcionarán a la Comisión Nacional Bancaria sus estados de contabilidad, información financiera y todo lo relacionado con su giro, en la forma y términos que la propia Comisión señale mediante reglas de carácter general, y les serán aplicables los artículos 52 y 53 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1991)</small>
+
+ArtIculo 84-A.- El importe del capital pagado y reservas de capital de las casas de cambio, deberá ser invertido en los términos y condiciones que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, oyendo previamente la opinión del Banco de México y la Comisión Nacional Bancaria.
 
 ###### ARTICULO 84-A.
 
@@ -2168,7 +2170,7 @@ VII. Celebrar operaciones en virtud de las cuales resulten o puedan resultar deu
 
 ### CAPITULO II. De los Delitos
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 88.
 
@@ -2258,9 +2260,15 @@ Si las multas a que se refiere esta Ley, son impuestas a una organización auxil
 
 ###### ARTICULO 95.
 
-Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99 y 101 de esta Ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria.
+Para proceder penalmente por los delitos previstos en los artículos 96, 97, 98, 99, 99 Bis, 101, 101 Bis y 101 Bis 2 de esta ley, será necesario que la Secretaría de Hacienda y Crédito Público formule petición, previa opinión de la Comisión Nacional Bancaria y de Valores; también se procederá a petición de las organizaciones auxiliares de crédito o casas de cambio ofendidas, o de quien tenga interés jurídico.
 
-Las multas previstas en los artículos 96, 97 y 98 de esta Ley, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Las multas previstas en el presente capítulo, se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo general diario vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+Para determinar el monto de la operación, quebranto o perjuicio patrimonial previstos en este capítulo, se considerarán como días de salario, el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito de que se trate.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1997)</small>
 
@@ -2284,73 +2292,67 @@ Tanto los servidores públicos de la Secretaría de Hacienda y Crédito Público
 
 Se impondrá pena de prisión de tres meses a dos años y multa de treinta a trescientos días de salario a los directores generales o gerentes generales, miembros del consejo de administración, comisarios y auditores externos de las organizaciones auxiliares del crédito o de las casas de cambio que en el ejercicio de sus funciones, incurran en violación de cualquiera de las prohibiciones a que se refieren los artículos 23, fracción VII, 38, fracción III, 45, fracción XII, 45-T, fracción III y 87-A, fracción VII de esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 97.
 
-Se impondrá pena de prisión de dos a diez años y multa con importe de 500 a 5,000 días de salario, a los funcionarios y empleados de las organizaciones auxiliares del crédito y casas de cambio que:
+Serán sancionados con prisión de dos a diez años y multa de quinientos a cincuenta mil días de salario, los consejeros, funcionarios o empleados de las organizaciones auxiliares del crédito y casas de cambio o quienes intervengan directamente en la operación:
 
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
+I. Que dolosamente omitan u ordenen omitir registrar en los términos del artículo 52 de esta ley, las operaciones efectuadas por la organización o casa de cambio de que se trate, o que mediante maniobras alteren u ordenen alterar los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
 
-I. Omitan registrar en los términos del primer párrafo del artículo 52 de esta Ley, las operaciones efectuadas por la organización o casa de cambio de que se trate, o que mediante maniobras alteren los registros para ocultar la verdadera naturaleza de las operaciones realizadas, afectando la composición de activos, pasivos, cuentas contingentes o resultados;
+II. Que conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo, crédito, o celebren contratos de arrendamiento financiero o de factoraje financiero;
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+III. Que a sabiendas, presenten a la Comisión Nacional Bancaria y de Valores datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva, y
 
-II. Falsifiquen, alteren, simulen o, a sabiendas, realicen operaciones que resulten en quebranto al patrimonio de la organización o casa de cambio en la que presten sus servicios.
+IV. Que, conociendo los vicios que señala la fracción III del artículo 98 de esta ley, concedan el préstamo, crédito o celebren el contrato de arrendamiento financiero o de factoraje financiero.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
-
-Se considerarán comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los funcionarios o empleados de organizaciones auxiliares del crédito o casas de cambio que:
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-a) Otorguen préstamos, créditos, bienes en arrendamiento financiero o adquieran derechos de crédito por contratos de factoraje financiero, a sociedades constituidas a sabiendas de que éstas no han integrado el capital que registren las actas de asamblea respectivas;
-
-> <small>(REFORMADA, D.O.F. 15 DE JULIO DE 1993)</small>
-
-b) Realicen operaciones propias del objeto social de las organizaciones y casas de cambio con personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las operaciones realizadas que resulten en quebranto al patrimonio de las organizaciones o casas de cambio de que se trate;
-
-c) Renueven préstamos, créditos o contratos de arrendamiento financiero, vencidos parcial o totalmente, a las personas físicas o morales a que se refiere el inciso anterior;
-
-d) Con objeto de liberar a un deudor, otorguen créditos a una o varias personas físicas o morales que se encuentren en estado de insolvencia, sustituyendo en los registros de la organización respectiva unos activos por otros; y
-
-e) A sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto patrimonial a la organización; y
-
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
-
-III. A sabiendas, presenten a la Comisión Nacional Bancaria datos falsos sobre la solvencia del deudor, arrendatario o de los clientes que transmitan los derechos de crédito, o de los deudores de éstos, o bien, sobre el valor de las garantías de los créditos, préstamos, arrendamientos financieros o derechos de crédito, imposibilitándola a adoptar las medidas necesarias para que se realicen los ajustes correspondientes en los registros de la organización respectiva.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 98.
 
-Se impondrá pena de prisión de dos a cinco años y multa con importe de 500 a 5,000 días de salario a:
+Se sancionará con prisión de tres meses a dos años y multa de treinta a dos mil días de salario cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, no exceda del equivalente a dos mil días de salario.
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de dos mil y no de cincuenta mil días de salario; se sancionará con prisión de dos a cinco años y multa de dos mil a cincuenta mil días de salario.
 
-I. Las personas que con el propósito de obtener un préstamo, crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero, proporcionen a una organización auxiliar del crédito datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto patrimonial para la organización;
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de cincuenta mil, pero no de trescientos cincuenta mil días de salario, se sancionará con prisión de cinco a ocho años y multa de cincuenta mil a doscientos cincuenta mil días de salario.
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+Cuando el monto de la operación, quebranto o perjuicio patrimonial, según corresponda, exceda de trescientos cincuenta mil días de salario, se sancionará con prisión de ocho a quince años y multa de doscientos cincuenta mil a trescientos cincuenta mil días de salario.
 
-II. Los funcionarios de una organización auxiliar del crédito que, conociendo la falsedad sobre el monto de los activos o pasivos, concedan el préstamo o crédito, o celebren contratos de arrendamiento financiero o de factoraje financiero, a que se refiere la fracción anterior, produciéndose los resultados que se indican en la misma;
+Considerando el monto de la operación, quebranto o perjuicio patrimonial, las sanciones previstas en este artículo se impondrán a:
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+I. Las personas que con el propósito de obtener un préstamo, crédito, o de celebrar un contrato de arrendamiento financiero o de factoraje financiero, proporcionen a una organización auxiliar del crédito, datos falsos sobre el monto de activos o pasivos de una entidad o persona física o moral, si como consecuencia de ello resulta quebranto o perjuicio patrimonial para la organización;
 
-III. Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, o con el fin de celebrar contratos de arrendamiento financiero o de factoraje financiero, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, bienes en arrendamiento o derechos de crédito, resultando quebranto patrimonial para la organización;
+II. Los consejeros, funcionarios, empleados o quienes intervengan directamente en la operación que, falsifiquen, alteren, simulen o a sabiendas realicen operaciones que resulten en quebranto o perjuicio al patrimonio de la organización o casa de cambio.
 
-> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+Se considerarán comprendidos dentro de lo dispuesto en el párrafo anterior y, consecuentemente, sujetos a iguales sanciones, los consejeros, funcionarios o empleados de las organizaciones auxiliares del crédito o casas de cambio o quienes intervengan directamente en las operaciones que:
 
-IV. Los funcionarios de la organización auxiliar del crédito que, conociendo los vicios que señala la fracción anterior, concedan el préstamo, crédito o celebren el contrato de arrendamiento financiero o de factoraje financiero, si el monto de la alteración hubiere sido determinante para concederlo y se produce quebranto patrimonial para la organización;
+a) Otorguen préstamos, créditos, bienes en arrendamiento financiero o adquieran derechos de crédito por contratos de factoraje financiero, a sociedades constituidas a sabiendas de que éstas no han integrado el capital que registren las actas de asamblea respectivas;
 
-V. Los acreditados o arrendatarios financieros que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna organización auxiliar del crédito, a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito o en el arrendamiento financiero; y
+b) Realicen operaciones propias del objeto social de las organizaciones auxiliares del crédito y casas de cambio con personas físicas o morales cuyo estado de insolvencia les sea conocido, si resulta previsible al realizar la operación que carecen de capacidad económica para pagar o responder por el importe de las operaciones realizadas que resulten en quebranto o perjuicio al patrimonio de las organizaciones o casas de cambio de que se trate;
 
-VI. Las personas físicas o morales, así como los funcionarios y empleados de éstas, que presenten estados financieros falsos o alterados con el propósito de obtener de un almacén general de depósito la habilitación de locales.
+c) Renueven préstamos, créditos o contratos de arrendamiento financiero, vencidos parcial o totalmente a las personas físicas o morales a que se refiere el inciso anterior;
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+d) Con objeto de liberar a un deudor otorguen créditos a una o varias personas físicas o morales que se encuentren en estado de insolvencia, sustituyendo en los registros de la organización respectiva unos activos por otros, y
+
+e) A sabiendas, permitan a un deudor desviar el importe del crédito, préstamo o bien arrendado en beneficio de terceros, reduciendo notoriamente su capacidad para pagar o responder por el importe de su obligación y, como consecuencia de ello, resulte quebranto o perjuicio patrimonial a la organización.
+
+III. Las personas que para obtener préstamos o créditos de una organización auxiliar del crédito, o con el fin de celebrar contratos de arrendamiento financiero o de factoraje financiero, presenten avalúos que no correspondan a la realidad, de manera que el valor real de los bienes que se ofrecen en garantía sea inferior al importe del crédito o préstamo, bienes en arrendamiento o derechos del crédito, resultando quebranto o perjuicio patrimonial para la organización;
+
+IV. Los acreditados o arrendatarios financieros que desvíen un crédito concedido o un bien dado en arrendamiento financiero por alguna organización auxiliar del crédito, a fines distintos para los que se otorgó, si dicha finalidad fue determinante para el otorgamiento de condiciones preferenciales en el crédito o en el arrendamiento financiero, y
+
+V. Las personas físicas o morales, así como los consejeros, funcionarios y empleados de éstas, que presenten estados financieros falsos o alterados con el propósito de obtener de un almacén general de depósito la habilitación de locales.
+
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 99.
 
-Los funcionarios o empleados de organizaciones auxiliares del crédito y casas de cambio, que con independencia de los cargos o intereses fijados por la sociedad respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, arrendatarios financieros, clientes de empresas de factoraje o de casas de cambio, beneficios por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento, del contrato de factoraje o de operaciones de casas de cambio, serán sancionados con pena de prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientas veces el salario mínimo general diario vigente en el Distrito Federal, en el momento de cometerse el delito, y de dos a catorce años de prisión cuando el beneficio exceda de quinientas veces dicho salario.
+Los consejeros, funcionarios, empleados de las organizaciones auxiliares del crédito y casas de cambio, o quienes intervengan directamente en la operación, que con independencia de los cargos o intereses fijados por la sociedad respectiva, por sí o por interpósita persona hayan obtenido de los sujetos de crédito, arrendatarios financieros, clientes de empresas de factoraje o de casas de cambio, beneficios por su participación en el trámite u otorgamiento del crédito, de los bienes objeto del arrendamiento, del contrato de factoraje o de operaciones de casas de cambio, serán sancionados con pena de prisión de tres meses a tres años cuando el beneficio no sea valuable, o no exceda de quinientos días de salario, en el momento de cometerse el delito y de dos a catorce años de prisión cuando el beneficio exceda de quinientos días del salario referido.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 99 Bis.
+
+Los consejeros, funcionarios, comisarios, empleados o accionistas que inciten u ordenen a funcionarios o empleados de la organización auxiliar del crédito o casa de cambio a la comisión de los delitos que se refieren en los artículos 97 y 98 fracción II, serán sancionados hasta en una mitad más de las penas previstas en los artículos respectivos.
 
 ###### ARTICULO 100.
 
@@ -2362,11 +2364,41 @@ I. Las personas que habiendo sido designadas como bodegueros habilitados en los 
 
 II. Las personas que sin causa justificada se nieguen a entregar, sustraigan, dispongan o permitan disponer de las mercancías depositadas en locales habilitados por medios distintos a los establecidos conforme al contrato respectivo o a los usos y costumbres imperantes en el medio almacenador.
 
-> <small>(REFORMADO, D.O.F. 15 DE JULIO DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 17 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 101.
 
-Serán sancionadas con pena de prisión de uno a tres años y multa de hasta 100,000 días de salario, las personas físicas o morales que lleven a cabo operaciones de las reservadas para las organizaciones auxiliares del crédito y casas de cambio, sin contar con las autorizaciones previstas en Ley.
+Serán sancionados con penas de prisión de tres a quince años y multa hasta de cien mil días de salario, las personas físicas, consejeros, funcionarios o administradores de personas morales que lleven a cabo operaciones de las reservadas para las organizaciones auxiliares del crédito y casas de cambio, sin contar con las autorizaciones previstas en la ley.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 101 Bis.
+
+Serán sancionados los servidores públicos de la Comisión Nacional Bancaria y de Valores, con la pena establecida para los delitos correspondientes más una mitad, según se trate de los delitos previstos en los artículos 96 a 99 y 101 de esta ley, cuando:
+
+a) Oculten al conocimiento de sus superiores hechos que probablemente puedan constituir delito;
+
+b) Permitan que los funcionarios o empleados de la organización auxiliar del crédito o casa de cambio, alteren o modifiquen registros con el propósito de ocultar hechos que probablemente puedan constituir delito;
+
+c) Obtengan o pretendan obtener un beneficio a cambio de abstenerse de informar a sus superiores hechos que probablemente puedan constituir delito;
+
+d) Ordenen o inciten a sus inferiores a alterar informes con el fin de ocultar hechos que probablemente puedan constituir delito, o
+
+e) Inciten u ordenen no presentar la petición correspondiente, a quien esté facultado para ello.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 101 Bis 1.
+
+La acción penal en los delitos previstos en esta ley, perseguibles por petición de la Secretaría de Hacienda y Crédito Público, de la organización auxiliar del crédito o casa de cambio ofendidas, o de quien tenga interés jurídico, prescribirá en tres años contados a partir del día en que dicha Secretaría, las organizaciones auxiliares del crédito o casas de cambio, tengan conocimiento del delito y del delincuente, y si no tienen ese conocimiento, en cinco años que se computarán a partir de la fecha de la comisión del delito. En los demás casos, se estará a las reglas del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+
+> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
+
+###### ARTICULO 101 Bis 2.
+
+Se sancionará con prisión de tres a quince años al miembro del consejo de administración, funcionario o empleado de una organización auxiliar de crédito o casa de cambio, que por sí o por interpósita persona, dé u ofrezca dinero o cualquier otra cosa a un servidor público de la Comisión Nacional Bancaria y de Valores, para que haga u omita un determinado acto relacionado con sus funciones.
+
+Igual sanción se impondrá al servidor público de la Comisión Nacional Bancaria y de Valores, que por sí o por interpósita persona solicite para sí o para otro, dinero o cualquier otra cosa, para hacer o dejar de hacer algún acto relacionado con sus funciones.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 3 DE ENERO DE 1990)</small>
 
@@ -2567,3 +2599,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- La presente Ley entrará en vigor noventa días después de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Se derogan los artículos 119 y 120 de la Ley de Instituciones de Crédito; 102 y 103 de la Ley General de Organizaciones y Actividades Auxiliares del Crédito; 87 y 88 de la Ley del Mercado de Valores; 45 de la Ley de Sociedades de Inversión; la fracción XI del artículo 108 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros; la fracción XII del artículo 5o., 109 y 110 de la Ley de los Sistemas de Ahorro para el Retiro, y la fracción X del artículo 4o. de la Ley de la Comisión Nacional Bancaria y de Valores, así como las demás disposiciones que se opongan a la presente Ley.
+
+D.O.F. 17 DE MAYO DE 1999.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
