@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "2000-05-29"
+last_updated: "2003-06-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE MAYO DE 2000.
-
-(REPUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MAYO DE 2000)
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE JUNIO DE 2003.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -902,7 +900,7 @@ Si el fallecimiento ocurriera en un lugar o población en donde no exista Oficin
 
 ###### ARTICULO 122.
 
-Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigue (sic) un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
+Cuando el Juez del Registro Civil, sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Juez del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Juez del Registro Civil para que los anote en el acta.
 
 ###### ARTICULO 123.
 
@@ -1118,21 +1116,21 @@ III.- El parentesco de consanguinidad legítima o natural, sin limitación de gr
 
 IV.- El parentesco de afinidad en línea recta, sin limitación alguna;
 
-V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado.
+V.- El adulterio habido entre las personas que pretendan contraer matrimonio, cuando ese adulterio haya sido judicialmente comprobado;
 
-VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre.
+VI.- El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre;
 
 VII.- La fuerza o miedo graves. En caso de rapto, subsiste el impedimento entre el raptor y la raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad;
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
-VIII.- La impotencia incurable para la cópula; y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias.
+VIII.- La impotencia incurable para la cópula; y las enfermedades crónicas e incurables, que sean, además, contagiosas o hereditarias;
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1992)</small>
 
-IX.- Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 450.
+IX.- Padecer alguno de los estados de incapacidad a que se refiere la fracción II del artículo 450;
 
-X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
+X.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer;
 
 De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
@@ -2076,7 +2074,7 @@ III.- El tutor;
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
-IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado.
+IV.- Los hermanos y demás parientes colaterales dentro del cuarto grado;
 
 V.- El Ministerio Público.
 
@@ -2644,7 +2642,7 @@ La adopción simple puede revocarse:
 
 I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, se oirá a las personas que prestaron su consentimiento conforme al artículo 397, cuando fueren de domicilio conocido, y a falta de ellas, al representante del Ministerio Público y al Consejo de Tutelas;
 
-II.- Por ingratitud del adoptado.
+II.- Por ingratitud del adoptado;
 
 > <small>(ADICIONADA, D.O.F. 28 DE MAYO DE 1998)</small>
 
@@ -2734,7 +2732,7 @@ ARTICULO 410 F.- En igualdad de circunstancias se dará preferencia en la adopci
 
 ###### ARTICULO 411.
 
-En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos (sic), cualquiera que sea su estado, edad y condición.
+En la relación entre ascendientes y descendientes debe imperar el respeto y la consideración mutuos, cualquiera que sea su estado, edad y condición.
 
 ###### ARTICULO 412.
 
@@ -2940,7 +2938,7 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 28
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiere comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
+IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -3308,7 +3306,7 @@ IV.- Los que por sentencia que cause ejecutoria hayan sido condenados a la priva
 
 V.- El que haya sido condenado por robo, abuso de confianza, estafa, fraude o por delitos contra la honestidad;
 
-VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta.
+VI.- Los que no tengan oficio o modo de vivir conocido o sean notoriamente de mala conducta;
 
 VII.- Los que al deferirse la tutela, tengan pleito pendiente con el incapacitado;
 
@@ -3334,7 +3332,7 @@ II.- Los que se conduzcan mal en el desempeño de la tutela, ya sea respecto de 
 
 III.- Los tutores que no rindan sus cuentas dentro del término fijado por el artículo 590;
 
-IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigue (sic) su incapacidad;
+IV.- Los comprendidos en el artículo anterior, desde que sobrevenga o se averigüe su incapacidad;
 
 V.- El tutor que se encuentre en el caso previsto en el artículo 159;
 
@@ -3518,7 +3516,7 @@ Cuando el tutor tenga que administrar bienes, no podrá entrar a la administraci
 
 ###### ARTICULO 536.
 
-El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más (sic) ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
+El tutor que entre a la administración de los bienes sin que se haya nombrado curador, será responsable de los daños y perjuicios que cause al incapacitado y, además, separado de la tutela; más ningún extraño puede rehusarse a tratar con él judicial o extrajudicialmente alegando la falta de curador.
 
 ###### ARTICULO 537.
 
@@ -5878,9 +5876,9 @@ ARTICULO 1,022.- Si el usufructuario quiere hacer en este caso las reparaciones,
 
 ARTICULO 1,023.- La omisión del aviso al propietario, hace responsable al usufructuario de la destrucción, pérdida o menoscabo de la cosa por falta de las reparaciones, y le priva del derecho de pedir indemnización si él las hace.
 
-ARTICULO 1,024.- Toda diminución (sic) de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
+ARTICULO 1,024.- Toda diminución de los frutos que provenga de imposición de contribuciones, o cargas ordinarias sobre la finca o cosa usufructuada, es de cuenta del usufructuario.
 
-ARTICULO 1,025.- La diminución (sic) que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
+ARTICULO 1,025.- La diminución que por las propias causas se verifique, no en los frutos, sino en la misma finca o cosa usufructuada, será de cuenta del propietario; y si éste, para conservar íntegra la cosa, hace el pago, tiene derecho de que se le abonen los intereses de la suma pagada, por todo el tiempo que el usufructuario continúe gozando de la cosa.
 
 ARTICULO 1,026.- Si el usufructuario hace el pago de la cantidad, no tiene derecho de cobrar intereses, quedando compensados éstos con los frutos que reciba.
 
@@ -5990,7 +5988,7 @@ ARTICULO 1,064.- Las servidumbres son inseparables del inmueble a que activa o p
 
 ARTICULO 1,065.- Si los inmuebles mudan de dueño, la servidumbre continúa, ya activa, ya pasivamente, en el predio u objeto en que estaba constituída, hasta que legalmente se extinga.
 
-ARTICULO 1,066.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera, (sic) Mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
+ARTICULO 1,066.- Las servidumbres son indivisibles. Si el predio sirviente se divide entre muchos dueños, la servidumbre no se modifica, y cada uno de ellos tiene que tolerarla en la parte que le corresponda. Si es el predio dominante el que se divide entre muchos, cada porcionero puede usar por entero de la servidumbre, no variando el lugar de su uso, ni agravándolo de otra manera, Mas si la servidumbre se hubiere establecido en favor de una sola de las partes del predio dominante, sólo el dueño de ésta podrá continuar disfrutándola.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -6296,7 +6294,7 @@ II.- Entre los consortes;
 
 III.- Entre los incapacitados y sus tutores o curadores, mientras dura la tutela;
 
-IV.- Entre copropietarios o coposeedores, respecto del bien común.
+IV.- Entre copropietarios o coposeedores, respecto del bien común;
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1974)</small>
 
@@ -6684,7 +6682,7 @@ IX.- Los parientes del autor de la herencia que, hallándose éste imposibilitad
 
 X.- El que usare de violencia, dolo o fraude con una persona para que haga, deje de hacer o revoque su testamento;
 
-XI.- El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos.
+XI.- El que conforme al Código Penal, fuere culpable de supresión, substitución o suposición de infante, siempre que se trate de la herencia que debió de corresponder a éste o a las personas a quienes se haya perjudicado o intentado perjudicar con esos actos;
 
 > <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1997)</small>
 
@@ -7166,7 +7164,7 @@ IV.- Los ciegos, sordos o mudos;
 
 V.- Los que no entiendan el idioma que habla el testador;
 
-VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes.
+VI.- Los herederos o legatarios; sus descendientes, ascendientes, cónyuge o hermanos. El concurso como testigo de una de las personas a que se refiere esta fracción, sólo produce como efecto la nulidad de la disposición que beneficie a ella o a sus mencionados parientes;
 
 VII.- Los que hayan sido condenados por el delito de falsedad.
 
@@ -7900,7 +7898,7 @@ II.- Por muerte;
 
 III.- Por incapacidad legal, declarada en forma;
 
-IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública.
+IV.- Por excusa que el juez califique de legítima, con audiencia de los interesados y del Ministerio Público, cuando se interesen menores o la Beneficencia Pública;
 
 V.- Por terminar el plazo señalado por la ley y las prórrogas concedidas para desempeñar el cargo;
 
@@ -8710,7 +8708,7 @@ ARTICULO 2,016.- En el caso del artículo que precede, si no se designa la calid
 
 ARTICULO 2,017.- En los casos en que la obligación de dar cosa cierta importe la traslación de la propiedad de esa cosa, y se pierde o deteriora en poder del deudor, se observarán las reglas siguientes:
 
-I.- Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor de la cosa y por los daños y perjuicios.
+I.- Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor de la cosa y por los daños y perjuicios;
 
 II.- Si la cosa se deteriorare por culpa del deudor, el acreedor puede optar por la rescisión del contrato y el pago de daños y perjuicios, o recibir la cosa en el estado que se encuentre y exigir la reducción de precio y el pago de daños y perjuicios;
 
@@ -8742,7 +8740,7 @@ II.- Si la pérdida fuere por culpa de alguno de los contratantes, el importe se
 
 III.- A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo, si la cosa perece totalmente, o en parte, si la pérdida fuere solamente parcial;
 
-IV.- En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la diminución (sic) de sus respectivos derechos, se nombrarán peritos que la determinen.
+IV.- En el caso de la fracción que precede, si la pérdida fuere parcial y las partes no se convinieren en la diminución de sus respectivos derechos, se nombrarán peritos que la determinen.
 
 ARTICULO 2,024.- En los contratos en que la prestación de la cosa no importe la traslación de la propiedad, el riesgo será siempre de cuenta del acreedor, a menos que intervenga culpa o negligencia de la otra parte.
 
@@ -9106,7 +9104,7 @@ ARTICULO 2,148.- Si el enajenante no conocía los vicios, solamente deberá rest
 
 ARTICULO 2,149.- Las acciones que nacen de lo dispuesto en los artículos del 2,142 al 2,148, se extinguen a los seis meses, contados desde la entrega de la cosa enajenada, sin perjuicio de lo dispuesto en el caso especial a que se refieren los artículos 2,138 y 2,139.
 
-ARTICULO 2,150.- Enajenándose dos o más animales juntamente, sea en un precio alzado o sea señalándolo a cada uno de ellos, el vicio de uno da sólo lugar a la acción redhibitoria, respecto de él y no respecto a los demás, a no ser que aparezca que el adquirente no habría adquirido el sano o sanos sin el vicioso (sic), o que la enajenación fuese de un rebaño y el vicio fuere contagioso.
+ARTICULO 2,150.- Enajenándose dos o más animales juntamente, sea en un precio alzado o sea señalándolo a cada uno de ellos, el vicio de uno da sólo lugar a la acción redhibitoria, respecto de él y no respecto a los demás, a no ser que aparezca que el adquirente no habría adquirido el sano o sanos sin el vicioso, o que la enajenación fuese de un rebaño y el vicio fuere contagioso.
 
 ARTICULO 2,151.- Se presume que el adquirente no tenía voluntad de adquirir uno solo de los animales, cuando se adquiere un tiro, yunta o pareja, aunque se haya señalado un precio separado a cada uno de los animales que los componen.
 
@@ -9298,7 +9296,7 @@ ARTICULO 2,225.- La ilicitud en el objeto, en el fin o en la condición del acto
 
 ARTICULO 2,226.- La nulidad absoluta por regla general no impide que el acto produzca provisionalmente sus efectos, los cuales serán destruídos retroactivamente cuando se pronuncie por el juez la nulidad. De ella puede prevalerse todo interesado y no desaparece por la confirmación o la prescripción.
 
-ARTICULO 2,227.- La nulidad es relativa cuando no reune todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
+ARTICULO 2,227.- La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
 
 ARTICULO 2,228.- La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la lesión, y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
 
@@ -9322,7 +9320,7 @@ ARTICULO 2,237.- La acción para pedir la nulidad de un contrato hecho por viole
 
 ARTICULO 2,238.- El acto jurídico viciado de nulidad en parte, no es totalmente nulo, si los (sic) partes que lo forman pueden legalmente subsistir separadas, a menos que se demuestre que al celebrarse el acto se quiso que sólo íntegramente subsistiera.
 
-ARTICULO 2,239.- La anulación del acto obliga a las partes a restituirse mútuamente (sic) lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
+ARTICULO 2,239.- La anulación del acto obliga a las partes a restituirse mutuamente lo que han recibido o percibido en virtud o por consecuencia del acto anulado.
 
 ARTICULO 2,240.- Si el acto fuere bilateral y las obligaciones correlativas consisten ambas en sumas de dinero o en cosas productivas de frutos, no se hará la restitución respectiva de intereses o de frutos sino desde el día de la demanda de nulidad. Los intereses y los frutos percibidos hasta esa época se compensan entre sí.
 
@@ -9844,7 +9842,7 @@ I.- A entregar al arrendatario la finca arrendada, con todas sus pertenencias y 
 
 II.- A conservar la cosa arrendada en el mismo estado, durante el arrendamiento, haciendo para ello todas las reparaciones necesarias;
 
-III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables.
+III.- A no estorbar ni embarazar de manera alguna el uso de la cosa arrendada, a no ser por causa de reparaciones urgentes e indispensables;
 
 IV.- A garantir el uso o goce pacífico de la cosa por todo el tiempo del contrato;
 
@@ -9864,9 +9862,9 @@ ARTICULO 2,418.- Lo dispuesto en la fracción IV del artículo 2,412 no comprend
 
 ARTICULO 2,419.- El arrendatario está obligado a poner en conocimiento del propietario, en el más breve término posible, toda usurpación o novedad dañosa que otro haya hecho o abiertamente prepare en la cosa arrendada, so pena de pagar los daños y perjuicios que cause con su omisión. Lo dispuesto en este artículo no priva al arrendatario del derecho de defender, como poseedor, la cosa dada en arrendamiento.
 
-ARTICULO 2,420.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una diminución (sic) en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
+ARTICULO 2,420.- Si el arrendador fuere vencido en juicio sobre una parte de la cosa arrendada, puede el arrendatario reclamar una diminución en la renta o la rescisión del contrato y el pago de los daños y perjuicios que sufra.
 
-ARTICULO 2,421.- El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la diminución (sic) de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
+ARTICULO 2,421.- El arrendador responde de los vicios o defectos de la cosa arrendada que impidan el uso de ella, aunque él no los hubiese conocido o hubiesen sobrevenido en el curso del arrendamiento, sin culpa del arrendatario. Este puede pedir la diminución de la renta o la rescisión del contrato, salvo que se pruebe que tuvo conocimiento antes de celebrar el contrato, de los vicios o defectos de la cosa arrendada.
 
 ARTICULO 2,422.- Si al terminar el arrendamiento hubiere algún saldo a favor del arrendatario, el arrendador deberá devolverlo inmediatamente, a no ser que tenga algún derecho que ejercitar contra aquél; en este caso depositará judicialmente el saldo referido.
 
@@ -9886,7 +9884,7 @@ ARTICULO 2,425.- El arrendatario está obligado:
 
 I.- A satisfacer la renta en la forma y tiempo convenidos;
 
-II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios.
+II.- A responder de los perjuicios que la cosa arrendada sufra por su culpa o negligencia, la de sus familiares, sirvientes o subarrendatarios;
 
 III.- A servirse de la cosa solamente para el uso convenido o conforme a la naturaleza y destino de ella.
 
@@ -10162,7 +10160,7 @@ I.- Por falta de pago de la renta en los términos previstos en la fracción I d
 
 II.- Por usarse la cosa en contravención a lo dispuesto en la fracción III del artículo 2,425;
 
-III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480.
+III.- Por el subarriendo de la cosa en contravención a lo dispuesto en el artículo 2,480;
 
 > <small>(ADICIONADA, D.O.F. 21 DE JULIO DE 1993)</small>
 
@@ -11758,7 +11756,7 @@ I.- La deuda por gastos de salvamento, con el valor de la cosa salvada;
 
 II.- La deuda contraída antes del concurso, expresamente para ejecutar obras de rigurosa conservación de algunos bienes, con el valor de éstos; siempre que se pruebe que la cantidad prestada se empleó en esas obras;
 
-III.- Los créditos a que se refiere el artículo 2,644, con el precio de la obra construída:
+III.- Los créditos a que se refiere el artículo 2,644, con el precio de la obra construída;
 
 IV.- Los créditos por semillas, gastos de cultivo y recolección, con el precio de la cosecha para que sirvieron y que se halle en poder del deudor;
 
@@ -11784,7 +11782,7 @@ II.- Los gastos de rigurosa conservación y administración de los bienes concur
 
 III.- Los gastos de funerales del deudor, proporcionados a su posición social, y también los de su mujer e hijos que estén bajo su patria potestad y no tuviesen bienes propios;
 
-IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento:
+IV.- Los gastos de la última enfermedad de las personas mencionadas en la fracción anterior, hechos en los últimos seis meses que precedieron al día del fallecimiento;
 
 V.- El crédito por alimentos fiados al deudor para su subsistencia y la de su familia, en los seis meses anteriores a la formación del concurso;
 
@@ -11902,7 +11900,7 @@ ARTICULO 3,011.- Los derechos reales y en general cualquier gravamen o limitaci�
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
-ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta (sic) inscrita en el Registro Público.
+ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el Registro Público.
 
 Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y estén inscritos a nombre de uno solo de aquellos.
 
@@ -12364,7 +12362,7 @@ Las que provengan de una declaración de expropiación, limitación de dominio u
 
 ARTICULO 3,063.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
 
-I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice.
+I.- La clase de documento en virtud del cual se practique la cancelación, su fecha y número si lo tuviere y el funcionario que lo autorice;
 
 II.- La causa por la que se hace la cancelación;
 
@@ -12624,7 +12622,7 @@ D.O.F. 30 DE DICIEMBRE DE 1966.
 
 Primero.- El presente Decreto entrará en vigos (sic) tres días después de su publicación en el "Diario Oficial" de la Federación.
 
-SEGUNDO (sic).- Se derogan las disposiciones legales que se opongan al presente Decreto.
+Segundo.- Se derogan las disposiciones legales que se opongan al presente Decreto.
 
 D.O.F. 17 DE ENERO DE 1970.
 
@@ -12884,7 +12882,7 @@ Primero.- El presente Decreto entrará en vigor a los nueve días siguientes de 
 
 Segundo.- Las menciones que en otras disposiciones de carácter federal se hagan al Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, se entenderán referidas al Código Civil Federal.
 
-Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad todas y cada una de las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto
+Las presentes reformas no implican modificación alguna a las disposiciones legales aplicables en materia civil para el Distrito Federal, por lo que siguen vigentes para el ámbito local de dicha entidad todas y cada una de las disposiciones del Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, vigentes a la entrada en vigor del presente Decreto.
 
 Tercero.- La operación automatizada del Registro Público de Comercio conforme a lo dispuesto en el presente Decreto deberá iniciarse a más tardar el 30 de noviembre del año 2000.
 
@@ -12892,10 +12890,16 @@ Para tal efecto, la Secretaría de Comercio y Fomento Industrial proporcionará 
 
 Cuarto.- En tanto se expide el Reglamento correspondiente, seguirán aplicándose los capítulos I a IV y VII del Título II del Reglamento del Registro Público de Comercio, publicado en el Diario Oficial de la Federación el 22 de enero de 1979, en lo que no se opongan a lo dispuesto en el presente Decreto.
 
-Quinto: La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 30 de noviembre de 2002.
+> <small>(REFORMADO, D.O.F. 13 DE JUNIO DE 2003)</small>
+
+Quinto: La captura del acervo histórico del Registro Público de Comercio deberá concluirse, en términos de los convenios de coordinación previstos en el artículo 18 del Código de Comercio a que se refiere el presente Decreto, a más tardar el 31 de diciembre de 2004."
 
 Sexto.- La Secretaría, en coordinación con los gobiernos estatales, determinará los procedimientos de recepción de los registros de los actos mercantiles que hasta la fecha de entrada en vigor del presente Decreto efectuaban los oficios de hipotecas y los jueces de primera instancia del orden común, así como los mecanismos de integración a las bases de datos central y a las ubicadas en las entidades federativas. Dicha recepción deberá efectuarse en un plazo máximo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
 
 Séptimo.- Las solicitudes de inscripción de actos mercantiles en el Registro Público de Comercio y los medios de defensa iniciados con anterioridad a la entrada en vigor del presente Decreto, se substanciarán y resolverán, hasta su total conclusión, conforme a las disposiciones que les fueron aplicables al momento de iniciarse o interponerse.
 
 Octavo.- La Secretaría deberá publicar en el Diario Oficial de la Federación los lineamientos y formatos a que se refieren los artículos 18 y 20, que se reforman por virtud del presente Decreto, en un plazo máximo de noventa días, contados a partir de la fecha de su entrada en vigor.
+
+D.O.F. 13 DE JUNIO DE 2003.
+
+UNICO. El Presente Decreto entrara en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
