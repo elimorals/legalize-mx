@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-imagen-urbana-del-municipio-de-mexicali-baja-3137
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-08-12"
-last_updated: "1999-09-24"
+last_updated: "2000-11-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3137&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,377 +23,333 @@ state: "BCN"
 ---
 # REGLAMENTO DE IMAGEN URBANA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-LEY DE ARCHIVOS DEL ESTADO DE CAMPECHE
+REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE MEXICALI
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL EJERCICIO DEL COMERCIO, O DE OTRAS ACTIVIDADES EN LA VIA O BIENES PUBLICOS DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 10 DE NOVIEMBRE DE 2000, SE DEROGAN LAS DISPOSICIONES RELATIVAS A LA OCUPACION DE LA VIA PUBLICA PARA EL EJERCICIO DE ACTIVIDADES COMERCIALES Y PRESTACION DE SERVICIOS.</small>
 
-Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 6 de mayo de 2010.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE NOVIEMBRE DE 2000.
 
-FERNANDO EUTIMIO ORTEGA BERNES, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
+Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 12 de agosto de 1994.
 
-Que el H. Congreso Constitucional del Estado Libre y Soberano de Campeche, me ha dirigido el siguiente:
+REGLAMENTO DE IMAGEN URBANA PARA EL MUNICIPIO DE MEXICALI
 
-D E C R E T O
+H. XIV AYUNTAMIENTO DE MEXICALI
 
-La LX Legislatura del Congreso del Estado de Campeche decreta:
+REGLAMENTO DE IMAGEN URBANA
 
-NÚMERO 39
+## TITULO PRIMERO
 
-## Título Primero. Disposiciones Generales
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-### Capítulo Único
+###### ARTICULO 1°.
 
-###### Artículo 1.
+CARACTER PUBLICO E INTERES SOCIAL.- ES DE ORDEN PUBLICO E INTERES SOCIAL EL CUMPLIMIENTO Y OBSERVANCIA DE LAS DISPOSICIONES DE ESTE REGLAMENTO, DE SUS NORMAS TECNICAS COMPLEMENTARIAS Y DE LAS DEMAS DISPOSICIONES LEGALES Y REGLAMENTARIAS APLICABLES EN MATERIA DE DESARROLLO URBANO, PLANIFICACION, SEGURIDAD, ESTABILIDAD E HIGIENE, ASI COMO LAS LIMITACIONES Y MODALIDADES QUE SE IMPONGAN AL USO DE LOS TERRENOS O DE LAS EDIFICACIONES DE PROPIEDAD PUBLICA O PRIVADA, EN LOS PROGRAMAS PARCIALES Y LAS DECLARATORIAS CORRESPONDIENTES.
 
-La presente ley es de orden público e interés general, con aplicación en todo el territorio del Estado y tiene por objeto:
+###### ARTICULO 2°.
 
-I. Normar la administración de los documentos generados o recibidos por los Entes Públicos en el ejercicio de sus atribuciones legales y reglamentarias;
+AMBITO.- LAS OBRAS DE CONSTRUCCION, INSTALACION, REPARACION Y DEMOLICION EN LAS VIAS PUBLICAS ASI COMO EL USO DE LA MISMA CON EDIFICIOS, CONSTRUCCIONES, ANUNCIOS, INSTALACIONES U OTROS OBJETOS SE SUJETARA A LA LEY Y PLANES DE DESARROLLO URBANO, A ESTE REGLAMENTO Y DEMAS DISPOSICIONES APLICABLES.
 
-II. Regular la organización y funcionamiento de los archivos públicos, administrativos e históricos; y
+###### ARTICULO 3°.
 
-III. Establecer los mecanismos de coordinación entre los Municipios, el Estado y la Federación para la conservación del Patrimonio Documental del Estado de Campeche.
+POLITICAS Y PROGRAMAS.- EL AYUNTAMIENTO EN SU CALIDAD DE AUTORIDAD EN MATERIA DE DESARROLLO URBANO Y CON EL APOYO DE LOS CONSEJOS Y COMITES CONSULTIVOS CORRESPONDIENTES, PODRA ELABORAR POLITICAS E INSTRUMENTAR PROGRAMAS DE CONSERVACION Y MEJORAMIENTO DE LA IMAGEN URBANA Y USO DE LA VIA PUBLICA POR SECTORES, ZONAS, VIALIDADES ESPECIFICAS O POR CUALQUIER OTRA FORMA DEFINITORIA DEL ALCANCE DE LAS ACCIONES.
 
-###### Artículo 2.
+## TITULO SEGUNDO
 
-El Patrimonio Documental del Estado de Campeche es el conjunto de documentos de archivo que dan cuenta de la evolución del Estado y de las personas e instituciones que han contribuido a su desarrollo; o cuyo valor testimonial, evidencial o informativo les confiere interés público, les asigna la condición de bienes culturales y les da pertenencia en la memoria colectiva estatal.
+### CAPITULO PRIMERO. GENERALIDADES
 
-###### Artículo 3.
+###### ARTICULO 4°.
 
-El Patrimonio Documental del Estado de Campeche será inalienable, intransferible e inembargable y no podrá salir del territorio del Estado, excepto para fines de difusión e intercambio cultural, previa autorización del titular del Ente Público responsable de su custodia y bajo las garantías de seguridad y debido resguardo.
+DEFINICIONES.- PARA LOS EFECTOS DE ESTE REGLAMENTO SE ENTENDERA POR:
 
-## Título Segundo. De la Administración de Archivos y Documentos
+I.- ALINEAMIENTO: ES LA LINEA QUE LAS AUTORIDADES COMPETENTES EN MATERIA DE CATASTRO FIJAN PARA LIMITAR UNA PROPIEDAD EN SU COLINDANCIA CON LA VIA PUBLICA EXISTENTE O EN PROYECTO.
 
-### Capítulo I. Disposiciones Comunes a los Archivos
+II.- ANUNCIO: TODO MEDIO DE INFORMACION, COMUNICACION O PUBLICIDAD QUE INDIQUE, SEÑALE, EXPRESE, MUESTRE O DIFUNDA AL PUBLICO CUALQUIER MENSAJE RELACIONADO CON LA PRODUCCION Y VENTA DE PRODUCTOS Y BIENES, CON LA PRESTACION DE SERVICIOS Y CON EL EJERCICIO LICITO DE ACTIVIDADES PROFESIONALES, CIVICAS, POLITICAS, CULTURALES, INDUSTRIALES O COMERCIALES. IGUALMENTE SE ENTENDERA POR ANUNCIO A LAS CARTELERAS O PANTALLAS Y LO QUE EN ELLAS SE PUBLICITE.
 
-###### Artículo 4.
+III.- AUTORIDAD MUNICIPAL: LA PRESIDENCIA, LA DIRECCION DE CATASTRO, CONTROL URBANO Y ECOLOGIA Y LA SUBDIRECCION DE CONTROL URBANO Y PLANEACION, ACTUANDO EN FORMA INDIVIDUAL O CONJUNTA.
 
-Para los efectos de la presente ley, se entenderá por:
+IV.- BANQUETA: ACERA DE LA VIALIDAD.
 
-I. Administración de documentos: el conjunto de métodos y prácticas destinados a planear, dirigir y controlar la producción, circulación, organización, conservación, uso, selección y destino final de los documentos de archivo;
+V.- BARDA: ES LA CONSTRUCCION QUE DELIMITA UN PREDIO.
 
-II. Archivo: el conjunto orgánico de documentos en cualquier soporte, que son producidos o recibidos en el ejercicio de sus atribuciones por los Entes Públicos;
+VI.- VIALIDAD: VIA PUBLICA PEATONAL Y VEHICULAR QUE BRINDA ACCESO A LOS PREDIOS ADJUNTOS.
 
-III. Archivo de Concentración: el archivo en el que se reúne la documentación transferida de los archivos de trámite;
+VII.- DEPARTAMENTO: EL DEPARTAMENTO DE NOMENCLATURA E IMAGEN URBANA.
 
-IV. Archivo de Trámite: el archivo en el que se reúne la documentación recibida o generada por una unidad administrativa en el ejercicio de sus funciones, durante la tramitación de los asuntos a su cargo;
+VIII.- DIRECCION: LA DIRECCION DE CATASTRO, CONTROL URBANO Y ECOLOGIA.
 
-V. Archivo Histórico: el archivo al que se transfiere la documentación del archivo de concentración que debe conservarse permanentemente por contener valor histórico;
+IX.- EXCEDENTE: ES LA PORCION DE TERRENO QUE RESULTA DE OBRAS DE URBANIZACION CUANDO ESTAS CONFORMAN SECCIONES DE ARROYO MAS REDUCIDAS QUE LO PROYECTADO, GENERANDOSE ENTRE EL CORDON DEL MISMO Y EL LIMITE DE LOS PREDIOS COLINDANTES.
 
-VI. Archivo Privado: el conjunto de documentos generados o reunidos por particulares, personas físicas o morales, y en poder de éstos, que se consideren patrimonio documental del Estado;
+X.- INFRACCION: ES LA VIOLACION A CUALQUIERA DE LAS DISPOSICIONES ESTABLECIDAS EN EL PRESENTE REGLAMENTO.
 
-VII. Baja documental: el proceso operativo que consiste en eliminar aquella documentación que haya prescrito en sus valores administrativos, legales, fiscales o contables, y que no contenga valor histórico;
+XI.- INSTALAR: ESTABLECER, COLOCAR, SUJETAR O PONER UN ANUNCIO, YA SEA PINTADO, PROYECTADO, IMPRESO, ADOSADO, SOLDADO, PEGADO O EJECUTADO Y EXPUESTO POR CUALQUIER OTRO MEDIO; ASI COMO REALIZAR CUALQUIER ACCION DE EMISION, MEJORAMIENTO, MANTENIMIENTO O MODIFICACION DE ANUNCIOS.
 
-VIII. Catálogo de Disposición Documental: el registro general y sistemático que establece los valores documentales, los plazos de conservación, la vigencia documental, la clasificación de reserva o confidencialidad y el destino final de los documentos;
+XII.- INVASION: TODA OCUPACION NO AUTORIZADA DE LA VIA PUBLICA.
 
-IX. Clasificación archivística: el proceso de identificación y agrupación de expedientes homogéneos con base en la estructura funcional de los Entes Públicos;
+XIII.- OCUPACION: PERMANENCIA TEMPORAL EN DETERMINADO LUGAR DE LA VIA PUBLICA REALIZANDO ACTIVIDADES COMERCIALES Y OTRAS ESPECIFICAMENTE AUTORIZADAS. EN EL CASO DE LAS VIAS PUBLICAS SE PREVEE QUE LA OCUPACION PUEDA PRESENTARSE EN UNA O MAS DE SUS FORMAS: SUBTERRANEA, SUPERFICIAL Y AEREA.
 
-X. Comisión: la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche;
+XIV.- PERITO RESPONSABLE: ES EL INGENIERO CIVIL O ARQUITECTO AUTORIZADO COMO PERITO POR LA SUBDIRECCION DE CONTROL URBANO Y PLANEACION, RESPONSABLE DE LOS PROYECTOS ESTRUCTURALES, ELECTROMECANICOS, ARQUITECTONICOS O CUALQUIER TIPO DE INSTALACIONES EN MATERIA DE ANUNCIOS.
 
-XI. Conservación de archivos: el conjunto de procedimientos y medidas destinados a asegurar la preservación y la prevención de alteraciones físicas y de información de los documentos de un archivo, mediante aplicación de técnicas preventivas y correctivas que permiten mantener los documentos en las mejores condiciones, sin alteraciones físicas ni de contenido;
+XV.- PERMISO: LA AUTORIZACION TEMPORAL EXPEDIDA POR LA SUBDIRECCION DE CONTROL URBANO Y PLANEACION A TRAVES DEL DEPARTAMENTO DE NOMENCLATURA E IMAGEN URBANA.
 
-XII. Cuadro General de Clasificación Archivística: el instrumento técnico que refleja la estructura de un archivo con base en las atribuciones y funciones de cada Ente Público;
+XVI.- PROPIETARIO: ES EL TITULAR DEL DERECHO REAL DE PROPIEDAD, Y QUE LE FACULTA PARA USAR, DISFRUTAR Y DISPONER DE UN BIEN MUEBLE O INMUEBLE.
 
-XIII. Destino final: la selección que se hace en los archivos de concentración de aquellos expedientes cuyo plazo de conservación o uso ha prescrito, con el fin de darlos de baja o transferirlos a un archivo histórico;
+XVII.- REGLAMENTO: EL PRESENTE ORDENAMIENTO.
 
-XIV. Documentación activa: la necesaria para el ejercicio de las atribuciones de las unidades administrativas de los Entes Públicos y de uso frecuente, que se conserva en el archivo de trámite;
+XVIII.- SUBDIRECCION: LA SUBDIRECCION DE CONTROL URBANO Y PLANEACION.
 
-XV. Documentación histórica: la que contiene evidencia y testimonios de las acciones del Ente Público, por lo que debe conservarse permanentemente en el archivo histórico;
+XIX.- VIA PUBLICA: TODO ESPACIO DE USO COMUN QUE POR DISPOSICION DE LEY, SE ENCUENTRA DESTINADO A LIBRE TRANSITO ASI, COMO TODO INMUEBLE QUE DE HECHO SE UTILICE PARA ESTE FIN. TENIENDO POR OBJETO TAMBIEN EL SERVIR PARA LA VENTILACION, ILUMINACION Y ASOLAMIENTO DE LOS EDIFICIOS QUE LA LIMITAN, DAR ACCESO A LOS PREDIOS COLINDANTES Y PARA ALOJAR CUALQUIER INSTALACION DE UNA OBRA O SERVICIO PUBLICO.
 
-XVI. Documentación semiactiva: la de uso esporádico que debe conservarse por razones administrativas, legales, fiscales o contables en el archivo de concentración, durante un plazo determinado;
+ESTE ESPACIO ESTA LIMITADO POR LA SUPERFICIE ENGENDRADA POR LA GENERATRIZ VERTICAL QUE SIGUE EL ALINEAMIENTO OFICIAL.
 
-XVII. Documento de archivo: el que registra un hecho, acto administrativo, jurídico, fiscal o contable, creado, recibido, manejado y usado en el ejercicio de las facultades y actividades de los Entes Públicos;
+### CAPITULO SEGUNDO. DISPOSICIONES
 
-XVIII. Documento electrónico: la información que puede constituir un documento de archivo cuyo tratamiento es automatizado y requiere de una herramienta específica para leerse o recuperarse;
+###### ARTICULO 5°.
 
-XIX. Entes públicos: las Dependencias y Entidades que conforman la Administración Pública Estatal, centralizada y paraestatal, los órganos de los Poderes Legislativo y Judicial del Estado; los órganos constitucionales autónomos locales; y los Ayuntamientos y sus órganos administrativos auxiliares y entidades paramunicipales;
+ALCANCES.- LAS DISPOSICIONES DEL PRESENTE REGLAMENTO TIENEN POR OBJETO REGULAR:
 
-XX. Estado: el Estado de Campeche;
+a).- EL INSTALAR ANUNCIOS.
 
-XXI. Expediente: la unidad documental constituida por uno o varios documentos de archivo, ordenados y relacionados por un mismo asunto, actividad o trámite de un Ente Público;
+b).- LA OCUPACION TEMPORAL DE LA VIA PUBLICA.
 
-XXII. Fondo: el conjunto de series documentales generadas por un Ente Público, como fruto del ejercicio de sus competencias, con cuyo nombre se identifica;
+AUTORIZAR LA INSTALACION DE ANUNCIOS Y LA OCUPACION TEMPORAL DE VIA PUBLICA ES ATRIBUCION DE LA AUTORIDAD MUNICIPAL, Y TODA ACCION EN TAL SENTIDO DEBERA SUJETARSE A LO QUE ESTABLECE EL PRESENTE REGLAMENTO, AL REGLAMENTO DE LA LEY DE EDIFICACIONES Y DEMAS RELATIVOS.
 
-XXIII. Guía Simple de Archivo: el esquema general de descripción de las series documentales de los archivos de un Ente Público, que indica sus características fundamentales conforme al cuadro general de clasificación archivística y sus datos generales;
+EL INSTALAR ANUNCIOS EN CUALQUIER UBICACION Y LA OCUPACION TEMPORAL DE LA VIA PUBLICA QUE EN ESTE REGLAMENTO SE REGULAN, REQUIEREN DE PERMISO EXPEDIDO PREVIAMENTE POR EL MUNICIPIO, EN LOS TERMINOS QUE MAS ADELANTE SE SEÑALAN.
 
-XXIV. Inventarios documentales: los instrumentos de consulta que describen las series y expedientes de un archivo y que permiten su localización (inventario general), transferencia (inventario de transferencia) o baja documental (inventario de baja documental);
+###### ARTICULO 6°.
 
-XXV. Lineamientos: los Lineamientos que en materia de archivos expida la Comisión, los cuales serán observados por los Entes Públicos en lo que no contravengan o se opongan a lo dispuesto en esta ley y en otras leyes y reglamentos expedidos por el Congreso o el Ejecutivo del Estado, dentro de sus respectivas jurisdicciones;
+CORRESPONSABILIDAD.- LAS PERSONAS FISICAS O MORALES QUE PRESTEN SERVICIOS DE PUBLICIDAD; LOS PROPIETARIOS DE LOS INMUEBLES DONDE EXISTAN O SE DESEE INSTALAR ANUNCIOS Y LOS OCUPANTES DE LOS MISMOS, SERAN SOLIDARIAMENTE RESPONSABLES DE EFECTUAR LOS TRAMITES PERTINENTES Y DEL PAGO DE LAS SANCIONES QUE SE ORIGINEN CON MOTIVO DE LOS ANUNCIOS QUE SE INSTALEN O HAYAN SIDO INSTALADOS EN ESTA MUNICIPALIDAD, EN VIOLACION AL REGLAMENTO.
 
-XXVI. Plazo de conservación: el período de guarda de la documentación en los Archivos de Trámite, de Concentración e Histórico; consistente en la combinación de la vigencia documental, el término precautorio, el período de reserva, en su caso, y los períodos adicionales que se establezcan;
+###### ARTICULO 7°.
 
-XXVII. Sección: cada una de las divisiones del Fondo, basada en las atribuciones legales y/o reglamentarias de cada Ente Público, aplicables a través de cada una de las unidades administrativas que lo conforman;
+PARTICIPACION.- TODA PERSONA FISICA O MORAL PODRA DENUNCIAR ANTE EL MUNICIPIO, CUALQUIER INFRACCION A LAS DISPOSICIONES DEL PRESENTE REGLAMENTO, ASI COMO LOS HECHOS, ACTOS U OMISIONES RELACIONADOS CON LOS ANUNCIOS QUE PUEDAN PONER EN PELIGRO LA SALUD, LA VIDA O LA INTEGRIDAD FISICA DE LAS PERSONAS, LA SEGURIDAD DE LAS COSAS Y SU CAMBIO.
 
-XXVIII. Serie: la división de una sección que corresponde al conjunto de expedientes y documentos homogéneos generados por un sujeto productor en el desarrollo de la misma actividad administrativa y regulado por la misma norma de procedimiento;
+###### ARTICULO 8°.
 
-XXIX. Transferencia: el traslado controlado y sistemático de expedientes de consulta esporádica de un Archivo de Trámite al Archivo de Concentración (transferencia primaria), y de expedientes que deben conservarse de manera permanente, del Archivo de Concentración al Archivo Histórico (transferencia secundaria);
+PRODUCTOS.- LA OCUPACION TEMPORAL DE LA VIA PUBLICA CON FINES DE PROMOCION Y VENTA Y LA PUBLICIDAD RELATIVA A ALIMENTOS, BEBIDAS Y MEDICAMENTOS SE AJUSTARA A LAS DISPOSICIONES RELATIVAS DE LA MATERIA, CONTENIDAS EN ESTE Y OTROS REGLAMENTOS.
 
-XXX. Valor documental: la condición de los documentos que les confiere características administrativas, legales, fiscales o contables en los Archivos de Trámite o Concentración (valores primarios), o bien, evidenciales, testimoniales e informativos en los Archivos Históricos (valores secundarios);
+###### ARTICULO 9°.
 
-XXXI. Valoración: la actividad que consiste en el análisis e identificación de los valores documentales para establecer criterios de disposición y acciones de transferencia; y
+IDIOMA.- EL TEXTO DE LOS ANUNCIOS DEBERA REDACTARSE EN IDIOMA ESPAÑOL CON SUJECION A LAS REGLAS DE LA GRAMATICA EN PRIMER TERMINO; PERMITIENDO COMPLEMENTARSE CON EL USO DE LA LENGUA EXTRANJERA SIEMPRE Y CUANDO EL MENSAJE OCUPE UN LUGAR SECUNDARIO, TENGA EL MISMO SIGNIFICADO Y SE DESTAQUE EL PRIMERO DEL SEGUNDO.
 
-XXXII. Vigencia documental: el período durante el cual un documento de archivo mantiene sus valores administrativos, legales, fiscales o contables, de conformidad con las disposiciones jurídicas aplicables.
+###### ARTICULO 10°.
 
-### Capítulo II. De los Archivos de Trámite y de Concentración
+REQUISITOS.- SERA REQUISITO INDISPENSABLE OBTENER AUTORIZACION PARA LA OCUPACION TEMPORAL DE LA VIA PUBLICA ASI COMO PARA INSTALAR ANUNCIOS, CONTAR CON LOS CORRESPONDIENTES REGISTROS ADMINISTRATIVOS Y FISCALES DEL OCUPANTE O ANUNCIANTE.
 
-###### Artículo 5.
+PARA APROBAR LA OCUPACION TEMPORAL DE LA VIA PUBLICA SE DEBERA CONSIDERAR LA ESTRICTA NECESIDAD DEL ESPACIO, DE ACUERDO A LA ACTIVIDAD DE REALIZAR; ASI MISMO DEBERA GENERARSE UNA MEJORIA DE LA IMAGEN URBANA Y UNA REPERCUSION POSITIVA AL USUARIO DE LA VIA PUBLICA.
 
-Los Entes Públicos establecerán sus correspondientes archivos en los términos que fija la presente ley y desarrollarán las políticas, mecanismos de coordinación y regulación específicos internos que garanticen el correcto manejo de los mismos.
+### CAPITULO TERCERO. DE LAS ATRIBUCIONES, PERMISOS, ESPECIFICACIONES Y REQUISITOS GENERALES
 
-###### Artículo 6.
+###### ARTICULO 11.
 
-La organización de los archivos deberá asegurar la disponibilidad, localización expedita, integridad y conservación de los documentos de archivo que poseen los Entes Públicos.
+FACULTADES.- EL H. AYUNTAMIENTO DE MEXICALI POR CONDUCTO DE LA DIRECCION Y DE LA SUBDIRECCION ESTA FACULTADO PARA:
 
-###### Artículo 7.
+I.- CONCEDER, NEGAR, REVOCAR Y CANCELAR LOS PERMISOS PARA INSTALAR ANUNCIOS Y PARA LA OCUPACION TEMPORAL DE LA VIA PUBLICA.
 
-Los titulares de los Entes Públicos, en el ejercicio de las funciones que tienen encomendadas, serán responsables de que, en las áreas de trabajo a su cargo, se establezcan las medidas necesarias a fin de cumplir con lo dispuesto por la presente ley y otros ordenamientos aplicables.
+II.- VIGILAR POR MEDIO DE INSPECTORES EL CUMPLIMIENTO DE ESTE REGLAMENTO Y ORDENAR LOS TRABAJOS DE CONSERVACION, MANTENIMIENTO Y REPARACION QUE FUERAN NECESARIOS PARA GARANTIZAR SU ESTABILIDAD, SEGURIDAD Y BUEN ASPECTO.
 
-###### Artículo 8.
+III.- IMPEDIR CON SUS PROPIOS ELEMENTOS O CON EL AUXILIO DE LA FUERZA PUBLICA, LA INSTALACION Y APROVECHAMIENTO DE ANUNCIOS O LA OCUPACION TEMPORAL DE LA VIA PUBLICA, EN LOS CASOS EN QUE NO SE HAYA OTORGADO PERMISO PARA ELLO.
 
-Los encargados de los archivos serán responsables de impedir que, sin mediar la previa autorización del titular del Ente Público, se sustraigan documentos del local en que se encuentren o se proporcione cualquier tipo de documentación para fines no oficiales o de consulta y de denunciar ante la instancia correspondiente cualquiera contravención a lo dispuesto por la presente ley.
+IV.- EXIGIR EL RETIRO DE ANUNCIOS O LA DESOCUPACION DE LA VIA PUBLICA CUANDO SE INFRINJA ESTE REGLAMENTO.
 
-###### Artículo 9.
+V.- IMPONER, CALIFICAR Y RECONSIDERAR EN SU CASO LAS SANCIONES QUE CORRESPONDAN.
 
-Cuando un servidor público deje de desempeñar su cargo, deberá hacer entrega de la documentación oficial que tenga bajo su responsabilidad de conformidad con las políticas y procedimientos administrativos vigentes.
+VI.- LAS DEMAS ACCIONES QUE ESTE Y DEMAS ORDENAMIENTOS LE SEÑALEN.
 
-###### Artículo 10.
+###### ARTICULO 12°.
 
-Se establecerán los archivos siguientes:
+VIGENCIA.- LA VIGENCIA DE LAS AUTORIZACIONES PARA INSTALAR CUALQUIER ANUNCIO, SERAN VALIDAS POR EL AÑO CALENDARIO EN QUE SE EXPIDAN.
 
-I. Un Archivo de Trámite, por cada una de las unidades administrativas que conformen la estructura del Ente Público;
+LOS TITULARES DEL PERMISO DEBERAN GESTIONAR SU RENOVACION 15 DIAS ANTES DE QUE EXPIRE LA VIGENCIA DE DICHA AUTORIZACION, LA QUE SE PODRA VOLVER A CONCEDER SI LAS CONDICIONES DE SEGURIDAD, COMODIDAD, CONTROL VIAL, LIMPIEZA Y DEMAS CONDICIONES FUERON OBSERVADAS Y SE CONSIDERA QUE CONTINUARAN SIENDOLO.
 
-II. Un Archivo de Concentración, por cada Ente Público; y
+AL TERMINO DE LA VIGENCIA DEL PERMISO Y A FALTA DE SU RENOVACION, EL TITULAR DEL MISMO DEBERA RETIRAR EL ANUNCIO, INSTALACIONES Y TODO OBJETO QUE HAYA SIDO UBICADO CON BASE AL PERMISO EXPIRADO O CANCELADO.
 
-III. Un Archivo Histórico, por cada uno de los Poderes y órganos constitucionales autónomos estatales, y Ayuntamientos de los Municipios del Estado.
+LA AUTORIZACION PARA LA OCUPACION TEMPORAL DE LA VIA PUBLICA, NO PODRA SER MAYOR A 3 MESES, NI PODRA RENOVARSE CUMPLIDO EL PLAZO OTORGADO.
 
-### Capítulo III. De los Archivos Históricos
+###### ARTICULO 13°.
 
-###### Artículo 11.
+APROBACIONES.- PARA LOS EFECTOS DE LA OBTENCION DEL PERMISO RESPECTIVO DEBERAN REUNIRSE LOS SIGUIENTES REQUISITOS:
 
-La consulta de los Archivos Históricos será pública, sujeta solamente a las normas internas de preservación de los documentos y otras aplicables.
+I.- TODA PERSONA FISICA O MORAL PUBLICA O PRIVADA DEBERA OBTENER PERMISO PARA INSTALAR CUALQUIER ANUNCIO, PARA LA PERMANENCIA DE LOS YA INSTALADOS Y PARA LA OCUPACION TEMPORAL DE LA VIA PUBLICA.
 
-###### Artículo 12.
+II.- LA SOLICITUD DE PERMISO PARA INSTALAR O PARA LA PERMANENCIA DE UN ANUNCIO DEBE CONTENER LA SIGUIENTE INFORMACION:
 
-La consulta de los Archivos de Trámite y de Concentración corresponderá exclusivamente a los servidores públicos debidamente autorizados para poder efectuarla, de la unidad administrativa a la que correspondan esos archivos, con las salvedades que al respecto establecen las leyes y reglamentos aplicables en la materia tratándose de autoridades ministeriales y judiciales.
+A).- ANUNCIOS:
 
-###### Artículo 13.
+1.- NOMBRE, DOMICILIO DE LA PERSONA FISICA O MORAL, PROPIETARIA DEL PREDIO DONDE SE VA A INSTALAR EL ANUNCIO. CUANDO EL PERMISO SE SOLICITE POR PERSONA DISTINTA DEL PROPIETARIO, DEBERA PRESENTAR CONTRATO DE ARRENDAMIENTO Y DOCUMENTO DE CONFORMIDAD PARA LA INSTALACION FIRMADO POR EL PROPIETARIO.
 
-Las personas ajenas a los Archivos de Trámite y de Concentración podrán acceder a la información contenida en los mismos en los términos señalados por esta Ley y otros ordenamientos aplicables.
+2.- CROQUIS DEL ANUNCIO Y DEL LUGAR EN QUE SERA INSTALADO, CAMBIADO O RECONSTRUIDO; ESPECIFICANDOSE LOS MATERIALES A UTILIZAR, INCLUYENDO DIBUJO A ESCALA DEL DISEÑO DEL ANUNCIO, DIMENSIONES, FORMA DE INSTALACION, ILUMINACION, ORIENTACION ETC.
 
-###### Artículo 14.
+3.- PLANOS Y CALCULOS CUANDO EL ANUNCIO SEA SOSTENIDO POR ARMADURAS DE METAL O ESTRUCTURAS DE CONCRETO O SU AREA SEA MAYOR A 6 (SEIS) METROS CUADRADOS. ASI MISMO DEBERA LLEVAR FIRMA DE PERITO RESPONSABLE, REGISTRADO EN LA SUBDIRECCION.
 
-Los Entes Públicos con archivos de datos personales, se sujetarán a lo que establece esta Ley y otros ordenamientos aplicables.
+4.- EN EL CASO DE LOS ANUNCIOS YA INSTALADOS, SE REQUIERE DE LA REGULARIZACION Y EN SU CASO DE LA REVALIDACION DEL PERMISO OTORGADO CON ANTERIORIDAD A LA VIGENCIA DEL PRESENTE REGLAMENTO.
 
-### Capítulo I. De sus objetivos
+5.- SOLO SE AUTORIZARA UN ANUNCIO AUTOSOPORTANTE EN CADA FRENTE A VIALIDAD CON QUE CUENTE EL INMUEBLE.
 
-###### Artículo 15.
+6.- LAS PARTES DE SUSTENTACION, LA ESTRUCTURA DE SOPORTE Y LOS ELEMENTOS DE FIJACION, O SUJECION, DEBERAN FABRICARSE CON MATERIALES INCOMBUSTIBLES, ANTICORROSIVOS DEBIENDO GARANTIZAR SU ESTABILIDAD Y SEGURIDAD.
 
-Los Archivos de Trámite y de Concentración se sujetarán a las disposiciones siguientes:
+7.- REGISTROS FISCALES DEL ANUNCIANTE.
 
-I. Cada unidad administrativa deberá registrar y ordenar los documentos que reciba o genere durante un año calendario (del 1de enero al 31 de diciembre) en el Archivo de Trámite;
+B).- OCUPACION TEMPORAL DE LA VIA PUBLICA:
 
-II. Se establecerá una identificación, clasificación y catalogación de documentos uniforme en todas las áreas, la cual se realizará cuando se reciban o generen los documentos, de acuerdo al principio de procedencia y con apego a lo dispuesto por los ordenamientos aplicables;
+1.- NOMBRE Y DOMICILIO DE LA PERSONA FISICA O MORAL PROPIETARIA DEL PREDIO INMEDIATO AL AREA DE LA VIA PUBLICA QUE SE PRETENDE OCUPAR.
 
-III. Transcurrido el año calendario, salvo que el procedimiento administrativo al que se encuentren sujetos no haya concluido, o la naturaleza·· del contenido de los documentos obliguen a su consulta con posterioridad a la conclusión del procedimiento, cada unidad administrativa deberá transferir al Archivo de Concentración del Ente Público al que pertenezca, la documentación de trámite concluido para su resguardo.;
+2.- DESCRIPCION PORMENORIZADA DE SU ACTIVIDAD Y JUSTIFICACION DE SU NECESIDAD DE OCUPAR LA VIA PUBLICA, ASI COMO DE LOS BENEFICIOS DE IMAGEN URBANA Y OTROS QUE SE PRODUZCAN.
 
-IV. La transferencia, deberá incluir los inventarios respectivos y, en su caso, la resolución administrativa de clasificación de reserva o de confidencialidad que, en los términos de esta Ley y otros ordenamientos aplicables, se realice. En el Archivo de Concentración se deberá destinar un área específica a la documentación de cada unidad administrativa para su conservación por un plazo de cinco años;
+3.- ESPECIFICACION DE LOS OBJETOS O INSTALACIONES A COLOCAR.
 
-V. Transcurrido el período de conservación, el responsable del Archivo de Concentración procederá conforme a lo que establezcan los ordenamientos aplicables para determinar el destino final de la documentación; y
+4.- REGISTROS FISCALES DEL OCUPANTE.
 
-VI. Los documentos y libros generados, por el Registro del Estado Civil de las Personas y el Registro Público de la Propiedad y de Comercio, en el ejercicio de sus atribuciones legales, serán resguardados permanentemente en los archivos de esas unidades administrativas.
+EN CASO DE QUE LA AUTORIDAD MUNICIPAL LO CONSIDERE NECESARIO PODRA EXIGIR FIANZA DE CUMPLIMIENTO QUE GARANTICE EL RETIRO FUTURO DE LAS INSTALACIONES U OBJETOS QUE OCUPAN TEMPORALMENTE LA VIA PUBLICA O EN SU CASO UN SEGURO CONTRA DAÑOS A TERCEROS.
 
-###### Artículo 16.
+LA FALTA DE VERACIDAD EN LOS DATOS APORTADOS CON EL FIN DE OBTENER PERMISO PARA LA OCUPACION DE LA VIA PUBLICA O LA INSTALACION DE ANUNCIOS, SERA MOTIVO DE SANCION.
 
-Los Archivos Históricos se sujetarán a las disposiciones siguientes:
+###### ARTICULO 14°.
 
-I. Se encargarán de custodiar los documentos transferidos de los Archivos de Concentración que, por sus valores evidenciales, informativos o testimoniales, sirvan de sustento para conformar la memoria histórica institucional y social del Estado y de sus Municipios;
+SOLICITANTES.- SOLO SE AUTORIZARA LA OCUPACION TEMPORAL DE LA VIA PUBLICA A SOLICITUD O APROBACION EXPRESA DEL PROPIETARIO DEL PREDIO CUYO FRENTE COLINDA AL AREA QUE SE PRETENDE OCUPAR.
 
-II. Deberán preservar, organizar, clasificar, catalogar, describir y divulgar la documentación bajo su resguardo;
+> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JULIO DE 2009)</small>
 
-III. Procurarán la restauración y reproducción de aquellos documentos históricos, cuyo estado físico ponga en peligro su preservación, o su valor histórico sea de carácter excepcional;
+### CAPITULO CUARTO. DE LOS TIPOS DE ANUNCIOS
 
-IV. Elaborarán las guías, índices, inventarios y catálogos necesarios, de acuerdo con esta Ley y otros ordenamientos aplicables;
+###### ARTICULO 15°.
 
-V. Podrán intercambiar información técnica con los Archivos Históricos de otras instituciones estatales, municipales, nacionales e internacionales, de asociaciones civiles o instituciones particulares, en su caso;
+PERMANENTES.- LOS ANUNCIOS PERMANENTES DEBERAN TENER LAS DIMENSIONES, ASPECTOS Y UBICACION ADECUADOS PARA NO DESVIRTUAR LOS ELEMENTOS ARQUITECTONICOS DE LOS EDIFICIOS EN LOS QUE SE PRETENDAN INSTALAR O VECINOS A ESTOS; Y PARA QUE AL INTEGRARSE EN PERSPECTIVA SOBRE UNA CALLE, EDIFICIO O MONUMENTO, ARMONICEN CON ESTOS Y DEMAS ELEMENTOS URBANOS. ESPECIAL CUIDADO SE HARA DE LA IMAGEN Y CARACTER DE LAS ZONAS Y EDIFICIOS DE VALOR HISTORICO Y ARTISTICO.
 
-VI. Proporcionarán el servicio de préstamo y consulta pública observando las normas o disposiciones internas que para ello se establezcan; y
+EL DISEÑO DE CADA ANUNCIO, AL QUE SE SUJETARA SU CONSTRUCCION E INSTALACION, COMPRENDERA TODOS LOS REQUISITOS QUE PARA TAL EFECTO SE SEÑALEN EN EL REGLAMENTO RESPECTIVO.
 
-VII. Las demás que establezcan otras disposiciones legales y reglamentarias.
+###### ARTICULO 16°.
 
-###### Artículo 17.
+TRANSITORIOS.- LOS ANUNCIOS EN TAPIALES Y ANDAMIOS DE OBRAS EN PROCESO DE CONSTRUCCION Y EN LAS PROPIAS OBRAS ESTARAN LIMITADOS EN TIEMPO A LA DURACION DE LA OBRA EN QUE ESTEN COLOCADOS Y SOLO PODRAN CONTENER LOS DATOS RELATIVOS A CREDITOS PROFESIONALES DE EMPRESAS, PERSONAS FISICAS O INSTITUCIONES. SE COLOCARAN EN LOS LUGARES Y CON LOS FORMATOS QUE DETERMINE EL REGLAMENTO DE LA LEY DE EDIFICACIONES, OBSERVANDO LOS REQUISITOS CONTENIDOS EN ESTE REGLAMENTO.
 
-El Archivo General del Estado de Campeche es el órgano administrativo desconcentrado que, subordinado jerárquicamente a la Secretaría de Gobierno de la Administración Pública Estatal, adicionalmente a su carácter de Archivo Histórico del Poder Ejecutivo del Estado, tiene por objeto recopilar, organizar, conservar y divulgar los documentos que por su valor histórico y de transparencia sirvan para conformar el Patrimonio Documental del Estado, así como para el estudio y/o reconstrucción de la historia local, regional y nacional.
+###### ARTICULO 17°.
 
-###### Artículo 18.
+AUTOMATICOS.- LOS ANUNCIOS QUE CONTENGA MENSAJES ESCRITOS, TALES COMO NOTICIEROS Y ANUNCIOS HECHOS A BASE DE LETREROS, IMAGENES Y ELEMENTOS CAMBIANTES O MOVILES SOLO SE PERMITIRAN EN LUGARES VISIBLES DESDE LAS PLAZAS O JARDINES PUBLICOS, SIEMPRE QUE ESTEN A UNA ALTURA TAL QUE NO INTERFIERAN LA SEÑALIZACION OFICIAL DE CUALQUIER TIPO Y QUE NO PERJUDIQUEN EL ASPECTO DE LOS EDIFICIOS. QUEDA PROHIBIDA SU INSTALACION EN LUGARES VISIBLES DESDE LAS VIAS RAPIDAS O DE CIRCULACION CONTINUA.
 
-Corresponde al Archivo General del Estado:
+###### ARTICULO 18°.
 
-I. Realizar la valoración de los documentos de los Archivos de Concentración de los Entes Públicos de la Administración Pública Estatal que hayan entrado a su fase inactiva y seleccionar aquellos que por su valor histórico deben transferirse al Archivo Histórico del Poder Ejecutivo para su conservación permanente;
+ANUNCIOS EN VEHICULOS.- LOS ANUNCIOS EN EL EXTERIOR DE LOS VEHICULOS PARTICULARES Y EN EL INTERIOR Y EXTERIOR DE LOS DE SERVICIO PUBLICO DEBERAN SUJETARSE A LAS NORMAS DE ESTE REGLAMENTO, CON EXCEPCION DE LAS IDENTIFICACIONES QUE CON FINES FISCALES SEAN COLOCADAS EN EL EXTERIOR DE LOS VEHICULOS.
 
-II. Aplicar los procesos técnicos correspondientes a fin de organizar los documentos por fondos, secciones y series, con base en el principio de procedencia, y elaborar el cuadro de clasificación de los mismos;
+I).- EN LOS VEHICULOS DE SERVICIO PARTICULAR SE PODRAN INSTALAR, ANUNCIOS QUE SE REFIERAN A LOS PRODUCTOS QUE COMERCIALICE O PRODUZCA.
 
-III. Clasificar los fondos, describir y difundir sus contenidos a través de guías, inventarios, catálogos, publicaciones y exposiciones, haciendo uso de todos los medios disponibles;
+II).- SOLO LOS VEHICULOS DE SERVICIO PUBLICO Y LOS QUE SE ARRIENDEN CON ESE FIN ESPECIFICO, PODRAN LLEVAR ANUNCIOS DE PERSONAS FISICAS O MORALES QUE NO SEAN PROPIETARIOS DE LOS VEHICULOS.
 
-IV. Hacer uso de todos los medios necesarios y tecnologías aplicables para la conservación y restauración de los documentos que, por su estado de deterioro, valor histórico o de excepción deban transferirse a otros soportes para salvaguardar la integridad de los mismos;
+III).- EN LOS TRANSPORTES DE PASAJEROS DE SERVICIO PUBLICO SE PODRAN FIJAR ANUNCIOS SIEMPRE QUE NO OBSTACULICEN LA VISIBILIDAD DE CHOFERES Y PASAJEROS Y LOS NOMBRES Y SIGLAS DE IDENTIFICACION DEL VEHICULO PERMANEZCAN VISIBLES.
 
-V. Permitir la consulta de los fondos al público en general, siendo la única restricción aplicable el estado físico del documento que ponga en peligro la integridad del mismo;
+###### ARTICULO 19°.
 
-VI. Hacer uso de los fondos bajo su resguardo para realizar investigaciones que permitan ampliar el conocimiento de la evolución de las instituciones y de la historia del Estado de Campeche;
+TERMINALES DE TRANSPORTE.- EN EL INTERIOR DE LAS ESTACIONES Y TERMINALES DE TRANSPORTES DE SERVICIO PUBLICO, DICHOS ANUNCIOS ESTARAN DISTANTES DE LOS SEÑALAMIENTOS PROPIOS DE ESTOS LUGARES Y SU TEXTO, COLORES Y DEMAS PARTICULARIDADES SERAN TALES QUE NO SE CONFUNDAN CON LOS SEÑALAMIENTOS CITADOS, NI OBSTACULICEN O ENTORPEZCAN LA LIBRE CIRCULACION DE LAS PERSONAS Y EL MOVIMIENTO DE SUS EQUIPAJES.
 
-VII. Brindar asesoría a los Poderes Legislativo y Judicial y a los órganos constitucionales autónomos locales, así como a los Ayuntamientos de los Municipios del Estado, en la organización de sus respectivos Archivos Históricos; y
+###### ARTICULO 20°.
 
-VIII. Las demás atribuciones que le confieran otras disposiciones legales y reglamentarias.
+TEMPORALES.- LOS ADORNOS QUE SE COLOQUEN CON MOTIVO DE LA TEMPORADA NAVIDEÑA, FIESTAS CIVICAS O EVENTOS DE CUALQUIER TIPO, NO DEBERAN OBSTRUIR LOS SEÑALAMIENTOS DE TRANSITO, LA NOMENCLATURA DE CALLES E ILUMINACION PUBLICA Y DEBERAN SER RETIRADOS EN UN PLAZO NO MAYOR DE 15 DIAS POSTERIORES A LA CELEBRACION DEL EVENTO EN CUESTION.
 
-###### Artículo 19.
+CUANDO SE UTILICEN COMO MEDIOS PUBLICITARIOS A INDIVIDUOS QUE REPRESENTEN PERSONAJES TRADICIONALES, AQUELLOS PODRAN REALIZAR SUS ACTIVIDADES EN LAS PLAZAS JARDINES PUBLICOS, EN EL INTERIOR DE LOCALES COMERCIALES O LAS BANQUETAS; QUEDANDO PROHIBIDO EL HACERLO EN LOS ARROYOS DE LA VIA PUBLICA.
 
-La consulta de los documentos que conforman los fondos del Archivo General del Estado sólo podrá realizarse en días y horas de labores, en presencia del personal al servicio del Archivo y dentro del local en que el mismo se ubique.
+###### ARTICULO 21°.
 
-Toda persona que fuere sorprendida en el acto de manchar, raspar, mutilar, alterar, destruir o de pretender extraer los documentos del Archivo, será objeto de denuncia ante la autoridad ministerial para los efectos legales que correspondan, independientemente de la aplicación de las de las sanciones administrativas que correspondan al caso.
+LUMINOSOS.- ANUNCIOS LUMINOSOS, DEBERAN CUMPLIR, ADEMAS DE LAS DISPOSICIONES CONTENIDAS PARA CADA CASO EN EL PRESENTE REGLAMENTO, CON LOS SIGUIENTES REQUISITOS:
 
-###### Artículo 20.
+A).- NO DEBERAN CONTENER REFLEJOS O CONCENTRACIONES INTENSAS DE LUZ.
 
-El Archivo General del Estado contará con un Director y las áreas administrativas y técnicas necesarias para el cumplimiento de sus atribuciones y su buen funcionamiento.
+B).- DE OPERAR CON PERIODOS ALTERNOS DE LUZ Y OBSCURIDAD SE DEBERA GUARDAR UN RITMO QUE NO MOLESTE O DAÑE LA VISTA O DISTRAIGA A LAS PERSONAS.
 
-###### Artículo 21.
+C).- NO DEBERA TENER SEMEJANZA CON LOS MECANISMOS Y SEÑALAMIENTOS DE TRANSITO.
 
-El nombramiento y la remoción del Director del Archivo General del Estado las hará el Gobernador, a propuesta del Secretario de Gobierno. Los nombramientos y remoción de los demás servidores públicos del Archivo los hará el propio Secretario a propuesta del Director del Archivo. El otorgamiento de licencias al Director será atribución del Secretario, y tratándose del demás personal del mencionado Archivo será del Director.
+###### ARTICULO 22°.
 
-###### Artículo 22.
+TEXTO.- EL TEXTO Y EL CONTENIDO DE LOS ANUNCIOS EN LOS PUESTOS O CASETAS, AMBULANTES O NO, EN LA VIA PUBLICA DEBERAN RELACIONARSE CON LOS ARTICULOS QUE EN ELLOS SE EXPENDAN Y SUS DIMENSIONES NO EXCEDERAN DEL 20% DE LA ENVOLVENTE O SUPERFICIE TOTAL.
 
-Son atribuciones del Director del Archivo General del Estado:
+###### ARTICULO 23°.
 
-I. Representar legalmente al órgano ante toda clase de autoridades y particulares;
+SUPERFICIES.- SE PERMITE INSTALAR ANUNCIOS SOBRE LAS FACHADAS PRINCIPALES Y MUROS LATERALES DE LOS EDIFICIOS, COMERCIALES O INDUSTRIALES, DEBIENDOCE (SIC) TRAMITAR PERMISO PARA ELLO, DE IGUAL FORMA LO HARAN, LOS QUE SE PINTEN EN LA BARDAS DE PREDIOS NO EDIFICADOS Y EN LAS DE LOS PREDIOS DESTINADOS A USOS COMERCIALES O INDUSTRIALES.
 
-II. Organizar y vigilar las funciones del personal al servicio del Archivo General del Estado, así como la atención que se brinde al público;
+EN EL CASO DE ANUNCIOS DE CAMPAÑAS POLITICAS; SE DEBERA CONTAR CON LA AUTORIZACION POR ESCRITO DEL PROPIETARIO DEL INMUEBLE.
 
-III. Expedir copias certificadas de los documentos que se encuentren bajo resguardo del Archivo, a solicitud de parte y previo el pago de los derechos correspondientes;
+###### ARTICULO 24°.
 
-IV. Aceptar en nombre del Estado las donaciones de colecciones de documentos de interés histórico que a ése hagan tanto personas físicas como morales, oficiales o privadas, así como las que se adquieran por cualquier otro medio permitido por la ley;
+CLASIFICACION.- PARA LOS EFECTOS DEL PRESENTE REGLAMENTO LOS ANUNCIOS SE CLASIFICAN DE LA SIGUIENTE MANERA:
 
-V. Coadyuvar con la Comisión en la organización de los demás archivos históricos estatales y municipales que permitan una adecuada conformación del Patrimonio Documental del Estado de Campeche;
+I.- EN FUNCION DEL LUGAR EN QUE SE INSTALEN:
 
-VI. Presentar al Secretario de Gobierno los proyectos que tengan como fin elevar la calidad de las funciones del Archivo General del Estado;
+A) DE EDIFICIO.- FACHADAS, MUROS, BARDAS, ESCAPARATES, AZOTEAS Y MARQUESINAS.
 
-VII. Asistir al Secretario de Gobierno en la celebración de toda clase de convenios, contratos y demás actos jurídicos que tengan por objeto promover y apoyar la adquisición, recuperación, conservación, investigación, difusión y publicación de documentos de valor histórico para el Estado de Campeche, con apego a las normas y procedimientos correspondientes y, en general, que sean necesarios para el buen funcionamiento del Archivo; y
+B) DE PISO.- PREDIOS.
 
-VIII. Las demás que le señalen esta Ley, el Reglamento Interior del Archivo y otras disposiciones legales y reglamentarias.
+C) DE VEHICULO.- EN UNIDADES DE TRANSPORTE PUBLICO O PRIVADO DE CARGA O PASAJEROS.
 
-###### Artículo 23.
+II.- ATENDIENDO A SU DURACION:
 
-La estructura orgánica y las atribuciones de las unidades administrativas y demás servidores públicos del Archivo serán las que se determinen en su Reglamento Interior.
+A).-TRANSITORIOS.- LOS RELATIVOS A EVENTOS Y FESTIVIDADES; LOS VOLANTES, FOLLETOS Y MUESTRAS DE PRODUCTOS; LOS INSTALADOS EN OBRAS DE CONSTRUCCION; ASI COMO LOS DE CAMPAÑAS ELECTORALES Y EN GENERAL TODO AQUEL QUE SE INSTALE POR UN TERMINO NO MAYOR DE 90 DIAS NATURALES.
 
-###### Artículo 24.
+B).- PERMANENTES.- LOS INSTALADOS EN EDIFICIOS Y PISOS: PLACAS DENOMINATIVAS, PUESTOS FIJOS O AMBULANTES, VEHICULOS DEL SERVICIO PUBLICO Y PARTICULAR, Y EN GENERAL TODO AQUEL CON DURACION MAYOR A 90 DIAS NATURALES.
 
-La sede del Archivo General del Estado se ubicará en la Ciudad de San Francisco de Campeche.
+III.- POR SUS FINES:
 
-## Título Tercero. Del Archivo General del Estado de Campeche
+A).- DENOMINATIVOS.- AQUELLOS QUE SOLO CONTENGAN EL NOMBRE, O RAZON SOCIAL DE LA PERSONA FISICA O MORAL DE QUE SE TRATE, PROFESION O ACTIVIDAD A QUE SE DEDIQUE, O LA FIGURA IDENTIFICATIVA DE UNA EMPRESA O ESTABLECIMIENTO MERCANTIL.
 
-### Capítulo II. De sus Atribuciones y Funcionamiento
+B).- DE PROPAGANDA.- AQUELLOS QUE SE REFIERAN A MARCAS, PRODUCTOS, EVENTOS, SERVICIOS O ACTIVIDADES ANALOGAS PARA PROMOVER SU VENTA, USO O CONSUMO.
 
-###### Artículo 25.
+C).- MIXTOS.- AQUELLOS QUE CONTENGAN COMO ELEMENTO DE MENSAJE PUBLICITARIO, LOS COMPRENDIDOS EN ANUNCIOS DENOMINATIVOS Y DE PROPAGANDA.
 
-La Dirección del Periódico Oficial del Estado, la Dirección de Talleres Gráficos del Estado y los Entes Públicos, dentro del mes inmediato posterior al en que tengan lugar, remitirán al Archivo General dos ejemplares de todos los documentos, libros, revistas, gacetas, periódicos o cualesquiera otras publicaciones que impriman o editen. En la remisión se incluirán todas las secciones o apéndices de que conste la impresión o edición.
+D).- DE CARACTER CIVICO, SOCIAL Y POLITICO.
 
-###### Artículo 26.
+## TITULO TERCERO
 
-Con el propósito de incrementar el acervo de la hemeroteca del Archivo, su Director gestionará ante los integrantes del sector privado del Estado la celebración de convenios con la Secretaría de Gobierno para la adquisición de ejemplares de periódicos, revistas, gacetas y otras publicaciones que editen o impriman.
+### CAPITULO PRIMERO. USO TEMPORAL DE LA VIA PUBLICA
 
-###### Artículo 27.
+###### ARTICULO 25°.
 
-Se estable (sic) el Sistema Estatal de Archivos de Campeche como un mecanismo de coordinación y colaboración permanente entre los archivos públicos y la Comisión, para promover el marco jurídico, técnico y normativo de los archivos y garantizar la conservación, organización, descripción, uso adecuado y difusión del Patrimonio Documental del Estado.
+PRESUNCION DE VIA PUBLICA: TODO INMUEBLE QUE APAREZCA COMO VIA PUBLICA EN ALGUN PLANO O REGISTRO OFICIAL EXISTENTE EN CUALQUIERA DE LAS DEPENDENCIAS DEL GOBIERNO FEDERAL, ESTATAL Y MUNICIPAL, EMPRESAS DESCENTRALIZADAS, MUSEOS, BIBLIOTECAS O CUALQUIER DEPENDENCIA OFICIAL, SE PRESUMIRA QUE ES VIA PUBLICA Y QUE PERTENECEN AL GOBIERNO SALVO PRUEBA PLENA EN CONTRARIO.
 
-###### Artículo 28.
+###### ARTICULO 26°.
 
-El Sistema Estatal de Archivos tendrá los siguientes objetivos:
+REGIMEN DE LAS VIAS PUBLICAS: LAS VIAS PUBLICAS, SON IMPRESCRIPTIBLES E INALIENABLES, UNICAMENTE POR DECRETO DEL CONGRESO DEL ESTADO EN CASOS DETERMINADOS Y JUSTIFICADOS PODRAN CESAR ESTAS LIMITACIONES.
 
-I. Fomentar la modernización archivística con bases metodológicas, propiciando la integración de los archivos de los Entes Públicos y la cooperación entre los mismos;
+###### ARTICULO 27°.
 
-II. Promover la gestión y conservación de los archivos, el acceso a la información contenida en éstos, de acuerdo con la Ley y otras disposiciones legales y reglamentarias que sean aplicables, sin más límites que los previstos por las disposiciones aplicables en materia de reserva y confidencialidad;
+VIAS PUBLICAS PROCEDENTES DE FRACCIONAMIENTOS: APROBADO UN FRACCIONAMIENTO DE ACUERDO CON LAS DISPOSICIONES LEGALES RELATIVAS, LOS INMUEBLES QUE EN EL PLANO OFICIAL APAREZCAN COMO DESTINADOS A VIAS PUBLICAS, AL USO COMUN O ALGUN SERVICIO PUBLICO, PASARAN POR ESE SOLO HECHO A SER CONSIDERADAS COMO TALES, SUJETANDOSE A LO DISPUESTO EN EL REGLAMENTO DE FRACCIONAMIENTOS VIGENTE EN EL ESTADO Y AL PRESENTE REGLAMENTO.
 
-III. Propiciar el uso y desarrollo de nuevas tecnologías de la información y la gestión de documentos de archivos en sistemas electrónicos;
+###### ARTICULO 28°.
 
-IV. Llevar a cabo los estudios conducentes a la emisión de políticas y lineamientos para los documentos de archivo en sistemas electrónicos;
+PERMISOS: LOS PERMISOS TEMPORALES QUE LA AUTORIDAD OTORGUE PARA APROVECHAR CON DETERMINADOS FINES LAS VIAS PUBLICAS Y OTROS BIENES DE USO COMUN O DESTINADOS A UN SERVICIO PUBLICO, NO CREAN A FAVOR DEL PERMISIONARIO DERECHO REAL O POSESORIO. TALES PERMISOS SERAN SIEMPRE TEMPORALES Y REVOCABLES, Y EN NINGUN CASO PODRAN OTORGARSE EN PERJUICIO DEL TRANSITO, DEL ACCESO A LOS PREDIOS COLINDANTES Y DE LOS SERVICIOS PUBLICOS INSTALADOS.
 
-V. Desarrollar los estándares para la certificación de los Sistemas de Archivo Administrativo y Archivo Histórico;
+###### ARTICULO 29°.
 
-VI. Promover el desarrollo de las instituciones formadoras de recursos humanos en archivística;
+OCUPACION DE EXCEDENTES: LA OCUPACION QUE SE HAGA, AUTORIZADA O NO DE SUPERFICIES IDENTIFICADAS COMO EXCEDENTES DE VIA PUBLICA, QUEDA SUJETA A LAS DISPOSICIONES DE ESTE REGLAMENTO.
 
-VII. Estimular la sensibilización de la sociedad, acerca de la importancia de los archivos activos, como centros de información esencial, y de los históricos como parte fundamental de la memoria colectiva; y
+###### ARTICULO 30°.
 
-VIII. Establecer y mantener actualizado el Registro Estatal de Archivos del Estado.
+DAÑOS A VIAS O SERVICIOS PUBLICOS: CUANDO POR LA EJECUCION DE UNA OBRA, POR EL USO DE VEHICULOS, OBJETOS, SUBSTANCIAS U OTRAS COSAS PELIGROSAS O POR CUALQUIERA OTRA CAUSA SE PRODUZCAN DAÑOS A CUALQUIER VIA O SERVICIO PUBLICO, OBRA O INSTALACION PERTENECIENTE AL ESTADO, O MUNICIPIO QUE EXISTAN EN UNA VIA PUBLICA O EN OTRO INMUEBLE DE USO COMUN, LA REPARACION INMEDIATA DE LOS DAÑOS SERAN POR CUENTA DEL DUEÑO DE LA OBRA, VEHICULO, OBJETO, O SUBSTANCIA, QUE HAYA CAUSADO DAÑO.
 
-###### Artículo 29.
+SI EL DAÑO ES CAUSADO POR EL TITULAR DE UN PERMISO O SUS DEPENDIENTES PODRA SUSPENDERSE DICHO PERMISO, HASTA QUE EL DAÑO SEA REPARADO A SATISFACCION DE LA DIRECCION, INDEPENDIENTEMENTE DE LA SANCION PECUNIARIA QUE CORRESPONDA.
 
-El Sistema Estatal de Archivos se integrará con todos los archivos de los entes públicos estatales y municipales.
+###### ARTICULO 31°.
 
-###### Artículo 30.
+INVASION DE LA VIA PUBLICA: EL QUE INVADA LA VIA PUBLICA, CON CONSTRUCCIONES O INSTALACIONES AEREAS O SUBTERRANEAS, ESTARA OBLIGADO A DESTRUIRLAS Y RETIRARLAS DE ASI DETERMINARLO LA AUTORIDAD MUNICIPAL, INDEPENDIENTEMENTE DE LAS SANCIONES PECUNIARIAS A LAS QUE SE HAGA ACREEDOR.
 
-Para fines de colaboración, con pleno respeto a su autonomía y marco jurídico propio, mediante la celebración de convenios, podrán incorporarse al Sistema Estatal de Archivos:
+###### ARTICULO 32°.
 
-I. Los representantes de archivos privados;
+BANQUETAS Y GUARNICIONES: LOS PROPIETARIOS DE PREDIOS URBANOS PODRAN CONSTRUIR Y MODIFICAR LAS GUARNICIONES Y BANQUETAS CORRESPONDIENTES AL FRENTE DE SUS LOTES, PREVIA AUTORIZACION DE LA DIRECCION Y SU UBICACION NO DEBERA ENTORPECER NI HACER MOLESTO EL TRANSITO VEHICULAR Y PEATONAL, QUEDA PROHIBIDA LA CONSTRUCCION DE ESCALONES EN LA VIA PUBLICA, Y DE ESTACIONAMIENTOS PRIVADOS EN LAS AREAS DE BANQUETA.
 
-II. Los representantes de asociaciones o sociedades civiles de archivistas o administradores de documentos, que operen en el Estado y en otras Entidades Federativas del país; y
+### CAPITULO SEGUNDO. INSTALACIONES AEREAS Y SUBTERRANEAS
 
-III. Los representantes de instituciones educativas en el campo de la administración de documentos y archivística.
+###### ARTICULO 33°.
 
-###### Artículo 31.
+INSTALACIONES PARA SERVICIOS: TODA INSTALACION AEREA O SUBTERRANEA PARA SERVICIOS PUBLICO O PRIVADO DEBERA SER ALOJADA EN EL LUGAR QUE SEÑALE LA DIRECCION.
 
-El Sistema Estatal de Archivos tendrá un Comité Técnico, que fungirá como órgano colegiado de consulta y asesoría en materia de archivos, el cual se integrará con:
+###### ARTICULO 34°.
 
-I. Un presidente, el Secretario de Gobierno;
+MANTENIMIENTO Y REMOCION DE INSTALACIONES: LAS PERSONAS FISICAS O MORALES, PARTICULARES O PUBLICAS PROPIETARIOS DE POSTES, OBJETOS O INSTALACIONES LOCALIZADAS EN VIA PUBLICA ESTAN OBLIGADOS A CONSERVARLOS EN BUENAS CONDICIONES.
 
-II. Un vicepresidente, el Secretario de la Contraloría;
+LA DIRECCION, POR RAZONES DE SEGURIDAD, MEJORIA DE IMAGEN, EJECUCION DE PROGRAMA U OTRA, PODRA ORDENAR SU CAMBIO DE LUGAR, SUSTITUCION O SUPRESION, ESTANDO OBLIGADOS SUS PROPIETARIOS A HACERLO POR SU CUENTA DENTRO DEL PLAZO QUE SE LES FIJE, EN CASO CONTRARIO LO HARA LA DIRECCION, CON CARGO AL RESPONSABLE DE SU INSTALACION INDEPENDIENTEMENTE DE LAS SANCIONES QUE SE ORIGINEN POR RESPECTIVOS MOVIMIENTOS.
 
-III. Un secretario técnico, el Director del Archivo General del Estado; y
+###### ARTICULO 35°.
 
-IV. Como vocales:
+INSTALACIONES Y SERVICIOS PROVISIONALES: LA DIRECCION PODRA AUTORIZAR INSTALACIONES PROVISIONALES CUANDO A SU JUICIO HAYA NECESIDAD DE LAS MISMAS FIJANDO EL MAXIMO PLAZO DE DURACION.
 
-a) El Comisionado Presidente de la Comisión;
+###### ARTICULO 36°.
 
-b) El Director del Archivo del Poder Legislativo;
-
-c) El Director del Archivo Judicial;
-
-d) El Director de Capacitación, Clasificación y Archivos de la Comisión;
-
-e) Los titulares de los Archivos Históricos de los órganos constitucionales autónomos locales;
-
-f) Tres representantes de los Archivos de Concentración de los Entes Públicos;
-
-g) Los titulares de cada uno de los Archivos Históricos de los Municipios del Estado; y
-
-h) Un representante de los archivos privados existentes en el Estado.
-
-###### Artículo 32.
-
-La calidad de miembro del Comité Técnico no confiere derecho a contraprestación económica alguna, por ser un cargo honorífico.
-
-Las atribuciones de los integrantes del Comité Técnico y todo lo relativo al funcionamiento del mismo se establecerán en el Reglamento Interno del mismo.
-
-## Título Quinto. De las Responsabilidades y Sanciones
-
-### Capítulo Único
-
-###### Artículo 33.
-
-Incurrirán en responsabilidades administrativas y penales los servidores públicos que cometan, por sí o por interpósita persona, las siguientes conductas: sustraer, destruir, ocultar, utilizar o comercializar ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso, o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
-
-###### Artículo 34.
-
-Serán causa de responsabilidad administrativa de los servidores públicos las siguientes:
-
-I. Hacer ilegible, sustraer, destruir, ocultar, inutilizar, divulgar, alterar, manchar, raspar o mutilar total o parcialmente y de manera indebida, cualquier tipo de documentación de archivo y de carácter histórico que se encuentre bajo su custodia, o tenga acceso o conocimiento con motivo de su empleo, cargo o comisión;
-
-II. Omitir entregar algún archivo o documento al separarse de su empleo, cargo o comisión; y,
-
-III. Omitir el cumplimiento de los reglamentos, lineamientos, acuerdos, normas y demás normatividad aplicable a la administración de los archivos, expedientes, documentos e información a que se refiere la presente Ley.
-
-###### Artículo 35.
-
-Los servidores públicos que contravengan esta ley y sus disposiciones reglamentarias se harán acreedores, según la gravedad de la falta, a las sanciones establecidas en la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, de acuerdo con el procedimiento regulado por la misma ley, con independencia de las responsabilidades del orden civil o penal que en el caso también procedan.
-
-###### Artículo 36.
-
-Cuando los archivos o documentos con valor histórico, en poder de los particulares se encuentren en peligro de destrucción, desaparición, deterioro o pérdida, podrán ser objeto de expropiación por causa de utilidad pública, atendiéndose a la legislación aplicable en la materia.
+COLOCACION DE POSTES O INSTALACIONES: LOS POSTES O INSTALACIONES, SE COLOCARAN DENTRO DE LA ACERA A UNA DISTANCIA MINIMA DE 40 CENTIMETROS DEL BORDE DE LA GUARNICION AL PUNTO MAS PROXIMO DEL POSTE O INSTALACION. EN LAS VIAS PUBLICAS EN QUE NO HAYA BANQUETA LOS INTERESADOS SOLICITARAN A LA DIRECCION, EL TRAZO DE LA GUARNICION Y ANCHURA DE LA BANQUETA. EN CASO DE BANQUETAS Y CALLEJONES EXTREMADAMENTE ESTRECHOS, LA DIRECCION SEÑALARA ESPECIFICAMENTE, LA UBICACION DE POSTES O INSTALACIONES.
 
 ###### ARTICULO 37°.
 
@@ -405,9 +361,9 @@ LAS MENSULAS, ALCAYATAS O CUALQUIER APOYO SEMEJANTE, DE LAS QUE SE USAN PARA EL 
 
 CAMBIO DE INSTALACIONES A SOLICITUD DE PARTICULARES: CUANDO EL PROPIETARIO DE UN PREDIO PIDA LA REMOCION DE UN POSTE O INSTALACION DEL AYUNTAMIENTO QUE SE ENCUENTRE FRENTE A SU PROPIEDAD, Y SEA TECNICAMENTE POSIBLE, SE HARA CON CARGO AL SOLICITANTE. LA NUEVA UBICACION DE LA INSTALACION DEBERA SER AUTORIZADA POR LA DIRECCION.
 
-## Título Cuarto. Del Sistema Estatal de Archivos
+## TITULO CUARTO
 
-### Capítulo Único
+### CAPITULO PRIMERO. OBLIGACIONES
 
 ###### ARTICULO 39°.
 
@@ -435,15 +391,31 @@ VII.- LAS DEMAS QUE LES IMPONGA ESTE REGLAMENTO Y DEMAS DISPOSICIONES DE LA MATE
 
 CON RESPECTO A SEGURIDAD.- QUEDA PROHIBIDA LA OCUPACION TEMPORAL DE LA VIA PUBLICA, CUANDO POR SU UBICACION Y CARACTERISTICAS PUEDAN PONER EN PELIGRO LA SALUD, LA VIDA O LA INTEGRIDAD FISICA DE LAS PERSONAS O DE LAS COSAS; OCASIONEN MOLESTIAS A LOS VECINOS DEL LUGAR, AFECTEN LA NORMAL PRESTACION DE LOS SERVICIOS PUBLICOS, OCASIONEN DETRIMENTO A LA LIMPIEZA E HIGIENE O CAUSEN MALA IMAGEN.
 
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1999)</small>
+
 ###### ARTICULO 41°.
 
-CON RESPECTO A OTRAS INSTALACIONES.- QUEDA PROHIBIDA LA INSTALACION DE ANUNCIOS O CUALQUIER OTRO TIPO DE PROPAGANDA EN MONUMENTOS ARQUITECTONICOS Y DEL PATRIMONIO CULTURAL, EN SEÑALAMIENTOS DE TRANSITO Y DE NOMENCLATURA, EN POSTES O INSTALACIONES DE SERVICIO PUBLICO, Y EQUIPAMIENTO URBANO.
+CON RESPECTO A OTRAS INSTALACIONES.- QUEDA PROHIBIDA LA INSTALACION DE ANUNCIOS O CUALQUIER OTRO TIPO DE PROPAGANDA EN MONUMENTOS ARQUITECTONICOS Y DEL PATRIMONIO CULTURAL. ASIMISMO EN SEÑALAMIENTOS DE NOMENCLATURA, EN POSTES O INSTALACIONES DE SERVICIO PUBLICO Y EQUIPAMIENTO URBANO, SALVO EN AQUELLOS CASOS QUE SE SUJETEN A LOS SIGUIENTES REQUISITOS Y SEA PREVIAMENTE AUTORIZADO POR LA DIRECCION:
+
+A) QUE LA INSTALACION REPRESENTE PREPONDERANTEMENTE UN BENEFICIO PUBLICO, REFLEJADO EN UN NUEVO SERVICIO O EN EL MEJORAMIENTO EN LA PRESTACION DE SERVICIOS PUBLICOS;
+
+B) QUE LAS DIMENSIONES Y CARACTERISTICAS DEL ANUNCIO O PROPAGANDA NO AFECTEN LA UTILIDAD O FINALIDAD DE ESTOS SERVICIOS PUBLICOS, NI SU BUEN ASPECTO;
+
+C) QUE LA PROPAGANDA O ANUNCIO NO DAÑE LAS ESTRUCTURAS DE LOS SEÑALAMIENTOS, POSTES, INSTALACIONES DE SERVICIO PUBLICO O EQUIPAMIENTO URBANO;
+
+D) QUE NO SE TRATE DE PROPAGANDA POLITICA; Y
+
+E) LAS DEMAS DISPOSICIONES QUE PARA CADA CASO DETERMINE LA DIRECCION Y EL PRESENTE REGLAMENTO.
+
+> <small>(REFORMADO, P.O. 24 DE SEPTIEMBRE DE 1999)</small>
 
 ###### ARTICULO 42°.
 
-CON RESPECTO A LOS SEÑALAMIENTOS VIALES.- QUEDA PROHIBIDO LA OCUPACION TEMPORAL DE LA VIA PUBLICA A UNA DISTANCIA MENOR DE TRES METROS DE LOS SEÑALAMIENTOS DE NOMENCLATURA Y TRANSITO.
+CON RESPECTO A LOS SEÑALAMIENTOS VIALES.- QUEDA PROHIBIDO LA OCUPACION TEMPORAL DE LA VIA PUBLICA A UNA DISTANCIA MENOR DE TRES METROS DE LOS SEÑALAMIENTOS DE TRANSITO.
 
-ASI COMO LA COLOCACION DE PROPAGANDA COMERCIAL EN LOS SEÑALAMIENTOS DE TRANSITO.
+TAMBIEN SE PROHIBE LA COLOCACION DE ANUNCIOS O CUALQUIER TIPO DE PROPAGANDA SOBRE LOS SEÑALAMIENTOS DE TRANSITO, ASI COMO EN LOS POSTES, PERFILES, TUBOS Y DEMAS ESTRUCTURAS DONDE SE COLOQUEN DICHOS SEÑALAMIENTOS.
+
+SE EXCEPTUAN DE LAS PROHIBICIONES ANTERIORES, LOS SEÑALAMIENTOS DE TRANSITO DE TIPO INFORMATIVOS, SIEMPRE Y CUANDO SE AJUSTEN A LO DISPUESTO POR EL ARTICULO 41 DE ESTE REGLAMENTO.
 
 ###### ARTICULO 43°.
 
@@ -619,30 +591,34 @@ C. PROF. CANDIDO ZATARAIN SALMERON
 
 SECRETARIO DEL AYUNTAMIENTO.-
 
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 24 DE SEPTIEMBRE DE 1999.
+
+SEGUNDO.- EL PRESENTE ACUERDO ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN, EN EL PERIÓDICO OFICIAL, ÓRGANO DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
+
+P.O. 10 DE NOVIEMBRE DE 2000.
+
 ###### ARTÍCULO PRIMERO.
 
-Se expide la
-
-Ley de Archivos del Estado de Campeche
+Se Abrogan: el Reglamento para el ejercicio del Comercio Ambulante, Oficios y Servicios al Público en Bienes y Vías Públicas del Municipio de Mexicali, Baja California, publicado en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, el día veinte de Noviembre de mil novecientos ochenta y nueve; el Reglamento para el Ejercicio del Oficio de Fotógrafo en el Municipio de Mexicali, Baja California, publicado en el mismo órgano de difusión oficial mencionado, el día 20 de noviembre de mil novecientos ochenta y nueve; y el Reglamento de Aseadores de Calzado para el Municipio de Mexicali, Baja California, publicado en el mismo Periódico Oficial el día 20 de febrero de mil novecientos sesenta y siete.
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el decreto número 329, de la LV Legislatura del Congreso del Estado, por el que se expidió la Ley del Archivo General del Estado de Campeche, publicado en el Periódico Oficial del Estado el 13 de agosto de 1997.
+Se derogan las disposiciones contenidas en el Reglamento de Imagen Urbana para el Municipio de Mexicali, publicado el 12 de agosto de 1994 en el Periódico Oficial, órgano del Gobierno del Estado de Baja California, relativas a la ocupación de la vía publica para el ejercicio de actividades comerciales y prestación de servicios, en lo que se contrapongan a las disposiciones del presente Reglamento.
 
-## TRANSITORIOS
+###### ARTÍCULO TERCERO.
 
-Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+Se derogan las disposiciones reglamentarias municipales que se opongan al objeto y fines del presente Reglamento.
 
-Segundo.- Se derogan todas las demás disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido de este decreto.
+###### ARTÍCULO CUARTO.
 
-Tercero.- Queda facultado el Gobernador del Estado para expedir el Reglamento Interior del Archivo General del Estado.
+Los permisos para el ejercicio del comercio o la prestación de servicios en la vía o bienes públicos, que hubieren sido expedidos con anterioridad a la entrada en vigor del presente Reglamento, continuarán vigentes por el término que en los mismos se indique.
 
-Cuarto. El Comité Técnico del Sistema Estatal de Archivos se instalará en la fecha y lugar que el Gobernador en su oportunidad determine y expedirá su Reglamento Interno dentro de los sesenta días hábiles siguientes a la fecha de su instalación.
+En los mercados sobre ruedas que a la fecha de entrada en vigor del presente Reglamento, funcionen con más de cien permisionarios, no se reducirá el número de éstos, pero tampoco se otorgarán nuevos permisos.
 
-Dado en el Salón de Sesiones del Palacio Legislativo, en la ciudad de San Francisco de Campeche, Campeche, a los veinte días del mes de abril del año dos mil diez.- C. Netzahualcóyotl González Hernández, Diputado Presidente.- C. Landy Margarita Berzunza Novelo, Diputada Secretaria.- C. Patricia Verónica Acosta Canul, Diputada Secretaria.- Rúbricas.
+En las zonas restringidas a que se refiere el artículo 40 fracción I incisos a y b, del presente Reglamento, la autoridad municipal no expedirá nuevos permisos, por lo que en su caso, sólo revalidará los que se hubieren expedido con anterioridad a la entrada en vigor del presente Reglamento, que cumplan con las condiciones que en el mismo se determinan.
 
-En cumplimiento de lo dispuesto por los artículos 48, 49 y 71 fracción XVIII de la Constitución Política del Estado, lo sanciono, mando se imprima, publique y circule para su debida observancia.
+###### ARTÍCULO QUINTO.
 
-Dado en el palacio de Gobierno del Estado, en San Francisco de Campeche, Campeche, a los veintiún días del mes de abril del año dos mil diez.
-
-EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO EUTIMIO ORTEGA BERNES.- EL SECRETARIO DE GOBIERNO, LIC. WILLlAM ROBERTO SARMIENTO URBINA.- Rúbricas.
+El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Baja California.
