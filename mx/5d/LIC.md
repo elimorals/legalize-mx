@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "2002-06-24"
+last_updated: "2002-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -3105,3 +3105,13 @@ Se derogan todas las disposiciones que se opongan a las leyes que se reforman, a
 Los procedimientos que hubieren iniciado con anterioridad a la entrada en vigor del presente Decreto, conforme a las leyes que se reforman, adicionan y derogan continuarán rigiéndose por las disposiciones vigentes en la fecha de publicación de este Decreto.
 
 ...
+
+D.O.F. 24 DE DICIEMBRE DE 2002.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+...
+
+SEXTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
