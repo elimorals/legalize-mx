@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "1995-03-08"
+last_updated: "1995-03-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1995.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -293,13 +293,17 @@ El Congreso sesionará con la asistencia de la mitad más uno del total de sus c
 
 A la apertura y clausura de los períodos ordinarios de sesiones, se invitarán a los ciudadanos: Gobernador del Estado y Presidente del H. Tribunal Superior de Justicia del Estado, así como a los servidores públicos Federales, Estatales y Municipales.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1995)</small>
+
 ###### ARTICULO 38.
 
-Durante el Primer Período de Sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado.
+Durante el Primer Período de Sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar Leyes y Decretos para la mejor administración del Estado, así como de revisar y calificar la cuenta pública el año anterior.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MARZO DE 1995)</small>
 
 ###### ARTICULO 39.
 
-Durante el segundo período de sesiones, el Congreso se ocupará preferentemente de examinar y calificar la Cuenta Pública del erario estatal y municipal del año anterior. Asimismo, estudiar, discutir, votar y expedir las Leyes de Ingresos de los Municipios y del Estado y el Presupuesto General de Egresos, que será presentado por el Ejecutivo del Estado.
+Durante el Segundo Período el Congreso se ocupará preferentemente de estudiar, discutir y votar las leyes de ingresos de los municipios y del Estado y el Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
 El Congreso al examinar y calificar la Cuenta Pública del año anterior, declarará si las cantidades percibidas y gastadas están de acuerdo con las partidas presupuestales respectivas, si los gastos están comprobados o ha lugar a exigir responsabilidades o en su caso, dejar en suspenso su dictamen, hasta que existan elementos suficientes para que pueda emitirse la declaración correspondiente.
 
@@ -932,3 +936,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 8 DE MARZO DE 1995.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO SEXTO DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE TABASCO.
+
+P.O. 25 DE MARZO DE 1995.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
