@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1951-02-19"
+last_updated: "1951-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "CPEUM"
 ---
 # CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE FEBRERO DE 1951.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL EL 14 DE MARZO DE 1951.</small>
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -806,8 +806,6 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
@@ -864,11 +862,13 @@ Cada Municipalidad de los Territorios estará a cargo de un Ayuntamiento de elec
 
 3a.- Los Gobernadores de los Territorios acordarán con el Presidente de la República, por el conducto que determine la ley.
 
-> <small>(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951)</small>
+(REFORMADA, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
-4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos, por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
+4ª.- Los nombramientos de los Magistrados del Tribunal Superior de Justicia del Distrito Federal y de los Territorios, serán hechos, por el Presidente de la República y sometidos a la aprobación de la Cámara de Diputados, la que otorgará o negará esa aprobación dentro del improrrogable término de diez días. Si la Cámara no resolviera dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Cámara no podrán tomar posesión los Magistrados nombrados por el Presidente de la República. En el caso de que la Cámara de Diputados no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Presidente de la República hará un tercer nombramiento y que surtirá sus efectos desde luego, como provisional y que será sometido a la aprobación de la Cámara, en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Cámara deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Cámara desecha el nombramiento, cesará desde luego en sus funciones el Magistrado provisional y el Presidente de la República someterá nuevo nombramiento a la aprobación de la Cámara, en los términos señalados.
 
-En los casos de faltas temporales por más de tres meses de los Magistrados, serán éstos sustituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados y en sus recesos, a la de la Comisión Permanente, observándose en su caso, lo dispuesto en las cláusulas anteriores.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+En los casos de faltas temporales por más de tres meses de los Magistrados, serán éstos sustituídos mediante nombramiento que el Presidente de la República someterá a la aprobación de la Cámara de Diputados, y en sus recesos, a la de la Comisión Permanente, observándose en su caso, lo dispuesto en las cláusulas anteriores.
 
 En los casos de faltas temporales que no excedan de tres meses, la Ley Orgánica determinará la manera de hacer la substitución. Si faltare un Magistrado por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación de la Cámara de Diputados. Si la Cámara no estuviere en sesiones, la Comisión Permanente dará su aprobación provisional, mientras se reúne aquélla y da la aprobación definitiva.
 
@@ -1248,15 +1248,15 @@ Los secretarios del Despacho, luego que esté abierto el período de sesiones or
 
 DEL PODER JUDICIAL.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
 ###### Art. 94.
 
-Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y unitarios en materia de apelación y en juzgados de Distrito. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o en Salas. Habrá además, cinco Ministros Supernumerarios. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Los períodos de sesiones de la Suprema Corte, funcionamiento del Pleno y de las Salas, las atribuciones de los Ministros supernumerarios y el número y competencia de los Tribunales de Circuito y de los Jueces de Distrito se regirán por esta Constitución y lo que dispongan las leyes. En ningún caso los Ministros supernumerarios integrarán el Pleno. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo.
+Se deposita el ejercicio del Poder Judicial de la Federación en una Suprema Corte de Justicia, en Tribunales de Circuito, Colegiados en materia de amparo y unitarios en materia de apelación, y en juzgados de Distrito. La Suprema Corte de Justicia de la Nación se compondrá de veintiún Ministros y funcionará en Tribunal Pleno o en Salas. Habrá, además, cinco Ministros Supernumerarios. Las audiencias del Tribunal Pleno o de las Salas serán públicas, excepción hecha de los casos en que la moral o el interés público exijan que sean secretas. Los períodos de sesiones de la Suprema Corte, funcionamiento del Pleno y de las Salas, las atribuciones de los Ministros supernumerarios y el número y competencia de los Tribunales de Circuito y de los Jueces de Distrito se regirán por esta Constitución y lo que dispongan las leyes. En ningún caso los Ministros supernumerarios integrarán el Pleno. La remuneración que perciban por sus servicios los Ministros de la Suprema Corte, los Magistrados de Circuito y los jueces de Distrito, no podrá ser disminuída durante su encargo.
 
-Los Ministros de la Suprema Corte de Justicia podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, previo el juicio de responsabilidad correspondiente.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+Los Ministros de la Suprema Corte de Justicia podrán ser privados de sus puestos cuando observen mala conducta, de acuerdo con la parte final del artículo 111, o previo el juicio de responsabilidad correspondiente.
 
 ###### Art. 95.
 
@@ -1318,13 +1318,11 @@ Presidente: “Si no lo hiciereis así, la Nación os lo demande”.
 
 Los Magistrados de Circuito y los Jueces de Distrito protestarán ante la Suprema Corte y ante la autoridad que determina la Ley.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
-> <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
+(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951) (F. DE E., D.O.F. 14 DE MARZO DE 1951)
 
 ###### Art. 98.
 
-La falta temporal de un Ministro de la Suprema Corte de Justicia de la Nación que no exceda de un mes, será suplida en la Sala correspondiente por uno de los supernumerarios. Si la falta excediere de ese término, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o, en su receso, a la de la Comisión Permanente, y se observará en su caso, lo dispuesto en la parte final del artículo 96.
+La falta temporal de un Ministro de la Suprema Corte de Justicia de la Nación que no exceda de un mes, será suplida en la Sala correspondiente por uno de los supernumerarios. Si la falta excediere de ese término, el Presidente de la República someterá el nombramiento de un Ministro provisional a la aprobación del Senado, o, en su receso, a la de la Comisión Permanente, y se observará, en su caso, lo dispuesto en la parte final del artículo 96.
 
 Si faltare un Ministro por defunción, renuncia o incapacidad, el Presidente de la República someterá un nuevo nombramiento a la aprobación del Senado. Si el Senado no estuviere en funciones, la Comisión Permanente dará su aprobación, mientras se reúne aquél y da la aprobación definitiva.
 
@@ -1396,8 +1394,6 @@ Corresponde sólo a la Suprema Corte de Justicia de la Nación, conocer de las c
 
 Corresponde también a la Suprema Corte de Justicia dirimir las competencias que se susciten entre los tribunales de la Federación, entre éstos y los de los Estados, o entre los de un Estado y los de otro.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE FEBRERO DE 1951)</small>
 
 ###### Art. 107.
@@ -1420,7 +1416,9 @@ b).- Contra actos en juicio, cuya ejecución sea de imposible reparación, fuera
 
 c).- Contra actos que afecten a personas extrañas al juicio.
 
-IV.- En materia administrativa, el amparo procede contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstos cuando la ley que los establezca exija para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+IV.- En materia administrativa, el amparo procede contra resoluciones que causen agravio no reparable mediante algún recurso, juicio o medio de defensa legal. No será necesario agotar éstas cuando la ley que los establezca exija para otorgar la suspensión del acto reclamado, mayores requisitos que los que la Ley Reglamentaria del Juicio de Amparo requiera como condición para decretar esa suspensión.
 
 V.- Salvo lo dispuesto en la fracción siguiente, el amparo contra sentencias definitivas o laudos, por violaciones cometidas en ellos, se interpondrá directamente ante la Suprema Corte de Justicia, la cual pronunciará sentencia sin más trámite que el escrito en que se intente el juicio, la copia certificada de las constancias que el agraviado señale, la que se adicionará con las que indicare el tercer perjudicado, el escrito de éste, el que produzca, en su caso, el Procurador General de la República o el Agente que al efecto designare y el de la autoridad responsable.
 
@@ -1430,7 +1428,9 @@ Siempre que el (sic) interponerse amparo contra sentencias definitivas en materi
 
 Para la interposición y tramitación del amparo ante los Tribunales Colegiados de Circuito, se observará lo dispuesto en la fracción precedente. Cumplido ese trámite, se pronunciará sentencia conforme al procedimiento que disponga la ley.
 
-VII.- El amparo contra actos en juicio, fuera de juicio o después de concluído o que afecten a personas extrañas al juicio, contra leyes y contra actos de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos pronunciándose en la misma audiencia la sentencia.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+VII.- El amparo contra actos en juicio, fuera de juicio o después de concluído o que afecten a personas extrañas al juicio, contra leyes y contra actos de autoridad administrativa, se interpondrá ante el Juez de Distrito bajo cuya jurisdicción se encuentre el lugar en que el acto reclamado se ejecute o trate de ejecutarse, y su tramitación se limitará al informe de la autoridad, a una audiencia para la que se citará en el mismo auto en el que se mande pedir el informe y se recibirán las pruebas que las partes interesadas ofrezcan y oirán los alegatos, pronunciándose en la misma audiencia la sentencia.
 
 VIII.- Contra las sentencias que pronuncien en amparo los jueces de Distrito, procede revisión. De ella conocerá la Suprema Corte de Justicia en los siguientes casos:
 
@@ -1438,15 +1438,21 @@ a).- Cuando se impugne una ley por su inconstitucionalidad o se trate de los cas
 
 b).- Cuando la autoridad responsable en amparo administrativo sea federal.
 
-c).- Cuando se reclamen, en materia penal, solamente la violación del artículo 22 de esta Constitución.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
-En los demás casos conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
+c).- Cuando se reclame, en materia penal, solamente la violación del artículo 22 de esta Constitución.
+
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+En los demás casos, conocerán de la revisión los Tribunales Colegiados de Circuito y sus sentencias no admitirán recurso alguno.
 
 IX.- Las resoluciones que en materia de amparo directo pronuncien los Tribunales Colegiados de Circuito, no admiten recurso alguno, a menos que decidan sobre la inconstitucionalidad de una ley o establezca la interpretación directa de un precepto de la Constitución, caso en que serán recurribles ante la Suprema Corte de Justicia, limitándose la materia del recurso exclusivamente a la decisión de las cuestiones propiamente constitucionales.
 
 La resolución del Tribunal Colegiado de Circuito no será recurrible, cuando se funde en la jurisprudencia que haya establecido la Suprema Corte de Justicia sobre la constitucionalidad de una ley o la interpretación directa de un precepto de la Constitución.
 
-X.- Los actos reclamados podrán ser objeto de suspensión en los casos y mediante las condiciones y garantías que determine la ley, para lo cual, se tomarán en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+X.- Los actos reclamados podrán ser objeto de suspensión, en los casos y mediante las condiciones y garantías que determine la ley, para lo cual, se tomarán en cuenta la naturaleza de la violación alegada, la dificultad de reparación de los daños y perjuicios que pueda sufrir el agraviado con su ejecución, los que la suspensión origine a terceros perjudicados y el interés público.
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal, al comunicarse la interposición del amparo, y en materia civil, mediante fianza que dé el quejoso, para responder de los daños y perjuicios que tal suspensión ocasionare, la cual quedará sin efecto, si la otra parte da contrafianza para asegurar la reposición de las cosas al estado que guardaban, si se concediese el amparo, y a pagar los daños y perjuicios consiguientes.
 
@@ -1454,13 +1460,19 @@ XI.- La suspensión se pedirá ante la autoridad responsable, cuando se trate de
 
 XII.- La violación de las garantías de los artículos 16, en materia penal, 19 y 20 se reclamará ante el superior del Tribunal que la cometa, o ante el Juez de Distrito que corresponda, pudiéndose recurrir, en uno y otro caso, las resoluciones que se pronuncien, en los términos prescritos por la fracción VIII.
 
-Si el Juez de Distrito no residiere en el mismo lugar que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
-XIII.- La ley determinará los términos y casos en que sea obligatoria la jurisdicción de los Tribunales del Poder Judicial de la Federación, así como los requisitos para su modificación.
+Si el Juez de Distrito no residiere en el mismo lugar en que reside la autoridad responsable, la ley determinará el juez ante el que se ha de presentar el escrito de amparo, el que podrá suspender provisionalmente el acto reclamado, en los casos y términos que la misma ley establezca.
+
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+XIII.- La ley determinará los términos y casos en que sea obligatoria la jurisprudencia de los Tribunales del Poder Judicial de la Federación, así como los requisitos para su modificación.
 
 Si los Tribunales Colegiados de Circuito sustentan tesis contradictorias en los juicios de amparo materia de su competencia, los Ministros de la Suprema Corte de Justicia, el Procurador General de la República o aquellos Tribunales, podrán denunciar la contradicción ante la Sala que corresponda, a fin de que decida cuál es la tesis que debe prevalecer.
 
-Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia cualquiera de esas Salas o el Procurador General de la República, podrán denunciar la contradicción ante la misma Suprema Corte de Justicia, quien decidirá, funcionando en Pleno, qué tesis debe observarse. Tanto en este caso como en el previsto en el párrafo anterior, la resolución que se dicte será solo para el efecto de la fijación de la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en el juicio en que fuerons (sic) pronunciadas.
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
+Cuando las Salas de la Suprema Corte de Justicia sustenten tesis contradictorias en los juicios de amparo materia de su competencia cualquiera de esas Salas o el Procurador General de la República, podrán denunciar la contradicción ante la misma Suprema Corte de Justicia, quien decidirá, funcionando en Pleno, qué tesis debe observarse. Tanto en este caso como en el previsto en el párrafo anterior, la resolución que se dicte será solo para el efecto de la fijación de la jurisprudencia y no afectará las situaciones jurídicas concretas derivadas de las sentencias contradictorias en el juicio en que fueron pronunciadas.
 
 XIV.- Cuando el acto reclamado proceda de autoridades civiles o administrativas y siempre que no esté reclamada la constitucionalidad de una ley, se sobreserá (sic) por inactividad de la parte agraviada en los casos y términos que señale la ley reglamentaria de este artículo.
 
@@ -2262,13 +2274,13 @@ D.O.F. 10 DE FEBRERO DE 1949.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 1951 EN EL DIARIO OFICIAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 D.O.F. 19 DE FEBRERO DE 1951.
+
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
 
 ###### ARTICULO PRIMERO.
 
-Las reformas a los artículos 94, 97 párrafo primero, 98 y 107, entrarán en vigor a los noventa días siguientes al de su publicación en el "Diario Oficial" de la Federación. Sin embargo, dentro de esos noventa días, deberá procederse al nombramiento de los Ministros Supernumerarios, de los nuevos Magistrados de los Tribunales Colegiados de Circuito y de todos los Magistrados de los Tribunales Unitarios de Circuito y de los Jueces de Distrito, con arreglo a las disposiciones que establece la Constitución y estas reformas.
+Las reformas a los artículos 94, 97, párrafo primero, 98 y 107, entrarán en vigor a los noventa días siguientes al de su publicación en el "Diario Oficial" de la Federación. Sin embargo, dentro de esos noventa días, deberá procederse al nombramiento de los Ministros Supernumerarios, de los nuevos Magistrados de los Tribunales Colegiados de Circuito y de todos los Magistrados de los Tribunales Unitarios de Circuito y de los Jueces de Distrito, con arreglo a las disposiciones que establece la Constitución y estas reformas.
 
 ###### ARTICULO SEGUNDO.
 
@@ -2278,9 +2290,11 @@ Cuando estas designaciones recaigan en Magistrados o Jueces del Poder Judicial d
 
 Los magistrados de Circuito y los Jueces de Distrito, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
 
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
 ###### ARTICULO CUARTO.
 
-Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberá integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
+Los Ministros Supernumerarios a que se refiere el artículo 94, constituídos temporalmente en la Sala Auxiliar resolverán, en el plazo que les fije el Pleno de la Suprema Corte de Justicia, el acervo de amparos civiles directos, cualesquiera que sean las violaciones alegadas, excepción hecha de los promovidos dentro de los tres meses anteriores a la fecha en que entren en vigor las presentes reformas o de los en que ya exista proyecto de resolución del Ministro relator correspondiente. Entretanto, aquellos Ministros no desempeñarán las funciones que como Supernumerarios les atribuyen estas reformas y las que les encomienden la Ley de Amparo o la Ley Orgánica del Poder Judicial de la Federación, y, no obstante lo dispuesto en el artículo 94 deberán integrar el Pleno en el caso del párrafo final de la fracción XIII del artículo 107 sólo cuando la contradicción haya surgido entre tesis sustentadas por la Sala Auxiliar y por alguna de las otras cuatro.
 
 Los amparos en revisión, penales, civiles, administrativos o del trabajo, que actualmente radican en la Suprema Corte de Justicia y que conforme a estas reformas sean de la competencia de los Tribunales Colegiados de Circuito, pasarán al conocimiento del Tribunal Colegiado de Circuito que corresponda.
 
@@ -2296,9 +2310,11 @@ Queda facultada la Suprema Corte de Justicia de la Nación, para dictar todas la
 
 La reforma al artículo 73, fracción VI, Base Cuarta, párrafo último, entrará en vigor el día siguiente al de su publicación en el "Diario Oficial" de la Federación.
 
+> <small>(F. DE E., D.O.F. 14 DE MARZO DE 1951)</small>
+
 ###### ARTICULO OCTAVO.
 
-Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en el ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
+Los Magistrados del Tribunal Superior de Justicia del Distrito y Territorios Federales y los jueces del fuero común del mismo Distrito y Territorios Federales, actualmente en ejercicio, cesarán en su encargo, salvo que sean reelectos, el mismo día en que tomen posesión de sus puestos, los funcionarios judiciales designados de acuerdo con las disposiciones de la Constitución.
 
 ###### ARTICULO NOVENO.
 
