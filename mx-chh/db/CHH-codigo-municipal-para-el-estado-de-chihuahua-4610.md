@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2003-04-16"
+last_updated: "2003-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 2003.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -209,7 +209,9 @@ XXVIII.- GUACHOCHI, con cabecera en el pueblo del mismo nombre y las secciones m
 
 XXIX.- GUAZAPARES, con cabecera en el pueblo de Temoris y las secciones municipales de Guazapares, Monterde y Tepochique;
 
-XXX.- GUERRERO; con cabecera en la ciudad denominada Vicente Guerrero y las secciones municipales de Arisiachi, Basuchil, Guadalupe, Jesús Lugo, Estación Lic. Adolfo López Mateos, Miñaca, Orozco, Pachera, Pahuirachi, Pedernales, Calera, Pichachi, Rancho Colorado, Rancho de Santiago, San José de Baquiachi, Santo Tomás, San Pablo de la Sierra, Temechi, Tomochi y Estación Terrero;
+> <small>(REFORMADA, P.O. 11 DE JUNIO DE 2003)</small>
+
+XXX.- GUERRERO, con cabecera en la ciudad denominada Vicente Guerrero y las Secciones Municipales de Arisiachi, Basuchil, Guadalupe, Jesús Lugo, La Junta, Miñaca, Orozco, Pachera, Pahuirachi, Pedernales, Calera, Pichachi, Rancho Colorado, Rancho de Santiago, San José de Baquiachi, Santo Tomás, San Pablo de la Sierra, Temechi, Tomochi y Estación Terrero;
 
 XXXI.- HIDALGO DEL PARRAL; con cabecera en la ciudad del mismo nombre y las (sic) sección municipal de Villa Escobedo;
 
@@ -3316,6 +3318,12 @@ P.O. 5 DE ABRIL DE 2003.
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 16 DE ABRIL DE 2003.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE JUNIO DE 2003.
 
 ###### ARTICULO UNICO.
 
