@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1977-05-31"
+last_updated: "1978-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1978.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -109,25 +109,27 @@ III.- Los fideicomitentes, mientras sean poseedores del predio objeto del fideic
 
 IV.- Tratándose de predios ejidales, quien posea provisional o definitivamente el predio o en su caso, al núcleo de ejidatarios.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 7.
 
 La base del Impuesto es la siguiente:
 
-I.- El valor catastral de los predios, tratándose de urbanos o rústicos.
+I.- Tratándose de predios urbanos o rústicos, el mayor de los siguientes:
 
-En aquellos casos en que los predios no tengan valor catastral, servirá de base el valor de la operación de transmisión de dominio que se registre, o el valor de capitalización, si alguno de éstos fuere mayor que aquél.
+a).- El valor catastral;
 
-II.- El valor a precio de venta de la producción agrícola, avícola o ganadera, natural o de cultivo, que se obtenga durante el año, de los predios ejidales ya sea que se exploten individual o colectivamente.
+b).- El valor de la operación de transmisión de dominio o posesión, si es posterior al señalamiento del valor catastral;
 
-En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado fijará el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este impuesto.
+c).- En ausencia del valor catastral, el valor del avalúo que al efecto ordene la Secretaría de Finanzas.
 
-Cuando los predios objeto de posesión ejidal se dediquen a actividades distintas a la explotación agropecuaria será aplicable a lo señalado en la Fracción l de este Artículo.
+II.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean co-propietarios del terreno en que se encuentre construído el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Dirección de Catastro determinará el Valor Catastral que le corresponderá a cada uno y éste entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado previamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos la base se aplicará a cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado.
 
-> <small>(F. DE E., P.O. 20 DE MARZO DE 1977)</small>
+III.- El valor a precio de venta de la producción agropecuaria, que se obtenga durante el año, de los predios ejidales ya sea que se exploten individual o colectivamente.
 
-III.- Cuando el predio se encuentre edificado con diversos departamentos propiedad de distintas personas, que a la vez sean copropietarios del terreno en que se encuentre construido el edificio, así como de sus escaleras, pasillos, jardines, muros medianeros, pisos y demás servicios e instalaciones, la Secretaría de Finanzas, fijará el impuesto de acuerdo con los valores catastrales, y entrará en vigor a partir del bimestre siguiente a la fecha en que se haya autorizado preventivamente la escritura de constitución del condominio. Si éste se constituye sin estar terminadas las construcciones, el Impuesto se continuará causando sobre el valor total del terreno y será a cargo de las personas que lo constituyeron. En estos casos, la base se aplicará cada uno de los departamentos, despachos o locales comerciales a partir del bimestre siguiente a la fecha de la terminación de los mismos o a la fecha en que sean ocupados sin estar terminados; y cada predio, departamento, despacho o local se empadronará por separado, girándose a cada cual el recibo de pago correspondiente.
+En aquellos casos que se desconozca el precio de venta, el Ejecutivo del Estado podrá fijar el precio oficial de los diferentes productos en atención a sus calidades, el que servirá de base para los efectos de este Impuesto.
+
+Cuando los predios objeto de posesión ejidal se dediquen a actividades distintas a la explotación agropecuaria será aplicable lo señalado en la Fracción I de este Artículo.
 
 > <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
@@ -141,11 +143,11 @@ a).- A los predios destinados para su venta o que vendan los fraccionamientos de
 
 b).- Ni a los predios no edificados que formen parte de una unidad comercial o industrial.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 9.
 
-La cuota del impuesto que se fije con base en los reavalúos y modificaciones entrará en vigor a partir del bimestre siguiente a la fecha en que se haya notificado. Tratándose de predios en proceso de traslación de dominio los reavalúos y modificaciones entrarán en vigor a partir del bimestre siguiente a la fecha de la escritura o contratos a que hace mención el artículo 5o., inciso IV fracciones d) e) y f) de esta ley.
+La cuota del Impuesto que resulte con base en los avalúos y modificaciones entrará en vigor a partir del bimestre a la fecha en que éstos se hayan notificado. En los casos mencionados en la Fracción I inciso b) del Artículo 7o., entrará en vigor a partir del bimestre siguiente a la fecha de celebración del contrato respectivo, aunque no se otorgue en escritura pública.
 
 ###### ARTICULO 10.
 
@@ -161,27 +163,27 @@ El Impuesto Predial Ejidal en ningún caso excederá del 5% del total de la prod
 
 Tratándose de posesiones provisionales, los ejidatarios, pagarán, en el primer año, el 25% del Impuesto Predial que les corresponda, y en los años subsecuentes, el Impuesto aumentará en un 10% cada año hasta alcanzar la tasa total, o hasta que se ejecute la resolución presidencial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 13.
 
-El pago del Impuesto se hará en la Recaudación de Rentas que corresponda, en los plazos siguientes:
+El pago del Impuesto se hará en la Recaudación de Rentas que corresponda, mediante declaración que deberá presentar el causante utilizando las formas que al efecto apruebe la Secretaría de Finanzas, en los plazos siguientes:
 
-I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre.
+I.- Por bimestres adelantados durante los primeros veinte días de cada bimestre
 
 II.- Por anualidades adelantadas dentro del primer bimestre de cada año.
 
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
-
 III.- Tratándose de predios sujetos al régimen ejidal o comunal el pago deberá hacerse ajustándose a las normas generales que señalan las disposiciones que en materia de productos agropecuarios contiene esta Ley:
 
-1.- Durante las cosechas o la venta de los productos antes de la salida del producto de su lugar de origen.
+1.- Durante las cosechas o la venta de los productos, antes de la salida del producto de su lugar de origen.
 
 2.- Tratándose de producción ganadera al momento de su sacrificio, del traslado de su dominio o de su transportación fuera del Estado.
 
-3.- Tratándose de producción avícola, efectuar el pago mensual dentro de los días del 1o. al 20 de cada mes, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas del Estado.
+3.- Tratándose de producción avícola, efectuar el pago mensual dentro de los días comprendidos del 1o. al 20 de cada mes, presentando su declaración en las formas autorizadas por la Secretaría de Finanzas del Estado.
 
 IV.- La Ley de Ingresos fijará los casos en que el pago del Impuesto sea anual o bimestral.
 
-El pago anticipado del Impuesto, no impide el cobro de diferencias que debe hacer la Secretaría de Finanzas por cambios en las bases gravables o variación de las cuotas del Impuesto.
+El pago anticipado del Impuesto, no impide el cobro de diferencias que resulten por cambios de las bases gravables o variación de las cuotas del Impuesto.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 1974)</small>
 
@@ -259,13 +261,21 @@ Si por causas no imputables al enajenante, las autoridades fiscales del Estado n
 
 Los Notarios o las autoridades ante quienes se celebren contratos o actos por virtud de los cuales se transmita la propiedad o la posesión de un predio, están obligados a dar aviso a la Oficina de Catastro y a la Recaudación de Rentas del lugar de su ubicación, dentro del término de treinta días siguientes a la fecha de la celebración del acto o contrato respectivo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 24.
 
-Tratándose de construcciones no manifestadas, se hará el recobro del Impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+En el plazo de 15 días, los causantes deberán manifestar a la Oficina de Catastro de la jurisdicción de los predios, la terminación de nuevas construcciones y de ampliaciones o de modificaciones a las construcciones que tenga cada predio, así como el valor de las mismas.
+
+Igualmente, en el mismo plazo, los contratantes deberán manifestar a la Oficina de Catastro de la ubicación de los predios, la celebración de cualquier contrato a cuya virtud se cambie el Poseedor o Propietario.
+
+Tratándose de construcciones o de contratos no manifestados, se hará el recobro del Impuesto por los cinco años anteriores a la fecha del descubrimiento de la ocultación, salvo que el interesado pruebe que la omisión data de fecha posterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 25.
 
-Para los efectos del Impuesto Predial, el causante está obligado a señalar domicilio y en caso de no hacerlo, se tendrá como tal para todos efectos legales, el predio que lo cause.
+Para los efectos del Impuesto Predial, el causante está obligado a manifestar su domicilio ante la Oficina Recaudadora de Rentas de la ubicación del predio, dentro de los 15 días siguientes a la fecha en que adquiera el carácter de causante. En caso de no cumplir con esta obligación se tendrá como su domicilio, para todos los efectos legales el lugar donde se le localice y en defecto de éste, el de la ubicación del predio si no es baldío; de serlo, será notificado por edictos.
 
 ###### ARTICULO 26.
 
@@ -277,25 +287,23 @@ Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sob
 
 ### CAPITULO II. Impuesto Sobre Transmisión de Dominio
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 28.
 
-Son objeto del impuesto sobre Transmisión de Dominio los contratos de compraventa, o cualesquiera otros por los que se transmitan derechos reales o posesorios sobre bienes inmuebles, así como los actos constitutivos de fideicomisos y los actos de ejecución de los mismos que afecten derechos reales o posesorios sobre bienes inmuebles y la adquisición de éstos por prescripción.
+Son objeto del Impuesto a que se refiere este capítulo, los contratos de compraventa, o cualesquiera otros por los que se trasmitan derechos reales o posesorios sobre bienes inmuebles, así como los actos constitutivos de fideicomisos, los actos de ejecución de los mismos, la cesión de derechos de fideicomisarios y la adquisición de inmuebles o derechos reales por prescripción.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 29.
 
-Son sujetos de este impuesto las personas físicas, jurídicas o unidades económicas que contraten derechos reales o posesorios sobre bienes inmuebles por concepto de compraventa, actos constitutivos de fideicomiso, los de su ejecución, o cualquier otro acto que afecte o trasmita el dominio y los que los adquieran por prescripción.
+Son sujetos de este Impuesto las personas o unidades económicas que transmitan contractualmente los derechos reales o posesorios y cada uno de los permutantes por lo que hace al inmueble cuya propiedad o posesión transmita. En los casos de adjudicación, prescripción, donación o cesión de derechos hereditarios y también en los casos de compra a fraccionadoras debidamente autorizadas, el causante será el adquirente. El Fideicomitente lo será en los casos de constitución o ejecución de fideicomisos; el fideicomisario en los casos de cesión de derechos de fideicomiso.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 30.
 
-Para los efectos de este impuesto, la base gravable tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual y de avalúo comercial que practique una institución de crédito autorizada, avalúo que no podrá tener antigüedad mayor de un año a partir de la fecha en que se practique.
-
-Tratándose de remates de inmuebles urbanos o rústicos practicados por las autoridades judiciales del Trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal y el pericial.
+Para los efectos de este Impuesto, la base gravable, tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual o de avalúo que no podrá tener antigüedad mayor de un año previo a la fecha en que se realice la operación gravable. Tratándose de remates de inmuebles urbanos o rústicos practicados por las autoridades judiciales, del trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal, el pericial que sirvió de base al remate y el comercial que practique una Institución de Crédito autorizada, que no podrá tener una antigüedad mayor de un año previo a la fecha de escrituración.
 
 ###### ARTICULO 31.
 
@@ -305,17 +313,19 @@ Este impuesto se causará y pagará conforme a las tarifas que establezca la Ley
 
 Este impuesto deberá pagarse por los sujetos del mismo, dentro de los treinta días siguientes a la fecha de la escritura, adjudicación, acto o contrato respectivo, mediante la presentación de declaración que se menciona en el artículo 39 de esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 33.
 
-Los adquirentes de bienes inmuebles, derechos reales o posesorios, a excepción de los casos en que la adquisición se efectúe por prescripción, son responsables solidarios del pago de este impuesto y el bien quedará afecto preferentemente al pago del mismo.
+Los adquirentes contractuales de derechos reales o posesorios sobre bienes inmuebles, así como el donante o el cedente de derechos hereditarios, las fraccionadoras y el fiduciario y fideicomisario en los casos de Fideicomiso, serán responsables solidarios del pago de este impuesto, y el bien quedará afecto preferentemente a dicho fin.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 34.
 
-El Impuesto Sobre Trasmisión de Dominio no se causa:
+El Impuesto sobre Transmisión de Dominio no se causa:
 
-I.- En los casos en que la transmisión se efectúe por herencia.
+I.- En los casos en que la transmisión se efectúe por herencia;
 
 II.- En los casos de transmisión de derechos hereditarios a título contractual, entre coherederos.
 
@@ -323,23 +333,17 @@ III.- En los casos de constitución, disolución o liquidación de sociedad cony
 
 IV.- Por la aportación a sociedades o asociaciones o por distribución del haber social entre los socios.
 
-V.- Por división de la cosa común entre copropietarios, siempre que las partes que correspondan a los partícipes no excedan de sus respectivas porciones.
+V.- Por división de la cosa común entre copropietarios siempre que las partes que correspondan a los partícipes no excedan de sus respectivas porciones.
 
-VI.- Por resición (sic) del contrato, siempre que la operación se hubiere consignado en escritura pública, o en contrato privado registrado con anterioridad.
+VI.- Por recisión (sic) de contrato, siempre que la operación se hubiere consignado en escritura pública, o en contrato privado registrado con anterioridad.
 
 VII.- En los casos de expropiación.
 
-VIII.- Tratándose de empresas fraccionadoras debidamente autorizadas y por operaciones realizadas a partir del 1o. de enero de 1972.
+VIII.- En los casos de actos constitutivos de fideicomiso de administración, de garantía o testamentario.
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
-IX.- En los casos de actos constitutivos de fideicomiso de administración, de garantía o testamentario.
-
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 1975)</small>
-
-###### ARTICULO 34
-
-BIS.- Están exentos de pago del Impuesto Sobre Transmisión de Dominio, los actos de ejecución de fideicomiso cuando los derechos reales o posesorios que afecten, se transmitan al mismo sujeto señalado en el acto constitutivo de ese fideicomiso como fideicomisario.
+ARTICULO 34 BIS.- Están exentos de pago del Impuesto sobre Transmisión de Dominio, los actos de ejecución de Fideicomiso cuando los Derechos reales o posesorios que afecten, se transmitan al mismo sujeto señalado en el acto constitutivo de este fideicomiso como fideicomitente.
 
 ###### ARTICULO 35.
 
@@ -895,15 +899,15 @@ Esta inspección estará a cargo de contadores designados y removidos libremente
 
 Los contribuyentes tendrán derecho a la restitución de los sueldos o remuneraciones pagados en los casos en que se nulifique la resolución.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 90.
 
-Para la mejor administración y control de este impuesto, se procederá a revisar las declaraciones de los causantes cuando existan indicios de que no cubren el impuesto de acuerdo con los ingresos realmente percibidos.
+Para la mejor administración y control de este Impuesto la Secretaría de Finanzas podrá revisar las declaraciones de los causantes.
 
 Para tal revisión se tomarán en cuenta los siguientes elementos:
 
-Impuestos que hayan pagado a la Federación o a los Municipios, cantidades que cubran por concepto de renta del local que ocupen y energía eléctrica; número de los empleados que tengan a su servicio y sueldos que se les paguen; factor de utilidad bruta; activo total, ingreso resultante en intervenciones a la caja de los causantes y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos.
+Impuesto que hayan pagado a la Federación o a los Municipios, cantidades que cubran por concepto de renta del local que ocupen y energía eléctrica, número de los empleados que tengan a su servicio y sueldos que se les paguen; factor de utilidad bruta; activo total; ingreso resultante en intervenciones a la caja de los causantes y los demás datos que puedan utilizarse para la determinación de los ingresos realmente percibidos.
 
 ###### ARTICULO 91.
 
@@ -1131,11 +1135,11 @@ Las operaciones que grava este impuesto, no causan el de actividades mercantiles
 
 Impuesto Sobre Adquisición de Algodón
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 121.
 
-Son objeto del Impuesto Sobre Adquisición de Algodón las Operaciones de compra-venta de algodón en pluma y semilla de algodón que se realicen en el Estado.
+Son objeto del Impuesto Sobre Adquisición de Algodón las operaciones de compra-venta de algodón en pluma y semilla de algodón que se realicen en el Estado, que surtan efectos dentro de él o que se celebren respecto de estos Artículos, producidos en el Estado.
 
 ###### ARTICULO 122.
 
@@ -1295,7 +1299,7 @@ Este Impuesto se regulará por las disposiciones que al efecto señala la Ley de
 
 ### CAPITULO XIII. Impuesto Sobre Compraventa de Alcohol y Bebidas Alcohólicas
 
-### CAPITULO XIV (SIC). Impuesto Sobre Arrendamiento Subarrendamiento de Bienes Inmuebles
+### CAPITULO XIV. Impuesto Sobre Arrendamiento Subarrendamiento de Bienes Inmuebles
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -1385,117 +1389,307 @@ III.- Adoptar las medidas de control que para el correcto pago del impuesto esta
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
-### CAPITULO XV (SIC). Impuesto Sobre Profesiones y Ejercicios Lucrativos
+### CAPITULO XV. De los Impuestos Sobre Productos del Trabajo
 
-(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1977) (F. DE E., P.O. 20 DE MARZO DE 1977)
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+#### SECCION PRIMERA. Del Impuesto Sobre Remuneraciones al Trabajo Personal
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
 12.- Este impuesto no es repercutible.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-13.- Son objeto del Impuesto Sobre Profesiones y Ejercicios Lucrativos:
+13.- Es objeto del Impuesto la realización de pagos en efectivo en especie por concepto de remuneración al trabajo personal, prestado bajo la dirección o dependencia de un tercero dentro del Territorio del Estado.
 
-I.- Los ingresos que se perciban con motivo del libre ejercicio de una profesión, actividad artística, deportiva o cultural; como agente de Instituciones de Crédito, Seguros o Fianzas o mediante el ejercicio de una función notarial, o la explotación de una patente aduanal dentro del Territorio del Estado.
-
-> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1977)</small>
-
-II.- Los ingresos obtenidos por quienes poseen título de escuela superior, técnica o universitaria, derivados de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-14.- Son sujetos de este Impuesto las personas físicas, jurídicas o unidades económicas, que habitual o eventualmente obtengan los ingresos a que se refiere el artículo anterior.
+14.- La base del Impuesto es el monto total de los pagos que efectúen en los términos del Artículo anterior, aún cuando no excedan del salario mínimo, o bien, el monto total de la percepción que obtenga el trabajador, si quien efectúa los pagos está domiciliado fuera del Estado, y no tiene dentro de éste, sucursal, o representación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 151
-
-15.- La base de este Impuesto es el monto total de los ingresos a que se refiere el artículo 151-13.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-16.- Este impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado.
+15.- Son sujetos del impuesto quienes se encuentran domiciliados en el Estado, o tengan en éste agencias, sucursales o representación y realicen los pagos por remuneración al trabajo personal prestado bajo la dirección y dependencia de un tercero. Serán responsables solidarios quienes perciban dichos pagos, cuando quien los realiza resida fuera del Estado, sin tener en él agencia sucursal o representación.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 151
-
-17.- El pago de este impuesto se hará bimestralmente ante la oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-18.- Los sujetos mencionados en la fracción I del Artículo 151-13, así como los comprendidos en la fracción II del mismo artículo que presten sus servicios a empresas, organismos o instituciones cuya administración se encuentra ubicada fuera del Estado efectuarán el pago de su impuesto mediante la presentación de una declaración personal.
+16.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado, aplicada al total de los pagos mensuales efectuados por el causante, o al total de las percepciones que en el mismo período obtengan de fuera del Estado, quienes presten servicios de carácter personal dentro del mismo.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 151
-
-19.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a los sujetos mencionados en la fracción II del artículo 151-13 deberán retener y enterar el impuesto en la oficina Recaudadora correspondiente, utilizando la forma denominada "Relación bimestral de Retenciones", siendo solidariamente responsables de su pago.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-20.- Los sujetos de este impuesto que habitualmente ejerzan las actividades a que se refiere el artículo 151-13 fracción I y los comprendidos en la fracción II del mismo artículo cuando presten sus servicios a empresas, instituciones u organismos cuya administración esté ubicada fuera del Territorio del Estado están obligados a:
+17.- Están obligados a enterar el Impuesto quienes perciban remuneraciones en los términos del Artículo 151-15, cuando quien los pague resida fuera del Estado, sin tener en el mismo agencia, sucursal o representación.
 
-I.- Empadronarse en la Secretaría de Finanzas por conducto de la oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría.
-
-II.- Dar aviso a la oficina Recaudadora correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de actividades, dentro de los diez días hábiles siguientes contados a partir de la fecha en que ocurra el cambio.
-
-III.- Proporcionar a las autoridades fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se les fije.
-
-IV.- Recibir las visitas de inspección y proporcionar a las autoridades fiscales comisionadas para el efecto, todos los informes y documentos que soliciten para el desempeño de sus funciones.
-
-V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y número de registro.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-21.- Son obligaciones de los retenedores:
+18.- No causan el Impuesto:
 
-I.- Inscribir a los sujetos de este impuesto que tengan a su servicio, mediante la forma denominada "Relación bimestral de Retenciones", dentro del mes impar subsecuente a aquel en que se hubiere originado la relación de trabajo.
+I.- Las personas y organismos en los mismos términos a que se refiere el Artículo 33 del Código Fiscal del Estado.
 
-II.- Dar aviso de altas y bajas de los sujetos a que se refiere la fracción anterior en la relación bimestral de retenedores mencionada.
+II.- Las empresas establecidas conforme al Reglamento del Párrafo Tercero, del Art. 31 del Código Aduanero de los Estados Unidos Mexicanos para el Fomento de la Industria Maquiladora, siempre que reúnan los requisitos mínimos de inversión, ocupación de mano de obra y demás que en resoluciones de carácter general establezca la Secretaría de Finanzas y previa declaratoria de esta dependencia en cada caso específico.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-###### ARTICULO 151
-
-22.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la oficina Recaudadora correspondiente; utilizando las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsables del pago del mismo.
-
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-23.- Se considera ingreso exento para los efectos del pago de este impuesto, la cantidad hasta de $5,000.00 (Cinco Mil Pesos 00/100) de los ingresos que obtenga el causante mensualmente.
+19.- Este Impuesto se enterará en efectivo mensualmente mediante declaración que presentarán los causantes o responsables solidarios según sea el caso, ante la Oficina Receptora de su jurisdicción a más tardar dentro del mes siguiente al en que hagan o reciban los pagos base del gravamen.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+#### SECCION SEGUNDA. Impuestos Sobre Profesiones y Ejercicios Lucrativos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 151
 
-24.- La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este impuesto en los siguientes casos:
+20.- Son obligaciones a cargo de los sujetos que realizan los pagos gravados por este Impuesto, y de quienes los reciban cuando quien los paga resida fuera del Estado, sin tener en él agencia, sucursal o representación:
+
+I.- Empadronarse en la Oficina de Recaudación de Rentas del Estado de su jurisdicción, dentro de los diez días siguientes a la fecha en que se efectúen las operaciones gravadas por este Impuesto;
+
+II.- Presentar la declaración mensual para el pago del Impuesto; y
+
+III.- Las demás que impongan otras disposiciones fiscales.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+21.- Son objeto del Impuesto Sobre Profesiones y Ejercicios Lucrativos, los ingresos que se perciban con motivo del libre ejercicio de una profesión, actividad artística, deportiva o cultural; como agente de instituciones de crédito, seguros o fianzas o mediante el ejercicio de la función notarial, o la explotación de una patente aduanal, dentro del territorio del Estado. Igualmente lo serán los ingresos que obtengan quienes posean título de escuela superior, técnica o universitaria, derivadas de su trabajo personal prestado bajo la dirección y dependencia de un tercero dentro del territorio del Estado, cuando quien realice los pagos no causen el Impuesto Sobre Remuneraciones al Trabajo Personal, conforme a lo establecido en el artículo 151-18. En este caso quienes efectúen los pagos están obligados a retener y enterar el impuesto en los términos del artículo 151-25.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+22.- Son sujetos de este Impuesto las personas físicas, jurídicas o unidades económicas, que habitual o eventualmente obtengan los ingresos a que se refiere el Artículo anterior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+23.- La base de este Impuesto es el monto total de los ingresos a que se refiere el Artículo 151-21.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+24.- Este Impuesto se liquidará y pagará de conformidad con la tasa que estipule la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+25.- El pago de este Impuesto se hará bimestralmente ante la Oficina Recaudadora de la jurisdicción del causante, dentro de los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre de cada año, por los ingresos obtenidos en el bimestre inmediato anterior, haciendo uso de las formas aprobadas por la Secretaría de Finanzas del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+26.- Los sujetos de este Impuesto que habitualmente ejerzan las actividades a que se refiere el Artículo 151-21, están obligados a:
+
+I.- Empadronarse en la Secretaría de Finanzas por conducto de la Oficina Recaudadora de su jurisdicción, dentro de los diez días hábiles siguientes a aquél en que inicien sus actividades, utilizando las formas aprobadas por la misma Secretaría.
+
+II.- Dar aviso a la Oficina Recaudadora correspondiente, en los casos de cambio de domicilio, así como en los de suspensión o cambio de actividades dentro de los diez días hábiles siguientes contados a partir de la fecha en que ocurra el cambio.
+
+III.- Proporcionar a las Autoridades Fiscales los datos e informes que les sean solicitados dentro del plazo que para ello se les fije.
+
+IV.- Recibir las visitas de inspección y proporcionar a las Autoridades Fiscales comisionadas para el efecto, todos los informes y documentos que soliciten para el desempeño de sus funciones.
+
+V.- Expedir la documentación comprobatoria de sus ingresos, que deberá ser prenumerada, señalando como mínimo, nombre, dirección, actividad y numero de registro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+27.- Las personas físicas, jurídicas o unidades económicas que hagan pagos a causantes que eventualmente sean sujetos de este Impuesto dentro del Territorio del Estado, deberán retenerlo y enterarlo en la Oficina Recaudadora correspondiente; utilizando, las formas aprobadas por la Secretaría de Finanzas del Estado, dentro de los tres días siguientes al en que se cause, siendo en todo caso solidariamente responsable del pago del mismo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+28.- De los ingresos que obtenga el causante mensualmente, se considerará ingreso exento para los efectos del pago de este Impuesto, la cantidad equivalente hasta el doble del salario mínimo general mensual vigente en el Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+### CAPITULO XVI. Impuesto Sobre Productos de Capitales
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+29.- La Secretaría de Finanzas podrá estimar los ingresos de los sujetos de este Impuesto en los siguientes casos:
 
 I.- Cuando no presenten sus declaraciones, o no expidan la documentación comprobatoria a que están obligados, y
 
-II.- Cuando por los informes que se obtengan, se ponga de manifiesto la percepción de un promedio de ingreso superior, cuando menos en tres por ciento, al declarado por el causante.
+II.- Cuando por las pruebas que se obtengan, se ponga de manifiesto la percepción de un ingreso superior, cuando menos en un tres por ciento, al declarado por el causante, en cualquiera de los bimestres del período de revisión.
 
-Para practicar las estimaciones a que se refiere este artículo, se tendrán en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse.
+Para practicar las estimaciones a que se refieren las fracciones I y II de este Artículo, se podrán tomar en cuenta las actividades realizadas por el causante, los honorarios usuales por servicios similares, la renta del local que ocupa, sueldos y honorarios pagados, gastos y otros que puedan utilizarse.
 
-### CAPITULO XIV. Impuesto Adicional para la Educación Media y Superior
+Para practicar la estimación a que se refiere la Fracción II de este Artículo, se podrán tomar en cuenta los ingresos declarados por el causante, y el porcentaje de omisión que resulte entre éstos y los estimados se podrá (sic) aplicar a los manifestados, determinando la diferencia sobre la cual se calculará el impuesto respectivo.
 
-### CAPITULO XV. Impuesto para la Educación Media y Superior sobre Adquisición de Bienes y Servicios para Consumo
+El período a que debe referirse el por ciento, será como mínimo de un bimestre y se presumirá que el causante ha omitido ingresos en la misma proporción durante todo el período revisado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+30.- Son causantes del Impuesto Sobre Productos de Capitales las personas físicas, jurídicas o las unidades económicas que obtengan en el Estado o de fuentes ubicadas en el Estado o de créditos garantizados con bienes ubicados en el Estado, ingresos en efectivo, en crédito o en cualquier otra forma, por concepto de:
+
+I.- Intereses sobre toda clase de préstamos;
+
+II.- Intereses sobre cantidades que se adeuden como precio de operaciones de compra-venta, en los casos que no estén gravados por el Impuesto sobre Actividades Mercantiles e Industriales y el Impuesto Federal sobre Ingresos Mercantiles.
+
+III.- Intereses provenientes del contrato de cuenta corriente, cuando el Ingreso no esté gravado por el Impuesto sobre Actividades Mercantiles e Industriales y el Impuesto Federal sobre Ingresos Mercantiles.
+
+IV.- Descuento de títulos o documentos;
+
+V.- Usufructo de capitales impuesto a rédito;
+
+VI.- Premios, primas, regalías y retribuciones de todas clases provenientes de la explotación de patentes o de marcas comerciales o industriales, uso de moldes, matrices, planos y diagramas;
+
+También se consideran como percepciones de las enumeradas en esta Fracción, las que obtengan los titulares de patentes o marcas mediante la fijación de un sobreprecio a las mercancías amparadas por éstas;
+
+VII.- Constitución de depósitos;
+
+VIII.- Otorgamiento de Fianzas;
+
+IX.- Operaciones o Inversiones de capital cualquiera que sea la denominación que se les dé a los ingresos obtenidos, siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley local aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+31.- El Impuesto sobre Productos de Capitales, se causa sin deducción alguna, sobre los ingresos que el causante obtenga por los conceptos señalados el Articulo anterior, con las tasas que señale la Ley de Ingresos del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+32.- Si en el documento en que conste cualquier operación de la cual se obtenga alguno de los ingresos comprendidos en las Fracciones I a V, inclusive VII y IX del Artículo 151-30, no se determina el interés, tipo del descuento ó rédito que percibe el acreedor o se señala uno inferior al 12% anual, o se estipula que el acreedor no percibirá interés, salvo prueba en contrario, las autoridades fiscales podrán estimar el ingreso gravable tomando en consideración los siguientes elementos:
+
+a).- Importe de la operación realizada;
+
+b).- Condiciones económicas de las partes que intervengan en la operación;
+
+c).- Todos los elementos que al efecto puedan recabarse.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+33.- El Impuesto que establece este capítulo es a cargo del arrendador o persona que obtenga a nombre propio los ingresos gravables siendo responsable solidario quien efectúe los pagos a nombre propio, a menos que el acreedor le demuestre haber manifestado la operación en los términos del Artículo siguiente, o el mismo deudor solidario lo ponga en conocimiento de las autoridades fiscales.
+
+Los mandatarios tendrán la obligación de señalar el domicilio del mandante ante la Recaudación de Rentas, cuando efectúen cobros o reciban pagos a nombre de éstos, en el término de 15 días siguientes a la operación,
+
+Quienes los efectúen a través de demandas judiciales, cumplirán con la anterior obligación con el hecho de señalarlo en las mismas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+34.- Los causantes o los retenedores en su caso, deberán presentar declaración mensual de acuerdo con las formas aprobadas y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro del mes siguiente a aquél en que se hubieren obtenido o pagado lo ingresos gravados.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+35.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora, en los términos que señala el Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+36.- El pago del impuesto sobre Productos de Capitales deberá hacerse mientras el crédito o inversión de capital de que derive el ingreso gravable no se extinga.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+37.- No causan el impuesto:
+
+I.- Los intereses que paguen u obtengan las Instituciones de Crédito, de Seguros o de Fianzas, que operen en el país conforme a las Leyes respectivas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas Instituciones.
+
+II.- Los ingresos gravados por este Impuesto que perciban las entidades públicas y personas comprendidas en el Artículo 33 del Código Fiscal del Estado, en los términos de ese precepto.
+
+III.- Ingresos por intereses en cajas de ahorro de los empleados, derivados de préstamos que se otorguen a ellos mismos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+38.- Los causantes de este Impuesto tienen las siguientes obligaciones:
+
+I.- Presentar ante las Oficinas Recaudadoras de su jurisdicción, dentro de los 15 días del mes siguiente a la celebración de las operaciones gravadas, una manifestación con los siguientes datos:
+
+a).- Naturaleza de la operación y monto gravado.
+
+b).- Fecha de celebración.
+
+c).- Fecha de vencimiento.
+
+d).- Fecha de las amortizaciones.
+
+e).- Tasa de interés.
+
+f).- Nombre y domicilio de las partes que intervengan en la operación.
+
+II.- Pagar el Impuesto dentro del siguiente a aquél en que se hayan obtenido los ingresos gravables.
+
+III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, dentro de los 15 días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
+
+a).- De iniciación de operaciones.
+
+d) (sic).- De cambio o baja;
+
+1.- Cambio de denominación o razón social;
+
+2.- Cambio de actividad;
+
+3.- Cambio de domicilio;
+
+4.- Traspaso de la negociación;
+
+5.- Suspensión temporal de actividades, y
+
+6.- Clausura definitiva o cesación de actividades.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+39.- Los Notarios y los Jueces que actúen por receptoría, dentro de los quince días siguientes a la fecha en que se autoricen las escrituras en que consten operaciones, actos, contratos de los que se derive el derecho a percibir ingresos gravables con este Impuesto, o los que modifiquen esas escrituras, o por las que se extingan las obligaciones contraídas en dichas operaciones o contratos, darán aviso de su otorgamiento a la Oficina Recaudadora de su residencia.
+
+Estos funcionarios están obligados a permitir la (sic) vistas a sus protocolos y archivos conexos, ordenadas por la Autoridad Fiscal competente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+40.- Los Titulares del Registro Público de la Propiedad y del Comercio no inscribirán los títulos, contratos o documentos en que se haga constar operaciones generadoras de ingresos gravables por este impuesto, si no se les acredita previamente, con la copia sellada por la Autoridad Fiscal competente o con otra constancia expedida por ésta, que tales operaciones fueron manifestadas en los términos de la Fracción I del Artículo 151-33.
+
+Los citados funcionarios no podrán cancelar las inscripciones relativas a esos títulos, contratos o documentos, si no se les acredita con los recibos oficiales, respectivos, o con otra constancia expedida por autoridad fiscal competente, que se está al corriente en el pago do este impuesto. En tratándose del deudor o fiado, bastará que compruebe haber manifestado la operación en los términos de la Fracción I del Artículo 151-33.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+###### ARTICULO 151
+
+41.- Las Autoridades Judiciales tendrán obligación de dar aviso a la Recaudación de Rentas de su adscripción, de las demandas, reconvenciones, transacciones y convenios judiciales, sentencias ejecutoriadas y de cualquier promoción que implique desistimiento de alguna de las partes, si los actos ocurren dentro de un procedimiento seguido en relación con actos o contratos de los que se derive el derecho a obtener ingresos gravables en relación con este Impuesto.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+### CAPITULO XVII. Impuesto Adicional para la Educación Media y Superior
 
 ###### ARTICULO 152.
 
@@ -1541,7 +1735,11 @@ VII.- Los causantes del impuesto Federal Sobre Ingresos Mercantiles;
 
 VIII.- El Impuesto Sobre Profesiones y Ejercicios Lucrativos.
 
-> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 1973)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+
+### CAPITULO XVIII. Impuesto para la Educación Media y Superior Sobre Adquisición de Bienes y Servicios
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
 
 ###### ARTICULO 156
 
@@ -1808,3 +2006,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 31 DE MAYO DE 1977.
 
 UNICO.- Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO.
+
+Las disposiciones que establece el presente Decreto entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Para los efectos del Artículo 25 de la Ley de Hacienda, se concede un plazo que vencerá el día 28 de Febrero de 1979, para que todos los causantes del Impuesto Predial presenten ante la Oficina de Recaudación de Rentas de la jurisdicción del predio, la manifestación relativa a su domicilio. Quienes en este plazo no cumplan con esta obligación podrán ser notificados en el lugar que se les localice y en defecto de éste, en la ubicación del predio si no es baldío; de serlo podrán ser notificados por edictos, en los términos del inciso b) de la Fracción I del Artículo 81 del Código Fiscal, de cualquier resolución relativa al Impuesto Predial.
+
+###### ARTICULO CUARTO.
+
+Es obligación de los sujetos y responsables solidarios del Impuesto sobre remuneraciones al trabajo personal, el empadronarse en la Oficina de Recaudación de Rentas de su jurisdicción, dentro del mes siguiente a la fecha de publicación del presente Decreto.
+
+###### ARTICULO QUINTO.
+
+Es obligación de los sujetos y responsables solidarios del Impuesto Sobre Producto de Capitales, el empadronarse en la Oficina de Recaudación de Rentas de su jurisdicción, dentro del mes siguiente a la fecha de su publicación del presente Decreto.
