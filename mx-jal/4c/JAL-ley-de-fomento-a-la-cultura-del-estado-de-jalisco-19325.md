@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-fomento-a-la-cultura-del-estado-de-jalisco-19325"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-21"
-last_updated: "2000-12-21"
+last_updated: "2004-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE FOMENTO A LA CULTURA
 
-TEXTO ORIGINAL
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 2004.
 
 Ley Publicada en el Periódico Oficial el 21 de diciembre de 2000 Sección II.
 
@@ -55,7 +55,9 @@ La presente ley tiene como objetivos, los siguientes:
 
 I. Generar las condiciones para la promoción, fomento y difusión de las manifestaciones culturales y artísticas con el fin de facilitar el acceso a ellas a todos los individuos de la sociedad;
 
-II. Establecer, ejecutar y evaluar la política cultural del Estado que servirá como base y fundamento para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios: ..
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+
+II. Establecer los criterios mediante los cuales la autoridad competente ejecutará y evaluará la política cultural del Estado y servirá como base para la elaboración de los planes y programas estatales en materia de cultura, conforme a los siguientes criterios:
 
 a). Procurar la satisfacción de las necesidades artísticas de los habitantes del Estado;
 
@@ -73,9 +75,13 @@ III. Establecer los mecanismos de coordinación, vinculación y coparticipación
 
 IV. Promover la participación de los individuos, grupos, instituciones y organizaciones de los sectores social y privado en la promoción, fomento y difusión en materia de cultura;
 
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
 V. Establecer y desarrollar mecanismos financieros, destinados a proveer de apoyos a las actividades culturales en materia del presente ordenamiento legal, diferentes del presupuesto ordinario que el ejecutivo estatal destine a estos fines;
 
-VI. Fijar las bases para otorgar becas, reconocimientos y estímulos económicos en apoyo a la realización artística y cultura; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+VI. Fijar las bases para otorgar beca, reconocimientos y estímulos económicos en apoyo a la realización artística y cultural; y
 
 VII. Definir la competencia de la autoridad estatal y municipal en materia cultural.
 
@@ -97,7 +103,9 @@ VI. Programa: El Programa Estatal de Cultura;
 
 VII. Programa Municipal: El Programa Municipal de Cultura;
 
-VIII. Industria cultural: Las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que ofrezcan bienes o servicios pertenecientes al campo de las bellas artes; y
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+VIII. Industria cultural: las industrias editorial, disquera, de las artes gráficas, cinematográfica, de la radio y televisión, así como todas aquellas empresas que produzcan bienes o servicios pertenecientes al campo de las bellas artes y la cultura; y
 
 IX. Creador: Autor, interprete o ejecutante artístico.
 
@@ -147,7 +155,9 @@ I. Ejecutar la política cultural del Estado;
 
 II. Elaborar, ejecutar y evaluar el Programa Estatal de Cultura, con la participación del Sistema y con el auxilio del Consejo;
 
-III. Realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+III. Planear las estrategias y realizar las acciones necesarias para promover, preservar, divulgar y fomentar las diversas manifestaciones culturales y artísticas del Estado, así como realizar las investigaciones pertinentes para un mejor conocimiento de aquellas;
 
 IV. Diseñar, operar y evaluar, en coordinación con la Secretaría de Educación Jalisco, los programas de educación artística e investigación estética; así como de promoción y fomento del libro y la lectura;
 
@@ -215,11 +225,15 @@ XIV. Procurar la creación de bibliotecas, hemerotecas, casas municipales de la 
 
 XV. Conocer, analizar y resolver las solicitudes o peticiones que presenten personas físicas o jurídicas dedicadas a las actividades culturales, para la utilización de los espacios públicos con que cuenta el municipio.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 8.
 
-Los programas municipales deberán elaborarse con la participación ciudadana y contener cuando menos:
+Los programas municipales podrán elaborarse con la participación ciudadana y contener, entre otros:
 
-I. Los Objetivos y Estrategias a desarrollar en la promoción, divulgación, fomento e investigación de la cultura;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+I. Los objetivos y estrategias a desarrollar en la preservación, promoción, divulgación, fomento e investigación de la cultura;
 
 II. Las actividades para lograr los objetivos propuestos;
 
@@ -263,7 +277,9 @@ i) El Consejo Estatal de la Cultura y las Artes;
 
 j) El Archivo Histórico del Estado;
 
-k) La Dirección General de Trabajo y Previsión Social del Estado;
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
+k) La Secretaría de Trabajo y Previsión Social del Estado;
 
 l) El Comité Técnico de la Orquesta Filarmónica de Jalisco;
 
@@ -283,9 +299,13 @@ El Sistema contará con un secretario ejecutivo que será designado por mayoría
 
 Los objetivos del Sistema serán los siguientes:
 
-I. Proponer a las autoridades que de manera eficiente se aprovechen los recursos e infraestructura de los bienes y servicios culturales que presta el Estado;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
-II. Proponer mecanismos coordinados para asegurar el rescate, promoción, preservación, difusión, fomento e investigación, de la cultura y las artes;
+I. Conocer y opinar sobre la manera en que se aprovechan los recursos e infraestructura de los bienes y servicios culturales que presta el Estado.
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+II. Proponer mecanismos y acciones para asegurar el rescate, promoción, preservación, difusión, fomento e investigación de la cultura y las artes; así como propiciar la debida coordinación entre éstos;
 
 III. Participar en los programas y proyectos culturales que involucren la participación de los distintos entes públicos, privados y sociales; y
 
@@ -305,13 +325,17 @@ IV. Las demás que establezca esta Ley y su Reglamento.
 
 ### Capítulo II. De las sesiones
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 14.
 
-Los integrantes del Sistema deberán reunirse en sesión ordinaria cada dos meses conforme a las fechas fijadas por el calendario que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sea convocado por su Presidente o por una tercera parte de sus integrantes.
+Los integrantes del Sistema deberán reunirse en sesión ordinaria cada cuatro meses conforme a las fechas fijadas por el calendario que al efecto aprueben, y en sesión extraordinaria, cada vez que para ello sea convocado por su Presidente o por una tercera parte de sus integrantes.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 15.
 
-Las sesiones del Sistema serán válidas con asistencia de la mitad más uno de sus miembros; sí se trata de sesión extraordinaria, será indispensable notificar con veinticuatro horas de anticipación a la celebración de la misma, además de que exista el quórum necesario.
+Las sesiones del Sistema serán válidas con asistencia de la mitad más uno de sus miembros; cuando se trate de una sesión extraordinaria, será indispensable notificar con 24 horas de anticipación a la celebración de la misma, además de que exista el quórum necesario para su realización.
 
 Las decisiones del Sistema serán válidas con la aprobación de la mayoría de los miembros asistentes.
 
@@ -355,7 +379,9 @@ El Consejo es un organismo público desconcentrado de la Secretaría, con funcio
 
 El Consejo se integrará por los siguientes miembros:
 
-I. Un presidente, que será electo de entre los consejeros por las dos terceras partes del Consejo, y cuyo encargo durará tres años, pudiendo ser ratificado por un período igual;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+I. Un presidente, que será electo conforme al procedimiento descrito en el artículo siguiente y cuyo encargo durará tres años, pudiendo ser ratificado por un periodo igual;
 
 II. Un Secretario Ejecutivo, nombrado y removido por el Consejo, a propuesta del Presidente, con voz pero sin voto;
 
@@ -413,6 +439,18 @@ El cargo de consejero será honorífico y por lo tanto no remunerado, con excepc
 
 En el Reglamento de esta Ley se establecerán las disposiciones relativas al funcionamiento interno del Consejo.
 
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
+Artículo 20 bis.- Para la elección del Presidente del Consejo, deberá seguirse el siguiente procedimiento:
+
+I. Los consejeros elegirán de entre ellos mismos y mediante el voto de las dos terceras partes de los consejeros presentes, a quien consideren tiene el perfil y la aptitud necesarias para ocupar el cargo de Presidente; y
+
+II. Si realizada una primera ronda de votación nadie obtiene la mayoría requerida, se realizará una segunda ronda, y si en esta ocasión ningún consejero obtiene las dos terceras partes de la votación, ocupará el cargo aquel que haya obtenido la mayoría simple de los votos.
+
+Para la ratificación del Presidente deberá seguirse el procedimiento antes descrito; y
+
+III. Igual procedimiento se seguirá para la elección de presidente interino del Consejo, ante la renuncia del titular. El Presidente interino completará el periodo de tres años subsecuentes a su interinato.
+
 ###### Artículo 21.
 
 Corresponde al Consejo:
@@ -457,9 +495,11 @@ II. El personal administrativo que le sea comisionado por la Secretaría.
 
 ### Capítulo I. De su Integración y fines
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 24.
 
-Se crea el Fondo Estatal de Fomento a la Cultura y las Artes con el propósito de financiar proyectos de creación, investigación, preservación, promoción y difusión artística y cultural.
+Se crea el Fondo Estatal para la Cultura y las Artes con el propósito de financiar proyectos de creación, investigación, preservación, promoción y difusión artística y cultural.
 
 ###### Artículo 25.
 
@@ -487,9 +527,11 @@ II. Impulsar el desarrollo y ejecución de proyectos artísticos y culturales de
 
 III. Incrementar el patrimonio cultural del Estado; y
 
-IV. Apoyar actividades cuyo fin sea el rescate, preservación y desarrollo de la cultura propia de los grupos y sectores populares.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
 
-Al financiamiento de los proyectos de creación, investigación, preservación, promoción y difusión artística y cultural podrán aspirar todos los interesados mexicanos residentes en el Estado que cumplan con los requisitos que se establezcan en las convocatorias respectivas.
+IV. apoyar actividades cuyo fin sea el rescate, preservación y desarrollo de la cultura propia de los grupos y sectores populares.
+
+Al financiamiento de los proyectos de creación, investigación, preservación, promoción y difusión artística y cultural podrán aspirar todos los interesados mexicanos residentes en el Estado que cumplan los requisitos que se establezcan en el reglamento y las convocatorias respectivas.
 
 ### Capítulo II. De los criterios y bases para el otorgamiento de apoyos
 
@@ -523,11 +565,17 @@ Bajo ninguna circunstancia, los recursos que constituyen el Fondo se destinarán
 
 Son Compromisos de los beneficiarios del Fondo:
 
-I. Entregar cada cuatrimestre un informe del avance registrado en la realización del proyecto apoyado;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+I. Entregar a la administración del Fondo un informe cuatrimestral, reportando el avance del proyecto apoyado. El último de estos informes deberá ser un informe integrador de los resultados finales del proyecto y su impacto en la vida cultural del Estado;
 
 II. Reconocer y difundir el apoyo de las Instituciones Culturales del Estado, en los productos y representaciones y, en general, en los medios que utilice para la promoción de su trabajo; y
 
-III. Dar crédito a la Secretaría en los productos y presentaciones que reciban financiamiento del Fondo.
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+III. Dar crédito al Gobierno del Estado y a la Secretaría en los productos y presentaciones que reciban financiamiento del Fondo.
+
+En caso de que los beneficiarios del fondo no cumplan con los compromisos señalados en este artículo, ya no podrán solicitar recursos del mismo en años posteriores.
 
 ## TITULO SEPTIMO. DEL SISTEMA ESTATAL DE CREADORES
 
@@ -597,13 +645,17 @@ VII. Promover las actividades de concertación pertinentes para unificar program
 
 ### Capítulo II. De la cultura popular, festividades y tradiciones
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
+
 ###### Artículo 36.
 
-Se declara de interés público la preservación de las tradiciones, costumbres, festividades y certámenes populares, por lo que las autoridades competentes en materia de cultura establecerán programas especiales para su preservación, desarrollo y difusión.
+Se declara de interés público la preservación de las tradiciones, costumbres, festividades y certámenes populares, cuando no se opongan a las leyes vigentes, por lo que las autoridades competentes establecerán programas especiales para su preservación, desarrollo y difusión.
+
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2004)</small>
 
 ###### Artículo 37.
 
-Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la entidad, haciéndolo del conocimiento del Sistema.
+Las autoridades estatales y municipales se coordinarán para la elaboración y actualización de un registro de las festividades y manifestaciones populares que se realizan en la entidad, haciéndolo del conocimiento del Sistema y del Consejo.
 
 ### Capítulo III. Del fomento al libro y la lectura
 
@@ -635,7 +687,9 @@ destinados a la cultura
 
 El uso de los espacios públicos destinados a la cultura, propiedad del Gobierno del Estado, se ajustarán a los siguientes criterios:
 
-I. Cada espacio debe tener definido su uso, destino y categoría de las actividades artísticas, que se procurará destinarlos al uso exclusivo de estas actividades y por excepción a otros quehaceres;
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2004)</small>
+
+I. cada espacio debe tener definido su uso, el destino y categoría de las actividades artísticas que allí se presenten. Se procurará destinarlos al uso exclusivo de estas actividades y por excepción a otros quehaceres;
 
 II. Las manifestaciones y actividades artísticas del Estado y sus regiones, tendrán uso preferente de los espacios públicos destinados a la cultura; y
 
@@ -684,3 +738,9 @@ Ing. Alberto Cárdenas Jiménez
 El Secretario General de Gobierno
 
 Lic. Felipe de Jesús Preciado Coronado
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE FEBRERO DE 2004.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
