@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1994-07-22"
+last_updated: "1995-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -158,15 +158,15 @@ En los supuestos de que se niegue la autorización, se desista el interesado o s
 
 Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región.|
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 11.
 
-El capital social de las instituciones de banca múltiple estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional. El capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la institución.
+El capital social de las instituciones de banca múltiple estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional.
 
-Asimismo, el cuarenta y nueve por ciento restante de la parte ordinaria del capital social, podrá integrarse indistinta o conjuntamente por acciones serie "A", "B" y "C"; la serie "C" sólo podrá emitirse hasta por el treinta por ciento de dicho capital ordinario.
+El capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante de la parte ordinaria del capital social podrá integrarse indistinta o conjuntamente por acciones series "A" y "B".
 
-En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al treinta por ciento del capital social ordinario de la institución, previa autorización de la Comisión Nacional de Valores.
+En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al cuarenta por ciento del capital social ordinario, previa autorización de la Comisión Nacional de Valores.
 
 ###### ARTICULO 12.
 
@@ -180,45 +180,47 @@ Las acciones serie "L" serán de voto limitado y otorgarán derecho de voto úni
 
 Además, las acciones serie "L" podrán conferir derecho a recibir un dividendo preferente y acumulativo, así como a un dividendo superior al de las acciones representativas del capital ordinario, siempre y cuando así se establezca en los estatutos sociales de la institución emisora. En ningún caso los dividendos de esta serie podrán ser inferiores a los de las otras series.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-Las instituciones podrán emitir acciones no suscritas, que conservarán en tesorería. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la institución.
+Las instituciones podrán emitir acciones no suscritas, que conservarán en tesorería, las cuales no computarán para efectos de determinar los límites de tenencia accionaria a que se refiere esta Ley. Los suscriptores recibirán las constancias respectivas contra el pago total de su valor nominal y de las primas que, en su caso, fije la institución.
 
 ###### ARTICULO 13.
 
 Las acciones representativas de la serie "A" únicamente podrán ser adquiridas por:
 
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-I. Personas físicas mexicanas y sociedades de inversión comunes exclusivas para esas personas;
+I. Personas físicas mexicanas;
 
-II. El Gobierno Federal, las instituciones de banca de desarrollo y el Fondo Bancario de Protección al Ahorro, y
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-III. Las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras.
+II. Personas morales mexicanas, cuyo capital sea mayoritariamente propiedad de mexicanos, sean efectivamente controladas por los mismos y cumplan los demás requisitos que mediante disposiciones de carácter general establezca la Secretaría de Hacienda y Crédito Público;
+
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+III. El Gobierno Federal y el Fondo Bancario de Protección al Ahorro;
+
+> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+IV. Las sociedades controladoras a que se refiere la Ley para Regular las Agrupaciones Financieras, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+V. Los inversionistas institucionales mencionados en el artículo 15 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 14.
 
-Las acciones representativas de la serie "B" solamente podrán ser adquiridas por:
+Las acciones representativas de las series "B" y "L", serán de libre suscripción.
 
-I. Las personas a que se refiere el artículo anterior;
+No podrán participar en forma alguna en el capital social de las instituciones de crédito, personas morales extranjeras que ejerzan funciones de autoridad.
 
-II. Otras personas morales mexicanas, en cuyos estatutos figure cláusula de exclusión directa e indirecta de extranjeros, y
-
-III. Instituciones de seguros y de fianzas, como inversión de sus reservas técnicas y para fluctuaciones de valores; sociedades de inversión; fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto Sobre la Renta, así como los demás inversionistas institucionales que autorice expresamente la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 15.
 
-Las acciones representativas de las series "C" y "L", sólo podrán ser adquiridas por:
-
-I. Las personas a que se refiere el artículo anterior;
-
-II. Las demás personas morales mexicanas, y
-
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
-
-III. Personas físicas extranjeras, o morales extranjeras que no ejerzan funciones de autoridad.
+Para efectos de lo previsto en la presente Ley, por inversionistas institucionales se entenderá a las instituciones de seguros y de fianzas, únicamente cuando inviertan sus reservas técnicas y para fluctuaciones de valores; a las sociedades de inversión comunes; a los fondos de pensiones o jubilaciones de personal, complementarios a los que establece la Ley del Seguro Social y de primas de antigüedad, que cumplan con los requisitos señalados en la Ley del Impuesto Sobre la Renta, así como a los demás inversionistas institucionales que autorice expresamente la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Valores.
 
 ###### ARTICULO 16.
 
@@ -234,19 +236,19 @@ La institución deberá tener a disposición de los representantes de los accion
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 17.
 
-Ninguna persona física o moral podrá adquirir directa o indirectamente mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones por más del cinco por ciento del capital social de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
+Ninguna persona física o moral podrá adquirir, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones de las series "A" y "B" por más del cinco por ciento del capital social de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder el veinte por ciento. Al efecto, la citada Secretaría tomará en cuenta la composición del capital de la institución de que se trate y la participación extranjera en la misma, a fin de que el sistema de pagos del país esté en todo tiempo controlado por mexicanos.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
 I. El Gobierno Federal;
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-II. Los inversionistas institucionales, señalados en las fracciones I del artículo 13 y III del 14 de esta Ley, siempre y cuando su inversión no exceda en lo individual o en conjunto del veinte por ciento del capital social de la institución emisora. Las instituciones de banca múltiple deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción;
+II. Los inversionistas institucionales señalados en el artículo 15 de esta Ley, siempre y cuando su inversión no exceda en lo individual o en conjunto del veinte por ciento del capital social de la institución emisora. Las instituciones de banca múltiple deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción;
 
 III. El Fondo Bancario de Protección al Ahorro;
 
@@ -256,9 +258,11 @@ V. Los accionistas de instituciones de banca múltiple que adquieran acciones co
 
 VI. Las instituciones de banca múltiple, cuando adquieran acciones por cuenta propia conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas.
 
-> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-VII. Las entidades financieras del exterior que inviertan en acciones serie "C" del capital social de una institución de banca múltiple quienes, previa autorización de la Secretaría de Hacienda y Crédito Público, podrán adquirir el control de acciones representativas de hasta el veinte por ciento del capital social de una institución de banca múltiple, siempre y cuando el capital social de dichas entidades financieras del exterior se encuentre diversificado a juicio de la propia Secretaría. Si dicha diversificación disminuyera la Secretaría de Hacienda y Crédito Público podrá requerir a la entidad financiera del exterior que ajuste su inversión en acciones de la Serie "C" a los límites señalados en el primer párrafo.
+VII. Las Instituciones Financieras del Exterior y las Sociedades Controladoras Filiales que adquieran acciones de cualquier serie, conforme a programas aprobados por la Secretaría de Hacienda y Crédito Público, con la finalidad de convertir a la respectiva institución de banca múltiple en una Filial.
+
+Con objeto de dar cumplimiento a lo establecido en el primer párrafo de este artículo no podrán aprobarse programas para la adquisición de instituciones de banca múltiple cuyo capital neto exceda del seis por ciento de la suma del capital neto que alcancen en su conjunto dichas instituciones.
 
 Los mencionados límites se aplicarán, asimismo, a la adquisición del control por parte de personas que la Secretaría de Hacienda y Crédito Público, considere para estos efectos como una sola persona.
 
@@ -278,11 +282,11 @@ III. Plan general de funcionamiento de la institución de banca múltiple de que
 
 IV. La demás documentación que a juicio de la Secretaría de Hacienda y Crédito Público se requiera a efecto de evaluar la solicitud correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 18.
 
-La institución se abstendrá de inscribir en el registro de sus acciones las transmisiones que se efectúen en contravención de lo dispuesto por los artículos 13, 14, 15, 17 y 17 bis de esta Ley, debiendo rechazar su inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes al que lo conozca.
+La institución se abstendrá de inscribir en el registro de sus acciones las transmisiones que se efectúen en contravención de lo dispuesto por los artículos 13, 14, 17, 17 Bis, 45-G y 45-H de esta Ley, debiendo rechazar su inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes a la fecha en que tenga conocimiento de ello.
 
 Las personas que contravengan lo previsto en los artículos señalados en el párrafo anterior, serán sancionadas por la Secretaría de Hacienda y Crédito Público, la cual oyendo previamente al interesado, determinará en su caso, que se vendan a la propia institución las acciones que excedan de los límites fijados al cincuenta por ciento del menor de los valores siguientes:
 
@@ -330,9 +334,9 @@ La administración de las instituciones de banca múltiple estará encomendada a
 
 El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las aciones (sic) serie "C" den derecho a nombrar consejeros o que por las acciones de la serie "A" se designen más de seis consejeros.
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
 
 > <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -368,9 +372,13 @@ V. Los quebrados y concursados que no hayan sido rehabilitados;
 
 VI. Quienes realicen funciones de inspección y vigilancia de las instituciones de crédito, y
 
-VII. Quienes realicen funciones de regulación de las instituciones de crédito, salvo que exista participación del Gobierno Federal en el capital de las mismas.
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-Los consejeros que representen a las series "A" y “B” deberán ser mexicanos o extranjeros que tengan el carácter de inmigrados residentes en el país.
+VII. Quienes realicen funciones de regulación de las instituciones de crédito, salvo que exista participación del Gobierno Federal en el capital de las mismas, o reciban apoyos del Fondo Bancario de Protección al Ahorro.
+
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Los consejeros que representen a la serie "A" deberán ser mexicanos o extranjeros residentes en territorio nacional.
 
 ###### ARTICULO 24.
 
@@ -406,11 +414,11 @@ V. El monto del beneficio, daño o perjuicio económicos derivados de la infracc
 
 Las resoluciones a que se refiere el primer párrafo, podrán ser recurridas ante la Secretaría de Hacienda y Crédito Público dentro de los quince días siguientes a la fecha en que se hubieren notificado. La propia Secretaría podrá revocar, modificar o confirmar la resolución recurrida, previa audiencia de las partes.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 26.
 
-El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos con un comisario de la serie "A", y, en su caso, un comisario por la serie "B", uno por la "C" y uno por la "L", así como sus respectivos suplentes.
+El órgano de vigilancia de las instituciones de banca múltiple, estará integrado por lo menos por un comisario designado por los accionistas de la serie "A" y, en su caso, un comisario nombrado por los de la serie "B" y uno por los de la "L", así como sus respectivos suplentes.
 
 ###### ARTICULO 27.
 
@@ -702,21 +710,35 @@ Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capi
 
 La solicitud de autorización para organizarse y operar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 45-B.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 45-G.
 
-El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+El capital social de las instituciones de banca múltiple Filiales estará integrado por acciones de la serie "F", que representarán cuando menos el cincuenta y uno por ciento de dicho capital. El cuarenta y nueve por ciento restante del capital social podrá integrarse indistinta o conjuntamente por acciones serie "F" y "B".
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+Las acciones de la serie "F" solamente podrán ser adquiridas por una Sociedad Controladora Filial o, directa o indirectamente, por una Institución Financiera del Exterior, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+
+Las acciones de la serie "B" se regirán por lo dispuesto para esta serie de acciones en los demás artículos de esta Ley. La Institución Financiera del Exterior, propietaria de las acciones serie "F", no quedará sujeta a los límites establecidos en el artículo 17 de esta Ley, respecto de su tenencia de acciones serie "B".
+
+Las acciones serán de igual valor, dentro de cada serie, conferirán a sus tenedores los mismos derechos, y deberán pagarse íntegramente en efectivo en el acto de ser suscritas. Las mencionadas acciones se mantendrán en depósito en alguna de las instituciones para el depósito de valores reguladas en la Ley del Mercado de Valores, quienes en ningún caso se encontrarán obligadas a entregarlas a los titulares.
+
+El capital social de las sociedades financieras de objeto limitado Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la sociedad financiera de objeto limitado Filial, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 45-H.
 
-Las acciones representativas del capital social de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+Las acciones serie "F" representativas del capital social de una institución de banca múltiple Filial, así como las acciones representativas del capital social de una sociedad financiera de objeto limitado Filial, únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación. Tratándose de instituciones de banca múltiple Filiales, deberá cumplirse con lo dispuesto en el Capítulo I del presente Título.
 
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III y IV del artículo 45-I. Cuando estas personas adquieran acciones representativas del capital social de una institución de banca múltiple Filial deberá también observarse lo dispuesto en la fracción V del mencionado artículo 45-I.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo Bancario de Protección al Ahorro.
 
@@ -726,7 +748,9 @@ No se requerirá autorización de la Secretaría de Hacienda y Crédito Público
 
 La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una institución de banca múltiple o de una sociedad financiera de objeto limitado, según corresponda, siempre y cuando se cumplan los siguientes requisitos:
 
-I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el cincuenta y uno por ciento del capital social de la institución de banca múltiple o cuando menos el noventa y nueve por ciento del capital social de la sociedad financiera de objeto limitado;
 
 II. Deberán modificarse los estatutos sociales de la institución de banca múltiple o de la sociedad financiera de objeto limitado, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
 
@@ -734,7 +758,9 @@ III. Cuando el adquirente sea una Institución Financiera del Exterior o una Soc
 
 IV. Cuando el adquirente sea una Filial deberá fusionarse con la institución de banca múltiple o sociedad financiera de objeto limitado que haya sido adquirida; y
 
-V. Tratándose de instituciones de banca múltiple, la suma del capital de la institución adquirida y del capital de la institución de banca múltiple Filial adquirente, o en cuyo capital participe mayoritariamente la Institución Financiera del Exterior o la Sociedad Controladora Filial adquirente, no podrá exceder del límite de capital que en su caso se haya establecido en el tratado o acuerdo internacional aplicable.
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+V. Tratándose de instituciones de banca múltiple, la suma del capital de la institución adquirida y del capital de la institución de banca múltiple Filial adquirente, o en cuyo capital participe mayoritariamente la Institución Financiera del Exterior o la Sociedad Controladora Filial adquirente, no podrá exceder del límite de capital que en su caso se haya establecido en el tratado o acuerdo internacional aplicable, salvo que la Secretaría de Hacienda y Crédito Público lo autorice, en términos de lo dispuesto en el segundo párrafo de la fracción VII del artículo 17 de esta Ley.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -742,11 +768,23 @@ V. Tratándose de instituciones de banca múltiple, la suma del capital de la in
 
 Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 45-K.
 
-El consejo de administración de las instituciones de banca múltiple Filiales estará integrado por lo menos por cinco consejeros. La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
+El consejo de administración de las instituciones de banca múltiple Filiales estará integrado, a elección de los accionistas de la institución, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "F" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado, tendrán derecho a designar un consejero más. Los accionistas de la serie "B", en su caso, designarán a los consejeros restantes.
+
+Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado de la institución de banca múltiple Filial, tendrán derecho a designar a un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
+
+En caso de que el consejo se integre por múltiplos de once o cuente con más de seis consejeros de la serie "F", para efectos de lo previsto en el párrafo anterior y en el artículo 23, fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+
+El presidente del consejo deberá elegirse de entre los propietarios de la serie "F", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
+
+En el caso de las instituciones de banca múltiple Filiales en las cuales cuando menos el noventa y nueve por ciento de los títulos representativos del capital social sean propiedad de una Institución Financiera del Exterior o una Sociedad Controladora Filial, así como el de las sociedades financieras de objeto limitado Filiales, podrán determinar libremente el número de consejeros, el cual en ningún caso podrá ser inferior a cinco.
+
+La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -754,11 +792,11 @@ El consejo de administración de las instituciones de banca múltiple Filiales e
 
 Se exceptúa a los directores generales de las instituciones de banca múltiple Filiales del requisito previsto en la fracción I del artículo 24 de la presente Ley. Los directores generales de las Filiales deberán residir en territorio nacional.
 
-> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 45-M.
 
-El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial propietaria de las acciones representativas del capital social de la Filial.
+El órgano de vigilancia de las instituciones de banca múltiple Filiales, estará integrado por lo menos por un comisario designado por los accionistas de la serie "F" y, en su caso, un comisario nombrado por los accionistas de la serie "B", así como sus respectivos suplentes.
 
 > <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
@@ -1110,11 +1148,11 @@ Salvo pacto en contrario y en los términos de los usos internacionales a este r
 
 Cuando el crédito tenga garantía real, el acreedor podrá ejercitar sus acciones en juicio ejecutivo mercantil, ordinario, o el que en su caso corresponda, conservando la garantía real y su preferencia aun cuando los bienes gravados se señalen para la práctica de la ejecución.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
 ###### ARTICULO 73.
 
-Las instituciones de banca múltiple requerirán del acuerdo de por lo menos cuatro consejeros de la serie "A" y tres de las series "B" y "C" o de la propia serie "A", en su caso, de su consejo de administración, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
+Las instituciones de banca múltiple requerirán del acuerdo de la mayoría de los consejeros designados de la serie "A" o "F", según corresponda y, en su caso, de la mayoría de los consejeros designados de la serie "B", que integren su consejo de administración, para celebrar operaciones en virtud de las cuales resulten o puedan resultar deudores de las mismas, las personas que se indican a continuación:
 
 I. Las personas físicas y morales que detenten directa o indirectamente el control del uno por ciento o más de los títulos representativos del capital de la institución o de la sociedad controladora del grupo financiero al que en su caso pertenezca la propia institución;
 
@@ -1134,7 +1172,15 @@ Las operaciones que deban ser sometidas a la aprobación del consejo de administ
 
 Se exceptúan de lo dispuesto en el primer párrafo de este artículo, los créditos que no excedan del mayor de los montos siguientes: el equivalente a diez mil veces el salario mínimo general diario vigente en el Distrito Federal o el 0.2 por ciento del capital neto de la institución, tratándose de personas físicas; o de cincuenta mil veces dicho salario, o del uno por ciento del citado capital neto, en el caso de personas morales; como saldo total.
 
-La suma total de los créditos referidos no podrá exceder del veinte por ciento del importe de la cartera de créditos de la institución.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+La suma total de los créditos referidos no podrá exceder del importe del capital neto de la institución.
+
+> <small>N. DE E. EN RELACION A LA ENTRADA EN VIGOR DE LA PRESENTE ADICION, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO.</small>
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Para efectos de lo dispuesto en los dos párrafos anteriores, el capital neto que deberá utilizarse será el correspondiente al día último del trimestre calendario inmediato anterior a la fecha en que se efectúen los cálculos.
 
 La Comisión Nacional Bancaria, a solicitud de la institución, previo acuerdo de su consejo de administración, podrá establecer excepciones, cuando en virtud de las características del crédito, lo estime pertinente y no se contravengan las sanas prácticas bancarias.
 
@@ -1148,9 +1194,9 @@ Las instituciones de banca múltiple podrán realizar inversiones en títulos re
 
 I. Hasta el cinco por ciento del capital pagado de la emisora;
 
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 15 DE FEBRERO DE 1995)</small>
 
-II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de por lo menos cuatro consejeros de la serie "A" y tres de las series "B" y "C" o de la propia serie "A", en su caso, de su consejo de administración. La Secretaría de Hacienda y Crédito Público podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate, y
+II. Más del cinco y hasta el quince por ciento del capital pagado de la emisora, durante un plazo que no exceda de tres años, previo acuerdo de la mayoría de los consejeros de la serie "A" o "F", según corresponda y, en su caso, de la mayoría de los de la serie "B". La Secretaría de Hacienda y Crédito Público podrá ampliar el plazo a que se refiere esta fracción, considerando la naturaleza y situación de la empresa de que se trate, y
 
 > <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
 
@@ -1161,6 +1207,10 @@ Las instituciones de banca múltiple sujetarán estas inversiones a las medidas 
 El importe total de las inversiones que cada institución realice en base a este artículo, no excederá del cinco por ciento de los recursos captados del público en el mercado nacional.
 
 Las inversiones a que se refiere este artículo, que realicen las instituciones de crédito en cuyo capital participe el Gobierno Federal, no computarán para considerar a las emisoras como empresas de participación estatal, y por lo tanto éstas no estarán sujetas a las disposiciones aplicables a las entidades de la Administración Pública Federal.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+En ningún caso las instituciones de banca múltiple podrán realizar inversiones en títulos representativos del capital de sociedades que, a su vez, tengan el carácter de accionistas en la propia institución o en la sociedad controladora de ésta. Tal restricción también será aplicable a las inversiones en títulos representativos del capital de sociedades controladas por dichos accionistas o que los controlen.
 
 ###### ARTICULO 76.
 
@@ -1504,7 +1554,13 @@ c) Utilizar fondos o valores de los fideicomisos, mandatos o comisiones destinad
 
 d) Administrar fincas rústicas, a menos que hayan recibido la administración para distribuir el patrimonio entre herederos, legatarios, asociados o acreedores, o para pagar una obligación o para garantizar su cumplimiento con el valor de la misma finca o de sus productos, y sin que en estos casos la administración exceda del plazo de dos años.
 
-El Banco de México podrá autorizar, mediante reglas generales, excepciones a lo dispuesto en las fracciones XV a XVIII de este artículo, con vistas a propiciar la captación de recursos por las instituciones o regular la celebración de operaciones, en los términos más adecuados a la situación del mercado o del sistema bancario.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+El Banco de México podrá autorizar, mediante reglas generales, excepciones a lo dispuesto en las fracciones I y II de este artículo, con vistas a propiciar el buen funcionamiento del sistema de pagos, y a lo previsto en las fracciones XV a XVIII a fin de procurar la captación de recursos por las instituciones o regular la celebración de operaciones, en los términos más adecuados a la situación del mercado o del sistema bancario.
+
+> <small>(ADICIONADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+La Comisión Nacional Bancaria podrá autorizar excepciones a lo dispuesto en las fracciones I y II de este artículo, siempre y cuando sea para coadyuvar a la estabilidad de las instituciones de crédito o del sistema bancario.
 
 ### CAPITULO III. De los Delitos
 
@@ -1519,8 +1575,6 @@ El uso de las palabras a que se refiere el artículo 105 de esta Ley, en el nomb
 ###### ARTICULO 108.
 
 El incumplimiento o la violación de la presente Ley, de la Ley Orgánica del Banco de México y de las disposiciones que emanen de ellas, por las instituciones de crédito o las personas a que se refieren los artículos 7o., 88, 89, 92 y 103, fracción IV de esta Ley, serán sancionados con multa que impondrá administrativamente la Comisión Nacional Bancaria, hasta del cinco por ciento del capital pagado y reservas de capital de la institución o sociedad de que se trate o hasta cien mil veces el salario mínimo general diario vigente en el Distrito Federal, debiendo notificarse al consejo de administración o consejo directivo correspondiente.
-
-> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY PARA LA COORDINACION DE LOS SISTEMAS DE AHORRO PARA EL RETIRO, D.O.F. 22 DE JULIO DE 1994)</small>
 
 En la imposición de estas sanciones, la Comisión Nacional Bancaria tomará en cuenta las medidas correctivas que aplique el Banco de México.
 
@@ -1688,7 +1742,9 @@ La constitución del fideicomiso por el Gobierno Federal no le dará el carácte
 
 II. Para que las instituciones de banca múltiple puedan recibir apoyos preventivos, deberá garantizarse el pago puntual y oportuno del apoyo, con acciones representativas del capital social de la propia institución, con valores gubernamentales o cualquier otro bien, que a juicio del fiduciario satisfaga la garantía requerida.
 
-Cuando esta garantía recaiga en acciones representativas del capital social de la institución apoyada, los accionistas primeramente deberán afectar títulos representativos de la serie "A" hasta por el importe de la garantía requerida y, en caso de que tales títulos no cubran el total de dicho importe, también deberán de afectar los títulos correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas.
+> <small>(REFORMADO, D.O.F. 15 DE FEBRERO DE 1995)</small>
+
+Cuando esta garantía recaiga en acciones representativas del capital social de la institución apoyada, los accionistas primeramente deberán de afectar títulos representativos de la serie "A" o "F", según corresponda, hasta por el importe de la garantía requerida y, en caso de que tales títulos no cubran el total de dicho importe, también deberán afectar los títulos correspondientes a las demás series. Dichas acciones garantizarán el pago del apoyo en la proporción a prorrata que corresponda conforme al valor de cada una de ellas. Para la constitución de esta garantía preferente de interés público, las acciones deberán traspasarse a una cuenta a favor del Fondo, en la institución para el depósito de valores en que se encuentren depositadas, correspondiendo a dicho Fondo el ejercicio de los derechos patrimoniales y corporativos inherentes a tales acciones, quedando el producto de los derechos patrimoniales afectos en garantía a favor del Fondo. El Fondo podrá optar porque la garantía se ejecute mediante la venta extrajudicial de las acciones de conformidad con el procedimiento previsto para la caución bursátil en la Ley del Mercado de Valores, o de acuerdo a lo establecido para la prenda en la Ley General de Títulos y Operaciones de Crédito.
 
 Para los efectos de la garantía antes citada, las acciones se considerarán por el equivalente al setenta y cinco por ciento de su valor en libros, según el último estado financiero aprobado por el consejo de administración de la institución y revisado por la Comisión Nacional Bancaria.
 
@@ -2144,4 +2200,26 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Se deroga el artículo 108 segundo párrafo de la Ley de Instituciones de Crédito y las demás disposiciones que se opongan a lo dispuesto en este decreto.
 
-..
+...
+
+D.O.F. 15 DE FEBRERO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, con excepción de lo previsto para el penúltimo párrafo del artículo 73 de la Ley de Instituciones de Crédito, que entrará en vigor el 1o. de julio de 1995.
+
+SEGUNDO.- Lo establecido en los artículos segundo y tercero transitorios del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley para Regular las Agrupaciones Financieras, Ley de Instituciones de Crédito, Ley General de Organizaciones y Actividades Auxiliares del Crédito, Ley del Mercado de Valores, Ley de Sociedades de Inversión, Ley General de Instituciones y Sociedades Mutualistas de Seguros y Ley Federal de Instituciones de Fianzas, publicado en el Diario Oficial de la Federación el 23 de diciembre de 1993, no es aplicable a las Filiales que resulten de las adquisiciones que sean autorizadas por la Secretaría de Hacienda y Crédito Público.
+
+En todo caso, el monto agregado de capital neto del total de las instituciones de banca múltiple Filiales, no será superior al veinticinco por ciento de la suma del capital neto que alcancen en su conjunto las instituciones de banca múltiple, durante el período de transición establecido en el tratado o acuerdo internacional aplicable.
+
+TERCERO.- Las instituciones de crédito, sociedades controladoras e intermediarios en el mercado de valores, deberán efectuar los actos corporativos necesarios para ajustar sus estatutos a lo dispuesto por el presente Decreto, dentro de un plazo máximo de ciento veinte días contado a partir de la entrada en vigor del mismo.
+
+CUARTO.- Los canjes de acciones que daban efectuarse por las instituciones de banca múltiple, casas de bolsa y sociedades controladoras para ajustarse a lo dispuesto en el presente Decreto, se realizarán conforme a lo siguiente:
+
+I.- Las acciones que resulten del canje, deberán representar la misma participación del capital pagado que las acciones canjeadas;
+
+II.- No se considerará que existe enajenación de acciones para efectos de la Ley del Impuesto sobre la Renta, siempre y cuando el canje a que se refiere la fracción anterior no implique cambio en el titular de las acciones, y
+
+III.- Para los efectos de la fracción anterior el costo promedio de las acciones que resulten del canje será el que corresponda a las acciones canjeadas.
+
+QUINTO.- Los consejeros y comisarios de la serie "C", de las instituciones de crédito y sociedades controladoras, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan a la nueva estructura de capital y los designados tomen posesión de sus cargos.
+
+SEXTO.- Durante el período establecido en el tratado o acuerdo internacional aplicable, las casas de bolsa Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la casa de bolsa Filial emisora.
