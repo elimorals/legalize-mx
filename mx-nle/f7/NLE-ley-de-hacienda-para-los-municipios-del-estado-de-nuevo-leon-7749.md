@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1977-12-30"
+last_updated: "1978-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1977.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1978.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -213,41 +213,31 @@ La base, para aplicar la tabla anterior, será el ingreso total obtenido por los
 
 En el caso de iniciación de operaciones, el impuesto será fijado con base en una estimación de los ingresos esperados para el ejercicio fiscal. Al finalizar el ejercicio, se determinará el ingreso anual proporcional y se ajustará el impuesto a cargo del causante.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 17.
 
-TASA ESPECIALES.- Los causantes especiales pagarán el impuesto en la forma siguiente.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1976)</small>
+TASA ESPECIALES.- Los causantes especiales pagarán el impuesto en la forma siguiente:
 
 a) Los comprendidos en la Fracción (I) pagarán mensualmente el 1% sobre el monto total de los ingresos que perciban por la enajenación de bebidas alcohólicas.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
 b) Los comprendidos en la Fracción (II) pagarán una cuota mensual de $200.00 a $7,500.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+c) Los comprendidos en la Fracción (III) pagarán una cuota de $200.00 a $750.00, mensuales por unidad.
 
-c) Los comprendidos en la Fracción (III) pagarán una cuota de $200.00 a $750.00, mensuales por Unidad.
+d) Los comprendidos en la Fracción (IV) pagarán una cuota de $50.00 a $75.00, mensuales por unidad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+e) Los comprendidos en la Fracción (V) pagarán una cuota de $7,500.00 a $40,000.00, mensuales.
 
-d) Los comprendidos en la Fracción (IV) pagarán una cuota de $50.00 a $75.00, mensuales por Unidad.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-e) Los comprendidos en la Fracción (V) pagarán una cuota de $5,000.00 a $25,000.00, mensuales.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
-
-f) Los comprendidos en la Fracción VI, en el mes de Enero de cada año liquidarán, según el número de aves que exploten en sus granjas o fincas avícolas, de acuerdo con la siguiente:
+f) Los comprendidos en la fracción (VI), en el mes de Enero de cada año liquidarán, según el número de aves que exploten en sus granjas o fincas avícolas, de acuerdo con la siguiente:
 
 TARIFA:
 
-NUMERO DE AVES: IMPUESTO FIJO ANUAL A
+NUM. DE AVES: IMPUESTO FIJO ANUAL A
 
-PAGAR POR CADA AVE:
+PAGAR POR CADA AVE
 
-De 1 a 200 Exentas
+De 1 a 200 exentas
 
 " 200 " 5,000 $ 0.30
 
@@ -259,21 +249,17 @@ De 1 a 200 Exentas
 
 " 50,000 " 80,000 " 0.50
 
-" 80,000 a 100,000 " 0.55
+" 80,000 " 100,000 " 0.55
 
-" 100,000 en adelante " 0.60
+" 100,000 " En adelante " 0.60
 
 Esta tarifa deberá aplicarse sin escalonamiento.
 
-Cuando en las mismas instalaciones se tengan en explotación conjunta aves productoras de huevo, propiedad de causantes registrados individualmente, esta tarifa se aplicará sobre el total de animales en explotación.
+Cuando en las mismas instalaciones se tengan en explotación conjunta aves Productoras de huevo, propiedad de causantes registrados individualmente esta tarifa se aplicará sobre el total de animales en explotación.
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+g) Los comprendidos en la fracción VII liquidarán bimestralmente la cantidad de $0.50 por cada pollo que se tenga en engorda en las referidas granjas o fincas avícolas. Dichos pagos se harán por bimestre anticipados los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre, de cada año.
 
-g) Los comprendidos en la Fracción VII liquidarán bimestralmente la cantidad de $0.50 por cada pollo que se tenga en engorda en las referidas granjas o fincas avícolas. Dichos pagos se harán por bimestres anticipados los meses de Enero, Marzo, Mayo, Julio, Septiembre y Noviembre, de cada año.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1976)</small>
-
-Para fijar las cuotas señaladas en los incisos b), c), d), y e), el Tesorero Municipal tomará en consideración el capital invertido en los negocios, el volúmen de sus operaciones, el sector en que se encuentren ubicados y su categoría.
+Para fijar las cuotas señaladas en los incisos b), c), d), y e), el Tesorero Municipal tomará en consideración el capital invertido en los negocios, el volumen de sus operaciones, el sector en que se encuentren ubicados y su categoría.
 
 ###### ARTICULO 18.
 
@@ -309,6 +295,8 @@ g) Las operaciones realizadas por o con personas que lleven a cabo programas con
 
 ### CAPITULO II. IMPUESTO SOBRE TRASLACION DE DOMINIO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ### CAPITULO III. IMPUESTO SOBRE DIVERSIONES Y ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 22.
@@ -317,9 +305,13 @@ OBJETO.- Este Impuesto grava:
 
 a) La enajenación de bienes inmuebles ubicados en el Estado.
 
-b) Las informaciones ad perpetuam y las sentencias judiciales que impliquen reconocimiento de la posesión.
+b) Las informaciones ad-perpetuam y las sentencias Judiciales que impliquen reconocimiento de la posesión.
 
 c) La enajenación y el derecho o renta a perpetuidad de lotes en los cementerios.
+
+d) La adjudicación de bienes inmuebles en pago; la aportación de bienes inmuebles que se haga a persona moral; la adquisición de inmuebles por fusión de sociedades; la adjudicación o dación en pago de bienes inmuebles por liquidación de persona moral, y; la venta con reserva de dominio de bienes de inmuebles.
+
+Cuando se rescinda o se deje sin efectos, por cualquier causa, la venta con reserva de dominio de bien inmueble, por la que se haya cubierto oportunamente este tributo, el causante tendrá derecho la devolución del impuesto pagado.
 
 ###### ARTICULO 23.
 
@@ -491,17 +483,19 @@ OBJETO.- La realización de propaganda comercial fonética o gráfica en la vía
 
 SUJETOS.- Las personas físicas, morales o unidades económicas sin personalidad jurídica, que realicen propaganda en la vía pública.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 38.
 
 TASA.- El impuesto se cubrirá en los siguientes términos:
 
-a) Propaganda fonética, de $ 500.00 a $1,000.00 mensuales, por unidad de sonido.
+a) Propaganda fonética, de $500.00 a $1,000.00 mensuales, por unidad de sonido.
 
 b) Propaganda gráfica de $200.00 a $1,000.00 mensuales.
 
-c) Anuncios pintados en las paredes de edificaciones $10.00, al mes, por metro cuadrado.
+c) Anuncios pintados en las paredes de edificaciones $12.00, al mes por metro cuadrado.
 
-d) Anuncios en cartulina, lámina, plástico, tela, madera o cualquier otro material, $7.00 al mes por metro cuadrado, ya sea que se fije en paredes, fachadas, azoteas, vidrieras, banquetas, aparadores, carrocerías, etcétera, ya sea que se sostengan por otros medios.
+d) Anuncios en cartulina, lámina, plástico, tela, madera o cualquier otro material, $10.00 al mes por metro cuadrado, ya sea que se fije en paredes, fachadas, azoteas, vidrieras, banquetas, aparadores, carrocerías, etcétera, ya sea que se sostengan por otros medios.
 
 ###### ARTICULO 39.
 
@@ -520,6 +514,8 @@ En el perímetro urbano de los Municipios se cobrarán $5.00 mensuales por metro
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 30 DE DICIEMBRE DE 1977)</small>
 
 ### CAPITULO II. POR SERVICIOS PUBLICOS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 41 Bis.
 
@@ -587,9 +583,13 @@ III.- Adoptar las medidas de control que para el pago del impuesto establezcan l
 
 ### CAPITULO III. POR CONSTRUCCIONES Y URBANIZACIONES
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ## TITULO TERCERO. DERECHOS
 
 ### CAPITULO IV. POR CERTIFICACIONES, AUTORIZACIONES, CONSTANCIAS Y REGISTROS
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 42.
 
@@ -681,33 +681,25 @@ La Tesorería Municipal formulará y notificará oportunamente al causante, la l
 
 ### CAPITULO V. POR INSCRIPCIONES Y REFRENDO
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 50.
 
-RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Garza García, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza y Santiago, en materia de rastro, se aplicarán las cuotas siguientes incluyendo servicios de corrales, uso de maquinaria, edificios y refrigeración:
+RASTRO.- En los Municipios de Monterrey, Allende, Guadalupe, Apodaca, Cadereyta, Escobedo, Garza García, Linares, Montemorelos, Sabinas Hidalgo, Santa Catarina, San Nicolás de los Garza y Santiago, en materia de rastro, se aplicarán las cuotas siguientes, incluyendo servicios de corrales, uso de maquinaria, edificios y refrigeración:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+I.- Por cabeza de ganado mayor: $50.00.
 
-I.- Por cabeza de ganado mayor: $35.00.
+II.- Por cabeza de ganado porcino: $30.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+III.- Por cabeza de ganado ovi-caprino: $3.00.
 
-II.- Por cabeza de ganado porcino: $20.00.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-III.- Por cabeza de ganado ovicaprino: $3.00.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-IV.- Por cabrito: $1.00.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
+IV.- Por cabrito: $2.00.
 
 V.- Por ave, con excepción de guajolotes: $1.00.
 
-VI.- Por guajolote: $3.00 (tres pesos).
+VI.- Por guajolote: $3.00.
 
-Los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de las cuotas anteriores.
+En los demás Municipios del Estado se pagará el 50% (cincuenta por ciento) de las cuotas anteriores.
 
 ###### ARTICULO 51.
 
@@ -735,73 +727,55 @@ Cuando se trate de animales incompletos, se causarán los derechos que establece
 
 ### CAPITULO VI. POR EXPEDICION DE CEDULA DE EMPADRONAMIENTO Y PATENTE MERCANTIL
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 52.
 
-Servicios prestados por las oficinas de Obras Públicas o Departamentos competentes, para:
+Servicios Prestados por las oficinas de Obras Públicas o Departamentos competentes, para:
 
 I.- Alineamiento de lotes, que no excedan de 10 -diez- metros de frente a la vía pública, en terrenos ubicados en las cabeceras de los Municipios, se pagarán:
 
-a) En el perímetro urbano del primer cuadro, $150.00.
+a) En el perímetro urbano del primer cuadro, $200.00.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+b) En zonas industriales, $220.00.
 
-b) En zonas industriales $180.00.
+c) En zonas residenciales de primera, $200.00
 
-c) En zonas residenciales de primera, $150.00.
+d) En zonas residenciales de segunda, $120.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+e) En zonas residenciales de tercera, $100.00
 
-d) En zonas residenciales, $90.00.
+f) En zonas residenciales de cuarta, $50.00
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-e) En zonas residenciales de tercera, $65.00.
-
-f) En zonas residenciales de cuarta, $40.00.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-El excedente de diez metros, se pagarán a razón de $6.00 el metro lineal: La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
+El excedente de 10 -diez- metros, se pagarán a razón de $6.00 el metro lineal. La categoría de las zonas residenciales será designada por la Oficina competente, para nuevos fraccionamientos; quedando a juicio del Departamento competente la clasificación de las zonas residenciales que no hayan sido clasificadas.
 
 Los límites del primer cuadro serán los mismos que señala el Reglamento de Tránsito en vigor.
 
 II.- Autorización de demoliciones de fincas, el metro cuadrado de cada una de sus plantas:
 
-TIPO "A" Constituciones con estructura de concreto, $4.00 metro.
+TIPO "A". Construcciones con estructura de concreto, $6.00 metro.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-TIPO "B" Construcciones con estructura de acero, madera y techo de lámina o madera y construcciones con techo de terrado. $4.00 metro cuadrado.
+TIPO "B". Construcciones con estructura de acero, madera y techo de lámina o madera y construcciones con de terrado. $4.00 metro.
 
 III.- Inspecciones y aprobaciones de planos de construcción se cobrará por cada metro cuadrado, en cada una de sus plantas:
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+a) PRIMERA CATEGORIA:- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características: Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito, o de mejor calidad y preparación para clima artificial, $11.00 el metro cuadrado.
 
-a) PRIMERA CATEGORIA.- Comprende edificios destinados a hoteles, salas de reunión, oficinas, negocios comerciales y residencias que tengan de dos o más de las siguientes características: Estructura de concreto reforzado o de acero, muros de ladrillo o similar, lambrín de azulejo, muros interiores con pintura o recubrimiento, pisos de granito, o de mejor calidad y preparación para clima artificial, $11.00 el metro cuadrado.
+b) SEGUNDA CATEGORIA:- Comprende construcciones comerciales o casas habitación, con muros de mampostería, pisos de mosaico de pasta o granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $8.00 el metro cuadrado.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+c) TERCERA CATEGORIA:- Comprende casa-habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón $6.00 el metro cuadrado.
 
-b) SEGUNDA CATEGORIA.- comprende construcciones comerciales o casa habitación, con muros de mampostería, pisos de mosaico de pasta o granito, estucado interior, así como construcciones industriales o bodegas con estructuras de concreto: $8.00 el metro cuadrado.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-c) TERCERA CATEGORIA.- Comprende casa habitación, edificios o conjuntos multifamiliares, considerados dentro de la categoría denominada de interés social, así como los edificios industriales, comerciales y bodegas con estructura de acero o madera y techo de lámina, igualmente las construcciones con cubierta de concreto tipo cascarón $6.00 el metro cuadrado.
-
-d) CUARTA CATEGORIA.- Exenta, que comprende: construcciones de viviendas o cobertizos de madera de tipo provisional.
+d) CUARTA CATEGORIA:- Exenta, que comprende: construcciones de viviendas o cobertizos de madera de tipo provisional.
 
 IV.- Construcción o reconstrucción de banquetas en el sector urbanizado de la ciudad, cuando por no haberla ejecutado el obligado requerido para ello, el trabajo se realice por la oficina de obras competente, se pagarán derechos en función del costo real de la obra.
 
 V.- Otros servicios de la Oficina de Obras Públicas: Los que indique el C. Presidente Municipal, en función de su costo.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 53.
 
-Los derechos especificados e la fracción III del Artículo anterior, tratándose de construcciones especiales que a continuación se indican, se aplicarán del modo siguiente:
-
-a) Por construcciones de primera categoría que excedan de cinco plantas, incluyendo la planta baja, se pagará el 85% de la cuota.
-
-b) Por construcciones de primera categoría, que excedan de diez plantas, incluyendo la planta baja, se pagará el 75% de la cuota.
-
-c) Por consecuencias de primera categoría, que excedan de 20 plantas; incluyendo la planta baja, se pagará el 50% de la cuota.
+Los derechos especificados en la fracción III del Artículo anterior, tratándose de construcciones de casas habitación, edificios o conjuntos multifamiliares considerados de interés social, pagarán el 50% de la cuota.
 
 ###### ARTICULO 54.
 
@@ -863,17 +837,15 @@ A solicitud del fraccionador, la Autoridad competente del Estado, oyendo la opin
 
 ### CAPITULO VII. POR REVISION, INSPECCION Y SERVICIOS
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 57.
 
 Por expedición de certificados, autorizaciones, constancias o registros:
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
 I.- Por registro de profesionales como peritos responsables, $3,000.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-II.- Por expedición de certificado, de $50.00 a $150.00 cada uno, con excepción de los relacionados con la educación.
+II.- Por expedición de certificado, $250.00 por cada uno, con excepción de los relacionados con la educación.
 
 III.- Por expedición de certificados sobre la situación fiscal de causantes inscritos o que hayan estado registrados en la Tesorería Municipal, cuando la solicite el interesado, de $50.00 a $250.00.
 
@@ -881,7 +853,7 @@ IV.- Por registro de plomeros, $100.00.
 
 V.- Por autorización de libros, $1.00 por hoja.
 
-VI.- Por otros autorizaciones y registros, de $100.00 a $500.00.
+VI.- Por otras autorizaciones y registros, de $100.00 a $500.00.
 
 ### CAPITULO VIII. POR EXPEDICION DE LICENCIAS
 
@@ -891,21 +863,21 @@ VI.- Por otros autorizaciones y registros, de $100.00 a $500.00.
 
 Por inscripción al inicio de las actividades que se señalan:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $2,000.00 a $10,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $3,000.00 a $15,000.00.
 
-II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $5,000.00.00 a $20.000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $5,000.00 a $30.000.00.
 
 III.- Establecimientos en que se vendan vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $500.00 a $2.500.00.
 
-IV.- Cantinas, bares, restaurantes-bares, y establecimientos similares, de $1,000.00 a $5,000.00.
+IV.- Cantinas, bares, restaurantes-bares, y establecimientos similares, de $1,00.00 a $5,000.00.
 
-V.- Carnicerías, pescaderías, expendios de mariscos, aves y otras animales, destinados al consumo humano de $50.00 a $500.00.
+V.- Carnicerías, pescaderías, expendios de mariscos, aves y otros animales, destinados al consumo humano de $50.00 a $500.00.
 
 VI.- Molinos de nixtamal, de $30.00 a $100.00.
 
 VII.- Tortillerías, de $60.00 a $200.00.
 
-VIII.- Peluquerías y salones de belleza, de $30.00 a $500.00.
+VIII.- Peluquerías y salones de belleza, de $20.00 a $500.00.
 
 IX.- Salas de Cine, de $500.00 a $1,000.00
 
@@ -913,17 +885,19 @@ X.- Terrazas de cine, de $100.00 a $500.00.
 
 XI.- Radiolas, sinfonolas y tocadiscos, $250.00 por unidad.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
+
 ###### ARTICULO 59.
 
 Por refrendo anual de la licencia, autorización, permiso o concesión, se cobrarán:
 
-I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $1500.00 a $5,000.00.
+I.- Cabarets, centros nocturnos, lugares públicos de reunión con variedad artística, de $2,000.00 a $10,000.00.
 
-II.- Casas de asignación de citas, prostíbulos, hoteles de paso y establecimientos similares, de $3,000.00 a $10,000.00.
+II.- Casas de asignación, de citas, prostíbulos, hoteles de paso y establecimientos similares, de $4,000.00 a $15,000.00.
 
-III.- Cantinas, bares, restaurantes-bares y establecimientos similares, de $500.00 a $3,000.00.
+III.- Cantinas, bares, restaurantes-bares y establecimientos similares de $750.00 a $3,000.00.
 
-IV.- Establecimientos en que se venden vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $300.00 a $1,500.00.
+IV.- Establecimientos en que se venden vinos de mesa y bebidas alcohólicas en botella cerrada, incluyendo mayoristas, de $500.00 a $2,000.00.
 
 V.- Carnicerías, pescaderías, expendios de mariscos, aves o cabritos, de $25.00 a $300.00.
 
@@ -931,11 +905,11 @@ VI.- Molinos de nixtamal, de $25.00 a $250.00.
 
 VII.- Tortillerías, de $10.00 a $60.00.
 
-VIII.- Peluquerías y salones de belleza, de $20.00 a $250.00.
+VIII.- Peluquerías y Salones de Belleza, de $20.00 a $250.00.
 
-IX.- Salas de cine, de $200.00 a $500.00.
+IX.- Salas de cine, de $500.00 a $2,000.00.
 
-X.- Terrazas de cine, de $100.00 a $200.00.
+X.- Terrazas de Cine, de $100.00 a $200.00.
 
 XI.- Radiolas, sinfonolas y tocadiscos, $150.00 por unidad.
 
@@ -945,29 +919,29 @@ XI.- Radiolas, sinfonolas y tocadiscos, $150.00 por unidad.
 
 CEDULA DE EMPADRONAMIENTO.- La Tesorería Municipal expedirá la cédula correspondiente a las personas físicas, morales o unidades económicas sin personalidad jurídica, que realicen actividades comerciales no comprendidas en el Artículo 58 de esta Ley al empadronarse o al hacer el refrendo anual.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+Por la expedición de la cédula de empadronamiento se cobrará una cuota de $200.00.
 
-Por la expedición de la Cédula de empadronamiento se cobrará una cuota de $150.00.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1978)</small>
 
 ###### ARTICULO 61.
 
 PATENTE MERCANTIL.- Quienes realicen actividades de las enumeradas en al Artículo 60 de esta Ley, deberán obtener al empadronarse o al hacer el refrendo anual la placa patente mercantil, según el capital en giro como sigue:
 
-De $ 0.00 a $ 1,000.00 $ 13.00
+De $ 0.00 a $ 1,000.00 $ 15.00
 
-" $ 1,000.00 " $ 5,000.00 $ 25.00
+" $ 1,000.00 " $ 5,000.00 $ 30.00
 
-" $ 5,000.00 " $ 10,000.00 $ 38.00
+" $ 5,000.00 " $ 10,000.00 $ 45.00
 
-" $ 10,000.00 " $ 50,000.00 $ 63.00
+" $ 10,000.00 " $ 50,000.00 $ 115.00
 
-" $ 50,000.00 " $ 100,000.00 $ 94.00
+" $ 50,000.00 " $ 100,000.00 $ 175.00
 
-" $ 100,000.00 " $ 150,000.00 $ 125.00
+" $ 100,000.00 " $ 150,000.00 $ 250.00
 
-" $ 150,000.00 " $ 500,000.00 $ 157.00
+" $ 150,000.00 " $ 500,000.00 $ 400.00
 
-" $ 500,000.00 en adelante $ 250.00
+" $ 500,000.00 en adelante $ 750.00
 
 ### CAPITULO UNICO
 
@@ -975,29 +949,19 @@ De $ 0.00 a $ 1,000.00 $ 13.00
 
 Por revisión, inspección y servicios, que se indican a continuación, se fijan las siguientes cuotas:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1977)</small>
+I.- Por revisión de automóviles, camiones y demás vehículos, hecha por el Departamento de Tránsito en las fechas acordadas por el C. Presidente Municipal, se pagarán $50.00 por cada unidad.
 
-I.- Por la revisión de automóviles, camiones y demás vehículos, hecha por el Departamento de Tránsito en las fechas acordadas por el C. Presidente Municipal, se pagarán $40.00 por cada unidad.
+Se exceptúan de esta revisión los automóviles, camionetas, camiones, trolebuses y microbuses de alquiler para pasajeros, así como las camionetas y camiones de alquiler para carga que presten servicios en los Municipios de Monterrey, Apodaca, Guadalupe, Escobedo, Garza García, Santa Catarina, San Nicolás de los Garza y García, los cuales serán revisados por la Comisión Intermunicipal del Transporte Urbano o por el organismo que llegue a hacer sus veces.
 
-Se exceptúan de esta revisión los automóviles, camionetas, camiones, trolebuses y microbuses de alquiler para pasajeros, así como las camionetas y camiones de alquiler para carga, que presten servicios en los Municipios de Monterrey, Apodaca, Guadalupe, Escobedo, Garza García, Santa Catarina, San Nicolás de los Garza y Villa de García, los cuales serán revisados por la Comisión Intermunicipal del Transporte Urbano o por el organismo que llegue a hacer sus veces.
+II.- Por revisión y trámite de documentos correspondientes a la Alta o Baja de vehículos de motor, se cubrirá un derecho de $50.00.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-II.- Por revisión y trámite de documentos correspondientes a la alta o baja de vehículos de motor, se cubrirá un derecho de $40.00.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
-III.- Por servicios de los Departamento de Tránsito y Médico Municipales, para la expedición de licencias de manejo $90.00 por bienio.
+III.- Por servicios de los Departamento de Tránsito y Médico Municipales, para la expedición de licencias de manejo $100.00 por bienio.
 
 Si el servicio se presta al primer año del bienio, se pagará el bienio completo; si la expedición se hace el segundo año, se pagará únicamente el 50% de la cuota.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1977)</small>
-
 IV.- Por inscripciones que previene el Reglamento de Previsión y Seguridad Social, las cuotas serán fijadas por el Departamento de Obras Públicas Municipales, de $50.00 a $300.00 excepto por la inspección de polvorines, en que la cuota será de $1,000.00.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)</small>
-
-V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $6.00 por cabeza de ganado vacuno, caballar, asnal, mular y porcino; y $2.00 por cabeza de ganado cabrío o lanar.
+V.- Por servicios de inspección sanitaria de animales que se transporten en vehículos de cualquier índole: $6.00 por cabeza de ganado vacuno, caballar, asnal, mular, y porcino; y $2.00 por cabeza de ganado cabrío o lanar.
 
 VI.- Por servicios que presten los Departamentos de Tránsito, Médicos, de Sanidad Municipal y otros, la cuota que fijen el C. Presidente Municipal, según la naturaleza del servicio de que se trate, de $20.00 a $500.00 en forma general.
 
@@ -1280,3 +1244,13 @@ Esta Ley entrará en vigor el día 1o. de Enero de 1978.
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
+
+P.O. 25 DE DICIEMBRE DE 1978.
+
+###### ARTICULO PRIMERO
+
+- Esta Ley entrará en vigor el día 1o. de Enero de 1979.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumpliendo de esta Ley.
