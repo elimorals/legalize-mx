@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "2000-09-13"
+last_updated: "2001-10-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE SEPTIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -697,45 +697,39 @@ La pérdida de registro de un Partido Político no tendrá efectos en relación 
 
 ### CAPITULO VI. DE LOS PROCESOS DE SELECCION INTERNA DE LOS PARTIDOS POLITICOS
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
 
-Artículo 58 bis.- Los partidos políticos con registro en el Estado, podrán solicitar el auxilio y colaboración del Instituto Estatal Electoral, para instrumentar sus procesos de selección interna, tanto para candidatos de elección popular, como para cargos de dirigencia partidista.
-
-El convenio que se celebre entre el Instituto Estatal electoral y el Partido o Partidos solicitantes determinará el modo, tiempo y recursos materiales humanos y financieros que en su caso se requieran, sin considerar la infraestructura del propio instituto que en ningún momento percibirá lucro alguno. Para el cumplimiento de esta función, el Instituto Estatal Electoral considerará en su presupuesto una partida específica.
-
-Durante el año de la elección, el Instituto Estatal Electoral coadyuvará a esta función, hasta 15 días antes del inicio del registro de candidatos, y después de 60 días posteriores al día de la jornada electoral.
+ARTICULO 58 bis.- Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación.
 
 ## TITULO QUINTO. DE LOS DERECHOS, OBLIGACIONES Y PRERROGATIVAS DE LAS ORGANIZACIONES POLITICAS
 
 ### CAPITULO I. DE LOS DERECHOS
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 59.
 
 Los Partidos Políticos constituidos conforme a este Código tendrán los siguientes derechos:
 
-A).- Asumir la corresponsabilidad que la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Morelos y el presente Código les confieren en la preparación, desarrollo y vigilancia del proceso electoral;
+A) Asumir la corresponsabilidad que la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Morelos y el presente Código les confieren en la preparación, desarrollo y vigilancia del proceso electoral;
 
-B).- Gozar de las garantías y prerrogativas que el presente ordenamiento les otorga para realizar sus actividades;
+B) Gozar de las garantías y prerrogativas que el presente ordenamiento les otorga para realizar sus actividades;
 
-C).- Postular Candidatos para cargos de elección popular en los procesos electorales estatales, distritales y municipales;
+C) Postular Candidatos para cargos de elección popular en los procesos electorales estatales, distritales y municipales;
 
-D).- Formar parte de los Organismos Electorales previstos en este Código;
+D) Formar parte de los Organismos Electorales previstos en este Código;
 
-E).- Participar en los procesos electorales conforme a lo dispuesto en la Constitución Federal y la particular del Estado;
+E) Participar en los procesos electorales conforme a lo dispuesto en la Constitución Federal y la particular del Estado;
 
-F).- Obtener las prerrogativas y recibir el financiamiento público que les corresponda en los términos del presente Código;
+F) Obtener las prerrogativas y recibir el financiamiento público que les corresponda en los términos del presente Código;
 
-G).- Ser propietarios, poseedores, administradores o usuarios de los bienes inmuebles indispensables para el cumplimiento de sus funciones;
+G) Ser propietarios, poseedores, administradores o usuarios de los bienes inmuebles indispensables para el cumplimiento de sus funciones;
 
-H).- Establecer relaciones con organizaciones y Partidos Políticos extranjeros siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado Mexicano, del Estado de Morelos y de sus órganos de gobierno;
+H) Establecer relaciones con organizaciones y Partidos Políticos extranjeros siempre y cuando se mantenga en todo momento su independencia absoluta, política y económica, así como el respeto irrestricto a la integridad y soberanía del Estado Mexicano, del Estado de Morelos y de sus órganos de gobierno;
 
-I).- Recibir del Instituto Estatal Electoral su constancia de registro;
+I) Recibir del Instituto Estatal Electoral su constancia de registro;
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
-
-J) Solicitar el auxilio y colaboración del Instituto Estatal Electoral para llevar a cabo sus procesos de selección interna.
-
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
+J) Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación; y
 
 K) Los demás que se deriven de este Código.
 
@@ -791,7 +785,7 @@ II.- Tener acceso en forma gratuita a los medios de comunicación social de los 
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-III.- Gozar del régimen fiscal que se establece en este Código y en las leyes de la materia. En ningún caso los Partidos Políticos serán sujetos de los impuestos y derechos estatales y municipales que se causen por el desarrollo de sus actividades, excepto en tratándose de las contribuciones sobre la propiedad inmobiliaria y su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles.
+III.- Gozar del régimen fiscal que se establece en este Código y en las leyes de la materia. En ningún caso los Partidos Políticos serán sujetos de los impuestos y derechos estatales y municipales que se causen por el desarrollo de sus actividades, excepto en tratándose de las contribuciones sobre la propiedad inmobiliaria y su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles;
 
 La no sujeción de impuestos o derechos, no excluyen a los Partidos Políticos del cumplimiento de las demás obligaciones y las demás disposiciones gubernativas para permisos, licencias y autorizaciones;
 
@@ -895,37 +889,25 @@ El monto total del financiamiento público que se destine en las actividades men
 
 Cada Partido Político podrá recibir previa comprobación, el importe que resulte de dividir la cantidad total a distribuir, entre el número de Partidos Políticos registrados. La suma no reclamada por los Partidos Políticos se distribuirá conforme al mismo método del párrafo anterior.
 
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
 ###### ARTICULO 69.
 
 El financiamiento público, en efectivo o en especie, que reciban los Partidos Políticos con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá repartirse conforme a las siguientes reglas:
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
-
-I.- El 10% de la cantidad total se distribuirá en forma igualitaria entre todos los partidos políticos registrados. El 40% de cantidad total se distribuirá para aquellos partidos que hayan obtenido más del 3% de la votación de diputados de mayoría relativa, el cual se distribuirá en forma igualitaria, y el 50% restante de la cantidad total se distribuirá en proporción a los votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior, de la cual quedarán excluidos aquello (sic) partidos que no hayan obtenido más del 3%;
-
-(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+I.- El 10% de la cantidad total se distribuirá en forma igualitaria entre todos los partidos políticos registrados. El 40% de cantidad total se distribuirá para aquellos partidos que hayan obtenido más del 3% de la votación de diputados de mayoría relativa, el cual se distribuirá en forma igualitaria, y el 50% restante de la cantidad total se distribuirá en proporción a los votos que hubieren obtenido en la elección de diputados de mayoría relativa inmediata anterior, de la cual quedarán excluidos aquello partidos que no hayan obtenido más del 3%.
 
 II.- En caso de coalición, ésta será considerada como un solo partido político, en los términos que establezca el convenio de coalición;
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+III.- durante los procesos electorales el financiamiento público equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese año;
 
-III.- Durante los procesos electorales el financiamiento público equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese año;
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
-
-IV.- A los Partidos Políticos que participen por primera vez en el proceso electoral, conforme a las disposiciones de este Código, se les otorgará el uno por ciento del total del financiamiento público en actividades ordinarias; y otro tanto igual en años en que se desarrolle el proceso electoral;
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+IV.- A los Partidos Políticos que participen por primera vez en el proceso electoral, conforme a las disposiciones de este Código, se les otorgará el uno por ciento del total del financiamiento público en actividades ordinarias; y otro tanto igual en años que se desarrolle el proceso electoral;
 
 V.- El Consejo Estatal Electoral aprobará el calendario presupuestal conforme al cual deberá otorgarse a los Partidos Políticos con registro el financiamiento correspondiente; y
 
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
-
 VI.- El financiamiento público, en efectivo o en especie, otorgado a cada Partido Político para sus actividades ordinarias le será entregado al representante legalmente acreditado del Partido de que se trate.
 
-> <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
-
-Del financiamiento público, los partidos políticos destinarán el 25% para actividades de capacitación y desarrollo democrático, el 25% para actividades de información y difusión política y el 50% restante para actividad de fortalecimiento de su organización política, misma que serán sujetas de comprobación ante el Instituto Electoral; de no cumplirse esta disposición el Partido Político será sancionado en el ejercicio de gasto siguiente descontándole porcentaje de prerrogativa que no destinó a estas actividades sustantivas.
+De no cumplirse esta disposición el Partido Político será sancionado en el ejercicio de gasto siguiente descontándole porcentaje de prerrogativa que no destinó a estas actividades sustantivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -1045,7 +1027,9 @@ Para el desempeño de sus actividades el Instituto contará con el personal cali
 
 La organización, dirección y vigilancia de los procesos plebiscitarios y de referéndum estarán a cargo del Instituto Estatal Electoral, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, en los términos que establecen la Constitución del Estado y la ley de la materia.
 
-###### ARTICULO 77.
+> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2001)</small>
+
+###### ARTÍCULO 77.
 
 Son fines del Instituto Estatal Electoral:
 
@@ -1059,17 +1043,13 @@ IV.- Garantizar la celebración periódica y pacífica de las elecciones para re
 
 V.- Velar por la autenticidad y efectividad del sufragio;
 
-VI.- Coadyuvar en la promoción y difusión de la cultura política; y
+VI.- Coadyuvar en la promoción y difusión de la cultura política;
 
-VII.- En su caso, celebrar convenios con las Autoridades Electorales de la Federación, que coadyuven con el ejercicio de sus funciones, entre los que podrá ser objeto, el Padrón Electoral del Estado y las listas nominales de electores en la Entidad.
+VII.- En su caso, celebrar convenios con las Autoridades Electorales de la Federación, que coadyuven con el ejercicio de sus funciones, entre los que podrá ser objeto, el Padrón Electoral del Estado y las listas nominales de electores en la Entidad;
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+VIII. Garantizar la transparencia de los procesos de plebiscito y referéndum de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y la Ley de la materia; y
 
-VIII.- Garantizar la transparencia de los procesos de plebiscito y el referéndum de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y la ley de la materia.
-
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2000)</small>
-
-IX.- Coadyuvar con los partidos políticos en sus procesos de selección interna para cargos directivos o de elección popular.
+IX.- Declarado invalido por resolución de la Suprema Corte de Justicia de la Nación.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
@@ -4652,3 +4632,7 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo de Estado, para los
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el primero de enero de 2001, debiéndose publicar en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 3 DE OCTUBRE DE 2001.
+
+UNICA.- Remítase el presente Decreto al Gobernador Constitucional del Estado a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
