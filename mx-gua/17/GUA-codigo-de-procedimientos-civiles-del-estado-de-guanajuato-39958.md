@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1997-02-11"
+last_updated: "1997-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE NOVIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ABRIL DE 1997.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -177,25 +177,23 @@ El tribunal que resuelva la incompetencia declarará de oficio la nulidad.
 
 Competencia por materia.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 1991)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 23.
 
-Los Jueces Menores son competentes para conocer exclusivamente de negocios, contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por quinientos el salario mínimo general diario más alto vigente en el Estado de Guanajuato.
+Los Jueces Menores son competentes para conocer exclusivamente de negocios contenciosos cuya cuantía no sea mayor de la cantidad que resulte de multiplicar por dos mil el salario mínimo diario vigente en el Estado de Guanajuato.
 
-Cuando se modifique la competencia en razón de la cuantía, seguirán conociendo de los asuntos en trámite los jueces ante los que se plantearon.
-
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 24.
 
-Los Jueces de Primera Instancia conocerán de todos los negocios no comprendidos en el artículo anterior, de los no valuables en dinero y de los recursos contra las resoluciones de los Jueces Menores.
+Los Jueces de Partido conocerán de todos los negocios no comprendidos en el artículo anterior y de los no valuables en dinero.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 25.
 
-Las Salas del Supremo Tribunal conocerán de la segunda instancia en los negocios de la competencia de los Jueces de Primera Instancia.
+Las Salas del Supremo Tribunal de Justicia conocerán de la segunda instancia tanto en los negocios de la competencia de los Jueces de Partido, como de los Menores.
 
 ###### Art. 26.
 
@@ -1533,11 +1531,11 @@ Cuando el auto contra el cual se haya admitido el recurso de apelación en ambos
 
 En los autos que queden en el tribunal no podrá nunca dictarse resolución alguna que modifique, revoque o en otra forma afecte lo acordado en la resolución apelada, entre tanto que el recurso este pendiente, para lo cual se dejará copia de ella.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1981)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 243.
 
-Sólo son apelables las sentencias dictadas, en primera instancia, por los jueces de partido.
+Son apelables las sentencias dictadas, en primera instancia, tanto por los jueces de partido como por los menores.
 
 ###### Art. 244.
 
@@ -2653,11 +2651,11 @@ El condenado podrá proponer fianza para garantizar el cumplimiento de lo senten
 
 El tercero que considere perjudicados sus derechos al ejecutarse la sentencia, puede ocurrir al juez, quien citará al promovente y a las partes a una audiencia verbal para dentro de tres días, y después de recibir las pruebas que se presenten y de oír a los interesados por una sola vez y sin exceder de diez minutos cada uno, decidirá en el mismo acto si subsiste o no el secuestro o el acto de ejecución, sin resolver sobre la propiedad de la cosa, ni sobre otros derechos controvertidos.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 1997)</small>
 
 ###### Art. 437.
 
-Las sentencias de los Jueces Menores son revisables a petición del interesado. Conocerán de la revisión los Jueces de Primera Instancia, los cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
+Las sentencias de los Jueces Menores son recurribles a petición del interesado. Conocerán de la apelación las Salas del Supremo de Justicia, las cuales dispondrán que se practiquen las diligencias que estimen necesarias para resolver sin sujetarse a las formalidades establecidas para los juicios de su competencia, sino de la manera que consideren bastante para asegurar un fallo justo, y deberán resolver el recurso en un plazo máximo de quince días.
 
 > <small>(REFORMADO, P.O. 7 DE AGOSTO DE 1987)</small>
 
@@ -5050,3 +5048,13 @@ P.O. 11 DE FEBRERO DE 1997.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL CUARTO DIA SIGUIENTE AL DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 1 DE ABRIL DE 1997.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos del artículo 23 del Código de Procedimientos Civiles que se reforma, los asuntos que se encuentren en trámite al momento de entrada en vigor del presente Decreto, continuarán substanciándose ante el Juzgado que este conociendo de los mismos.
