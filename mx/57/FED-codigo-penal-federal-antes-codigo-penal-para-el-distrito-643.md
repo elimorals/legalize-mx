@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1945-05-08"
+last_updated: "1945-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE MAYO DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE MAYO DE 1945.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1450,6 +1450,8 @@ Al empleado de un telégrafo, teléfono o estación inalámbrica que conscientem
 Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
 ## TITULO SEPTIMO. Delitos Contra la Salud
+
+> <small>N. DE E. POR DECRETO PUBLICADO EN EL D.O.F. DE 12 DE MAYO DE 1945, SE ESTABLECE QUE EN TANTO DURE LA SUSPENSION DE GARANTIAS INDIVIDUALES VIGENTE EN LA REPUBLICA SE DECLARA LEY DE EMERGENCIA EL CAPITULO 1°, TITULO 7°, LIBRO 2°, DEL CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES Y FEDERAL EN TODA LA REPUBLICA EN MATERIA DE ESTE FUERO, RELATIVO A LA TENENCIA Y TRAFICO DE ENERVANTES. EL ARTICULO SEGUNDO DEL DECRETO SEÑALA QUE LOS INDIVIDUOS QUE INFRINJAN DICHO CAPITULO, SUFRIRAN LAS PENAS QUE EL MISMO ESTABLECE, PERO SUJETOS A LO DISPUESTO POR LAS LEYES DE PREVENCIONES GENERALES RELATIVAS A LA SUSPESION DE GARANTIAS, POR LO QUE HACE A LA PRIVACION DE SU LIBERTAD.</small>
 
 > <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
@@ -3226,3 +3228,7 @@ D.O.F. 8 DE MAYO DE 1945.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor tres días después de la fecha en que se haya publicado en el "Diario Oficial".
+
+D.O.F. 12 DE MAYO DE 1945.
+
+El presente Decreto surtirá sus efectos a partir de su publicación en el "Diario Oficial" de la Federación.
