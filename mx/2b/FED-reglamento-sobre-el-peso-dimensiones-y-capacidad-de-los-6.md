@@ -4,7 +4,7 @@ identifier: "FED-reglamento-sobre-el-peso-dimensiones-y-capacidad-de-los-6"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-01-26"
-last_updated: "1994-01-26"
+last_updated: "1996-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-01-24"
 
 REGLAMENTO SOBRE EL PESO, DIMENSIONES Y CAPACIDAD DE LOS VEHICULOS DE AUTOTRANSPORTE QUE TRANSITAN EN LOS CAMINOS Y PUENTES DE JURISDICCION FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 7 DE MAYO DE 1996.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el miércoles 26 de enero de 1994.
 
@@ -41,9 +41,13 @@ El presente Reglamento tiene por objeto regular el peso, dimensiones y capacidad
 
 Para efectos del presente Reglamento se entenderá por:
 
-AUTOTANQUE Vehículo cerrado, automotor,
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
-semirremolque o remolque,
+AUTOTANQUE Vehículo cerrado, camión
+
+tanque, semirremolque o
+
+remolque tipo tanque;
 
 destinado al transporte de
 
@@ -51,47 +55,43 @@ líquidos, gases licuados o
 
 sólidos en suspensión.
 
-CAMINOS Y
+CAMINOS Y PUENTES
 
-PUENTES DE
-
-JURISDICCION
+DE JURISDICCION
 
 FEDERAL Vías generales de comunicación
 
 a que se refiere el artículo 2o.
 
-fracciones I y V de la Ley de
+fracciones I y V de la Ley de Caminos,
 
-Caminos, Puentes y
+Puentes y Autotransporte Federal.
 
-Autotransporte Federal.
+CAPACIDAD Número máximo de personas, más
 
-CAPACIDAD Número máximo de personas,
-
-más peso del equipaje y paquetería,
+peso del equipaje y paquetería,
 
 que un vehículo destinado al servicio
 
-de pasajeros puede transportar
+de pasajeros puede transportar y
 
-y para el cual fue diseñado por el
+para el cual fue diseñado
 
-fabricante o reconstructor.
+por el fabricante o reconstructor.
 
-CARGA DE
+CARGA DE GRAN
 
-GRAN PESO O
+PESO O
 
-VOLUMEN Carga cuyo peso adicionado al
+VOLUMEN Carga cuyo peso adicionado
 
-peso vehicular rebasa los límites
+al peso vehicular rebasa los
 
-establecidos para el peso bruto
+límites establecidos para el peso
 
-vehicular en este Reglamento o
+bruto vehicular en este Reglamento
 
-carga cuyas dimensiones rebasan
+o carga cuyas dimensiones rebasan
 
 las máximas autorizadas, por lo que
 
@@ -105,57 +105,63 @@ PESO UTIL Peso máximo de la carga que un
 
 vehículo puede transportar en
 
-condiciones de seguridad y para
+condiciones de seguridad y para el
 
-el cual fue diseñado por el fabricante
+cual fue diseñado por el fabricante
 
 o reconstructor.
 
 CARRO POR
 
-ENTERO Cuando la totalidad de la carga
+ENTERO Cuando la totalidad de la carga que
 
-que se transporta en un vehículo
+se transporta en un vehículo es
 
-es propiedad de un solo usuario.
+propiedad de un solo usuario.
 
 CONSTANCIA DE
 
 CAPACIDAD Y
 
-DIMENSIONES O
+DIMENSIONES
 
-DE PESO Y
+O DE PESO Y
 
 DIMENSIONES Documento suscrito por el
 
-fabricante o reconstructor en el que
+fabricante o reconstructor en el
 
-se hace constar el peso vehicular y
+que se hace constar el peso
 
-carga útil o peso vehicular y la
+vehicular y carga útil o peso vehicular
 
-capacidad, así como las dimensiones
+y la capacidad, así como las
 
-del vehículo y tipo de llantas destinado
+dimensiones del vehículo y tipo de
 
-al transporte de carga o de pasajeros.
+llantas destinado al transporte de
 
-DIMENSIONES Alto, ancho y largo expresado en
+carga o de pasajeros.
 
-metros, de un vehículo en condiciones
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
-de operación incluyendo la carga.
+DIMENSIONES Alto, ancho y largo máximo
+
+expresado en metros, de un
+
+vehículo en condiciones de operación
+
+incluyendo la carga.
 
 FABRICANTE O
 
 RECONSTRUCTOR Persona física o moral que
 
-diseña, fabrica, reconstruye o
+diseña, fabrica, reconstruye o modifica
 
-modifica vehículos de autotransporte
+vehículos de autotransporte de pasajeros,
 
-de pasajeros, de turismo o carga.
+de turismo o carga.
 
 LEY Ley de Caminos, Puentes y
 
@@ -181,15 +187,17 @@ lineamientos o recomendaciones
 
 de organismos dedicados a la
 
-normalización nacional o
+normalización nacional o internacional.
 
-internacional.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
 PESO Fuerza que ejerce sobre la
 
 superficie terrestre un vehículo
 
-expresado en kilogramos.
+expresado en kilogramos-fuerza
+
+(Kgf).
 
 PESO BRUTO
 
@@ -209,13 +217,13 @@ al servicio de pasajeros.
 
 PESO
 
-VEHICULAR Peso de un vehículo o combinación
+VEHICULAR Peso de un vehículo o
 
-vehicular con accesorios, en
+combinación vehicular con
 
-condiciones de operación, sin
+accesorios, en condiciones de
 
-carga.
+operación, sin carga.
 
 PRESION DE
 
@@ -235,23 +243,23 @@ que determinan el peso y
 
 dimensiones de un vehículo.
 
-SECRETARIA Secretaría de Comunicaciones y
+SECRETARIA Secretaría de Comunicaciones
 
-Transportes.
+y Transportes.
 
-TRANSPORTISTA Persona física o moral que preste
+TRANSPORTISTA Persona física o moral que
 
-servicio público o privado de
+preste servicio público o privado
 
-autotransporte de pasajeros, de
+de autotransporte de pasajeros,
 
-turismo o de carga.
+de turismo o de carga.
 
-TRACTOCAMION Vehículo automotor destinado a
+TRACTOCAMION Vehículo automotor destinado
 
-soportar y arrastrar semirremolques
+a soportar y arrastrar
 
-y remolques.
+semirremolques y remolques.
 
 USUARIO Persona física o moral que contrate
 
@@ -269,15 +277,21 @@ Las características o especificaciones de los vehículos se emitirán como norm
 
 ### CAPITULO II. DEL PESO Y DIMENSIONES DE LOS VEHICULOS
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 5o.
 
-Los pesos y dimensiones máximos a que se sujetarán los vehículos según el tipo de camino por el que transiten, se ajustarán a lo que se establece en la norma respectiva. En ningún caso la presión de inflado de las llantas será superior a 6 kgf/cm² en frío.
+Los pesos y dimensiones máximos de los vehículos según el tipo de camino por el que transiten y la presión de inflado de las llantas, se ajustarán a las normas correspondientes expedidas de conformidad con lo previsto en la Ley Federal sobre Metrología y Normalización.
+
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 6o.
 
-La clasificación de los caminos y puentes para los efectos de este Reglamento, se sujetará a lo establecido en el Apéndice respectivo. Se permitirá la circulación de los vehículos provenientes de un camino de mayor clasificación, con las especificaciones correspondientes a éste, por uno de menor clasificación, siempre y cuando la longitud recorrida en el de menor clasificación no sea mayor que 50 Km.
+La clasificación de los caminos y puentes para los efectos de este Reglamento, se sujetará a lo establecido en el Apéndice del mismo. Se permitirá la circulación de los vehículos provenientes de un camino de mayor clasificación, con las especificaciones correspondientes a éste, por uno de menor clasificación en ambas direcciones, siempre y cuando la longitud recorrida en cada dirección no sea mayor a 150 Km.
 
-El ejecutivo Federal, a propuesta de la Secretaría modificará la clasificación de los caminos y puentes de jurisdicción federal. La propuesta estará basada en la norma oficial mexicana que establezca los lineamientos para la clasificación de las carreteras y en la cual se considerarán las características geométricas, su construcción y conservación, la estabilidad de los puentes, la relación peso/potencia, el peso y dimensiones de los vehículos que puedan circular por ellos y otras características de los vehículos que se requieran para su tránsito seguro; así como los requerimientos económicos y de comunicación del país. En ningún caso se podrán rebasar los pesos de diseño, las dimensiones o disminuir el tipo y número de llantas establecidas en la constancia de peso y dimensiones o de capacidad y dimensiones.
+Las industrias cuyas instalaciones se encuentren ubicadas a una distancia de la red troncal superior a los 150 Km., deberán solicitar autorización de la Secretaría para que su carga pueda ser trasladada en caminos de menor clasificación por una longitud mayor a ésta.
+
+La Secretaría podrá modificar, reducir o ampliar la clasificación de los caminos y puentes de jurisdicción federal, que contempla el Apéndice de este Reglamento, cuando así se requiera, tomando en cuenta las características de tránsito seguro, así como los requerimientos económicos y de comunicación del país.
 
 ###### ARTICULO 7o.
 
@@ -287,15 +301,21 @@ La Secretaría en caso de que las condiciones técnicas de los caminos y puentes
 
 La Secretaría vigilará e inspeccionará que la capacidad, peso bruto vehicular y dimensiones de los vehículos que transiten en los caminos y puentes de jurisdicción federal, cumplan con lo establecido en este Reglamento.
 
-La revisión se realizará en básculas que para tal efecto se establezcan, los cuales podrán ser operados por la Secretaría o terceros autorizados en los términos de ley.
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
+La revisión del peso y dimensiones se realizará en operativos de control que autorice la Secretaría o en los centros de control de peso y dimensiones acreditados que para tal efecto se establezcan, los cuales podrán ser operados por la propia Secretaría o bien por terceros autorizados en los términos de las disposiciones legales vigentes aplicables en la materia.
 
 ###### ARTICULO 9o.
 
 Los pesos de los vehículos y sus dimensiones, según su tipo, se sujetarán a lo establecido en este Reglamento, para cada uno de los tipos de carreteras de acuerdo a la clasificación contenida en el Apéndice a que se refiere el artículo 6o.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 10.
 
-El usuario del autotransporte de carga, cuando contrate el carro por entero, será responsable en los términos pactados en la carta porte, al igual que el transportista de que se cumplan con el peso y dimensiones establecidos en la norma correspondiente o en la autorización expedida por la Secretaría para el transporte de objetos indivisibles de gran peso o volumen, según sea el caso.
+El usuario del autotransporte de carga, cuando contrate carro por entero, será solidariamente responsable con el autotransportista de que su carga y el vehículo que la transporta, cumplan con el peso y dimensiones establecidos en este Reglamento y en la norma correspondiente. Esta responsabilidad solidaria deberá pactarse en el contrato que se celebre entre el usuario y el autotransportista y establecerse en la carta de porte.
+
+Para tal efecto, el usuario deberá declarar el peso de su carga en la carta de porte, y el autotransportista anexará a ésta una constancia de peso y dimensiones en la que se indique la capacidad de carga útil del vehículo.
 
 ### CAPITULO III. DE LA CONSTANCIA DE CAPACIDAD Y DIMENSIONES O DE PESO Y DIMENSIONES
 
@@ -373,51 +393,65 @@ I.- Por infracción al artículo 14, con multa por el equivalente a 100 días;
 
 II.- Por transitar con dimensiones en exceso a las autorizadas en este Reglamento:
 
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
+
 A.- ALTURA MULTA
 
-Hasta 10 cm. 100 días.
+Hasta 10 cm. 25 días.
 
-Más de 10 cm. y hasta 15 cm. 200 días.
+Más de 10 cm. y hasta 15 cm. 50 días.
 
-Más de 15 cm. hasta 20 cm. 300 días.
+Más de 15 cm. hasta 20 cm. 75 días.
 
-Más de 20 cm. 400 días.
+Más de 20 cm. 100 días.
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
 
 B.- ANCHO MULTA
 
-Hasta 10 cm. 100 días.
+Hasta 10 cm. 25 días.
 
-Más de 10 cm. y hasta 15 cm. 200 días.
+Más de 10 cm. y hasta 15 cm. 50 días.
 
-Más de 15 cm. y hasta 20 cm. 300 días.
+Más de 15 cm. y hasta 20 cm. 75 días.
 
-Más de 20 cm. y hasta 25 cm. 600 días.
+Más de 20 cm. y hasta 25 cm. 150 días.
 
-Más de 25 cm. 1000 días.
+Más de 25 cm. 250 días.
+
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
 
 C.- LARGO MULTA
 
-Hasta 50 cm. 100 días.
+Hasta 50 cm. 25 días.
 
-Más de 50 cm. y hasta 100 cm. 200 días.
+Más de 50 cm. y hasta 100 cm. 50 días.
 
-Más de 100 cm. 1000 días.
+Más de 100 cm. 250 días.
 
 Estas sanciones se refieren a cargas sobresalientes.
 
 En ningún caso los vehículos podrán transitar con dimensiones intrínsecas excedidas de lo autorizado.
 
-III.- Por infracción al artículo al artículo 15, cuando la carga o parte de ésta se caiga del vehículo, por causas distintas a un accidente de tránsito, multa de 100 a 300 días. Si se trata de substancias peligrosas, sujetas al Reglamento correspondiente, 600 días;
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
+
+III.- Por infracción al artículo al artículo 15, cuando la carga o parte de ésta se caiga del vehículo por causas distintas a un accidente de tránsito, multa de 100 a 300 días;
 
 IV.- Por transitar con exceso de peso o con peso por eje o pesos brutos vehiculares en exceso de los autorizados en la norma, o de los señalados en la constancia de capacidad y dimensiones, o de peso y dimensiones:
 
+> <small>(REFORMADA, D.O.F. 7 DE MAYO DE 1996)</small>
+
 PESO MULTA
 
-Hasta 300 Kg. 300 días.
+De 50 hasta 500 Kgf 25 días.
 
-Más de 3000 Kg. por cada
+De 501 hasta 2 000 Kgf 100 días.
 
-1000 Kg. o fracción. 150 días.
+De 2001 hasta 3 000 Kgf 150 días.
+
+Más de 3 001 Kgf, por cada
+
+1 000 Kgf o fracción. 75 días.
 
 V.- Con multa equivalente a 1000 días por:
 
@@ -431,17 +465,29 @@ d) Infracción al artículo 13.
 
 e) Efectuar el propietario de la carga una declaración falsa sobre el peso de la misma.
 
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
+f) Modificar las especificaciones establecidas en la constancia de capacidad y dimensiones para el transporte de personas, o de peso y dimensiones para el traslado de carga, sin obtener la autorización previa del fabricante o reconstructor de la unidad de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
+g) No expedir el fabricante o reconstructor de la unidad, la constancia de capacidad y dimensiones para el transporte de personas, o de peso y dimensiones para el traslado de carga, o bien por expedirla con la información que no se adecue a las especificaciones reales del vehículo, o a la norma correspondiente.
+
 VI.- Por transitar sin el permiso especial a que se refiere el artículo 16, con multa de 500 a 2000 días.
 
 Las sanciones previstas en este Reglamento, no eximen al infractor del pago de los daños y perjuicios ocasionados a las vías generales de comunicación y otros bienes de la Nación o a terceros.
 
+> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 1996)</small>
+
 ###### ARTICULO 21.
 
-Cuando un vehículo exceda del 10% del peso autorizado en la norma a que hace referencia el artículo 5o. del presente Reglamento, se impedirá su circulación hasta que disminuya su carga al peso autorizado, independientemente de las sanciones a que se haya hecho acreedor el transportista. Cuando transporten materiales peligrosos no se detendrá la unidad y se le conducirá al lugar de origen o destino más cercano para el transbordo de la carga.
+Cuando un vehículo exceda del 10% del peso autorizado en la norma a que hace referencia el artículo 5o. del presente Reglamento, se impedirá su circulación hasta que disminuya su carga al peso autorizado, independientemente de las sanciones a que se haya hecho acreedor el transportista. Cuando se transporten materiales peligrosos o productos perecederos no se detendrá la unidad y se le conducirá al lugar de origen o destino más cercano para el transbordo de la carga, sin perjuicio de las sanciones que resulten aplicables.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 7 DE MAYO DE 1996)</small>
 
 ###### ARTICULO 22.
 
-Al transportista que durante el período de dos año reincida por primera vez en la misma infracción, se le aplicará la sanción hasta por el doble de la multa que corresponda; cuando reincida por segunda ocasión en la misma infracción, la Secretaría podrá revocar el permiso para la prestación del servicio público federal.
+Al transportista que durante el período de un año reincida por primera vez en la misma infracción, se le aplicará la sanción por el doble de la multa que corresponda; cuando reincida por segunda ocasión en la misma infracción y en el mismo período, la Secretaría revocará el permiso que le fue otorgado a la unidad respectivo.
 
 Para los efectos del presente Capítulo, las sanciones se calificarán tomando en cuenta la gravedad de la falta, los daños causados y, en su caso, la reincidencia.
 
@@ -451,17 +497,9 @@ PRIMERO.- El presente Reglamento entrará en vigor a los treinta días siguiente
 
 I. Las disposiciones sobre las dimensiones de los vehículos que se establezcan en la norma respectiva, entrarán en vigor treinta días después de haberse publicado ésta en el Diario Oficial de la Federación;
 
-II. Las disposiciones sobre el peso de los vehículos destinados al transporte de carga seca, que se establezcan en la norma respectiva, entrarán gradualmente en vigor de conformidad con el calendario que se muestra en las tablas de la 1 a la 3, que corresponden a los diferentes tipos de camino; y
+II. (DEROGADA, D.O.F. 7 DE MAYO DE 1996)
 
-III. Los autotanques, respecto de los cuales el peso bruto vehicular máximo autorizado, entrará en vigor gradualmente en un lapso de cuatro años, de conformidad con lo establecido en la norma correspondiente y de acuerdo con lo que a continuación se indica:
-
-a) A partir del 1o. de Noviembre de 1994, para los modelos 1977 y anteriores.
-
-b) A partir del 1o. de Noviembre de 1995, para los modelos 1978 a 1981.
-
-c) A partir del 1o. de Noviembre de 1996, para los modelos 1982 a 1984.
-
-d) A partir del 1o. de Noviembre de 1997, los modelos 1985 a 1994.
+III. (DEROGADA, D.O.F. 7 DE MAYO DE 1996)
 
 Todos los vehículos dados de alta a partir del 1o. de Noviembre de 1994, deberán cumplir con lo que se establece en la norma respectiva.
 
@@ -532,3 +570,31 @@ red alimentadora D
 TIPIFICACION DE CARRETERAS
 
 (VEASE ARCHIVO ANEXO)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LAS REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 7 DE MAYO DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>(F. DE E., D.O.F. 10 DE MAYO DE 1996)</small>
+
+SEGUNDO.- Tratándose del transporte privado de carga seca, a las industrias que requieran trasladar un mayor peso bruto vehicular que el previsto en la norma respectiva, se le permitirá un incremento hasta del 35% del peso, respecto al que establece la norma correspondiente. La disposición a que se refiere este párrafo estará vigente hasta el 31 de octubre de 1996, y posterior a esta fecha el peso bruto vehicular se deberá ajustar a la citada norma.
+
+TERCERO.- El peso bruto vehicular máximo autorizado a los autotanques en la norma respectiva, entrará en vigor en un lapso de cuatro años, de acuerdo con lo que a continuación se indica:
+
+a) A partir del 1 de noviembre de 1996, para los modelos 1977 y anteriores.
+
+b) A partir del 1 de noviembre de 1997, para los modelos 1978 a 1981.
+
+c) A partir del 1 de noviembre de 1998, para los modelos 1982 a 1984.
+
+d) A partir del 1 de noviembre de 1999, para los modelos 1985 a 1995.
+
+CUARTO.- En tanto no se instalen los centros de control a que alude el artículo 8o. del Reglamento, la verificación del peso se efectuará tomando en cuenta el peso de la carga que se declare en la carta de porte, más el peso vehicular (peso vacío) de la unidad de que se trate, de conformidad con el procedimiento que la Secretaría emita para los operativos respectivos.
+
+QUINTO.- Los camiones unitarios de cuatro ejes (C-4) sólo podrán circular por los caminos y puentes de esta jurisdicción federal, hasta el 31 de octubre de 1996. Durante este período se deberán ajustar al peso y dimensiones que se indican en las tablas 1 y 2 siguientes:
+
+(VEASE ARCHIVO ANEXO)
+
+SEXTO.- Se derogan todas las disposiciones reglamentarias, administrativas y técnicas que se opongan al presente Decreto.
