@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-residuos-solidos-de-la-ciudad-de-mexico-antes-ley-de-301
 country: "mx"
 rank: "ley"
 publication_date: "2003-04-22"
-last_updated: "2003-04-22"
+last_updated: "2004-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30102&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2003-04-05"
 
 LEY DE RESIDUOS SOLIDOS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE FEBRERO DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 22 de abril de 2003.
 
@@ -874,17 +874,33 @@ PRIMERO - Esta Ley entrará en vigor el día siguiente de su publicación en la 
 
 SEGUNDO.- Se abroga el Reglamento para el Servicio Público de Limpia en el Distrito Federal, publicado en el Diario Oficial de la Federación, el 27 de julio de 1989 y se derogan todas las disposiciones que se opongan a la presente Ley. El Reglamento para el Servicio Público de Limpia en el Distrito Federal permanecerá vigente en todo lo que no se oponga a la presente Ley y en tanto el Gobierno del Distrito Federal expide el Reglamento de la presente Ley.
 
-TERCERO.- Las disposiciones que esta Ley establece en materia de separación de los residuos sólidos, recolección selectiva de dichos residuos y la instrumentación de planes de manejo aplicarán a partir del primero de enero de 2004. En consecuencia, las autoridades competentes, entrada en vigor la presente Ley, comenzará (sic) a implantar medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria y llevar a cabo campañas masivas de difusión de los contenidos de la presente Ley.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-CUARTO.- La Secretaría de Obras y Servicios tendrá un plazo de 180 días naturales a partir de la entrada en vigor de la presente Ley para elaborar el registro de los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos.
+TERCERO.- Las disposiciones que esta Ley establece en materia de separación de los residuos sólidos, recolección selectiva de dichos residuos y la instrumentación de planes de manejo, así como las sanciones previstas a este respecto en el artículo 69 de la presente Ley se aplicarán a partir del 1 de octubre de 2004. En consecuencia, la Secretaría, la Secretaría de Obras y Servicios y las Delegaciones iniciarán paulatinamente a partir del 1 de enero de 2004 la implantación de medidas y mecanismos tendientes a organizar la estructura e instalar la infraestructura necesaria para cumplir estas disposiciones e iniciarán una campaña masiva para difundir entre la población las disposiciones de esta Ley y educar cívicamente a la población en cuanto a las ventajas de su cumplimiento, de acuerdo a los recursos presupuestales asignados.
+
+El calendario de aplicación de estas disposiciones deberá publicarse en el programa de gestión integral de residuos sólidos al que se refiere el artículo 11 de la presente Ley, durante el primer semestre de 2004.
+
+Para la elaboración de dicho calendario de aplicación y vigilar el cumplimiento de sus acuerdos, se constituirá un Comité Técnico conformado por siete Diputados de la Asamblea Legislativa designados por la Comisión de Gobierno y por un representante de cada una de las siguientes entidades: Secretaría de Gobierno, Secretaría del Medio Ambiente, Secretaría de Obras y Servicios, Secretaría de Salud y Procuraduría Ambiental y de Ordenamiento Territorial.
+
+Dicho Comité Técnico efectuará su primera sesión durante los primeros quince días del mes de enero de 2004, a convocatoria de la Secretaría del Medio Ambiente del Gobierno del Distrito Federal.
+
+Los días 28 de febrero, 30 de abril y 30 de junio de 2004 la Secretaría informará a la Asamblea Legislativa del Distrito Federal de los avances concretos realizados en la aplicación y promoción de los programas mencionados.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+CUARTO.- La Secretaría de Obras y Servicios deberá concluir a más tardar el 30 de abril de 2004 la elaboración del registro de los establecimientos mercantiles y de servicios relacionados con la recolección, manejo, tratamiento, reutilización, reciclaje y disposición final de los residuos sólidos.
 
 QUINTO.- En tanto se expiden las disposiciones administrativas que se deriven de la presente Ley, seguirán en vigor las que han regido hasta ahora en lo que no la contravengan.
 
 SEXTO.- Todos los actos, procedimientos y recursos administrativos relacionados con la materia de esta Ley, que se hubieren iniciado bajo la vigencia de otros ordenamientos, se tramitarán y resolverán conforme a los mismos.
 
-SÉPTIMO.- El Jefe de Gobierno expedirá el reglamento de la presente Ley dentro de los 90 días naturales posteriores a la entrada en vigor del presente decreto.
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
 
-OCTAVO.- la Secretaría, la Secretaría de Obras y Servicios y las Delegaciones deberán formular los programas que esta Ley establece dentro de los 180 días naturales posteriores a la entrada en vigor del presente decreto.
+SÉPTIMO.- El Jefe de Gobierno expedirá el reglamento de la presente Ley a más tardar el día 30 de mayo de 2004.
+
+> <small>(REFORMADO, G.O. 10 DE FEBRERO DE 2004)</small>
+
+OCTAVO.- La Secretaría, la Secretaría de Obras y Servicios y las Delegaciones deberán expedir a más tardar el 30 de mayo de 2004 los programas que esta Ley establece.
 
 NOVENO.- Publíquese en el Diario Oficial de la Federación para su mayor difusión.
 
@@ -893,3 +909,11 @@ Recinto Legislativo a 20 de marzo de 2003.
 POR LA MESA DIRECTIVA.- DIP. ALEJANDRO DIEZ BARROSO REPIZO, PRESIDENTE.- DIP. ROLANDO ALFONSO SOLÍS OBREGÓN, SECRETARIO.- (Firmas)
 
 En cumplimiento de lo dispuesto por los artículos 122. apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48,49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio, en la Residencia Oficial del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los cinco días del mes de abril del dos mil tres.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, LIC. ANDRÉS MANUEL LÓPEZ OBRADOR.- FIRMA.- EL SECRETARIO DE GOBIERNO, ALEJANDRO ENCINAS RODRÍGUEZ.- FIRMA.- LA SECRETARIA DEL MEDIO AMBIENTE, CLAUDIA SHEINBAUM PARDO - FIRMA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CÉSAR BUENROSTRO HERNÁNDEZ - FIRMA.- LA SECRETARIA DE SALUD, ASA CRISTINA LAURELL.- FIRMA.
+
+N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+G.O. 10 DE FEBRERO DE 2004.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su aprobación por el Pleno de la Asamblea Legislativa del Distrito Federal.
+
+Segundo.- Túrnese al jefe de Gobierno del Distrito Federal única y exclusivamente para su publicación en la Gaceta Oficial del Distrito Federal y publíquese también en el Diario Oficial de la Federación para su mayor difusión.
