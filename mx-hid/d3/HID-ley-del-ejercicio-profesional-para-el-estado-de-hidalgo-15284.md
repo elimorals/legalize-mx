@@ -4,7 +4,7 @@ identifier: "HID-ley-del-ejercicio-profesional-para-el-estado-de-hidalgo-15284"
 country: "mx"
 rank: "ley"
 publication_date: "1969-03-08"
-last_updated: "1982-12-30"
+last_updated: "2001-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "HID"
 
 LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1982.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DEL EJERCICIO PROFESIONAL PARA EL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2001, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 8 de marzo de 1969.
 
@@ -600,3 +602,25 @@ Segundo.- Mientras no se de por terminado el convenio que celebre el Ejecutivo d
 P.O. 30 DE DICIEMBRE DE 1982.
 
 UNICO.- El presente Decreto surtirá sus efectos al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2001.
+
+PRIMERO.- La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abrogan la Ley del Ejercicio Profesional para el Estado de Hidalgo, creada por Decreto número 56, publicado en el suplemento al Periódico Oficial número 10, de fecha 8 de marzo de 1969 y el Reglamento de la Dirección General de Profesiones del Estado de Hidalgo, creado por Decreto número 41 bis, publicado en el Periódico Oficial número 16, de fecha 24 de abril de 1980.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan a lo establecido por el presente ordenamiento legal.
+
+CUARTO.- Para la instalación de Consejo de Profesiones se tendrá un plazo de noventa días hábiles a partir de la entrada en vigor de la presente Ley.
+
+QUINTO.- El Consejo de Profesiones tendrá un plazo de seis meses a partir de la entrada en vigor de la presente Ley, para elaborar y aprobar su Reglamento Interno.
+
+Los Colegios de Profesionistas registrados tendrán un plazo de un año a partir de la entrada en vigor de la presente Ley para dar cumplimiento a lo establecido en el Artículo 43 fracción I, de este ordenamiento legal.
+
+SEXTO.- Continua vigente el Convenio celebrado entre la Secretaría de Educación Pública y el Gobierno Libre y Soberano del Estado de Hidalgo, para coordinar y unificar el registro profesional y expedir la cédula única del ejercicio profesional, publicado en el Periódico Oficial, de fecha de 8 de febrero de 1976.
+
+SEPTIMO.- Los requisitos para obtener los servicios que presta la Dirección de Profesiones, serán determinados por la Junta de Gobierno de "El Instituto", en tanto se expide el Reglamento respectivo.
+
+OCTAVO.- El pago de derechos derivados de los servicios que presta la Dirección de Profesiones, serán propuestos por la Junta de Gobierno de "El Instituto" y aprobados por el Congreso del Estado.
+
+NOVENO.- Los procedimientos derivados de las disposiciones de esta Ley, serán desarrollados en el Reglamento respectivo. Asimismo, en los casos no previstos en esta Ley, se aplicarán supletoriamente las disposiciones del ordenamiento legal de la materia.
