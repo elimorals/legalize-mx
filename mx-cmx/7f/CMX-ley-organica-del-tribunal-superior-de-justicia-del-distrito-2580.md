@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-tribunal-superior-de-justicia-del-distrito-258
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-01-29"
-last_updated: "2003-04-24"
+last_updated: "2004-09-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2580&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1996-01-09"
 
 LEY ORGANICA DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 24 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 8 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el lunes 29 de enero de 1996 y republicada en la Sección Primera del Diario Oficial de la Federación, el miércoles 7 de febrero de 1996.
 
@@ -426,7 +426,17 @@ I. Elegir, de entre los Magistrados con una antigüedad no menor de tres años a
 
 II. Conocer de la calificación de la recusación de dos o tres Magistrados integrantes de una Sala;
 
-III. Resolver sobre las contradicciones de criterios generales sustentados por Magistrados y entre las Salas del Tribunal, sin perjuicio de observarse la jurisprudencia de los Tribunales Federales. Lo anterior podrá hacerse a petición de parte o de los órganos en conflicto;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+III. Resolver sobre las contradicciones de criterios generales sustentados por Magistrados y entre las Salas del Tribunal, sin perjuicio de observarse la jurisprudencia de los Tribunales Federales. Lo anterior podrá hacerse a petición de parte o de los órganos en conflicto ante el Pleno del Tribunal Superior de Justicia del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+La resolución que se dicte no afectará las situaciones jurídicas concretas derivadas de los juicios en los cuales se hubiesen dictado las sentencias que sustentaron las tesis contradictorias.
+
+> <small>(ADICIONADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+El Pleno deberá dictar la resolución correspondiente dentro del término de tres meses y deberá ordenar su publicación en el Boletín Judicial y en los Anales de Jurisprudencia y la remitirá a todos los órganos jurisdiccionales en la materia, que forman parte del Tribunal Superior de Justicia del Distrito Federal;
 
 IV. Solicitar al Consejo de la Judicatura, el cambio de adscripción de Jueces y, en su caso, su remoción del cargo por causa justificada;
 
@@ -458,9 +468,9 @@ XII. Resolver las revisiones administrativas a que se refiere el párrafo octavo
 
 XIII. Solicitar al Consejo de la Judicatura del Distrito Federal, la expedición de aquellos acuerdos generales que considere necesarios para asegurar un adecuado ejercicio de la función de los órganos judiciales;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-XIV. Revisar, modificar y, en su caso, revocar los acuerdos que el Consejo de la Judicatura del Distrito Federal apruebe, siempre y cuando se refieran a la designación, adscripción, remoción de Magistrados o Jueces u opinión para designación o ratificación de Magistrados, requiriéndose para ello el voto de cuando menos dos terceras partes de sus integrantes;
+XIV. Revisar, modificar y, en su caso, revocar los acuerdos que el Consejo de la Judicatura del Distrito Federal apruebe, siempre y cuando se refieran a la designación, adscripción, remoción de magistrados o jueces u opinión para designación o ratificación de magistrados o jueces, requiriéndose para ello el voto de cuando menos dos terceras partes de sus integrantes;
 
 > <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -470,13 +480,17 @@ XV. Acordar la realización de visitas periódicas a las instituciones del siste
 
 XVI. Designar a los Magistrados que integren comisiones substanciadoras de aquellos procesos judiciales que corresponda resolver al Pleno, mismas que podrán dictar los acuerdos de trámite necesarios;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-XVII. Validar o rechazar las determinaciones que dicte el Consejo de la Judicatura del Distrito Federal, en la primera parte de la fracción VII del artículo 201 de esta ley, y
+XVII. Revisar el cumplimiento de los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos, en la resolución que dicte el Juez de la causa, mediante la que determine la procedencia de la orden de aprehensión o comparecencia, cuando se hubiere ejercitado acción penal en contra de un Magistrado, Consejero o Juez en el desempeño de su cargo o con motivo de éste. De resultar procedente se asentará mediante acuerdo y éste se comunicará al Consejo de la Judicatura del Distrito Federal, por conducto de su Presidente, para que proceda en términos de la fracción VII, del artículo 201 de esta ley;
 
-> <small>(ADICIONADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-XVIII. Las demás que expresamente le confieran esta Ley y otras disposiciones aplicables.
+XVIII. Conocer de los recursos de apelación que se interponga en las causas que se instauren en contra de un Magistrado, Consejero o Juez;
+
+> <small>(ADICIONADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+XIX. Las demás que expresamente le confieran esta ley y otras disposiciones aplicables.
 
 > <small>(REFORMADA SU DENOMINACION, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -700,17 +714,23 @@ Los Secretarios de Acuerdos de Salas, tendrán en lo conducente, las mismas atri
 
 ###### Artículo 47.
 
-Son Jueces de única instancia, los de Paz en materia Civil y Penal.
+(DEROGADO, G.O. 8 DE SEPTIEMBRE DE 2004)
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO II. De los Juzgados de lo Civil, de lo Penal, de lo Familiar y del Arrendamiento Inmobiliario del Distrito Federal
 
 ###### Artículo 48.
 
-Son Jueces de Primera Instancia:
+En el Tribunal Superior de Justicia del Distrito Federal, los órganos jurisdiccionales de primera instancia los conforman:
 
-I. Jueces de lo Civil;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-II. Jueces de lo Penal;
+I. Jueces de lo Civil y los Jueces de Paz Civil, éstos en los asuntos que no sean de única instancia;
+
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+II. Jueces de lo Penal y los Jueces de Paz Penal;
 
 III. Jueces de lo Familiar;
 
@@ -994,9 +1014,9 @@ I. Las del Presidente del Tribunal Superior de Justicia que no excedan de un mes
 
 II. Las de los Presidentes de las Salas que no excedan de un mes por el Magistrado de la misma Sala que designen sus integrantes; y
 
-> <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-III. Las de los Magistrados, cuando no excedan de un mes, por cualquiera de los Secretarios de Acuerdos. Cuando exceda de este tiempo y hasta por tres meses, por los Jueces de Primera Instancia de la materia, que serán nombrados por el Consejo de la Judicatura del Distrito Federal, prefiriendo en su caso al de mayor antigüedad en el cargo.
+III. Las de los Magistrados, cuando no excedan de un mes, por cualquiera de los Secretarios de Acuerdos o en su caso el Proyectista de Sala. Cuando exceda de este tiempo y hasta por tres meses, por los Jueces de Primera Instancia de la materia, que serán nombrados por el Consejo de la Judicatura del Distrito Federal, prefiriendo en su caso al de mayor antigüedad en el cargo.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -1020,9 +1040,9 @@ En todo caso y mientras se hace la designación, la ausencia será suplida en lo
 
 Los Jueces serán suplidos en sus ausencias que no excedan de un mes, por el Secretario de Acuerdos respectivo, en los términos del artículo 57 de esta Ley.
 
-> <small>(REFORMADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-Las ausencias de los Jueces por más de un mes, serán cubiertas mediante nombramiento que con carácter de interino expida el Consejo de la Judicatura del Distrito Federal.
+Si la ausencia excede de un mes, pero no de tres meses, el Consejo de la Judicatura nombrará un Juez interino. Si éste tuviera que seguir desempeñando el cargo después de transcurridos los tres meses, deberá sujetarse a examen en términos del artículo 190 de esta Ley, y se tendrá en cuenta también su actitud durante el desempeño del servicio público.
 
 Los Secretarios, a su vez, serán suplidos por los Conciliadores o por testigos de asistencia; el Juez deberá nombrar de inmediato y de manera provisional a un Secretario de Acuerdos que lo sustituya.
 
@@ -1386,7 +1406,9 @@ Los Jueces y Magistrados al momento de dictar la sentencia que condene a costas 
 
 Las partes siempre tendrán derecho al cobro de las costas establecidas en esta ley, cuando acrediten haber sido asesorados, durante el juicio, por Licenciado en Derecho con cédula profesional expedida por la autoridad o institución legalmente facultada para ello.
 
-Para el efecto de la acreditación, los Licenciados en Derecho patronos registrarán su cédula profesional ante la Primera Secretaría de Acuerdos de la Presidencia del Tribunal Superior de Justicia del Distrito Federal.
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+Para el efecto de la acreditación, los Licenciados en Derecho patronos registrarán su cédula profesional ante la Primera Secretaría de Acuerdos a la Presidencia y del Pleno del Tribunal Superior de Justicia del Distrito Federal, de conformidad con el acuerdo, que para tal efecto expida, el Consejo de la Judicatura de esta entidad. Debiendo la Primera Secretaría proporcionar el número correspondiente para la acreditación ante cualquiera de los órganos jurisdiccionales del fuero común en el Distrito Federal.
 
 En caso de que la parte favorecida con el resultado del juicio haya sido asesorada por terceros, podrá solicitar al Juez que las costas sean determinadas en la sentencia a favor del abogado o la institución que lo haya patrocinado.
 
@@ -2202,9 +2224,7 @@ Son facultades del Consejo de la Judicatura del Distrito Federal, las siguientes
 
 > <small>(REFORMADA, G.O. 24 DE ABRIL DE 2003)</small>
 
-I. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado
-
-ejercicio de sus funciones;
+I. Expedir los acuerdos generales y demás disposiciones reglamentarias para el adecuado ejercicio de sus funciones;
 
 > <small>(REFORMADA, G.O. 21 DE ENERO DE 1999)</small>
 
@@ -2226,7 +2246,13 @@ VI. Conocer y resolver las quejas que no sean de carácter jurisdiccional, así 
 
 Estas facultades se ejercerán, por conducto de la Comisión de Disciplina Judicial, la que resolverá en primera instancia. El Pleno del Consejo de la Judicatura del Distrito Federal resolverá en segunda instancia y de forma definitiva e inatacable de conformidad con esta ley y los acuerdos expedidos para el efecto;
 
-VII. Ordenar, por conducto del Presidente del Consejo, cuando se hubiere ejercitado acción penal en contra de un magistrado o un juez en el desempeño de su cargo o con motivo de éste, que sea puesto a disposición del juez que conozca del asunto y previa petición de éste, cumpliendo los requisitos que exige el artículo 16 de la Constitución Política de los Estados Unidos Mexicanos. En su caso, el Consejo podrá adoptar las medidas cautelares que correspondan para evitar que el inculpado se sustraiga a la acción de la justicia. La detención que se practique en contravención a este precepto, será sancionada en los términos que prevenga el Código Penal aplicable;
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
+
+VII. Ordenar, previa comunicación del Pleno del Tribunal Superior de Justicia del Distrito Federal, la suspensión de su cargo del Magistrado, Consejero o Juez de quien se haya dictado acuerdo respecto a la procedencia de la orden de aprehensión o comparecencia en su contra durante el tiempo que dure el proceso que se le instaure, así como su puesta a disposición del juez que conozca del asunto.
+
+El Consejo podrá adoptar las medidas cautelares que correspondan para evitar que el inculpado se sustraiga a la acción de la justicia y, en su caso, ejecutará la destitución e inhabilitación que se imponga.
+
+La detención que se practique en contravención a este precepto y sus correlativos, será sancionada en los términos que prevenga el Código Penal aplicable;
 
 VIII. Pedir al Presidente del Consejo y a sus integrantes el fiel cumplimiento de sus obligaciones y en su caso fincar la responsabilidad en que incurran de acuerdo con esta Ley;
 
@@ -2282,9 +2308,9 @@ XXIII. Autorizar cada dos años, en forma potestativa y con vista a sus antecede
 
 La decisión que al respecto adopte el Consejo de la Judicatura será irrecurrible; y
 
-> <small>(REFORMADA, G.O. 17 DE JUNIO DE 1997)</small>
+> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
-XXIV. Las demás que determinen las Leyes y el Reglamento anterior (sic) del Consejo de la Judicatura.
+XXIV. Las demás que determinen las Leyes y el Reglamento Interior del Consejo de la Judicatura.
 
 ###### Artículo 202.
 
@@ -2390,7 +2416,7 @@ En caso de negarse a firmar el Juez o Magistrado, se hará constar esta situaci�
 
 El acta levantada por el Visitador será entregada al titular del órgano visitado y a la Comisión de Disciplina Judicial, por conducto del Visitador General, a fin de que determine lo que corresponda y, en caso de responsabilidad, para que proceda en los términos previstos por esta Ley. El Visitador General, con base a las actuaciones realizadas por los Visitadores, propondrá a la Comisión de Disciplina Judicial, por medio de proyectos, las sanciones o medidas correctivas conducentes.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, G.O. 24 DE ENERO DE 2003)</small>
 
 ###### Artículo 207.
 
@@ -2674,11 +2700,11 @@ Las faltas en que incurran los servidores públicos, previstas en los artículos
 
 Todas las disposiciones contenidas en este Capítulo serán aplicables, sin perjuicio de lo que previenen las demás disposiciones legales aplicables a los Servidores del Tribunal Superior de Justicia del Distrito Federal.
 
-> <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, G.O. 8 DE SEPTIEMBRE DE 2004)</small>
 
 ###### Articulo 230.
 
-Cuando un servidor público de la administración de justicia sea sancionado por cometer tres faltas en el desempeño de un mismo cargo, será separado del cargo conforme a la fracción IV del artículo 216.
+Cuando un servidor público de la administración de justicia sea sancionado por cometer tres faltas en el desempeño de un mismo cargo, dentro de un período de hasta tres años, será separado del cargo conforme a la fracción IV del artículo 216.
 
 > <small>(ADICIONADO, G.O. 24 DE ABRIL DE 2003)</small>
 
@@ -2909,3 +2935,11 @@ Se deroga el artículo Segundo Transitorio del Decreto por el que se modifican d
 ###### ARTÍCULO NOVENO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+G.O. 8 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+TERCERO.- El Consejo de la Judicatura contará con un término de noventa días para llevar a cabo los acuerdos a que se refiere el artículo 127 párrafo tercero después de publicada la presente ley.
