@@ -4,7 +4,7 @@ identifier: "FED-ley-de-presupuesto-contabilidad-y-gasto-publico-federal-14"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "1986-12-26"
+last_updated: "1994-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1976-12-30"
 
 LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 31 de diciembre de 1976
 
@@ -45,9 +45,11 @@ LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PUBLICO FEDERAL
 
 El presupuesto, la contabilidad y el gasto público federal se norman y regulan por las disposiciones de esta Ley, la que será aplicada por el Ejecutivo Federal a través de la Secretaría de Programación y Presupuesto.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE ENERO DE 1994)</small>
+
 ###### Artículo 2o.
 
-El gasto público federal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o deuda pública, que realizan:
+El gasto público federal comprende las erogaciones por concepto de gasto corriente, inversión física, inversión financiera, así como pagos de pasivo o de deuda pública, y por conceptos de responsabilidad patrimonial, que realizan:
 
 I. El Poder Legislativo,
 
@@ -478,3 +480,11 @@ Se deroga el artículo 21 de la Ley de Presupuesto, Contabilidad y Gasto Públic
 ###### ARTICULO TERCERO.
 
 Se derogan las demás disposiciones que se opongan a lo dispuesto por el presente Decreto.
+
+D.O.F. 10 DE ENERO DE 1994.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- El presente decreto entrará en vigor el primero de febrero de mil novecientos noventa y cuatro.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
