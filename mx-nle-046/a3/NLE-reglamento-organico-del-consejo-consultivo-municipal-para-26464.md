@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-consejo-consultivo-municipal-para-26464
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-23"
-last_updated: "2002-10-23"
+last_updated: "2004-04-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26464&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGANICO DEL CONSEJO CONSULTIVO MUNICIPAL PARA LA INTEGRACION Y DESARROLLO DE PERSONAS CON CAPACIDAD DIFERENCIADA DEL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ABRIL DE 2004.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 23 de octubre de 2002.
 
@@ -79,7 +79,9 @@ II. Impulsar la implementación o bien la optimización de programas municipales
 
 III. Coordinar las actividades interinstitucionales con el fin de sumar esfuerzos así obtener mayores logros para el bienestar de las personas con capacidad diferenciada, mediante coordinación de servicios públicos, para la prevención, rehabilitación y socialización.
 
-IV. Promover la ejecución y adecuación de la infraestructura de las instalaciones existentes y en proyectos de sectores públicos y privados para que las personas con capacidad diferenciada puedan tener un mejor acceso, cuando estos se destinen a proveer servicios de atención directa en materia de prevención, rehabilitación física, psicológica, educativa, social, labora (sic), recreativa, deportiva, cultural de capacidad laboral y otras.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2004)</small>
+
+IV. Promover la ejecución y adecuación de la infraestructura de las instalaciones existentes y adecuar los proyectos de sectores públicos y privados para que las personas con capacidad diferenciada puedan tener un mejor acceso.
 
 V. Tramitar y gestionar la obtención de recursos para la prevención y rehabilitación integral de las personas con capacidad diferenciada, elaborando programas para optimizar recursos humanos, materiales, además de integrar elementos técnicos y científicos actuales.
 
@@ -89,7 +91,9 @@ VII. Elaborar y someter a consideración de las autoridades correspondientes los
 
 VIII. Fomentar y promover todo tipo de programas de investigación, reuniones técnicas y científicas relacionadas con la prevención y rehabilitación de personas con capacidad diferenciada.
 
-IX. Actuar como organismo asesor en labores de prevención y rehabilitación para personas con capacidad diferenciada y realizar las (sic) necesarias para el eficaz cumplimiento del objetivo.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2004)</small>
+
+IX. Actuar como organismo asesor en labores de prevención y rehabilitación para personas con capacidad diferenciada y realizar las actividades necesarias para el eficaz cumplimiento del objetivo.
 
 X. Proponer y opinar sobre las estrategias, políticas y acciones que en materia de capacidad diferenciada realicen las diversas instituciones sociales públicas y privadas.
 
@@ -125,7 +129,9 @@ XXV. Acordar con el Presidente Municipal el análisis, canalización y resoluci�
 
 a) A la Comisión correspondiente del R. Ayuntamiento si el asunto lo requiere.
 
-b) Al área de la Administración competente, en el caso que el asunto sea de acuerdo a la Ley, Planes y Programas del Municipio, no se requiera turnarlo a la Comisión indicada en el inciso anterior.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+b) Al área de la Administración competente, en el caso que el asunto sea de orden municipal de acuerdo a Reglamentos, Planes y Programas del Municipio, no se requiera turnarlo a la Comisión indicada en el inciso anterior.
 
 XXVI. Las demás que sean necesarias para el eficaz cumplimiento de su trabajo.
 
@@ -167,7 +173,9 @@ El secretario tendrá las siguientes atribuciones
 
 a) Mantener la correspondencia al día con personas y organismos afines al consejo,
 
-b) Llevar el archivo al día del consejo,
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+b) Llevar al día el archivo del consejo,
 
 c) Leer el acta anterior, al inicio de la sesión,
 
@@ -175,7 +183,7 @@ d) Llevar el conteo y dar validez del resultado de la votación de acuerdos en s
 
 e) Formular las Actas del Consejo y asentarlas en el Libro correspondiente,
 
-f) Elaborar los programas del consejo y someterlos a aprobación.
+f) Elaborar los programas del consejo y someterlos a aprobación,
 
 ###### Artículo 9.
 
@@ -217,17 +225,31 @@ Para el desempeño y eficacia del consejo, además de los nombramientos anterior
 
 1.- Salud, Bienestar y Seguridad Social.
 
-2.- Educación, Legislación y Derechos Humanos.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
-3.- Rehabilitación Laboral.
+2.- Educación.
 
-4.- Cultura.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
-5.- Accesibilidad, Telecomunicaciones y transporte.
+3.- Legislación y Derechos Humanos.
 
-6.- Información sobre problemas de discapacidad.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
-7.- Comunicación.
+4.- Rehabilitación Laboral.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+5.- Cultura.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+6.- Accesibilidad, Telecomunicaciones y transporte.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+7. Comunicación y Sistemas de Información.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 8.- Deportes y Recreación.
 
@@ -235,89 +257,135 @@ Para el desempeño y eficacia del consejo, además de los nombramientos anterior
 
 los (sic) integrantes de la comisión de salud, bienestar y seguridad social, tendrán como objetivo general promover la salud y prevenir la discapacidad.
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
 ###### Artículo 14.
 
-Los integrantes de la comisión de Educación, Legislación y Derechos Humanos tendrán como objetivo general promover la integración de los menores a las escuelas regulares, y la cultura de respeto y dignidad a sus derechos humanos, políticos y sociales de las personas con capacidad diferente, garantizando el pleno ejercicio de sus derechos y la difusión de la dignidad de su condición, igualdad de oportunidades y equidad en el acceso de los recursos y servicios que todo ser humano requiere para su bienestar y calidad de vida.
+La comisión de Educación, tendrán (sic) como objetivo general promover la integración de los menores a las escuelas regulares.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 15.
 
-La comisión de rehabilitación laboral tendrá como objetivo general el acceso a la rehabilitación laboral y oportunidad de capacitación y empleo para la equiparación de oportunidad para el trabajo.
+La comisión de Legislación y Derechos Humanos promoverá la cultura de respeto y dignidad a sus derechos humanos, políticos y sociales de las personas con capacidad diferente, garantizando el pleno ejercicio de sus derechos y la difusión de la dignidad de su condición, igualdad de oportunidades y equidad en el acceso de los recursos y servicios que todo ser humano requiere para su bienestar y calidad de vida.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 16.
 
-Los integrantes de la comisión de cultura, tendrán como objetivo garantizar el acceso a la cultura, a toda persona con capacidad diferenciada.
+La comisión de rehabilitación laboral tendrá como objetivo general el acceso a la rehabilitación laboral y oportunidad de capacitación y empleo para la equiparación de oportunidad para el trabajo.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 17.
 
-La comisión de accesibilidad, telecomunicaciones y transporte tendrá como objetivo general derribar las barreras físicas, de transporte y comunicación para permitir el libre acceso con seguridad a todos los espacios públicos e igualdad de oportunidades en la información.
+Los integrantes de la comisión de cultura, tendrán como objetivo garantizar el acceso a la cultura, a toda persona con capacidad diferenciada.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 18.
 
-La comisión de información sobre problemas de discapacidad tendrá como objetivo el registro de la población con capacidad diferente a fin de conocer el universo total y los porcentajes reales de las diversas discapacidades en México.
+La comisión de accesibilidad, telecomunicaciones y transporte tendrá como objetivo general derribar las barreras físicas, de transporte y comunicación para permitir el libre acceso con seguridad a todos los espacios públicos e igualdad de oportunidades en la información.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 19.
 
-comunicación (sic) tendrá como objetivo general difundir la cultura de la integración y respeto a las personas con capacidades diferenciadas, así como facilitar el acceso a los medios de comunicación.
+La comisión de comunicación y sistemas de información tendrá como objetivo el registro de la población con capacidad diferente a fin de conocer el universo total y los porcentajes reales de las diversas discapacidades en México.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 20.
 
-La comisión de Recreación y Deporte tendrá como objetivo general garantizar a las personas con capacidad diferenciada el acceso al deporte y a la recreación así como a la cultura física.
+La comisión de comunicación y sistemas de información tendrá como objetivo general difundir la cultura de la integración y respeto a las personas con capacidades diferenciadas, así como facilitar el acceso a los medios de comunicación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 21.
 
-La propuesta de los nombramientos de las personas que integrarán el consejo consultivo será presentada por el Presidente Municipal, los cuales serán aprobados por el R. Ayuntamiento y una vez aprobados se tomará la protesta de Ley.
+La comisión de Recreación y Deporte tendrá como objetivo general garantizar a las personas con capacidad diferenciada el acceso al deporte y a la recreación así como a la cultura física.
 
 ### CAPITULO III. DE LOS NOMBRAMIENTOS
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
 ###### Artículo 22.
 
-La duración del cargo será por el término de la Administración que los nombre, permaneciendo en él hasta que la Administración entrante los ratifique y sus cargos serán honoríficos.
+La propuesta de los nombramientos de las personas que integrarán el consejo consultivo será presentada por el Presidente Municipal, los cuales serán aprobados por el R. Ayuntamiento y una vez aprobados se tomará la protesta de Ley.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 23.
 
-El Presidente Municipal expedirá los nombramientos respectivos en los que deberán contener nombre y cargo del Consejero, Administración que los expide y suscritos por el Presidente Municipal y el Secretario del R. Ayuntamiento.
+La duración del cargo será por el término de la Administración que los nombre, permaneciendo con él hasta que la Administración entrante los ratifique y sus cargos serán honoríficos.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 24.
 
-Los miembros del R. Ayuntamiento que participen en el Consejo serán propuestos por el Presidente Municipal. Si lo estima conveniente podrá comparecer en las sesiones o juntas de Consejo con voz y con voto.
+El Presidente Municipal expedirá los nombramientos respectivos en los que deberán contener nombre y cargo del Consejero, Administración que los expide y suscritos por el Presidente Municipal y el Secretario del R. Ayuntamiento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 25.
 
-El Consejo se reunirá por lo menos una vez al mes previa convocatoria con 48 horas de anticipación de las que se levantará un acta de los acuerdos que se tomen.
+Los miembros del R. Ayuntamiento que participen en el Consejo serán propuestos por el Presidente Municipal. Si lo estima conveniente podrá comparecer en las sesiones o juntas de Consejo con voz y con voto.
 
 ### CAPITULO III (SIC). DE LAS REUNIONES
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
 ###### Artículo 26.
 
-Las reuniones serán privadas y lo tratado en ellas sólo podrá hacerlo público el Presidente Municipal.
+El Consejo se reunirá por lo menos una vez al mes previa convocatoria con 48 horas de anticipación de las que se levantará un acta de los acuerdos que se tomen.
 
 ###### Artículo 27.
 
-Para que exista Quórum se requiere de la presencia del cincuenta por ciento más uno de los Consejeros y necesariamente de la asistencia de alguno de los integrantes del R. Ayuntamiento indicados en el Artículo 24 de este ordenamiento.
+(DEROGADO, P.O. 21 DE ABRIL DE 2004)
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 28.
 
-Todos los miembros del Consejo tendrán derecho a voz y voto con excepción de los vocales de las Comisiones Municipales de Personas con capacidad diferenciada. En caso de empate el Presidente tendrá el voto de calidad.
+Para que exista Quórum se requiere de la presencia del cincuenta por ciento más uno de los Consejeros y necesariamente de la asistencia de alguno de los integrantes del R. Ayuntamiento indicados en el Artículo 24 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 29.
 
-El Consejo podrá invitar a las reuniones a los funcionarios responsables de la unidad administrativa del Municipio según el asunto.
+Todos los miembros del Consejo tendrán derecho a voz y voto con excepción de los vocales de las Comisiones Municipales de Personas con capacidad diferenciada. En caso de empate el Presidente tendrá el voto de calidad.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 30.
 
-Las reuniones serán privadas y lo tratado en ellas podrá hacerlo público el Presidente Municipal, quien estará presente cuando así lo considere.
+El Consejo podrá invitar a las reuniones a los funcionarios responsables de la unidad administrativa del Municipio según el asunto.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 31.
 
-El presidente del Consejo solicitará exclusivamente a los titulares de las comisiones la designación de un suplente que entrará en funciones cuando no pueda estar presente. Así mismo podrá delegarse mediante acuerdo debidamente fundado y motivado en sus vocales, cualquiera de sus atribuciones, salvo aquellas atribuciones que este reglamento disponga que deban ser ejercidas por ellos mismos, facilitando en todo momento la información que por escrito requieran los integrantes del Consejo para el adecuado cumplimiento de sus funciones.
+Las reuniones serán públicas y lo tratado en ellas podrá hacerlo público el Presidente Municipal, quien estará presente cuando así lo considere.
 
 ### CAPITULO IV. DE LA DELEGACION DE FUNCIONES Y SUPLENCIAS
 
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
 ###### Artículo 32.
+
+El presidente del Consejo solicitará exclusivamente a los titulares de las comisiones la designación de un suplente que entrará en funciones cuando no pueda estar presente. Así mismo podrá delegarse mediante acuerdo debidamente fundado y motivado en sus vocales, cualquiera de sus atribuciones, salvo aquellas atribuciones que este reglamento disponga que deban ser ejercidas por ellos mismos, facilitando en todo momento la información que por escrito requieran los integrantes del Consejo para el adecuado cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+###### Artículo 33.
 
 Las ausencias temporales del Presidente serán suplidas por el secretario. En caso del secretario, Coordinador Técnico o de algún directivo de las comisiones, serán suplidas por el funcionario que designe el presidente del consejo, a falta de este, se someterá a discusión colegiada de los integrantes quien ocupará el cargo.
 
-###### Artículo 33.
+### CAPITULO V. DE LA TERMINACION
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
+
+###### Artículo 34.
 
 Son causas de revocación del nombramiento como integrantes del Consejo, a excepción del Presidente, Vicepresidente, Secretario y Coordinador Técnico las siguientes:
 
@@ -327,25 +395,29 @@ b) Renuncia,
 
 c) No asistir a tres sesiones consecutivas sin causa justificada,
 
-d) Por falta de discreción en los asuntos que se traten,
-
-e) Comisión de algún delito que merezca pena corporal en virtud de habérsele dictado en un proceso penal, auto de formal prisión por delito intencional.
+d) Comisión de algún delito que merezca pena corporal en virtud de habérsele dictado en un proceso penal, auto de formal prisión por delito intencional.
 
 Es obligación del Presidente del Consejo Consultivo dar aviso por escrito si se presentará alguna de las causales de revocación al Secretario del R. Ayuntamiento, para que este lo de a conocer al Presidente Municipal, Síndicos y Regidores
 
-### CAPITULO V. DE LA TERMINACION
-
-###### Artículo 34.
-
-El Presidente del Consejo solicitará la remoción de los integrantes de las comisiones, de acuerdo a las causas señaladas en el artículo anterior de este ordenamiento, una vez notificado al Presidente Municipal de conformidad con el último párrafo del citado Artículo y solicitará al presidente Municipal que nombre al o los candidatos a ocupar los cargos vacantes y los ratifique.
+> <small>(REFORMADO Y REUBICADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 35.
 
-Contra los actos y resoluciones que dicte la autoridad con motivo de la aplicación de este Reglamento, los interesados podrán interponer el Recurso de Inconformidad.
+El Presidente del Consejo solicitará la remoción de los integrantes de las comisiones, de acuerdo a las causas señaladas en el artículo anterior de este ordenamiento, una vez notificado al Presidente Municipal de conformidad con el último párrafo del citado Artículo y solicitará al presidente Municipal que nombre al o los candidatos a ocupar los cargos vacantes y los ratifique.
 
-### CAPITULO V (SIC). DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU NUMERACION, P.O. 21 DE ABRIL DE 2010)</small>
+
+### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
 
 ###### Artículo 36.
+
+Contra los actos y resoluciones que dicte la autoridad con motivo de la aplicación de este Reglamento, los interesados podrán interponer el Recurso de Inconformidad.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2010)</small>
+
+###### Artículo 37.
 
 El Recurso de Inconformidad deberá presentarse por escrito ante el C. Secretario del R. Ayuntamiento, el escrito deberá contener:
 
@@ -361,27 +433,39 @@ El Recurso de Inconformidad deberá presentarse por escrito ante el C. Secretari
 
 6. Lugar y fecha de la promoción y firma del promovente.
 
-###### Artículo 37.
-
-El recurso se interpondrá dentro del término de 10 -diez días hábiles, contados a partir de la fecha en que fuere notificados el acuerdo o resolución impugnados, o en el que el interesado tuvo conocimiento de dicho acto o resolución.
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 38.
 
-Interpuesto el recurso y admitido, se citará al recurrente para la celebración de una audiencia de pruebas y alegatos, la que se efectuará en un término de 5 -cinco- días hábiles, contados a partir del día siguiente al acto de admisión del recurso.
+El recurso se interpondrá dentro del término de 10 -diez días hábiles, contados a partir de la fecha en que fuere (sic) notificados el acuerdo o resolución impugnados, o en el que el interesado tuvo conocimiento de dicho acto o resolución.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 39.
 
-Dentro de un término de 10 -diez días hábiles contados a partir del día siguiente al de la celebración de la audiencia, la Autoridad dictará resolución.
+Interpuesto el recurso y admitido, se citará al recurrente para la celebración de una audiencia de pruebas y alegatos, la que se efectuará en un término de 5 -cinco- días hábiles, contados a partir del día siguiente al acto de admisión del recurso.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 40.
 
-En caso de que proceda la revocación se nombrará otro Consejero en término de los artículos 21, 22, 23, 24, y 34 de este Reglamento.
+Dentro de un término de 10 -diez días hábiles contados a partir del día siguiente al de la celebración de la audiencia, la Autoridad dictará resolución.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2004)</small>
 
 ###### Artículo 41.
 
-El Consejo podrá recibir por escrito todo tipo de propuestas a efecto de que las analice y dictamine sobre las mismas, éstas podrán ser de consulta, opinión para acciones en beneficio de los discapacitados y para actualización del presente Reglamento.
+En caso de que proceda la revocación se nombrará otro Consejero en término de los artículos 22, 23, 24, 25 y 35 de este Reglamento.
 
-### CAPITULO VI. DE LA REVISION Y CONSULTA CIUDADANA
+> <small>(REFORMADA SU NUMERACION, P.O. 21 DE ABRIL DE 2004)</small>
+
+### CAPITULO VII. DE LA REVISION Y CONSULTA CIUDADANA
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 21 DE ABRIL DE 2004)</small>
+
+###### Artículo 42.
+
+El Consejo podrá recibir por escrito todo tipo de propuestas a efecto de que las analice y dictamine sobre las mismas, éstas podrán ser de consulta, opinión para acciones en beneficio de los discapacitados y para actualización del presente Reglamento.
 
 ## TRANSITORIOS
 
@@ -404,3 +488,9 @@ Presidente Municipal
 Lic. Zeferino Salgado Almaguer
 
 Secretario del R. Ayuntamiento
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMA AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE ABRIL DE 2004.
+
+ÚNICO.- Las presentes reformas entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
