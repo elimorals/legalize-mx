@@ -4,7 +4,7 @@ identifier: "VER-ley-de-fomento-economico-del-estado-de-veracruz-12403"
 country: "mx"
 rank: "ley"
 publication_date: "1998-09-10"
-last_updated: "1998-09-10"
+last_updated: "2004-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 LEY DE FOMENTO ECONOMICO DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+> <small>N. DE E. LA PRESENTE LEY FUE DEROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY NO. 829 DE DESARROLLO ECONOMICO Y EL FOMENTO DE LA INVERSION DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADA EN LA G.O. DE 13 DE FEBRERO DE 2004.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL. DEROGADA.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 10 de septiembre de 1998.
 
@@ -77,7 +79,7 @@ X. Estimular la exploración y explotación racional de los recursos minerales e
 
 XI. Facilitar la instalación de la industria maquiladora de exportación y aprovechar sus beneficios de ocupación de mano de obra y captación de divisas, con la mayor utilización de insumos regionales y nacionales;
 
-XII. Contribuir al fortalecimiento y desarrollo de la agroindustria, de la industria pesquera y de la acuacultura, así como de la industria forestal;
+XII. Contribuir al fortalecimiento y desarrollo de la agroindustria, de la industria pesquera y de la acuacultura (sic), así como de la industria forestal;
 
 XIII. Estimular la modernización tecnológica de la actividad industrial en la ganadería;
 
@@ -414,3 +416,25 @@ Secretario General de Gobierno
 GERMÁN GONZÁLEZ QUINTERO
 
 Secretario de Desarrollo Económico
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 13 DE FEBRERO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga la Ley de Fomento Económico del Estado de Veracruz-Llave, publicada en la Gaceta Oficial del estado del 10 de septiembre de 1998.
+
+Los procedimientos que a la entrada en vigor de la presente se encuentren en trámite, se sustanciarán hasta su terminación con base en la Ley que se deroga.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones legales que se opongan a la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado dispondrá de un plazo de ciento ochenta días naturales a partir de la fecha de publicación de esta Ley, para expedir el reglamento correspondiente.
