@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-federal-de-radio-y-television-y-de-la-1046
 country: "mx"
 rank: "reglamento"
 publication_date: "1973-04-04"
-last_updated: "1973-04-04"
+last_updated: "2002-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1046&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1973-03-08"
 
 REGLAMENTO DE LA LEY FEDERAL DE RADIO Y TELEVISION Y DE LA LEY DE LA INDUSTRIA CINEMATOGRAFICA, RELATIVO AL CONTENIDO DE LAS TRANSMISIONES EN RADIO Y TELEVISION.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO FUE ABROGADO POR EL NUEVO REGLAMENTO FEDERAL DE RADIO Y TELEVISION, EN MATERIA DE CONCESIONES, PERMISOS Y CONTENIDO DE LAS TRANSMISIONES DE RADIO Y TELEVISION, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL 10 DE OCTUBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO
 
 Reglamento publicado en el Diario Oficial de la Federación el miércoles 4 de abril de 1973.
 
@@ -552,3 +554,11 @@ Las sanciones que impongan las Direcciones Generales de Información y de Cinema
 UNICO.- Este reglamento entrará en vigor a los quince días de su publicación en el "Diario Oficial" de la Federación.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los ocho días del mes de marzo de mil novecientos setenta y tres.- Luis Echeverría Alvarez.- Rúbrica.- El Secretario de Gobernación, Mario Moya Palencia.- Rúbrica.- El Secretario de Educación Pública, Víctor Bravo Ahuja.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Eugenio Méndez Docurro.- Rúbrica.- El Secretario de Salubridad y Asistencia, Jorge Jiménez Cantú.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 10 DE OCTUBRE DE 2002.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley Federal de Radio y Televisión y de la Industria Cinematográfica, relativo al Contenido de las Transmisiones en Radio y Televisión, publicado en el Diario Oficial de la Federación el 4 de abril de 1973.
