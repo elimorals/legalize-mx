@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-los-servidores-publicos-del-estado-de-jalisco-y-5896"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-07"
-last_updated: "2003-08-28"
+last_updated: "2003-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA LOS SERVIDORES PUBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE AGOSTO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el sábado 7 de abril de 1984.
 
@@ -625,7 +625,13 @@ IV. Un académico especialista en Gestión y Administración Pública o en Cienc
 
 El Comité a petición de cualquiera de sus miembros, podrá invitar a las personas que por sus conocimientos y aptitudes considere necesarias, para el mejor cumplimiento de sus actividades.
 
-El Comité Técnico sesionará, previa convocatoria por parte del Titular del Poder Ejecutivo, en el mes de agosto para formular las recomendaciones respectivas a más tardar el día último del mismo mes, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Gobierno del Estado. Los integrantes del Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, no percibirán remuneración económica alguna, por las actividades inherentes a este nombramiento.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+El Comité Técnico sesionará, de manera ordinaria previa convocatoria por parte del Titular del Poder Ejecutivo, durante los meses de mayo, junio y julio, para formular las recomendaciones respectivas a más tardar el día quince de julio, con la finalidad de que las mismas sean tomadas en consideración en el proyecto de Presupuesto de Egresos del Gobierno del Estado y de los municipios. Fuera de éste tiempo, dicho Comité podrá sesionar de manera extraordinaria a petición fundamentada de cualquiera de sus miembros presentada al representante del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+
+Los integrantes del Comité Técnico de Valoración Salarial del Estado de Jalisco y sus Municipios, no percibirán remuneración económica alguna, por las actividades inherentes a este nombramiento.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2002)</small>
 
@@ -2073,7 +2079,7 @@ TERCERO. Los Poderes del Estado, Ayuntamientos, así como sus organismos descent
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2001)</small>
 
-CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos de reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
+CUARTO. Las Comisiones de Evaluación de las Entidades, presentarán en un término de treinta días a partir de su integración, sus proyectos reglamento interno al Titular de la Entidad, quien emitirá el reglamento, en un término igual a partir de su recepción.
 
 QUINTO. Los servidores públicos que reciban la seguridad social a través del Instituto de Seguridad Social al Servicio de los Trabajadores del Estado seguirán afiliados a dicha entidad.
 
@@ -2134,3 +2140,7 @@ PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en
 SEGUNDO.- Los derechos adquiridos por los servidores públicos para recibir Incentivos, bonos o compensaciones, serán respetados.
 
 TERCERO.- A los servidores públicos y titulares no sujetos a las condiciones generales de trabajo les serán respetados sus derechos de conformidad a los acuerdos presupuestarios para el ejercicio fiscal de 2003.
+
+P.O. 30 DE DICIEMBRE DE 2003.
+
+ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco.
