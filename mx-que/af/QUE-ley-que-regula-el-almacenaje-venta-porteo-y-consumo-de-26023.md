@@ -4,7 +4,7 @@ identifier: "QUE-ley-que-regula-el-almacenaje-venta-porteo-y-consumo-de-26023"
 country: "mx"
 rank: "ley"
 publication_date: "2002-08-30"
-last_updated: "2004-11-12"
+last_updated: "2004-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY QUE REGULA EL ALMACENAJE, VENTA, PORTEO Y CONSUMO DE BEBIDAS ALCOHOLICAS EN EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 30 de agosto del año 2002.
 
@@ -157,15 +157,17 @@ II. Determinar e imponer las multas por infracciones que se conozcan con motivo 
 
 III. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen;
 
-IV. Efectuar el cobro coactivo de las multas que impongan las autoridades competentes y que deriven de infracciones a la presente Ley; y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+IV. Efectuar el cobro coactivo de las multas que impongan las autoridades estatales y que deriven de infracciones a la presente Ley; y
 
 V. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 12 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTÍCULO 8.
 
-Es competencia y obligación de los Municipios del Estado, de conformidad con esta ley, la Ley Orgánica Municipal del Estado de Querétaro y reglamentación municipal correspondiente:
+Es competencia y obligación de los Municipios del Estado:
 
 I. Expedir los dictámenes de factibilidad;
 
@@ -181,7 +183,13 @@ V. Proceder a la clausura inmediata cuando de inspección o verificación se obs
 
 VI. Hacer del conocimiento de la Secretaría de Gobierno, todas las irregularidades o violaciones a la presente Ley, dentro de los diez días siguientes a la fecha en que tenga conocimiento de éstas, con motivo de los actos de inspección que se practiquen; y
 
-VII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VII. Efectuar el cobro coactivo de las multas que impongan las autoridades municipales y que deriven de infracciones a la presente Ley; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
+VIII. Las demás que deriven de las disposiciones de esta Ley y otras disposiciones aplicables.
 
 ###### ARTÍCULO 9.
 
@@ -331,9 +339,11 @@ La autoridad competente durante el desarrollo de la inspección o verificación 
 
 Se prohíbe la venta de bebidas alcohólicas a los miembros uniformados de las corporaciones policiales o militares y a las personas que porten cualquier clase de arma o se encuentren en notorio estado de ebriedad o bajo la influencia de cualquier droga o enervante.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 19.
 
-Se prohíbe la venta o consumo de bebidas alcohólicas:
+Se prohíbe la venta o consumo de bebidas alcohólicas cuando éstas se lleven a cabo:
 
 I. En la vía pública, parques y plazas públicas. Podrán exceptuarse los casos de festividades tradicionales, eventos cívicos o culturales, de conformidad con lo previsto en esta Ley y los permisos y disposiciones que emita la Secretaría de Gobierno;
 
@@ -349,7 +359,7 @@ VI. En centros hospitalarios, de concentración de elementos militares y de corp
 
 VII. En cines, teatros y lugares para espectáculos o eventos públicos distintos a los señalados en el artículo 12 de esta Ley, salvo los casos debidamente autorizados;
 
-VIII. En comercios ubicados dentro de las áreas de gasolinerías;
+VIII. (DEROGADA, P.O. 9 DE DICIEMBRE DE 2004)
 
 IX. En vehículos de motor; y
 
@@ -677,33 +687,39 @@ XXIX. Abstenerse de ofertar y promocionar el consumo de alimentos preparados al 
 
 XXX. Portear bebidas alcohólicas sin haber realizado el empadronamiento a que se refiere la fracción I del artículo 31 de esta Ley; y
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 45.
 
 Las autoridades competentes podrán imponer a los infractores una o más de las siguientes sanciones, tendiendo a la gravedad de la infracción:
 
-I. Multa por cada infracción de las previstas en el artículo 44 de la presente Ley, tomando como base el salario mínimo vigente en el Estado, en los siguientes términos:
+I. Multa por incurrir en cada una de las prohibiciones previstas en el artículo 19 de la presente Ley, tomando como base el salario mínimo vigente en el Estado, en los siguientes términos:
 
-De 200 a 250 veces para el caso de las fracciones IV, VIII, XIII, XXII, XXVI, XXVII, XXVIII, XXIX y XXX.
+De 100 a 200 veces para el caso de las infracciones I, II, III, IV, V, VI, VII, IX, X.
+
+II. Multa por cada infracción de las previstas en el artículo 44 de la presente Ley, tomando como base el salario mínimo vigente en el Estado, en los siguientes términos;
+
+De 100 a 250 veces para el caso de las infracciones IV, VIII, XIII, XXII, XXVI, XXVII, XXVIII, XXIX y XXX.
 
 De 251 a 300 veces para el caso de las fracciones II, V, XII, XV y XVII.
 
 De 301 a 350 veces para el caso de las fracciones I, III, VI, VII, IX, X, XI, XIV, XVI, XVIII, XIX, XX, XXI, XXIII, XXIV y XXV.
 
-Las multas que impongan las autoridades competentes por las infracciones a las disposiciones de la presente Ley, se determinarán conforme a la misma por la autoridad impositora y su cobro se efectuará por la Secretaría de Planeación y Finanzas en los términos del Código Fiscal del Estado de Querétaro. Se impondrán al infractor tantas multas como infracciones haya cometido.
+Las multas que impongan las autoridades competentes por las infracciones a las disposiciones de la presente Ley, se determinarán conforme a la misma por la autoridad impositora y su cobro se efectuará por la autoridad fiscal competente en los términos del Código Fiscal del Estado de Querétaro. Se impondrán al infractor tantas multas como infracciones haya cometido.
 
 Al imponer sanciones pecuniarias, la autoridad que emita la resolución deberá valorar la gravedad de la infracción considerando el daño producido o que pueda producirse, las condiciones socioeconómicas del infractor, si existe reincidencia, el beneficio obtenido como resultado de la infracción, las demás circunstancias que hubiesen concurrido, las pruebas aportadas, los dictámenes que correspondan y los alegatos formulados en su caso.
 
-En el supuesto de que la Secretaría de Planeación y Finanzas detecte que el titular de la licencia o permiso respectivo posiblemente ha incurrido en alguna de las causas de suspensión o revocación de los mismos, se abstendrá de imponer sanción alguna y de inmediato dará cuenta a la Secretaría de Gobierno, remitiéndole el expediente respectivo, la cual en su caso iniciará el procedimiento correspondiente.
+En el supuesto de que la autoridad competente detecte que el titular de la licencia o permiso respectivo posiblemente ha incurrido en alguna de las causas de suspensión o revocación de los mismos, se abstendrá de imponer sanción alguna y de inmediato dará cuenta a la Secretaría de Gobierno, remitiéndole el expediente respectivo, la cual en su caso iniciará el procedimiento correspondiente.
 
-II. Suspensión por 30 días de los derechos derivados de la licencia en caso de reincidencia en cualquiera de las fracciones señaladas en el artículo 44 de la presente Ley;
+III. Suspensión por 30 días de los derechos derivados de la licencia, en caso de reincidencia en cualquiera de las fracciones señaladas en el artículo 44 de la presente Ley;
 
-III. Suspensión por 60 días de los derechos derivados de la licencia, cuando con motivo de la inspección o verificación realizada por la autoridad competente se detecte que se han cometido dos o más infracciones de las señaladas en el artículo 44 de la presente Ley;
+IV. Suspensión por 60 días de los derechos derivados de la licencia, cuando con motivo de la inspección o verificación realizada por la autoridad competente se detecte que se han cometido dos o más infracciones de las señaladas en el artículo 44 de la presente Ley.
 
-IV. Revocación de la licencia o permiso cuando:
+V. Revocación de la licencia o permiso cuando:
 
-a) Con motivo de inspección o verificación realizada por la autoridad competente, se detecte que se han cometido por tercera ocasión una o más infracciones de las señaladas en el artículo 44 de la presente Ley;
+a) Con motivo de Inspección o verificación realizada por la autoridad competente, se detecte que se han cometido por tercera ocasión una o más infracciones de las señaladas en el artículo 44 de la presente Ley;
 
-b) Su titular ceda o arriende la licencia o permiso, o derechos derivados de los mismos, o cambie el domicilio del establecimiento, sin la autorización de la Secretaría de Gobierno;
+b) Su titular ceda o arrende (sic) la licencia o permiso, o derechos derivados de los mismos, o cambie el domicilio del establecimiento, sin la autorización de la Secretaría de Gobierno;
 
 c) Su titular constituya o permita que se constituya un gravamen sobre la licencia o permiso;
 
@@ -715,9 +731,9 @@ f) Se opere con la licencia o permiso suspendidos; y
 
 g) Cuando se reincida en el supuesto establecido en la fracción XXV del artículo 44 de este ordenamiento.
 
-V. Clausura definitiva del establecimiento, cuando la resolución emitida dentro del Procedimiento Administrativo de Suspensión de los Derechos y Revocación las Licencias y Permisos, sea en el sentido de suspender o revocar los mismos.
+VI. Clausura definitiva del establecimiento, cuando la resolución emitida dentro el Procedimiento Administrativo de Suspensión de los Derechos y Revocación las Licencias y Permisos, sea en el sentido de suspender o revocar los mismos.
 
-Se entiende por clausura el acto administrativo realizado por la autoridad competente, a través del cual se suspenden las actividades dentro de un establecimiento, en donde se almacenen, vendan o consuman bebidas alcohólicas, como medida cautelar al actualizarse cualquiera de las hipótesis establecidas en el artículo 11 fracción II, 41 y 42 de la presente Ley o como consecuencia de la imposición de alguna de las sanciones previstas en su artículo 45 fracciones II, III y IV.
+Se entiende por clausura, el acto administrativo, realizado por la autoridad competente, a través del cual se suspenden las actividades dentro de un establecimiento, en donde se almacenen, vendan o consuman bebidas alcohólicas, como medida cautelar al actualizarse cualquiera de las hipótesis establecidas en el artículo 11 fracción II, 41 y 42 de la presente Ley o como consecuencia de la imposición de alguna de las sanciones previstas en su artículo 45 fracciones II, III y IV.
 
 Para el caso de que se ordene la clausura a través de una resolución como consecuencia de la suspensión de los derechos o revocación de la licencia o permiso correspondiente, el personal que designe la autoridad emisora de dicho acto administrativo procederá en los términos del artículo 114 del Código Fiscal del Estado y 39 de la presente Ley, en lo que resulten aplicables, procediendo además de colocar sellos de papel engomado que se pegarán en todos los accesos al establecimiento en forma tal que impidan totalmente la entrada al mismo.
 
@@ -994,3 +1010,17 @@ Se derogan todas las disposiciones que se opongan a la presente Ley.
 ###### ARTICULO TERCERO.
 
 La presente Ley, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 9 DE DICIEMBRE DE 2004.
+
+Artículo Primero. La presente Ley entrará en vigor el día primero de enero de 2005.
+
+Artículo Segundo. - El aviso de empadronamiento a que se refiere el artículo 49-D de la Ley de Hacienda del Estado de Querétaro, deberá presentarse, por primera vez, a más tardar el día 22 de febrero de 2005, junto con la declaración de pago del impuesto correspondiente al mes de enero.
+
+Artículo Tercero. - La Secretaría de Planeación y Finanzas deberá aprobar y publicar las formas correspondientes para la presentación de los avisos y declaraciones, a más tardar el día 30 de enero de 2005; asimismo, deberá establecer las oficinas correspondientes, autorizadas para recibirlos.
+
+Artículo Cuarto.- La recaudación por el impuesto que se establece en los artículos 49-A a 49-D de la Ley de Hacienda del Estado de Querétaro, serán destinados exclusivamente a inversión en infraestructura, obra pública y social, quedando prohibida su afectación a gasto corriente de cualquier tipo.
+
+Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
+
+Artículo Sexto.- Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
