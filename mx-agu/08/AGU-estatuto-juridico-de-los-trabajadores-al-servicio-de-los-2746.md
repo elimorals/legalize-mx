@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-juridico-de-los-trabajadores-al-servicio-de-los-2746"
 country: "mx"
 rank: "estatuto"
 publication_date: "1992-06-07"
-last_updated: "1998-02-08"
+last_updated: "2000-07-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 ESTATUTO JURIDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS Y ORGANISMOS DESCENTRALIZADOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE FEBRERO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JULIO DE 2000.
 
 Estatuto publicado en el Suplemento de la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 7 de junio de 1992.
 
@@ -560,6 +560,18 @@ E).- Por razones de carácter personal del trabajador, que no podrán exceder de
 IX.- Hacer las deducciones en los salarios que soliciten los sindicatos correspondientes, y siempre que se ajusten a los términos de esta Ley; y
 
 X.- Integrar los expedientes de los trabajadores y remitir los informes que se les soliciten para el trámite de las prestaciones sociales, dentro de los términos que señalen los ordenamientos respectivos.
+
+> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2000)</small>
+
+###### ARTICULO 57 Bis.
+
+Se prohibe a las dependencias del Estado y a los organismos públicos descentralizados:
+
+I.- Exigir la presentación de certificados médicos de ingravidez a las mujeres que aspiren a un empleo en el servicio público;
+
+II.- Negar la admisión a un empleo sólo por el hecho de ser mujer, estar embarazada, pertenecer a un estado civil determinado, o estar al cuidado de hijos menores; y
+
+III.- Obligar a las trabajadoras por coacción o por cualquier otro medio, a renunciar a su trabajo, cuando contraigan matrimonio, se embaracen o tengan al cuidado hijos menores.
 
 ### CAPITULO SEGUNDO. Obligaciones de los Trabajadores
 
@@ -1642,3 +1654,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 8 DE FEBRERO DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE JULIO DE 2000.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
