@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2002-12-24"
+last_updated: "2005-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -1483,25 +1483,17 @@ La Secretaría en coordinación con los gobiernos municipales, deberá elaborar 
 
 La Secretaría deberá elaborar una gaceta en la que se publicarán las disposiciones jurídicas, la normatividad estatal que se expida, los decretos, reglamentos, acuerdos y demás actos administrativos, así como la información de interés general en materia ambiental que se publique en el periódico oficial "El Estado de Jalisco" o en otros órganos de difusión. Igualmente, en dicha gaceta se publicará información oficial relacionada con las áreas naturales protegidas y la preservación y aprovechamiento sustentable de los recursos naturales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
 ###### Artículo 112.
 
-Toda persona tendrá derecho a que la Secretaría y los gobiernos municipales, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por esta ley. En su caso, los gastos que se generen por la reproducción de la documentación correrán por cuenta del solicitante.
+Toda persona tendrá derecho a que la Secretaría y los gobiernos municipales, según corresponda, pongan a su disposición la información ambiental que les soliciten, en los términos previstos por la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
-Toda petición de información ambiental deberá presentarse por escrito, especificando claramente la información que se solicita y los motivos de la petición. Los solicitantes deberá (sic) identificarse indicando su nombre o razón social y domicilio.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2005)</small>
 
 ###### Artículo 113.
 
-Las autoridades a que se refiere el artículo anterior, negarán la entrega de información cuando:
-
-I. Se considere por disposición legal que la información es confidencial o que por su misma naturaleza su difusión afectaría la seguridad estatal;
-
-II. Se trate de información relativa a asuntos que son materia de procedimiento administrativo o judicial o de inspección y vigilancia, pendiente de resolución;
-
-III. Se trate de información aportada por terceros, cuando por disposición legal, no estén obligados a proporcionarla; y
-
-IV. Se trate de información sobre inventarios de insumos y tecnología de proceso, incluyendo la descripción del mismo.
+Las autoridades a que se refiere el artículo anterior sólo negarán la información en los supuestos previstos por la Ley de Transparencia e Información Pública del Estado de Jalisco.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -2190,3 +2182,21 @@ P.O. 9 DE JULIO DE 2002.
 P.O. 24 DE DICIEMBRE DE 2002.
 
 ÚNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE ENERO DE 2005.
+
+PRIMERO.- El presente decreto entrará en vigor a los 180 días siguientes, en que entre en vigor el Decreto de adición al artículo 4 y de reforma diversos artículos de la Constitución Política del Estado de Jalisco, relativas al derecho a la información pública, previa publicación en el periódico oficial "El Estado de Jalisco", salvo lo establecido en los artículos siguientes.
+
+SEGUNDO.- Las disposiciones del presente decreto relativas a la creación y funcionamiento del Instituto de Transparencia e Información Pública de Jalisco, serán obligatorias a partir del día siguiente de publicación de la reforma constitucional a que se refiere el artículo anterior.
+
+TERCERO.- El Presupuesto de Egresos del Estado para el ejercicio Fiscal 2005 deberá establecer la partida presupuestal asignada al Instituto de Transparencia e Información Pública de Jalisco.
+
+CUARTO.- El Congreso del Estado deberá nombrar al Presidente y a los primeros consejeros ciudadanos del Instituto de Transparencia e Información Pública a más tardar tres meses después de la entrada en vigor de las disposiciones a que se refiere el artículo segundo transitorio. En el primer periodo de su encargo, por única vez, dos consejeros serán nombrados por dos años; dos consejeros por tres años y el consejero Presidente por cuatro años.
+
+QUINTO.- El Presidente y los consejeros ciudadanos, una vez nombrados por el Congreso del Estado, podrán aplicar el presupuesto asignado al Instituto y llevar a cabo todas aquellas atribuciones que permitan su integración y funcionamiento.
+
+SEXTO.- Antes de la entrada en vigor de la Ley, los sujetos obligados deberán integrar las unidades de transparencia e información que ésta establece, así como emitir las disposiciones reglamentarias de la misma, para que estén integradas el día de inicio de su vigencia.
+
+SEPTIMO.- De no designarse las unidades de transparencia e información en el plazo establecido en el artículo anterior, se considerará como tal, en lo relativo a la recepción y entrega de solicitudes, a la Oficialía de partes de cada una de las entidades que, de acuerdo a la normatividad aplicable, conforman la estructura orgánica de los sujetos obligados.
+
+OCTAVO.- A la entrada en vigor del presente decreto, quedará abrogada la Ley de Transparencia e Información Pública del Estado de Jalisco publicada el 22 de enero de 2002 mediante decreto número 19446.
