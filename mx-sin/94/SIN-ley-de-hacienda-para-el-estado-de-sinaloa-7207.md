@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1996-08-12"
+last_updated: "1996-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -37,1879 +37,2303 @@ DECRETO NUMERO 41
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-## TITULO PRIMERO
+## TITULO PRIMERO. DE LOS IMPUESTOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO I. ART. 1.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+### CAPITULO I. IMPUESTO SOBRE ADQUISICION DE VEHICULOS DE MOTOR USADO
 
-ART. 2.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 3.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+ART. 1o.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usado, siempre que la enajenación no sea objeto del Impuesto al Valor Agregado.
 
-ART. 4.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+Para los efectos de este Capítulo, se entiende por vehículo de motor usado cuya propiedad sea transferida por segunda o ulteriores manos.
 
-ART. 5.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 6.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+ART. 2o.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
 
-ART. 7.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+Para vehículos cuyo modelo corresponda al año en curso, se tomará como base para el cálculo del impuesto el 90% del importe de la primera facturación, incluyendo dentro de ésta el equipo opcional común o de lujo, así como el monto de los impuestos que hayan sido efectivamente pagados por el primer propietario del vehículo.
 
-ART. 8.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+El avalúo pericial a que se refiere el primer párrafo de este artículo, deberá ser practicado considerando el valor real del vehículo en la fecha de que se efectúe el trámite de pago del impuesto. Las autoridades fiscales estarán facultadas para revisar el peritaje presentado por el contribuyente, el que podrá ser rechazado en caso de que no se apegue al valor real del vehículo. Esta revisión se efectuará como un requisito previo al pago del impuesto.
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. ART. 9.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+ART. 3o.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la Entidad.
 
-ART. 10.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 11.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 12.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 13.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 14.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 15.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 16.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 17.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 18.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 19.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO III. ART. 20.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 21.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 22.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 23.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 24.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 25.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 26.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 27.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 28.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 29.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 30.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 31.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO IV. ART. 32.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 33.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 34.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 35.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 36.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 37.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 38.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 39.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 40.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 41.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 42.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 43.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 44.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 45.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 46.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 47.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 48.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 49.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 50.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 51.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 52.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 53.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 54.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 55.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 56.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO V. ART. 57.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 58.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 59.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 60.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 61.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 62.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 63.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 64.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 65.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 66.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 67.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 68.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 69.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 70.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 71.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 72.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 73.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 74.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO VI. ART. 75.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-## TITULO SEGUNDO. DE LOS IMPUESTOS
-
-### CAPITULO I. Impuesto Predial
-
-ART. 76.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 77.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 78.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 79.- El impuesto se causará aplicando a las bases mencionadas en el Artículo anterior, la siguiente:
-
-T A R I F A
-
-I.- Predios rústicos y urbanos:
-
-a).- 10 al millar anual, para los predios cuyos valores fiscales se hayan fijado con base en tablas de valores catastrales.
-
-b).- 26 al millar anual, para los predios que no hayan sido valuados en avalúos definitivo, como lo determina las tablas de valores catastrales;
-
-c).- En ninguno de los casos a que se refieren los incisos anteriores el impuesto será inferior a $ 35.00 por predio.
-
-II.- Predios rústicos ejidales:
-
-a).- Los utilizados en la agricultura pagarán con base en el volumen de la producción y la clase de producto cosechado, de acuerdo con las siguientes cuotas:
-
-Productos Cuota por Ton.
-
-1.- Ajonjolí $ 183.46
-
-2.- Alfalfa 72.00
-
-3.- Algodón 267.78
-
-4.- Alpiste 181.73
-
-5.- Arroz Palay 104.59
-
-6.- Cacahuate 92.71
-
-7.- Caña 1.88
-
-8.- Cártamo 158.44
-
-9.- Cebada 87.14
-
-10.- Frijol Mungo 150.95
-
-11.- Frijol Soya 176.28
-
-12.- Frijol otras
-
-variedades 144.26
-
-13.- Garbanzo 966.50
-
-14.- Flor de
-
-Zempoasuchitl 47.20
-
-15.- Henequén 68.96
-
-16.- Kenaf 68.08
-
-17.- Linaza 125.06
-
-18.- Maíz 55.20
-
-19.- Maíz Mijo 164.74
-
-20.- Milo Maíz 57.81
-
-21.- Tabaco 74.02
-
-22.- Trigo 79.37
-
-23.- Producto
-
-no especificado
-
-sobre valor en plaza 4.56
-
-Hortalizas y Cuota por Bulto
-
-Frutas de Primera
-
-24.- Berenjena
-
-Jaba Aambrada
-
-1 Bushel 0.84
-
-Caja Alambrada
-
-de Madera 0.91
-
-25.- Calabaza
-
-Caja de Madera
-
-Aserrada 1.21
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.44
-
-26.- Chile Bell Papper
-
-Caja de Cartón
-
-de 30 Lbs. 2.05
-
-Jaba Alambrada
-
-1 Bushel 1.68
-
-Caja de
-
-Madera Aserrada 2.40
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.19
-
-Otros Envases
-
-no especificados 1.19
-
-Caja de
-
-Cartón Encerada 1.61
-
-27.- Chile Fresno
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.40
-
-Cartón Standard
-
-Tomatero 1.18
-
-28.- Chile Caribe
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.28
-
-Caja Standard
-
-Tomatera 1.31
-
-29.- Chile Anaheim
-
-Jaba alambrada
-
-1 1/9 Bushel 2.13
-
-30.- Chile Serrano
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.44
-
-Jaba Chilera 1.24
-
-31.- Chile Jalapeño
-
-Jaba Alambrada 1 1/9 2.47
-
-32.- Chile Morrón
-
-Jaba Alambrada
-
-1 Bushel 1.19
-
-33.- Chile Cubanello
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.08
-
-34.- Chile Húngaro
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.19
-
-35.- Chile Pasilla
-
-Jaba Alambrada
-
-1 Bushel 1.51
-
-36.- Chile Pimiento Rojo
-
-Jaba Alambrada
-
-1 Bushel 0.98
-
-37.- Chícharo
-
-Canasta Chicharera
-
-1 Bushel 1.13
-
-Jaba alambrada
-
-1 1/9 Bushel 1.20
-
-38.- Ejote
-
-Jaba Alambrada
-
-1 Bushel 2.30
-
-Caja de Madera
-
-Standard 2.36
-
-Jaba Alambrada
-
-1 1/9 Bushel 2.33
-
-39.- Melón
-
-Jaba Alambrada
-
-Standard 1.15
-
-Jaba Melonera
-
-Jumbo 1.36
-
-Jaba Melonera
-
-1/2 Jumbo 0.68
-
-Caja Tomatera 0.42
-
-Jaba de Madera
-
-Aserrada 0.60
-
-40.- Pepino
-
-Jaba Alambrada
-
-1 1/9 Bushel 1.72
-
-Cartón de 24 piezas 0.70
-
-Cartón de 36 piezas 0.62
-
-Caja de Madera
-
-Standard 1.79
-
-Pickle Jaba
-
-Alambrada
-
-1 1/9 Bushel 1.13
-
-41.- Tomate Verde
-
-Caja de Cartón
-
-de 40 Lbs. 1.50
-
-Caja de Cartón
-
-de 30 Lbs. 1.14
-
-42.- Tomate Maduro
-
-Envase 3 Tandas 1.53
-
-Envase 2 Tandas 1.23
-
-Envase 30 Lbs. 1.53
-
-43.- Tomate Roma
-
-Caja de Cartón y Madera 0.95
-
-44.- Tomate Cherry
-
-Caja de Cartón y Madera 0.72
-
-Caja de Cartón y Madera 0.81
-
-45.- Mango
-
-Caja de Cartón y Madera 0.56
-
-46.- Toronja
-
-Envase no especificado 0.67
-
-47.- Jícama
-
-Envase no especificado 0.80
-
-48.- Repollo
-
-Envase no especificado 0.83
-
-49.- Nabo
-
-Envase no especificado 0.42
-
-50.- Col
-
-Caja de Madera 0.40
-
-51.- Papaya 58.11 Por Ton.
-
-52.- Aguacate 81.44 " "
-
-53.- Naranja 23.68 " "
-
-54.- Sandía 15.21 " "
-
-55.- Otras Frutas 55.61 " "
-
-56.- Otras Hortalizas 55.61 " "
-
-Hortalizas y Frutas
-
-de Segunda: Cuota por Tonelada
-
-57.- Aguacate 35.28
-
-58.- Berenjena 35.28
-
-59.- Calabaza 35.28
-
-60.- Cebolla 35.28
-
-61.- Chícharo 45.08
-
-62.- Chile Fresco 48.41
-
-63.- Chile Seco 128.65
-
-64.- Ejote 35.28
-
-65.- Elote 35.28
-
-66.- Lechuga 35.28
-
-67.- Limón 35.28
-
-68.- Mango 35.28
-
-69.- Melón 35.28
-
-70.- Naranja 35.28
-
-71.- Papa 37.52
-
-72.- Papaya 35.28
-
-73.- Pepino 33.88
-
-74.- Repollo 35.28
-
-75.- Sandía 33.88
-
-76.- Tomate 30.65
-
-77.- Toronja 35.28
-
-78.- Otras Hortalizas 35.28
-
-79.- Otras Frutas 35.28
-
-El monto a pagar derivado de la aplicación de las cuotas anteriores, en ningún caso excederá del 5% del valor de la producción anual comercializada, teniendo en cuenta los precios rurales de la producción de que se trate, en acatamiento a lo dispuesto por la fracción III del Artículo 106 de la Ley Federal de Reforma Agraria.
-
-El ingreso recaudado conforme a la aplicación de estas cuotas, se distribuirá de la siguiente forma;
-
-1.- Para el Gobierno del Estado de Sinaloa 60 %
-
-2.- Para el Municipio según lo generado en la circunscripción 10 %
-
-3.- Para la Universidad Autónoma de Sinaloa 7 %
-
-4.- Para la Promoción de Servicios Ejidales 18 %
-
-5.- Para la Investigación Agrícola 5 %
-
-b).- Los no destinados a la agricultura, el 10 al millar anual sobre el valor fiscal de los predios.
-
-ART. 80.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 81.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 82.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 83.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 84.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 85.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 86.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 87.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 88.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 88 Bis.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-### CAPITULO II. Impuesto Estatal sobre Ingresos Mercantiles
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 89.- Son objeto de este Impuesto los ingresos que se obtengan en el Estado de Sinaloa, por los conceptos siguientes:
-
-I.- Los obtenidos en los establecimientos que se enumeran a continuación por las operaciones propias de su ramo:
-
-a).- Molinos productores de masa de nixtamal, expendios de masa de maíz, tortillerías y molinos maquileros de harina o masa de maíz;
-
-b).- Fábricas y expendios de pan;
-
-c).- Carnicerías;
-
-d).- Pescaderías y expendios de mariscos; ventas de segunda o ulteriores manos de:
-
-e).- Verdulerías y fruterías;
-
-f).- Molinos de trigo y de arroz;
-
-g).- Lecherías y plantas pasteurizadoras.
-
-II.- Los obtenidos en operaciones de:
-
-a).- Maíz, Arroz, Frijol, trigo, milo maíz, garbanzo, café y cacahuate, así como otras semillas que se utilicen en la alimentación humana; siempre que no se modifique su forma, estado o composición;
-
-b).- Pescado y mariscos en estado natural, frescos, refrigerados o congelados, siempre que no se consuman en el establecimiento que los expende;
-
-c).- Aves de corral y huevos;
-
-d).- Legumbres, frutas, verduras y productos hortícolas en general, en estado natural;
-
-e).- Ganado porcino, caprino, lanar, vacuno, equino y asnal;
-
-f).- Azúcar y sal;
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-g).- Maquinaria y equipo que únicamente sean susceptibles de ser utilizados en la agricultura y ganadería, así como los fertilizantes. No quedan comprendidos en este inciso, la maquinaria y equipo para industrializar los productos agrícolas y ganaderos.
-
-III.- Los obtenidos en operaciones de venta de:
-
-a).- Carnes en estado natural;
-
-b).- Mascabado y piloncillo;
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-c).- Transporte público de personas, siempre que no se requiera concesión o permiso federal para operar;
-
-d).- Leche natural, pasteurizada, condensada, evaporada, deshidratada, rehidratada o enlatada;
-
-e).- Tortillas, nixtamal, masa de nixtamal, harina de maíz, pan, galletas y pastel;
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-f).- Semillas para siembra;
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-g).- Libros, Periódicos y revistas;
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-h).- Carbón vegetal.
-
-i).- Libros, periódicos y revistas;
-
-j).- Alimentos balanceados para animales y las materias primas necesarias para producirlos;
-
-k).- Productos de medicina veterinaria;
-
-l).- Gas para uso doméstico y carbón vegetal.
-
-IV.- Los procedentes de espectáculos públicos, por el boleto de entrada.
-
-Se exceptúan de lo dispuesto en esta fracción, los ingresos que procedan de servicios prestados en restaurantes, bares, cabarets, salones de fiesta o de baile y centros nocturnos.
-
-V.- Aguas purificadas, destiladas o potables no gaseosas ni compuestas;
-
-VI.- Los provenientes de otros actos o actividades por los que no deba pagarse el Impuesto al Valor Agregado.
-
-ART. 90.- El impuesto se causará y pagará a razón del 1.8% sobre el monto total de los ingresos gravados que se obtengan dentro del territorio del Estado.
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-ART. 91.- Son sujetos del Impuesto las personas físicas o morales que obtengan ingresos por los conceptos especificados en el Artículo 89 de este Capítulo.
-
-Los sujetos del Impuesto podrán trasladarlo expresamente al comprador o usuario del servicio, sin que en los casos de mercancías que tienen señalado el precio oficial, la traslación se considere como alteración de ese precio. Cuando lo hagan, consignarán por separado en las facturas o notas de venta que expidan, el importe de la operación y el monto del Impuesto que se calculará exclusivamente sobre dicho importe.
-
-ART. 92.- Se considera como ingreso, toda percepción en efectivo, en bienes, en servicios, en valores, en títulos de crédito, en crédito en libros o en cualquier otra forma que se obtenga por los sujetos de este impuesto, como resultado de las operaciones gravadas por este Capítulo, aún cuando no constituya parte de su objeto habitual. Para este efecto, la operación se considera realizada en el Estado, cuando el pedido o la entrega de la mercancía o la recepción del servicio o el pago del precio sean efectuados dentro del territorio de Sinaloa.
-
-El impuesto se causa sobre el ingreso total de las operaciones gravadas por este Capítulo en el monto en que se realicen aún cuando sean a plazo o a crédito, incluyéndose el sobreprecio, los intereses o cualquier otra prestación que lo aumente.
-
-Se exceptúan de lo dispuesto en el párrafo anterior los ingresos por concepto de intereses ordinarios o moratorios obtenidos por empresas fraccionadoras de terrenos, empresas inmobiliarias o cualquier otro tipo de empresas que se dediquen a la compra-venta y administración de bienes inmuebles, los cuales quedarán gravados en el Capítulo correspondiente de esta Ley.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-Para la determinación del ingreso gravado por este impuesto, así como para los efectos de las deducciones y rectificaciones correspondientes, se sujetará a lo siguiente:
-
-I.- No se considerarán ingresos gravables:
-
-a).- Los reembolsos de pago hechos a terceros por concepto de gastos por seguro, acarreos, fletes, empaques, envolturas, envases exteriores, impuestos, derechos y otros semejantes que haga el vendedor con motivo del envío de las mercancías, siempre que éstos se agreguen al comprador, sin que se altere su monto y siempre que los importes se expresen específicamente en las facturas o notas de venta que se expidan. No se aplicará lo dispuesto en este inciso cuando el precio se pacte libre de gastos para el comprador.
-
-Se considerarán ingresos gravables los derivados de la enajenación de empaques, envolturas y envases que sean necesarios para la enajenación o venta de mercancías al detalle;
-
-b).- Los descuentos y bonificaciones hechos por el vendedor al comprador;
-
-c).- Los que se reintegren con motivo de la devolución de mercancías, en los casos en que las enajenaciones se rescindan total o parcialmente.
-
-II.- Los causantes que, como consecuencia de las operaciones que realicen, registren en sus libros autorizados, asientos que comprueben aumentos o disminuciones de los ingresos declarados, y, consecuentemente, afecten el monto del impuesto pagado, podrán hacer el aumento a su cargo o la disminución a su favor del impuesto rectificado en la declaración mensual siguiente al mes en que efectivamente hayan registrado dichos asientos.
-
-También podrán hacer rectificaciones cuando descubran errores en las declaraciones presentadas que motiven una diferencia de más o de menos en el impuesto pagado, siempre que las hagan en la declaración mensual siguiente a aquélla que se rectifique.
-
-Cumpliéndose con los requisitos establecidos no se cubrirán recargos ni se impondrán sanciones por los impuestos omitidos declarados;
-
-III.- Cuando los causantes no hayan hecho uso de las prerrogativas que las concede la fracción anterior, si al finalizar su ejercicio fiscal determinan diferencias de impuesto pagadas tanto de más como de menos, podrán hacer las compensaciones correspondientes y si de ellas resulta diferencia a su cargo la cubrirán mediante declaración complementaria, con los recargos de ley, dentro de los tres meses siguientes al cierre del ejercicio; si por el contrario la diferencia fuere a su favor podrán solicitar su devolución.
-
-Fuera del Plazo señalado en el párrafo anterior, no podrán hacerse las compensaciones de que se trata y en este caso los causantes deberán pagar las omisiones y recargos y pedir por separado la devolución del impuesto cubierto en exceso;
-
-IV.- Los causantes por iniciativa propia no podrán hacer las rectificaciones a que se refieren las fracciones anteriores, cuando se descubra falsedad en los asientos de su contabilidad, cuando la omisión del impuesto haya sido descubierta de antemano por alguna autoridad, funcionario o empleado, cuando la haya precedido denuncia, cuando con anterioridad se haya iniciado una auditoría al responsable o presunto responsable, o haya sido requerido de pago de alguna prestación fiscal derivada de este impuesto.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 93.- Los causantes presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros veinte días del mes siguiente de aquel en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresándose el motivo de ello.
-
-> <small>(REFORMADO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-Tratándose de ingresos obtenidos en forma accidental por los que deba pagarse este impuesto, el causante lo cubrirá mediante declaración que presentará en la Oficina Recaudadora de su jurisdicción dentro de los diez días hábiles siguientes.
-
-> <small>(DEROGADO TERCER PARRAFO, P.O. 29 DE FEBRERO DE 1980)</small>
-
-ART. 94.- Los causantes del impuesto tienen las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Inscribirse en el Registro de Causantes del Estado y dar aviso de los cambios que se produzcan en los datos que el registro debe contener, dentro de los diez días siguientes a la fecha en que se asuma el carácter de causante o se produzca el cambio, utilizando las formas autorizadas por la Secretaría de Hacienda Pública y Tesorería;
-
-II.- Llevar los siguientes libros de contabilidad, que deberán ser autorizados por la Recaudación o Colecturía de Rentas de su juridicción (sic):
-
-a).- Cuando sus ingresos anuales sean inferiores a $ 1´500,000.01 deberán llevar las personas físicas exclusivamente, un libro de ingresos y egresos;
-
-b).- Cuando sus ingresos anuales sean de $ 1´500,000.01 o mayores, deberán llevar un Mayor General, un Diario General y un libro de Inventarios y Balances. Estos libros de contabilidad pueden ser los mismos que autorice la Secretaría de Hacienda y Crédito Público, sin que en estos casos sea necesaria la autorización por parte de la Recaudación o Colecturía de Rentas del Estado;
-
-c).- En las sucursales, dependencias o agentes de los contribuyentes deberá llevarse el "Libro Especial del Ingreso".
-
-III.- Registrar en los libros autorizados, dentro de los 60 días siguientes a la fecha en que hayan sido realizados, los asientos correspondientes a las operaciones efectuadas, designando las circunstancias y carácter de cada operación y el resultado que produzca a su cargo o descargo;
-
-Los ingresos obtenidos de las operaciones antes mencionadas deberán ser registrados en los libros autorizados dentro de los días primero al veinte del mes siguiente en que se han percibido;
-
-IV.- Conservar los libros de contabilidad y la documentación comprobatoria de las operaciones realizadas, por el término de cinco años, en el domicilio señalado en la solicitud de inscripción en el registro de causantes.
-
-ART. 95.- En caso de falta de presentación de las declaraciones mensuales de ingresos, dentro del plazo establecido en el Artículo 93 de esta Ley, transcurridos 15 días a contar del 21 de cada mes, la Oficina Recaudadora requerirá al causante moroso para que presente en un plazo de 3 días la declaración o declaraciones omitidas.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Cuando el causante que haya sido requerido para presentar la declaración o declaraciones omitidas, no cumpla con esta prevención en el término que señala este artículo, la Oficina Recaudadora procederá a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos y si en el término de 15 días no presenta su declaración, la liquidación provisional se considerará como formulada por el causante, para efectos de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 96.- Las obligaciones a que se refiere el Artículo 94 de esta Ley, no son aplicables a los causantes que obtengan ingresos en forma accidental, salvo la que se refiere a conservar la documentación comprobatoria de los ingresos percibidos por el término de cinco años, señalada en la fracción IV de dicho Artículo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 96 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO III. Impuesto sobre Producto de Capitales
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 97.- Son causantes de este impuesto, las personas físicas o jurídicas que obtengan en el Estado o de fuentes de riqueza ubicadas en él, o de créditos garantizados con bienes ubicados en su territorio, ingresos por los conceptos siguientes, siempre que el ingreso gravado no se derive de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado:
-
-I.- Intereses simples o capitalizados sobre préstamos en general;
-
-II.- Intereses sobre cantidades que se adeuden como precio en contratos de compraventa a plazos, compraventa con reserva de dominio o de promesa de compraventa.
-
-III.- Intereses sobre cantidades anticipadas a cuenta de precio de toda clase de bienes o derechos;
-
-IV.- Intereses provenientes del contrato de cuenta corriente;
-
-V.- Descuentos o anticipos sobre títulos o documentos;
-
-VI.- Usufructos de capitales impuestos a rédito;
-
-VII.- Arrendamiento de negociaciones agrícolas o ganaderas aún cuando se arrienden separadamente el inmueble y los bienes que constituyan la negociación;
-
-VIII.- Los réditos o intereses por préstamos prendarios otorgados por montepíos o casas de empeño;
-
-IX.- Arrendamiento o subarrendamiento de los siguientes bienes inmuebles:
-
-a).- El suelo;
-
-b).- Fincas dedicadas o utilizadas solo a fines agrícolas o ganaderos;
-
-c).- Inmuebles destinados o utilizados exclusivamente para casa-habitación;
-
-En el caso de arrendamiento de los inmuebles a que se refiere este inciso, el impuesto sólo se causará cuando el monto total de los ingresos mensuales que perciba el causante, exceda al equivalente mensual del 50% del salario mínimo general vigente en la zona económica respectiva del Estado.
-
-Si un inmueble tuviere varios destinos o usos, el impuesto sólo se pagará por la parte destinada o utilizada para casa-habitación.
-
-Lo dispuesto en este inciso no es aplicable a los inmuebles o parte de ellos que se proporcionen amueblados o se destinen o utilicen como hoteles o casas de hospedaje. No se considerará amueblada la casa habitación cuando se proporcione con muebles de cocina, de baño o para guardar ropa o los integrados a la construcción, así como aquéllos que determine la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general;
-
-X.- Operaciones e inversiones de capital, cualquiera que sea la denominación que se le dé a los ingresos obtenidos, siempre que éstos no sean objeto de algún otro impuesto del Estado o que no estén expresamente exceptuados por una Ley local o federal aplicable.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 98.- El impuesto se causa, sin deducción alguna, sobre los ingresos que el acreedor perciba por los conceptos señalados en el artículo anterior, con arreglo a la siguiente:
-
-T A R I F A
-
-I.- En el caso de los ingresos gravables comprendidos en las fracciones I, II, III, IV, V y VI del Artículo 97, se aplicarán los siguientes porcientos:
-
-Interés, Tasa
-
-tipo de descuento Aplicable
-
-o rédito anual
-
-Hasta del 12% 11.2%
-
-Hasta del 15% 14.0%
-
-Hasta del 18% 16.8%
-
-Mayor del 18% 21.0%
-
-II.- En el caso de los ingresos gravables comprendidos en las fracciones VII, VIII y X del Artículo 97, se aplicará una tasa del 11.2%
-
-III.- En el caso de los ingresos gravables comprendidos en la fracción IX del Artículo 97, se aplicarán los siguientes porcientos:
-
-a).- Si se trata de arrendamiento de los inmuebles a que se refieren los incisos a) y b) de dicha fracción, sobre el ingreso gravable 3.5%
-
-b).- Si se trata de arrendamiento de los inmuebles a que se refiere el inciso c) de dicha Fracción, sobre el ingreso gravable:
-
-I.- Hasta $ 3,000.00 2.0%
-
-II.- De $ 3,000.01 en adelante 2.5%
-
-c).- Si se trata de subarrendamiento, el impuesto se cubrirá sobre la base de la diferencia entre el precio del subarrendamiento y el del arrendamiento, aplicándose una tasa de 11.2%
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 99.- Si los ingresos gravables a que se refiere la fracción I del artículo anterior, se derivan de créditos concedidos a una empresa o sociedad mercantil establecida en el Estado de Sinaloa y son destinados en forma específica al desarrollo o ampliación de sus actividades, se aplicará únicamente el 38% de las tasas de impuesto previstas por dicha Fracción.
-
-ART. 100.- El impuesto que establece este Capítulo es a cargo del acreedor o persona que reciba los ingresos gravables, y no surte efectos fiscales cualquiera estipulación o convenio en sentido contrario.
-
-ART. 101.- Los causantes presentarán declaración mensual de acuerdo con las formas oficiales aprobadas, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros quince días del mes siguiente de aquél en que se hubieren obtenido los ingresos gravados. La declaración mensual deberá presentarse aún en el caso de que no se perciban ingresos gravados, expresando el motivo de ello.
-
-ART. 102.- En el caso de arrendamiento de bienes inmuebles, se observarán las siguientes reglas:
-
-I.- Si se trata de arrendamiento de bienes inmuebles urbanos:
-
-a).- El impuesto se cubrirá en los términos establecidos en el Artículo anterior;
-
-b).- Dentro de los quince días siguientes a la fecha de celebración del contrato de arrendamiento, el causante o arrendador deberá presentar una manifestación por escrito, acompañando una copia del contrato respectivo.
-
-II.- Si se trata de arrendamiento de inmuebles rústicos, el impuesto deberá cubrirse a más tardar dentro de los quince días siguientes a la fecha de celebración del contrato, mediante la presentación de una sola declaración anual, en las formas oficiales aprobadas, que deberá acompañarse de una copia del contrato respectivo.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 103.- Cuando los ingresos gravables pertenezcan a causantes domiciliados fuera del Estado, los deudores están obligados a retener el impuesto causado, descontándolo del pago que hagan al acreedor, y a enterar las cantidades retenidas en la Oficina Recaudadora correspondiente a su domicilio, en los términos que señalan los artículos inmediatos anteriores.
-
-ART. 104.- El deudor que no dé cumplimiento a la obligación de retener el impuesto en los términos del artículo anterior, responderá solidariamente de su pago y será sancionado como infractor.
-
-ART. 105.- Para los efectos de este impuesto, las cantidades abonadas por el deudor, por concepto de pago parcial o total del adeudo, se aplican en igual proporción al principal y a intereses vencidos.
-
-ART. 106.- Quedan exentos del impuesto:
-
-I.- Los ingresos por aparcería de fincas rústicas y las rentas provenientes de contratos de arrendamiento prorrogados por disposiciones de la Ley (rentas congeladas);
-
-II.- Los ingresos de instituciones de beneficencia pública o privada del Estado de Sinaloa, siempre que se demuestre que el monto total de los ingresos gravables por este impuesto se destina íntegramente a los fines de su instituto;
-
-III.- Los productos de capitales que se destinen al ramo de Educación en el Estado;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-IV.- Los intereses por ventas a plazo y los intereses moratorios cuando se deriven de actos o actividades por los que deba pagarse el Impuesto al Valor Agregado, mientras esté vigente el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-V.- Los intereses de los bonos de la deuda pública mexicana, si los tenedores están exceptuados del pago de impuestos locales por alguna Ley Federal o Local;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-VI.- Los intereses que paguen u obtengan las instituciones u organizaciones auxiliares de crédito, nacionales o del extranjero, así como las instituciones de seguros o de fianzas, siempre que dichos intereses se deriven de operaciones propias del objeto de dichas instituciones.
-
-La disposición contenida en el párrafo anterior se refiere exclusivamente a los casos en que los intereses y percepciones sean pagados u obtenidos por dichas instituciones afectando sus respectivos patrimonios, en su carácter de deudores o de acreedores, pero de ninguna manera comprenden los casos de fideicomisos o cualesquiera otras operaciones en las que intervengan dichas instituciones invirtiendo capitales propiedad de terceras, aún cuando el pago de estos intereses y percepciones se haga por conducto de las mismas instituciones. En estos casos las manifestaciones y avisos a que se refiere el Artículo 107 de esta Ley, deberán ser hechos por las propias instituciones.
-
-VII.- Los ingresos gravados por este impuesto que perciban las entidades públicas comprendidas en el Artículo 38 de esta Ley;
-
-VIII.- Los ingresos provenientes de intereses causados por los préstamos hechos para construcción de viviendas de interés social;
-
-IX.- Ingresos provenientes de acciones, comanditas, participaciones, partes de fundador, bonos, obligaciones y cédulas;
-
-X.- Ingresos por intereses en caja de ahorros de los empleados, derivados de préstamos que se otorgan a ellos mismos.
-
-ART. 107.- Los causantes de este impuesto tienen las siguientes obligaciones:
-
-I.- Presentar ante la Oficina Recaudadora de su jurisdicción los documentos públicos o privados en que se consignen las operaciones, actos o contratos de los que deriven los ingresos gravables;
-
-II.- Presentar ante la Oficina Recaudadora de su jurisdicción dentro del plazo establecido por esta Ley, las declaraciones derivadas de los ingresos gravables percibidos;
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-III.- Dar aviso a la Oficina Recaudadora de Rentas correspondiente a su domicilio, haciendo uso de las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-a).- De iniciación de operaciones;
-
-b).- De cambio o baja:
-
-1.- Cambio de denominación social;
-
-2.- Cambio de actividad;
-
-3.- Cambio de domicilio;
-
-4.- Traspaso de la negociación;
-
-5.- Suspensión temporal de actividades; y
-
-6.- Clausura definitiva o cesación de actividades.
-
-IV.- Tratándose de contratos de promesa de compraventa, de compraventa con reserva de dominio o de compraventa a plazos, que celebren empresas inmobiliarias o fraccionadoras de terrenos, éstas deberán presentar una declaración mensual, en las formas que aprueben las autoridades fiscales, en la que se indique el nombre de los adquirentes, el importe del capital al iniciarse y al concluir el período de la declaración, el tipo de interés pactado, el tipo de interés compensatorio pactado y del interés moratorio, en su caso, y el monto total de los intereses percibidos en el mismo mes. Dicha declaración se presentará en la Oficina Recaudadora que corresponda al domicilio de las empresas mencionadas, dentro de los primeros quince días del mes siguiente de aquél en que se hubiere percibido los ingresos generados.
-
-ART. 108.- Los notarios y los jueces que actúen por receptoría, dentro de los quince días siguientes a la fecha en que se autoricen las escrituras en que consten operaciones, actos o contratos de los que se derive el derecho a percibir ingresos gravables con este impuesto, o los que modifiquen esas escrituras o por las que extingan las obligaciones contraídas en dichas operaciones o contratos, darán aviso de su otorgamiento a la Oficina Recaudadora de su residencia. Estos avisos se darán aún en los casos de que, en concepto del Notario o Juez, los ingresos estén exentos del impuesto.
-
-ART. 109.- Los encargados del Registro Público de la Propiedad y del Comercio no inscribirán los títulos, contratos o documentos en que e hagan constar operaciones generadoras de ingresos gravables por este impuesto, si no se les acredita previamente, con la copia sellada por la autoridad fiscal competente o con otra constancia expedida por ésta, que los títulos, contratos o documentos fueron registrados ante dicha autoridad.
-
-ART. 110.- Los propios funcionarios tampoco podrán cancelar las inscripciones relativas a esos títulos, contratos o documentos, si no se les acredita con los respectivos recibos oficiales de pago de este impuesto o con otra constancia expedida por la autoridad fiscal competente, que se está al corriente en el pago de este impuesto.
-
-ART. 111.- Para los efectos de este impuesto, las autoridades judiciales deberán:
-
-I.- Dar aviso a la Oficina Recaudadora de su adscripción de las demandas, contra-demandas y excepciones y de cualesquiera otra promoción posterior cuando ésta implique desistimiento de alguna de las partes, así como de las transacciones o convenios a que éstas puedan llegar, si esos hechos ocurren dentro de un procedimiento seguido en relación con actos o contratos de los que se derive el derecho a obtener ingresos gravables con este impuesto;
-
-II.- Dar a conocer a la Oficina Recaudadora de su adscripción de las resoluciones que dicten en los casos a que se refiere la fracción que antecede y de los recursos que contra ellas se promuevan, así como de las dictadas en el recurso.
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO IV
-
-ART. 112.- Son causantes de este impuesto los productores de alcohol etílico en el Estado.
-
-ART. 113.- Este impuesto se causará cada año, sobre el total de la producción habida en este período, a razón de $0.40 por litro.
-
-ART. 114.- Para el cobro del impuesto se tomará como base, provisionalmente, el número de litros de alcohol que autorice la Secretaría de Hacienda y Crédito Público en los permisos de elaboración correspondiente a cada año y la sobreproducción obtenida. El impuesto que resulte sobre la cantidad de libros, se dividirá entre los meses correspondientes al período de elaboración inmediato anterior, haciéndose el primer entero en el mes en que se dé el principio la elaboración y el último en el mes en que termine ésta.
-
-Cuando la elaboración corresponda a parte de un año y del siguiente, el impuesto total se dividirá entre los meses que correspondan al período de elaboración, y el cociente será la culta mensual que deba pagarse, haciéndose el primer entero en el mes en que se dé principio aquélla, y el último en el mes en que termine.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-Si los productores obtienen permisos adicionales, la Secretaría de Hacienda Pública y Tesorería formulará la liquidación en los términos ya expresados, según el caso.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 115.- El pago del impuesto se hará directamente en la Secretaría de Hacienda Pública y Tesorería, por meses adelantados dentro de los primeros quince días de cada mes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 116.- Dentro de los diez días siguientes a la terminación de la elaboración, los causantes presentarán el aviso de clausura, manifestando la cantidad total de litros de alcohol que hubieren sido elaborados durante el período de producción. Si la Secretaría de Hacienda Pública y Tesorería estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las siguientes reglas:
-
-I.- En primer término, en vista del monto total de litros de alcohol elaborados, hará la determinación de los impuestos causados;
-
-II.- Del monto de estos impuestos, hará la deducción de las cantidades pagadas provisionalmente;
-
-III.- Si hecha ésta deducción, resulta saldo a cargo del causante, su importe deberá cubrirse dentro de los quince días siguientes a la fecha en que hubiere terminado la producción.
-
-ART. 117.- Los causantes de este impuesto independientemente de la obligación del pago del mismo, deberán:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Presentar ante la Secretaría de Hacienda Pública y Tesorería, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto; y
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-II.- Dar aviso a la Secretaría de Hacienda Pública y Tesorería, haciendo uso de las formas oficiales aprobadas, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-a).- De iniciación de operaciones;
-
-b).- De cambio o baja;
-
-1.- Cambio de denominación o razón social;
-
-2.- Cambio de actividad;
-
-3.- Cambio de domicilio;
-
-4.- Traspaso de negociación;
-
-5.- Suspensión temporal de actividades; y
-
-6.- Clausura definitiva o cesación de actividades.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 118.- Si los causantes de este impuesto omiten presentar sus declaraciones dentro de los plazos que fije esta Ley, la Secretaría de Hacienda Pública y Tesorería hará la liquidación sobre la base de declaraciones suplidas, con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 118 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO V. Impuesto sobre Producción de Azúcar y Mascabado
-
-ART. 119.- Son causantes de este impuesto, los productores de azúcar y mascabado en el Estado.
-
-ART. 120.- El impuesto se causará sobre el monto total de la producción de cada zafra, a razón de $0.03 por kilogramo.
-
-ART. 121.- Para el cobro del impuesto se tomará como base, provisionalmente, el total de la producción obtenida durante el período de zafra inmediata anterior y se dividirá entre el número de meses correspondientes a ese período para obtener el promedio de producción mensual. Sobre esta base se calculará el impuesto respectivo, debiendo hacerse el primer pago adelantado en el mes en que dé principio la elaboración.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 122.- El impuesto deberá pagarse directamente en la Secretaría de Hacienda Pública y Tesorería, por meses adelantados, dentro de los primeros quince días de cada mes.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 123.- Dentro de los diez días siguientes a la terminación de la zafra, los causantes presentarán el aviso de clausura, anexando una declaración por triplicado en que se especifique la cantidid (sic) total de kilogramos de azúcar y mascabado elaborados por ese período. Si la Secretaría de Hacienda Pública y Tesorería estima correcta la declaración, formulará la liquidación definitiva del impuesto, conforme a las reglas siguientes:
-
-I.- En primer término, en vista del monto total de kilogramos de azúcar y mascabado elaborados, hará la determinación de los impuestos causados;
-
-II.- Del monto de estos impuestos, hará la deducción de las cantidades pagadas provisionalmente;
-
-III.- Si hecha esta deducción, resulta saldo a cargo del causante su importe deberá cubrirse dentro de los quince días siguientes a la fecha de terminación de la zafra.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 124.- Si la Secretaría de Hacienda Pública y Tesorería no estima correcta la declaración a que se refiere el Artículo anterior, practicará las investigaciones procedentes y con el resultado formulará la liquidación definitiva del impuesto con arreglo al Artículo anterior.
-
-ART. 125.- Los causantes de este impuesto, independientemente de la obligación del pago del mismo, deberán:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Presentar ante la Secretaría de Hacienda Pública y Tesorería, en la forma y términos que fija esta Ley, las declaraciones necesarias para la determinación del impuesto; y,
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-II.- Dar aviso a la Secretaría de Hacienda Pública y Tesorería del Estado, haciendo uso de las formas oficiales aprobadas, dentro de los diez días siguientes a la fecha en que ocurra cualquiera de los siguientes hechos:
-
-a).- De iniciación de operaciones;
-
-b).- De cambio o baja;
-
-1.- Cambio o denominación o razón social;
-
-2.- Cambio de actividad;
-
-3.- Cambio de domicilio;
-
-4.- Traspaso de la negociación;
-
-5.- Suspensión temporal de actividades; y
-
-6.- Clausura definitiva o cesación de actividades.
-
-ART. 126.- Si se omite la presentación de declaraciones dentro de los plazos que fija esta Ley, los causantes serán calificados de oficio por la Secretaría con los datos que posea y con los que le suministren las Oficinas Federales de Hacienda y con los que obtenga por otros medios.
-
-ART. 127.- El impuesto se causará desde la fecha en que se inicie la elaboración de los productos gravados, hasta que ésta termine.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 127 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO VI. Impuesto sobre Producción de Mieles Incristalizables
-
-ART. 128.- Es objeto de este impuesto la producción de mieles incristalizables en el Estado, y se causará a razón de $ 0.02 por kilogramo de miel incristalizable que se produzca.
-
-Para los efectos del pago del impuesto los kilogramos deberán calcularse en su peso equivalente a 85 grados Brix.
-
-ART. 129.- Son sujetos de este impuesto los productores de mieles incristalizables en el Estado, siendo responsables solidarios en su pago los adquirentes de los productos gravados.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 130.- El impuesto deberá pagarse por los productores, directamente en la Secretaría de Hacienda Pública y Tesorería, dentro de los primeros quince días del mes siguiente de aquél en que las mieles incristalizables salgan por cualquier título o motivo del Ingenio Azucarero en que se produzcan, previa presentación de las declaraciones y demás documentación aprobadas por la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 131.- No causan el impuesto, las mieles incristalizables:
-
-I.- Transferidas de la fábrica de azúcar a la de alcohol o de aguardiente, siempre que la explotación de las fábricas la haga la misma persona;
-
-II.- Destruidas con autorización de la Secretaría de Hacienda y Crédito Público, así como las mermas y pérdidas por causas de fuerza mayor o caso fortuito, debidamente reconocidas por la propia Secretaría.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 131 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO VII. Impuesto sobre la Producción Agrícola
-
-ART. 132.- Es objeto de este impuesto la producción de productos agrícolas en el Estado.
-
-ART. 133.- Son causantes del impuesto los productores y solidariamente responsables de su pago los adquirentes de productos agrícolas. Las personas físicas o morales que por cualquier título funjan como intermediarios o mediadores entre los productores y los adquirentes, serán también responsables solidarios y asumirán las mismas obligaciones que se establecen para los adquirentes en el presente capítulo.
-
-ART. 134.- El impuesto se causará conforme a la siguiente:
-
-T A R I F A
-
-Productos:
-
-1.- Ajonjolí $ 86.16 Por Ton.
-
-2.- Alfalfa 30.00 " "
-
-3.- Algodón 119.66 " "
-
-4.- Alpiste 90.25 " "
-
-5.- Arroz Palay 43.71 " "
-
-6.- Cacahuate 38.20 " "
-
-7.- Caña 1.12 " "
-
-8.- Cártamo 76.01 " "
-
-9.- Cebada 44.30 " "
-
-10.- Frijol Mungo 70.00 " "
-
-11.- Frijol Soya 94.26 " "
-
-12.- Frijol otras
-
-variedades 65.60 " "
-
-13.- Garbanzo 600.00 " "
-
-14.- Flor de
-
-Zempoasúchitl 22.37 " "
-
-15.- Henequén 28.00 " "
-
-16.- Kenaf 27.42 " "
-
-17.- Linaza 49.71 " "
-
-18.- Maíz 27.63 " "
-
-19.- Maíz Mujo 84.50 " "
-
-20.- Milo Maíz 28.69 " "
-
-21.- Tabaco 31.33 " "
-
-22.- Trigo 38.40 " "
-
-23.- Productos no especificados sobre el valor en plaza 3.0 %
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-HORTALIZAS Y FRUTAS Cuota
-
-DE PRIMERA por Bulto
-
-24.- Berenjena
-
-Jaba Alambrada 1 Bushel 0.55
-
-Jaba Alambrada Aserrada 0.59
-
-25.- Calabaza
-
-Caja de Madera Aserrada 0.79
-
-Jaba de Madera Alambrada
-
-1 1/9 Bushel 0.94
-
-26.- Chile Bell Pepper
-
-Caja de Cartón de 30 Lbs. 1.34
-
-Caja de Madera Alambrada
-
-1 Bushel 1.10
-
-Caja de Madera Aserrada 1.57
-
-Jaba Alambrada de Madera
-
-1 Bushel 1.43
-
-Otros Envases no especificados 0.78
-
-Caja de Cartón Encerada 1.05
-
-27.- Chile fresno
-
-Jaba Alambrada 1 Bushel 1.57
-
-Cartón Standard Tomatero 0.77
-
-28.- Chile Caribe
-
-Jaba Alambrada 1 Bushel 1.49
-
-Caja Standard Tomatera 0.86
-
-29.- Chile Anaheim
-
-Jaba Alambrada 1 Bushel 1.39
-
-30.- Chile Serrano
-
-Jaba Alambrada 1 Bushel 0.94
-
-Jaba Chilera 0.81
-
-31.- Chile Jalapeño
-
-Jaba Alambrada 1 bushel 1.62
-
-32.- Chile Morrón
-
-Jaba Alambrada 1 1/9 Bushel 1.57
-
-33.- Chile Cubanello
-
-Jaba Alambrada 1 Bushel 1.36
-
-34.- Chile Húngaro
-
-Jaba Alambrada 1 Bushel 1.43
-
-35.- Chile Pasilla
-
-Jaba Alambrada 1 Bushel 0.99
-
-36.- Chile Pimiento Rojo
-
-Jaba Alambrada 1 Bushel 1.18
-
-37.- Chícharo
-
-Canasta chicharera 1 Bushel 0.74
-
-Jaba Alambrada 1 1/9 Bushel 0.78
-
-Caja Madera 0.39
-
-Jaba Alambrada 1 Bushel 0.61
-
-38.- Ejote
-
-Jaba Alambrada 1 Bushel 1.51
-
-Caja Madera Alambrada Std. 1.55
-
-Jaba Madera Alambrada 1.55
-
-Jaba Alambrada 1 1/9 Bushel 1.53
-
-39.- Melón
-
-Jaba Alambrada Standard 0.74
-
-Jaba Melonera Jumbo 0.87
-
-Jaba Melonera Pony 0.43
-
-Caja Tomatera 0.27
-
-Jaba de Madera Aserrada 0.39
-
-40.- Nappa
-
-Jaba Madera Grande 2.01
-
-Jaba Madera Mediana 0.91
-
-Jaba Madera Chica 0.54
-
-41.- Pepino
-
-Jaba Alambrada 1 Bushel 1.13
-
-Cartón de 24 piezas 0.45
-
-Cartón de 36 piezas 0.88
-
-Caja Madera Standard 1.17
-
-Pickle Jaba Alambrada
-
-1 1/9 Bushel 0.74
-
-42.- Tomate Verde
-
-Caja de Cartón de 40 Lbs. 0.98
-
-Caja de Cartón de 30 Lbs 0.74
-
-43.- Tomate Maduro
-
-Envase de 3 tandas 1.00
-
-Envase de 2 tandas 0.80
-
-Envase de 30 Lbs. 1.00
-
-44.- Tomate Roma
-
-Caja de Cartón y Madera 0.62
-
-45.- Tomate Cherry
-
-Caja de Cartón y Madera 0.47
-
-Caja de Cartón o Madera 0.53
-
-46.- Tomatillo
-
-Envase no especificado 0.57
-
-47.- Otras Hortalizas
-
-Tonelada 35.93
-
-48.- Mango
-
-Caja de Cartón y Madera 0.36
-
-49.- Toronja
-
-Envase no especificado 0.43
-
-50.- Jicama
-
-Envase no especificado 0.51
-
-51.- Repollo
-
-Envase no especificado 0.53
-
-52.- Nabo
-
-Envase no especificado 0.27
-
-53.- Col
-
-Caja de Madera 0.26
-
-54.- Papaya
-
-Tonelada 37.57
-
-55.- Aguacate
-
-Tonelada 52.92
-
-Envase no especificado 0.63
-
-56.- Naranja
-
-Tonelada 14.92
-
-57.- Sandía
-
-Tonelada 9.35
-
-58.- Otras Frutas
-
-Tonelada 35.93
-
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-HORTALIZAS Y FRUTAS Cuota
-
-DE SEGUNDA p/TON.
-
-59.- Aguacate 47.37
-
-60.- Berenjena 17.76
-
-61.- Calabaza 14.92
-
-62.- Cebolla 17.76
-
-63.- Chícharo 17.76
-
-64.- Chile Fresco 17.11
-
-65.- Chile Seco 76.97
-
-66.- Ejote 14.92
-
-67.- Elote 17.76
-
-68.- Lechuga 14.92
-
-69.- Limón 35.53
-
-70.- Mango 26.05
-
-71.- Melón 14.92
-
-72.- Naranja 23.68
-
-73.- Papa 29.61
-
-74.- Papaya 29.61
-
-75.- Pepino 14.92
-
-76.- Repollo 14.92
-
-77.- Sandía 14.92
-
-78.- Tomate 29.43
-
-79.- Toronja 17.76
-
-80.- Otras Hortalizas 15.39
-
-81.- Otras frutas 23.68
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 135.- El impuesto se pagará en la Oficina Recaudadora a cuya jurisdicción corresponda el lugar de procedencia de los productos agrícolas que lo generen, o en las Oficinas que la Secretaría de Hacienda Pública y Tesorería designe para tal efecto.
-
-ART. 136.- El impuesto deberá pagarse al salir los productos de la finca de origen o al efectuarse la primera venta. En caso de que los productos agrícolas se destinen para uso dentro de la propia finca o sean almacenados dentro de ésta, el impuesto deberá cubrirse en un plazo máximo de 30 días después de haberse efectuado la cosecha.
-
-ART. 137.- Los causantes de este impuesto y los responsables solidarios del mismo tienen las siguientes obligaciones:
-
-I.- Los productores agrícolas, deberán en todo caso, recabar, y conservar por el término de cinco años, los recibos o documentos mediante los cuales se compruebe que los impuestos causados sobre la producción agrícola por ellos generada, fueron debidamente cubiertos de conformidad con las demás disposiciones que se establecen en el presente Capítulo;
-
-II.- Los compradores de productos agrícolas, así como los intermediarios o mediadores entre éstos y los productores:
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-a).- Deberán registrarse en las Oficinas Recaudadoras de su jurisdicción o en las que para el efecto señale la Secretaría de Hacienda Pública y Tesorería, debiendo efectuar dicho registro a más tardar el décimo día posterior a la fecha de la iniciación de sus operaciones;
-
-b).- Presentar dentro de los primeros quince días de cada mes, una declaración de los productos comprados durante el mes inmediato anterior;
-
-c).- Acompañarán a la declaración a que se refiere el párrafo anterior, los recibos o constancias de pago de los impuestos respectivos, los cuales les serán devueltos por la Oficina Recaudadora una vez efectuada la verificación de los mismos y la certificación de la declaración correspondiente;
-
-d).- Dar de baja su registro ante las Oficinas Recaudadoras, dentro de los diez días siguientes a la fecha de terminación de sus operaciones.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 138.- Los compradores de productos agrícolas, los intermediarios o mediadores, previa autorización de la Secretaría de Hacienda Pública y Tesorería, podrán realizar en una exhibición el pago del impuesto correspondiente al producto obtenido de varios productores. Cuando se siga este procedimiento, los compradores, los intermediarios o mediadores estarán obligados a proporcionar a cada uno de los productores constancia escrita del pago del impuesto; en dicha constancia deberá indicarse el número y la fecha del recibo de pago, así como el mes a que corresponda la declaración en que certifica por la Oficina Recaudadora la presentación del recibo mencionado.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 138 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE ENERO DE 1983)</small>
-
-### CAPITULO VIII. Impuesto sobre Adquisición de Inmuebles
-
-ART. 139.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 140.-(DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 141.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 142.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 143.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 144.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 145.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 146.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 147.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 148.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 149.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1983)</small>
-
-### CAPITULO VIII BIS. Impuesto Sobre Adquisición de Vehículos de Motor Usados
-
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
-
-ART. 150.- Están obligados al pago de este impuesto, quienes por cualquier título adquieran dentro del territorio del Estado, la propiedad o la posesión de vehículos de motor usados, siempre que la enajenación no sea objeto del Impuesto al Valor Agregado.
-
-Para los efectos de este Capítulo, se entiende por vehículos de motor usado aquel cuya propiedad sea transferida por segunda o ulteriores manos.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
-
-ART. 151.- Tratándose de vehículos de modelo anterior al año en curso, la base del impuesto será el valor que resulte mayor entre el precio consignado en la operación y el que se encuentre señalado en el tabulador oficial que anualmente autorice al efecto la Secretaría de Hacienda Pública y Tesorería, o el fijado por peritos cuando se trate de vehículos no clasificados en el tabulador, accidentados o en condiciones físicas anormales.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-ART. 152.- Para los efectos de este impuesto se considerará efectuada la operación dentro del Estado por el solo hecho de dar de alta un vehículo en cualquier parte del territorio de la entidad.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 1994)</small>
-
-ART. 153.- Este impuesto se causará aplicando sobre la base gravable a que se refiere el Artículo 151 de esta Ley, la siguiente:
+ART. 4o.- Este impuesto se causará aplicando sobre la base a que se refiere el Artículo 2 de esta Ley, la siguiente:
 
 T A R I F A:
 
-CLASE Y
+CLASE Y MODELO DE VEHICULO TASA %
 
-MODELO DE
+I.- Automóviles de modelo hasta cinco años anteriores
 
-VEHICULO TASA %
+al año en curso incluyendo este último:
 
-I.- Automóviles de modelo hasta cinco años anteriores al año
+a.- de 8 cilindros 4.0
 
-en curso incluyendo este último:
+b.- de 6 cilindros 3.5
 
-a)- De 8 cilindros 4.0
+c.- de 4 cilindros 3.0
 
-b)- De 6 cilindros 3.5
-
-c)- De 4 cilindros 3.0
-
-II.- Automóviles de modelo entre 6 y 10 años anteriores al año
-
-en curso:
-
-a)- De 8 cilindros 3.5
-
-b)- De 6 cilindros 3.0
-
-c)- De 4 cilindros 2.5
-
-III.- Automóviles de modelo superior a los 10 años anteriores al año
-
-en curso:
-
-a)- De 8 cilindros 3.0
-
-b)- De 6 cilindros 2.5
-
-c)- De 4 cilindros 2.0
-
-IV.- Unidades de carga y pasaje modelo hasta 5 años anteriores al
-
-año en curso incluyendo este último:
-
-a)- Tracto Camiones
-
-y Volteo 4.0
-
-b)- Ómnibus y Minibus 3.5
-
-c)- Chasis todas
-
-modalidades 3.0
-
-d)- Estacas, Pic-Up, Panel,
-
-Van, Maxi y Club-Cab 2.5
-
-V.- Unidades de carga y pasaje modelo entre 6 y 10 años anteriores
+II.- Automóviles de modelo entre 6 y 10 años anteriores
 
 al año en curso:
 
-a)- Tracto Camiones
+a.- de 8 cilindros 3.5
 
-y Volteo 3.5
+b.- de 6 cilindros 3.0
 
-b)- Ómnibus y Minibus 3.0
+c.- de 4 cilindros 2.5
 
-c)- Chasis todas
+III.- Automóviles de modelo superior a los 10 años anteriores al año en curso:
 
-modalidades 2.5
+a.- de 8 cilindros 3.0
 
-d)- Estacas, Pic-Up, Panel,
+b.- de 6 cilindros 2.5
 
-Van, Maxi y Club-Cab 2.0
+c.- de 4 cilindros 2.0
 
-VI.- Unidades de carga y pasaje modelo superior a los 10 años
+IV.- Unidades de carga y pasaje modelo hasta 5 años anteriores al año en curso incluyendo este último:
 
-anteriores al año en curso:
+a.- Tracto Camiones y Volteo 4.0
 
-a)- Tracto Camiones
+b.- Omnibus y Minibus 3.5
 
-y Volteo 3.0
+c.- Chasis todas modalidades 3.0
 
-b)- Ómnibus y Minibus 2.5
+d.- Estacas, Pick-Up, Panel, Van, Maxi y
 
-c)- Chasis todas
+Club-Cab. 2.5
 
-modalidades y estacas,
+V.- Unidades de carga y pasaje modelo entre 6 y
 
-Pich-Up (sic), Panel, Van,
+10 años anteriores al año en curso:
 
-Maxi y Club-Cab 2.0
+a.- Tracto Camiones y Volteo 3.5
 
-VII.- Motocicletas:
+b.- Omnibus y Minibus 3.0
 
-a)- De 1,500 a 950 Cm3 3.0
+c.- Chasis todas modalidades 2.5
 
-b)- De 900 a 500 Cm3 2.5
+d.- Estacas, Pick-Up, Panel, Van, Maxi
 
-c)- De 490 a 400 Cm3 2.0
+y Club-Cab. 2.0
 
-d)- De 350 a 100 Cm3 1.5
+VI.- Unidades de carga y pasaje modelo
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+superior a los 10 años anteriores al año
 
-ART. 154.- El pago de este impuesto deberá efectuarse en la oficina recaudadora correspondiente, dentro de los quince días naturales siguientes a la fecha de celebración de la operación.
+en curso:
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+a.- Tracto Camiones y Volteo 3.0
 
-ART. 155.- Para los efectos del pago del impuesto, los adquirentes deberán presentar ante la oficina recaudadora correspondiente el original del documento que ampare la propiedad del vehículo materia de la operación, acompañado de tres copias del mismo y en el que se señale expresamente el precio y la fecha de la operación.
+b.- Omnibus y Minibus 2.5
 
-La oficina recaudadora efectuará el cobro del impuesto expidiendo el recibo oficial respectivo, y sellará la factura o comprobante que ampare la propiedad del vehículo, para hacer constar que el impuesto ha sido cubierto.
+c.- Chasis todas modalidades y estacas
 
-> <small>(REFORMADO Y REUBICADO, P.O. 31 DE ENERO DE 1983)</small>
+pick-up, panel, van, maxi y club-cab 2.0
 
-ART. 156.- Las autoridades correspondientes del Estado, no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos si no se les comprueba previamente el pago del impuesto a que se refiere este capítulo.
+VII.- Motocicletas
 
-Las empresas dedicadas a la compraventa de vehículos de motor usados, deberán llevar un libro autorizado por la oficina recaudadora correspondiente, en el que anotarán en el acto de recibir cada vehículo las características del mismo, el nombre y domicilio del propietario anterior, o el del comitente o consignante.
+a.- de 1,500 a 950 CM3 3.0
 
-Son solidariamente responsables del pago de este impuesto los enajenantes y las demás personas que intervengan en las operaciones.
+b.- de 900 a 500 CM3. 2.5
 
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 1994)</small>
+c.- de 490 a 400 CM3. 2.0
 
-ART. 156 Bis.- Están exentas del pago de este Impuesto:
+d.- de 350 a 100 CM3. 1.5
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 5o.- El pago de este Impuesto deberá efectuarse en la Oficina Recaudadora correspondiente, dentro de los quince días naturales siguientes a la fecha de celebración de la operación.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 6o.- Para los efectos del pago del impuesto los adquirentes deberán presentar ante la Oficina Recaudadora correspondiente el original del documento que ampare la propiedad del vehículo materia de la operación acompañado de tres copias del mismo en que se señala expresamente el precio y la fecha de operación.
+
+La Oficina Recaudadora efectuará el cobro del impuesto expidiendo el recibo oficial respectivo, y sellará la factura o comprobante que ampare la propiedad del vehículo, para hacer constar, que el impuesto ha sido cubierto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 7o.- Las autoridades correspondientes del Estado, no darán trámite a ninguna solicitud de alta, baja o traspaso de vehículos si no se les comprueba previamente el pago del Impuesto a que se refiere este Capítulo.
+
+Las empresas dedicadas a la compraventa de vehículos de motor usado, deberán llevar un libro autorizado por la Oficina Recaudadora correspondiente, en el que anotarán en el acto de recibir cada vehículo de las características del mismo, el nombre y domicilio del propietario anterior o el del comitente o consignante.
+
+Son solidariamente responsables del pago de este Impuesto los enajenantes y las demás personas que intervengan en las operaciones.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 8o.- Están exentas del pago de este impuesto:
 
 I.- Las operaciones de compra-venta de vehículos usados por cuya enajenación deba pagarse el Impuesto al Valor Agregado;
 
 II.- Las adquisiciones entre cónyuges o entre ascendientes o descendientes en línea recta en primer grado; y,
 
-III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios, a menos que su actividad no corresponda a funciones del servicio público.
+III.- Las adquisiciones que realicen la Federación, el Estado o sus Municipios, a menos que su actividad no corresponda a funciones de servicio público.
 
-(ABROGADO [N. DE E. DEROGADO] CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O. 16 DE NOVIEMBRE DE 1984)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO IX. ART. 157.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+### CAPITULO II. IMPUESTO SOBRE PROFESIONES Y OFICIOS
 
-ART. 158.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 159.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+ART. 9o.- Son objeto de este impuesto los ingresos que se perciban por la prestación en forma independiente de los siguientes servicios:
 
-ART. 160.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
+I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes, siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles, y no sean objeto de la Ley del Impuesto al Valor Agregado;
 
-ART. 161.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-ART. 162.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-ART. 163.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-ART. 164.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-ART. 165.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-ART. 166.- (ABROGADO [N. DE E. DEROGADO] POR EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NO. 110, P.O.16 DE NOVIEMBRE DE 1984)
-
-### CAPITULO X. Impuesto sobre Profesiones y Oficios
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 167.- Son objeto de este impuesto los ingresos que se perciban por la prestación en forma independiente, de los siguientes servicios:
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-I.- Los de carácter profesional, cuando su prestación requiera título conforme a las leyes siempre que sean prestados por personas físicas, organizaciones profesionales, asociaciones o sociedades civiles, y no sean objeto de la Ley del Impuesto al Valor Agregado;
-
-II.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión, de variedades, taurinas o deportivas;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+II.- Los prestados por artistas, locutores, toreros o deportistas, cuando realicen actividades cinematográficas, teatrales, de radiodifusión de variedades taurinas o deportivas;
 
 III.- Los prestados por agentes de seguros, por las comisiones que perciban por el aseguramiento contra riesgo agropecuario y por seguros de vida;
 
 IV.- Los prestados por agentes y corresponsales de instituciones de crédito, por las comisiones que perciban en el ejercicio de su actividad;
 
-V.- Los prestados por agentes y corredores de bolsa, que se encuentren al servicio de bolsas de valores con concesión para operar y de casas de bolsa, por las comisiones que perciban en el ejercicio de su actividad;
+V.- Los prestados por agentes o corredores de bolsa, que se encuentren al servicio de bolsas de valores con concesión para operar y de casas de bolsa, por las comisiones que perciban en el ejercicio de su actividad; y,
 
-VI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos de Autor.
+VI.- Los prestados por autores, a que se refiere la Ley Federal de Derechos del Autor.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+En caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considerará como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas, las deducciones que autoriza esta ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos de honorarios; si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
 
-En caso de que el servicio se preste a través de una agrupación profesional de carácter civil, se considerará como ingreso la participación o retiros parciales que cada persona física obtenga de los ingresos de la agrupación después de efectuadas por éstas, las deducciones que autoriza esta Ley. En estos casos será la propia agrupación la que presente las declaraciones mensuales y efectúe por cuenta de los profesionales el pago del impuesto, lleve los libros y expida los recibos de honorarios, si la asociación o sociedad no cumple con las obligaciones, los socios o asociados deberán cumplir con las mismas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 168.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+ART. 10.- Son sujetos del impuesto las personas físicas que obtengan los ingresos gravados a que se refiere el Artículo anterior, por la prestación de sus servicios en el territorio del Estado de Sinaloa.
 
 Para los efectos de este impuesto, sólo se considerará que ejercen sus actividades habitualmente en el territorio del Estado, los contribuyentes que tengan establecidos en él una oficina, estudio, establecimiento o domicilio fijo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 169.- Los sujetos de este impuesto podrán deducir de sus ingresos totales mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los contribuyentes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento.
+ART. 11.- Los sujetos de este impuesto podrán deducir de sus ingresos totales mensuales, los gastos e inversiones necesarios para su obtención, que en lo conducente y en forma proporcional a un mes, autoriza la Ley del Impuesto sobre la Renta a los contribuyentes que obtengan "ingresos por honorarios y en general por la prestación de un servicio personal independiente", siempre y cuando se reúnan los requisitos y se cumpla con las disposiciones que para cada deducción en particular establece dicha Ley Federal y su Reglamento.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 170.- Los contribuyentes a que se refiere este Capítulo, deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables.
+ART. 12.- Los contribuyentes a que se refiere este Capítulo deberán llevar un libro de ingresos y egresos y un registro de sus inversiones amortizables o depreciables.
 
-Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes; año de adquisición; costo original y, en su caso, depreciaciones o amortizaciones acumuladas y saldos por redimir de los referidos bienes.
+Las inversiones amortizables o depreciables deben registrarse con los siguientes datos: Descripción que identifique los bienes, año de adquisición, costo original y en su caso, las depreciaciones y amortizaciones acumuladas y saldos por redimir de los referidos bienes.
 
-Estos contribuyentes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, este libro o libros en su caso, podrán ser los mismos que se utilicen para efectos de cumplir con lo establecido por la Ley del Impuesto sobre la Renta, y no tendrán que autorizarse previamente.
+Estos contribuyentes podrán llevar en un solo libro el registro de ingresos y egresos y el de las inversiones amortizables o depreciables, este libro o libros en su caso, podrán ser los mismos que se utilicen para efectos de cumplir con lo establecido por la Ley del Impuesto sobre la Renta y no tendrán que autorizarse previamente.
 
-El libro o libros en su caso, a que se refiere este Artículo deberán de estar debidamente encuadernados, empastados y foliados.
+El libro o libros a que se refiere este Artículo deberán de estar debidamente encuadernados, empastados y foliados.
 
 En dicho libro o libros se deberán anotar los ingresos que se perciban en efectivo o en especie, haciendo referencia al número del recibo que se haya expedido para amparar la percepción del ingreso.
 
 Los egresos se deberán clasificar por concepto de acuerdo a la naturaleza de la erogación.
 
-Los ingresos y egresos relativos a cada mes deberán quedar registrados dentro de los sesenta días siguientes a la fecha en que se realicen las operaciones respectivas.
+Los ingresos y egresos relativos a cada mes, deberán quedar registrados dentro de los sesenta días siguientes a la fecha en que se realicen las operaciones respectivas.
 
 Los contribuyentes que sólo perciban ingresos como miembros de agrupaciones profesionales, asociaciones o sociedades civiles no están obligados a llevar en lo personal los registros a que se refiere este Artículo.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 171.- Los contribuyentes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 169 de este (sic) Ley, en sustitución de las mismas, podrán optar por deducir de sus ingresos totales mensuales, el 35% de deducción global no sujeto a comprobación.
+ART. 13.- Los contribuyentes que no deseen presentar comprobación relativa a las deducciones a que se refiere el Artículo 11 de esta Ley, en sustitución de las mismas, podrán optar por deducir de sus ingresos totales mensuales, el 35% de deducción global no sujeta a comprobación.
 
-Los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto continuado de manera uniforme con este procedimiento, hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicha opción.
+Los contribuyentes que ejerzan la opción a que se refiere el párrafo anterior, cumplirán con el pago mensual del impuesto continuando de manera uniforme con este procedimiento hasta en tanto no den aviso a la Secretaría de Hacienda Pública y Tesorería que dejarán de ejercer dicha opción.
 
-Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 167 de este Capítulo, tendrán derecho a deducir únicamente el 35% de los ingresos totales que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 169 de esta Ley.
+Quienes obtengan en forma esporádica, eventual o accidentalmente ingresos de los señalados en el Artículo 9 de este Capítulo, tendrán derecho a deducir únicamente el 35% de los ingresos totales que perciban, no pudiendo hacer las deducciones a que se refiere el Artículo 11 de esta Ley.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 172.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos totales de los sujetos a que se refiere este Capítulo en base a lo establecido en el Código Fiscal del Estado de Sinaloa y deducir el 35% de deducción global sobre los ingresos no sujetos a comprobación, aplicando la tarifa correspondiente para el cálculo del impuesto.
+ART. 14.- La Secretaría de Hacienda Pública y Tesorería podrá estimar los ingresos totales de los sujetos a que se refiere este Capítulo en base a lo establecido en el Código Fiscal del Estado de Sinaloa y deducir el 35% de deducción global sobre los ingresos no sujetos a comprobación, aplicando la tarifa correspondiente para el cálculo del impuesto.
 
 Para practicar las estimaciones a que se refiere este Artículo se tendrá en cuenta indistintamente las actividades realizadas por el contribuyente, los honorarios usuales por servicios similares, la renta del local que ocupe, sueldos y honorarios pagados, gastos fijos y otros datos que puedan utilizarse para efectos de la estimación.
 
 Con base en los datos a que se refiere el párrafo anterior, la Secretaría de Hacienda Pública y Tesorería podrá estimar un ingreso de hasta dos tantos del monto del gasto comprobado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 173.- Para determinar la base del Impuesto sobre Profesiones y Oficios, se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este Capítulo, previa deducción de los conceptos señalados en los Artículos 169 o 171 de esta misma ley y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior y del Código Fiscal del Estado.
+ART. 15.- Para determinar la base del Impuesto sobre Profesiones y Oficios se sumarán los ingresos percibidos en un mes, por los conceptos mencionados en este Capítulo, previa deducción de los conceptos señalados en los Artículos 11 ó 13 de esta misma Ley y cuando proceda, los estimados por la Secretaría de Hacienda Pública y Tesorería, en los términos del Artículo anterior y del Código Fiscal del Estado.
 
-El Impuesto sobre Profesiones y Oficios, se calculará aplicando a la base mensual determinada, a que se refiere el párrafo anterior, la siguiente:
+Impuesto sobre Profesiones y Oficios, se calculará aplicando a la base mensual determinada, a que se refiere el párrafo anterior, la siguiente:
 
 T A R I F A:
 
-LIMITE LIMITE CUOTA PORCENTAJE PARA
+LIMITE LIMITE CUOTA PORCENTAJE
 
-INFERIOR SUPERIOR FIJA APLICARSE SOBRE
+INFERIOR SUPERIOR FIJA PARA
 
-EL EXCEDENTE DEL
+APLICARSE
 
-LIMITE INFERIOR
+SOBRE EL
 
-De $ 0.01 $ 5,000.00 2.10
+EXCEDENTE
 
-De $ 5,000.01 a $ 6,000.00 105.00 2.25
+DEL LIMITE
 
-De $ 6,000.01 a $ 7,000.00 130.00 2.50
+INFERIOR
 
-De $ 7,000.01 a $ 8,000.00 158.00 2.75
+De $ 0.01 5,000.00 2.10
 
-De $ 8,000.01 a $ 9,000.00 188.00 3.00
+De $ 5,000.01 A 6,000.00 105.00 2.25
 
-De $ 9,000.01 a $ 10,000.00 220.00 3.35
+De $ 6,000.01 A 7,000.00 130.00 2.50
 
-De $10,000.01 en adelante 255.00 3.50
+De $ 7,000.01 A 8,000.00 158.00 2.75
 
-Los contribuyentes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro de los primeros quince días del mes siguiente a aquél a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
+De $ 8,000.01 A 9,000.00 188.00 3.00
 
-Los contribuyentes pagarán el Impuesto dentro de los primeros quince días del mes siguiente a aquél a que corresponda el pago, en la Oficina Recaudadora de su jurisdicción, o en su caso en la oficina autorizada para tal efecto.
+De $ 9,000.01 A 10,000.00 220.00 3.35
 
-ART. 173 Bis.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
+De $ 10,000.01 A En Adelante 255.00 3.50
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
+Los contribuyentes de este impuesto deberán presentar ante la Secretaría de Hacienda Pública y Tesorería, directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio fiscal, dentro de los primeros quince días del mes siguiente a aquel a que corresponda el pago, una declaración, en las formas autorizadas por la propia Secretaría.
 
-ART. 173 BIS 1.- Los contribuyentes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija en las condiciones y con las formalidades siguientes:
+Los contribuyentes pagarán el impuesto dentro de los primeros quince días del mes siguiente a aquel al que corresponda el pago, en la Oficina Recaudadora de su jurisdicción, o en su caso en la oficina autorizada para tal efecto.
 
-I.- Los contribuyentes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Subsecretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, de acuerdo a los ingresos manifestados en su declaración del ejercicio fiscal inmediato anterior, para efectos del Impuesto sobre la Renta;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Los contribuyentes que inicien operaciones dentro del mismo año en que hagan su solicitud, sólo podrán presentar ésta después de los treinta días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual total que hubiesen obtenido en el mes o meses inmediatos anteriores;
+ART. 16.- Los contribuyentes que habitualmente obtengan los ingresos gravados a que se refiere este Capítulo, podrán cubrir el impuesto a base de cuota fija, en las condiciones y con las formalidades siguientes:
 
-II.- La Subsecretaría de Ingresos fijará la cuota que corresponda, aplicando la tarifa del Artículo 173 de esta Ley sobre la base del promedio de ingreso total mensual manifestado por el contribuyente, menos el 35% de deducción global a que se refiere el Artículo 171 de esta misma Ley;
+I.- Los contribuyentes que opten por el pago del impuesto a cuota fija, lo solicitarán por escrito a la Subsecretaría de Ingresos de la Secretaría de Hacienda Pública y Tesorería, ya sea directamente o por conducto de la Oficina Recaudadora correspondiente a su domicilio, de acuerdo a los ingresos manifestados en su declaración del ejercicio fiscal inmediato anterior, para efectos del Impuesto sobre la Renta.
 
-III.- La cuota podrá cubrirse por períodos bimestrales, dentro de los primeros quince días del mes siguiente a cada bimestre, o por bimestres adelantados;
+Los contribuyentes que inicien operaciones dentro del mismo año en que hagan su solicitud, sólo podrán presentar ésta después de los treinta días siguientes a la fecha de iniciación de sus operaciones, manifestando el ingreso mensual total que hubiesen obtenido en el mes o meses inmediato anteriores.
 
-IV.- Los contribuyentes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o sistemas contables establecidos en el Código Fiscal del Estado, pero si estarán sujetos a las demás disposiciones contenidas en esta Ley; y,
+II.- La Subsecretaría de Ingresos fijará la cuota que corresponda, aplicando la tarifa del Artículo 15 de esta Ley sobre la base del promedio de ingreso total mensual manifestado por el contribuyente, menos el 35% de deducción global a que se refiere el Artículo 13 de esta misma Ley.
 
-V.- La cuota asignada por la autoridad tendrá vigencia de un año, independientemente de la fecha de asignación o notificación y una vez ejercida la opción a que se refiere este artículo, no podrá variar la forma de pago durante la vigencia de ésta. Para los efectos de lo señalado en este párrafo, el año de vigencia quedará comprendido del 1o. de mayo de un año hasta el 30 de abril del año siguiente.
+III.- La cuota podrá cubrirse por períodos bimestrales, dentro de los primeros quince días del mes siguiente a cada bimestre, o por bimestres adelantados.
 
-### CAPITULO XI. Impuesto sobre Plantas de Beneficio y Establecimientos Metalúrgicos
+IV.- Los contribuyentes que tributen a base de cuota fija, no estarán obligados a presentar declaraciones mensuales ni a llevar los libros o sistemas contables establecidos en el Código Fiscal del Estado, pero sí estarán sujetos a las demás disposiciones contenidas en esta Ley; y
 
-ART. 174.- Son causantes de este impuesto las personas o empresas propietarias de las plantas de beneficio o establecimientos metalúrgicos establecidas en el Estado.
+V.- La cuota asignada por la autoridad tendrá vigencia de un año, independientemente de la fecha de asignación o notificación y una vez ejercida la opción a que se refiere este Artículo, no podrá variar la forma de pago durante la vigencia de ésta. Para los efectos de lo señalado en este párrafo, el año de vigencia quedará comprendido del 1o. de mayo de un año hasta el 30 de abril del año siguiente.
 
-ART. 175.- El impuesto se causará a razón de 5 al millar anual sobre el valor de las fincas y de la maquinaria, determinando el valor, conforme a las mismas disposiciones existentes para el resto de la propiedad raíz y, en el segundo se sujetará la maquinaria al avalúo pericial, que constituyan las plantas de beneficio o los establecimientos metalúrgicos.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 176.- El pago del impuesto se hará en la Oficina Recaudadora del domicilio del contribuyente, por bimestres adelantados, dentro de los primeros quince días del mes en que principie el bimestre, a partir del 1ro. de enero de cada año.
+### CAPITULO III. IMPUESTO SOBRE NOMINAS
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Cuando las plantas de beneficios o establecimientos metalúrgicos se clausuren por cesación de las actividades mineras de que dependan, y siempre que la clausura sea definitiva a moción de parte y previa justificación de los hechos ante la Secretaría de Hacienda Pública y Tesorería, dejará de causarse el impuesto con las salvedades que establece el Artículo siguiente.
+ART. 17.- Se encuentran obligadas al pago de este impuesto las personas físicas y morales que, aun teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se le otorgue.
 
-ART. 177.- La clausura de una planta de beneficio o establecimiento metalúrgico no tendrá los efectos que señala el Artículo anterior;
+Para los efectos de este impuesto, se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
 
-I.- Si reanuda sus actividades dentro del mismo año en que se efectuó la clausura;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- Si la clausura obedece a una declaración de huelga que sea declarada inexistente o ilícita por la autoridad competente.
+ART. 18.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado.
 
-ART. 178.- El avalúo de las plantas de beneficio o establecimientos metalúrgicos se practicará por las Juntas Regionales del Catastro, asesoradas de perito en el ramo Minero.
+Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
 
-Los avalúos a que se refiere este Artículo serán revisados por la Dirección General de Catastro, la que fijará el avalúo definitivo. Con vista en la resolución de la Dirección General de Catastro se harán los ajustes que correspondan al impuesto pagado con base en los avalúos practicados por las Juntas Regionales.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 179.- Los causantes de este impuesto están obligados:
+ART. 19.- Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
 
-I.- A presentar ante las Juntas Regionales del Catastro, las declaraciones para el avalúo de las fincas y demás bienes que menciona el Artículo 175, motivadas por modificaciones en las Plantas de Beneficio.
+Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el salario mínimo general elevado a 30 días del área geográfica de Sinaloa, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
 
-II.- A suministrar los informes y datos que, de acuerdo con esta Ley les pidan las autoridades fiscales competentes;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-III.- A permitir las visitas e inspecciones que ordenen las mismas autoridades con arreglo a esta Ley;
+ART. 20.- Los contribuyentes de este impuesto podrán celebrar convenios respecto a la forma para el pago, en aquellas actividades cuyas características ameriten el control del gravamen en las formas indicadas, para cuyo efecto se faculta a las autoridades fiscales. En estos casos no será necesaria la presentación de la declaración a que se refiere el Artículo anterior.
 
-IV.- A hacer oportunamente el pago del impuesto bimestral;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-V.- A cumplir con las demás obligaciones que esta Ley les imponga.
+ART. 21.- Son obligaciones de los contribuyentes de este impuesto además de las señaladas en el Código Fiscal del Estado de Sinaloa las siguientes:
 
-ART. 180.- Si los causantes omiten presentar sus declaraciones dentro de los plazos señalados, la Junta Regional del Catastro practicará el avalúo provisional de conformidad con los datos que posea y con los informes que recabe, y la Dirección General de Catastro hará el avalúo definitivo sin perjuicio de la aplicación de las sanciones que correspondan a las infracciones cometidas.
+I.- Solicitar la inscripción ante la Secretaría de Hacienda Pública y Tesorería.
 
-Se practicarán nuevos avalúos de las fincas y bienes de las plantas de beneficio y establecimientos metalúrgicos por la aplicación supletoria de la Ley de Catastro vigente.
+II.- Presentar las declaraciones correspondientes aun cuando no se hubieren efectuado erogaciones gravadas.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+III.- Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
 
-ART. 180 Bis.- El Impuesto contenido en este Capítulo no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO XII. Impuesto sobre Adquisición de Alcohol
+ART. 22.- Se exceptúan del pago de este impuesto:
 
-ART. 181.- Es objeto de este impuesto la adquisición de alcohol que se realice por primera vez dentro del territorio del Estado de Sinaloa.
+I.- Las erogaciones que se cubran por concepto de:
 
-El impuesto se causa en el momento en que se efectúe la adquisición aún cuando ésta sea sujeta a condición o modalidades.
+a).- Participación de los trabajadores en las utilidades de las empresas.
 
-ART. 182.- Para los efectos de este impuesto, se considera como alcohol la substancia conocida con el nombre de etanol o alcohol etílico, cualquiera que sea su fuente y el proceso seguido para su obtención si, a la temperatura de 15 grados centígrados tiene una graduación mayor de 55 grados G.L.
+b).- Prima vacacional.
 
-ART. 183.- Son sujetos del impuesto las personas físicas o morales que habitual o accidentalmente adquieran alcohol por primera vez en el Estado de Sinaloa.
+c).- Indemnización por riesgo de trabajo que se conceda de acuerdo con las leyes o contratos respectivos;
 
-ART. 184.- El impuesto se causa a razón de $ 0.30 por litro o fracción de litro de alcohol.
+d).- Pensión y jubilación en los casos de invalidez, vejez, cesantía y muerte;
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+e).- Indemnización por rescisión o terminación de las relaciones de trabajo;
 
-ART. 185.- Los causantes de este impuesto presentarán declaración mensual de acuerdo con las formas aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del Impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago.
+f).- Pago por gastos funerarios;
 
-La obligación de presentar declaraciones subsisten aún cuando no se hayan (sic) adquirido el producto.
+g).- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para deducibilidad requiere la Ley del Impuesto sobre la Renta;
 
-ART. 186.- Los sujetos de este impuesto están obligados:
+h).- Pagos a trabajadores domésticos;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE AGOSTO DE 1990)</small>
+i).-Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año de calendario, hasta el equivalente a un salario mínimo general del Estado de Sinaloa elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general; y,
 
-I.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, los avisos de iniciación de operaciones, de cambio de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los 10 días siguientes a la fecha en que se realicen estos hechos.
+j).- Gastos de previsión social que sean considerados deducibles y exentos para efectos del Impuesto sobre la Renta.
 
-Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadrarse (sic), deberá registrar por separado cada uno de dichos giros y/o negocios similares;
+II.- Las erogaciones que efectúen:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+a).- La Federación y los Municipios;
 
-II.- A llevar, además de los libros de contabilidad que exige la Ley del Impuesto sobre la Renta, un libro especial de registro de adquisición y moviento (sic) de alcohol, el cual deberá ser gratuito y previamente autorizado por la Secretaría de Hacienda Pública y Tesorería, dentro de los diez días siguientes a la fecha de iniciación de operaciones.
+b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+c).- Agrupaciones de trabajadores, de profesionales, de empresarios o propietarios;
 
-Este libro especial deberá mantenerse al corriente en sus anotaciones, permitiéndose una tolerancia de diez días de atraso. En él deberán asentarse las operaciones de adquisición y de enajenación, determinándose diariamente la existencia de alcohol. Este libro deberá estar siempre en los locales que ocupen las negociaciones o despachos de los sujetos del impuesto, que se hubieran señalado al iniciarse las operaciones o manifestado posteriormente, en caso de cambio o traslado. Para que dicho libro pueda salir del local, será necesario que la Secretaría de Hacienda Pública y Tesorería lo autorice previamente y en forma expresa.
+d).- Instituciones educativas;
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+e).- Clubes de servicios; y
 
-El libro especial de registro de adquisición y movimiento de alcohol, las facturas por adquisición de alcohol y las notas de venta, deberán conservarse un tiempo mínimo de cinco años en poder de los sujetos de este Impuesto y a disposición de la Secretaría de Hacienda Pública y Tesorería.
+f).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
 
-ART. 187.- Serán aplicables en lo previsto en este Capítulo las disposiciones contenidas en la Legislación Fiscal Federal vigente sobre alcohol, en lo que se opongan a la presente Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+ART. 23.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en base a lo establecido en el Código Fiscal del Estado de Sinaloa.
 
-ART. 188.- El impuesto contenido en este Capítulo no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO XIII. Impuesto sobre Enajenación de Alcohol
+ART. 24.- Sin perjuicio de cumplir con las demás obligaciones que el Artículo 21 les impone a los contribuyentes, no estarán obligados al pago de este impuesto las empresas de nueva creación durante el primer año de contratación de empleados.
 
-ART. 189.- Es objeto de este impuesto la operación de primera enajenación de alcohol etílico adquirido por primera vez en el Estado, que se realice dentro del territorio del mismo.
+Se entiende para los efectos de esta Ley, como empresa de nueva creación aquella que se constituya por primera vez en el Estado de Sinaloa y que no provenga de la escisión o fusión de sociedades en términos del Código Fiscal de la Federación y Ley General de Sociedades Mercantiles.
 
-ART. 190.- Son sujetos del impuesto las personas físicas o morales que habitual o accidentalmente realicen en el Estado la operación a que se refiere el Artículo anterior.
+Para los efectos de este impuesto no será considerada empresa de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la empresa.
 
-Las partes que intervengan en la segunda y subsecuentes operaciones de adquisición deberán comprobar que este impuesto ha sido pagado, por lo que serán solidariamente responsables de su pago.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-Para los efectos de este impuesto se considera como alcohol la sustancia a que se refiere el Artículo 182 de esta Ley.
+### CAPITULO IV. IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-ART. 191.- El impuesto que establece este Capítulo se causa en el momento en que se efectúe la primera enajenación de alcohol etílico adquirido por primera vez en el Estado, aún cuando sea sujeta a condición o modalidades, y se considerará consumada cuando el alcohol salga de la bodega o lugar donde se encuentre.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 192.- Este impuesto se causará a razón de $ 1.75 por litro o fracción de litro de alcohol.
+ART. 25.- Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Albergues, Posadas, Mesones, Hosterías, Campamentos, Paraderos de casas rodantes y otros establecimientos que presten servicios de esa naturaleza dentro del Territorio del Estado, incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
 
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues y de los servicios inherentes al mismo a cambio de una contraprestación, así como:
 
-ART. 193.- Los causantes de este Impuesto presentarán declaración mensual de acuerdo con las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, y efectuarán el pago del impuesto en la Oficina Recaudadora de su jurisdicción, dentro de los primeros diez días del mes siguiente de aquél a que corresponda el pago. La declaración mensual deberá presentarse aún en el caso de que no se efectúen operaciones gravadas, expresándose el motivo de ello.
+I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
 
-ART. 194.- Los sujetos de este impuesto están obligados:
+II.- La prestación de servicios de paraderos de casa rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorgan espacio para acampar.
 
-I.- A solicitar la Licencia del Ejecutivo del Estado;
+Este impuesto no se causa por los servicios proporcionados por las casas de hospedaje, excepto las que incluyen en sus servicios la opción de consumir vinos, licores y cerveza. Asimismo, no se considerarán servicios de hospedaje, el albergue o alojamiento prestados por Hospitales, Clínicas, Asilos, Conventos, Seminarios o Internados, ni las cuotas que se cobren por mantenimiento en tiempos compartidos adquiridos en propiedad.
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-II.- A presentar, haciendo uso de las formas oficiales aprobadas por la Secretaría de Hacienda Pública y Tesorería, los avisos de iniciación de operaciones, de cambios de actividad, de cambio de nombre o razón social, de traspaso, o de clausura temporal o definitiva del negocio, dentro de los diez días siguientes a la fecha en que se realicen estos hechos.
+ART. 26.- Son sujetos de este impuesto las personas físicas o morales que presten los servicios de hospedaje a que se refiere el artículo anterior.
 
-Cuando una misma persona sea propietaria o poseedora de varios giros y/o negocios similares obligados a empadronarse, deberá registrar por separado cada uno de dichos giros y/o negocios similares.
+Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto y se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
 
-En los casos de clausura o de cambio de giro acompañará a la manifestación respectiva la licencia de funcionamiento o copia fotostática de la misma;
+Asimismo cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen o comprueben la prestación de estos últimos, se entenderá que el importe de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-III.- A llevar, además de los libros de contabilidad que exige la Ley del Impuesto sobre la Renta, el libro especial de registro de adquisición y movimiento de alcohol a que se refiere la fracción II del Artículo 186 de esta Ley, debiendo cumplir con las formalidades establecidas por dicha disposición;
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-IV.- A expedir notas en cada operación de venta que realicen, en las que se hará constar en forma separada el nombre del adquirente, domicilio, cantidad de litros de alcohol adquirido y el precio total de la operación. Las notas se expedirán por duplicado y deberán estar foliadas y desprenderse del libro o blocks; el original corresponderá al sujeto del impuesto y la copia se entregará al adquirente.
+ART. 27.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
 
-ART. 195.- Las autoridades fiscales quedan facultadas para ordenar la inspección de libros, documentos y existencias de los sujetos del impuesto a que se refiere este Capítulo, así como la inspección de locales, bienes muebles o inmuebles en que exista o se presuma que exista alcohol, debiendo cumplir las formalidades previstas en esta Ley.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 196.- Son supletorias de este Capítulo las disposiciones fiscales federales vigentes sobre alcohol, en lo que no se oponga a la presente Ley.
+ART. 28.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
-ART. 196 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+ART. 29.- Este impuesto se pagará mediante declaración que deberá presentar el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros 15 días de cada mes, debiendo contener dicha declaración la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 30.- Para efectos de este impuesto se entiende que los servicios de hospedaje, se prestan en el Estado, siempre que los bienes objeto del mismo se encuentren dentro de su territorio.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 31.- Las personas físicas y morales que presten los servicios de hospedaje señalados, así como las que tengan a su cargo la administración de sistemas de tiempo compartido, su mantenimiento u operación del establecimiento estarán obligados a lo siguiente:
+
+I.- Solicitar su inscripción en el registro estatal de contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial autorizada para tal efecto y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
+
+II.- Trasladar a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fechas a que se refiere el articulo 29;
+
+III.- Llevar los controles necesarios que acrediten en forma fehaciente cada uno de los actos de este impuesto;
+
+IV.- Presentar ante las oficinas autorizadas para ello en los términos del Código Fiscal del Estado los avisos respectivos en los casos de cambio de nombre, denominación o razón social, domicilio, traslado, traspaso, clausura, fusión, escisión, liquidación, o transformación de personas morales; suspensión o reanudación de actividades u obligaciones o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en el documento de inscripción en los plazos señalados por el citado Código Fiscal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 32.- Las autoridades fiscales estatales podrán estimar presuntivamente este impuesto además de los casos señalados en el Código Fiscal del Estado de Sinaloa cuando:
+
+I.- El sujeto de este impuesto, no registre en la contabilidad que deba llevar para efecto de impuestos federales cada uno de los servicios que preste gravados por esta Ley;
+
+II.- No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren; y,
+
+III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 33.- El importe de lo recaudado por concepto de esta contribución será destinado única y exclusivamente a la promoción turística del Estado de Sinaloa y su administración corresponderá a los fideicomisos que sean necesarios, en los que su comité técnico estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento del municipio respectivo y un representante del sector hotelero; asimismo mediante una cuenta especial de contabilidad se destinará la participación que corresponda a cada municipio según lo recaudado en él, verificando el escrupuloso manejo de estos fondos.
+
+La Cuenta Pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en base a los programas de promoción turística que al respecto se elaboren para cada municipio.
+
+El Estado entregará al Fideicomiso que corresponda a cada Municipio los ingresos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto a la Oficina Recaudadora.
+
+El fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del H. Congreso del Estado, a más tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 34.- Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas en los términos previstos en el Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. LEGALIZACION DE FIRMAS, CERTIFICACIONES Y EXPEDICION DE COPIAS DE DOCUMENTOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 35.- Los derechos por concepto de legalización de firmas, certificaciones y expedición de copias de documentos por los funcionarios competentes del Estado se causarán conforme a la siguiente:
+
+T A R I F A:
+
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
+CONCEPTO
+
+I.- Legalización de firmas: 1.00
+
+II.- Certificaciones de firmas en actas
+
+constitutivas de Sociedades Cooperativas 0.80
+
+III.- Certificados de "No adeudo" por
+
+concepto de créditos fiscales 0.25
+
+IV.- Certificados de "No adeudo" por
+
+concepto de multas 0.25
+
+V.- Certificados del valor fiscal
+
+de predios 0.25
+
+VI.- Certificados de fechas de pagos
+
+de créditos fiscales 0.25
+
+VII.- Copias certificadas de documentos
+
+por hoja 0.25
+
+VIII.- Copias simples de los documentos a
+
+que se refiere la fracción VI anterior
+
+IX.- Duplicados autógrafos al carbón de
+
+los mismos documentos a que se
+
+refiere la fracción VI anterior 0.05
+
+X.- Copias simples de los documentos a
+
+que se refiere la fracción VII
+
+anterior, por hoja 0.05
+
+XI.- Duplicados autógrafos al carbón de
+
+los mismos documentos a que se refiere la
+
+fracción VII anterior, por hoja 0.25
+
+XII.- Testimonios notariales por hoja 3.00
+
+XIII.- Autorización libros Protocolo
+
+Notariales 5.00
+
+XIV. Cualquiera otra certificación que se
+
+expida diferente de las ya expresadas 1.00
+
+Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 36.- No se causan los derechos a que se refiere este Capítulo:
+
+I.- Los certificados, copias certificadas o copias simples al carbón que estén gravadas expresamente en otros Capítulos de esta Ley;
+
+II.- Las certificaciones que hagan y las copias certificadas o copias simples que expidan las autoridades judiciales;
+
+III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en juicios de amparo promovidos contra actos de las autoridades del Estado.
+
+En la copia certificada deberá expresarse que su expedición se hace para ser presentada como prueba en el juicio de amparo respectivo; y
+
+V (SIC).- Los certificados de insolvencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II. COPIAS DE PLANOS, AVALUOS Y TRABAJOS CATASTRALES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 37.- El cobro por concepto de copias de planos, certificados catastrales y otros trabajos que se ejecuten en el Instituto Catastral y en Delegaciones correspondientes, se regirá por la siguiente:
+
+T A R I F A
+
+CONCEPTO VECES EL SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN SINALOA
+
+I.- Por la certificación:
+
+a).- Del nombre del propietario o
+
+poseedor de un predio 0.25
+
+b).- Del valor fiscal o catastral
+
+de un predio 0.25
+
+c).- De un predio en que se señalen
+
+colindancias y medidas 0.50
+
+d).- En la que se señale la superficie
+
+catastral de un predio 0.30
+
+e).- En que se indiquen antecedentes
+
+de propiedad 0.65
+
+f).- De un predio en que se señalen
+
+nombre del propietario o poseedor,
+
+ubicación, valor fiscal, medidas,
+
+colindancias y superficie 0.65
+
+g).- De un predio en que se señalen
+
+nombre del propietario o poseedor,
+
+ubicación, valor fiscal, medidas y
+
+colindancias, superficie y
+
+antecedentes de propiedad 0.80
+
+h).- De predios cancelados 0.25
+
+i).- De no propiedad 0.25
+
+j).- De documentos catastrales por hoja 0.25
+
+k).- Del valor fiscal o catastral
+
+proporcional de una fracción de
+
+predio 0.25
+
+l).- De ubicación del predio O.25
+
+II).- De planos catastrales 0.50
+
+II.- Por la expedición:
+
+a).- De copias fotostáticas de
+
+documentos catastrales, por hoja 0.15
+
+b).- De copias mecanografiadas de
+
+documentos catastrales, por hoja 0.20
+
+c).- De copias heliográficas o fotográficas
+
+de planos del Estado, de los
+
+Municipios o poblaciones:
+
+1.- Tamaño oficio 0.25
+
+2.- Por cada decímetro cuadrado que
+
+exceda al tamaño anterior 0.01
+
+d).- De copias heliográficas de planos
+
+de manzanas:
+
+1.- Tamaño 54x35 Cms. 0.20
+
+2.- Tamaño 45x68 Cms. 0.25
+
+3.- Tamaño 103x35 Cms. 0.30
+
+4.- Tamaño 103x68 Cms. 0.60
+
+e).- De copias heliográficas de planos
+
+de zonas catastrales, por cada
+
+decímetro cuadrado o fracción 0.01
+
+f).- De calcas de planos a tinta con
+
+señalamiento de linderos, medidas
+
+y superficie:
+
+1.- Por cada decímetro cuadrado o
+
+fracción. 0.15
+
+2.- El mismo trabajo a lápiz, por
+
+cada decímetro cuadrado o
+
+fracción. 0.07
+
+III.- Por el señalamiento de linderos,
+
+levantamiento, cálculo y dibujo que
+
+se soliciten de predios urbanos en
+
+poblaciones del Estado, así como de
+
+predios en zonas rústicas, se cobrarán
+
+los derechos en cada caso, de acuerdo
+
+con lo siguiente:
+
+a).- Por predios urbanos:
+
+1.- Por levantamiento y cálculo:
+
+- Por terreno hasta de 500 metros
+
+cuadrados. 0.65
+
+- Por terreno de 501 metros cuadrados
+
+en adelante, además de la cuota
+
+anterior, se pagará. 0.01
+
+- Por construcción, hasta de 500
+
+metros cuadrados. 0.65
+
+- Por construcción, de 501 metros
+
+cuadrados en adelante, además
+
+de la cuota anterior se pagará,
+
+por metro cuadrado. 0.01
+
+En el caso de predios localizados
+
+en poblaciones fuera del área de
+
+asiento de la Delegación de
+
+Catastro, se cobrará, además de
+
+la tarifa anterior, una cuota de 0.65
+
+2.- Por dibujo:
+
+En planos hasta tamaño carta 0.65
+
+Por cada decímetro cuadrado o fracción
+
+excedente. 0.07
+
+b).- Por predios rústicos:
+
+1.- Por levantamiento y cálculo:
+
+Hasta de 10 hectáreas 1.65
+
+- De 11 hectáreas en adelante además
+
+de la cuota anterior, por hectárea 0.15
+
+2.- Por dibujo:
+
+- En planos hasta tamaño carta 0.65
+
+- Por cada decímetro cuadrado o
+
+fracción excedente 0.07
+
+- Para efectuar los trabajos a que se refiere
+
+esta fracción, se requiere que el terreno
+
+esté limpio y despejado para la medición.
+
+- En los casos a que se refiere esta
+
+fracción, el levantamiento y cálculo se hará
+
+de terreno y construcción por separado y
+
+el cobro de los derechos será la suma de éstos.
+
+IV.- Por la práctica de avalúo comercial para los
+
+efectos del Impuesto Municipal sobre Adquisición
+
+de Inmuebles, se cobrarán los derechos en
+
+cada caso de acuerdo con lo siguiente:
+
+a).- Por predios urbanos:
+
+1.- Por terreno:
+
+- Zonas comerciales, por metro
+
+cuadrado 0.02
+
+- Zonas residenciales (1°, 2° y 3°
+
+orden) por metro cuadrado 0.02
+
+- Zonas populares y proletarias
+
+por metro cuadrado 0.01
+
+- Zonas semi-industriales e
+
+industriales, por metro cuadrado 0.01
+
+2.- Por construcciones:
+
+De uso comercial, por metro
+
+cuadrado 0.03
+
+De uso habitacional (1°, 2° y 3°
+
+orden) por metro cuadrado 0.03
+
+De uso habitacional (proletario y
+
+popular), por metro cuadrado 0.03
+
+De uso industrial y semi-industrial,
+
+por metro cuadrado 0.02
+
+En el caso de predios localizados en
+
+poblaciones fuera del área de asiento
+
+de la Delegación de Catastro, se
+
+cobrará además de la tarifa anterior,
+
+una cuota de 0.50
+
+b).- Por predios rústicos:
+
+Hasta de 20 hectáreas 1.65
+
+De 21 hectáreas en adelante, el
+
+excedente se cobrará además de
+
+la cuota anterior, por hectárea
+
+como sigue:
+
+TIPO DE TERRENO
+
+Riego de gravedad, por hectárea 0.07
+
+Riego de bombeo, por hectárea 0.03
+
+Riego de avenida o humedad, por
+
+hectárea 0.02
+
+Temporal topografía plana,
+
+por hectárea 0.01
+
+Temporal topografía accidentada,
+
+por hectárea 0.01
+
+Agostadero por hectárea 0.01
+
+Cerriles y forestales, por hectárea 0.01
+
+Estériles, salitrosas y playas
+
+por hectárea 0.01
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 38.- Los casos no previstos en esta tarifa serán resueltos por el Instituto Catastral, asimilándolos con alguno de los señalados en ella.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+## TITULO SEGUNDO. DE LOS DERECHOS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO III. ACTOS DEL REGISTRO CIVIL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 39.- Los derechos por actos del Registro Civil serán los que establece la siguiente:
+
+T A R I F A
+
+CUOTA DE SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN EL ESTADO DE
+
+SINALOA
+
+CONCEPTO
+
+I.- Por la expedición de copias
+
+certificadas de actas del
+
+Registro Civil por cada hoja
+
+de papel autorizado. 1.00
+
+II.- Por el registro:
+
+a).- De nacimiento fuera de la
+
+Oficina del Registro Civil 5.00
+
+b).- Extemporáneo de nacimiento,
+
+tratándose de personas
+
+mayores de 7 años, en los
+
+términos de los artículos 40
+
+y 42 del Reglamento del
+
+Registro Civil del Estado 3.00
+
+c).- De matrimonio:
+
+1.- En la Oficina del
+
+Registro Civil 3.00
+
+2.- Fuera de la Oficina
+
+del Registro Civil 15.00
+
+d).- De reconocimiento de Hijos:
+
+1.- En la Oficina del
+
+Registro Civil 2.00
+
+2.- Fuera de la Oficina
+
+del Registro Civil 4.00
+
+e).- De adopción 2.00
+
+f).- De tutela 2.00
+
+III.- Por la anotación de emancipación. 2.00
+
+IV.- Por la inscripción:
+
+a).- De ejecutorias que declaren
+
+la incapacidad legal para
+
+administrar bienes, la ausencia,
+
+o la presunción de muerte 3.00
+
+b).- Por la cancelación de la
+
+inscripción a que se
+
+refiere el inciso anterior 3.00
+
+c).- De rectificaciones de las
+
+actas del estado civil 3.00
+
+d).- De resoluciones judiciales
+
+que decreten el divorcio 2.00
+
+e).- De actas sobre el estado
+
+civil expedidas por
+
+autoridades extranjeras 5.00
+
+V.- Por la certificación de la falta
+
+o de la ilegibilidad de actas o
+
+libros del Registro Civil 0.50
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 40.- No causan los derechos a que se refiere este Capítulo:
+
+I.- Las actas de nacimiento que se levanten fuera de la Oficina en el caso del Artículo 61 del Código Civil;
+
+II.- Los certificados de supervivencia que se expidan a los pensionistas o jubilados del Estado, de la Federación o de los Municipios;
+
+III.- Los certificados de actas de nacimiento cuando se trate de comprobar la minoría de edad de procesados por delito del orden común;
+
+IV.- Los certificados de actas que soliciten las autoridades judiciales o administrativas, cuando la sociedad o la Hacienda Pública se encuentren interesados en la recabación de tales datos; y,
+
+V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos precisos que coincidan con los índices respectivos, con los mismos asientos, o bien que la búsqueda se haga por los propios interesados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 41.- La recaudación de los derechos a que se refiere este Capítulo se hará por conducto de las Oficinas del Registro Civil contra la entrega de los recibos oficiales que les proporcione la Oficina Recaudadora de su jurisdicción, y los fondos recaudados se concentrarán cada quince días en la correspondiente Oficina Recaudadora.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 42.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de actas del Registro Civil serán proporcionadas a las oficinas del Registro Civil por la Secretaría de Hacienda Pública y Tesorería del Estado, la que tendrá a su cargo el resguardo, manejo y control de las mismas.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IV. PUBLICACIONES EN EL PERIODICO OFICIAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 43.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Hacienda Pública y Tesorería, de la Subsecretaría de Ingresos, de la Dirección de Ingresos y Control Fiscal y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos de procedimientos de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 44.- Los derechos a que se refiere el Artículo anterior, estarán sujetos a la siguiente:
+
+T A R I F A
+
+CUOTA DE SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+CONCEPTO EN EL ESTADO
+
+DE SINALOA
+
+I.- Por la publicación:
+
+a).- De edictos, avisos, solicitud de
+
+ruta, modificación o ampliación de
+
+ésta, aumento de unidades de cualquier
+
+otra similar de interés particular,
+
+por palabra y por cada publicación 0.05
+
+b).- De convocatorias, balances,
+
+liquidaciones y similares, por
+
+plana 15.00
+
+c).- De edictos de remate provenientes
+
+de la subsecretaría de Ingresos y
+
+de las Oficinas Recaudadoras, por
+
+plana 2.50
+
+d).- Por la plana de Decretos
+
+Municipales 2.00
+
+II.- Por la suscripción:
+
+a).- De un año, en el país 20.00
+
+b).- De un año, en el extranjero 40.00
+
+III.- Por la venta de cada número del
+
+Periódico Oficial:
+
+a).- Del día 0.20
+
+b).- Atrasado, del año corriente 0.30
+
+c).- Atrasado, de años anteriores 0.40
+
+d).- De dos o más secciones,
+
+independientemente, de la cuota
+
+que proceda conforme a los tres
+
+incisos anteriores 0.60
+
+e).- En fotocopia de ediciones agotadas,
+
+por páginas 0.20
+
+f).- De edición especial que contenga
+
+leyes encuadernadas, como
+
+suplemento 1.00
+
+g).- Que contenga la Ley de Ingresos
+
+de los Municipios 0.50
+
+IV.- Por la venta de cada ejemplar de la
+
+Ley de Ingresos y Presupuesto de
+
+Egresos 1.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 45.- Las cuotas a que se refiere el Artículo 44 son aplicables únicamente a las palabras que forman el cuerpo del documento incluyendo las contenidas en el sello, timbres y su cancelación, fechas, firmas y denominaciones que la encabecen. Cuando se trate de documentos que contengan operaciones de contabilidad, tales como los balances, facturas o cuentas, se cobrará por plana, de acuerdo con la tarifa señalada en el Artículo anterior.
+
+Toda publicación o suscripción deberá ser pagada previamente en la Oficina Recaudadora correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO V. LEGALIZACION DE TITULOS PROFESIONALES
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 46.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del derecho correspondiente.
+
+El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 47.- No causan los derechos a que se refiere este Capítulo la legalización de títulos profesionales de Educación Primaria Elemental, Superior y Normal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VI. LICENCIAS Y SERVICIOS DE TRANSITO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 48.- Por los servicios prestados por las Autoridades de Tránsito, se causarán los derechos conforme a la siguiente:
+
+T A R I F A
+
+CONCEPTO CUOTA DE SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN EL
+
+ESTADO DE SINALOA.
+
+I.- Por expedición de licencias de manejo, con vigencia de:
+
+a).- Dos años
+
+1.- Chofer 5.50
+
+2.- Automovilista 5.30
+
+3.- Motociclista 5.00
+
+4.- Aprendiz 5.30
+
+b).- Cuatro años
+
+1.- Chofer 11.00
+
+2.- Automovilista 10.60
+
+3.- Motociclista 10.00
+
+c).- Seis años
+
+1.- Chofer 16.50
+
+2.- Automovilista 16.00
+
+3.- Motociclista 15.00
+
+II.- Reposición de licencia por pérdida o deterioro con vigencia de:
+
+a).- Dos años
+
+1.- Chofer 5.50
+
+2.- Automovilista 5.30
+
+3.- Motociclista 5.00
+
+4.- Aprendiz 5.30
+
+b).- Cuatro años
+
+1.- Chofer 11.00
+
+2.- Automovilista 10.60
+
+3.- Motociclista 10.00
+
+c).- Seis años
+
+1.- Chofer 16.50
+
+2.- Automovilista 16.00
+
+3.- Motociclista 15.00
+
+III.- Por control vehicular:
+
+a).- Por la expedición de placas de vigencia permanente, tarjeta de circulación y calcomanía:
+
+1.- Para vehículos de servicio particular 15.00
+
+2.- Para vehículos de servicio
+
+público estatal 15.00
+
+3.- Para vehículo de demostración
+
+(placas y tarjeta de circulación) 40.00
+
+4.- Para remolques (placas y tarjeta
+
+de circulación) 10.00
+
+5.- Para motocicletas (placas y tarjeta
+
+de circulación) 10.00
+
+b).- Por reposición de juego de placas de vigencia permanente por pérdida o deterioro:
+
+1.- Para vehículo de servicio particular 15.00
+
+2.- Para vehículo de servicio público
+
+Estatal 17.00
+
+3.- Para vehículo de demostración 40.00
+
+4.- Para remolques 10.00
+
+5.- Para motocicletas 10.00
+
+c).- Por reposición de tarjeta de circulación
+
+por pérdida, deterioro o cualquier otra
+
+causa: 4.00
+
+d).- Por refrendo anual de: placas y tarjeta de circulación de vigencia permanente, con emisión de calcomanía:
+
+1.- Para vehículo de servicio particular 6.00
+
+2.- Para vehículo de servicio público
+
+Estatal 6.00
+
+3.- Para vehículos de demostración 20.00
+
+4.- Para remolques 5.00
+
+5.- Para motocicletas 3.00
+
+e).- Por la baja de placas 1.00
+
+f).- Por la expedición de cada permiso
+
+para circular sin placas en vehículos
+
+de servicio particular, por día: 0.50
+
+IV.- Por cada concesión de servicio público de
+
+transporte de pasaje y/o carga de ruta o
+
+zona 40.00
+
+V.- Por cada cesión o transmisión de concesión y/o permiso de servicio público de transporte de pasaje y/o carga de ruta o zona determinada:
+
+a).- Por cada cesión de concesión y/o
+
+permiso 40.00
+
+b).- Por cada cesión de concesión y/o
+
+permiso entre cónyuges y ascendientes
+
+o descendientes en línea recta en
+
+primer grado. EXENTO
+
+c).- Por cada transmisión de concesión
+
+y/o permiso. 40.00
+
+d).- por cada trasmisión de concesión
+
+y/o permiso entre cónyuges y
+
+ascendientes o descendientes en
+
+línea recta en primer grado EXENTO
+
+VI.- Por el refrendo anual de cada concesión de servicio público de transporte de pasaje y/o carga de ruta o zona determinada:
+
+a).- Por cada unidad de servicio público de transporte de pasaje y/o carga de ruta o zona
+
+1.- Si el pago se hace en el mes de diciembre del año inmediato anterior a aquel a que corresponda la revalidación
+
+a).- Servicio de taxi 6.00
+
+b).- Transporte de carga 7.00
+
+c).- Transporte de pasaje
+
+urbano y foráneo 10.00
+
+2.- Si el pago se hace en los
+
+meses de enero o febrero 20.00
+
+La revalidación anual será obligatoria a partir del mes de enero del año siguiente a aquel en que haya sido otorgada la concesión o permiso.
+
+Si el pago se hace a partir del mes de marzo, se cubrirá la cuota a que se refiere el punto anterior, y se aplicarán las sanciones correspondientes de acuerdo a lo establecido en el Código Fiscal del Estado.
+
+VII.- Por cada permiso eventual de servicio público, por día:
+
+1.- Para el transporte de pasajeros 1.00
+
+2.- Para transporte de carga 1.00
+
+3.- Para transporte de carga mixta, entendiéndose
+
+de pasajeros y carga 1.00
+
+4.- Para servicio exclusivo de turismo 1.50
+
+VIII.- Por cada estudio socio-económico que
+
+se efectúe de acuerdo a lo previsto por
+
+la Ley de Tránsito y Transportes del
+
+Estado 35.00
+
+IX.- Por cada examen o certificado médico para
+
+justificar el estado del conductor cuando
+
+sea necesario 5.00
+
+X.- Por cada copia certificada de documentos
+
+registrados en los archivos de la Dirección
+
+General de Tránsito, por hoja 0.50
+
+XI.- Por la guarda de vehículos en la pensión de Tránsito, por día:
+
+1.- Camiones y Omnibuses 1.00
+
+2.- Automóviles y camionetas 0.60
+
+3.- Motocicletas 0.35
+
+XII.- Por el traslado de vehículos automotores con grúa:
+
+a).- En zona urbana
+
+1.- Automóviles y camionetas 8.00
+
+2.- Camiones, omnibuses y similares 10.00
+
+Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 salario mínimo general diario vigente en el Estado por cada kilómetro de arrastre.
+
+XIII.- Por revisión de las condiciones físicas de
+
+los vehículos de servicio público 2.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 49.- Para la aplicación de las multas por violaciones a la Ley de Tránsito y Transportes del Estado, se atenderá a lo dispuesto por dicha ley.
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El pago de los derechos a que se refiere este Capítulo, fuera de los plazos establecidos, ocasionará la aplicación de sanciones a que se refiere el Código Fiscal del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VII. REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 50.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos fiscales conforme a la siguiente:
+
+T A R I F A
+
+CUOTA DE SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN EL
+
+CONCEPTO ESTADO DE SINALOA
+
+I.- Cuando se rehuse la inscripción de un
+
+documento, por la inscripción preventiva
+
+que establece el Código Civil del Estado,
+
+se causará 10.00
+
+En caso de resolución judicial que ordene la inscripción definitiva se compensará el pago efectuado de la inscripción preventiva al pago de la definitiva;
+
+II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, se aplicará la tasa de 0.75% sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, salvo en los siguientes casos:
+
+a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicándose la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
+
+b).- Tratándose de adquisición de bienes
+
+por herencia o por donación, entre
+
+cónyuges y entre ascendientes y descendientes
+
+en línea recta, en cualquier grado, por cada
+
+uno de los inmuebles, se causarán 10.00
+
+El cobro de los derechos a que se refiere esta
+
+fracción, no deberá exceder de 750 días de salario mínimo general diario vigente en el Estado;
+
+III.- Por cada inscripción de convenios de
+
+reestructuración o modificación de contratos de crédito, se causará una cuota de 10 días de salario mínimo general diario vigente en el Estado, salvo cuando se trate de ampliación de crédito se aplicará la tasa de 0.25% sobre el incremento del mismo, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado;
+
+IV.- Por la inscripción de contratos de
+
+reconocimiento de adeudo, se causará 10.00
+
+V.- Por la inscripción de contratos de compra
+
+de esperanza se causará 10.00
+
+VI.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará al hacerse la primera inscripción con arreglo a la fracción II, y al practicarse la inscripción complementaria se pagará el 25% de lo que corresponda con arreglo a dicha fracción;
+
+VII.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria, y las de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales distintos del dominio, de limitación de dominio del propietario, los embargos, los aseguramientos, las servidumbres y las fianzas, pagarán con arreglo a la fracción II;
+
+VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado;
+
+IX.- Por la inscripción de las demandas a que se refiere el Reglamento del Registro Público se causará 3.00
+
+X.- Las cancelaciones en los casos a que se refieren las fracciones VII, VIII, XIII y XIV de este Artículo, causarán 2.00
+
+XI.- Por la inscripción de contratos de aparcería,
+
+se causará 3.00
+
+XII.- Por la inscripción del contrato de copropiedad
+
+o por la división de ésta por cada inmueble
+
+que surja, se causará 10.00
+
+XIII.- Por la inscripción de embargos derivados
+
+de juicios por alimentos, laborales y fiscales
+
+se causará 2.00
+
+XIV.- Por la inscripción de créditos hipotecarios, refaccionarios, de habilitación o avío, así como cualquier otro crédito se causarán derechos, aplicando la tasa de 0.25% sobre el importe del crédito principal que se otorgue al acreditado, sin incluir los intereses por financiamiento, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
+
+Tratándose de créditos destinados a la adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.25 señalada en el párrafo anterior, sobre la base del 50% del importe a que se refiere dicho párrafo;
+
+XV.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda en frutos pendientes de bienes raíces y de la prenda de título de crédito, se aplicará la tasa de 0.40 % sobre la base que señala la fracción II, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado;
+
+XVI.- Por el registro de testamento, de
+
+autos de declaración de herederos y
+
+nombramientos de albacea definitivo,
+
+independientemente de los derechos
+
+por depósito y por la inscripción de las
+
+transmisiones a que haya lugar,
+
+se causará 10.00
+
+XVII.- Tratándose de asociaciones de carácter civil,
+
+por la inscripción o modificación del acta
+
+constitutiva, así como por la extinción de la
+
+asociación se causará 3.00
+
+XVIII.- Tratándose de sociedades civiles, se causará:
+
+a).- Por la inscripción de la escritura constitutiva
+
+y de los aumentos de capital, se aplicará la tasa de 0.75 % sobre el importe del capital social o de los aumentos, según sea el caso, sin que el cobro de los derechos deba exceder de 500 días de salario mínimo general diario vigente en el Estado.
+
+b).- Por la inscripción de cualquier modificación
+
+a la escritura constitutiva, exceptuando el
+
+aumento de capital social, causará 3.00
+
+c).- Por la inscripción de la extinción de la
+
+sociedad, causará 3.00
+
+XIX.- Tratándose de fundaciones de
+
+beneficencia privada, por la inscripción o
+
+modificación de la escritura constitutiva,
+
+así como por la extinción de la fundación,
+
+se causará una cuota de 5.00
+
+XX.- Por las constancias y ratificaciones de
+
+documentos privados a que se refiere el
+
+Reglamento del Registro Público,
+
+se causará 2.00
+
+XXI.- Por el depósito de un testamento ológrafo:
+
+a).- Si el depósito se hace en la Oficina del Registro
+
+Público, se causará 3.00
+
+b).- Si el depósito se hace fuera de la Oficina del
+
+Registro Público, se causará 6.00
+
+XXII.- Por informes relativos al otorgamiento de
+
+testamentos ológrafos, incluyendo la
+
+búsqueda, se causará 2.00
+
+XXIII.- Por la expedición de copia certificada de
+
+cualquier documento que se encuentre
+
+inscrito, se pagará por hoja 0.25
+
+XXIV.- Por la expedición de certificados de:
+
+a).- No propiedad 2.00
+
+b).- Libertad de gravamen 4.00
+
+c).- Historia registral de los últimos
+
+20 años 10.00
+
+XXV.- Por las informaciones ad-perpetuam se
+
+causarán 10.00
+
+XXVI.- Por la inscripción de rescisión de
+
+contrato, cualquiera que sea su naturaleza,
+
+se causará 3.00
+
+XXVII.- Por la inscripción de la Constitución del
+
+Régimen de Propiedad en Condominio
+
+causará 10.00
+
+a).- Por la inscripción de las actas de
+
+asamblea de condóminos y modificación
+
+del régimen de propiedad en condominio 5.00
+
+XXVIII.- Por el registro de la constitución del
+
+patrimonio familiar, se causará 10.00
+
+XXIX.- Por la inscripción o modificación a las
+
+capitulaciones matrimoniales, y liquidación
+
+de la sociedad conyugal, se causará 10.00
+
+XXX.- Por la inscripción de contratos de fideicomiso, se causará:
+
+a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II;
+
+b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
+
+c).- Por la sustitución de fiduciario o
+
+fideicomisario 3.00
+
+d).- Por la reversión de cada uno de los
+
+bienes 2.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 51.- Para el cobro de los derechos que establece el Artículo anterior, se observarán las reglas siguientes:
+
+I.- Cuando se trate de tasas aplicables sobre el valor, se tendrá por valor en sus respectivos casos:
+
+a).- En los casos de arrendamiento de inmuebles por más de seis años o con anticipo de rentas por más de tres, el importe total de las rentas estipuladas que deban causarse por el término del contrato, o el monto de las rentas anticipadas;
+
+b).- Cuando se trate de actos, contratos o resoluciones por los que se trasmita el dominio o la posesión de inmuebles o derechos reales, el que resulte mayor entre el declarado por las partes, el del avalúo comercial o el del valor catastral, este último tendrá una vigencia de 6 meses;
+
+c).- En los contratos de garantía, en los embargos y otros gravámenes el valor de las obligaciones garantizadas, y en su defecto el valor determinado conforme al inciso anterior;
+
+d).- La consideración hecha en el inciso a) de la fracción II del Artículo anterior, se entenderá en favor de quienes vayan a habitar el inmueble.
+
+II.- En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito por las condiciones, cuotas, derechos y otros conceptos cuyo importe no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca, independiente de la que se constituya a favor de los tenedores de las cédulas, la cuota correspondiente por la cantidad determinada.
+
+III.- Cuando en un mismo instrumento conste la transmisión de dos o más bienes o derechos reales, se pagará sobre el valor de cada uno de ellos; si la transmisión se realiza por una suma alzada y los interesados no determinan el valor que corresponda a cada uno de dichos bienes, se tomará como base el que resulte mayor de entre el valor catastral y el valor comercial de los mismos, sin que el cobro exceda del límite establecido, aún cuando la suma de los derechos correspondientes por la inscripción de cada uno de los inmuebles resultase mayor.
+
+IV.- Para la aplicación de las tasas de la fracción II del Artículo anterior, en su caso, la nuda propiedad se valuarán en 75% del precio del inmueble y el usufructo en el 25% del mismo.
+
+V.- En los casos en que los servicios que preste el Registro Público de la Propiedad, no se encuentren expresamente previstos en las tarifas del artículo anterior, se pagará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
+
+VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos si se puede determinar exactamente su cuantía; en caso contrario, se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+
+VII.- Los créditos con garantía hipotecaria, que deban inscribirse en distintos municipios, en virtud de la ubicación de los bienes, los derechos correspondientes, se causarán tomándose como base la porción del crédito por la que responda cada una de las garantías, si se determina; en caso contrario el pago se efectuará en porcentajes iguales en cada municipio que se registre.
+
+Cuando una resolución de embargo de bienes o un Contrato de Fideicomiso deba inscribirse en distintos municipios en virtud de la ubicación de los mismos, el monto total de los derechos causados se dividirá entre el número de municipios en que corresponda inscribir, pagándose en cada uno de ellos la proporción que resulte.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 52.- No causarán los derechos a que se refiere este capítulo:
+
+a).- Cuando se trata de inscripción relativa a bienes inmuebles del dominio público o derechos reales pertenecientes a la Federación, al Estado de Sinaloa y sus Municipios;
+
+b).- Por los informes o certificaciones que soliciten el Gobierno Federal, las autoridades del Estado de Sinaloa o de sus Municipios;
+
+c).- Por los informes que soliciten las autoridades administrativas y judiciales para asuntos penales o juicios de amparo;
+
+d).- En los casos de las inscripciones preventivas a que se refiere el Artículo 2899 del Código Civil;
+
+e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del registro público;
+
+f).- Por la búsqueda y expedición de certificados de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación, cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 53.- Los servicios que se presten en el Registro Público de Comercio, causarán derechos fiscales de acuerdo con la siguiente:
+
+T A R I F A
+
+CUOTA DE SALARIO
+
+MINIMO GENERAL
+
+VIGENTE EN EL
+
+CONCEPTO ESTADO
+
+I.- Por la inscripción de contratos de
+
+arrendamiento financiero en cualquiera
+
+de sus modalidades, se causará 50.00
+
+II.- Por la inscripción de actas constitutivas de sociedades cooperativas causará una cuota de 2 días de salario mínimo general diario vigente en el Estado si no hay capital, si lo hubiere, se aplicará la tasa del 0.25%, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
+
+III.- Por la inscripción de contratos de factoraje, si son prendarios, se aplicará la tasa de 0.40% sobre el monto de la operación, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado y si son hipotecarios, se cubrirá una cuota del 0.25% sobre el monto de la misma, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
+
+IV.- Por la inscripción de la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del artículo 50, sobre la base del capital declarado.
+
+V.- Tratándose de sociedades mercantiles, los derechos correspondientes se causarán en los términos siguientes:
+
+a).- Por la inscripción de la escritura constitutiva o de los aumentos de capital, se causará la misma cuota que establece la fracción II del artículo 50, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo general diario vigente en el Estado. Las sociedades de capital variable, pagarán sobre el capital inicial fijo. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas; si hay aportación de bienes inmuebles, se pagará con arreglo a la fracción II del artículo 50;
+
+b).- En la fusión o escisión de sociedades
+
+por cada una que resulte, se causará 10.00
+
+c).- Por la inscripción de cualquier modificación
+
+a la escritura constitutiva, exceptuando el
+
+aumento de capital social, se causará 2.00
+
+d).- Por la inscripción de la disolución de sociedades, si no hay bienes que se adjudiquen se causará una cuota equivalente a 2 días de salario mínimo general diario vigente en el Estado. Si hay bienes que se adjudiquen a terceros se pagará con arreglo a la fracción II del artículo 50, sobre la base del valor de los bienes adjudicados;
+
+e).- Por la inscripción de actas de asamblea
+
+de accionistas, se causará una cuota de 2.00
+
+f).- Por el depósito del programa a que
+
+se refiere el artículo 92 de la Ley
+
+General de Sociedades Mercantiles,
+
+se causará 1.00
+
+VI.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas, se causarán los respectivos derechos con arreglo a la fracción II del artículo 50.
+
+VII.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, se causarán los respectivos derechos de acuerdo con lo dispuesto en el primer párrafo de la fracción XIV del artículo 50.
+
+VIII.- Tratándose de poderes, se causará:
+
+a).- Por la inscripción y sustitución 2.00
+
+b).- Por la inscripción de revocación 1.00
+
+IX.- La habilitación de edad, licencia y
+
+emancipación para ejercer el comercio,
+
+las revocaciones de unos y otros y las
+
+escrituras a que se refieren las fracciones
+
+X y XI del artículo 21 del Código de
+
+Comercio causarán 2.00
+
+X.- Por la inscripción de las resoluciones
+
+judiciales en las que se declare suspensión
+
+de pagos, quiebra o se admita liquidación
+
+judicial, se causará 2.00
+
+XI.- Las anotaciones referentes a inscripciones
+
+principales, causará 1.00
+
+XII.- Por la expedición de copia certificada de
+
+cualquier documento que se encuentre
+
+inscrito, se pagará independientemente
+
+de la búsqueda, por cada hoja 0.25
+
+XIII.- Por la expedición de certificados de
+
+inscripción, se causará 2.00
+
+XIV.- Por el depósito de guarda de documentos,
+
+se causará 1.00
+
+XV.- Por las ratificaciones de documentos y
+
+firmas ante el Registrador, se causará 2.00
+
+XVI.- Por la inscripción de contratos de fideicomiso, se causará:
+
+a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II;
+
+b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado;
+
+c).- Por la sustitución de fiduciario o
+
+fideicomisario 3.00
+
+d).- Por la reversión de cada uno de
+
+los bienes 2.00
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 54.- Para el cobro de los derechos que establece la tarifa del Artículo anterior, se observarán las siguientes reglas.
+
+I.- Cuando un mismo documento origine dos o más inscripciones, los derechos se causarán por cada inscripción.
+
+II.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por un año.
+
+III.- En los casos en que los servicios que preste el Registro Público de Comercio, no se encuentren expresamente previstos en la tarifa del Artículo anterior, se causará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 55.- Las rectificaciones de inscripciones cuando el error sea imputable a los interesados y no al registrador causan la mitad de los derechos designados a las inscripciones.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 56.- En toda constancia que salga de la Oficina del Registro se anotará al margen los derechos y gastos que haya originado, citándose la fracción correspondiente de la tarifa aplicada y del número y fecha del recibo expedido por la oficina recaudadora respectiva, debiendo hacerse también estas anotaciones al margen de la inscripción o documento que se conserve en la Oficina del Registro.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 57.- No se causarán derechos de registro por la certificación que se ponga al título o documento al ser presentado para su registro, ni por las certificaciones que se le ponga de haber quedado inscrito.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 58.- Los Oficiales Registradores, al solicitárseles un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas establecidas para tal efecto cuyo original y duplicado entregarán al contribuyente para que efectúe el pago en la Oficina Recaudadora o Institución autorizada correspondiente. Efectuado el pago, el interesado exhibirá al Oficial Registrador el recibo oficial para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 59.- De los ingresos percibidos en el cobro de los derechos a que se refiere este Capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que les será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO VIII
+
+DERECHOS POR EL OTORGAMIENTO DE LICENCIAS, PERMISOS O AUTORIZACIONES PARA EL FUNCIONAMIENTO DE ESTABLECIMIENTOS Y LOCALES PARA LA VENTA Y CONSUMO DE BEBIDAS ALCOHOLICAS
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 60.- Es objeto de este derecho el otorgamiento de licencias permisos o autorizaciones para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 61.- Son sujetos de este derecho las personas físicas y morales que soliciten y obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los términos del artículo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 62.- La base de este derecho es el tipo de licencia, permiso o autorización, que se otorgue en la materia ya sea en número de días u horas cuando se trate de permisos eventuales ó de funcionamiento en horas extraordinarias en los términos del Reglamento de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces de salario mínimo general diario vigente en el Estado, en los siguientes términos:
+
+I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán los derechos conforme a la siguiente:
+
+T A R I F A
+
+G I R O S C A T E G O R I A
+
+A B C
+
+Licorería 590 590 590
+
+Supermercado 1471 1176 882
+
+Almacén 1911 1471 1323
+
+Cantina 882 882 882
+
+Cervecería 705 705 705
+
+Bar 1176 1176 1176
+
+Cabaret 1176 1176 1176
+
+Centro Nocturno 1176 1176 1176
+
+Restaurante c/vta.
+
+de cerveza 882 882 882
+
+Restaurante c/vta.
+
+de cerveza y vinos 882 882 882
+
+Restaurante c/vta.
+
+de cerveza, vinos y
+
+licores 882 882 882
+
+Restaurante con
+
+bar anexo 1176 1176 1176
+
+Club Social 735 735 735
+
+Salón de baile o
+
+de fiesta 882 882 882
+
+II.- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
+
+T A R I F A
+
+G I R O S C A T E G O RI A
+
+A B C
+
+Licorería 70 70 70
+
+Supermercado 147 136 126
+
+Almacén 236 203 171
+
+Cantina 153 126 115
+
+Cervecería 103 85 85
+
+Bar 153 126 126
+
+Cabaret 126 103 103
+
+Centro Nocturno 203 171 153
+
+Restaurante c/vta.
+
+de cerveza 106 85 85
+
+Restaurant c/vta.
+
+de cerveza y vinos 106 85 85
+
+Restaurante c/vta.
+
+de cerveza, vinos y
+
+licores 147 132 119
+
+Restaurante con
+
+bar anexo 163 163 163
+
+Club Social 126 103 103
+
+Salón de baile o
+
+de fiesta 126 103 103
+
+III.- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
+
+T A R I F A
+
+G I R O S C A T E G O R I A
+
+A B C
+
+Licorería 0.15 0.15 0.15
+
+Cantina 0.17 0.17 0.17
+
+Cervecería 0.15 0.15 0.15
+
+Restaurante c/vta.
+
+de cerveza 0.36 0.36 0.36
+
+Restaurant c/vta.
+
+de cerveza y vinos 0.39 0.39 0.39
+
+Restaurante c/vta.
+
+de cerveza,
+
+vinos y licores 0.42 0.42 0.42
+
+Restaurante con
+
+bar anexo 0.74 0.74 0.74
+
+Bar 0.74 0.74 0.74
+
+Supermercado 0.39 0.20 0.17
+
+Cabaret 0.49 0.43 0.43
+
+Centro Nocturno 0.81 0.75 0.70
+
+Club Social 0.49 0.40 0.40
+
+Sala de Fiesta 0.40 0.35 0.30
+
+IV.- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
+
+T A R I F A
+
+G I R O S C A T E G O R I A
+
+A B C
+
+Para muestras o
+
+Degustaciones 5 4 3
+
+Eventos deportivos,
+
+Recreativos y artísticos. 200 100 50
+
+Eventos sociales 50 25 10
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 63.- La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la ley de la materia, deberá efectuarse durante los meses de enero a marzo de cada año.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 64.- Para la aplicación de las multas por violaciones a la ley de la materia, se atenderá a las disposiciones contenidas en dicha ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO IX. AUTOPISTA ESTATAL "BENITO JUAREZ"
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 65.- Las cuotas derechos y refrendos, así como sus correspondientes excenciones, relativas al uso o aprovechamiento de la autopista estatal "Benito Juárez", se sujetarán a lo dispuesto en este capítulo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 66.- El uso de la Autopista Estatal "Benito Juárez", mediante el tráfico de vehículos en el tramo comprendido entre el Poblado las Brisas y el entronque con la carretera a El Dorado o viceversa, estará sujeto a la siguiente:
+
+T A R I F A
+
+VECES EL SALARIO
+
+MINIMO GENERAL
+
+DIARIO VIGENTE
+
+EN SINALOA
+
+CLASE DE
+
+VEHICULO TRAMO TRAMO
+
+COMPLETO INTERMEDIO
+
+I.- Motocicletas 0.50 0.25
+
+II.- Automóviles y Camionetas tipo pick-up y panel, de hasta 10 pasajeros.
+
+a).- Sin remolque 1.30 0.65
+
+b).- Con remolque 1.50 0.75
+
+III.- Autobuses de
+
+pasajeros 1.70 0.85
+
+IV.- Camiones de carga
+
+de 2 ejes 1.70 0.85
+
+V.- Camiones de carga o
+
+tractores con semiremolque
+
+de 3 ejes 2.20 1.10
+
+VI.- Camiones de carga o
+
+tractores con semiremolque
+
+de 4 ejes. 2.70 1.35
+
+VII.- Camiones de carga o
+
+tractores con semiremolque
+
+de 5 ejes. 3.20 1.60
+
+Tratándose de camiones de carga o tractores con remolque de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementarán por cada eje excedente, en un 50% del salario mínimo general diario vigente en el Estado.
+
+Cuando la aplicación de la tarifa anterior se determine una cuota en fracciones de cien pesos, se ajustará la cuota a la centena inmediata siguiente si se trata de fracciones superiores a cincuenta pesos y cuando la fracción sea de cincuenta pesos o inferior el ajuste se hará a la centena inmediata anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 67.- Estarán exentos del pago de cuotas los vehículos militares, policiales y de auxilio turístico, así como ambulancias y bomberos, siempre que por sus características o emblemas se identifiquen como tales.
+
+Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados al Congreso del Estado de Sinaloa y Presidentes Municipales del Estado de Sinaloa.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 68.- Los ingresos que se recauden por concepto de las cuotas y los derechos que se establecen en este capítulo, se destinarán al organismo que tenga a su cargo la administración de la referida autopista, para cubrir los gastos de operación, conservación y mantenimiento de la misma, hasta por el monto que señale el presupuesto de egresos que se hubiere autorizado para tal efecto.
+
+La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO X. INSPECCION Y VIGILANCIA DE OBRA PUBLICA DIRECTA
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 69.- Por el servicio de fiscalización y control que las leyes de la materia encomiendan a la Contraloría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajo.
+
+La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO XI. DERECHOS ECOLOGICOS POR IMPACTO AMBIENTAL, PREVENCION Y CONTROL DE LA CONTAMINACION
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 70.- Para los efectos del cobro de los derechos a que se refiere este Capítulo se entenderán sujetos de los mismos quienes realicen actividades que se encuentren reguladas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa y su reglamento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 71.- Por la recepción, evaluación y dictamen de estudios de manifestación de impacto ambiental, se pagarán alguno de los derechos que a continuación se señalan según corresponda:
+
+I.- Informe preventivo. 40.00 días de salario mínimo general vigente en el Estado.
+
+II.- Manifestación de impacto ambiental modalidad general. 80.00 días de salario mínimo general vigente en el Estado.
+
+III.- Manifestación de impacto ambiental modalidad intermedia. 120.00 días de salario mínimo general vigente en el Estado.
+
+IV.- Manifestación de impacto ambiental modalidad específica. 160.00 días de salario mínimo general vigente en el Estado.
+
+El proponente de la obra o proyecto, pagará los derechos por publicación de los avisos de presentación, de manifestación de impacto ambiental, en el Periódico Oficial "El Estado de Sinaloa".
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 72.- Por la inscripción en el Registro Estatal de prestadores de servicios que realizan estudio de impacto ambiental, se pagará el derecho de impacto ambiental por cada campo de especialidad o refrendo anual correspondiente 70.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 73.- Por la recepción evaluación y dictamen de estudios de riesgos ambiental, se pagarán los derechos que a continuación se señalan:
+
+I.- Informe preliminar de riesgo. 40.00 días de salario mínimo general vigente en el Estado
+
+II.- Estudios de riesgo modalidad análisis de riesgo. 80.00 días de salario mínimo general vigente en el Estado.
+
+III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará. 35.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 74.- Por el funcionamiento de las fuentes fijas de jurisdicción estatal que emitan olores desagradables o dañinos, gases o partículas sólidas o líquidas a la atmósfera, se pagará anualmente el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
+
+I.- Por la recepción, evaluación y resolución de funcionamiento 80.00 días de salario mínimo general vigente en el Estado.
+
+II.- Por la verificación de cumplimiento de las condiciones derivadas de la resolución 35.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 75.- Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación por cada dictamen técnico, 35.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 76.- Por la evaluación para instalar y operar sistemas de recolección, almacenaje, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final de residuos no peligrosos, así como para prestar servicios en dichas operaciones, se pagará por cada evaluación el derecho de prevención y control de la contaminación, 160.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 77.- Por la verificación del funcionamiento de las empresas y particulares cuya actividad por su propia naturaleza, modifique o altere las condiciones naturales de las riberas de los ríos, contribuyendo con ello al desequilibrio o alteración ecológica, 70.00 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 78.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 79.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 80.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
+
+En estos casos se cobrará una cuota anual de 0.5 a 2 salarios mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 81.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 82.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que éste a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 83.- Ingresarán también como productos los obtenidos de la venta de formas impresas y ediciones oficiales hechas por el Gobierno del Estado, procediéndose respecto a ellos como corresponda, de acuerdo con lo dispuesto en los artículos anteriores.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 84.- Ingresarán también por este concepto las recuperaciones de créditos otorgados por el Gobierno del Estado, así como los intereses devengados por los mismos, siendo aplicable al respecto lo dispuesto para los contratos celebrados con bienes del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 85.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 86.- Los recargos por la falta de pago oportuno de créditos fiscales y la indemnización moratoria aplicable en los casos de la prórroga otorgada para el pago de esos créditos, se causarán de acuerdo con las disposiciones de esta Ley e ingresarán como aprovechamientos del erario.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 87.- Las multas impuestas por infracciones a la legislación fiscal se harán efectivas por la autoridad que las impuso y el ingreso se acreditará en la cuenta de multas fiscales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 88.- Las multas que impongan las autoridades judiciales y administrativas del Estado serán cobradas por la Oficina Recaudadora con jurisdicción en el lugar de residencia de la autoridad que la haya impuesto. Al efecto dicha autoridad comunicará, por oficio, a la Oficina Recaudadora correspondiente la imposición de la multa dentro de los tres días siguientes para que la haga efectiva. En el caso de que la autoridad que impuso la multa o su superior jerárquico o cualquiera otra autoridad competente ordene la suspensión del procedimiento de cobro, la garantía del interés fiscal se otorgará ante la citada Oficina Recaudadora.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 89.- Son rezagos los ingresos por concepto de toda clase de créditos fiscales que se obtengan en su ejercicio posterior a aquél en que debieran haber sido pagados.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 90.- La denominación "rezagos", no implica cambio de la naturaleza del crédito respectivo. En consecuencia, en la cuenta de rezagos se abrirán las subcuentas necesarias para acreditar el ingreso al concepto específico del crédito fiscal pagado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 91.- Las herencias, legados o donaciones que se hagan en favor del Estado, ingresarán al erario. Cuando los bienes objeto de la herencia, legado o donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el ejecutivo.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 92.- Cuando la herencia, el legado o la donación sea hecha para la realización de determinadas obras del Estado, se les dará esa aplicación así como, cuando la beneficiaria sea alguna institución que dependa del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 93.- A falta de herederos testamentarios o legítimos, los bienes sucesorios serán aplicados a la beneficencia pública del Estado, de acuerdo con lo que dispone el artículo 1486 del Código Civil.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 94.- Se concede acción popular para denunciar las herencias vacantes a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 95.- La denuncia se presentará ante la Oficina Recaudadora en cuya jurisdicción se encuentren los principales bienes sucesorios o ante el Agente del Ministerio Público o del Juez competente, a elección del denunciante; pero en los dos últimos supuestos, deberá presentarse una copia del escrito de denuncia a la Oficina Recaudadora correspondiente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 96.- Los agentes del Ministerio Público tendrán la representación de la beneficencia pública en la tramitación del juicio. Para el efecto, la oficina recaudadora, cuando ante ella se hubiere presentado la denuncia, la transcribirá por oficio al citado funcionario. Si la denuncia se presentó directamente al Juez competente, éste correrá traslado al Agente del Ministerio público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 97.- El Juez de Primera Instancia que conozca del juicio, inmediatamente que dicte el auto de radicación, decretará las providencias necesarias para asegurar los bienes del interesado y, a propuesta del Agente del Ministerio Público, nombrará un interventor de los mismos, que tendrá las obligaciones y facultades que a los de su clase señala la Ley.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 98.- En caso de que después de radicado el juicio intestamentario se presente alguna persona reclamando la herencia y le sean reconocidos sus derechos hereditarios, será a cargo de ella el importe de los honorarios y gastos del interventor y demás gastos comprobados que haya originado la tramitación anterior a ese reconocimiento.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 99.- Hecha la declaración de herederos en favor de la beneficencia pública, el Juez del conocimiento lo comunicará por Oficio a la Oficina Recaudadora respectiva, para que esta de cuenta a la Secretaría de Hacienda Pública y Tesorería del Estado, sin perjuicio de que se continúe el procedimiento hasta la aprobación de la cuenta de división y partición de los bienes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 100.- La Secretaría de Hacienda Pública y Tesorería del Estado queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la beneficencia pública del Estado, o bien acordar que se destinen a alguno de los fines de la beneficencia.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 101.- Mientras tanto que los diversos servicios de la beneficencia sean sostenidos con cargo al Presupuesto de Egresos del Estado, ingresarán al erario estatal los productos que se obtengan de la venta o explotación de los bienes de las herencias vacantes, pudiendo también destinarse esos bienes, a juicio del ejecutivo, a los servicios públicos del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 102.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Hacienda Pública y Tesorería, tendrán derecho a una participación del veinticinco por ciento que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 103.- No tendrán derecho a participación como denunciantes los empleados públicos del Estado, federales o municipales que, en el ejercicio de sus funciones oficiales tengan conocimiento de la existencia de esta clase de herencias.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 104.- Ingresará al erario del Estado por concepto de los bienes mostrencos, de los vacantes y tesoros:
+
+I.- La porción que corresponda al mismo, del producto de la venta de los bienes mostrencos y los vacantes; y,
+
+II.- La porción de los tesoros ocultos que corresponde al Estado en el caso previsto por el artículo 875 del Código Civil.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 105.- Las oficinas fiscales comprobarán los ingresos que se obtengan por los conceptos especificados en el artículo anterior, con los documentos y ordenes concernientes.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 106.- Las cauciones de excarcelación constituidas a favor del Estado serán aplicables, a favor del erario, en los casos siguientes:
+
+I.- Cuando el inculpado desobedezca sin causa justificada la orden de presentarse al juez o tribunal que conozca el proceso; y,
+
+II.- En los demás gastos previstos a los artículos 398 y 401 del Código de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 107.- Los Jefes de las Oficinas Recaudadoras, previo aviso del Juez o Tribunal respectivo, aplicarán los depósitos que se hubieran constituido como caución.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 108.- Cuando la caución se haya otorgado en forma de fianza o en cualquiera otra diferente del depósito, se seguirán los procedimientos legales correspondientes para hacerla efectiva.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 109.- La devolución de los depósitos por cauciones, se harán en los casos previstos en el Artículo 399 del Código de Procedimientos Penales, dentro de los 60 días siguientes a la fecha en que se reciba la orden de devolución del juez o tribunal competente.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 110.- La percepción de las participaciones se regirá por las Leyes y convenios que las regulen.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. ADICIONAL PRO-EDUCACION SUPERIOR
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 111.- Sobre el monto de los impuestos y derechos que a continuación se indican, se causarán una tasa adicional del 10%, cuyo producto se destinará a apoyar la educación superior en el Estado:
+
+I.- Impuestos:
+
+a).- Sobre adquisición de vehículos de motor usado;
+
+b).- Sobre profesiones y oficios.
+
+II.- Derechos:
+
+a).- Actos del Registros (sic) Civil;
+
+b).- Legalización de títulos profesionales;
+
+c).- Registro de vehículos de motor; y
+
+d).- Registro público de la propiedad y del comercio, con excepción de los derechos por este concepto aplicables a créditos de habilitación o avío, refaccionarios o hipotecarios, otorgados por instituciones de crédito.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 112.- La tasa adicional del 10% y demás porcentaje que se señala en el artículo precedente, también se aplicará a los "rezagos" derivados de impuestos y derechos que los originen.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 113.- El gravamen a que se refiere este capítulo se pagará al cubrirse el impuesto o derecho que lo motiva, y su producto será entregado quincenalmente a las instituciones de educación superior.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO II. ADICIONAL MUNICIPAL
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 114.- Sobre el monto de los impuestos que a continuación se indican, se causará una tasa adicional del 20%, destinada a la Hacienda Pública Municipal.
+
+I.- Impuesto sobre adquisición de vehículos de motor usado.
+
+II.- Impuesto sobre profesiones y oficios.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 115.- Las participaciones que correspondan a los Municipios del Estado en el rendimiento de impuestos federales, se cubrirán en los términos de la Ley de Coordinación Fiscal y del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 116.- Cuando un impuesto del Estado sea condonado totalmente, y en forma general respecto de los habitantes de una zona que haya sufrido alguna calamidad pública y la condonación sea parcial, el gravamen adicional municipal se causará únicamente sobre la porción no condonada. En ningún otro caso la condonación de un impuesto del Estado implicará la del gravamen adicional municipal.
+
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
+ART. 117.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
 
 ### CAPITULO XIV. Impuesto sobre Elaboración y Adquisición de Bebidas Alcohólicas
 
@@ -2239,2041 +2663,9 @@ b).- De cambio o baja;
 
 ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO TERCERO. DE LOS DERECHOS
+## TITULO TERCERO. DE LOS PRODUCTOS
 
-### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
-
-ART. 293.- Los Derechos por concepto de legalización de firmar (sic), certificaciones y expedición de copias de documentos por los funcionarios competentes del estado se causarán conforme a la siguiente:
-
-T A R I F A:
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-CONCEPTO VECES EL SALARIO
-
-MINIMOGENERAL
-
-VIGENTE EN SINALOA
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-I.- Legalización de
-
-Firmas 1.00
-
-II.- Certificaciones de firmas en
-
-Actas Constitutivas de sociedades
-
-cooperativas 0.80
-
-III.- Certificados de "No Adeudo" de
-
-créditos fiscales 0.25
-
-IV.- Certificados de "No Adeudo" por
-
-concepto de multas 0.25
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-V.- Certificados del valor fiscal
-
-de predios 0.25
-
-VI.- Certificados de fechas de pagos
-
-de créditos fiscales 0.25
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-VII.- Copias certificadas
-
-de documentos por hoja 0.25
-
-VIII.- Copias simples de los
-
-documentos a que se refiere la
-
-fracción VI anterior 0.07
-
-IX.- Duplicados autógrafos al
-
-carbón de los mismos documentos
-
-a que se refiere la
-
-fracción VI anterior 0.05
-
-X.- Copias simples de los
-
-documentos a que se refiere la
-
-fracción VII anterior, por hoja 0.05
-
-XI.- Duplicados autógrafos al carbón
-
-de los mismos documentos
-
-a que se refiere la fracción VII anterior
-
-por hoja 0.25
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-XII.- Testimonios notariales
-
-por hoja 3.00
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-XIII.- Autorización libros
-
-Protocolo Notariales 5.00
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
-
-XIV.- Cualquiera otra
-
-certificación que se expida
-
-diferente de las ya
-
-expresadas 1.00
-
-Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
-
-ART. 294.- No causan los derechos a que se refiere este Capítulo:
-
-I.- Los certificados, copias certificadas y copias simples al carbón que estén gravadas expresamente en otros Capítulos de esta Ley;
-
-II.- Las certificaciones que hagan las copias certificadas o copias simples que expidan las autoridades judiciales;
-
-III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en juicios de amparo promovidos contra actos de la (sic) autoridades del Estado.
-
-En la copia certificada deberá expresarse que su expedición se hace para ser presentada en el juicio de amparo respectivo;
-
-IV.- Los certificados de insolvencia.
-
-### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-ART. 295.- El cobro por concepto de copias de planos, certificados catastrales y otros trabajos que se ejecuten en la Dirección General de Catastro y en Delegaciones correspondientes, se regirá por la siguiente:
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-T A R I F A:
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-CONCEPTO VECES EL SALARIO
-
-MINIMO GENERAL
-
-VIGENTE EN SINALOA
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-I.- Por la certificación:
-
-a) Del nombre del propietario o
-
-poseedor de un predio 0.25
-
-b) Del valor fiscal de un predio 0.25
-
-c) De un predio en que se señalen
-
-colindancias y medidas 0.50
-
-d) En la que se señale la superficie
-
-catastral de un predio 0.30
-
-e) En que se indiquen antecedentes
-
-de propiedad 0.65
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-f) De un predio en el que se
-
-señalen nombre del propietario o
-
-poseedor, ubicación, valor fiscal,
-
-medidas, colindancias y superficie 0.65
-
-g) De un predio en que se señalen
-
-nombre del propietario o
-
-poseedor, ubicación, valor fiscal,
-
-medidas y colindancias, superficie y
-
-antecedentes de propiedad 0.80
-
-h) De predios cancelados 0.25
-
-i) De "No Propiedad" 0.25
-
-j) De documentos catastrales
-
-por hoja 0.25
-
-k).- Del valor fiscal o catastral
-
-proporcional de una fracción
-
-de predio 0.25
-
-l).- De ubicación de predio 0.25
-
-ll).- De planos catastrales 0.50
-
-II.- Por la expedición:
-
-a).- De copias fotostáticas de
-
-documentos catastrales, por hoja 0.15
-
-b).- De copias mecanografiadas de
-
-documentos catastrales, por hoja 0.20
-
-c).- De copias heliográficas o
-
-fotográficas de planos del Estado,
-
-de los Municipios o poblaciones 0.25
-
-1.- Tamaño oficio 0.25
-
-2.- Por cada decímetro cuadrado que
-
-exceda el tamaño anterior 0.01
-
-d).- De copias heliográficas de
-
-planos de manzanas:
-
-1.- Tamaño 54 X 35 cms. 0.20
-
-2.- Tamaño 45 X 68 cms. 0.25
-
-3.- Tamaño 103 X 35 cms. 0.30
-
-4.- Tamaño 103 X 68 cms. 0.60
-
-e).- De copias heliográficas de
-
-planos de zonas catastrales, por
-
-cada decímetro cuadrado o fracción 0.01
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-f).- De calcas de planos a tinta con
-
-señalamiento de linderos, medidas y
-
-superficies:
-
-1.- Por cada decímetro cuadrado
-
-o fracción 0.15
-
-2.- El mismo a lápiz, por cada
-
-decímetro cuadrado o fracción 0.07
-
-III.- Por el señalamiento de linderos, levantamiento, cálculo y dibujo que se soliciten de predios urbanos en poblaciones del Estado así como de predios en zonas rústicas, se cobrarán los derechos en cada caso, de acuerdo con lo siguiente:
-
-a).- Por los predios urbanos:
-
-1.- Por levantamiento y cálculo:
-
-- Por terreno hasta 500 metros
-
-cuadrados 0.65
-
-- Por terreno de 501 metros cuadrados en adelante, además de la cuota anterior se pagará 0.01 veces el salario mínimo general, por metro cuadrado
-
-- Por Construcción hasta 500 metros
-
-cuadrados 0.65
-
-Por construcción, de 501 metros
-
-cuadrados en adelante, además
-
-de la cuota anterior se pagará,
-
-por metro cuadrado 0.01
-
-En el caso de predio localizado
-
-en poblaciones fuera del área de
-
-asiento de la Delegación de
-
-Catastro, se cobrará, además de la
-
-tarifa anterior, una cuota de 0.65
-
-2.- Por dibujo:
-
-- En planos hasta tamaño carta, 0.65
-
-- Por decímetro cuadrado o
-
-fracción excedente, 0.07
-
-b).- Por predios rústicos:
-
-1.- Por levantamiento y cálculo:
-
-Hasta de 10 hectáreas. 1.65
-
-De 11 hectáreas. en adelante,
-
-además de la cuota anterior,
-
-por hectárea 0.15
-
-2.- Por dibujo:
-
-- En planos hasta tamaño carta 0.65
-
-- Por cada decímetro cuadrado o
-
-fracción excedente 0.07
-
-Para efectuar los trabajos a que se refiere esta fracción, se requiere que el terreno esté liumpio (sic) y despejado para la medición.
-
-En los casos a que se refiere esta fracción, el levantamiento y cálculo se hará de terreno y construcción por separado y el cobro de los derechos será la suma de éstos.
-
-IV.- Por la práctica de avalúo comercial para los efectos del Impuesto Municipal sobre Adquisición de Inmuebles, se cobrarán los derechos en cada caso de acuerdo con lo siguiente:
-
-a).- Por predio urbanos:
-
-1.- Por terreno:
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-- Zonas comerciales,
-
-por metro cuadrado 0.02
-
-- Zonas residenciales
-
-(1o. 2o. Y 3o. Orden),
-
-por metro cuadrado 0.02
-
-- Zonas populares y proletarias
-
-por metro cuadrado 0.01
-
-- Zonas semi-industriales e
-
-industriales, por metro cuadrado 0.01
-
-2.- Por construcciones:
-
-- De uso comercial,
-
-por metro cuadrado 0.03
-
-- De uso habitacional
-
-(1o. 2o. y 3o. orden),
-
-por metro cuadrado 0.03
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-- De uso habitacional
-
-(proletario y popular),
-
-por metro cuadrado 0.03
-
-De uso industrial y semi-industrial,
-
-por metro cuadrado 0.02
-
-En el caso de predios localizados
-
-en poblaciones fuera del área de
-
-asiento de la Delegación de Catastro,
-
-se cobrará además de la tarifa anterior,
-
-una cuota de: 0.50
-
-b) Por predios rústicos:
-
-Hasta de 20 hectáreas 1.65
-
-De 21 hectáreas en adelante, el excedente se cobrará, además de la cuota anterior, por hectárea como sigue:
-
-TIPO DE TERRENO
-
-Riego de gravedad, por hectárea 0.07
-
-Riego de bombeo, por hectárea 0.03
-
-Riego de avenida o humedad,
-
-por hectárea 0.02
-
-Temporal topografía plana,
-
-por hectárea 0.01
-
-Temporal topografía accidentada,
-
-por hectárea 0.01
-
-Agostadero, por hectárea 0.01
-
-Cerriles y forestales, por hectárea 0.01
-
-Estériles, salitrosas y playas,
-
-por hectárea 0.01
-
-ART. 296.- Los casos no previstos en esta tarifa, serán resueltos por la Dirección General de Catastro, asimilándoles con alguno de los señalados en ella.
-
-### CAPITULO III. Actos del Registro Civil
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-ART. 297.- Los derechos por actos del Registro Civil serán los que establece la siguiente:
-
-> <small>(REFORMADA LA TARIFA, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-T A R I F A:
-
-CONCEPTO CUOTA DE SALARIO
-
-MINIMO GENERAL
-
-DIARIO VIGENTE EN
-
-EL ESTADO DE SINALOA
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-I.- Por la expedición de
-
-copias certificadas de
-
-actas de Registro Civil,
-
-por cada hoja de papel
-
-autorizado 1.00
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-II.- Por el Registro:
-
-a).- De nacimiento, fuera
-
-de la oficina del
-
-Registro Civil 5.00
-
-b).- Extemporáneo de
-
-nacimiento, tratándose
-
-de personas mayores de
-
-7 años, en los términos de
-
-los Artículos 40 y 42 del
-
-Reglamento del Registro
-
-Civil del Estado 3.00
-
-c).- De Matrimonio:
-
-1.- En la Oficina del
-
-Registro Civil 3.00
-
-2.- Fuera de la Oficina
-
-del Registro Civil 15.00
-
-d).- De reconocimiento de hijos:
-
-1.- En la Oficina del
-
-Registro Civil 2.00
-
-2.- Fuera de la Oficina
-
-del Registro Civil 4.00
-
-e).- De adopción 2.00
-
-f).- De tutela 2.00
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-III.- Por la anotación de
-
-Emancipación 2.00
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-IV.- Por la inscripción:
-
-a).- De ejecutorias que
-
-declaren la incapacidad legal
-
-para administrar bienes,
-
-la ausencia o la presunción
-
-de muerte 3.00
-
-b).- Por la cancelación de
-
-la inscripción a que se
-
-refiere el inciso anterior 3.00
-
-c).- De rectificaciones de
-
-las actas del
-
-estado civil 3.00
-
-d).- De resoluciones
-
-judiciales que decreten el
-
-divorcio 2.00
-
-e).- De actas sobre el
-
-estado civil expedida por
-
-autoridades extranjeras 5.00
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-V.- Por la certificación de
-
-la falta o la ilegibilidad de
-
-actas o libros del
-
-Registro Civil 0.50
-
-ART. 298.- No causan los derechos a que se refiere este Capítulo:
-
-I.- Las actas de nacimiento que se levanten fuera de la Oficina en el caso del Artículo 61 del Código Civil;
-
-II.- Los certificados de supervivencia que se expidan a los pensionistas o jubilados del Estado, de la Federación o de los Municipios;
-
-III.- Los certificados de actas de nacimiento cuando se trate de comprobar la minoría de edad de procesados por delito del orden común;
-
-IV.- Los certificados de actas que soliciten las autoridades judiciales o administrativas, cuando la sociedad o la Hacienda Pública se encuentren interesadas en la recabación de tales datos;
-
-V.- La búsqueda de actas del Registro Civil, siempre que se proporcionen datos precisos que coincidan con los índices respectivos, con los mismos asientos, o bien que la búsqueda se haga por los propios interesados.
-
-ART. 299.- La recaudación de los derechos a que se refiere este Capítulo se hará por conducto de las Oficinas del Registro Civil contra la entrega de los recibos oficiales que les proporciones (sic) la Oficina Recaudadora de su jurisdicción, y los fondos recaudados se concentrarán cada quince días en la correspondiente Oficina Recaudadora.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 300.- Las formas oficiales numeradas valoradas utilizables para copias certificadas de Actas del Registro Civil serán proporcionadas a las Oficinas del Registro Civil por la Secretaría de Hacienda Pública y Tesorería, la que tendrá a su cargo el resguardo, manejo y control de las mismas.
-
-### CAPITULO IV. Publicaciones en el Periódico Oficial
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 301.- Causan derechos fiscales las publicaciones de interés particular que se hagan en el Periódico Oficial del Gobierno del Estado, las suscripciones, la venta de números sueltos y los edictos de remate de la Secretaría de Hacienda Pública y Tesorería, de la Sub´Secretaría de Inspección Fiscal de la Sub'Secretaría de Ingresos y de las Oficinas Recaudadoras. Estos últimos se agregarán a los gastos del procedimiento de ejecución cuando las Oficinas Recaudadoras ejerzan la acción económica-coactiva.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-ART. 302.- Los derechos a que se refiere el artículo anterior, estarán sujetos a la siguiente:
-
-> <small>(REFORMADA LA TARIFA, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-T A R I F A:
-
-CONCEPTO CUOTA DE SALARIO
-
-MINIMO GENERAL
-
-DIARIO VIGENTE
-
-EN EL ESTADO.
-
-I.- Por la publicación:
-
-a).- De edictos, avisos,
-
-solicitud de ruta, modificación
-
-o ampliación de ésta,
-
-aumento de unidades y
-
-cualquiera otra similar de
-
-interés particular, por palabra y
-
-por cada publicación 0.05
-
-b).- De convocatorias, balances,
-
-liquidaciones y similares,
-
-por plana 15.00
-
-c).- De edictos de remate
-
-provenientes de la Sub-Secretaría
-
-de Ingreso y de las Oficinas de (sic)
-
-Recaudadoras, por plana 2.50
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-d).- Por la plana de
-
-Decretos Municipales 2.0
-
-II.- Por la suscripción:
-
-a).- De un año, en el País 20.00
-
-b).- De un año, en el extranjero 40.00
-
-III.- Por la venta de cada número del Periódico Oficial.
-
-a).- Del día 0.20
-
-b).- Atrasado, del año
-
-corriente 0.30
-
-c).- Atrasado, de años
-
-anteriores 0.40
-
-d).- De dos o más secciones,
-
-independientemente de la cuota
-
-que proceda conforme a los
-
-tres incisos anteriores 0.60
-
-e).- En fotocopia de ediciones
-
-agotadas, por páginas 0.20
-
-f).- De edición especial que
-
-contenga leyes encuadernadas,
-
-como suplemento 1.00
-
-g).- Que contenga la Ley de
-
-Ingresos de los Municipios 0.50
-
-IV.- Por la venta de cada
-
-ejemplar de la Ley de Ingresos
-
-y Presupuesto de Egresos 1.00
-
-ART. 303.- Las cuotas a que se refiere el Artículo 302 son aplicadas únicamente a las palabras que forman el cuerpo del documento incluyendo las contenidas en el sello, timbres y su cancelación, fechas, firmas y denominaciones que la encabecen. Cuando se trate de documentos que contengan operaciones de contabilidad, tales como balances, facturas, o cuentas, se cobrará por plana, de acuerdo con la tarifa señalada en el Artículo anterior.
-
-Toda publicación o suscripción deberá ser pagada previamente en la Oficina Recaudadora correspondiente.
-
-### CAPITULO V. Comunicaciones Telefónicas
-
-ART. 304.- Los derechos fiscales por los servicios de líneas telefónicas del Estado se cobrarán de acuerdo con las tarifas establecidas por las leyes y reglamentos del ramo.
-
-ART. 305.- Las Oficinas de las líneas telefónicas recaudarán estos ingresos y expedirán los recibos oficiales correspondientes, debiendo concentrar mensualmente los fondos en la respectivas Oficinas Recaudadoras, dentro de los primeros cinco días del mes siguiente.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-La Secretaría de Hacienda Pública y Tesorería señalará la documentación que debe acompañarse a las concentraciones de fondos, comprobatoria de los ingresos correspondientes.
-
-### CAPITULO VI. Legalización de Títulos Profesionales
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 306.- Los derechos fiscales de legalización de títulos profesionales se causarán, por cada título que expidan las autoridades educativas competentes del Estado y que el Ejecutivo legalice con su firma, con una cuota equivalente a 2.50 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del derecho correspondiente.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-El contribuyente podrá hacer el pago de la cuota a que se refiere el párrafo anterior, en la Oficina Recaudadora de Rentas del Estado correspondiente, debiendo presentar en la Secretaría General de Gobierno, junto con el título cuya legalización se pretenda, el recibo oficial de pago correspondiente que le será devuelto con el título.
-
-ART. 307.- No causan los derechos a que se refiere este Capítulo la legalización de títulos profesionales de profesores de Educación Primaria Elemental, Superior y Normal.
-
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
-
-ART. 308.- Los profesionistas que ejerzan su profesión en el Estado, deberán registrar sus títulos profesionales en la Dirección General del Ramo, previo pago de una cuota equivalente a 0.35 veces el salario mínimo general que se encuentre vigente en el Estado de Sinaloa en la fecha de causación del Derecho correspondiente.
-
-El pago se hará en la Secretaría de Hacienda Pública y Tesorería del Estado, la que expedirá el recibo oficial de pago correspondiente.
-
-El recibo oficial de pago se exhibirá en la Dirección General de Educación al presentarse el título profesional cuyo registro se solicite y la demás documentación que señalen las leyes y reglamentos de la materia.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 308 Bis.- El cobro por el concepto contenido en el Artículo 308 de esta Ley, no se causará mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público, en materia de Derechos.
-
-### CAPITULO VII. Registro de Fierros, Marcas, Tatuajes, Aretes y Señales de los Ganaderos
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
-
-ART. 309.- Los derechos por el registro y revalidación de fierros, marcas, y señales de los ganaderos, se cobrarán conforme a la siguiente:
-
-T A R I F A:
-
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
-
-CONCEPTO VECES EL SALARIO
-
-MINIMO GENERAL
-
-VIGENTE EN SINALOA
-
-I.- Por el registro de fierros, marcas y señales y la expedición de títulos:
-
-a).- De 1 a 10 cabezas de ganado 1.00
-
-b).- De 11 a 20 cabezas de ganado 1.50
-
-c).- De 21 a 50 cabezas de ganado 2.15
-
-d).- De 51 a 100 cabezas de ganado 4.00
-
-e).- De 101 cabezas de ganado
-
-en adelante 6.60
-
-II.- Por la reposición de títulos 1.00
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 309 Bis.- Mientras se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público, en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno por los conceptos contenidos en el Artículo 309 de esta Ley.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-### CAPITULO VIII. Licencias y Servicios de Tránsito
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 310.- Por los servicios prestados por las Autoridades de Tránsito, se causarán los derechos conforme a la siguiente:
-
-T A R I F A:
-
-CONCEPTO CUOTA DE SALARIO
-
-MINIMO GENERAL
-
-VIGENTE EN EL ESTADO
-
-I.- Por expedición de licencias de manejo, vigencia de:
-
-a).- Dos años
-
-1.- Chofer 5.50
-
-2.- Automovilista 5.30
-
-3.- Motociclista 5.00
-
-4.- Aprendiz 5.30
-
-b).- Cuatro años
-
-1.- Chofer 11.00
-
-2.- Automovilista 10.60
-
-3.- Motociclista 10.00
-
-c).- Seis años
-
-1.- Chofer 16.50
-
-2.- Automovilista 16.00
-
-3.- Motociclista 15.00
-
-II.- Reposición de licencia por pérdida o deterioro
-
-con vigencia de:
-
-a).- Dos Años
-
-1.- Chofer 5.50
-
-2.- Automovilista 5.30
-
-3.- Motociclista 5.00
-
-4.- Aprendiz 5.30
-
-b).- Cuatro años
-
-1.- Chofer 11.00
-
-2.- Automovilista 10.60
-
-3.- Motociclista 10.00
-
-c).- Seis años
-
-1.- Chofer 16.50
-
-2.- Automovilista 16.00
-
-3.- Motociclista 15.00
-
-III.- Por control vehicular:
-
-a).- Por la expedición de placas de vigencia permanente,
-
-tarjetas de circulación y calcomanía
-
-1.- Para vehículos de
-
-servicio particular 15.00
-
-2.- Para vehículos de
-
-servicio público estatal 17.00
-
-3.- Para vehículo de
-
-demostración (placas y
-
-tarjetas de circulación) 40.00
-
-4.- Para remolques
-
-(placas y tarjeta de
-
-circulación) 10.00
-
-5.- Para motocicletas
-
-(placas y tarjeta de
-
-circulación) 10.00
-
-b).- Por reposición de juego de placas de vigencia permanente por pérdida o deterioro.
-
-1.- Para vehículos de
-
-servicio particular 15.00
-
-2.- Para vehículo de
-
-servicio público estatal 17.00
-
-3.- Para vehículo de
-
-demostración 40.00
-
-4.- Para remolques 10.00
-
-5.- Para motocicletas 10.00
-
-c).- Por reposición de tarjeta de circulación por pérdida, deterioro o cualquier otra causa 4.00
-
-d).- Por refrendo anual de placas y tarjeta de
-
-circulación de vigencia permanente, con emisión
-
-de calcomanía
-
-1.- Para vehículo de
-
-servicio particular 6.00
-
-2.- Para vehículo de
-
-servicio público estatal 8.00
-
-3.- Para vehículos de
-
-demostración 20.00
-
-4.- Para remolques 5.00
-
-5.- Para motocicletas 3.00
-
-e).- Por la baja de placas 1.00
-
-f).- Por la expedición de
-
-cada permiso para circular
-
-sin placas en vehículos
-
-de servicio particular,
-
-por día: 0.50
-
-IV.- Por cada concesión de
-
-servicio público de
-
-transporte de pasaje
-
-y/o carga de ruta o zona 40.00
-
-V.- Por cada cesión o transmisión de concesión y/o permiso de servicio público de transporte de pasaje y/o carga de ruta o zona determinada
-
-a).- Por cada cesión de
-
-concesión y/o permiso 40.00
-
-b).- Por cada cesión de
-
-concesión y/o permiso
-
-entre cónyuges y
-
-ascendientes o descendientes
-
-en línea recta
-
-en primer grado EXENTO
-
-c).- Por cada transmisión
-
-de concesión y/o
-
-permiso 40.00
-
-d).- Por cada transmisión
-
-de concesión y/o permiso
-
-entre cónyuges y
-
-ascendientes o descendientes
-
-en línea recta
-
-en primer grado EXENTO
-
-VI.- Por el refrendo anual de cada concesión de servicio público de transporte de pasaje y/o carga de ruta o zona determinada:
-
-a).- Por cada unidad de servicio público de transporte de pasaje y/o carga de ruta o zona.
-
-1.- Si el pago se hace en el
-
-mes de diciembre del año
-
-inmediato anterior a aquél
-
-a que corresponda la
-
-revalidación. 15.00
-
-2.- Si el pago se hace en
-
-los meses de enero
-
-o febrero 20.00
-
-La revalidación anual será obligatoria a partir del mes de enero del año siguiente a aquél en que haya sido otorgada la concesión o permiso.
-
-Si el pago se hace a partir del mes de marzo, se cubrirá la cuota a que se refiere el punto anterior, y se aplicarán las sanciones correspondientes de acuerdo a lo establecido en el Código Fiscal del Estado.
-
-VII.- Por cada permiso eventual de servicio público, por día:
-
-1.- Para el transporte de
-
-pasajeros 1.00
-
-2.- Para transporte de
-
-carga 1.00
-
-3.- Para transporte de
-
-carga mixta, entendiéndose
-
-de pasajeros y carga 1.00
-
-4.- Para servicio exclusivo
-
-de turismo 1.50
-
-VIII.- Por cada estudio
-
-socio-económico que se
-
-efectúe de acuerdo a lo
-
-previsto por la Ley de
-
-Tránsito y Transportes
-
-del Estado. 35.00
-
-IX.- Por cada examen o
-
-certificado médico para
-
-justificar el estado del
-
-conductor cuando sea
-
-necesario 5.00
-
-X.- Por cada copia
-
-certificada de documentos
-
-registrados en los archivos
-
-de la Dirección General de
-
-Tránsito, por hoja 0.50
-
-XI.- Por la guarda de vehículos en la pensión de Tránsito,
-
-por día:
-
-1.- Camiones y
-
-Omnibuses 1.00
-
-2.- Automóviles y
-
-camionetas 0.60
-
-3.- Motocicletas 0.35
-
-XII.- Por el traslado de vehículos automotores con grúa:
-
-a).- En zona urbana
-
-1.- Automóviles y
-
-camionetas 8.00
-
-2.- Camiones,
-
-omnibuses y similares 10.00
-
-Fuera de la zona urbana, además de la cuota señalada se pagará 0.50 salario mínimo general diario vigente en el Estado por cada kilómetro de arrastre.
-
-XIII.- Por revisión de
-
-las condiciones físicas
-
-de los vehículos de
-
-servicio público. 2.00
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 311.- Para la aplicación de las multas por violaciones a la Ley de Tránsito y Transportes del Estado, se atenderá a lo dispuesto por dicha Ley.
-
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las fechas y dentro de los plazos establecidos por la Ley de Tránsito y Transportes, o en las fechas y plazos que para el efecto señalen las autoridades correspondientes, cuando las necesidades del servicio así lo requieran. El pago de los derechos a que se refiere este Capítulo, fuera de los plazos establecidos, ocasionará la aplicación de sanciones a que se refiere el Código Fiscal del Estado.
-
-### CAPITULO IX. Expedición de Pasaportes
-
-ART. 312.- Los derechos por la expedición de pasaportes se cobrarán de acuerdo con la siguiente Tarifa:
-
-I.- Por la expedición de un pasaporte individual $ 300.00
-
-II.- Por la expedición de pasaportes para dos o más personas 400.00.
-
-### CAPITULO X. Registro Público de la Propiedad y del Comercio
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos fiscales conforme a la siguiente:
-
-> <small>(REFORMADA LA TARIFA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-T A R I F A:
-
-CONCEPTO CUOTA SALARIO
-
-MINIMO GENERAL
-
-VIGENTE EN EL
-
-ESTADO
-
-I.- Cuando se rehuse
-
-la inscripción de un
-
-documento, por la
-
-inscripción preventiva
-
-que establece el
-
-Código Civil del Estado,
-
-se causará 10.00
-
-En caso de resolución judicial que ordene la inscripción definitiva se compensará el pago efectuado de la inscripción preventiva al pago de la definitiva.
-
-II.- Por la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, se aplicará la tasa de 0.75% sobre la base, del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, salvo en los siguientes casos:
-
-a).- Tratándose de adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo.
-
-b).- Tratándose de adquisición
-
-de bienes por herencia o por
-
-donación, entre cónyuges y
-
-entre ascendientes y
-
-descendientes en línea recta,
-
-en cualquier grado, por cada
-
-uno de los inmuebles,
-
-se causarán 10.00
-
-El cobro de los derechos a que se refiere esta fracción, no deberá exceder de 750 días de salario mínimo general diario vigente en el Estado.
-
-III.- Por cada inscripción de convenios de reestructuración o modificación de contratos de crédito, se causará una cuota de 10 días de salario mínimo general diario vigente en el Estado, salvo cuando se trate de ampliación de crédito se aplicará la tasa de 0.25 sobre el incremento del mismo, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
-
-IV.- Por la inscripción
-
-de contratos de
-
-reconocimiento de
-
-adeudo, se causará 10.00
-
-V.- Por la inscripción
-
-de contratos de compra
-
-de esperanza se causará 10.00
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-VI.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará el (sic) hacerse la primera inscripción con arreglo a la fracción II, y al practicarse la inscripción complementaria se pagará el 25% de lo que corresponda con arreglo a dicha fracción.
-
-VII.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por resolución judicial o por disposición testamentaria, y las de los títulos por virtud de los cuales se adquieran, transmitan, modifiquen o extingan derechos reales distintos del dominio, de limitación de dominio del propietario, los embargos, los aseguramientos, las servidumbres y las fianzas, pagarán con arreglo a la fracción II.
-
-VIII.- Por la inscripción de las cédulas hipotecarias se pagará conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
-
-IX.- Por la inscripción de
-
-las demandas a que se
-
-refiere el Reglamento del
-
-Registro Público se
-
-Causará 3.00
-
-X.- Las cancelaciones en
-
-los casos a que se refieren
-
-las fracciones VII, VIII, XIII
-
-y XIV de este Artículo,
-
-causarán 2.00
-
-XI.- Por la inscripción de
-
-contratos de aparcería se
-
-causará 3.00
-
-XII.- Por la inscripción del
-
-contrato de copropiedad o
-
-por la división de ésta por
-
-cada inmueble que surja,
-
-se causará 10.00
-
-XIII.- Por la inscripción de
-
-embargos derivados de
-
-juicios por alimentos,
-
-laborales y fiscales
-
-se causará 2.00
-
-XIV.- Por la inscripción de créditos hipotecarios, refaccionarios, de habilitación o avío, así como cualquier otro crédito se causarán derechos, aplicando la tasa de 0.25% sobre el importe del crédito principal que se otorgue al acreditado, sin incluir los intereses por financiamiento, sin que el cobro de los derechos exceda de 250 días de salario mínimo general diario vigente en el Estado.
-
-Tratándose de créditos destinados a la adquisición de casa habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo general diario vigente en el Estado, los derechos correspondientes se causarán aplicando la tasa de 0.25 señalada en el párrafo anterior, sobre la base del 50% del importe a que se refiere dicho párrafo.
-
-XV.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda en frutos pendientes de bienes raíces y de la prenda de título de crédito, se aplicará la tasa de 0.40% sobre la base que señala la fracción II, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado.
-
-XVI.- Por el registro de
-
-testamento, de autos de
-
-declaración de herederos
-
-y nombramientos de
-
-albacea definitivo,
-
-independientemente de
-
-los derechos por depósito
-
-y por la inscripción de las
-
-transmisiones a que
-
-haya lugar, se causará 10.00
-
-XVII.- Tratándose de
-
-asociaciones de carácter
-
-civil, por la inscripción o
-
-modificación del acta
-
-constitutiva, así como por
-
-la extinción de la
-
-asociación se causará 3.00
-
-XVIII.- Tratándose de sociedades civiles, se causará:
-
-a).- Por la inscripción de la escritura constitutiva y de los aumentos de capital, se aplicará la tasa de 0.75% sobre el importe del capital social o de los aumentos, según sea el caso, sin que el cobro de los derechos deba exceder de 500 días de salario mínimo general diario vigente en el Estado.
-
-b).- Por la inscripción de
-
-cualquier modificación a
-
-la escritura constitutiva,
-
-exceptuando el aumento
-
-de capital social,
-
-causará 3.00
-
-c).- Por la inscripción de
-
-la extinción de la sociedad,
-
-causará 3.00
-
-XIX.- Tratándose de
-
-fundaciones de beneficencia
-
-privada, por la inscripción o
-
-modificación de la escritura
-
-constitutiva, así como por la
-
-extinción de la fundación,
-
-se causará una cuota de 5.00
-
-XX.- Por las constancias y
-
-ratificaciones de documentos
-
-privados a que se refiere el
-
-Reglamento del Registro
-
-Público, se causará 2.00
-
-XXI.- Por el depósito de un testamento ológrafo:
-
-a).- Si el depósito se hace
-
-en la Oficina del Registro
-
-Público, se causará 3.00
-
-b).- Si el depósito se hace
-
-fuera de la Oficina del
-
-Registro Público,
-
-se causará 6.00
-
-XXII.- Por informes relativos,
-
-al otorgamiento de
-
-testamentos ológrafos,
-
-incluyendo la búsqueda,
-
-se causará 2.00
-
-XXIII.- Por la expedición
-
-de copia certificada de
-
-cualquier documento que
-
-se encuentre inscrito,
-
-se pagará por hoja 0.25
-
-XXIV.- Por la expedición de certificados de:
-
-a).- No propiedad 2.00
-
-b).- Libertad de
-
-gravamen 4.00
-
-c).- Historia registral de
-
-los últimos 20 años 10.00
-
-XXV.- Por las informaciones
-
-ad-perpetuam se causarán 10.00
-
-XXVI.- Por la inscripción de
-
-rescisión de contrato,
-
-cualquiera que sea su
-
-naturaleza, se causar 3.00
-
-XXVII.- Por la inscripción
-
-de la Constitución del
-
-Régimen de Propiedad en
-
-Condominio causará 10.00
-
-a).- Por la inscripción de
-
-las actas de asamblea de
-
-condóminos y modificación
-
-del régimen de propiedad
-
-en condominio 5.00
-
-XXVIII.- Por el registro de
-
-la constitución del
-
-patrimonio familiar,
-
-se causará 10.00
-
-XXIX.- Por la inscripción
-
-o modificación a las
-
-capitulaciones
-
-matrimoniales, y
-
-liquidación de la sociedad
-
-conyugal, se causará 10.00
-
-XXX.- Por la inscripción de contratos de fideicomiso, se causará:
-
-a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II.
-
-b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
-
-c).- Por la sustitución de
-
-fiduciario o
-
-fideicomisario 3.00
-
-d).- Por la reversión de
-
-cada uno de los bienes 2.00
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 13 DE ABRIL DE 1987)</small>
-
-ART. 314.- Para el cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-I.- Cuando se trate de tasas aplicables sobre el valor, se tendrá por valor en sus respectivos casos:
-
-a).- En los casos de arrendamiento de inmuebles por más de seis años o con anticipo de rentas por más de tres, el importe total de las rentas estipuladas que deban causarse por el término del contrato, o el monto de las rentas anticipadas;
-
-b).- Cuando se trate de actos, contratos o resoluciones por los que se transmitan el dominio o la posesión de inmuebles o derechos reales se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el de avalúo comercial y el de valor catastral;
-
-c).- En los contratos de garantía, en los embarqos y otros gravámenes, el valor de las obligaciones garantizadas, y en su defecto el valor determinado conforme al inciso anterior;
-
-d).- La consideración hecha en el inciso a) de la fracción II de Artículo anterior, se entenderá en favor de quienes vayan a habitar el inmueble;
-
-II.- En las emisiones de cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito por las condiciones, cuotas, derechos otros conceptos cuyo importe no pueda determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca, independientemente de la que se constituya a favor de los tenedores de las cédulas, la cuota correspondiente por la cantidad determinada;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-III.- Cuando en un mismo instrumento conste la transmisión de dos o más bienes o derechos reales, se pagará sobre el valor de cada uno de ellos; si la transmisión se realiza por una suma alzada y los interesados no determinan el valor que corresponda a cada uno de dichos bienes, se tomará como base el que resulte mayor de entre el valor catastral y el valor comercial de los mismos, sin que el cobro exceda del límite establecido, aún cuando la suma de los derechos correspondientes por la inscripción de cada uno de los inmuebles resultase mayor;
-
-IV.- Para la aplicación de las tasas de la fracción II del artículo anterior, en su caso, la nuda propiedad se valuará en 75% del precio del inmueble y el usufructo en el 25% del mismo;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-V.- En los casos en que los servicios que preste el Registro Público de la Propiedad, no se encuentren expresamente previstos en las tarifas del artículo anterior, se pagará una cuota de 3 días de salario mínimo general diario vigente en el Estado;
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
-
-VI.- Cuando se trate de contratos, demandas o resoluciones que se refieran a prestaciones periódicas, el valor se determinará en la suma de éstos, si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte haciendo el cómputo por un año;
-
-VII.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-VIII.- Los créditos con garantía hipotecaria, que deban inscribirse en distintos municipios, en virtud de la ubicación de los bienes, los derechos correspondientes, se causarán tomándose como base la porción del crédito por la que responda cada una de las garantías, si se determina; en caso contrario el pago se efectuará en porcentajes iguales en cada municipio que se registre.
-
-Cuando una resolución de embargo de bienes o un Contrato de Fideicomiso deba inscribirse en distintos municipios en virtud de la ubicación de los mismos, el monto total de los derechos causados se dividirá entre el número de municipios en que corresponda inscribir, pagándose en cada uno de ellos la proporción que resulte.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 314 Bis.- No causarán los derechos a que se refiere este Capítulo:
-
-a).- Cuando se trate de inscripción relativa a bienes inmuebles del dominio público o derechos reales pertenecientes a la Federación, al Estado de Sinaloa y sus Municipios;
-
-b).- Por los informes o certificaciones que soliciten el Gobierno Federal, las autoridades del Estado de Sinaloa o de sus Municipios;
-
-c).- Por los informes que soliciten las autoridades administrativas y judiciales para asuntos penales o juicios de amparo;
-
-d).- En los casos de inscripciones preventivas a que se refiere el Artículo 2899 del Código Civil;
-
-e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos reales, si la misma se efectúa en una nueva oficina del registro público;
-
-f).- Por la búsqueda y expedición de certificados de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación, cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
-
-ART. 315.- Los servicios que se presten en el Registro Público de Comercio, causarán derechos fiscales de acuerdo con la siguiente:
-
-> <small>(REFORMADA LA TARIFA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-T A R I F A:
-
-CONCEPTO CUOTA DE SALARIO
-
-MINIMO GENERAL
-
-VIGENTE EN EL ESTADO
-
-I.- Por la inscripción de
-
-contratos de
-
-arrendamiento financiero
-
-en cualquiera de sus
-
-modalidades,
-
-se causará 50.00
-
-II.- Por la inscripción de actas constitutivas de sociedades cooperativas causará una cuota de 2 días de salario mínimo general diario vigente en el Estado si no hay capital, si lo hubiere, se aplicará la tasa del 0.25%, sin que el monto de los derechos exceda de 350 días de salario mínimo general diario vigente en el Estado.
-
-III.- Por la inscripción de contratos de factoraje, si son prendarios, se aplicará la tasa de 0.40% sobre el monto de la operación, sin que el cobro de los derechos deba exceder de 750 días de salario mínimo general diario vigente en el Estado y si son hipotecarios, se cubrirá una cuota del 0.25% sobre el monto de la misma, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
-
-IV.- Por la inscripción de la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del artículo 313, sobre la base del capital declarado.
-
-V.- Tratándose de sociedades mercantiles, los derechos correspondientes se causarán en los términos siguientes:
-
-a).- Por la inscripción de la escritura constitutiva o de los aumentos de capital, se causará la misma cuota que establece la fracción II del artículo 313, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo general diario vigente en el Estado. Las sociedades de capital variable, pagarán sobre el capital inicial fijo. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas; si hay aportación de bienes inmuebles, se pagará con arreglo a la fracción II del Artículo 313.
-
-b).- En la fusión o escisión
-
-de sociedades por cada
-
-una que resulte,
-
-se causará: 10.00
-
-c).- Por la inscripción de
-
-cualquier modificación a la
-
-escritura constitutiva,
-
-exceptuando el aumento de
-
-capital social,
-
-se causará 2.00
-
-d).- Por la inscripción de la disolución de sociedades, si no hay bienes que se adjudiquen se causará una cuota equivalente a 2 días de salario mínimo general diario vigente en el Estado. Si hay bienes que se adjudiquen a terceros se pagará con arreglo a la fracción II del artículo 313, sobre la base del valor de los bienes adjudicados.
-
-e).- Por la inscripción de
-
-actas de asamblea de
-
-accionistas, se causará
-
-una cuota de 2.00
-
-f).- Por el depósito del
-
-programa a que se refiere
-
-el artículo 92 de la
-
-Ley General de Sociedades
-
-Mercantiles,
-
-se causará 1.00
-
-VI.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas, se causarán los respectivos derechos con arreglo a la fracción II del Artículo 313.
-
-VII.- Por la inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío, se causarán los respectivos derechos de acuerdo con lo dispuesto en el primer párrafo de la fracción XIV del artículo 313.
-
-VIII.- Tratándose de poderes, se causará:
-
-a).- Por la inscripción y
-
-sustitución 2.00
-
-b).- Por la inscripción de
-
-revocación 1.00
-
-IX.- La habilitación de edad,
-
-licencia y emancipación
-
-para ejercer el comercio,
-
-las revocaciones de unos y
-
-otros y las escrituras a
-
-que se refieren las
-
-fracciones X y XI del
-
-artículo 21 del Código de
-
-comercio causarán 2.00
-
-X.- Por la inscripción de las
-
-resoluciones judiciales en
-
-las que se declare
-
-suspensión de pagos,
-
-quiebra o se admita
-
-liquidación judicial,
-
-se causará 2.00
-
-XI.- Las anotaciones
-
-referentes a
-
-inscripciones principales,
-
-se causará 1.00
-
-XII.- Por la expedición de
-
-copia certificada de
-
-cualquier documento que
-
-se encuentre inscrito,
-
-se pagará
-
-independientemente de la
-
-búsqueda, por cada hoja 0.25
-
-XIII.- Por la expedición de
-
-certificados de inscripción,
-
-se causará 2.00
-
-XIV.- Por el depósito de
-
-guarda de documentos,
-
-se causará 1.00
-
-XV.- Por las ratificaciones
-
-de documentos y firmas
-
-ante el Registrador,
-
-se causará 2.00
-
-XVI.- Por la inscripción de contratos de fideicomiso, se causará:
-
-a).- En los que el fideicomitente no tenga derecho a readquirir los bienes se pagará con arreglo a la fracción II.
-
-b).- Por los de garantía y administración en los que el fideicomitente tenga derecho a la reversión, el 0.25% sobre el monto de la obligación garantizada, sin que el cobro de los derechos deba exceder de 250 días de salario mínimo general diario vigente en el Estado.
-
-c).- Por la sustitución de
-
-fiduciario o fideicomisario 3.00
-
-d).- Por la reversión de
-
-cada uno de los bienes 2.00
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
-
-ART. 316.- Para el cobro de los derechos que establece la tarifa del Artículo anterior, se observarán las siguientes reglas:
-
-> <small>(REFORMADA, P.O. 13 DE ABRIL DE 1987)</small>
-
-I.- Cuando un mismo documento origine dos o más inscripciones, lo (sic) derechos se causarán por cada inscripción;
-
-II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 1988)</small>
-
-III.- Los contratos que contengan prestaciones periódicas se valuarán en las sumas de éstas si se puede determinar exactamente su cuantía; en caso contrario se tomará como base la cantidad que resulte, haciendo el cómputo por un año;
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-IV.- En los casos en que los servicios que preste el Registro Público de Comercio, no se encuentren expresamente previstos en la tarifa del Artículo anterior, se causará una cuota de 3 días de salario mínimo general diario vigente en el Estado.
-
-ART. 317.- Las rectificaciones de inscripciones cuando el error sea imputable a los interesados y no al registrador causarán la mitad de los derechos asignados a las inscripciones.
-
-ART. 318.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
-
-ART. 319.- En toda constancia que salga de la Oficina del Registro se anotará al margen los derechos y gastos que haya originado, citándose la fracción correspondiente de la tarifa aplicada y del número y fecha del recibo expedido por la Oficina Recaudadora respectiva, debiendo hacerse también estas anotaciones al margen de la inscripción o documento que se conserve en la Oficina del Registro.
-
-ART. 320.- No se causarán derechos de registro por la certificación que se ponga al título o documento al ser presentado para su registro, ni por la certificación que se le ponga de haber quedado inscrito.
-
-ART. 321.- (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 322.- Los Oficiales Registradores, al solicitarseles un servicio de su competencia, formularán por triplicado una liquidación de los derechos causados, en las formas establecidas para tal efecto cuyo original y duplicado entregarán al contribuyente para que efectúe el pago en la Oficina Recaudadora o Institución autorizada correspondiente. Efectuado el pago, el interesado exhibirá al Oficial Registrador el recibo oficial para que tome nota en el triplicado de la liquidación que conservará en su poder. Sin estos requisitos no se hará la inscripción o servicio solicitado.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que le será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 1996)</small>
-
-### CAPITULO XI
-
-Derechos por el Otorgamiento de Licencias, Permisos o Autorizaciones para el Funcionamiento de Establecimientos y Locales para la Venta y Consumo de Bebidas Alcohólicas.
-
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 324.- Es objeto de este derecho el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 324 Bis.- Son objeto de este derecho las personas físicas y morales que soliciten y obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los términos del Artículo anterior.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 324 Bis- A.- La base de este derecho es el tipo de licencia, permiso o autorización, que se otorgue en la materia ya sea en número de días u horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias en los términos del Reglamento de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces de salario mínimo general diario vigente en el Estado, en los siguientes términos:
-
-I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán los derechos conforme a la siguiente:
-
-T A R I F A:
-
-GIROS CATEGORIA
-
-A B C
-
-Licorería 590 590 590
-
-Supermercado 1471 1176 882
-
-Almacén 1911 1471 1323
-
-Cantina 882 882 882
-
-Cervecería 705 705 705
-
-Bar 1176 1176 1176
-
-Cabaret 1176 1176 1176
-
-Centro Nocturno 1176 1176 1176
-
-Restaurant c/vta.
-
-de cerveza 882 882 882
-
-Restaurant c/vta.
-
-de cerveza y vino 882 882 882
-
-Restaurant c/vta.
-
-de cerveza, vinos
-
-y licores 882 882 882
-
-Restaurant con
-
-bar anexo 1176 1176 1176
-
-Club Social 735 735 735
-
-Salón de baile o
-
-de fiesta 882 882 882
-
-II.- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-GIROS CATEGORIA
-
-A B C
-
-Licorería 70 70 70
-
-Supermercado 147 136 126
-
-Almacén 236 203 171
-
-Cantina 153 126 115
-
-Cervecería 103 85 85
-
-Bar 153 126 126
-
-Cabaret 126 103 103
-
-Centro Nocturno 203 171 153
-
-Restaurant c/vta.
-
-de cerveza 106 85 85
-
-Restaurant c/vta.
-
-de cerveza y vinos 106 85 85
-
-Restaurant c/vta.
-
-de cerveza, vinos y
-
-licores 147 132 119
-
-Restaurant con
-
-bar anexo 163 163 163
-
-Club Social 126 103 103
-
-Salón de baile o
-
-de fiesta 126 103 103
-
-III.- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-GIROS CATEGORIA
-
-A B C
-
-Licorería 0.15 0.15 0.15
-
-Cantina 0.17 0.17 0.17
-
-Cervecería 0.15 0.15 0.15
-
-Restaurant c/vta.
-
-de cerveza 0.36 0.36 0.36
-
-Restaurant c/vta.
-
-de cerveza y
-
-vinos 0.39 0.39 0.39
-
-Restaurant c/vta.
-
-de cerveza,
-
-vinos y licores 0.42 0.42 0.42
-
-Restaurant con
-
-bar anexo 0.74 0.74 0.74
-
-Bar 0.74 0.74 0.74
-
-Supermercado 0.39 0.20 0.17
-
-Cabaret 0.49 0.43 0.43
-
-Centro Nocturno 0.81 0.75 0.70
-
-Club Social 0.49 0.40 0.40
-
-Sala de fiesta 0.40 0.35 0.30
-
-IV.- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
-
-T A R I F A:
-
-GIROS CATEGORIA
-
-A B C
-
-Para muestras o
-
-degustaciones 5 4 3
-
-Eventos deportivos, recreativos
-
-y artísticos 200 100 50
-
-Eventos Sociales 50 25 10
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 325.- La revalidación anual de los permisos, licencias y registros de los establecimientos a que se refiere la Ley de la materia, deberá efectuarse durante los meses de enero a marzo de cada año.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 326.- Para la aplicación de las multas por violaciones a la Ley de la materia, se atenderá a las disposiciones contenidas en dicha Ley.
-
-ART. 326 Bis.- (DEROGADO, P.O. 12 DE AGOSTO DE 1996)
-
-### CAPITULO XII. Servicio Sanitario
-
-ART. 327.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 328.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 329.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 330.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 331.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 332.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 333.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-ART. 334.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE MAYO DE 1989)</small>
-
-### CAPITULO XIII. Autopista Estatal "Benito Juárez"
-
-> <small>(REFORMADO, P.O. 8 DE MAYO DE 1989)</small>
-
-ART. 334 Bis.- Las cuotas, derechos y refrendos, así como sus correspondientes exenciones, relativos al uso o aprovechamiento de la autopista estatal "BENITO JUÁREZ", se sujetarán a lo dispuesto en este capítulo.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 1989)</small>
-
-ART. 334 Bis A.- El uso de la autopista estatal "BENITO JUÁREZ", mediante el tráfico de vehículos en el tramo comprendido entre el poblado Las Brisas y el entronque con la carretera a Eldorado o viceversa, estará sujeto a la siguiente:
-
-> <small>(REFORMADA LA TARIFA, P.O. 07 DE ABRIL DE 1989)</small>
-
-T A R I F A
-
-CLASE DE VEHICULO VECES EL SALARIO
-
-MINIMO GENERAL
-
-DIARIO VIGENTE
-
-EN SINALOA
-
-Tramo Completo Tramo Intermedio
-
-I.- Motocicletas
-
-(con placas con
-
-Procedencia Extranjera) 0.50 0.25
-
-II.- Automóviles y Camionetas
-
-tipo pick-up y panel, de hasta
-
-10 pasajeros:
-
-a) Sin remolque 1.30 0.65
-
-b) Con remolque 1.50 0.75
-
-III.- Autobuses de
-
-pasajeros 1.70 0.85
-
-IV.- Camiones de carga
-
-de 2 ejes 1.70 0.85
-
-V.- Camiones de carga o
-
-Tractores con semiremolque
-
-de 3 ejes 2.20 1.10
-
-VI.- Camiones de carga o
-
-tractores con remolque de
-
-4 ejes 2.70 1.35
-
-VII.- Camiones de carga o
-
-tractores con remolque
-
-de 5 ejes 3.20 1.60
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
-
-Tratándose de camiones de carga o tractores con remolque, de más de 5 ejes, las cuotas a que se refiere la fracción VII se incrementarán por cada eje excedente, en un 50 por ciento del salario mínimo general diario vigente en el Estado.
-
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 1989)</small>
-
-Cuando de la aplicación de la Tarifa anterior se determine una cuota en fracciones de cien pesos, se ajustará la cuota a la centena inmediata siguiente si se trata de fracciones superiores a cincuenta pesos, y cuando la fracción sea de cincuenta pesos o inferior el ajuste se hará a la centena inmediata anterior.
-
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
-
-ART. 334 Bis B.- Estarán excentos (sic) del pago de cuotas los vehículos militares, policiales y de auxilio turístico, así como ambulancias y bomberos, siempre que por sus características o emblemas se identifiquen como tales.
-
-Tampoco pagarán estas cuotas los vehículos en que transite el Presidente y Senadores de la República, Gobernador del Estado, Diputados Federales, Diputados Locales y Presidentes Municipales del Estado de Sinaloa.
-
-ART. 334 Bis C.- (DEROGADO, P.O. 12 DE OCTUBRE DE 1990)
-
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 1987)</small>
-
-ART. 334 Bis D.- Los ingresos que se recauden por concepto de las cuotas y los derechos que se establecen en este Capítulo, se destinarán al organismos que tenga a su cargo la administración de la referida carretera, para cubrir los gastos de operación, conservación y mantenimiento de la misma, hasta por el monto que señale el presupuesto de egresos que se hubiere autorizado para tal efecto.
-
-La parte de los ingresos que exceda el límite señalado en el párrafo anterior, no tendrá fin específico.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-### CAPITULO XIV. Fiscalizacion en Obra Pública Directa
-
-> <small>(REFORMADO PRIMER PARRAFO, O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 334 Bis E.- Por el servicio de fiscalización y control que las leyes de la materia encomiendan a la Contraloría General del Poder Ejecutivo y demás autoridades competentes del Estado, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un Derecho equivalente al 3% sobre el importe de cada una de las estimaciones de trabajos.
-
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
-
-La oficina pagadora de la dependencia correspondiente del Gobierno del Estado, al hacer el pago de las estimaciones de obra, retendrá el importe del derecho a que se refiere el párrafo anterior.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-### CAPITULO XV. Derechos Ecológicos por Impacto Ambiental, Prevención y Control de la Contaminación
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER.- Para los efectos del cobro de los derechos a que se refiere este Capítulo se entenderán sujetos de los mismos quienes realicen actividades que se encuentren reguladas en la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Sinaloa y su reglamento.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-A.- Por la recepción, evaluación y dictamen de estudios de manifestación de impacto ambiental, se pagará alguno de los derechos que a continuación se señalan, según corresponda:
-
-I.- Informe preventivo. 40.00 días de salario mínimo general vigente en el Estado.
-
-II.- Manifestación de impacto ambiental modalidad general. 80.00 días de salario mínimo general vigente en el Estado.
-
-III.- Manifestación de impacto ambiental modalidad intermedia. 120.00 días de salario mínimo general vigente en el Estado.
-
-IV.- Manifestación de impacto ambiental modalidad específica. 160.00 días de salario mínimo general vigente en el Estado.
-
-El proponente de la obra o proyecto, pagará los derechos por publicación de los avisos de presentación, de manifestación de impacto ambiental, en el Periódico Oficial "El Estado de Sinaloa".
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-B.- Por la inscripción en el Registro Estatal de prestadores de servicios que realizan estudio de impacto ambiental, se pagará el derecho de impacto ambiental por cada campo de especialidad o refrendo anual correspondiente 70 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-C.- Por la recepción evaluación y dictamen de estudios de riesgos ambiental, se pagarán los derechos que a continuación se señalan:
-
-I.- Informe preliminar de riesgo. 40.00 días de salario mínimo general vigente en el Estado.
-
-II.- Estudios de riesgo de modalidad análisis de riesgo. 80.00 días de salario mínimo general vigente en el Estado.
-
-III.- Por verificación del cumplimiento de las medidas de prevención y mitigación se pagará. 35.00 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-D.- Por el funcionamiento de las fuentes fijas de jurisdicción estatal que emitan olores desagradables o dañinos, gases o partículas sólidas o líquidas a la atmósfera, se pagará anualmente el derecho de prevención y control de la contaminación, conforme a las siguientes cuotas:
-
-I.- Por la recepción, evaluación y resolución de funcionamiento. 80.00 días de salario mínimo general vigente en el Estado.
-
-II.- Por la verificación de cumplimiento de las condiciones derivadas de la resolución. 35.00 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-E.- Por el otorgamiento del dictamen técnico para la obtención de estímulos fiscales o créditos de organismos financieros, en las actividades relacionadas con la preservación y restauración del equilibrio ecológico y la protección al ambiente, se pagará el derecho de prevención y control de la contaminación por cada dictamen técnico 35 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-F.- Por la evaluación para instalar y operar sistemas de recolección, almacenaje, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final de residuos no peligrosos, así como para prestar servicios en dichas operaciones, se pagará por cada evaluación el derecho de prevención y control de la contaminación 160 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-G.- Por la verificación del funcionamiento de las empresas y particulares cuya actividad por su propia naturaleza, modifique o altere las condiciones naturales de las riberas de los ríos, contribuyendo con ello al desequilibrio o alteración ecológica 70 días de salario mínimo general vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 334 TER-H.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
 
@@ -4311,31 +2703,9 @@ ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos 
 
 ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO CUARTO. DE LOS PRODUCTOS
+## TITULO CUARTO. DE LOS APROVECHAMIENTOS
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 335 Bis.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
-
-En estos casos se cobrará una cuota anual de 0.5 a 2 Salarios Mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
-
-ART. 336.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 337.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que ésta a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
-
-ART. 338.- Ingresarán también como productos los obtenidos de la venta de formas impresas y ediciones oficiales hechas por el Gobierno del Estado, procediéndose respecto a ellos como corresponda, de acuerdo con lo dispuesto en los artículos anteriores.
-
-ART. 339.- Ingresarán también por este concepto las recuperaciones de créditos otorgados por el Gobierno del Estado, así como los intereses devengados por los mismos siendo aplicable al respecto lo dispuesto para los contratos celebrados con bienes el Estado.
-
-ART. 340.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
 
@@ -4371,69 +2741,9 @@ III.- A llevar registro de entradas, salidas y existencias de productos a proces
 
 ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
+## TITULO QUINTO. DE LAS PARTICIPACIONES
 
-### CAPITULO UNICO
-
-ART. 341.- Los recargos por la falta de pago oportuno de créditos fiscales y la indemnización moratoria aplicable en los casos de la prórroga otorgada para el pago de esos créditos, se causarán de acuerdo con las disposiciones de esta Ley e ingresarán como aprovechamientos del Erario.
-
-ART. 342.- Las multas impuestas por infracciones a la Legislación Fiscal se harán efectivas por la Autoridad que las impuso y el ingreso se acreditará en la cuenta de multas fiscales.
-
-ART. 343.- Las multas que impongan las autoridades judiciales y administrativas del Estado serán cobradas por la Oficina Recaudadora con jurisdicción en el lugar de residencia de la autoridad que la haya impuesto. Al efecto dicha autoridad comunicará, por oficio, a la Oficina Recaudadora correspondiente la imposición de la multa dentro de los tres días siguientes para que la haga efectiva. En el caso de que la autoridad que impuso la multa o su superior jerárquico o cualquiera otra autoridad competente ordene la suspensión del procedimiento de cobro, la garantía del interés fiscal se otorgará ante la citada Oficina Recaudadora.
-
-ART. 344.- Son rezagos los ingresos por concepto de toda clase de créditos fiscales que se obtengan en un ejercicio posterior a aquél en que debieran haber sido pagados.
-
-ART. 345.- La denominación "Rezagos" no implica cambio de la naturaleza del crédito respectivo. En consecuencia, en la cuenta de rezagos se abrirán las subcuentas necesarias para acreditar el ingreso al concepto especifico del crédito fiscal pagado.
-
-ART. 346.- Las herencias, legados o donaciones que se hagan en favor del Estado, ingresarán al Erario. Cuando los bienes objeto de la herencia, legado o donación no consistan en dinero, serán inventariados como bienes patrimoniales del Estado, para darles el uso o aprovechamiento que acuerde el Ejecutivo.
-
-ART. 347.- Cuando la herencia, el legado o la donación sea hecha para la realización de determinadas obras del Estado, se les dará esa aplicación así como, cuando la beneficiaria sea alguna institución que dependa del Gobierno del Estado.
-
-ART. 348.- A falta de herederos testamentarios o legítimos, los bienes sucesorios serán aplicados a la beneficencia (sic) Pública del Estado, de acuerdo con lo que dispone el Artículo 1486 del Código Civil.
-
-ART. 349.- Se concede acción popular para denunciar las herencias vacantes a que se refiere el artículo anterior.
-
-ART. 350.- La denuncia se presentará ante la Oficina Recaudadora en cuya jurisdicción se encuentren los principales bienes sucesorios o ante el Agente del Ministerio Público o del Juez competente, a elección del denunciante; pero, en los dos últimos supuestos, deberá presentarse una copia del escrito de denuncia a la Oficina Recaudadora correspondiente.
-
-ART. 351.- Los agentes del Ministerio Público tendrán la representación de la Beneficencia Pública en la tramitación del juicio. Para el efecto, la Oficina Recaudadora, cuando ante ella se hubiere presentado la denuncia, la transcribirá por oficio al citado funcionario. Si la denuncia se presentó directamente al Juez competente, éste correrá traslado al Agente del Ministerio Público.
-
-ART. 352.- El Juez de Primera Instancia que conozca del Juicio, inmediatamente que dicte el acto de radicación, decretará las providencias necesarias para asegurar los bienes del interesado y, a propuesta del Agente del Ministerio Público, nombrará un interventor de los mismos, que tendrá las obligaciones y facultades que a los de su clase señala la Ley.
-
-ART. 353.- En caso de que después de radicado el juicio intestamentario se presente alguna persona reclamando la herencia y le sean reconocidos sus derechos hereditarios, será a cargo de ella el importe de los honorarios y gastos del interventor y demás gastos comprobados que haya originado la tramitación anterior a ese reconocimiento.
-
-ART. 354.- Hecha la declaración de herederos en favor de la Beneficencia Pública el Juez del conocimiento lo comunicará por oficio a la Oficina Recaudadora respectiva, para que ésta de cuenta a la Secretaría de Finanzas del Estado, sin perjuicio de que se continúe el procedimiento hasta la aprobación de la cuenta de división y participación de los bienes.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 355.- La Secretaría de Hacienda Pública y Tesorería queda facultada para acordar que se vendan en subasta pública o fuera de almoneda, los bienes que por este concepto se adjudiquen a la beneficencia pública del Estado o bien acordar que se destinen a alguno de los fines de la Beneficencia.
-
-ART. 356.- Mientras tanto que los diversos servicios de la Beneficencia sean sostenidas con cargo al Presupuesto de Egresos del Estado, ingresarán al Erario Estatal los productos que se obtengan de la venta o explotación de los bienes de las herencias vacantes, pudiendo también destinarse esos bienes, a juicio del Ejecutivo, a los servicios públicos del Estado.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 357.- Los denunciantes de herencias vacantes siempre que hayan satisfecho los requisitos que establezca la Secretaría de Hacienda Pública y Tesorería, tendrán derecho a una participación del veinticinco por ciento que se fijará tomando como base la tercera parte del valor catastral de los bienes inmuebles o del valor comercial de los bienes muebles.
-
-ART. 358.- No tendrán derecho a participación como denunciantes los empleados públicos del Estado, Federales o Municipales que, en el ejercicio de sus funciones oficiales tengan conocimiento de la existencia de esta clase de herencias.
-
-ART. 359.- Ingresará al Erario del Estado por concepto de los bienes mostrencos, de los vacantes y tesoros:
-
-I.- La porción que corresponda al mismo, del producto de la venta de bienes mostrencos y los vacantes;
-
-II.- La porción de los tesoros ocultos que corresponda al Estado en el caso previsto por el Artículo 875 del Código Civil.
-
-ART.360.- Las Oficinas Fiscales comprobarán los ingresos que se obtengan por los conceptos especificados en el artículo anterior, con los documentos y órdenes concernientes.
-
-ART. 361.- La (sic) cauciones de excarcelación constituidas a favor del Estado serán aplicables, a favor del Erario, en los casos siguientes:
-
-I.- Cuando el inculpado desobedezca sin causa justificada la orden de presentarse al Juez o Tribunal que conozca el proceso;
-
-II.- En los demás casos previstos en los Artículos 398 y 401 del Código de Procedimientos Penales.
-
-ART. 362.- Los Jefes de las Oficinas Recaudadoras, previo aviso del Juez o Tribunal respectivo, aplicarán los depósitos que se hubieran constituido como caución.
-
-ART. 363.- Cuando la caución se haya otorgado en forma de fianza o en cualquiera otra diferente del depósito, se seguirán los procedimientos legales correspondientes para hacerla efectivo.
-
-ART. 364.- La devolución de los depósitos por cauciones, se harán en los casos previstos en el Artículo 399 del Código de Procedimientos Penales, dentro de los 60 días siguientes a la fecha en que se reciba la orden de devolución del Juez o Tribunal competente.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO XIX. Impuesto a la Industria Harinera
 
@@ -4473,375 +2783,9 @@ ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la 
 
 ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
-## TITULO SEXTO. DE LAS PARTICIPACIONES
+## TITULO SEXTO. TASAS ADICIONALES
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
-
-ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
-
-De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
-
-I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
-
-II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
-
-III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
-
-> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
-
-ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
-
-## TITULO SEPTIMO. TASAS ADICIONALES
-
-### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
-
-> <small>(REFORMADO PRIMER PARRAFO, P. O. 1 DE ENERO DE 1982)</small>
-
-ART. 367.- Sobre el monto de los impuestos y derechos que a continuación se indican, se causará una tasa adicional del 10%, cuyo producto se destinará a apoyar la educación superior en el Estado.
-
-I.- Impuestos:
-
-a).- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-b).- Sobre Producto de Capitales;
-
-c).- Sobre Producción de Alcohol;
-
-d).- Sobre Producción de Azúcar y Mascabado;
-
-e).- Sobre Producción de Mieles Incristalizables;
-
-f).- Sobre Producción Agrícola;
-
-> <small>(REFORMADO, P. O. 31 DE ENERO DE 1983)</small>
-
-g).- Sobre adquisición de vehículos de motor usados;
-
-h).- Sobre Profesiones y Oficios;
-
-i).- Sobre Adquisición de Alcohol;
-
-j).- Sobre Enajenación de Alcohol;
-
-k).- Sobre Elaboración y Adquisición de Bebidas Alcohólicas;
-
-l).- Sobre Almacenes y Expendios de Bebidas Alcohólicas;
-
-ll).- Sobre Juegos Permitidos;
-
-m).- A la Industria Congeladora de Mariscos;
-
-n).- A la Industria Harinera;
-
-ñ).- A la Industria Algodonera;
-
-o).- A la Industria Arrocera;
-
-p).- Sobre Producción o Sacrificio de Ganado, exclusivamente en lo que se refiere a la tarifa número 1 del Artículo 278 de esta Ley.
-
-II.- Derechos:
-
-a).- Actos del Registro Civil;
-
-b).- Legalización de Títulos Profesionales;
-
-c).- Registro de Vehículos de Motor;
-
-d).- Expedición de Pasaportes;
-
-e).- Registro Público de la Propiedad y del Comercio, con excepción de los derechos por este concepto aplicables a créditos de habilitación o avío, refaccionarios o hipotecarios, otorgados por Instituciones de Crédito;
-
-f).- Servicio Sanitario, con excepción de los derechos por este concepto aplicables a expendios, agencias y depósitos de cerveza.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
-
-ART. 368.- En el rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo se destinará un 0.070922 a la educación superior.
-
-> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
-
-ART. 369.- La tasa adicional del 10% y demás porcentajes que se señalan en los dos artículos precedentes, también se aplicarán a los "Rezagos" derivados de Impuestos y Derechos que los originen.
-
-> <small>(REFORMADO, P. O. 1 DE ENERO DE 1982)</small>
-
-ART. 370.- El gravamen a que se refiere este Capítulo se pagará al cubrirse el Impuesto o Derecho que lo motiva, y su producto será entregado (quincenalmente) a las instituciones educativas de educación superior.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos i), j), k), l), y II) de la fracción I del Artículo 367, de este Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
-
-### CAPITULO II. Adicional Municipal
-
-ART. 371.- Sobre el monto de los impuestos que a continuación se indican, se causará una tasa adicional del 20%, destinada a la Hacienda Pública Municipal:
-
-I).- Impuesto sobre Producto de Capitales;
-
-II.- Impuesto sobre Producción de Alcohol;
-
-III.- Impuesto sobre Producción de Azúcar y Mascabado;
-
-IV.- Impuesto sobre Miles Incristalizables;
-
-V.- Impuesto sobre Producción Agrícola;
-
-> <small>(REFORMADA, P. O. 31 DE ENERO DE 1983)</small>
-
-VI.- Impuesto sobre adquisición de vehículos de motor usados.
-
-VII.- Impuesto sobre Profesiones y Oficios;
-
-VIII.- Impuesto sobre Adquisición de Alcohol;
-
-IX.- Impuesto sobre Enajenación de Alcohol;
-
-X.- Impuesto sobre Elaboración y Adquisición de Bebidas Alcohólicas;
-
-XI.- Impuesto sobre Almacenes y Expendios de Bebidas Alcohólicas;
-
-XII.- Impuesto sobre Juegos Permitidos;
-
-XIII.- Impuesto sobre Producción o Sacrificio de Ganado, exclusivamente en lo que se refiere a la Tarifa número 1 del Artículo 278 de ésta Ley.
-
-ART. 372.- (DEROGADO, P.O. 6 DE FEBRERO DE 1984)
-
-ART. 373.- Del rendimiento del Impuesto sobre Primera Venta de Gasolina, Grasas, Lubricantes y demás derivados del Petróleo, los Municipios del Estado participarán en proporción de 0.283688% del ingreso que se recaude por concepto de dicho impuesto. El Ejecutivo del Estado, con arreglo a datos objetivos fijarán un índice de consumo de gasolina, grasas, lubricantes y demás derivados del petróleo, en cada municipio.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 374.- Las participaciones que correspondan a los Municipios del Estado en el rendimiento de impuestos federales, se cubrirán en los términos de la Ley de Coordinación Fiscal y del Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal respectivo, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público.
-
-ART. 375.- Del ingreso que se recaude en cada jurisdicción municipal por concepto de los derechos por el Registro de Fierros, Marcas, Tatuales (sic), Aretes, y señales de los Ganaderos, a que se refiere la Fracción I de la Tarifa del Artículo 309 de ésta Ley, los municipios del Estado participarán en un 50% de las cuotas establecidas exclusivamente en dicha fracción.
-
-ART. 376.- Cuando más de un municipio suministre la caña para la producción de Azúcar, Alcohol y Mieles Incristalizables, el gravamen adicional municipal del 20% causado sobre los impuestos respectivos se distribuirá como sigue:
-
-I.- El 25% corresponderá al municipio en cuyo territorio esté ubicado el Ingenio o establecimiento industrial.
-
-II.- El 75% restante se distribuirá entre los municipios productores de la caña utilizada como materia prima para la elaboración del azúcar, alcohol y mieles incristalizables, incluyendo al municipio a que se refiere la Fracción I anterior, en proporción a sus respectivas aportaciones de caña.
-
-ART. 377.- Cuando un impuesto del Estado sea condonado totalmente y en forma general respecto de los habitantes de una zona que haya sufrido alguna calamidad pública, la condonación comprenderá el respectivo gravámen adicional municipal y si la condonación es parcial, el gravamen adicional municipal se causará únicamente sobre la porción no condonada. En ningún otro caso la condonación de un impuesto del Estado implicará la del gravamen adicional municipal.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 378.- La recaudación del gravamen adicional municipal y demás participaciones municipales en impuestos estatales, estará a cargo de las Oficinas Recaudadoras de Rentas del Estado y será entregada a las respectivas Tesorerías Municipales, con comprobación correspondiente, mediante liquidación mensual formulada por la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 378 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en los conducente, las disposiciones fiscales contenidas en las fracciones VIII, IX, X, XI y XII del Artículo 371, así como en el Artículo 373, de este Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 378 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en las Fracciones II, III, IV, V, y XIII, del Artículo 371, de la Fracción II del Artículo 372, así como el Artículo 376, de este Capítulo.
-
-### CAPITULO III. 21 y 22% Adicionales
-
-ART. 379.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 21%, que se causará sobre el monto de los impuestos sobre Productos de Capitales, sobre Producción de Alcohol y sobre Producción de Azúcar y Mascabado.
-
-ART. 380.- En substitución de los varios impuestos adicionales que se venían cobrando, se establece uno equivalente a su suma, en proporción del 22%, que se causará sobre el monto del Impuesto sobre Producción Agrícola.
-
-ART. 381.- Sobre los impuestos adicionales a que se refiere este Capítulo no se causará gravamen adicional alguno.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los Artículos 379 y 380 de este Capítulo.
-
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-## TITULO OCTAVO
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO UNICO. ART. 382.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-## TITULO NOVENO
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO UNICO. ART. 383.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 384.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 385.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 386.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 387.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 388.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 389.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 390.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-## TITULO DECIMO
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO UNICO. ART. 391.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 392.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 393.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 394.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 395.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 396.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 397.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 398.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 399.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 400.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 400 A.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 400-B.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-TITULO ONCEAVO
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO I. ART. 401.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 402.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 403.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 404.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 405.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO II. ART. 406.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 407.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 408.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 409.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO III. ART. 410.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO IV. ART. 411.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 412.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 413.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 414.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 415.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 416.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 417.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 418.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 419.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 420.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
-
-ART. 421.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 422.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 423.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO V. ART. 424.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 425.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 426.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 427.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 428.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 429.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 430.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 431.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994
-
-ART. 432.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 433.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 434.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 435.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 436.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 437.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 438.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 439.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 440.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO VI. ART. 441.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 442.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 443.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-TITULO DOCEAVO
-
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO UNICO. ART. 444.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-> <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-TITULO TRECEAVO
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-### CAPITULO UNICO. ART. 445.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 446.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 447. (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 448.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 449.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 450.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 451.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
-
-ART. 452.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO XX. Impuesto a la Industria Algodonera
 
@@ -4934,328 +2878,6 @@ ART. 270.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
 
 ART. 270 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO XXII. Impuesto sobre Ingresos por Venta de Primera Mano de Hortalizas y Fruta
-
-ART. 271.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-ART. 272.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-ART. 273.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-ART. 274.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-ART. 275.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-ART. 276.- (DEROGADO, P.O. 31 DE DICIEMBRE DE 1979)
-
-### CAPITULO XXIII. Impuesto sobre Producción o Sacrificio de Ganado
-
-ART. 277.- Es objeto de este impuesto la crianza o sacrificio de ganado en el Estado, ya sea de animales nacidos dentro o fuera del Estado.
-
-ART. 278.- El impuesto se causará conforme a las tarifas siguientes:
-
-TARIFA NUMERO 1
-
-I.- Por cada cabeza de ganado vacuno $ 40.00
-
-II.- Por cada cabeza de ganado equino o mular 21.00
-
-III.- Por cada cabeza de ganado porcino 17.00
-
-IV.- Por cada cabeza de ganado ovejuno o caprino 7.00
-
-V.- Por cada cabeza de ganado asnal 12.00
-
-Además de las cuotas anteriores los causantes de este impuesto pagarán:
-
-TARIFA NUMERO 2
-
-I.- Por cada cabeza de ganado vacuno 26.00
-
-II.- Por cada cabeza de ganado equino o mular 10.00
-
-III.- Por cada cabeza de ganado porcino 6.00
-
-IV.- Por cada cabeza de ganado ovejuno o caprino 2.25
-
-V.- Por cada cabeza de ganado asnal 5.50
-
-A las cuotas consignadas en la Tarifa No. 1 les son aplicables los impuestos adicionales del 10% para la Universidad y del 20% Adicional Municipal.
-
-A las cuotas consignadas en la Tarifa No. 2 no les será aplicable impuesto adicional alguno y su importe tendrá el destino siguiente:
-
-La cantidad de $ 14.00 por cabeza de ganado vacuno, de $ 7.00 por cabeza de ganado equino o mular, de $ 4.00 por cabeza de ganado porcino, de $ 1.50 por cabeza de ganado ovejuno o caprino y $ 3.50 por cabeza de ganado asnal, se aplicarán al fomento de la ganadería en el Estado, de conformidad con los programas de inversión que aprueben el Gobierno del Estado y las organizaciones de ganaderos.
-
-La cantidad de $ 12.00 por cabeza de ganado vacuno, de $ 3.00 por cabeza de ganado equino o mular, de $ 2.00 por cabeza de ganado porcino, de $ 0.75 por cabeza de ganado ovejuno o caprino y $ 2.00 por cabeza de ganado asnal, se destinará al sostenimiento de las organizaciones ganaderas.
-
-ART. 279.- Son causantes de este impuesto las personas físicas o morales que se dediquen permanente o eventualmente a la crianza o sacrificio de ganado.
-
-Los adquirentes de ganado son solidariamente responsables del pago del impuesto a cargo de los enejenantes (sic).
-
-ART. 280.- El pago del impuesto deberá efectuarse en la Oficina Recaudadora a que corresponda el domicilio del causante, a más tardar el día siguiente hábil de aquél en que se produzca la venta, se efectúe el sacrificio de ganado o se movilice éste, salvo que se compruebe, a juicio de la autoridad fiscal, que la movilización obedece exclusivamente a razones de pastoreo.
-
-ART. 281.- Los causantes de este impuesto, independientemente del pago del mismo en los términos del Artículo anterior, tendrán las siguientes obligaciones:
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-I.- Registrarse ante la Secretaría de Hacienda Pública y Tesorería o por conducto de la Oficina Recaudadora de su domicilio, dentro de los treinta días siguientes a la fecha de iniciación de su actividad. Este registro también podrá efectuarse por conducto de la Asociación Ganadera correspondiente a la jurisdicción del contribuyente, utilizando las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería; y,
-
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 1990)</small>
-
-II.- Presentar ante la Unión Ganadera Regional de Sinaloa una declaración anual por el período del primero de enero al treinta y uno de diciembre de cada año, dentro de los meses de enero y febrero del año inmediato siguiente al período que corresponda. Dicha declaración se utilizará para fines estadísticos la cual será archivada debidamente por la Unión, para que ésta esté en posibilidad de proporcionar cualquier información referente a los ganaderos que solicite la Secretaría de Hacienda Pública y Tesorería. Esta declaración podrá presentarse por conducto de la Asociación Ganadera Local correspondiente a la jurisdicción del causante, utilizando las formas que para el efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 282.- La Secretaría de Hacienda Pública y Tesorería podrá disponer, si lo estima conveniente, que los registros y declaraciones a que se refiere este Capítulo cuya presentación hubiesen omitido los causantes, se suplan de oficio con los datos que la Autoridad Fiscal pueda allegarse, sin perjuicio de aplicación de las sanciones que correspondan a los omisos por infracción a las Leyes Fiscales.
-
-ART. 283.- Las Autoridades Municipales no deberán permitir el sacrificio de ganado ni expedir guías para el traslado del mismo sin tener la comprobación previa del pago del impuesto a que se refiere este Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 283 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO XXIV. Impuesto sobre Primera Venta de Productos Avícolas
-
-ART. 284.- Es objeto de este impuesto la primera venta de productos avícolas en el Estado.
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 1980)</small>
-
-ART. 285.- Impuesto se causará conforme a la siguiente:
-
-T A R I F A:
-
-I.- Por caja de 360 huevos $ 3.55
-
-II.- Por ave viva o en canal $ 0.65
-
-ART. 286.- Son causantes de este impuesto las personas físicas o morales que se dediquen permanente o eventualmente a las actividades gravadas por este impuesto, siendo solidariamente responsables de su pago los compradores o intermediarios de productos avícolas.
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 1980)</small>
-
-ART. 287.- El impuesto se causará al efectuarse la primera venta de productos avícolas, y deberá pagarse previamente a la movilización de los productos avícolas de que se trate o a más tardar al día siguiente hábil de aquel en que se efectúe la operación de primera venta, en la Oficina Recaudadora o Colectora de Rentas correspondiente al domicilio del causante. El Recibo Oficial de pago de este impuesto, será el documento con el que se amparará la movilización de productos avícolas en el Estado.
-
-ART. 288.- Se presumirá que hay venta para los efectos legales, cuando los productos avícolas se remitan de una población a otra del Estado, aún con el carácter de remitidos en remisión o en consignación, a falta de otros elementos que acrediten el momento de la operación.
-
-ART. 289.- No se causará el Impuesto Estatal Sobre Ingresos Mercantiles por los ingresos obtenidos por la primera venta de productos avícolas en el Estado, siempre y cuando el causante haya cubierto el impuesto contenido en este Capítulo.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 289 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-### CAPITULO XXV. Impuesto Pro-Caminos Vecinales
-
-ART. 290.- Se establece un impuesto que se denominará "Impuesto Pro-Caminos Vecinales", a cargo de los agricultores del Estado, cuyo ingreso se destinará a la construcción de caminos vecinales que faciliten la salida de los productos agrícolas a los centros de transporte y consumo.
-
-ART. 291.- El impuesto establecido por el presente Capítulo, se cobrará en el mismo acto en que se haga efectivo el Impuesto sobre Producción Agrícola, de conformidad con la siguiente tarifa y sobre los siguientes productos agrícolas:
-
-Por Caja o Jaba de Tomate y Otras Legumbre $ 0.01
-
-Por tonelada de sandía, melón cantalup y otras frutas 1.00
-
-Por tonelada de algodón en hueso 10.00
-
-Por tonelada de arroz palay 3.50
-
-Por tonelada de trigo 4.50
-
-Por tonelada de garbanzo de exportación 5.00
-
-Por tonelada de rezaga de garbanzo 2.00
-
-Por tonelada de ajonjolí 3.00
-
-Por tonelada de milo-maíz 1.00
-
-Por hectárea de caña 10.00
-
-ART. 292.- El fisco del Estado queda facultado para seguir el procedimiento económico-coactivo en el cobro del impuesto a que se refiere este Capítulo, en los términos de las leyes que lo regulan.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 292 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 292 BIS A.- Se encuentran obligadas al pago de este impuesto, las personas físicas y morales que, aún teniendo su domicilio fuera del Estado, realicen en el mismo, erogaciones en dinero o en especie por concepto de remuneración al trabajo personal subordinado, independientemente de la designación que se le otorgue.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-Para los efectos de este impuesto se considerarán erogaciones destinadas a remunerar el trabajo personal subordinado, los salarios y demás prestaciones que se deriven de una relación laboral y cuando el servicio se preste en otro Estado no se causará este impuesto por los pagos que realicen por estas erogaciones.
-
-(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995).
-
-ART. 292 Bis B.- El impuesto se determinará aplicando la tasa del 1.5% sobre el monto total de las erogaciones gravadas, realizadas por concepto de remuneración al trabajo personal subordinado.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-Sobre el impuesto previsto en este Capítulo no se causará impuesto adicional alguno.
-
-(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990). (F. DE E. P.O. 11 DE ENERO DE 1991)
-
-ART. 292 Bis C.- Este Impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración, que deberá presentarse ante la Oficina Recaudadora correspondiente al domicilio del contribuyente, o ante la Oficina autorizada al efecto. El pago deberá efectuarse mediante declaración bimestral, dentro de los primeros quince días de los meses de marzo, mayo, julio, septiembre, noviembre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero, cuarto, quinto y sexto bimestre del año; según corresponda.
-
-> <small>(F. DE E. P.O. 11 DE ENERO DE 1991)</small>
-
-Aquellos contribuyentes cuyas erogaciones mensuales por concepto de remuneración al trabajo personal subordinado, no excedan el importe del equivalente de diez veces el salario mínimo general elevado a treinta días, podrán efectuar el pago mediante declaración trimestral, dentro de los primeros quince días de los meses de abril, julio, octubre y enero; por las erogaciones que hubieren sido efectuadas durante el primero, segundo, tercero y cuarto trimestre del año, según corresponda.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 292 Bis D.- Los contribuyentes de este impuesto podrán celebrar convenios respecto a la forma para el pago, en aquellas actividades cuyas características ameriten el control del gravamen en las formas indicadas, para cuyo efecto se faculta a las autoridades fiscales. En estos casos no será necesaria la presentación de la declaración a que se refiere el Artículo anterior.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 292 Bis E.- Son obligaciones de los contribuyentes de este impuesto además de las señaladas en el Código Fiscal del Estado de Sinaloa las siguientes:
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-I.- Solicitar la inscripción ante la Secretaría de Hacienda Pública y Tesorería;
-
-II.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1995)
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-III.- Presentar las declaraciones correspondientes, aún cuando no se hubieren efectuado erogaciones gravadas;
-
-> <small>(ADICIONADA, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-IV.- Proporcionar los documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto.
-
-(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990). (F. DE E. P.O. 11 DE ENERO DE 1991)
-
-ART. 292 Bis F.- Se exceptúan del pago de este Impuesto:
-
-I.- Las erogaciones que se cubran por concepto de:
-
-a).- Participación de los trabajadores en las utilidades de las empresas;
-
-b).- Prima vacacional;
-
-c).- Indemnización por riesgo de trabajo que se concedan de acuerdo con las leyes o contratos respectivos;
-
-d).- Pensión y jubilación en los casos de invalidez, vejez, cesantía y muerte;
-
-e).- Indemnización por rescisión o terminación de las relaciones de trabajo;
-
-f).- Pago por gastos funerarios;
-
-g).- Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
-
-h).- Pagos a trabajadores domésticos; y
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-i).- Aguinaldo y gratificaciones que perciban los trabajadores de sus patrones durante el año calendario, hasta el equivalente a un salario mínimo general del Estado de Sinaloa elevado a 30 días, cuando dichas gratificaciones se otorguen en forma general;
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-j).- Gastos de previsión social que sean considerados deducibles y exentos para efectos del Impuesto sobre la Renta.
-
-II.- Las erogaciones que efectúen:
-
-a).- La Federación y los Municipios;
-
-b).- Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
-
-(F.E. P.O. 11 DE ENERO DE 1991)
-
-c).- Agrupaciones de trabajadores, de profesionales, de empresarios o propietarios;
-
-d).- Instituciones educativas;
-
-e).- Clubes de servicio; y
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-f).- Partidos, Asociaciones Políticas y Asociaciones Religiosas.
-
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 292 Bis- G.- Las autoridades fiscales podrán estimar las erogaciones de los sujetos de este impuesto, en base a lo establecido en el Código Fiscal del Estado de Sinaloa.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-ART. 292 Bis- H.- Sin perjuicio de cumplir con las demás obligaciones que el Artículo 292 Bis- E les impone a los contribuyentes, no estarán obligados al pago de este impuesto las empresas de nueva creación durante el primer año de contratación de empleados.
-
-Se entiende para los efectos de esta Ley, como empresa de nueva creación aquella que se constituya por primera vez en el Estado de Sinaloa y que no provenga de la escisión o fusión de sociedades en términos del Código Fiscal de la Federación y Ley General de Sociedades Mercantiles.
-
-Para los efectos de este impuesto no será considerada empresa de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la empresa.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 1996)</small>
-
-### CAPITULO XXVII (SIC). Impuesto Sobre la Prestación de Servicios De Hospedaje
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER.- Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Albergues, Posadas, Mesones, Hosterías, Campamentos, Paraderos de casas rodantes y otros establecimientos que presten servicios de esa naturaleza dentro del Territorio del Estado, incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
-
-Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues y de los servicios inherentes al mismo a cambio de una contraprestación, así como:
-
-I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
-
-II.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorgan espacio para acampar.
-
-Este impuesto no se causa por los servicios proporcionados por las casas de hospedaje, excepto las que incluyen en sus servicios la opción de consumir vinos, licores y cerveza. Asimismo, no se considerarán servicios de hospedaje el albergue o alojamiento prestados por Hospitales, Clínicas, Asilos, Conventos, Seminarios o Internados, ni las cuotas que se cobren por mantenimiento en tiempos compartidos adquiridos en propiedad.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-A.- Son sujetos de este impuesto las personas físicas o morales que presten los servicios de hospedaje a que se refiere el artículo anterior.
-
-Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto, y se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
-
-Asimismo cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen o comprueben la prestación de estos últimos, se entenderá que el importe de la contraprestación respectiva corresponde a servicios de hospedaje.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-B.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-C.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-D.- Este impuesto se pagará mediante declaración que deberá presentar el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros 15 días de cada mes, debiendo contener dicha declaración la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-E.- Para efectos de este impuesto se entiende que los servicios de hospedaje, se prestan en el Estado, siempre que los bienes objeto del mismo se encuentren dentro de su territorio.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-F.- Las personas físicas y morales que presten los servicios de hospedaje señalados, así como las que tengan a su cargo la administración de sistemas de tiempo compartido, su mantenimiento u operación del establecimiento estarán obligados a lo siguiente:
-
-I.- Solicitar su inscripción ante el registro estatal de contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial autorizada para tal efecto y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
-
-II.- Trasladar a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fecha a que se refiere el Artículo 292 TER-D;
-
-III.- Llevar los controles necesarios que acrediten en forma fehaciente cada uno de los actos de este impuesto;
-
-IV.- Presentar ante las oficinas autorizadas para ello en los términos del Código Fiscal del Estado los avisos respectivos en los casos de cambio de nombre, denominación o razón social, domicilio, traslado, traspaso, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en el documento de inscripción en los plazos señalados por el citado Código Fiscal.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-G.- Las autoridades fiscales estatales podrán estimar presuntivamente este impuesto además de los casos señalados en el Código Fiscal del Estado de Sinaloa cuando:
-
-I.- El sujeto de este impuesto, no registre en la contabilidad que deba llevar para efecto de impuestos federales cada uno de los servicios que preste gravados por esta ley;
-
-II.- No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren;
-
-III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-H.- El importe de lo recaudado por concepto de esta contribución será destinado única y exclusivamente a la promoción turística del Estado de Sinaloa y su administración corresponderá a los fideicomisos que sean necesarios, en los que su comité técnico estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento del municipio respectivo y un representante del sector hotelero; asimismo mediante una cuenta especial de contabilidad se destinará la participación que corresponda a cada municipio según lo recaudado en él, verificando el escrupuloso manejo de estos fondos.
-
-La Cuenta Pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en base a los programas de promoción turística que al respecto se elaboren para cada municipio.
-
-El Estado entregará al Fideicomiso que corresponda a cada municipio los ingresos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto a la Oficina Recaudadora.
-
-El Fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del H. Congreso del Estado, a más tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
-
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
-
-ART. 292 TER-I.- Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas en los términos previstos en el Código Fiscal del Estado.
 
 ## TRANSITORIOS
 
@@ -5559,9 +3181,13 @@ El Impuesto Sobre Nóminas se causará por las erogaciones que se realicen a par
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 1995)
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO QUINTO.
 
-El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
+El monto de lo recaudado por concepto del Impuesto Sobre Nóminas, se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya mediante decreto para tal efecto, así como al patrimonio del Consejo para el Desarrollo Económico de Sinaloa.
+
+La aportación que otorgue el Gobierno del Estado de Sinaloa, al patrimonio del referido Consejo, nunca podrá ser menor al 20% de los ingresos anuales por concepto de dicho Impuesto en el ejercicio fiscal inmediato anterior.
 
 P.O. 8 DE MARZO DE 1991.
 
@@ -5613,9 +3239,87 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 Para los efectos de la adición del capítulo XXVII al Título Segundo de la Ley de Hacienda del Estado; se concede un plazo de 30 días contados a partir de la fecha en que entre en vigor el presente Decreto para que los contribuyentes obligados al pago de este impuesto, que hubieren iniciado operaciones con anterioridad a la vigencia del mismo, presenten su aviso de inscripción ante la Oficina Recaudadora de su domicilio, sin la aplicación de sanciones.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO TERCERO.
 
-Para la constitución de los Fideicomisos a que se refiere el Artículo 292 TER-H de la Ley de Hacienda del Estado, deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro del Impuesto Sobre Prestación de Servicios de Hospedaje en los Municipios que no se constituya el Fideicomiso respectivo.
+Para la constitución de los Fideicomisos a que se refiere el Artículo 33 de la Ley de Hacienda del Estado, deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro del Impuesto Sobre Prestación de Servicios de Hospedaje en los Municipios que no se constituya el Fideicomiso respectivo.
+
+P.O. 27 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997.
+
+###### ARTICULO SEGUNDO.
+
+En tanto el Estado se mantenga adherido al Sistema Nacional de Coordinación Fiscal en los términos del Convenio de Adhesión continuarán suspendidas las contribuciones estatales siguientes:
+
+I.- IMPUESTOS
+
+a).- Impuesto Sobre Ingresos Mercantiles.
+
+b).- Impuesto Sobre Productos de Capitales.
+
+c).- Impuesto Sobre Producción de Alcohol.
+
+d).- Impuesto Sobre Producción de Azúcar y Mascabado.
+
+e).- Impuesto Sobre Producción de Mieles Incristalizables.
+
+f).- Impuesto Sobre Producción Agrícola.
+
+g).- Impuesto Sobre Plantas de Beneficio y Establecimientos Metalúrgicos.
+
+h).- Impuesto Sobre Adquisición de Alcohol.
+
+i).- Impuesto Sobre Enajenación de Alcohol.
+
+j).- Impuesto Sobre Elaboración y Adquisición de Bebidas Alcohólicas.
+
+k).- Impuesto Sobre Almacenes y Expendios de Bebidas Alcohólicas.
+
+l).- Impuesto Sobre Juegos Permitidos.
+
+ll).- Impuesto Sobre Primera Venta de Gasolina, Grasas Lubricantes y demás derivados del petróleo.
+
+m).- Impuesto a la Industria Congeladora de Mariscos.
+
+n).- Impuesto a la Industria Harinera.
+
+ñ).- Impuesto a la Industria Algodonera.
+
+o).- Impuesto a la Industria Arrocera.
+
+p).- Impuesto Sobre Producción y Sacrificio de Ganado.
+
+q).- Impuesto Sobre Primera Venta de Productos Avícolas.
+
+r).- Impuesto Pro-Caminos Vecinales.
+
+II.- DERECHOS
+
+a).- Registro de Títulos Profesionales.
+
+b).- Registro de Fierros, Marcas, Tatuajes, Aretes y Señales de los Ganaderos.
+
+###### ARTICULO TERCERO.
+
+Cuando el Estado decida no continuar adherido al Sistema Nacional de Coordinación Fiscal, procederá a restablecer en la Ley, los elementos de cada una de las contribuciones señaladas en el Artículo anterior.
+
+###### ARTICULO CUARTO.
+
+Durante el ejercicio fiscal de 1997, el Impuesto Predial Sobre Fincas Urbanas que resulte a cargo de contribuyentes pensionados y jubilados o de sus cónyuges, en ningún caso será mayor a aquel que se hubiere determinado conforme a las disposiciones vigentes al 31 de diciembre de 1996.
+
+###### ARTICULO QUINTO.
+
+Durante el año de 1997, el cálculo del Impuesto Predial Sobre Fincas Urbanas se efectuará considerándose el porcentaje de la base gravable sobre la cual en el año de 1996 se aplicó la tarifa contenida en la fracción segunda del Artículo 52 de la presente Ley, de acuerdo a lo siguiente:
+
+A).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 80%, para el presente ejercicio fiscal será de un 90%;
+
+B).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 85%, para el presente ejercicio fiscal será de un 95%; y,
+
+C).- En las poblaciones en que la base gravable para el cálculo del Impuesto Predial en 1996 fue del 90 y 95%, para el presente ejercicio fiscal será de un 100%.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
