@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "1990-10-09"
+last_updated: "1992-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE MARZO DE 1992.
 
-Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
+Constitución Publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
 TIBURCIO FERNANDEZ RUIZ, General de División del Ejército Nacional y Gobernador Constitucional del Estado Libre y Soberano de Chiapas, a sus habitantes hago saber:
 
@@ -255,7 +255,7 @@ La calidad de ciudadano chiapaneco no puede adquirirse por declaratoria del Cong
 
 ### CAPITULO TERCERO. DEL MINISTERIO PUBLICO
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 1992)</small>
 
 ###### ARTICULO 14.
 
@@ -483,9 +483,9 @@ II.- Iniciar ante el Congreso de la Unión las Leyes o Decretos que sean de la c
 
 III.- Crear y suprimir empleos de la Administración Estatal y señalar las asignaciones;
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1992)</small>
 
-IV.- Legislar en materia económica, educativa, indígena, de seguridad, beneficencia publica y privada, así como en materia electoral estatal;
+IV.- Legislar en materia económica, educativa, indígena, cultural, electoral estatal, de seguridad, beneficencia pública y privada, así como en materia de protección y preservación del patrimonio histórico y cultural del Estado de Chiapas;
 
 V.- Formular y en su caso aprobar los planes globales y sectoriales de desarrollo del Estado de Chiapas;
 
@@ -861,13 +861,17 @@ Los titulares de las dependencias y de las entidades deberán comparecer ante el
 
 ###### ARTICULO 47.
 
-La Ley organizará al Ministerio Público, cuyos funcionarios serán nombrados y removidos por el Ejecutivo conforme a sus atribuciones, debiendo estar presidido por un Procurador General, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Supremo Tribunal de Justicia del Estado.
+A.- La Ley organizará al Ministerio Público, cuyos funcionarios serán nombrados y removidos por el Ejecutivo conforme a sus atribuciones, debiendo estar presidido por un Procurador General, el que deberá tener las mismas cualidades requeridas para ser Magistrado del Supremo Tribunal de Justicia del Estado.
 
 El Procurador General de Justicia y demás funcionarios serán responsables de toda falta, comisión o violación a la Ley en que incurran con motivo o en el ejercicio de sus funciones.
 
 La persecución de los delitos incumbe al Ministerio Público y a la policía judicial que estará bajo la autoridad de éste, por lo tanto corresponde al Ministerio Público solicitar las órdenes de aprehensión de los inculpados, buscar y presentar las pruebas bastantes que acrediten el cuerpo del delito, así como la presunta responsabilidad del acusado y pedir la aplicación de las penas; velará porque los juicios se tramiten con apego a la Ley para que la justicia sea completa e imparcial, e intervendrán en todos los asuntos que la Ley determine.
 
 La Ley Orgánica determinará la integración de la institución. El Procurador General de Justicia será el Consejero Jurídico del Ejecutivo e intervendrá por sí o por medio de sus funcionarios o agentes en todos los asuntos en que el Estado sea parte, salvo disposición en contrario.
+
+B.- El Congreso del Estado, creará y establecerá mediante Ley, un Organismo Administrativo desconcentrado de protección, respeto y defensa de los derechos humanos. Este Organismo conocerá de quejas en contra de actos, hechos u omisiones de naturaleza administrativa, que provengan de autoridades o servidores públicos que violen los mismos, con excepción de los del Poder Judicial del Estado. Podrá formular recomendaciones publicas autónomas y de ninguna manera obligatorias para las autoridades o servidores involucrados.
+
+Este Organismo carecerá de competencia para conocer de materias jurisdiccional, laboral y electoral.
 
 ###### ARTICULO 48.
 
@@ -917,11 +921,11 @@ Los Magistrados y Jueces que integran el Poder Judicial son absolutamente indepe
 
 ###### ARTICULO 51.
 
-Para ser Magistrado del Supremo Tribunal de Justicia del Estado, se requiere:
+Para ser Magistrado del Supremo Tribunal de Justicia del Estado se requiere:
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 1992)</small>
 
-I.- Ser ciudadano chiapaneco, en pleno ejercicio de sus derechos políticos y civiles;
+I.- Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos políticos y civiles; y tener su domicilio en el Estado;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1987)</small>
 
@@ -935,9 +939,7 @@ III.- Poseer el día del nombramiento, con antigüedad mínima de cinco años, t
 
 IV.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de mas de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama en el concepto público, habrá inhabilitación para el cargo, cualquiera que haya sido la pena; y
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 1990)</small>
-
-V.- Haber residido en el Estado en el momento de su asignación.
+V.- (DEROGADA, P.O. 25 DE MARZO DE 1992)
 
 > <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -2070,3 +2072,9 @@ UNICO.- El presente decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 9 DE OCTUBRE DE 1990.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE MARZO DE 1992.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de reformas y adiciones a la Constitución Política del Estado de Chiapas, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
