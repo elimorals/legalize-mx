@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-para-los-juzgados-de-primera-instancia-6625
 country: "mx"
 rank: "reglamento"
 publication_date: "1983-10-05"
-last_updated: "1983-10-05"
+last_updated: "1998-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR PARA LOS JUZGADOS DE PRIMERA INSTANCIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Reglamento publicado en el Bis del Periódico Oficial del Estado de Sinaloa, el miércoles 5 de octubre de 1983.
 
@@ -239,11 +239,15 @@ Los Secretarios de los Juzgados tendrán las atribuciones que establecen los Có
 
 El Secretario Primero o el Secretario único en su caso, será el jefe inmediato de la oficina en el orden administrativo y dirigirá las labores de la misma de acuerdo con este Reglamento y las instrucciones y determinaciones del Juez que no se opongan a la Ley y al propio Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 32.
 
-Son atribuciones y obligaciones de los Secretarios Primeros o de los Secretarios únicos en su caso, las siguientes:
+Son atribuciones y obligaciones de los Secretarios primeros o de los Secretarios únicos en su caso, las siguientes:
 
-I.- Autorizar con su firma los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones propias a las funciones del Juzgado;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+I.- Autorizar con su firma los despachos, exhortos, actas, diligencias, autos y toda clase de resoluciones propias a las funciones del Juzgado y, previo acuerdo del Juez, las copias certificadas de constancias judiciales que soliciten las partes o quienes legalmente puedan pedirlas;
 
 II.- Facilitar a los interesados los expedientes que soliciten para informarse de los mismos o para cualquier otro efecto legal;
 
@@ -422,3 +426,9 @@ T R A N S I T O R I O
 ÚNICO.- El presente Reglamento entrará en vigor el día primero del mes siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Es dado en el Palacio del Poder Judicial del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintinueve días del mes de septiembre de mil novecientos ochenta y tres.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 17 DE ABRIL DE 1998.
+
+ÚNICO.- El presente acuerdo entrará en vigor tres días después de su publicación en el periódico oficial "El Estado de Sinaloa".
