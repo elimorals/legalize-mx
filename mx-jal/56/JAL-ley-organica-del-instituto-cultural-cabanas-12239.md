@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-instituto-cultural-cabanas-12239"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-18"
-last_updated: "1980-12-18"
+last_updated: "1981-04-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12239&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL INSTITUTO CULTURAL CABAÑAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 ABRIL DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 18 de diciembre de 1980.
 
@@ -79,7 +79,9 @@ DEL PATRONATO
 
 El Patronato del Instituto se integrará en la forma siguiente:
 
-I. La señora esposa del C. Presidente de la República, quien tendrá el carácter de Presidente.
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 1981)</small>
+
+I. El C. Presidente de la República, quien tendrá el carácter de Presidente del Patronato.
 
 II. El C. Gobernador del Estado.
 
@@ -95,6 +97,8 @@ VII. Los CC. Ex-Gobernadores del Estado electos popularmente.
 
 Los integrantes del Patronato podrán hacerse representar por la persona que designen.
 
+DEL CONSEJO DIRECTIVO
+
 ###### Artículo 6°.
 
 Serán facultades del Patronato las siguientes:
@@ -109,17 +113,19 @@ IV. Promover ante el Consejo Directivo la integración en cada Municipio, de las
 
 V. Las demás que en forma directa o derivada le correspondan en los términos de esta Ley.
 
+> <small>(REFORMADO, P.O. EL 2 DE ABRIL DE 1981)</small>
+
 ###### Artículo 7°.
 
-El Patronato sesionará ordinariamente cada año y extraordinariamente cuando sea convocado por la Presidenta del Patronato o el Gobernador del Estado.
-
-DEL CONSEJO DIRECTIVO
+El Patronato sesionará ordinariamente, cada año y extraordinariamente, cuando sea convocado por el Presidente del Patronato o el Gobernador del Estado.
 
 ###### Artículo 8°.
 
 El Consejo Directivo del Instituto se integrará de la siguiente manera:
 
-I. La señora esposa del C. Presidente de la República o la persona que designe.
+> <small>(REFORMADO, P.O. EL 2 DE ABRIL DE 1981)</small>
+
+I. El ciudadano Presidente de la República o la persona que designe.
 
 II. Por el Gobernador Constitucional del Estado de Jalisco.
 
@@ -280,3 +286,9 @@ Lic. Flavio Romero de Velasco
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Alfonso de Alba Martín
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 2 DE ABRIL DE 1981.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial "El Estado de Jalisco".
