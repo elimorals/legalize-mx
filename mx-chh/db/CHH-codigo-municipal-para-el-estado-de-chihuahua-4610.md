@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2004-02-04"
+last_updated: "2004-06-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JUNIO DE 2004.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1501,7 +1501,9 @@ Trabajador al servicio de un Municipio es toda persona que le preste un servicio
 
 Los trabajadores al servicio del Municipio, se dividen en dos grupos: De confianza y de base:
 
-I.- Son trabajadores de confianza: los titulares de las dependencias de la administración municipal; el Secretario particular del Presidente Municipal; los Jefes y Subjefes de departamento; los Cajeros de las oficinas receptoras; Auditores; Pagadores; Inspectores; Administradores de servicios públicos; miembros de comisiones de estudio; Consultores; Asesores; Ingenieros comisionados en obras públicas; miembros de la policía y bomberos municipales; Alcaides; y
+> <small>(REFORMADA, P.O. 5 DE JUNIO DE 2004)</small>
+
+I.- Son trabajadores de confianza: los titulares de las dependencias de la administración municipal; el Secretario Particular del Presidente Municipal; los jefes y subjefes de departamento; los cajeros de las oficinas receptoras; auditores; pagadores; inspectores; administradores de servicios públicos; miembros de comisiones de estudio; consultores; asesores; ingenieros comisionados en obras públicas; miembros de la policía, tránsito y bomberos municipales; alcaides; y
 
 II.- Son de base, los no incluidos en la enumeración anterior.
 
@@ -1509,15 +1511,25 @@ II.- Son de base, los no incluidos en la enumeración anterior.
 
 En la relación laboral entre el Municipio y sus trabajadores se sujetará, en lo no previsto en este ordenamiento, a lo dispuesto en la primera parte, libro único, título IV, del Código Administrativo del Estado.
 
-El personal de los cuerpos de policía y bomberos se regirá por los reglamentos que al efecto expida el Ayuntamiento.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
 
-Los Municipios podrán celebrar convenios entre sí o con instituciones públicas o privadas para la prestación de los servicios de Seguridad Social a sus trabajadores.
+El personal de los cuerpos de policía, tránsito y bomberos podrá ser removido de su cargo si no cumple con los requisitos que las leyes vigentes, en el momento de la remoción, señalen para permanecer en dichas corporaciones, sin que proceda su reinstalación o restitución, cualquiera que sea el juicio o medio de defensa para combatir la remoción y, en su caso, solo procederá la indemnización.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2001)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2004)</small>
 
-###### ARTICULO 78.
+Los ayuntamientos emitirán los reglamentos que sean pertinentes para establecer la estructura y funcionamiento de los cuerpos de policía, tránsito y bomberos precisando las deberes y facultades de los mismos, así como los procedimientos disciplinarios a los que deberán sujetarse.
 
-En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos; integrándose por un representante del municipio, uno de los trabajadores y otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente. El Tribunal de Arbitraje se constituirá dentro de los treinta días siguientes a aquel en que se haya presentado la demanda y se sujetará al procedimiento establecido en el Código Administrativo.
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+Los municipios podrán celebrar convenios entre sí o con instituciones públicas o privadas para la prestación de los servicios de Seguridad Social a sus trabajadores.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO 78.
+
+En cada Municipio existirá un Tribunal de Arbitraje, el cual podrá funcionar accidental o permanentemente, para resolver los conflictos de trabajo individuales o colectivos.
+
+El Tribunal de Arbitraje será competente para conocer de los conflictos laborales que se susciten entre los ayuntamientos y sus trabajadores, así como del personal de los cuerpos de policía, tránsito y bomberos, de acuerdo al régimen especial que los norma. El Tribunal de Arbitraje se integrará por un representante del municipio, uno de los trabajadores y, otro, designado de común acuerdo entre ellos, quien tendrá el carácter de Presidente, y se constituirá dentro de los treinta días siguientes a aquel en que se haya presentado la demanda, sujetándose al procedimiento establecido en el Código Administrativo.
 
 ### CAPITULO III. DE LOS ORGANOS DE COLABORACION
 
@@ -3363,13 +3375,13 @@ P.O. 14 DE JUNIO DE 2003.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 16 DE JULIO DE 2003.
+P.O. 21 DE JUNIO DE 2003.
 
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-P.O. 19 DE JULIO DE 2003.
+P.O. 16 DE JULIO DE 2003.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3379,7 +3391,7 @@ El presente decreto entrará en vigor al día siguiente de su publicación en el
 
 Para la (sic) elecciones de las Juntas Municipales en la (sic) Secciones Municipales de "Bermúdez" y de "El Pilar", se estará a lo estipulado por el artículo 44 del Código Municipal para el Estado de Chihuahua, en lo conducente y deberán llevarse a cabo las elecciones dentro de los 180 días siguientes a la entrada en vigor del presente decreto.
 
-P.O. 21 DE JUNIO DE 2003.
+P.O. 19 DE JULIO DE 2003.
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3406,5 +3418,9 @@ A partir de la entrada en vigor del presente Decreto y hasta antes del inicio de
 P.O. 4 DE FEBRERO DE 2004.
 
 UNICO.- El presente Decreto entra en vigor de inmediato, debiendo publicarse en el Periódico Oficial del Estado.
+
+P.O. 5 DE JUNIO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## TRANSITORIOS
