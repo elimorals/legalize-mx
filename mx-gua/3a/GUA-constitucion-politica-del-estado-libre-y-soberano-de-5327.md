@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "1970-11-05"
+last_updated: "1973-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 1973.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -71,13 +71,11 @@ Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayo
 
 La persecusión de los delitos incumbe al Ministerio Público y a la Policía Judicial. El Ministerio Público dependerá del Ejecutivo. El Procurador General es el Jefe de la Institución, tendrá el carácter de Representante Jurídico del Estado y será consejero del Ejecutivo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE MARZO DE 1919)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
 
-###### Art. 7º.
+Art. 7º La propiedad particular solamente puede ser objeto de expropiación, por causa de utilidad pública y mediante indemnización, en la forma y términos que determinen las Leyes..
 
-La propiedad particular solamente puede ser objeto de expropiación, por causa de utilidad pública y mediante indemnización, en la forma y términos que determinen las Leyes.
-
-Se considerarán de utilidad pública las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. La autoridad superior administrativa hará la declaración correspondiente en cada caso especial.
+Se considerarán de utilidad publica las propiedades que puedan proporcionar al Estado o a los Municipios, usos o goces de beneficio social. El Gobernador del Estado hará la declaratoria correspondiente en cada caso especial.
 
 ###### Art. 8º.
 
@@ -373,9 +371,13 @@ XXI. Mandar que se instruya y discipline la Guardia Nacional, conforme al reglam
 
 XXII. Cuidar de que la justicia se administre pronta y cumplidamente y de que se ejecuten las sentencias, prestando para este objeto, a las autoridades correspondientes, los auxilios que necesiten.
 
-XXIII. Dirigir excitativas a los Magistrados del Supremo Tribunal de Justicia y a los Jueces de Partido, cuando medie queja de parte.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1973)</small>
 
-XXIV. Suspender en casos graves a los Magistrados y a los Jueces, consignando el caso a quien corresponda, a fin de que se practiquen las diligencias necesarias para exigir las responsabilidades en que hubieren incurrido.
+XXIII. Turnar al Pleno del Supremo Tribunal de Justicia las quejas y excitativas de justicia dirigidas en contra de los Magistrados y Jueces en funciones, cuando medie queja de parte.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 1973)</small>
+
+XXIV. Consignar a los Magistrados del Supremo Tribunal de Justicia al Congreso del Estado, para los efectos a que se contrae el artículo 104 de esta Constitución, en casos graves a juicio del Ejecutivo, y a los Jueces, en iguales circunstancias, ordenar que se pongan a disposición de la autoridad que corresponda.
 
 XXV. Conceder indultos, conmutaciones y reducciones de las penas impuestas por delitos del privativo conocimiento de los Tribunales del Estado, cuando se llenen los requisitos que exigen las leyes.
 
@@ -851,55 +853,55 @@ IX. Aprobar o reprobar los nombramientos de Magistrados interinos en el caso a q
 
 Poder Judicial. Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
 
 ###### Art. 61.
 
-Se deposita el ejercicio del Poder Judicial del Estado en un Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y Jurado Popular. El Supremo Tribunal se compondrá de siete Magistrados propietarios y dos supernumerarios, nombrados por el Gobernador del Estado con la aprobación de la Legislatura en los términos del artículo 32 de esta Constitución. El funcionamiento de las Salas y del Pleno, las atribuciones del Presidente y de los Magistrados, así como el número y competencia de los Jueces de Partido, Jueces Municipales y Jurado Popular, se regirán por lo que dispongan esta Constitución y la Ley Orgánica del Poder Judicial del Estado, y las demás leyes aplicables. Los Magistrados durarán en su encargo seis años, contados a partir del primero de enero del año siguiente al de toma de posesión de los gobernadores constitucionales. Los Magistrados no quedan impedidos para desempeñar el mismo cargo en períodos subsecuentes. Sólo podrán ser privados de su cargo, dentro de ese período, por la comisión de delitos del orden común o en los términos de la Ley de Responsabilidades para funcionarios y empleados públicos, mediante sentencia ejecutoria dictada conforme a lo dispuesto en el Título Noveno de esta Constitución. Las audiencias del Pleno y de las Salas serán públicas, excepto en los casos en que la moral o intereses públicos exijan que sean secretas. La remuneración que reciban por sus servicios los Magistrados y los Jueces de Partido y Municipales no podrá ser disminuida durante su encargo.
+Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, Jueces de Partido, Jueces Municipales y el Jurado Popular. El Supremo Tribunal de Justicia se compondrá de nueve Magistrados Propietarios y seis Supernumerarios, nombrados por el Gobernador del Estado, con la aprobación de la Legislatura, en los términos del artículo 32 de esta Constitución.
 
-(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 1929) (REPUBLICADO, P.O. 29 DE DICIEMBRE DE 1929)
+El funcionamiento del Pleno y de las Salas del Supremo Tribunal, las atribuciones del Presidente y de los Magistrados, así como el número y competencia de los Jueces de Partido, Jueces Municipales y el Jurado Popular, se regirán por lo que dispongan esta Constitución, la Ley Orgánica del Poder Judicial y las demás leyes aplicables.
+
+Los Magistrados durarán en su encargo seis años. tomarán posesión el día primero de enero del año siguiente al de la renovación del Poder Ejecutivo y no quedan impedidos para desempeñar el mismo cargo en periodos subsecuentes. Sólo podrán ser privados de su cargo, dentro de ese periodo, por la comisión de delitos graves del orden común o en los términos de la Ley de Responsabilidades de los Funcionarios y Empleados Públicos, mediante sentencia ejecutoria dictada de conformidad con lo dispuesto en el Título Noveno de esta Constitución.
+
+Las audiencias del Pleno y de las Salas serán públicas, excepto en los casos en que la moral o intereses públicos exijan que sean secretas.
+
+La remuneración que perciban por sus servicios los Magistrados, Jueces de Partido y Municipales, no podrán ser disminuidas durante su encargo.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
 
 ###### Art. 62.
 
-Para ser Magistrado se requiere:
+Para ser Magistrados se requiere:
 
-I. Ser ciudadano guanajuatense en ejercicio de sus derechos.
+I. Ser Ciudadano guanajuatense en ejercicio de sus derechos:
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+II. Tener título de abogado expedido por la autoridad o corporación legalmente facultada para ello, y por lo menos tres años de práctica en el ejercicio de su actividad profesional.
 
-II.- Tener título de abogado expedido por la autoridad o corporación legalmente facultada para ello, y por lo menos cinco años de práctica en el ejercicio de esa actividad profesional.
+III. Tener veinticinco años cumplidos el día de la designación.
 
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
+IV. Gozar de buena reputación y no haber sido condenado por delito alguno con motivo de sus funciones o por delitos graves del orden común.
 
-III.- No tener más de sesenta y cinco años de edad, ni menos de treinta, al día de la elección.
-
-> <small>(REFORMADA, P. O. 28 DE DICIEMBRE DE 1961)</small>
-
-IV.- Gozar de buena reputación y no haber sido condenado por delito alguno con motivo de sus funciones o por delitos graves del orden común.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1973)</small>
 
 ###### Art. 63.
 
-Son obligaciones del Supremo Tribunal de Justicia:
+Son atribuciones del Supremo Tribunal de Justicia:
 
-> <small>(REFORMADA, P.O. 23 DE MARZO DE 1919)</small>
+I. Conocer, en los juicios civiles y penales, de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias.
 
-I. Conocer en los juicios civiles y criminales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias; exceptuando el recurso de casación que queda suprimido.
+II. Decidir las cuestiones de competencia que se susciten entre los funcionarios encargados de la administración de justicia en el Estado, en los casos que determine la Ley.
 
-II. Decidir las competencias que se susciten entre los funcionarios encargados de administrar justicia en el Estado, en los casos que determine la ley.
+III. Formar su reglamento interior, enviándolo a la Legislatura para su aprobación.
 
-III. Consultar a la Legislatura del Estado, las dudas de ley que se presenten a las autoridades del orden judicial.
+IV. Dictar las medidas que sean procedentes para que la administración de justicia sea pronto y expedita, y para que se observen la disciplina y puntualidad en los tribunales del Estado.
 
-IV. Dar mensualmente a la Presidencia, por medio de sus Secretarios, una noticia de los negocios civiles y criminales concluídos y de los pendientes en el mismo Tribunal, para conocimiento de los otros Poderes.
+V. Erigirse en Colegio Electoral para nombrar Jueces de Partido y Municipales, señalar a sus adscripciones, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 1924)</small>
+VI. Nombrar y remover por causa justificada a los funcionarios y empleados del Supremo Tribunal, concederles licencias con goce de sueldo o sin él y resolver sobre las renuncias que presenten.
 
-V.- Erigirse en Colegio Electoral para nombrar Jueces de Partido y Municipales. Nombrar los que deban funcionar interinamente para substituir en sus faltas a los propietarios. Admitir las renuncias de dichos jueces y concederles licencias. Nombrar sus Secretarios y demás empleados y remover a unos y a otros a su arbitrio, pudiendo concederles licencias con o sin goce de sueldo.
+VII. Aprobar los nombramientos que hagan los Jueces de Partido y Municipales de los funcionarios y empleados de su adscripción.
 
-VI. Formar su reglamento interior, enviándolo al Congreso para su aprobación.
-
-VII. Aprobar los nombramientos que hagan los Jueces de Partido, de sus Secretarios y demás empleados.
-
-VIII. Cumplir con las demás atribuciones que le señalen la Ley Orgánica de Tribunales y los Códigos de Procedimientos.
+VIII. Cumplir las demás atribuciones que le señalen la Ley Orgánica del Poder Judicial del Estado, los Códigos de Procedimientos y demás leyes aplicables.
 
 > <small>(REFORMADO, P. O. 8 DE OCTUBRE DE 1967)</small>
 
@@ -1241,7 +1243,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 
 P.O. 19 DE AGOSTO DE 1945.
 
-EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 2° DEL CODIGO CIVIL VIGENTE.
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERA APLICABLE SUPLETORIAMENTE EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE.
 
 P.O. 19 DE ENERO DE 1950.
 
@@ -1320,3 +1322,9 @@ P.O. 5 DE NOVIEMBRE DE 1970.
 ###### ARTICULO SEGUNDO.
 
 Estas adiciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Las reformas a la Constitución Política del Estado Libre y Soberano de Guanajuato, contenidas en este decreto, entrarán en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
