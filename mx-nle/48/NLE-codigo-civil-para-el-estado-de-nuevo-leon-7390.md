@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1957-12-25"
+last_updated: "1960-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1960.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -9717,7 +9717,7 @@ Pago o cumplimiento es la entrega de la cosa o cantidad debida, o la prestación
 
 ###### Art. 1957.
 
-El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, sólo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
+El deudor puede ceder sus bienes a los acreedores en pago de sus deudas. Esta cesión, salvo pacto en contrario, solo libera a aquel de responsabilidad por el importe líquido de los bienes cedidos. Los convenios que sobre el efecto de la cesión se celebren entre el deudor y sus acreedores, se sujetarán a lo dispuesto en el Título relativo a la concurrencia y prelación de los créditos.
 
 ###### Art. 1958.
 
@@ -13927,6 +13927,8 @@ Si el responsable de la hipoteca designada en las fracciones II, III y IV del ar
 
 ### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
 
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1960)</small>
+
 ###### Art. 2832.
 
 La hipoteca produce todos sus efectos jurídicos contra terceros mientras no sea cancelada su inscripción.
@@ -14289,13 +14291,13 @@ Tratándose de testamentos ológrafos depositados en el Registro, se observará 
 
 Se inscribirán en el Registro:
 
-I.- Los títulos por los cuales se adquiere, trasmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+I.- Los Títulos por los cuales se adquiere, trasmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
 
 II.- La constitución del patrimonio de familia;
 
 III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquéllos en que haya anticipos de rentas por más de tres;
 
-IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 2204;
+IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del Artículo 2204;
 
 V.- Los contratos de prenda que menciona el Art. 2751;
 
@@ -14309,9 +14311,7 @@ IX.- Las resoluciones judiciales o de árbitros o arbitradores que produzcan alg
 
 X.- Los testamentos por efecto de los cuales se deje la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
 
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo.
-
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
+XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo. En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
 
 XII.- Las resoluciones judiciales en que se declare un concurso o se admita una cesión de bienes;
 
@@ -14319,7 +14319,11 @@ XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizad
 
 XIV.- La promesa de contratar para que surta efectos contra tercero;
 
-XV.- Los demás títulos que la ley ordene expresamente sean registrados.
+XV.- Las escrituras que contengan la constitución del régimen de condominio y sus modificaciones;
+
+XVI.- Los documentos en que se establezca propiedad pública cuyos titulares podrán ser el Estado, los municipios, organismos descentralizados creados por el Estado u organizados con base en ordenamientos jurídicos en vigor;
+
+XVII.- Los demás títulos que la Ley ordene expresamente sean registrados.
 
 ###### Art. 2895.
 
@@ -14674,3 +14678,7 @@ SEGUNDO:- Esta Ley entrará en vigor el día siguiente de su publicación en el 
 P.O. 25 DE DICIEMBRE DE 1957.
 
 Este Decreto surtirá sus efectos desde el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE ENERO DE 1960.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEON.
