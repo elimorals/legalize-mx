@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-deporte-20339"
 country: "mx"
 rank: "ley"
 publication_date: "1999-09-28"
-last_updated: "1999-09-28"
+last_updated: "2004-11-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL DEPORTE DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2004.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 28 de septiembre de 1999.
 
@@ -41,9 +41,11 @@ LEY ESTATAL DEL DEPORTE
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 1º.
 
-Las disposiciones de esta Ley son de orden público e interés social y tienen como finalidad instituir, normar y regir el Sistema Estatal del Deporte, así como las bases para su funcionamiento, con el propósito de incrementar la calidad del deporte que se enseña y practica en nuestro Estado, para así coadyuvar en el desarrollo integral de los habitantes de Jalisco.
+Las disposiciones de esta ley son de orden público y de interés social, y tienen como finalidad establecer y fijar las bases para el funcionamiento del Sistema Estatal del Deporte, así como las normas de seguridad para la práctica del deporte, ello con el propósito de coadyuvar en la formación y desarrollo integral de los habitantes del Estado de Jalisco, en las actividades relacionadas con el deporte y la cultura física.
 
 ###### Artículo 2º.
 
@@ -71,9 +73,13 @@ El Gobierno del Estado y los Municipios que se adhieran al Sistema Estatal del D
 
 El CODE conjuntamente con la Dirección de Educación Física y Deportiva de la Secretaría de Educación del Estado y con la Dirección de Educación Física del Sistema Integrado, diseñarán y ejecutarán un programa, que aunado a la asignatura de educación física que se imparte en el nivel de educación básica, de como resultado final cinco horas semanales de ejercicio corporal de acuerdo a las crecientes posibilidades del Estado y con ello se coadyuve en la formación y desarrollo integral del educando.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 8º.
 
-Las actividades de promoción, organización, desarrollo o participación en materia deportiva que se realicen con ánimo de lucro o de carácter profesional no quedarán comprendidas dentro del Sistema Estatal del Deporte. Sin embargo, podrán inscribirse en el Sistema los deportistas profesionales que deseen participar en competencias selectivas para representar oficialmente a Jalisco en torneos y campeonatos nacionales, debiendo cumplir con las disposiciones reglamentarias para dichas competencias.
+Las actividades deportivas de carácter profesional no forman parte del Sistema Estatal del Deporte, pero los deportistas profesionales que deseen participar en competencias selectivas para representar oficialmente a Jalisco en torneos y campeonatos nacionales, podrán inscribirse en el Sistema Estatal del Deporte, debiendo cumplir con las disposiciones reglamentarias respectivas.
+
+Las personas físicas o jurídicas que se dediquen a la explotación comercial de actividades deportivas y que no se encuentren dentro del supuesto del párrafo anterior, formarán parte del Sistema Estatal del Deporte, y tienen la obligación de registrarse.
 
 ###### Artículo 9º.
 
@@ -105,9 +111,35 @@ II. Los Consejos Municipales del Deporte y la Juventud; y
 
 III. La Comisión de Arbitraje.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 11.
 
 Es obligación de quienes presten el servicio de instrucción o guía de deportes que importen un alto riesgo para la integridad física de los practicantes, reunir los requisitos y condiciones que garanticen su práctica en las circunstancias lo más seguras posible.
+
+Se denomina deporte de alto riesgo, aquella actividad deportiva que puede implicar un mayor peligro para la integridad física de la persona que lo practica, y que por ello requiere de una serie de conocimientos, protecciones y equipo especializado, que permitan desarrollar la actividad con seguridad.
+
+El reglamento de esta ley, establecerá las normas de seguridad con las que deberán contar las personas físicas o jurídicas, que se dediquen a la explotación comercial de los deportes de alto riesgo y los requisitos que deberán cumplir para prestar el servicio de instrucción o guía.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+Artículo 11 bis.- Para efectos de la presente ley, se considerarán deportes de alto riesgo:
+
+I. Buceo;
+
+II. Espeleología;
+
+III. Paracaidismo;
+
+IV. Montañismo;
+
+V. Recorridos rápidos o kayak;
+
+VI. Vuelo libre;
+
+VII. Vuelo en ultraligeros; y
+
+VIII. Los demás que se establezcan en el reglamento.
 
 ### CAPITULO II. DEL CONSEJO ESTATAL PARA EL FOMENTO DEPORTIVO Y EL APOYO A LA JUVENTUD
 
@@ -153,23 +185,37 @@ XV. Las demás que le otorgue la presente ley y otras disposiciones jurídicas a
 
 Para dar cumplimiento al artículo anterior, el CODE contará con un Consejo Directivo y un Director General. Este último será designado por el Gobernador del Estado, a propuesta en terna presentada por el titular de la Secretaría de Educación Jalisco.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 15.
 
-El Consejo Directivo se conformará por el Director General del CODE y siete vocales representantes de cada una de la (sic) siguientes entidades:
+El Consejo Directivo se conformará por el Director general del CODE y ocho vocales representantes de cada una de las siguientes entidades:
 
 I. De la Secretaría de Educación;
 
 II. De la Secretaría de Finanzas;
 
-III. De la Secretaría de Salud y Bienestar Social;.
+III. De la Secretaría de Salud y Bienestar Social;
 
-IV. De las cámaras de comercio en la entidad;
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2004)</small>
 
-V. De las cámaras industriales en la entidad;
+IV. Del Instituto Jalisciense de la Juventud;
 
-VI. Del Consejo Nacional del Deporte Estudiantil, también conocido por sus siglas como CONDDE; y
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2004)</small>
 
-VII. Del Consejo Estatal del Deporte de Educación Básica, también conocido por sus siglas como COEDEBA.
+V. De las cámaras de comercio en la entidad;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+VI. De las cámaras industriales en la entidad;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+VII. Del Consejo Nacional del Deporte Estudiantil, también conocido por sus siglas como CONDDE; y
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+VIII. Del Consejo Estatal del Deporte de Educación Básica, también conocido por sus siglas como COEDEBA.
 
 El Consejo Directivo contará con un Presidente y un Secretario, mismos que se elegirán de entre los miembros del Consejo por mayoría simple, pudiendo ser reelegidos por una sola vez.
 
@@ -315,9 +361,11 @@ El Registro Estatal del Deporte en Jalisco será responsabilidad del CODE y comp
 
 La inscripción en el Registro Estatal del Deporte es condición indispensable para gozar de los estímulos y apoyos que otorga el Estado a través del Sistema Estatal del Deporte.
 
+> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
 ###### Artículo 33.
 
-La inscripción podrá ser individual o colectiva. Los requisitos a que se sujetará la inscripción, así como los lineamientos para su integración y funcionamiento serán determinados en el reglamento de esta Ley.
+La inscripción en el Registro Estatal del Deporte podrá ser individual o colectiva, y es condición indispensable para gozar de los estímulos y apoyos que otorga el Sistema Estatal del Deporte. Quedan exceptuados de recibir los mencionados beneficios, las personas físicas o jurídicas que con fines lucrativos se dediquen a la explotación de actividades deportivas en cualquiera de sus expresiones o modalidades.
 
 ###### Artículo 34.
 
@@ -580,3 +628,17 @@ ING. ALBERTO CÁRDENAS JIMÉNEZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. FERNANDO ANTONIO GUZMÁN PÉREZ PELÁEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 6 DE NOVIEMBRE DE 2004.
+
+DECRETO NÚM. 2672 QUE REFORMA EL ARTICULO 15
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 6 DE NOVIEMBRE DE 2004.
+
+DECRETO NÚM. 20673 QUE REFORMA LOS ARTICULOS 1, 8, 11 Y 33.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
