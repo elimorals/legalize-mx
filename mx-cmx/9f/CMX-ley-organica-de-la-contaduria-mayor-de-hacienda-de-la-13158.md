@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-contaduria-mayor-de-hacienda-de-la-13158"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-01-27"
-last_updated: "1999-03-30"
+last_updated: "2001-10-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13158&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-01-15"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE MARZO DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 25 DE OCTUBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal el 27 de enero de 1999 y republicada el 8 de febrero de 1999.
 
@@ -170,6 +170,18 @@ El Organo Superior de Dirección se integrará por tres miembros que tendrán el
 
 El Presidente durará en su encargo un año improrrogable y será sustituido al término de éste por el miembro de mayor antigüedad. Para el caso de que más de un Contador tengan la misma antiguedad (sic), el Pleno de la Asamblea determinará quien lo sustituye.
 
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2001)</small>
+
+En ausencia definitiva de alguno de los contadores a causa de renuncia, remoción o por cualquier otra circunstancia, la Asamblea nombrará a un Contador sustituto para que concluya el tiempo del encargo correspondiente.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2001)</small>
+
+Durante los recesos de la Asamblea, la Comisión de Gobierno nombrará provisionalmente al Contador, sujeto a la ratificación ante el Pleno de la Asamblea en el siguiente periodo de sesiones. En todo caso, la propuesta del Contador será presentada por la Comisión.
+
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2001)</small>
+
+Si la ausencia definitiva ocurriese durante el último año de gestión del Contador, su sustituto podrá ser elegible como Contador, para el siguiente periodo cuando concluya la sustitución.
+
 Los Contadores protestarán ante el Pleno guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, el Estatuto de Gobierno del Distrito Federal, el Código, la Ley Orgánica de la Asamblea, la Ley y las demás disposiciones aplicables.
 
 ###### Artículo 11.
@@ -201,6 +213,10 @@ El año siguiente a la terminación de su encargo no podrán desempeñar comisio
 Los Contadores serán inamovibles durante el término de cuatro años improrrogables y serán sustituidos, conforme a lo señalado por el artículo 10 de esta ley.
 
 Las ausencias temporales de los Contadores, serán suplidas en los términos que señale el Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 25 DE OCTUBRE DE 2001)</small>
+
+En los casos de ausencia definitiva de algún Contador, Organo Superior de Dirección podrá sesionar validamente con la presencia de dos Contadores y las determinaciones que tomen correspondientes al ejercicio de atribuciones previstas en el artículo 15 y demás preceptos aplicables, serán válidas de pleno derecho hasta en tanto ocupe el cargo quien sustituya al Contador ausente.
 
 ###### Artículo 13.
 
@@ -549,3 +565,9 @@ En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, f
 G.O. 30 DE MARZO DE 1999.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 25 DE OCTUBRE DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal. Publíquese en el Diario Oficial de la Federación para su mayor difusión.
+
+SEGUNDO.- Se instruye a la Comisión de Vigilancia a que por única vez dentro del término de quince días a partir del inicio de vigencia del presente Decreto, proponga al Pleno de la Asamblea al candidato para ocupar el cargo de Contador Sustituto.
