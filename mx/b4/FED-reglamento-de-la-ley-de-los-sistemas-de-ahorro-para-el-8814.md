@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-los-sistemas-de-ahorro-para-el-8814"
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-10-10"
-last_updated: "1996-10-10"
+last_updated: "1998-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8814&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1996-10-09"
 
 REGLAMENTO DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1998.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el jueves 10 de octubre de 1996.
 
@@ -173,7 +173,7 @@ VIII. Informar a las administradoras sobre las tasas de rendimiento que deberán
 
 IX. Las demás que señalen la ley, el presente reglamento y su título de concesión.
 
-El listado a que se refiere la fracción II de este artículo, podrá ser consultado por los participantes en los sistemas de ahorro para el retiro, exceptuándose los datos relativos a los números de seguridad social a los salarios de los trabajadores.
+> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 15.
 
@@ -191,7 +191,7 @@ III. Coordinar los procesos de traspaso y unificación, considerando como admini
 
 La recaudación de las cuotas de el seguro, de las aportaciones al Fondo Nacional de la Vivienda y, en su caso, de las aportaciones voluntarias, se llevará a cabo por las entidades receptoras, que actuarán por cuenta y orden de los institutos de seguridad social respectivos, mediante su previa autorización a través del convenio que celebren con éstos.
 
-Las entidades receptoras deberán llevar en sus oficinas un registro de los patrones que efectúen el entero de las cuotas y aportaciones mencionadas en el párrafo anterior.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 ###### ARTICULO 17.
 
@@ -199,7 +199,9 @@ Los institutos de seguridad social, al celebrar los convenios de autorización c
 
 I. Llevar los procedimientos contables que determine la Comisión Nacional Bancaria y de Valores, oyendo la opinión de la Comisión;
 
-II. Tener capacidad de verificación y conciliación de importes y ajustes presentados en las cédulas de determinación a que se refiere el artículo 41 de este reglamento, así como en la información que presenten los patrones por escrito o en medios magnéticos;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
+
+II. Tener capacidad de verificación y conciliación de los importes que aparezcan en las cédulas de determinación a que se refiere el artículo 41 de este reglamento, así como en la información que presenten los patrones por escrito o en medios magnéticos;
 
 III. Cumplir con los requerimientos de sistemas y telecomunicaciones que establezcan las empresas operadoras para transmitir la información de la recaudación de manera electrónica, y
 
@@ -225,7 +227,13 @@ I. Recibir los recursos de la cuenta concentradora para ser transferidos a las a
 
 II. Entregar los recursos provenientes de el seguro y, en su caso, de las aportaciones voluntarias, así como de las cuotas del seguro de retiro a las administradoras, y
 
-III. Reportar diariamente a la Comisión, la recepción y entrega de los recursos mencionados en las fracciones anteriores.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
+
+III. Reportar diariamente a las empresas operadoras, la recepción y entrega de los recursos mencionados en las fracciones anteriores.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Las empresas operadoras deberán reportar diariamente a la Comisión, la información a que se refiere la presente fracción, el mismo día en que ésta se genere.
 
 ###### ARTICULO 20.
 
@@ -345,7 +353,9 @@ Las empresas operadoras deberán inscribir en la Base de Datos Nacional SAR, las
 
 El registro de un trabajador en la administradora, surtirá efectos jurídicos a partir de la inscripción de su solicitud en la Base de Datos Nacional SAR, momento en el que se entenderá manifestado el consentimiento de la administradora para obligarse en los términos del Contrato de Administración de Fondos para el Retiro, por lo que la falta de firma del representante de la administradora en dicho contrato, no afectará la validez del mismo.
 
-Una vez inscrita la solicitud de un trabajador en la Base de Datos Nacional SAR, las administradoras enviarán al domicilio de éste una constancia de registro que contenga la aceptación de su solicitud, dentro de un plazo máximo de veinte días hábiles contados a partir de la fecha de su solicitud de registro.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Una vez inscrita la solicitud de un trabajador en la Base de Datos Nacional SAR, las administradoras enviarán al domicilio de éste una constancia de registro que contenga la aceptación de su solicitud, dentro de un plazo máximo de veinte días hábiles contados a partir de la fecha de su solicitud de registro y de noventa días hábiles en los casos de trabajadores de nuevo ingreso al Instituto Mexicano del Seguro Social.
 
 Si un trabajador no recibe la constancia de registro dentro del plazo señalado, podrá acudir a la administradora ante la que presentó su solicitud de registro, a efecto de que se le informe del estado que guarda su solicitud.
 
@@ -361,7 +371,9 @@ A efecto de lo anterior, las empresas operadoras ordenarán por cuenta y orden d
 
 Si al traspasar los recursos de la cuenta concentradora a una administradora, no se dispone del domicilio del trabajador, se deberá dejar constancia de este hecho, a fin de que la administradora receptora entregue los estados de cuenta hasta el momento en que el trabajador de que se trate acuda a sus oficinas y se recaben los datos relativos a su domicilio.
 
-Las empresas operadoras deberán notificar a los trabajadores las transferencias de recursos que se realicen conforme a este artículo, mediante el envío a los patrones de una lista que contenga los nombres de los trabajadores cuyos recursos fueron objeto de la operación mencionada. Asimismo, las administradoras receptoras de los recursos deberán exhibir en sus oficinas una lista que contenga los nombres de los trabajadores cuyos recursos les fueron asignados.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Las empresas operadoras deberán tener disponible para la consulta de las administradoras y de la Comisión, una base de datos que contenga los nombres de los trabajadores cuyos recursos fueron transferidos a una administradora en los términos de este artículo. Asimismo, las administradoras receptoras de los recursos deberán exhibir en sus oficinas una lista que contenga los nombres de los trabajadores cuyos recursos les fueron asignados.
 
 La administradora receptora de la cuenta deberá aplicar a los recursos que le sean transferidos, las mismas condiciones de contratación y comisiones vigentes establecidas para las demás cuentas que tenga registradas.
 
@@ -401,21 +413,21 @@ La administradora transferente deberá efectuar la transferencia de los recursos
 
 Las entidades receptoras, al recibir la información y los recursos relativos a las obligaciones obrero patronales, deberán depositar los recursos correspondientes a el seguro y, en su caso, las aportaciones voluntarias en la cuenta concentradora a que se refiere el artículo 75 de la ley, dentro de un plazo máximo de cuatro días hábiles contados a partir de su recepción. Además, deberán informar a las empresas operadoras las transacciones correspondientes, ajustándose a los formatos y características establecidos al efecto.
 
-Sin perjuicio de lo anterior, las entidades receptoras deberán avisar al Banco de México y a las empresas operadoras, el día hábil anterior a aquél en que se haga el depósito, el monto total de los recursos a depositar.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 Tratándose de los recursos provenientes de las aportaciones al Fondo Nacional de la Vivienda y de los descuentos a los trabajadores por concepto de créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, dichas entidades deberán transferirlos al Banco de México en los términos de la Ley del mencionado Instituto.
 
 En los casos en que las cuotas y aportaciones recibidas no puedan ser cobradas en razón de existir rechazos en la compensación de cheques o alguna otra circunstancia que impida depositar los recursos correspondientes en los términos de lo dispuesto por este artículo, las entidades receptoras deberán informar a las empresas operadoras, de las transacciones y los montos que se encuentren en este supuesto, debiendo las empresas operadoras informar de lo anterior a los institutos de seguridad social.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 41.
 
-Las entidades receptoras deberán cotejar la información que reciban y conciliar los importes que muestren las cédulas de determinación incluyendo sus ajustes, contra el total pagado por cada una de las subcuentas a que se refiere el artículo 23 de este reglamento, de acuerdo con los lineamientos que emitan conjuntamente la Comisión y los institutos de seguridad social.
+Las entidades receptoras deberán cotejar la información que reciban y conciliar los importes que muestren las cédulas de determinación, contra el total pagado por cada una de las subcuentas a que se refiere el artículo 23 de este reglamento, de acuerdo con los lineamientos que emitan conjuntamente la Comisión y los institutos de seguridad social.
 
-Las entidades receptoras podrán rechazar el pago de las cuotas o aportaciones de alguna o las dos subcuentas presentadas, si el cotejo revela errores aritméticos entre el monto total reportado y la suma de los montos registrados para cada trabajador o en aquellos otros casos que proceda el rechazo conforme a lo dispuesto por el Código Fiscal de la Federación.
+Las entidades receptoras podrán rechazar el pago de las cuotas o aportaciones de alguna o las dos subcuentas presentadas, si el cotejo revela errores aritméticos entre el monto total reportado y la suma de los montos registrados para cada trabajador, así como cuando el medio magnético en que se presente la determinación de dichas cuotas y aportaciones sea ilegible, o en aquellos otros casos que proceda al rechazo conforme a lo dispuesto por el Código Fiscal de la Federación.
 
-Las entidades receptoras deberán notificar a las empresas operadoras de los ajustes realizados por los patrones a las cédulas de determinación, en los términos que establezcan la Comisión y los institutos de seguridad social o, en su caso, deberán notificarles la información individual de las cuotas y aportaciones que paguen los patrones que no utilicen las mencionadas cédulas.
-
-La cédula de determinación, consiste en el documento mediante el cual se propone a los patrones el monto estimado que deberán pagar por cada trabajador afiliado, por concepto de cuotas por el seguro, de aportaciones al Fondo Nacional de la Vivienda y, en su caso, de descuentos que deberán realizar a sus trabajadores por concepto de créditos otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+Las cédulas de determinación, serán aquellos documentos o medios magnéticos que cumplan con los requisitos que establezcan los institutos de seguridad social.
 
 ###### ARTICULO 42.
 
@@ -433,11 +445,17 @@ El procedimiento de determinación y entero de los descuentos a los trabajadores
 
 Las administradoras que presten el servicio de distribución y recompra de sus acciones a las sociedades de inversión que administren, procederán de acuerdo a lo siguiente:
 
-I. En los términos del artículo 32 de la ley, abrirán en una institución para el depósito de valores, las cuentas necesarias para distinguir, las inversiones propias, que realicen en los términos de lo dispuesto por los artículos 27 y 28 de la ley; las de terceros, constituidas con las aportaciones de los trabajadores, así como los activos de las sociedades de inversión que administren;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
+
+I. En los términos del artículo 32 de la ley abrirán, por sí mismas o por medio de un tercero, en una institución para el depósito de valores, las cuentas necesarias para distinguir las inversiones propias que realicen en los términos de lo dispuesto por los artículos 27 y 28 de la ley, las de terceros, constituidas con las aportaciones de los trabajadores, así como los activos de cada una de las sociedades de inversión que administren;
 
 II. Celebrarán contratos de intermediación con casas de bolsa e instituciones de crédito, y
 
 III. Registrarán en la Bolsa Mexicana de Valores, todas las operaciones que realicen con acciones de las sociedades de inversión que operen, su volumen diario operado por cada una de dichas sociedades de inversión y el precio vigente resultado de la valuación de las mismas.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Cuando se presenten las minusvalías previstas en el artículo 44 de la ley, las administradoras deberán realizar los ajustes necesarios dentro del horario de la Bolsa Mexicana de Valores, a efecto de registrar el precio de las acciones de las sociedades de inversión que operen.
 
 #### Sección VII. De la Recepción de las Aportaciones a Cargo del Gobierno Federal
 
@@ -457,13 +475,15 @@ Las empresas operadoras recibirán del Banco de México la información de los d
 
 Las empresas operadoras deberán informar del resultado del cotejo mencionado en el párrafo anterior a la Comisión y a los institutos de seguridad social, así como a las entidades receptoras, en caso de que se encuentren diferencias.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 48.
 
-Las empresas operadoras deberán conciliar las cuotas y aportaciones recibidas por las entidades receptoras, para verificar que los depósitos efectuados en las cuentas del Banco de México por las entidades receptoras, correspondan a la información de las transacciones reportadas por las mismas entidades receptoras y a la información de las cédulas de determinación emitidas por los institutos de seguridad social, incluyendo los ajustes a las mencionadas cédulas que las entidades receptoras le reporten o, en su caso, la información de las cuotas y aportaciones individuales de los patrones que no utilizaron la cédula de determinación para realizar su pago.
+Las empresas operadoras deberán conciliar las cuotas y aportaciones recibidas por las entidades receptoras, para verificar que los depósitos efectuados en las cuentas del Banco de México por las entidades receptoras, correspondan a la información de las transacciones reportadas por las mismas entidades receptoras y a la información de las cédulas de determinación emitidas por los institutos de seguridad social.
 
 Las empresas operadoras deberán llevar un control del proceso de conciliación y reportar a los institutos de seguridad social, el resultado del mismo.
 
-}El reporte a que se refiere el párrafo anterior deberá indicar, por lo menos, los patrones que omitieron el pago, las cédulas de determinación que fueron pagadas, los montos respectivos y si fueron parciales o totales, los ajustes que presentaron los patrones a dichas cédulas o, en su caso, la misma información, referida a las cuotas y aportaciones individuales de los patrones que no utilizaron la cédula de determinación para realizar su pago.
+El reporte a que se refiere el párrafo anterior deberá indicar, por lo menos, las cédulas de determinación que fueron pagadas, los montos respectivos y si fueron parciales o totales.
 
 ###### ARTICULO 49.
 
@@ -499,7 +519,9 @@ La resolución, además de referirse a la procedencia del retiro, deberá conten
 
 Las administradoras deberán solicitar a las empresas operadoras que remitan a los institutos de seguridad social, la información sobre saldos de las subcuentas que éstos les requieran, a efecto de que los mismos puedan emitir la resolución sobre la procedencia del retiro.
 
-Los institutos de seguridad social informarán de la resolución a la administradora, a fin de que ésta entregue los recursos al trabajador en un plazo máximo de quince días hábiles.
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Los institutos de seguridad social informarán de la resolución a la administradora, a fin de que ésta entregue los recursos al trabajador o a la institución de seguros que designe éste, en un plazo máximo de quince días hábiles.
 
 Si en el desahogo del trámite de retiro, los institutos de seguridad social encuentran que el trabajador solicitante tiene más de un número de seguridad social, se lo informarán a las empresas operadoras, a fin de que, en su caso, coordinen el procedimiento de traspaso y unificación de cuentas previsto en el artículo 15 de este reglamento.
 
@@ -515,7 +537,7 @@ Cuando se detecte la existencia de una cuenta individual que debió ser utilizad
 
 Las administradoras deberán comunicar al Instituto Mexicano del Seguro Social las sumas de los recursos que retiren los trabajadores por los conceptos establecidos en los artículos 165 y 191 de la Ley del Seguro Social.
 
-Las administradoras deberán, asimismo, descontar las semanas de cotización en sus registros conforme a lo dispuesto por el artículo 198 de la Ley del Seguro Social.
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 20 DE ENERO DE 1998)</small>
 
 #### Sección XI. De las Pensiones en Curso de Pago
 
@@ -557,9 +579,11 @@ La Comisión podrá rechazar cualquier solicitud en caso de que no se cumpla con
 
 #### Sección I. De la Contabilidad
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 61.
 
-Las administradoras y sociedades de inversión estarán obligadas a llevar en forma consistente, libros y registros de contabilidad en los que se harán constar todas las operaciones que realicen, para lo cual operarán los sistemas de registro y catálogo de cuentas establecidos en las disposiciones de carácter general que les sean aplicables.
+Las administradoras, sociedades de inversión y empresas operadoras estarán obligadas a llevar en forma consistente, libros y registros de contabilidad en los que se harán constar todas las operaciones que realicen, para lo cual operarán los sistemas de registro y catálogo de cuentas establecidos en las disposiciones de carácter general que les sean aplicables.
 
 ###### ARTICULO 62.
 
@@ -621,9 +645,13 @@ Los resultados de la inspección se harán del conocimiento del Presidente de la
 
 La Comisión contará con inspectores y visitadores que, de conformidad a lo previsto por el artículo 95 de la ley, deberán reunir los siguientes requisitos:
 
-I. Tener cédula profesional para ejercer la profesión de Contaduría Pública, Derecho, Administración, Economía, Actuaría o Informática;
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
 
-II. Tener experiencia de cuando menos tres años en materia financiera, económica, contable, fiscal, jurídica, administrativa o de auditoría;
+I. Tener cédula profesional para ejercer profesiones afines a sus funciones;
+
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
+
+II. Tener experiencia en materia financiera, económica, contable, fiscal, jurídica, administrativa o de auditoría;
 
 III. Haber aprobado el examen de conocimientos que le aplique la Comisión;
 
@@ -697,7 +725,13 @@ III. En caso de no atender dicho citatorio, la visita de inspección se iniciar�
 
 IV. Su duración máxima será de un año, prorrogable en caso justificado, y
 
-V. Los visitadores o inspectores asignados para practicar la visita de inspección, levantarán acta circunstanciada de los hechos u omisiones de que tengan conocimiento y, en su caso, de las acciones de la visitada tendientes a obstaculizar el inicio o el desarrollo de la visita. Dicha acta deberá ser levantada en presencia de dos testigos nombrados por la visitada, y cuando ésta no los designe los nombrará el inspector o visitador, hecho que se hará constar en el acta, misma que deberá ser firmada por todos los que intervengan, haciéndose constar igualmente, los casos en que la persona visitada o los testigos se nieguen a firmarla; en todo caso se entregará copia del acta a la visitada.
+> <small>(REFORMADA, D.O.F. 20 DE ENERO DE 1998)</small>
+
+V. Los visitadores o inspectores, al notificar la cédula y entregar la orden de visita respectiva, procederán a levantar acta de inicio de visita, haciendo constar en su caso, las acciones de la visitada tendientes a obstaculizar dicho inicio. Esta acta deberá ser levantada en presencia de dos testigos nombrados por la visitada, y cuando ésta no los designe los nombrará el inspector o visitador, hecho que se hará constar en el acta, misma que deberá ser firmada por todos los que intervengan, haciéndose constar igualmente, los casos en que la persona visitada o los testigos se nieguen a firmarla; en todo caso se entregará copia del acta a la visitada.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+Los visitadores o inspectores asignados para practicar la visita de inspección, levantarán las actas circunstanciadas que estimen necesarias para hacer constar los hechos u omisiones de que tengan conocimiento y, en su caso, las acciones de la visitada tendientes a obstaculizar el desarrollo de la visita debiendo observar las formalidades previstas en el párrafo anterior.
 
 ###### ARTICULO 76.
 
@@ -725,9 +759,11 @@ Dicho informe deberá ser rendido por escrito por la persona visitada dentro de 
 
 Los inspectores y visitadores, en ejercicio de sus funciones y para el mejor cumplimiento de las comisiones encomendadas, podrán fotocopiar la documentación que obre en poder de las personas visitadas, la que, previo cotejo con sus originales, se podrá certificar por aquéllos con la asistencia de dos testigos y se anexarán tanto a los informes que rindan, como a las actas que levanten con motivo de la visita.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 81.
 
-De toda visita de inspección se levantará un acta de conclusión en el lugar donde se practicó la visita, en la que se referirán los hechos y omisiones de los que hayan conocido los inspectores o visitadores. El acta de conclusión deberá cumplir con las formalidades previstas para las actas circunstanciadas a que aluden los artículos 75, fracción V, y 77 de este reglamento.
+De toda visita de inspección se levantará un acta de conclusión en el lugar donde se practicó la visita, en la que se referirán los hechos y omisiones de los que hayan conocido los inspectores o visitadores. El acta de conclusión deberá cumplir con las formalidades previstas para las actas circunstanciadas a que aluden los artículos 75, fracción V, y 77, primer párrafo, de este reglamento.
 
 #### Sección II. De la Vigilancia
 
@@ -877,15 +913,19 @@ En relación con los reportes trimestrales que la Comisión debe dar a conocer a
 
 La Comisión suspenderá o cancelará el registro de un actuario autorizado para dictaminar planes de pensiones, un agente promotor o cualquiera otra persona física que se encuentre registrada ante la Comisión, cuando deje de satisfacer alguno o algunos de los requisitos para su registro o incurra en faltas graves en el ejercicio de su actividad.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
 ###### ARTICULO 100.
 
-Para la suspensión o cancelación del registro de las personas enunciadas en el artículo anterior o para la modificación o suspensión de la publicidad de las administradoras o sociedades de inversión a que se refiere el artículo 53 de la ley, la Comisión deberá proceder conforme a lo siguiente:
+La Comisión para suspender o cancelar el registro de un actuario autorizado para dictaminar planes de pensiones o de un agente promotor, así como para dictar la suspensión definitiva de la publicidad de las administradoras o sociedades de inversión a que se refiere el artículo 53 de la ley, deberá proceder conforme a lo siguiente:
 
 I. Notificará personalmente al interesado la determinación de que se trate;
 
-II. Concederá al interesado un plazo de quince días hábiles contado a partir de la fecha en que surta efectos la notificación, a fin de que manifieste lo que a su derecho convenga, ofreciendo o acompañando, en su caso, las pruebas que considere convenientes, y
+II. Concederá al interesado un plazo de quince días hábiles contados a partir del día siguiente de que surta efectos la notificación señalada en la fracción anterior, para manifestar lo que a su derecho convenga ofreciendo o acompañando, en su caso, las pruebas que considere convenientes, y
 
-III. Una vez analizados los argumentos hechos valer y, desahogadas y valoradas las pruebas ofrecidas, la Comisión dictará y notificará la resolución correspondiente, la cual no admitirá recurso administrativo alguno.
+III. Dictará y notificará la resolución correspondiente, la cual no admitirá recurso administrativo alguno, una vez analizados los argumentos hechos valer y desahogadas y valoradas las pruebas ofrecidas.
+
+En el caso de que el interesado no manifieste lo que a su derecho convenga dentro del plazo a que se refiere la fracción II anterior, la resolución correspondiente quedará firme.
 
 ## TRANSITORIOS
 
@@ -893,7 +933,9 @@ PRIMERO.- El presente reglamento entrará en vigor el día siguiente al de su pu
 
 SEGUNDO.- La administración y registro de la subcuenta del seguro de retiro y de las aportaciones a la subcuenta del Fondo Nacional de la Vivienda correspondientes hasta el sexto bimestre de 1996, así como de los rendimientos que generen cada una de éstas, se deberán llevar por separado de los recursos de el seguro y de los recursos destinados al Fondo Nacional de la Vivienda a partir del primer bimestre de 1997.
 
-TERCERO.- Durante el periodo previo a la entrada en vigor del artículo 35 de este reglamento, la Comisión podrá autorizar administradoras e instituciones de crédito que presten los siguientes servicios a los trabajadores que no se encuentren registrados en una administradora:
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
+
+TERCERO.- Durante el periodo previo a la entrada en vigor del artículo 35 de este reglamento, la Comisión podrá autorizar administradoras para que presten exclusivamente los siguientes servicios de administración, a los trabajadores que no se encuentren registrados en una administradora:
 
 I. Emitir estados de cuenta;
 
@@ -903,27 +945,31 @@ III. Llevar el registro del saldo de los recursos de el seguro, del seguro de re
 
 IV. Llevar el registro del saldo de la subcuenta de vivienda y de los rendimientos que genere de conformidad con la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores;
 
-V. Llevar el registro de los retiros efectuados por los trabajadores, por gastos de matrimonio o por desempleo, a que se refieren los artículos 165 y 191, fracción II, de la Ley del Seguro Social, y
+V. Llevar el registro de los retiros efectuados por los trabajadores, por gastos de matrimonio o por desempleo, a que se refieren los artículos 165 y 191, fracción II de la Ley del Seguro Social;
 
-VI. Entregar los recursos a la institución de seguros que el trabajador o sus beneficiarios hayan elegido, para la contratación de rentas vitalicias o del seguro de sobrevivencia.
+VI. Entregar los recursos a la institución de seguros que el trabajador o sus beneficiarios hayan elegido para la contratación de rentas vitalicias o del seguro de sobrevivencia, y
 
-A efecto de lo anterior, las empresas operadoras deberán proporcionar a dichas administradoras o instituciones la información relativa a las aportaciones, tasas de rendimiento y comisiones a cargo de los trabajadores que no se encuentren registrados en una administradora.
+VII. Los demás análogos o conexos que determine la Comisión.
 
-Las administradoras e instituciones de crédito autorizadas, podrán cobrar por los servicios que presten, las comisiones que determine la Comisión mediante disposiciones de carácter general, considerando las condiciones de mercado por servicios similares, que se cobren a los trabajadores registrados en las administradoras.
+A efecto de lo anterior, las empresas operadoras deberán proporcionar a las administradoras la información relativa a las aportaciones, tasas de rendimiento y comisiones a cargo de los trabajadores mencionados.
 
-CUARTO.- Los recursos acumulados hasta el sexto bimestre de 1996 en la subcuenta del seguro de retiro, invertidos en créditos a cargo del Gobierno Federal, de aquellos trabajadores que no elijan administradora, serán transferidos a la cuenta concentradora que, en términos de la ley, le llevará el Banco de México al Instituto Mexicano del Seguro Social.
+Por lo que se refiere al seguro de retiro, la prestación de los servicios de administración señalados en este artículo, se deberá realizar cuando medie petición de los trabajadores y sus cuotas y aportaciones correspondientes a dicho seguro de retiro estén plenamente identificadas.
 
-Los recursos acumulados hasta el sexto bimestre de 1996 en la subcuenta del Fondo Nacional de la Vivienda, de aquellos trabajadores que no elijan administradora, se mantendrán invertidos en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+Las administradoras autorizadas a prestar los servicios de administración podrán cobrar la comisión que determine la Comisión mediante disposiciones de carácter general. Para tal efecto, considerarán las condiciones de mercado por servicios similares que se cobren a los trabajadores registrados en las administradoras.
 
-Las instituciones de crédito llevarán el registro de los recursos mencionados en los párrafos anteriores y sus rendimientos y expedirán los estados de cuenta a los trabajadores, hasta en tanto se presente cualquiera de los siguientes supuestos:
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1998)</small>
 
-a) La Comisión autorice las entidades a que se refiere el artículo tercero transitorio de este reglamento;
+CUARTO.- Los recursos acumulados hasta el tercer bimestre de 1997 en la subcuenta del seguro de retiro, invertidos en créditos a cargo del Gobierno Federal, de aquellos trabajadores que no elijan administradora, serán transferidos a la cuenta concentradora que, en términos de la ley, le llevará el Banco de México al Instituto Mexicano del Seguro Social.
 
-b) Los trabajadores traspasen sus cuentas; o
+Los recursos acumulados hasta el tercer bimestre de 1997 en la subcuenta del Fondo Nacional de la Vivienda, de aquellos trabajadores que no elijan administradora, se mantendrán invertidos en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
 
-c) La Comisión indique las administradoras a las que deberán traspasarse las cuentas de los trabajadores.
+Las Instituciones de crédito llevarán el registro de los recursos mencionados en los párrafos anteriores, así como de sus rendimientos, y expedirán los estados de cuenta a los trabajadores, hasta en tanto se identifiquen plenamente los recursos y las cuentas individuales a traspasar y se presente cualquiera de los siguientes supuestos:
 
-Por los servicios mencionados, las instituciones de crédito podrán cobrar las comisiones que determine la Comisión, considerando las condiciones de mercado por servicios similares que se cobren a los trabajadores registrados en las administradoras.
+a) Los trabajadores traspasen sus cuentas, o pidan a una administradora que les preste los servicios a que se refiere el artículo anterior, o
+
+b) La Comisión indique las administradoras a las que deberán traspasarse las cuentas de los trabajadores.
+
+Por los servicios mencionados, las instituciones de crédito podrán cobrar las comisiones que determine la Comisión, considerando las comisiones de mercado por servicios similares que se cobren a los trabajadores registrados en las administradoras.
 
 QUINTO.- Las instituciones de crédito recibirán el entero extemporáneo de las cuotas del seguro de retiro y de las aportaciones al Fondo Nacional de la Vivienda que correspondan a los bimestres anteriores al primero de enero de 1997. En el caso de que las cuentas individuales destinatarias de dichas cuotas y aportaciones hayan sido traspasadas a las administradoras, las instituciones mencionadas deberán informarlo a las empresas operadoras, con el objeto de que los recursos sean canalizados a las cuentas individuales de los trabajadores.
 
@@ -932,3 +978,9 @@ SEXTO.- La unificación y traspaso de cuentas individuales a nombre de un trabaj
 SEPTIMO.- Los artículos de la Ley del Seguro Social que se citan en este reglamento se refieren a la Ley del Seguro Social publicada en el Diario Oficial de la Federación el 21 de diciembre de 1995.
 
 Dado en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los nueve días del mes de octubre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Guillermo Ortiz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 20 DE ENERO DE 1998.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
