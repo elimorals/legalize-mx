@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-ingresos-del-estado-de-mexico-para-el-ejercicio-35536"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2003-12-30"
-last_updated: "2003-12-30"
+last_updated: "2004-06-04"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE INGRESOS DEL ESTADO DE MEXICO PARA EL EJERCICIO FISCAL DE 2004
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 4 DE JUNIO DE 2004.
 
 Ley publicada en la Sección Segunda de la Gaceta del Gobierno, el 30 de diciembre de 2003.
 
@@ -45,37 +45,45 @@ La Hacienda Publica del Estado de México percibirá durante el ejercicio fiscal
 
 (VER TABLA ANEXA)
 
+> <small>(REFORMADO PRIMER PARRAFO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 2.
 
-Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento neto autorizado, contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto equivalente al 4% del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal de 2004, que serán destinados exclusivamente para obra o acciones que produzcan beneficios a la población.
+Se autoriza al Ejecutivo del Estado para que obtenga un endeudamiento autorizado, contratado en términos del Título Octavo del Código Financiero del Estado de México y Municipios, hasta por un monto de $6,612'000,000.00 equivalente una vez descontadas las amortizaciones de deuda pública, a un endeudamiento neto de hasta $2,804'423,000.00, que representa el 4% del total de los ingresos ordinarios que se obtengan en el ejercicio fiscal de 2004, que será destinado exclusivamente a inversión pública productiva en términos del Código Financiero del Estado de México y Municipios.
 
-El Gobernador del Estado por conducto de la Secretaría de Finanzas, Planeación y Administración, podrá emitir valores durante el ejercicio fiscal de 2004, en términos de lo establecido en el decreto número 85, aprobado por la LIV Legislatura, publicado en el periódico oficial "Gaceta del Gobierno" del 31 de julio de 2002, hasta por 1 mil millones de pesos, monto que se incluye dentro del porcentaje de endeudamiento neto autorizado.
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
-Al reporte trimestral que prevé el Título Octavo del Código Financiero del Estado de México y Municipios, específicamente en su artículo 263 fracción XI, que el Ejecutivo del Estado envíe a la Legislatura, deberá acompañarse la información que comprenda los pagos realizados por concepto de obras o acciones que produzcan beneficios a la población, y el porcentaje que represente el monto de la emisión y colocación de valores que estén destinados a circular en el mercado de valores, durante el período correspondiente.
+El Gobernador del Estado por conducto de la Secretaría de Finanzas, Planeación y Administración, podrá emitir valores durante el ejercicio fiscal de 2004, en términos de lo establecido en el decreto número 85, aprobado por la LIV Legislatura, publicado en el periódico oficial "Gaceta del Gobierno" del 31 de julio de 2002, hasta por 1 mil millones de pesos, monto que se incluye dentro del porcentaje de endeudamiento autorizado.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
+Al reporte trimestral que prevé el Título Octavo del Código Financiero del Estado de México y Municipios, específicamente en su artículo 263 fracción XI, que el Ejecutivo del Estado envíe a la Legislatura, deberá acompañarse la información que comprenda los pagos realizados por concepto de financiamiento de inversión pública productiva en términos del Código Financiero del Estado de México y Municipios, y el porcentaje que represente el monto de la emisión y colocación de valores que estén destinados a circular en el mercado de valores, durante el periodo correspondiente.
 
 En materia de deuda pública ningún empréstito podrá contratarse en contravención a lo que expresamente establece la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
+
 ###### Artículo 3.
 
-Solamente en las condiciones a que se refiere el artículo anterior, los organismos auxiliares y fideicomisos del Gobierno del Estado en su conjunto podrán contratar durante el ejercicio fiscal de 2004, hasta $600'000,000. en endeudamiento neto autorizado, facultándose al Ejecutivo del Estado para otorgar su aval hasta por esa cantidad. Estas operaciones se computarán dentro del límite del 4% de los ingresos ordinarios a que se refiere el articulo anterior.
+Solamente en las condiciones a que se refiere el artículo anterior, los organismos auxiliares del Gobierno del Estado en su conjunto podrán contratar durante el ejercicio fiscal de 2004, hasta $800'000,000.00 (ochocientos millones de pesos 00/100 Moneda Nacional) en endeudamiento autorizado, facultándose al Ejecutivo del Estado para otorgar su aval hasta por esa cantidad. Estas operaciones se computarán dentro del límite del endeudamiento autorizado a que e refiere el artículo anterior.
 
-El Ejecutivo del Estado podrá otorgar su aval a los gobiernos municipales hasta por $600'000.000. en endeudamiento neto autorizado destinado exclusivamente para obras o acciones que produzcan beneficios a la población y se contraten para el ejercicio fiscal de 2004. El Estado podrá afectar como fuente o garantía de pago, o ambas, de las obligaciones que contraiga incluyendo la emisión de valores representativos de un pasivo a su cargo para su colocación en el mercado de valores así corno de los avales que preste, sus ingresos derivados de contribuciones, productos, aprovechamientos y accesorios, así como las participaciones derivadas del Sistema Nacional de Coordinación Fiscal.
+Para el ejercicio fiscal de 2004 el Ejecutivo del Estado podrá otorgar su aval a los gobiernos municipales hasta por $600'000.000.00 en endeudamiento autorizado destinado exclusivamente al financiamiento de inversión pública productiva en términos del Código Financiero del Estado de México y Municipios. Estas operaciones se computarán dentro del límite del endeudamiento autorizado a que se refiere el artículo anterior.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2004)</small>
 
 ###### Artículo 4.
 
-Los ingresos provenientes de los conceptos enumerados en el artículo 1 de esta Ley, se recaudarán por la Secretaría de Finanzas, Planeación y Administración en sus oficinas receptoras, en la Caja General de la Subsecretaría de Tesorería General de la propia Secretaría, en instituciones de crédito de banca múltiple autorizadas para tal efecto, así como por los ayuntamientos con los que se convenga que realicen por cuenta de la dependencia la captación de los ingresos públicos para su concentración correspondiente al erario estatal.
+Los ingresos provenientes de los conceptos enumerados en el artículo 1 de esta Ley, se recaudarán por la Secretaría de Finanzas, Planeación y Administración en sus oficinas receptoras, en la Caja General de la Subsecretaría de Tesorería General de la propia Secretaría, en instituciones de crédito de banca múltiple autorizadas para tal efecto, así como por los ayuntamientos con los que se convenga que realicen por cuenta de la dependencia la captación de los ingresos públicos para su concentración correspondiente al erario estatal; salvo los ingresos afectos en fideicomisos de garantía o fuente de pago, los cuales serán percibidos de manera directa por dichos fideicomisos.
 
-En el caso de los ingresos a que se refiere el punto 7.1 del mismo artículo 1 de esta Ley, serán recaudados por los propios organismos descentralizados, fideicomisos y empresas de participación estatal.
+En el caso de los ingresos a que se refiere el punto 7.1 del mismo artículo 1 de esta Ley, serán recaudados por los propios organismos auxiliares.
 
-Cuando los ingresos propios excedan los límites aprobados por la Legislatura, estos deberán ser asignados y aplicados en primera instancia a programas de obra pública y al pago de la deuda pública del Estado; debiendo informar a la Legislatura, de los porcentajes que se hubieran aplicado a cada uno de los rubros antes señalados; cualquier asignación diferente requerirá la valoración y aprobación de la Legislatura.
+Cuando los ingresos propios excedan los límites aprobados por la Legislatura, éstos deberán ser asignados y aplicados en primera instancia a programas de obra pública y al pago de la deuda pública del Estado; debiendo informar a la Legislatura, de los porcentajes que se hubieran aplicado a cada uno de los rubros antes señalados; cualquier asignación diferente requerirá la valoración y aprobación de la Legislatura.
 
 En el caso de que se registren ingresos superiores a los aprobados, la Secretaría de Finanzas, Planeación y Administración deberá informar respecto de los mismos a la Legislatura del Estado, y su aplicación se hará en términos de lo establecido en el Código Financiero del Estado de México y Municipios, y el Presupuesto de Egresos correspondiente.
 
-Para la validez del pago de las diversas prestaciones o contraprestaciones a que alude este ordenamiento, éstas deberán ingresarse al erario estatal; para su comprobación, el contribuyente deberá obtener el recibo oficial correspondiente, que será expedido por la autoridad fiscal o la institución bancaria autorizada.
+Las cantidades recaudadas deberán depositarse en las cuentas bancarias autorizadas, debiendo inscribirse cualquiera que sea su forma o naturaleza, tanto en los registros de la propia Secretaría como en la cuenta pública que ésta formule.
 
-Las cantidades recaudadas deberán depositarse en 1as cuentas bancarias autorizadas, debiendo inscribirse cualquiera que sea su forma o naturaleza, tanto en los registros de la propia Secretaría como en la cuenta pública que ésta formule.
-
-Las dependencias, Procuraduría, unidades administrativas, tribunales administrativos, organismos auxiliares y fideicomisos del Gobierno del Estado de México, presentarán ante la Secretaría de Finanzas, Planeación y Administración, a más tardar en febrero de 2004, una declaración informativa sobre los ingresos percibidos durante el ejercicio de 2003 por concepto de contribuciones, aprovechamientos, productos, precios públicos y tarifas.
+Las dependencias, Procuraduría, unidades administrativas, tribunales administrativos y organismos auxiliares del Gobierno del Estado de México, presentarán ante la Secretaría de Finanzas, Planeación y Administración, a más tardar en febrero de 2004, una declaración informativa sobre los ingresos percibidos durante el ejercicio de 2003 por concepto de contribuciones, aprovechamientos, productos, precios públicos y tarifas.
 
 La Secretaría de Finanzas, Planeación y Administración remitirá a la Legislatura del Estado la información declaratoria de los ingresos percibidos durante el ejercicio fiscal de 2003, según los conceptos descritos en el párrafo anterior, de las dependencias, Procuraduría, unidades administrativas, tribunales administrativos, organismos auxiliares y fideicomisos, que se presentará a más tardar, los primeros quince días del mes de marzo de 2004.
 
@@ -218,3 +226,39 @@ EL SECRETARIO GENERAL DE GOBIERNO
 MANUEL CADENA MORALES
 
 (RUBRICA).
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+G.G. 4 DE JUNIO DE 2004.
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+Las Secretarías de Finanzas, Planeación y Administración y de la Contraloría, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+###### ARTICULO CUARTO.
+
+El presente Decreto prevalecerá sobre cualquier disposición que se oponga al mismo. Asimismo, se entienden modificados conforme a los términos del presente Decreto cualesquiera otros decretos o disposiciones mediante los cuales se haya autorizado la contratación de las obligaciones de deuda pública cuya reestructuración se autoriza mediante el presente Decreto.
+
+###### ARTICULO QUINTO.
+
+El Gobernador, por conducto de la Secretaría de Finanzas, Planeación y Administración deberá realizar todas (sic) los actos y gestiones necesarios a efecto de desafectar las participaciones que en ingresos federales correspondan al Estado que a la fecha se encuentren comprometidas, con la finalidad de aportar el derecho a la totalidad de las participaciones que en ingresos federales corresponden al Estado al fideicomiso a que se refiere el presente decreto. Lo previsto en este artículo no podrá entenderse en perjuicio de derechos adquiridos por terceros.
+
+###### ARTICULO SEXTO.
+
+A partir del inicio de la vigencia del presente decreto, el Ejecutivo del Estado dispondrá de sesenta días naturales, para llevar a cabo las modificaciones al Reglamento de la Ley para la Coordinación y Control de los Organismos Auxiliares y Fideicomisos del Estado de México, que se derivan del mismo.
+
+###### ARTICULO SEPTIMO.
+
+Todas aquellas disposiciones legales y reglamentarias que refieran a la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México, se entenderán referidas a la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
+
+###### ARTICULO OCTAVO.
+
+El Ejecutivo Estatal, a través de la Secretaría de Finanzas, Planeación y Administración, deberá informar a la Legislatura del Estado a través del Comité especial a que se refiere el punto 13 del artículo sexto del presente decreto, sobre todos los actos jurídicos que celebre para dar cumplimiento a lo establecido en dicho artículo sexto del presente decreto, una vez formalizado (sic) dichos actos jurídicos.
