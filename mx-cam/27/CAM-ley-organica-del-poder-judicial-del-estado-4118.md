@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-judicial-del-estado-4118"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1980-12-04"
-last_updated: "1997-01-15"
+last_updated: "1999-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 1997.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE JUNIO DE 1999.
 
-Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el día jueves 4 de diciembre de 1980.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el jueves 4 de diciembre de 1980.
 
 ING. EUGENIO ECHEVERRIA CASTELLOT, Gobernador Constitucional del Estado Libre y Soberano de Campeche, a sus habitantes, sabed:
 
@@ -165,7 +165,7 @@ II.- El juzgado menor del Carmen, con sede en la ciudad del mismo nombre, solo t
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1990)</small>
 
-III.- El juzgado menor de Escárcega, con sede en la ciudad del mismo nombre, tendrá jurisdicción sobre todas las poblaciones del propio municipio de Escárcega, así como sobre las poblaciones de los municipios de Carmen, Hopelchén y Champotón, incorporadas al tercer distrito judicial.
+III.- El juzgado menor de Escárcega, con sede en la ciudad del mismo nombre, tendrá jurisdicción sobre todas las poblaciones del propio municipio de Escárcega, así como sobre las poblaciones de los municipios de Carmen, Hopelchén y Champotón, incorporadas al tercer distrito judicial;
 
 > <small>(REFORMADA P.O. 4 DE OCTUBRE DE 1986)</small>
 
@@ -449,7 +449,9 @@ El presidente del Tribunal Superior será suplido en sus faltas accidentales o t
 
 El Tribunal Superior de Justicia funcionará ordinariamente en Salas permanentes especializadas por materia o ramo. Cuando por necesidades del servicio haya más de una Sala permanente especializada en la misma materia para distinguirlas serán designadas por número ordinal. Cada una de las Salas permanentes se integrará con tres magistrados numerarios, uno de los cuales fungirá como presidente de la misma. Los presidentes de las Salas permanentes se elegirán por votación mayoritaria de los miembros del Tribunal Pleno, en la última sesión que éste celebre en el mes de Diciembre, durarán un año en el cargo y podrán ser reelectos, por una sola vez, para el período inmediato siguiente.
 
-Cuando por el incremento en el número de asuntos turnados a su conocimiento, alguna de las Salas del Tribunal tuviere rezago o se encuentre en riesgo de tenerlo, su presidente lo hará del conocimiento del Pleno y éste, si juzga innecesario el crear una nueva Sala de carácter permanente, mediante acuerdo debidamente fundado y motivado que se publicará en el Periódico Oficial del Estado, podrá crear con carácter provisional una Sala auxiliar de la permanente integrada por el presidente de ésta y los dos magistrados supernumerarios, apoyados por el personal al servicio de la secretaría y actuaría de la indicada Sala permanente. Su inclusión en la Sala auxiliar no relevará a los magistrados supernumerarios del cumplimiento de las demás obligaciones inherentes a su cargo en términos de esta ley. El presidente de la Sala auxiliar como tal queda obligado a formular ponencia, pero relevado de hacerlo en la Sala permanente entretanto desempeñe ambas presidencias. Al concluir su encargo como presidente de la Sala auxiliar, comenzará a proyectas (sic) en la Sala permanente de acuerdo con el turno establecido.
+> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+Cuando por el incremento en el número de asuntos turnados a su conocimiento, alguna de las Salas del Tribunal tuviere rezago o se encuentre en riesgo de tenerlo, su presidente lo hará del conocimiento del Pleno y éste, si juzga necesario el crear una nueva Sala de carácter permanente, mediante acuerdo debidamente fundado y motivado que se publicará en el Periódico Oficial del Estado, podrá crear con carácter provisional una Sala auxiliar de la permanente integrada por el presidente de ésta y dos magistrados. El Presidente de la Sala auxiliar como tal, queda obligado a formular ponencia, pero relevado de hacerlo en la Sala permanente entretanto desempeñe ambas presidencias. Al concluir su encargo como presidente de la Sala auxiliar, comenzará a proyectar en la Sala permanente de acuerdo con el turno establecido.
 
 La Sala auxiliar entrará en funcionamiento a partir del primer día hábil del mes siguiente al de su creación y por un lapso de tres meses se avocará a la pertinente resolución de los asuntos en rezago que le fueren transferidos por la presidencia de la correspondiente Sala. Agotados tales asuntos, o el lapso de su funcionamiento, el presidente de la Sala auxiliar lo hará del conocimiento del Tribunal Pleno para que éste acuerde la prórroga que procediere, o emita declaración formal de conclusión del ejercicio de la Sala auxiliar. Salvo su transitoriedad, la competencia y atribuciones de la Sala auxiliar son similares a las de la respectiva Sala permanente.
 
@@ -1501,19 +1503,99 @@ El oficial mayor del Tribunal Superior de Justicia y los jueces dictarán las me
 
 Los titulares de las oficinas, presentarán al oficial mayor del Tribunal cualquier queja que tuvieren con relación a sus intendentes, para el efecto de que se tomen las medidas pertinentes, dándole cuenta, en su caso, al presidente del Tribunal Superior de Justicia.
 
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P O. 4 DE JUNIO DE 1999)</small>
+
+## TITULO SEPTIMO BIS
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JUNIO DE 1999)</small>
+
+### CAPITULO PRIMERO. Del Centro de Capacitación y Actualización
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+1.- Para el fomento de la enseñanza jurídica, la capacitación, evaluación y selección de los servidores públicos judiciales, el Poder Judicial del Estado tendrá un Centro de Capacitación y Actualización, que dependerá del Presidente del Tribunal.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+2.- Son funciones del Centro:
+
+I.- Diseñar y aplicar los métodos y sistemas de enseñanza y capacitación jurídica, y de evaluación y selección de personal, para su ingreso en la carrera judicial;
+
+II.- Elaborar el Programa Anual de Capacitación y Actualización de los Servidores del Poder Judicial del Estado, determinando los niveles y categorías del personal obligado a recibirlas; y someterlo a la aprobación del Pleno del Tribunal, durante la primera quincena del mes de enero;
+
+III.- Realizar cursos, seminarios, talleres y conferencias dirigidos a los servidores del Poder Judicial;
+
+IV.- Concertar la celebración de convenios entre el Honorable Tribunal y Universidades e Instituciones de Educación Superior Estatales, Nacionales e Internacionales, para el mejoramiento profesional de los servidores del Poder Judicial;
+
+V.- Evaluar la participación de los servidores públicos del Poder Judicial en los Programas de Capacitación y Actualización, informando al Pleno del Tribunal para efectos de su vinculación con la carrera judicial;
+
+VI.- Diseñar y aplicar los exámenes de oposición para la opción a los cargos de Secretario General de Acuerdos del Tribunal Superior de Justicia, Juez de Primera Instancia, Juez Menor, Secretario de Acuerdos de Sala, Secretarios y Auxiliares de Sala, Secretario de Acuerdos de Primera Instancia y Actuario, de conformidad con el Reglamento respectivo, previa aprobación del Pleno del Tribunal;
+
+VII.- Planear y dirigir el buen funcionamiento de la Biblioteca del Poder Judicial del Estado;
+
+VIII.- Todas aquellas que le asigne el Pleno y la Presidencia.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+3.- El Centro contará con un Director, un Secretario Académico, con el número de Coordinadores , Investigadores y demás personal académico y administrativo que se requiera para el eficaz cumplimiento de sus funciones, y que permita el Presupuesto de Egresos del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+4.- El Director y demás servidores del Centro serán nombrados por el Pleno del Tribunal. Para ser Director, se requiere satisfacer los requisitos que dispone el artículo 84 de la Constitución Política del Estado de Campeche.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+5.- Los casos no previstos serán resueltos por el honorable Pleno del Tribunal Superior de Justicia del Estado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 4 DE JUNIO DE 1999)</small>
+
+### CAPITULO SEGUNDO. De la Carrera Judicial
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+6.- El ingreso, la formación, actualización, promoción y permanencia de los servidores públicos del Poder Judicial se hará mediante el sistema de carrera judicial, el cual se regirá por los principios de excelencia, profesionalismo, objetividad, imparcialidad, independencia y antigüedad.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+7.- La Carrera Judicial comprende las siguientes categorías:
+
+I.- Secretario General de Acuerdos del Tribunal Superior de Justicia;
+
+II.- Juez de Primera Instancia;
+
+III.- Juez Menor;
+
+IV.- Secretario de Acuerdos de Sala;
+
+V.- Secretario Auxiliar de Sala;
+
+VI.- Secretario de Acuerdos de Primera Instancia;
+
+VII.- Actuario.
+
+> <small>(ADICIONADO, P.O. 4 DE JUNIO DE 1999)</small>
+
+###### Artículo 142
+
+8.- El ingreso en promoción para las categorías que conforman la carrera judicial, se realizará mediante concursos de oposición o selección, los cuales serán aplicados por el Centro de Capacitación y Actualización, de acuerdo a las reglas que para el efecto disponga el Reglamento respectivo.
+
 ## TITULO OCTAVO
 
 ### CAPITULO PRIMERO. De las Responsabilidades
-
-### CAPITULO SEGUNDO. De las Faltas Oficiales
-
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
-
-## TITULO OCTAVO-BIS. Del Fondo para el Mejoramiento de la Administración de Justicia
-
-### CAPITULO UNICO
-
-> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
 
 ###### Artículo 143.
 
@@ -1541,7 +1623,7 @@ Los demás funcionarios y empleados judiciales serán procesados por los delitos
 
 Los funcionarios y empleados del Poder Judicial que fueren procesados, quedarán suspendidos temporalmente de sus cargos, al decretarse su formal prisión o sujeción a proceso, hasta en tanto se dicte sentencia. En caso de ser absolutoria, podrá volver a ocupar su cargo.
 
-### CAPITULO UNICO. Disposiciones Generales
+### CAPITULO SEGUNDO. De las Faltas Oficiales
 
 ###### Artículo 149.
 
@@ -1715,6 +1797,10 @@ Durante el curso de los procesos electorales quedan temporalmente exceptuados de
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 10 DE JULIO DE 1996)</small>
 
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1996)</small>
+
 ###### Artículo 161
 
 1.- El Poder Judicial contará con un fondo para el mejoramiento de la Administración de Justicia que como objeto tendrá el de ser fuente de generación de recursos para:
@@ -1844,6 +1930,8 @@ V.- Las demás que le confieran esta ley, los reglamentos que de ella se deriven
 14.- A efecto de que el Consejo Técnico pueda llevar un control y seguimiento de las multas, cauciones, bienes mostrencos y reparaciones de daño aludidos en las fracciones I a V del artículo 161-3, los secretarios de acuerdos de las Salas del Tribunal Superior y de los juzgados remitirán al director de contabilidad, con la periodicidad que éste les indique, una relación pormenorizada de aquellos, mencionando montos, descripciones, número de expediente o toca y fecha de los acuerdos respectivos. El director de contabilidad dará cuenta con dicha relación al Consejo Técnico.
 
 ## TITULO NOVENO
+
+### CAPITULO UNICO. Disposiciones Generales
 
 ###### Artículo 162.
 
@@ -1999,8 +2087,14 @@ SEGUNDO.- SE DEROGAN CUALESQUIERA DISPOSICIONES LEGALES, REGLAMENTARIAS O ADMINI
 
 DECIMO PRIMERO.- TAN PRONTO QUEDE INSTALADA LA SALA ADMINISTRATIVA, TODOS LOS JUICIOS Y LOS RECURSOS DE RECLAMACION QUE, CON ARREGLO AL INVOCADO ARTICULO TERCERO TRANSITORIO QUE SE DEROGA, SE ENCUENTRE EN TRAMITE RESPECTIVAMENTE ANTE LOS JUZGADOS DE PRIMERA INSTANCIA DEL RAMO CIVIL O EL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO SE TURNARAN EN EL ESTADO EN QUE SE ENCUENTREN A DICHA SALA ADMINISTRATIVA, PARA QUE, EN SU OPORTUNIDAD, SE AVOQUE AL CONOCIMIENTO DE LOS MISMOS.
 
-P.O. 15 DE ENERO DE 1997.
+P.O. 15 DE ENERO DE 1997
 
 PRIMERO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas la disposiciones legales y reglamentarias en lo que se opongan al contenido de este Decreto.
+
+P.O. 4 DE JUNIO DE 1999.
+
+Primero.- El presente decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
