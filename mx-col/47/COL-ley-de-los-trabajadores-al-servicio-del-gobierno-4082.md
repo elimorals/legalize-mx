@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "1992-01-04"
+last_updated: "1996-10-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE OCTUBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -45,9 +45,11 @@ Principios Generales del Trabajo Burocrático.
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P. O. 26 DE OCTUBRE 1996)</small>
+
 ###### ARTICULO 1.
 
-La presente Ley es reglamentaria de la fracción IX del Artículo 87 de la Constitución Política del Estado Libre y Soberano de Colima, y tiene por objeto normar la relación de trabajo entre el Gobierno del Estado, los Ayuntamientos y los Organismos Descentralizados con sus respectivos trabajadores, así como determinar sus derechos y obligaciones. Se excluyen los trabajadores de la educación que estén sujetos a la Ley de Educación del Estado de Colima.
+La presente Ley es reglamentaria del a (sic) fracción IX del artículo 87 de la Constitución Política del Estado Libre y Soberano de Colima y tiene por objeto normar la relación de trabajo entre el Gobierno del Estado, los Ayuntamientos y los Organismos Descentralizados con sus respectivos trabajadores, así como determinar sus derechos y obligaciones. Se excluyen los trabajadores de la educación que estén sujetos a la Ley de Educación del Estado y los trabajadores de los servicios públicos de salud que estén sujetos a la Ley de Salud del Estado.
 
 ###### ARTICULO 2.
 
@@ -1344,3 +1346,9 @@ Por lo tanto mando se imprima, circule y observe.
 Palacio de Gobierno, Colima, Colima, Diciembre 24 de 1991.
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. CARLOS DE LA MADRID VIRGEN.- Rúbrica.- SECRETARIO GENERAL DE GOBIERNO, LIC. JOSE DELGADO MAGAÑA.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 26 DE OCTUBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
