@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-251-que-crea-el-sistema-estatal-de-coordinacion-1473
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-28"
-last_updated: "2001-06-01"
+last_updated: "2001-12-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 251 QUE CREA EL SISTEMA ESTATAL DE COORDINACION FISCAL Y ESTABLECE LAS BASES, MONTOS Y PLAZOS A LOS QUE SE SUJETARAN LAS PARTICIPACIONES FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el miércoles 28 de diciembre de 1988.
 
@@ -53,9 +53,9 @@ III.- Hacer evaluaciones periódicas sobre el desarrollo hacendario en la Entida
 
 IV.- Proponer elementos susceptibles de ser considerados en las bases que conforme al Artículo 115 de la Constitución General de la República se definen en esta Ley para la distribución de las participaciones federales que correspondan a las haciendas públicas municipales y sobre su aplicación;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-V.- Coadyuvar a la distribución equitativa de las participaciones que correspondan a los Ayuntamientos a cargo del Fondo General de Participaciones, Fondo Financiero Complementario y Fondo de Fomento Municipal, en los términos de la Ley de Coordinación Fiscal y de los Convenios de Colaboración Administrativa celebrados, y
+V.- Coadyuvar a la distribución equitativa de las participaciones que correspondan a los Ayuntamientos, en los términos de la Ley de Coordinación Fiscal y de los Convenios de Colaboración Administrativa celebrados, y
 
 VI.- Definir el funcionamiento de los órganos del Sistema Estatal de Coordinación Fiscal.
 
@@ -99,9 +99,15 @@ Con las proporciones correspondientes al Fondo General de Participaciones, al Im
 
 El fondo común de participaciones a Municipios se distribuirá de la siguiente manera:
 
-a).- El 15% se destinará para compensar a aquellos Municipios que vean afectadas sus participaciones por el cambio de fórmula, en relación a lo que recibían hasta el mes de diciembre del 2000.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-b).- El 85% restante se distribuirá de acuerdo al grado de marginación a nivel de localidad y a su población residente, de la siguiente manera:
+a).- El 10% se asignará para garantizar a aquellos municipios que debido al cambio de fórmula, vean afectadas sus participaciones, reciban recursos financieros en términos nominales iguales a los del ejercicio fiscal inmediato anterior.
+
+En caso de que hubiera un remanente, éste se distribuirá entre los municipios de acuerdo al grado de marginación a nivel localidad y a su población residente tal como se señala en las fracciones I, II, III, IV y V del inciso b) del presente artículo. Los montos asignados a los municipios por concepto de este porcentaje serán publicados en el Periódico Oficial del Gobierno del Estado y en un diario de circulación estatal, en forma trimestral.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
+
+b).- El 90% restante se distribuirá de acuerdo al grado de marginación a nivel localidad y a su población residente, de la siguiente manera:
 
 I.- El 33.134% para los Municipios con localidades de marginación "muy alta".
 
@@ -113,47 +119,59 @@ IV.- El 10.331% para los Municipios con localidades de marginación "baja".
 
 V.- El 33.210% para los Municipios con localidades de marginación "muy baja".
 
-La participación del fondo de común para el iésimo Municipio sería:
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2001)</small>
 
-PFCMI =(0.85 X FC) X [(PRLMMAMI / PRLMMAE) X 0.33134 + (PRLMAMI / PRLMAE) X 0.11368 + (PRLMMMI / PRLMME) X 0.11957 + (PRLMBMI / PRLMBE) X 0.10331 + (PRLMMBMI / PRLMMBE) X 0.33210]
+La participación del Fondo Común para el iésimo municipio sería:
+
+PFCMi = (0.88 X FC) X [(PRLMmaMi
+
+/ PRLMmaE) X 0.33134 + (PRLMaMi
+
+/ PRLMaE) X 0. 11368 + (PRLMmMi
+
+/ PRLMmE) X 0.11957 + (PRLMbMi
+
+/ PRLMbE) X 0.10331 + (PRLMmbMi
+
+/ PRLMmbE) X 0.33210]
 
 Donde:
 
-PFCMI = Participaciones del fondo común al iésimo Municipio.
+PFCM = Participaciones del Fondo Común al iésimo municipio.
 
-0.85 = Porcentaje a distribuir del fondo común.
+0.88 = Porcentaje a distribuir del Fondo Común.
 
-FC = Monto en pesos del fondo común.
+FC = Monto en pesos del Fondo Común.
 
-PRLMMAMI = Población residente en localidades con grado de marginación "muy alta" del iésimo Municipio.
+PRLMmaMi = Población residente en localidades con grado de marginación "muy alta" del iésimo municipio.
 
-PRLMMAE = Población residente en localidades con grado de marginación "muy alta" en el Estado.
+PRLMmaE = Población residente en localidades con grado de marginación "muy alta" en el Estado.
 
-0.33134 = Porcentaje asignado a los Municipios con localidades cuyo grado de marginación es "muy alta"
+0.33134 = Porcentaje asignado a los municipios con localidades cuyo grado de marginación es "muy alta".
 
-PRLMAMI = Población residente en localidades con grado de marginación "alta" del iésimo Municipio.
+PRLMaMi = Población residente en localidades con grado de marginación "alta" del iésimo municipio.
 
-PRLMAE= Población residente en localidades con grado de marginación "alta" en el Estado.
+PRLMaE = Población residente en localidades con grado de marginación "alta" en el Estado.
 
-0.11368= Porcentaje asignado a los Municipios con localidades cuyo grado de marginación es "alta".
+0.11368 = Porcentaje asignado a los municipios con localidades cuyo grado de marginación es "alta".
 
-PRLMMMI= Población residente en localidades con grado de marginación "media" del iésimo Municipio.
+PRLMmMi = Población residente en localidades con grado de marginación "media" del iésimo Municipio.
 
-PRLMME= Población residente en localidades con grado de marginación "media" en el Estado.
+PRLMmE = Población residente en localidades con grado de marginación "media" en el Estado.
 
-0.11957= Porcentaje asignado a los Municipios con localidades cuyo grado de marginación es "media".
+0.11957 = Porcentaje asignado a los municipios con localidades cuyo grado de marginación es "media".
 
-PRLMBMI= Población residente en localidades con grado de marginación "baja" del iésimo Municipio.
+PRLMbMi = Población residente en localidades con grado de marginación "baja" del iésimo municipio.
 
-PRLMBE= Población residente en localidades con grado de marginación "baja" en el Estado.
+PRLMbE = Población residente en localidades con grado de marginación "baja" en el Estado.
 
-0.10331= Porcentaje asignado a los Municipios con localidades cuyo grado de marginación es "baja".
+0.10331 = Porcentaje asignado a los municipios con localidades cuyo grado de marginación es "baja".
 
-PRLMMBMI= Población residente en localidades con grado de marginación "muy baja" del iesimo Municipio.
+PRLMmbMi = Población residente en localidades con grado de marginación "muy baja" del iésimo municipio.
 
-PRLMMBE= Población residente en localidades con grado de marginación "muy baja" en el Estado.
+PRLMmbE = Población residente en localidades con grado de marginación "muy baja" en el Estado.
 
-0.33210= Porcentaje asignado a los Municipios con localidades cuyo grado de marginación es "muy baja".
+0.33210 = Porcentaje asignado a los municipios con localidades cuyo grado de marginación es "muy baja".
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -386,3 +404,35 @@ El presente Decreto entrará en vigor a partir del 1 de enero del 2001.
 P.O. 1 DE JUNIO DE 2001.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 28 DE DICIEMBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+Los porcentajes de distribución del Fondo Común, que se utilizan en el artículo 7o. incisos a) y b) de la Ley 251 que crea el Sistema Estatal de Coordinación Fiscal y Establece las Bases, Montos y Plazos a los que se sujetarán las Participaciones Federales, tendrán el siguiente comportamiento
+
+EJERCICIO % a en % a en
+
+FISCAL utilizar utilizar
+
+en el en el
+
+inciso a) el inciso b)
+
+2002 10% 90%
+
+2003 8% 92%
+
+2004 6% 94%
+
+2005 4% 96%
+
+2006 0% 100%
+
+###### ARTICULO SEGUNDO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor a partir del 1o. de enero del 2002.
