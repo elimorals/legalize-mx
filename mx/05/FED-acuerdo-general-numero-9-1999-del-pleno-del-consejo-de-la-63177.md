@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-9-1999-del-pleno-del-consejo-de-la-63177
 country: "mx"
 rank: "acuerdo"
 publication_date: "1999-03-11"
-last_updated: "1999-03-11"
+last_updated: "2000-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63177&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1999-03-03"
 
 ACUERDO GENERAL NUMERO 9/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE EL ROL DE DIARIOS NACIONALES A LOS QUE SE ENCOMENDARA LA PUBLICACION DE DETERMINADOS AVISOS, CONVOCATORIAS Y ESQUELAS DEL CONSEJO DE LA JUDICATURA FEDERAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO PRIMERO DEL ACUERDO GENERAL 87/2000, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, PUBLICADO EN EL D.O.F. DE 8 DE DICIEMBRE DE 2000, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de marzo de 1999.
 
@@ -84,3 +86,11 @@ CUARTO.- El Pleno del Consejo de la Judicatura Federal resolverá cualquier cues
 UNICO.- El presente Acuerdo General entrará en vigor en la fecha de su aprobación por el Pleno del Consejo de la Judicatura Federal y deberá publicarse en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO ADOLFO O. ARAGON MENDIA, SECRETARIO EJECUTIVO DEL PLENO Y CARRERA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General número 9/1999, que establece el rol de diarios nacionales a los que se encomendará la publicación de determinados avisos, convocatorias y esquelas del Consejo de la Judicatura Federal, fue aprobado por el Pleno del propio Consejo, en sesión de tres de marzo de mil novecientos noventa y nueve, por unanimidad de votos de los señores consejeros: Presidente ministro Genaro David Góngora Pimentel, Alonso Galván Villagómez, Rodolfo Héctor Lara Ponte, María Concepción Elisa Martín de Zúñiga, Mario Melgar Adalid, Alfonso Oñate Laborde y Luis Gilberto Vargas Chávez.- México, Distrito Federal, a ocho de marzo de mil novecientos noventa y nueve.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 8 DE DICIEMBRE DE 2000.
+
+PRIMERO.- Este Acuerdo entrará en vigor en la fecha de su aprobación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
