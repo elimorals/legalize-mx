@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "1992-10-21"
+last_updated: "1992-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1992.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -226,6 +226,10 @@ III.- Tratándose de personas físicas, morales, unidades económicas o agrupaci
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho que están previstas en las leyes fiscales.
 
 Las obligaciones fiscales se determinarán y liquidarán en su caso, conforme a las disposiciones vigentes en el momento de su nacimiento, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+Para la determinación y pago de los impuestos, contribuciones, derechos y demás ingresos autorizados en la Ley, así como de sus accesorios, las cantidades correspondientes se ajustarán al múltiplo de cinco centavos más próximo, inferior o superior, según corresponda, en tratándose de pagos en efectivo.
 
 ###### ARTICULO 19.
 
@@ -1637,13 +1641,25 @@ TARIFA
 
 I.- PREDIOS URBANOS.
 
-A).- Sobre los Primeros quince millones
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-de pesos del valor catastral. 5% al millar
+A).- Sobre los primeros N$ 50,000.00 del valor catastral 2 al millar
 
-B).- Sobre el excedente 7% al millar
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-II.- PREDIOS RUSTICOS 5% al millar
+B).- Sobre el excedente 3 al millar
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+Cuando se trate viviendas nuevas de interés social o popular, ya sea para usos propios o de terceros, el impuesto que resulte de aplicar las tasas a que aluden los incisos A y B que preceden, se multiplicará por 0.80. En estos casos el contribuyente deberá exhibir ante la autoridad fiscal respectiva, el permiso de ocupación expedido por la autoridad municipal competente.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+Para los efectos del párrafo anterior, se entiende por vivienda de interés social aquélla cuyo valor, al término de su edificación, no exceda de la suma que resulte de multiplicar por 15 el salario mínimo general elevado al año, vigente en el área geográfica del Estado de Morelos. Por vivienda popular, aquélla cuyo valor, al término de su construcción, no rebase la cantidad que resulte de multiplicar por 25 el salario mínimo general elevado al año, vigente en el área geográfica del Estado de Morelos.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+II.- Predios rústicos 2 al millar
 
 Los contribuyentes de este impuesto respecto a predios urbanos deberán pagar una cuota mínima anual hasta del 1.00% del salario mínimo anual vigente y por predios rústicos una cuota mínima anual hasta del 0.6% del salario mínimo anual vigente, aún cuando como consecuencia de alguna exención o aplicación de esta tarifa deban cubrir una cantidad menor.
 
@@ -1651,7 +1667,9 @@ Tratándose de predios rústicos, sólo deberá incluirse la propiedad o posesi�
 
 Los predios ubicados en zonas no catastradas serán objeto de avalúo por parte de la administración o recaudación de rentas que corresponda, el cual será provisional, sujeto a ratificación o rectificación de la Dirección General de Catastro del Estado. El contribuyente podrá inconformarse contra dicho avalúo, en un plazo que no excederá de diez días naturales posteriores a su notificación. Para el caso de que no se interponga el recurso de inconformidad o no se rectifique, el avalúo será definitivo.
 
-Estos avalúos se denominan administrativos y entrarán en vigor a partir del bimestre siguiente a aquel en que se haga la notificación.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+Estos avalúos se denominan administrativos y entrarán en vigor desde el momento de su notificación respectiva.
 
 ###### ARTICULO 171.
 
@@ -3083,25 +3101,29 @@ El impuesto se causará anualmente dentro de los primeros 90 días del año, aun
 
 Los propietarios de los vehículos a que alude este impuesto, o en su caso, los responsables solidarios deberán registrar los vehículos dentro de los diez días hábiles siguientes a la fecha a su adquisición o utilización.
 
-### CAPITULO OCTAVO. DE LOS IMPUESTOS A LA EXPLOTACION DE ESPECTACULOS, DIVERSIONES, BALNEARIOS, LOTERIA Y LA OBTENCION DE PREMIOS DE APUESTAS PERMITIDAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO OCTAVO
+
+DE LOS IMPUESTOS A LA EXPLOTACION DE ESPECTÁCULOS, DIVERSIONES, BALNEARIOS, LOTERIA, PAGOS PERMITIDOS CON APUESTA Y LA OBTENCIÓN DE PERMISOS EN APUESTAS PERMITIDAS
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 325.
 
-Es objeto de los impuestos los ingresos por la explotación de espectáculos, diversiones, balnearios, loterías y la obtención de premios en apuestas permitidas.
+Son objeto de los impuestos, los ingresos por la explotación de espectáculos, diversiones, balnearios, lotería, juegos permitidos con apuesta y la obtención de premios en apuestas permitidas.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 326.
 
-Son sujetos de los impuestos las personas que exploten los espectáculos, diversiones, balnearios y los que perciban los premios de loterías y apuestas permitidas.
+Son sujetos de los impuestos, las personas que exploten los espectáculos, diversiones, balnearios; las que cubran o paguen las apuestas en juegos permitidos y los que perciban los premios de loterías y apuestas autorizadas.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 327.
 
-Tienen obligación de retener y enterar el impuesto, las personas que hagan el pago del premio obtenido, en el caso de premios de loterías y apuestas permitidas y en los demás casos las que tengan a su cargo la administración.
+Tienen obligación de retener y enterar los impuestos sobre juegos permitidos con apuestas y la obtención de los premios que se generen, las personas que reciban el pago de la apuesta y las que hagan el pago del premio obtenido.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3185,6 +3207,12 @@ loterías o rifa, sobre el ingreso bruto percibido
 
 en premios. 10%
 
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VII.- Juegos permitidos con apuestas, sobre la
+
+cantidad bruta apostada: 10%
+
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 330.
@@ -3199,19 +3227,23 @@ I.- Los comprendidos en la fracción I, incisos A), B), C) y D), y la fracción 
 
 II.- Los comprendidos en la fracción I, inciso E), lo pagarán dentro de los primeros quince días naturales del mes posterior;
 
-III.- Los comprendidos en las fracciones IV y VI lo cubrirán dentro de la semana posterior a los sorteos o rifas.
+III.- Los comprendidos en las fracciones IV y VI lo cubrirán dentro de la semana posterior a los sorteos o rifas;
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+IV.- Los comprendidos en la fracción VII, lo pagarán a mas tardar el día hábil siguiente de aquél en que se hayan registrado las apuestas.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 331.
 
-Los explotadores de juegos con apuestas liquidables en dinero o en especie, deberán retener el impuesto a cargo de los sujetos que obtengan dichos premios y enterarlo dentro de los diez días siguientes a la fecha de la celebración del evento.
+Los explotadores de juegos permitidos con apuestas liquidables en dinero o en especie, deberán retener el o los impuestos a cargo de los sujetos que participen o cubran las apuestas, así como de los que obtengan los premios resultantes de los juegos o sorteos, y enterarlos dentro de los diez días siguientes a la fecha de la celebración del evento.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 332.
 
-Los organizadores de sorteos, rifas o loterías, deberán presentar a la administración o recaudación de rentas que corresponda una manifestación en la que comprobarán que han cumplido con los requisitos federales y locales antes de iniciar la venta o distribución de las participaciones.
+Los organizadores de sorteos, rifas, loterías, y de cualquier otro evento o juego autorizado con apuesta o premio, deberán presentar a la administración o recaudación de rentas que corresponda al lugar del evento, una manifestación en la que comprobarán que han cumplido con los requisitos que las leyes de la materia impongan, antes de iniciar la venta o distribución de las participaciones.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -3765,57 +3797,43 @@ III.- Los servidores públicos que en ejercicio de sus funciones autoricen altas
 
 ARTICULO 384 BIS 4.- El impuesto se determinará a través de cuotas y con base en los siguientes supuestos:
 
-I.- En el caso de motocicletas, bicimotos, motonetas, triciclos automotores, automóviles y vehículos destinados al transporte hasta de diez pasajeros, se tomará en cuenta el cilindraje del motor, y les serán aplicables las siguientes cuotas:
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-CILINDRAJE: CUOTA:
+I.- En el caso de automóviles de uso particular, la determinación se hará atendiendo al cilindraje del motor, conforme a lo siguiente:
 
-MOTOCICLETAS, BICIMOTOS,
+Cilindraje Cuota
 
-MOTONETAS, TRICICLOS
+Hasta 4 cilindros N$ 32.00
 
-AUTOMOTORES Y
+De 6 cilindros N $ 60.00
 
-VEHICULOS DE
+De 8 o más cilindros N $ 80.00
 
-HASTA 2 CILINDROS $ 15,000.00
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-4 20,000.00
+II.- En el caso de automóviles importados al país, diferentes a los de fabricación nacional, se pagará una cuota de N$280.00 por cada uno de ellos;
 
-6 25,000.00
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-8 30,000.00
+III.- En el caso de motocicletas, se pagará una cuota de N$20.00.
 
-MAS DE 8 35,000.00
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-II.- En el caso de los vehículos que a continuación se mencionan, se aplicarán las siguientes cuotas:
+IV.- En el caso de vehículos destinados al transporte público de pasajeros, la determinación se hará atendiendo a su capacidad, conforme a lo siguiente:
 
-VEHICULO CUOTA
+Capacidad del vehículo Cuota
 
-CAMIONETA 40,000.00
+De 1 a 10 pasajeros N$ 80.00
 
-MINIBASES Y MICROBUSES 45,000.00
+De 11 a 30 pasajeros N$ 90.00
 
-CAMIONES, AUTOBUSES
+De 31 en adelante N$ 100.00
 
-INTEGRALES Y OMNIBUSES 50,000.00
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-VEHÍCULOS CON REMOLQUE O
+V.- En el caso de vehículos de carga o de arrastre o cualquier otro vehículo no comprendido dentro de los anteriores, se pagará una cuota de N$25.00 por cada tonelada de capacidad de carga o de arrastre.
 
-SEMIREMOLQUE Y TRACTORES
-
-AGRICOLAS TIPO QUINTA RUEDA 55,000.00
-
-GRUAS, REVOLVEDORAS,
-
-VEHÍCULOS CON OTRO
-
-EQUIPO ESPECIAL Y
-
-CUALQUIER OTRO NO
-
-COMPRENDIDO DENTRO
-
-DE LOS ANTERIORES 60,000.00
+El impuesto sobre tenencia o uso de vehículos se cubrirá mediante declaración, conjuntamente con los derechos por servicios de control vehicular.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
 
@@ -3835,15 +3853,63 @@ ARTICULO 384 BIS 7.- Las autoridades de tránsito en el Estado, no darán trámi
 
 ARTICULO 384 BIS 8.- Los ingresos que genere este gravamen, estarán afectos a lo dispuesto en el Capítulo Décimo Cuarto de este mismo título, salvo las excepciones que establezca la Ley de Ingresos del Estado.
 
-### CAPITULO PRIMERO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-### CAPITULO SEGUNDO. CONTRIBUCIONES ESPECIALES PARA OBRAS DE PLANIFICACION
+### CAPITULO DECIMO SEXTO. DEL IMPUESTO SOBRE ADQUISICION DE BIENES MUEBLES
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 384 BIS 9.- Están obligados al pago de este impuesto las personas físicas y morales que adquieran en el Estado de Morelos, automóviles usados de producción nacional o de importación.
+
+Se entiende por adquisición de vehículos automotores usados, la que derive de todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones o sociedades, a excepción de las que se realicen al constituir la copropiedad o la sociedad conyugal.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 384 Bis 10.
+
+La base gravable para efectos del cálculo de este impuesto, será determinada conforme a las siguientes reglas:
+
+I.- Tratándose de vehículos automotores cuyos modelos sean del año en curso, se considerará el valor consignado en la factura original expedida por el fabricante o por el distribuidor, reduciéndose en un 10% por emérito;
+
+II.- Tratándose de vehículos automotores cuyos modelos sean anteriores al año en curso, se considerará el valor de la operación fijado por los contratantes salvo que éste fuera notoriamente inferior al valor comercial del vehículo, en cuyo caso, la base gravable será este último valor;
+
+III.- A falta de precio de operación o en tratándose de donaciones o adquisiciones ocurridas por causa de muerte, se tomará como base el valor consignado en la guía EBC de la Asociación de Comerciantes en Automóviles y Camiones y Aseguradoras de la República Mexicana al momento de efectuarse la operación.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 384 BIS 11.- El impuesto sobre adquisición de vehículos automotores usados, se calculará aplicando la tasa del 1% a la base gravable y deberá pagarse dentro de los treinta días hábiles siguientes a la fecha de adquisición del vehículo, junto con los derechos por cambio de propietario.
+
+Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente y sellarán el documento original que ampare la propiedad del vehículo; al margen del endoso, anotarán el número, fecha e importe del recibo expedido.
+
+Para los efectos de este impuesto, se considera domicilio fiscal el manifestado ante las autoridades responsables de la prestación de los servicios de control vehícular.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 384 BIS 12.- Son responsables solidarios del pago de este impuesto:
+
+I.- Quienes enajenen el vehículo automotor, hasta por el monto del impuesto que se hubiese dejado de pagar;
+
+II.- Las personas que en ejercicio de sus funciones, autoricen el cambio de propietario, sin cerciorarse del pago del impuesto.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+###### ARTICULO 384 Bis
+
+13.- Están exentas del pago de este impuesto las empresas establecidas que operen con vehículos materia de las operaciones objeto de este gravamen, cuando por ellas deba pagarse el impuesto al valor agregado.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 384 BIS 14.- Los vehículos adquiridos quedan afectos preferentemente al pago del impuesto a que se refiere este capítulo.
+
+Las dependencias oficiales competentes y sus delegaciones, no tramitarán ninguna solicitud de alta, baja o traspaso de vehículos por los cuales no se hubiese pagado el impuesto en los términos establecidos en este capítulo.
+
+### CAPITULO PRIMERO. CONTRIBUCIONES DE COOPERACION PARA OBRAS PUBLICAS
 
 ## TITULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
-### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO SEGUNDO. CONTRIBUCIONES ESPECIALES PARA OBRAS DE PLANIFICACION
 
 ###### ARTICULO 385.
 
@@ -3923,7 +3989,7 @@ La Dirección de Contribuciones Estatales o la Tesorería Municipal correspondie
 
 D.- (sic) En los casos de fraccionamientos, condominios, conjuntos habitacionales, divisiones y subdivisiones, la cuota de cooperación será de $3,000.00 por cada lote, condominio, departamento, división y subdivisión que acuerde la Dirección General de Fraccionamientos, Condominios y Conjuntos Habitacionales.
 
-### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
+### CAPITULO PRIMERO. DEL REGISTRO PUBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4201,7 +4267,7 @@ No habrá exención alguna de las contribuciones especiales que esta Ley estable
 
 ## TITULO CUARTO. DE LOS DERECHOS
 
-### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
+### CAPITULO SEGUNDO. POR REGISTRO PUBLICO DEL COMERCIO
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4215,39 +4281,67 @@ Los servicios que se presten por el Registro Público de la Propiedad y del Come
 
 Los derechos por el registro público de la propiedad se causarán en los siguientes términos:
 
-I.- Por la calificación de todo documento que se devuelva sin que se preste el servicio solicitado por omisión de requisitos, impedimento legal, por contener datos incorrectos o a petición del interesado, por cada vez un día de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+I.- Por la calificación de todo documento que se devuelva sin que se preste el servicio solicitado por omisión de requisitos, impedimento legal, por contener datos incorrectos o a petición del interesado, por cada vez: tres días de salario;
 
 II.- Por la inscripción de documentos, resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera o modifique el dominio, o la posesión de bienes inmuebles o derechos reales incluyendo los fideicomisos traslativos de dominio, así como los relacionados con la propiedad o posesión de buques o aeronaves; sobre el valor mayor que resulte entre el de la operación, catastral, avalúo bancario o de factura: 12 al millar; en ningún caso el pago inferior a un día de salario mínimo;
 
-IV (SIC).- Por la sustitución de deudor o de acreedor, en cualquier caso: de cinco días de salario;
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-V.- Por contratos de hipoteca celebrados por Instituciones Nacionales de Crédito, Instituciones de Seguros o de Fianzas, sobre el importe de las operaciones: 2.5 al millar.
+III.- En tratándose de viviendas de interés social o popular, la inscripción de documentos públicos o privados (siempre que estos últimos puedan ser inscritos de conformidad a la Ley que los regule) por los que se adquiera bajo cualquier acto jurídico la propiedad, posesión u otro derecho real, se pagará 3.0 al millar.
 
-Por la inscripción de la cancelación de los contratos antes citados dos días de salario;
+Por vivienda de interés social o popular deberá entenderse lo establecido en el artículo 170, fracción I, último párrafo de esta misma Ley;
 
-VI.- Por el registro de cédulas hipotecarias; cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-VII.- Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por la inscripción de la transmición (sic) de bienes hereditarios; cinco días de salario;
+IV.- Por la sustitución de deudor o de acreedor, en cualquier otro caso: ocho días de salario;
 
-VIII.- Por la inscripción de la Constitución de patrimonio familiar: cinco días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-IX.- Por la inscripción de la cancelación del patrimonio familiar: tres días de salario;
+V.- Por contratos de hipoteca celebrados por instituciones de Crédito, Seguros, o de Fianzas, sobre el importe de las operaciones: 5.0 al millar, excepto aquéllos que graven vivienda de interés social o popular, en que se pagará 2.0 al millar.
+
+Por vivienda de interés social o popular, deberá enterarse lo establecido en el artículo 170, fracción I, último párrafo, de esta misma Ley;
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+V Bis.- Por la inscripción de la cancelación de los contratos de hipoteca a que alude la fracción que precede: en tratándose de viviendas de interés social o popular 2.0 al millar; en los demás casos a que alude dicha fracción: 5.0 al millar;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VI.- Por el Registro de Cédulas Hipotecarias: quince días de salario mínimo;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por la inscripción de la transmisión de bienes hereditarios: diez días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por la inscripción de la constitución de patrimonio familiar: ocho días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+IX.- Por la inscripción de la cancelación del patrimonio familiar: ocho días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 X.- Por la inscripción de:
 
-A).- Fideicomisos de administración o de garantía: quince días de salario mínimo;
+A).- Fideicomisos de administración o de garantía: veinticinco días de salario mínimo;
 
-B).- Cancelación de estos fideicomisos: cinco días de salario;
+B).- Cancelación de estos fideicomisos: diez días de salario;
 
-C).- Contratos de arrendamiento de inmuebles: quince días de salario.
+C).- Contratos de arrendamiento de inmuebles: veinticinco días de salario.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 XI.- Por la inscripción de:
 
-A).- Contratos, convenios, resoluciones judiciales o administrativas por la que se constituya un fraccionamiento, lotificación, división o subdivisión de un inmueble, por cada lote o fracción: cinco días de salario;
+A).- Contratos, convenios, resoluciones judiciales o administrativos por la que se constituya un fraccionamiento, lotificación, división o subdivisión de un inmueble, por cada lote o fracción: ocho días de salario;
 
-B).- Contratos, convenios o resoluciones judiciales o administrativas a consecuencia de los cuales se fusionen inmuebles, por cada uno de los predios fusionados: cinco días de salario;
+B).- Contratos, convenios o resoluciones judiciales o administrativas a consecuencia de los cuales se fusionen inmuebles, por cada uno de los predios fusionados: ocho días de salario;
 
-C).- Constitución del régimen de propiedad en condominio o, en su caso, de su modificación, por cada unidad departamental, vivienda, casa, despacho o local: cinco días de salario.
+C).- Constitución de régimen de propiedad en condominio o, en su caso, de su modificación por cada unidad departamental, vivienda, casa, despacho o local: ocho días de salario.
 
 XII.- Por la inscripción de contrato de prenda, de comodato, de aquellos que versen sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad, sobre el valor que resulte entre los de operación catastral factura o avalúo bancario: seis al millar;
 
@@ -4257,55 +4351,81 @@ XIV.- Por la inscripción de contratos de compraventa con reserva de dominio sob
 
 XV.- Por la inscripción de documentos en que se haga constar la cancelación de la reserva de dominio sobre bienes inmuebles, en los términos de la fracción anterior; seis al millar;
 
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
 XVI.- Por la inscripción de:
 
-A).- Documentos en que se constituya una asociación o sociedad civil, o de sus aumentos; se cobrará: quince días de salario;
+A) Documentos en que se constituya una asociación o sociedad civil, o de sus aumentos, se cobrará: veinticinco días de salario;
 
-B).- Acta de asamblea de las personas morales mencionadas: cinco días de salario;
+B) Acta de asamblea de las personas morales mencionadas: diez días de salario;
 
-C).- Fusión de sociedades y asociaciones civiles se cobrará: quince días de salario;
+C) Fusión de sociedades y asociaciones civiles se cobrará: veinticinco días de salario;
 
-D).- Cada uno de los actos de disolución, liquidación o cancelación del asiento correspondiente a una sociedad o asociación civil: diez días de salario.
+D) Cada uno de los actos de disolución, liquidación o cancelación del asiento correspondiente a una sociedad o asociación civil: quince días de salario.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 XVII.- Por la inscripción de:
 
-A).- Poderes o sustituciones de los mismos: cuatro días de salario por cada apoderado;
+A) Poderes o sustituciones de los mismos: diez días de salario por cada apoderado;
 
-B) Revocación de poderes, por cada una: dos días de salario.
+B) Revocación de poderes, por cada una: diez días de salario.
 
-XVIII.- Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: cuatro días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XVIII.- Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: diez días de salario.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 XIX.- Por la expedición de:
 
-A).- Certificados de libertad o existencia de gravámenes, por un período de diez años: dos días de salario; por un período de veinte años: cuatro días de salario;
+A) Certificados de libertad o existencia de gravámenes, por período de diez años: tres días de salario; por un período de veinte años: seis días de salario;
 
-B).- Certificados de inexistencia de registro: veinte días de salario;
+B) Certificados de inexistencia de registro: treinta y cinco días de salario;
 
-C).- Certificados de no propiedad: medio día de salario;
+C) Certificados de no propiedad: dos días de salario;
 
-D).- Certificados de inscripción de propiedad: tres días de salario;
+D) Certificados de inscripción de propiedad: seis días de salario;
 
-E).- Informes y constancias solicitadas por autoridades y organismos no exceptuados por la ley: cuatro días de salario;
+E) Informes y constancias solicitadas por autoridades y organismos no exceptuados por la Ley: seis días de salario;
 
-F).- Certificados de búsqueda de antecedentes registrales: cuatro días de salario;
+F) Certificados de búsqueda de antecedentes registrales: diez días de salario;
 
-G).- Copias certificadas de documentos registrales o que obren en el archivo: tres días de salario;
+G) Copias certificadas de documentos registrales o que obren en el archivo: seis días de salario;
 
-H).- Copias transcritas: tres días de salario.
+H) Copias transcritas: diez días de salario.
 
-XX.- Por la certificación de documentos y firmas: tres días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XXI.- Por el depósito de testamentos ológrafos: cinco días de salario; si el depósito se hace en horas inhábiles: siete días de salario;
+XX.- Por la certificación de documentos y firmas: seis días de salario;
 
-XXII.- Por la expedición de informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces o notarios: cinco días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XXIII.- Por la cancelación de embargos, hipotecas, cédulas hipotecarias y fianzas: tres días de salario;
+XXI.- Por el depósito de testamentos ológrafos: ocho días de salario; si el depósito se hace en horas inhábiles: dieciséis días de salario;
 
-XXIV.- Por la anotación de los datos de registro en un testimonio notarial adicional: un día de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XXV.- Por la inscripción de testimonios notariales que rectifiquen o aclaren el registro de otro testimonio: cinco días de salario; y
+XXII.- Por la expedición de informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces o notarios: diez días de salario;
 
-XXVI.- Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte del de operación, catastral, bancario o de factura: diez al millar, si el acto no es determinable en dinero, se cobrará cinco días de salario.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XXIII.- Por la cancelación de embargos, hipotecas, cédulas hipotecarias y fianzas: cinco días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XXIV.- Por la anotación de los datos de registro en un testimonio notarial adicional: tres días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XXV.- Por la inscripción de testimonios notariales que rectifiquen o aclaren el registro de otro testimonio: ocho días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XXVI.- Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, sobre el importe mayor del que resulte del de operación, catastral, bancario o de factura: diez al millar, si el acto no es determinable en dinero, se cobrará diez días de salario; y,
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XXVII.- Por la consulta de los libros del Registro Público de la Propiedad, dentro del horario autorizado: un día de salario.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4321,11 +4441,17 @@ III.- Para la aplicación de las tasas de la fracción II del artículo 415, la 
 
 IV.- Cuando se trate de contratos, demandas o resoluciones judiciales o administrativas que se refieran a prestaciones periódicas, el valor se determinará por la suma de estas;
 
-V.- Tratándose de la inscripción de títulos translativos de dominio se aplicará la tasa correspondiente, pero en ningún caso la cantidad será inferior a un día de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-VI.- Certificaciones de testimonios de escrituras públicas o contratos: cuatro días de salario; y
+V.- Tratándose de la inscripción de Títulos traslativos de dominio se aplicará la tasa correspondiente, pero en ningún caso la cantidad será inferior a tres días de salario;
 
-VII.- La expedición de certificados y copias certificadas pueden solicitarse con carácter de urgente, en cuyo caso se duplicará la cuota que corresponda.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VI.- Certificaciones de testimonios de escrituras públicas o contratos: ocho días de salario; y
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VII.- La expedición de certificados y copias certificadas pueden solicitarse con carácter de urgente, en cuyo caso se triplicará la cuota que corresponda.
 
 Cuando un instrumento origine dos o más inscripciones, causará los derechos que correspondan a cada una de ellas, excepto los de habilitación o avío y los que por Ley deban inscribirse también en el Registro de Comercio… (sic)
 
@@ -4345,11 +4471,17 @@ III.- Por los informes o certificaciones que soliciten las mismas entidades;
 
 IV.- Por los informes o certificaciones que soliciten las autoridades competentes tratándose de juicios penales, laborales o de amparo;
 
-V.- Los contratos y operaciones relacionados con bienes inmuebles que en cumplimiento de su objeto (sic) lleve al cabo el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y
+V.- Los contratos y operaciones relacionados con bienes inmuebles que en cumplimiento de su objeto (sic) lleve al cabo el Instituto del Fondo Nacional de la Vivienda para los Trabajadores; y (sic)
 
-VI.- Los contratos y operaciones que respecto a bienes inmuebles realice el Instituto de Vivienda del Estado de Morelos.
+VI.- Los contratos y operaciones que respecto a bienes inmuebles realice el Instituto de Vivienda del Estado de Morelos;
 
-### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VII.- Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las Instituciones Oficiales de cualquier nivel de gobierno en tratándose de la enajenación de Vivienda de Interés Social o Popular.
+
+Por Vivienda de Interés Social o Popular se entenderá lo preceptuado en el artículo 170, fracción I, último párrafo de esta misma Ley.
+
+### CAPITULO TERCERO. POR REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS RELATIVOS A INMUEBLES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4357,53 +4489,89 @@ VI.- Los contratos y operaciones que respecto a bienes inmuebles realice el Inst
 
 Los derechos por el Registro Público de Comercio se causarán en los siguientes términos:
 
-I.- Por la calificación de todo documento que se presente para su inscripción y se niegue esta por no ser inscribible o cuando se devuelva por resolución judicial o a petición del interesado: un día de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+I.- Por la calificación de todo documento que se presente para su inscripción y se niegue ésta por no ser inscribible o cuando se devuelva por resolución judicial o a petición del interesado: tres días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 II.- Por la inscripción de matrícula:
 
-A).- De comerciante individual: un día de salario.
+A) De comerciante individual: diez días de salario;
 
-B).- De sociedad mercantil: tres días de salario.
+B) De sociedad mercantil: quince días de salario.
 
-III.- Por la inscripción de testimonio de la escritura relativa a la Constitución de una Sociedad Mercantil, o por el registro de testimonios que consignen aumentos de su capital social o por el registro de sociedades que tengan sucursales en esta entidad: quince días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-IV.- Para la inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles y venta de acciones, siempre que no se refieran al aumento de su capital social: cinco días de salario;
+III.- Por la inscripción del testimonio de la escritura relativa a la Constitución de una Sociedad Mercantil, o por el registro de testimonios que consignen aumentos de su capital social o por el registro de sociedades que tengan sucursales en esta entidad: veinticinco días de salario;
 
-V.- Por la inscripción de actas de asamblea de sociedades mercantiles: cinco días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-VI.- Por el depósito de programas a que se refiere el artículo 98 de la Ley General de Sociedades Mercantiles: cinco días de salario;
+IV.- Para la inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles y venta de acciones, siempre que no se refieran al aumento de su capital social: diez días de salario;
 
-VII.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas: tres al millar sobre el valor de la emisión;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-VIII.- Por la inscripción de la disolución de sociedades mercantiles: diez días de salario;
+V.- Por la inscripción de actas de asamblea de sociedades mercantiles: diez días de salario;
 
-IX.- Por la inscripción de la liquidación de sociedades mercantiles: diez días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-X.- Cuando las operaciones a que se refieren las dos fracciones que anteceden se realicen en un solo acto, su inscripción causará: quince días de salario;
+VI.- Por el depósito de programas a que se refiere el artículo 98 de la Ley General de Sociedades Mercantiles: diez días de salario;
 
-XI.- Por la cancelación del registro de contrato de sociedad mercantil: diez días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VII.- Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas: seis al millar sobre el valor de la emisión;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VIII.- Por la inscripción de la disolución de sociedades mercantiles: veinticinco días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+IX.- Por la inscripción de la liquidación de sociedades mercantiles: quince días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+X.- Cuando las operaciones a que se refieren las dos fracciones que anteceden se realicen en un solo acto, su inscripción causará veinte días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XI.- Por la cancelación del registro del contrato de sociedad mercantil: quince días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 XII.- Por la inscripción de:
 
-A).- Poderes o sustituciones de los mismos: cuatro días de salario por cada apoderado;
+A) Poderes o sustituciones de los mismos: quince días de salario por cada apoderado;
 
-B).- Revocación de poderes, por cada una: dos días de salario.
+B) Revocación de poderes, por cada una: quince días de salario.
 
-Por otorgamiento de poderes a gerentes o administradores de sociedades mercantiles en las escrituras constitutivas o en sus modificaciones, no se causarán derechos.
+Por otorgamiento de poderes a gerentes o administradores de sociedades mercantiles en las escrituras constitutivas o en sus modificaciones: quince días de salario.
 
-XIII.- Por la inscripción relativa a habilitación de edad y licencia para ejercer el comercio, licencia marital o el requisito que necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las fracciones X y XI del articulo 21 del Código de Comercio: cinco días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XIV.- Por la inscripción de contratos de corresponsalía mercantil o por su cancelación: cinco días de salario, la primera y tres días la segunda;
+XIII.- Por la inscripción relativa a habilitación de edad y licencia para ejercer el comercio, licencia marital o el requisito que necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren las fracciones X y XI del artículo 21 del Código de Comercio: quince días de salario;
 
-XV.- Por la inscripción de contratos de crédito refaccionario o de habilitación o avío, celebrados por sociedades nacionales de crédito, instituciones de seguros o de fianzas: sobre el importe de la operación, 2.5 al millar. La cancelación de la inscripción de los contratos mencionados causará: tres días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XVI.- Por la inscripción de resoluciones judiciales que declaren la suspensión de pagos, quiebra, o admita una liquidación: cinco días de salario;
+XIV.- Por la inscripción de contratos de corresponsalía mercantil o por su cancelación: quince días de salario, la primera y diez días la segunda;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XV.- Por la inscripción de contratos de crédito refaccionario o de habilitación o avío, celebrados por instituciones de crédito, seguros o de fianzas, sobre el importe de la operación: 5.0 al millar. La cancelación de la inscripción de los contratos mencionados causará: cinco días de salario;
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XVI.- Por la inscripción de resoluciones judiciales que declaren la suspensión de pagos, quiebra, o admita una liquidación: diez días de salario;
 
 XVII.- La certificación de documentos y firmas, así como la expedición de certificados y copias certificadas, se ajustarán a las cuotas establecidas en el capítulo relativo al Registro Público de la Propiedad;
 
-XVIII.- Por la inscripción de hipotecas industriales otorgadas en garantía a sucursales nacionales de crédito o a las organizaciones auxiliares de crédito: 2.5 al millar; y
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-XIX.- Por la inscripción de la fusión de sociedades mercantiles: sobre el monto del capital social inscrito de la sociedad fusionada: quince días de salario.
+XVIII.- Por la inscripción de hipotecas industriales otorgadas en garantía a instituciones de crédito o a las organizaciones auxiliares de crédito: 5.0 al millar; y
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+XIX.- Por la inscripción de la fusión de sociedades mercantiles: veinticinco días de salario.
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -4411,21 +4579,29 @@ XIX.- Por la inscripción de la fusión de sociedades mercantiles: sobre el mont
 
 Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
 
-I.- Si un mismos título origina dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto para los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan; tratándose de sociedades nacionales de crédito o de instituciones de seguros o de fianzas, las inscripciones que deban hacerse, causarán los mismos derechos, pero en su conjunto no podrán exceder del 2.5 al millar sobre el importe de la operación.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+I.- Si un mismo título origina dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto, para los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan; tratándose de instituciones de crédito o de instituciones de seguros o de fianzas, las inscripciones que deban hacerse, causarán los mismos derechos, pero en su conjunto no podrán exceder del 10.0 al millar sobre el importe de la operación.
 
 Se exceptúan de esta disposición las inscripciones relativas a operaciones que se deriven de la constitución o disolución de una sociedad mercantil en que sólo se cobrarán derechos por la inscripción que se haga en la sección de comercio;
 
 II.- En los contratos mercantiles en los que medie condición suspensiva, resolutoria, reserva de propiedad o cualquiera otra modalidad que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, pagarán el 75% de lo que corresponda, de acuerdo con el artículo anterior y al practicarse la inscripción complementaria el 25% restante;
 
-III.- En los contratos que contengan prestaciones periódicas, se cobrará con base en la suma de éstas, si se puede determinar exactamente su cuantía; en caso contrario por lo que resulte al hacer el cálculo por un año; en caso de que no pueda computarse, se cobrarán cinco días de salario;
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
-IV.- En los casos no previstos expresamente, los derechos por servicios que se presten en el Registro Público del Comercio, se causarán por asimilación en los términos de las fracciones relativas a casos con los que guarde semejanza del Registro Público de la Propiedad; y
+III.- En los contratos que contengan prestaciones periódicas, se cobrará con base en la suma de éstas, si se puede determinar exactamente su cuantía; en caso contrario, por lo que resulte al hacer el cálculo por un año; en caso de que no pueda computarse, se cobrarán quince días de salario;
 
-V.- Están exentos del pago de los derechos que establece este capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
+IV.- En los casos no previstos expresamente, los derechos por servicios que se presten en el Registro Público del Comercio, se causarán por asimilación en los términos de las fracciones relativas a casos con los que guarde semejanza del Registro Público de la Propiedad; y (sic)
 
-### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
+V.- Están exentos del pago de los derechos que establece este capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate;
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+VI.- La consulta a los libros del Registro Público de Comercio, dentro del horario autorizado, causará un día de salario.
+
+### CAPITULO CUARTO. DEL REGISTRO DE TITULOS PROFESIONALES, EXPEDICIÓN DE CEDULAS Y CONEXOS
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 420.
 
@@ -4449,9 +4625,9 @@ II.- Los actos, contratos y convenios no incluidos en la fracción anterior 1
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO SEXTO. POR SERVICIOS DE SALUD
+### CAPITULO QUINTO. DE LOS DERECHOS POR SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 ###### ARTICULO 421.
 
@@ -4521,279 +4697,281 @@ Están exentos del pago de derechos, los profesores que ejerzan su actividad, ú
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 28 DE FEBRERO DE 1986)</small>
 
-### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPITULO SEXTO. POR SERVICIOS DE SALUD
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 424.
 
-Los servicios de control vehicular se causarán y pagarán conforme a la siguiente tarifa.
+Los servicios de control vehicular se causarán y pagarán conforme a la siguiente tarifa:
 
-DIAS DE SALARIO MINIMO
+I.- Licencias.
 
-I.- LICENCIAS:
+1.- Expedición y reexpedición con vigencia de 5 años
 
-1.- Expedición y re-expedición con vigencia de 5 años:
+A) Para chofer N$ 64.40
 
-A).- Para chofer 5
+B) Para automovilista N$ 42.80
 
-B).- Para automovilista 3.5
+C) Motociclista N$ 23.20
 
-C).- Motociclista 2
-
-D).- Turista3
+D) Turista N$ 36.80
 
 2.- Resello anual:
 
-A).- Para chofer 2
+A) Para chofer N$ 22.80
 
-B).- Automovilista 1.5
+B) Automovilista N$ 19.60
 
-C).- Motociclista 1
+C) Motociclista N$ 9.60
 
 3.- Por la expedición provisional para manejar a menores:
 
-A).- Automovilistas 1.5
+A) Automovilistas N$ 18.40
 
-B).- Motociclistas 1
+B) Motociclista N$ 9.60
 
-C).- Turista1
+C) Turistas N$ 9.60
 
-4.- Seguro de vida y daños a terceros:
+4.- Seguro de vida: tarifa de acuerdo con lo que se convenga con la compañía aseguradora.
 
-Tarifa de acuerdo con lo que se convenga con la compañía aseguradora.
+II.- Expedición de placas, calcomanías y tarjetas de circulación.
 
-II.- EXPEDICION DE PLACAS, CALCOMANIAS Y TARJETAS DE CIRCULACION:
+1.- Auto particular N$ 80.00
 
-1.- Auto particular 6
+2.- Camión particular N$ 80.00
 
-2.- Camión particular 6
+3.- Remolque con capacidad de más de dos toneladas N$ 133.60
 
-3.- Remolque con capacidad de más de dos toneladas 11
+4.- Remolque con capacidad de hasta dos toneladas N$ 80.00
 
-4.- Remolque con capacidad de hasta dos toneladas 6
+5.- Demostradoras N$ 180.00
 
-5.- Demostradoras 15
+6.- Transporte escolar N$ 73.60
 
-6.- Transporte escolar 6
-
-7.- Motociclistas 4
+7.- Motocicletas N$ 45.60
 
 8.- Vehículos servicio público:
 
-A).- Automóvil de servicio público 13
+A) Automóvil de servicio público N$ 153.60
 
-B).- Combi de servicio público 13
+B) Combi de servicio público N$ 153.60
 
-C):- Van de servicio público 13
+C) Van de servicio público N$ 153.60
 
-D).- Microbús de servicio público 13
+D) Microbús de servicio público N$ 153.60
 
-E):- Combis de patrimonio comunal 13
+E) Combis de patrimonio comunal N$ 153.60
 
-F).- Camión materialista 11
+F) Camión materialista N$ 133.60
 
-G).- Camión de carga en general 11
+G) Camión de carga en general N$ 133.60
 
-H).- Camión de pasajeros urbano y Sub-urbanos 13
+H) Camión de pasajeros urbano y sub-urbanos N$ 156.40
 
-I).- Bicicletas1.5
+I) Bicicletas N$ 18.40
 
-III.- REFRENDO ANUAL DE TARJETAS DE CIRCULACION Y ENGOMADO:
+III.- Refrendo anual de tarjetas de circulación y engomado.
 
-1.- Auto particular 3
+1.- Auto particular N$ 33.60
 
-2.- Camión particular 3
+2.- Camión particular N$ 33.60
 
-3.- Remolque con capacidad hasta de dos toneladas 3
+3.- Remolque con capacidad hasta de dos toneladas N$ 33.60
 
-4.- Remolque con capacidad de más (sic) dos toneladas 8
+4.- Remolque con capacidad de más de dos toneladas N$ 96.00
 
-5.- Demostradoras 11
+5.- Demostradoras N$ 140.00
 
-6.- Transporte escolar 3
+6.- Transporte escolar N$ 33.60
 
-7.- Motociclistas 3
+7.- Motocicleta N$ 33.60
 
 8.- Vehículos de servicio público:
 
-A).- Autos de servicio público 9
+A) Autos de servicio público N$ 111.20
 
-B):- Combi de servicio público 9
+B) Combi de servicio público N$ 111.20
 
-C).- Van de servicio público 9
+C) Van de servicio público N$ 111.20
 
-D).- Microbús de servicio Público 9
+D) Microbús de servicio público N$ 111.20
 
-E).- Combis de patrimonio comunal 9
+E) Combis de patrimonio comunal N$ 111.20
 
-F).- Camión materialista 8
+F) Camión materialista N$ 96.00
 
-G).- Camión de carga en general 8
+G) Camión de carga en general N$ 96.00
 
-H).- Camión de pasajeros urbanos y Sub- urbanos 9
+H) Camión de pasajeros urbanos y sub-urbanos N$ 111.20
 
-I).- Bicicletas1
+I) Bicicletas N$ 9.60
 
-IV.- OTROS SERVICIOS:
+IV.- Otros servicios.
 
-1.- Expedición gafete de operador 1
+1.- Expedición gafete de operador N$ 11.20
 
-2.- Baja de placas 4
+2.- Baja de placas N$ 44.80
 
-3.- Cambio de vehículo de servicio público 8
+3.- Cambio de vehículo de servicio público N$ 92.00
 
-V.- TARJETONES PARA EL SERVICIO PUBLICO DEL TRANSPORTE:
+4.- Depósito para trámite de baja de otro Estado N$ 230.00
 
-1.- Expedición de tarjetón, todos los vehículos de servicio público12
+V.- Tarjetones para el servicio público del transporte.
+
+1.- Expedición de tarjetón, todos los vehículos de servicio público N$ 152.00
 
 2.- Canje anual de tarjetón:
 
-A).- Camión materialista 6
+A) Camión materialista N$ 73.60
 
-B).- Camión de carga en general 5
+B) Camión de carga en general N$ 60.00
 
-C).- Camión materialista y carga en general 11
+C) Camión materialista y carga en general N$ 137.60
 
-D).- Auto de servicio público 6
+D) Auto de servicio público N$ 73.60
 
-E).- Transporte escolar, de empleados, turistas, artistas o deportistas 2
+E) Transporte de empleados, turistas, artistas y deportistas N$ 23.20
 
-F).- Autobuses de servicio público 6
+F) Autobuses de servicio público N$ 73.60
 
-G).- Grúas 4
+G) Grúas N$ 50.40
 
-H).- Combi de servicio público 6
+H) Combi de servicio público N$ 73.60
 
-I).- Van de servicio público 7
+I) Van de servicio público N$ 87.20
 
-J).- Microbús de servicio público 8
+J) Microbús de servicio público N$ 100.80
 
-K).- Duplicado de tarjetón 2
+K) Duplicado de tarjetón N$ 23.20
+
+K) Duplicado de tarjetón N$ 23.20 (sic)
 
 3.- Cesión de derechos:
 
-A).- Camión de carga en general 24
+A) Camión de carga en general N$ 303.20
 
-B).- Camión materialista 36
+B) Camión materialista N$ 460.00
 
-C).- Automóvil de servicio público 48
+C) Automóvil de servicio público N$ 611.20
 
-VI.- VEHICULOS:
+VI.- Vehículos.
 
-1.- Cambio de vehículos particulares 3
+1.- Cambio de vehículos particulares N$ 36.80
 
 2.- Sustituciones:
 
-Primera vez 3
+Primera vez N$ 36.80
 
-Segunda vez 4
+Segunda vez N$ 50.40
 
-Tercera vez 5
+Tercera vez N$ 60.00
 
-A).- Local por diez días 2
+A) Local por diez días N$ 23.20
 
-B).-Foráneo por tres días 1
+B) Foráneo por tres días N$ 9.60
 
-VII.- SERVICIO DE CONTROL VEHICULAR DE CARGA, CIRCULAR SIN PLACAS NI TARJETA DE CIRCULACION Y OTROS:
+VII.- Servicio de control vehicular de carga, circular sin placas ni tarjeta de circulación y otros:
 
-1.- Expedición para camiones de carga con capacidad hasta de 1500 kgs.:
+1. Expedición para camiones de carga con capacidad hasta de 1,500 Kgs.
 
-A).- Con un giro 9
+A) Con un giro N$ 115.20
 
-B).- Con dos giros 13
+B) Con dos giros N$ 165.60
 
-C).- Con tres giros 21
+C) Con tres giros N$ 266.40
 
-D).- Con cuatro giros 27
+D) Con cuatro giros N$ 344.80
 
-E).- Con cinco giros 36
+E) Con cinco giros N$ 460.00
 
-F).- Giros para carga con treinta días 6
+F) Giros para carga con treinta días N$ 73.60
 
-G).- Sin carga por quince días 3
+G) Sin carga por quince días N$ 36.80
 
-2.- Expedición para camiones con capacidad de más de 1500 kgs.:
+2.- Expedición para camiones con capacidad de más de 1,500 kgs.
 
-A).- Con un giro 17
+A) Con un giro N$ 216.00
 
-B).- Con dos giros 26
+B) Con dos giros N$ 331.20
 
-C).- Con tres giros 36
+C) Con tres giros N$ 460.00
 
-D).- Con cuatro giros 43
+D) Con cuatro giros N$ 547.20
 
-E).- Con cinco giros 52
+E) Con cinco giros N$ 659.20
 
-3.- Expedición para camiones de carga con conversión:
+3.- Expedición para camiones de carga con conversión.
 
-A).- Con un giro 14
+A) Con un giro N$ 174.40
 
-B).- Con dos giros 20
+B) Con dos giros N$ 252.80
 
-C).- Con tres giros 26
+C) Con tres giros N$ 331.20
 
-D).- Con cuatro giros 32
+D) Con cuatro giros N$ 404.80
 
-E).- Con cinco giros 40
+E) Con cinco giros N$ 510.40
 
-4.- Servicio de control vehicular para circular sin placas y sin tarjeta de circulación:
+4.- Servicio de control vehicular para circular sin placas y sin tarjeta de circulación.
 
-A).- Para automóvil por treinta días 1.5
+A) Para automóvil por treinta días N$ 48.00
 
-B).- Para automóvil por quince días 1
+B) Para automóvil por quince días N$ 24.00
 
-C).- Para camión por treinta días 3
+C) Para camión por treinta días N$ 56.00
 
-D).- Para camión por quince días 2
+D) Para camión por quince días N$ 28.00
 
-E).- Para camión o automóvil por tres días 0.5
+E) Para camión o automóvil por tres días N$ 8.00
 
-Conversión 2
+Para remolques N$ 23.20
 
-Para remolques 2
+Para transporte de caña N$ 9.60
 
-Para transporte de caña 1
+Conversión N$ 23.20
 
-VIII.- SERVICIO DE CONTROL VEHICULAR ANUAL PARA TERMINALES DE LINEA DE SERVICIO URBANO E INTER- URBANO:
+VIII.- Servicio de control vehicular anual para terminales de línea de servicio urbano e inter-urbano:
 
-1.- En Cuernavaca 36
+1.- En Cuernavaca N$ 460.00
 
-2.- En Jojutla 36
+2.- En jojutla N$ 460.00
 
-3.- En otras poblaciones 12
+3.- En otras poblaciones N$ 152.00
 
-IX.- SERVICIO DE CONTROL VEHICULAR DE RUTA:
+IX.- Servicio de control vehicular de ruta.
 
-1.- Por cada autobús urbano o sub-urbano 59
+1.- Por cada autobús urbano o sub-urbano N$ 749.60
 
-2.- Por cada camión materialista 40
+2.- Por cada camión materialista N$ 510.40
 
-3.- Para camiones de carga en general 30
+3.- Para camiones de carga en general N$ 381.60
 
-4.- Para combis de servicio público con itinerario fijo 69
+4.- Para combis de servicio público con itinerario fijo N$ 878.40
 
-5.- Para taxis de servicio público sin itinerario fijo 69
+5.- Para taxis de servicio público sin itinerario fijo N$ 878.40
 
-6.- Para Van de servicio público sin itinerario fijo 69
+6.- Para van de servicio público sin itinerario fijo N$ 878.40
 
-X.- INFRACCIONES:
+7.- Para microbús con itinerario fijo N$ 878.40
 
-De 1 A 300 días de salario mínimo general.
+X.- Infracciones.
 
-XI.- REVISION MECANICA SEMESTRAL 3
+De N$ 15.00 a N$ 3,500.00
 
-XII.- EXPEDICION DE:
+XI.- Revisión mecánica semestral N$ 36.80
 
-1.- Duplicado de tarjeta de circulación 2
+XII.- Expedición de:
 
-2.- Certificaciones 1
+1.- Duplicado de tarjeta de circulación N$ 22.40
 
-XIII.- DEPOSITO DE ARRASTRE DE VEHICULOS:
+2.- Certificaciones N$ 9.60
 
-1.- Protección y control de vehículo en depósito pensión diaria 0-5 a 1
+XIII.- Depósito y arrastre de vehículos.
 
-2.- Por arrastre de grúas en la vía pública o de un resguardo de vehículos a otros 2 a 10
+1.- Protección y control de vehículos en depósito pensión diaria N$ 12.00
+
+2.- Por arrastre de grúas en la vía pública o de un resguardo de vehículos a otro N$ 80.00
 
 ###### ARTICULO 425.
 
@@ -4801,7 +4979,7 @@ XIII.- DEPOSITO DE ARRASTRE DE VEHICULOS:
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
+### CAPITULO SEPTIMO. POR LEGALIZACION DE FIRMAS, CERTIFICADOS, CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5209,7 +5387,7 @@ b).- Auxiliar del servicio 1.0 a 2.0.
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
+### CAPITULO OCTAVO. POR LOS SERVICIOS CATASTRALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5285,7 +5463,7 @@ Los certificados, certificaciones y copias certificadas que expidan las Dependen
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
+### CAPITULO NOVENO. POR APROBACION, AUTORIZACION Y SUPERVISION DE FRACCIONAMIENTOS, CONDOMINIOS Y CONJUNTOS HABITACIONALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5469,7 +5647,7 @@ Los avalúos practicados por la Dirección del Catastro a solicitud de parte int
 
 (DEROGADO, P.O. 3 DE ENERO DE 1990)
 
-### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+### CAPITULO DECIMO. POR SERVICIOS DE ARCHIVO Y NOTARIALES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
@@ -5543,7 +5721,9 @@ Las cantidades que se paguen como anticipo conforme al Artículo 385 de esta Ley
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
+### CAPITULO DECIMO PRIMERO. POR DERECHOS DE INSCRIPCION DE AGRUPACIONES
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 439.
 
@@ -5607,27 +5787,7 @@ o inexistencia de testamento 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 440 A.- Quienes celebren contratos de obra pública y servicios relacionados con la misma, pagarán un derecho de 5 al millar sobre el importe de cada una de las estimaciones de trabajo, por la supervisión que realice la secretaría de la contraloría del estado.
-
-Las dependencias de la Administración Pública Estatal al hacer el pago de las estimaciones de obra, retendrán el importe de este derecho.
-
-> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
-
-ARTICULO 440 B.- Los derechos por servicios de la policía industrial bancaria y auxiliar del Estado, se causarán conforme a la siguiente:
-
-TARIFA
-
-DIAS DE SALARIO
-
-Por un policía en 8 horas de servicio 2.5
-
-Por un policía en 12 horas de servicio 3.25
-
-Por un policía en 24 horas de servicio 7.5
+### CAPITULO DECIMO SEGUNDO. DE LOS SERVICIOS DE SUPERVISION DE LA SECRETARIA DE LA CONTRALORIA DEL ESTADO
 
 ###### ARTICULO 440.
 
@@ -5645,9 +5805,55 @@ tenga modificaciones de los estatutos. 5
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO I (SIC)
+### CAPITULO DECIMO TERCERO. DE LOS SERVICIOS DE POLICIA BANCARIA Y AUXILIAR
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+> <small>(ADICIONADO, P.O. 3 DE ENERO DE 1990)</small>
+
+ARTICULO 440 A.- Quienes celebren contratos de obra pública y servicios relacionados con la misma, pagarán un derecho de 5 al millar sobre el importe de cada una de las estimaciones de trabajo, por la supervisión que realice la secretaría de la contraloría del estado.
+
+Las dependencias de la Administración Pública Estatal al hacer el pago de las estimaciones de obra, retendrán el importe de este derecho.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 440 B.- Los derechos por servicios de la Policía Industrial Bancaria y Auxiliar del Estado, se causarán conforme a la siguiente:
+
+TARIFA
+
+Días de salario
+
+Por un policía en 8 horas de servicio:
+
+A) Riesgo mínimo 2.5
+
+B) Riesgo medio 3.5
+
+C) Riesgo alto 5
+
+Por un policía en 12 horas de servicio:
+
+A) Riesgo mínimo 3.5
+
+B) Riego medio 5
+
+C) Riesgo alto 7
+
+Por un policía en 24 horas de servicio:
+
+A) Riesgo mínimo 8.5
+
+B) Riego medio 9.5
+
+C) Riesgo alto 11.0
+
+Para la clasificación del riesgo se estará a lo siguiente:
+
+A) Riesgo mínimo: prestados en jornadadiurna (sic) y en los que no se requieraportar (sic) armamento.
+
+B) Riesgo medio: los servicios prestados en jornada nocturna y en losque (sic) se requiere portar armamento.
+
+C) Riesgo alto: se consideran los servicios prestados en los lugares enlos (sic) que se resguardan valores, paralos (sic) que sea indispensable portar armamento en turnos diurnos y nocturnos.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 1992)</small>
 
 #### SECCIÓN ÚNICA
 
@@ -5657,17 +5863,81 @@ Las Oficinas Pagadoras de las Dependencias de la Administración Pública Estata
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE ENERO DE 1990)</small>
 
-### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
+### CAPITULO DECIMO CUARTO. POR LOS SERVICIOS DE LA DIRECCION ESTATAL DEL REGISTRO CIVIL
 
-### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1992)</small>
+
+ARTICULO 440 C.- Los derechos por los servicios que preste la Dirección Estatal del Registro Civil, se causarán conforme a la siguiente tarifa:
+
+Salarios mínimos
+
+I.- Por registro de nacimientos:
+
+A) Dentro de las oficinas del Registro Civil, de: 2
+
+B) Fuera de las oficinas del Registro Civil, de: 8.5
+
+C) Por cada año extemporáneo, a partir de la fecha de ocurrido el nacimiento, de: 2
+
+II.- Por el registro de reconocimiento de hijos, de: 2.5
+
+III.- Por el registro de adopciones, de: 5.5
+
+IV.- Matrimonios:
+
+A) En las oficinas del Registro Civil, en días hábiles y dentro del horario autorizado 9.0
+
+B) Fuera de las oficinas del Registro Civil:
+
+1.- En días hábiles 37.0
+
+2.- Sábados, domingos y días festivos 45.0
+
+C) Por la inscripción del cambio de régimen patrimonial 3.0
+
+D) Anotación marginal por virtud de divorcio 10.5
+
+V.- Rectificación de actas por orden judicial 2.5
+
+VI.- Otras rectificaciones que afecten las actas 1.0
+
+VII.- Constancias de inexistancia (sic) de registros 3.5
+
+VIII.- Inserciones:
+
+A) Actas de matrimonio 6.0
+
+B) En actas de nacimiento 2.5
+
+C) En actas de defunción 2.5
+
+D) En otro tipo de actas 2.5
+
+IX.- Certificación de documentos: 1.5
+
+X.- Búsqueda de:
+
+A) Registro de nacimientos 3.5
+
+B) Registro de matrimonios 3.5
+
+C) Registro de defunciones 3.5
+
+D) Otros no especificados 3.5
+
+XI.- Expedición de actas:
+
+A) Ordinarias 1.5
+
+B) Urgentes 2.0
+
+### CAPITULO I (SIC)
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ## TITULO QUINTO. DE LOS PRODUCTOS
 
-### CAPITULO CUARTO. ALMACENAJE
-
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
+### CAPITULO II (SIC). REDITOS DE CAPITALES IMPUESTOS
 
 ###### ARTICULO 441.
 
@@ -5723,13 +5993,17 @@ Los ingresos por productos, derivados del arrendamiento, uso o explotación de b
 
 Las utilidades por acciones y participaciones en sociedad o empresas, el rendimiento por otras inversiones en sociedades o empresas, el rendimiento por otras inversiones en créditos y valores, y las recuperaciones e inversiones en acciones, créditos y valores, se considerarán productos en su calidad de ingresos financieros del Estado, y su captación, manejo y administración será llevada a cabo por la secretaría de programación y finanzas, con base en la línea de política económica que dicte el ejecutivo del Estado.
 
-### CAPITULO UNICO
+### CAPITULO III (SIC). PRODUCTOS DE PUBLICACIONES
 
 > <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 446.
 
 Cada año, durante el mes de enero, la Secretaría de Finanzas, Presentará al Jefe del Ejecutivo, un estado de todos los capitales, cualquiera que sea su origen, que se le deuden (sic), ya sea por obligación personal, hipotecarios o por cualquier otro título con expresión de los réditos que no hayan sido satisfechos, nombre de los deudores, fincas o garantías afectadas al pago y obligaciones de plazo cumplido.
+
+### CAPITULO CUARTO. ALMACENAJE
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 447.
 
@@ -5796,6 +6070,10 @@ palabra $200.00
 ###### ARTICULO 450.
 
 El monto de los productos no especificados, se determinará por la Secretaría de Programación y Finanzas.
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 3 DE ENERO DE 1990)</small>
 
 ###### ARTICULO 451.
 
@@ -5972,3 +6250,31 @@ SEGUNDO.- Se derogan todos los acuerdos, reglamentos, circulares y demás dispos
 TERCERO.- Las actividades gravadas al amparo de la vigencia de las disposiciones anteriores a la fecha en que entre en vigor el presente decreto, se enterarán y liquidarán de conformidad a dichas disposiciones.
 
 CUARTO.- Remítase el presente decreto al titular del Poder Ejecutivo Estatal para los efectos constitucionales correspondientes.
+
+P.O. 16 DE DICIEMBRE DE 1992.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día primero de enero de mil novecientos noventa y tres.
+
+###### ARTICULO SEGUNDO.
+
+A partir de la fecha en que entre en vigor este decreto, se derogan todos los acuerdos, reglamentos, circulares y demás disposiciones de carácter general que se le opongan.
+
+###### ARTICULO TERCERO.
+
+Los contribuyentes del impuesto predial a quienes no se les haya notificado su nuevo avalúo catastral, a la fecha en que este Decreto entre en vigor, de conformidad a la Tabla de Valores Unitarios aprobada por la Junta Catastral el 9 de octubre de 1992 y publicada en el Periódico Oficial "Tierra y Libertad" número 3614, de fecha 18 de noviembre del año en curso, pagarán, mientras tanto, el Impuesto Predial en la siguiente forma:
+
+I.- En tratándose de predios urbanos:
+
+A) Sobre los primeros N$ 15,000.00 del valor catastral 5 al millar
+
+B) Sobre el excedente 7 al millar
+
+II.- En tratándose de predios rústicos 5 al millar
+
+Para la determinación en cantidad líquida del impuesto, no se tomará en cuenta el destino o uso del inmueble.
+
+###### ARTICULO CUARTO.
+
+Remítase el presente Decreto al titular del Poder Ejecutivo del Estado para sus efectos constitucionales correspondientes.
