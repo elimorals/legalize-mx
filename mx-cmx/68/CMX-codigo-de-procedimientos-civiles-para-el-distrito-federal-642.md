@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1990-01-03"
+last_updated: "1991-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE ENERO DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE ENERO DE 1991.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -838,7 +838,37 @@ II.- Cuando se trate de personas cuyo domicilio se ignora, previo informe de la 
 
 En los casos de las dos fracciones que preceden, los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial y en el periódico local que indique el juez, haciéndose saber que debe presentarse el citado dentro de un término que no será inferior a quince días ni excederá de sesenta días; y
 
-III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad conforme al artículo 3047 del Código Civil, para citar a las personas que puedan considerarse perjudicadas. Los edictos se publicarán por tres veces, de tres en tres días, en el Boletín Judicial, en el Boletín del Registro Público y en un periódico de los de mayor circulación si se tratare de bienes inmuebles urbanos situados en el Distrito Federal. Si los predios fueren rústicos se publicarán además en el Diario Oficial de la Federación en la misma forma y términos indicados. Los edictos se fijarán en lugares públicos. En la solicitud se mencionará el origen de la posesión, el nombre de la persona de quien en su caso la obtuviera el peticionario, del causahabiente de aquélla si fuere conocido; la ubicación precisa del bien y sus colindancias; un plano autorizado por ingeniero titulado si fuere predio rústico o urbano sin construir; el nombre y domicilio de los colindantes. Terminada la publicación se correrá traslado de la solicitud a la persona de quien obtuviera la posesión o su causahabiente si fuera conocido, al Ministerio Público, a los colindantes, al registrador de la propiedad por el términos (sic) de nueve días. Contesten o no y sin necesidad de acuse de rebeldía, el juez, al vencerse el último término del traslado, abrirá una dilación probatoria por treinta días. Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por medios legales y además por la información de tres testigos que tengan bienes raíces en el lugar de ubicación del predio de que se trata. La sentencia se pronunciará después del término de alegar, dentro de ocho días. En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ambos efectos y el recurso se substancia como en los juicios ordinarios.
+> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1991)</small>
+
+III.- Cuando se trate de inmatricular un inmueble en el Registro Público de la Propiedad, conforme al artículo 3047 del Código Civil para el Distrito Federal en materia común, y para toda la República en materia federal, para citar a las personas que puedan considerarse perjudicadas.
+
+El edicto se publicará por una sóla vez en el Diario Oficial de la Federación; en el Boletín Judicial, en la Gaceta Oficial del Departamento del Distrito Federal, Sección Boletín Registral, y en un periódico de los de mayor circulación. Además se deberá fijar un anuncio de proporciones visibles en la parte externa del inmueble de que se trate en el que se informe a las personas que puedan considerarse perjudicadas, a los vecinos y al público en general, la existencia del procedimiento de inmatriculación judicial respecto a ese inmueble. El anuncio deberá contener el nombre del promovente y permanecer en el inmueble durante todo el trámite judicial.
+
+En la solicitud se mencionarán:
+
+a) El origen de la posesión;
+
+b) En su caso, el nombre de la persona de quien obtuvo la posesión el peticionario;
+
+c) El nombre y domicilio del causahabiente de aquélla si fuere conocido;
+
+d) La ubicación precisa del bien y sus medidas y colindancias, y
+
+e) El nombre y domicilio de los colindantes.
+
+Asimismo, a la solicitud se acompañarán:
+
+a) Un plano autorizado por la Tesorería del Distrito Federal, y
+
+b) Certificado de no inscripción del inmueble expedido por el Registro Público de la Propiedad. En el escrito en que se solicite dicho certificado, se deberán proporcionar los datos que identifiquen con precisión el predio de que se trate y manifestar que el certificado será exhibido en el procedimiento judicial de inmatriculación.
+
+Realizadas las publicaciones se correrá traslado de la solicitud, para que contesten dentro del término de nueve días hábiles, a la persona de quien obtuviera la posesión o su causahabiente si fuere conocido; al Ministerio Público; a los colindantes; al Delegado de la Secretaría de la Reforma Agraria en el Distrito Federal, para que manifieste si el inmueble a inmatricular se encuentra o no afecto al régimen ejidal o comunal, y a la Secretaría de Desarrollo Urbano y Ecología, para que exprese si el predio es o no de propiedad federal.
+
+Producida o no la contestación y sin necesidad de acuse de rebeldía, el juez al vencerse el último término de traslado, abrirá una dilación probatoria por quince días, pudiendo ampliarla, a solicitud del interesado, hasta por treinta días.
+
+Además de las pruebas que tuviere, el solicitante está en la obligación de probar su posesión en concepto de dueño por los medios legales y además por la información de tres testigos, preferentemente colindantes del inmueble a inmatricular o, en su caso, que tengan bienes raíces en el lugar de ubicación del predio de que se trata.
+
+En este juicio no se entregarán los autos originales para formular alegatos. La sentencia es apelable en ámbos efectos y el recurso se substanciará como en los juicios ordinarios.
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1987)</small>
 
@@ -2216,7 +2246,7 @@ Si el que debe de absolver posiciones estuviere ausente, el juez librará el cor
 
 El juez exhortado recibirá la confesión pero no podrá declarar confeso a ninguno de los litigantes, si no fuere expresamente facultado por el exhortante.
 
-(REFORMADO, D.O.F. 21 DE ENERO DE 1967) (REUBICADO, D.O.F. 14 DE MARZO DE 1973)
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1967)</small>
 
 ARTICULO 311
 
@@ -2432,7 +2462,7 @@ En caso de impugnación de falsedad de un documento, se observará lo dispuesto 
 
 (REUBICADA, D.O.F. 14 DE MARZO DE 1973)
 
-### CAPITULO VI. De la recepción oral de las pruebas
+### CAPITULO V. De la forma escrita en la recepción de pruebas
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -2810,7 +2840,7 @@ ARTICULO 401 (DEROGADO Y REUBICADO, D.O.F. 14 DE MARZO DE 1973)
 
 > <small>(DEROGADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
-### CAPITULO V. De la forma escrita en la recepción de pruebas
+### CAPITULO VI. De la recepción oral de las pruebas
 
 ### CAPITULO VII. Del valor de las pruebas
 
@@ -2842,13 +2872,21 @@ ARTICULO 406 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
 ARTICULO 407 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
-ARTICULO 408 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+ARTICULO 408
 
-ARTICULO 409 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
-ARTICULO 410 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+ARTICULO 409
 
-ARTICULO 411 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+
+ARTICULO 410
+
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+
+ARTICULO 411
+
+> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
 > <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1986)</small>
 
@@ -5582,7 +5620,7 @@ ARTICULO 781
 
 El albacea manifestará dentro de tres días de hacérsele saber el nombramiento, si acepta. Si acepta y entra en la administración, le prevendrá el juez que dentro de tres meses debe garantizar su manejo con sujeción a lo dispuesto en los artículos 1,708 y 1,709 del Código Civil, salvo que todos los interesados le hayan dispensado de esa obligación.
 
-Si no garantiza su manejo dentro del término señalado, se le removerá de plano.
+Si no garantiza su manejo dentro del término señalado, se le removerá de plano..
 
 ARTICULO 782
 
@@ -7075,3 +7113,17 @@ D.O.F. 3 DE ENERO DE 1990.
 PRIMERO.- El presente Decreto entrará en vigor a los quince días de la fecha de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO.- Los juicios de alimentos a que se refiere el presente Decreto, que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
+
+D.O.F. 4 DE ENERO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Los procedimientos de inmatriculación de inmuebles que a la fecha de entrada en vigor de este Decreto, se encuentren en trámite se substanciarán conforme al mismo a petición de los promoventes.
+
+###### ARTICULO TERCERO.
+
+Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
