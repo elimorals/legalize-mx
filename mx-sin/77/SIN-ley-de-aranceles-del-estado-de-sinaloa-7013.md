@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-aranceles-del-estado-de-sinaloa-7013"
 country: "mx"
 rank: "ley"
 publication_date: "1943-03-16"
-last_updated: "1944-07-22"
+last_updated: "1977-10-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE ARANCELES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE OCTUBRE DE 1977.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el martes 16 y jueves 18 de marzo de 1943.
 
@@ -69,225 +69,125 @@ En los lugares donde no hubiere peritos titulados, y se presentare el caso de o�
 
 Estos aranceles tendrán su aplicación solamente a los casos de servicios prestados por profesionistas que tengan título legalmente reconocido en el Estado y en lo relativo a profesiones u oficios, de los cuales no se expida título por no estar reglamentados.
 
-### CAPITULO II.. HONORARIOS DE LOS ABOGADOS
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)</small>
+
+### CAPITULO II.
 
 ###### Artículo 7o.
 
-Los Abogados cobrarán:
-
-I. Por vista o lectura de documentos, papeles o expedientes de cualquiera clase, siempre que no pasen de veinticinco fojas, $ 10.00 DIEZ PESOS.
-
-Si excedieren de veinticinco fojas, por cada una de exceso, $ 0.25.
-
-Si la vista o lectura se hace fuera de su despacho, se aumentarán en un 50% las cuotas anteriores.
-
-II. Por cada conferencia o consulta verbal, en su despacho, por cada hora o fracción $ 10.00 DIEZ PESOS.
-
-III. Por cada consulta por escrito, según la importancia del asunto, las dificultades técnicas del negocio y su extensión, desde $ 10.00 DIEZ PESOS a $ 500.00 QUINIENTOS PESOS.
-
-IV. Por su intervención en las audiencias, juntas o cualquiera otra diligencia judicial o administrativa, o ante cualquier funcionario o autoridad, por cada hora o fracción, $ 20.00 VEINTE PESOS.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 8o.
 
-En los negocios judiciales cuyo interés no exceda de $ 500.00 quinientos pesos, por todos sus trabajos, desde la demanda y sus preliminares, inclusive la consulta para iniciar el negocio, hasta la sentencia definitiva en 1a. Instancia o convenio, desde un 15% hasta un 35% del valor fijado en la demanda, según la importancia técnica del juicio. Los honorarios de ejecución se regularán conforme a las cuotas del presente Arancel, reducidas en un 50%.
-
-En los negocios judiciales cuyo interés pase de $ 500.00 quinientos pesos, pero que no exceda de $ 1,000.00 un mil pesos, se duplicarán las cuotas antes dichas.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 9o.
 
-En los negocios judiciales cuyo interés pase de $ 1,000.00, pero que no exceda de $ 3,000.00, se cobrarán:
-
-I. Por estudio del negocio para plantear la demanda, $ 50.00 CINCUENTA PESOS.
-
-II. Por el escrito de demanda, hasta un 3% del importe de la suerte principal. El escrito de réplica se considerará que forma parte de la demanda.
-
-III. Por el escrito de contestación de la demanda en lo principal, siempre que se hagan valer excepciones perentorias que se basen en razonamientos expresados en el mismo escrito, se cobrarán en los mismos términos de la fracción anterior. Se considerará que el escrito de dúplica forma parte de la contestación.
-
-IV. Si en la contestación de la demanda se alegaren excepciones dilatorias o incompetencia, se cobrará el 50% de la fracción anterior.
-
-V. Por la lectura de escritos o promociones presentados por la contraria, por foja, $ 2.50 DOS PESOS CINCUENTA CENTAVOS.
-
-VI. Por cada escrito en que se inicie un trámite, $ 10.00 DIEZ PESOS.
-
-VII. Cuentas de administración de depositario, síndico, etc., por hoja, $ 10.00 DIEZ PESOS.
-
-VIII. Por el escrito en que se promueva un incidente o recurso del que deba conocer el mismo Juez de los autos o se evacue el traslado o vista de promociones de la contraria, $ 20.00 VEINTE PESOS.
-
-IX. Por cada escrito proponiendo pruebas, $ 10.00 DIEZ PESOS.
-
-X. Por cada interrogatorio de posiciones a la contraria, de preguntas o repreguntas a los testigos, o cuestionarios a los peritos, por hoja, $ 10.00 DIEZ PESOS.
-
-XI. Por asistencia a juntas, audiencias o diligencias en el local del Juzgado, por cada hora o fracción, $ 20.00 VEINTE PESOS.
-
-XII. Por asistencia a cualquier diligencia fuera del Juzgado, por cada hora o fracción, desde $ 20.00 VEINTE PESOS hasta $ 30.00 TREINTA PESOS.
-
-XIII.- Por cada notificación o vista de proveído, $ 5.00 CINCO PESOS.
-
-XIV. Por notificación o vista de sentencias, $ 10.00 DIEZ PESOS.
-
-Las cuotas a que se refieren las dos fracciones que anteceden, se cobrarán sólo cuando conste en autos que el abogado fué notificado directamente por el actuario. En cualquier otro caso, por cada notificación se cobrará $ 2.00 siempre que la promoción posterior revele que el abogado tuvo conocimiento del proveído o sentencia relativos.
-
-XV. Por los alegatos en lo principal, según la importancia o dificultad del caso, de $ 25.00 VEINTICINCO PESOS a $ 100.00 CIEN PESOS.
-
-XVI. Por los alegatos en incidentes o recursos, el 50% de lo fijado en la fracción anterior.
-
-En los casos de las dos últimas fracciones, el abogado podrá cobrar, además, las cuotas fijadas en el artículo 7o., fracciones I y IV.
-
-XVII. Por el escrito de agravios, o contestación de los mismos, en la apelación, 50% de lo fijado en la fracción II de este artículo.
-
-XVIII. Por las demás gestiones que hiciere, no cotizadas en el presente Arancel, en cada instancia del juicio, $ 25.00 VEINTICINCO PESOS.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 10.
 
-Si el valor del negocio excede de tres mil pesos, se cobrará lo siguiente:
-
-I. Si no excede de $ 5,000.00, se aumentarán en un 25% cada una de las cuotas fijadas en el artículo anterior.
-
-II. Si pasa de $ 5,000.00, pero no de $ 10,000.00, se aumentarán en un 50% las cuotas del artículo anterior.
-
-III. Si excede de $ 10,000.00, pero no de $ 50,000.00, se duplicarán las cuotas del artículo que precede.
-
-IV. Pasando de $ 50,000.00, se cobrarán las cuotas señaladas en la fracción anterior, hasta dicha suma, con un aumento de 50% por cada $ 10,000.00 o fracción de exceso.
-
-En los casos de este artículo no se cobrarán con el aumento a que el mismo se refiere, las cuotas señaladas en las fracciones II, III y IV, del artículo 9°.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 11.
 
-En los negocios de cuantía indeterminada, se estará a lo dispuesto por los artículos 7o. y 9o., sin perjuicio de aplicarse también las reglas del artículo 10 cuando se determine la cuantía del negocio.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 12.
 
-En los juicios de concurso, liquidación judicial o quiebra, el abogado del síndico podrá cobrar:
-
-I. Por la tramitación general del juicio, en lo principal y sus incidentes, los honorarios que devengue conforme a las disposiciones aplicables de los artículos 9o. y 10.
-
-II. Por cada dictamen individual sobre examen y reconocimiento de créditos, de $ 10.00 a $ 30.00.
-
-III. Por el estado general de créditos, de $ 50.00 cincuenta pesos a $ 500.00 quinientos pesos.
-
-IV. Por la intervención en los juicios no acumulados en los que versen sobre admisión, exclusión, graduación, preferencia o simulación de créditos, y en cualesquiera otros que se sigan por o contra la masa común, los honorarios que correspondan conforme a los artículos 8o., 9o. y 10.
-
-Si el Síndico fuere abogado y él mismo hiciere los trabajos indicados, percibirá los honorarios que le correspondan conforme a otras leyes, y si éstas nada previenen o no realizare bienes, tendrá derecho a los fijados en el presente artículo.
-
-Los honorarios que se causen conforme a este artículo, serán pagados de la masa de la quiebra, liquidación o del concurso.
-
-Los interventores cobrarán, sean o no abogados, de acuerdo con los preceptos aplicables de los artículos 8o., 9o. y 10.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 13.
 
-En los juicios sucesorios, los abogados podrán cobrar:
-
-I. Por la redacción y presentación del escrito para radicar el juicio sucesorio, de $ 20.00 veinte pesos a $ 500.00 quinientos pesos, según la importancia de la sucesión.
-
-II. Por la tramitación general del juicio, en lo principal y sus incidentes, los honorarios que devenguen conforme a las disposiciones de los artículos 8o., 9o. y 10.
-
-III. Por la formación de inventarios cobrarán el 1% sobre el valor del activo inventariado.
-
-IV. Por la formación, revisión y presentación de las cuentas de administración y liquidación de la herencia y examen de comprobantes, el 10% de la cuota fijada en la fracción anterior.
-
-V. Por las cuentas de división y partición, incluyéndose la vista de documentos y hasta el otorgamiento de las hijuelas, cobrarán el 6% sobre los primeros mil pesos o menos; el 2% sobre los $ 9,000.00 siguientes, y el 1% sobre el exceso, hasta $ 50,000.00, y el medio por ciento sobre todo lo que exceda de las cantidades anteriores.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 14.
 
-Por su intervención en los juicios en que la sucesión sea parte en pro o en contra, tendrán derecho a cobrar los honorarios que correspondan a esos juicios.
-
-Si el abogado fuere nombrado interventor o albacea judicial, tendrá derecho al cobro, en su caso, de los honorarios fijados en el presente artículo y en el artículo anterior, además de los que le correspondan por su nombramiento conforme a los artículos relativos del Código Civil y del de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 15.
 
-Por los juicios de amparo en que se patrocinen al quejoso o al tercer perjudicado, cobrarán las cuotas fijadas en los artículos 8o., 9o. y 10 de este Arancel, siempre que se trate de negocios de cuantía determinada, considerando el escrito de queja como el de demanda.
-
-En los amparos penales y en los que no fuere posible determinar el interés pecuniario que se verse, se aplicarán las reglas fijadas en el artículo 11 de este Arancel.
-
-Además de las cuotas antes fijadas, por lo que respecta al negocio en lo principal, tendrán derecho a cobrar las determinadas en las disposiciones relativas precedentes, por los trabajos que lleven a cabo en los incidentes de suspensión, quejas y demás artículos que surjan en los amparos.
-
-Por la expresión de agravios, o contestación de éstos, cobrarán las mismas cuotas señaladas en las fracciones II y III del artículo 9o. y su correlativo del 11.
-
-Si con motivo de un negocio civil o mercantil se interpusiere amparo, y en definitiva se negare éste o se declare improcedente, el colitigante del quejoso tendrá derecho a promover ante el Juez o Tribunal que conozca o haya conocido del negocio civil o mercantil, el correspondiente incidente de costas causadas a propósito del amparo, que serán a cargo del quejoso. El Juez o Tribunal mencionados harán la condenación respectiva, y las costas serán reguladas de acuerdo con las disposiciones de este Arancel.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 16.
 
-Los abogados que intervengan en juicios civiles o mercantiles, por derecho propio, cobrarán los honorarios que fija el presente Arancel, aún cuando no sean patrocinados por otro abogado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 17.
 
-Los abogados que intervengan como defensores o por parte de los denunciantes en las causas criminales, tendrán derecho a cobrar los honorarios especificados en el artículo 7o. de este Arancel, y además los que se causen con arreglo a los siguientes artículos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 18.
 
-Por solicitar y obtener la libertad bajo caución de $ 10.00 diez pesos a $ 100.00 cien pesos si la pena corporal que corresponda al delito por el que se encuentre detenido el inculpado no excede de un año. En caso contrario, por cada año de exceso, tendrá derecho a cobrar $ 10.00 diez pesos más.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 19.
 
-Por solicitar y obtener la libertad absoluta por desvanecimiento de datos, o bajo protesta, tendrá derecho a cobrar las cuotas del artículo anterior, si la pena corporal señalada al delito no exceda de un año. En caso contrario, tendrá derecho a percibir $ 25.00 veinticinco pesos más por cada año de exceso.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 20.
 
-Por solicitar y obtener la libertad preparatoria e indulto necesario o por gracia, de $ 50.00 cincuenta pesos a $ 300.00 trescientos pesos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 21.
 
-Por la defensa ante los Jueces, de $ 25.00 veinticinco pesos a $ 100.00 cien pesos, si se celebra en una sola audiencia. En caso contrario, de $ 25.00 veinticinco pesos a $ 50.00 cincuenta pesos por cada nueva audiencia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 22.
 
-Por formular el pliego de conclusiones, de $ 25.00 veinticinco pesos a $ 100.00 cien pesos, si la pena corporal no excede de tres años. En caso contrario, de $ 50.00 cincuenta pesos a $ 200.00 doscientos pesos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 23.
 
-Por la defensa del procesado en la vista de segunda instancia en lo principal, hasta $ 50.00 cincuenta pesos, si la pena correspondiente al delito no excede de un año, y por cada año de exceso, hasta $ 50.00 cincuenta pesos más.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977).
 
 ###### Artículo 24.
 
-En los negocios administrativos queda al arbitrio del abogado que haya prestado sus servicios, sujetarse para cobrar el importe de éstos, a las regulaciones establecidas por este Arancel, o al juicio de peritos. Estos serán nombrados uno por cada parte, y el tercero por el Juez que conozca del juicio sobre honorarios, de acuerdo con las disposiciones relativas del Código de Procedimientos Civiles.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 25.
 
-Si se tratare de concesiones meramente graciosas, debiendo entenderse por tales las que una autoridad administrativa puede abstenerse de otorgar sin necesidad de expresar el fundamento de su negativa, el profesionista cobrará el 10 % sobre el valor de la concesión que obtenga, como único honorario por todos sus trabajos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 26.
 
-Tratándose de concesiones no comprendidas en el artículo que antecede, si el profesionista no opta por sujetarse al juicio pericial, sus honorarios se regularán según el artículo séptimo de esta Ley, con excepción del escrito inicial de cualquier procedimiento administrativo, que se cuotizará (sic) como demanda en forma, con arreglo a los artículos 9o. y 10 de estos Aranceles. Además, cobrará los honorarios que señalan los mismos artículos.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 27.
 
-Si la concesión otorgada no tiene un valor determinado, éste se fijará, para solo los efectos del cobro de honorarios, por prueba pericial que se rendirá conforme al artículo 24, segunda parte, de esta Ley. Si el abogado y el cliente hubieren fijado, en convenio escrito, la cuantía en que estimen el negocio para los efectos arancelarios, los tribunales aceptarán esa cuantía como indiscutible.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 28.
 
-Por la redacción de cualquiera minuta o convenio que por voluntad de las partes o disposición de la Ley hayan de ser elevados a escritura pública o póliza ante Corredor titulado, cobrarán el 2% del valor del negocio, si su cuantía no pasa de $ 10,000.00; el 1% además del anterior, por la cantidad que excediere, hasta $ 50,000.00; y el medio por ciento por el exceso sea cual fuere. Igual cobro hará por los convenios que se celebren en juicio. Si en el convenio no se expresare un valor determinado, éste se fijará pericialmente; si el contrato fuere privado, éstos honorarios se reducirán a la mitad.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 29.
 
-En las transacciones cobrarán los abogados, del 2 al 10% sobre el importe de la misma, sin perjuicio de los honorarios que por sus servicios hubieren devengado. Si el interesado celebrase por sí solo la transacción en el curso de un juicio y sin intervención de su abogado, se abonará a éste una cuarta parte de los honorarios dichos. Cuando el negocio no fuere apreciado en dinero, se cobrará lo que se estime justo a juicio de peritos, atendida la importancia del asunto, las ventajas obtenidas y el trabajo emprendido para llevar a término la transacción.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 30.
 
-Cuando un abogado saliere del lugar de su residencia, devengará, además de los honorarios que le correspondan conforme a las disposiciones aplicables de esta Ley, de $ 10.00 a $ 50.00 diarios desde el día de su salida hasta el de su regreso, ambos inclusive, considerándose éstos completos. Los gastos de transporte y estancia del abogado, serán por cuenta del cliente.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 31.
 
-Cuando los abogados fueren nombrados peritos para valuar servicios de su misma profesión, créditos litigiosos o cualquiera otras acciones o derechos, cobrarán un 2% sobre el importe del avalúo si éste no excede de $ 50,000.00; un 1% además, por el excedente hasta $ 100,000.00; y un medio por ciento además, por lo que pase de esta cantidad. En los avalúos podrán cobrar también los honorarios que les correspondan, conforme al artículo 7o., fracción I.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 32.
 
-Tendrán derecho a cobrar los honorarios antes enumerados en esta Ley, únicamente los abogados que hayan registrado sus títulos en el Supremo Tribunal de Justicia del Estado.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 33.
 
-Los servicios profesionales que no se encuentren cuotizados (sic) en estos Aranceles, pero que tuvieren analogía con alguno de los especificados en el mismo, causarán las cuotas de los que presten mayor semejanza.
-
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 1944)</small>
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 34.
 
-Las disposiciones anteriores regirán cuando el abogado no se encargue de un negocio desde su principio hasta su conclusión en primera instancia; pero en el supuesto de que así fuere, entonces cobrarán los siguientes honorarios: por todo juicio sobre cantidad determinada, desde su principio hasta su conclusión en primera instancia, incluyéndose consultas, juntas, vistas de autos y documentos, escritos, informes y cuanto trabajo se relacione con el asunto, si el negocio no pasa de $ 1,000.00 un 25%, si pasa de $ 1,000.00 pero no de $ 5,000.00, un 15%; si pasa de $ 5,000.00 pero no de $ 10,000.00, un 12%, si pasa de $ 10,000.00, cualquiera que sea la cantidad, se cobrará como sigue: a) por los primeros $ 10,000.00 el 12%; b) por el resto el 4%.
-
-En segunda instancia, el abogado cobrará por honorarios, en el caso comprendido en el presente artículo, una tercera parte de los fijados para la primera instancia.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ###### Artículo 35.
 
-Para la regulación de los honorarios es necesario que los abogados firmen, en unión de sus patrocinados, los ocursos que hicieren, así como las notificaciones y demás diligencias en que intervengan.
+(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA, P.O. 31 DE OCTUBRE DE 1977)
 
 ### CAPITULO III.
 
@@ -1036,3 +936,15 @@ Lic. Teodoro Cruz.
 P.O. 22 DE JULIO DE 1944.
 
 UNICO.- El presente Decreto empieza a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 31 DE OCTUBRE DE 1977.
+
+LEY DE ARANCELES PARA LOS ABOGADOS DEL ESTADO DE SINALOA
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto empezará a surtir sus efectos a partir del día siguiente a la fecha de su publicación en el Períodico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Se deroga el Capítulo Segundo del Título Primero de la Ley de Aranceles del Estado de Sinaloa, expedida por decreto número 348 de fecha 13 de enero de 1943 y publicada en el Períodico Oficial del Gobierno del Estado en los ejemplares números 32 y 33 de fechas 16 y 18 de marzo de 1943.
