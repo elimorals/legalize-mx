@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-para-prevenir-y-sancionar-la-tortura-16"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1991-12-27"
-last_updated: "1991-12-27"
+last_updated: "1992-07-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-12-16"
 
 LEY FEDERAL PARA PREVENIR Y SANCIONAR LA TORTURA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE JULIO DE 1992.
 
 Ley publicada en el Diario Oficial de la Federación, el viernes 27 de diciembre de 1991.
 
@@ -53,9 +53,11 @@ III.- La profesionalización de sus cuerpos policiales.
 
 IV.- La profesionalización de los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 2 DE JULIO DE 1992)</small>
+
 ###### ARTICULO 3o.
 
-Comete el delito de tortura el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido.
+Comete el delito de tortura el servidor público que, con motivo de sus atribuciones, inflija a una persona dolores o sufrimientos graves, sean físicos o psíquicos con el fin de obtener, del torturado o de un tercero, información o una confesión, o castigarla por un acto que haya cometido o se sospeche ha cometido, o coaccionarla para que realice o deje de realizar una conducta determinada.
 
 No se considerarán como tortura las molestias o penalidades que sean consecuencia únicamente de sanciones legales, que sean inherentes o incidentales a éstas, o derivadas de un acto legítimo de autoridad.
 
@@ -126,3 +128,9 @@ SEGUNDO.- Se abroga la Ley Federal para Prevenir y Sancionar la Tortura, publica
 México, D.F., 12 de diciembre de 1991.- Sen. Artemio Iglesias Miramontes, Presidente.- Dip. Martín Tavira Uriostegui, Presidente.- Sen. Antonio Melgar Aranda, Secretario.- Dip. Irma Piñeiro Arias, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal; en la Ciudad de México, Distrito Federal, a los dieciséis días del mes de diciembre de mil novecientos noventa y uno.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 2 DE JULIO DE 1992.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
