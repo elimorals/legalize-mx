@@ -1,0 +1,345 @@
+---
+title: "LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR"
+identifier: "LOBNCE"
+country: "mx"
+rank: "ley_organica"
+publication_date: "1986-01-20"
+last_updated: "1986-01-20"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=290&Vig=1&TPub=6"
+department: "Diario Oficial de la Federación"
+scjn_id: "290"
+scjn_status: "VIGENTE"
+gazette: "Diario Oficial de la Federación"
+original_category: "LEY"
+original_gazette_section: "13"
+reform_count: "6"
+scjn_last_update: "2024-04-01"
+issue_date: "1985-12-20"
+abbreviation: "LOBNCE"
+---
+# LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
+
+LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Diario Oficial de la Federación el lunes 20 de enero de 1986.
+
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+
+MIGUEL DE LA MADRID H., Presidente Constitucional de los Estados Unidos Mexicanos, a sus habitantes, sabed:
+
+Que el H. Congreso de la Unión se ha servido dirigirme el siguiente:
+
+DECRETO
+
+"El Congreso de los Estados Unidos Mexicanos, decreta:
+
+LEY ORGANICA DEL BANCO NACIONAL DE COMERCIO EXTERIOR
+
+### CAPITULO PRIMERO. De la Sociedad, Denominación, Objeto y Domicilio
+
+###### ARTICULO 1o.
+
+La presente Ley rige al Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, con personalidad jurídica y patrimonio propios.
+
+###### ARTICULO 2o.
+
+La Sociedad, en su carácter de banca de desarrollo, prestará el servicio público de banca y crédito con sujeción a los objetivos y prioridades del Plan Nacional de Desarrollo, y en especial de los Programas Nacionales de Financiamiento del Desarrollo y de Fomento Industrial y de Comercio Exterior, para promover y financiar las actividades y sectores que le son encomendados en la presente Ley.
+
+###### ARTICULO 3o.
+
+El Banco Nacional de Comercio Exterior, como institución de banca de desarrollo, tendrá por objeto financiar el comercio exterior del país, así como participar en la promoción de dicha actividad.
+
+La operación y funcionamiento de la Institución se realizarán con apego al marco legal aplicable y a las sanas prácticas y usos bancarios, buscando alcanzar dentro del sector encomendado al prestar el servicio público de banca y crédito, los objetivos de carácter general señalados en el artículo 3o. de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+###### ARTICULO 4o.
+
+El domicilio del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, será el que se determine en su Reglamento Orgánico, pero podrá establecer o clausurar sucursales o agencias o cualquier otra clase de oficinas y nombrar corresponsales, en el país o en el extranjero, previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 5o.
+
+La duración de la Sociedad será indefinida.
+
+### CAPITULO SEGUNDO. Objetivos y Operaciones
+
+###### ARTICULO 6o.
+
+Con el fin de procurar la eficiencia y competitividad del comercio exterior comprendiendo la preexportación, exportación, importación y sustitución de importación de bienes y servicios; en el ejercicio de su objeto estará facultado para:
+
+I. Otorgar apoyos financieros;
+
+II. Otorgar garantías de crédito y las usuales en el comercio exterior;
+
+III. Proporcionar información y asistencia financiera a los productores, comerciantes distribuidores y exportadores, en la colocación de artículos y prestación de servicios en el mercado internacional;
+
+IV. Cuando sea del interés el promover las exportaciones mexicanas, podrá participar en el capital social de empresas de comercio exterior, consorcios de exportación y en empresas que otorguen seguro de crédito al comercio exterior, en los términos del Artículo 32 de esta Ley;
+
+V. Promover, encauzar y coordinar la inversión de capitales a las empresas dedicadas a la exportación;
+
+VI. Otorgar apoyos financieros a los exportadores indirectos, y en general, al aparato productivo exportador, a fin de optimizar la cadena productiva de bienes o servicios exportables;
+
+VII. Cuando sea de interés promover las exportaciones mexicanas, podrá otorgar apoyos financieros a las empresas comercializadoras de exportación, consorcios y entidades análogas de comercio exterior;
+
+VIII. Propiciar acciones conjuntas de financiamiento y asistencia en materia de comercio exterior con otras instituciones de crédito, fondos de fomento, fideicomisos, organizaciones auxiliares del crédito y con los sectores social y privado;
+
+IX. Podrá ser agente financiero del Gobierno Federal en lo relativo a la negociación, contratación y manejo de créditos del exterior, ya sea que éstos sean otorgados por instituciones del extranjero, privadas, gubernamentales e intergubernamentales;
+
+X. Participar en la negociación y, en su caso, en los convenios financieros de Intercambio Compensado o de créditos recíprocos, que señale la Secretaría de Hacienda y Crédito Público;
+
+XI. Estudiar políticas, planes y programas en materia de fomento al comercio exterior y su financiamiento, y someterlos a la consideración de las autoridades competentes;
+
+XII. Fungir como órgano de consulta de las autoridades competentes, en materia de comercio exterior y su financiamiento;
+
+XIII. Participar en las actividades inherentes a la promoción del comercio exterior, tales como difusión, estudio de productos y servicios exportables, sistemas de venta, apoyo a la comercialización y organización de productores, comerciantes, distribuidores y exportadores;
+
+XIV. Opinar, a solicitud que le formulen directamente las autoridades competentes, sobre tratados y convenios que el país proyecte celebrar con otras naciones, en materia de comercio exterior y su financiamiento;
+
+XV. Participar en la promoción de la oferta exportable;
+
+XVI. Cuando se lo solicite podrá actuar como conciliador y arbitro en las controversias en que intervienen importadores y exportadores con domicilio en la República Mexicana; y
+
+XVII. Las demás que le confieran esta Ley, otras y sus reglamentos respectivos.
+
+###### ARTICULO 7o.
+
+Para el cumplimiento de los objetivos a que se refieren los artículos 3o. y 6o. anteriores, la Sociedad podrá;
+
+I. Realizar las operaciones y prestar los servicios a que se refiere el artículo 30 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+Las operaciones señaladas en las fracciones I y II del citado artículo las realizará con vistas a facilitar a los beneficiarios de sus actividades el acceso al servicio público de banca y crédito y propiciar en ellos el hábito del ahorro y del uso de los servicios que presta el sistema bancario nacional, de manera que no se produzcan desajustes en el sistema de captación de recursos del público en los términos del artículo 31 de dicha Ley Reglamentaria.
+
+II. Participar en el capital social de empresas, en los términos de la fracción IV del artículo 6o. anterior y del artículo 32;
+
+III. Emitir bonos bancarios de desarrollo. Dichos títulos procurarán fomentar el desarrollo del mercado de capitales y la inversión institucional, y serán susceptibles de colocarse entre el gran público inversionista, caso en el cual les serán aplicables las disposiciones legales respectivas;
+
+IV. Contratar créditos cuyos recursos se canalicen hacia su sector, conforme a las disposiciones legales aplicables;
+
+V. Administrar por cuenta propia o ajena toda clase de empresas o, sociedades;
+
+VI. Otorgar garantías previas a la presentación de una oferta, sostenimiento de la oferta, de ejecución, de devolución y al exportador; y
+
+VII. Realizar las actividades análogas y conexas a sus objetivos en los términos que al efecto le señale la Secretaría de Hacienda y Crédito Público.
+
+###### ARTICULO 8o.
+
+Como excepción a lo dispuesto en el último párrafo del artículo 348 de la Ley General de Títulos y Operaciones de Crédito y en el inciso a), de la fracción XVIII del artículo 84 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, en los contratos que se celebren para garantizar los derechos del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, ésta podrá actuar en el mismo negocio como fiduciaria y fideicomisaria y realizar operaciones con la propia Sociedad en el cumplimiento de fideicomisos y mandatos.
+
+La Sociedad, a solicitud expresa de los gobiernos de las entidades federativas, podrá realizar las mismas funciones de fiduciario, mandatario, depositario y administrador de los recursos que dichas entidades federativas establezcan en apoyo al comercio exterior.
+
+###### ARTICULO 9o.
+
+La Secretaría de Hacienda y Crédito Público, establecerá las bases para la determinación de las tasas de interés, comisiones, premios, descuentos y otros conceptos análogos, montos, plazos y demás características de las operaciones activas y de servicios que realice la Sociedad para cumplir el objetivo que se le ha encomendado en su carácter de banca de desarrollo, en los artículos 3o. y 6o. de esta Ley. Asimismo, corresponde a la propia Secretaría el establecimiento de las bases para la determinación de las características de las operaciones pasivas que no impliquen captación de recursos del público, como excepción de lo dispuesto en los artículos 32 de la Ley Reglamentaria del Servicio Público de Banca y Crédito y 14 de la Ley Orgánica del Banco de México.
+
+Corresponde al Banco de México, en los términos de su Ley Orgánica, la determinación de los conceptos señalados en el párrafo anterior, respecto a los recursos que capte del público que estén sujetos al régimen previsto en las fracciones I y VII del artículo 15 de la Ley Orgánica del Banco de México.
+
+###### ARTICULO 10.
+
+El Gobierno Federal responderá en todo tiempo de las operaciones concertadas por el Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo:
+
+I. Con personas físicas o morales nacionales; y
+
+II. Con instituciones del extranjero privadas, gubernamentales e intergubernamentales.
+
+### CAPITULO TERCERO. Capital Social
+
+###### ARTICULO 11.
+
+El capital social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará representado por certificados de aportación patrimonial en un 66% de la serie "A" y en un 34% de la serie "B". El valor nominal de estos títulos se determinará en su Reglamento Orgánico.
+
+La serie "A" sólo será suscrita por el Gobierno Federal, se emitirá en un título que no llevará cupones, el cual será intransmisible y en ningún momento podrá cambiar su naturaleza o los derechos que le confiere al propio Gobierno Federal.
+
+La serie "B" podrá ser suscrita por el Gobierno Federal, por los gobiernos de las entidades federativas y municipios, o por personas físicas o morales mexicanas de los sectores social y privado, dando preferencia a las relacionadas con el comercio exterior.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar que entidades de la Administración pública federal, los gobiernos de las entidades federativas y de los municipios, pueden adquirir certificados de la citada serie "B" en una proporción mayor de la establecida en el artículo 15 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+###### ARTICULO 12.
+
+El capital neto a que se refiere el artículo 34 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, será el que fije la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria y de Seguros.
+
+###### ARTICULO 13.
+
+En ningún momento podrán participar en forma alguna en el capital de la Sociedad, personas físicas o morales extranjeras, ni sociedades mexicanas en cuyos estatutos no figure cláusula de exclusión directa o indirecta de extranjeros.
+
+Las personas que contravengan lo dispuesto por este artículo, perderán en favor del Gobierno Federal la participación de que se trate.
+
+###### ARTICULO 14.
+
+La Secretaría de Hacienda y Crédito Público establecerá la forma, proporciones y demás condiciones aplicables a la suscripción, tenencia y circulación de los certificados de la serie "B".
+
+### CAPITULO CUARTO. Administración y Vigilancia
+
+###### ARTICULO 15.
+
+La administración del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, estará encomendada a un Consejo Directivo, a un Comité de Promoción y Apoyo al Comercio Exterior y a un Director General, en sus respectivas esferas de competencia.
+
+###### ARTICULO 16.
+
+El Consejo Directivo estará integrado por trece consejeros distribuidos de la siguiente forma:
+
+I. Nueve consejeros representarán a la serie "A" de certificados de aportación patrimonial que serán:
+
+a) El Secretario de Hacienda y Crédito Público, quien presidirá el Consejo Directivo.
+
+b) El Secretario de Comercio y Fomento Industrial, quien tendrá el carácter de Vicepresidente.
+
+c) Los Titulares de las Secretarías de: Programación y Presupuesto; Agricultura y Recursos Hidráulicos; Relaciones Exteriores; y de Energía, Minas e Industria Paraestatal; y los subsecretarios de Hacienda y Crédito Público y de Comercio Exterior, así como el Director General del Banco de México.
+
+Cada consejero de la serie "A" titular de una Secretaría designará su suplente. En caso distinto se estará a lo dispuesto en el artículo 21 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+II. Cuatro consejeros de la serie "B" que serán designados en los términos que al efecto establezca el Reglamento Orgánico.
+
+Los consejeros de la serie "B" durarán en su cargo un año y podrán continuar hasta que sean sustituidos.
+
+Por cada consejero propietario se nombrará un suplente, en la forma y términos en que lo sean los propietarios.
+
+Las renuncias de los consejeros serán presentadas a la Secretaría de Hacienda y Crédito Público a través del Consejo Directivo de la Sociedad.
+
+Los miembros que se designen para cubrir vacantes durarán en su cargo el tiempo que falte por transcurrir al consejero sustituido.
+
+###### ARTICULO 17.
+
+El Consejo Directivo se reunirá por lo menos una vez al mes, y sesionará válidamente con la asistencia de siete consejeros, siempre y cuando, entre ellos se encuentren por lo menos cuatro de los nombrados por la serie "A".
+
+Las resoluciones se tomarán por mayoría de votos de los consejeros presentes, teniendo el Presidente voto de calidad, en caso de empate.
+
+###### ARTICULO 18.
+
+No podrán ser consejeros:
+
+I. Las personas que se encuentren en los casos señalados por el artículo 22 de la Ley Reglamentaria del Servicio Público de Banca y Crédito; y
+
+II. Dos o más personas que tengan, entre sí, parentesco hasta el tercer grado por consaguinidad o por afinidad.
+
+Si alguno de los consejeros designados llegare a encontrarse comprendido durante el ejercicio de su cargo, en cualquiera de los supuestos anteriores, será sustituido por su suplente por todo el tiempo que dure el impedimento y no se haga designación del consejero propietario.
+
+###### ARTICULO 19.
+
+El Consejo dirigirá a la Sociedad en los términos de lo previsto por el artículo 20 y demás relativos de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+El Consejo Directivo podrá acordar la realización de las operaciones inherentes al objeto de la Sociedad. Los Acuerdos que en su caso dicte respecto a las operaciones previstas en las fracciones VI y XI del artículo 30 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, deberán considerar la propuesta del Director General.
+
+###### ARTICULO 20.
+
+También serán facultades del Consejo Directivo las siguientes:
+
+I. Aprobar el Informe Anual de Actividades que le presente el Director General;
+
+II. Autorizar el otorgamiento de las garantías a que se refieren las fracciones II del artículo 6o. y VI del artículo 7o. de esta Ley.
+
+III. Aprobar las inversiones en capital de riesgo a que se refieren la fracción IV del artículo 6o., la fracción II del artículo 7o. y el artículo 32 de la presente Ley y su enajenación, estableciendo las modalidades que considere convenientes;
+
+IV. Aprobar los demás programas específicos y reglamentos internos de la Sociedad que le presente el Director General, previa autorización de la Secretaría de Hacienda y Crédito Público; y
+
+V. Las demás que prevea el Reglamento Orgánico.
+
+###### ARTICULO 21.
+
+El Comité de Promoción y Apoyo al Comercio Exterior, órgano delegado del Consejo Directivo, estará integrado por cinco consejeros propietarios que serán el Secretario de Comercio y Fomento Industrial, quien lo presidirá; el Secretario de Hacienda y Crédito Público; el Secretario de Relaciones Exteriores; el Director General del Banco de México y el Director General del Banco Nacional de Comercio Exterior. Cada consejero propietario designará a su respectivo suplente, que corresponderá al funcionario de jerarquía inmediata inferior al titular.
+
+###### ARTICULO 22.
+
+El Comité se reunirá por lo menos una vez al mes o con una mayor periodicidad si la importancia de los asuntos así lo amerita; sesionará plenamente con la asistencia de tres de sus miembros, consejeros titulares.
+
+###### ARTICULO 23.
+
+El Comité de Promoción y Apoyo al Comercio Exterior, tendrá las siguientes facultades:
+
+a) Proponer políticas sobre el otorgamiento de créditos y garantías para apoyar el comercio exterior del país.
+
+b) Recomendar los riesgos máximos de responsabilidad crediticia por país, en aquellas operaciones de exportación.
+
+c) Recomendar los riesgos máximos de responsabilidad por seguros y garantía de crédito por país.
+
+d) Sugerir cuándo una operación de exportación debe considerarse de interés nacional.
+
+e) Considerar aquellas operaciones que por sus propias características no correspondan a la práctica internacional.
+
+f) Sugerir la participación en las actividades inherentes a la promoción del comercio exterior, tales como difusión, estudio de productos y servicios exportables, sistemas de ventas, apoyo a la comercialización y organización de productores, comerciantes, distribuidores y exportadores.
+
+g) Crear Comités Consultivos Regionales con la participación de los exportadores organizados.
+
+Las demás que el Consejo Directivo le encomiende.
+
+###### ARTICULO 24.
+
+El Director General será designado por el Ejecutivo Federal a través del Secretario de Hacienda y Crédito Público, debiendo recaer ese nombramiento en persona que reúna los requisitos que establece el artículo 24 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+###### ARTICULO 25.
+
+El Director General tendrá a su cargo la administración y representación legal del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, y sin perjuicio de las atribuciones que correspondan al Consejo Directivo al efecto tendrá las siguientes facultades y funciones:
+
+I. En el ejercicio de sus atribuciones de representación legal, podrá celebrar u otorgar toda clase de actos y documentos inherentes al objeto de la Sociedad. Contará para ello con las más amplias facultades para realizar actos de dominio, administración, pleitos y cobranzas aún de aquellas que requieran de autorización especial según otras disposiciones legales o reglamentarias. En tal virtud y de manera enunciativa podrá emitir, avalar y negociar títulos de crédito, querellarse y otorgar perdón, ejercitar y desistirse de acciones judiciales, inclusive en el juicio de amparo; comprometer en árbitros y transigir, otorgar poderes generales y especiales con todas las facultades que le competan, aun las que requieran cláusula especial, sustituirlos y revocarlos, debiendo obtener autorización expresa del Consejo Directivo cuando se trate de otorgar poderes generales para actos de dominio;
+
+II. Ejecutar las resoluciones del Consejo Directivo;
+
+III. Llevar la firma social;
+
+IV. Actuar como Delegado Fiduciario General;
+
+V. Las que le delegue el Consejo Directivo; y
+
+VI. Las que le señale el Reglamento Orgánico de la Institución.
+
+###### ARTICULO 26.
+
+La vigilancia de la Sociedad estará encomendada a dos comisarios designados, uno por la Secretaría de la Contraloría General de la Federación y el otro por los consejeros de la serie "B". Por cada comisario se nombrará el respectivo suplente. Los comisarios tendrán, en los términos de la Ley Reglamentaria del Servicio Público de Banca y Crédito y del Reglamento Orgánico de la Sociedad, las facultades y obligaciones que requieran para el adecuado cumplimiento de sus funciones, las que podrán ejercer conjunta o separadamente.
+
+###### ARTICULO 27.
+
+En los términos del artículo 27 de la Ley Reglamentaria del Servicio Público de Banca y Crédito, el Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, tendrá una Comisión Consultiva.
+
+###### ARTICULO 28.
+
+Sólo los Gerentes podrán comparecer a absolver posiciones en los términos de la Ley procesal que corresponda. Los demás funcionarios lo harán por oficio.
+
+### CAPITULO QUINTO. Disposiciones Generales
+
+###### ARTICULO 29.
+
+La Secretaría de Hacienda y Crédito Público interpretará a efectos administrativos la presente Ley, y podrá expedir las disposiciones complementarias que se requieran en la aplicación de la misma.
+
+###### ARTICULO 30.
+
+Las operaciones y servicios de la Sociedad, se regirán por lo dispuesto en la presente Ley, y supletoriamente por la Ley Reglamentaria del Servicio Público de Banca y Crédito, por la Ley Orgánica del Banco de México y por las demás disposiciones aplicables.
+
+###### ARTICULO 31.
+
+La Sociedad formulará anualmente sus programas financieros, presupuestos generales de gastos e inversiones y las estimaciones de ingresos, así como sus programas operativos de acuerdo con los lineamientos, medidas y mecanismos que la propia Secretaría de Hacienda y Crédito Público establezca.
+
+Las modalidades de autorizaciones en la asignación de recursos, así como la aprobación de los programas y presupuestos, corresponde a la Secretaría de Hacienda y Crédito Público, en los términos del artículo 10 de la Ley Reglamentaria del Servicio Público de Banca y Crédito; la que procurará el mejor aprovechamiento y la canalización más adecuada de los recursos de la Institución en el marco de la autonomía de gestión requerida para su eficaz funcionamiento, de conformidad con las disposiciones legales aplicables.
+
+###### ARTICULO 32.
+
+La participación en el capital social de empresas a que se refieren la fracción IV del artículo 6o. y la fracción II del artículo 7o. de esta Ley, se sujetará, de manera análoga, a lo dispuesto en el artículo 57 de la Ley Reglamentaria del Servicio Público de Banca y Crédito.
+
+Las inversiones a que se refiere este artículo, sólo computarán para considerar a las emisoras como empresas de participación estatal, cuando el Ejecutivo Federal emita el acuerdo respectivo en el que se declare que las empresas en los términos de las disposiciones aplicables se les ha considerado como entidades de la Administración Pública Federal.
+
+###### ARTICULO 33.
+
+Previa autorización de la Secretaría de Hacienda y Crédito Público, la Sociedad deberá constituir las reservas y fondos necesarios para el adecuado cumplimiento del objeto que esta Ley le encomienda. Las cantidades que se hayan llevado a dichas reservas y fondos, no se considerarán remanentes de operación.
+
+Fijado el monto del remanente y separada la cantidad que corresponda pagar por el impuesto respectivo y por la participación de los trabajadores en las utilidades de la Institución, el saldo se aplicará en los términos previstos por el Reglamento Orgánico.
+
+## TRANSITORIOS
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Las autorizaciones, poderes, mandatos y demás actos jurídicos y medidas administrativas, otorgados, dictados o celebrados con fundamento en las disposiciones aplicables, continuarán en vigor hasta que no sean revocados o modificados por los órganos y autoridades competentes.
+
+###### ARTICULO TERCERO.
+
+El Reglamento Orgánico de la Sociedad deberá expedirse en un plazo no mayor de 180 días, contados a partir de la fecha de la vigencia de la presente Ley. Hasta en tanto, continuará en vigor el expedido el 26 de julio de 1985.
+
+###### ARTICULO CUARTO.
+
+En tanto no se expida el Reglamento Orgánico a que se refiere el artículo anterior, el domicilio social del Banco Nacional de Comercio Exterior, Sociedad Nacional de Crédito, institución de banca de desarrollo, será la ciudad de México, Distrito Federal.
+
+México, D. F., a 19 de diciembre de 1985.- Fernando Ortiz Arana, Dip. Presidente.- Rúbrica.- Socorro Díaz Palacios, Sen. Presidenta.- Rúbrica.- Juan Moisés Calleja, Dip. Secretario.- Rúbrica.- Guillermo Mercado Romero, Sen. Secretario.- Rúbricas".
+
+En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto, en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veinte días del mes de diciembre de mil novecientos ochenta y cinco.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.- El Secretario de Relaciones Exteriores, Bernardo Sepúlveda Amor.- Rúbrica.- P. A. del Secretario de Hacienda y Crédito Público, el Subsecretario Encargado del Despacho, Francisco Suárez Dávila.- Rúbrica.- El Secretario de Programación y Presupuesto, Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Contraloría General de la Federación, Francisco Rojas Gutiérrez.- Rúbrica.- El Secretario de Energía, Minas e Industria Paraestatal, Francisco Labastida Ochoa.- Rúbrica.- P.A. del Secretario de Comercio y Fomento Industrial, el Subsecretario Encargado del Despacho, Mauricio de Maria y Campos.- Rúbrica.- El Secretario de Agricultura y Recursos Hidráulicos, Eduardo Pesqueira Olea.- Rúbrica.
