@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-patronato-para-la-organizacion-14546"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-07-25"
-last_updated: "1998-07-25"
+last_updated: "2004-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DEL PATRONATO PARA LA ORGANIZACION, DIFUSION Y ADMINISTRACION DE LA FERIA NACIONAL POTOSINA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2004.
 
 Reglamento publicado el Periódico Oficial del Estado de San Luis Potosí, el sábado 25 de julio de 1998.
 
@@ -281,9 +281,11 @@ Sin perjuicio a las disposiciones de Decreto Administrativo que lo crea, el Patr
 
 Los recursos financieros del Patronato, serán manejados en cuentas bancarias a nombre de la persona moral y solamente podrán liberarse a su cargo, documentos con la firma mancomunada del Presidente y Tesorero del Patronato, o del Secretario, en ausencia del último.
 
+> <small>(REFORMADO, P.O. 3 DE JULIO DE 2004)</small>
+
 ###### ARTICULO DECIMO SEXTO.
 
-Las relaciones laborales entre el Patronato y sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí.
+Las Relaciones laborales entre el patronato y sus trabajadores se regirán por lo establecido en el apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, y por su ley reglamentaria, Ley Federal del Trabajo.
 
 T R A N S I T O R I O
 
@@ -304,3 +306,13 @@ El Secretario General de Gobierno
 LIC. MARTIN CELSO ZAVALA MARTINEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE JULIO DE 2004.
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en el presente Acuerdo.
+
+TERCERO.- Los derechos laborales adquiridos por los trabajadores del Patronato en servicio actualmente, no se verán afectados por la entrada en vigor del presente Acuerdo.
