@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2001-06-01"
+last_updated: "2002-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE JUNIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE FEBRERO DE 2002.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -727,9 +727,9 @@ ARTICULO 59 bis.- (DEROGADO, D.O.F. 10 DE ENERO DE 1994)
 
 En los casos de delitos culposos se impondrá hasta la cuarta parte de las penas y medidas de seguridad asignadas por la ley al tipo básico del delito doloso, con excepción de aquéllos para los que la ley señale una pena específica. Además, se impondrá, en su caso, suspensión hasta de diez años, o privación definitiva de derechos para ejercer profesión, oficio, autorización, licencia o permiso.
 
-(REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
-Las sanciones por delito culposo sólo se impondrán con relación a los delitos previstos en los siguientes artículos: 150, 167 fracción VI, 169, 199 bis, 289 parte segunda, 290, 291, 292, 293, 302, 307, 323, 397 y 399 de este Código.
+Las sanciones por delitos culposos sólo se impondrán en relación con los delitos previstos en los siguientes artículos: 150, 167, fracción VI, 169, 199 Bis, 289, parte segunda, 290, 291, 292, 293, 302, 307, 323, 397, 399, 414, primer párrafo y tercero en su hipótesis de resultado, 415, fracciones I y II y último párrafo en su hipótesis de resultado, 416, 420, fracciones I, II, III y V, y 420 Bis, fracciones I, II y IV de este Código.
 
 (REFORMADO [N. DE E. ADICIONADO], D.O.F. 10 DE ENERO DE 1994) (F. DE E., D.O.F. 1 DE FEBRERO DE 1994)
 
@@ -4207,9 +4207,9 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 
 ## TITULO VIGESIMO SEGUNDO. Delitos en contra de las personas en su patrimonio
 
-### CAPITULO UNICO. Delitos ambientales
+### CAPÍTULO I. De las actividades tecnológicas y peligrosas
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 344.
 
@@ -4226,6 +4226,10 @@ Los ascendientes o tutores que entreguen en una casa de expósitos un niño que 
 ###### ARTICULO 347.
 
 (DEROGADO, D.O.F. 23 DE DICIEMBRE DE 1985)
+
+### CAPITULO II. De la biodiversidad
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 348.
 
@@ -4287,6 +4291,16 @@ Cuando la queja fuere de calumnia, se permitirán al reo pruebas de su imputaci�
 
 No servirá de excusa de la difamación, ni de la calumnia: que el hecho imputado sea notorio, o que el reo no haya hecho más que reproducir lo ya publicado en la República o en otro país.
 
+### CAPITULO III. De la bioseguridad
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
+ARTICULO 420 ter.- Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, a quien en contravención a lo establecido en la normatividad aplicable, introduzca al país, o extraiga del mismo, comercie, transporte, almacene o libere al ambiente, algún organismo genéticamente modificado que altere o pueda alterar negativamente los componentes, la estructura o el funcionamiento de los ecosistemas naturales.
+
+Para efectos de este artículo, se entenderá como organismo genéticamente modificado, cualquier organismo que posea una combinación nueva de material genético que se haya obtenido mediante la aplicación de la biotecnología, incluyendo los derivados de técnicas de ingeniería genética.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
 ###### ARTICULO 356.
 
 Por el delito de calumnia se castigará con prisión de seis meses a dos años o multa de dos a trescientos pesos, o ambas sanciones a juicio del juez:
@@ -4316,6 +4330,26 @@ No se admitirá prueba alguna de su imputación al acusado de calumnia, ni se li
 ###### ARTICULO 359.
 
 Cuando haya pendiente un juicio, en averiguación de un delito imputado a alguien calumniosamente, se suspenderá el ejercicio de la acción de calumnia hasta que dicho juicio termine. En este caso la prescripción comenzará a correr cuando termine el juicio.
+
+### CAPITULO IV. Delitos contra la gestión ambiental
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
+ARTICULO 420 quater.- Se impondrá pena de uno a cuatro años de prisión y de trescientos a tres mil días multa, a quien:
+
+I. Transporte o consienta, autorice u ordene que se transporte, cualquier residuo considerado como peligroso por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, biológico infecciosas o radioactivas, a un destino para el que no se tenga autorización para recibirlo, almacenarlo, desecharlo o abandonarlo;
+
+II. Asiente datos falsos en los registros, bitácoras o cualquier otro documento utilizado con el propósito de simular el cumplimiento de las obligaciones derivadas de la normatividad ambiental federal;
+
+III. Destruya, altere u oculte información, registros, reportes o cualquier otro documento que se requiera mantener o archivar de conformidad a la normatividad ambiental federal;
+
+IV. Prestando sus servicios como auditor técnico, especialista o perito o especialista en materia de impacto ambiental, forestal, en vida silvestre, pesca u otra materia ambiental, faltare a la verdad provocando que se cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua o al ambiente, o
+
+V. No realice o cumpla las medidas técnicas, correctivas o de seguridad necesarias para evitar un daño o riesgo ambiental que la autoridad administrativa o judicial le ordene o imponga.
+
+Los delitos previstos en el presente Capítulo se perseguirán por querella de la Procuraduría Federal de Protección al Ambiente.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 360.
 
@@ -4347,9 +4381,13 @@ Siempre que sea condenado el responsable de una injuria, de una difamación o de
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 29 DE JULIO DE 1970)</small>
 
-## TITULO VIGESIMO QUINTO
+## TITULO VIGESIMO QUINTO. Delitos contra el ambiente y la gestión ambiental
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 6 DE FEBRERO DE 2002)</small>
+
+### CAPÍTULO V. Disposiciones comunes a los delitos contra el ambiente
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 364.
 
@@ -5231,101 +5269,135 @@ Se impondrá prisión de dos a nueve años, al funcionario partidista o a los or
 
 Los responsables de los delitos contenidos en el presente capítulo por haber acordado o preparado su realización en los términos de la fracción I del artículo 13 de este Código no podrán gozar del beneficio de la libertad provisional.
 
-> <small>(ADICIONADO CON EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 414.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin contar con las autorizaciones respectivas o violando las normas oficiales mexicanas a que se refiere el artículo 147 de la Ley General del Equilibrio Ecológico y la Protección al Ambiente, realice, autorice u ordene la realización de actividades que conforme a ese mismo ordenamiento se consideren como altamente riesgosas y que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna, o a los ecosistemas.
+Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa al que ilícitamente, o sin aplicar las medidas de prevención o seguridad, realice actividades de producción, almacenamiento, tráfico, importación o exportación, transporte, abandono, desecho, descarga, o realice cualquier otra actividad con sustancias consideradas peligrosas por sus características corrosivas, reactivas, explosivas, tóxicas, inflamables, radioactivas u otras análogas, lo ordene o autorice, que cause un daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua, al suelo, al subsuelo o al ambiente.
 
-En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un centro de población, la pena de prisión se incrementará hasta en tres años.
+La misma pena se aplicará a quien ilícitamente realice las conductas con las sustancias enunciadas en el párrafo anterior, o con sustancias agotadoras de la capa de ozono y cause un riesgo de daño a los recursos naturales, a la flora, a la fauna, a los ecosistemas, a la calidad del agua o al ambiente.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+En el caso de que las actividades a que se refieren los párrafos anteriores, se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil días multa, a excepción de las actividades realizadas con sustancias agotadoras de la capa de ozono.
+
+Cuando las conductas a las que se hace referencia en los párrafos primero y segundo de este artículo, se lleven a cabo en zonas urbanas con aceites gastados o sustancias agotadoras de la capa de ozono en cantidades que no excedan 200 litros, o con residuos considerados peligrosos por sus características biológico-infecciosas, se aplicará hasta la mitad de la pena prevista en este artículo, salvo que se trate de conductas repetidas con cantidades menores a las señaladas cuando superen dicha cantidad.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 415.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, a quien:
+Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, a quien sin aplicar las medidas de prevención o seguridad:
 
-I.- Sin autorización de la autoridad federal competente o contraviniendo los términos en que haya sido concedida, realice cualquier actividad con materiales o residuos peligrosos que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, la fauna, la flora o a los ecosistemas;
+I. Emita, despida, descargue en la atmósfera, lo autorice u ordene, gases, humos, polvos o contaminantes que ocasionen daños a los recursos naturales, a la fauna, a la flora, a los ecosistemas o al ambiente, siempre que dichas emisiones provengan de fuentes fijas de competencia federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, o
 
-II.- Con violación a lo establecido en las disposiciones legales o normas oficiales mexicanas aplicables, emita, despida, descargue en la atmósfera, o lo autorice u ordene, gases, humos o polvos que ocasionen daños a la salud pública, a los recursos naturales, a la fauna, a la flora o a los ecosistemas, siempre que dichas emisiones provengan de fuentes fijas de jurisdicción federal, conforme a lo previsto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente; o
+II. Genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de competencia federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a los recursos naturales, a la flora, a la fauna, a los ecosistemas o al ambiente.
 
-III.- En contravención a las disposiciones legales o normas oficiales mexicanas, genere emisiones de ruido, vibraciones, energía térmica o lumínica, provenientes de fuentes emisoras de jurisdicción federal, conforme al ordenamiento señalado en la fracción anterior, que ocasionen daños a la salud pública, a los recursos naturales, a la flora, a la fauna o a los ecosistemas.
+Las mismas penas se aplicarán a quien ilícitamente lleve a cabo las actividades descritas en las fracciones anteriores, que ocasionen un riesgo a los recursos naturales, a la flora, a la fauna, a los ecosistemas o al ambiente.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+En el caso de que las actividades a que se refiere el presente artículo se lleven a cabo en un área natural protegida, la pena de prisión se incrementará hasta en tres años y la pena económica hasta en mil días multa.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 416.
 
-Se impondrá pena de tres meses a seis años de prisión y de mil a veinte mil días multa, al que sin la autorización que en su caso se requiera, o en contravención a las disposiciones legales, reglamentarias y normas oficiales mexicanas:
+Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que ilícitamente descargue, deposite, o infiltre, lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, subsuelos, aguas marinas, ríos, cuencas, vasos o demás depósitos o corrientes de agua de competencia federal, que cause un riesgo de daño o dañe a los recursos naturales, a la flora, a la fauna, a la calidad del agua, a los ecosistemas o al ambiente.
 
-I.- Descargue, deposite, o infiltre, o lo autorice u ordene, aguas residuales, líquidos químicos o bioquímicos, desechos o contaminantes en los suelos, aguas marinas, ríos, cuencas, vasos y demás depósitos o corrientes de agua de jurisdicción federal, que ocasionen o puedan ocasionar daños a la salud pública, a los recursos naturales, a la flora, a la fauna, a la calidad del agua de las cuencas o a los ecosistemas.
+Cuando se trate de aguas que se encuentren depositadas, fluyan en o hacia una área natural protegida, la prisión se elevará hasta tres años más y la pena económica hasta mil días multa.
 
-Cuando se trate de aguas para ser entregadas en bloque a centros de población, la pena se podrá elevar hasta tres años más; o
-
-II.- Destruya, deseque o rellene humedales, manglares, lagunas, esteros o pantanos.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 417.
 
-Se impondrá pena de seis meses a seis años de prisión y de cien a veinte mil días multa, al que introduzca al territorio nacional, o comercie con recursos forestales, flora o fauna silvestre viva, sus productos o derivados o sus cadáveres que padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales y a los ecosistemas, o daños a la salud pública.
+Se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa, al que introduzca al territorio nacional, o trafique con recursos forestales, flora o fauna silvestre viva o muerta, sus productos o derivados, que porten, padezcan o hayan padecido, según corresponda alguna enfermedad contagiosa, que ocasione o pueda ocasionar su diseminación o propagación o el contagio a la flora, a la fauna, a los recursos forestales o a los ecosistemas.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 418.
 
-Al que sin contar con la autorización que se requiera conforme a la Ley Forestal, desmonte o destruya la vegetación natural, corte, arranque, derribe o tale árboles, realice aprovechamientos de recursos forestales o cambios de uso del suelo, se le impondrá pena de tres meses a seis años de prisión y por el equivalente de cien a veinte mil días multa.
+Se impondrá pena de seis meses a nueve años de prisión y por equivalente de cien a tres mil días multa, siempre que dichas actividades no se realicen en zonas urbanas, al que ilícitamente:
 
-La misma pena se aplicará a quien dolosamente ocasione incendios en bosques, selva, o vegetación natural que dañen recursos naturales, la flora o la fauna silvestre o los ecosistemas.
+I. Desmonte o destruya la vegetación natural;
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
+II. Corte, arranque, derribe o tale algún o algunos árboles, o
+
+III. Cambie el uso del suelo forestal.
+
+La pena de prisión deberá aumentarse hasta en tres años más y la pena económica hasta en mil días multa, para el caso en el que las conductas referidas en las fracciones del primer párrafo del presente artículo afecten un área natural protegida.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 419.
 
-A quien transporte, comercie, acopie o transforme recursos forestales maderables en cantidades superiores a cuatro metros cúbicos rollo o su equivalente, para los cuales no se haya autorizado su aprovechamiento conforme a la Ley Forestal, se impondrá pena de tres meses a seis años de prisión y de cien a veinte mil días multa, excepto en los casos de aprovechamientos de recursos forestales para uso doméstico, conforme a lo dispuesto en la Ley Forestal.
+A quien ilícitamente transporte, comercie, acopie, almacene o transforme madera en rollo, astillas, carbón vegetal, así como cualquier otro recurso forestal maderable, o tierra procedente de suelos forestales en cantidades superiores a cuatro metros cúbicos o, en su caso, a su equivalente en madera aserrada, se impondrá pena de uno a nueve años de prisión y de trescientos a tres mil días multa. La misma pena se aplicará aun cuando la cantidad sea inferior a cuatro metros cúbicos, si se trata de conductas reiteradas que alcancen en su conjunto esta cantidad.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+La pena privativa de la libertad a la que se hace referencia en el párrafo anterior se incrementará hasta en tres años más de prisión y la pena económica hasta en mil días multa, cuando los recursos forestales maderables provengan de un área natural protegida.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 420.
 
-Se impondrá pena de seis meses a seis años de prisión y por el equivalente de mil a veinte mil días multa, a quien:
+Se impondrá pena de uno a nueve años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
 
-I.- De manera dolosa capture, dañe o prive de la vida a algún mamífero o quelonio marino o recolecte o comercialice en cualquier forma sus productos o subproductos, sin contar con la autorización que, en su caso, corresponda;
+I. Capture, dañe o prive de la vida a algún ejemplar de tortuga o mamífero marino, o recolecte o almacene de cualquier forma sus productos o subproductos;
 
-II.- De manera dolosa capture, transforme, acopie, transporte, destruya o comercie con especies acuáticas declaradas en veda, sin contar con la autorización que, en su caso, corresponda;
+II. Capture, transforme, acopie, transporte o dañe ejemplares de especies acuáticas declaradas en veda;
 
-III.- Realice la caza, pesca o captura de especies de fauna silvestre utilizando medios prohibidos por la normatividad aplicable o amenace la extinción de las mismas;
+III. Realice actividades de caza, pesca o captura con un medio no permitido, de algún ejemplar de una especie de fauna silvestre, o ponga en riesgo la viabilidad biológica de una población o especie silvestres;
 
-IV.- Realice cualquier actividad con fines comerciales con especies de flora o fauna silvestre consideradas endémicas, amenazadas, en peligro de extinción, raras o sujetas a protección especial, así como sus productos o subproductos y demás recursos genéticos, sin contar con la autorización o permiso correspondiente o que, en su caso, estén declaradas en veda; o
+IV. Realice cualquier actividad con fines de tráfico, o capture, posea, transporte, acopie, introduzca al país o extraiga del mismo, algún ejemplar, sus productos o subproductos y demás recursos genéticos, de una especie de flora o fauna silvestres, terrestres o acuáticas en veda, considerada endémica, amenazada, en peligro de extinción, sujeta a protección especial, o regulada por algún tratado internacional del que México sea parte, o
 
-V.- Dolosamente dañe a las especies de flora o fauna silvestres señaladas en la fracción anterior.
+V. Dañe algún ejemplar de las especies de flora o fauna silvestres, terrestres o acuáticas señaladas en la fracción anterior.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+Se aplicará una pena adicional hasta de tres años más de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o cuando se realicen con fines comerciales.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
+
+ARTICULO 420 bis.- Se impondrá pena de dos a diez años de prisión y por el equivalente de trescientos a tres mil días multa, a quien ilícitamente:
+
+I. Dañe, deseque o rellene humedales, manglares, lagunas, esteros o pantanos;
+
+II. Dañe arrecifes;
+
+III. Introduzca o libere en el medio natural, algún ejemplar de flora o fauna exótica que perjudique a un ecosistema, o que dificulte, altere o afecte las especies nativas o migratorias en los ciclos naturales de su reproducción o migración, o
+
+IV. Provoque un incendio en un bosque, selva, vegetación natural o terrenos forestales, que dañe elementos naturales, flora, fauna, los ecosistemas o al ambiente.
+
+Se aplicará una pena adicional hasta de dos años de prisión y hasta mil días multa adicionales, cuando las conductas descritas en el presente artículo se realicen en o afecten un área natural protegida, o el autor o partícipe del delito previsto en la fracción IV, realice la conducta para obtener un lucro o beneficio económico.
+
+> <small>(ADICIONADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 421.
 
-Además de lo establecido en el presente Título, el juez podrá imponer alguna o algunas de las siguientes penas:
+Además de lo establecido en los anteriores capítulos del Título Vigésimo Quinto, se impondrá alguna o algunas de las siguientes penas o medidas de seguridad:
 
-I.- La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
+I. La realización de las acciones necesarias para restablecer las condiciones de los elementos naturales que constituyen los ecosistemas afectados, al estado en que se encontraban antes de realizarse el delito;
 
-II.- La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
+II. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo;
 
-III.- La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos; y
+III. La reincorporación de los elementos naturales, ejemplares o especies de flora y fauna silvestre, a los hábitat de que fueron sustraídos, siempre y cuando su reincorporación no constituya un peligro al equilibrio ecológico o dificulte la reproducción o migración de especies de flora o fauna silvestre;
 
-IV.- El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestres amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte.
+IV. El retorno de los materiales o residuos peligrosos o ejemplares de flora y fauna silvestre amenazados o en peligro de extinción, al país de origen, considerando lo dispuesto en los tratados y convenciones internacionales de que México sea parte, o
 
-Para los efectos a que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente, la expedición del dictamen técnico correspondiente.
+V. Inhabilitación, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+Los trabajos a favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+
+Para los efectos a los que se refiere este artículo, el juez deberá solicitar a la dependencia federal competente o a las instituciones de educación superior o de investigación científica, la expedición del dictamen técnico correspondiente.
+
+Las dependencias de la administración pública competentes, deberán proporcionar al ministerio público o al juez, los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
+
+Siempre que el procesado repare el daño voluntariamente sin que se haya resuelto dicha obligación por resolución administrativa, las punibilidades correspondientes a los delitos cometidos, serán las resultantes de disminuir en una mitad los parámetros mínimos y máximos contemplados en este Título.
+
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 422.
 
-Las dependencias de la administración pública competentes, deberán proporcionar al juez los dictámenes técnicos o periciales que se requieran con motivo de las denuncias presentadas por la comisión de los delitos a que se refiere el presente Título.
+En el caso de los delitos contra el ambiente, cuando el autor o partícipe tenga la calidad de garante respecto de los bienes tutelados, la pena de prisión se aumentará hasta en tres años.
 
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 6 DE FEBRERO DE 2002)</small>
 
 ###### ARTICULO 423.
 
-Tratándose de los delitos ambientales, los trabajos en favor de la comunidad a que se refiere el artículo 24 de este ordenamiento, consistirán en actividades relacionadas con la protección al ambiente o la restauración de los recursos naturales.
+No se aplicará pena alguna respecto a lo dispuesto por el párrafo primero del artículo 418, así como para la transportación de leña o madera muerta a que se refiere el artículo 419, cuando el sujeto activo sea campesino y realice la actividad con fines de uso o consumo doméstico dentro de su comunidad.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -5988,3 +6060,9 @@ CUARTO.- Se derogan las disposiciones que se opongan al presente Decreto.
 D.O.F. 1 DE JUNIO DE 2001.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE FEBRERO DE 2002.
+
+PRIMERO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los artículos del Título Vigésimo Quinto del Código Penal Federal, vigentes hasta la entrada en vigor del presente decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos. Lo anterior sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código Penal Federal.
