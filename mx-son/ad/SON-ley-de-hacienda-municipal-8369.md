@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-municipal-8369"
 country: "mx"
 rank: "ley"
 publication_date: "1983-12-29"
-last_updated: "1991-06-27"
+last_updated: "1992-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE HACIENDA MUNICIPAL
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 27 DE JUNIO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE ENERO DE 1992.
 
 Ley publicada en la Sección Decimacuarta del Boletín Oficial del Estado de Sonora, el jueves 29 de diciembre de 1983.
 
@@ -493,7 +493,7 @@ Son obligaciones de los contribuyentes, así como de los sujetos que tengan obli
 
 > <small>(REFORMADA, B.O. 16 DE NOVIEMBRE DE 1987)</small>
 
-I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva .
+I.- Inscribirse, dentro de los diez días siguientes a la fecha de iniciación de operaciones, o de que naciere a su cargo la obligación de retener o recaudar contribuciones municipales, en el Registro de Empadronamiento de la Tesorería Municipal respectiva.
 
 II.- Pagar oportunamente los créditos fiscales en los términos que dispongan las leyes fiscales municipales.
 
@@ -941,11 +941,11 @@ Las Tesorerías Municipales, podrán nombrar interventores para que concurran a 
 
 Los Ayuntamientos de los Municipios del Estado, conforme a sus características y necesidades propias, podrán proponer en sus Iniciativas de Leyes de Ingresos y Presupuestos de Ingresos, los impuestos adicionales que requieran, los que en todo caso deberán fijarse como respaldo financiero en obras y acciones de interés general, asistencia social, mejoramiento en la prestación de los servicios públicos, fomento turístico, fomento deportivo y sostenimiento de instituciones de educación media y superior.
 
-> <small>(REFORMADO, B.O. 27 DE JUNIO DE 1991)</small>
+> <small>(REFORMADO, B.O. 30 DE ENERO DE 1992)</small>
 
 ###### ARTICULO 101.
 
-Será objeto de este impuesto la realización de pagos por conceptos de los impuestos y derechos que establece esta Ley, a excepción de los impuestos predial y sobre traslación de dominio de bienes inmuebles y derechos de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistemas de control de tiempo y espacio.
+Será objeto de este impuesto la realización de pagos por concepto de los impuestos y derechos que establece esta Ley, a excepción del Impuesto Predial, Impuestos sobre Diversiones y Espectáculos Públicos tratándose de obras de teatro y funciones de circo, cine o cinematógrafos ambulantes y derecho de estacionamiento de vehículos en la vía pública, donde se hayan instalado sistema de control de tiempo y espacio.
 
 ###### ARTICULO 102.
 
@@ -1906,3 +1906,9 @@ II.- El impuesto que resulte a cargo del contribuyente en los años a que se ref
 ###### ARTICULO SEGUNDO.
 
 La presente Ley entrará en vigor previa su publicación en el Boletín Oficial del Gobierno del Estado, el día 1º. de julio de 1991.
+
+B.O. 30 DE ENERO DE 1992.
+
+###### ARTICULO UNICO.
+
+Esta Ley entrará en vigor en todo el Estado, el día 1o. de abril de 1992, previa su publicación en el Boletín Oficial del Estado.
