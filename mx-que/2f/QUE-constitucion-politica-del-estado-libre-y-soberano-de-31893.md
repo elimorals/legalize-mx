@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1988-04-14"
+last_updated: "1988-08-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 1988.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -403,7 +403,9 @@ I.- Cuando haya falta absoluta del propietario;
 
 II.- Cuando después de llamados los Diputados propietarios, para la instalación del Congreso, no se presenten oportunamente, y mientras concurren los compelidos a integrar la Cámara;
 
-III.- Cuando los Diputados propietarios hubieren dejado de concurrir sin causa justificada, y sin licencia de la Legislatura, a diez sesiones consecutivas, de las que deban verificarse en un período de sesiones;
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1988)</small>
+
+III.- Cuando los Diputados propietarios hubieren dejado de concurrir sin causa justificada, y sin licencia de la Legislatura, a cinco sesiones consecutivas de las que deban verificarse un periodo de sesiones;
 
 IV.- En los demás casos que señale el reglamento interior de la Cámara.
 
@@ -683,9 +685,9 @@ XXXVIII.- Revisar la Ley de Ingresos Municipales, y decretar la Ley General Org�
 
 XXXIX.- Llamar a los diputados suplentes electos por los principios de mayoría relativa o representación proporcional, en caso de imposibilidad o muerte de los propietarios, y si aquellos también hubiesen fallecido o estuvieren imposibilitados para cubrir las faltas de sus propietarios, declarar vacante el puesto, expidiendo, en su caso, la convocatoria para que se proceda a nueva elección en los términos que fije la Ley.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADA, P.O. 18 DE AGOSTO DE 1988)</small>
 
-XL.- Llamar a los diputados suplentes cuando los propietarios falten a diez sesiones consecutivas sin causa justificada, a juicio de la Honorable Legislatura, entendiéndose por esto que dichos propietarios renuncian a concurrir al período de sesiones en ejercicio.
+XL.- Llamar a los diputados suplentes cuando los propietarios falten a cinco sesiones consecutivas sin causa justificada, a juicio de la Honorable Legislatura, entendiéndose por esto que dichos propietarios renuncian a concurrir al periodo de sesiones en ejercicio.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1928)</small>
 
@@ -759,9 +761,11 @@ La falta de cumplimiento de la obligación que impone este artículo, será caus
 
 De la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 18 DE AGOSTO DE 1988)</small>
+
 ###### Art. 67.
 
-En la última sesión de las ordinarias, la Legislatura, mediante votación secreta, nombrará por el tiempo de receso, una Diputación Permanente, compuesta de seis Diputados en ejercicio, de los cuales, tres habrán de funcionar como propietarios y tres como suplentes.
+En la última sesión de las ordinarias, la Legislatura, mediante votación secreta, nombrará por el tiempo de receso una diputación permanente compuesta por diez diputados en ejercicio, de los cuales cinco habrán de funcionar como propietarios y cinco como suplentes.
 
 ###### Art. 68.
 
@@ -1343,9 +1347,11 @@ Esta Constitución puede ser adicionada o reformada. Las proposiciones que tenga
 
 Las proposiciones de reforma o adición, que no fueren admitidas por la Legislatura, no podrán repetirse en el mismo período de sesiones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE AGOSTO DE 1988)</small>
+
 ###### Art. 163.
 
-La Legislatura al discutir las reformas o adiciones a esta Constitución, se sujetará a los trámites establecidos para la formación de las leyes, sin que pueda ser dispensado ninguno de ellos; y en el caso de que las reformas o adiciones sean aprobadas por las tres cuartas partes del número total de los miembros de la Legislatura, se mandarán publicar, y se remitirán a los Ayuntamientos de las Municipalidades. Si la mayoría de éstos las aprueban, se tendrá por reformado o adicionada la Constitución.
+La Legislatura, al discutir las reformas o adiciones a esta Constitución, se sujetará a los trámites establecidos para la formación de las Leyes, sin que pueda ser dispensado en ninguno de ellos; y en el caso de que las reformas o adiciones sean aprobadas por las dos terceras partes del número total de los miembros de la Legislatura, se mandarán publicar y se remitirán a los ayuntamientos de las municipalidades. Si la mayoría de estos las aprueban, se tendrá por reformada o adicionada la Constitución.
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 1983)</small>
 
@@ -2078,3 +2084,13 @@ Publíquese la presente Ley en el Periódico Oficial del Gobierno del Estado "La
 ###### ARTICULO SEGUNDO.
 
 Aprobadas, en su caso las Reformas y Adiciones propuestas al texto de la Constitución Política Local, la presente Ley entrará en vigor al día siguiente de la publicación de la Declaratoria que al respecto emita el Congreso.
+
+P.O. 18 DE AGOSTO DE 1988
+
+###### ARTICULO PRIMERO.
+
+Publíquese la presente ley en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga" y en los cartelones que señala el artículo 164 de la Constitución Política Local y remítase copia autorizada de la misma a los ayuntamientos de los municipios de la entidad para los efectos previstos en el artículo 163 de la Ley Suprema invocada.
+
+###### ARTICULO SEGUNDO.
+
+Aprobadas, en su caso, las reformas y adiciones propuestas al texto de la Constitución Política Local la presente ley entrará en vigor al día siguiente de la publicación de la declaratoria que al respecto emita el Congreso.
