@@ -4,7 +4,7 @@ identifier: "FED-ley-reglamentaria-de-los-articulos-103-y-104-de-la-2579"
 country: "mx"
 rank: "ley"
 publication_date: "1919-10-22"
-last_updated: "1924-12-06"
+last_updated: "1936-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2579&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "1919-10-18"
 ---
 # LEY REGLAMENTARIA DE LOS ARTICULOS 103 Y 104 DE LA CONSTITUCION FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO OCTAVO DE LA LEY ORGÁNICA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN FEDERAL, PUBLICADA EN EL D.O.F. DE 10 DE ENERO DE 1936, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 LEY REGLAMENTARIA DE LOS ARTÍCULOS 103 Y 104 DE LA CONSTITUCIÓN FEDERAL
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 6 DE DICIEMBRE DE 1924.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 10 DE ENERO DE 1936 (DEROGADA).
 
 Ley publicada sucesivamente en los Diarios Oficiales Números 44, 45, 46 y 47 de fecha 22, 23, 24 y 25 de octubre de 1919, respectivamente.
 
@@ -1066,3 +1066,49 @@ Al C. Lic. Manuel Aguirre Berlanga, Secretario de Estado y del Despacho de Gober
 Lo que me honro en comunicar a usted para su publicación y demás efectos.
 
 Constitución y Reformas. México, octubre 20 de 1919.- Aguirre Berlanga. Rúbricas. Al C…
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 10 DE ENERO DE 1936.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DE LOS ARTÍCULOS 103 Y 107 DE LA CONSTITUCIÓN FEDERAL”.]
+
+###### ARTICULO 1°.
+
+Esta ley comenzará a regir el día de su publicación en el “Diario Oficial” de la Federación.
+
+###### ARTICULO 2°.
+
+Los juicios de amparo iniciados ante los Juzgados de Distrito contra laudos de las juntas de conciliación y arbitraje, sean federales o locales, que se encuentren pendientes de resolución ante ellos, al entrar en vigor la presente ley, continuarán tramitándose en dichos juzgados con arreglo a la Ley Reglamentaria de los artículos 103 y 104 de la Constitución Federal de 18 de octubre de 1919; y si se interpusiere revisión, ésta se substanciará y decidirá conforme a la presente.
+
+###### ARTICULO 3°.
+
+Los juicios de amparo que se encuentren pendientes de resolución ante la Suprema Corte de Justicia, seguirán tramitándose de conformidad con la presente ley.
+
+###### ARTICULO 4°.
+
+Los juicios de amparo que se encuentren en revisión y los promovidos directamente ante la Suprema Corte de Justicia, pendientes de resolución, en que únicamente se afecten derechos patrimoniales, sólo podrán continuarse y decidirse si el agraviado o recurrente lo solicitare dentro del término de seis meses, contado desde el día siguiente al en que entre en vigor esta ley.
+
+No haciéndose la promoción a que se refiere el párrafo anterior, se tendrá por desistido al quejoso de su demanda o al recurrente del recurso interpuesto.
+
+###### ARTICULO 5°.
+
+Se exceptúan de lo dispuesto en el artículo anterior:
+
+I.- Los juicios promovidos contra las juntas de conciliación y arbitraje, cuando el quejoso o recurrente sea la parte obrera;
+
+II.- Los juicios en que el agraviado o recurrente sea el Fisco Federal, o el de algún Estado o Municipio;
+
+III.- Los amparos que se relacionen con los bienes que menciona el artículo 27 de la Constitución Federal en su fracción VII, inciso segundo.
+
+###### ARTICULO 6°.
+
+Las competencias promovidas por los jueces de Distrito conforme al artículo 35, fracciones III y IV, de la Ley Reglamentaria de los artículos 103 y 104 de la Constitución Federal, de 18 de octubre de 1919, que se encuentran pendientes de resolución ante la Suprema Corte de Justicia al entrar en vigor la presente ley, continuarán tramitándose y se resolverán conforme a aquélla; pero será aplicable, en su caso, lo dispuesto en el artículo 51, párrafo quinto, de esta ley.
+
+###### ARTICULO 7°.
+
+La jurisprudencia establecida por la Suprema Corte de Justicia hasta la fecha en que esta ley entre en vigor, obligará, en los términos del artículo 194 de la misma, y sólo podrá modificarse en la forma que previene el artículo 195.
+
+###### ARTICULO 8°.
+
+Se deroga la Ley Reglamentaria de los artículos 103 y 104 de la Constitución Federal, de fecha 18 de octubre de 1919.
