@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1982-05-11"
+last_updated: "1983-02-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE MAYO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE FEBRERO DE 1983.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -339,6 +339,14 @@ XVII. Corrección del Estilo;
 
 XVIII. Seguridad Pública, Prevención y Readaptación Social.
 
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1983)</small>
+
+XIX. De Asistencia Social; y
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 1983)</small>
+
+XX. De Protección y Mejoramiento Ambiental
+
 Además de las Comisiones citadas, el Congreso podrá designar otras, también de carácter permanente, mediante el acuerdo de las dos terceras partes de los integrantes de la Legislatura, que tendrán las facultades que expresamente les señale el acuerdo que las creó.
 
 ###### Artículo 31.
@@ -551,9 +559,9 @@ III. Proponer a la Asamblea, la edición de libros, revistas o folletos, propios
 
 Corresponde a la Comisión de Corrección del Estilo, revisar gramaticalmente tanto el texto de los dictámenes propuestos por las Comisiones o por los Diputados, como el de las Minutas aprobadas por la Asamblea para los efectos legales consiguientes.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 1982)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE FEBRERO DE 1983)</small>
 
-###### Artículo 47 Bis.
+###### Artículo 47-A.
 
 Corresponde a la Comisión de Seguridad Pública, Prevención y Readaptación Social, conocer de los asuntos legislativos relacionados con:
 
@@ -564,6 +572,22 @@ II. La organización y coordinación de la política criminológica penitenciari
 III. El mantenimiento del orden, la tranquilidad pública y la protección jurídica de las personas, de sus propiedades y derechos, en el ámbito estatal;
 
 IV. En coordinación con la Comisión de Estudios Legislativos, Puntos Constitucionales y Reglamentos, dictaminar sobre las leyes y reglamentos que establezcan y regulen los sistemas integrales de tratamiento penal, así como el funcionamiento de los cuerpos de seguridad pública existentes, y de los que en el futuro sean creados.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1983)</small>
+
+###### Artículo 47-B.
+
+Corresponde a la Comisión de Asistencia Social el conocimiento de los siguientes asuntos:
+
+I. Los que se refieren a la expedición de Leyes Asistenciales y a las adiciones, modificaciones o enmiendas de ordenamientos de esta materia ya existentes en el Estado; y
+
+II. Los que se refieren a los planes de desarrollo asistencial que sean de competencia estatal.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 1983)</small>
+
+###### Artículo 47-C.
+
+Corresponde a la Comisión de Protección y Mejoramiento Ambiental el conocimiento de los Asuntos relacionados con la prevención y control de la contaminación, así como la conservación y restauración del ambiente en el estado de Jalisco.
 
 ###### Artículo 48.
 
@@ -1216,3 +1240,7 @@ La periodicidad del "diario de los Debates", estará vinculada a la de las Sesio
 P.O. 11 DE MAYO DE 1982
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 26 DE FEBRERO DE 1983
+
+Unico. Este Derecho (sic) entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
