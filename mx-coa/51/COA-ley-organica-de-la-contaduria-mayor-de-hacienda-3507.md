@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-contaduria-mayor-de-hacienda-3507"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1989-11-14"
-last_updated: "1997-04-22"
+last_updated: "1998-04-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGANICA DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE ABRIL DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 14 de noviembre de 1989.
 
@@ -53,9 +53,13 @@ La Comisión de la Contaduría Mayor de Hacienda a que se refiere el artículo a
 
 La Comisión de la Contaduría Mayor de Hacienda del Congreso del Estado, tendrá las siguientes atribuciones:
 
-I.- Estudiar y aprobar, en su caso, el ejercicio del presupuesto trimestral y revisar las cuentas anuales y mensuales que presente la Contaduría Mayor de Hacienda;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
 
-II.- Recibir y turnar para su revisión a la Contaduría Mayor de Hacienda, las cuentas públicas estatales y municipales;
+I.- Estudiar y aprobar, en su caso, el ejercicio del presupuesto trimestral y revisar las cuentas públicas que presente, sobre sus ingresos y egresos, la Contaduría Mayor de Hacienda;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+II.- Recibir y turnar a la Contaduría Mayor de Hacienda, para su revisión, las cuentas públicas estatales y municipales y elaborar el dictamen de cuenta pública;
 
 III.- Ordenar, en caso de que lo juzgue necesario la práctica de visitas, inspecciones, auditorías o trabajos de investigación adicionales a los contenidos en los programas de trabajo formulados por la Contaduría Mayor de Hacienda;
 
@@ -63,7 +67,11 @@ IV.- Ser el conducto de comunicación entre el Congreso del Estado y la Contadur
 
 V.- Aclarar y resolver consultas sobre la aplicación de esta ley, su reglamento y el Reglamento Interno de la Contaduría Mayor de Hacienda para efectos administrativos; y
 
-VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda, cumpla con las funciones que le corresponden en los términos de la Constitución Política del Estado, de la presente ley, así como de los acuerdos que tome el Congreso del Estado.
+VI.- Dictar las medidas que estime necesarias para que la Contaduría Mayor de Hacienda, cumpla con las funciones que le corresponden en los términos de la Constitución Política del Estado, de la presente ley, así como de los acuerdos que tome el Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+VII.- Solicitar a la Diputación Permanente que convoque a sesiones extraordinarias para analizar, conocer y aprobar, en su caso, las cuentas públicas trimestrales.
 
 ###### ARTICULO 5°.
 
@@ -71,7 +79,9 @@ Para efectos de esta ley, se entiende por:
 
 I.- Contaduría Mayor de Hacienda: El órgano técnico de fiscalización, control y evaluación de las finanzas públicas del Estado y municipios, dependiente del Congreso del Estado de Coahuila de Zaragoza;
 
-II.- Cuenta Pública: Los estados contables y financieros patrimoniales, presupuestales programáticos y de otro orden del Estado o de municipios, de acuerdo a sus ingresos y egresos; así como la información estadística pertinente;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+II.- Cuenta Pública: Los estados trimestrales, contables y financieros, patrimoniales, presupuestales, programáticos y de otro orden de los Poderes Ejecutivo, Legislativo y Judicial del Estado o de los municipios, de acuerdo a sus ingresos y egresos; así también como la información estadística pertinente y los anexos de glosa;
 
 III.- Entidades:
 
@@ -163,7 +173,9 @@ III.- Acordar y resolver los asuntos que por escrito se traten, disponiendo el t
 
 IV.- Fijar las normas técnicas y los procedimientos a que deban sujetarse las visitas, inspecciones y auditorías que se ordenen, las que se actualizarán de acuerdo con los avances científicos y técnicos que en materia se produzcan;
 
-V.- Informar a la Comisión de la Contaduría Mayor de Hacienda, o a la Diputación Permanente a más tardar en el último día del mes de mayo, sobre los trabajos ejecutados por la dependencia durante el ejercicio fiscal anterior, con la expresión que guardan las glosas de las cuentas;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+V.- Informar a la Comisión de la Contaduría Mayor de Hacienda, sobre los trabajos ejecutados por esta dependencia durante cada período trimestral, con la expresión que guardan las glosas de las cuentas públicas;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1997)</small>
 
@@ -227,7 +239,9 @@ c).- La comprobación de si las entidades se ajustaron a los criterios señalado
 
 d).- El análisis de los subsidios, las transferencias, los apoyos para operación e inversión, las erogaciones adicionales y otras erogaciones o conceptos similares;
 
-III.- Rendir el informe previo sobre el resultado de las cuentas públicas estatal y municipales a la Comisión de la Contaduría Mayor de Hacienda y, por su conducto, al Congreso del Estado;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 1998)</small>
+
+III.- Presentar el informe previo, dentro de los quince días siguientes a su recepción, sobre el resultado de las cuentas públicas, estatales y municipales, a la Comisión de la Contaduría Mayor de Hacienda y, por su conducto, al Congreso del Estado;
 
 IV.- Fiscalizar los subsidios concedidos por el Gobierno Estatal o Municipal, a los organismos paraestatales o paramunicipales; a las instituciones o a las personas físicas o morales, cualquiera que sean los fines de su destino, así como verificar su aplicación al objeto autorizado;
 
@@ -259,9 +273,11 @@ La Contaduría Mayor de Hacienda al revisar la Cuenta Pública del Gobierno del 
 
 Para los efectos de esta ley, la Cuenta Pública del Gobierno del Estado y los municipios de la entidad, está constituida por los estados contables y financieros y de más información, que muestre el registro de las operaciones de la recaudación de los ingresos y del ejercicio de los presupuestos de egresos, la incidencia de las mismas operaciones y de otras cuentas en el activo y pasivo totales de la hacienda pública estatal y municipal, y en su patrimonio neto, incluyendo el origen y aplicación de los recursos así como el resultado de las operaciones que verificaron los estados detallados de la deuda pública estatal y municipal.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 22.
 
-La Cuenta Pública que presente el Gobierno estatal y los municipios de la entidad, serán turnados por la Comisión de la Contaduría Mayor de Hacienda, a la citada Contaduría.
+La Cuenta Pública que presente el Gobierno estatal y los Municipios de la entidad, será turnada por la Comisión de la Contaduría Mayor de Hacienda al órgano técnico fiscalizador del Congreso del Estado por períodos trimestrales, mismos que comprenderán del primero de enero al último de marzo, del primer de abril al último de junio, del primero de julio al último de septiembre y del primero de octubre al último de diciembre.
 
 ###### ARTICULO 23.
 
@@ -428,3 +444,21 @@ LIC. JOSE FUENTES GARCIA.
 P.O. 22 DE ABRIL DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 17 DE ABRIL DE 1998.
+
+###### ARTICULO PRIMERO.
+
+Para efectos de la presentación de las cuentas públicas del Estado y Municipios, correspondientes al ejercicio fiscal de 1997, éstas deberán ser presentadas en los términos de la legislación anterior, es decir, a más tardar el 30 de abril de 1998.
+
+###### ARTICULO SEGUNDO.
+
+Para efectos de la revisión de las cuentas públicas trimestrales del Estado y de los Municipios, por única vez, los estados financieros que integran la cuenta pública correspondiente al primer trimestre de 1998, deberán remitirse de manera conjunta, en expediente separado, con la del segundo trimestre del año en curso, en los términos del presente decreto.
+
+###### ARTICULO TERCERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
