@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-economico-para-el-estado-de-morelos-38076"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-10"
-last_updated: "2004-03-10"
+last_updated: "2004-06-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de marzo de 2004.
 
@@ -1501,7 +1501,9 @@ Primero.- Este ordenamiento entrará en vigor a partir del día siguiente de su 
 
 Segundo.- Se derogan todas las disposiciones legislativas y administrativas que se opongan a la presente Ley. En particular las que confieren atribuciones unipersonales o a una sola dependencia o a un solo organismo auxiliar de la administración pública estatal o municipal, que, esté conferida y deba ser ejercida o aplicada en forma diferente en los términos de este ordenamiento y por lo que hace a las actividades económicas que se realicen en el Estado.
 
-Tercero.- Se concede un plazo de sesenta días hábiles para emitir los reglamentos que en el ámbito estatal o en el municipal, resulten necesarios para la aplicación de las atribuciones conferidas a ambos órdenes de gobierno.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE JUNIO DE 2004)</small>
+
+Tercero.- Se concede un plazo de noventa días hábiles para emitir los reglamentos que en el ámbito estatal o en el municipal, resulten necesarios para la aplicación de las atribuciones conferidas a ambos órdenes de gobierno.
 
 En ningún caso las disposiciones reglamentarias rebasarán o modificarán las disposiciones de esta Ley.
 
@@ -1556,3 +1558,15 @@ SECRETARIO DE DESARROLLO ECONÓMICO
 C. GABRIEL HADAD GIORGI
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY</small>
+
+P.O. 2 DE JUNIO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto, al Titular del Poder Ejecutivo Estatal para los efectos correspondientes.
