@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-turismo-21412"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-06-15"
-last_updated: "2001-06-15"
+last_updated: "2002-08-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21412&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-06-13"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE AGOSTO DE 2002.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 15 de junio de 2001.
 
@@ -41,7 +41,9 @@ La Secretaría de Turismo, como dependencia del Poder Ejecutivo Federal, tiene a
 
 Al frente de la Secretaría de Turismo estará el Secretario del Despacho, quien para el estudio, planeación y desahogo de los asuntos de su competencia, se auxiliará de las unidades administrativas y órgano administrativo desconcentrado siguientes:
 
-A. Unidades Administrativas:
+> <small>(REFORMADO, D.O.F. 9 DE AGOSTO DE 2002)</small>
+
+A. UNIDADES ADMINISTRATIVAS
 
 I. Subsecretaría de Operación Turística;
 
@@ -51,27 +53,25 @@ III. Subsecretaría de Innovación y Calidad;
 
 IV. Dirección General de Asuntos Jurídicos;
 
-V. Dirección General de Asuntos Internacionales;
+V. Dirección General de Comunicación Social;
 
-VI. Dirección General de Comunicación Social;
+VI. Dirección General de Programas Regionales;
 
-VII. Dirección General de Programas Regionales;
+VII. Dirección General de Desarrollo de Productos Turísticos;
 
-VIII. Dirección General de Desarrollo de Productos Turísticos;
+VIII. Dirección General de Mejora Regulatoria;
 
-IX. Dirección General de Mejora Regulatoria;
+IX. Dirección General de Desarrollo de la Cultura Turística;
 
-X. Dirección General de Desarrollo de la Cultura Turística;
+X. Dirección General de Información y Análisis;
 
-XI. Dirección General de Información y Análisis;
+XI. Dirección General de Planeación Estratégica y Política Sectorial;
 
-XII. Dirección General de Planeación Estratégica y Política Sectorial;
+XII. Dirección General de Administración;
 
-XIII. Dirección General de Administración;
+XIII. Dirección General de Desarrollo Institucional y Coordinación Sectorial, y
 
-XIV. Dirección General de Desarrollo Institucional y Coordinación Sectorial, y
-
-XV. Dirección General de Servicios al Turista.
+XIV. Dirección General de Servicios al Turista.
 
 B. Órgano Administrativo Desconcentrado:
 
@@ -445,19 +445,7 @@ XVII. Coadyuvar, en el ámbito de su competencia, en la organización del evento
 
 ###### ARTÍCULO 14.
 
-La Dirección General de Asuntos Internacionales tendrá las siguientes facultades:
-
-I. Coordinar y fomentar, en coordinación con la Secretaría de Relaciones Exteriores, la comunicación de la Secretaría con las Administraciones Nacionales de Turismo de otros países, con las representaciones diplomáticas y consulares y con otros organismos internacionales;
-
-II. Participar en grupos de trabajo, foros y eventos internacionales que se realicen en el país o en el extranjero en materia turística internacional;
-
-III. Representar a la Secretaría en los foros, reuniones o eventos de organismos internacionales, en coordinación con las demás unidades administrativas de la Secretaría y con la Secretaría de Relaciones Exteriores;
-
-IV. Participar con otras dependencias y entidades de la Administración Pública Federal, en la instrumentación de acciones para promover la suscripción de instrumentos jurídicos en materia turística con otros países y organismos internacionales, así como para establecer programas de cooperación turística internacional con aquellos con los que se tengan celebrados tratados, convenios o acuerdos en esta materia, atendiendo al desarrollo integral del país y considerando al turismo social a que se refiere la Ley Federal de Turismo;
-
-V. Proponer al Secretario del Despacho la suscripción de instrumentos de carácter internacional relacionados con la competencia de la Secretaría; en coordinación con la Dirección General de Asuntos Jurídicos y con las demás unidades administrativas que correspondan, y
-
-VI. Dar seguimiento y evaluar los resultados de la instrumentación de los tratados, convenios y acuerdos que en materia turística se hayan celebrado, en coordinación con la Secretaría de Relaciones Exteriores.
+(DEROGADO, D.O.F. 9 DE AGOSTO DE 2002)
 
 ###### ARTÍCULO 15.
 
@@ -894,3 +882,13 @@ SEXTO.- Los manuales de organización de las unidades administrativas de la Secr
 SÉPTIMO.- Corresponderá al titular de la Secretaría de Turismo resolver las dudas que se susciten con motivo de la aplicación e interpretación del presente Reglamento y sobre los casos no previstos en el mismo, así como determinar el destino de los recursos humanos, materiales y financieros de las unidades administrativas que desaparecen por virtud de la entrada en vigor del propio Reglamento, respetándose los derechos laborales de los trabajadores conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de junio de dos mil uno.- Vicente Fox Quesada.- Rúbrica.- La Secretaria de Turismo, Bertha Leticia Navarro Ochoa.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE AGOSTO DE 2002.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos pendientes de la Dirección General de Asuntos Internacionales a la entrada en vigor del presente Decreto, así como aquellos supervinientes de los que debiera conocer dicha unidad administrativa, serán resueltos por el Titular de la Secretaría de Turismo.
+
+TERCERO.- El titular de la Secretaría de Turismo interpretará y resolverá las dudas que se originen con motivo de la expedición del presente Decreto.
