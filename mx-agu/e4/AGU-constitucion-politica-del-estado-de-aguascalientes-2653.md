@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1983-10-09"
+last_updated: "1984-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 1983.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 1984.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -261,7 +261,9 @@ No pueden ser electos Diputados:
 
 I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.
 
-II.- Los funcionarios y empleados del Estado o Municipales.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+II.- Los servidores públicos del Estado o Municipio.
 
 III.- Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad; y
 
@@ -333,83 +335,133 @@ II.- Decretar las contribuciones necesarias para cubrir los gastos del Estado y 
 
 III.- Aprobar el Presupuesto Anual de Gastos del Estado, con vista del proyecto que presente el Gobernador, y, en el que no podrá haber partidas secretas.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-IV.- Expedir los Presupuestos de Gastos que formulen los Ayuntamientos, para cada año fiscal, que no incluirán partidas secretas.
+IV.- Autorizar al Ejecutivo y a los Ayuntamientos, para celebrar empréstitos sobre el crédito del Estado y de los Municipios respectivamente, fijando las bases sobre las cuales deben celebrarse dichos empréstitos y aprobarlos.
 
-V.- Autorizar al Ejecutivo y a los Ayuntamientos para celebrar empréstitos sobre el crédito del Estado y de los Municipios respectivamente, fijando las bases sobre las cuales deban celebrarse dichos empréstitos, y aprobarlos.
+Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento de los ingresos públicos.
 
-Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan incremento en los ingresos públicos.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
-
-VI.- Examinar las cuentas que trimestralmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
+V.- Examinar las cuentas que trimestralmente deben presentarle el Gobernador del Estado y los Presidentes Municipales, debiendo comprender dicho examen no sólo la conformidad de las partidas gastadas con los Presupuestos de Egresos, sino también la exactitud y justificación de tales partidas.
 
 La revisión de la cuenta pública tendrá por objeto conocer los resultados de la gestión financiera, comprobar si se han ajustado a los criterios señalados por el Presupuesto y al cumplimiento de los objetivos contenidos en los programas.
 
 Si del examen que realice el Congreso aparecieren discrepancias entre las cantidades gastadas y las partidas respectivas del Presupuesto, o no existiera exactitud o justificación en los gastos hechos, se determinarán las responsabilidades de acuerdo con la Ley.
 
-La cuenta pública será presentada trimestralmente al Congreso del Estado y en su receso a la Diputación Permanente para que en ambos casos se turne de inmediato a la Comisión de Hacienda y ésta dictamine sobre la misma y se someta a la aprobación del Congreso al inicio del Período Ordinario de Sesiones o en el Período Extraordinario correspondiente.
+La Cuenta Pública será presentada trimestralmente al Congreso del Estado y en su receso a la Diputación Permanente para que en ambos casos se turne de inmediato a la Comisión competente y ésta dictamine sobre la misma y se someta a la aprobación del Congreso al inicio del Período Ordinario de Sesiones o en el Período Extraordinario correspondiente.
 
-Sólo se podrá ampliar el plazo de presentación de las iniciativas de Leyes de Ingresos y de los proyectos de Presupuestos de Egresos, así como de la cuenta pública del Estado y Municipios cuando medie solicitud del Ejecutivo o del Presidente Municipal respectivo, suficientemente justificada a juicio de la Cámara o de la Comisión Permanente, debiendo comparecer en todo caso el funcionario correspondiente a informar de las razones que lo motiven.
+Sólo se podrá ampliar el plazo de presentación de las iniciativas de Leyes de Ingresos y del proyecto de Presupuesto de Egresos del Estado, así como de la cuenta pública del Estado y Municipios cuando medie solicitud del Ejecutivo o del Presidente Municipal respectivo, suficientemente justificada a juicio de la Cámara o de la Diputación Permanente, debiendo comparecer en todo caso el servidor público correspondiente a informar de las razones que lo motiven.
 
-VII.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios, respectivamente.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-VIII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlo, someterlos a la aprobación del Congreso de la Unión.
+VI.- Autorizar al Ejecutivo y a los Ayuntamientos para ejercer actos de dominio sobre los bienes inmuebles pertenecientes al Estado y a los Municipios, respectivamente.
 
-IX.- Fijar la división territorial y política, administrativa y judicial del Estado, salvo el caso de la facultad concedida al Ejecutivo en el último párrafo del artículo 17 de esta Constitución.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-X.- Crear y suprimir empleos públicos.
+VII.- Conocer de los convenios que el Gobernador celebre con los Estados vecinos respecto a las cuestiones de límites, y en caso de aprobarlos, someterlos a la aprobación del Congreso de la Unión.
 
-XI.- Convocar a elecciones conforme a la Ley.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XII.- Erigirse en Colegio Electoral para hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Ayuntamientos; calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
+VIII.- Fijar la división territorial y política, administrativa y judicial del Estado.
 
-XIII.- Designar; en los términos que previene esta Constitución, al ciudadano que deba suplir al Gobernador en sus faltas temporales o absolutas.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XIV.- Conceder licencia al Gobernador, para salir del Territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba substituirlo durante su ausencia.
+IX.- Crear y suprimir empleos públicos.
 
-XV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho funcionario para separarse del cargo, hasta por noventa días.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XVI.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, que expida el Ejecutivo; y en caso de que los rechacen, nombrarlos de entre los listados en las ternas que éste le proponga.
+X.- Convocar a elecciones conforme a la Ley.
 
-XVII.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, comunicando su aceptación al Ejecutivo para que proceda conforme a sus facultades.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XVIII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos Suplentes.
+XI.- Erigirse en Colegio Electoral para hacer el escrutinio de los votos emitidos en las elecciones de Gobernador y Ayuntamientos; calificar dichas elecciones y declarar electos a los que hayan obtenido mayoría.
 
-XIX.- Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de esta Constitución, en los procedimientos relativos a delitos oficiales o del orden común en contra de los Funcionarios del Estado que gozan de fuero constitucional.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
+XII.- Designar, en los términos que previene esta Constitución, al ciudadano que debe suplir al Gobernador en sus faltas temporales o absolutas.
 
-XXI.- Crear nuevos Municipios dentro de los límites de los existentes, con aprobación de las dos terceras partes de los Ayuntamientos.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXII.- Dirimir las controversias que no siendo de carácter judicial, se susciten entre los Ayuntamientos.
+XIII.- Conceder licencia al Gobernador, para salir del territorio del Estado, cuando fuere por más de veinte días, en cuyo caso se nombrará al ciudadano que deba substituirlo durante su ausencia.
 
-XXIII.- Conceder amnistía con aprobación de las dos terceras partes de los Diputados presentes.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXIV.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna Ley o acto de Gobierno Federal constituya un ataque a la soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
+XIV.- Decidir sobre la renuncia del cargo de Gobernador; conceder licencia a dicho servidor público para separarse del cargo, hasta por noventa días.
 
-XXV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXVI.- Premiar a las personas que hayan prestado eminentes servicios al Estado; o a los hijos de éste que los haya prestado a la Patria o a la humanidad, y recompensar a los buenos servidores de la Administración Pública.
+XV.- Aprobar los nombramientos de los Magistrados del Supremo Tribunal de Justicia del Estado, que expida el Ejecutivo; y en caso de que los rechace, nombrarlos de entre los listados en las ternas que éste le proponga.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXVII.- Expedir la Ley que regulará su estructura y funcionamiento interno.
+XVI.- Conocer de las renuncias que de sus cargos presenten los Magistrados del Supremo Tribunal de Justicia, comunicando su aceptación al Ejecutivo para que proceda conforme a sus facultades.
 
-La Ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
+XVII.- Conceder licencia a los Diputados para separarse de sus cargos, llamando inmediatamente a los respectivos Suplentes.
 
-XXVIII.- Nombrar y remover a los empleados de sus dependencias; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXIX.- Las demás que le conceden esta Constitución y la General de la República.
+XVIII.- Intervenir, erigido en Gran Jurado y de acuerdo con las prevenciones de esta Constitución, en los procedimientos relativos a ilícitos oficiales o del orden común en contra de los servidores públicos que gocen de fuero.
 
-> <small>(REFORMADA, P.O. 18 DE JUNIO DE 1978)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-XXX.- Citar a solicitud de la mitad de sus miembros, a los funcionarios del Poder Ejecutivo del Estado, a los Jefes, Directores, Presidentes o Administradores de Organismos Descentralizados del Estado o de Empresas de Participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guardan sus respectivas dependencias, cuando se discuta una ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
+XIX.- Cambiar provisionalmente la residencia de los Poderes del Estado.
 
-Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XX.- Crear nuevos Municipios dentro de los límites de los existentes, con aprobación de las dos terceras partes de los Ayuntamientos.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXI.- Dirimir las controversias que no siendo de carácter judicial, se susciten entre los Ayuntamientos.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXII.- Conceder amnistía con aprobación de las dos terceras partes de los diputados presentes.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXIII.- Reclamar ante la Suprema Corte de Justicia de la Nación cuando alguna ley o acto del Gobierno Federal constituya un ataque a la Soberanía del Estado, o a la Constitución General, por el que resulte afectado éste.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXIV.- Investir al Gobernador de facultades extraordinarias en caso de calamidad pública.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXV.- Premiar a las personas que hayan prestado eminentes servicios públicos al Estado; o a los hijos de éste que lo haya prestado a la Patria o a la humanidad, y recompensar a los buenos servidores de la Administración Pública.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXVI.- Expedir la ley que regulará su estructura y funcionamiento interno.
+
+La ley determinará las formas y procedimientos para la agrupación de los Diputados, según su afiliación de Partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso.
+
+Esta ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Estatal para tener vigencia.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXVII.- Nombrar y remover a los servidores públicos de sus dependencias.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXX.- Citar a solicitud de la mitad de sus miembros al Gobernador del Estado, a los Titulares de las Dependencias del Poder Ejecutivo y a los de Organismos Descentralizados del Estado o de Empresas de participación Estatal, cuantas veces fuere necesario para que informen sobre el estado que guarden sus respectivas Dependencias, cuando se discuta una ley que sea de su incumbencia o se estudie un negocio relativo a sus actividades.
+
+Integrar a solicitud de una tercera parte de sus miembros, comisiones para investigar el funcionamiento de todos los Organismos Descentralizados del Estado o de las Empresas de Participación Estatal. Los resultados de las investigaciones se harán del conocimiento del Ejecutivo del Estado; y
+
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 1984)</small>
+
+XXXI.- Las demás que le conceden esta Constitución y la General de la República.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -543,11 +595,11 @@ II.- El que haya sido condenado por delito intencional, con pena privativa de la
 
 III.- El que haya desempeñado con anterioridad ese cargo por elección popular.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1953)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
-###### Artículo 39.
+###### Articulo 39.
 
-No pueden ser electos como Gobernador, los funcionarios y empleados públicos, sea cual fuere el origen de su designación, a menos que se separen de sus cargos noventa días antes de la elección.
+No pueden ser electos como Gobernador, los servidores públicos sea cual fuere el origen de su designación, a menos que se separen de sus cargos 90 días antes de la elección.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -633,7 +685,9 @@ VIII.- Concertar empréstitos en los términos de la fracción V del artículo 2
 
 IX.- Ejercer actos de dominio sobre los bienes de la propiedad del Estado, con autorización del Congreso tratándose de inmuebles;
 
-X.- Nombrar y remover al Secretario General de Gobierno, al Tesorero del Estado, al Procurador de Justicia y a los demás funcionarios y empleados del Poder Ejecutivo;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+X.- Nombrar y remover al Secretario General de Gobierno, al Tesorero General del Estado, al Procurador General de Justicia y a los demás servidores públicos del Poder Ejecutivo.
 
 XI.- Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales;
 
@@ -675,11 +729,13 @@ Para el despacho de los negocios de la Administración Pública del Estado, habr
 
 Todos los despachos del Gobernador deberán ser firmados por el Secretario General de Gobierno.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 50.
 
-Las faltas temporales del Secretario General de Gobierno serán suplidas por el funcionario inmediato inferior de la Secretaría, quien deberá firmar también cuando aquél quede encargado del Despacho.
+Las faltas temporales del Secretario General de Gobierno serán
+
+suplidas por el servidor público inmediato inferior de la Secretaría, quien deberá firmar también cuando aquél quede encargado del Despacho.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -747,11 +803,17 @@ Corresponde al Supremo Tribunal de Justicia:
 
 I.- Conocer en los juicios civiles y penales de las instancias y recursos que sean de su competencia, conforme a las leyes secundarias;
 
-II.- Conocer, en los términos de esta Constitución, de los procesos que por delitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
 
-III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por delitos oficiales o del orden común;
+II.- Conocer, en los términos de esta Constitución de los procesos que por ilícitos oficiales se sigan en contra del Gobernador, de los Diputados, del Secretario General de Gobierno, del Procurador General de Justicia y de los Regidores y Síndicos de los Ayuntamientos.
 
-IV.- Nombrar y remover a los funcionarios y empleados del Poder Judicial. Respecto de los Jueces se observarán las prevenciones de los artículos 55 y 56 de esta Constitución;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+III.- Declarar si ha lugar a formación de causa en contra de los Jueces, por ilícitos oficiales o del orden común.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 1984)</small>
+
+IV.- Nombrar y remover a los servidores públicos del Poder Judicial. Respecto de los jueces se observarán las prevenciones de los Artículos 55 y 56 de esta Constitución.
 
 V.- Conceder licencia hasta por treinta días a los Magistrados para separarse de sus cargos, y llamar a los Suplentes respectivos. Las solicitudes de licencia que excedan de este término serán acordadas por el Gobernador;
 
@@ -771,25 +833,33 @@ CAPITULO DECIMOTERCERO
 
 Del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 10 DE NOVIEMBRE DE 1974)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 1984)</small>
 
-###### Artículo 59.
+###### Articulo 59.
 
-La Ley organizará al Ministerio Público del Estado, cuyos funcionarios serán nombrados y removidos libremente por el Gobernador, debiendo estar presididos por un Procurador General de Justicia, mismo que deberá reunir los siguientes requisitos:
+La ley organizará al Ministerio Público del Estado, cuyos servidores públicos serán nombrados y removidos libremente por el Gobernador, debiendo estar presididos por un Procurador General de Justicia, mismo que deberá reunir los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
 
 I.- Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia en él no menor de un año inmediatamente anterior a la fecha de la designación;
 
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
+
 II.- Ser Licenciado en Derecho;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
 
 III.- Estar en pleno ejercicio de sus derechos y no haber sido condenado por delito intencional, con pena privativa de la libertad; y
 
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 1974)</small>
+
 IV.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 60.
 
-Estará a cargo del Ministerio Público la persecución, ante los Tribunales del Estado, de todos los delitos del orden común y oficiales; y, por lo mismo, a él le corresponderá solicitar las órdenes de aprehensión contra los acusados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; procurar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la Ley determinare.
+Estará a cargo del Ministerio Público la persecución, ante los Tribunales del Estado, de todos los delitos del orden común e ilícitos oficiales; y, por lo mismo, a él corresponderá solicitar las ordenes de aprehensión contra lo acusados; buscar y presentar las pruebas que acrediten la responsabilidad de éstos; procurar que los juicios se sigan con toda regularidad para que la administración de justicia sea pronta y expedita; pedir la aplicación de las penas e intervenir en todos los negocios que la ley determine.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -835,27 +905,43 @@ CAPITULO DECIMOQUINTO
 
 Del Municipio.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
-###### Artículo 66.
+###### Articulo 66.
 
-El Municipio es libre en su régimen interior. Será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
+El Municipio es libre en su régimen interior, será administrado por un Ayuntamiento de elección popular directa, y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1978)</small>
+Los Municipios, con el concurso del Estado cuando así fuere necesario y lo determinen las leyes, tendrán a su cargo los siguientes servicios públicos:
 
-###### Artículo 67.
+A).- Agua potable y alcantarillado.
 
-Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la Ley; residirán en las Cabeceras de los Municipios y serán presididos por el Primer Regidor, quien a la vez, tendrá el carácter de Presidente Municipal. Este funcionario es política y administrativamente el representante del Ayuntamiento y del Municipio.
+B).- Alumbrado público.
 
-En la Capital del Estado y en los Municipios cuya población sea de doscientos mil o más habitantes, los Ayuntamientos serán electos de acuerdo con las fórmulas que establezca la Ley de la materia de conformidad a las bases siguientes:
+C).- Limpia.
 
-I.- Al Partido Político cuya planilla hubiere obtenido el mayor número de votos tendrá derecho a que se le acrediten a quienes encabecen la lista como Presidente Municipal y Síndicos del Ayuntamiento, respectivamente.
+D).- Mercados y centrales de abasto.
 
-II.- Las Regidurías que integren el Cabildo, se dividirán entre la votación total emitida para todas las planillas presentadas por los Partidos Políticos contendientes, a fin de obtener un cociente electoral.
+E).- Panteones.
 
-La Ley Reglamentaria determinará los procedimientos que se observarán en la asignación de los Regidores de representación proporcional;
+F).- Rastro.
 
-III.- Los Regidores de mayoría y los de minoría, tendrán la misma categoría e iguales derechos y obligaciones.
+G).- Calles, parques y jardines.
+
+H).- Seguridad pública y Tránsito.
+
+I).- Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.
+
+Los Municipios del Estado, previo acuerdo entre sus Ayuntamientos y con sujeción a la ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
+
+###### Articulo 67.
+
+Los Ayuntamientos se compondrán del número de Regidores y Síndicos que prevenga la ley; serán electos por el sistema de mayoría relativa; residirán en las Cabeceras de los Municipios y estarán presididos por el Primer Regidor quien a la vez tendrá el carácter de Presidente Municipal. Este servidor público es política y administrativamente el Representante del Ayuntamiento y el Municipio.
+
+Tendrán, además, hasta tres Regidores que serán electos según el principio de representación proporcional, y su asignación a los Partidos Políticos, entre los cuales no debe figurar el que haya obtenido mayoría de votos, se hará de acuerdo con el procedimiento que establezca la ley.
+
+Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE ABRIL DE 1977)</small>
 
@@ -889,6 +975,10 @@ No podrán ser electas Regidores o Síndicos las personas que se encuentren comp
 
 Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos judiciales serán representados por los Síndicos.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
+
+Los Ayuntamientos poseerán facultades para expedir de acuerdo con las bases normativas que establezca el Congreso del Estado, los Bandos de Policía y Buen Gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones.
+
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
 ###### Artículo 70.
@@ -897,11 +987,33 @@ Los Ayuntamientos se renovarán en su totalidad cada tres años. Por cada Regido
 
 Si llegaren a faltar en forma absoluta el Primer Regidor y su Suplente, el Ayuntamiento, bajo la Presidencia de uno de los Síndicos, designará a la persona que se haga cargo de la Presidencia durante el tiempo que falte para concluír el período.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
+
+El Congreso del Estado por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 1984)</small>
+
+En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la ley no procediera que entraren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 71.
 
-Los Municipios administrarán libremente su hacienda, la cual se formará de las contribuciones que señala el Congreso y que, en todo caso, serán las suficientes para atender a las necesidades municipales.
+Los Municipios administrarán libremente su hacienda; la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor, y en todo caso:
+
+A).- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base al cambio de valor de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.
+
+B).- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado.
+
+C).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
+
+Las leyes locales no establecerán exenciones o subsidios respecto de las contribuciones a que se refiere el inciso A), en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+El Congreso aprobará las Leyes de Ingresos de los Municipios y revisará sus cuentas públicas. Los Presupuestos de Egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.
+
+Los Municipios, en los términos de las leyes relativas, federales o locales, estarán facultados para formular, aprobar y administrar la Zonificación y Planes de Desarrollo Urbano; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en su jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad con los fines señalados en el Artículo 27 de la Constitución General de la República, expedirán los Reglamentos y disposiciones administrativas que fueren necesarios.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -909,77 +1021,79 @@ Los Municipios administrarán libremente su hacienda, la cual se formará de las
 
 Los miembros de los Ayuntamientos no podrán ser reelectos, debiendo observarse lo dispusto (sic) en el artículo 115 de la Constitución de la República.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE ENERO DE 1984)</small>
 
 CAPITULO DECIMOSEXTO
 
-De la Responsabilidad de los Funcionarios y Empleados Públicos.
+De la Responsabilidad de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 73.
 
-Todo funcionario y empleado público es responsable por los delitos del orden común que cometa durante el tiempo de su encargo y por los delitos y faltas oficiales en que incurra en el ejercicio del mismo.
+Para los efectos de las responsabilidades a que alude este capítulo se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial y a sus funcionarios y empleados, y en general a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la Administración Pública Estatal, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
-El Gobernador del Estado, durante el tiempo de su encargo, sólo podrá ser acusado por violaciones a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+Todos los servidores públicos son responsables de los delitos del orden común que cometan durante el tiempo de su encargo, así como de los ilícitos oficiales, sean civiles, penales, administrativos o políticos, en que incurran en el ejercicio de sus cargos.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+El Gobernador del Estado, durante el tiempo de su encargo sólo podrá ser acusado por violaciones a esta Constitución, ataques a la libertad electoral y delitos graves del orden común.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 74.
 
-Cuando se impute un delito del orden común a los Diputados, al Gobernador, a los Magistrados del Supremo Tribunal, al Secretario General de Gobierno, al Procurador de Justicia, o a los Regidores y Síndicos de los Ayuntamientos, el Congreso, erigido en Gran Jurado, declarará a mayoría absoluta de votos, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los Tribunales comunes.
+Cuando se imputa un delito del orden común a los Diputados, al Gobernador, a los Magistrados del Supremo Tribunal de Justicia, al Secretario General de Gobierno, al Procurador General de Justicia o a los Regidores y Síndicos de los Ayuntamientos, el Congreso del Estado, erigido en Gran Jurado, declarará por consenso de las dos terceras partes del total de los Diputados, si ha lugar a formación de causa. En caso negativo, no habrá lugar a ningún procedimiento ulterior, pero tal declaración no será obstáculo para que el procedimiento continúe su curso cuando el acusado haya dejado de tener fuero, comenzando entonces la prescripción. En caso afirmativo, el acusado quedará automáticamente separado de su cargo y sujeto a la acción de los tribunales comunes.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 75.
 
-Respecto de los delitos y faltas oficiales de los funcionarios a que se refiere el artículo anterior, con excepción de los Magistrados, el Congreso instruirá los procesos hasta resolver por mayoría absoluta, oyendo en defensa a los acusados, si son culpables, en cuyo caso remitirá los expedientes al Supremo Tribunal de Justicia, para que éste imponga las penas que la ley señale.
+Respecto de los ilícitos oficiales de los servidores públicos a que se refiere el artículo anterior, con excepción de los Magistrados del Supremo Tribunal de Justicia, el Congreso del Estado, oyendo en su defensa a los acusados, instruirá los procesos hasta resolver por consenso de las dos terceras partes del total de los Diputados, si son culpables, en cuyo caso remitirá los expedientes al Supremo Tribunal de Justicia, para que éste imponga la pena que la ley señale.
 
-Por la sola declaración de culpabilidad, el funcionario acusado quedará inmediatamente separado de su cargo.
+Por la declaración de culpabilidad, el servidor público acusado quedará separado inmediatamente de su cargo.
 
-El Supremo Tribunal de Justicia oirá al acusador si lo hubiere, al Jefe del Ministerio Público y al reo por sí o por medio de su defensor, para el sólo efecto de que aleguen respecto de la pena aplicable.
+El Supremo Tribunal de Justicia oirá al acusador si lo hubiere, al Jefe del Ministerio Público y al acusado por sí o por medio de su defensor, para el solo efecto de que alegue respecto de la pena aplicable.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 76.
 
-En caso de delitos y faltas oficiales de los Magistrados del Supremo Tribunal de Justicia, las causas se iniciarán y concluirán ante el Congreso, el cual dictará sentencia, observándose en lo conducente lo dispuesto en el artículo anterior.
+En caso de ilícitos oficiales de los Magistrados del Supremo Tribunal de Justicia, las causas se llevarán hasta su fin ante el Congreso, el cual dictará sentencia, observándose en lo conducente lo dispuesto en el artículo anterior.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 77.
 
-Para proceder contra los Jueces por delitos comunes u oficiales, se requiere declaración del Supremo Tribunal de Justicia en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración quedarán suspendidos de sus cargos y sometidos a los jueces ordinarios.
+Para proceder contra los Jueces por delitos comunes o ilícitos oficiales, se requiere declaración del Supremo Tribunal de Justicia en el sentido de que ha lugar a formación de causa. Por virtud de esta declaración aquéllos quedarán suspendidos de sus cargos y sometidos a juicio del orden común.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 78.
 
-La declaración de haber lugar a formación de causa, se requiere, en cuanto a los funcionarios de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de su encargo, aún por delitos cometidos con anterioridad.
+La declaración de haber lugar a formación de causa se requiere, en cuanto a los servidores públicos de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de sus cargos, aún por delitos cometidos con anterioridad.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 79.
 
-A excepción de los funcionarios de elección popular y de los Magistrados, todos los demás funcionarios que se encuentren separados temporalmente de sus cargos, no gozan de fuero constitucional que por razón del puesto les pertenecería.
+A excepción de los servidores públicos de elección popular y de los Magistrados del Supremo Tribunal de Justicia, todos los demás que se encuentran separados temporalmente de sus cargos dejarán de gozar del fuero que por razón de sus puestos les corresponda.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 80.
 
-La responsabilidad por delitos oficiales de funcionarios públicos que gozan de fuero constitucional, sólo podrá exigirse durante el ejercicio del cargo y un año después.
+La responsabilidad por ilícitos oficiales de los servidores públicos que gocen de fuero podrá exigirse durante el ejercicio del cargo y hasta un año después.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 81.
 
-Pronunciada una sentencia condenatoria por delitos oficiales, no puede concederse al reo la gracia de indulto.
+Pronunciada una sentencia condenatoria por ilícitos oficiales, no podrá concederse al reo la gracia del indulto.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 82.
 
-En juicios de orden civil no hay fuero, ni inmunidad, para ningún funcionario público.
+En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -993,11 +1107,11 @@ Prevenciones Generales.
 
 La Capital del Estado es la ciudad de Aguascalientes, y en ella deben radicar los Supremos Poderes.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 84.
 
-Todos los funcionarios y empleados públicos, del Estado y Municipales, antes de tomar posesión de sus puestos protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas, y desempeñar fielmente sus deberes.
+Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1007,17 +1121,17 @@ Ningún individuo deberá desempeñar a la vez dos cargos de elección popular, 
 
 Tampoco podrán reunirse en una sola persona dos o más empleos publicos por los que se disfrute sueldo, exceptuando los del Ramo de Instrucción.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 86.
 
-Los funcionarios de elección popular, que sin causa justificada, o sin la correspondiente licencia faltaren en forma absoluta al desempeño de sus funciones, quedarán privados de los derechos de ciudadano e inhabilitados para el desempeño de empleos públicos, por el tiempo de la duración normal de su encargo.
+Los servidores públicos de elección popular que sin causa justificada, o sin la correspondiente licencia faltaren en forma absoluta al desempeño de sus funciones quedarán privados de los derechos de ciudadano e inhabilitados para el desempeño de empleos públicos; por el tiempo de la duración normal de su encargo.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 1984)</small>
 
 ###### Artículo 87.
 
-Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución o por las leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
+Los servidores públicos que entren a ejercer su encargo después del día señalado por esta Constitución o por las Leyes, como principio del período que les corresponde, sólo durarán en sus funciones el tiempo que les faltare para cumplir dicho período.
 
 > <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)</small>
 
@@ -1346,3 +1460,7 @@ P.O. 9 DE OCTUBRE DE 1983.
 PRIMERO.- La H. LII Legislatura del Estado ejercerá su encargo del 16 de septiembre de 1983, al 31 de octubre de 1986.
 
 SEGUNDO.- Dentro del término de un año contado a partir de la iniciación de vigencia del presente Decreto, deberán reformarse las leyes secundarias que provean al exacto cumplimiento de este Decreto.
+
+P.O. 29 DE ENERO DE 1984.
+
+EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
