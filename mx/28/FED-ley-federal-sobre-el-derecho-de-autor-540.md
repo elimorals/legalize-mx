@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-sobre-el-derecho-de-autor-540"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1956-12-31"
-last_updated: "1981-12-31"
+last_updated: "1982-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=540&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1956-12-29"
 
 LEY FEDERAL SOBRE EL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1981.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 1982.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 31 de diciembre de 1956.
 
@@ -67,11 +67,11 @@ III.- El usar y explotar temporalmente la obra por sí mismo o por terceros, con
 
 Los derechos que las fracciones I y II del artículo anterior conceden al autor de una obra, se consideran unidos a su persona y son perpetuos, inalienables, imprescriptibles e irrenunciables; se trasmite el ejercicio de los derechos a los herederos legítimos o a cualquier persona por virtud de disposición testamentaria.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 4o.
 
-Los derechos que el artículo 2o. concede en su fracción III al autor de una obra, comprenden la reproducción, ejecución y adaptación de la misma, las que podrán efectuarse por cualquier medio según la naturaleza de la obra y de manera particular por los medios señalados en los Tratados y Convenios Internacionales vigentes en que México sea parte. Tales derechos son transmisibles por cualquier medio legal.
+Los derechos que el artículo 2o. concede en su fracción III al autor de una obra, comprenden la publicación, reproducción, ejecución, representación, exhibición, adaptación y cualquiera utilización pública de la misma, las que podrán efectuarse por cualquier medio según la naturaleza de la obra y de manera particular por los medios señalados en los tratados y convenios internacionales vigentes en que México sea parte. Tales derechos son transmisibles por cualquier medio legal.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -249,23 +249,37 @@ Serán objeto de protección las compilaciones, concordancias, interpretaciones,
 
 Cuando el titular de los derechos de autor muera sin haber transmitido el ejercicio de los derechos a que se refieren las fracciones I y II del artículo 2o. de esta Ley, la Secretaría de Educación Pública será Titular de estos derechos.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 23.
 
-La vigencia del derecho a que se refiere la fracción III del artículo 2o., se establece en los siguientes términos:
+La vigencia del derecho a que se refiere la fracción III del artículo 2o. se establece en los siguientes términos:
 
-I.- Durará tanto como la vida del autor y 30 años después de su muerte. Transcurrido ese término, o antes si el titular del derecho muere sin herederos, la facultad de usar y explotar la obra pasará al dominio público, pero serán respetados los derechos adquiridos por terceros con anterioridad;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
 
-II.- En el caso de obras póstumas durará treinta años a contar de la fecha de la primera edición;
+I.- Durará tanto como la vida del autor y 50 años después de su muerte.
 
-III.- La titularidad de los derechos sobre una obra de autor anónimo, cuyo autor no se dé a conocer en el término de 30 años a partir de la fecha de su primera publicación, pasar+ al dominio público;
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+Transcurrido ese término, o antes si el Titular del derecho muere sin herederos la facultad de usar y explotar la obra pasará al dominio público, pero serán respetados los derechos adquiridos por terceros con anterioridad.
+
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+II.- En el caso de obras póstumas durará 50 años a contar de la fecha de la primera edición.
+
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+III.- La titularidad de los derechos sobre una obra de autor anónimo, cuyo nombre no se dé a conocer en el término de 50 años a partir de la fecha de su primera publicación, pasará al dominio público.
 
 IV.- Cuando la obra pertenezca en común a varios coautores, la duración se determinará por la muerte del último superviviente, y
 
-V.- Durará treinta años contados a partir de la fecha de la publicación en favor de la Federación, de los Estados y de los Municipios, respectivamente, cuando se trate de obras hechas al servicio oficial de dichas entidades y que sean distintas de las leyes, reglamentos, circulares y demás disposiciones oficiales
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
 
-La misma protección se concede a las obras a que se refiere el párrafo segundo del artículo 31.
+V.- Durará 50 años contados a partir de la fecha de la publicación en favor de la Federación, de los Estados y de los Municipios respectivamente, cuando se trate de obras hechas al servicio oficial de dichas entidades y que sean distintas de las leyes, reglamentos, circulares y demás disposiciones oficiales.
+
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+La misma protección se concede a las obras a que se refiere el párrafo 2º. del Articulo 31.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -695,7 +709,15 @@ a).- La transmisión deberá efectuarse dentro del plazo que al efecto se conven
 
 b).- No debe realizarse con motivo de la grabación, ninguna emisión o difusión concomitante o simultánea.
 
-c).- La grabación sólo dará derecho a una sola emisión. La grabación o fijación de la imagen y el sonido realizada en las condiciones que antes se mencionan, no obligará a ningún pago adicional distinto del que corresponde por el uso de las obras.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+c).- La grabación sólo dará derecho a una sola emisión. La grabación y fijación de la imagen y el sonido realizada en las condiciones que antes se mencionan, no obligará a ningún pago adicional distinto del que corresponde por el uso de las obras.
+
+Las disposiciones de este articulo no se aplicarán en caso de que los autores, intérpretes o ejecutantes tengan celebrado convenio remunerado que autorice las emisiones posteriores.
+
+> <small>(ADICIONADO, D.O.F. 11 DE ENERO DE 1982)</small>
+
+d).- Los anuncios publicitarios o de propaganda, filmados o grabados para su difusión a través de cualesquiera de los medios de comunicación, podrán ser difundidos hasta por un período de seis meses a partir de la fecha de su grabación. Pasado este término, su utilización pública deberá retribuirse por cada período adicional de seis meses, aún cuando sólo se utilice en fracciones de ese período, a los compositores, intérpretes, arreglistas, músicos, cantantes, actores y locutores que hayan participado en las mencionadas grabaciones, con una cantidad igual a la contratada originalmente. La difusión del anuncio respectivo no podrá exceder de un tiempo total de tres años naturales a partir de su grabación, sin autorización previa de quienes hayan participado en el mismo.
 
 Las disposiciones de este artículo no se aplicarán en caso de que los autores, intérpretes o ejecutantes tengan celebrado convenio remunerado que autorice las emisiones posteriores.
 
@@ -765,13 +787,11 @@ Queda facultada la Secretaría de Educación Pública para determinar los casos 
 
 La ejecución con fines de lucro de discos o fonogramas del dominio público, se regirá por lo dispuesto en el artículo 80.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 82.
 
-Es intérprete quien, actuando personalmente, exterioriza en forma individual las manifestaciones intelectuales o artísticas necesarias para representar una obra.
-
-Se entiende por ejecutantes a los conjuntos orquestales o corales cuya actuación constituya una unidad definida, tenga valor artístico por sí misma y no se trate, de simple acompañamiento.
+Se considera artista intérprete o ejecutante, todo actor, cantante, músico, bailarín, u otra persona que represente un papel, cante, recite, declame, interprete o ejecute en cualquier forma una obra literaria o artística.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -779,11 +799,13 @@ Se entiende por ejecutantes a los conjuntos orquestales o corales cuya actuació
 
 Para los efectos legales, se considerará interpretación, no sólo el recitado y el trabajo representativo o una ejecución de una obra literaria o artística, sino también toda actividad de naturaleza similar a las anteriores, aun cuando no exista un texto previo que norme su desarrollo.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 84.
 
-Los intérpretes y los ejecutantes que participen en cualquier actuación, tendrán derecho a recibir la retribución económica por la explotación de sus interpretaciones, de acuerdo con los artículos 79 y 80. Cuando en la ejecución intervengan varias personas, la remuneración se distribuirá entre ellas, según convengan. A falta de convención, las percepciones se distribuirán en proporción a las que se hubiesen obtenido al realizar la ejecución.
+Los intérpretes y ejecutantes que participen en cualquier forma o medio de comunicación al público, tendrán derecho a recibir la retribución económica irrenunciable por la utilización pública de sus interpretaciones o ejecuciones, de acuerdo con los artículos 79 y 80.
+
+Cuando en la ejecución intervengan varias personas, la remuneración se distribuirá entre ellas, según convengan. A falta de Convenio, las percepciones se distribuirán en proporción a las que se hubiesen obtenido al realizar la ejecución.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -829,29 +851,35 @@ Los intérpretes o ejecutantes, podrán solicitar de la autoridad judicial compe
 
 En lo conducente, serán aplicables las disposiciones de los artículos 388, 398 y demás relativos del mismo ordenamiento, sin que tenga que acreditarse la necesidad de la medida.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 90.
 
-La duración de la protección concedida a intérpretes y ejecutantes, será de veinte años contados a partir:
+La duración de la protección concedida a intérpretes o ejecutantes será de 30 años contados a partir:
 
-a).- De la fecha de la fijación de fonogramas o discos.
+a).- De la fecha de fijación de fonogramas o disco.
 
 b).- De la fecha de ejecución de obras no grabadas en fonogramas.
 
 c).- De la fecha de la transmisión por televisión o radiodifusión.
 
-> <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 1982)</small>
 
 ###### ARTICULO 91.
 
-Quedan exceptuados de las anteriores disposiciones los siguientes casos:
+Quedan exceptuadas de las anteriores disposiciones los siguientes casos:
+
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
 I.- La utilización sin fines de lucro en los términos establecidos por el artículo 75;
 
+> <small>(REFORMADA, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
+
 II.- La utilización de breves fragmentos en informaciones sobre sucesos de actualidad; y
 
-III.- La fijación realizada en los términos del párrafo relativo al inciso "c" del artículo 74.
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+III.- La fijación realizada en los términos del inciso D. del artículo 74.
 
 > <small>(REFORMADO, D.O.F. 21 DE DICIEMBRE DE 1963)</small>
 
@@ -911,7 +939,13 @@ Son atribuciones de las sociedades de autores:
 
 I.- Representar a sus socios ante las autoridades judiciales y administrativas en todos los asuntos de interés general para los mismos. Ante las autoridades judiciales, los socios podrán coadyuvar personalmente con los representantes de su sociedad, en las gestiones que éstos lleven a cabo y que les afecten.
 
-II.- Recaudar y entregar a sus socios, así como a los autores extranjeros de su rama, las percepciones pecuniarias provenientes de los derechos de autor que les correspondan. Para el ejercicio de esta atribución se requiere que los socios, individualmente, otorguen mandato a la sociedad y, en el caso de autores extranjeros, que la asociación a que pertenezcan otorgue la autorización correspondiente, o que el autor extranjero, directamente, otorgue mandato a la sociedad;
+> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 1982)</small>
+
+II.- Recaudar y entregar a sus socios, así como a los autores extranjeros de su rama, las percepciones pecuniarias provenientes de los derechos de autor que le correspondan.
+
+Recaudar en el país, y sin que sea preciso tener representación alguna, los derechos que se generen por la utilización pública en cualquier forma de las obras de autores extranjeros, quedando supeditada la entrega de dichas recaudaciones a los autores extranjeros o a las asociaciones que los representen en su caso, con base al principio de reciprocidad.
+
+Para la recaudación de los derechos de autores nacionales, se requerirá que éstos otorguen individualmente mandato a la sociedad, en el caso de que en el término de dos años el autor no haya recaudado las percepciones a que tienen derecho, aun sin el mandato expreso individual a la sociedad autoral las recaudará notificando al Autor o a su causahabiente por conducto de la Dirección General del Derecho de Autor de la Secretaría de Educación Pública. Estas percepciones serán manejadas por la Sociedad Autoral correspondiente, a través del Fideicomiso de Administración previsto en la Ley.
 
 III.- Contratar o convenir, en representación de sus socios, respecto de los asuntos de interés general;
 
@@ -1840,3 +1874,9 @@ II.- Las sociedades que presten servicios de transporte de carga a alguno de sus
 Las empresas agrícolas, ganaderas y de pesca, estarán sujetas al régimen en general de la Ley a partir del 1o. de enero de 1983. La Secretaría de Hacienda y Crédito Público podrá durante ese ejercicio establecer bases en materia del impuesto sobre la renta para determinar la utilidad fiscal de las personas físicas o morales que sean pequeñas o medianas empresas dedicadas a la agricultura, ganadería y pesca.
 
 ARTICULO TRIGESIMO OCTAVO.- La adición al artículo 30 de la Ley Orgánica del Tribunal Fiscal de la Federación y sus consecuencias y la derogación de las fracciones IV y V del artículo 33 de la citada Ley, entrarán en vigor el primero de octubre de 1982.
+
+D.O.F. 11 DE ENERO DE 1982.
+
+## [N. DE E. TRANSITORIO DEL DECRETO "POR EL QUE SE REFORMA Y ADICIONA LA LEY FEDERAL DE DERECHOS DE AUTOR”.]
+
+ÚNICO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
