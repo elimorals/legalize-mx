@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-de-la-secretaria-de-planeacion-36848"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-14"
-last_updated: "2004-01-14"
+last_updated: "2004-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2004.
 
 Reglamento publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 14 de Enero de 2004.
 
@@ -897,9 +897,11 @@ XVI. Evaluar los conocimientos técnicos del personal a su cargo, para en su cas
 
 XVII. Desarrollar las demás funciones inherentes al área de su competencia y las que le asigne su superior jerárquico.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MAYO DE 2004)</small>
+
 ###### Artículo 35.
 
-Corresponde al Departamento de Asistencia Técnica al Coplade y Coplademun:
+Corresponde al Departamento de Control de Estadística para la Programación:
 
 I. Registrar en el Sistema Integral de Manejo de Obra Pública en Nayarit, la propuesta de inversión definitiva de los Programas Obra Pública, Programas y Convenios y Ramo General 39.
 
@@ -1061,6 +1063,58 @@ XII. Llevar un registro de los expedientes de servicio social por Ayuntamiento y
 
 XIII. Desarrollar las demás funciones inherentes al área de su competencia y las que le asigne su superior jerárquico.
 
+> <small>(ADICIONADO, P.O. 31 DE MAYO DE 2004)</small>
+
+Artículo 40 bis.- Corresponde al Departamento de Control de obra a Dependencias y Entidades:
+
+I. Realizar la dictaminación de Expedientes. Técnicos presentados por las Dependencias y Entidades Federales y Estatales.
+
+II. Llevar el registro en el Sistema Integral de Manejo de Obra en Nayarit, los Dictámenes de las obras y acciones aprobadas a las dependencias y entidades de los Programas de Obra Pública, Programas y Convenios, Ramo General 33 Fondos III, Fondo de Aportaciones para la Infraestructura Social Estatal y V: Sub-Fondo I (Asistencia Social) y 39.
+
+III. Participar con la asistencia del personal a su cargo a Actos de Licitación y de Entrega-Recepción por las obras aprobadas a los Ayuntamientos, Dependencias y Entidades.
+
+IV. Coordinar los trabajos técnicos de supervisión de las obras y acciones ejecutadas por los Ayuntamientos, Dependencias y Entidades, por la aprobación con cargo a los Programas de Obra Pública, Programas y Convenios, Ramo General 33 Fondos III, Fondo de Aportaciones para la Infraestructura Social Estatal y V: Sub-Fondo I (Asistencia Social) y 39.
+
+V. Registrar en el Sistema Integral de Manejo de Obra en Nayarit los avances físicos de las obras reportadas por las Dependencias y Entidades.
+
+VI. Revisar y conciliar que los registros físicos y calidad de las obras reportadas que se supervisan, correspondan con los índices observados en la supervisión en campo a las mismas,
+
+VII. Controlar todos los expedientes técnicos unitarios, tanto en el proceso de dictaminación como ya aprobados.
+
+VIII. Apoyar en la actualización de Guías de Operación de los Programas del Ramo General 33 Fondos III, Fondo de Aportaciones para la Infraestructura Social Estatal y V: Sub-Fondo II (Asistencia Social), efectuado su difusión y aplicación correcta.
+
+IX. Presentar a la Secretaría de Finanzas para su conocimiento y validación de acuerdo a la normatividad vigente, los informes mensuales del Ramo General 39.
+
+X. Remitir a la Secretaría de la Contraloría General los informes mensuales del Ramo General 39 para su envío a las oficinas centrales de la federación.
+
+XI. Elaborar los informes de las obras y acciones aprobadas a los Ayuntamientos, Dependencias y Entidades de los Programas de Obra Pública, Programas y Convenios, Ramo General 33 Fondos III, Fondo de Aportaciones para la Infraestructura Social Estatal (FISE) y V: Sub-Fondo I (Asistencia Social) y 39.
+
+XII. Revisar y registrar en el Control de CLC los datos de la documentación comprobatoria de las Cuentas por Liquidar Certificadas presentadas por Dependencias y Entidades.
+
+XIII. Coordinar los Reportes Mensuales, Trimestrales y Cierre de Ejercicio generados por su área y los presentados por las Dependencias y Entidades sobre las obras aprobadas de los Programas de Obra Pública, Programas y Convenios Ramos General 33 Fondos III, Fondo de Aportaciones para la Infraestructura Social Estatal y V: Sub-Fondo 1 (Asistencia Social) y 39, elaborando un Reporte de resumen con los avances físicos ponderados.
+
+XIV. Recopilar para su validación los Cierres de Ejercicio a las Dependencias y Entidades ejecutoras y ya requisitados devolver los tantos correspondientes a las mismas.
+
+XV. Enviar copia de los Cierres de Ejercicio a las Dependencias y Entidades que la Normatividad indique.
+
+XVI. Proporcionar capacitación y asesora al personal de las Dependencias y Entidades.
+
+XVII. Participar en la asistencia a Reuniones de Trabajo y Evaluación, que se realicen dentro de la secretaría, Dependencias o Entidades.
+
+XVIII. Turnar los dictámenes positivos a las Dependencias y Entidades al Departamento de Control de Obra a Programas Especiales para su aprobación.
+
+XIX. Elaborar los porcentajes de los avances físicos ponderados, de todas las obras aprobadas de las diferentes fuentes de financiamiento, para presentarlos a las instancias federales que la normatividad señale.
+
+XX. Llevar el control y seguimiento del Archivo histórico de la Dirección de su adscripción.
+
+XXI. Evaluar los conocimientos técnicos del personal a su cargo, para en su caso determinar las necesidades de capacitación del mismo.
+
+XXII. Elaborar, revisar y dar seguimiento al programa anual de trabajo de su área.
+
+XXIII. Participar en la elaboración de los proyectos de presupuesto de su área.
+
+XXIV. Desarrollar las demás funciones inherentes al área de su competencia.
+
 ###### Artículo 41.
 
 Corresponde al Departamento de Control de Obra a Ayuntamientos:
@@ -1198,3 +1252,9 @@ QUINTO.- Aquellos asuntos que al entrar en vigor el presente Reglamento se encue
 Dado en el Palacio del Poder Ejecutivo del Estado Libre y Soberano de Nayarit, en Tepic, su capital, a los tres días del mes de Diciembre del dos mil tres.
 
 Sufragio Efectivo No Reelección.- C.P. ANTONIO ECHEVARRÍA DOMÍNGUEZ, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Adán Meza Barajas, Secretario General de Gobierno.- Rúbrica.- Ing. José Luis Navarro Hernández, El Secretario de Planeación.- Rubrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL REGLAMENTO</small>
+
+P.O. 31 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
