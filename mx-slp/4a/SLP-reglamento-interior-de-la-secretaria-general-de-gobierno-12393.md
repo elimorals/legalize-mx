@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-general-de-gobierno-12393"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-01-23"
-last_updated: "1998-01-23"
+last_updated: "2002-07-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2002.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de San Luis Potosí, el viernes 23 de enero de 1998.
 
@@ -51,11 +51,25 @@ I.- El Secretario.
 
 II.- La Subsecretaría de Gobernación, integrada por:
 
-a).- La Dirección de Gobernación,
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2002)</small>
 
-b).- La Dirección de Desarrollo Político y
+La Dirección General de Gobernación de la que a su vez dependen:
 
-c).- La Dirección de Trabajo y Previsión Social.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+
+a).- La Dirección de Desarrollo Político.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+
+b).- La Dirección de Trabajo y Previsión Social.
+
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+
+c).- La Unidad Estatal de Protección Civil, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 1 DE JULIO DE 2002)</small>
+
+d).- La Dirección de Enlace Internacional.
 
 III.- La Subsecretaría Jurídica y de Servicios, integrada por:
 
@@ -71,7 +85,9 @@ d).- La Dirección del Registro Público de la Propiedad y de Comercio,
 
 e).- La Dirección del Registro Civil y
 
-f).- El Instituto de Investigaciones Jurídicas.
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+
+f).- La Procuraduría de la Defensa del Trabajo.
 
 IV.- La Subsecretaría de Prevención y Readaptación Social, integrada por:
 
@@ -81,13 +97,9 @@ a).- Las Direcciones de los Centros de Readaptación Social de la capital, así 
 
 b).- El Consejo Tutelar de Menores Infractores.
 
-V.- La Coordinación General de la Defensoría Social, integrada por:
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2002)</small>
 
-a).- La Defensoría de Oficio,
-
-b).- La Defensoría Indígena y
-
-c).- La Procuraduría de la Defensa del Trabajo
+V.- Las Coordinaciones para Asuntos Especiales en la Zona Huasteca, y en la Zona Altiplano.
 
 VI.- La Dirección General de Protección Social y Vialidad, integrada por
 
@@ -281,9 +293,11 @@ IX.- Las demás que les señalen las leyes, reglamentos, decretos, acuerdos y ma
 
 ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES Y DE AREA.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 13.
 
-Competen a la Dirección de Gobernación las siguientes atribuciones:
+Competen a la Dirección General de Gobernación las siguientes atribuciones:
 
 I.- Intervenir, en apoyo y coordinación con las autoridades federales, en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de catástrofes públicas y contra el narcotráfico;
 
@@ -395,9 +409,53 @@ XVI.- Formular y ejecutar programas de protección al salario; y
 
 XVII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
+
+ARTICULO 15 BIS.- La Unidad Estatal de Protección Civil contará con las atribuciones que la Ley de Protección Civil del Estado de San Luis Potosí le confiere.
+
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
+
+ARTICULO 15 TER.- Corresponde a la Dirección de Enlace Internacional el ejercicio de las siguientes atribuciones:
+
+I. Llevar a cabo las acciones necesarias para consolidar y fomentar de manera permanente las relaciones del Gobierno del Estado con organizaciones de mexicanos, y particularmente de potosinos radicados en el extranjero, a través de la implantación de diferentes programas institucionales;
+
+II. Promover en coordinación con las diversas instituciones gubernamentales, la imagen del Estado de San Luis Potosí y sus sectores ante la comunidad internacional;
+
+III. Planear y coordinar en forma permanente con las dependencias y entidades de la administración pública federal, estatal y municipal, programas y acciones tendientes a la solución de la problemática presentada por los potosinos repatriados en la entidad;
+
+IV. Coadyuvar a las diversas dependencias y entidades de la administración pública estatal, las acciones necesarias para la promoción comercial, industrial y de servicios de la entidad en aquellos lugares con mayor número de potosinos radicados en el extranjero;
+
+V. Promocionar y coordinar ante los clubes y organizaciones de potosinos radicados en el extranjero, la ejecución de obras y servicios que requieran éstos en sus lugares de origen;
+
+VI. Llevar a cabo en coordinación con las dependencias y entidades involucradas según sea el caso, las acciones necesarias para la implantación de proyectos de inversión en el área rural, para la generación de empleos en aquellas comunidades con un mayor desplazamiento de emigrantes hacia la unión americana;
+
+VII. Elaborar y mantener actualizado en coordinación con los patronatos municipales, clubes de emigrados, asociaciones y organizaciones, el padrón de potosinos radicados en el extranjero;
+
+VIII. Elaborar estudios socioeconómicos y de población, para conocer y generar alternativas de solución a la problemática que enfrentan las localidades con un mayor número de emigrados hacia los Estados Unidos;
+
+IX. Promover y coordinar con las diferentes dependencias y entidades involucradas, las actividades económicas, educativas, culturales y deportivas de la entidad, ante la comunidad potosina radicada en el extranjero;
+
+X. Asistir y dar seguimiento a los casos de potosinos sentenciados en el extranjero, en coordinación con las instituciones encargadas del área;
+
+XI. Brindar información, atención y seguimiento a los trámites y quejas de los potosinos que regresan a sus lugares de origen;
+
+XII. Promover y consolidar la instalación de comités o patronatos que fortalezcan el desarrollo de las actividades de interés común entre aquellos municipios que presentan un mayor número de emigrados y con los demás potosinos radicados en el extranjero;
+
+XIII. Coordinar con las instancias correspondientes las acciones de asesoría legal, recepción, traslado y orientación necesaria de los potosinos repatriados a sus comunidades de origen;
+
+XIV. Llevar a cabo las acciones y medidas necesarias para a (sic) elaboración y difusión de información concerniente a la problemática que presentan las comunidades de potosinos radicados en el extranjero y contribuir así a la socialización de experiencias e intercambio de perspectivas de solución, a través de las organizaciones y asociaciones conformadas para tal fin;
+
+XV. Informar periódicamente al titular de la Secretaría General de Gobierno, sobre los avances y resultados de los asuntos de su competencia;
+
+XVI. Realizar y presentar el Programa Operativo Anual y de trabajo, a la consideración del Subsecretario del Ramo; y
+
+XVII. Las demás que le señalen las leyes, decretos y acuerdos, reglamentos y manuales vigentes en la Secretaría General de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 16.
 
-Compete a la Dirección Jurídica las siguientes atribuciones:
+Compete a la Dirección General de Asuntos Jurídicos, por sí o a través de la Dirección Juridica las siguientes atribuciones:
 
 I.- Organizar y desarrollar el sistema de informática legislativa del Gobierno del Estado;
 
@@ -409,7 +467,9 @@ IV.- Realizar los estudios e investigaciones en materia legislativa, a fin de qu
 
 V.- Difundir, en el ámbito de su competencia y a través de publicaciones especializadas, los resultados del desarrollo de la base de datos de la legislación estatal y de sus programas de investigación;
 
-VI.- Proponer al Secretario, por conducto del Director General de Asuntos Jurídicos, la celebración de los convenios de colaboración con las autoridades federales, municipales y de otros estados, así como constituciones afines y con particulares en asuntos que tengan relación con su área;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2002)</small>
+
+VI.- Proponer al Secretario, por conducto del Director General, la celebración de los convenios de colaboración, con las autoridades federales, municipales y de otras entidades federativas, así como constituciones afines y con particulares, en asuntos que tengan relación con su área;
 
 VII.- Coordinarse con la Dirección del Periódico Oficial del Estado para el registro cronológico de las leyes, reglamentos, circulares, acuerdos, convenios y, en general, cuantas disposiciones legales en el ámbito estatal hayan sido difundidas por ese medio;
 
@@ -573,6 +633,22 @@ XI.- Integrar la base de datos, con la información que arrojen los estudios jur
 
 XII.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le sugiera la Superioridad.
 
+> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2002)</small>
+
+ARTICULO 21 BIS.- La Procuraduría de la Defensa del Trabajo se regirá por los artículos 530 al 536 de la Ley Federal del Trabajo, su Reglamento Interior y tendrá las siguientes atribuciones:
+
+I.- Representar y asesorar a los trabajadores y a los sindicatos formados por los mismos, ante cualquier autoridad; resolver sus consultas jurídicas y representarlos en todos los conflictos que se relacionen con la aplicación de normas de trabajo o se deriven de las mismas relaciones laborales;
+
+II.- Prevenir y denunciar ante la autoridad competente la violación de las normas laborales. Para este efecto hará valer las instancias, recursos o trámites que sean necesarios a fin de hacer respetar los derechos de los trabajadores;
+
+III.- Denunciar en la vía administrativa o jurisdiccional la falta o retención de pago de los salarios o del reparto de utilidades, interponiendo las acciones, recursos o gestiones encaminadas a subsanar dicha omisión;
+
+IV.- Proponer a las partes interesadas, soluciones amistosas para el arreglo de sus conflictos y hacerlas constar en actas autorizadas que tendrán valor probatorio pleno, y
+
+V.- La Procuraduría de la Defensa del Trabajo, contará con inspectores en todo el territorio del Estado, a fin de garantizar el cumplimiento de las normas laborales que establezcan derechos y garantías a favor de los trabajadores y jornaleros.
+
+La Procuraduría de la Defensa del Trabajo funcionará de acuerdo a los lineamientos que ésta establezca, con observancia a la Ley de la materia, así como los ordenamientos legales aplicables
+
 ###### ARTICULO 22.
 
 Competen a la Dirección General de Prevención y Readaptación Social las siguientes atribuciones:
@@ -657,57 +733,29 @@ IX.- Coordinar a los Directores de los Consejos Tutelares Auxiliares Regionales 
 
 X.- Las demás que le señalen las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad.
 
+> <small>(REFORMADO, P.O. 1 DE JULIO DE 2002)</small>
+
 ###### ARTICULO 25.
 
-Compete a la Coordinación General de la Defensoría Social, integrada por las Direcciones de Defensoría de Oficio, Defensoría Indígena y la Procuraduría de la Defensa del Trabajo, defender, patrocinar y asesorar, en forma gratuita, a aquellas personas que carezcan de los medios económicos para contratar los servicios de un abogado particular. Al efecto, la ley de la materia determinará la organización, integración y atribuciones de la Coordinación General, entre las cuales tendrá las siguientes funciones:
+Compete a la Coordinación para Asuntos Especiales en la Zona Huasteca y en la Zona Altiplano respectivamente:
 
-I.- Proporcionar la defensa necesaria en materia penal a las personas que no nombren defensor particular o no cuenten con los recursos económicos para cubrir los gastos de su defensa y patrocinar a quien requiera del servicio gratuito en asuntos judiciales de naturaleza civil;
+l.- Coordinar y apoyar a las diferentes dependencias de la administración pública estatal, en la promoción de los planes y programas del Gobierno del Estado, sirviendo de enlace entre éstas y los diferentes Municipios y grupos sociales de la zona que corresponda;
 
-II.- Resolver, gratuitamente, las consultas del público relacionadas con asuntos penales y civiles;
+II.- Coordinarse, con las diferentes dependencias del Gobierno Federal y de los Municipios de su jurisdicción territorial y ser el enlace entre éstas y el Gobierno del Estado;
 
-III.- Interponer los recursos que precedan en los procesos en que intervenga, así como promover el juicio de amparo en los casos en que así se requiera para la defensa de los derechos de sus patrocinados o defendidos;
+III.- Intervenir, en apoyo y coordinación con las autoridades federales en la aplicación de las leyes en materia de asociaciones religiosas y culto público, de juegos y sorteos, de armas de fuego y explosivos, de población, así como en las campañas de prevención, combate y extinción de las catástrofes naturales y contra el narcotráfico;
 
-IV.- Llevar un expediente pormenorizado y al día de cada asunto en que intervenga y realizar un registro consecutivo de los negocios a su cargo;
+IV.- Aplicar la normatividad estatal y federal vigente en materia de producción, distribución, venta y consumo de bebidas alcohólicas;
 
-V.- Presentar, mensualmente, a su superior jerárquico un informe detallado de los asuntos en que intervenga, el cual refleje el estado actual de cada caso y las acciones a ejecutar;
+V.- Instrumentar, coordinar, vigilar y evaluar el sistema regional de protección civil de las Zonas Huasteca y Altiplano, así como los relativos a la prevención y restablecimiento de zonas afectadas en caso de desastre, con la participación de la comunidad;
 
-VI.- Atender puntualmente los casos encomendados, representando y asesorando debidamente a sus defensos o patrocinados, así como instruyéndolos objetivamente tanto del problema legal como del alcance de las resoluciones judiciales pronunciadas en ellos;
+VI.- Atender y resolver en su caso, los planteamientos y necesidades de los Municipios de su jurisdicción y sin perjuicio de la relación directa que debe darse entre cada uno de los Presidentes Municipales con el Gobernador del Estado y la Secretaría General de Gobierno, escuchar y proponer en primera instancia la solución a la problemática que se le plantee;
 
-VII.- Proporcionar a sus defensos o patrocinados, mensualmente o cuantas veces éstos lo requieran, la información que les permita estar debidamente enterados de la secuela del proceso y del resultado de las actuaciones respectivas;
+VII.- Promover y, en su caso, desarrollar programas de orientación y capacitación tendientes al fortalecimiento de las instituciones y organizaciones políticas;
 
-VIII.- Informar a las autoridades competentes y a la superioridad de las quejas que los defensos presenten por falta de atención médica, vejaciones y malos tratos que sufran en prisión o durante su detención administrativa, así como sugerir, en su caso, las medidas conducentes para prevenir, evitar y sancionar las irregularidades que advierta;
+VIII.- Participar en todas aquellas acciones que contribuyan a promover el desarrollo político de la zona que corresponda, y
 
-IX.- Organizar y realizar periódicamente reuniones de trabajo entre los defensores para vigilar que los asuntos sean debidamente atendidos, así como promover su capacitación y actualización profesional;
-
-X.- Proporcionar la defensa necesaria en materia penal y/o civil, a personas de cualquiera de las distintas etnias que habitan en el Estado, en los casos en que no nombren defensor particular;
-
-XI.- Patrocinar y asesorar gratuitamente a personas de las distintas etnias del Estado en asuntos penales y civiles;
-
-XII.- Resolver, gratuitamente, las consultas que les sean planteadas por personas de las distintas etnias en asuntos del orden común;
-
-XIII.- Proporcionar un traductor bilingüe a todas las personas a que se refieren las tres fracciones anteriores, procurando que las actuaciones de los expedientes se lleven en castellano y en la lengua o dialecto del indiciado o del actor y demandado;
-
-XIV.- Asesorar y representar, en su caso, a los trabajadores y a sus sindicatos, siempre que lo soliciten, ante cualquier autoridad en las cuestiones que se relacionen con la aplicación de las normas de trabajo;
-
-XV.- Interponer los recursos ordinarios y extraordinarios procedentes para la defensa de los trabajadores y sus sindicatos;
-
-XVI.- Proponer a las partes interesadas soluciones conciliatorias para el arreglo de sus conflictos y hacer constar los resultados en actas autorizadas, velando primordialmente por el interés de los trabajadores o sus sindicatos;
-
-XVII.- Denunciar ante las autoridades que correspondan la violación de los derechos de los trabajadores;
-
-XVIII.- Proponer las bases de coordinación con las autoridades de la defensa del trabajo de otras entidades con el fin de unificar criterios para la eficaz protección de los derechos de los trabajadores o sus sindicatos;
-
-XIX.- Imponer las medidas disciplinarias en los asuntos de su competencia, de conformidad con las disposiciones de la Ley Federal del Trabajo y sus reglamentos;
-
-XX.- Difundir los derechos de los trabajadores y sus sindicatos;
-
-XXI.- Expedir las certificaciones sobre los documentos de su competencia;
-
-XXII.- Suscribir, previo acuerdo del superior, los convenios que permitan el mejor desempeño de sus atribuciones;
-
-XXIII.- Suministrar la información y proporcionar la cooperación que le sea requerida por la (sic)unidades administrativas de la Secretaría o por otras dependencias del ejecutivo del Estado; y
-
-XXIV.- Las demás que le señales las leyes, reglamentos, decretos, acuerdos y manuales aplicables, así como aquéllas que le confiera la Superioridad; y (sic)
+IX.- Las demás que les asigne el Secretario General de Gobierno.
 
 ###### ARTICULO 26.
 
@@ -797,7 +845,9 @@ Compete a la Coordinación General de Apoyo Administrativo las siguientes atribu
 
 I.- Proporcionar a las diversas unidades administrativas de la Secretaría, previo trámite ante las dependencias competentes, los recursos humanos, técnicos, financieros y materiales que requieran para el cumplimiento de sus programas de trabajo y vigilar su correcta aplicación;
 
-II.- Por acuerdo del Secretario y conjuntamente con la Dirección Jurídica, tramitar los nombramientos, remociones, renuncias y licencias de los titulares de las dependencias del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2002)</small>
+
+II.- Por acuerdo del Secretario General de Gobierno, conjuntamente con la Dirección General de Asuntos Jurídicos, tramitar los nombramientos, remociones, renuncias y licencias de los titulares de las dependencias de Gobierno del Estado;
 
 III.- Planear y programar el anteproyecto anual del presupuesto de egresos de la Secretaría y someterlo a la consideración del titular para su remisión a la Secretaría de Finanzas;
 
@@ -924,3 +974,19 @@ LIC. FERNANDO SILVA NIETO.
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. MARTÍN CELSO ZAVALA MARTÍNEZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 1 DE JULIO DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Acuerdo Administrativo en el cual se crea la Coordinación de Gobierno para Asuntos Especiales en la Zona Huasteca, dependiente del Despacho del Ejecutivo, publicado en el Periódico Oficial del Estado el día 23 de mayo de 1998.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones administrativas que contravengan al presente decreto.
