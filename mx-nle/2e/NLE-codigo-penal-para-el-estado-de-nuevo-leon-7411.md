@@ -4,7 +4,7 @@ identifier: "NLE-codigo-penal-para-el-estado-de-nuevo-leon-7411"
 country: "mx"
 rank: "codigo"
 publication_date: "1990-03-26"
-last_updated: "2004-08-18"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO PENAL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE AGOSTO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 26 de marzo de 1990.
 
@@ -2967,11 +2967,11 @@ ARTICULO 280 BIS.- AL QUE DOLOSAMENTE SE COLOQUE EN ESTADO DE INSOLVENCIA CON EL
 
 EL DELITO DE ABANDONO DE CONYUGE SE PERSEGUIRA A PETICION DE LA PARTE AGRAVIADA. EL DELITO DE ABANDONO DE HIJOS SE PERSEGUIRA DE OFICIO Y, CUANDO PROCEDA, EL MINISTERIO PUBLICO PROMOVERA LA DESIGNACION DE UN TUTOR ESPECIAL QUE REPRESENTE A LAS VICTIMAS DEL DELITO, ANTE EL JUEZ DE LA CAUSA, QUIEN TENDRA FACULTADES PARA DESIGNARLO. TRATANDOSE DEL DELITO DE ABANDONO DE HIJOS, SE DECLARARA EXTINGUIDA LA ACCION PENAL, OYENDO PREVIAMENTE LA AUTORIDAD JUDICIAL AL REPRESENTANTE DE LOS MENORES, CUANDO EL PROCESADO CUBRA LOS ALIMENTOS VENCIDOS Y OTORGUE GARANTIA SUFICIENTE, A JUICIO DEL JUEZ, PARA LA SUBSISTENCIA DE LOS HIJOS.
 
-> <small>(REFORMADO, P.O. 28 DE JULIO DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-###### ARTICULO 282.
+###### ARTÍCULO 282.
 
-SE PERSEGUIRA A PETICION DE PARTE AGRAVIADA Y SE SANCIONARA CON LA MISMA PENA SEÑALADA EN EL ARTICULO ANTERIOR, SI EL CONDENADO AL PAGO DE LA PENSION ALIMENTICIA DEJA DE CUBRIRLA SIN CAUSA JUSTIFICADA.
+SE PERSEGUIRA A PETICION DE PARTE AGRAVIADA Y SE SANCIONARA CON LA PENA SEÑALADA EN EL ARTICULO 280 DE ESTE CODIGO, SI EL CONDENADO AL PAGO DE LA PENSION ALIMENTICIA DEJA DE CUBRIRLA SIN CAUSA JUSTIFICADA.
 
 ###### ARTICULO 283.
 
@@ -4942,6 +4942,10 @@ Artículo Tercero.- Las disposiciones del Juicio Oral Penal entrarán en vigor d
 Artículo Cuarto.- Los procedimientos que en cualquier instancia estén en trámite al iniciar la vigencia de este Decreto, se tramitarán con las disposiciones de carácter general que estuvieran vigentes al momento del inicio de dichos procedimientos.
 
 P.O. 18 DE AGOSTO DE 2004.
+
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2004.
 
 Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
