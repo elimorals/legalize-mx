@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-ministerio-publico-del-estado-de-sinaloa-13078
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-11-16"
-last_updated: "1998-11-16"
+last_updated: "1999-07-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13078&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1999.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el lunes 16 de noviembre de 1998.
 
@@ -135,19 +135,25 @@ IV. Recibir y dar la atención debida a las quejas que directamente formule la p
 
 La investigación y persecución de los delitos del orden común comprende:
 
-I. Recibir denuncias, acusaciones y querellas sobre acciones u omisiones que puedan constituir delito;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+I. Recibir denuncias y querellas sobre acciones y omisiones que puedan constituir delito;
 
 II. Propiciar adecuadamente la conciliación entre las víctimas u ofendidos por delitos y quienes aparezcan como probables responsables, en los ilícitos que se persigan por querella;
 
 III. Investigar los delitos del orden común con la ayuda de los auxiliares a que se refiere esta ley y de otras autoridades competentes en los términos de los convenios de colaboración;
 
-IV. Practicar las diligencias necesarias para la acreditación de los elementos del tipo penal del delito y la probable responsabilidad que corresponda, así como para la reparación del daño y perjuicios causados;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+IV. Practicar las diligencias necesarias para la acreditación del cuerpo del delito y la probable responsabilidad, así como para la reparación del daño y perjuicios causados;
 
 V. Ordenar la detención y, en su caso, la retención, de los probables responsables de la comisión de delitos, en los términos del Artículo 16 de la Constitución Política de los Estados Unidos Mexicanos;
 
 VI. Asegurar los instrumentos, huellas, objetos y productos del delito, en los términos de las normas aplicables;
 
-VII. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre que no se afecte a terceros y estén acreditados los elementos del tipo penal de que se trate, pudiendo, en caso necesario, ordenar que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal, se pondrán a disposición del órgano jurisdiccional;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VII. Restituir provisionalmente y de inmediato al ofendido en el goce de sus derechos, siempre que no se afecte a terceros y esté acreditado el cuerpo del delito, pudiendo, en caso necesario, ordenar que el bien se mantenga a disposición del Ministerio Público, exigiendo el otorgamiento de garantías que, de ejercitarse la acción penal, se pondrán a disposición del órgano jurisdiccional;
 
 VIII. Conceder la libertad provisional a los indiciados, en los términos del Artículo 20 de la Constitución Federal y del Código de Procedimientos Penales para el Estado de Sinaloa;
 
@@ -171,7 +177,9 @@ IV. Poner a disposición de la autoridad judicial a las personas detenidas y apr
 
 V. Solicitar el aseguramiento precautorio de bienes y la constitución de garantías para los efectos de la reparación de los daños y perjuicios, en los casos que proceda;
 
-VI. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación de los elementos del tipo penal del delito de que se trate, de la responsabilidad penal, de la existencia de daños y perjuicios y para la fijación del monto de su reparación;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VI. Aportar las pruebas pertinentes y promover las diligencias conducentes para la debida acreditación del cuerpo del delito, la comprobación de la existencia del delito y de la probable o plena responsabilidad penal, según el caso, así como de la existencia de daños y perjuicios, y para la fijación del monto de su reparación;
 
 VII. Formular las conclusiones en los términos señalados por la ley, y solicitar la imposición de las penas y medidas de seguridad que correspondan, así como el pago de la reparación de los daños y perjuicios o, en su caso, plantear las causas de exclusión del delito o de las que extinguen la acción penal;
 
@@ -527,7 +535,9 @@ IV. Llevar y mantener un estricto control y seguimiento de los procesos radicado
 
 V. Vigilar el debido cumplimiento de las actividades de los Agentes del Ministerio Público adscritos a los Tribunales;
 
-VI. Intervenir directamente, o a través de los Agentes del Ministerio Público, en los procesos penales, promoviendo las diligencias tendientes a comprobar los elementos del tipo penal de los delitos de que se trate, la responsabilidad penal de los inculpados y exigir la reparación del daño;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+VI. Intervenir directamente, o a través de los Agentes del Ministerio Público, en los procesos penales, promoviendo las diligencias tendientes a acreditar el cuerpo del delito, a la comprobación de la existencia del delito y la probable o plena responsabilidad penal de los indiciados, según el caso, y exigir la reparación del daño;
 
 VII. Pedir el aseguramiento precautorio de bienes para los efectos de la reparación del daño causado, como resultado de la comisión de hechos delictuosos;
 
@@ -905,13 +915,17 @@ I. De los Agentes del Ministerio Público Investigadores:
 
 a). Residir en el lugar de su adscripción;
 
-b). Recibir las denuncias, acusaciones o querellas por delitos del orden común;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+b). Recibir las denuncias o querellas por delitos del orden común;
 
 c). Iniciar las averiguaciones previas respectivas;
 
 d). Dar aviso a la Dirección de Averiguaciones Previas de la iniciación de averiguaciones previas, dentro de las veinticuatro horas siguientes;
 
-e). Practicar las investigaciones necesarias para el esclarecimiento de los hechos, que tiendan a la comprobación de los elementos del tipo penal de que se trate y la probable responsabilidad de los indiciados;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+e). Practicar las investigaciones necesarias para el esclarecimiento de los hechos, que tiendan a acreditar el cuerpo del delito y la probable responsabilidad de los indiciados;
 
 f). Dictar los acuerdos pertinentes para el desarrollo de la averiguación previa;
 
@@ -919,7 +933,9 @@ g). Suscribir las determinaciones necesarias para la adecuada investigación de 
 
 h). Manifestar al Procurador General de Justicia los motivos de excusa que tuvieren para no intervenir en negocios de su competencia;
 
-i). Restituir al ofendido en el goce de sus derechos a manera provisional, de oficio o a petición del interesado, cuando durante la averiguación previa estén plenamente justificados esos derechos y estén comprobados los elementos del tipo penal de que se trate, ordenando que el bien se mantenga a disposición del Ministerio Público, si se estimara necesario y, en su caso, exigir el otorgamiento de caución que, de ejercitarse la acción penal, se pondrá a disposición de la autoridad judicial;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1999)</small>
+
+i). Restituir al ofendido en el goce de sus derechos de manera provisional, de oficio o a petición del interesado, cuando durante la averiguación previa estén plenamente justificados esos derechos y esté acreditado el cuerpo del delito, ordenando que el bien se mantenga a disposición del Ministerio Público, si se estima necesario y, en su caso, exigir el otorgamiento de caución que, de ejercitarse la acción penal, se pondrá a disposición de la autoridad judicial;
 
 j). Emitir las resoluciones que en Derecho corresponda.
 
@@ -987,7 +1003,9 @@ Los acuerdos, resoluciones y pedimentos de los Agentes del Ministerio Público d
 
 Las resoluciones de los Agentes del Ministerio Público en la averiguación previa podrán ser:
 
-I. Ejercicio de la Acción Penal, tan pronto aparezca de la averiguación previa que se han comprobado los elementos del tipo penal del delito de que se trate y la probable responsabilidad de los indiciados;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 1999)</small>
+
+I. Ejercicio de la acción penal, tan pronto aparezca de la averiguación previa que se ha acreditado el cuerpo del delito y la probable responsabilidad de los indiciados;
 
 II. No Ejercicio de la Acción Penal, en los casos que señala el Código de Procedimientos Penales;
 
@@ -1029,7 +1047,9 @@ Los funcionarios del Ministerio Público no son recusables, pero deberán excusa
 
 El Gobernador del Estado calificará las excusas del Procurador General de Justicia. Este calificará las excusas del Subprocurador General, de los Subprocuradores Regionales, de los Directores, del Jefe de la Unidad de Informática, del Contralor Interno, de los Agentes del Ministerio Público; y éstos la de sus auxiliares.
 
-## TITULO SEXTO. DE LA PROFESIONALIZACION DEL MINISTERIO PUBLICO
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 1999)</small>
+
+## TITULO SEXTO. DE LA PROFESIONALIZACION Y EL SERVICIO CIVIL DE CARRERA DEL MINISTERIO PUBLICO
 
 ### CAPITULO ÚNICO. DISPOSICIONES GENERALES
 
@@ -1044,6 +1064,12 @@ La profesionalización del personal del Ministerio Público comprenderá el ingr
 ###### Artículo 70.
 
 Por la naturaleza de sus funciones, los Agentes del Ministerio Público, Peritos y Agentes de Policía Judicial son trabajadores de confianza.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1999)</small>
+
+###### Artículo 70 Bis.
+
+El servicio civil de carrera del Ministerio Público se regirá por lo dispuesto en el estatuto respectivo, el cual será expedido por el Gobernador Constitucional del Estado.
 
 ## TITULO SÉPTIMO. DE LAS RESPONSABILIDADES ESPECIALES DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS Y AGENTES DE POLICÍA JUDICIAL
 
@@ -1168,3 +1194,11 @@ RENATO VEGA ALVARADO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 JUAN LUIS TORRES VEGA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 1999.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
