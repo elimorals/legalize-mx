@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2003-04-22"
+last_updated: "2003-11-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL MUNICIPIO LIBRE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -529,7 +529,7 @@ XXIII. Presidir el Consejo Municipal de Protección Civil;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 22 DE ABRIL DE 2003)</small>
 
-XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que esté fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
+XXIV. Asumir la representación jurídica del Ayuntamiento en los actos y hechos en que éste fuera parte, cuando el Síndico esté impedido legalmente para ello, se excuse o se niegue a asumirla, requiriéndose, en este último caso, la previa autorización del Cabildo; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], G.O. 22 DE ABRIL DE 2003)</small>
 
@@ -1505,6 +1505,10 @@ Tratándose de convenios con otros municipios de la entidad, sólo se requerirá
 
 La Hacienda Municipal se formará por los bienes de dominio público municipal y por los que le pertenezcan, de conformidad con la legislación aplicable; así como por las aportaciones voluntarias, los impuestos, derechos, productos, aprovechamientos, participaciones, contribuciones, tasas adicionales que decrete el Estado sobre la propiedad inmobiliaria, la de su fraccionamiento, división, consolidación, traslación y mejoras, las que tengan por base el cambio de valor de los inmuebles y todos los demás ingresos fiscales que el Congreso del Estado establezca a su favor, en términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.O. 18 DE NOVIEMBRE DE 2003)</small>
+
+El presidente y el tesorero del Ayuntamiento serán directamente responsables de la administración de todos los recursos públicos municipales.
+
 ###### Artículo 105.
 
 Los Ayuntamientos formularán cada año, en el mes de enero, un inventario general y avalúo de los bienes municipales de cualquiera naturaleza que sean. Concurrirán a su formulación el Presidente Municipal, la Comisión de Hacienda y Patrimonio Municipal y el Tesorero. El inventario y el avalúo se extenderá por triplicado, y quedará un ejemplar en el archivo municipal, uno en la Tesorería y el otro se remitirá al Congreso del Estado.
@@ -1633,7 +1637,9 @@ XXX. Abstenerse de cualquier acto u omisión que implique incumplimiento de cual
 
 XXXI. Responsabilizarse por el incumplimiento de las obligaciones que les impongan esta ley y demás leyes del Estado, conforme a los supuestos y consecuencias previstos en la Constitución Política del Estado, en esta ley y en la ley en materia de responsabilidades de los servidores públicos.
 
-Queda prohibido designar a empleados o servidores públicos para desempeñar puestos de confianza, a persona alguna a quien le ligue parentesco consanguíneo o por afinidad en línea recta o colateral hasta el cuarto grado, con Edil o servidor público municipal. Esta prohibición alcanza a los cónyuges y a las personas ligadas a ellos hasta el segundo grado. Estarán exceptuados de esta prohibición, a quienes hubiesen laborado ininterrumpidamente como empleados de base en el Ayuntamiento los últimos dos años.
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2003)</small>
+
+Queda prohibido designar, para desempeñar puestos de confianza, a personas a quienes les ligue parentesco consanguíneo o por afinidad, en línea recta o colateral hasta el cuarto grado, con servidores públicos municipales, con excepción de quienes, durante los últimos dos años, hubieren laborado ininterrumpidamente como empleados de base en la Administración Pública Municipal de que se trate. Los cargos que, dentro de los Sistemas Municipales para el Desarrollo Integral de la Familia desempeñen los cónyuges o parientes consanguíneos o por afinidad hasta el cuarto grado de los servidores públicos tendrán carácter honorífico, sin derecho a retribución alguna.
 
 ###### Artículo 116.
 
@@ -1963,9 +1969,11 @@ Las sanciones administrativas aplicables a los servidores públicos municipales 
 
 Quienes hayan desempeñado cargos públicos en un Municipio podrán solicitar ante el Presidente Municipal constancias que acrediten la no existencia de registro de inhabilitación, que serán exhibidas para los efectos pertinentes, por las personas que sean requeridas para desempeñar un empleo, cargo o comisión en el servicio público.
 
+> <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2003)</small>
+
 ###### Artículo 160.
 
-En contra de los actos o resoluciones administrativas que se dicten, los sujetos sancionados podrán interponer, a su elección, el recurso de revocación o intentar el juicio contencioso, de conformidad con lo dispuesto por el Código de la materia.
+En contra de los actos o resoluciones administrativas que se dicten por los Ayuntamientos, los sujetos sancionados podrán interponer, a su elección, el recurso de revocación o intentar el juicio contencioso, de conformidad con lo dispuesto por el código de la materia.
 
 ###### Artículo 161.
 
@@ -2300,3 +2308,9 @@ El presente Decreto entrará en vigor a partir del día siguiente al de su publi
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan el (sic) presente Decreto.
+
+G.O. 18 DE NOVIEMBRE DE 2003.
+
+Primero. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
