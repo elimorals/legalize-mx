@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2001-12-30"
+last_updated: "2002-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -45,9 +45,9 @@ LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-## TITULO SEGUNDO. De los Derechos
+## TITULO QUINTO. De Otros Ingresos
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ### CAPITULO II. Del Impuesto Sobre Diversiones y Espectáculos Públicos
 
@@ -551,7 +551,7 @@ II.- Las personas físicas o morales con actividad permanente o temporal de comp
 
 III.- Los servidores públicos que en ejercicio de sus funciones, autoricen movimientos al padrón vehicular del Estado de Aguascalientes, sin cerciorarse con la documentación comprobatoria correspondiente de su pago. La responsabilidad solidaria no excederá del monto del impuesto y los accesorios adeudados. Lo anterior, sin perjuicio de las responsabilidades de los servidores públicos del Estado de Aguascalientes.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEPTIMA. De las Exenciones
 
@@ -565,7 +565,7 @@ La Secretaría de Finanzas del Estado estará a cargo del Padrón Vehicular del 
 
 ### CAPITULO IV. Del Impuesto sobre la Prestación de Servicios de Hospedaje
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION PRIMERA. De los Sujetos
 
@@ -573,13 +573,13 @@ La Secretaría de Finanzas del Estado estará a cargo del Padrón Vehicular del 
 
 ###### ARTICULO 30.
 
-Están obligadas al pago del impuesto establecido en esta Ley las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos. El 95% de los ingresos por este impuesto serán destinados para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
+Están obligadas al pago de este impuesto, las personas físicas y morales que dentro del Estado de Aguascalientes, de manera permanente o temporal, presten servicios de albergue u hospedaje en hoteles, moteles, casas de huéspedes o cualquier instalación creada para ese fin, a cambio de una contraprestación en dinero o en especie, sin importar la duración de los mismos. El 90% de los ingresos por este impuesto será destinado para la promoción y difusión de la actividad turística del Estado de Aguascalientes.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEGUNDA. Del Objeto
+#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 31.
 
@@ -599,9 +599,9 @@ El contribuyente trasladará el impuesto en forma expresa y por separado a las p
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION CUARTA. De la Responsabilidad Solidaria
+#### SECCION SEGUNDA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 33.
 
@@ -611,7 +611,7 @@ Los contribuyentes de este impuesto efectuarán pagos provisionales bimestrales,
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Padrón Vehicular del Estado de Aguascalientes
+#### SECCION CUARTA. De la Responsabilidad Solidaria
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -627,7 +627,7 @@ II.- En caso de anticipos por reservaciones, cuando se reciba total o parcialmen
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 200)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 35.
 
@@ -645,7 +645,7 @@ III.- llevar contabilidad, conforme a las disposiciones fiscales federales o de 
 
 #### SECCION SEGUNDA. De los Sujetos
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 36.
 
@@ -671,7 +671,7 @@ b).- Los datos proporcionados por los beneficiarios de los servicios; y
 
 c).- Los Informes proporcionados por las autoridades encargadas de normar la actividad realizada por el contribuyente.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION TERCERA. De la Responsabilidad Solidaria
 
@@ -679,7 +679,7 @@ c).- Los Informes proporcionados por las autoridades encargadas de normar la act
 
 #### SECCION CUARTA. De la Base
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION QUINTA. De la Tasa
 
@@ -687,27 +687,39 @@ c).- Los Informes proporcionados por las autoridades encargadas de normar la act
 
 #### SECCION SEXTA. Del Pago
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION SEPTIMA. De la Retención
 
-> <small>(ADICIONADO, P.O. 21 DE FEBREREO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION OCTAVA. De la Causación
+#### SECCION OCTAVA. De la Causación y Excepciones
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO IV (SIC). Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
+### CAPITULO V. Del Impuesto Sobre Loterías, Rifas, Sorteos y Concursos
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 #### SECCION PRIMERA. Del Objeto
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 37.
 
-Es objeto de este impuesto la obtención de ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio sea cobrado en el territorio del Estado de Aguascalientes. No se considerará como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa, sorteo o concurso aplicable.
+Es objeto de este impuesto la obtención de ingresos por premios derivados de loterías, rifas, sorteos y concursos de toda clase, cuando el premio sea cobrado en el territorio del Estado de Aguascalientes; o cuando realizándose el evento en el Estado, el premio sea cobrado fuera del mismo.
+
+No se considerará como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa, sorteo o concurso aplicable.
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+
+#### SECCION SEXTA. De las Excepciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 38.
+
+Son sujetos de este impuesto las personas físicas, morales o unidades económicas sin personalidad jurídica, que obtengan ingresos derivados del cobro de premios de loterías, rifas, sorteos y concursos en términos del artículo anterior.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -715,41 +727,31 @@ Es objeto de este impuesto la obtención de ingresos por premios derivados de lo
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1996)</small>
 
-###### ARTICULO 38.
-
-Son sujetos de este impuesto las personas físicas, morales y unidades económicas sin personalidad jurídica, que obtengan ingresos derivados del cobro de premios de loterías, rifas, sorteos y concursos en el territorio del Estado de Aguascalientes.
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
-#### SECCION TERCERA. De la Responsabilidad Solidaria
-
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
-
 ###### ARTICULO 39.
 
 Son solidarios responsables del pago de este impuesto, los organizadores del evento de cuyo resultado dependa el pago del premio aún y cuando su domicilio fiscal se encuentre fuera del territorio del Estado.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION CUARTA. De la Base
+#### SECCION QUINTA. Del Pago
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 40.
 
-Será base del impuesto, el valor determinado o determinable que se desprenda de lo siguiente:
+Será base del impuesto, el valor determinado o determinable en cantidad líquida que se sustente en las siguientes causas generadoras:
 
-I.- Tratándose de premios en especie, el valor con el que se proporcione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el del avalúo comercial.
+I.- Tratándose de premios en especie, el valor con el que se proporcione cada uno de los premios; en su defecto, el valor de facturación y en ausencia de ambos, el de valor de mercado vigente.
 
-Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda al premio de la lotería, rifa, sorteo o concurso de que se trate, se considerará el valor de mercado.
+Cuando no se desglose y compruebe a satisfacción de la autoridad fiscal el valor o precio que corresponda al premio de la lotería, rifa, sorteo o concurso de que se trate, se considerará el valor de mercado vigente.
 
-II.- Tratándose de numerario, el monto efectivamente cobrado por el sujeto de la Ley.
+II.- Tratándose de numerario, el monto del premio.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION QUINTA. Del Pago
+#### SECCION UNICA
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 41.
 
@@ -759,23 +761,25 @@ Sobre la base gravable se aplicará la tasa que al efecto se señale en la Ley d
 
 ###### ARTICULO 42.
 
-Los sujetos obligados al pago del impuesto por responsabilidad directa o solidaria, lo efectuarán a más tardar el día 15 del mes siguiente a aquel en que se efectúe el cobro del premio, presentándolo en la forma de declaración aprobada en la Secretaría de Finanzas del Estado. Dicho pago se entenderá definitivo.
+Los sujetos obligados al pago del impuesto por responsabilidad directa, solidaria u objetiva, lo autodeterminarán en las formas aprobadas por la autoridad fiscal, y su pago se efectuará en las cajas recaudadoras de la Secretaría de Finanzas y Administración del Estado, dentro del término de 15 días naturales a la fecha en que se efectúe el cobro del premio.
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 43.
 
-Los organizadores de loterías, rifas, sorteos o concursos estarán obligados a retener el importe del impuesto del premio en cuestión y a enterarlo en los plazos previstos en el artículo anterior.
+En defecto de lo previsto en el artículo anterior los organizadores de loterías, rifas, sorteos o concursos estarán obligados a pagar el importe del impuesto del premio en cuestión en un término adicional de cinco días hábiles.
 
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 44.
 
-Este impuesto se causa cuando los sujetos cobren premios dentro del territorio del Estado de Aguascalientes, derivados de loterías, rifas, sorteos y concursos, exceptuando de lo anterior a los Organismos Públicos Descentralizados de la Administración Pública Federal, cuyo objeto social sea la obtención de recursos para destinarlos a la asistencia pública.
+Este impuesto se causa al surtirse las hipótesis generadoras del mismo previstas en el Artículo 37 de esta Ley.
+
+Se exceptúan los cobros de los premios derivados de eventos organizados por las Administraciones Públicas Centralizada y Descentralizada de los Gobiernos Estatal y Municipal.
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
-#### SECCION SEXTA. De las Exenciones
+#### SECCION TERCERA. De la Responsabilidad Solidaria
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -783,19 +787,19 @@ Este impuesto se causa cuando los sujetos cobren premios dentro del territorio d
 
 Las infracciones al presente Título se sancionarán de conformidad a lo previsto por el Código Fiscal del Estado.
 
-> <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-#### SECCION UNICA
+#### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 46.
 
-Es objeto de este impuesto la adquisición de vehículos de motor que se realicen en el Estado.
+Es objeto de este impuesto la adquisición de vehículos usados de motor que se realice en el Estado.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-### CAPITULO VI. Del Impuesto Sobre Adquisición de Vehículos de Motor
+### CAPITULO VI. Del Impuesto Sobre Adquisición de Vehículos Usados de Motor
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -805,9 +809,9 @@ Es objeto de este impuesto la adquisición de vehículos de motor que se realice
 
 ###### ARTICULO 47.
 
-Quienes habitualmente residan o realicen sus actividades en el Estado y adquieran vehículos registrados en otra Entidad Federativa, quedan sujetos a este impuesto, dado que se presume, salvo prueba en contrario, que la adquisición se realizó en el Estado.
+Para efectos del pago de este impuesto se presume, salvo prueba en contrario, que la adquisición de vehículos usados para su incorporación en el Registro Estatal Vehicular, se efectuó en territorio del Estado.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION UNICA
 
@@ -817,7 +821,7 @@ Quienes habitualmente residan o realicen sus actividades en el Estado y adquiera
 
 Es sujeto del impuesto el adquirente del vehículo.
 
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 #### SECCION UNICA
 
@@ -827,13 +831,19 @@ Es sujeto del impuesto el adquirente del vehículo.
 
 Son responsables solidarios del pago de este impuesto:
 
-I. El enajenante y el último adquirente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
-II.- Los Servidores Públicos que autoricen cualquier trámite relacionado con los vehículos de motor gravados por este impuesto, sin que se hubiera realizado el pago; y
+I.- El enajenante y el último adquirente;
 
-III.- Los comisionistas o intermediarios que intervengan en las adquisiciones.
+El enajenante está obligado a presentar aviso, en los formatos autorizados por la Secretaría de Finanzas y Administración del Estado, dentro de los 15 días naturales siguientes a la fecha de la operación.
 
-El enajenante está obligado a presentar aviso, en los formatos autorizados por la Secretaría de Finanzas del Estado, dentro de los 15 días siguientes a la fecha de operación.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+II.- Los Servidores Públicos que autoricen y realicen cualquier trámite relacionado con la adquisición de vehículos usados de motor, en que se hubiere omitido el pago del impuesto; y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+III.- Los intermediarios respecto de las adquisiciones gravadas por este impuesto.
 
 > <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -843,41 +853,49 @@ El enajenante está obligado a presentar aviso, en los formatos autorizados por 
 
 ###### ARTICULO 50.
 
-La base la constituye el porcentaje determinado en la Ley de Ingresos, respecto de las tarifas para el Impuesto Sobre Tenencia o uso de Vehículos, publicadas por la Secretaría de Hacienda y Crédito Público del Gobierno Federal, que corresponda al ejercicio fiscal en que se efectúe la adquisición.
+Respecto de vehículos usados de motor cuyo año modelo de antigüedad corresponda al período de los últimos diez años, a la fecha en que se realice su adquisición, la base la constituye el Impuesto Federal Sobre Tenencia o Uso de Vehículos en materia federal, correspondiente al ejercicio fiscal en que se efectúe la misma.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 51.
 
-El impuesto se calculará para:
-
-Automóviles y vehículos de transporte: El equivalente al porcentaje fijado en la Ley de Ingresos del Estado de Aguascalientes, respecto de la tarifa del Impuesto Sobre Tenencia o uso de Vehículos, publicada en el Diario Oficial de la Federación por la Secretaría de Hacienda y Crédito Público del Gobierno Federal para el ejercicio fiscal que corresponda.
-
-La adquisición de vehículos no comprendidos en dichas tarifas causarán el impuesto conforme a lo previsto en la Ley de Ingresos del Estado para el ejercicio fiscal que corresponda.
-
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
-###### ARTICULO 52.
-
-El pago de este impuesto se hará en las oficinas recaudadoras de la Secretaría de Finanzas del Estado, en sus delegaciones o instituciones de crédito autorizadas para tal efecto al siguiente día hábil a la adquisición consignado en la factura del vehículo.
-
-> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
-###### ARTICULO 53.
-
-Están exentos del pago de este impuesto:
-
-I.- Las adquisiciones en que se cause el Impuesto al Valor Agregado;
-
-II.- Los cambios de propietarios por causa de muerte, entre parientes en línea recta;
-
-III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios, a menos que su actividad no corresponda a funciones de servicio público.
+Tratándose de vehículos cuyo año modelo de antigüedad corresponda al período anterior a los últimos diez años a la fecha en que se realiza la adquisición de vehículos usados de motor, se pagará la tarifa prevista en la Ley de Ingresos.
 
 > <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
+###### ARTICULO 52.
+
+El pago de este impuesto se hará en un término de 15 días naturales siguientes al de la adquisición, consignada en la factura del vehículo o en el documento judicial o administrativo que lo sustituya en términos de ley; debiendo efectuarse en las cajas recaudadoras de la Secretaría de Finanzas y Administración del Estado
+
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
+
+###### ARTICULO 53.
+
+Están exceptuadas del pago de este impuesto:
+
+I.- Las adquisiciones efectuadas por las personas morales o físicas con actividad empresarial que causen el Impuesto al Valor Agregado;
+
+II.- Las adquisiciones que por causa de muerte del titular del vehículo usado, se transmita a los parientes en línea recta en términos de las disposiciones legales aplicables;
+
+III.- Las adquisiciones que realicen la Federación, el Estado y los Municipios que sean utilizados para la prestación de servicios públicos.
+
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+
 ###### ARTICULO 54.
 
-Los derechos por servicios públicos que presten las diversas Dependencias y Entidades del Gobierno del Estado, se causarán en el momento en que se reciba la prestación del servicio.
+Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 54-A.
+
+Son sujetos del pago de derechos, las personas físicas y morales tanto de derecho privado como público, que reciban servicios que presta el Estado en sus funciones de derecho público, o por el uso o aprovechamiento de los bienes del dominio público del Estado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### ARTICULO 54-B.
+
+Los derechos se causarán y pagarán en el momento de solicitar o recibir el servicio público, así como de ejercer el uso o aprovechamiento de los bienes de dominio público del Estado, de conformidad con las tarifas que al efecto señale la Ley de Ingresos del Estado.5
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2000)</small>
 
@@ -885,7 +903,7 @@ Los derechos por servicios públicos que presten las diversas Dependencias y Ent
 
 El importe de las tasas que para cada derecho señala la Ley de Ingresos del Estado, deberá ser cubierto en las cajas recaudadoras de la Secretaría de Finanzas de la jurisdicción donde se preste el servicio y las instituciones bancarias autorizadas para ello.
 
-Son sujetos del pago de derechos toda persona física o moral, incluyendo las de la Administración Pública Centralizada y Paraestatal de los Gobiernos Federal, Estatal y Municipal.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -1021,7 +1039,7 @@ IV.- Expropiaciones;
 
 V. Apoyos extraordinarios del Fondo Federal para zonas de desastre.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ###### ARTICULO 69.
 
@@ -1033,13 +1051,13 @@ II.- Saldo del ejercicio fiscal anterior.
 
 ## TITULO TERCERO. De los Productos
 
+> <small>(ADICIONADA, P.O. 21 DE FEBRERO DE 2000)</small>
+
+## TITULO SEGUNDO. De los Derechos
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
 ## TITULO CUARTO. De los Aprovechamientos
-
-> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
-
-## TITULO SEXTO (SIC). De Otros Ingresos
 
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2000)</small>
 
@@ -1140,3 +1158,9 @@ P.O. 30 DE DICIEMBRE DE 2001.
 ###### ARTICULO UNICO.
 
 Las presentes reformas y adiciones entrarán en vigor al día siguiente de su publicación.
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
