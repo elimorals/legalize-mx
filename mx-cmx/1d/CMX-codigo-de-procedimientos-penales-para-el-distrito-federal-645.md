@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1944-03-24"
+last_updated: "1965-12-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1944.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE DICIEMBRE DE 1965.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1534,9 +1534,15 @@ II. Injurias, difamación, calumnia y golpes simples; y
 
 III. Los demás que determine el Código Penal.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1965)</small>
+
 ###### ARTICULO 264.
 
-Cuando para la persecución de los delitos se haga necesaria la querella de la parte ofendida, bastará que ésta, aunque sea menor de edad, manifieste verbalmente su queja, para que se proceda en los términos de los artículos 275 y 276. Si a nombre de la persona ofendida comparece alguna otra, bastará para tener por legalmente formulada la querella, que no haya oposición de la persona ofendida.
+Cuando para la persecución de los delitos se haga necesaria la querella de la parte ofendida, bastará que ésta, aunque sea menor de edad, manifieste verbalmente su queja, para que se proceda en los términos de los artículos 275 y 276. Se reputará parte ofendida para tener por satisfecho el requisito de la querella necesaria, a toda persona que haya sufrido algún perjuicio con motivo del delito, y, tratándose de incapaces, a los ascendientes y, a falta de éstos, a los hermanos o a los que representen a aquélla legalmente.
+
+Las querellas presentadas por las personas morales, podrán ser formulados (sic) por apoderado que tenga poder general para pleitos y cobranzas con cláusula especial, sin que sea necesario acuerdo previo o ratificación del Consejo de Administración o de la Asamblea de Socios o Accionistas ni poder especial para el caso concreto.
+
+Para las querellas presentadas por personas físicas, será suficiente un poder semejante, salvo en los casos de rapto, estupro o adulterio en los que sólo se tendrá por formulada directamente por alguna de las personas a que se refiere la parte final del párrafo primero de este artículo.
 
 ###### ARTICULO 265.
 
@@ -1934,7 +1940,7 @@ IV. La conminación de que si el jurado no concurre, pagará una multa de veinte
 
 ###### ARTICULO 336.
 
-Los Comisarios del Juez Presidente de Debates darán, cuenta por medio de informe en autos, precisamente antes de la hora de la audiencia, del resultado de las citas que se les hubiere ordenado entregar, y por escrito la policía.
+Los Comisarios del Juez Presidente de Debates, darán cuenta por medio de informe en autos, precisamente antes de la hora de la audiencia, del resultado de las citas que se les hubiere ordenado entregar, y por escrito la policía.
 
 La falta de cumplimiento de esta prevención, será sancionada por el Juez Presidente de Debates con multa hasta de cincuenta pesos, sin recurso alguno.
 
@@ -3858,9 +3864,11 @@ El jurado tiene por misión resolver, por medio de un veredicto, las cuestiones 
 
 El Jurado se formará de siete individuos escogidos por sorteo, en la forma y términos que establece este Código.
 
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1965)</small>
+
 ###### ARTICULO 647.
 
-Todo varón residente en el partido judicial de México o en los partidos foráneos del Distrito y Territorios Federales, que tenga los requisitos que exige la ley, tiene obligación de desempeñar el cargo de jurado.
+Todo ciudadano residente en el Partido Judicial de México en los Partidos Foráneos del Distrito y Territorios Federales que reúna los requisitos que exige la ley tiene la obligación de desempeñar el cargo de Jurado.
 
 ###### ARTICULO 648.
 
@@ -4183,3 +4191,7 @@ Se abrogan los Capítulos IV Título Tercero y VIII Título Séptimo, y fracció
 D.O.F. 24 DE MARZO DE 1944.
 
 Artículo Transitorio.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
+
+D.O.F. 6 DE DICIEMBRE DE 1965.
+
+TRANSITORIO.- La presente reforma entrará en vigor 3 días después de su publicación en el "Diario Oficial" de la Federación.
