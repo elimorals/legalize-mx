@@ -4,7 +4,7 @@ identifier: "FED-ley-para-regular-las-agrupaciones-financieras-180"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1992-06-09"
+last_updated: "1993-07-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LRAF"
 
 LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 9 DE JUNIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -52,7 +52,9 @@ Las autoridades financieras, cada una en la esfera de su respectiva competencia,
 
 Las entidades financieras no deberán utilizar denominaciones iguales o semejantes a las de otras entidades financieras; actuar de manera conjunta; ofrecer servicios complementarios ni, en general, ostentarse en forma alguna como integrantes de grupos financieros, salvo cuando dichos grupos se encuentren constituidos y funcionen conforme a las disposiciones de la presente Ley.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, las instituciones de crédito, las casas de bolsa, así como las empresas filiales de tales intermediarios, podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, de conformidad con lo previsto en la Ley de Instituciones de Crédito y en la Ley del Mercado de Valores, respectivamente.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, las entidades financieras y sus filiales podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios, cuando así lo prevean las leyes especiales que las rijan y con sujeción a las disposiciones contenidas en dichos ordenamientos.
 
 ###### ARTICULO 4o.
 
@@ -86,13 +88,15 @@ Por su naturaleza, dichas autorizaciones serán intransmisibles.
 
 Los grupos a que se refiere la presente Ley estarán integrados por una sociedad controladora y por algunas de las entidades financieras siguientes: almacenes generales de depósito, arrendadoras financieras, casas de bolsa, casas de cambio, empresas de factoraje financiero, instituciones de banca múltiple, instituciones de fianzas, instituciones de seguros, así como por sociedades operadoras de sociedades de inversión.
 
-Cada grupo contará por lo menos con tres de las entidades financieras antes citadas, que no sean sociedades operadoras de sociedades de inversión.
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-No podrán participar en un mismo grupo dos o más entidades de una misma clase, salvo:
+Cada grupo contará por lo menos con tres tipos diferentes de entidades financieras de las antes citadas, que no sean sociedades operadoras de sociedades de inversión.
 
-I. Sociedades operadoras de sociedades de inversión, y
+> <small>(DEROGADO TERCER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
-II. Instituciones de seguros, en cuyo caso no podrán participar dos o más instituciones autorizadas para celebrar operaciones de vida ni dos o más autorizadas para celebrar operaciones de daños.
+I. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
+
+II. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
 La Secretaría de Hacienda y Crédito Público, mediante disposiciones de carácter general, podrá autorizar que otras sociedades puedan formar parte de estos grupos.
 
@@ -134,7 +138,7 @@ La incorporación o la fusión, según se trate, se llevará a cabo conforme a l
 
 I. A la solicitud respectiva deberán adjuntarse: los proyectos de los acuerdos de las asambleas de accionistas de las sociedades que se incorporan o fusionan, así como de las modificaciones que, en su caso, correspondería realizar a los estatutos de las propias sociedades y al convenio de responsabilidades relativos; los estados financieros que presenten la situación de la sociedad a ser incorporada, de la o las controladoras de que se trate, y de los demás integrantes del o de los grupos respectivos; los convenios conforme a los cuales la correspondiente controladora realizaría la adquisición de las acciones que tuviere que efectuar; los programas conforme a los que se llevaría a cabo la incorporación o la fusión; así como la demás documentación que, en su caso, solicite la Secretaría de Hacienda y Crédito Público;
 
-II. Como excepción a lo dispuesto en el artículo 7o. de esta Ley, podrán participar transitoriamente en un mismo grupo dos o más entidades financieras de una misma clase, cuando se trate de un proceso de fusión autorizado por la citada Secretaría;
+II. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
 III. La propia Secretaría, al autorizar la incorporación o la fusión, cuidará en todo tiempo la adecuada protección de los intereses de quienes tuvieren celebradas operaciones con las respectivas entidades financieras;
 
@@ -294,17 +298,25 @@ La controladora sólo podrá contraer pasivos directos o contingentes, y dar en 
 
 La emisión de obligaciones subordinadas se sujetará a lo dispuesto en el artículo 64 de la Ley de Instituciones de Crédito.
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 24.
 
-El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos.
+El consejo de administración estará integrado, a elección de los accionistas de la sociedad, por once consejeros o sus múltiplos. Su nombramiento deberá hacerse en asamblea especial por cada serie de acciones. A las asambleas que se reúnan con este fin, así como a aquéllas que tengan el propósito de designar comisarios por cada serie de acciones, les serán aplicables, en lo conducente, las disposiciones para las asambleas generales ordinarias previstas en la Ley General de Sociedades Mercantiles.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 En el supuesto de que el consejo se integre con once miembros, los accionistas de la serie "A" designarán a seis consejeros y por cada diez por ciento de acciones de esta serie que exceda del cincuenta por ciento del capital pagado ordinario, tendrán derecho a designar un consejero más, y en su caso los de la serie "B" hasta cinco y los de la serie "C", por cada diez por ciento del capital pagado ordinario correspondiente a esta serie, podrán nombrar a un consejero. Los consejeros de la serie "B" deberán disminuirse según corresponda, en caso de que las acciones serie "C" den derecho a nombrar consejeros o que por las acciones serie "A" se designen más de seis consejeros.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 Los accionistas de cada una de las citadas series, que representen cuando menos un diez por ciento del capital pagado ordinario de la sociedad, tendrán derecho a designar un consejero de la serie que corresponda. Sólo podrá revocarse el nombramiento de los consejeros de minoría, cuando se revoque el de todos los demás de la misma serie.
 
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+
 En los supuestos de los consejos que se integren por múltiplos de once, así como en los casos previstos en el párrafo anterior y en el artículo 25 fracción II de esta Ley, se deben guardar las proporciones correspondientes conforme a lo dispuesto en este artículo.
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 El Presidente del consejo deberá elegirse de entre los propietarios de la serie "A", y tendrá voto de calidad en caso de empate. Por los propietarios se nombrarán suplentes, los cuales podrán suplir indistintamente a cualesquiera de los propietarios, en el entendido de que dentro de cada sesión, un suplente sólo podrá representar a un propietario.
 
@@ -406,15 +418,43 @@ Los integrantes de un grupo tampoco deberán participar en el capital de las per
 
 Las controladoras de grupos financieros, proporcionarán la información que en el ámbito de sus respectivas competencias, les solicite la Secretaría de Hacienda y Crédito Público, el Banco de México y las Comisiones Nacionales Bancaria, de Valores, y de Seguros y Fianzas.
 
+> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 33.
 
-Las entidades financieras integrantes de grupos estarán obligadas a participar en el sistema de información sobre operaciones activas que el Banco de México administre.
+Las entidades financieras, aun cuando no formen parte de un grupo financiero, podrán proporcionar información a empresas que, conforme al presente artículo, tengan por objeto la prestación del servicio de información sobre operaciones activas.
 
-Dichas entidades deberán proporcionar al Banco de México la información sobre sus operaciones activas, incluyendo el incumplimiento de sus clientes a las condiciones pactadas en tales operaciones, con la periodicidad y en los términos que el propio Banco indique.
+La prestación de servicios consistentes en proporcionar información sobre las operaciones crediticias y otras de naturaleza análoga realizadas por entidades financieras, solamente podrá llevarse a cabo por sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, previa opinión del Banco de México.
 
-El Banco de México podrá, cuando así lo estime conveniente, notificar a todas las entidades financieras del país, el nombre y el importe de las responsabilidades de un mismo deudor, el número de entidades entre las cuales dichas responsabilidades estén distribuidas, así como la calificación que cada una de las entidades considere para sus respectivos créditos, guardando secreto respecto de la denominación de tales entidades acreedoras.
+La autorización mencionada en el párrafo anterior sólo se otorgará a las sociedades mexicanas que reúnan, a satisfacción de la propia Secretaría, los requisitos que se establezcan en las reglas de carácter general que al efecto expida la misma. En tales reglas podrán establecerse limitaciones a la participación extranjera en el capital de este tipo de sociedades. Estas autorizaciones serán intransmisibles y se revocarán por la Secretaría cuando la sociedad de que se trate infrinja la presente Ley o las reglas que le son aplicables, sin perjuicio de otras sanciones a que haya lugar.
 
-Las entidades financieras participantes deberán efectuar las aportaciones que el Banco de México determine, para cubrir los costos de operación del sistema. En su caso, dicho Banco podrá cargar en la cuenta que al efecto les lleva el importe de tales aportaciones.
+Sólo podrán ser usuarios de la información que proporcionen las sociedades a que se refiere este artículo, las entidades financieras y las personas que autorice la Secretaría de Hacienda y Crédito Público en las reglas citadas en el párrafo anterior. Las sociedades señaladas en este artículo podrán negar la prestación de sus servicios a aquellas personas que no les proporcionen información para la realización de su objeto.
+
+Las sociedades autorizadas deberán sujetarse en sus actividades a las disposiciones de carácter general que expida el Banco de México, el cual podrá determinar las remuneraciones correspondientes a la prestación de sus servicios.
+
+Las sociedades de información crediticia que se autoricen de conformidad con este artículo estarán sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria, a la que deberán cubrir las cuotas que por tales conceptos determine la Secretaría de Hacienda y Crédito Público. Las sociedades de información crediticia deberán proporcionar toda clase de información y documentos que el Banco de México o cualquiera de las Comisiones encargadas de la inspección y vigilancia de las entidades financieras les soliciten, a efecto de que tales órganos cumplan con sus funciones en términos de ley.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+###### ARTICULO 33-A.
+
+Con excepción de la información que proporcionen sobre operaciones activas a sus usuarios en los términos de la presente Ley y de las disposiciones conducentes, a las sociedades de información crediticia, a sus funcionarios y a sus empleados, les serán aplicables las disposiciones de la Ley de Instituciones de Crédito relativas al secreto bancario. Esta obligación subsistirá independientemente de que los mencionados funcionarios o empleados dejen de prestar sus servicios en dichas sociedades.
+
+La obligación del secreto bancario a que se refiere el párrafo anterior, también será aplicable a los usuarios de la información crediticia, así como a sus funcionarios y empleados, respecto de dicha información.
+
+No se considerará que existe violación al secreto bancario cuando una entidad financiera proporcione información sobre operaciones activas a alguna sociedad de información crediticia.
+
+Las personas que realicen alguna gestión financiera ante usuarios de información crediticia podrán solicitar, a través del propio usuario de que se trate, los datos que éste hubiere obtenido de la sociedad. Las aclaraciones respecto de tales datos se realizarán por los interesados ante los acreedores respectivos, quienes, en su caso, llevarán a cabo las gestiones conducentes ante la sociedad de información crediticia de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+###### ARTICULO 33-B.
+
+Las sociedades de información crediticia, al proporcionar información sobre operaciones activas, deberán guardar secreto respecto de la denominación de las entidades acreedoras, salvo en el supuesto a que se refiere el último párrafo del artículo anterior, en cuyo caso únicamente informarán directamente a las personas interesadas el nombre de las entidades acreedoras que correspondan.
+
+Dichas sociedades responderán por los daños y perjuicios que causen al proporcionar información cuando exista culpa grave, dolo o mala fe en el manejo de la base de datos.
+
+Por su parte, las personas que proporcionen información a las sociedades de información crediticia igualmente responderán por los daños y perjuicios que causen al proporcionar dicha información, cuando exista culpa grave, dolo o mala fe.
 
 ###### ARTICULO 34.
 
@@ -475,3 +515,15 @@ Los inversionistas institucionales que a la entrada en vigor de este Decreto, ex
 ###### ARTICULO CUARTO.
 
 Los inversionistas institucionales que a la entrada en vigor de este Decreto, excedan conjuntamente el porcentaje a que se refiere el artículo 20 fracción I de la Ley para Regular las Agrupaciones Financieras, podrán conservar su participación accionaria en exceso, no pudiendo adquirir en caso alguno nuevas acciones del capital ordinario de la emisora, ni aún tratándose de posteriores aumentos de capital en tanto rebasen el límite permitido.
+
+D.O.F. 23 DE JULIO DE 1993.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las instituciones de crédito deberán continuar participando en el sistema de información de operaciones activas que administra el Banco de México, hasta en tanto no proporcionen dicha información a alguna de las sociedades de información crediticia a que se refiere el artículo 33 de la Ley para Regular las Agrupaciones Financieras, o el propio Banco deje de administrar el mencionado sistema. El Banco de México asimismo queda facultado para proporcionar la información en el sistema que administra a cualquiera de las sociedades de información crediticia mencionadas.
+
+TERCERO.- Los recursos a que se refiere el artículo 110 de la Ley de Instituciones de Crédito, que se hayan interpuesto ante la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del presente Decreto, se continuarán tramitando en los mismos términos por dicha Secretaría, hasta su conclusión.
+
+CUARTO.- El porcentaje y el monto máximos previstos para las multas que aplique la Comisión Nacional Bancaria en términos del artículo 108 de la Ley de Instituciones de Crédito, que por virtud de este Decreto se reforma, continuarán siendo aplicables tratándose de incumplimientos o violaciones cometidos con anterioridad a la entrada en vigor del presente Decreto.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
