@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-gobierno-interior-del-congreso-del-7471"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-09-16"
-last_updated: "1995-11-13"
+last_updated: "1997-06-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE JUNIO DE 1997.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 1992.
 
@@ -523,21 +523,19 @@ Todo aquello tendiente a otorgar mayor apoyo en seguridad social para lograr un 
 
 La Comisión de Vigilancia tiene el carácter de Permanente, se integrará en los términos del Artículo 68 de la Ley Orgánica del Poder Legislativo y tendrá las atribuciones de supervisión y vigilancia que le confieren los Artículos 11 y 12 de la Ley de la Contaduría Mayor de Hacienda del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 18 DE JUNIO DE 1997)</small>
+
 ###### Artículo 41.
 
-Las Comisiones Jurisdiccionales y de Colegio Electoral serán temporales, se integran por nueve Diputados que serán designados por el Pleno en el momento en que un asunto de su competencia lo amerite.
+Las Comisiones Jurisdiccionales serán temporales, se integran también por nueve diputados que serán designados por el Pleno en el momento en que un asunto de su competencia lo amerite.
 
 ###### Artículo 42.
 
 Las Comisiones Jurisdiccionales a que se refiere el Artículo 72 de la Ley Orgánica del Poder Legislativo conocerán y dictaminarán de los asuntos sobre Responsabilidad de los Servidores Públicos como lo establece el Título Séptimo de la Constitución Política Local y los Artículos 5, 6 y 7 de la Ley de Responsabilidades de los Servidores Públicos para el Estado de Nuevo León sobre juicios políticos, así mismo de las solicitudes para el desafuero de los miembros de la Legislatura.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 1994)</small>
-
 ###### Artículo 43.
 
-La comisión de Colegio Electoral se integrará para los efectos que establece el artículo 73 y demás relativos de la Ley Orgánica del Poder Legislativo y conocerá y dictaminará sobre la calificación de la elección de Gobernador, tal como lo señala la Constitución Política del Estado de Nuevo León y la Ley Electoral del Estado.
-
-Además conocerá y dictaminará, en su caso, sobre los escritos de Nulidad en la elección de Gobernador, de acuerdo a lo señalado por la Constitución Política Local y la Ley Electoral del Estado.
+(DEROGADO, P.O. 18 DE JUNIO DE 1997)
 
 ###### Artículo 44.
 
@@ -633,7 +631,7 @@ V.- Elaborar los criterios para otorgar el apoyo a los Grupos Legislativos, a la
 
 VI.- Rendir un informe anual al Pleno de las actividades desarrolladas;
 
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 VII.- Para la elaboración de los criterios relacionados con el apoyo a los Grupos Legislativos, el Comité recabará el punto de vista de la Gran Comisión; y
 
@@ -767,7 +765,7 @@ III.- Proporcionar los servicios de apoyo administrativo que requiera el Congres
 
 IV.- Salvaguardar los bienes asignados al Congreso;
 
-VI.- Programar las adquisiciones de los bienes y servicios que requiere el Congreso;
+V.- Programar las adquisiciones de los bienes y servicios que requiere el Congreso;
 
 VI.- Suministrar los recursos materiales que soliciten las unidades administrativas y proporcionar los servicios generales;
 
@@ -775,7 +773,9 @@ VII.- Llevar un registro de los bienes muebles e inmuebles asignados al Congreso
 
 VIII.- Elaborar los programas de capacitación y adiestramiento al personal administrativo; y
 
-IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Comisión de Coordinación y Gobierno Interno.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
+IX.- Las demás que le asigne la Ley Orgánica del Poder Legislativo, este reglamento y el Presidente de la Gran Comisión.
 
 La Dirección de Administración contará con las unidades administrativas que sean necesarias para el cumplimiento de sus funciones.
 
@@ -1422,3 +1422,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 13 DE NOVIEMBRE DE 1995.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 18 DE JUNIO DE 1997.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
