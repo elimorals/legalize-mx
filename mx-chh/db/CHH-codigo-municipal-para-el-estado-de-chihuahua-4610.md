@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "1998-09-23"
+last_updated: "1998-12-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE DICIEMBRE DE 1998.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -779,7 +779,9 @@ I.- Las Juntas Municipales, que se integran por el Presidente Seccional y dos Re
 
 II.- Los Comisarios de Policía.
 
-La elección se realizará de acuerdo, con lo establecido en el artículo 45 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+la elección se realizará de acuerdo con lo establecido en el artículo 44 de este Código, por planillas en que se mencionen los nombres y apellidos de propietarios y suplentes.
 
 ###### ARTICULO 38.
 
@@ -1559,7 +1561,9 @@ Las faltas de los servidores públicos municipales podrán ser temporales o defi
 
 El Presidente Municipal no podrá ausentarse del territorio del Municipio por más de diez días sin permiso del Ayuntamiento; cuando deba ausentarse por un término de diez días o menos, bastará con que dé aviso de su salida a éste.
 
-En estos supuestos, el Secretario se hará cargo del despacho de los asuntos de la Presidencia.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE DICIEMBRE DE 1998)</small>
+
+Cuando el Presidente Municipal salga del territorio municipal dos días o menos tiempo o en días inhábiles para la Administración no es necesario dar aviso al Ayuntamiento, bastará con que dé aviso al Secretario del Ayuntamiento para que éste se encargue del despacho de los asuntos.
 
 ###### ARTICULO 101.
 
@@ -2854,3 +2858,7 @@ SEGUNDO.- Para la elección de la Junta Municipal en la Sección Municipal de Tu
 P.O. 23 DE SEPTIEMBRE DE 1998.
 
 Artículo Unico.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE DICIEMBRE DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
