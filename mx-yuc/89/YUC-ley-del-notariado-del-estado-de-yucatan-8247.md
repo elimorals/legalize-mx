@@ -4,7 +4,7 @@ identifier: "YUC-ley-del-notariado-del-estado-de-yucatan-8247"
 country: "mx"
 rank: "ley"
 publication_date: "1977-07-04"
-last_updated: "1977-07-04"
+last_updated: "1981-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8247&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DEL NOTARIADO DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 1 DE JUNIO DE 1981.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 4 de julio de 1977.
 
@@ -157,7 +157,7 @@ El cargo de Notario Público es vitalicio, salvo lo dispuesto expresamente por e
 
 ###### Artículo 24.
 
-Los Notarios Públicos, al entrar en funciones, deberán residir en la cabecera municipal que el Ejecutivo del Estado les señale, al otorgarles la patente respectiva, de entre las siguientes: Mérida, Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú. Corresponderán a la ciudad de Mérida las Notarías Públicas numeradas de la uno a la setenta y cuatro y las restantes hasta llegar al número de ochenta y tres, a las cabeceras municipales de Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú, respectivamente.
+Los Notarios Públicos, al entrar en funciones, deberán residir en la cabecera municipal que el Ejecutivo del Estado les señale, al otorgarles la patente respectiva, de entre las siguientes: Mérida, Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú. Corresponderán a la ciudad de Mérida las Notarías Públicas numeradas de la uno a la seTenta y cuatro y las restantes hasta llegar al número de ochenta y tres, a las cabeceras municipales de Progreso, Motul, Izamal, Valladolid, Tizimín, Ticul, Tekax, Hunucmá y Maxcanú, respectivamente.
 
 ###### Artículo 25.
 
@@ -881,9 +881,11 @@ Cuando como resultado de la visita a que se refieren los artículos anteriores, 
 
 ### CAPITULO XIII. De los Escribanos
 
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 1981)</small>
+
 ###### Artículo 164.
 
-Los Escribanos serán nombrados por el Ejecutivo del Estado y durarán dos años en el ejercicio de sus funciones. Los nombramientos serán hechos durante el mes de diciembre del año que corresponda para el efecto de que entren en funciones el día primero de enero del año siguiente. Para ser Escribano se requieren los mismos requisitos señalados en las fracciones I, III, IV y V del artículo 12 de esta Ley y además haber aprobado los estudios secundarios completos. Estos requisitos deberán ser comprobados ante el Ejecutivo del Estado.
+Los Escribanos serán nombrados por el Ejecutivo del Estado y durarán tres años en el ejercicio de sus funciones. Los nombramientos serán hechos durante el mes de diciembre del año que corresponda para el efecto de que entren en funciones el día primero de enero del año siguiente. Para ser Escribano se requieren los mismos requisitos señalados en las fracciones I, III, IV y V del artículo 12 de esta Ley, exhibir constancia de la autoridad municipal de estar domiciliado en el lugar en que ejercerán y además haber aprobado los estudios secundarios completos. Estos requisitos deberán ser comprobados ante el Ejecutivo del Estado.
 
 ###### Artículo 165.
 
@@ -899,9 +901,11 @@ III.- Cuando no cumplieren con lo dispuesto en los artículos 174 y 176 de esta 
 
 Cuando no se hicieren con la debida oportunidad los nombramientos, los Escribanos designados para el período anterior, seguirán con el ejercicio de sus funciones hasta que entren en funciones los que deban sustituirlos.
 
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 1981)</small>
+
 ###### Artículo 167.
 
-Los ciudadanos que hubiesen sido designados para desempeñar las funciones públicas a que este capítulo se refiere, deberán fijar en lugar visible del exterior de sus domicilios, una placa con la denominación de "Escribano Público".
+Los ciudadanos que hubiesen sido designados para desempeñar las funciones públicas a que este capítulo se refiere, deberán fijar en lugar visible del exterior de sus domicilios, una placa con la denominación de "Escribano Público", debiendo retirarla al cesar en sus funciones, así como entregar su sello al Jefe del Archivo Notarial del Estado, si no lo hicieren incurrirán en responsabilidad civil o penal, según el caso.
 
 ###### Artículo 168.
 
@@ -915,9 +919,11 @@ Los Escribanos Públicos usarán un sello circular, de treinta y cinco milímetr
 
 Del Ejercicio de las Funciones de los Escribanos.
 
+> <small>(REFORMADO, D.O. 1 DE JUNIO DE 1981)</small>
+
 ###### Artículo 170.
 
-Los Escribanos gozarán de igual fe pública que los Notarios, cuando se trate de dar autenticidad a cualesquiera contratos, cuya cuantía no exceda de diez mil pesos, o cuando así lo prevengan las Leyes, a excepción de los contratos traslativos de dominio, en los que el valor de la operación para efectos fiscales no exceda de cinco mil pesos.
+Los Escribanos gozarán de igual fe pública que los Notarios cuando se trate de dar autenticidad a cualesquiera actos o contratos cuya cuantía o interés no exceda de quince mil pesos, o cuando así lo prevengan las leyes. Para los efectos de este artículo, se tomará en cuenta el avalúo bancario en operaciones traslativas de dominio y el avalúo catastral, en cualesquiera otros casos.
 
 ###### Artículo 171.
 
@@ -954,6 +960,14 @@ III.- Contener con toda claridad y precisión el acto o contrato que en ellas se
 IV.- Designar con precisión las cosas objeto del contrato de tal modo que no puedan ser confundidas con otras; si se tratare de bienes inmuebles, se determinará su naturaleza, su ubicación, sus linderos y su extensión superficial, así como también los antecedentes de propiedad y registro.
 
 V.- Tener precisamente la fecha en que se lleve a efecto el acto y ser firmados por él, por las partes o las personas que éstas designen; en este último caso, se expresarán los nombres y apellidos de las personas que firmen por aquellas que no sepan o no puedan firmar y los de las personas que, en su caso, hubiesen leído el acta por alguna de las partes. Las personas que no pudieren firmar por cualquier motivo, además de la designación de la persona que lo hará por ellas, imprimirán la huella del dedo pulgar de su mano derecha, de ser posible, y, en su defecto, de cualquier otro dedo, lo que se hará constar en el documento de que se trata.
+
+> <small>(ADICIONADO, D.O. 1 DE JUNIO DE 1981)</small>
+
+Todos los documentos autentificados por los Escribanos Públicos serán numerados cardinalmente, con letras, a partir del número uno, tomando en consideración las fechas de otorgamiento de los mismos, hasta la conclusión del año.
+
+> <small>(ADICIONADO, D.O. 1 DE JUNIO DE 1981)</small>
+
+De cada uno de los documentos que autoricen el Escribano Público, dentro de los cinco días hábiles siguientes a su otorgamiento y sin perjuicio de lo dispuesto en el artículo 176 de la presente Ley, dará un aviso, por triplicado al Archivo Notarial del Estado que contendrá: el número de la escritura o documento, fecha de la misma, clase de contrato, objeto y nombre de los contratantes. De dicho aviso el Archivo Notarial del Estado devolverá dos copias selladas al Escribano, para que sean acumuladas respectivamente a la escritura o documento original y el ejemplar a que se refiere el artículo 176, antes citado sin cuyo requisito el Registro no lo admitirá, en los casos que conforme a la Ley deban inscribirse.
 
 ###### Artículo 176.
 
@@ -1030,3 +1044,15 @@ DR. FRANCISCO LUNA KAN
 El Secretario de Gobierno,
 
 Lic. Gaspar Gómez Chacón.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O. 1 DE JUNIO DE 1981.
+
+###### ARTICULO PRIMERO.
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los Escribanos Públicos que entraron en funciones el presente año durarán en su cargo hasta el 31 de diciembre de 1983.
