@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1948-02-24"
+last_updated: "1948-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 1948.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE SEPTIEMBRE DE 1948.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -102,6 +102,10 @@ P.O. 1 DE JUNIO DE 1937.
 ###### Artículo 3o.
 
 Las anteriores reformas entrarán en vigor en todo el Estado, a los quince días de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE SEPTIEMBRE DE 1948.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE HIDALGO.
 
 ## TITULO II. DEL PODER PUBLICO Y DE LA FORMA DE GOBIERNO
 
@@ -381,9 +385,11 @@ Desechado un proyecto de ley o decreto, no podrá ser propuesto de nuevo en el m
 
 Toda resolución del Congreso no tendrá otro carácter que el de ley, decreto o acuerdo económico. Los tramites para la formación de los Decretos, serán los mismos que se determinan para las leyes; los de los acuerdos económicos, serán determinados por el Reglamento del Congreso.
 
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+
 ###### Artículo 40.
 
-Las leyes y decretos serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el "Periódico Oficial" del Estado. Los Presidentes Municipales los fijaran en algunos lugares públicos que ellos mismos designen de cada cabecera, ejemplares auténticos de las leyes o decretos y comunicaran al Gobernador que han hecho esta publicación. Los respectivos oficios serán publicados en el "Periódico Oficial."
+Las Leyes y Decretos, serán enviados al Gobernador firmados por el Presidente y los Secretarios del Congreso, y una vez sancionados por el Gobernador, serán publicados en el Periódico Oficial del Estado. Los Presidentes Municipales fijarán en los lugares públicos que ellos mismos designen, de cada cabecera, ejemplares de las Leyes o Decretos.
 
 ###### Artículo 41.
 
@@ -833,6 +839,18 @@ p). Molinos de nixtamal, tortillerías y panaderías.
 
 q). Aguas potables y saneamiento.
 
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+
+r). Parques y Jardines.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+
+s). Albercas y Baños Públicos.
+
+> <small>(ADICIONADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+
+t). Reglamentación y construcción de obras, que no estén reservadas a la Federación o al Estado, por las Leyes.
+
 Sin embargo, cuando se trate de medidas, reglamentos y decretos que afecten al interés público del Municipio o a una mayoría de la población, dichas disposiciones serán sometidas a referéndum consultivo de la población con capacidad electoral, siempre que ellas no sean de carácter urgente. En caso contrario, las mismas disposiciones podrán dictarse y entrar en vigor sujetándolas posteriormente al procedimiento del veto popular. Una Ley Reglamentaria establecerá los requisitos y procedimientos necesarios para la práctica del referéndum en ambos casos.
 
 II. Formar anualmente su proyecto de Ley de Ingresos y su Presupuesto de Egresos, en la forma y términos que disponga la Ley Orgánica respectiva.
@@ -871,7 +889,9 @@ Los Presidentes Municipales serán electos directa y popularmente cada tres año
 
 Para ser Presidente Municipal propietario o suplente, se requiere:
 
-I. Ser ciudadano del Estado en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 1948)</small>
+
+I. Ser ciudadano del Estado en ejercicio de sus derechos, y nacido dentro del territorio del mismo.
 
 II. Ser vecino del Municipio.
 
