@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1947-12-13"
+last_updated: "1950-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE DICIEMBRE DE 1947.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE NOVIEMBRE DE 1950.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -110,6 +110,14 @@ IV.- Las presentes reformas entrarán en vigor desde la fecha de su publicación
 G.O. 13 DE DICIEMBRE DE 1947.
 
 UNICO. La presente Ley surtirá sus efectos a partir de la fecha de su publicación por Bando Solemne.
+
+G.O. 7 DE NOVIEMBRE DE 1950.
+
+###### ARTICULO 2°.
+
+El Ayuntamiento que esté funcionando al entrar en vigor esta Ley, terminará su gestión el 30 de noviembre del año en que finalice su período.
+
+ECONOMICO.- Publíquese la presente Ley en la "Gaceta Oficial" del Estado, y por Bando Solemne, el día 12 del mes de noviembre entrante.
 
 ### CAPITULO II.
 
@@ -329,7 +337,7 @@ El ciudadano o vecino que resulte nombrado popularmente para dos o más cargos, 
 
 DE LA INSTALACIÓN DE LA LEGISLATURA Y DE SUS SESIONES.
 
-(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 42.
 
@@ -389,13 +397,13 @@ La Legislatura calificará las elecciones de sus miembros, resolviendo las dudas
 
 ###### Artículo 51.
 
-La Legislatura se renovará, en su totalidad, cada tres años y comenzará a funcionar, en cada trienio, el 16 de septiembre inmediato posterior a las elecciones.
+La Legislatura se renovará en su totalidad cada tres años y comenzará a funcionar, en cada trienio, el 1° de octubre inmediato posterior a las elecciones.
 
-> <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 52.
 
-Tendrá, en cada año, un período de sesiones ordinarias, prorrogable por treinta días; principiará en la fecha expresada en el artículo precedente y concluirá el 16 de diciembre.
+En cada año tendrá un período de sesiones ordinarias, prorrogables por treinta días, que principiará en la fecha expresada en el artículo precedente y concluirá el 31 de diciembre.
 
 > <small>(REFORMADO, G.O. 1 DE DICIEMBRE DE 1938)</small>
 
@@ -435,21 +443,25 @@ A la apertura de sesiones de la Legislatura precederán las reuniones de la Junt
 
 El día de la instalación y antes del acto, los Diputados harán formal protesta de guardar esta Constitución y la General de la República, mirando en todo por el bien del Estado. Igual protesta se exigirá a los que no hayan asistido a la instalación, cuando se presenten a desempeñar su encargo.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 60.
 
-El Gobernador y el Presidente del Tribunal Superior de Justicia, asistirán anualmente, el 16 de septiembre, a la apertura de las sesiones ordinarias y leerá, cada uno de ellos, un informe en que se expondrá, en términos generales, el estado de los Ramos de la Administración Pública, encomendados, respectivamente, a los Poderes Ejecutivo y Judicial. El Presidente de la Legislatura contestará, refiriéndose en su discurso, al informe del Gobernador, primero y al del Presidente del Tribunal, después.
+El Gobernador leerá anualmente ante la Legislatura, el 30 de noviembre un informe en que expondrá, en términos generales, el desarrollo de las labores encomendadas al Poder Ejecutivo. Al referido informe se dará contestación por el Presidente de la Legislatura.
 
-Si el Gobernador no pudiere concurrir por hallarse enfermo o por cualquiera otra causa justificada, enviará a la Legislatura el informe de que trata el párrafo anterior y el Secretario de la Cámara dará lectura a ese documento.
+Si el Gobernador no pudiere concurrir por hallarse enfermo o por otra causa justificada, enviará a la Legislatura su informe, al que se dará lectura por el Secretario de la Cámara.
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 61.
 
-A la apertura de los períodos de sesiones extraordinarias, precederá solamente una reunión preparatoria y a aquélla no asistirán los representantes de los otros Poderes.
+A la apertura de los períodos de sesiones extraordinarias precederá solamente una reunión preparatoria.
+
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 62.
 
-Cada dos años, al renovarse el Poder Legislativo, el Gobernador enviará a la Cámara una Memoria, en la cual expondrá la situación que guarde el Estado en todos los ramos administrativos. La Memoria contendrá, además de la parte meramente informativa, los documentos y cuadros sinópticos necesarios para la completa inteligencia de los asuntos.
+Cada tres años, el Gobernador enviará a la Cámara una memoria, a la cual expondrá la situación que guarde el Estado en todos los ramos administrativos. La memoria contendrá, además de la parte meramente informativa, los documentos y cuadros sinópticos necesarios para la completa inteligencia de los asuntos.
 
 ###### Artículo 63.
 
@@ -693,11 +705,11 @@ IV. No tener empleo, cargo o comisión del Estado o del Gobierno Federal; y
 
 V. Ser del estado seglar.
 
-(REFORMADO, G.O. 28 DE ENERO DE 1943) (REPUBLICADO, G.O. 31 DE AGOSTO DE 1943)
+> <small>(REFORMADO, G.O. 7 DE NOVIEMBRE DE 1950)</small>
 
 ###### Artículo 113.
 
-Los Ayuntamientos durarán en su cargo, tres años y no podrán ser reelectos.
+Los Ayuntamientos durarán en su cargo tres años y no podrán ser reelectos, debiendo instalarse en día 1°. de diciembre inmediato a su elección.
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 1920)</small>
 
@@ -1402,6 +1414,10 @@ G.O. 28 DE DICIEMBRE DE 1920.
 4º.- La Legislatura procederá al nombramiento del Jefe de la Dirección General de Educación, a cuyo efecto el Ejecutivo le remitirá la terna respectiva dejando de funcionar la persona que actualmente desempeña ese encargo, de no ser ella nuevamente nombrada.
 
 G.O. 21 DE SEPTIEMBRE DE 1922.
+
+###### ARTICULO 1°.
+
+La Legislatura que esté en funciones al entrar en vigor la presente Ley, prorrogará su período hasta el 30 de septiembre del año en que aquél deba concluir.
 
 ###### Artículo 2o.
 
