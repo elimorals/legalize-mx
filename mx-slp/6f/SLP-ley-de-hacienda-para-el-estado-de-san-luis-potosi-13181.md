@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "1999-12-30"
+last_updated: "2001-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,63 @@ state: "SLP"
 ---
 # LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
+LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1999.
+TEXTO ORIGINAL.
 
-Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
+Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el martes 14 de octubre de 2014.
 
-FERNANDO SILVA NIETO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, A SUS HABITANTES SABED:
+SALVADOR JARA GUERRERO, Gobernador del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
 
-QUE LA QUINCUAGESIMA QUINTA LEGISLATURA DEL ESTADO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
+El H. Congreso del Estado, se ha servido dirigirme el siguiente:
 
-DECRETO 254
+DECRETO
 
-LA QUINCUAGESIMA QUINTA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI, DECRETA LO SIGUIENTE:
+EL CONGRESO DE MICHOACÁN DE OCAMPO DECRETA:
 
-...
+NÚMERO 337
 
-LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSI
+ÚNICO. Se expide la Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios, para quedar como sigue:
+
+LEY DE RESPONSABILIDADES Y REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE MICHOACÁN Y SUS MUNICIPIOS
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
-### CAPITULO UNICO
+### CAPÍTULO I. Disposiciones generales
+
+###### Artículo 1.
+
+Objeto. Esta ley tiene por objeto garantizar el cumplimiento de los principios de legalidad, honradez, transparencia, lealtad, institucionalidad, imparcialidad y eficiencia en el servicio público, mediante la regulación de:
+
+I. Sujetos de responsabilidad;
+
+II. Responsabilidades, autoridades competentes, sanciones y procedimientos para aplicarlas;
+
+III. Juicio Político;
+
+IV. Declaración de Procedencia;
+
+V. Acción Pública; y,
+
+VI. Registro Patrimonial.
+
+###### Artículo 2.
+
+Sujetos de responsabilidad. Son sujetos de responsabilidad:
+
+I. Los servidores públicos, esto es, representantes de elección popular, integrantes, funcionarios y empleados, que bajo cualquier concepto o régimen laboral desempeñen un empleo, cargo o comisión, como titulares o despachando en ausencia del titular independientemente del acto que de origen, en los poderes Legislativo y Judicial, dependencias centralizadas y entidades paraestatales del Poder Ejecutivo, organismos autónomos, ayuntamientos y organismos municipales descentralizados, todos del Estado de Michoacán de Ocampo;
+
+II. Aquellas personas que manejen, administren o apliquen recursos públicos estatales, municipales o concertados con la federación; y,
+
+III. Quienes se beneficien con adquisiciones, enajenaciones, arrendamientos, prestación de servicios o construcción de obra pública, o con cualquier acto o contrato que se realice con cargo a los recursos públicos referidos.
+
+###### Artículo 3.
+
+Autoridades garantes e interpretación. En el ámbito de su respectiva competencia, los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos y los organismos autónomos del Estado de Michoacán de Ocampo, serán responsables de garantizar el objeto de esta ley.
+
+Dichas autoridades garantes se auxiliarán con sus respectivos órganos de control en términos de esta ley y de la normatividad aplicable. En el Poder Ejecutivo Estatal la Coordinación de Contraloría lo hará por sí o por conducto de los órganos internos de control en cada dependencia centralizada o entidad paraestatal.
+
+Esta ley se interpretará de manera sistemática y funcional atendiendo en todo momento al cumplimiento de su objeto y observando el principio de presunción de inocencia.
 
 ###### ARTICULO 1º.
 
@@ -59,15 +95,157 @@ En lo no previsto por esta Ley, se aplicará supletoriamente el Código Fiscal d
 
 Cuando en esta Ley se haga referencia al salario mínimo, se entenderá que es el salario mínimo general diario de la zona a la que pertenece el Estado de San Luis Potosí.
 
+###### Artículo 4.
+
+Glosario. Para los efectos de esta ley se entenderá por:
+
+I. Ley: Ley de Responsabilidades y Registro Patrimonial de los Servidores Públicos del Estado de Michoacán y sus Municipios;
+
+II. Órgano de control: Instancia del Poder Ejecutivo, incluidos los órganos internos de control de las dependencias y entidades paraestatales de la Administración Pública Estatal, así como de los poderes Legislativo y Judicial, ayuntamientos y organismos autónomos del Estado de Michoacán, con atribuciones para realizar acciones de control, evaluación, inspección y vigilancia que prevengan, detecten y erradiquen prácticas irregulares en el servicio público, para integrar pliegos preventivos de responsabilidad, recibir quejas o denuncias, instrumentar procedimientos, investigar y determinar responsabilidades e imponer sanciones, así como para llevar el registro de la situación patrimonial de los servidores públicos respectivos; y,
+
+III. Órgano ejecutor: Instancia responsable de ejecutar las sanciones impuestas por el órgano de control.
+
+###### Artículo 5.
+
+Autonomía de procedimientos. Cuando la conducta del servidor público pueda ser motivo de sanciones administrativas, políticas, civiles, laborales, penales o cualquier otra, los procedimientos respectivos se desarrollarán en forma autónoma, en los términos de las leyes aplicables.
+
 ## TITULO SEGUNDO. IMPUESTOS
 
-### CAPITULO I. IMPUESTO SOBRE ADQUISICION DE VEHICULOS AUTOMOTORES USADOS
+### CAPÍTULO II. Responsabilidades
+
+###### Artículo 8.
+
+Obligaciones de los servidores públicos. Los servidores públicos, además de las obligaciones específicas que correspondan a su cargo, empleo o comisión, para salvaguardar los principios de legalidad, honradez, transparencia, lealtad, imparcialidad y eficiencia, tendrán las siguientes obligaciones:
+
+I. Cumplir y hacer cumplir esta ley, así como toda normatividad que regule el servicio público que desempeñe;
+
+II. Cumplir con diligencia el servicio que les sea encomendado y abstenerse de realizar actos u omisiones que causen la suspensión, obstrucción o deficiencia del servicio o que impliquen abuso o ejercicio indebido de su empleo, cargo o comisión;
+
+III. Formular y ejecutar, de acuerdo con las leyes de la materia, los planes, programas y presupuestos correspondientes a su competencia y cumplir con lo que establece la legislación vigente en materia de manejo de fondos y recursos públicos;
+
+IV. Otorgar o percibir, según sea el caso, únicamente la remuneración que haya sido aprobada para su empleo, cargo o comisión, la cual deberá integrar cualquier remuneración que se agregue al salario;
+
+V. Proporcionar en tiempo y forma, ante las dependencias competentes, la documentación comprobatoria de la aplicación de recursos;
+
+VI. Abstenerse de recibir u otorgar ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente establecidos y justificados para ese propósito en la ley, los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+
+En cualquier caso, los sueldos y todo ingreso que los servidores públicos perciban por los conceptos señalados en el párrafo anterior, deberán guardar congruencia con la estructura orgánica autorizada y estar sustentados en los principios de racionalidad, austeridad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
+
+VII. Utilizar los recursos que tengan asignados y las facultades atribuidas exclusivamente para el desempeño de su empleo, cargo o comisión;
+
+VIII. Rendir cuentas sobre el ejercicio de las funciones que se tengan conferidas y coadyuvar en la rendición de cuentas de la gestión pública, proporcionando la documentación e información que le sea requerida en los términos que establezcan las disposiciones legales correspondientes;
+
+IX. Utilizar la información a que tenga acceso por su función exclusivamente para los fines a que esté afecta y guardar la secrecía debida. Esta obligación se mantendrá vigente aún después de haber concluido el empleo, cargo o comisión;
+
+X. Custodiar y cuidar los documentos e información que en razón de su empleo, cargo o comisión, conserve o estén a su resguardo o a los cuales tenga acceso, evitando el uso indebido, la sustracción, destrucción, ocultamiento o inutilización de los mismos.
+
+Al término de su encargo o desempeño de sus atribuciones deberán hacer entrega al nuevo responsable de toda la información a que se refiere el párrafo anterior;
+
+XI. Observar buena conducta durante el desempeño de su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con que tenga relación con motivo del desempeño de sus atribuciones y obligaciones;
+
+XII. Observar, en la dirección, coordinación o conducción del personal a su cargo, las debidas reglas de trato y abstenerse de incurrir en discriminación, agravios, insultos, malos tratos o abusos;
+
+XIII. Observar respeto y subordinación legítima con sus superiores jerárquicos inmediatos y mediatos, y cumplir las disposiciones que éstos dicten en ejercicio de sus atribuciones, siempre y cuando éstas se encuentren apegadas a la ley;
+
+XIV. Comunicar por escrito al titular de la dependencia o entidad en la que preste sus servicios, las dudas fundadas que le suscite la procedencia de las órdenes que reciba y que pudiesen implicar violaciones a la Ley o a cualquier otra disposición legal o administrativa, a efecto de que dicte las medidas que en derecho procedan, mismas que deberán ser notificadas al servidor público que emitió la orden y al interesado;
+
+XV. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el periodo para el cual se le designó o de haber cesado, por cualquier otra causa, en el ejercicio de sus funciones;
+
+XVI. Abstenerse de consentir o autorizar que un subordinado no asista sin causa justificada a sus labores, así como de otorgar indebidamente licencias, permisos o comisiones con goce parcial o total de sueldo y otras percepciones;
+
+XVII. Abstenerse de desempeñar otro empleo, cargo o comisión oficial o particular que la ley prohíba, o que sea incompatible con la función que desempeña;
+
+XVIII. Abstenerse de autorizar la contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público;
+
+XIX. Excusarse de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pudiere resultar algún beneficio para él, su cónyuge o parientes consanguíneos, civiles o por afinidad hasta el cuarto grado, o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+XX. Informar por escrito a su superior jerárquico sobre la atención, trámite o resolución de los asuntos a que hace referencia la fracción anterior y que sean de su conocimiento, y observar sus instrucciones por escrito sobre su atención, tramitación y resolución, cuando el servidor público no pueda abstenerse de intervenir en ellos;
+
+XXI. Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, bienes mediante enajenaciones a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí o para las personas a que se refiere la fracción XIX y que procedan de cualquier persona física o moral cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas, reguladas o supervisadas por el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que impliquen intereses en conflicto. Esta prevención es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XXII. Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que se le otorgan por el desempeño de su función, sean para él o para las personas a que se refiere la fracción XIX;
+
+XXIII. Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso, o pueda derivar alguna ventaja o beneficio para él o las personas a que se refiere la fracción XIX;
+
+XXIV. Presentar con oportunidad y veracidad su declaración de situación patrimonial ante el órgano de control correspondiente en los términos de esta ley;
+
+XXV. Atender con diligencia las instrucciones, requerimientos y resoluciones administrativas que reciba del órgano de control correspondiente o de la Coordinación de Contraloría;
+
+XXVI. Supervisar que los servidores públicos sujetos a su dirección cumplan con las disposiciones de este artículo y con la normatividad que rige su función pública;
+
+XXVII. Abstenerse de realizar cualquier acto u omisión que implique incumplimiento de alguna disposición jurídica relacionada con el servicio público;
+
+XXVIII. Denunciar por escrito, ante el órgano de control correspondiente, los actos u omisiones que en ejercicio de sus funciones llegare a advertir respecto de cualquier servidor público que pueda constituir responsabilidad en los términos de esta ley y demás disposiciones aplicables;
+
+XXIX. Proporcionar, en forma oportuna y veraz, toda información y datos solicitados por la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos. En el cumplimiento de esta obligación, además, el servidor público deberá permitir, sin demora, el acceso a los recintos o instalaciones, expedientes o documentación que la institución de referencia considere necesario revisar para el eficaz desempeño de sus atribuciones y corroborar, también, el contenido de los informes y datos que se le hubiesen proporcionado;
+
+XXX. Responder las recomendaciones que presente la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos y, en el supuesto de que se decida no aceptar o no cumplir las recomendaciones, deberá hacer pública su negativa, fundándola y motivándola en términos de lo dispuesto por la normatividad aplicable;
+
+XXXI. Atender los llamados del Congreso del Estado a comparecer a efecto de explicar el motivo de su negativa a aceptar o cumplir las recomendaciones de la institución a la que legalmente le competa la vigilancia y defensa de los derechos humanos;
+
+XXXII. Abstenerse, en ejercicio de sus funciones o con motivo de ellas, de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, arrendamientos y enajenación de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra pública o de servicios relacionados con ésta, con quien desempeñe un empleo, cargo o comisión en el servicio público, o bien con las sociedades de las que dichas personas formen parte. Por ningún motivo podrá celebrarse pedido o contrato alguno con quien se encuentre inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público;
+
+XXXIII. Abstenerse de inhibir por sí o por interpósita persona, utilizando cualquier medio, a los posibles quejosos con el fin de evitar la formulación o presentación de denuncias o realizar, con motivo de ello, cualquier acto u omisión que redunde en perjuicio de los intereses de quienes las formulen o presenten;
+
+XXXIV. Abstenerse de aprovechar la posición que su empleo, cargo o comisión le confiere para inducir a que otro servidor público efectúe, retrase u omita realizar algún acto de su competencia, que le reporte cualquier beneficio, provecho o ventaja para sí o para alguna de las personas a que se refiere la fracción XIX;
+
+XXXV. Cumplir las normas de control, evaluación, fiscalización y auditoría;
+
+XXXVI. Cumplir las normas establecidas en las leyes Federal y/o Local de la materia, respecto de las licitaciones para la adjudicación de adquisiciones, arrendamientos, servicios y obras públicas;
+
+XXXVII. Cumplir las disposiciones en materia de planeación, presupuesto, ingresos, egresos, financiamiento, inversión, deuda, patrimonio, fondos y valores;
+
+XXXVIII. Cumplir las normas en materia de sistemas de registro y contabilidad, contratación y pago de personal, contratación de servicios, obras públicas, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles, almacenes y demás activos y recursos materiales;
+
+XXXIX. Cumplir las normas, lineamientos y controles para la entrega y recepción que corresponda;
+
+XL. Abstenerse de adquirir para sí o para las personas a que se refiere la fracción XIX, bienes inmuebles que pudieren incrementar su valor o, en general, que mejoren sus condiciones, como resultado de la realización de obras o inversiones públicas o privadas, que haya autorizado o tenido conocimiento con motivo de su empleo, cargo o comisión. Esta restricción será aplicable hasta un año después de que el servidor público se haya retirado del empleo, cargo o comisión; y,
+
+XLI. Los demás que impongan las leyes, reglamentos y demás disposiciones.
+
+Los servidores públicos que se hayan desempeñado en cargos de dirección, consejeros o magistrados en materia electoral, no podrán desempeñar empleo, cargo o comisión públicos por designación de quien haya ganado la elección que ellos organizaron o calificaron.
+
+###### Artículo 9.
+
+Obligaciones mínimas para trámites y servicios. Los servidores públicos deberán abstenerse de incurrir en alguna de las conductas siguientes en trámites o servicios que brinden al público:
+
+I. Incumplir plazos de respuesta;
+
+II. Usar la información de los solicitantes sin apego a la normatividad respectiva;
+
+III. Atentar contra la naturaleza confidencial de solicitudes y proyectos;
+
+IV. Extraviar los documentos, aportados por el solicitante, o aquellos que resuelvan alguna parte o la totalidad del trámite o servicio;
+
+V. Solicitar donaciones o apoyos como contraprestación del servicio o trámite;
+
+VI. Alterar reglas o procedimientos;
+
+VII. Negar, sin fundamento legal, la recepción de documentos;
+
+VIII. Provocar deliberadamente la aplicación de las figuras de la afirmativa o negativa ficta;
+
+IX. Negar un trámite por desconocimiento de la normatividad aplicable; y,
+
+X. Cualquiera que incida indebidamente en perjuicio del ciudadano, persona física o moral.
 
 ###### ARTICULO 5º.
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran vehículos automotores usados por cualquier título o causa, cuando por dichas operaciones no se cause el Impuesto al Valor Agregado.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
+
+###### Artículo 6.
+
+Código de Ética. Las autoridades garantes emitirán, respectivamente, un Código de Ética con reglas claras para que en la actuación de sus servidores públicos impere invariablemente una conducta digna que responda a las necesidades de la sociedad y que oriente su desempeño en situaciones específicas que se les presenten, propiciando una plena vocación de servicio público en beneficio de la población.
+
+El Código de Ética a que se refiere el párrafo anterior deberá hacerse del conocimiento de los servidores públicos correspondientes.
+
+###### Artículo 7.
+
+Acciones para garantizar el objeto de esta ley. Para asegurar el cabal cumplimiento del objeto de esta ley será responsabilidad de las autoridades garantes implementar acciones preventivas y de capacitación, así como medidas de modernización administrativa y mejora regulatoria, que permitan mejorar la eficiencia y calidad del servicio público de manera constante y progresiva.
+
+Además, los órganos de control realizarán acciones permanentes de control, vigilancia e inspección a efecto de verificar que se cumpla con las disposiciones legales y administrativas aplicables al servicio público de que se trate, poniendo especial atención en materia de fiscalización, sistema de registro y contabilidad; contratación y pago de personal; contratación de servicios, obra pública, adquisiciones y arrendamientos; conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos. En caso de detectar irregularidades, aplicarán las sanciones correspondientes, previa sustanciación del procedimiento de responsabilidad.
 
 ###### ARTICULO 6º.
 
@@ -87,287 +265,315 @@ El impuesto se pagará en las Oficinas Recaudadoras del Estado dentro de los tre
 
 Se considera fecha de celebración de la operación la que se indique en el endoso de la factura o contrato respectivo.
 
-###### ARTICULO 10.
+###### Artículo 10.
 
-Son responsables solidarios del pago de este impuesto, sin perjuicio de lo que disponga el Código Fiscal del Estado, las siguientes personas:
+Responsabilidades administrativas. El incumplimiento de las obligaciones previstas en esta ley o de la normatividad específica relativa al servicio público que se desempeñe, da lugar a que se determine la responsabilidad administrativa del servidor público y a que se le apliquen las sanciones que correspondan de acuerdo a esta ley.
 
-I. El enajenante del vehículo;
+###### Artículo 11.
 
-II. Los servidores públicos que, en ejercicio de sus funciones autoricen el cambio de propietario, baja o dotación (sic) placas o cualquier trámite de control vehicular, sin comprobar el pago del impuesto; y
+Responsabilidades resarcitorias. Cuando se cometan irregularidades en detrimento de las autoridades garantes o de los recursos públicos, con las que se obtenga un beneficio económico o se causen daños o perjuicios cuantificables pecuniariamente, el órgano de control correspondiente determinará la responsabilidad resarcitoria y aplicará la sanción que corresponda conforme a esta ley.
 
-III. Los consignatarios o comisionistas que intervengan en cualquier operación de adquisición de vehículos automotores usados.
+Las responsabilidades resarcitorias se fincarán a:
 
-###### ARTICULO 11.
+I. Los servidores públicos que hayan cometido la irregularidad;
 
-Pagarán únicamente el equivalente a ocho días de salario mínimo:
+II. Los servidores que por la índole de sus funciones hayan omitido la revisión o autorizado los actos u omisiones irregulares; y,
 
-I. Los vehículos con antigüedad mayor de diez años; y
+III. Los proveedores, prestadores de servicios, contratistas o particulares que en virtud de cualquier acto o contrato hayan participado en las irregularidades cometidas.
 
-II. Los vehículos a que se refiere el inciso e) de la fracción I del Artículo 2-A de la Ley del Impuesto al Valor Agregado.
+Las facultades para constituir responsabilidades resarcitorias prescriben en la misma forma y plazos aplicables a la prescripción de créditos fiscales, establecidos en las leyes de la materia.
 
-En ningún caso, este pago excederá del impuesto que correspondería a un vehículo del mismo tipo, con antigüedad igual o menor de diez años.
+###### Artículo 12.
 
-###### ARTICULO 12.
+Atribuciones de los órganos de control. Los órganos de control tienen atribuciones para realizar acciones de control, inspección y vigilancia que prevengan, detecten y erradiquen prácticas irregulares en el servicio público, para integrar pliegos preventivos de responsabilidad, recibir quejas y denuncias, instrumentar procedimientos, investigar y deslindar responsabilidades e imponer las sanciones previstas en esta ley, así como para llevar el registro de la situación patrimonial de los servidores públicos respectivos, y son:
 
-Quedan exceptuadas del pago de este impuesto:
+I. En el Poder Legislativo y su órgano técnico de fiscalización, la Contraloría Interna;
 
-I. La Federación, el Estado, los Municipios y sus respectivos Organismos Descentralizados; y
+II. En el Poder Ejecutivo, la Coordinación de Contraloría y los órganos internos de control bajo su autoridad, mismos que se establecerán en cada una de las dependencias de la Administración Pública Estatal;
 
-II. Las operaciones de compraventa de vehículos usados por cuya enajenación se haya pagado el Impuesto al Valor Agregado.
+III. En las entidades paraestatales, los comisarios públicos designados por la Coordinación de Contraloría del Poder Ejecutivo;
 
-### CAPITULO II. IMPUESTO SOBRE NEGOCIOS O INSTRUMENTOS JURIDICOS
+IV. En el Poder Judicial, el Consejo del Poder Judicial;
 
-###### ARTICULO 13.
+V. En cada Ayuntamiento, la Contraloría Municipal;
 
-Son sujetos de este impuesto, las personas físicas y morales, o unidades económicas que realicen los actos jurídicos que se indican en el artículo siguiente.
+VI. En los organismos municipales descentralizados, el comisario designado por el Ayuntamiento; y,
 
-###### ARTICULO 14.
+VII. En los organismos autónomos, la contraloría interna respectiva.
 
-Es objeto de este impuesto y le corresponden las bases, tasas o tarifas siguientes:
+Los órganos internos de control de cada una de las dependencias de la administración pública estatal ejercerán sus funciones sin perjuicio de que sean ejercidas de manera directa por la Coordinación de Contraloría.
 
-I. La realización de los siguientes negocios jurídicos:
+### CAPÍTULO III. Juicio Político
 
-a) Constitución de sociedades civiles y mercantiles. La base para el pago del impuesto será el capital de la sociedad, a razón del tres al millar;
+###### Artículo 13.
 
-b) Fusión de sociedades civiles y mercantiles. La base del impuesto será la diferencia entre el capital social de la fusionante, antes y después de la fusión, a razón del tres al millar;
+Control, vigilancia, inspección y pliegos preventivos. Los órganos de control de las autoridades garantes y de las dependencias del Poder Ejecutivo, en ejercicio de sus atribuciones, realizarán acciones de control, vigilancia e inspección a fin de prevenir, detectar y erradicar irregularidades por actos u omisiones en el servicio público y tomarán las medidas necesarias a fin de corregirlas o, en su caso, iniciarán el procedimiento de responsabilidad.
 
-c) Aumentos de capital de sociedades civiles y mercantiles. La base será el importe del capital aumentado, a razón del tres al millar;
+Cuando se detecten presuntas irregularidades en el manejo, decisión, autorización, recepción, aplicación, administración de fondos, valores, recursos públicos estatales, municipales o concertados o convenidos con la Federación, que se traduzcan en daños y perjuicios cuantificables pecuniariamente en detrimento de las autoridades garantes o de dichos recursos, el órgano de control integrará un pliego preventivo de responsabilidad.
 
-d) Disolución y liquidación de sociedades. La base del impuesto será el número de fojas del instrumento, a razón de un día de salario mínimo, por cada una;
+Integrado el pliego preventivo de responsabilidad, se fijará la cantidad líquida del daño o perjuicio y se solicitará se solvente dentro de las setenta y dos horas siguientes. En caso de que el pliego preventivo no sea solventado, se podrá iniciar el procedimiento de responsabilidad.
 
-e) Cualquier otra modificación a escrituras constitutivas de sociedades. La base del impuesto será el número de fojas del documento donde conste la modificación, a razón de un día de salario mínimo, por foja;
+La autoridad ejecutora del posible crédito fiscal, a solicitud del órgano de control correspondiente, garantizará con embargo precautorio y en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad.
 
-f) Contratos de mutuo entre particulares, con garantía prendaria o hipotecaria, así como la constitución de estas garantías para el cumplimiento de cualquier otra obligación. La base del impuesto será el importe del contrato y, la tasa, a razón de tres al millar;
+El fincamiento o constitución definitiva de responsabilidades será resuelto por el órgano de control correspondiente, previa sustanciación del procedimiento de responsabilidad.
 
-g) Cesión de los derechos derivados de los actos y contratos a que se refiere el inciso f) anterior. La base del impuesto será el monto del contrato, en caso de garantía prendaria; y, en el caso de garantía hipotecaria, la cantidad que resulte mayor de comparar el precio consignado en la operación con el valor catastral de los inmuebles. En ambos casos la tasa a aplicar será de tres al millar;
+###### Artículo 14.
 
-h) Otorgamiento, sustitución, renuncia o revocación de poderes. El impuesto se pagará a razón de un día de salario mínimo, por cada otorgante;
+Quejas o denuncias. Cualquier persona, o su representante legal, podrá presentar queja o denuncia por incumplimiento de las obligaciones de los servidores públicos ante el órgano de control respectivo o ante el superior jerárquico del servidor público que se presuma responsable, quien lo turnará al órgano de control dentro de las setenta y dos horas siguientes.
 
-i) Rectificaciones o ratificaciones de cualquier acto o contrato. Se pagará un día de salario mínimo, por foja;
+La queja o denuncia podrá presentarse de manera oral o por escrito y deberá contener la información con la que se permita advertir la presunta responsabilidad del servidor público. En caso de quejas o denuncias orales, quien las reciba deberá asentarlas por escrito, pero en todo caso el denunciante deberá firmar.
 
-j) Celebración de instrumentos privados. Se pagará a razón del veinte por ciento del salario mínimo, por cada otorgante; y
+El promovente de la queja o denuncia manifestará sus datos generales a efecto de conocer las actuaciones del procedimiento.
 
-k) Celebración de contratos de arrendamiento financiero en todas sus modalidades, entre particulares o instituciones de crédito, o entre ambos. La base será el monto del contrato y se cubrirá una tasa del tres al millar.
+### CAPÍTULO IV. Declaración de Procedencia
 
-II. Cualquier otro tipo de acto o contrato que represente o no intereses pecuniarios para los otorgantes, siempre que el acto contenido en éstos no esté gravado por otro impuesto estatal, así como las actas notariales que contengan certificación de hechos. La base del impuesto será el número de fojas y se pagará un día de salario mínimo, por foja;
+###### Artículo 15.
 
-III. Cualquier acto o contrato otorgado fuera del Estado que produzca o pueda producir efectos dentro del territorio de éste, o en el que se señale algún punto del mismo para el cumplimiento de las obligaciones estipuladas, se cobrará conforme a las tarifas vigentes. La base del impuesto será el capital, en caso de que lo haya y, la tasa, a razón de tres al millar. Si no hubiere capital, la base será el número de fojas y se pagará a razón de un día de salario mínimo, por foja;
+Quejas o denuncias contra titulares de órganos de control. Los titulares de los órganos de control que incumplan las obligaciones establecidas en esta ley o en la normatividad aplicable, podrán ser denunciados y serán responsables de acuerdo a lo siguiente:
 
-IV. Todo tipo de resoluciones o mandatos judiciales que representen o no intereses pecuniarios para los involucrados, pero que tengan efectos contractuales. El impuesto se pagará a razón de un día de salario mínimo, por cada particular involucrado; y
+I. Ante el Titular del Poder Ejecutivo, el titular de la Coordinación de Contraloría;
 
-V. Cuando no sea posible la evaluación de las prestaciones pactadas, la base del impuesto será el número de fojas y se pagará a razón de un día de salario mínimo, por cada foja, contados como tales los documentos agregados al apéndice de documentos del protocolo, salvo que se hubieren transcrito en el instrumento.
+II. Ante el Congreso del Estado, el titular de la Contraloría Interna;
 
-Cuando en un instrumento jurídico se consignen dos o más negocios de los previstos en los incisos anteriores, se cubrirá el impuesto que corresponda a cada uno de ellos.
+III. Ante el Ayuntamiento respectivo, el titular de la Contraloría Municipal;
 
-Los fedatarios deberán cumplir con lo que establece el Código Fiscal del Estado respecto de los actos y contratos que originan este impuesto.
+IV. Ante el titular u órgano que encabece el organismo autónomo de que se trate, el titular de la contraloría de dicho organismo; y,
 
-### CAPITULO III. IMPUESTO SOBRE PREMIOS OBTENIDOS
+V. Ante el titular de la Coordinación de Contraloría, los titulares de los órganos internos de control de las dependencias y entidades del Poder Ejecutivo.
 
-###### ARTICULO 15.
+###### Artículo 16.
 
-Es objeto de este impuesto la obtención de premios en efectivo o en especie derivados de la celebración de rifas, sorteos, loterías y concursos de cualquier índole, que organicen y lleven a cabo entidades públicas o privadas, bien sea en el Estado o en toda la República Mexicana, cualquiera que sea la finalidad o el propósito del mismo o el destino de los ingresos por el boletaje vendido.
+Procedimiento de responsabilidad. Recibida una queja o denuncia, o derivado de las actuaciones de control, inspección, vigilancia, así como de los pliegos preventivos, si el órgano de control advierte elementos suficientes para presumir la probable responsabilidad, elaborará un expediente y asignará un número de registro con los datos generales e iniciará el procedimiento de conformidad con lo siguiente:
 
-El impuesto se causa al momento en que efectúe el pago o entrega del premio.
+I. Notificará al presunto responsable el oficio por el que se le dan a conocer las responsabilidades que se le imputen y su derecho a ofrecer pruebas y alegatos, así como el lugar, día y hora en que se realizará la audiencia, a la que podrá comparecer por sí o por medio de defensor. A la audiencia, podrá asistir un representante de la dependencia de adscripción que para tal efecto se designe.
 
-Para los efectos de este impuesto, no se considera como premio el reintegro correspondiente al billete que permitió participar en la lotería, rifa o sorteo.
+Entre la fecha de la citación y la de la audiencia, deberá mediar un plazo no menor de cinco ni mayor de quince días hábiles.
 
-###### ARTICULO 16.
+En el desahogo de la audiencia se podrá interrogar al presunto responsable sobre todos los hechos y circunstancias que hayan motivado el procedimiento y sean conducentes para el conocimiento de los hechos.
 
-Son sujetos de este impuesto las personas físicas o morales, que obtengan o perciban los premios a que se refiere el artículo anterior.
+Iniciado el procedimiento y de existir elementos suficientes para determinar la probable existencia de un daño o perjuicio cuantificable pecuniariamente en detrimento de la autoridad garante o de los recursos públicos, la autoridad ejecutora del posible crédito fiscal, a solicitud del órgano de control correspondiente, podrá trabar embargo precautorio de manera individualizada para asegurar la reparación del daño o perjuicio causado, pero en todos los casos el depositario será el presunto responsable;
 
-###### ARTICULO 17.
+II. Al concluir la audiencia, dentro de los cuarenta días hábiles siguientes, se resolverá sobre la inexistencia de responsabilidad o se impondrán las sanciones correspondientes, notificándose la resolución dentro de las setenta y dos horas siguientes al interesado, a su jefe inmediato, al representante designado por la dependencia y al superior jerárquico.
 
-La base del impuesto es el monto total del premio en efectivo o el valor del bien en que consista el premio, determinado por el organizador del concurso, sorteo, rifa o lotería; o, en su defecto el valor de avalúo practicado por perito autorizado, a solicitud de la Autoridad Fiscal.
+De existir responsabilidad de uno o varios servidores públicos, con la que se hayan obtenido beneficios económicos o causado daños o perjuicios cuantificables pecuniariamente en detrimento de la autoridad garante o de los recursos públicos, el órgano de control determinará su responsabilidad resarcitoria y, en su caso, la de los particulares que hayan participado en las irregularidades cometidas, quienes podrán comparecer durante el procedimiento e interponer los recursos previstos en la Ley;
 
-###### ARTICULO 18.
+III. Si de la audiencia se advierten elementos que impliquen la configuración de otras causales de responsabilidad del presunto responsable, otros servidores públicos o personas, se podrá disponer la práctica de investigaciones y citar para otra u otras audiencias, notificando en ese momento al presunto responsable las nuevas infracciones que se le atribuyan y, en su caso, a los otros presuntos responsables para continuar con el procedimiento; y,
 
-La tasa del impuesto será del 6% sobre la base antes mencionada y sobre ella no se aplicará ningún impuesto adicional.
+IV. En cualquier momento, previo o posterior al citatorio a que se refiere la fracción I, se podrá determinar la suspensión temporal de los presuntos responsables de su cargo, empleo o comisión, si así conviene para la conducción o continuación de las investigaciones.
 
-###### ARTICULO 19.
+La suspensión temporal a que se refiere el párrafo anterior interrumpe los efectos del acto que haya dado origen al empleo, cargo o comisión y regirá desde el momento que sea notificada al interesado.
 
-El organizador del sorteo, rifa, concurso o lotería será responsable de efectuar la retención del impuesto al sujeto, al momento de entregarle el premio y, de enterarlo en la oficina Recaudadora dentro de los cinco días siguientes a la entrega del premio.
+La suspensión no podrá exceder de treinta días y cesará cuando así lo resuelva el órgano de control correspondiente, independientemente de la iniciación, continuación o conclusión del procedimiento a que se refiere este artículo.
 
-En los casos de premios en especie, el contribuyente deberá proveer al retenedor los recursos necesarios para efectuar la retención previamente a la entrega del bien. Los retenedores son solidariamente responsables con los contribuyentes por el pago de este impuesto.
+Si los servidores públicos suspendidos temporalmente no resultaren responsables de la falta que se les atribuye, serán restituidos en el goce de sus derechos por su superior jerárquico y se les cubrirán íntegramente las percepciones que debieron recibir durante el tiempo de la suspensión dictada por el órgano de control.
 
-### CAPITULO IV. IMPUESTOS SOBRE NOMINAS
+Cuando en un mismo procedimiento haya más de un servidor público o particular señalado como presunto responsable, los órganos de control podrán resolver lo conducente de manera individualizada sin que la falta de actuación de alguno de los presuntos responsables implique obstáculo para concluir el procedimiento respecto de los demás.
 
-###### ARTICULO 20.
+Igualmente, durante el procedimiento, el titular de la autoridad garante se asegurará de que se tomen las medidas necesarias para que la prestación del servicio o función a cargo del presunto responsable no se vea disminuida.
 
-Son objeto de este impuesto las erogaciones pagadas dentro del territorio del Estado, en dinero o en especie, por concepto de remuneración al trabajo personal subordinado, considerándose como tales, los siguientes:
+Las notificaciones contempladas en este artículo se harán en términos de lo dispuesto en el Código de Justicia Administrativa del Estado de Michoacán.
 
-I. Salarios y, en general toda remuneración derivada de una relación laboral, con las excepciones a que se refiere el artículo 27, fracción I;
+Las cuestiones procedimentales y de valoración de las pruebas que no estén previstas en este procedimiento, se regirán de manera supletoria según la normativa procedimental civil aplicable para el Estado de Michoacán.
 
-II. Honorarios y todo tipo de pagos realizados a los administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones; y
+###### Artículo 17.
 
-III. Honorarios a personas que presten servicios profesionales en forma preponderante al contribuyente, en términos de lo dispuesto por la Ley del Impuesto Sobre la Renta.
+Investigación. Para el cumplimiento de sus atribuciones, el órgano de control llevará a cabo investigaciones respecto de las conductas que puedan constituir responsabilidades, para lo cual los involucrados, las dependencias o instancias públicas deberán proporcionar la información y documentación que les sean requeridas para el cumplimiento de esta ley.
 
-###### ARTICULO 21.
+###### Artículo 18.
 
-Son sujetos de este impuesto las personas físicas y morales o unidades económicas que dentro del territorio del Estado, realizan las erogaciones a que se refiere el artículo anterior.
+Actas y constancias. Se levantará acta circunstanciada de todas las diligencias que se practiquen, teniendo la obligación de suscribirla quienes intervengan en ella; si se negaren a hacerlo, se asentará dicha circunstancia en el acta.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Las resoluciones y acuerdos del órgano de control durante el procedimiento constarán por escrito. Las actas y constancias se integrarán al expediente.
 
-###### ARTICULO 22.
+###### Artículo 19.
 
-Es base del impuesto el monto total de las remuneraciones a que se refiere el artículo 20. No incluirán dentro de la base aquellos conceptos que la Ley del Seguro Social excluye expresamente de la integración del salario base de cotización de las aportaciones de seguridad social.
+Imposición de sanciones. Las sanciones que imponga el órgano de control respectivo consistirán en:
 
-###### ARTICULO 23.
+I. Amonestación;
 
-El Impuesto se causará y pagará a razón del uno por ciento sobre la base señalada en el artículo anterior.
+II. Suspensión del empleo, cargo o comisión por un periodo no menor de tres días ni mayor a un año;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+III. Sanción económica, cuando con las irregularidades cometidas el responsable obtenga beneficios económicos o cause daños y perjuicios cuantificables pecuniariamente, en detrimento de la autoridad garante o de los recursos públicos. La sanción podrá ser de hasta tres tantos de los beneficios obtenidos o de los daños y perjuicios causados, pero en ningún caso la sanción económica que se imponga será menor o igual al monto de los beneficios, daños o perjuicios;
 
-###### ARTICULO 24.
+IV. Destitución, cuando los efectos de la conducta realizada sean considerados de gravedad para el servicio público; y,
 
-El impuesto se causará en el momento en que se realicen las erogaciones objeto del impuesto y se pagará en forma mensual mediante declaración que deberá presentarse a más tardar el día quince del mes siguiente al de las erogaciones, ante la oficina recaudadora o establecimiento autorizado de la jurisdicción a que pertenezca el domicilio del contribuyente, en los formatos que para esos efectos expida la Secretaría de Finanzas.
+V. Inhabilitación para el ejercicio de empleos, cargos o comisiones en el servicio público, de uno a cinco años cuando no se obtengan beneficios económicos ni daños o perjuicios cuantificables pecuniariamente, en detrimento de la autoridad garante o de los recursos públicos, y de cinco a diez años en caso contrario.
 
-La obligación de presentar esta declaración subsistirá aún cuando no exista impuesto a cargo.
+Las resoluciones que impongan sanciones se inscribirán en un registro que llevará cada órgano de control. En caso de inhabilitación, se notificará a todas las autoridades garantes y será obligación de las mismas verificar que quienes pretendan ingresar al servicio público no se encuentren suspendidos o inhabilitados por cualquiera de los órganos de control que establece esta ley. En el supuesto de que alguna persona haya sido contratada en el servicio público y se acredite que no ha cumplido con la sanción de suspensión o inhabilitación que le fue impuesta, quedará sin efectos el nombramiento o contrato que en su caso se haya realizado.
 
-###### ARTICULO 25.
+Durante su función, los servidores públicos cuyo encargo corresponda a elección popular, los integrantes del Supremo Tribunal y del Consejo del Poder Judicial del Estado, así como los titulares de los organismos autónomos, sólo podrán ser suspendidos, inhabilitados o destituidos mediante Juicio Político, para lo cual deberá sustanciarse el procedimiento respectivo. Cuando los órganos de control tuvieren elementos suficientes respecto a acciones u omisiones que ameriten las sanciones referidas, presentarán la denuncia de Juicio Político conforme a lo dispuesto en esta ley, anexando los elementos de prueba pertinentes.
 
-Son obligaciones de los contribuyentes de este impuesto:
+Cuando se vislumbre responsabilidad penal, el órgano de control presentará denuncia ante el Ministerio Público correspondiente.
 
-I. Registrarse ante la oficina recaudadora correspondiente a su domicilio fiscal, dentro de los 15 días hábiles siguientes a la fecha de inicio de sus operaciones mediante los formatos que para el efecto expida la Secretaría de Finanzas;
+### CAPÍTULO V. Disposiciones comunes para Juicio Político y Declaración de Procedencia
 
-II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a su registro inicial;
+###### Artículo 20.
 
-III. Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales en relación con este impuesto dentro de los plazos y en los lugares señalados al efecto;
+Consideraciones para sancionar. Las sanciones se impondrán tomando en cuenta lo siguiente:
 
-IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que consignarán tanto el monto de las erogaciones realizadas para remunerar el trabajo personal subordinado en el Estado, como los conceptos por los cuales se efectuaron tales erogaciones;
+I. La gravedad de la responsabilidad en que se incurra y la conveniencia de suprimir prácticas que infrinjan en cualquier forma los principios del servicio público;
 
-V. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, el contribuyente deberá señalarlos todos en el aviso de inscripción, indicando el que deberá considerarse como domicilio para efectos fiscales; y
+II. Los antecedentes del responsable;
 
-VI. Las personas físicas o morales que tengan establecimientos en el Estado y en otras Entidades, pagarán el Impuesto sobre las erogaciones al personal que presta sus servicios en los establecimientos ubicados en el Estado, independientemente del lugar en que se encuentre su domicilio fiscal.
+III. Las condiciones socioeconómicas del responsable;
 
-###### ARTICULO 26.
+IV. Las condiciones y los medios de ejecución del acto u omisión;
 
-Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
+V. La antigüedad en el servicio público del responsable;
 
-###### ARTICULO 27.
+VI. La reincidencia en el incumplimiento de obligaciones; y,
 
-Están exentas del pago de este impuesto:
+VII. El monto del beneficio económico, daño o perjuicio cuantificable pecuniariamente, derivados de las irregularidades cometidas.
 
-I. Las erogaciones que se cubran por concepto de:
+###### Artículo 21.
 
-a) Aguinaldo;
+Órganos ejecutores. Las sanciones se ejecutarán de la siguiente manera:
 
-b) Vacaciones y prima vacacional;
+I. Amonestación, por el superior jerárquico;
 
-c) Bonos de productividad;
+II. Sanción económica, constituye crédito fiscal y se hará efectiva mediante el procedimiento administrativo de ejecución, tendrá la prelación prevista para dichos créditos y se sujetará en todo a las disposiciones fiscales aplicables. Las autoridades fiscales auxiliarán a los órganos de control a efecto de ejecutar la sanción y resarcir pecuniariamente a la autoridad garante correspondiente;
 
-d) Participación de los trabajadores en las utilidades de las empresas;
+III. La suspensión y destitución se ejecutarán por el superior jerárquico. La suspensión interrumpe los efectos del acto que haya dado origen al empleo, cargo o comisión y regirá desde el momento que sea notificada al interesado. La destitución implica la anulación de los efectos del acto que haya dado origen al empleo, cargo o comisión y regirá desde el momento que sea notificada al interesado. El incumplimiento de las obligaciones previstas en las fracciones XVIII, XIX, XX, XXII, XXIII, XXIV, XXXIII, XXXIV y XL del artículo 8 de esta ley siempre será considerado como grave y además será motivo de inhabilitación; y,
 
-e) Indemnizaciones por riesgos o enfermedades profesionales, que se conceden de acuerdo con las leyes o contratos respectivos;
+IV. La inhabilitación para desempeñar un empleo, cargo o comisión en el servicio público será ejecutada por el superior jerárquico en los términos de la resolución dictada, misma que se notificará también a todas las autoridades garantes.
 
-f) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
+En cualquier caso, las instancias responsables de recursos humanos de las autoridades garantes serán auxiliares para la ejecución de las sanciones.
 
-g) Indemnizaciones por rescisión o terminación, que tenga su origen en la prestación de servicios personales subordinados;
+###### Artículo 22.
 
-h) Pagos por primas de antigüedad;
+Recursos. Quienes resulten responsables podrán optar entre interponer el recurso de reconsideración o impugnar directamente ante el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo.
 
-i) Pagos por gastos funerarios;
+Las resoluciones que se dicten en el recurso de reconsideración serán también impugnables ante el Tribunal de Justicia Administrativa referido.
 
-f) (sic) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta.
+###### Artículo 23.
 
-II. Las erogaciones que efectúen:
+Reconsideración. El recurso de reconsideración se interpondrá ante el órgano de control que emitió la resolución, dentro de los diez días naturales siguientes a la fecha de la notificación respectiva.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+La tramitación del recurso se sujetará a lo siguiente:
 
-a) La Federación, el Estado y los Municipios;
+I. Se iniciará mediante escrito en el que deberán expresarse los agravios que cause la resolución, acompañando copias de ésta, así como las pruebas y alegatos que considere necesario rendir;
 
-b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas, así como actividades deportivas, culturales o sociales;
+II. Las pruebas se desahogarán en un plazo de diez días naturales, mismo que podrá ampliarse a solicitud del interesado o por decisión del órgano de control, una sola vez por otro período igual; y,
 
-c) Partidos políticos;
+III. Desahogadas las pruebas, si las hubiere, la autoridad emitirá resolución dentro de los treinta días hábiles siguientes, notificándolo al interesado en un plazo no mayor de setenta y dos horas.
 
-d) Sindicatos de trabajadores, agrupaciones de empresarios o de propietarios en cámaras, uniones, asociaciones, agrupaciones de profesionistas en institutos, colegios y asociaciones sin fines de lucro;
+La interposición del recurso suspenderá la ejecución de la resolución recurrida, si lo solicita el promovente, siempre que la suspensión no traiga como consecuencia la continuación o consumación de actos u omisiones que impliquen perjuicios irreparables al interés social o al servidor público.
 
-e) Instituciones de educación con reconocimiento oficial; y
+###### Artículo 24.
 
-f) Aquellas personas que efectúen pagos por servicios personales subordinados a cinco o menos trabajadores.
+Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo. Las impugnaciones ante el Tribunal de Justicia Administrativa del Estado de Michoacán de Ocampo se seguirán conforme a la normatividad en materia de justicia administrativa en todo lo que no se oponga a la presente ley.
 
-###### ARTICULO 28.
+Las resoluciones que dicte el Tribunal podrán ser impugnadas por el órgano de control respectivo.
 
-Para el fomento de la inversión productiva y la generación de empleos en el Estado de San Luis Potosí, se establecen los siguientes estímulos fiscales:
+###### Artículo 25.
 
-I. Las personas físicas o morales que incrementen en términos reales las remuneraciones a que se refiere este capítulo, tendrán derecho a solicitar a la Secretaría de Finanzas, un certificado que podrán aplicar contra el impuesto que resulte a pagar en los dos años posteriores a la fecha en que lo reciban, de acuerdo a las siguientes reglas:
+Manifestación de responsabilidad. Si el presunto responsable confesare su responsabilidad, se procederá de inmediato a dictar la resolución, salvo en el caso de que el órgano de control disponga la recepción de pruebas para acreditar la veracidad de la confesión.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Cuando la sanción aplicable sea económica, de aceptarse la plena validez probatoria de la confesión, se impondrán dos tercios de la sanción, pero siempre deberá ser suficiente para indemnizar o resarcir los daños y perjuicios causados. En todo caso, deberá restituirse cualquier bien o producto que se hubiese percibido con motivo de la infracción.
 
-a) Al monto total de los salarios base del impuesto, correspondientes al ejercicio de que se trate, se le restará el monto total de los salarios base del impuesto, correspondientes al ejercicio inmediato anterior, adicionado éste último en un porcentaje equivalente a aquél en que, por acuerdo de la Comisión Nacional de Salarios Mínimos, se haya incrementado el salario mínimo general en el ejercicio anterior a aquél en que se solicite el estímulo.
+###### Artículo 26.
 
-b) El resultado de la operación a que se refiere el inciso anterior, se multiplicará por el factor que resulte de dividir el índice nacional de precios al consumidor del mes de diciembre del ejercicio de que se trate, entre el citado índice del mes de diciembre del ejercicio inmediato anterior;
+Firmeza de la resolución. La ejecución de las sanciones impuestas en resolución firme se llevará a cabo de inmediato en los términos que disponga la resolución. La suspensión, destitución o inhabilitación que se imponga a servidores públicos surtirá efectos al notificarse la resolución.
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1999)</small>
+###### Artículo 27.
 
-c) Al producto de la operación anterior, se le restará la cantidad determinada conforme al inciso a) y, el resultado, a su vez, se multiplicará por el 1%, obteniendo así el monto del certificado, y
+Prescripción. Las facultades para imponer las sanciones que la Ley prevé prescribirán en cinco años tratándose de infracciones graves, y en tres años en los demás casos, contados a partir del día siguiente al que se hubieren cometido las infracciones o irregularidades, o a partir del momento en que hubieren cesado, si fueren de carácter continuo.
 
-d) El contribuyente solicitará en los tres primeros meses del año, el certificado a que se refiere esta fracción, acreditando la información señalada en los incisos anteriores.
+La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
 
-II. Las empresas que amplíen su capacidad de producción instalada, tomando como base la que tenían al 31 de diciembre de 1998, tendrán derecho a solicitar a la Secretaría de Finanzas un certificado equivalente al 0.25% de la inversión que realicen a partir del 1 de enero de 1999, en infraestructura física, maquinaria, desarrollo tecnológico, equipo destinado a producción y otros de naturaleza análoga, mismo que podrán aplicar contra el impuesto que resulte a pagar en los tres años posteriores a la fecha en que lo reciban. Quedan exceptuados de esta disposición las inversiones que se hagan en áreas administrativas, o de servicios, equipo de transporte y, en general, aquella que no se dirija a incrementar la estructura de producción de las empresas. La Secretaría de Finanzas se reserva el derecho de verificar físicamente la inversión efectuada y, de acuerdo al resultado, resolver sobre la procedencia del certificado de acreditamiento solicitado.
+En todo momento el órgano de control o el superior jerárquico podrán hacer valer la prescripción de oficio.
 
-En ningún caso estos estímulos darán lugar a devoluciones.
+###### Artículo 28.
 
-### CAPITULO V. IMPUESTO SOBRE SERVICIOS DE HOSPEDAJE
+Fuerza pública. Para el cumplimiento de las atribuciones de los órganos de control, las autoridades de seguridad pública serán auxiliares cuando se les solicite.
 
-### CAPITULO I. SERVICIOS PRESTADOS POR LA SECRETARIA GENERAL DE GOBIERNO
+Si existe resistencia al mandamiento legítimo de autoridad, se estará a lo dispuesto en la legislación penal.
 
-###### ARTICULO 29.
+### CAPÍTULO VI. Acción Pública
 
-Es objeto de este impuesto el pago por el servicio de hospedaje que se reciba en hoteles, moteles, suites posadas, campamentos, paraderos de casas rodantes y de tiempo compartido, así como en toda clase de establecimientos que presten servicios de esta naturaleza.
+### CAPÍTULO VII. Registro patrimonial
 
-No se consideran servicios de hospedaje, el albergue o alojamientos prestados por hospitales, clínicas, asilos, conventos, seminarios, internados y aquellos prestados por establecimientos con fines no lucrativos.
+###### Artículo 29.
 
-###### ARTICULO 30.
+Sujetos de Juicio Político. Podrán ser sujetos de Juicio Político el Gobernador, los diputados, los integrantes y funcionarios de los ayuntamientos que señala la Ley Orgánica Municipal, sea cual fuere el origen de su encargo, el Auditor Superior, los magistrados y consejeros del Poder Judicial, los jueces de primera instancia, jueces menores, los titulares de las dependencias centralizadas y entidades paraestatales de la administración pública estatal así como de organismos autónomos.
 
-Son sujetos al pago del impuesto que establece este capítulo todas las personas físicas o morales que dentro del Estado de San Luis Potosí reciban los servicios mencionados en el artículo anterior.
+###### Artículo 30.
 
-###### ARTICULO 31.
+Procedencia. Procede el Juicio Político cuando los actos u omisiones de los servidores públicos redunden en perjuicio de los intereses públicos fundamentales o del buen despacho de sus funciones, esto es, cuando:
 
-La base para el cálculo y determinación del impuesto será el importe pagado en efectivo, bienes o servicios, considerando solo el albergue sin incluir alimentos, demás servicios relacionados y el impuesto al valor agregado.
+I. Atenten contra las instituciones democráticas o la forma de gobierno republicano, democrático, representativo y popular de conformidad con el pacto federal;
 
-Para estos efectos, el prestador del servicio de hospedaje, deberá realizar el desglose correspondiente en el comprobante fiscal que expida.
+II. Violen, de manera sistemática, derechos humanos;
 
-Tratándose de servicios de hospedaje bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
+III. Interfieran indebidamente a favor de partido político o candidato durante los procesos electorales o violenten la libertad de sufragio;
 
-###### ARTICULO 32.
+IV. Impliquen usurpación de atribuciones;
 
-El impuesto se calculará y determinará aplicando a la base que señala el artículo anterior, una tasa del 2%.
+V. Violenten la Constitución del Estado o las leyes que de ella emanen; y,
 
-###### ARTICULO 33.
+VI. Violenten, de manera sistemática, los planes, programas y presupuestos o las leyes que regulan el manejo de los recursos públicos.
 
-Este impuesto se causará en el momento de pago por la prestación del servicio de hospedaje recibido.
+El Congreso del Estado valorará los actos u omisiones a que se refiere este artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+No procede el Juicio Político por la mera expresión de ideas.
 
-###### ARTICULO 34.
+El Juicio Político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
 
-Los prestadores de servicios de hospedaje, deberán calcular el impuesto y trasladarlo al momento del cobro; mensualmente enterarán el monto recaudado mediante declaración provisional, a cuenta del impuesto anual, utilizando los formatos aprobados por la Secretaría de Finanzas. Las declaraciones se presentarán en las oficinas recaudadoras o establecimientos autorizados, correspondientes al domicilio del prestador de los servicios de hospedaje en los plazos siguientes:
+###### Artículo 31.
 
-I. Tratándose de personas físicas, a más tardar el día 19 siguiente al mes en que se retuvo el impuesto; y
+Denuncia. Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia escrita ante la Mesa Directiva del Congreso del Estado por las conductas señaladas en este capítulo.
 
-II. Tratándose de personas morales a más tardar el día 17 siguiente al mes en que se retuvo el impuesto.
+Las denuncias anónimas no producirán ningún efecto.
 
-El impuesto del ejercicio, deducidos los pagos provisionales, se pagará mediante declaración ante la Oficina Recaudadora correspondiente al domicilio fiscal del contribuyente dentro de los tres meses siguientes al cierre del ejercicio.
+###### Artículo 32.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Procedimiento. Presentada la denuncia y ratificada dentro de los tres días naturales siguientes ante la Mesa Directiva del Congreso del Estado, se hará del conocimiento del Pleno del Congreso en la sesión inmediata siguiente y se turnarai (sic) con la documentación que la acompaña a las comisiones de Gobernación y de Puntos Constitucionales para que determinen la procedencia de la denuncia en un plazo de veinte días naturales, esto es, si el denunciado está comprendido dentro de los servidores públicos sujetos de Juicio Político y si la conducta atribuida corresponde a las enumeradas para proceder.
 
-###### ARTICULO 35.
+Las comisiones elaborarán el dictamen respectivo y lo someterán a votación del Pleno del Congreso.
 
-Para el cumplimiento oportuno de las obligaciones establecidas en el artículo anterior, las personas físicas o morales prestadoras de los servicios por los que se deba pagar este impuesto, deberán:
+En caso de que la denuncie (sic) sea notoriamente improcedente o el denunciado no sea sujeto de Juicio Político, el Pleno resolverá su archivo. En caso de que la denuncia resulte procedente se turnará el expediente a la Comisión Jurisdiccional, misma que notificará por escrito al denunciado sobre la acusación dentro de los cinco días naturales siguientes, haciéndole saber que deberá comparecer o informar por escrito sus excepciones y pruebas dentro de los siete días naturales siguientes a la notificación.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Transcurridos los siete días a que se refiere el artículo anterior, la Comisión Jurisdiccional abrirá un período de treinta días naturales dentro del cual valorará las pruebas que ofrezcan el denunciante, el servidor público o su defensor.
 
-I. Presentar ante la Secretaría de Finanzas del Estado o ante la oficina recaudadora correspondiente a su domicilio, el aviso de inscripción dentro de los quince días hábiles siguientes a la fecha de inicio de sus operaciones, mediante los formatos que para el efecto apruebe la Secretaría de Finanzas;
+Si al concluir el plazo señalado no hubiere sido posible valorar las pruebas ofrecidas oportunamente, o es preciso allegarse otras, la Comisión podrá ampliar el plazo en la medida que resulte necesario.
 
-II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a los datos aportados en el documento de empadronamiento;
+###### Artículo 33.
 
-III. Llevar la contabilidad de sus operaciones en los registros correspondientes, en los términos y características fijadas por la legislación federal aplicable aún cuando conforme a estas no se tenga obligación de llevarla; y
+Diligencias. La Comisión Jurisdiccional practicarai (sic) todas las diligencias necesarias para la comprobación de la conducta o hecho materia de la denuncia y tendrá facultades para solicitar por escrito a todas las dependencias y oficinas de los otros poderes del Estado, los ayuntamientos y organismos públicos autónomos, informes y documentos que juzgue necesarios para el debido esclarecimiento de los hechos que se investiguen.
 
-IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Estado de San Luis Potosí, el cual se conformará con la clave del registro federal de contribuyentes.
+En ningún caso pueden negarse los informes y documentos que se les pidieren, sin importar el estado de clasificación que guarden.
 
-###### ARTICULO 36.
+###### Artículo 34.
 
-Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben pagar los contribuyentes, mediante el ejercicio de sus facultades de comprobación; incluso, en forma presuntiva, en términos del Código Fiscal del Estado.
+Alegatos. Terminado el desahogo de pruebas, se pondrá el expediente a la vista del denunciante y del servidor público, a fin de que tomen los datos que requieran para formular alegatos, presentándolos por escrito dentro de los siete días naturales siguientes.
+
+###### Artículo 35.
+
+Conclusiones. Transcurrido el plazo de alegatos, se hayan o no formulado, la Comisión Jurisdiccional dictaminará sus conclusiones dentro de los quince días naturales siguientes.
+
+Si de las constancias del procedimiento se desprende la inocencia del encausado, el dictamen de la Comisión propondrá al Pleno que se declare dicha situación.
+
+Si de las constancias se concluye la responsabilidad del servidor público, el dictamen propondrá la aprobación de lo siguiente:
+
+I. Que estai (sic) comprobada la conducta o el hecho materia de la denuncia;
+
+II. Que existe responsabilidad del denunciado; y,
+
+III. La sanción de destitución e inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público hasta por diez años. La sanción se motivará y fundamentará de manera individualizada.
+
+###### Artículo 36.
+
+Jurado de Sentencia. El Presidente del Congreso citarai (sic) al Pleno a erigirse en Jurado de Sentencia y notificará al denunciante y al denunciado dentro de los tres días hábiles siguientes a la fecha en que se hubiere presentado el dictamen ante la Mesa Directiva por parte de la Comisión Jurisdiccional. El Jurado de Sentencia se conducirá de conformidad con el siguiente procedimiento:
+
+I. La Primera Secretaría dará lectura al dictamen formulado por la Comisión Jurisdiccional;
+
+II. Se concederá la palabra al denunciante o representante legal y en seguida al servidor público o a su defensor, o a ambos si alguno de éstos lo solicitare, para que aleguen lo que convenga a sus derechos, hasta por treinta minutos. En caso de que lo soliciten, se dará la palabra a los integrantes de la Comisión Jurisdiccional;
+
+III. Una vez hecho lo anterior, se mandarai (sic) desalojar la Sala, permaneciendo únicamente los diputados en la Sesión y se procederá a la discusión y votación del dictamen. Cuando se trate del Gobernador tendrá que ser votado por las dos terceras partes de los diputados presentes y por mayoría cuando se trate de otros servidores públicos; y,
+
+IV. El Presidente del Congreso hará la declaratoria correspondiente, misma que en caso de resultar condenatoria deberá hacerse del conocimiento de todas las autoridades garantes, de todos los gobiernos de las entidades federativas y de los tres poderes del Gobierno Federal, para los efectos legales y administrativos correspondientes.
+
+En caso de resultar absolutoria, el Pleno determinarai (sic) su archivo.
 
 ### CAPITULO II. SERVICIOS PRESTADOS POR LA SECRETARIA DE FINANZAS
 
@@ -381,223 +587,163 @@ Las autoridades fiscales, podrán determinar la cantidad del impuesto que deben 
 
 ### CAPITULO V. SERVICIOS PRESTADOS POR LA SECRETARIA DE ECOLOGIA Y GESTION AMBIENTAL
 
-###### ARTICULO 37.
+###### Artículo 37.
 
-Con relación al ejercicio del notariado, se causarán los siguientes derechos establecidos en salarios mínimos:
+Sujetos de fuero. Para proceder penalmente por la comisión de delitos del orden común contra el Gobernador, el Secretario de Gobierno, el Procurador General de Justicia, los diputados, los magistrados y consejeros electorales y del Poder Judicial y el Auditor Superior, el Congreso erigido en Jurado de Sentencia declararai (sic) por las dos terceras partes de los votos de sus miembros presentes cuando se trate del Gobernador, y por mayoría absoluta, cuando se trate de otros funcionarios, si procede o no la formación de causa.
 
-I. Por el examen para la práctica del notariado, 230.41;
+Cuando se trate del Gobernador, sólo habrá lugar a que el Congreso lo juzgue como si se tratare de un delito oficial.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+La declaración de haber lugar a formación de causa contra un funcionario procede desde el día en que inicie su encargo hasta el momento en que concluya por cualquier motivo su mandato.
 
-II. Por cada fiat que expida el Ejecutivo para el ejercicio del notariado, 230.41;
+###### Artículo 38.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Procedimiento. Cuando exista denuncia o querella en contra de alguno de los sujetos de fuero, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, el Ministerio Público presentará solicitud de Declaración de Procedencia ante la Mesa Directiva del Congreso del Estado, misma que se presentará al Pleno en la sesión inmediata siguiente turnándose a la Comisión Jurisdiccional a efecto de que analice y dictamine respecto a la subsistencia del fuero cuya remoción se solicita.
 
-III. Por los servicios de revisión y autorización del protocolo de los notarios públicos se pagará el derecho conforme a las cuotas que a continuación se establecen:
+Concluido este análisis, la Comisión Jurisdiccional dictaminará si ha lugar o no a formación de causa contra el inculpado.
 
-a) Por la razón de apertura, 13.74.
+Para los efectos de este artículo, la Comisión Jurisdiccional deberá rendir su dictamen en un plazo de treinta días naturales a partir de que obre en su poder la documentación respectiva, salvo que fuese necesario disponer de más tiempo, a juicio de la Comisión.
 
-b) Por la razón de cierre y su autorización, 11.98.
+###### Artículo 39.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Jurado de Sentencia. El Congreso del Estado se erigirá en Jurado de Sentencia dentro de los tres días siguientes a la fecha en que se hubiere presentado el dictamen a la Mesa Directiva, haciéndose saber esto al inculpado y a su defensor, así como al Ministerio Público, procediendo en los términos establecidos para el Juicio Político durante la sesión.
 
-IV. Por el registro de nombramiento, sello y firma, se pagarán 4.78, respectivamente, y
+En caso de que se declare que ha lugar a formación de causa, se ordenará notificar al Ministerio Público y al Presidente del Supremo Tribunal de Justicia del Estado, quedando el servidor público sujeto a la acción de los tribunales.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
+En caso negativo, no habrá lugar a procedimiento ulterior, salvo que aparezcan nuevos datos y elementos, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando el acusado haya dejado de tener fuero, pues la resolución del Congreso no prejuzga absolutamente sobre los fundamentos de la acusación.
 
-V. Por el registro de convenios entre notarios, corredores públicos o entre ambos, se pagarán 15.59.
+###### Artículo 40.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+Resoluciones inatacables. Las declaraciones y resoluciones del Congreso erigido en Jurado de Sentencia son definitivas e inatacables.
 
-Al exhibir el pago de los derechos que causa el registro de convenios a que se refiere la fracción anterior, se presentará el aviso que se cita en el artículo 49 de la Ley del Notariado.
+###### Artículo 41.
 
-###### ARTICULO 38.
+Comunicaciones. Todas las comunicaciones oficiales que deban girarse para la práctica de las diligencias se notificarán de conformidad con la normatividad en materia de justicia administrativa aplicable.
 
-Por la legalización de actos de cualquier índole, se causarán los siguientes derechos establecidos en salarios mínimos:
+###### Artículo 42.
 
-I. Por las que realice el Ejecutivo del Estado, en materia educativa, 0.5;
+Excusas y recusaciones. Los miembros de la Comisión Jurisdiccional y los diputados que hayan de intervenir en algún acto del procedimiento, podrán excusarse o ser recusados por alguna de las causas siguientes:
 
-II. Por los servicios de búsqueda de actas en los libros que se encuentran concentrados en la Dirección del Registro Civil, cuando no se señale fecha o lugar de nacimiento, por cada año o fracción que ampare la búsqueda, se cobrarán 0.5;
+I. Tener parentesco en línea recta sin limitación de grados, en línea colateral por consanguinidad hasta el cuarto grado, y en línea colateral por afinidad hasta el segundo grado, con alguno de los interesados;
 
-III. Por anotaciones marginales en actas del Registro Civil de juicios por sentencias, adopciones, divorcios, rectificaciones de actas, legitimaciones y reconocimientos, se pagarán 2;
+II. Tener estrecha amistad o enemistad con alguna de las personas a que se refiere la fracción anterior;
 
-IV. Por la expedición de copias de actas certificadas del estado civil se pagarán derechos en salarios mínimos, como sigue:
+III. Tener interés personal en el asunto, o tenerlo su cónyuge o sus parientes en los grados que expresa la fracción 1 (sic);
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1999)</small>
+IV. Haber sido el servidor público, su cónyuge o su pariente en los grados que menciona la fracción I, acusadores de alguna de las partes o del defensor, patrón o empleado;
 
-a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil y 0.5 si la expide el Archivo Histórico del Estado;
+V. Tener pendiente el funcionario, su cónyuge o sus parientes, en los grados que expresa la fracción I, un juicio en contra de los interesados en el procedimiento;
 
-b) (DEROGADO, P.O. 30 DE DICIEMBRE DE 1999)
+VI. Hacer promesas que impliquen parcialidad a favor o en contra de alguno de los interesados o amenazar de cualquier modo a alguno de ellos;
 
-c) Si se entregan a domicilio en la zona urbana de la capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 0.75;
+VII. Ser acreedor, deudor, socio, arrendador o arrendatario, dependiente o principal de alguno de los interesados;
 
-d) Por el envío de copias certificadas fuera del Estado, tramitadas por las diferentes Direcciones del Registro Civil, o sus equivalentes, de las entidades federativas, en términos del Acuerdo de Colaboración para la solicitud, trámite y obtención de copias certificadas de actas del Registro Civil, celebrado entre el Gobierno de las Entidades Federativas de la República Mexicana, entre sí, y la Secretaría de Gobernación, se cobrará 1.55; y
+VIII. Ser o haber sido tutor o curador de alguno de los interesados o administrador de sus bienes por cualquier título;
 
-e) Por expedición de copias certificadas de libros siniestrados, tomados del Apéndice de reposición, se cobrará 2.21;
+IX. Ser heredero, legatario, donatario o fiador de alguno de los interesados, si el funcionario ha aceptado la herencia o el legado ha hecho alguna manifestación en ese sentido; y,
 
-V. Por la certificación de sello, firma y contenido de copias expedidas por las diferentes Oficialías del Registro Civil del Estado se pagarán 2;
+X. Ser el cónyuge o alguno de los hijos del servidor público, acreedor, deudor o fiador de alguno de los interesados.
 
-VI. Por enmienda administrativa en actas del Registro Civil se pagarán 4;
+Únicamente con expresión de causa, en cualquier momento, podrá el inculpado recusar ante el Congreso a algún miembro de la Comisión Jurisdiccional o a algún diputado que deba intervenir en el procedimiento.
 
-VII. Por aclaración o corrección de enmiendas en las actas del Registro Civil se pagarán 2;
+###### Artículo 43.
 
-VIII. Por anotación marginal de enmienda administrativa en actas del Registro Civil se pagarán 0.78;
+Calificación de excusas y recusaciones. Los interesados podrán presentar incidentes de recusación o de excusa ante la Mesa Directiva, acompañando las pruebas que consideren pertinentes. En caso de recusación se notificará al diputado o diputados recusados a efecto de que manifiesten por escrito sus consideraciones.
 
-IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del país, se pagarán 6.21 y, fuera del país se pagarán 11.64;
+El Pleno del Congreso calificará la excusa o recusación en la sesión inmediata siguiente. La solicitud de excusa o recusación tendrá efectos suspensivos para el procedimiento principal.
 
-X. Por certificación de no encontrarse registrado nacimiento, matrimonio, defunción o cualquier acto del estado civil se pagarán 4;
+###### Artículo 44.
 
-XI. Por legalización de exhorto, 0.5;
+Documentales públicas. Las partes podrán solicitar de las oficinas o establecimientos públicos las copias certificadas de los documentos que pretendan ofrecer como pruebas.
 
-XII. Por registro de exhorto, 0.34;
+Las autoridades están obligadas a expedir dichas copias certificadas sin demora y, si no lo hicieran, la Comisión Jurisdiccional, a solicitud del interesado, señalará a la autoridad omisa un plazo razonable para que las expida apercibiéndole de que en caso de no hacerlo se denunciará la omisión ante el órgano de control que corresponda a fin de que inicie el procedimiento de responsabilidad.
 
-XIII. Por la legalización de firmas en las tarifas de establecimientos turísticos de calidad, 2.39;
+Por su parte, la Comisión Jurisdiccional solicitará copias certificadas de las constancias que estime necesarias para el procedimiento.
 
-XIV. La autorización de tarifas en los establecimientos mencionados en esta fracción se otorgará por la Dirección Estatal de Turismo, para cuyo efecto será necesaria la conformidad de los Servicios Coordinados de Salud Pública en el Estado; y
+###### Artículo 45.
 
-XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.39.
+Regulación de los procedimientos. En los procedimientos de Juicio Político y de Declaración de Procedencia se estará a lo dispuesto en esta ley y, en todo lo que no se oponga, a lo dispuesto en la Ley Orgánica y de Procedimientos del Congreso del Estado de Michoacán.
 
-###### ARTICULO 39.
+###### Artículo 46.
 
-Por los servicios de publicaciones en el Periódico Oficial, que presta el Gobierno del Estado, se pagará el derecho conforme a las siguientes cuotas, establecidas en salarios mínimos:
+Procedimiento. Cualquier persona, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba a su alcance, podrá presentar denuncia ante la Mesa Directiva del Congreso del Estado respecto de actos u omisiones cometidas por servidores públicos que sean motivo de sanciones administrativas, políticas o penales. En el escrito de denuncia deberá manifestar sus datos generales, las conductas u omisiones denunciadas y las pruebas a su alcance, así como el órgano de control o instancia que deba conocer el asunto.
 
-I. Por línea 0.17;
+Cumplidos los requisitos señalados, en la sesión inmediata siguiente se hará del conocimiento del Pleno y se remitirá directamente al órgano de control respectivo o a la instancia que deba conocer, según haya sido especificado por el denunciante, a efecto de que resuelvan lo conducente conforme al procedimiento respectivo e informen al Congreso del Estado la resolución en los tres días hábiles siguientes a aquél en que se haya emitido dicha resolución.
 
-II. Por plana 5.45;
+###### Artículo 47.
 
-III. Por media plana 3.10; y
+Registro patrimonial. Los órganos de control llevarán el registro de la situación patrimonial de los servidores públicos respectivos.
 
-IV. Por cuarto de plana 2.1.
+###### Artículo 48.
 
-No pagarán el derecho de publicaciones en el Periódico Oficial las ordenadas por las dependencias del Gobierno del Estado, los Municipios, el D.I.F. Estatal y las relativas a asuntos que se tramiten por las Defensorías de Oficio de los ramos civil, familiar y penal.
+Sujetos. Tienen obligación de presentar declaración de situación patrimonial:
 
-###### ARTICULO 40.
+I. En el Poder Legislativo, desde jefes de departamento, o sus equivalentes hasta diputados, incluido el personal de la Auditoría Superior de Michoacán y de la Contraloría Interna y todos aquéllos servidores que manejen recursos públicos;
 
-La inscripción de instrumentos jurídicos en el Registro Público de la Propiedad y de Comercio causará los siguientes derechos:
+II. En el Poder Ejecutivo, los servidores públicos de las dependencias, de las empresas de participación estatal organismos descentralizados, fideicomisos públicos, desde jefes de departamento hasta los titulares de las dependencias, incluyendo al Gobernador del Estado, notarios públicos, defensores de oficio, agentes del Ministerio Público, peritos, y aquellos que manejen, recauden o administren fondos y recursos públicos. En la Coordinación de Contraloría y sus órganos internos de control, todos sus servidores públicos;
 
-I. Títulos de propiedad:
+III. En el Poder Judicial, desde jefes de Departamento hasta magistrados y consejeros, incluidos jueces, secretarios proyectistas, actuarios, de cualquier categoría o designación, así como todos aquellos que manejen, recauden o administren fondos o recursos públicos;
 
-a) De bienes inmuebles, cuya base será el avalúo o reavalúo emitido por la Dirección de Catastro estatal, o bien el precio de la operación si éste es mayor que el del avalúo o reavalúo catastral y se aplicará la tarifa siguiente:
+IV. En los ayuntamientos y sus organismos municipales descentralizados, desde jefes de departamento o sus equivalentes hasta presidente y regidores, incluidos los síndicos, secretarios, contralores y tesoreros, así como todos aquellos que manejen, recauden o administren fondos o recursos públicos;
 
-1. Hasta $5,000.00 pagará 3.60 salarios mínimos;
+V. En los organismos autónomos, desde jefes de departamento, o sus equivalentes, hasta sus titulares, incluidos los integrantes de los órganos colegiados, así como todos aquéllos servidores del propio organismo que manejen recursos públicos; y,
 
-2. De $5,000.01 hasta $10,000.00 pagará 6.62 salarios mínimos; y
+VI. Esta misma obligación la tendrán los servidores públicos que tengan a su cargo, una o más de las funciones siguientes:
 
-3. Desde $10,000.01 en adelante, pagará el 2 al millar sobre el excedente, más la cuota señalada en el párrafo anterior.
+a) Dirección, supervisión, inspección, auditoría, seguridad, vigilancia, custodia, fiscalización, procuración y administración de justicia y readaptación social;
 
-Tratándose de títulos de adquisición de vivienda de interés social o popular en términos del Artículo 60, los derechos por este concepto no excederán de cuatro días de salario mínimo.
+b) Representación legal, titular o delegada, para realizar actos de dominio, de administración general o de ejercicio presupuestal;
 
-No son sujetos del pago de estos derechos, los titulares de los derechos agrarios derivados de la regularización de la tenencia de la tierra de los núcleos ejidales cuando sean registrados la primera vez.
+c) Manejo de fondos estatales o municipales;
 
-b) De bienes muebles, cuya base será el valor mayor entre el de la operación, el del mercado o el fijado por avalúo pericial y se aplicará la tarifa del inciso anterior.
+d) Custodia de bienes y valores;
 
-II. Escrituras constitutivas de sociedades. La base será el capital de la sociedad y se aplicará la tarifa de la fracción I, de este artículo;
+e) Atención o resolución de trámites directos con el público para efectuar pagos de cualquier índole para obtener licencias o autorizaciones;
 
-III. Las modificaciones al capital de las sociedades. La base para su cobro será la diferencia entre el capital inicial y el actual y se aplicará la tarifa de la fracción I, de este mismo artículo;
+f) Adquisición o comercialización de bienes y servicios; y,
 
-IV. La inscripción de títulos mercantiles. La base para su cobro será el valor de los documentos y se aplicará la tarifa de la fracción I, de este artículo;
+g) Realización de pagos de cualquier índole.
 
-V. Declaraciones o sentencias judiciales que ordenen la cancelación o modificación de las inscripciones del Registro Público de la Propiedad, pagarán 2.39 salarios mínimos diarios generales vigentes en la zona por cada inscripción; y
+Las autoridades garantes, a través de sus áreas de recursos humanos, durante el mes de febrero de cada año, precisarán cuáles son los servidores públicos obligados a presentar declaración por tener a cargo una o más de las funciones antes señaladas, informándolo al órgano interno de control respectivo para que este se los notifique.
 
-VI. Cualquier otro instrumento jurídico en el que se declare la ineficacia de los documentos inscritos, sobre la base que corresponda, pagarán el 50% de la tarifa de la fracción I, de este artículo.
+No tendrán obligación de presentar declaración inicial o de conclusión quienes, sin interrupción de servicios, sean objeto de un cambio de situación ya sea por modificación en su puesto, nivel, funciones, adscripción o tipo de designación, nombramiento o contratación, y conserven la obligación de presentar declaración de situación patrimonial ante el mismo órgano de control.
 
-###### ARTICULO 41.
+###### Artículo 49.
 
-La inscripción en el Registro Público de la Propiedad causará derechos como sigue, mismos que se expresan en salarios mínimos:
+Plazos. La declaración de situación patrimonial se deberá presentar en los plazos siguientes:
 
-I. Resoluciones judiciales o administrativas en las que se constituya un fraccionamiento, se lotifique, relotifique, divida o subdivida un bien inmueble, causarán, por cada lote, un pago de 2.39;
+I Declaración inicial, dentro de los sesenta días naturales seguidos a la toma de posesión;
 
-II. Régimen de propiedad en condominio o sus modificaciones, por cada unidad departamental, vivienda, casa, despacho o local, se pagarán 2.39;
+II. Declaración de conclusión, dentro de los treinta días naturales siguientes a la conclusión del encargo; y,
 
-III. La fusión de predios pagará 2.39; y
+III. Declaración anual de modificación, durante el mes de mayo de cada año, salvo que en ese mismo año se hubiese presentado la declaración inicial.
 
-IV. Disolución de mancomunidad o copropiedad de bienes. La base para su cobro será el avalúo catastral, al que se aplicará la fracción I, del Artículo 40 de esta Ley.
+###### Artículo 50.
 
-###### ARTICULO 42.
+Incumplimiento y sanciones. Si las declaraciones se presentaren de manera extemporánea, dentro de los diez días naturales siguientes a la conclusión del plazo, se amonestará al servidor público.
 
-Por la inscripción de instrumentos en que se consigne la ratificación, rectificación, rescisión o reconocimiento de nulidad de contratos o convenios, incluyendo aquellos contratos celebrados con instituciones y organismos auxiliares de crédito para la reestructuración de pasivos contraídos previamente, se causarán derechos como se indica a continuación, los cuales se señalan en salarios mínimos:
+Si transcurridos el plazo señalado en el párrafo anterior no se hubiese presentado, previa instancia sumaria que conceda garantía de audiencia, se aplicará al servidor público una sanción económica de tres días a tres meses del total del sueldo base presupuestal que tenga asignado el servidor público, previniéndosele que de no rendir su declaración dentro de los quince días naturales siguientes a la fecha de notificación del citatorio de garantía de audiencia, será destituido de su cargo e inhabilitado por un periodo de uno a tres años. Para la imposición de la sanción se estará a las consideraciones previstas por esta ley.
 
-I. En escrituras públicas, por foja o fracción se pagarán 0.5;
+Lo anterior sin perjuicio de que el órgano de control proceda a la investigación del patrimonio del infractor.
 
-II. En escrituras privadas, por foja o fracción se pagarán 0.5;
+###### Artículo 51.
 
-III. Por inscripción de testamentos, por su revocación, declaración de legitimidad de herederos o nombramiento de albacea definitivo en caso de sucesiones, declaraciones de quiebra, suspensión de pagos o intervenciones administrativas o judiciales, se pagarán 2.39;
+Formatos. Los órganos de control de cada una de las autoridades garantes y la Coordinación de Contraloría respecto del Poder Ejecutivo, expedirán las normas y los formatos físicos o electrónicos bajo los cuales el servidor público deberá presentar sus declaraciones de situación patrimonial, así como de los manuales e instructivos que señalarán lo que es obligatorio declarar.
 
-IV. Inscripción de poderes, sustitución, revocación o prórroga de plazo de los mismos en instrumentos públicos, pagarán 0.5;
+###### Artículo 52.
 
-V. En inscripción de escrituras constitutivas de asociaciones civiles, se pagarán 1.76 salarios mínimos diarios generales de la zona por foja o fracción; y
+Contenido. En la declaración de situación patrimonial inicial y de conclusión se manifestarán los bienes inmuebles, muebles y activos, inversiones, ingresos, deudas u obligaciones y cualquier otro concepto que modifique o afecte la situación patrimonial, con fecha y valor de adquisición.
 
-VI. Mandamiento judicial que ordene el embargo de sueldos en los juicios de alimentos; su inscripción causará 0.5.
+En las declaraciones anuales de modificación se manifestará la fecha y valor de adquisición, venta o modificación, indicando el medio por el que se hizo la afectación.
 
-###### ARTICULO 43.
+Se considerarán entre los bienes de los servidores públicos aquellos a su nombre o de los cuales se conduzcan como dueños, los de sus dependientes económicos y los de su cónyuge siempre y cuando se haya contraído matrimonio bajo el régimen de sociedad conyugal.
 
-En relación con instrumentos públicos relativos a sociedades civiles o mercantiles, se causarán derechos conforme a lo siguiente:
+###### Artículo 53.
 
-I. Por inscripción de documentos en que se protocolicen actas de asamblea, juntas del consejo de administración o directivas, que no tengan marcada cuota específica, causarán 2.39 salarios mínimos, por foja o fracción;
+Faltas a la verdad. El servidor público que en su declaración de situación patrimonial faltare a la verdad en relación con lo que es obligatorio declarar, o cuyos bienes no guarden congruencia con sus ingresos, será sancionado con suspensión no menor de tres días ni mayor a un año, conforme el procedimiento de responsabilidad establecido en esta ley. Cuando la falta lo amerite, el servidor público podrá ser destituido e inhabilitado de uno a tres años.
 
-II. Por la inscripción de escrituras constitutivas de sociedades cooperativas se causará el 50% de la tarifa del Artículo 40, fracción I de esta Ley; y
+###### Artículo 54.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
-III. Por inscripción de instrumentos en que se consigne la fusión de sociedades, se causará el uno porciento sobre la diferencia en el capital de la fusionante, antes y después de la fusión.
-
-###### ARTICULO 44.
-
-Por la inscripción o reinscripción de embargos, prendas e hipotecas no derivadas de un contrato de crédito se causarán las cuotas que fija el Artículo 40, fracción I de esta Ley, sobre el valor de la suerte principal. Las cancelaciones causarán un pago equivalente a cinco días de salario mínimo.
-
-Tratándose de hipotecas por adquisición de vivienda de interés social o popular, la inscripción del gravamen no deberá rebasar el monto de cuatro días de salario mínimo y, hasta dos días por la cancelación de dichos gravámenes.
-
-###### ARTICULO 45.
-
-Por la inscripción de fianzas o por su cancelación, se aplicará la tarifa del Artículo 40, fracción I de esta Ley sobre su valor, a excepción de las otorgadas en procesos penales, en cuyo caso se causará el 50% de dicha tarifa pero nunca será inferior a 0.92 salarios mínimos.
-
-###### ARTICULO 46.
-
-Por la inscripción en el Registro Público de la Propiedad y de Comercio de anotaciones de fianzas, contrafianzas y obligaciones solidarias con el fiador, contrafiador u obligados solidarios, se pagará el 50% de la cuota señalada en el Artículo 40, fracción I de esta Ley.
-
-###### ARTICULO 47.
-
-Por la inscripción de instrumentos en que se consigne la liquidación de sociedades mercantiles o civiles se pagará el 0.5% sobre el capital disuelto, además de la tarifa del Artículo 40, fracción I de esta Ley, sobre el valor de la cuota de liquidación de cada uno de los socios.
-
-###### ARTICULO 48.
-
-La inscripción o reinscripción de contratos de arrendamiento financiero puro o contratos de arrendamiento financiero con promesa de venta, causará sobre su monto la tarifa del Artículo 40, fracción I de esta Ley.
-
-###### ARTICULO 49.
-
-La inscripción o reinscripción de contratos de crédito con garantías hipotecaria y/o prendaria, refaccionarios, de habilitación o avío, otorgados por sociedades de crédito, así como las operaciones a que se refiere el Artículo 44 de esta Ley, causará el 2.5 al millar sobre el monto del crédito. Su cancelación causará el equivalente de seis días de salario mínimo.
-
-Cuando la operación haya de inscribirse en las oficinas del Registro Público de la Propiedad y de Comercio del Estado y de otras entidades federativas, estos derechos se dividirán en la proporción que le corresponda a cada entidad, atendiendo al valor catastral de los bienes situados en cada entidad federativa, sin que la suma de lo que se pague en total exceda de 2.5 al millar.
-
-Cuando se trate de contrato de crédito con refinanciamiento se calculará el monto de los derechos a pagar sobre la base de la primera disposición del crédito sin incluir el refinanciamiento, excepción hecha de los créditos relacionados con vivienda de interés social o vivienda popular, en cuyos casos la base para calcular los derechos será el monto del crédito que se ejerce de inmediato para adquirir el inmueble, aplicándose además un descuento del 50% del total que resulte a pagar.
-
-###### ARTICULO 50.
-
-La cesión de los derechos de embargos, prendas e hipotecas a que se hace referencia en los artículos 44 y 49 de esta Ley, causarán el 50% de las cuotas que mencionan los mismos artículos.
-
-###### ARTICULO 51.
-
-La inscripción de actos o contratos celebrados con instituciones de crédito para apoyar al sector agropecuario del Estado, causará los siguientes derechos establecidos en salarios mínimos:
-
-I. De $1,000.00 a $5,000.00, pagarán 1.26;
-
-II. De más de $5,000.00 y hasta 10,000.00, pagarán 2.39;
-
-III. De más de $10,000.00 y hasta $20,000.00, pagarán 3.6; y
-
-IV. De más de $20,000.00, pagarán a razón del 3 al millar sobre el monto del crédito, más la cuota señalada en la fracción anterior.
-
-###### ARTICULO 52.
-
-La cancelación de gravámenes no especificados en las disposiciones anteriores, sobre su valor, causará el 50% de la cuota señalada en el Artículo 40, fracción I de esta Ley y, en ningún caso, será inferior a un día de salario mínimo.
-
-###### ARTICULO 53.
-
-Por el otorgamiento temporal de usufructo, por la cesión de éste o por su consolidación con la nuda propiedad, se pagará sobre la base del avalúo catastral del inmueble el 50% de la tarifa señalada en la fracción I, del Artículo 40 de esta Ley.
-
-###### ARTICULO 54.
-
-Por la inscripción de fideicomisos o de su disolución se pagarán 1.26 salarios mínimos por foja, cuando sean de administración o garantía; y, 2.39 salarios mínimos.
+Publicidad. La publicitación de la información relativa a la situación patrimonial se hará siempre y cuando se cuente con la autorización previa y específica del servidor público de que se trate.
 
 ###### ARTICULO 55.
 
@@ -1581,40 +1727,24 @@ Las multas no fiscales se actualizarán en términos del Código Fiscal del Esta
 
 ## TRANSITORIOS
 
-PRIMERO. La presente Ley entrará en vigor el día primero de enero de 1999.
+Artículo Primero. El presente Decreto entrarai (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Se deroga la Ley de Hacienda del Estado promulgada el 28 de diciembre de 1994, así como todas las disposiciones legales que se opongan a la presente Ley.
+Artículo Segundo. Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán publicada en el Periódico Oficial el 27 de Septiembre de 1984.
 
-TERCERO. Para efectos del cumplimiento de las obligaciones a que se refiere (sic) las fracciones I del artículo 25 y, I del artículo 35 de esta Ley, el plazo para presentar el aviso de registro de las empresas que causen los impuestos de nóminas y de hospedaje desde su entrada en vigor, vencerá el día 1 de febrero de 1999.
+Artículo Tercero. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente ordenamiento.
 
-CUARTO. Estando en proyecto actualmente el programa de modernización del Registro Público de la Propiedad y de Comercio mediante la implantación de sistemas computarizados, queda establecida la obligación de quienes soliciten servicios del mencionado Registro de cubrir, al entrar en funcionamiento los sistemas proyectados, la suma de 1.68 salarios mínimos por cada acceso a los mismos, independientemente de los derechos previstos en este capítulo. Además pagarán el 15% adicional sobre el monto de estos derechos para el mantenimiento y actualización permanente de los sistemas mencionados, así como para cubrir la amortización permanente de los créditos que sean utilizados en el mencionado programa.
+Artículo Cuarto. El Titular del Poder Ejecutivo del Estado realizará lo conducente a efecto de establecer los órganos internos de control en cada una de sus dependencias y entidades paraestatales, de manera inmediata.
 
-Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer.
+Artículo Quinto. Las autoridades garantes publicarán el Código de Ética respectivo en un plazo de noventa días hábiles a partir de la entrada en vigor del presente Decreto.
 
-DADO en el Salón de Sesiones del H. Congreso del Estado, a los quince días del mes de diciembre de mil novecientos noventa y ocho.
+Artículo Sexto. Las acciones u omisiones irregulares relativas al servicio público, así como los procedimientos iniciados antes de la entrada en vigor del presente Decreto, seguirán rigiéndose conforme la normatividad aplicable al momento de su ejecución o inicio.
 
-DIPUTADO PRESIDENTE, JOSE LUIS PALACIOS ESPINOSA.- DIPUTADO SECRETARIO, FABIAN ESPINOSA DIAZ DE LEON.- DIPUTADO SECRETARIO MARCO ANTONIO GAMA BASARTE.- RUBRICAS.
+El Titular del Poder Ejecutivo del Estado, dispondrá se publique y observe.
 
-POR TANTO, MANDO SE CUMPLA Y EJECUTE EL PRESENTE DECRETO Y QUE TODAS LAS AUTORIDADES LO HAGAN CUMPLIR Y GUARDAR Y AL EFECTO SE IMPRIMA, PUBLIQUE Y CIRCULE A QUIENES CORRESPONDA.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO, en Morelia, Michoacán de Ocampo, a los 19 diecinueve días del mes de septiembre de 2014 dos mil catorce.
 
-DADO EN EL PALACIO DE GOBIERNO, SEDE DEL PODER EJECUTIVO LIBRE Y SOBERANO DE SAN LUIS POTOSI A LOS VEINTITRES DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y OCHO.
+ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRECTIVA, DIP. ALFONSO JESÚS MARTÍNEZ ALCÁZAR.- PRIMER SECRETARIO, DIP. JOSÉ ELEAZAR APARICIO TERCERO.- SEGUNDA SECRETARIA, DIP. DANIELA DE LOS SANTOS TORRES.-TERCER SECRETARIO, DIP. CÉSAR MORALES GAYTÁN. (Firmados).
 
-EL GOBERNADOR DEL ESTADO.
+En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 09 nueve días del mes de octubre del año 2014 dos mil catorce.
 
-LIC. FERNANDO SILVA NIETO.
-
-(Rúbrica)
-
-EL SECRETARIO GENERAL DE GOBIERNO.
-
-LIC. JUAN CARLOS BARRON CERDA.
-
-(Rúbrica)
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 30 DE DICIEMBRE DE 1999.
-
-PRIMERO. Este Decreto entrará en vigor a partir del día primero de enero del año 2000.
-
-SEGUNDO. La derogación del artículo 80 de la Ley de Hacienda del Estado, entrará en vigor al iniciar su vigencia la reforma aprobada por la Cámara de Diputados del Congreso de la Unión, con fecha 17 de julio de 1999, al artículo 115 de la Constitución General de la República; mientras tanto, los derechos por la expedición de la licencia estatal de uso de suelo a que se refieren los artículos 60 a 62 del Código Urbano y Ecológico, los seguirá cobrando el Estado.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO, DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO, MTRO. JAIME DARÍO OSEGUERA MÉNDEZ. (Firmados).
