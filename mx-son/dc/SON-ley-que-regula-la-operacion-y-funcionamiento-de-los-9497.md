@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-9497"
 country: "mx"
 rank: "ley"
 publication_date: "1992-06-25"
-last_updated: "2003-06-30"
+last_updated: "2004-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9497&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, GUARDA, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2003.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY QUE REGULA LA OPERACION Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACION, ENVASAMIENTO, DISTRIBUCION, ALMACENAMIENTO, TRANSPORTACION, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHOLICO EN EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 23 DE DICIEMBRE DE 2004, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADA.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 25 de junio de 1992.
 
@@ -1166,3 +1168,41 @@ B.O. 30 DE JUNIO DE 2003.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 23 DE DICIEMBRE DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan la Ley No. 119 que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, publicada en el Boletín Oficial del Gobierno del Estado No. 51, Sección I, de fecha 25 de junio de 1992.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones normativas, reglamentarias o administrativas que en lo conducente se opongan a los efectos, alcances y aplicación de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Los permisionarios o propietarios de los establecimientos que esta Ley señala y que a la entrada en vigor la misma no se ajusten a sus disposiciones, deberán proceder a regularizarse dentro del periodo de revalidación de licencias, que comprende los meses de enero a mayo de 2005, conforme a las siguientes reglas:
+
+I.- Deberán presentar la documentación o licencia conforme a la cual se ha venido amparando para la venta de cerveza y de vinos y licores, así como fotografías interiores y exteriores recientes del establecimiento;
+
+II.- Toda la documentación o licencia deberá ser presentada ante la Secretaría de Hacienda del Estado;
+
+III.- Previo estudio de cada caso en particular, la Secretaría de Hacienda hará la regularización correspondiente, canjeando los permisos o licencias anteriores por los nuevos que serán expedidas conforme a los términos y condiciones de esta Ley;
+
+IV.- Los casos de duda o inconformidad serán resueltos por la Secretaría;
+
+###### ARTÍCULO QUINTO.
+
+Para los casos de cambio de giro y horario en las licencias a que se refiere el Artículo Transitorio anterior, no será necesario recabar anuencia municipal del Ayuntamiento que corresponda, en virtud de que se trata de canjear y adecuar las licencias de funcionamiento a las disposiciones vigentes.
+
+###### ARTÍCULO SEXTO.
+
+A los propietarios de establecimientos que hayan presentado solicitudes de permisos conforme a las formalidades requeridas en disposiciones anteriores a la vigencia de esta Ley, cuyas solicitudes se encuentren en trámite ante la Secretaría de Hacienda, les serán aplicables las presentes normas transitorias, en todo aquello que conduzca al cumplimiento de dichos preceptos.
+
+###### ARTÍCULO SÉPTIMO.
+
+Transcurrido el plazo a que se refiere el Artículo Cuarto anterior, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley, así como a la clausura de los establecimientos, en su caso.
