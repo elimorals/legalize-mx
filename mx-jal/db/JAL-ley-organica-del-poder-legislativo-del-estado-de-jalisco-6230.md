@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1999-12-23"
+last_updated: "2000-05-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 2000.
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -985,11 +985,13 @@ Si por motivo de su competencia debiera turnarse un negocio a dos o más Comisio
 
 ### CAPITULO II. De la Forma y Periodicidad de las Sesiones
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 2000)</small>
 
 ###### Artículo 58.
 
-El Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo al efecto hacerlo por lo menos dos veces por semana durante los períodos comprendidos del primero de febrero al quince de abril y del quince de agosto al quince de diciembre de cada año, fuera de los cuales sesionará al menos cuatro veces por mes.
+El Congreso deberá celebrar sesiones cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia, debiendo al efecto hacerlo por lo menos dos veces por semana durante los períodos comprendidos del primero de febrero al treinta y uno de marzo y del quince de septiembre al quince de diciembre de cada año, fuera de los cuales sesionará al menos dos veces por mes.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 1997)</small>
 
 Lo acontecido en éstas, será consignado en un órgano oficial denominado "Diario de los Debates" en el que se publicará la fecha y lugar en que se verifique la sesión, el sumario, nombre del que presida, copia fiel del acta de la sesión anterior, versión taquigráfica o magnetofónica de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura.
 
@@ -2066,3 +2068,9 @@ UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en e
 P.O. 23 DE DICIEMBRE DE 1999
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 30 DE MAYO DE 2000
+
+PRIMERO.- Envíese copia certificada del presente dictamen de decreto a los 124 ayuntamientos del Estado, con el diario de debates, en el que consten las discusiones que hubiere provocado, para que con fundamento a lo establecido por el artículo 117 de la Constitución Política del Estado de Jalisco en vigor, procedan conforme a derecho corresponda.
+
+SEGUNDO.- El presente decreto que contiene la reforma de los artículos 25 de la Constitución Política del Estado y 58 de la Ley Orgánica del Poder Legislativo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
