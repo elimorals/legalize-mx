@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-de-el-colegio-de-sinaloa-9825"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-08-23"
-last_updated: "1996-02-09"
+last_updated: "2005-02-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9825&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DE EL COLEGIO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE FEBRERO DE 2005.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 23 de agosto de 1993.
 
@@ -147,9 +147,11 @@ No existirá en la selección de candidatos una lista de espera para ocupar una 
 
 Será obligación de los miembros del Colegio realizar en el Estado conferencias, exposiciones y otros actos culturales propios de las funciones del Colegio y cuyo programa será determinado por el propio colegiado.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2005)</small>
+
 ###### ARTICULO 25.
 
-Las instalaciones del Colegio se dedicarán exclusivamente a las actividades académicas de sus miembros o de los huéspedes invitados por el propio Colegio.
+Para la celebración de las sesiones, el quórum se integrará con un mínimo de ocho Colegiados, y si no se logra el día convocado, el Colegiado Presidente ordenará que se haga un nuevo citatorio y la sesión podrá realizarse con los que estén presentes.
 
 ### CAPITULO VII. DE LAS DISPOSICIONES FINANCIERAS
 
@@ -190,3 +192,7 @@ P.O. 9 DE FEBRERO DE 1996.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 11 DE FEBRERO DE 2005.
+
+Artículo Único. El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial "El Estado de Sinaloa".
