@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-de-procedimientos-civiles-para-el-estado-de-zacatecas-82
 country: "mx"
 rank: "codigo"
 publication_date: "1966-03-02"
-last_updated: "1995-06-07"
+last_updated: "1996-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
 
 Código Publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el 2 de marzo de 1966.
 
@@ -503,7 +503,13 @@ Gastos, costas y daños procesales.
 
 78.- Los gastos judiciales comprenden las erogaciones hechas por las partes para la preparación de la demanda y los que se causen durante el juicio para su tramitación. La condena en costas comprende también la de los gastos del juicio. El tribunal podrá negar la aprobación de gastos excesivos o superfluos.
 
-Las costas comprenden los honorarios de la defensa, pero sólo podrán cobrarse cuando intervengan como patronos o mandatarios personas que reúnan los siguientes requisitos: poseer título de abogado legalmente expedido y debidamente registrado en el Supremo Tribunal de Justicia del Estado; o bien, aquellas personas a quienes se haya extendido autorización para ejercer la práctica respectiva de dicha profesión, de acuerdo con lo establecido por la Ley Reglamentaria relativa al ejercicio de las profesiones en el Estado; o cuando la parte interesada que ejecute su propia defensa reúna dichos requisitos. La condena en los gastos y costas procede de acuerdo con las disposiciones de este Capítulo y en los demás casos que expresamente lo determine la ley.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+Sólo serán exigibles los gastos que se comprueben con documentos que reúnan los requisitos exigidos por las leyes fiscales.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+Las costas comprenden los honorarios de la defensa, pero sólo podrán cobrarse cuando intervengan como patronos o mandatarios personas que reúnan los siguientes requisitos: poseer título de licenciado en derecho legalmente expedido y debidamente registrado en el Tribunal Superior de Justicia del Estado; o bien, aquellas personas a quienes se haya extendido autorización para ejercer la práctica respectiva de dicha profesión, de acuerdo a lo establecido por la Ley Reglamentaria relativa al ejercicio de las profesiones en el Estado; o cuando la parte interesada que ejecute su propia defensa reúna dichos requisitos. Los peritos que intervengan en juicio deberán satisfacer los requisitos exigidos por el artículo 292 de este Código para el cobro de honorarios. La condena en los gastos y costas procede de acuerdo con las disposiciones de este Capítulo y en los demás casos que expresamente lo determine la ley.
 
 79.- Durante el juicio, cada parte será inmediatamente responsable de los gastos y costas que originen las diligencias que promueva. En caso de condenación en costas, la parte condenada indemnizará a la otra de todos los gastos y costas que hubiere anticipado o debiera pagar.
 
@@ -539,7 +545,9 @@ III.- Cuando el demandado se allane a las peticiones del actor, o el actor se co
 
 87.- La parte que presente documentos falsos o testigos falsos o sobornados, será siempre condenada en los gastos y costas y en los daños y perjuicios, sin que tengan aplicación en este caso las reglas de los artículos anteriores que pudieren beneficiarla.
 
-88.- Las costas serán reguladas por la parte a cuyo favor se hubieren declarado, y se substanciará el incidente con un escrito de cada una, resolviéndose dentro del tercer día. De esta decisión, si fuere apelable, se admitirá el recurso en el efecto devolutivo.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+88.- Las costas serán reguladas por la parte a cuyo favor se hubieren declarado, y se substanciará el incidente con un escrito de cada una, resolviéndose dentro del tercer día. Sin embargo, el Juez, de oficio, deberá revisar la regulación de las costas formulada, de conformidad con las disposiciones relativas de la Ley de Arancel. De esta decisión, si fuere apelable, se admitirá el recurso en efecto devolutivo.
 
 89.- En caso de apelación será condenada en las costas de ambas instancias, sin tener en cuenta la declaración a este respecto formulada en la primera la parte contra la cual hayan recaído dos sentencias adversas siempre que éstas sean conformes de toda conformidad. Cuando no concurran estas circunstancias, en la sentencia de segunda instancia se hará la condena en costas con sujeción a las reglas de los artículos anteriores.
 
@@ -2559,7 +2567,7 @@ V.- Si se tratare de sentencia definitiva, se dejará en el juzgado testimonio d
 
 I.- Sólo podrá admitirse la apelación en el efecto suspensivo en los siguientes casos:
 
-a )Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
+a) Cuando la ley de una manera expresa ordene que la apelación se admita en este efecto;
 
 b) De las sentencias definitivas que se dicten en juicios que versen sobre divorcio o nulidad del matrimonio, y demás cuestiones de familia o estado de las personas, salvo disposición en contrario;
 
@@ -3111,6 +3119,52 @@ IV.- En los casos de reembargo, el depositario del primer secuestro lo será res
 
 446.- En caso de que los ejecutores practiquen simultáneamente embargos ordenados en juicios distintos, los realizarán asociados y tendrán igual preferencia, levantándose un acta para cada expediente y correspondiendo el nombramiento del depositario al ejecutante en el embargo ordenado por el juzgado de primera instancia del ramo civil.
 
+### CAPITULO IV. Periodo final de la ejecución forzosa
+
+468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
+
+469.- La suma o bienes obtenidos en la ejecución, se integrará:
+
+I.- Con el efectivo y valores embargados;
+
+II.- Con lo obtenido como precio en la venta judicial;
+
+III.- Con el precio de las cosas adjudicadas, y
+
+IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
+
+470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
+
+I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
+
+II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
+
+III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
+
+IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
+
+471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
+
+Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
+
+472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
+
+473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
+
+I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
+
+II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
+
+a)Acreedores alimentistas;
+
+b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
+
+c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
+
+d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
+
+474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
+
 ### CAPITULO III. De las ventas y remates judiciales
 
 447.- Todas las ventas o remates judiciales, en cuanto a los términos y condiciones en que hayan de verificarse, se regirán por las disposiciones de este Capítulo, salvo los casos en que la ley disponga otra cosa.
@@ -3121,13 +3175,19 @@ IV.- En los casos de reembargo, el depositario del primer secuestro lo será res
 
 450.- Salvo los casos a que se refiere el artículo anterior, no podrá autorizarse ninguna venta o adjudicación judicial sin que previamente se practique avalúo de los bienes de que se trata. El avalúo deberá llevarse a cabo de acuerdo con lo que se dispone en los artículos siguientes.
 
-451.- El avalúo de los bienes inmuebles se practicará por el juez, de oficio, o a instancia de parte, en cualquiera de las formas siguientes:
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-I.- Mediante avalúo que practique el Banco Nacional Hipotecario Urbano y de Obras Públicas, S.A., o en su defecto, cualquiera otra institución de crédito, por conducto de su Departamento Fiduciario. El avalúo en este caso deberá practicarse tomando en cuenta el valor comercial que el inmueble tuviere en la fecha en que se haga, y se aceptará sin ulterior trámite el que así se produzca, y
+451.- El avalúo de los bienes inmuebles se practicará por el Juez, de oficio, o a instancia de parte, en cualquiera de las formas siguientes:
 
-II.- Mediante determinación del valor por los peritos que designen las partes y el juez, en la forma establecida para la prueba pericial. Los acreedores que aparezcan en el certificado de gravámenes que se pida para la venta, tendrán en este caso derecho para designar un perito que intervenga en el avalúo.
+I.- Mediante avalúo que practique una Institución de Crédito por conducto de su Departamento Fiduciario, o por la Dirección de Catastro y Registro Público del Estado.
 
-Tratándose de juicios hipotecarios, se aceptará también el precio que fijen de común acuerdo el acreedor y el deudor al exigirse la deuda; pero sin que este convenio pueda perjudicar los derechos de tercero.
+La valuación en este caso deberá practicarse tomando en cuenta el valor comercial que el inmueble tenga en la fecha en que se haga, y
+
+II.- Mediante determinación del valor por los peritos que designen las partes y el juez, en su caso, en la forma establecida para la prueba pericial. Sólo se admitirán como peritos a las personas que reúnan los requisitos establecidos en el artículo 292 de este Código. Los acreedores que aparezcan en el certificado de gravámenes que se pida para la venta tendrán derecho a designar un perito que intervenga en el avalúo.
+
+Tratándose de juicios hipotecarios, se aceptará también el precio que fijen de común acuerdo el acreedor y el deudor al exigirse el cumplimiento de la obligación, pero en ningún caso deberá ser inferior al valor comercial que tenga en ese momento y sin que perjudique derechos de terceros.
+
+Si el Juez considera que la valuación fijada por los peritos designados pudiese no corresponder al valor comercial, podrá ordenar la práctica de un nuevo avalúo en los términos de la fracción I de este artículo.
 
 452.- Para el avalúo de bienes muebles se observarán las siguientes reglas:
 
@@ -3185,7 +3245,9 @@ En estos casos, la venta o adjudicación podrá llevarse adelante una vez practi
 
 I.- Se efectuará siempre de contado, por medio de corredor, casa de comercio que expenda objetos o mercancías similares, o la persona que fije el juez, haciéndose saber, al convocar a compradores, el precio fijado;
 
-II.- Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el tribunal ordenará una rebaja de diez por ciento del valor fijado primitivamente, comunicando ésta a la persona o casa encargada de la operación, y si tampoco se lograre, se hará nueva rebaja, y así sucesivamente hasta obtener la realización;
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+II.- Si pasados diez días de puestos a la venta no se hubiere logrado ésta, el Tribunal ordenará una rebaja de diez por ciento del valor fijado primitivamente, comunicando esta determinación a la persona o casa encargada de la operación y si tampoco se lograre, se hará una nueva rebaja, que no podrá exceder del veinticinco por ciento del valor inicial fijado. Sin embargo, el ejecutante podrá pedir la adjudicación del bien o los bienes muebles sólo en el valor de la tasación inicial.
 
 III.- Efectuada la venta, el corredor o casa de comercio entregará los bienes al comprador, otorgándosele la factura correspondiente que firmará el ejecutado o el tribunal en su rebeldía;
 
@@ -3221,15 +3283,19 @@ VI.- Desde que se anuncie el remate y durante éste, se pondrán de manifiesto l
 
 458.- Para el remate judicial de inmuebles se observarán las siguientes reglas:
 
-I.- Será postura legal la que cubra las dos terceras partes del avalúo o del precio fijado a la finca hipotecada o a los bienes que se rematen;
+([N. DE E.] REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
-II.- La venta podrá realizarse pagando una parte del precio de contado y quedando a reconocer el saldo para que se cubra en un plazo que no exceda de un año. En este caso, el importe de contado deberá ser suficiente para pagar el crédito o créditos que hayan sido objeto del juicio y las costas. Cuando por el importe del avalúo no sea suficiente la parte de contado para cubrir el crédito o créditos y las costas, será postura legal las dos tercias partes del avalúo entregadas de contado;
+I.- Será postura legal la que cubra el valor fijado en el avalúo o el precio fijado convencionalmente a la finca hipotecada o a los bienes que se rematen; sin embargo, cuando el avalúo date de más de un año a la fecha de la celebración del remate, será necesaria la práctica de uno nuevo.
+
+II.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
 III.- El postor no podrá rematar para un tercero sino con poder y cláusula especial. Igualmente queda prohibido hacer postura, reservándose la facultad de declarar después el nombre de la persona para quien se hizo;
 
 IV.- Para tomar parte en la subasta deberán los licitadores consignar previamente en el establecimiento de crédito destinado al efecto, una cantidad igual, por lo menos, al veinte por ciento en efectivo del valor de los bienes que sirva de base al remate, sin cuyo requisito no serán admitidos. Se devolverán dichas consignaciones acto continuo al remate, excepto la que corresponda al mejor postor, en quien se haya fincado el remate, la cual se conservará en depósito como garantía del cumplimiento de su obligación, y en su caso, como parte del precio de venta, y
 
-V.- El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en la fracción anterior. El mismo derecho tendrán los acreedores hipotecarios y embargantes anteriores.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+V.- El ejecutante podrá tomar parte en la subasta y mejorar las posturas que se hicieren, sin necesidad de consignar el depósito prevenido en la fracción anterior. El mismo derecho tendrán los acreedores hipotecarios y embargantes anteriores; pero en ningún caso se hará la adjudicación de los bienes por un valor menor al tasado en el avalúo.
 
 459.- La diligencia de remate se llevará a cabo de acuerdo con lo siguiente:
 
@@ -3245,29 +3311,39 @@ V.- Hecha la declaración de la postura considerada preferente, el juez pregunta
 
 VI.- Al declarar fincado el remate, el juez, dentro de los tres días siguientes deberá dictar auto en el que resuelva si procede o no aprobarlo. Si se aprobare el remate, en el mismo auto se mandará otorgar la correspondiente escritura de adjudicación en favor del comprador, y la entrega de los bienes rematados. Una vez aprobado el remate, el comprador deberá consignar el saldo de la parte de contado de su postura, y si omitiere hacerlo, perderá el depósito a que se refiere la fracción IV del artículo 458, aplicándose el cincuenta por ciento a las partes por igual, y el cincuenta por ciento restante al fondo de administración de justicia, y
 
-VII.- No habiendo postor, quedará al arbitrio del ejecutante pedir que se le adjudiquen los bienes por las dos terceras partes del precio que sirvió de base para el remate, o que se saquen de nuevo a pública subasta, con rebaja de veinte por ciento.
+> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+VII.- No habiendo postor, quedará al arbitrio del ejecutante pedir que se le adjudiquen los bienes por el valor tasado en el avalúo, o que se saque de nuevo a pública subasta con rebaja del 12.5% (doce punto cinco por ciento).
 
 460.- Efectuada la subasta, y en tanto no quede firme el auto de aprobación del remate, sin que en ningún caso el término pueda exceder de diez días, podrán admitirse nuevas ofertas de contado, siempre que excedan en un veinte por ciento al precio obtenido en ella, y vayan garantizadas con depósito por el cincuenta por ciento de su importe. Hecha la oferta, se mandará dar vista por el plazo de tres días a la persona en quien fincó el remate, para el efecto de que si lo desea, la mejore. Si no se mejora, se aceptará la oferta.
 
-461.- La segunda almoneda se verificará de acuerdo con las mismas reglas del artículo anterior; pero el precio que servirá de base para el remate se rebajará en un veinte por ciento de la tasación. La segunda subasta se anunciará y celebrará en igual forma que la anterior.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-Si en la segunda subasta tampoco hubiera licitadores, el actor podrá pedir la adjudicación por las dos terceras partes del valor que les sirvió de base, o que se le entreguen en administración los bienes para aplicar sus productos al pago de intereses, capital y costas.
+461.- La segunda almoneda se verificará de acuerdo con las mismas reglas del artículo anterior; pero el precio que servirá de base para el remate se rebajará en un 12.5 % (doce punto cinco por ciento) de la tasación. La segunda subasta se anunciará y celebrará en igual forma que la anterior.
 
-462.- No conviniendo al ejecutante ninguno de los dos medios expresadas en el artículo que precede, podrá pedir que se celebre una tercera subasta, sin sujeción a tipo, que se llevará a cabo observándose el siguiente procedimiento:
+Si en la segunda subasta tampoco hubiera licitadores, el actor podrá pedir la adjudicación por el valor tasado en el avalúo, o que se le entreguen en administración los bienes para aplicar sus productos al pago de capital, intereses y costas.
 
-I.- Si hubiere poster que ofrezca las dos tercias partes del precio que sirvió de base para la segunda subasta, y que acepte las condiciones de la misma, fincará en él el remate sin más trámites;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
 
-II.- Si el postor no llegare a dos tercias partes, con suspensión del fincamiento del remate, se hará saber el precio ofrecido al deudor, el cual, dentro de los veinte días siguientes podrá pagar al acreedor, librando los bienes, o presentar persona que mejore la postura;
+462.- No conviniendo al ejecutante ninguna de las dos medidas expresadas en el artículo que precede, podrá pedir que se celebre una tercera subasta con reducción del veinticinco por ciento del valor fijado en el avalúo. La subasta se anunciará y celebrará en la misma forma que la anterior.
 
-III.- Transcurridos los veinte días sin que el deudor haya pagado o traído mejor postor, se aprobará el remate, mandando llevar a efecto la venta;
+I.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
-IV.- Los postores a que se refiere este artículo cumplirán con el requisito previo del depósito a que se refieren los artículos anteriores;
+II.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
-V.- Cuando dentro del término expresado se mejorare la postura, el juez mandará abrir nueva licitación entre los dos postores citándolos dentro del tercer día, para que en su presencia hagan las pujas, y se adjudicará la finca al que hiciere la proposición más ventajosa;
+III.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
-VI.- Si el primer postor, en vista de la mejora hecha por la segunda manifestare que renuncia sus derechos o no se presentare a la licitación, se fincará el remate en favor del segundo. Los mismo se hará contra el primero, si el segundo no se presenta a la licitación, y
+IV.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
 
-VII.- Si en la tercera subasta se hiciera postura admisible en cuanto al precio, pero ofreciendo pagar a plazos, o alterando alguna condición, se hará saber al acreedor, el cual podrá pedir dentro de los nueve días siguientes la adjudicación de los bienes en las dos tercias partes del precio de la segunda subasta, y si no hace uso de este derecho, se aprobará el remate en los términos ofrecidos por el postor.
+V.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
+
+VI.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
+
+VII.- (DEROGADA, P.O. 14 DE SEPTIEMBRE DE 1996)
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+Si en la tercera almoneda se hiciera postura admisible en cuanto al precio y fuere la única, pero ofreciendo pagar a plazos o alterando alguna condición, se le hará saber al acreedor, el cual podrá pedir dentro de los nueve días siguientes a la adjudicación de los bienes por el valor fijado en el avalúo. Si no hace uso de este derecho se aprobará el remate en los términos ofrecidos por el postor.
 
 463.- Dentro de los tres días que sigan a la fecha del remate, el juez dictará auto resolviendo si es de aprobarse o no la almoneda. Aprobado el remate, ordenará el juez el otorgamiento de la escritura de adjudicación de los bienes, y prevendrá al comprador que consigne ante el propio juez el precio del remate.
 
@@ -3300,52 +3376,6 @@ VII.- El acreedor podrá cesar en la administración de la finca, cuando lo crea
 466.- El juez tendrá durante la tramitación de los remates el poder de resolver y allanar cualquier dificultad que se presente.
 
 467.- Cualquier liquidación que tenga que hacerse respecto al pago de los gravámenes que afecten a los bienes vendidos, gastos de ejecución y demás, se regularán por el juez con un escrito de cada parte, y resolución dentro del tercero día.
-
-### CAPITULO IV. Periodo final de la ejecución forzosa
-
-468.- El periodo final de la ejecución forzosa, tratándose de sentencias, consistirá en el pago y aplicación de la suma obtenida y en la adjudicación de los bienes embargados que no hayan sido objeto de venta judicial.
-
-469.- La suma o bienes obtenidos en la ejecución, se integrará:
-
-I.- Con el efectivo y valores embargados;
-
-II.- Con lo obtenido como precio en la venta judicial;
-
-III.- Con el precio de las cosas adjudicadas, y
-
-IV.- Con las demás cantidades o cosas que estén sujetas a la ejecución forzosa.
-
-470.- El pago y distribución del caudal obtenido mediante la ejecución se hará de acuerdo con las reglas siguientes:
-
-I.- Si es uno solo el acreedor embargante y no intervienen otros acreedores, el juez, una vez convertida la sentencia a cantidad líquida, dispondrá el pago a su favor de lo que le corresponda por capital, intereses y costas. Para la integración de lo que corresponde al acreedor, se tomará en cuenta el precio de los bienes del deudor que le hayan sido adjudicados;
-
-II.- Si fuere uno solo el ejecutante y procediere la adjudicación de la finca hipotecada u otros bienes embargados por haberse renunciado legalmente a la subasta, o por otras causas, para el pago se tomará en cuenta el precio en que se hubiere hecho la adjudicación, descontándose los gastos de ejecución y gravámenes o créditos que hayan quedado reconocidos;
-
-III.- Si hubiere varios embargantes, o intervinieren otros acreedores, el juez distribuirá la suma obtenida ajustándose a las reglas de prelación, y
-
-IV.- El sobrante de la suma obtenida se entregará al deudor o al que demuestre tener derecho para ello.
-
-471.- Si al practicarse la distribución surge alguna controversia entre los acreedores que concurren o entre un acreedor y el deudor, acerca de la existencia y monto de uno o varios créditos o la existencia de derechos de prelación, el juez decidirá en una audiencia a la que serán citados todos los interesados para que se les oiga y presenten pruebas.
-
-Si la cuestión sólo afecta parte de la suma a distribuir, se proveerá desde luego a la de la parte no controvertida.
-
-472.- Además de los acreedores que tengan sobre los bienes embargados un derecho de prelación que resulte de los registros públicos o un derecho legal de prenda, y de los demás embargantes o reembargantes, quienes deberán ser citados, podrán intervenir en la distribución cualesquiera otros, aun los no privilegiados. A este efecto, formularán mediante escrito, que indicará el monto y título del crédito, la pretensión de participar en la suma obtenida con la ejecución.
-
-473.- Para determinar la prelación en la distribución de la suma obtenida se seguirán las siguientes reglas:
-
-I.- Si todos los acreedores intervinientes que justifiquen tener derecho sobre la suma obtenida, someten al juez, de común acuerdo, un plan para la distribución, se proveerá de conformidad, después de oído el deudor, y
-
-II.- Si no hubiere acuerdo, salvo lo que dispongan en contrario otras leyes, la distribución se hará conforme al siguiente orden de prelación:
-
-a)Acreedores alimentistas;
-
-b)Acreedores privilegiados con derechos reales de prenda o hipoteca en el orden de inscripción en los registros públicos o de fechas, si la inscripción no fuere necesaria;
-
-c)Embargantes en el orden que corresponda por concepto de prioridad en tiempo en la fecha de los embargos; excepto cuando el embargo se deba inscribir en el Registro Público, pues entonces regirá el orden de fechas de la inscripción, y
-
-d)Los demás acreedores no privilegiados intervinientes se sujetarán a concurso.
-
-474.- Si la distribución de la suma obtenida no alcanzare para cubrir el crédito del ejecutante, quedarán sus derechos expeditos para pedir nueva ejecución forzosa por el saldo insoluto.
 
 ### CAPITULO V. Declaración de validez y ejecución de sentencias extranjeras
 
@@ -4359,7 +4389,7 @@ Cuando medie autorización expresa del que ejerce la patria potestad o del tutor
 
 ### CAPITULO XIII. Declaración de ausencia y de presunción de muerte
 
-639.- A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez dictará las medidas conservativas a que se refieren los artículos 736, 738, 739 y 740 del Código Civil, y además mandará citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo en su caso copia de los edictos a los Cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un término que no bajará de tres meses ni pasará de seis para que se presente.
+639.- A petición de parte o del Ministerio Público, cuando una persona haya desaparecido y se ignore el lugar donde se halle y quien la represente, el juez dictará las medidas conservativas a que se refieren los artículos 736, 738, 739 y 740 del Código Civil, y además mandara citar al ausente por edictos publicados en los principales periódicos de su último domicilio, remitiendo en su caso copia de los edictos a los Cónsules mexicanos de aquellos lugares del extranjero en que se puede presumir que se encuentra o se tengan noticias de él. Al hacer la citación, se fijará al ausente un término que no bajará de tres meses ni pasará de seis para que se presente.
 
 Si cumplido el término antes mencionado, el citado no compareciere por sí ni por apoderado legítimo, ni por medio de tutor o pariente que pueda representarlo, se procederá al nombramiento de representante conforme a las reglas del Código Civil.
 
@@ -5595,7 +5625,7 @@ El Notario dará a reconocer estas declaraciones por medio de dos publicaciones 
 
 830.- La tramitación de intestado ante Notario no podrá iniciarse sino hasta que la autoridad judicial haya hecho la declaración de herederos, y siempre que todos los interesados sean mayores de edad, que lo pidan de común acuerdo y que no exista controversia alguna.
 
-831.- La tramitación ante Notario se hará del conocimiento del representante del Fisco para que tenga la intervención que le concede la ley.
+831.- La tramitación ante Notario se hará del conocimiento del representante Fisco para que tenga la intervención que le concede la ley.
 
 832.- Ya se trate de testamentarías o de intestados, practicado el inventario por el albacea y estando conformes con él todos los herederos, lo presentarán al Notario para que lo protocolice. Simultáneamente con el inventario se hará el avalúo, de acuerdo con las reglas establecidas en la Ley de Hacienda del Estado y en la Ley Federal del Impuesto sobre Herencias y Legados.
 
@@ -6031,7 +6061,7 @@ Si se declara improcedente o no probada la causa de recusación, se impondrá al
 
 1º.- Este Código entrará en vigor 60 días después de su publicación.
 
-2º.- Con las salvedades que se indican en los artículos siguientes, quedan derogados desde la fecha que entre en vigor este Código, el de Procedimientos Civiles para el Distrito Federal y Territorios de la Baja California expedido el quince de mayo de 1884, adoptado en el Estado. Se derogan, asimismo, todas las demás leyes y disposiciones en cuanto se opongan a la presente.
+2º - Con las salvedades que se indican en los artículos siguientes, quedan derogados desde la fecha que entre en vigor este Código, el de Procedimientos Civiles para el Distrito Federal y Territorios de la Baja California expedido el quince de mayo de 1884, adoptado en el Estado. Se derogan, asimismo, todas las demás leyes y disposiciones en cuanto se opongan a la presente.
 
 3º.- Todos los juicios terminados, así como sus efectos jurídicos, se rigen por la ley anterior.
 
@@ -6108,3 +6138,9 @@ Los juicios iniciados, pendientes de dictar sentencia en primera instancia, se r
 P.O. 7 DE JUNIO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
