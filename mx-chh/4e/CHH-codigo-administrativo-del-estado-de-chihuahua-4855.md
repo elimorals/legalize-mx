@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2002-09-25"
+last_updated: "2003-03-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 2003.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -8255,11 +8255,9 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
-
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1489.
 
@@ -8315,7 +8313,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1502.
 
@@ -8325,9 +8323,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1504.
 
@@ -8373,9 +8371,13 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LAS SECCIONES Y ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1515.
 
@@ -8403,7 +8405,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1521.
 
@@ -8421,13 +8423,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1525.
 
@@ -8447,7 +8445,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
 ###### ARTICULO 1529.
 
@@ -8467,7 +8465,7 @@ DECIMA PRIMERA PARTE
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1533.
 
@@ -8477,9 +8475,11 @@ DECIMA PRIMERA PARTE
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
+
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 ###### ARTICULO 1535.
 
@@ -9381,7 +9381,7 @@ Los organismos, funcionarios y empleados del Poder Ejecutivo del Estado, en los 
 
 ###### ARTICULO 1633.
 
-Todos los organismos, funcionarios o empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les están conferidas por la ley, los reglamentos o los acuerdos dictados por el Gobernador del Estado, debiendo cumplir en todo momento con los requisitos y elementos que para el acto administrativo establece este título.
+Todos los organismos, funcionarios y empleados, auxiliares o comisionados temporal o definitivamente para el desempeño de una función propia del Poder Ejecutivo, deberán ceñir su actuación a las facultades limitadas y expresas que les están conferidas por la ley, los reglamentos o los acuerdos dictados por el Gobernador del Estado, debiendo cumplir en todo momento con los requisitos y elementos que para el acto administrativo establece este título.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -9857,11 +9857,11 @@ La enajenación de los bienes a que se refiere el primer párrafo del Artículo 
 
 Se excluyen de dicho trámite las adquisiciones por parte de la Federación, de los Municipios o de los Organismos Descentralizados de la Federación, de los Estados y de los Municipios.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 8 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 1678.
 
-La subasta se hará sobre la base del avalúo que practique algún perito autorizado y, en su defecto, servirá de base el avalúo que mande practicar la Secretaría de finanzas y Administración.
+La subasta se hará sobre la base del avalúo que practique alguna institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Finanzas y Administración.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10714,3 +10714,13 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE MARZO DE 2003.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Todos aquellos especialistas en valuación que cuenten con título que los acredite como tales, podrán ejercer dicha especialidad en los términos de los anteriores preceptos legales, por los siguientes seis meses después de la publicación del presente decreto, siempre y cuando su registro ante el Departamento Estatal de Profesiones se encuentre en trámite. Concluido este término, deberá de cumplir todos los requisitos señalados. El trámite se comprobará con oficio expedido por el Departamento Estatal de Profesiones.
