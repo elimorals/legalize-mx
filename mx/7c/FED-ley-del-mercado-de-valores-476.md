@@ -4,7 +4,7 @@ identifier: "FED-ley-del-mercado-de-valores-476"
 country: "mx"
 rank: "ley"
 publication_date: "1975-01-02"
-last_updated: "1995-02-15"
+last_updated: "1995-04-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=476&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMV"
 
 LEY DEL MERCADO DE VALORES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE FEBRERO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 1995.
 
 Ley publicada en el Diario Oficial de la Federación el jueves 2 de enero de 1975.
 
@@ -37,6 +37,8 @@ DECRETO:
 El Congreso de los Estados Unidos Mexicanos decreta:
 
 LEY DEL MERCADO DE VALORES
+
+> <small>N. DE E. DE ACUERDO A LO ESTABLECIDO POR EL PRIMER PARRAFO DEL ARTICULO QUINTO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, SE DEBERA ENTENDER QUE LAS REFERENCIAS QUE OTRAS LEYES REGLAMENTOS O DISPOSICIONES HAGAN RESPECTO DE LA COMISION NACIONAL BANCARIA O DE LA COMISION NACIONAL DE VALORES, SE ENTENDERA QUE SE HACEN RESPECTO A LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995.</small>
 
 ### CAPITULO PRIMERO. Disposiciones Preliminares
 
@@ -288,7 +290,7 @@ La Comisión, para dictar la resolución que corresponda, deberá oír previamen
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-Sin perjuicio de la medida precautoria a que se refiere el párrafo inmediato anterior, la Comisión Nacional de Valores deberá recabar previamente la opinión de la Comisión Nacional Bancaria, o de la Comisión Nacional de Seguros y Fianzas para resolver sobre la suspensión o cancelación del registro de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas.
+Sin perjuicio de la medida precautoria a que se refiere el párrafo inmediato anterior, la Comisión Nacional de Valores deberá recabar previamente la opinión de la Comisión Nacional Bancaria y de Valores, o de la Comisión Nacional de Seguros y Fianzas para resolver sobre la suspensión o cancelación del registro de valores emitidos o garantizados por instituciones u organizaciones auxiliares del crédito o instituciones de seguros y fianzas.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -652,7 +654,7 @@ La disolución y liquidación se regirá por lo dispuesto en los Capítulos X y 
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria en la suspensión de pagos o quiebra de las instituciones de crédito.
+a) La Comisión Nacional de Valores tendrá las mismas atribuciones que tiene la Comisión Nacional Bancaria y de Valores en la suspensión de pagos o quiebra de las instituciones de crédito.
 
 > <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
 
@@ -1356,17 +1358,15 @@ Cada bolsa formulará el arancel al que deberán ajustarse las remuneraciones qu
 
 ###### ARTICULO 40.
 
-La Comisión Nacional de Valores es el organismo encargado, en los términos de la presente Ley y de sus disposiciones reglamentarias, de regular el mercado de valores y de vigilar la debida observancia de dichos ordenamientos.
+(DEROGADO POR ARTICULO SEGUNDO. TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 41.
 
 La Comisión Nacional de Valores tendrá, además de las facultades que se le atribuyen en otros artículos de la presente Ley, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+I.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-I.- Inspeccionar y vigilar el funcionamiento de las casas de bolsa, especialistas bursátiles y bolsas de valores.
-
-II.- Inspeccionar y vigilar a los emisores de valores inscritos en el Registro Nacional de Valores e Intermediarios, solo respecto de las obligaciones que les impone la presente Ley.
+II.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 8 DE FEBRERO DE 1985)</small>
 
@@ -1388,25 +1388,19 @@ El incumplimiento de cualquiera de los requisitos y la inobservancia de las disp
 
 La autorización a que se refiere este precepto es independiente de las que, para efectos distintos, dispongan otras leyes para el desempeño de la actividad valuatoria.
 
-III.- Investigar actos que hagan suponer la ejecución de operaciones violatorias de esta Ley, pudiendo al efecto ordenar visitas de inspección a los presuntos responsables.
+III.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-IV.- Establecer criterios de aplicación general acerca de los actos u operaciones que se consideren contrarios a los usos bursátiles o sanas prácticas del mercado, y dictar las medidas necesarias para que las casas de bolsa, especialistas bursátiles y las bolsas de valores, ajusten sus actividades y operaciones a la presente Ley, las disposiciones de carácter general que de ella deriven y a los referidos usos y sanas prácticas del mercado.
+IV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
 V.- Dictar las disposiciones de carácter general relativas al establecimiento de índices que relacionen la estructura administrativa y patrimonial de las casas de bolsa y especialistas bursátiles, con su capacidad máxima para realizar las operaciones que les autoriza la presente Ley, tomando en cuenta el volumen y riesgo de dichas operaciones, los intereses del público inversionista y las condiciones prevalecientes en el mercado.
 
-VI.- Ordenar la suspensión de cotizaciones de valores, cuando en su mercado existan condiciones desordenadas o se efectúen operaciones no conformes a sanos usos o prácticas.
+VI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+VII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-VII.- Intervenir administrativamente a las casas de bolsa, especialistas bursátiles y bolsas de valores, con objeto de suspender, normalizar o resolver las operaciones que pongan en peligro su solvencia, estabilidad o liquidez, o aquellas violatorias de la presente Ley o de las disposiciones de carácter general que de ella deriven.
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-VIII.- Ordenar la suspensión de operaciones, así como intervenir administrativamente a las personas o empresas que, sin la autorización correspondiente, realicen operaciones de intermediación en el mercado de valores o efectúen operaciones de oferta pública respecto de valores no inscritos en el Registro Nacional de Valores e Intermediarios, o bien proceder a la clausura de sus oficinas.
+VIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 > <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
 
@@ -1424,161 +1418,53 @@ La falta de veracidad, así como las acciones u omisiones dolosas que sean imput
 
 X.- Dictar las disposiciones generales, a las que deberán sujetarse las casas de bolsa y especialistas bursátiles en la aplicación de su capital global, así como las bolsas de valores en la aplicación de su capital contable.
 
-XI.- Formar la estadística nacional de valores.
+XI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XII.- Hacer publicaciones sobre el mercado de valores.
+XII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XIII.- Ser órgano de consulta del Gobierno Federal y de los organismos descentralizados en materia de valores.
+XIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XIV.- Certificar inscripciones que obren en el Registro Nacional de Valores e Intermediarios.
+XIV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+XV.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XV.- Dictar normas de registro de operaciones a las que deberán ajustarse las casas de bolsa, especialistas bursátiles y bolsas de valores.
+XVI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+XVII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XVI.- Determinar los días en que las casas de bolsa, especialistas bursátiles, bolsas de valores e instituciones calificadoras de valores, deberán cerrar sus puertas y suspender sus operaciones.
+XVIII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
+XIX.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XVII.- Actuar como conciliador y proponer la designación de árbitros en conflictos originados por operaciones que hayan contratado las casas de bolsa y, en su caso, los especialistas bursátiles con su clientela, con arreglo a esta Ley.
+XX.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
+XXI.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-XVIII.- Imponer sanciones administrativas por infracciones a la presente Ley o a las disposiciones de carácter general expedidas conforme a la misma y también por infracciones a las demás leyes que regulan las actividades, instituciones y personas sujetas a su inspección y vigilancia, así como a las disposiciones derivadas de dichos ordenamientos.
+XXII.- (DEROGADA POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-> <small>(ADICIONADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-XIX.- Participar en organismos internacionales en la materia de su competencia y celebrar convenios con dichos organismos, así como con entidades reguladoras de mercados de valores en otros países, con sujeción a las normas legales aplicables y la aprobación de las autoridades correspondientes.
-
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-XX.- Proporcionar la asistencia que le soliciten las entidades reguladoras a que se refiere la fracción anterior, en ejercicio de sus facultades de inspección y vigilancia, con la extensión y alcance necesarios para recabar de cualquier persona la información y documentación que sea objeto de la solicitud. El ejercicio de esta facultad quedará a juicio de la propia Comisión y siempre que tenga acuerdo previamente suscrito al efecto con dichas entidades reguladoras, así como que prevalezca el principio de reciprocidad.
-
-La Comisión igualmente podrá solicitar a otras autoridades y dependencias oficiales la información y documentación que obre en su poder, a fin de atender las solicitudes de asistencia correspondientes.
-
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-XXI.- Dictar las disposiciones de carácter general relativas a la forma y términos en que las sociedades emisoras que dispongan de información privilegiada tendrán la obligación de hacerla de conocimiento del público.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-XXII.- Las que señalan otros ordenamientos.
-
-> <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-Las facultades a que se refieren las fracciones II, III y VIII no comprenden atribuciones respecto a instituciones de crédito, organizaciones auxiliares del crédito e instituciones de seguros y fianzas cuya inspección y vigilancia corresponde a la Comisión Nacional Bancaria y a la Comisión Nacional de Seguros y Fianzas, según el ámbito de su competencia.
+> <small>(DEROGADO ULTIMO PARRAFO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)</small>
 
 ###### ARTICULO 42.
 
-Son órganos de la Comisión Nacional de Valores: la Junta de Gobierno, la Presidencia de la Comisión y el Comité Consultivo.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 43.
 
-La Junta de Gobierno estará integrada por once vocales. La Secretaría de Hacienda y Crédito Público designará cinco vocales, uno de los cuales será Presidente de la Comisión. El Banco de México designará dos vocales; la Secretaría de Comercio y Fomento Industrial, la Comisión Nacional Bancaria, la Comisión Nacional de Seguros y Fianzas y Nacional Financiera, S.N.C., designarán cada una un vocal.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 4 DE ENERO DE 1990)</small>
-
-Por cada representante propietario se nombrará un suplente.
-
-Los miembros propietarios y suplentes de la Junta de Gobierno podrán ser removidos libremente por las entidades que los hayan designado.
-
-La Junta de Gobierno contará con un Secretario.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 44.
 
-Corresponde a la Junta de Gobierno:
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-I.- El ejercicio de las facultades de la Comisión, sin perjuicio de las asignadas al Presidente, a quien podrá delegar las atribuciones señaladas en los artículos 2o., último párrafo, 14 y 16, así como las previstas en las fracciones VI y XVIII del artículo 41 de esta Ley. En el caso de imposición de multas administrativas, dicha atribución también podrá delegarse en otros servidores públicos de la Comisión, considerando la naturaleza de la infracción o el monto de las multas. A propuesta del Presidente de la Comisión, las multas administrativas podrán ser condonadas parcial o totalmente por la Junta de Gobierno.
-
-II.- Conocer y, en su caso, aprobar los presupuestos anuales de ingresos y egresos, y los informes sobre el ejercicio del presupuesto.
-
-III.- Examinar y, en su caso, aprobar los informes generales y especiales que debe presentar el Presidente de la Comisión, sobre la situación del mercado y las labores de la misma Comisión.
-
-IV.- Dictar las disposiciones generales que, conforme a esta Ley, compete expedir a la Comisión Nacional de Valores.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-V.- Aprobar los nombramientos de vicepresidentes, personal directivo y árbitros a propuestas de su Presidente. La Secretaría de la Contraloría General de la Federación designará el auditor o auditores externos.
-
-VI.- Aprobar los reglamentos, instructivos y disposiciones a que se refiere la fracción VIII del artículo 45.
-
-> <small>(REFORMADA, D.O.F. 4 DE ENERO DE 1990)</small>
-
-VII.- Establecer los criterios a que se refieren los artículos 2o. y 41, fracción IV, así como procedimientos para que se resuelvan de manera expedita todos los asuntos que son competencia de la Comisión.
-
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-Sin perjuicio de lo establecido por ésta u otras leyes, la Comisión Nacional de Valores, a través de disposiciones de carácter general, precisará los asuntos y los plazos que habrán de observarse para que, una vez integrado el expediente respectivo o al haberse satisfecho las observaciones que, en su caso, se formulen a cada solicitud, se dicten las resoluciones que correspondan. Transcurridos los plazos previstos sin que se resuelva lo conducente, se considerará que la citada Comisión otorgó la autorización que se hubiere solicitado.
-
-VIII.- Designar a su secretario.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 45.
 
-El Presidente tendrá a su cargo la dirección administrativa de la Comisión y ejercerá sus funciones directamente o por medio de los Vicepresidentes, directores generales, delegados y demás servidores públicos de la propia Comisión. En las ausencias temporales del Presidente será sustituido por el Vicepresidente que designe al efecto.
-
-> <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
-
-Corresponde al Presidente de la Comisión:
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-I.- El ejercicio de las facultades de inspección y vigilancia a que se refieren las fracciones I a III y IX del artículo 41, así como las previstas en las fracciones XI, XII, XIV, XVII y XX del mismo precepto legal.
-
-II.- Representar a la Comisión en toda clase de asuntos de su competencia, estando investido de las más amplias facultades que para ese caso exigen las leyes substantivas o procesales que la rigen, incluidas las de rendir a nombre de la Comisión y de la Junta de Gobierno los informes de ley y producir alegatos o interponer recursos, en los juicios de amparo en que sean señaladas como autoridades responsables, así como las que conforme a la ley requieran cláusula especial, comprendiendo las de desistirse de cualquier recurso o formular querellas y conceder perdón en el orden penal.
-
-> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
-
-El Presidente de la Comisión podrá ejercer esta representación directamente o por medio de los funcionarios e inspectores de la propia Comisión, ajustándose a los términos de esta Ley, de su reglamento y de los acuerdos correspondientes de la Junta de Gobierno.
-
-> <small>(REFORMADA, D.O.F. 27 DE DICIEMBRE DE 1985)</small>
-
-III.- Ejecutar los acuerdos de la Junta de Gobierno, con la facultad de delegar en funcionarios de la Comisión el encargo de notificar dichos acuerdos.
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-IV.- Designar interventor en los casos en que se ejerzan las atribuciones previstas en los artículos 9o. y 41, fracciones VII y VIII de esta Ley, así como ordenar la clausura a que se refiere la fracción VIII del citado artículo 41.
-
-En estos supuestos, el Presidente deberá rendir a la Junta de Gobierno un informe justificado sobre tales medidas.
-
-> <small>(REFORMADA, D.O.F. 18 DE JULIO DE 1990)</small>
-
-V. Formular anualmente el presupuesto de ingresos y egresos de la Comisión, el cual una vez probado por la Junta de Gobierno, será sometido a la autorización de la Secretaría de Hacienda y Crédito Público.
-
-Las cuotas que perciba la Comisión con motivo de las funciones que realiza y su presupuesto de egresos, no formarán parte de los ingresos del Gobierno Federal ni figurarán en los presupuestos de éste.
-
-VI.- Informar a la Junta de Gobierno sobre el ejercicio del presupuesto, con la periodicidad que la misma determine.
-
-VII.- Formular y presentar a la Junta de Gobierno, informes oportunos sobre la situación del mercado de valores, así como informes periódicos sobre las labores desarrolladas por la Comisión, cuya frecuencia será establecida por la propia Junta.
-
-VIII.- Presentar a la Junta de Gobierno proyectos de: reglamento interior, instructivos de labores, controles internos y externos, y en general, de disposiciones relacionadas con la organización de la Comisión y con las atribuciones de sus dependencias.
-
-IX.- Proveer lo necesario para el cumplimiento de los programas y el correcto ejercicio de los presupuestos de gastos, aprobados por la Junta de Gobierno.
-
-> <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
-
-X.- Proponer a la Junta de Gobierno el nombramiento de los vicepresidentes, personal directivo y delegados regionales de la Comisión, así como nombrar al personal técnico y administrativo de la misma, señalándoles sus atribuciones y remuneraciones con sujeción a los reglamentos, instructivos y presupuestos en vigor.
-
-Las Delegaciones Regionales podrán realizar, dentro del área de su jurisdicción geográfica, las funciones que se determinen en el Reglamento Interior de la Comisión.
-
-XI.- Las demás que le delegue la Junta de Gobierno y las que le fijen esta Ley y los reglamentos respectivos.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1980)</small>
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
 ###### ARTICULO 46.
 
-El Comité Consultivo estará integrado por el número de miembros que determine la Comisión Nacional de Valores. En todo caso, dicho Comité contará con un miembro nombrado conjuntamente por las bolsas de valores del país y cinco más designados, respectivamente, por la Asociación Mexicana de Casas de Bolsa, la Asociación de Banqueros de México, la Confederación de Cámaras Industriales de los Estados Unidos Mexicanos, la Confederación Nacional de Cámaras de Comercio y la Asociación Mexicana de Instituciones de Seguros.
+(DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, D.O.F. 28 DE ABRIL DE 1995)
 
-El Presidente de la Comisión lo será del Comité Consultivo. Este último se reunirá, a convocatoria del primero, en sesiones ordinarias por lo menos cada tres meses y en sesiones extraordinarias cuando sea conveniente.
-
-El Comité Consultivo conocerá de los asuntos que le someta el Presidente de la Comisión, relativos a la adopción de criterios y políticas de aplicación general en materia de mercado de valores.
+> <small>N. DE E. DE ACUERDO A LO PREVISTO POR EL TERCER PARRAFO DEL ARTICULO QUINTO TRANSITORIO DE LA LEY DE LA COMISION NACIONAL BANCARIA Y DE VALORES, LAS REFERENCIAS PREVISTAS EN ESTE ARTICULO A LAS FRACCIONES VII Y VIII DEL ARTICULO 41 DEL MISMO ORDENAMIENTO, SE ENTENDERAN HECHAS A LAS FRACCIONES XV Y XVII DEL ARTICULO 4 DE LA PRESENTE LEY, D.O.F. 28 DE ABRIL DE 1995.</small>
 
 ###### ARTICULO 47.
 
@@ -1858,7 +1744,7 @@ VIII.- La disolución y liquidación de estas instituciones se regirá por lo di
 
 > <small>(REFORMADO, D.O.F. 4 DE ENERO DE 1990)</small>
 
-a) Las facultades que, conforme a la ley, tiene la Comisión Nacional Bancaria en la suspensión de pagos o quiebra de las instituciones de crédito;
+a) Las facultades que, conforme a la ley, tiene la Comisión Nacional Bancaria y de Valores en la suspensión de pagos o quiebra de las instituciones de crédito;
 
 b) Las funciones de vigilancia, respecto de los síndicos y liquidadores, que tienen atribuidas en relación con las instituciones para el depósito de valores;
 
@@ -3125,3 +3011,23 @@ III.- Para los efectos de la fracción anterior el costo promedio de las accione
 QUINTO.- Los consejeros y comisarios de la serie "C", de las instituciones de crédito y sociedades controladoras, continuarán en el desempeño de sus funciones mientras no se realicen las designaciones que correspondan a la nueva estructura de capital y los designados tomen posesión de sus cargos.
 
 SEXTO.- Durante el período establecido en el tratado o acuerdo internacional aplicable, las casas de bolsa Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la casa de bolsa Filial emisora.
+
+D.O.F. 28 DE ABRIL DE 1995.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1o. de mayo de 1995.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan . . . los artículos 40, 41 fracciones I, II, III, IV, VI a VIII, IX a XXII y último párrafo y 42 a 46 de la Ley del Mercado de Valores . . .
+
+###### ARTICULO QUINTO.
+
+Las referencias que otras leyes, reglamentos o disposiciones hagan respecto de la Comisión Nacional Bancaria o de la Comisión Nacional de Valores, se entenderá que se hacen respecto a la Comisión Nacional Bancaria y de Valores.
+
+Asimismo, cualquier referencia a los titulares o demás servidores públicos de la Comisión Nacional Bancaria o de la Comisión Nacional de Valores, se entenderá hecha al Presidente y demás servidores públicos de la Comisión Nacional Bancaria y de Valores.
+
+Las referencias previstas en el artículo 47 de la Ley del Mercado de Valores a las fracciones VII y VIII del artículo 41 del mismo ordenamiento, se entenderán hechas a las fracciones XV y XVII del artículo 4 de la presente Ley, respectivamente. A su vez, la referencia contenida en el artículo 40 de la Ley de Sociedades de Inversión a la fracción IV del artículo 45 de la Ley del Mercado de Valores, se entenderá hecha a la fracción III del artículo 16 de esta Ley.
