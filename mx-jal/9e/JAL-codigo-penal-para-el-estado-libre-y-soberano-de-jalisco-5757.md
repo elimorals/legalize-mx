@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1996-08-27"
+last_updated: "1997-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE AGOSTO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1997.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -233,7 +233,9 @@ II. Relegación;
 
 III. Reclusión de enajenados, sordomudos, ciegos, degenerados y toxicómanos;
 
-IV. Confinamiento;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+IV. El confinamiento y el arraigo;
 
 V. Prohibición de ir a lugar determinado o de residir en él;
 
@@ -285,6 +287,8 @@ La relegación consiste en la retención de los delincuentes en una colonia pena
 
 El Estado podrá celebrar convenios para utilizar las colonias penales de otras Entidades o las de la Federación.
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
 ### CAPITULO III. Relegación
 
 ###### Art. 23.
@@ -293,7 +297,13 @@ El confinamiento consiste en la obligación de residir en determinado lugar y no
 
 Esta pena solo procederá en los delitos contra la Seguridad Interior del Estado.
 
-### CAPITULO IV. Confinamiento
+> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+###### Art. 23 Bis.
+
+El arraigo es la medida de seguridad que consiste en la obligación de recibir en determinado lugar y no salir de él, por el temor fundado de que se ausente u oculte el presunto responsable en la comisión de un hecho delictuoso, y las demás personas que puedan declarar acerca del delito, de sus circunstancias o de la persona del acusado.
+
+### CAPITULO IV. Del confinamiento y el arraigo
 
 ###### Art. 24.
 
@@ -2015,7 +2025,7 @@ Cuando las amenazas sean leves, se exigirá caución de no ofender, pero si el r
 
 Si cumple la amenaza, se le impondrán además las penas que procedan por los delitos que resulten.
 
-### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
+### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2037,7 +2047,7 @@ Se impondrán de seis meses a seis años de prisión al que exija para sí o par
 
 Si lo que se exigió fue la entrega de numerario, uno o más objetos o documentos y ésta se realiza, se impondrá la pena del delito de extorsión.
 
-### CAPITULO II. De los Delitos Cometidos por los Ciudadanos
+### CAPITULO III. Delitos cometidos por los Funcionarios Electorales
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2047,7 +2057,7 @@ Se impondrán de seis meses a dos años de prisión al que, sin motivo justifica
 
 Si en el allanamiento media la furtividad, el engaño o la violencia, la pena aplicable será de uno a tres años de prisión.
 
-### CAPITULO V. Delitos cometidos por los Servidores Públicos
+### CAPITULO VI. Disposiciones Comunes
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2057,7 +2067,7 @@ Se impondrán de uno a ocho años de prisión y multa por el importe de cinco a 
 
 Las sanciones a que se refiere este artículo se impondrán independientemente de las penas que procedan por los demás delitos que resulten.
 
-### CAPITULO VI. Disposiciones Comunes
+### CAPITULO V. Delitos cometidos por los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 1995)</small>
 
@@ -2407,7 +2417,15 @@ Se considerará como robo para los efectos de la sanción:
 
 I. La disposición o destrucción de una cosa mueble, ejecutada intencionalmente por su dueño, si se halla en poder de otro legítimamente por orden de autoridad o mediante contrato público o privado; y
 
-II. El aprovechamiento de energía eléctrica, agua o cualquier otro elemento, ejecutado sin derecho y sin consentimiento de quien legalmente puede autorizar o disponer de él.
+II. El aprovechamiento de energía eléctrica, agua o cualquier otro elemento, ejecutado sin derecho y sin consentimiento de quien legalmente puede autorizar o disponer de él;
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+III. La venta, desmantelamiento, comercialización de las partes que los compongan, alteración de la documentación de los vehículos automotores a que se refiere la fracción IX del artículo 236; y
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+IV. La utilización de los vehículos a que se refiere la fracción IX del artículo 236 para cometer otros ilícitos o su traslado fuera del estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE JULIO DE 1989)</small>
 
@@ -2457,7 +2475,9 @@ VII. Cuando los responsables lleven armas, sin que en el caso hagan uso de ellas
 
 VIII. El objeto, del robo sean postes, alambres y otros materiales de las cercas de los sembradíos y potreros, dejando éstos desprotegidos en todo o en parte; sean bombas, motores, o partes de estos implementos, o cualquier objeto o aparato que esté usándose en la agricultura o en la ganadería;
 
-IX. Recaiga sobre vehículos estacionados en la vía pública o en estacionamiento público o privado;
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 1997)</small>
+
+IX. Recaiga sobre vehículos automotores;
 
 X. Se cometa en edificio, vivienda, apartamiento o cuarto que, en el momento de ocurrir el delito, se encuentren ocupados, comprendiéndose en esta denominación no sólo los que estén fijos en la tierra, sino también los movibles, sea cual fuera la materia de que estén construidos;
 
@@ -2465,7 +2485,7 @@ X. Se cometa en edificio, vivienda, apartamiento o cuarto que, en el momento de 
 
 XI. Cuando la violencia a que se refiere la fracción I de este artículo se ejerza valiéndose de armas o en el caso de que el sujeto activo fuere diestro en artes marciales o la víctima u ofendido fuere menor de edad tenga algún problema de discapacidad física o psíquica o los activos sean dos o más y generen una desproporción física del pasivo hacia los activos;
 
-XII. Cuando recaiga sobre vehículos automotores que se encuentren ocupados;
+XII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 1997)
 
 XIII. Se cometa valiéndose de la nocturnidad, o llevándolo a cabo mediante fractura, o forzándolo de cualquier manera, horadación, excavación o escalamiento, sean los sujetos tres o más, se finjan servidores públicos o supongan una orden de alguna autoridad;
 
@@ -2545,27 +2565,31 @@ III. De cuatro a once años de prisión y multa por el importe de veinte a noven
 
 IV. De tres a seis años de prisión, cuando no pudiera determinarse el valor de lo robado o, si por su naturaleza, no fuere estimable en dinero.
 
-B) Si intervienen alguna de las calificativas que se consignan en las fracciones X, XIII, XIV y XV, del artículo anterior, la pena será:
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997)</small>
 
-I. De tres a ocho años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado no exceda del importe de trescientos sesenta días de salario;
+B) Si interviene alguna de las calificativas que se consignan en las fracciones X, XIII, XIV y XV, del artículo anterior, la pena será:
 
-II. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+I. De cinco a diez años de prisión y multa por el importe de quince a sesenta días de salario, cuando el valor de lo robado no exceda del importe de trescientos setenta días de salario;
 
-III. De cinco años seis meses a doce años de prisión y multa por el monto de treinta a cien días de salario, cuando el valor de lo robado exceda del importe de mil días de salario; y
+II. De seis a doce años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
 
-IV. De tres años seis meses a siete años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+III. De ocho años seis meses a quince años de prisión y multa por el monto de treinta a cien días de salario, cuando el valor de lo robado exceda del importe de mil días de salario; y
 
-C) Si intervienen alguna de las calificativas que se consignan en las fracciones VII, IX, XI y XII del artículo anterior, la pena será:
+IV. De cinco años seis meses a nueve años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
 
-I. De cuatro a nueve años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
+(REFORMADO, P.O. 27 DE DICIEMBRE DE 1997) (F. DE E., P. O. 23 DE ABRIL DE 1998)
 
-II. De cinco años seis meses a once años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
+C) Si intervienen alguna de las calificativas que se consignan en las fracciones VII, IX y XI del artículo anterior, la pena será:
 
-III. De siete a trece años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario; y
+I. De seis a once años de prisión y multa por el importe de veinte a ochenta días de salario, cuando el valor de lo robado no exceda del monto de trescientos sesenta días de salario;
 
-IV. De cuatro a ocho años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+II. De siete años seis meses a trece años de prisión y multa por el importe de treinta a cien días de salario, cuando el valor de lo robado exceda del monto señalado en la fracción anterior, pero no del que se establece en la siguiente;
 
-En todos los casos de robo, para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por perito.
+III. De nueve a quince años de prisión y multa por el importe de cuarenta a ciento veinte días de salario, cuando el valor de lo robado exceda del monto de mil días de salario;
+
+IV. De seis a diez años de prisión, cuando no pudiere determinarse el valor de lo robado, o si por su naturaleza, no fuere estimable en dinero.
+
+En todos los casos de robo para estimar su cuantía o determinar que no es estimable en dinero, se atenderá únicamente al valor intrínseco de la cosa robada, fijado primordialmente por Perito.
 
 ###### Art. 237.
 
@@ -2919,7 +2943,7 @@ X. Permita o tolere que un ciudadano emita su voto, a sabiendas de que no cumple
 
 XI. Propale dolosamente noticias falsas en torno al desarrollo de la jornada electoral o respecto de sus resultados.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 269.
 
@@ -2947,7 +2971,7 @@ II. Condicione la prestación de un servicio público, el cumplimiento de progra
 
 III. Destine fondos, bienes o servicios que tenga a su disposición con motivo de su cargo tales como vehículos, inmuebles, equipos y servicios, al apoyo de un partido político o candidato, sin perjuicio de las penas que puedan corresponder por otros delitos, o proporcione ese apoyo con sus subordinados, usando el tiempo correspondiente a las labores de éstos para que lo presten al servicio de un partido político o candidato.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 2 DE FEBRERO DE 1995)</small>
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 1995)</small>
 
 ###### Art. 271.
 
@@ -3156,3 +3180,7 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 27 DE AGOSTO DE 1996.
 
 UNICO.- EL presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 27 DE DICIEMBRE DE 1997.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
