@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1941-06-26"
+last_updated: "1944-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO Y TERRITORIOS FEDERALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 26 DE JUNIO DE 1941.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 24 DE MARZO DE 1944.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1934,7 +1934,7 @@ IV. La conminación de que si el jurado no concurre, pagará una multa de veinte
 
 ###### ARTICULO 336.
 
-Los Comisarios del Juez Presidente de Debates, darán cuenta por medio de informe en autos, precisamente antes de la hora de la audiencia, del resultado de las citas que se les hubiere ordenado entregar, y por escrito la policía.
+Los Comisarios del Juez Presidente de Debates darán, cuenta por medio de informe en autos, precisamente antes de la hora de la audiencia, del resultado de las citas que se les hubiere ordenado entregar, y por escrito la policía.
 
 La falta de cumplimiento de esta prevención, será sancionada por el Juez Presidente de Debates con multa hasta de cincuenta pesos, sin recurso alguno.
 
@@ -2384,6 +2384,10 @@ Tampoco procederán los recursos interpuestos por personas que no estén expresa
 
 El recurso de revocación procede siempre que no se conceda por este Código el de apelación.
 
+> <small>(ADICIONADO, D.O.F. 24 DE MARZO DE 1944)</small>
+
+Sin embargo, ningún Juez ni Tribunal podrá revocar la sentencia que dicte.
+
 ###### ARTICULO 413.
 
 Interpuesto en el acto de la notificación o al día siguiente hábil, el Tribunal o Juez ante quien se interponga lo admitirá o desechará de plano si creyere que no es necesario oír a las partes. En caso contrario las citará a audiencia verbal, que se verificará dentro de las cuarenta y ocho horas siguientes y dictará en ellas su resolución, contra la que no se da recurso alguno.
@@ -2422,7 +2426,9 @@ III. El ofendido o sus legítimos representantes, cuando aquél o éstos coadyuv
 
 Son apelables:
 
-I. Las sentencias definitivas, salvo los casos en que esta Ley expresamente determine lo contrario;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 1944)</small>
+
+I. Las sentencias definitivas, hecha excepción de las que se pronuncien en los procesos que se instruyan por vagancia y malvivencia.
 
 II. Los autos que se pronuncien sobre cuestiones de jurisdicción o competencia; los que mandan suspender o continuar la instrucción; el de formal prisión o el que la niegue; el que conceda o niegue la libertad;
 
@@ -4173,3 +4179,7 @@ La presente ley comenzará a regir a partir de su publicación en el "Diario Ofi
 ###### ARTICULO SEGUNDO.
 
 Se abrogan los Capítulos IV Título Tercero y VIII Título Séptimo, y fracción XVI del artículo 674 del Código de Procedimientos Penales para el Distrito y Territorios Federales.
+
+D.O.F. 24 DE MARZO DE 1944.
+
+Artículo Transitorio.- El presente Decreto entrará en vigor tres días después de la fecha de su publicación en el "Diario Oficial".
