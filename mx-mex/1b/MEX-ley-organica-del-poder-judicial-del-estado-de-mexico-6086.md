@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "1995-09-08"
+last_updated: "1996-09-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 13 DE SEPTIEMBRE DE 1996.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -379,15 +379,13 @@ XIII. Las demás que le confieran las leyes y otras disposiciones legales.
 
 ### CAPITULO CUARTO. De las Salas del Tribunal Superior de Justicia
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+
 ###### Artículo 43.
 
-El Tribunal Superior de Justicia ejercerá sus funciones en el número de salas regionales que determine el Consejo de la Judicatura, distribuidas de acuerdo con sus necesidades en tres regiones geográficas: Toluca, Tlalnepantla y Texcoco y se integrarán a ellas, salas civiles, que conocerán de los asuntos civiles y mercantiles; salas penales, que conocerán de los asuntos de este ramo y salas familiares para los asuntos de esta materia. Cada sala se integrará por tres magistrados y tendrá un número progresivo.
+El Tribunal Superior de Justicia ejercerá sus funciones en el número de salas regionales que determine el Consejo de la Judicatura, distribuidas en las regiones geográficas que éste estime necesarias; podrán integrarse a ellas, de acuerdo con las necesidades de la función jurisdiccional: salas civiles, que conocerán de los asuntos civiles y mercantiles; salas penales, que conocerán de los asuntos de este ramo; y salas familiares, para los asuntos de esta materia.
 
-A las salas regionales de Toluca quedan adscritos los juzgados de primera instancia y de cuantía menor de los distritos judiciales de: El Oro, Ixtlahuaca, Jilotepec, Lerma, Sultepec, Temascaltepec, Tenango, Tenancingo, Toluca y Valle de Bravo
-
-A las salas regionales de Tlalnepantla quedan adscritos los juzgados de primera instancia y de cuantía menor de los distritos judiciales de: Cuatitlán, Tlalnepantla y Zumpango.
-
-A las salas regionales de Texcoco quedan adscritos los juzgados de primera instancia y de cuantía menor de los distritos judiciales de: Chalco, Otumba y Texcoco.
+Cada sala se integrará por tres magistrados y tendrá un número progresivo.
 
 ###### Artículo 44.
 
@@ -515,7 +513,9 @@ I. Velar por la autonomía y la independencia de los miembros del Poder Judicial
 
 II. Expedir los nombramientos de los magistrados y someterlos a la aprobación de la Legislatura o de la Diputación Permanente y designar a los jueces y al personal de los juzgados, mediante exámenes de oposición;
 
-III. Aumentar o disminuir el número de salas y juzgados, determinar su organización y funcionamiento y crear o suprimir plazas de servidores públicos de la administración de justicia.
+> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+
+III.- Determinar, por necesidades de la función jurisdiccional, las regiones geográficas en que deban ejercer sus funciones las salas regionales, adscribir a ellas los juzgados de primera instancia y de cuantía menor para cada una de las regiones; aumentar o disminuir su número, cambiar de materia o residencia las salas o juzgados, determinando su organización y funcionamiento publicando oficialmente los acuerdos respectivos; y crear o suprimir plazas de servidores públicos de la administración de justicia.
 
 IV. Determinar la adscripción, de acuerdo con las necesidades del servicio, de los magistrados, jueces y personal de los juzgados; dar curso a las renuncias que presenten y determinar el cese de jueces de primera instancia y de cuantía menor en los casos previstos en esta ley;
 
@@ -1167,6 +1167,8 @@ Para la aplicación de las sanciones, se tomará en cuenta la gravedad de la fal
 
 ### CAPITULO TERCERO. De la Jurisprudencia del Tribunal
 
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+
 ###### Artículo 124.
 
 El presidente del Tribunal Superior de Justicia tendrá bajo su dependencia el Archivo Judicial y tomará las medidas que estime convenientes para el desempeño eficiente de su servicio.
@@ -1257,23 +1259,45 @@ VI. Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
 ###### Artículo 139.
 
-La jurisprudencia que sustente el Tribunal Superior de Justicia en pleno o en salas, será fuente de interpretación obligatoria para los magistrados y jueces del Estado.
+La jurisprudencia que establezca el Tribunal Superior de Justicia funcionando en Pleno, será obligatoria para las salas regionales y los juzgados. La que establezca funcionando en salas, será obligatoria para los juzgados.
+
+Habrá jurisprudencia, cuando lo resuelto por el Pleno se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Cumplido este requisito el Pleno del Tribunal hará la declaratoria correspondiente y ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia para que surta sus efectos.
+
+Habrá jurisprudencia, cuando lo resuelto por una sala se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos. Cumplido este requisito la sala ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia del Tribunal para que surta sus efectos.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 140.
 
-Habrá jurisprudencia definida, siempre que lo resuelto por las salas se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y su aplicación normativa se decrete por el pleno del Tribunal Superior de Justicia.
+Cuando dos o más de las salas sustenten tesis contradictorias, el Pleno del Tribunal Superior de Justicia en un plazo no mayor de cien días contados a partir de la fecha en que fuera formulada la denuncia, deberá pronunciarse a favor de alguna de ellas o bien, establecer la que deba regir. La contradicción será resuelta por mayoría de votos de los magistrados.
 
-Igualmente, habrá jurisprudencia definida, cuando tratándose de asuntos de la competencia del pleno, se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y se decrete su aplicación normativa por el pleno.
+La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicción, tendrá el carácter de jurisprudencia, conforme a lo dispuesto en el primer párrafo del artículo 139 de esta Ley.
+
+La resolución que dirima la controversia no afectará por ningún motivo la situación jurídica concreta definida en juicio con anterior a la misma.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 141.
 
-El pleno del Tribunal Superior de Justicia, por el voto de por lo menos las dos terceras partes de los magistrados, hará la declaratoria de que existe jurisprudencia definida y ordenará su publicación en el Boletín Judicial para que surta efectos.
+La contradicción de tesis deberá denunciarse por escrito al Presidente del Tribunal Superior de Justicia, señalándose las salas que incurren en contradicción y en qué consiste; el nombre del denunciante y su relación con el asunto. El Presidente analizará la procedencia de la denuncia y dará cuenta de ella al Pleno del Tribunal, en la siguiente sesión.
+
+La contradicción de tesis podrá ser denunciada por:
+
+I.- Las salas que intervengan en ella o cualquiera de los magistrados que las integren;
+
+II.- Las partes en el juicio donde ésta surja o sus legítimos representantes;
+
+III.- Los jueces del Estado cuando después de haber dictado resolución en el asunto de su competencia, adviertan la contradicción;
+
+IV.- El Procurador General de Justicia del Estado, cuando considere que se afecta el interés de la sociedad; y
+
+V.- El Coordinador General de Compilación y Sistematización de Tesis del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
 ###### Artículo 142.
 
-La jurisprudencia definida, en los asuntos de la competencia del pleno se interrumpirá y dejará de ser obligatoria, siempre que se pronuncie ejecutoria en contrario, acordada por el voto de las dos terceras partes de los magistrados. En los asuntos de la competencia de las salas, se interrumpirá y dejará de ser obligatoria al dictarse por unanimidad una sentencia en contrario por dos de las salas.
-
-En todo caso, en la ejecutoria respectiva, deberán expresarse las razones en que se apoye la interpretación, haciendo referencia a las que se tuvieron en consideración para establecer la jurisprudencia que se interrumpe. Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas en esta ley para su formación.
+La jurisprudencia sustentada por el Pleno del Tribunal Superior de Justicia o por las salas se interrumpirá y dejará de ser obligatoria, siempre que el órgano que la estableció así lo acuerde, se cumplan los mismos requisitos para integrarla y se expresen las razones que existen para su interrupción. También se interrumpirá la jurisprudencia de las salas cuando el Pleno del Tribunal lo determine al resolver la contradicción de tesis.
 
 ## TITULO SEPTIMO. De la Dirección de Administración y del Fondo Auxiliar para la Administración de Justicia
 
@@ -1497,7 +1521,9 @@ En el caso de que existiere impedimento en alguno de los integrantes del jurado 
 
 El presidente del jurado tiene facultades para decidir lo conducente, de presentarse cualquier situación no prevista en esta ley o en el reglamento, que pudiere afectar el buen desarrollo de los exámenes.
 
-## TITULO DECIMO. De los Departamentos de Computación e Informática y de Oficialía de Partes y Estadística
+## TITULO DECIMO. De los Departamentos de Computación e Informática
+
+y de Oficialía de Partes y Estadística
 
 ### CAPITULO UNICO
 
@@ -1646,3 +1672,11 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. HECTOR XIMENEZ GONZALEZ
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 13 DE SEPTIEMBRE DE 1996
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
