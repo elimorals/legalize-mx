@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-ejecucion-de-sanciones-y-penas-privativas-de-la-3523"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-15"
-last_updated: "1982-01-15"
+last_updated: "1999-06-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE EJECUCION DE SANCIONES Y PENAS PRIVATIVAS DE LA LIBERTAD DEL ESTADO DE CAMPECHE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el viernes 15 de enero de 1982.
 
@@ -65,9 +65,11 @@ Los conceptos emanados del presente cuerpo de leyes se interpretarán siempre en
 
 ### CAPITULO SEGUNDO. De la Competencia
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 5.
 
-Corresponde al Ejecutivo del Estado, a través de la Secretaría de Gobierno, la Dirección de Gobernación y el Departamento de Prevención y Readaptación Social:
+Corresponde al Ejecutivo del Estado, a través de la Secretaría de Gobierno y la Dirección de Prevención y Readaptación Social:
 
 a) La ejecución de las sanciones privativas y restrictivas de libertad en los términos a que se refiere esta Ley.
 
@@ -119,7 +121,9 @@ k) Otorgar, en su caso, la libertad condicional, la remisión parcial de la pena
 
 l) Supervisar a través de trabajo social a las personas que gocen de los beneficios mencionados en el inciso anterior o bien de la condena condicional o cualquier otro tipo que determine la Ley.
 
-m) Aplicar el principio de la retención a los internos que lo requieran siempre y cuando a juicio del Consejo Técnico del Departamento de Prevención y Readaptación Social éste no se haya readaptado.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+m) Aplicar el principio de la retención a los internos que lo requieran siempre y cuando a juicio del Consejo Técnico de la Dirección de Prevención y Readaptación Social éste no se haya readaptado.
 
 n) Crear, planificar y dirigir el Hospital Judicial.
 
@@ -141,9 +145,11 @@ s) Las demás que surjan de las leyes sustantivas y adjetivas penales, tanto est
 
 Las instituciones de tratamiento serán de seguridad mínima, media y máxima, cerradas y abiertas, urbanas y rurales, estatales y municipales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 10.
 
-Las instituciones de seguridad mínima serán abiertas y podrán enviarse a ellas los sentenciados a penas breves no mayores de dos años, que no disfruten de la condena condicional y los internos en fase de prelibertad, todos debidamente calificados por los organismos interdisciplinarios.
+Las instituciones de seguridad mínima serán abiertas y podrán enviarse a ellas los sentenciados a penas breves no mayores de tres años, que no disfruten de la condena condicional y los internos en fase de prelibertad, todos debidamente calificados por los organismos interdisciplinarios.
 
 También podrán ser enviados a ellas, durante la etapa del proceso, aquellas personas que hayan cometido un delito culposo.
 
@@ -307,9 +313,11 @@ Ningún interno podrá desempeñar funciones de autoridad o ejecutivas, empleo o
 
 A los internos de nivel profesional se les podrá destinar a labores de tipo cultural y artístico pero bajo ningún concepto, con capacidad de mando.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 35.
 
-Todo trabajo realizado en el interior de la institución será controlado por la administración interna del reclusorio o bien por la administración general del Departamento de Prevención y Readaptación Social.
+Todo trabajo realizado en el interior de la institución será controlado por la administración interna del reclusorio o bien por la administración general de la Dirección de Prevención y Readaptación Social.
 
 ###### ARTICULO 36.
 
@@ -357,9 +365,11 @@ El personal de este departamento deberá supervisar la salud, higiene y alimenta
 
 Ningún interno podrá usar medicamentos que no sean autorizados por el personal médico de la institución y tampoco podrá manejarlos.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 46.
 
-El médico del establecimiento deberá poner en conocimiento del Director, los casos de enfermedades transmisibles a que se refieren los Artículos 73 y 74 del Código Sanitario, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes, en los términos del Artículo 76, fracción I, del propio ordenamiento.
+El médico del establecimiento deberá poner en conocimiento del director, los casos de enfermedades transmisibles a que se refieren los artículos 107 y 108 de la ley de Salud del Estado, a fin de que éste cumpla con su obligación de dar aviso a los órganos competentes, en los términos del artículo 110 del propio ordenamiento.
 
 #### SECCION V. Trabajo Social
 
@@ -553,9 +563,11 @@ Los internos tienen derecho a ser recibidos en audiencia por los funcionarios de
 
 #### SECCION I. De la Libertad Condicional
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 77.
 
-La libertad condicional se concederá a los internos primodelincuentes o reincidentes en primera ocasión, que sean sentenciados a penas mayores de dos años y que reúnan los requisitos siguientes:
+La libertad condicional se concederá a los internos primodelincuentes o reincidentes en primera ocasión, que sean sentenciados a penas mayores de tres años y que reúnan los requisitos siguientes:
 
 a) Haber cumplido las tres quintas partes de la sanción corporal impuesta.
 
@@ -567,9 +579,13 @@ d) Que alguna persona solvente, honrada y de arraigo, se obligue a presentarlo s
 
 e) Haber reparado el daño u otorgado garantía suficiente para cubrir su monto.
 
-f) Que el beneficiado resida en el lugar que se determine sin que pueda ausentarse del mismo, salvo previa autorización de los Servicios de Prevención y Readaptación Social. En este caso se procurará conciliar la situación del interno en relación con el medio y el trabajo, a fin de que se logre su readaptación; y
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
-g) Que acepte vigilancia de Trabajo Social cada vez que los Servicios de Prevención y Readaptación Social lo estime pertinente.
+f) Que el beneficiado resida en el lugar que se determine sin que pueda ausentarse del mismo, salvo previa autorización de la Dirección de Prevención y Readaptación Social. En este caso se procurará conciliar la situación del interno en relación con el medio y el trabajo, a fin de que se logre su readaptación; y
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+g) Que acepte vigilancia de Trabajo Social cada vez que la Dirección de Prevención y Readaptación Social lo estime pertinente.
 
 ###### ARTICULO 78.
 
@@ -579,13 +595,17 @@ La libertad condicional no se concederá a los reincidentes en segunda ocasión,
 
 La solicitud de libertad condicional podrá realizarla el propio interno, pero llegado el tiempo, la debe tramitar de oficio la dirección de la institución de tratamiento.
 
-Recibida la solicitud en los Servicios de Prevención y Readaptación Social, en su caso se recabará informe de la institución de tratamiento donde estuviere internado el solicitante. La resolución respectiva la pronunciará la dependencia mencionada en un término no mayor de 48 horas.
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
+Recibida la solicitud en la Dirección de Prevención y Readaptación Social, en su caso, se recabará informe de la institución de tratamiento donde estuviere internado el solicitante. La resolución respectiva la pronunciará la dependencia mencionada en un término no mayor de 48 horas.
 
 La concesión de libertad condicional se comunicará al Director de la institución, al interno, al juez de la causa y a la autoridad municipal correspondiente. En caso de negativa se comunicará exclusivamente al interno a través de Trabajo Social y Psicología.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 80.
 
-Los internos que disfrutan de la libertad condicional quedarán bajo el cuidado y vigilancia de los Servicios de Prevención y Readaptación Social. Lo anterior se entenderá relacionado con lo dispuesto en el inciso g) del Artículo 77 de esta Ley.
+Los internos que disfrutan de la libertad condicional quedarán bajo el cuidado y vigilancia de la Dirección de Prevención y Readaptación Social. Lo anterior se entenderá relacionado con lo dispuesto en el inciso g) del artículo 77 de esta Ley.
 
 ###### ARTICULO 81.
 
@@ -609,15 +629,19 @@ La remisión de pena se concederá a todo interno que reúna los requisitos esta
 
 La posibilidad del disfrute de este beneficio se pondrá en conocimiento del interno en el momento de ingresar a la institución.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 84.
 
-La remisión parcial de la pena será propuesta a los Servicios de Prevención y Readaptación Social por la dirección de las instituciones de tratamiento, después del estudio individualizado de cada caso por parte del Consejo Técnico.
+La remisión parcial de la pena será propuesta a la Dirección de Prevención y Readaptación Social, después del estudio individualizado de cada caso por parte del Consejo Técnico Interdisciplinario de la institución en que se encuentre recluido el interno.
 
-Se controlará este beneficio desde el punto de vista administrativo en la forma que establezcan los Servicios Coordinados de Prevención y Readaptación Social.
+Se controlará este beneficio desde el punto de vista administrativo en la forma que establezca la Dirección de Prevención y Readaptación Social.
+
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
 
 ###### ARTICULO 85.
 
-Los Servicios de Prevención y Readaptación Social pronunciarán la aceptación o el rechazo de la propuesta del Consejo Técnico de cada institución, en relación con este beneficio, dentro de los cinco días siguientes a la petición.
+La Dirección de Prevención y Readaptación Social pronunciará la aceptación o el rechazo de la propuesta del Consejo Técnico de cada institución, en relación con este beneficio, dentro de los cinco días siguientes a la petición.
 
 ###### ARTICULO 86.
 
@@ -625,9 +649,11 @@ Bajo ningún concepto la remisión parcial de la pena se entenderá como mero c�
 
 #### SECCION III. Suspensión Condicional de la Sentencia
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 87.
 
-Los Servicios de Prevención y Readaptación Social, se harán cargo de la vigilancia y supervisión de la conducta de los sujetos a quienes se les haya concedido el beneficio de la condena condicional en sentencia ejecutoria, de conformidad con lo establecido en el Artículo 82 del Código Penal, vigente.
+La Dirección de Prevención y Readaptación Social, se hará cargo de la vigilancia y supervisión de la conducta de los sujetos a quienes se les haya concedido el beneficio de la condena condicional en sentencia ejecutoria, de conformidad con lo establecido en el artículo 82 del Código Penal, vigente.
 
 ###### ARTICULO 88.
 
@@ -649,9 +675,11 @@ Procederá la sustitución y conmutación de sanciones en los términos del Cód
 
 Se aplicará el principio de retención a todo interno que a juicio del organismo interdisciplinario, observe peligrosidad elevada y posibilidades de reincidencia al efectuarse el estudio para la remisión parcial de la pena o la prelibertad, independientemente de que haya asistido al trabajo, a la escuela y haya observado aparentemente buena conducta.
 
+> <small>(REFORMADO, P.O. 11 DE JUNIO DE 1999)</small>
+
 ###### ARTICULO 92.
 
-Los Servicios de Prevención y Readaptación Social serán los que resuelvan en definitiva, la propuesta de retención de los organismos interdisciplinarios.
+La Dirección de Prevención y Readaptación Social será la que resuelva en definitiva, la propuesta de retención de los organismos interdisciplinarios.
 
 ###### ARTICULO 93.
 
@@ -744,3 +772,11 @@ Dado en el Palacio del Poder Legislativo del Estado, en Campeche, a los catorce 
 Por tanto mando se imprima, publique y circule, para su debido cumplimiento.
 
 Dado en el Edificio de los Poderes del Estado, en Campeche, a los catorce días del mes de enero del año de mil novecientos ochenta y dos.- El Gobernador Constitucional del Estado, INGENIERO EUGENIO ECHEVERRIA CASTELLOT.- El Secretario de Gobierno, LIC. PABLO GONZALEZ LASTRA.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 11 DE JUNIO DE 1999.
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
