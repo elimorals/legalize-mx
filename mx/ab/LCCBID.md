@@ -4,7 +4,7 @@ identifier: "LCCBID"
 country: "mx"
 rank: "ley"
 publication_date: "1959-12-19"
-last_updated: "1959-12-19"
+last_updated: "1963-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCCBID"
 
 LEY QUE ESTABLECE BASES PARA LA EJECUCION EN MEXICO, POR EL PODER EJECUTIVO FEDERAL, DEL CONVENIO CONSTITUTIVO DEL BANCO INTERAMERICANO DE DESARROLLO.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1963.
 
 Ley publicada en el Diario Oficial de la Federación el sábado 19 de diciembre de 1959.
 
@@ -42,13 +42,17 @@ LEY que establece bases para la ejecución en México, por el Poder Ejecutivo Fe
 
 Se aprueba el Convenio Constitutivo del Banco Interamericano de Desarrollo, para los efectos de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, conforme al texto adoptado en Washington el 8 de abril de 1959.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
+
 ###### ARTICULO 2o.
 
-El Banco de México, S. A., hará con la garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo hasta por la cantidad de Dls. 66.300,000.00 (sesenta y seis millones trescientos mil dólares, moneda de los Estados Unidos de Norteamérica).
+El Banco de México, S. A., hará, con la garantía del Gobierno Federal, la suscripción de acciones o partes sociales del Banco Interamericano de Desarrollo hasta por la cantidad de dólares 144.300,000.00 (ciento cuarenta y cuatro millones trescientos mil dólares, moneda de los Estados Unidos de Norteamérica), de acuerdo con la resolución A del Directorio Ejecutivo de dicho banco, aprobada por la asamblea de Gobernadores el 8 de abril de 1963.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1963)</small>
 
 ###### ARTICULO 3o.
 
-El Banco de México, S. A., aportará con la garantía del Gobierno Federal, la cantidad de Dls. 6.630,000.00 (seis millones seiscientos treinta mil dólares, moneda de los Estados Unidos de Norteamérica) para cubrir la cuota de contribución de México, al Fondo para Operaciones Especiales que estipula el artículo IV del Convenio Constitutivo de dicho Organismo.
+El Banco de México, S. A., aportará con la garantía del Gobierno Federal, la cantidad de dólares 9.945,000.00 (nueve millones novecientos cuarenta y cinco mil dólares, moneda de los Estados Unidos de Norteamérica), de acuerdo con la resolución B del Directorio Ejecutivo del Banco Interamericano de Desarrollo, aprobada por la asamblea de Gobernadores el 8 de abril de 1963, para cubrir la cuota de contribución de México al Fondo para Operaciones Especiales que estipula el artículo IV del Convenio Constitutivo de dicho organismo.
 
 ###### ARTICULO 4o.
 
@@ -99,3 +103,9 @@ N. DE E.: EL DECRETO DE PROMULGACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN R
 Juan Sabines Gutiérrez, D. P.- Rúbrica.- Guillermo Ibarra, S. P.- Marta Andrade del Rosal, D. S.- Carlos Román Celis, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los diez y ocho días del mes de diciembre de mil novecientos cincuenta y nueve.- Adolfo López Mateos.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Antonio Ortiz Mena.- Rúbrica.- El Secretario de Gobernación, Gustavo Díaz Ordaz.- Rúbrica.- El Secretario de Relaciones Exteriores, Manuel Tello.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1963.
+
+El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
