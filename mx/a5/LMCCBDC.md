@@ -4,7 +4,7 @@ identifier: "LMCCBDC"
 country: "mx"
 rank: "ley"
 publication_date: "1982-01-05"
-last_updated: "1982-01-05"
+last_updated: "1985-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=461&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMCCBDC"
 
 LEY QUE APRUEBA LA ADHESION DE MEXICO AL CONVENIO CONSTITUTIVO DEL BANCO DE DESARROLLO DEL CARIBE Y SU EJECUCION
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1985.
 
 Ley publicada en el Diario Oficial de la Federación el martes 5 de enero de 1982.
 
@@ -53,6 +53,10 @@ El Banco de México hará, con la garantía del Gobierno Federal, la suscripció
 ###### ARTICULO 4o.
 
 El Banco de México, S. A., cubrirá con la garantía del Gobierno Federal, el equivalente de U. S. dls. 7.000,000.00 (siete millones de dólares, moneda de los Estados Unidos de América) correspondiente a la contribución de México al Fondo Especial para el Desarrollo del Banco de Desarrollo del Caribe, a que se refiere el Artículo 8° del Convenio Constitutivo del propio Banco, mediante 5 (cinco) pagos anuales por el equivalente al 20% (veinte por ciento) cada uno.
+
+> <small>(ADICIONADO, D.O.F. 14 DE ENERO DE 1985)</small>
+
+Asimismo, el Banco de México cubrirá, con la garantía del Gobierno Federal, el equivalente a U.S. Dls. 5'000,000.00 (cinco millones de dólares moneda de los Estados Unidos de América) correspondientes a la primera reposición de capital al citado Fondo Especial para el Desarrollo, mediante cinco pagos anuales a partir de 1985.
 
 ###### ARTICULO 5o.
 
@@ -89,3 +93,11 @@ UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación e
 México, D. F., a 29 de diciembre de 1981.- Blas Chumacero Sánchez, S.P.- Marco Antonio Aguilar Cortés, D.P.- Luis León Aponte, S.S.- Silvio Lagos Martínez, D.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la Fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los treinta días del mes de diciembre de mil novecientos ochenta y uno.- José López Portillo.- Rúbrica.- El Secretario de Hacienda y Crédito Público, David Ibarra Muñoz.- Rúbrica.- El Secretario de Relaciones Exteriores, Jorge Castañeda.- Rúbrica.- El Secretario de Gobernación, Enrique Olivares Santana.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 14 DE ENERO DE 1985.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La primera reposición de capital de México al Fondo Especial de Desarrollo del Banco de Desarrollo del Caribe, se realizará en cinco pagos anuales, iguales y sucesivos a partir de 1985 y serán pagaderos 50% en dólares de los Estados Unidos de América y 50% en su equivalente en pesos mexicanos.
