@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-14307"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-12-07"
-last_updated: "2001-10-05"
+last_updated: "2002-07-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2002.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Campeche, el lunes 7 de diciembre de 1981.
 
@@ -951,11 +951,23 @@ XIII.- Municipalizar en su caso, mediante el procedimiento respectivo, los servi
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-XIV.- Nombrar al secretario, tesorero y titulares de las unidades administrativas municipales, a propuesta del presidente del Ayuntamiento y removerlos por justa causa.
+XIV.- Nombrar al secretario, tesorero y titulares de las unidades administrativas municipales, a propuesta del presidente del Ayuntamiento y removerlos por justa causa;
 
-(REFORMADA, P.O. 29 DE JUNIO DE 2000) (F. DE E., P.O. 14 DE MARZO DE 2001)
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2002)</small>
 
-XV.- Formular la iniciativa de Ley de Ingresos de su Municipio y remitirla al Congreso del Estado para su aprobación, en su caso, dentro de los últimos diez días del mes de noviembre de cada año; y formular, aprobar y publicar su Presupuesto Anual de Egresos, a más tardar el día treinta y uno del mes de diciembre. En ambos casos considerará lo correspondiente a cada una de sus Secciones y Comisarías Municipales.
+XV.- Formular la iniciativa de Ley de Ingresos de su Municipio y remitirla al Congreso del Estado para su aprobación, en su caso, dentro de los últimos diez días del mes de noviembre de cada año; y formular, aprobar y publicar, en el Periódico Oficial del Estado, su Presupuesto Anual de Egresos, a más tardar el día treinta y uno del mes de diciembre de cada año. En ambos casos considerará lo correspondiente a cada una de sus Secciones y Comisarías Municipales. El Presupuesto de Egresos deberá contener:
+
+a) Las erogaciones, incluidas las relativas a deuda pública, que durante el ejercicio fiscal efectuarán el Ayuntamiento y, en su caso, las Juntas y Comisarías Municipales pertenecientes al Municipio, por ramos, capítulos y unidades administrativas;
+
+b) El tabulador de puestos y sueldos, incluidos los integrantes del Ayuntamiento y las Juntas Municipales y los Comisarios Municipales;
+
+c) Los recursos que al Municipio proporcionarán el Estado y la Federación, anotando concepto e importe;
+
+d) Las reglas a las cuales se sujetarán los titulares de las dependencias y entidades de la Administración Pública Municipal en el ejercicio y aplicación del gasto público;
+
+e) Los criterios de racionalidad y selectividad a que deberán sujetarse las erogaciones municipales; y
+
+f) Los montos máximos de adjudicación directa y de adjudicación mediante invitación para la ejecución de obras públicas y servicios relacionados con las mismas;
 
 (REFORMADA P.O. 29 DE JUNIO DE 2000) (F. DE E., P.O. 14 DE MARZO DE 2001)
 
@@ -2886,3 +2898,21 @@ Tercero.- En sesión solemne a que alude el transitorio anterior tendrá lugar e
 14. Clausura de la sesión.
 
 15. Himno Campechano.
+
+P.O. 3 DE JULIO DE 2002.
+
+Primero.- El presente decreto entrará en vigor el día 16 de septiembre del año 2003.
+
+Segundo.- Se abroga la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche expedida por la LI Legislatura de este Congreso, el 18 de diciembre de 1984, bajo decreto número 156, publicada en la Segunda Sección del Periódico Oficial del Estado el día 19 de ese mismo mes y año; y se derogan todas las demás disposiciones legales en lo que se opongan al contenido de este Decreto.
+
+Tercero.- Las Instituciones Públicas que carezcan de los Órganos Internos de Control y sistemas a que alude la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche, dispondrán para su establecimiento de un plazo que no excederá de treinta días hábiles, contados a partir de la fecha en que la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado entre en vigor, para lo cual realizarán las adecuaciones procedentes a su presupuesto de egresos, reglamentos interiores y manuales de organización o disposiciones equivalentes. La Secretaría de la Contraloría, una vez establecidos dichos Órganos Internos de Control les remitirá debidamente inventariados la documentación que obre en su poder y cuyo conocimiento y manejo corresponda a tales Órganos. Para este efecto la Secretaría contará con un plazo de treinta días hábiles contados a partir del día siguiente al en que se le comunique el establecimiento del respectivo Órgano Interno de Control.
+
+Cuarto.- Como integrantes de los Órganos Internos de Control no podrán fungir los servidores públicos que formen parte del órgano superior de dirección de la Institución Pública a la que ese Órgano corresponda.
+
+Quinto.- Los servidores públicos que deban presentar declaración de situación patrimonial en los términos de la Ley Reglamentaria en cita y que conforme a la ley que se abroga no hayan tenido esa obligación, disponen por esta única vez de un plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entre en vigor la indicada Ley o del que se establezca el Órgano Interno de Control, según corresponda, para presentar la que indica la fracción I del artículo 88 de la invocada Ley Reglamentaria.
+
+Sexto.- Los procedimientos administrativos disciplinarios que se encuentren en trámite al momento en que la referida Ley Reglamentaria entre en vigor serán resueltos conforme a los términos de la ley que se abroga y por la autoridad que esté conociendo de los mismos.
+
+Séptimo.- Las menciones que en otras leyes, reglamentos y demás disposiciones de carácter general se hagan de la Ley de Responsabilidades de los Servidores Públicos del Estado de Campeche en lo sucesivo se entenderán como referidas a la Ley Reglamentaria del Capítulo XVII de la Constitución Política del Estado de Campeche.
+
+Octavo.- El Congreso, el Gobernador, el Tribunal Superior de Justicia, los Ayuntamientos y los Organismos Públicos Autónomos, tienen el plazo de treinta días hábiles, contados a partir del día siguiente a la fecha en que entren en vigor las modificaciones a la Ley Orgánica de los Municipios y a la Ley de Control Presupuestal y Gasto Público, para publicar, en el Periódico Oficial del Estado, los tabuladores de puestos y sueldos de los servidores públicos, de sus respectivas adscripciones, para el ejercicio fiscal 2003.
