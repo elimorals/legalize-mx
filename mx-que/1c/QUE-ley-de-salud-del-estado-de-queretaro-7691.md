@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-7691"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-12"
-last_updated: "2001-07-13"
+last_updated: "2003-07-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE JULIO DE 2001.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE SALUD PARA EL ESTADO DE QUERETARO, PUBLICADA EN EL PERIODICO OFICIAL EL 11 DE JULIO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley Publicada en el Periódico Oficial "La Sombra de Arteaga" el 12 de Diciembre de 1985
 
@@ -2513,11 +2515,11 @@ EL C. SECRETARIO DE GOBIERNO,
 
 LIC. JOSE MARIA HERNANDEZ SOLIS.
 
-N. DE E., A CONTINUACIÓN SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+N. DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
 
 P.O. 18 DE ABRIL DE 1991
 
-UNICO.- esta Ley entrará en vigor el día de su publicación en el Periódico Oficial "La sombra de Arteaga".
+UNICO.- Esta Ley entrará en vigor el día de su publicación en el Periódico Oficial "La sombra de Arteaga".
 
 P.O. 05 DE DICIEMBRE DE 1996
 
@@ -2560,3 +2562,29 @@ Los responsables de las instalaciones a que se refiere la fracción IV del artí
 ###### ARTICULO TERCERO.
 
 El Poder Ejecutivo del Estado expedirá las disposiciones reglamentarias que provean el exacto cumplimiento de esta Ley, en un plazo no mayor de 30 días a partir de su entrada en vigor.
+
+P.O. 11 DE JULIO DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+De conformidad con las disposiciones legales aplicables y con los acuerdos de coordinación respectivos, el Ejecutivo Estatal ejercerá por conducto del organismo denominado Servicios de Salud del Estado de Querétaro, hasta en tanto se concluya el proceso de desconcentración de la Dirección de Fomento y Regulación Sanitaria, las facultades que le otorga esta Ley y las que le confiere de manera directa la Ley General de Salud en materia de control y fomento.
+
+###### ARTÍCULO SEGUNDO.
+
+La Unidad Administrativa Dirección de Fomento y Regulación Sanitaria de SESEQ, se extinguirá al constituirse el organismo desconcentrado que ejercerá actividades en materia de control y fomento sanitario que le otorga esta Ley y las que le confiera de manera directa la Ley General de Salud.
+
+###### ARTÍCULO TERCERO.
+
+La Secretaría de Salud del Estado, por conducto del Ejecutivo estatal, deberá presentar ante el Poder Legislativo la Iniciativa de Decreto que detalle la creación, organización y competencia de la Dirección de Fomento y Regulación Sanitaria, como órgano desconcentrado de dicha Secretaría, en un plazo no mayor de sesenta días naturales, a partir de la entrada en vigor de la presente ley.
+
+###### ARTÍCULO CUARTO.
+
+La presente ley entrará en vigor, a partir del día siguiente de su publicación, en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+###### ARTÍCULO QUINTO.
+
+Se abroga la Ley de Salud del Estado de Querétaro, publicada en el periódico Oficial del Gobierno del Estadol (sic) "La Sombra de Arteaga", el 12 de diciembre de 1985, derogándose todas las disposiciones que se opongan a la presente ley.
+
+###### ARTÍCULO SEXTO.
+
+Todos los actos, procedimientos y recursos administrativos relacionados con esta ley, que se hubieren iniciado bajo la vigencia de la ley que se deroga, se tramitarán y resolverán conforme con las disposiciones de ley que se deroga.
