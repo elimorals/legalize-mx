@@ -4,7 +4,7 @@ identifier: "GUA-codigo-fiscal-para-el-estado-de-guanajuato-12559"
 country: "mx"
 rank: "codigo"
 publication_date: "1978-12-31"
-last_updated: "1986-12-26"
+last_updated: "1987-11-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO FISCAL PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE NOVIEMBRE DE 1987.
 
 Código publicado en la Segunda Parte Anexo del Periódico Oficial del Estado de Guanajuato, el domingo 31 de diciembre de 1978.
 
@@ -59,13 +59,17 @@ II.- Ley de Hacienda;
 
 III.- Ley de Ingresos;
 
-IV.- Ley que apruebe el Presupuesto de Egresos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+IV.- Ley de Presupuesto, Contabilidad y Gasto Público del Estado;
 
 V.- Ley de Alcoholes;
 
 VI.- Reglamento de la Ley de Alcoholes;
 
-VII.- Reglamento de la Tesorería General del Estado;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+VII.- Reglamento de la Secretaría de Administración Financiera;
 
 VIII.- Las leyes y demás disposiciones generales que contengan normas de orden hacendario; y
 
@@ -89,9 +93,11 @@ Las leyes y demás disposiciones de carácter general entrarán en vigor en la f
 
 Son nulos de pleno derecho los reglamentos, circulares, acuerdos, convenios, contratos y demás actos jurídicos de carácter administrativo, que contravengan o puedan contravenir los preceptos de este Código o los de las leyes fiscales vigentes en el Estado.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 7.
 
-La aplicación de los textos legales corresponde al Ejecutivo del Estado por conducto de la Tesorería General y de las Dependencias que, de conformidad con la Ley Orgánica del Poder Ejecutivo y del Reglamento de la Tesorería General les haya sido delegada su aplicación.
+La aplicación de los textos legales corresponde al Ejecutivo del Estado por conducto de la Secretaría de Administración Financiera y de las dependencias que, de conformidad con la Ley Orgánica del Poder Ejecutivo y del Reglamento de la Secretaría de Administración Financiera, les haya sido delegada su aplicación.
 
 ###### ARTICULO 8.
 
@@ -101,9 +107,11 @@ Las normas de derecho tributario que establezcan cargas a los particulares y las
 
 Las autoridades fiscales, deberán dictar resolución sobre las consultas que planteen los interesados directamente en situaciones reales y concretas, sobre la aplicación que a éstas deba hacerse de las disposiciones fiscales. Se abstendrán de resolver consultas relativas a la interpretación general, abstracta e impersonal de las normas.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 10.
 
-La ignorancia de las leyes, reglamentos y demás disposiciones fiscales, no servirá de excusa ni aprovechará a persona alguna. Sin embargo, la Tesorería General, cuando se trate de manifiesta ignorancia o de incapacidad comprobada, tomará en consideración estos supuestos para la aplicación de las disposiciones legales.
+La ignorancia de las leyes, reglamentos y demás disposiciones fiscales, no servirá de excusa ni aprovechará a persona alguna. Sin embargo, la Secretaría de Administración Financiera, cuando se trate de manifiesta ignorancia o de incapacidad comprobada, tomará en consideración estos supuestos para la aplicación de las disposiciones legales.
 
 ## TITULO SEGUNDO. DE LA HACIENDA PUBLICA
 
@@ -185,21 +193,27 @@ XII.- Los Auditores e Inspectores "de la Secretaría de Administración Financie
 
 #### SECCION SEGUNDA. Facultades
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 20.
 
-Por lo que respecta a las facultades y a la competencia de las autoridades fiscales, se atenderá además de las disposiciones de este Código a la Ley Orgánica del Poder Ejecutivo, al Reglamento de la Tesorería General, así como a todas las leyes y normas fiscales vigentes en el Estado.
+Por lo que respecta a las facultades y a la competencia de las autoridades fiscales, se atenderá además de las disposiciones de este Código, a la Ley Orgánica del Poder Ejecutivo, al Reglamento de la Secretaría de Administración Financiera, así como a todas las leyes y normas fiscales vigentes en el Estado.
 
 ###### ARTICULO 21.
 
 Las autoridades fiscales del Estado, para el cumplimiento de sus funciones y el ejercicio de sus facultades, podrán delegarlas, siempre que no contravengan las disposiciones establecidas en la Ley Orgánica del Poder Ejecutivo y las leyes fiscales del Estado y que se cumplan las formalidades que para tal efecto señalan.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 22.
 
-La administración y la recaudación de los impuestos y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales del mismo, con excepción de los casos en que la Tesorería General encomiende expresamente la recaudación de los ingresos a otros organismos o a instituciones de crédito.
+La administración y la recaudación de los impuestos y demás ingresos propios del Estado, estarán a cargo de las autoridades fiscales del mismo, con excepción de los casos en que la Secretaría de Administración Financiera encomiende expresamente la recaudación de los ingresos a otros organismos o a instituciones de crédito.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 23.
 
-Con objeto de simplificar las obligaciones de los causantes, de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, la Tesorería General, podrá dictar disposiciones de carácter general, sin contravenir en ninguna forma las normas establecidas en las leyes fiscales.
+Con objeto de simplificar las obligaciones de los causantes de facilitar la recaudación de los ingresos, y de hacer más efectivos y prácticos los sistemas de control fiscal, la Secretaría de Administración Financiera, podrá dictar disposiciones de carácter general, sin contravenir en ninguna forma las normas establecidas en las leyes fiscales.
 
 ###### ARTICULO 24.
 
@@ -221,7 +235,9 @@ b).- El auxilio de la fuerza pública; y
 
 c).- La denuncia ante el Ministerio Público para la consignación respectiva por desobediencia a un mandato legítimo de autoridad competente;
 
-VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Tesorería General, tendrán el mismo valor probatorio que la ley relativa conceda a las actas de la Policía Judicial, y la propia Tesorería, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales del Estado;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+VI.- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique la Secretaría de Administración Financiera, tendrán el mismo valor probatorio que la Ley relativa conceda a las actas de la Policía Judicial; y la propia Secretaría, a través de los agentes hacendarios que designe, será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales del Estado;
 
 VII.- Comprobar los ingresos de los causantes. A este efecto se presumirá, salvo prueba en contrario:
 
@@ -301,9 +317,13 @@ VI.- El visitado o la persona con quien se entienda la diligencia, los testigos 
 
 VII.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de su conclusión;
 
-VIII.- El visitado o quien lo represente, podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Tesorería General, en el que expresará las razones de su inconformidad y ofrecerá las pruebas documentales pertinentes, que deberá acompañar a su escrito o rendir a más tardar dentro de los 45 días siguientes.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-El plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la Tesorería General.
+VIII.- El visitado o quien lo represente, podrá inconformarse con los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los veinte días siguientes a la conclusión de las mismas, ante la Secretaría de Administración Financiera, en el que expresará las razones de su inconformidad y ofrecerá las pruebas documentales pertinentes, que deberá acompañar a su escrito o rendir a más tardar dentro de los 45 días siguientes.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+El plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la Secretaría de Administración Financiera.
 
 En caso de que no se formule inconformidad, no se ofrezcan pruebas o no se rindan las ofrecidas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en las actas.
 
@@ -315,23 +335,29 @@ Cuando al verificar el cumplimiento de las obligaciones fiscales de los sujetos 
 
 Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones fiscales, se presumirán ciertos, salvo prueba en contrario, si se reúnen los siguientes requisitos:
 
-I.- Que el Contador Público que dictamine, esté registrado en la Tesorería General, que sea de nacionalidad mexicana, que tenga título de Contador Público expedido por institución autorizada conforme a los lineamientos previstos en las leyes Federales de la materia y que sea miembro de un Colegio de Contadores reconocido por la misma Tesorería; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-II.- Que el dictamen se formule de acuerdo a las normas y procedimientos de auditoría generalmente aceptados. La Tesorería General podrá cerciorarse mediante revisión y pruebas selectivas del cumplimiento de esta fracción. Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o por objetividad y expedir las liquidaciones de impuestos omitidos que correspondan.
+I.- Que el Contador Público que dictamine, esté registrado en la Secretaría de Administración Financiera, que sea de nacionalidad mexicana, que tenga título de Contador Público expedido por institución autorizada conforme a los lineamientos previstos en las Leyes Federales de la materia y que sea miembro de un Colegio de Contadores reconocido por la misma Secretaría; y
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+II.- Que el dictamen se formule de acuerdo a las normas y procedimientos de auditoría generalmente aceptados. La Secretaría de Administración Financiera podrá cerciorarse mediante revisión y pruebas selectivas del cumplimiento de esta fracción. Las opiniones o interpretaciones contenidas en los dictámenes, no obligan a las autoridades fiscales, las que podrán ejercer directamente sus facultades de vigilancia y comprobación sobre los sujetos pasivos o por objetividad y expedir las liquidaciones de impuestos omitidos que correspondan.
 
 #### SECCION TERCERA. Caducidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE ENERO DE 1980)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 28.
 
-Las facultades de las autoridades de la Tesorería General para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. La caducidad operará de oficio o a petición de parte. Dicho término empezará a correr a partir:
+Las facultades de las autoridades de la Secretaría de Administración Financiera para determinar la existencia de obligaciones fiscales, señalar las bases de su liquidación o fijarlas en cantidad líquida, para imponer sanciones por infracciones a las disposiciones fiscales, así como las facultades de verificar el cumplimiento de dichas disposiciones, se extinguen en el término de cinco años, no sujeto a interrupción ni suspensión. La caducidad operará de oficio o a petición de parte. Dicho término empezará a correr a partir:
 
 I.- Del día siguiente al en que se hubiere vencido el plazo establecido por las disposiciones fiscales para presentar declaraciones, manifestaciones y avisos;
 
 II.- Del día siguiente al en que se produjo el hecho generador del crédito fiscal, si no existiera obligación de presentar declaraciones, manifestaciones o avisos; y
 
-III.- Del día siguiente al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiere cesado. Las facultades de las autoridades de la Tesorería para investigar hechos de delito en materia fiscal, no se extinguirán conforme a este artículo.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+III.- Del día al en que se hubiere cometido la infracción a las disposiciones fiscales, pero si la infracción fuere de carácter continuo, el término correrá a partir del día siguiente al en que hubiere cesado. Las facultades de las autoridades de la Secretaría para investigar hechos de delito en materia fiscal, no se extinguirán conforme a este artículo.
 
 #### SECCION CUARTA. Coordinación
 
@@ -345,13 +371,17 @@ Las autoridades fiscales estatales podrán coordinarse con las de la Federación
 
 Las autoridades fiscales solicitarán, siempre que lo consideren necesario para el eficaz desempeño de sus funciones, de las demás autoridades estatales y municipales la colaboración que requieran, misma que deberán procurar de inmediato.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 31.
 
-La Tesorería General, siempre que lo considere conveniente, promoverá la colaboración de las Cámaras que agrupen contribuyentes y de los Colegios de Profesionistas con las Autoridades Fiscales. Al efecto la Tesorería General podrá:
+La Secretaría de Administración Financiera, siempre que lo considere conveniente, promoverá la colaboración de las Cámaras que agrupen causantes y de los Colegios de Profesionistas con las autoridades fiscales. Al efecto la Secretaría de Administración Financiera podrá:
 
 I.- Solicitar o considerar sugestiones, en materia fiscal, sobre las disposiciones reglamentarias o sobre proyectos de normas;
 
-II.- Estudiar las observaciones que se le presenten para formular instrucciones de carácter general que la Tesorería General dicte a sus dependencias para aplicación de las disposiciones fiscales;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+II.- Estudiar las observaciones que se le presenten para formular instrucciones de carácter general que la Secretaría de Administración Financiera dicte a sus dependencias para aplicación de las disposiciones fiscales;
 
 III.- Solicitar de las organizaciones respectivas, estudios técnicos que faciliten el conocimiento de cada rama de actividad económica, para su mejor tratamiento fiscal;
 
@@ -369,13 +399,17 @@ VII.- Realizar las demás actividades conducentes al logro de los fines señalad
 
 El personal oficial que tenga conocimiento o intervenga en las investigaciones, estudios técnicos o trámites relativos a la aplicación de las disposiciones tributarias, está obligado a guardar absoluta reserva al respecto. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquéllos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del Estado, a las autoridades judiciales en procesos del orden penal o a los tribunales competentes que conozcan de pensiones alimenticias.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 33.
 
-Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que puedan entrañar infracciones a las disposiciones fiscales están obligados a comunicarlos a la Tesorería General dentro de un término máximo de 10 días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+Los funcionarios y empleados públicos que en ejercicio de sus funciones conozcan de hechos u omisiones que puedan entrañar infracciones a las disposiciones fiscales están obligados a comunicarlos a la Secretaría de Administración Financiera dentro de un término máximo de diez días siguientes a la fecha en que tengan conocimiento de tales hechos u omisiones.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 34.
 
-Los funcionarios o empleados públicos ante quienes con motivo de sus funciones se presente algún libro, objeto o documento que carezca total o parcialmente de los requisitos exigidos por las leyes fiscales, harán la denuncia respectiva a la Tesorería General dentro de los quince días siguientes al en que tengan conocimiento de la misma.
+Los funcionarios o empleados públicos ante quienes con motivo de sus funciones se presente algún libro, objeto o documento que carezca total o parcialmente de los requisitos exigidos por las leyes fiscales, harán la denuncia respectiva a la Secretaría de Administración Financiera dentro de los quince días siguientes al en que tengan conocimiento de la misma.
 
 #### SECCION SEPTIMA. Resoluciones
 
@@ -473,7 +507,9 @@ b).- Si existen varios establecimientos, en donde se encuentre la administració
 
 c).- A falta de los anteriores, el lugar en que se hubiere realizado el hecho generador de la obligación fiscal;
 
-III.- Si se trata de sucursales, agencias o depósitos cuyas matrices no se encuentren en el Estado, el lugar donde se establezcan, pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Tesorería General; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+III.- Si se trata de sucursales, agencias o depósitos cuyas matrices no se encuentren en el Estado, el lugar donde se establezcan, pero si varias dependen de una misma negociación, deberán señalar a una de ellas para que haga las veces de casa matriz y de no hacerlo en un plazo de quince días a partir de la fecha en que presenten su aviso de iniciación de operaciones, lo determinará la Secretaría de Administración Financiera; y
 
 IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, que realicen actividades gravadas dentro del territorio del mismo a través de representantes, se considerará como su domicilio el del representante.
 
@@ -483,9 +519,11 @@ IV.- Tratándose de personas físicas o morales, residentes fuera del Estado, qu
 
 La obligación fiscal nace cuando se realizan los supuestos jurídicos o de hecho previstos en las leyes fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 45.
 
-Los sujetos pasivos que causen impuestos estatales, deberán inscribirse en el Registro de Causantes de la Tesorería General a través de las Oficinas Recaudadoras, utilizando las formas oficiales que para el efecto les proporcionen. Igual obligación tendrán los retenedores aún cuando no causen directamente algún impuesto estatal.
+Los sujetos pasivos que causen impuestos estatales, deberán inscribirse en el Registro de Causantes de la Secretaría de Aministración (sic) Financiera a través de las Oficinas Recaudadoras, utilizando las formas oficiales que para el efecto les proporcionen. Igual obligación tendrán los retenedores aún cuando no causen directamente algún impuesto estatal.
 
 Los sujetos pasivos y los retenedores a que se refiere el presente artículo, también darán aviso a la Oficina Recaudadora correspondiente, cuando ocurran los siguientes cambios:
 
@@ -495,7 +533,9 @@ II.- De razón o denominación social, al que acompañarán copia de la escritur
 
 III.- De sus actividades cuando aumenten o disminuyan sus obligaciones fiscales; y
 
-IV.- De traspaso de la negociación o clausura definitiva. Y en general, de cualquier otro que se traduzca en alguna modificación de los datos que se encuentran registrados en la Tesorería General.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+IV.- De traspaso de la negociación o clausura definitiva. Y en general, de cualquier otro que se traduzca en alguna modificación de los datos que se encuentran registrados en la Secretaría de Administración Financiera.
 
 Los sujetos pasivos y retenedores a que se refiere este artículo, estarán obligados a tener a disposición de las autoridades fiscales, en su domicilio, los libros, registros y documentos relativos a su negociación; tendrán igualmente la obligación de citar el número de registro que les sea asignado, en cada declaración, manifestación, promoción, solicitud o gestión que hagan ante cualquier oficina o autoridad, y colocar su cédula de registro en lugar visible del establecimiento, sucursal, agencia o dependencia.
 
@@ -517,9 +557,11 @@ IV.- Los asientos de contabilidad en los libros autorizados deberán correrse de
 
 V.- Deberán conservar la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las obligaciones fiscales, en el domicilio del sujeto por un plazo mínimo de 5 años. En caso de clausura o liquidación, el plazo se contará a partir de la fecha de las mismas, debiendo señalarse en el aviso respectivo el domicilio en que estarán a disposición de las autoridades fiscales, tales libros y documentos.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 47.
 
-Los sujetos responsables solidarios y por objetividad, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las formas que al efecto apruebe la Tesorería General y proporcionar los datos e informes que en dichas formas se requieran. Las declaraciones, manifestaciones o avisos se presentarán en las oficinas fiscales respectivas. Cuando las disposiciones tributarias no señalen el plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
+Los sujetos responsables solidarios y por objetividad, en los casos que establezcan las disposiciones tributarias, tendrán obligación de presentar declaraciones, manifestaciones o avisos en las formas que al efecto apruebe la Secretaría de Administración Financiera y proporcionar los datos e informes que en dichas formas se requieran. Las declaraciones, manifestaciones o avisos se presentarán en las oficinas fiscales respectivas. Cuando las disposiciones tributarias no señalen plazo para la presentación de las declaraciones, manifestaciones o avisos, se tendrá por establecido el de quince días siguientes a la realización del hecho de que se trate.
 
 ###### ARTICULO 48.
 
@@ -563,7 +605,9 @@ Es obligación de las personas que obtengan los bienes o servicios consignados e
 
 En los casos de compra de mercancías facturadas en el extranjero, éstas deberán estar amparadas con la correspondiente relación aduanal de importación o boletas, en su caso, a nombre del causante.
 
-En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Tesorería General, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+En los casos en que no se recabe la documentación de referencia, el comprador deberá comunicarlo de inmediato a la Secretaría de Administración Financiera, y en caso de no hacerlo será solidariamente responsable del impuesto omitido.
 
 ## TITULO QUINTO. DE LOS CREDITOS FISCALES
 
@@ -585,7 +629,9 @@ La obligación a que se refiere el artículo anterior se determinará y liquidar
 
 Las obligaciones y los créditos a que este Código y las leyes fiscales del Estado se refieren, podrán garantizarse en alguna de las formas siguientes:
 
-I.- Depósito de dinero en la Tesorería General o en la Institución de Crédito Autorizada;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+I.- Depósito de dinero en la Secretaría de Administración Financiera o en la institución de crédito autorizada;
 
 II.- Prenda o hipoteca;
 
@@ -593,15 +639,21 @@ III.- Fianza otorgada por compañía autorizada, la que en ningún caso gozará 
 
 IV.- Secuestro en la vía administrativa;
 
-V.- Obligación solidaria asumida por tercero siempre que la Tesorería General lo autorice, tomando en consideración su idoneidad y solvencia; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-VI.- La garantía de un crédito fiscal deberá comprender la de los posibles recargos, gastos de ejecución y demás anexidades. La Tesorería General dictará las reglas sobre los requisitos que deban reunir las garantías, vigilando que sean suficientes tanto en el momento de su aceptación como con posterioridad, y en su caso, exigirá su aplicación o procederá al secuestro de otros bienes.
+V.- Obligación solidaria asumida por tercero siempre que la Secretaría de Administración Financiera lo autorice, tomando en consideración su idoneidad y solvencia; y
 
-La misma Tesorería podrá dispensar la garantía.
+> <small>(REFORMADA PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+VI.- La garantía de un crédito fiscal deberá comprender la de los posibles recargos, gastos de ejecución y demás anexidades. La Secretaría de Administración Financiera dictará las reglas sobre los requisitos que deban reunir las garantías, vigilando que sean suficientes tanto en el momento de su aceptación como con posterioridad, y en su caso, exigirá su aplicación o procederá al secuestro de otros bienes.
+
+La misma Secretaría podrá dispensar la garantía.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 53.
 
-La Tesorería General podrá dispensar la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo sean notorias la amplia solvencia del deudor, o la insuficiencia de su capacidad económica.
+La Secretaría de Administración Financiera podrá dispensar la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo sean notorias la amplia solvencia del deudor, o la insuficiencia de su capacidad económica.
 
 #### SECCION TERCERA. Terminación y Extinción de los Créditos Fiscales
 
@@ -611,9 +663,13 @@ Del Pago
 
 El pago de los créditos fiscales deberá hacerse en efectivo. Los giros postales, telegráficos o bancarios y los cheques certificados se admitirán como efectivo.
 
-También se admitirán como medio de pago los cheques de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezca la Tesorería General.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Tesorería General para exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectivo mediante los procedimientos establecidos en este Código para los demás créditos fiscales, sin perjuicio de la denuncia respectiva ante las autoridades competentes, si es que se estima necesario.
+También se admitirán como medio de pago los cheques de los causantes que cumplan con los requisitos que para hacer uso de esta forma de pago, establezca la Secretaría de Administración Financiera.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+La falta de pago inmediato de un cheque expedido para cubrir un crédito fiscal, por parte de la institución a cuyo cargo se hubiere librado, dará derecho a la Secretaría de Administración Financiera para exigir del librador el pago del importe del mismo y una indemnización del 20% del valor del cheque. Esta indemnización y el cobro del cheque se notificará y se hará efectivo mediante los procedimientos establecidos en este Código para los demás créditos fiscales, sin perjuicio de la denuncia respectiva ante las autoridades competentes, si es que se estima necesario.
 
 ###### ARTICULO 55.
 
@@ -639,11 +695,15 @@ III.- Los impuestos, derechos, contribuciones de mejoras, productos y aprovecham
 
 Podrá hacerse el pago de créditos fiscales "Bajo Protesta" cuando la persona que lo haga se proponga intentar recursos o medios de defensa. El pago así efectuado extingue el crédito fiscal y no implica consentimiento con la disposición o resolución a la que se dé cumplimiento.
 
-Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectuó bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la Oficina Receptora o a la Tesorería General que el pago se efectúa bajo protesta. La protesta quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos, o cuando de la resolución que se dicte resultare la procedencia del pago y el causante no interponga ningún otro recurso y cause ejecutoria tal resolución.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Las autoridades, a solicitud del interesado expresada en el momento de hacer el pago, deberán hacer constar que éste se efectuó bajo protesta. A falta de esta constancia bastará que el interesado, previa o simultáneamente al pago, exprese por escrito a la Oficina Receptora o a la Secretaría de Administración Financiera que el pago se efectúa bajo protesta. La protesta quedará sin efecto y el pago se considerará definitivo, desde la fecha en que se hizo el entero respectivo cuando no se promuevan los recursos o medios de defensa, o fueren rechazados o sobreseídos, o cuando de la resolución que se dicte resultare la procedencia del pago y el causante no interponga ningún otro recurso y cause ejecutoria tal resolución.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 58.
 
-La Tesorería General estará obligada a devolver las cantidades que hubieren sido pagadas indebidamente, conforme a las reglas que siguen:
+La Secretaría de Administración Financiera estará obligada a devolver las cantidades que hubieren sido pagadas indebidamente, conforme a las reglas que siguen:
 
 I.- Cuando el pago de lo indebido, total o parcialmente se hubiere efectuado en cumplimiento de resolución de autoridades que determine la existencia de un crédito fiscal, lo fije en cantidad líquida o dé las bases para su liquidación. El derecho a la devolución nace cuando dicha resolución hubiere quedado insubsistente;
 
@@ -657,15 +717,19 @@ IV.- No procederá la devolución de cantidades pagadas indebidamente cuando el 
 
 Para que se haga la devolución de cantidades indebidamente pagadas, será necesario:
 
-I.- Que se dicte el acuerdo del Tesorero General, o, en su defecto, del funcionario que de conformidad con el Reglamento Interior de la Tesorería General le corresponda suscribirla;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+I.- Que se dicte el acuerdo del Secretario de Administración Financiera, o, en su defecto, del funcionario que de conformidad con el Reglamento Interior de la Secretaría de Administración Financiera le corresponda suscribirla; y
 
 II.- Que el derecho para reclamar la devolución no se haya extinguido.
 
 La devolución se hará a petición del interesado, dentro de los treinta días siguientes a la fecha en que se suscriba el acuerdo respectivo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 60.
 
-La Tesorería General podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, casos en los cuales el plazo podrá ser hasta de dos años.
+La Secretaría de Administración Financiera podrá conceder prórroga para el pago de los créditos fiscales o para que los mismos sean cubiertos en parcialidades. La prórroga o el plazo dentro del cual deban pagarse las parcialidades, no excederá de un año, salvo que se trate de adeudos cuantiosos correspondientes a ejercicios fiscales anteriores, casos en los cuales el plazo podrá ser hasta de dos años.
 
 En los casos anteriores deberá garantizarse el interés fiscal conforme a las disposiciones de este Código.
 
@@ -697,7 +761,9 @@ Además de los casos indicados, los créditos y deudas del Fisco, únicamente po
 
 Cuando el crédito y la deuda no provengan de la aplicación de la misma ley, la deuda del Fisco sólo se considerará líquida y exigible si previamente ha sido reconocida por la autoridad competente.
 
-La compensación será declarada por la Tesorería General del Estado a petición del interesado; las autoridades fiscales, si llegaren a tener conocimiento de que se han satisfecho los requisitos para la compensación, podrán declararla de oficio.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+La compensación será declarada por la Secretaría de Administración Financiera a petición del interesado; las autoridades fiscales, si llegaren a tener conocimiento de que se han satisfecho los requisitos para la compensación, podrán declararla de oficio.
 
 De las Condonaciones
 
@@ -707,7 +773,9 @@ El Gobernador Constitucional del Estado, mediante disposición de carácter gene
 
 Salvo los casos sancionados en este artículo, serán nulas, de pleno derecho, las condonaciones totales o parciales, otorgadas por personas no facultadas para ello. Para quienes soliciten los beneficios a que se refiere este artículo, deberán:
 
-I.- Presentar escrito dirigido al Tesorero General del Estado, debidamente fundado y motivado; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+I.- Presentar escrito dirigido al Secretario de Administración Financiera debidamente fundado y motivado; y
 
 II.- La solicitud deberá efectuarla en forma directa el sector que pretenda resultar beneficiado o el representante legal debidamente acreditado.
 
@@ -721,17 +789,17 @@ Las resoluciones que se dicten en materia de condonación parcial, no podrán se
 
 Las multas cuya imposición hubiere quedado firme, deberán ser condonadas totalmente si, por pruebas diversas de las presentadas ante las autoridades correspondientes, en su caso, se demuestra que no se cometió la infracción o que la persona a la que se atribuye no es la responsable.
 
-> <small>(REFORMADO, P.O. 3 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-Las multas por infracciones a las disposiciones fiscales y los recargos, podrán ser condonadas parcialmente por el Tesorero General, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
+Las multas por infracciones a las disposiciones fiscales y los recargos, podrán ser condonadas parcialmente por el Secretario de Administración Financiera, quien apreciará discrecionalmente los motivos que tuvo la autoridad que impuso la sanción y las demás circunstancias del caso.
 
 De la Cancelación
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
 ###### ARTICULO 67.
 
-El Secretario de Finanzas podrá cancelar los créditos fiscales cuyo monto no exceda a la cantidad de $1,000.00.
+El Secretario de Administración Financiera podrá cancelar los créditos fiscales cuyo monto no exceda a la cantidad de $1,000.00.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1984)</small>
 
@@ -753,7 +821,9 @@ Las obligaciones ante el Fisco del Estado y los créditos a favor de éste por i
 
 La prescripción del crédito principal extingue simultáneamente los recargos y los gastos de ejecución.
 
-La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos y será declarada por la Tesorería General a petición del interesado.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+La prescripción se inicia a partir de la fecha en que el crédito o el cumplimiento de la obligación pudieron ser legalmente exigidos y será declarada por la Secretaría de Administración Financiera.
 
 ###### ARTICULO 70.
 
@@ -795,7 +865,9 @@ VIII.- Cuando se omita una prestación fiscal que corresponda a los actos o cont
 
 IX.- Cuando la liquidación de alguna prestación fiscal esté encomendada a funcionarios o empleados del Estado o de los Municipios, éstos serán responsables de las infracciones que se cometan y se les aplicarán las sanciones que correspondan, quedando únicamente obligados los causantes a pagar la prestación omitida, excepto en los casos en que este Código o alguna ley fiscal disponga que no se podrá exigir al causante dicho pago; y
 
-X.- La Tesorería General del Estado se abstendrá de imponer sanciones, cuando se haya incurrido en infracción, cuando se enteren, en forma espontánea, los créditos fiscales no cubiertos dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+X.- La Secretaría de Administración Financiera se abstendrá de imponer sanciones, cuando se haya incurrido en infracción, cuando se enteren, en forma espontánea, los créditos fiscales no cubiertos dentro de los plazos señalados por las disposiciones respectivas. No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento, visita, excitativa o cualquiera otra gestión efectuada por las mismas.
 
 #### SECCION SEGUNDA. Infracciones y Sanciones
 
@@ -997,7 +1069,9 @@ I.- En los casos en que de las actividades que realice una persona física o mor
 
 II.- En el caso de que una persona física o moral realice alguna actividad de cualquier índole sin las autorizaciones, licencias o permisos, que de conformidad con las leyes fiscales sean requisitos indispensables para su funcionamiento; y
 
-III.- En los casos que la autoridad presuma que el interés del Fisco del Estado, derivado de obligaciones a cargo de sujetos pasivos pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar, enajenar a cualquier título los bienes de su propiedad o aquellos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso la Tesorería General pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+III.- En los casos que la autoridad presuma que el interés del Fisco del Estado derivado de obligaciones a cargo de sujetos pasivos pudiera quedar insoluto, porque el obligado pretenda trasladar, ocultar, enajenar a cualquier título los bienes de su propiedad o aquellos que constituyan garantía del interés fiscal, sin perjuicio de que en este caso la Secretaría de Administración Financiera pueda embargar precautoriamente los bienes a que se refiere esta fracción en el mismo acto de la notificación;
 
 Lo anterior independientemente de la aplicación de las sanciones que por las infracciones en que hayan incurrido les corresponda, o de la responsabilidad penal si la hubiere.
 
@@ -1015,9 +1089,11 @@ III.- Las clausuras deberán ser ejecutadas en días y horas hábiles, pero en c
 
 En el acto de clausura deberán observarse las mismas formalidades que establece este Código para las visitas domiciliarias.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 81.
 
-Una vez clausurado un local o establecimiento, la Tesorería General podrá levantar la clausura, en los casos que correspondan, o cuando exista resolución de Autoridad Judicial o Laboral para tales efectos.
+Una vez clausurado un local o establecimiento, la Secretaría de Administración Financiera podrá levantar la clausura, en los casos que corresponda, o cuando exista resolución de autoridad judicial o laboral para tales efectos.
 
 ## TITULO SEPTIMO. DE LOS DELITOS
 
@@ -1047,13 +1123,21 @@ El proceso penal será independiente del proceso administrativo.
 
 Para proceder penalmente por los delitos fiscales previstos en este Código, será necesario:
 
-I.- Que la Tesorería General formule, en los casos en que proceda, la querella correspondiente de conformidad con lo establecido en el Código de Procedimientos Penales del Estado; y
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-II.- Que la Tesorería declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
+I.- Que la Secretaría de Administración Financiera formule, en los casos en que proceda, la querella correspondiente de conformidad con lo establecido en el Código de Procedimientos Penales del Estado; y
 
-Cuando los procesados por delitos a que se refiere este Capítulo, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien a juicio de la Tesorería General quede debidamente garantizado el interés fiscal, la misma Tesorería podrá solicitar el sobreseimiento del proceso por el delito fiscal, antes de que el Ministerio Público formule conclusiones.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-En los casos de delitos fiscales en que el daño patrimonial al Erario Estatal sea cuantificable, la Tesorería General acompañará la documentación que acredite su monto en la propia querella, o bien durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones.
+II.- Que la Secretaría declare previamente que el Fisco ha sufrido o pudo sufrir perjuicio.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Cuando los procesados por delitos a que se refiere este capítulo, paguen íntegramente las prestaciones fiscales originadas por los hechos imputados, o bien, a juicio de la Secretaría de Administración Financiera quede debidamente garantizado el interés fiscal, la misma Secretaría podrá solicitar el sobreseimiento del proceso por el delito fiscal, antes de que el Ministerio Público formule conclusiones.
+
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+En los casos de delitos fiscales en que el daño patrimonial al Erario Estatal sea cuantificable, la Secretaría de Administración Financiera acompañará la documentación que acredite su monto en la propia querella, o bien durante la tramitación del proceso respectivo antes de que el Ministerio Público formule conclusiones.
 
 ###### ARTICULO 87.
 
@@ -1067,9 +1151,11 @@ En los delitos fiscales la autoridad judicial no impondrá sanción pecuniaria.
 
 Las autoridades administrativas con arreglo a las leyes fiscales, harán efectivos los gravámenes eludidos y las sanciones administrativas correspondientes.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 90.
 
-La acción penal que nazca de delitos fiscales prescribirá en tres años, contados desde el día en que la Tesorería General tenga conocimiento del delito y del responsable y si no tiene ese conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito.
+La acción penal que nazca de delitos fiscales prescribirá en tres años, contados desde el día en que la Secretaría de Administración Financiera tenga conocimiento del delito y del responsable y si no tiene ese conocimiento, en cinco años, que se computarán a partir de la fecha de la comisión del delito.
 
 ###### ARTICULO 91.
 
@@ -1089,9 +1175,13 @@ Se impondrá prisión hasta de tres años a quien practique o pretenda practicar
 
 Se impondrá de 3 días a 5 años de prisión, a quien:
 
-I.- Grabe o manufacture, sin autorización de la Tesorería General, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Tesorería use para imprimir, grabar o troquelar calcomanías, formas valoradas numeradas, placas o tarjetones, así como falsificar firmas y sellos;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
 
-II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas, tarjetones o cualquier comprobante de pago de prestaciones fiscales, sin la autorización de la Tesorería General;
+I.- Grabe o manufacture, sin autorización de la Secretaría de Administración Financiera, matrices, punzones, dados, clichés o negativos, semejantes a los que la propia Secretaría use para imprimir, grabar o troquelar calcomanías, formas valoradas enumeradas, placas o tarjetones, así como falsificar firmas y sellos;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+II.- Imprima, grabe o troquele calcomanías, formas valoradas o numeradas, placas, tarjetones o cualquier comprobante de pago de prestaciones fiscales, sin la autorización de la Secretaría de Administración Financiera;
 
 III.- Altere en su valor, en el año de edición, en el resello, leyenda o clase, calcomanías, formas valoradas o numeradas, placas, tarjetones o comprobantes de pago de prestaciones fiscales, legalmente emitidos; y
 
@@ -1103,7 +1193,9 @@ Esta sanción se aplicará aún cuando el responsable no se haya propuesto obten
 
 Comete delito de uso de calcomanías, formas valoradas o numeradas, placas, tarjetones o cualquier otro medio de control fiscal, falsificados:
 
-I.- Quien a sabiendas de que fueron impresos o grabados sin autorización de la Tesorería General, los posea, venda, ponga en circulación o, en su caso, los adhiera en objetos, documentos o libros, o use en cualquier otra forma para ostentar el pago de alguna prestación fiscal;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+I.- Quien a sabiendas de que fueron impresos o grabados sin autorización de la Secretaría de Administración Financiera, los posea, venda, ponga en circulación o, en su caso los adhiera en objetos, documentos o libros, o use en cualquier otra forma para ostentar el pago de alguna prestación fiscal;
 
 II.- Quien los posea, venda, ponga en circulación o los utilice para el pago de alguna prestación fiscal, alterados en su valor, año de emisión, resello, leyenda o clase a sabiendas de ésta circunstancia;
 
@@ -1117,9 +1209,11 @@ El delito tipificado en el artículo anterior, será sancionado con prisión de 
 
 Al funcionario o empleado público en que cualquier forma participe en el delito citado, se le impondrá de uno a cinco años de prisión.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 97.
 
-Para la comprobación de los delitos previstos en los artículos 94 y 95, se deberá recabar en la averiguación previa, dictamen de peritos designados por la Tesorería General.
+Para la comprobación de los delitos previstos en los artículos 94 y 95, se deberá recabar en la averiguación previa, dictamen de peritos designados por la Secretaría de Administración Financiera.
 
 ###### ARTICULO 98.
 
@@ -1165,7 +1259,9 @@ Se impondrá prisión hasta de tres años, a quien:
 
 I.- Elabore productos gravados sin cumplir con las obligaciones que al efecto exijan las Leyes Fiscales;
 
-II.- Haga la elaboración de productos gravados con autorización legal, pero con equipo cuya existencia ignore la Tesorería General o que sin esa autorización hayan sido modificados;
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+II.- Haga la elaboración de productos gravados con autorización legal, pero con equipo cuya existencia ignore la Secretaría de Administración Financiera o que sin esa autorización hayan sido modificados;
 
 III.- Efectúe la elaboración empleando materias primas distintas de las autorizadas;
 
@@ -1315,9 +1411,11 @@ El requerimiento de pago se notificará, según el caso, en los términos de las
 
 Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada de la que también entregará copia.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 123.
 
-El procedimiento exactivo se radicará en la Oficina Recaudadora donde debió hacerse el pago, pero la Tesorería General podrá trasladarlo a cualquier otra demarcación para la práctica de una, alguna o de todas las diligencias respectivas.
+El procedimiento exactivo se radicará en la Oficina Recaudadora donde debió hacerse el pago, pero la Secretaría de Administración Financiera podrá trasladarlo a cualquier otra demarcación para la práctica de una, alguna o de todas las diligencias respectivas.
 
 ###### ARTICULO 124.
 
@@ -1439,7 +1537,9 @@ El ejecutor trabará ejecución en bienes bastantes para garantizar las prestaci
 
 El embargo de toda clase de negociaciones se regirá por lo establecido en este Código y en su defecto por las disposiciones del Código de Procedimientos Civiles del Estado.
 
-Si la negociación embargada fuera improductiva o estuviere abandonada, la Tesorería General podrá arrendarla a terceros, debidamente capacitados. En igualdad de circunstancias será preferido para el arrendamiento el propio deudor, si el abandono o improductividad hayan tenido como origen causas no imputables a él.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Si la negociación embargada fuera improductiva o estuviere abandonada, la Secretaría de Administración Financiera, podrá arrendarla a terceros, debidamente capacitados. En igualdad de circunstancias será preferido para el arrendamiento el propio deudor, si el abandono o improductividad hayan tenido como origen causas no imputables a él.
 
 ###### ARTICULO 135.
 
@@ -1471,7 +1571,9 @@ Si el deudor o cualquiera otra persona impidiere materialmente al ejecutor el ac
 
 Si durante el secuestro administrativo, la persona con quien se entienda la diligencia no abriere las puertas de las construcciones, edificios o casas que se embargaren o donde se presuma que existan bienes muebles embargables, el ejecutor, previo acuerdo fundado del jefe de la oficina ejecutora, hará que, ante dos testigos sean rotas las cerraduras que fuere necesario, según el caso, para que el depositario tome posesión del inmueble o para que siga adelante la diligencia.
 
-En igual forma procederá el ejecutor cuando la persona con quien se entienda o abriere los muebles que aquél suponga guardan dinero, alhajas, objetos de arte u otros bienes embargables; pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la oficina ejecutora, donde serán abiertos en el término de tres días, por el deudor o por su representante legal, y en caso contrario por un experto designado por la oficina en la forma que determine la Tesorería General.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+En igual forma procederá el ejecutor cuando la persona con quien se entienda no abriere los muebles que aquel suponga guardan dinero, alhajas, objetos de arte u otros bienes embargables pero si no fuere factible romper o forzar las cerraduras, el mismo ejecutor trabará embargo en los muebles cerrados y en su contenido, y los sellará y enviará en depósito a la Oficina Ejecutora, donde serán abiertos en el término de tres días, por el deudor o por su representante legal, y en caso contrario por un experto designado por la Oficina en la forma que determine la Secretaría de Administración Financiera.
 
 ###### ARTICULO 141.
 
@@ -1511,9 +1613,11 @@ El embargo de derechos reales o posesorios sobre bienes inmuebles o de negociaci
 
 La inscripción en la última dependencia, se verificará cuando no se encuentren registrados los bienes en la primera. Cuando los bienes raíces o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público de la Propiedad y del Comercio o Registros Catastrales de la oficina correspondiente, en todas ellas se inscribirá el secuestro.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 146.
 
-Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Tesorería General estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
+Los secuestros administrativos podrán ampliarse en cualquier momento del procedimiento de ejecución, cuando la Secretaría de Administración Financiera estime que los bienes embargados son insuficientes para cubrir las prestaciones fiscales insolutas y los vencimientos inmediatos.
 
 ###### ARTICULO 147.
 
@@ -1547,7 +1651,9 @@ Las autoridades fiscales procederán al remate de los bienes embargados después
 
 Salvo los casos que este Código autoriza toda venta se hará en subasta pública que se celebrará en el local de la Oficina Recaudadora.
 
-La Tesorería General, con objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes, fracciones o en piezas sueltas.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+La Secretaría de Administración Financiera, con objeto de obtener un mayor rendimiento, podrá designar otro lugar para la venta u ordenar que los bienes embargados se vendan en lotes, fracciones o en piezas sueltas.
 
 ###### ARTICULO 152.
 
@@ -1555,7 +1661,9 @@ Las autoridades no fiscales del Estado en ningún caso podrán sacar a remate bi
 
 Los remates que se celebren en contravención a lo dispuesto en el párrafo anterior, serán nulos y las adjudicaciones que se hagan como consecuencia de ellos, carecerán de todo valor y eficacia jurídica.
 
-Sin embargo, las autoridades no fiscales mencionadas podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del artículo 171, salvo que se garantice el interés fiscal a satisfacción de la Tesorería General.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Sin embargo, las autoridades no fiscales mencionadas podrán secuestrar el remanente que, llegado el caso, resulte del remate administrativo para los efectos del artículo 171, salvo que se garantice el interés fiscal a satisfacción de la Secretaría de Administración Financiera.
 
 ###### ARTICULO 153.
 
@@ -1569,7 +1677,9 @@ I.- La Oficina Recaudadora nombrará un perito y lo hará saber al interesado pa
 
 II.- Si transcurrido el término a que se refiere la fracción anterior el deudor no hace ninguna manifestación, servirá de base para el remate el avalúo que practique el perito designado por la oficina, y si dentro del mismo término expresa su inconformidad, al hacerlo designará el perito que le corresponda; y
 
-III.- En caso de discrepancia en los avalúos practicados por los dos peritos, la Tesorería General hará el nombramiento de un tercero.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+III.- En caso de discrepancia en los avalúos practicados por los peritos, la Secretaría de Administración Financiera hará el nombramiento de un tercero.
 
 ###### ARTICULO 155.
 
@@ -1643,9 +1753,11 @@ El recaudador fincará el remate en favor de quien hubiere hecho la mejor postur
 
 Fincado y aprobado el remate, se aplicará el depósito constituido y el postor, dentro de los cinco días siguientes a la fecha del remate, enterará en la caja de la Oficina Recaudadora, el saldo de la cantidad de contado ofrecido en su postura o mejoras, y constituirá las garantías a que se hubiere obligado por la parte del precio que quedare adeudando, en los términos de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 166.
 
-Si los bienes rematados fueran muebles o inmuebles cuyo valor exceda de $5,000.00, la Oficina Recaudadora, dentro de un plazo de tres días enviará el expediente a la Tesorería General para que previa revisión, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la Oficina Recaudadora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
+Si los bienes rematados fueran muebles o inmuebles cuyo valor exceda de $5,000.00, la Oficina Recaudadora, dentro de un plazo de tres días enviará el expediente a la Secretaría de Administrción (sic) Financiera para que previa revisión, apruebe el remate si el procedimiento se apegó a las normas que lo rigen. Si la resolución es negativa, el fincamiento que haya hecho la Oficina Recaudadora quedará sin efecto y el postor sólo tendrá derecho a que se le devuelva el depósito que hubiere constituido.
 
 Aprobado el remate se le comunicará al postor para que, dentro del plazo de diez días, entere en la caja de la Oficina Recaudadora la cantidad de contado ofrecida en su postura aceptada. Hecho el pago a que se refiere el párrafo anterior, y cuando proceda, designado el Notario por el postor, se citará al deudor para qué, dentro del plazo de tres días, otorgue y firme la escritura de venta correspondiente, apercibiéndolo de que si no lo hace, el jefe de la Oficina Recaudadora la otorgará y firmará en su rebeldía.
 
@@ -1713,7 +1825,9 @@ III.- En caso de posturas o pujas iguales, por la cantidad en que se haya produc
 
 IV.- Hasta por el monto del adeudo si éste no excede de la cantidad en que debe fincarse el remate en la tercera almoneda, de acuerdo con lo estipulado en la parte final del siguiente artículo.
 
-La adjudicación regulada en este artículo sólo será válida si es aprobada por la Tesorería General.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+La adjudicación regulada en este artículo sólo será válida si es aprobada por la Secretaría de Administración Financiera.
 
 ###### ARTICULO 174.
 
@@ -1729,7 +1843,9 @@ La base para el remate en tercera almoneda será fijada deduciendo un 20% a la d
 
 Las Oficinas Recaudadoras podrán vender, fuera de subasta, cuando se trate de bienes de fácil descomposición o deterioro, o materiales inflamables o semovientes y, cuando después de celebrada una almoneda desierta, se presente con posterioridad un comprador que satisfaga en efectivo el precio íntegro que no sea inferior a la base de la primera almoneda.
 
-Cuando se trate de bienes raíces o de bienes muebles, que habiendo salido a subasta por lo menos dos almonedas y no se hubieren presentado postores, las Oficinas Recaudadoras solicitarán de la Tesorería General autorización para su venta al mejor comprador.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+Cuando se trate de bienes raíces o de bienes muebles, que habiendo salido a subasta por lo menos dos almonedas y no se hubieren presentado postores, las Oficinas Recaudadoras solicitarán de la Secretaría de Administración Financiera autorización para su venta al mejor comprador.
 
 También procederá la venta, fuera de subasta, cuando el embargado señale al presunto comprador y acepte el precio que dicho comprador proponga, siempre que lo que se pague de contado, no sea menor al avalúo pericial o cubra cuando menos la totalidad de los créditos fiscales.
 
@@ -1737,7 +1853,9 @@ También procederá la venta, fuera de subasta, cuando el embargado señale al p
 
 Las cantidades excedentes después de haber hecho la aplicación del producto del remate, venta fuera de subasta o adjudicación de los bienes secuestrados, se entregará al embargado, salvo que medie orden escrita de autoridad competente o que el propio embargado acepte, también por escrito, que se haga entrega parcial o total del saldo a un tercero.
 
-En caso de conflicto, el remanente permanecerá en depósito en la Tesorería, en tanto resuelven los tribunales judiciales competentes.
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+En caso de conflicto, el remanente permanecerá en depósito en la Secretaría de Administración Financiera, en tanto resuelven los tribunales judiciales competentes.
 
 #### SECCION CUARTA. Tercerías
 
@@ -1787,7 +1905,9 @@ I.- Que el deudor se conforme con ello por escrito ante la Oficina Recaudadora c
 
 II.- Que medie orden escrita de autoridad competente; y
 
-III.- En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, se enviarán en depósito a la Tesorería General, mientras resuelven las autoridades competentes.
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
+III.- En caso de conflicto, las cantidades de dinero o valores que constituyan el remanente, se enviarán en depósito a la Secretaría de Administración Financiera, mientras resuelven las autoridades competentes.
 
 ### CAPITULO TERCERO. Suspensión del Procedimiento Administrativo de Ejecución
 
@@ -1807,9 +1927,11 @@ La suspensión podrá ser solicitada en cualquier tiempo ante la Oficina Recauda
 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución se hubieren ya secuestrado bienes suficientes para garantizar los intereses fiscales.
 
+> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1987)</small>
+
 ###### ARTICULO 187.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al Tesorero General si se está tramitando el recurso administrativo. El Tesorero General pedirá a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al Secretario de Administración Financiera si se está tramitando el recurso administrativo. El Secretario de Administración Financiera pedirá a la autoridad ejecutora un informe que deberá rendirse en un plazo de tres días y resolverá de inmediato la cuestión.
 
 ## TITULO NOVENO. DE LOS RECURSOS ADMINISTRATIVOS
 
@@ -2084,6 +2206,12 @@ Este decreto entrará en vigor a partir del día primero de enero de mil novecie
 En todos los casos en los que este Código y demás Leyes Fiscales se refieran al Tesorero General, se entenderá que se refieren al Secretario de Finanzas; asimismo, cuando se refieran a la Tesorería General, se entenderá que se refieren a la Secretaría de Finanzas.
 
 P.O. 26 DE DICIEMBRE DE 1986.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 20 DE NOVIEMBRE DE 1987.
 
 ###### ARTICULO UNICO.
 
