@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2002-06-07"
+last_updated: "2003-11-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PUBLICO DE BEBIDAS ALCOHOLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE NOVIEMBRE DE 2003.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -365,7 +365,9 @@ III.- Deficientes mentales.
 
 De la prohibición en fechas específicas.- Queda prohibido a los permisionarios, encargados o empleados de los establecimientos o giros autorizados, vender o permitir el consumo de bebidas alcohólicas a personas menores de dieciocho años. Así mismo y de manera general, deberán suspender las actividades a que se refiere esta Ley, en las fechas siguientes:
 
-I.- El día anterior y aquel en el que se efectúe una jornada electoral de conformidad con las leyes de la materia;
+> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2003)</small>
+
+I.- En aquellos casos que establezcan las disposiciones federales en materia electoral;
 
 II.- Los días o por el término que en forma expresa determine el ayuntamiento, en casos de riesgo, emergencia o por causa de seguridad pública municipal; y
 
@@ -516,3 +518,7 @@ UNICO.- La presente reforma entrará en vigencia al día siguiente de su publica
 P.O. 7 DE JUNIO DE 2002.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE BAJA CALIFORNIA.
+
+P.O. 14 DE NOVIEMBRE DE 2003.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
