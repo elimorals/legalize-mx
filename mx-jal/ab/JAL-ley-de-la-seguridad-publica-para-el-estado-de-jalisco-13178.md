@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-la-seguridad-publica-para-el-estado-de-jalisco-13178"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-28"
-last_updated: "2000-07-25"
+last_updated: "2002-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13178&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el martes 28 de diciembre de 1993.
 
@@ -337,45 +337,53 @@ I. Percibir un salario suficiente para satisfacer sus necesidades fundamentales,
 
 II. Recibir un trato respetuoso de sus superiores;
 
-III. Disfrutar de la estabilidad y permanencia en su trabajo y recibir la capacitación adecuada;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+III. Disfrutar, de conformidad a la ley, de la estabilidad y permanencia en su trabajo y recibir capacitación permanente y adecuada al cargo y funciones que desempeñen;
 
 IV. Contar con el equipo que garantice su seguridad y los medios necesarios para el cumplimiento de sus tareas;
 
-V. Recibir asesoría jurídica en forma gratuita cuando al actuar con apego a las disposiciones legales por motivos del servicio, exista algún procedimiento instaurado en su contra, excepto cuando se trate de correcciones disciplinarias;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+V. Recibir asistencia jurídica en forma gratuita, por parte de la entidad pública o por el tercero con el que ésta contrate, cuando al actuar con apego a las disposiciones legales por motivos del servicio, exista algún procedimiento instaurado en su contra, excepto cuando se trate de correcciones disciplinarias;
 
 VI. Obtener la homologación de su salario y de los beneficios de los contratos de seguros, respecto de los demás elementos de los cuerpos de seguridad pública;
 
-VII. En casos de urgencia, por causas de prestación del servicio, recibir atención médica de inmediato en hospitales públicos o privados en los términos de la Ley General de Salud; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+VII. En caso de urgencia, por causa de la prestación del servicio, recibir atención médica de inmediato en hospitales públicos o privados, en cuyo caso los costos ocasionados por dichos servicios serán cubiertos por la dependencia a la que pertenezca; los servicios médicos serán prestados en los términos de la ley General de Salud;
 
 VIII. Los demás que les otorguen otras leyes.
 
 ### CAPITULO SEGUNDO. Del Régimen Disciplinario
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE ENERO DE 1998)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 14.
 
-Para que a un elemento operativo de alguna corporación de Seguridad Pública, Policía Investigadora o de la Secretaría de Vialidad y Transporte se le confiera un grado superior, deberá ser propuesto por el titular de la dependencia para que participe en un curso de actualización y apruebe el examen correspondiente en la Academia de Policía y Vialidad.
+Para que a un elemento operativo de cualquier corporación de Seguridad Pública, o de la Secretaría de Vialidad y Transporte sea promovido a un grado superior por méritos en servicios, deberá ser propuesto por su inmediato superior; sus compañeros o el titular de la Dependencia para que participe en un curso de actualización y apruebe el examen correspondiente en la Academia de Policía y Vialidad.
 
-El procedimiento y requisitos que se deberán cumplir para la aplicación del presente artículo, se establecerán en el reglamento correspondiente.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 1998)</small>
+La propuesta para la promoción de grado por méritos en servicio deberá ser calificada por una Comisión de Carrera Policial, conformada por dos miembros nombrados por la corporación, uno de los cuales será el Presidente y tendrá voto de calidad en caso de empate, y dos miembros operativos designados por insaculación y de conformidad con el reglamento. Las bases y procedimientos, así como los puestos susceptibles de promoción y demás requisitos para elegir a los integrantes de la Comisión se establecerán en el reglamento de la Comisión de Carrera Policial.
 
 En el caso de los integrantes de la Policía Investigadora se estará a lo que sobre el particular señalen la Ley Orgánica, reglamentos y programas de la Procuraduría General de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 15.
 
-No se podrá degradar o sancionar a ningún elemento de los cuerpos de seguridad pública sino por causa justificada, que deberá razonarse debidamente en su expediente y previo respeto de la garantía de audiencia y defensa.
+No se podrá degradar o sancionar a ningún elemento de los cuerpos de seguridad pública sino por causa justificada, debidamente fundada y motivada, misma que deberá razonarse en su expediente y previo respeto de la garantía de audiencia y defensa.
 
 ###### Artículo 16.
 
 Los correctivos disciplinarios y sanciones a que se hagan acreedores los miembros de los cuerpos de seguridad pública estarán regulados por la Ley de Responsabilidades de los Servidores Públicos del Estado, la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, y el Reglamento Interior de la Corporación de la que formen parte.
 
-> <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 17.
 
-Además de lo dispuesto en el artículo anterior, los titulares de los cuerpos policíacos, podrán aplicar arrestos disciplinarios que no excedan de 36 horas razonando debidamente el motivo.
+Además de lo dispuesto en el artículo anterior, los titulares de los cuerpos policíacos, podrán aplicar arrestos disciplinarios que no excedan de 36 horas mismo que deberá estar fundado y motivado en base a las leyes y al reglamento de cada corporación.
+
+El arresto aplicado a un elemento de los cuerpos de seguridad deberá cumplirse de manera continua y en un lugar especialmente destinado para ello; no podrá incomunicarse a los elementos que se encuentren bajo arresto.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -413,7 +421,11 @@ IX. Por desacato injustificado a órdenes de sus superiores;
 
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
-X. Asistir a sus labores bajo el influjo del alcohol, sustancias psicotrópicas o estupefacientes; o por consumirlos durante el servicio o en su centro de trabajo; disparar arma de fuego sin causa justificada dentro del servicio; o diversa conducta que constituya indisciplina grave.
+X. Asistir a sus labores bajo el influjo del alcohol, sustancias psicotrópicas o estupefacientes; o por consumirlos durante el servicio o en su centro de trabajo; disparar arma de fuego sin causa justificada dentro del servicio; o diversa conducta que constituya indisciplina grave;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+XI. Hacer uso injustificado de la fuerza en sus funciones en contra de personas que no opongan resistencia o que no representen una amenaza a la integridad física de los elementos de las corporaciones de seguridad pública o de las personas.
 
 > <small>(F. DE E., P.O. 17 DE MAYO DE 1994)</small>
 
@@ -479,11 +491,13 @@ En la Academia de Policía y Vialidad, existirá una Comisión Técnica de Profe
 
 A la Academia de Policía y Vialidad le corresponderá la ejecución y desarrollo del Reglamento General de Formación Policial respectivo. En ella se formarán y prepararán profesionalmente, en el mando y la administración, los elementos que servirán a la comunidad. Esa Academia elaborará los programas específicos necesarios para la adecuada aplicación del propio Reglamento.
 
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 28.
 
 La única vía de ingreso a los cuerpos de seguridad pública será a través de la Academia de Policía y Vialidad, mediante la aprobación de los cursos correspondientes.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 1999)</small>
 
 Son requisitos para ingresar a los cuerpos de seguridad pública, los siguientes:
 
@@ -506,6 +520,10 @@ VIII. Vecindad de por lo menos dos años en el Estado;
 IX. No estar suspendido ni haber sido destituido del mismo o de otro cuerpo policiaco, con causa justificada; y
 
 X. Tener acreditado el Servicio Militar Nacional.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+En el caso de los aspirantes a ingresar a la Policía Investigadora deberán estarse además a lo que sobre el particular se establezca en la Ley Orgánica, reglamentos y programas de la Procuraduría General de Justicia del Estado.
 
 ## TITULO QUINTO
 
@@ -573,7 +591,9 @@ I. Un Presidente que será la persona que el Ejecutivo del Estado designe;
 
 II. Dos Consejeros nombrados por el propio Ejecutivo Estatal;
 
-III. Los Presidentes Municipales de la Región donde se constituya, o sus representantes;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2002)</small>
+
+III. Los presidentes municipales de la región donde se constituya, o sus representantes, que invariablemente tendrán que ser el director de seguridad pública o el regidor que presida la comisión edilicia encargada del ramo de seguridad pública en cada municipio o región;
 
 IV. Cuatro Representantes de la Sociedad Civil a invitación del propio Consejo;
 
@@ -1166,3 +1186,9 @@ P.O. 9 DE DICIEMBRE DE 1999.
 P.O. 25 DE JULIO DEL 2000.
 
 ÚNICO.- La presente reforma entrará en vigor 90 días después de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE DICIEMBRE DE 2002.
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Conforme a lo establecido en la fracción V del artículo 13, el Estado y los municipios tendrán un plazo de 90 días a partir de la entrada en vigor de este decreto, a fin de que establezcan los mecanismos necesarios para el cumplimiento de esta disposición.
