@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1949-02-02"
+last_updated: "1949-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE FEBRERO DE 1949.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ABRIL DE 1949.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -491,7 +491,7 @@ X. Fijar las bases a los Ayuntamientos para la contratación de emprésitos.
 
 > <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-XI. Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva.
+XI.- Suprimir empleos públicos de acuerdo con las disposiciones de la Ley respectiva.
 
 XII. Conceder permisos y decretar honores por servicios eminentes prestados a la Humanidad, a la Patria o al Estado.
 
@@ -781,13 +781,19 @@ No pueden obtener el cargo de Gobernador del Estado por elección:
 
 I.- Los Ministros de cualquier culto, aún cuando hayan renunciado su ministerio.
 
-II.- Los que tengan mando de fuerza en el Estado, si lo han conservado dentro del año inmediato a la elección.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
 
-III.- Los militares que no se hayan separado del servicio activo por lo menos dos años antes de la elección.
+II.- Los que tengan mando de fuerza en el Estado, si lo han conservado dentro de los seis meses anteriores al día de la Elección.
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+
+III.- Los Militares que no se hayan separado del servicio activo por lo menos ciento ochenta días antes de la Elección.
 
 IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos ciento ochenta días antes de la elección, sean o nó (sic) de elección popular.
 
-V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia, ni el Secretario General de Gobierno o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos noventa días antes de la elección.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+
+V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia, y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos seis meses antes de la Elección.
 
 VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
@@ -815,7 +821,7 @@ Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado pa
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituido en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -1720,3 +1726,7 @@ P.O. 2 DE FEBRERO DE 1949.
 PRIMERO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial de Estado.
 
 SEGUNDO.- Queda abrogado el Artículo 12 del Decreto No. 107 expedido por la H. Legislatura del Estado, el 19 de noviembre de 1946.
+
+P.O. 6 DE ABRIL DE 1949.
+
+UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
