@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2004-10-16"
+last_updated: "2004-10-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE OCTUBRE DE 2004.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -73,9 +73,13 @@ a) Examinar, discutir y, en su caso, aprobar el presupuesto que en relación con
 
 b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva.
 
+> <small>(ADICIONADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+c) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior. La cuenta deberá ser presentada durante el mes de mayo, a fin de conocer los resultados de la gestión financiera, comprobar si se ha dado cumplimiento a los objetivos contenidos en los programas y ajustado a los criterios señalados en el presupuesto.
+
 II. En el Segundo Período de Sesiones Ordinarias:
 
-a) Revisar y dictaminar la cuenta pública del Gobierno del Estado, correspondiente al año anterior, en términos de la ley de la materia; y
+a) (DEROGADO, G.O. 25 DE OCTUBRE DE 2004)
 
 b) Examinar, fiscalizar y aprobar las cuentas de recaudación y distribución de ingresos del año próximo anterior, presentadas por los Ayuntamientos, conforme a la ley de la materia.
 
@@ -341,7 +345,9 @@ XXIX. Revisar las Cuentas Públicas del Gobierno del Estado y de los Ayuntamient
 
 XXX. Dar las bases legales para reconocer y mandar pagar los adeudos contraídos por el Poder Ejecutivo, con cargo al crédito del Estado, así como señalar los fondos con que deberán pagarse;
 
-XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute, de bienes inmuebles de propiedad estatal, en los términos que fije la ley;
+> <small>(REFORMADA, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+XXXI. Autorizar al Ejecutivo del Estado a enajenar, a título oneroso o gratuito, o a conceder el uso y disfrute de bienes de propiedad estatal, en los términos que fije la ley;
 
 XXXII. Revisar y fiscalizar las cuentas y demás documentos que presenten o se soliciten a los organismos autónomos de Estado;
 
@@ -765,7 +771,9 @@ El mismo procedimiento se aplicará cuando se discuta una ley o se estudie un ne
 
 La víspera del día en que concluyan los periodos de sesiones ordinarias, el Congreso del Estado, mediante votación secreta y por mayoría de los diputados presentes, elegirá una Diputación Permanente, compuesta por el cuarenta por ciento del total de los integrantes del Congreso, de los cuales la mitad actuará como propietarios y los demás como sustitutos; de entre ellos se elegirá una directiva compuesta por un presidente, un vicepresidente y un secretario.
 
-La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de Diputados pertenecientes a los diversos Grupos Legislativos.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de diputados pertenecientes a los diversos grupos legislativos, en los términos que establezca esta Ley.
 
 ###### Artículo 42.
 
@@ -813,11 +821,11 @@ Cerrado el período ordinario de sesiones del Congreso, se declarará instalada 
 
 La Diputación Permanente sesionará al menos cada quince días; y las veces que estime conveniente previa convocatoria de su Presidente.
 
-> <small>(F. DE E., G.O. 25 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
 
 ###### Artículo 46.
 
-La Diputación Permanente preparará un informe de los asuntos que hubiere despachado en su gestión y de los que estén pendientes de resolución, con el cual dará cuenta el primer día de sesiones ordinarias, a efecto de que el Congreso proceda a su desahogo. En el último año de su ejercicio, dicho informe se rendirá en el mes de octubre con asistencia del Gobernador del Estado y del Presidente del Tribunal Superior de Justicia.
+La Diputación Permanente preparará un informe de los asuntos que hubiere despachado en su gestión y de los que estén pendientes de resolución, con el cual dará cuenta el primer día de sesiones ordinarias, a efecto de que el Congreso proceda a su desahogo. En el último año de su ejercicio, dicho informe se presentará por escrito después de la última sesión del mes de octubre, a efecto de que el secretario general dé cuenta con él a la nueva Legislatura, que conocerá del mismo en su primera sesión ordinaria, para los efectos legales procedentes.
 
 > <small>(ADICIONADO, G.O. 2 DE FEBRERO DE 2001)</small>
 
@@ -837,7 +845,9 @@ b). Las ausencias del vicepresidente o el secretario por el diputado que elija l
 
 El Congreso del Estado, así como sus Comisiones y la Diputación Permanente, tomarán sus decisiones por el voto aprobatorio de la mayoría de los Diputados presentes, salvo en aquellos casos en que la Constitución del Estado y esta ley exijan mayoría calificada.
 
-Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo, reforma constitucional o iniciativa ante el Congreso de la Unión.
+> <small>(REFORMADO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
+Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa ante el Congreso de la Unión.
 
 ### CAPÍTULO II. DEL PROCESO LEGISLATIVO
 
@@ -859,9 +869,11 @@ VI. A los organismos autónomos de Estado, en lo relativo a la materia de su com
 
 VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 25 DE OCTUBRE DE 2004)</small>
+
 ###### Artículo 49.
 
-Las iniciativas de ley, decreto o reforma constitucional, deberán sujetarse a los trámites siguientes:
+Las iniciativas de ley o decreto se sujetarán a los trámites siguientes:
 
 I. Turno a Comisiones;
 
@@ -1184,3 +1196,11 @@ PRIMERO.- El presente Decreto entrará en vigor el treinta y uno de octubre de d
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+G.O. 25 DE OCTUBRE DE 2004.
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. Publíquese en la Gaceta Oficial, órgano del gobierno del estado.
