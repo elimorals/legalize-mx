@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-publica-para-el-estado-de-aguascalientes-22010
 country: "mx"
 rank: "ley"
 publication_date: "2001-07-16"
-last_updated: "2003-05-26"
+last_updated: "2004-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSION CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 29 DE OCTUBRE DE 2012 Y 5 DE NOVIEMBRE DE 2012 EN EL P.O., SE RECOMIENDA ACUDIR A LOS TEXTOS QUE SE VISUALIZAN DENTRO DE LAS CRONOLOGIAS CORRESPONDIENTES A DICHAS FECHAS, EN EL INDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE FEBRERO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de julio de 2001.
 
@@ -149,7 +151,9 @@ III.- La Unidad Administrativa encargada de la coordinación del personal de Seg
 
 IV.- Las demás que se constituyan con estricto apego a la ley.
 
-La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta Ley sin perjuicio de lo previsto en la Ley Orgánica de la Procuraduría, su reglamento y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2004)</small>
+
+La Policía Ministerial del Estado quedará sujeta, por su ámbito de competencia, a las disposiciones de esta ley, sin que ello demerite sus funciones y su sujeción a la potestad y vigilancia del Ministerio Público.
 
 ###### ARTICULO 8o.
 
@@ -1374,3 +1378,7 @@ SEGUNDO.- Las personas físicas o morales que presten servicios de seguridad pri
 TERCERO.- Las personas físicas y morales que a la entrada en vigor de esta Ley presten servicios de seguridad privada, continuarán haciéndolo hasta el vencimiento del plazo de la autorización respectiva, sin perjuicio de que se cumplan las obligaciones previstas en los artículos 15, 16, 17, 18, 19, 20 y 21 de esta Ley. Al concluir la vigencia de su autorización, sólo podrán prestar dichos servicios de conformidad con lo que dispone esta Ley.
 
 CUARTO.- Lo establecido en el párrafo último del Artículo 22 de la presente Ley, se aplicará a partir del mes de enero del año 2004.
+
+P.O. 12 DE FEBRERO DE 2004.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
