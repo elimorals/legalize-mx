@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1974-12-28"
+last_updated: "1975-12-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEON
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1975.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -37,9 +37,11 @@ LEY DE HACIENDA DEL ESTADO
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 1o.
 
-Los impuestos, derechos, productos y aprovechamientos que debe percibir el Estado de Nuevo León, de acuerdo con la Ley de Ingresos respectiva, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
+Los Impuestos, contribuciones especiales, derechos, productos y aprovechamientos que debe percibir el Estado de Nuevo León, de acuerdo con la Ley de Ingresos respectiva, se causarán y recaudarán conforme a las disposiciones de ésta y de las demás leyes fiscales aplicables.
 
 ###### ARTICULO 2o.
 
@@ -171,7 +173,9 @@ c) Los predios que perteneciendo a particulares, estén destinado (sic) a un ser
 
 d) Los predios ejidales;
 
-e) Los predios cuyo valor real no exceda de $ 100,000.00 y que pertenezcan a:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+e) Los predios cuyo valor real no exceda de $160,000.00 y que pertenezcan a:
 
 1.- Huérfanos menores de 16 años;
 
@@ -193,7 +197,9 @@ i) Los predios afectos al patrimonio de familia, en los términos del Código Ci
 
 j) Los predios pertenecientes a los trabajadores del Estado, siempre que en ellos habiten y no tengan otro bien raíz en la entidad.
 
-k) Los entes u organismos creados por el poder público, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado ''Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+k) Los entes u organismos creados por el Gobierno del Estado de Nuevo León para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que lleven a cabo programas concretos con finalidades y características iguales o similares a las que persigue el fideicomiso denominado "Fomento Metropolitano de Monterrey", respecto de los predios directamente destinados a esos programas.
 
 II.- Total por tiempo determinado:
 
@@ -661,9 +667,11 @@ II.- Las Oficinas Recaudadoras del Estado dentro de sus respectivas jurisdiccion
 
 Los causantes de este impuesto están obligados a empadronarse en la oficina recaudadora de su jurisdicción. Cuando un mismo causante tenga diversos giros, sucursales, bodegas o dependencias, deberá empadronar cada uno de ellos por separado.
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 59.
 
-Los causantes presentarán sus solicitudes de empadronamiento dentro de los diez días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exigen.
+Los causantes presentarán sus solicitudes de empadronamiento dentro de los quince días siguientes a la fecha de iniciación de sus operaciones, haciendo uso de las formas oficialmente aprobadas, con los datos que en ellas se exigen.
 
 ###### ARTICULO 60.
 
@@ -935,7 +943,7 @@ Las infracciones que se cometan al presente capítulo, si no se encuentran expre
 
 ###### ARTICULO 103.
 
-Se estará al Código Fiscal del Estado de Nuevo León, en todo lo no previsto en este capítulo.
+(DEROGADO, P.O. 27 DE DICIEMBRE DE 1975)
 
 ### CAPITULO TERCERO. Del Impuesto sobre Enajenación de Automóviles, Camiones y demás vehículos de motor
 
@@ -1007,9 +1015,11 @@ La Universidad Autónoma de Nuevo León notificará a la Tesorería General, de 
 
 Es objeto de este impuesto, la celebración de contratos de mutuo garantizados con hipoteca o fideicomiso de garantía sobre inmuebles
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 117.
 
-Son sujetos del impuesto a que se refiere este Capítulo, las personas físicas, morales o unidades económicas que aparezcan como acreedores en los contratos de mutuo señalados en el artículo anterior.
+Son sujetos del Impuesto a que se refiere este Capítulo, las personas físicas, morales o unidades económicas que aparezcan como acreedores en los contratos de mutuo señalados en el Artículo anterior. Son solidariamente responsables del pago de este Impuesto, las personas físicas, morales o unidades económicas que aparezcan como deudores en los referidos contratos.
 
 ### CAPITULO QUINTO. Del Impuesto sobre Capitales Invertidos con Garantía de Inmuebles
 
@@ -1279,7 +1289,9 @@ La Tesorería General podrá celebrar convenios con Petróleos Mexicanos para qu
 
 Es objeto de este Impuesto la realización de pagos en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado bajo la subordinación a un patrón, dentro del territorio del Estado.
 
-Para los efectos de este gravamen se consideran remuneraciones al trabajo personal, todas las contraprestaciones, cualquiera que sea el nombre con que se les designe, ya sean ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones y otros conceptos de naturaleza análoga.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+Para los efectos de este gravamen se consideran remuneraciones al trabajo personal todas las contraprestaciones, cualquiera que sea el nombre con el que se les designe, ya sea ordinarias o extraordinarias, incluyendo viáticos, gastos de representación, comisiones, premios, gratificaciones, y otros conceptos de naturaleza análoga, aún cuando se eroguen en favor de personas que, teniendo su domicilio en Nuevo León, por motivo de su trabajo, presten trabajo personal subordinado fuera del Estado.
 
 Son también objeto de este impuesto los pagos realizados a los Directores, Gerentes, Administradores, Comisarios, miembros de los consejos directivos o de vigilancia de sociedades o asociaciones.
 
@@ -1977,9 +1989,11 @@ Ayuntamiento respectivo.
 
 c) Los Trabajadores al Servicio del Estado, Federación o Municipio, siempre que habiten el inmueble objeto del impuesto y no posean otro bien raíz en el Estado.
 
-d) Los entes u organismos creados por el poder público para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
 
-e) Las operaciones celebradas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado ''Fomento Metropolitano de Monterrey '', para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
+d) Los entes u organismos creados por el Gobierno del Estado de Nuevo León, para solucionar el problema de la vivienda y de la tenencia legal de la tierra, así como las personas que resulten directamente beneficiadas con sus programas.
+
+e) Las operaciones celebradas por o con personas que lleven a cabo programas concretos, con finalidades y características iguales o similares a las que persigue el fideicomiso denominado ''Fomento Metropolitano de Monterrey'', para solucionar el problema de la vivienda y de la tenencia legal de la tierra, previa autorización del H. Congreso del Estado, a iniciativa del C. Gobernador, quien solicitará opinión del Presidente Municipal que corresponda.
 
 f) El acto constitutivo del fideicomiso de garantía, de administración o testamentario.
 
@@ -2119,9 +2133,11 @@ IV.- Expedición de copias certificadas de las actas del estado civil, cada una 
 
 V.- Cuando los servicios del oficial se presten a solicitud del interesado en horas y días inhbiles (sic), o en lugar distinto a la sede de la Oficialía, su inscripción causará una cuota de $ 250.00
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 271.
 
-Por los servicios del Registro Público de la Propiedad y del Comercio, de conformidad con la siguiente
+Por los servicios del Registro Público de la Propiedad y del Comercio, de conformidad con la siguiente:
 
 T A R I F A
 
@@ -2143,7 +2159,9 @@ f) Por el excedente de $50'000,000.00, se pagarán, por cada millar o fracción 
 
 g) Si el valor es indeterminado ........ $50.00
 
-h) Cuando una parte del valor sea determinada y la otra no, se cubrirá por la determinada conforme a los incisos del a) al f) y por la indeterminada la cuota que señala el inciso anterior.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+h).- Cuando una parte del valor sea determinada y la otra no, se cubrirá por la determinada conforme a los incisos del a) al f) y por la indeterminada la cuota que señala el inciso anterior. En los casos de donación sin valor (usufructo, uso, habitación, nuda propiedad) se procederá a practicar avalúo bancario y según el valor resultante se aplicará esta tarifa.
 
 Las cuotas señaladas en esta fracción serán aplicables, por el valor que consignen, a todo documento o acto jurídico que sea motivo de inscripción en el Registro Público.
 
@@ -2258,6 +2276,26 @@ Tratándose de vehículos por los cuales deba pagarse el Impuesto sobre Tenencia
 Quienes se encuentren obligados legalmente a proveerse de placas, licencias para manejar o cualesquiera otros documentos a que se refiere este Artículo, deberán hacerlo dentro del término que se señale al efecto.
 
 La expedición de las placas y tarjetas de circulación a que se refieren las fracciones VII, XI, XII Y XIII y de licencias para manejar a que se refiere la fracción XV, se hará por bienios, cobrándose el Derecho correspondiente a dos anualidades. Si la expedición de las placas, tarjetas o licencias se efectúa durante el segundo año del bienio, únicamente es (sic) pagará lo correspondiente a una anualidad.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+XVII.- Por expedición de certificado de valor actual real, según el valor determinado en el avaluó se pagará:
+
+a).- Si no excede de $100,000.00 $100.00
+
+b).- Si excede de $100,000.00
+
+Pero no de $250,000.00 $250.00
+
+c).- Si excede de $250,000.00
+
+Pero no de $500,000.00 $350.00
+
+d).- Si excede de $500,000.00 $500.00
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 1975)</small>
+
+XVIII.- Por revalidación o refrendo anual de fierros de herrar o marcas de sangre $50.00
 
 ### CAPITULO SEGUNDO. De los Derechos por Servicios Prestados por la Secretaría General de Gobierno
 
@@ -2397,9 +2435,11 @@ En los Municipios de Monterrey, Guadalupe, San Nicolás de los Garza, Garza Garc
 
 En los demás Municipios del Estado, esta tasa adicional será del 20% (veinte por ciento).
 
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1975)</small>
+
 ###### ARTICULO 283.
 
-Se pagará el 20% (veinte por ciento) adicional sobre el importe de los siguientes impuestos y derechos: Ingresos Mercantiles, Ganadería, Placas y Licencias, Registro Civil, y Registro de Fierros y Señales de Ganado.
+Se pagará el 20% (VEINTE POR CIENTO) adicional sobre el importe de los siguientes Impuestos y Derechos: Ingresos Mercantiles, Sobre Enajenación de Automóviles, Camiones y demás vehículos de motor, Sobre Compra-Venta o Permuta de Ganado.
 
 ###### ARTICULO 284.
 
@@ -2482,3 +2522,15 @@ PEDRO G. ZORRILLA MARTINEZ
 LIC. CESAR SANTOS SANTOS
 
 EL SECRETARIO GENERAL DE GOBIERNO
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 27 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO
+
+- El presente Decreto entrará en vigor el 1o. de Enero de 1976.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan las disposiciones que se opongan al fiel y exacto cumplimiento de esta Ley.
