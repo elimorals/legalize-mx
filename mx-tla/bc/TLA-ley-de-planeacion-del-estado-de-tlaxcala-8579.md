@@ -4,7 +4,7 @@ identifier: "TLA-ley-de-planeacion-del-estado-de-tlaxcala-8579"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-04"
-last_updated: "1999-06-02"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "TLA"
 ---
 # LEY DE PLANEACION DEL ESTADO DE TLAXCALA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE PLANEACION DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE JUNIO DE 1999.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FINANCIERO PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, PUBLICADO EN EL PERIODICO OFICIAL EL 31 DE DICIEMBRE DE 2002.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: ABROGADA.
 
 Ley publicada en el Periódico Oficial del Estado de Tlaxcala, el 4 de abril de 1984.
 
@@ -324,3 +328,57 @@ P.O. 2 DE JUNIO DE 1999.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2011 EN EL P.O. DEL ESTADO DE TLAXCALA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
+P.O. 31 DE DICIEMBRE DE 2002.
+
+###### ARTÍCULO PRIMERO.
+
+El presente código entrará en vigor a partir del día siguiente al de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan en forma específica el Código Fiscal del Estado, publicado en el Periódico Oficial de fecha 31 de diciembre de 1981; la Ley de Hacienda del Estado de Tlaxcala, publicada en el Periódico Oficial de fecha 30 de diciembre de 1983; la Ley de Planeación del Estado de Tlaxcala, publicada en el Periódico Oficial de fecha 4 de abril de 1984; la Ley de la Hacienda Pública del Estado de Tlaxcala, publicada en el Periódico Oficial de fecha 7 de abril de 1998; Ley de Hacienda para los Municipios del Estado, publicada en el Periódico Oficial de fecha 28 de diciembre de 1983; Ley Municipal del Impuesto Predial, publicada en el Periódico Oficial de fecha 30 de diciembre de 1983; Ley de Catastro del Estado de Tlaxcala, publicada en el Periódico Oficial de fecha 28 de diciembre de 1983; Ley de Coordinación Hacendaria para el Estado de Tlaxcala y sus Municipios, publicada en el Periódico Oficial de fecha 19 de noviembre de 1999, así como las reformas y adiciones efectuadas a las mismas.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que contravengan
+
+opongan (sic) lo que establece este código.
+
+###### ARTÍCULO CUARTO.
+
+El contenido de los artículos 98 A y 98 B de la Ley de Hacienda del Estado de Tlaxcala continuarán aplicándose hasta en tanto se expida el Reglamento de Tránsito del Estado de Tlaxcala.
+
+###### ARTÍCULO QUINTO.
+
+Los procedimientos que actualmente se encuentran en trámite, continuarán bajo las leyes por las cuales se iniciaron.
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de Catastro deberá ser creado dentro de los treinta días siguientes a la publicación del presente código financiero, el cual gozará de autonomía técnica y de organización de sus funciones.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Instituto de Catastro a que se refiere el título noveno de este código pasará a ser organismo público descentralizado con personalidad jurídica y patrimonio propio en el lapso de dos años a partir de la entrada en vigor de este código.
+
+###### ARTÍCULO OCTAVO.
+
+Los delitos y sanciones a que hace referencia el título décimo segundo en su capítulo tercero deberán incorporarse al Código Penal del Estado de Tlaxcala en un plazo no mayor de tres años.
+
+###### ARTÍCULO NOVENO.
+
+En el caso que el porcentaje del fondo general de participaciones federales sea incrementado en la Ley de Coordinación Fiscal de la Federación, en esa misma proporción se incrementarán las participaciones a los municipios de lo que corresponda del mencionado fondo.
+
+###### ARTÍCULO DÉCIMO.
+
+Las disposiciones contenidas en el título décimo cuarto de este código entrarán en vigor una vez realizadas las reformas en la materia a la Constitución Política del Estado Libre y Soberano de Tlaxcala y la Ley Orgánica del Poder Judicial del Estado.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Se instruye al H. Congreso del Estado inicie las reformas necesarias a la Ley de Asistencia Jurídica Social del Estado de Tlaxcala, a efecto de que se faculte a la Institución de Asistencia Jurídica Social del Estado conozca sobre las controversias en materia fiscal.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Para la adecuación expedita del código financiero, los poderes Ejecutivo y Legislativo dentro del ámbito de su competencia publicarán las reglas de operación e interpretación.
