@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-para-el-estado-y-municipios-de-baja-2845"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-02-28"
-last_updated: "1997-12-20"
+last_updated: "2004-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 CODIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1997.
+> <small>N. DE E. POR DISPOSICION DEL ARTICULO SEGUNDO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR PUBLICADO EN EL B.O. 31 DE DICIEMBRE DE 2004, SE ABROGA EL PRESENTE CODIGO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: ABROGADO.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 28 de febrero de 1987.
 
@@ -527,7 +529,7 @@ I.- Que todo el libro, registros, documentación comprobatoria de ingresos o egr
 
 II.- Que los depósitos en su cuenta bancaria que no coinciden con los registros de su contabilidad son ingresos gravables. Y
 
-III.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos o actividades gravables del ultimo ejercicio que se revisa.
+III.- Que las diferencias entre los activos registrados en contabilidad y las existencias reales corresponden a ingresos o actividades gravables del último ejercicio que se revisa.
 
 ###### ARTICULO 62.
 
@@ -745,7 +747,7 @@ VIII.- Adquirir, ocultar, conservar o enajenar, productos, mercancías o artícu
 
 IX.- Destruir los sellos oficiales colocados por los empleados y funcionarios públicos con la finalidad fiscal; o impidan por cualquier maniobra que se logre el propósito para el que fueron colocados.
 
-X.- Poseer, enajenar, poner en circulación, o en su caso adherir en objetos, para el pago de una prestación fiscal, calcomanias, formas numeradas, placas o tarjetonas (sic), a sabiendas de que fueron impresas o gravadas sin autorización de la Secretaría de Finanzas, o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase.
+X.- Poseer, enajenar, poner en circulación, o en su caso adherir en objetos, para el pago de una prestación fiscal, calcomanías, formas numeradas, placas o tarjetonas (sic), a sabiendas de que fueron impresas o gravadas sin autorización de la Secretaría de Finanzas, o bien de que fueron alteradas en su valor, año de emisión, leyenda o clase.
 
 XI.- Recibir o poseer documentos en los que no se haya cumplido con las disposiciones fiscales.
 
@@ -1265,7 +1267,7 @@ Los bienes, fracción o lotes de bienes, cuya base para la venta sea igual o inf
 
 Al escrito en que se haga la postura se acompaña necesariamente un certificado de depósito por un importe cuando menos, de diez por ciento del valor fijados a los bienes de la convocatoria, expedido por una institución o agencia de crédito de la localidad.
 
-El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente Artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate previa orden de la oficina ejecutora, se devolverán los certificados de deposito a los postores, excepto el que corresponde al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de enajenación.
+El importe de los depósitos que se constituyan de acuerdo con lo que establece el presente Artículo, servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate previa orden de la oficina ejecutora, se devolverán los certificados de depósito a los postores, excepto el que corresponde al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y, en su caso, como parte del precio de enajenación.
 
 ###### ARTICULO 125.
 
@@ -1487,7 +1489,7 @@ La interposición del recurso suspenderá la ejecución de la resolución o acto
 
 Respecto de cualquier otra clase de resoluciones o actos o de sanciones que no sean multas, la suspensión sólo se otorgará si concurren los siguientes requisitos:
 
-I.- Que la solicite eI recurrente.
+I.- Que la solicite el recurrente.
 
 II.- Que el recurso sea procedente atento a la disposición contenida en el Artículo 40.
 
@@ -1613,7 +1615,7 @@ Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
 ###### ARTICULO 160.
 
-El computo de los términos se sujetará a las reglas siguientes:
+El cómputo de los términos se sujetará a las reglas siguientes:
 
 I.- Empezarán a correr desde el día siguiente al que surta efectos la notificación; serán improrrogables y se incluirá en ellos el día del vencimiento. Y
 
@@ -1859,13 +1861,13 @@ La recepción de las pruebas se hará en la audiencia de acuerdo con las siguien
 
 I.- Las posiciones se articularán precisamente en la audiencia y no se requerirá una segunda citación para tener por confeso al absolvente que no concurra sin causa justificada.
 
-Cuando la persona que deba absolver posiciones radique fuera de la ciudad y no tenga en esta constituido apoderado con facultad para absolverla, la diligencia se encomendará al Juzgado de Primera Instancia del Ramo Civil que corresponda.
+Cuando la persona que deba absolver posiciones radique fuera de la ciudad y no tenga en ésta constituido apoderado con facultad para absolverla, la diligencia se encomendará al Juzgado de Primera Instancia del Ramo Civil que corresponda.
 
 II.- La impugnación de los documentos puede hacerse desde la contestación de la demanda hasta el día de la celebración de la audiencia.
 
 III.- La prueba pericial se rendirá en la audiencia.
 
-Los peritos dictaminarán por escrito u oralmente. Las partes y el Magistrado les pueden formular observaciones y hacerles preguntas que estimen pertinentes en relación con los puntos sobre los que dictamine. El perito tercero será designado por el Magistrado preferentemente entre los registrados en el Tribunal, debe tener título en la ciencia o arte a que pertenezca la cuestión sobre la que ha de oirse su parecer, si estuvieren legalmente reglamentados; si la profesión o arte no estuvieren reglamentados o estándolo no hubiere peritos en el lugar, podrán ser nombrados personas entendidas. A juicio del Magistrado, aun cuando no tengan título. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer, de preferencia en una institución fiduciaria.
+Los peritos dictaminarán por escrito u oralmente. Las partes y el Magistrado les pueden formular observaciones y hacerles preguntas que estimen pertinentes en relación con los puntos sobre los que dictamine. El perito tercero será designado por el Magistrado preferentemente entre los registrados en el Tribunal, debe tener título en la ciencia o arte a que pertenezca la cuestión sobre la que ha de oírse su parecer, si estuvieren legalmente reglamentados; si la profesión o arte no estuvieren reglamentados o estándolo no hubiere peritos en el lugar, podrán ser nombrados personas entendidas. A juicio del Magistrado, aun cuando no tengan título. Cuando haya lugar a designar perito tercero valuador, el nombramiento deberá recaer, de preferencia en una institución fiduciaria.
 
 IV.- No será impedimento para intervenir como testigo, el hecho de desempeñar un empleo o cargo público.
 
@@ -2004,3 +2006,39 @@ El presente Decreto entrará en vigor el día primero de enero de 1991.
 B.O. 20 DE DICIEMBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor el día 1° de Enero de 1998 previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Este Código entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Para los efectos de la fracción primera del artículo 44 de este ordenamiento, los comprobantes de ingresos con que actualmente cuentan los contribuyentes, podrán no contener de imprenta las claves de los registros estatal y municipal de contribuyentes. Sin embargo, dichos contribuyentes, deberán hacerlos constar por escrito por cualquier otro medio, hasta en tanto emiten un nuevo tiraje de comprobantes fiscales, los cuales deberán de llevar impreso de origen, tales requisitos.
+
+SEGUNDO.- A partir de la fecha en que entre en vigor este ordenamiento, quedará abrogado el Código Fiscal del Estado y Municipios de Baja California Sur, aprobado por este Poder Legislativo con fecha doce de febrero de mil novecientos ochenta y siete y publicado en el Boletín Oficial del Gobierno del Estado numero siete de fecha veintiocho de febrero de mil novecientos ochenta y siete.
+
+TERCERO.- Se concede al Titular del Poder Ejecutivo en el Estado, un término de ciento cincuenta días, a efecto de emitir el Reglamento Administrativo del presente Código Fiscal del Estado y Municipios de Baja California Sur.
+
+CUARTO.- Las infracciones cometidas durante la vigencia del Código que se abroga, se sancionarán en los términos preceptuados por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+QUINTO.- La interposición de los recursos administrativos o del juicio de nulidad a que se refiere el presente Código, en contra de los actos que hubieran sido notificados con anterioridad a la entrada en vigor del mismo, podrán hacerse valer durante el plazo de cuarenta y cinco días hábiles contados a partir de la fecha en que surtió efectos la notificación, cuando no hubiese vencido el plazo para su interposición.
+
+SEXTO.- Los recursos administrativos que se hubieran interpuesto durante la vigencia del Código que se abroga, se tramitarán y se resolverán de conformidad con lo dispuesto por el mismo, a menos que el interesado manifieste su voluntad de acogerse al presente Código por estimarlo más favorable.
+
+SEPTIMO.- En los casos en que se haya interpuesto algún medio de defensa previsto en este Código y no se hubiera garantizado el interés fiscal o habiéndose efectuado deba ampliarse la garantía, ésta deberá otorgarse o ampliarse en un plazo de 30 días contados a partir de la fecha de entrada en vigor de este Código.
+
+OCTAVO.- En tanto no se formalice legalmente la creación de Tribunal Unitario de Contencioso Administrativo del Estado de Baja California Sur, a que se refiere la fracción XLIV del artículo 64 de la Constitución Política del Estado de Baja California Sur, las referencias que en este Código se hacen de tal órgano jurisdiccional, se entenderán hechas respecto de las instancias judiciales, en materia administrativa, que actualmente contempla la Ley Orgánica del Poder Judicial del Estado de Baja California Sur.
+
+NOVENO.- Hasta en tanto no se apruebe la Ley que instituya el Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur, en donde se señale la competencia del referido Tribunal, el Juicio de Nulidad a que se refiere el Título Sexto de este Código, procederá en contra de los siguientes actos y resoluciones:
+
+I.- Los actos o resoluciones señalados en el artículo 129 del presente Código.
+
+II.- La que decida el recurso administrativo a que se refiere este Código.
+
+III.- Las que causen un agravio en materia fiscal distinto al que se refieren las fracciones anteriores.
+
+IV.- Las señaladas en las demás leyes como competencia del Tribunal.
+
+Las resoluciones se considerarán definitivas cuando no admitan recurso administrativo o cuando la interposición de éste sea optativa.
+
+El Tribunal Unitario de lo Contencioso Administrativo del Estado de Baja California Sur conocerá de los juicios que promuevan las autoridades estatales y municipales para que sean anuladas las resoluciones favorables a un particular, siempre que dichas resoluciones sean de las materias señaladas en las fracciones anteriores como de su competencia.
+
+También conocerá de los juicios que se promuevan contra una resolución negativa ficta configurada, en las materias señaladas en este artículo, por el transcurso del plazo que señalen las disposiciones aplicables.
