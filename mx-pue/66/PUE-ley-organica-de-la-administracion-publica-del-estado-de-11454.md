@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-11454"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-06-04"
-last_updated: "1996-06-04"
+last_updated: "1998-07-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JULIO DE 1998.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 4 de junio de 1996.
 
@@ -313,9 +313,11 @@ El Ejecutivo del Estado podrá disponer la práctica de auditorías a las depend
 
 ### CAPITULO I. DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 15.
 
-Para el estudio, planeación y despacho de los negocios de los diversos ramos de la Administración Pública Centralizada del Estado, el Titular del Poder Ejecutivo, se auxiliará de las siguientes dependencias:
+Para el estudio, planeación y despacho de los negocios de los diversos ramos de la Administración Pública Centralizada del Estado, el Titular del Poder Ejecutivo se auxiliará de las siguientes dependencias:
 
 I.- SECRETARIA DE GOBERNACION
 
@@ -341,13 +343,21 @@ XI.- SECRETARIA DE CULTURA
 
 XII.- PROCURADURIA GENERAL DE JUSTICIA
 
+> <small>(ADICIONADA, P.O. 15 DE JULIO DE 1998)</small>
+
+XIII.- PROCURADURIA DEL CIUDADANO.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 16.
 
-Cuando para la atención de algún asunto exista duda respecto de la competencia de las Dependencias del Ejecutivo, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
+Las Secretarías y las Procuradurías tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Cuando para la atención de algún asunto exista duda respecto de la competencia de las dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 17.
 
-Los titulares de las Secretarías ejercerán las funciones de su competencia por acuerdo del Gobernador del Estado, tendrán igual rango y entre ellos no habrá, por lo tanto, preeminencia alguna.
+Los Titulares de las Secretarías ejercerán las funciones de su competencia en términos de esta Ley, de los demás ordenamientos aplicables y los que acuerde el Gobernador del Estado, de conformidad con el artículo 79 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 ###### ARTICULO 18.
 
@@ -369,9 +379,11 @@ Los titulares de las Dependencias y Entidades a que se refiere esta Ley, ejercer
 
 El Gobernador del Estado, expedirá los Reglamentos Interiores, los Acuerdos, Circulares y demás disposiciones que regulen el funcionamiento de las dependencias y entidades del Ejecutivo.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 23.
 
-Los Titulares de las dependencias y entidades, elaborarán sus Manuales de Organización, de Procedimientos y de Servicio al Público, para el cumplimiento de sus objetivos, debiendo remitirlos para su aprobación al Gobernador del Estado por conducto de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública, para su análisis y trámite correspondiente.
+El Gobernador del Estado expedirá los reglamentos interiores, los acuerdos, circulares y demás disposiciones que regulen el funcionamiento de las dependencias.
 
 ###### ARTICULO 24.
 
@@ -411,7 +423,9 @@ V.- Llevar el control y archivo de los convenios que celebre el Gobernador del E
 
 VI.- Otorgar al Poder Judicial del Estado el auxilio que requiera para el debido ejercicio de sus funciones;
 
-VII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los Secretarios y Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1998)</small>
+
+VII.- Tramitar lo relacionado con los nombramientos, remociones, renuncias y licencias de los Secretarios y Procuradores;
 
 VIII.- Tramitar lo relativo al ejercicio de las facultades que al Titular del Ejecutivo otorgan los Artículos 87 y 88 de la Constitución Política del Estado, sobre el nombramiento y destitución de los Magistrados del Tribunal Superior de Justicia del Estado;
 
@@ -427,7 +441,7 @@ XIII.- Tramitar las consultas que formulen las dependencias del Poder Ejecutivo,
 
 XIV.- Tramitar los recursos administrativos que competa resolver al Gobernador del Estado, cuando no fuere del exclusivo conocimiento de otra Dependencia, así como los que correspondan a esta Secretaría;
 
-XV.- Formular y conducir las políticas generales para la defensa de los ciudadanos ante los Tribunales previamente establecidos;
+XV.- (DEROGADA, P.O. 15 DE JULIO DE 1998)
 
 XVI.- Organizar, consolidar y ejecutar el Sistema Estatal de Seguridad Pública y Protección Civil, a fin de proporcionar orientación, apoyo y seguridad a la población, así como coordinarse con las dependencias y entidades de la Administración Pública Federal y con los Gobiernos Municipales para la prevención, auxilio, restauración y apoyo a la población en situaciones de desastre, concertando con instituciones y organismos de los sectores privado y social, las acciones conducentes al mismo objetivo;
 
@@ -467,7 +481,9 @@ XXXIII.- Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcion
 
 XXXIV.- Organizar el registro de las asociaciones obreras, patronales y profesionales establecidas o que funcionen en el Estado;
 
-XXXV.- Tramitar lo relativo a pasaportes de acuerdo con los convenios celebrados con la Secretaría de Relaciones Exteriores del Gobierno Federal;
+> <small>(REFORMADA, P.O. 15 DE JULIO DE 1998)</small>
+
+XXXV.- Prestar los servicios que le correspondan en materia de expedición de pasaportes y cualesquiera otros que se acuerden, conforme a los Convenios celebrados con la Secretaría de Relaciones Exteriores del Gobierno Federal;
 
 XXXVI.- Expedir y en su caso, tramitar el otorgamiento, revocación, cancelación y modificación de licencias, autorizaciones, permisos y demás concesiones reservadas a esta Secretaría y las que de acuerdo con la Ley le competan al Ejecutivo;
 
@@ -1267,21 +1283,61 @@ XIV.- Prestar atención a las víctimas de delitos en los términos establecidos
 
 XV.- Las demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones legales aplicables en el Estado.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 15 DE JULIO DE 1998)</small>
+
+### CAPITULO XIV. DE LA PROCURADURIA DEL CIUDADANO
+
+> <small>(ADICIONADO, P.O. 15 DE JULIO DE 1998)</small>
+
+ARTICULO 40 bis.- La Procuraduría del Ciudadano tiene las facultades y obligaciones que de manera específica le confieren la Constitución Política del Estado, la Ley Orgánica de la Procuraduría del Ciudadano, su Reglamento y demás leyes aplicables a la institución de la defensoría social; pero en el orden administrativo tendrá las siguientes:
+
+I.- Prestar el servicio gratuito y obligatorio de defensa en el fuero común, en términos de la Constitución Política de los Estados Unidos Mexicanos;
+
+II.- Otorgar asesoría, orientación, gestoría, patrocinio, representación y defensa jurídicas, en forma gratuita, a las personas que carezcan de recursos económicos, que tengan notorio atraso intelectual y aquéllas que por su condición o por disposición de la Ley, merezcan especial protección, frente a las que se encuentren en la situación contraria;
+
+III.- Procurar la especial atención respecto de los servicios señalados en las fracciones que anteceden, a favor de los campesinos y grupos indígenas en la entidad, a través de traductores o intérpretes en los casos en que por su origen sea necesario;
+
+IV.- Coadyuvar con las instituciones competentes, en el ámbito de sus atribuciones, para la correcta aplicación de las disposiciones y medida legales protectoras de la familia, la mujer y la niñez;
+
+V.- Recabar, a través de los defensores sociales que por su adscripción estén encargados de los servicios de asistencia gratuita que le competen, la información necesaria para su eficaz prestación;
+
+VI.- Intervenir en los asuntos de interés social y colectivo, que le sean encomendados por el Gobernador del Estado;
+
+VII.- Procurar el avenimiento de las partes en conflictos legales de naturaleza privada o de familia, promoviendo la integración de sus miembros;
+
+VIII.- Coordinar su actuación con la Procuraduría General de Justicia del Estado y los Tribunales del Poder Judicial, para el ejercicio de sus funciones;
+
+IX.- Llevar el control estadístico de los asuntos de su competencia;
+
+X.- Deducir los derechos del Estado como subrogado legal, en lo que se refiere a la reparación del daño, en términos de las leyes respectivas;
+
+XI.- Mantener con el Honorable Tribunal Superior de Justicia, la comunicación y colaboración que institucionalmente convenga, para el mejor cumplimiento de los objetivos de ambas;
+
+XII.- Aplicar los procedimientos de selección, capacitación y actualización profesional, que determinen la Ley Orgánica y su Reglamento;
+
+XIII.- Formular y conducir las políticas generales para el patrocinio y la defensa de los ciudadanos ante los Tribunales del Estado;
+
+XIV.- Las demás que le atribuyan las leyes, reglamentos, decretos, convenios, acuerdos y otras disposiciones vigentes en el Estado.
+
 ### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
 ### CAPITULO II. DE LOS ORGANISMOS DESCENTRALIZADOS
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ### CAPITULO III. DE LAS EMPRESAS DE PARTICIPACION ESTATAL MAYORITARIA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE JULIO DE 1998)</small>
 
 ### CAPITULO IV. DE LOS FIDEICOMISOS PUBLICOS
 
-### CAPITULO V. DE LAS COMISIONES Y DEMAS ORGANOS DE CARACTER PUBLICO
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
 
-### CAPITULO VI. DEL DESARROLLO, CONTROL Y EVALUACION
+### CAPITULO V. DE LAS COMISIONES Y DEMAS ORGANOS DE CARACTER PUBLICO
 
 ## TITULO III. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-### CAPITULO UNICO
+### CAPITULO VI. DEL DESARROLLO, CONTROL Y EVALUACION
 
 ###### ARTICULO 41.
 
@@ -1327,7 +1383,7 @@ La Secretaría de Desarrollo, Evaluación y Control de la Administración Públi
 
 ###### ARTICULO 50.
 
-Son organismos descentralizados las personas jurídicas creadas conforme a lo dispuesto por el artículo 41 de esta ley, cualquiera que sea la forma o estructura legal que adopten, cuyo objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, o la obtención y aplicación de recursos para fines de asistencia o seguridad social.
+Son organismos descentralizados los institutos públicos creados mediante Decreto del Congreso del Estado, con personalidad jurídica y patrimonio propios, cualquiera que sea la denominación, estructura y forma de organización que adopten, siempre que no sean sociedades, asociaciones o fideicomisos, y su objeto preponderante sea la prestación de un servicio público o social, la protección, promoción, estudio o divulgación de un asunto de interés público o social, o la obtención y aplicación de recursos para fines de asistencia o seguridad social.
 
 ###### ARTICULO 51.
 
@@ -1337,9 +1393,11 @@ La dirección y administración de los organismos descentralizados estará a car
 
 Los Directores Generales de los organismos descentralizados serán designados por el Organo de Gobierno que lo rige, a propuesta del Gobernador del Estado y tendrán la representación legal del organismo, sin perjuicio de las atribuciones que les otorguen los ordenamientos legales aplicables.
 
+### CAPITULO UNICO
+
 ###### ARTICULO 53.
 
-Se consideran empresas de participación estatal mayoritaria, aquellas que satisfagan alguno de los siguientes requisitos:
+Se consideran empresas de participación estatal mayoritaria, todas aquellas entidades que se constituyan como sociedades o asociaciones de cualquier tipo, y que satisfagan alguno de los siguientes requisitos:
 
 I.- Que en la constitución de su capital figuren acciones de serie especial que sólo puedan ser suscritas por el Gobierno del Estado;
 
@@ -1351,17 +1409,21 @@ III.- Que el Gobierno del Estado o uno o más de sus organismos públicos descen
 
 Se equiparan a las empresas de participación estatal mayoritaria, las sociedades y asociaciones civiles en las que la mayoría de sus miembros sean dependencias o entidades del Gobierno del Estado, o cuando las aportaciones económicas preponderantes provengan de ellas.
 
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
+
 ###### ARTICULO 55.
 
-Las empresas de participación estatal mayoritaria además de tener dentro de sus objetivos el de promover el desarrollo económico del Estado y obtener recursos que contribuyan al Erario Público, deberán observar lo que ordena el artículo 50 de la presente Ley, para los organismos descentralizados.
+Las empresas de participación estatal mayoritaria, además de tener dentro de sus objetivos el de promover el desarrollo económico del Estado y obtener recursos que contribuyan al erario público, deberán observar lo que ordena el artículo 50 de la presente Ley para los organismos descentralizados, respecto de su objeto preponderante.
 
 ###### ARTICULO 56.
 
-Los Fideicomisos a que se refiere esta Ley serán los que autorice el Gobernador del Estado. En estos fideicomisos, la Secretaría de Finanzas fungirá como fideicomitente.
+Son Fideicomisos Públicos aquéllos que autorice el Gobernador del Estado y se constituyan por la Administración Pública Estatal, con una estructura orgánica análoga a la de un organismo descentralizado, que permita considerar a la mayoría de su personal como servidores públicos del Estado y en cuyo órgano de gobierno participen dos o más dependencias, correspondiendo al Ejecutivo la designación del Director. En estos Fideicomisos, la Secretaría de Finanzas fungirá como fideicomitente.
+
+> <small>(REFORMADO, P.O. 15 DE JULIO DE 1998)</small>
 
 ###### ARTICULO 57.
 
-Los fideicomisos Públicos podrán contar con una estructura orgánica análoga a las entidades y se regirán por comités técnicos, los cuales se integrarán con autorización del Gobernador del Estado, debiendo formar parte de ellos, un representante de la Secretaría de Finanzas y uno de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
+Los Fideicomisos Públicos se regirán por Comités Técnicos, los cuales se integrarán con autorización del Gobernador del Estado, debiendo formar parte de ellos, al menos, un representante de la Secretaría de Finanzas y uno de la Secretaría de Desarrollo, Evaluación y Control de la Administración Pública.
 
 ###### ARTICULO 58.
 
@@ -1532,3 +1594,23 @@ LIC. MANUEL BARTLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. MARIO P. MARIN TORRES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE JULIO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los actos y procedimientos relacionados con esta Ley y la Procuraduría del Ciudadano, iniciados con anterioridad a la entrada en vigor del presente Decreto, se tramitarán y resolverán conforme a su Ley Orgánica y a las disposiciones administrativas vigentes en ese momento y las demás normas aplicables al asunto de que se trate.
+
+###### ARTÍCULO CUARTO.
+
+En tanto no se expidan las disposiciones reglamentarias y administrativas que se deriven del presente Decreto, seguirán en vigor las que han regido hasta ahora, en lo que no lo contravengan.
