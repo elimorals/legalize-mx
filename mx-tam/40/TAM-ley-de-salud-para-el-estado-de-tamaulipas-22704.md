@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2003-10-23"
+last_updated: "2004-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE OCTUBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -259,7 +259,23 @@ XI.- Impulsar las actividades científicas y tecnológicas en el campo de la sal
 
 XII.- Coadyuvar, con las dependencias federales competentes, en la regulación y control de la transferencia de tecnología en materia de salud;
 
-XIII.- Establecer, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos disponibles para trasplantes dentro de su competencia, mismo que se integrará, entre otros elementos, por un Consejo Estatal, un registro de donadores de órganos, así como de beneficiarios;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+XIII.- Establecer, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos disponibles para transplantes dentro de su competencia, mismo que se integrará, entre otros elementos, por un Consejo Estatal, un registro de donantes y otro de beneficiarios.
+
+Para realizar transplantes de personas que hayan perdido la vida, deberá ocurrir la muerte cerebral del donante. Esta se presenta cuando existen los siguientes signos:
+
+a).- Pérdida permanente e irreversible de conciencia y de respuesta a estímulos sensoriales;
+
+b).- Ausencia de automatismo respiratorio, y
+
+c).- Evidencia de daño irreversible del tallo cerebral, manifestado por arreflexia pupilar, ausencia de movimientos oculares en pruebas vestibulares y ausencia de respuesta a estímulos nociceptivos.
+
+Se deberá descartar que dichos signos sean producto de intoxicación aguda por narcóticos, sedantes, barbitúricos o sustancias neurotrópicas.
+
+Los signos señalados en los incisos anteriores deberán corroborarse por la prueba de angiografía cerebral bilateral que demuestre ausencia de circulación cerebral, o la prueba de electroencefalograma que demuestre ausencia total de actividad eléctrica cerebral en dos ocasiones diferentes con espacio de cinco horas.
+
+No existirá impedimento alguno para que a solicitud o autorización del o la cónyuge, el concubinario, la concubina, los descendientes, los ascendientes, los hermanos, el adoptado o el adoptante, conforme al orden expresado, se prescinda de los medios artificiales que eviten que la persona que presenta muerte cerebral comprobada manifieste los demás signos de muerte a que no se refiere el párrafo segundo de esta fracción.
 
 XIV.- Coordinar el Sistema Estatal de Información Básica en materia de salud;
 
@@ -732,6 +748,10 @@ VI.- Las demás que establezcan las disposiciones legales aplicables.
 ###### ARTICULO 55.
 
 La Secretaría vigilará y promoverá que se establezcan comisiones de ética e investigación, cuando ésta se realice en seres humanos, y la de bioseguridad encargada de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética. El Consejo General de Salud opinará sobre las disposiciones complementarias respecto de áreas o modalidades de la investigación en las que considere necesario.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2004)</small>
+
+Queda prohibida cualquier técnica de manipulación genética de embriones con objeto de autoreproducción, reproducción gemelar o reproducción para el aprovechamiento de órganos o tejidos.
 
 ###### ARTICULO 56.
 
@@ -1742,3 +1762,7 @@ P.O. 23 DE OCTUBRE DE 2003.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan las disposiciones legales y reglamentarias que se opongan a lo dispuesto en este Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2004.
+
+Unico.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
