@@ -4,7 +4,7 @@ identifier: "LCS"
 country: "mx"
 rank: "ley"
 publication_date: "1935-08-31"
-last_updated: "1946-04-15"
+last_updated: "1966-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2591&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCS"
 
 LEY SOBRE EL CONTRATO DE SEGURO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE ABRIL DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1966.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de agosto de 1935.
 
@@ -232,41 +232,45 @@ La empresa aseguradora tendrá el derecho de compensar las primas y los préstam
 
 Salvo pacto en contrario, la prima vencerá en el momento de la celebración del contrato, por lo que se refiere al primer período del seguro; entendiéndose por período del seguro el lapso para el cual resulte calculada la unidad de la prima. En caso de duda, se entenderá que el período del seguro es de un año.
 
-> <small>(REFORMADO, D.O.F. 15 DE ABRIL DE 1946)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 35.
 
-La empresa aseguradora no podrá eludir la responsabilidad por la realización del riesgo, por medio de cláusulas en que se convenga que el seguro no entrará en vigor sino después del pago de la primera prima, sin perjuicio de lo dispuesto por la segunda parte del artículo 180.
+La empresa aseguradora no podrá eludir la responsabilidad por la realización del riesgo, por medio de cláusulas en que convenga que el seguro no entrará en vigor sino después del pago de la primera prima o fracción de ella.
 
 ###### ARTICULO 36.
 
 En caso de duda, las primas ulteriores a la del primer período del seguro se entenderán vencidas al comienzo y no al fin de cada nuevo período.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
+
 ###### ARTICULO 37.
 
-Si la prima no fuere pagada dentro de los plazos establecidos en el contrato o en la presente ley, los efectos del seguro no podrán suspenderse sino quince días después del requerimiento respectivo al asegurado, el cual podrá hacerse por medio de carta certificada con acuse de recibo dirigida al propio asegurado o a la persona encargada del pago de las primas, al último domicilio conocido por el asegurador.
+En los seguros de vida, en los de accidentes y enfermedades, así como en los de daños, la prima podrá ser fraccionada en parcialidades que correspondan a períodos de igual duración. Si el asegurado optare por cubrir la prima en parcialidades, cada una de éstas vencerá al comienzo del período que comprenda.
 
-En el requerimiento se mencionará expresamente su objeto, el importe de la prima y la fecha de su vencimiento, así como el texto íntegro del presente artículo.
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 38.
 
-Diez días después de la expiración del plazo a que se refiere el artículo anterior, la empresa aseguradora podrá rescindir el contrato o exigir el pago de la prima en la vía ejecutiva.
+En caso de que se convenga el pago de la prima en forma fraccionada, cada uno de los períodos de igual duración a que se refiere el artículo anterior no podrán ser inferiores a un mes.
 
-La rescisión podrá hacerse por medio de una declaración de la empresa dirigida al asegurado en carta certificada con acuse de recibo.
-
-> <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 39.
 
-Cuando el contrato no se haya rescindido, producirá todos sus efectos en el futuro desde el día siguiente al en que se paguen la prima adeudada y los gastos hechos para su cobro.
+En los seguros por un solo viaje, tratándose de transporte marítimo, terrestre o aéreo y de accidentes personales, así como en los seguros de riesgos profesionales, no se podrá convenir el pago fraccionado de la prima.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 40.
 
-Los plazos que se fijan en los artículos 37 y 38 no comprenderán el día del envío de la carta certificada y cuando el último día sea feriado, se prolongará el plazo hasta el siguiente.
+Si no hubiere sido pagada la prima o la fracción de ella en los casos de pago en parcialidades, dentro de los 30 días naturales siguientes a la fecha de su vencimiento, los efectos del contrato cesarán automáticamente a las doce horas del último día de este plazo.
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 41.
 
-Será nulo cualquier convenio que pretenda privar de sus efectos las disposiciones de los artículos 37 a 40 de esta ley.
+Será nulo cualquier convenio que pretenda privar de sus efectos a las disposiciones del artículo anterior.
 
 ###### ARTICULO 42.
 
@@ -1010,11 +1014,13 @@ Aun cuando renuncien a la herencia los descendientes, cónyuge supérstite, padr
 
 Si el derecho que dimana de un seguro sobre la vida contratado por el deudor como asegurado y beneficiario, debiera rematarse a consecuencia de un embargo, concurso o quiebra, su cónyuge o descendientes podrán exigir con el consentimiento del deudor que el seguro les sea cedido mediante el pago del valor de rescate.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1966)</small>
+
 ###### ARTICULO 180.
 
 La empresa aseguradora no tendrá acción para exigir el pago de las primas, salvo el derecho a una indemnización por la falta de pago de la prima correspondiente al primer año, que no excederá del 15% del importe de la prima anual estipulada en el contrato.
 
-En el seguro de personas no tendrán aplicación los artículos 37 a 41 de esta ley y los efectos del contrato cesarán automáticamente 30 días después de la fecha de vencimiento de la prima, salvo que en la póliza se consigne el beneficio de préstamo automático de primas.
+No se producirá la cesación automática de los efectos del contrato, cuando en la póliza se hubiere convenido el beneficio del préstamo automático de primas.
 
 > <small>(F. DE E., D.O.F. 13 DE SEPTIEMBRE DE 1935)</small>
 
@@ -1104,4 +1110,18 @@ D.O.F. 15 DE ABRIL DE 1946.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
+D.O.F. 5 DE ENERO DE 1966.
+
 ## TITULO V. Disposiciones finales
+
+###### ARTICULO PRIMERO.
+
+Se derogan las disposiciones de la Ley Sobre el Contrato de Seguro en lo que se opongan a estas reformas.
+
+###### ARTICULO SEGUNDO.
+
+Las disposiciones actualmente en vigor continuarán rigiendo para los contratos de seguros celebrados con anterioridad a estas reformas.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
