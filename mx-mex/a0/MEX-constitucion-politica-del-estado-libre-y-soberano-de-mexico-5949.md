@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1997-11-27"
+last_updated: "1998-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE NOVIEMBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ABRIL DE 1998.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -128,6 +128,10 @@ Los órganos electorales dispondrán del personal calificado necesario para pres
 Los partidos políticos son entidades de interés público que tienen como fin promover la vida democracia, contribuir a la integración de la representación popular y, como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios e ideas que postulan. Su participación en los procesos electorales estará garantizada y determinada por la ley.
 
 Para el cumplimiento de todos sus fines, los partidos gozarán de las prerrogativas cuyo otorgamiento se hará en la forma que la ley determine.
+
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 1998)</small>
+
+La ley fijará los criterios para determinar los límites a las erogaciones de los partidos políticos en sus campañas electorales, así como los montos máximos que tengan las aportaciones pecuniarias de sus simpatizantes y los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten los partidos políticos; se establezcan, asimismo, las sanciones por el incumplimiento a las disposiciones que se expidan en estas materias.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -777,11 +781,11 @@ VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposi
 
 El Poder Ejecutivo del Estado se deposita en un solo individuo que se denomina Gobernador del Estado de México.
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
+> <small>(REFORMADO, G.G. 6 DE ABRIL DE 1998)</small>
 
 ###### Artículo 66.
 
-La elección del Gobernador será directa en los términos que disponga la ley de la materia.
+La elección de Gobernador del Estado de México será mediante sufragio universal, libre, secreto y directo.
 
 > <small>(REFORMADO, P.O. 27 DE FEBRERO DE 1995)</small>
 
@@ -2192,3 +2196,9 @@ Publíquese el presente decreto en la "Gaceta del Gobierno"
 ###### ARTÍCULO SEGUNDO.
 
 Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno"
+
+G.G. 6 DE ABRIL DE 1998.
+
+PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
