@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "1996-11-07"
+last_updated: "2004-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -50,7 +50,9 @@ La presente Ley tiene por objeto establecer reglas para la investigación, perse
 
 Cuando tres o más personas acuerden organizarse o se organicen para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
 
-I. Terrorismo, previsto en el artículo 139, párrafo primero; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 bis, todos del Código Penal para el Distrito Federal en Materia de Fuero Común, y para toda la República en Materia de Fuero Federal;
+> <small>(REFORMADA, D.O.F. 11 DE MAYO DE 2004)</small>
+
+I. Terrorismo, previsto en el Artículo 139, párrafo primero; contra la salud, previsto en los Artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los Artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el Artículo 400 Bis; y el previsto en el Artículo 424 Bis, todos del Código Penal Federal;
 
 II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Ley Federal de Armas de Fuego y Explosivos;
 
@@ -160,7 +162,7 @@ Cuando se presuma fundadamente que está en riesgo la integridad de las personas
 
 ###### Artículo 15.
 
-Cuando el Ministerio Público de la Federación solicite al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere la presente Ley, dicha petición deberá ser resuelta en los términos de ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
+Cuando el Ministerio Público de la Federación solicite al juez de distrito una orden e cateo con motivo de la investigación de alguno de los delitos a los que se refiere la presente Ley, dicha petición deberá ser resuelta en los términos de ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
 
 Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación podrá recurrir al tribunal unitario de circuito correspondiente para que éste resuelva en un plazo igual.
 
@@ -351,3 +353,9 @@ La misma regla se aplicará en relación al tratamiento preliberacional y la rem
 México, D.F., a 28 de octubre de 1996.- Sen. Melchor de los Santos Ordóñez, Presidente.- Dip. Serafín Núñez Ramos, Presidente.- Sen. Eduardo Andrade Sánchez, Secretario.- Dip. Severiano Pérez Vázquez, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los seis días del mes de noviembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 11 DE MAYO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
