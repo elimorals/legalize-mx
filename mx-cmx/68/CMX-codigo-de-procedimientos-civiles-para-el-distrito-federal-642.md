@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "1932-09-01"
+last_updated: "1938-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,9 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL Y TERRITORIOS FEDERALES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE MARZO DE 1938.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
-
-CODIGO de Procedimientos Civiles para el Distrito Federal y Territorios.
 
 Al margen un sello que dice: Poder Ejecutivo Federal.- Estados Unidos Mexicanos.- México.- Secretaría de Gobernación.
 
@@ -188,7 +186,7 @@ Los acreedores que acepten la herencia que corresponda a su deudor ejercitarán 
 
 ARTICULO 30
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., D.O.F. DE 27 DE SEPTIEMBRE DE 1932)</small>
 
 Las acciones que se trasmiten contra los herederos no obligan a éstos sino en proporción a sus cuotas, salvo en todo caso la responsabilidad que les resultó cuando sea solidaria su obligación con el autor de la herencia, por ocultación de bienes; o por dolo o fraude en la administración de bienes indivisos.
 
@@ -196,7 +194,7 @@ ARTICULO 31
 
 Cuando haya varias acciones contra una misma persona, respecto de una misma cosa y provengan de una misma causa, deben intentarse en una sola demanda; por el ejercicio de una o más, quedan extinguidas las otras.
 
-> <small>(F. DE E., D.O.F. 27 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., D.O.F. DE 27 DE SEPTIEMBRE DE 1932)</small>
 
 No pueden acumularse en la misma demanda las acciones contrarias o contradictorias; ni las posesorias con las petitorias, ni cuando una dependa del resultado de la otra. Tampoco son acumulables acciones que por su cuantía o naturaleza, corresponden a jurisdicciones diferentes.
 
@@ -5546,11 +5544,13 @@ Lo dispuesto en los artículos que preceden se aplicará al gravamen y enajenaci
 
 ### CAPITULO IV. Adopción
 
+> <small>(REFORMADO, D.O.F. 31 DE MARZO DE 1938)</small>
+
 ARTICULO 923
 
 El que pretenda adoptar a alguna persona, deberá acreditar:
 
-I.- Que es mayor de cuarenta años y tiene, por lo menos, diecisiete años más de edad que la persona que trata de adoptar;
+I.- Que es mayor de treinta años y que tiene por lo menos, diecisiete años más de edad que la persona que trate de adoptar;
 
 II.- Que no tiene descendientes;
 
@@ -6061,3 +6061,9 @@ Sufragio Efectivo. No Reelección.
 México, D.F., a 30 de agosto de 1932.- P. O. del Secretario de Gobernación, el Subsecretario, Eduardo Vasconcelos.- Rúbrica.
 
 Al C......
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 31 DE MARZO DE 1938.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
