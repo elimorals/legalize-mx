@@ -4,7 +4,7 @@ identifier: "TAB-ley-reglamentaria-de-los-articulos-4-y-5-de-la-constitucion-811
 country: "mx"
 rank: "ley"
 publication_date: "1967-02-25"
-last_updated: "1967-02-25"
+last_updated: "1968-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8112&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY REGLAMENTARIA DE LOS ARTICULOS 4o. Y 5o. DE LA CONSTITUCION FEDERAL, RELATIVA AL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1968.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 25 de febrero de 1967.
 
@@ -233,7 +233,9 @@ Son facultades y obligaciones de la Dirección General de Profesiones del Estado
 
 8.- Sugerir hasta donde sea posible la distribución de los profesionistas, conforme con las necesidades y exigencias de cada localidad.
 
-9.- Llevar un archivo con los datos relativos a la enseñanza primaria, preparatoria, vocacional, prevocacional y profesional que se imparta en cada uno de los planteles educativos.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1968)</small>
+
+9.- Llevar archivo con los datos relativos a la enseñanza secundaria, preparatoria, vocacional, prevocacional y profesional que se imparta en cada uno de los planteles educativos.
 
 10.- Publicar durante el mes de enero de cada año, la lista de los profesionistas titulados en los planteles de preparación profesional durante el año anterior.
 
@@ -678,3 +680,9 @@ Pag.
 ### CAPITULO VII.- Del Servicio Social de Estudiantes y Profesionistas. 27
 
 ### CAPITULO VIII.- De los Delitos e Infracciones de los Profesionistas y de las Sanciones por incumplimiento de esta Ley. 29. TRANSITORIOS.- 32
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 25 DE DICIEMBRE DE 1968.
+
+UNICO.- La reforma a que se refiere el presente Decreto entrará en vigor a partir del día de su publicación en el Periódico Oficial del Gobierno del Estado.
