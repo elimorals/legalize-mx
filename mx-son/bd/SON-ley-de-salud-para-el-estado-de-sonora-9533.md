@@ -4,7 +4,7 @@ identifier: "SON-ley-de-salud-para-el-estado-de-sonora-9533"
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-30"
-last_updated: "1984-08-30"
+last_updated: "1989-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE SALUD PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección I del Número 18 del Boletín Oficial del Estado de Sonora, el jueves 30 de agosto de 1984.
 
@@ -193,9 +193,17 @@ IV.- Dar impulso al desarrollo de la familia y de la comunidad.
 
 V.- Apoyar el mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que proporcionen el desarrollo satisfactorio de la vida.
 
-VI.- Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar los servicios de salud; y
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que se presten para su protección.
+VI.- Impulsar, en el ámbito estatal, un sistema racional de administración y desarrollo de los recursos humanos para mejorar los servicios de salud;
+
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionadas con la salud y con el uso de los servicios que se prestan para su protección; y
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de establecimientos y servicios que no sean nocivos para la salud.
 
 ###### ARTICULO 8o.
 
@@ -269,7 +277,9 @@ La competencia entre el Gobierno del Estado y los Municipios en materia de salub
 
 En materia de salubridad general, corresponde al Poder Ejecutivo del Estado:
 
-I.- En coordinación con la Secretaría de Salubridad y Asistencia y bajo las normas técnicas de ésta, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el Artículo 3o. de esta Ley.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+I.- En coordinación con la Secretaría de Salud y bajo las normas técnicas de ésta, organizar, administrar, operar y evaluar los servicios de salud a que se refiere el Artículo 3o. de esta Ley.
 
 II.- La sanidad en los límites con otras entidades federativas.
 
@@ -545,9 +555,11 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 53.
 
-La planificación familiar tiene carácter prioritario. Los servicios que en los términos del párrafo segundo del Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Legislación aplicable en materia de población, se presten en la materia, constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
+La planificación familiar, principalmente la que se dirija a menores y adolescentes, tiene carácter prioritario: los servicios que en dicha materia se presten constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada, sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
 
 ###### ARTICULO 54.
 
@@ -567,9 +579,11 @@ V.- La participación en el establecimiento de mecanismos idóneos para la deter
 
 Los comités de salud a que se refiere el Artículo 46 de esta Ley, promoverán que en las poblaciones y comunidades urbanas y rurales se impartan pláticas de orientación en materia de planificación familiar. Las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 56.
 
-La Administración Pública Estatal coadyuvará con la Secretaría de Salubridad y Asistencia en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
+La Administración Pública Estatal coadyuvará con la Secretaría de Salud en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
 ### CAPITULO VII. SALUD MENTAL
 
@@ -741,9 +755,11 @@ II.- Factores demográficos, económicos, sociales y ambientales vinculados a la
 
 III.- Recursos físicos, humanos y financieros disponibles para la protección de la salud de la población, y su utilización.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 79.
 
-Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud en el Estado, proporcionarán a las autoridades sanitarias competentes, la información correspondiente, sin perjuicio de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
+Los establecimientos que presten servicios de salud y los profesionales, técnicos y auxiliares de la salud, llevarán las estadísticas que les señale la Secretaría de Salud Pública, y proporcionarán a esta y a los Ayuntamientos de los Municipios del Estado, en sus respectivos ámbitos de competencia, la información correspondiente, sin perjuicios de las obligaciones de suministrar la información que les señalen otras disposiciones legales.
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
@@ -761,9 +777,17 @@ I.- Educación para la Salud.
 
 II.- Nutrición.
 
-III.- Control de los efectos nocivos del ambiente en la salud; y
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
-IV.- Salud ocupacional.
+III.- Control de los efectos nocivos del ambiente en la salud;
+
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IV.- Salud ocupacional; y
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+V.- Fomento sanitario.
 
 ### CAPITULO II. EDUCACION PARA LA SALUD
 
@@ -875,9 +899,17 @@ X.- Micosis profundas.
 
 XI.- Helmintiasis intestinales y extraintestinales.
 
-XII.- Toxoplasmosis; y
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
-XIII.- Las demás que determinen el Consejo de Salubridad General, y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte.
+XII.- Toxoplasmosis
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XIII.- Síndrome de inmunodeficiencia adquirida (SIDA);
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XIV.- Las demás que determinen el Consejo de Salubridad General y los tratados y convenciones internacionales en los que los Estados Unidos Mexicanos sean parte y que se hubieren celebrado con arreglo a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO 93.
 
@@ -885,9 +917,17 @@ Es obligatoria la notificación a la autoridad sanitaria más cercana, de las si
 
 I.- Inmediatamente, en los casos individuales de enfermedades objeto del Reglamento Sanitario Internacional: fiebre amarilla, peste y cólera.
 
-II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia; y
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
-III.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomielitis, meningitis meningocóccica, tifo epidémico, fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana y los primeros casos individuales de las demás enfermedades transmisibles que se presenten en un área no infectada, así como los de importancia para el Estado.
+II.- Inmediatamente, en los casos de cualquier enfermedad que se presente en forma de brote o epidemia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+III.- Inmediatamente, en los casos en que se detecte la presencia del virus de inmunodeficiencia humana (VIH) o de anticuerpos a dicho virus, en alguna persona; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IV.- En un plazo no mayor de veinticuatro horas en los casos individuales de enfermedades objeto de vigilancia internacional: poliomelitis (sic), meningitis, meningocóccica (sic), tifoepidémico (sic), fiebre recurrente transmitida por piojo, influenza viral, paludismo, sarampión, tosferina, así como los de difteria y los casos humanos de encefalitis equina venezolana y los primeros casos individuales de las demás enfermedades transmitibles que se presenten en un área no infectada, así como los de importancia para el Estado.
 
 ###### ARTICULO 94.
 
@@ -915,11 +955,15 @@ VI.- La destrucción o control de vectores y reservorios y de fuentes de infecci
 
 VII.- La inspección de pasajeros que puedan ser portadores de gérmenes, así como la de equipajes, medios de transporte, mercancías y otros objetos que puedan ser fuente o vehículos de agentes patógenos; y
 
-VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salubridad y Asistencia.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VIII.- Las demás que determine esta Ley, sus reglamentos y la Secretaría de Salud.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 97.
 
-Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida la Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salubridad y Asistencia.
+Las autoridades no sanitarias cooperarán en el ejercicio de la acción para combatir las enfermedades transmisibles, estableciendo las medidas que estimen necesarias, sin contravenir las disposiciones de esta Ley, las que expida la Consejo de Salubridad General y las normas técnicas que dicte la Secretaría de Salud.
 
 ###### ARTICULO 98.
 
@@ -1099,13 +1143,21 @@ Las autoridades sanitarias tendrán entre sus objetivos operar establecimientos 
 
 El patrimonio de la beneficencia pública, se integrará por: El producto de los bienes mostrencos, vacantes y abandonados a que se refieren los Artículos 948 y 954 del Código Civil para el Estado de Sonora, en la proporción que señalan dichos preceptos; las herencias vacantes a que se refiere el Capítulo VII del Título Cuarto del Libro Cuarto del Código Civil para el Estado de Sonora, en su totalidad; las aportaciones que de común acuerdo y en los términos de los convenios correspondientes, decidan otorgar para este propósito el Gobierno Federal, el Gobierno del Estado, los Gobiernos Municipales, las Instituciones Públicas Descentralizadas los productos y rendimientos de los bienes que forman parte del patrimonio y las aportaciones, donaciones, legados y herencias, que en favor del patrimonio de la beneficencia pública realicen y establezcan los particulares.
 
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Para los efectos previstos en el párrafo anterior, los jueces que conozcan de cualquier procedimiento sucesorio emplazarán a la beneficiencia (sic) pública, por conducto del titular de la Secretaría de Salud Pública, para que comparezca a la junta de herederos a deducir los derechos que pudieran corresponderle, acompañandole copia del escrito de denuncia y de los anexos que se adjuntaron al mismo.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 124.
 
-El patrimonio de la beneficencia pública será administrado por la Secretaría de Salud Pública, a quien le corresponderá, entre otras atribuciones, representar los intereses del patrimonio de la beneficencia pública y distribuir los recursos de la misma, en los términos del presupuesto de egresos que legalmente se autorice, pudiendo celebrar convenios con Instituciones Públicas y Privadas para el efecto de incrementar sus recursos y optimizar la aplicación de los mismos.
+El patrimonio de la beneficiencia (sic) pública, será administrado por la Secretaría de Salud Pública correspondiéndole a su titular, representar los intereses de dicho patrimonio, en juicio y fuera de él, así como distribuir los recursos de la misma, en los términos del presupuesto de ingresos que legalmente se autorice.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 125.
 
-El Ejecutivo del Estado podrá acordar la integración de un fondo estatal de solidaridad, en el que participen los representantes de los sectores público, social y privado que el mismo Ejecutivo determine, con el fin de delegar la administración del patrimonio de la beneficencia pública en dicho Fondo.
+El Ejecutivo del Estado podrá acordar la integración de un fondo estatal de solidaridad, en el que participen los representantes de los sectores públicos, social y privado que el mismo Ejecutivo determine, con el fin de delegar la administración del patrimonio de la beneficiencia (sic) pública en dicho fondo. En todo caso la representación del patrimonio de la beneficiencia (sic) pública en juicio corresponderá a la Secretaría de Salud Pública por conducto de su titular o del funcionario o funcionarios que éste autorice.
 
 ###### ARTICULO 126.
 
@@ -1115,39 +1167,137 @@ El Ejecutivo del Estado promoverá en el ámbito estatal la prestación de servi
 
 El Gobierno del Estado y los Municipios en coordinación con las entidades públicas correspondientes, prestarán el auxilio que requieran aquellas zonas del Estado, en las que se padezcan desastres originados por sequías, terremotos, inundaciones y fenómenos naturales o contingencias con efectos similares.
 
-### CAPITULO IV. DE LA BENEFICIENCIA PRIVADA PARA LA ASISTENCIA SOCIAL
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+### CAPITULO IV. DE LAS INSTITUCIONES PRIVADAS QUE PRESTAN SERVICIOS DE ASISTENCIA SOCIAL
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 128.
 
-La Secretaría de Salud Pública autorizará la constitución y supervisará el funcionamiento de instituciones privadas cuyo objetivo sea la prestación de servicios asistenciales.
+Se entenderá por instituciones de asistencia privada, las fundaciones o asociaciones que se constituyan conforme a esta Ley , el Reglamento correspondiente y las demás disposiciones aplicables, cuyo objeto sea la prestación de servicios de asistencia social, sin propósito de lucro y sin designar individualmente a los beneficiados.
+
+Las instituciones de asistencia privada tendrán personalidad jurídica, a partir de que la junta a que se refiere este capítulo autorice su constitución y proyecto de estatutos ; dicha personalidad jurídica surtirá efectos previa la protocolización notarial de la estructura constitutiva correspondiente y la inscripción de ésta en el Registro Público de la Propiedad.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 129.
 
-Serán consideradas instituciones de asistencia privada las que se constituyan conforme a esta Ley, el reglamento correspondiente y demás disposiciones aplicables y cuyo objeto sea la prestación de servicios asistenciales, sin propósito de lucro y sin designar individualmente a los beneficiarios.
+Para los efectos de esta Ley, tendrán el carácter de fundaciones, las personas morales que se constituyan por acto entre vivos o por disposición testamentaria, mediante la afectación de bienes de propiedad privada.
+
+Los jueces y notarios que conozcan de un juicio sucesorio o de un testamento, del que se derive la creación de una fundación de asistencia privada, lo harán del conocimiento de la Junta de Asistencia Privada, remitiéndole copia de las actuaciones o del testamento, según corresponda dentro de los diez días siguientes a la radicación del juicio o a la autorización de la escritura mediante la cual se otorga el testamento, respectivamente.
+
+Serán asociaciones , las personas morales que se constituyan por voluntad de los particulares y cuyos miembros aporten cuotas periódicas para el sostenimiento de la institución, sin perjuicio de que pueda pactarse que los asociados contribuyan además con servicios personales; las asociaciones que se constituyan en caso de situaciones de emergencia o catástrofe, se denominarán juntas de socorro.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 130.
 
-En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública para fines de asistencia social, las instituciones de beneficencia pública y aquellas instituciones de beneficencia privada debidamente constituidas y registradas ante la Secretaría de Salud Pública. Este tipo de eventos deberán contar, en cada caso, con la autorización de las Secretaría de Salud Pública y serán supervisadas, en los términos del reglamento que se expida, por la misma Secretaría.
+Se crea la Junta de Asistencia Privada, como un órgano desconcentrado por función, con autonomía operativa, jerárquicamente subordinado a la Secretaría de Salud Pública, y estará integrada por un Presidente, que será nombrado y removido libremente por el Gobernador del Estado, y por ocho Vocales, que serán los titulares de las Secretarías de Salud Pública y de Planeación del Desarrollo, y de la Tesorería General del Estado, así como el Director General del Sistema para el Desarrollo Integral de la Familia del Estado de Sonora, y cuatro representantes designados por las instituciones de asistencia privada constituidas conforme a esta Ley.
+
+El Ejecutivo del Estado establecerá las bases para la organización y el funcionamiento de la Junta de Asistencia Privada.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 131.
 
-La constitución, registro y funcionamiento de las instituciones de beneficencia privada se regirán por el reglamento que expida el Ejecutivo del Estado.
+La Junta de Asistencia Privada tendrá las siguientes atribuciones:
+
+I.- Autorizar la constitución y extinción de las instituciones de asistencia privada, cuyo objeto sea la prestación de servicios asistenciales;
+
+II.- Autorizar los estatutos de las instituciones y sus modificaciones, y elaborar dichos estatutos, de no haber sido formulados por las propias instituciones;
+
+III.- Ordenar la inscripción de las instituciones en el Registro Público de la Propiedad;
+
+IV.- Sujetarse en cuando a la creación, operación, modificación o extinción de las instituciones de asistencia privada, a los objetivos y metas establecidos en los programas del sector salud;
+
+V.- Revisar los estatutos de las instituciones, a fin de que los mismos se ajusten a esta Ley y sus disposiciones reglamentarias, procurando especialmente que en ellos no se contraríe la voluntad de los fundadores. La junta de Asistencia Privada indicará, en (sic) caso, al patronato de la institución de que se trate, las reformas a los estatutos que considere necesarios, y le señalará un término para que lleve a cabo dichas reformas;
+
+VI.- Vigilar y supervisar la operación y funcionamiento de las instituciones, cerciorándose que cumplan con los fines para los cuales se constituyeron y con las disposiciones legales y reglamentarias correspondientes;
+
+VII.- Apoyar y asesorar a las instituciones en el cumplimiento de sus objetivos y en la obtención de estímulos fiscales, defendiendo sus intereses cuando se pretenda afectar su patrimonio;
+
+VIII.- Autorizar y supervisar la promoción y realización de suscripciones de cooperación pública, sorteos y, en general, de toda clase de festivales o diversiones que requieran efectuar las instituciones;
+
+IX.- Intervenir en nombre de las fundaciones en proceso de creación por disposición testamentaria, en los juicios sucesorios correspondientes y en todos aquellos procedimientos judiciales en los que pudiesen resultar afectados los intereses de tales instituciones, hasta en tanto éstas queden debidamente constituídas;
+
+X.- Imponer las sanciones administrativas que correspondan por violaciones al presente Capítulo y sus disposiciones reglamentarias. Dichas sanciones podrán consistir en multa, clausura o disolución de la institución o remoción de sus patronos o administradores
+
+Contra las resoluciones de la Junta de Asistencia Privada procederá el recurso de inconformidad previsto en esta Ley; y
+
+XI.- Las demás que le señale la presente Ley y sus reglamentos y la Secretaría de Salud Pública.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 132.
 
-La Secretaría de Salud Pública en los términos del reglamento que se expida, promoverá la creación de instituciones de asistencia privada, prestándoles la asesoría técnica y legal que requieran para su funcionamiento. Igualmente les otorgará los apoyos que convenga con las mismas, mediante la concertación de convenios, en aquellas áreas de importancia primordial para el Estado o los Municipios en donde opere.
+Las instituciones de asistencia privada tendrán como órgano supremo al Patronato; además, podrán establecer órganos auxiliares jerárquicamente subordinados.
+
+Al Patronato corresponderá la representación legal y la administración de las instituciones y como órgano deliberante deberá tomar sus decisiones colegiadamente; para ese efecto, celebrará sesiones en la forma que establezca el reglamento respectivo.
+
+Los miembros del Patronato tendrán las facultades que les concedan los estatutos y el propio Patronato; en el ejercicio de dichas facultades no se obligarán individualmente, pero estarán sujetos a las responsabilidades civiles y penales en que incurra , de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 133.
 
-Los servicios y acciones que presten y realicen las instituciones de asistencia privada se someterán a las disposiciones de esta ley, a los programas nacional y estatal de salud, y a las demás disposiciones legales aplicables.
+No podrán desempeñar el cargo de patrono de una institución de asistencia privada:
+
+I.- Las corporaciones o instituciones religiosas, los ministros de los cultos o sus asimilados, aunque estos o aquellos no estuvieren en ejercicio;
+
+II.- Las personas que desempeñen cargos de elección popular; los titulares de las dependencias del Poder Ejecutivo; los directores generales, gerentes generales o sus similares de los organismos descentralizados y de las empresas de participación estatal mayoritaria; el Presidente y los Vocales representantes del sector público de la Junta de Asistencia Privada y los funcionarios y empleados de la misma;
+
+III.- Las personas morales;
+
+IV.- Las personas que por sentencia ejecutoriada hayan sido suspendidas o privadas de sus derechos civiles o condenadas por la comisión de algún delito intencional; y
+
+V.- Las personas que hayan sido removidas de otro Patronato.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 133 BIS.- Los patronatos de las instituciones de asistencia privada tendrán las siguientes obligaciones:
+
+I.- Cumplir y hacer que se cumpla la voluntad del fundador o fundadores de la Institución;
+
+II.- Administrar los bienes de las instituciones procurando su conservación y mejoramiento;
+
+III.- Abstenerse de nombrar como empleados de las instituciones a las personas mencionadas en la Fracción I del Artículo anterior;
+
+IV.- Ejercitar las acciones y defensas que correspondan a las instituciones, y hacer que se cumpla el objeto para el cual fueron constituídas, acatando estrictamente sus estatutos;
+
+V.- No gravar ni enajenar los bienes que pertenezcan a las instituciones, sin la autorización de la Junta de Asistencia Privada;
+
+VI.- Elaborar los proyectos de presupuesto de ingresos y egresos de las instituciones y el programa anual de actividades de las mismas y someterlos a la aprobación de la Junta citada;
+
+VII.- Elaborar y presentar a la consideración de la Junta de Asistencia Privada, un informe anual de actividades, y enviar a dicho órgano, trimestralmente, los estados financieros de las instituciones;
+
+VIII.- Cumplir con las instituciones de la Junta señalada, cuando éstas tiendan a corregir un error o una práctica viciosa;
+
+IX.- Llevar los registros contables y administrativos que les señalen las disposiciones legales y reglamentarias correspondientes ; y
+
+X.- Las demás que les impongan la presente Ley y sus Reglamentos, los estatutos de las instituciones y otros ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 133 BIS A.- El patrimonio de las instituciones de asistencia privada será distinto e independiente de los patrimonios individuales de los miembros de sus patronatos.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 133 BIS B.- El Patronato podrá autorizar a cualesquiera de sus integrantes a efecto de que comparezca en su representación a celebrar toda clase de actos jurídicos. Así mismo , para otorgar poderes para la realización de actos de dominio o de administración de bienes y para pleitos y cobranzas en los términos del Artículo 2831 del Código Civil para el Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 133 BIS C.- En el Estado de Sonora, sólo podrán promover y realizar suscripciones de cooperación pública, las instituciones de beneficiencia (sic) pública y aquellas instituciones de asistencia privada debidamente constituídas y registradas ante la Junta de Asistencia Privada.
 
 ## TITULO DECIMO. PROGRAMAS CONTRA LAS ADICCIONES
 
 ### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 134.
 
-Las autoridades sanitarias, en coordinación con la Secretaría de Salubridad y Asistencia y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
+Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el alcoholismo y el abuso de bebidas alcohólicas que comprenderá, entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento del alcholismo (sic) y, en su caso, la rehabilitación de los alcohólicos.
 
@@ -1169,9 +1319,11 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 136.
 
-Las autoridades sanitarias, en coordinación con la Secretaría de Salubridad y Asistencia y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
+Las autoridades sanitarias, en coordinación con la Secretaría de Salud y el Consejo de Salubridad General, ejecutarán en el Estado el programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
 
 I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo; y
 
@@ -1189,9 +1341,11 @@ III.- Los efectos de la publicidad en la incidencia del tabaquismo y en los prob
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 138.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salubridad y Asistencia y el Consejo de Salubridad General en la ejecución, en el territorio del Estado, del programa nacional contra la Farmacodependencia.
+El Gobierno del Estado coadyuvará con la Secretaría de Salud y el Consejo de Salubridad General en la ejecución, en el territorio del Estado, del programa nacional contra la Farmacodependencia.
 
 ###### ARTICULO 139.
 
@@ -1211,17 +1365,35 @@ A los establecimientos que vendan o utilicen substancias inhalantes con efectos 
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 140.
 
-De conformidad con la norma técnica que expida la Secretaría de Salubridad y Asistencia, la Secretaría de Salud Pública ejercerá el control sanitario de los establecimientos que expendan o suministren alimentos, bebidas alcohólicas y no alcohólicas en el Estado.
+La Secretaría de Salud Pública ejercerá el control sanitario de los establecimientos que expendan o suministren al público alimentos y bebidas no alcohólicas y alcohólicas, en estado natural , mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento.
 
 Tratándose de la autorización para el expendio o suministro de bebidas alcohólicas, se estará además a lo dispuesto en las leyes respectivas y sus reglamentos.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 140 BIS.- Para los efectos de esta Ley, se entiende por:
+
+I.- Establecimientos: los locales y sus instalaciones, dependencias y anexos, estén cubiertos o descubiertos, sean fijos o móviles, en los que se desarrollen las actividades y servicios a que se refiere el presente capítulo;
+
+II.- Alimentos: Cualquier sustancia o producto, sólido o semisólido, natural o transformado, que proporcione al organismo elementos para su nutrición;
+
+III.- Bebida no alcohólica: Cualquier líquido natural o transformado, que proporcione al organismo elementos para su nutrición;
+
+IV.- Bebidas alcohólicas: Cualquier líquido natural o transformado, que contenga alcohol etílico en una proporción mayor del 2% en volumen; y
+
+V.- Materia prima: Sustancia o producto, de cualquier origen que se use en la elaboración de alimentos y bebidas no alcohólicas y alcohólicas.
 
 ###### ARTICULO 141.
 
 El Ejecutivo del Estado, por conducto de la dependencia que al efecto determine, en los términos de las leyes y reglamentos aplicables, autorizará la ubicación, el funcionamiento y los horarios de los establecimientos que expendan bebidas alcohólicas.
 
-Las autorizaciones para la venta de bebidas alcohólicas, por ningún motivo serán otorgadas para la apertura de expendios a menos de doscientos metros de hospitales, iglesias, asilos, planteles educativos o cualquier otro tipo de edificio público.
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Las autorizaciones para la venta de bebidas alcohólicas, no serán otorgadas para la apertura de establecimientos ubicados en un radio menor de 200 metros de hospitales, iglesias, asilos, planteles educativos o cualquier otro tipo de edificio público, salvo que se trate de establecimientos que constituyan centros turísticos o bien respecto de los cuales medien circunstancias especiales de interés general, a juicio discrecional del titular del Poder Ejecutivo, siempre y cuando no se originen alteraciones al orden público o trastornos a la paz y tranquilidad de los vecinos.
 
 ###### ARTICULO 142.
 
@@ -1400,6 +1572,10 @@ La matanza de animales en los rastros autorizados se efectuará en los días y h
 ###### ARTICULO 178.
 
 Los Gobiernos Estatal y Municipales procurarán, coordinadamente y de conformidad con las disposiciones legales aplicables, que las poblaciones tengan servicio regular de aprovisionamiento y distribución de agua potable.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Las autoridades sanitarias vigilarán que tanto los sistemas de captación y almacenamiento, como las líneas de conducción y distribución de agua potable, reúnan las condiciones necesarias para evitar la contaminación del agua, en los términos previstos en la presente Ley y demás disposiciones legales y reglamentarias.
 
 ###### ARTICULO 179.
 
@@ -1641,9 +1817,11 @@ Los obligados a tener licencia sanitaria deberán exhibirla en lugar visible del
 
 Requieren de permiso sanitario las construcciones.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 221.
 
-Requieren de permiso sanitario el traslado de cadáveres de un Municipio a otro en el Estado.
+Para el traslado de cadáveres de un municipio a otro en el Estado, se requerirá de la autorización del Oficial del Registro Civil. Dicha autorización sólo se otorgará una vez que la autoridad sanitaria conceda el permiso correspondiente y que se satisfagan los requisitos administrativos y sanitarios que establecen esta Ley y los demás ordenamientos reglamentarios.
 
 ###### ARTICULO 222.
 
@@ -1741,9 +1919,11 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los Certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud Pública.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 237.
 
-Los certificados a que se refiere este Título, se extenderán por la autoridad sanitaria estatal en los modelos aprobados por la Secretaría de Salubridad y Asistencia y de conformidad con las normas técnicas que la misma emita.
+Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud Pública y de conformidad con las normas técnicas que la misma emita.
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
@@ -1764,6 +1944,24 @@ El acto u omisión contrario a los preceptos de esta Ley y a las disposiciones q
 ###### ARTICULO 241.
 
 La vigilancia sanitaria se llevará a cabo mediante visitas de inspección a cargo de inspectores designados por la autoridad sanitaria estatal, quienes deberán realizar las respectivas diligencias de conformidad con las prescripciones de esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+También se realizarán mediante informes de verificación que reúnan los requisitos señalados en la presente Ley.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 241 BIS.- Cuando la autoridad sanitaria detecte alguna publicidad relativa a los productos y servicios regulado por la presente Ley, de la que se derive alguna posible infracción al presente ordenamiento y demás disposiciones legales y reglamentarias de la materia, elaborará un informe detallado donde se expresará:
+
+I.- El lugar, fecha y hora de la verificación;
+
+II.- El medio de comunicación social en que se haya emitido;
+
+III.- El texto de la nota publicitaria y la descripción del producto o servicio de que se trate; y
+
+IV.- Las irregularidades sanitarias detectadas y las violaciones a esta Ley y demás disposiciones generales aplicables en materia de salud, en que se hubiere incluido
+
+En el supuesto de que el medio de comunicación social verificado sea la prensa u otra publicación, el informe de verificación deberá integrarse invariablemente con una copia de la parte relativa que contenga la publicidad donde se aprecie, el texto o mensaje publicitario, la denominación del periódico o publicación y su fecha.
 
 ###### ARTICULO 242.
 
@@ -1891,13 +2089,19 @@ Durante la suspensión se podrá permitir el acceso de las personas que tengan e
 
 La Secretaría de Salud Pública podrá ordenar el restablecimiento de los servicios de agua potable y avenamiento. Al efecto, se ejecutarán las acciones necesarias que permitan asegurar el restablecimiento de dichos servicios.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 258.
 
-El aseguramiento de objetos, productos o substancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud o carecen de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La Secretaría de Salud Pública y los Municipios, en el ámbito de su respectiva competencia, podrán detenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carecen de los requisitos esenciales que se establezcan en esta Ley y en las demás disposiciones legales aplicables; la Secretaría de Salud Pública y los Municipios, en el ámbito de sus respectivas competencias, podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino.
 
-Sí el dictamen reportara que el bien asegurado no es nocivo para la salud y cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. Sí el interesado no gestionara la recuperación dentro de un plazo de treinta días hábiles, se entenderá que el bien causa abandono y quedará a disposición de la autoridad sanitaria correspondiente para su aprovechamiento lícito.
+Si el dictamen indicara que el bien asegurado no es nocivo, pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones legales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos. Si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
-Sí del dictamen resultara que el bien asegurado es nocivo, se podrá determinar, previa observancia de la garantía de audiencia, que el mismo sea sometido a su tratamiento que haga posible, su legal aprovechamiento por el interesado, o sea destruido si no pudiere tener un uso lícito por parte de la autoridad.
+Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el párrafo anterior y previa la observancia de la garantía de audiencia, podrá determinar que el interesado, bajo la vigilancia de dicha autoridad, someta al bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines a que la propia autoridad le señale.
+
+Los productos perecederos asegurados que se descompongan en poder de la autoridad sanitaria, así como los objetos productos o sustancias que se encuentren en evidente estado de descomposición, adulteración o contaminación que no los hagan aptos para su consumo, serán destruídos de inmediato por la autoridad sanitaria, la que levantará un acta circunstanciada de la destrucción.
+
+Los productos perecederos que no se reclamen por los interesados dentro de las veinticuatro horas de que hayan sido asegurados, quedarán a disposición de la autoridad sanitaria, la que los entregará para su aprovechamiento, de preferencia, a instituciones de asistencia social, públicas o privadas.
 
 ###### ARTICULO 259.
 
@@ -2001,7 +2205,9 @@ II.- Se tomarán en cuenta los derechos e intereses de la sociedad.
 
 III.- Se considerará la trascendencia del asunto de que se trate y la conveniencia de suprimir prácticas que en cualquier forma, pongan en peligro la salud de las personas.
 
-IV.- La resolución que se adopte se hará saber por escrito al interesado, dentro de un plazo no mayor de cuatro meses, contados a partir de la recepción de la solicitud del particular.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IV.- La resolución que se adopte se hará saber por escrito al interesado, dentro de un plazo no mayor de cinco días hábiles, contados a partir de la fecha en que se dicte tal resolución.
 
 ###### ARTICULO 273.
 
@@ -2025,13 +2231,27 @@ VII.- Publicidad.
 
 La Secretaría de Salud Pública y los Municipios, con base en el resultado de la inspección, dictarán las medidas necesarias para corregir, en su caso, las irregularidades que se hubieren encontrado, notificándolas al interesado y dándole un plazo adecuado para su realización.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 275.
 
-La Secretaría de Salud Pública y los Municipios harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+Las autoridades sanitarias, para ser cumplir sus determinaciones podrán emplear cualesquiera de los siguientes medios de apremio:
+
+I.- Multas desde diez hasta quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, que se duplicará en caso de reincidencia. La multa deberá pagarse dentro de un plazo máximo de cinco días, comprobándose ante la autoridad sanitaria su cumplimiento, mediante la presentación del recibo correspondiente. El importe de la multa quedará a beneficio del Fondo Estatal de Solidaridad. Cuando se trate de pequeños comerciantes o vendedores ambulantes, la multa será fijada de 10 a 20 veces el salario mínimo.
+
+II.- El auxilio de la fuerza pública, que deberá prestarse en el momento en que sea solicitado; y
+
+III.- El arresto hasta por treinta y seis horas, después de haberse aplicado la medida a que se refiere la Fracción I.
+
+Los inspectores sanitarios podrán solicitar directamente y deberá presentárseles el auxilio de la fuerza pública, cuando actúen para cumplimentar una determinación de la autoridad sanitaria y para la fijación de los sellos correspondientes pero sólo en tanto concluyan la diligencia respectiva.
+
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 276.
 
-Levantada un acta de inspección, se le dará copia al interesado notificándose que tiene un plazo de quince días para comparecer ante la Autoridad Sanitaria a manifestar lo que a su derecho convenga y ofrecer las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección. En esta comparecencia, el interesado señalará el domicilio para oír y recibir notificaciones. En caso de no señalarlo, las ulteriores notificaciones, incluso las personales, se harán en el lugar de la inspección.
+Elaborados (sic) una acta de inspección o un informe de verificación, según el caso, se le dará copia al interesado, notificándole que dispone de un plazo de cinco días para comparecer ante la autoridad sanitaria a manifestar lo que a su derecho convenga y a ofrecer las pruebas que estime procedentes, en relación con los hechos asentados en el acta de inspección o informe de verificación. En esta comparecencia, el interesado señalará el domicilio para oír y recibir notificaciones; en caso de no señalarlo, las ulteriores notificaciones, aún las de carácter personal, se harán en el lugar de la inspección.
+
+Tratándose de informes de verificación, la autoridad sanitaria deberá notificar al interesado, acompañado invariablemente copia de aquel.
 
 ###### ARTICULO 277.
 
@@ -2041,13 +2261,55 @@ El cómputo de los plazos que se señalen para el cumplimiento de disposiciones 
 
 Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, a dicar (sic), por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo, al interesado o a su representante legal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+En la resolución a que se refiere el párrafo anterior, la autoridad sanitaria podrá imponer las medidas de seguridad y sanciones a que se refiere la presente Ley. También podrá confirmar, modificar o revocar las medidas de seguridad impuestas por los inspectores o por la misma autoridad durante el procedimiento.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 278 BIS.- Independientemente de la carga que tiene el infractor de probar sus respectivas proposiciones de hechos, la autoridad sanitaria podrá:
+
+I.- Solicitar los informes de autoridad sobre los hechos, constancias o documentos que obren en sus archivos o de que hayan tenido conocimiento por razón de la función que desempeñen estas autoridades y que se relacionen con el asunto de que se trate y pedir la aclaración o aplicación de cualquier punto del mismo;
+
+II.- Decretar en todo tiempo, la práctica o ampliación de cualquier diligencia probatoria, siempre que sea conducente para el conocimiento de la verdad sobre los puntos que versen en el acta de inspección o informe de verificación en su caso, a fin de mejor proveer al momento de decretar la resolución que corresponda.
+
+III.- Examinar documentos, objetos y lugares o hacerlos reconocer por peritos, y en general, practicar cualquier diligencia que, a su juicio, sea necesaria para el esclarecimiento de la verdad; y
+
+IV.- Asistirse por uno o más peritos, cuando lo considere necesario para el esclarecimiento de puntos o cuestiones controvertidos o para el cumplimiento de actos que no esté en condiciones de apreciar por sí mismo.
+
+La inspección de lugares u objetos se encomendará a dos o mas inspectores sanitarios, nombrados por el encargado de la unidad administrativa correspondiente.
+
 ###### ARTICULO 279.
 
 En caso de que el presunto infractor no compareciera dentro del plazo fijado por el Artículo 276, se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
 
+> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 280.
 
-En los casos de suspensión de trabajos o de servicios o de clausura temporal o definitiva, parcial o total, el personal comisionado para su ejecución procederá a levantar acta detallada de la diligencia, siguiendo para ello los lineamientos generales establecidos para las inspecciones.
+En los casos de la aplicación de la sanción que se señala en la fracción II del artículo 261 de la presente Ley, se observarán las siguientes reglas:
+
+I.- La autoridad sanitaria señalará al propietario, encargado o responsable del inmueble de que se trate, un plazo prudente para el cumplimiento voluntario de la resolución respectiva, atendiendo a las circunstancias de hecho y de las personas;
+
+II.- Trascurrido el plazo a que se refiere la fracción anterior, si no se ha dado cumplimiento a la citada resolución, la autoridad sanitaria ejecutará la misma a costa del obligado, expresando que lo hace en su rebeldía;
+
+III.- Los bienes que se encuentren en el inmueble referido, si fuere necesario desocuparlo y si no hubiera persona autorizada que lo recoja , se remitirán por inventario al local que designe la autoridad sanitaria, levantándose acta circunstanciada al efecto.
+
+Tratándose de ganado mayor o menor, se remitirá éste de inmediato a cualesquiera de los rastros de la localidad, para su sacrificio, quedando el remanente del producto de la venta de su carne y derivados, deducidos los gastos de ejecución respectivos, depositado en la Institución Nacional de Crédito que determine la Secretaría de Salud Pública, a disposición del interesado, sin responsabilidad alguna para la autoridad sanitaria; y
+
+IV.- Si el interesado no gestionara la recuperación de los bienes y del numerario a que se refiere la fracción anterior dentro de un plazo de treinta días hábiles, se entenderá que el dinero y los bienes causan abandono y quedarán a disposición de la autoridad sanitaria para su aprovechamiento.
+
+> <small>(ADICIONADO, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+ARTICULO 280 BIS.- Cuando se ordene la suspensión de actividades de establecimientos como establos, granjas avícolas y porcícolas, apiarios y otros similares, se podrá ordenar además:
+
+I.- La no repoblación de ganado;
+
+II.- La transferencia inmediata del ganado a otros establecimientos que señale el interesado. Si el interesado no señala ningún establecimiento, la autoridad sanitaria determinará el lugar a donde serán remitidos ; y
+
+III.- El sacrificio inmediato de ganado enfermo que por gravedad de su padecimiento no pueda ser remitido a otro establecimiento para su tratamiento.
+
+Los gastos de transferencia del ganado, su mantenimiento o sacrificio correrán a cargo del propietario del establecimiento en que se haya cometido la infracción.
 
 ###### ARTICULO 281.
 
@@ -2210,3 +2472,25 @@ Dr. Samuel Ocaña García.
 EL SECRETARIO DE GOBIERNO,
 
 Lic. Carlos Gámez Fimbres.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 29 DE DICIEMBRE DE 1989.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NUMERO 124, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, PARA EL ESTADO DE SONORA”.]
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado, con excepción de las reformas al Capítulo IV del Título Noveno, que tendrán vigencia a partir del día 1°. de marzo de 1990.
+
+###### ARTICULO SEGUNDO.
+
+En el caso de que para la realización de un trámite o la interposición de un recurso, esté corriendo un término que haya sido modificado en la presente Ley, se aplicará la disposición que prevea un plazo mayor en favor de los particulares.
+
+###### ARTICULO TERCERO.
+
+Los procedimientos para la ejecución forzosa de sanciones y medidas de seguridad, se ajustarán a las disposiciones previstas en el presente ordenamiento.
+
+###### ARTICULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
