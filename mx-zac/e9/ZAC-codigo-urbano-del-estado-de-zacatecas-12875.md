@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-urbano-del-estado-de-zacatecas-12875"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-09-11"
-last_updated: "2001-07-04"
+last_updated: "2004-06-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO URBANO DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JULIO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE JUNIO DE 2004.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -621,7 +621,11 @@ XXXVIII.- Expedir las constancias municipales de compatibilidad urbanística;
 
 XXXIX.- Autorizar la lotificación, desmembración, subdivisión y fusión de terrenos;
 
-XL.- Otorgar o negar autorizaciones, licencias y permisos para uso de suelo, construcción, remodelación, ampliación y demolición de inmuebles;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2004)</small>
+
+XL.- Otorgar, negar o condicionar autorizaciones, licencias y permisos para uso de suelo, construcción, remodelación, ampliación y demolición de inmuebles;
+
+De igual forma expedir o negar las licencias o permisos para la instalación, colocación o fijación de anuncios, así como controlar lo inherente a la imagen urbana, tomando en consideración las opiniones de la Comisión del Patrimonio Cultural en los términos previstos en el presente Código.
 
 XLI.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y declaratorias aplicables;
 
@@ -633,9 +637,11 @@ XLIV.- Resolver sobre los recursos administrativos que conforme a su competencia
 
 XLV.- Las demás que les señalen este Código y otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
+
 ###### ARTICULO 23.
 
-Los ayuntamientos, para el ejercicio de las atribuciones que les confiere este Código, se apoyarán en su Dirección de Obras y Servicios Públicos Municipales, y en las comisiones Estatal y Municipal, así como en la Secretaría.
+Los ayuntamientos, para el ejercicio de las atribuciones que les confiere este Código, se apoyarán en las comisiones estatal y municipal, en su Dirección de Obras y Servicios Públicos Municipales, o en la dependencia que señale su Reglamento Interior.
 
 ###### ARTICULO 24.
 
@@ -815,7 +821,11 @@ I.- Conservar, proteger y mejorar el aspecto ambiental peculiar de los centros d
 
 II.- Vigilar que se apliquen estrictamente las disposiciones contenidas en este Código y demás legislación aplicable;
 
-III.- Autorizar la colocación de anuncios, rótulos postes, líneas eléctricas y telefónicas, arreglo de fachadas y de cualquier otra índole, en los términos de este Código;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2004)</small>
+
+III.- Emitir opinión al Ayuntamiento respecto de las solicitudes de licencias y permisos para la instalación, colocación o fijación de anuncios, postes, líneas eléctricas y telefónicas, arreglo de fachadas y de cualquier otra índole, en las zonas o lugares declarados como patrimonio cultural o de valor histórico, en los términos previstos en este Código.
+
+Para el efecto de emitir la citada opinión contará con un plazo de diez días hábiles contados a partir del día siguiente hábiles a aquél en que el Ayuntamiento le hubiera solicitado esa opinión. En caso de no existir respuesta, se entenderá que no existe impedimento alguno para que el Ayuntamiento proceda a expedir la licencia o permiso respectivo.
 
 IV.- Conocer los planos y proyectos para la realización de las obras a que se refiere la fracción anterior, para efectos de su autorización;
 
@@ -831,7 +841,9 @@ IX.- Determinar el tipo de construcciones que deban edificarse, demolerse o modi
 
 X.- Autorizar o negar permisos para el establecimiento de comercios, industrias y talleres en zonas típicas, históricas y en lugares de valor natural y cultural;
 
-XI.- Obligar al retiro de anuncios, rótulos y letreros que se encuentren adosados o en saliente con respecto a la fachada; así como, el retiro de postes, transformadores, líneas eléctricas y telefónicas e instalaciones de cualquier otra índole que se efectúen en un inmueble del patrimonio cultural;
+> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2004)</small>
+
+XI.- Solicitar al ayuntamiento para que por su conducto se ordene el retiro de anuncios, postes, transformadores, líneas eléctricas y telefónicas e instalaciones de cualquier índole que se ubiquen en un inmueble del patrimonio cultural.
 
 XII.- Coordinar las acciones relativas al patrimonio cultural, previstas en los programas y declaratorias de desarrollo urbano;
 
@@ -4818,3 +4830,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- La Junta Directiva del Consejo Promotor de la Vivienda Popular, procederá a expedir y publicar las adecuaciones al Estatuto Orgánico, así como el Reglamento de Escrituración, Protocolo y Registro, que resultan de este decreto, en un plazo no mayor de treinta días hábiles, contados a partir de que entre en vigor este Decreto.
+
+P.O. 12 DE JUNIO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
