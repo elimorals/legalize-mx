@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "1945-09-27"
+last_updated: "1947-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE SEPTIEMBRE DE 1945.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 19 DE SEPTIEMBRE DE 1947.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación el lunes 27 de julio de 1931.
 
@@ -54,7 +54,9 @@ Las únicas monedas circulantes serán:
 
 a). Los billetes del Banco de México, con las denominaciones que fijen sus Estatutos;
 
-b). (DEROGADO, D.O.F. 27 DE SEPTIEMBRE DE 1945)
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
+
+b). Las monedas de plata de cinco pesos, de un peso y de cincuenta centavos con los tamaños, pesos, cuños, ley y demás características que señala el Decreto relativo de esta misma fecha.
 
 > <small>(REFORMADO, D.O.F. 10 DE AGOSTO DE 1943)</small>
 
@@ -80,11 +82,17 @@ D.O.F. 27 DE ABRIL DE 1935.
 
 ###### ARTICULO 5°.
 
-Las monedas de un peso y las de cincuenta centavos a que se refiere el artículo 2°., inciso c), de esta Ley, tendrán poder liberatorio ilimitado a cien pesos en un mismo pago.
+Las monedas de cinco pesos, de un peso y de cincuenta centavos a que se refiere el artículo 2°. inciso b) de esta Ley, tendrán poder liberatorio limitado a quinientos pesos las primeras y a cien pesos las dos últimas, en un mismo pago.
 
-Las monedas de veinte centavos a que se refiere el mismo inciso tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
+> <small>(REFORMADO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
+
+Las monedas de veinte centavos a que se refiere el inciso c) del mismo artículo, tendrán poder liberatorio limitado a cincuenta pesos en un mismo pago.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
 
 Las monedas de cupro-níquel de diez centavos y las de bronce de cinco centavos a que se refieren los incisos d) y e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a dos pesos en un mismo pago.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942)</small>
 
 Las monedas de bronce de un centavo a que se refiere el inciso e) del artículo 2°. de esta Ley, tendrán poder liberatorio limitado a un peso en un mismo pago.
 
@@ -188,7 +196,7 @@ Se declaran libres la exportación y la importación de oro acuñado o en pasta,
 
 Los billetes del Banco de México tendrán poder liberatorio ilimitado.
 
-(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1942) (F. DE E., D.O.F. 7 DE ENERO DE 1943)
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE SEPTIEMBRE DE 1947)</small>
 
 ###### ARTICULO 5°.
 
@@ -453,6 +461,10 @@ D.O.F. 27 DE SEPTIEMBRE DE 1945.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 19 DE SEPTIEMBRE DE 1947.
+
+ARTICULO TRANSITORIO.- La presente Ley entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
 ###### ARTICULO 3°.
 
