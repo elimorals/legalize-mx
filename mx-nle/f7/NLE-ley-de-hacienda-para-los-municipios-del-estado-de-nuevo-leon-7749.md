@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "1995-12-29"
+last_updated: "1996-07-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2247,11 +2247,11 @@ No estarán obligados al pago de este derecho por los anuncios ubicados en el es
 
 ### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE JULIO DE 1996)</small>
 
 ###### ARTICULO 65.
 
-Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una ciudad, villa o congregación, deberán efectuar el desmonte, deshierba, y limpieza de su inmueble dos veces al año, a más tardar en los meses de marzo y septiembre respectivamente. De no ser así, el Municipio podrá efectuar el servicio, debiendo el propietario cubrir el costo que represente al Municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
+Los propietarios de predios baldíos ubicados dentro del perímetro del área urbana de una Ciudad, Villa o Congregación, deberán efectuar la limpieza de su inmueble dos veces al año, a más tardar en los meses de Marzo y Septiembre respectivamente. De no ser así, el Municipio podrá efectuar el servicio, debiendo el propietario cubrir el costo que represente al Municipio la prestación de este servicio, conforme a la siguiente tarifa por metro cuadrado:
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2848,3 +2848,7 @@ P.O. 29 DE DICIEMBRE DE 1995.
 DECRETO NUMERO 132.
 
 UNICO.- Este decreto entrará en vigor el día 1°. de Enero de 1996.
+
+P.O. 31 DE JULIO DE 1996.
+
+Artículo Unico: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
