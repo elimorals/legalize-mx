@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "1990-01-15"
+last_updated: "1991-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1991.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -73,7 +73,7 @@ I.- 60% en proporción al número de habitantes de cada Municipio en relación a
 
 El número de habitantes de cada Municipio se tomará de la última información oficial que hubiere dado a conocer el Instituto Nacional de Estadística, Geografía e Informática.
 
-II.- 20% en proporción a los ingresos propios, excluídos los derivados del Impuesto Predial, que haya tenido cada uno de los Municipios con respecto al de todos ellos, durante el año inmediato anterior.
+II.- 20% en proporción a los ingresos propios, excluidos los derivados del Impuesto Predial, que haya tenido cada uno de los Municipios con respecto al de todos ellos, durante el año inmediato anterior.
 
 III.- 15% en partes iguales a cada Municipio.
 
@@ -183,11 +183,15 @@ II.- Analizar y emitir un dictámen sobre la distribución y liquidación de los
 
 III.- Efectuar en forma permanente estudios sobre Legislación Fiscal, así como estudiar los reglamentos del funcionamiento de la propia comisión y de la Comisión Coordinadora de Capacitación y Asesoría Fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 1991)</small>
+
 ###### ARTICULO 14.
 
-La Comisión Permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
+La Comisión permanente de Tesoreros Municipales y Funcionarios Fiscales se integrará por:
 
-La Secretaría de Hacienda Pública y Tesorería, la Contaduría Mayor de Hacienda del Poder Legislativo y por tres Municipios representados por sus Tesoreros elegidos anualmente por los Ayuntamientos, en el número que para cada grupo se indica. Asimismo se nombrará un suplente por cada uno de los miembros elegidos.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1991)</small>
+
+La Secretaría de Hacienda Pública y Tesorería, la Contaduría Mayor de Hacienda del Poder Legislativo y por siete municipios representados por los Tesoreros elegidos anualmente por los Ayuntamientos, en el número que para cada grupo se indica. Asimismo se nombrará un suplente por cada uno de los miembros elegidos.
 
 A.- ZONA NORTE: Ahome, El Fuerte, Choix, Guasave, Sinaloa, Angostura, Salvador Alvarado y Mocorito. Se elegirán tres representantes.
 
@@ -235,11 +239,13 @@ La presente Ley entrará en vigor el día siguiente al de su publicación en el 
 
 A partir de la fecha en que entre en vigor esta Ley, quedará derogado el último párrafo del Artículo 365 de la Ley de Hacienda del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1991)</small>
+
 ###### ARTICULO TERCERO.
 
-Los factores de participación que se aplicarán provisionalmente para el ejercicio de 1990, se calcularán en base al procedimiento establecido por el Artículo 4 de esta Ley, con las siguientes bases:
+Durante el ejercicio fiscal de 1991, los factores de participación que se aplicarán provisionalmente se calcularán en base al procedimiento establecido por el artículo 4 de esta Ley, con las siguientes bases:
 
-A).- Para efectos de la Fracción II, el monto de la recaudación obtenida durante el primer semestre de 1989.
+A).- Para los efectos de la Fracción II, el monto de la recaudación obtenida durante el año de 1989.
 
 Es dado en el Palacio del Poder Legislativo del Estado, en la ciudad de Culiacán Rosales, Sinaloa, a los veintiocho días del mes de Diciembre de mil novecientos ochenta y nueve.
 
@@ -266,3 +272,11 @@ Lic. Francisco Labastida Ochoa
 EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Juan Burgos Pinto
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
