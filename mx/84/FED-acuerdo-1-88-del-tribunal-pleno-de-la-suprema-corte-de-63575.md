@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-1-88-del-tribunal-pleno-de-la-suprema-corte-de-63575"
 country: "mx"
 rank: "acuerdo"
 publication_date: "1988-01-15"
-last_updated: "1989-03-01"
+last_updated: "1989-05-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63575&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-01-15"
 
 ACUERDO No. 1/88, DEL TRIBUNAL EN PLENO DEL DIA QUINCE DE ENERO DE MIL NOVECIENTOS OCHENTA Y OCHO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MARZO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE MAYO DE 1989.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 15 de enero de 1988.
 
@@ -71,11 +71,17 @@ II.- SEGUNDO CIRCUITO:
 
 2.- Juzgados Primero y Segundo de Distrito en el Estado de México, con residencia en la ciudad de Toluca;
 
-3.- Juzgados Tercero y Cuarto de Distrito en el Estado de México, con residencia en el municipio de Naucalpan de Juárez;
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE MAYO DE 1989)</small>
 
-4.- Juzgado Quinto de Distrito en el Estado de México, con residencia en el municipio de Nezahualcóyotl;
+3.- Juzgados Tercero y Cuarto de Distrito en el estado de México, con residencia en el municipio de Naucalpan de Juárez;
 
-5.- Juzgado de Distrito en el Estado de Hidalgo, con residencia en la ciudad de Pachuca.
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE MAYO DE 1989)</small>
+
+4.- Juzgado Quinto de Distrito en el estado de México, con residencia en Tlalnepantla;
+
+> <small>(REFORMADO POR EL PUNTO TERCERO DEL ACUERDO NUMERO 4/89 DEL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, D.O.F. 15 DE MAYO DE 1989)</small>
+
+5.- Juzgado Sexto de Distrito en el estado de México, con residencia en el municipio de Ciudad Nezahualcóyotl.
 
 III.- TERCER CIRCUITO:
 
@@ -502,3 +508,7 @@ SEGUNDO.- Los asuntos que, hasta la entrada en vigor de este acuerdo, hayan sido
 D.O.F. 1 DE MARZO DE 1989.
 
 UNICO.- Este acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE MAYO DE 1989.
+
+UNICO.- Este acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
