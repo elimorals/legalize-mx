@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1979-12-29"
+last_updated: "1980-04-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 1980.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -181,7 +181,9 @@ III.- Si ambos o todos los acreedores públicos poseen garantías reales, la pre
 
 28.- Los ingresos ordinarios son aquellos que se obtienen normalmente para la atención del gasto público.
 
-Con este mismo carácter se establece a cargo de los contribuyentes, el impuesto adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, así como sobre la participación que corresponde al Estado en el Impuesto Federal sobre Ingresos Mercantiles, cuyo rendimiento será destinado única y exclusivamente al sostenimiento de la Universidad Autónoma de Chihuahua.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1980)</small>
+
+Con este mismo carácter se establece a cargo de los contribuyentes, el Impuesto Adicional del 4% sobre todos los impuestos ordinarios y derechos a que se refiere este artículo, cuyo rendimiento será destinado única y exclusivamente al sostenimiento de la Universidad Autónoma de Chihuahua.
 
 29.- Son ingresos extraordinarios, aquellos cuya percepción se decreta excepcionalmente para proveer al pago de gastos o inversiones eventuales o extraordinarios del Estado.
 
@@ -1761,7 +1763,9 @@ III.- Cuando se transmita la nuda propiedad de un inmueble, la base del impuesto
 
 138.- Tratándose de compraventa con reserva de dominio o cualesquiera otros contratos traslativos de dominio sujetos a condición suspensiva, el impuesto se pagará cuando se celebre el acto jurídico; pero si la condición no se cumple, se devolverá la cantidad pagada.
 
-139.- Para los efectos de la fracción I del artículo 136 la Tesorería General podrá aceptar los avalúos que con relación al mismo traslado de dominio se presenten ante la Oficina Federal de Hacienda respectiva, en los términos de la Ley General del Timbre, para lo cual bastará que los interesados acompañen una copia autorizada de estos avalúos a la declaración que exige el artículo 140.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 1980)</small>
+
+139.- Para los efectos de la Fracción I del artículo 136 la Tesorería General podrá aceptar los avalúos que con relación al mismo traslado de dominio se presenten ante la Oficina Federal de Hacienda respectiva, para lo cual bastará que los interesados acompañen una copia autorizada de estos avalúos a la declaración que exige el artículo 140.
 
 #### SECCION SEGUNDA. DECLARACIONES, PAGO DEL IMPUESTO Y EXENCIONES
 
@@ -2219,9 +2223,23 @@ II.- Si los ingresos no son gravables, por razón de su diversa índole, de acue
 
 216.- No causan el impuesto:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 1980)</small>
 
-I.- Las enajenaciones de maquinaria y equipo para fines agropecuarios, fertilizantes, maíz, frijol, tortillas y masa de maíz, harina de maíz, huevo, pan, verduras, pescados y mariscos, leña y carbón vegetal, leche, así como la carne son procesar vendida al menudeo en carnicerías.
+I.- Las siguientes enajenaciones:
+
+a).- Maquinaria y equipo para fines agropecuarios y fertilizantes.
+
+b).- Maíz, frijol, arroz y sal.
+
+c).- Verduras, legumbres, leña y carbón vegetal.
+
+d).- Leche, pan, huevo, pescados y mariscos.
+
+e).- Carne sin procesar, vendida al menudeo en carnicerías.
+
+f).- Pollo y gallina vendidos directamente al consumidor.
+
+g).- Tortillas, masa de maíz, harina de maíz y harina de trigo. Esta última, sólo pagará el impuesto cuando se realice la venta por molinos.
 
 II.- Las enajenaciones de primera mano que se verifiquen con algodón y su semilla o avena, cuyas operaciones son motivo de los impuestos especiales que establecen los capítulos respectivos del presente libro.
 
@@ -2381,9 +2399,9 @@ X.- Recibir las visitas de inspección y proporcionar a los auditores o a los in
 
 XI.- Presentar por triplicado dentro de los cuatro meses siguientes a la fecha en que termine el ejercicio fiscal del causante, en la Recaudación de Rentas de su jurisdicción, utilizando las formas especiales que para este objeto apruebe la Tesorería General, una declaración anual de los ingresos y egresos, en los términos que señalan las formas respectivas, a las cuales deberán anexarse los siguientes documentos:
 
-a).- Copia en que conste la operación de caja de los pagos efectuados, de la tarjeta, pago del Impuesto Federal sobre Ingresos Mercantiles, correspondiente al período que se declara;
+a).- (DEROGADO, P.O. 16 DE ABRIL DE 1980)
 
-b).- Copia en que conste el pago efectuado, de la licencia anual-municipal;
+b).- (DEROGADO, P.O. 16 DE ABRIL DE 1980)
 
 c).- Copia en que aparezca el sello de recibido de la Oficina Federal de Hacienda, de la carátula de la declaración y anexos presentados para el pago del Impuesto sobre la Renta Federal;
 
@@ -4379,7 +4397,7 @@ Salvo el caso de que el beneficiario sea persona física no empresario, los acue
 
 496.- Si en cualquier momento se comprobare que los beneficiarios de las franquicias establecidas por este Capítulo, han dejado de cumplir con alguno de los requisitos que el mismo previene como condición para el otorgamiento y subsistencia de aquellas, la Tesorería General del Estado hará efectivos todos los impuestos y derechos omitidos, imponiéndose además al causante una sanción que en ningún caso será inferior a otro tanto de la tributación cuya exención se concedió.
 
-497.- Se prohíbe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
+497.- Se prohibe la cesión de los beneficios que se conceden en este Capítulo, sin previa autorización escrita de la Tesorería General del Estado.
 
 ## TRANSITORIOS.
 
@@ -4520,3 +4538,7 @@ ARTICULO TRANSITORIO. El presente Decreto entrará en vigor a partir del primero
 P.O. 29 DE DICIEMBRE DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día primero de enero de mil novecientos ochenta.
+
+P.O. 16 DE ABRIL DE 1980.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor en todo el Estado de Chihuahua, el día siguiente de su publicación en el Periódico Oficial del Estado.
