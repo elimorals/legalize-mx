@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ejecucion-de-sanciones-privativas-y-restrictivas-de-8224
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-10"
-last_updated: "1993-07-10"
+last_updated: "1997-07-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8224&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EJECUCION DE SANCIONES PRIVATIVAS Y RESTRICTIVAS DE LA LIBERTAD DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE JULIO DE 1997.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 10 de julio de 1993.
 
@@ -113,7 +113,9 @@ Esta ley es de orden público y tiene por objeto:
 
 I.- Normar la ejecución de sanciones privativas y restrictivas de la libertad, impuestas por las autoridades judiciales del Estado de Zacatecas en sentencia que haya causado ejecutoria o en resoluciones aplicables a personas sujetas a prisión preventiva;
 
-II.- Crear un sistema integral de reclusión, readaptación y reintegración social, aplicable a toda persona mayor de dieciséis años de edad, que se encuentre en el ámbito del derecho ejecutivo penal.
+> <small>(REFORMADA, P.O. 5 DE JULIO DE 1997)</small>
+
+II.- Crear un sistema integral de reclusión, readaptación y reintegración social, aplicable a toda persona mayor de dieciocho años de edad que se encuentre en el ámbito del derecho ejecutivo penal.
 
 ### Capítulo Segundo. Garantías Individuales del Interno
 
@@ -878,3 +880,19 @@ LIC. ARTURO ROMO GUTIERREZ
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. PEDRO GOYTIA ROBLES
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 5 DE JULIO DE 1997
+
+PRIMERO.- El presente Decreto entrará en vigor el día 1º de enero de 1998.
+
+SEGUNDO.- Los menores de dieciocho años que se encuentren a disposición de autoridades del fuero común en prisión preventiva, sentenciados o cumpliendo una sanción privativa de libertad, serán trasladados a los lugares idóneos y puestos a disposición del Consejo Tutelar de Menores, sin demora, el mismo día en que entre en vigor el presente Decreto.
+
+TERCERO.- Para dar cumplimiento a lo dispuesto en el anterior artículo transitorio, la Secretaría General de Gobierno girará instrucciones a la Dirección de Prevención y Readaptación Social para que a partir de la publicación de este Decreto, levante y mantenga actualizado el censo de la población interna menor de dieciocho años en los centros de Rehabilitación Social en la Entidad.
+
+CUARTO.- El censo de la población interna menor de dieciocho años, deberá estar disponible a más tardar el día en que inicie su vigencia este Decreto y la Secretaría General de Gobierno lo hará del conocimiento de los Jueces del fuero común por conducto del Tribunal Superior de Justicia del Estado. Tal comunicado lo hará extensivo a los Tribunales Federales radicados en la Entidad.
+
+QUINTO.- Las actuaciones practicadas por lo (sic) órganos ministeriales y jurisdiccionales de fuero común, antes del inicio de vigencia de este Decreto, tendrán validez legal por lo que respecta a procesados, sentenciados o reos menores de dieciocho años, únicamente en lo que sean compatibles con el procedimiento que prevé el Código Tutelar para Menores del Estado de Zacatecas.
+
+SEXTO.- El presupuesto de Egresos del Estado para el ejercicio fiscal de 1998, contemplará las previsiones necesarias para atender los requerimientos del Consejo Tutelar de Menores.
