@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-al-activo-antes-ley-del-impuesto-al-activo-258
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-31"
-last_updated: "1992-07-20"
+last_updated: "1993-12-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2587&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1988-12-30"
 
 LEY DEL IMPUESTO AL ACTIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE JULIO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de diciembre de 1988.
 
@@ -311,17 +311,17 @@ En los casos en que los pagos provisionales y los ajustes que se acrediten en lo
 
 Los contribuyentes podrán acreditar contra el impuesto del ejercicio una cantidad equivalente al impuesto sobre la renta que les correspondió en el mismo, en los términos de los Títulos II o II-A, o del Capítulo VI del Título IV de la Ley de la materia. El impuesto que resulte después del acreditamiento, será el impuesto a pagar conforme a esta Ley.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-Cuando en el ejercicio se determine impuesto sobre la renta por acreditar en una cantidad que exceda al impuesto al activo del ejercicio, los contribuyentes podrán solicitar la devolución de las cantidades actualizadas que hubieran pagado en el impuesto al activo, en alguno de los cinco ejercicios inmediatos anteriores, siempre que dichas cantidades no se hubieran devuelto con anterioridad. La devolución a que se refiere este párrafo en ningún caso podrá ser mayor a la diferencia entre ambos impuestos.
+Cuando en el ejercicio se determine impuesto sobre la renta por acreditar en una cantidad que exceda al impuesto al activo del ejercicio, los contribuyentes podrán solicitar la devolución de las cantidades actualizadas que hubieran pagado en el impuesto al activo, en los diez ejercicios inmediatos anteriores, siempre que dichas cantidades no se hubieran devuelto con anterioridad. La devolución a que se refiere este párrafo en ningún caso podrá ser mayor a la diferencia entre ambos impuestos.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 El impuesto sobre la renta por acreditar a que se refiere esta Ley será el efectivamente pagado.
 
-> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+> <small>(REFORMADO, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
-El impuesto al activo efectivamente pagado en alguno de los cinco ejercicios inmediatos anteriores a que se refiere el segundo párrafo de este artículo, se actualizará por el periodo comprendido desde el sexto mes del ejercicio en que se pagó, hasta el sexto mes del ejercicio en el cual el impuesto sobre la renta exceda al impuesto al activo.
+El impuesto al activo efectivamente pagado en los diez ejercicios inmediatos anteriores a que se refiere el segundo párrafo de este artículo, se actualizará por el período comprendido desde el sexto mes del ejercicio en que se pagó, hasta el sexto mes del ejercicio en el cual el impuesto sobre la renta exceda al impuesto al activo.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -578,3 +578,15 @@ D.O.F. 20 DE JULIO DE 1992.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE DICIEMBRE DE 1993.
+
+DISPOSICION TRANSITORIA DE LA LEY DEL IMPUESTO AL ACTIVO
+
+###### ARTICULO OCTAVO.
+
+La reforma a la Ley del Impuesto al Activo, entrará en vigor a partir del 1o. de octubre de 1993.
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
