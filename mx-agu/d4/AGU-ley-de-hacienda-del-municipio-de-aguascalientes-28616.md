@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-municipio-de-aguascalientes-28616"
 country: "mx"
 rank: "ley"
 publication_date: "1985-12-29"
-last_updated: "1985-12-29"
+last_updated: "1988-08-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=28616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL DE 1986
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1988.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de diciembre de 1985.
 
@@ -45,25 +45,37 @@ LEY DE HACIENDA DEL MUNICIPIO DE AGUASCALIENTES, AGS. PARA EL EJERCICIO FISCAL D
 
 Para atender las necesidades y la prestación de los servicios públicos del Municipio de Aguascalientes, el Ayuntamiento percibirá los Impuestos, Derechos, Productos, Aprovechamientos, contribuciones especiales y Participaciones a que se refiere la Ley de Ingresos del propio Municipio en los términos que reglamenta este Ordenamiento.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 2o.
 
-La Hacienda Pública de Aguascalientes se administrará libremente por el Ayuntamiento y el único órgano facultado para recibir los ingresos y canalizar los egresos, será la Secretaría de Finanzas y sus cajas recaudadoras.
+La Hacienda Pública del Municipio de Aguascalientes se administrará libremente por el Ayuntamiento y el único órgano facultado para recibir los ingresos y canalizar los egresos, será la Secretaría de Finanzas y sus cajas recaudadoras.
+
+Tratándose de la canalización de los egresos el único facultado para ello será la Secretaría de Finanzas.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de esta Ley, se entiende como impuestos toda prestación en dinero o en especie que, con carácter unilateral, general y obligatorio se señala a las personas físicas o morales como contribución al gasto público municipal.
+Son impuestos, las prestaciones en dinero o en especie que fije la ley, con carácter general y obligatorio, a cargo de personas físicas y morales, para cubrir los gastos públicos y demás obligaciones a cargo del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 4o.
 
-Se entiende por Derecho, la contraprestación con que el particular retribuye al Ayuntamiento por la prestación de un servicio.
+Son derechos, las contraprestaciones establecidas en la Ley, por los servicios que presta el municipio en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes del dominio público del municipio.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 5o.
 
-Se entiende por Producto, todas aquellas percepciones provenientes de la explotación de los bienes que integran parte del patrimonio municipal, efectuada directamente por el Ayuntamiento o sus dependencias, en tanto no correspondan a las funciones de derecho publico expresamente otorga la Ley.
+Son productos, los ingresos que perciba el municipio por actividades que no correspondan a sus funciones propias de derechos públicos, así como la explotación o venta de sus bienes patrimoniales, de dominio privado.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 6o.
 
-Son aprovechamientos, los ingresos que, no clasificables como Impuestos, Derechos o Productos, provengan de la aplicación de las sanciones económicas previstas en las Leyes, Reglamentos, Bando Municipal, así como por la aplicación de recargos, cobro de intereses y cualquier otro efectivo previsto en el orden jurídico fiscal del Municipio.
+Son aprovechamientos, los recargos, las multas y los demás ingresos de derecho público que percibe el municipio, no clasificables como impuestos, contribuciones especiales, de derechos, productos y participaciones.
 
 ###### ARTICULO 7o.
 
@@ -119,21 +131,27 @@ IV.- Los Decretos que autoricen ingresos extraordinarios o especiales; y
 
 V.- Los reglamentos que organicen los servicios administrativos necesarios para la recaudación y control de los ingresos y egresos.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 16.
 
-Son autoridades fiscales del municipio:
+Son Autoridades Fiscales del Municipio de Aguascalientes:
 
 I.- El Ayuntamiento;
 
-II.- El presidente Municipal;
+II.- El Presidente Municipal;
 
 III.- El Regidor del Ramo;
 
-IV.- El Síndico Hacendario; y
+IV.- El síndico Hacendario;
 
-V.- El Director de Finanzas.
+V.- El Secretario de Finanzas;
 
-Para los efectos de esta Ley, los Delegados y Comisarios Municipales se entenderán como recaudadores, dependientes de la Dirección de Finanzas.
+VI.- El Delegado Municipal;
+
+VII.- El comisario Municipal;
+
+Las autoridades fiscales del Estado podrán coordinarse con las del municipio, para el mejor cumplimiento de esta Ley y la de Ingresos Municipal, en cuyo caso, se les considerará autoridades fiscales municipales y ejercerán las atribuciones de la Secretaría de Finanzas que se les señalen en los convenios y acuerdos respectivos, por lo que en contra de los actos que realicen, cuando actúen en los términos de este precepto, sólo procederán los recursos y medios de defensa establecidos en esta Ley.
 
 ###### ARTICULO 17.
 
@@ -141,25 +159,45 @@ Son atribuciones fiscales del Ayuntamiento:
 
 I.- Expedir los reglamentos administrativos, acuerdos o disposiciones generales indispensables para proveer a la mejor administración de la Hacienda Pública;
 
-II.- Discutir y votar los cortes de caja mensuales formulados por la Dirección de Finanzas, remitiéndolos al Congreso del Estado trimestralmente para los efectos del caso; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-III.- Los demás que otorgue la Ley.
+II.- Antes de remitir los cortes de caja al Congreso del Estado, resolver sobre ellos, teniendo en contra el dictamen que sobre los mismos rindan el Regidor Comisionado de Hacienda;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+III.- Celebrar convenios con los gobiernos federal y estatales para la recaudación y cobro de las contribuciones; y
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+IV.- Los demás que otorgue la Ley.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 18.
 
-Son atribuciones del Presidente Municipal:
+Son facultades del Presidente Municipal:
 
-I.- Vigilar que la aplicación de esta Ley y demás ordenamientos fiscales, se haga con estricto apego a sus disposiciones;
+I.- Representar la Hacienda Pública Municipal;
 
-II.- Firmar las órdenes de pago en compañía del Regidor del Ramo;
+II.- Vigilar que la aplicación de esta Ley y demás ordenamientos fiscales, se haga con estricto apego a sus disposiciones;
 
-III.- Acordar las modalidades que, para el pago de créditos fiscales, proponga la Ley;
+III.- Ejecutar las resoluciones del Ayuntamiento en materia hacendaria;
 
-IV.- Aplicar la calificación de infracciones previstas por el Banco Municipal y los Reglamentos del Municipio;
+IV.- Acordar las modalidades que para el pago de créditos fiscales, proponga la Ley;
 
-V.- Acordar las medidas necesarias para dotar a los contribuyentes de mejores sistemas administrativos para la liquidación de sus créditos; y
+V.- Acordar el otorgamiento de un plazo o plazos mayores a los previstos en este ordenamiento para el pago de los créditos hacendarios a favor del Ayuntamiento, concesión que no podrá exceder al ejercicio fiscal correspondiente;
 
-VI. Las demás que le confiere la Ley.
+VI.- Establecer mediante convenio, una cuota fija como importe del pago de un impuesto o un derecho que deba calcularse por medio de tasa, siempre y cuando no sea posible su liquidación en los términos previstos por esta Ley o cuando no compense el sostenimiento del interventor, inspector o recaudador que sea indispensable designar;
+
+VII.- Condonar parcialmente las multas por infracciones a las disposiciones fiscales, debiendo recaer acuerdo escrito debidamente motivado sobre el particular;
+
+VIII.- Acordar las medidas necesarias para la creación de mejores sistemas administrativos que faciliten al contribuyente la liquidación de sus créditos;
+
+IX.- Ordenar se practiquen visitas domiciliarias;
+
+X.- Condonar las multas administrativas, únicamente cuando el infractor sea, persona insolvente o cuando la infracción sea leve y no haya mediado mala fe ni intención de eludir las obligaciones correspondientes;
+
+XI.- Las demás que le confieran las leyes y reglamentos respectivos.
 
 ###### ARTICULO 19.
 
@@ -171,7 +209,9 @@ II.- Asistir a las almonedas públicas que tengan por objetivo directo a un bien
 
 III.- Revisar periódicamente las relaciones de rezagos, para que sean liquidados;
 
-IV.- Revisar y firmar los cortes de caja formulados por la Dirección de Finanzas; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+IV.- Revisar y firmar los cortes de caja formulados por la Secretaría de Finanzas; y
 
 V.- Las demás que otorgue la Ley.
 
@@ -181,15 +221,21 @@ El Regidor Comisionado de Hacienda goza de las siguientes atribuciones:
 
 I.- Vigilar la marcha administrativa de la recaudación y proporcionar al Ayuntamiento las medidas que estime convenientes para mejorarla;
 
-II.- Firmar en compañía del Presidente Municipal las órdenes de pago respectivas;
+> <small>N. DE E. CON LA PRESENTE REFORMA SE ELIMINA LA ANTERIOR FRACCION II, RECORRIENDOSE LAS SIGUIENTES.</small>
 
-III.- Analizar los cortes de caja formulados por la Dirección de finanzas, dictaminando lo conducente; y
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-IV.- Las demás que le otorgue la Ley.
+II.- Analizar los cortes de caja formulados por la Secretaría de Finanzas, dictaminando lo conducente; y
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+III.- Las demás que le confieren las leyes y reglamentos respectivos.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 21.
 
-La Dirección de Finanzas es el único órgano de recaudación de los ingresos municipales y su titular goza de las siguientes facultades y obligaciones:
+Son facultades del Secretario de Finanzas:
 
 I.- Designar a los empleados necesarios para ejecutar el cobro de los créditos fiscales municipales;
 
@@ -199,45 +245,135 @@ III.- Elaborar las formas y fórmulas de solicitudes, liquidación, cobros, requ
 
 IV.- Abrir las cuentas bancarias necesarias para guardar y administración (sic) del erario público municipal;
 
-V.- Invertir los capitales propios del Ayuntamiento en ramos que produzcan un interés que los incremente;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-VI.- Proponer al Ayuntamiento los proyectos de reglamentos administrativos conducentes a mejorar la organización de la Dirección de Finanzas;
+V.- Intervenir en los juicios de carácter fiscal o en cualquier otro procedimiento que se ventile ante los tribunales, cuando tenga interés la Hacienda Pública Municipal;
 
-VII.- Ejecutar las órdenes de pago firmadas por el Presidente Municipal y Regidores del Ramo;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-VIII.- Someter al acuerdo del Presidente Municipal las solicitudes de prórroga del plazo para el pago de créditos fiscales o cualquiera otra modalidad procedente;
+VI.- Proponer al Ayuntamiento los proyectos de reglamentos administrativos internos conducentes a mejorar la organización de la Secretaría de Finanzas;
 
-IX.- Determinar la cuantía de los créditos fiscales explicando al contribuyente la razón del concepto y su desglose;
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
-X.- Elaborar los cortes de caja en los primeros quince días de cada mes; y
+VII.- Someter al acuerdo del Presidente Municipal las solicitudes de prórroga de plazo para el pago de créditos fiscales o cualquiera otra modalidad procedente;
 
-XI.- Las demás que le otorgue la Ley.
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+VIII.- Determinar la cuantía de los créditos fiscales explicando al contribuyente la razón del concepto y su desglose;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+IX.- Elaborar los cortes de caja en los primeros quince días de cada mes;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+X.- Demandar la preferencia de créditos fiscales sobre otros, en colaboración con el Síndico;
+
+> <small>(REFORMADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XI.- Fincar obligaciones solidarias en los términos de Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XII.- Ordenar y practicar la intervención de negociaciones con cargo a la caja del contribuyente;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XIII.- Decretar embargo y convocar a remates;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XIV.- Con acuerdo del Presidente Municipal, realizar inversiones no riesgosas con los capitales del Ayuntamiento que no se emplearon en sus funciones propias de Derecho Público, con el objeto de que produzcan un interés que los incremente;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XV.- Sellar establecimientos y cajas;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XVI.- Aceptar garantías de crédito;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XVII.- Notificar;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XVIII.- Requerir;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XIX.- Exigir a los contribuyentes que garanticen el pago de los créditos fiscales;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XX.- Aplicar el procedimiento económico coactivo que previene esta Ley:
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XXI.- Vigilar el cumplimiento de las disposiciones contenidas en las leyes fiscales municipales, y en especial para ordenar:
+
+a) Se verifique que los contribuyentes municipales cumplan correctamente las disposiciones fiscales y municipales, y, en caso que omitan total o parcialmente el cumplimiento de las mismas, se procederá a hacer efectivo el cobro de lo omitido, sin perjuicio de las sanciones a que haya lugar;
+
+b).- La práctica de auditorías a los contribuyentes, así como la obtención de los datos e informes que obtengan información con el objeto de la misma;
+
+c).- Se exija en el domicilio de los contribuyentes la exhibición de los elementos comprobatorios de sus operaciones; y
+
+d).- Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XXII.- Determinar la existencia de obligaciones fiscales, dar las bases para su liquidación o fijarlas en cantidad líquida, cerciorarse del cumplimiento de las disposiciones fiscales, y comprobar la comisión de infracciones a dichas disposiciones para tal efecto, podrá ordenar:
+
+a).- Practicar revisiones en el establecimiento o dependencias de los sujetos pasivos, de los responsables solidarios y de los terceros;
+
+b).- Se proceda a la verificación física, clasificación, valuación o comprobación de toda clase de bienes;
+
+c).- Se solicite de los sujetos pasivos, responsables solidarios o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales;
+
+d).- Se recabe de los servidores públicos y de los federativos, los informes y datos que posean con motivo de sus funciones;
+
+e).- Emplear cualquiera de los siguientes medios de apremio, que juzgue eficaz, para hacer cumplir sus determinaciones:
+
+1.- La multa de uno a 30 días de salario mínimo general vigente, la cual se aumentará hasta 50 en caso de reincidencia;
+
+2.- El auxilio de la fuerza pública.
+
+f).- Se embarguen precautoriamente los bienes, el establecimiento y negociación cuando el contribuyente no atienda tres requerimientos de la autoridad, con una misma omisión. El embargo quedará sin efecto, cuando el contribuyente cumpla con la obligación de que se trate, o transcurridos dos meses de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
+
+g).- Allegarse las pruebas necesarias para denunciar al Ministerio Público la posible comisión de delitos fiscales, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Secretaría de Finanzas tendrán el mismo valor probatorio que la ley relativa concede a las actas de la Policía Judicial, la propia Secretaría será coadyuvante del Ministerio Público en términos del Código de Procedimientos Penales para el Estado de Aguascalientes;
+
+h).- Comprobar los ingresos de los contribuyentes. A este efecto se presumirá salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponden a operaciones celebradas por él, aun cuando aparezca sin su nombre o a nombre de otra persona; e
+
+i).- Determinar estimativamente la base gravable o el monto de los ingresos en el caso de que los contribuyentes no puedan comprobar los correspondientes al período objeto de la revisión. En este caso la determinación será efectuada con base en los elementos de que dispongan las autoridades fiscales a la base gravable o ingreso estimado presuntivamente, se aplicará la tarifa, tasa u (sic) cuota que corresponda.
+
+Lo dispuesto en este inciso no modifica los procedimientos para determinar o estimar los ingresos de los contribuyentes que contengan otras disposiciones fiscales;
+
+> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+XXIII.- Las demás que le otorguen otras leyes o disposiciones fiscales.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 22.
 
-El Director de Finanzas está dotado de plena competencia para:
+Son facultades de los Delegados y Comisarios Municipales:
 
-a).- Notificar;
+I.- Ejercer la vigilancia que demande el cumplimiento de las leyes fiscales, reglamentos, instructivos, circulares y demás disposiciones aplicables;
 
-b).- Requerir;
+II.- Recaudar los fondos provenientes del cumplimiento de las disposiciones municipales, que deba percibir el erario municipal a nombre propio o por cuenta ajena, previa autorización del Secretario de Finanzas;
 
-c).- Aceptar garantías de crédito;
+III.- Concertar los ingresos recaudados en los términos y plazos que fije el Secretario de Finanzas;
 
-d).- Suspender, cancelar, sellar establecimientos y cajas;
+IV.- Poner a consideración del Secretario de Finanzas las directrices, normas y criterios técnicos en materia de ingresos, así como evaluarlos, además de rendirIe los informes que éste solicite; y
 
-e).- Verificar datos que sea obligatorio manifestar;
+V.- En general, ejecutar las facultades que expresamente les reconozcan las disposiciones fiscales y las que el Secretario de Finanzas les confiera.
 
-f).- Decretar embargos y convocar a remates;
-
-g) intervenir con cargo a la caja;
-
-h).- Fincar obligaciones solidarias en los términos de Ley; y
-
-i).- Demandar la preferencia de créditos fiscales sobre otros, en coadyuvación (sic) con el Síndico.
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 23.
 
-Previo acuerdo respectivo, el Director de Finanzas puede delegar sus funciones de inspección, intervención y recaudación en el empleado o empleados que considere conveniente.
+Previo acuerdo respectivo, el Secretario de Finanzas puede delegar sus funciones de inspección, intervención y recaudación al servidor o servidores públicos que considere conveniente.
 
 ###### ARTICULO 24.
 
@@ -261,33 +397,59 @@ La obligación fiscal es la relación que existe entre la persona, física y mor
 
 Para los efectos de esta Ley, la obligación fiscal nace en el momento en que el contribuyente se ubica dentro de la hipótesis jurídica y sólo se extingue mediante pago, sin perjuicio de las causas especiales previstas expresamente por la Ley.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 29.
 
-El contribuyente de acuerdo a los presupuestos legales, en que se encuentre, está obligado a:
+Son obligaciones de los contribuyentes:
 
-I.- Aquellos que realicen actividades permanentes, enunciadas por la Ley, empadronarse con anticipación a la apertura o iniciación de actividades; si ya están empadronados deberán revalidar su empadronamiento dentro de los primeros dos meses de cada año;
+I.- Obtener su licencia de funcionamiento mediante la presentación de su solicitud de empadronamiento ante la Secretaría de Finanzas, dentro de los quince días siguientes a la fecha de iniciación de sus operaciones. Los giros reglamentarios deberán obtener de la autoridad municipal competente, autorización previa para inicio de operaciones.
 
-II.- Dar aviso oportuno de cualquier modificación, trátese de un aumento de giro, de capital, traspaso, cambio de domicilio, cambio de denominación o clausura;
+Cuando un mismo contribuyente tenga diversos establecimientos, sucursales, bodegas o dependencias, deberá obtener licencia de funcionamiento de cada una de ellas, por separado, mediante el empadronamiento respectivo.
 
-III.- Quienes realicen actividades eventuales deberán recabar autorización del Presidente Municipal, y con base en ello, solicitar la determinación de los créditos fiscales a que quedan obligados;
+Para los efectos de este Artículo se considera como fecha de iniciación de operaciones, aquélla en que se efectúe la apertura del establecimiento, o en la que el contribuyente obtenga el primer ingreso;
 
-IV.- Utilizar las formas o fórmulas elaboradas por la Dirección de Finanzas para comparecer, solicitar o liquidar créditos fiscales;
+II.- Dar aviso oportuno de cualquier modificación, trátese de un aumento de giro de capital, traspaso, cambio de domicilio, cambio de denominación o clausura;
 
-V.- Permitir las visitas de inspección que determine el Director de Finanzas;
+III.- Quienes realicen actividades eventuales deberán obtener autorización del Presidente Municipal, con base a ellos solicitar la determinación de créditos fiscales a que están obligados;
 
-VI.- Exhibir los documentos, públicos o privados que requiera el Director de Finanzas, previa justificación de la medida;
+IV.- Utilizar las formas elaboradas por la Secretaría de Finanzas, para comparecer, solicitar o liquidar créditos fiscales;
 
-VII.- Proporcionar con veracidad los datos que necesite la Dirección de Finanzas;
+V.- Pagar los impuestos, derechos, productos o aprovechamientos, en forma y términos que establecen las leyes respectivas;
 
-VIII. Aceptar la intervención del Director de Finanzas a través de las personas que al efecto designe; y
+VI.- Proporcionar a la Secretaría de Finanzas y a otras autoridades competentes, todos los documentos e informes que requieran, dentro del plazo que para ello fije la dependencia solicitante;
 
-IX.- Realizar los pagos y sus obligaciones fiscales en la forma y términos que señala esta Ley, los reglamentos y acuerdos formulados para su pago.
+VII.- Recibir las visitas de investigación ordenadas por la autoridad competente, proporcionar a los superiores, los libros, datos, informes, documentos y demás registros que le soliciten, para el desempeño de sus funciones;
+
+VIII.- Colocar en lugar visible del establecimiento la licencia municipal, para el funcionamiento del giro, así como la placa o tarjeta de inscripción relativas;
+
+IX.- Aceptar la intervención del Secretario de Finanzas a través de las personas que al efecto designa;
+
+X.- Los contribuyentes sujetos a pagos periódicos presentarán al efectuar sus pagos el recibo anterior y en caso de ser requerido para ello, hasta los tres últimos.
+
+Los contribuyentes que no cumplan con las obligaciones señaladas en esta Ley, serán sujetos de las sanciones que, en su caso señalen las Leyes Municipales.
+
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
 
 ###### ARTICULO 30.
 
-La obligación fiscal es exigible desde el momento en que se cause o aquella en que se concluya el término concedido para su pago.
+El crédito fiscal es la obligación determinada en cantidad líquida y deberá pagarse en la fecha o dentro del plazo señalado en las disposiciones respectivas.
 
-La morosidad en la liquidación de los créditos fiscales trae aparejada la sobre imposición de recargos y gastos de cobranza.
+A falta de disposición expresa el pago deberá hacerse:
+
+I.- Las obligaciones fiscales de carácter anual deberán liquidarse dentro de los primeros dos meses del año fiscal respectivo;
+
+II.- Los créditos fiscales que deban liquidarse en forma mensual, deberán cubrirse dentro de los primeros quince días del mes de que se trate;
+
+III.- Los comerciantes ambulantes, los semifijos y los que ocupan vía pública deberán liquidar sus créditos diariamente al recaudador y que al efecto designe la Secretaría de Finanzas;
+
+IV.- Los créditos originados por derechos o prestación de servicios públicos, dados por la autoridad, deberán pagarse por anticipado salvo aquellos en que su monto sólo pueda determinarse después de recibida la prestación;
+
+V.- Las personas físicas o morales que ofrezcan espectáculos y diversiones públicas, pagarán sus obligaciones fiscales al interventor que designe la Secretaría de Finanzas, en el momento en que se concluya cada función de espectáculo o diversión;
+
+VI.- Si se trata de obligaciones derivadas de contrato o concesiones que no señale la fecha de pago, éste deberá hacerse dentro de los quince días siguientes, a la fecha de su celebración u otorgamiento; y
+
+VII.- Dentro de los 20 días siguientes al nacimiento de la obligación fiscal, si es a los sujetos pasivos, responsables solidarios o responsables objetivos, a quienes corresponde determinar en cantidad líquida la prestación.
 
 ###### ARTICULO 31.
 
@@ -319,23 +481,47 @@ La extemporaneidad en el pago de créditos fiscales, da nacimiento a un crédito
 
 Tratándose de conceptos fiscales integrados por suerte principal y accesorios, el pago de los mismos deberá abonarse en primer término a los accesorios y el sobrante, a la liquidación de la suerte principal.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 36.
 
-Para los efectos de esta Ley, son sujetos pasivos solidarios:
+Son responsables solidarios:
 
-I.- Los que en términos de Ley, estén obligados al pago de la misma prestación fiscal;
+I.- Los que en términos de esta Ley, están obligados al pago de la misma prestación fiscal;
 
 II.- Quienes de manera voluntaria y expresa, se obliguen a responder solidariamente;
 
-III.- Los copropietarios, los condóminos, los coposeedores o causahabientes de derechos mancomunados;
+III.- Los copropietarios, los condóminos, los poseedores o los partícipes en derechos mancomunados, respecto de los créditos fiscales derivados del bien o derecho común y hasta el monto del valor de éste. Por el excedente de los créditos fiscales, cada uno quedará obligado en la proporción que le corresponde en el bien o derecho mancomunado;
 
-IV.- Los legatarios y los donatarios a título particular, sólo en las obligaciones fiscales relativas al objeto de la adquisición;
+IV.- Las personas obligadas por la Ley a cerciorarse de créditos fiscales, siempre que estén facultados para autorizar actos que den origen a los mismos;
 
-V.- Los terceros que para garantizar obligaciones fiscales de otros, constituyan una garantía real o personal;
+V.- Los legatarios y los donatarios a título particular, respecto de los créditos fiscales que se hubiesen causado en relación con los bienes legados y donados, hasta por el monto de éstos;
 
-VI.- Las personas obligadas por la Ley a cerciorarse del pago de créditos fiscales, siempre que estén facultados para autorizar actos que den origen a los mismos; y
+VI.- Los servidores públicos así como los Notarios y Corredores Públicos que autoricen algún acto jurídico, expidan testimonios, den trámite a algún documento en que se consignen actos convenidos, contratos y operaciones si no se cercioran de que se han cubierto total o parcialmente los impuestos, contribuciones especiales o derechos, o no den cumplimiento a las disposiciones correspondientes que regulen el pago de gravámenes, independientemente de que se harán acreedores a la imposición de sanciones previstas por esta Ley;
 
-VII.- Las demás que señale la Ley.
+VII.- Los terceros que, para garantizar obligaciones fiscales de otros constituyan depósitos, prenda o hipoteca o permitan el secuestro de bienes de su propiedad, hasta por el valor de los otorgados en garantía;
+
+VIII.- Respecto del pago de créditos fiscales derivados de la propiedad o posesión de bienes inmuebles, o de operaciones de cualquier naturaleza, relativa a las mismas:
+
+a).- El deudor, el transmitente, el adquirente o el comisionista según sea el caso;
+
+b).- Los promitentes vendedores, así como quienes vendan con reserva de dominio o sujeta a condición;
+
+c).- Los nudo propietarios;
+
+d).- Los fiduciarios;
+
+e).- Los concesionados o quienes, no siendo propietarios tengan la explotación de las plantas de beneficio de los establecimientos mineros o metalúrgicos;
+
+f).- Los adquirentes de predios, en relación al impuesto y sus accesorios insolutos a la fecha de la adquisición. En todo caso, los predios quedarán preferentemente afectados al pago del impuesto y sus accesorios, independientemente de quien detente la propiedad o posesión de los mismos;
+
+g).- Cuando se construya al amparo de una licencia municipal, a nombre de determinada persona distinta de quien aparezca como adquirente en el acto o contrato traslativo celebrado con la fraccionadora o propietaria, el constructor será el responsable del impuesto sobre adquisición del inmueble, causado con motivo del contrato celebrado con la persona a nombre de quien se autorizó la licencia para construir ya que, para los efectos de este impuesto se considera que hubo una operación traslativa de propiedad, por la sola circunstancia de que la licencia de construcción se solicite y escriba a nombre de una persona, que posteriormente, no aparezca como adquirente, en un contrato celebrado con la fraccionadora o con el propietario salvo prueba en contrario;
+
+IX.- Los comisionistas, respecto de los créditos fiscales a cargo de sus comitentes, derivados de operaciones motivo del contrato de comisión y los comitentes por los créditos fiscales a cargo de los comisionistas, por las operaciones relativas al mismo contrato; y
+
+X.- Las demás personas que señalen las leyes fiscales.
+
+En los casos de responsabilidad solidaria los responsables quedan obligados a cubrir la totalidad de los créditos fiscales y por lo tanto el fisco puede exigir en cualquiera de ellos simultáneamente o separadamente el cumplimiento dentro de las obligaciones fiscales.
 
 ###### ARTICULO 37.
 
@@ -343,15 +529,27 @@ El Director de Finanzas está facultado para exigir a los contribuyentes que gar
 
 Si requerido para garantizar, el contribuyente no otorga la garantía del caso en un plazo de tres días, se procederá a embargar precautoriamente, exclusivamente como medio de garantía.
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 38.
 
-Para los efectos de esta Ley, se tendrá por domicilio del contribuyente:
+Para los efectos fiscales se considera domicilio de los sujetos pasivos y responsables solidarios, el que establezcan las leyes fiscales y a falta de disposición de dichas leyes, los siguientes:
 
-I.- El que se haya manifestado a la Dirección de Finanzas;
+I.- Tratándose de personas físicas:
 
-II.- En el que está establecido su giro o empresa; y
+a).- La casa en que habitan;
 
-III.- En el que actualmente resida.
+b).- El lugar en que habitualmente realicen actividades o tengan bienes que den lugar a obligaciones fiscales en todo lo que se relacione con éstas. En dichos casos las autoridades fiscales podrán considerar también, como domicilio, la casa habitación de la persona física;
+
+c).- A la falta de domicilio en los términos indicados en los incisos anteriores, el lugar en que se encuentre;
+
+II.- En el caso de las personas morales:
+
+a).- El lugar en que esté ubicado el negocio o donde se encuentre establecida la administración del mismo a elección de las autoridades fiscales;
+
+b).- A falta de las anteriores, el lugar en que se hubiese realizado el hecho, generador de la obligación fiscal; y
+
+III.- Tratándose de personas físicas o morales residentes fuera del municipio que realicen actividades gravadas dentro de su territorio a través de representantes, el domicilio del representante.
 
 ###### ARTICULO 39.
 
@@ -857,71 +1055,91 @@ Los contribuyentes que utilicen sistemas mecánicos o electrónicos para la vent
 
 Los propietarios de los inmuebles donde se autorice a las empresas para celebrar espectáculos o diversiones públicas, son solidariamente responsables de los créditos fiscales que causen dichos eventos, por lo que deberán exigir a los empresarios que exhiban la autorización municipal, y en su caso el comprobante de garantía que el Director de Finanzas les expida.
 
-### CAPITULO V. Del Impuesto Sobre Sacrificio de Conejos y Aves Fuera de Rastros Municipales
+> <small>(DEROGADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
+### CAPITULO V
+
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 #### SECCION SEGUNDA. De los Sujetos
 
 ###### ARTICULO 94.
 
-Es objeto de este impuesto, el sacrificio de conejos y aves fuera de Rastros Municipales.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
+
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 #### SECCION TERCERA. De la Base
 
 ###### ARTICULO 95.
 
-Son sujetos de este impuesto los propietarios o poseedores de conejos o aves sacrificadas fuera de Rastros Municipales.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
+
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 #### SECCION CUARTA. Del Pago
 
 ###### ARTICULO 96.
 
-Es base de este impuesto, cada conejo o ave sacrificado.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
+
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 #### SECCION QUINTA. Obligaciones de los Contribuyentes
 
 ###### ARTICULO 97.
 
-Este impuesto se liquidará de conformidad con lo que al efecto señale la Ley de Ingresos del Municipio.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
 ###### ARTICULO 98.
 
-El pago de este impuesto deberá realizarse en la Dirección de Finanzas antes de efectuar el sacrificio del conejo o ave. En todo caso existe responsabilidad objetiva para el pago del impuesto.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
-### CAPITULO VI. Del Impuesto Sobre Anuncios y Propaganda
+> <small>(DEROGADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
+### CAPITULO VI
+
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
 
 #### SECCION SEXTA. De la Responsabilidad Solidaria
 
 ###### ARTICULO 99.
 
-Constituye el objeto de este impuesto, la actividad que regulan los Reglamentos de Ornato y el que norma el funcionamiento de aparatos de sonido.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
-#### SECCION PRIMERA. Del Objeto
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+#### SECCION PRIMERA
 
 ###### ARTICULO 100.
 
-Son sujetos de este impuesto, las personas físicas o morales, legalmente autorizadas para realizar propagandas sea gráfica o fonética o de otra índole en la vía pública o establecimientos públicos.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
-#### SECCION SEGUNDA. De los Sujetos
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+#### SECCION SEGUNDA
 
 ###### ARTICULO 101.
 
-Este impuesto se liquidará de conformidad con lo que al efecto señale la Ley de Ingresos del Municipio.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
 ###### ARTICULO 102.
 
-Los sujetos de este impuesto, deberán pagarlos en el momento que reciban la autorización correspondiente.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
-#### SECCION TERCERA. De la Base
+> <small>(DEROGADA, P.O. 14 DE AGOSTO DE 1988)</small>
+
+#### SECCION TERCERA
 
 ###### ARTICULO 103.
 
-No causarán de este impuesto los anuncios relativos al nombre o razón social de los negocios, fijados en sus propios domicilios.
+(DEROGADO, P.O. 14 DE AGOSTO DE 1988)
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
 ### CAPITULO I. Por Empadronamiento, Expedición o Modificación de Licencias
 
-#### SECCION CUARTA. Del pago
+#### SECCION CUARTA
 
 ###### ARTICULO 104.
 
@@ -939,7 +1157,7 @@ Las sucursales, agencias o bodegas con venta directa al público, también requi
 
 ### CAPITULO II. Los Servicios Prestados por Autoridades de Obras Públicas
 
-#### SECCION PRIMERA. Del Objeto
+#### SECCION PRIMERA
 
 ###### ARTICULO 107.
 
@@ -951,7 +1169,7 @@ Para que cualquier autorización obtenga plena validez, será requisito indispen
 
 Por los servicios Prestados por Subdivisión, Fusión y Relotificación.
 
-#### SECCION SEGUNDA. De los Sujetos
+#### SECCION SEGUNDA
 
 ###### ARTICULO 108.
 
@@ -963,7 +1181,7 @@ La prestación de este servicio apareja un derecho que deberá liquidarse en la 
 
 ### CAPITULO IV. De la Prestación del Servicio de Agua Potable
 
-#### SECCION TERCERA. Del Pago
+#### SECCION TERCERA
 
 ###### ARTICULO 110.
 
@@ -993,7 +1211,7 @@ Las personas físicas o morales, que en los términos del Bando Municipal, esté
 
 ### CAPITULO V. De Servicios por la Conexión de Albañales
 
-#### SECCION CUARTA. De las Exenciones
+#### SECCION CUARTA
 
 ###### ARTICULO 116.
 
@@ -1041,15 +1259,17 @@ Para lograr lo anterior, deberán remitir copia del contrato de compraventa a la
 
 ###### ARTICULO 124.
 
-Los fraccionamientos tienen obligación de ceder a título gratuito al Municipio para destinarlo a parques, mercados, escuelas, puestos de policía u otros servicios públicos similares, el porciento de donación que establece el Artículo 48 de la Ley de Fraccionamiento, Renotificación, Fisión y Subdivisión de Terrenos del Estado de Aguascalientes.
+Los fraccionamientos tienen obligación de ceder a título gratuito al Municipio para destinarlo a parques, mercados, escuelas, puestos de policía u otros servicios públicos similares, el porciento de donación que establece el Artículo 48 de la Ley de Fraccionamiento, Relotificación, Fisión y Subdivisión de Terrenos del Estado de Aguascalientes.
 
-### CAPITULO VIII. Por Servicios de Transportación Municipal
+> <small>(REFORMADA SU DENOMINACION, P.O. 14 DE AGOSTO DE 1988)</small>
+
+### CAPITULO VIII. Por Servicios de Recepción de Basura en Contenedores y Transportación de Materiales
 
 #### SECCION UNICA
 
 ###### ARTICULO 125.
 
-Por los servicios que presta el Municipio para el traslado y transportación de materiales y objeto de los particulares que no puedan realizarlo por su propia cuenta, se causarán los derechos que al efecto fije la Ley de Ingresos del Municipio.
+El servicio de recepción de basura en contenedores se pagará por quienes habitan las viviendas a las que beneficie su instalación, entregando por una sola vez o en la forma que convengan con el Ayuntamiento, la cantidad de dinero que se determine conforme al costo del recipiente en el momento de su instalación y al número de viviendas beneficiadas. El de transportación de materiales u objetos se pagará por quienes lo soliciten entregando la cantidad de dinero que se determine conforme a lo que establezca la Ley de Ingresos.
 
 ### CAPITULO IX. Por los servicios prestados por Rastro Municipal
 
@@ -1225,6 +1445,8 @@ Estos Derechos por cooperación de Obras Públicas se determinará (sic) una vez
 
 #### SECCION UNICA
 
+> <small>(REFORMADO, P.O. 14 DE AGOSTO DE 1988)</small>
+
 ###### ARTICULO 148.
 
 Los servicios prestados por la Dirección de Seguridad Pública y Vialidad, serán retribuidos conforme a las tarifas que a efecto señale la Ley de Ingresos del Municipio.
@@ -1390,3 +1612,9 @@ Rodolfo Landeros Gallegos.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 Lic. Joaquín Cruz Ramírez.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 14 DE AGOSTO DE 1988.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
