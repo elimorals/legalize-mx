@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2004-05-11"
+last_updated: "2004-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2004.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -162,7 +162,7 @@ Cuando se presuma fundadamente que está en riesgo la integridad de las personas
 
 ###### Artículo 15.
 
-Cuando el Ministerio Público de la Federación solicite al juez de distrito una orden e cateo con motivo de la investigación de alguno de los delitos a los que se refiere la presente Ley, dicha petición deberá ser resuelta en los términos de ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
+Cuando el Ministerio Público de la Federación solicite al juez de distrito una orden de cateo con motivo de la investigación de alguno de los delitos a los que se refiere la presente Ley, dicha petición deberá ser resuelta en los términos de ley dentro de las doce horas siguientes después de recibida por la autoridad judicial.
 
 Si dentro del plazo antes indicado, el juez no resuelve sobre el pedimento de cateo, el Ministerio Público de la Federación podrá recurrir al tribunal unitario de circuito correspondiente para que éste resuelva en un plazo igual.
 
@@ -308,6 +308,10 @@ En caso de que existan pruebas distintas a la autoinculpación en contra de quie
 
 Cuando se gire orden de aprehensión en contra de un miembro de la delincuencia organizada, la autoridad podrá ofrecer recompensa a quienes auxilien eficientemente para su localización y aprehensión, en los términos y condiciones que, por acuerdo específico, el Procurador General de la República determine.
 
+> <small>(ADICIONADO, D.O.F. 21 DE DICIEMBRE DE 2004)</small>
+
+En el caso de secuestro, la autoridad podrá ofrecer recompensa a quienes sin haber participado en el delito, auxilien con cualquier información que resulte cierta y eficaz para la liberación de las víctimas o la aprehensión de los presuntos responsables. La autoridad garantizará la confidencialidad del informante.
+
 ###### Artículo 38.
 
 En caso de que se reciban informaciones anónimas sobre hechos relacionados con la comisión de los delitos a que se refiere esta Ley, el Ministerio Público de la Federación deberá ordenar que se verifiquen estos hechos. En caso de verificarse la información y que de ello se deriven indicios suficientes de la comisión de estos delitos, se deberá iniciar una averiguación previa, recabar pruebas o interrogar a testigos a partir de esta comprobación, pero en ningún caso dicha información, por sí sola, tendrá valor probatorio alguno dentro del proceso.
@@ -359,3 +363,7 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 11 DE MAYO DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor un día después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE DICIEMBRE DE 2004.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
