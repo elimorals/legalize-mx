@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "1976-12-21"
+last_updated: "1977-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 21 DE DICIEMBRE DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE ABRIL DE 1977.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -253,7 +253,9 @@ III.- Será acreditado diputado de partido, aquél que obtenga el mayor número 
 
 Por cada diputado propietario se elegirá un suplente. La elección se hará por fórmula.
 
-43.- El Congreso del Estado calificará las elecciones de sus miembros y resolverá las dudas que hubiere sobre ellas. Su resolución será definitiva e inapelable.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 1977)</small>
+
+43.- El Congreso del Estado que se instale cada tres años calificará las elecciones de sus miembros y de Gobernador, en su caso, y resolverá las dudas, que hubiere sobre ellas. Sus resoluciones serán definitivas e inapelables.
 
 44.- Para ser diputado al Congreso del Estado se requiere:
 
@@ -359,7 +361,7 @@ III.- Iniciar leyes y decretos ante el Congreso de la Unión;
 
 IV.- Formular su Ley Reglamentaria, así como la de la Contaduría Mayor de Hacienda;
 
-V.- En las elecciones de Gobernador y Diputados, erigirse en Colegio Electoral para calificarlas y declarar electos a los ciudadanos que hayan obtenido la mayoría de votos;
+V.- (DEROGADA, B.O. 20 DE ABRIL DE 1977)
 
 VI.- Declarar electos a los senadores de la República;
 
@@ -1346,3 +1348,7 @@ B.O. 21 DE DICIEMBRE DE 1976.
 DECRETO NUMERO 58.
 
 Artículo Unico. Este decreto entrará en vigor a partir del día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 20 DE ABRIL DE 1977.
+
+Artículo Unico: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
