@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1956-04-25"
+last_updated: "1959-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,13 +22,9 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 1956.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 1959.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
-
-GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
-
-Que el Congreso del mismo ha decretado lo siguiente:
 
 GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, a sus habitantes, sabed:
 
@@ -866,9 +862,11 @@ El Secretario del Ejecutivo del Estado concurrirá a las sesiones del Congreso p
 
 El Secretario del Ejecutivo del Estado, mientras esté en el ejercicio de sus funciones, no podrá litigar ante los Tribunales del Estado, si no es en negocios propios.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 1959)</small>
+
 ###### Artículo 91.
 
-Las faltas temporales del Secretario, se suplirán por el Oficial Mayor de la Secretaría quien tendrá, mientras tanto, las mismas prerrogativas, obligaciones y responsabilidades de aquel.
+Las faltas temporales del Secretario se suplirán por el Sub-Secretario del Ejecutivo, quien tendrá, mientras tanto, las mismas prerrogativas, obligaciones y responsabilidades de aquél.
 
 ###### Artículo 92.
 
@@ -1596,7 +1594,7 @@ En ningún caso perderá esta Constitución su fuerza y vigor, aunque por alguna
 
 Dado en la Ciudad de Saltillo, a los cinco días del mes de Febrero de mil novecientos diez y ocho, en el Salón de Sesiones del Poder Legislativo.
 
-F. L. Treviño,
+F. L. Treviño
 
 Presidente.- Diputado por el 15º. Distrito Electoral.
 
@@ -1775,3 +1773,7 @@ P.O. 25 DE ABRIL DE 1956.
 ###### ARTICULO UNICO
 
 - Las reformas a los Artículos 46, y 193 de la Constitución Política Local, entrarán en vigor a partir del 15 de noviembre de 1961 por lo que la Legislatura que se elija para sustituir a la actual, iniciará su período el 20 de noviembre de 1958 para terminarlo el 14 de noviembre de 1961.
+
+P.O. 28 DE MARZO DE 1959.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
