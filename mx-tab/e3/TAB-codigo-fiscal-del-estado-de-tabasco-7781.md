@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "1999-02-03"
+last_updated: "2000-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO FISCAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2000.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -307,8 +307,6 @@ Las contribuciones o sus accesorios se causarán y pagarán en moneda nacional.
 
 Se aceptarán como medios de pago, además de dinero en efectivo, cheques certificados, giros postales, telegráficos o bancarios.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
-
 Los pagos que se hagan se aplicarán a los créditos más antiguos, siempre que se trate de la misma contribución y, antes del adeudo principal, a los accesorios, en el orden siguiente:
 
 I. Gastos de Ejecución;
@@ -321,7 +319,9 @@ IV. La indemnización a que se refiere el penúltimo párrafo del artículo 22 d
 
 Cuando el contribuyente interponga algún medio de defensa legal impugnando algunos de los conceptos señalados en el párrafo anterior, el orden señalado en el mismo no será aplicable respecto del concepto impugnado y garantizado.
 
-Para determinar las contribuciones se considerarán inclusive las fracciones del peso.
+> <small>(REFORMADO P.O. 30 DE DICIEMBRE DEL 2000)</small>
+
+Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso. No obstante lo anterior, para efectuar su pago, el monto se ajustará para que las que contengan cantidades que incluyan de 1 hasta 50 centavos se ajusten a la unidad inmediata anterior y las que contengan cantidades de 51 a 99 centavos, se ajusten a la unidad inmediata superior.
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -372,6 +372,22 @@ La obligación de devolver prescribe en los mismos términos y condiciones que e
 ###### Artículo 24.
 
 Los créditos y deudas entre los Gobiernos Federal, Estatal y Municipal, así como de sus organismos descentralizados o empresas de participación estatal, podrán compensarlos previo acuerdo que celebren.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2000)</small>
+
+###### Artículo 24 Bis.
+
+Los contribuyentes obligados a pagar impuestos mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligadas a pagar como contribuyentes directos o por retención a terceros, siempre que ambos deriven de la misma contribución, incluyendo sus accesorios, salvo que el saldo sea producto de un dictamen fiscal, caso en el cual podrán compensar previo al cumplimiento de los requisitos que la Secretaría de Planeación y Finanzas señale al respecto. También podrán compensar con autorización de la misma dependencia saldos a favor del contribuyente contra cualquier impuesto o derecho, aun cuando aquélla no sea mediante declaración.
+
+Si la compensación se hubiere efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este código sobre las cantidades compensadas indebidamente, actualizadas conforme lo señala el mismo artículo, desde el mes en que se efectuó la compensación indebida, y hasta a aquel en que se haga el pago del monto de la compensación efectuada.
+
+No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación de compensarlas.
+
+La obligación de compensar prescribe en los términos y condiciones que el crédito fiscal.
+
+Las autoridades fiscales podrán compensar de oficio las cantidades que los contribuyentes estén obligados a pagar, ya sea por adeudos de dicho contribuyente o por retención a terceros, cuando éstos sean objeto de una resolución debidamente ejecutoriada o que quede firme por no haberse agotado los medios de defensa previstos en la Ley, contra las cantidades que las autoridades fiscales estén obligadas a devolver al mismo contribuyente conforme a lo dispuesto por el artículo 23 de este Código, aun cuando la devolución haya sido solicitada. En este caso se notificara personalmente al contribuyente la resolución que determinó la compensación.
+
+Para los efectos de este Código, se entenderá que es una misma contribución si se trata del mismo impuesto o derecho.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE FEBRERO DE 1999)</small>
 
@@ -459,7 +475,9 @@ Las personas que conforme a las disposiciones fiscales tengan obligación de pre
 
 En los casos que las formas para la presentación de las declaraciones o avisos que prevengan las disposiciones fiscales, no hubieren sido aprobadas por la Secretaría de Planeación y Finanzas, los obligados a presentarlas las formularán en escrito por triplicado que contengan su nombre, denominación o razón social, domicilio y clave y Registro Estatal de Contribuyentes, ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, deberá señalarse además el monto del mismo.
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efecto del Registro Estatal de Contribuyentes. Tratándose de declaraciones de pago, los contribuyentes deberán presentar dichas declaraciones siempre que haya cantidad a pagar, así como la primera declaración. Cuando se presente una declaración sin impuesto a cargo, se presumirá que no existe impuesto a pagar en las declaraciones posteriores que no sean presentadas.
+> <small>(REFORMADO P.O. 30 DE DICIEMBRE DEL 2000)</small>
+
+Los contribuyentes que tengan obligaciones de presentar obligaciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo inclusive en ceros, en tanto no presente los avisos que correspondan parta (sic) efecto del Registro Estatal de Contribuyentes.
 
 Las declaraciones, avisos, solicitudes de inscripción en el Registro Estatal de Contribuyentes y demás documentos que exijan las disposiciones fiscales, se presentarán en las oficinas recaudadoras, correspondientes a su domicilio, también podrán enviarse por medio del servicio postal en pieza certificada en los casos que la propia Secretaría autorice, en este último caso se tendrá como fecha de presentación la del día en que se haga la entrega en las oficinas de correo.
 
@@ -2106,3 +2124,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efecto todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2000.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+Artículo Segundo.- Las contribuciones que conforme el párrafo quinto del artículo 21 de esta Código, vigente hasta el treinta y uno de diciembre del año 2000, serán cubiertas de conformidad a lo establecido en dicho numeral.
+
+Artículo Tercero.- Los contribuyentes que entrada en vigor de la presente reforma y adición del Código, podrán compensarlas a partir del primer pago de la contribución del ejercicio fiscal del año 2001.
