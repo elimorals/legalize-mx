@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1988-01-05"
+last_updated: "1988-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 1988. REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE DICIEMBRE DE 1988.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
 
@@ -70,11 +70,13 @@ II. Aportaciones de seguridad social son las contribuciones establecidas en ley 
 
 III. Contribuciones de mejoras son las establecidas en Ley a cargo de las personas físicas y morales que se beneficien de manera directa por obras públicas.
 
-IV. Derechos son las contribuciones establecidas en ley por los servicios que presta el Estado en sus funciones de derecho público, así como por el uso o aprovechamiento de los bienes de dominio público de la nación.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+IV. Derechos son las contribuciones establecidas en Ley por el uso o aprovechamiento de los bienes de dominio público de la Nación, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
 
-Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, o presten los servicios señalados en la fracción IV de este artículo, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social o de derechos, respectivamente.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Cuando sean organismos descentralizados los que proporcionen la seguridad social a que hace mención la fracción II, las contribuciones correspondientes tendrán la naturaleza de aportaciones de seguridad social.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -118,9 +120,9 @@ Corresponde a los contribuyentes la determinación de las contribuciones a su ca
 
 Las contribuciones se pagan en la fecha o dentro del plazo señalado en las disposiciones respectivas. A falta de disposición expresa el pago deberá hacerse mediante declaración que se presentará ante las oficinas autorizadas, dentro del plazo que a continuación se indica:
 
-> <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1986)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-I. Si la contribución se calcula por períodos establecidos en ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 7 del mes de calendario inmediato posterior al de terminación del período, de la retención o de la recaudación, respectivamente.
+I. Si la contribución se calcula por períodos establecidos en Ley y en los casos de retención o de recaudación de contribuciones, los contribuyentes, retenedores o las personas a quienes las leyes impongan la obligación de recaudarlas, las enterarán a más tardar el día 17 del mes de calendario inmediato posterior al de terminación del período de la retención o de la recaudación, respectivamente.
 
 > <small>(REFORMADA, D.O.F. 30 DE ABRIL DE 1986)</small>
 
@@ -200,9 +202,11 @@ En los casos en que una sociedad entre en liquidación o sea fusionada, el ejerc
 
 Cuando una sociedad no se encuentre en los supuestos del párrafo anterior y desee anticipar la fecha de terminación de sus ejercicios deberá presentar aviso ante las autoridades fiscales. Tratándose de la segunda y posteriores ocasiones en que se desee efectuar dicho cambio, deberán haber transcurrido cuando menos cinco años desde el último cambio, para que éste se pueda efectuar con la simple presentación de un aviso.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### Artículo 12.
 
-En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. de mayo; el 5 de mayo; el 1o. se septiembre; el 16 de septiembre; el 12 de octubre; el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
+En los plazos fijados en días no se contarán los sábados, los domingos ni el 1o. de enero; el 5 de febrero; el 21 de marzo; el 1o. de mayo; el 5 de mayo; el 16 de septiembre; el 12 de octubre; el 1o. y el 20 de noviembre; el 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal, y el 25 de diciembre.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -302,7 +306,9 @@ III. Las agrícolas que comprenden las actividades de siembra, cultivo, cosecha 
 
 IV. Las ganaderas que son las consistentes en la cría y engorda de ganado, aves de corral y animales, así como la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
-V. Las de pesca que son las de captura y extracción de toda clase de especies marinas y de agua dulce y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial.
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+V. Las de pesca que incluyen la cría, cultivo, fomento y cuidado de la reproducción de toda clase de especies marinas y de agua dulce, así como la captura y extracción de las mismas y la primera enajenación de esos productos, que no hayan sido objeto de transformación industrial.
 
 VI. Las silvícolas que son las de cultivo de los bosques o montes, así como la cría, conservación, restrauración (sic), fomento y aprovechamiento de la vegetación de los mismos y la primera enajenación de sus productos, que no hayan sido objeto de transformación industrial.
 
@@ -393,6 +399,26 @@ Para determinar las contribuciones se considerarán, inclusive, las fracciones d
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
 Cuando las leyes establezcan que las contribuciones se pagan mediante declaración, la Secretaría de Hacienda y Crédito Público podrá ordenar, por medio de disposiciones de carácter general, y con el objeto de facilitar el cumplimiento de la obligación que la información correspondiente se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Artículo 20 BIS.- El Indice Nacional de Precios al Consumidor a que se refiere el segundo párrafo del artículo 20, que calcula el Banco de México, se sujeta a lo siguiente:
+
+I. Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
+
+> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
+
+II. Deberán cotizarse los precios correspondientes a cuando menos 2000 productos y servicios específicos agrupados en 250 conceptos de consumo, los cuales abarcarán al menos 35 ramas de los sectores agrícola, ganadero, industrial y de servicios, conforme al catálogo de actividades económicas elaborado por el Instituto Nacional de Estadística, Geografía e Informática.
+
+III. Tratándose de alimentos las cotizaciones de precios se harán como mínimo tres veces durante cada mes. El resto de las cotizaciones se obtendrán una o más veces mensuales.
+
+IV. Las cotizaciones de precios con las que se calcule el Indice Nacional de Precios al Consumidor de cada mes, deberán corresponder al período de que se trate.
+
+V. El Indice Nacional de Precios al Consumidor de cada mes se calculará utilizando la fórmula de Laspeyres. Se aplicarán ponderadores para cada rubro del consumo familiar considerando los conceptos siguientes:
+
+Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, aparatos y enseres domésticos; salud y cuidado personal; transporte; educación y esparcimiento; otros servicios.
+
+El Banco de México publicará en el Diario Oficial de la Federación los estados, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II así como las cotizaciones utilizadas para calcular el Indice.
 
 ###### Artículo 21.
 
@@ -697,6 +723,16 @@ Los funcionarios fiscales facultados debidamente podrán dar a conocer a las div
 Las resoluciones administrativas de carácter individual favorables a un particular sólo podrán ser modificadas por el Tribunal Fiscal de la Federación mediante juicio iniciado por las autoridades fiscales.
 
 Cuando la Secretaría de Hacienda y Crédito Público modifique las resoluciones administrativas de carácter general, estas modificaciones no comprenderán los efectos producidos con anterioridad a la nueva resolución.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Artículo 36 BIS.- Las resoluciones administrativas de carácter individual o dirigidas a agrupaciones, dictadas en materia de impuestos distintos a los de comercio exterior, que otorguen una autorización o que, siendo favorables a particulares, determinen un régimen fiscal o se refieran a deducciones, surtirán sus efectos, en el caso, para el ejercicio para el cual se hubieren dictado.
+
+> <small>(F. DE E., D.O.F. 17 DE ENERO DE 1989)</small>
+
+Al concluir el ejercicio para el que se hubiere emitido una resolución de las que señala el párrafo anterior, los interesados podrán someter las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
+
+Este precepto no será aplicable a las autorizaciones relativas a pagos provisionales, prórrogas para el pago y aceptación y dispensa de garantías del interés fiscal.
 
 ###### Artículo 37.
 
@@ -1272,6 +1308,12 @@ Para efectuar el ajuste a que se refiere la tabla de este artículo, las cantida
 
 Las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, que se deban aplicar a los contribuyentes que se denominan contribuyentes menores en los términos de la Ley del Impuesto sobre la Renta, las cantidades se considerarán reducidas en un 50% de dichos montos.
 
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
+
+Artículo 70 BIS.- Los ingresos que la Federación obtenga efectivamente de multas por infracción a las disposiciones fiscales distintas a las de la Ley Aduanera, se destinarán a la formación de fondos para el otorgamiento de estímulos y recompensas por productividad y cumplimiento del personal que ejerza las facultades de comprobación, determinación, notificación y ejecución de créditos fiscales relativos a dichas disposiciones.
+
+Sólo ingresará a los citados fondos el importe de las multas efectivamente pagadas y que hubieren quedado firmes. Salvo que por ley estén destinados a otros fines. La distribución de los fondos se hará en los términos que señale el reglamento.
+
 ###### Artículo 71.
 
 Son responsables en la comisión de las infracciones previstas en este Código las personas que realicen los supuestos que en este Capítulo se consideran como tales así como las que omitan el cumplimiento de obligaciones previstas por las disposiciones fiscales, incluyendo a aquellas que lo hagan fuera de los plazos establecidos.
@@ -1348,13 +1390,13 @@ VI. En el caso de que la multa se pague dentro del mes siguiente a la fecha en q
 
 Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, excepto tratándose de contribuciones al comercio exterior, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-I. El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de la visita, o de que se le notifique el oficio de observaciones.
+I. El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes del cierre del acta final de visita.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
-II. El 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de la visita, o de que se le haya notificado el oficio de observaciones, pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió.
+II. El 100% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios después del cierre del acta final de visita pero antes de que las autoridades le notifiquen la resolución que determine el monto de las contribuciones que omitió.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -1465,54 +1507,6 @@ III. No pagar las contribuciones dentro del plazo que establecen las disposicion
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
 IV. No efectuar en los términos de las disposiciones fiscales los pagos provisionales de una contribución.
-
-presentar declaraciones, solicitudes o avisos, así como de expedir constancias a que se refiere el artículo 81, se impondrán las siguientes multas:
-
-I. Para la señalada en la fracción I:
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
-
-a). Tratándose de declaraciones, la mayor que resulte entre $5,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
-
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera de los plazos señalados en los requerimientos:
-
-1. El doble de la que correspondió por la omisión de la declaración, solicitud, aviso o constancia por la que se hizo el requerimiento, cuando el documento requerido se presente dentro de los seis días siguientes a aquél en que venció el plazo señalado en el propio requerimiento.
-
-2. El doble de la señalada en el subinciso anterior, cuando la presentación se haga entre el séptimo y el duodécimo día siguiente a aquél en que venció el plazo señalado en dicho requerimiento.
-
-3. El doble de la señalada en el subinciso anterior, cuando la presentación se haga después del duodécimo día siguiente al de vencimiento del plazo señalado en dicho requerimiento.
-
-En caso de incumplimiento al requerimiento formulado por la omisión, se aplicará la multa señalada en el subinciso 3 que antecede.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
-c). De $13,000.00 en los demás documentos.
-
-> <small>N. DE E. CANTIDADES ACTUALIZADAS MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
-II. Respecto de la señalada en la fracción II:
-
-a). De $6,700.00 por no poner el nombre o ponerlo equivocadamente.
-
-b). De $3,400.00 por no poner el domicilio o ponerlo equivocadamente.
-
-c). De $700.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
-
-d). De $6,700.00 en los demás casos.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
-
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
-
-IV. Para la señalada en la fracción IV, el 20% del pago provisional no efectuado.
 
 ###### Artículo 82.
 
@@ -2092,11 +2086,11 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos co
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 129 de este Código.
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 VII. Si son revocados los actos por la autoridad.
 
@@ -2334,11 +2328,7 @@ Si la garantía consiste en depósito de dinero en institución nacional de cré
 
 Tratándose de fianza a favor de la Federación, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
 a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
 
@@ -3160,7 +3150,7 @@ II. Contra el acto principal del que derive el impugnado en la demanda, así com
 
 III. En los casos previstos por el artículo 209 BIS.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 211.
 
@@ -3588,8 +3578,6 @@ Interpuesto el recurso a que se refiere el artículo anterior, el magistrado ins
 
 Cuando la reclamación se interponga en contra del acuerdo que sobresea el juicio antes de que se hubiera cerrado la instrucción, en caso de desistimiento del demandante, no será necesario dar vista a la contraparte.
 
-(DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
 #### Sección Primera. De la reclamación
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
@@ -3612,7 +3600,9 @@ Cuando la reclamación se interponga en contra del acuerdo que sobresea el juici
 
 (REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-#### Sección Segunda. De la queja
+#### Sección Segunda. De la revisión
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 248.
 
@@ -3634,13 +3624,9 @@ En los juicios que versen sobre resoluciones de las autoridades fiscales de las 
 
 Si el particular interpuso amparo directo contra la misma resolución o sentencia impugnada mediante el recurso de revisión, el Tribunal Colegiado de Circuito que conozca del amparo resolverá el citado recurso, lo cual tendrá lugar en la misma sesión en que decida el amparo.
 
-(DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
-
-#### Sección Cuarta. De la Revisión Fiscal
-
 ###### Artículo 250.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y 1 DE FEBRERO DE 1988)
 
 ###### Artículo 251.
 
@@ -4023,3 +4009,31 @@ OCTAVA.- La jurisprudencia que haya establecido la Sala Superior del Tribunal Fi
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el 15 de enero de 1988, excepto las adiciones de un segundo párrafo al artículo 126 y de un párrafo final y los incisos a) y b) al artículo 143 del Código Fiscal de la Federación, establecidas por el ARTICULO PRIMERO, así como lo dispuesto por el ARTICULO TERCERO de este Decreto, que entrarán en vigor el 30 de junio de 1988.
+
+D.O.F. 31 DE DICIEMBRE DE 1988.
+
+Disposiciones Transitorias
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de los preceptos que se adicionan al Código Fiscal de la Federación, conforme a lo dispuesto por el Artículo anterior, se estará a las siguientes disposiciones transitorias:
+
+I.- La serie del Indice Nacional de Precios al Consumidor que el Banco de México ha venido calculando desde 1978, continuará elaborándose con los criterios utilizados, congruentes con los previstos en el artículo 20-BIS del Código Fiscal de la Federación.
+
+II.- Quedan sin efecto las resoluciones administrativas a que se refiere el artículo 36-BIS del Código Fiscal de la Federación, dictadas con anterioridad a la vigencia de esta Ley, sin perjuicio de que los interesados sometan las circunstancias del caso a la autoridad fiscal competente para que dicte la resolución que proceda.
+
+Disposiciones de Vigencia Anual
+
+###### ARTICULO TERCERO.
+
+Durante el año de 1989 se aplicarán respecto del Código Fiscal de la Federación, las siguientes disposiciones:
+
+I.- La cantidad que conforme al primer párrafo de la fracción I del artículo 41 del Código Fiscal de la Federación puedan hacer efectiva las autoridades fiscales como pago provisional a cargo de los obligados, se incrementará a la que resulte de aplicarle el factor de 1.3.
+
+II.- Para los efectos del segundo párrafo del artículo 70 del Código Fiscal de la Federación, durante el año de 1989, se establece el factor de 1.3 que se aplicará a partir del 1o. de marzo del mismo año sobre las cantidades en vigor.
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1989.
