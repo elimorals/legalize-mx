@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-6230"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1972-08-17"
-last_updated: "1988-11-17"
+last_updated: "1989-10-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6230&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY REGLAMENTARIA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE OCTUBRE DE 1989
 
 Ley publicada en el Periódico Oficial el 17 de agosto de 1972.
 
@@ -157,7 +157,7 @@ Queda estrictamente prohibido a los Diputados abandonar el Recinto, sin el permi
 
 ###### Artículo 16.
 
-La Directiva del Congreso la constituyen el Presidente, el Vice-Presidente, dos Secretarios y dos Pro-Secretarios.
+La Directiva del Congreso la constituyen el Presidente, el Vice.Presidente, dos Secretarios y dos Pro-Secretarios.
 
 ###### Artículo 17.
 
@@ -279,7 +279,7 @@ Las atribuciones consignadas en las fracciones que anteceden, con excepción de 
 
 ###### Artículo 26.
 
-Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vice-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
+Los Secretarios y Pro-Secretarios no estarán inhabilitados para ser electos Presidente o Vicve-Presidente, durante el período de su ejercicio; pero si la elección para tales cargos, recayera en alguno de ellos de inmediato y con las mismas formalidades a que se refiere el Artículo 16, deberá elegirse al que deba desempeñar las funciones de Pro-Secretario, por todo el término que vaya a estar éste separado de dicho cargo, ya sea porque ocupe la Presidencia o la Vice-Presidencia, o porque la elección hubiere recaído en alguno de los Secretarios, y el Pro-Secretario que primeramente hubiere sido electo vaya a substituirlo en dicha Secretaría.
 
 ### CAPITULO III. Del Ceremonial
 
@@ -458,6 +458,20 @@ II. Los que se refieren a otorgamiento de dispensas de Ley por causas de utilida
 III. Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo del Estado, para la enajenación de inmuebles o constitución de derechos reales sobre los mismos; y
 
 IV.Los que se refieren a la autorización a los Ayuntamientos o al Ejecutivo para contraer adeudos que garanticen por gravámenes de sus fuentes de percepción de ingresos.
+
+¬Artículo 36.-¬ Corresponde a la Comisión de Justicia, el conocimiento de los asuntos relativos a:
+
+I. Proyectos que impliquen expedición, reformas o adiciones a los Ordenamientos Procesales Civiles o Penales;
+
+II. Proyectos referentes a modificaciones a leyes relativas al Poder Judicial o al Ministerio Público;
+
+III. Supresión o creación de Juzgados o modificaciones de su categoría;
+
+IV. Modificación de la comprensión territorial de los Organos Judiciales;
+
+V. Aprobación en su caso, de las designaciones de Magistrados del Supremo Tribunal de Justicia hechas por el Ejecutivo o designación de entre los que, comprendan las ternas propuestas por éste; y
+
+VI. Concesión de amnistía.
 
 ###### Artículo 36.
 
@@ -765,7 +779,7 @@ Siempre se destinará un lugar especial en el Recinto, a los Magistrados del Sup
 
 ###### Artículo 75.
 
-Solo con acuerdo de la Cámara, se podrá permitir alguna curul a persona que no sea Diputado; pero expresamente y sin necesidad de cumplir con algún requisito, se faculta a los Legisladores Constituyentes de Querétaro que expidieron la Constitución General de la República y a los Constituyentes de Jalisco, que expidieron la Particular del Estado, paz ocupare curules en el Recinto Cameral, sin derecho a voz ni voto. Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
+Solo con acuerdo de la Cámara, se podrá permitir alguna curul a persona que no sea Diputado; pero expresamente y sin necesidad de cumplir con algún requisito, se faculta a los Legisladores Constituyentes de Querértaro que expidieron la Constitución General de la República y a los Constituyentes de Jalisco, que expidieron la Particular del Estado, paz ocupare curules en el Recinto Cameral, sin derecho a voz ni voto. Previo acuerdo de la Cámara se podrá permitir ocupar alguna curul a persona que no sea Diputado.
 
 ###### Artículo 76.
 
@@ -837,11 +851,15 @@ Es iniciativa de Acuerdo Económico, aquella que tienda a una resolución, que p
 
 Las resoluciones del Congreso en materia electoral y las que se refieran a la apertura o clausura de períodos de sesiones, tendrán el carácter de Decreto.
 
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
+
 ###### Artículo 90.
 
-Las iniciativas provenientes del Ejecutivo del Estado, del Supremo Tribunal de Justicia de y de los Ayuntamientos, se turnarán a las Comisiones que correspondan para su estudio y dictamen, que deberán formular dentro de los quince días siguientes al en que las hayan recibido.
+Las iniciativas provenientes del Ejecutivo del Estado, del Supremo Tribunal de Justicia, de los Ayuntamientos y las de Ley o Decreto presentadas por los diputados, se turnarán a las comisiones que correspondan para su estudio y dictamen, que deberán formular dentro de los quince días siguientes al en que las hayan recibido.
 
-Las iniciativas provenientes de los Diputados, tendrán el carácter de dictámenes, quedando sujetas por tanto a los trámites que señala esta Ley.
+Tratándose de iniciativas que a juicio de la Comisión requieran de mayor estudio, dicho término se ampliará hasta por dos veces más, de lo cual la Comisión, informará a la Asamblea.
+
+Las iniciativas de Acuerdo Económico provenientes de los diputados, tendrán el carácter de dictámenes, quedando sujetas por tanto a los trámites que señala esta Ley.
 
 ###### Artículo 91.
 
@@ -1129,7 +1147,7 @@ Son funciones específicas del Oficial Mayor:
 
 I. Formular las actas de las sesiones y presentarlas para revisión a los Diputados Secretarios;
 
-II. Coordinar, previo acuerdo con la Presidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados;
+II. Coordinar, previo acuerdo con la Pesidencia y con el Titular de la Comisión de Tesorería, las labores de los empleados;
 
 III. Actuar como Jefe de Personal, asumiendo la responsabilidad de los trabajos encomendados a éste;
 
@@ -1461,11 +1479,11 @@ QUE LO INTEGRAN, P.O. 12 DE ABRIL DE 1984)
 
 En la última sesión de un período ordinario, el Congreso deberá elegir los integrantes propietarios y suplentes de la diputación permanente, que deba fungir durante todo el receso, aún cuando el Congreso funcione en períodos extraordinarios.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 182.
 
-La diputación permanente elegirá de entre sus integrantes, y precisamente en la sesión de su instalación, que se celebrará al día siguiente del que el Congreso hubiese clausurado el período ordinario inmediato anterior, un presidente, dos secretarios y dos vocales primero y segundo, así como tres suplentes.
+La Diputación Permanente elegirá de entre sus integrantes en funciones y precisamente en la sesión de su instalación que se celebrará al día siguiente de que el Congreso hubiese clausurado el período ordinario inmediato anterior, un presidente, dos secretarios y dos prosecretarios y dos vocales, primero y segundo, y cinco suplentes.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -1479,19 +1497,19 @@ En las faltas accidentales del Presidente, lo substituirá el Primer Vocal y, en
 
 En caso de falta definitiva del Presidente, la propia diputación elegirá, de entre sus integrantes, quien lo sustituya.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 185.
 
-En las faltas accidentales de los secretarios, el presidente nombrará al que deba sustituirlos, eligiendo de entre los vocales.
+Los secretarios serán substituidos en sus ausencias por los prosecretarios.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 186.
 
-En caso de falta definitiva de uno o de ambos secretarios, se procederá de acuerdo con lo dispuesto por el Art. 184.
+En caso de falta definitiva de los secretarios y de los prosecretarios, se procederá conforme al Art. 184.
 
-Si las faltas a que se refieren los artículos anteriores no pudiesen ser cubiertas por quienes deban suplirlos, se llamará a los suplentes.
+Si las faltas a que se refieren los artículos anteriores no pudieren ser cubiertas por quienes deban suplirlos, se llamará a los suplentes.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -1499,11 +1517,11 @@ Si las faltas a que se refieren los artículos anteriores no pudiesen ser cubier
 
 La diputación permanente comunicará al Ejecutivo, la forma en que quedó integrada, a más tardar el día hábil que siga al de su instalación. Igual comunicación enviará a las demás autoridades que señala el artículo 84, tanto al instalarse como al clausurar sus labores.
 
-> <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
+> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1989)</small>
 
 ###### Artículo 188.
 
-La diputación permanente deberá celebrar cuando menos, una sesión semanal, y podrá funcionar con la asistencia de tres de sus componentes.
+La Diputación Permanente deberá celebrar cuando menos una sesión semanal y podrá funcionar con la asistencia de cinco de sus componentes.
 
 > <small>(ADICIONADO, P.O. 12 DE ABRIL DE 1984)</small>
 
@@ -1620,3 +1638,19 @@ Segundo. Este decreto entrará en vigor al tercer día de su publicación en el 
 P.O. 17 DE NOVIEMBRE DE 1988
 
 Unico. Este Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 10 DE OCTUBRE DE 1989
+
+DECRETO QUE REFORMA ARTS. 182, 185, 186 Y 188,
+
+Primero. Este Decreto deroga las disposiciones que se opongan al mismo.
+
+Segundo. La reforma al Art. 24 de la Constitución Política del Estado de Jalisco entrará en vigor tres días después de su publicación en el Periódico oficial El Estado de Jalisco.
+
+Tercero. Las reformas de los Arts. 182, 185, 186 y 188 de la Ley Reglamentaria del Poder Legislativo, entrarán en vigor el mismo día en que entre en vigor la reforma al Art. 24 de la Constitución Política del Estado.
+
+P.O. 10 DE OCTUBRE DE 1989
+
+DECRETO QUE REFORMA ART. 90.
+
+Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
