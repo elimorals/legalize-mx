@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-educacion-publica-14391
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-06-23"
-last_updated: "1999-06-23"
+last_updated: "2000-03-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14391&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-06-18"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA.
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MARZO DE 2000.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de junio de 1999.
 
@@ -37,115 +37,119 @@ REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
 La Secretaría de Educación Pública, como dependencia del Poder Ejecutivo Federal, tiene a su cargo el desempeño de las atribuciones y facultades que le encomiendan la Ley Orgánica de la Administración Pública Federal, la Ley General de Educación y demás leyes, así como también los reglamentos, decretos, acuerdos y órdenes del Presidente de la República.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE MARZO DE 2000)</small>
+
 ###### ARTÍCULO 2o.
 
-Para el estudio, planeación y despacho de los asuntos de su competencia, la Secretaría de Educación Pública contará con los servidores públicos y unidades administrativas siguientes:
+Al frente de la Secretaría de Educación Pública estará el Secretario del Despacho, quien para el desahogo de los asuntos de su competencia se auxiliará de:
 
-Secretario del Despacho
+A. Los servidores públicos siguientes:
 
-Subsecretario de Planeación y Coordinación
+I. Subsecretario de Planeación y Coordinación;
 
-Subsecretario de Educación Superior e Investigación Científica
+II. Subsecretario de Educación Superior e Investigación Científica;
 
-Subsecretario de Educación Básica y Normal
+III. Subsecretario de Educación Básica y Normal;
 
-Subsecretario de Educación e Investigación Tecnológicas
+IV. Subsecretario de Educación e Investigación Tecnológicas;
 
-Subsecretario de Servicios Educativos para el Distrito Federal
+V. Subsecretario de Servicios Educativos para el Distrito Federal, y
 
-Oficial Mayor
+VI. Oficial Mayor.
 
-Unidades Administrativas:
+B. Las unidades administrativas siguientes:
 
-Dirección General de Asuntos Jurídicos
+I. Dirección General de Asuntos Jurídicos;
 
-Dirección General de Relaciones Internacionales
+II. Dirección General de Relaciones Internacionales;
 
-Unidad de Comunicación Social
+III. Unidad de Comunicación Social;
 
-Coordinación General de Representaciones de la Secretaría de Educación Pública en las Entidades Federativas
+IV. Coordinación General de Representaciones de la Secretaría de Educación Pública en las Entidades Federativas;
 
-Representaciones de la Secretaría de Educación Pública en las Entidades Federativas
+V. Representaciones de la Secretaría de Educación Pública en las Entidades Federativas;
 
-Dirección General de Televisión Educativa
+VI. Dirección General de Televisión Educativa;
 
-Dirección General de Planeación, Programación y Presupuesto
+VII. Dirección General de Planeación, Programación y Presupuesto;
 
-Dirección General de Evaluación
+VIII. Dirección General de Evaluación;
 
-Dirección General de Acreditación, Incorporación y Revalidación
+IX. Dirección General de Acreditación, Incorporación y Revalidación;
 
-Coordinación de Órganos Desconcentrados y del Sector Paraestatal
+X. Coordinación de Órganos Desconcentrados y del Sector Paraestatal;
 
-Coordinación Nacional de Carrera Magisterial
+XI. Coordinación Nacional de Carrera Magisterial;
 
-Dirección General de Educación Superior
+XII. Dirección General de Educación Superior;
 
-Dirección General de Profesiones
+XIII. Dirección General de Profesiones;
 
-Coordinación General de Universidades Tecnológicas
+XIV. Coordinación General de Universidades Tecnológicas;
 
-Dirección General del Bachillerato
+XV. Dirección General del Bachillerato;
 
-Dirección General de Normatividad
+XVI. Dirección General de Normatividad;
 
-Dirección General de Materiales y Métodos Educativos
+XVII. Dirección General de Materiales y Métodos Educativos;
 
-Dirección General de Investigación Educativa
+XVIII. Dirección General de Investigación Educativa;
 
-Dirección General de Educación Indígena
+XIX. Dirección General de Educación Indígena;
 
-Coordinación General de Actualización y Capacitación para Maestros en Servicio
+XX. Coordinación General de Actualización y Capacitación para Maestros en Servicio;
 
-Dirección General de Institutos Tecnológicos
+XXI. Dirección General de Institutos Tecnológicos;
 
-Dirección General de Educación Tecnológica Industrial
+XXII. Dirección General de Educación Tecnológica Industrial;
 
-Dirección General de Educación Tecnológica Agropecuaria
+XXIII. Dirección General de Educación Tecnológica Agropecuaria;
 
-Dirección General de Centros de Formación para el Trabajo
+XXIV. Dirección General de Centros de Formación para el Trabajo;
 
-Dirección General de Educación Secundaria Técnica
+XXV. Dirección General de Educación Secundaria Técnica;
 
-Dirección General de Planeación, Programación y Presupuesto en el Distrito Federal
+XXVI. Dirección General de Educación en Ciencia y Tecnología del Mar;
 
-Dirección General de Operación de Servicios Educativos en el Distrito Federal
+XXVII. Dirección General de Planeación, Programación y Presupuesto en el Distrito Federal;
 
-Dirección General de Servicios Educativos Iztapalapa
+XXVIII. Dirección General de Operación de Servicios Educativos en el Distrito Federal;
 
-Dirección General de Administración de Personal en el Distrito Federal
+XXIX. Dirección General de Servicios Educativos Iztapalapa;
 
-Dirección General de Educación Normal y Actualización del Magisterio en el Distrito Federal
+XXX. Dirección General de Administración de Personal en el Distrito Federal;
 
-Dirección General de Extensión Educativa
+XXXI. Dirección General de Educación Normal y Actualización del Magisterio en el Distrito Federal;
 
-Dirección General de Educación Física en el Distrito Federal
+XXXII. Dirección General de Extensión Educativa;
 
-Dirección General de Recursos Financieros
+XXXIII. Dirección General de Educación Física en el Distrito Federal;
 
-Dirección General de Tecnología de la Información
+XXXIV. Dirección General de Recursos Financieros;
 
-Dirección General de Personal
+XXXV. Dirección General de Tecnología de la Información;
 
-Dirección General de Recursos Materiales y Servicios
+XXXVI. Dirección General de Personal, y
 
-Órganos Desconcentrados:
+XXXVII. Dirección General de Recursos Materiales y Servicios.
 
-Comisión Nacional del Deporte
+C. Órganos Desconcentrados:
 
-Consejo Nacional para la Cultura y las Artes
+I. Comisión Nacional del Deporte;
 
-Instituto Nacional de Antropología e Historia
+II. Consejo Nacional para la Cultura y las Artes;
 
-Instituto Nacional de Bellas Artes y Literatura
+III. Instituto Nacional de Antropología e Historia;
 
-Instituto Nacional del Derecho de Autor
+IV. Instituto Nacional de Bellas Artes y Literatura;
 
-Instituto Politécnico Nacional
+V. Instituto Nacional del Derecho de Autor;
 
-Radio Educación
+VI. Instituto Politécnico Nacional;
 
-Universidad Pedagógica Nacional
+VII. Radio Educación, y
+
+VIII. Universidad Pedagógica Nacional.
 
 La Secretaría contará con una Contraloría Interna, órgano interno de control, que se regirá conforme al artículo 48 de este Reglamento.
 
@@ -713,7 +717,9 @@ VI.- Expedir autorización a los pasantes de las diversas ramas para ejercer pro
 
 VII.- Expedir autorización para el ejercicio de una especialidad a quienes tengan título profesional registrado;
 
-VIII.- Registrar la creación de los colegios de profesionistas;
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2000)</small>
+
+VIII.- Registrar la creación de los Colegios de Profesionistas y sus Federaciones;
 
 IX.- Participar en la instrumentación de medidas que tiendan a elevar la calidad de los servicios profesionales;
 
@@ -1025,7 +1031,9 @@ XI.- Inspeccionar y vigilar, en términos de la Ley General de Educación y de l
 
 XII.- Definir normas y políticas en materia de equipamiento y mantenimiento de planteles; así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo;
 
-XIII.- Emitir opinión respecto a la creación de planteles de educación media superior y superior de carácter tecnológico, y
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2000)</small>
+
+XIII.- Dictaminar sobre la creación de planteles destinados a impartir la educación a que se refiere este artículo, y
 
 XIV.- Proporcionar a los organismos descentralizados de los gobiernos de los estados que impartan educación, análoga a la que se refiere este artículo, la asistencia académica, técnica y pedagógica que acuerde la Secretaría.
 
@@ -1048,6 +1056,42 @@ VI.- Coordinar sus actividades con otras dependencias y organismos que imparten 
 VII.- Aplicar las normas establecidas por las unidades administrativas competentes de la Secretaría para la organización y control escolar en los planteles de educación secundaria técnica en los términos de la Ley General de Educación, y
 
 VIII.- Expedir diplomas y constancias a los alumnos que acrediten los cursos básicos de educación tecnológica y formación tecnológica, en los planteles dependientes de la Secretaría que impartan educación secundaria técnica.
+
+> <small>(ADICIONADO, D.O.F. 3 DE MARZO DE 2000)</small>
+
+ARTÍCULO 34 bis.- Corresponde a la Dirección General de Educación en Ciencia y Tecnología del Mar el ejercicio de las siguientes atribuciones:
+
+I.- Proponer normas pedagógicas, contenidos, planes, programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje, para la educación media superior, superior y la capacitación en ciencia y tecnología del mar y acuicultura que imparta la Secretaría, y difundir los aprobados;
+
+II.- Verificar que las normas pedagógicas, contenidos, planes y programas de estudio, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje aprobados para la educación a que se refiere este artículo se cumplan en los Centros de Estudios Tecnológicos del Mar, Institutos Tecnológicos del Mar y Centros de Estudios Tecnológicos en Aguas Continentales;
+
+III.- Formular disposiciones técnicas y administrativas para la organización, operación, desarrollo, supervisión y evaluación de la educación a que se refiere este artículo, difundir las aprobadas y verificar su cumplimiento en los mencionados planteles;
+
+IV.- Organizar, operar, desarrollar, supervisar y evaluar la educación a que se refiere este artículo que imparta la Secretaría;
+
+V.- Diseñar y desarrollar, de acuerdo con los lineamientos aprobados, programas para la superación académica del personal directivo de plantel y docente de la Secretaría que imparta la educación a que se refiere este artículo;
+
+VI.- Establecer, en términos de la Ley General de Educación, la coordinación que resulte necesaria con los gobiernos de los estados para la mejor prestación de la educación a que se refiere este artículo;
+
+VII.- Promover y fomentar la investigación científica, tecnológica y pedagógica en las materias de la educación a que se refiere este artículo;
+
+VIII.- Formar técnicos y profesionales en las materias de la educación a que se refiere este artículo, en coordinación con las dependencias y órganos competentes del Ejecutivo Federal, así como la formación por medio de la capacitación del sector pesquero;
+
+IX.- Celebrar, de acuerdo con su superior jerárquico, convenios de coordinación y concertación con los productores de bienes y servicios para contribuir a la formación práctica de educandos y a fomentar la investigación y la innovación en ciencia y tecnología del mar;
+
+X.- Expedir certificados y otorgar constancias y diplomas a las personas que hayan concluido estudios conforme a los planes y programas autorizados en los servicios de educación media superior y superior a que se refiere este artículo, que dependan de la Secretaría;
+
+XI.- Estudiar y resolver de acuerdo a los lineamientos establecidos las solicitudes para otorgar el reconocimiento de validez oficial a los estudios de educación media superior y superior en ciencia y tecnología del mar y acuicultura;
+
+XII.- Substanciar y resolver los procedimientos por los que se retire el reconocimiento de validez oficial de los estudios a que se refiere este artículo;
+
+XIII.- Inspeccionar y vigilar, en términos de la Ley General de Educación y de las demás disposiciones aplicables, que las instituciones incorporadas por la Secretaría que impartan la educación a que se refiere este artículo, cumplan con las disposiciones legales aplicables y, en su caso substanciar los procedimientos e imponer las sanciones que correspondan;
+
+XIV.- Otorgar revalidaciones y equivalencias de estudios para la educación a que se refiere este artículo, de conformidad con los lineamientos y criterios generales que se emitan;
+
+XV.- Definir normas y políticas en materia de equipamiento y mantenimiento de planteles; así como proponer las prioridades en construcción, conservación, uso y aprovechamiento de edificios, instalaciones, mobiliario y equipo, y
+
+XVI.- Dictaminar sobre la creación de planteles destinados a impartir la educación a que se refiere este artículo.
 
 ###### ARTÍCULO 35.
 
@@ -1426,3 +1470,9 @@ NOVENO.- Los órganos de control interno de los órganos desconcentrados resolve
 DÉCIMO.- Los derechos de los trabajadores serán respetados conforme a la ley.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de junio de mil novecientos noventa y nueve.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Educación Pública, Miguel Limón Rojas.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 3 DE MARZO DE 2000.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
