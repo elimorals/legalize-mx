@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-11-2002-del-pleno-del-consejo-de-la-62681"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2002-04-11"
-last_updated: "2002-04-11"
+last_updated: "2003-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62681&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-04-01"
 
 ACUERDO GENERAL 11/2002, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE DETERMINA LA CREACION TEMPORAL DE LOS JUZGADOS PRIMERO DE DISTRITO "A", PRIMERO DE DISTRITO "B", SEGUNDO DE DISTRITO "A", SEGUNDO DE DISTRITO "B", TERCERO DE DISTRITO "A" Y TERCERO DE DISTRITO "B", TODOS EN MATERIA DE PROCESOS PENALES FEDERALES EN EL ESTADO DE MEXICO, CON RESIDENCIA EN TOLUCA; A LA DENOMINACION, COMPETENCIA, JURISDICCION TERRITORIAL Y FECHA DE INICIO DE FUNCIONAMIENTO DE DICHOS ORGANOS JURISDICCIONALES; ASI COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCION Y DISTRIBUCION DE ASUNTOS ENTRE LOS JUZGADOS DE DISTRITO EN MATERIA DE PROCESOS PENALES FEDERALES EN EL ESTADO Y RESIDENCIA INDICADOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE MAYO DE 2003.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 11 de abril de 2002.
 
@@ -81,11 +81,11 @@ SEXTO.- Serán consideradas áreas comunes: la oficialía de partes, el control 
 
 SEPTIMO.- Los movimientos estadísticos originados con motivo del reparto de expedientes deberán informarse oportunamente a la Unidad de Estadística y Planeación Judicial del Consejo de la Judicatura Federal; asimismo, los titulares de los mencionados juzgados de Distrito "A" y "B", deberán enviar por separado su reporte estadístico mensual.
 
-OCTAVO.- Para la recepción de los nuevos asuntos en horas y días inhábiles, los Juzgados Primero de Distrito "A" y Primero de Distrito "B", ambos en Materia de Procesos Penales Federales en el Estado de México, con residencia en Toluca, estarán de turno simultáneamente.
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 23/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE MAYO DE 2003)</small>
 
-Similar situación ocurrirá tratándose de los Juzgados Segundo de Distrito "A" y Segundo de Distrito "B", así como de los Juzgados Tercero de Distrito "A" y Tercero de Distrito "B", todos en Materia de Procesos Penales Federales en el Estado de México, con sede en Toluca.
+OCTAVO.- Para la recepción de los nuevos asuntos, los Juzgados Primero de Distrito "A", Primero de Distrito "B", Segundo de Distrito "A", Segundo de Distrito "B", Tercero de Distrito "A" y Tercero de Distrito "B", todos en Materia de Procesos Penales Federales en el Estado de México, con residencia en Toluca, estarán de turno semanalmente de manera independiente y sucesiva.
 
-Todos los juzgados anteriormente citados conservarán las reglas de temporalidad que actualmente operan en los juzgados de Distrito antes precisados, por lo que en la fecha señalada en el punto primero de este acuerdo estarán de turno los Juzgados Segundo de Distrito "A" y Segundo de Distrito "B", ambos en Materia de Procesos Penales Federales en el Estado de México, con residencia en Toluca.
+Todos los juzgados anteriormente citados conservarán las reglas de recepción de “asuntos especiales” que actualmente operan entre ellos, por lo que del veintiséis de mayo al uno de junio estará de turno el Juzgado Primero de Distrito "A"; del dos al ocho de junio, el Juzgado Primero de Distrito "B"; del nueve al quince de junio, el Juzgado Segundo de Distrito "A"; del dieciséis al veintidós de junio, el Juzgado Segundo de Distrito "B", del veintitrés al veintinueve de junio, el Juzgado Tercero de Distrito “A”; del treinta de junio al seis de julio, el Juzgado Tercero de Distrito “B” y, así sucesivamente.
 
 NOVENO.- En virtud de que se trata de una medida temporal, la creación de los juzgados de Distrito a que se refiere el presente acuerdo no modifica el diverso Acuerdo General 23/2001 del Pleno del Consejo de la Judicatura Federal, Relativo a la Determinación del Número y Límites Territoriales de los Circuitos en que se divide el Territorio de la República Mexicana; y al Número, a la Jurisdicción Territorial y Especialización por Materia de los Tribunales Colegiados y Unitarios de Circuito y de los Juzgados de Distrito.
 
@@ -98,3 +98,13 @@ PRIMERO.- Este acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Publíquese el presente acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GUILLERMO ANTONIO MUÑOZ JIMENEZ, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 11/2002, del Pleno del Consejo de la Judicatura Federal, que Determina la Creación Temporal de los Juzgados Primero de Distrito "A", Primero de Distrito "B", Segundo de Distrito "A", Segundo de Distrito "B", Tercero de Distrito "A" y Tercero de Distrito "B", Todos en Materia de Procesos Penales Federales en el Estado de México, con Residencia en Toluca; a la Denominación, Competencia, Jurisdicción Territorial y Fecha de Inicio de Funcionamiento de Dichos Organos Jurisdiccionales; así como a las Reglas de Turno, Sistema de Recepción y Distribución de Asuntos Entre los Juzgados de Distrito en Materia de Procesos Penales Federales en el Estado y Residencia Indicados, fue aprobado por el propio Pleno, en sesión extraordinaria de primero de abril de dos mil dos, por unanimidad de votos de los señores Consejeros: Presidente Ministro Genaro David Góngora Pimentel, Adolfo O. Aragón Mendía, Manuel Barquín Alvarez, Jaime Manuel Marroquín Zaleta, José Guadalupe Torres Morales y Sergio Armando Valls Hernández.- México, Distrito Federal, a primero de abril de dos mil dos.- Conste.- Rúbrica.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOPS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE ORDENAMIENTOS.
+
+D.O.F. 16 DE MAYO DE 2003.
+
+PRIMERO.- Este acuerdo entrará en vigor el veintiséis de mayo de dos mil tres.
+
+SEGUNDO.- La Dirección General de Recursos Humanos atenderá lo relativo al pago de horas extras correspondiente, derivado del nuevo sistema de turnos establecido para los Juzgados de Distrito "A" y "B" en Materia de Procesos Penales Federales en el Estado de México, con residencia en Toluca.
+
+TERCERO.- Publíquese en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
