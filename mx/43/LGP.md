@@ -4,7 +4,7 @@ identifier: "LGP"
 country: "mx"
 rank: "ley_general"
 publication_date: "1974-01-07"
-last_updated: "1981-12-31"
+last_updated: "1990-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=636&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGP"
 
 LEY GENERAL DE POBLACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 17 DE JULIO DE 1990.
 
 Ley publicada en el Diario Oficial de la Federación el lunes 7 de enero de 1974.
 
@@ -108,11 +108,11 @@ Para los efectos del artículo anterior, corresponde a las dependencias del Pode
 
 Se crea el Consejo Nacional de Población que tendrá a su cargo la planeación demográfica del país, con objeto de incluir a la población en los programas de desarrollo económico y social que se formulen dentro del sector gubernamental y vincular los objetivos de éstos con las necesidades que plantean los fenómenos demográficos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 3 DE ENERO DE 1975)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 17 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 6o.
 
-El Consejo Nacional de Población estará integrado por un representante de la Secretaría de Gobernación que será el titular del ramo y que fungirá como presidente del mismo, y un representante de cada una de las Secretarías de Educación Pública, Salubridad y Asistencia, Hacienda y Crédito Público, Relaciones Exteriores, Trabajo y Previsión Social, de la Presidencia y de la Reforma Agraria, que serán los titulares de los mismos o los Subsecretarios que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior.
+El Consejo Nacional de Población estará integrado por un representante de la Secretaría de Gobernación, que será el titular del ramo y que fungirá como Presidente del mismo, y un representante de cada una de las Secretarías de Relaciones Exteriores, Hacienda y Crédito Público, Programación y Presupuesto, Desarrollo Urbano y Ecología, Educación Pública, Salud, Trabajo y Previsión Social, Reforma Agraria, del Departamento del Distrito Federal y de los Institutos Mexicano del Seguro Social y de Seguridad y Servicios Sociales de los Trabajadores del Estado, que serán sus respectivos titulares o los Subsecretarios, Secretarios Generales o Subdirector General, según sea el caso, que ellos designen. Por cada representante propietario se designará un suplente que deberá tener el mismo nivel administrativo que aquél, o el inmediato inferior.
 
 Cuando se trate de asuntos de la competencia de otras dependencias u organismos del sector público, el Presidente del Consejo podrá solicitar de sus titulares que acudan a la sesión o sesiones correspondientes o nombren un representante para desahogar aquéllos.
 
@@ -131,6 +131,10 @@ II.- Vigilar la entrada y salida de los nacionales y extranjeros, y revisar la d
 III.- Aplicar esta Ley y su Reglamento; y
 
 IV.- Las demás facultades que le confieran esta Ley y su Reglamento así como otras disposiciones legales o reglamentarias.
+
+> <small>(ADICIONADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
+En el ejercicio de estas facultades, la Secretaría de Gobernación velará por el respeto a los derechos humanos y, especialmente, por la integridad familiar de los sujetos a esta ley.
 
 ###### ARTICULO 8o.
 
@@ -248,9 +252,11 @@ De conformidad con lo dispuesto por el artículo anterior, los permisos de inter
 
 La Secretaría de Gobernación podrá fijar a los extranjeros que se internen en el país las condiciones que estime convenientes respecto a las actividades a que habrán de dedicarse y al lugar o lugares de su residencia. Cuidará asimismo de que los inmigrantes sean elementos útiles para el país y de que cuenten con los ingresos necesarios para su subsistencia y en su caso, la de las personas que estén bajo su dependencia económica.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 35.
 
-Los extranjeros que sufran persecuciones políticas serán admitidos provisionalmente por las autoridades de Migración con la obligación de permanecer en el puerto de entrada mientras la Secretaría de Gobernación resuelve cada caso.
+Los extranjeros que sufran persecuciones políticas o aquéllos que huyan de su país de origen, en los supuestos previstos en la fracción VI del artículo 42, serán admitidos provisionalmente por las autoridades de migración, mientras la Secretaría de Gobernación resuelve cada caso, lo que hará del modo más expedito.
 
 ###### ARTICULO 36.
 
@@ -306,19 +312,29 @@ I.- TURISTA.- Con fines de recreo o salud, para actividades artísticas, cultura
 
 II.- TRANSMIGRANTE.- En tránsito hacia otro país y que podrá permanecer en territorio nacional hasta por treinta días.
 
-III.- VISITANTE.- Para dedicarse al ejercicio de alguna actividad lucrativa o no, siempre que sea lícita y honesta, con autorización para permanecer en el país hasta por seis meses, prorrogables por una sola vez por igual temporalidad, excepto si durante su estancia vive de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior, o para actividades científicas, técnicas, artísticas, deportivas o similares, en que podrán concederse dos prórrogas más.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
 
-IV.- CONSEJERO.- Para asistir a asambleas o sesiones de consejo de administración de empresas o para prestarles asesoría y realizar temporalmente funciones propias de sus facultades. Esta autorización será hasta por seis meses, improrrogable, con permiso de entradas y salidas múltiples, y la estancia dentro del país en cada ocasión sólo podrá ser hasta de treinta días improrrogables.
+III.- VISITANTES.- Para dedicarse al ejercicio de alguna actividad lucrativa o no, siempre que sea lícita y honesta, con autorización para permanecer en el país hasta por un año. Cuando el extranjero visitante, durante su estancia viva de sus recursos traídos del extranjero, de las rentas que éstos produzcan o de cualquier ingreso proveniente del exterior, o su internación tenga como propósito conocer alternativas de inversión o para realizar éstas, o se dedique a actividades científicas, técnicas, de asesoría, artísticas, deportivas o similares, o para ocupar cargos de confianza, podrán concederse hasta cuatro prórrogas más por igual temporalidad cada una, con entradas y salidas múltiples.
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
+
+IV.- CONSEJERO.- Para asistir a asambleas y sesiones del consejo de Administración de empresas, con una temporalidad de un año, prorrogable hasta por cuatro veces más por igual temporalidad cada una, con entradas y salidas múltiples y en cada ocasión con estancias máximas de 30 días improrrogables dentro del país.
 
 V.- ASILADO POLITICO.- Para proteger su libertad o su vida de persecuciones políticas en su país de origen, autorizado por el tiempo que la Secretaría de Gobernación juzgue conveniente, atendiendo a las circunstancias que en cada caso concurran. Si el asilado político viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables, perderá su característica migratoria, y la misma Secretaría le podrá otorgar la calidad que juzgue conveniente para continuar su legal estancia en el país. Asimismo, si el asilado político se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Dependencia.
 
-VI.- ESTUDIANTE.- Para iniciar, completar o perfeccionar estudios en planteles educativos o instituciones oficiales o particulares incorporados o con autorización oficial, con prórrogas anuales y con autorización para permanecer en el país sólo el tiempo que duren sus estudios y el que sea necesario para obtener la documentación final escolar respectiva, pudiendo ausentarse del país, cada año, hasta por 120 días en total.
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1990)</small>
 
-VII.- VISITANTE DISTINGUIDO.- En casos especiales, de manera excepcional, podrán otorgarse permisos de cortesía para internarse y residir en el país, hasta por seis meses, a investigadores, científicos o humanistas de prestigio internacional, periodistas o a otras personas prominentes. La Secretaría de Gobernación podrá renovar estos permisos cuando lo estime pertinente.
+VI.- REFUGIADO.- Para proteger su vida, seguridad o libertad cuando hayan sido amenazadas por violencia generalizada, la agresión extranjera, los conflictos internos, la violación masiva de derechos humanos u otras circunstancias que hayan perturbado gravemente el orden público en su país de origen, que lo hayan obligado a huir a otro país. No quedan comprendidos en la presente característica migratoria aquellas personas que son objeto de persecución política prevista en la fracción anterior. La Secretaría de Gobernación renovará su permiso de estancia en el país, cuantas veces lo estime necesario. Si el refugiado viola las leyes nacionales, sin perjuicio de las sanciones que por ello le sean aplicables perderá su característica migratoria y la misma Secretaría le podrá otorgar la calidad que juzgue procedente para continuar su legal estancia en el país. Asimismo, si el refugiado se ausenta del país, perderá todo derecho a regresar en esta calidad migratoria, salvo que haya salido con permiso de la propia Secretaría. El refugiado no podrá ser devuelto a su país de origen, ni enviado a ningún otro, en donde su vida, libertad o seguridad se vean amenazadas.
 
-VIII.- VISITANTES LOCALES.- Las autoridades de Migración podrán autorizar a los extranjeros a que visiten puertos marítimos o ciudades fronterizas sin que su permanencia exceda de tres días.
+La Secretaría de Gobernación podrá dispensar la sanción a que se hubiere hecho acreedor por su internación ilegal al país, al extranjero a quien se otorgue esta característica migratoria, atendiendo al sentido humanitario y de protección que orienta la institución del refugiado.
 
-IX.- VISITANTE PROVISIONAL.- La Secretaría de Gobernación podrá autorizar como excepción hasta por 30 días, el desembarco provisional de extranjeros que lleguen a puertos de mar o aeropuertos con servicio internacional, cuya documentación carezca de algún requisito secundario. En estos casos deberán constituir depósito o fianza que garantice su regreso al país de procedencia, de su nacionalidad o de su origen, si no cumplen el requisito en el plazo concedido.
+VII.- ESTUDIANTE.- Para iniciar, completar o perfeccionar estudios en planteles educativos o instituciones oficiales o particulares incorporados o con autorización oficial, con prórrogas anuales y con autorización para permanecer en el país sólo el tiempo que duren sus estudios y el que sea necesario para obtener la documentación final escolar respectiva, pudiendo ausentarse del país, cada año, hasta por 120 días en total.
+
+VIII.- VISITANTE DISTINGUIDO.- En casos especiales, de manera excepcional, podrán otorgarse permisos de cortesía para internarse y residir en el país, hasta por seis meses, a investigadores, científicos o humanistas de prestigio internacional, periodistas o a otras personas prominentes. La Secretaría de Gobernación podrá renovar estos permisos cuando lo estime pertinente.
+
+IX.- VISITANTES LOCALES.- Las autoridades de Migración podrán autorizar a los extranjeros a que visiten puertos marítimos o ciudades fronterizas sin que su permanencia exceda de tres días.
+
+X.- VISITANTE PROVISIONAL.- La Secretaría de Gobernación podrá autorizar como excepción hasta por 30 días, el desembarco provisional de extranjeros que lleguen a puertos de mar o aeropuertos con servicio internacional, cuya documentación carezca de algún requisito secundario. En estos casos deberán constituir depósito o fianza que garantice su regreso al país de procedencia, de su nacionalidad o de su origen, si no cumplen el requisito en el plazo concedido.
 
 ###### ARTICULO 43.
 
@@ -336,23 +352,33 @@ Los inmigrantes se aceptarán hasta por cinco años y tienen obligación de comp
 
 En caso de que durante la temporalidad concedida dejare de satisfacerse la condición a que está supeditada la estancia en el país de un Inmigrante, éste deberá comunicarlo a la Secretaría de Gobernación dentro de los quince días siguientes, a fin de que se proceda a la cancelación de su documentación migratoria y se le señale plazo para abandonar el país o se le conceda término para su regularización, a juicio de la propia Secretaría.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 47.
 
-El Inmigrante que permanezca fuera del país dieciocho meses en forma continua, o con intermitencias, perderá tal calidad, en la inteligencia de que durante los dos primeros años de su internación no podrá ausentarse de la República por más de noventa días cada año, salvo lo que determine en casos excepcionales la Secretaría de Gobernación.
-
-La propia Secretaría podrá autorizar la salida del país por la temporalidad y veces que juzgue convenientes, sin la aplicación de lo dispuesto en éste artículo y el 56, a los inmigrantes que hayan solicitado su calidad de Inmigrado, mientras esta no se resuelva.
+El inmigrante que permanezca fuera del país más de dieciocho meses en forma continua o con intermitencias, no podrá solicitar el cambio de su calidad a Inmigrado, en tanto no transcurra de nuevo íntegramente el plazo que exige el artículo 53. Cuando el Inmigrante permanezca más de dos años fuera del país, perderá su calidad migratoria, salvo en los casos excepcionales que determine la Secretaría de Gobernación.
 
 ###### ARTICULO 48.
 
 Las características de Inmigrante son:
 
-I.- RENTISTA.- Para vivir de sus recursos traídos del extranjero; de los intereses que le produzca la inversión de su capital en certificados, títulos y bonos del Estado o de las instituciones nacionales de crédito u otras que determine la Secretaría de Gobernación o de cualquier ingreso permanente que proceda del exterior. La Secretaría de Gobernación podrá autorizar a los rentistas para que presten servicios como profesores, científicos, investigadores científicos o técnicos, cuando estime que dichas actividades resulten benéficas para el país;
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
 
-II.- INVERSIONISTAS.- Para invertir su capital en la industria, de conformidad con las leyes nacionales, y siempre que la inversión contribuya al desarrollo económico y social del país.
+I.- RENTISTA.- Para vivir de sus recursos traídos del extranjero; de los intereses que le produzca la inversión de su capital en certificados, títulos y bonos del Estado o de las instituciones nacionales de crédito u otras que determine la Secretaría de Gobernación o de cualquier ingreso permanente que proceda del exterior. El monto mínimo requerido será el que se fije en el Reglamento de esta Ley. La Secretaría de Gobernación podrá autorizar a los rentistas para que presten servicios como profesores, científicos, investigadores científicos o técnicos, cuando estime que dichas actividades resulten benéficas para el país.
 
-III.- PROFESIONAL.- Para ejercer una profesión sólo en casos excepcionales y previo registro del título ante la Secretaría de Educación Pública.
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
 
-IV.- CARGOS DE CONFIANZA.- Para asumir cargos de dirección u otros de absoluta confianza en empresas o instituciones establecidas en (sic) República, siempre que a juicio de la Secretaría de Gobernación no haya duplicidad de cargos y que el servicio de que se trate amerite la internación.
+II.- INVERSIONISTAS.- Para invertir su capital en la industria, comercio y servicios, de conformidad con las leyes nacionales, siempre que contribuya al desarrollo económico y social del país y que se mantenga durante el tiempo de residencia del extranjero el monto mínimo que fije el reglamento de esta ley.
+
+Para conservar esta característica el inversionista deberá acreditar que mantiene el monto mínimo de inversión a que se refiere el párrafo anterior.
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
+
+III.- PROFESIONAL.- Para ejercer una profesión. En el caso de que se trate de profesiones que requieran título para su ejercicio se deberá cumplir con lo ordenado por las disposiciones reglamentarias del artículo 5o. Constitucional en materia de profesiones.
+
+> <small>(REFORMADA, D.O.F. 17 DE JULIO DE 1990)</small>
+
+IV.- CARGOS DE CONFIANZA.- Para asumir cargos de dirección, de administrador único u otros de absoluta confianza en empresas o instituciones establecidas en la República, siempre que a juicio de la Secretaría de Gobernación no haya duplicidad de cargos y que el servicio de que se trate amerite la internación al país.
 
 V.- CIENTIFICO.- Para dirigir o realizar investigaciones científicas, para difundir sus conocimientos científicos, preparar investigadores o realizar trabajos docentes, cuando estas actividades sean realizadas en interés del desarrollo nacional a juicio de la Secretaría de Gobernación, tomando en consideración la información general que al respecto le proporcionen las instituciones que estime conveniente consultar.
 
@@ -361,6 +387,10 @@ VI.- TECNICO.- Para realizar investigación aplicada dentro de la producción o 
 VII.- FAMILIARES.- Para vivir bajo la dependencia económica del cónyuge o de un pariente consanguíneo, inmigrante, inmigrado o mexicano en línea recta sin límite de grado o transversal hasta el segundo.
 
 Los hijos y hermanos de los solicitantes sólo podrán admitirse dentro de esta característica cuando sean menores de edad, salvo que tengan impedimento debidamente comprobado para trabajar o estén estudiando en forma estable.
+
+> <small>(ADICIONADA, D.O.F. 17 DE JULIO DE 1990)</small>
+
+VIII.- ARTISTAS Y DEPORTISTAS.- Para realizar actividades artísticas, deportivas o análogas, siempre que a juicio de la Secretaría dichas actividades resulten benéficas para el país.
 
 ###### ARTICULO 49.
 
@@ -392,9 +422,11 @@ Para obtener la calidad de Inmigrado se requiere declaración expresa de la Secr
 
 El Inmigrado podrá dedicarse a cualquier actividad lícita, con las limitaciones que imponga la Secretaría de Gobernación, de acuerdo con el Reglamento y con las demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 56.
 
-El Inmigrado podrá salir del país y entrar al mismo libremente; pero si permaneciere en el extranjero dos años consecutivos, perderá su calidad migratoria, lo mismo que si en un lapso de diez años estuviere ausente más de cinco. Los períodos de diez años se computarán a partir de la fecha de la declaratoria de Inmigrado, en la forma y términos que establezca el Reglamento.
+El inmigrado podrá salir y entrar al país libremente, pero si permanece en el extranjero más de tres años consecutivos, perderá su calidad migratoria, lo mismo que si en un lapso de diez años estuviere ausente más de cinco. Los periodos de diez años se computarán a partir de la fecha de la declaratoria de Inmigrado en la forma y términos ques (sic) establezca el Reglamento.
 
 ###### ARTICULO 57.
 
@@ -434,25 +466,35 @@ V. Presentar certificado oficial de sus antecedentes, expedido por la autoridad 
 
 VI. Llenar los requisitos que se señalen en sus permisos de internación.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 63.
 
-Los extranjeros que se internen al país en calidad de Inmigrantes y los No Inmigrantes a que se refieren las fracciones III- por lo que respecta a técnicos y científicos-, V y VI del artículo 42 de esta Ley, están obligados a inscribirse en el Registro Nacional de Extranjeros dentro de los treinta días siguientes a la fecha de su internación.
+Los extranjeros que se internen al país en calidad de Inmigrantes y los No Inmigrantes a que se refieren las fracciones III -por lo que respecta a científicos-, V, VI y VII, del artículo 42 de esta Ley, están obligados a inscribirse en el Registro Nacional de Extranjeros dentro de los treinta días siguientes a la fecha de su internación.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 64.
 
-Los extranjeros, en el momento de registrarse, comprobarán su legal internación y permanencia y las actividades a que se dediquen; y cumplirán los demás requisitos que señalen esta Ley y sus reglamentos.
+Los extranjeros, cuando sean requeridos por la Secretaría de Gobernación, deberán comprobar su legal internación y permanencia en el país; y cumplirán los demás requisitos que señalen esta Ley y sus Reglamentos.
 
 ###### ARTICULO 65.
 
 Los extranjeros registrados, están obligados a informar al Registro Nacional de Extranjeros, de sus cambios de calidad o característica migratoria, nacionalidad, estado civil, domicilio y actividades a que se dediquen, dentro de los treinta días posteriores al cambio.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 66.
 
-Los extranjeros, por sí o mediante apoderado, sólo podrán celebrar actos relativos a la adquisición de bienes inmuebles, derechos reales sobre los mismos, acciones o partes sociales de empresas dedicadas en cualquier forma al comercio o tenencia de dichos bienes, previo permiso de la Secretaría de Gobernación, sin perjuicio de las autorizaciones que deban recabar conforme a otras disposiciones legales.
+Los extranjeros independientemente de su calidad migratoria, por sí o mediante apoderado podrán, sin que para ello requieran permiso de la Secretaría de Gobernación, adquirir valores de renta fija o variable y realizar depósitos bancarios, así como adquirir bienes inmuebles urbanos y derechos reales sobre los mismos, con las restricciones señaladas en el artículo 27 Constitucional, en la Ley para promover la Inversión Mexicana y Regular la Inversión Extranjera y demás leyes aplicables.
+
+El extranjero transmigrante, por su propia característica migratoria, en ningún caso estará facultado para adquirir los bienes a que se refiere este mismo precepto legal.
+
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
 
 ###### ARTICULO 67.
 
-Las autoridades de la República, sean federales, locales o municipales, así como los notarios públicos, los que substituyan a éstos o hagan sus veces, los contadores públicos y corredores de comercio, están obligados a exigir a los extranjeros que tramiten ante ellos asuntos de su competencia, que previamente les comprueben su legal estancia en el país y que sus condiciones y calidad migratoria les permiten realizar el acto o contrato de que se trate, o en su defecto, el permiso especial de la Secretaría de Gobernación y asentar en el instrumento respectivo tal comprobación. Excepcionalmente, en caso de urgencia, no se exigirá la comprobación mencionada en el otorgamiento de poderes o testamentos. En todos los casos, darán aviso a la expresada Secretaría en un plazo no mayor de quince días, a partir del acto o contrato celebrado ante ellas.
+Las autoridades de la República, sean federales, locales o municipales, así como los notarios públicos, los que sustituyan a éstos o hagan sus veces y los corredores de comercio, están obligados a exigir a los extranjeros que tramiten ante ellos asuntos de su competencia, que previamente les comprueben su legal estancia en el país, y que en los casos que establezca el Reglamento, acrediten que su condición y calidad migratoria les permiten realizar el acto o contrato de que se trate, o en su defecto, el permiso especial de la Secretaría de Gobernación. En los casos que señale el Reglamento, darán aviso a la expresada Secretaría en un plazo no mayor de quince días, a partir del acto o contrato celebrado ante ellas.
 
 ###### ARTICULO 68.
 
@@ -664,9 +706,11 @@ Al extranjero que para entrar al país o que ya internado, proporcione a las aut
 
 Al extranjero que incurra en las hipótesis previstas en los artículos 95, 97, 98, 99, 100, 101, 102, 103, 104, 106, 107 y 118 de esta Ley, se le cancelará la calidad migratoria y será expulsado del país sin perjuicio de que se le apliquen las penas establecidas en dichos preceptos.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 106.
 
-El que haya sido expulsado, solamente podrá ser readmitido por acuerdo expreso del Secretario, del Subsecretario o del Oficial Mayor de la Secretaría de Gobernación.
+El que haya sido expulsado, solamente podrá ser readmitido por acuerdo expreso del Secretario o del Subsecretario de la Secretaría de Gobernación.
 
 ###### ARTICULO 107.
 
@@ -714,11 +758,15 @@ La persona que visite un transporte marítimo extranjero, sin permiso de las aut
 
 La misma sanción se impondrá a la persona que autorice sin facultades para ello, la visita a que se refiere el párrafo anterior.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 118.
 
-Se impondrá pena de dos a diez años de prisión y multa de diez mil a cincuenta mil pesos a la persona que por cuenta propia o ajena pretenda llevar o lleve nacionales mexicanos para trabajar en el extranjero, sin autorización previa de la Secretaría de Gobernación.
+Se impondrá pena de dos a diez años de prisión y multa hasta el equivalente a diez mil días de salario mínimo conforme al que esté vigente en el Distrito Federal, a quien por sí o por medio de otro u otros pretenda llevar o lleve nacionales mexicanos a internarse al extranjero en forma ilegal.
 
-Igual pena se impondrá al que sin permiso legal de autoridad competente, por cuenta propia o ajena, pretenda introducir o introduzca ilegalmente a uno o varios extranjeros a territorio mexicano o a otro país.
+Igual pena se impondrá a quien por sí o por medio de otro u otros, sin permiso legal de autoridad competente, pretenda introducir o introduzca ilegalmente a uno o varios extranjeros a territorio mexicano o a otro país, o los albergue o transporte por el territorio nacional con el propósito de ocultarlos para evadir la revisión migratoria.
+
+A quien a sabiendas proporcione los medios, se preste o sirva para llevar a cabo las conductas descritas en los párrafos anteriores, se le impondrá pena de uno a cinco años de prisión y multa hasta el equivalente a cinco mil días de salario mínimo conforme al que esté vigente en el Distrito Federal.
 
 ###### ARTICULO 119.
 
@@ -728,9 +776,11 @@ Al funcionario judicial o administrativo que dé trámite al divorcio o nulidad 
 
 Toda infracción a la presente Ley o a sus reglamentos en materia migratoria, fuera de los casos señalados en este capítulo y de los que constituyan delitos de acuerdo con otras leyes, se sancionarán administrativamente con multa hasta de diez mil pesos, según la gravedad de las violaciones cometidas a juicio de la Secretaría de Gobernación o con arresto hasta por quince días, si el infractor no pagare la multa.
 
+> <small>(REFORMADO, D.O.F. 17 DE JULIO DE 1990)</small>
+
 ###### ARTICULO 121.
 
-Las sanciones administrativas a que esta Ley se refiere, se impondrán por acuerdo del Secretario, Subsecretario o del Oficial Mayor de la Secretaría de Gobernación, así como por los Directores Generales, Subdirectores Generales, Jefes y Subjefes de Departamento de la propia Secretaría, que tengan a su cargo o bajo sus órdenes servicios relacionados con las materias de la presente Ley.
+Las sanciones administrativas a que esta Ley se refiere, se impondrán por las unidades administrativas que se señalan en el Reglamento Interior de la Secretaría de Gobernación.
 
 ###### ARTICULO 122.
 
@@ -807,3 +857,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 La presente Ley entrará en vigor el día 1o. de enero de 1982.
 
 ARTICULO TRIGESIMO.- Se derogan los artículos 70 de la Ley General de Población; ...
+
+D.O.F. 17 DE JULIO DE 1990.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Para la fijación del monto de las sanciones pecuniarias que resulten aplicables según el Capítulo VII de la Ley General de Población, los importes establecidos se convertirán a días de salario mínimo general vigente en el Distrito Federal, a la fecha en que se cometa el delito o la infracción, a razón de un día por cada diez pesos, a excepción hecha de las sanciones previstas en el artículo 118, que serán las que han quedado señaladas en el presente Decreto.
