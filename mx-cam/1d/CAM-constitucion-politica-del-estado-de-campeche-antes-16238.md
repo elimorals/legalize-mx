@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "1956-03-27"
+last_updated: "1956-05-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE, QUE REFORMA LA DE 30 DE JUNIO DE 1,861
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 1956.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MAYO DE 1956.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -117,11 +117,13 @@ De su elección e instalación.
 
 El Congreso del Estado se compondrá de representantes electos directamente en su totalidad cada tres años por ciudadanos campechanos y en los términos que disponga la Ley Electoral del Estado.
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 1956)</small>
+> <small>N. DE E. POR DECRETO DE 3 MAYO DE 1956 SE DEROGA LA REFORMA PUBLICADA EL 27 DE MARZO DE 1956.</small>
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1943)</small>
 
 ###### Art. 19.
 
-Se eligirá (sic) un Diputado propietario por cada 20,000 habitantes. Los Municipios libres que en toda su circunscripción no alcancen esta última cifra, eligirán (sic) sin embargo un Diputado propietario y un Suplente, pero siempre que, cuenten cuando menos con 6,000 habitantes, pues en caso contrario quedarán unidos para los efectos de la elección al Municipio inmediatamente colindante que tenga menos número de habitantes.
+Se elegirá un Diputado Propietario y un Suplente por cada 20,000 habitantes o por cada fracción que pase de 10,000. Los Municipios Libres que en toda su circunscripción no alcancen esta última cifra, elegirán sin embargo un Diputado Propietario y un Suplente, pero siempre que cuenten cuando menos con 4,500 habitantes, pues, en caso contrario, quedarán unidos para los efectos de la elección, al Municipio inmediatamente colindante que tenga menos número de habitantes.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1933)</small>
 
@@ -657,7 +659,7 @@ Los Municipios Libres que integran el Estado, se regirán por la Ley Orgánica d
 
 (REFORMADA, P.O. 29 DE MAYO DE 1954) (REPUBLICADA, P.O. 3 DE JUNIO DE 1954)
 
-I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado;
+I. Cada Municipio será administrado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre ésta y el Gobierno del Estado;
 
 II. Cuando su extensión o densidad de población lo exija, los Municipios podrán subdividirse en Secciones Municipales y Comisarías. La Ley Orgánica establecerá las relaciones y dependencias que deberán existir entre unas y otras;
 
@@ -1070,3 +1072,43 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 27 DE MARZO DE 1956.
 
 UNICO.- Este decreto entrará en vigor al día siguiente de su publicación en "El Espíritu Público", órgano oficial del Gobierno del Estado.
+
+P.O. 3 DE MAYO DE 1956.
+
+POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS PRIMERO, SEGUNDO Y TERCERO DEL DECRETO.
+
+Artículo Primero.- Para las elecciones de Diputados al H. Congreso del Estado, de conformidad con lo dispuesto por el artículo 19 de la Constitución Política del Estado, reformado por Decreto de 28 de marzo del año en curso, queda sin efecto dicha modificación, estableciéndose definitivamente dividido el Territorio del Estado, en ocho distritos electorales, cuyas demarcaciones y cabeceras se expresan a continuación:
+
+El Municipio Libre de Campeche comprende dos distritos electorales: el primero la Ciudad de Campeche, con los barrios de el Centro, San Román, Santa Ana, San Francisco, la Ermita, Santa Lucía y las colonias de nueva formación y al segundo distrito del Municipio Libre de Campeche; todas las Secciones Municipales, Comisarías y predios rústicos en los mismos términos expresados en el Decreto de referencia.
+
+Tercer Distrito Electoral
+
+Municipio Libre del Carmen, con las Secciones Municipales, Comisarías y predios rústicos, que se establecieron en el relacionado Decreto.
+
+Cuarto Distrito Electoral
+
+Municipio Libre de Calkiní, con las mismas comprensiones determinadas en el Decreto relacionado.
+
+Quinto Distrito Electoral
+
+El Municipio Libre de Champotón, que abarca las mismas Comisarías, Secciones Municipales y predios rústicos también especificados en el Decreto.
+
+Sexto Distrito Electoral
+
+Municipio Libre de Palizada, al que queda comprendida la Cabecera y predios rústicos que se señalan en el mismo Decreto.
+
+Séptimo Distrito Electoral
+
+Municipio Libre de Hopelchén, que comprende la Cabecera, Secciones Municipales y Comisarías también determinadas en el repetido Decreto.
+
+Octavo Distrito Electoral
+
+Municipios Libres de Hecelchakán y Tenabo.
+
+Comprende la Cabecera de Hecelchakán, Sección Municipal de Pomuch, Comisarías y predios rústicos, así como la Cabecera del pueblo de Tenabo, Secciones Municipales y predios rústicos que quedaron establecidos en el Decreto tantas veces repetido.
+
+Artículo Segundo.- Serán Cabeceras de los ocho Distritos Electorales q (sic) se enumeran en el artículo primero de este Decreto: La Ciudad de Campeche para el primero y segundo Distritos, la Ciudad del Carmen para el tercer Distrito, la Ciudad de Calkiní para el cuarto Distrito, la Villa de Campotón para el quinto, la Villa de Palizada para el sexto, la Villa de Hopelchén para el séptimo y la Villa de Hecelchakán para el octavo Distrito.
+
+Artículo Tercero.- En cumplimiento de lo dispuesto por el artículo 6o., reformado de la Ley Electoral del Estado, cada Ayuntamiento procederá, en atención a la división que en ocho Distritos Electorales se hace en el artículo primero del presente Decreto, a dividir sus respectivas municipalidades en secciones numeradas, progresivamente, en los términos que dispone dicho artículo 6o.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA ESTADO DE CAMPECHE.
