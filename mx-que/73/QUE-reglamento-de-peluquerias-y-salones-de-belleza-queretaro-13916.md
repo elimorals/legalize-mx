@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-peluquerias-y-salones-de-belleza-queretaro-13916"
 country: "mx"
 rank: "reglamento"
 publication_date: "1939-10-12"
-last_updated: "1939-10-12"
+last_updated: "1943-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 REGLAMENTO DE PELUQUERIAS Y SALONES DE BELLEZA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1943.
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el jueves 12 de octubre de 1939.
 
@@ -47,43 +47,55 @@ TERCERA: El resto de la población.
 
 ###### ARTICULO 3.
 
-Los dueños de las Peluquerías y Salones de Belleza, para el cobro de servicios observaran la siguiente TARIFA.
+Los dueños de las Peluquerías y Salones de Belleza, para el cobro de servicios observaran la siguiente
 
-1ª. 2ª. 3ª.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1943)</small>
 
-Corte de Pelo $ 0.50 $ 0.30 $ 0.20
+TARIFA.
 
-Rasura 0.50 0.30 0.20
+Periquerías (categoría primera). Corte de pelo $0.70
 
-Corte de pelo especial 0.70 0.50 0.30
+Peluquerías (categoría primera). Corte de pelo Esp 0.90
 
-Corte de pelo para Damas 0.50 0.40 0.30
+Peluquerías (categoría primera). Razura 0.50
 
-Masaje 0.80 0.60 0.40
+Las anteriores a domicilio, un servicio 1.50
 
-Loción Tipo ordinario 0.40 0.30 0.20
+dos servicios 2.50
 
-Niños menores de 5 años
+Peluquerías (categoría segunda). Corte de pelo 0.50
 
-los sábados 0.75 0.50 0.30
+Peluquerías (categoría segunda). Corte de pelo Esp. 0.70
 
-Servicio a Domicilio, DOBLE PRECIO.
+Peluquerías (categoría segunda). Razura 0.35
 
-TARIFA PARA SALONES DE BELLEZA.
+Las anteriores a domicilio, un servicio 1.25
 
-Permanente Mínimo $3.50 Máximo $6.00
+dos servicios 2.00
 
-Peinado Marcel 1.00
+Peluquerías de Tercera. Corte de pelo 0.30
 
-Peinado al Agua 0.60
+Peluquerías de Tercera. Corte de pelo Esp. 0.50
 
-Corte de Pelo 0.50
+Periquerías de Tercera. Razura 0.25
 
-Manícure 0.60
+a domicilio un servicio 0.80
 
-Masaje 0.80
+dos servicios 1.30
 
-La tarifa que antecede, será colocada en el interior de los establecimientos en lugar visible.
+SALONES DE BELLEZA
+
+Peinado al permanente de $ 4.00, $ 5.00 y $ 6.00
+
+Peinado al agua 0.60
+
+Por esponjar el pelo 0.25
+
+PEINADO AL MARCEL 0.75
+
+Manicure 0.90
+
+Corte de Pelo 0.60
 
 ###### ARTICULO 4.
 
@@ -158,3 +170,9 @@ Noradino Rubio.
 El Secretario General de Gaviemos,
 
 Lic. Miguel Patiño.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 30 DE DICIEMBRE DE 1943.
+
+UNICO.- Este Decreto empezará a surtir sus efectos a partir del día de su publicación, en el periódico Oficial del Estado.
