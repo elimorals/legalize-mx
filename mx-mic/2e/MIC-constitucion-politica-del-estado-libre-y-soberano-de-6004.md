@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "1998-03-16"
+last_updated: "1998-12-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MIC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO
 
-CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO.
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACAN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 1998.
-
-[N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE MARZO DE 1998.]
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE DICIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -443,23 +441,25 @@ También incurrirán en responsabilidad, que la misma ley sancionará, los parti
 
 En el Congreso del Estado, las vacantes de sus miembros electos por el principio de representación proporcional, deberán ser cubiertas por aquellos candidatos del mismo partido que sigan en el orden de la lista de candidatos respectiva, después de habérseles asignado los diputados que le hubieren correspondido.
 
-> <small>(REFORMADO, P.O. 27 DE ABRIL DE 1995)</small>
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
 ###### Artículo 31.
 
-El Congreso tendrá cada año dos períodos de sesiones ordinarias. El primero se inicia el quince de diciembre de cada año y terminará el quince de marzo del año siguiente; el segundo dará comienzo el quince de junio y terminará el quince de septiembre del mismo año.
+El Congreso tendrá cada año dos períodos ordinarios de sesiones. El primero se inicia el 15 de Diciembre de cada año y terminará el 15 de Marzo del año siguiente; el segundo dará comienzo el 15 de Junio y terminará el 15 de Septiembre del mismo año.
 
-En el Primer período de sesiones el Congreso se ocupará de los siguientes asuntos:
+I. En el primer período de sesiones el Congreso se ocupará de los siguientes asuntos:
 
-I.- Examinar, discutir y aprobar el presupuesto del año fiscal siguiente y decretar los impuestos necesarios para cubrirlo
+a) Examinar, discutir y aprobar, a más tardar el 31 de Diciembre, el Presupuesto de Egresos del año fiscal siguiente, decretando las contribuciones necesarias para cubrirlo. En el supuesto de que la Ley de Ingresos y el Presupuesto de Egresos no sean aprobados por el Congreso durante el término antes señalado, en el nuevo ejercicio fiscal se continuarán aplicando los ordenamientos vigentes en el año inmediato anterior, mientras se lleva a cabo la aprobación respectiva; y,
 
-II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+b) Estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten durante este periodo, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
 
-En el segundo período de sesiones el Congreso se ocupará de los siguientes asuntos:
+II. En el segundo período de sesiones el Congreso se ocupará de los siguientes asuntos:
 
-I.- Revisar la cuenta pública del año anterior, que deberá enviarle al Ejecutivo dentro de los diez primeros días de la apertura de sesiones. La revisión no se limitará a investigar si las cantidades gastadas están o no de acuerdo con las partidas respectivas del presupuesto, si no que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar; y
+a) Revisar y determinar la Cuenta Pública de la Hacienda Estatal correspondiente al año anterior, así como la aplicación de los recursos públicos asignados a las entidades paraestatales y a otras que dispongan de autonomía.
 
-II.- Estudiar, discutir y votar las iniciativas de Ley que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
+La revisión no se limitará a investigar si las cantidades gastadas estan o no de acuerdo con las partidas respectivas del presupuesto, si no que se extenderá al examen de la exactitud y justificación de los gastos hechos y a las responsabilidades a que hubiere lugar y evaluar el cumplimiento de la gestión administrativa, en los términos de la Ley; y,
+
+b) Estudiar, discutir y votar las iniciativas de leyes y decretos que se presenten durante este período, y resolver los demás asuntos que le corresponda, conforme a esta Constitución.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -615,11 +615,13 @@ VIII.- Dictar normas para la administración, conservación y enajenación de lo
 
 IX.- Expedir leyes en materia de Hacienda, tanto en lo relativo al Estado como al Municipio. Estas leyes en ningún caso podrán ordenar que el Estado disponga de los fondos municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 1989)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
-X.- Aprobar las leyes de ingresos de los Ayuntamientos y revisar sus cuentas públicas.
+X.- Aprobar las Ley de Ingresos de los Municipios, así como, revisar y dictaminar las cuentas públicas de las haciendas municipales;
 
-XI.- Legislar en materia de ingresos y egresos del Estado;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
+XI.- Legislar en materia de ingresos del Estado, y analizar y discutir anualmente el Presupuesto de Egresos; así como, revisar y dictaminar la Cuenta Pública de la Hacienda Estatal. De igual manera, revisar y dictaminar sobre la aplicación de los recursos otorgados a las entidades paraestatales y otros que dispongan de autonomía;
 
 XII.- Dar las bases para que el Ejecutivo celebre empréstitos, con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución General de la República; aprobar los contratos respectivos y reconocer y autorizar el pago de los adeudos que contraiga el Estado;
 
@@ -913,9 +915,11 @@ VI.- Expedir los reglamentos interiores de las oficinas a su cargo;
 
 VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
 
-VIII.- Presentar cada año al Congreso, durante los primeros diez días del segundo período ordinario de sesiones, la cuenta de gastos del ejercicio fiscal próximo anterior, y antes de que concluya el año, los proyectos de presupuestos de ingresos y egresos para el año siguiente;
+VIII.- Presentar cada año al Congreso, a más tardar el 31 de Marzo, la cuenta pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior y, a más tardar el 15 de Diciembre, las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente.
+
+El plazo para la presentación de la Cuenta Pública podrá ampliar hasta treinta días más;
 
 > <small>(REFORMADA, P.O. 16 DE MARZO DE 1998)</small>
 
@@ -1759,7 +1763,9 @@ c) Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
 No se establecerán exenciones o subsidios respecto de los incisos a) y c) a favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, del Estado y de los municipios estarán exentos de dichas contribuciones.
 
-III. Aprobar sus presupuestos de egresos con base en sus ingresos disponibles y de conformidad con lo dispuesto en la Ley. El Congreso del Estado aprobará las leyes de ingresos de los ayuntamientos y revisará sus cuentas públicas;
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 1998)</small>
+
+III. Aprobar sus presupuestos de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley así como enviar al Congreso del Estado dentro de los sesenta días posteriores al cierre del ejercicio anual correspondiente, la Cuenta Pública de las haciendas municipales, sin perjuicio del envío de las cuentas del mes que permita avanzar en su revisión;
 
 IV. Expedir, de acuerdo con las bases normativas establecidas por el Congreso del estado, los reglamentos y bandos para la administración y funcionamiento de los servicios públicos dentro de sus respectivas jurisdicciones;
 
@@ -2544,6 +2550,12 @@ DECRETO No. 131
 ###### ARTICULO UNICO.
 
 El presente decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE DICIEMBRE DE 1998.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO PRIMERO.
 
