@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-7835"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-08"
-last_updated: "1996-04-03"
+last_updated: "1998-06-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7835&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE ABRIL DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JUNIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 8 de febrero de 1995.
 
@@ -47,11 +47,11 @@ Se aprueba la LEY DE SALUD DEL ESTADO DE TABASCO, para quedar como sigue:
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 1.
 
-La presente Ley es de orden público e interés social, tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud, proporcionados por el Estado y la concurrencia de éste y sus municipios en materia de salubridad local, en términos del artículo 4º. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud; es de aplicación en el Estado de Tabasco.
-
-Para los efectos de esta Ley cuando se hable de Secretaría de Salud (SSA) se referirá a nivel federal, y cuando se hable de Secretaría de Salud Pública (SSP) al nivel estatal.
+La presente Ley se aplicará en el Estado de Tabasco y tiene por objeto la protección de la salud, establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y los Municipios, en materia de salubridad local, conforme a lo dispuesto por el artículo 4º de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
 
 ###### Art. 2.
 
@@ -77,13 +77,17 @@ Son autoridades sanitarias estatales:
 
 I.- El gobernador del Estado;
 
-II.- La Secretaría de Salud Pública del Gobierno del Estado de Tabasco, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+II.- La Secretaría de Salud del Gobierno del Estado de Tabasco, y
 
 III.- Los Ayuntamientos en el ámbito de su respectiva competencia.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 4.
 
-Corresponde al ejecutivo del Estado de Tabasco por conducto de la Secretaría de Salud Pública:
+Corresponde al Ejecutivo del Estado de Tabasco, por conducto de la Secretaría de Salud estatal:
 
 A) En materia de salubridad general:
 
@@ -193,7 +197,11 @@ VI.- Impulsar en el ámbito estatal un sistema racional de administración y des
 
 VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección.
 
-Art.- 7.- La coordinación del sistema estatal de salud estará a cargo de la Secretaría de Salud Pública, del Gobierno del Estado correspondiéndole lo siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
+###### Art. 7.
+
+La coordinación del sistema estatal de salud estará a cargo de la Secretaría de Salud del Gobierno del Estado, correspondiéndole lo siguiente:
 
 I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones legales aplicables y de conformidad con las políticas del sistema nacional de salud y con lo dispuesto por el ejecutivo estatal.
 
@@ -233,21 +241,29 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Las demás atribuciones, afines a las anteriores, que se requieren para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 8.
 
-La Secretaría de Salud Pública del Gobierno del Estado promoverá la participación en el sistema estatal de salud, de los prestadores de servicios de la salud de los sectores públicos, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
+La Secretaría de Salud del Gobierno del Estado, promoverá la participación en el sistema estatal de salud, de los prestadores de servicios de la salud de los sectores públicos, social y privado, así como de sus trabajadores y de los usuarios de los mismos, en términos de las disposiciones que al efecto se expidan.
 
 Asimismo fomentará la coordinación con los proveedores de insumos para la salud, a fin de racionalizar y procurar la disponibilidad de estos últimos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 9.
 
-La concertación de acciones entre la Secretaría de Salud Pública del Gobierno del Estado y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
+La concertación de acciones entre la Secretaría de Salud del Gobierno del Estado y los integrantes de los sectores social y privado, se realizará mediante convenios y contratos, los cuales se ajustarán a las siguientes bases:
 
 I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado.
 
-II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud Pública del gobierno del Estado.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
 
-III.- Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud Pública del Gobierno del Estado, y
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud del Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+III. Especificación del carácter operativo de la concertación de acciones, con reserva de las funciones de autoridad de la Secretaría de Salud del Gobierno del Estado; y
 
 IV.- Expresión de las demás estipulaciones que en común acuerdo establezcan las partes.
 
@@ -261,9 +277,11 @@ El gobierno del Estado, con la participación que corresponda al comité de plan
 
 ### CAPITULO II. DISTRIBUCION DE COMPETENCIAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 12.
 
-Corresponde al Gobierno del Estado por conducto de la Secretaría de Salud Pública de la Entidad:
+Corresponde al Gobierno del Estado, por conducto de la Secretaría de Salud Estatal:
 
 A) En materia de Salubridad General:
 
@@ -274,6 +292,10 @@ II.- En Coordinación con el Ejecutivo Federal, organizar, operar, supervisar y 
 III.- Coordinar el sistema estatal de salud y coadyuvar en el funcionamiento y consolidación del sistema nacional de salud.
 
 IV.- Formular y desarrollar programas locales de salud en el marco del sistema estatal de salud y del Sistema Nacional de Salud, de acuerdo con los principios y objetivos de la planeación nacional.
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IV bis.- Proponer a las autoridades sanitarias el otorgamiento de reconocimientos y estímulos para las instituciones y personas que se distingan por sus méritos a favor de la salud.
 
 V.- Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General de Salud, la presente ley y demás disposiciones aplicables.
 
@@ -315,9 +337,11 @@ III.- Formular y desarrollar programas municipales de salud en el marco del sist
 
 IV.- Vigilar y hacer cumplir en la esfera de su competencia los ordenamientos legales correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 15.
 
-Se entenderá por normal el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud Pública del Gobierno del Estado, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
+Se entenderá por normal el conjunto de reglas científicas o tecnológicas de carácter obligatorio, emitidas por la Secretaría de Salud del Gobierno del Estado, que establezcan los requisitos que deben satisfacerse en el desarrollo de actividades en materia de salubridad local, con el objeto de uniformar principios, criterios, políticas y estrategias.
 
 > <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -495,9 +519,11 @@ El Gobierno del Estado y los Municipios podrán convenir con las instituciones f
 
 El Gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 42.
 
-La Secretaría de Salud Pública del Gobierno del Estado coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
+La Secretaría de Salud del Gobierno del Estado, coadyuvará con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, asimismo estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y PARTICIPACION DE LA COMUNIDAD
 
@@ -513,9 +539,11 @@ Los usuarios tendrán derecho a obtener prestaciones de salud oportuna y de cali
 
 Los usuarios deberán ajustarse a las reglamentaciones internas de las instituciones prestadoras de servicios de salud, y dispensar cuidado y diligencia en el uso y conservación de los materiales y equipos médicos que se pongan a su disposición.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 46.
 
-La Secretaría de Salud Pública del Gobierno del Estado establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados, en el Estado.
+La Secretaría de Salud del Gobierno del Estado, establecerá los procedimientos para regular las modalidades de acceso a los servicios públicos de la población en general y a los servicios sociales y privados, en el Estado.
 
 ###### Art. 47.
 
@@ -547,13 +575,19 @@ IV.- Notificación de la existencia de personas que requieran de servicios de sa
 
 V.- Formulación de sugerencias para mejorar los servicios de salud.
 
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+V bis.- Información a las autoridades sanitarias acerca de los efectos secundarios y reacciones adversas por el uso de medicamentos y otros insumos para la salud o por el uso, desvío o disposición final de sustancias tóxicas o peligrosas y sus desechos.
+
 VI.- Información a las autoridades competentes de las irregularidades o deficiencias que se adviertan en la prestación de servicios de salud, y
 
 VII. Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 52.
 
-La Secretaría de Salud Pública del Gobierno del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades y accidentes, de prevención de invalidez y de rehabilitación de inválidos.
+La Secretaría de Salud del Gobierno del Estado y demás instituciones de salud estatales, promoverán y apoyarán la constitución de grupos, asociaciones y demás instituciones que tengan por objeto participar organizadamente en los programas de promoción y mejoramiento de la salud individual y colectiva, así como en los de prevención de enfermedades y accidentes, de prevención de invalidez y de rehabilitación de inválidos.
 
 ###### Art. 53.
 
@@ -651,9 +685,11 @@ VI.- La recopilación, sistematización y actualización de la información nece
 
 Los comités de Salud a que se refiere el artículo 53 de esta ley, promoverán que en las poblaciones y comunidades semiurbanas y rurales del Estado se impartan pláticas de orientación en materia de planificación familiar y educación sexual, las instituciones de salud y educativas brindarán al efecto el apoyo necesario.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 65.
 
-El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones del Programa Nacional de Planificación familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
+El Gobierno del Estado, coadyuvará con la Secretaría de Salud federal, en las acciones del Programa Nacional de Planificación familiar que formule el Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
 ### CAPITULO VII. SALUD MENTAL
 
@@ -661,9 +697,11 @@ El Gobierno del Estado, coadyuvará con la Secretaría de Salud, en las acciones
 
 La prevención de las enfermedades mentales tienen carácter prioritario, se basará en el conocimiento de los factores que afectan a la salud mental, las causas de las alteraciones de la conducta, los métodos de prevención y control de las enfermedades mentales, así como otros aspectos relacionados con la salud mental.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 67.
 
-Para la promoción de la salud mental, la Secretaría de Salud Pública del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán:
+Para la promoción de la salud mental, la Secretaría de Salud del Gobierno del Estado y las instituciones de salud en coordinación con las autoridades competentes en cada materia, fomentarán y apoyarán.
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud.
 
@@ -687,9 +725,11 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 A tal efecto, podrán obtener orientación y asesoramiento en las instituciones públicas dedicadas a la atención de enfermos mentales.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 70.
 
-La Secretaría de Salud Pública del Gobierno del Estado conforme a las normas que establezca la Secretaría de Salud del Ejecutivo Federal, prestará atención a los enfermos mentales que se encuentran en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
+La Secretaría de Salud del Gobierno del Estado, conforme a las normas que establezca la Secretaría de Salud del Ejecutivo Federal, prestará atención a los enfermos mentales que se encuentran en reclusorios del Estado o en otras instituciones estatales no especializadas en salud mental.
 
 ## TITULO CUARTO
 
@@ -767,17 +807,21 @@ III.- Otorgar facilidades para la enseñanza y adiestramiento en servicio dentro
 
 IV.- Promover la participación voluntaria de profesionales, técnicos y auxiliares de la salud en actividades docentes o técnicas.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 82.
 
-La Secretaría de Salud Pública sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
+La Secretaría de Salud estatal, sugerirá a las autoridades e instituciones educativas, cuando éstas lo soliciten, criterios sobre:
 
 I.- Los requisitos para la apertura y funcionamiento de instituciones dedicadas a la formación de recursos humanos para la salud, en los diferentes niveles académicos y técnicos, y
 
 II.- El perfil de los profesionales para la salud en sus etapas de formación.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 83.
 
-La Secretaría de Salud Pública, en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
+La Secretaría de Salud del Estado, en coordinación con las autoridades federales competentes, impulsarán y fomentarán la formación, capacitación y actualización de los recursos humanos para los sistemas nacional y estatal de salud, de los programas educativos y de las necesidades de salud del Estado.
 
 ###### Art. 84.
 
@@ -807,9 +851,11 @@ V.- Al estudio de las técnicas y métodos que se recomienden o empleen para la 
 
 VI.- A la producción nacional de insumos para la salud.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 86.
 
-La Secretaría de Salud Pública, apoyará y estimulará la promoción, la constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
+La Secretaría de Salud estatal, apoyará y estimulará la promoción, la constitución y funcionamiento de establecimientos destinados a la investigación para la salud.
 
 ###### Art. 87.
 
@@ -829,9 +875,11 @@ VI.- El profesional responsable suspenderá la investigación en cualquier momen
 
 VII.- Las demás que establezcan esta ley y la correspondiente reglamentación.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 88.
 
-La Secretaría de Salud Pública, tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos. Así como vigilar que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos y la bioseguridad, encarga de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
+La Secretaría de Salud del Estado, tendrá a su cargo la coordinación de la investigación para la salud y el control de ésta en seres humanos. Así como vigilar que se establezcan en las instituciones de salud, comisiones de ética e investigación cuando ésta se realice en seres humanos y la bioseguridad, encarga de regular el uso de radiaciones ionizantes o de técnicas de ingeniería genética.
 
 ###### Art. 89.
 
@@ -845,9 +893,11 @@ En cualquier tratamiento de una persona enferma, el médico podrá utilizar nuev
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 91.
 
-La Secretaría de Salud Pública, de conformidad con la Ley de Información Estadística y Geográfica, y los criterios de carácter general que emita el ejecutivo federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el Estado y evolución de la salud pública de la entidad.
+La Secretaría de Salud estatal, de conformidad con la Ley de Información Estadística y Geográfica, y los criterios de carácter general que emita el ejecutivo federal, captará, producirá y procesará la información necesaria para el proceso de planeación, programación, presupuestación y control de los sistemas nacional y estatal de salud, así como sobre el Estado y evolución de la salud pública de la entidad.
 
 La información se referirá fundamentalmente, a los siguientes aspectos:
 
@@ -917,9 +967,11 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 Las autoridades sanitarias del Estado establecerán las normas, tomarán las medidas y realizarán las actividades a que se refiere esta ley tendientes a la protección de la salud humana ante los riesgos y daños derivados de las condiciones del ambiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 100.
 
-Corresponde a la Secretaría de Salud Pública:
+Corresponde a la Secretaría de Salud del Gobierno del Estado:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación del ambiente.
 
@@ -929,11 +981,19 @@ III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fue
 
 IV.- Promover y apoyar el saneamiento básico.
 
-V.- Asesorar en criterios de ingeniería sanitaria, obras públicas y privadas excepto lo relativo a los establecimientos de salud.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+V.- Asesorar en criterios de ingeniería sanitaria, obras públicas y privadas excepto lo relativo a los establecimientos de salud; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+VI.- Disponer y verificar que se cuente con información toxicológica actualizada, en la que se establezcan las medidas de respuesta al impacto en la salud, originado por el uso de sustancias tóxicas o peligrosas.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 101.
 
-La Secretaría de Salud Pública del Gobierno del Estado, se coordinará con las dependencias federales, estatales y municipales, para la prestación de los servicios a que se refiere este capítulo.
+La Secretaría de Salud del Gobierno del Estado, se coordinará con las dependencias federales, estatales y municipales, para la prestación de los servicios a que se refiere este capítulo.
 
 ###### Art. 102.
 
@@ -945,13 +1005,15 @@ Queda prohibida la descarga de aguas residuales sin el tratamiento para satisfac
 
 ###### Art. 104.
 
-La Secretaría de Salud Pública en coordinación con las autoridades federales y municipales competentes, orientará a la población para evitar la contaminación de aguas de presas, pluviales, lagos y otras que se utilicen para el riego o para uso domestico, originada por plaguicidas, substancias tóxicas y desperdicios o basura.
+(DEROGADO, P.O. 27 DE JUNIO DE 1998)
 
 ### CAPITULO V. SALUD OCUPACIONAL
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 105.
 
-La Secretaría de Salud Pública del Gobierno del Estado tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberán reunir, de conformidad con lo que establezcan los reglamentos respectivos.
+La Secretaría de Salud del Gobierno del Estado, tendrá a su cargo el control sanitario de los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deberá reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
 ###### Art. 106.
 
@@ -961,9 +1023,11 @@ El gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 ### CAPITULO I. DISPOSICIONES COMUNES
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 107.
 
-Corresponde a la Secretaría de Salud Pública en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
+Corresponde a la Secretaría de Salud del Estado, en coordinación con las autoridades federales, realizar actividades de vigilancia epidemiológica, de prevención y control de las enfermedades transmisibles, la prevención y control de las no transmisibles y la investigación, prevención y control de accidentes.
 
 ### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
@@ -1197,9 +1261,11 @@ El Gobierno del Estado y los Municipios promoverán la creación de establecimie
 
 El Gobierno del Estado y los Municipios en coordinación con las dependencias y entidades públicas correspondientes, distribuirán raciones alimenticias en aquellas zonas de agudo retraso socioeconómico o en las que se padezcan desastres originados por sequía, inundaciones, terremotos y otros fenómenos naturales o contingencias con efectos similares.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 135.
 
-La Secretaría de Salud Pública del Gobierno del Estado podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
+La Secretaría de Salud del Gobierno del Estado, podrá autorizar la constitución de instituciones privadas cuyo objeto sea la prestación de servicios asistenciales.
 
 ###### Art. 136.
 
@@ -1233,9 +1299,11 @@ Los servicios y acciones que presten y realicen las instituciones de asistencia 
 
 Las autoridades sanitarias del Estado y las educativas, en el ámbito de sus respectivas competencias, colaborarán para proporcionar atención rehabilitatoria, cuando así se requiera.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 144.
 
-La Secretaría de Salud Pública del Gobierno del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
+La Secretaría de Salud del Gobierno del Estado, en coordinación con otras instituciones públicas, promoverá que en los lugares en que se presten servicios públicos, se dispongan facilidades para las personas inválidas.
 
 (REFORMADO, P.O. 3 DE ABRIL DE 1996)(F. DE E., P.O. 13 DE ABRIL DE 1996)
 
@@ -1307,6 +1375,8 @@ IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social,
 
 ### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 153.
 
 El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá entre otras, las siguientes acciones:
@@ -1325,11 +1395,11 @@ II.- La educación a la familia para prevenir el consumo de tabaco por parte de 
 
 ### CAPITULO UNICO
 
-> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 155.
 
-El Gobierno del Estado coadyuvará con la Secretaría de Salud Pública de la entidad, en la ejecución del programa contra la farmacodependencia.
+El Gobierno del Estado, coadyuvará con la Secretaría de Salud de la entidad, en la ejecución del programa contra la farmacodependencia.
 
 ###### Art. 156.
 
@@ -1355,7 +1425,7 @@ Los establecimientos que vendan o utilicen substancias inhalantes con efectos ps
 
 ###### Art. 158.
 
-La Secretaría de Salud Pública del Gobierno del Estado ejercerá la verificación y control sanitarios de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas y alcohólicas, en estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas que al efecto emita la Secretaría de Salud del Gobierno Federal.
+La Secretaría de Salud del Gobierno del Estado, ejercerá la verificación y control sanitarios de los establecimientos que expendan o suministren al público alimentos, bebidas no alcohólicas y alcohólicas, en Estado natural, mezclados, preparados, adicionados o acondicionados, para su consumo dentro o fuera del mismo establecimiento, de conformidad con las normas que al efecto emita la Secretaría de Salud del Gobierno Federal.
 
 ### CAPITULO II. MERCADOS Y CENTROS DE ABASTO
 
@@ -1381,31 +1451,51 @@ I.- Los establecimientos y servicios, en su caso, a que se refieren las fraccion
 
 II.- Los establecimientos y servicios que en materia de salubridad general exclusiva se hayan descentralizado en los acuerdos de coordinación con el objeto de descentralizar las funciones de regulación, control y fomento sanitarios y sus anexos técnicos correspondientes, en los términos de la Ley General de Salud y demás disposiciones reglamentarias que emanen de ellas y las normas correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 162.
 
-La Secretaría de Salud Pública del Gobierno del Estado emitirá las normas a que quedará sujeto el control sanitario de las materias de salubridad local.
+La Secretaría de Salud del Gobierno del Estado, emitirá las normas a que quedará sujeto el control sanitario de las materias de salubridad local.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 163.
 
-A las actividades que señala el Artículo 4to. Apartado "B" de esta ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias y normas que en materia de salubridad local se expidan.
+Las actividades que señala el artículo 4 apartado B de esta Ley, no requerirán de autorización sanitaria; debiéndose ajustar al control y verificación sanitarios, así como a los requisitos sanitarios establecidos en las disposiciones reglamentarias, acuerdos y normas que en materia de salubridad local se expidan.
+
+Deberán dar aviso de funcionamiento, los propietarios o administradores de establecimientos que no requieren de autorización sanitaria y que mediante acuerdo determine la Secretaría de Salud.
+
+El acuerdo a que se refiere el párrafo anterior, clasificará a los establecimientos en función de la actividad que realicen y se publicará en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 164.
 
-Las actividades a que se refiere el artículo anterior, que no requieran para su funcionamiento de autorización sanitaria, deberán dar aviso por escrito a la Secretaría de Salud Pública del Gobierno del Estado 30 días antes del inicio de operaciones; dicho aviso deberá contener los siguientes datos:
+El aviso a que se refiere el artículo anterior, deberá presentarse por escrito ante la Secretaría de Salud del Estado o las jurisdicciones sanitarias, dentro de los diez días posteriores al inicio de las operaciones y contendrá los siguientes datos:
 
-I.- Nombre y domicilio de la persona física o moral propietario del establecimiento.
+I.- Nombre y domicilio de la persona física o jurídica colectiva propietaria del establecimiento;
 
-II.- Domicilio del establecimiento donde se realiza el proceso y fecha de inicio de operaciones.
+II.- Domicilio del establecimiento donde se realice el proceso y fecha de inicio de operaciones;
+
+III.- Procesos utilizados o líneas de productos;
+
+IV.- Declaración bajo protesta de decir verdad de que se cumplen los requisitos y las disposiciones aplicables al establecimiento;
+
+V.- Clave de actividad del establecimiento; y
+
+VI.- Número de cédula profesional, en su caso, del responsable sanitario.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 165.
 
-Todo cambio de propietario, de razón social, denominación, cesión de derechos de productos, ubicación, de un establecimiento deberá ser comunicado a la Secretaría de Salud Pública en un plazo de mayor de 30 días hábiles a partir de la fecha en que se hubiese realizado, sujetándose al cumplimiento de las normas que al efecto se expidan.
+Todo cambio de propietario de un establecimiento, de razón social o denominación, de domicilio, cesión de derechos de productos o la fabricación de nuevas líneas de productos, en su caso la suspensión de actividades, trabajos o servicios, deberá ser comunicado a la Secretaría de Salud del Estado, en un plazo no mayor de treinta días hábiles a partir de la fecha que se hubiese realizado, sujetándose al cumplimiento de las disposiciones que al respecto se emitan.
 
-> <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 166.
 
-La Secretaría de Salud Pública del Gobierno del Estado publicará en el periódico oficial, las normas en materia de salubridad local que se expidan y en caso de ser necesario las resoluciones que dicte sobre otorgamiento y revocación de las autorizaciones sanitarias, así como las notificaciones de las resoluciones administrativas que dispone esta ley.
+La Secretaría de Salud del Gobierno del Estado, publicará en el Periódico Oficial, las normas en materia de salubridad local que se expidan y en caso de ser necesario las resoluciones que dicte sobre otorgamiento y revocación de las autorizaciones sanitarias, así como las notificaciones de las resoluciones administrativas que dispone esta Ley.
 
 Las notificaciones que conforme a esta ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
@@ -1421,9 +1511,11 @@ I.- Mercado: El sitio público destinado a la compra y venta de productos en gen
 
 II.- Centros de abasto: El sitio destinado al servicio público en maniobras de carga y descarga, la conservación en frío y demás operaciones relativas a la compra y venta al mayoreo de productos en general.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 168.
 
-La Secretaría de Salud Pública verificará que los mercados y centros de abasto, sean provisionales o permanentes, cumplan con los requisitos que establezca esta ley, las disposiciones reglamentarias aplicables, y las normas que se emitan para el efecto.
+La Secretaría de Salud del Gobierno del Estado, verificará que los mercados y centros de abasto, sean provisionales o permanentes, cumplan con los requisitos que establezca esta Ley, las disposiciones reglamentarias aplicables, y las normas que se emitan para el efecto.
 
 ###### Art. 169.
 
@@ -1591,9 +1683,11 @@ El Gobierno Estatal y Municipal, en sus respectivos ámbitos de competencia, se 
 
 Los proyectos de sistema de abastecimiento de agua potable deberán ser sometidos a la consideración de la autoridad sanitaria municipal o estatal en su caso, para la aprobación del sistema adoptado y para el análisis minucioso de las aguas.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 201.
 
-La Secretaría de Salud Pública realizará periódicamente análisis de la potabilidad del agua, conforme a esta ley, otras disposiciones legales aplicables y las normas correspondientes.
+La Secretaría de Salud estatal, realizará periódicamente análisis de la potabilidad del agua, conforme a esta Ley, otras disposiciones legales aplicables y las normas correspondientes.
 
 ###### Art. 202.
 
@@ -1671,9 +1765,11 @@ La autoridad municipal, determinará los lugares en donde se permitirá el ejerc
 
 Para los efectos de esta ley, se entiende por reclusorios o centros de readaptación social, el local destinado a la internación de quienes se encuentran restringidos de su libertad por una resolución judicial o administrativa.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 217.
 
-Los reclusorios estarán sujetos a control sanitario a través de la Secretaría de Salud Pública del Gobierno del Estado, de conformidad con lo preceptuado en esta ley y demás disposiciones generales aplicables.
+Los reclusorios estarán sujetos a control sanitario a través de la Secretaría de Salud del Gobierno del Estado, de conformidad con lo preceptuado en esta Ley y demás disposiciones generales aplicables.
 
 ###### Art. 218.
 
@@ -1695,9 +1791,11 @@ Para los efectos de esta ley, se entiende por baños públicos el establecimient
 
 Para abrir al servicio público estos establecimientos, deberán sujetarse a la verificación y control sanitario, así como las demás disposiciones reglamentarias y las normas correspondientes.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 222.
 
-La actividad de estos establecimientos estará sujeta a lo dispuesto por la ley, otras disposiciones legales aplicables y las normas correspondientes que dicte la Secretaría de Salud Pública del Gobierno del Estado.
+La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley, otras disposiciones legales aplicables y las normas correspondientes que dicte la Secretaría de Salud del Gobierno del Estado.
 
 ### CAPITULO XIV. TINTORERIAS, LAVANDERIAS Y LAVADEROS PUBLICOS
 
@@ -1705,9 +1803,11 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por la ley,
 
 Para los efectos de esta ley, se entiende por centro de reunión y espectáculos, los establecimientos destinados a la concentración de personas con fines recreativos, sociales, deportivos o culturales.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 224.
 
-La Secretaría de Salud Pública del Gobierno del Estado, una vez terminada la edificación del centro de reunión podrá en cualquier momento realizar verificación así como ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entretanto no sean corregidas la causa que la motivaron.
+La Secretaría de Salud del Gobierno del Estado, una vez terminada la edificación del centro de reunión podrá en cualquier momento realizar verificación así como ordenar la clausura de los centros públicos de reunión que no cumplan con las condiciones de seguridad e higiene suficientes para garantizar la vida y la salud de las personas que a ellos concurran. Dicha clausura prevalecerá entretanto no sean corregidas la causa que la motivaron.
 
 ###### Art. 225.
 
@@ -1735,9 +1835,11 @@ II.- Lavanderías.- El establecimiento dedicado al lavado de ropa, y
 
 III.- Lavadero público.- El establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 229.
 
-Corresponde a la Secretaría de Salud Pública del Gobierno del Estado ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
+Corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
 ### CAPITULO XVII. GASOLINERAS
 
@@ -1745,9 +1847,11 @@ Corresponde a la Secretaría de Salud Pública del Gobierno del Estado ejercer l
 
 Para los efectos de esta ley, se entiende por establecimientos para el hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 231.
 
-La Secretaría de Salud Pública del Gobierno del Estado realizará la verificación sanitaria a los establecimientos para el hospedaje que conforme a esta ley y otras disposiciones legales aplicables le correspondan.
+La Secretaría de Salud del Gobierno del Estado, realizará la verificación sanitaria a los establecimientos para el hospedaje que conforme a esta Ley y otras disposiciones legales aplicables le correspondan.
 
 ###### Art. 232.
 
@@ -1779,13 +1883,17 @@ Las gasolineras deberán contar con las instalaciones de seguridad e higiene que
 
 Para los efectos de esta ley se entiende por establecimientos de enseñanza, aquellos donde se imparte educación, en cualquiera de sus niveles y formas, sean públicos o privados que cuenten o no con el reconocimiento oficial de las autoridades educativas competentes, sin perjuicio de lo que establezcan otras disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 238.
 
-La Secretaría de Salud Pública ejercerá el control y verificación sanitarios de los establecimientos a que se refiere el artículo anterior, de conformidad con las disposiciones legales aplicables y las normas correspondientes, emitidas por la Secretaría de Salud.
+La Secretaría de Salud estatal, ejercerá el control y verificación sanitarios de los establecimientos a que se refiere el artículo anterior, de conformidad con las disposiciones legales aplicables y las normas correspondientes, emitidas por la Secretaría de Salud federal.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 239.
 
-Los establecimientos a que se refiere el artículo 237 de esta ley, deberá reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud.
+Los establecimientos a que se refiere el artículo 237 de esta Ley, deberán reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud federal.
 
 ### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
@@ -1829,7 +1937,27 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 La autorización sanitaria es el acto administrativo mediante el cual la autoridad sanitaria competente, permite a una persona pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine esta ley y demás disposiciones generales aplicables.
 
-Las autorizaciones sanitarias tendrán el carácter de licencias, permisos o tarjetas de control sanitario.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
+Las autorizaciones sanitarias tendrán el carácter de licencias, permisos, registros y tarjetas de control sanitario.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 1998)</small>
+
+Únicamente requieren autorización sanitaria los establecimientos dedicados a:
+
+I.- El proceso de los medicamentos que contenga estupefacientes y psicotrópicos, vacunas, toxoides, sueros y antitoxinas de origen animal y hemoderivados;
+
+II.- La elaboración, fabricación o preparación de medicamentos, plaguicidas, nutrientes vegetales o sustancias tóxicas o peligrosas;
+
+III.- La aplicación de plaguicidas;
+
+IV.- La utilización de fuentes de radiación para fines médicos o de diagnóstico; y
+
+V.- Los establecimientos en que se practiquen actos quirúrgicos u obstétricos.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 1998)</small>
+
+La solicitud de autorización sanitaria deberá presentarse ante la autoridad sanitaria, previamente al inicio de sus actividades.
 
 ###### Art. 245.
 
@@ -1863,6 +1991,8 @@ Los derechos a que se refiere esta ley, se regirán por lo que disponga la legis
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 251.
 
 La autoridad sanitaria local competente podrá revocar las autorizaciones que haya otorgado, en los siguientes casos:
@@ -1883,7 +2013,13 @@ VII.- Cuando el interesado no se ajuste a los términos, condiciones y requisito
 
 VIII.- Cuando lo solicite el interesado.
 
-IX.- Cuando los establecimientos o personas dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones; y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IX.- Cuando los establecimientos o personas dejen de reunir las condiciones o requisitos bajo los cuales se hayan otorgado las autorizaciones;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IX bis.- Cuando resulten falsos los dictámenes proporcionados por terceros autorizados; y
 
 X.- En los demás casos que conforme a esta ley y demás disposiciones legales aplicables, lo determine la autoridad sanitaria competente.
 
@@ -1923,6 +2059,8 @@ La resolución administrativa o de revocación en su caso, surtirá efectos, de 
 
 ### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 259.
 
 Para los efectos de esta ley, se entiende por certificado la constancia expedida en los términos que establezcan las autoridades sanitarias competentes, para la comprobación o información de determinados hechos.
@@ -1935,7 +2073,13 @@ I.- Prenupciales.
 
 II.- De defunción.
 
-III.- De muerte fetal, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+III.- De muerte fetal;
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+III bis.- De exportación a los productos a que se refieren las fracciones I y II del artículo 244; y
 
 IV.- Los demás que determina la Ley General de Salud y sus reglamentos.
 
@@ -1947,9 +2091,27 @@ El certificado médico prenupcial será requerido por las autoridades del Regist
 
 Los certificados de defunción y de muerte fetal serán expedidos, una vez comprobado el fallecimiento y determinadas sus causas, por profesionales de la medicina o personas autorizadas por la Secretaría de Salud.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 263.
 
-Los certificados a que se refiere este título, se extenderán en los modelos aprobados por la Secretaría de Salud y de conformidad con las normas que emita. Dichos modelos serán publicados en el Diario Oficial de la Federación.
+Los certificados a que se refiere este Título, se extenderán en los modelos aprobados por la Secretaría de Salud federal y de conformidad con las normas que emita. Dichos modelos serán publicados en el Periódico Oficial del Estado.
+
+Las autoridades judiciales o administrativas sólo admitirán como válidos los certificados que se ajusten a lo dispuesto en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 27 DE JUNIO DE 1998)</small>
+
+Art. 263 bis.- La Secretaría de Salud del Estado, podrá expedir certificados, autorizaciones o cualquier otro documento con base en la información, comprobación de hechos o recomendaciones técnicas que proporcionen terceros autorizados, de conformidad con lo siguiente:
+
+I.- El procedimiento para la autorización de terceros tendrá por objeto el aseguramiento de la capacidad técnica y la probidad de estos agentes;
+
+II.- Las autorizaciones de los terceros se publicarán en el Periódico Oficial del Estado y señalarán expresamente las materias para las que se otorgan;
+
+III.- Los dictámenes de los terceros tendrán el carácter de documentos auxiliares del control sanitario, pero además tendrán validez general en los casos y con los requisitos establecidos en la Ley Federal sobre Metrología y Normalización;
+
+IV.- Los terceros autorizados serán responsables solidarios con los titulares de las autorizaciones o certificados que se expidan con base en sus dictámenes y recomendaciones, del cumplimiento de las disposiciones sanitarias, durante el tiempo y con las modalidades que establezcan las disposiciones reglamentarias de esta Ley; y
+
+V.- La Secretaría de Salud, podrá reconocer centros de investigación y organizaciones nacionales e internacionales del área de salud, que podrán fungir como terceros autorizados para los efectos de este artículo.
 
 ## TITULO DECIMO CUARTO. VIGILANCIA SANITARIA
 
@@ -1957,7 +2119,7 @@ Los certificados a que se refiere este título, se extenderán en los modelos ap
 
 ###### Art. 264.
 
-Corresponde a la Secretaría de Salud Pública o los Ayuntamientos en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
+Corresponde a la Secretaría de Salud estatal o a los Ayuntamientos, en el ámbito de sus respectivas competencias, la vigilancia del cumplimiento de esta Ley y demás disposiciones reglamentarias que se dicten con base en ella.
 
 ###### Art. 265.
 
@@ -2017,19 +2179,29 @@ I.- Se observarán las formalidades y requisitos exigidos para las visitas de ve
 
 II.- La toma de muestras podrá realizarse en cualquiera de las etapas del proceso, pero deberán tomarse del mismo lote, producción o recipiente, procediendo a identificar las muestras en envases que puedan ser cerrados y señalados.
 
-III.- Se obtendrán tres muestras del producto, una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra podrá quedar en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente al laboratorio autorizado y habilitado por ésta, para su análisis oficial.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
 
-IV.- El resultado del análisis oficial se notificará en forma personal o por correo certificado con acuse de recibo al interesado, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestra.
+III.- Se obtendrán tres muestras del producto. Una de ellas se dejará en poder de la persona con quien se entienda la diligencia para su análisis particular, otra muestra quedará en poder de la misma persona a disposición de la autoridad sanitaria competente y tendrá el carácter de muestra testigo; la última será enviada por la autoridad sanitaria competente al laboratorio autorizado y habilitado por ésta, para su análisis oficial;
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IV.- El resultado del análisis oficial se notificará al interesado o titular de la autorización de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismos, dentro de los treinta días hábiles siguientes a la fecha de la toma de muestra.
 
 V.- En caso de desacuerdo con el resultado que se haya notificado, el interesado lo podrá impugnar dentro de un plazo de quince días hábiles a partir de la notificación del análisis oficial; transcurrido este plazo sin que se haya impugnado el resultado del análisis oficial éste quedará firme y la autoridad sanitaria competente procederá conforme a la fracción VII de este artículo, según corresponda.
 
 VI.- Con la impugnación a que se refiere la fracción anterior, el interesado deberá acompañar el original del análisis particular que se hubiere practicado a la muestra que haya sido dejada en poder de la persona con quien se entendió la diligencia de muestreo, así como en su caso, la muestra testigo, sin el cumplimiento de este requisito no se dará trámite a la impugnación y el resultado del análisis oficial quedará firme.
 
-VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que la autoridad sanitaria competente analice la muestra testigo en un laboratorio que la misma señale en presencia de las partes interesadas, el resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
 
-VIII.- El resultado de los análisis de la muestra testigo se notificará en forma personal o por correo certificado con acuse de recibo al interesado de que se trate, y en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda. Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad competente, procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o a revocar en su caso, la autorización que se trate.
+VII.- La impugnación presentada en términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la autoridad sanitaria el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos, el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
-Si la diligencia se practica en un establecimiento que no sea titular del registro del producto, objeto de la muestra, cuando proceda, se correrá traslado al titular, mediante notificación personal o por correo certificado con acuse de recibo, de una copia del acta de verificación que consigne el muestreo realizado, así como el resultado del análisis oficial, a efecto de que éste tenga oportunidad de impugnar el resultado, dentro de los 15 días hábiles siguientes.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
+VIII.- El resultado de los análisis de la muestra testigo, se notificará al interesado o titular de la autorización sanitaria de que se trate, en forma personal o por correo certificado con acuse de recibo, telefax, o por cualquier otro medio por el que se pueda comprobar fehacientemente la recepción de los mismo (sic) y, en caso de que el producto reúna los requisitos y especificaciones requeridos, la autoridad sanitaria procederá a otorgar la autorización que se haya solicitado, o a ordenar el levantamiento de la medida de seguridad que se hubiere ejecutado, según corresponda. Si el resultado a que se refiere la fracción anterior comprueba que el producto no satisface los requisitos y especificaciones sanitarios, la autoridad competente procederá a dictar y ejecutar las medidas de seguridad sanitarias que procedan o a confirmar las que se hubieren ejecutado, a imponer las sanciones que correspondan y a negar o a revocar en su caso, la autorización de que se trate.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
+Si la diligencia se practica en un establecimiento que no sea donde se fabrica o produce el producto o no sea el establecimiento del titular del registro, el verificado está obligado a enviar dentro del término de tres días hábiles siguientes de la toma de muestras, copias del acta de verificación que consigne el muestreo realizado, así como las muestras que quedaron en poder de la persona con quien se entendió la diligencia, en condiciones adecuadas de conservación; a efecto de que tenga la oportunidad de realizar los análisis particulares y en su caso, impugnar el resultado del análisis oficial, dentro de los quince días hábiles siguientes a la notificación de resultados.
 
 En este caso el titular podrá inconformarse, solicitando sea realizado el análisis de la muestra testigo.
 
@@ -2051,7 +2223,7 @@ En el caso de los productos recogidos en procedimientos de muestro (sic) o verif
 
 ###### Art. 276.
 
-Se considerarán medidas de seguridad, las disposiciones que dicte la Secretaría de Salud Pública y los Ayuntamientos en el ámbito de su competencia, de conformidad con los preceptos de esta ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
+Se considerarán medidas de seguridad, las disposiciones que dicte la Secretaría de Salud del Estado y los Ayuntamientos, en el ámbito de su competencia, de conformidad con los preceptos de esta Ley y demás disposiciones aplicables, para proteger la salud de la población. Las medidas de seguridad se aplicarán sin perjuicio de las sanciones que, en su caso, correspondieren.
 
 ###### Art. 277.
 
@@ -2111,13 +2283,17 @@ III.- Si existiere peligro de invasión de dichos padecimientos en el Estado.
 
 El Gobierno del Estado podrá ordenar a proceder a la vacunación de animales que puedan constituirse en transmisores de enfermedades al hombre o que pongan en riesgo su salud, en coordinación, en su caso, con las dependencias encargadas de la sanidad animal.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 284.
 
-La Secretaría de Salud Pública y los ayuntamientos en el ámbito de su respectiva competencia ejecutarán las medidas para la destrucción o control de insectos y otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas en todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
+La Secretaría de Salud estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, ejecutarán las medidas para la destrucción o control de insectos y otra fauna transmisora y nociva, cuando éstos constituyan un peligro grave para la salud de las personas en todo caso, se dará a las dependencias encargadas de la sanidad animal la intervención que corresponda.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 285.
 
-La Secretaría de Salud Pública y los Ayuntamientos en el ámbito de su respectiva competencia podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquellos, se ponga en peligro la salud de las personas.
+La Secretaría de Salud estatal y los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán ordenar la inmediata suspensión de trabajos o de servicios o la prohibición de actos de uso, cuando, de continuar aquéllos, se ponga en peligro la salud de las personas.
 
 ###### Art. 286.
 
@@ -2125,9 +2301,11 @@ La suspensión de trabajos o servicios será temporal podrá ser total o parcial
 
 Durante la suspensión se podrá permitir el acceso de las personas que tengan encomendada la corrección de las irregularidades que la motivaron.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 287.
 
-El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La Secretaría de Salud Pública y los municipios podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino. Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos si dentro de este plazo el interesado no realizara el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
+El aseguramiento de objetos, productos o sustancias, tendrá lugar cuando se presuma que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables. La Secretaría de Salud estatal y los Ayuntamientos, podrán retenerlos o dejarlos en depósito hasta en tanto se determine, previo dictamen, su destino. Si el dictamen indicara que el bien asegurado no es nocivo pero carece de los requisitos esenciales establecidos en esta Ley y demás disposiciones generales aplicables, la autoridad sanitaria concederá al interesado un plazo hasta de treinta días para que tramite el cumplimiento de los requisitos omitidos si dentro de este plazo el interesado no realizará el trámite indicado o no gestionara la recuperación acreditando el cumplimiento de lo ordenado por la autoridad sanitaria, se entenderá que la materia del aseguramiento causa abandono y quedará a disposición de la autoridad sanitaria para su aprovechamiento lícito.
 
 Si del dictamen resultara que el bien asegurado es nocivo, la autoridad sanitaria, dentro del plazo establecido en el anterior párrafo y previa la observancia de la garantía de audiencia, podrá determinar que el interesado y bajo la vigilancia de aquélla someta el bien asegurado a un tratamiento que haga posible su legal aprovechamiento, de ser posible, en cuyo caso y previo el dictamen de la autoridad sanitaria, el interesado podrá disponer de los bienes que haya sometido a tratamiento para destinarlos a los fines que la propia autoridad le señale.
 
@@ -2165,29 +2343,41 @@ I.- Los daños que se hayan producido o puedan producirse en la salud de las per
 
 II.- La gravedad de la infracción.
 
-III.- Las condiciones socio-económicas del infractor, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
 
-IV.- La calidad de reincidente del infractor.
+III.- Las condiciones socio-económicas del infractor.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IV.- La calidad de reincidente del infractor; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+V.- El beneficio obtenido por el infractor como resultado de la infracción.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 292.
 
-Se sancionará con multa equivalente hasta de veinte veces el salario mínimo general diario vigente en la zona económica de que se trate. La violación de las disposiciones contenidas en los artículos 48, 49, 74, 110, 111, 112, 124, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 242, 261 y 262.
+Se sancionará con multa de hasta mil veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los artículos 48, 49, 74, 90, 110, 111, 112, 124, 164, 165, 169, 171, 172, 173, 174, 178, 181, 187, 193, 194, 195, 197, 207, 247, 261 y 262 de esta Ley.
 
-La violación de la disposición contenida en el artículo 90 de esta ley, se sancionará con multa equivalente hasta de cien veces el salario mínimo general diario vigente en la zona económica de que se trate.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 293.
 
-Se sancionará con multa equivalente desde diez veces hasta cien veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación las disposiciones contenidas en los artículos 102, 114, 120, 177, 184, 224 y 236 de esta ley.
+Se sancionará con multa de mil hasta cuatro mil veces el salario mínimo general diario vigente en el Estado, la violación las disposiciones contenidas en los artículos 102, 114, 120, 177, 184, 224, 236, 270 y 285 de esta Ley.
 
-La violación de las disposiciones contenidas en los artículos 270 y 285 de esta ley, se sancionará con una multa equivalente de cincuenta hasta quinientas veces el salario mínimo general diario vigente en la zona de que se trate.
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 294.
 
-Se sancionará con multa equivalente de doscientas a dos mil veces el salario mínimo general diario vigente en la zona económica de que se trate, la violación de las disposiciones contenidas en los artículos 62, 87, 89 y 103 de esta ley.
+Se sancionará con multa equivalente de cuatro mil hasta diez mil veces el salario mínimo general diario vigente en el Estado, la violación de las disposiciones contenidas en los artículos 62, 87, 89 y 103 de esta Ley.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 295.
 
-Las infracciones no previstas en este capítulo serán sancionadas con multa hasta por quinientas veces el salario mínimo general diario vigente en la zona económica de que se trate, atendiendo las reglas de calificación que se establecen en el artículo 291 de esta ley.
+Las infracciones no previstas en este Capítulo serán sancionadas con multa equivalente hasta por diez mil veces el salario mínimo general diario vigente en el Estado, atendiendo las reglas de calificación que se establecen en el artículo 291 de esta Ley.
 
 ###### Art. 296.
 
@@ -2199,13 +2389,23 @@ Art. 197 (sic).- La aplicación de las multas serán sin perjuicio de que se dic
 
 Se procederá a la clausura temporal o definitiva, parcial o total según la gravedad de la infracción y las características de la actividad o establecimiento, en los siguientes casos:
 
-I.- cuando los establecimientos a que se refiere el artículo 163 no reúnan los requisitos sanitarios que establece esta ley, las demás disposiciones reglamentarias aplicables y las normas correspondientes.
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+I.- Cuando los establecimientos a que se refiere el artículo 163 de esta Ley, carezcan de la correspondiente licencia sanitaria.
 
 II.- Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de esta ley y de las disposiciones que de ella emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria.
 
-III.- Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivos de suspensión de trabajos o actividades o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud, y
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
 
-IV.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población.
+III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, por motivos de suspensión de trabajos o actividades o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud.
+
+> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+IV.- Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población; y
+
+> <small>(ADICIONADA, P.O. 27 DE JUNIO DE 1998)</small>
+
+V.- Por reincidencia en tercera ocasión.
 
 ###### Art. 299.
 
@@ -2259,13 +2459,17 @@ X.- Jerarquía y
 
 XI.- Buena fe.
 
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
+
 ###### Art. 303.
 
-La Secretaría de Salud Pública y los Municipios, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 257 de esta ley podrá dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4o. apartado "A" así como los establecimientos y servicios a que se refiere el apartado "B" del artículo antes citado de esta ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+La Secretaría de Salud del Estado y los Ayuntamientos, con base en los resultados de la visita o del informe de verificación a que se refiere el artículo 257 de esta Ley podrá dictar las medidas para corregir las irregularidades que se hubieren encontrado en los establecimientos a que se refiere la fracción XVIII del artículo 4 apartado "A" así como los establecimientos y servicios a que se refiere el apartado "B" del artículo antes citado de esta Ley, notificándolas al interesado y dándole un plazo adecuado para su realización.
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1998)</small>
 
 ###### Art. 304.
 
-La Secretaría de Salud Pública hará uso de las medidas legales necesarias incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+La Secretaría de Salud estatal, hará uso de las medidas legales necesarias incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
 
 > <small>(F. DE E., P.O. 3 DE OCTUBRE DE 1998)</small>
 
@@ -2440,3 +2644,13 @@ P.O. 3 DE ABRIL DE 1996.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Tabasco.
+
+P.O. 27 DE JUNIO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto las disposiciones que se opongan a este Decreto.
