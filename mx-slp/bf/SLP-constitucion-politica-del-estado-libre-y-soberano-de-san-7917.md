@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "1981-05-26"
+last_updated: "1983-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MAYO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -1125,9 +1125,9 @@ De las reformas a la Constitución
 
 ART. 119.- Los funcionarios que, según el artículo 37° de esta Constitución, tienen derecho de iniciativa, lo tienen igualmente de iniciar las reformas de esta Constitución.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 1943)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-ART. 120.- Si las iniciativas de reforma fueren admitidas por el Congreso, se publicarán por la prensa, y en el siguiente período de sesiones ordinarias, el Congreso deliberará sobre ellas, exigiéndose, para su aprobación, el voto de las dos terceras partes del número total de diputados, y para que se sancionen por el Ejecutivo del Estado, el voto de las tres cuartas partes del número total de los ayuntamientos del mismo.
+ART. 120.- Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requerirá su aprobación por el voto de las dos terceras partes del número total de Diputados y el voto posterior de las tres cuartas partes de los Ayuntamientos.
 
 ## TITULO OCTAVO.
 
@@ -1236,3 +1236,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE MAYO DE 1981.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 1983.
+
+UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
