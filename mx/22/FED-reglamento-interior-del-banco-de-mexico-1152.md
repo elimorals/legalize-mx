@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "1999-07-30"
+last_updated: "1999-10-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE OCTUBRE DE 1999.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -53,7 +53,7 @@ El Secretario será asistido en sus funciones por un Prosecretario, quien ademá
 
 Las actas de las sesiones de la Junta, se levantarán y conservarán en los términos acordados por ésta, serán firmadas por los miembros asistentes y por el Secretario, debiéndose conservar un ejemplar de los documentos que hubieran sido relacionados en la sesión correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, 30 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, 1 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 4o.
 
@@ -65,15 +65,13 @@ Dirección General de Investigación Económica.
 
 Dirección General de Análisis del Sistema Financiero.
 
-Dirección General del Fondo Bancario de Protección al Ahorro y del Fondo de Apoyo al Mercado de Valores.
+Dirección General Jurídica.
 
 Dirección General de Intermediarios Financieros de Fomento.
 
 Dirección General de Administración Interna.
 
 Dirección de Emisión.
-
-Dirección de Disposiciones de Banca Central.
 
 Dirección de Relaciones Externas.
 
@@ -99,7 +97,9 @@ Dirección de Análisis del Sistema Financiero.
 
 Dirección de Información del Sistema Financiero.
 
-Dirección Jurídica de los Fondos de Apoyo a la Banca y al Mercado de Valores.
+Dirección de Disposiciones de Banca Central.
+
+Dirección Jurídica.
 
 Dirección de Intermediarios Financieros de Fomento.
 
@@ -107,21 +107,19 @@ Dirección de Administración.
 
 Dirección de Contabilidad.
 
-Dirección Jurídica.
-
 Dirección de Seguridad.
 
 Dirección de Sistemas.
 
 Contralor.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Disposiciones de Banca Central, Relaciones Externas, Sistemas, así como el Contralor, dependerán del Gobernador.
+Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. Las Direcciones de Emisión, Relaciones Externas, Sistemas, así como el Contralor, dependerán del Gobernador.
 
-> <small>(REFORMADO, D.O.F. 14 DE OCTUBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 1999)</small>
 
-Los Directores y el Contralor se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Coordinadores Generales, Subgerentes, Superintendentes, Coordinadores, Jefes de División, de Departamento, de Oficina, Intendentes, y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+Los Directores y el Contralor se auxiliarán en el cumplimiento de sus funciones de los Gerentes, Cajero Principal, Subgerentes, Superintendentes, Jefes de División, de Departamento, de Oficina, Intendentes y por los demás empleados, previstos en la estructura correspondiente. Asimismo, las Direcciones Generales y las Direcciones podrán tener adscritas unidades de informática conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
 
 > <small>(ADICIONADO, D.O.F. 30 DE JULIO DE 1999)</small>
 
@@ -1038,3 +1036,11 @@ UNICO.- La presente adición entrará en vigor a partir del día siguiente al de
 D.O.F. 30 DE JULIO DE 1999.
 
 UNICO.- Las presentes reformas y adiciones, entrarán en vigor a partir de la fecha de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE OCTUBRE DE 1999.
+
+PRIMERO.- Las presentes reformas entrarán en vigor a partir del día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- La Dirección General Jurídica tendrá la atribución de coordinar los actos que correspondan para la extinción de los Fideicomisos Fondo Bancario de Protección al Ahorro y Fondo de Apoyo al Mercado de Valores.
+
+Para efectos de lo anterior, a la Dirección General Jurídica estará adscrita la Gerencia Técnica de Liquidación de los Fondos de Apoyo a la Banca y al Mercado de Valores.
