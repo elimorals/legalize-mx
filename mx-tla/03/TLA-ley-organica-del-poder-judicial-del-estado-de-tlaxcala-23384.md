@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2003-09-01"
+last_updated: "2005-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 2005.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -1283,23 +1283,11 @@ La actual Sala Civil del Tribunal remitirá los asuntos familiares que esté con
 
 El Pleno del Tribunal, dentro de los quince días naturales siguientes a la iniciación de la vigencia de esta Ley, determinará el funcionamiento de los Juzgados Familiares, y ordenará se inicie el procedimiento conforme a esta Ley, para la designación del personal de esos órganos jurisdiccionales.
 
-> <small>(F. DE E., P.O. 12 DE ENERO DE 2002)</small>
+> <small>N. DE E. SE DEROGA EL PUNTO DE ACUERDO POR EL QUE SE EMITE LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2002, P.O. 9 DE FEBRERO DE 2005</small>
 
 ###### ARTICULO SEPTIMO.
 
-A efecto de dar debido cumplimiento a lo previsto en el Artículo Séptimo Transitorio del Decreto que reforma y adiciona diversos Artículos de la Constitución Política Local, publicado el día dieciocho de mayo del año dos mil uno, en el Periódico Oficial del Gobierno del Estado, así como a lo dispuesto en el Capítulo Primero del Título Segundo de la presente Ley, deberán cumplirse las reglas siguientes:
-
-1. Se concede al Gobernador del Estado un término que fenecerá el día once de enero del año dos mil dos, para que entregue a este Congreso, las ternas relativas a la designación de Magistrados Propietarios y Suplentes que ocuparán las Salas de nueva creación.
-
-2. Esta Legislatura designará a más tardar el día catorce de enero de dos mil dos, a los Magistrados que ocuparán las Salas de nueva creación.
-
-3. Los Magistrados designados funcionarán del día quince de enero del dos mil dos al día último del mes de febrero del año dos mil cinco.
-
-4. Los Magistrados de la Sala Electoral-Administrativa, durarán en su cargo dos elecciones ordinarias.
-
-5. Por lo que respecta a los Supernumerarios previstos por el Artículo Once de la presente Ley, se autoriza un solo Magistrado Supernumerario, para el ejercicio fiscal dos mil dos y en lo sucesivo el número de las magistraturas de carácter supernumerario, se autorizarán por el Congreso del Estado a propuesta del Tribunal Superior de Justicia de acuerdo alas (sic) posibilidades presupuestales.
-
-6. Para la designación de Magistrados que ocuparán la Sala Electoral-Administrativa, deberá agotarse el procedimiento establecido por el Artículo 54 Fracción XXVII de la Constitución Política del Estado Libre y Soberano de Tlaxcala.
+A efecto de dar debido cumplimiento a lo previsto en el Artículo séptimo transitorio del Decreto que reforma y adiciona diversos Artículos de la Constitución Política Local, publicado el día dieciocho de mayo del año dos mil uno, en el Periódico Oficial del Gobierno del Estado, así como a lo dispuesto en el Capítulo Primero del Título Segundo de la presente Ley, se concede al Gobernador del Estado un término que fenecerá el día once de enero del año dos mil dos, para que entregue a este Congreso, las ternas relativas a la designación de Magistrados Propietarios y Suplentes que ocuparán las Salas de nueva creación y de los Supernumerarios.
 
 ###### ARTICULO OCTAVO.
 
@@ -1313,7 +1301,7 @@ El Pleno conocerá excepcionalmente de los recursos de reclamación que se hayan
 
 Se derogan los incisos a), b) y c) del Artículo 2° del Decreto número 130, expedido por este Congreso, que crea el Fondo de Protección a las Víctimas de los Delitos y Ayuda a los Indigentes Procesados en el Estado de Tlaxcala, publicado en el Periódico Oficial del Gobierno del Estado con fecha nueve de enero de mil novecientos noventa y ocho.
 
-> <small>N. DE E. DEROGADO EL ARTICULO DECIMO PRIMERO DEL PUNTO DE ACUERDO QUE CONTIENE LA FE DE ERRATAS, PUBLICADA CON FECHA 12 DE ENERO DE 2002, POR LO CUAL EL CONTENIDO DEL PRESENTE CORRESPONDE A LA LEY EN SU TEXTO ORIGINAL, PUBLICADO EN EL P.O. 10 DE ENERO DE 2002.</small>
+> <small>N. DE E. SE DEROGA EL PUNTO DE ACUERDO POR EL QUE SE EMITE LA FE DE ERRATAS PUBLICADA EL 12 DE ENERO DE 2002, P.O. 9 DE FEBRERO DE 2005</small>
 
 ###### ARTICULO DECIMO PRIMERO.
 
@@ -1384,3 +1372,9 @@ P.O. 1 DE SEPTIEMBRE DE 2003.
 Artículo Primero. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Los servidores públicos del Poder Judicial que hayan disfrutado su periodo vacacional a la entrada en vigor de esta reforma, les corresponderá gozar de su periodo vacacional hasta el segundo periodo en la fecha que al efecto señale la Comisión de Gobierno Interno y Administración del Poder Judicial.
+
+P.O. 9 DE FEBRERO DE 2005.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
