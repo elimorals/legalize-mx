@@ -4,7 +4,7 @@ identifier: "CHH-codigo-fiscal-del-estado-de-chihuahua-4856"
 country: "mx"
 rank: "codigo"
 publication_date: "1970-12-30"
-last_updated: "1989-12-06"
+last_updated: "1989-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4856&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO FISCAL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1989.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 30 de diciembre de 1970.
 
@@ -1239,21 +1239,23 @@ DE LA BASE
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989) (F. DE E., P.O. 13 DE ENERO DE 1990)
 
-169.- El impuesto se causará conforme a la tasa del 1% sobre la base a que se refiere el artículo anterior.
+169.- El impuesto se causará aplicando a la base que señala el Artículo 168, la tasa que corresponda, de acuerdo al equivalente con las unidades de Salario Mínimo General elevado al mes que rija en la zona del domicilio del contribuyente, conforme a la siguiente tarifa:
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 1980)</small>
+Hasta 15 salarios mínimos 1%
 
-170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1o. al 20 del mes siguiente a aquél en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la Oficina Recaudadora correspondiente, en las formas oficialmente aprobadas por la Tesorería General del Estado. Si un contribuyente tuviera varias sucursales, presentará por todas ellas una sola declaración en la oficina autorizada, correspondiente a su domicilio fiscal.
+Más de 15 hasta 45 salarios mínimos 1.25%
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+Más de 45 hasta 75 salarios mínimos 1.50%
 
-La obligación de presentar la declaración subsistirá aún cuando no se hayan efectuado erogaciones gravadas.
+Más de 75 hasta 120 salarios mínimos 1.75%
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1979)</small>
+Más de 120 salarios mínimos 2%
 
-Las personas físicas causantes del impuesto al Ingreso Global de las Empresas sujetos a las bases especiales de tributación, en actividades agrícolas, ganaderas, de pesca y conexas, podrán portar ante la Tesorería General del Estado, para que se les fije cuota, época y forma de pago por las erogaciones gravadas por este impuesto.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1989)</small>
+
+170.- El impuesto se causará mensualmente y el pago deberá efectuarse dentro de los días 1 al 20 del mes siguiente a aquel en que se hayan efectuado las erogaciones por concepto de remuneración al trabajo personal, presentándose al efecto una declaración en la oficina recaudadora correspondiente, en las formas oficialmente aprobadas por la Dirección General de Finanzas del Estado, debiendo anexarse copia de la declaración del pago provisional del impuesto sobre la renta.
 
 DE LAS EXENCIONES
 
@@ -1609,7 +1611,7 @@ VIII.- Naturaleza y valor de la operación;
 
 IX.- Fecha del otorgamiento y autorización de la escritura;
 
-X.- Nombre y numero del Notario o autoridad ante quien se celebre el contrato u operación.
+X.- Nombre y número del Notario o autoridad ante quien se celebre el contrato u operación.
 
 131.- Toda construcción, ampliación o modificación de la construcción ya existente, deberá ser manifestada por el sujeto del impuesto a la Tesorería General del Estado, en las formas que para el caso autorice la misma, dentro de los 15 días siguientes al de la terminación de la obra realizada.
 
@@ -4472,3 +4474,9 @@ P.O. 6 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
