@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-penales-para-el-distrito-federal-645"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-29"
-last_updated: "1994-01-10"
+last_updated: "1994-07-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=645&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1931-08-26"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE ENERO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JULIO DE 1994.
 
 Código publicado en el Diario Oficial de la Federación el sábado 29 de agosto de 1931.
 
@@ -1944,9 +1944,23 @@ El Ministerio Público al emitir la orden de detención en caso urgente deberá 
 
 La orden mencionada será ejecutada por la Policía Judicial, quien deberá sin dilación alguna poner al detenido a disposición del Ministerio Público que la haya librado.
 
-Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se califican como delitos graves, los siguientes: Homicidio por culpa grave previsto en el artículo 60 párrafo tercero; terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en los artículos 150 con excepción de la parte primera del párrafo primero y 152; ataques a las vías de comunicación previsto en los artículos 168 y 170; corrupción de menores previsto en el artículo 201; violación previsto en los artículos 265, 266 y 266 bis; asalto previsto en los artículos 286 párrafo segundo y 287; homicidio previsto en los artículos 302 con relación al 307, 313, 315 bis, 320 y 323; secuestro previsto en el artículo 366 exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en los artículos 367 en relación con el 370 párrafos segundo y tercero, cuando se realice en cualesquiera de las circunstancias señaladas en los artículos 372, 381 fracción VIII, IX y X y 381 bis; y extorsión previsto en el artículo 390 todos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal.
+> <small>(REFORMADO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+Para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, se clasifican como delitos graves, los siguientes: Homicidio por culpa grave previsto en el artículo 60 párrafo tercero; terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en los artículos 150 y 152; ataques a las vías de comunicación previsto en los artículos 168 y 170; corrupción de menores previsto en el artículo 201; trata de personas previsto en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; violación previsto en los artículos 265, 266 y 266 bis; asalto previsto en los artículos 286 párrafo segundo y 287; homicidio previsto en los artículos 302 con relación al 307, 313, 315 bis, 320 y 323; secuestro previsto en el artículo 366 exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en los artículos 367 en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracción VIII, IX y X y 381 bis; extorsión previsto en el artículo 390; y despojo previsto en el artículo 395 último párrafo, todos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal; así como el de tortura previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE JULIO DE 1994)</small>
+
+ARTICULO. 268 bis.- En los casos de delito flagrante y en los urgentes, ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de autoridad judicial. Este plazo podrá duplicarse en los casos de delincuencia organizada, que serán aquellos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento y reiterado o con fines predominantemente lucrativos alguno de los delitos previstos en los siguientes artículos del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal: terrorismo previsto en el artículo 139 párrafo primero; sabotaje previsto en el artículo 140 párrafo primero; evasión de presos previsto en los artículos 150 y 152; ataque a las vías de comunicación previsto en los artículos 168 y 170; trata de personas prevista en el artículo 205 segundo párrafo; explotación del cuerpo de un menor de edad por medio del comercio carnal previsto en el artículo 208; violación previsto en el artículo 265, 266, 266 bis; homicidio doloso previsto en el artículo 302 con relación al 307, 315 y 320; secuestro previsto en el artículo 366 fracciones I a VI, exceptuando los párrafos antepenúltimo y penúltimo; robo calificado previsto en el artículo 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372, 381 fracciones IX y X, 381 bis; extorsión previsto en el artículo 390; despojo previsto en el artículo 395 último párrafo; así como el de tortura previsto en los artículos 3o. y 5o. de la Ley Federal para Prevenir y Sancionar la Tortura.
 
 > <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+Si para integrar la averiguación previa fuese necesario mayor tiempo del señalado en el párrafo anterior, el detenido será puesto en libertad, sin perjuicio de que la indagación continúe sin detenido.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ENERO DE 1994)</small>
+
+El juez que reciba la consignación con detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución Política de los Estados Unidos Mexicanos o no; en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de ley.
+
+> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 1994)</small>
 
 ###### ARTICULO 268 Bis.
 
@@ -5173,3 +5187,11 @@ SEGUNDO.- Con relación a los procedimientos que se sigan por delitos contra la 
 TERCERO.- A las personas que hayan cometido un delito, incluidas las procesadas o sentenciadas, con anterioridad a la entrada en vigor del presente decreto, les serán aplicables las disposiciones del Código Penal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 del citado Código.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+D.O.F. 22 DE JULIO DE 1994.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- A las personas que hayan cometido un delito de los contemplados en el presente decreto, con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas, les serán aplicadas las disposiciones del Código Penal para el Distrito Federal en Materia de Fuero Común y para toda la República en Materia de Fuero Federal vigentes en el momento en que se haya cometido, sin perjuicio de aplicar, cuando proceda, lo previsto en el artículo 56 de dicho Código sustantivo.
+
+TERCERO.- Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a este Decreto.
