@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2002-12-10"
+last_updated: "2002-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2002.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -1401,7 +1401,9 @@ III. El personal que a juicio del propio consejo se requiera.
 
 Las atribuciones de la dirección serán determinadas por el pleno del Consejo de la Judicatura y el reglamento respectivo.
 
-### CAPITULO UNICO. Del Instituto de Capacitación y Especialización Judicial
+### CAPITULO UNICO. De la Escuela Judicial
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 144.
 
@@ -1461,6 +1463,8 @@ El presidente del Consejo de la Judicatura firmará las operaciones activas o pa
 
 ### CAPITULO UNICO. De la Carrera Judicial
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ###### Artículo 150.
 
 El Consejo de la Judicatura tendrá a su cargo y bajo su responsabilidad el manejo y administración del Fondo Auxiliar para la Administración de Justicia, conforme a las siguientes bases:
@@ -1495,39 +1499,55 @@ El presidente del Consejo de la Judicatura podrá solicitar a los integrantes de
 
 ## TITULO OCTAVO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
 ### CAPITULO PRIMERO. Del Departamento de Computación e Informática
 
 ###### Artículo 153.
 
-El Instituto de Capacitación y Especialización Judicial del Estado, tiene como objetivo la formación y actualización de los miembros del Poder Judicial y de quienes aspiren a pertenecer a éste. El funcionamiento y atribuciones del Instituto se regirán por las normas que determine el Consejo de la Judicatura.
+La Escuela Judicial, es un órgano desconcentrado del Consejo de la Judicatura que tiene por objeto la capacitación, formación, actualización y profesionalización de los Servidores Públicos del Poder Judicial, así como: investigar, preservar, transmitir y extender el conocimiento de todos aquellos preceptos y actuaciones que conforman la estructura doctrinaria, teórica y práctica de la función jurisdiccional.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 154.
 
-El Instituto contará con un Director que designará el Consejo de la Judicatura dentro de los Magistrados del Tribunal Superior de Justicia, o nombrará a alguna persona que reúna el perfil académico, técnico y profesional para desempeñar el cargo y con cuatro personas de reconocida experiencia profesional y académica, designadas por el propio consejo.
+La Escuela Judicial contará con un Director General designado por el Consejo de la Judicatura de entre los Magistrados del Tribunal Superior de Justicia, o alguna persona que reúna el perfil académico, técnico y profesional para desempeñar la función; durará en el cargo cinco años.
 
-El Director del Instituto, durará en su cargo cinco años, a cuyo término se deberá reintegrar a su función; los demás integrantes durarán en el cargo tres años.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+
+###### Artículo 154 Bis.
+
+La Escuela Judicial podrá contar con las Unidades Académicas y Administrativas que se establezcan en su Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 155.
 
-El Instituto de Capacitación y Especialización Judicial establecerá cursos tendientes a:
+La Escuela Judicial contará con un Comité General Académico conformado por seis personas de reconocida experiencia profesional y académica, designadas por el propio Consejo y procurando que, éstos sean expertos en las diferentes materias que conforman la actividad jurisdiccional; durarán en el cargo tres años.
 
-I. Desarrollar el conocimiento teórico-práctico de los trámites, diligencias y actuaciones que formen parte de los procedimientos y asuntos de la competencia del Poder Judicial;
-
-II. Actualizar y profundizar los conocimientos respecto del orden jurídico, la doctrina y la jurisprudencia;
-
-III. Proporcionar y desarrollar técnicas de análisis, argumentación e interpretación que permitan valorar correctamente las pruebas y evidencias aportadas en los procedimientos;
-
-IV. Mejorar las técnicas administrativas en la función jurisdiccional; y
-
-V. Contribuir al desarrollo de la vocación de servicio, así como al ejercicio de los valores y principios éticos inherentes a la función judicial.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
 
 ###### Artículo 156.
 
-El Instituto llevará a cabo cursos continuos de preparación para los exámenes correspondientes a las distintas categorías que componen la carrera judicial, debiendo emitir la convocatoria por lo menos con treinta días naturales de anticipación, mismo que deberá ser publicada en la Gaceta del Gobierno y en dos de los principales diarios de circulación en la entidad.
+La Escuela Judicial del Estado de México tendrá como atribuciones, el establecer:
+
+I. Programas específicos de capacitación, formación, actualización y profesionalización de los Servidores Públicos Judiciales;
+
+II. Programas que contribuyan a desarrollar la vocación de servicio y el ejercicio de los valores y principios éticos inherentes a la función judicial, así como al mejoramiento de las técnicas administrativas;
+
+III. Programas académicos de educación superior especializada orientados a la profesionalización de la función jurisdiccional y al análisis, reflexión, asesoría y consultoría en materia de impartición de justicia;
+
+IV. Planes y programas de estudio que de manera integral, adopten a la función jurisdiccional como centro de desarrollo profesional de la actividad institucional;
+
+V. Programas de capacitación y formación profesional orientados a la constitución de claustros docentes especializados en materia de impartición de justicia;
+
+VI. Procedimientos eficientes y oportunos para el fortalecimiento de la promoción, selección, formación y evaluación de la Carrera Judicial, así como orientados a la ampliación de sus categorías tradicionales, de acuerdo a los rangos de especialización que requiere la impartición de justicia.
+
+VII. Mecanismos claros que procuren el fortalecimiento de programas de investigación tanto básica como aplicada, procurando su interacción con la docencia, la difusión y la extensión;
+
+VIII. Mecanismos claros que procuren el fortalecimiento de programas de difusión de la cultura jurídica y de extensión de los servicios, propiciando mecanismos de corresponsabilidad y colaboración;
+
+IX. Cursos continuos de preparación para las distintas categorías de la Carrera Judicial.
 
 ## TITULO NOVENO
 
@@ -1535,7 +1555,9 @@ El Instituto llevará a cabo cursos continuos de preparación para los exámenes
 
 ###### Artículo 157.
 
-El ingreso y promoción para las categorías que conforman la carrera judicial, se realizarán invariablemente mediante concursos de oposición, previa la aprobación de los cursos impartidos por el Instituto de Capacitación y Especialización Judicial.
+El ingreso y promoción para las categorías que conforman la Carrera Judicial, se realizarán invariablemente mediante concursos de oposición, previa la aprobación de los cursos impartidos por la Escuela Judicial.
+
+La Escuela Judicial, velará por brindar la oportunidad de acceder a una carrera judicial a todo ciudadano, con la única limitante de satisfacer los requisitos que la ley exija a cada categoría judicial.
 
 ###### Artículo 158.
 
@@ -1882,3 +1904,11 @@ P.O. 10 DE DICIEMBRE DE 2002
 PRIMERO.- Publíquese el presente decreto en la "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+P.O. 31 DE DICIEMBRE DE 2002
+
+PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO.- En cualquier modalidad en la que se mencione el Instituto de Capacitación y Especialización Judicial en el texto de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de México, deberá ser sustituido por el término "Escuela Judicial".
