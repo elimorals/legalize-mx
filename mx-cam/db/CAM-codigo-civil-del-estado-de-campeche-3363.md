@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "1943-01-05"
+last_updated: "1943-11-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CODIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1943.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE NOVIEMBRE DE 1943.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -4075,23 +4075,25 @@ Sólo puede constituirse el patrimonio de la familia con bienes sitos en el muni
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1943)</small>
+
 ###### Art. 742.
 
-El valor máximo de los bienes afectos al patrimonio de la familia, será como sigue:
+El valor máximo de los bienes afectos al Patrimonio de la Familia será como sigue:
 
-I.- De diez mil pesos en la ciudad de Campeche;
+I.- De $3,500 (tres mil quinientos pesos), en la ciudad de Campeche;
 
-II.- De dos mil pesos en el resto del Municipio de Campeche;
+II.- De $1,000 (mil pesos), en el resto del Municipio de Campeche;
 
-III.- De cinco mil pesos en Ciudad del Carmen;
+III.- De $2,000 (dos mil pesos), en ciudad del Carmen;
 
-IV.- De dos mil pesos en el resto del Municipio del Carmen;
+IV.- De $1,000 (mil pesos), en el resto del Municipio del Carmen;
 
-V.- De tres mil pesos en las cabeceras Municipales de Hopelchén, Champotón, Calkiní y Hecelchakán;
+V.- De $1,500 (mil quinientos pesos), en las Cabeceras Municipales de Hopelchén, Champotón, Calkiní y Hecelchakán;
 
-VI.- De dos mil pesos en las cabeceras Municipales de Tenabo y Palizada;
+VI.- De $1,000 (mil pesos), en las cabeceras Municipales de Tenabo y Palizada;
 
-VII.- De mil pesos en el resto de las Municipalidades de Hopelchén, Champotón, Calkiní, Hecelchakán, Palizada y Tenabo.
+VII.- De $600.00 (seiscientos pesos), en el resto de las Municipalidades.
 
 ###### Art. 743.
 
@@ -10821,17 +10823,21 @@ Aunque la nulidad absoluta no impide que el acto produzca de hecho sus efectos, 
 
 La nulidad es relativa cuando no reúne todos los caracteres enumerados en el artículo anterior. Siempre permite que el acto produzca provisionalmente sus efectos.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1943)</small>
+
 ###### Art. 2119.
 
-La falta de forma establecida por la ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la explotación de la necesidad, la lesión y la incapacidad de cualquiera de los autores del acto, produce la nulidad relativa del mismo.
+La falta de reforma (sic) establecida por la Ley, si no se trata de actos solemnes, así como el error, el dolo, la violencia, la explotación de la necesidad y la incapacidad de cualquiera de los actores del acto, produce la nulidad relativa del mismo.
 
 ###### Art. 2120.
 
 La acción y la excepción de nulidad por falta de forma competen a todos los interesados.
 
+> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 1943)</small>
+
 ###### Art. 2121.
 
-La nulidad por causa de error, dolo, violencia, explotación de la necesidad, lesión o incapacidad, sólo puede invocarse por el que ha sufrido esos vicios de consentimiento, se ha perjudicado por la lesión o es el incapaz.
+La nulidad por causa de error, dolo, violencia, explotación de la necesidad o incapacidad, solo puede invocarse por el que ha sufrido esos vicios de consentimiento o es incapaz.
 
 ###### Art. 2122.
 
@@ -15088,3 +15094,7 @@ POR SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO UNICO DEL DECRETO.
 ###### ARTICULO UNICO.
 
 EL CODIGO CIVIL DEL ESTADO A QUE SE HACE MENCION, COMENZARA A REGIR EL DIA QUINCE DE LOS CORRIENTES MES Y AÑO.
+
+P.O. 11 DE NOVIEMBRE DE 1943.
+
+Artículo Unico.- El presente decreto surtirá sus efectos legales correspondientes al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
