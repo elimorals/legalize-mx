@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1959-08-08"
+last_updated: "1961-09-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE AGOSTO DE 1959.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE SEPTIEMBRE DE 1961.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -331,11 +331,11 @@ Si el Congreso estuviere en período extraordinario de sesiones cuando deba come
 
 El día 15 de Diciembre de cada año, el C. Gobernador del Estado, concurrirá a la Sesión que celebre en ese día el H. Congreso de la Entidad, y presentará al mismo un Informe por escrito, sobre el estado general de la Administración Pública. En caso de Período Extraordinario de Sesiones del H. Congreso del Estado, solicitado por el Ejecutivo, el C. Gobernador de Sinaloa, concurrirá por sí o por medio de Representante a la Sesión de Apertura de dicho Período, explicando a la Legislatura los motivos y el objeto de la Convocatoria a Período Extraordinario y los asuntos que requieran una pronta resolución. El Presidente de la Legislatura contestará las exposiciones hechas por el C. Gobernador del Estado, en términos generales.
 
-> <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 1958)</small>
+> <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 1961)</small>
 
 ###### Art. 40 Bis.
 
-A la Apertura de cada Primer Período Ordinario de Sesiones del Congreso, concurr rá (sic) el Presidente del Supremo Tribunal de Justicia y presentará un Informe por escrito sobre el estado que guarde la Administración de la Justicia de la Entidad. El Presidente de la Legislatura contestará en términos generales.
+En el mes de enero de cada año, el Supremo Tribunal de Justicia del Estado enviará al Congreso un Informe por escrito sobre el estado que guarde la Administración de la Justicia en la Entidad. Este Informe comprenderá todo el año próximo anterior.
 
 ###### Art. 41.
 
@@ -1840,3 +1840,9 @@ P.O. 8 DE AGOSTO DE 1959.
 Primero.- El presente Decreto no se aplicará a los núcleos de población del Estado, que con anterioridad hayan elevado solicitudes al Congreso y se hubiesen turnado a la Comisión respectiva.
 
 Segundo.- El presente Decreto comenzará a surtir sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE SEPTIEMBRE DE 1961.
+
+Artículo Primero.- El presente Decreto iniciará su vigencia a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- El Informe que deberá rendir el Supremo Tribunal de Justicia del Estado en el mes de enero del próximo año de 1962, comprenderá las labores desarrollados (sic) por el Poder Judicial del Estado desde el primero de Septiembre de 1960 hasta el 31 de diciembre del presente año de 1961.
