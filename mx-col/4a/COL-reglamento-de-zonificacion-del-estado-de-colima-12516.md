@@ -4,7 +4,7 @@ identifier: "COL-reglamento-de-zonificacion-del-estado-de-colima-12516"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-23"
-last_updated: "2002-02-23"
+last_updated: "2002-09-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12516&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 REGLAMENTO DE ZONIFICACION DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE SEPTIEMBRE DE 2002.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 23 de agosto de 1997.
 
@@ -561,7 +561,7 @@ XXVI. Espacios verdes y abiertos, clave EV;
 
 XXVll. Equipamiento especial, clave EE;
 
-XXVIII. Infraestructura, clave IN;(sic)
+XXVIII. Infraestructura, clave IN.
 
 ###### Artículo 22.
 
@@ -1927,7 +1927,7 @@ El uso habitacional debe quedar excluido dentro de estas zonas con el fin de pro
 
 Cuando este tipo de establecimiento mezcle su actividad industrial con la comercial, se desarrolle en edificación cerrada y cumpla con un COS máximo del cincuenta por ciento, con un mínimo del treinta por ciento de área jardinada, podrá ser considerado comercial y aceptarse en cualquiera de las zonas MD, CD, CR y S.
 
-II. Industria de mediano impacto y riesgo, I-2: estas zonas están previstas para instalaciones industriales y relacionadas que puedan cumplir con los lineamientos técnicos señalados en este reglamento para el nivel medio relativos a la prevención de siniestros, riesgos urbanos, control de emisiones e impacto ambiental. Estas instalaciones no necesitan estar en edificaciones cerradas excepto en áreas colindantes con alguna zona habitacional de la propia industria. No deberán permitirse dentro de estas zonas usos habitacionales, ni de equipamiento urbano comunitario ajeno a las actividades de la propia zona.
+II. Industria de mediano impacto y riesgo, I-2: estas zonas están previstas para instalaciones industriales y relacionadas que puedan cumplir con los lineamientos técnicos señalados en este reglamento para el nivel medio, relativos a la prevención de siniestros, riesgos urbanos, control de emisiones e impacto ambiental. Estas instalaciones no necesitan estar en edificaciones cerradas excepto en áreas colindantes con alguna zona habitacional de la propia industria. No deberán permitirse dentro de estas zonas usos habitacionales, ni de equipamiento urbano comunitario ajeno a las actividades de la propia zona.
 
 III. Industria pesada y de alto impacto y riesgo, I-3: Estas zonas están previstas para instalaciones en las que se desarrollan procesos productivos que por su naturaleza y/o volumen de producción alcanzan niveles potencialmente contaminantes de acuerdo a las Normas Oficiales Mexicanas y a los criterios expresados en este reglamento.
 
@@ -3027,9 +3027,17 @@ Para las zonas de uso mixto con habitacional plurifamiliar horizontal y vertical
 
 VII. En las zonas comerciales y de servicios, tipo Cx, la cesión al ayuntamiento comprenderá el quince por ciento de la superficie vendible de esta zona a desarrollar; de la cual, el seis por cuatro (sic) se destinará necesariamente para áreas verdes o espacios abiertos, el cuatro por ciento para equipamiento escolar y el dos por ciento para otros equipamientos.
 
-VIII. En las zonas de servicios a la industria y al comercio, tipo S, la cesión al ayuntamiento comprenderá el quince por ciento de la superficie vendible de esta zona a desarrollar; de la cual, el cuatro por ciento se destinará necesariamente para áreas verdes, el dos por ciento para equipamiento escolar y el dos por ciento para otros equipamientos.
+> <small>(REFORMADA, G.G. 21 DE SEPTIEMBRE DE 2002)</small>
 
-IX. En las zonas industriales, tipo I, la cesión al ayuntamiento comprenderá el quince por ciento de la superficie vendible de la zona a desarrollar; de la cual, el cuatro por ciento se destinará necesariamente para áreas verdes, el dos por ciento para equipamiento escolar y el dos por ciento para otros equipamientos.
+VIII. En las zonas de servicios a la industria y al comercio, tipo S, la cesión al ayuntamiento comprenderá el ocho por ciento de la superficie vendible de la zona a desarrollar; de la cual, el cinco por ciento se destinará necesariamente para áreas verdes, y el tres por ciento restante para otros equipamientos.
+
+En el caso de que el desarrollo que se pretenda realizar no represente la división del predio en más de dos fracciones o no implique la apertura de vías públicas, no será obligatoria la cesión al ayuntamiento, en cuyo caso el urbanizador destinará necesariamente un cinco por ciento de la superficie vendible a espacios verdes y abiertos que tendrán la finalidad de servir como áreas de amortiguamiento con otros tipos de zonas, por lo cual su emplazamiento será precisamente en la colindancia con estas zonas.
+
+> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2002)</small>
+
+IX. En las zonas industriales, tipo I, la cesión al ayuntamiento comprenderá el ocho por ciento de la superficie vendible de la zona a desarrollar; de la cual, el cinco por ciento se destinará necesariamente para áreas verdes, y el tres por ciento restante para otros equipamientos.
+
+En el caso de que el aprovechamiento que se pretenda realizar no implique la división del predio en más de dos fracciones, no será obligatoria la cesión al ayuntamiento, en cuyo caso el urbanizador destinará necesariamente un cinco por ciento de la superficie vendible a espacios verdes y abiertos que tendrán la finalidad de servir como áreas de amortiguamiento con otros tipos de zonas, por lo cual su emplazamiento será precisamente en la colindancia con estas zonas.
 
 ###### Artículo 140.
 
@@ -7456,3 +7464,7 @@ ING. ADALBERTO GARCIA BRITO
 P.O. 23 DE FEBRERO DE 2002.
 
 UNICO.- El presente Decreto entrará en vigor el día 1° de marzo del año en curso y deberá publicarse en el Periódico Oficial "El Estado de Colima".
+
+P.O. 21 DE SEPTIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
