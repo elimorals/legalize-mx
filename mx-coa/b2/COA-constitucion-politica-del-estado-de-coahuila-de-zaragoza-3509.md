@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2004-02-27"
+last_updated: "2004-12-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2004.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -110,13 +110,7 @@ La División Territorial.
 
 La Competencia Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO PRIMERO.
-
-Bases Generales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 7º.
 
@@ -202,7 +196,7 @@ Clasificación Política de los Habitantes del Estado.
 
 ###### Artículo 9º.
 
-Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos; transeuntes y extranjeros.
+Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos; transeúntes y extranjeros.
 
 > <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
@@ -230,7 +224,7 @@ Son ciudadanos coahuilenses:
 
 I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.
 
-II. Los mexicanos por nacimiento que reunan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de 10 años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
+II. Los mexicanos por nacimiento que reúnan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de 10 años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
 
 > <small>(REFORMADA, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -248,7 +242,7 @@ Son vecinos, los mexicanos que tengan seis meses de residencia continua en el Es
 
 ###### Artículo 14.
 
-Las personas que se encuentren accidentalmente en el Estado sin ser ciudadanos de éste o coahuilenses, se considerarán como transeuntes.
+Las personas que se encuentren accidentalmente en el Estado sin ser ciudadanos de éste o coahuilenses, se considerarán como transeúntes.
 
 ###### Artículo 15.
 
@@ -262,7 +256,7 @@ De las Obligaciones y Derechos de los Habitantes del Estado.
 
 Son deberes de los habitantes del Estado:
 
-I. Someterse a la leyes vigentes y respetar las autoridades legítimamente constituídas, cooperando al buen nombre y prestigio de ellas.
+I. Someterse a las leyes vigentes y respetar las autoridades legítimamente constituídas, cooperando al buen nombre y prestigio de ellas.
 
 II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propiedad que tengan o industria, profesión o trabajo de que subsistan.
 
@@ -278,7 +272,7 @@ V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Esta
 
 Los habitantes del Estado tienen, además de los derechos concedidos en el Capítulo I de la Constitución General de la República, los siguientes:
 
-I. A ser amparados y protegidos por las leyes que serán aplicadas con igualdad a todas la personas, siempre que se encuentren colocadas en la misma situación jurídica.
+I. A ser amparados y protegidos por las leyes que serán aplicadas con igualdad a todas las personas, siempre que se encuentren colocadas en la misma situación jurídica.
 
 > <small>(REFORMADA, P.O. 26 DE MARZO DE 1938)</small>
 
@@ -630,11 +624,11 @@ Esta Ley no podrá ser vetada ni necesitará de promulgación del Ejecutivo Esta
 
 De las Sesiones del Congreso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE ENERO DE 1998)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 46.
 
-El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de abril y terminará a más tardar el 30 de junio. El segundo iniciará el 15 de octubre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
+El Congreso tendrá dos períodos ordinarios de sesiones cada año. El primero iniciará el 1º de marzo y terminará a más tardar el 30 de junio. El segundo iniciará el 1º de octubre y concluirá a más tardar el 31 de diciembre. Estos períodos serán improrrogables.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 1994)</small>
 
@@ -694,7 +688,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
 
 ###### Artículo 56.
 
@@ -778,7 +772,9 @@ Toda iniciativa de ley o decreto deberá sujetarse a los trámites siguientes:
 
 I. Dictamen de Comisión.
 
-II. Una o dos discusiones, en los términos que expresan las fracciones siguientes.
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2004)</small>
+
+II. Una, o dos discusiones en el supuesto que expresa la fracción V de este artículo.
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 1998)</small>
 
@@ -1870,7 +1866,7 @@ El período constitucional de los integrantes del Poder Judicial será:
 
 > <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1993)</small>
 
-I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de los dispuesto por el artículo 77 de esta Constitución.
+I. De seis años para los Magistrados del Tribunal Superior de Justicia, a partir del día 30 de diciembre del año en el que corresponda tomar posesión del cargo de Gobernador del Estado en los términos de lo dispuesto por el artículo 77 de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)</small>
 
@@ -2046,11 +2042,11 @@ Los Magistrados de los Tribunales Unitarios de Distrito, los Jueces de Primera I
 
 (REFORMADA SU DENOMINACION, P.O. 17 DE JUNIO DE 1988)(F. DE E., P.O. 5 DE JULIO DE 1988)
 
-### CAPITULO IV.
+### CAPITULO III.
 
-La Justicia Constitucional Local.
+De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
 
 ###### Artículo 148.
 
@@ -2114,13 +2110,13 @@ Los Magistrados y Jueces recibirán una remuneración adecuada e irrenunciable, 
 
 Esta remuneración les será cubierta en los términos que establezcan las leyes, con todas las prestaciones y en igual cantidad como si estuviesen en activo, en los casos de pensión, jubilación, retiro obligatorio e incapacidad declarada. En caso de defunción, de ella disfrutarán sus beneficiarios.
 
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
 
-### CAPITULO III.
+### CAPITULO IV.
 
-De las Garantías de Acceso y Ejercicio de la Función Jurisdiccional.
+La Justicia Constitucional Local.
 
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 154.
 
@@ -2166,13 +2162,13 @@ En todo proceso penal, la víctima o el ofendido por algún delito, tendrá dere
 
 Los daños causados por error judicial grave, así como los que sean consecuencia del funcionamiento anormal de la administración de justicia, darán derecho a una indemnización a cargo del Estado, conforme a las leyes.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-### CAPITULO I.
-
-Bases Fundamentales.
-
 > <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+### CAPITULO II.
+
+El Gobierno Municipal.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158.
 
@@ -2250,17 +2246,31 @@ La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerd
 
 La Justicia Constitucional se regirá en todos los casos por la jurisprudencia local.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO TERCERO.
+
+Las Funciones y Servicios Públicos Municipales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEXTO.
 
 El Municipio Libre.
 
-> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
-### CAPITULO II.
+APARTADO PRIMERO.
 
-El Gobierno Municipal.
+Bases Generales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+
+### CAPITULO I.
+
+Bases Fundamentales.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-A.
 
@@ -2296,13 +2306,7 @@ Los gobiernos estatal y municipal y los organismos públicos autónomos, en la e
 
 Estos principios están vinculados directamente con los valores, principios y bases previstas en esta Constitución y demás leyes aplicables, bajo el estado humanista, social y democrático de derecho.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO TERCERO.
-
-Las Funciones y Servicios Públicos Municipales.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ### CAPITULO UNICO.
 
@@ -2414,7 +2418,13 @@ VII. En el caso de que un Concejo Municipal se ubique en el supuesto previsto en
 
 VIII. En todo caso, el Congreso del Estado deberá tomar las medidas necesarias para asegurar la gobernabilidad del Municipio mientras realiza la designación de los miembros del Concejo Municipal.
 
-> <small>(ADICIONADO CON LOS CAPITULOS, SECCIONES, APARTADOS Y ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+
+APARTADO SEGUNDO.
+
+La Hacienda Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-N.
 
@@ -2446,13 +2456,7 @@ En la ley o en el convenio se preverá la correspondiente transferencia de medio
 
 Los supuestos contenidos en este artículo se fundamentarán en una interpretación funcional de los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
-
-APARTADO SEGUNDO.
-
-La Hacienda Municipal.
-
-> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-P.
 
@@ -2507,8 +2511,6 @@ Toda contribución que establezca el Congreso del Estado para integrar la hacien
 ###### Artículo 158-T.
 
 Para fijar la distribución de las participaciones o aportaciones federales y estatales a los Municipios, el Congreso del Estado deberá tomar en cuenta, por lo menos, los criterios de población, marginación social, desarrollo económico, esfuerzo recaudatorio y eficiencia de los servicios públicos, a fin de que la distribución de los ingresos a los Municipios genere un desarrollo integral armónico, sustentable y equitativo en todas las regiones del Estado, bajo los principios de fidelidad federal y municipal.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ###### Artículo 158-U.
 
@@ -2708,7 +2710,7 @@ III. En el caso de que no exista la solicitud previa del Ayuntamiento, aprobada 
 
 IV. En todo caso, la resolución se basará en el interés público de garantizar el ejercicio o prestación continua y eficiente de la función o servicio público de que se trate. Para tal efecto, las partes en conflicto deberán ofrecer todas las pruebas necesarias para determinar la situación real que guarda la prestación del servicio o el ejercicio de la función; pero la autoridad que resuelva tiene, en cualquier momento, el derecho de recabar todas las pruebas necesarias para decidir lo conducente.
 
-> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
+> <small>(ADICIONADO CON LAS SECCIONES, APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2001)</small>
 
 ## TITULO SEPTIMO.
 
@@ -2974,7 +2976,7 @@ En el Estado toda elección será directa en primer grado exceptuando la que hag
 
 ###### Artículo 180.
 
-Los Ministros de cualquier culto religioso no pueden ser nombrados para ningún empleo o cargo del elección popular.
+Los Ministros de cualquier culto religioso no pueden ser nombrados para ningún empleo o cargo de elección popular.
 
 > <small>(REFORMADO, P.O. 27 DE ENERO DE 1984)</small>
 
@@ -3548,7 +3550,7 @@ El artículo 135 fracción II de la Constitución, sólo se aplicará a los Magi
 
 ###### ARTÍCULO SEXTO.
 
-A partir del día siguiente en que entre en vigor este decreto, los Juzgados de Conciliación no admitirán a trámite ningún asunto de su competencia y deberán concluir los que para esa fecha tengan radicados, a más tardar el día 31 de agosto del 2001, fecha en la que concluirán sus funciones, quedando sin efectos los nombramientos de sus titulares. Sus archivos una vez depurados, deberán concentrarse en los archivos del Poder Judicial que corresponda. Los ayuntamientos, en el ámbito de su competencia, deberá tomar las providencias necesarias para que se cumpla esta disposición.
+A partir del día siguiente en que entre en vigor este decreto, los Juzgados de Conciliación no admitirán a trámite ningún asunto de su competencia y deberán concluir los que para esa fecha tengan radicados, a más tardar el día 31 de agosto del 2001, fecha en la que concluirán sus funciones, quedando sin efectos los nombramientos de sus titulares. Sus archivos una vez depurados, deberán concentrarse en los archivos del Poder Judicial que corresponda. Los ayuntamientos, en el ámbito de su competencia, deberán tomar las providencias necesarias para que se cumpla esta disposición.
 
 ###### ARTÍCULO SÉPTIMO.
 
@@ -3629,3 +3631,9 @@ En todo caso, el organismo público autónomo a que se refiere la fracción VII 
 P.O. 27 DE FEBRERO DE 2004.
 
 ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 3 DE DICIEMBRE DE 2004.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente decreto entrará en vigor y surtirá sus efectos a partir del día 1º de Enero del año 2005 y hasta en tanto se observará lo establecido actualmente en las disposiciones que se reforman en este Decreto.
