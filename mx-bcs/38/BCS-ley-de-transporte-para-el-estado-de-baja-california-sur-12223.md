@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "1998-11-10"
+last_updated: "2002-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE NOVIEMBRE DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE MARZO DE 2002.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -85,9 +85,11 @@ E) Vías de Jurisdicción Estatal: Son los caminos, avenidas, calzadas, calles, 
 
 F) Vía pública terrestre: todo espacio de dominio público y de uso común que por disposición de la ley o por razones de servicio esté destinado al tránsito de vehículos para el transporte de personas, semovientes y carga en general;
 
-> <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
+> <small>(REFORMADO, B.O. 20 DE MARZO DE 2002)</small>
 
-G) Taxi: vehículo de alquiler con chofer destinado al transporte de personas, para prestar el servicio en una población determinada sin ruta e itinerarios fijos, estando obligado el concesionario a prestar el servicio mediante el pago del precio que fijen las tarifas correspondientes. Estos vehículos, de acuerdo con la clasificación del servicio que determine el reglamento de esta Ley, podrán tener capacidad máxima de 5 y 15 pasajeros, respectivamente, de acuerdo al cupo y características de fabricación;
+G) Taxi: Vehículo de alquiler con chofer destinado al Transporte de pasajeros para prestar el servicio de una población determinada sin ruta e itinerario fijos estando obligado el concesionario a prestar el servicio mediante el pago de precio que fijen las tarifas correspondientes. Estos vehículos, de acuerdo con la clasificación del servicio que determina el reglamento de esta ley, podrán tener capacidad mínima de 3 y máxima de 15 pasajeros, respectivamente, de acuerdo al tipo y característica de fabricación.
+
+Tratándose de unidades con capacidad de 3 pasajeros, deberán de ser automóviles de 2 a 5 puertas;
 
 > <small>(REFORMADO, B.O. 31 DE JULIO DE 1998)</small>
 
@@ -1036,3 +1038,9 @@ La presente reforma. Entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO SEGUNDO.
 
 La presente reforma deberá reflejarse en modificaciones al Reglamento de la Ley de Transporte para el Estado de Baja California Sur, a efecto de ser consecuente con el cambio aprobado por esta Soberanía Popular.
+
+B.O. 20 DE MARZO DE 2002.
+
+PRIMERO.- La presente reforma entrará en vigor a los treinta días siguientes al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Gobierno del Estado de Baja California Sur, deberá adecuar el Reglamento para la Ley de Transporte para el Estado de Baja California Sur, a la presente reforma, antes de los treinta días otorgados para su entrada vigor (sic) y publicarlo en su Boletín Oficial.
