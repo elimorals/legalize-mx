@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "1989-12-28"
+last_updated: "1990-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 1989.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE DICIEMBRE DE 1990.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 2 DE MARZO DE 1987.
 
@@ -164,6 +164,10 @@ II. A las personas morales que hayan establecido en México la administración p
 
 Salvo prueba en contrario, se presume que las personas físicas o morales, de nacionalidad mexicana, son residentes en territorio nacional.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de personas físicas, la residencia en el extranjero se acreditará ante la autoridad fiscal, mediante constancia expedida por las autoridades competentes del Estado del cual son residentes.
+
 ###### Artículo 10.
 
 Se considera domicilio fiscal:
@@ -196,9 +200,9 @@ I. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 II. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
-En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación o se fusione. En el primer caso, simultáneamente con la presentación de la declaración del ejercicio se deberá garantizar el interés fiscal en los términos que señale el reglamento de este Código y se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, presentará las declaraciones del ejercicio de la sociedad que desaparezca, la que subsista.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+En los casos en que una sociedad entre en liquidación o sea fusionada, el ejercicio fiscal terminará anticipadamente en la fecha en que entre en liquidación o se fusione. En el primer caso, se considerará que habrá un ejercicio durante todo el tiempo en que la sociedad esté en liquidación. En el caso de fusión, la sociedad que subsista o que se constituya presentará las declaraciones del ejercicio de las que desaparezcan.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -290,6 +294,10 @@ II. Que la contraprestación sea equivalente o superior al valor del bien al mom
 
 III. Que se establezca una tasa de interés aplicable para determinar los pagos y el contrato se celebre por escrito.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. Consignar expresamente en el contrato el valor del bien objeto de la operación y el monto que corresponda al pago de intereses.
+
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 ###### Artículo 16.
@@ -320,15 +328,19 @@ Cuando se perciba el ingreso en bienes o servicios, se considerará el valor de 
 
 Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 17-A.
 
-El monto de las contribuciones o de las devoluciones a cargo del fisco federal se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes más reciente del período entre el citado índice correspondiente al mes más antiguo de dicho período. Las contribuciones no se actualizarán por fracciones de mes.
+El monto de las contribuciones o de las devoluciones a cargo del fisco federal se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del periodo entre el citado índice correspondiente al mes anterior al más antiguo de dicho periodo. Las contribuciones no se actualizarán por fracciones de mes.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
 
-Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en los pagos provisionales y del ejercicio, no será deducible ni acreditable.
 
 ### CAPITULO UNICO
 
@@ -404,9 +416,9 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones se considerarán, inclusive, las fracciones del peso; no obstante lo anterior para efectuar el pago se estará a lo dispuesto por la Ley Monetaria.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Cuando las leyes establezcan que las contribuciones se pagan mediante declaración, la Secretaría de Hacienda y Crédito Público podrá ordenar, por medio de disposiciones de carácter general, y con el objeto de facilitar el cumplimiento de la obligación que la información correspondiente se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
+Cuando las leyes fiscales establezcan que las contribuciones se paguen mediante declaración, la Secretaría de Hacienda y Crédito Público podrá ordenar, por medio de disposiciones de carácter general y con el objeto de facilitar el cumplimiento de la obligación, así como para allegarse de la información necesaria en materia de estadística de ingresos, que se proporcione en declaración distinta de aquélla con la cual se efectúe el pago.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -428,45 +440,35 @@ Alimentos, bebidas y tabaco; ropa, calzado y accesorios; vivienda; muebles, apar
 
 El Banco de México publicará en el Diario Oficial de la Federación los estados, zonas conurbadas, ciudades, artículos, servicios, conceptos de consumo y ramas a que se refieren las fracciones I y II así como las cotizaciones utilizadas para calcular el Indice.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 21.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se aplicarán cada mes sobre las contribuciones actualizadas y se calcularán conforme a tasas que serán 50% mayores de las que mediante ley fije anualmente el Congreso de la Unión para cada uno de los períodos que a continuación se indican, comprendidos entre el mes en que debió hacerse el pago y aquél en que el mismo se efectúe:
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, además deberán pagarse recargos en concepto de indemnización al fisco federal por la falta de pago oportuno. Dichos recargos se calcularán aplicando al monto de las contribuciones actualizadas por el periodo a que se refiere éste párrafo, la tasa que resulte de sumar las aplicables en cada año para cada uno de los meses transcurridos en el periodo de actualización de la contribución de que se trate. La tasa de recargos para cada uno de los meses de mora será la que resulte de incrementar en 50% a la que mediante Ley fije anualmente el Congreso de la Unión.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+I. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-I. Hasta doce meses.
+II. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+III. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-II. De más de doce hasta veinticuatro meses.
+IV. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+V. (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
-III. De más de veinticuatro hasta treinta y seis meses.
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-IV. De más de treinta y seis hasta cuarenta y ocho meses.
-
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-V. De más de cuarenta y ocho hasta sesenta meses.
-
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos, la indemnización a que se refiere el párrafo séptimo de este artículo, los gastos de ejecución y las multas por infracción a disposiciones fiscales.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 En los casos de garantía de obligaciones fiscales a cargo de terceros, los recargos se causarán sobre el monto de lo requerido y hasta el límite de lo garantizado, cuando no se pague dentro del plazo legal.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Los recargos se causarán por cada mes o fracción que transcurra a partir del día en que debió hacerse el pago y hasta que el mismo se efectúe.
 
@@ -490,19 +492,19 @@ En el caso de aprovechamientos, los recargos se calcularán de conformidad con l
 
 En ningún caso las autoridades fiscales podrán liberar a los contribuyentes de la actualización de las contribuciones o condonar total o parcialmente los recargos correspondientes.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 22.
 
-Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque o certificados expedidos a nombre del contribuyente, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firmes de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
+Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado, mediante cheque nominativo para abono en cuenta del contribuyente o certificados expedidos a nombre de éste último, los que se podrán utilizar para cubrir cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente se podrá solicitar la devolución del saldo a favor de quien presentó la declaración del ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firmes de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos, las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de tres meses siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 17-A de este Código, desde la fecha en que se venció el plazo para efectuar la devolución y aquélla en que ésta se efectúe. Cuando la declaración se presente antes del término del plazo, la actualización se hará a partir de esa fecha. Si la devolución no se hubiera efectuado en el plazo de tres meses, las autoridades fiscales pagarán intereses que se calcularán conforme a una tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 21 del citado Código.
+Cuando se solicite la devolución, ésta deberá efectuarse dentro del plazo de tres meses siguientes a la fecha en que se presentó la solicitud ante la autoridad fiscal competente con todos los datos, informes y documentos que señale la forma oficial respectiva. El fisco federal deberá pagar la devolución que proceda actualizada conforme a lo previsto en el artículo 17-A de este Código, desde el mes en que se presentó la declaración hasta aquél en que la devolución se efectúe. Si la devolución no se hubiera efectuado en el plazo de tres meses, las autoridades fiscales pagarán intereses que se calcularán a partir del día siguiente al de vencimiento de dicho plazo, conforme a una tasa que se aplicará sobre la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 21 del citado Código.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -526,15 +528,15 @@ La devolución mediante los certificados a que se refiere el primer párrafo de 
 
 Lo dispuesto en el cuarto párrafo de este artículo también será aplicable cuando las autoridades fiscales hayan, efectuado compensación de oficio en los términos del penúltimo párrafo del artículo 23.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 23.
 
-Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto bastará que efectúen la compensación de dichas cantidades actualizadas, desde el mes en que fue exigible la cantidad a cargo o a favor hasta aquél en que opere la compensación en la declaración respectiva Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución por la cual están obligados a efectuar el pago, sólo se podrán compensar en los casos y cumpliendo los requisitos que la Secretaría de Hacienda y Crédito Público establezca mediante reglas de carácter general.
+Los contribuyentes obligados a pagar mediante declaración podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, siempre que ambas deriven de una misma contribución, incluyendo sus accesorios. Al efecto bastará que efectúen la compensación de dichas cantidades actualizadas, desde el mes en que se presentó la declaración hasta aquél en que la compensación se realice. Si las cantidades que tengan a su favor los contribuyentes no derivan de la misma contribución por la cual están obligados a efectuar el pago, sólo se podrán compensar en los casos y cumpliendo los requisitos que la Secretaría de Hacienda y Crédito Público establezca mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código sobre las cantidades, actualizadas, compensadas indebidamente a partir de la fecha de la compensación. Dichas cantidades se actualizarán desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago que la sustituya.
+Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 21 de este Código sobre las cantidades compensadas indebidamente, actualizadas por el periodo transcurrido desde el mes en que se efectuó la compensación indebida hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
 
 No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
 
@@ -578,9 +580,9 @@ II. Las personas que estén obligadas a efectuar pagos provisionales por cuenta 
 
 III. Los liquidadores y síndicos por las contribuciones que debieron pagar a cargo de la sociedad en liquidación o quiebra, así como de aquéllas que se causaron durante su gestión.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación garantice respecto de dichas contribuciones el interés fiscal en los términos del artículo 11 de este Código, y siempre que cumpla con las obligaciones de presentar avisos y de proporcionar informes, a que se refiere este Código y su Reglamento.
+No será aplicable lo dispuesto en el párrafo anterior, cuando la sociedad en liquidación cumpla con las obligaciones de presentar los avisos y de proporcionar los informes a que se refiere este Código y su Reglamento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -608,15 +610,19 @@ IX. Los terceros que para garantizar el interés fiscal constituyan depósito, p
 
 X. Los socios o accionistas, respecto de las contribuciones que se hubieran causado en relación con las actividades realizadas por la sociedad cuando tenían tal calidad, en la parte del interés fiscal que no alcance a ser garantizada con los bienes de la misma, siempre que dicha sociedad incurra en cualquiera de los supuestos a que se refieren los incisos a), b) y c) de la fracción III de este artículo, sin que la responsabilidad exceda de la participación que tenían en el capital social de la sociedad durante el período o a la fecha de que se trate.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+XI. Las sociedades que, debiendo inscribir en el registro o libro de acciones o partes sociales a sus socios o accionistas, inscriban a personas físicas que no comprueben haber retenido y enterado, en caso de que así proceda, el impuesto sobre la renta causado por el enajenante de tales acciones o partes sociales o, en su caso, haber recibido copia del dictamen respectivo.
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 27.
 
-Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar su inscripción en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el reglamento de este Código.
+Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas o que estén obligadas a expedir comprobantes por las actividades que realicen, deberán solicitar su inscripción en el registro federal de contribuyentes de la Secretaría de Hacienda y Crédito Público y proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal, mediante los avisos que se establecen en el Reglamento de este Código.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -632,9 +638,7 @@ La Secretaría de Hacienda y Crédito Público llevará el registro federal de c
 
 Tratándose de establecimientos para la realización de actividades empresariales, o de locales que se utilicen como base fija para el desempeño de servicios personales independientes, abiertos al público en general, los contribuyentes deberán conservar en ellos, copias de los avisos que por los mismos establecimientos o locales hayan presentando conforme a este artículo y al Reglamento de este Código, debiendo exhibirlos a las autoridades fiscales cuando éstas lo soliciten.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
-
-Las personas físicas que dejen de realizar actividades empresariales deberán garantizar el interés fiscal en los términos del Reglamento de este Código.
+> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -668,8 +672,6 @@ Cuando las leyes fiscales establezcan la obligación de expedir comprobantes por
 
 Para poder deducir o acreditar fiscalmente con base en los comprobantes a que se refiere el párrafo anterior, quien los utilice deberá cerciorarse de que el nombre, denominación o razón social y clave del registro federal de contribuyentes de quien aparece en los mismos son los correctos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, REMITIRSE AL ARTICULO SEGUNDO FRACCION III DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO QUE SE INDICA.</small>
-
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 Asimismo, quienes expidan los comprobantes referidos deberán asegurarse de que el nombre, denominación o razón social y domicilio asentados en los mismos correspondan a la persona a favor de quien se expidan. La Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, podrá establecer facilidades para la identificación del adquirente.
@@ -685,6 +687,16 @@ Los contribuyentes con local fijo tendrán obligación de registrar el valor de 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 La Secretaría de Hacienda y Crédito Público llevará el registro de los contribuyentes a quienes proporcione máquinas registradoras de comprobación fiscal y éstos deberán presentar los avisos y conservar la información que señale el reglamento de este Código.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### Artículo 29-A.
+
+En el transporte de mercancías de importación por el territorio nacional, sus propietarios o poseedores deberán acompañarlas con la documentación necesaria para amparar sus efectos fiscales de conformidad con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
+No se tendrá tal obligación en los casos de mercancías o bienes de uso personal, o menaje de casa, así como de productos agrícolas, ganaderos, silvícolas o pesqueros.
+
+La verificación del cumplimiento de la obligación a que se refiere este artículo, sólo podrá efectuarse por la autoridad competente de la Secretaría de Hacienda y Crédito Público.
 
 ###### Artículo 30.
 
@@ -712,13 +724,27 @@ Los contribuyentes que únicamente realicen operaciones con el público en gener
 
 Cuando el contribuyente lleve su contabilidad mediante los sistemas manual o mecanizado o cuando su equipo de cómputo no pueda procesar dispositivos en los términos señalados por la Secretaría, la información deberá proporcionarse en las formas que al efecto apruebe dicha dependencia.
 
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO REMITIRSE AL ARTICULO TERCERO FRACCION I DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO EN CITA.</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Las personas que presten los servicios públicos que mediante reglas de carácter general determine la Secretaría de Hacienda y Crédito Público, estarán obligadas a proporcionar a la citada dependencia la información a que se refiere este artículo, relacionándola con la clave que la propia Secretaría determine en dichas reglas. Los prestadores de servicios solicitarán de sus usuarios los datos que requieran para formar la clave; los usuarios deberán informar a los prestadores del servicio, los datos que se requieran para estos efectos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los organismos descentralizados que presten servicios de seguridad social deberán proporcionar a las autoridades fiscales, cuando así se lo soliciten, la información sobre sus contribuyentes, identificándolos con la clave del registro federal de contribuyentes que les corresponda.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 31.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro federal de contribuyentes, declaraciones o avisos, ante las autoridades fiscales, así como de expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos, que dichas formas requieran.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro federal de contribuyentes, declaraciones o avisos, ante las autoridades fiscales, así como expedir constancias o documentos, lo harán en las formas que al efecto apruebe la Secretaría de Hacienda y Crédito Público, debiendo proporcionar el número de ejemplares, los datos e informes y adjuntar los documentos que dichas formas requieran. Los datos de identificación personal del contribuyente se proporcionarán mediante el "código de barras" en los casos que señale la citada Secretaría en las reglas de carácter general que al efecto expida.
 
 En los casos en que las formas para la presentación de las declaraciones o avisos y expedición de constancias, que prevengan las disposiciones fiscales, no hubieran sido aprobadas por la Secretaría de Hacienda y Crédito Público, los obligados a presentarlas las formularán en escrito por cuadruplicado que contenga su nombre, domicilio y clave de registro federal de contribuyentes, así como el ejercicio y los datos relativos a la obligación que pretendan cumplir; en caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
-Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, las seguirán presentando aun cuando no haya pago a efectuar, en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los contribuyentes que tengan obligación de presentar declaraciones periódicas de conformidad con las leyes fiscales respectivas, continuarán haciéndolo en tanto no presenten los avisos que correspondan para efectos del registro federal de contribuyentes, excepto las declaraciones de pago provisional cuando no tengan impuesto a cargo ni saldo a favor. Cuando se presente una declaración de pago provisional sin impuesto a cargo, se presumirá que no existe impuesto a cargo en las declaraciones de pago provisional posteriores que no sean presentadas.
 
 Los representantes, sea cual fuere el nombre con que se les designe, de personas no residentes en el país, con cuya intervención éstas efectúen actividades por las que deban pagarse contribuciones, están obligados a formular y presentar a nombre de sus representadas, las declaraciones, avisos y demás documentos que señalen las disposiciones fiscales.
 
@@ -733,6 +759,10 @@ Las oficinas a que se refiere el párrafo anterior, recibirán las declaraciones
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
 Cuando por diferentes contribuciones se deba presentar una misma declaración o aviso y se omita hacerlo por alguna de ellas, se tendrá por no presentada la declaración o aviso por la contribución omitida.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Las personas obligadas a presentar avisos en los términos de las disposiciones fiscales podrán presentar avisos complementarios, completando o sustituyendo los datos del aviso original, siempre que los mismos se presenten dentro de los plazos previstos en las disposiciones fiscales.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -750,6 +780,10 @@ II. Cuando sólo disminuyan sus deducciones o pérdidas o reduzcan las cantidade
 
 III. Cuando el contribuyente haga dictaminar por contador público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de Ley.
+
 Lo dispuesto en este precepto no limita las facultades de comprobación de las autoridades fiscales.
 
 La modificación de las declaraciones a que se refiere este artículo se efectuará mediante la presentación de declaración complementaria que modifique los datos de la original.
@@ -759,6 +793,40 @@ Iniciado el ejercicio de facultades de comprobación, únicamente se podrá pres
 Se presentará declaración complementaria conforme a lo previsto por el tercer párrafo del artículo 144 de este Código, caso en el cual se pagará la multa que corresponda, calculada sobre la parte consentida de la resolución y disminuida en los términos del artículo 77, fracción II, inciso b) del mismo.
 
 Si en la declaración complementaria se determina que el pago efectuado fue menor al que correspondía, los recargos se computarán sobre la diferencia, en los términos del artículo 21 de este Código, a partir de la fecha en que se debió hacer el pago.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### Artículo 32-A.
+
+Las personas que se encuentren en alguno de los supuestos de las siguiente fracciones están obligadas a dictaminar, en los términos del artículo 52 del Código Fiscal de la Federación, sus estados financieros por contador público autorizado:
+
+I. Las que en el ejercicio inmediato anterior hayan obtenido ingresos acumulables superiores a cinco mil millones de pesos, que el valor de su activo determinado en los términos de la Ley del Impuesto al Activo sea superior a diez mil millones de pesos o que por lo menos 300 de sus trabajadores les hayan prestado servicios en cada uno de los meses del ejercicio inmediato anterior.
+
+Para efectos de lo dispuesto por esta fracción se considera como una sola persona, el conjunto de aquéllas que reúna alguna de las características que se señalan a continuación, caso en el cual cada una de éstas deberán cumplir con la obligación establecida por este artículo:
+
+a). Cuando una persona posea más del 50% de las acciones o partes sociales con derecho a voto de una o más personas morales.
+
+b). Cuando una persona ejerza control efectivo de una o más personas morales, en los términos de lo dispuesto por el artículo 57-C de la Ley del Impuesto sobre la Renta, aún cuando entre ellas no determinen su resultado fiscal consolidado.
+
+II. Las que estén autorizadas para recibir donativos deducibles en los términos de la Ley del Impuesto sobre la Renta. En este caso, el dictamen se realizará en forma simplificada de acuerdo con las reglas generales que al efecto expida la Secretaría de Hacienda y Crédito Público.
+
+Lo dispuesto por este artículo no es aplicable a las instituciones de asistencia o beneficencia autorizadas por las leyes de la materia ni a los contribuyentes a que se refiere el artículo 67-I de la Ley del Impuesto sobre la Renta.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### Artículo 32-B.
+
+Las instituciones de crédito tendrán las siguientes obligaciones:
+
+I. Anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y clave del registro federal de contribuyentes del primer titular de la cuenta, cuando éste sea persona moral o en el caso de personas físicas, cuando la cuenta se utilice para el desarrollo de su actividad empresarial.
+
+II. Abonar el importe de los cheques que contengan la expresión "para abono en cuenta" a la cuenta que se lleve o abra en favor del beneficiario.
+
+III. Procesar las declaraciones de pago de contribuciones que reciban, en los términos que establezca la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+
+IV. Proporcionar en los términos de la Ley de Instituciones de Crédito y por conducto de la Comisión Nacional Bancaria, la información de los depósitos, servicios o cualquier tipo de operaciones que soliciten las autoridades fiscales a través del mismo conducto.
+
+V. Verificar el nombre, denominación o razón social, domicilio y clave del registro federal de contribuyentes o la que la sustituya de sus cuentahabientes.
 
 ## TITULO III. De las Facultades de las Autoridades Fiscales
 
@@ -1002,7 +1070,9 @@ IV. Con las mismas formalidades a que se refieren las fracciones anteriores, se 
 
 Cuando en el desarrollo de una visita las autoridades fiscales conozcan hechos u omisiones que puedan entrañar incumplimiento de las disposiciones fiscales, los consignarán en forma circunstanciada en actas parciales. También se consignarán en dichas actas los hechos u omisiones que se conozcan de terceros. En la última acta parcial que al efecto se levante se hará mención expresa de tal circunstancia y entre ésta y el acta final, deberán transcurrir cuando menos quince días, durante los cuales el contribuyente podrá presentar los documentos, libros o registros que desvirtúen los hechos u omisiones.
 
-Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros o no señala el lugar donde se encuentran.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Se tendrán por consentidos los hechos consignados en las actas a que se refiere el párrafo anterior, si antes del cierre del acta final el contribuyente no presenta los documentos, libros o registros de referencia o no señala el lugar en que se encuentren, siempre que éste sea el domicilio fiscal o el lugar autorizado para llevar su contabilidad.
 
 > <small>(F. DE E., D.O.F. 13 DE JULIO DE 1982)</small>
 
@@ -1078,7 +1148,7 @@ Cuando el contador público no dé cumplimiento a las disposiciones referidas en
 
 En el caso de que con motivo de sus facultades de comprobación, las autoridades fiscales soliciten éstos informes o documentos del contribuyente, responsable solidario o tercero, se estará a lo siguiente:
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y D.O.F. 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 (SIC) Se tendrán los siguientes plazos para su presentación:
 
@@ -1090,7 +1160,7 @@ c). Quince días contados a partir del siguiente a aquél en que se le notificó
 
 Los plazos a que se refiere este inciso se podrán ampliar por las autoridades fiscales por diez días más, cuando se trate de informes cuyo contenido sea difícil de proporcionar o de difícil obtención.
 
-II. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y D.O.F. 1 DE FEBRERO DE 1988)
+II. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1194,6 +1264,10 @@ V. Que las diferencias entre los activos registrados en contabilidad y las exist
 
 VI. Que los cheques librados contra las cuentas del contribuyente a proveedores o prestadores de servicios al mismo, que no correspondan a operaciones registradas en su contabilidad son pagos por mercancías adquiridas o por servicios por los que el contribuyente obtuvo ingresos.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+VII. Que cuando los contribuyentes obtengan salidas superiores a sus entradas, la diferencia resultante es un ingreso omitido.
+
 ###### Artículo 60.
 
 Cuando el contribuyente omita registrar adquisiciones en su contabilidad y éstas fueran determinadas por las autoridades fiscales, se presumirá que los bienes adquiridos y no registrados, fueron enajenados y que el importe de la enajenación fue el que resulta de las siguientes operaciones:
@@ -1240,13 +1314,31 @@ Los hechos que se conozcan con motivo del ejercicio de las facultades de comprob
 
 Las copias o reproducciones de microfilm de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias o reproducciones sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
+> <small>(DEROGADO A PARTIR DEL 1o. DE ENERO DE 1995, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 64.
 
 Las autoridades fiscales, con motivo del ejercicio de sus facultades de comprobación respecto de contribuciones que se pagan mediante declaración periódica formulada por los contribuyentes, procederán como sigue para determinar contribuciones omitidas:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1992.</small>
 
-I. Determinarán, en primer lugar, las contribuciones omitidas en el último ejercicio de doce meses por el que se hubiera presentado o debió haber sido presentada la declaración, a más tardar el día anterior al en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al período transcurrido entre la fecha de terminación de dicho ejercicio y el momento en que se ejerzan las citadas facultades.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990 y 1991, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan las citadas facultades.
+
+> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1993.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991 y 1992, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan la (sic) facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
+
+> <small>N. DE E. EL PRESENTE PARRAFO FUE REFORMADO POR EL ARTICULO SEGUNDO DEL DECRETO DE FECHA 17 DE DICIEMBRE DE 1990 Y PUBLICADO EN EL D.O.F. SEÑALADO, PARA INICIAR SU VIGENCIA A PARTIR DEL 1 DE ENERO DE 1994.</small>
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+I. Determinarán, en primer lugar, las contribuciones omitidas en los ejercicios terminados en 1990, 1991, 1992 y 1993, por los que se hubiera o debió haber sido presentada la declaración, a más tardar el día anterior a aquél en que se ejerzan las facultades de comprobación, así como las contribuciones correspondientes al periodo transcurrido entre la fecha de terminación del último ejercicio y el momento en que se ejerzan la (sic) citadas facultades.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
 Si se tratare de contribuyentes cuyos estados financieros hubieran sido dictaminados por contador público autorizado, se considerará como último ejercicio, aquel de doce meses por el que se haya presentado el último dictamen, salvo que hubieran transcurrido cuando menos doce meses desde que presentó dicho dictamen sin haber presentado otro. En estos casos la determinación también podrá abarcar los meses posteriores a la presentación del último dictamen. Lo dipuesto (sic) en este párrafo se aplicará también a un ejercicio irregular, siempre que el ejercicio regular inmediato anterior también esté dictaminado.
 
@@ -1308,6 +1400,10 @@ VII. No obstante lo dispuesto en la fracción I de este artículo, las autoridad
 
 Lo dispuesto en este artículo no es aplicable a la determinación de contribuciones realizadas por las autoridades fiscales, que derive de la revisión de la cuenta pública federal efectuada por la Contaduría Mayor de Hacienda, a aportaciones de seguridad social, contribuciones sobre ingresos provenientes y deducciones efectuadas en el extranjero o que se causen por la importación de bienes, al impuesto sobre tenencia o uso de vehículos; ni respecto de las deducciones por creación o incremento de reservas de pasivo cuando los pagos correspondientes se efectúen en ejercicios posteriores a aquél en que se hizo la deducción, así como de los ejercicios en que se incurrió en pérdidas para efectos del impuesto sobre la renta, cuando dichas pérdidas se disminuyen total o parcialmente, en el ejercicio respecto del cual se ejercen las facultades de comprobación; no siendo aplicable, incluso en el ejercicio inmediato anterior a aquél en que se incurrió en pérdida, cuando ésta se disminuya en dicho ejercicio. Tampoco es aplicable lo previsto en este artículo a las instituciones que se encuentren sujetas a la inspección y vigilancia de la Comisión Nacional Bancaria y de la Comisión Nacional de Seguros y Fianzas, ni a la determinación de contribuciones que efectúen las autoridades fiscales a cargo de los socios o accionistas por las irregularidades a que se refiere el último párrafo de la fracción II de este artículo, así como por los dividendos señalados en las fracciones IV, V, VI y VII del artículo 120 de la Ley del Impuesto sobre la Renta.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Lo dispuesto en este artículo tampoco será aplicable en el ejercicio de liquidación de las sociedades, cuando se haya presentado el aviso de suspensión de actividades o cuando en los ejercicios de doce meses a que se refiere la fracción I de este artículo, el contribuyente no hubiera realizado sus actividades en forma ordinaria.
+
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 No se formulará querella ni se impondrán multas por omisión en el pago de contribuciones, cuando éstas no puedan determinarse en virtud de lo dispuesto por este artículo.
@@ -1342,9 +1438,13 @@ III. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
 Cuando no se cubra alguna parcialidad dentro de la fecha o plazo fijado, el contribuyente estará obligado a pagar recargos al fisco federal por falta de pago oportuno, conforme a lo establecido por el artículo 21 de este Código, calculados sobre la cantidad no pagada actualizada, debiendo cubrir además los recargos que se causen conforme a la autorización concedida sobre el saldo actualizado, cuyo monto no incluirá el importe de la parcialidad que causó los recargos conforme al artículo 21 de este Código.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-No procederá la autorización a que se refiere este artículo, tratándose de contribuciones que deban pagarse en el año de calendario en curso, ni de las que debieron haberse pagado en los últimos seis meses del año de calendario inmediato anterior, excepto tratándose de aportaciones de seguridad social.
+No procederá la autorización a que se refiere este artículo, tratándose de contribuciones que deban pagarse en el año de calendario en curso, o de las que debieron haberse pagado en los últimos seis meses del año de calendario inmediato anterior, excepto en los casos de aportaciones de seguridad social, de aquéllos a que se refieren los artículos 58, fracción II y 76, fracción I, de este Código, así como cuando se cumpla con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público mediante reglas carácter general.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+No obstante lo previsto en el párrafo anterior, la autorización a que se refiere este artículo no procederá tratándose de contribuciones pagaderas en los plazos a que se refiere dicho párrafo, cuando las mismas se adeuden con motivo de importación o exportación.
 
 ###### Artículo 67.
 
@@ -1402,13 +1502,13 @@ La aplicación de las multas, por infracciones a las disposiciones fiscales, se 
 
 El monto de las multas que este Capítulo establece en cantidades determinadas o entre una mínima y otra máxima, se actualizará en los meses de febrero, mayo, agosto y noviembre con el factor que se obtenga de dividir el Indice Nacional de Precios al Consumidor del penúltimo mes de calendario anterior al de la fecha para la cual se efectúa la actualización, entre el citado índice correspondiente al quinto mes inmediato anterior al de esa fecha. La Secretaría de Hacienda y Crédito Público calculará para las infracciones correspondientes, las cantidades que resulten de las operaciones anteriores y las publicará en el Diario Oficial de la Federación.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe.
+Cuando las multas no se paguen en la fecha establecida en las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe, en los términos del artículo 17-A de este Código.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Las cantidades que resulten en los términos del párrafo anterior, se ajustarán de conformidad con la siguiente
+Las cantidades que resulten en los términos de este artículo, se ajustarán de conformidad con la siguiente:
 
 TABLA
 
@@ -1508,19 +1608,21 @@ IV. Igualmente es agravante, el que la comisión de la infracción sea en forma 
 
 V. Cuando por un acto o una omisión se infrinjan diversas disposiciones fiscales a las que correspondan varias multas, sólo se aplicará la que corresponda a la infracción cuya multa sea mayor.
 
-VI. En el caso de que la multa se pague dentro del mes siguiente a la fecha en que se le notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo dispuesto en esta fracción no será aplicable tratándose de las materias aduanera o del registro federal de vehículos, y cuando se den los supuestos previstos en los artículos 77 fracción II, inciso b) y 78 de este Código.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+VI. En el caso de que la multa se pague dentro de los cuarenta y cinco días siguientes a la fecha en que se notifique al infractor la resolución por la cual se le imponga la sanción, la multa se reducirá en un 20% de su monto, sin necesidad de que la autoridad que la impuso dicte nueva resolución. Lo dispuesto en esta fracción no será aplicable tratándose de la materia aduanera y cuando se den los supuestos previstos en el artículo 77 fracción II, inciso b) y 78 de este Código.
 
 ###### Artículo 76.
 
 Cuando la comisión de una o varias infracciones origine la omisión total o parcial en el pago de contribuciones incluyendo las retenidas o recaudadas, excepto tratándose de contribuciones al comercio exterior, y sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes multas:
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-I. El 50% de las contribuciones omitidas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de las contribuciones que omitió;
+I. El 50% de las contribuciones omitidas, actualizadas, cuando el infractor las pague junto con sus accesorios antes de la notificación de la resolución que determine el monto de la contribución que omitió;
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. El 150% de las contribuciones omitidas en los demás casos;
+II. El 100% de las contribuciones omitidas, actualizadas en los demás casos;
 
 III. (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
 
@@ -1598,25 +1700,35 @@ V. Autorizar actas constitutivas, de fusión o liquidación, de personas morales
 
 VI. Señalar como domicilio fiscal para efectos del registro federal de contribuyentes, un lugar distinto del que corresponda conforme al artículo 10.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
 ###### Artículo 80.
 
 A quien cometa las infracciones relacionadas con el registro federal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-I. De $67,000.00 a las comprendidas en las fracciones I, II y VI.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $34,000.00 a la comprendida en la fracción III.
+I. De $280,000.00 a las comprendidas en las fracciones I, II y VI.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II. De $140,000.00 a la comprendida en la fracción III.
 
 III. Para la señalada en la fracción IV:
 
-a). Tratándose de declaraciones, la mayor que resulte entre $6,700.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $135,000.00.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). De $34,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
+a). Tratándose de declaraciones, la mayor que resulte entre $50,000.00 o el 1% de las contribuciones declaradas; en ningún caso la multa prevista en este inciso será mayor de $560,000.00.
 
-c). De $6,700.00 en los demás documentos.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IV. De $202,000.00 para la establecida en la fracción V.
+b). De $140,000.00 tratándose de la demanda ante el Tribunal Fiscal de la Federación.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+c). De $50,000.00 en los demás documentos.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De $840,000.00 para la establecida en la fracción V.
 
 (REFORMADO PRIMER PARRAFO, D.O.F. 30 DE DICIEMBRE DE 1983) (F. DE E., D.O.F. 28 DE MARZO DE 1984)
 
@@ -1646,45 +1758,45 @@ A quien cometa las infracciones relacionadas con la obligación de presentar dec
 
 I. Para la señalada en la fracción I:
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 30 DE ABRIL DE 1986)</small>
+a). Tratándose de declaraciones, la mayor que resulte entre $50,000.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas, se le aplicará también la multa a que se refiere este inciso.
 
-a). Tratándose de declaraciones, la mayor que resulte entre $5,500.00 o el 10% de las contribuciones declaradas en su caso. Si dentro de los seis meses siguientes a la fecha en que se presentó la declaración por la cual se impuso la multa, el contribuyente presenta declaración complementaria de aquélla, declarando contribuciones adicionales, sobre las mismas se le aplicará también la multa a que se refiere este inciso.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre $60,000.00 o el 10% del saldo a cargo declarado en su caso.
 
-b). Por presentar una declaración, solicitud, aviso o constancia, fuera del plazo señalado en el requerimiento o por su incumplimiento, la mayor que resulte entre $50,000.00 o el 10% del saldo a cargo declarado en su caso.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-1.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989).
-
-2.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989).
-
-3.- (DEROGADO, D.O.F. 28 DE DICIEMBRE DE 1989).
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
-c). De $13,000.00 en los demás documentos.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+c). De $55,000.00 en los demás documentos.
 
 II. Respecto de la señalada en la fracción II:
 
-a). De $6,700.00 por no poner el nombre o ponerlo equivocadamente.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-b). De $3,400.00 por no poner el domicilio o ponerlo equivocadamente.
+a). De $30,000.00 por no poner el nombre o ponerlo equivocadamente.
 
-c). De $700.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-d). De $6,700.00 en los demás casos.
+b). De $15,000.00 por no poner el domicilio o ponerlo equivocadamente.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+c). De $3,000.00 por cada dato no asentado o asentado incorrectamente. Siempre que se omita la presentación de anexos, se calculará la multa en los términos de este inciso por cada dato que contenga el anexo no presentado.
 
-III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $13,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, REMITIRSE A LA FRACCION V DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL DECRETO DE REFORMAS EN CITA.</small>
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+d). De $30,000.00 por no señalar la clave que corresponda a su actividad preponderante conforme al catálogo de actividades que publique la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general, o señalarlo equivocadamente.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+e). De $30,000.00 en los demás casos.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+III. Tratándose de la señalada en la fracción III, la que resulte mayor entre $55,000.00 o el 2% de las contribuciones no pagadas, por cada requerimiento.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1987)</small>
 
@@ -1720,29 +1832,103 @@ VIII. Microfilmar documentación para efectos fiscales sin cumplir con los requi
 
 IX. Expedir comprobantes fiscales asentando nombre, denominación, razón social o domicilio de persona distinta a la que adquiere el bien o use el servicio correspondiente.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+X. No dictaminar sus estados financieros en los casos y de conformidad con lo previsto en el artículo 32-A de este Código.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+XI. No cumplir con los requisitos señalados por los artículos 24, fracción I y 140, fracción IV, de la Ley del Impuesto sobre la Renta y expedir los comprobantes correspondientes, tratándose de personas autorizadas para recibir donativos deducibles.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+XII. No expedir o acompañar la documentación que ampare mercancías en transporte en territorio nacional.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 84.
 
-A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83 se impondrán las siguientes multas:
+A quien cometa las infracciones relacionadas con la obligación de llevar contabilidad a que se refiere el artículo 83, se impondrán las siguientes sanciones:
 
-I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $6,700.00 a $168,000.00 a las establecidas en las fracciones II y III.
+I. De $140,000.00 a $1'400,000.00 a la comprendida en la fracción I.
 
-III. De $6,700.00 a $135,000.00 a la señalada en la fracción IV.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-IV. De $6.700.00 a $67,000.00 a la comprendida en la fracción V.
+II. De $30,000.00 a $700,000.00 a las establecidas en las fracciones II y III.
 
-V. De $20,000.00 a $269,000.00 a la señalada en la fracción VI.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-VI. De $6,700.00 a $67,000.00 a la comprendida en la fracción VII.
+III. De $30,000.00 a $560,000.00 a la señalada en la fracción IV.
 
-VII. De $67,000.00 a $337,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención de las disposiciones fiscales carezcan de valor probatorio.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IV. De $30,000.00 a $280,000.00 a la comprendida en la fracción V.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V. De $85,000.00 a $1'120,000.00 a la señalada en la fracción VI.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+VI. De cinco veces el importe total que debió consignarse en el comprobante de que se trate a la señalada en la fracción VII. En caso de reincidencia, la sanción consistirá en la clausura preventiva del establecimiento del contribuyente por un plazo de 3 a 15 días. Para determinar dicho plazo, las autoridades fiscales tomarán en consideración lo previsto por el artículo 75 de este Código.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+VII. De $280,000.00 a $1'400,000.00 a la establecida en la fracción VIII. La multa procederá sin perjuicio de que los documentos microfilmados en contravención a las disposiciones fiscales carezcan de valor probatorio.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
 VIII. Por el 20% del importe consignado en el comprobante a la comprendida en la fracción IX.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+IX. De treinta a noventa millones de pesos y, en su caso, la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción X.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+X. De tres veces el monto de los donativos recibidos sin cumplir con los requisitos que para su deducibilidad establece la Ley del Impuesto sobre la Renta y la cancelación de la autorización para recibir donativos deducibles, a la comprendida en la fracción XI.
+
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+XI. Por el 20% del valor de la mercancía a la comprendida en la fracción XII.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### Artículo 84-A.
+
+Son infracciones en las que pueden incurrir las instituciones de crédito en relación a las obligaciones a que se refiere el artículo 32-B de este Código, las siguientes:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITIRSE A LA FRACCION III DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL CITADO DECRETO.</small>
+
+I. No anotar en los esqueletos para expedición de cheques el nombre, denominación o razón social y la clave que corresponda al primer titular de la cuenta.
+
+II. Pagar en efectivo o abonar en cuenta distinta a la del beneficiario un cheque que tenga inserta la expresión “para abono en cuenta”.
+
+III. Procesar incorrectamente las declaraciones de pago de contribuciones que reciban.
+
+IV. No proporcionar la información relativa a depósitos, servicios o cualquier tipo de operaciones, solicitada por las autoridades fiscales, en los términos de la Ley de Instituciones de Crédito.
+
+V. Asentar incorrectamente o no asentar en los contratos respectivos el nombre, denominación o razón social, domicilio y clave del registro federal de contribuyentes o la que la sustituya, del cuentahabiente.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+###### Artículo 84-B.
+
+A quien cometa las infracciones relacionadas con las instituciones de crédito a que se refiere el artículo 84-A de este Código, se le impondrán las siguientes multas:
+
+> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, REMITIRSE A LA FRACCION III DEL ARTICULO TERCERO DE LAS DISPOSICIONES TRANSITORIAS DEL CITADO DECRETO.</small>
+
+I. De $30,000.00 a $1'400,000.00 a la comprendida en la fracción I.
+
+II. Por el 20% del valor del cheque a la establecida en la fracción II.
+
+III. De $50,000.00 por cada dato no asentado o asentado incorrectamente, a la señalada en la fracción III.
+
+IV. De $500,000.00 a uno al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción IV.
+
+V. De 4 al millar sobre el monto de los ingresos acumulables que haya tenido la institución en el ejercicio inmediato anterior por el que se presentó o debió presentar declaración, a la establecida en la fracción V.
 
 ###### Artículo 85.
 
@@ -1754,19 +1940,21 @@ I. Oponerse a que se practique la visita en el domicilio fiscal. No suministrar 
 
 II. No conservar la contabilidad o parte de ella, así como la correspondencia que los visitadores les dejen en depósito.
 
-> <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-III. No suministrar los datos e informes sobre clientes y proveedores que legalmente exijan las autoridades fiscales.
-
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
+III. No suministrar los datos e informes sobre clientes y proveedores que legalmente exijan las autoridades fiscales o no los relacionen con la clave que les corresponda, cuando así lo soliciten dichas autoridades.
 
 ###### Artículo 86.
 
 A quien cometa las infracciones relacionadas con el ejercicio de las facultades de comprobación a que se refiere el artículo 85, se impondrán las siguientes multas:
 
-I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $34,000.00 a $1'347,000.00 a la establecida en la fracción II.
+I. De $290,000.00 a $2'900,000.00 a la comprendida en la fracción I.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II. De $140,000.00 a $5'800,000.00 a la establecida en la fracción II.
 
 > <small>(ADICIONADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -1786,15 +1974,17 @@ II. Asentar falsamente que se ha dado cumplimiento a las dispociones (sic) fisca
 
 III. Exigir una prestación que no esté prevista en las disposiciones fiscales, aun cuando se aplique a la realización de las funciones públicas.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
 ###### Artículo 88.
 
 A quien comenta (sic) las infracciones a las disposiciones fiscales a que se refiere el artículo 87, se impondrán las siguientes multas:
 
-I. De $34,000.00 a $337,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $34,000.00 a $1'347,000.00 a las establecidas en las fracciones II y III.
+I. De $140,000.00 a $1'450,000.00 a la comprendida en la fracción I.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II. De $140,000.00 a $5'800,000.00 a las establecidas en las fracciones II y III.
 
 ###### Artículo 89.
 
@@ -1804,15 +1994,17 @@ I. Asesorar o aconsejar a los contribuyentes para omitir el pago de una contribu
 
 II. Ser cómplice en cualquier forma no prevista, en la comisión de infracciones fiscales.
 
-> <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
-
 ###### Artículo 90.
 
 A quien cometa las infracciones señaladas en el artículo 89 de este Código, se impondrán las siguientes multas:
 
-I. De $67,000.00 a $674,000.00 a la comprendida en la fracción I.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-II. De $34,000.00 a $337,000.00 a la establecida en la fracción II.
+I. De $290,000.00 a $2'900,000.00 a la comprendida en la fracción I.
+
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II. De $140,000.00 a $1'450,000.00 a la establecida en la fracción II.
 
 > <small>N. DE E. CANTIDAD ACTUALIZADA MEDIANTE LA RESOLUCIÓN QUE ESTABLECE REGLAS GENERALES Y OTRAS DISPOSICIONES DE CARÁCTER FISCAL PARA EL AÑO DE 1987, D.O.F. DEL 2 DE MARZO DE 1987.</small>
 
@@ -2058,6 +2250,10 @@ III. Se beneficie sin derecho de un subsidio o estímulo fiscal.
 
 IV. Realice dos o más actos relacionados entre ellos con el único propósito de obtener un beneficio indebido con perjuicio del fisco federal.
 
+> <small>(ADICIONADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+V. Sea responsable por omitir presentar, por más de seis meses, la declaración de un ejercicio que exijan las leyes fiscales, dejando de pagar la contribución correspondiente. Es aplicable a esta fracción lo dispuesto por el párrafo cuarto del artículo anterior.
+
 ###### Artículo 110.
 
 Se impondrá sanción de tres meses a tres años de prisión, a quien:
@@ -2168,7 +2364,7 @@ I. El de revocación.
 
 II. El de oposición al procedimiento administrativo de ejecución.
 
-III. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+III. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -2182,7 +2378,7 @@ II. Nieguen la devolución de cantidades que procedan conforme a la Ley.
 
 III. Siendo diversas de las anteriores, dicten las autoridades aduaneras.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 No procederá el recurso de revocación contra las resoluciones que decidan el procedimiento administrativo de investigación y audiencia.
 
@@ -2204,9 +2400,9 @@ IV. Determinen el valor de los bienes embargados a que se refiere el artículo 1
 
 ###### Artículo 119.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 120.
 
@@ -2286,11 +2482,11 @@ IV. Que se hayan consentido, entendiéndose por consentimiento el de aquellos co
 
 V. Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente.
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 VI. En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 129 de este Código.
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 VII. Si son revocados los actos por la autoridad.
 
@@ -2304,13 +2500,11 @@ Si la resolución dictada en el recurso de revocación se combate ante el Tribun
 
 El recurso de oposición al procedimiento administrativo de ejecución se hará valer ante la oficina ejecutora y no podrá discutirse en el mismo la validez del acto administrativo en que se haya determinado el crédito fiscal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO QUE SE INDICA.</small>
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 No procederá este recurso contra actos que tengan por objeto hacer efectivas fianzas otorgadas en garantía de obligaciones fiscales a cargo de terceros.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 127.
 
@@ -2388,7 +2582,7 @@ La resolución expresará con claridad los actos que se modifiquen y si la modif
 
 La resolución que ponga fin al recurso podrá:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 I. Desecharlo por improcedente o sobreseerlo, en su caso.
 
@@ -2408,11 +2602,11 @@ Si la resolución ordena realizar un determinado acto o iniciar la reposición d
 
 #### Sección Cuarta. De la Impugnación de las Notificaciones
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ### CAPITULO I. Disposiciones Generales
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 134.
 
@@ -2460,7 +2654,7 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán a cargo de quien incurrió en el incumplimiento los honorarios que establezca el reglamento de este Código.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 138.
 
@@ -2528,17 +2722,11 @@ Las garantías constituidas para asegurar el interés fiscal a que se refieren l
 
 Si la garantía consiste en depósito de dinero en institución nacional de crédito autorizada, una vez que el crédito fiscal quede firme se ordenará su aplicación por la Secretaría de Hacienda y Crédito Público.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE PARRAFO Y LOS INCISOS SIGUIENTES, REMITIRSE AL ARTICULO UNICO TRANSITORIO DEL DECRETO EN CITA.</small>
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Tratándose de fianza a favor de la Federación, otorgada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicará el procedimiento administrativo de ejecución con las siguientes modalidades:
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
-
 a). La autoridad ejecutora requerirá de pago a la afianzadora, acompañando copia de los documentos que justifiquen el crédito garantizado y su exigibilidad. Para ello la afianzadora designará, en cada una de las regiones competencia de las Salas Regionales del Tribunal Fiscal de la Federación, un apoderado para recibir requerimientos de pago y el domicilio para dicho efecto, debiendo informar de los cambios que se produzcan dentro de los quince días siguientes al en que ocurran. La citada información se proporcionará a la Secretaría de Hacienda y Crédito Público, misma que se publicará en el Diario Oficial de la Federación para conocimiento de las autoridades ejecutoras. Se notificará el requerimiento por estrados en la (sic) regiones donde no se haga alguno de los señalamientos mencionados.
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
 
 b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la notificación del requerimiento, la propia ejecutora ordenará a la autoridad competente de la Secretaría de Hacienda y Crédito Público que remate, en bolsa, valores propiedad de la afianzadora bastantes para cubrir el importe de lo requerido y hasta el límite de lo garantizado, y le envíe de inmediato su producto.
 
@@ -2547,6 +2735,10 @@ b). Si no se paga dentro del mes siguiente a la fecha en que surta efectos la no
 ###### Artículo 144.
 
 No se ejecutarán los actos administrativos cuando se garantice el interés fiscal, satisfaciendo los requisitos legales. Tampoco se ejecutará el acto que determine un crédito fiscal hasta que venza el plazo de cuarenta y cinco días siguientes a la fecha en que surta efectos su notificación, o de quince días, tratándose de la determinación de cuotas obrero-patronales o de capitales constitutivos al seguro social. Si a más tardar al vencimiento de los citados plazos se acredita la impugnación que se hubiere intentado y se garantiza el interés fiscal satisfaciendo los requisitos legales, se suspenderá el procedimiento administrativo de ejecución.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Cuando el contribuyente hubiere interpuesto en tiempo y forma el recurso de revocación, el plazo para garantizar el interés fiscal será de cinco meses siguientes a la fecha en que surta efectos la notificación del acto, debiendo el interesado acreditar ante la autoridad fiscal, que lo interpuso dentro de los cuarenta y cinco días siguientes a esa fecha, a fin de suspender el procedimiento administrativo de ejecución.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -2568,7 +2760,7 @@ En caso de negativa o violación a la suspensión del procedimiento administrati
 
 ### CAPITULO II. De la Improcedencia y del Sobreseimiento
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 #### Sección Quinta. Del trámite y resolución de los recursos
 
@@ -3124,7 +3316,7 @@ a). La autoridad que dictó la resolución impugnada.
 
 b). El particular a quien favorezca la resolución cuya modificación o nulidad pida la autoridad administrativa.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 III. El titular de la dependencia o entidad de la Administración Pública Federal, Procuraduría General de la República o Procuraduría General de Justicia del Distrito Federal, de la que dependa la autoridad mencionada en la fracción anterior. En todo caso, la Secretaría de Hacienda y Crédito Público será parte en los juicios en que se controviertan actos de autoridades federativas coordinadas, emitidos con fundamento en convenios o acuerdos en materia de coordinación en ingresos federales.
 
@@ -3150,7 +3342,7 @@ Ante el Tribunal Fiscal de la Federación no procederá la gestión de negocios.
 
 La representación de los particulares se otorgará en escritura pública o carta poder firmada ante dos testigos y ratificadas las firmas del otorgante y testigos ante notario o ante los secretarios del Tribunal Fiscal de la Federación, sin perjuicio de lo que disponga la legislación de profesiones.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 La representación de las autoridades corresponderá a la unidad administrativa encargada de su defensa jurídica, según lo disponga el Ejecutivo Federal en el reglamento o decreto respectivo; o conforme lo establezcan las disposiciones locales, tratándose de las autoridades de las entidades federativas coordinadas.
 
@@ -3196,15 +3388,15 @@ XI. Cuando de las constancias de autos apareciere claramente que no existe el ac
 
 XII. En los demás casos en que la improcedencia resulte de alguna disposición de este Código o de las leyes fiscales especiales.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 La procedencia del juicio será examinada aun de oficio.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ### CAPITULO IV. De la Demanda
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 203.
 
@@ -3234,7 +3426,7 @@ Los magistrados del Tribunal Fiscal de la Federación estarán impedidos para co
 
 I. Tienen interés personal en el negocio.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 II. Sean parientes consanguíneos, afines o civiles de alguna de las partes o de sus patronos o representantes, en línea recta sin limitación de grado y en línea transversal dentro del cuarto grado por consanguinidad y segundo por afinidad.
 
@@ -3250,7 +3442,7 @@ VI. Figuran como parte en un juicio similar, pendiente de resolución.
 
 VII. Están en una situación que pueda afectar su imparcialidad en forma análoga o más grave que las mencionadas.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que se refiere este artículo.
 
@@ -3258,7 +3450,7 @@ Los peritos del Tribunal estarán impedidos para dictaminar en los casos a que s
 
 Los magistrados tienen el deber de excusarse del conocimiento de los negocios en que ocurra alguno de los impedimentos señalados en el artículo anterior, expresando concretamente en qué consiste el impedimento.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 206.
 
@@ -3266,7 +3458,7 @@ Manifestada por un magistrado la causa de impedimento, el Presidente de la Sala 
 
 ### CAPITULO VI. De los Incidentes
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 207.
 
@@ -3316,7 +3508,9 @@ El demandante deberá adjuntar a su instancia:
 
 I. Una copia de la misma para cada una de las partes y una copia de los documentos anexos para el titular a que se refiere la fracción III del artículo 198, o en su caso, para el particular demandado.
 
-II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, cuando no gestione en nombre propio.
+> <small>(REFORMADA, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+II. El documento que acredite su personalidad o en el que conste que le fue reconocida por la autoridad demandada, o bien señalar los datos de registro del documento con el que la acredite ante el Tribunal Fiscal de la Federación, cuando no gestione en nombre propio.
 
 III. El documento en que conste el acto impugnado o, en su caso, copia de la instancia no resuelta por la autoridad.
 
@@ -3340,7 +3534,7 @@ Cuando las pruebas documentales no obren en poder del demandante o cuando no hub
 
 Cuando no se adjunten a la demanda los documentos a que se refiere este precepto, el magistrado instructor tendrá por no ofrecidas las pruebas, o si se trata de los previstos en las fracciones I a IV se tendrá por no presentada la demanda.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Artículo 209 BIS.- Cuando se alegue que el acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los impugnables en el juicio contencioso administrativo, se estará a las reglas siguientes:
 
@@ -3356,7 +3550,7 @@ Si resuelve que no hubo notificación o que fue ilegal, considerará que el acto
 
 Si resuelve que la notificación fue legalmente practicada, y como consecuencia de ello la demanda fue presentada extemporáneamente, sobreseerá el juicio en relación con el acto administrativo combatido.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 210.
 
@@ -3368,7 +3562,11 @@ II. Contra el acto principal del que derive el impugnado en la demanda, así com
 
 III. En los casos previstos por el artículo 209 BIS.
 
-(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+El escrito de ampliación de demanda deberá indicar los datos previstos en el artículo 208 de este Código, siendo aplicable en lo conducente el último párrafo de dicho artículo. Asimismo se deberán adjuntar al escrito de ampliación de demanda, los documentos previstos en el artículo 209 de este Código, excepto aquéllos que ya se hubieran acompañado al escrito inicial de demanda, siendo aplicable en lo conducente lo dispuesto en el último párrafo del citado artículo 209.
+
+(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 211.
 
@@ -3388,9 +3586,11 @@ Cuando alguna autoridad que deba ser parte en el juicio no fuese señalada por e
 
 Cuando los demandados fueren varios el término para contestar les correrá individualmente.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
 ###### Artículo 213.
 
-El demandado, en su contestación expresará:
+El demandado en su contestación y en la contestación de la ampliación de la demanda, expresará:
 
 I. Los incidentes de previo y especial pronunciamiento a que haya lugar.
 
@@ -3406,7 +3606,7 @@ V. Las pruebas que ofrezca.
 
 En caso de que se ofrezca prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres y domicilios del perito o de los testigos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
 
-VI. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+VI. (DEROGADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
 
@@ -3416,7 +3616,7 @@ Para los efectos de este artículo, será aplicable lo dispuesto en el último p
 
 El demandado deberá adjuntar a su contestación:
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 I. Copias de la misma y de los documentos que acompañe para el demandante y para el tercero señalado en la demanda.
 
@@ -3431,6 +3631,10 @@ IV. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
 V. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1985)
 
 VI. Las pruebas documentales que ofrezca.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de la contestación a la ampliación de la demanda, se deberán adjuntar también los documentos previstos en este artículo, excepto aquéllos que ya se hubieran acompañado al escrito de contestación de la demanda.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1985)</small>
 
@@ -3452,7 +3656,7 @@ Cuando haya contradicciones entre los fundamentos de hecho y de derecho dados en
 
 ### CAPITULO VIII. Del Cierre de la Instrucción
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 217.
 
@@ -3466,11 +3670,11 @@ III. El de nulidad de notificaciones.
 
 IV. El de interrupción por causa de muerte o disolución.
 
-(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 V. La recusación por causa de impedimento.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Cuando la promoción del incidente sea frívola e improcedente se impondrá a quien lo promueva una multa hasta de cincuenta veces el salario mínimo general diario vigente en el área geográfica correspondiente al Distrito Federal.
 
@@ -3500,7 +3704,7 @@ III. Independientemente de que las partes y los agravios sean o no diversos, se 
 
 ###### Artículo 220.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 221.
 
@@ -3516,6 +3720,10 @@ Una vez decreta la acumulación, la sala que conozca del juicio más reciente, d
 
 Cuando no pueda decretarse la acumulación por que en alguno de los juicios se hubiese cerrado la instrucción o por encontrarse en diversas instancias, a petición de parte o de oficio, se decretará la suspensión del procedimiento en el juicio en trámite. La suspensión subsistirá hasta que se pronuncie la resolución definitiva en el otro negocio.
 
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+También se decretará la suspensión del procedimiento en el juicio, a petición de parte o aún de oficio, cuando se controvierta un acto contra el cual no proceda el recurso de revocación y que por su conexidad a otro impugnado con antelación en dicho recurso, sea necesaria hasta que se pronuncie resolución definitiva en este último. No será aplicable a este caso lo dispuesto por los artículos 124, fracción V y 202, fracción VII de este Código.
+
 ###### Artículo 223.
 
 Las notificaciones que no fueren hechas conforme a lo dispuesto en este Código serán nulas. En este caso el perjudicado podrá pedir que se declare la nulidad dentro de los cinco días siguientes a aquel en que conoció el hecho ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
@@ -3524,11 +3732,11 @@ Las promociones de nulidad notoriamente infundadas se desecharán de plano.
 
 Si se admite la promoción, se dará vista a las demás partes por el término de cinco días para que expongan lo que a su derecho convenga; transcurrido dicho plazo, el magistrado instructor dictará resolución.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Si se declara la nulidad, la Sala ordenará reponer la notificación anulada y las actuaciones posteriores. Asimismo, se impondrá una multa al actuario, equivalente a diez veces el salario mínimo general diario del área geográfica correspondiente al Distrito Federal, sin que exceda del 30% de su sueldo mensual. El actuario podrá ser destituido de su cargo, sin responsabilidad para el Estado en caso de reincidencia.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 224.
 
@@ -3538,7 +3746,7 @@ La interrupción por causa de muerte o disolución procederá y se tramitará, c
 
 Las partes podrán recusar a los magistrados o a los peritos del Tribunal, cuando estén en alguno de los casos de impedimento a que se refiere el artículo 204 de este Código.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 226.
 
@@ -3550,7 +3758,7 @@ La recusación del perito del Tribunal se promoverá ante el magistrado instruct
 
 El instructor pedirá al perito recusado que rinda un informe dentro de los tres días siguientes. A falta de informe se presumirá cierto el impedimento. Si la Sala encuentra fundada la recusación substituirá al perito.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 227.
 
@@ -3560,7 +3768,7 @@ Con los mismos trámites del incidente previsto en el párrafo anterior, las aut
 
 El incidente previsto en este artículo podrá promoverse hasta que se dicte sentencia o resolución firme de la Sala Regional, de la Sala Superior o del Tribunal Colegiado de Circuito, en su caso. Mientras no se dicte la misma, la Sala Regional podrá modificar o revocar el auto que haya decretado o negado la suspensión, cuando ocurra un hecho superveniente que lo justifique.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 228.
 
@@ -3574,7 +3782,7 @@ Si la autoridad no da cumplimiento a la orden de suspensión o de admisión de l
 
 Si el incidente es promovido por la autoridad por haberse concedido indebidamente una suspensión, se tramitará lo conducente en los términos de este precepto.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Artículo 228 BIS.- Cuando se promueva alguno de los incidentes previstos en el artículo 217, se suspenderá el juicio en el principal hasta que se dicte la resolución correspondiente.
 
@@ -3584,7 +3792,9 @@ Cuando se promuevan incidentes que no sean de previo y especial pronunciamiento,
 
 Si no está previsto algún trámite especial, los incidentes se substanciarán corriendo traslado de la promoción a las partes por el término de tres días. Con el escrito por el que se promueva el incidente o se desahogue el traslado concedido, se ofrecerán las pruebas pertinentes y se presentarán los documentos, los cuestionarios e interrogatorios de testigos y peritos, siendo aplicables para las pruebas pericial y testimonial las reglas relativas del principal.
 
-Los autos que admitan la demanda, la contestación, la intervención del tercero perjudicado o alguna prueba, podrán ser objetados por las partes, mediante escrito que presentarán en el plazo de cinco días; objeción que se decidirá en la resolución que ponga fin al juicio o en la sentencia respectiva.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Los autos que admitan la demanda, la contestación, la intervención del tercero perjudicado o alguna prueba, podrán ser objetados por las partes, mediante escrito que presentarán en el plazo de quince días; objeción que se decidirá en la resolución que ponga fin al juicio o en la sentencia respectiva.
 
 ###### Artículo 229.
 
@@ -3592,7 +3802,7 @@ Cuando alguna de las partes sostenga la falsedad de un documento, incluyendo las
 
 ### CAPITULO IX. De la Sentencia
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 230.
 
@@ -3676,9 +3886,9 @@ Si el proyecto no fue aceptado por los otros magistrados de la Sala, el magistra
 
 Las sentencias del Tribunal Fiscal se fundarán en derecho y examinarán todos y cada uno de los puntos controvertidos del acto impugnado, teniendo la facultad de invocar hechos notorios.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-Cuando se hagan valer diversos conceptos de nulidad por omisión de formalidades o violaciones de procedimiento, la sentencia o resolución de la Sala deberá examinar y resolver cada uno, aun cuando considere fundado alguno de ellos.
+Cuando se hagan valer diversos conceptos de nulidad por omisión de formalidades o violaciones de procedimiento, la sentencia o resolución de la Sala deberá examinar y resolver cada uno, aun cuando considere fundado alguno de ellos. En el caso de que la sentencia declare la nulidad de una resolución por la omisión de los requisitos formales exigidos por las leyes, o por vicios del procedimiento, la misma deberá señalar en qué forma afectaron las defensas del particular y trascendieron al sentido de la resolución.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
@@ -3726,7 +3936,7 @@ En caso de que se interponga recurso, se suspenderá el efecto de la sentencia h
 
 El Tribunal Fiscal de la Federación declarará la nulidad para el efecto de que se emita nueva resolución cuando se esté en alguno de los supuestos previstos en las fracciones II y III, y en su caso, V, del Artículo 238 de este Código.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Artículo 239 BIS.- La Sala Superior del Tribunal Fiscal de la Federación, de oficio o a petición fundada de la Sala Regional correspondiente o de la Secretaría de Hacienda y Crédito Público, podrá resolver los juicios que por sus características especiales así lo ameriten.
 
@@ -3746,7 +3956,7 @@ Los acuerdos de la Sala Superior que admitan la petición o que de oficio decida
 
 Una vez cerrada la instrucción del juicio, la Sala Regional remitirá el expediente original a la Sala Superior. Recibido éste, el Presidente de la Sala Superior designará magistrado ponente.
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 Artículo 239 TER.- En los casos de incumplimiento de sentencia firme, la parte afectada podrá ocurrir en queja, por una sola vez, ante la Sala Regional que instruyó en primera instancia el juicio en que se dictó la sentencia, de acuerdo con las siguientes reglas:
 
@@ -3780,17 +3990,19 @@ Cuando un magistrado, en dos ocasiones hubiera sido sustituido conforme a este p
 
 ### CAPITULO XII. De la Jurisprudencia
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 #### Sección Cuarta. Del remate
 
 ###### Artículo 242.
 
-El recurso de reclamación procederá ante la Sala Regional, en contra de las resoluciones del magistrado instructor que desechen la demanda, la contestación o alguna prueba, que decreten el sobreseimiento del juicio o aquellas que rechacen la intervención del tercero. La reclamación se interpondrá dentro de los cinco días siguientes a aquél en que surta efectos la notificación respectiva.
+El recurso de reclamación procederá ante la Sala Regional, en contra de las resoluciones del magistrado instructor que desechen la demanda, la contestación o alguna prueba, que decreten el sobreseimiento del juicio o aquéllas que rechacen la intervención del tercero. La reclamación se interpondrá dentro de los quince días siguientes a aquél en que surta efectos la notificación respectiva.
+
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 243.
 
-Interpuesto el recurso a que se refiere el artículo anterior, el magistrado instructor ordenará correr traslado a la contraparte por el término de cinco días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la sala para que resuelva en el término de cinco días. El magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
+Interpuesto el recurso a que se refiere el artículo anterior, el magistrado instructor ordenará correr traslado a la contraparte por el término de quince días para que exprese lo que a su derecho convenga y sin más trámite dará cuenta a la sala para que resuelva en el término de cinco días. El magistrado que haya dictado el acuerdo recurrido no podrá excusarse.
 
 ###### Artículo 244.
 
@@ -3798,19 +4010,19 @@ Cuando la reclamación se interponga en contra del acuerdo que sobresea el juici
 
 #### Sección Primera. De la reclamación
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
 ###### Artículo 245.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 246.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 247.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 (REFORMADA SU NUMERACION [N. DE E. ANTES SECCION TERCERA], D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
@@ -3820,7 +4032,7 @@ Cuando la reclamación se interponga en contra del acuerdo que sobresea el juici
 
 #### Sección Segunda. De la revisión
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 248.
 
@@ -3836,7 +4048,7 @@ El recurso de revisión también será procedente contra las resoluciones o sent
 
 En los juicios que versen sobre resoluciones de las autoridades fiscales de las entidades federativas coordinadas en ingresos federales, el recurso sólo podrá ser interpuesto por la Secretaría de Hacienda y Crédito Público.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 249.
 
@@ -3844,7 +4056,7 @@ Si el particular interpuso amparo directo contra la misma resolución o sentenci
 
 ###### Artículo 250.
 
-(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(DEROGADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y 1 DE FEBRERO DE 1988)
 
 ###### Artículo 251.
 
@@ -3868,7 +4080,7 @@ II. La que mande citar a los testigos o a un tercero.
 
 III. El requerimiento a la parte que debe cumplirlo.
 
-(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADA, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADA, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 IV. El auto de la Sala Regional que dé a conocer a las partes que el juicio será resuelto por la Sala Superior.
 
@@ -3884,7 +4096,9 @@ La lista a que se refiere este artículo contendrá nombre de la persona, expedi
 
 Las notificaciones que deban hacerse a las autoridades administrativas se harán siempre por oficio o por vía telegráfica en casos urgentes.
 
-(DEROGADO SEGUNDO PARRAFO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
+
+Tratándose de las autoridades, las resoluciones que se dicten en los juicios que se tramiten ante el Tribunal Fiscal de la Federación se deberán notificar en todos los casos, únicamente a la unidad administrativa a la que corresponda la representación en juicio de la autoridad señalada en el artículo 198, fracción III de este Código.
 
 ###### Artículo 255.
 
@@ -3920,9 +4134,11 @@ Las tesis contenidas en las sentencias que dicten las Salas Regionales del Tribu
 
 Las tesis que sustente la Sala Superior al resolver los juicios con características especiales, a que se refiere el artículo 239 BIS, constituirán precedente para el Tribunal, a partir de su publicación en la citada Revista.
 
-La Sala de que se trate aprobará la tesis que constituye precedente, la síntesis y el rubro, así como la numeración que le corresponda en el orden de los que haya dictado, hecho lo cual la Sala Superior ordenará su publicación en la Revista del Tribunal.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+Cuando una sentencia dictada por una Sala del Tribunal Fiscal de la Federación quede firme, la Sala de que se trate aprobará la tesis que constituye precedente, la síntesis y el rubro, así como la numeración que le corresponda en el orden de los que haya dictado, hecho lo cual la Sala Superior ordenará su publicación en la Revista del Tribunal.
+
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 260.
 
@@ -3932,7 +4148,7 @@ En caso de contradicción de sentencias, cualquiera de los magistrados del Tribu
 
 La resolución que pronuncie la Sala Superior en los casos a que este artículo se refiere, sólo tendrá efectos para fijar jurisprudencia y no afectará las resoluciones dictadas en los juicios correspondientes.
 
-(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO Y 1 DE FEBRERO DE 1988)
+(REFORMADO, D.O.F. 5 DE ENERO DE 1988) (REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988)
 
 ###### Artículo 261.
 
@@ -4188,7 +4404,7 @@ La presente Ley entrará en vigor el día 1o. de enero de 1988.
 
 D.O.F. 5 DE ENERO DE 1988.
 
-REPUBLICADO, D.O.F. 11 DE ENERO Y D.O.F. 1 DE FEBRERO DE 1988.
+REPUBLICADO, D.O.F. 11 DE ENERO DE 1988 Y D.O.F. 1 DE FEBRERO DE 1988.
 
 Disposiciones Transitorias
 
@@ -4313,3 +4529,39 @@ Las solicitudes de estímulos fiscales pendientes de resolver, formuladas con ba
 Las personas físicas y morales que conforme a las disposiciones que se dejan sin efectos hayan obtenido certificados de promoción fiscal, podrán seguir acreditando su importe en los términos de dichas disposiciones.
 
 Los contribuyentes a que se refiere el párrafo anterior, continuarán cumpliendo con las obligaciones que les establecieron las disposiciones que se dejan sin efectos, durante los plazos que las mismas señalan.
+
+D.O.F. 26 DE DICIEMBRE DE 1990.
+
+DISPOSICIONES TRANSITORIAS
+
+###### ARTICULO TERCERO.
+
+Para efectos de lo dispuesto por el ARTICULO PRIMERO de esta Ley, se aplicarán las siguientes disposiciones transitorias:
+
+I.- La obligación de proporcionar información a la Secretaría de Hacienda y Crédito Público de los prestadores de servicios a que se refiere el penúltimo párrafo del artículo 30-A del Código Fiscal de la Federación, entrará en vigor el primero de octubre de 1991. Las obligaciones de solicitar y proporcionar la información que se requiere para cumplir con los requerimientos de información de las autoridades fiscales, entrará en vigor el primero de julio de dicho año. Los prestadores de servicios solicitarán la información a sus usuarios cumpliendo con las reglas que para el efecto emita la Secretaría de Hacienda y Crédito Público.
+
+II.- Durante el segundo semestre de 1991, las personas que presten los servicios que se señalen de conformidad con el artículo 30-A, penúltimo párrafo, del Código Fiscal de la Federación, deberán actualizar en forma gratuita los datos de sus usuarios.
+
+III.- Lo dispuesto por la fracción I del artículo 84-A y por la fracción I del artículo 84-B, adicionados al Código Fiscal de la Federación, entrarán en vigor a partir del 1o. de julio de 1991.
+
+IV.- Los contribuyentes que deban dictaminar sus estados financieros en los términos de la fracción I del artículo 32-A del Código Fiscal de la Federación, considerarán como último ejercicio fiscal el de 1990 y contarán hasta diciembre de 1991 para presentar el dictamen correspondiente. Dichos contribuyentes deberán presentar el aviso respectivo ante las autoridades fiscales competentes a más tardar el 31 de julio de 1991.
+
+V.- Entrará en vigor el 1o. de abril de 1991, lo dispuesto en el inciso d) de la fracción II del artículo 82 del Código Fiscal de la Federación.
+
+DISPOSICIONES DE VIGENCIA ANUAL
+
+###### ARTICULO CUARTO.
+
+Durante los años que a continuación se señalan, para la aplicación de los artículos del Código Fiscal de la Federación que también se mencionan, se estará a lo siguiente:
+
+I.- La Secretaría de Hacienda y Crédito Público, durante el año de 1991, proporcionará asesoría y asistencia gratuita a los contribuyentes que se dediquen a actividades agrícolas, ganaderas, pesqueras o silvícolas que hubieran venido pagando el impuesto sobre la renta conforme al régimen de bases especiales de tributación, para el debido cumplimiento de sus obligaciones fiscales.
+
+II.- Durante los años de 1991, 1992 y 1993, la Secretaría de Hacienda y Crédito Público podrá relevar de obligaciones fiscales formales a los contribuyentes que paguen el impuesto sobre la renta conforme al régimen simplificado a que se refiere la Sección II del Capítulo VI del Título IV y el Título II-A de la Ley de la materia, así como a los que paguen dicho impuesto en los términos del artículo 86-A de la misma, a fin de facilitar el adecuado cumplimiento de sus obligaciones fiscales.
+
+III.- Los contribuyentes que tengan saldos a favor pendientes de compensar, determinados en sus declaraciones presentadas con anteriordad (sic) al 1o. de enero de 1990, solicitarán su devolución a más tardar el 31 de marzo de 1991.
+
+## TRANSITORIOS
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO, QUE SE RELACIONAN CON EL CODIGO.
+
+PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1991, excepción hecha de lo dispuesto por el Artículo Vigésimo Quinto que iniciará su vigencia al día siguiente de la publicación de esta Ley en el Diario Oficial de la Federación.
