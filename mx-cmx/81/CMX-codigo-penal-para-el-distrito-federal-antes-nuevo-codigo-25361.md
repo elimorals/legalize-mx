@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2004-09-15"
+last_updated: "2004-10-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2002-07-11"
 
 NUEVO CODIGO PENAL PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE OCTUBRE DE 2004.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -440,31 +440,25 @@ Si son de uso lícito, se decomisarán sólo cuando el sujeto haya sido condenad
 
 ARTÍCULO 54 (Destino de los objetos decomisados). La autoridad competente determinará el destino de los instrumentos, objetos o productos del delito, al pago de la reparación de los daños y perjuicios causados, al de la multa o en su defecto, según su utilidad, al mejoramiento de la procuración y la administración de justicia.
 
-Si las cosas aseguradas o decomisadas son sustancias nocivas o peligrosas, dicha autoridad ordenará de inmediato las medidas de precaución que correspondan, incluida su destrucción o su conservación para fines de docencia o investigación, según se estime conveniente.
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
+
+Si las cosas aseguradas o decomisadas son sustancias nocivas, peligrosas o consideradas como desecho, la autoridad competente ordenará de inmediato las medidas de precaución que correspondan, incluida su destrucción, confinamiento o, en su caso, conservación para fines de docencia o investigación, según se estime conveniente.
 
 Si se trata de material pornográfico se ordenará su inmediata destrucción.
 
 Los productos, rendimientos o beneficios obtenidos por los delincuentes o por otras personas, como resultado de su conducta ilícita, serán decomisados y se destinarán en los términos del presente artículo.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 4 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, G.O. 6 DE OCTUBRE DE 2004)</small>
 
 ###### ARTÍCULO 55.
 
-(Venta de bienes a disposición de la autoridad). Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se enajenarán en subasta pública.
+(Destino de bienes a disposición de la autoridad). Los objetos o valores que se encuentren a disposición de las autoridades investigadoras o de las judiciales, que no hayan sido decomisados y que no hayan sido recogidos por quien tenga derecho a ello, en un lapso de sesenta días naturales, contados a partir de la notificación al interesado, se venderán de conformidad con las disposiciones legales y administrativas aplicables.
 
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
+Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de venta, el producto de la misma se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
 
-Si el interesado no se presenta dentro de los treinta días naturales siguientes a la fecha de notificación respecto de la celebración de la subasta, el producto de la venta se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
+En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en las condiciones que más convengan, con la excepción prevista en el párrafo siguiente, y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
 
-Si trascurridos seis meses desde la segunda notificación, los objetos o valores no han sido reclamados, se enajenarán en subasta pública y el producto de la venta se pondrá a disposición de quien esté facultado para recibirlo, previas las deducciones de los gastos ocasionados en los términos de las disposiciones legales aplicables.
-
-> <small>(REFORMADO, G.O. 22 DE ABRIL DE 2003)</small>
-
-Si el facultado no se presenta a recoger el producto a que se refiere el párrafo anterior, dentro de los noventa días siguientes a la realización de la subasta, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
-
-> <small>(REFORMADO, G.O. 4 DE JUNIO DE 2004)</small>
-
-En el caso de bienes que se encuentren a disposición de la autoridad, que no se deban destruir y que no se puedan conservar o sean de costoso mantenimiento, se procederá a su venta inmediata en subasta pública y el producto se dejará a disposición de quien tenga derecho al mismo por un lapso de tres meses a partir de la notificación que se haga, transcurrido el cual, dicho producto se destinará al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+Los bienes perecederos de consumo y durables podrán ser donados a instituciones de asistencia pública en el Distrito Federal, en los términos y condiciones que se establezcan mediante acuerdo que emita el Procurador General de Justicia del Distrito Federal.
 
 ### CAPÍTULO VIII. SUSPENSIÓN O PRIVACIÓN DE DERECHOS, DESTITUCIÓN E INHABILITACIÓN PARA EL DESEMPEÑO DE CARGOS, COMISIONES O EMPLEOS
 
@@ -3541,3 +3535,11 @@ DECRETO QUE REFORMA ARTS. 254 Y 255 DEL NUEVO CODIGO PENAL PARA EL D.F.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
 
 SEGUNDO.- El presente Decreto entrará en vigor a los noventa días siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 6 DE OCTUBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Los bienes asegurados de los que, a la fecha de entrada en vigor de este decreto, se carezca de datos para relacionarlos con una indagatoria, los vehículos ingresados a los depósitos de vehículos con fecha anterior al 31 de diciembre del año 2002 que no hayan sido recogidos por quien tiene derecho a ello, así como todos aquellos bienes que por su larga permanencia en los depósitos correspondientes se puedan considerar como desecho, quedarán a disposición de la Procuraduría General de Justicia del Distrito Federal para que, por conducto de la unidad administrativa que corresponda, proceda a su destrucción o enajenación. En este último caso, el producto que se obtenga se destinará de la siguiente manera: a).-Tratándose de bienes asegurados antes del 12 de noviembre de 2002, o de bienes respecto de los cuales no sea posible identificar la fecha en que fueron asegurados, el destino final será el mejoramiento de la Procuración de Justicia y b).-Tratándose de bienes asegurados a partir del 12 de noviembre 2002 se destinaran al Fondo para la Atención y Apoyo a las Víctimas del Delito.
+
+TERCERO.- Los particulares que se consideren con derechos respecto de los bienes a que se refiere el Artículo Segundo Transitorio de este Decreto, podrán hacer valer esos derechos ante la Procuraduría General de Justicia del Distrito Federal dentro del término de un año a partir de la fecha de entrada en vigor de este decreto.
