@@ -4,7 +4,7 @@ identifier: "LVGC"
 country: "mx"
 rank: "ley"
 publication_date: "1940-02-19"
-last_updated: "1974-12-23"
+last_updated: "1975-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=305&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LVGC"
 
 LEY DE VIAS GENERALES DE COMUNICACION
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1975.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 19 de febrero de 1940.
 
@@ -365,6 +365,10 @@ XI.- Porque los concesionarios no cumplan con la obligación de conducir las div
 XII.- Por no otorgar la fianza o constituir el depósito a que se refiere el artículo 17 y,
 
 XIII.- Por los motivos de caducidad estipulados en las concesiones respectivas.
+
+> <small>(ADICIONADA, D.O.F. 15 DE DICIEMBRE DE 1975)</small>
+
+XIV.- Por incumplir lo dispuesto en el artículo 127 de esta Ley.
 
 ###### ARTICULO 30.
 
@@ -1056,19 +1060,37 @@ Los concesionarios o permisionarios de servicios de transportes federales, está
 
 La infracción al presente artículo, será sancionada por la Secretaría de Comunicaciones y Transportes en los términos de esta Ley, sus reglamentos y las demás disposiciones legales aplicables.
 
-###### ARTICULO 127.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1975)</small>
 
-Los porteadores de las vías generales de comunicación, ya sean empresas o personas físicas, estarán obligadas a asegurar a los viajeros y serán responsables de los riesgos que lleguen a sufrir con motivo del servicio público que prestan.
+###### Artículo 127.
 
-Todos los viajeros, sin excepción y cualquiera que sea su edad, al usar el transporte de que se trate, estarán obligados a cubrir previamente el importe que corresponda, proporcionalmente por persona, a la prima del Seguro del Viajero.
+Los concesionarios o permisionarios de servicios públicos de transporte de pasajeros en las vías generales de comunicación están obligados a asegurar a los viajeros y a sus pertenencias de los riesgos que puedan sufrir con motivo de la prestación del servicio. El seguro que al efecto se establezca cubre cualquier responsabilidad objetiva, del transportista y amparará los daños y perjuicios causados al viajero en su persona y en su equipaje y demás objetos de su propiedad o posesión que se registren en el momento de abordar el transporte.
 
-Con autorización de la Secretaría de Comunicaciones y Obras Públicas, los porteadores podrán aumentar sus tarifas de pasaje, en forma proporcional, de manera que el aumento de sus ingresos equivalga al monto de la prima total del Seguro y harán saber públicamente a los viajeros cuál deberá ser el importe de la prima que corresponda pagar a cada individuo.
+La Secretaría de Comunicaciones y Transportes vigilará que las pólizas del seguro cubran todos los riesgos relativos.
 
-Los porteadores no podrán explotar servicios de transporte de vías generales de comunicación, si no comprueban haber asegurado su responsabilidad por el monto de las indemnizaciones y siempre que la póliza del Seguro cubra una responsabilidad mínima, por accidente, de cincuenta mil a setenta y cinco mil pesos, tratándose de ferrocarriles; de veinticinco mil a cincuenta mil pesos, de camiones, embarcaciones y tranvías; y cinco mil pesos por cada uno de los asientos destinados a pasajeros, tratándose de aviones.
+Las empresas y personas físicas autorizadas por los gobiernos de los Estados y del Distrito Federal para operar el transporte público de pasajeros sólo podrán prestar el servicio y transitar en las vías de jurisdicción federal en los términos de esta Ley, si previamente han garantizado su responsabilidad por los riesgos que puedan sufrir los viajeros que transporten.
 
-La Secretaría de Comunicaciones y Obras Públicas, podrá autorizar también a los porteadores que así lo soliciten, a organizarse de acuerdo con la Ley de Seguros, para responder ellas mismas de las indemnizaciones por Seguro del Viajero contra accidentes y en caso contrario, los porteadores deberán contratar dicho Seguro con compañías mexicanas de seguros, que por su solvencia garanticen ampliamente el pago de tales indemnizaciones.
+El monto de la prima del Seguro del Viajero quedará comprendida dentro del importe de la tarifa del transporte.
 
-El Reglamento de este artículo fijará el procedimiento simplificado en sus formalidades para que los interesados hagan el cobro de las indemnizaciones que correspondan en cada caso.
+La indemnización por la pérdida de la vida del asegurado será por la cantidad mínima de cien mil pesos, y se pagará a sus herederos legales. La Secretaría de Comunicaciones y Transportes fijará cada dos años, dentro de los primeros 15 días del mes de enero, la cantidad por la que deba asegurarse a cada viajero, así como el monto de la indemnización que deba percibirse de acuerdo con las incapacidades y lesiones que se causaren y los daños que resienta en sus pertenencias, teniendo en cuenta para ello las condiciones de la economía nacional.
+
+El seguro a que tienen derecho los viajeros deberá cubrir totalmente por un período que no exceda de 90 días, los gastos que se originen por la asistencia médica, la hospitalización y los aparatos de prótesis y ortopedia, pero no podrán exceder del monto que corresponda a la indemnización por muerte.
+
+Mientras dure la inhabilitación, antes de que sea declarada la incapacidad, el viajero tendrá derecho al pago del salario mínimo vigente en la zona donde la victima del accidente preste sus servicios, o en caso de cesantía donde éste resida, que se cubrirá íntegro el primer día hábil de cada semana.
+
+Al declararse la incapacidad permanente, si resulta total, se concederá al accidentado como pago por rehabilitación, la indemnización que corresponda a muerte.
+
+La Secretaría de Comunicaciones y Transportes dispondrá administrativamente lo conducente para fijar el monto de las indemnizaciones, produzcan o no incapacidad parcial.
+
+Los aparatos de prótesis que requiera el viajero para su rehabilitación, serán cubiertos por la Aseguradora en un plazo no mayor de 30 días, contados a partir de la notificación al obligado, de la prescripción médica que determine el uso de tales aparatos. El pago por cualquier indemnización se hará en un plazo no mayor de treinta días.
+
+Los viajeros que hagan uso de pases para transportarse gratuitamente o los que estén exentos del pago del transporte, pagarán en efectivo la prima correspondiente del seguro para tener derecho a sus beneficios. En caso contrario, el transportista será responsable de esta omisión.
+
+Cuando se trate de viajes internacionales, se aplicará la prima del seguro únicamente por lo que corresponda al recorrido en territorio nacional, pero si se viaja por transporte de matrícula nacional el viajero estará amparado hasta el lugar de su destino.
+
+Los transportistas que incumplan la obligación de asegurar a los viajeros, independientemente de las sanciones a que se hicieran acreedores por esta omisión, deberán pagar las indemnizaciones correspondientes en los términos establecidos en este precepto. La Secretaría de Comunicaciones y Transportes podrá garantizar con bienes propiedad de los responsables el cumplimiento de estas disposiciones.
+
+La Secretaría de Comunicaciones y Transportes resolverá administrativamente todas las controversias que se originen en relación con el seguro del viajero, sin perjuicio de las facultades que correspondan a la Comisión Nacional Bancaria y de Seguros y a otras autoridades.
 
 ###### ARTICULO 128.
 
@@ -5391,3 +5413,13 @@ D.O.F. 23 DE DICIEMBRE DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor noventa días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 1975.
+
+###### ARTICULO PRIMERO.
+
+Este Decreto entrará en vigor treinta días después de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a las del presente Decreto.
