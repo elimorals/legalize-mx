@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2000-12-31"
+last_updated: "2002-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIEPS"
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE ENERO DE 2002.
 
 Ley publicada en la Tercera Sección del Diario Oficial de la Federación, el martes 30 de diciembre de 1980.
 
@@ -38,67 +38,67 @@ DECRETO:
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADA SU DENOMINACION, D.O.F. 1 DE ENERO DE 2002)</small>
 
-## TÍTULO I. De las Bebidas Alcohólicas Fermentadas, Cervezas y Bebidas Refrescantes, Tabacos Labrados, Gasolinas, Diesel y Gas Natural
+## TÍTULO I
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 1o.
 
-Están obligadas al pago del impuesto establecido en este Título, las personas físicas y las morales que realicen los actos o actividades siguientes:
+Están obligadas al pago del impuesto establecido en esta Ley, las personas físicas y las morales que realicen los actos o actividades siguientes:
 
-I.- La enajenación en territorio nacional o, en su caso, la importación de los bienes señalados en este Título.
+I. La enajenación en territorio nacional o, en su caso, la importación, definitiva, de los bienes señalados en esta Ley.
 
-II.- La prestación de los servicios señalados en este Título.
+II. La prestación de los servicios señalados en esta Ley.
 
-El impuesto se calculará aplicando a los valores a que se refiere este Título, la tasa que para cada bien o servicio establece el artículo 2o. de este ordenamiento.
+El impuesto se calculará aplicando a los valores a que se refiere este ordenamiento, la tasa que para cada bien o servicio establece el artículo 2o. del mismo.
 
-La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de este Título.
+La Federación, el Distrito Federal, los Estados, los Municipios, los organismos descentralizados o cualquier otra persona, aunque conforme a otras leyes o decretos no causen impuestos federales o estén exentos de ellos, deberán aceptar la traslación del impuesto especial sobre producción y servicios y, en su caso, pagarlo y trasladarlo, de acuerdo con los preceptos de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 2o.
 
 Al valor de los actos o actividades que a continuación se señalan, se aplicarán las tasas siguientes:
 
-I.- En la enajenación o, en su caso, en la importación de los siguientes bienes:
+I. En la enajenación o, en su caso, en la importación de los siguientes bienes:
 
-A).- Bebidas alcohólicas fermentadas .......... 25%
+A) Bebidas con contenido alcohólico y cerveza:
 
-Se dará el tratamiento de bebidas alcohólicas fermentadas que señala el presente Título a los bienes siguientes: oporto, vermouth o vermuth vino generoso y jerez o xerés.
+1. Con una graduación alcohólica de hasta 13.5°G.L. .......... 25%
 
-B).- Cervezas y bebidas refrescantes con una graduación alcohólica de hasta 6° G.L. ......... 25%
+2. Con una graduación alcohólica de más de 13.5° y hasta 20°G.L. .......... 30%
 
-C).- Cervezas y bebidas refrescantes con una graduación alcohólica de más de 6° y hasta 13.5° G.L. .......... 25%
+3. Con una graduación alcohólica de más de 20°G.L. .......... 60%
 
-D).- Cervezas y bebidas refrescantes con una graduación alcohólica de más de 13.5° y hasta 20° G.L. .......... 30%
+B) Alcohol y alcohol desnaturalizado .......... 60%
 
-E).- Cervezas y bebidas refrescantes con una graduación alcohólica de más de 20° G.L. .......... 60%
+C) Tabacos labrados:
 
-F).- Alcohol y alcohol desnaturalizado .......... 60%
+1. Cigarros .......... 110%
 
-G).- Tabacos labrados:
+2. Puros y otros tabacos labrados .......... 20.9%
 
-1).- Cigarros ...........1 00%
+D) Gasolinas: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
-2).- Cigarros populares sin filtro elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión, así como puros y otros tabacos labrados ........... 20.9%
+E) Diesel: la tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
 
-H).- Gasolinas: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
+F) Gas natural para combustión automotriz: la tasa que resulte para el mes de que se trate en los términos del artículo 2o.-C de esta Ley.
 
-I).- Diesel: La tasa que resulte para el mes de que se trate en los términos de los artículos 2o.-A y 2o.-B de esta Ley.
+G) Aguas gasificadas o minerales; refrescos; bebidas hidratantes o rehidratantes;
 
-J).- Gas natural para combustión automotriz: La tasa que resulte para el mes de que se trate en los términos del artículo 2o.-C de esta Ley.
+concentrados, polvos, jarabes, esencias o extractos de sabores, que al diluirse permitan obtener refrescos, bebidas hidratantes o rehidratantes que utilicen edulcorantes distintos del azúcar de caña .......... 20%
 
-II.- En la prestación de los servicios de comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en la fracción I de este artículo, excepto los bienes señalados en los incisos H), I) y J). En estos casos la tasa aplicable será la que corresponda al bien de que se trate en los términos que para tal efecto dispone este Título. No se pagará el impuesto cuando se trate de las enajenaciones a que se refiere el artículo 8o. de esta Ley.
+H) Jarabes o concentrados para preparar refrescos que se expendan en envases abiertos utilizando aparatos automáticos, eléctricos o mecánicos, que utilicen edulcorantes distintos del azúcar de caña .......... 20%
 
-III.- En la exportación definitiva que realicen los contribuyentes de este impuesto en los términos de la Ley Aduanera de los bienes a que se refiere la fracción I de este artículo, salvo los señalados en los incisos F) y G) y las que se consideren como tales en los términos del artículo 85, último párrafo de la Ley citada, siempre que no se efectúe a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta, como de baja imposición fiscal . 0%
+II. En la prestación de los siguientes servicios:
 
-No se pagará el impuesto establecido en este Título en la exportación definitiva de alcohol, alcohol desnaturalizado y tabacos labrados, siempre que dicha exportación no se efectúe a las jurisdicciones a que se refiere el párrafo anterior.
+A) Comisión, mediación, agencia, representación, correduría, consignación y distribución, con motivo de la enajenación de los bienes señalados en los incisos A), B), C), G) y H) de la fracción I de este artículo. En estos casos, la tasa aplicable será la que le corresponda a la enajenación en territorio nacional del bien de que se trate en los términos que para tal efecto dispone esta Ley. No se pagará el impuesto cuando los servicios a que se refiere este inciso, sean con motivo de las enajenaciones de bienes por los que no se esté obligado al pago de este impuesto en los términos del artículo 8o. de la misma.
 
-Tratándose de la exportación definitiva a que se refiere esta fracción realizada a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta como de baja imposición fiscal, el impuesto correspondiente se calculará aplicando a los bienes exportados la tasa que les corresponda en los términos de la fracción I de este artículo.
+B) De telecomunicaciones y conexos .......... 10%
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
 
@@ -196,131 +196,111 @@ La Secretaría de Hacienda y Crédito Público, mediante reglas de carácter gen
 
 (DEROGADO, D.O.F. 29 DE MAYO DE 1998)
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 3o.
 
-Para los efectos de este Título se entiende por:
+Para los efectos de esta Ley se entiende por:
 
-I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+I. Bebidas con contenido alcohólico, las bebidas alcohólicas y las bebidas refrescantes, de acuerdo con lo siguiente:
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+a) Bebidas alcohólicas, las que a la temperatura de 15° centígrados tengan una graduación alcohólica de más de 3°G.L., hasta 55°G.L., incluyendo el aguardiente y a los concentrados de bebidas alcohólicas aun cuando tengan una graduación alcohólica mayor.
 
-II.- Bebida alcohólica fermentada es el producto resultante de la fermentación, principalmente alcohólica, de materias primas de origen vegetal, pudiendo contener gas carbónico de origen endógeno, ingredientes o aditivos, sin adicionar alcohol de calidad, común o aguardiente de uva o de azúcar.
+b) Bebidas refrescantes, las elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+II. Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquier semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
 
-III.- Bebidas refrescantes, elaboradas con un mínimo de 50% a base de vino de mesa, producto de la fermentación natural de frutas, pudiéndose adicionar: agua, bióxido de carbono o agua carbonatada, jugo de frutas, extracto de frutas, aceites esenciales, ácido cítrico, azúcar, ácido benzoico o ácido sórbico o sus sales como conservadores, así como aquéllas que se elaboran de destilados alcohólicos diversos de los antes señalados.
+III. Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
 
-IV.- Cerveza, la bebida fermentada, elaborada con malta de cebada, lúpulo, levadura y agua o con infusiones de cualquiera semilla farinácea procedente de gramíneas o leguminosas, raíces o frutos feculentos o azúcares como adjuntos de la malta, con adición de lúpulo o sucedáneos de éste.
+IV. Marbete, el signo distintivo de control fiscal, que se adhiere a los envases que contengan bebidas alcohólicas con capacidad que no exceda de 5,000 mililitros.
 
-V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+V. Precinto, el signo distintivo de control fiscal, que se adhiere a los recipientes que contengan bebidas alcohólicas con capacidad que exceda a 5,000 mililitros.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 3 DE DICIEMBRE DE 1993)</small>
+VI. Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55°G.L., a una temperatura de 15°C.
 
-VI.- Gas natural para combustión automotriz, el gas natural extraído del subsuelo o de cualquier otra fuente, que se destine a la carburación automotriz.
+VII. Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55°G.L., a una temperatura de 15°C, con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
 
-VII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+VIII. Tabacos labrados:
 
-VIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1994)
+a) Cigarros, los cigarros con o sin filtro, elaborados con mezcla de tabacos rubios o de tabacos obscuros, envueltos con papel o cualquier otra sustancia que no contenga tabaco.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+b) Puros, los tabacos labrados confeccionados y enrollados al 100% con hojas de tabaco o cualquier otra sustancia que contenga tabaco.
 
-IX.- Alcohol desnaturalizado, la solución acuosa de etanol con las impurezas que la acompañan, con una graduación mayor de 55° G.L., a una temperatura de 15° C., con la adición de las sustancias desnaturalizantes autorizadas por la Secretaría de Salud.
+c) Otros tabacos labrados, los que no están comprendidos en los incisos anteriores. Se consideran tabacos labrados, entre otros, a los tabacos cernidos, picados, de hebra, de mascar, así como al rapé.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+IX. Gasolina, combustible líquido y transparente obtenido como producto purificado de la destilación o de la desintegración de petróleo crudo.
 
-X.- Bebidas alcohólicas fermentadas a granel, las que se encuentren en recipientes cuya capacidad exceda a 5,000 mililitros.
+X. Diesel, combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+XI. Gas natural para combustión automotriz, el gas natural extraído del subsuelo o de cualquier otra fuente, que se destine a la carburación automotriz.
 
-XI.- Tabacos labrados, los cigarros, los puros y los tabacos cernidos, picados, de hebra, de mascar, así como el rapé.
+XII. Contraprestación, el precio pactado, adicionado con las cantidades que además se carguen o cobren al adquirente del bien o al prestatario del servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado o cuando éste se determine en cantidad "cero" se estará al valor que los bienes o servicios tengan en el mercado, o en su defecto al de avalúo.
 
-XII.- (DEROGADA, D.O.F. 29 DE MAYO DE 1998)
+También forman parte de la contraprestación los anticipos o depósitos que reciba el enajenante o el prestador del servicio antes de entregar el bien o prestar el servicio, cualquiera que sea el nombre que se dé a dichos anticipos o depósitos.
 
-XIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado, salvo que se trate de los bienes a que se refieren los incisos D), E) y F) de la fracción I del artículo 2o. de esta Ley.
 
-XIV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+Tratándose de enajenaciones se considerará que forma parte de la contraprestación, además de lo señalado en los párrafos anteriores, las cantidades que se carguen o cobren al adquirente del bien por concepto de envases y empaques, no retornables, necesarios para contener los bienes que se enajenan.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+Cuando la contraprestación que reciba el contribuyente por la enajenación de bienes o la prestación de servicios no sea en dinero, sino total o parcialmente en otros bienes o servicios, se considerará como valor de éstos el de mercado o, en su defecto, el de avalúo. Los mismos valores se tomarán en cuenta en caso de donación, cuando por ella se deba pagar el impuesto establecido en esta Ley.
 
-XV.- Alcohol, la solución acuosa de etanol con las impurezas que la acompañan, con graduación mayor de 55° G.L., a una temperatura de 15° C.
+En las permutas y pagos en especie, el impuesto especial sobre producción y servicios se deberá pagar por cada bien cuya propiedad se transmita o por cada servicio que se preste.
 
-> <small>(REFORMADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+XIII. Servicios de telecomunicaciones y conexos, los siguientes:
 
-XVI.- Gasolina, combustible líquido y transparente obtenido como producto purificado de la destilación o de la desintegración de petróleo crudo.
+A. Telecomunicaciones:
 
-> <small>(ADICIONADA, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+1. Radiotelefonía móvil con tecnología celular y acceso inalámbrico fijo o móvil.
 
-XVII.- Diesel, combustible líquido derivado del petróleo crudo que se obtiene por procedimientos de destilación y conversión.
+2. Radiolocalización móvil de personas o de bienes.
 
-XVIII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+3. Servicio de radiocomunicación especializada de flotillas o aquellos servicios que comprenden grupos cerrados de usuarios o grupos de usuarios determinados, definidos como aquellos que desarrollan actividades comunes o interrelacionadas y que requieren servicios de radiocomunicación móvil de voz y datos, en forma permanente e inmediata, sea de carácter grupal o privada entre pares de usuarios, haciendo uso de equipos fijos
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+o móviles.
 
-XIX.- Oporto, al vino generoso con Denominación de Origen, regulado por las leyes y reglamentos del Gobierno Portugués.
+4. Servicio de televisión restringida, tales como sistemas de televisión por cable, satelitales o los que utilicen cualesquiera otro medio de transmisión alámbrico o del espectro radioeléctrico.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+5. Cualquier otro servicio proporcionado por concesionarios o permisionarios de servicios de telecomunicaciones, proveedores de servicios satelitales, de soluciones de telecomunicaciones y de internet, de servicios de valor agregado o cualesquiera otro proveedor de servicios, siempre que, en todos los casos, el servicio que se preste sea para la explotación comercial de servicios que impliquen la emisión, recepción o transmisión, de señales de voz, datos o video.
 
-XX.- Vermouth o Vermuth, al vino generoso elaborado con vino de uva fresca o vino mosto concentrado de uva fresca, siempre en una proporción mínima de 75% de vino, edulcorado o no con mosto concentrado de uva o con azúcar de caña, alcoholizado con espíritu neutro, alcohol de calidad o común o aguardiente de uva y adicionado de extractos de diferentes plantas aromáticas y amargas.
+6. Conexos, todos aquellos prestados por las empresas de telecomunicaciones, independientemente del nombre con el que se les designe, distintos de los señalados en el inciso anterior, que se presten a los usuarios del servicio de telecomunicaciones como consecuencia o complemento de dichos servicios, aun cuando estos servicios conexos no estén condicionados al citado servicio de telecomunicaciones, tales como el servicio de llamada en espera, identificador de llamadas o buzón de voz, entre otros.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+XIV. Aguas naturales y minerales, gasificadas, que contengan sustancias minerales o electrolitos, purificadas y siempre que estén envasadas, incluyendo las que se encuentren mineralizadas artificialmente.
 
-XXI.- Vinos generosos, aquellos elaborados con no menos de 75% de vino de uva fresca o vino de uva pasa en generosos dulces y no menos de 90% de vino de uva fresca o vino de uva pasa en generosos secos y que además del alcohol procedente de su fermentación, se adiciona de alcohol de calidad o común, o de aguardiente de uva y azúcar, su contenido alcohólico será de 15 a 20% Alc. Vol.
+XV. Refrescos, las bebidas no fermentadas, elaboradas con agua, agua carbonatada, extractos o esencias de frutas, saborizantes o con cualquier otra materia prima, gasificados o sin gas, pudiendo contener ácido cítrico, ácido benzoico o ácido sórbico o sus sales como conservadores, siempre que contengan fructuosa.
 
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+XVI. Bebidas hidratantes o rehidratantes, las bebidas o soluciones que contienen agua y cantidades variables de carbohidratos o de electrolitos.
 
-XXII.- Jerez, (también conocido como Xéres o Sherry), al vino generoso con Denominación de Origen, regulado por las leyes y reglamentos del Gobierno Español.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 4o.
 
-Los contribuyentes a que se refiere este Título, pagarán en las oficinas autorizadas el impuesto a su cargo, sin que proceda acreditamiento alguno contra dicho pago, salvo en los supuestos a que se refiere el siguiente párrafo.
+Los contribuyentes a que se refiere esta Ley, pagarán el impuesto a su cargo,
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+sin que proceda acreditamiento alguno contra dicho pago, salvo en los supuestos a que se refiere el siguiente párrafo.
 
-Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de bebidas alcohólicas fermentadas, cerveza y bebidas refrescantes, así como el pagado por la importación, siempre que sea acreditable en los términos de este Título.
+Únicamente procederá el acreditamiento del impuesto trasladado al contribuyente por la adquisición de los bienes a que se refieren los incisos A), G) y H) de la fracción I del artículo 2o. de esta Ley, así como el pagado por el propio contribuyente en la importación de dichos bienes, siempre que sea acreditable en los términos de la citada Ley.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en este Título, las tasas a que se refieren las fracciones I y III del artículo 2o., según sea el caso. Se entiende por impuesto acreditable un monto equivalente al del impuesto especial sobre producción y servicios trasladado al contribuyente o el propio impuesto pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el párrafo anterior, en el mes o en el ejercicio al que corresponda.
-
-> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1996)</small>
+El acreditamiento consiste en restar el impuesto acreditable, de la cantidad que resulte de aplicar a los valores señalados en esta Ley, las tasas a que se refieren las fracciones I, incisos A), G) y H) del artículo 2o. de la misma. Se entiende por impuesto acreditable, un monto equivalente al del impuesto especial sobre producción y servicios efectivamente trasladado al contribuyente o el propio impuesto que él hubiese pagado con motivo de la importación, exclusivamente en los supuestos a que se refiere el párrafo anterior, en el mes al que corresponda.
 
 Para que sea acreditable el impuesto especial sobre producción y servicios en términos de los párrafos que anteceden, deberán reunirse los siguientes requisitos:
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+I. Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, en los términos de esta Ley y que corresponda a bienes o servicios por los que se deba pagar el impuesto.
 
-I.- Que se trate de contribuyentes que causen el impuesto en relación con el que se pretende acreditar, en los términos de este Título y que corresponda a bienes o servicios por los que se deba pagar el impuesto, así como a los que se les aplique la tasa del 0%.
+II. Que los bienes se enajenen sin haber modificado su estado, forma o composición.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+III. Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
 
-No procederá el acreditamiento a que se refiere este artículo, cuando quien lo pretenda realizar no sea contribuyente del impuesto respecto del bien o servicio por el que se le trasladó el citado impuesto. En ningún caso procederá el acreditamiento respecto de los actos o actividades que se encuentren exentos de este impuesto.
+IV. Que el impuesto acreditable y el impuesto a cargo contra el cual se efectúe el acreditamiento, correspondan a bienes de la misma clase, considerándose como tales los que se encuentran agrupados en cada uno de los incisos a que se refiere la fracción I del artículo 2o., de esta Ley. En el caso de la cerveza y de las bebidas refrescantes, éstas se considerarán cada una como bienes de diferente clase de las demás bebidas con contenido alcohólico.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+V. Que el impuesto que le haya sido trasladado al contribuyente y que éste pretenda acreditar, haya sido efectivamente pagado a quien efectuó dicho traslado.
 
-II.- Que los bienes se enajenen o exporten sin haber modificado su estado, forma o composición.
+No procederá el acreditamiento a que se refiere este artículo, cuando quien lo pretenda realizar no sea contribuyente del impuesto por la enajenación del bien o por la prestación del servicio por el que se le trasladó el citado impuesto o por el que se pagó en la importación. En ningún caso procederá el acreditamiento respecto de los actos o actividades que se encuentren exentos de este impuesto.
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe efectuar de un monto equivalente al impuesto establecido en esta Ley. No se considerará acreditable el impuesto que se traslade sin tener esta obligación.
 
-III.- Que el impuesto haya sido trasladado expresamente al contribuyente y conste por separado en los comprobantes a que se refiere la fracción II del artículo 19 de esta Ley.
+Cuando el contribuyente no acredite el impuesto que le fue trasladado en los términos de este artículo contra el impuesto que le corresponda pagar en el mes de que se trate o en los dos meses siguientes, pudiendo haberlo hecho, perderá el derecho a hacerlo en los meses siguientes hasta por la cantidad en que pudo haberlo acreditado.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-IV.- Que el impuesto acreditable y el impuesto a cargo contra el cual se efectúe el acreditamiento correspondan a bienes de la misma clase, considerándose como tales los que se encuentran agrupados en cada uno de los incisos a que se refiere la fracción I del artículo 2o., de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-También será acreditable en los términos de ese artículo, el impuesto pagado por la importación de los bienes a que se refieren los incisos G), H), I) y J) de la fracción I del artículo 2o. de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Se entenderá por traslado del impuesto el cobro o cargo que el contribuyente debe efectuar de un monto equivalente al impuesto establecido en este Título. No se considerará acreditable el impuesto que se traslade sin tener esta obligación.
-
-> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1995)</small>
-
-El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión. En el caso de escisión de sociedades el acreditamiento del impuesto pendiente de acreditar a la fecha de la escisión sólo lo podrá efectuar la sociedad escindente. Cuando esta última desaparezca, se estará a lo dispuesto en el penúltimo párrafo del artículo 14-A del Código Fiscal de la Federación.
+El derecho al acreditamiento es personal para los contribuyentes de este impuesto y no podrá ser transmitido por acto entre vivos, excepto tratándose de fusión de sociedades mercantiles.
 
 ###### ARTICULO 4o.-A.
 
@@ -334,35 +314,29 @@ El derecho al acreditamiento es personal para los contribuyentes de este impuest
 
 (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 5o.
 
-El impuesto se calculará por ejercicios fiscales, excepto en el caso de importaciones ocasionales de bienes en el que se estará a lo dispuesto en el artículo 16 de esta Ley.
+El impuesto se calculará mensualmente y se pagará a más tardar el día 17 del mes siguiente a aquél al que corresponda el pago, excepto en el caso de importaciones de bienes en el que se estará a lo dispuesto en los artículos 15 y 16 de esta Ley, según se trate. Los pagos mensuales se realizarán en los términos que al efecto se establezcan en esta Ley y tendrán el carácter de definitivos.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+El pago mensual será la diferencia que resulte de restar a la cantidad que se obtenga de aplicar la tasa que corresponda en los términos del artículo 2o. de esta Ley a las contraprestaciones efectivamente percibidas en el mes de que se trate, por la enajenación de bienes o la prestación de servicios gravados por esta Ley; el impuesto pagado en el mismo mes por la importación de dichos bienes, así como el impuesto que resulte acreditable en el mes de que se trate de conformidad con el artículo 4o. de esta Ley.
 
-Los contribuyentes efectuarán pagos provisionales mediante declaración que presentarán ante las oficinas autorizadas por los mismos periodos y en las mismas fechas de pago que las establecidas para el impuesto sobre la renta, excepto en los casos del ejercicio de iniciación de operaciones, en el que efectuarán pagos provisionales trimestrales y en el ejercicio de liquidación, en el que los pagos provisionales se efectuarán por los mismos periodos y en las mismas fechas en que se venían realizando con anterioridad al inicio del ejercicio de liquidación. El pago provisional será la diferencia entre el impuesto que corresponda al total de actividades realizadas en el periodo por el cual se efectúa el pago, a excepción de las importaciones, y las cantidades por las que proceda el acreditamiento.
+Cuando en la declaración de pago mensual resulte saldo a favor, el contribuyente únicamente podrá compensarlo contra el impuesto a su cargo que le corresponda en los pagos mensuales siguientes hasta agotarlo.
 
-> <small>(DEROGADO TERCER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Cuando el contribuyente no compense el saldo a favor contra el impuesto que le corresponda pagar en el mes de que se trate o en los dos siguientes, pudiendo haberlo hecho, perderá el derecho a hacerlo en los meses siguientes hasta por la cantidad en que pudo haberlo compensado.
 
-> <small>(DEROGADO CUARTO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Las disposiciones que establece el Código Fiscal de la Federación en materia de devolución de saldos a favor y de compensación, se aplicarán en lo que no se oponga a lo previsto en el presente artículo.
 
-Cuando en la declaración de pago provisional resulte saldo a favor, el contribuyente podrá acreditarlos contra el impuesto a su cargo que le corresponda en los pagos provisionales siguientes hasta agotarlo o solicitar su devolución, siempre que en este último caso sea sobre el total del saldo a favor. Los saldos que resulten a favor del contribuyente en la última declaración de pago provisional de su ejercicio no se podrán acreditar en declaraciones posteriores.
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 5o.-A.
 
-El impuesto del ejercicio, deducidos los pagos provisionales se pagará mediante declaración que se presentará ante las oficinas autorizadas, dentro de los tres meses siguientes al cierre del ejercicio.
+Los fabricantes, productores, envasadores o importadores, que a través de comisionistas, mediadores, agentes, representantes, corredores, consignatarios o distribuidores, enajenen los bienes a que se refiere el artículo 2o. de esta Ley, estarán obligados a retener el impuesto sobre la contraprestación que a éstos corresponda y enterarlo mediante declaración que presentarán ante las oficinas autorizadas, de conformidad con lo dispuesto en el primer párrafo del artículo 5o. de esta Ley, salvo que se trate de los bienes a que se refieren los incisos D), E) y F) de la fracción I del artículo 2o. de esta Ley. Cuando las contraprestaciones se incluyan en el valor de la enajenación por las que se pague este impuesto, no se efectuará la retención y no se considerarán contribuyentes de este impuesto por dichas actividades.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Los contribuyentes que únicamente realicen las actividades a que se refiere el párrafo anterior y que por dichas actividades les sea retenido el impuesto sobre las contraprestaciones que les correspondan en los términos del citado párrafo, no tendrán obligación de presentar declaraciones de pago mensual.
 
-Tratándose de importación de bienes el pago se hará conforme lo establece el artículo 15 de esta Ley.
-
-Si en la declaración del ejercicio el contribuyente tuviera cantidades a su favor, podrá acreditarlas en las declaraciones de pagos provisionales posteriores o solicitar su devolución total.
-
-Los saldos cuya devolución se solicite no podrán acreditarse en declaraciones posteriores.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 5o.
 
@@ -376,7 +350,11 @@ Los contribuyentes a los que les sea retenido el impuesto sobre las contrapresta
 
 ###### ARTICULO 6o.
 
-El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones con motivo de la realización de actos o actividades por los que se tenga que pagar el impuesto en los términos de este Título, deducirá en la siguiente o siguientes declaraciones de pagos provisionales el monto de dichos conceptos, del valor de los actos o actividades por los que se deba pagar el impuesto.
+El contribuyente que reciba la devolución de bienes enajenados u otorgue descuentos o bonificaciones, con motivo de la realización de actos o actividades por los que se hubiera pagado el impuesto en los términos de esta Ley, disminuirá, en la siguiente declaración de pago, el monto del impuesto causado por dichos conceptos del impuesto que se deba pagar en el mes de que se trate.
+
+Cuando el monto del impuesto causado por el contribuyente en el mes de que se trate resulte inferior al monto del impuesto que se disminuya en los términos del párrafo anterior, el contribuyente podrá disminuir la diferencia que resulte entre dichos montos, en la siguiente o siguientes declaraciones, hasta agotarlo.
+
+El contribuyente que en un mes reciba el descuento, la bonificación o devuelva los bienes que le hubieran sido enajenados, respecto de los cuales le hubiera sido trasladado expresamente y por separado el impuesto establecido en esta Ley, disminuirá del impuesto acreditable del mes de que se trate, el impuesto correspondiente al descuento, a la bonificación o a la devolución, hasta por el monto del impuesto acreditable de dicho mes. Cuando el monto del impuesto acreditable resulte inferior al monto del impuesto que se deba disminuir en los términos de este párrafo, el contribuyente pagará la diferencia que resulte entre dichos montos al presentar la declaración de pago del mes al que corresponda el descuento, la bonificación o la devolución.
 
 ###### ARTICULO 6o-A.
 
@@ -384,99 +362,79 @@ El contribuyente que reciba la devolución de bienes enajenados u otorgue descue
 
 ### CAPITULO II. De la Enajenación
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 7o.
 
-Para los efectos de este Título, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de materias primas o de bienes en los inventarios de los contribuyentes que no cumplan con los requisitos que establezca la Secretaría de Hacienda y Crédito Público.
+Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, el faltante de materias primas o de bienes en los inventarios de los contribuyentes que no cumplan con los requisitos que establezca el Reglamento de esta Ley. En este último caso, la presunción admite prueba en contrario.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Para los efectos de esta Ley, también se considera enajenación de los bienes a que hace referencia el inciso A) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en que se produjeron o envasaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren envasados en recipientes de hasta 5,000 mililitros. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como valor del acto, el precio promedio en que dichos bienes se enajenaron en los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
 
-Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados por este Título.
+Igualmente, se considera enajenación de los bienes a que hace referencia el inciso C) de la fracción I del artículo 2o. de esta Ley, el retiro del lugar en el que se fabricaron o, en su caso, del almacén del contribuyente, cuando los mismos no se destinen a su comercialización y se encuentren empaquetados en cajas o cajetillas. En este caso, el impuesto se pagará a más tardar el día 17 del mes siguiente a aquél en el que sean retirados los bienes de los citados lugares, considerando como contraprestación el precio promedio de venta al detallista, tratándose de cigarros, o el precio promedio de enajenación, en el caso de puros y otros tabacos labrados, de los tres meses inmediatos anteriores a aquél en el que se efectúe el pago.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+Asimismo, se considera enajenación las ventas de bebidas alcohólicas cuando éstas se realicen al público en general para su consumo en el mismo lugar o establecimiento en el que se enajenen.
 
-No se considera enajenación, la transmisión de propiedad que se realice por causa de muerte o donación, salvo que esta donación la realicen empresas para las cuales el donativo no sea deducible para los fines del impuesto sobre la renta.
+Se equipara a la enajenación el consumo que efectúe Petróleos Mexicanos de los productos gravados por esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+No se considera enajenación la transmisión de propiedad que se realice por causa de muerte o donación, siempre que la donación sea deducible para los fines del impuesto sobre la renta.
 
-###### ARTICULO 8o.
-
-No se pagará el impuesto establecido en este Título, en las enajenaciones siguientes:
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-I.- Alcohol y alcohol desnaturalizado, siempre que se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, primer párrafo, XI, XII, XIV y XVIII de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
-
-II.- Aguamiel y productos derivados de su fermentación.
-
-> <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-III.- Por las enajenaciones a granel que realicen productores o envasadores de bebidas alcohólicas fermentadas y de bebidas refrescantes, a productores o envasadores de bebidas alcohólicas, siempre que estos últimos cumplan con lo establecido en la fracción VII del artículo 26-M de esta Ley.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
-
-IV.- Las ventas de bebidas alcohólicas fermentadas, cerveza y bebidas refrescantes, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. Tampoco gozarán del beneficio establecido en esta fracción, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
-
-V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-VII.- (DEROGADA, D.O.F. 20 DE DICIEMBRE DE 1991)
-
-VIII.- (DEROGADA, D.O.F. 28 DE DICIEMBRE DE 1989)
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 8o.
+
+No se pagará el impuesto establecido en esta Ley:
+
+I. Por las enajenaciones siguientes:
+
+a) Alcohol y alcohol desnaturalizado, siempre que se cumpla con las obligaciones establecidas en el artículo 19, fracciones I, II, primer párrafo, VI, VIII, XI, XII y XIV de esta Ley y las demás obligaciones que establezcan las disposiciones fiscales.
+
+b) Aguamiel y productos derivados de su fermentación.
+
+c) Las que realicen personas diferentes de los fabricantes, productores o importadores, de los bienes a que se refieren los incisos C), D), E) y F) de la fracción I del artículo 2o. de esta Ley. En estos casos, las personas distintas de los fabricantes, productores o importadores, no se consideran contribuyentes de este impuesto por dichas enajenaciones.
+
+d) Las de cerveza, bebidas refrescantes, puros y otros tabacos labrados, así como las de los bienes a que se refieren los incisos G) y H) de la fracción I del artículo 2o. de esta Ley, que se efectúen al público en general, salvo que el enajenante sea fabricante, productor, envasador, distribuidor o importador de los bienes que enajene. No gozarán del beneficio establecido en este inciso, las enajenaciones de los citados bienes efectuadas por comerciantes que obtengan la mayor parte del importe de sus ingresos de enajenaciones a personas que no forman parte del público en general. No se consideran enajenaciones efectuadas con el público en general cuando por las mismas se expidan comprobantes que cumplan con los requisitos a que se refiere el artículo 29-A del Código Fiscal de la Federación.
+
+e) Las de bebidas alcohólicas que se efectúen al público en general para su consumo en el mismo lugar o establecimiento en que se enajenen, siempre que dicha enajenación se realice exclusivamente por copeo y quien las enajene no sea fabricante, productor, envasador e importador.
+
+Sólo será aplicable la exención a que se refiere este inciso, cuando se dé cumplimiento a la obligación establecida en la fracción XVIII del artículo 19 de esta Ley.
+
+f) Las de los bienes a que se refieren los incisos G) y H) de la fracción I del artículo 2o. de esta Ley siempre que utilicen como edulcorante únicamente azúcar de caña.
+
+II. Por la exportación de los bienes a que se refiere esta Ley. En estos casos, los exportadores estarán a lo dispuesto en la fracción XI del artículo 19 de la misma.
+
+###### ARTICULO 8o
 
 B (SIC).- (DEROGADO, D.O.F. 31 DE DICIEMBRE DE 1998)
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 9o.
 
-Para los efectos de este Título, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente y cuando, no habiendo envío se realiza en el país la entrega material del bien por el enajenante.
+Para los efectos de esta Ley, se entiende que la enajenación se efectúa en territorio nacional, si en él se encuentra el bien al efectuarse el envío al adquirente, o cuando no habiendo envío, se realiza en el país la entrega material del bien por el enajenante.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 10.
 
-Se considera que se efectúa la enajenación de los bienes a que se refiere este Título, en el momento en que se realice cualquiera de los supuestos siguientes:
+En la enajenación de los bienes a que se refiere esta Ley, el impuesto se causa en el momento en el que se cobren las contraprestaciones y sobre el monto de lo cobrado. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley.
 
-I.- Se envíe el bien al adquirente. A falta de envío, al entregarse materialmente el bien. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el bien, no tenga obligación de recibirlo o de adquirirlo.
-
-II.- Se pague parcial o totalmente el precio.
-
-III.- Se expida el documento que ampare la enajenación.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 11.
 
-Para calcular el impuesto tratándose de enajenaciones se considerará como valor el precio pactado, incluyendo el de los envases y empaques, no retornables, necesarios para contener los bienes que se enajenan, así como las cantidades que además se carguen o cobren al adquirente por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos. A falta de precio pactado se estará al valor que los bienes tengan en el mercado, o en su defecto al de avalúo. En la enajenación de los bienes a que se refieren los incisos H), I), y J) de la fracción I del artículo 2o. de esta Ley, en ningún caso se considerarán dentro del valor del precio pactado las cantidades que en su caso se carguen o cobren al adquirente por los conceptos a que se refiere la fracción II del artículo 2o. de esta Ley.
+Para calcular el impuesto tratándose de enajenaciones, se considerará como valor la contraprestación. En la enajenación de los bienes a que se refieren los incisos D), E) y F) de la fracción I del artículo 2o. de esta Ley, en ningún caso se considerarán dentro de la contraprestación las cantidades que en su caso se carguen o cobren al adquirente por los conceptos a que se refiere el inciso A) de la fracción II del artículo 2o. de esta Ley.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Los productores o importadores de cigarros, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos el precio de venta al detallista. Los fabricantes, productores o importadores de puros y otros tabacos labrados, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos la contraprestación pactada. Tratándose de la enajenación de los combustibles a que se refieren los incisos D), E) y F) de la fracción I del artículo 2o. de esta Ley, los productores o importadores, para calcular el impuesto por la enajenación de esos bienes, considerarán como valor el precio a que se refiere la fracción I, del artículo 2o.-A y la fracción I del artículo 2o.-C, de esta Ley, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Cuando con motivo de la enajenación de bienes sujetos al pago de este impuesto se convenga además del precio por dicha enajenación el pago de cantidades adicionales al mismo por concepto de publicidad o cualquier otro, que en su defecto se hubieran tenido que realizar por parte del enajenante, dichas erogaciones formarán parte del valor o precio pactado, salvo que se trate de los bienes a que se refieren los incisos H), I) y J) de la fracción I del artículo 2o. de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-Los productores o importadores de tabacos labrados, para calcular el impuesto por la enajenación de esos bienes en territorio nacional, considerarán como valor de los mismos el precio de venta al detallista. En el caso de exportación definitiva de dichos bienes en los términos de la legislación aduanera, considerarán el valor que se utilice para los fines del impuesto general de exportación. Tratándose de la enajenación de los combustibles a que se refieren los incisos H) e I) de la fracción I del artículo 2o. de esta Ley, los productores o importadores para calcular el impuesto por la enajenación de esos bienes considerarán como valor el precio a que se refiere la fracción I, del artículo 2o.-A de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-El impuesto a que se refiere el párrafo anterior no se pagará por las enajenaciones subsecuentes no procediendo en ningún caso el acreditamiento o devolución del impuesto por dichas enajenaciones.
-
-Los intereses moratorios y las penas convencionales, darán lugar al pago de este impuesto en el mes en que se paguen.
+El impuesto a que se refiere el párrafo anterior, no se pagará por las enajenaciones subsecuentes, no procediendo en ningún caso el acreditamiento o la devolución del impuesto por dichas enajenaciones.
 
 ### CAPITULO III. De la Importación de Bienes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 12.
 
-Para los efectos de este Título, se considera importación la introducción al país de bienes y se estima que ésta se efectúa:
+Para los efectos de esta Ley, en la importación de bienes el impuesto se causa:
 
 > <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1989)</small>
 
@@ -484,21 +442,27 @@ I.- En el momento en que el importador presente el pedimento para su trámite en
 
 II.- En caso de importación temporal al convertirse en definitiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+
+III. En el caso de bienes que hayan sido introducidos ilegalmente al país, cuando dicha internación sea descubierta o las citadas mercancías sean embargadas, por las autoridades.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 13.
 
-No se pagará el impuesto establecido en este Título, en las importaciones siguientes:
+No se pagará el impuesto establecido en esta Ley, en las importaciones siguientes:
 
 I.- Las que en los términos de la legislación aduanera no lleguen a consumarse, sean temporales, tengan el carácter de retorno de bienes exportados temporalmente o sean objeto de tránsito o transbordo.
 
 II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante disposiciones de carácter general, en su caso, establezca la Secretaría de Hacienda y Crédito Público.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-III.- La de los bienes señalados en la fracción I y II del artículo 8o. de esta Ley.
+III.- Las de aguamiel y productos derivados de su fermentación, así como las de alcohol y alcohol desnaturalizado, siempre que los importadores de estos últimos bienes cumplan con las obligaciones establecidas en el artículo 19, fracciones I, VIII y XIV de esta Ley.
 
-IV.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
+> <small>(ADICIONADA, D.O.F. 1 DE ENERO DE 2002)</small>
+
+IV.- Las de los bienes en franquicia de conformidad con lo dispuesto en la Ley Aduanera.
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
@@ -510,141 +474,125 @@ VI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1982)
 
 Para calcular el impuesto tratándose de importación de bienes, se considerará el valor que se utilice para los fines del impuesto general de importación, adicionado con el monto de las contribuciones y aprovechamientos que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
-Tratándose de bienes por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere este Título será el que se determine conforme a lo previsto en el primer párrafo de este artículo, considerando el impuesto general de importación que se hubiera tenido que pagar de haberse aplicado la tasa general referida.
+Tratándose de bienes por cuya importación se pague el impuesto general de importación a una tasa menor a la general vigente, el impuesto a que se refiere esta Ley, será el que se determine conforme a lo previsto en el primer párrafo de este artículo, considerando el impuesto general de importación que se hubiera tenido que pagar de haberse aplicado la tasa general referida.
 
-> <small>(DEROGADO ULTIMO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 15.
 
-Tratándose de la importación de bienes, el pago del impuesto establecido en este Título, tendrá el carácter de provisional y se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito.
+Tratándose de la importación de bienes, el pago del impuesto establecido en esta Ley se hará conjuntamente con el del impuesto general de importación, inclusive cuando el pago del segundo se difiera en virtud de encontrarse los bienes en depósito fiscal en los almacenes generales de depósito.
 
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Cuando se trate de bienes por los que no se esté obligado al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto especial sobre producción y servicios, mediante declaración que presentarán en la aduana correspondiente.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a esta Ley.
 
-Cuando se trate de bienes por los que no se esté obligado a adherir marbetes o al pago del impuesto general de importación, los contribuyentes efectuarán el pago del impuesto especial sobre producción y servicios, mediante declaración que presentarán en la aduana correspondiente.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-No podrán retirarse mercancías de la aduana o recinto fiscal o fiscalizado, sin que previamente quede hecho el pago que corresponda conforme a este Título.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 16.
 
-Cuando se importe un bien en forma ocasional por el que deba pagarse el impuesto establecido en este Título, el pago se hará en los términos del artículo anterior y tendrá el carácter de definitivo.
+Cuando en forma ocasional se importe un bien por el que deba pagarse el impuesto establecido en esta Ley, el pago se hará en los términos del artículo anterior.
 
 ### CAPITULO IV. De la Prestación de Servicios
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 17.
 
-En la prestación de servicios se tendrá obligación de pagar el impuesto en el momento en que se cobren o sean exigibles las contraprestaciones a favor de quien los preste o se expida el comprobante que ampare el precio o contraprestación pactada, lo que suceda primero, y sobre el monto de cada una de ellas. Entre dichas contraprestaciones quedan incluidos los anticipos que reciba el prestador de servicios. El impuesto se pagará en las oficinas autorizadas de conformidad con el artículo 5o. de esta Ley.
+Para calcular el impuesto en la prestación de servicios, se considerará como valor la contraprestación. En este caso, el impuesto se causa en el momento en que se cobren efectivamente las contraprestaciones y sobre el monto de cada una de ellas. Cuando las contraprestaciones se cobren parcialmente, el impuesto se calculará aplicando a la parte de la contraprestación efectivamente percibida, la tasa que corresponda en términos del artículo 2o. de esta Ley. El impuesto se pagará de conformidad con el artículo 5o. de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 18.
 
-Para calcular el impuesto tratándose de prestación de servicios se considerará como valor el total de la contraprestación pactada así como las cantidades que además se carguen o cobren a quien reciba el servicio por intereses normales o moratorios, penas convencionales o cualquier otro concepto distinto de impuestos.
+No se pagará el impuesto establecido en esta Ley por la prestación de los siguientes servicios:
+
+I. Telefonía rural, consistente en el servicio que se presta en poblaciones que de acuerdo al último censo disponible, cuente con menos de 3,000 habitantes.
+
+II. Telefonía básica residencial, consistente en el servicio automático de telefonía básica local, por la parte correspondiente al cobro del servicio para línea telefónica de uso residencial hasta por $250.00 mensuales.
+
+III. Telefonía pública, consistente en el acceso a los servicios prestados a través de redes públicas de telecomunicaciones, y que deberá prestarse al público en general por medio de instalación, operación y explotación, de aparatos telefónicos de uso de público.
+
+IV. Los servicios de hospedaje compartido o dedicado, de coubicación, elaboración de páginas, portales o sitios de internet, servicios de administración de dominios, nombres y direcciones de internet, servicios de administración de seguridad, de distribución de contenido, de almacenamiento y administración de datos y de desarrollo y administración de aplicaciones, todos ellos siempre que sean conexos a los servicios de datos o internet.
+
+V. Los que se presten entre concesionarios de redes públicas de telecomunicaciones o entre éstos y proveedores de servicios de internet y que no sean un servicio final sino un servicio intermedio, entre otros, interconexión nacional e internacional, servicios de transporte o reventa de larga distancia, servicios de acceso a redes, la prestación de enlaces de interconexión, de enlaces dedicados o privados, servicios de coubicación, servicios de provisión de capacidad del espectro radioeléctrico, cargos relacionados a la presuscripción o cambios de operador y troncales digitales para servicios de internet, siempre que estos servicios constituyan un servicio intermedio para que a su vez se utilicen para prestar un servicio final.
+
+VI. Larga distancia nacional residencial hasta por $40.00 y, larga distancia internacional o cualquier otro servicio que se origine o termine como voz, entre usuarios de México y un país extranjero, independientemente de que, durante su transmisión, se hubiere utilizado formato de datos.
+
+VII. El servicio de internet conmutado en lo que corresponde a renta básica.
+
+VIII. Las comunicaciones de servicios de emergencia.
+
+IX. Los de telefonía celular, siempre que dichos servicios se presten a través de tarjetas prepagadas que incluyan hasta 200 pesos fuera de los contratos regulares de servicios.
+
+X. Telefonía básica local en todas sus modalidades.
+
+XI. Larga distancia nacional que se origine o termine como voz entre usuarios de dos áreas locales, independientemente de los medios o formatos utilizados durante su transmisión.
 
 ### CAPITULO V. De las Obligaciones de los Contribuyentes
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 19.
 
-Los contribuyentes a que se refiere este Título tienen, además de las obligaciones señaladas en otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
+Los contribuyentes a que se refiere esta Ley tienen, además de las obligaciones señaladas en otros artículos de la misma y en las demás disposiciones fiscales, las siguientes:
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
+I. Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas.
 
-I.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación, su Reglamento y el Reglamento de esta Ley, y efectuar conforme a este último la separación de las operaciones, desglosadas por tasas.
+II. Expedir comprobantes sin el traslado en forma expresa y por separado del impuesto establecido en esta Ley, salvo tratándose de la enajenación de bebidas con contenido alcohólico y cerveza, siempre que el adquirente sea a su vez contribuyente de este impuesto por dicho bien y así lo solicite.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Los comerciantes que en el ejercicio inmediato anterior a aquél al que corresponda, hubieran efectuado el 90% del importe de sus enajenaciones con el público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en esta Ley, salvo que el adquirente sea contribuyente de este impuesto por el bien o servicio de que se trate y requiera la expedición del comprobante con el impuesto trasladado expresamente y por separado. En todos los casos, se deberán ofrecer los bienes gravados por esta Ley, incluyendo el impuesto en el precio.
 
-II. Expedir comprobantes sin el traslado en forma expresa y por separado del impuesto establecido en este Título, salvo tratándose de la enajenación de bebidas alcohólicas fermentadas, cerveza y bebidas refrescantes siempre que el adquirente sea a su vez contribuyente de este impuesto por dicho bien y así lo solicite.
+Los contribuyentes que enajenen bebidas con contenido alcohólico y cerveza, que trasladen en forma expresa y por separado el impuesto establecido en esta Ley, deberán asegurarse de que los datos relativos al nombre, denominación o razón social de la persona a favor de quien se expiden, corresponde con el registro con el que dicha persona acredite que es contribuyente del impuesto especial sobre producción y servicios respecto de dicho bien. Asimismo, los citados contribuyentes deberán proporcionar a la Secretaría de Hacienda y Crédito Público en forma trimestral, en los meses de abril, julio, octubre y enero, del año que corresponda, la relación de las personas a las que en el trimestre anterior al que se declara les hubiere trasladado el impuesto especial sobre producción y servicios en forma expresa y por separado en los términos de esta fracción, así como el monto del impuesto trasladado en dichas operaciones y la información y documentación que mediante reglas de carácter general señale la Secretaría de Hacienda y Crédito Público.
 
-Los comerciantes que en el ejercicio inmediato anterior al que corresponda, hubieran efectuado el 90% del importe de sus enajenaciones con el público en general, en el comprobante que expidan no trasladarán expresamente y por separado el impuesto establecido en este Título, salvo que el solicitante sea contribuyente de este impuesto por el bien o servicio de que se trate y así lo requiera. En todos los casos, se deberán ofrecer los bienes gravados por dicho Título, incluyendo el impuesto en el precio.
+III. Presentar las declaraciones e informes previstos en esta Ley, en los términos que al efecto se establezcan en el Código Fiscal de la Federación. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración de pago ante las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
 
-Los contribuyentes que enajenen bebidas alcohólicas fermentadas, cerveza y bebidas refrescantes que trasladen en forma expresa y por separado el impuesto establecido en este Título, deberán asegurarse de que los datos relativos al nombre, denominación o razón social de la persona a favor de quien se expiden, corresponde con el registro con el que dicha persona acredite que es contribuyente del impuesto especial sobre producción y servicios respecto de dicho bien. Asimismo, los citados contribuyentes deberán proporcionar a la Secretaría de Hacienda y Crédito Público en forma trimestral, en los meses de abril, julio, octubre y enero, del año que corresponda la relación de las personas a las que en el trimestre anterior al que se declara les hubiere trasladado el impuesto especial sobre producción y servicios en forma expresa y por separado en los términos de esta fracción, así como el monto del impuesto trasladado en dichas operaciones y la información y documentación que mediante reglas de carácter general señale la Secretaría de Hacienda y Crédito Público.
+IV. Los productores e importadores de cigarros, deberán registrar ante las autoridades fiscales, dentro del primer mes de cada año, la lista de precios de venta por cada uno de los productos que enajenan, clasificados por marca y presentación, señalando los precios al mayorista, detallista y el precio sugerido de venta al público.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+Asimismo, se deberá informar a las autoridades fiscales cuando exista alguna modificación en los precios, debiendo presentar a las citadas autoridades, dentro de los 5 días siguientes a que esto ocurra, la lista de precios de venta que estará vigente a partir del momento de la modificación.
 
-III.- Presentar en las oficinas autorizadas las declaraciones señaladas en este Título, excepto en los pagos provisionales tratándose de importación de bienes. Si un contribuyente tuviera varios establecimientos, presentará por todos ellos una sola declaración, semanal, mensual o del ejercicio según se trate, en las oficinas autorizadas correspondientes al domicilio fiscal del contribuyente.
+V. Los contribuyentes deberán adherir marbetes a los envases que contengan bebidas alcohólicas, inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto se señalen en el Reglamento de esta Ley.
 
-IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
+Quienes importen bebidas alcohólicas y estén obligados al pago del impuesto en los términos de esta Ley, deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a la internación en territorio nacional de los productos o, en su defecto, en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares antes indicados sin que se haya cumplido con la obligación señalada.
 
-V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
+El marbete deberá colocarse en la etiqueta frontal del envase, abarcando parte de la etiqueta y parte del propio envase. En los casos en los que por el tamaño de la etiqueta no sea posible adherir el marbete sin afectar la información comercial, éste podrá ser adherido en la contraetiqueta del envase y de la misma manera en que se señaló, siempre que ésta tenga impresa la marca del producto y el nombre del fabricante, productor, envasador o importador.
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+VI. Proporcionar a las autoridades fiscales durante el mes de marzo de cada año, la información que corresponda de los bienes que produjeron, enajenaron o importaron en el año inmediato anterior, respecto de su consumo por entidad federativa e impuesto correspondiente, así como de los servicios prestados por establecimiento en cada entidad federativa. Para los efectos de esta fracción, se considera que los bienes se consumen en el lugar en el que se hace la entrega material del producto, de acuerdo con el comprobante de enajenación.
 
-VI.- Conservar y, en su caso, proporcionar a las autoridades fiscales la información que corresponda de los bienes que produzcan, enajenen o importen respecto de su consumo por entidad federativa e impuesto correspondiente, conforme a lo dispuesto en el Reglamento, así como de los servicios prestados por establecimiento en cada entidad federativa. Para efectos de esta fracción, se considera que los bienes se consumen en el lugar en que se hace la entrega material del producto, de acuerdo con el comprobante de enajenación.
+VII. Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere el inciso A) de la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros, de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-VII.- Realizar, tratándose de los contribuyentes que presten los servicios a que se refiere la fracción II del artículo 2o. de esta Ley, la separación en su contabilidad y registros de las operaciones que lleven a cabo por cuenta propia de las que efectúen por cuenta ajena.
-
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-VIII.- Los fabricantes, productores, envasadores e importadores obligados al pago del impuesto especial sobre producción y servicios a que se refiere este Título, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, trimestralmente en los meses de abril, julio, octubre y enero, la información sobre sus 50 principales clientes y proveedores del trimestre inmediato anterior al de su declaración, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
-
-> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+VIII. Los fabricantes, productores, envasadores e importadores, obligados al pago del impuesto especial sobre producción y servicios a que se refiere esta Ley, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la información sobre sus 50 principales clientes y proveedores del trimestre inmediato anterior al de su declaración.
 
 Los contribuyentes que tengan uno o varios establecimientos ubicados en una entidad federativa diferente al de la matriz, deberán presentar la información a que se refiere el párrafo anterior por las operaciones que correspondan a dichos establecimientos para su consumo final.
 
-> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+La información a que se refiere esta fracción y la fracción VI de este artículo, será la base para la determinación de las participaciones a que se refiere esta Ley y el artículo 3o. de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
 
-La información a que se refiere esta fracción y la fracción VI, será la base para la determinación de las participaciones a que se refiere esta Ley y los artículos 3o. y 3o-A de la Ley de Coordinación Fiscal, en materia del impuesto especial sobre producción y servicios.
+IX. Los productores e importadores de tabacos labrados, deberán informar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto, así como el valor y volumen de los mismos. Esta información se deberá proporcionar por cada una de las marcas que produzca o importe el contribuyente.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+X. Los fabricantes, productores o envasadores de bebidas con contenido alcohólico; cerveza; y de tabacos labrados; aguas naturales y minerales gasificadas; refrescos; bebidas hidratantes o rehidratantes; jarabes, concentrados, polvos, esencias o extractos de sabores, deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración.
 
-IX.- Los productores e importadores de tabacos labrados, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, conjuntamente con su declaración del mes, el precio de enajenación de cada producto y valor, así como el volumen de tabacos labrados, por marca, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
+XI. Los exportadores de los bienes a que se refieren los incisos A), B), C), G) y H) de la fracción I del artículo 2o. de esta Ley, deberán estar registrados como exportadores de dichos bienes en el Registro Federal de Contribuyentes.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+XII. Los fabricantes, productores y envasadores, de alcohol y alcohol desnaturalizado, deberán reportar en el mes de enero de cada año, a la Secretaría de Hacienda y Crédito Público, las características de los equipos que utilizarán para la producción, destilación o envasamiento de dichos bienes.
 
-X.- Los fabricantes, productores o envasadores de bebidas alcohólicas fermentadas, cerveza, bebidas refrescantes y de tabacos labrados deberán llevar un control físico del volumen fabricado, producido o envasado, según corresponda, así como reportar trimestralmente en los meses de abril, julio, octubre y enero, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
+Asimismo, deberán reportar a dicha dependencia la fecha de inicio del proceso de producción, destilación o envasamiento, con quince días de anticipación al mismo, acompañando la información sobre las existencias de producto en ese momento. Igualmente, deberán reportar la fecha en que finalice el proceso, dentro de los quince días siguientes a la conclusión del mismo, acompañando la información sobre el volumen fabricado, producido o envasado.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+En el caso de que se adquieran o se incorporen nuevos equipos de destilación o envasamiento, se modifiquen los instalados o se enajenen los reportados por el contribuyente, se deberá presentar aviso ante las autoridades fiscales dentro de los 15 días siguientes a que esto ocurra.
 
-XI.- Los exportadores de los bienes a que se refiere el artículo 2o., fracción I, incisos A), B), C), D) y E) de esta Ley, para efectos de poder aplicar la tasa del cero por ciento a que se refiere la fracción III del citado precepto, así como los contribuyentes de los bienes a que se refiere el artículo 2o., fracción I, incisos F) y G) para gozar de la exención establecida en el artículo 2o., fracción III, segundo párrafo, deberán estar inscritos en el padrón de exportadores sectorial a cargo de la Secretaría de Hacienda y Crédito Público, para lo cual deberán cumplir con las disposiciones de carácter general que al efecto emita la citada dependencia.
+XIII. Los fabricantes, productores, envasadores e importadores, de los bienes a que se refiere el inciso A) de la fracción I del artículo 2o. de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el trimestre inmediato anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+XIV. Los fabricantes, productores, envasadores e importadores, de alcohol, alcohol desnaturalizado y de bebidas alcohólicas, deberán estar registrados como contribuyentes de bebidas alcohólicas en el Registro Federal de Contribuyentes. Asimismo, los fabricantes, productores, envasadores e importadores, de bebidas alcohólicas, deberán cumplir con esta obligación para poder solicitar marbetes y precintos, según se trate, debiendo cumplir con las disposiciones del Reglamento de esta Ley.
 
-XII.- Los fabricantes, productores y envasadores de alcohol y alcohol desnaturalizado, deberán reportar en el mes de enero de cada año, a la Secretaría de Hacienda y Crédito Público, las características de los equipos que utilizarán para la producción, destilación o envasamiento de dichos bienes.
+XV. Los productores, envasadores e importadores, de bebidas alcohólicas, estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe de los números de folio de marbetes y precintos obtenidos, utilizados y destruidos, durante el trimestre inmediato anterior.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+XVI. Los productores o envasadores de los bienes a que se refiere el numeral 3 del inciso A) de la fracción I del artículo 2o. de esta Ley, estarán obligados a llevar un control volumétrico de producción y presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente, en los meses de abril, julio, octubre y enero, del año que corresponda, un informe que contenga el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se informa.
 
-Asimismo, deberán reportar a dicha dependencia, la fecha de inicio del proceso de producción, destilación o envasamiento, con quince días de anticipación al mismo, acompañando la información sobre las existencias de producto en ese momento. Igualmente, deberán reportar la fecha en que finalice el proceso, dentro de los quince días siguientes a la conclusión del mismo, acompañando la información sobre el volumen fabricado, producido o envasado.
+XVII. Proporcionar la información que del impuesto especial sobre producción y servicios se les solicite en las declaraciones del impuesto sobre la renta.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1998)</small>
+XVIII. Los contribuyentes a que hace referencia esta Ley, que enajenen al público en general bebidas alcohólicas para su consumo en el mismo lugar o establecimiento en el que se enajenen, deberán destruir los envases que las contenían, inmediatamente después de que se haya agotado su contenido.
 
-En caso de que durante un ejercicio se adquieran o incorporen nuevos equipos de destilación o envasamiento, se modifiquen los instalados o se enajenen los reportados por el contribuyente, se deberá presentar aviso ante las autoridades fiscales dentro de los 15 días siguientes a que esto ocurra.
-
-> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
-
-La información a que se refiere esta fracción, se proporcionará en los términos que señale la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-XIII.- Los fabricantes, productores, envasadores e importadores de los bienes a que se refiere el artículo 2o., fracción I, incisos A), B), C), D) y E) de esta Ley, obligados al pago del impuesto especial sobre producción y servicios, deberán proporcionar a la Secretaría de Hacienda y Crédito Público, trimestralmente en los meses de abril, julio, octubre y enero, el precio de enajenación de cada producto, valor y volumen de los mismos, efectuado en el trimestre inmediato anterior, a través de dispositivos electromagnéticos procesados en los términos que señale dicha Secretaría mediante disposiciones de carácter general.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-XIV.- Los fabricantes, productores, envasadores e importadores de alcohol y alcohol desnaturalizado, deberán estar inscritos en el padrón de contribuyentes de bebidas alcohólicas.
-
-XV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-XVI.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 2000)
-
-XVII.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-XVIII.- Los importadores de los bienes a que se refiere el artículo 2o., fracción I, incisos A), B), C), D), E), F) y G) de esta Ley, deberán inscribirse en el padrón de importadores sectorial a cargo de la Secretaría de Hacienda y Crédito Público, en los términos de las reglas de carácter general que emita la citada dependencia.e se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público.e se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público.e se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público.e se utilicen para llevar el citado control, en el trimestre inmediato anterior al de su declaración, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público.
+XIX. Los contribuyentes que presten el servicio de telecomunicaciones o conexos deberán presentar trimestralmente en los meses de abril, julio, octubre del año que corresponda y enero del siguiente, del trimestre inmediato anterior, la información y demás documentación que mediante reglas de carácter general establezca el Servicio de Administración Tributaria.
 
 ###### ARTICULO 20.
 
@@ -656,39 +604,55 @@ XVIII.- Los importadores de los bienes a que se refiere el artículo 2o., fracci
 
 Petróleos Mexicanos presentará declaración semestral a más tardar el día 20 del mes de septiembre informando sobre los volúmenes y tipos de gasolina y diesel que en el primer semestre del año de calendario haya enajenado a cada uno de los expendios autorizados y directamente a los consumidores, así como los consumidos por dicho organismo descentralizado; y por el volumen y tipo de gasolinas y diesel enajenados o consumidos en el segundo semestre, el día 20 del mes de marzo del siguiente año de calendario. Estas declaraciones se presentarán además de las que señala el artículo 5o. de esta Ley.
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
-Las declaraciones a que se refiere el párrafo anterior deberán proporcionarse en dispositivos electromagnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
+Las declaraciones a que se refiere el párrafo anterior deberán proporcionarse en los términos que señale la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 ### CAPITULO VI. De las Facultades de las Autoridades
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 22.
 
-Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de este Título, se aplicará la tasa del impuesto que corresponda conforme al mismo, y el resultado se reducirá con las cantidades acreditables que se comprueben.
+Al importe de la determinación presuntiva del valor de los actos o actividades por los que se deba pagar el impuesto en los términos de esta Ley, se aplicará la tasa del impuesto que corresponda conforme a la misma, y el resultado se reducirá con las cantidades acreditables que se comprueben.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 23.
 
-Cuando el contribuyente omita registrar adquisiciones de materia prima, se presumirá, salvo prueba en contrario, que éstas fueron utilizadas para elaborar productos por los que se está obligado al pago del impuesto establecido en este Título, que estos productos fueron enajenados en el mes en que se adquirieron las materias primas y que el impuesto respectivo no fue declarado.
+Cuando el contribuyente omita registrar adquisiciones de materia prima, se presumirá, salvo prueba en contrario, que éstas fueron utilizadas para elaborar productos por los que se está obligado al pago del impuesto establecido en esta Ley, que estos productos fueron enajenados y efectivamente cobrados en el mes en que se adquirieron las materias primas y que el impuesto respectivo no fue declarado.
 
-Cuando el contribuyente omita registrar empaques, envases o sus accesorios, se presumirá, salvo prueba en contrario, que dichos faltantes se utilizaron para el envasado de productos por los que se está obligado al pago del impuesto establecido en este Título, que estos productos fueron enajenados en el mes en que se adquirieron y que el impuesto respectivo no fue declarado.
+Cuando el contribuyente omita registrar empaques, envases o sus accesorios, u omita informar sobre el extravío, pérdida, destrucción o deterioro de marbetes o precintos, se presumirá, salvo prueba en contrario, que dichos faltantes se utilizaron para el envasado de productos por los que se está obligado al pago del impuesto establecido en esta Ley, que estos productos fueron enajenados y efectivamente cobrados en el mes en que se adquirieron los empaques, envases, accesorios, marbetes o precintos, y que el impuesto respectivo no fue declarado.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+Cuando existan diferencias entre el control físico del volumen envasado y el control volumétrico de producción utilizado, las autoridades fiscales considerarán que dichas diferencias corresponden al número de litros producidos o envasados y enajenados en el mes en que se presentaron las diferencias y que el impuesto respectivo no fue declarado.
+
+Para los efectos de este artículo, se considerará como valor, el precio promedio en que dichos bienes se enajenaron en los tres meses inmediatos anteriores al en que se efectúe el pago.
 
 ###### ARTICULO 23
 
-Bis.- Las autoridades fiscales podrán determinar presuntivamente el número de litros producidos, destilados o envasados, cuando los contribuyentes de alcohol y alcohol desnaturalizado no den cumplimiento a lo establecido en el penúltimo párrafo de la fracción XII del artículo 19 de esta Ley. Para estos efectos, las autoridades fiscales podrán considerar que los equipos de destilación o envasamiento adquiridos, incorporados, modificados o enajenados por los contribuyentes fueron utilizados para producir, destilar o envasar, a su máxima capacidad, los productos citados y que los litros que así se determinen, disminuidos de aquéllos reportados por los contribuyentes en los términos del segundo párrafo de la fracción XII del artículo antes citado, fueron enajenados a partir de la fecha de adquisición, incorporación, modificación o enajenación, y que el impuesto correspondiente no fue pagado por el contribuyente.
+Bis. (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
+
+> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+
+###### ARTICULO 23-A.
+
+Las autoridades fiscales podrán determinar presuntivamente el número de litros producidos, destilados o envasados, cuando los contribuyentes de alcohol y alcohol desnaturalizado no den cumplimiento a lo establecido en el último párrafo de la fracción XII del artículo 19 de esta Ley. Para estos efectos, las autoridades fiscales podrán considerar que los equipos de destilación o envasamiento adquiridos, incorporados, modificados o enajenados por los contribuyentes, fueron utilizados para producir, destilar o envasar, a su máxima capacidad, los bienes citados y que los litros que así se determinen, disminuidos de aquéllos reportados por los contribuyentes en los términos del segundo párrafo de la fracción XII del artículo antes citado, fueron enajenados y efectivamente cobrados en el periodo por el cual se realiza la determinación.
 
 El impuesto que resulte de la determinación presuntiva a que se refiere el párrafo anterior, se adicionará al impuesto determinado a cargo del contribuyente con motivo del incumplimiento a lo dispuesto por el artículo 8o. de esta Ley, en relación con el artículo 19 de la misma.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, D.O.F. 1 DE ENERO DE 2002)</small>
+
+###### ARTICULO 23-B.
+
+Se presume que las bebidas alcohólicas que no tengan adherido el marbete o precinto correspondiente y que se encuentren fuera de los almacenes, bodegas o cualesquiera otro lugar propiedad o no del contribuyente o de los recintos fiscales o fiscalizados, fueron enajenados y efectivamente cobradas las contraprestaciones o importados, en el mes en que se encuentren dichos bienes al poseedor o tenedor de los mismos, y que el impuesto respectivo no fue declarado. Para tales efectos, se considerará como precio de enajenación, el precio promedio de venta al público en el mes inmediato anterior a aquél en el que dichos bienes sean encontrados.
+
+Lo dispuesto en el párrafo anterior no será aplicable respecto de las bebidas alcohólicas destinadas a la exportación por las que no se esté obligado al pago de este impuesto, que se encuentren en tránsito hacia la aduana correspondiente, siempre que dichos bienes lleven adheridos etiquetas o contraetiquetas que contengan los datos de identificación del importador en el extranjero.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 24.
 
-Las autoridades fiscales podrán determinar presuntivamente el precio en que los contribuyentes enajenaron los productos a que se refiere este Título, aplicando cualquiera de los siguientes métodos:
+Las autoridades fiscales podrán determinar presuntivamente el precio en que los contribuyentes enajenaron los productos a que se refiere esta Ley, utilizando, indistintamente, cualquiera de los métodos establecidos en el Código Fiscal de la Federación o los que a continuación se señalan:
 
 I.- Los precios corrientes en el mercado interior o exterior y en defecto de éstos el de avalúo que practiquen u ordenen practicar las autoridades fiscales.
 
@@ -704,7 +668,9 @@ IV.- Tratándose de productos sujetos a precio máximo al público, el que resul
 
 V.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
-Si de la aplicación de cualquiera de los métodos antes mencionados, se determina que el contribuyente enajenó sus productos a precios superiores a los declarados, las autoridades fiscales podrán considerar que la producción del último ejercicio se enajenó a ese precio.
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
+
+Si de la aplicación de cualesquiera de los métodos antes mencionados se determina que el contribuyente enajenó sus productos a precios superiores a los declarados, las autoridades fiscales podrán considerar que la producción del último año se enajenó a ese precio.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -716,9 +682,9 @@ I.- (DEROGADA, D.O.F. 26 DE DICIEMBRE DE 1990)
 
 II.- 12.3%, en cerveza.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 1 DE ENERO DE 2002)</small>
 
-III.- 5%, en las bebidas alcohólicas fermentadas, distintas de la cerveza, que se añejen en barricas que se encuentren en lugares cubiertos, 10% cuando dichas barricas se encuentren en lugares descubiertos y 1.5% cuando el añejamiento se realice por otros sistemas; y 1% por su envasamiento.
+III. 5%, en las bebidas alcohólicas que se añejen en barricas que se encuentren en lugares cubiertos, 10% cuando dichas barricas se encuentren en lugares descubiertos y 1.5% cuando el añejamiento se realice por otros sistemas; y 1% por su envasamiento.
 
 IV.- (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1998)
 
@@ -728,493 +694,121 @@ Para determinar el valor en que se enajenaron los bienes, se considerará que é
 
 Los porcientos a que se refieren las fracciones anteriores, únicamente son aplicables a los fabricantes, productores o envasadores de los bienes a que se refiere este artículo, según sea el caso.
 
-> <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ###### ARTICULO 26.
 
-Las autoridades fiscales podrán presumir, salvo prueba en contrario, que el volumen y tipo de gasolina y diesel informado por Petróleos Mexicanos en los términos del artículo 21 de esta Ley, fueron adquiridos por el contribuyente y enajenados en cada uno de los meses que comprende el semestre por partes iguales.
+Cuando el contribuyente no se encuentre al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con lo establecido en el Código Fiscal de la Federación, las demás leyes tributarias y en las reglas de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, las autoridades fiscales podrá (sic) no proporcionar los marbetes o precintos a que se refiere esta Ley.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ## TITULO II. De las Bebidas Alcohólicas
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
-###### Artículo 26-A.
+###### ARTICULO 26-A.
 
-Están obligadas al pago del impuesto establecido en este Título, las personas físicas y morales que produzcan, envasen o importen bebidas alcohólicas.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-B.
 
-###### Artículo 26-B.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-El impuesto se causará por la producción, envasamiento o importación de los productos a que se refiere este Título en el momento en que los mismos sean producidos, envasados o importados.
+###### ARTICULO 26-C
 
-El impuesto se calculará mensualmente aplicando al número de litros producidos, envasados o importados la cuota por litro vigente en el mes en que se realice la producción, envasamiento o importación, de conformidad con la siguiente:
-
-TABLA
-
-Producto Cuota por Litro $
-
-Aguardiente Abocado o Reposado
-
-Aguardiente Standard (blanco u oro)
-
-Charanda
-
-Licor de hierbas regionales 3.87
-
-Aguardiente Añejo
-
-Habanero
-
-Rompope 7.48
-
-Aguardiente con Sabor
-
-Cocteles
-
-Licores y Cremas de hasta 20% Alc. Vol.
-
-Parras 8.89
-
-Bacanora
-
-Comiteco
-
-Lechuguilla o raicilla
-
-Mezcal
-
-Sotol 12.73
-
-Anís
-
-Ginebra
-
-Vodka 13.68
-
-Ron
-
-Tequila joven o blanco 16.93
-
-Brandy 20.36
-
-Amaretto
-
-Licor de Café o Cacao
-
-Licores y Cremas de más de 20% Alc. Vol.
-
-Tequila reposado o añejo 20.66
-
-Ron Añejo 24.53
-
-Brandy Reserva 26.56
-
-Ron con Sabor
-
-Ron Reserva 38.67
-
-Tequila joven o blanco 100% agave
-
-Tequila reposado 100% agave 39.50
-
-Brandy Solera 43.78
-
-Cremas base Whisky
-
-Whisky o Whiskey, Borbon o Bourbon,
-
-Tenessee "Standard" 57.57
-
-Calvados
-
-Tequila añejo 100% agave 100.71
-
-Cognac V.S.
-
-Whisky o Whiskey, Borbon o Bourbon,
-
-Tenessee "de Luxe" 121.76
-
-Cognac V.S.O.P. 204.91
-
-Cognac X.O. 772.47
-
-Otros 793.31
-
-Las cuotas por litro establecidas en este artículo se actualizarán mensualmente con el factor de actualización correspondiente. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios de Bebidas Alcohólicas del mes más reciente a aquél por el que se realiza la actualización entre el citado Índice correspondiente al segundo mes inmediato anterior a aquél por el que se realiza la misma.
-
-En los casos en que el Índice Nacional de Precios de Bebidas Alcohólicas del mes anterior al más reciente del periodo, no haya sido publicado por la Secretaría de Hacienda y Crédito Público, la actualización de que se trate se realizará aplicando el último índice mensual publicado.
-
-El Índice Nacional de Precios de Bebidas Alcohólicas, será calculado mensualmente por el Banco de México, de conformidad con lo siguiente:
-
-I.- Se cotizarán cuando menos los precios en 30 ciudades, las cuales estarán ubicadas en por lo menos 20 entidades federativas. Las ciudades seleccionadas deberán en todo caso tener una población de 20,000 o más habitantes, y siempre habrán de incluirse las 10 zonas conurbadas o ciudades más pobladas de la República.
-
-II.- Deberán cotizarse los precios correspondientes a cuando menos 15 de los productos a que hace referencia este artículo.
-
-III.- Las cotizaciones de precios se harán como mínimo dos veces durante el mes a que corresponda el cálculo del Índice.
-
-IV.- El Índice de cada mes se calculará utilizando la fórmula de Laspeyres.
-
-La fórmula de Laspeyres, Estados, zonas conurbadas, ciudades y productos, así como las cotizaciones utilizadas para calcular el Índice Nacional de Precios de Bebidas Alcohólicas, serán aquellos publicados por el Banco de México para calcular el Índice Nacional de Precios al Consumidor, en términos del artículo 20-Bis del Código Fiscal de la Federación.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-La Secretaría de Hacienda y Crédito Público publicará el Índice Nacional de Precios de Bebidas Alcohólicas, calculado por el Banco de México, en el Diario Oficial de la Federación a más tardar el último día del mes siguiente al que corresponda.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 26-C.
-
-Los contribuyentes efectuarán los pagos mensuales del impuesto determinado conforme al artículo anterior, mediante declaración que presentarán ante las oficinas autorizadas el día 17 del mes siguiente a aquél en que se produzcan o envasen los productos a que se refiere este Título. Los pagos mensuales del impuesto tendrán el carácter de definitivo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Los contribuyentes que tributen en los términos de las Secciones I y III del Capítulo VI del Título IV de la Ley del Impuesto sobre la Renta y aquellos que efectúen pagos provisionales del impuesto sobre la renta en los términos del artículo 12, fracción III, segundo párrafo de la citada Ley, determinarán el impuesto que les corresponda y efectuarán pagos trimestrales del impuesto así determinado mediante declaración que presentarán ante las oficinas autorizadas el día 17 de los meses de abril, julio, octubre del año de que se trate y enero del siguiente año. Los pagos trimestrales del impuesto tendrán el carácter de definitivo.
-
-Cuando el producto sea retirado del lugar en el que se produjo o se envasó o, en su caso, del almacén del contribuyente y no se destine a su comercialización, el impuesto se pagará el día 17 del mes siguiente a aquél en que sea retirado de los citados lugares, aplicando la cuota por litro vigente en el mes en que sea retirado el producto de dichos lugares.
-
-En el caso de la importación, el impuesto se pagará el día 17 del mes siguiente a aquél en que ésta se efectúe de conformidad con lo establecido en el artículo 26-J de esta Ley, aplicando la cuota por litro vigente en el mes en que se realice dicha importación.
-
-Tratándose de importaciones ocasionales, el pago se efectuará en el momento en que los productos sean importados de conformidad con lo establecido en el artículo 26-J de esta Ley, aplicando la cuota por litro vigente en el mes en que se realice dicha importación y el pago tendrá el carácter de definitivo. Estos productos podrán no llevar adheridos los marbetes o precintos a que se refiere el artículo 26-M, fracción II de esta Ley, salvo que los productos se destinen a su enajenación. En este último caso, los contribuyentes tendrán que cumplir con las disposiciones correspondientes contenidas en este Título.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
 ###### ARTICULO 26-D.
 
-Los productores, envasadores e importadores, con excepción de los importadores ocasionales, podrán optar por pagar el impuesto a que se refiere el artículo anterior el día 17 del mes siguiente a aquel en que se efectúe la enajenación de los productos, siempre que se aplique la cuota por litro vigente en el mes en que se realice dicha enajenación y se presente ante las autoridades fiscales, dentro del primer mes del ejercicio, un aviso en el que se señale que se ejerce la opción a que se refiere este artículo. En el caso de contribuyentes que inicien operaciones, el aviso se deberá presentar dentro de los 15 días siguientes a aquel en que se dé este hecho, acompañando para tal efecto la información que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
-
-Los importadores que ejerzan la opción a que se refiere este artículo deberán señalar en el citado aviso las aduanas por las que habitualmente realizan sus operaciones de comercio exterior.
-
-Una vez presentado dicho aviso, el contribuyente deberá pagar el impuesto conforme a lo dispuesto en este artículo por el ejercicio en que se presentó el mismo y en los ejercicios subsecuentes. En el caso de contribuyentes que inicien operaciones, el impuesto se deberá pagar en los términos de este artículo a partir del mes en que se presente el citado aviso y en los ejercicios subsecuentes. La opción a que hace referencia el presente artículo se deberá aplicar por la totalidad de las operaciones que se realicen.
-
-La opción de pago del impuesto a que se refiere este artículo no será aplicable a lo dispuesto en el párrafo tercero del artículo anterior.
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
 ###### ARTICULO 26-E.
 
-Los contribuyentes que paguen el impuesto en los términos de los artículos 26-D o 26-H, segundo párrafo, de esta Ley, según sea el caso, y que reciban devoluciones de los productos por los que se pagó el impuesto, podrán disminuir del impuesto determinado en los términos del artículo 26-C de la citada Ley, correspondiente al mes en que se efectúe la devolución, la cantidad que resulte de aplicar al número de litros devueltos en dicho periodo, la cuota por litro vigente en el segundo mes inmediato anterior a aquél en que se efectuó la devolución. En el supuesto de que la cantidad que resulte sea mayor al impuesto a pagar por el contribuyente en dicho periodo, la diferencia se podrá acreditar contra el impuesto que resulte a su cargo en los meses siguientes hasta agotarlo. En ningún caso procederá la devolución o compensación de las cantidades que no se hubiesen agotado. Asimismo, no se podrán presentar declaraciones complementarias con motivo de las devoluciones de los productos a que se refiere este artículo.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-F.
 
-Cuando el contribuyente en un mes de calendario no disminuya la diferencia a que se refiere el párrafo anterior, pudiéndolo haber hecho, perderá el derecho a hacerlo contra el impuesto que resulte a su cargo en los meses posteriores.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Los productores, envasadores e importadores de bebidas alcohólicas que paguen el impuesto al momento de la producción, envasamiento o importación, en los términos del artículo 26-C de esta Ley, según sea el caso, y que reciban devoluciones de productos a que se refiere este Título, no podrán aplicar lo dispuesto en este artículo.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 26-F.
-
-Para los efectos de este Título, se considera que se efectúa la enajenación de los productos en territorio nacional en el momento en que se realice cualquiera de los supuestos siguientes, el que suceda primero:
-
-I.- Se envíe el producto al adquirente. A falta de envío, al entregarse materialmente el producto. No se aplicará esta fracción cuando la persona a la que se envíe o entregue el producto, no tenga obligación de recibirlo o de adquirirlo.
-
-II.- Se pague o sea exigible total o parcialmente el precio o la contraprestación pactada, aun cuando provenga de anticipos.
-
-III.- Se expida el documento que ampare la enajenación.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO II. De la Producción o Envasamiento
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-G.
 
-###### Artículo 26-G.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Para los efectos de este Título, se considera producción o envasamiento, además de lo señalado en el artículo 26-P de esta Ley, el faltante de materias primas de acuerdo con el factor de conversión correspondiente, o de productos envasados en los inventarios de los contribuyentes.
+###### ARTICULO 26-H.
 
-El contribuyente determinará anualmente en el mes de enero, conforme al párrafo anterior, el faltante de productos envasados en sus inventarios en el año inmediato anterior. Por el faltante que resulte se calculará el impuesto correspondiente aplicando la cuota por litro vigente en el mes en que se efectúa el cálculo y se enterará a más tardar el día 17 del mes siguiente al de su determinación.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 26-H.
-
-Tratándose de la producción de bebidas alcohólicas que no se destinen a su envasamiento en recipientes con capacidad menor a 5,000 mililitros, el impuesto se pagará el día 17 del mes siguiente a aquél en que se produzcan, aplicando la cuota por litro vigente en el mes en que se realice dicha producción.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-El contribuyente podrá optar por pagar el impuesto a que se refiere el párrafo anterior el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, siempre que se aplique la cuota por litro vigente en el mes en que se realice dicha enajenación y se presente ante las autoridades fiscales, dentro del primer mes del ejercicio, un aviso en el que se señale que se ejerce la opción a que se refiere este artículo. En el caso de contribuyentes que inicien operaciones, el aviso se deberá presentar dentro de los 15 días siguientes a aquél en que se dé este hecho, acompañando para tal efecto la información que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Los importadores que ejerzan la opción a que se refiere el segundo párrafo de este artículo deberán señalar en el citado aviso las aduanas por las que habitualmente realizan sus operaciones de comercio exterior.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-Una vez presentado dicho aviso, el contribuyente deberá pagar el impuesto conforme a lo dispuesto en este artículo por el ejercicio en que se presentó el mismo y en los ejercicios subsecuentes. En el caso de contribuyentes que inicien operaciones, el impuesto se deberá pagar en los términos de este artículo a partir del mes en que se presente el citado aviso y en los ejercicios subsecuentes. La opción a que hace referencia el presente artículo se deberá aplicar por la totalidad de las operaciones que se realicen.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
 ###### ARTICULO 26-I.
 
-No se pagará el impuesto establecido en este Título en los siguientes casos:
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-I.- Por la producción de bebidas alcohólicas que sean enajenadas a granel a productores o envasadores de bebidas alcohólicas inscritos en el padrón a que se refiere la fracción VII del artículo 26-M de esta Ley.
-
-II.- Por las enajenaciones a granel que realicen productores o importadores de bebidas alcohólicas, a fabricantes, productores o envasadores de bebidas alcohólicas fermentadas y de bebidas refrescantes, siempre que estos últimos sean contribuyentes de este impuesto en los términos del Título I de esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO III. De la Importación
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-J.
 
-###### Artículo 26-J.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Para los efectos de este Título, se considera importación la introducción al país de productos y se estima que ésta se efectúa en el momento en que el importador presente el pedimento para su trámite en los términos de la legislación aduanera.
+###### ARTICULO 26-K.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-###### Artículo 26-K.
-
-No se pagará el impuesto establecido en este Título, en las importaciones siguientes:
-
-I.- Las que en los términos de la legislación aduanera no lleguen a consumarse, sean objeto de tránsito o transbordo, o tengan el carácter de retorno de productos exportados temporalmente salvo que la exportación hubiese sido a granel y el retorno sea de productos envasados.
-
-II.- Las efectuadas por pasajeros en los términos de la legislación aduanera y por las misiones diplomáticas acreditadas en México, con los controles y limitaciones que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
-
-III.- Las importaciones a granel de bebidas alcohólicas, cuando quien importa sea productor o envasador, o cuando el importador las enajene a un productor o envasador, siempre que cumplan con las obligaciones establecidas en el artículo 26-M, fracciones VII y IX de esta Ley, según sea el caso.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO IV. De la Exportación
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-L.
 
-###### Artículo 26-L.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Para los efectos de este Título, se considera exportación la que tenga el carácter de definitiva en los términos de la legislación aduanera y se compruebe con el pedimento que ampare dicha exportación.
+###### ARTICULO 26
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+LL.- (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-###### Artículo 26
-
-LL.- No se pagará el impuesto por la exportación de los productos a que se refiere el artículo 26-B de esta Ley, cuando se cuente con el pedimento respectivo y con la factura de enajenación correspondiente, sin perjuicio de las facultades de comprobación de la autoridad, siempre que dicha exportación no se efectúe a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta como de baja imposición fiscal, salvo que se cumpla con los requisitos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
-
-Tratándose de la exportación realizada a jurisdicciones que sean consideradas por la Ley del Impuesto sobre la Renta como de baja imposición fiscal, el impuesto se calculará aplicando la cuota por litro vigente en el mes en que se realice la exportación y se pagará el día 17 del mes siguiente a aquél en que se realizó dicha exportación.
-
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO V. De las Obligaciones de los Contribuyentes
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-M.
 
-###### Artículo 26-M.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Los contribuyentes a que se refiere este Título tienen, además de las obligaciones señaladas en otros artículos del mismo y en las demás disposiciones fiscales, las siguientes:
-
-I.- Llevar contabilidad de conformidad con el Código Fiscal de la Federación y su Reglamento, y efectuar la separación de las operaciones desglosadas por producto.
-
-II.- Los contribuyentes a que se refiere este Título deberán adherir marbetes a los envases que contengan bebidas alcohólicas inmediatamente después de su envasamiento. Tratándose de bebidas alcohólicas a granel, se deberán adherir precintos a los recipientes que las contengan, cuando las mismas se encuentren en tránsito o transporte. No será aplicable lo dispuesto en este párrafo tratándose de bebidas alcohólicas envasadas que se destinen a la exportación, siempre que se cumplan con las reglas de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público.
-
-Los importadores deberán colocar los marbetes o precintos a que se refiere esta fracción previamente a la internación en territorio nacional de los productos o, en su defecto, en la aduana, almacén general de depósito o recinto fiscal o fiscalizado, autorizados por la Secretaría de Hacienda y Crédito Público. No podrán retirarse los productos de los lugares antes indicados sin que se haya cumplido con la obligación señalada.
-
-El marbete deberá colocarse en la etiqueta frontal del envase, abarcando parte de la etiqueta y parte del propio envase. En los casos en que por el tamaño de la etiqueta no sea posible adherir el marbete sin afectar la información comercial, éste podrá ser adherido en la contraetiqueta del envase y de la misma manera en que se señaló, siempre que ésta tenga impresa la marca del producto y el nombre del fabricante, productor, envasador o importador.
-
-Las personas físicas o morales que adquieran los productos a que se refiere este Título, deberán cerciorarse de que los mismos cuenten con el marbete o precinto correspondiente.
-
-III.- Los productores, envasadores e importadores estarán obligados a presentar a la Secretaría de Hacienda y Crédito Público, trimestralmente en los meses de abril, julio, octubre y enero, un reporte de los números de folio de marbetes y precintos obtenidos, utilizados y destruidos durante el trimestre inmediato anterior, en los términos que señale dicha Secretaría mediante reglas de carácter general.
-
-IV.- Los contribuyentes a que se refiere este Título deberán proporcionar a la Secretaría de Hacienda y Crédito Público, trimestralmente en los meses de abril, julio, octubre y enero, un reporte que contenga el número de litros enajenados en el trimestre inmediato anterior, a través de medios magnéticos procesados en los términos que señale dicha Secretaría mediante reglas de carácter general.
-
-V.- Los productores o envasadores estarán obligados a llevar un control físico del volumen envasado y reportar trimestralmente en los meses de abril, julio, octubre y enero, la lectura mensual de los registros de cada uno de los dispositivos que se utilicen para llevar el citado control, del trimestre inmediato anterior a la fecha en que se reporta, a través de medios magnéticos procesados en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
-
-VI.- Los productores o envasadores estarán obligados a llevar un control volumétrico de producción y reportar trimestralmente en los meses de abril, julio, octubre y enero, el número de litros producidos de conformidad con el citado control, del trimestre inmediato anterior a la fecha en que se reporta, en los términos que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
-
-VII.- Los productores, envasadores e importadores deberán estar inscritos en el Padrón de Contribuyentes de Bebidas Alcohólicas para poder solicitar marbetes y precintos, según se trate, a cargo de la Secretaría de Hacienda y Crédito Público, debiendo cumplir con las reglas de carácter general que para tal efecto emita la citada Secretaría.
-
-VIII.- Los exportadores, deberán estar inscritos en el padrón de exportadores sectorial a cargo de la Secretaría de Hacienda y Crédito Público, para lo cual deberán cumplir con las reglas de carácter general que al efecto emita la citada dependencia.
-
-IX.- Los importadores de bebidas alcohólicas deberán inscribirse en el padrón de importadores sectorial a cargo de la Secretaría de Hacienda y Crédito Público, en los términos de las reglas de carácter general que emita la citada dependencia.
-
-X.- Conservar y, en su caso, proporcionar a las autoridades fiscales la información que corresponda de los productos que produzcan, envasen o importen, respecto de su consumo por entidad federativa e impuesto correspondiente. Para efectos de esta fracción, se considera que los productos se consumen en el lugar en que se hace la entrega material de los mismos, de acuerdo con el comprobante de enajenación.
-
-XI.- Expedir comprobantes sin que se señale en forma expresa y por separado la cuota a que se refiere el artículo 26-B de esta Ley, en el comprobante que ampare la enajenación.
-
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 2000)</small>
-
-XII.- Los productores, envasadores e importadores de bebidas alcohólicas están obligados a llevar un registro que contenga la denominación de los productos que produzcan, envasen o importen, así como las marcas que utilizan.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO VI. De las Facultades de las Autoridades
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-N.
 
-###### Artículo 26-N.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Las autoridades fiscales podrán determinar presuntivamente el número de litros producidos, entre otros casos, cuando:
+###### ARTICULO 26
 
-I.- No se dé cumplimiento a lo establecido en el artículo 26-M, fracciones I, V, VI y X de esta Ley.
+Ñ.- (DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-II.- Existan diferencias entre el control físico del volumen envasado y el control volumétrico de producción utilizado. En este caso, las autoridades fiscales considerarán que dichas diferencias corresponden al número de litros producidos o envasados y enajenados en el mes en que se presentaron las diferencias y que el impuesto respectivo no fue declarado.
+###### ARTICULO 26-O.
 
-III.- El contribuyente omita registrar adquisiciones de materia prima. En este caso, las autoridades fiscales considerarán que éstas fueron utilizadas para elaborar productos por los que se está obligado al pago del impuesto establecido en este Título, que estos productos fueron producidos o envasados y enajenados en el mes en que se adquirieron las materias primas y que el impuesto respectivo no fue declarado.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-IV.- El contribuyente omita registrar empaques, envases o sus accesorios. En este caso, las autoridades fiscales considerarán que dichos faltantes se utilizaron para el envasado de productos por los que se está obligado al pago del impuesto establecido en este Título, que estos productos fueron envasados y enajenados en el mes en que se adquirieron y que el impuesto respectivo no fue declarado.26
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 26
-
-Ñ.- Para los efectos de la determinación presuntiva a que se refiere el artículo anterior, las autoridades fiscales podrán utilizar indistintamente, entre otros, cualquiera de los métodos establecidos en el Código Fiscal de la Federación.
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-###### Artículo 26-O.
-
-Cuando el contribuyente no se encuentre al corriente en el cumplimiento de sus obligaciones fiscales, de conformidad con lo establecido en el Código Fiscal de la Federación, las demás leyes tributarias y en las reglas de carácter general que al efecto emita la Secretaría de Hacienda y Crédito Público, la autoridad podrá no proporcionar los marbetes o precintos a que se refiere el artículo 26-M, fracción II de esta Ley.
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 1 DE ENERO DE 2002)</small>
 
 ### CAPITULO VII. De las Definiciones
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
+###### ARTICULO 26-P.
 
-###### Artículo 26-P.
+(DEROGADO, D.O.F. 1 DE ENERO DE 2002)
 
-Para los efectos de este Título se entiende por:
+N. DE. E. EL PRESENTE CAPITULO, APARECE DUPLICADO , EN VIRTUD DE QUE EL LEGISLADOR DEROGO EL TITULO II CON SUS CAPITULOS I A VII, REFORMANDOSE ASI MISMO EL TITULO III PARA QUEDAR COMO CAPITULO VII EL CUAL PASA A FORMAR PARTE DEL TITULO I.
 
-I.- Bebida alcohólica, el producto obtenido por fermentación, principalmente alcohólica de la materia prima vegetal que sirve como base utilizando levadura del género saccharomyces, sometida o no a destilación, rectificación, redestilación, infusión, maceración o cocción en presencia de productos naturales, susceptible de ser añejada, que puede presentarse en mezclas de bebidas alcohólicas y puede estar adicionada de ingredientes y aditivos permitidos por la Secretaría de Salud. Su contenido alcohólico es de 2 a 55% Alc. Vol.
+> <small>(REFORMADO [N. DE E. ANTES TITULO III], D.O.F. 1 DE ENERO DE 2002)</small>
 
-II.- Producción, la acción o faena para elaborar o fabricar bebidas alcohólicas conforme a procesos específicos, según su naturaleza y materias primas, para la obtención de:
-
-a).- Bebidas destiladas.
-
-b).- Licores y cremas.
-
-c).- Cocteles.
-
-d).- Bebidas alcohólicas preparadas.
-
-III.- Envasamiento, la acción o faena de verter o introducir las bebidas alcohólicas en envases o recipientes con capacidad que no exceda de 5,000 mililitros y cerrar o tapar dichos envases o recipientes.
-
-IV.- Factor de conversión, la mecánica utilizada para convertir el número de litros de los destilados, materias primas para la elaboración de las bebidas alcohólicas, conforme al siguiente procedimiento:
-
-a).- El % Alc. Vol. de los destilados se dividirá entre el % Alc. Vol. del producto terminado. Ambos porcientos referidos a 20°C.
-
-b).- El cociente obtenido en el inciso anterior será el número de litros convertidos.
-
-V.- Aguardiente standard (blanco u oro), la bebida alcohólica destilada que se denomina con las palabras "Aguardiente de _______", seguida del nombre de la materia prima vegetal que aporte la mayoría de los azúcares fermentables, la cual no requiere de proceso de añejamiento.
-
-Las bebidas destiladas con las características mencionadas en el párrafo anterior, también comprenden a aquéllas que tengan una graduación alcohólica de 25% Alc. Vol. hasta 34% Alc. Vol.
-
-VI.- Aguardiente Abocado o Reposado, la bebida alcohólica destilada que se denomina con las palabras "Aguardiente de _______", seguida del nombre de la materia prima vegetal que aporte la mayoría de los azúcares fermentables, adicionada de aditivos, permitidos por la Secretaría de Salud, para su abocado.
-
-Las bebidas destiladas con las características mencionadas en el párrafo anterior, también comprenden a aquéllas que tengan una graduación alcohólica de 25% Alc. Vol. hasta 34% Alc. Vol.
-
-VII.- Aguardiente añejo, la bebida alcohólica destilada que se denomina con las palabras "Aguardiente de ________", seguida del nombre de la materia prima vegetal que aporte la mayoría de los azúcares fermentables, requiere cuando menos de seis meses ponderados de añejamiento en barricas de roble blanco o encino.
-
-Las bebidas destiladas con las características mencionadas en el párrafo anterior, también comprenden a aquéllas que tengan una graduación alcohólica de 25% Alc. Vol. hasta 34% Alc. Vol.
-
-VIII.- Aguardiente con sabor, la bebida alcohólica destilada que se denomina con las palabras "Aguardiente de ________", seguida del nombre de la materia prima vegetal que aporte la mayoría de los azúcares fermentables, adicionado de aditivos permitidos por la Secretaría de Salud, que proporcionan o intensifican su aroma, color o sabor.
-
-Las bebidas destiladas con las características mencionadas en el párrafo anterior, también comprenden a aquéllas que tengan una graduación alcohólica de 25% Alc. Vol. hasta 34% Alc. Vol.
-
-IX.- Charanda, la bebida alcohólica destilada, obtenida por fermentación principalmente alcohólica de mostos preparados de jugos de caña de azúcar (guarapo), concentrado de éstos (meladura, piloncillo) o mieles incristalizables (melaza); la destilación se lleva a cabo en alambiques de olla o columna, siempre y cuando no se eliminen los componentes que condicionan las características de esta bebida durante la destilación. Su obtención es exclusivamente en el Estado de Michoacán, conocido como "La región de la Charanda".
-
-X.- Habanero, la bebida alcohólica destilada obtenida de un destilado alcohólico o espíritu neutro y 4% mínimo de vino de uva. Además, podrá adicionarse de macerados de dátiles, ciruelas, pasas, higos y otras frutas, así como aditivos y coadyuvantes permitidos por la Secretaría de Salud.
-
-XI.- Rompope, el licor o crema obtenido por cocción de la mezcla de leche de vaca o leche procesada de vaca, yemas de huevo frescas, deshidratadas o congeladas, azúcares, almidones o féculas u otros espesantes (máximo 2%) y posteriormente alcoholizado con espíritu neutro, alcohol de calidad, alcohol común o una bebida alcohólica destilada (generalmente ron), adicionado o no de productos vegetales, saborizantes y colorantes naturales o artificiales y aditivos permitidos por la Secretaría de Salud. El rompope tiene un contenido alcohólico de 10 a 15% Alc. Vol.
-
-XII.- Parras, la bebida alcohólica destilada obtenida por una mezcla de un destilado alcohólico o espíritu neutro y otro aguardiente destilado en proporción de 10 a 25%, pudiendo contener un 5% de azúcares.
-
-XIII.- Cocteles, la bebida alcohólica elaborada únicamente con bebidas alcohólicas destiladas pudiendo ser adicionada de aditivos y coadyuvantes permitidos por la Secretaría de Salud. Su contenido alcohólico será de 12 a 32% Alc. Vol.
-
-XIV.- Mezcal, la bebida alcohólica destilada regional, obtenida por destilación y rectificación de mostos preparados directa y originalmente con los azúcares extraídos de las cabezas maduras de los agaves y otras especies de agave, siempre y cuando no sean utilizadas como materia prima para otras denominaciones de origen dentro del Estado; previamente hidrolizadas o cocidas y sometidas a fermentación alcohólica con levaduras cultivadas o no, siendo susceptibles de ser enriquecidos para el caso de mezcal tipo II con hasta un 20% de otros carbohidratos permitidos por la Secretaría de Salud en la preparación de dichos mostos, siempre y cuando no se eliminen los componentes que le dan las características a este producto, no permitiendo las mezclas en frío.
-
-XV.- Ginebra, la bebida alcohólica destilada cuya principal característica es su sabor y olor a enebro, obtenida por cualquiera de los procesos siguientes:
-
-a).- Destilación de mostos fermentados de cereales malteados o adicionados de malta o encimas mezclados con bayas de enebro y otras semillas, cortezas y raíces aromáticas.
-
-b).- Redestilación en alambique de olla de alcohol etílico potable (espíritu neutro o alcohol de calidad) en presencia de bayas de enebro y otras semillas, cortezas y raíces aromáticas.
-
-c).- Mezcla de alcohol etílico potable (espíritu neutro o alcohol de calidad) con concentrados alcohólicos que contienen los principios aromáticos (aceites esenciales) de bayas de enebro y otras semillas, cortezas y raíces aromáticas.
-
-XVI.- Anís, el licor elaborado con espíritu neutro, alcohol de calidad o alcohol común y los principios aromáticos naturales de las semillas de anís verde y estrella, pudiendo ser aromatizados, además con otros aditivos permitidos por la Secretaría de Salud. El anís puede ser dulce cuando contenga más de 10% de azúcares reductores y anís seco cuando contenga hasta el 10% de azúcares reductores.
-
-XVII.- Ron, la bebida alcohólica destilada obtenida por destilación de mostos fermentados y preparados únicamente con azúcares provenientes de la caña de azúcar. Los destilados podrán ser rectificados y deberán ser sometidos a un proceso de maduración ponderado mínimo de seis meses, en recipientes de roble blanco o encino, y susceptibles de ser saborizados, aromatizados o abocados.
-
-a).- Ron añejo o añejado, el ron que se somete a por lo menos un año de añejamiento.
-
-b).- Ron reserva, el ron añejo que tenga impresa en la etiqueta las palabras: Reserva, Reserva Especial, Añejo Especial, Solera, V.X. o bien, que se ostente en su etiqueta que su añejamiento es mayor de cuatro años.
-
-c).- Ron con sabor, el ron al que se le agregaron durante su elaboración aditivos que proporcionan o intensifican su aroma, color o sabor.
-
-XVIII.- Tequila, la bebida alcohólica regional obtenida por destilación y rectificación de mostos, preparados directa y originalmente del material extraído, dentro de las instalaciones de la fábrica, derivado de la molienda de las cabezas maduras de agave, previa o posteriormente hidrolizadas o cocidas, y sometidos a fermentación alcohólica con levaduras, cultivadas o no, siendo susceptible de ser enriquecido por otros azúcares hasta en una proporción no mayor de 49%, en la inteligencia de que no están permitidas las mezclas en frío.
-
-El tequila debe ser producido con agaves de la variedad azul Tequilana Weber en la región determinada por la declaratoria de protección a la denominación de origen Tequila, vigente.
-
-a).- Tequila blanco, joven u oro, el tequila cuya graduación alcohólica comercial debe, en su caso, ajustarse con agua de dilución. El resultado de la mezcla de tequila blanco con tequilas reposados y/o añejos se considera como tequila joven u oro, mismo que puede ser susceptible de ser abocado.
-
-b).- Tequila reposado, el tequila susceptible de ser abocado, que se deja por lo menos dos meses en recipientes de madera de roble o encino, cuya graduación alcohólica comercial debe, en su caso, ajustarse con agua de dilución. En mezclas de diferentes tequilas reposados, la edad para el tequila resultante es el promedio ponderado de las edades y volúmenes de sus componentes.
-
-c).- Tequila añejo, el tequila susceptible de ser abocado, sujeto a un proceso de maduración de por lo menos un año en recipientes de madera de roble o encino, cuya capacidad máxima sea de 600 litros, y con una graduación alcohólica comercial que debe, en su caso, ajustarse con agua de dilución. En mezcla de diferentes tequilas añejos, la edad para el tequila resultante es el promedio ponderado de las edades y volúmenes de sus componentes.
-
-XIX.- Tequila 100% agave o tequila 100% puro de agave, el producto que se obtiene de la destilación y rectificación de mostos, preparados directa y originalmente del material extraído, dentro de las instalaciones de la fábrica, derivado de la molienda de las cabezas maduras de agave, previa o posteriormente hidrolizadas o cocidas, y sometidos a fermentación alcohólica con levaduras, cultivadas o no. Para que este producto sea considerado como tequila 100% de agave o tequila 100% puro de agave, debe ser embotellado en la planta de envasado que controle el propio fabricante, misma que debe estar ubicada dentro de la zona de denominación de origen.
-
-a).- Tequila blanco, joven u oro 100% agave o 100% puro de agave, el tequila susceptible de ser abocado, cuya graduación alcohólica comercial debe, en su caso, ajustarse con agua de dilución. El resultado de la mezcla de tequila blanco con tequilas reposados y/o añejos se considera como tequila joven u oro.
-
-b).- Tequila reposado 100% agave o 100% puro de agave, el tequila susceptible de ser abocado, que se deja por lo menos dos meses en recipientes de madera de roble o encino, cuya graduación alcohólica comercial debe, en su caso, ajustarse con agua de dilución. En mezclas de diferentes tequilas reposados, la edad para el tequila resultante es el promedio ponderado de las edades y volúmenes de sus componentes.
-
-c).- Tequila añejo 100% agave o 100% puro de agave, el tequila susceptible de ser abocado, sujeto a un proceso de maduración de por lo menos un año en recipientes de madera de roble o encino, cuya capacidad máxima sea de 600 litros, y con una graduación alcohólica comercial que debe, en su caso, ajustarse con agua de dilución. En mezcla de diferentes tequilas añejos, la edad para el tequila resultante es el promedio ponderado de las edades y volúmenes de sus componentes.
-
-XX.- Vodka, la bebida alcohólica destilada, obtenida por fermentación alcohólica de mostos provenientes de productos fermentables naturales sometidos posteriormente a destilación y rectificación, pudiéndose tratar con carbón activado y otros absorbentes permitidos por la Secretaría de Salud y que además puede ser aromatizada con productos vegetales naturales.
-
-XXI.- Licor de café o cacao, la bebida alcohólica que se elabora por infusión, cocción, destilación, maceración o extracción de los granos de café o cacao, según corresponda, o mezclas de estas preparaciones con espíritu neutro, alcohol de calidad o común, azúcares, vainilla, vainillina, agua y aditivos permitidos por la Secretaría de Salud.
-
-XXII.- Licor de hierbas regionales, la bebida alcohólica regional de la República Mexicana que se elabora por infusión, cocción, destilación o maceración de hierbas, cáscaras o granos característicos de la región y/o mezclas de estas preparaciones con espíritu neutro, alcohol de calidad o común, azúcares, agua y aditivos permitidos por la Secretaría de Salud, con un contenido alcohólico superior a 20% Alc. Vol.
-
-XXIII.- Licores y cremas, la bebida alcohólica elaborada a partir de bebida alcohólica destilada, espíritu neutro, alcohol de calidad o alcohol común o mezcla de ellos y agua, aromatizados y saborizados con procedimientos específicos y que pueden adicionarse de ingredientes, así como de aditivos y coadyuvantes permitidos por la Secretaría de Salud.
-
-XXIV.- Amaretto, el licor obtenido por destilación, infusión o extracto de almendras de chabacano, adicionado o no de aceite esencial de almendras amargas y otros extractos, sabor natural o idéntico al natural de almendras, mezclados con espíritu neutro o alcohol de calidad o común, azúcares y agua.
-
-XXV.- Brandy, la bebida alcohólica destilada obtenida por destilación de vinos provenientes de mostos 100% de uva, sometida a un proceso de maduración en barricas de roble blanco o encino.
-
-a).- Brandy reserva o reserva especial, el brandy sometido a añejamiento durante un periodo mayor a seis meses, en barricas de roble blanco o encino, que se ostente en su etiqueta con las palabras: Reserva o Reserva Especial.
-
-b).- Brandy Solera, el brandy sometido a añejamiento, en barricas de roble blanco o encino, que se ostente en su etiqueta con las palabras: Solera, Solera Especial, Gran Reserva, Brandy Añejado, o bien que ostente en su etiqueta que su añejamiento es mayor a dos años.
-
-XXVI.- Whisky o Whiskey, borbon o bourbon, Tennessee "Standard", la bebida alcohólica destilada, obtenida de uno o varios granos fermentados (centeno, trigo, maíz, sorgo, centeno malteado, cebada malteada) producido a menos de 95% Alc. Vol., el cual debe poseer el sabor, aroma y características atribuidas genéricamente al whisky o whiskey, borbon o bourbon, Tennessee, añejado en barricas de roble blanco o encino.
-
-XXVII.- Whisky o Whiskey, borbon o bourbon, Tennessee "de Luxe", la bebida alcohólica destilada denominada whisky o whiskey, borbon o bourbon, Tennessee, que en sus etiquetas se ostente con un añejamiento de doce años o más.
-
-XXVIII.- Cremas base Whisky o Whiskey, la bebida alcohólica preparada a partir del whisky o whiskey, adicionada con aditivos y coadyuvantes permitidos por la Secretaría de Salud, con un contenido alcohólico de 12 a 35% Alc. Vol.
-
-XXIX.- Cognac V.S., la bebida alcohólica destilada de mostos 100% de uva, con Denominación de Origen, regulada por las leyes y reglamentos del Gobierno Francés y que en su etiqueta se ostente con la palabra Cognac o con las siglas V.S.
-
-XXX.- Cognac V.S.O.P., la bebida alcohólica destilada de mostos 100% de uva, con Denominación de Origen, regulada por las leyes y reglamentos del Gobierno Francés y que en su etiqueta se ostente con las siglas V.S.O.P.
-
-XXXI.- Cognac X.O., la bebida alcohólica destilada de mostos 100% de uva, con Denominación de Origen, regulada por las leyes y reglamentos del Gobierno Francés y que en su etiqueta se ostente con las siglas X.O.
-
-XXXII.- Sotol, la bebida alcohólica destilada que se obtiene de la destilación de mostos fermentados y en la que se emplea como materia prima para fermentación el jugo de las cabezas o piñas de diversas especies silvestres de liliáceas o amarilidáceas que se desarrollan en el norte de la República Mexicana.
-
-XXXIII.- Bacanora, la bebida alcohólica destilada elaborada por destilación de mostos fermentados y en los que se emplean para la fermentación el jugo de las cabezas o piñas sometidas a cocción de algunas especies silvestres de agave Angustifolia var. Pacífica, que se desarrolla en el estado de Sonora.
-
-XXXIV.- Comiteco, la bebida alcohólica destilada y rectificada en alambique discontinuo proveniente de la fermentación de jugo de caña (guarapo) o sus concentrados (meladura o piloncillo) obtenidos de caña cultivada en el estado de Chiapas y mezclado en un 15 a 20% de aguardiente de uva y madurado un mínimo de seis meses en barricas de roble blanco o encino, agregando ciruela pasa o pasas.
-
-XXXV.- Lechuguilla o raicilla, la bebida alcohólica destilada originaria de la zona serrana de Jalisco, obtenida de la destilación y rectificación de mostos, preparados directa y originalmente del material extraído, derivado de la molienda de las cabezas maduras del agave inaequidens con sus variedades y subespecies (conocido como agave lechuguilla), previa o posteriormente hidrolizadas o cocidas y sometidas a fermentación alcohólica, siendo susceptible de ser enriquecido por otros carbohidratos en una proporción no mayor de 48%.
-
-XXXVI.- Calvados, la bebida alcohólica destilada de mostos fermentados de jugos de manzana o pera, con denominación de origen regulado por las leyes y reglamentos del Gobierno Francés.
-
-XXXVII.- Bebidas alcohólicas a granel, las que se encuentren envasadas en recipientes cuya capacidad exceda a 5,000 mililitros.
-
-XXXVIII.- Marbete, el signo distintivo de control fiscal, que se adhiere a los envases que contengan bebidas alcohólicas con capacidad que no exceda de 5,000 mililitros.
-
-XXXIX.- Precinto, el signo distintivo de control fiscal, que se adhiere a los recipientes que contengan bebidas alcohólicas con capacidad que exceda a 5,000 mililitros.
-
-> <small>(REFORMADO[N. DE E. ANTES CAPITULO VII], D.O.F. 31 DE DICIEMBRE DE 1999)</small>
-
-## TITULO III. De las Participaciones a las Entidades Federativas
+### CAPITULO VII. De las Participaciones a las Entidades Federativas
 
 ### CAPITULO I. Disposiciones Generales
-
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 27.
 
@@ -1634,7 +1228,7 @@ IV.- Se aplicarán las siguientes tasas a los bienes que también se señalan:
 
 A.- En la enajenación o importación de:
 
-1.- Cerveza .......... 25%
+1.-Cerveza .......... 25%
 
 2.- Vinos de mesa, sidras y rompopes, así como los vinos denominados aromatizados, quinados, generosos y vermuts .......... 25%
 
@@ -1824,11 +1418,9 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 
 PRIMERO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1994.
 
-D.O.F. 15 DE DICIEMBRE DE 1995.
+D.O.F. 28 DE DICIEMBRE DE 1994.
 
-Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
-
-Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
+DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
 ###### ARTICULO DECIMO.
 
@@ -1842,19 +1434,21 @@ Las cantidades establecidas en el artículo 4o-C de esta Ley, se entienden actua
 
 ## TRANSITORIO
 
+## TRANSITORIO
+
+UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
+
+D.O.F. 15 DE DICIEMBRE DE 1995.
+
+Disposición Transitoria de la Ley del Impuesto Especial sobre Producción y Servicios
+
+Artículo Décimo Primero. Durante el año de 1996, para efectos del artículo 2o., fracción I, inciso H), subinciso 2 de esta Ley, son cigarros populares sin filtro los que al 1o. de enero de 1996 tengan un precio máximo al público que no exceda de $ 0.13 por cigarro.
+
 ## Transitorios
 
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 1996.
 
 Segundo. De conformidad con la disposición del Banco de México publicada en el Diario Oficial de la Federación el día 6 de enero de 1994, todas las sumas en moneda nacional que en las leyes fiscales se encuentren expresadas en "nuevos pesos" y su abreviatura "N", a partir del 1o. de enero de 1996 deberán entenderse como "pesos" y su símbolo "$".
-
-D.O.F. 28 DE DICIEMBRE DE 1994.
-
-DISPOSICION DE VIGENCIA ANUAL DE LA LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
-
-## TRANSITORIO
-
-UNICO.- La presente Ley entrará en vigor a partir del 1o. de enero de 1995.
 
 D.O.F. 10 DE MAYO DE 1996.
 
@@ -2127,6 +1721,194 @@ El plazo para abrogar las leyes a que se refiere el Artículo Tercero Transitori
 Primero. El presente Decreto entrará en vigor el 1o. de enero de 2001.
 
 Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas denominaciones se modificaron por efectos del Decreto publicado en el Diario Oficial de la Federación el jueves 30 de noviembre de 2000, mediante el cual se reformó la Ley Orgánica de la Administración Pública Federal, se entenderán conforme a la denominación que para cada una se estableció en este último.
+
+D.O.F. 1 DE ENERO DE 2002.
+
+Disposiciones Transitorias de la Ley del Impuesto Especial
+
+sobre Producción y Servicios
+
+Artículo Segundo. En relación con las modificaciones a que se refiere el Artículo Primero de este Decreto, se estará a lo siguiente:
+
+I. Los contribuyentes a que hace referencia el artículo 26-A de la Ley del Impuesto Especial Sobre Producción y Servicios, vigente hasta antes de la entrada en vigor del Artículo Primero de este Decreto, que hubiesen pagado el impuesto correspondiente en los términos de los artículos 26-C y 26-H, primer párrafo, vigentes en la citada Ley, no estarán obligados a pagar el impuesto que corresponda en los términos del citado Artículo Primero cuando los productos por los que ya se pagó el impuesto se enajenen, siempre y cuando presenten, dentro de los 5 días siguientes a la entrada en vigor del Artículo Primero del presente Decreto, un reporte que contenga lo siguiente:
+
+a) Inventario de existencias por tipo, marca, presentación y capacidad del envase, al día anterior al de la entrada en vigor del Artículo Primero del presente Decreto, distinguiendo aquéllas respecto de las cuales ya se pagó el impuesto y aquéllas por las que no se ha pagado el mismo.
+
+b) Copia de las declaraciones en las que se haya pagado el impuesto correspondiente a las existencias a que hace referencia el inciso anterior.
+
+La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales.
+
+II. Los productores, envasadores e importadores, de bebidas alcohólicas que con anterioridad a la entrada en vigor del Artículo Primero del presente Decreto hubieran optado por pagar el impuesto en los términos de los artículos 26-D y 26-H, segundo párrafo de la Ley del Impuesto Especial sobre Producción y Servicios, vigentes hasta antes de la entrada en vigor del citado Artículo Primero, y que a la fecha de la entrada en vigor del mismo cuenten con inventarios de bebidas alcohólicas que tengan adheridos marbetes, pagarán el impuesto que corresponda a dichos productos aplicando la cuota por litro vigente, de conformidad con lo siguiente:
+
+a) El impuesto se calculará mensualmente aplicando al número de litros enajenados en el mes, la cuota por litro vigente en el mes en el que se realice la enajenación de dichos productos, de conformidad con la siguiente:
+
+TABLA
+
+PRODUCTO CUOTA POR LITRO $
+
+Aguardiente Abocado o Reposado 5.35
+
+Aguardiente Standard (blanco u oro)
+
+Charanda
+
+Licor de hierbas regionales
+
+Aguardiente Añejo 10.34
+
+Habanero
+
+Rompope
+
+Aguardiente con Sabor 12.29
+
+Cocteles
+
+Licores y Cremas de hasta 20% Alc. Vol.
+
+Parras
+
+Bacanora 17.60
+
+Comiteco
+
+Lechuguilla o raicilla
+
+Mezcal
+
+Sotol
+
+Anís 18.91
+
+Ginebra
+
+Vodka
+
+Ron 23.41
+
+Tequila joven o blanco
+
+Brandy 28.15
+
+Amaretto 28.56
+
+Licor de Café o Cacao
+
+Licores y Cremas de más 20% Alc. Vol.
+
+Tequila reposado o añejo
+
+Ron Añejo 33.92
+
+Brandy Reserva 36.72
+
+Ron con Sabor 53.46
+
+Ron Reserva
+
+Tequila joven o blanco 100% agave 54.61
+
+Tequila reposado 100% agave
+
+Brandy Solera 60.53
+
+Cremas base Whisky 79.60
+
+Whisky o Whiskey, Borbon o Bourbon,
+
+Tenessee "Standard"
+
+Calvados 139.24
+
+Tequila añejo 100% agave
+
+Cognac V.S. 168.34
+
+Whisky o Whiskey, Borbon o Bourbon,
+
+Tenessee "de Luxe"
+
+Cognac V.S.O.P. 283.31
+
+Cognac X.O. 1,068.01
+
+Otros 1,096.83
+
+Las cuotas por litro establecidas en este inciso se encuentran actualizadas para el primer semestre de 2002 con el factor de 1.045.
+
+En el mes de junio de 2002 se comparará el crecimiento del Índice Nacional de Precios al Consumidor reportado por el Banco de México del periodo enero-mayo del citado año y si dicho crecimiento es mayor al 1.00%, las cuotas se incrementarán a partir del mes de julio del citado año en la proporción que represente la variación entre el crecimiento del Índice de referencia y el 1.00% citado.
+
+El Servicio de Administración Tributaria efectuará los cálculos previstos en este inciso y publicará a más tardar el último día del mes de junio de 2002, en su caso, las nuevas cuotas que se pagarán a partir del mes de julio de 2002.
+
+b) El impuesto determinado conforme al inciso anterior se pagará a más tardar el día 17 del mes siguiente a aquél en que se efectúe la enajenación de los productos, mediante declaración que se presentará ante las oficinas autorizadas, en la forma que al efecto apruebe la Secretaría de Hacienda y Crédito Público.
+
+Los contribuyentes a que hace referencia esta fracción deberán presentar dentro de los 6 días siguientes a la publicación de este Decreto en el Diario Oficial de la Federación, mediante escrito libre, ante las autoridades fiscales, un reporte que contenga el inventario de dichas bebidas, al día anterior al de la entrada en vigor del Artículo Primero del citado Decreto, por tipo, marca, presentación, capacidad del envase y el número de envases que se tengan en existencias, en los términos que mediante reglas de carácter general establezca la Secretaría de Hacienda y Crédito Público.
+
+III. Los contribuyentes a que se refieren las fracciones I y II del presente Artículo, deberán informar mensualmente a la Secretaría de Hacienda y Crédito Público en el formato que al efecto publique dicha Secretaría, las enajenaciones realizadas en el mes de que se trate de los productos que se hubiesen reportado en los inventarios a que se refieren dichas fracciones.
+
+IV. Los contribuyentes que con posterioridad a la entrada en vigor del Artículo Primero del presente Decreto reciban devoluciones de bebidas alcohólicas por las que ya se hubiera pagado el impuesto, estarán a lo siguiente:
+
+a) Determinarán el impuesto pagado en la enajenación de dichos productos. En el caso de que no se pueda determinar el mes en el que dichos productos fueron enajenados, considerarán como impuesto pagado, la cantidad que resulte de aplicar al número de litros devueltos, la cuota por litro vigente en el tercer mes inmediato anterior a aquél en el que se efectuó la devolución.
+
+b) Cuando los productos devueltos sean nuevamente enajenados, se calculará el impuesto correspondiente en los términos de la fracción II de este artículo, considerando la cuota por litro vigente en el mes en el que se efectúa dicha enajenación.
+
+c) Del impuesto causado por dichas enajenaciones en los términos del inciso anterior, se podrá disminuir el impuesto pagado a que se refiere el inciso a) de esta fracción correspondiente a dichos productos.
+
+d) La diferencia que resulte a cargo del contribuyente en los términos del inciso anterior, deberá pagarse conjuntamente con el impuesto que corresponda al mes en que se efectúa la enajenación de dichos productos.
+
+Para los efectos de esta fracción, se considerará que los primeros productos devueltos fueron los primeros que se enajenaron posteriormente.
+
+Los contribuyentes a que hace referencia esta fracción deberán llevar un registro especial de devoluciones y enajenaciones de productos, en los términos que para tales efectos establezca la Secretaría de Hacienda y Crédito Público.
+
+V. Los contribuyentes del impuesto especial sobre producción y servicios, que a la entrada en vigor del Artículo Primero del presente Decreto tengan marbetes o precintos adquiridos con anterioridad que no se encuentren adheridos a los envases o recipientes que contengan bebidas alcohólicas, deberán informar el número de marbetes o precintos y el folio de cada uno de ellos, y devolver a las autoridades fiscales, dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, dichos marbetes o precintos.
+
+VI. Los contribuyentes que a la fecha de la entrada en vigor del Artículo Primero del presente Decreto tengan un monto de impuesto pendiente de disminuir en los términos del artículo 26-E de la Ley del Impuesto Especial sobre Producción y Servicios, vigente hasta antes de la entrada en vigor de dicho Artículo Primero, lo podrán disminuir del impuesto especial sobre producción y servicios que les corresponda pagar en los meses siguientes, hasta agotarlo.
+
+VII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a la entrada en vigor del Artículo Primero del presente Decreto cuenten con existencias de bebidas alcohólicas por las cuales los productores, envasadores e importadores, ya hubiesen pagado el impuesto correspondiente y esta situación se demuestre con los marbetes o precintos anteriores de los que a partir de la entrada en vigor del mismo autorice la Secretaría de Hacienda y Crédito Público, no estarán obligados a pagar el impuesto que corresponda a dichas bebidas ni podrán trasladarlo cuando las mismas se enajenen.
+
+VIII. Los contribuyentes del impuesto especial sobre producción y servicios distintos de los productores, envasadores e importadores, de bebidas alcohólicas, que a partir de la entrada en vigor del Artículo Primero de este Decreto adquieran bebidas alcohólicas que tengan adherido el marbete autorizado por la Secretaría de Hacienda y Crédito Público con anterioridad a la entrada en vigor del mismo, no deberán aceptar el traslado del impuesto especial sobre producción y servicios en la adquisición de dichas bebidas y no podrán trasladarlo cuando las mismas se enajenen. Respecto de dichos bienes no se considerarán contribuyentes del citado impuesto, por lo que no procede acreditamiento alguno.
+
+IX. Para los efectos de la fracción VI del artículo 7 de la Ley de Ingresos de la Federación para el ejercicio fiscal de 2002, se entenderá por ejercicio el año de calendario.
+
+X. Para los efectos de lo dispuesto por el artículo 19, fracciones VI y VIII de la Ley del Impuesto Especial sobre Producción y Servicios, en relación con los artículos 3o. y 3o.-A de la Ley de Coordinación Fiscal, la determinación de las participaciones a las entidades federativas de la recaudación del impuesto especial sobre producción y servicios en los años de 2000 y 2001, por la realización de los actos o actividades gravados con dicho impuesto en materia de bebidas alcohólicas, se hará con base en el por ciento que corresponda a cada Estado, de conformidad con la recaudación participada en 1999 por entidad federativa.
+
+XI. Las personas físicas y morales, que hasta el 31 de diciembre de 2001 no hayan sido considerados como contribuyentes del impuesto especial sobre producción y servicios y que a partir de la entrada en vigor del Artículo Primero del presente Decreto tengan tal carácter, deberán presentar dentro de los 5 días siguientes a la entrada en vigor del citado Artículo Primero, un reporte que contenga el inventario de existencias por tipo, marca, presentación y capacidad, de los bienes por los que a partir de la entrada en vigor de dicho Artículo son considerados como contribuyentes del impuesto de referencia.
+
+La información a que se refiere esta fracción se presentará mediante escrito libre ante las autoridades fiscales y deberá contener las existencias que se tengan hasta antes de la entrada en vigor del Artículo Primero del presente Decreto.
+
+XII. La obligación contenida en la fracción XVIII del artículo 19 de la Ley del Impuesto Especial sobre Producción y Servicios entrará en vigor el 1o. de abril de 2002.
+
+XIII. Lo dispuesto en el Artículo Primero de este Decreto entrará en vigor el 1o. de enero de 2002.
+
+XIV. Para los efectos de lo dispuesto en el inciso C) de la fracción I del artículo 2o. de esta Ley, durante los ejercicios fiscales de 2002, 2003 y 2004 en lugar de aplicar las tasas previstas en dicho inciso para los cigarros, se estará a lo siguiente:
+
+a) Cigarros con filtro:
+
+AÑO TASA
+
+2002 105%
+
+2003 107%
+
+2004 110%
+
+2005 110%
+
+b) Cigarros sin filtro:
+
+AÑO TASA
+
+2002 60%
+
+2003 80%
+
+2004 100%
+
+2005 110%
+
+Para los efectos de esta fracción, se consideran cigarros sin filtro los populares elaborados con tabacos obscuros con tamaño máximo de 77 milímetros de longitud, cuyo precio máximo al público al 1o. de enero de cada año, no exceda de la cantidad que establezca el Congreso de la Unión.
+
+Para los efectos de lo dispuesto en el párrafo anterior, durante el año de 2002 son cigarros populares sin filtro los que al 1o. de enero de dicho año tengan un precio máximo al público que no exceda de $0.40 por cigarro. Para los ejercicios fiscales de 2003 y 2004 el precio máximo al público será el que se determine en la Ley de Ingresos de la Federación para el ejercicio fiscal de que se trate.
 
 ###### ARTICULO QUINTO.
 
