@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2002-11-06"
+last_updated: "2003-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CONSTITUCION POLITICA DEL ESTADO DE CHIAPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2003.
 
 Constitución publicada en Alcance No.5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -57,7 +57,7 @@ P.O. 30 DE NOVIEMBRE DE 1926.
 
 ### CAPITULO PRIMERO (SIC). DEL CONGRESO DEL ESTADO, DE SU ELECCION E INSTALACION
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 3.
 
@@ -297,7 +297,37 @@ No podrán reunirse dos o más de estos Poderes en una sola persona o corporaci�
 
 ###### ARTICULO 15.
 
-El Poder Legislativo se deposita en una Asamblea de Representantes del pueblo que se denominará Congreso del Estado de Chiapas, siendo la Comisión de Régimen Interno, su órgano de gobierno, que se integrará colegiadamente con los coordinadores de cada grupo parlamentario, quienes por mayoría determinarán el orden del ejercicio del presidente del régimen interno y cuyo funcionamiento, facultades y atribuciones, se determinarán en la ley y en el reglamento respectivo.
+El Poder Legislativo del Estado de Chiapas, se deposita en una Asamblea de Representantes del Pueblo que se denominará Congreso del Estado.
+
+Los Diputados, en su carácter de representantes del pueblo, tienen derecho de opinar, discutir, defender sus ideas y los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley.
+
+Para su regimen interior el Congreso del Estado contará con un Órgano de Dirección Política y de Administración denominado Junta de Coordinación Política y una Mesa Directiva que será la responsable de la conducción de los trabajos Parlamentarios; en los términos dispuestos por esta Constitución, la Ley Orgánica y el Reglamento Interior, el que establecerá el Procedimiento Legislativo.
+
+La ley determinará las formas y procedimientos para la agrupación de Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el congreso.
+
+La Junta de Coordinación Política será la expresión de pluralidad del Congreso, funcionará de manera colegiada y estará integrada por los coordinadores de cada uno de los grupos parlamentarios; sus decisiones se tomarán por mayoría absoluta mediante el sistema de voto ponderado, en el cual los respectivos coordinadores representarán tantos votos como integrantes tenga su grupo parlamentario.
+
+Será Presidente de la Junta, por la duración de la Legislatura el Coordinador de aquel grupo parlamentario que por sí mismo cuente con la mayoría absoluta en el Congreso.
+
+En el caso de que ningún grupo se encuentre en este supuesto la responsabilidad de presidir la Junta tendrá una duración anual. Esta encomienda se desempeñará sucesivamente por los coordinadores de los grupos, en orden decreciente del numero de legisladores que la integren.
+
+La Mesa Directiva del Congreso garantizará que en los trabajos legislativos prevalezca lo dispuesto en la Constitución, la Ley y el Reglamento Interior; conducirán la (sic) Sesiones del Pleno y asegurará el desarrollo de los debates, discusiones y votaciones, así mismo, velará por el adecuado funcionamiento de las Comisiones.
+
+El Presidente de la Mesa Directiva será el Presidente del Congreso y conducirá las relaciones institucionales con los otros poderes, responderá el informe de Gobierno y tendrá la representación protocolaria en el ámbito de la diplomacia parlamentaria.
+
+El Diputado Presidente del Congreso velará por el respeto al Fuero Constitucional de los miembros de dicho Congreso y por la inviolabilidad de su recinto.
+
+La Mesa Directiva será electa por mayoría calificada de las dos terceras partes de los diputados que integran el Congreso; la integrará un Presidente, dos Vice-Presidentes, dos Secretarios y dos Prosecretarios, quienes durarán en funciones seis meses, inclusive en los recesos del Congreso en la que, sin mayor trámite se convertirá en Comisión Permanente.
+
+El nombramiento del Presidente de la Mesa Directiva deberá de recaer sucesivamente entre los miembros de los tres Grupos Parlamentarios con mayor numero de diputados, en orden decreciente.
+
+En ningún caso podrán fungir simultáneamente como Presidente de la Junta de Coordinación Política y de la Mesa Directiva dos diputados de la misma filiación partidista.
+
+El Congreso del Estado para su adecuado funcionamiento contará con las Secretarías de Servicios Administrativos y de Servicios Parlamentarios, un Instituto de Investigaciones Legislativas y las Direcciones de Asuntos Jurídicos y de Comunicación Social, así como con las unidades de apoyo que establezca su Ley Orgánica. Los nombramientos de sus titulares se harán por el pleno del Congreso con la aprobación de las dos terceras partes de los diputados presentes, a propuesta de la Junta de Coordinación Política.
+
+El Instituto de Investigaciones Legislativas tendrá a su cargo el Secretariado Técnico de las diversas Comisiones del Congreso.
+
+La Secretaría de Servicios Administrativos y las Direcciones de Asuntos Jurídicos y Comunicación Social dependerán de la Junta de Coordinación Política; la Secretaría de Servicios Parlamentarios y el Instituto de Investigaciones Legislativas dependerán de la Mesa Directiva y las Unidades de Apoyo que se creen guardarán la relación de dependencia que señale la Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 1987)</small>
 
@@ -469,21 +499,21 @@ La ley respectiva tipificará los delitos y determinará las faltas y responsabi
 
 El Congreso se instalará y sesionará con la concurrencia además de la mitad del número total de sus miembros, si no hubiera quórum para instalar el Congreso el día señalado por la Ley, los presentes ahí reunidos compelerán a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si dejaren de asistir sin que medie causa justificada, se entenderá por ese solo hecho que no aceptan su cargo y se llamara desde luego a los suplentes. Estos deberán presentarse en un plazo igual y si tampoco concurren sin tener causa justificada, se declarara vacante el cargo y se convocara a nuevas elecciones.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
-Se entiende también que los Diputados que faltaren a sesión por tres veces consecutivas sin causa justificada o sin previa licencia del Diputado Presidente en turno, de la Comisión de Régimen Interno del Congreso, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes.
+Se entiende también que los diputados que faltaren a sesión por tres veces consecutivas sin causa justificada o sin previa licencia del Diputado Presidente del Congreso, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los Suplentes.
 
-Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocara inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, en el expresado plazo de diez idas.
+Si no hubiere quórum para instalar el Congreso o para que ejerza sus funciones una vez instalado, se convocará inmediatamente a los suplentes para que se presenten a la mayor brevedad a desempeñar su cargo, en el expresado plazo de diez días.
 
 Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale, quienes habiendo sido electos diputados no se presentaren, sin causa justificada a juicio del congreso a desempeñar el cargo dentro del plazo señalado en el primer párrafo de este Articulo.
 
 También incurrirán en responsabilidad, que la misma Ley sancionara, los partidos políticos que habiendo postulado candidatos en una elección para diputados acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 21.
 
-Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Presidente en turno, de la Comisión de Régimen Interno, no tendrán derecho a la dieta correspondiente.
+Los Diputados que no concurran a una sesión sin causa justificada, o sin el permiso del Presidente del Congreso, no tendrán derecho a la dieta correspondiente.
 
 > <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 1997)</small>
 
@@ -497,11 +527,11 @@ El Congreso del Estado deberá quedar instalado el día 16 de noviembre del año
 
 El Congreso tendrá sesiones extraordinarias cada vez que sea convocado por la Comisión Permanente, pero en tales casos solo podrá ocuparse del asunto o asuntos especificados en la Convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 24.
 
-Entre el dieciséis de noviembre y dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la Administración Pública; el congreso determinará el día en que debe celebrarse dicha sesión. El Diputado Presidente en turno, de la Comisión de Régimen Interno del Congreso, será quien conteste dicho informe, y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
+Entre los dieciséis de noviembre y dieciséis de diciembre de cada año, el Congreso del Estado, celebrará sesión solemne para el efecto de que el Gobernador del Estado presente su informe escrito acerca de la situación que guarden los diversos ramos de la Administración Publica; el Congreso determinará el día en que debe celebrarse dicha sesión. El Diputado Presidente del Congreso, será quien conteste dicho informe y su contenido será motivo de análisis en sesiones ordinarias subsecuentes en los términos de la Ley Orgánica del propio Congreso del Estado.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -621,9 +651,9 @@ XVI.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribuna
 
 XVII.- Expedir las leyes relativas a la relación del trabajo y seguridad social de los trabajadores al servicio de los Poderes del Estado y de los Municipios;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XVIII.- Expedir su Ley Orgánica y su respectivo Reglamento que regulará su estructura y funcionamiento interno, así como expedir la Ley que regule la organización de la entidad de Fiscalización Superior del Estado;
+XVIII.- Expedir su Ley Orgánica y su respectivo Reglamento Interno, la primera regulará su estructura y funcionamiento y el segundo los Procedimientos Legislativos;
 
 XIX.- Autorizar al Ejecutivo, en cada caso, para que enajene bienes propiedad del Estado y haga donaciones a instituciones de Interés público o de beneficencia, en los términos y condiciones que fije el mismo Congreso;
 
@@ -649,9 +679,9 @@ XXVII.- Fijar los ingresos que deban integrar la Hacienda de los Municipios, pro
 
 XXVIII.- Crear o suprimir Municipios dentro de los ya existentes, una vez que se hayan satisfecho los requisitos que la Ley Orgánica establece;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXIX.- Para la revisión de la cuenta pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el órgano de fiscalización superior; examinará no sólo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificacion de ellas;
+XXIX.- Para la revisión de la Cuenta Pública que presenten el Ejecutivo y los Ayuntamientos, el Congreso del Estado se apoyará en el Órgano de Fiscalización Superior; examinará no solo las partidas gastadas según el presupuesto de egresos, sino también la exactitud y justificación de ellas;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 1995)</small>
 
@@ -661,9 +691,9 @@ XXXI.- Pedir la protección de los Poderes de la Unión en caso de trastorno o s
 
 XXXII.- Disponer mediante decreto, el traslado de los Poderes a algún punto del Estado, fuera de la Capital, cuando las circunstancias lo exijan, bien sea por conmoción popular o para celebrar actos cívicos y conmemorativos;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XXXIII.- Recibir del órgano de Fiscalización Superior del Estado los informes a que se refiere la fracción segunda del artículo 30 de esta Constitución;
+XXXIII.- Recibir del Órgano de Fiscalización Superior del Congreso (sic) Estado los informes a que se refiere la fracción segunda del Artículo 30 de esta Constitución;
 
 XXXIV.- Publicar su Memoria anual de labores;
 
@@ -703,47 +733,41 @@ XLVII.- Instituir al Tribunal Electoral del Poder Judicial del Estado, así como
 
 XLVIII.- Legislar en materia de plebiscito e iniciativa popular;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2003)</small>
 
-XLIX.- Los Diputados, en su carácter de representantes del pueblo, tienen derecho de opinar, discutir y defender los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley;
+XLIX.- Expedir la Ley que regule el Organo de Fiscalización Superior del Congreso (sic) Estado;
 
-> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2001)</small>
+L.- (DEROGADA, P.O. 17 DE AGOSTO DE 2003)
 
-L.- El Diputado Presidente en turno de la Comisión de Régimen interno del Congreso velará por el respeto al Fuero Constitucional de los miembros de dicho Congreso, y por la Inviolabilidad de su recinto.
-
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
 ###### ARTICULO 30.
 
-El órgano de Fiscalización Superior del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
+El Órgano de Fiscalización Superior del Congreso del Estado, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la Ley.
 
-El Órgano de Fiscalización Superior tendrá a su cargo:
+El Órgano de Fiscalización Superior, tendrá a su cargo:
 
-I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes públicos estatales y de los municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
+I.- Fiscalizar en forma posterior los ingresos y egresos; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado, de los entes Públicos Estatales y de los Municipios, incluyendo los recursos de origen federal, en su caso a través de los informes que se rendirán en los términos que disponga la Ley.
 
-II.- Sin perjuicio de los informes a que se refiere el párrafo anterior, en las situaciones excepcionales que determine la Ley, podrá requerir a los sujetos de fiscalización que procedan, a la revisión de los conceptos que estime pertinentes y le rindan informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, podrá dar lugar al fincamiento de responsabilidades que corresponda.
-
-> <small>(F. DE E., P.O. 23 DE OCTUBRE DE 2001)</small>
+II.- Sin perjuicio de los informes a que se refiere el párrafo anterior, en las situaciones excepcionales que determine la Ley, podrá requerir a los sujetos de fiscalización que procedan a la revisión de los conceptos que estime pertinentes y le rindan informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, podrá dar lugar al fincamiento de responsabilidades que corresponda.
 
 III.- Entregar los informes del resultado de la revisión de las cuentas públicas, al Congreso del Estado, en los términos que establezca la Ley; dentro de los citados informes se incluirán los dictámenes de su revisión y el apartado correspondiente a la fiscalización y verificación del cumplimiento de los programas, que comprenderá los comentarios y observaciones de los auditados, mismo que tendrá carácter público.
 
-> <small>(F. DE E., P.O. 23 DE OCTUBRE DE 2001)</small>
+IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del Estado y efectuar visitas domiciliarias únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en la Ley.
 
-IV.- Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos del estado y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas en ley.
+V.- Determinar los daños y perjuicios que afecten a la Hacienda Pública Estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades: promover las acciones de responsabilidad a que se refiere el Título Noveno de esta Constitución, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervención que señale la Ley.
 
-V.- Determinar los daños y perjuicios que afecten a la hacienda publica estatal y fincar directamente a los responsables las indemnizaciones y sanciones pecuniarias correspondientes, así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el título noveno de esta Constitucion, y presentar las denuncias y querellas penales, en cuyos procedimientos tendrán la intervencion que señale la Ley.
+El Órgano de Fiscalización Superior del Congreso del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
 
-El órgano de Fiscalización Superior del Estado, deberá guardar reserva de sus actuaciones y observaciones, hasta que rinda los informes a que se refiere este artículo; la Ley establecerá las sanciones aplicables a quienes infrinjan esta disposición.
+El Congreso del Estado designará al Titular del Órgano de Fiscalización Superior del Congreso del Estado, con el voto de las dos terceras partes de los Diputados presentes, la Ley determinará el procedimiento para su designación. Dicho Titular durará en su cargo siete años, y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que señale esta Constitución en su Título Noveno, con la misma votación requerida para su nombramiento.
 
-El Congreso del Estado designará al titular del órgano de Fiscalización Superior del Estado, con el voto de las dos terceras partes de los diputados presentes, la Ley determinará el procedimiento para su designación. Dicho titular durará en su cargo siete años, y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente por las causas graves que señale esta Constitución en su título noveno, con la misma votación requerida para su nombramiento.
-
-Para ser titular del Órgano de Fiscalización del Estado se requiere cumplir con los requisitos establecidos en el Artículo 43 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
+Para ser Titular del Órgano de Fiscalización Superior del Congreso del Estado, se requiere cumplir con los requisitos establecidos en el artículo 43 de esta Constitución, además de los que señalen la Ley y el Reglamento respectivo.
 
 Durante el ejercicio de su encargo, no podrá formar parte de un Partido Político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados, en asociaciones científicas, docentes, artísticas o de beneficencia.
 
-Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Órgano de Fiscalización Superior del Estado para el ejercicio de sus funciones.
+Los Poderes del Estado y los sujetos de fiscalización, facilitarán los auxilios que requiera el Organo de Fiscalización Superior del Congreso del Estado, para el ejercicio de sus funciones.
 
-El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución, para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la fracción IV del presente artículo.
+El Poder Ejecutivo del Estado, aplicará el procedimiento administrativo de ejecución para el cobro de las indemnizaciones y sanciones pecuniarias que se establezcan en los términos de la fracción IV del presente artículo.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -831,7 +855,7 @@ El Gobernador electo por sufragio popular en elecciones ordinarias entrará a ej
 
 ###### ARTICULO 37.
 
-El Gobernador, al tomar posesión del cargo rendirá ante el Gongreso del Estado la siguiente protesta "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS Y LAS LEYES QUE DE ELLA EMANEN, LA PARTICULAR DEL ESTADO Y DEMAS LEGISLACION ESTATAL, ASI COMO DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
+El Gobernador, al tomar posesión del cargo rendirá ante el Congreso del Estado la siguiente protesta "PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS Y LAS LEYES QUE DE ELLA EMANEN, LA PARTICULAR DEL ESTADO Y DEMAS LEGISLACION ESTATAL, ASI COMO DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y LA PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE".
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE OCTUBRE DE 1990)</small>
 
@@ -1081,7 +1105,7 @@ La Sala Superior residirá en la Capital del Estado; su jurisdicción y competen
 
 El Presidente del Supremo Tribunal de Justicia lo será el Presidente de la Sala Superior quien será elegido por el Pleno de la propia Sala cada tres años en la primera semana del mes de enero, pudiendo ser reelegido una sola vez y, en sus faltas temporales no mayores de treinta días, será sustituido por el Magistrado que él designe; pero si excediere de ese término, la designación del Magistrado Presidente Interino la hará el Pleno.
 
-La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior correponderá a su Presidente.
+La Sala Superior del Supremo Tribunal de Justicia y el Tribunal Electoral elaborarán su propio presupuesto y el Consejo de la Judicatura lo hará para el resto del Poder Judicial del Estado. Los presupuestos elaborados y aprobados serán remitidos por el Consejo de la Judicatura para su inclusión en el proyecto de Presupuesto de Egresos del Estado. La administración de la Sala Superior corresponderá a su Presidente.
 
 Cuando ocurriere una vacante definitiva de algún Magistrado de la Sala Superior por defunción, renuncia, incapacidad o cualquier otra causa y el Congreso se encuentre en receso, la Comisión permanente de inmediato convocará a un período extraordinario de sesiones para hacer el nombramiento correspondiente. Conocerá de la terna respectiva y resolverá sobre su aprobación.
 
@@ -1531,7 +1555,7 @@ La sentencia correspondiente será emitida antes de un año a partir del momento
 
 ###### ARTICULO 74.
 
-El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el Servidor Público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un perído no mayor de un año a partir de iniciado el procedimiento.
+El procedimiento de Juicio Político sólo podrá iniciarse durante el período en el que el Servidor Público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
 La responsabilidad por delitos cometidos por cualquier Servidor Público será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal. Los plazos de prescripción se interrumpen en tanto el Servidor Público desempeña alguno de los encargos a que hace referencia el Artículo 69 de este mismo Título.
 
@@ -1611,15 +1635,13 @@ El Estado y los Municipios se coordinarán en los términos que la ley señale p
 
 ###### ARTICULO 83.
 
-Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma se requiere:
+Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma, se requiere:
 
-I.- Que el Congreso del Estado con la aprobación de las dos terceras partes de los Diputados presentes admitan a discusión el proyecto.
+I.- Que el Congreso del Estado con la aprobación de las dos terceras partes de los Diputados presentes acuerden a discusión el proyecto de reformas y/o adiciones.
 
-II.- Que el proyecto se publique en el Periódico Oficial.
+II.- Que el proyecto se publique en el Periódico Oficial del Estado; y
 
-III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los noventa días siguientes a aquel en que se hubiere publicado el proyecto, a efecto de que éste sea analizado por el Congreso Local.
-
-La mayoría de los Ayuntamientos darán su aprobación dentro de los quince días de recibida la comunicación en que se les pida, entendiendo que su abstención significa aprobación.
+III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los 30 días siguientes a aquel en que hubiere comunicado el proyecto de reformas y/o adiciones, entendiéndose que su abstención es aprobación.
 
 > <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1981)</small>
 
@@ -1777,7 +1799,7 @@ Esta Constitución no perderá su fuerza y vigor aún cuando por alguna rebelió
 
 ## TITULO DECIMO PRIMERO. DE LAS REFORMAS A LA CONSTITUCION
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2003)</small>
 
 ## TITULO DECIMO SEGUNDO. DE LA INVIOLABILIDAD DE LA CONSTITUCION
 
@@ -1875,7 +1897,7 @@ DECRETO No. 67, QUE REFORMA VARIOS ARTICULOS DE LA CONSTITUCION POLITICA DEL EST
 
 El Territorio del Estado de Chiapas es el que posee desde que forma parte de la República Mexicana.
 
-Para su oganización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
+Para su organización política y administrativa se dividirá en Municipios Libres, de acuerdo con las bases contenidas en el Artículo 115 de la Constitución Federal y la Ley Orgánica respectiva, siendo los siguientes:
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 1999)</small>
 
@@ -2588,3 +2610,21 @@ La Ley Orgánica y el Reglamento Interior del H. Congreso deberán adecuarse al 
 ###### ARTICULO NOVENO.
 
 Se derogan las disposiciones legales vigentes contrarias al presente decreto.
+
+P.O. 17 DE AGOSTO DE 2003.
+
+Primero.- El presente Decreto de reformas a la Constitución iniciará su vigencia al siguiente día a su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Tan luego como se obtenga la aprobación de la mayoría de los Ayuntamientos, el Congreso del Estado expedirá la Ley Orgánica del Congreso y la Ley del Órgano de Fiscalización Superior.
+
+Tercero.- En tanto se crea la Nueva Ley de Fiscalización Superior del Estado, la actual Entidad de Fiscalización Superior continuará ejerciendo las atribuciones conforme a la ley que actualmente le rige.
+
+Los servidores públicos adscritos a la actual Entidad de Fiscalización Superior del Estado, no serán afectados en forma alguna en sus derechos laborales con motivo de la entrada en vigor de este decreto y de la ley que en consecuencia se emita.
+
+Cuarto.- Al día siguiente en que entre (sic) en vigencia las presentes reformas, el Congreso del Estado deberá de designar una mesa directiva que entrara en funciones ese mismo día y concluirá su encargo el 31 de marzo de 2004. La Presidencia será electa en los términos del artículo 15 reformado por virtud del presente decreto y dicho nombramiento deberá recaer en un Diputado del Segundo Grupo Parlamentario con mayor representación en esta Legislatura.
+
+Ese mismo día deberá quedar instalada la Junta de Coordinación Política.
+
+El 31 de marzo de 2004 se deberá de elegir la Mesa Directiva que iniciará sus funciones al día siguiente y fungirá hasta la conclusión de la Sexagésima Primera Legislatura. El Presidente será electo dentro de los Diputados del Tercer Grupo Parlamentario con mayor representación en la misma Legislatura.
+
+Quinto.- Se derogan todas las disposiciones que se contrapongan al presente Decreto.
