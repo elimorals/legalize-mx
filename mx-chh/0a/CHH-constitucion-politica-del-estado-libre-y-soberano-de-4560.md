@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "1979-01-24"
+last_updated: "1982-06-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 1979.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JUNIO DE 1982.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1053,15 +1053,15 @@ XXXIV.- Formar el Reglamento de la Secretaría de su Despacho.
 
 XXXV.- Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desaparecieren éstos, dentro del primer semestre del período constitucional correspondiente.
 
-XXXVI.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1986)
+XXXVI.- Presidir el Jurado de Responsabilidades a que se refiere la fracción II del artículo 180.
 
 > <small>(ADICIONADA, P.O. 13 DE JULIO DE 1963)</small>
 
 XXXVII.- Delegar en las Autoridades Municipales, en los casos en que lo considere conveniente o necesario, la prestación de Servicios Públicos que correspondan al Estado, fijando las bases para ello y destinando al efecto los arbitrios necesarios, los que se tomarán de la Partida Presupuestal correspondiente.
 
-> <small>(REFORMADA, P.O. 13 DE JULIO DE 1963)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
-XXXVIII.- Las demás que le asignen las Leyes, ya sean Federales o del Estado.
+XXXVIII.- Sujetándose a lo que establezcan las leyes respectivas, celebrar con la Federación convenios de carácter general para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal y solicitar a éste la inclusión de reos de nacionalidad extranjera sentenciados por delitos del orden común del Estado, en los tratados internacionales que se celebren para el efecto de que puedan ser trasladados al país de su origen o residencia.
 
 > <small>(ADICIONADA, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1157,11 +1157,11 @@ Cuando la falta temporal o absoluta ocurra durante el receso del H. Congreso, la
 
 Si el Ejecutivo no remite las ternas de candidatos para cubrir las faltas absolutas o temporales de los Magistrados, el Congreso, o en su caso la Diputación Permanente, la formará haciendo de entre ellas, la designación respectiva.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 1976)</small>
+> <small>(REFORMADO, P.O. 26 DE JUNIO DE 1982)</small>
 
 ###### Art. 105.
 
-El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitarias como lo determina la Ley Orgánica respectiva y su Presidente rendirá el cuarto viernes del mes de agosto de cada año, un informe ante el Pleno, sobre el estado que guarde la Administración de Justicia.
+El Supremo Tribunal de Justicia funcionará en Acuerdo Pleno y en Salas Unitarias como lo determina la Ley Orgánica respectiva y su Presidente rendirá dentro de los primero quince días del mes de agosto de cada año, un informe ante el Pleno, sobre el estado que guarda la administración de justicia.
 
 ### CAPITULO II.
 
@@ -1914,3 +1914,7 @@ SEGUNDO.- Este Decreto entrará en vigencia al día siguiente de su publicación
 P.O. 24 DE ENERO DE 1979.
 
 ARTICULO TRANSITORIO.- El presente Decreto entrará a vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE JUNIO DE 1982.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
