@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1995-12-25"
+last_updated: "1996-08-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE AGOSTO DE 1996.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2241,6 +2241,122 @@ ART. 239 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras 
 
 ## TITULO TERCERO. DE LOS DERECHOS
 
+### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+
+ART. 293.- Los Derechos por concepto de legalización de firmar (sic), certificaciones y expedición de copias de documentos por los funcionarios competentes del estado se causarán conforme a la siguiente:
+
+T A R I F A:
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+CONCEPTO VECES EL SALARIO
+
+MINIMOGENERAL
+
+VIGENTE EN SINALOA
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+I.- Legalización de
+
+Firmas 1.00
+
+II.- Certificaciones de firmas en
+
+Actas Constitutivas de sociedades
+
+cooperativas 0.80
+
+III.- Certificados de "No Adeudo" de
+
+créditos fiscales 0.25
+
+IV.- Certificados de "No Adeudo" por
+
+concepto de multas 0.25
+
+> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+
+V.- Certificados del valor fiscal
+
+de predios 0.25
+
+VI.- Certificados de fechas de pagos
+
+de créditos fiscales 0.25
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+VII.- Copias certificadas
+
+de documentos por hoja 0.25
+
+VIII.- Copias simples de los
+
+documentos a que se refiere la
+
+fracción VI anterior 0.07
+
+IX.- Duplicados autógrafos al
+
+carbón de los mismos documentos
+
+a que se refiere la
+
+fracción VI anterior 0.05
+
+X.- Copias simples de los
+
+documentos a que se refiere la
+
+fracción VII anterior, por hoja 0.05
+
+XI.- Duplicados autógrafos al carbón
+
+de los mismos documentos
+
+a que se refiere la fracción VII anterior
+
+por hoja 0.25
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+XII.- Testimonios notariales
+
+por hoja 3.00
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+
+XIII.- Autorización libros
+
+Protocolo Notariales 5.00
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
+
+XIV.- Cualquiera otra
+
+certificación que se expida
+
+diferente de las ya
+
+expresadas 1.00
+
+Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
+
+ART. 294.- No causan los derechos a que se refiere este Capítulo:
+
+I.- Los certificados, copias certificadas y copias simples al carbón que estén gravadas expresamente en otros Capítulos de esta Ley;
+
+II.- Las certificaciones que hagan las copias certificadas o copias simples que expidan las autoridades judiciales;
+
+III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en juicios de amparo promovidos contra actos de la (sic) autoridades del Estado.
+
+En la copia certificada deberá expresarse que su expedición se hace para ser presentada en el juicio de amparo respectivo;
+
+IV.- Los certificados de insolvencia.
+
 ### CAPITULO II. Copias de Planos, Avalúos y Trabajos Catastrales
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
@@ -3791,63 +3907,183 @@ ART. 322.- Los Oficiales Registradores, al solicitarseles un servicio de su comp
 
 ART. 323.- De los ingresos percibidos en el cobro de los derechos a que se refiere este capítulo, el Oficial Registrador participará en la proporción que al efecto señale la Secretaría de Hacienda Pública y Tesorería del Estado. Los oficiales registradores asegurarán un servicio rápido y eficaz y cobrarán quincenalmente la participación que les corresponda, la que le será pagada por la Oficina Recaudadora correspondiente, previa liquidación y haciéndoles los descuentos respectivos.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 12 DE AGOSTO DE 1996)</small>
 
-### CAPITULO XI. De los Permisos y Registros para el funcionamiento de Fábricas y Expendios de Bebidas Alcohólicas y de otras Bebidas
+### CAPITULO XI
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+Derechos por el Otorgamiento de Licencias, Permisos o Autorizaciones para el Funcionamiento de Establecimientos y Locales para la Venta y Consumo de Bebidas Alcohólicas.
 
-ART. 324.- De los derechos por el otorgamiento de permisos, o su revalidación anual, incluyendo los servicios de inspección respectivos, para la elaboración, depósito expendio y transporte de alcohol y bebidas alcohólicas, se cobrarán de acuerdo con la siguiente:
+> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 1996)</small>
+
+ART. 324.- Es objeto de este derecho el otorgamiento de licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los que se vendan y/o consuman bebidas alcohólicas, siempre que dicha venta se efectúe al público en general.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
+
+ART. 324 Bis.- Son objeto de este derecho las personas físicas y morales que soliciten y obtengan licencias, permisos o autorizaciones para el funcionamiento de establecimientos y locales en los términos del Artículo anterior.
+
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
+
+ART. 324 Bis- A.- La base de este derecho es el tipo de licencia, permiso o autorización, que se otorgue en la materia ya sea en número de días u horas cuando se trate de permisos eventuales o de funcionamiento en horas extraordinarias en los términos del Reglamento de la Ley Sobre Operación y Funcionamiento de Establecimientos Destinados a la Producción, Distribución, Venta y Consumo de Bebidas Alcohólicas del Estado de Sinaloa, debiendo cubrirse estos derechos por el equivalente al número de veces de salario mínimo general diario vigente en el Estado, en los siguientes términos:
+
+I.- Por el otorgamiento de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán los derechos conforme a la siguiente:
 
 T A R I F A:
 
-CLASE DE PERMISO VECES EL SALARIO
+GIROS CATEGORIA
 
-MINIMO GENERAL DIARIO
+A B C
 
-VIGENTE EN SINALOA
+Licorería 590 590 590
 
-I.- Para la fabricación de
+Supermercado 1471 1176 882
 
-alcohol, bebidas alcohólicas
+Almacén 1911 1471 1323
 
-y cerveza 2 00 a 400
+Cantina 882 882 882
 
-II.- Para el funcionamiento
+Cervecería 705 705 705
 
-de bodegas de alcohol, bebidas
+Bar 1176 1176 1176
 
-alcohólicas y cerveza sin
+Cabaret 1176 1176 1176
 
-venta al público de: 100 a 200
+Centro Nocturno 1176 1176 1176
 
-III.- Para expendios de alcohol, bebidas alcohólicas y cerveza:
+Restaurant c/vta.
 
-a).- En botella cerrada de: 150 a 300
+de cerveza 882 882 882
 
-b).- En botella abierta o al
+Restaurant c/vta.
 
-copeo, de: 200 a 450
+de cerveza y vino 882 882 882
 
-IV.- Para el transporte de
+Restaurant c/vta.
 
-alcohol, bebidas alcohólicas y
+de cerveza, vinos
 
-cerveza, por cada vehículo
+y licores 882 882 882
 
-autorizado, de: 5 a 25
+Restaurant con
 
-V.- Por el otorgamiento de
+bar anexo 1176 1176 1176
 
-permiso eventual para la venta
+Club Social 735 735 735
 
-de bebidas alcohólicas y cerveza,
+Salón de baile o
 
-por día, de: 10 a 75
+de fiesta 882 882 882
 
-Cuando la apertura del establecimiento tenga lugar dentro de los tres últimos meses del año, el permiso o licencia requeridos causará una cuota en proporción del 50 por ciento de la que corresponda conforme a la tarifa anterior, sin perjuicio de la obligación de revalidar dicho permiso dentro de los primeros tres meses del siguiente año y de cubrir la cuota de revalidación respectiva.
+II.- Por la revalidación anual de licencias de funcionamiento de establecimientos para la venta al menudeo y/o consumo de bebidas alcohólicas, se causarán derechos conforme a la siguiente:
 
-La cuota aplicable entre la mínima y la máxima de la tarifa anterior, será determinada por las autoridades fiscales tomando en cuenta la importancia del establecimiento y de la población, así como la ubicación del negocio.
+T A R I F A:
+
+GIROS CATEGORIA
+
+A B C
+
+Licorería 70 70 70
+
+Supermercado 147 136 126
+
+Almacén 236 203 171
+
+Cantina 153 126 115
+
+Cervecería 103 85 85
+
+Bar 153 126 126
+
+Cabaret 126 103 103
+
+Centro Nocturno 203 171 153
+
+Restaurant c/vta.
+
+de cerveza 106 85 85
+
+Restaurant c/vta.
+
+de cerveza y vinos 106 85 85
+
+Restaurant c/vta.
+
+de cerveza, vinos y
+
+licores 147 132 119
+
+Restaurant con
+
+bar anexo 163 163 163
+
+Club Social 126 103 103
+
+Salón de baile o
+
+de fiesta 126 103 103
+
+III.- Por la autorización de horario extraordinario para el funcionamiento de establecimientos con venta y/o consumo de bebidas alcohólicas, por cada hora se causarán derechos conforme a la siguiente:
+
+T A R I F A:
+
+GIROS CATEGORIA
+
+A B C
+
+Licorería 0.15 0.15 0.15
+
+Cantina 0.17 0.17 0.17
+
+Cervecería 0.15 0.15 0.15
+
+Restaurant c/vta.
+
+de cerveza 0.36 0.36 0.36
+
+Restaurant c/vta.
+
+de cerveza y
+
+vinos 0.39 0.39 0.39
+
+Restaurant c/vta.
+
+de cerveza,
+
+vinos y licores 0.42 0.42 0.42
+
+Restaurant con
+
+bar anexo 0.74 0.74 0.74
+
+Bar 0.74 0.74 0.74
+
+Supermercado 0.39 0.20 0.17
+
+Cabaret 0.49 0.43 0.43
+
+Centro Nocturno 0.81 0.75 0.70
+
+Club Social 0.49 0.40 0.40
+
+Sala de fiesta 0.40 0.35 0.30
+
+IV.- Por el otorgamiento de permisos eventuales para el funcionamiento de establecimientos para la venta y/o consumo de bebidas alcohólicas por día, se causarán derechos conforme a la siguiente:
+
+T A R I F A:
+
+GIROS CATEGORIA
+
+A B C
+
+Para muestras o
+
+degustaciones 5 4 3
+
+Eventos deportivos, recreativos
+
+y artísticos 200 100 50
+
+Eventos Sociales 50 25 10
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -3857,9 +4093,7 @@ ART. 325.- La revalidación anual de los permisos, licencias y registros de los 
 
 ART. 326.- Para la aplicación de las multas por violaciones a la Ley de la materia, se atenderá a las disposiciones contenidas en dicha Ley.
 
-> <small>(ADICIONADO P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 326 Bis.- En tanto se mantenga en vigor la Coordinación Fiscal con la Secretaría de Hacienda y Crédito Público en materia de Derechos, bajo ninguna circunstancia se hará cobro alguno pro los conceptos contenidos en las Fracciones I,II.III, IV Y V del artículo 324 de esta Ley.
+ART. 326 Bis.- (DEROGADO, P.O. 12 DE AGOSTO DE 1996)
 
 ### CAPITULO XII. Servicio Sanitario
 
@@ -4041,30 +4275,6 @@ ART. 334 TER-G.- Por la verificación del funcionamiento de las empresas y parti
 
 ART. 334 TER-H.- Para la restauración de las áreas alteradas en sus condiciones naturales de las riberas de los ríos, provocadas por el aprovechamiento de éstas, las empresas o particulares pagarán el derecho de restauración por metro cúbico, conforme a la cuota de 0.20 días de salario mínimo general vigente en el Estado.
 
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
-
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
-
-ART. 335 Bis.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
-
-En estos casos se cobrará una cuota anual de 0.5 a 2 Salarios Mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
-
-ART. 336.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 337.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que ésta a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
-
-ART. 338.- Ingresarán también como productos los obtenidos de la venta de formas impresas y ediciones oficiales hechas por el Gobierno del Estado, procediéndose respecto a ellos como corresponda, de acuerdo con lo dispuesto en los artículos anteriores.
-
-ART. 339.- Ingresarán también por este concepto las recuperaciones de créditos otorgados por el Gobierno del Estado, así como los intereses devengados por los mismos siendo aplicable al respecto lo dispuesto para los contratos celebrados con bienes el Estado.
-
-ART. 340.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
-
 ### CAPITULO XVII. Impuesto sobre Primera Venta de Gasolina, Grasas Lubricantes y demás Derivados del Petróleo
 
 ART. 240.- Con fundamento en el Artículo 21 de la Ley Federal del Impuesto sobre Consumo de Gasolina, reformado por Decreto del 28 de Diciembre de 1953, se establece un impuesto sobre los ingresos obtenidos por las operaciones de primera venta de gasolina, grasas, lubricantes y demás derivados del petróleo que se efectúen en el Estado.
@@ -4102,6 +4312,66 @@ ART. 246.- En el caso de que se celebre y entre en vigor alguno de los arreglos 
 ART. 246 Bis.- El Impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO CUARTO. DE LOS PRODUCTOS
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 335.- El producto de la venta, del arrendamiento, de la aparcería y de otros contratos celebrados por el Estado, que tengan como objeto bienes muebles e inmuebles de su patrimonio, se determinarán con arreglo a los respectivos contratos y el pago se hará en la Oficina Recaudadora correspondiente a la ubicación de dichos bienes, salvo que se estipule que se haga directamente en la Secretaría de Hacienda Pública y Tesorería.
+
+> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 1990)</small>
+
+ART. 335 Bis.- Quedan comprendidos dentro de esta clasificación, los ingresos que obtenga el Estado por concepto de arrendamiento de terrenos para la construcción de obras e instalaciones marginales que se realicen dentro del derecho de vía de las carreteras en jurisdicción estatal.
+
+En estos casos se cobrará una cuota anual de 0.5 a 2 Salarios Mínimos por metro cuadrado, independientemente del pago del costo de acceso que afecte a la carretera.
+
+ART. 336.- La Oficina Recaudadora expedirá el recibo oficial de pago correspondiente y rendirá su cuenta al Departamento de control del Ejercicio del Presupuesto, justificando y comprobando las operaciones con los documentos y órdenes concernientes a fin de que quede precisado el origen, motivo legal y monto de cada producto.
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 337.- Los productos que se obtengan de operaciones hechas con bienes producidos o con servicios prestados por establecimientos que dependan del Gobierno del Estado y que sean pagados en los propios establecimientos, se concentrarán a la Secretaría de Hacienda Pública y Tesorería con la documentación a que se refiere el artículo anterior, para que ésta a su vez, rinda la cuenta correspondiente al Departamento de Control del Ejercicio del Presupuesto.
+
+ART. 338.- Ingresarán también como productos los obtenidos de la venta de formas impresas y ediciones oficiales hechas por el Gobierno del Estado, procediéndose respecto a ellos como corresponda, de acuerdo con lo dispuesto en los artículos anteriores.
+
+ART. 339.- Ingresarán también por este concepto las recuperaciones de créditos otorgados por el Gobierno del Estado, así como los intereses devengados por los mismos siendo aplicable al respecto lo dispuesto para los contratos celebrados con bienes el Estado.
+
+ART. 340.- Igualmente ingresarán como productos los ingresos obtenidos de otras unidades de producción pertenecientes al Gobierno del Estado.
+
+### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
+
+ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
+
+ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
+
+ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
+
+T A R I F A
+
+I.- Camarón $ 375.00 Tonelada
+
+II.- Otras Especies 100.00 "
+
+> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
+
+ART. 250.- El pago de este Impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
+
+ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
+
+ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
+
+I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
+
+II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
+
+III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
+
+> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
+
+ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
+
+## TITULO QUINTO. DE LOS APROVECHAMIENTOS
 
 ### CAPITULO UNICO
 
@@ -4165,62 +4435,6 @@ ART. 363.- Cuando la caución se haya otorgado en forma de fianza o en cualquier
 
 ART. 364.- La devolución de los depósitos por cauciones, se harán en los casos previstos en el Artículo 399 del Código de Procedimientos Penales, dentro de los 60 días siguientes a la fecha en que se reciba la orden de devolución del Juez o Tribunal competente.
 
-### CAPITULO XVIII. Impuesto a la Industria Congeladora de Mariscos
-
-ART. 247.- Es objeto de este impuesto la congelación de pescados y mariscos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1979)</small>
-
-ART. 248.- Son sujetos de este impuesto las personas físicas o jurídicas que se dediquen a la explotación de empresas congeladoras de pescados y mariscos, cuando el producto que se congele sea propiedad de quienes efectúen dicha explotación.
-
-ART. 249.- Este impuesto se causará al efectuarse la congelación de los pescados y mariscos objeto de la misma, y al peso neto de los productos procesados, se les aplicará la siguiente:
-
-T A R I F A
-
-I.- Camarón $ 375.00 Tonelada
-
-II.- Otras Especies 100.00 "
-
-> <small>(REFORMADO, P.O. 24 DE AGOSTO DE 1990)</small>
-
-ART. 250.- El pago de este Impuesto se hará por períodos mensuales tomando como base la fecha en que el producto hubiere salido de la Planta Congeladora y deberá enterarse dentro de los primeros veinte días del mes siguiente, en la Oficina Recaudadora correspondiente a la jurisdicción de la empresa congeladora, utilizando las formas que para tal efecto autorice la Secretaría de Hacienda Pública y Tesorería.
-
-ART. 251.- No se causará el Impuesto Estatal sobre Ingresos Mercantiles por la operación de venta que efectúe la empresa congeladora, de aquellos productos por los cuales haya cubierto el impuesto a que se refiere este Capítulo.
-
-ART. 252.- Además de lo establecido en los artículos precedentes de este Capítulo, los causantes de este impuesto están obligados:
-
-I.- A presentar aviso de iniciación de operaciones dentro de los 5 días hábiles siguientes a la iniciación de cada ciclo productivo;
-
-II.- A presentar aviso de terminación de operaciones dentro de los 5 días hábiles siguientes a la terminación de cada ciclo productivo;
-
-III.- A llevar registro de entradas, salidas y existencias de productos a procesar así como de producción, entradas, salidas, ventas y existencias de productos procesados.
-
-> <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1980)</small>
-
-ART. 252 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacineda (sic) y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
-
-## TITULO QUINTO. DE LOS APROVECHAMIENTOS
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
-
-ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
-
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
-
-De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
-
-I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
-
-II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
-
-III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
-
-> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
-
-ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
-
 ### CAPITULO XIX. Impuesto a la Industria Harinera
 
 ART. 253.- Es objeto de este impuesto la producción de harina que se obtenga de la transformación del trigo.
@@ -4260,6 +4474,28 @@ ART. 258.- No se causará el impuesto Estatal sobre Ingresos Mercantiles por la 
 ART. 258 Bis.- El impuesto contenido en este Capítulo, no se causará mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal, celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal.
 
 ## TITULO SEXTO. DE LAS PARTICIPACIONES
+
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 1980)</small>
+
+ART. 365.- Ingresarán por este concepto las participaciones otorgadas o que en lo futuro se otorguen al Estado en Impuestos y otros Ingresos Federales.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1984)</small>
+
+De los ingresos que reciba el Estado por concepto de participaciones federales, corresponden a los Municipios:
+
+I.- El 20% de la suma de los Fondos General y Financiero Complementario de Participaciones;
+
+II.- El 20% de la cantidad que resulte de aplicar el 80% a la recaudación total que obtenga el Estado, por concepto del Impuesto Sobre Tenencia o Uso de Vehículos; y,
+
+III.- El 100% del ingreso que reciba el Estado de la Federación por concepto del Fondo de Fomento Municipal.
+
+> <small>(DEROGADO TERCER PARRAFO, POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE COORDINACION FISCAL DEL ESTADO DE SINALOA, P.O. 15 DE ENERO DE 1990)</small>
+
+ART. 366.- La percepción de las participaciones se regirá por las leyes y convenios que la regulen.
+
+## TITULO SEPTIMO. TASAS ADICIONALES
 
 ### CAPITULO I. Adicional para el Sostenimiento de la Universidad Autónoma de Sinaloa
 
@@ -4341,8 +4577,6 @@ ART. 370 Bis.- Mientras se mantenga en vigor el Convenio de Adhesión al Sistema
 
 ART. 370 Bis 1.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado entre el Gobierno del Estado de Sinaloa y la Secretaría de Hacienda y Crédito Público, para recibir participaciones en los términos de la Ley de Coordinación Fiscal, se suspenden, en lo conducente, las disposiciones fiscales contenidas en los incisos c), d), e), f), m), n), ñ), o) y p) de la Fracc. I del Artículo 367, de este Capítulo, así como el inciso a), de la misma Fracción y Artículo, únicamente por lo que se refiere a los predios ejidales utilizados con fines agrícolas.
 
-## TITULO SEPTIMO. TASAS ADICIONALES
-
 ### CAPITULO II. Adicional Municipal
 
 ART. 371.- Sobre el monto de los impuestos que a continuación se indican, se causará una tasa adicional del 20%, destinada a la Hacienda Pública Municipal:
@@ -4419,13 +4653,17 @@ ART. 381 Bis.- Mientras se mantenga en vigor el anexo No. 3 al Convenio de Adhes
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULO QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
+## TITULO OCTAVO
+
+> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+
 ### CAPITULO UNICO. ART. 382.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-## TITULO OCTAVO
+## TITULO NOVENO
 
-> <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 ### CAPITULO UNICO. ART. 383.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)
 
@@ -4445,7 +4683,7 @@ ART. 390.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL E
 
 > <small>(DEROGADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
-## TITULO NOVENO
+## TITULO DECIMO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4476,10 +4714,6 @@ ART. 400-B.- (DEROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL
 > <small>(DEROGADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
 TITULO ONCEAVO
-
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
-
-## TITULO DECIMO
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR EL ARTICULO TERCERO TRANSITORIO DEL CODIGO FISCAL DEL ESTADO DE SINALOA, P.O. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -4947,121 +5181,81 @@ Se entiende para los efectos de esta Ley, como empresa de nueva creación aquell
 
 Para los efectos de este impuesto no será considerada empresa de nueva creación aquella que efectúe cambio de nombre o razón social, cambio de domicilio, actividad o traspaso de la empresa.
 
-### CAPITULO I. Legalización de Firmas, Certificaciones y expedición de Copias de Documentos
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 12 DE AGOSTO DE 1996)</small>
 
-> <small>(REFORMADO, P.O. 13 DE ABRIL DE 1987)</small>
+### CAPITULO XXVII (SIC). Impuesto Sobre la Prestación de Servicios De Hospedaje
 
-ART. 293.- Los Derechos por concepto de legalización de firmar (sic), certificaciones y expedición de copias de documentos por los funcionarios competentes del estado se causarán conforme a la siguiente:
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-T A R I F A:
+ART. 292 TER.- Es objeto de este impuesto la prestación de servicios de hospedaje, proporcionados a través de Hoteles, Moteles, Albergues, Posadas, Mesones, Hosterías, Campamentos, Paraderos de casas rodantes y otros establecimientos que presten servicios de esa naturaleza dentro del Territorio del Estado, incluyendo los que presten estos servicios bajo la modalidad de tiempo compartido.
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+Para efecto de este impuesto se entiende por prestación de servicios de hospedaje el otorgamiento de albergues y de los servicios inherentes al mismo a cambio de una contraprestación, así como:
 
-CONCEPTO VECES EL SALARIO
+I.- La prestación de servicios bajo el sistema de tiempo compartido o de cualquier otra denominación mediante el que se conceda el uso, goce y demás derechos que se convengan sobre un bien o parte del mismo, ya sea una unidad cierta, considerada en lo individual o una unidad variable dentro de una clase determinada, durante un período específico, a intervalos previamente establecidos, determinados o determinables;
 
-MINIMOGENERAL
+II.- La prestación de servicios de paraderos de casas rodantes, móviles o autotransportables, mediante los que se otorga el espacio e instalaciones para estacionamiento temporal de éstas; así como los servicios de campamento a través de los que se otorgan espacio para acampar.
 
-VIGENTE EN SINALOA
+Este impuesto no se causa por los servicios proporcionados por las casas de hospedaje, excepto las que incluyen en sus servicios la opción de consumir vinos, licores y cerveza. Asimismo, no se considerarán servicios de hospedaje el albergue o alojamiento prestados por Hospitales, Clínicas, Asilos, Conventos, Seminarios o Internados, ni las cuotas que se cobren por mantenimiento en tiempos compartidos adquiridos en propiedad.
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-I.- Legalización de
+ART. 292 TER-A.- Son sujetos de este impuesto las personas físicas o morales que presten los servicios de hospedaje a que se refiere el artículo anterior.
 
-Firmas 1.00
+Los sujetos de este impuesto trasladarán su importe en forma expresa y por separado a las personas que reciban los servicios objeto de este impuesto, y se causará al momento en que se perciba el importe correspondiente a la contraprestación por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, bienes convencionales y cualquier otro concepto de la misma naturaleza.
 
-II.- Certificaciones de firmas en
+Asimismo cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen o comprueben la prestación de estos últimos, se entenderá que el importe de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-Actas Constitutivas de sociedades
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-cooperativas 0.80
+ART. 292 TER-B.- La base gravable de este impuesto será el monto total de la contraprestación por el servicio de hospedaje, sin considerar en todo caso el importe de los alimentos, bebidas alcohólicas y demás servicios relacionados con los mismos conforme al artículo anterior.
 
-III.- Certificados de "No Adeudo" de
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-créditos fiscales 0.25
+ART. 292 TER-C.- El monto del impuesto se determinará aplicando a la base gravable a que alude el artículo anterior la tasa del 2%.
 
-IV.- Certificados de "No Adeudo" por
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-concepto de multas 0.25
+ART. 292 TER-D.- Este impuesto se pagará mediante declaración que deberá presentar el contribuyente en los formatos oficialmente aprobados ante las oficinas autorizadas para ello, dentro de los primeros 15 días de cada mes, debiendo contener dicha declaración la información y demás datos relativos a las altas y operaciones objeto de este impuesto que se hayan realizado en el mes anterior.
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-V.- Certificados del valor fiscal
+ART. 292 TER-E.- Para efectos de este impuesto se entiende que los servicios de hospedaje, se prestan en el Estado, siempre que los bienes objeto del mismo se encuentren dentro de su territorio.
 
-de predios 0.25
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-VI.- Certificados de fechas de pagos
+ART. 292 TER-F.- Las personas físicas y morales que presten los servicios de hospedaje señalados, así como las que tengan a su cargo la administración de sistemas de tiempo compartido, su mantenimiento u operación del establecimiento estarán obligados a lo siguiente:
 
-de créditos fiscales 0.25
+I.- Solicitar su inscripción ante el registro estatal de contribuyentes ante la autoridad fiscal que le corresponda dentro de los 15 días siguientes al inicio de sus operaciones, mediante la forma oficial autorizada para tal efecto y proporcionando la información relacionada con su identidad, su domicilio y aquella que le sea solicitada;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
+II.- Trasladar a los usuarios de sus servicios el impuesto correspondiente y enterarlo a las oficinas autorizadas por los períodos y en las fecha a que se refiere el Artículo 292 TER-D;
 
-VII.- Copias certificadas
+III.- Llevar los controles necesarios que acrediten en forma fehaciente cada uno de los actos de este impuesto;
 
-de documentos por hoja 0.25
+IV.- Presentar ante las oficinas autorizadas para ello en los términos del Código Fiscal del Estado los avisos respectivos en los casos de cambio de nombre, denominación o razón social, domicilio, traslado, traspaso, clausura, fusión, escisión, liquidación o transformación de personas morales, suspensión o reanudación de actividades u obligaciones o cualquier otra circunstancia que modifique los datos aportados por el contribuyente contenidos en el documento de inscripción en los plazos señalados por el citado Código Fiscal.
 
-VIII.- Copias simples de los
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-documentos a que se refiere la
+ART. 292 TER-G.- Las autoridades fiscales estatales podrán estimar presuntivamente este impuesto además de los casos señalados en el Código Fiscal del Estado de Sinaloa cuando:
 
-fracción VI anterior 0.07
+I.- El sujeto de este impuesto, no registre en la contabilidad que deba llevar para efecto de impuestos federales cada uno de los servicios que preste gravados por esta ley;
 
-IX.- Duplicados autógrafos al
+II.- No proporcione la información que la autoridad fiscal le solicite, su contabilidad, comprobantes, registros y demás documentos que la integren;
 
-carbón de los mismos documentos
+III.- Se imposibilite, por cualquier medio, el conocimiento de las operaciones de los servicios objeto de este impuesto.
 
-a que se refiere la
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-fracción VI anterior 0.05
+ART. 292 TER-H.- El importe de lo recaudado por concepto de esta contribución será destinado única y exclusivamente a la promoción turística del Estado de Sinaloa y su administración corresponderá a los fideicomisos que sean necesarios, en los que su comité técnico estará integrado por un representante del Gobierno del Estado, un representante del Ayuntamiento del municipio respectivo y un representante del sector hotelero; asimismo mediante una cuenta especial de contabilidad se destinará la participación que corresponda a cada municipio según lo recaudado en él, verificando el escrupuloso manejo de estos fondos.
 
-X.- Copias simples de los
+La Cuenta Pública estatal correspondiente, en los términos de la presente Ley, deberá reflejar la aplicación que se haga de lo recaudado por este concepto, en base a los programas de promoción turística que al respecto se elaboren para cada municipio.
 
-documentos a que se refiere la
+El Estado entregará al Fideicomiso que corresponda a cada municipio los ingresos captados en cada uno de ellos, en un término de treinta días siguientes al mes en que se deba enterar este impuesto a la Oficina Recaudadora.
 
-fracción VII anterior, por hoja 0.05
+El Fideicomiso correspondiente presentará a la Contaduría Mayor de Hacienda del H. Congreso del Estado, a más tardar en el mes de mayo de cada año, un informe financiero de la aplicación y destino de los recursos entregados por el Gobierno del Estado durante el año inmediato anterior.
 
-XI.- Duplicados autógrafos al carbón
+> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 1996)</small>
 
-de los mismos documentos
-
-a que se refiere la fracción VII anterior
-
-por hoja 0.25
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-XII.- Testimonios notariales
-
-por hoja 3.00
-
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1995)</small>
-
-XIII.- Autorización libros
-
-Protocolo Notariales 5.00
-
-> <small>(ADICIONADA, P.O. 18 DE MARZO DE 1988)</small>
-
-XIV.- Cualquiera otra
-
-certificación que se expida
-
-diferente de las ya
-
-expresadas 1.00
-
-Para la legalización de firmas y expedición de certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos fiscales respectivos.
-
-ART. 294.- No causan los derechos a que se refiere este Capítulo:
-
-I.- Los certificados, copias certificadas y copias simples al carbón que estén gravadas expresamente en otros Capítulos de esta Ley;
-
-II.- Las certificaciones que hagan las copias certificadas o copias simples que expidan las autoridades judiciales;
-
-III.- Las copias certificadas que se expidan a quejosos para ser exhibidas en juicios de amparo promovidos contra actos de la (sic) autoridades del Estado.
-
-En la copia certificada deberá expresarse que su expedición se hace para ser presentada en el juicio de amparo respectivo;
-
-IV.- Los certificados de insolvencia.
+ART. 292 TER-I.- Las infracciones a las disposiciones contenidas en este capítulo serán sancionadas en los términos previstos en el Código Fiscal del Estado.
 
 ## TRANSITORIOS
 
@@ -5408,6 +5602,20 @@ P.O. 25 DE DICIEMBRE DE 1995.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 12 DE AGOSTO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de la adición del capítulo XXVII al Título Segundo de la Ley de Hacienda del Estado; se concede un plazo de 30 días contados a partir de la fecha en que entre en vigor el presente Decreto para que los contribuyentes obligados al pago de este impuesto, que hubieren iniciado operaciones con anterioridad a la vigencia del mismo, presenten su aviso de inscripción ante la Oficina Recaudadora de su domicilio, sin la aplicación de sanciones.
+
+###### ARTICULO TERCERO.
+
+Para la constitución de los Fideicomisos a que se refiere el Artículo 292 TER-H de la Ley de Hacienda del Estado, deberán estar de acuerdo en su contenido las partes que integrarán el Comité Técnico de los mismos, manteniéndose en suspenso el cobro del Impuesto Sobre Prestación de Servicios de Hospedaje en los Municipios que no se constituya el Fideicomiso respectivo.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
