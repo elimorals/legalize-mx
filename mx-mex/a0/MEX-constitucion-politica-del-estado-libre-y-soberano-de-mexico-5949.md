@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "1979-06-28"
+last_updated: "1981-04-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE JUNIO DE 1979.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE ABRIL DE 1981.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -651,11 +651,11 @@ VII.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
 VIII. Decretar el establecimiento y fundación de Nuevos Centros de Población en el Territorio Estatal.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
-IX.- Convocar a elección de Gobernador, Diputados y miembros de los Ayuntamientos y Jueces Menores Municipales, en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de estos funcionarios.
+IX.- Convocar a elección de Gobernador, Diputados y Miembros de los Ayuntamientos, en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de estos funcionarios.
 
-Para el caso de elecciones de Gobernador y Diputados la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de miembros de los Ayuntamientos y Jueces Menores Municipales, sesenta días antes.
+Para el caso de elecciones de Gobernador y Diputados la convocatoria deberá expedirse por lo menos cien días antes de la fecha de la elección y para la de los Miembros de los Ayuntamientos sesenta días antes.
 
 X. Hacer la computación de votos en la elección de Gobernador y declarar electo al ciudadano que hubiere obtenido la mayoría;
 
@@ -1057,9 +1057,9 @@ XXVIII. Aceptar la renuncia de los Magistrados del Tribunal Superior de Justicia
 
 XXIX.- Sujetar a la aprobación de la Legislatura la Ley Orgánica del Poder Ejecutivo.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1966)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
-XXX.- Proponer a la Legislatura del Estado y en sus recesos a la Diputación Permanente, la designación de Ayuntamientos Substitutos, provisionales, de los miembros de los Cuerpos Edilicios y de Jueces Menores Municipales, en los casos previstos por esta Constitución y en las Leyes Orgánicas respectivas.
+XXX.- Proponer a la Legislatura del Estado y en sus recesos a la Diputación Permanente, la designación de Ayuntamientos Substitutos provisionales y de los miembros de los Cuerpos Edilicios, en los casos previstos por esta Constitución y en las Leyes Orgánicas respectivas.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1201,6 +1201,8 @@ Para cubrir las faltas absolutas de los Magistrados, los substitutos designados 
 
 #### SECCION PRIMERA. DEL EJERCICIO DEL PODER JUDICIAL
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE ABRIL DE 1981)</small>
+
 ###### Artículo 106.
 
 Aunque los Magistrados no se presenten a tomar posesión de sus cargos en el término en que deban hacerlo, cesarán sin embargo los anteriores, entrando desde luego en funciones los que se presenten, y en lugar de aquellos, los suplentes respectivos con arreglo a las Leyes relativas.
@@ -1225,13 +1227,13 @@ I.- Iniciar leyes en todo lo relativo a la Administración de Justicia.
 
 II. Declarar si ha o no lugar a formación de causa a los Secretarios del Tribunal y resolver, sin recursos ulterior, como Jurado de sentencia las causas de responsabilidad por delitos oficiales que hayan de formarse contra el Gobernador, Diputados, Magistrados, Jueces de primera Instancia, Procurador General de Justicia y Secretario General de Gobierno u Oficial Mayor en su caso, previa la correspondiente declaración de la Legislatura;
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
-III.- Nombrar a los Jueces de Primera Instancia y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución.
+III. Nombrar a los Jueces de Primera Instancia y Menores Municipales y recibir la protesta a que se refiere el Artículo 171 de la presente Constitución;
 
-> <small>(ADICIONADA, P.O. 30 DE ENERO DE 1975)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
-IV. Decretar los casos de los Jueces de Primera Instancia.
+IV.- Decretar los ceses de los Jueces de Primera Instancia y Menores Municipales;
 
 V.- (DEROGADA, P.O. 1 DE ENERO DE 1955)
 
@@ -1243,19 +1245,9 @@ VI.- Dirimir las competencias de jurisdicción que se susciten ente los Jueces d
 
 VII.- Elaborar el Reglamento Interior del Tribunal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADA, P.O. 4 DE ABRIL DE 1981)</small>
 
-VIII.- Conceder licencia a los Jueces de Primera Instancia hasta por tres meses, nombrando, en su caso, los substitutos respectivos.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
-
-a).- Remover a los Jueces, acordando su traslado a otro Distrito Judicial, cuando así lo exija el servicio público, a juicio del Tribunal o lo solicite el Gobernador del Estado.
-
-b).- (DEROGADO, P.O. 1 DE ENERO DE 1955)
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 1941)</small>
-
-c).- Nombrar a todos los funcionarios y empleados del Ramo Judicial, a propuesta de los titulares de las oficinas correspondientes y removerlos cuando, a juicio del Tribunal, hubiere causa motivada.
+VIII.- Conceder licencias a los Jueces de Primera Instancia y Menores Municipales, con arreglo a la Ley Orgánica respectiva.
 
 IX. Ejercer las demás atribuciones que le señale la ley orgánica respectiva.
 
@@ -1303,15 +1295,35 @@ Todo negocio judicial, sea criminal o del orden civil, no podrá tener más que 
 
 (DEROGADO, P.O. 1 DE ENERO DE 1955)
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
 
 ###### Art. 114.
 
-Los Magistrados y Jueces de Primera Instancia están impedidos para el ejercicio de la abogacía y no podrán desempeñar cualquier otro cargo empleo o comisión oficiales que sean remunerados e incompatibles con su función.
+Los Magistrados, Jueces de Primera Instancia y Jueces Menores Municipales están impedidos para el ejercicio de la abogacía y no podrán desempeñar cualquier otro cargo, empleo o comisión oficiales, que sean remunerados e incompatibles con su función.
 
-#### SECCION CUARTA. DEL MINISTERIO PUBLICO
+#### SECCION TERCERA BIS. DE LOS JUECES MENORES MUNICIPALES
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+
+Art. 118 a).- En cada Municipio, la Administración de Justicia estará a cargo de uno o más funcionarios designados por el Tribunal Superior de Justicia, que se denominarán Jueces Menores Municipales y que durarán en su encargo seis años.
+
+La Ley orgánica relativa determinará el número de Jueces Menores Municipales que deba haber en cada Municipio.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+
+Art. 118 b).- Para ser Juez Menor Municipal, se requiere:
+
+Ser ciudadano Mexicano, mayor de edad, sin antecedentes penales, vecino y residente del Municipio y en ejercicio de sus derechos civiles.
+
+En los casos de Cabeceras Distritales Judiciales o en las poblaciones en que haya más de 300,000 habitantes los Jueces Menores Municipales deberán ser Licenciados en Derecho o Pasantes de Derecho, en la medida que las circunstancias de cada lugar lo permitan.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+
+Artículo 118 c).- Los Jueces Menores Municipales se considerarán, independientemente de la competencia que la Ley respectiva les asigne, como auxiliares de los Jueces de Primera Instancia y del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, P.O. 4 DE ABRIL DE 1981)</small>
+
+Art. 118 d).- Los Jueces Menores Municipales ejercerán sus funciones dentro de los Municipios y Localidades a que pertenezcan respectivamente y con la competencia que les señale la Ley Orgánica del Poder Judicial y demás Leyes aplicables.
 
 ###### Art. 115.
 
@@ -1333,11 +1345,15 @@ Los Jueces de Primera Instancia, para los efectos de su nombramiento, deberán r
 
 En cada Distrito Judicial habrá un Juez, o los Jueces necesarios de Primera Instancia, que conocerán de los asuntos civiles y penales que correspondan a la jurisdicción de su Distrito.
 
-#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE ABRIL DE 1981)</small>
+
+#### SECCION CUARTA. DEL MINISTERIO PUBLICO
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
-#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
+#### SECCION PRIMERA. DE LA CONSTITUCION DE LOS AYUNTAMIENTOS
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
 
 ###### Art. 119.
 
@@ -1371,7 +1387,7 @@ El Tribunal Superior de Justicia se compondrá de seis Magistrados numerarios y 
 
 ###### Art. 100.
 
-Se deposita el ejercicio del Poder Judicial del Estado, en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia y en los Jueces de primera Instancia.
+Se deposita el ejercicio del Poder Judicial del Estado en un Cuerpo Colegiado que se denominará Tribunal Superior de Justicia, en los Jueces de Primera Instancia y los Jueces Menores Municipales.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1970)</small>
 
@@ -1389,11 +1405,11 @@ Para el mejor despacho de los asuntos de la competencia del Tribunal Superior de
 
 ### CAPITULO PRIMERO. DE LAS AUTORIDADES ENCARGADAS DE LA ADMINISTRACION PUBLICA DE LOS MUNICIPIOS
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
 
 ###### Art. 133.
 
-La Administración Pública interior de los Municipios se ejercerá por los Ayuntamientos, los Presidentes Municipales, los Jueces Menores Municipales y Jueces Populares.
+La administración pública interior de los Municipios se ejercerá por los Ayuntamientos y los Presidentes Municipales.
 
 ###### Art. 134.
 
@@ -1407,7 +1423,7 @@ El Tribunal Superior de Justicia nombrará a los Jueces de Primera Instancia, lo
 
 ### CAPITULO SEGUNDO. DE LOS AYUNTAMIENTOS
 
-#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
+#### SECCION SEGUNDA. DE LAS ATRIBUCIONES DEL AYUNTAMIENTO
 
 ###### Art. 135.
 
@@ -1473,7 +1489,7 @@ II.- Los empleados públicos dependientes de la Federación.
 
 III. Los ministros de cualquier culto.
 
-#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
+#### SECCION TERCERA. DE LOS PRESIDENTES MUNICIPALES
 
 ###### Art. 142.
 
@@ -1527,11 +1543,11 @@ Para que el Ayuntamiento pueda celebrar sesiones, será indispensable la concurr
 
 Los Ayuntamientos resolverán los asuntos de su incumbencia por la mayoría de votos de sus miembros presentes.
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
 
 ###### Art. 153.
 
-El cargo de miembro del Ayuntamiento y de Juez Menor Municipal no es renunciable sino por causa grave que calificará el Ayuntamiento, ante el que se presentara la renuncia y quien conocerá también de las licencias de sus miembros y de las de los Jueces Menores Municipales.
+El cargo de miembro del Ayuntamiento no es renunciable, sino por causa grave que calificará el Ayuntamiento ante el que se presentará la renuncia y quien conocerá también de las licencias de sus miembros.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE ENERO DE 1955)</small>
 
@@ -1547,11 +1563,7 @@ III. Imponer contribuciones que no estén especificadas en su respectiva ley de 
 
 IV. Conceder licencias para juegos de azar.
 
-#### SECCION QUINTA
-
-DE LOS JUECES MENORES MUNICIPALES Y JUECES POPULARES.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+#### SECCION CUARTA. DEL DESPACHO DE LOS ASUNTOS MUNICIPALES
 
 ###### Art. 155.
 
@@ -1563,17 +1575,13 @@ II. Ejecutar dentro del Municipio las leyes Federales y del Estado y todas las d
 
 III. Ser el órgano de comunicación de los Ayuntamientos que presiden con los demás Ayuntamientos y con el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1972)</small>
-
-IV. Ejecutar con arreglo a las Leyes, las resoluciones dictadas por los Jueces Menores Municipales y los Jueces Populares.
+IV.- (DEROGADA, P.O. 4 DE ABRIL DE 1981)
 
 > <small>(ADICIONADA, P.O. 4 DE JULIO DE 1973)</small>
 
 V.- Asumir la representación jurídica del Municipio en los casos señalados por la Ley.
 
-#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+#### SECCION QUINTA
 
 ###### Art. 156.
 
@@ -1589,63 +1597,41 @@ II.- Autorizar con su firma en unión de la del Presidente Municipal, las dispos
 
 III. Todas las demás que determinen las respectivas leyes reglamentarias.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 16 DE DICIEMBRE DE 1972)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 4 DE ABRIL DE 1981)</small>
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
+#### SECCION SEXTA. DE LAS RESPONSABILIDADES DE LOS FUNCIONARIOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 4 DE ABRIL DE 1981)</small>
 
 ###### Art. 157.
 
-La Administración de Justicia en cada Municipio estará a cargo de uno o más funcionarios de elección popular directa, que se denominarán Jueces Menores Municipales, y de los Jueces Populares que serán nombrados por el Ayuntamiento correspondiente, auscultando la opinión de los diversos sectores de la población. Estos últimos sólo funcionarán cuando en concepto del propio Ayuntamiento y atentas las necesidades y capacidad económica del Municipio lo requiera, y en el número que sean necesarios; los primeros con residencia en la Cabecera Municipal cuando sólo sea un Juez y en la Cabecera y Poblaciones que estime necesario el Tribunal Superior de Justicia, oyendo el parecer del correspondiente Ayuntamiento cuando sea más de uno; los segundos con residencia en la Cabecera Municipal y localidades que estime conveniente el propio Ayuntamiento.
-
-La Ley Orgánica correctiva determinará el número de Jueces Menores Municipales que deba haber en cada Municipio.
-
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1966)</small>
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
 ###### Art. 158.
 
-Por cada Juez Menor Municipal Propietario habrá dos Suplentes que llevarán su respectivo número de orden. Cuando ocurra falta absoluta o temporal del Juez Propietario y de los Jueces Suplentes, la Legislatura o la Diputación Permanente hará la designación de un substituto a propuesta del Ejecutivo.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
-
-Por cada Juez Popular habrá un Suplente que por falta absoluta o temporal substituirá al Propietario.
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 1955)</small>
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
 ###### Art. 159.
 
-Los Jueces Menores Municipales Propietarios y Suplentes serán electos al mismo tiempo que los Ayuntamientos y durarán tres años en su encargo.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
-
-Los Jueces Populares serán nombrados dentro del primer mes del ejercicio constitucional de cada Ayuntamiento.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
 ###### Art. 160.
 
-Para ser Juez Menor Municipal se requiere:
-
-Ser ciudadano mexicano, mayor de edad y vecino del Municipio, en ejercicio de sus derechos; los Jueces Menores Municipales de los Municipios que sean Cabeceras Distritales Judiciales y los que tengan más de 300,000 habitantes, deberán ser Licenciados en Derecho o pasantes de Derecho, este último requisito operará en la medida en que las circunstancias de cada lugar lo permitan.
-
-Para ser Juez Popular se requieren los mismos requisitos, excepto el de tener título de Licenciado en derecho o Pasante.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
 ###### Art. 161.
 
-Los Jueces Menores Municipales y Jueces Populares se considerarán como auxiliares de los Jueces y Tribunales del Estado y desempeñarán las funciones que unos y otros les encarguen, con arreglo a las Leyes, lo mismo en materia civil que en materia penal.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 1972)</small>
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
 ###### Art. 162.
 
-Los Jueces Menores Municipales y Jueces Populares ejercerán sus funciones dentro de los Municipios y Localidades a que pertenecen respectivamente, con la competencia que les señale la Ley Orgánica del Poder Judicial, la Ley Orgánica Municipal y demás Leyes del Estado.
+(DEROGADO, P.O. 4 DE ABRIL DE 1981)
 
-#### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DEL ESTADO
 
 ###### Art. 163.
 
-Los Presidentes y Jueces Menores Municipales, así como los Jueces Populares, son responsables por los delitos y faltas oficiales que cometen durante el tiempo de su encargo.
+Los Presidentes Municipales son responsables por los delitos y faltas oficiales que cometan durante el tiempo de su encargo.
 
 > <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1935)</small>
 
@@ -1747,7 +1733,7 @@ El desempeño de las funciones de Procurador General, Sub-Procurador y Agente de
 
 ### CAPITULO SEGUNDO. BASES DE LA ORGANIZACION DE LA HACIENDA PUBLICA DEL ESTADO
 
-#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
+#### SECCION SEGUNDA. DIRECCION GENERAL DE HACIENDA
 
 ###### Art. 177.
 
@@ -1761,7 +1747,7 @@ II. De las contribuciones de carácter general que decrete la Legislatura.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 1 DE ENERO DE 1955)</small>
 
-#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
+#### SECCION PRIMERA. DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
 
 ###### Art. 178.
 
@@ -2098,6 +2084,8 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 G.G. 10 DE NOVIEMBRE DE 1923.
 
 ### CAPITULO TERCERO. BASES DE ORGANIZACIÓN DE LA HACIENDA PUBLICA DE LOS MUNICIPIOS
+
+#### SECCION SEGUNDA. DE LAS TESORERIAS MUNICIPALES
 
 ###### Art. 183.
 
@@ -2477,10 +2465,16 @@ G.G. 28 DE JUNIO DE 1979.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-###### ARTICULO SEGUNDO.
+G.G. 4 DE ABRIL DE 1981.
+
+###### ARTICULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado.
 
-G.G. 31 DE ENERO DE 1976.
+###### ARTICULO SEGUNDO.
 
-DECRETO NUMERO 38, POR EL QUE SE REFORMA EL ARTICULO 120 DE LA CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MEXICO.
+Los Jueces Menores Municipales en funciones, seguirán conociendo de los asuntos a su cargo, hasta el término de su gestión.
+
+###### ARTICULO TERCERO.
+
+Los asuntos en trámite ante los Jueces Populares serán del conocimiento del Juez Menor Municipal que corresponda, según su adscripción.
