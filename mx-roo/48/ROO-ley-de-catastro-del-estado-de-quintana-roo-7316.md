@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-catastro-del-estado-de-quintana-roo-7316"
 country: "mx"
 rank: "ley"
 publication_date: "1975-11-29"
-last_updated: "1975-11-29"
+last_updated: "1987-09-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7316&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE CATASTRO DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1987.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 29 de noviembre de 1975.
 
@@ -463,6 +463,12 @@ Las dudas que sobre la interpretación o aplicación de esta Ley y su Reglamento
 
 Las resoluciones a los proyectos de delimitación de perímetros urbanos, zonas sub-urbanas, y división de zonas urbanas en regiones catastrales y secciones A, B y C, deberán publicarse en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 17 DE SEPTIEMBRE DE 1987)</small>
+
+###### ARTICULO 53.
+
+Los Ayuntamientos del Estado podrán realizar trabajos en materia catastral especialmente en las funciones de valuación de predios, deslindes, certificaciones y expediciones de cédulas catastrales mediante Convenio que al efecto celebren con el Ejecutivo del Estado, por el cual se les otorgará la facultad de realizar funciones catastrales en el ámbito de su competencia y conforme a la capacidad técnica, financiera y material de cada Municipio.
+
 ARTICULO TRANSITORIOS:
 
 PRIMERO.- La presente Ley entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
@@ -472,3 +478,9 @@ SEGUNDO.- Se derogan todas las leyes y disposiciones que se opongan a la present
 Dado en el Salón de Sesiones de la Primera Legislatura Constitucional del Estado Libre y Soberano de Quintana Roo, en la Ciudad de Chetumal, Capital del mismo a los veintidós días del mes de noviembre de mil novecientos setenta y cinco.- Presidente, Dip. Enrique Lima Zuno.- Rúbrica.- Secretario.- Dip. Carlos Fco. Sosa H.- Rúbrica.
 
 DADO en la residencia del Poder Ejecutivo del Estado, a los 28 días del mes de Noviembre de mil novecientos setenta y cinco.- EL Gobernador Constitucional del Estado, Lic. Jesús Martínez Ross.- Rúbrica.- El Secretario de Gobierno, Lic. Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Finanzas, Jorge Marzuca Ferreiro.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 1987.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
