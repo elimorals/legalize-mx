@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2001-12-25"
+last_updated: "2002-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ENERO DEL 2002.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -649,13 +649,19 @@ Al abrirse el período de sesiones siguiente a la visita, los Diputados presenta
 
 ### CAPITULO III. De las facultades del Congreso
 
+###### ARTICULO 28.
+
+(DEROGADO, P.O. 25 DE OCTUBRE DE 1997)
+
+(REUBICADO [N. DE E. ANTES ARTICULO 28], P.O. 9 DE SEPTIEMBRE DE 1978)
+
 ###### Art. 58.
 
 Son facultades del Congreso:
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
-I. Expedir, reformar y derogar las Leyes y Decretos que regulan el ejercicio del Poder Público;
+I.- Expedir, reformar y derogar las Leyes y Decretos que regulan el ejercicio del Poder Público;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
 
@@ -755,7 +761,7 @@ XXIX. Expedir la Ley sobre el número máximo de Ministros de Cultos a que le fa
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
-XXX.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
+XXX. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaratoria de Gobernador electo que hubiere hecho el Consejo Estatal Electoral;
 
 > <small>(REFORMADA, P.O. 25 DE OCTUBRE DE 1997)</small>
 
@@ -1065,24 +1071,6 @@ El Poder Ejecutivo se deposita en un ciudadano que se denominará "Gobernador Co
 
 > <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
 
-ART. 78.- Para ser Gobernador se requiere:
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-I.- Que el candidato esté en pleno goce de los derechos de ciudadanía de acuerdo con los Artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los Artículos 37 y 38 de la misma Constitución;
-
-II.- Ser mexicano de nacimiento;
-
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2001)</small>
-
-III.- Ser nativo del Estado, o con residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;
-
-IV.- Ser mayor de treinta años de edad el día de la elección; y
-
-V.- Poseer suficiente instrucción.
-
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
-
 ###### Art. 78.
 
 Para ser Gobernador se requiere:
@@ -1239,11 +1227,11 @@ XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes 
 
 XIII. Proponer a la Diputación Permanente la convocación del Congreso a sesiones extraordinarias.
 
-> <small>(ADICIONADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(ADICIONADA, P.O.8 DE JULIO DE 1999)</small>
 
 XIV.- Enviar al Congreso del Estado, para su aprobación, las propuestas para designar a los Magistrados de número del Supremo Tribunal de Justicia, de acuerdo con lo dispuesto por los artículos 58 fracción XXI; 106, 108 y 111, de esta Constitución;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquéllos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;
 
@@ -1439,19 +1427,19 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 100.
 
 El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores y en el Jurado Popular.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 101.
 
 La potestad de impartir justicia mediante la aplicación de las leyes en lo familiar, civil y penal, así como de aquellas otras que pudieran corresponderle, pertenece al Poder Judicial, el cual actuará de manera independiente, imparcial, responsable y sometida únicamente al imperio de la ley. Ningún otro poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 102.
 
@@ -1459,25 +1447,25 @@ Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente 
 
 La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 103.
 
 En los términos que disponen las leyes, es obligatorio para los servidores públicos y para los gobernados, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de los Magistrados y de los Jueces; así como prestar la colaboración solicitada por éstos en el curso del proceso y en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine para tal efecto.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 104.
 
 Los servidores públicos del Poder Judicial del Estado, al entrar a ejercer su encargo, deberán rendir la protesta de ley. Los Magistrados lo harán ante el Congreso del Estado y los Jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 105.
 
 Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 106.
 
@@ -1501,7 +1489,7 @@ El Poder Judicial constituirá un Fondo Auxiliar para la Administración de Just
 
 El Ejecutivo del Estado cuidará que las cantidades que integren este Fondo se entreguen trimestralmente al Poder Judicial, quien a través de su Presidente tendrá la obligación de dar a conocer lo recaudado en el año anterior, al rendir el informe anual sobre el estado que guarda la administración de justicia, y dentro de los informes trimestrales de cuenta pública correspondientes, los que deberá remitir dentro de la segunda quincena del mes siguiente a la terminación de cada trimestre, para su revisión por el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 108.
 
@@ -1511,13 +1499,13 @@ En caso de encontrarse en receso el Congreso del Estado, la Diputación Permanen
 
 Los Magistrados y Jueces serán nombrados preferentemente entre aquellas personas que hayan prestado sus servicios con eficacia y probidad en la administración de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 109.
 
 La ley establecerá las bases para la formación y actualización de los servidores públicos del Poder Judicial. Deberá prever la creación de un Centro de Actualización Jurídica para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia. También regulará los sistemas de ascenso, escalafón y provisión de vacantes, además de reglamentar lo relativo al examen de oposición o concurso de méritos, como requisito de ingreso al Poder Judicial.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 110.
 
@@ -1539,27 +1527,27 @@ Los Magistrados solo podrán ser removidos de su encargo por el Congreso del Est
 
 Para ser Magistrado del Supremo Tribunal de Justicia se requiere:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 I.- Ser ciudadano en pleno ejercicio de sus derechos políticos y civiles; mexicano por nacimiento; nativo del Estado o con residencia en el mismo por más de cinco años ininterrumpidos e inmediatamente anteriores a la fecha de la designación, salvo el caso de ausencia en cumplimiento de un servicio público;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 II.- Ser mayor de 35 y menor de 65 años el día de la designación;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 III.- Poseer título profesional de Licenciado en Derecho o su equivalente, expedido por lo menos con diez años de anterioridad al día de la designación, por autoridad o institución legalmente facultada para ello;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 IV.- No haber ocupado, por lo menos un año antes de la fecha de la designación, los cargos de Gobernador, Secretario de Despacho del Ejecutivo, Procurador General de Justicia, Senador, Diputado Federal o Diputado Local; y
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O.8 DE JULIO DE 1999)</small>
 
 V.- Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, peculado, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 112.
 
@@ -1567,13 +1555,13 @@ No podrán formar parte del Supremo Tribunal de Justicia dos o más Magistrados 
 
 Ningún servidor público del Poder Judicial, aun con licencia, podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador, ni desempeñar ningún otro empleo, cargo o comisión, ya sea público o privado, por el que reciba remuneración alguna; salvo los casos de docencia, investigación, literatura o beneficencia. Quien contravenga esta disposición será separado de su encargo, de acuerdo al trámite que disponga la ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 113.
 
 Las faltas temporales y definitivas de los Magistrados serán cubiertas en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 114.
 
@@ -1645,13 +1633,13 @@ XXXI.- Imponer correcciones disciplinarias a los abogados, agentes de negocios, 
 
 XXXII.- Las demás facultades y obligaciones que las leyes le otorguen.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 115.
 
 En los casos de retiro forzoso, jubilación, incapacidad o defunción, las prestaciones a los servidores públicos del Poder Judicial se cubrirán en los términos que determinen las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 116.
 
@@ -1659,7 +1647,7 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 ### CAPITULO II.. DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 117.
 
@@ -1677,7 +1665,7 @@ Los Jueces de Primera Instancia y los Menores serán nombrados por el Supremo Tr
 
 Los Juzgados Menores funcionarán en aquellos Municipios que el Pleno del Supremo Tribunal de Justicia considere necesario.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 120.
 
@@ -1691,7 +1679,7 @@ Para su modificación el Presidente del Supremo Tribunal de Justicia propondrá 
 
 Los Juzgados de Primera Instancia y los Menores serán sostenidos por el Poder Judicial del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 122.
 
@@ -1699,7 +1687,7 @@ Los Jueces de Primera Instancia y Menores serán los necesarios para el despacho
 
 Los Jueces de Primera Instancia durarán en su encargo tres años. Podrán ser ratificados por períodos iguales por el Pleno del Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O.8 DE JULIO DE 1999)</small>
 
 ###### Art. 123.
 
@@ -1731,19 +1719,47 @@ El Congreso en el segundo período de sesiones, se ocupará en discutir y decret
 
 ###### Art. 124.
 
-El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
+La institución del Ministerio Público representa los intereses de la sociedad conforme a las atribuciones que le confiere esta Constitución y demás leyes.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
+Son atribuciones del Ministerio Público:
+
+I.- Intervenir, ejerciendo la acción penal, en todos los juicios de este orden;
+
+II.- Cuidar que se ejecuten las penas impuestas por los Tribunales, exigiendo, de quien corresponda y bajo su responsabilidad el cumplimiento de las sentencias recaídas;
+
+III.- Intervenir en los juicios y diligencias que se relacionen con ausentes, menores, incapacitados o establecimientos de beneficencia pública, a los que representará, siempre que no tuvieren quién los patrocine, velando por sus intereses;
+
+IV.- Rendir a los Poderes del Estado y a las Comisiones Nacional y Estatal de Derechos Humanos, los informes que le soliciten sobre asuntos relativos a su ramo; en el caso de esta última, únicamente en asuntos de su competencia;
+
+V.- Organizar y controlar a la Policía Ministerial del Estado, que estará bajo su autoridad y mando inmediato;
+
+VI.- Velar por la exacta observancia de las leyes de interés general;
+
+VII.- Procurar que se hagan efectivas las responsabilidades penales en que incurran los servidores públicos;
+
+VIII.- La persecución ante los Tribunales de los delitos del orden común; y por lo mismo, a él le corresponde recibir las denuncias, acusaciones o querellas, tanto de las autoridades como de los particulares; investigar los hechos objeto de las mismas, ejercitar la acción penal contra los inculpados, solicitando en su caso su aprehensión o comparecencia; allegar al proceso las pruebas que acrediten el cuerpo del delito y la responsabilidad de los acusados; impulsar la secuela del procedimiento; y, en su oportunidad, pedir la aplicación de las penas que correspondan;
+
+IX.- Cuidar que los juicios del orden penal se sigan con toda regularidad para que la administración de justicia sea pronta y expedita;
+
+X.- Investigar las detenciones arbitrarias y otros abusos de autoridad que se cometan, adoptando las medidas necesarias para hacerlas cesar de inmediato, sin perjuicio de proveer lo conducente al castigo de los responsables;
+
+XI.- Promover la conciliación entre las partes en los delitos perseguibles por querella necesaria; y
+
+XII.- Las demás que le señalen las leyes.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
 
 ###### Art. 125.
 
-Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
+El Ministerio Público estará integrado por un Procurador General de Justicia que lo presidirá, SubProcuradores, Directores, Agentes y demás servidores públicos que determine la Ley Orgánica.
 
-Una Ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
+La Ley Reglamentaria organizará al Ministerio Público, cuyos integrantes serán nombrados y removidos por el Ejecutivo del Estado.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1993)</small>
 
 ### CAPITULO I.. Del Ministerio Público
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DEL 2002)</small>
 
 ###### Art. 126.
 
@@ -2387,7 +2403,7 @@ P.O. 27 DE MARZO DE 1943.
 
 ###### Artículo 1º.
 
-Se abroga el Decreto 223 de fecha 13 de enero de 1942.
+Se abroga el Decreto 223 de fecha 13 e enero de 1942.
 
 ###### Artículo 2º.
 
@@ -2831,7 +2847,7 @@ P.O. 31 DE DICIEMBRE DE 1983.
 
 PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
 
-SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
+SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Articulo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -3103,21 +3119,11 @@ Las cuentas públicas relativas al ejercicio fiscal de 2002 y posteriores serán
 
 La recepción del informe por el Pleno del Supremo Tribunal de Justicia, por parte de su Presidente, será a partir del que se rinda en el año 2002 y comprenderá el ejercicio del año 2001.
 
+P.O. 30 DE ENERO DEL 2002.
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor el 1o. de enero de 1987.
-
-D.O.F. 17 DE MARZO DE 1987.
-
-DECRETO QUE REFORMA LOS ARTÍCULOS 17, 46, 115 Y 116.
-
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO.- Las legislaturas de los estados, en el plazo de un año, computado a partir de la vigencia de este Decreto, procederán a reformar y adicionar las constituciones y leyes locales, para proveer el debido cumplimiento de las disposiciones de este Decreto.
-
-D.O.F. 17 DE MARZO DE 1987.
-
-DECRETO QUE REFORMA EL PÁRRAFO SEXTO DE LA FRACCIÓN IV DEL ARTÍCULO 74.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
