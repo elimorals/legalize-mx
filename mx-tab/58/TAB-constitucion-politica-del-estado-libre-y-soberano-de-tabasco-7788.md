@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1992-01-25"
+last_updated: "1992-11-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE ENERO DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1992.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -750,6 +750,18 @@ XX.- Las demás que le confiera esta Constitución y la Federal.
 Para el despacho de los asuntos de la Administración Pública del Estado, habrá el número de dependencias que establezca la Ley Orgánica del Poder Ejecutivo, que distribuirá las funciones que a cada una corresponda y señalará los requisitos que el Gobernador observará para nombrar los titulares de las mismas.
 
 El Ministerio Público se organizará y funcionará de acuerdo con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos y las leyes correspondientes.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1992)</small>
+
+Existirá una Comisión de Derechos Humanos como organismo público descentralizado, cuya finalidad será la protección, promoción y difusión de los Derechos Humanos establecidos tanto por la Constitución General de la República, los Tratados y Convenciones que sobre esta materia haya celebrado o celebre el Estado Mexicano, así como los consagrados en la presente Constitución. Para cumplimiento de lo anterior, esta Comisión conocerá de quejas en contra de los actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del Estado, con excepción de los del Poder Judicial, que violen estos derechos. Formulará recomendaciones públicas autónomas, no vinculatorias, y en su caso, canalizará denuncias y quejas ante las autoridades respectivas.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1992)</small>
+
+Dicho organismo no será competente para conocer de asuntos electorales, laborales y jurisdiccionales.
+
+> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 1992)</small>
+
+La ley que cree a la referida Comisión, garantizará su autonomía y establecerá la organización adecuada para su óptimo funcionamiento.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -1616,3 +1628,11 @@ P.O. 25 DE ENERO DE 1992.
 PRIMERO: Las reformas a que se refiere este decreto, fueron aprobadas en los términos del artículo 83 de la propia Constitución.
 
 SEGUNDO: El presente decreto surtirá sus efectos legales a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 7 DE NOVIEMBRE DE 1992.
+
+PRIMERO: Las reformas a que se refiere este Decreto, fueron aprobadas en los términos del Artículo 83 de la propia Constitución.
+
+SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+TERCERO: La Legislatura del Estado contará con un término de 120 días, a partir de la publicación de este decreto, para emitir la Ley Reglamentaria.
