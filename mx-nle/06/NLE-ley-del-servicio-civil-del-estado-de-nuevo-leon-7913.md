@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-servicio-civil-del-estado-de-nuevo-leon-7913"
 country: "mx"
 rank: "ley"
 publication_date: "1948-06-26"
-last_updated: "1991-11-27"
+last_updated: "1993-10-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7913&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE OCTUBRE DE 1993.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 26 de junio de 1948.
 
@@ -839,6 +839,30 @@ La disposición de esta Ley relacionada con las enfermedades, no profesionales, 
 
 Los derechos de los trabajadores al Servicio del Estado, en materia de pensiones y jubilaciones, se sujetarán a las Leyes que al respecto se expidan.
 
+> <small>(ADICIONADO, P. O. 13 DE OCTUBRE DE 1993)</small>
+
+###### Art. 7o.
+
+El trabajador que haya iniciado sus labores antes del día 23 de enero de 1983 y haga devolución del certificado de reconocimiento de derechos a que se refiere el artículo séptimo transitorio de la Ley de Instituto de Seguridad y Servicios Sociales de los trabajadores del Estado de Nuevo León, tendrá derecho a una indemnización consistente en:
+
+I.- El pago de tres meses de salario.
+
+II.- El pago de 20 días de salario por cada año laborado; y
+
+III.- El pago de 12 días de salario por cada año laborado conforme a los artículos 485 y 486 de la Ley Federal del Trabajo.
+
+El trabajador que dé por terminados los efectos de su nombramiento en las condiciones referidas, queda excluido de los derechos que establece la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P. O. 13 DE OCTUBRE DE 1993)</small>
+
+###### Art. 8o.
+
+Los trabajadores sujetos al régimen de cotización de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado promulgada el día 22 de enero de 1983, que continúen laborando después de haber cumplido treinta años de antigüedad en el servicio y veintiocho años, en el caso de las mujeres, se harán acreedores anualmente a un bono cuyo valor será equivalente al cinco por ciento de su salario base de cotización.
+
+Este beneficio se entregará en forma sucesiva, por cada año de antigüedad hasta un máximo del valor que representa el cincuenta por ciento de su salario.
+
+El trabajador podrá recibir en efectivo el importe de dicho bono anual o solicitar se le acredite en una subcuenta especial que para el efecto le lleve el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado dentro del sistema de certificado para la jubilación.
+
 Lo tendrá entendido el C. Gobernador Constitucional del Estado, mandándolo imprimir, publicar y circular a quienes corresponda.
 
 Dado en el Salón de Sesiones del H. Congreso del Estado, en Monterrey, Nuevo León, a los treinta y un días del mes de mayo de mil novecientos cuarenta y ocho.- Dip. Pte.- ZENAIDO B. MARTINEZ.- Dip. Srio.- LIC. NEREO RIOS CANTU.- Dip. Srio.- PROF. ERNESTO DE VILLARREAL CANTU.- Rúbricas".
@@ -888,3 +912,9 @@ P.O. 27 DE NOVIEMBRE DE 1991.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P. O. 13 DE OCTUBRE DE 1993.
+
+###### ARTICULO UNICO
+
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL SIGUIENTE DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
