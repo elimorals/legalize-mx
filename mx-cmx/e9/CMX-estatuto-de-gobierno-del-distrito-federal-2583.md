@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-de-gobierno-del-distrito-federal-2583"
 country: "mx"
 rank: "estatuto"
 publication_date: "1994-07-26"
-last_updated: "1994-07-26"
+last_updated: "1995-06-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2583&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1994-07-22"
 
 ESTATUTO DE GOBIERNO DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE JUNIO DE 1995.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el martes 26 de julio de 1994.
 
@@ -322,7 +322,7 @@ La Asamblea se reunirá a partir del 17 de septiembre de cada año, para celebra
 
 ###### ARTICULO 40.
 
-Toda resolución de la Asamblea tendrá el carácter de ley o de decreto. Las leyes y decretos se comunicarán al Presidente de la República por el Presidente y por un Secretario de la Asamblea, en esta forma: "La Asamblea de Representantes del Distrito Federal decreta": (texto de la ley o decreto).
+Toda resolución de la Asamblea tendrá el carácter de ley o de decreto. las leyes y decretos se comunicarán al Presidente de la República por el Presidente y por un Secretario de la Asamblea, en esta forma: "La Asamblea de Representantes del Distrito Federal decreta": (texto de la ley o decreto).
 
 ###### ARTICULO 41.
 
@@ -954,17 +954,27 @@ II. Por cada 50,000 habitantes que excedan de la cantidad a que se refiere la fr
 
 III. En todo caso, a cada Delegación corresponderán por lo menos 15 Consejeros.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 123.
 
-Los Consejeros Ciudadanos serán electos por fórmula, integrada por un propietario y un suplente, que para cada área vecinal en que se dividan las Delegaciones podrán presentar los partidos políticos con registro nacional.
+Los Consejeros Ciudadanos serán electos por fórmula, integrada por un propietario y un suplente, que en cada área vecinal en que se dividan las Delegaciones podrán presentar para su registro los ciudadanos vecinos del área correspondiente, en los términos que establezca la ley.
+
+Cada una de las solicitudes de registro de fórmulas deberá estar avalada por al menos el cuatro por ciento de los ciudadanos que residan en el área vecinal de que se trate, inscritos en el padrón electoral federal. La ley determinará los requisitos que deberá reunir la solicitud para los efectos de la identificación y la comprobación de la residencia de los firmantes, así como los procedimientos de verificación. No procederá el registro en los casos en que los órganos competentes comprueben irregularidades respecto de la autenticidad de las firmas o de la residencia manifestada en la solicitud.
+
+Cada ciudadano tiene derecho de apoyar el registro de una sola fórmula de candidatos.
+
+Los partidos políticos con registro nacional participarán en el proceso de integración de los Consejos de Ciudadanos en lo relativo a la organización y vigilancia de la elección, en los términos que disponga la ley que dicte la Asamblea de Representantes del Distrito Federal.
 
 ###### ARTICULO 124.
 
 Los Consejeros Ciudadanos propietarios no podrán ser electos para el periodo inmediato con el mismo carácter. Los Consejeros Ciudadanos suplentes podrán ser electos para el periodo inmediato con el carácter de propietarios. Los Consejeros Ciudadanos propietarios no podrán ser electos para el periodo siguiente con el carácter de suplentes.
 
+> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 1995)</small>
+
 ###### ARTICULO 125.
 
-Los Consejos de Ciudadanos se renovarán en su totalidad cada tres años. La ley determinará la fecha de elección, misma que será en el mes de junio y se instalarán en el mes de agosto.
+Los Consejos de Ciudadanos se renovarán en su totalidad cada tres años. La elección se efectuará en la misma fecha que la legislación electoral federal prevea para la realización de la de diputados federales y representantes a la Asamblea del Distrito Federal.
 
 ###### ARTICULO 126.
 
@@ -1162,6 +1172,20 @@ DECIMO QUINTO.- Se derogan todas aquellas disposiciones que contravengan las con
 
 DECIMO SEXTO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
 
+> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 1995)</small>
+
+DECIMO SEPTIMO.- Para el año de 1995, la elección de los Consejos de Ciudadanos se realizará el segundo domingo del mes de noviembre y la fecha de su instalación en el mes de diciembre se determinará por la ley que expida la Asamblea de Representantes del Distrito Federal.
+
 México, D.F., a 14 de julio de 1994.- Dip. Enrique Chavero Ocampo, Presidente.- Sen. Ricardo Monreal Avila, Presidente.- Dip. Guillermo González Díaz, Secretario.- Sen. Israel Soberanis Nogueda, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintidós días del mes de julio de mil novecientos noventa y cuatro.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Jorge Carpizo.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 3 DE JUNIO DE 1995.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los Consejeros Ciudadanos electos en el año de 1995 desempeñarán sus funciones desde la instalación de los Consejos de Ciudadanos en el mes de diciembre de dicho año hasta el día anterior al que tomen posesión los que sean electos en 1997, de conformidad con lo que disponga la ley.
+
+TERCERO.- Publíquese en la Gaceta Oficial del Departamento del Distrito Federal.
