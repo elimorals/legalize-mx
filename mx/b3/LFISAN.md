@@ -4,7 +4,7 @@ identifier: "LFISAN"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-30"
-last_updated: "1996-12-30"
+last_updated: "1997-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9238&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFISAN"
 
 LEY FEDERAL DEL IMPUESTO SOBRE AUTOMÓVILES NUEVOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 1997.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el lunes 30 de diciembre de 1996.
 
@@ -50,11 +50,23 @@ I.- Enajenen automóviles nuevos de producción nacional. Se entiende por autom�
 
 II.- Importen en definitiva al país automóviles. Los automóviles a que se refiere esta fracción son los que corresponden al año modelo posterior al de aplicación de la Ley, al año modelo en que se efectúe la importación, o a los 10 años modelo inmediato anteriores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 2o.
 
-El impuesto para automóviles nuevos se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador o sus distribuidores autorizados, incluyendo el equipo opcional común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones. No formará parte de dicho precio el impuesto al valor agregado que se cause por tal enajenación.
+El impuesto para automóviles nuevos se calculará aplicando la tarifa o tasa establecida en el artículo 3o. de esta Ley, según corresponda, al precio de enajenación del automóvil al consumidor por el fabricante, ensamblador o sus distribuidores autorizados, incluyendo el equipo opcional, común o de lujo, sin disminuir el monto de descuentos, rebajas o bonificaciones.
 
-En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur, la región parcial del Estado de Sonora y el Municipio Fronterizo de Cananea, Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el párrafo anterior, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Tratándose de automóviles blindados, excepto camiones, la tarifa antes mencionada, se aplicará al precio de enajenación a que se refiere el párrafo anterior, sin incluir el valor del material utilizado para el blindaje. En ningún caso el impuesto que se tenga que pagar por estos vehículos, será menor al que tendría que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año y versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, en los términos antes mencionados, la tarifa establecida en el precepto citado en el párrafo anterior, multiplicando el resultado por el factor de 0.80.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+No formará parte del precio a que se refiere este artículo, el impuesto al valor agregado que se cause por tal enajenación.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+En el caso de automóviles de importación definitiva, incluyendo los destinados a permanecer definitivamente en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, el impuesto se calculará aplicando la tarifa establecida en esta Ley, al precio de enajenación a que se refiere el párrafo anterior, adicionado con el impuesto general de importación y con el monto de las contribuciones que se tengan que pagar con motivo de la importación, a excepción del impuesto al valor agregado.
 
 El valor a que se refiere el párrafo anterior, se aplicará aun en el caso de que por el automóvil de que se trate no se deba pagar el citado impuesto general de importación.
 
@@ -66,7 +78,9 @@ En el caso de vehículos a que se refiere la fracción II del artículo 3o. de e
 
 Para los efectos del artículo 2o. de esta Ley, se estará a lo siguiente:
 
-I.- Tratándose de automóviles y camiones con capacidad hasta de diez pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+I.- Tratándose de automóviles con capacidad hasta de quince pasajeros, al precio de enajenación del automóvil de que se trate, se le aplicará la siguiente:
 
 TARIFA
 
@@ -74,7 +88,7 @@ Límite Límite Cuota Por ciento
 
 Inferior Superior fija para
 
-aplicarse
+Aplicarse
 
 sobre el
 
@@ -100,7 +114,9 @@ Si el precio del automóvil es superior a $207,373.49, se reducirá del monto de
 
 Las cantidades que correspondan a cada uno de los tramos de la tarifa de este artículo, así como las contenidas en el párrafo que antecede, se actualizarán en los meses de enero, mayo y septiembre de cada año, con el factor de actualización correspondiente al periodo comprendido desde el quinto mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero, mayo y septiembre de cada año.
 
-II.- Tratándose de camiones con capacidad de carga hasta de 3,100 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros y remolques y semirremolques tipo vivienda, al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+II.- Tratándose de camiones con capacidad de carga hasta de 4,250 kilogramos, incluyendo los tipos panel con capacidad máxima de tres pasajeros y remolques y semirremolques tipo vivienda, al precio de enajenación del vehículo de que se trate se le aplicará la tasa del 5%.
 
 ###### ARTICULO 4o.
 
@@ -116,17 +132,21 @@ Si un contribuyente tuviera uno o varios establecimientos ubicados en entidad fe
 
 Para efectos de esta Ley, se entiende por:
 
-a).- Automóviles, los de transporte hasta de diez pasajeros, los camiones con capacidad de carga hasta de 3,100 kilogramos incluyendo los de tipo panel, así como los remolques y semirremolques tipo vivienda.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+a).- Automóviles, los de transporte hasta de quince pasajeros, los camiones con capacidad de carga hasta de 4,250 kilogramos incluyendo los de tipo panel, así como los remolques y semirremolques tipo vivienda.
 
 b).- Franja fronteriza norte del país, a la comprendida entre la línea divisoria internacional con los Estados Unidos de América y la línea paralela a una distancia de 20 kilómetros hacia el interior del país, en el tramo comprendido entre el límite de la región parcial del Estado de Sonora y el Golfo de México, así como el Municipio Fronterizo de Cananea, en el Estado de Sonora.
 
 c).- Región parcial del Estado de Sonora, a la comprendida en los siguientes límites: al norte, la línea divisoria internacional desde el cauce del Río Colorado hasta el punto situado en esa línea a 10 kilómetros al oeste de Sonoita, de ese punto, una línea recta hasta llegar al este de Puerto Peñasco; de ahí, siguiendo el cauce de ese Río, hacia el norte hasta encontrar la línea divisoria internacional.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 6o.
 
-Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, la incorporación del vehículo al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto a que esta Ley se refiere. En estos casos, el impuesto se calculará en los términos del artículo 2o. de esta Ley, según proceda.
+Para los efectos de esta Ley, se entiende por enajenación, además de lo señalado en el Código Fiscal de la Federación, la incorporación del automóvil al activo fijo de las empresas fabricantes, ensambladoras o importadoras de automóviles e inclusive al de los distribuidores autorizados, o los que tengan para su venta por más de un año, excepto cuando se trate de automóviles por los que ya se hubiera pagado el impuesto a que esta Ley se refiere. En estos casos, el impuesto se calculará en los términos del artículo 2o. de esta Ley, según proceda.
 
-Se entiende que los vehículos se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
+Se entiende que los automóviles se incorporan al activo fijo de las empresas cuando se utilicen para el desarrollo de las actividades del contribuyente.
 
 ###### ARTICULO 7o.
 
@@ -143,6 +163,10 @@ II.- En la enajenación al público en general de automóviles compactos de cons
 Se consideran automóviles compactos de consumo popular, aquellos cuyo precio de enajenación, incluyendo el impuesto al valor agregado, no exceda de la cantidad de $65,000.00, que su motor sea de fabricación nacional y que posea una capacidad para transportar hasta 5 pasajeros.
 
 El precio a que se refiere el párrafo anterior, se actualizará en el mes de enero de cada año, aplicando el factor correspondiente al periodo comprendido desde el mes de diciembre del penúltimo año hasta el mes de diciembre inmediato anterior a aquel por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 17-A del Código Fiscal de la Federación. La Secretaría de Hacienda y Crédito Público publicará el factor de actualización en el Diario Oficial de la Federación dentro de los tres primeros días de enero de cada año.
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+III.- En la importación de vehículos en franquicia, de conformidad con el artículo 62, fracción I, de la Ley Aduanera, o con los tratados o acuerdos internacionales suscritos por México, siempre que se cumpla con los requisitos y condiciones que señale la Secretaría de Hacienda y Crédito Público mediante reglas de carácter general.
 
 ###### ARTICULO 9o.
 
@@ -166,13 +190,21 @@ No procederá la devolución ni compensación del impuesto establecido en esta L
 
 Para los efectos de esta Ley, no se considerarán automóviles nuevos, aquéllos por los que ya se hubiera pagado el impuesto establecido en esta Ley y que se devuelvan al enajenante.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
+Los fabricantes, ensambladores o distribuidores autorizados de automóviles, no harán la separación expresa del monto de este impuesto en el documento que ampare la enajenación.
+
 ###### ARTICULO 12.
 
 Cuando los contribuyentes tengan establecimientos en dos o más Entidades Federativas, deberán llevar los registros contables necesarios para informar a la Secretaría de Hacienda y Crédito Público, en la declaración del ejercicio, de las ventas realizadas en cada entidad federativa.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1997)</small>
+
 ###### ARTICULO 13.
 
-Los fabricantes, ensambladores o distribuidores autorizados de automóviles o camiones nuevos, así como aquellos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur, la región parcial del Estado de Sonora y el Municipio Fronterizo de Cananea, Estado de Sonora, deberán incluir en el documento que ampare la enajenación correspondiente, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Hacienda y Crédito Público establecerá la forma en que deberá integrarse la citada clave, mediante reglas de carácter general.
+Los fabricantes, ensambladores o distribuidores autorizados de automóviles nuevos, así como aquellos que importen automóviles para permanecer en forma definitiva en la franja fronteriza norte del país y en los Estados de Baja California, Baja California Sur y la región parcial del Estado de Sonora, deberán incluir en el documento que ampare la enajenación correspondiente, la clave vehicular que corresponda a la versión enajenada. La Secretaría de Hacienda y Crédito Público establecerá la forma en que deberá integrarse la citada clave, mediante reglas de carácter general.
+
+El valor del vehículo enajenado deberá estar expresado en el comprobante correspondiente en moneda nacional.
 
 ## TRANSITORIOS
 
@@ -199,3 +231,11 @@ UNICO.- La presente Ley entrara en vigor a partir del 1º. de enero de 1997.
 México, D. F., 5 de diciembre de 1996.- Dip. Sara Esther Muza Simón.- Presidente.- Sen. Laura Pavón Jaramillo, Presidenta.- Dip. José Luis Martínez Alvarez, Secretario.- Sen. Angel Ventura Valle, Secretario.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de diciembre de mil novecientos noventa y seis.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 1997.
+
+## TRANSITORIO
+
+ÚNICO.- La presente Ley entrará en vigor el día 1o. de enero de 1998.
