@@ -4,7 +4,7 @@ identifier: "CHP-ley-pecuaria-del-estado-de-chiapas-10340"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-18"
-last_updated: "2001-11-07"
+last_updated: "2004-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10340&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,43 +21,61 @@ state: "CHP"
 ---
 # LEY PECUARIA DEL ESTADO DE CHIAPAS
 
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+NUEVA LEY PECUARIA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2012.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 2004.
 
-Ley publicada en la Sección Décima del Periódico Oficial del Estado de Michoacán, el lunes 31 de diciembre de 2001.
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Chiapas, el miércoles 18 de diciembre de 1996.
 
-VÍCTOR MANUEL TINOCO RUBÍ, Gobernador Constitucional del Estado Libre y Soberano de Michoacán de Ocampo, a todos sus habitantes hace saber:
+JULIO CESAR RUIZ FERRO, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, A SUS HABITANTES HACE SABER: QUE LA HONORABLE QUINCUAGESIMA NOVENA LEGISLATURA DEL MISMO, SE HA SERVIDO DIRIGIR AL EJECUTIVO DE SU CARGO EL SIGUIENTE:
 
-El H. Congreso del Estado, se ha servido dirigirme el siguiente
+DECRETO NUMERO 19
 
-DECRETO
+LA HONORABLE QUINCUAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN USO DE LAS FACULTADES QUE LE CONCEDE LA CONSTITUCION POLITICA LOCAL, Y
 
-EL CONGRESO DE MICHOACÁN DE OCAMPO
+CONSIDERANDO
 
-DECRETA:
+QUE LOS DIPUTADOS INTEGRANTES DEL SECTOR CAMPESINO DE ESTA PROPIA LEGISLATURA, EN EJERCICIO DE LAS FACULTADES QUE LES CONFIERE LA FRACCION II DEL ARTICULO 27 DE LA CONSTITUCION POLITICA LOCAL Y EL DIVERSO 57 FRACCION XXIV DE LA LEY ORGANICA DEL CONGRESO, PRESENTARON A ESTA HONORABLE ASAMBLEA, INICIATIVA DE DECRETO QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA LEY PECUARIA DEL ESTADO DE CHIAPAS.
 
-NÚMERO 218
+QUE LA LEY PECUARIA DEL ESTADO, ES EL INSTRUMENTO JURIDICO QUE TIENE POR OBJETO FOMENTAR, PROTEGER, IMPULSAR, ORGANIZAR Y ORIENTAR LA ACTIVIDAD Y EXPLOTACION DEL RAMO, ASI COMO CONSERVAR, MEJORAR Y EXPLOTAR RACIONALMENTE LOS RECURSOS NATURALES QUE SE RELACIONEN CON DICHA ACTIVIDAD PRIMARIA.
 
-LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO
+QUE LOS MOMENTOS QUE VIVE ESTE SECTOR DE LA ECONOMIA ESTATAL, HACEN PRIMORDIAL LA NECESIDAD DE MODIFICAR Y ADICIONAR EL MARCO NORMATIVO VIGENTE CON EL OBJETO DE ATENDER PRIMERAMENTE, LA ORGANIZACION DE LOS GANADEROS DEL SECTOR SOCIAL, ASI COMO EL ESTABLECIMIENTO DE MAS Y MEJORES MEDIDAS SANITARIAS A TRAVES DE ESTRATEGIAS Y ACCIONES ACORDES CON LAS NECESIDADES MAS APREMIANTES PARA EL BUEN DESARROLLO DEL MISMO.
 
-## TÍTULO PRIMERO. DEL MUNICIPIO
+QUE LA COMISION DE GANADERIA DE LA LEGISLATURA IMPLEMENTO DIVERSAS REUNIONES DE TRABAJO CON LOS SECTORES INVOLUCRADOS EN EL RAMO, RECABANDOSE LAS OPINIONES Y SUGERENCIAS, PARA DAR UN MARCO DE MAYOR FORTALEZA AL CUERPO NORMATIVO DE LA LEY QUE NOS OCUPA.
 
-### Capítulo I. Del Objeto de la Ley
+QUE EN ESE ORDEN DE IDEAS, A LO LARGO DE LAS DIVERSAS REUNIONES DE TRABAJO SOSTENIDAS SE RECIBIERON SUGERENCIAS Y CRITERIOS DE ASOCIACIONES Y UNIONES GANADERAS, DESTACANDO LAS PRESENTADAS POR LA CONFEDERACION NACIONAL GANADERA, LA UNION GANADERA REGIONAL DE CHIAPAS Y LA LIGA DE COMUNIDADES AGRARIAS Y SINDICATOS CAMPESINOS DEL ESTADO DE CHIAPAS, ENTRE OTRAS, MISMAS QUE SE TOMARON EN CUENTA EN LO PROCEDENTE CONFORME A DERECHO Y EN APEGO A LO QUE PREVIENE EL REGLAMENTO INTERIOR DE ESTE PODER LEGISLATIVO.
 
-###### Artículo 1º.
+QUE DE LAS DIVERSAS PROPUESTAS SE APRECIARON MODIFICACIONES Y ADICIONES NO SOLO A LA INICIATIVA, SINO AL TEXTO DE LA LEY EN GENERAL, ACORDANDOSE LO PROCEDENTE EN ESTE CASO, ES ADECUAR NO SOLO LOS ARTICULOS PROPUESTOS EN LA INICIATIVA, SINO ADEMAS RESULTA NECESARIO REESTRUCTURAR TODO EL TEXTO DE LA LEY.
 
-La presente Ley regula el ejercicio de las atribuciones que corresponden a los Municipios del Estado y establece las bases para su gobierno, integración, organización, funcionamiento, fusión y división y regula el ejercicio de las funciones de sus dependencias y entidades, de conformidad con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos; la Constitución Política del Estado de Michoacán de Ocampo y las demás disposiciones aplicables.
+QUE EN TAL VIRTUD, LAS ADECUACIONES QUE DEBEN HACERSE A LA LEY PECUARIA VIGENTE COMO RESULTADO DE LOS TRABAJOS IMPLEMENTADOS, SUPERAN EN UN 80% APROXIMADAMENTE EL CONTENIDO TOTAL DEL TEXTO; SITUACION QUE EN MATERIA LEGISLATIVA TECNICAMENTE NO ES SANO, LO PROCEDENTE ES ABROGAR LAS DISPOSICIONES EN VIGOR Y DARLE VIGENCIA A UN NUEVO TEXTO.
 
-###### Artículo 2º.
+AHORA BIEN, LA COMISION DICTAMINADORA PRESENTO A LA CONSIDERACION DE LA LEGISLATURA, UN TEXTO INTEGRADO DE LA INICIATIVA QUE MOTIVO EL PROCESO LEGISLATIVO Y LAS MODIFICACIONES RECOGIDAS EN LAS REUNIONES DE TRABAJO QUE SE IMPLEMENTARON.
 
-El Municipio Libre es una entidad política y social investida de personalidad jurídica, con libertad interior, patrimonio propio y autonomía para su gobierno; se constituye por un conjunto de habitantes asentados en un territorio determinado, gobernado por un Ayuntamiento para satisfacer sus intereses comunes.
+QUE EN ESE ORDEN DE COSAS, SE CONSIDERO QUE LA NUEVA LEY PECUARIA DEBE PRECISAR LOS DERECHOS Y OBLIGACIONES DE LOS SUJETOS DE LA LEY, YA SEAN FISICAS O MORALES CUYA ACTIVIDAD ESTE ORIENTADA A LA CRIA, REPRODUCCION O EXPLOTACION DE GANADO BOVINO, CABALLAR, MULAR, ASNAL, CAPRINO, OVINO, PORCINO, AVES DE CUALQUIER ESPECIE, CONEJOS, ABEJAS Y ANIMALES DE PELETERIA, DETERMINAR CUALES SON LAS AUTORIDADES COMPETENTES EN ESTA RAMA, TANTO EN MATERIA DE PRODUCCION PECUARIA COMO DE COMERCIALIZACION E INDUSTRIALIZACION.
+
+QUE EN MATERIA DE SANIDAD E INSPECCION DE GANADO, OTRAS ESPECIES Y SUS PRODUCTOS, SE DEBE DETERMINAR CON CLARIDAD LAS MODALIDADES DE ESTA, LOS ESTABLECIMIENTOS Y LOS REQUISITOS A QUE SE DEBE DE AJUSTAR EL ACTO DE INSPECCION, LOS PERFILES QUE DEBE DE REUNIR EL INSPECTOR DE GANADERIA Y SEÑALARSE CUALES SON SUS ATRIBUCIONES.
+
+QUE CON EL OBJETO DE FRENAR EL ABIGEATO, LA NUEVA LEY PECUARIA TIENE TAMBIEN LA FINALIDAD DE ESTABLECER MEDIDAS MAS ESTRICTAS DE CONTROL EN LA MOVILIZACION INTERNA Y EXTERNA CON FINES LUCRATIVOS O NO DEL GANADO MAYOR, SUS PRODUCTOS Y SUBPRODUCTOS DE ORIGEN ANIMAL.
+
+QUE SE DEBE DESTACAR QUE LA LEY EN COMENTO, EN LO SUCESIVO INCORPORARA A LAS ORGANIZACIONES GANADERAS DEL SECTOR SOCIAL, QUE ACTUALMENTE AGLUTINAN UN PROMEDIO DE 25,000 PRODUCTORES, LAS QUE CUENTAN CON EL RECONOCIMIENTO DE LAS PROPIAS AUTORIDADES. BAJO ESTA PREMISA, LA GANADERIA DEL SECTOR SOCIAL, OBTENDRA LAS FACILIDADES QUE LE PERMITAN DESARROLLARSE BAJO UN SISTEMA DE COMPETENCIA RESPETUOSA Y EQUITATIVA CON EL SECTOR PRIVADO.
+
+QUE ASIMISMO SE VALORO LA EXPOSICION DE MOTIVOS QUE SUSTENTA LA PROPUESTA DE NUEVA LEY PECUARIA Y SE ANALIZO SU ALCANCE; IGUALMENTE SE RECIBIO CON LA MAYOR APERTURA Y SE CONSIDERARON TODAS LAS OPINIONES Y PUNTOS DE VISTAS PROVENIENTES DE LOS LEGISLADORES, REALIZANDOSE UN EJERCICIO EN BUSCA DEL MAYOR NUMERO DE CONSENSOS.
+
+POR LAS RAZONES ANTERIORES, LA QUINCUAGESIMA NOVENA LEGISLATURA EXPIDE LA SIGUIENTE:
+
+NUEVA LEY PECUARIA DEL ESTADO DE CHIAPAS
+
+> <small>(ADICIONADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+## TITULO PRIMERO. GENERALIDADES
+
+### CAPITULO I. OBJETO Y MATERIA DE LA LEY
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 1.
 
-LAS DISPOSICIONES DE ESTA LEY SON DE ORDEN PUBLICO, INTERES SOCIAL, DE APLICACION Y OBSERVANCIA GENERAL EN EL TERRITORIO DEL ESTADO DE CHIAPAS.
-
-TODOS LOS GANADEROS SIN DISTINCION ALGUNA, ESTABLECIDOS EN EL TERRITORIO CHIAPANECO, GOZARAN DE LOS MISMOS DERECHOS Y TENDRAN LAS MISMAS OBLIGACIONES QUE SE ESTABLEZCAN EN LA PRESENTE LEY.
+LAS DISPOSICIONES DE ESTA LEY SON DE ORDEN PUBLICO E INTERES SOCIAL, DE APLICACION Y OBSERVANCIA GENERAL EN EL TERRITORIO DEL ESTADO DE CHIAPAS. TODOS LOS PRODUCTORES PECUARIOS SIN DISTINCION ALGUNA, ESTABLECIDOS EN EL TERRITORIO CHIAPANECO, GOZARAN DE LOS MISMOS DERECHOS Y TENDRAN LAS MISMAS OBLIGACIONES QUE SE ESTABLEZCAN EN LA PRESENTE LEY.
 
 ###### ARTICULO 2.
 
@@ -79,2561 +97,1563 @@ F) LA REGULACION DE LA PROPIEDAD, MOVILIZACION Y SACRIFICIO DE LAS DIFERENTES ES
 
 QUEDAN SUJETOS A LAS DISPOSICIONES DE LA PRESENTE LEY Y SUS REGLAMENTOS, TODA PERSONA FISICA O MORAL QUE SE DEDIQUE A LA CRIA, REPRODUCCION O EXPLOTACION DE GANADO BOVINO, CABALLAR, MULAR, ASNAL, CAPRINO, OVINO, PORCINO, AVES DE CUALQUIER ESPECIE, CONEJOS, ABEJAS Y ANIMALES DE PELETERIA.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 4.
 
 PARA LOS EFECTOS DE ESTA LEY, SE CONSIDERA:
 
-A) EXPLOTACION PECUARIA: EL CONJUNTO DE ELEMENTOS Y ACTIVIDADES NECESARIAS PARA LA CRIA, REPRODUCCION Y MEJORAMIENTO DE LAS ESPECIES ANIMALES UTILES AL HOMBRE, SUSCEPTIBLES DE EXPLOTACION ZOOTECNICA-ECONOMICA.
+I. EXPLOTACION PECUARIA: EL CONJUNTO DE ELEMENTOS Y ACTIVIDADES NECESARIAS PARA LA CRIA, REPRODUCCION Y MEJORAMIENTO DE LOS SEMOVIENTES, SUSCEPTIBLES DE EXPLOTACION ZOOTECNICA-ECONOMICA.
 
-QUEDA COMPRENDIDO DENTRO DE ESTE CONCEPTO, EL APROVECHAMIENTO DE LAS ESPECIES ANIMALES HASTA SU VENTA O SACRIFICIO, ASI COMO LA VENTA DIRECTA DE SUS PRODUCTOS POR EL PRODUCTOR, SIEMPRE QUE SE TRATE DE VENTA DE PRIMERA MANO.
+QUEDA COMPRENDIDO DENTRO DE ESTE CONCEPTO, EL APROVECHAMIENTO DE LOS SEMOVIENTES HASTA SU VENTA O SACRIFICIO, ASI COMO LA VENTA DIRECTA DE PRODUCTOS, SIEMPRE QUE SE TRATE DE VENTA DE PRIMERA MANO.
 
 IGUALMENTE QUEDA COMPRENDIDA LA VENTA DE PRIMERA MANO DE DERIVADOS, SUBPRODUCTOS Y ESQUILMOS ANIMALES POR PARTE DEL PRODUCTOR, CUANDO ESTA SE REALICE EN FORMA EVENTUAL.
 
-B) PRODUCTOR: TODA PERSONA QUE SIENDO PROPIETARIA DE ANIMALES A QUE SE REFIERE ESTA LEY, EN CUALQUIERA DE SUS ESPECIES, REALICEN FUNCIONES DE DIRECCION Y ADMINISTRACION DE UNA EXPLOTACION PECUARIA.
+II. PRODUCTOR PECUARIO: TODA PERSONA QUE SIENDO PROPIETARIA DE SEMOVIENTES, EN CUALQUIERA DE SUS ESPECIES, REALICEN FUNCIONES DE DIRECCION Y ADMINISTRACION DE UNA EXPLOTACION PECUARIA.
 
-C) PRODUCTOR ESPECIALIZADO: EL QUE SIENDO O NO CRIADOR, DEDICA SUS ANIMALES O LOS QUE ADQUIERE AL APROVECHAMIENTO DE SUS PRODUCTOS O SUS DERIVADOS MEDIANTE UN PROCESO TECNICO INDUSTRIAL.
+III. PRODUCTOR ESPECIALIZADO: EL QUE SIENDO O NO CRIADOR, DEDICA SUS ANIMALES O LOS QUE ADQUIERE, AL APROVECHAMIENTO DE PRODUCTOS O DERIVADOS, MEDIANTE UN PROCESO TECNICO INDUSTRIAL.
 
-D) ACTIVIDADES INDUSTRIALES CONEXAS A LA ACTIVIDAD PECUARIA: EL PROCESAMIENTO O TRANSFORMACION CON FINES DE EXPLOTACION ECONOMICA DE LAS ESPECIES ANIMALES, SUS PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS.
+IV. ACTIVIDADES INDUSTRIALES CONEXAS A LA ACTIVIDAD PECUARIA: EL PROCESAMIENTO O TRANSFORMACION CON FINES DE EXPLOTACION ECONOMICA DE LAS ESPECIES ANIMALES, PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS.
 
-E) ACTIVIDAD COMERCIAL RELACIONADA CON LA ACTIVIDAD PECUARIA: LAS TRANSACCIONES MERCANTILES DE LAS ESPECIES ANIMALES, SUS PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS.
+V. ACTIVIDAD COMERCIAL RELACIONADA CON LA ACTIVIDAD PECUARIA: LAS TRANSACCIONES MERCANTILES DE LAS ESPECIES ANIMALES, PRODUCTOS, SUBPRODUCTOS Y ESQUILMOS.
 
-### Capítulo II. De la División Política Municipal
+VI. SEMOVIENTES: GANADO BOVINO, EQUINO, MULAR, ASNAL, CAPRINO, OVINO, PORCINO, AVES DE CUALQUIER FAMILIA Y GENERO, CONEJOS, ABEJAS Y ANIMALES DE PELETERIA.
 
-###### Artículo 3º.
+VII. PRODUCTO: CONCEPTO APLICADO A LOS DERIVADOS PRIMARIOS PECUARIOS (CARNE, PIEL, LANA, LECHE Y HUEVO), CAPACES DE SER TRANSFORMADOS POR MEDIO DE LA INDUSTRIA EN SUBPRODUCTOS.
 
-El Municipio es la base de la división territorial y de la organización política y administrativa del Estado de Michoacán de Ocampo.
+VIII. SUBPRODUCTO: DERIVADO SECUNDARIO OBTENIDO POR MEDIO DE LA INDUSTRIALIZACION DE UN PRODUCTO PRIMARIO PECUARIO.
 
-El Estado se divide para los efectos de su organización política y administrativa, en 113 Municipios cuyos nombres y cabeceras se expresan a continuación:
+IX. DERIVADO: TODO SUBPRODUCTO PECUARIO QUE SE OBTIENE DE UN PROCESO TECNICO INDUSTRIAL, Y;
 
-Municipio Cabecera
+X. ORGANIZACION PRODUCTORA PECUARIA: CONJUNTO DE PERSONAS FISICAS O MORALES, QUE SE ENCUENTRAN LEGALMENTE CONSTITUIDAS, CON LA FINALIDAD DE DESARROLLAR ACTIVIDADES VINCULADAS CON EL SUBSECTOR PECUARIO.
 
-Acuitzio Acuitzio del Canje
+### CAPITULO II. AUTORIDADES COMPETENTES
 
-Aguililla Aguililla
-
-Alvaro Obregón Alvaro Obregón
-
-Angamacutiro Angamacutiro de la Unión
-
-Angangueo Mineral de Angangueo
-
-Apatzingán Apatzingán de la Constitución
-
-Aporo Aporo
-
-Aquila Aquila
-
-Ario Ario de Rosales
-
-Arteaga Arteaga
-
-Briseñas Briseñas de Matamoros
-
-Buenavista Buenavista Tomatlán
-
-Carácuaro Carácuaro de Morelos
-
-Coahuayana Coahuayana de Hidalgo
-
-Coalcomán de
-
-Vázquez Pallares Coalcomán de Vázquez Pallares
-
-Coeneo Coeneo de la Libertad
-
-Cojumatlán de
-
-Régules Cojumatlán de Régules
-
-Contepec Contepec
-
-Copándaro Copándaro de Galeana
-
-Cotija Cotija de la Paz
-
-Cuitzeo Cuitzeo del Porvenir
-
-Charapan Charapan
-
-Charo Charo
-
-Chavinda Chavinda
-
-Cherán Cherán
-
-Chilchota Chilchota
-
-Chinicuila Villa Victoria
-
-Chucándiro Chucándiro
-
-Churintzio Churintzio
-
-Churumuco Churumuco de Morelos
-
-Ecuandureo Ecuandureo
-
-Epitacio Huerta Epitacio Huerta
-
-Erongarícuaro Erongarícuaro
-
-Gabriel Zamora Lombardía
-
-Hidalgo Ciudad Hidalgo
-
-Huandacareo Huandacareo
-
-Huaniqueo Huaniqueo de Morales
-
-Huetamo Huetamo de Núñez
-
-Huiramba Huiramba
-
-Indaparapeo Indaparapeo
-
-Irimbo Irimbo
-
-Ixtlán Ixtlán de los Hervores
-
-Jacona Jacona de Plancarte
-
-Jiménez Villa Jiménez
-
-Jiquilpan Jiquilpan de Juárez
-
-José Sixto
-
-Verduzco Pastor Ortíz
-
-Juárez Benito Juárez
-
-Jungapeo Jungapeo de Juárez
-
-Lagunillas Lagunillas
-
-La Huacana La Huacana
-
-La Piedad La Piedad de Cabadas
-
-Lázaro Cárdenas Ciudad Lázaro Cárdenas
-
-Los Reyes Los Reyes de Salgado
-
-Madero Villa Madero
-
-Maravatío Maravatío de Ocampo
-
-Marcos
-
-Castellanos San José de Gracia
-
-Morelia Morelia
-
-Morelos Villa Morelos
-
-Múgica Nueva Italia de Ruiz
-
-Nahuatzen Nahuatzen
-
-Nocupétaro Nocupétaro de Morelos
-
-Nuevo
-
-Parangaricutiro Nuevo San Juan Parangaricutiro
-
-Nuevo Urecho Nuevo Urecho
-
-Numarán Numarán
-
-Ocampo Ocampo
-
-Pajacuarán Pajacuarán
-
-Panindícuaro Panindícuaro
-
-Parácuaro Parácuaro
-
-Paracho Paracho de Verduzco
-
-Pátzcuaro Pátzcuaro
-
-Penjamillo Penjamillo de Degollado
-
-Peribán Peribán de Ramos
-
-Purépero Purépero de Echáiz
-
-Puruándiro Puruándiro
-
-Queréndaro Queréndaro
-
-Quiroga Quiroga
-
-Sahuayo Sahuayo de Morelos
-
-San Lucas San Lucas
-
-Santa Ana Maya Santa Ana Maya
-
-Salvador Escalante Santa Clara del Cobre
-
-Senguio Senguio
-
-Susupuato Susupuato de Guerrero
-
-Tacámbaro Tacámbaro de Codallos
-
-Tancítaro Tancítaro
-
-Tangamandapio Santiago Tangamandapio
-
-Tangancícuaro Tangancícuaro de Arista
-
-Tanhuato Tanhuato de Guerrero
-
-Taretan Taretan
-
-Tarímbaro Tarímbaro
-
-Tepalcatepec Tepalcatepec
-
-Tingambato Tingambato
-
-Tingüindín Tingüindín
-
-Tiquicheo de
-
-Nicolás Romero Tiquicheo
-
-Tlalpujahua Tlalpujahua de Rayón
-
-Tlazazalca Tlazazalca
-
-Tocumbo Tocumbo
-
-Tumbiscatío Tumbiscatío de Ruiz
-
-Turicato Turicato
-
-Tuxpan Tuxpan
-
-Tuzantla Tuzantla
-
-Tzintzuntzan Tzintzuntzan
-
-Tzitzio Tzitzio
-
-Uruapan Uruapan
-
-Venustiano
-
-Carranza Venustiano Carranza
-
-Villamar Villamar
-
-Vista Hermosa Vista Hermosa de Negrete
-
-Yurécuaro Yurécuaro
-
-Zacapu Zacapu
-
-Zamora Zamora de Hidalgo
-
-Zináparo Zináparo
-
-Zinapécuaro Zinapécuaro de Figueroa
-
-Ziracuaretiro Ziracuaretiro
-
-Zitácuaro Heróica Zitácuaro
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-De la División Política y Clasificación Municipal
-
-Artículo 3° bis. Los municipios del Estado de Michoacán se clasificarán para su mejor tratamiento administrativo, financiero, social, político y de asignación de derechos y obligaciones en:
-
-Municipios Urbanos, son los que tienen más de setenta mil habitantes, cuentan con instituciones de educación media superior y superior de carácter público o privado; Instituciones de Salud Pública de segundo nivel o más; infraestructura urbana suficiente en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio; industria, salud, educación y recreación.
-
-Municipios Semiurbanos, los que tienen más de cuarenta mil habitantes y menos de setenta mil; cuentan con instituciones de educación media superior de carácter público o privado; Instituciones de Salud Pública de Primer Nivel; infraestructura urbana media en las áreas de transporte, energía, sanitaria, telecomunicaciones y de usos varios como vivienda, comercio, industria, salud, educación y recreación.
-
-Municipios en desarrollo o rurales, los que tienen menos de cuarenta mil habitantes;
-
-El número de habitantes se tomará del último censo ó conteo de población del INEGI; a petición del Ayuntamiento el Congreso del Estado podrá reclasificar a los municipios considerando otros índices de desarrollo diferente al poblacional.
-
-La clasificación municipal planteada en este artículo podrá servir de base en los planes y programas, estatales y municipales, así como para los lineamientos de cualquier ley o decreto emitido por la legislatura local.
-
-###### Artículo 4º.
-
-Los Municipios conservarán la extensión y límites que actualmente tienen, conforme a la Ley Orgánica de División Territorial del Estado.
-
-El ámbito de competencia de las autoridades municipales se limitará a su territorio y población. La sede de cada ayuntamiento será su cabecera municipal.
-
-###### Artículo 5º.
-
-Los Municipios se dividirán en cabecera municipal, tenencias y encargaturas del orden y comprenderán: Las ciudades, villas, poblados, colonias, ejidos, comunidades, congregaciones, rancherías, caseríos, fincas rurales y demás centros de población que se encuentren asentados dentro de los límites de cada Municipio, determinados en esta Ley.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 5.
 
-AL EJECUTIVO DEL ESTADO CORRESPONDE LA APLICACION DE ESTA LEY Y DE SUS REGLAMENTOS, ESTABLECIENDO LOS ORGANOS QUE DEBAN INTERVENIR PARA SU VIGILANCIA Y DEBIDO CUMPLIMIENTO
+SON AUTORIDADES COMPETENTES PARA LA APLICACION DE ESTA LEY Y SU REGLAMENTO:
 
-###### Artículo 6°.
+I. EL GOBERNADOR DEL ESTADO;
 
-Los centros de población que estimen haber satisfecho los requisitos señalados para cada categoría política en el artículo anterior, podrán ostentar oficialmente la que les corresponda, solicitando previamente declaración que al respecto deberá hacer el Ayuntamiento de cada Municipio.
+II. EL SECRETARIO DE DESARROLLO RURAL;
+
+III. EL SUBSECRETARIO DE GANADERIA;
+
+IV. EL SUBSECRETARIO DE AGRICULTURA;
+
+V. EL TITULAR DE LA UNIDAD DE APOYO JURIDICO DE LA SECRETARIA DE DESARROLLO RURAL;
+
+VI. DELEGADOS REGIONALES;
+
+VII. LA TESORERIA DE LA SECRETARIA DE DESARROLLO RURAL.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
+###### ARTICULO 6.
+
+LAS ACCIONES QUE DESARROLLE EL EJECUTIVO ESTATAL, ASI COMO LOS MUNICIPIOS DEL ESTADO DE CHIAPAS, CON MOTIVO DE LA APLICACION DE ESTA LEY; DEBERAN ESTAR EN ARMONIA CON LA DEFENSA DE LOS RECURSOS NATURALES, LA PROTECCION DEL MEDIO AMBIENTE Y LA SALUD HUMANA.
 
 ###### ARTICULO 7.
 
-PARA LA APLICACION Y CUMPLIMIENTO DE LA PRESENTE LEY, ADEMAS DE LAS SECRETARIAS MENCIONADAS EN EL ARTICULO ANTERIOR, SON COMPETENTES LOS AYUNTAMIENTOS MUNICIPALES.
+(DEROGADO, P.O. 8 DE NOVIEMBRE DE 2004)
 
-###### Artículo 8°.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-La vecindad en un municipio se adquiere por:
+###### ARTICULO 8.
 
-I. Tener seis meses como mínimo con domicilio establecido en el municipio y con residencia efectiva por este lapso; o
+SON AUTORIDADES AUXILIARES PARA LA APLICACION DE LA PRESENTE LEY, LAS SIGUIENTES:
 
-II. Por manifestar expresamente, antes del tiempo señalado en la fracción anterior, ante la autoridad municipal, su propósito de adquirir la vecindad, anotándose en el padrón municipal previa comprobación de haber renunciado ante las autoridades municipales, a su anterior vecindad.
+I. LOS PRESIDENTES MUNICIPALES;
 
-Los ayuntamientos emitirán las disposiciones que favorezcan la participación de sus habitantes en la solución de los problemas del municipio.
+II. EL COMITE DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO DE CHIAPAS, A.C., A TRAVES DE LOS OFICIALES DE INSPECTORIA PECUARIA;
 
-###### Artículo 9°.
+III. LAS UNIONES GANADERAS REGIONALES Y/O GENERALES, A TRAVES DE LOS INSPECTORES PECUARIOS;
 
-El Ayuntamiento declarará la adquisición o pérdida de la vecindad en el municipio, lo que deberá asentar en el Padrón Municipal correspondiente.
+IV. LAS ASOCIACIONES GANADERAS LOCALES, GENERALES Y/O ESPECIALIZADAS.
 
-La vecindad no se pierde cuando:
+EN TERMINOS DE LA LEY FEDERAL DE ASOCIACIONES GANADERAS Y SU REGLAMENTO, LOS GANADEROS DEL ESTADO, DEBERAN ORGANIZARSE EN ASOCIACIONES LOCALES GANADERAS DE CARACTER GENERAL, Y FORMAR LAS UNIONES GANADERAS REGIONALES, EN LOS CASOS QUE EL NUMERO DE GANADEROS ESPECIALIZADOS LO AMERITE, ASIMISMO, PODRAN CONSTITUIR LAS ASOCIACIONES ESPECIALIZADAS ATENDIENDO LA ESPECIE.
 
-I. El vecino se traslade a residir a otro lugar en función del desempeño de un cargo de elección popular, público o comisión de carácter oficial;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-II. Por ausencias temporales, siempre y cuando se mantenga el domicilio y se le dé aviso a la autoridad municipal; y,
+###### ARTICULO 9.
 
-III. Por causa de fuerza mayor debidamente comprobada.
+EL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL, FORMULARA LOS PLANES, PROGRAMAS Y PROYECTOS, PREVIENDO LO NECESARIO PARA EL FOMENTO, DESARROLLO Y SANIDAD ANIMAL.
 
-###### Artículo 10.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los ciudadanos de un municipio tendrán los siguientes derechos y obligaciones:
+###### ARTICULO 10.
 
-I. Votar y ser votados para los cargos de elección popular municipales;
+LAS ORGANIZACIONES PECUARIAS LEGALMENTE CONSTITUIDAS Y LOS COMITES QUE SE INTEGREN CON ESTAS, FUNCIONARAN COMO ORGANOS DE APOYO PARA LA FORMULACION DE PROGRAMAS PECUARIOS.
 
-II. Proponer ante el Ayuntamiento el Bando de Gobierno Municipal, reglamentos, circulares y disposiciones administrativas de observancia general en el municipio, con el objeto de organizar el gobierno municipal y regular sus atribuciones y procedimientos;
+> <small>(ADICIONADA SU DENOMINACION, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. Proporcionar verazmente y sin demora, los informes y datos estadísticos y de otro género que les sean solicitados por las autoridades municipales;
+## TITULO SEGUNDO. CLASIFICACION, FOMENTO Y MEJORAMIENTO DE LAS ESPECIES
 
-IV. Inscribirse en los padrones estadísticos o reglamentarios que determinen las disposiciones aplicables y declarar con probidad, la información que se les solicite para el mismo fin;
+### CAPITULO I. CLASIFICACION DE LOS ANIMALES OBJETO DE ESTA LEY
 
-V. Desempeñar los cargos de concejal, las funciones electorales que correspondan, formar parte de los concejos municipales o de participación ciudadana que se constituyan, de conformidad con las disposiciones aplicables;
+###### ARTICULO 11.
 
-VI. Limitar su libertad al derecho que tienen los demás de convivir en armonía, realizando sus actividades públicas y privadas con respeto al interés de la colectividad;
+PARA LOS EFECTOS DE ESTA LEY, SE CLASIFICAN LOS ANIMALES OBJETO DE LA MISMA EN:
 
-VII. Respetar y obedecer a las autoridades legalmente constituidas y cumplir las leyes, reglamentos y disposiciones emanadas de las mismas;
+A) GANADO MAYOR
 
-VIII. Actuar con espíritu de solidaridad, auxiliando a las autoridades cuando sean legítimamente requeridos para ello, así como contribuir a la realización de obras de beneficio común;
+B) GANADO MENOR
 
-IX. Responder a los llamados debidamente motivados y fundados, que por escrito o por cualquier medio idóneo, les haga el Ayuntamiento o sus autoridades;
+C) ESPECIES AVICOLAS
 
-X. Procurar la conservación y mejoramiento de los servicios públicos municipales, respondiendo, en su caso, por el deterioro que ocasionen a los bienes del dominio público de uso común;
+D) ESPECIES APICOLAS
 
-XI. Informar oportunamente a las autoridades municipales sobre desperfectos o fallas en la prestación de los servicios públicos municipales;
+E) ESPECIES CUNICOLAS
 
-XII. Abstenerse de tirar basura o ensuciar la vía pública o en los bienes de dominio privado y contribuir a la limpieza, ornato, forestación y conservación de las áreas verdes del municipio y de los centros de población en que residan;
+F) ESPECIES DE PELETERIA.
 
-XIII. Coadyuvar en la protección y preservación del equilibrio ecológico, así como en las tareas de prevención de la contaminación y deterioro de los ecosistemas, de conformidad con las disposiciones en la materia;
+###### ARTICULO 12.
 
-XIV. Participar con el Ayuntamiento en la realización de acciones, ejecución de obras y servicios públicos de interés colectivo para el bienestar social, que se deriven de una planeación democrática y participativa;
+SON GANADO MAYOR, LAS ESPECIES: BOVINA Y EQUINA.
 
-XV. Cumplir con el pago de las cuotas y tarifas aplicables a impuestos, derechos y contribuciones aprobadas por el Ayuntamiento o la Legislatura del Estado, de acuerdo a la legislación correspondiente;
+###### ARTICULO 13.
 
-XVI. Enviar a sus hijos o menores de edad bajo su custodia a obtener educación obligatoria;
+SON GANADO MENOR, LAS ESPECIES: CAPRINA, OVINA Y PORCINA.
 
-XVII. Los vecinos del municipio en igualdad de circunstancias, tendrán preferencia para el desempeño de empleos, cargos y comisiones del Ayuntamiento, para el otorgamiento de contratos y concesiones municipales, de conformidad con las disposiciones aplicables;
+###### ARTICULO 14.
 
-XVIII. Constituir un consejo ciudadano para participar en la fiscalización y evaluación de las acciones de gobierno, a través de los mecanismos que establezca el Ayuntamiento; y,
+SON ESPECIES AVICOLAS: LAS AVES DE CORRAL Y AQUELLAS SUSCEPTIBLES DE APROVECHAMIENTO ZOOTECNICO-ECONOMICO.
 
-XIX. Las que determinen esta Ley y las demás disposiciones aplicables.
+###### ARTICULO 15.
 
-## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
+LAS ABEJAS CONSTITUYEN LA ESPECIE APICOLA: LOS CONEJOS Y LAS LIEBRES CONSTITUYEN LA ESPECIE CUNICOLA: SON ESPECIES DE PELETERIA, AQUELLAS CUYA PIEL SEA SUSCEPTIBLE DE APROVECHARSE EN LA INDUSTRIA PELETERA.
 
-### Capítulo III. De la Vecindad
+### CAPITULO II. DEL FOMENTO DE LA ACTIVIDAD PECUARIA
 
-###### Artículo 7º.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Son vecinos del municipio las personas, que residan permanente o temporalmente dentro de su territorio manteniendo su domicilio.
+###### ARTICULO 16.
 
-Los ayuntamientos a través de la secretaría, integrarán y mantendrán actualizado un padrón municipal que permita conocer el número de vecinos de su respectiva demarcación territorial; para lo cual se asignarán los recursos necesarios y se emitirá la reglamentación respectiva.
+EL EJECUTIVO DEL ESTADO, A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL, CON LA FINALIDAD DE CONSOLIDAR LAS ACTIVIDADES PECUARIAS, IMPLEMENTARA E IMPLANTARA PROGRAMAS PARA FORTALECER LA PRODUCCION MEDIANTE LOS SERVICIOS DE ASISTENCIA TECNICA, ORGANIZACION, CAPACITACION, TRANSFERENCIA Y DIFUSION DE TECNOLOGIA PECUARIA, REPRODUCCION Y MEJORAMIENTO GENETICO, COMERCIALIZACION Y AGROINDUSTRIA, ASI COMO ACCIONES DE PREVENCION, CONTROL Y ERRADICACION DE ENFERMEDADES Y PLAGAS, QUE LAS AFECTEN.
 
-Para efecto de altas y bajas del padrón se mantendrá una estrecha coordinación con el Juzgado del Registro Civil.
+> <small>(REFORMADO, 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 11.
+###### ARTICULO 17.
 
-Los Ayuntamientos son órganos colegiados deliberantes y autónomos electos popularmente de manera directa; constituyen el órgano responsable de gobernar y administrar cada Municipio y representan la autoridad superior en los mismos.
+LOS PROGRAMAS, DEBERAN TENER LOS OBJETIVOS SIGUIENTES:
 
-###### Artículo 12.
+I. PROMOVER LA GANADERIA INTENSIVA;
 
-Entre el Ayuntamiento y los Poderes del Estado no habrá autoridad intermedia alguna. Para la gestión, planeación, programación y ejecución de programas de interés comunitario o intermunicipal se establecerán las relaciones de colaboración y coordinación necesaria, a través de los instrumentos jurídicos correspondientes, a fin de propiciar el desarrollo regional aprovechando de manera integral las fortalezas, recursos naturales y la capacidad productiva de las diversas y diferentes regiones de la Entidad.
+II. SISTEMATIZAR E INCREMENTAR EL INVENTARIO PECUARIO;
 
-###### Artículo 13.
+III. PROMOVER LA GANADERIA DE DOBLE PROPOSITO PRODUCTIVO, QUE GENERE EL ESTABLECIMIENTO DE UN SISTEMA PARA LA CLASIFICACION DE LOS PRODUCTOS, TALES COMO CARNE, LECHE Y SUS DERIVADOS;
 
-Los miembros de los Ayuntamientos se elegirán por sufragio universal, directo, libre y secreto de los ciudadanos, bajo el sistema electoral mixto de mayoría relativa y de representación proporcional y durarán en su encargo tres años, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, el Código Electoral del Estado y las demás disposiciones aplicables.
+IV. PROMOVER LA PRODUCCION INTENSIVA ASOCIADA CON LA AGRICULTURA;
 
-###### Artículo 14.
+V. FORTALECER LA PRODUCCION A TRAVES DEL ESTABLECIMIENTO DE CUENCAS PRODUCTIVAS, ASI COMO INSTRUMENTAR ESQUEMAS ADECUADOS PARA LA INDUSTRIALIZACION Y COMERCIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS QUE DE ESTAS SE OBTENGA;
 
-El Ayuntamiento se integrará con los siguientes miembros:
+VI. FOMENTAR LOS ESTUDIOS SOBRE COEFICIENTE DE AGOSTADEROS, EN TODAS LAS AREAS GANADERAS EXISTENTES;
 
-I. Un Presidente Municipal, que será el representante del Ayuntamiento y responsable directo del gobierno y de la administración pública municipal, por tanto, encargado de velar por la correcta planeación, programación, ejecución y control de los programas, obras y servicios públicos a cargo de la municipalidad;
+VII. PROMOVER LA ORGANIZACION DE LOS PRODUCTORES DEDICADOS A LA ACTIVIDAD PECUARIA, PARA LA TRANSFORMACION Y APROVECHAMIENTO DE LOS RECURSOS NATURALES;
 
-II. Un cuerpo de Regidores que representarán a la comunidad, cuya función principal será participar en la atención y solución de los asuntos municipales; así como vigilar que el ejercicio de la administración municipal se desarrolle conforme a lo dispuesto en las disposiciones aplicables; y,
+VIII. ASESORAR A LOS PRODUCTORES PECUARIOS CON LA FINALIDAD DE QUE SE ORGANICEN EN ASOCIACIONES GANADERAS LOCALES O UNIONES GANADERAS TANTO GENERALES COMO ESPECIALIZADAS, ASI COMO EN OTRAS FIGURAS ASOCIATIVAS, DE CONFORMIDAD A LO ESTABLECIDO EN EL ARTICULO 9º CONSTITUCIONAL Y EN LA LEY DE ORGANIZACIONES GANADERAS;
 
-III. Un Síndico responsable de vigilar la debida administración del erario público y del patrimonio municipal.
+IX. PROMOVER LA TRANSFORMACION AGROINDUSTRIAL DE LOS PRODUCTOS PECUARIOS;
 
-Los ayuntamientos de los municipios de Apatzingán, Hidalgo, La Piedad, Lázaro Cárdenas, Morelia, Uruapan, Zacapu, Zamora y Zitácuaro se integrarán con siete regidores electos por mayoría relativa y hasta cinco regidores de representación proporcional.
+X. DISEÑAR Y OPERAR PROGRAMAS PARA EL APROVECHAMIENTO DE SUELOS DE ACUERDO A SU VOCACION;
 
-Los ayuntamientos de los municipios cabecera de distrito a que no se refiere el párrafo anterior, así como los de Jacona, Sahuayo y Zinapécuaro se integrarán con seis Regidores electos por mayoría relativa y hasta cuatro Regidores de representación proporcional.
+XI. AUXILIAR EN LA GESTION PARA LA OBTENCION DE LINEAS DE CREDITO PARA LAS ACTIVIDADES PECUARIAS DE ACUERDO CON LAS NECESIDADES PLANTEADAS POR LAS ORGANIZACIONES Y LOS REQUERIMIENTOS ECONOMICOS PARA INCREMENTAR LA PRODUCCION Y LA PRODUCTIVIDAD;
 
-El resto de los Ayuntamientos de los Municipios del Estado, se integrarán con cuatro Regidores por mayoría relativa y hasta tres Regidores de representación proporcional.
+XII. PROTEGER EL DESARROLLO DEL INVENTARIO PECUARIO, PROCURANDO, EVITAR LA SALIDA Y ENTRADA EN EL ESTADO DE GANADO MAYOR Y ESPECIES MENORES, CUANDO LAS CONDICIONES DE LA GANADERIA ESTATAL LO REQUIERAN, A EXCEPCION DE LAS ESPECIES QUE ESTEN DESTINADAS PARA CONSUMO NACIONAL Y DE EXPLOTACION, PREVIA PRACTICA DE LAS PRUEBAS DIAGNOSTICAS ESTIPULADAS EN LAS NORMAS OFICIALES MEXICANAS DE CADA ESPECIE;
 
-Por cada síndico y por cada uno de los regidores, se elegirá un suplente.
+XIII. ORIENTAR A LOS PRODUCTORES PECUARIOS EN MATERIA DE USO DE PRADERAS Y ROTACION DE POTREROS;
 
-###### Artículo 15.
+XIV. MEJORAR LA CALIDAD GENETICA DEL INVENTARIO PECUARIO;
 
-El Ayuntamiento residirá en la cabecera del municipio, y solo podrá cambiar su residencia con la aprobación del Congreso del Estado, por mayoría de votos de los diputados presentes, previo estudio que lo justifique.
+XV. DESARROLLAR Y FOMENTAR LAS ACTIVIDADES DE ESPECIES MENORES, ORIENTANDOLAS A LAS ZONAS DE POTENCIALES NO DESARROLLADAS;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+XVI. PROMOVER ENTRE LOS PRODUCTORES PECUARIOS LA ADOPCION DE TECNOLOGIAS, A EFECTO DE EFICIENTAR LOS MECANISMOS DE PRODUCCION, Y;
 
-### Capítulo I. De la Integración de los Ayuntamientos
+XVII. PROMOVER, FORTALECER Y ORIENTAR A LOS PRODUCTORES PECUARIOS, EN LA REALIZACION DE ACCIONES EN MATERIA DE SALUD ANIMAL, EN SUS EXPLOTACIONES PECUARIAS.
 
-###### Artículo 16.
+### CAPITULO III. MEJORAMIENTO DE LA GANADERIA
 
-Los cargos de Presidente Municipal, Síndico y Regidores de un Ayuntamiento, son obligatorios pero no gratuitos, su remuneración se fijará en los presupuestos de egresos correspondientes y se publicará en los estrados y permanentemente en la página electrónica del Ayuntamiento respectivo, a más tardar a los cinco días naturales de la aprobación del presupuesto de egresos para el periodo correspondiente.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Estos cargos sólo podrán ser renunciables por causa grave que califique el Ayuntamiento con sujeción a esta Ley.
+###### ARTICULO 18.
 
-###### Artículo 17.
+LA SECRETARIA DE DESARROLLO RURAL, ESTABLECERA PROGRAMAS QUE CONDUZCAN AL MEJORAMIENTO DE LA ACTIVIDAD PECUARIA, ASOCIADOS A LA EXPLOTACION INTENSIVA; PARA PROPICIAR LA ALTA PRODUCTIVIDAD Y EL USO DE NUEVAS TECNOLOGIAS, QUE TIENDAN A CONSOLIDAR PRINCIPALMENTE LA ACTIVIDAD PECUARIA EN AQUELLAS ZONAS DE EVIDENTE VOCACION.
 
-Los Ayuntamientos tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos, de conformidad con las disposiciones aplicables.
+###### ARTICULO 19.
 
-### Capítulo II. De la Instalación de los Ayuntamientos
+LA DEPENDENCIA RESPONSABLE IMPLEMENTARA UN SISTEMA ESTATAL DE CRIA DETERMINANDO LAS ESPECIES, RAZAS Y VARIEDADES MAS ADECUADAS A LA ECOLOGIA REGIONAL, ESTE SISTEMA SE ORGANIZARA COMO EMPRESA DE INTERES PUBLICO, CON LA PARTICIPACION DE LOS GANADEROS DEL ESTADO, CON EL FIN DE LOGRAR EL FOMENTO Y MEJORAMIENTO EFECTIVO DE LA GANADERIA.
 
-###### Artículo 18.
+###### ARTICULO 20.
 
-Los miembros electos del Ayuntamiento tomarán posesión de su cargo, en un acto solemne y público, el primer día de enero del año inmediato siguiente a su elección.
+EL SISTEMA ESTATAL DE CRIA SE INTEGRARA CON:
 
-Sólo por causas consignadas en el Código Electoral del Estado, los Ayuntamientos podrán instalarse en fecha posterior.
+A) ESTACIONES REGIONALES DE CRIA.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+B) CENTROS PROCESADORES DE SEMEN.
 
-###### Artículo 19.
+C) CENTROS DE MONTA DIRECTA, BANCOS DE SEMEN Y TRANSPLANTES DE EMBRIONES.
 
-Para efectos de la instalación del Ayuntamiento, en la última sesión ordinaria del mes inmediato anterior a la fecha de terminación de la gestión del Ayuntamiento saliente, se nombrará una Comisión instaladora del Ayuntamiento electo, la cual estará integrada por el Síndico Municipal quien la encabeza, el Síndico electo, un regidor en funciones y otro electo.
+D) CAMPOS EXPERIMENTALES.
 
-La comisión instaladora, previo acuerdo con el Presidente electo, convocará a los integrantes del Ayuntamiento electo, de conformidad con la constancia de mayoría emitida por el órgano correspondiente o, en su caso la resolución del Tribunal Estatal Electoral, al menos con anticipación de cinco días naturales para que concurran a la sesión solemne de instalación.
+###### ARTICULO 21.
 
-El Presidente electo, propondrá el lugar y la hora en que se celebrará la sesión solemne, debiendo ser invariablemente en la cabecera municipal respectiva.
+ASI MISMO, DETERMINARA LAS ESPECIES, RAZAS Y EL NUMERO DE ANIMALES QUE INTEGRARA CADA UNA DE LAS UNIDADES A QUE SE REFIERE EL ARTICULO ANTERIOR, EL LUGAR DE UBICACION Y ZONAS DE INFLUENCIA DE LA MISMA.
 
-La invitación para asistir a dicha sesión se hará extensiva a la comunidad en general debiendo incluir lugar, fecha y hora de la sesión, así como la orden del día correspondiente.
+###### ARTICULO 22.
 
-El Ayuntamiento electo, en reunión previa a la sesión de instalación, designará de entre sus integrantes a un secretario para levantar el acta de instalación, mismo que durará en dicho encargo hasta la sesión donde se designe al Secretario del Ayuntamiento.
+LAS ESTACIONES REGIONALES DE CRIA SE ENCARGARAN DE:
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+A) PRODUCIR ANIMALES DE RAZA PURA PARA EL MEJORAMIENTO DEL GANADO EN LAS ZONAS DE INFLUENCIA.
 
-###### Artículo 19 Bis.
+B) DOTAR DE SEMENTALES A LOS CENTROS DE MONTA DIRECTA.
 
-Una vez terminada el acta de instalación del Ayuntamiento, el integrante del ayuntamiento electo, en funciones de secretario, previo acuerdo con el Presidente, procederá a citar a los integrantes del Ayuntamiento a una sesión extraordinaria para realizar el nombramiento de Secretario del Ayuntamiento y Tesorero Municipal, durante los cinco días naturales siguientes a la instalación del nuevo Ayuntamiento.
+C) CANJEAR ANIMALES SELECTOS POR CRIOLLOS O VENDERLOS A GANADEROS ORGANIZADOS.
 
-###### Artículo 20.
+D) ESTABLECER CENTROS DE EVALUACION DE PIES DE CRIA.
 
-El día señalado para la instalación, el Presidente Municipal electo rendirá protesta ante los miembros del Ayuntamiento y enseguida les tomará protesta a los demás miembros del Ayuntamiento.
+E) HACER DEMOSTRACIONES OBJETIVAS DE BROMATOLOGIA, RACIONES BALANCEADAS Y DEMAS METODOS DE CRIANZA.
 
-Una vez declarado el quórum legal, el Presidente Municipal electo, puesto en pie al igual que todos los miembros del Ayuntamiento, dirá: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo de Presidente Municipal que el pueblo me ha conferido mirando en todo por el bien y la prosperidad de la Nación, del Estado y del Municipio, y si así no lo hiciere que me lo demanden''. Enseguida el Presidente Municipal preguntará a los demás miembros del Ayuntamiento que permanecerán de pie: ¿"Protestan guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las leyes que de ambas emanen y desempeñar leal y patrióticamente el cargo que el pueblo les ha conferido, mirando en todo por el bien y la prosperidad de la Nación, del Estado y del Municipio"?. Los interrogados deberán contestar: "Sí protesto"; el Presidente dirá entonces: "Si así no lo hicieren, que se los demanden".
+F) PROTEGER LAS CRIAS DE LOS SEMENTALES SELECCIONADOS.
 
-Igual protesta está obligado a rendir el integrante del Ayuntamiento que se presente después y cualquiera que fuere llamado o designado para suplir a su propietario.
+G) SELECCIONAR VIENTRES RECEPTORES.
 
-###### Artículo 21.
+H) INTERCAMBIAR SEMENTALES ENTRE LOS GANADEROS DE LAS DIFERENTES ASOCIACIONES LOCALES, CON EL PROPOSITO DE REFRESCAR LA SANGRE Y EVITAR LA DEGENERACION DEL GANADO POR RAZONES DE CONSANGUINIDAD.
 
-El Ayuntamiento saliente hará entrega al Ayuntamiento entrante, del documento que contenga la situación que guarda la administración pública municipal.
+I) PRESTAR SERVICIOS DE MEDICINA VETERINARIA, INVESTIGACION, DEMOSTRACION Y ENSEÑANZA ZOOTECNICA EN FORMA GRATUITA.
 
-La entrega-recepción, es un acto obligatorio que no deberá dejar de realizarse por ningún motivo y se realizará durante los quince días naturales siguientes a la instalación del nuevo Ayuntamiento.
+###### ARTICULO 23.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+SERAN OBLIGACIONES DE LOS CENTROS PROCESADORES DE SEMEN, LAS SIGUIENTES:
 
-En la entrega-recepción, la Auditoría Superior de Michoacán, designará un representante para que participe como observador.
+A) ALIMENTAR Y MANTENER EN PERFECTAS CONDICIONES FISICAS Y SANITARIAS A LOS SEMENTALES QUE TENGAN A SU CUIDADO.
 
-###### Artículo 22.
+B) PROCESAR Y CLASIFICAR EL SEMEN QUE SE OBTENGA DE LOS SEMENTALES.
 
-El documento referido en el artículo anterior, deberá contener:
+C) PROPORCIONAR A LOS PRODUCTORES DEL SUBSECTOR PECUARIO, LAS DOSIS QUE LES SEAN SOLICITADAS.
 
-I. Los libros de actas de las reuniones del Ayuntamiento saliente y la información sobre el lugar donde se encuentren los libros de las administraciones anteriores;
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-II. La documentación relativa a la situación financiera y los estados contables, que deberán contener los libros de contabilidad y registros auxiliares, correspondientes al Ayuntamiento saliente;
+D). IMPLEMENTAR MEDIDAS DE BIOSEGURIDAD.
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2007)</small>
+###### ARTICULO 24.
 
-III. La documentación relativa al estado que guarda la cuenta pública del Municipio, la que incluirá las aprobaciones y observaciones y recomendaciones requerimientos o apercibimientos emitidos por Auditoría Superior de Michoacán y demás órganos con facultades para la fiscalización en la aplicación de recursos municipales;
+LOS CENTROS DE MONTA DIRECTA, BANCOS DE SEMEN Y TRANSPLANTE DE EMBRIONES, TENDRAN A SU CARGO LAS SIGUIENTES FUNCIONES:
 
-IV. La situación de la deuda pública municipal, documentación relativa a la misma y su registro;
+A) PROPORCIONAR A LOS GANADEROS SERVICIOS DE INSEMINACION ARTIFICIAL O DE MONTA CON SEMENTALES DE RAZA MEJORADA.
 
-V. El estado de la obra pública ejecutada y en proceso en el municipio y la documentación relativa a la misma;
+B) SELECCIONAR A LAS HEMBRAS DESTINADAS A SER CUBIERTAS POR LOS SEMENTALES DE LOS CENTROS; Y A LAS HEMBRAS DONADORAS Y RECEPTORAS DEL TRANSPLANTE DE EMBRIONES.
 
-VI. La situación que guarda la aplicación del gasto público de los recursos federales y estatales, así como los informes y comprobantes de los mismos, presentados ante la Contraloría del Estado;
+C) PRESTAR SERVICIOS DE MEDICINA VETERINARIA, INVESTIGACION, DEMOSTRACION Y ENSEÑANZA ZOOTECNICA.
 
-VII. La plantilla y los expedientes del personal al servicio del municipio, antigüedad, prestaciones, catálogo de puestos y demás información al respecto;
+###### ARTICULO 25.
 
-VIII. La documentación relativa a convenios o contratos que el municipio tenga con otros municipios, con el Estado, con el Gobierno Federal o con particulares;
+A LOS CAMPOS EXPERIMENTALES, LES CORRESPONDE LAS SIGUIENTES FUNCIONES:
 
-IX. La documentación relativa a los proyectos aprobados y ejecutados, así como el estado que guardan los mismos en proceso de ejecución;
+A) HACER INVESTIGACIONES Y DEMOSTRACIONES DE GANADERIA INTENSIVA.
 
-X. El registro, inventario, catálogo y resguardo de bienes muebles e inmuebles propiedad del municipio, así como el inventario de los bienes inmuebles propiedad del municipio que se encuentren en comodato;
+B) PROCURAR EL MEJOR APROVECHAMIENTO DE LOS RECURSOS FORRAJEROS QUE EXISTAN EN EL ESTADO.
 
-XI. La documentación relativa al estado que guardan los asuntos tratados por las comisiones del Ayuntamiento; y, (sic)
+C) LLEVAR A CABO INVESTIGACIONES PARA DETERMINAR LAS ESPECIES, RAZAS Y VARIEDADES MAS ADECUADAS A LA ECOLOGIA REGIONAL, CON EL PROPOSITO DE MEJORAR LA PRODUCCION GANADERA.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+D) IMPARTIR CONOCIMIENTOS PRACTICOS DE GANADERIA EN LAS AREAS DE REPRODUCCION, PRODUCCION, ALIMENTACION, SANIDAD Y MANEJO ANIMAL.
 
-XII. La información relativa a los procedimientos jurisdiccionales o administrativos en materia laboral, civil, penal o cualquier otra en que el ayuntamiento sea parte, así como los asuntos en trámite, debiendo hacerlo de inmediato.
+E) INSTRUMENTAR CAMPAÑAS SANITARIAS Y DE ALIMENTACION RACIONAL.
 
-> <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2011)</small>
+F) PRESTAR SERVICIOS DE MEDICINA VETERINARIA, INVESTIGACION, DEMOSTRACION Y ENSEÑANZA ZOOTECNICA.
 
-XIII. La demás información que se considere importante para garantizar la continuidad de la Administración Pública Municipal.
+## TITULO TERCERO. CLASIFICACION DE GANADOS Y CARNES
 
-###### Artículo 23.
+### CAPITULO UNICO
 
-El Secretario del Ayuntamiento entrante, levantara acta circunstanciada de la entrega-recepción, la cual deberá ser firmada por los que intervinieron y se proporcionará copia certificada a los integrantes del Ayuntamiento saliente.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+###### ARTICULO 26.
 
-###### Artículo 24.
+SE CREA LA COMISION ESTATAL DE CLASIFICACION DE SEMOVIENTES Y DE CARNES PARA EL ESTADO DE CHIAPAS, MISMA QUE SE INTEGRARA CON REPRESENTANTES DE LAS DEPENDENCIAS Y ENTIDADES DE LA ADMINISTRACION PUBLICA FEDERAL, ESTATAL Y MUNICIPAL QUE INCIDAN EN LA PRODUCCION Y COMERCIALIZACION PECUARIA, ASI COMO CON REPRESENTANTES DE ORGANIZACIONES DE PRODUCCION PECUARIA, DE UNIVERSIDADES E INSTITUTOS TECNOLOGICOS Y DE ORGANIZACIONES DE INVESTIGACION.
 
-Una vez concluida la entrega-recepción, el Ayuntamiento entrante designará una comisión especial, que se encargará de analizar el expediente integrado con la documentación conducente, para formular en un plazo de veinticinco días naturales un dictamen que señale si la entrega-recepción fue completa o no.
+###### ARTICULO 27.
 
-El dictamen se someterá dentro de los diez días naturales siguientes, al conocimiento y consideración del Ayuntamiento, el cual deberá de aprobarlo dentro de los cinco días naturales siguientes al en que sea sometido el mismo.
+LA COMISION ESTATAL DE CLASIFICACION DE GANADO Y CARNES, ESTUDIARA Y DETERMINARA LA CLASIFICACION DE GANADO ATENDIENDO A SU CLASIFICACION DE PRODUCCION, LAS TECNICAS DE MANEJO EN LOS CORRALES DE ENGORDA Y CARNES, EL GRADO DE CALIDAD PARA SU VENTA Y CONSUMO DENTRO Y FUERA DEL ESTADO.
 
-###### Artículo 25.
+###### ARTICULO 28.
 
-El Ayuntamiento habiendo conocido el dictamen, emitirá el acuerdo correspondiente, mismo que no exime de responsabilidad a los integrantes y servidores públicos del Ayuntamiento saliente.
+PARA LOS EFECTOS DE LA PRESENTE LEY, SE ENTIENDE POR "CLASIFICACION", LA DETERMINACION DEL GRADO DE CALIDAD DEL GANADO Y LAS CARNES.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2007)</small>
+###### ARTICULO 29.
 
-El Ayuntamiento, dentro de los diez días naturales, remitirá copia del expediente de entrega-recepción, así como el dictamen aprobado del mismo por el Ayuntamiento al Congreso del Estado, para el efecto de revisión de las cuentas públicas municipales.
+LOS GRADOS DE CALIDAD PARA LA CLASIFICACION DE CARNES EN CANAL SERAN LOS SIGUIENTES:
 
-## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL
+A) SUPREMA
 
-### Capítulo III. De la Entrega-Recepción de la Administración Pública Municipal
+B) SELECTA
 
-###### Artículo 26.
+C) BUENA
 
-Para resolver los asuntos que le corresponden, el Ayuntamiento celebrará sesiones que podrán ser:
+D) ESTANDAR
 
-I. Ordinarias: Las que obligatoriamente deberán llevarse a cabo cuando menos dos veces al mes, en la primera y segunda quincena, para atender asuntos de la administración Municipal;
+E) COMERCIAL
 
-II. Extraordinarias: Las que se realizarán cuantas veces sean necesarias para resolver situaciones de urgencia. En cada sesión extraordinaria sólo se tratará el asunto que motivó la sesión;
+LAS ESPECIFICACIONES QUE DETERMINEN LA CLASIFICACION ANTERIOR, SERAN DEFINIDAS EN EL REGLAMENTO CORRESPONDIENTE QUE EXPIDA EL TITULAR DEL EJECUTIVO DEL ESTADO.
 
-III. Solemnes: Aquéllas que exigen un ceremonial especial; y,
+###### ARTICULO 30.
 
-IV. Internas: Las que por acuerdo del Ayuntamiento tengan carácter privado a las que asistirán únicamente los miembros de éste.
+LOS GRADOS DE CALIDAD PARA CLASIFICACION DE GANADO EN PIE SERAN LOS SIGUIENTES:
 
-###### Artículo 27.
+A) SUPREMA
 
-Las sesiones ordinarias, extraordinarias y solemnes serán públicas, deberán celebrarse en el recinto oficial del Ayuntamiento, y las solemnes en el recinto que para tal efecto acuerde el propio Ayuntamiento mediante declaratoria oficial.
+B) SELECTA
 
-En casos especiales y previo acuerdo podrán también celebrarse las sesiones en otro lugar abierto o cerrado, dentro de la jurisdicción municipal.
+C) ESTANDAR
 
-###### Artículo 28.
+D) COMERCIAL
 
-Las sesiones serán convocadas por el Presidente Municipal o las dos terceras partes de los integrantes del Ayuntamiento, a través del secretario del mismo. La citación será personal, de ser necesario en el domicilio particular del integrante del Ayuntamiento, por lo menos con cuarenta y ocho horas de anticipación, tratándose de extraordinarias se hará cuando menos con veinticuatro horas de anticipación, contener el orden del día y en su caso la información necesaria para el desarrollo de las mismas, así como el lugar, día y hora.
+E) REGULAR
 
-Para que las sesiones sean válidas, se requiere la asistencia de la mitad más uno de los integrantes del Ayuntamiento y serán dirigidas por el Presidente Municipal y en ausencia de éste, por el Síndico y en ausencia de ambos, quien determine la mayoría de los asistentes.
+F) DESHUESE
 
-Si a la primera citación no asisten los miembros necesarios para celebrar la sesión, se citará nuevamente en los términos que fija esta ley. Ese mismo día los asistentes establecerán la fecha y hora en la que se desarrollará la sesión ordinaria.
+G) INDUSTRIAL
 
-Los acuerdos se tomarán por mayoría de votos de los miembros presentes en la sesión, teniendo el Presidente Municipal voto de calidad para el caso de empate.
+LAS ESPECIFICACIONES QUE DETERMINEN LA CLASIFICACION ANTERIOR SERAN DEFINIDAS EN EL REGLAMENTO CORRESPONDIENTE.
 
-El Ayuntamiento sesionará las veces que señale su reglamento, pero nunca serán menos de dos sesiones ordinarias al mes.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 29.
+###### ARTICULO 31.
 
-Cada sesión del Ayuntamiento se iniciará con la lectura del Acta de la sesión anterior sometiéndose a aprobación o rectificación de quienes intervinieron en la misma. Posteriormente el Secretario del Ayuntamiento informará sobre el cumplimiento de los acuerdos de la sesión anterior. Cumplido esto, se deliberarán los asuntos restantes del orden del día.
+LA SECRETARIA DE DESARROLLO RURAL, PROPONDRA AL EJECUTIVO DEL ESTADO, PARA QUE JUNTAMENTE CON LA SECRETARIA DE COMERCIO, INSTITUTO NACIONAL DEL CONSUMIDOR Y PROCURADURIA FEDERAL DEL CONSUMIDOR, DETERMINEN SOBRE LOS PRECIOS DEL GANADO Y CARNES QUE SE EXPENDAN EN LA ENTIDAD.
 
-Los acuerdos del Ayuntamiento se registrarán en los Libros de Actas en original y duplicado que serán firmados por los miembros que hayan estado presentes.
+###### ARTICULO 32.
 
-El Secretario del Ayuntamiento deberá expedir copias certificadas de los acuerdos asentados en el Libro a los miembros del Ayuntamiento que lo soliciten.
+LOS GRADOS DE CALIDAD DE LAS ESPECIES MENORES Y SUS CARNES, QUEDARAN SUJETAS A LA CLASIFICACION CON BASE EN LAS ESPECIFICACIONES QUE SE SEÑALEN Y GOZARAN DE LAS PRERROGATIVAS QUE SE DETERMINEN, CUANDO A JUICIO DEL EJECUTIVO DEL ESTADO LO ESTIME CONVENIENTE.
 
-En el curso del primer mes de cada año, el Ayuntamiento deberá remitir a la Dirección de Archivos del Poder Ejecutivo, un ejemplar del Libro de Actas de las Sesiones del Ayuntamiento correspondiente al año anterior.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 30.
+###### ARTICULO 33.
 
-Previo acuerdo de sus miembros, en las sesiones del Ayuntamiento deberán comparecer servidores públicos municipales cuando se trate de asuntos de su competencia. Tal comparecencia será convocada por el Presidente Municipal.
+EL PERSONAL DEL SERVICIO DE CLASIFICACION DE SEMOVIENTES Y DE CARNES DEBERA DEMOSTRAR SU PREPARACION ESPECIALIZADA Y SERA DESIGNADO POR LAS EMPRESAS PROCESADORAS DE LA CARNE, PRODUCTOS Y SUBPRODUCTOS DE LA MISMA. LA SECRETARIA DE SALUD SUPERVISARA QUE ESTAS ACTIVIDADES CUMPLAN CON LOS REGLAMENTOS SANITARIOS APLICABLES.
 
-###### Artículo 31.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Los casos no previstos en la presente Ley, respecto al funcionamiento del Ayuntamiento, se sujetarán a las disposiciones de los respectivos reglamentos municipales o a los acuerdos del propio Ayuntamiento.
+###### ARTICULO 34.
 
-###### Artículo 32.
+LA COMISION ESTATAL DE CLASIFICACION DE SEMOVIENTES Y DE CARNES, SUGERIRA A LA SECRETARIA DE DESARROLLO RURAL, LA FORMA DE REDUCIR EL SACRIFICIO DE HEMBRAS PREÑADAS Y LAS CONDICIONES QUE AUTORICEN LA MATANZA DE ESTAS.
 
-Los Ayuntamientos tienen las siguientes atribuciones:
+###### ARTICULO 35.
 
-a).- En materia de Política Interior:
+SOLO SERAN CLASIFICADAS LAS CARNES DE GANADOS FINALIZADOS Y CLASIFICADOS DE PRIMERA POR SU PESO, EDAD Y BUENA CONFORMACION EN PIE.
 
-I. Prestar, en su circunscripción territorial en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y la presente Ley, los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales; alumbrado público; limpia, recolección, traslado, tratamiento y disposición final de residuos; mercados y centrales de abastos; panteones; rastro; calles, parques y jardines y su equipamiento; seguridad pública en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos; policía preventiva municipal y tránsito, así como los demás que se determinen conforme a otras disposiciones aplicables;
+LA CLASIFICACION DE CARNES DE LAS DEMAS ESPECIES, SE HARA DE CONFORMIDAD A LO QUE ESTABLEZCA LA COMISION ESTATAL CORRESPONDIENTE.
 
-II. Realizar sus políticas y programas de gobierno, en coordinación con los Gobiernos Estatal y Federal y la sociedad organizada;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-III. Auxiliar en su circunscripción territorial a las autoridades federales y estatales en el cumplimiento de los asuntos de su competencia;
+###### ARTICULO 36.
 
-IV. Formular, conducir y evaluar la política ambiental municipal en congruencia con los criterios que, en su caso, formule la Federación y el Gobierno del Estado;
+TODO COMERCIANTE O EXPENDIO DE CARNE CLASIFICADA, ENGORDADOR DE GANADO, PRODUCTOR DE FORRAJES, RASTROS, EMPACADORAS, FRIGORIFICOS, CONGELADORAS, ASI COMO TODOS LOS QUE SE INTEGREN AL PROGRAMA DE CLASIFICACION DE SEMOVIENTES Y DE CARNES, PARA SU FUNCIONAMIENTO, DEBERAN OBTENER EL REGISTRO CORRESPONDIENTE DE LA SECRETARIA DE DESARROLLO RURAL.
 
-V. Proteger y preservar el equilibrio ecológico en la materia de su competencia, de conformidad con las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-VI. Formular, aprobar y aplicar los planes de desarrollo urbano municipal, de conformidad con las disposiciones aplicables;
+###### ARTICULO 37.
 
-VII. Vigilar el uso adecuado del suelo municipal, de conformidad con las disposiciones y los planes de desarrollo urbano;
+LAS PERSONAS FISICAS O MORALES QUE OBTENGAN EL REGISTRO, A QUE SE REFIERE EL ARTICULO ANTERIOR, DEBERAN PROPORCIONAR CON TODA ANTICIPACION Y EN TERMINOS DE LO ESTABLECIDO Y SEÑALADO EN LA PRESENTE LEY Y SU REGLAMENTO, TODOS LOS REQUISITOS QUE LES SEAN SOLICITADOS POR LA SECRETARIA DE DESARROLLO RURAL.
 
-VIII. Decretar los usos, destinos y provisiones del suelo urbano en su jurisdicción;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-IX. Participar con las dependencias federales y estatales competentes, en la regularización de la tenencia de la tierra urbana y rural del municipio;
+###### ARTICULO 38.
 
-X. Celebrar por razones de interés público común, convenios de coordinación con otros Ayuntamientos o con los gobiernos federal y estatal;
+SERA FACULTAD DE LA SECRETARIA DE DESARROLLO RURAL, AUTORIZAR AL COMITE DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO, A.C., PARA QUE POR CONDUCTO DE SUS OFICIALES DE INSPECTORIA PECUARIA, VERIFIQUEN LA CALIDAD Y MOVILIZACION DE LOS PRODUCTOS DESTINADOS PARA LA ALIMENTACION DEL GANADO.
 
-XI. Celebrar convenios para la administración y custodia de las zonas federales;
+###### ARTICULO 39.
 
-XII. Rendir a la población, por conducto del Presidente Municipal, un informe anual del estado que guarda los asuntos municipales y del avance de los programas de obras y servicios;
+EL CLASIFICADOR MARCARA LAS CANALES O PIEZAS INDIVIDUALES CONFORME AL GRADO QUE CORRESPONDA, LLEVANDO CONTROL ESTRICTO DE LAS MISMAS, REGISTRANDO SU ORIGEN Y DESTINO; LAS CANALES PROCEDENTES DE OTROS ESTADOS Y DE IMPORTACION, SERAN CLASIFICADAS O RECLASIFICADAS SEGUN EL CASO.
 
-XIII. Expedir y reformar en su caso, el Bando de Gobierno Municipal y los reglamentos municipales necesarios para el mejor funcionamiento del Ayuntamiento;
+###### ARTICULO 40.
 
-XIV. Integrar comisiones de trabajo para el estudio y atención de los servicios municipales;
+LOS SERVICIOS DE CLASIFICACION DE GANADO Y CARNES, ESTARAN SUJETOS A LAS TARIFAS QUE POR ESTOS CONCEPTOS SE ESTABLEZCAN, PARA LO CUAL SE TOMARA EN CUENTA LA OPINION DE LA COMISION ESTATAL DE CLASIFICACION DE GANADO Y CARNES.
 
-XV. Conceder fundadamente a sus miembros licencias hasta por dos meses y hasta por seis meses a los empleados municipales;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-XVI. Aprobar, en su caso, los nombramientos y remociones del Secretario del Ayuntamiento, del Tesorero Municipal y del Titular del Comité de Desarrollo Integral de la Familia a propuesta del Presidente Municipal;
+###### ARTICULO 41.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
+LA SECRETARIA DE DESARROLLO RURAL, PROMOVERA ENTRE LOS PRODUCTORES PECUARIOS, LA CELEBRACION DE CONVENIOS O CONTRATOS TENDIENTES A GARANTIZAR, QUE EL ABASTECIMIENTO DE SEMOVIENTES SEA CONTINUO, DE CALIDAD Y APEGADO A LAS NORMAS OFICIALES MEXICANAS.
 
-XVI bis. Designar al Director de Seguridad Pública Municipal o su equivalente, a partir de la propuesta de terna que realice el Presidente Municipal, eligiendo al Director en votación calificada en sesión de Cabildo.
+###### ARTICULO 42.
 
-XVII. Proponer, y aprobar en su caso, el nombramiento y remoción del Contralor Municipal; y,
+LA COMISION ESTATAL DE CLASIFICACION DE GANADO Y CARNES PARA LOS EFECTOS DEL PRESENTE CAPITULO, TENDRA LOS SIGUIENTES OBJETIVOS:
 
-XVIII. Solicitar a los Gobiernos Federal y Estatal en su caso, la expropiación de bienes por causa de utilidad pública.
+A) ANALIZAR Y PROPONER LAS MEDIDAS DE MEJORAMIENTO DE AGOSTADEROS, PRADERAS Y LOS ASPECTOS RELATIVOS A LA ALIMENTACION ANIMAL, MEDIANTE SISTEMAS ADECUADOS PARA TAL FIN.
 
-b).- En materia de Administración Pública:
+B) SUGERIR MEDIDAS QUE FACILITEN EL CONTROL SANITARIO DEL GANADO.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 2008)</small>
+C) PROPONER MEDIDAS PARA EL FUNCIONAMIENTO DEL SERVICIO DE CLASIFICACION DE GANADOS Y CARNES DEL ESTADO.
 
-I. Elaborar, presentar y publicar, en el curso de los cuatro primeros meses a partir de la fecha de la instalación del Ayuntamiento, el Plan Municipal de Desarrollo correspondiente a su período constitucional de gobierno;
+D) PARTICIPAR EN LA DIFUSION DE LOS SERVICIOS DE ASISTENCIA TECNICA AGROPECUARIA.
 
-II. Organizar, estructurar y determinar las funciones de su administración pública;
+E) PROMOVER CURSOS PARA LA CAPACITACION DE PRODUCTORES.
 
-III. Organizar y operar los procedimientos para la actualización, ejecución, seguimiento, control y evaluación del Plan Municipal de Desarrollo y sus respectivos programas;
+F) PROPONER LA ORGANIZACION DE FERIAS, EXPOSICIONES Y OTROS EVENTOS QUE DIFUNDAN LOS DISTINTOS ASPECTOS DE LA EXPLOTACION GANADERA EN EL ESTADO.
 
-IV. Constituir y supervisar el funcionamiento del Comité de Planeación para el Desarrollo Municipal;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-V. Comunicar al Congreso del Estado la creación de nuevas tenencias y encargaturas del orden o fusión de las existentes, de conformidad con las disposiciones aplicables;
+###### ARTICULO 43.
 
-VI. Fomentar la conservación de los edificios públicos municipales y en general del patrimonio municipal;
+LA SECRETARIA DE DESARROLLO RURAL, BRINDARA ASESORIA TECNICA A AQUELLOS PRODUCTORES QUE LO SOLICITEN, PARA LA PLANEACION, CONSTRUCCION Y FUNCIONAMIENTO DE CORRALES, PRADERAS PARA ENGORDA, SIEMBRAS Y PRODUCCION DE FORRAJES PARA LA ALIMENTACION DE SEMOVIENTES.
 
-VII. Formular, aprobar y administrar la zonificación territorial municipal;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-VIII. Participar en la creación y administración de reservas territoriales, de conformidad con las disposiciones aplicables;
+###### ARTICULO 44.
 
-IX. Supervisar que los centros de detención bajo su autoridad reúnan las condiciones mínimas de seguridad, higiene, educación y trabajo que determine la normatividad respectiva;
+ES COMPETENCIA DE LA SECRETARIA DE DESARROLLO RURAL, A TRAVES DE LA SUBSECRETARIA DE GANADERIA, RESOLVER LAS CONTROVERSIAS QUE SE SUSCITEN EN RELACION A LA CLASIFICACION DE GANADO Y CARNES.
 
-X. Adquirir bienes para el cumplimiento de sus atribuciones con sujeción a las disposiciones aplicables;
+## TITULO CUARTO. EXPLOTACION RACIONAL, CONSERVACION Y MEJORAMIENTO DE LOS RECURSOS NATURALES RELACIONADOS CON LA ACTIVIDAD PECUARIA
 
-XI. Participar en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;
+### CAPITULO I. TERRENOS DESTINADOS PARA LA ACTIVIDAD GANADERA
 
-XII. Someter a concurso las compras, prestación de servicios y la construcción de obras públicas de conformidad con las disposiciones de la materia, y en caso de que se establezcan obligaciones cuyo término exceda el ejercicio constitucional del Ayuntamiento requerirá del acuerdo de las dos terceras partes de sus miembros, de conformidad con lo dispuesto en el inciso b), de la fracción II, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;
+###### ARTICULO 45.
 
-XIII. Otorgar licencias y permisos conforme a las disposiciones aplicables;
+SE CONSIDERA DE INTERES PARA EL DESARROLLO DE LA ACTIVIDAD PECUARIA:
 
-XIV. Organizar, operar y actualizar el sistema municipal de información económica, social y estadística de interés general;
+A) EL MANEJO RACIONAL, LA UTILIZACION ADECUADA Y LA CONSERVACION DE LOS RECURSOS NATURALES RELACIONADOS CON LA GANADERIA.
 
-XV. Organizar, conservar y actualizar los archivos históricos municipales;
+B) EL CUMPLIMIENTO DEBE SER SU UTILIZACION.
 
-XVI. Elaborar y publicar, en coordinación con las autoridades competentes, el Catálogo del Patrimonio Histórico y Cultural del Municipio, fomentando su divulgación;
+C) LA EVALUACION Y CERTIFICACION DE LA CONDICION DE PASTIZAL.
 
-XVII. Determinar, de conformidad con las disposiciones aplicables, los tipos de construcciones y edificios que no sean susceptibles de modificaciones arquitectónicas;
+D) EL MEJORAMIENTO DE LOS PASTIZALES DETERIORADOS, INCLUYENDO EL CONTROL DE ESPECIES NOCIVAS O INTRODUCIDAS Y LA REALIZACION DE LA INFRAESTRUCTURA NECESARIA.
 
-XVIII. Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en la materia, de conformidad con las disposiciones aplicables;
+E) LAS OBRAS, TRABAJOS Y CONSTRUCCIONES PARA LA CONSERVACION DEL SUELO Y DEL AGUA.
 
-XIX. Presentar iniciativas de leyes y/o decretos al Congreso del Estado para su aprobación en su caso, preferentemente aquéllas que tiendan a fortalecer la autoridad y la capacidad de gestión del Ayuntamiento como primer nivel de gobierno para atender los requerimientos comunitarios de obras y servicios públicos;
+F) EL FOMENTO DE LA EDUCACION Y DE LA INVESTIGACION SOBRE LA IMPORTANCIA, VALOR Y CONSERVACION DE LOS RECURSOS NATURALES DE LOS PASTIZALES, ASI COMO LA DIVULGACION ADECUADA DE LOS RESULTADOS OBTENIDOS.
 
-XX. Autorizar, de acuerdo a lo establecido en esta Ley y demás disposiciones aplicables, a propuesta del Presidente Municipal, la creación y supresión de dependencias, entidades y unidades administrativas para el mejor cumplimiento de los programas de obras y servicios públicos municipales;
+G) LA CONSERVACION Y FOMENTO DE LA FAUNA SILVESTRE NATIVA E INTRODUCIDA, CON EL OBJETO DE MANTENER EL EQUILIBRIO DEL ECOSISTEMA.
 
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+###### ARTICULO 46.
 
-XX bis. Autorizar y establecer, a partir de la propuesta que las áreas técnicas, administrativas y financieras formulen, y con base en las leyes respectivas y las recomendaciones o lineamientos que expida el Congreso del Estado, directamente o por conducto de la Auditoría Superior de Michoacán, la política salarial del municipio, que deberá guardar congruencia en la estructura orgánica autorizada y observar los principios de austeridad, racionalidad, disciplina presupuestal, equidad, certeza, motivación y proporcionalidad;
+QUEDAN PROHIBIDAS LAS PRACTICAS DE EXPLOTACION DE LOS RECURSOS NATURALES QUE TIENDAN A DISMINUIR LA CONDICION, PRODUCTIVIDAD Y EQUILIBRIO DEL ECOSISTEMA.
 
-XXI. Resolver previo concurso, en los términos convenientes para la comunidad y de conformidad con las disposiciones aplicables, los casos de concesión de servicios públicos de su competencia; y,
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-XXII. Establecer en las disposiciones reglamentarias correspondientes, las sanciones, multas o infracciones que procedan por la violación o incumplimiento de las disposiciones municipales.
+EN LOS PREDIOS DEBIDAMENTE DIVERSIFICADOS EN SU APROVECHAMIENTO, LOS PROPIETARIOS PODRAN ESTABLECER AREAS DE FOMENTO A LA EXPLOTACION DE LOS CRIADEROS EXTENSIVOS DE FAUNA SILVESTRE, PARA SU COMERCIALIZACION CINEGETICA RACIONAL DE ESPECIES NO VEDADAS, PREVIA AUTORIZACION Y PROGRAMAS DE LA SECRETARIA DE MEDIO AMBIENTE Y RECURSOS NATURALES, ASI COMO DE LA SECRETARIA DE DESARROLLO RURAL E INSTITUTO DE HISTORIA NATURAL Y ECOLOGIA.
 
-c).- En materia de Hacienda Pública:
+### CAPITULO II. CLASIFICACION DE LOS AGOSTADEROS
 
-I. Administrar libre y responsablemente su Hacienda de conformidad con las disposiciones aplicables;
+###### ARTICULO 47.
 
-II. Aprobar, en su caso, el proyecto de Ley de Ingresos que le presente el Tesorero Municipal;
+PARA LOS EFECTOS DE ESTA LEY, LOS TERRENOS CONSIDERADOS COMO AGOSTADEROS SON AQUELLOS CUBIERTOS CON UNA VEGETACION NATURAL O MEJORADA, CUYO USO PRINCIPAL ES EL PASTOREO DEL GANADO DOMESTICO O SILVESTRE EN EXPLOTACION Y QUE POR SU NATURALEZA, UBICACION O POTENCIAL NO PUEDEN SER CONSIDERADOS SUSCEPTIBLES DE AGRICULTURA.
 
-III. Presentar al Congreso del Estado para su aprobación, en su caso, la Ley de Ingresos Municipal;
+LOS AGOSTADEROS SE CLASIFICAN EN:
 
-IV. Aprobar, en su caso, el Presupuesto de Egresos que le presente el Tesorero Municipal y remitirlo al Congreso del Estado para la vigilancia de su ejercicio;
+A) PASTIZAL O AGOSTADERO NATURAL: UN TERRENO DE PASTOREO CON SU VEGETACION NATURAL.
 
-V. Someter anualmente para examen y en su caso aprobación del Congreso del Estado, la cuenta pública Municipal correspondiente al año anterior, de conformidad con las disposiciones aplicables;
+B) PASTIZAL O AGOSTADERO MEJORADO: UN TERRENO DE PASTOREO CON VEGETACION MEJORADA MEDIANTE EL CONTROL DE ESPECIES INDESEABLES, LA SIEMBRA DE ESPECIES FORRAJERAS NATIVAS O INTRODUCIDAS, LA FERTILIZACION, OBRAS DE CONSERVACION DE AGUA Y SUELOS Y OTROS METODOS.
 
-VI. (DEROGADA, P.O. 13 DE FEBRERO DE 2007)
+###### ARTICULO 48.
 
-VII. Formular y entregar al Ayuntamiento entrante los archivos, documentos y comprobantes de ingresos y egresos, el balance general, el estado de resultados del ejercicio presupuestario de ingresos y egresos correspondientes al último año de su gestión, un informe detallado del patrimonio municipal y de los bienes que integran la Hacienda Municipal;
+CON EL FIN DE INCREMENTAR LA PRODUCCION Y LA PRODUCTIVIDAD AGROPECUARIA, FOMENTAR LA ORGANIZACION ECONOMICA DE LOS GANADEROS Y EN GENERAL IMPULSAR EL DESARROLLO DEL SECTOR, EL EJECUTIVO DEL ESTADO PODRA TOMAR LAS MEDIDAS QUE ESTIME PERTINENTE PARA APOYAR LA REALIZACION DE LOS OBJETIVOS SIGUIENTES:
 
-VIII. Publicar en el Periódico Oficial del Estado los presupuestos de egresos, el Plan Municipal de Desarrollo, los reglamentos municipales, los bandos, las circulares y demás disposiciones administrativas de observancia general en el municipio;
+A) IMPULSAR LA PRODUCCION Y SU PRODUCTIVIDAD.
 
-IX. Publicar trimestralmente en la tabla de avisos del Ayuntamiento o en el periódico de mayor circulación en el municipio, el estado de origen y aplicación de los recursos públicos a su cargo;
+B) PROMOVER LA CAPITALIZACION Y MODERNIZACION DEL SECTOR PECUARIO.
 
-X. Enviar al Titular del Poder Ejecutivo del Estado, dentro de los primeros quince días del mes de diciembre de cada año, un informe de labores desarrolladas en el ejercicio; y (sic),
+C) ESTIMULAR LA ORGANIZACION DE LOS PRODUCTORES CON FIN DE LOGRAR UNA DISTRIBUCION Y COMERCIALIZACION DIRECTA DE SUS PRODUCTOS Y SUBPRODUCTOS.
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2007)</small>
+D) PROMOVER Y ENCAUZAR A LOS PRODUCTORES AGRICOLAS Y GANADEROS HACIA UNA INTEGRACION AGROPECUARIA PARA EL MEJOR APROVECHAMIENTO DE LOS RECURSOS NATURALES.
 
-XI. Autorizar la contratación de créditos y en general, ejercer las facultades en materia de deuda pública de conformidad con esta Ley y las demás disposiciones aplicables;
+E) INDUCIR LA UTILIZACION ADECUADA Y LA CONSERVACION DE LOS RECURSOS NATURALES DE LOS PASTIZALES RELACIONADOS CON LA GANADERIA.
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2007)</small>
+###### ARTICULO 49.
 
-XII. Autorizar la afectación, como fuente de pago, garantía o ambas, de las obligaciones a su cargo el derecho y/o los ingresos que le correspondan que sean susceptibles de afectación en términos de las disposiciones aplicables; y,
+LOS GANADEROS PROPIETARIOS O POSEEDORES DE TERRENOS DE AGOSTADEROS ESTAN OBLIGADOS A:
 
-> <small>(ADICIONADA, P.O. 12 DE MARZO DE 2007)</small>
+A) CONSERVAR Y MEJORAR LA CONDICION Y PRODUCTIVIDAD DE SUS PASTIZALES.
 
-XIII. Autorizar que el Municipio se adhiera a mecanismos de fuente de pago o garantía en los que participen otros municipios, sujetándose para tales efectos a la autorización y lineamientos emitidos por el Congreso.
+B) PREVENIR Y CONTRARRESTAR LA EROSION DEL SUELO MEDIANTE LA UTILIZACION ADECUADA DEL RECURSO FORRAJERO Y OBRAS DE CONSERVACION.
 
-d).- En materia de Desarrollo Social y Fomento Económico:
+C) CONSERVAR LOS DEMAS RECURSOS NATURALES DE SUS POTREROS COMO SON: LA FAUNA SILVESTRE, PLANTAS UTILES O EN PELIGRO DE EXTINCION Y EL AGUA.
 
-I. Fomentar la participación de la comunidad en los programas de obras y servicios públicos municipales;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-II. Fomentar el desarrollo de la cultura, el deporte, las actividades recreativas de sano esparcimiento, el fortalecimiento de los valores históricos y cívicos de la población, así como el respeto y aprecio a los símbolos patrios;
+###### ARTICULO 50.
 
-III. Coadyuvar al desarrollo de las actividades económicas que incidan en el mejoramiento de los niveles de vida de la población;
+LA SECRETARIA DE DESARROLLO RURAL, AUXILIARA A LOS PRODUCTORES PECUARIOS EN TODOS LOS ESTUDIOS, TRABAJOS, ASISTENCIA TECNICA Y OBRAS NECESARIAS PARA EL USO ADECUADO, CONSERVACION Y MEJORAMIENTO DE LOS RECURSOS NATURALES DE LOS PASTIZALES.
 
-IV. Apoyar los programas de asistencia social;
+###### ARTICULO 51.
 
-V. Conducir, supervisar y controlar el desarrollo urbano de las localidades, de conformidad con las disposiciones aplicables;
+ASI MISMO, SE COORDINARA CON LAS DEMAS DEPENDENCIAS Y ENTIDADES DEL SECTOR AGROPECUARIO PARA:
 
-VI. Garantizar la participación social y comunitaria en la toma de decisiones colectivas, estableciendo medios institucionales de consulta sobre ejecución, control, y supervisión de obras o prestación de los servicios públicos;
+A) REALIZAR INSPECCIONES Y ESTUDIOS EN PREDIOS GANADEROS, CON EL OBJETO DE RENDIR DICTAMENES SOBRE LAS CONDICIONES EN QUE SE ENCUENTREN LOS RECURSOS NATURALES Y LA TENDENCIA DE ESTOS. LOS DICTAMENES ESTABLECERAN EN SU CASO, LAS MEDIDAS Y RECOMENDACIONES QUE DEBAN TOMARSE POR PARTE DEL PROPIETARIO PARA EL USO ADECUADO DE LOS RECURSOS EN EL PREDIO DE QUE SE TRATE.
 
-VII. Fomentar la prestación gratuita de servicios de colocación laboral o profesional para promover el mayor número de empleos entre los habitantes del municipio;
+B) VIGILAR EL USO DE LOS RECURSOS NATURALES DE LOS PASTIZALES.
 
-VIII. Promover, en el ámbito de su competencia, el mejoramiento cívico de sus habitantes;
+C) COADYUVAR AL CUMPLIMIENTO DE LA LEY FORESTAL EN RELACION A LA TRAMITACION Y AUTORIZACION DE LAS SOLICITUDES QUE SE PRESENTEN PARA DESMONTES, CORTES DE POSTES, RAMAS, LEÑA O APROVECHAMIENTO DE MADERA, ASI COMO EL ESTABLECIMIENTO DE LAS VEDAS QUE SEAN NECESARIAS.
 
-IX. Impulsar la realización de las actividades cívicas, culturales y deportivas que le correspondan; y,
+D) PREVENIR Y COMBATIR LOS INCENDIOS, PLAGAS Y ENFERMEDADES DE LA VEGETACION DE LOS AGOSTADEROS.
 
-X. En general, las demás que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la presente Ley y los demás ordenamientos aplicables.
+###### ARTICULO 52.
 
-> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2008)</small>
+LOS PROPIETARIOS O POSEEDORES DE TERRENOS DEDICADOS A LA GANADERIA ESTAN OBLIGADOS A EMPLEAR PREFERENTEMENTE EN LA CONSTRUCCION DE LAS CERCAS Y PLANTACION DE ARBOLES PARA SOMBRIO, LAS PLANTAS MADERALES Y FRUTALES QUE SE CONSIDEREN MAS UTILES Y MEJOR ADAPTABLES A LAS CONDICIONES CLIMATOLOGICAS DE LAS ZONAS DE QUE SE TRATE.
 
-e).- En materia de cultura:
+###### ARTICULO 53.
 
-l. Elaborar el diagnóstico y el programa municipal de cultural (sic) el catálogo de su patrimonio y el de sus principales manifestaciones culturales;
+LA AUTORIDAD COMPETENTE TAMBIEN APOYARA A LOS PROPIETARIOS O POSEEDORES DE TERRENOS GANADEROS, PROPICIANDO CAMPAÑAS DE REFORESTACION, PARA LOS EFECTOS DEL ARTICULO ANTERIOR.
 
-II. Promover el establecimiento de centros, casas de cultura u organismos similares para el fomento del desarrollo cultural, alentando la participación social en las diversas actividades culturales;
+###### ARTICULO 54.
 
-III. Fomentar la investigación y difusión de las manifestaciones culturales en el Municipio; y,
+LOS PROPIETARIOS O POSEEDORES DE LOS TERRENOS DE AGOSTADEROS DEDICADOS A LA GANADERIA, TIENE LA OBLIGACION DE DESTINAR UNA EXTENSION SUPERIOR AL 10% DE LA SUPERFICIE DEL PREDIO, PARA ESTABLECER AREAS COMPACTAS O CERCAS VIVAS DE ARBOLADOS, Y EN SU CASO, REFORESTAR EN MARGENES Y RIBERAS DE ARROYOS, RIOS, MANANTIALES, AGUAJES O FUENTE DE APROVECHAMIENTO DE AGUA QUE SE LOCALICE EN EL PREDIO.
 
-IV. Participar en los términos de la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, en los programas estatales en materia de cultura.
+###### ARTICULO 55.
 
-###### Artículo 33.
+LA QUEMA DE PASTOS Y ESQUILMOS AGRICOLAS, PRADERAS O MONTES SE AJUSTARA A LO DISPUESTO EN LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE, LEY FORESTAL Y DEMAS DISPOSICIONES LEGALES QUE EN LA MATERIA ESTEN VIGENTES EN EL ESTADO.
 
-El desempeño del cargo de Presidente Municipal, Síndico y Regidor es obligatorio y su remuneración se fijará en el presupuesto de egresos del municipio, atendiendo los principios de racionalidad, austeridad y disciplina del gasto, así como la condición socioeconómica del municipio; procurando evitar disparidades entre la remuneración de los miembros del Ayuntamiento y los funcionarios municipales de primer nivel.
+### CAPITULO III. CERCADO DE LOS TERRENOS GANADEROS
 
-El cargo deberá desempeñarse de tiempo completo; es incompatible con el ejercicio de cualquier otro empleo en la administración pública en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia. Cualquier otra requerirá para desempeñarlo autorización del Congreso del Estado.
+###### ARTICULO 56.
 
-> <small>(ADICIONADO, P.O. 21 DE NOVIEMBRE DE 2007)</small>
+LOS TERRENOS DESTINADOS A LA GANADERIA ESTARAN PROVISTOS DE CERCAS DE ALAMBRE, PARA IMPEDIR EL ACCESO DE ANIMALES A CULTIVOS, MONTES Y BOSQUES DE PROPIEDAD PARTICULAR Y DE LA NACION. EN TODOS LOS CASOS EN QUE COLINDEN UN TERRENO GANADERO CON OTRO, EL COSTO DE LA CERCA QUE LOS DIVIDA Y SU CONSERVACION SE CUBRIRA POR LOS INTERESADOS A PARTES IGUALES.
 
-Los miembros del Ayuntamiento y los mandos medios y superiores desde el nivel de Jefe de Departamento o equivalente, del sector central y de los organismos paramunicipales, no podrán recibir ni otorgar, de manera excepcional, permanente o periódica, por conclusión de trienio o cualquier periodo de trabajo, sea cual fuere el mecanismo o forma de pago, su lugar de adscripción, puesto, plaza o remuneración que devenguen; ingresos adicionales por concepto de bonos, sobresueldos, compensaciones, estímulos, gratificaciones, comisiones, viáticos o cualquier otra prestación en numerario o en especie, asociada o no al sistema de remuneraciones y prestaciones, que no estén expresamente dispuestos y justificados para ese propósito en los presupuestos, tabuladores de sueldos, nóminas o analítico de plazas.
+###### ARTICULO 57.
 
-###### Artículo 34.
+NADIE TENDRA DERECHO A PASTAR ANIMALES EN TERRENO AJENO, SALVO CONVENIO ESTABLECIDO CON EL PROPIETARIO; EN CASO CONTRARIO, SERA RESPONSABLE DE LOS DAÑOS Y PERJUICIOS QUE SE OCASIONEN DE ACUERDO CON LAS DISPOSICIONES LEGALES APLICABLES.
 
-La policía preventiva municipal, estará al mando del Presidente Municipal, en los términos del reglamento correspondiente, y acatará las ordenes que el Gobernador del Estado le transmita, en aquellos casos que este juzgue como de fuerza mayor o alteración grave del orden público.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 35.
+###### ARTICULO 58.
 
-Para estudiar, examinar y resolver los problemas municipales y vigilar que se ajusten a las disposiciones y acuerdos del Ayuntamiento, se designarán comisiones colegiadas entre sus miembros, las que se establecerán en el Bando de Gobierno Municipal.
+SERA OBLIGACION DE LOS PROPIETARIOS O POSEEDORES DE TERRENOS, DAR AVISO AL AGENTE DEL MINISTERIO PUBLICO DEL FUERO COMUN, CUANDO SE ENCUENTREN PASTANDO O DAÑANDO SU CULTIVO, ANIMALES O SEMOVIENTES AJENOS, A EFECTO DE QUE ESA FISCALIA NOTIFIQUE AL PROPIETARIO, PARA QUE SE PRESENTE A RESPONDER POR LOS DAÑOS CAUSADOS Y A RECOGER AL SEMOVIENTE (S), EN UN TERMINO DE CUARENTA Y OCHO HORAS, SI DESPUES DE NOTIFICADO AL PROPIETARIO DEL SEMOVIENTE (S), ESTE NO SE PRESENTARE A RECOGERLO (S), Y A RESPONDER DE LOS DAÑOS, EL REPRESENTANTE SOCIAL, PODRA PROCEDER CONFORME A LA LEGISLACION PENAL VIGENTE PARA EL ESTADO DE CHIAPAS.
 
-Los responsables de las comisiones serán nombrados por el Ayuntamiento a propuesta del Presidente y no se podrán asignar más de tres comisiones a cada Regidor.
+###### ARTICULO 59.
 
-Los titulares de las Comisiones permanentes del Ayuntamiento podrán tener comunicación y solicitar información a los servidores públicos municipales responsables de las áreas de su vinculación. El Presidente Municipal instruirá a los servidores públicos municipales para entregar la información requerida. En caso de que un Regidor requiera información de un área específica pero no pertenezca a la Comisión respectiva, deberá formular su petición directamente al Presidente Municipal.
+INCURRIRA EN RESPONSABILIDAD, TODO AQUEL PRODUCTOR QUE OCASIONE DAÑOS A SEMOVIENTES AJENOS QUE ENCUENTRE PASTANDO EN SUS TERRENOS O CULTIVOS, QUIEN PARA EVITAR PROCEDIMIENTO PENAL EN SU CONTRA, PONDRA LOS HECHOS EN CONOCIMIENTO DE LA AUTORIDAD COMPETENTE DEL LUGAR PARA LOS EFECTOS QUE CORRESPONDAN.
 
-Los responsables de las distintas áreas de las (sic) administración pública municipal estarán obligados a rendir un informe de actividades en forma trimestral a la Comisión del Ayuntamiento correspondiente.
+###### ARTICULO 60.
 
-###### Artículo 36.
+TODA PERSONA QUE INTENCIONALMENTE CORTE ALAMBRE DE CERCAS O EN ALGUNA FORMA DESTRUYA LAS NATURALES O ARTIFICIALES SERA SANCIONADA CONFORME A LO ESTABLECIDO EN EL CODIGO PENAL.
 
-Las comisiones propondrán al Ayuntamiento, los proyectos de solución a los problemas de su conocimiento, a efecto de atender todas las ramas de la administración municipal.
+## TITULO QUINTO. OTRAS ESPECIES PECUARIAS
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
-
-###### Artículo 37.
-
-Las Comisiones Municipales deberán ser entre otras:
-
-I. De Gobernación, Trabajo, Seguridad Pública y Protección Civil que será presidida por el Presidente Municipal;
-
-II. De Hacienda, Financiamiento y Patrimonio que será presidida por el Síndico;
-
-III. De Planeación, Programación y Desarrollo;
-
-IV. De Educación Pública, Cultura y Turismo;
-
-V. De la Mujer, Juventud y el Deporte;
-
-VI. De Salud y Asistencia Social;
-
-VII. De Ecología;
-
-VIII. De Desarrollo Urbano y Obras Públicas;
-
-IX. De Fomento Industrial y Comercio;
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
-
-X. De Desarrollo Rural;
-
-XI. De Asuntos Indígenas, en donde exista población indígena; y, (sic)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
-
-XII. De acceso a la Información Pública;
-
-> <small>(ADICIONADA, P.O. 7 DE AGOSTO DE 2007)</small>
-
-XIII. De asuntos migratorios donde se requiera; y,
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
-
-XlV. Las demás que en el ámbito de la competencia municipal, el Ayuntamiento por acuerdo de sus miembros determine.
-
-###### Artículo 38.
-
-La Comisión de Gobernación, Trabajo, Seguridad Pública y Protección Civil tendrá las siguientes funciones:
-
-I. Vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen y sus reglamentos;
-
-II. Fomentar el civismo y los sentimientos patrios entre la población;
-
-III. Supervisar en su competencia, el cumplimiento de las disposiciones administrativas, jurídicas y constitucionales en materia laboral;
-
-IV. Coadyuvar a preservar la seguridad pública, el orden y la paz social en el municipio;
-
-V. Coadyuvar con las autoridades respectivas, para la mejor prestación del servicio social que se desarrolle en el municipio;
-
-VI. Vigilar el cumplimiento de las disposiciones en materia de protección civil, que le corresponda observar al Ayuntamiento;
-
-VII. Establecer, en su caso, en coordinación con las autoridades federales y estatales las disposiciones o mecanismos de protección civil necesarios ante un siniestro o eventualidad que ponga en riesgo la seguridad e integridad de la población;
-
-VIII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-IX. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 39.
-
-La Comisión de Hacienda, Financiamiento y Patrimonio tendrá las siguientes funciones:
-
-I. Vigilar, en el ámbito de su competencia, la contabilidad de los ingresos y egresos municipales;
-
-II. Participar en la integración de los proyectos de Ley de Ingresos, Presupuesto de Egresos y demás disposiciones municipales en la materia;
-
-III. Ordenar a la Tesorería Municipal la publicación trimestral del corte de caja;
-
-IV. Opinar sobre los proyectos para contraer obligaciones que puedan ser cumplidas durante el periodo de su ejercicio, conforme al Presupuesto de Egresos del Municipio;
-
-V. Vigilar el cumplimiento de las disposiciones hacendarias competencia del Ayuntamiento;
-
-VI. Refrendar, en su caso, los informes que sobre estados financieros le presente la Tesorería Municipal al Ayuntamiento;
-
-VII. Establecer y supervisar el cumplimiento de las disposiciones sobre conservación y mantenimiento de los bienes Municipales;
-
-VIII. Promover la organización y funcionamiento de los inventarios sobre bienes municipales;
-
-IX. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 40.
-
-La Comisión de Planeación, Programación y Desarrollo tendrá las siguientes funciones:
-
-I. Organizar y ejecutar los diagnósticos necesarios para conocer y difundir las potencialidades y fortalezas productivas, económicas y sociales del municipio y facilitar su aprovechamiento a corto, mediano y largo plazo;
-
-II. Elaborar los proyectos de los programas sectoriales, para las dependencias, entidades y unidades administrativas municipales y someterlos a consideración del Presidente Municipal;
-
-III. Integrar y someter a consideración del Ayuntamiento en pleno, los proyectos de inversión que permitan racionalizar el aprovechamiento de los recursos y la generación de nuevas fuentes de ocupación y de riqueza en el municipio, privilegiando que el crecimiento económico sea compatible con la protección al ambiente;
-
-IV. Vigilar que el Ayuntamiento no deseche sin fundamento los planes y programas de desarrollo municipales de mediano y largo plazo;
-
-V. Participar en la elaboración de los proyectos de Ley de Ingresos y Presupuesto de Egresos Municipales;
-
-VI. Coadyuvar en el desarrollo económico y social del municipio;
-
-VII. Promover el fortalecimiento del Comité de Planeación para el Desarrollo Municipal;
-
-VIII. Participar en la elaboración, ejecución y control del Plan Municipal de Desarrollo;
-
-IX. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 41.
-
-La Comisión de Educación Pública, Cultura y Turismo tendrá las siguientes funciones:
-
-I. Coadyuvar con los gobiernos federal y estatal en el cumplimiento de las disposiciones que en materia de educación establezcan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen y sus reglamentos;
-
-II. Promover la capacitación permanente de los empleados municipales, con la finalidad de eficientar la prestación de los servicios públicos;
-
-III. Fomentar el establecimiento y operación de centros de cultura, bibliotecas y esparcimiento públicos;
-
-IV. Impulsar la participación social en la construcción y conservación de los centros educativos y culturales;
-
-V. Disuadir, en el ámbito de su competencia, la deserción escolar y el ausentismo magisterial;
-
-VI. Establecer y aplicar una política de difusión y promoción de los atractivos turísticos del municipio;
-
-VII. Coadyuvar en el desarrollo de centros turísticos municipales;
-
-VIII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-IX. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 42.
-
-La Comisión de la Mujer, de la Juventud y del Deporte tendrá las siguientes funciones:
-
-I. Promover la planeación del desarrollo municipal, bajo una perspectiva de equidad e igualdad de géneros;
-
-II. Fomentar la generación y aplicación de mecanismos que permitan el acceso de la mujer a los beneficios de los programas municipales sin distinción o discriminación;
-
-III. Gestionar, a petición de parte, ante las dependencias y entidades municipales, los apoyos que soliciten las mujeres preferentemente las de sectores marginados, ya sea individualmente o a través de organizaciones y asociaciones;
-
-IV. Fomentar la aplicación de programas que faciliten la incorporación de los jóvenes a la actividad productiva;
-
-V. Promover las acciones necesarias para mejorar el nivel de vida de la juventud, así como sus expectativas sociales y culturales;
-
-VI. Impulsar que en la planeación del desarrollo municipal se establezca una política de fomento, desarrollo y promoción del deporte en todos sus géneros y modalidades;
-
-VII. Fomentar el mejoramiento físico-intelectual de los habitantes a través del deporte;
-
-VIII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-IX. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 43.
-
-La Comisión de Salud y Asistencia Social tendrá las siguientes funciones:
-
-I. Coadyuvar con las autoridades federales y estatales en la ejecución de los programas de salud, higiene y asistencia social que deban aplicarse en el Municipio;
-
-II. Establecer y aplicar en coordinación con las autoridades competentes los programas de salud pública;
-
-III. Promover la integración y aplicación de programas de asistencia social, especialmente a favor de los habitantes de las zonas marginadas de la municipalidad;
-
-IV. Integrar una política municipal de combate al alcoholismo, la drogadicción, la prostitución y toda actividad que deteriore la dignidad de la persona humana;
-
-V. Vigilar la aplicación de los reglamentos de sanidad e higiene en los centros de trabajo;
-
-VI. Supervisar el cumplimiento de las disposiciones sanitarias en los panteones municipales y privados;
-
-VII. Coadyuvar con las autoridades competentes, en la supervisión de los estándares de potabilidad y sanidad del agua para el consumo humano;
-
-VIII. Vigilar el cumplimiento de las disposiciones municipales para la conservación de manantiales, pozos, aljibes, acueductos y otras obras que sirvan para el abastecimiento de agua para la población;
-
-IX. Vigilar que el funcionamiento de los rastros municipales se realice conforme a las disposiciones sanitarias aplicables;
-
-X. Fomentar que la exposición, conservación y venta de alimentos al público se ajuste a las disposiciones sanitarias aplicables;
-
-XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 44.
-
-La Comisión de Ecología tendrá las siguientes funciones:
-
-I. Promover e inducir inversiones en infraestructura ambiental encaminadas a favorecer el desarrollo sustentable del municipio;
-
-II. Coadyuvar con las autoridades competentes en la preservación del derecho de toda persona a disfrutar de un ambiente sano;
-
-III. Promover, en el ámbito de su competencia, la preservación y la restauración del equilibrio ecológico y la protección al ambiente y a los recursos naturales;
-
-IV. Fomentar la prevención de la contaminación de aguas que el municipio tenga asignadas o concesionadas;
-
-V. Supervisar el cumplimiento de las disposiciones sobre residuos sólidos, aguas residuales, drenaje, alcantarillado y saneamiento;
-
-VI. Establecer las medidas para evitar la emisión de contaminantes a la atmósfera;
-
-VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-## TÍTULO CUARTO. DE LA PROFESIONALIZACIÓN DE LOS SERVIDORES PÚBLICOS MUNICIPALES Y DEL SERVICIO CIVIL DE CARRERA
-
-### Capítulo IV. Del Funcionamiento de los Ayuntamientos
-
-###### Artículo 45.
-
-La Comisión de Desarrollo Urbano y Obras Públicas tendrá las siguientes funciones:
-
-I. Coadyuvar al cumplimiento de las disposiciones que en materia de desarrollo urbano y asentamientos humanos, corresponden al Municipio;
-
-II. Promover la prestación puntual, oportuna y eficiente de los servicios públicos municipales, de conformidad con las disposiciones aplicables;
-
-III. Participar en la formulación y aplicación del Plan de Desarrollo Urbano Municipal;
-
-IV. Opinar sobre la declaración de usos, destinos y provisiones del suelo urbano en la jurisdicción municipal;
-
-V. Fomentar el cuidado y la conservación de los monumentos públicos;
-
-VI. Supervisar la conservación, rehabilitación y mejoramiento de los panteones, mercados, jardines y parques públicos;
-
-VII. Proponer la actualización de la nomenclatura de las calles, plazas, jardines y paseos públicos;
-
-VIII. Impulsar la satisfacción de los requerimientos sociales sobre pavimentación, embanquetado, nivelación y apertura de calles, plazas y jardines; así como la conservación de las vías de comunicación municipales;
-
-IX. Opinar sobre la ejecución de la obra pública municipal;
-
-X. Vigilar el mantenimiento de los equipos y maquinaria destinada a la prestación de los servicios públicos;
-
-XI. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-XII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-###### Artículo 46.
-
-La Comisión de Fomento Industrial y Comercio tendrá las siguientes funciones:
-
-I. Establecer y aplicar, en coordinación con las autoridades competentes, una política de fomento de inversiones y atracción de capitales;
-
-II. Coadyuvar con las dependencias y entidades competentes, en la aplicación de las disposiciones sobre precios, derechos comerciales, licencias y permisos;
-
-III. Impulsar la concertación de convenios o acuerdos, que tengan por objeto otorgar facilidades para el establecimiento en el Municipio de fuentes de trabajo o de inversiones de elevada rentabilidad económica;
-
-IV. Organizar y operar un sistema de información industrial y comercial municipal;
-
-V. Supervisar, en su caso, el cumplimiento de los horarios de apertura y cierre a que deben sujetarse los establecimientos que expendan bebidas alcohólicas;
-
-VI. Participar en la integración y aplicación de los programas de reordenamiento del comercio informal;
-
-VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 5 DE MAYO DE 2010)</small>
-
-### Capítulo V. De las Atribuciones de los Ayuntamientos
-
-###### Artículo 47.
-
-A la Comisión de Desarrollo Rural le corresponderá:
-
-I. Fomentar la organización de los productores agrícolas, pecuarios, ganaderos y acuícolas con la finalidad de que solventen en mejores circunstancias su problemática común;
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
-
-II. Participar en la organización y funcionamiento de los Concejos Municipales de Desarrollo Rural;
-
-> <small>(REFORMADA, P.O. 5 DE MAYO DE 2010)</small>
-
-III. Opinar sobre la integración y aplicación del Programa Municipal de Desarrollo Rural;
-
-IV. Coadyuvar con los gobiernos federal y estatal en la ejecución de los programas municipales en la materia de su competencia;
-
-V. Verificar el exacto cumplimiento de las normas y disposiciones que promuevan el desarrollo agropecuario en el municipio;
-
-VI. Fomentar la conservación, generación y aprovechamiento de los recursos pesqueros en la circunscripción municipal;
-
-VII. Elaborar y presentar al Ayuntamiento para su aprobación, en su caso, las iniciativas de reglamentos de su competencia; y,
-
-VIII. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2003)</small>
-
-###### Artículo 47 Bis.
-
-La Comisión de Asuntos Indígenas tendrá las siguientes funciones:
-
-I. Coadyuvar con las instancias y áreas competentes al impulso del desarrollo regional de las zonas indígenas, con el propósito de fortalecer las economías locales y mejorar las condiciones de vida de sus pueblos, buscando las acciones coordinadas entre los tres niveles de gobierno federal, estatal y municipal, y con la participación de las comunidades, buscar sus justas y equitativas medidas para mejorar las condiciones de vida de las mismas;
-
-II. Vigilar que las diferentes instancias de gobierno garanticen e incrementen los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior, buscando un sistema de becas para estudiantes indígenas en todos los niveles;
-
-III. Buscar las medidas de apoyo a la nutrición de los indígenas mediante programas de alimentación, en especial para las madres en lactancia y población infantil;
-
-IV. Participar en la organización de la creación de los mecanismos para mejorar las condiciones de las comunidades indígenas y de los espacios para la convivencia y recreación;
-
-V. Promover la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
-
-VI. Impulsar los mecanismos adecuados para extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación;
-
-VII. Participar en la organización de las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, así como la incorporación de tecnologías para incrementar su propia capacidad productiva, procurando asegurar el acceso equitativo a los sistemas de abasto y comercialización;
-
-VIII. Buscar mecanismos de consulta a los pueblos indígenas, para que sean tomados en cuenta en la elaboración del Plan Municipal de Desarrollo, y en su caso incorporar las recomendaciones y propuestas que ellos realicen;
-
-IX. Establecer políticas para mejorar las condiciones de salud de las mujeres, apoyar los programas especiales de educación y nutrición a niños y jóvenes de las familias migrantes y velar por el respeto a los derechos humanos y promover la difusión de sus culturas; y,
-
-X. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
-
-###### Artículo 47 Ter.
-
-La Comisión de Asuntos Migratorios tendrá las siguientes funciones:
-
-I. Proponer y promover políticas públicas municipales de atención al migrante y sus familias;
-
-II. Usar mecanismos de consulta con los migrantes y sus familias, para que sus opiniones y propuestas sean tomadas en cuenta en la elaboración de los planes municipales de desarrollo;
-
-III. Fomentar la participación y vinculación de las asociaciones de migrantes en sus municipios y comunidades de origen; y,
-
-IV. Las demás que le señale el Ayuntamiento, esta Ley u otras disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2007)</small>
-
-Artículo 47 Quarter. La Comisión de Acceso a la Información Pública, tendrá las siguientes funciones:
-
-I. Vigilar el cumplimiento de la Ley de Acceso a la Información Pública del Estado de Michoacán; en particular que se difunda la información de oficio y se mantenga actualizada;
-
-II. Orientar a las personas sobre el trámite y procedimiento para solicitar información pública al Ayuntamiento;
-
-III. Proponer en su caso, la información que deba ser clasificada como reservada o confidencial en los términos de la Ley de la materia;
-
-IV. Ser el vínculo de comunicación del Ayuntamiento con la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán;
-
-V. Elaborar y proponer el informe anual correspondiente, a la Comisión Estatal para el Acceso a la Información Pública del Estado de Michoacán; y,
-
-VI. Las demás que establezca la Ley y demás disposiciones aplicables.
-
-###### Artículo 48.
-
-Las comisiones serán coadyuvantes de las dependencias y entidades, a quienes corresponderá originariamente el cumplimiento de las atribuciones municipales.
-
-Por su desempeño en las comisiones asignadas, los Regidores recibirán una compensación económica por sus servicios, de conformidad con las disposiciones aplicables.
-
-A las comisiones se les dotará de los medios necesarios para la realización de sus funciones.
-
-Los regidores están obligados a aceptar las comisiones que les sean conferidas y desempeñarlas conforme a las leyes y reglamentos Municipales.
-
-###### Artículo 49.
-
-El Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
-
-I. Planear, programar, presupuestar, coordinar, controlar y evaluar el desempeño de las dependencias, entidades y unidades administrativas del Gobierno Municipal;
-
-II. Cumplir y hacer cumplir en el municipio, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
-
-III. Conducir las relaciones del Ayuntamiento con los poderes del Estado y de la Federación, así como con otros Ayuntamientos;
-
-IV. Convocar y presidir las sesiones del Ayuntamiento y ejecutar sus acuerdos y decisiones;
-
-V. Ordenar la promulgación y publicación de los reglamentos, acuerdos y demás disposiciones administrativas del Ayuntamiento que deban regir en el municipio y disponer, en su caso, la aplicación de las sanciones que corresponda;
-
-VI. Informar anualmente a la población, en sesión pública y solemne del Ayuntamiento, durante la primera quincena del mes de diciembre, sobre el estado general que guarde la administración pública municipal, del avance del plan municipal de desarrollo y sus programas operativos; después de leído el informe podrá hacer uso de la palabra un regidor representante de cada una de las fracciones de los partidos políticos representados en el Ayuntamiento, a efecto de comentar sobre el informe de labores;
-
-VII. Ejercer el mando de la policía preventiva municipal en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, esta Ley, sus reglamentos y demás disposiciones del orden municipal;
-
-VIII. Proponer al Ayuntamiento las comisiones que deban integrarse y sus miembros;
-
-IX. Presentar a consideración del Ayuntamiento para su aprobación, en su caso, las propuestas de nombramientos y remociones del Secretario y Tesorero Municipales;
-
-X. Conducir la elaboración del Plan Municipal de Desarrollo y de sus programas operativos, así como vigilar el cumplimiento de las acciones que le correspondan a cada una de las dependencias, entidades y unidades administrativas municipales;
-
-XI. Fomentar la organización y participación ciudadana en los programas de desarrollo Municipal y en las actividades de beneficio social que realice el Ayuntamiento;
-
-XII. Celebrar convenios, contratos y en general los instrumentos jurídicos necesarios, para el despacho de los asuntos administrativos y la atención de los servicios públicos municipales;
-
-XIII. Informar, durante las sesiones ordinarias del Ayuntamiento, sobre el estado de la administración y del avance del Plan Municipal de Desarrollo y los programas operativos;
-
-XIV. Presidir el Comité de Planeación para el Desarrollo Municipal;
-
-XV. Vigilar la correcta administración del patrimonio municipal;
-
-XVI. Nombrar y remover libremente a los funcionarios municipales que le corresponda; y,
-
-XVII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
-
-###### Artículo 50.
-
-El Presidente Municipal podrá ausentarse del municipio, en cuyo caso, deberá sujetarse a las siguientes disposiciones:
-
-I. Si la ausencia no excede de quince días, los asuntos de trámite y aquéllos que no admiten demora, serán atendidos por el Secretario del Ayuntamiento, previa instrucción expresa del Presidente Municipal;
-
-II. Si la ausencia es mayor de quince sin exceder de sesenta días, el Presidente Municipal debe recabar previamente el permiso del Ayuntamiento y será suplido por el Síndico como encargado del despacho, con todas las atribuciones que las disposiciones constitucionales, legales y administrativas dispongan para el Presidente Municipal; y,
-
-III. Si la ausencia es por más de sesenta días, el Ayuntamiento notificará al Congreso, quien valorará la fundamentación y motivación de la causa, en cuyo caso nombrará un Presidente Municipal Provisional, en caso contrario decretará la ausencia definitiva.
-
-El Presidente Municipal Provisional, permanecerá en el cargo hasta que el titular se encuentre en la posibilidad material y legal de incorporarse a sus funciones, mediando para ello solicitud al Congreso para el trámite respectivo. En casos de ausencia definitiva conocerá el Congreso, quien designará a quien deba sustituirlo, respetando su origen partidista.
-
-###### Artículo 51.
-
-Son facultades y obligaciones del Síndico:
-
-I. Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos;
-
-II. Coordinar la Comisión de Hacienda Pública Municipal del Ayuntamiento y vigilar la correcta recaudación y aplicación de los fondos públicos;
-
-III. Revisar y en su caso, suscribir los estados de origen y aplicación de fondos y los estados financieros municipales;
-
-IV. Desempeñar las comisiones que le encomiende el Ayuntamiento presentar un informe anual de actividades durante la segunda quincena del mes de noviembre de cada año;
-
-V. Vigilar que el Ayuntamiento cumpla con las disposiciones que señala la Ley y con los planes y programas establecidos;
-
-VI. Proponer la formulación, expedición, modificación o reforma, de los reglamentos municipales y demás disposiciones administrativas;
-
-VII. Participar en las ceremonias cívicas que realice el Ayuntamiento;
-
-VIII. Representar legalmente al municipio, en los litigios en que éste sea parte y delegar dicha representación, previo acuerdo del Ayuntamiento;
-
-IX. Fungir como Agente del Ministerio Público en los casos y condiciones que determine la Ley de la materia;
-
-X. Vigilar que los funcionarios municipales presenten oportunamente la declaración de su situación patrimonial al tomar posesión de su cargo, anualmente y al terminar su ejercicio; y,
-
-Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-###### Artículo 52.
-
-En su carácter de representantes de la comunidad en el Ayuntamiento, los Regidores tendrán las siguientes atribuciones:
-
-I. Acudir con derecho de voz y voto a las sesiones del Ayuntamiento y vigilar el cumplimiento de sus acuerdos;
-
-II. Desempeñar las comisiones que le encomiende el Ayuntamiento y presentar un informe anual de actividades durante la segunda quincena del mes de noviembre de cada año;
-
-III. Vigilar que el Ayuntamiento cumpla con las disposiciones que le establecen las disposiciones aplicables y con los planes y programas municipales;
-
-IV. Proponer la formulación, expedición, modificación o reforma, de los reglamentos municipales y demás disposiciones administrativas;
-
-V. Analizar, discutir y votar los asuntos que se sometan a acuerdo al Ayuntamiento en las sesiones;
-
-VI. Participar en las ceremonias cívicas que realice el Ayuntamiento;
-
-VII. Participar en la supervisión de los estados financiero y patrimonial del Municipio y de la situación en general del Ayuntamiento; y,
-
-VIII. Las demás que le señale la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de estas emanen, esta Ley, sus reglamentos y otras disposiciones del orden municipal.
-
-###### Artículo 53.
-
-La Secretaría del Ayuntamiento dependerá directamente del Presidente Municipal y tendrá las siguientes atribuciones:
-
-I. Auxiliar al Presidente Municipal en la conducción de la política interior del municipio;
-
-II. Ejecutar los programas que le correspondan en el contexto del Plan Municipal de Desarrollo y de las disposiciones municipales aplicables;
-
-III. Vigilar que todos los actos del Ayuntamiento se realicen con estricto apego a derecho;
-
-IV. Fomentar la participación ciudadana en los programas de beneficio social y en las instancias u organismos municipales que corresponda;
-
-V. Organizar, operar y actualizar el Archivo del Ayuntamiento y el Archivo Histórico Municipal;
-
-VI. Coordinar las acciones de inspección y vigilancia que realice el gobierno municipal;
-
-VII. Coordinar la acción de los delegados administrativos y demás representantes del Ayuntamiento en la división político-territorial del municipio;
-
-VIII. Expedir certificaciones sobre actos y resoluciones de competencia municipal;
-
-IX. Coordinar la elaboración de los informes anuales y/o administrativos del Presidente Municipal;
-
-X. Coordinar las funciones de los titulares de las áreas administrativas de la Secretaría del Ayuntamiento; y,
-
-XI. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
-
-###### Artículo 54.
-
-El Secretario del Ayuntamiento será nombrado por sus miembros, por mayoría absoluta de votos a propuesta del Presidente Municipal.
-
-Además de las atribuciones de la dependencia a su cargo, el Secretario del Ayuntamiento, sin ser miembro del Cabildo, tendrá las siguientes funciones:
-
-I. Acordar directamente con el Presidente Municipal;
-
-II. Citar oportunamente por escrito a sesiones del Ayuntamiento, previo acuerdo del Presidente Municipal y acudir a éstas con voz informativa pero sin voto;
-
-III. Formular las Actas de Sesiones del Ayuntamiento y asentarlas en los Libros correspondientes;
-
-IV. Vigilar el cumplimiento de los acuerdos del Ayuntamiento e informar oportunamente lo procedente al Presidente Municipal;
-
-V. Auxiliar en la atención de la audiencia del Presidente Municipal, previo acuerdo; y,
-
-VI. Las que establezcan esta Ley, los reglamentos Municipales y las demás disposiciones aplicables.
-
-###### Artículo 55.
-
-La Tesorería Municipal dependerá directamente del Presidente Municipal y tendrá las siguientes atribuciones:
-
-I. Recaudar los impuestos, derechos, productos, aprovechamientos y demás contribuciones municipales, así como las participaciones federal y estatal y los ingresos extraordinarios que se establecen a favor del municipio;
-
-II. Elaborar el proyecto de Ley de Ingresos de cada ejercicio fiscal y someterlo a consideración del Ayuntamiento;
-
-III. Elaborar el Presupuesto de Egresos de cada ejercicio fiscal y someterlo a consideración del Ayuntamiento;
-
-IV. Cumplir y hacer cumplir los convenios de coordinación fiscal que signe el Ayuntamiento;
-
-V. Ejercer el Presupuesto de Egresos, llevar la contabilidad general, el control del ejercicio presupuestal y efectuar los pagos de acuerdo a los programas y presupuestos aprobados;
-
-VI. Ejecutar los programas que le corresponden, en el contexto del Plan Municipal de Desarrollo; y,
-
-VII. Las demás que establecen esta Ley, Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
-
-### Capítulo VI. De las Comisiones del Ayuntamiento
-
-###### Artículo 56.
-
-El Tesorero Municipal será nombrado por los miembros del Ayuntamiento por mayoría absoluta de votos a propuesta del Presidente Municipal y será el responsable directo de la administración de la hacienda municipal.
-
-Además de las atribuciones de la dependencia a su cargo, el Tesorero Municipal, sin ser miembro del Cabildo, tendrá las siguientes facultades y deberes:
-
-I. Acordar directamente con el Presidente Municipal;
-
-II. Conducir la política fiscal del Ayuntamiento, previo acuerdo del Presidente Municipal;
-
-III. Proponer al Ayuntamiento, con apego a las disposiciones aplicables, las medidas necesarias y convenientes para incrementar los ingresos y racionalizar los gastos municipales;
-
-IV. Conducir y vigilar el funcionamiento de un sistema de información y orientación fiscal para los causantes municipales;
-
-V. Someter, previo acuerdo del Presidente Municipal, a la aprobación del Ayuntamiento, la glosa de las cuentas públicas del municipio; la cuenta pública anual; los estados financieros trimestrales de la administración municipal; el programa financiero de la deuda pública y los mecanismos para administrarla;
-
-VI. Llevar a cabo el procedimiento económico-coactivo que determinen las disposiciones legales y aplicar las multas y sanciones que correspondan;
-
-VII. Supervisar y controlar el funcionamiento de las oficinas de recaudación municipales; y,
-
-VIII. Las demás que establecen esta Ley, los reglamentos municipales y las demás disposiciones aplicables.
-
-###### Artículo 57.
-
-El control interno, evaluación municipal y desarrollo administrativo, estarán a cargo de la Contraloría Municipal, cuyo titular será nombrado a propuesta de los miembros del Ayuntamiento, con la aprobación de las dos terceras partes. El nombramiento se llevará a cabo durante los primeros treinta días de gobierno.
-
-###### Artículo 58.
-
-Para asumir el cargo de Contralor Municipal, se deben reunir los siguientes requisitos:
-
-I. Ser ciudadano michoacano en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Ser profesionista en las áreas contables, jurídicas, económicas o administrativas o, tener experiencia en alguna de ellas de cuando menos dos años;
-
-III. No haber sido dirigente de partido político ni candidato durante la elección del Ayuntamiento en funciones; y,
-
-IV. No haber sido condenado por delito doloso.
-
-###### Artículo 59.
-
-Son atribuciones del Contralor Municipal:
-
-I. Presentar al Ayuntamiento un Plan de Trabajo Anual en el primer trimestre del año;
-
-II. Proponer y aplicar normas y criterios en materia de control y evaluación que deban observar las dependencias y entidades de la Administración Pública Municipal;
-
-III. Verificar el cumplimiento del Plan de Desarrollo Municipal y sus programas;
-
-IV. Realizar auditorias periódicamente a las dependencias y entidades de la Administración Pública Municipal;
-
-V. Vigilar la correcta aplicación del gasto público;
-
-VI. Presentar trimestralmente al Ayuntamiento, un informe de las actividades de la Contraloría Municipal, señalando las irregularidades que se hayan detectado en el ejercicio de su función;
-
-VII. Verificar que la Administración Pública Municipal, cuente con el registro e inventario actualizado de los bienes muebles e inmuebles del municipio;
-
-VIII. Vigilar que las adquisiciones, enajenaciones y arrendamientos de los bienes muebles e inmuebles que realice el Ayuntamiento y la prestación de Servicios Públicos Municipales, se supediten a lo establecido por esta Ley;
-
-IX. Vigilar que la obra pública municipal se ajuste a las disposiciones de la Ley de Obra Pública en el Estado de Michoacán y demás disposiciones aplicables en la materia;
-
-X. Establecer y operar un sistema de quejas, denuncias y sugerencias;
-
-XI. Participar en la entrega-recepción de las dependencias y entidades de la Administración Pública Municipal;
-
-XII. Verificar los estados financieros de la Tesorería Municipal, así como revisar la integración, la remisión en tiempo y la de corregir observaciones de la cuenta pública municipal;
-
-XIII. Vigilar el comportamiento de la situación patrimonial de los servidores públicos municipales, de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán;
-
-XIV. Vigilar el desarrollo administrativo de las dependencias y entidades de la Administración Pública Municipal, a fin de que en el ejercicio de sus funciones apliquen con eficiencia los recursos humanos y patrimoniales;
-
-XV. Vigilar que el desempeño de las funciones de los servidores públicos municipales se realice conforme a la Ley;
-
-> <small>(REFORMADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
-
-XVI. Proponer al personal requerido para auxiliarlo en el desempeño de sus funciones, de acuerdo a las condiciones presupuestales del Municipio;
-
-> <small>(ADICIONADA, P.O. 21 DE NOVIEMBRE DE 2007)</small>
-
-XVI bis. Vigilar, bajo su estricta responsabilidad, el cumplimiento de las disposiciones de la Ley de Presupuesto, Contabilidad y Gasto Público, la Ley de Responsabilidades de los Servidores Públicos y la presente Ley, por lo que concierne al ejercicio presupuestal en materia de servicios personales, de cuyas irregularidades deberá dar cuenta de manera inmediata a la Auditoría Superior de Michoacán; y,
-
-XVII. Las demás que le confiera ésta u otras leyes, reglamentos y acuerdos del Ayuntamiento.
-
-###### Artículo 60.
-
-La administración municipal en las poblaciones fuera de la cabecera municipal, estará a cargo de los jefes de tenencia y encargados del orden en sus comunidades, quienes dependerán jerárquicamente en lo político y administrativo del Presidente Municipal.
-
-Una Tenencia podrá contar con una o más encargaturas del orden, el encargado de cada una de ellas será electo por plebiscito.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-## TÍTULO QUINTO. DEL DESARROLLO MUNICIPAL
-
-### Capítulo I. De las Atribuciones del Presidente Municipal
+### CAPITULO I. DE LA AVICULTURA
 
 #### SECCION I. GENERALIDADES
 
-###### Artículo 61.
+###### ARTICULO 61.
 
-Los jefes de tenencia y encargados del orden, funcionarán en sus respectivas demarcaciones como auxiliares de los ayuntamientos y tendrán las siguientes funciones:
+PARA LOS EFECTOS DE ESTA LEY SE ENTENDERAN POR:
 
-I. Coadyuvar en la ejecución de los programas, proyectos y acciones que realice el Ayuntamiento, en el ámbito territorial de su competencia;
+A).- AVICULTURA: LA CRIA, REPRODUCCION, EXPLOTACION Y MEJORAMIENTO DE LAS ESPECIES Y VARIEDADES DE AVES UTILES PARA LA ALIMENTACION HUMANA O PARA LA OBTENCION DE OTROS BENEFICIOS, DIRECTAMENTE O POR EL APROVECHAMIENTO DE SUS PRODUCTOS Y SUBPRODUCTOS.
 
-II. Comunicar oportunamente al Presidente Municipal, de cualquier alteración que adviertan en el orden público y de las medidas que hayan tomado para prevenirlas;
+B).- AVICULTOR: LA PERSONA QUE SE DEDIQUE A LA CRIA, REPRODUCCION, EXPLOTACION, Y MEJORAMIENTO DE AVES.
 
-III. Supervisar la prestación de los servicios públicos y proponer las medidas necesarias al Presidente Municipal, para mejorar y ampliarlos;
-
-IV. Cuidar el orden, la seguridad y la tranquilidad de los vecinos del lugar, reportando ante los cuerpos de seguridad las acciones que requieren de su intervención;
-
-V. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
-
-VI. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2011)
-
-VII. Vigilar el cumplimiento de las disposiciones reglamentarias que expida el Ayuntamiento y reportar a la autoridad correspondiente, las violaciones que haya a los mismos;
-
-VIII. Cumplir y ejecutar los acuerdos, órdenes y citatorios del Ayuntamiento, del Presidente Municipal, del Síndico o de los Jueces Municipales;
-
-IX. Promover ante las autoridades competentes, la limpieza y el aseo de los sitios públicos y el buen estado de los caminos vecinales y carreteras;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-X. Vigilar y dar cuenta al Ayuntamiento de la falta de cumplimiento a los preceptos de la enseñanza obligatoria de conformidad con las disposiciones aplicables, procurando el establecimiento de centros educativos dentro de su demarcación;
-
-XI. Informar a las autoridades municipales y de protección civil sobre siniestros, epidemias o cualquier otro evento que ponga en riesgo la seguridad de la población;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-XII. Colaborar con las autoridades correspondientes en la preservación de la seguridad pública.
-
-XIII. Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cumplimiento de sus funciones; y,
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-XIV. Informar anualmente al Ayuntamiento sobre el estado general que guarde la administración de la tenencia y del avance del Plan Municipal de Desarrollo en su jurisdicción, un mes antes de la fecha límite para la presentación del informe anual del Presidente Municipal.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-XV. Desempeñar todas las demás funciones que les encomienden esta Ley, los reglamentos municipales y demás disposiciones aplicables.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
-
-Artículo 61 bis. A propuesta del Jefe de Tenencia respectivo, el Presidente Municipal designará un secretario administrativo en cada tenencia para apoyar las actividades del Jefe de Tenencia y tendrán las siguientes funciones:
-
-I. Fomentar la participación ciudadana en los programas de beneficio social;
-
-II. Organizar, operar y actualizar el archivo administrativo e histórico de la Tenencia;
-
-lII. Elaborar las certificaciones sobre actos y resoluciones de competencia de la Tenencia, debiendo recabar la firma del jefe de tenencia;
-
-IV. Coadyuvar en la elaboración de los informes administrativos anuales para presentar al Ayuntamiento;
-
-V. Elaborar los certificados para acreditar la insolvencia en los casos de inhumación y supervisar, en el ámbito de su competencia, que se cumplan las disposiciones relativas al Registro Civil, debiendo recabar la firma del Jefe de Tenencia;
-
-VI. Cumplir y ejecutar los acuerdos, órdenes y citatorios del jefe de Tenencia, del Ayuntamiento, del Presidente Municipal, del Síndico o de los Jueces Municipales; y,
-
-VII. Las que determinen esta Ley, el Bando de Gobierno Municipal, los Reglamentos Municipales y las demás disposiciones aplicables.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+C).- GRANJAS AVICOLAS: SON LAS EMPRESAS ESPECIALIZADAS EN LA CRIA, REPRODUCCION, ENGORDA Y PRODUCCION DE HUEVOS, ASI COMO EXPLOTACION Y MEJORAMIENTO DE LA ACTIVIDAD AVICOLA.
 
 #### SECCION II. DE LAS GRANJAS AVICOLAS
 
-###### Artículo 62.
+###### ARTICULO 62.
 
-Funcionará un jefe en cada una de las tenencias, y un encargado del orden en cada uno de los centros de población.
+LAS GRANJAS AVICOLAS DEBERAN CONTAR CON LAS INSTALACIONES, EQUIPOS HIGIENICOS Y MEDIDAS DE BIOSEGURIDAD DE ACUERDO CON LAS NORMAS VIGENTES APLICABLES EN LAS MATERIAS DE SANIDAD E IMPACTO AMBIENTAL.
 
-El Secretario del Ayuntamiento emitirá convocatoria para elegir a los auxiliares administrativos de cada Tenencia dentro de los 60 días posteriores a la instalación del Ayuntamiento. Una vez emitida la convocatoria, los ciudadanos interesados deberán inscribirse de acuerdo a las bases establecidas en la misma.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-El Jefe de tenencia será electo en votación será libre y secreta, sancionada por una comisión especial, creada por el Ayuntamiento para cada una de las tenencias, integrada de manera plural con un regidor de cada una de las fuerzas políticas que integran el cabildo y por el Secretario del Ayuntamiento como fedatario.
+###### ARTICULO 63.
 
-La elección se llevará a cabo a más tardar dentro de los 90 días posteriores a la instalación del Ayuntamiento: Los jefes de Tenencia serán electos por el mismo periodo que el Ayuntamiento en funciones y no podrán ser electos para el periodo inmediato.
+LA SECRETARIA DE DESARROLLO RURAL, CUANDO ASI SE LO SOLICITEN, BRINDARA CAPACITACION Y ASISTENCIA TECNICA A LAS PERSONAS QUE SE INICIEN O SE DEDIQUEN A LA AVICULTURA; ASIMISMO, DEBERA FOMENTAR LA CONSTITUCION DE ASOCIACIONES GANADERAS LOCALES ESPECIALIZADAS DE AVICULTORES.
 
-Se requerirá credencial para votar expedida por el Instituto Federal Electoral que corresponda la sección en la que se está sufragando.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Tratándose de comunidades indígenas así reconocidas por la Comisión Nacional de los Pueblos Indígenas se podrá recurrir a formas de elección según usos y costumbres.
+###### ARTICULO 64.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+QUEDA PROHIBIDA LA INSTALACION DE GRANJAS AVICOLAS EN LAS AREAS URBANAS DE LAS POBLACIONES O EN AQUELLOS LUGARES CONTIGUOS A ELLOS, EN UN RADIO QUE DETERMINARAN LAS AUTORIDADES MUNICIPALES, DE SALUD Y AMBIENTALES.
 
-###### Artículo 63.
+> <small>(REFORMADO, 07 DE NOVIEMBRE DE 2001)</small>
 
-Los jefes de tenencia, los encargados del orden y los Secretarios administrativos recibirán la remuneración que marque el Presupuesto de Egresos y se pagará directamente por la Tesorería Municipal.
+###### ARTICULO 65.
 
-###### Artículo 64.
+TODO AVICULTOR DEBERA INSCRIBIRSE EN LA SECRETARIA DE DESARROLLO RURAL PARA OBTENER SU REGISTRO, PARA TAL EFECTO, DEBERA PROPORCIONAR LA SIGUIENTE INFORMACION:
 
-Se nombrarán jefes de manzana en aquéllas poblaciones que lo ameriten a juicio del Ayuntamiento.
+I. NOMBRE O RAZON SOCIAL Y DOMICILIO,
 
-Los jefes de manzana auxiliarán a las autoridades municipales en el cumplimiento de sus funciones, de conformidad con las disposiciones que para tal efecto emitan los Ayuntamientos.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los jefes de manzana podrán designar auxiliares para el desempeño de sus funciones, con aprobación del Presidente Municipal.
+II. UBICACION DE LA GRANJA AVICOLA;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+III. SUPERFICIE DE GALLINEROS O CASETAS TECHADOS EN METROS CUADRADOS, CON SU SISTEMA DE EXPLOTACION, PISOS Y JAULAS,
 
-###### Artículo 65.
+IV. NUMERO DE AVES EN EXPLOTACION CON CLASIFICACION DE ESPECIES, SI SE TRATA DE REPRODUCTORAS EN POSTURA, EN CRECIMIENTO O EN ENGORDA,
 
-Para ser Jefe de Tenencia, Secretario de la Tenencia, Encargado del Orden y Jefe de Manzana o auxiliar, se requiere ser mayor de edad, vecino de la respectiva circunscripción, tener un modo honesto de vivir y contar con una instrucción de por lo menos educación básica.
+V. NATURALEZA DE LOS EDIFICIOS, CON ESPECIFICACIONES DE TODOS LOS DETALLES DE CONSTRUCCION, MAQUINARIA Y EQUIPO DE QUE DISPONGA
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los Auxiliares de la Administración Municipal no podrán contravenir las instrucciones del Presidente Municipal o del Ayuntamiento según sea el caso; ni podrán convenir con el estado, la federación, otros municipios o entidades públicas o privadas ni particulares por cuenta propia, sino únicamente a través del Ayuntamiento. Deberán dar seguimiento cabal a los Planes de Desarrollo Municipal y cumplir con los lineamientos del manual de presupuesto y gasto público.
+VI. CONSTANCIAS LIBRES DE ENFERMEDADES EN LAS CAMPAÑAS ZOOSANITARIAS OFICIALES;
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 66.
+VII. AUTORIZACION DE LA AUTORIDAD MUNICIPAL QUE CORRESPONDA, PREVIO DICTAMEN TECNICO DE LA SECRETARIA DE DESARROLLO RURAL.
 
-En cada Municipio funcionará una unidad administrativa o entidad encargada del Desarrollo Integral de la Familia, que promoverá el bienestar social, y cuyos objetivos serán:
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-I. Fortalecer el núcleo familiar a través de la promoción social, que tienda al mejoramiento de la vida de las personas y de la sociedad en general;
+LO ANTERIOR, SE OBSERVARA SIN PERJUICIO DE LA INTERVENCION QUE CORRESPONDA A LAS AUTORIDADES DE SALUD Y AMBIENTALES.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+###### ARTICULO 66.
 
-II. Realizar estudios e investigaciones sobre los problemas: de la familia, de los menores, de las personas adultas mayores, de los discapacitados, proponer alternativas de solución y en su caso aplicarlas;
+EL REGISTRO QUE SE CONCEDA, DEBERA SER CONSERVADO Y EXHIBIDO CUANTAS VECES SEA SOLICITADO POR LAS AUTORIDADES CORRESPONDIENTES.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. Proporcionar servicios sociales a menores en estado de abandono, a discapacitados sin recursos y personas adultas mayores desamparados;
+###### ARTICULO 67.
 
-IV. Coadyuvar en el fomento de la educación para la integración social a través de la enseñanza preescolar y extraescolar;
+ES OBLIGACION DE LAS AUTORIDADES MUNICIPALES VIGILAR QUE TODA GRANJA AVICOLA ESTE REGISTRADA, EN LOS TERMINOS DE LA PRESENTE LEY, ADEMAS, LA SECRETARIA DE DESARROLLO RURAL, LES OTORGARA FACULTAD PARA SUPERVISAR E INFORMAR DE AQUELLAS QUE NO SE ENCUENTREN REGISTRADAS, PARA QUE PROCEDA A APLICAR LAS SANCIONES PREVISTAS EN ESTA LEY.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+###### ARTICULO 68.
 
-V. Fomentar y, en su caso, proporcionar servicios de rehabilitación, a los menores infractores, personas adultas mayores, discapacitados y fármaco dependientes;
+PARA EL CONTROL SANITARIO Y LA MOVILIZACION DE LAS AVES, PRODUCTOS Y SUBPRODUCTOS, SE OBSERVARA LO DISPUESTO EN LOS CAPITULOS DE SANIDAD Y MOVILIZACION DE ESTA LEY, EN LO QUE SEA APLICABLE.
 
-VI. Apoyar y fomentar la nutrición y las acciones de medicina preventiva, dirigidas a los lactantes, las madres gestantes y población socialmente desprotegida;
+###### ARTICULO 69.
 
-VII. Promover el desarrollo de la comunidad en territorio Municipal;
+PARA LA INTRODUCCION O SALIDA DEL ESTADO DE AVES, SUS PRODUCTOS Y SUBPRODUCTOS EN ESTADO NATURAL, REFRIGERADOS, CONGELADOS O INDUSTRIALIZADOS, SERA APLICABLE LO ESTABLECIDO EN EL CAPITULO RELATIVO A INTRODUCCION Y SALIDA DE GANADO, EN TODO AQUELLO QUE SEA PROCEDENTE.
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-VIII. Prestar servicios de asistencia jurídica y de orientación social a los menores, personas adultas mayores y discapacitados, sin recursos;
+###### ARTICULO 70.
 
-IX. Intervenir en el ejercicio de la tutela de menores, que corresponda al Estado; en los términos de la ley y auxiliar al Ministerio Público en la protección de incapaces y en los procedimientos civiles y familiares que los afecten de acuerdo a la ley;
+AL QUE SE APODERE DE UNO O MAS ANIMALES DE ESPECIES MENORES Y DESTINADA A LA PELETERIA, SIN CONSENTIMIENTO DE LA PERSONA QUE PUEDA DISPONER DE ELLOS CONFORME A ESTA LEY, ASI COMO LOS QUE COMERCIALICEN O TRANSPORTEN LOS ANIMALES O SUS PRODUCTOS DERIVADOS DEL ROBO, DE IGUAL MANERA AL SERVIDOR PUBLICO QUE INTERVENGA EN LA OPERACION Y EXPIDA PERMISOS CONOCIENDO LA PROCEDENCIA ILEGITIMA DE LOS MISMOS, SERAN SANCIONADOS CONFORME A LA LEGISLACION PENAL VIGENTE EN EL ESTADO, SIN PERJUICIO DE LA APLICACION DE LAS SANCIONES PREVISTAS EN EL ARTICULO 249 DE LA PRESENTE LEY.
 
-X. Fomentar el sano crecimiento físico y mental de la niñez, la orientación crítica de la de población hacia una conciencia cívica y propiciar la recreación, el deporte y la cultura;
-
-XI. Procurar permanentemente la adecuación de los objetivos y programas del sistema municipal a los que lleve a cabo el sistema Estatal a través de acuerdos y/o convenios, encaminados a la orientación del bienestar social.
-
-XII. Procurar y promover la coordinación con otras instituciones afines, cuyo objetivo sea la obtención del bienestar social; y,
-
-XIII. Los demás que les confieran las leyes.
-
-Lo anterior apoyado con programas de formación, organización y capacitación a los sujetos sociales, orientados a erradicar paulatinamente el asistencialismo y el paternalismo.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
-
-###### Artículo 67.
-
-Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, podrán ser áreas de la administración pública centralizada, o entidades administrativas descentralizadas con un nivel estructural no superior de Director de Área, el cual se regirá por el reglamento que para ello expida el ayuntamiento o la junta de gobierno correspondiente.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
-
-###### Artículo 68.
-
-Tratándose de órganos centralizados, el titular de las unidades administrativas o entidades encargadas de la Dirección del Desarrollo Integral de la Familia en los municipios, será designado por la mayoría de los miembros del Ayuntamiento, de la terna que proponga el Presidente Municipal, bajo los siguientes lineamientos:
-
-I. No podrá ser familiar directo, consanguíneo o civil, hasta en segundo grado, del Presidente Municipal, Síndico y Regidores del Ayuntamiento en funciones;
-
-II. Recibirá la remuneración económica que marque el presupuesto de egresos, el que no será superior con los de la administración centralizada; y,
-
-III. Podrá establecerse u otorgarse el cargo de Presidente(a) del Patronato del DIF, a familiares directos, consanguíneos o civiles, del Presidente Municipal, Síndico y Regidores del Ayuntamiento en funciones. El cargo será honorífico, sin remuneración. La duración del cargo será la misma que la del Ayuntamiento que otorga la designación.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
-
-###### Artículo 68 Bis.
-
-Tratándose de organismos descentralizados, el titular del mismo, será designado por la mayoría de los miembros de la Junta de Gobierno o Patronato, de la terna que proponga el Presidente Municipal siguiendo los lineamientos indicados en el inciso I y II del artículo 68.
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2009)</small>
-
-###### Artículo 69.
-
-Las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, para su funcionamiento y el logro de sus objetivos, contarán con los recursos que les asignen los Ayuntamientos en el Presupuesto de Egresos, de acuerdo con el Plan Operativo Anual presentado por la dependencia o de acuerdo a lo contemplado en el presupuesto de egresos del organismo.
-
-> <small>(ADICIONADO, P.O. 21 DE MAYO DE 2009)</small>
-
-###### Artículo 69 Bis.
-
-Para el eficaz cumplimiento de sus objetivos, las unidades administrativas o entidades encargadas del Desarrollo Integral de la Familia en los municipios, celebrarán los convenios necesarios de coordinación con las instituciones análogas en el ámbito Federal, Estatal y Municipal, en base al reglamento interno del Ayuntamiento o de la Entidad.
-
-###### Artículo 70.
-
-Para efectos de esta Ley, se considera servicio público toda prestación que tenga por objeto satisfacer necesidades públicas, y que es realizado por la administración pública o por particulares mediante concesión otorgada por la autoridad competente.
-
-### Capítulo II. De las Atribuciones del Síndico
+### CAPITULO II. DE LA APICULTURA
 
 #### SECCION I. GENERALIDADES
 
-###### Artículo 71.
+###### ARTICULO 71.
 
-El Presidente Municipal y las dependencias, entidades y unidades administrativas competentes, supervisarán que la prestación de los servicios públicos municipales se realice con eficiencia, calidad y puntualidad.
+PARA LOS EFECTOS DE ESTA LEY SE ENTIENDE POR:
 
-###### Artículo 72.
+A) APICULTURA: LAS ACTIVIDADES RELATIVAS A LA CRIA, EXPLOTACION Y MEJORAMIENTO GENETICO DE LAS ABEJAS, ASI COMO A LA INDUSTRIALIZACION Y COMERCIALIZACION DE SUS PRODUCTOS Y SUBPRODUCTOS.
 
-Los Ayuntamientos del Estado prestarán los siguientes servicios públicos:
+B) APICULTOR: TODA PERSONA QUE SE DEDIQUE A LA CRIA Y EXPLOTACION, PRODUCCION O MEJORAMIENTO DE LAS ABEJAS.
 
-I. Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
+C) APIARIOS: AL CONJUNTO DE COLMENAS INSTALADAS EN UN LUGAR DETERMINADO.
 
-II. Alumbrado público;
+D) COLMENA: LA CAJA O CAJON QUE SE DESTINA PARA HABITACION DE LAS ABEJAS A FIN DE QUE ELABOREN SUS PANALES PARA ALMACENAMIENTO DE MIEL Y CRIAS.
 
-III. Limpia, recolección, traslado, tratamiento y disposición final de residuos;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-IV. Mercados y centrales de abastos;
+###### ARTICULO 72.
 
-V. Panteones;
+TODO APICULTOR DEBERA INSCRIBIRSE EN LA SECRETARIA DE DESARROLLO RURAL, PARA OBTENER SU REGISTRO QUE LO ACREDITARA COMO PRODUCTOR, PREVIA SUPERVISION Y APROBACION DE LOS SIGUIENTES REQUISITOS:
 
-VI. Rastro;
+I. NOMBRE O RAZON SOCIAL Y DOMICILIO;
 
-VII. Calles, parques y jardines y su equipamiento;
+II. UBICACION DEL (LOS) APIARIOS;
 
-VIII. Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos;
+III. SUPERFICIE DESTINADA;
 
-IX. Policía preventiva municipal y tránsito;
+IV. INVENTARIO GENERAL DE LOS APIARIOS;
 
-X. Los demás que determine el Congreso del Estado, según las condiciones territoriales y socioeconómicas del municipio, así como su capacidad administrativa y financiera; y,
+V. FUNCION ZOOTECNICA;
 
-XI. Las demás que se determinen conforme a esta Ley y otras disposiciones aplicables.
+VI. CONSTANCIAS DE TRATAMIENTO CONTRA LAS ENFERMEDADES EN LAS CAMPAÑAS ZOOSANITARIAS OFICIALES;
 
-El Gobierno del Estado, podrá asumir una función o la prestación de un servicio público municipal a través de la celebración del convenio respectivo o en su caso el Congreso del Estado, previa solicitud del Ayuntamiento aprobada cuando menos por las dos terceras partes de sus integrantes, declarará que éste se encuentra imposibilitado y resolverá procedente la asunción.
+VII. AUTORIZACION DE LA AUTORIDAD MUNICIPAL QUE CORRESPONDA, PREVIO DICTAMEN QUE EMITA LA SECRETARIA DE DESARROLLO RURAL.
 
-###### Artículo 73.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-El Titular del Poder Ejecutivo Federal ejercerá el mando de la fuerza pública en los lugares en donde resida habitual o transitoriamente.
+###### ARTICULO 73.
 
-###### Artículo 74.
+LA SECRETARIA DE DESARROLLO RURAL PROMOVERA LA CONSTITUCION DE ORGANIZACIONES DE PRODUCTORES APICOLAS.
 
-Sin perjuicio de que se presten los servicios públicos a través de las dependencias, entidades y unidades administrativas municipales, los Ayuntamientos podrán prestarlos a través de particulares mediante el otorgamiento de concesiones.
+> <small>(REFORMADO, 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 75.
+###### ARTICULO 74.
 
-Para los efectos del artículo anterior, con base en las políticas, estrategias y prioridades establecidas en los programas municipales de desarrollo urbano de los centros de población y en los relativos a los servicios públicos, el Ayuntamiento podrá acordar para la conveniencia de la comunidad, la concesión de determinados servicios públicos.
+LA PROPIEDAD DE LOS APIARIOS SE ACREDITA CON:
 
-No podrán ser objeto de concesión los servicios de seguridad pública, policía preventiva y tránsito.
+I. LA FACTURA O DOCUMENTO LEGAL QUE ACREDITE LA TRANSFERENCIA DE DOMINIO
 
-###### Artículo 76.
+II. LA GUIA DE TRANSITO QUE AMPARE EL TRASLADO DEL LUGAR DE ORIGEN AL DE UBICACION DE SUS APIARIOS, Y;
 
-Con base en el Acuerdo del Ayuntamiento a que se refiere el artículo anterior, se emitirá una convocatoria, suscrita por el Presidente Municipal y el Secretario del Ayuntamiento, que deberá publicarse en el Periódico Oficial del Estado, en uno de los periódicos de mayor circulación en el municipio y en el Tablero de Avisos del Palacio Municipal.
+III. LA CONSTANCIA DEL REGISTRO ANTE LA SECRETARIA DE DESARROLLO RURAL Y PRESIDENCIA MUNICIPAL DE LA UBICACION DE SUS APIARIOS.
 
-###### Artículo 77.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-La convocatoria deberá contener:
+###### ARTICULO 75.
 
-I. La referencia del Acuerdo correspondiente del Ayuntamiento;
+TODO APICULTOR DEBERA REGISTRAR SU FIERRO, MARCA O SEÑAL DE SUS COLMENAS, ANTE LA SECRETARIA DE DESARROLLO RURAL, Y ANTE LA AUTORIDAD MUNICIPAL, EN DONDE SE ENCUENTREN UBICADOS SUS APIARIOS.
 
-II. El señalamiento del centro de población o de la región donde se requiera el servicio público que se pretenda concesionar;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. La autoridad municipal ante quien debe presentarse la solicitud;
+###### ARTICULO 76.
 
-IV. La fecha límite para la presentación de la solicitud y los documentos necesarios; y,
+LA SOLICITUD PARA EL REGISTRO DE FIERRO, MARCA O SEÑAL, DEBERA SER REQUISITADA POR LOS PRODUCTORES SOLICITANTES, EN LOS FORMATOS OFICIALES QUE PARA EL EFECTO LE PROPORCIONARA LA SECRETARIA DE DESARROLLO RURAL, DEBIENDO CONTENER LOS SIGUIENTES DATOS:
 
-V. Los demás requisitos que deben cumplir los interesados.
+I. NOMBRE, DOMICILIO Y DEMAS DATOS DEL SOLICITANTE;
 
-###### Artículo 78.
+II. LUGAR DE UBICACION;
 
-No tienen derecho a solicitar la concesión de servicios públicos, las personas físicas o morales en cuyas empresas participe algún integrante del Ayuntamiento o sus cónyuges, o sus parientes consanguíneos o por afinidad hasta el segundo grado, sea como accionistas, administradores o gerentes. Tampoco tienen este derecho, las personas físicas o morales que por cualquier causa estén legalmente impedidos para ello.
+III. NUMERO DE APIARIOS;
 
-###### Artículo 79.
+IV. LOS DEMAS DATOS QUE LA SECRETARIA DE DESARROLLO RURAL, ESTIME NECESARIOS.
 
-Los Ayuntamientos proporcionarán a los interesados, previo el pago de los derechos correspondientes ante la Tesorería Municipal, la información que resulte necesaria respecto a las condiciones en que debe prestarse el servicio público cuya concesión pretenda otorgarse.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 80.
+###### ARTICULO 77.
 
-Concluido el período de recepción de solicitudes, los Ayuntamientos en base a los dictámenes técnicos, financieros, legales y administrativos, emitirán la resolución correspondiente dentro del término de treinta días hábiles.
+TODO APICULTOR, TIENE LA OBLIGACION DE IDENTIFICAR SUS COLMENAS Y DE PATENTAR ANTE LA SECRETARIA DE ECONOMIA, LA MARCA DE LOS PRODUCTOS Y SUBPRODUCTOS QUE COMERCIALICE.
 
-En dicha resolución se determinará quien reúne las condiciones técnicas, financieras, legales y administrativas otorgándosele la titularidad de la concesión a quien presente las mejores condiciones de rentabilidad para el municipio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Esta resolución se publicará en el Periódico Oficial del Estado.
+###### ARTICULO 78.
 
-###### Artículo 81.
+LA SECRETARIA DE DESARROLLO RURAL PODRA LLEVAR EL CONTROL DEL REGISTRO DE LAS MARCAS APROBADAS, PROPORCIONANDO INFORMACION DE ELLAS, A LAS AUTORIDADES MUNICIPALES, QUE LO SOLICITEN.
 
-Emitida la resolución a que se refiere el artículo anterior, el Ayuntamiento por conducto del Presidente Municipal, expedirá el documento que acredite la concesión.
+###### ARTICULO 79.
 
-###### Artículo 82.
+NO SE ACEPTARA EL REGISTRO DE MARCAS SEMEJANTES, DANDO PREFERENCIA PARA EL REGISTRO A LA QUE HAYA SIDO PRESENTADA EN PRIMER TERMINO.
 
-La concesión de servicios públicos se otorgará por tiempo determinado.
+###### ARTICULO 80.
 
-El período de su vigencia será fijado por los Ayuntamientos y podrá ser prorrogado, de conformidad con las disposiciones aplicables.
+LAS MARCAS DEBERAN REVALIDARSE CADA CUATRO AÑOS PARA EFECTO DE MANTENERLAS ACTUALIZADAS, LA FALTA DE REVALIDACION TRAERA COMO CONSECUENCIA LA PERDIDA DE LOS DERECHOS DE REGISTRO.
 
-El concesionario, previamente a la prestación del servicio público debe tramitar y obtener de las autoridades dictámenes, permisos, licencia y demás autorizaciones que se requieran.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 83.
+###### ARTICULO 81.
 
-Los concesionarios tienen las siguientes obligaciones:
+LA SECRETARIA DE DESARROLLO RURAL CUANDO ASI LO SOLICITEN, COLABORARA CON LOS PROPIETARIOS DE COLMENAS, HACIENDO LABOR DE ORIENTACION Y ENSEÑANZA APICOLA ENTRE EJIDATARIOS, COMUNEROS Y PEQUEÑOS PROPIETARIOS.
 
-I. Cubrir a la Tesorería Municipal, la participación que sobre las concesiones le corresponda al Municipio, así como los derechos determinados por las disposiciones de la materia;
+###### ARTICULO 82.
 
-II. Prestar el servicio público concesionado, atendiendo a las políticas y prioridades del Plan Municipal de Desarrollo, con sujeción a las disposiciones legales que correspondan;
+SE PROHIBE EL USO DE MARCAS NO REGISTRADAS O NO REVALIDADAS, ASI COMO UTILIZAR LAS MARCAS DE OTROS APICULTORES REGISTRADOS.
 
-III. Prestar el servicio público, sujetándose estrictamente a los términos de la concesión y disponer del equipo, del personal y de las instalaciones suficientes, para atender adecuadamente las demandas del servicio;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-IV. Conservar en óptimas condiciones las obras e instalaciones y el equipo destinado al servicio concesionado, así como hacer las renovaciones y modernizaciones para su prestación conforme a los adelantos técnicos;
+###### ARTICULO 83.
 
-V. Contratar los seguros contra riesgos, accidentes y siniestros en general, sobre personal, usuarios, equipo e instalaciones;
+TODA PERSONA QUE UTILICE MARCA REGISTRADA CONFORME A ESTA LEY, DE LA CUAL NO SEA TITULAR, SE LE APLICARA LA SANCION QUE ESTABLECE EL ARTICULO 249 DE ESTA LEY, ATENDIENDO A LA GRAVEDAD QUE RESULTE DEL HECHO.
 
-VI. Cumplir con los horarios establecidos por el Ayuntamiento para la prestación del servicio público;
+###### ARTICULO 84.
 
-VII. Exhibir en lugar visible, en forma permanente, las tarifas o cuotas autorizadas por el Ayuntamiento y sujetarse a las mismas para el cobro del servicio concesionado;
+LAS MARCAS DEBIDAMENTE REGISTRADAS SERAN DEL USO EXCLUSIVO DEL APICULTOR PROPIETARIO.
 
-VIII. Otorgar garantías a favor del Ayuntamiento, a efecto de asegurar el cumplimiento de sus obligaciones. La clase, el monto y las condiciones de la garantía serán fijadas por el Ayuntamiento, atendiendo a la naturaleza del servicio público concesionado;
+###### ARTICULO 85.
 
-IX. Realizar las obras e instalaciones que se requieran para prestar el servicio público, previa la autorización del Ayuntamiento de los estudios y proyectos respectivos. La ejecución de dichas obras e instalaciones, así como la reconstrucción de los mismos, se llevarán a cabo bajo la supervisión técnica del Ayuntamiento;
+LA COMPRA VENTA DE COLMENAS Y MATERIAL APICOLA MARCADO, DEBERA EFECTUARSE ACOMPAÑADO DE LA FACTURA CORRESPONDIENTE; EL COMPRADOR COLOCARA SU MARCA A UN LADO DE LA DEL VENDEDOR, SIN BORRARLA.
 
-X. Custodiar adecuadamente los bienes destinados al servicio público, cuando se extinga la concesión, hasta que el Ayuntamiento tome posesión real de las mismas; y,
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-XI. Los demás que establezca el Ayuntamiento, esta Ley, los reglamentos municipales y las demás disposiciones aplicables.
+###### ARTICULO 86.
 
-###### Artículo 84.
+INDEPENDIENTEMENTE DE LAS PENAS PREVISTAS EN LA LEGISLACION PENAL VIGENTE, SE APLICARA LA SANCION PECUNIARIA PREVISTA EN EL ARTICULO 249 DE LA PRESENTE LEY A QUIENES:
 
-El concesionario no podrá iniciar la prestación del servicio público, sino después de emitido un dictamen técnico favorable por el Ayuntamiento, sobre las condiciones de equipo y de las instalaciones.
+I. SE APODEREN DE UNA O MAS COLMENAS QUE CONTENGAN UNA COLONIA DE ABEJAS O PANALES, MIEL O MATERIAL APICOLA, SIN CONSENTIMIENTO DE LA PERSONA QUE PUEDAN DISPONER DE ELLAS CONFORME A LA LEY.
 
-El concesionario estará obligado a iniciar la prestación del servicio público dentro de un plazo de treinta días naturales, contados a partir de la fecha en que el Ayuntamiento le notifique la aprobación aludida en el artículo anterior.
+II. ADQUIERAN, COMERCIEN O TRANSPORTEN LAS COLMENAS, ABEJAS, MIEL, PANALES O MATERIAL APICOLA QUE HAN SIDO OBJETO DE ROBO, ASI COMO LAS AUTORIDADES QUE INTERVENGAN EN LA OPERACION Y EXPIDAN PERMISOS CONOCIENDO LA PROCEDENCIA ILEGITIMA DE LAS COSAS.
 
-###### Artículo 85.
+III. DESTRUYAN COLMENAS, MIEL, ABEJAS, PANALES Y PRODUCTOS APICOLAS.
 
-Los Ayuntamientos, en el caso de las concesiones de servicios públicos tendrán las siguientes atribuciones:
+IV. LOS QUE INTENCIONALMENTE INTRODUZCAN EN APIARIOS PROPIOS O AJENOS, ABEJAS AFRICANAS CON EL PROPOSITO DE CAUSAR DAÑOS A LA INDUSTRIA APICOLA O A PERSONAS EN SU INTEGRIDAD FISICA. LO ANTERIOR SIN PERJUICIO DE LAS SANCIONES QUE PUDIERA CORRESPONDERLES POR LA COMISION DE OTROS DELITOS.
 
-I. Vigilar el cumplimiento de las obligaciones del concesionario y realizar, respecto de las concesiones, las modificaciones que estime convenientes;
+V. ALTEREN O BORREN LAS MARCAS DE LAS COLMENAS.
 
-II. Dictar las resoluciones de terminación de la concesión, de conformidad con las disposiciones aplicables; y,
+VI. MARQUEN EN CAMPO AJENO SIN CONSENTIMIENTO DEL PROPIETARIO, COLMENAS SIN MARCA.
 
-III. Ocupar temporalmente el servicio público e intervenir en su administración, en los casos en que el concesionario no lo preste eficazmente o se niegue a seguir prestándolo, para lo cual podrá utilizar, en su caso, la fuerza pública.
+VII. MARQUEN O SEÑALEN COLMENAS AJENAS AUNQUE SEA EN CAMPO PROPIO.
 
-###### Artículo 86.
+VIII. ILEGITIMAMENTE CONTRAMARQUEN COLMENAS AJENAS, Y
 
-Las concesiones de los servicios públicos terminarán por cualquiera de las siguientes causas:
-
-I. Revocación;
-
-II. Cumplimiento del plazo; y,
-
-III. Cualquiera otra prevista en el documento en el que se haga constar la concesión.
+IX. EXPIDAN DOCUMENTOS FALSOS PARA OBTENER PERMISOS SIMULANDO VENTAS O HAGAN USO DE DOCUMENTOS FALSIFICADOS PARA CUALQUIER NEGOCIACION SOBRE COLMENAS O PRODUCTOS APICOLAS.
 
 #### SECCION II. DE LOS APIARIOS
 
-###### Artículo 87.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Las concesiones de servicios públicos podrán ser revocadas por cualquiera de las siguientes causas:
+###### ARTICULO 87.
 
-I. Cuando se interrumpa, en todo o en parte, el servicio público concesionado, sin causa justificada a juicio del Ayuntamiento, o sin previa autorización por escrito del mismo;
+PARA LA INSTALACION DE UNO O MAS APIARIOS, SE REQUERIRA DE LA AUTORIZACION CORRESPONDIENTE DE LA SECRETARIA DE DESARROLLO RURAL Y DE LA AUTORIDAD MUNICIPAL, DONDE SE VAYAN A INSTALAR.
 
-II. Porque se ceda, hipoteque, enajene o de cualquier manera se grave la concesión o alguno de los derechos en ella establecidos, o los bienes afectos o destinados de servicios públicos, sin la previa autorización por escrito del Ayuntamiento;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. Porque se modifique o se altere sustancialmente la naturaleza o condición en que se preste el servicio, las instalaciones o su ubicación, sin previa autorización por escrito del Ayuntamiento;
+###### ARTICULO 88.
 
-IV. Por dejar de pagar oportunamente las participaciones o los derechos que se hayan fijado en favor del Ayuntamiento, por el otorgamiento de la concesión y refrendo anual de la misma;
+SOLO SE AUTORIZARA LA INSTALACION DE APIARIOS, PREVIO ESTUDIO TECNICO QUE DEBERA EMITIR LA SECRETARIA DE DESARROLLO RURAL, SOBRE LA VEGETACION MELIFERA EXISTENTE EN LA ZONA, Y CON BASE EN EL ESTUDIO, SE DETERMINARA LA EXTENSION E INTEGRACION DE LOS MISMOS.
 
-V. Porque no se otorguen las garantías previstas por esta Ley o en las disposiciones aplicables;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-VI. Por no iniciar la prestación del servicio público una vez otorgada la concesión, dentro del término señalado en esta Ley o en la misma;
+###### ARTICULO 89.
 
-VII. Por violaciones a las tarifas o por incumplimiento de alguna de las obligaciones del concesionario; y,
+AL OTORGARSE LA AUTORIZACION PARA INSTALAR UNO O MAS APIARIOS, DEBERA TOMARSE EN CUENTA LO ESTABLECIDO EN LOS PLANES DE DESARROLLO URBANO Y RURAL Y EN LOS PLANES ECOLOGICOS DEL MUNICIPIO QUE CORRESPONDAN.
 
-VIII. Por aquéllas que impidan una prestación oportuna y eficiente del servicio público concesionado.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 88.
+###### ARTICULO 90.
 
-El procedimiento de revocación de las concesiones de servicios públicos se substanciará y resolverá por el Ayuntamiento, con sujeción a las siguientes formalidades:
+LA SECRETARIA DE DESARROLLO RURAL PROMOVERA LA INSTALACION DE APIARIOS EN LAS ZONAS CON POTENCIAL MELIFERA, OTORGANDO ASESORIA Y ASISTENCIA TECNICA A LOS APICULTORES.
 
-I. Se iniciará de oficio o a petición de parte;
+> <small>(REFORMADO, 07 DE NOVIEMBRE DE 2001)</small>
 
-II. Se notificará la iniciación del procedimiento al concesionario en forma personal;
+###### ARTICULO 91.
 
-III. Se abrirá un período probatorio por el término de quince días, contados a partir del día siguiente de la notificación a que se refiere la fracción anterior;
+TODO APICULTOR, AL INSTALAR SUS APIARIOS, DEBERA OBSERVAR LAS SIGUIENTES MEDIDAS:
 
-IV. Se desahogarán las pruebas ofrecidas en el lugar, día y hora que fije la autoridad municipal;
+I. CONSIDERANDO LA AFRICANIZACION DE LAS ABEJAS QUEDA PROHIBIDO LA INSTALACION DE APIARIOS A BORDO DE CARRETERAS, CAMINOS Y VEREDAS CON TRANSITO DE PERSONAS Y ANIMALES,
 
-V. Se dictará la resolución dentro de los diez días siguientes al vencimiento del plazo para el desahogo de las pruebas; y,
+II. INSTALAR LOS APIARIOS A UNA DISTANCIA MINIMA DE TRESCIENTOS METROS DE LAS VIAS DE COMUNICACION, CASAS, CORRALES O SITIOS FRECUENTADOS POR PERSONAS Y ANIMALES,
 
-VI. Se notificará personalmente al interesado la resolución que se emita.
+III. CONTAR CON CERCO PERIMETRAL DE PROTECCION Y ANUNCIOS O SEÑALAMIENTOS QUE INDIQUEN SU PRESENCIA,
 
-###### Artículo 89.
+IV. INSTALARLOS A UNA DISTANCIA MINIMA DE TRES KILOMETROS ENTRE SI, Y DE CINCO KILOMETROS ENTRE APICULTOR Y APICULTOR, POR LO QUE EXISTIRA INVASION DE UN TERRITORIO O RUTA APICOLA, CUANDO LOS APICULTORES INSTALEN APIARIOS A DISTANCIAS MENORES DE LAS ESTABLECIDAS POR LA LEY,
 
-Cuando la concesión de servicios públicos termine por causa imputable al concesionario, se perderá en favor del Ayuntamiento el importe de las garantías previstas en esta Ley o en otras disposiciones aplicables.
+V. ACREDITAR EL DERECHO AL USO DEL PREDIO PARA INSTALAR APIARIOS EN TERRENOS DE PROPIEDAD PRIVADA, COMUNAL O EJIDAL, Y
 
-Las resoluciones de terminación de concesiones de servicios públicos, deberán publicarse en el Periódico Oficial del Estado por lo menos en uno de los diarios de mayor circulación en el municipio o en su caso, en los estrados del Palacio Municipal.
+VI. LOS APIARIOS QUE SE INSTALEN CON EL UNICO FIN DEL PROCESO DE POLINIZACION, DEBERAN CONTAR CON LA AUTORIZACION DEL ESTADO, A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL, LA CUAL DURARA UNICAMENTE POR EL TIEMPO DE FLORACION DEL CULTIVO DE QUE SE TRATE, SIN QUE ESTE TIEMPO SEA SUPERIOR A 45 DIAS.
 
-Cumplido el plazo por el que se haya otorgado la concesión, y no habiendo prórroga, los bienes se revertirán en favor del Ayuntamiento.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 90.
+###### ARTICULO 92.
 
-Tomando en consideración que el Estado de Michoacán tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas, en los municipios donde se encuentren asentados éstos, los Ayuntamientos protegerán y promoverán el desarrollo de sus lenguas, culturas usos, costumbres, recursos y formas especificas de organización social, de acuerdo con la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado y demás leyes aplicables.
+SE CLAUSURARAN LOS APIARIOS QUE SE INSTALEN EN CONTRAVENCION A LAS DISPOSICIONES ESTABLECIDAS EN ESTA LEY, DISPOSICIONES FEDERALES Y SUS REGLAMENTOS.
 
-Así mismo, promoverán que la educación básica sea, tanto en español como en la lengua indígena madre.
+LA SECRETARIA DE DESARROLLO RURAL PREVIO PROCEDIMIENTO INSTAURADO, PROCEDERA A LA DESTRUCCION DE COLMENAS QUE RESULTEN INFECTADAS POR ALGUNA ENFERMEDAD EXOTICA O DE ALTO RIESGO.
 
-Para efectos del presente artículo, el Ayuntamiento expedirá los reglamentos que normen este aspecto, en función de la particularidad de cada municipio.
+LAS COLMENAS QUE SE ENCUENTREN SANAS, QUEDARAN A DISPOSICION DE LA SECRETARIA DE DESARROLLO RURAL PARA SER SUBASTADAS, Y EL RECURSO QUE SE OBTENGA SERA ENTREGADO AL INFRACTOR, PREVIA DEDUCCION DE LAS SANCIONES A QUE SE HAYA HECHO ACREEDOR Y LOS GASTOS QUE SE OCASIONEN; SALVO EL CASO EN QUE EL PROPIETARIO DESEE INSTALARLOS EN LUGAR DISTANTE AUTORIZADO POR LA AUTORIDAD COMPETENTE.
 
-###### Artículo 91.
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS No. 239, PUBLICADO EN P.O. 7 DE NOVIEMBRE DE 2001, EL LEGISLADOR SEÑALA LA DEROGACION DEL PRESENTE ARTICULO, SIN EMBARGO, EL MISMO NO EXISTIA EN EL TEXTO INMEDIATO ANTERIOR.</small>
 
-En los planes de desarrollo municipal se establecerán los programas, proyectos y acciones tendientes al desarrollo y bienestar de los pueblos indígenas, respetando sus formas de producción, comercio, de los usos y costumbres en general, y tomando en cuenta su opinión a través de sus órganos tradicionales de representación.
+ARTICULO 92 BIS.- (DEROGADO, P.O. 07 DE NOVIEMBRE DE 2001)
 
-###### Artículo 92.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Para el ejercicio de sus atribuciones, el Ayuntamiento se auxiliará de las dependencias, entidades y unidades administrativas necesarias, que estarán bajo las órdenes del Presidente Municipal.
+###### ARTICULO 93.
 
-###### Artículo 93.
+LAS CONTROVERSIAS QUE SE SUSCITEN ENTRE APICULTORES, POR LA INSTALACION DE APIARIOS, QUE NO CUMPLAN CON LAS DISPOSICIONES PREVISTAS EN ESTA LEY, DE NO RESOLVERSE DE MUTUO ACUERDO, PROCEDERAN LAS PARTES EN CONFLICTO, A HACERLO DEL CONOCIMIENTO DE LA SECRETARIA DE DESARROLLO RURAL, PARA QUE ESTA RESUELVA LO PROCEDENTE, EN ESTRICTO APEGO A DERECHO Y CON BASE EN LA PRESENTE LEY.
 
-El Presidente Municipal, previo acuerdo del Ayuntamiento, podrá crear dependencias, entidades y unidades administrativas que le estén subordinadas directamente, así como fusionar, modificar o suprimir las existentes, de acuerdo con las necesidades y la capacidad financiera del Ayuntamiento.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 94.
+###### ARTICULO 94.
 
-Para el estudio, la planeación y el despacho de los diversos asuntos de la administración Municipal, el Ayuntamiento se auxiliará por lo menos con las siguientes dependencias:
+LA INSPECCION DE LOS APIARIOS, COLMENAS, PRODUCTOS, SUBPRODUCTOS, INSTALACIONES Y PREDIOS, DONDE SE UBIQUEN, SERA OBLIGATORIA PARA SU PROPIETARIO, POSEEDOR O ENCARGADO DE LOS MISMOS, LA CUAL SERA REALIZADA POR PERSONAL DE LA SECRETARIA DE DESARROLLO RURAL Y DEL AYUNTAMIENTO MUNICIPAL QUE CORRESPONDA.
 
-I. La Secretaría del Ayuntamiento;
+###### ARTICULO 95.
 
-II. La Tesorería Municipal; y,
+LA INSPECCION SE LLEVARA A CABO:
 
-III. La Contraloría Municipal.
+A) EN EL LUGAR DE UBICACION DE LOS APIARIOS.
 
-###### Artículo 95.
+B) EN LA MOVILIZACION DE LAS COLMENAS Y SUS PRODUCTOS.
 
-Las dependencias, entidades y unidades administrativas conducirán sus acciones con base en los programas anuales y las políticas correspondientes, que para el logro de los objetivos establezca el Plan Municipal de Desarrollo.
+C) EN LAS BODEGAS, PLANTAS DE EXTRACCION, SEDIMENTACION Y ENVASADO.
 
-###### Artículo 96.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Las dependencias, entidades y unidades administrativas, ejercerán las funciones que les asigne esta Ley y los respectivos Bandos de Gobierno Municipal y Reglamentos, en los que se establecerán las estructuras de organización y sus funciones.
+###### ARTICULO 96.
 
-###### Artículo 97.
+LA PERSONA QUE MOVILICE SUS COLMENAS, SEGUN LAS EPOCAS DE COSECHA EN NUESTRA ENTIDAD FEDERATIVA DURANTE EL AÑO, DEBERA ENTREGAR ANUALMENTE A LA SECRETARIA DE DESARROLLO RURAL Y AL AYUNTAMIENTO MUNICIPAL QUE CORRESPONDA, DENTRO DE LOS PRIMEROS QUINCE DIAS DEL MES DE ENERO, UN ITINERARIO QUE COMPRENDA:
 
-Los titulares de cada una de las dependencias, entidades y unidades administrativas deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les correspondan y acordarán directamente con el Presidente Municipal.
+A) NUMERO TOTAL DE COLMENAS QUE SE MOVILIZARAN.
 
-###### Artículo 98.
+B) NUMERO DE APIARIOS QUE SE TRASLADARAN.
 
-Al frente de cada dependencia, entidad o unidad administrativa habrá un titular, con la denominación que determinen las disposiciones que correspondan, quien para el despacho de los asuntos de su competencia, se auxiliará por los servidores públicos que establezcan las disposiciones aplicables, conforme a la capacidad presupuestal, requerimientos administrativos y necesidades sociales del municipio.
+C) MESES DE LOS MOVIMIENTOS DE SUS APIARIOS.
 
-###### Artículo 99.
+D) MUNICIPIOS, POBLADOS Y LUGARES DE UBICACION ORIGINAL Y A DONDE SON TRASLADADOS.
 
-Corresponde originalmente a los titulares de las dependencias, entidades y unidades administrativas el trámite y resolución de los asuntos de su competencia, pero para la mejor organización del trabajo podrán delegar en los servidores a que se refiere el artículo anterior, cualesquiera de sus atribuciones, excepto aquellas que por disposición de esta Ley, reglamentos o resoluciones del Ayuntamiento, no sean delegables.
+E) MAPA DONDE SE UBIQUE LOS APIARIOS, SEÑALANDO EN FORMA DISTINTIVA LUGAR DE ORIGEN Y DE NUEVA UBICACION.
 
-###### Artículo 100.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Para la más eficaz atención y eficiente despacho de los asuntos de su competencia, los Ayuntamientos resolverán la creación de órganos administrativos desconcentrados que estarán jerárquicamente subordinados al Presidente Municipal y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales y administrativas aplicables.
+###### ARTICULO 97.
 
-###### Artículo 101.
+PARA EL CONTROL SANITARIO, EN LA MOVILIZACION DE COLMENAS, PRODUCTOS Y SUBPRODUCTOS, SE OBSERVARA LO DISPUESTO EN LOS CAPITULOS RELATIVOS DE LA PRESENTE LEY, EN CUANTO LE SEA APLICABLE.
 
-Los Ayuntamientos, con el objeto de llevar a cabo una oportuna toma de decisiones y una más eficaz prestación de los servicios públicos, podrá crear organismos descentralizados, con personalidad jurídica y patrimonio propios.
+###### ARTICULO 98.
 
-Para los efectos de esta Ley, los organismos descentralizados, cualquiera que sea la forma o estructura que adopten, serán aquellos que se constituyan y operen, total o mayoritariamente con recursos públicos del municipio.
+TODA PERSONA QUE DESEE INTRODUCIR AL ESTADO MATERIAL BIOLOGICO APICOLA PROCEDENTE DE OTRA ENTIDAD, DEBERA CUMPLIR CON LO ESTABLECIDO EN EL ARTICULO 91 DE LA PRESENTE LEY, ADEMAS DE SEÑALAR LOS APIARIOS CERCANOS YA EXISTENTES Y EXHIBIR CERTIFICADO ZOOSANITARIO Y GUIA DE TRANSITO.
 
-###### Artículo 102.
+###### ARTICULO 99.
 
-El Ayuntamiento designará un Comisario para cada uno de los organismos descentralizados que constituya y establecerá las formas para contar con una adecuada información sobre la organización y funcionamiento de dichos organismos.
+TODO EMBARQUE DE MIEL DEBERA DE ACOMPAÑARSE DEL PERMISO QUE EXPIDAN LA AUTORIDAD COMPETENTE, EN LA QUE SE DEFINA SU CALIDAD Y CARACTERISTICAS ORGANOLEPTICAS, SIN ESTE REQUISITO NO SE AUTORIZARA SU SALIDA.
 
-###### Artículo 103.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Los Ayuntamientos establecerán mecanismos administrativos y financieros que permitan la institucionalización del Servicio Civil de Carrera el cual tendrá los siguientes propósitos:
+###### ARTICULO 100.
 
-I. Garantizar la estabilidad y seguridad en el empleo;
+PARA MOVILIZAR MATERIAL BIOLOGICO APICOLA FUERA DEL ESTADO. DEBERA SOLICITARSE EL PERMISO CORRESPONDIENTE A LA SECRETARIA DE DESARROLLO RURAL, PREVIA EXHIBICION DEL CERTIFICADO ZOOSANITARIO Y GUIA DE TRANSITO.
 
-II. Fomentar la vocación de servicio mediante una motivación adecuada;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-III. Promover la capacitación permanente del personal;
+###### ARTICULO 101.
 
-IV. Procurar la lealtad a las instituciones del municipio;
+LA SECRETARIA DE DESARROLLO RURAL PROMOVERA EL FOMENTO, LA CONSERVACION Y EL REGISTRO DE PLANTAS MELIFERAS.
 
-V. Promover la eficiencia de los servidores públicos municipales;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-VI. Mejorar las condiciones laborales de los servidores públicos municipales;
+###### ARTICULO 102.
 
-VII. Garantizar promociones justas y otras formas de progreso laboral, tomando como base sus méritos;
+LA SECRETARIA DE DESARROLLO RURAL PROMOVERA EL CAMBIO DE COLMENAS RUSTICAS A MODERNAS, PARA INCREMENTAR LA PRODUCCION Y FOMENTAR EL MEJORAMIENTO GENETICO, MEDIANTE LA INTRODUCCION DE REINAS DE RAZA PURA, DE ALTA PRODUCCION O HIBRIDOS MEJORADOS.
 
-VIII. Garantizar a los servidores públicos municipales el ejercicio de los derechos que les reconocen leyes y otros ordenamientos jurídicos; y,
+###### ARTICULO 103.
 
-IX. Contribuir al bienestar de los servidores públicos municipales y sus familias, mediante el desarrollo de actividades educativas, de asistencia, culturales, recreativas y sociales.
+LOS PRODUCTORES APICOLAS ESTAN OBLIGADOS A COOPERAR EN LAS CAMPAÑAS ZOOSANITARIAS Y PARA EL CONTROL DE LA ABEJA AFRICANA, CONFORME LO ESTABLEZCAN LAS AUTORIDADES CORRESPONDIENTES.
 
-###### Artículo 104.
+###### ARTICULO 104.
 
-Para la institucionalización del Servicio Civil de Carrera, los Ayuntamientos establecerán:
+ASI MISMO SE INSTRUMENTARAN PROGRAMAS PARA EL FOMENTO Y DESARROLLO DE OTRAS ESPECIES ANIMALES, TOMANDO EN CONSIDERACION EL NUMERO DE PERSONAS QUE SE DEDIQUEN A ESTAS Y LA IMPORTANCIA ECONOMICA Y ECOLOGICA QUE PRESENTEN PARA EL ESTADO.
 
-I. Las normas, políticas y procedimientos administrativos, que definirán qué servidores públicos participarán en el servicio civil de carrera;
-
-II. Un estatuto del personal;
-
-III. Un sistema de mérito para la selección, promoción y estabilidad del personal;
-
-IV. Un sistema de clasificación de puestos, con su respectivo perfil;
-
-V. Un sistema de plan de salarios y tabulador de puestos; y,
-
-VI. Un sistema de capacitación, actualización y desarrollo del personal.
-
-### Capítulo III. De las Atribuciones de los Regidores
+### CAPITULO TERCERO. DE LA PORCICULTURA
 
 #### SECCION I. GENERALIDADES
 
-###### Artículo 105.
+###### ARTICULO 105.
 
-El Ayuntamiento creará una comisión del Servicio Civil de Carrera como organismo auxiliar de éste, cuyas funciones serán:
+PARA LOS EFECTOS DE ESTA LEY SE ENTENDERA POR:
 
-I. Promover ante las dependencias y entidades de la Administración Pública Municipal, la realización de los programas específicos del Servicio Civil de Carrera;
+I) PORCICULTURA: LA CRIA, REPRODUCCION, MEJORAMIENTO Y EXPLOTACION DE LOS CERDOS.
 
-II. Promover mecanismos de coordinación entre las dependencias y entidades de la Administración Pública Municipal, para uniformar y sistematizar los métodos de administración y desarrollo del personal, encaminados a instrumentar el Servicio Civil de Carrera;
+II) PORCICULTOR: LA PERSONA FISICA O MORAL QUE SE DEDICA A LA CRIA, REPRODUCCION, MEJORAMIENTO Y EXPLOTACION DE LA ESPECIE PORCINA.
 
-III. Determinar y proponer los elementos que permitan la adecuación e integración del marco jurídico y administrativo que requiera la instauración del Servicio Civil de Carrera;
+III) GRANJA PORCICOLA: LA EMPRESA PECUARIA ESPECIALIZADA EN LA CRIA, REPRODUCCION, MEJORAMIENTO Y MANEJO DE LOS CERDOS, YA SEA PARA PIE DE CRIA O PARA ABASTO.
 
-IV. Promover mecanismos de participación permanente, para integrar y unificar los planteamientos de las dependencias y entidades de la Administración Municipal, así como los correspondientes a las representaciones sindicales en la instrumentación del Servicio Civil de Carrera;
-
-V. Estudiar y emitir las recomendaciones necesarias para asegurar la congruencia de normas, sistemas y procedimientos del Servicio Civil de Carrera, con los instrumentos del Plan de Desarrollo Municipal;
-
-VI. Evaluar periódicamente los resultados de las acciones orientadas a la instrumentación del Servicio Civil de Carrera; y,
-
-VII. Las demás que señale el Ayuntamiento para el cumplimiento de su objetivo.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 #### SECCION II. DE LAS GRANJAS PORCICOLAS
 
-###### Artículo 106.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-En la aplicación del presente capítulo se atenderá en lo conducente a lo dispuesto por la Ley de Trabajadores al Servicio del Estado y de los Municipios del Estado de Michoacán.
+###### ARTICULO 106.
 
-El Ayuntamiento deberá elaborar el reglamento que determine los procedimientos de profesionalización de los servidores públicos Municipales.
+LAS GRANJAS PORCICOLAS DEBERAN CONTAR CON INSTALACIONES Y EQUIPOS HIGIENICOS Y MEDIDAS DE BIOSEGURIDAD DE ACUERDO CON LAS NORMAS OFICIALES MEXICANAS APLICABLES EN LA MATERIA.
 
-###### Artículo 107.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los ayuntamientos deberán elaborar, aprobar, ordenar la publicación de su respectivo Plan Municipal de Desarrollo, así como presentarlo al Congreso del Estado, para su examen y opinión dentro de los cuatro primeros meses de gestión administrativa. Su vigencia será por el período constitucional que corresponda. Para este efecto, los ayuntamientos podrán solicitar cuando lo consideren necesario, la asesoría del Gobierno del Estado.
+###### ARTICULO 107.
 
-###### Artículo 108.
+LA SECRETARIA DE DESARROLLO RURAL PODRA ASESORAR A LAS PERSONAS QUE SE LO SOLICITEN, Y QUE SE DEDIQUEN A LA PORCICULTURA, PARA LA OBTENCION DE CURSOS SOBRE CRIA, REPRODUCCION, MEJORAMIENTO, EXPLOTACION, SANIDAD E INDUSTRIALIZACION DE ESTA RAMA DE PRODUCCION.
 
-El Plan de cada Ayuntamiento precisará los objetivos, estrategias y prioridades del desarrollo municipal; contendrá prevenciones sobre los recursos que serán asignados a tales fines y establecerá los instrumentos, dependencias, entidades y unidades administrativas responsables de su ejecución. Sus previsiones se referirán al conjunto de las actividades económicas y sociales de los programas que se derivan del Plan.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 109.
+###### ARTICULO 108.
 
-Los programas que se deriven del Plan Municipal de Desarrollo deberán guardar congruencia entre sí y con los objetivos y prioridades generales del mismo, así como, con los Planes Estatal y Nacional de Desarrollo.
+QUEDA PROHIBIDA LA INSTALACION DE GRANJAS PORCICOLAS EN LOS CENTROS DE POBLACION O EN LUGARES CONTIGUOS A ELLOS, EN UN RADIO, QUE DETERMINARAN LAS AUTORIDADES MUNICIPALES, DE SALUD Y AMBIENTALES.
 
-###### Artículo 110.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Una vez aprobado el Plan por el Ayuntamiento, éste y sus programas operativos, serán obligatorios para las dependencias, entidades y unidades administrativas Municipales, en el ámbito de sus respectivas competencias.
+###### ARTICULO 109.
 
-Los programas podrán modificarse o actualizarse periódicamente, previa autorización del Ayuntamiento.
+LAS PERSONAS QUE SE DEDIQUEN A LA PORCICULTURA ESTAN OBLIGADAS A INSCRIBIRSE ANTE LA SECRETARIA DE DESARROLLO RURAL, DE LA QUE OBTENDRAN UN REGISTRO QUE LOS ACREDITA COMO PRODUCTOR, PREVIO TRAMITE Y APROBACION DE LOS SIGUIENTES REQUISITOS:
 
-El Plan Municipal de Desarrollo se publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-La coordinación en la ejecución del Plan y sus programas con el Gobierno del Estado se realizará a través del Comité para la Planeación del Desarrollo Municipal.
+I. NOMBRE O RAZON SOCIAL Y DOMICILIO,
 
-###### Artículo 111.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Al someter a consideración del Congreso del Estado sus iniciativas de Leyes de Ingresos y Presupuestos de Egresos, los Ayuntamientos informarán el contenido general de éstos y de su relación con los objetivos y prioridades del Plan Municipal de Desarrollo.
+II. UBICACION DEL PREDIO DESTINADO A LA ACTIVIDAD O GRANJA
 
-###### Artículo 112.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-La revisión que lleve a cabo el Congreso del Estado de las cuentas públicas de los Ayuntamientos, deberá relacionarse con la ejecución del Plan Municipal de Desarrollo y sus programas operativos, a fin de vincular el destino de los recursos con los objetivos y prioridades del Plan.
+III. NUMERO DE SEMOVIENTES Y CAPACIDAD INSTALADA,
 
-###### Artículo 113.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Los Ayuntamientos podrán convenir con el Ejecutivo Federal, con el Ejecutivo del Estado, o con otros Ayuntamientos, la coordinación que se requiera a fin de impulsar su desarrollo, para coadyuvar en el ámbito de sus respectivas competencias a la consecución de objetivos comunes y para la satisfacción de las necesidades colectivas de la municipalidad.
+IV. SUPERFICIE DE LA ZAHURDAS, SUS ESPECIFICACIONES Y NATURALEZA,
 
-Cuando a juicio del Ayuntamiento sea necesario podrá celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente se haga cargo en forma temporal de determinados servicios públicos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Ayuntamiento.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Tratándose de la asociación de municipios locales con los de otro estado se requerirá para convenir la autorización del Congreso del Estado.
+V. SISTEMAS DE EXPLOTACION, ESPECIFICANDO SU FUNCION ZOOTECNICA,
 
-### Capítulo IV. De la Secretaría del Ayuntamiento
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 114.
+VI. PRESENTAR EL CALENDARIO SANITARIO, ESPECIFICANDO LOS BIOLOGICOS EMPLEADOS, Y;
 
-Para los efectos del artículo anterior, los Ayuntamientos podrán convenir con el Ejecutivo Estatal o el Ejecutivo Federal:
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-I. Su participación en la planeación estatal y regional a través de la presentación de proyectos que consideran convenientes;
+VII. AUTORIZACION PREVIA DE LA SECRETARIA DE MEDIO AMBIENTE RECURSOS NATURALES EN MATERIA DE IMPACTO AMBIENTAL.
 
-II. Los procedimientos de coordinación para propiciar la planeación del desarrollo integral del municipio y su congruencia con la planeación estatal, así como para promover la participación de diversos grupos sociales en las actividades de planeación;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. La metodología para la realización de las actividades de planeación en el ámbito de su jurisdicción;
+VIII. NATURALEZA DE LOS EDIFICIOS CON ESPECIFICACIONES DE TODOS LOS DETALLES DE CONSTRUCCION, MAQUINARIA Y EQUIPO QUE DISPONGA, PARA LA EXPLOTACION DE LA ACTIVIDAD;
 
-IV. La ejecución de los programas y acciones que deben realizarse en los municipios que competan a dichos órdenes de Gobierno, considerando la participación que corresponda a los sectores de la sociedad;
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-V. La formación y el funcionamiento de órganos de colaboración; y,
+IX. CONSTANCIA DE INSCRIPCION EN LAS CAMPAÑAS SANITARIAS DE CARACTER OBLIGATORIO, PERMANENTE Y DE INTERES PUBLICO;
 
-VI. Las demás acciones necesarias para el mejor cumplimiento de los servicios públicos a su cargo.
+> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 115.
+X. AUTORIZACION DE LA AUTORIDAD MUNICIPAL, PREVIO DICTAMEN QUE EMITA LA SECRETARIA DE DESARROLLO RURAL.
 
-Un Ayuntamiento podrá celebrar convenios de coordinación administrativa con otro o varios Ayuntamientos para los siguientes fines:
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-I. La elaboración conjunta de los planes Municipales y regionales de desarrollo y sus programas. Esta Coordinación podrá realizarse entre Ayuntamientos afines por su tipología o entre Ayuntamientos que por razones de igual importancia consideren conveniente la coordinación;
+###### ARTICULO 110.
 
-II. La prestación de servicios públicos;
+LA SECRETARIA DE DESARROLLO RURAL FACULTA A LAS AUTORIDADES MUNICIPALES, PARA QUE REALICEN VERIFICACIONES E INSPECCIONES A LAS INSTALACIONES DE GRANJAS PORCICOLAS O DE LOCALES CON ESTA ACTIVIDAD, CON LA FINALIDAD DE DETECTAR EL DEBIDO CUMPLIMIENTO A LAS NORMAS OFICIALES; ASI COMO VIGILAR QUE SE ENCUENTREN DEBIDAMENTE REGISTRADAS Y AUTORIZADAS, EN CASO DE DETECTAR CUALQUIER ANOMALIA, LA AUTORIDAD MUNICIPAL, ESTA OBLIGADA A REPORTARLO ANTE LA SECRETARIA DE DESARROLLO RURAL, PARA QUE PROCEDA A APLICAR LAS SANCIONES PREVISTAS EN ESTA LEY.
 
-III. La coordinación en conjunto con el Ejecutivo del Estado o con el Ejecutivo Federal;
+###### ARTICULO 111.
 
-IV. La atracción de inversiones detonantes del desarrollo regional;
+PARA EL CONTROL SANITARIO Y MOVILIZACION DE CERDOS, PRODUCTOS Y SUBPRODUCTOS, SE OBSERVARA LO DISPUESTO EN LOS CAPITULOS DE SANIDAD Y MOVILIZACION QUE CONTIENE LA PRESENTE LEY, EN TODO AQUELLO QUE LES FUERE APLICABLE.
 
-V. La planeación, programación y ejecución de obras de interés regional;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-VI. La planeación, programación y ejecución de proyectos productivos regionales;
+###### ARTICULO 112.
 
-VII. La concertación con los sectores de la sociedad;
+PARA LA INTRODUCCION O SALIDA DEL ESTADO DE PORCINOS, PRODUCTOS Y SUBPRODUCTOS EN ESTADO NATURAL, REFRIGERADOS, CONGELADOS O INDUSTRIALIZADOS, SE DEBERA CONTAR CON:
 
-VIII. La constitución y el funcionamiento de Concejos intermunicipales de colaboración para la planeación y ejecución de programas y acciones de desarrollo urbano; vivienda, seguridad pública, ecología y preservación del medio ambiente, salud pública, seguridad pública, tránsito y vialidad, nomenclatura, servicios públicos, cultura, deportes, integración familiar, comunicación social y demás materias que consideren de interés mutuo;
+I. FACTURAS,
 
-IX. La reglamentación municipal;
+II. GUIA DE TRANSITO,
 
-X. La adquisición en común de materiales, equipo e instalaciones para la prestación de servicios públicos;
+III. CERTIFICADO ZOOSANITARIO, Y;
 
-XI. La contratación en común, de servicios de información;
+IV. PERMISO DE INTRODUCCION EMITIDO POR LA SECRETARIA DE DESARROLLO RURAL.
 
-XII. La contratación en común, de servicios de mantenimiento;
+SERA APLICABLE LO ESTABLECIDO EN EL TITULO SEPTIMO, EN TODO AQUELLO QUE SEA PROCEDENTE.
 
-XIII. La contratación en común, de asesoría técnica especializada;
+###### ARTICULO 113.
 
-XIV. La ejecución y el mantenimiento de obra pública;
+PARA EL CASO DE ROBO DE CERDOS DE LAS GRANJAS PORCICOLAS REGISTRADAS Y AUTORIZADAS, SERAN APLICABLES LAS DISPOSICIONES CONTENIDAS EN EL ARTICULO 247 DE LA PRESENTE LEY, EN CUANTO A LAS SANCIONES QUE SE IMPONGAN A LOS RESPONSABLES, SIN PERJUICIO DE LA APLICACION DE LA LEGISLACION PENAL VIGENTE EN EL ESTADO.
 
-XV. La promoción de las actividades económicas; y,
+> <small>(ADICIONADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-XVI. Los demás procedentes de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, las leyes que de éstas emanen, esta Ley y las demás disposiciones aplicables.
+### CAPITULO IV. DE LA OVINOCULTURA Y CAPRINOCULTURA
 
-###### Artículo 116.
+###### ARTICULO 114.
 
-El Congreso del Estado expedirá las disposiciones que determinen los procedimientos para dirimir los conflictos que se presenten entre los municipios y el Gobierno del Estado o entre aquellos sobre cumplimiento de convenios o acuerdos de coordinación en materia de asunción de la prestación de servicios públicos.
+PARA LOS EFECTOS DE ESTA LEY SE ENTENDERA POR:
 
-###### Artículo 117.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Los Ayuntamientos fomentarán la participación ciudadana, con el propósito de fortalecer el régimen de democracia participativa, vincular permanentemente a gobernantes y gobernados y propiciar la colaboración directa y efectiva de los ciudadanos en el cumplimiento de sus fines, mediante el trabajo y la solidaridad en el desarrollo vecinal y cívico y para el beneficio colectivo del municipio.
+I. OVINOCULTURA Y CAPRINOCULTURA: LA CRIA, REPRODUCCION, MEJORAMIENTO GENETICO Y EXPLOTACION DE LOS OVINOS Y CAPRINOS,
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 118.
+II. OVINOCULTOR Y CAPRINOCULTOR: LA PERSONA FISICA O MORAL QUE SE DEDICA A LA CRIA, REPRODUCCION, MEJORAMIENTO GENETICO Y EXPLOTACION DE LA ESPECIE OVINA Y CAPRINA, Y;
 
-El Ayuntamiento, dentro de un período de noventa días naturales contados a partir de la fecha de instalación, convocará y participará en la constitución, organización y funcionamiento de los organismos de participación ciudadana, cuyo objeto será contribuir a la elaboración, vigilancia y cumplimiento de los planes y programas del Municipio, impulsar la colaboración y participación de sus habitantes y proponer al Ayuntamiento alternativas de solución para los problemas de sus localidades o regiones. Su ejercicio será por el período constitucional del ayuntamiento correspondiente.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-El procedimiento de integración, la designación de sus miembros y sus funciones, serán determinados por el ayuntamiento con la participación de las organizaciones sociales del municipio y se sujetará a la Ley de la materia.
+III. EXPLOTACION OVINA Y CAPRINA: ES AQUELLA ACTIVIDAD DEDICADA A LA CRIA, REPRODUCCION, MEJORAMIENTO GENETICO, MANEJO DE LOS OVINOS Y CAPRINOS, YA SEA PARA PIE DE CRIA O PARA ABASTO; ASI COMO LA COMERCIALIZACION DE PRODUCTOS Y SUBPRODUCTOS.
 
-###### Artículo 119.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los Ayuntamientos podrán reglamentar la participación ciudadana democrática a través del referéndum, el plebiscito y la iniciativa popular, bajo las siguientes consideraciones:
+###### ARTICULO 115.
 
-I. El referéndum es el proceso por medio del cual los electores del municipio manifiestan su aceptación o rechazo de las medidas de carácter general que aprueben las autoridades municipales, o bien promueven la aprobación de iniciativas populares rechazadas por el Cabildo. Puede ser convocado a iniciativa del Cabildo, por mayoría simple, o bien por la población local, bajo las condiciones que se establecerán en el Reglamento respectivo;
+LOS PRODUCTORES QUE SE DEDIQUEN A LA CRIA Y EXPLOTACION DE GANADO OVINO, DEBERAN TENER EN LAS AREAS DESIGNADAS PARA ESTA ACTIVIDAD, INSTALACIONES Y EQUIPOS QUE RESGUARDEN LA SANIDAD E HIGIENE PROPIA Y EXTERNA, DE ACUERDO CON LAS NORMAS TECNICAS QUE EMITA LA SECRETARIA DE DESARROLLO RURAL, EN ESTE ASPECTO.
 
-Una vez cubiertos los requisitos formales, son los electores del municipio los que, por medio del sufragio universal y secreto, resolverán sobre su aprobación o rechazo. Los resultados del Referéndum tienen carácter obligatorio para el Ayuntamiento;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-II. El plebiscito es el procedimiento por medio del cual los electores de un municipio aprueban o rechazan actos de Gobierno, del Ayuntamiento incluyendo los nombramientos de encargados o responsables de un área de la administración Pública Municipal, salvo los casos del Secretario, del Tesorero y el Contralor Municipal. Puede ser convocado a iniciativa del Cabildo o bien por la población local bajo las condiciones que se establecerán en el Reglamento Municipal respectivo. Los resultados del Plebiscito serán obligatorios para el Ayuntamiento; y,
+###### ARTICULO 116.
 
-III. La iniciativa popular es el derecho que tienen los ciudadanos de proponer ante la Autoridad Municipal la aprobación de Reglamentos y disposiciones administrativas de carácter general, así como la ejecución de programas específicos para el beneficio de la población municipal. Cubiertos los requisitos formales es el Cabildo el que por mayoría simple resuelve sobre la procedencia de la iniciativa. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de egresos y la regulación interna de los órganos del municipio.
+LA SECRETARIA DE DESARROLLO RURAL, ASESORARA A LAS PERSONAS DEDICADAS A LA OVINOCULTURA Y CAPRINOCULTURA, ORGANIZANDO CURSOS DE CAPACITACION SOBRE LA CRIA, REPRODUCCION, SANIDAD, MEJORAMIENTO GENETICO, EXPLOTACION E INDUSTRIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS DEL RAMO.
 
-###### Artículo 120.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los Ayuntamientos promoverán permanentemente la participación ciudadana de la sociedad organizada en los comités de planeación del desarrollo municipal, de obra pública, adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles, en los consejos municipales para el desarrollo agropecuario, en las comisiones municipales de ecología y en los demás organismos municipales que de conformidad con las disposiciones que regulan su integración y funcionamiento.
+###### ARTICULO 117.
 
-###### Artículo 121.
+ES FACULTAD DE LOS AYUNTAMIENTOS MUNICIPALES, SECRETARIA DE DESARROLLO RURAL, AUTORIDADES DE SALUD Y AMBIENTALES, SEÑALAR Y AUTORIZAR EL RADIO DISTANTE DE LOS CENTROS DE POBLACION, PARA LA INSTALACION DE EXPLOTACIONES OVINAS Y CAPRINAS, CUIDANDO LOS ASPECTOS CULTURALES DE LOS PRODUCTORES, EN LOS PUEBLOS INDIGENAS.
 
-Las asociaciones de habitantes serán organismos de participación y colaboración ciudadana en la gestión de demandas y propuestas de interés general.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-El Ayuntamiento convocará a estas asociaciones y a la ciudadanía en general, para la organización y funcionamiento de los organismos de participación ciudadana, cuyo objeto será contribuir al desarrollo municipal; así mismo se procurará que participen en la elaboración, seguimiento y evaluación de los planes y programas de desarrollo del municipio.
+###### ARTICULO 118.
 
-###### Artículo 122.
+TODO OVINOCULTOR Y CAPRINOCULTOR DEBERA INSCRIBIRSE EN LA SECRETARIA DE DESARROLLO RURAL PARA OBTENER EL REGISTRO CORRESPONDIENTE, DEBIENDO PROPORCIONAR LA SIGUIENTE INFORMACION:
 
-El Patrimonio Municipal se constituye por:
+I. NOMBRE O RAZON SOCIAL Y DOMICILIO,
 
-I. Los ingresos que conforman su Hacienda Pública;
+II. UBICACION DE LA EXPLOTACION,
 
-II. Los bienes de dominio público y del dominio privado que le correspondan; y,
+III. SUPERFICIE DE LA EXPLOTACION, ESPECIFICACIONES Y NATURALEZA,
 
-III. Los demás bienes, derechos y obligaciones que le sean transmitidos o que adquiera por cualquier título legal.
+IV. SISTEMA DE PRODUCCION,
 
-### Capítulo II. De los Bienes Municipales
+V. NUMERO DE ANIMALES EN EXPLOTACION, ESPECIFICANDO SU FUNCION ZOOTECNICA, Y;
 
-## TÍTULO SEXTO. DE LA PARTICIPACIÓN CIUDADANA
+VI. CALENDARIO SANITARIO, ESPECIFICANDO EL MATERIAL BIOLOGICO UTILIZADO.
 
-### Capítulo V. De la Tesorería Municipal
+PARA LA INTRODUCCION O SALIDA DEL ESTADO DE ESTA ESPECIE, PRODUCTOS Y SUBPRODUCTOS, SERAN APLICABLES LAS DISPOSICIONES CONTENIDAS EN EL TITULO SEPTIMO DE LA PRESENTE LEY, ASI COMO LO DISPUESTO EN LA NORMA OFICIAL MEXICANA.
 
-###### Artículo 123.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Son los bienes de dominio público municipal, enunciativamente:
+###### ARTICULO 119.
 
-I. Los de uso común;
+PARA EL FORTALECIMIENTO, ORGANIZACION E INTEGRACION DE LOS OVINOCULTORES Y CAPRINOCULTORES, LA SECRETARIA DE DESARROLLO RURAL FOMENTARA LA CONSTITUCION DE ASOCIACIONES GANADERAS DE DICHA ESPECIE EN AQUELLAS ZONAS DE POTENCIAL DESARROLLADO Y NO DESARROLLADO.
 
-II. Los destinados por el Ayuntamiento a un servicio público;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-III. Los muebles Municipales que por su naturaleza normalmente no sean sustituibles;
+###### ARTICULO 120.
 
-IV. Los monumentos históricos, arqueológicos y artísticos, sean muebles o inmuebles de propiedad municipal; y,
+ES OBLIGACION DE LA SECRETARIA DE DESARROLLO RURAL Y DE LAS AUTORIDADES MUNICIPALES VIGILAR QUE TODA EXPLOTACION OVINA Y CAPRINA SE ENCUENTRE REGISTRADA Y AUTORIZADA PARA FUNCIONAR EN LOS TERMINOS DE LA PRESENTE LEY.
 
-V. Las servidumbres, cuando el predio dominante sea uno de los indicados en este artículo.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 124.
+###### ARTICULO 121.
 
-Los bienes de dominio público municipal son inalienables e imprescriptibles y no estarán sujetos mientras no varíe su situación jurídica, a acciones reivindicatorias o de posesión definitiva o provisional sin embargo, los particulares y las instituciones de derecho público podrán adquirir sobre éstos, sin que se constituyan derechos reales, su uso, aprovechamiento y explotación mediante el otorgamiento de las concesiones respectivas.
+SE DECLARAN OBLIGATORIAS Y DE INTERES PUBLICO LAS CAMPAÑAS ZOOSANITARIAS, POR LO CUAL TODO OVINOCULTOR Y CAPRINOCULTOR, TENDRA LA OBLIGACION DE ACATAR LAS DISPOSICIONES Y PARTICIPAR ACTIVAMENTE EN ESTAS, ASI COMO EN TODAS AQUELLAS QUE LAS AUTORIDADES COMPETENTES ESTIMEN NECESARIAS PARA SALVAGUARDAR LA INTEGRIDAD PECUARIA DE LA ENTIDAD.
 
-Para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al municipio por un plazo mayor al período constitucional del ayuntamiento, se requerirá el acuerdo de las dos terceras partes de los miembros del ayuntamiento.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-Las concesiones sobre esta clase de bienes, se otorgarán, extinguirán y revocarán en la forma y términos que determine esta Ley.
+###### ARTICULO 122.
 
-###### Artículo 125.
+PARA INTRODUCCION O SALIDA DEL ESTADO DE OVINOS Y CAPRINOS, PRODUCTOS Y SUBPRODUCTOS EN ESTADO NATURAL, REFRIGERADOS, CONGELADOS O INDUSTRIALIZADOS, SE DEBERA CONTAR CON:
 
-Cuando un bien inmueble propiedad del Municipio vaya a incorporarse al dominio público por estar comprendido dentro de las disposiciones de esta Ley, el Ayuntamiento por conducto de su Presidente Municipal deberá emitir la declaratoria de incorporación correspondiente, la que se publicará por una sola vez en el Periódico Oficial del Estado, y se inscribirá en el Registro Público de la Propiedad para que surta efectos contra terceros. La incorporación surtirá efectos a partir de la publicación de la declaratoria.
+I. FACTURAS,
 
-Igual declaratoria de incorporación deberá emitirse, cuando un bien, de hecho esté destinado al uso común, a un servicio público o a alguna de las actividades que se equiparen a éstos.
+II. GUIA DE TRANSITO,
 
-###### Artículo 126.
+III. CERTIFICADO ZOOSANITARIO,
 
-Los bienes de dominio público de los municipios, podrán ser desincorporados, mediante acuerdo de las dos terceras partes de los miembros del Ayuntamiento, cuando por algún motivo dejen de ser útiles para fines de servicio público o sean solicitados para realizar un proyecto de beneficio social.
+IV. CERTIFICADO DE VACUNACION O DICTAMEN DE PRUEBA NEGATIVO DE LAS CAMPAÑAS ZOOSANITARIAS VIGENTES, DE ACUERDO A LA FASE EN QUE SE ENCUENTREN LAS MISMAS, Y;
 
-A la solicitud que para estos efectos realicen los Ayuntamientos, deberá acompañarse:
+V. PERMISO DE INTRODUCCION, EMITIDO POR LA SECRETARIA DE DESARROLLO RURAL.
 
-I. Un dictamen técnico que justifique la desincorporación;
+PARA LA INTRODUCCION O SALIDA DEL ESTADO DE ESTA ESPECIE, PRODUCTOS Y SUBPRODUCTOS, SERAN APLICABLES LAS DISPOSICIONES CONTENIDAS EN EL TITULO SEXTO DE LA PRESENTE LEY, ASI COMO LO DISPUESTO EN LAS NORMAS OFICIALES MEXICANAS Y EN LA LEY FEDERAL DE SANIDAD ANIMAL.
 
-II. Tratándose de inmuebles, un plano de localización de los mismos, en el que se señale la superficie total del inmueble y sus medidas y colindancias; y,
+## TITULO SEXTO. SANIDAD E INSPECCION DE GANADO, DEMAS ESPECIES Y SUS PRODUCTOS
 
-III. La especificación del aprovechamiento que se pretenda dar al bien. Tratándose de inmuebles, dicho aprovechamiento deberá ser compatible con las correspondientes declaratorias de previsiones, reservas, usos y destinos que señalen los planes y programas de desarrollo urbano municipales.
+### CAPITULO I. SANIDAD PECUARIA
 
-Cuando la desincorporación tenga como finalidad la enajenación o el gravamen de los bienes a que se refiere este precepto, cumpliéndose con los requisitos que señala el artículo 130 de esta Ley, podrán presentarse las solicitudes en forma simultánea.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 127.
+###### ARTICULO 123.
 
-Son bienes del dominio privado municipal, enunciativamente:
+EL ESTADO A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL, PODRA DICTAR MEDIDAS DE BIOSEGURIDAD PARA PREVENIR, CONTROLAR, ERRADICAR Y EVITAR LA PROPAGACION DE ENFERMEDADES Y PLAGAS QUE AFECTEN A LAS ESPECIES PECUARIAS ASI COMO A LA FAUNA SILVESTRE; ESTA DISPOSICION TENDRA VIGENCIA EN EL AREA Y DURANTE EL TIEMPO PARA EL QUE SE ESTABLEZCAN, SIEMPRE Y CUANDO NO CONTRAVENGAN DISPOSICIONES FEDERALES EN MATERIA DE SANIDAD ANIMAL.
 
-I. Los abandonados, adjudicados al municipio por la autoridad judicial;
+SERAN DE OBSERVANCIA OBLIGATORIA Y DE INTERES PUBLICO LAS CAMPAÑAS ZOOSANITARIAS PARA LA PREVENCION, CONTROL Y ERRADICACION DE ENFERMEDADES QUE DICTEN LAS AUTORIDADES COMPETENTES AL RESPECTO, POR LO QUE ES DE CARACTER GENERAL LA OBLIGACION DE ACATAR LAS DISPOSICIONES Y PARTICIPAR ACTIVAMENTE EN ESTAS, PARA SALVAGUARDAR LA SANIDAD PECUARIA EN LA ENTIDAD.
 
-II. Los que resulten de la liquidación o extinción de organismos o entidades municipales;
+###### ARTICULO 124.
 
-III. Los muebles no comprendidos en la fracción III del artículo 127 de esta Ley; y,
+EL ESTADO TENDRA LA OBLIGACION DE MONITOREAR EPIZOOTIOLOGICAMENTE TODA INTRODUCCION DE GANADO PARA EVITAR LA PROPAGACION DE ENFERMEDADES INFECTOCONTAGIOSAS QUE LIMITEN LA PRODUCCION, PONGAN EN RIESGO LA PRODUCTIVIDAD PECUARIA Y LAS CAMPAÑAS DE SANIDAD QUE SE HAYAN IMPLEMENTADO.
 
-IV. Los inmuebles o muebles que adquiera el municipio hasta en tanto no se destinen al uso común, a la prestación de un servicio público o a alguna de las actividades que se equiparen a ésta o de hecho se utilicen en estos fines.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 128.
+###### ARTICULO 125.
 
-Los bienes del dominio privado de los municipios son inembargables e imprescriptibles.
+MIENTRAS SE ENCUENTRE VIGENTE LA DECLARACION DE CUARENTENA, NO SE EXPEDIRAN CERTIFICADOS SANITARIOS NI GUIAS DE TRANSITO PARA LOS ANIMALES DE LA ZONA AFECTADA.
 
-Se destinarán prioritariamente al servicio de las diversas dependencias, entidades y unidades administrativas municipales, en cuyo caso deberán de ser incorporados al dominio público.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 129.
+###### ARTICULO 126.
 
-A excepción de los bienes de Comodato, los Ayuntamientos podrán ejecutar sobre los bienes de dominio privado, todos los actos de administración y de dominio que regula el derecho civil con las modalidades y cumpliendo los requisitos establecidos en este Capítulo.
+SE PROHIBE LA ENTRADA O SALIDA DEL ESTADO, DE ANIMALES INFECTADOS POR ENFERMEDADES INFECTO CONTAGIOSAS TRANSMISIBLES, SIEMPRE Y CUANDO NO SE CONTRAVENGA A LAS DISPOSICIONES FEDERALES EN MATERIA DE SANIDAD ANIMAL.
 
-###### Artículo 130.
+###### ARTICULO 127.
 
-La enajenación o gravamen de los bienes muebles del dominio privado del municipio, requerirá la autorización previa del Ayuntamiento, la cual deberá publicarse en el Periódico Oficial del Estado acompañando a la misma el avalúo del bien, fecha y hora en la que se celebrará la subasta pública a la que se refiere el artículo 132 esta Ley. Sólo podrán enajenarse los bienes muebles, que, previo acuerdo del Ayuntamiento, ya no se consideren útiles para el servicio público por haber sido amortizados o considerados como chatarra.
+SERAN DE CARACTER OBLIGATORIO LA OBSERVANCIA DE LAS MEDIDAS QUE EN MATERIA DE SANIDAD ANIMAL ESTABLEZCAN LAS INSTITUCIONES DEL SECTOR ESTATAL O FEDERAL.
 
-Para la enajenación o gravamen de los bienes inmuebles municipales, se deberá cumplir con los siguientes requisitos:
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-I. Que la necesidad de las enajenaciones responda a la ejecución de un programa cuyo objetivo sea la satisfacción del suelo urbano para vivienda, atendiendo preferentemente a la población urbana y rural de bajos ingresos, o bien al impulso o fomento de las actividades productivas o de desarrollo y/o asistencia social, cívica, deportiva o cultural de sus comunidades;
+###### ARTICULO 128.
 
-II. Que en la solicitud respectiva se especifique el destino que se proyecte dar al producto que se obtenga con la enajenación o gravamen; y,
+SIN PERJUICIO DE LO PREVISTO POR LA LEY FEDERAL DE SANIDAD ANIMAL Y LAS NORMAS OFICIALES MEXICANAS, SE CONSIDERAN COMO MEDIDAS DE SEGURIDAD PARA LA SANIDAD PECUARIA, LAS SIGUIENTES:
 
-III. Que se anexe un avalúo expedido por la Comisión Nacional de Avalúos de Bienes Nacionales, por una Institución de crédito debidamente acreditada o por el Catastro. Asimismo, deberá acompañarse lo que establecen las fracciones II y III artículo 130 de esta Ley.
+I. LA LOCALIZACION, DELIMITACION Y DECLARACION DE ZONAS DE INFECCION, DESINFESTACION, PROTECCION Y LIMPIA,
 
-###### Artículo 131.
+II. EL ESTABLECIMIENTO DE CUARENTENAS Y VIGILANCIA VETERINARIA, DEL TRANSITO DE PERSONAS, ANIMALES Y DE TRANSPORTE DE OBJETOS EN O HACIA FUERA DE LA ZONA INFECTADA O BAJO CONTROL, DETERMINANDOSE EN CADA CASO LA DURACION DE LA APLICACION DE ESTAS MEDIDAS,
 
-Los Ayuntamientos pueden dar en arrendamiento los bienes que integren su patrimonio. Cuando el período del arrendamiento exceda de tres años será necesario la aprobación de las dos terceras partes de sus miembros, siempre que no se afecte con motivo de las obligaciones el interés y el patrimonio municipal.
+III. DECRETAR LAS MEDIDAS NECESARIAS DE DESINFECCION O DESINFESTACION, PARA PERSONAS, ANIMALES, PRODUCTOS Y OBJETOS QUE PROCEDAN DE LA ZONA AFECTADA,
 
-###### Artículo 132.
+IV. EL AISLAMIENTO, VIGILANCIA, SECUESTRO, TRATAMIENTO, DESINFECCION, DESINFESTACION, MARCAJE Y DESTRUCCION EN CASO NECESARIO DE ANIMALES, PRODUCTOS, LOCALES EN QUE SE HAYAN ALBERGADO ANIMALES ENFERMOS, EQUIPOS DE MANEJO Y LIMPIEZA, MEDICAMENTOS, VEHICULOS PARA TRANSPORTE, ALIMENTOS Y EN GENERAL CUALQUIER OBJETO QUE SE CONSIDERE COMO MEDIO PARA LA PROPAGACION DE PLAGAS Y ENFERMEDADES,
 
-La enajenación onerosa de bienes muebles e inmuebles de los municipios, deberá ser en numerario o especie y se efectuará en subasta pública que garantice al municipio las mejores condiciones posibles en cuanto a precio de venta, de conformidad con los procedimientos que establezcan las disposiciones aplicables.
+V. LA PROHIBICION ABSOLUTA O CONDICIONAL PARA CELEBRAR EXPOSICIONES, FERIAS Y EN GENERAL CUALQUIER EVENTO QUE FACILITE LA DISEMINACION DE PLAGAS Y ENFERMEDADES,
 
-###### Artículo 133.
+VI. LA DESOCUPACION POR TIEMPO DETERMINADO DE POTREROS O CAMPOS Y LA DESINFECCION O DESINFESTACION DE LOS MISMOS POR LOS MEDIOS NECESARIOS, ASI COMO LA PROHIBICION TEMPORAL DEL USO DE ABREVADEROS NATURALES O ARTIFICIALES,
 
-El Ayuntamiento, previo el cumplimiento de los requisitos establecidos en esta Ley, podrá autorizar la enajenación directa en forma onerosa de inmuebles fuera de subasta, cuando se trate de satisfacer necesidades de suelo urbano para vivienda o para otro objeto de beneficio colectivo.
+VII. LA PROHIBICION DE LA VENTA, CONSUMO O APROVECHAMIENTO EN CUALQUIER FORMA DE ANIMALES ENFERMOS O SOSPECHOSOS DE ESTARLO, ASI COMO TAMBIEN DE PRODUCTOS O DESPOJOS, Y;
 
-###### Artículo 134.
+VIII. LA INMUNIZACION DE LOS ANIMALES, LAS DEMAS QUE LA AUTORIDAD COMPETENTE ESTIME NECESARIA PARA COMBATIR LA ENFERMEDAD O IMPEDIR SU PROPAGACION.
 
-Todos los bienes muebles e inmuebles que constituyan el patrimonio del municipio son inembargables. En consecuencia no podrán emplearse en la vía de ejecución para hacer efectivas las sentencias dictadas a favor de particulares y contra la Hacienda Municipal, salvo el caso de que, con autorización del Congreso del Estado, se hubieren dado en garantía de un adeudo destinado a la prestación de un servicio público.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 135.
+###### ARTICULO 129.
 
-Los bienes de domino (sic) público de uso común y los destinados a un servicio público, son imprescriptibles y no podrán ser objeto de gravámenes de ninguna clase ni reportar en provecho de particulares ningún derecho de uso, usufructo o habitación; tampoco podrán imponerse sobre ellos servidumbre pasiva alguna en los términos del derecho civil. Los derechos de tránsito, de vistas, de bienes y otros semejantes, se regirán por las leyes reglamentos administrativos y los permisos o concesiones que llegue a otorgar la autoridad municipal sobre esta clase de bienes y tendrán siempre el carácter de revocables.
+PARA LOS EFECTOS DE ESTA LEY, SE CONSIDERAN COMO ENFERMEDADES EXOTICAS, ENZOOTICAS O EPIZOOTICAS, INFECCIOSAS Y PARASITARIAS LAS QUE SE DESCRIBAN EN EL REGLAMENTO CORRESPONDIENTE.
 
-### Capítulo VI. De la Contraloría Municipal
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 136.
+###### ARTICULO 130.
 
-La compra, venta, donación, cesión o gravamen de bienes inmuebles municipales, requerirá de la aprobación de las dos terceras partes de los miembros del Ayuntamiento.
+LOS OFICIALES DE INSPECTORIA PECUARIA Y LOS INSPECTORES PECUARIOS, QUE DETECTEN EN TRANSITO, GANADO MAYOR Y/O ESPECIES MENORES, AFECTADOS POR HERIDAS, PLAGAS O ENFERMEDADES RIESGOSAS, DEBERAN DETENERLO Y COMUNICARLO DE INMEDIATO A LA SECRETARIA DE DESARROLLO RURAL, SAGARPA Y AL AYUNTAMIENTO MUNICIPAL QUE CORRESPONDA, PARA LOS EFECTOS PROCEDENTES; ASI TAMBIEN, DEBERAN ELABORAR ACTA CIRCUNSTANCIADA DE LOS HECHOS, EN LA CUAL PODRAN DESIGNAR DEPOSITARIO, QUE TENDRA OBLIGACION Y RESPONSABILIDAD DE LA CUSTODIA Y GUARDA DE LOS ANIMALES; ESTA FIGURA JURIDICA RECAE PREFERENTEMENTE, EN QUIEN DETENTE LOS ANIMALES. LOS OFICIALES DE INSPECTORIA PECUARIA Y/O LOS INSPECTORES PECUARIOS, DEBERAN TURNAR EL CASO A LA SECRETARIA DE DESARROLLO RURAL, PARA LA APLICACION DE LAS SANCIONES CORRESPONDIENTES.
 
-(NOTA 1**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 67/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+LOS OFICIALES DE INSPECTORIA PECUARIA Y/O INSPECTORES PECUARIOS, PERMITIRAN QUE SE MOVILICE O SE LIBERE EL GANADO MAYOR O ESPECIES MENORES, A QUE SE REFIERE EL PARRAFO ANTERIOR, PREVIA AUTORIZACION DE LA SECRETARIA DE DESARROLLO RURAL, O A PETICION DEL COMITE DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO, PREVIA ELABORACION DEL ACTA ADMINISTRATIVA CIRCUNSTANCIADA QUE SE PRACTIQUE POR ESTA SITUACION.
 
-(NOTA 2**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 75/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+###### ARTICULO 131.
 
-(NOTA 3**: EL 21 DE FEBRERO DE 2013, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 78/2011, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 17 DE MAYO DE 2013 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+TODA PERSONA QUE TENGA CONOCIMIENTO DE LA APARICION DE CUALQUIER PLAGA O ENFERMEDAD QUE AFECTE AL GANADO DEBERA COMUNICARLO DE INMEDIATO A QUIEN CORRESPONDA, PARA QUE SE TOMEN LAS MEDIDAS PERTINENTES.
 
-**[En cuanto a los efectos de esta declaración de invalidez ver la tesis jurisprudencial que lleva por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SÓLO TENDRÁ EFECTOS PARA LAS PARTES." (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249)]
+LOS PROPIETARIOS Y ENCARGADOS DE GANADO, DEBERAN TOMAR LAS MEDIDAS PARA EVITAR LA PROPAGACION DE ENFERMEDADES O PLAGAS, ESTAS PODRAN SER EL AISLAMIENTO, TRATAMIENTO MEDICO Y OTRAS QUE SE CONSIDEREN PERTINENTES, DEBIENDO COOPERAR EN LOS TRABAJOS DE PREVENCION Y COMBATE DE LAS ENFERMEDADES.
 
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-NO PODRÁN SER SUJETOS DE VENTA, PERMUTA, DONACIÓN, CESIÓN, COMODATO O CUALQUIER ACTO DE ENAJENACIÓN, LOS BIENES INMUEBLES MUNICIPALES ADQUIRIDOS POR:
+###### ARTICULO 132.
 
-I. DONACIÓN DE DESARROLLOS HABITACIONALES; Y,
+SIN PERJUICIO DE LAS DENUNCIAS REALIZADAS ANTE LAS AUTORIDADES QUE DEBAN INTERVENIR, DESDE EL MOMENTO EN QUE EL PROPIETARIO O ENCARGADO NOTE EL SINTOMA DE ALGUNA ENFERMEDAD CONTAGIOSA, DEBERAN PROCEDER AL AISLAMIENTO Y CONFINACION DE LOS ANIMALES ENFERMOS, SEPARANDOLOS DE LOS SANOS; EL MISMO AISLAMIENTO SE LLEVARA A CABO CON LOS ANIMALES QUE SE SUPONGAN HAN MUERTO DE ENFERMEDADES INFECTO-CONTAGIOSAS, PARA LO CUAL DEBERAN ENTERRARSE O INCINERARSE, DANDO AVISO INMEDIATO A LAS AUTORIDADES SANITARIAS.
 
-II. TRANSFERENCIA O ENAJENACIÓN DE ÁREAS DE DONACIÓN ESTATAL DE DESARROLLOS HABITACIONALES.
+###### ARTICULO 133.
 
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+TODA PERSONA QUE VENDA, ACEPTE O LLEVE A CABO CUALQUIER OPERACION O CONTRATO CON EL DESPOJO DE ALGUN ANIMAL MUERTO A CAUSA DE UNA ENFERMEDAD INFECTO-CONTAGIOSA, SERA SANCIONADO EN LOS TERMINOS DE ESTA LEY SIN PERJUICIO DE APLICARSE LAS SANCIONES A QUE SE HAGA ACREEDORA CON BASE EN OTROS ORDENAMIENTOS LEGALES Y COMO CONSECUENCIA DE LAS DENUNCIAS HECHAS A LAS AUTORIDADES COMPETENTES.
 
-Las áreas verdes de donación, deberán ser espacios jardinados, el fraccionador tendrá la obligación de equiparlas para tales efectos. El Ayuntamiento deberá incorporarlas como áreas de uso común de dominio público.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO [ADICIONADO], P.O. 24 DE MAYO DE 2011)</small>
+###### ARTICULO 134.
 
-Los proyectos de construcción de obras de equipamiento urbano que se pretendan realizar en áreas de donaciones estatales o municipales, deberán contar con la aprobación mayoritaria de los vecinos del desarrollo que generó el área de donación.
+ES OBLIGACION DE TODOS LOS PRODUCTORES Y COMERCIALIZADORES PECUARIOS ACATAR Y CUMPLIR CON LAS DISPOSICIONES EMITIDAS EN LAS NORMAS OFICIALES MEXICANAS, RESPECTO A LAS CAMPAÑAS ZOOSANITARIAS OFICIALES Y DE INTERES ESTATAL.
 
-### Capítulo III
+###### ARTICULO 135.
 
-Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de Bienes Muebles e Inmuebles.
+LAS DISPOSICIONES DEL PRESENTE CAPITULO SERAN APLICABLES EN LO CONDUCENTE A LAS DEMAS ESPECIES ANIMALES A QUE SE REFIERE ESTA LEY Y SU REGLAMENTO.
 
-###### Artículo 137.
+### CAPITULO II. INSPECCION DEL GANADO, OTRAS ESPECIES Y SUS PRODUCTOS
 
-Para el desempeño de las funciones de la Administración Pública Municipal, el Ayuntamiento aprobará las disposiciones administrativas relativas a la obra pública, adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles del municipio.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 138.
+###### ARTICULO 136.
 
-Se creará un Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios de bienes muebles e inmuebles, el cuál se integrará con un regidor de cada una de las distintas fuerzas políticas que constituyan el Ayuntamiento y los servidores públicos auxiliares que determine el Ayuntamiento, de acuerdo con las áreas de apoyo requeridas o el carácter de la operación y que se nombrará durante los primeros treinta días de la constitución del Ayuntamiento.
+LA INSPECCION PECUARIA DE PRODUCTOS Y SUBPRODUCTOS, SERA REALIZADA POR LOS OFICIALES DE INSPECTORIA Y POR LOS INSPECTORES PECUARIOS AUTORIZADOS POR LA SECRETARIA DE DESARROLLO RURAL, SIENDO OBLIGACION DE LOS PROPIETARIOS O TRANSPORTISTAS, OTORGAR TODAS LAS FACILIDADES PARA VERIFICAR LA CORRECTA MOVILIZACION, SANIDAD, PAGO DE IMPUESTOS Y LA COMPROBACION DE LA PROPIEDAD DE LOS SEMOVIENTES.
 
-###### Artículo 139.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-El comité de obra pública, adquisiciones, enajenaciones, arrendamientos y contratación de servicios de bienes muebles e inmuebles, tendrá las siguientes atribuciones:
+###### ARTICULO 137.
 
-I. Celebrar concursos para la adjudicación de contratos en los términos aprobados por el Ayuntamiento;
+LA SECRETARIA DE DESARROLLO RURAL ORGANIZARA EL SERVICIO DE INSPECCION PECUARIA, Y PODRA DELEGAR DICHA FUNCION A TRAVES DEL ORGANISMO COMPETENTE, PROPORCIONANDO LOS REQUISITOS PARA SU ELECCION, BASANDOSE EN LO PREVISTO EN LA PRESENTE LEY.
 
-II. Proponer modificaciones a las disposiciones administrativas aprobadas por el Ayuntamiento;
+EN COORDINACION CON LOS AYUNTAMIENTOS MUNICIPALES, LA SECRETARIA DE DESARROLLO RURAL, DETERMINARA EL NUMERO Y UBICACION DE LAS CASETAS DE INSPECCION EN EL ESTADO.
 
-III. Proponer al Ayuntamiento previo dictamen, la rescisión de contratos por caso fortuito o fuerza mayor, el pago de indemnización a los proveedores que, en su caso, se consideren procedentes, así como las sanciones que correspondan a los proveedores que hayan incurrido en incumplimiento parcial o total de contratos;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-IV. Publicar en el diario de mayor circulación la convocatoria del concurso sobre obra pública y adquisición de bienes, de conformidad con las bases aprobadas por el Ayuntamiento y las disposiciones aplicables de la Ley de la materia; y,
+###### ARTICULO 138.
 
-V. Realizar las licitaciones públicas conducentes.
+SERA OBJETO DE VERIFICACION E INSPECCION:
 
-###### Artículo 140.
+I. EL LUGAR DE EMBARQUE,
 
-En lo no previsto en esta Ley, se aplicará supletoriamente lo establecido en la Ley estatal de la materia.
+II. EL GANADO MAYOR Y ESPECIES MENORES EN TRANSITO,
 
-## TÍTULO SÉPTIMO. DE LOS BIENES MUNICIPALES
+III. EL GANADO MAYOR Y ESPECIES MENORES QUE VAYAN A SER SACRIFICADOS,
 
-### Capítulo I. Del Patrimonio Municipal
+IV. LAS UNIDADES DE PRODUCCION, TENERIAS, TALABARTERIAS Y DEMAS ESTABLECIMIENTOS EN QUE SE BENEFICIE O SE VENDAN LOS PRODUCTOS Y SUS DERIVADOS,
 
-### Capítulo VII. De los Auxiliares de la Administración Pública Municipal
+V. LAS EXPOSICIONES GANADERAS, SUBASTAS Y OTROS EVENTOS, Y;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2011)</small>
+VI. LOS PUNTOS DE VERIFICACION E INSPECCION DE MOVILIZACION INTERNA Y CUARENTENARIA.
 
-###### Artículo 141.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-La Hacienda Pública Municipal se constituirá por los ingresos que señale la Ley de Hacienda Municipal y la Ley de Ingresos que apruebe el Congreso del Estado. Además, con aquellos ingresos que determinen las Leyes y decretos federales y estatales y los convenios respectivos.
+###### ARTICULO 139.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+PARA SER ACREDITADO POR LA SECRETARIA DE DESARROLLO RURAL, SE REQUIERE EN CADA CASO:
 
-###### Artículo 142.
+I. COMO OFICIAL DE INSPECTORIA PECUARIA:
 
-Las iniciativas de Ley de ingresos municipales deberán presentarse para su aprobación, en su caso, ante el Congreso del Estado, a más tardar el treinta y uno de agosto del año anterior al que correspondan. Estas leyes tendrán vigencia anual y regirán el ejercicio fiscal de que se trate, a partir del uno de enero y hasta el treinta y uno de diciembre del año al que correspondan.
+a) SER CIUDADANO MEXICANO;
 
-###### Artículo 143.
+b) CONTAR CON PREPARACION PROFESIONAL DE MEDICO VETERINARIO ZOOTECNISTA O INGENIERO AGRONOMO ZOOTECNISTA.
 
-La vigilancia de la Hacienda Pública Municipal corresponde al Presidente Municipal, al Síndico, a la Comisión respectiva del Ayuntamiento, y al Contralor, en los términos de esta Ley y demás disposiciones de la materia.
+II. COMO INSPECTOR PECUARIO:
 
-El Congreso del Estado revisará y aprobará en su caso la Cuenta Pública Municipal en los términos de la Constitución Política del Estado y otros ordenamientos.
+a) SER CIUDADANO MEXICANO;
 
-###### Artículo 144.
+b) CONTAR CON PREPARACION PROFESIONAL O ESCOLAR EN EL ORDEN DE PREFERENCIA SIGUIENTE:
 
-El Bando de Gobierno Municipal determinará el ámbito, la organización y el funcionamiento del gobierno municipal y de su administración.
+1. MEDICO VETERINARIO ZOOTECNISTA.
 
-El Bando de Gobierno Municipal deberá ser aprobado por el Ayuntamiento y publicado en el Periódico Oficial del Estado, así como será remitido al Congreso del Estado y al Titular del Poder Ejecutivo del Estado para su conocimiento.
+2. INGENIERO AGRONOMO ZOOTECNISTA.
 
-###### Artículo 145.
+3. BACHILLERATO TECNICO AGROPECUARIO.
 
-Los reglamentos municipales son ordenamientos jurídicos que establecen normas de observancia obligatoria para el propio Ayuntamiento y para los habitantes del municipio, cuyo propósito es ordenar armónicamente la convivencia social en el territorio municipal y buscar el bienestar de la comunidad.
+ADEMAS, CONTAR CON EXPERIENCIA MINIMA DE DOS AÑOS EN ACTIVIDADES PECUARIAS, SER DE PROBADA SOLVENCIA MORAL Y NO HABER SIDO SENTENCIADO POR DELITO DOLOSO.
 
-Los reglamentos municipales serán expedidos por los propios Ayuntamientos quienes los aprobarán ajustándose a la Ley que establezca el Congreso del Estado y deberán ser publicados para su observancia, en el Periódico Oficial del Estado.
+LOS OFICIALES DE INSPECTORIA PECUARIA Y LOS INSPECTORES PECUARIOS, SERAN ACREDITADOS POR LA SECRETARIA DE DESARROLLO RURAL, A PROPUESTA DEL COMITE DE FOMENTO Y PROTECCION PECUARIA, DE LAS ASOCIACIONES GANADERAS, A TRAVES DE SUS RESPECTIVAS UNIONES, PREVIA CAPACITACION Y EXAMEN DE OPOSICION QUE APRUEBEN ANTE LA SECRETARIA DE DESARROLLO RURAL.
 
-###### Artículo 146.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los Reglamentos Municipales tendrán como objeto:
+###### ARTICULO 140.
 
-I. Determinar la normatividad para el adecuado funcionamiento del Ayuntamiento como máxima autoridad del municipio y la correcta administración del patrimonio municipal;
+SON FACULTADES Y OBLIGACIONES, LAS SIGUIENTES:
 
-II. Establecer los ordenamientos para la más óptima división administrativa y territorial del municipio;
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-III. Crear las disposiciones para regular el orden público, la seguridad personal y patrimonial de los habitantes del municipio, la salud pública, la preservación del medio ambiente, la vialidad, el esparcimiento sano, la difusión de la cultura y los demás aspectos fundamentales de la vida comunitaria;
+I. LOS OFICIALES DE INSPECTORIA PECUARIA, LAS SIGUIENTES:
 
-IV. Definir los lineamientos para el más eficiente funcionamiento de las dependencias, entidades y unidades administrativas municipales;
+A).- INSPECCIONAR LOS SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS QUE SE ENCUENTREN EN TRANSITO,
 
-V. Instituir las bases para garantizar, en beneficio de la sociedad, la más adecuada prestación de los servicios públicos municipales que preste el Ayuntamiento o los concesionarios;
+B).- VERIFICAR LA DOCUMENTACION QUE AMPARE LA CORRECTA MOVILIZACION DE LOS SEMOVIENTES PRODUCTOS O SUBPRODUCTOS QUE SE ENCUENTREN EN TRANSITO,
 
-VI. Fomentar la participación ciudadana en la gestión municipal;
+C).- NO PERMITIR QUE LA MOVILIZACION DE SEMOVIENTES BOVINOS, OVINOS Y EQUINOS SE REALICE ENTRE LAS 18:00 Y LAS 6:00 HORAS DEL SIGUIENTE DIA, SIN QUE ESTA MOVILIZACION HAYA SIDO VISADA O SUPERVISADA CON ANTERIORIDAD EN UN PUNTO DE VERIFICACION INTERNA,
 
-VII. Determinar las sanciones que procedan por las infracciones a los reglamentos municipales; y,
+D).- PROHIBIR, IMPEDIR Y DETENER EL TRASLADO DE LOS SEMOVIENTES, PRODUCTOS O SUBPRODUCTOS, CUANDO ESTOS NO CUMPLAN CON LOS REQUISITOS QUE ESTABLECE LA LEY PARA SU MOVILIZACION, DANDO PARTE INMEDIATAMENTE A LAS AUTORIDADES COMPETENTES,
 
-VIII. Los demás que sean procedentes de conformidad con las atribuciones municipales.
+E).- COMUNICAR A QUIEN CORRESPONDA LA DETECCION DE EPIZOOTIAS Y PLAGAS DE LOS ANIMALES,
 
-###### Artículo 147.
+F).- VIGILAR EL EXACTO CUMPLIMIENTO DE LA PRESENTE LEY, COMUNICANDO LAS INFRACCIONES QUE SE COMETAN, E;
 
-Los Ayuntamientos deberán difundir permanentemente el Bando de Gobierno Municipal y los reglamentos municipales para orientar su cumplimiento.
+G).- INTERVENIR COORDINADAMENTE EN DONDE SE CUENTE CON PERSONAL OFICIAL FEDERAL EN LA ELABORACION DE LAS ACTAS CIRCUNSTANCIADAS, MOTIVO DE MOVILIZACIONES IRREGULARES, REMITIENDOLAS A LAS AUTORIDADES DEL RAMO PARA SU CORRESPONDIENTE SANCION AL INFRACTOR.
 
-El Bando de Gobierno Municipal y los reglamentos municipales podrán modificarse de conformidad con los procedimientos que establezca el Ayuntamiento, cumpliendo con las disposiciones contenidas en la presente Ley y con las formalidades que se establezcan en los mismos.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 148.
+II. DE LOS INSPECTORES PECUARIOS:
 
-Los reglamentos municipales podrán comprender, entre otras, las siguientes materias:
+A) SUPERVISAR LOS CENTROS DE SACRIFICIO, RASTROS Y FRIGORIFICOS PARA CONSTATAR QUE CUMPLAN CON LOS REQUISITOS DE SANIDAD, QUE SE ESTABLECEN EN LAS DISPOSICIONES LEGALES APLICABLES;
 
-I. Organización Administrativa;
+B) RESGUARDAR ANIMALES MOSTRENCOS, DEJANDOLOS A DISPOSICION DE LA AUTORIDAD MUNICIPAL Y DANDO AVISO DE ELLO A SUS SUPERIORES;
 
-II. Participación Ciudadana;
+C) COMUNICAR INMEDIATAMENTE A LA SECRETARIA DE DESARROLLO RURAL, LA DETENCION DE EPIZOOTIAS Y PLAGAS DE LOS ANIMALES;
 
-III. Justicia Administrativa;
+D) VIGILAR EL EXACTO CUMPLIMIENTO DE ESTA LEY, COMUNICANDO A LA SECRETARIA DE DESARROLLO RURAL, LAS INFRACCIONES QUE SE COMETAN;
 
-IV. Seguridad Pública;
+E) CONSTATAR QUE LOS ANIMALES A MOVILIZAR, ESTEN SANOS Y LIBRES DE HERIDAS, GUSANERAS Y ECTOPARASITOS AL MOMENTO DE EMITIR LA GUIA DE TRANSITO, EN EL LUGAR DE EMBARQUE;
 
-V. Protección Civil;
+F) AUTORIZAR, BAJO SU ESTRICTA RESPONSABILIDAD Y EN APEGO A LO DISPUESTO EN ESTA LEY, LAS GUIAS DE TRANSITO PARA LA MOVILIZACION ANIMAL.
 
-VI. Tránsito;
+## TITULO SEPTIMO. MOVILIZACION DE GANADO, SUS PRODUCTOS Y SUBPRODUCTOS
 
-VII. Obras Públicas y Desarrollo Urbano;
+### CAPITULO I. MOVILIZACION INTERNA
 
-VIII. Ecología;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-IX. Salud;
+###### ARTICULO 141.
 
-X. Deporte y Juventud;
+TODA MOVILIZACION DE SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS, DEBERA AMPARARSE CON GUIAS DE TRANSITO, QUE EL PROPIETARIO DEBERA OBTENER DE LA ASOCIACION GANADERA, A LA QUE PERTENEZCA, Y QUE CONTENDRA LOS DATOS QUE DETERMINE EL ESTADO, A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL, CON BASE EN LOS REQUISITOS QUE SE ESTABLEZCAN EN ESTE CAPITULO.
 
-XI. Asistencia Social;
+BAJO NINGUN CONCEPTO, SE PERMITIRA LA MOVILIZACION DE SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS PECUARIOS, QUE TRANSITEN SIN DOCUMENTACION OFICIAL, EXPEDIDA POR LA ASOCIACION GANADERA, A LA QUE SE ENCUENTRE AFILIADO EL PRODUCTOR.
 
-XII. Cultura;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-XIII. Turismo;
+###### ARTICULO 142.
 
-XIV. Limpia, Recolección, Traslado, Tratamiento y Disposición Final de Residuos;
+EL ESTADO A TRAVES DE LA SECRETARIA DE DESARROLLO RURAL TENDRA LA FACULTAD EXCLUSIVA PARA LA EXPEDICION Y CONTROL DE LAS GUIAS DE TRANSITO; LAS CUALES PODRA DELEGAR SU MANEJO EN LAS UNIONES GANADERAS O AUTORIDADES MUNICIPALES, SIN PERJUICIO DE PODER REVOCAR LAS MISMAS EN CUALQUIER TIEMPO POR CAUSA JUSTIFICADA.
 
-XV. Mercados y Centrales de Abasto;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-XVI. Comercio en la Vía Pública;
+###### ARTICULO 143.
 
-XVII. Estacionamientos Públicos;
+PARA LO PREVISTO EN EL ARTICULO ANTERIOR, LAS ASOCIACIONES GANADERAS, A TRAVES DE LAS UNIONES GANADERAS O AUTORIDADES MUNICIPALES, RECIBIRAN DE LA SECRETARIA DE DESARROLLO RURAL, PREVIO PAGO DEL COSTO DE LA IMPRESION, LAS GUIAS DE TRANSITO, DE ACUERDO CON EL FORMATO ESTABLECIDO POR LA MISMA, LAS QUE DEBERAN CONTAR CON EL FOLIO RESPECTIVO, DEBIENDO INFORMAR MENSUALMENTE DEL MANEJO DE ELLAS, REMITIENDO LAS COPIAS AL CARBON, A LA SUBSECRETARIA DE GANADERIA, DE LA SECRETARIA DE DESARROLLO RURAL, PARA SU DEBIDO CONTROL.
 
-XVIII. Cementerios y Panteones;
+###### ARTICULO 144.
 
-XIX. Espectáculos;
+LAS FACTURAS Y LAS GUIAS DE TRANSITO DE GANADO, ESTARAN NUMERADAS PROGRESIVAMENTE Y LAS EXTENDERAN EN CASO DE SER FACULTADAS, LAS ASOCIACIONES GANADERAS RESPECTIVAS QUE LAS SOLICITEN; ES OBLIGACION DE ESTAS, INFORMAR MENSUALMENTE A LA UNION GANADERA REGIONAL QUE CORRESPONDA, DEL USO Y DESTINO DE LAS GUIAS, ENVIANDO LAS COPIAS QUE SEAN NECESARIAS.
 
-XX. Horarios Comerciales;
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-XXI. Rastros y Expendios de Carne;
+###### ARTICULO 145.
 
-XXII. Anuncios, Espectáculos y Diversiones Públicos; y, (sic)
+LAS ASOCIACIONES GANADERAS, AL EXPEDIR LAS GUIAS DE TRANSITO, DEBERAN REQUERIR LA PRESENCIA OBLIGADA DEL INSPECTOR PECUARIO EN EL LUGAR DE EMBARQUE, PARA LA INSPECCION DEL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE AGOSTO DE 2007)</small>
+###### ARTICULO 146.
 
-XXIII. de (sic) acceso a la información pública; y,
+LAS ORGANIZACIONES GANADERAS SE OBLIGAN AL CUMPLIMIENTO DE LO ESTABLECIDO EN LOS PRECEPTOS ANTERIORES.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-XXIV. Los demás que requieran los ayuntamientos, para el cumplimiento de sus atribuciones.
+###### ARTICULO 147.
 
-###### Artículo 149.
+PARA QUE LAS ASOCIACIONES GANADERAS PUEDAN EXPEDIR LAS GUIAS DE TRANSITO, LOS INTERESADOS DEBERAN CUMPLIR CON LOS SIGUIENTES REQUISITOS:
 
-Los Ayuntamientos tendrán la facultad de expedir el Bando de Gobierno Municipal, los reglamentos, acuerdos, circulares y demás disposiciones administrativas de observancia general en su circunscripción territorial, cuya aplicación redunde en beneficio de la comunidad y de la administración municipal.
+A) SOLICITAR CON LA DEBIDA ANTICIPACION EL SERVICIO AL INSPECTOR DE LA ZONA QUE CORRESPONDA.
 
-###### Artículo 150.
+B) ACATAR LAS ORDENES E INSTRUCCIONES QUE SEAN DICTADAS POR EL INSPECTOR, CON BASE EN LO QUE DISPONE ESTA LEY.
 
-Los ayuntamientos podrán crear los órganos necesarios, para dirimir las controversias administrativas que se susciten entre la administración pública municipal y los gobernados, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+C) PRESENTAR LOS ANIMALES EN LOS LUGARES ADECUADOS PARA LA INSPECCION.
 
-La integración, funcionamiento y atribuciones de los organismos de justicia, se determinarán en el reglamento que expida, según el caso, cada Ayuntamiento.
+D) PROPORCIONAR AL INSPECTOR EL AUXILIO QUE REQUIERA PARA EL DESAHOGO EFECTIVO DE LA INSPECCION.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+E) COMPROBAR LA LEGAL PROCEDENCIA DEL GANADO.
 
-###### Articulo 151.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-Los actos y resoluciones dictadas por el Ayuntamiento, por el Presidente Municipal y por las dependencias y entidades de la Administración Pública Municipal, podrán ser impugnadas mediante el recurso de revisión, cuando afecten intereses jurídicos de los particulares.
+F) CUBRIR LOS COSTOS DE LA GUIA.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 148.
 
-###### Artículo 152.
+LAS GUIAS DE TRANSITO SE EXPEDIRAN CON DESTINO DETERMINADO.
 
-El recurso de revisión a que hace referencia el artículo anterior deberá interponerse ante el propio Ayuntamiento.
+ES OBLIGATORIO QUE EN LAS GUIAS SE DESCRIBAN EL FIERRO DEL CRIADOR; Y EN SU CASO EL DE QUIEN SE OSTENTE COMO LEGAL PROPIETARIO O POSEEDOR.
 
-En este caso el Secretario del Ayuntamiento, fungirá como instructor del procedimiento del recurso de revisión, integrando el expediente.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 149.
 
-###### Artículo 153.
+TODA GUIA DE TRANSITO DEBE CONTENER LOS SIGUIENTES DATOS:
 
-Tratándose de actos y resoluciones que emitan el Presidente Municipal y las dependencias y entidades de la Administración Pública Municipal, el recurso de revisión se interpondrá ante el Tribunal de Justicia Administrativa Municipal.
+I. NOMBRE DEL PROPIETARIO Y LUGAR DE PROCEDENCIA,
 
-### Capítulo II. De las Responsabilidades
+II. NUMERO DE FOLIO,
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+III. NOMBRE DEL DESTINATARIO Y LUGAR DEL DESTINO,
 
-###### Artículo 154.
+IV. NUMERO DE ANIMALES, ESPECIE, CLASE, SEXO, MARCAS, FIERRO, TATUAJES, ADMINICULO SUBCUTANEO, ARETES Y NUMERO DE REGISTRO,
 
-Todos los funcionarios y autoridades municipales que señala esta Ley y Bandos de Gobierno, son responsables de los actos que realicen en contravención a sus preceptos. Los miembros del Ayuntamiento, contralores y los tesoreros municipales, serán responsables solidarios e ilimitadamente, por el incumplimiento de sus funciones de las irregularidades en el manejo de los fondos municipales. Se concede Acción Popular para denunciar alguna irregularidad a este respecto.
+V. CUANDO SE TRATE DE PRODUCTOS Y SUBPRODUCTOS, LA CANTIDAD Y LOS DATOS QUE LOS IDENTIFIQUEN,
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+VI. DEBERA ASENTARSE EL HORARIO DEL TRASLADO,
 
-###### Artículo 155.
+VII. PROPOSITO DE LA MOVILIZACION,
 
-La ausencia del Síndico o de los Regidores, será acordada en Sesión de Cabildo de conformidad con lo siguiente:
+VIII. EL VISADO DE LA ORGANIZACION PECUARIA O AUTORIDAD EXPEDITORA,
 
-I. Se considerará ausencia temporal, cuando alguno de los miembros del Ayuntamiento dejare de desempeñar su cargo por treinta días, sin causa justificada.
+IX. MARCAS O SEÑAS RECIENTES OCASIONADAS POR RAYONES DE ALAMBRE DE PUAS,
 
-Cuando sea por causas de fuerza mayor y el ausente hubiere estado imposibilitado para dar cuenta de los motivos que la provocaron, la ausencia podrá extenderse hasta noventa días, siempre que sean valorados por el Ayuntamiento; caso contrario, se considerará ausencia definitiva.
+X. FECHA DE EXPEDICION,
 
-II. Se considera ausencia definitiva, si a partir de que se acordó la ausencia temporal transcurren sesenta días, debiéndose llamar de inmediato al suplente, quien sólo podrá excusarse por causa justificada que califique el propio Ayuntamiento.
+XI. DATOS DEL TRANSPORTE DE LOS ANIMALES, NUMERO DE PLACAS, TIPO DE VEHICULO Y NOMBRE E IDENTIFICACION DEL CONDUCTOR,
 
-El Ayuntamiento deberá notificar toda ausencia en el domicilio particular del ausente dentro de las setenta y dos horas siguientes a que fue acordada.
+XII. SU VIGENCIA SERA DE OCHO DIAS CONTADOS A PARTIR DE LA FECHA DE EXPEDICION,
 
-Durante el tiempo que no se ejerza el cargo, el Ayuntamiento valorará y determinará lo relativo a las percepciones económicas del ausente.
+XIII. LAS DEMAS QUE SE ESTABLEZCAN EN EL REGLAMENTO DE ESTA LEY.
 
-Cuando no sea posible que el suplente entre en funciones, el Ayuntamiento dará vista al Congreso para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 156.
+###### ARTICULO 150.
 
-Cuando los actos del secretario, tesorero y contralor contravengan el interés municipal, serán revisados por el Presidente Municipal y turnados en su caso al Ayuntamiento para que resuelva en definitiva.
+TODA EXPEDICION DE FACTURAS CON EL OBJETO DE ENAJENAR SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS, DEBERA CONTENER LOS SIGUIENTES DATOS:
 
-###### Artículo 157.
+I. NUMERO DE FOLIO,
 
-Los miembros de los Ayuntamientos que falten a las sesiones sin causa justificada, serán sancionados con multa por el equivalente a dos días de su salario.
+II. NOMBRE DEL PRODUCTOR,
 
-Las faltas u omisiones de los jefes de tenencia, serán sancionadas con multa hasta de un día de salario y con el doble en caso de reincidencia, sin perjuicio de consignarlos a la autoridad competente si procediere o decretar la destitución.
+III. LUGAR DE ORIGEN,
 
-Las faltas u omisiones de los encargados del orden, jefes de manzana y sus auxiliares, serán castigadas por el Ayuntamiento con multa de un día de salario los que reciban compensación o con apercibimiento, amonestaciones o destitución.
+IV. NOMBRE DEL DESTINATARIO Y LUGAR DE DESTINO,
 
-###### Artículo 158.
+V. FECHA DE LA OPERACION,
 
-De los delitos del orden común cometidos por los miembros del Ayuntamiento, conocerán los tribunales comunes y, de las faltas y delitos oficiales el Congreso del Estado, de conformidad con las disposiciones aplicables.
+VI. REGISTRO FEDERAL DE CONTRIBUYENTES, CLAVE UNICA DE REGISTRO DE POBLACION (CURP) Y NUMERO DE FOLIOS DE FACTURAS, MISMOS QUE DEBERAN INSERTARSE EN LA PARTE SUPERIOR DEL MARGEN DERECHO DE LA FACTURA,
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2012)</small>
+VII. LA DESCRIPCION DEL FIERRO O DEMAS FORMAS DE IDENTIFICACION DEBERA ESTAR AL MARGEN IZQUIERDO Y DEBIDAMENTE PROTEGIDO CON MATERIAL ADHESIVO TRANSPARENTE,
 
-###### Artículo 159.
+VIII. DESCRIPCION DE LA CANTIDAD DE SEMOVIENTES, SU PARTICULARIDAD O RESEÑA ZOOTECNICA, PRECIO UNITARIO Y EL IMPORTE TOTAL TANTO DE FORMA NUMERICA COMO EN LETRA SIN TACHADURAS O ENMENDADURAS, Y;
 
-Cuando un integrante del Ayuntamiento sea procesado como responsable de un delito, quedará suspendido en el ejercicio de sus funciones, a partir del auto de vinculación a proceso, llamándose al suplente; si no concurriere, o no lo hubiere, se dará cuenta al Congreso del Estado, para que provisionalmente designe a quien deba sucederlo.
+IX. SELLO DE LA ASOCIACION GANADERA O PRESIDENCIA MUNICIPAL CORRESPONDIENTE.
 
-Si la sentencia es absolutoria o se sobresee la causa, se le reinstalará, corriendo el trámite que corresponda.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-### Capítulo III. De las Sanciones
+###### ARTICULO 151.
 
-###### Artículo 160.
+LA GUIA DE TRANSITO DEBERA SER AUTORIZADA POR EL INSPECTOR PECUARIO, DE ACUERDO A LAS DISPOSICIONES EMITIDAS EN ESTA LEY.
 
-Las sanciones y los procedimientos que deban aplicarse por infracciones a las normas contenidas en los reglamentos, acuerdos, bandos, circulares, ordenanzas y demás disposiciones administrativas de observancia general de los Ayuntamientos se establecerán en estos instrumentos, considerado la gravedad de la infracción y las circunstancias particulares o en su caso la reincidencia, sin perjuicio de la responsabilidad que resulte por la aplicación de otras disposiciones.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-###### Artículo 161.
+###### ARTICULO 152.
 
-Los Ayuntamientos, para asegurar el cumplimiento de las leyes y evitar los daños inminentes o los ya perjudiciales, podrán adoptar y ejecutar de inmediato contra los responsables, las medidas de seguridad necesarias de conformidad con las disposiciones aplicables.
+LAS GUIAS DE TRANSITO SE EXPEDIRAN POR QUINTUPLICADO, EL CONDUCTOR DE UNA PARTIDA DEBERA LLEVAR CONSIGO EL ORIGINAL Y DUPLICADO PARA PRESENTARLO AL INSPECTOR PECUARIO DE LA ZONA DE ORIGEN, QUIEN LO VISARA PREVIA REVISION DE LOS SEMOVIENTES Y COMPROBACION DE QUE FUERON CUBIERTAS LAS CONTRIBUCIONES RESPECTIVAS.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 153.
 
-### Capítulo IV. Procedimiento del Recurso de Revisión
+EL GANADERO PROPIETARIO O POSEEDOR DE DOS O MAS PREDIOS QUE COLINDEN ENTRE SI, PODRA MOVILIZAR DE UNO A OTRO SU GANADO, SIN ESTAR OBLIGADO A RECABAR LA GUIA DE TRANSITO, SIEMPRE QUE LA MOVILIZACION NO TENGA POR OBJETO ENAJENARLO.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 162.
+###### ARTICULO 154.
 
-El recurso de revisión, se tramitará conforme a lo establecido en esta Ley y en lo no previsto, se aplicará supletoriamente el Código de Justicia Administrativa.
+LOS PRODUCTORES DE LECHE EN EL ESTADO, PARA LA COMERCIALIZACION DE SU PRODUCTO, DEBERAN COMPROBAR, MEDIANTE LA CONSTANCIA QUE EXPIDA LA SECRETARIA DE DESARROLLO RURAL, QUE PARTICIPAN PERMANENTEMENTE EN LOS PROGRAMAS DE SANIDAD ANIMAL, ESTABLECIDOS EN EL ESTADO.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 155.
 
-###### Artículo 163.
+LOS INDUSTRIALES TRANSFORMADORES DE LA MATERIA PRIMA A LA QUE SE REFIERE EL ARTICULO ANTERIOR, DEBERAN ACREDITAR QUE CUENTAN CON LA TECNOLOGIA QUE GARANTICE AL CONSUMIDOR LA CALIDAD DE SU PRODUCTO, MEDIANTE CONSTANCIAS Y CERTIFICACIONES QUE LES EXPIDAN LAS INSTANCIAS DE SALUD PUBLICA Y DEMAS AUTORIDADES COMPETENTES EN EL RAMO INDUSTRIAL DE ALIMENTOS.
 
-El recurso de revisión, se interpondrá por escrito, dentro del término de diez días hábiles, contados a partir de la fecha en que el acto haya ocurrido o se tenga conocimiento del mismo, o bien, haya surtido efectos la notificación de la resolución que se impugna.
+EL COMERCIALIZADOR DE LECHE Y SUS DERIVADOS, DEBERA SOLICITAR DEL PRODUCTOR O INDUSTRIAL, SEGUN SEA EL CASO, LAS AUTORIZACIONES PARA EXPENDER Y/O INDUSTRIALIZAR PRODUCTOS LACTEOS.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 156.
 
-###### Artículo 164.
+PARA EL CONTROL SANITARIO Y MOVILIZACION DE LAS AVES, SUS PRODUCTOS Y SUBPRODUCTOS, ESTAS DEBERAN AMPARARSE CON LAS GUIAS DE TRANSITO, CERTIFICADO ZOOSANITARIO Y LAS QUE MARQUE LA NORMA OFICIAL MEXICANA EN MATERIA DE SANIDAD.
 
-El escrito a través del cual se interponga el recurso de revisión, contendrá los siguientes requisitos:
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-I. El nombre, denominación o razón social y domicilio del inconforme y en su caso, de quien promueve en su nombre;
+###### ARTICULO 157.
 
-II. La autoridad o autoridades que dictaron el acto impugnado;
+PARA EL CONTROL SANITARIO Y MOVILIZACION INTERNA DE OVINOS Y CAPRINOS, SUS PRODUCTOS Y SUBPRODUCTOS, DEBERA AMPARARSE CON: FACTURAS, GUIAS DE TRANSITO, CERTIFICADO ZOOSANITARIO Y DEMAS REQUISITOS QUE ESTIPULEN LAS NORMAS OFICIALES MEXICANAS EN MATERIA ZOOSANITARAS ASI COMO A LAS DISPOSICIONES ESTATALES.
 
-III. La manifestación del particular, bajo protesta de decir verdad, de la fecha en que tuvo conocimiento de la resolución que impugna;
+###### ARTICULO 158.
 
-IV. La descripción clara y sucinta de los hechos o razones que den motivo al recurso;
+PARA EL CONTROL SANITARIO Y MOVILIZACION INTERNA DE PORCINOS, SUS PRODUCTOS Y SUBPRODUCTOS, SE OBSERVARA LO DISPUESTO EN EL ARTICULO ANTERIOR.
 
-V. Los conceptos de violación o en su caso, las objeciones a la resolución o acto que se reclama;
+###### ARTICULO 159.
 
-VI. Las pruebas que en su caso ofrezca, señalando aquellas que obren en el expediente administrativo;
+PARA EL CONTROL SANITARIO Y MOVILIZACION DE LOS BOVINOS SUS PRODUCTOS Y SUBPRODUCTOS, DEBERAN DE AMPARARSE CON FACTURAS, GUIAS DE TRANSITO, CERTIFICADO ZOOSANITARIO, ASI COMO OTRAS DISPOSICIONES QUE MARQUEN LAS NORMAS OFICIALES MEXICANAS EN BENEFICIO DE LAS CAMPAÑAS ZOOSANITARIAS.
 
-VII. El lugar y fecha de la presentación del recurso de revisión;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-VIII. El domicilio para oír notificaciones, el cual deberá ser dentro de la ciudad de residencia de la autoridad administrativa competente para resolver el recurso o en su caso, la dirección de correo electrónico para recibir notificaciones; y,
+###### ARTICULO 160.
 
-IX. Cuando no se gestione en nombre propio, el carácter con el que ocurre.
+PARA LA MOVILIZACION DE GANADO EQUINO, SUS PRODUCTOS, SUBPRODUCTOS, DEBERA AMPARARSE CON FACTURA, GUIA DE TRANSITO Y CERTIFICADO ZOOSANITARIO Y LAS DISPOSICIONES QUE ESTABLEZCA EL ESTADO EN MATERIA ZOOSANITARIA.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+###### ARTICULO 161.
 
-###### Artículo 165.
+PARA EL CONTROL SANITARIO Y MOVILIZACION DE GANADO EQUINO DESTINADO AL DEPORTE DE CHARRERIA Y CARRERAS, DEBERA AMPARARSE CON GUIA DE TRANSITO, CERTIFICADO ZOOSANITARIO Y OTROS QUE MARQUEN LAS NORMAS VIGENTES EN BENEFICIO DE ESTA ACTIVIDAD.
 
-Recibido el escrito de revisión, se abrirá un término de prueba de diez días hábiles, a efecto de que se desahoguen aquellas que se hayan admitido y ofrecido.
+###### ARTICULO 162.
 
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
+QUIEN OBTENGA PERMISO DE INTRODUCCION O DE SALIDA DE GANADO DEL ESTADO, Y NO CUMPLA CON LAS CONDICIONES ESTABLECIDAS EN EL MISMO, NO PODRA OBTENER NUEVO PERMISO DURANTE UN LAPSO DE TRES AÑOS, SIN PERJUICIO DE LAS SANCIONES QUE LE SEAN APLICABLES CONFORME A ESTA LEY Y DEMAS ORDENAMIENTOS LEGALES.
 
-###### Artículo 166.
+EN LA MOVILIZACION INTERNA MUNICIPAL DE GANADO PARA REPASTO O REPRODUCCION, BASTARA CONTAR CON GUIAS DE TRANSITO EXPEDIDA PARA TAL FIN, POR LA ASOCIACION GANADERA CORRESPONDIENTE O LA AUTORIDAD MUNICIPAL.
 
-Concluido el período de pruebas, la autoridad, dentro del término de cinco días hábiles dictará resolución.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-La notificación personal se hará directamente al recurrente, si acude a las oficinas de la autoridad, o en el domicilio señalado para tal efecto, o bien, por correo certificado con acuse de recibo; las demás notificaciones se harán por estrados.
+###### ARTICULO 163.
 
-###### Artículo 167.
+TODA PERSONA QUE APORTE DATOS FALSOS EN LAS GUIAS DE TRANSITO O EN CUALQUIERA DE LOS DOCUMENTOS QUE SE REQUIEREN, PARA LA MOVILIZACION DE LOS SEMOVIENTES, SE PROCEDERA A DAR PARTE AL AGENTE DEL MINISTERIO PUBLICO DEL FUERO COMUN, PARA ENCAUSAR LA INTEGRACION DE LA AVERIGUACION PREVIA, POR EL DELITO DE FALSEDAD EN DECLARACIONES Y LOS QUE RESULTEN.
 
-Podrá suspenderse la ejecución del acto reclamado, cuando no se afecte el interés público y se garanticen suficientemente, mediante fianza o depósito fijado por la autoridad, los posibles daños o perjuicios que pudieran causarse al confirmarse la resolución impugnada.
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+###### ARTICULO 164.
 
-###### Artículo 168.
+EN TODA MOVILIZACION DE GANADO, DE SUS PRODUCTOS Y SUBPRODUCTOS, LOS CONDUCTORES TIENEN LA OBLIGACION DE IDENTIFICARSE Y EXHIBIR LA DOCUMENTACION QUE AMPARE LO QUE TRANSPORTA, BAJO LA RESPONSABILIDAD DE CUBRIR LOS REQUISITOS EXIGIDOS POR ESTA LEY, EN CASO CONTRARIO, SE HARAN ACREEDORES DE LAS SANCIONES ADMINISTRATIVAS O PENALES, SEGUN SE DE EL CASO.
 
-Cada Ayuntamiento formará un Consejo Municipal de la Crónica, como un órgano consultivo y de colaboración de la Administración Pública Municipal, integrado de forma colegiada, con el objeto de conservar, promover, investigar y difundir el acervo histórico y cultural del municipio, así como integrar y mantener actualizado el registro de los acontecimientos relevantes en todos los órdenes de la vida del mismo.
+###### ARTICULO 165.
 
-Los miembros del Consejo Municipal de la Crónica elaborarán y mantendrán actualizada la monografía de su municipio; recopilarán las tradiciones y leyendas, los usos y costumbres del mismo, y colaborarán en el registro de monumentos arqueológicos, artísticos e históricos de su municipio.
+SI POR CAUSA DE FUERZA MAYOR O CASO FORTUITO, EL GANADO, PRODUCTOS Y SUBPRODUCTOS NO LLEGAN AL LUGAR DE SU DESTINO, EL PROPIETARIO O CONDUCTOR DEBERA PRESENTARSE ANTE EL INSPECTOR DE LA ZONA DONDE SE ENCUENTREN ESTOS, QUIEN PREVIO CUMPLIMIENTO DE LOS REQUISITOS LEGALES PODRA CANCELAR LAS GUIAS, EXPRESANDO LAS RAZONES QUE LO JUSTIFIQUEN.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+###### ARTICULO 166.
 
-###### Artículo 169.
+TODA PERSONA, QUE POR CUALQUIER TITULO TRANSMITA LA PROPIEDAD DEL GANADO, ESTA OBLIGADA A ENTREGAR LA CORRESPONDIENTE GUIA DE TRANSITO, DEBIDAMENTE LEGALIZADA Y QUE AMPARE LA MOVILIZACION DEL MISMO, ASI COMO LA FACTURA CORRESPONDIENTE. SI NO SE CUMPLE CON ESTOS REQUISITOS, EL TERCERO QUE MANIFIESTE HABER ADQUIRIDO LA PROPIEDAD DEL GANADO, NO PODRA PARA LOS EFECTOS DE ESTA LEY, SER TENIDO COMO ADQUIRIENTE; Y, EN CONSECUENCIA, NO PODRA MOVILIZAR EL GANADO DE QUE SE TRATE, NI OBTENER GUIAS DE TRANSITO PARA SUBSECUENTES MOVILIZACIONES DEL MISMO.
 
-El Consejo Municipal de la Crónica estará integrado por al menos tres miembros, de conformidad con el reglamento que expida el Ayuntamiento para tal efecto, de los cuales uno fungirá como Presidente del Consejo.
+###### ARTICULO 167.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+EN LOS CASOS DE MOVILIZACION DE GANADO DESTINADO AL SACRIFICIO, EL ORIGINAL DE LA GUIA SE ENTREGARA AL ADMINISTRADOR DEL RASTRO O MATADERO O AL INSPECTOR DESIGNADO.
 
-### Capítulo VIII. De las Unidades Municipales de Desarrollo Integral de la Familia
+EN CASO DE EXISTIR IRREGULARIDADES EN LA MOVILIZACION, SE CANCELARA LA GUIA, DETENIENDOSE EL GANADO Y DANDO AVISO DE INMEDIATO A LA AUTORIDAD COMPETENTE PARA LOS FINES LEGALES PROCEDENTES.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MAYO DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-###### Artículo 170.
+###### ARTICULO 168.
 
-El nombramiento del Cronista miembro del Consejo Municipal de la Crónica lo hará el Ayuntamiento, a propuesta del Presidente Municipal, quien previamente escuchará el parecer de las asociaciones e instituciones educativas, culturales y sociales de mayor relevancia en el municipio, del titular de la Comisión de Educación Pública, Cultura y Turismo del Ayuntamiento.
+QUEDA ESTRICTAMENTE PROHIBIDO, A LOS OFICIALES DE INSPECTORIA PECUARIA E INSPECTORES PECUARIOS, EXPEDIR Y CANCELAR GUIAS PARA MOVILIZAR GANADO A SU FAVOR, LA VIOLACION DE ESTE PRECEPTO, TRAERA COMO CONSECUENCIA, LA APLICACION DE LA MAXIMA SANCION ESTABLECIDA EN ESTA LEY; ASIMISMO, ESTARAN SUJETOS A INVESTIGACION ANTE EL AGENTE DEL MINISTERIO PUBLICO DEL FUERO COMUN, POR LOS DELITOS QUE PUDIERAN RESULTAR DE LAS ACCIONES U OMISIONES EN EL DESEMPEÑO DE SUS FUNCIONES.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+DERIVADO DE LAS CONDUCTAS ANTES SEÑALADAS, SE PROCEDERA A LA CANCELACION DE LA ACREDITACION OTORGADA POR LA SECRETARIA DE DESARROLLO RURAL, Y SE PROCEDERA A SANCIONAR ADMINISTRATIVAMENTE A LA ASOCIACION GANADERA QUE INCURRA EN REINCIDENCIA, POR SU PERSONAL ADSCRITO.
 
-###### Artículo 171.
+###### ARTICULO 169.
 
-Para ser Cronista miembro del Consejo se requiere:
+TODO GANADO DEBE MOVILIZARSE EN UNIDADES DE TRANSPORTE QUE PERMITA VERLO LIBREMENTE, EN CASO CONTRARIO SE DESEMBARCARA PARA SU INSPECCION.
 
-I. Ser originario del municipio, o con al menos 10 años de residencia, y tener su domicilio permanente en él;
+### CAPITULO II. MOVILIZACION EXTERNA
 
-II. Ser de reconocida solvencia moral y de amplia aceptación social; y,
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-III. Acreditar un amplio conocimiento sobre los acontecimientos contemporáneos y trascendentales del municipio, así como la relevancia de actividades económicas y la relación de los efectos y acciones estatales y nacionales en el municipio.
+###### ARTICULO 170.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+TODA INTRODUCCION O SALIDA DEL ESTADO, DE GANADO, SUS PRODUCTOS O SUBPRODUCTOS, YA SEA EN TRANSITO TEMPORAL O DEFINITIVO, DEBERA AMPARARSE CON EL PERMISO CORRESPONDIENTE QUE OTORGARA LA SECRETARIA DE DESARROLLO RURAL, LA CUAL PODRA DELEGAR SU EXPEDICION AL COMITE DE FOMENTO Y PROTECCION PECUARIA O A LA ASOCIACION GANADERA QUE CORRESPONDA, EN FORMA GRATUITA, LA QUE DEBERA COMPROBAR PREVIAMENTE LO SIGUIENTE:
 
-###### Artículo 172.
+A. LA CORRECTA SANIDAD DE LOS SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS;
 
-Se pierde la calidad de Cronista miembro del Consejo Municipal de la Crónica:
+B. QUE CUENTEN CON LA DOCUMENTACION ZOOSANITARIA CORRESPONDIENTE;
 
-I. Por causa de enfermedad grave que imposibilite de manera permanente el cumplimiento de sus obligaciones;
+C. QUE LOS SEMOVIENTES HAYAN SIDO BAÑADOS PREVIAMENTE, CONTRA GARRAPATAS Y ESTE LIBRE DE ECTOPARASITOS;
 
-II. Por incumplimiento constante de sus obligaciones como Cronista durante seis meses, o por ausencias injustificadas durante el mismo periodo;
+D. EN GENERAL, CUMPLIR CON TODOS LOS REQUISITOS SEÑALADOS EN EL CAPITULO RELATIVO A LA MOVILIZACION Y A LAS DISPOSICIONES QUE EMITA EL EJECUTIVO DEL ESTADO.
 
-III. Por ausencia del municipio, de manera que le impida ser testigo directo de la vida del mismo;
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-IV. Por renuncia en casos de extrema gravedad, aceptada por el Ayuntamiento;
+###### ARTICULO 171.
 
-V. Por faltas graves a la moral pública; y,
+LA SALIDA DEL ESTADO DE GRANOS, PASTOS O CONCENTRADOS DE SEMILLAS OLEAGINOSAS, FORRAJES, PRODUCTOS Y SUBPRODUCTOS, QUE SE UTILICEN COMO INSUMOS EN LA GANADERIA, SOLO PODRAN EFECTUARSE PREVIO PERMISO QUE OTORGUE LA SECRETARIA DE DESARROLLO RURAL A SOLICITUD DE LA ORGANIZACION PECUARIA.
 
-VI. Por escándalo grave relacionado con la honradez intelectual.
+###### ARTICULO 172.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+LA INTRODUCCION DE PRODUCTOS Y SUBPRODUCTOS PECUARIOS AL ESTADO, QUEDARA SUJETO AL PAGO DE LAS CONTRIBUCIONES QUE SE ESTABLEZCAN EN LA LEY DE HACIENDA DEL ESTADO.
 
-###### Artículo 173.
+###### ARTICULO 173.
 
-El nombramiento de Cronista miembro del Consejo Municipal de la Crónica será honorario por tiempo indeterminado, salvo que incurra en las causales previstas en esta ley.
+PARA LA EXPEDICION DE PERMISOS, DEBERA TOMARSE EN CONSIDERACION SI EXISTEN NECESIDADES GENERALES DE LA POBLACION O DE LA GANADERIA QUE DEBAN SATISFACERSE Y ATENDER PRIORITARIAMENTE CUANDO SE DETERMINE QUE EXISTEN TALES NECESIDADES SE NEGARAN O CONDICIONARAN LOS PERMISOS DE SALIDA EN TANTO QUEDAN DEBIDAMENTE ATENDIDAS ESTAS.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
+###### ARTICULO 174.
 
-###### Artículo 174.
+EN EL PERMISO QUE SE OTORGUE, SE FIJARAN LAS CONDICIONES QUE SE DEBAN CUMPLIR CONFORME A ESTA LEY, EN LA MOVILIZACION, ASI COMO LA RUTA QUE PARA LA MISMA DEBA SEGUIRSE.
 
-El Consejo Municipal de la Crónica tendrá las siguientes atribuciones:
+###### ARTICULO 175.
 
-I. Llevar el registro de los sucesos notables del municipio;
-
-II. Investigar, conservar, exponer y proponer las manifestaciones de la cultura local;
-
-III. Proponer el rescate documental de la historia del municipio;
-
-IV. Publicar y difundir trabajos e investigaciones de carácter histórico, artístico o cultural de interés para el municipio;
-
-V. Ser órgano de consulta del Ayuntamiento para todo lo relacionado con la cultura, el turismo y el patrimonio cultural del municipio;
-
-VI. Establecer coordinación con sus similares en reuniones estatales y nacionales;
-
-VII. Investigar y promover el conocimiento de la historia municipal y contribuir de manera decisiva en la formación de la conciencia histórica de los habitantes del municipio, particularmente de los niños y de los jóvenes;
-
-VIII. Participar conjuntamente con las Comisiones Municipales correspondientes, en la promoción de las actividades culturales, turísticas y ecológicas en el municipio; y,
-
-IX. Las demás que le señale su reglamento, de esta Ley y otras disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
-
-###### Artículo 175.
-
-Los ayuntamientos proporcionarán, con base en su Presupuesto de Egresos, los recursos necesarios al Consejo Municipal de la Crónica para el cumplimiento de su objeto y atribuciones.
-
-ARTÍCULOS TRANSITORIOS:
+LOS PERMISOS QUE SE OTORGUEN SERAN NOMINATIVOS E INTRANSFERIBLES; TENDRAN VIGENCIA DE OCHO DIAS CONTADOS A PARTIR DE LA FECHA DE SU EXPEDICION Y DEBERAN SER DEVUELTOS A LA AUTORIDAD COMPETENTE EN CASO DE PERDER VIGENCIA O NO SER UTILIZADOS.
 
 ###### ARTICULO 176.
 
@@ -2647,13 +1667,15 @@ EL GANADO, SUS PRODUCTOS Y SUBPRODUCTOS, QUE SE INTRODUZCAN O SE PRETENDAN SACAR
 
 LA PROPIEDAD PUEDE SER ORIGINARIA O DERIVADA; LA ORIGINARIA ES LA QUE CORRESPONDE AL CRIADOR; Y LA DERIVADA LA QUE ADQUIERE POR COMPRAVENTA, DONACION, PERMUTA, HERENCIA O CUALQUIER OTRO DE LOS MEDIOS LEGALES DE TRANSFERENCIA.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 179.
 
-LA PROPIEDAD ORIGINARIA DEL GANADO SE ACREDITA DE LA SIGUIENTE FORMA:
+LA PROPIEDAD ORIGINARIA DEL SEMOVIENTE SE ACREDITA DE LA SIGUIENTE FORMA:
 
-A) CON LA MARCA DE HERRAR, ARETE O TATUAJE PARA BOVINOS, EQUINOS Y ASNALES; CON LA SEÑA DE SANGRE O TATUAJE EN LAS OREJAS PARA LOS BOVINOS MENORES DE UN AÑO.
+I. CON LA MARCA DE HERRAR, ARETE, TATUAJE O ADMINICULO SUBCUTANEO PARA BOVINOS, EQUINOS Y ASNALES; CON LA SEÑA DE SANGRE O TATUAJE EN LAS OREJAS PARA LOS BOVINOS MENORES DE UN AÑO, Y;
 
-B) CON LA SEÑAL DE SANGRE O TATUAJE PARA EL GANADO MENOR DE CUALQUIER EDAD.
+II. CON LA SEÑAL DE SANGRE O TATUAJE, MUESCA O ARETE, PARA LAS ESPECIES MENORES DE CUALQUIER EDAD.
 
 ###### ARTICULO 180.
 
@@ -2685,11 +1707,9 @@ LOS COMERCIANTES EN PIELES, DUEÑOS DE SALADEROS, CURTIDURIAS, Y DEMAS ESTABLECI
 
 TODO GANADO HERRADO O MARCADO, SIN DUEÑO RECONOCIDO EN LA REGION, SERA CONSIDERADO MOSTRENCO Y CON RESPECTO A ELLOS SE PROCEDERA EN LOS TERMINOS ESTABLECIDOS EN EL CODIGO CIVIL VIGENTE EN EL ESTADO.
 
-## TÍTULO OCTAVO. DE LA HACIENDA MUNICIPAL
+## TITULO OCTAVO. PROPIEDAD, MARCAS Y SEÑALES DEL GANADO
 
-### Capítulo Único. De la Hacienda Municipal
-
-### Capítulo IX. De los Servicios Públicos Municipales
+### CAPITULO I. PROPIEDAD DEL GANADO
 
 ###### ARTICULO 186.
 
@@ -2711,45 +1731,65 @@ LOS ANIMALES OREJANOS QUE SE ENCUENTREN EN PROPIEDADES GANADERAS SE PRESUMIRAN Q
 
 TODA OPOSICION SOBRE LA PROPIEDAD DE SEMOVIENTES OREJANOS, SERA RESUELTA EN VIA DE CONCILIACION POR LA AUTORIDAD MUNICIPAL CONSULTANDO A LA ASOCIACION GANADERA Y A LA REPRESENTACION OFICIAL QUE SE ENCUENTRE EN EL LUGAR.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 191.
 
-SE PROCEDERA CONFORME A LO PREVISTO EN EL ARTICULO 86 DE ESTA LEY, A LOS QUE INCURRAN EN LAS SIGUIENTES CONDUCTAS:
+INDEPENDIENTEMENTE DE LAS CONDUCTAS DE TIPO PENAL EN QUE INCURRA EL INFRACTOR, SE LE SANCIONARA ADMINISTRATIVAMENTE EN TERMINOS DEL ARTICULO 249, DE LA PRESENTE LEY, A LOS QUE INCURRAN EN LAS SIGUIENTES CONDUCTAS:
 
-I. AL QUE A SABIENDAS, ADQUIERA O COMERCIE CON GANADO, PIELES, CARNES Y OTROS DERIVADOS, PRODUCTOS DEL ABIGEATO.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-II. AL QUE A SABIENDAS, TRANSPORTE GANADO, CARNE, PIELES Y OTROS DERIVADOS OBTENIDOS DEL ABIGEATO.
+I. AL QUE A SABIENDAS, ADQUIERA, TRANSPORTE O COMERCIE CON GANADO, PIELES, CARNES Y OTROS DERIVADOS, OBTENIDOS DEL ABIGEATO,
 
-III. AL SERVIDOR PUBLICO QUE INTERVENGA EN ESAS OPERACIONES, CONOCIENDO LA PROCEDENCIA ILEGITIMA DEL GANADO.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-IV. AL QUE, CON PERJUICIO DE OTRO, DISPONGA PARA SI O PARA OTRO, DE UNA O MAS CABEZAS DE GANADO, DE LAS CUALES SE LE HAYA TRANSMITIDO LA TENENCIA Y NO EL DOMINIO, O BIEN SE LE HAYA TRANSMITIDO PARA SU CUSTODIA CUANDO SE TRATE DE GANADO MENOR SE APLICARAN LAS PENAS SEÑALADAS EN LA LEGISLACION PENAL VIGENTE EN EL ESTADO.
+II. AL SERVIDOR PUBLICO QUE INTERVENGA EN ESAS OPERACIONES, CONOCIENDO LA PROCEDENCIA ILEGITIMA DEL GANADO,
 
-### Capítulo X. De los Pueblos Indígenas
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
+III. AL QUE, CON PERJUICIO DE OTRO, DISPONGA PARA SI O PARA OTRO, DE UNA O MAS CABEZAS DE GANADO, DE LAS CUALES SE LE HAYA TRANSMITIDO LA TENENCIA Y NO EL DOMINIO, O BIEN SE LE HAYA TRASMITIDO PARA SU CUSTODIA, Y;
+
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
+IV. SE APLICARAN LAS MISMAS SANCIONES AL QUE ADQUIERA, TRANSPORTE O COMERCIE CON PRODUCTOS O SUBPRODUCTOS DEL GANADO MENOR.
+
+### CAPITULO II. MARCAS Y SEÑALES DEL GANADO
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 192.
 
-TODOS LOS DUEÑOS DE GANADO MAYOR, TIENE LA OBLIGACION DE HERRARLOS O MARCARLOS Y LOS DE GANADO MENOR SEÑALARLOS.
+TODOS LOS DUEÑOS DE GANADO MAYOR, TIENE LA OBLIGACION DE HERRARLOS O MARCARLOS Y LAS ESPECIES MENORES SEÑALARLOS PARA SU IDENTIFICACION.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 193.
 
 PARA LOS EFECTOS DE ESTA LEY, SE ENTIENDE POR:
 
-A) FIERRO O MARCA DE HERRAR: LA QUE SE GRABA EN LOS CUARTOS TRASEROS O DELANTEROS DEL GANADO CON HIERRO CANDENTE, PINTURA INDELEBLE, ACIDO CORROSIVO O MARCADO EN FRIO, CONSISTENTE EN LETRAS, NUMEROS O SIGNOS ENTRELAZADOS.
+I. FIERRO O MARCA DE HERRAR: LA QUE SE GRABA EN LOS CUARTOS TRASEROS O DELANTEROS DEL GANADO CON HIERRO CANDENTE, PINTURA INDELEBLE, ACIDO CORROSIVO O MARCADO EN FRIO, CONSISTENTE EN LETRAS, NUMEROS O SIGNOS ENTRELAZADOS,
 
-B) TATUAJES: SON LOS DIBUJOS QUE SE GRABAN EN LA PIEL DE LOS ANIMALES MEDIANTE EL USO DE SUBSTANCIAS QUIMICAS.
+II. TATUAJES: SON LOS DIBUJOS QUE SE GRABAN EN LA PIEL DE LOS ANIMALES, MEDIANTE EL USO DE SUBSTANCIAS QUIMICAS,
 
-C) MARCA O RESEÑA: ES AQUELLA QUE SE GRABA EN EL MISMO LADO DEL MASETERO O LA PALETA.
+III. MARCA O RESEÑA: ES AQUELLA QUE SE GRABA EN EL MISMO LADO DEL MASETERO O LA PALETA,
 
-D) ARETE: OBJETO QUE SE FIJA EN LAS OREJAS DEL GANADO Y QUE PUEDEN TENER GRABADAS LAS SIGLAS O NUMEROS QUE FACILITAN LA IDENTIFICACION DEL ANIMAL.
+IV. ARETE: OBJETO QUE SE FIJA EN LAS OREJAS DE LOS SEMOVIENTES Y QUE PUEDEN TENER GRABADAS LAS SIGLAS O NUMEROS QUE FACILITAN LA IDENTIFICACION DEL ANIMAL,
 
-E) MARCA DE VENTA: SE COLOCA COMUNMENTE EN LA PALETA DEL MISMO LADO DEL FIERRO QUE NULIFICA. SU UTILIZACION ES POTESTATIVA.
+V. MARCA DE VENTA: SE COLOCA COMUNMENTE EN LA PALETA DEL MISMO LADO DEL FIERRO QUE LO NULIFICA. SU UTILIZACION ES POTESTATIVA,
 
-F) PATENTE: ES EL DOCUMENTO QUE LA AUTORIDAD COMPETENTE EXPIDE AL GANADERO PARA COMPROBAR QUE SU FIERRO, MARCA, SEÑAL O TATUAJE HA QUEDADO LEGALMENTE REGISTRADO O REVALIDADO.
+VI. PATENTE: ES EL DOCUMENTO QUE LA AUTORIDAD COMPETENTE EXPIDE AL GANADERO PARA COMPROBAR QUE SU FIERRO, MARCA, SEÑAL O TATUAJE HA QUEDADO LEGALMENTE REGISTRADO O REVALIDADO,
 
-QUEDA PROHIBIDO LA COLOCACION DE FIERROS ENCIMADOS. EL INSPECTOR QUE CONOZCA DEL CASO, TENDRA LA OBLIGACION DE EXIGIR LA DOCUMENTACION QUE ACREDITE LA PROPIEDAD DEL GANADO O EN SU DEFECTO NOTIFICARLO A LAS AUTORIDADES COMPETENTES.
+VII. MUESCA: IDENTIFICACION INDIVIDUAL UTILIZADO EXCLUSIVAMENTE EN LA OREJA DEL SEMOVIENTE, GENERALMENTE EN LA ESPECIE PORCINA,
+
+VIII. ADMINICULO SUBCUTANEO: ES EL MICROCIRCUITO QUE SE COLOCA BAJO LA PIEL DE LOS ANIMALES Y CONTIENE INFORMACION QUE LOS IDENTIFICA Y ACREDITA LA PROPIEDAD.
+
+QUEDA PROHIBIDO LA COLOCACION DE FIERROS ENCIMADOS, EL INSPECTOR PECUARIO QUE CONOZCA DEL CASO, TENDRA LA OBLIGACION DE EXIGIR LA DOCUMENTACION QUE ACREDITE LA PROPIEDAD DEL GANADO MAYOR O EN SU DEFECTO NOTIFICARLO A LAS AUTORIDADES COMPETENTES.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 194.
 
-TODOS LOS FIERROS, MARCAS, TATUAJES O ARETES QUE SIRVAN PARA DEMOSTRAR LA PROPIEDAD DEL GANADO, DEBERAN SER REGISTRADOS ANTE LA PRESIDENCIA MUNICIPAL, LA ASOCIACION GANADERA RESPECTIVA Y LA UNION GANADERA, DE LA JURISDICCION DEL DOMICILIO DEL CRIADOR O PROPIETARIO, DEBIENDO SER LA SECRETARIA DE AGRICULTURA Y GANADERIA LA QUE AUTORICE LOS LIBROS DE REGISTRO CORRESPONDIENTE.
+TODOS LOS FIERROS, MARCAS, TATUAJES, ARETES O MUESCAS QUE SIRVAN PARA DEMOSTRAR LA PROPIEDAD DEL GANADO MAYOR Y ESPECIES MENORES, DEBERAN SER REGISTRADOS ANTE LA PRESIDENCIA MUNICIPAL, DE LA JURISDICCION DEL DOMICILIO DEL CRIADOR PROPIETARIO, DEBIENDO SER LA SECRETARIA DE DESARROLLO RURAL, LA QUE AUTORICE LOS LIBROS DE REGISTRO CORRESPONDIENTE E INTEGRAR EL PADRON ESTATAL, MISMO QUE LO MANTENDRA DEBIDAMENTE ACTUALIZADO.
 
 ###### ARTICULO 195.
 
@@ -2759,9 +1799,11 @@ CADA PROPIETARIO DE GANADO, SOLO PODRA TENER UN FIERRO, MARCA, SEÑAL O TATUAJE,
 
 LA PERIODICIDAD CON LA QUE DEBE REVALIDARSE EL REGISTRO DE FIERRO, MARCAS Y SEÑALES, SERA EL INICIO DE CADA ADMINISTRACION MUNICIPAL.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 197.
 
-UNA VEZ QUE LOS SOLICITANTES HAYAN CUMPLIDO CON LOS REQUISITOS ESTABLECIDOS EN EL REGLAMENTO PARA OBTENER EL REGISTRO CORRESPONDIENTE, DEL FIERRO, MARCA, SEÑAL DE SANGRE, O TATUAJE, LA AUTORIDAD LES EXPEDIRA COMO PATENTE Y TITULO DE PROPIEDAD, COPIA CERTIFICADA DEL ACTA DE REGISTRO, ENVIANDO COPIA DE LA MISMA A LA AUTORIDAD COMPETENTE.
+UNA VEZ QUE LOS SOLICITANTES HAYAN CUMPLIDO CON LOS REQUISITOS ESTABLECIDOS PARA OBTENER EL REGISTRO CORRESPONDIENTE, DEL FIERRO, MARCA, SEÑAL DE SANGRE, O TATUAJE, LA AUTORIDAD LES EXPEDIRA COMO PATENTE Y TITULO DE PROPIEDAD, COPIA CERTIFICADA DEL ACTA DE REGISTRO, ENVIANDO COPIA DE LA MISMA A LA AUTORIDAD COMPETENTE.
 
 ###### ARTICULO 198.
 
@@ -2771,31 +1813,33 @@ QUEDA ESTRICTAMENTE PROHIBIDO HERRAR CON PLANCHA LLENA, ALAMBRES, GANCHOS, ARGOL
 
 LA ACCION DE TRASHERRAR O ALTERAR LOS FIERROS, MARCA O SEÑALES LEGITIMAS, SE CONSIDERA DELICTIVA, PARA TODOS LOS EFECTOS LEGALES CORRESPONDIENTES.
 
-## TÍTULO NOVENO. DE LA FACULTAD REGLAMENTARIA MUNICIPAL
+## TITULO NOVENO. CREDITO, EXPOSICIONES, TIANGUIS Y CONCURSOS PECUARIOS
 
-### Capítulo Único
+### CAPITULO I. CREDITO PECUARIO
 
-Del Bando de Gobierno Municipal, Reglamentos, Circulares y Disposiciones Administrativas.
-
-### Capítulo XI. De las Dependencias, Entidades y Unidades Administrativas
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 200.
 
-CON EL OBJETO DE IMPULSAR LA GANADERIA Y OTRAS ESPECIES PECUARIAS EN EL ESTADO, LAS SECRETARIAS COMPETENTES PARA LA APLICACION DE ESTA LEY, APOYARAN A LOS PRODUCTORES EN LA GESTION DE CREDITOS ANTE LAS INSTITUCIONES QUE CORRESPONDAN.
+CON EL OBJETO DE IMPULSAR LA ACTIVIDAD PECUARIA EN EL ESTADO, LAS SECRETARIAS COMPETENTES PARA LA APLICACION DE ESTA LEY, PODRAN APOYAR A LOS PRODUCTORES PECUARIOS EN LA GESTION DE CREDITOS ANTE LAS INSTITUCIONES QUE CORRESPONDAN.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 201.
 
-LOS CREDITOS A QUE SE REFIERE EL ARTICULO ANTERIOR, SE DESTINARAN ENTRE OTROS FINES AL MEJORAMIENTO DEL HATO GANADERO Y A LA REPRODUCCION Y MEJORAMIENTO DE OTRAS ESPECIES PECUARIAS, A TRAVES DEL DESARROLLO DE LOS PROGRAMAS IMPLEMENTADOS POR LAS SECRETARIAS DEL RAMO.
+LOS CREDITOS A QUE SE REFIERE EL ARTICULO ANTERIOR, SE DESTINARAN ENTRE OTROS FINES AL MEJORAMIENTO DEL INVENTARIO PECUARIO Y AL FORTALECIMIENTO DE LA INFRAESTRUCTURA Y ALIMENTACION, A TRAVES DEL DESARROLLO DE LOS PROGRAMAS IMPLEMENTADOS POR LAS SECRETARIAS DEL RAMO.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 202.
 
-PARA LA INDUSTRIALIZACION Y COMERCIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS, LOS PRODUCTORES, SERAN APOYADOS EN SUS GESTIONES POR LA SECRETARIA DE DESARROLLO ECONOMICO.
+PARA LA INDUSTRIALIZACION Y COMERCIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS, LOS PRODUCTORES, SERAN APOYADOS EN SUS GESTIONES ANTE LAS INSTITUCIONES QUE CORRESPONDAN.
 
 ###### ARTICULO 203.
 
 LAS DEPENDENCIAS ESTATALES CORRESPONDIENTES PODRAN CONSTITUIR LOS FIDEICOMISOS PUBLICOS NECESARIOS PARA EL APOYO DE LAS ACTIVIDADES, DE PRODUCCION, COMERCIALIZACION E INDUSTRIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS, EN LOS TERMINOS DE LO DISPUESTO POR LA LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO.
 
-### Capítulo XII. De la Delegación de Facultades y la Desconcentración Administrativa
+### CAPITULO II. EXPOSICIONES, TIANGUIS Y CONCURSOS PECUARIOS
 
 ###### ARTICULO 204.
 
@@ -2817,19 +1861,15 @@ PARA EFECTO DE PROMOVER LA COMERCIALIZACION DEL GANADO, PRODUCTOS Y SUBPRODUCTOS
 
 EL REGLAMENTO DE LA PRESENTE LEY, FIJARA LAS NORMAS Y PROCEDIMIENTOS A QUE SE SUJETARAN EL DESARROLLO DE LOS CONCURSOS Y TIANGUIS PECUARIOS.
 
-## TÍTULO DÉCIMO. DEL PROCEDIMIENTO ADMINISTRATIVO MUNICIPAL
+## TITULO DECIMO. ABASTO PUBLICO Y COMERCIALIZACION DE LOS PRODUCTOS PECUARIOS
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 23 DE AGOSTO DE 2007)</small>
+### CAPITULO UNICO. ABASTO PUBLICO Y COMERCIALIZACION
 
-### Capítulo I. De la Justicia Administrativa Municipal
-
-> <small>(REFORMADO, P.O. 23 DE AGOSTO DE 2007)</small>
-
-### Capítulo XIII. De la Descentralización Administrativa
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 209.
 
-PARA EL SACRIFICIO DE LOS ANIMALES DIRIGIDOS AL ABASTO PUBLICO O PARA LA INDUSTRIALIZACION DE SUS PRODUCTOS, SE USARAN PROCEDIMIENTOS QUE EVITEN LA CRUELDAD, PARA ELLO, LOS ESTABLECIMIENTOS ESTARAN ACONDICIONADOS CON PISTOLAS DE DESCARGA ELECTRICA Y LEGALMENTE AUTORIZADOS POR LA DEPENDENCIA QUE CORRESPONDA QUIEN FIJARA LAS NORMAS QUE DEBAN OBSERVARSE PARA SU INSTALACION Y PROCEDIMIENTO.
+PARA EL SACRIFICIO DE LOS ANIMALES DIRIGIDOS AL ABASTO PUBLICO O PARA LA INDUSTRIALIZACION DE SUS PRODUCTOS, SE SUJETARAN A LO ESTABLECIDO EN LAS NORMAS OFICIALES MEXICANAS VIGENTES EN LA MATERIA, ASI COMO A LAS LEYES ESTATALES Y MUNICIPALES.
 
 ###### ARTICULO 210.
 
@@ -2843,21 +1883,39 @@ LOS ESTABLECIMIENTOS PARA EL SACRIFICIO DE ANIMALES A QUE SE REFIERE ESTE CAPITU
 
 LOS ADMINISTRADORES DE LOS ESTABLECIMIENTOS, SERAN RESPONSABLES DEL CUMPLIMIENTO DE LAS DISPOSICIONES LEGALES RELACIONADAS CON EL SACRIFICIO DE LOS ANIMALES QUE EN ELLOS EFECTUEN.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 213.
 
-TODO ADMINISTRADOR O RESPONSABLE DE UN ESTABLECIMIENTO DE SACRIFICIO ANIMAL Y EXPENDIO DE CARNES, EN LOS TERMINOS DE ESTA LEY, TENDRA LA OBLIGACION DE CUMPLIR CON LOS SIGUIENTES REQUISITOS:
+TODO ADMINISTRADOR O RESPONSABLE DE UN ESTABLECIMIENTO DE SACRIFICIO ANIMAL O EXPENDIO DE CARNE EN CANAL, EN LOS TERMINOS DE ESTA LEY, TENDRA LA OBLIGACION DE CUMPLIR CON LOS SIGUIENTES REQUISITOS:
 
-A) LLEVAR UN LIBRO DE REGISTRO DEBIDAMENTE LEGALIZADO POR LA AUTORIDAD MUNICIPAL DEL LUGAR Y EL INSPECTOR GANADERO, EN EL QUE ASENTARA POR ORDEN Y FECHA, LA ENTRADA DE LOS ANIMALES O LA CANAL, DESCRIBIENDO LA ESPECIE, EDAD, CLASE, COLOR, MARCAS, ARETES O SEÑALES EN SU CASO, ASI COMO EL NOMBRE DEL INTRODUCTOR, EL LUGAR DE ORIGEN, EL NUMERO DE GUIA DE MOVILIZACION Y AUTORIDAD QUE LO EXPIDIO, EL NUMERO DE FOLIO DEL CERTIFICADO ZOOSANITARIO, EL NOMBRE DEL VENDEDOR Y DEL COMPRADOR, LA FECHA DEL SACRIFICIO Y NUMERO DE BOLETA DE PAGO DE IMPUESTOS.
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
-B) PERMITIR A LAS SECRETARIAS COMPETENTES, LAS AUTORIDADES FISCALES Y MUNICIPALES, ASI COMO A LAS ASOCIACIONES GANADERAS, LA REVISION EN CUALQUIER TIEMPO, DE LOS LIBROS DE REGISTRO A QUE SE REFIERE EL INCISO QUE ANTECEDE. SI SE ENCONTRARE ALGUNA IRREGULARIDAD EN EL MANEJO DE LOS LIBROS O EL FUNCIONAMIENTO DE LOS CITADOS ESTABLECIMIENTOS, SE COMUNICARA DE INMEDIATO A LA AUTORIDAD QUE CORRESPONDA PARA LA APLICACION DE LA SANCION ESTABLECIDA CONFORME A ESTA LEY Y ORDENAMIENTO SUPLETORIOS.
+I. CONTAR CON LA AUTORIZACION DE LAS AUTORIDADES COMPETENTES PARA SU FUNCIONAMIENTO COMO ESTABLECIMIENTO DE SACRIFICIO ANIMAL,
+
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
+II. CONTAR CON INSPECTOR PECUARIO, ACREDITADO POR LA SECRETARIA DE DESARROLLO RURAL,
+
+> <small>(REFORMADA, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
+III. LLEVAR UN LIBRO DE REGISTRO DEBIDAMENTE LEGALIZADO POR LA AUTORIDAD MUNICIPAL DEL LUGAR, EN EL QUE SE ASENTARA POR ORDEN Y FECHA, LA ENTRADA DE LOS ANIMALES O EL CANAL, DESCRIBIENDO LA ESPECIE, EDAD, CLASE, COLOR, MARCAS, ARETES O SEÑALES EN SU CASO, ASI COMO EL NOMBRE DEL INTRODUCTOR, EL LUGAR DE ORIGEN, EL NÚMERO DE GUIA DE MOVILIZACION Y AUTORIDAD QUE LO EXPIDIO, EL NUMERO DE FOLIO DEL CERTIFICADO ZOOSANITARIO, EL NOMBRE DEL VENDEDOR Y DEL COMPRADOR, LA FECHA DEL SACRIFICIO Y NUMERO DE BOLETA DE PAGO DE IMPUESTOS, Y;
+
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+IV. PERMITIR A LA SECRETARIA DE DESARROLLO RURAL, AUTORIDADES DE SALUD, AMBIENTALES, FISCALES, MUNICIPALES, Y AL COMITE DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO, ASI COMO A LAS ASOCIACIONES GANADERAS, LA REVISION EN CUALQUIER TIEMPO DE LOS LIBROS DE REGISTRO A QUE SE REFIERE EL INCISO QUE ANTECEDE. SI SE ENCONTRARE, ALGUNA IRREGULARIDAD EN EL MANEJO DE LOS LIBROS O EN EL FUNCIONAMIENTO DE LOS CITADOS ESTABLECIMIENTOS, SE COMUNICARA DE INMEDIATO A LA AUTORIDAD QUE CORRESPONDA, PARA LA APLICACION DE LA SANCION ESTABLECIDA, CONFORME A ESTA LEY Y ORDENAMIENTOS APLICABLES O SUPLETORIOS.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 214.
 
-LOS ADMINISTRADORES O RESPONSABLES DE LOS ESTABLECIMIENTOS SERAN NOMBRADOS POR LOS AYUNTAMIENTOS MUNICIPALES Y LAS ASOCIACIONES GANADERAS, ESTOS TIENEN LA OBLIGACION DE INFORMAR MENSUALMENTE A LA SECRETARIA DE AGRICULTURA Y GANADERIA, AUTORIDADES MUNICIPALES, TESORERIA DEL ESTADO Y A LA UNION GANADERA REGIONAL, LOS MOVIMIENTOS DE ANIMALES QUE SE HUBIESEN REGISTRADO, ASI COMO EL NUMERO DE SACRIFICIOS.
+LOS ADMINISTRADORES O RESPONSABLES DE LOS ESTABLECIMIENTOS SERAN NOMBRADOS POR LOS PROPIETARIOS, AYUNTAMIENTOS MUNICIPALES Y LAS ASOCIACIONES GANADERAS, ESTOS TIENEN LA OBLIGACION DE INFORMAR MENSUALMENTE A LA SECRETARIA DE DESARROLLO RURAL, AUTORIDADES MUNICIPALES, TESORERIA DEL ESTADO Y A LA UNION GANADERA REGIONAL, LOS MOVIMIENTOS DE ANIMALES QUE SE HUBIESEN REGISTRADO, ASI COMO EL NUMERO DE SACRIFICIOS.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 215.
 
-A FIN DE PROTEGER EL HATO GANADERO DEL ESTADO, LA SECRETARIA DE AGRICULTURA Y GANADERIA, CON LA COLABORACION DE LAS ORGANIZACIONES GANADERAS, DESARROLLARA EL PROGRAMA DE RESCATE DE HEMBRAS GESTANTES O APTAS PARA LA REPRODUCCION, VALORANDO EN CADA CASO LA CONVENIENCIA, DE LA APLICACION DE LAS MEDIDAS DEL MISMO.
+A FIN DE PROTEGER EL INVENTARIO PECUARIO DEL ESTADO, LA SECRETARIA DE DESARROLLO RURAL, CON LA COLABORACION DE LAS ORGANIZACIONES DE LAS ORGANIZACIONES DE PRODUCTORES, DESARROLLARAN PARA LA GANADERIA MAYOR EL PROGRAMA DE RESCATE DE HEMBRAS GESTANTES O APTAS PARA LA REPRODUCCION, VALORANDO EN CADA CASO LA CONVENIENCIA, DE LA APLICACION DE LAS MEDIDAS DEL MISMO.
 
 ###### ARTICULO 216.
 
@@ -2867,9 +1925,11 @@ LAS ORGANIZACIONES PECUARIAS PODRAN OPERAR ESTABLECIMIENTOS PARA EL SACRIFICIO D
 
 LA CONDUCCION Y COMERCIALIZACION DE CARNES FRESCAS O SECAS Y DEMAS PRODUCTOS Y SUBPRODUCTOS PECUARIOS, SE HARA OBSERVANDO LAS NORMAS SANITARIAS CORRESPONDIENTES, LA PRESENTE LEY Y SU REGLAMENTO, LO ANTERIOR SIN PERJUICIO DE LA APLICACION DE OTROS ORDENAMIENTOS LEGALES.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 218.
 
-EL EJECUTIVO ESTATAL A TRAVES DE LA SECRETARIA DE FOMENTO ECONOMICO, ESTABLECERA LAS NORMAS PARA MEJORAR E INCREMENTAR LA COMERCIALIZACION E INDUSTRIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS, EN BENEFICIO DE LOS PRODUCTORES Y DE LOS CONSUMIDORES.
+EL EJECUTIVO ESTATAL A TRAVES DE LAS INSTITUCIONES DEL RAMO, ESTABLECERA LAS NORMAS PARA MEJORAR E INCREMENTAR LA COMERCIALIZACION E INDUSTRIALIZACION DE LOS PRODUCTOS Y SUBPRODUCTOS PECUARIOS, EN BENEFICIO DE LOS PRODUCTORES Y DE LOS CONSUMIDORES.
 
 ###### ARTICULO 219.
 
@@ -2885,31 +1945,31 @@ C) QUE SE CUBRIERON LOS IMPUESTOS CORRESPONDIENTES.
 
 CUANDO FUERE NECESARIO SACRIFICAR GANADO PARA LA SUBSISTENCIA DE LOS RANCHEROS, VAQUEROS Y PASTORES, O PORQUE LOS ANIMALES FUERAN BRONCOS, EL SACRIFICIO UNICAMENTE PODRA REALIZAR POR DISPOSICION DEL DUEÑO O SU REPRESENTANTE, PERO EN TODO CASO DEBERA CONSERVARSE LAS OREJAS DEL ANIMAL O ANIMALES SACRIFICADOS UNIDAS A LA PIEL DEL MISMO, SIN QUE SE PUEDA DISPONER DE ESTAS HASTA EN TANTO NO FUEREN REVISADAS POR EL INSPECTOR DE GANADERIA O POR LAS AUTORIDADES COMPETENTES DEL MUNICIPIO, QUIENES DESTRUIRAN LAS OREJAS EN PRESENCIA DEL INTERESADO Y PRACTICARAN ACTA CIRCUNSTANCIADA DEL HECHO Y DE LAS CIRCUNSTANCIAS POR LAS QUE SE LLEVO A CABO.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 221.
 
-LA PERSONA QUE SACRIFIQUE GANADO SIN HABER JUSTIFICADO LEGALMENTE LA PROPIEDAD, SE HARA ACREEDORA A LAS SANCIONES QUE SE ESTABLECEN EN EL ARTICULO 247 DE ESTA LEY.
+LA PERSONA QUE SACRIFIQUE GANADO SIN HABER JUSTIFICADO LEGALMENTE LA PROPIEDAD, SE HARA ACREEDORA A LAS SANCIONES QUE SE ESTABLECEN EN EL ARTICULO 249 DE ESTA LEY.
 
 ###### ARTICULO 222.
 
 EL QUE SACRIFIQUE ANIMALES ENFERMOS, COMERCIE O DISTRIBUYA SUS PARTES PARA ALIMENTO DESTINADO AL CONSUMO HUMANO, SE HARA ACREEDOR A LAS SANCIONES QUE SE ESTABLECEN EN ESTA LEY.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 223.
 
-QUEDA ESTRICTAMENTE PROHIBIDO EL SACRIFICIO CLANDESTINO DE ANIMALES DESTINADOS AL CONSUMO HUMANO, LAS PERSONAS QUE INFRINJAN LA PRESENTE DISPOSICION, SERAN SANCIONADOS EN LOS TERMINOS DE ESTA LEY, LA LEY DE SALUD Y EL CODIGO PENAL.
+QUEDA ESTRICTAMENTE PROHIBIDO EL SACRIFICIO CLANDESTINO DE ANIMALES DESTINADOS AL CONSUMO HUMANO, LAS PERSONAS QUE INFRINJAN LA PRESENTE DISPOSICION, SERAN SANCIONADOS EN LOS TERMINOS DE ESTA LEY, LA LEY DE SALUD ESTATAL Y MUNICIPAL Y EL CODIGO PENAL.
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 224.
 
 LAS SECRETARIAS COMPETENTES FOMENTARAN EL ESTABLECIMIENTO DE ESTABLOS PRODUCTORES DE LECHE, GRANJAS AGROPECUARIAS, CUENCAS LECHERAS Y FOMENTARAN LA INSTALACION DE LA INFRAESTRUCTURA PASTEURIZADORA, ULTRAPASTEURIZADORA Y OTROS PROCESOS INDUSTRIALES DE ACUERDO CON LA PLANIFICACION AGROINDUSTRIAL DEL ESTADO.
 
-## TÍTULO DÉCIMO PRIMERO. DEL CONSEJO DE LA CRÓNICA MUNICIPAL
+## TITULO DECIMO PRIMERO. ORGANIZACIONES PECUARIAS
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE NOVIEMBRE DE 2006)</small>
-
-### Capítulo Único
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2006)</small>
-
-### Capítulo Único. De la Profesionalización de los Servidores Públicos Municipales y del Servicio Civil de Carrera
+### CAPITULO I. ORGANIZACIONES GANADERAS
 
 ###### ARTICULO 225.
 
@@ -2927,9 +1987,13 @@ PARA INGRESAR A LAS ASOCIACIONES GANADERAS, EL SOLICITANTE DEBERA DEDICARSE PREP
 
 NINGUN GANADERO PODRA FORMAR PARTE AL MISMO TIEMPO Y DENTRO DE LA MISMA CIRCUNSCRIPCION TERRITORIAL DE DOS ASOCIACIONES GANADERAS.
 
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 228.
 
-LAS ASOCIACIONES Y UNIONES GANADERAS, TENDRAN PERSONALIDAD JURIDICA PROPIA Y ESTARAN COORDINADAS CON LAS AUTORIDADES ESTATALES Y FEDERALES, QUIENES LES BRINDARAN EL APOYO NECESARIO PARA EL DESEMPEÑO DE SUS ACTIVIDADES, Y TENDRAN OBLIGACION DE PRESTAR COLABORACION Y RENDIR LOS INFORMES QUE ESTAS LES SOLICITEN PARA EL MEJORAMIENTO Y DESARROLLO DE LA ACTIVIDAD PECUARIA. NO PODRAN BAJO PENA DE DISOLUCION, PARTICIPAR EN ACTIVIDADES RELACIONADAS CON CULTO RELIGIOSO ALGUNO, NI DESARROLLAR PROSELITISMO POLITICO-PARTIDISTA.
+LAS ASOCIACIONES DE PRODUCTORES TENDRAN PERSONALIDAD JURIDICA PROPIA Y ESTARAN COORDINADAS CON LA SECRETARIA DE DESARROLLO RURAL Y SAGARPA, QUIENES PODRAN BRINDAR EL APOYO NECESARIO PARA EL DESEMPEÑO DE SUS ACTIVIDADES. LOS PRODUCTORES, TENDRAN OBLIGACION DE PROPORCIONAR TODOS LOS INFORMES QUE LES SOLICITEN LAS SECRETARIAS ANTES MENCIONADAS, DE CONFORMIDAD CON EL ARTICULO 14, DE LA LEY DE ORGANIZACIONES GANADERAS, PARA EL MEJORAMIENTO Y DESARROLLO DE LA ACTIVIDAD PECUARIA.
+
+LAS ASOCIACIONES DE PRODUCTORES, QUE A JUICIO DE LAS INSTITUCIONES FEDERALES, ESTATALES, COMITES DE FOMENTO Y PROTECCION PECUARIA DEL ESTADO, NO DESEMPEÑEN CON DILIGENCIA LAS ACTIVIDADES DE COADYUVANCIA, EN MATERIA DE SANIDAD ANIMAL, PREVISTAS EN ESTA LEY, SE LES APLICARA LAS SANCIONES CORRESPONDIENTES.
 
 ###### ARTICULO 229.
 
@@ -2955,6 +2019,10 @@ I) REPRESENTAR ANTE LAS AUTORIDADES ADMINISTRATIVAS Y JUDICIALES A SUS AGREMIADO
 
 J) LAS DEMAS QUE LE CONFIERE ESTA LEY, ASI COMO OTROS ORDENAMIENTOS LEGALES.
 
+> <small>N. DE E. ES DE OBSERVARSE QUE EN EL DECRETO DE REFORMAS No. 239, PUBLICADO EN P.O. 7 DE NOVIEMBRE DE 2001, EL LEGISLADOR SEÑALA LA DEROGACION DEL PRESENTE ARTICULO, SIN EMBARGO, EL MISMO NO EXISTIA EN EL TEXTO INMEDIATO ANTERIOR.</small>
+
+ARTICULO 229 BIS.- (DEROGADO, P.O. 07 DE NOVIEMBRE DE 2001)
+
 ###### ARTICULO 230.
 
 EL ESTADO PODRA PARTICIPAR CON LAS ASOCIACIONES Y UNIONES GANADERAS, EN LA CAPTACION DE APORTACIONES DE SUS AGREMIADOS A TRAVES DE LA SECRETARIA DE HACIENDA DEL ESTADO, LAS QUE SE DISTRIBUIRAN ENTRE LAS ASOCIACIONES GANADERAS Y/O UNIONES GANADERAS PROPORCIONALMENTE A SU PARTICIPACION BAJO EL ESQUEMA QUE SE ACUERDE CON LAS AUTORIDADES QUE PARTICIPEN.
@@ -2963,17 +2031,19 @@ EL ESTADO PODRA PARTICIPAR CON LAS ASOCIACIONES Y UNIONES GANADERAS, EN LA CAPTA
 
 LAS ASOCIACIONES Y UNIONES GANADERAS, SERAN ORGANIZACIONES DE COOPERACION CON LAS AUTORIDADES ESTATALES Y SU FUNCIONAMIENTO SERA DE INTERES PUBLICO, GOZARAN EN UNION DE SUS MIEMBROS DEL APOYO DE DICHAS AUTORIDADES PARA EL CUMPLIMIENTO DE SUS FINES, RENDIRAN LOS INFORMES Y COLABORACION QUE LES SEAN SOLICITADOS, PARA EL MEJORAMIENTO Y DESARROLLO DE LOS SERVICIOS PECUARIOS.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 232.
 
 PARA GOZAR DE LOS BENEFICIOS, FRANQUICIAS Y SUBSIDIOS EN SU FAVOR, LAS ORGANIZACIONES PODRAN OBTENER DE LAS AUTORIDADES COMPETENTES SU REGISTRO, PAGANDO LOS DERECHOS CORRESPONDIENTES Y CUBRIENDO LOS REQUISITOS QUE LA MISMA SEÑALE.
 
-NO PODRAN EXISTIR DENTRO DE LA MISMA CIRCUNSCRIPCION DE UN MUNICIPIO, MAS DE UNA ORGANIZACION GANADERA DEL MISMO REGIMEN DE PROPIEDAD DE TENENCIA DE LA TIERRA. LOS REGISTROS Y AUTORIZACIONES CORRESPONDIENTES SE OTORGARAN A LAS QUE ACREDITEN MAYOR ANTIGUEDAD ANTE LA SECRETARIA DE AGRICULTURA Y GANADERIA, LA CUAL VALORARA LAS PRUEBAS EN SU CONJUNTO Y DICTARA RESOLUCION AL RESPECTO, LA CUAL SERA INAPELABLE Y DEBERA ESTAR FUNDADA Y MOTIVADA, SIN PERJUICIO DE LAS ATRIBUCIONES QUE LE CORRESPONDEN EN ESTA MATERIA A LA AUTORIDAD FEDERAL DEL RAMO.
+NO PODRAN EXISTIR DENTRO DE LA MISMA CIRCUNSCRIPCION DE UN MUNICIPIO, MAS DE UNA ORGANIZACION DE PRODUCTORES DE UNA MISMA ESPECIE. LOS REGISTROS Y AUTORIZACIONES CORRESPONDIENTES SE OTORGARAN POR LA SECRETARIA DE AGRICULTURA, GANADERIA, DESARROLLO RURAL, PESCA Y ALIMENTACION, LA CUAL VALORARA LAS PRUEBAS EN SU CONJUNTO Y DICTARA RESOLUCION AL RESPECTO, LA CUAL SERA INAPELABLE Y DEBERA ESTAR FUNDADA Y MOTIVADA, SIN PERJUICIO DE LAS ATRIBUCIONES QUE LE CORRESPONDEN EN ESTA MATERIA A LA AUTORIDAD FEDERAL DEL RAMO.
 
-LA PRESENTE DISPOSICION NO TENDRA APLICACION DE CARACTER RETROACTIVO EN PERJUICIO DE AQUELLAS ASOCIACIONES QUE SE ENCUENTREN LEGALMENTE CONSTITUIDAS.
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 233.
 
-LAS ORGANIZACIONES GANADERAS QUE POR INDISCIPLINA, APATIA O NEGLIGENCIA DE SUS MIEMBROS NO CUMPLAN CON LO DISPUESTO POR ESTA LEY, SE LES RETIRARA EL APOYO QUE OTORGUE EL GOBIERNO DEL ESTADO, SIN PERJUICIO DE EXIGIRLES LAS RESPONSABILIDADES EN QUE INCURRAN. PARA ESTE EFECTO DEBERA OIRSE SIEMPRE LA OPINION DE LA SECRETARIA DE AGRICULTURA Y GANADERIA.
+LAS ORGANIZACIONES DE PRODUCTORES QUE POR INDISCIPLINA, APATIA O NEGLIGENCIA DE SUS MIEMBROS NO CUMPLAN CON LO DISPUESTO POR ESTA LEY Y OTROS ORDENAMIENTOS LEGALES, SE LES RETIRARA EL APOYO QUE OTORGUE EL GOBIERNO DEL ESTADO, SIN PERJUICIO DE EXIGIRLES LAS RESPONSABILIDADES EN QUE INCURRAN. PARA ESTE EFECTO DEBERA OIRSE SIEMPRE LA OPINION DE LAS SECRETARIAS DEL RAMO.
 
 ###### ARTICULO 234.
 
@@ -3015,15 +2085,19 @@ G) COOPERAR CON LAS AUTORIDADES EN LA CONSERVACION Y MEJORAMIENTO DEL MEDIO AMBI
 
 H) REALIZAR TODAS AQUELLAS ACTIVIDADES Y ACCIONES QUE SEAN INHERENTES AL LOGRO DE SUS OBJETIVOS Y METAS.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 240.
 
-TODOS LOS PRODUCTORES PECUARIOS, ESTAN OBLIGADOS A DAR AVISO A LA SECRETARIA DE AGRICULTURA Y GANADERIA Y AL AYUNTAMIENTO DE SU JURISDICCION, DEL INICIO DE SUS OPERACIONES, EN LOS TERMINOS QUE SE SEÑALA EN LOS REGLAMENTOS APLICABLES.
+TODOS LOS PRODUCTORES PECUARIOS, ESTAN OBLIGADOS A DAR AVISO A LA SECRETARIA DE DESARROLLO RURAL Y AL AYUNTAMIENTO DE SU JURISDICCION, DEL INICIO DE SUS OPERACIONES, EN LOS TERMINOS QUE SE SEÑALA EN LOS REGLAMENTOS APLICABLES.
 
 ASIMISMO DEBERAN OBTENER DE LAS ASOCIACIONES A QUE PERTENEZCAN, LA CREDENCIAL QUE LOS ACREDITE COMO SOCIOS DE LA MISMA.
 
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
+
 ###### ARTICULO 241.
 
-TODAS LAS ASOCIACIONES Y UNIONES A QUE SE REFIERE ESTE CAPITULO, SE REGIRAN POR ESTA LEY Y SU REGLAMENTO EN TODO AQUELLO QUE LES SEA APLICABLE, Y POR LO DISPUESTO EN LA LEY DE ASOCIACIONES GANADERAS EN LO QUE NO SE OPONGA A SUS OBJETIVOS.
+TODAS LAS ASOCIACIONES DE PRODUCTORES A QUE SE REFIERE ESTE CAPITULO, SE REGIRAN POR ESTA LEY Y SU REGLAMENTO EN TODO AQUELLO QUE LES SEA APLICABLE, Y POR LO DISPUESTO EN LA LEY DE ORGANIZACIONES GANADERAS EN LO QUE NO SE OPONGA A SUS OBJETIVOS.
 
 ## TITULO DECIMO SEGUNDO. ENSEÑANZA E INVESTIGACION PECUARIAS
 
@@ -3051,29 +2125,59 @@ LA FUNDACION "PRODUCE" Y TODAS AQUELLAS QUE SE DEDIQUEN A LA INVESTIGACION PECUA
 
 ## TITULO DECIMO TERCERO. SANCIONES
 
-### Capítulo I. De los Planes Municipales de Desarrollo
+### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2008)</small>
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 247.
 
-LAS VIOLACIONES A LOS PRECEPTOS DE ESTA LEY, SUS REGLAMENTOS Y DEMAS DISPOSICIONES QUE EMANEN DE LA MISMA, SERAN SANCIONADAS ADMINISTRATIVAMENTE POR LAS SECRETARIAS O POR LAS AUTORIDADES MUNICIPALES EN SU CASO, SIN PERJUICIO DE LAS PENAS QUE CORRESPONDAN CUANDO SEAN CONSTITUTIVAS DE DELITOS.
+QUIENES INFRINJAN LAS DISPOSICIONES CONTENIDAS EN ESTA LEY, SERAN SANCIONADOS ADMINISTRATIVAMENTE, POR LA SECRETARIA DE DESARROLLO RURAL, ASI COMO LOS QUE OMITAN EL CUMPLIMIENTO DE OBLIGACIONES PREVISTAS EN LA MISMA, SIEMPRE QUE SE ENCUENTRE DENTRO DE SU COMPETENCIA, EN CASO CONTRARIO, SE TURNARA A LA AUTORIDAD FEDERAL, PARA SU CORRESPONDIENTE ATENCION.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 248.
 
-LAS AUTORIDADES COMPETENTES PARA SANCIONAR LAS INFRACCIONES A LA PRESENTE LEY Y SUS REGLAMENTOS, ESTAN FACULTADAS PARA CALIFICAR LA GRAVEDAD DE LAS MISMAS.
+LA SECRETARIA DE DESARROLLO RURAL, A TRAVES DE LOS FUNCIONARIOS RECONOCIDOS COMO AUTORIDADES Y PREVISTOS EN LA PRESENTE LEY Y SU REGLAMENTO, PARA SANCIONAR A LOS PARTICULARES POR LAS INFRACCIONES COMETIDAS, DEBERAN OBSERVAR QUE EL ACTO U OMISION SE ENCUENTRE DENTRO DE LOS SUPUESTOS ESTABLECIDOS EN LA LEY, DEBIENDO FUNDAR Y MOTIVAR LA RESOLUCION, TOMANDO EN CUENTA LA GRAVEDAD DE LA INFRACCION, LAS CIRCUNSTANCIAS DEL CASO, LAS AGRAVANTES Y LA REINCIDENCIA, ENTENDIENDO ESTAS COMO:
+
+AGRAVANTES: SON LAS CIRCUNSTANCIAS O ELEMENTOS EN QUE INCURRE EL INFRACTOR, PARA LA REALIZACION DE LA CONDUCTA ANTIJURIDICA, QUE INCREMENTA SU RESPONSABILIDAD.
+
+REINCIDENCIA: SE CONSIDERA COMO TAL, AL INFRACTOR QUE HAYA SIDO SANCIONADO ANTERIORMENTE POR LA MISMA INFRACCION O FALTA ADMINISTRATIVA.
+
+ASIMISMO, DEBERA TENERSE EN CUENTA, LO SIGUIENTE:
+
+I. QUE EL INFRACTOR HAYA HECHO USO DE DOCUMENTOS FALSOS;
+
+II. QUE LOS SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS, MOVILIZADOS POR EL TERRITORIO ESTATAL, PROVENGAN DEL ABIGEATO;
+
+III. QUE LOS SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS, MOVILIZADOS O COMERCIALIZADOS, SE ENCUENTREN ENFERMOS;
+
+IV. QUE EN LA TRANSPORTACION Y MOVILIZACION, NO CUENTEN CON LA DOCUMENTACION OFICIAL Y OBLIGATORIA, PREVISTA EN EL ARTICULO 159, DE LA PRESENTE LEY.
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 249.
 
-LAS SANCIONES QUE SE IMPONGAN POR LAS VIOLACIONES A LAS DISPOSICIONES DE LA PRESENTE LEY, Y SUS REGLAMENTOS, SERAN LAS EQUIVALENTES A UN MINIMO DE TREINTA DIAS Y HASTA QUINIENTOS DIAS DE SALARIO MINIMO VIGENTE EN LA ZONA.
+LA SECRETARIA DE DESARROLLO RURAL IMPONDRA LAS SANCIONES O MULTAS CONFORME A LOS SIGUIENTES CRITERIOS:
+
+I. EN CASO DE QUE LA COMISION DE LA INFRACCION SEA SIMPLE, SE LE IMPONDRA UNA MULTA DE DIEZ DIAS DE SALARIO MINIMO GENERAL VIGENTE EN EL ESTADO, POR CADA OBLIGACION O DOCUMENTO OBLIGATORIO QUE NO PORTE, EN LA MOVILIZACION SE (SIC) LOS SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS;
+
+II. CUANDO LA INFRACCION SE DETERMINE CON LAS AGRAVANTES PREVISTAS EN ESTA LEY, LOS PRODUCTORES O PARTICULARES QUE INCURRAN EN ELLAS, SE HARAN ACREEDORES A UNA MULTA DE CINCUENTA DIAS DE SALARIO MINIMO GENERAL VIGENTE PARA LA ZONA GEOGRAFICA DEL ESTADO, DONDE RADIQUE EL INFRACTOR, POR CADA UNA DE LAS OBLIGACIONES DOCUMENTALES OMITIDAS;
+
+III. LAS MULTAS PREVISTAS EN CASO DE REINCIDENCIA DEL INFRACTOR, SERA (SIC) DE QUINIENTOS DIAS DE SALARIO MINIMO GENERAL VIGENTE, PREVISTO PARA LA ZONA GEOGRAFICA DEL ESTADO, DONDE SE ENCUENTRE EL DOMICILIO DEL INFRACTOR;
+
+IV. LAS MULTAS PREVISTAS PARA LOS OFICIALES INSPECTORES E INSPECTORES PECUARIOS QUE INCURRAN EN LA INFRACCION PREVISTA EN EL ARTICULO 168, DE LA PRESENTE LEY, SERA DE QUINIENTOS DIAS DE SALARIO MINIMO GENERAL, VIGENTE EN LA ZONA GEOGRAFICA DEL ESTADO, INDEPENDIENTEMENTE DEL PROCEDIMIENTO DE RESPONSABILIDADES QUE HABILITE SU SUPERIOR EN SU CONTRA.
+
+(REUBICADO, P.O. 07 DE NOVIEMBRE DE 2001)
 
 ## TITULO DECIMO CUARTO. PROCEDIMIENTO DE RESPONSABILIDADES
 
-### Capítulo II. De la Coordinación para el Desarrollo Municipal y Regional
+### CAPITULO I
+
+> <small>(REFORMADO, P.O. 07 DE NOVIEMBRE DE 2001)</small>
 
 ###### ARTICULO 250.
 
-DEPENDIENDO DE LA GRAVEDAD DE LA INFRACCION, SE IMPONDRA A LOS INFRACTORES DE TRES A QUINCE DIAS DE ARRESTO ADMINISTRATIVO; LOS REINCIDENTES SE HARAN ACREEDORES A LA APLICACION DE MULTA Y/O ARRESTO.
+LAS SANCIONES SEÑALADAS EN EL ARTICULO ANTERIOR, SE INCREMENTARAN HASTA EN UN CIEN POR CIENTO DE SU MAXIMO EN CASO DE REINCIDENCIA.
 
 ###### ARTICULO 251.
 
@@ -3083,216 +2187,150 @@ A LOS INSPECTORES Y AUTORIDADES MUNICIPALES QUE INFRINJAN LA PRESENTE LEY Y SUS 
 
 EL PRODUCTO DE LAS SANCIONES ECONOMICAS QUE SE IMPONGAN A LOS INFRACTORES Y A QUE SE HACE REFERENCIA EN ESTA LEY, SE DESTINARA AL DESARROLLO Y FOMENTO DE LA ACTIVIDAD PECUARIA.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
 ###### ARTICULO 253.
 
-EL PROCEDIMIENTO PARA LA IMPOSICION DE LAS SANCIONES QUE SE ESTABLECEN EN ESTA LEY, SE HARA DE CONFORMIDAD CON LAS SIGUIENTES REGLAS:
+LOS HECHOS U OMISIONES QUE SE CONOZCAN, DERIVADOS DEL EJERCICIO DE FACULTADES DE INSPECCION, VERIFICACION Y COMPROBACION, PREVISTOS EN LA PRESENTE LEY, QUE CONSTEN EN EXPEDIENTES O EN DOCUMENTOS QUE SE ENCUENTREN EN PODER DE LAS AUTORIDADES DE LA SECRETARIA DE DESARROLLO RURAL O AUTORIDADES EJECUTORAS O AUXILIARES, PREVISTAS EN ESTA LEY, SERVIRAN PARA MOTIVAR LAS RESOLUCIONES, CONFORME A LO SIGUIENTE:
 
-A) EL SERVIDOR PUBLICO O LA AUTORIDAD A QUIEN LE COMPETA LA APLICACION DE LA PRESENTE LEY, PRACTICARA ACTAS CIRCUNSTANCIADAS DE LOS HECHOS QUE MOTIVEN LA IMPOSICION DE LA SANCION.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-B) SE COMUNICARA POR ESCRITO AL PRESUNTO INFRACTOR LOS HECHOS CONSTITUTIVOS DE LA INFRACCION, PARA QUE DENTRO DEL TERMINO QUE SE SEÑALE Y QUE NO PODRA SER MENOR DE CINCO DIAS HABILES, ACUDA ANTE LA AUTORIDAD COMPETENTE O PRESIDENCIA MUNICIPAL SEGUN CORRESPONDA, A EXPONER LO QUE A SU DERECHO CONVENGA Y APORTE LOS ELEMENTOS DE PRUEBA QUE CONSIDEREN PERTINENTES.
+I. QUE SE DERIVEN DE LA INSPECCION Y PRACTICA DE ACTAS CIRCUNSTANCIADAS REALIZADAS POR LOS OFICIALES DE INSPECTORIA PECUARIA O INSPECTORES PECUARIOS, A PARTICULARES EN TRANSITO, MOVILIZANDO SEMOVIENTES, PRODUCTOS Y SUBPRODUCTOS PECUARIOS, MISMOS QUE NO CUMPLEN CON LAS DISPOSICIONES ESTABLECIDAS EN ESTA LEY;
 
-C) TRANSCURRIDO EL TERMINO SEÑALADO EN EL INCISO ANTERIOR, SE RESOLVERA CONSIDERANDO LOS ARGUMENTOS Y PRUEBAS QUE SE HUBIEREN HECHO VALER. LA RESOLUCION SERA DEBIDAMENTE FUNDADA Y MOTIVADA, SEÑALANDOSE LA SANCION IMPUESTA O LA NO RESPONSABILIDAD.
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
-D) SI LA RESOLUCION FUERE DE RESPONSABILIDAD, SE COMUNICARA POR ESCRITO AL RESPONSABLE PARA QUE CUMPLA CON LA SANCION IMPUESTA, Y A LA AUTORIDAD COMPETENTE PARA QUE SE HAGA EFECTIVA LA MULTA O EL ARRESTO QUE CORRESPONDA.
+II. DE LA REALIZACION DE VISITAS DE INSPECCION Y VERIFICACION REALIZADAS POR PERSONAL DE LA SECRETARIA DE DESARROLLO RURAL, O POR LAS AUTORIDADES MUNICIPALES, A LAS INSTALACIONES DE GRANJAS, RASTROS, PATIOS DE MATANZA Y ESTABLECIMIENTOS AVICOLAS, APICOLAS, PORCICOLAS, OVINOS, CAPRINOS, U OTRAS ESPECIES, EN LAS QUE SE DETECTO LA OMISION AL DEBIDO CUMPLIMIENTO DE LAS NORMAS OFICIALES, AL REGISTRO O AUTORIZACION DE SU FUNCIONAMIENTO U OTRAS ANOMALIAS QUE PONGAN EN RIESGO A LOS NUCLEOS DE POBLACION;
 
-### Capítulo Único. De la Participación Ciudadana
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+III. LAS RESOLUCIONES QUE IMPONGAN LA CARGA DE MULTAS O SANCIONES, DEBERAN SER EMITIDAS POR ESCRITO, POR FUNCIONARIO O AUTORIDAD COMPETENTE EN MATERIA PECUARIA, ESTAR DEBIDAMENTE FUNDADAS Y MOTIVADAS.
+
+IV. (DEROGADA, P.O. 8 DE NOVIEMBRE DE 2004)
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+### CAPITULO II. DEL RECURSO ADMINISTRATIVO DE REVOCACION
+
+> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
 
 ###### ARTICULO 254.
 
-LOS RECURSOS QUE INTERPONGAN LOS RESPONSABLES EN CONTRA DE LAS SANCIONES IMPUESTAS, SE TRAMITARAN EN LOS TERMINOS ESTABLECIDOS EN LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO.
+TODO PARTICULAR TIENE DERECHO A SU DEFENSA EN CUALQUIER RESOLUCION ADMINISTRATIVA QUE LE OCASIONE AGRAVIO, EN CONSECUENCIA, CONTRA LOS ACTOS ADMINISTRATIVOS DICTADOS EN MATERIA DE SANIDAD PECUARIA, SE PODRA INTERPONER EL RECURSO ADMINISTRATIVO DE REVOCACION, CONFORME A LO SIGUIENTE:
+
+I. POR RESOLUCIONES DEFINITIVAS DICTADAS POR AUTORIDADES DE LA SECRETARIA DE DESARROLLO RURAL, AUTORIDADES PECUARIAS O AUTORIDADES AUXILIARES QUE:
+
+a. DETERMINEN SANCIONES DERIVADAS DEL EJERCICIO DE FACULTADES DE INSPECCION Y VERIFICACION;
+
+b. AFECTEN EL INTERES JURIDICO DE TERCEROS;
+
+c. SE ALEGUE QUE LA SANCION NO SE ENCUENTRA AJUSTADA A DERECHO.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 255.
+
+EL RECURSO DE REVOCACIÓN PREVISTO EN ESTA LEY, DEBERA PRESENTARSE POR ESCRITO, DENTRO DEL PLAZO DE VEINTE DIAS SIGUIENTES A LA FECHA DE LA NOTIFICACION DEL ACTO QUE SE IMPUGNA, ANTE LA UNIDAD DE APOYO JURIDICO, DE LA SECRETARIA DE DESARROLLO RURAL.
+
+LOS DATOS QUE DEBERA CONTENER EL RECURSO DE REVOCACION SERAN LOS SIGUIENTES:
+
+I. NOMBRE Y DOMICILIO DEL PROMOVENTE Y, EN SU CASO, DE QUIEN LO HAGA EN SU NOMBRE;
+
+II. CITAR LA RESOLUCION QUE SE RECLAMA;
+
+III. SEÑALAR LA AUTORIDAD RESPONSABLE QUE EMITIO LA RESOLUCION;
+
+IV. LOS HECHOS QUE DAN MOTIVO AL RECURSO;
+
+V. LAS PRUEBAS QUE SE OFREZCAN;
+
+VI. LA EXPRESION DE AGRAVIOS QUE LE CAUSE EL ACTO O RESOLUCION IMPUGNADO;
+
+VII. LOS PUNTOS PETITORIOS QUE INTEGRAN EL RECURSO.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 256.
+
+SOLAMENTE EN LOS SIGUIENTES CASOS NO PROCEDERA EL RECURSO ADMINISTRATIVO DE REVOCACION:
+
+I. QUE SEA UN ACTO CONSENTIDO, ENTENDIENDOSE POR CONSENTIMIENTO, EL DE AQUELLOS CONTRA LOS QUE NO SE PROMOVIO EL RECURSO EN EL PLAZO SEÑALADO EN ESTA LEY; Y
+
+II. CUANDO NO SE EXPRESEN LOS CONCEPTOS QUE SE IMPUGNAN, Y QUE DAN ORIGEN AL RECURSO ADMINISTRATIVO DE REVOCACION.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 257.
+
+LA SECRETARIA DE DESARROLLO RURAL, A TRAVES DE LA UNIDAD DE APOYO JURIDICO, SERA LA ENCARGADA DE DICTAR RESOLUCION Y NOTIFICARLA EN UN TERMINO NO MAYOR DE TREINTA DIAS, CONTADOS A PARTIR DE LA FECHA DE INTERPOSICION DEL RECURSO.
+
+> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2004)</small>
+
+###### ARTICULO 258.
+
+EL SENTIDO DE LA RESOLUCION RECAIDO EN EL RECURSO ADMINISTRATIVO DE REVOCACION, PODRA EMITIRSE EN LOS SIGUIENTES TERMINOS:
+
+I. DESECHAR POR IMPROCEDENTE EL RECURSO;
+
+II. CONFIRMAR EL ACTO QUE SE IMPUGNA;
+
+III. DEJAR SIN EFECTOS EL ACTO IMPUGNADO;
+
+IV. MODIFICAR EL ACTO IMPUGNADO O DICTAR UNO NUEVO QUE LO SUSTITUYA, CUANDO EL RECURSO INTERPUESTO SEA TOTAL O PARCIALMENTE RESUELTO A FAVOR DEL RECURRENTE.
 
 T R A N S I T O R I O S
 
-###### ARTÍCULO PRIMERO.
-
-La presente Ley iniciará su vigencia a los quince días siguientes al de su publicación en el Periódico Oficial del Estado.
-
-###### ARTÍCULO SEGUNDO.
-
-Se abroga la Ley Orgánica Municipal, publicada en el Periódico Oficial del Estado de fecha 5 de Agosto de 1982 y se derogan sus posteriores reformas y adiciones.
-
-###### ARTÍCULO TERCERO.
-
-Se abrogan las Bases Normativas para la Expedición de Bandos y Reglamentos Municipales, publicadas en el Periódico Oficial del Estado el 31 de julio de 1986.
-
-###### ARTÍCULO CUARTO.
-
-Los Ayuntamientos deberán expedir el Bando de Gobierno Municipal, los reglamentos y disposiciones administrativas de observancia general, en un plazo no mayor de ciento ochenta días, contado a partir de la vigencia de la presente Ley.
-
-###### ARTÍCULO QUINTO.
-
-Hasta en tanto transcurran los ciento ochenta días, se aplicarán el Bando de Gobierno Municipal, los reglamentos y disposiciones administrativas, vigentes al momento de la entrada en vigor de la presente ley.
-
-###### ARTÍCULO SEXTO.
-
-Para lograr la aplicación de las figuras del referendum, plebiscito e iniciativa popular contenida en artículo 119; hacer operativo el Servicio Civil de Carrera; el funcionamiento del Comité de Obra Pública, Adquisiciones, Enajenaciones, Arrendamientos y contratación de servicios de bienes muebles e inmuebles; los ayuntamientos deberán expedir los reglamentos necesarios respectivos para la regulación de tales figuras jurídicas, en un plazo no mayor de ciento ochenta días, contados a partir de la vigencia de la presente Ley.
-
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
-
-###### ARTÍCULO SÉPTIMO.
-
-Si los ayuntamientos consideran que no están en posibilidad de prestar en forma eficiente el servicio público de tránsito establecido en esta Ley, podrán celebrar convenios con la instancia estatal correspondiente para que lo siga prestando hasta en tanto el municipio cuente con la infraestructura, capacidad y el presupuesto necesarios.
-
-###### ARTÍCULO OCTAVO.
-
-Los recursos interpuestos contra las resoluciones de los Ayuntamientos que se hayan promovido antes de la vigencia de esta Ley, se substanciarán y decidirán conforme a las reglas de la Ley que se abroga.
-
-###### ARTÍCULO NOVENO.
-
-El Congreso del Estado dentro del plazo de un año, contado a partir de la vigencia de la presente Ley, deberá expedir la ley de creación, integración y funcionamiento, del Tribunal de lo Contencioso Administrativo Municipal.
-
-El Ejecutivo del Estado dispondrá se publique y observe.
-
-PALACIO DEL PODER LEGISLATIVO. Morelia, Michoacán, 21 de diciembre de 2001.
-
-DIPUTADO PRESIDENTE.- VICTOR MANUEL VIVANCO MORA.- DIPUTADO SECRETARIO.- SALVADOR PÉREZ MARTÍNEZ.- DIPUTADA SECRETARIA.- MA. IRENE VILLASEÑOR PEÑA. (Firmados).
-
-En cumplimiento a lo dispuesto por la fracción I del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 28 veintiocho días del mes de diciembre del año 2001 dos mil uno.
-
-SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. VÍCTOR MANUEL TINOCO RUBÍ.- EL SECRETARIO DE GOBIERNO.- LIC. JUAN BENITO COQUET RAMOS. (Firmados).
-
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
-
-P.O. 27 DE DICIEMBRE DE 2002.
-
 ###### ARTICULO PRIMERO.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+LA PRESENTE LEY ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
 ###### ARTICULO SEGUNDO.
 
-Se derogan todas las disposiciones legales en lo que se opongan al presente decreto.
+SE ABROGA LA LEY PECUARIA DEL ESTADO DE CHIAPAS PUBLICADA EL 17 DE ENERO DE 1991 Y SUS REFORMAS.
 
-P.O. 13 DE MARZO DE 2003.
+###### ARTICULO TERCERO.
 
-###### ARTÍCULO ÚNICO.
+SE DEROGAN TODAS AQUELLAS DISPOSICIONES QUE SE OPONGAN A LA PRESENTE LEY.
 
-El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+###### ARTICULO CUARTO.
 
-P.O. 1 DE SEPTIEMBRE DE 2003.
+A PARTIR DE LA FECHA DE ENTRADA EN VIGENCIA DE LA PRESENTE LEY, LA SECRETARIA DE AGRICULTURA Y GANADERIA DENTRO DE LOS 90 DIAS SIGUIENTES ELABORARA LOS REGLAMENTOS QUE SE DERIVEN DE LA PRESENTE LEY.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO QUINTO.
 
-Se derogan todas las disposiciones que se opongan al presente Decreto.
+A PARTIR DE LA FECHA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO SE DA UN PLAZO DE 90 DIAS PARA QUE SE INTEGRE LA COMISION ESTATAL DE CLASIFICACION DEL GANADO Y CARNES.
 
-P.O. 22 DE ENERO DE 2008.
+###### ARTICULO SEXTO.
 
-Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
+EL EJECUTIVO DEL ESTADO DISPONDRA SE PUBLIQUE, CIRCULE Y SE LE DE EL DEBIDO CUMPLIMIENTO.
 
-P.O. 28 DE FEBRERO DE 2008.
+DADO EN EL SALON DE SESIONES DEL H. CONGRESO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS 17 DIAS DEL MES DE DICIEMBRE DE 1996.- D. P. C. JORGE MARIO LESCIEUR TALAVERA.- D. S. C. SALVADOR QUEVEDO RAMOS.- RUBRICAS.
 
-###### ARTÍCULO ÚNICO.
+DE CONFORMIDAD CON LA FRACCION I DEL ARTICULO 42 DE LA CONSTITUCION POLITICA LOCAL Y PARA SU OBSERVANCIA, PROMULGO EL PRESENTE DECRETO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO, EN LA CIUDAD DE TUXTLA GUTIERREZ, CHIAPAS, A LOS DIECISIETE DIAS DEL MES DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y SEIS.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+JULIO CESAR RUIZ FERRO.- GOBERNADOR DEL ESTADO.- ERACLIO ZEPEDA RAMOS.- SECRETARIO DE GOBIERNO.- ING. ROBERTO COUTIÑO COUTIÑO.- SECRETARIO DE AGRICULTURA Y GANADERIA.- RUBRICAS.
 
-P.O. 21 DE MAYO DE 2009.
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
-Único. El presente decreto entrará en vigor al día siguiente al de su publicación, en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+P.O. 7 DE NOVIEMBRE DE 2001.
 
-P.O. 5 DE MAYO DE 2010.
+###### ARTICULO PRIMERO.
 
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado Michoacán de Ocampo.
+LAS REFORMAS, DEROGACIONES Y ADICIONES A LA LEY PECUARIA, PREVISTAS EN EL PRESENTE DECRETO, ENTRARAN EN VIGOR AL SIGUIENTE DIA DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-P.O. 24 DE MAYO DE 2011.
+###### ARTICULO SEGUNDO.
 
-###### ARTÍCULO ÚNICO.
+SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+###### ARTICULO TERCERO.
 
-P.O. 11 DE NOVIEMBRE DE 2011.
+A PARTIR DE LA FECHA DE ENTRADA EN VIGENCIA DEL PRESENTE DECRETO, LA SECRETARIA DE DESARROLLO RURAL DENTRO DE LOS 90 DIAS SIGUIENTES ELABORARA LOS REGLAMENTOS QUE SE DERIVEN DE LA PRESENTE LEY.
 
-###### ARTÍCULO ÚNICO.
+P.O. 8 DE NOVIEMBRE DE 2004.
 
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+###### ARTICULO PRIMERO.
 
-P.O. 28 DE DICIEMBRE DE 2011.
+EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
 
-DECRETO NÚMERO, 384 POR EL QUE SE ADICIONA UNA FRACCIÓN XVI BIS AL ARTÍCULO 32, APARTADO A), DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
+###### ARTICULO SEGUNDO.
 
-PRIMERO. El presente Decreto entrará en vigor el día 1° primero de enero del 2012, dos mil doce, y previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-P.O. 28 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 419, POR EL QUE SE REFORMAN LOS ARTÍCULOS 60, 61, 62, 63 Y 65; Y SE ADICIONAN LOS ARTÍCULOS 3° BIS Y 61 BIS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Los Jefes de Tenencia que en la fecha de instalación de los Ayuntamientos electos para el periodo 2012-2015 no hayan cumplido el periodo indicado en el artículo 62 de esta Ley, por única ocasión continuarán en el cargo hasta su cumplimiento.
-
-###### ARTÍCULO TERCERO.
-
-Los Jefes de Tenencia y encargados del orden terminarán su encargo el mismo día que el Ayuntamiento en funciones, debiendo permanecer en el mismo hasta que el nuevo Ayuntamiento realice la sustitución correspondiente.
-
-P.O. 13 DE ENERO DE 2012.
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto a los ayuntamientos del Estado para que emitan el resultado de su votación, en los términos de la fracción IV del Artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Una vez aprobado el presente Decreto por la mayoría de los ayuntamientos, notifíquese al Titular del Poder Ejecutivo del Estado para su conocimiento y publicación respectiva en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-###### ARTÍCULO SEGUNDO.
-
-Las iniciativas de ley de ingresos municipales para el ejercicio fiscal 2004, deberán presentarse, por esta única vez, ante el Congreso del Estado, a más tardar el catorce de septiembre del presente año.
-
-P.O. 8 DE DICIEMBRE DE 2005.
-
-Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
-
-Artículo Segundo.- Los ayuntamientos que a la fecha de entrada en vigor del presente Decreto no hayan constituido sus organismos de participación ciudadana, contarán con el término de novena (sic) días naturales para el efecto.
-
-Artículo Tercero.- Remítase el Decreto a los ayuntamientos del Estado, para su conocimiento.
-
-P.O. 8 DE NOVIEMBRE DE 2006.
-
-Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-Artículo Segundo. Los Ayuntamientos de la entidad expedirán el Reglamento del Consejo Municipal de la Crónica, en un plazo no mayor de ciento ochenta días, contados a partir de la vigencia del presente Decreto.
-
-P.O. 13 DE FEBRERO DE 2007.
-
-ÚNICO.- El Presente Decreto, entrará en vigor al día siguiente, previa publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 12 DE MARZO DE 2007.
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-P.O. 7 DE AGOSTO DE 2007.
-
-Primero. El presente decreto entrará en vigor el 1º de enero del año 2008.
-
-Segundo. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado Libre y Soberano de Michoacán de Ocampo.
-
-P.O. 23 DE AGOSTO DE 2007.
-
-PRIMERO.- El presente Decreto entrará en vigor el día 30 de noviembre de 2007, previa su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-SEGUNDO.- Los asuntos en trámite a la entrada en vigor del presente Decreto continuarán sustanciándose conforme a la legislación con la que se iniciaron.
-
-P.O. 21 DE NOVIEMBRE DE 2007.
-
-###### ARTÍCULO PRIMERO.
-
-El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
-
-> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
-
-###### ARTÍCULO SEGUNDO.
-
-En lo referente al Instituto Electoral de Michoacán y Tribunal Electoral del Estado, tendrá aplicación a partir de que el Gobernador electo, diputados electos, presidentes, síndicos y regidores municipales, respectivamente, tomen posesión de sus cargos.
-
-> <small>(F. DE E., P.O. 13 DE DICIEMBRE DE 2007)</small>
+SE DEROGAN LAS DISPOSICIONES QUE SE OPONGAN AL PRESENTE DECRETO.
