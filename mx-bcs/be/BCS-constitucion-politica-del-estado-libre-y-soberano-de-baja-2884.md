@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2002-02-06"
+last_updated: "2002-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE MARZO DE 2002.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -949,9 +949,9 @@ V.- No haber sido condenado por delitos del fuero común intencionales, u oficia
 
 85.-
 
-> <small>(ADICIONADO [N. DE E. ANTES PRIMER PARRAFO], B.O. 10 DE ABRIL DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE MARZO DE 2002)</small>
 
-A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Judicial, en los términos de su ley orgánica.
+A.- El Ministerio Público estará a cargo del Procurador General de Justicia, de Agentes del Ministerio Público y de la Policía Ministerial, en los términos de su ley orgánica.
 
 Son atribuciones del Ministerio Público:
 
@@ -1269,7 +1269,7 @@ d).- Municipio de Los Cabos: al Norte, en línea quebrada con la Delegación de 
 
 > <small>(ADICIONADO, B.O. 20 DE AGOSTO DE 1992)</small>
 
-e).- MUNICIPIO DE LORETO: al norte, colinda con el Municipio de Mulegé, con la línea que partiendo de la punta de San Ildefonso conocida también como Punta Pulpito, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como Cerrito de la Pitahaya o del Pilón situada al sureste del Rancho Santa Rosalillita; de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, que es el límite también con el Municipio de Comondú; al sur colinda con el Municipio de Comondú con una línea que parte del Golfo de California, del lugar conocido como Ensenada el Cochi, hasta llegar al Cerro las Chivas con rumbo noroeste, que colinda también con el Municipio de Comondú; por el este, colinda con el litoral del Golfo de California y por el oeste colinda con el Municipio de Comondú, en línea quebrada de siete tramos que a continuación se describen:
+e).- MUNICIPIO DE LORETO: al norte, colinda con el Municipio de Mulegé, con la línea que partiendo de la punta de San Ildelfonso conocida también como Punta Pulpito, situada en el extremo sur de la Bahía de San Nicolás, sigue con rumbo noroeste hasta el punto conocido como Cerrito de la Pitahaya o del Pilón situada al sureste del Rancho Santa Rosalillita; de aquí con rumbo oeste hasta llegar al cruce de la carretera transpeninsular y el Arroyo Cadeje, que es el límite también con el Municipio de Comondú; al sur colinda con el Municipio de Comondú con una línea que parte del Golfo de California, del lugar conocido como Ensenada el Cochi, hasta llegar al Cerro las Chivas con rumbo noroeste, que colinda también con el Municipio de Comondú; por el este, colinda con el litoral del Golfo de California y por el oeste colinda con el Municipio de Comondú, en línea quebrada de siete tramos que a continuación se describen:
 
 En el primer tramo, donde inicia una línea del cruce de la carretera transpeninsular y el Arroyo Cadeje con rumbo sureste, hasta llegar al Cerro de los Panales, situado al oeste de la Ranchería el Palo Blanco, que pertenece a la Municipalidad de Loreto y al norte de la Palmita perteneciente a la Municipalidad de Comondú, de este punto en el siguiente tramo en una línea con rumbo sureste hasta llegar al Cerro de Santo Tomás, que se ubica al noroeste del rancho del mismo nombre, perteneciendo al Municipio de Comondú; el siguiente tramo parte de una línea de este punto con rumbo noreste hasta llegar al Cerro Prieto, que se ubica al sur de Agua Verde, ambos, pertenecientes al Municipio de Loreto, de este punto el siguiente tramo sigue en rumbo sureste hasta llegar al Cerro Blanco ubicado al suroeste de la Bahía y Rancho Santa Martha, pertenecientes al Municipio de Loreto y al noreste de San José de la Noria, pertenecientes al Municipio de Comondú; el siguiente tramo inicia en este punto de donde sigue una línea con rumbo sureste hasta llegar al Cerro de los Berrendos, ubicado al oeste del rancho El Carrizalito y la Punta San Mateo, pertenecientes a la Municipalidad de Loreto; el siguiente tramo inicia en este punto, en una línea con rumbo sureste hasta el Cerro de las Chivas, ubicado al suroeste de Tembabiche y el último tramo inicia en este punto, con línea suroeste en el cruce del litoral del Golfo de California en el punto denominado Ensenada El Cochi.
 
@@ -1727,7 +1727,7 @@ El procedimiento a que se refiere el presente Artículo solo podrá iniciarse du
 
 > <small>(REFORMADO, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
-159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158 por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
+159.- Para proceder penalmente contra los servidores públicos, a que se refiere el párrafo primero del Artículo 158, por la comisión de delitos cometidos durante el tiempo de su encargo, el Congreso del Estado declarará por mayoría de votos de sus miembros presentes en Sesión, si ha lugar o no a proceder contra el inculpado, con las siguientes prevenciones:
 
 I.- Si la resolución del Congreso fuese negativa, se suspenderá todo el procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el acusado haya concluido el ejercicio de su encargo, pues dicha resolución no prejuzga los fundamentos de la imputación.
 
@@ -2338,3 +2338,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 En tanto se expidan las disposiciones legales, reglamentarias y acuerdos generales a que se refieren los preceptos Constitucionales que se reforman por el presente Decreto, seguirán aplicándose las vigentes al entrar en vigor las reformas, en lo que no se opongan a éstas.
+
+B.O. 10 DE MARZO DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Boletín oficial del Gobierno del Estado de Baja California Sur.
