@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-civil-del-estado-de-zacatecas-8277"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-24"
-last_updated: "1995-06-07"
+last_updated: "1996-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 CODIGO CIVIL DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1996.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de mayo de 1986.
 
@@ -1583,7 +1583,7 @@ II.- En cinco años cuando la posesión sea de mala fe.
 
 462.- La posesión adquirida por medio de un delito se tendrá en cuenta para la prescripción, a partir de la fecha en que haya quedado extinguida la pena o prescrita la acción penal, considerándose siempre dicha posesión como de mala fe.
 
-463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
+463.- El que hubiere poseído derechos reales sobre bienes muebles e inmuebles por el tiempo y las condiciones exigidas por este Código, puede adquirirlos por prescripción promoviendo juicio contra el que aparezca como propietario de esos bienes en el Registro Público, a fin de que se declare que la prescripción se ha consumado y que ha adquirido por ende la propiedad. Si no está en el caso de deducir la acción contradictoria de referencia, podrá demostrar ante el Juez competente que ha tenido esa posesión, rindiendo la información respectiva la que se recibirá de acuerdo con las reglas que al efecto señala el Código de Procedimientos Civiles vigente en el Estado.
 
 464.- La sentencia ejecutoria que declare procedente la acción de prescripción se inscribirá en el Registro Público y servirá de Título de propiedad al poseedor.
 
@@ -2359,7 +2359,7 @@ Si el testador no puede o no sabe leer, dictará en su idioma el testamento a un
 
 744.- Si no pudieren comparecer todos los testigos por muerte, enfermedad, ausencia o cualquier otra causa, bastará el reconocimiento de la mayor parte, siempre que vaya acompañado del reconocimiento del Notario.
 
-745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte de los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
+745.- Si por igual causa no pudieren comparecer el Notario, la mayor parte del los testigos o ninguno de ellos, el Juez lo hará constar así por información como también la autenticidad de las firmas y que en la fecha que lleva el testamento se encontraban aquéllos en el lugar que éste se otorgó.
 
 746.- En todo caso, los que comparecieren reconocerán sus firmas.
 
@@ -2805,7 +2805,7 @@ El albacea que no presente la proposición de que se trata, o que durante dos bi
 
 902.- Son nulas las disposiciones por las que el testador dispensa al albacea de la obligación de hacer inventario y avalúo o de rendir cuentas.
 
-903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su costa, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
+903.- Las cuentas deben ser aprobadas por todos los herederos; el que disienta podrá seguir, a su consta, el incidente o juicio respectivo, según se trate de cuenta de mera administración o de cuenta general de albaceazgo.
 
 904.- Cuando sea heredero el Estado, alguna institución pública educativa, o los herederos fueren incapaces, ausentes o desconocidos, intervendrá el Ministerio Público en la aprobación de las cuentas.
 
@@ -4247,7 +4247,9 @@ Si se han designado varios lugares para hacer el pago, el acreedor puede elegir 
 
 1406.- Si el deudor no hiciere la referida declaración se entenderá hecho el pago por cuenta de la deuda que le fuere más onerosa, entre las vencidas. En igualdad de circunstancias, se aplicará a la más antigua, y siendo todas de la misma fecha, se distribuirá entre todas ellas a prorrata.
 
-1407.- Las cantidades pagadas a cuenta de deudas con interés, no se imputarán al capital mientras hubiere intereses vencidos y no pagados, salvo pacto en contrario.
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 1996)</small>
+
+1407.- Las cantidades pagadas a cuenta de deudas con interés, se aplicarán: cincuenta por ciento a capital y cincuenta por ciento a intereses vencidos si los hubiere, salvo pacto en contrario. Si el pago parcial se hiciere cuando el deudor ya ha sido demandado en la vía judicial, y si no hubiere condena líquida en el pago de intereses, éste se aplicará a capital.
 
 1408.- La obligación queda extinguida cuando el acreedor recibe en pago un bien distinto en lugar del debido.
 
@@ -6543,7 +6545,9 @@ En este caso, se observará lo dispuesto por los dos artículos anteriores.
 
 ### CAPITULO SEGUNDO. DE LA RENTA VITALICIA
 
-2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
+2175.- La renta vitalicia es un contrato aleatorio por el cual el deudor se obliga a pagar periódicamente una pensión durante la vida de una o más personas determinadas, mediante la
+
+entrega de una cantidad de dinero o de un bien mueble o raíz estimados, cuyo dominio se le transfiere desde luego.
 
 2176.- La renta vitalicia puede también constituirse a título puramente gratuito, sea por donación o por testamento.
 
@@ -7815,7 +7819,7 @@ III.- Un plano de la ubicación y localización del bien expedido y aprobado por
 
 IV.- Opinión del Ayuntamiento Municipal del lugar de ubicación del inmueble;
 
-V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes:
+V.- Si se trata de predios rústicos se acompañará además, certificados del Registro Agrario Nacional y de la Dirección de Fraccionamientos del Gobierno del Estado, para acreditar que el o los inmuebles no se encuentran sujetos a las leyes correspondientes;
 
 El juez que conozca del asunto solicitará directamente los certificados a que se refiere la fracción V, y las autoridades competentes los expedirán en un término no mayor de treinta días naturales contados a partir del día siguiente en que conste fue recibido el oficio de solicitud. Transcurrido el término sin que se hayan expedido, se tendrá por contestado en sentido negativo.
 
@@ -8046,3 +8050,9 @@ El presente decreto entrará en vigor al día siguientes (sic) de su publicació
 P.O. 7 DE JUNIO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1996.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+SEGUNDO.- Los juicios de competencia local o concurrente que se hayan iniciado con anterioridad a la fecha de inicio de vigencia del presente Decreto se regirán por las normas vigentes a la fecha de su inicio.
