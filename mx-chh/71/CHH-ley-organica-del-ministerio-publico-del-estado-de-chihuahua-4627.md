@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-ministerio-publico-del-estado-de-chihuahua-462
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-01-08"
-last_updated: "2004-10-02"
+last_updated: "2005-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4627&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGANICA DEL MINISTERIO PUBLICO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 8 de enero de 1992.
 
@@ -195,9 +195,11 @@ X.- Los Agentes y Subagentes del Ministerio Público Investigadores, así como l
 
 Los servidores públicos titulares de las unidades orgánicas a que se refiere este Artículo, son Agentes del Ministerio Público para todos los efectos legales que corresponda y ejercerán, en todo caso, las facultades que expresamente les sean conferidas por el Procurador.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 5o.
 
-La Procuraduría contará, además, con las oficinas de apoyo técnico y administrativo, la Academia Estatal de Policía y demás personal que sea necesario para el ejercicio de las funciones de su competencia que fije el reglamento de esta Ley, tomando en cuenta las previsiones presupuestales.
+La Procuraduría contará, además, con las oficinas de apoyo técnico y administrativo y demás personal que sea necesario para el ejercicio de las funciones de su competencia que fije el reglamento de esta Ley, tomando en cuenta las previsiones presupuestales.
 
 ###### ARTICULO 6o.
 
@@ -371,19 +373,7 @@ II.- Las demás funciones que les asignen otra (sic) disposiciones legales o reg
 
 ###### ARTICULO 18.
 
-Compete a la Academia Estatal de Policía:
-
-> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2004)</small>
-
-I.- Establecer e impartir cursos de formación básica, de actualización, de especialización, de investigación De criminología, criminalística, Derecho Penal y Garantías Individuales, para elementos de la policía al mando del ministerio público y de otros órganos de seguridad pública;
-
-II.- Asesorar a personas y organismos públicos y privados que lo soliciten y tener participación consultiva den (sic) el estudio, la formulación y la aplicación de medidas colectivas en el ámbito de su especialidad, de acuerdo con los lineamientos que establezca el consejo académico;
-
-III.- Sostener relaciones de intercambio, consejo y promoción con organismos similares nacionales y extranjeros;
-
-IV.- Organizar eventos como conferencias, seminarios y congresos, para el estudio de las ciencias penales y técnicas de prevención e investigación de delitos, realizando publicaciones para la difusión de estos aspectos; y
-
-V.- Las demás funciones que le asignen otras disposiciones legales.
+(DEROGADO, P.O. 19 DE ENERO DE 2005)
 
 ### CAPITULO CUARTO. DE LOS NOMBRAMIENTOS, REMOCIONES Y SUPLENCIAS
 
@@ -425,9 +415,9 @@ Además de los requisitos anteriores, los Coordinadores de Región y los Agentes
 
 Los Subagentes del Ministerio Público deberán satisfacer iguales exigencias a las señaladas para los Agentes del Ministerio Público, pero se podrán dispensar los requisitos de las fracciones IV y V cuando las necesidades del servicio así lo ameriten.
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
-Para ser Agente Investigador de la Policía al mando del ministerio público se deben reunir los requisitos previstos en las fracciones I y II y haber egresado de la Academia Estatal de Policía.
+Para ser Agente Investigador de la Policía al mando del Ministerio Público, se deben reunir los requisitos previstos en las fracciones I y II y haber egresado del Instituto de Profesionalización Policial dependiente de la Secretaría de Seguridad Pública Estatal.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -602,3 +592,17 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 2 DE OCTUBRE DE 2004.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE ENERO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
