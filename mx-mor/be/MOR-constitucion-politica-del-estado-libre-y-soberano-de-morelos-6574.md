@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1932-10-16"
+last_updated: "1933-11-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1932.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 12 DE NOVIEMBRE DE 1933.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -176,7 +176,7 @@ V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la for
 
 > <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 1932)</small>
 
-VI.- El que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
+VI.- Es que esté residiendo habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo.
 
 ###### Artículo 18.
 
@@ -200,7 +200,7 @@ DE LOS PODERES PUBLICOS.
 
 DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1932)</small>
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1933)</small>
 
 ###### Artículo 20.
 
@@ -220,7 +220,7 @@ DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
 ###### Artículo 23.
 
-El Poder Legislativo se deposita en una asamblea que se denomina "Congreso del Estado de Morelos", compuesta de representantes designados en su totalidad cada tres años, en elección popular directa, en los términos que disponga la Ley, y no podrán ser reelectos para el período inmediato, ni aun por distinto Distrito.
+El Poder Legislativo se deposita en una asamblea denominada "CONGRESO DEL ESTADO DE MORELOS", compuesto de representantes designados en su totalidad cada tres años, en elección popular directa en los términos que disponga la Ley, y no podrán ser reelectos para el período inmediato ni aún por distinto distrito. Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
 ### CAPITULO III.
 
@@ -580,9 +580,11 @@ II.- Haber cumplido treinta años de edad.
 
 III.- Residir habitualmente en el territorio del Estado dos años inmediatamente anteriores a la elección.
 
+> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+
 ###### Artículo 59.
 
-La elección del Gobernador será popular directa, en los términos que disponga la Ley; entrará a ejercer sus funciones el día 18 de Mayo posterior a las elecciones, durará en su encargo cuatro años y no podrá ser reelecto para el período inmediato.
+La elección de Gobernador será popular directa, en los términos que disponga la Ley; entrará a ejercer sus funciones el día 18 de mayo posterior a las elecciones y durará en su encargo cuatro años.
 
 ###### Artículo 60.
 
@@ -595,6 +597,16 @@ II.- Los miembros del Ejército Nacional y quienes tengan mando de fuerza en el 
 III.- Los que tengan algún cargo o comisión civil del Gobierno Federal, si no se han separado noventa días inmediatamente anteriores a la elección.
 
 IV.- El Secretario General de Gobierno, el Procurador General de Justicia, los Magistrados del Tribunal Superior y el Director General de Rentas, si no se separan de sus respectivas funciones noventa días antes del señalado para la elección.
+
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+
+V.- Los Gobernadores del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo, ni aún con carácter de interinos, provisionales, substitutos o encargados del despacho.
+
+Nunca podrán ser electos para el período inmediato:
+
+a). El Gobernador Substituto constitucional o el designado para concluir el período, en caso de falta absoluta del constitucional, aún cuando sea con distinta denominación.
+
+b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.
 
 ###### Artículo 61.
 
@@ -1038,6 +1050,10 @@ II.- Tener dos años de residencia en el Municipio o en la población en que deb
 
 III.- Saber leer y escribir.
 
+> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 1933)</small>
+
+IV.- Los Presidentes Municipales regidores y síndicos del Ayuntamiento, electos popularmente por elección directa, no podrán ser reelectos para el período inmediato. Las personas que por elección indirecta o por nombramiento o designación de alguna autoridad desempeñen funciones propias de estos cargos, cualquiera que sea la denominación que se les dé, no podrán ser electos para el período inmediato. Todos los funcionarios antes mencionados, cuando tengan el carácter de propietarios, no podrán ser electos para el período inmediato, con el carácter de suplentes; pero los que tengan el carácter de suplentes, si podrán ser electos para el período inmediato como propietarios a menos que hayan estado en ejercicio.
+
 ###### Artículo 117.
 
 No podrán ser miembros de un Ayuntamiento o ayudantes Municipales:
@@ -1267,5 +1283,9 @@ LUIS G. CAMPO.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS A LOS DECRETOS DE REFORMA A LA PRESENTE CONSTITUCION.</small>
 
 P.O. 16 DE OCTUBRE DE 1932.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
+
+P.O. 12 DE NOVIEMBRE DE 1933.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS.
