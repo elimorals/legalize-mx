@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "2002-02-14"
+last_updated: "2002-05-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE MAYO DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1927,9 +1927,11 @@ El sobreseimiento puede decretarse de oficio o a petición de parte, en los caso
 
 El sobreseimiento se resolverá de plano cuando se decrete de oficio. Si fuere a petición de parte, se tramitará por separado y en forma de incidente no especificado.
 
+> <small>(REFORMADO, G.O. 22 DE MAYO DE 2002)</small>
+
 ###### ARTICULO 281.
 
-No podrá dictarse auto de sobreseimiento después de que hayan sido formuladas conclusiones por el Ministerio Público, excepto en los casos a que se refieren las fracciones I y II del artículo 277.
+No podrá dictarse auto de sobreseimiento después de que hayan sido formuladas conclusiones por el Ministerio Público, excepto en los casos a que se refieren las fracciones I, II y III del artículo 277 del Código de Procedimientos Penales.
 
 ###### ARTICULO 282.
 
@@ -3076,3 +3078,9 @@ G.O. 14 DE FEBRERO DE 2002.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 Segundo. Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el órgano oficial del gobierno del estado.
+
+G.O. 22 DE MAYO DE 2002.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+SEGUNDO. Remítase al ciudadano Gobernador del Estado par su promulgación y publicación.
