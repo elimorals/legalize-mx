@@ -1,0 +1,644 @@
+---
+title: "LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS"
+identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
+country: "mx"
+rank: "ley"
+publication_date: "1968-01-03"
+last_updated: "1968-01-03"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-mor"
+scjn_id: "7153"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "2316"
+reform_count: "8"
+scjn_last_update: "2026-05-27"
+issue_date: "1967-12-21"
+state: "MOR"
+---
+# LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
+
+LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
+
+TEXTO ORIGINAL.
+
+Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
+
+Al margen izquierdo un sello con el escudo nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
+
+EMILIO RIVA PALACIO MORALES, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+
+Que el H. Congreso del Estado se ha servido enviarme para su promulgación lo siguiente:
+
+LA H. XXXVI LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN USO DE LA FACULTAD QUE LE CONFIERE LA FRACCION II DEL ARTICULO 40 DE LA CONSTITUCION POLITICA LOCAL, HA TENIDO A BIEN EXPEDIR LA
+
+LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
+
+Reglamentaria de los Artículos 4° y 5° de la Constitución General de la República.
+
+### CAPITULO I. NORMAS GENERALES
+
+###### ARTICULO 1°.
+
+La presente ley será aplicable en el Estado de Morelos en los negocios del fuero común.
+
+En los asuntos del orden federal, regirá sólo con respecto a los casos exceptuados en la Ley Reglamentaria de los Artículos 4° y 5° constitucionales, relativos al Ejercicio de las Profesiones en el Distrito y Territorios Federales y en toda la República en materia federal, así como en los negocios de jurisdicción concurrente de que conozca la autoridad local.
+
+###### ARTICULO 2°.
+
+Para el ejercicio profesional en el Estado de Morelos deberán cumplirse todas las condiciones que fija esta Ley.
+
+La Oficina de Profesiones que se establezca vigilará su acatamiento y atenderá las labores de los colegios de profesionales.
+
+###### ARTICULO 3°.
+
+Las autoridades y los particulares, las sociedades y las instituciones públicas, antes de otorgar un nombramiento o de conceder una comisión para desempeñar las labores comprendidas en este ordenamiento, se cerciorarán de que la persona por designar tenga título legalmente expedido, de acuerdo con estas disposiciones y su reglamento.
+
+###### ARTICULO 4°.
+
+El mismo procedimiento a que se refiere el precepto anterior, deberá seguirse con los peritos y auxiliares de la administración de justicia, así como con todo individuo que preste servicios profesionales a otro.
+
+###### ARTICULO 5°.
+
+La sujeción a los deberes que determinan esta ley y su reglamento, no excluye a los profesionales de obedecer las obligaciones que les impongan otras reglas de carácter jurídico, en lo que no se opongan a aquéllos.
+
+### CAPITULO II. PROFESIONES QUE REQUIEREN TITULO PARA SU EJERCICIO
+
+###### ARTICULO 6°.
+
+Para los efectos legales, título profesional es el documento otorgado por una institución docente legalmente autorizada, en beneficio de la persona que ha demostrado tener hechos los estudios requeridos por la Ley y haber sido aprobado en el examen profesional que sustente.
+
+###### ARTICULO 7°.
+
+Requieren título para su ejercicio las profesiones siguientes:
+
+Actuario.
+
+Astrónomo.
+
+Arquitecto.
+
+Antropólogo, en sus seis carreras: arqueología, antropología, física, lingüística, etnología, antropología social y etnohistoria.
+
+Bacteriólogo.
+
+Biólogo.
+
+Cirujano Dentista.
+
+Contador Público.
+
+Corredor.
+
+Enfermera.
+
+Físico.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 1968)</small>
+
+Ingeniero en sus distintas categorías: agronomía, civil, topografía, hidráulica, mecánica, electricista, forestal, municipal, sanitaria, minería, metalurgia, petrolera, química y las demás que incluyen o abarquen los programas de estudios de la Universidad Autónoma de Morelos, la Universidad Autónoma de México, el Instituto Politécnico Nacional y las Universidades e Institutos de los Estados.
+
+Licenciado en Derecho, en Economía, en Administración de Empresas, en Ciencias Políticas y Administración Pública.
+
+Marino en sus diversas ramas.
+
+Médico Cirujano.
+
+Médico veterinario zootecnista.
+
+Maestro o doctor en ciencias y filosofía y letras.
+
+Notario.
+
+Partera.
+
+Piloto Aviador.
+
+Profesor de educación pre-escolar, primaria y secundaria.
+
+Químico, químico Farmacéutico biólogo, químico metalurgista, químico zimólogo y químico bacteriólogo y parasitólogo, así como otras ramas de esta materia.
+
+Sociólogo.
+
+Trabajador social.
+
+###### ARTICULO 8°.
+
+Asimismo, se requiere título para ejercer las profesiones que se consideren dentro de los planes de estudio de las escuelas superiores, técnicas o universitarias, oficiales o reconocidas oficialmente, como carreras completas. Estas profesiones serán determinadas por los reglamentos expedidos por el Poder Ejecutivo, en coordinación con los programas de dichos centros educativos.
+
+###### ARTICULO 9°.
+
+El Poder Ejecutivo expedirá los reglamentos de esta ley que deslinden el ejercicio de las profesiones, así como de sus especialidades, y fijen el campo de sus respectivas actividades, previa opinión de los colegios de profesionistas que formularán ante la Oficina de Profesiones.
+
+###### ARTICULO 10.
+
+Para poder ejercer una o diversas especialidades profesionales, será indispensable la autorización de la Oficina de Profesiones creada por este ordenamiento. La aprobación se otorgará cuando la persona interesada demuestre poseer título relativo a una profesión, de acuerdo con lo ordenado en la presente Ley, y haber efectuado estudios particulares de perfeccionamiento de alguno o algunas ramas de la misma.
+
+### CAPITULO III. REQUISITOS QUE DEBERAN SATISFACERSE PARA OBTENER UN TITULO
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 1968)</small>
+
+###### ARTICULO 11.
+
+Podrá adquirir un título profesional la persona que cumpla con las condiciones siguientes: cursar y ser aprobada en los estudios de educación primaria, secundaria o prevocacional, preparatoria o vocacional, normales y profesionales en los grados y términos que establecen los planes y programas escolares y la Ley Orgánica de la Educación Pública, la Ley de la Universidad Autónoma de Morelos y la demás legislación de instrucción superior.
+
+Antes de otorgar un título al interesado, éste deberá comprobar que prestó un servicio social, de conformidad con los planes de estudio del plantel profesional respectivo y las disposiciones de este ordenamiento.
+
+###### ARTICULO 12.
+
+Las escuelas o instituciones dedicadas a impartir la enseñanza superior y profesional se organizarán sobre las bases generales siguiente (sic):
+
+a).- Para el ingreso a las mismas, será indispensable haber cursado íntegramente la educación vocacional o el bachillerato universitario;
+
+b).- Los planes de estudio, programas o métodos de enseñanza para las escuelas vocaciones, preparatorias y profesionales se formularán enlazándolos sistemáticamente y progresivamente;
+
+c).- Proporcionarán a los educandos los conocimientos científicos teóricos relacionados con el grado académico que cursen y aplicarán dichas enseñanzas en forma práctica para su mejor comprensión;
+
+d).- Instruirán a los estudiantes en sus deberes éticos y sociales y en sus obligaciones y derechos jurídicos vinculados con las actividades técnicas, científicas o artísticas de la profesión de que se trate, con el fin de darle a ésta un sentido social;
+
+e).- Organizarán el servicio social a que se refiere el artículo anterior; y,
+
+f).- Deberán poseer edificio adecuado; disponer de eficaces medios auxiliares de enseñanza y experimentación y tener el número ajustado de profesores debidamente remunerados, procurando que la mayoría sean maestros e investigadores de tiempo completo.
+
+### CAPITULO IV. INSTITUCIONES AUTORIZADAS PARA EXPEDIR TITULOS
+
+PRIMERA PARTE
+
+TITULOS EXPEDIDOS EN EL ESTADO DE MORELOS
+
+###### ARTICULO 13.
+
+Se reconocen como planteles de enseñanza preparatoria, vocacional y profesional, de las profesiones enumeradas en los artículos 7° y 8° de esta Ley, los siguientes:
+
+I.- Las escuelas, facultades e institutos de la Universidad Autónoma del Estado de Morelos;
+
+II.- Las Universidades, escuelas y demás institutos profesionales dependientes del Gobierno del Estado o de la Federación, dentro del territorio de la Entidad; y
+
+III.- Las universidades, escuelas e institutos que hayan obtenido reconocimiento o autorización oficial del Poder Ejecutivo del Estado de Morelos.
+
+Sólo las instituciones a que se refieren las fracciones anteriores, están autorizadas para expedir títulos profesionales, con arreglo a sus respectivos estatutos y a los requisitos de la presente ley.
+
+SEGUNDA PARTE
+
+TITULOS EXPEDIDOS EN OTRAS ENTIDADES DE LA REPUBLICA
+
+###### ARTICULO 14.
+
+Los títulos expedidos en el Distrito y Territorios Federales deberán reunir los requisitos de los artículos 10 y 11 de su propia Ley Reglamentaria de los Artículos 4° y 5° Constitucionales.
+
+###### ARTICULO 15.
+
+Los títulos profesionales expedidos por las autoridades de una entidad de la Federación, serán respetados en el Estado de Morelos, conforme a la fracción V del artículo 121 de la Constitución General de la República.
+
+También serán válidos los títulos expedidos por instituciones de educación superior, siempre que su otorgamiento se haya ceñido a las leyes respectivas del Estado donde funcionen.
+
+###### ARTICULO 16.
+
+Para los efectos de los dos preceptos anteriores, la Oficina de Profesiones exigirá al interesado la demostración de que en la entidad respectiva se cumplió con la ley reglamentaria de los artículos 4° y 5° de la Constitución General de la República; y en el caso de que no exista dicho ordenamiento, deberá probarse:
+
+I.- La existencia del plantel;
+
+II.- La identidad del profesionista;
+
+III.- Haber cursado y aprobado los estudios primarios, secundarios, preparatorios o normales y los profesionales; y
+
+IV.- El documento que acredite que fue aprobado en el examen profesional correspondiente.
+
+###### ARTICULO 17.
+
+Por ningún concepto se registrarán títulos, ni se revalidarán estudios, expedidos en las entidades de la Federación, que no cuenten con instituciones de educación superior y profesional.
+
+TERCERA PARTE
+
+TITULOS EXPEDIDOS EN EL EXTRANJERO
+
+###### ARTICULO 18.
+
+Ningún extranjero podrá ejercer en el Estado de Morelos las profesiones que son objeto de esta Ley.
+
+Los mexicanos por naturalización que hubieren hecho todos los estudios superiores en los planteles que autoriza este ordenamiento, quedarán en igualdad de condiciones, para el ejercicio profesional, a los mexicanos por nacimiento.
+
+###### ARTICULO 19.
+
+Los títulos expedidos a mexicanos en el extranjero tendrán validez en el Estado de Morelos una vez satisfechos los requisitos del artículo 17 de la Ley Reglamentaria de los Artículos 4° y 5° de la Constitución General de la República, en el Distrito y Territorios Federales, y serán registrados en la Oficina de Profesiones.
+
+###### ARTICULO 20.
+
+Unicamente en casos excepcionales podrá la Oficina de Profesiones, previo acuerdo del C. Gobernador del Estado y de conformidad con el colegio respectivo y cumplidas las condiciones que establece esta ley, conceder permisos temporales para ejercer alguna profesión de las comprendidas en este ordenamiento, a los profesionales extranjeros residentes en México, que comprueben ser víctimas en su país de persecusiones políticas.
+
+###### ARTICULO 21.
+
+Los extranjeros que posean título de cualquiera de las profesiones que abarcan estas normas, sólo podrán:
+
+a).- Ser profesores de especialidades que aún no se enseñen;
+
+b).- Ser consultores o instructores destinados al establecimiento y reorganización de instituciones de enseñanza civil, así como a organismos descentralizados o institutos de investigación; y,
+
+c).- Ser directores o asesores en la explotación de los recursos naturales del Estado, con las limitaciones que establecen la Ley Federal del Trabajo, la de Población, y de otras disposiciones legales relativas.
+
+Los títulos de tales profesionistas serán inscritos en la Oficina de Profesiones para su debido control.
+
+###### ARTICULO 22.
+
+Las actividades permitidas en el artículo precedente, serán por tiempo determinado y estarán sujetas a las condiciones que imponga el Poder Ejecutivo Local, a través de la Oficina de Profesiones.
+
+###### ARTICULO 23.
+
+El Gobernador del Estado podrá solicitar a la Secretaría de Gobernación permiso para que se internen profesionales extranjeros al territorio nacional, de acuerdo con las normas anteriores.
+
+### CAPITULO V. LA OFICINA DE PROFESIONES
+
+###### ARTICULO 24.
+
+La Oficina de Profesiones será fundada como una dependencia de la Secretaría General de Gobierno y tendrá el personal que determine el Presupuesto de Egresos.
+
+###### ARTICULO 25.
+
+Son atribuciones de la Oficina de Profesiones las siguientes:
+
+I.- Vigilar el ejercicio profesional y ser el órgano de enlace entre las autoridades del Estado y los colegios de profesionistas;
+
+II.- Registrar los títulos de profesionistas de conformidad con lo establecido en esta Ley; llevar la hoja de servicios de cada uno y anotar las sanciones o penas que se les impongan, cuidando que se cumplan las resoluciones sobre el ejercicio profesional;
+
+III.- Expedir autorizaciones para la práctica de una especialización, según las normas de este ordenamiento y su reglamento;
+
+IV.- Extender al interesado la cédula personal correspondiente, con efectos de patente para el ejercicio profesional y para su identidad en sus labores profesionales;
+
+V.- Tener una lista de los profesionales que declaren no ejercer la profesión con todos los datos necesarios;
+
+VI.- Anotar las suspensiones del ejercicio profesional, así como cancelar el registro respectivo de los profesionistas condenados a inhabilitación en su práctica;
+
+VII.- Publicar ampliamente las resoluciones favorables o desfavorables acerca del registro de títulos;
+
+VIII.- Determinar la forma de cumplir con el servicio social establecido en esta ley, oyendo al colegio correspondiente;
+
+IX.- Sugerir la distribución de los profesionistas según las necesidades de las diversas localidades;
+
+X.- Llevar un archivo con los datos relativos a la enseñanza preparatoria, normal y profesional, en relación con cada plantel, universidad e institución educativa;
+
+XI.- Proporcionar informes sobre los asuntos de su competencia; y,
+
+XII.- Las demás que le fijen las leyes y sus reglamentos.
+
+### CAPITULO VI. EL EJERCICIO PROFESIONAL
+
+###### ARTICULO 26.
+
+El ejercicio profesional, para los efectos de esta ley, comprende la realización habitual a título oneroso o gratuito de todo acto o servicio propio de cada profesión, aunque sea una simple consulta o la ostentación del carácter de profesionista por los medios publicitarios o de cualquier otra manera.
+
+###### ARTICULO 27.
+
+Para ejercer en el Estado de Morelos las profesiones objeto de esta ley, se exige:
+
+I.- Ser mexicano y estar en el pleno goce de sus derechos civiles;
+
+II.- Poseer título legalmente registrado;
+
+III.- Obtener de la Oficina de Profesiones patente de ejercicio;
+
+IV.- Pagar los impuestos que establezcan las leyes del Estado sobre los productos o rendimientos del trabajo profesional.
+
+###### ARTICULO 28.
+
+Las personas que sin tener título profesional legalmente registrado, actúen habitualmente como profesionistas, incurrirán en las sanciones que establece esta ley, salvo los gestores en asuntos obreros, agrarios y cooperativos, así como en el caso de amparo en materia penal, que se regirán por las leyes correlativas.
+
+El mandato para asunto judicial, administrativo o contencioso-administrativo determinado, sólo podrá otorgarse a profesionistas con título registrado.
+
+El acusado penalmente podrá ser oído en defensa por sí o por medio de persona de su confianza, o por ambos, según su voluntad; pero si ésta no es Licenciado en Derecho, deberá designar a uno o a varios con título registrado, y si no hace uso de este derecho, el juez de la causa le nombrará al defensor de oficio; en los términos del artículo 20 fracción IX de la Constitución General de la República.
+
+###### ARTICULO 29.
+
+Los pasantes de las distintas actividades profesionales podrán ejercer la práctica por el término de tres años; previa autorización de la Oficina de Profesiones, a la que se le comprobará con informes de la facultad o escuela correspondiente la capacidad y buena conducta de los estudiantes, así como que han terminado sus estudios y que tan sólo les falta la presentación de sus exámenes profesionales.
+
+En cada caso, se le extenderá al interesado una credencial en que figuren datos de identificación, el tiempo de validez del permiso y otras más que se considere conveniente para el desarrollo de su trabajo.
+
+###### ARTICULO 30.
+
+Las autoridades en general, administrativas, legislativas y judiciales, rechazarán la intervención de cualquier persona que no tenga título registrado o permiso de pasante, en su calidad de patrono de asesor, de perito o de cualquier otra índole profesional, en los asuntos de que conozcan.
+
+Los particulares podrán denunciar ante la Oficina de Profesiones u otra autoridad competente, a los individuos que ejerzan una profesión sin título o sin autorización de pasante.
+
+###### ARTICULO 31.
+
+El profesionista o pasante está obligado a poner todos sus conocimientos científicos y recursos técnicos en el desempeño de su trabajo, ya sea en el libre ejercicio profesional, o bien, con cualquier otro carácter.
+
+En caso de urgencia, los servicios que se soliciten se prestarán a cualquier hora y en el sitio que se requieran, siempre que éste no exceda de cincuenta kilómetros de distancia del domicilio del profesionista o pasante.
+
+###### ARTICULO 32.
+
+Cuando las labores por realizar no estén catalogadas en los aranceles, el profesionista o pasante deberá celebrar contrato con quien le solicite sus servicios, estipulando la remuneración y honorarios y las obligaciones de ambas partes.
+
+Si no se celebra convenio y hubiere conflicto entre los interesados, se deberá resolver conforme a la ley aplicable.
+
+###### ARTICULO 33.
+
+En el caso de que el servicio realizado no fuere satisfactorio para la parte que lo hubiere solicitado, la inconformidad será resuelta mediante dictamen de peritos en juicio o en privado si así lo convienen los afectados. Ningún profesionista podrá negarse a ser perito o a rendir informe claro y preciso y sobre el asunto, aunque pudiera lesionar intereses de su gremio, salvo causas plenamente justificadas, como las que determinan los Códigos de Procedimientos, Civil y Penal, y conforme a la naturaleza del negocio jurídico.
+
+Los peritos deberán considerar al rendir su opinión, lo siguiente:
+
+a).- Si el profesionista o pasante procedió correctamente dentro de los principios científicos o técnicos, aplicables al caso, y generalmente aceptados dentro de la profesión de que se trate;
+
+b).- Si el mismo dispuso de los instrumentos, materiales y recursos adecuados, ajustándose a las circunstancias del asunto y al medio en que se dió el servicio;
+
+c).- Si tomó todas las medidas indicadas para obtener buen éxito, sin que haya negligencia o impericia;
+
+d).- Si dedicó el tiempo y el cuidado necesarios para dar correctamente la atención profesional requerida; y,
+
+e).- Cualquier otra particularidad que pudiera haber influído en la deficiencia o fracaso del servicio desempeñado.
+
+El procedimiento a que se refiere este precepto será secreto y sólo podrá hacerse pública la resolución, cuando el profesionista o pasante sea condenado con arreglo al Código Civil o Penal, según las características del negocio.
+
+###### ARTICULO 34.
+
+El profesionista o pasante tendrá que indemnizar al perjudicado por los daños económicos, físicos y morales que hubiere ocasionado, independientemente de la sanción penal que proceda, si fuere sentenciado. Pero de ser absolutoria la resolución tendrá derecho a cobrar sus honorarios, los gastos del juicio y la indemnización por perjuicios sufridos en su prestigio profesional, sin perjuicio de la denuncia penal que pueda presentar por difamación u otro delito. La sentencia judicial o arbitral determinará lo procedente.
+
+###### ARTICULO 35.
+
+Todo profesionista o pasante está obligado a guardar estrictamente el secreto de los asuntos que se le confíen, salvo los informes que obligatoriamente establezcan las leyes respectivas. El interesado podrá denunciar a la autoridad competente la violación de esta regla.
+
+###### ARTICULO 36.
+
+Los tribunales deberán comunicar oportunamente a la Oficina de Profesiones las resoluciones que dicten sobre suspensión o inhabilitación en el ejercicio profesional, cuando hayan causado ejecutoria.
+
+###### ARTICULO 37.
+
+El anuncio o la publicidad que un profesionista o pasante haga de su actividad no deberá rebasar los principios de la ética profesional. Siempre deberá mencionarse la institución de altos estudios, en la publicidad y anuncios, que le hubiere otorgado el título.
+
+###### ARTICULO 38.
+
+Los profesionistas podrán asociarse para ejercer sus propias actividades, ajustándose a las leyes relativas; pero la responsabilidad en que incurran, será individual.
+
+###### ARTICULO 39.
+
+Los profesionistas podrán prestar sus servicios mediante iguala, fijada libremente con las partes con quienes contraten.
+
+###### ARTICULO 40.
+
+Los profesionistas que desempeñen puestos públicos, cargos en organismos descentralizados, empleos en empresas privadas o trabajo a particulares, podrán pertenecer a las asociaciones civiles propias de los profesionales, sin perjuicio de sus derechos sindicales y de acuerdo con las leyes respectivas que rijan las relaciones laborales.
+
+###### ARTICULO 41.
+
+Los profesionistas que sirvan al Ejército o a la Marina, podrán ejercer civilmente dentro de las facultades que las Leyes militares les concedan, pero ajustándose a las normas de este ordenamiento.
+
+### CAPITULO VII. LOS COLEGIOS DE PROFESIONALES
+
+###### ARTICULO 42.
+
+Los profesionistas de la misma rama podrán constituir en el Estado de Morelos, uno o varios colegios. Todo colegio deberá llevar en su nombre la indicación de la rama profesional que agrupe y fijará su domicilio en el territorio del Estado. Los colegios serán regidos por una directiva, compuesta de un presidente, un secretario y un tesorero, y sus respectivos suplentes, y durarán en sus cargos dos años. Su elección se llevará a cabo en asamblea general y deberá ser por mayoría de votos de todos los miembros del colegio; si algún socio no puede concurrir, emitirá su voto desde el lugar en que resida, enviándolo por correo certificado y con acuse de recibo, a la dirección del Colegio.
+
+Los profesionales con título registrado o los pasantes con patente de ejercicio, tendrán derecho a pertenecer al colegio respectivo, ciñéndose a las condiciones de sus estatutos.
+
+###### ARTICULO 43.
+
+El colegio profesional podrá constituirse y registrarse en la Oficina de Profesiones, si llena los requisitos siguientes:
+
+a).- Tener por lo menos veinte socios en el Estado que no sean miembros de otro colegio ya inscrito; más cuando por tratarse de una profesión nueva o por otro motivo justo, no hubiere el número citado de profesionales, la Oficina de Profesiones decidirá lo conducente;
+
+b).- Satisfacer lo estipulado por el Código Civil, en lo referente a la constitución de asociaciones civiles, en lo que no se oponga a esta Ley; y,
+
+c).- Hacer constar en escritura pública su constitución y protocolizar sus estatutos; elaborar un directorio de los asociados y levantar acta de la elección de la directiva.
+
+De todos estos documentos deberá enviarse a la Oficina de Profesiones copia autorizada para su inscripción.
+
+###### ARTICULO 44.
+
+Los colegios legalmente constituídos se sujetará (sic) a lo que ordena el artículo 27 de la Constitución General de la República y sus leyes reglamentarias.
+
+###### ARTICULO 45.
+
+Los colegios no podrán intervenir en asuntos políticos y religiosos. Su finalidad principal será vigilar el ejercicio profesional para que éste se realice en el más elevado nivel moral y legal; así como promover leyes, sus reformas y reglamentos.
+
+###### ARTICULO 46.
+
+Para el mejor cumplimiento de dichas funciones, los colegios deberán:
+
+I.- Auxiliar a la administración pública, con el fin de superar su moralización y denunciar toda irregularidad;
+
+II.- Denunciar a las autoridades penales y a la Oficina de Profesiones las violaciones de esta Ley;
+
+III.- Proponer los aranceles profesionales para todas las ramas;
+
+IV.- Servir de árbitros en los conflictos de orden profesional que se les planteen;
+
+V.- Ser órgano de consulta del Poder Público;
+
+VI.- Incrementar las relaciones entre los colegios de la República y fomentar la cultura entre sus socios y el pueblo en general;
+
+VII.- Sugerir reformas a los planes de estudios profesionales;
+
+VIII.- Organizar el servicio social que deben prestar los profesionistas pertenecientes al colegio y anotar lo hecho por cada socio en este aspecto;
+
+IX.- Representar a los profesionistas en los congresos locales o nacionales de las ramas profesionales o de otra índole, cuando fueren invitados;
+
+X.- Proponer a las autoridades competentes la lista de profesionistas para peritajes;
+
+XI.- Velar porque los puestos públicos que exijan conocimientos técnicos sean ocupados por profesionistas;
+
+XII.- Expulsar, mediante juicio y por el voto de las dos terceras partes de los socios, a quienes cometan delitos o actos que deshonren la profesión;
+
+XIII.- Sancionar a los miembros que dejaren de acatar sus obligaciones profesionales, cuando los actos no merezcan sanción de las autoridades competentes; y,
+
+XIV.- Las demás atribuciones que sus estatutos determinen, las buenas costumbres exijan y las leyes y reglamentos relativos establezcan.
+
+###### ARTICULO 47.
+
+Los profesionistas que no tengan el libre ejercicio de la profesión, por ser empleados dependientes del gobierno, empresas, organismos públicos o particulares, no estarán obligados a cubrir las cuotas de los colegios, hasta en tanto no vuelvan a la práctica liberal.
+
+###### ARTICULO 48.
+
+Los colegios podrán organizar secciones, como filiales suyas, en aquellos lugares donde vivan más de ocho profesionales socios de la agrupación.
+
+Se constituirán conforme a los estatutos del colegio correspondiente y tendrán las facultades y finalidades que señala esta Ley. Colaborarán con la directiva de la matriz a que pertenezcan.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 1968)</small>
+
+### CAPITULO VIII. EL SERVICIO SOCIAL
+
+###### ARTICULO 49.
+
+Los estudiantes y los profesionales no mayores de sesenta años, que ejerzan o no las profesiones a que se refiere esta ley, deberán prestar servicio social. Sólo podrán ser excusados por causa de enfermedad que los incapacite para realizarlo.
+
+###### ARTICULO 50.
+
+Se entiende por servicio social: el trabajo temporal y retribuído, que efectúen los estudiantes y profesionistas en interés de la sociedad y del Estado.
+
+###### ARTICULO 51.
+
+Los colegios presentarán a la Oficina de Profesiones los programas anuales que ejecutarán como servicio social, así como el balance de sus resultados.
+
+###### ARTICULO 52.
+
+Los planes de estudios de las instituciones de educación superior, de las profesiones comprendidas en este ordenamiento, exigirán a los pasantes que presten servicio social por un término no menor de seis meses ni mayor de un año, como condición para obtener el título profesional.
+
+###### ARTICULO 53.
+
+Los profesionistas están obligados a auxiliar a las instituciones de investigación científica, proporcionando los datos e informes que les soliciten.
+
+###### ARTICULO 54.
+
+Cada tres años los profesionales deberán rendir al colegio correspondiente, un estudio sobre las investigaciones que hubieren realizado o acerca de las cuestiones más interesantes de su experiencia profesional, así como sugestiones fundadas y de trascendencia para mejorar el ejercicio de las profesiones.
+
+### CAPITULO IX. LOS DELITOS E INFRACCIONES DE LOS PROFESIONALES
+
+###### ARTICULO 55.
+
+Los delitos en que incurran los profesionales en ejercicio, serán conocidos y sancionados por las autoridades competentes con arreglo a los Códigos Penal y de Procedimientos Penales del Estado.
+
+###### ARTICULO 56.
+
+Cuando una persona se atribuya el carácter de profesionista o ejerza los actos propios de la profesión, sin tener título registrado se le castigará con la sanción que determina el Código Penal vigente para los que usurpan una profesión. Quedan exceptuados los gestores a que se contrae esta Ley.
+
+###### ARTICULO 57.
+
+No se sancionará penalmente a las personas que actúen en los términos del segundo párrafo de la fracción III del artículo 224 del Código Penal del Estado.
+
+> <small>(F. DE E., P.O. 21 DE AGOSTO DE 1968)</small>
+
+###### ARTICULO 58.
+
+Al que ofrezca públicamente sus servicios sin ser profesionista, le será impuesta además, por la Oficina de Profesiones, una multa administrativa de cien a cinco mil pesos.
+
+###### ARTICULO 59.
+
+La Oficina de Profesiones sancionará con multa de cien pesos, por primera vez, duplicándola en cada caso de reincidencia, al profesionista que se negare a prestar sus servicios, a cualquier hora y en el sitio requerido, siempre que éste no exceda de cincuenta kilómetros de distancia del domicilio del profesional, independientemente de la consignación ante la autoridad penal respectiva.
+
+###### ARTICULO 60.
+
+La falta de registro del título de un profesionista que ejerza, dará lugar a que se le imponga por la referida oficina multa de cincuenta a quinientos pesos, según el número de veces que haya practicado actos propios del oficio.
+
+###### ARTICULO 61.
+
+La violación del deber de prestar el servicio social establecido en esta ley, será sancionada, la primera vez, con multa de mil pesos, que le impondrá al colegio correspondiente la Oficina de Profesiones. Si se demuestra que la culpa es de algunos miembros remisos, la pena se dividirá proporcionalmente entre ellos.
+
+###### ARTICULO 62.
+
+El incumplimiento de las obligaciones del servicio social en forma contumaz de parte del colegio o de sus miembros, motivará que se cancele el registro de la asociación en la Oficina de Profesiones.
+
+###### ARTICULO 63.
+
+Siempre se oirá al presunto responsable y se admitirán las pruebas conduncentes (sic), antes de aplicar las sanciones administrativas a que se refieren los artículos 58, 59, 60, 61 y 62.
+
+###### ARTICULO 64.
+
+La Oficina de Profesiones sólo podrá cancelar el registro de los títulos en los siguientes casos:
+
+I.- Cuando, previo juicio, se compruebe que el título no fue expedido con los requisitos que esta ley establece; y,
+
+II.- Por resolución judicial.
+
+###### ARTICULO 65.
+
+Ninguna persona que ejerza una profesión sin título registrado, podrá cobrar honorarios o sueldo.
+
+###### ARTICULO 66.
+
+Los profesionales serán civilmente responsables de los daños y perjuicios que ocasionen sus auxiliares o empleados en el ejercicio de su actividad.
+
+###### ARTICULO 67.
+
+La Oficina de Profesiones velará porque ninguna agrupación profesional utilice el término "colegio", si no ha llenado las condiciones que este ordenamiento dispone. La infracción de esta norma la castigará con multa hasta de mil pesos, satisfecho el principio constitucional de previa audiencia.
+
+###### ARTICULO 68.
+
+Cuando un profesionista omita el pago de impuestos a que se refiere la fracción IV del artículo 27 de esta Ley, la Secretaría de Finanzas y Promoción Económica, además de ejercer en su contra las acciones y procedimientos fiscales que procedan, solicitará de la Oficina de Profesiones que suspenda al profesionista en el ejercicio de su profesión mientras tanto no haga el pago de los impuestos omitidos, créditos accesorios y multas fiscales relativas.
+
+## TRANSITORIOS
+
+###### ARTICULO 1º.
+
+La presente ley entrará en vigor el día siguiente de su publicación en el "Periódico Oficial del Estado".
+
+###### ARTICULO 2°.
+
+Se derogan todas las disposiciones de carácter general que se opongan a esta ley.
+
+###### ARTICULO 3°.
+
+Cuando no existiere el número de profesionistas adecuado para las necesidades sociales, por tratarse de una profesión nueva o por cualquier otro motivo justo, la Oficina de Profesiones, previo acuerdo del C. Gobernador, podrá habilitar temporalmente para el ejercicio de una profesión a mexicanos capaces no titulados o a extranjeros titulados.
+
+###### ARTICULO 4°.
+
+Las personas no tituladas que actualmente desempeñen alguna actividad profesional que requiera título, en calidad de empleados asalariados o por iguala, en empresas privadas, organismos públicos, Gobierno del Estado a particulares, podrán continuar desempeñándolos, pero las vacantes que ocurran deberán ser cubiertas por profesionistas con título registrado. Los patronos y el Gobierno deberán enviar a la Oficina de Profesiones una relación de las personas a que se contrae este precepto, dentro del término de tres meses a partir de la fecha de la promulgación de esta ley. En caso de incumplimiento se sancionará con multa de cien a mil pesos al empresario o funcionario responsable.
+
+###### ARTICULO 5°.
+
+Los establecimientos de enseñanza profesional están obligados a enviar a la Oficina de Profesiones, en un plazo de sesenta días, una lista de los títulos profesionales que hubieren expedido durante los últimos veinticinco años, y si no lo hicieren, no podrán ser registrados conforme a esta Ley.
+
+###### ARTICULO 6°.
+
+Se concede a los planteles de enseñanza profesional y preparatoria, existentes en el Estado de Morelos, un plazo de tres meses para obtener su inscripción en la Oficina de Profesiones.
+
+###### ARTICULO 7°.
+
+Los títulos profesionales que hubieren sido expedidos legalmente antes de la vigencia de este ordenamiento, así como los registrados ante alguna autoridad competente con anterioridad a esta ley, tendrán la presunción de validez; pero deberán ser inscritos en la Oficina de Profesiones para que los interesados continúen ejerciendo. Esta dependencia deberá pedir comprobaciones directas o complementarias sobre los requisitos que la ley aplicable exige para el registro de los títulos, antes de decidir lo procedente.
+
+###### ARTICULO 8°.
+
+Cuando los profesionistas con título expedido por autoridad o institución competente, no puedan exhibir los comprobantes a que se refiere el precepto anterior, por causa plenamente justificada, deberán cumplir con las condiciones siguientes:
+
+I.- Rendir información testimonial para acreditar que hicieron los estudios preparatorios y profesionales;
+
+II.- Presentar la ley o decreto que haya creado o reconocido la universidad, facultad, instituto de enseñanza superior o escuela donde se efectuaron los estudios; y,
+
+III.- Probar la causa que le impida presentar la documentación requerida, ya sea la destrucción o la desaparición de los archivos de los establecimientos citados con antelación, ya sea la clausura de ellos y el desconocimiento del lugar donde se encuentran los documentos o cualquier otra circunstancia de valor indiscutible.
+
+###### ARTICULO 9°.
+
+Se reconoce la validez de los títulos que no tengan todos los requisitos de esta ley y no queden incluídos en el artículo anterior, cuando las personas que lo hayan adquirido hubieren ejercido la carrera durante los últimos cinco años; pero deberán regularizarlos conforme a los anteriores artículos 7° y 8° en el plazo de un año, a contar de su publicación.
+
+Asimismo las personas que sin título hayan practicado la profesión en los diez años previos a la vigencia de este ordenamiento, tendrán cinco años a partir de ésta para llenar las condiciones que el mismo específica.
+
+###### ARTICULO 10°.
+
+A los mexicanos que actualmente ejercen con título obtenido en el extranjero, se les concede el término de un año para satisfacer los requisitos que exige esta ley.
+
+###### ARTICULO 11°.
+
+Los extranjeros que hayan ejercido en el Estado, deberán ceñirse a los artículos 7° y 8° de este capítulo de transitorios.
+
+###### ARTICULO 12°.
+
+Los profesionales extranjeros residentes en el Estado de Morelos, que comprueben ser víctimas en su nación de persecuciones políticas y hubieren ejercido en los últimos diez años su profesión, podrán obtener permiso temporal para continuar su práctica en los términos del presente ordenamiento.
+
+Los hijos de los refugiados políticos, de acuerdo con lo anterior, al graduarse en el Estado, tendrán derecho a ejercer con autorización provisional.
+
+###### ARTICULO 13°.
+
+Los estudios preparatorios, vocacionales y profesionales que se hubieren hecho, antes de la vigencia de esta ley, serán válidos, pero para que el interesado pueda obtener el título y su registro, deberá cumplir con los requisitos que determina el presente ordenamiento.
+
+###### ARTICULO 14°.
+
+La Secretaría General de Gobierno, organizará la Oficina de Profesiones en el plazo de dos meses, a partir de la publicación de estas normas jurídicas.
+
+###### ARTICULO 15°.
+
+La Oficina de Profesiones procederá a nombrar comisiones de profesionistas para integrar los colegios de cada rama profesional, diez días después de la constitución de dicha dependencia.
+
+###### ARTICULO 16°.
+
+Remítase la presente Ley al Ejecutivo del Estado, para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+Salón de Sesiones del H. Congreso del Estado a los veinte días del mes de Diciembre de mil novecientos sesenta y siete.- DIPUTADO PRESIDENTE, Miguel Contreras Oriak.- DIPUTADO SECRETARIO, José Valencia Valdepeña. DIPUTADO SECRETARIO, Lic. Francisco Javier Arenas.- Rúbricas".
+
+Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Dado en la residencia del Poder Ejecutivo del Estado de la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintiún días del mes de Diciembre de mil novecientos sesenta y siete.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 1968)</small>
+
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
+
+Lic. Emilio Riva Palacio Morales.
+
+(Rúbrica)
+
+EL SECRETARIO GENERAL DE GOBIERNO.
+
+Lic. Fausto Galván Campos.
+
+(Rúbrica)
