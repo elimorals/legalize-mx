@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-la-renta-478"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2001-03-02"
+last_updated: "2001-07-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=478&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LISR"
 
 LEY DEL IMPUESTO SOBRE LA RENTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 2 DE MARZO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE JULIO DE 2001.
 
 Ley publicada en el Diario Oficial de la Federación, el Martes 30 de Diciembre de 1980.
 
@@ -1198,9 +1198,9 @@ Tratándose de donativos otorgados a instituciones de enseñanza, los mismos ser
 
 II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los términos de la Sección III de este Capítulo.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-III. Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $1,304,692.00, efectúen mediante cheque nominativo del contribuyente, los pagos en efectivo cuyo monto exceda de $6,501.00 excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+III. Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $ 1,304,692.00, efectúen mediante cheque nominativo del contribuyente, los pagos en efectivo cuyo monto exceda de $ 6,694.00 excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -1358,17 +1358,17 @@ V.- Los gastos de representación.
 
 VI.- Los viáticos o gastos de viaje, en el país, o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje, de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al establecimiento del contribuyente. Las personas a favor de las cuales se realice la erogación, deben tener relación de trabajo con el contribuyente en los términos del Capítulo I del Título IV de esta Ley o deben estar prestando servicios profesionales.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $757.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $1,515.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $ 780.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $ 1,560.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $852.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $ 877.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $3,829.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $ 3,943.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1402,9 +1402,9 @@ XII.- Las pérdidas por caso fortuito, fuerza mayor o por enajenación de bienes
 
 XIII.- El crédito comercial aun cuando sea adquirido de terceros.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-XIV. Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a $7,580.00 por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
+XIV. Los pagos por el uso o goce temporal de aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como de casas habitación, sólo serán deducibles en los casos en que reúnan los requisitos que señale el Reglamento de esta Ley. Tratándose de aviones, sólo será deducible el equivalente a $ 7,806.00 por día de uso o goce del avión de que se trate. No será deducible ningún gasto adicional relacionado con dicho uso o goce. Las casas de recreo, en ningún caso serán deducibles.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1988)</small>
 
@@ -1880,9 +1880,9 @@ I.- Las reparaciones así como las adaptaciones a las instalaciones se considera
 
 En ningún caso se considerarán inversiones los gastos por concepto de conservación, mantenimiento y reparación que se eroguen con el objeto de mantener el bien de que se trate en condiciones de operación.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $328,447.00, siempre que sean automóviles utilitarios.
+II. Las inversiones en automóviles sólo serán deducibles hasta por un monto de $ 338,202.00, siempre que sean automóviles utilitarios.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1896,9 +1896,9 @@ En ningún caso serán deducibles las inversiones en automóviles comprendidos d
 
 Lo dispuesto en esta fracción no será aplicable tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de automóviles, siempre y cuando los destinen exclusivamente a dicha actividad.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-III. Las inversiones en casas habitación y en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $8,590,927.00.
+III. Las inversiones en casas habitación y en comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, así como en aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, sólo serán deducibles en los casos que reúnan los requisitos que señale el Reglamento de esta Ley. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $ 8,846,077.00.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -1922,9 +1922,9 @@ VI. (DEROGADA, D.O.F. 31 DE DICIEMBRE DE 1999)
 
 VII.- Las construcciones, instalaciones o mejoras permanentes en activos fijos tangibles, propiedad de terceros que de conformidad con los contratos de arrendamiento o de concesión respectivos queden a beneficio del propietario y se hayan efectuado a partir de la fecha de celebración de los contratos mencionados, se deducirán en los términos de esta Sección. Cuando la terminación del contrato ocurra sin que las inversiones deducibles hayan sido fiscalmente redimidas, el valor por redimir podrá deducirse en la declaración del ejercicio respectivo.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-VIII. Las inversiones en equipo de blindaje instalado en automóviles sólo serán deducibles hasta por un monto de $217,699.00 y siempre que se trate de automóviles que sean asignados al personal de la empresa o establecimiento que realice la inversión.
+VIII. Las inversiones en equipo de blindaje instalado en automóviles sólo serán deducibles hasta por un monto de $ 224,164.00 y siempre que se trate de automóviles que sean asignados al personal de la empresa o establecimiento que realice la inversión.
 
 ###### ARTICULO 47.
 
@@ -3350,9 +3350,9 @@ X.- Sociedades o asociaciones de carácter civil que se dediquen a la enseñanza
 
 XI.- Asociaciones o sociedades civiles organizadas con fines culturales, las dedicadas a la investigación científica o tecnológica que se encuentren inscritas en el Registro Nacional de Instituciones Científicas y Tecnológicas, así como bibliotecas y museos abiertos al público.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-XII. Las instituciones o sociedades civiles constituidas únicamente con el objeto de administrar fondos o cajas de ahorro, siempre y cuando el número de socios no exceda de quinientos o sus activos totales no excedan de $2,182,970.00 y aquellas a las que se refiera la legislación laboral.
+XII. Las instituciones o sociedades civiles constituidas únicamente con el objeto de administrar fondos o cajas de ahorro, siempre y cuando el número de socios no exceda de quinientos o sus activos totales no excedan de $ 2,247,804.00 y aquellas a las que se refiera la legislación laboral.
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -4262,9 +4262,9 @@ No se hará el cálculo del impuesto anual a que se refiere este artículo, cuan
 
 a) Que hayan dejado de prestar servicios al retenedor antes del 1o. de diciembre del año de que se trate.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-b) Que hayan obtenido ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de $2,182,970.00.
+b) Que hayan obtenido ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de $ 2,247,804.00.
 
 c) Que le comuniquen por escrito al retenedor que presentarán declaración anual.
 
@@ -4292,9 +4292,9 @@ c).- Cuando dejen de prestar servicios a más tardar el 31 de diciembre del año
 
 d).- Cuando obtengan ingresos, por los conceptos que se refiere este Capítulo, de fuente de riqueza ubicada en el extranjero o provenientes de personas no obligadas a efectuar las retenciones del artículo 80 de esta Ley.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-e) Cuando obtengan ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de $2,182,970.00.
+e) Cuando obtengan ingresos anuales por los conceptos a que se refiere este Capítulo que excedan de $ 2,247,804.00.
 
 > <small>(REFORMADA, D.O.F. 3 DE DICIEMBRE DE 1993)</small>
 
@@ -4738,9 +4738,9 @@ En operaciones consignadas en escrituras públicas, el pago provisional se hará
 
 Tratándose de la enajenación de otros bienes, el pago provisional será igual al 20% del monto total de la operación, que será retenido por el adquirente si éste es residente en el país o residente en el extranjero con establecimiento permanente o base fija en México, excepto en los casos en los que el enajenante manifieste por escrito al adquirente que efectuará un pago provisional menor cuando cumpla con los requisitos que señale el Reglamento de esta Ley. En caso de que el adquirente no sea residente en el país o sea residente en el extranjero sin establecimiento permanente o base fija en México, el enajenante enterará el impuesto correspondiente mediante declaración que presentará ante las oficinas autorizadas dentro de los quince días siguientes a la obtención del ingreso.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Cuando el adquirente efectúe la retención a que se refiere el párrafo anterior dará al enajenante constancia de la misma y éste acompañará una copia de dicha constancia al presentar su declaración anual. No se efectuará la retención ni el pago provisional a que se refiere el párrafo anterior, cuando se trate de bienes muebles diversos de títulos valor o de partes sociales y el monto de la operación sea menor a $227,406.00.
+Cuando el adquirente efectúe la retención a que se refiere el párrafo anterior dará al enajenante constancia de la misma y éste acompañará una copia de dicha constancia al presentar su declaración anual. No se efectuará la retención ni el pago provisional a que se refiere el párrafo anterior, cuando se trate de bienes muebles diversos de títulos valor o de partes sociales y el monto de la operación sea menor a $ 234,160.00.
 
 Los contribuyentes que obtengan ingresos por la cesión de derechos de certificados de participación inmobiliaria no amortizables o de certificados de vivienda o de derechos de fideicomitente o fideicomisario, que recaigan sobre inmuebles, deberán calcular y enterar el pago provisional de acuerdo con lo establecido en los dos primeros párrafos de este artículo.
 
@@ -5648,9 +5648,9 @@ Los contribuyentes a que se refiere el párrafo anterior, continuarán llevando 
 
 Los contribuyentes a que se refiere el segundo párrafo de esta fracción que en el primer semestre no rebasen el límite de ingresos a que se refiere el párrafo anterior y obtengan en el ejercicio ingresos superiores a la cantidad señalada en el primer párrafo del artículo 119-M de esta Ley, pagarán el impuesto del ejercicio de acuerdo a lo establecido en la Sección I de este Capítulo, pudiendo acreditar contra el impuesto que resulte a cargo, los pagos que por el mismo ejercicio, hubieran realizado en los términos de esta Sección III. Adicionalmente, deberán pagar la actualización y recargos correspondientes a la diferencia entre los pagos provisionales que les hubieran correspondido en términos de la Sección I y los pagos que se hayan efectuado conforme a esta Sección III, en este caso no podrán volver a tributar en esta Sección.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-III. Conservar comprobantes que reúnan requisitos fiscales, por las compras de bienes nuevos que usen en su negocio, cuando el precio sea superior a $1,746.00.
+III. Conservar comprobantes que reúnan requisitos fiscales, por las compras de bienes nuevos que usen en su negocio, cuando el precio sea superior a $ 1,798.00.
 
 IV.- Llevar un registro de sus ingresos diarios.
 
@@ -6250,9 +6250,9 @@ II.- Que cuando esta Ley permita la deducción de inversiones se proceda en los 
 
 III.- Que se resten una sola vez, aún cuando estén relacionadas con la obtención de diversos ingresos.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-IV. Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $1,304,692.00, efectúen mediante cheque nominativo del contribuyente los pagos en efectivo cuyo monto exceda de $6,501.00, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
+IV. Que se comprueben con documentación que reúna los requisitos que señalen las disposiciones fiscales relativas a la identidad y domicilio de quien los expida, así como de quien adquirió el bien de que se trate o recibió el servicio, y que en el caso de contribuyentes que en el ejercicio inmediato anterior hubieran obtenido ingresos acumulables superiores a $ 1,304,692.00, efectúen mediante cheque nominativo del contribuyente los pagos en efectivo cuyo monto exceda de $6,694.00, excepto cuando dichos pagos se hagan por la prestación de un servicio personal subordinado. La Secretaría de Hacienda y Crédito Público podrá liberar de la obligación de pagar las erogaciones con cheques nominativos a que se refiere esta fracción cuando las mismas se efectúen en poblaciones sin servicios bancarios o en zonas rurales.
 
 > <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 1990)</small>
 
@@ -6360,9 +6360,9 @@ I.- Los pagos por impuesto sobre la renta a cargo del propio contribuyente o de 
 
 Tampoco serán deducibles las cantidades que entregue el contribuyente en su carácter de retenedor a las personas que le presten servicios personales subordinados provenientes del crédito al salario a que se refieren los artículos 80-B y 81 de esta Ley, así como los accesorios de las contribuciones, a excepción de los recargos que hubiere pagado efectivamente, inclusive mediante compensación.
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-II. Las inversiones en casas habitación, comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como los pagos por el uso o goce temporal de dichos bienes. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $8,590,927.00.
+II. Las inversiones en casas habitación, comedores que por su naturaleza no estén a disposición de todos los trabajadores de la empresa, aviones y embarcaciones que no tengan concesión o permiso del Gobierno Federal para ser explotados comercialmente, así como los pagos por el uso o goce temporal de dichos bienes. En el caso de aviones, la deducción se calculará considerando como monto original máximo de la inversión, una cantidad equivalente a $ 8,846,077.00.
 
 Tratándose de contribuyentes cuya actividad preponderante consista en el otorgamiento del uso o goce temporal de aviones o automóviles, podrán efectuar la deducción total del monto original de la inversión del avión o del automóvil de que se trate, excepto cuando dichos contribuyentes otorguen el uso o goce temporal de aviones o automóviles a otro contribuyente, cuando alguno de ellos, sea a su vez socio o accionista del otro, o exista una relación que de hecho le permita a uno de ellos ejercer una influencia preponderante en las operaciones del otro, en cuyo caso la deducción se determinará en los términos del primer párrafo de esta fracción, para el caso de aviones y en los términos de la fracción III de este artículo para el caso de automóviles.
 
@@ -6396,17 +6396,17 @@ Para efectos de lo dispuesto en esta fracción se considera pago de interés las
 
 IX.- Los viáticos o gastos de viaje, en el país o en el extranjero, cuando no se destinen al hospedaje, alimentación, transporte, uso o goce temporal de automóviles y pago de kilometraje de la persona beneficiaria del viático o cuando se apliquen dentro de una faja de 50 kilómetros que circunde al domicilio del contribuyente. Las personas a favor de las cuales se realice la erogación, cuando no sea el propio contribuyente, deben tener relación de trabajo con éste, en los términos del Capítulo I de este Título, o deben estar prestando servicios profesionales.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $757.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $1,515.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Tratándose de gastos de viaje destinados a la alimentación, sólo serán deducibles hasta por un monto que no exceda de $ 780.00 diarios por cada beneficiario, cuando los mismos se eroguen en territorio nacional, y $ 1,560.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte. Cuando a la documentación que ampare el gasto de alimentación el contribuyente acompañe la relativa al transporte, deberá además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $852.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al uso o goce temporal de automóviles y gastos relacionados, serán deducibles hasta por un monto que no exceda de $ 877.00 diarios, cuando se eroguen en territorio nacional o en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al hospedaje o transporte, debiendo cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
-> <small>(REFORMADO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $3,829.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
+Los gastos de viaje destinados al hospedaje, sólo serán deducibles hasta por un monto que no exceda de $ 3,943.00 diarios, cuando se eroguen en el extranjero, y el contribuyente acompañe a la documentación que los ampare la relativa al transporte, debiendo además cumplir con los requisitos que al efecto establezca la Secretaría de Hacienda y Crédito Público, mediante reglas de carácter general.
 
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 1991)</small>
 
@@ -6812,17 +6812,17 @@ Tratándose de los ingresos por salarios y en general por la prestación de un s
 
 El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-I. Se estará exento por los primeros $125,896.00 obtenidos en el año de calendario de que se trate.
+I. Se estará exento por los primeros $ 129,635.00 obtenidos en el año de calendario de que se trate.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-II. Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $1,014,160.00.
+II. Se aplicará la tasa del 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $ 1,044,281.00.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-III. Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $1,014,160.00.
+III. Se aplicará la tasa del 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $ 1,044,281.00.
 
 > <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 1993)</small>
 
@@ -6858,17 +6858,17 @@ Tratándose de ingresos por jubilaciones, pensiones, haberes de retiro, así com
 
 El impuesto se determinará aplicando al ingreso obtenido las tasas siguientes:
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-I. Se estará exento por los primeros $125,896.00 obtenidos en el año de calendario de que se trate.
+I. Se estará exento por los primeros $ 129,635.00 obtenidos en el año de calendario de que se trate.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-II. Se aplicará la tasa de 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $1,014,160.00.
+II. Se aplicará la tasa de 15% a los ingresos percibidos en el año de calendario de que se trate que excedan del monto señalado en la fracción que antecede y que no sean superiores a $ 1,044,281.00.
 
-> <small>(REFORMADA, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA, D.O.F. 30 DE JULIO DE 2001)</small>
 
-III. Se aplicará la tasa de 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $1,014,160.00.
+III. Se aplicará la tasa de 30% a los ingresos percibidos en el año de calendario de que se trate que excedan de $ 1,044,281.00.
 
 > <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
 
@@ -7656,9 +7656,9 @@ Lo dispuesto en las fracciones II, III y V también es aplicable para las person
 
 Los contribuyentes a que se refiere el Título IV, de esta Ley, que efectúen depósitos en las cuentas personales especiales para el ahorro, realicen pagos de primas de contratos de seguro que tengan como base planes de pensiones relacionados con la edad, jubilación o retiro que al efecto autorice la Secretaría de Hacienda y Crédito Público mediante disposiciones de carácter general, o bien adquieran acciones de las sociedades de inversión que sean identificables en los términos que también señale la propia Secretaría mediante disposiciones de carácter general, podrán restar el importe de dichos depósitos, pagos o adquisiciones, de la cantidad a la que se le aplicaría la tarifa del articulo 141 de esta Ley de no haber efectuado las operaciones mencionadas, correspondiente al ejercicio en que éstos se efectuaron o al ejercicio inmediato anterior, cuando se efectúan antes de que se presente la declaración respectiva, de conformidad con las reglas que a continuación se señalan:
 
-> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 2 DE MARZO DE 2001)</small>
+> <small>(REFORMADA PRIMER PARRAFO, D.O.F. 30 DE JULIO DE 2001)</small>
 
-I. El importe de los depósitos, pagos o adquisiciones a que se refiere este artículo no podrán exceder en el año de calendario de que se trate, del equivalente a $151,605.00, considerando todos los conceptos.
+I. El importe de los depósitos, pagos o adquisiciones a que se refiere este artículo no podrán exceder en el año de calendario de que se trate, del equivalente a $156,108.00, considerando todos los conceptos.
 
 > <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1986)</small>
 
@@ -13395,3 +13395,7 @@ Segundo. Las menciones hechas en el presente Decreto a las Secretarías cuyas de
 D.O.F. 2 DE MARZO DE 2001.
 
 Unico. La presente Resolución entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 30 DE JULIO DE 2001.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL FEDERAL VIGENTE.
