@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "1992-11-07"
+last_updated: "1994-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE NOVIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1994.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -157,6 +157,50 @@ V.- En los demás casos que las leyes señalen.
 
 El Estado de Tabasco es libre y soberano en lo que se refiere a su régimen interior, dentro de los lineamientos que señala la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+El pueblo ejerce su soberanía por medio de los Poderes del Estado en los casos de su competencia y en los términos que establecen la Constitución General de la República y la presente Constitución.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+Los Partidos Políticos son entidades de interés público; la Ley respectiva determinará las formas específicas de su intervención en el proceso electoral.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+Los Partidos Políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la Representación Estatal y como organizaciones de ciudadanos, propiciar el acceso al ejercicio del Poder Público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+En los procesos electorales del Estado, los Partidos Políticos Estatales deberán contar, en forma equitativa, con un mínimo de elementos para su participación en la obtención del sufragio popular.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+La Ley establecerá las reglas a que se sujetará el financiamiento de los Partidos Políticos en sus campañas electorales.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+La organización de las elecciones estatales es una función que se ejerce por conducto de los Poderes Legislativo, Ejecutivo y Judicial, con la participación de los Partidos Políticos y de los ciudadanos, conforme a las disposiciones establecidas en la Ley de la materia. Esta función la realizará un organismo público autónomo en sus decisiones, dotado de personalidad jurídica y patrimonio propios, que sustentará sus actos en los principios de certeza, legalidad, imparcialidad, objetividad y profesionalismo.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+La Ley establecerá un sistema de impugnación de los que conocerán el organismo público previsto en el Párrafo Séptimo de este Artículo y un Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas del proceso electoral y garantizará que los actos se sujeten ineludiblemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos de acto o resolución impugnados.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+El Tribunal Estatal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Los poderes Legislativo, Ejecutivo y Judicial, garantizarán su debida integración.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+El Tribunal Estatal Electoral será competente para resolver en forma definitiva e inatacable, de acuerdo con la Constitución y la Ley de la materia, las impugnaciones que se presenten en materia electoral y las diferencias laborales que se presenten con las autoridades electorales establecidas por este Artículo; expedirá su Reglamento Interior y realizará las demás atribuciones que le confiere la Ley.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 1994)</small>
+
+El Tribunal Estatal Electoral funcionará en Plenos o Salas conforme lo prevenga la Ley y sus sesiones serán públicas.
+
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
 ### CAPITULO II. DE LA ELECCION
@@ -207,17 +251,29 @@ La elección de esos Diputados se sujetará a las bases Generales siguientes, y 
 
 I.- Para obtener el registro de sus listas regionales, el Partido Político que lo solicite, deberá acreditar que participa con candidatos a Diputados por mayoría relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;
 
-II.- Para el otorgamiento de las constancias de asignación, se observarán las siguientes reglas:
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-A) Ningún partido político podrá contar con mas de 21 Diputados electos mediante ambos principios.
+II.- Todo Partido Político que alcance por lo menos el 1.5% del total de la votación efectiva para las listas regionales de las circunscripciones plurinominales, tendrá derecho a que se le asigne un Diputado según el Principio de Representación Proporcional;
 
-B) Al partido político que obtenga el 35% de la votación estatal y el mayor número de constancias de mayoría, le serán otorgadas constancias de asignación de Diputados en número suficientes para alcanzar la mayoría absoluta de la Cámara, se le asignará también un diputado de representación proporcional, por cada 3.5% de votación obtenida por encima del 35% y hasta el 72.5% en la forma en que determine la Legislación del Estado.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
 
-C) Si ningún Partido Político, obtiene el 35% de la votación estatal emitida, a todos los Partidos Políticos registrados para el proceso electoral correspondiente, le serán otorgadas constancias de asignación por el número de Diputados que se requiera para que su representación en la Cámara, por ambos principios, corresponda en su caso, al porcentaje de votos obtenidos.
+III.- Al Partido Político que cumpla con lo dispuesto en la Fracción anterior, adicionalmente a las constancias de mayoría relativa que hubiesen obtenido sus candidatos, les serán asignados por el Principio de Representación Proporcional, de acuerdo con su votación estatal efectiva, el número de Diputados de su lista regional que le corresponde a cada circunscripción plurinominal. En la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes;
 
-D) El partido político que obtenga entre el 60% y el 70% de la votación estatal y su número de constancias de mayoría represente un porcentaje de total de la Cámara inferior a su porcentaje de votos, le serán asignados Diputados de representación proporcional, suficiente para que la suma de Diputados obtenidos por ambos principios, represente el mismo porcentaje de votos.
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
 
-III.- La Ley determinará las normas para la aplicación de la fórmula que se observarán en la asignación en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+IV.- En ningún caso un Partido Político podrá contar con más de veintiún Diputados por ambos Principios;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+V.- El Partido Político que haya obtenido más del 60% de la votación estatal efectiva, tendrá derecho a que se le asignen Diputados por el Principio de Representación Proporcional, hasta que el número de Diputados por ambos Principios sea igual a su porcentaje de votación estatal efectiva sin rebasar el límite señalado en la Fracción IV;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+VI.- Ningún Partido Político que haya obtenido el 60% o menos de la votación estatal efectiva, podrá contar con más de veinte Diputados por ambos Principios;
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 1994)</small>
+
+VII.- En los términos de las Fracciones III, IV, V y VI, las Diputaciones de Representación Proporcional que resten después de signar las que correspondan al Partido Político que se halle en los supuestos de las Fracciones V o VI, se adjudicarán a los demás Partidos Políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones estatales en estos últimos. La Ley desarrollará las reglas y fórmulas necesarias para este efecto.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -273,21 +329,25 @@ Los Diputados gozan de fuero desde el día en que hubieren sido declarados elect
 
 La Cámara de Diputados se renovará en su totalidad cada tres años, iniciando sus funciones el primero de enero siguiente a las elecciones.
 
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
+(REFORMADO, P.O. 1 DE ENERO DE 1994)(F. DE E., P.O. 5 DE ENERO DE 1994)
 
 ###### ARTICULO 20.
 
-La Cámara entrante, erigida en Colegio Electoral, calificará las elecciones de sus miembros resolviendo las dudas o controversias que se presenten con motivo de aquellas y sus resoluciones serán definitivas e inacatables.
+El Congreso del Estado, erigido en Colegio Electoral calificará las elecciones de Gobernador del Estado; sus resoluciones serán definitivas e inatacables.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1987)</small>
+(REFORMADO, P.O. 1 DE ENERO DE 1994)(F. DE E., P.O. 5 DE ENERO DE 1994)
 
 ###### ARTICULO 21.
 
-Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación mayoritaria relativa como por el de representación proporcional, se reunirán en el Salón de Sesiones del Poder Legislativo, diez días antes de la instalación del Congreso para constituirse, presente la mayoría, en junta preparatoria. Si no se reuniere la mayoría absoluta de los presuntos diputados, los presentes se constituirán en junta previa para compeler a los ausentes a que concurran, advertidos de que si no lo hacen en término de diez días, se entenderá que no aceptan su cargo, llamándose a los suplentes. Estos deberán presentarse dentro del plazo de veinte días y de no conseguirse su asistencia, se declarará vacante el cargo, convocándose a nuevas elecciones para los distritos respectivos.
+Los presuntos miembros de la Cámara declarados electos, tanto por el principio de votación mayoritaria relativa como por el de representación proporcional, se reunirán en el Salón de Sesiones del Poder Legislativo, veinticinco días antes de la instalación del Congreso, para constituirse, presente la mayoría, en Junta Preparatoria. Si no se reuniese la mayoría absoluta de los presuntos Diputados, los presentes se constituirán en Junta Previa para compeler a los ausentes a que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hiciesen se entenderá por ese hecho que no aceptan su cargo, llamándose a los suplentes que deberán presentarse en un plazo igual, y si tampoco lo hiciesen se declarará vacante el cargo y se convocará a nuevas elecciones en los Distritos respectivos, pudiéndose instalar el Congreso con los Diputados que asistieron a la Junta Previa.
 
-En el caso de vacantes de los presuntos miembros de la Cámara electos por el principio de representación proporcional, éstas deberán ser cubiertas con aquellos candidatos del mismo partido que sigan en el orden de la lista regional respectiva, después de habérsele asignado los diputados que le hubieren correspondido.
+En el caso de las vacantes de los presuntos miembros de la Cámara electos por el principio de representación proporcional, éstos deberán ser cubiertos por aquellos candidatos del mismo Partido que sigan en el orden de la lista regional respectiva, después de habérseles asignado los Diputados que le hubieren correspondido.
 
-Corresponde al Gobierno del Estado, la preparación, desarrollo y vigilancia de los procesos electorales. La Ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las Leyes que de ella emanen e instituirá un Tribunal que tendrá la competencia que determine la Ley; las resoluciones del Tribunal serán obligatorias y solo podrán ser modificadas por el Colegio Electoral, que será la última instancia en la calificación de las elecciones.
+El organismo público previsto en el Artículo 9 de esta Constitución, de acuerdo con lo que disponga la Ley declarará la validez de las elecciones de Diputados y Regidores en cada uno de los Distritos y Municipios del Estado, otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos y hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional de conformidad con lo previsto en el Artículo 14 de esta Constitución y la propia Ley.
+
+La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados o Regidores podrán ser impugnados ante la Sala del Tribunal Estatal Electoral, conforme a lo previsto en la Ley de la materia.
+
+Las resoluciones de esta Sala serán definitivas e inatacables. La Ley establecerá los presupuestos, requisitos de procedencia y el trámite para este medio de impugnación.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -311,11 +371,11 @@ Durante el receso funcionará una Comisión Permanente.
 
 El Congreso funcionará con la asistencia de la mitad más uno del total de sus componentes. A falta de quórum para iniciar algún período de sesiones, se procederá de acuerdo con el artículo veintiuno convocando a elecciones la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+(REFORMADO, P.O. 1 DE ENERO DE 1994) (F. DE E., P.O. 5 DE ENERO DE 1994)
 
 ###### ARTICULO 25.
 
-Durante el primer período de sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar leyes y decretos para la mejor administración del Estado.
+Durante el primer período de sesiones, el Congreso se ocupará preferentemente de expedir, reformar y derogar leyes y Decretos para la mejor administración del Estado; así como de revisar y calificar la cuenta pública del año anterior.
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
 
@@ -325,11 +385,11 @@ El Congreso declarará al examinar y calificar la cuenta pública del año anter
 
 Para tales efectos, el Congreso tiene facultades para practicar las investigaciones que considere convenientes.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)</small>
+(REFORMADO, P.O. 1 DE ENERO DE 1994) (F. DE E., P.O. 5 DE ENERO DE 1994)
 
 ###### ARTICULO 27.
 
-Durante el segundo período el Congreso se ocupará de examinar y calificar la cuenta pública del año anterior y con la misma preferencia en estudiar, discutir y votar las Leyes de Ingresos de los Municipios y del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
+Durante el segundo período el Congreso se ocupará preferentemente, de estudiar, discutir y votar las leyes de Ingresos de los Municipios; del Estado y del Presupuesto de Egresos de este último que será presentado por el Ejecutivo.
 
 > <small>(REFORMADO, P.O. 2 DE ABRIL DE 1975)</small>
 
@@ -431,7 +491,9 @@ VIII.- Reglamentar las facultades concedidas a la Entidad por el artículo 130 d
 
 IX.- Legislar sobre Administración de Justicia, Sanidad Pública Estatal y vías de comunicaciones estatales y municipales; expedir Leyes para la programación, promoción, concertación y ejecución de acciones de orden económico, especialmente en lo referente al abasto y otras que tengan como finalidad la producción suficiente y oportuna de bienes y servicios socialmente necesarios en la entidad;
 
-X.- Erigirse en Colegio Electoral para ejercer las atribuciones que la ley le señale, haciendo la declaración que corresponde sobre las elecciones de Gobernador del Estado, de Diputados al Congreso local y de Regidores de los Ayuntamientos y en cumplimiento de lo dispuesto por el artículo 56 de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a las elecciones de Senadores al Congreso de Unión;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 1994)</small>
+
+X.- Erigirse en Colegio Electoral para ejercer las atribuciones que la Ley señale, haciendo la declaración de validez de las elecciones de Gobernador del Estado, conforme a lo previsto en el Artículo 20 de la presente Constitución, y en cumplimiento de lo dispuesto por el Artículo 56 de la Constitución Política de los Estados Unidos Mexicanos, en cuanto a las elecciones de Senadores al Congreso de Unión;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 1977)</small>
 
@@ -1037,7 +1099,7 @@ Podrán ser sujetos de Juicio Político los Diputados a la Legislatura Local, lo
 
 Las sanciones consistirán en la destitución del servidos (sic) Público en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público.
 
-Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa la declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
+Para la aplicación de las sanciones a que se refiere este precepto, la Cámara de Diputados procederá a la acusación respectiva ante el Tribunal Superior de Justicia, previa la declaración de la mayoría absoluta del número de los miembros presentes en sesión de aquella Cámara, después de haber sustanciado el procedimiento respectivo y con audiencia del inculpado.
 
 Conociendo de la acusación, el Tribunal Superior de Justicia, erigido en Jurado de Sentencia, aplicará la sanción correspondiente, mediante reesolución (sic) de las dos terceras partes de los miembros presentes en la seesión (sic) una vez practicadas las diligencias correspondientes y con Audiencia del acusado.
 
@@ -1636,3 +1698,9 @@ PRIMERO: Las reformas a que se refiere este Decreto, fueron aprobadas en los té
 SEGUNDO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO: La Legislatura del Estado contará con un término de 120 días, a partir de la publicación de este decreto, para emitir la Ley Reglamentaria.
+
+P.O. 1 DE ENERO DE 1994.
+
+PRIMERO.- Las reformas a que se refiere este Decreto, fueron aprobadas en los términos del Artículo 83 de la propia Constitución.
+
+SEGUNDO.- El presente Decreto surtirá sus efectos legales a partir del día de su publicación en el Periódico Oficial del Estado.
