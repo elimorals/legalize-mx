@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-de-los-centros-de-readaptacion-social-del-10990"
 country: "mx"
 rank: "reglamento"
 publication_date: "1978-07-31"
-last_updated: "1978-07-31"
+last_updated: "1997-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 REGLAMENTO DE LOS CENTROS DE READAPTACION SOCIAL DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 16 DE ENERO DE 1997.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de julio de 1978.
 
@@ -127,6 +127,20 @@ VIII.- Disponer traslados externos de los reclusos, según las normas legales y 
 
 IX.- Llevar a cabo las demás tareas fijadas por las leyes o por el presente Reglamento y las que sean inherentes a sus funciones.
 
+> <small>(ADICIONADO, B.O. 16 DE ENERO DE 1997)</small>
+
+ARTICULO 9 BIS.- La internación de toda persona en cualquier centro de readaptación social del estado solo se podrá dar por cualquiera de las causas siguientes:
+
+I. Por acuerdo del ministerio público del fuero común;
+
+II. Por resolución judicial;
+
+III. Por resolución de la dirección general de prevención y readaptación social del estado; y
+
+IV. En ejecución de los tratados y convenios a que se refiere el artículo 18 de la Constitución General de la Republica.
+
+Los directores- de los centros de readaptación social, bajo su más estricta responsabilidad cuidaran que por ningún motivo sea internada en estos centros ninguna persona sin orden de autoridad competente en la que conste la consignación o la causa del internamiento. En caso de que se pretenda internar a alguna persona sin estos requisitos el director del centro negara el internamiento y tomando los datos del caso avisara a su superior.
+
 ###### ARTICULO 10.
 
 La Subdirección auxiliará a la Dirección en el cumplimiento de las labores de ésta, cuando se trate de aquellas que el Director debe realizar personalmente. El Director fijará al Subdirector las funciones que deberá desarrollar específicamente, entre las que se podrán figurar, de preferencia, las relacionadas con la situación jurídica de los internos y con la supervisión y el control administrativo.
@@ -211,9 +225,13 @@ VII.- Brindar consulta externa a los miembros del personal y a sus familiares, a
 
 VIII.- Presentar los informes médico-forenses o de otra índole quem (sic) dentro de sus funciones, le sean solicitados por autoridades competentes, y rendir los certificados conducentes al otorgamiento de visita íntima, en caso de que los mismos no sean rendidos por otros facultativos o servicios médicos oficiales del exterior;
 
-IX.- Practicar exámen médico a los aspirantes a ingresar al servicio de los Centros, y
+IX.- Practicar exámen médico a los aspirantes a ingresar al servicio de los Centros, y (sic)
 
-X.- Las demás tareas inherentes a las funciones médicas de los Centros de Prevención y Readaptación Social, curación y rehabilitación.
+X.- Las demás tareas inherentes a las funciones médicas de los Centros de Prevención y Readaptación Social, curación y rehabilitación;
+
+> <small>(ADICIONADA, B.O. 16 DE ENERO DE 1997)</small>
+
+XI.- Sin perjuicio de lo anterior y a solicitud previa del interno, de sus familiares o de la persona previamente designada por aquel, podrá permitirse a médicos ajenos al establecimiento el que examinen o traten a un interno. En este caso, el tratamiento será a cargo del solicitante, con autorización del responsable de los servicios médicos de la institución.
 
 ###### ARTICULO 14.
 
@@ -289,15 +307,21 @@ V.- Formular los cómputos conducentes a la remisión parcial de la pena, recaba
 
 VI.- Reunir el material de trabajo relativo a las sesiones del Consejo Técnico;
 
-VII.- Llevar los expedientes individuales de los internos y los generales del Centro, glosando diariamente los documentos que deban ingresar en ellos y observando las disposición_nes (sic) legales en materia de asientos de libros y secciones de expedientes individuales, los cuales se numerarán progresivamente en forma anual, se incluirán también secciones jurídicas, de trabajo social y preliberacional;
+> <small>(REFORMADA, B.O. 16 DE ENERO DE 1997)</small>
+
+VII.- Desde su ingreso al centro, se abrirá a cada interno un expediente personal único que se iniciara con copia de las resoluciones relativas a su detención, consignación y demás constancias procesales que correspondan. El expediente se integrara con las siguientes secciones: jurídica, medica, medico-psiquiátrica, psicológica, laboral, educativa, trabajo social y conducta dentro del reclusorio;
 
 VIII.- Documentar los ingresos de los internos en el expediente inicial, cuyo número constituirá para todos los efectos pertinentes, el de la partida única del interesado;
 
 IX.- Pasar a firma del Director o Subdirector, en su caso tanto las órdenes de traslado de internos al exterior; para cualquier efecto, como las notificaciones que sobre dicho traslado y el correspondiente reingreso deban hacerse a las autoridades competentes;
 
-X.- Llevar el archivo general de la Institución, y
+X.- Llevar el archivo general de la Institución, y (sic)
 
-XI.- Realizar las demás tareas correspondientes a su función, que sean encomendadas por autoridades superiores.
+XI.- Realizar las demás tareas correspondientes a su función, que sean encomendadas por autoridades superiores;
+
+> <small>(ADICIONADA, B.O. 16 DE ENERO DE 1997)</small>
+
+XII.- Queda prohibido al personal que no esté expresamente autorizado para ello, el acceso a los expedientes, libros, registros o cualquier otro documento que obre en los archivos de los reclusorios.
 
 ###### ARTICULO 18.
 
@@ -625,11 +649,15 @@ Las visitas se recibirán única y exclusivamente en los lugares señalados para
 
 Se concederá visita semanal, con los internos a los familiares de éstos y a otras personas cuya relación con el recluso resulte conveniente desde el punto de vista del tratamiento de éste. A esta vista se dará el nombre de familiar.
 
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 67.
 
-Se podrá conceder visita especial a los internos, fuera de los días y horas de la familia, cuando la gravedad o urgencia del caso así lo ameriten.
+Los abogados defensores tendrán derecho de hablar con sus defensos cualquier día del año de las 9:00 a las 17:00 horas; después de este horario y solo en caso urgente se autorizara la entrevista por la dirección de los centros.
 
-Los internos tienen absoluto derecho a ser visitados por sus defensores, en cualquier día y hora, quien desee visitar a un recluso como defensor deberá acreditar previamente su calidad de tal. En caso de no hacerlo, no se permitirá su acceso a los Centros.
+En caso de que algún interno tenga dos o más defensores solo a uno de ellos a la vez, se le permitirá el acceso al área destinada para estos casos y pueda hablar con su defenso. En caso plenamente justificado, el interno podrá solicitar al director del centro o a quien ejerza sus funciones hablar con todos sus defensores. El interno podrá solicitar al director del centro o a quien ejerza sus funciones hablar con todos sus defensores.
+
+Cualquier persona que se obstente (sic) como defensor de un interno deberá comprobar su calidad ya que, en caso de no hacerlo, no se le permitirá el acceso.
 
 ###### ARTICULO 68.
 
@@ -645,17 +673,11 @@ Cualquiera que desee visitar a un interno en los Centros de Readaptación Social
 
 Los visitantes se anotarán invariablemente en los libros de control correspondiente.
 
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 71.
 
-Salvo orden expresa del Director, del Subdirector o del Jefe de Vigilancia, a todos los visitantes, menos los abogados defensores, quedan sujetos a revisión personal antes de celebrar la visita. La extensión, que se practicará en cubículos cerrados, en forma separa (sic) para hombres y mujeres y por personal masculino y femenino, según el sexo visitante, será dispuesta por alguno de aquellos funcionarios.
-
-Solo pueden entrar en los cubículos el visitante y el celador o la celadora que realizan la revisión. Por causas graves y justificadas podrán entrar otros miembros del personal, autorizados por su superior, bajo la responsabilidad de éste.
-
-Cuando un visitante traiga consigo bulto, latas, botellas y otros objetos que pretendan llevar a la persona quien visita, aquellos se revisarán cuidadosamente en la caseta de entrada. Para los efectos de este registro se abrirán los paquetes, latas o botellas y, si es necesario, se vaciará su contenido a otro recipiente.
-
-Toda revisión se hará dentro de rigurosas condiciones de higiene.
-
-Cuando el visitante traiga consigo alguna cosa cuya introducción no esté autorizada, se le recogerá previo recibo y se le devolverá a la salida. Si la portación de la cosa constituye delito, se dará parte a la autoridad competente.
+Todos los visitantes quedan sujetos a revisión personal en los lugares destinados para tal fin con el propósito de que no introduzcan artículos no permitidos dentro del centro.
 
 ###### ARTICULO 72.
 
@@ -665,9 +687,13 @@ No se autoriza a los custodios para expedir cartas de los internos ni para desar
 
 En caso de fallecimiento del interno o se (sic) enfermedad grave, o de un traslado para internarlo en una institución de salud, el Director informará de inmediato a la cónyuge o concubina, al pariente más cercano o a cualquier otra persona desigrada (sic) previamente por el interno
 
+> <small>(REFORMADO, B.O. 16 DE ENERO DE 1997)</small>
+
 ###### ARTICULO 74.
 
-Se informará al interno sin demora acerca del fallecimiento o de la enfermedad grave de un pariente cercano. En este último caso se le podrá autorizar, cuando las circunstancias lo permitan, para que visite al enfermo, solo o con custodias, según estime el Consejo Técnico y el Director.
+El interno podrá ser autorizado por la dirección del centro a salir custodiado de la institución, en caso de fallecimiento o enfermedad grave debidamente comprobada de sus padres, cónyuge, hijos o hermanos o de quien constituyera en su vida en libertad miembro importante dentro de su núcleo familiar. Siempre y cuando el interno, por sus características individuales y de los hechos que se le imputan, no se considere un riesgo, la salida del mismo.
+
+En caso de autorización el director del centro bajo su más estricta responsabilidad, fijara las condiciones y medidas de seguridad conforme las cuales deberá efectuarse la salida y regreso del interno.
 
 ###### ARTICULO 75.
 
@@ -896,3 +922,9 @@ Lic. Angel César Mendoza Arámburo.
 EL SECRETARIO GRAL. DE GOBIERNO.
 
 Lic. Guillermo Mercado Romero.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+B.O. 16 DE ENERO DE 1997.
+
+UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL BOLETIN OFICIAL DEL GOBIERNO DEL ESTADO.
