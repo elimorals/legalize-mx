@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1942-03-04"
+last_updated: "1942-09-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 1942.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE SEPTIEMBRE DE 1942.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -284,11 +284,11 @@ Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominar�
 
 El Congreso del Estado se compondrá cuando menos de nueve diputados, electos en su totalidad cada dos años por los Ciudadanos coahuilenses.
 
-> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 1929)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
 
 ###### Artículo 34.
 
-Para la elección de diputados, el Estado se dividirá en Distritos Electorales.- Se eligirá un diputado propietarios y un suplente por cada 45,000 habitantes o por una fracción que pase de 23,000, sirviendo de base el último censo practicado.
+La Elección de Diputados, se hará dividiendo en distritos Electorales el Estado. Se elegirá un Diputado Propietario y un Suplente por cada setenta mil habitantes, o por cada fracción que pase de treinta mil, sirviendo de base el último Censo practicado.
 
 ###### Artículo 35.
 
@@ -1046,11 +1046,13 @@ El territorio del Estado se divide en Distritos y Municipalidades conforme se ex
 
 Las Municipalidades conservarán el territorio que actualmente tienen; pero el Congreso podrá modificar su extensión, cuando lo juzgue conveniente, y aumentar o disminuir el número de ellas.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1926)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
 
 ###### Artículo 124.
 
-Cada Municipio estará administrado por un Ayuntamiento que será nombrado por elección popular directa y se renovará en su totalidad cada dos años, entrando a funcionar el 1º de enero conforme a la Ley; no siendo en todo caso menor de tres el número de munícipes, ni mayor de siete, conforme al orden siguiente: En los Municipios que cuenten menos de 5,000 habitantes, habrá Un Presidente Municipal, Un Regidor y Un Síndico; en los de 5,000 a 20,000 habitantes, habrá un Presidente Municipal, Tres Regidores y Un Síndico; y en los que pasen de 20,000 habitantes habrá un Presidente Municipal, Cuatro Regidores y Dos Síndicos.
+Cada Municipio estará administrado por un Ayuntamiento y se renovará en su totalidad cada tres años, entrando a funcionar el primero de enero conforme a la Ley; no siendo en todo caso menor de tres el número de Munícipes ni mayor de siete conforme al orden siguiente:
+
+En los Municipios que se cuenten hasta ocho mil habitantes, habrá un Presidente Municipal, un Regidor y un Síndico; en los Municipios de más de ocho mil hasta treinta mil habitantes, habrá un Presidente Municipal, tres Regidores y un síndico; en los que pasen de treinta mil habitantes, habrá un Presidente Municipal, cuatro Regidores y dos Síndicos.
 
 > <small>(REFORMADO, P.O. 19 DE OCTUBRE DE 1918)</small>
 
@@ -1064,11 +1066,11 @@ Será Presidente del Ayuntamiento, aquel de sus miembros que haya sido electo co
 
 Las faltas temporales del Presidente Municipal, serán suplidas por los regidores del Ayuntamiento, según el orden de su nombramiento.
 
-> <small>(REFORMADO, P.O. 24 DE JULIO DE 1926)</small>
+> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 1942)</small>
 
 ###### Artículo 127.
 
-La elección de los Síndicos será también popular directa y se nombrarán en la forma señalada en el artículo 124 debiendo nombrarse un Suplente para los Síndicos de aquellos Municipios que no excedan de 20,000 habitantes.
+La Elección de los Síndicos será también popular directa y se nombrarán en la forma señalada en el Artículo 124, debiendo nombrarse un Suplente para los Síndicos de aquellos Municipios que no excedan de treinta mil habitantes.
 
 ###### Artículo 128.
 
@@ -1693,3 +1695,7 @@ EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITOR
 P.O. 4 DE MARZO DE 1942.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 16 DE SEPTIEMBRE DE 1942.
+
+TRANSITORIOS:- Los Ayuntamientos que se elijan el primero de noviembre próximo, durarán en funciones el término de tres años, de conformidad con la reforma al Artículo 124 de la Constitución Política Local, hecha en este Decreto.
