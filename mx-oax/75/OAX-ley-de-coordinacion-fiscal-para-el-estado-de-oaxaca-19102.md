@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2004-12-30"
+last_updated: "2005-03-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACION FISCAL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -271,9 +271,9 @@ El Estado por conducto de la Secretaría enterará este fondo a los Municipios d
 
 El Fondo de Aportaciones para la Infraestructura Social Municipal, se destinará exclusivamente al financiamiento de obras, acciones sociales básicas y a inversiones que beneficien directamente a sectores de su población que se encuentren en condiciones de rezago social y pobreza extrema en los siguientes rubros: Agua potable, alcantarillado, drenaje y letrinas, urbanización municipal, electrificación rural y de colonias pobres, infraestructura básica de salud, infraestructura básica educativa, mejoramiento de vivienda, caminos rurales, e infraestructura productiva rural.
 
-> <small>(F. DE E., P.O. 20 DE ENERO DEL 2001)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
-Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo Institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado a través de la Secretaría de Finanzas, la Contraloría General y el Comité Estatal de Planeación para el Desarrollo del Estado de Oaxaca y el Municipio de que se trate.
+Los Municipios podrán disponer de hasta un 2% del total de recursos del Fondo para la Infraestructura Social Municipal que les correspondan, para la realización de un programa de desarrollo institucional. Este programa será convenido entre el Ejecutivo Federal a través de la Secretaría de Desarrollo Social, el Gobierno del Estado a través de la Secretaría de Finanzas, la Secretaría de la Contraloría y el Comité Estatal de Planeación para el Desarrollo del Estado de Oaxaca y el Municipio de que se trate.
 
 Adicionalmente los Municipios podrán destinar hasta el 3% de los recursos correspondientes, para ser aplicados como gastos indirectos a las obras señaladas en el presente artículo.
 
@@ -433,7 +433,7 @@ DIPUTADO SECRETARIO.
 
 Por tanto # #.-
 
-#.- mando que se imprima, publique, circule y se le de el debido cumplimiento.
+#.- mando que se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Oaxaca de Juárez, Oax., a 21 de diciembre del año 2000.
 
@@ -478,3 +478,7 @@ PRIMERO.- El presente Decreto entrará en vigor el 1 de enero de 2004, previa pu
 P.O. 30 DE DICIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día 1 de enero del año 2005, previa publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
