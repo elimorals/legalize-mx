@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "2002-09-28"
+last_updated: "2005-03-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE SEPTIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2005.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -717,7 +717,7 @@ II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la
 
 ### CAPITULO UNICO. DE LOS DERECHOS
 
-(REUBICADO [ANTES ARTICULO 53], P.O. 14 DE DICIEMBRE DE 1996)
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2005)</small>
 
 ### CAPITULO UNICO. DE LOS PRODUCTOS DIVERSOS
 
@@ -733,7 +733,11 @@ II.- Cuando por los informes que se obtengan se ponga de manifiesto que entre la
 
 ###### ARTICULO 66.
 
-Los derechos por la prestación de servicios públicos del Estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del Estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fija el derecho señale cosa distinta.
+Los derechos por la prestación de servicios públicos del estado, se causarán en el momento en que el sujeto reciba la prestación del servicio o en el momento en que se provoque por parte del estado, el gasto que deba ser remunerado por aquél, salvo el caso que la disposición que fija el derecho señale cosa distinta.
+
+Tratándose del derecho por servicios de vigilancia, inspección y control por concepto del control de la obra pública; la dependencia o entidad contratante retendrá al contratista que ejecute obra con recursos públicos estatales, lo que corresponda de aplicar el cinco al millar del monto de cada una de las estimaciones pagadas.
+
+Los recursos recaudados por este concepto deberán destinarse a la fiscalización de las obras públicas. El 50% de dichos recursos será aplicado directamente por el órgano de control interno del ente público contratante; el resto deberá enterarse al Órgano de Fiscalización Superior del Estado durante los primeros quince días del mes siguiente al que se recauden, para que dentro del ámbito de sus atribuciones, los destine al mismo fin.
 
 (REUBICADO [ANTES ARTICULO 54], P.O. 14 DE DICIEMBRE DE 1996)
 
@@ -927,7 +931,7 @@ Cuarto.- El Gobernador del Estado y el Congreso del Estado preverán lo conducen
 
 Quinto.- Los procedimientos y recursos administrativos que se encuentren en trámite al entrar en vigor esta resolución, se substanciarán de conformidad a las disposiciones legales anteriores al mismo.
 
-Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
+Sexto.- El Poder Ejecutivo y los Ayuntamientos del estado deberán prever que sus respectivos proyectos de leyes de ingresos del año 2003 y siguientes; se ajusten a lo establecido en el artículo 71 del ARTÍCULO PRIMERO de este decreto, en tanto no se modifique su contenido.
 
 Asimismo, realizarán las acciones necesarias para que en sus respectivos presupuestos de egresos se considere, a partir del año 2003, una partida específica para el pago de la responsabilidad patrimonial por los daños y perjuicios en que pudieren incurrir sus servidores públicos.
 
@@ -940,3 +944,13 @@ En cualquier caso, el Ejecutivo del Estado deberá realizar la publicación por 
 P.O. 28 DE SEPTIEMBRE DE 2002
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
+
+P.O. 23 DE MARZO DE 2005.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+###### ARTÍCULO SEGUNDO.
+
+Los entes públicos comenzarán a realizar las retenciones correspondientes al derecho por Servicios de Vigilancia, Inspección y Control de la obra pública a cada una de las estimaciones que se paguen a partir de que hayan transcurrido quince días contados a partir de la entrada en vigor del presente decreto.
