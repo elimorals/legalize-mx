@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-obras-publicas-equipamientos-suministros-y-servicios-132
 country: "mx"
 rank: "ley"
 publication_date: "1998-07-03"
-last_updated: "1998-07-03"
+last_updated: "2001-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13236&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE OBRAS PUBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE OBRAS PUBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
+LEY DE OBRAS PÚBLICAS, EQUIPAMIENTOS, SUMINISTROS Y SERVICIOS RELACIONADOS CON LA MISMA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE AGOSTO DE 2001.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 3 de julio de 1998.
 
@@ -89,11 +89,13 @@ II.- Ejecutivo: Gobernador del Estado y Presidente Municipal.
 
 III.- Secretaría: La Secretaría de Asentamientos Humanos y Obras Públicas dentro del ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
 
-IV.- Planeación y Presupuesto: La Secretaría de Planeación y Presupuesto en el ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+IV.- Planeación y Finanzas: La Secretaría de Planeación y Finanzas en el ámbito estatal y, el órgano administrativo correspondiente al ámbito municipal.
 
 V.- Desarrollo Económico: La Secretaría de Desarrollo Económico en el ámbito estatal y el órgano administrativo correspondiente en el ámbito municipal.
 
-VI.- Finanzas: La Secretaría de Finanzas y el órgano administrativo correspondiente en el ámbito municipal.
+VI.- (DEROGADA, P.O. 17 DE AGOSTO DE 2001)
 
 VII.- Dirección de Medio Ambiente: La Dirección General de Ecología del Estado y el órgano administrativo correspondiente en el ámbito municipal.
 
@@ -203,9 +205,11 @@ Para coordinar las acciones que en materia de obra pública realicen las depende
 
 Los Comités Intersectoriales tendrán como miembros a los titulares de la Dirección y de las demás dependencias que determinen los reglamentos expedidos por el Ejecutivo Estatal y los Cabildos Municipales dentro del ámbito de sus respectivas competencias y en los cuales podrán participar por invitación los representantes de las Cámaras que correspondan.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 15.
 
-Será responsabilidad de las instituciones mantener adecuada y satisfactoriamente inventariados los bienes con que cuenten para la realización de la obra pública, remitiéndolos a la Secretaría dentro del primer bimestre de cada año.
+Será responsabilidad de las dependencias y entidades mantener adecuada y satisfactoriamente inventariados los bienes con que cuenten para la realización de la obra pública, remitiendo copia a la Secretaría dentro del primer bimestre de cada año.
 
 ## TITULO SEGUNDO. DE LA PLANEACION, PROGRAMACION Y PRESUPUESTACION
 
@@ -241,9 +245,11 @@ Para tal efecto, las dependencias o entidades ejecutarán o contratarán los ser
 
 VII.- Los resultados previsibles.
 
-VIII.- La calendarización física y financiera de los recursos necesarios para su ejecución, así como gastos de equipamiento y operación. En los casos de obra pública que rebase un ejercicio presupuestal, las dependencias o entidades, deberán contar con presupuestos multianuales aprobados por Planeación y Presupuesto, con la finalidad de que esta los incluya en los anteproyectos de egresos de los posteriores ejercicios fiscales.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
 
-Para tal efecto, Planeación y Presupuesto deberá tomar en cuenta el factor inflacionario, a fin de considerar los recursos adicionales que se requieran para cubrir los ajustes de costos de las obras públicas y de los servicios relacionados con la misma.
+VIII.- La calendarización física y financiera de los recursos necesarios para su ejecución, así como gastos de equipamiento y operación. En los casos de obra pública que rebase un ejercicio presupuestal, las dependencias o entidades, deberán contar con presupuestos multianuales aprobados por Planeación y Finanzas, con la finalidad de que esta los incluya en el anteproyecto de egresos de los posteriores ejercicios fiscales.
+
+Para tal efecto, Planeación y Finanzas deberá tomar en cuenta el factor inflacionario, a fin de considerar los recursos adicionales que se requieran para cubrir los ajustes de costos de las obras públicas y de los servicios relacionados con las mismas.
 
 IX.- Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación de los trabajos.
 
@@ -297,11 +303,15 @@ El documento que contenga los programas será de carácter informativo, no impli
 
 En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, deberá determinarse tanto el presupuesto total como lo relativo a los ejercicios de que se trate, en la formulación de los presupuestos de los ejercicios subsecuentes se considerarán los costos que, en su momento se encuentren vigentes y se deberá dar prioridad a las previsiones para la continuidad de las obras públicas ya iniciadas o de los servicios relacionados con las mismas en proceso.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 23.
 
-Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, una vez que cuenten con la calendarización global o específica aprobada, por parte de Planeación y Presupuesto, de su presupuesto de inversión y gasto corriente, conforme a los cuales deben elaborarse los programas de ejecución y pago correspondientes.
+Las dependencias y entidades podrán convocar, adjudicar o llevar a cabo obras públicas y servicios relacionados con las mismas, una vez que cuenten con la calendarización global o específica aprobada por parte de Planeación y Finanzas, de su presupuesto de inversión y gasto corriente, conforme a los cuales deben elaborarse los programas de ejecución y pago correspondiente.
 
-En casos excepcionales y previa autorización de Planeación y Presupuesto las dependencias y entidades podrán convocar sin contar con la calendarización de su presupuesto aprobado.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+En casos excepcionales y previa autorización de Planeación y Finanzas, las dependencias y entidades podrán convocar sin contar con la calendarización de su presupuesto aprobado.
 
 Tratándose de obras públicas, además; se requiere contar con los estudios y proyectos, las normas y especificaciones de construcción, el programa de ejecución, y en su caso, el programa de suministros, salvo proyectos integrales, para los cuales se deberá contar con los requisitos de arquitectura e ingeniería básicos y en su caso, resultados esperados que establezca la dependencia o entidad, en todos los casos deberá contar con la autorización en materia de Impacto Ambiental que emita la autoridad correspondiente.
 
@@ -331,7 +341,9 @@ No quedan comprendidos dentro de los servicios relacionados con las obras públi
 
 La Secretaría, integrará un padrón de contratistas y proveedores registrando y clasificándolos, por especialidad y capacidad técnica, económica y de ejecución física anual, conforme a los criterios y procedimientos que al respecto fije. Solamente podrán ser registradas en el Padrón las personas físicas o morales que cuenten con su domicilio fiscal en el Estado.
 
-Las personas interesadas en inscribirse en el Padrón de Contratistas del Estado o Municipios, deberán solicitarlo por escrito a la Secretaría, acompañado la información y documentación que al efecto se señale en los reglamentos de esta Ley y anexando el comprobante que ampare el pago de los derechos que para tal efecto se fije en la Ley de Ingresos correspondiente.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Las personas interesadas en inscribirse en el Padrón de Contratistas y Proveedores del Estado o Municipios, deberán solicitarlo por escrito a la Secretaría, acompañando la información y documentación que al efecto se señale en los reglamentos de esta Ley y anexando el comprobante que ampare el pago de los derechos que fije la Ley de Ingresos correspondiente.
 
 La Secretaría dentro de un plazo que no exceda a quince días hábiles, contados a partir de la fecha en que reciba la solicitud, emitirá resolución de la petición planteada fundando y motivando su proceder. Transcurrido ese plazo, sin que haya respuesta o aclaración, se tendrá por aprobada la solicitud y registrado al solicitante.
 
@@ -343,9 +355,11 @@ La clasificación a que se refiere el párrafo primero del artículo anterior, d
 
 Cuando en los Municipios no se tenga integrado dicho Padrón, sus dependencias y entidades solo podrán celebrar contratos de obra pública o servicios relacionados con las mismas, con las personas inscritas en el Padrón elaborado por la Secretaría de Asentamientos Humanos y Obras Públicas.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 29.
 
-El registro en el Padrón de los Contratistas y Proveedores tendrá vigencia indefinida, siempre y cuando no incurran en alguna de las causas de suspensión o cancelación previstas en los artículos 30 y 31 de esta Ley. La Secretaría, en cualquier tiempo podrá verificar la información que los contratistas hubiesen aportado para la obtención de su registro.
+El registro en el Padrón de Contratistas y Proveedores tendrá vigencia indefinida, siempre y cuando se cumpla con la obligación de revalidarlo anualmente y no se incurra en alguna de las causas de suspención (sic) o cancelación previstas en los artículos 30 y 31 de esta Ley. La Secretaría en cualquier tiempo podrá verificar la información que los contratistas hubiesen aportado para la obtención de su registro.
 
 ###### ARTICULO 30.
 
@@ -391,9 +405,11 @@ II.- Invitación simplificada, a cuando menos tres contratistas.
 
 III.- Adjudicación directa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 34.
 
-En los contratos de obras públicas, equipamientos, suministros y los servicios relacionados con las mismas, que se deban adjudicar a través de los procedimientos señalados en las fracciones I y II del artículo anterior, los interesados en participar presentarán proposiciones solventes en sobre cerrado, el cual será abierto públicamente, a fin de asegurar al Estado las mejores condiciones en el precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
+En los contratos de obras públicas, equipamientos, suministros y los servicios relacionados con las mismas, que se deban adjudicar a través de los procedimientos señalados en las fracciones I y II del artículo anterior, los interesados en participar presentarán proposiciones solventes en sobre cerrado, el cual será abierto públicamente, a fin de asegurar las mejores condiciones en el precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes, de acuerdo con lo que establece la presente Ley.
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este artículo, se harán acreedores a las sanciones que resulten aplicables.
 
@@ -417,9 +433,11 @@ IV.- Presentación y apertura de proposiciones, y
 
 V.- Adjudicación del Contrato.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 37.
 
-El procedimiento de Licitación Pública se inicia con el lanzamiento de la convocatoria, la cual deberá publicarse en el Periódico Oficial del Estado y simultáneamente, cuando menos en un Diario de Mayor circulación del Municipio donde se habrá de ejecutar la obra. La convocatoria se podrá referir a una o más obras, equipamiento, suministros y servicios relacionados con las mismas y deberá contener los siguientes requisitos:
+El procedimiento de Licitación Pública se inicia con el lanzamiento de la convocatoria, la cual deberá publicarse en el Periódico Oficial del Estado y simultáneamente, en un diario de mayor circulación estatal y en uno del Municipio donde se habrá de ejecutar la obra. La convocatoria se podrá referir a una o más obras, equipamiento, suministros y servicios relacionados con las mismas y deberá contener como mínimo los siguientes requisitos:
 
 I.- El nombre, denominación o razón social de la dependencia o entidad convocante.
 
@@ -477,7 +495,9 @@ I.- Nombre, denominación o razón social de la dependencia o entidad convocante
 
 II.- Fecha, hora y lugar para la presentación y apertura de proposiciones.
 
-III.- Fecha, hora y lugar de la visita al sitio de los trabajos, la que deberá llevarse a cabo dentro de un plazo no mayor de diez días naturales a partir de la fecha de la convocatoria, ni menor a siete días naturales anteriores a la fecha de apertura de proposiciones. La o las juntas de aclaración a las bases de la licitación, serán optativas dentro de los mismos periodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, siendo responsabilidad del licitante verificar si hubo o no modificaciones posteriores a la junta de aclaración o al último comunicado de la dependencia o entidad convocante hasta siete días naturales antes de la apertura.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+III.- Fecha, hora y lugar de la visita al sitio de los trabajos, la que deberá llevarse a cabo dentro de un plazo no menor de diez días naturales a partir de la fecha de la convocatoria, ni menor a siete días naturales anteriores a la fecha de la apertura de proposiciones. La o las juntas de aclaraciones a las bases de licitación, serán optativas dentro de los mismos períodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, siendo responsabilidad del licitante verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta siete días naturales antes del acto de presentación y apertura de proposiciones.
 
 IV.- Garantías de acuerdo a lo establecido en el Artículo 44 de esta Ley.
 
@@ -503,7 +523,9 @@ XIV.- Demostrar cuando proceda registro actualizado de la Cámara que correspond
 
 XV.- Criterios claros y detallados para la adjudicación de los contratos. En la evaluación de las proposiciones podrán utilizarse mecanismos de puntos o porcentajes, tratándose de obras y servicios relacionados con las mismas en los que no sea conveniente establecer sistemas de evaluación binaria que permitan una evaluación objetiva. En las convocatorias deberán señalarse los mecanismos de calificación, en su caso.
 
-XVI.- El procedimiento de ajuste de costos, conforme lo establecido en el Artículo 64 de esta ley.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+XVI.- El procedimiento de ajustes de costos, conforme a lo establecido en el Artículo 63 de esta Ley.
 
 XVII.- Proyecto arquitectónico y de ingeniería que se requieran para preparar la proposición; normas de calidad de los materiales y especificaciones de construcción aplicables, catálogo de conceptos, cantidades y unidades de trabajo: y relación de conceptos de trabajo, indicando de cuales de ellos deberán presentar análisis de precios unitarios y relación de costos básicos de materiales, mano de obra y maquinaria de construcción que interviene en el análisis anterior. El contratista que resulte favorecido con el fallo de adjudicación deberá entregar, los análisis de precios que complementen la totalidad de los conceptos del catálogo proporcionado, en el supuesto de que se solicite un porcentaje de los mismos, en un plazo no mayor de tres día (sic) hábiles contados a partir de que el contratista reciba la copia del acta del fallo de adjudicación.
 
@@ -517,7 +539,9 @@ I.- Nombre, denominación o razón social de la dependencia o entidad convocante
 
 II.- Fecha, hora y lugar para la presentación y apertura de proposiciones.
 
-III.- Cuando se considere necesario-fecha, hora y lugar para la visita al sitio de los trabajos, la que en su caso se deberá llevar a cabo dentro de un plazo no menor de diez días naturales contados a partir de la publicación de la convocatoria, ni menor de siete días naturales a la fecha y hora del acto de presentación y apertura de proposiciones. La o las juntas de aclaraciones serán optativas dentro de los mismos periodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+III.- Cuando se considere necesario fecha, hora y lugar para la visita al sitio de los trabajos, la que en su caso se deberá llevar a cabo dentro de un plazo no menor de diez días naturales contados a partir de la publicación de la convocatoria, ni menos de siete días naturales a la fecha y hora del acto de presentación y apertura de proposiciones. La o las juntas de aclaraciones serán optativas dentro de los mismos períodos señalados para la visita al sitio de los trabajos. Las aclaraciones deberán ser comunicadas por escrito a todos los licitantes, quienes serán responsables de verificar si hubo o no modificaciones posteriores a la junta de aclaraciones o al último comunicado de la dependencia o entidad convocante hasta siete días naturales antes del acto de presentación y apertura a (sic) de proposiciones.
 
 IV.- Garantías solicitadas de acuerdo a lo establecido en el Artículo 44 de esta Ley.
 
@@ -543,7 +567,7 @@ XIV.- Demostrar cuando proceda registro actualizado de la Cámara, Colegio o Aso
 
 XV.- Criterios claros y detallados para la adjudicación de los contratos. En la evaluación de las proposiciones podrán utilizarse mecanismos de puntos y porcentajes, tratándose de servicios relacionados con la obra pública en los que no sea conveniente establecer sistemas de evaluación binaria que permitan una evaluación objetiva. En las convocatorias deberán señalarse los mecanismos de calificación, o en su caso, términos de referencia de los servicios, incluyendo descripción detallada, objetivos, alcances técnicos de los trabajos y servicios requeridos: normas técnicas aplicables: normas administrativas para la coordinación de los servicios: condiciones en que se presentarán estos: descripción y especificaciones de los productos y servicios por entregar.
 
-XVI.- El procedimiento de ajuste de costos, conforme lo establecido en el Artículo 63 de esta Ley.
+XVI.- El procedimiento de ajustes de costos, conforme lo establecido en el Artículo 63 de esta Ley.
 
 XVII.- Términos de referencia de los servicios, incluyendo descripción detallada, objetivos, alcances técnicos de los trabajos y servicios requeridos, normas técnicas aplicables, normas administrativas para la evaluación de los servicios, condiciones en que se presentarán estos, descripción y especificaciones de los productos y servicios por entregar.
 
@@ -567,7 +591,7 @@ En las licitaciones se deberán establecer los mismos requisitos y condiciones p
 
 Todo interesado que satisfaga los requisitos de la convocatoria y de las bases de la licitación, tendrá derecho a presentar su proposición. Para tal efecto, las dependencias y entidades no podrán exigir requisitos adicionales a los previstos por esta Ley. Así mismo, proporcionarán a todos los interesados igual acceso a la información relacionada con la licitación, a fin de evitar favorecer a algún participante.
 
-El plazo para la presentación y apertura de proposiciones será, cuando menos, de quince días naturales contados a partir de la fecha de publicación de la convocatoria.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE AGOSTO DE 2001)</small>
 
 Cuando no puedan observarse los plazos indicados porque existan razones de urgencia justificada y, siempre que con ello no tenga por objeto limitar el número de participantes, las dependencias o entidades podrán reducirlos, en cuyo caso no podrán ser menores a diez días naturales a partir de la fecha de publicación de la convocatoria, pudiéndose suspender la visita al sitio de los trabajos.
 
@@ -731,7 +755,9 @@ V.- Se trate de trabajos de conservación, mantenimiento, restauración, reparac
 
 VI.- Se trate de trabajos que requieran fundamentalmente de mano de obra campesina urbana marginada y, que la dependencia o entidad contrate directamente con contratistas o habitantes beneficiarios de la localidad o del lugar donde deban realizarse los trabajos o con las personas morales o agrupaciones legalmente establecidas por los propios habitantes beneficiados.
 
-VII.- Se trate de obras o servicios que, de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad o intereses del Estado o comprometer información de naturaleza confidencial para el gobierno Estatal.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+VII.- Se trate de obras o servicios que, de realizarse bajo un procedimiento de licitación pública, pudiera afectar la seguridad e intereses del Estado o Municipios, o comprometer información de naturaleza confidencial.
 
 Las dependencias o entidades, preferentemente, invitarán a cuando menos a tres contratistas según corresponda, salvo que ello a su juicio no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa.
 
@@ -741,7 +767,9 @@ En cualquier supuesto se convocará a quien o quienes cuenten con capacidad de r
 
 En casos de emergencia siempre que se trate de salvaguardar la integridad, la seguridad, la independencia, o la soberanía del Estado, el Gobernador del Estado podrá bajo su responsabilidad, autorizar la contratación directa de la obra pública, incluido el gasto correspondiente, así como establecer los medios de control que estime necesarios, sin perjuicio de la posterior comprobación efectiva de la aplicación de los recursos, de conformidad con lo establecido en la presente Ley y demás leyes de la materia.
 
-En los mismos términos y previo acuerdo del cabildo, podrán actuar los Ayuntamientos en el ámbito de sus respectivas competencias, siempre que lo hagan con base en recursos de su patrimonio propio.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+En los mismos términos y mediante acuerdo de cabildo, podrán actuar los Ayuntamientos en el ámbito de sus respectivas competencias, siempre que lo hagan con base en recursos de su patrimonio propio.
 
 ###### ARTICULO 52.
 
@@ -759,13 +787,17 @@ En los procedimientos para la contratación de obra pública, las dependencias o
 
 Para los efectos de esta Ley, los contratos de obra pública, equipamiento, suministro y servicios relacionados con la misma, según las condiciones de los trabajos a ejecutar, podrán ser:
 
-I.- Sobre la base de precios unitarios o plantilla mensual, en cuyo caso el monto total de los trabajos ejecutados se cubrirá al contratista por unidad de concepto de trabajo terminado.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+I.- Sobre la base de precios unitarios, en cuyo caso el monto total de los trabajos ejecutados se cubrirá al contratista por unidad de concepto de trabajo terminado.
 
 II.- A precio alzado, en cuyo caso el monto total de los trabajos ejecutados será fijo, debiéndose cubrir en el plazo establecido.
 
 Las proposiciones que presenten los contratistas para la celebración de estos contratos deberán estar desglosados por actividades principales.
 
-Las dependencias y entidades podrán incorporar las modalidades de contratación que tiendan a garantizar al Estado las mejores condiciones en la ejecución de la obra, siempre que con ello no se desvirtúe el tipo de contratación con que se haya licitado.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Las dependencias y entidades podrán incorporar las modalidades de contratación que tiendan a garantizar las mejores condiciones en la ejecución de la obra, siempre que con ello no se desvirtúe el tipo de contratación con que se haya licitado.
 
 Las dependencias y entidades por ningún motivo, podrán modificar las condiciones pactadas originalmente, ni desvirtuar el tipo de contratación con que se haya licitado.
 
@@ -833,7 +865,9 @@ I.- Los importes de los anticipos concedidos serán puestos a disposición del c
 
 Los contratistas en su proposición deberán considerar para determinar el costo financiero de los trabajos, el importe de los anticipos.
 
-II.- Cuando el contratista no entregue la garantía de los anticipos dentro del plazo señalado en el Artículo 46 de esta Ley, no procederá el diferimiento y por lo tanto deberá iniciar la obra en la fecha establecida originalmente.
+> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2001)</small>
+
+II.- Cuando el contratista no entregue la garantía de los anticipos dentro del plazo señalado en el artículo 44 de esta ley, no procederá el diferimiento y por lo tanto deberá iniciar la obra en la fecha establecida originalmente.
 
 III.- No se otorgarán anticipos para el importe resultante de los ajustes de costo del contrato, generados durante el ejercicio presupuestal de que se trate.
 
@@ -887,9 +921,11 @@ El contratista deberá presentar a la dependencia o entidad las estimaciones de 
 
 Las estimaciones por trabajos ejecutados son independientes una de otra en su pago, y por tanto, cualquier secuencia es sólo para efectos de control administrativo. Las diferencias técnicas o numéricas pendientes de pago se resolverán e incorporarán en la siguiente estimación.
 
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
 ###### ARTICULO 62.
 
-Cuando por circunstancias de carácter económico no previstas en el contrato, se origine un aumento o reducción en los costos de los trabajos aún no ejecutados conforme al programa convenido o vigente, en su caso, dichos costos deberán ser ajustados, atendiendo al procedimiento de ajuste de costos acordado por las partes en el respectivo contrato. El aumento o reducción correspondiente deberá constar por escrito.
+Cuando por circunstancias de carácter económico no previstas en el contrato, se origine un aumento o reducción en los costos de los trabajos aún no ejecutados conforme al programa convenido o vigente, en su caso, dichos costos deberán ser ajustados, atendiendo al procedimiento de ajuste de costos acordado por las partes en el respectivo contrato. El resultado de la revisión ya sea por aumento o reducción, deberá constar por escrito y comunicarse al contratista.
 
 ###### ARTICULO 63.
 
@@ -905,7 +941,9 @@ II.- Los incrementos o decrementos de los costos de los insumos, a nivel de dist
 
 III.- Los precios originales del contrato permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato. El costo por financiamiento estará sujeto a las variaciones de la tasa de interés que el contratista haya considerado en su propuesta, sin afectarse por la utilidad, la cual será invariable durante el ejercicio del contrato.
 
-La dependencia o entidad promoverá la revisión o a solicitud escrita del contratista, la que deberá acompañar de la documentación comprobatoria necesaria, en su caso, la dependencia o entidad dentro de los quince días naturales siguientes, con base en la documentación aportada por el contratista, resolverá sobre la procedencia o improcedencia de la solicitud.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+La dependencia o entidad promoverá la revisión por sí o a solicitud escrita del contratista; la que deberá acompañarse de la documentación comprobatoria necesaria. La dependencia o entidad resolverá dentro de los quince días naturales siguientes, con base en la documentación aportada por el contratista, la procedencia o improcedencia de la solicitud, notificando al contratista la resolución.
 
 El ajuste de costos que corresponda a los trabajos ejecutados conforme a las estimaciones correspondientes, deberá cubrirse por parte de las dependencias o entidades a más tardar dentro de los treinta días naturales siguientes a la fecha de la aprobación de la solicitud.
 
@@ -1031,7 +1069,9 @@ III.- Por precio global, en cuyo caso, el importe de la remuneración o pago tot
 
 Estos tipos de contrato podrán estar sujetos a ajustes de costos, en los términos de los Artículos 62 y 63.
 
-Las dependencias o entidades podrán incorporar las modalidades de contratación que garanticen al Estado las mejores condiciones en la prestación del servicio, sin desvirtuar el tipo de contrato-estipulado. Habiendo establecido para ello, los términos de referencia en forma detallada.
+> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2001)</small>
+
+Las dependencias o entidades podrán incorporar las modalidades de contratación que garanticen las mejores condiciones en la prestación del servicio, sin desvirtuar el tipo de contrato estipulado. Habiendo establecido para ello, los términos de referencia en forma detallada.
 
 ###### ARTICULO 77.
 
@@ -1238,3 +1278,19 @@ HECTOR TERAN TERAN
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 RODOLFO VALDEZ GUTIERREZ.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE AGOSTO DE 2001.
+
+DECRETO No. 328
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE AGOSTO DE 2001.
+
+DECRETO No. 331
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
