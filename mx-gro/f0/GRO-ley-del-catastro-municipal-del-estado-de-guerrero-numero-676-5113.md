@@ -4,7 +4,7 @@ identifier: "GRO-ley-del-catastro-municipal-del-estado-de-guerrero-numero-676-51
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-03"
-last_updated: "1988-12-30"
+last_updated: "1989-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1988.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en el Alcance al Número 1 del Periódico Oficial del Estado de Guerrero, el martes 3 de enero de 1984.
 
@@ -37,13 +37,17 @@ LEY DEL CATASTRO MUNICIPAL DEL ESTADO DE GUERRERO NUMERO 676
 
 ### CAPITULO I. Objeto y Definiciones
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 1o.
 
-Catastro, es el inventario de los bienes inmuebles ubicados en el territorio del Estado, sus acciones son de utilidad pública e interés social y tienen por objeto:
+Catastro, es el inventario de los bienes inmuebles ubicados en el territorio del Estado, sus acciones son de orden público e interés social y tiene por objeto:
 
 I.- Registrar, controlar y mantener actualizadas las características cualitativas y cuantitativas de la propiedad raíz comprendida en la jurisdicción territorial de los municipios del Estado, para fines fiscales, estadísticos, socioeconómicos, jurídicos e históricos, y para dar el apoyo fundamental en la formulación y adecuación de planes municipales de desarrollo urbano, y planes de ordenación de zonas conurbadas.
 
-II.- Delimitar las zonas y regiones catastrales de los predios urbanos y rústico.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+II.- Delimitar las zonas y regiones catastrales de los predios urbanos, suburbanos y rústicos.
 
 III.- Establecer las normas técnicas para la formación, mejoramiento y conservación de los registros catastrales para el control de la propiedad raíz.
 
@@ -85,7 +89,9 @@ XI.- Región catastral: la superficie territorial de índole operativo que deter
 
 XII.- Zona catastral: cada una de las superficies que en su conjunto integran una región catastral.
 
-XIII.- Zona urbana: la delimitación territorial que cuenta con servicios que permiten asentamientos humanos; y rústica la que se encuentra fuera de la zona urbana.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XIII.- Zona urbana: la delimitación territorial que cuenta con servicios que permiten asentamientos humanos.
 
 XIV.- Vía pública: las superficies de terreno destinadas a la circulación vehicular ó peatonal.
 
@@ -103,15 +109,43 @@ XX.- Revaluación: la actualización de los valores catastrales para determinar 
 
 XXI.- Zona de jardín: el espacio de terreno libre de construcción y cubierto por plantas y elementos de ornato.
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXII.- Predio suburbano: el que está localizado en las áreas aledañas a la zona urbana y que son susceptibles de urbanizarse conforme a las disposiciones legales en la materia.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXIII.- Régimen de propiedad: por su régimen las propiedades se dividen en federal, estatal, municipal, privada, condominal, de tiempo compartido, multipropiedad, ejidal y comunal.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXIV.- Zona suburbana: la delimitación territorial adyacente a la zona urbana susceptible de dotarse de servicios.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXV.- Zona rústica: la delimitación territorial que se encuentre fuera de las zonas urbana y suburbana.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXVI.- Tiempo compartido: el sistema por el cual se adquiere el derecho de uso, goce y disfrute de una unidad residencial vacacional, los bienes muebles que a ella se encuentren afectos, y en su caso, las instalaciones, áreas, construcciones y servicios comunes, siempre y cuando el derecho se limite a un número determinado de días por un período específico de años.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXVII.- Multipropiedad: el derecho por el cual el multipropietario adquiere el dominio pleno sobre una parte alícuota de una unidad inmobiliaria de cualquier tipo, afecta a cualquier destino, respecto de la cual ejerce todas las facultades de dueño para disponer, transmitir, intercambiar y gravar; sujeto a un calendario en cuanto a los derechos de uso, goce, aprovechamiento y disfrute exclusivo, en los términos de su respectiva parte alícuota de utilización, terminada la cual, continuarán en el uso exclusivo por su orden el resto de los multipropietarios en forma sucesiva y cíclica.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 3o.
 
-Todos los predios urbanos y rústicos catastrados ubicados dentro del territorio del municipio deberán inscribirse en el catastro y estar contenidos en los padrones cartográficos, alfabético y numérico.
+Todos los predios urbanos, suburbanos y rústicos catastrados ubicados dentro del territorio del Municipio deberán inscribirse en el Catastro y estar contenidos en los padrones cartográfico, alfabético y numérico.
 
 I.- El padrón cartográfico es el constituído por:
 
 a).- El plano general del municipio.
 
-b).- Planos de las regiones urbanas y rústicas catastradas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+b) Planos de las regiones urbanas, suburbanas y rústicas catastradas.
 
 c).- Los planos de manzana integrados por predios.
 
@@ -138,6 +172,18 @@ i).- Superficie de terreno y construcciones.
 j).- Valor catastral del predio.
 
 k).- Vigencia de la valuación del predio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+l) Características físicas del inmueble.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+m) Datos socioeconómicos de la zona catastral.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+Las modificaciones a cualesquiera de las características de los bienes inmuebles, deberán anotarse en los padrones para su actualización.
 
 ###### ARTICULO 4o.
 
@@ -271,7 +317,9 @@ La ausencia de los interesados citados legalmente, no será motivo para suspende
 
 El resultado de estas operaciones catastrales y en su caso las observaciones de los propietarios o poseedores o de quienes los representen legalmente, se hará constar en acta circunstanciada, que firmará el personal autorizado de la Dirección o área del Catastro, que hubiere intervenido en los trabajos, pudiendo firmar, si lo consideran conveniente los propietarios o poseedores del predio deslindado y de los colindantes, o sus representantes.
 
-En caso de no llegar a una conformidad plena, los propietarios o poseedores de predios colindantes, se hará constar en el acta y se dejará a salvo los derechos de los interesados.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+En caso de afectar a predios colindantes y no se llegara a una conformidad plena con sus propietarios o poseedores se hará constar en el acta y se tomará nota dejando a salvo los derechos de los interesados.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -281,7 +329,7 @@ La Dirección o área del Catastro expedirá copias certificadas de los planos y
 
 ### CAPITULO V. De las Obligaciones Catastrales
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 20.
 
@@ -313,11 +361,21 @@ IV.- Cuando teniendo un avaluó provisional fijado de conformidad con el artícu
 
 V.- Cuando los predios se fusionen o se subdividan, o sea motivo de fraccionamiento ya sea urbano o campestre.
 
-VI.- Cuando se cambie el régimen de propiedad individual por el de condominio.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+VI.- Cuando se cambie el régimen de propiedad individual por el de condominio, tiempo compartido y multipropiedad.
 
 VII.- Cuando se haya cancelado una exención fiscal concedida en los términos de ley.
 
 VIII.- Cuando por cualquier motivo se modifiquen las características físicas, jurídicas y económicas que afecten su valor.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+IX.- Cuando se cambie de predio rústico a suburbano y de suburbano a urbano.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+X.- Cuando se dividan terrenos por la apertura de calles o la realización de otras obras públicas.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -332,6 +390,14 @@ Para efectuar el proceso de valuación de los predios urbanos deberá partirse d
 ###### ARTICULO 26.
 
 Para la determinación de los parámetros valuatorios de la tierra, tratándose de los predios comprendidos en las zonas urbanas, se tomará en cuenta su localización para el caso de su análisis con apoyo en polos locales de desarrollo, o bien el uso predominante de los predios en cada vía y zona respectiva, los servicios urbanos existentes, medios de comunicación y en general todos aquellos factores determinantes en el valor de la tierra, cuando sea aplicable el procedimiento de valores de calle.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 26
+
+BIS.- Para la valuación de cada terreno deberá multiplicarse el valor unitario de suelo aplicable de la zona catastral donde se ubique, por la superficie del terreno y por los factores de demérito o incrementos que correspondan a su ubicación, forma y topografía.
+
+Para la valuación de cada construcción deberá multiplicarse el valor unitario de la construcción aplicable a cada tipo de edificación por el área construida y por los factores de demérito o incrementos que correspondan a su antigüedad y grado de conservación.
 
 ###### ARTICULO 27.
 
@@ -379,17 +445,21 @@ Los valores unitarios comprendidos en las tablas y cuadros de parámetros valuat
 
 El municipio en coordinación con las dependencias oficiales correspondientes, determinará los perímetros de las zonas urbanas y suburbanas de los núcleos de población que ameriten ese carácter. Las áreas ubicadas fuera de tales perímetros constituirán las zonas rústicas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 36.
 
-En los casos de edificaciones construídas bajo el régimen de condominio, deberá fijarse valor a cada uno de los departamentos, despachos, o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes de conformidad con lo que establece esta ley y los ordenamientos relativos.
+En los casos de edificaciones construidas bajo los regímenes de condominio, tiempo compartido o multipropiedad, deberá fijarse valor a cada uno de los departamentos, despachos, o cualquier otro tipo de locales, comprendiéndose en la valuación la parte proporcional indivisa de los bienes comunes de conformidad con lo que establece esta Ley y los ordenamientos relativos.
 
-En tales casos, cada localidad se empadronará con número de cuenta y clave catastral por separado, para efectos del pago del impuesto predial, en los términos de la ley respectiva.
+En tales casos, cada localidad se empadronará con número de cuenta y clave catastral por separado, para efectos del pago del impuesto predial, en los términos de la Ley respectiva.
 
 ### CAPITULO VI. De los Fraccionamientos y Condominios
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 37.
 
-Todo propietario o poseedor de predios, tiene la obligación de manifestarlo cada año a la Dirección o área del Catastro, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
+Todo propietario o poseedor de predios, tiene la obligación de manifestarlo en el primer mes de cada año a la Dirección o Area de Catastro Municipal, en las formas oficiales expedidas al efecto, y deberán anexar los documentos y planos que se indiquen en las mismas.
 
 ###### ARTICULO 38.
 
@@ -401,17 +471,35 @@ Los propietarios poseedores u ocupantes de los predios, quedan obligados a propo
 
 Las ampliaciones o modificaciones a las construcciones existentes, las nuevas construcciones, la fusión o división del terreno, deberán ser manifestadas por su propietario o poseedor a la Dirección o área del Catastro, dentro de los quince días hábiles siguientes a su terminación o modificación. Utilizando para ello las formas oficiales respectivas.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 40.
 
-Se exime de la obligación establecida en el artículo anterior y de conformidad con la disposición de las leyes fiscales respectivas, únicamente a la Federación, el Estado y el Municipio.
+La Federación, el Estado y los Municipios tendrán las mismas obligaciones catastrales que las personas físicas o morales, previstas en la presente Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 41.
 
-Las dependencias oficiales, los Jueces y los Notarios Públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación legal o de tenencia de los bienes inmuebles, están obligados a manifestarlos a la Dirección o área del Catastro, en un plazo no mayor de quince días hábiles.
+Las dependencias oficiales, los jueces y notarios públicos o cualesquiera otros funcionarios que conozcan o autoricen actos que modifiquen la situación legal o de tenencia de los bienes inmuebles, están obligados a manifestarlos a la Dirección o Area del Catastro Municipal, en un plazo no mayor de quince días hábiles; asimismo, los notarios enviarán en los primeros cinco días hábiles de cada mes, una relación de las transmisiones e inscripciones de la propiedad raíz de que conozcan en el período respectivo.
 
-Esta obligación se contrae particularmente a las oficinas que autoricen la ejecución de obras públicas o expidan licencias para construcción.
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 41
+
+BIS.- En el caso de que los notarios reciban cantidades de dinero destinados al pago de impuestos y derechos que se causen por las operaciones que ante él se efectúen, relacionadas con la propiedad inmobiliaria, deberán enterarlo ante la Tesorería Municipal en términos y plazos que establecen las Leyes Fiscales.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 41
+
+BIS I.- Todas las autoridades, dependencias o instituciones que intervengan u otorguen autorizaciones, deberán informar a la Dirección o Area del Catastro Municipal, la terminación de construcciones, la instalación de servicios, la apertura de vías públicas, el cambio de nomenclatura de las calles o la realización de cualquier obra pública o privada que implique la modificación de las características de la propiedad raíz o de sus servicios, en un plazo no mayor de quince días hábiles a partir de la fecha de terminación de dichas obras o servicios o del inicio de su utilización.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 41
+
+BIS II.- Las Entidades de la Administración Pública Federal, así como los organismos auxiliares del Estado y de los Municipios, que realicen actividades relativas a la construcción de obras para el desarrollo urbano y la vivienda, así como la regularización de la tenencia de la tierra, deberán informar a la Dirección o Area de Catastro Municipal, las características de dichas obras, en un término no mayor de quince días hábiles a partir de su inicio y terminación, acompañando los planos y demás documentos relacionados.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -425,47 +513,89 @@ Cuando en las manifestaciones que se hagan a la Dirección o área del Catastro,
 
 El propietario o poseedor de predios ocultos está obligado a entregar la manifestación de registro y en caso de no hacerlo, en los términos de la misma o los que fije el reglamento, la Dirección o área del Catastro tendrá la facultad de suplirlo mediante investigación directa.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 43
+
+BIS.- Las personas físicas o morales que adquieran la propiedad o posesión de bienes inmuebles, deberán manifestarlo ante la Dirección o Area de Catastro Municipal, en los plazos establecidos en el Artículo 32 de la Ley de Hacienda Municipal, debiendo acompañar la documentación respectiva.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 44.
 
-Para los efectos de la presente ley todos los propietarios o poseedores de predios tienen la obligación de señalar domicilio dentro del municipio para recibir notificaciones.
+Para los efectos de la presente Ley, todos los propietarios o poseedores de predios están obligados a señalar ante la Dirección o Area del Catastro Municipal domicilio para oír y recibir notificaciones, dentro de la jurisdicción municipal. En tratándose de terrenos baldíos deberán señalar uno diferente al mismo.
+
+De igual manera están obligados a dar aviso del cambio de su domicilio dentro de los quince días hábiles siguientes al en que se haya efectuado éste.
+
+Si no lo hicieren se tendrá como legal el que hubieren señalado con anterioridad o el del predio de referencia.
 
 ### CAPITULO VII. De las Notificaciones
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 45.
 
-Las personas físicas o morales que hubieren obtenido autorización para fraccionar un terreno a (sic) para establecer un condominio, deberá comunicarlo por escrito a la Tesorería Municipal, dentro de los quince días hábiles siguientes en que reciban la autorización, solicitando el deslinde y claves catastrales, debiendo anexar los documentos relativos.
+Las personas físicas o morales que hubieren obtenido autorización para fraccionar un terreno, o para establecer un condominio, constituir un sistema de tiempo compartido o multipropiedad, deberán comunicarlo por escrito a la Dirección o Area de Catastro Municipal, dentro de los quince días hábiles siguientes en que reciba la autorización, solicitando el deslinde y claves catastrales, debiendo anexar los documentos relativos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 46.
 
-La autoridad competente deberá comunicar por escrito a la Dirección o área del Catastro las solicitudes de fraccionamientos anexando un juego de copias de los planos presentados, dentro de los diez días siguientes a la fecha que los reciba, a fin de que ésta haga las observaciones y objeciones que considere pertinentes dentro de un plazo que no excederá de treinta días.
+La autoridad competente deberá comunicar por escrito a la Dirección o Area del Catastro Municipal, las solicitudes de fraccionamientos anexando un juego de copias de los planos presentados dentro de los diez días siguientes a la fecha que los reciba, a fin de que ésta haga las observaciones y objeciones que considere pertinentes dentro de un plazo que no excederá de treinta días.
 
-Igualmente dicha autoridad deberá comunicar, para los fines a los que se refiere el párrafo anterior, cualquier modificación que se le solicite a los planos aprobados, acompañando los nuevos elementos cartográficos.
+Igualmente dicha autoridad deberá comunicar, para los fines a que se refiere el párrafo anterior cualquier modificación que se le solicite a los planos aprobados acompañando los nuevos elementos cartográficos, asimismo, enviará mensualmente a la Dirección o Area del Catastro Municipal, una relación de las licencias que haya otorgado en el período.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 47.
 
-La Dirección o área del Catastro al tener conocimiento de que la autoridad competente concedió autorización definitiva para fraccionar o establecer un condominio, hará los trabajos técnicos necesarios y en los treinta días hábiles siguientes, le devolverá los planos aprobados con la clave catastral o número de cuenta correspondiente a cada predio del fraccionamiento, a cada local o apartamento del condominio.
+La Dirección o Area del Catastro Municipal al tener conocimiento de que la autoridad competente concedió autorización definitiva para fraccionar, establecer condominio o constituir un sistema de tiempo compartido o multipropiedad, hará los trabajos técnicos necesarios y en los treinta días hábiles siguientes, le devolverá los planos aprobados con la clave catastral o número de cuenta correspondiente a cada predio del fraccionamiento, a cada local o a cada departamento del condominio y de tiempo compartido o multipropiedad.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 48.
 
-Los propietarios de fraccionamientos o condominios deberán comunicar a la Dirección o área del Catastro cualquier modificación de los planos aprobados en los quince días hábiles siguientes al hecho, debiendo acompañar un ejemplar de los planos en que aparezcan las modificaciones a fin de proceder a la actualización de los padrones.
+Los propietarios de fraccionamientos, condominios o del sistema de tiempo compartido y multipropiedad, deberán comunicar a la Dirección o área del Catastro Municipal, cualquier modificación de los planos aprobados en los quince días hábiles siguientes al hecho, debiendo acompañar un ejemplar de los planos en que aparezcan las modificaciones a fin de proceder a la actualización de los padrones.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 48
+
+BIS.- Los fraccionadores invariablemente deberán comunicar por escrito a la Dirección o Area del Catastro Municipal, la fecha de iniciación de las obras de urbanización del fraccionamiento respectivo, así como la calendarización de dichas obras, acompañando el plano definitivo debidamente aprobado por la autoridad competente; esta comunicación deberá realizarse dentro del término de los quince días posteriores a la fecha de iniciación de las obras.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 48
+
+BIS I.- Los fraccionadores que omiten cumplir lo dispuesto en el Artículo anterior, están obligados al pago de los derechos por registro catastral de la totalidad del fraccionamiento.
+
+Si resultaren diferencia de medidas, colindancias o superficie, sin menoscabo de la sanción que corresponda, los fraccionadores deberán pagar los derechos de los predios modificados.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
 ###### ARTICULO 49.
 
-La Dirección de Obras Públicas Municipales comunicará a la Dirección o área del Catastro la terminación de las obras de urbanización del fraccionamiento o edificación del condominio, en su caso, dentro de los quince días hábiles siguientes, para que proceda a efectuar las acciones catastrales correspondientes.
+La Dirección de Obras Públicas Municipales, comunicará a la Dirección o Area del Catastro Municipal, la terminación de las obras de urbanización del fraccionamiento o edificación del condominio o sistema de tiempo compartido y multipropiedad en su caso, dentro de los quince días hábiles siguientes para que proceda a efectuar las acciones catastrales correspondientes.
 
 ###### ARTICULO 50.
 
 Cubiertos los requisitos técnico-administrativos que deben satisfacerse para la autorización de fraccionamientos, la Tesorería Municipal en coordinación con la Dirección de Obras Públicas Municipales otorgará la autorización para la venta de los lotes.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 50
+
+BIS.- Los propietarios de fraccionamiento, condominio o sistema de tiempo compartido y multipropiedad deberán manifestar a la Dirección o Area del Catastro Municipal, la celebración de contratos de compra-venta, de promesa de venta con reserva de dominio o cualquier otro acto transmitivo (sic) de dominio.
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
+###### ARTICULO 50
+
+BIS I.- Los propietarios de fraccionamiento, condominio o del sistema de tiempo compartido y multipropiedad no podrán celebrar contratos de compra-venta, de promesa de venta, de venta con reserva de dominio, en tanto no hayan cumplido con las disposiciones establecidas en el presente ordenamiento, su reglamento y leyes sobre la materia.
+
+Los notarios públicos no autorizarán las escrituras de los actos señalados en el párrafo anterior y de los señalados en el Artículo 53 de la presente Ley, y las autoridades del Registro Público no las inscribirán.
+
+De celebrarse dichos contratos y al transmitirse la posesión de algún predio o condominio, el Ayuntamiento o la Secretaría de Finanzas hará del conocimiento de esa irregularidad a las autoridades correspondientes, para que apliquen a los infractores las sanciones a que haya lugar.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
 
@@ -481,9 +611,11 @@ En los casos de fraccionamiento que se constituyan total o parcialmente sin la a
 
 Los notarios y las oficinas del registro público no autorizarán los documentos correspondientes, ni serán inscritos.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1989)</small>
+
 ###### ARTICULO 53.
 
-Respecto a los lotes del fraccionamiento que no hayan sido objeto de traslación de dominio al momento de ser recibidas las obras de urbanización por el Ayuntamiento respectivo, se procederá en su caso, a la asignación de valores de acuerdo a los importes de venta asignados por el fraccionador y reportados en las últimas operaciones traslativas de dominio.
+En los casos de fraccionamientos que se constituyan total o parcialmente sin la autorización respectiva, la Dirección o Area del Catastro Municipal ante una situación de hecho, procederá tan pronto tenga conocimiento de ello a efectuar las operaciones catastrales correspondientes con carácter provisional, comunicando de inmediato a las autoridades correspondientes, a efecto de que éstas procedan a fincar las responsabilidades penales, civiles o administrativas, en los términos de los ordenamientos relativos, sin perjuicio de aplicar las sanciones fiscales y cobros omitidos.
 
 ### CAPITULO VIII. Del Recurso, Administrativo
 
@@ -491,7 +623,7 @@ Respecto a los lotes del fraccionamiento que no hayan sido objeto de traslación
 
 ###### ARTICULO 54.
 
-La Dirección o área del Catastro notificará a los propietarios, poseedores o a los representantes legales, toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación, o en el domicilio señalado por escrito para oír notificaciones.
+La Dirección o Area de Catastro Municipal, notificará a los propietarios, poseedores o a los representantes legales toda clase de citatorios, acuerdos, resoluciones, avalúos y cualesquiera otras operaciones catastrales relacionadas con el inmueble, en el predio objeto de la operación en el caso de que esté construido o en el domicilio señalado por escrito para oír y recibir notificaciones, tratándose de terreno baldío.
 
 ###### ARTICULO 55.
 
@@ -596,3 +728,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 30 DE DICIEMBRE DE 1988.
 
 UNICO.- Este Decreto entrará en vigor el día primero de enero de mil novecientos ochenta y nueve.
+
+P.O. 29 DE DICIEMBRE DE 1989.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
