@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1996-10-30"
+last_updated: "1996-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE OCTUBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1996.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -234,11 +234,11 @@ DE LOS PODERES PUBLICOS.
 
 > <small>(REFORMADO, P.O. 13 DE OCTUBRE DE 1993)</small>
 
-### CAPITULO II.
+### CAPITULO I.
 
-INSTITUCIONES Y PROCESOS ELECTORALES.
+DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 20.
 
@@ -254,13 +254,11 @@ No podrán reunirse dos o más poderes en una sola persona o corporación, ni en
 
 Los Poderes Públicos residirán en la Ciudad de Cuernavaca; pero por causas graves podrán translardarse (sic) temporalmente a otro lugar.
 
-> <small>(ADICIONADO, P.O. 13 DE OCTUBRE DE 1993)</small>
+### CAPITULO II.
 
-### CAPITULO I.
+DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
 
-DE LA ELECCION Y CALIDAD DE LOS DIPUTADOS.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 23.
 
@@ -320,19 +318,21 @@ En ningún caso, los Magistrados del Tribunal Estatal Electoral podrán desempe�
 
 VIII. Quienes hubieren ejercido los cargos de Magistrados del Tribunal Estatal Electoral, Consejero Presidente y Consejeros Estatales Electorales y personal directivo del Instituto Estatal Electoral, estarán impedidos para ocupar puestos de elección popular en el siguiente proceso electoral.
 
-### CAPITULO II.
+### CAPITULO III.
 
-DE LA INSTALACION DEL CONGRESO Y DE LOS PERIODOS DE SUS SESIONES.
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
+DE LAS FACULTADES DEL CONGRESO.
 
 ## TITULO TERCERO.
 
 DEL PODER LEGISLATIVO.
 
-### CAPITULO III.
+> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
-DE LAS FACULTADES DEL CONGRESO.
+### CAPITULO IV.
+
+DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+
+(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
 
 ###### Artículo 24.
 
@@ -360,9 +360,9 @@ Para ser Diputado Propietario o suplente se requiere:
 
 I.- Ser morelense por nacimiento, o ser morelense por residencia con antigüedad mínima de diez años anteriores a la fecha de la elección.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
-II.- Tener una residencia efectiva por más de un año anterior a la selección del Distrito que represente.
+II.- Tener una residencia efectiva por más de un año anterior a la elección del Distrito que represente, salvo que en un Municipio exista más de un Distrito Electoral, caso en el cual los candidatos deberán acreditar dicha residencia en cualquier parte del Municipio de que se trate;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 1979)</small>
 
@@ -372,17 +372,15 @@ III.- Ser ciudadano del Estado en ejercicio de sus derechos.
 
 IV.- Haber cumplido 21 años de edad.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
-Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva por más de un año anterior a la fecha de la elección en alguno de los distritos que comprende la circunscripción electoral en la que se realice la elección.
+Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva dentro del Estado por más de un año anterior a la fecha de la elección.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 La vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular.
 
-> <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 1990)</small>
-
-Para poder figurar en las listas de la cicunscripción plurinominal como Candidato a Diputado, la Residencia efectiva se referirá a cualquier lugar del Estado.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 1996)</small>
 
 ###### Artículo 26.
 
@@ -426,11 +424,11 @@ Nadie puede excusarse de servir el cargo de Diputado, sino por causa bastante ca
 
 El cargo de Diputado es incompatible con cualquier otro de la Federación, del Estado o de los Municipios, con sueldo o sin él; pero el Congreso podrá dar licencia a sus miembros para desempeñar el empleo o comisión para que hayan sido nombrados, llamando a los suplentes. Se exceptúan de está prohibición los empleos o comisiones de educación y beneficencia públicas.
 
-### CAPITULO IV.
+### CAPITULO V.
 
-DE LA INICIATIVA Y FORMACION DE LAS LEYES.
+DE LA DIPUTACION PERMANENTE.
 
-(REFORMADO, P.O. 4 DE AGOSTO DE 1965) (F. DE E., P.O. 11 DE AGOSTO DE 1965)
+> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
 
 ###### Artículo 30.
 
@@ -506,11 +504,9 @@ El Congreso expedirá la ley que en lo sucesivo regulará su estructura y funcio
 
 Cuando al llegar el día en que deba cerrarse alguno de los períodos de sesiones, el Congreso estuviere funcionando como Gran Jurado, prorrogará aquéllas hasta pronunciar su veredicto, sin ocuparse, entretanto, de ningún otro asunto.
 
-### CAPITULO V.
+### CAPITULO I.
 
-DE LA DIPUTACION PERMANENTE.
-
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1989)</small>
+DEL GOBERNADOR.
 
 ###### Artículo 40.
 
@@ -796,9 +792,11 @@ IV.- Acordará la revocación del mandato a alguno de los integrantes del Ayunta
 
 En caso de declararse desaparecido algún Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros cuando no procediere que entraren en funciones los Suplentes ni que se celebrasen nuevas elecciones, el Congreso del Estado designará entre los vecinos a los Consejos Municipales que concluirán los períodos respectivos. Cuando el Congreso se encuentre en receso, la Diputación Permanente lo convocará a fin de verificar que se han cumplido las condiciones establecidas por esta Constitución.
 
-### CAPITULO I.
+### CAPITULO II.
 
-DEL GOBERNADOR.
+DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
 
 ###### Artículo 42.
 
@@ -864,11 +862,11 @@ El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Cong
 
 Tampoco podrá hacerlas al Decreto de Convocatoria que expida la Diputación Permanente, en los casos del Artículo 66 de esta Constitución.
 
-### CAPITULO II.
+### CAPITULO III.
 
-DE LAS FACULTADES, OBLIGACIONES Y RESTRICCIONES DEL GOBERNADOR.
+DE LOS SECRETARIOS.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
 
 ###### Artículo 53.
 
@@ -928,11 +926,11 @@ X.- Las demás que le confiere expresamente esta misma Constitución.
 
 DEL PODER EJECUTIVO.
 
-### CAPITULO III.
+### CAPITULO IV.
 
-DE LOS SECRETARIOS.
+DE LA PROCURADURIA GENERAL DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1988)</small>
+> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
 
 ###### Artículo 57.
 
@@ -1040,11 +1038,11 @@ Integrado el Congreso del Estado, procederá a hacer la designación de Gobernad
 
 En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la Permanente en su caso, rendirá la protesta ante un Notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado.
 
-### CAPITULO IV.
+### CAPITULO V.
 
-DE LA PROCURADURIA GENERAL DE JUSTICIA.
+DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 1988)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 70.
 
@@ -1062,17 +1060,15 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
+
+IV.- Nombrar y remover libremente a los Secretarios del Poder Ejecutivo Estatal. Así como a los demás trabajadores al servicio del Poder Ejecutivo, con arreglo a las Leyes a que se refiere la Fracción XX del Artículo 40 de la Constitución Política del Estado.
 
 > <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
 
 V.- Cuidar de la legal recaudación e inversión de los caudales públicos.
 
-> <small>(REFORMADA, P.O. 4 DE AGOSTO DE 1965)</small>
-
-VI.- Someter a la aprobación del Congreso los nombramientos de los Magistrados del Tribunal
-
-Superior de Justicia.
+VI.- (DEROGADA, P. O. 22 DE MARZO DE 1995)
 
 VII.- Conceder o negar indulto con arreglo a la Ley, a los reos sentenciados por los Tribunales del Estado.
 
@@ -1208,11 +1204,11 @@ El Gobernador Provisional nombrado por el Senado en el caso del artículo 69 de 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 27 DE MAYO DE 1970)</small>
 
-### CAPITULO V.
+### CAPITULO VI.
 
-DE LA HACIENDA PUBLICA, PROGRAMACION DEL DESARROLLO URBANO Y RURAL.
+DE LA PROTECCION DE LOS DERECHOS HUMANOS.
 
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
 
 ###### Artículo 74.
 
@@ -1262,11 +1258,11 @@ Los servidores públicos a que se refiere el Artículo 74, de ésta Constitució
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VI.
+### CAPITULO VII.
 
-DE LA PROTECCION DE LOS DERECHOS HUMANOS.
+DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
 
-> <small>(ADICIONADO, P.O. 3 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 79-A.
 
@@ -1294,9 +1290,9 @@ El Procurador General de Justicia será el Consejero Jurídico del Gobierno, y d
 
 > <small>(REFORMADO Y REUBICADO, P.O. 7 DE JULIO DE 1988)</small>
 
-### CAPITULO VII.
+### CAPITULO I.
 
-DE LA PROTECCION DEL AMBIENTE Y DEL EQUILIBRIO ECOLOGICO.
+DISPOSICIONES PRELIMINARES.
 
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
@@ -1364,11 +1360,11 @@ El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centr
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 3 DE JUNIO DE 1992)</small>
 
-### CAPITULO I.
+### CAPITULO II.
 
-DISPOSICIONES PRELIMINARES.
+DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
 
 ###### Artículo 85-C.
 
@@ -1376,25 +1372,25 @@ El Congreso del Estado establecerá un organismo autónomo de protección de los
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MARZO DE 1995)</small>
 
-### CAPITULO II.
+### CAPITULO III.
 
-DEL TRIBUNAL SUPERIOR DE JUSTICIA.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE OCTUBRE DE 1996)</small>
+DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
 
 ###### Artículo 85-D.
 
 El Ejecutivo garantizará la conservación del patrimonio natural de la Entidad, la protección del ambiente y la preservación y restauración del equilibrio ecológico a que tienen derecho los habitantes del Estado.
 
-### CAPITULO III.
-
-DE LOS JUECES DE PRIMERA INSTANCIA Y JUECES INFERIORES.
+### CAPITULO IV.
 
 ## TITULO QUINTO.
 
 DEL PODER JUDICIAL.
 
-### CAPITULO IV.
+### CAPITULO V.
+
+DE LA DEFENSORIA PUBLICA.
+
+> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
 
 ###### Artículo 86.
 
@@ -1414,11 +1410,11 @@ La Ley establecerá y organizará los Tribunales, garantizará la independencia 
 
 Los Magistrados del Tribunal Superior de Justicia, los Jueces, los respectivos Secretarios y los Consejeros de la Judicatura Estatal, no podrán desempeñar empleo o cargo de la Federación, del Estado, de los Municipios ni de particulares, por el que reciban alguna remuneración, a no ser que sean de educación o de beneficencia y que no les impidan el expedito ejercicio de sus funciones. La infracción de esta disposición será castigada con la pérdida del cargo.
 
-### CAPITULO V.
+### CAPITULO I.
 
-DE LA DEFENSORIA PUBLICA.
+DE LA ORGANIZACION DE LOS MUNICIPIOS.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 1995)</small>
+> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
 ###### Artículo 89.
 
@@ -1620,11 +1616,9 @@ VII.- No podrán ser objeto de estas controversias los actos del Congreso como j
 
 La Ley determinará los demás procedimientos que deban seguirse para el uso del recurso a que se refiere el artículo 99 fracción XII, sobre las bases contenidas en el anterior.
 
-### CAPITULO I.
+### CAPITULO II.
 
-DE LA ORGANIZACION DE LOS MUNICIPIOS.
-
-> <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
+PRINCIPIOS GENERALES DE ADMINISTRACION PUBLICA.
 
 ###### Artículo 102.
 
@@ -2525,3 +2519,7 @@ SEXTO.- Para los efectos de las elecciones que deberán verificarse en el año d
 SEPTIMO.- Para los efectos de la distritación prevista en el artículo 24 de esta Constitución, por esta vez, se tomarán en cuenta los datos de población del Instituto Nacional de Estadística, Geografía e Informática.
 
 OCTAVO.- En tanto se expiden o reforman las leyes correspondientes, la Comisión Estatal Electoral y el Tribunal Electoral del Estado seguirán ejerciendo las competencias y funciones que actualmente les señala la ley Electoral del Estado.
+
+P.O. 26 DE DICIEMBRE DE 1996.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
