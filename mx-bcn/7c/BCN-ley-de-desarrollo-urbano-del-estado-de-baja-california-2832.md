@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-urbano-del-estado-de-baja-california-2832"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2001-08-17"
+last_updated: "2003-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2832&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO URBANO DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE AGOSTO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2003.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 24 de junio de 1994.
 
@@ -2125,6 +2125,8 @@ Cuando en un centro de población sea urgente la realización de obras públicas
 
 ### CAPITULO QUINTO. De las Acciones de Urbanización por Plusvalía
 
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+
 ###### ARTICULO 213.
 
 Las acciones de urbanización por cooperación se refieren a las que se realizan en vías y espacios públicos, que benefician directamente a los propietarios de los predios adyacentes a las mismas, y sean promovidas y ejecutadas por los Consejos de Urbanización Municipal, con su participación.
@@ -2139,11 +2141,13 @@ Las acciones de urbanización por cooperación pueden realizarse con la cooperac
 
 ###### ARTICULO 215.
 
-Las acciones de urbanización y edificación por plusvalía, son aquellas que se realizan para uno o varios destinos a fin de satisfacer intereses colectivos y que son declaradas de utilidad pública, con un beneficio general para el centro de población y que requieren, en cada caso, una contribución especial de plusvalía establecida por el Congreso del Estado.
+Las acciones de urbanización y edificación por plusvalía, son aquellas que se realizan para uno o varios destinos a fin de satisfacer intereses colectivos y que son declaradas de utilidad pública, con un beneficio general para el centro de población y que requieren, en cada caso, de las contribuciones de mejoras establecidas en la Ley de Urbanización del Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 216.
 
-Las acciones de urbanización o edificación por plusvalía se ejecutarán de acuerdo a los Planes y Programas de Desarrollo Urbano y demás disposiciones aplicables, y serán realizadas a través de la autoridad competente en los términos estipulados en la Ley de Urbanización del Estado, que señala las normas para la individualización del impuesto de plusvalía, así como las bases para el pago y la recaudación del impuesto de referencia.
+Las acciones de urbanización o edificación por plusvalía se ejecutarán de acuerdo a los Planes y Programas de Desarrollo Urbano y demás disposiciones aplicables, y serán realizadas a través de la autoridad competente en los términos estipulados en la Ley de Urbanización del Estado, que señala las normas para la individualización de las contribuciones de mejoras para el sistema de plusvalía, así como las bases para su pago y recaudación.
 
 Las acciones de urbanización o edificación previstas en los Programas Parciales de Desarrollo Urbano de los centros de población que incluyan acciones de conservación, mejoramiento o crecimiento, podrán ser realizadas por este sistema de plusvalía, demostrando que son de utilidad pública y de beneficio social y general.
 
@@ -2432,3 +2436,9 @@ PRIMERO.- La presente reforma entrará en vigor el día siguiente de su publicac
 SEGUNDO.- El Poder Ejecutivo del Estado, adecuará la reglamentación en materia de Fraccionamientos a fin de incorporar las medidas normativas establecidas por el presente decreto.
 
 TERCERO.- Los gobiernos Municipales del Estado, en sus respectivos ámbitos de competencias, concertarán con los fraccionadores o promotores inmobiliarios de viviendas de interés social o popular, en sus jurisdicciones territoriales, sobre la previsión de viviendas destinadas para discapacitados en los términos de este decreto, de acuerdo a los mínimos o máximos que acuerde la autoridad municipal.
+
+P.O. 28 DE FEBRERO DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes reformas y adiciones entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
