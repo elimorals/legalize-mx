@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-trabajadores-al-servicio-de-los-poderes-7367"
 country: "mx"
 rank: "ley"
 publication_date: "1978-06-12"
-last_updated: "1978-12-15"
+last_updated: "1980-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES LEGISLATIVO, EJECUTIVO Y JUDICIAL, DE LOS AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE DICIEMBRE DE 1978.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE ABRIL DE 1980.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el lunes 12 de junio 1978.
 
@@ -239,6 +239,10 @@ IV.- El cinco de abril de cada seis años, cuando corresponda a la transmisión 
 
 V.- El primero de mayo;
 
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 1980)</small>
+
+V BIS.- El doce de junio;
+
 VI.- El dieciséis de septiembre;
 
 VII.- El veinte de noviembre;
@@ -246,6 +250,10 @@ VII.- El veinte de noviembre;
 VIII.- El primero de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal; y
 
 IX.- El veinticinco de diciembre.
+
+###### ARTICULO 30.
+
+Las horas extraordinarias de trabajo se pagarán con un ciento por ciento más del salario asignado a las horas de la jornada ordinaria.
 
 ###### ARTICULO 34.
 
@@ -1216,3 +1224,9 @@ Esta reforma entrará en vigor el día siguiente al de su publicación en el Per
 ###### ARTICULO SEGUNDO.
 
 Se abrogan las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE ABRIL DE 1980.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
