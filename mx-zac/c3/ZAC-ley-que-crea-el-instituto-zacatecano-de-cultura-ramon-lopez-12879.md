@@ -4,7 +4,7 @@ identifier: "ZAC-ley-que-crea-el-instituto-zacatecano-de-cultura-ramon-lopez-128
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-31"
-last_updated: "1986-12-31"
+last_updated: "1998-04-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # LEY QUE CREA EL INSTITUTO ZACATECANO DE CULTURA "RAMON LOPEZ VELARDE" -ANTES INSTITUTO DE CULTURA DE ZACATECAS
 
-LEY QUE CREA EL INSTITUTO DE CULTURA DE ZACATECAS
+LEY QUE CREA EL INSTITUTO ZACATECANO DE CULTURA "RAMON LOPEZ VELARDE"- ANTES LEY QUE CREA EL INSTITUTO DE CULTURA DE ZACATECAS-
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ABRIL DE 1998.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el miércoles 31 de diciembre de 1986.
 
@@ -51,13 +51,19 @@ Por lo anteriormente expuesto, en nombre del Pueblo es de decretarse y se
 
 DECRETA:
 
-LEY QUE CREA EL INSTITUTO DE CULTURA DE ZACATECAS
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE ABRIL DE 1998)</small>
+
+LEY QUE CREA EL INSTITUTO ZACATECANO DE CULTURA "RAMON LOPEZ VELARDE"- ANTES LEY QUE CREA EL INSTITUTO DE CULTURA DE ZACATECAS
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 1.
 
-Se crea el Instituto de Cultura de Zacatecas, como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con sede en la capital de la Entidad.
+Se crea el Instituto Zacatecano de Cultura "Ramón López Velarde", como un organismo público descentralizado del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con sede en la Capital del Estado.
+
+El Instituto Zacatecano de Cultura "Ramón López Velarde", por acuerdo de su Consejo Directivo, podrá crear en el contexto de la descentralización, organismos municipales de cultura para la realización de sus objetivos.
 
 ###### ARTICULO 2.
 
@@ -115,13 +121,19 @@ El Instituto armonizará sus actividades con las políticas que en la materia se
 
 ### CAPITULO II. ORGANO DE GOBIERNO DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PARARFO, P.O. 8 DE ABRIL DE 1998)</small>
+
 ###### ARTICULO 6.
 
-Son órganos de gobierno del Instituto de Cultura de Zacatecas:
+Son órganos de gobierno del Instituto Zacatecano de Cultura "Ramón López Velarde":
 
 I. El Consejo Directivo;
 
-II. La Dirección General.
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 1998)</small>
+
+II. El Consejo Técnico; y
+
+III. La Dirección General.
 
 ###### ARTICULO 7.
 
@@ -245,6 +257,68 @@ Todos los bienes que integran el patrimonio del Instituto estarán sujetos a la 
 
 El Instituto estará exento de impuestos estatales y podrá gestionar, si así procede, la exención de impuestos federales y municipales.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 8 DE ABRIL DE 1998)</small>
+
+### CAPITULO IV. DEL CONSEJO TECNICO "RAMON LOPEZ VELARDE"
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 23.
+
+El Consejo Técnico es el órgano del Instituto que organiza y realiza el Festival Internacional "Ramón López Velarde" y el Premio Iberoamericano "Ramón López Velarde".
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 24.
+
+El Consejo Técnico se integrará por:
+
+I. Un Presidente, que será el Ejecutivo del Estado;
+
+II. Un Vicepresidente, que será el Secretario de Educación y Cultura;
+
+III. Un Coordinador General, que será el Director General del Instituto;
+
+IV. Los titulares de la Administración Pública y Organismos Paraestatales que designe el Ejecutivo del Estado;
+
+V. Los representantes de Instituciones Públicas, Sociales y Privadas, a invitación del Ejecutivo del Estado; y
+
+VI. Las personas físicas que, por su destacada actividad en las artes, sean invitadas por el Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 25.
+
+Son facultades y obligaciones del Consejo Técnico:
+
+I. Planear, programar, coordinar, y realizar el Festival Internacional "Ramón López Velarde" y el Premio Iberoamericano "Ramón López Velarde";
+
+II. Proponer los mecanismos de coordinación que el Instituto aplicará con las instituciones públicas, sociales y privadas para la realización del Festival Internacional "Ramón López Velarde" y del Premio Iberoamericano "Ramón López Velarde";
+
+III. Elaborar el anteproyecto de presupuesto anual de ingresos y egresos del Festival Internacional "Ramón López Velarde" y del Premio Iberoamericano "Ramón López Velarde";
+
+IV. Elaborar, lanzar y difundir, estatal, nacional e internacionalmente, la Convocatoria para el Premio Iberoamericano "Ramón López Velarde", en las modalidades de poesía, novela y ensayo;
+
+V. Elegir el jurado del Premio Iberoamericano "Ramón López Velarde", y darlo a conocer en los términos de la Convocatoria; y
+
+VI. Las demás que sean necesarias para el debido cumplimiento de sus funciones.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 26.
+
+Los cargos en el Consejo Técnico serán honoríficos, por tanto, no tendrán retribución alguna.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 1998)</small>
+
+###### ARTICULO 27.
+
+El Consejo Técnico sesionará de manera ordinaria o extraordinaria, pudiendo ser alguna de ellas solemne.
+
+Las sesiones ordinarias del Consejo Técnico serán bimestrales. Las sesiones ordinarias en primera citación, tendrán validez con la presencia de la mayoría simple de sus miembros; las sesiones ordinarias, en segunda citación, se realizarán con los miembros que asistan. Las resoluciones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+Las sesiones extraordinarias se realizarán cuantas veces sea necesario a petición del Coordinador General y se ajustarán a lo establecido en el párrafo anterior.
+
 ## TRANSITORIOS
 
 PRIMERO.- Quedan derogadas todas aquellas disposiciones que contravengan la presente Ley.
@@ -266,3 +340,9 @@ LIC. GENARO BORREGO ESTRADA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. DANIEL DAVILA GARCIA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 8 DE ABRIL DE 1998.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial, Organo de Gobierno del Estado.
