@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-procedimientos-civiles-para-el-distrito-federal-642"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-01"
-last_updated: "2004-09-06"
+last_updated: "2004-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=642&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1932-08-29"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 6 DE SEPTIEMBRE DE 2004.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE SEPTIEMBRE DE 2004.
 
 Código publicado en el Diario Oficial de la Federación los días 1o. al 21 de septiembre de 1932.
 
@@ -3434,9 +3434,7 @@ En las cuestiones relativas al estado civil de las personas y a las de validez o
 
 Se entiende que hay identidad de personas siempre que los litigantes del segundo pleito, sean causahabientes de los que contendieron en el pleito anterior o estén unidos a ellos por solidaridad o indivisibilidad de las prestaciones entre los que tienen derecho a exigirlas u obligación de satisfacerlas.
 
-ARTICULO 423
-
-> <small>(DEROGADO, D.O.F. 10 DE ENERO DE 1986)</small>
+ARTICULO 423 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
 ARTICULO 424 (DEROGADO, D.O.F. 10 DE ENERO DE 1986)
 
@@ -6072,91 +6070,7 @@ En la junta prevenida por el artículo 790 podrán los herederos nombrar interve
 
 ### CAPITULO III. De los intestados
 
-ARTICULO 799
-
-Al promoverse un intestado justificará el denunciante el parentesco o lazo si existiere y que lo hubiere unido con el autor de la herencia, en el grado por el que pueda considerarse heredero legítimo.
-
-Debe el denunciante indicar los nombres y domicilio de los parientes en línea recta y del cónyuge supérstite o a falte (sic) de ellos, de los parientes colaterales dentro del cuarto grado. De ser posible se presentarán las partidas del Registro Civil que acrediten la relación.
-
-ARTICULO 800
-
-El juez tendrá por radicada la sucesión y mandará notificarlo por cédula o correo certificado a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o en su defecto como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado con los demás particulares que lo identificaren y la fecha del (sic) lugar del fallecimiento para que justifiquen sus derechos a la herencia y nombren albacea.
-
-ARTICULO 801
-
-Los herederos ab-intestato que sean descendientes del finado, podrán obtener la declaración de su derecho justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el mismo y con información testimonial que acredite que ellos o los que designen son los únicos herederos.
-
-ARTICULO 802
-
-Dicha información se practicará con citación del Ministerio Público quien dentro de los tres días que sigan al de la diligencia debe formular su pedimento. Si éste fuera impugnando sólo de incompleta la justificación, se dará vista a los interesados para que subsanen la falta.
-
-ARTICULO 803
-
-Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el juez sin más trámites dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido para el juicio ordinario.
-
-Este auto será apelable en el efecto devolutivo.
-
-ARTICULO 804
-
-El mismo procedimiento establecido en los tres artículos que preceden se empleará para la declaración de herederos ab-intestato cuando lo solicitaren ascendientes del finado o el cónyuge supérstite. Si éste fuere la viuda no se admitirá promoción de la concubina devolviéndole la que hiciere sin ulterior recurso.
-
-ARTICULO 805
-
-Hecha la declaración de herederos de acuerdo con los artículos precedentes, el juez en el mismo auto en que la hizo, citará a una junta de herederos dentro de los ocho días siguientes para que designen albacea. Se omitirá a junta si el heredero fuere único o si los interesados desde su presentación dieron su voto por escrito o en comparecencia; en este último caso al hacerse la declaración de herederos hará el juez la designación de albacea.
-
-Este albacea tiene el carácter de definitivo.
-
-ARTICULO 806
-
-Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
-
-ARTICULO 807
-
-Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 912, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclaman la herencia llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
-
-El juez prudentemente podrá ampliar el plazo anterior cuando por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
-
-Los edictos se insertarán además dos veces de diez en diez días en un periódico de información si el valor de los bienes hereditarios excediere de cinco mil pesos.
-
-ARTICULO 808
-
-Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista el juez hará la declaración prevenida en el artículo 805.
-
-Si hubieren comparecido otros parientes, el juez les señalará un término no mayor de quince días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 803 a 807.
-
-ARTICULO 809
-
-Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos de la manera y por el término expresados en el artículo 807, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
-
-ARTICULO 810
-
-Los que comparezcan a consecuencia de dichos llamamientos, deberán expresar por escrito el grado de parentesco en que se hallen con el causante de la herencia, justificándolo con los correspondientes documentos, acompañados del árbol genealógico. Estos escritos y documentos se unirán a la sección de sucesión por el orden en que se vayan presentado.
-
-ARTICULO 811
-
-Si a consecuencia de dichos llamamientos se presentare un aspirante o varios que aleguen igual derecho fundados en un mismo título, se procederá como se indica en los artículos 803 a 807.
-
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
-
-Si fueren dos o más los aspirantes a la herencia y no estuvieren conformes en sus pretensiones, los impugnadores harán de demandantes y los impugnados de demandados, debiendo, los que hagan causa común, formular sus pretensiones o defensas en un mismo escrito y bajo representante común. La controversia se substanciará incidentalmente y el Ministerio Público presentará su pedimento en la audiencia respectiva.
-
-Hecha la declaración se procede a la elección de albacea.
-
-ARTICULO 812
-
-La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
-
-ARTICULO 813
-
-Después de los plazos a que se refieren los artículos 807 y 808 no serán admitidos los que se presenten deduciendo derechos hereditarios; pero les queda a salvo su derecho para que lo hagan valer en los términos de ley contra los que fueren declarados herederos.
-
-ARTICULO 814
-
-Al albacea se le entregarán los bienes sucesorios así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil.
-
-ARTICULO 815
-
-Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
+> <small>(ADICIONADA, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
 
 ### CAPITULO IV. Del inventario y avalúo
 
@@ -6239,6 +6153,170 @@ La remoción a que se refiere el último precepto será de plano.
 ARTICULO 831
 
 Los gastos de inventario y avalúo son a cargo de la herencia, salvo que el testador hubiere dispuesto otra cosa.
+
+#### SECCION I. De los Intestados
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 799
+
+Al promoverse un intestado justificará el denunciante el parentesco o lazo si existiere y que lo hubiere unido con el autor de la herencia, en el grado por el que pueda considerarse heredero legítimo.
+
+Debe el denunciante indicar los nombres y domicilio de los parientes en línea recta y del cónyuge supérstite o a falte (sic) de ellos, de los parientes colaterales dentro del cuarto grado. De ser posible se presentarán las partidas del Registro Civil que acrediten la relación.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 800
+
+El juez tendrá por radicada la sucesión y mandará notificarlo por cédula o correo certificado a las personas señaladas como descendientes, ascendientes y cónyuge supérstite o en su defecto como parientes colaterales dentro del cuarto grado, haciéndoles saber el nombre del finado con los demás particulares que lo identificaren y la fecha del (sic) lugar del fallecimiento para que justifiquen sus derechos a la herencia y nombren albacea.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 801
+
+Los herederos ab-intestato que sean descendientes del finado, podrán obtener la declaración de su derecho justificando con los correspondientes documentos o con la prueba que sea legalmente posible, su parentesco con el mismo y con información testimonial que acredite que ellos o los que designen son los únicos herederos.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 802
+
+Dicha información se practicará con citación del Ministerio Público quien dentro de los tres días que sigan al de la diligencia debe formular su pedimento. Si éste fuere impugnando sólo de incompleta la justificación, se dará vista a los interesados para que subsanen la falta.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 803
+
+Practicadas las diligencias antes dichas, haya o no pedimento del Ministerio Público, el juez sin más trámites dictará auto haciendo la declaración de herederos ab-intestato, si la estimare procedente, o denegándola con reserva de su derecho a los que la hayan pretendido para el juicio ordinario.
+
+Este auto será apelable en el efecto devolutivo.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 804
+
+El mismo procedimiento establecido en los tres artículos que preceden se empleará para la declaración de herederos ab-intestato cuando lo solicitaren ascendientes del finado o el cónyuge supérstite. Si éste fuere la viuda no se admitirá promoción de la concubina devolviéndole la que hiciere sin ulterior recurso.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 805
+
+Hecha la declaración de herederos de acuerdo con los artículos precedentes, el juez en el mismo auto en que la hizo, citará a una junta de herederos dentro de los ocho días siguientes para que designen albacea. Se omitirá a junta si el heredero fuere único o si los interesados desde su presentación dieron su voto por escrito o en comparecencia; en este último caso al hacerse la declaración de herederos hará el juez la designación de albacea.
+
+Este albacea tiene el carácter de definitivo.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 806
+
+Si ninguno de los pretendientes hubiere sido declarado heredero, continuará como albacea judicial el interventor que se hubiere nombrado antes o que en su defecto se nombre.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 807
+
+Si la declaración de herederos la solicitaren parientes colaterales dentro del cuarto grado, el juez, después de recibir los justificantes del entroncamiento y la información testimonial del artículo 912, mandará fijar avisos en los sitios públicos del lugar del juicio y en los lugares del fallecimiento y origen del finado, anunciando su muerte sin testar y los nombres y grado de parentesco de los que reclaman la herencia y llamando a los que se crean con igual o mejor derecho para que comparezcan en el juzgado a reclamarla dentro de cuarenta días.
+
+El juez prudentemente podrá ampliar el plazo anterior cuando por el origen del difunto u otras circunstancias, se presuma que podrá haber parientes fuera de la República.
+
+Los edictos se insertarán además dos veces de diez en diez días en un periódico de información si el valor de los bienes hereditarios excediere de cinco mil pesos.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 808
+
+Transcurrido el término de los edictos a contar desde el día siguiente de su publicación, si nadie se hubiere presentado, trayendo los autos a la vista el juez hará la declaración prevenida en el artículo 805.
+
+Si hubieren comparecido otros parientes, el juez les señalará un término no mayor de quince días para que, con audiencia del Ministerio Público, presenten los justificantes del parentesco, procediéndose como se indica en los artículos 803 a 807.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 809
+
+Si dentro del mes de iniciado el juicio sucesorio no se presentaren descendientes, cónyuge, ascendientes, concubina o colaterales dentro del cuarto grado, el juez mandará fijar edictos en los sitios públicos de la manera y por el término expresados en el artículo 807, anunciando la muerte intestada de la persona de cuya sucesión se trate y llamando a los que se crean con derecho a la herencia.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 810
+
+Los que comparezcan a consecuencia de dichos llamamientos, deberán expresar por escrito el grado de parentesco en que se hallen con el causante de la herencia, justificándolo con los correspondientes documentos, acompañados del árbol genealógico. Estos escritos y documentos se unirán a la sección de sucesión por el orden en que se vayan presentado.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 811
+
+Si a consecuencia de dichos llamamientos se presentare un aspirante o varios que aleguen igual derecho fundados en un mismo título, se procederá como se indica en los artículos 803 a 807.
+
+> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+
+Si fueren dos o más los aspirantes a la herencia y no estuvieren conformes en sus pretensiones, los impugnadores harán de demandantes y los impugnados de demandados, debiendo, los que hagan causa común, formular sus pretensiones o defensas en un mismo escrito y bajo representante común. La controversia se substanciará incidentalmente y el Ministerio Público presentará su pedimento en la audiencia respectiva.
+
+Hecha la declaración se procede a la elección de albacea.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 812
+
+La declaración de herederos de un intestado surte el efecto de tener por legítimo poseedor de los bienes, derechos y acciones del difunto a la persona en cuyo favor se hizo.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 813
+
+Después de los plazos a que se refieren los artículos 807 y 808 no serán admitidos los que se presenten deduciendo derechos hereditarios; pero les queda a salvo su derecho para que lo hagan valer en los términos de ley contra los que fueren declarados herederos.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 814
+
+Al albacea se le entregarán los bienes sucesorios así como los libros y papeles, debiendo rendirle cuentas el interventor, sin perjuicio de lo dispuesto en el artículo 205 del Código Civil.
+
+(REUBICADO, G.O. 13 DE SEPTIEMBRE DE 2004)
+
+ARTICULO 815
+
+Si no se hubiere presentado ningún aspirante a la herencia antes o después de los edictos o no fuere reconocido con derechos a ella ninguno de los pretendientes, se tendrá como heredera a la Beneficencia Pública.
+
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+#### SECCIÓN II. Del Procedimiento Especial en los Intestados
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 815 BIS
+
+En las sucesiones intestamentarias en que no hubiere controversia alguna y los herederos ab intestato fueren mayores de edad, menores emancipados o personas jurídicas; se podrá realizar el procedimiento especial en los intestados a que se refiere esta sección.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 815 TER
+
+Los herederos ab intestato o sus representantes pueden acudir al Juez o ante Notario para realizar el procedimiento especial en los intestados exhibiendo:
+
+I. Copia certificada del acta de defunción o declaración judicial de muerte del autor de la sucesión;
+
+II. Actas de nacimiento para comprobar el entroncamiento de los herederos o parentesco; así como de matrimonio en caso de cónyuge supérstite;
+
+III. Inventario de los bienes, al que se le acompañaran los documentos que acrediten la propiedad del De Cujus; y
+
+IV. Convenio de adjudicación de bienes.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 815 QUATER
+
+El Juez o Notario Público en una sola audiencia o acto, habiendo solicitado previamente informe del Archivo General de Notarias sobre la existencia o inexistencia de testamento, en presencia de los interesados examinará los documentos, así como a los testigos a que se refiere el artículo 801 y resolverán conforme a las disposiciones de este Código y, en su caso, de la Ley del Notariado para el Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 815 QUINTUS
+
+Si en el procedimiento especial hubiere controversia, el juicio se seguirá conforme a las reglas generales de este Título.
+
+> <small>(ADICIONADO, G.O. 13 DE SEPTIEMBRE DE 2004)</small>
+
+ARTICULO 815 SEXTUS
+
+La adjudicación de bienes se hará con la misma formalidad que la ley exige para este acto jurídico.
 
 ### CAPITULO V. De la administración
 
@@ -8161,3 +8239,9 @@ El presente decreto entrará en vigor a los noventa días siguientes a su public
 ###### ARTÍCULO TERCERO.
 
 Las presentes disposiciones se aplicarán a todos los procedimientos judiciales y administrativos en trámite ante las autoridades correspondientes y de acuerdo a lo dispuesto en el artículo 94 de (sic) Código de Procedimientos Civiles del DF; los interesados podrán promover los beneficios que le concede la presente Ley.
+
+G.O. 13 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- Remítase al Jefe de Gobierno para su debida promulgación y publicación en la Gaceta Oficial del Distrito Federal y para su mayor difusión en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las presentes adiciones entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial de la Federación.
