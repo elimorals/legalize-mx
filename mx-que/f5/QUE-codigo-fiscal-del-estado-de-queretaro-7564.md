@@ -4,7 +4,7 @@ identifier: "QUE-codigo-fiscal-del-estado-de-queretaro-7564"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-31"
-last_updated: "1992-12-31"
+last_updated: "1994-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO FISCAL DEL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EL PERIÓDICO OFICIAL: EL 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EL PERIODICO OFICIAL: EL 29 DE DICIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 31 de diciembre de 1987.
 
@@ -131,7 +131,7 @@ A falta de disposición expresa en las leyes fiscales y siempre que no se contra
 
 ###### ARTICULO 15.
 
-La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general no eximen de su cumplimiento; sin embargo, las autoridades fiscales, en aquellos casos en que se trate de personas que se encuentren en virtual ignorancia o en precaria situación económica, podrán conceder a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como para eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas.
+La ignorancia de las leyes, reglamentos y demás disposiciones de observancia general no eximen de su cumplimiento; sin embargo, las autoridades fiscales, en aquellos casos en que se trate de personas que se encuentren en virtual ignorancia o en precaria situación económica, podrán conceder a los interesados un plazo de gracia para el cumplimiento de las leyes y disposiciones relativas, así como para eximirlos de las sanciones en que hubieren incurrido por las infracciones cometidas
 
 ###### ARTICULO 16.
 
@@ -201,9 +201,11 @@ III.- La vigencia y exigibilidad en cantidad líquida del derecho del crédito c
 
 IV.- El impuesto predial será preferente a cualquier otro crédito en los términos de éste artículo, incluso con relación a los fiscales federales, siempre y cuando se trate de la aplicación de los frutos de los mismos bienes o del producto de su venta.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 21.
 
-Las controversias que surjan entre el fisco Estatal y los fiscos Municipales relativas al derecho de preferencia para recibir el pago de los créditos fiscales; se resolverán por el Tribunal Superior de Justicia del Estado, tomando en cuenta las garantías constituídas y conforme a las siguientes reglas:
+Las controversias que surjan entre el fisco estatal y los fiscos municipales relativas al derecho de preferencia para recibir el pago de los créditos fiscales, se resolverán por el Tribunal de lo Contencioso Administrativo del Estado, tomando en cuenta las garantías constituidas y conforme a las siguientes reglas:
 
 I.- La preferencia en el pago corresponderá al primer embargante, si ninguno de los créditos tiene garantía real.
 
@@ -261,7 +263,9 @@ XII.- Los liquidadores y síndicos por las contribuciones que debieron pagar a c
 
 XIII.- Los representantes legales y mandatarios por los créditos fiscales que dejen de pagar por sus representados.
 
-XIV.- Los representantes de los causantes que hayan girado cheques para cubrir créditos fiscales, sin tener fondos disponibles, o que teniéndolos dispongan de ellos, antes de que transcurra el plazo de presentación.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+XIV.- Los representantes de los contribuyentes que hayan girado cheques para cubrir créditos fiscales, sin tener fondos disponibles o que teniéndolos dispongan de ellos, antes de que transcurra el plazo de presentación.
 
 XV.- Las demás personas que señalen las leyes fiscales.
 
@@ -641,7 +645,9 @@ I.- Empadronarse en un plazo que no excederá de diez días hábiles posteriores
 
 II.- Declarar y pagar los créditos fiscales en los términos que dispongan las Leyes respectivas.
 
-III.- Firmar todos los documentos previstos por este capítulo bajo protesta de decir verdad.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- Firmar todos los documentos previstos por este Código bajo protesta de decir verdad.
 
 IV.- Llevar y mostrar los libros exigidos por la Legislación relativa cuando les sean solicitados.
 
@@ -697,11 +703,15 @@ Cuando no se cumplan los requisitos a que se refiere este artículo las autorida
 
 Los funcionarios fiscales facultados debidamente, podrán expedir circulares para dar a conocer a las diversas dependencias el criterio de la autoridad superior que deberán seguir, en cuanto a la aplicación de las normas tributarias. De dichas circulares no nacen obligaciones ni derechos para los particulares.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 73.
 
-Las autoridades fiscales, a fin de determinar la existencia del Crédito Fiscal, dar las bases de su liquidación o fijarlo en cantidades líquidas, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultados para :
+Las autoridades fiscales a fin de determinar la existencia del crédito fiscal, dar las bases de su liquidación o fijarlo en cantidades líquidas, cerciorarse del cumplimiento a las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones, estarán facultados para:
 
-I.- Practicar visitas en el domicilio o dependencia de los contribuyentes, de los responsables solidarios o de terceros y revisar sus libros, documentos y correspondencia que tenga relación con las obligaciones fiscales y en su caso asegurarlos dejando en calidad de depositario al visitado previo inventario que al efecto se formule.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I.- Practicar visitas en el domicilio o dependencias de los contribuyentes, de los responsables solidarios o de terceros y revisar sus libros, documentos y correspondencia que tengan relación con las obligaciones fiscales y, en su caso, asegurarlos dejando en calidad de depositario al visitado, o persona con quien se entienda la diligencia o un tercero, previo inventario que al efecto se formule.
 
 II.- Proceder a la verificación física, clasificación, valuación o comprobación de toda clase de bienes.
 
@@ -715,7 +725,9 @@ V.- Realizar las verificaciones de los lugares, bienes o mercancías en la forma
 
 VI.- Emplear cualquiera de los siguientes medios de apremio que juzguen eficaces, para hacer cumplir sus determinaciones.
 
-A).- Multa de 1 a 20 veces el salario mínimo vigente en la zona económica.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+A).- Multa de 10 a 50 veces el salario mínimo vigente en la zona económica.
 
 B).- El auxilio de la fuerza pública.
 
@@ -723,7 +735,9 @@ C).- La denuncia respectiva por desobediencia a un mandato legítimo de autorida
 
 VII.- Allegarse las pruebas necesarias para denunciar ante el Ministerio Público la posible comisión de delitos fiscales, o en su caso, para formular la querella respectiva.
 
-Las actuaciones que practique la Secretaría de Finanzas tendrán el mismo valor probatorio que la Ley relativa concede a las actas de Policía Judicial y la propia Secretaría de Finanzas continuará aportando los elementos y datos que le solicite el Ministerio Público durante la averiguación previa y el proceso.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Las actuaciones que practique la Secretaría de Planeación y Finanzas tendrán el mismo valor probatorio que la Ley relativa concede a las actas de Policía Judicial y la propia Secretaría de Planeación y Finanzas continuará aportando los elementos y datos que le solicite el Ministerio Público durante la averiguación previa y el proceso.
 
 VIII.- Para la comprobación de los ingresos totales o gravables de los contribuyentes, se presumirá salvo prueba en contrario:
 
@@ -759,11 +773,15 @@ IX.- Estimar los ingresos gravables de los causantes, de los responsables solida
 
 5.- Cuando las informaciones que se obtengan de clientes, proveedores o terceros, pongan de manifiesto la percepción de ingresos superiores a los declararos (sic).
 
-X.- En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa se presumerá (sic), salvo que comprueben su ingreso por el período respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+X.- En caso de que los contribuyentes se coloquen en alguna de las causales de estimativa se presumirá, salvo que comprueben su ingreso por el período respectivo, que el ingreso es igual al resultado de alguna de las siguientes operaciones.
 
 1.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquiera otro medio puedieran (sic) reconstruirse las operaciones correspondientes cuando menos a treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período objeto de la previsión.
 
-2.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas tomará como base los ingresos que observen durante tres días cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+2.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días la Secretaría de Planeación y Finanzas tomará como base los ingresos que observen durante tres días cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda el período objeto de revisión.
 
 Al ingreso estimado presuntivamente por alguno de los procedimientos anteriores se le aplicará la tasa o tarifa impositiva que corresponda.
 
@@ -805,11 +823,11 @@ V.- Los visitadores harán constar en el acta los hechos y omisiones observados.
 
 VI.- Al concluirse la visita se levantará acta en la que se harán constar los resultados en forma circunstanciada y será firmada indistintamente por cualquiera de los visitadores que hayan intervenido en la visita, por el visitado o la persona con quien se entienda la diligencia y por testigos.
 
-El visitado o culquiera (sic) de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresándolos en forma también circunstanciada.
+El visitado o culquiera(sic) de sus empleados podrá expresar en el acta si está conforme con su contenido o los motivos de su inconformidad, expresándolos en forma también circunstanciada.
 
-Los testigos pueden ser sustituidos: por no encontrarse en el lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los visitadores designarán a quien pueda sustituirlos. La situación de los testigos no invalida la visitsa (sic).
+Los testigos pueden ser sustituidos: por no encontrarse en el lugar donde se esté llevando a cabo la visita, por ausentarse de él antes de que concluya la diligencia o por manifestar su voluntad de dejar de ser testigo. En tales circunstancias la persona con la que se entienda la visita deberá designar de inmediato otros y ante la negativa o impedimento de los designados, los visitadores designarán a quien pueda sustituirlos. La situación de los testigos no invalida la visitsa(sic).
 
-VIII (sic).- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar así lo harán constar los visitadores, sin que ésta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia.
+VIII(sic).- El visitado, los testigos y los visitadores firmarán el acta. Si el visitado o los testigos se niegan a firmar así lo harán constar los visitadores, sin que ésta circunstancia afecte el valor probatorio del documento. Un ejemplar del acta se entregará en todo caso al visitado o a la persona con la que se entienda la diligencia.
 
 VIII.- Con las mismas formalidades indicadas en la fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de su visita, o después de su conclusión.
 
@@ -923,7 +941,7 @@ XV.- Declarar ingresos menores a los percibidos, hacer deducciones falsas, ocult
 
 XVI.- No pagar en forma total o parcial las contribuciones dentro de los plazos señalados por las Leyes Fiscales.
 
-XVII.- Eludir el pago de las prestaciones fiscales como consecuencia de inexactitud, simulaciones, falsificaciones y otras maniobras.
+XVII.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1994)
 
 XVIII.- Ostentar en forma no idónea o diversa de las que señalen las disposiciones fiscales la comprobación del pago de una prestación fiscal.
 
@@ -1057,7 +1075,9 @@ La Secretaría de Finanzas y sus dependencias impondrán las sanciones administr
 
 Tomando como base el salario mínimo vigente se impondrá multa por cada infracción de las previstas en los artículos 82, 83, 84 y 85 como sigue:
 
-I.- De 1 a 15 veces: A las fracciones I, IV, V, X, XII, XVIII y XXII del artículo 82.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+I.- De 5 a 25 veces: A las infracciones (sic) I, IV, V, X, XII, XVIII y XXII del artículo 82.
 
 A las fracciones I, II, III, XIV del artículo 83.
 
@@ -1065,15 +1085,19 @@ A las fracciones I y XVI del artículo 84.
 
 A las fracciones VII, VIII, XIII y XIX, del artículo 85.
 
-II.- De 5 a 30 veces: A las fracciones II, III, VI, IX, XI, XVI, XIX del artículo 82.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II.- De 10 a 50 veces: A las fracciones ll, III, VI, IX, XI, XVI y XIX del artículo 82.
 
 A las fracciones IV, V, VI, VII, VIII, IX, del artículo 83.
 
-A las fracciones II, VII, VIII, IX, X, XI, XII del artículo 84.
+A las fracciones II, VII, VIII, IX, X, XI, XII, del artículo 84.
 
-A las fracciones I, II, III, IV, V, VI, X, XI, XII, XIV, XV del artículo 85.
+A las fracciones I, II, III, IV, V, VI, X, XI, XII, XIV, XV, del artículo 85.
 
-III.- De 10 a 50 veces: A las fracciones VII, VIII, XII, XIV, XV, XVII, XX, XXI, del artículo 82.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+III.- De 15 a 75 veces: A las fracciones VII, VIII, XIII, XIV, XV, XX y XXI, del artículo 82.
 
 A las fracciones X, XI, XII, XIII, del artículo 83.
 
@@ -1097,7 +1121,9 @@ B).- Tratándose de infracciones que no impliquen omisión en el pago de contrib
 
 II.- También será agravante en la Comisión de una infracción, cuando se dé alguno de los siguientes supuestos:
 
-A).- La omisión en el entero, haciéndose uso de documentos falsos o en los que se hagan constar operaciones inexistentes.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+A).- La omisión en el pago en forma total o parcial de las contribuciones a consecuencia de inexactitudes, simulaciones, falsificaciones y otras maniobras en los documentos en que se haga constar el hecho generador del crédito fiscal.
 
 B).- Que se destruya, ordene o permita la destrucción total o parcial de la contabilidad.
 
@@ -1109,9 +1135,13 @@ En el caso de que la multa se pague dentro del mes siguiente a la fecha en que s
 
 En los casos a que se refiere el artículo anterior, las multas se aumentarán conforme a las siguientes reglas:
 
-I.- En un 20% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en el inciso c) de la fracción II del artículo anterior.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
 
-II.- En un 50% del monto de las contribuciones omitidas o del beneficio indebido cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo anterior, a excepción del inciso c).
+I.-Hasta un 50% del monto de las contribuciones omitidas o del beneficio indebido, cada vez que el infractor haya reincidido o cuando se trate del agravante señalado en el inciso c) de la fracción II del artículo anterior.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+II.- Hasta un 100% del monto de las contribuciones omitidas o del beneficio indebido cuando en la comisión de la infracción se dé alguno de los agravantes señalados en la fracción II del artículo anterior, a excepción del inciso c).
 
 ### CAPITULO III. DE LOS DELITOS FISCALES
 
@@ -1379,11 +1409,15 @@ La autoridad fiscal correspondiente podrá habilitar días y horas inhábiles to
 
 En los termino no fijados en días sino por períodos y aquellos en que se señale un fecha determinada para su extinción, se computarán todos los días.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
 ###### ARTICULO 121.
 
-Para la presentación de declaraciones, avisos o documentos ante las oficinas de la Secretaría de Finanzas y sus dependencias se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales, durante el horario normal; la existencia de personal de guardia no habilitará los días en que se suspendan las labores.
+Para la presentación de declaraciones, avisos o documentos ante las oficinas de la Secretaría de Planeación y Finanzas y sus dependencias se considerarán días hábiles sólo aquellos en que se encuentren abiertas al público las oficinas fiscales, durante el horario normal; la existencia de personal de guardia no habilitará los días en que se suspendan las labores.
 
-Para efectos de este Código son días hábiles todos los días del año, con exclusión de los sábados y domingos, 1º de enero, 5 de febrero, 21 de marzo, 1º y 5º de mayo, 25 de julio, 1° y 16 de septiembre, 1º de octubre de cada 6 años cuando ocurre el cambio de Poderes Estatales, 12 de octubre, 20 de noviembre, 1º de diciembre de cada 6 años cuando ocurre el cambio de Poderes Federales y el 25 de diciembre y el 1º miércoles de septiembre del año que corresponda a las elecciones estatales y municipales.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1994)</small>
+
+Para efectos de este Código son días hábiles todos los del año, con exclusión de los sábados y domingos, 1º de enero, 5 de febrero, 21 de marzo, 1º y 5 de mayo, 16 de septiembre, 1º de octubre de cada 6 años cuando ocurre el cambio de poderes estatales, 20 de noviembre, 1º de diciembre de cada 6 años cuando ocurre el cambio de poderes federales y el 25 de diciembre.
 
 Las oficinas a que se refiere el párrafo anterior, recibiran (sic) las declaraciones, avisos, solicitudes y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverán copia sellada a quien los presente. Únicamente se podrá rechazar la presentación cuando no contengan el nombre del contribuyente, el número de registro de contribuyentes, su domicilio fiscal o no aparezcan debidamente firmadas, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos, en este último caso, las oficinas podrán cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
@@ -2024,3 +2058,11 @@ CUARTO.- Durante el primer semestre del año 1993, el plazo al que se refiere la
 QUINTO.- Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
 
 SEXTO.- Esta Ley comenzará su vigencia a partir del 1º. de enero de 1993.
+
+P.O. 29 DE DICIEMBRE DE 1994
+
+PRIMERO.- Esta ley entrará en vigor el día1o. de enero de 1995.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente ley.
+
+TERCERA.- Publíquese en el Periódico Oficial de Gobierno del Estado "La Sombra de Arteaga" para que surta sus efectos legales.
