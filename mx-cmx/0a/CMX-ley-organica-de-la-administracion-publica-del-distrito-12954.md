@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-de-la-administracion-publica-del-distrito-12954"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-12-29"
-last_updated: "1998-12-29"
+last_updated: "1999-05-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12954&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-12-14"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE MAYO DE 1999.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -938,9 +938,13 @@ XX. Dirigir, organizar y supervisar el Archivo General de Notarías, así como e
 
 XXI. Coordinar y vigilar el cumplimiento de las disposiciones jurídicas en materia de jurados, panteones, consejos de tutelas, registro público de la propiedad y de comercio, registro civil, archivo general de notarías, legalizaciones, exhortos y bienes mostrencos, así como intervenir en materia de cultos conforme a las leyes de la materia;
 
-XXII. Proponer al Jefe de Gobierno el nombramiento y remoción de los jueces y secretarios de los Juzgados Cívicos, así como el número de estos juzgados en el Distrito Federal, y su ámbito de jurisdicción territorial;
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 1999)</small>
 
-XXIII. Elaborar los lineamientos y criterios técnico-jurídicos a los que se sujetarán los Juzgados Cívicos, supervisando y vigilando que el funcionamiento de los mismo (sic) se realice conforme a las disposiciones y lineamientos jurídicos aplicables; así como proveer y organizar la participación social en la administración de justicia cívica, fomentando su cultura entre los habitantes del Distrito Federal, y en general prestar los servicios relativos a la justicia cívica;
+XXII. Proponer al Jefe de Gobierno el nombramiento y remoción de los jueces y secretarios de los Juzgados Cívicos, así como el número de estos juzgados en el Distrito Federal, y su ámbito de jurisdicción territorial, conforme a los lineamientos que emita el Consejo de Justicia Cívica;
+
+> <small>(REFORMADA, G.O. 20 DE MAYO DE 1999)</small>
+
+XXIII. De conformidad (sic) las disposiciones aplicables de la Ley de Justicia Cívica para el Distrito Federal, elaborar los lineamientos y criterios técnico-jurídicos a los que se sujetarán los Juzgados Cívicos, supervisando y vigilando que (sic) el funcionamiento de los mismos.
 
 XXIV. Previa opinión de la Secretaría de Gobierno en cuanto a la posible concertación, coadyuvar en la elaboración y sancionar los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la Administración Pública Federal y con los Gobiernos Estatales;
 
@@ -1409,3 +1413,11 @@ OCTAVO.- Los recursos humanos, materiales y financieros con que cuentan las actu
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a diez de diciembre de mil novecientos noventa y ocho.- POR LA MESA DIRECTIVA.- DIP. JOSE NARRO CESPEDES, PRESIDENTE.- DIP. JOSE LUIS BENITEZ GIL, SECRETARIO.- RUBRICA.- DIP. ELVIRA ALBARRAN RODRIGUEZ, SECRETARlA.- RÚBRICAS.
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los catorce días del mes de diciembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- RÚBRICA.- LA SECRETARlA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RÚBRICA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- RÚBRICA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- RÚBRICA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRIGUEZ.- RÚBRICA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- RÚBRICA.- LA SECRETARlA DE EDUCACIÓN, SALUD Y DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- RÚBRICA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTIZ SALINAS.- RÚBRICA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, JORGE MARTÍNEZ Y ALMARAZ.- RÚBRICA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ALEJANDRO GERTZ MANERO.- RÚBRICA.- EL SECRETARIO DE TURISMO, AGUSTIN ARROYO LEGASPI.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 20 DE MAYO DE 1999.
+
+PRIMERO. El presente decreto entrará en vigor a los quince días de su publicación en la Gaceta Oficial del Gobierno del Distrito Federal.
+
+SEGUNDO. Por ser de interés general, publíquese en el Diario Oficial de la Federación.
