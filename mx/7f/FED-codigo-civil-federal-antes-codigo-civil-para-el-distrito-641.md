@@ -4,7 +4,7 @@ identifier: "FED-codigo-civil-federal-antes-codigo-civil-para-el-distrito-641"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1993-07-21"
+last_updated: "1993-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=641&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,7 @@ scjn_last_update: "2025-11-14"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE SEPTIEMBRE DE 1993.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -878,7 +878,7 @@ V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar
 
 VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 3 DE ENERO DE 1979)</small>
 
@@ -2906,7 +2906,7 @@ Los cargos de tutor y de curador de un incapaz no pueden ser desempeñados al mi
 
 No pueden ser nombrados tutores o curadores las personas que desempeñen el Juzgado de lo Familiar y las que integren los Consejos Locales de Tutelas; ni los que estén ligados con parentesco de consanguinidad con las mencionadas personas, en la línea recta, sin limitación de grados, y en la colateral dentro del cuarto grado inclusive.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
 
@@ -3480,7 +3480,7 @@ Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rend
 
 Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos, decidirá si ha de continuar o no la negociación; a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad, en cuanto no ofrezca grave inconveniente a juicio del juez.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 557.
 
@@ -3532,7 +3532,7 @@ Se requiere licencia judicial para que el tutor pueda transigir o comprometer en
 
 El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 568.
 
@@ -4708,7 +4708,7 @@ El Ministerio Público, si estima que procede, deducirá ante el juez competente
 
 El denunciante recibirá la cuarta parte del valor catastral de los bienes que denuncie; observándose lo dispuesto en la parte final del artículo 781.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ###### ARTICULO 789.
 
@@ -9396,7 +9396,7 @@ ARTICULO 2,342.- No puede hacerse donación verbal más que de bienes muebles.
 
 ARTICULO 2,343.- La donación verbal sólo producirá efectos legales cuando el valor de los muebles no pase de doscientos pesos.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,344.- Si el valor de los muebles excede de doscientos pesos, pero no de cinco mil, la donación debe hacerse por escrito.
 
@@ -11042,11 +11042,11 @@ ARTICULO 2,850.- El fiador que haya de darse por disposición de la ley o de pro
 
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
-Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
+(REFORMADO, D.O.F. 3 DE ENERO DE 1979)Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cuantía no exceda de mil pesos no se exigirá que el fiador tenga bienes raíces.
 
 La fianza puede substituirse con prenda o hipoteca.
 
-> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA "NUEVO", PARA VOLVER A LA DENOMINACIÓN "PESO" DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
@@ -12618,8 +12618,24 @@ SEGUNDO.- Las declaraciones de incapacidad o de nombramiento de tutor que actual
 
 D.O.F. 21 DE JULIO DE 1993.
 
-PRIMERO.- El presente decreto entrará en vigor a los 90 días de su publicación en el Diario Oficial de la Federación.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
 
-SEGUNDO.- Las disposiciones contenidas en el presente decreto, no serán aplicables a los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor del mismo.
+PRIMERO.- Las disposiciones contenidas en el presente decreto entrarán en vigor el 19 de octubre de 1998, salvo lo dispuesto por los transitorios siguientes.
 
-TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, se seguirán rigiendo por las disposiciones vigentes con anterioridad a la entrada en vigor del presente decreto.
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+
+SEGUNDO.- Las disposiciones del presente decreto se aplicarán a partir del 19 de octubre de 1993, únicamente cuando se trate de inmuebles que:
+
+I.- No se encuentren arrendados al 19 de octubre de 1993;
+
+II.- Se encuentren arrendados al 19 de octubre de 1993, siempre que sean para uso distinto del habitacional, o
+
+III.- Su construcción sea nueva, siempre que el aviso de terminación sea posterior al 19 de octubre de 1993.
+
+> <small>(REFORMADO, D.O.F. 23 DE SEPTIEMBRE DE 1993)</small>
+
+TERCERO.- Los juicios y procedimientos judiciales y administrativos actualmente en trámite, así como los que se inicien antes del 19 de octubre de 1998 derivados de contratos de arrendamiento de inmuebles para habitación y sus prórrogas que no se encuentren en los supuestos establecidos en el transitorio anterior, se regirán hasta su conclusión, por las disposiciones del Código de Procedimientos Civiles para el Distrito Federal y de la Ley Federal de Protección al Consumidor, vigentes con anterioridad al 19 de octubre de 1993.
+
+D.O.F. 23 DE SEPTIEMBRE DE 1993.
+
+UNICO.- El presente decreto entrará en vigor el 19 de octubre de 1993.
