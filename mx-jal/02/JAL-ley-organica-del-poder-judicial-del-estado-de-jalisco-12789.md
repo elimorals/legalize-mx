@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2000-09-19"
+last_updated: "2001-07-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE SEPTIEMBRE DE 2000.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JULIO DE 2001.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -137,7 +137,9 @@ Los servidores públicos del Poder Judicial, a excepción de los del Tribunal El
 
 Los juzgados penales, mixtos, familiares y civiles que por disposición de la ley deban conocer actuaciones para las cuales no haya días y horas inhábiles, harán uso de ese derecho conforme lo disponga el Consejo General.
 
-El personal de la Sala Permanente del Tribunal Electoral disfrutará de vacaciones por un período igual al señalado en el primer párrafo del presente artículo, en los tiempos y términos que determine el Pleno de dicho Tribunal.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+El personal del Tribunal Electoral disfrutará de vacaciones por un período igual al señalado en el primer párrafo del presente artículo, en los tiempos y términos que determine el Pleno de dicho Tribunal.
 
 ###### Artículo 14.
 
@@ -889,27 +891,21 @@ III. Las demás que señalen las disposiciones legales aplicables.
 
 ### CAPÍTULO III. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 73.
 
 El Tribunal Electoral del Poder Judicial será la máxima autoridad jurisdiccional en la materia y órgano especializado del Poder Judicial del Estado de Jalisco, competente para resolver las controversias que se susciten en los procesos electorales para la renovación de los poderes Legislativo, Ejecutivo, y de los ayuntamientos; así como en los procesos de plebiscito y referéndum. Estará dotado de autonomía y personalidad jurídica propia, con la competencia, jurisdicción y organización que señalen la Constitución Política del Estado, la presente ley y su reglamento.
 
 El Tribunal Electoral del Poder Judicial, residirá en la capital del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 74.
 
-El Tribunal Electoral del Poder Judicial del Estado lo constituyen:
+El Tribunal Electoral del Poder Judicial del Estado contará con una Secretaría General de Acuerdos y el personal administrativo que requiera para su buen funcionamiento.
 
-I. El Pleno del Tribunal;
-
-II. Dos salas de primera instancia;
-
-III. Una Sala de segunda instancia;
-
-IV. La Secretaría General de Acuerdos;
-
-V. Los secretarios Relatores; y
-
-VI. El personal administrativo que requiera para su buen funcionamiento.
+El Presupuesto de egresos del año electoral prevendrá los apoyos financieros para contratar secretarios relatores y demás personal de apoyo, necesarios para la atención de los asuntos a cargo del Tribunal Electoral del Poder Judicial.
 
 ###### Artículo 75.
 
@@ -917,7 +913,9 @@ Para nombrar a los magistrados del Tribunal Electoral, deberá observarse el sig
 
 I. Cada uno de los grupos parlamentarios del Congreso del Estado, elaborará una propuesta de candidatos que consideren aptos para ocupar el cargo, habiendo escuchado para tal efecto a los partidos políticos, instituciones de educación superior, colegios de abogados instituidos en la Entidad y demás organizaciones sociales y civiles;
 
-II. Las comisiones de Justicia, y Calificadora de Asuntos Electorales del Poder Legislativo, analizarán las propuestas a que se refiere la fracción anterior, a fin de verificar que los candidatos cumplan con los requisitos que la ley establece para ocupar el cargo, y elaborarán un (sic) lista por el doble de magistrados a elegir, determinando la Sala o Instancia a la que se integrarán;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+II. Las comisiones de Justicia, y Calificadora de Asuntos Electorales de (sic) Poder Legislativo, analizarán las propuestas a que se refiere la fracción anterior, a fin de verificar que los candidatos cumplan con los requisitos que la ley establece para ocupar el cargo, y elaborarán una lista por el doble de magistrados a elegir;
 
 III. Las propuestas de ciudadanos para ocupar el cargo de magistrados del Tribunal Electoral serán votadas de manera individual y sucesiva, requiriéndose para su designación el voto de las dos terceras partes de los diputados presentes del Congreso del Estado;
 
@@ -933,13 +931,15 @@ Durante el tiempo que ejerzan las funciones de su cargo, los magistrados no podr
 
 Los magistrados del Tribunal Electoral deberán excusarse de conocer algún asunto en que tengan interés personal por relaciones de parentesco, negocios, amistad estrecha o enemistad que pueda afectar su imparcialidad. En este caso, el Pleno del Tribunal calificará y resolverá de inmediato la excusa.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 77.
 
-El Tribunal Electoral se instalará e iniciará sus funciones a más tardar el 31 de julio del año de la elección y entrará en receso una vez que haya resuelto la totalidad de juicios de inconformidad y recursos que se hubieren interpuesto como consecuencia del proceso electoral.
+El Pleno del Tribunal Electoral se integrará e iniciará sus funciones a más tardar el 31 de julio del año de la elección y entrará en receso una vez que haya resuelto la totalidad de juicios de inconformidad y recursos que se hubieren interpuesto como consecuencia del proceso electoral.
 
 En el caso de elecciones extraordinarias, se estará a lo dispuesto en la convocatoria respectiva.
 
-Durante el receso, funcionará una Sala Permanente, integrada por tres magistrados de la Sala Superior, la cual conocerá de:
+Durante el receso, funcionará una Sala Permanente, integrada por tres magistrados del Tribunal Electoral, la cual conocerá de:
 
 I. Los procedimientos especiales relativos a la solución de conflictos laborales entre el Consejo Electoral del Estado y sus servidores;
 
@@ -947,9 +947,13 @@ II. Cualquier controversia que se suscite durante el tiempo en que no se encuent
 
 III. Cualquier controversia que se suscite en los procesos extraordinarios, de plebiscito o referéndum, y que no se encuentre instalado el Tribunal Electoral, salvo que la convocatoria establezca la instalación total del Tribunal.
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 78.
 
-Los magistrados del Tribunal Electoral durarán en el ejercicio de su encargo cuatro años, a partir de la fecha en que rindan la protesta de ley, al término de los cuales, podrán ser reelectos, continuando en su función cuatro años más, durante los cuales no podrán ser privados de su empleo, salvo los casos establecidos en la Constitución Política del Estado, en materia de responsabilidades de los servidores públicos.
+Los magistrados del Tribunal Electoral durarán en el ejercicio de su encargo cuatro años a partir de la fecha en que rindan la protesta de ley, durante los cuales no podrán ser privados de su empleo, salvo los casos establecidos en la Constitución Política del Estado, en materia de responsabilidades de los servidores públicos.
+
+Al término de su gestión los magistrados electorales no podrán ser reelectos para el período inmediato, sino una vez pasado éste serán elegibles sujetándose al procedimiento previsto en esta ley.
 
 ###### Artículo 79.
 
@@ -1023,19 +1027,29 @@ VI. Tener credencial para votar con fotografía.
 
 ###### Artículo 85.
 
-El Pleno del Tribunal Electoral, estará integrado por once magistrados propietarios y por cinco suplentes.
+El Tribunal Electoral estará integrado por cinco magistrados propietarios y por cinco suplentes.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 86.
 
-El Tribunal Electoral funcionará en Pleno, integrado por todos los magistrados propietarios de las dos salas de primera instancia, que se integran por tres magistrados propietarios cada una y de la Sala de Segunda Instancia formada por cinco magistrados propietarios, entre los cuales deberá estar su Presidente, salvo en caso fortuito o de fuerza mayor; en ambos casos, se llamará como auxiliar al Magistrado suplente que designen los restantes propietarios.
+El Tribunal Electoral funcionará en Pleno, integrado por todos los magistrados propietarios, salvo en caso fortuito o de fuerza mayor; en ambos casos, se llamará como auxiliar al Magistrado suplente que designen los restantes propietarios.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 87.
 
-En la fecha de instalación del Tribunal Electoral, se reunirán los magistrados en la sede de éste, presididos por el de mayor edad.
+En la fecha de integración del Tribunal Electoral, se reunirán los magistrados en la sede de éste, presididos por el de mayor edad.
 
-Inmediatamente se procederá, en votación secreta por cédula y escrutinio público, a la elección, por mayoría de votos, del Presidente del Pleno del Tribunal Electoral y de los presidentes de las salas de Primera Instancia.
+Inmediatamente se procederá, en votación secreta por cédula y escrutinio público, a la elección, por mayoría de votos, del Presidente del Pleno del Tribunal Electoral.
 
-El Presidente del Tribunal Electoral, será el Presidente de la Sala de Segunda Instancia o Sala Superior.
+El magistrado que ocupe la presidencia del Tribunal Electoral, lo hará durante el tiempo que ejerza la magistratura.
+
+En ausencia del presidente del Tribunal Electoral, la presidencia será ejercida de acuerdo a lo siguiente:
+
+I. En caso de ausencias no mayores de sesenta días, por el magistrado propietario de mayor edad; y
+
+II. En el caso que exceda del plazo que se indica en la fracción anterior, deberá elegirse nuevo presidente.
 
 ### CAPÍTULO VI. DE LAS SALAS DE PRIMERA INSTANCIA DEL TRIBUNAL ELECTORAL
 
@@ -1045,25 +1059,41 @@ Son atribuciones del Pleno del Tribunal Electoral:
 
 I. Expedir su reglamento interior;
 
-II. Nombrar al Secretario General de Acuerdos y a los demás servidores públicos a propuesta del Presidente; así como a los secretarios relatores de cada una de las salas de Primera Instancia y de la Sala de Segunda Instancia, a iniciativa de sus integrantes; además, resolver sobre las renuncias que presenten;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+II. Nombrar al Secretario General de Acuerdos y a los demás servidores públicos a propuesta del Presidente; además, resolver sobre las renuncias que presenten;
 
 III. Llamar a los magistrados suplentes a desempeñar funciones, de acuerdo a lo previsto en la presente ley y en la Ley Electoral del Estado;
 
-IV. Vigilar el irrestricto cumplimiento de la ley en el ejercicio de sus funciones;
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
 
-V. Celebrar cuando menos, una sesión mensual;
+IV. Conocer de los juicios de inconformidad y recursos de apelación que se promuevan de acuerdo con lo dispuesto por la Ley Electoral del Estado;
 
-VI. Fijar los mecanismos para sustentar criterios de jurisprudencia obligatoria en la materia, así como conocer las controversias sobre la contradicción de criterios sustentados por las salas;
+V. Vigilar el irrestricto cumplimiento de la ley en el ejercicio de sus funciones;
 
-VII. Resolver los conflictos de trabajo suscitados entre el Tribunal Electoral y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
+VI. Celebrar cuando menos, una sesión mensual;
 
-VIII. Designar, a propuesta de su Presidente, al representante del Tribunal Electoral ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
+VII. Fijar los mecanismos para sustentar criterios de jurisprudencia obligatoria en la materia, así como conocer las controversias sobre la contradicción de criterios sustentados por las salas;
 
-IX. Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones;
+VIII. Resolver los conflictos de trabajo suscitados entre el Tribunal Electoral y sus servidores públicos en términos de la fracción XII del apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, a partir del dictamen que le presente la Comisión Substanciadora del propio Tribunal;
 
-X. Determinar la instalación de salas auxiliares, en caso de ser necesario, para lo cual procederá a integrarlas con los magistrados suplentes; y
+IX. Designar, a propuesta de su Presidente, al representante del Tribunal Electoral ante la Comisión Substanciadora para los efectos señalados en la fracción anterior;
 
-XI. Las demás que le confiere esta ley.
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+X. Elegir por mayoría de votos, por cédula, en votación secreta y escrutinio público a los tres magistrados que integrarán la Sala Permanente del Tribunal Electoral que fungirá en los recesos de éste;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XI. Elegir a los magistrados director y subdirector del Instituto de Investigaciones y Capacitación Electoral;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XI. (sic) Solicitar al Consejo Electoral del Estado los documentos necesarios para poder ejercer cabalmente sus funciones; y
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XII. Las demás que le confiera esta ley.
 
 ###### Artículo 89.
 
@@ -1071,15 +1101,21 @@ Son atribuciones del Presidente del Pleno del Tribunal Electoral:
 
 I. Integrar el Pleno del Tribunal con los demás magistrados;
 
-II. Presidir la Sala Superior o de Segunda Instancia;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+II. Presidir el Tribunal Electoral del Poder Judicial del Estado;
 
 III. Dirigir los debates y mantener el orden en las sesiones del Pleno del Tribunal;
 
 IV. Representar al Tribunal ante toda clase de autoridades;
 
-V. Convocar en los recesos, a los magistrados propietarios de cualquiera de las salas o del Pleno;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-VI. Proponer al Secretario General de Acuerdos y al demás personal administrativo del Tribunal, con excepción de los secretarios Relatores de las salas de Primera Instancia y de la Sala Superior, quienes serán propuestos por los respectivos magistrados que las integren;
+V. Convocar en los recesos, a los magistrados propietarios para la integración del Pleno;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+VI. Proponer el nombramiento del Secretario General de Acuerdos y demás personal administrativo del Tribunal;
 
 VII. Dictar las medidas que exija el buen servicio y la disciplina del Tribunal, e imponer las sanciones administrativas que procedan, al Secretario General de Acuerdos, a los secretarios relatores y demás servidores;
 
@@ -1095,11 +1131,21 @@ XII. Rendir, en la última sesión del Tribunal, un informe dando cuenta de los 
 
 XIII. Ejercer el Presupuesto de Egresos del Tribunal;
 
-XIV. Proponer al Pleno del Tribunal Electoral los nombramientos del Secretario General del Tribunal, de los directores y de los titulares de los órganos auxiliares del propio Tribunal, así como el del representante de este último, ante la correspondiente Comisión Substanciadora; y
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XIV. Turnar, proporcional y equitativamente, entre él y los demás magistrados los asuntos para su estudio y presentación del proyecto de resolución que en cada uno debe dictarse;
+
+> <small>(ADICIONADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XV. Ordenar y vigilar que se notifique a los organismos electorales y demás partes interesadas, las resoluciones que emitan;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+XVI. Proponer al Pleno del Tribunal Electoral el representante de este último, ante la correspondiente Comisión Substanciadora; y
 
 > <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
 
-XV. Las demás que le confiera el Pleno del Tribunal.
+XVII. Las demás que le confiera el Pleno del Tribunal.
 
 ### CAPÍTULO VII. DE LA SALA DE SEGUNDA INSTANCIA DEL TRIBUNAL ELECTORAL
 
@@ -1111,117 +1157,169 @@ I. El Magistrado ponente presentará el caso y el sentido de su resolución, se�
 
 II. Los magistrados podrán discutir el proyecto en turno;
 
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
 III. Cuando los presidentes de las salas de Primera Instancia y de la Sala Superior lo consideren suficientemente discutido, lo someterán a votación; y
 
 IV. Los magistrados podrán presentar voto particular, el cual se agregará al expediente.
 
-En casos extraordinarios, las salas de primera Instancia podrán diferir la resolución de un asunto listado.
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Sólo en casos extraordinarios, se podrá diferir la resolución de un asunto listado.
+
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
 
 ###### Artículo 91.
 
-Los presidentes de las salas de primera instancia y el de la Sala de Segunda Instancia del Tribunal Electoral tendrán la obligación de ordenar que se fijen en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión.
+El Presidente del Tribunal Electoral tendrá la obligación de ordenar que se fije en los estrados respectivos por lo menos con veinticuatro horas de anticipación, la lista de asuntos que serán ventilados en cada sesión.
 
-Las salas determinarán la hora y días de sus sesiones públicas.
+El Tribunal determinará la hora y días de sus sesiones públicas.
 
 ### CAPÍTULO VIII. DE LA JURISPRUDENCIA
 
+> <small>(REFORMADO, P.O. 17 DE JULIO DE 2001)</small>
+
 ###### Artículo 92.
 
-Las salas de primera instancia del Tribunal Electoral, se integrarán con tres magistrados propietarios cada una; sin tal conformación, no tendrán validez sus resoluciones. Deberán sesionar con el número total de sus miembros, salvo en los casos de excusa o licencia, en que podrá llamarse a los magistrados suplentes.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 93.
 
-Corresponde a las salas de primera instancia del Tribunal Electoral:
-
-I. Conocer de los juicios de inconformidad que se promuevan de conformidad con lo dispuesto por la Ley Electoral del Estado;
-
-II. Remitir a la Sala Superior del Tribunal, en un plazo de veinticuatro horas, los recursos de reconsideración que se presenten;
-
-III. Conocer del recurso de apelación, cuando se interponga dentro del proceso electoral;
-
-IV. Conocer, dentro de los procesos electorales, de los procedimientos especiales relativos a la solución de conflictos laborales que se susciten entre el Consejo Electoral del Estado y sus servidores; y
-
-V. Las demás que les confiera la ley.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 94.
 
-Corresponde al presidente de cada Sala del Tribunal Electoral:
-
-I. Integrar su Sala con los demás magistrados propietarios, presidirla y moderar las audiencias;
-
-II. Cursar la correspondencia de la Sala;
-
-III. Turnar, proporcional y equitativamente, entre él y los demás miembros de la Sala, los asuntos para su estudio y presentación del proyecto de resolución que en cada uno debe dictarse;
-
-IV. Dirigir la discusión de los asuntos sometidos al conocimiento de la Sala y someterlos a votación para el acuerdo respectivo;
-
-V. Ordenar y vigilar que se notifique a los organismos electorales y demás partes interesadas, las resoluciones que emitan;
-
-VI. Dictar los trámites que procedan en los asuntos de su competencia y en los de la misma Sala; y
-
-VII. Las demás funciones que señale la ley.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ### CAPÍTULO IX. DE LOS PROCEDIMIENTOS ESPECIALES
 
 ###### Artículo 95.
 
-La Sala de Segunda Instancia del Tribunal Electoral, se integrará con cinco magistrados propietarios, incluyendo su Presidente, que lo será también del Tribunal en Pleno, sin cuyo requisito, no tendrán validez sus resoluciones.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 96.
 
-Corresponde a la Sala Superior del Tribunal Electoral:
-
-I. Conocer del recurso de reconsideración, de conformidad con lo que establece la Ley Electoral del Estado;
-
-II. Elegir por mayoría de votos, por cédula, en votación secreta y escrutinio público a los tres magistrados que integrarán la Sala Permanente del Tribunal Electoral que fungirá en los recesos de éste; y
-
-III. Las demás atribuciones que le confieran las leyes.
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
 ###### Artículo 97.
 
-Corresponde al Presidente de la Sala de Segunda Instancia del Tribunal Electoral:
+(DEROGADO, P.O. 17 DE JULIO DE 2001)
 
-I. Presidir las sesiones, dirigir los debates, moderar y mantener el orden;
+### CAPÍTULO X. DEL INSTITUTO DE INVESTIGACIONES Y CAPACITACIÓN ELECTORAL
 
-II. Representar a la Sala ante las autoridades correspondientes;
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
-III. Despachar la correspondencia ordinaria de la Sala;
+Artículo 100 A.- El Instituto de Investigaciones y Capacitación Electoral es un órgano dependiente del Tribunal Electoral del Poder Judicial del Estado, y su objetivo es el estudio y divulgación y fomento de la cultura democrática y la capacitación en todos los niveles, de cuadros susceptibles de ocupar cargos dentro de la estructura electoral del Estado.
 
-IV. Turnar los asuntos en forma equitativa, para su estudio y proyecto de resolución a los magistrados integrantes de la Sala;
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
-V. Ordenar y vigilar que se notifique a los organismos electorales y demás partes interesadas, las resoluciones que pronuncie la Sala;
+Artículo 100 B.- La constitución del Instituto se formalizará mediante acuerdo mayoritario del pleno del Tribunal Electoral del Poder Judicial del Estado, cuyos términos deberán constar en acta debidamente legalizada por el Secretario General de Acuerdos.
 
-VI. Dictar los trámites en los asuntos de su competencia; y
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
 
-VII. Las demás funciones que señalen las leyes.
+Artículo 100 C.- El Instituto de Investigaciones y Capacitación Electoral estará integrado por:
 
-### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
+I. Un Director de Investigación;
+
+II. Un Director de Capacitación;
+
+III. Investigadores;
+
+IV. Capacitadores; y
+
+V. Personal administrativo.
+
+De entre los magistrados electorales que no formen parte de la sala permanente, serán elegidos los Directores de (sic) Instituto.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 D.- El Instituto interrumpirá sus actividades temporalmente durante los períodos en que deba integrarse el pleno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 E.- Los Directores del Instituto tendrán las siguientes obligaciones, en cada una de sus áreas:
+
+I. Elaborar y proponer los programas anuales de investigación y capacitación electoral;
+
+II. Coordinar y vigilar el cumplimiento de los programas a que se refiere el inciso anterior;
+
+III. Organizar jornadas didácticas de cultura y legislación electorales, para educandos de nivel primaria, secundaria y media superior;
+
+IV. Llevar el control del acervo que se produzca como resultado de las investigaciones que realice el Instituto;
+
+V. Coordinar la fundación y enriquecimiento bibliográfico de la Biblioteca del Tribunal Electoral del Poder Judicial;
+
+VI. Llevar el registro de investigadores adscritos al Instituto de Investigaciones y Capacitación Electoral;
+
+VII. Fomentar la actividad editorial del Instituto;
+
+VIII. Las demás que le confiera esta ley y su reglamento.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 F.- El Programa Anual de Investigación y Capacitación Electoral deberá ser sometido para su aprobación por el pleno del Tribunal Electoral a más tardar el día 30 de enero.
+
+En los años electorales el Programa deberá contemplar esta circunstancia y constreñirse al desarrollo de actividades solo durante el tiempo en que no deba estar debidamente integrado el pleno del Tribunal Electoral.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 G.- El Programa Anual de Investigación y Capacitación Electoral deberá contener cuando menos lo siguiente:
+
+I. El plan de divulgación de la cultura y legislación electoral en su cobertura municipal y por niveles educativos básicos, y media superior;
+
+II. El plan de capacitación electoral para militantes y simpatizantes de Partidos Políticos;
+
+III. Plan de divulgación de la cultura y legislación electoral en foros, congresos y encuentros académicos;
+
+IV. Estrategia permanente para el enriquecimiento del acervo bibliográfico y documental de la Biblioteca del Tribunal Electoral del Poder Judicial;
+
+V. Actividades museográficas para la preservación de objetos y documentos relacionados con la evolución democrática del Estado;
+
+VI. Estrategias de coordinación con centros académicos para la elaboración de protocolos de investigación sobre cuestiones relacionadas con la democracia y los derechos cívicos.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 H.- El Instituto contará con el personal administrativo que le asigne el pleno del Tribunal Electoral, el cual deberá seleccionarse entre los servidores públicos que no tengan asignadas tareas específicas en la sala permanente.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 I.- Ni los magistrados, ni el personal comisionado al Instituto devengarán por ese hecho remuneración adicional.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 J.- El Instituto deberá suscribir con las universidades, colegios y centros académicos, convenios de coordinación para el estudio y divulgación de la cultura y legislación electorales.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 K.- Los trabajos de investigación que se realicen con el apoyo del Instituto, o como resultado de los convenios de coordinación, serán puestos a disposición de los Partidos Políticos y sociedades en general.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 L.- El Instituto deberá ofrecer a los Partidos Políticos cuando menos una vez durante el año previo a la elección, cursos de capacitación electoral.
+
+De los cursos que imparta el Instituto se entregarán constancias de capacitación a quienes los hubieren cursado satisfactoriamente.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 M.- La participación en conferencias, foros o congresos que tengan como temática principal la materia electoral, por parte de quienes formen parte del Instituto, siempre deberá hacerse a título gratuito, salvo la recuperación económica que debiere exigirse por concepto de gastos extraordinarios que la actividad genere.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 N.- Los Directores del Instituto deberán presentar un informe anual de las actividades realizadas, ante el pleno del Tribunal Electoral, el cual deberá ser aprobado por sus integrantes.
+
+> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2001)</small>
+
+Artículo 100 O.- Las actividades que desarrolle el Instituto no podrán significar un costo mayor al 10% del presupuesto asignado al Tribunal Electoral, por lo que la Dirección deberá procurar los patrocinios que fueren necesarios para el cumplimiento de los objetivos de la Institución.
+
+Los salarios de los magistrados y personal comisionado del Tribunal Electoral no se tomarán en cuenta para el cálculo de costo operativo de la Institución.
+
+Será prueba del grado de eficiencia de los Directores del Instituto, la obtención de más y mejores resultados con el mínimo de gasto con cargo al presupuesto del Tribunal.
 
 ###### Artículo 98.
 
-Los criterios fijados por las salas de Primera y de Segunda Instancia y por el Pleno del Tribunal Electoral del Estado, sentarán jurisprudencia en los siguientes casos:
+Los criterios fijados por el Tribunal Electoral del Estado sentarán jurisprudencia cuando se sustenten en el mismo sentido, cinco resoluciones consecutivas.
 
-I. Cuando se sustenten en el mismo sentido, cinco resoluciones consecutivas; y
-
-II. Cuando se resuelva en contradicción de criterios sustentados por las salas del Tribunal conforme al procedimiento siguiente:
-
-a) La contradicción de criterios podrá ser planteada por una Sala, por un Magistrado de alguna sala, por el Pleno del Tribunal o por las partes;
-
-b) Recibida en el Pleno la solicitud a que se refiere la fracción anterior, el Presidente del Pleno turnará el asunto al Magistrado que corresponda, para que formule el proyecto de resolución sobre la contradicción de criterios, mismo que será presentado para su aprobación y en su caso a discusión en sesión pública;
-
-c) La contradicción de criterios podrá plantearse en cualquier momento y el que prevalezca será obligatorio a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones dictadas con anterioridad;
-
-d) El Presidente del Pleno del Tribunal Electoral notificará de inmediato a todos los integrantes del mismo, los criterios definidos a que se refieren las fracciones I y II de este artículo y los mandará publicar en los estrados. Serán obligatorios y deberán ser aplicados a partir del momento de su notificación;
-
-e) Los criterios fijados por el Pleno del Tribunal Electoral del Estado dejarán de tener carácter obligatorio, siempre que se pronuncie una resolución en contrario por mayoría de seis votos de los integrantes del Pleno del Tribunal;
-
-f) En la resolución en que se modifique un criterio obligatorio, se expresarán las razones en que se funde el cambio. El nuevo criterio será obligatorio si se da cualquiera de los supuestos señalados en las fracciones I y II de este artículo;
-
-g) Cuando un criterio sostenido por las salas del Tribunal sea contradictorio al establecido como obligatorio por el Pleno, prevalecerá el criterio que tenga carácter de jurisprudencia; y
-
-h) El Pleno del Tribunal remitirá de inmediato los criterios obligatorios al Consejo General del Poder Judicial para su publicación.
-
-### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
+### CAPÍTULO I. DE LA COMPETENCIA Y ORGANIZACIÓN DE LOS JUZGADOS DE PRIMERA INSTANCIA
 
 ###### Artículo 99.
 
@@ -1229,7 +1327,9 @@ Las diferencias o conflictos entre el Consejo Electoral del Estado y sus servido
 
 I. Cualquier servidor del Consejo Electoral del Estado, de sus organismos y de la Dirección del Registro Estatal de Electores que hubiese sido sancionado o destituido de su cargo, podrá inconformarse mediante demanda que presente directamente ante el Tribunal Electoral, dentro de los quince días hábiles siguientes al día en que se notifique la determinación del Consejo Electoral;
 
-II. En tanto no se instale el Tribunal Electoral, es competente para resolver los procedimientos especiales a que se refiere este capítulo, la sala permanente y, dentro del proceso electoral, la sala de primera instancia del Tribunal Electoral, a la cual de conformidad al turno respectivo, le corresponda conocer.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JULIO DE 2001)</small>
+
+II. En tanto no se instale el Tribunal Electoral, es competente para resolver los procedimientos especiales a que se refiere este capítulo, la sala permanente y, dentro del proceso electoral, el Pleno del Tribunal Electoral.
 
 Es requisito de procedibilidad en este caso, que el servidor involucrado haya agotado, en tiempo y forma, las instancias previas que establezca el Estatuto del Servicio Profesional Electoral;
 
@@ -1255,9 +1355,13 @@ VI. El Consejo Electoral del Estado, deberá contestar dentro de los diez días 
 
 VII. Se celebrará una audiencia de conciliación, desahogo de pruebas y alegatos dentro de los quince días hábiles siguientes al en que se reciba la contestación del Consejo Electoral del Estado;
 
-VIII. La Sala competente del Tribunal Electoral determinará la admisión de las pruebas y su desahogo y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
 
-IX. La Sala competente del Tribunal, resolverá en forma definitiva, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. La resolución se notificará a las partes personales (sic) si señalaron domicilio, en caso contrario se hará por estrados; y
+VIII. El Tribunal Electoral o la Sala Permanente, en su caso, determinará la admisión de las pruebas y su desahogo y las valorará atendiendo a las reglas de la lógica y de la experiencia, así como al sano raciocinio;
+
+> <small>(REFORMADA, P.O. 17 DE JULIO DE 2001)</small>
+
+IX. Desahogadas las pruebas se resolverá el asunto en forma definitiva, dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción VII de este artículo. La resolución se notificará a las partes personalmente si señalaron domicilio, en caso contrario se hará por estrados; y
 
 X. Los efectos de la resolución podrán ser en el sentido de confirmar, modificar revocar el acto o resolución impugnada, y ésta será definitiva. En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Consejo Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización que legalmente corresponda.
 
@@ -1277,11 +1381,13 @@ Durante el tiempo que transcurra entre dos procesos electorales, es competente p
 
 En el supuesto de que la resolución ordene dejar sin efectos la destitución del servidor del Tribunal Electoral del Estado, éste último podrá negarse a reinstalarlo, pagando la indemnización que legalmente corresponda.
 
-### CAPÍTULO III. DEL JURADO POPULAR
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE JULIO DE 2001)</small>
+
+### CAPÍTULO II. DE LOS JUZGADOS MENORES Y DE PAZ
 
 ## TÍTULO QUINTO. DE LOS JUZGADOS Y JURADO POPULAR
 
-### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
+### CAPÍTULO III. DEL JURADO POPULAR
 
 ###### Artículo 101.
 
@@ -1499,7 +1605,7 @@ En los juzgados especializados y mixtos fuera del Primer Partido Judicial en los
 
 Los notificadores deberán hacer las notificaciones y citaciones con la debida oportunidad, y con las formalidades prescritas por el procedimiento respectivo, sin dar preferencia a ninguna de las partes, devolviendo inmediatamente los expedientes al Secretario.
 
-### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
+### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS JUECES Y DEMÁS SERVIDORES
 
 ###### Artículo 116.
 
@@ -1553,7 +1659,7 @@ IV. Los demás que prevengan las leyes.
 
 Por cada Juez Menor o de Paz propietario, se nombrará un suplente que lo sustituya en sus faltas temporales, en tanto se nombra su propietario y éste tome posesión.
 
-### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
+### CAPÍTULO I. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
 ###### Artículo 121.
 
@@ -1625,7 +1731,7 @@ V. En general todos aquellos impedimentos o excusas que prevén las leyes proces
 
 El procedimiento, recusación, el orden que debe seguirse en las audiencias y en general todo lo relativo a las obligaciones y funciones de los jurados, se regirán por lo que dispongan las leyes aplicables.
 
-### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
+### CAPÍTULO II. DEL PLENO DEL CONSEJO GENERAL
 
 ###### Artículo 130.
 
@@ -1661,7 +1767,7 @@ De presentarse esa hipótesis en salas regionales mixtas, lo suplirá el Secreta
 
 ## TÍTULO SEXTO. DEL CONSEJO GENERAL DEL PODER JUDICIAL
 
-### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
+### CAPÍTULO III. DEL PRESIDENTE DEL PLENO DEL CONSEJO DEL PODER JUDICIAL
 
 ###### Artículo 136.
 
@@ -1691,7 +1797,7 @@ La notificación y ejecución de las resoluciones que emita el Consejo General f
 
 Cuando a juicio del Pleno del Consejo General del Poder Judicial, los reglamentos, acuerdos o resoluciones que emita sean de interés general, deberán publicarse en el Boletín Judicial.
 
-### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
+### CAPÍTULO IV. DE LAS COMISIONES DEL CONSEJO
 
 ###### Artículo 142.
 
@@ -1803,7 +1909,7 @@ XXXVII. Desempeñar cualquier otra función que la ley encomiende al Consejo Gen
 
 El Pleno del Consejo General del Poder Judicial del Estado contará con los servidores públicos superiores que establece el presente ordenamiento y el personal subalterno que permita el Presupuesto, los cuales podrán ser nombrados y removidos de conformidad con lo previsto en la presente ley.
 
-### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
+### CAPÍTULO V. DE LA SECRETARIA GENERAL DEL CONSEJO
 
 ###### Artículo 150.
 
@@ -1833,7 +1939,7 @@ IX. Firmar las resoluciones y acuerdos del Pleno del Consejo General del Poder J
 
 X. Las demás que determinen las leyes, los correspondientes reglamentos interiores y acuerdos generales.
 
-### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
+### CAPÍTULO VI. DE LA CAPACITACIÓN DE LOS INTEGRANTES DEL PODER JUDICIAL
 
 ###### Artículo 152.
 
@@ -1859,7 +1965,7 @@ Cada comisión nombrará a su respectivo Presidente y determinarán, por medio d
 
 En todos aquellos casos en que no fuere posible la dictaminación de un asunto en comisiones, su conocimiento y resolución pasará directamente al Pleno del Consejo General del Poder Judicial.
 
-### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
+### CAPÍTULO VII. DE LAS VISITAS DE INSPECCIÓN JUDICIAL
 
 ###### Artículo 158.
 
@@ -1911,7 +2017,7 @@ V. No haber sido condenado por delito doloso.
 
 Los directores de Investigación y Capacitación, de Visitaduría y Carrera Judicial, de Disciplina y Responsabilidades y de Archivo, Ediciones y Boletín Judicial, además de reunir los requisitos que contemplan las fracciones I, III, IV y V del artículo anterior, deberán tener título profesional de licenciado en derecho o abogado expedido legalmente.
 
-### CAPÍTULO IX. DE LA CARRERA JUDICIAL
+### CAPÍTULO VIII. DE LA ADMINISTRACIÓN Y CONTRALORÍA DEL PODER JUDICIAL
 
 ###### Artículo 162.
 
@@ -1949,7 +2055,7 @@ La Dirección de Investigación y Capacitación programará e impartirá cursos 
 
 La dirección contará con un área de investigación, la cual tendrá como función primordial la realización de los estudios necesarios para el desarrollo y mejoramiento de las funciones del Poder Judicial del Estado.
 
-### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
+### CAPÍTULO IX. DE LA CARRERA JUDICIAL
 
 ###### Artículo 167.
 
@@ -2041,7 +2147,7 @@ Del acta elaborada por el Visitador, deberán ser entregadas copias al titular d
 
 El Pleno del Consejo General del Poder Judicial y el Titular de la Dirección de Visitaduría podrán ordenar en cualquier momento la celebración de visitas extraordinarias de inspección, siempre que a su juicio existan elementos que hagan presumir irregularidades cometidas por cualquier servidor público adscrito al Juzgado de Primera Instancia, Menor o de Paz.
 
-### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
+### CAPÍTULO X. DEL INGRESO A LA CARRERA JUDICIAL
 
 ###### Artículo 178.
 
@@ -2057,9 +2163,9 @@ II. Elaborar los dictámenes de proyectos de Presupuesto de Egresos, planeación
 
 III. Comprobar el cumplimiento por parte de los órganos administrativos de cada órgano jurisdiccional, respecto de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, egresos, financiamiento, patrimonio y fondos.
 
-### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
+### CAPÍTULO XI. DE LA ADSCRIPCIÓN Y RATIFICACIÓN DE FUNCIONARIOS JUDICIALES
 
-### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
+### CAPÍTULO XII. DEL ARCHIVO Y BOLETÍN JUDICIAL
 
 ###### Artículo 180.
 
@@ -2103,7 +2209,7 @@ XIII. Juez Menor y Juez de Paz.
 
 El Consejo General del Poder Judicial del Estado establecerá, de acuerdo con su Presupuesto y mediante disposiciones generales, un sistema de estímulos para aquellas personas comprendidas en las categorías señaladas en el artículo anterior. Dicho sistema podrá incluir estímulos económicos y tomará en cuenta el desempeño en el ejercicio de su función, los cursos de especialización realizados, la antigüedad, grado académico, arraigo y los demás que el propio Consejo estime necesarios.
 
-### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
+### CAPÍTULO I. DE LOS MAGISTRADOS Y CONSEJEROS
 
 ###### Artículo 183.
 
@@ -2169,7 +2275,7 @@ IV. El director de Investigación y Capacitación.
 
 Por cada miembro titular se nombrará un suplente designado en los términos que señale el reglamento correspondiente.
 
-### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
+### CAPÍTULO II. DE LAS RESPONSABILIDADES Y SANCIONES DE LOS FUNCIONARIOS JUDICIALES
 
 ###### Artículo 189.
 
@@ -2219,7 +2325,7 @@ IV. No haber sido sancionado por falta grave, con motivo de una queja de caráct
 
 V. Los demás que estime pertinentes, siempre que consten en acuerdos generales publicados con seis meses de anticipación a la fecha de la ratificación.
 
-### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
+### CAPÍTULO III. DEL PROCEDIMIENTO DE RESPONSABILIDAD ADMINISTRATIVA
 
 ###### Artículo 193.
 
@@ -2241,7 +2347,7 @@ Para los efectos de la Ley de Prensa, el impresor será responsable de su actuac
 
 ## TÍTULO SÉPTIMO. DE LAS RESPONSABILIDADES Y CONFLICTOS LABORALES
 
-### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
+### CAPÍTULO IV. DEL RECURSO DE REVISIÓN ADMINISTRATIVA
 
 ###### Artículo 196.
 
@@ -2255,9 +2361,9 @@ También se procederá en los términos del párrafo anterior cuando los magistr
 
 Los magistrados del Supremo Tribunal, del Tribunal de lo Administrativo y del Tribunal Electoral, serán responsables al establecer o fijar la interpretación de los preceptos legales en las resoluciones que dicten, cuando se compruebe que hubo cohecho o mala fe.
 
-### CAPÍTULO I. DE LOS TRIBUNALES
+### CAPÍTULO V. DEL PROCEDIMIENTO EN CONFLICTOS LABORALES
 
-### CAPÍTULO II. DE LOS JUZGADOS
+### CAPÍTULO I. DE LOS TRIBUNALES
 
 ###### Artículo 198.
 
@@ -2397,7 +2503,7 @@ VI. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con 
 
 VII. Retirarse de su área de trabajo sin autorización o causa justificada.
 
-### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
+### CAPÍTULO II. DE LOS JUZGADOS
 
 ###### Artículo 201.
 
@@ -2471,7 +2577,7 @@ Si el Pleno de los Tribunales correspondientes, el Consejo General del Poder Jud
 
 Las resoluciones por las que el Pleno del Consejo General del Poder Judicial del Estado imponga sanciones administrativas consistentes en la destitución del cargo de Juez de Primera Instancia, Menor o de Paz, podrán ser impugnadas por el servidor público ante el Pleno del Tribunal de lo Administrativo mediante el recurso de revisión administrativa.
 
-### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
+### CAPÍTULO III. DE LOS PERITOS E INTÉRPRETES
 
 ###### Artículo 207.
 
@@ -2515,7 +2621,7 @@ La nulidad del acto que se reclame no producirá la invalidez de las actuaciones
 
 La interposición de la revisión administrativa no interrumpirá en ningún caso, los efectos de la resolución impugnada.
 
-### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
+### CAPÍTULO IV. DE LOS SÍNDICOS DE CONCURSO
 
 ###### Artículo 214.
 
@@ -2567,7 +2673,7 @@ III. Otras en que quede sin materia el procedimiento administrativo iniciado.
 
 ## TÍTULO OCTAVO. DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
+### CAPÍTULO V. DE LOS ALBACEAS, INTERVENTORES, DEPOSITARIOS, TUTORES Y CURADORES
 
 ###### Artículo 222.
 
@@ -2578,6 +2684,8 @@ I. Integrar y mantener actualizados los expedientes de los auxiliares de la admi
 II. Vigilar la conducta de los auxiliares de la administración de justicia en los términos del reglamento de esta ley; y
 
 III. Las demás que le asignen las leyes, el reglamento y el Pleno del Tribunal respectivo en el ámbito de su competencia.
+
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA DEL SUPREMO TRIBUNAL DE JUSTICIA Y DEL TRIBUNAL DE LO ADMINISTRATIVO
 
 ###### Artículo 223.
 
@@ -2761,7 +2869,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 10 DE ENERO DE 1998.
 
@@ -2776,3 +2884,19 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 19 DE SEPTIEMBRE DE 2000.
 
 UNICO. Este decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 17 DE JULIO DE 2001.
+
+PRIMERO.- El presente decreto entrará en vigor a (sic) día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO.- Los Magistrados al Tribunal Electoral deberán ser nombrados a más tardar el día 22 de julio del año 2001.
+
+Una vez que hubieren tomado protesta los magistrados electorales, deberán nombrar de inmediato al Presidente del Tribunal Electoral, integrar la Sala Permanente del Tribunal Electoral, constituir el Instituto de Investigaciones y Capacitación Electoral y designar a los Directores de dicha Institución.
+
+TERCERO.- El Congreso del Estado, deberá reformar la Legislación Estatal en materia Electoral, en un plazo de 90 días a partir de la vigencia del presente decreto.
+
+CUARTO.- El segundo párrafo del artículo 78, de la Ley Orgánica del Poder Judicial, sólo será aplicable a los magistrados electorales que se elijan con posterioridad a la publicación del presente decreto.
+
+QUINTO.- Se deberán realizar las adecuaciones presupuestales necesarias de acuerdo con las leyes aplicables acorde a (sic) nueva estructura del Tribunal Electoral.
+
+SEXTO.- Remítase copia certificada del expediente que se integre con motivo de la presente iniciativa a los 124 Ayuntamientos de la Entidad para los efectos de lo dispuesto por el artículo 117 de la Constitución Política del Estado de Jalisco.
