@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1981-03-02"
+last_updated: "1982-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE MARZO DE 1981.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1982.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -147,7 +147,7 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 ### CAPITULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 25.
 
@@ -169,9 +169,9 @@ VI.- Las asociaciones distintas de las enumeradas que se propongan fines políti
 
 Las personas morales pueden ejercitar todos los derechos que sean necesarios para realizar el objeto de su institución.
 
-### CAPITULO II. DE LAS ACTAS DE NACIMIENTO
+### CAPITULO II. ACTAS DE NACIMIENTO
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 27.
 
@@ -185,7 +185,9 @@ Las personas morales se regirán por las leyes correspondientes, por su escritur
 
 El domicilio de una persona física es el lugar donde reside con el propósito de establecerse en él; a falta de éste, el lugar en que tiene el principal asiento de sus negocios, y a falta de uno y otro, el lugar en que se halle.
 
-### CAPITULO III. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS NATURALES
+### CAPITULO III. ACTAS DE RECONOCIMIENTO DE HIJOS
+
+(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 30.
 
@@ -195,7 +197,9 @@ Se presume el propósito de establecerse en un lugar, cuando se reside por más 
 
 El domicilio legal de una persona es el lugar donde la ley le fija su residencia para el ejercicio de sus derechos y el cumplimiento de sus obligaciones, aunque de hecho no esté allí presente.
 
-### CAPITULO IV. DE LAS ACTAS DE ADOPCION
+### CAPITULO IV. ACTAS DE ADOPCION
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 32.
 
@@ -213,7 +217,9 @@ Los que por tiempo menor desempeñen alguna comisión, no adquirirán domicilio 
 
 V.- De los sentenciados a sufrir una pena privativa de la libertad por más de seis meses, la población en que la extingan, por lo que toca a las relaciones jurídicas posteriores a la condena; en cuanto a las relaciones anteriores, los sentenciados conservarán el último domicilio que hayan tenido.
 
-### CAPITULO V. DE LAS ACTAS DE TUTELA
+### CAPITULO V. ACTAS DE MATRIMONIO
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 33.
 
@@ -223,609 +229,773 @@ Las que tengan su administración fuera del Estado, pero que ejecuten actos jur�
 
 Las sucursales que operen en lugares distintos de donde radica la casa matriz, tendrán su domicilio en esos lugares para el cumplimiento de las obligaciones contraídas por las mismas sucursales.
 
-### CAPITULO VI. DE LAS ACTAS DE EMANCIPACION
+### CAPITULO VI. ACTAS DE DIVORCIO
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 34.
 
 Se tiene derecho de designar un domicilio convencional para el cumplimiento de determinadas obligaciones.
 
+> <small>(REFORMADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
 ## TITULO CUARTO. DEL REGISTRO CIVIL
 
-### CAPITULO VII. DE LAS ACTAS DE MATRIMONIO
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+### CAPITULO VII. ACTAS DE DEFUNCION
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 35.
 
-En el Estado estará a cargo de los Oficiales del Registro Civil, autorizar los actos del estado civil y extender las actas relativas a nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, tutela, emancipación y muerte de los mexicanos y extranjeros residentes en la misma entidad federativa; así como inscribir las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+El Registro Civil es la Institución de orden público por medio de la cual el Estado inscribe, autentifica y dá publicidad a los actos y hechos del estado civil de las personas.
 
-Las actas deberán levantarse precisamente por cuadruplicado y a máquina en las formas foliadas, autorizadas y expedidas por la Dirección del Registro Civil y se distribuirán de la siguiente manera: el original para formar el cuaderno correspondiente a la oficialía; la primera copia para el cuaderno correspondiente al Archivo General del Estado; la segunda copia para el interesado; y la tercera para la Dirección de Estadística.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 36.
 
-Los oficiales del Registro Civil formarán por duplicado siete cuadernos que se denominan "REGISTRO CIVIL" y que contendrán: el primero, actas de nacimiento y reconocimiento de hijos; el segundo, actas de adopción; el tercero, actas de tutela y de emancipación; el cuarto, actas de matrimonio, y el quinto, actas de divorcio; el sexto, actas de fallecimiento, y el séptimo, las inscripciones de las ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes.
+Las inscripciones a que se refiere el artículo que antecede harán prueba plena y surtirán efectos frente a terceros.
 
-Toda acta deberá asentarse en los dos ejemplares del Registro.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 37.
 
-Las actas del Registro Civil solo se pueden asentar en los cuadernos de que habla el artículo anterior.
+El Registro Civil está constituído por la Dirección General del Registro Civil, con su área de archivo estatal del Registro Civil, las Oficialías y demás organismos que determine el reglamento respectivo.
 
-La infracción de esta regla producirá la nulidad del acta y se castigará con la destitución del Oficial del Registro Civil.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 38.
 
-Si se perdiere o destruyere alguno de los cuadernos del Registro, se sacará inmediatamente copia del otro cuaderno, ya sea que la pérdida ocurra en las Oficinas del Registro Civil o en las de la autoridad administrativa a quien se hubiere remitido los duplicados. Un ejemplar entregado por la autoridad al particular al momento del registro, será igualmente válido para restituir la pérdida.
+La titularidad de las Oficialías del Registro Civil estará a cargo de Funcionarios Estatales, denominados Oficiales del Registro Civil, quienes tendrán fé pública en el desempeño de las labores propias de su cargo.
 
-Los Agentes del Ministerio Público, cuidarán de que se cumpla esta disposición, y, a ese efecto, el Oficial del Registro o el Encargado del Archivo General del Gobierno del Estado, les darán aviso de la pérdida.
+Los Oficiales no podrán asentar en las actas ni por vía de nota ni advertencia, sino lo que deba ser declarado en el acto preciso a que ella se refiere y lo que está expresamente prevenido en la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 39.
 
-El estado civil de las personas solo se comprueba por las constancias relativas del Registro.- Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados en la ley.
+En el asentamiento de las actas del Registro Civil intervendrán: El Oficial del Registro Civil que autoriza y dá fé, los particulares que soliciten el servicio o sus representantes legales y, en su caso, los testigos y personas que intervengan en las mismas quienes deberán firmarlas en el espacio correspondiente, imprimiéndose además el sello de la Oficialía. Si alguno de los testigos o personas que intervengan no saben firmar, se hará constar dicha circunstancia y se estamparán sus huellas digitales de ambos pulgares.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 40.
 
-Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles, o faltaren las hojas en que se pueda suponer que se encontraba el acta, se podrá recibir prueba del acto por instrumentos o testigos; pero si uno solo de los registros se ha inutilizado y existen los otros ejemplares, de éstos deberá tomarse la prueba sin admitirla de otra clase.
+Para los efectos del artículo 35, el Reglamento del Registro Civil establecerá las técnicas que se emplearán para la conservación perenne de los documentos de la Institución.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 41.
 
-Todos los cuadernos del Registro Civil de que habla el Art. 36 serán visados en su primera y última hoja por el Director del Registro Civil. Se renovarán cada año, y un ejemplar quedará en el archivo del Registro Civil, así como los documentos que le correspondan, remitiéndose el otro ejemplar, en el transcurso del primer mes del año siguiente, a la misma Dirección del Registro Civil.
+Las actas del Registro Civil contendrán las anotaciones que señale este Código y solo podrán asentarse en las formas especiales que el Reglamento respectivo establezca. Las inscripciones se harán mecanográficamente por quintuplicado.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 42.
 
-El Oficial del Registro Civil que no cumpla la prevención de remitir oportunamente a la mencionada oficina el ejemplar de que habla el artículo anterior, será destituído de su cargo.
+Para asentar las actas del Registro Civil en el Estado de Nuevo León, habrá las siguientes formas, con la cuales se integrarán siete libros por duplicado: Nacimiento, reconocimiento de hijos, adopción, matrimonio, divorcio, defunción, inscripción de las sentencias ejecutorias que declaren la ausencia, la presunción de muerte, la tutela, la pérdida o la limitación de la capacidad legal para administrar bienes.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 43.
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+Si se perdiere o destruyere alguna acta del Registro Civil, se sacará inmediatamente copia de alguno de los otros ejemplares bajo la responsabilidad del Oficial del Registro Civil o del Director del Registro Civil en su caso. Para ese efecto, el funcionario titular de la dependencia donde ocurra la pérdida, solicitará de cualquiera de los otros el ejemplar correspondiente para proceder a la reposición.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 44.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos y ratificadas las firmas ante el Notario Público, Juez de Primera Instancia, Menor o de Paz.
+Las formas del Registro Civil se proporcionarán por la Dirección del Registro Civil, las cuales tendrán los requisitos y leyendas que señale la Ley y el Reglamento respectivo. Los Oficiales del Registro Civil, al levantar las actas, las numerarán progresivamente cada año y entregarán una al interesado; otro quedará en el archivo de la Oficialía y los restantes los remitirán a la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 45.
 
-Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes.
+Con las actas del Registro Civil se integrará el apéndice respectivo, que estará constituído por todos los documentos relacionados con el acta que se asienta.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 46.
 
-La falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+Toda persona puede solicitar que se le muestre o se le expida copia certificada de las actas del Registro Civil y de los documentos del apéndice. Los Oficiales y el Director del Registro Civil están obligados a expedirlas o mostrarlas en su caso.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 47.
 
-Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro a las correcciones que señale el Reglamento respectivo; pero cuando no sean substanciales no producirán la nulidad del acto, a menos que judicialmente se pruebe la falsedad de éste.
+El estado civil de las personas solo se comprueba con las copias certificadas de las actas del Registro Civil. Ningún otro medio de prueba es admisible para comprobarlo, salvo los casos expresamente exceptuados por la Ley.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 48.
 
-Toda persona puede pedir testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados, y los oficiales registradores estarán obligados a darlo.
+Cuando no hayan existido registros, se hayan perdido, estuvieren ilegibles o faltaran las actas en que se pueda suponer se encontraba la inscripción, el Oficial del Registro Civil bajo ningún concepto hará la inscripción, si no se le exhibe copia certificada de la resolución pronunciada en jurisdicción voluntaria, acreditándose el hecho o acto correspondiente.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+Tratándose de nacimientos no registrados, el Oficial del Registro Civil hará la inscripción conforme a las disposiciones relativas de este Código, cuando la edad del menor no exceda de siete años, acreditándolo con certificado Médico-Legal. Si excede de esta edad deberá observarse el registro señalado en el párrafo anterior.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 49.
 
-Los actos y actas del estado civil relativos al Oficial del Registro, a su consorte y a los ascendientes o descendientes de cualesquiera de ellos, no podrán autorizarse por el mismo Oficial; pero se asentarán en los propios cuadernos y se autorizarán por el Director del Registro Civil en lo que corresponde a los municipios de Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García, y en los demás, por el Presidente Municipal del lugar.
+Cuando los interesados no puedan concurrir personalmente ante el Oficial del Registro Civil, podrá solicitar que éste acuda al lugar donde se encuentren o podrán hacerse representar por mandatario especial. En este último caso el mandato se otorgará en escritura pública, cuando se trate de matrimonio, de reconocimiento de hijos o cuando la Ley así lo disponga.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 50.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+Los testigos que intervengan en las actas del Registro Civil deberán ser cuando menos dos; mayores de edad y designados por los interesados, prefiriéndose a los parientes de éstos. Se asentará en el acta su nombre, edad, domicilio y nacionalidad.
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fé hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 51.
 
-Para establecer el estado civil, adquirido por los mexicanos fuera de la República, serán bastantes las constancias que los interesados presenten de los actos relativos, siempre que se registren en la Oficina respectiva del Territorio de la República. Estos registros se ajustarán a las formas de que habla el Art. 35.
+La nulidad del hecho o acto inscrito y la falsedad de las actas del Registro Civil, sólo podrán probarse judicialmente.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 52.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales conforme a las disposiciones reglamentarias que expida el Ejecutivo del Estado.
+Para acreditar el estado civil adquirido por los mexicanos fuera de la República, bastarán las constancias que los interesados presenten de los actos relativos, sujetándose a lo previsto en las Leyes Federales en cuanto a su legalización, debiendo inscribirse en la Oficialía de la adscripción de su domicilio.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 53.
 
-El Ministerio Público cuidará de que los cuadernos del Registro Civil se lleven debidamente, pudiendo inspeccionarlos en cualquiera época. Durante los seis primeros meses de cada año, el Procurador de Justicia del Estado revisará los cuadernos del año anterior remitidos a la Dirección del Registro Civil, para el efecto de hacer la consignación correspondiente de los Oficiales Registradores que hubieren cometido delitos en el ejercicio de su encargo, o de dar aviso a las autoridades administrativas de las faltas en que hubieren incurrido esos funcionarios.
+La Dirección del Registro Civil supervisará las actuaciones de los Oficiales del Registro Civil, ejercitando las facultades que le señale el reglamento respectivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 54.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina o en la casa donde aquel hubiere nacido. Esta presentación no tendrá lugar cuando exista el certificado a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
+Para la inscripción de los hechos y actos del Registro Civil, dispondrán los interesados del plazo que este Código señala específicamente para cada uno.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 55.
 
-Tienen obligación de declarar el nacimiento: el padre, dentro de los 15 días de ocurrido aquel, y, en su defecto, la madre dentro de los 40 días.
+En las actas del Registro Civil se efectuarán las anotaciones que relacionen el acto con los demás que estén inscritos de la misma persona; y las otras que establezca la Ley.
 
-Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen la obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes mediante la entrega del certificado de nacimiento, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si este ocurrió fuera de la casa paterna.
-
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 56.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado, serán castigadas con una multa de doscientos cincuenta a quinientos pesos, que impondrá la Dirección del Registro Civil.
+Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por el propio Oficial. Se asentarán en las formas correspondientes, autorizándose por el Director del Registro Civil en lo que toca a los Municipios de Apodaca, Garza García, General Escobedo, Guadalupe, Monterrey, San Nicolás de los Garza, Santa Catarina y García. En los demás Municipios por otro Oficial del Registro Civil habiendo varios y habiendo uno solo por el Presidente Municipal del lugar.
 
-En pena equivalente al triple de la señalada en este artículo, incurrirán las personas que no cumplan con la obligación de dar el aviso o certificado prevenido en el párrafo segundo del artículo anterior.
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-### CAPITULO VIII. DE LAS ACTAS DE DIVORCIO
+### CAPITULO VIII. ACTAS DE INSCRIPCION DE SENTENCIAS
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 57.
 
-En las poblaciones en que no haya Oficial del Registro, el niño será presentado a la persona que ejerza la autoridad municipal, y ésta dará la constancia respectiva que los interesados llevarán al Oficial del Registro que corresponda, para que asiente el acta.
+Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-> <small>(REFORMADO, P.O. 9 DE NOVIEMBRE DE 1979)</small>
+(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 58.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el día, la hora, el lugar de nacimiento, el número de certificado de nacimiento, el sexo del presentado, y el nombre y apellido que se le ponga, sin que por motivo alguno puedan omitirse, y la razón de si se ha presentado vivo o muerto, según el certificado de nacimiento.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los 60 días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos, por la línea paterna en primer término y después los de la materna. Los médicos, cirujanos o matronas que hubieren asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
 
-Se tomará al margen del Acta la impresión digital del presentado en el caso de no exhibir el mencionado certificado.
+Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
-Si se trata de hijos nacidos fuera de matrimonio, en ningún caso y por ningún motivo se asentará en el Acta esa circunstancia o cualquiera otra que lo califique; ni podrá asentarse dato alguno que rebele las circunstancias de nacimiento.
-
-El Oficial del Registro Civil que viole lo establecido en los párrafos anteriores, será destituído de su cargo, sin prejuicio de las sanciones penales que pudieran corresponderle.
+(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 59.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación.- Los testigos de que habla el artículo 61 declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
+El acta de nacimiento se extenderá con asistencia de dos testigos que pueden ser designados por las partes interesadas. Contendrá el año, mes, día hora y lugar de nacimiento, el Sexo, el nombre y apellidos que le correspondan sin que por motivo alguno pueda omitirse; la expresión de si es presentado vivo o muerto según el certificado de nacimiento, el nombre, edad, domicilio y nacionalidad de los padres, el nombre, domicilio y nacionalidad de los abuelos paternos y maternos, el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación la realiza una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los artículos siguientes.
+
+En el caso de no exhibirse el mencionado certificado, se tomará al margen del acta la impresión digital del presentado.
+
+Si el nacimiento ocurriere en un establecimiento de reclusión, el Oficial del Registro Civil deberá asentar como domicilio del nacido el Municipio donde haya acontecido.
+
+(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 60.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituído en la forma establecida en el artículo 44; haciéndose constar en todo caso la petición.
+Cuando al presentar al menor se exhiba copia certificada del acta de matrimonio de sus padres, se asentará a éstos como sus progenitores, salvo sentencia judicial en contrario.
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se dá el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
-
-Además de los nombres de los padres se hará constar en el acta de nacimiento su nacionalidad y domicilio; declarando acerca de la primera circunstancia los testigos que deben intervenir en el acto.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 61.
 
-Si el padre o la madre no pudieren concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del Registro, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se menciona su nombre; todo lo cual se asentará en el acta.
+Cuando el nacido fuere presentado como hijo de matrimonio se anotarán los nombres, domicilio y nacionalidad de los padres; los nombres y domicilios de los abuelos y los de la persona que hubiere hecho la presentación. Los testigos de que habla el artículo 59 declararán también acerca de la nacionalidad de los padres del presentado ante el Registro.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 62.
 
-Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+Cuando no se presente copia certificada del matrimonio, solo se asentará el nombre del padre o de la madre cuando éstos lo soliciten por sí o por apoderado en los términos que establece el artículo 49. Se asentará también el nombre y apellidos de los abuelos correspondientes según el caso.
+
+La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no se dá el nombre de la madre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los Tribunales de acuerdo con las disposiciones relativas de este Código.
+
+En estos casos por ningún concepto se asentarán palabras que califiquen a la persona registrada. En cualquier acta de nacimiento que contenga dicha nota, se testarán de oficio dichas palabras por quien tenga a su cargo las actas.
+
+El Oficial del Registro Civil que viole lo dispuesto en el párrafo anterior, será destituido de su cargo sin perjuicio de las sanciones penales que pudieran corresponderle.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 63.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso, ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+Si el hijo fuere adulterino, podrá asentarse el nombre del padre, casado o soltero, si lo pidiere; pero no podrá asentarse el nombre de la madre cuando sea casada y viva con su marido, a no ser que éste haya desconocido al hijo y exista sentencia ejecutoria que declare que no es hijo suyo.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 64.
 
-Podrá reconocerse al hijo incestuoso. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta; pero en ella no se expresará que el hijo es incestuoso.
+Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+
+En éste como en el caso del artículo anterior, se observará lo previsto en los dos últimos párrafos del artículo 62.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 65.
 
-Toda persona que encontrare un recién nacido, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarle al Oficial del Registro Civil, con los vestidos, papeles o cualesquiera otros objetos encontrados con él, y declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+Toda persona que encontrare un recién nacido o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo al Oficial del Registro Civil con los vestidos, papeles o cualquiera otros objetos encontrados con él. Declarará el día y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido, dando aviso el Oficial al Ministerio Público.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 66.
 
-La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad e inclusas, respecto de los niños nacidos o expuestos en ellas.
+La misma obligación tienen los jefes, directores o administradores de las prisiones y de cualquier casa de comunidad, especialmente los de los hospitales, casas de maternidad y casas de cuna, respecto de los niños nacidos o expuestos en ellas. En estos casos se observará lo previsto en la parte final del artículo anterior.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 67.
 
-En las actas que se levanten en estos casos, se expresarán con especificación todas las circunstancias que designe el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le pongan, y el nombre de la persona o casa de expósitos que se encarguen de él.
+En las actas que se levanten en tales casos, se expresarán las circunstancias que señala el artículo 65, la edad aparente del niño, su sexo, el nombre y apellido que se le ponga y el nombre de la persona o institución que se encargue de él.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 68.
 
-Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir al reconocimiento de aquel, se depositarán en el archivo del Registro, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+Si con el expósito se hubieren encontrado papeles, alhajas u otros objetos que puedan conducir a la identificación de aquél, el Oficial del Registro Civil ordenará su depósito ante el Ministerio Público respectivo, mencionándolos en el acta y dando formal recibo de ellos al que recoja al niño.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 69.
 
-Se prohibe absolutamente al Oficial del Registro Civil y a los testigos que conforme al artículo 58 deben asistir al acto, hacer inquisición sobre la paternidad. En el acta solo se expresará lo que deben declarar las personas que presenten al niño, aunque aparezcan sospechosas de falsedad; sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+Se prohibe al Oficial del Registro Civil y a los testigos que conforme al artículo 59 deban asistir al acto, hacer inquisición sobre la paternidad o maternidad. En el acta solo se expresara lo que deben declarar las personas que presenten al niño, aunque parezcan sospechosas de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 70.
 
-Si el nacimiento ocurriere a bordo de un buque nacional, los interesados harán extender una constancia del acto, en que aparezcan las circunstancias a que se refieren los artículos del 58 al 65, en su caso, y solicitarán que la autorice el capitán o patrono de la embarcación y dos testigos de lo que se encuentren a bordo, expresándose, si no los hay, esta circunstancia.
+Si el nacimiento ocurriere a bordo de un transporte nacional aéreo o marítimo, los interesados harán extender una constancia del hecho, en que aparecerán las circunstancias a que se refieren los artículos del 58 al 66, en su caso, y solicitarán que las autorice el Capitán o patrono de la embarcación y dos testigos que se encuentren a bordo, expresándose, si no los hay, ésta circunstancia.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 71.
 
-En el primer puerto nacional a que arribe la embarcación, los interesados entregarán el documento de que habla el artículo anterior, al Oficial del Registro Civil, para que a su tenor asiente el acta.
+En el primer lugar de arribo al territorio nacional, los interesados entregarán el documento de que habla el artículo anterior al Oficial del Registro Civil, para que a su tenor asiente el acta.
+
+En estos casos los interesados podrán optar por registrarlo ante el Oficial del Registro Civil de su domicilio, cuando éste lo tengan en la Entidad.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 72.
 
-Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que remitirá inmediatamente al Oficial del Registro Civil del domicilio de los padres.
+Si en el puerto no hubiere funcionario de esta clase, se entregará la constancia antes dicha a la autoridad local, la que la remitirá inmediatamente al Oficial del Registro Civil del domicilio de los padres.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 73.
 
-Si el nacimiento ocurriere en un buque extranjero se observará por lo que toca a las solemnidades del Registro, lo prescripto (sic) en el artículo 15.
+Si el nacimiento ocurriere en un transporte aéreo o marítimo extranjero, se observará lo previsto en el artículo 15 por lo que toca a las solemnidades del registro.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 74.
 
-Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas; en el primer caso se remitirá copia del acta al Oficial del Registro Civil del domicilio de los padres, si éstos lo pidieren, y en el segundo, se tendrá para hacer el registro el término que señala el artículo 55, con un día mas por cada veinte kilómetros de distancia o fracción que exceda de la mitad.
+Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en el lugar en que ocurra o en el domicilio de los padres, según las reglas antes establecidas.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 75.
 
-Si al dar el aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
+Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas: una de nacimiento y otra de defunción.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 76.
 
-En el caso de nacimiento de gemelos o más, se levantará acta para cada individuo y se harán constar las particularidades que los distingan y quien nació primero, según las noticias que le comunique el médico cirujano, la matrona o las personas que hayan asistido al parto.
+En el caso de nacimiento múltiple, se levantará acta para cada individuo y se harán constar las particularidades que los distinga y quien nació primero, según las noticias que comunique el médico, cirujano, matrona o personas que hayan asistido el parto.
 
-### CAPITULO IX. DE LAS ACTAS DE DEFUNCION
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO IX. CANCELACION, RECTIFICACION, MODIFICACION Y ACLARACION DE ACTAS DEL ESTADO CIVIL
+
+(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 77.
 
-Si el padre o la madre de un hijo natural, o ambos, lo reconocieren al presentarlo dentro del término de la ley para que se registre su nacimiento, el acta de éste contendrá los requisitos establecidos en los artículos anteriores, con expresión de ser el hijo natural, y de los nombres del progenitor que lo reconozca. Esta acta surtirá los efectos del reconocimiento legal.
+El acta de nacimiento surte efectos de reconocimiento del hijo en relación a los progenitores que aparezcan en el acta, cuando se asienten los nombres de éstos conforme a lo dispuesto por el artículo 62.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 78.
 
-Si el reconocimiento del hijo natural se hiciere después de haber sido registrado su nacimiento, se formará acta separada en la que, además de los requisitos a que se refiere el artículo que precede, se observarán los siguientes en sus respectivos casos:
+En el reconocimiento de un hijo hecho con posterioridad a su registro de nacimiento, se levantará acta por separado, siendo necesario recabar su consentimiento para ser reconocido si es mayor de edad; si es menor de edad pero mayor de catorce años, su consentimiento y el de la persona que lo tenga bajo su custodia; si es menor de catorce años, el consentimiento de quien lo tenga bajo su custodia. En los dos últimos casos siempre que no haya quien ejerza la patria potestad o tutela.
 
-I.- Si el hijo es mayor de edad, se expresará en el acta su consentimiento para ser reconocido;
+El consentimiento a que se refiere este artículo, se obtendrá también cuando el reconocimiento se hiciera al registrarse el nacimiento del hijo, si este registro se había omitido o se realiza después del término legal.
 
-II.- Si el hijo es menor de edad, pero mayor de catorce años, se expresará su consentimiento y el de su tutor;
-
-III.- Si el hijo es menor de catorce años, se expresará solo el consentimiento del tutor.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 79.
 
-Lo dispuesto en el artículo anterior se observará también cuando se haya omitido la presentación para el registro del nacimiento del hijo natural, o esa presentación se haya hecho después del término de la Ley.
+El acta de reconocimiento contendrá: nombre, apellidos, sexo, fecha y lugar de nacimiento, domicilio y huella digital del reconocido nombre, apellidos, edad, sexo, domicilio, nacionalidad, huellas digitales y firma del reconocedor; nombres, apellidos, nacionalidad y domicilio de los abuelos, padres del reconocedor; nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 80.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe. En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el capítulo IV, del Título séptimo de este Libro.
+Si el reconocimiento se hace por alguno de los otros medios establecidos en este Código, se presentará copia certificada del documento ante el Oficial del Registro Civil, para que se inserte la parte relativa del mismo en el acta.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 81.
 
-La omisión del registro, en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código; pero los responsables de la omisión incurrirán en una multa de veinte a cien pesos, que impondrá y hará efectiva el juez ante quien se haga valer el reconocimiento.
+Los oficiales que no cumplan con el requisito del artículo que antecede, dentro de un término de treinta días a partir de la fecha en que reciban la documentación para la anotación, se harán acreedores a una sanción pecuniaria hasta de cinco mil pesos, que impondrá la Dirección del Registro Civil.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 82.
 
-En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+La omisión del registro civil no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este Código.
+
+(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 83.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el Oficial del Registro Civil que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento, para que se haga la anotación marginal en el acta respectiva.
+En el acta de reconocimiento hecho con posterioridad al acta de nacimiento, se hará mención de ésta poniendo en ella la anotación correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 84.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días, presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+Si el reconocimiento se hiciera en Oficialía diferente de aquella en que se levantó el acta de nacimiento, se enviará copia certificada del acta de reconocimiento al Oficial correspondiente para que se haga la anotación en el acta de nacimiento. El Oficial que no cumpla con este requisito será sancionado con una multa hasta de cinco mil pesos que impondrá la Dirección del Registro Civil.
 
-### CAPITULO X. INSCRIPCIONES DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES, LA AUSENCIA O LA PRESUNCION DE MUERTE
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO I. DE LOS ESPONSALES
 
 ###### Art. 85.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el artículo 81.
+Dictada la resolución judicial definitiva que autorice la adopción, el adoptante o los adoptantes, dentro del término de quince días, presentarán al Oficial del Registro Civil de su domicilio copia certificada de la misma, a efecto de que se asiente el acta respectiva. La Autoridad Judicial que dicte la resolución estará obligada, así mismo, en igual término, a enviar copia certificada de la misma al Director del Registro Civil o bien a la Oficialía que señalen los interesados, para su registro.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 86.
 
-El acta de adopción contendrá los nombres, apellidos, edad, y domicilio del adoptante y del adoptado, el nombre y demás generales de las personas cuyo consentimiento hubiere sido necesario para la adopción y los nombres, apellidos y domicilios de las personas que intervengan como testigos. En el acta se insertará íntegramente la resolución judicial que haya autorizado la adopción.
+El acta de adopción contendrá: nombre, apellidos, sexo, fecha y lugar de nacimiento, nacionalidad y domicilio del o de los adoptados; nombre, apellidos, estado civil, domicilio, nacionalidad del o de los adoptantes y los datos esenciales de la resolución judicial y Tribunal que la dictó.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 87.
 
-Extendida el acta de la adopción, se anotará la de nacimiento del adoptado, y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+En el acta de adopción se insertará la parte resolutiva de la sentencia que haya autorizado la adopción.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 88.
 
-El Juez o tribunal que resuelve que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción y anote la de nacimiento.
+La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 84.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 89.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código de Procedimientos Civiles, el tutor, dentro de setenta y dos horas de hecha la publicación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva. El curador cuidará del cumplimiento de este artículo.
+Extendida el acta de la adopción se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 90.
 
-La omisión del registro de la tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él; pero hace responsables al tutor y al curador en los términos que establece el artículo 81.
+El Juez o Tribunal que resuelva que una adopción queda sin efecto, remitirá dentro del término de ocho días copia certificada de su resolución al Oficial del Registro Civil, para que cancele el acta de adopción.
 
-### CAPITULO XI. DE LA RECTIFICACION DE LAS ACTAS DEL ESTADO CIVIL
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
 ###### Art. 91.
 
-El acta de tutela contendrá:
+Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial del Registro Civil del domicilio de cualquiera de ellas, en la forma que para tal efecto autorice la Dirección del Registro Civil.
 
-I.- El nombre, apellido y edad del incapacitado;
-
-II.- La clase de incapacidad por la que se haya diferido la tutela;
-
-III.- El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela;
-
-IV.- El nombre, apellido, edad, profesión y domicilio del tutor y del curador;
-
-V.- La garantía dada por el tutor, expresando el nombre, apellido y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes, si la garantía consiste en hipoteca o prenda;
-
-VI.- El nombre del Juez que pronuncie el auto de discernimiento y la fecha de éste.
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 92.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo prevenido en el artículo 83.
+La solicitud a que se refiere el artículo anterior, expresará:
 
-###### Art. 93.
+I.- Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus padres, si éstos fueran conocidos. Cuando alguno o ambos pretendientes hayan sido casados, se expresará también el nombre de la persona con quien se celebró el anterior matrimonio, la causa de su disolución y fecha de ésta.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada. El Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
-
-###### Art. 94.
-
-(DEROGADO, P.O. 10 DE JUNIO DE 1970)
-
-###### Art. 95.
-
-(DEROGADO, P.O. 10 DE JUNIO DE 1970)
-
-###### Art. 96.
-
-(DEROGADO, P.O. 10 DE JUNIO DE 1970)
-
-###### Art. 97.
-
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil del domicilio de cualquiera de ellas, en la forma que para tal efecto autorice la Dirección del Registro Civil, en la que se exprese:
-
-I.- Los nombres, apellidos, edad, ocupación y domicilio, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta;
-
-II.- Que no tienen impedimento legal para casarse, y
+II.- Que no tienen impedimento legal para casarse; y
 
 III.- Que es su voluntad unirse en matrimonio.
 
-Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar.
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
-###### Art. 98.
+###### Art. 93.
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+La solicitud deberá ser firmada por los solicitantes, quienes estamparán sus huellas digitales. Si alguno no pudiera o no supiera escribir, a su ruego lo hará otra persona.
 
-I.- El acta de nacimiento de los pretendientes y en su defecto un dictamen médico que compruebe su edad, cuando por su aspecto no sea notorio que el varón es mayor de dieciséis años y la mujer mayor de catorce;
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
+###### Art. 94.
+
+A la solicitud a que se refieren los artículos anteriores, se acompañará:
+
+I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes;
 
 II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los artículos 149, 150 y 151;
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-IV.- Un certificado suscrito por un médico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen sífilis, tuberculosis, ni enfermedad alguna crónica e incurable que sea, además, contagiosa y hereditaria.
+IV.- Un certificado suscrito por un medico titulado que asegure, bajo protesta de decir verdad, que los pretendientes no padecen enfermedad alguna crónica e incurable, que sea además contagiosa y hereditaria.
 
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial.
+Para los indigentes, tienen obligación de expedir gratuitamente ese certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-En los lugares donde no haya médico no será necesario el certificado a que se alude en esta fracción.
+V.- La manifestación de los pretendientes de que contraen el matrimonio bajo el régimen de sociedad conyugal o el de separación de bienes. En uno u otro caso se estará a lo dispuesto en este Código respecto a dichos regímenes patrimoniales;
 
-V.- El convenio que los pretendientes deberán celebrar con relación a sus bienes presentes y a los que adquieran durante el matrimonio. En el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar ese convenio ni aún a pretexto de que los pretendientes carecen de bienes, pues en tal caso, versará sobre los que adquieran durante el matrimonio. Al formarse el convenio se tendrá en cuenta lo que disponen los artículos 189 y 211, y el Oficial del Registro Civil deberá tener especial cuidado sobre este punto, explicando a los interesados todo lo que necesiten saber a efecto de que el convenio quede debidamente formulado.
+VI.- Copia certificada del acta de defunción o de divorcio, si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio en caso de que alguno de los pretendientes hubiese estado casado con anterioridad; y
 
-Si de acuerdo con lo dispuesto en el artículo 185 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
+VII.- Copia de la dispensa de impedimentos si los hubo.
 
-VI.- Copia del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
-VII.- Copia de la dispensa de impedimentos, si los hubo.
+###### Art. 95.
+
+Todos los requisitos mencionados en el artículo que antecede, deberán estar satisfechos a mas tardar cuatro días antes de la celebración del matrimonio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
+###### Art. 96.
+
+No podrá dejar de hacerse la manifestación a que se refiere la fracción V del artículo 94 y el Oficial del Registro Civil está obligado a requerirla y a asentarla.
+
+(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
+
+###### Art. 97.
+
+El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del artículo 94 serán ratificadas bajo protesta de decir verdad. El Oficial del Registro Civil, cuando lo considere necesario, se cerciorará también de la autenticidad de las firmas del certificado médico presentado, solicitando su ratificación.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
+###### Art. 98.
+
+El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora al efecto señalados.
+
+(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 99.
 
-En el caso de que los pretendientes, por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
+En el lugar, día y hora señalados para la celebración del matrimonio, se presentarán al Oficial del Registro Civil los pretendientes o su apoderado especial, constituído en la forma prevenida en el artículo 49, y dos testigos por cada uno de ellos que acrediten su identidad.
+
+Acto contínuo el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio; y si están conformes los declarará unidos en nombre de la ley y de la sociedad, dirigiéndoles una exhortación sobre las finalidades del matrimonio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 100.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan ante él y por separado sus firmas. Las declaraciones de los testigos a que se refiere la fracción III del Artículo 98 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado.
+Se levantará luego el acta de matrimonio, en la cual se hará constar:
 
-###### Art. 101.
-
-El matrimonio se celebrará dentro de los quince días siguientes, en el lugar, día y hora al efecto señalados.
-
-###### Art. 102.
-
-En el lugar, día y hora designados para la celebración del matrimonio deberán estar presentes ante el Oficial del Registro Civil, los pretendientes o su apoderado especial constituído en la forma prevenida en el artículo 44 y dos testigos por cada uno de ellos, que acrediten su identidad.
-
-Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad, unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
-
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
-
-###### Art. 103.
-
-Se levantará luego el acta de matrimonio en la cual se hará constar:
-
-I.- los nombres, apellidos, edad, ocupación, domicilio, escolaridad, nacionalidad y lugar de nacimiento de los contrayentes;
+I.- Los nombres, apellidos, edad, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
 II.- Si son mayores o menores de edad;
 
-III.- Los nombres, apellidos, ocupación y domicilio de los padres;
+III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-IV.- El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlos;
+IV.- El consentimiento de estos, de los abuelos o tutores o de quienes deban suplirlo, si son menores de edad los contrayentes;
 
-V.- Que no hubo impedimento para el matrimonio o que éste se dispensó;
+V.- Que no hubo impedimento para el matrimonio o que aquél se dispensó;
 
-VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio, y la de haber quedado unidos, que hará el juez en nombre de la ley y de la sociedad;
+VI.- La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial del Registro Civil en nombre de la ley y de la sociedad;
 
-VII.- La manifestación de los cónyuges de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
+VII.- La manifestación de los pretendientes de que contraen matrimonio bajo el régimen de sociedad conyugal o de separación de bienes;
 
-VIII.- Los nombres, apellidos, edad, estado, ocupación y domicilio de los testigos, su declaración sobre si son o no parientes de los contrayentes, y si lo son, en qué grado y en qué línea;
+VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos, así como su declaración sobre si son o no parientes de los contrayentes; y
 
 IX.- Que se cumplieron las formalidades exigidas por el artículo anterior.
 
-El acta será firmada solamente por el Oficial del Registro Civil, los contrayentes, cuatro testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
-Al margen del acta se imprimirán las huellas digitales de los contrayentes.
+###### Art. 101.
+
+El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos y las demás personas que hubieren intervenido. Si no supieran o no pudieran hacerlo, se asentará dicha circunstancia.
+
+En el acta se imprimirán las huellas digitales de los contrayentes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
+###### Art. 102.
+
+Tratándose de matrimonio en que alguno o ambos pretendientes sean extranjeros deberá cumplirse con lo que dispongan las leyes federales.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
+###### Art. 103.
+
+La celebración conjunta de matrimonios no exime al Oficial del cumplimiento estricto de las solemnidades previstas en los artículos anteriores.
+
+(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
 
 ###### Art. 104.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquellos o su identidad, y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 98, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por padres o tutores de los pretendientes.
+Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad y los médicos que se produzcan falsamente al expedir el certificado a que se refiere la fracción IV del artículo 94, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 105.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pié de la letra la denuncia. El acta firmada por los que en ella intervinieren, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+Lo dispuesto en el artículo anterior se aplicará a las personas que falsamente se hicieran pasar por padres o tutores de los pretendientes.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 106.
 
-Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil.- Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
+El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará una acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervienen, será remitida al Juez de Primera Instancia que corresponda, para que haga la calificación del impedimento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 107.
 
-Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+Las denuncias de impedimento pueden hacerse por cualquiera persona. Las que sean falsas sujetan al denunciante a las penas establecidas por el falso testimonio en materia civil. Siempre que se declare no haber impedimento el denunciante será condenado al pago de las costas, daños y perjuicios.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 108.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, solo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+Antes de remitir el acta al Juez de Primera Instancia, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 109.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo serán admitidas cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial de Primera Instancia que corresponda, y suspenderá todo procedimiento hasta que ésta resuelva.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 110.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante se desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 111.
 
-Los Oficiales del Registro Civil solo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será castigado como lo disponga el Código Penal.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 112.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de cien pesos, y en caso de reincidencia, con la destitución de su cargo.
+Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por denuncia en forma, tuvieren noticia de que alguno de los pretendientes, o los dos carecen de aptitud legal para celebrar el matrimonio.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 113.
 
-El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa de mil pesos, y en caso de reincidencia con la destitución de su cargo.
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes, y a los médicos que suscriban el certificado exigido por la fracción IV del Art. 98.
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
 
-### CAPITULO I. DE LOS ESPONSALES
+### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
 
 ###### Art. 114.
 
-La sentencia ejecutoria que decrete un divorcio se remitirá en copia al Oficial del Registro Civil para que levante el acta correspondiente.
+Ejecutoriada la sentencia de divorcio, el Juez remitirá copia certificada de ella al Oficial del Registro Civil que corresponda, quien levantará el acta respectiva.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 115.
 
-El acta de divorcio expresará el nombre, apellido, edad, nacionalidad, escolaridad, ocupación y domicilio de los divorciados, la fecha y lugar en que se celebró el matrimonio, y la parte resolutiva de la sentencia que haya decretado el divorcio.
+El acta de divorcio contendrá nombres, apellidos, edad, domicilio y nacionalidad de los divorciados, la parte resolutiva de la sentencia o resolución administrativa, en su caso, fecha de la resolución y autoridad que la dictó.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 116.
 
 Extendida el acta se anotarán las de nacimiento y matrimonio de los divorciados y la copia de la sentencia mencionada se archivará con el mismo número del acta de divorcio.
 
-### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO IV. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
 
 ###### Art. 117.
 
-Ninguna inhumación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+Ninguna inhumación o cremación se harán sin autorización escrita del Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento por certificado expedido por médico titulado. No se procederá a la inhumación o cremación sino después de que transcurran veinticuatro horas del fallecimiento, excepto los casos en que se ordene otra cosa por la autoridad que corresponda.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 118.
 
-En el acta de fallecimiento se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por dos testigos prefiriéndose para el caso los parientes, si los hay, o los vecinos. Si la persona ha muerto fuera de su habitación, uno de los testigos será aquel en cuya casa se haya verificado el fallecimiento, o alguno de los vecinos mas inmediatos.
+En el acta de defunción se asentarán los datos que el Oficial del Registro Civil reciba de la declaración que se le haga y será firmada por dos testigos, prefiriendo para el caso a los parientes, si los hay, o a los vecinos.
 
-> <small>(REFORMADO, P.O. 5 DE ENERO DE 1979)</small>
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 119.
 
-El acta de fallecimiento contendrá:
+El acta de defunción contendrá:
 
-I.- El nombre, apellido, edad, sexo, ocupación y domicilio que tuvo el difunto;
+I.- El nombre, apellidos, edad, nacionalidad, sexo y domicilio que tuvo el difunto;
 
-II.- El estado civil de éste, y si era casado o viudo, el nombre y apellido de su cónyuge;
+II.- Si era casado o viudo, el nombre, apellidos y nacionalidad de su cónyuge;
 
-III.- Los nombres, apellidos, edad, ocupación y domicilio de los testigos, y si fueren parientes, el grado en que lo sean;
+III.- Los nombres y apellidos de los padres del difunto;
 
-IV.- Los nombres de los padres del difunto si se supieren;
+IV.- La causa que determinó la muerte, el destino del cadáver, nombre y ubicación del panteón o crematorio;
 
-V.- La clase de enfermedad que determinó la muerte y especificadamente el lugar en que se sepulte el cadáver;
+V.- La hora, día, mes, año y lugar de la muerte y todos los informes que se obtengan en caso de muerte violenta;
 
-VI.- La hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta;
+VI.- Nombre, apellidos, número de cédula profesional y domicilio del médico que certifique la defunción;
 
-VII.- Si el fallecimiento fue certificado o no por un médico.
+VII.- Nombre, apellidos, edad, nacionalidad y domicilio del declarante y grado de parentesco, en su caso, con el difunto; y
+
+VIII.- Los nombres, apellidos, edad, nacionalidad y domicilio de los testigos y si fueren parientes del difunto el grado en que lo sean.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 120.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios u otra cualquiera casa de comunidad; los huéspedes de los mesones u hoteles y los caseros de las casas de vecindad tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes a la muerte.
+Los que habiten la casa en que ocurra el fallecimiento, los directores y administradores de los establecimientos de reclusión, hospitales, colegios o cualquier otra casa de comunidad, los encargados de los hoteles, mesones o las casas de vecindad, tienen obligación de dar aviso al Oficial del Registro Civil dentro de las veinticuatro horas siguientes al fallecimiento.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 121.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro, la autoridad Municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro Civil, la Autoridad Municipal extenderá la constancia respectiva que remitirá al Oficial del Registro Civil que corresponda, para que asiente el acta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 122.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fué violenta, dará parte a la autoridad judicial comunicándole todos los informes que tenga, para que proceda la averiguación conforme a derecho. Cuando la autoridad judicial averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y, en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote al margen del acta.
+Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a Derecho. Cuando el Ministerio Público averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora él nombre del difunto se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado y en general todo lo que pueda conducir a identificar a la persona. Siempre que se adquieran mayores datos se comunicarán al Oficial del Registro Civil para que los anote.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 123.
 
 En los casos de inundación, naufragio, incendio o cualquiera otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
 
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
+
 ###### Art. 124.
 
-Si no parece (sic) el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no parece (sic), y las demás noticias que sobre el suceso puedan adquirirse.
+Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece y las demás noticias que sobre el suceso puedan adquirirse.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 125.
 
-En el caso de muerte en el mar, a bordo de un buque nacional, el acta se formará de la manera prescrita en el artículo 119, en cuanto fuere posible, y la autorizará el capitán o patrono del buque, practicándose, además, lo dispuesto para los nacimientos en los artículos 71 y 72.
+En el caso de muerte en el mar a bordo de un buque nacional o en el espacio aéreo nacional, el acta se formará de la manera prescrita en el artículo 119 en cuanto fuere posible y la autorizará el jefe o capitán de la nave.
+
+En este caso se observará en lo conducente lo dispuesto en el artículo 71.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 126.
 
-Cuando alguno falleciere en el lugar que no sea el de su domicilio, se remitirá al Oficial del Registro Civil de su domicilio, copia certificada del acta para que se asiente en el libro respectivo, anotándose la remisión al margen del acta original.
+Cuando alguna persona falleciera en lugar que no sea su domicilio, se remitirá al Oficial del Registro Civil de su domicilio copia certificada del acta de defunción para que se haga la anotación en el acta de nacimiento y en las demás que estén relacionadas con la misma.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 127.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al oficial del Registro Civil, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación. El Oficial del Registro Civil observará en este caso lo dispuesto en el artículo anterior.
+El jefe de cualquier puesto o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación de los mismos.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 128.
 
-Los Tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución.- Esta noticia contendrá el nombre, apellido, edad, estado y ocupación que tuvo el ejecutado.
+En todos los casos de muerte violenta en los establecimientos de reclusión, no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 129.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte, no se hará en los registros mención de estas circunstancias, y las actas solamente contendrán los demás requisitos que prescribe el artículo 119.
+En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 130.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+Los Oficiales del Registro Civil que no cumplan con lo dispuesto en este capítulo, serán acreedores de las sanciones previstas en el artículo 81.
 
-### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES QUE NACEN DEL MATRIMONIO
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO V. DE LA SOCIEDAD CONYUGAL
 
 ###### Art. 131.
 
-Las autoridades judiciales que declaren perdida la capacidad legal de alguna persona para administrar bienes, la ausencia o la presunción de su muerte, dentro del término de ocho días remitirán al Oficial del Registro Civil que corresponda, copia certificada de la ejecutoria respectiva.
+Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la tutela o la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente copia certificada de la resolución ejecutoriada respectiva o auto de discernimiento en el término de quince días, para que se efectúe la inscripción en el acta correspondiente.
+
+La falta de registro no impedirá la producción de todos los efectos legales del acto respectivo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 132.
 
-El Oficial del Registro levantará el acta correspondiente, en la que insertará la resolución judicial que se le haya comunicado.
+Cuando se recobre la capacidad legal para administrar, se revoque la tutela, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por la Autoridad que corresponda, por conducto del mismo interesado, para que cancele la inscripción a que se refiere él artículo anterior. Los Oficiales que no cumplan con estas prevenciones serán sancionados como lo establece el artículo 81.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 133.
 
-Cuando se recobre la capacidad legal para administrar, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+Las actas a que se refiere el artículo 131 contendrán: el nombre, apellidos, edad, estado civil y nacionalidad de la persona de que se trate; los puntos resolutivos de la sentencia, fecha de ésta y Tribunal que la dictó. Asimismo se harán las anotaciones correspondientes en todos los casos en que sea procedente hacerlas, según los cambios del estado civil.
 
-### CAPITULO IV. DEL CONTRATO DE MATRIMONIO CON RELACION A LOS BIENES
+> <small>(REFORMADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 1 DE ENERO DE 1982)</small>
+
+### CAPITULO VI. DE LA SEPARACION DE BIENES
 
 ###### Art. 134.
 
-La rectificación o modificación de un acta del estado civil, no puede hacerse sino ante el Poder Judicial y en virtud de sentencia de éste, salvo el reconocimiento que voluntariamente haga un padre de su hijo, el cual se sujetará a las prescripciones de este Código.
+La cancelación, la rectificación o la modificación de una acta del estado civil, no puede hacerse sino en virtud de resolución pronunciada por el Poder Judicial en el procedimiento que para ello esté establecido. Lo dispuesto en este artículo no es aplicable a los casos de reconocimiento voluntario de un hijo, el cual se sujetará a las prescripciones de este Código.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 135.
 
-Ha lugar a pedir la rectificación:
+La cancelación de una acta del estado civil tendrá lugar por falsedad, cuando se alegue que no aconteció el suceso o hecho motivo del registro.
 
-I.- Por falsedad, cuando se alegue que el suceso registrado no pasó;
+La rectificación tendrá lugar para corregir errores esenciales o accidentales de una acta del estado civil.
 
-II.- Por enmienda, cuando se solicite variar algún nombre u otra circunstancia, sea esencial o accidental.
+La modificación tendrá lugar cuando se solicite variar algún nombre, apellido, u otra circunstancia sea esencial o accidental.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 136.
 
-Pueden pedir la rectificación de un acto del estado civil:
+La cancelación, la rectificación o la modificación de una acta del estad (sic) civil, pueden pedirla:
 
 I.- Las personas de cuyo estado se trata;
 
-II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguno;
+II.- Las que se mencionan en el acta como relacionadas con el estado civil de alguien;
 
-III.- Los herederos de las personas comprendidas en las dos fracciones anteriores;
+III.- Los herederos de las personas comprendidas en las fracciones anteriores; y
 
-IV.- Los que según los artículos 348, 349 y 350, pueden continuar o intentar la acción de que en ellos se trata.
+IV.- Los que según los artículos 348, 349 y 350 puedan continuar o intentar la acción de que en ellos se trata.
+
+La cancelación puede pedirse también por el Ministerio Público.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 137.
 
-El juicio de rectificación de actas se seguirá en la forma que se establezca en el Código de Procedimientos Civiles.
+El procedimiento a seguir en los casos a que se refieren los anteriores artículos, será el que se señale en el Código de Procedimientos Civiles.
+
+No obstante lo dispuesto en éste y los artículos precedentes, la aclaración de las actas del registro civil procede cuando en la inscripción respectiva existan errores mecanográficos u ortográficos manifiestos. Para los efectos de lo aquí previsto, se entiende por error manifiesto el que se desprenda fehacientemente de la sola lectura de la inscripción correspondiente. En estos casos la tramitación se hará ante la Dirección del Registro Civil, de acuerdo a las formalidades señaladas en el Reglamento respectivo.
+
+La infracción de lo antes previsto se sancionará con la destitución, sin perjuicio de la responsabilidad civil y penal en que se incurra.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
 ###### Art. 138.
 
-La sentencia que cause ejecutoria se comunicará al Oficial del Registro Civil, y éste hará una referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación.
+El Oficial del Registro Civil, una vez que se le comunique la resolución firme pronunciada, hará una referencia de ésta al margen de la respectiva acta, sea que se conceda o se niegue lo solicitado o demandado.
 
 ## TITULO QUINTO. DEL MATRIMONIO
 
-### CAPITULO V. DE LA SOCIEDAD CONYUGAL
+### CAPITULO VII. DE LAS DONACIONES ANTENUPCIALES
 
 ###### Art. 139.
 
@@ -861,7 +1031,7 @@ Las acciones a que se refiere el artículo que precede, sólo pueden ejercitarse
 
 Si el matrimonio no se celebra, tienen derecho los prometidos de exigir la devolución de lo que se hubieren donado con motivo de su concertado matrimonio. Este derecho durará un año, contado desde el rompimiento de los esponsales.
 
-### CAPITULO VI. DE LA SEPARACION DE BIENES
+### CAPITULO VIII. DE LAS DONACIONES ENTRE CONSORTES
 
 ###### Art. 146.
 
@@ -955,7 +1125,7 @@ Si el matrimonio se celebrare en contravención de lo dispuesto en el artículo 
 
 Los efectos jurídicos de los matrimonios celebrados en el extranjero por mexicanos que lleguen a la República, se regirán por lo dispuesto en los artículos 161 y 13 del Código Civil para el Distrito y Territorios Federales, en materia común y para toda la República en materia federal.
 
-### CAPITULO VII. DE LAS DONACIONES ANTENUPCIALES
+### CAPITULO IX. DE LOS MATRIMONIOS NULOS E ILICITOS
 
 ###### Art. 162.
 
@@ -1027,7 +1197,7 @@ El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el
 
 El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
-### CAPITULO VIII. DE LAS DONACIONES ENTRE CONSORTES
+### CAPITULO X. DEL DIVORCIO
 
 ###### Art. 178.
 
@@ -1049,7 +1219,7 @@ El menor que con arreglo a la ley pueda contraer matrimonio, puede también otor
 
 Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
 
-### CAPITULO IX. DE LOS MATRIMONIOS NULOS E ILICITOS
+### CAPITULO I. DEL PARENTESCO
 
 ###### Art. 183.
 
@@ -1171,7 +1341,7 @@ Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y admi
 
 Todo lo relativo a la formación de inventarios y solemnidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código de Procedimientos Civiles.
 
-### CAPITULO X. DEL DIVORCIO
+### CAPITULO II. DE LOS ALIMENTOS
 
 ###### Art. 207.
 
@@ -1223,7 +1393,7 @@ El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por
 
 El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
 
-### CAPITULO I. DEL PARENTESCO
+### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
 
 ###### Art. 219.
 
@@ -1277,7 +1447,7 @@ Las donaciones antenupciales quedarán sin efecto si el matrimonio dejare de efe
 
 Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a este capítulo.
 
-### CAPITULO II. DE LOS ALIMENTOS
+### CAPITULO II. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
 
 ###### Art. 232.
 
@@ -1291,7 +1461,7 @@ Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo 
 
 Estas donaciones no se anularán por la superveniencia de hijos, pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
 
-### CAPITULO I. DE LOS HIJOS DE MATRIMONIO
+### CAPITULO III. DE LA LEGITIMACION
 
 ###### Art. 235.
 
@@ -1457,7 +1627,7 @@ II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 159, 
 
 Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señala el Código de la materia.
 
-### CAPITULO II. DE LAS PRUEBAS DE FILIACION DE LOS HIJOS NACIDOS DE MATRIMONIO
+### CAPITULO IV. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS FUERA DEL MATRIMONIO
 
 ###### Art. 266.
 
@@ -1639,11 +1809,11 @@ La muerte de uno de los cónyuges pone fin al juicio de divorcio, y los heredero
 
 Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá copia de ella al Oficial del Registro Civil ante quien se celebró el matrimonio, para que levante el acta correspondiente y, además, para que publique un extracto de la resolución, durante quince días, en las tablas destinadas al efecto.
 
-### CAPITULO III. DE LA LEGITIMACION
+### CAPITULO V. DE LA ADOPCION
 
 ## TITULO SEXTO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
-### CAPITULO IV. DEL RECONOCIMIENTO DE LOS HIJOS NACIDOS FUERA DEL MATRIMONIO
+### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
 
 ###### Art. 292.
 
@@ -1681,7 +1851,7 @@ En la línea recta los grados se cuentan por el número de generaciones, o por e
 
 En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
 
-### CAPITULO V. DE LA ADOPCION
+### CAPITULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
 
 ###### Art. 301.
 
@@ -1799,13 +1969,13 @@ La esposa que, sin culpa suya, se vea obligada a vivir separada de su marido, po
 
 El juez, según las circunstancias del caso, fijará la suma que el marido debe ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el esposo pague los gastos que la mujer haya tenido que erogar con tal motivo.
 
-### CAPITULO I. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LA PERSONA DE LOS HIJOS
+### CAPITULO III. DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD
 
-### CAPITULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD RESPECTO DE LOS BIENES DEL HIJO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ## TITULO SEPTIMO. DE LA PATERNIDAD Y FILIACIÓN
 
-### CAPITULO III. DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD
+### CAPITULO II. DE LA TUTELA TESTAMENTARIA
 
 ###### Art. 324.
 
@@ -1891,7 +2061,7 @@ No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros.
 
 Puede haber transacción o arbitramento sobre los derechos pecuniarios que de la filiación legalmente adquirida pudieran deducirse, sin que las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
 
 ###### Art. 340.
 
@@ -1967,7 +2137,7 @@ La posesión de hijo nacido de matrimonio no puede perderse sino por sentencia e
 
 Si el que está en posesión de los derechos de padre o de hijo fuere despojado de ellos o perturbado en su ejercicio, sin que preceda sentencia por la cual deba perderlos, podrá usar de las acciones que establecen las leyes para que se le ampare o restituya en la posesión.
 
-### CAPITULO II. DE LA TUTELA TESTAMENTARIA
+### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDO-MUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
 
 ###### Art. 354.
 
@@ -1993,7 +2163,7 @@ Pueden gozar también de ese derecho que les concede el artículo 354, los hijos
 
 Pueden gozar también de ese derecho los hijos no nacidos, si el padre al casarse declara que reconoce al hijo de quien la mujer está en cinta, o que lo reconoce si aquélla estuviere en cinta.
 
-### CAPITULO III. DE LA TUTELA LEGITIMA DE LOS MENORES
+### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
 
 ###### Art. 360.
 
@@ -2145,7 +2315,7 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
-### CAPITULO IV. DE LA TUTELA LEGITIMA DE LOS DEMENTES, IDIOTAS, IMBECILES, SORDO-MUDOS, EBRIOS Y DE LOS QUE HABITUALMENTE ABUSAN DE LAS DROGAS ENERVANTES
+### CAPITULO VI. DE LA TUTELA DATIVA
 
 ###### Art. 390.
 
@@ -2253,7 +2423,7 @@ Las resoluciones que dicten los jueces, aprobando la revocación, se comunicará
 
 ## TITULO OCTAVO. DE LA PATRIA POTESTAD
 
-### CAPITULO V. DE LA TUTELA LEGITIMA DE LOS MENORES ABANDONADOS Y DE LOS ACOGIDOS POR ALGUNA PERSONA, O DEPOSITADOS EN ESTABLECIMIENTOS DE BENEFICENCIA
+### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
 
 ###### Art. 411.
 
@@ -2323,7 +2493,7 @@ Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de
 
 El que está sujeto a la patria potestad no puede comparecer en juicio, ni contraer obligación alguna, sin expreso consentimiento del que o de los que ejerzan aquel derecho. En caso de irracional disenso, resolverá el juez.
 
-### CAPITULO VI. DE LA TUTELA DATIVA
+### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
 
 ###### Art. 425.
 
@@ -2421,7 +2591,7 @@ Estas medidas se tornarán a instancias de las personas interesadas, del menor c
 
 Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que éstos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
-### CAPITULO VII. DE LAS PERSONAS INHABILES PARA EL DESEMPEÑO DE LA TUTELA Y DE LAS QUE DEBEN SER SEPARADAS DE ELLA
+### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
 ###### Art. 443.
 
@@ -2475,7 +2645,7 @@ II.- Cuando por su mal estado habitual de salud, no puedan atender debidamente a
 
 ## TITULO NOVENO. DE LA TUTELA
 
-### CAPITULO VIII. DE LAS EXCUSAS PARA EL DESEMPEÑO DE LA TUTELA
+### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
 
 ###### Art. 449.
 
@@ -2577,9 +2747,9 @@ El Juez de Primera Instancia del domicilio del incapacitado, y si no lo hubiere,
 
 El Juez que no cumpla las prescripciones relativas a la tutela, además de las penas en que incurra conforme a las leyes, será responsable de los daños y perjuicios que sufran los incapaces.
 
-### CAPITULO IX. DE LA GARANTIA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
+### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
 
-### CAPITULO X. DEL DESEMPEÑO DE LA TUTELA
+### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
 
 ###### Art. 470.
 
@@ -2631,7 +2801,7 @@ Si por un nombramiento condicional de tutor, o por algún otro motivo, faltare t
 
 El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testamentario a su hijo adoptivo; aplicándose a esta tutela lo dispuesto en los artículos anteriores.
 
-### CAPITULO XI. DE LAS CUENTAS DE LA TUTELA
+### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
 
 ###### Art. 482.
 
@@ -2657,7 +2827,7 @@ Si hubiere varios parientes del mismo grado, el juez elegirá entre ellos al que
 
 La falta temporal del tutor legítimo, se suplirá en los términos establecidos en los dos artículos anteriores.
 
-### CAPITULO XII. DE LA EXTINCION DE LA TUTELA
+### CAPITULO XIV. DEL CURADOR
 
 ###### Art. 486.
 
@@ -2683,7 +2853,7 @@ A falta de tutor testamentario y de persona que con arreglo a los artículos ant
 
 El tutor del incapacitado que tenga hijos menores bajo su patria potestad, será también tutor de ellos, si no hay otro ascendiente a quien la ley llame al ejercicio de aquel derecho.
 
-### CAPITULO XIII. DE LA ENTREGA DE LOS BIENES
+### CAPITULO XV. DE LOS CONSEJOS LOCALES DE TUTELA Y DE LOS JUECES DE PRIMERA INSTANCIA
 
 ###### Art. 492.
 
@@ -2697,7 +2867,7 @@ Los directores de las inclusas, hospicios y demás casas de beneficencia donde s
 
 En el caso del artículo anterior, no es necesario el discernimiento del cargo.
 
-### CAPITULO XIV. DEL CURADOR
+### CAPITULO XVI. DEL ESTADO DE INTERDICCION
 
 ###### Art. 495.
 
@@ -2745,13 +2915,17 @@ VI.- Los directores de establecimientos de beneficencia pública.
 
 Los jueces nombrarán de entre las personas mencionadas las que en cada caso deban desempeñar la tutela, procurando que este cargo se reparta equitativamente, sin perjuicio de que también puedan ser nombrados tutores las personas que figuren en las listas que deben formar los Consejos Locales de Tutela, conforme a lo dispuesto en el Capítulo XVI de este Título, cuando estén conformes en desempeñar gratuitamente la tutela de que se trata.
 
-### CAPITULO XV. DE LOS CONSEJOS LOCALES DE TUTELA Y DE LOS JUECES DE PRIMERA INSTANCIA
+### CAPITULO I. DE LA EMANCIPACION
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
 
 ###### Art. 502.
 
 Si el menor que se encuentre en al caso previsto por el Artículo 500, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo que disponen las reglas generales para hacer esos nombramientos.
 
-### CAPITULO XVI. DEL ESTADO DE INTERDICCION
+### CAPITULO II. DE LA MAYOR EDAD
+
+> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
 
 ###### Art. 503.
 
@@ -2823,9 +2997,7 @@ En el caso de que trata el artículo anterior, se proveerá a la tutela conforme
 
 Absuelto el tutor, volverá al ejercicio de su encargo. Si es condenado a una pena que no lleve consigo la inhabilitación para desempeñar la tutela, volverá a ésta al extinguir su condena, siempre que la pena impuesta no exceda de un año de prisión.
 
-### CAPITULO I. DE LA EMANCIPACION
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+### CAPITULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
 
 ###### Art. 511.
 
@@ -2875,9 +3047,7 @@ El tutor que sin excusa o desechada la que hubiere propuesto no desempeñe la tu
 
 Muerto el tutor que esté desempeñando la tutela, sus herederos o ejecutores testamentarios están obligados a dar aviso al juez, quien proveerá inmediatamente al incapacitado del tutor que corresponda, según la ley.
 
-### CAPITULO II. DE LA MAYOR EDAD
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1970)</small>
+### CAPITULO II. DE LA DECLARACION DE AUSENCIA
 
 ###### Art. 519.
 
@@ -2965,7 +3135,7 @@ Al presentar el tutor su cuenta anual, el curador o el Consejo Local de Tutelas 
 
 Es también obligación del curador y del Consejo Local de Tutelas, vigilar el estado de las fincas hipotecadas por el tutor o de los bienes entregados en prenda, dando aviso al juez de los deterioros y menoscabo que en ellos hubiere, para que si es notable la disminución del precio, se exija al tutor que asegure con otros bienes los intereses que administra.
 
-### CAPITULO I. DE LAS MEDIDAS PROVISIONALES EN CASO DE AUSENCIA
+### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
 
 ###### Art. 535.
 
@@ -3209,7 +3379,7 @@ Para que pueda hacerse en la retribución de los tutores el aumento extraordinar
 
 El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiese recibido, si contraviniese lo dispuesto en el artículo 159.
 
-### CAPITULO II. DE LA DECLARACION DE AUSENCIA
+### CAPITULO IV. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
 
 ###### Art. 590.
 
@@ -3275,7 +3445,7 @@ La garantía dada por el tutor no se cancelará, si no cuando las cuentas hayan 
 
 Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, ya mayor o emancipado, relativo a la administración de la tutela o a las cuentas mismas.
 
-### CAPITULO III. DE LOS EFECTOS DE LA DECLARACION DE AUSENCIA
+### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
 
 ###### Art. 606.
 
@@ -3285,7 +3455,7 @@ I.- Por la muerte del pupilo o porque desaparezca su incapacidad;
 
 II.- Cuando el incapacitado, sujeto a tutela entre a la patria potestad por reconocimiento o por adopción;
 
-### CAPITULO IV. DE LA ADMINISTRACION DE LOS BIENES DEL AUSENTE CASADO
+### CAPITULO VI. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
 
 ###### Art. 607.
 
@@ -3331,7 +3501,7 @@ Todas las acciones por hechos relativos a la administración de la tutela, que e
 
 Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad. Tratándose de los demás incapacitados, los términos se computarán desde que cese la incapacidad.
 
-### CAPITULO V. DE LA PRESUNCION DE MUERTE DEL AUSENTE
+### CAPITULO VII. DISPOSICIONES GENERALES
 
 ###### Art. 618.
 
@@ -3399,7 +3569,7 @@ El curador tiene derecho a ser relevado de la curaduría, pasados diez años des
 
 En los casos en que conforme a este Código tenga que intervenir el curador, cobrará el honorario que señala el arancel a los procuradores, sin que por ningún otro motivo pueda pretender mayor retribución. Si hiciere algunos gastos en el desempeño de su cargo, se le pagarán.
 
-### CAPITULO VI. DE LOS EFECTOS DE LA AUSENCIA RESPECTO DE LOS DERECHOS EVENTUALES DEL AUSENTE
+### CAPITULO VIII. DEL PATRIMONIO DE LA FAMILIA
 
 ###### Art. 631.
 
@@ -3429,7 +3599,7 @@ Solo los Jueces de Letras son las autoridades competentes para intervenir en los
 
 Mientras que se nombra tutor, el juez debe dictar las medidas necesarias para que el incapacitado no sufra perjuicios en su persona o en sus intereses.
 
-### CAPITULO VII. DISPOSICIONES GENERALES
+### CAPITULO I. DE LOS BIENES INMUEBLES
 
 ###### Art. 635.
 
@@ -3457,7 +3627,7 @@ Tampoco pueden alegarla los menores, si han presentado certificados falsos del R
 
 ## TITULO DECIMO. DE LA EMANCIPACION Y DE LA MAYOR EDAD
 
-### CAPITULO VIII. DEL PATRIMONIO DE LA FAMILIA
+### CAPITULO II. DE LOS BIENES MUEBLES
 
 ###### Art. 641.
 
@@ -3485,7 +3655,7 @@ II.- De un tutor para negocios judiciales.
 
 (DEROGADO, P.O. 10 DE JUNIO DE 1970)
 
-### CAPITULO I. DE LOS BIENES INMUEBLES
+### CAPITULO III. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
 
 ###### Art. 646.
 
@@ -3497,7 +3667,7 @@ El mayor de edad dispone libremente de su persona y de sus bienes.
 
 ## TITULO UNDECIMO. DE LOS AUSENTES E IGNORADOS
 
-### CAPITULO II. DE LOS BIENES MUEBLES
+### CAPITULO IV. DE LOS BIENES MOSTRENCOS
 
 ###### Art. 648.
 
@@ -3601,7 +3771,7 @@ Los edictos se publicarán por dos meses, con intervalo de quince días, en los 
 
 El representante está obligado a promover la publicación de los edictos. La falta de cumplimiento de esa obligación hace responsable al representante, de los daños y perjuicios que se sigan al ausente, y es causa legítima de remoción.
 
-### CAPITULO III. DE LOS BIENES CONSIDERADOS SEGUN LAS PERSONAS A QUIENES PERTENECEN
+### CAPITULO V. DE LOS BIENES VACANTES
 
 ###### Art. 669.
 
@@ -3651,7 +3821,7 @@ La declaración de ausencia se publicará tres veces en los periódicos menciona
 
 El fallo que se pronuncie en el juicio de declaración de ausencia, tendrá los recursos que el Código de Procedimientos asigne para los negocios de mayor interés.
 
-### CAPITULO IV. DE LOS BIENES MOSTRENCOS
+### CAPITULO UNICO
 
 ###### Art. 679.
 
@@ -3735,7 +3905,7 @@ Muerto el que haya obtenido la posesión provisional, le sucederán sus heredero
 
 Si el ausente se presenta o se prueba su existencia antes de que sea declarada la presunción de muerte, recobrará sus bienes. Los que han tenido la posesión provisional, hacen suyos todos los frutos industriales que hayan hecho producir a esos bienes y la mitad de los frutos naturales y civiles.
 
-### CAPITULO V. DE LOS BIENES VACANTES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 698.
 
@@ -3765,7 +3935,7 @@ Si el cónyuge presente no fuere heredero, ni tuviere bienes propios, tendrá de
 
 Si el cónyuge ausente regresa o se probare su existencia, quedará restaurada la sociedad conyugal.
 
-### CAPITULO UNICO
+### CAPITULO II. DE LA APROPIACION DE LOS ANIMALES
 
 ###### Art. 705.
 
@@ -3817,7 +3987,7 @@ La sentencia que declare la presunción de muerte de un ausente casado, pone té
 
 En el caso previsto por el artículo 703, el cónyuge sólo tendrá derecho a los alimentos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LOS TESOROS
 
 ###### Art. 715.
 
@@ -3839,7 +4009,7 @@ Lo dispuesto en los dos artículos anteriores, debe entenderse sin perjuicio de 
 
 Los que hayan entrado en la herencia harán suyos los frutos percibidos de buena fé, mientras el ausente no comparezca, sus acciones no sean ejercitadas por sus representantes, o por los que por contrato o cualquiera otra causa tengan con él relaciones jurídicas.
 
-### CAPITULO II. DE LA APROPIACION DE LOS ANIMALES
+### CAPITULO IV. DEL DERECHO DE ACCESION
 
 ###### Art. 720.
 
@@ -3853,7 +4023,7 @@ Por causa de ausencia no se suspenden los términos que fija la ley para la pres
 
 El Ministerio Público velará por los intereses del ausente, será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
-### CAPITULO III. DE LOS TESOROS
+### CAPITULO V. DEL DOMINIO DE LAS AGUAS
 
 ###### Art. 723.
 
@@ -4075,7 +4245,7 @@ Están fuera del comercio por su naturaleza las que no pueden ser poseídas por 
 
 ## TITULO SEGUNDO. CLASIFICACION DE LOS BIENES
 
-### CAPITULO IV. DEL DERECHO DE ACCESION
+### CAPITULO VI. DE LA COPROPIEDAD
 
 ###### Art. 750.
 
@@ -4111,7 +4281,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 Los bienes muebles, por su naturaleza, que se hayan considerado como inmuebles, conforme a lo dispuesto en varias fracciones del artículo anterior, recobrarán su calidad de muebles, cuando el mismo dueño los separe del edificio; salvo el caso de que en el valor de éste se haya computado el de aquéllos, para constituir algún derecho real a favor de un tercero.
 
-### CAPITULO V. DEL DOMINIO DE LAS AGUAS
+### CAPITULO I. DEL USUFRUCTO EN GENERAL
 
 ###### Art. 752.
 
@@ -4163,7 +4333,7 @@ Los bienes muebles son fungibles o no fungibles. Pertenecen a la primera clase l
 
 Los no fungibles son los que no pueden ser substituídos por otros de la misma especie, calidad y cantidad.
 
-### CAPITULO VI. DE LA COPROPIEDAD
+### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
 
 ###### Art. 764.
 
@@ -4205,7 +4375,7 @@ Son bienes de propiedad de los particulares todas las cosas cuyo dominio les per
 
 Los extranjeros y las personas morales para adquirir la propiedad de bienes inmuebles, observarán lo dispuesto en el artículo 27 de la Constitución de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
-### CAPITULO I. DEL USUFRUCTO EN GENERAL
+### CAPITULO III. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
 
 ###### Art. 774.
 
@@ -4251,7 +4421,7 @@ La venta se hará siempre en almoneda pública.
 
 La ocupación de las embarcaciones, de su carga y de los objetos que el mar arroje a las playas o que se recojan en alta mar, se rige por el Código de Comercio.
 
-### CAPITULO II. DE LOS DERECHOS DEL USUFRUCTUARIO
+### CAPITULO IV. DE LOS MODOS DE EXTINGUIRSE EL USUFRUCTO
 
 ###### Art. 785.
 
@@ -4275,7 +4445,7 @@ El que se apodere de un bien vacante sin cumplir lo prevenido en este capítulo,
 
 ## TITULO TERCERO. DE LA POSESION
 
-### CAPITULO III. DE LAS OBLIGACIONES DEL USUFRUCTUARIO
+### CAPITULO V. DEL USO Y DE LA HABITACION
 
 ###### Art. 790.
 
@@ -4479,7 +4649,7 @@ Se pierde la posesión de los derechos cuando es imposible ejercitarlos o cuando
 
 ## TITULO CUARTO. DE LA PROPIEDAD
 
-### CAPITULO IV. DE LOS MODOS DE EXTINGUIRSE EL USUFRUCTO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 830.
 
@@ -4569,7 +4739,7 @@ La distancia de que habla el artículo anterior se mide desde la línea de separ
 
 El propietario de un edificio está obligado a construir sus tejados y azoteas de tal manera que las aguas pluviales no caigan sobre el suelo o edificio vecino.
 
-### CAPITULO V. DEL USO Y DE LA HABITACION
+### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
 
 ###### Art. 851.
 
@@ -4655,7 +4825,7 @@ Los animales feroces que se escaparen del encierro en que los tengan sus dueños
 
 La aprobación (sic) de los animales domésticos se rige por las disposiciones contenidas en el Título de los bienes mostrencos.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA SERVIDUMBRE LEGAL DE DESAGÜE
 
 ###### Art. 872.
 
@@ -4701,7 +4871,7 @@ Cuando uno tuviere la propiedad y el otro el usufructo de una finca en que se ha
 
 Si el propietario encuentra el tesoro en la finca o terreno cuyo usufructo pertenece a otra persona, ésta no tendrá parte alguna en el tesoro, pero sí derecho de exigir del propietario una indemnización por los daños y perjuicios que origine la interrupción del usufructo, en la parte ocupada o demolida para buscar el tesoro; la indemnización se pagará aun cuando no se encuentre el tesoro.
 
-### CAPITULO II. DE LAS SERVIDUMBRES LEGALES
+### CAPITULO IV. DE LA SERVIDUMBRE LEGAL DE ACUEDUCTO
 
 ###### Art. 883.
 
@@ -4901,7 +5071,7 @@ Si la especificación se hizo de mala fé, el dueño de la materia empleada tien
 
 La mala fé en los casos de mezcla o confusión se calificará conforme a lo dispuesto en los Artículos 901 y 902.
 
-### CAPITULO III. DE LA SERVIDUMBRE LEGAL DE DESAGÜE
+### CAPITULO V. DE LA SERVIDUMBRE LEGAL DE PASO
 
 ###### Art. 930.
 
@@ -4925,7 +5095,7 @@ El uso y aprovechamiento de las aguas de dominio público, se regirá por la ley
 
 El propietario de un predio que solo con muy costosos trabajos pueda proveerse del agua que necesite para utilizar convenientemente ese predio, tiene derecho de exigir de los dueños de los predios vecinos que tengan aguas sobrantes, que le proporcionen la necesaria, mediante el pago de una indemnización fijada por peritos.
 
-### CAPITULO IV. DE LA SERVIDUMBRE LEGAL DE ACUEDUCTO
+### CAPITULO VI. DE LAS SERVIDUMBRES VOLUNTARIAS
 
 ###### Art. 935.
 
@@ -5121,7 +5291,7 @@ Son aplicables a la división entre partícipes las reglas concernientes a la di
 
 ## TITULO QUINTO. DEL USUFRUCTO, DEL USO Y DE LA HABITACION
 
-### CAPITULO V. DE LA SERVIDUMBRE LEGAL DE PASO
+### CAPITULO VII. COMO SE ADQUIEREN LAS SERVIDUMBRES VOLUNTARIAS
 
 ###### Art. 977.
 
@@ -5159,7 +5329,7 @@ Los derechos y obligaciones del usufructuario y del propietario se arreglan, en 
 
 Las corporaciones que no pueden adquirir, poseer o administrar bienes raíces, tampoco pueden tener usufructo constituído sobre bienes de esta clase.
 
-### CAPITULO VI. DE LAS SERVIDUMBRES VOLUNTARIAS
+### CAPITULO VIII. DERECHOS Y OBLIGACIONES DE LOS PROPIETARIOS DE LOS PREDIOS ENTRE LOS QUE ESTA CONSTITUIDA ALGUNA SERVIDUMBRE VOLUNTARIA
 
 ###### Art. 986.
 
@@ -5229,7 +5399,7 @@ El propietario de bienes en que otro tenga el usufructo, puede enajenarlos, con 
 
 El usufructuario goza del derecho del tanto. Es aplicable lo dispuesto en el artículo 981, en lo que se refiere a la forma para dar el aviso de enajenación y al tiempo para hacer uso del derecho del tanto.
 
-### CAPITULO VII. COMO SE ADQUIEREN LAS SERVIDUMBRES VOLUNTARIAS
+### CAPITULO IX. DE LA EXTINCION DE LAS SERVIDUMBRES
 
 ###### Art. 1003.
 
@@ -5365,7 +5535,7 @@ Si el pleito interesa al mismo tiempo al dueño y al usufructuario, contribuirá
 
 Si el usufructuario, sin citación del propietario, o éste sin la de aquél, ha seguido un pleito, la sentencia favorable aprovecha al no citado, y la adversa no le perjudica.
 
-### CAPITULO VIII. DERECHOS Y OBLIGACIONES DE LOS PROPIETARIOS DE LOS PREDIOS ENTRE LOS QUE ESTA CONSTITUIDA ALGUNA SERVIDUMBRE VOLUNTARIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 1035.
 
@@ -5429,7 +5599,7 @@ El usufructo no se extingue por el mal uso que haga el usufructuario de la cosa 
 
 Terminado el usufructo, los contratos que respecto de él haya celebrado el usufructuario, no obligan al propietario, y éste entrará en posesión de la cosa, sin que contra él tengan derecho los que contrataron con el usufructuario, para pedirle indemnización por la disolución de sus contratos, ni por las estipulaciones de éstos, que sólo pueden hacer valer contra el usufructuario y sus herederos, salvo lo dispuesto en el artículo 988.
 
-### CAPITULO IX. DE LA EXTINCION DE LAS SERVIDUMBRES
+### CAPITULO II. DE LA PRESCRIPCION POSITIVA
 
 ###### Art. 1046.
 
@@ -5465,7 +5635,7 @@ Si los frutos que quedan al propietario no alcanzan a cubrir los gastos y cargas
 
 ## TITULO SEXTO. DE LAS SERVIDUMBRES
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA PRESCRIPCION NEGATIVA
 
 ###### Art. 1054.
 
@@ -5513,7 +5683,7 @@ Si es el predio dominante el que se divide entre muchos, cada porcionero puede u
 
 Las servidumbres traen su origen de la voluntad del hombre o de la ley; las primeras se llaman voluntarias y las segundas legales.
 
-### CAPITULO II. DE LA PRESCRIPCION POSITIVA
+### CAPITULO IV. DE LA SUSPENSION DE LA PRESCRIPCION
 
 ###### Art. 1065.
 
@@ -5527,7 +5697,7 @@ Son aplicables a las servidumbres legales, lo dispuesto en los artículos 1116 a
 
 Todo lo concerniente a las servidumbres establecidas para la utilidad pública o comunal, se regirá por las leyes y reglamentos especiales y, en su defecto, por las disposiciones de este Título.
 
-### CAPITULO III. DE LA PRESCRIPCION NEGATIVA
+### CAPITULO V. DE LA INTERRUPCION DE LA PRESCRIPCION
 
 ###### Art. 1068.
 
@@ -5557,7 +5727,7 @@ Todos los propietarios que participen del beneficio proveniente de las obras de 
 
 Si las aguas que pasan al predio sirviente se han vuelto insalubres por los usos domésticos o industriales que de ellas se hayan hecho, deberán volverse inofensivas a costa del dueño del predio dominante.
 
-### CAPITULO IV. DE LA SUSPENSION DE LA PRESCRIPCION
+### CAPITULO VI. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION
 
 ###### Art. 1075.
 
@@ -5645,7 +5815,7 @@ La servidumbre de acueducto no obsta para que el dueño del predio sirviente pue
 
 Cuando para el mejor aprovechamiento del agua de que se tiene derecho de disponer, fuere necesario construir una presa y el que haya de hacerlo no sea dueño del terreno en que se necesite apoyarla, puede pedir que se establezca la servidumbre de un estribo de presa, previa la indemnización correspondiente.
 
-### CAPITULO V. DE LA INTERRUPCION DE LA PRESCRIPCION
+### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
 
 ###### Art. 1094.
 
@@ -5695,7 +5865,7 @@ Si fuere indispensable para construir o reparar algún edificio pasar materiales
 
 Cuando para establecer comunicaciones telefónicas particulares entre dos o más fincas, o para conducir energía eléctrica a una finca, sea necesario colocar postes y tender alambres en terreno de una finca ajena, el dueño de ésta tiene obligación de permitirlo, mediante la indemnización correspondiente. Esta servidumbre trae consigo el derecho de tránsito de las personas y el de conducción de los materiales necesarios para la construcción y vigilancia de la línea.
 
-### CAPITULO VI. DE LA MANERA DE CONTAR EL TIEMPO PARA LA PRESCRIPCION
+### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
 
 ###### Art. 1106.
 
@@ -5713,7 +5883,7 @@ Si fueren varios los propietarios de un predio, no se podrán imponer servidumbr
 
 Si siendo varios los propietarios, uno solo de ellos adquiere una servidumbre sobre otro predio, a favor del común, de ella podrán aprovecharse todos los propietarios, quedando obligados a los gravámenes naturales que traiga consigo y a los pactos con que se haya adquirido.
 
-### CAPITULO I. DE LOS TESTAMENTOS EN GENERAL
+### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
 
 ###### Art. 1110.
 
@@ -5735,7 +5905,7 @@ La existencia de un signo aparente de servidumbre entre dos fincas, establecido 
 
 Al constituírse una servidumbre se entienden concedidos todos los medios necesarios para su uso; y extinguida aquella cesan también estos derechos accesorios.
 
-### CAPITULO II. DE LA CAPACIDAD PARA TESTAR
+### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
 
 ###### Art. 1115.
 
@@ -5777,7 +5947,7 @@ Si el dueño del predio dominante se opone a las obras de que trata el artículo
 
 Cualquiera duda sobre el uso y extensión de la servidumbre, se decidirá en el sentido menos gravoso para el predio sirviente, sin imposibilitar o hacer difícil el uso de la servidumbre.
 
-### CAPITULO III. DE LA CAPACIDAD PARA HEREDAR
+### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO, Y DE LOS TESTAMENTOS INOFICIOSOS
 
 ###### Art. 1125.
 
@@ -5831,7 +6001,7 @@ El modo de usar la servidumbre puede prescribirse en el tiempo y de la manera qu
 
 ## TITULO SEPTIMO. DE LA PRESCRIPCION
 
-### CAPITULO IV. DE LAS CONDICIONES QUE PUEDEN PONERSE EN LOS TESTAMENTOS
+### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
 
 ###### Art. 1132.
 
@@ -5897,7 +6067,7 @@ El que prescriba puede completar el término necesario para su prescripción reu
 
 Las disposiciones de este Título, relativas al tiempo y demás requisitos necesarios para la prescripción, solo dejarán de observarse en los casos en que la ley prevenga expresamente otra cosa.
 
-### CAPITULO V. DE LOS BIENES DE QUE SE PUEDE DISPONER POR TESTAMENTO, Y DE LOS TESTAMENTOS INOFICIOSOS
+### CAPITULO VII. DE LOS LEGADOS
 
 ###### Art. 1148.
 
@@ -5943,7 +6113,7 @@ El que hubiere poseído bienes inmuebles por el tiempo y con las condiciones exi
 
 La sentencia ejecutoria que declare procedente la acción de prescripción, se inscribirá en el Registro Público y servirá de título de propiedad al poseedor.
 
-### CAPITULO VI. DE LA INSTITUCION DE HEREDERO
+### CAPITULO VIII. DE LAS SUBSTITUCIONES
 
 ###### Art. 1155.
 
@@ -5991,7 +6161,7 @@ Respecto de las obligaciones con pensión o renta, el tiempo de la prescripción
 
 Prescribe en cinco años la obligación de dar cuentas. En igual término se prescriben las obligaciones líquidas que resulten de la rendición de cuentas. En el primer caso la prescripción comienza a correr desde el día en que el obligado termina su administración; en el segundo caso, desde el día en que la liquidación es aprobada por los interesados o por sentencia que cause ejecutoria.
 
-### CAPITULO VII. DE LOS LEGADOS
+### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
 
 ###### Art. 1162.
 
@@ -6017,7 +6187,7 @@ V.- Contra los ausentes del Estado que se encuentren en servicio público;
 
 VI.- Contra los militares en servicio activo en tiempo de guerra, tanto fuera como dentro del Estado.
 
-### CAPITULO VIII. DE LAS SUBSTITUCIONES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 1165.
 
@@ -6061,7 +6231,7 @@ La interrupción de la prescripción a favor de alguno de los acreedores solidar
 
 El efecto de la interrupción es inutilizar, para la prescripción, todo el tiempo corrido antes de ella.
 
-### CAPITULO IX. DE LA NULIDAD, REVOCACION Y CADUCIDAD DE LOS TESTAMENTOS
+### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
 ###### Art. 1173.
 
@@ -6145,7 +6315,7 @@ El derecho concedido en el artículo 1189 cesa si la enajenación se hace a un c
 
 ## TITULO SEGUNDO. DE LA SUCESION POR TESTAMENTO
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
 
 ###### Art. 1192.
 
@@ -6187,7 +6357,7 @@ Si un testamento se pierde por un evento ignorado por el testador, o por haber s
 
 La expresión de una causa contraria a derecho, aunque sea verdadera, se tendrá por no escrita.
 
-### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
+### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
 
 ###### Art. 1202.
 
@@ -6227,7 +6397,7 @@ Firmarán el acta, además del Notario y de los testigos, el Juez y los médicos
 
 Para juzgar de la capacidad del testador se atenderá especialmente al estado en que se halle al hacer el testamento.
 
-### CAPITULO III. DEL TESTAMENTO PUBLICO CERRADO
+### CAPITULO V. DEL TESTAMENTO PRIVADO
 
 ###### Art. 1210.
 
@@ -6393,7 +6563,7 @@ No puede deducirse acción para declarar la incapacidad, pasados tres años desd
 
 Si el que entró en posesión de la herencia y la pierde después por incapacidad, hubiere enajenado o gravado todo o parte de los bienes antes de ser emplazado en el juicio en que se discuta su incapacidad, y aquél con quien contrató hubiere tenido buena fé, el contrato subsistirá; más el heredero incapaz estará obligado a indemnizar al legítimo, de todos los daños y perjuicios.
 
-### CAPITULO IV. DEL TESTAMENTO OLOGRAFO
+### CAPITULO VI. DEL TESTAMENTO MILITAR
 
 ###### Art. 1241.
 
@@ -6493,7 +6663,7 @@ Cuando el legado debe concluir en un día que es seguro que ha de llegar, se ent
 
 Si el legado consistiere en prestación periódica, el legatario hará suyas todas las cantidades vencidas hasta el día señalado.
 
-### CAPITULO V. DEL TESTAMENTO PRIVADO
+### CAPITULO VII. DEL TESTAMENTO MARITIMO
 
 ###### Art. 1265.
 
@@ -6559,7 +6729,7 @@ La pensión alimenticia es carga de la masa hereditaria, excepto cuando el testa
 
 No obstante lo dispuesto en el artículo 1272, el hijo póstumo tendrá derecho a percibir íntegra la porción que le correspondería como heredero legítimo si no hubiere testamento, a menos que el testador hubiere dispuesto expresamente otra cosa.
 
-### CAPITULO VI. DEL TESTAMENTO MILITAR
+### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
 
 ###### Art. 1275.
 
@@ -6613,7 +6783,7 @@ Si entre varios individuos del mismo nombre y circunstancias no pudiere saberse 
 
 Toda disposición en favor de persona incierta o sobre cosa que no pueda identificarse será nula, a menos que por algún evento puedan resultar ciertas.
 
-### CAPITULO VII. DEL TESTAMENTO MARITIMO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 1288.
 
@@ -6953,7 +7123,7 @@ Solo duran veinte años los legados de que trata el artículo anterior, si fuere
 
 Si la cosa legada estuviere sujeta a usufructo, uso o habitación, el legatario deberá prestarlos hasta que legalmente se extingan, sin que el heredero tenga obligación de ninguna clase.
 
-### CAPITULO VIII. DEL TESTAMENTO HECHO EN PAIS EXTRANJERO
+### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
 
 ###### Art. 1369.
 
@@ -7009,7 +7179,7 @@ Si la carga fuere perpetua, el heredero podrá capitalizarla e imponer el capita
 
 La capitalización e imposición del capital se hará interviniendo la autoridad correspondiente, y con audiencia de los interesados y del Ministerio Público.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
 
 ###### Art. 1381.
 
@@ -7079,7 +7249,7 @@ La disposición testamentaria que contenga condición de suceso pasado o present
 
 ## TITULO TERCERO. DE LA FORMA DE LOS TESTAMENTOS
 
-### CAPITULO II. DE LA SUCESION DE LOS DESCENDIENTES
+### CAPITULO IV. DE LA SUCESION DEL CONYUGE
 
 ###### Art. 1396.
 
@@ -7157,7 +7327,7 @@ Lo dispuesto en el artículo que precede se observará también por cualquiera q
 
 Si los interesados están ausentes o son desconocidos, la noticia se dará al juez.
 
-### CAPITULO III. DE LA SUCESION DE LOS ASCENDIENTES
+### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
 
 ###### Art. 1408.
 
@@ -7203,7 +7373,7 @@ Las formalidades se practicarán acto continuo y el notario dará fé de haberse
 
 Faltando alguna de las referidas solemnidades, quedará el testamento sin efecto, y el Notario será responsable de los daños y perjuicios e incurrirá, además, en la pena de pérdida de oficio.
 
-### CAPITULO IV. DE LA SUCESION DEL CONYUGE
+### CAPITULO VI. DE LA SUCESION DE LA CONCUBINA
 
 ###### Art. 1418.
 
@@ -7321,7 +7491,7 @@ El testamento cerrado quedará sin efecto siempre que se encuentre roto el plieg
 
 Toda persona que tuviere en su poder un testamento cerrado y no lo presente, como está prevenido en los artículos 1405 y 1406, o lo sustraiga dolosamente de los bienes del finado, incurrirá en la pena, si fuere heredero por intestado, de la pérdida del derecho que pudiera tener, sin perjuicio de la que le corresponda conforme al Código Penal.
 
-### CAPITULO V. DE LA SUCESION DE LOS COLATERALES
+### CAPITULO VII. DE LA SUCESION DE LA HACIENDA PUBLICA
 
 ###### Art. 1447.
 
@@ -7389,7 +7559,7 @@ El testamento ológrafo quedará sin efecto cuando el original o el duplicado, e
 
 El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
 
-### CAPITULO VI. DE LA SUCESION DE LA CONCUBINA
+### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
 
 ###### Art. 1462.
 
@@ -7467,7 +7637,7 @@ Lo dispuesto en el artículo anterior se observará también en el caso de ausen
 
 Sabiéndose el lugar donde se hallan los testigos, serán examinados por exhorto.
 
-### CAPITULO VII. DE LA SUCESION DE LA HACIENDA PUBLICA
+### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
 
 ###### Art. 1476.
 
@@ -7485,7 +7655,7 @@ Los testamentos otorgados por escrito, conforme a este Capítulo, deberán ser e
 
 Si el testamento hubiere sido otorgado de palabra, los testigos instruirán de él desde luego al jefe de la corporación, quien dará parte en el acto al Ministerio de la Guerra, y éste a la autoridad judicial competente, a fin de que proceda teniendo en cuenta lo dispuesto en los artículos del 1468 al 1475.
 
-### CAPITULO I. DE LAS PRECAUCIONES QUE DEBEN ADOPTARSE CUANDO LA VIUDA QUEDE ENCINTA
+### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
 
 ###### Art. 1480.
 
@@ -7527,7 +7697,7 @@ El testamento marítimo solamente producirá efectos legales falleciendo el test
 
 Si el testador desembarca en un lugar donde no haya Agente Diplomático o Consular, y no se sabe si ha muerto, ni la fecha del fallecimiento, se procederá conforme a lo dispuesto en el Título XI del Libro Primero.
 
-### CAPITULO II. DE LA APERTURA Y TRANSMISION DE LA HERENCIA
+### CAPITULO IV. DE LOS ALBACEAS
 
 ###### Art. 1490.
 
@@ -7555,7 +7725,7 @@ El papel en que se extiendan los testamentos otorgados ante los Agentes Diplomá
 
 ## TITULO CUARTO. DE LA SUCESION LEGITIMA
 
-### CAPITULO III. DE LA ACEPTACION Y DE LA REPUDIACION DE LA HERENCIA
+### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
 
 ###### Art. 1496.
 
@@ -7601,7 +7771,7 @@ Los parientes que se hallaren en el mismo grado, heredarán por partes iguales.
 
 Las líneas y grados de parentesco se arreglarán por las disposiciones contenidas en el Capítulo I, Título VI, Libro Primero.
 
-### CAPITULO IV. DE LOS ALBACEAS
+### CAPITULO VI. DE LA PARTICION
 
 ###### Art. 1504.
 
@@ -7635,7 +7805,7 @@ Concurriendo padres adoptantes y descendientes del adoptado, los primeros solo t
 
 Si el intestado no fuere absoluto, se deducirá del total de la herencia la parte de que legalmente haya dispuesto el testador, y el resto se dividirá de la manera que disponen los artículos que preceden.
 
-### CAPITULO V. DEL INVENTARIO Y DE LA LIQUIDACION DE LA HERENCIA
+### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
 
 ###### Art. 1512.
 
@@ -7673,7 +7843,7 @@ Los ascendientes, aun cuando sean ilegítimos, tienen derecho de heredar a sus d
 
 Si el reconocimiento se hace después de que el descendiente haya adquirido bienes cuya cuantía, teniendo en cuenta las circunstancias personales del que reconoce, haga suponer fundadamente que motivó el reconocimiento, ni el que reconoce, ni sus descendientes tienen derecho a la herencia del reconocido. El que reconoce tiene derecho a alimentos, en el caso de que el reconocimiento lo haya hecho cuando el reconocido tuvo también derecho a percibir alimentos.
 
-### CAPITULO VI. DE LA PARTICION
+### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
 
 ###### Art. 1521.
 
@@ -7699,7 +7869,7 @@ El cónyuge recibirá las porciones que le correspondan conforme a los dos artí
 
 A falta de descendientes, ascendientes y hermanos, el cónyuge sucederá en todos los bienes.
 
-### CAPITULO VII. DE LOS EFECTOS DE LA PARTICION
+### CAPITULO I. CONTRATOS
 
 ###### Art. 1527.
 
@@ -7723,7 +7893,7 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores se tendrá en cuenta lo que ordena el Capítulo siguiente:
 
-### CAPITULO VIII. DE LA RESCISION Y NULIDAD DE LAS PARTICIONES
+### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
 
 ###### Art. 1532.
 
@@ -7745,7 +7915,7 @@ En los casos a que se refieren las fracciones II, III y IV, debe observarse lo d
 
 Si al morir el autor de la herencia tenía varias concubinas en las condiciones mencionadas al principio de este artículo, ninguna de ellas heredará.
 
-### CAPITULO I. CONTRATOS
+### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
 
 ###### Art. 1533.
 
@@ -7755,7 +7925,7 @@ A falta de todos los herederos llamados en los capítulos anteriores, sucederá 
 
 ## TITULO QUINTO. DISPOSICIONES COMUNES A LAS SUCESIONES TESTAMENTARIA Y LEGITIMA
 
-### CAPITULO II. DE LA DECLARACION UNILATERAL DE LA VOLUNTAD
+### CAPITULO IV. DE LA GESTION DE NEGOCIOS
 
 ###### Art. 1535.
 
@@ -7805,7 +7975,7 @@ Para cualquiera de las diligencias que se practiquen conforme a lo dispuesto en 
 
 La división de la herencia se suspenderá hasta que se verifique el parto o hasta que transcurra el término máximo de la preñez; mas los acreedores podrán ser pagados por mandato judicial.
 
-### CAPITULO III. DEL ENRIQUECIMIENTO ILEGITIMO
+### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
 
 ###### Art. 1546.
 
@@ -7823,7 +7993,7 @@ Habiendo albacea nombrado, él deberá promover la reclamación a que se refiere
 
 El derecho de reclamar la herencia prescribe en diez años y es transmisible a los herederos.
 
-### CAPITULO IV. DE LA GESTION DE NEGOCIOS
+### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
 
 ###### Art. 1550.
 
@@ -7931,7 +8101,7 @@ El que a instancia de un legatario o acreedor hereditario, haya sido declarado h
 
 La aceptación en ningún caso produce confusión de los bienes del autor de la herencia y de los herederos, porque toda herencia se entiende aceptada a beneficio de inventario, aunque no se exprese.
 
-### CAPITULO V. DE LAS OBLIGACIONES QUE NACEN DE LOS ACTOS ILICITOS
+### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
 
 ###### Art. 1576.
 
@@ -8293,7 +8463,7 @@ Si la revocación se hace sin causa justificada, el albacea removido tiene derec
 
 La remoción no tendrá lugar sino por sentencia pronunciada en el incidente respectivo, promovido por parte legítima.
 
-### CAPITULO I. DE LAS OBLIGACIONES CONDICIONALES
+### CAPITULO III. DE LAS OBLIGACIONES CONJUNTIVAS Y ALTERNATIVAS
 
 ###### Art. 1647.
 
@@ -8363,7 +8533,7 @@ La venta de bienes hereditarios para el pago de deudas y legados, se hará en p�
 
 La mayoría de los interesados, o la autorización judicial, en su caso, determinarán la aplicación que haya de darse al precio de las cosas vendidas.
 
-### CAPITULO II. DE LAS OBLIGACIONES A PLAZO
+### CAPITULO IV. DE LAS OBLIGACIONES MANCOMUNADAS
 
 ###### Art. 1664.
 
@@ -8419,7 +8589,7 @@ La partición constará en escritura pública, siempre que en la herencia haya b
 
 Los gastos de la partición, se rebajarán del fondo común; los que se hagan por el interés particular de alguno de los herederos o legatarios, se imputarán a su haber.
 
-### CAPITULO III. DE LAS OBLIGACIONES CONJUNTIVAS Y ALTERNATIVAS
+### CAPITULO V. DE LAS OBLIGACIONES DE DAR
 
 ###### Art. 1676.
 
@@ -8463,7 +8633,7 @@ Por los créditos incobrables no hay responsabilidad.
 
 El heredero cuyos bienes hereditarios fueren embargados, o contra quien se pronunciare sentencia en juicio, por causa de ellos, tiene derecho de pedir que sus coherederos, caucionen la responsabilidad que pueda resultarle, y, en caso contrario, que se les prohiba enajenar los bienes que recibieron.
 
-### CAPITULO IV. DE LAS OBLIGACIONES MANCOMUNADAS
+### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
 
 ###### Art. 1685.
 
@@ -8489,7 +8659,7 @@ DE LAS OBLIGACIONES EN GENERAL
 
 ## TITULO PRIMERO. FUENTES DE LAS OBLIGACIONES
 
-### CAPITULO V. DE LAS OBLIGACIONES DE DAR
+### CAPITULO I. DE LA CESION DE DERECHOS
 
 ###### Art. 1689.
 
@@ -8817,7 +8987,7 @@ Los contratos que no estén especialmente reglamentados en este Código, se regi
 
 Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se oponga a la naturaleza de estos o a disposiciones especiales de la ley sobre los mismos.
 
-### CAPITULO VI. DE LAS OBLIGACIONES DE HACER O DE NO HACER
+### CAPITULO II. DE LA CESION DE LAS DEUDAS
 
 ###### Art. 1757.
 
@@ -8917,7 +9087,7 @@ El suscritor (sic) del título al portador no puede oponer mas excepciones que l
 
 La persona que ha sido desposeída injustamente de títulos al portador, solo con orden judicial puede impedir que se paguen al detentador que los presente al cobro.
 
-### CAPITULO I. DE LA CESION DE DERECHOS
+### CAPITULO III. DE LA SUBROGACION
 
 ###### Art. 1779.
 
@@ -8979,7 +9149,7 @@ El que ha pagado para cumplir una deuda prescrita o para cumplir un deber moral,
 
 Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento lo percibirá el Estado y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
-### CAPITULO II. DE LA CESION DE LAS DEUDAS
+### CAPITULO I. DEL PAGO
 
 ###### Art. 1793.
 
@@ -9043,7 +9213,7 @@ Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño
 
 Los gastos funerarios proporcionados a la condición de la persona y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
 
-### CAPITULO III. DE LA SUBROGACION
+### CAPITULO II. DEL OFRECIMIENTO DE PAGO Y DE LA CONSIGNACION INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 ###### Art. 1807.
 
@@ -9187,7 +9357,7 @@ La acción para exigir la reparación de los daños causados en los términos de
 
 ## TITULO SEGUNDO. MODALIDAD DE LAS OBLIGACIONES
 
-### CAPITULO I. DEL PAGO
+### CAPITULO I. CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
 
 ###### Art. 1832.
 
@@ -9271,7 +9441,7 @@ Respecto de bienes muebles no tendrá lugar la rescisión, salvo lo previsto par
 
 Si la rescisión del contrato dependiere de un tercero y éste fuere dolosamente inducido a rescindirlo, se tendrá por no rescindido.
 
-### CAPITULO II. DEL OFRECIMIENTO DE PAGO Y DE LA CONSIGNACION INCUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPITULO II. DE LA EVICCION Y SANEAMIENTO
 
 ###### Art. 1847.
 
@@ -9313,7 +9483,7 @@ III.- Cuando por actos propios hubiese disminuído aquellas garantías después 
 
 Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior solo comprenderá al que se hallare en alguno de los casos que en él se designan.
 
-### CAPITULO I. CONSECUENCIAS DEL INCUMPLIMIENTO DE LAS OBLIGACIONES
+### CAPITULO I. DE LOS ACTOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
 
 ###### Art. 1855.
 
@@ -9411,7 +9581,7 @@ Si la cosa se pierde o el hecho deja de prestarse por culpa del acreedor, se tie
 
 La falta de prestación del hecho se regirá por lo dispuesto en los artículos 1921 y 1922.
 
-### CAPITULO II. DE LA EVICCION Y SANEAMIENTO
+### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
 
 ###### Art. 1878.
 
@@ -9535,7 +9705,7 @@ I.- Si para que se produzca esa conversión hubo culpa de parte de todos los deu
 
 II.- Si solo algunos fueron culpables, únicamente ellos responderán de las (sic) daños y perjuicios.
 
-### CAPITULO I. DE LOS ACTOS CELEBRADOS EN FRAUDE DE LOS ACREEDORES
+### CAPITULO I. DE LA COMPENSACION
 
 ###### Art. 1905.
 
@@ -9637,7 +9807,7 @@ III.- Cuando la obligación sea indivisible;
 
 IV.- Cuando por el contrato se ha determinado otra cosa.
 
-### CAPITULO II. DE LA SIMULACION DE LOS ACTOS JURIDICOS
+### CAPITULO II. DE LA CONFUSION DE DERECHOS
 
 ###### Art. 1921.
 
@@ -9651,7 +9821,7 @@ El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de da�
 
 ## TITULO TERCERO. DE LA TRANSMISION DE LAS OBLIGACIONES
 
-### CAPITULO I. DE LA COMPENSACION
+### CAPITULO III. DE LA REMISION DE LA DEUDA
 
 ###### Art. 1923.
 
@@ -9753,7 +9923,7 @@ El cesionario debe, por su parte, satisfacer al cedente todo lo que haya pagado 
 
 Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
-### CAPITULO II. DE LA CONFUSION DE DERECHOS
+### CAPITULO IV. DE LA NOVACION
 
 ###### Art. 1945.
 
@@ -9783,7 +9953,7 @@ El deudor substituto puede oponer al acreedor las excepciones que se originen de
 
 Cuando se declare nula la substitución de deudor, la antigua deuda renace con todos sus accesorios; pero con la reserva de derechos que pertenecen a tercero de buena fé.
 
-### CAPITULO III. DE LA REMISION DE LA DEUDA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 1952.
 
@@ -9813,7 +9983,7 @@ El pago de los subrogados en diversas porciones del mismo crédito, cuando no ba
 
 I.- EFECTOS DE LAS OBLIGACIONES ENTRE LAS PARTES CUMPLIMIENTO DE LAS OBLIGACIONES
 
-### CAPITULO IV. DE LA NOVACION
+### CAPITULO II. DE LA MATERIA DE LA COMPRA-VENTA
 
 ###### Art. 1956.
 
@@ -9963,7 +10133,7 @@ La obligación queda extinguida cuando el acreedor recibe en pago una cosa disti
 
 Si el acreedor sufre la evicción de la cosa que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
 
 ###### Art. 1991.
 
@@ -9995,7 +10165,7 @@ Si el ofrecimiento y la consignación se han hecho legalmente, todos los gastos 
 
 INCUMPLIMIENTO DE LAS OBLIGACIONES
 
-### CAPITULO II. DE LA MATERIA DE LA COMPRA-VENTA
+### CAPITULO IV. DE LAS OBLIGACIONES DEL VENDEDOR
 
 ###### Art. 1998.
 
@@ -10065,7 +10235,7 @@ Si la prestación consistiere en el pago de cierta cantidad de dinero, los daño
 
 El pago de los gastos judiciales será a cargo del que faltare al cumplimiento de la obligación, y se hará en los términos que establezca el Código de Procedimientos Civiles.
 
-### CAPITULO III. DE LOS QUE PUEDEN VENDER Y COMPRAR
+### CAPITULO V. DE LA ENTREGA DE LA COSA VENDIDA
 
 ###### Art. 2013.
 
@@ -10273,7 +10443,7 @@ El enajenante no tiene obligación de responder de los vicios redhibitorios, si 
 
 II.- EFECTOS DE LAS OBLIGACIONES CON RELACION A TERCERO
 
-### CAPITULO IV. DE LAS OBLIGACIONES DEL VENDEDOR
+### CAPITULO VI. DE LAS OBLIGACIONES DEL COMPRADOR
 
 ###### Art. 2057.
 
@@ -10343,7 +10513,7 @@ Si el acreedor que pide la nulidad, para acreditar la insolvencia del deudor, pr
 
 Se presumen fraudulentas las enajenaciones a título oneroso hechas por aquellas personas contra quienes se hubiese pronunciado antes sentencia condenatoria en cualquiera instancia, o expedido mandamiento de embargo de bienes, cuando estas enajenaciones perjudican los derechos de sus acreedores.
 
-### CAPITULO V. DE LA ENTREGA DE LA COSA VENDIDA
+### CAPITULO VII. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRA-VENTA
 
 ###### Art. 2074.
 
@@ -10369,7 +10539,7 @@ También subsistirán los gravámenes impuestos a favor de tercero de buena fé.
 
 ## TITULO QUINTO. EXTINCION DE LAS OBLIGACIONES
 
-### CAPITULO VI. DE LAS OBLIGACIONES DEL COMPRADOR
+### CAPITULO VIII. DE LA FORMA DEL CONTRATO DE COMPRA-VENTA
 
 ###### Art. 2079.
 
@@ -10471,7 +10641,7 @@ Las deudas pagaderas en diferente lugar, pueden compensarse mediante indemnizaci
 
 La compensación no puede tener lugar en perjuicio de los derechos de tercero legítimamente adquiridos.
 
-### CAPITULO VII. DE ALGUNAS MODALIDADES DEL CONTRATO DE COMPRA-VENTA
+### CAPITULO IX. DE LAS VENTAS JUDICIALES
 
 ###### Art. 2100.
 
@@ -10485,7 +10655,7 @@ La confusión que se verifica en la persona del acreedor o deudor solidario, sol
 
 Mientras se hace la partición de una herencia, no hay confusión cuando el deudor hereda al acreedor o éste a aquél.
 
-### CAPITULO VIII. DE LA FORMA DEL CONTRATO DE COMPRA-VENTA
+### CAPITULO I. DE LAS DONACIONES EN GENERAL
 
 ###### Art. 2103.
 
@@ -10503,7 +10673,7 @@ Habiendo varios fiadores solidarios, el perdón que fuere concedido solamente a 
 
 La devolución de la prenda es presunción de la remisión del derecho a la misma prenda, si el acreedor no prueba lo contrario.
 
-### CAPITULO IX. DE LAS VENTAS JUDICIALES
+### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
 
 ###### Art. 2107.
 
@@ -10657,7 +10827,7 @@ Si el promitente rehusa firmar los documentos necesarios para dar forma legal al
 
 ## TITULO SEGUNDO. DE LA COMPRA-VENTA
 
-### CAPITULO I. DE LAS DONACIONES EN GENERAL
+### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
 
 ###### Art. 2142.
 
@@ -10745,7 +10915,7 @@ Son nulas las ventas que produzcan la concentración o acaparamiento, en una o e
 
 Las ventas a menudeo de bebidas embriagantes hechas al fiado en cantinas, no dan derecho para exigir su precio.
 
-### CAPITULO II. DE LAS PERSONAS QUE PUEDEN RECIBIR DONACIONES
+### CAPITULO I. DEL MUTUO SIMPLE
 
 ###### Art. 2163.
 
@@ -10767,7 +10937,7 @@ La venta de cosa o derechos litigiosos no está prohibida; pero el vendedor que 
 
 Tratándose de la venta de determinados bienes, como los pertenecientes a incapacitados, los de propiedad pública, los empeñados o hipotecados, etc., deben observarse los requisitos exigidos por la ley para que la venta sea perfecta.
 
-### CAPITULO III. DE LA REVOCACION Y REDUCCION DE LAS DONACIONES
+### CAPITULO II. DEL MUTUO CON INTERES
 
 ###### Art. 2168.
 
@@ -10817,7 +10987,7 @@ Los peritos y los corredores no pueden comprar los bienes en cuya venta han inte
 
 Las compras hechas en contravención a lo dispuesto en este Capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
-### CAPITULO I. DEL MUTUO SIMPLE
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 2177.
 
@@ -10829,7 +10999,7 @@ II.- A garantizar las calidades de la cosa;
 
 III.- A prestar la evicción.
 
-### CAPITULO II. DEL MUTUO CON INTERES
+### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
 
 ###### Art. 2178.
 
@@ -10873,7 +11043,7 @@ La entrega de la cosa vendida debe hacerse en el lugar convenido, y si no hubier
 
 Si el comprador se constituyó en mora de recibir, abonará al vendedor el alquiler de las bodegas, graneros o vasijas en que se contenga lo vendido, y el vendedor quedará descargado del cuidado ordinario de conservar la cosa, y solamente será responsable del dolo o de la culpa grave.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
 
 ###### Art. 2187.
 
@@ -10913,7 +11083,7 @@ Cuando el comprador a plazo o con espera del precio fuere perturbado en su poses
 
 La falta de pago del precio dá derecho para pedir la rescisión del contrato, aunque la venta se haya hecho a plazo; pero si la cosa ha sido enajenada a un tercero, se observará lo dispuesto en los artículos 1844 y 1845.
 
-### CAPITULO II. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDADOR
+### CAPITULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
 
 ###### Art. 2195.
 
@@ -10987,7 +11157,7 @@ Si el vendedor recoge la cosa vendida porque no le haya sido pagado su precio, s
 
 En la venta de que habla el artículo 2206, mientras que no pasa la propiedad de la cosa vendida al comprador, si éste recibe la cosa será considerado como arrendatario de la misma.
 
-### CAPITULO III. DE LOS DERECHOS Y OBLIGACIONES DEL ARRENDATARIO
+### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
 
 ###### Art. 2210.
 
@@ -11035,7 +11205,7 @@ El Oficial del Registro Público hará la inscripción correspondiente en favor 
 
 La venta de bienes raíces no producirá efectos contra tercero sino después de registrada en los términos prescritos en este Código.
 
-### CAPITULO IV. DEL ARRENDAMIENTO DE FINCAS URBANAS
+### CAPITULO VI. DEL ARRENDAMIENTO DE BIENES MUEBLES
 
 ###### Art. 2217.
 
@@ -11077,7 +11247,9 @@ Con excepción de lo relativo al precio, son aplicables a este contrato las regl
 
 ## TITULO CUARTO. DE LAS DONACIONES
 
-### CAPITULO V. DEL ARRENDAMIENTO DE FINCAS RUSTICAS
+### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
+
+> <small>(DEROGADA LA SUSPENSION DEL ARTICULO 4° DEL DECRETO NUMERO 35 DE FECHA 8 DE JULIO DE 1944, POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)</small>
 
 ###### Art. 2226.
 
@@ -11181,7 +11353,7 @@ Si la donación fuere de todos los bienes, el donatario será responsable de tod
 
 Salvo que el donador dispusiere otra cosa, las donaciones que consistan en prestaciones periódicas se extinguen con la muerte del donante.
 
-### CAPITULO VI. DEL ARRENDAMIENTO DE BIENES MUEBLES
+### CAPITULO VIII. DEL SUBARRIENDO
 
 ###### Art. 2251.
 
@@ -11191,9 +11363,7 @@ Los no nacidos pueden adquirir por donación, con tal que hayan estado concebido
 
 Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, ya por interpósita persona.
 
-### CAPITULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
-
-> <small>(DEROGADA LA SUSPENSION DEL ARTICULO 4° DEL DECRETO NUMERO 35 DE FECHA 8 DE JULIO DE 1944, POR ARTICULO SEGUNDO TRANSITORIO DEL DECRETO NUMERO 36, P.O. 13 DE JUNIO DE 1962)</small>
+### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
 
 ###### Art. 2253.
 
@@ -11313,7 +11483,7 @@ Revocada o reducida una donación por inoficiosa, el donatario solo responderá 
 
 ## TITULO QUINTO. DEL MUTUO
 
-### CAPITULO VIII. DEL SUBARRIENDO
+### CAPITULO I. DEL DEPOSITO
 
 ###### Art. 2278.
 
@@ -11361,7 +11531,7 @@ En el caso de haberse pactado que la restitución se hará cuando pueda o tenga 
 
 No se declararán nulas las deudas contraídas por el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
-### CAPITULO IX. DEL MODO DE TERMINAR EL ARRENDAMIENTO
+### CAPITULO II. DEL SECUESTRO
 
 ###### Art. 2287.
 
@@ -11385,7 +11555,7 @@ Las partes no pueden, bajo pena de nulidad, convenir de antemano que los interes
 
 ## TITULO SEXTO. DEL ARRENDAMIENTO
 
-### CAPITULO I. DEL DEPOSITO
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 2292.
 
@@ -11445,7 +11615,7 @@ Si la transmisión de la propiedad se hiciere por causa de utilidad pública, el
 
 Los arrendamientos de bienes del Estado, de los Municipios, o de establecimientos públicos, estarán sujetos a las disposiciones del derecho administrativo y en lo que no lo estuvieren, a las disposiciones de este Título.
 
-### CAPITULO II. DEL SECUESTRO
+### CAPITULO II. DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE
 
 ###### Art. 2306.
 
@@ -11515,7 +11685,7 @@ III.- Cuando el contrato fuere por tiempo indeterminado, si el arrendador autori
 
 Las mejoras a que se refieren las fracciones II y III del artículo anterior, deberán ser pagadas por el arrendador, no obstante que en el contrato se hubiese estipulado que las mejoras quedasen a beneficio de la cosa arrendada.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LAS OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO
 
 ###### Art. 2319.
 
@@ -11617,7 +11787,7 @@ Si el arrendamiento debe ser inscrito en el Registro, solo vale el inscrito.
 
 En los arrendamientos que han durado mas de cinco años y cuando el arrendatario ha hecho mejoras de importancia en la finca arrendada, tiene éste derecho si está al corriente en el pago de la renta, a que, en igualdad de condiciones, se le prefiera a otro interesado en el nuevo arrendamiento de la finca. También gozará del derecho del tanto si el propietario quiere vender la finca arrendada aplicándose en lo conducente lo dispuesto en los artículos 2198 y 2199.
 
-### CAPITULO II. DE LAS OBLIGACIONES DEL MANDATARIO CON RESPECTO AL MANDANTE
+### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACION A TERCERO
 
 ###### Art. 2342.
 
@@ -11643,7 +11813,7 @@ No puede renunciarse anticipadamente el derecho de cobrar la indemnización que 
 
 La renta debe pagarse en los plazos convenidos, y a falta de convenio, por meses vencidos si la renta excede de cien pesos mensuales; por quincenas vencidas, si la renta es de sesenta a cien pesos también mensuales, y por semanas, también vencidas, cuando la renta no llegue a sesenta pesos.
 
-### CAPITULO III. DE LAS OBLIGACIONES DEL MANDANTE CON RELACION AL MANDATARIO
+### CAPITULO V. DEL MANDATO JUDICIAL
 
 ###### Art. 2347.
 
@@ -11677,7 +11847,7 @@ El permiso a que se refiere el artículo que precede, no será obligatorio sino 
 
 Terminado el arrendamiento, tendrá a su vez el arrendatario saliente, derecho para usar de las tierras y edificios por el tiempo absolutamente indispensable para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato.
 
-### CAPITULO IV. DE LAS OBLIGACIONES Y DERECHOS DEL MANDANTE Y DEL MANDATARIO CON RELACION A TERCERO
+### CAPITULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
 
 ###### Art. 2353.
 
@@ -11755,7 +11925,7 @@ Si en el arrendamiento de un predio rústico se incluyere el ganado de labranza 
 
 Lo dispuesto en el artículo 2359 es aplicable a los aperos de la finca arrendada.
 
-### CAPITULO V. DEL MANDATO JUDICIAL
+### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
 
 ###### Art. 2372.
 
@@ -11767,7 +11937,7 @@ Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan c
 
 Dado el aviso a que se refiere el artículo anterior, el arrendatario del predio urbano está obligado a poner cédulas y a mostrar el interior de la casa a los que pretendan verla. Respecto de los predios rústicos, se observará lo dispuesto en los artículos 2350, 2351 y 2352.
 
-### CAPITULO VI. DE LOS DIVERSOS MODOS DE TERMINAR EL MANDATO
+### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
 
 ###### Art. 2374.
 
@@ -11781,7 +11951,7 @@ Si el subarriendo se hiciere en virtud de la autorización general concedida en 
 
 Si el arrendador aprueba expresamente el contrato especial de subarriendo, el subarrendatario queda subrogado en todos los derechos y obligaciones del arrendatario, a no ser que por convenio se acuerde otra cosa.
 
-### CAPITULO I. DE LA PRESTACION DE SERVICIOS PROFESIONALES
+### CAPITULO III. DE LOS PORTEADORES Y ALQUILADORES
 
 ###### Art. 2377.
 
@@ -11947,7 +12117,7 @@ El comodato termina por la muerte del comodatario.
 
 ## TITULO OCTAVO. DEL DEPOSITO Y DEL SECUESTRO
 
-### CAPITULO II. DEL CONTRATO DE OBRAS A PRECIO ALZADO
+### CAPITULO IV. DEL CONTRATO DE HOSPEDAJE
 
 ###### Art. 2410.
 
@@ -12047,7 +12217,7 @@ Cualquier pacto que celebre, limitando o modificando esa responsabilidad, será 
 
 Las fondas, cafés, casas de baño y otros establecimientos semejantes, no responden de los efectos que introduzcan los parroquianos, a menos que los pongan bajo el cuidado de los empleados del establecimiento.
 
-### CAPITULO III. DE LOS PORTEADORES Y ALQUILADORES
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 2433.
 
@@ -12079,7 +12249,7 @@ El secuestro judicial se rige por las disposiciones del Código de Procedimiento
 
 ## TITULO NOVENO. DEL MANDATO
 
-### CAPITULO IV. DEL CONTRATO DE HOSPEDAJE
+### CAPITULO II. DE LOS SOCIOS
 
 ###### Art. 2440.
 
@@ -12179,7 +12349,7 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE LA ADMINISTRACION DE LA SOCIEDAD
 
 ###### Art. 2456.
 
@@ -12241,7 +12411,7 @@ Si se le designó la persona del substituto, no podrá nombrar a otro; si no se 
 
 El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
-### CAPITULO II. DE LOS SOCIOS
+### CAPITULO IV. DE LA DISOLUCION DE LAS SOCIEDADES
 
 ###### Art. 2471.
 
@@ -12263,7 +12433,7 @@ El mandatario podrá retener en prenda las cosas que son objeto del mandato hast
 
 Si muchas personas hubiesen nombrado a un solo mandatario para algún negocio común, le quedan obligadas solidariamente para todos los efectos del mandato.
 
-### CAPITULO III. DE LA ADMINISTRACION DE LA SOCIEDAD
+### CAPITULO V. DE LA LIQUIDACION DE LA SOCIEDAD
 
 ###### Art. 2475.
 
@@ -12281,7 +12451,7 @@ Los actos que el mandatario practique a nombre del mandante, pero traspasando lo
 
 El tercero que hubiere contratado con el mandatario que se excedió en sus facultades, no tendrá acción contra de éste, si le hubiere dado a conocer cuales fueron aquéllas y no se hubiere obligado personalmente por el mandante.
 
-### CAPITULO IV. DE LA DISOLUCION DE LAS SOCIEDADES
+### CAPITULO VI. DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
 
 ###### Art. 2479.
 
@@ -12365,7 +12535,7 @@ El procurador que ha substituido un poder, puede revocar la substitución si tie
 
 La parte puede ratificar antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
-### CAPITULO V. DE LA LIQUIDACION DE LA SOCIEDAD
+### CAPITULO VII. DE LA APARCERIA RURAL
 
 ###### Art. 2489.
 
@@ -12427,7 +12597,7 @@ Lo que el mandatario, sabiendo que ha cesado el mandato, hiciere con un tercero 
 
 ## TITULO DECIMO. DEL CONTRATO DE PRESTACION DE SERVICIOS
 
-### CAPITULO VI. DE LAS ASOCIACIONES Y DE LAS SOCIEDADES EXTRANJERAS
+### CAPITULO I. DEL JUEGO Y DE LA APUESTA
 
 ###### Art. 2499.
 
@@ -12471,7 +12641,7 @@ Siempre que un profesor no pueda continuar prestando sus servicios, deberá avis
 
 El que preste servicios profesionales, solo es responsable hacia las personas a quienes sirve, por negligencia, impericia o dolo, sin perjuicio de las penas que merezca en casos de delito.
 
-### CAPITULO VII. DE LA APARCERIA RURAL
+### CAPITULO II. DE LA RENTA VITALICIA
 
 ###### Art. 2509.
 
@@ -12593,7 +12763,7 @@ El constructor de cualquiera obra mueble tiene derecho de retenerla mientras no 
 
 Los empresarios constructores son responsables, por la inobservancia de las disposiciones municipales o de policía y por todo daño que causen a los vecinos.
 
-### CAPITULO I. DEL JUEGO Y DE LA APUESTA
+### CAPITULO III. DE LA COMPRA DE ESPERANZA
 
 ###### Art. 2539.
 
@@ -12693,7 +12863,7 @@ El contrato de transporte se rescindirá de hecho antes de emprenderse el viaje,
 
 En el caso previsto en el artículo anterior, cada uno de los interesados perderá los gastos que hubiere hecho, si el viaje no se ha verificado; y si está en curso, el porteador tendrá derecho a que se le pague del porte la parte proporcional al camino recorrido, y la obligación de presentar los efectos, para su depósito, a la autoridad judicial del punto en que ya no le sea posible continuarlo, comprobando y recabando la constancia relativa de hallarse en el estado consignado en la carta de porte, de cuyo hecho dará conocimiento oportuno al cargador, a cuya disposición deben quedar.
 
-### CAPITULO II. DE LA RENTA VITALICIA
+### CAPITULO I. DE LA FIANZA EN GENERAL
 
 ###### Art. 2559.
 
@@ -12813,7 +12983,7 @@ II
 
 DE LAS SOCIEDADES
 
-### CAPITULO III. DE LA COMPRA DE ESPERANZA
+### CAPITULO II. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
 
 ###### Art. 2581.
 
@@ -12885,7 +13055,7 @@ La capacidad para que las sociedades adquieran bienes raíces, se regirá por lo
 
 No quedan comprendidas en este título las sociedades cooperativas, ni las mutualistas, que se regirán por las respectivas leyes especiales.
 
-### CAPITULO I. DE LA FIANZA EN GENERAL
+### CAPITULO III. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
 
 ###### Art. 2595.
 
@@ -12915,7 +13085,7 @@ Ningún socio puede ser excluído de la sociedad si no por el acuerdo unánime d
 
 El socio excluído es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la declaración, debiendo hacerse hasta entonces la liquidación correspondiente.
 
-### CAPITULO II. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL ACREEDOR
+### CAPITULO IV. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
 
 ###### Art. 2602.
 
@@ -12969,7 +13139,7 @@ El socio o socios administradores están obligados a rendir cuentas siempre que 
 
 Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2606.
 
-### CAPITULO III. DE LOS EFECTOS DE LA FIANZA ENTRE EL FIADOR Y EL DEUDOR
+### CAPITULO V. DE LA EXTINCION DE LA FIANZA
 
 ###### Art. 2613.
 
@@ -13011,7 +13181,9 @@ Se dice extemporánea la renuncia, si al hacerla, las cosas no se hallan en su e
 
 La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
-### CAPITULO IV. DE LOS EFECTOS DE LA FIANZA ENTRE LOS COFIADORES
+### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE AGOSTO DE 1948)</small>
 
 ###### Art. 2619.
 
@@ -13063,7 +13235,7 @@ Si al terminar la sociedad en que hubiere socios capitalistas e industriales, re
 
 Salvo pacto en contrario, los socios industriales no responderán de las pérdidas.
 
-### CAPITULO V. DE LA EXTINCION DE LA FIANZA
+### CAPITULO I. DE LA HIPOTECA EN GENERAL
 
 ###### Art. 2629.
 
@@ -13077,9 +13249,7 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscr
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE APARCERIA DEL ESTADO DE NUEVO LEON, P.O. 4 DE DICIEMBRE DE 1940)</small>
 
-### CAPITULO VI. DE LA FIANZA LEGAL O JUDICIAL
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE AGOSTO DE 1948)</small>
+### CAPITULO II. DE LA HIPOTECA VOLUNTARIA
 
 ###### Art. 2631.
 
@@ -13183,7 +13353,7 @@ Concedida la autorización por la Secretaría de Relaciones Exteriores, se inscr
 
 ## TITULO DECIMO-SEGUNDO. DE LOS CONTRATOS ALEATORIOS
 
-### CAPITULO I. DE LA HIPOTECA EN GENERAL
+### CAPITULO III. DE LA HIPOTECA NECESARIA
 
 ###### Art. 2656.
 
@@ -13227,7 +13397,7 @@ Las loterías o rifas, cuando se permitan, serán regidas, las primeras, por las
 
 El contrato celebrado entre los compradores de billetes y las loterías autorizadas en país extranjero, no será válido en el Estado, a menos que la venta de esos billetes haya sido permitida por la autoridad correspondiente.
 
-### CAPITULO II. DE LA HIPOTECA VOLUNTARIA
+### CAPITULO IV. DE LA EXTINCION DE LAS HIPOTECAS
 
 ###### Art. 2666.
 
@@ -13301,7 +13471,7 @@ El pensionista solo puede demandar las pensiones, justificando su supervivencia 
 
 Si el que paga la renta vitalicia ha causado la muerte del acreedor o la de aquel sobre cuya vida había sido constituída, debe devolver el capital al que la constituyó o a sus herederos.
 
-### CAPITULO III. DE LA HIPOTECA NECESARIA
+### CAPITULO I. DISPOSICIONES GENERALES
 
 ###### Art. 2684.
 
@@ -13315,7 +13485,7 @@ Los demás derechos y obligaciones de las partes, en la compra de esperanza, ser
 
 ## TITULO DECIMO-TERCERO. DE LA FIANZA
 
-### CAPITULO IV. DE LA EXTINCION DE LAS HIPOTECAS
+### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIADOS
 
 ###### Art. 2686.
 
@@ -13391,7 +13561,7 @@ No tendrá lugar la responsabilidad del artículo anterior, si el que dió la ca
 
 Quedan sujetas a las disposiciones de este Título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas, siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquiera otro medio, y que no empleen agentes que las ofrezcan.
 
-### CAPITULO I. DISPOSICIONES GENERALES
+### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
 
 ###### Art. 2704.
 
@@ -13473,7 +13643,7 @@ La transacción entre el acreedor y el deudor principal, aprovecha al fiador, pe
 
 Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquella, no habiendo convenio en contrario; pero si solo uno de los fiadores es demandado, podrá hacer citar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
-### CAPITULO II. DE LOS CREDITOS HIPOTECARIOS Y PIGNORATICIOS Y DE ALGUNOS OTROS PRIVILEGIADOS
+### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
 
 ###### Art. 2720.
 
@@ -13529,7 +13699,7 @@ IV.- Si se obligó a relevarlo de la fianza en tiempo determinado, y éste ha tr
 
 V.- Si la deuda se hace exigible por el vencimiento del plazo.
 
-### CAPITULO III. DE ALGUNOS ACREEDORES PREFERENTES SOBRE DETERMINADOS BIENES
+### CAPITULO V. ACREEDORES DE SEGUNDA CLASE
 
 ###### Art. 2729.
 
@@ -13565,7 +13735,7 @@ El fiador que pide el beneficio de división, sólo responde por la parte del fi
 
 El que fía al fiador, en el caso de insolvencia de éste, es responsable para con los otros fiadores, en los mismos términos en que lo sería el fiador fiado.
 
-### CAPITULO IV. ACREEDORES DE PRIMERA CLASE
+### CAPITULO VI. ACREEDORES DE TERCERA CLASE
 
 ###### Art. 2734.
 
@@ -13599,7 +13769,7 @@ El fiador que se ha obligado por tiempo determinado, queda libre de su obligaci�
 
 Si la fianza se ha otorgado por tiempo indeterminado, tiene derecho el fiador, cuando la deuda principal se vuelva exigible, de pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación. Si el acreedor no ejercita sus derechos dentro del plazo mencionado, o si en el juicio entablado deja de promover, sin causa justificada, por más de tres meses, el fiador quedará libre de su obligación.
 
-### CAPITULO V. ACREEDORES DE SEGUNDA CLASE
+### CAPITULO VII. ACREEDORES DE CUARTA CLASE
 
 ###### Art. 2742.
 
@@ -13799,7 +13969,7 @@ Respecto de los montes de piedad, que con autorización legal prestan dinero sob
 
 ## TITULO DECIMO-QUINTO. DE LA HIPOTECA
 
-### CAPITULO VI. ACREEDORES DE TERCERA CLASE
+### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
 
 ###### Art. 2785.
 
@@ -13939,7 +14109,9 @@ La acción hipotecaria prescribirá a los diez años, contados desde que pueda e
 
 La hipoteca nunca es tácita, ni general; para producir efectos contra tercero necesita siempre de registro, y se contrae por voluntad, en los convenios, y por necesidad, cuando la ley sujeta a alguna persona a prestar esa garantía sobre bienes determinados. En el primer caso se llama voluntaria; en el segundo, necesaria.
 
-### CAPITULO VII. ACREEDORES DE CUARTA CLASE
+### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
+
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 1960)</small>
 
 ###### Art. 2812.
 
@@ -13993,7 +14165,7 @@ La hipoteca prorrogada segunda o mas veces solo conservará la preferencia deriv
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague su crédito.
 
-### CAPITULO I. DE LAS OFICINAS DEL REGISTRO
+### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
 
 ###### Art. 2823.
 
@@ -14049,9 +14221,7 @@ Los que tienen derecho de exigir la constitución de hipoteca necesaria, tienen 
 
 Si el responsable de la hipoteca designada en las fracciones II, III y IV del artículo 2827, no tuviere inmuebles, no gozará el acreedor mas que del privilegio mencionado en el artículo 2887, fracción I, salvo lo dispuesto en el capítulo IX, del título IX, del Libro Primero.
 
-### CAPITULO II. DE LOS TITULOS SUJETOS A REGISTRO Y DE LOS EFECTOS LEGALES DEL REGISTRO
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 1960)</small>
+### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
 
 ###### Art. 2832.
 
@@ -14181,7 +14351,7 @@ TERCERA PARTE
 
 ## TITULO PRIMERO. DE LA CONCURRENCIA Y PRELACION DE LOS CREDITOS
 
-### CAPITULO III. DEL MODO DE HACER EL REGISTRO Y DE LAS PERSONAS QUE TIENEN DERECHO DE PEDIR LA INSCRIPCION
+### CAPITULO V. DE LAS INSCRIPCIONES DE POSESION
 
 ###### Art. 2856.
 
@@ -14263,7 +14433,7 @@ Los gastos judiciales hechos por un acreedor, en lo particular, serán pagados e
 
 El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo provenga solo del deudor, quien en este caso será responsable de los daños y perjuicios que se sigan a los demás acreedores, además de las penas que merezca por el fraude.
 
-### CAPITULO IV. DEL REGISTRO DE LAS INFORMACIONES DE DOMINIO
+### CAPITULO VI. DE LA EXTINCION DE LAS INSCRIPCIONES
 
 ###### Art. 2872.
 
@@ -14519,7 +14689,7 @@ Transcurridos tres años sin que se comunique al registrador la calificación qu
 
 ###### Art. 2907.
 
-Toda título que se presente a registro, deberá expresar las circunstancias siguientes:
+Todo título que se presente a registro, deberá expresar las circunstancias siguientes:
 
 I.- Naturaleza, situación, linderos o colindancias de los inmuebles objeto de la operación o a los cuales afecte el derecho de que se trate, su medida superficial y datos de registro del título antecedente;
 
@@ -14862,3 +15032,13 @@ UNICO:- El presente Decreto entrará en vigor al siguiente día de su publicaci�
 P.O. 2 DE MARZO DE 1981.
 
 UNICO:- El presente decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 1 DE ENERO DE 1982.
+
+###### ARTICULO PRIMERO
+
+- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO
+
+- Se derogan todas las disposiciones que se opongan a la propia reforma.
