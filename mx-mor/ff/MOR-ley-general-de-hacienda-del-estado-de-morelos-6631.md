@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-6631"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2000-03-29"
+last_updated: "2000-12-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 2000.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -2729,21 +2729,23 @@ Las dependencias oficiales competentes y sus delegaciones, no tramitarán ningun
 
 ### CAPITULO DECIMO SEPTIMO. DEL IMPUESTO SOBRE LA PRESTACION DE SERVICIOS DE HOSPEDAJE
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 384 BIS 15.- Son sujetos del Impuesto sobre Hospedaje, las personas jurídico-individuales o jurídico-colectivas (personas físicas o morales) que presten servicio de hospedaje en el Estado de Morelos.
+ARTICULO 384 BIS 15.- Son sujetos del Impuesto sobre la Prestación de Servicios de Hospedaje todas las personas que reciban el servicio de hospedaje en el Estado de Morelos.
 
-Aquellos sujetos que presten servicio de hospedaje estarán obligados a la retención y entero del impuesto.
+Las personas físicas o morales que presten servicio de hospedaje estarán obligados a la retención y entero del impuesto.
 
-Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas mediante el pago de un precio determinado, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, campamentos, paraderos de casas rodantes y de tiempo compartido.
+El objeto del impuesto será exclusivamente el servicio de hospedaje que se reciba. Para los efectos de este impuesto se consideran servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas mediante el pago de un precio determinado.
 
-No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminario e internados.
+> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2000)</small>
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
+ARTICULO 384 BIS 16.- El impuesto a que se refiere este capítulo se causará al momento que se perciba el pago por los servicios de hospedaje.
 
-ARTICULO 384 BIS 16.- El impuesto a que se refiere este Capítulo se causará al momento en que se perciban las cantidades recibidas por los servicios de hospedaje, incluyendo depósitos, anticipos, gastos de toda clase, reembolsos, intereses normales o moratorios, penas convencionales y cualquier otro concepto.
+Los recursos que genere el impuesto que se recaude anualmente sobre la prestación de servicios de hospedaje se destinarán, el 82% a la publicidad, promoción y difusión turística, y el 14% a la realización de obras de infraestructura de interés turístico en el Estado de Morelos.
 
-Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios, tales como transportación, comida, uso de instalaciones, u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor respectivo corresponde a servicios de hospedaje.
+El Gobierno del Estado conservará el 4% del monto total enterado para cubrir los gastos administrativos que la recaudación ocasione. Los adicionales en caso de ejecución forzosa quedarán a favor del propio gobierno.
+
+Se autoriza la constitución de un fideicomiso público de administración, inversión y ejecución, con participación de la iniciativa privada, que se encargue de la aplicación de los recursos que el impuesto genere, para cumplir con los objetivos que señala este artículo; el órgano directivo de dicho fideicomiso se integrará por cinco representantes del Poder Ejecutivo del Estado y cuatro representantes de la iniciativa privada, de los diferentes sectores del sector turístico del Estado.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1999)</small>
 
@@ -2759,7 +2761,9 @@ ARTICULO 384 BIS 18.- Los contribuyentes calcularán el impuesto de la prestaci�
 
 I.- El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual.
 
-II.- Los contribuyentes deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a pagar dentro de los diez primeros días hábiles de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior.
+> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+II.- Los contribuyentes deberán realizar pagos bimestrales provisionales a cuenta del impuesto anual a más tardar el día 17 de los meses de enero, marzo, mayo, julio, septiembre y noviembre, mediante una declaración que contenga los datos relativos a los pagos objeto de este impuesto realizados en el bimestre inmediato anterior.
 
 III.- Los contribuyentes presentarán sus declaraciones y efectuarán el entero del impuesto en las oficinas autorizadas por la Secretaría de Hacienda Estatal.
 
@@ -3656,6 +3660,10 @@ a).- Placa $250.00
 b).- Engomado $100.00
 
 3.- Por reposición o sustitución de placas para el servicio público $250.00
+
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2000)</small>
+
+II-BIS.- Canje de Placas. $180.00
 
 III.- Refrendo anual de tarjetas de circulación y engomado.
 
@@ -5166,3 +5174,25 @@ PRIMERO.- El presente Decreto entrará en vigor a partir del día de su publicac
 SEGUNDO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado para los efectos que señala la fracción XVII del artículo 70 de la Constitución Política del Estado de Morelos.
 
 TERCERA (SIC).- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 27 DE DICIEMBRE DE 2000.
+
+DECRETO NUMERO 32
+
+###### ARTÍCULO PRIMERO.
+
+Las placas, engomados y tarjetas de circulación que hayan sido expedidas con anterioridad al día 31 de diciembre del año en curso, dejarán de tener validez en el ejercicio fiscal 2001.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+P.O. 27 DE DICIEMBRE DE 2000.
+
+DECRETO NUMERO 33
+
+PRIMERO.- Aprobado que sea el presente Decreto túrnese al Titular del Poder Ejecutivo a efecto de que sea publicado en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Gobierno del Estado.
+
+TERCERO.- El fideicomiso público de administración, inversión y ejecución a que se refiere el presente decreto, deberá constituirse en un plazo no mayor de dos meses.
