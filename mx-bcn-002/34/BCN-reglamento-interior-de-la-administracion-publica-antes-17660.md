@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-de-la-administracion-publica-antes-17660"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-12-14"
-last_updated: "2003-09-26"
+last_updated: "2004-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE LA ADMINISTRACION PUBLICA DEL MUNICIPIO DE MEXICALI, BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE MARZO DE 2004.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 14 de diciembre de 2001.
 
@@ -1223,7 +1223,9 @@ II.- Analizar y validar anteproyectos de obras públicas municipales;
 
 III.- Integrar toda la documentación que se genera de cada proceso, a fin de contar con el historial de cada obra, desde el análisis de su viabilidad hasta su adjudicación, cumpliendo con la normatividad aplicable;
 
-IV.- Participar como representante técnico en el proceso de licitación pública, cursos (sic) y adjudicación de contratos de obras a cargo de la Dirección de Obras y Servicios Públicos, vigilando que se respete la normatividad establecida;
+> <small>(REFORMADA, P.O. 26 DE MARZO DE 2004)</small>
+
+IV.- Participar como representante técnico en el proceso de licitación pública, concursos y adjudicación de contratos de obras a cargo de la Dirección de Obras Públicas, vigilando que se respete la normatividad establecida;
 
 V.- Supervisar y administrar la ejecución de las obras públicas a su cargo, así como autorizar la documentación relativa a los pagos programados, hasta su total finiquito;
 
@@ -2577,7 +2579,7 @@ Síndico Procurador.
 
 Regidores:
 
-Antonio Ramírez Ortiz
+Antonio Ramírez Ortíz
 
 María Griselda Romero Villanueva
 
@@ -2620,3 +2622,7 @@ UNICO.- La presente reforma entrará en vigor al día siguiente de su publicaci�
 P.O. 26 DE SEPTIEMBRE DE 2003.
 
 ARTICULO TRANSITORIO UNICO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 26 DE MARZO DE 2004.
+
+ÚNICO.- LA PRESENTE MODIFICACIÓN ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA."
