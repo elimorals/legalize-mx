@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1986-07-26"
+last_updated: "1994-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE JULIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -187,6 +187,12 @@ En los casos de los dos artículos anteriores el Ministerio Público o la Polic�
 
 Los funcionarios de la policía judicial y, del Ministerio Público podrán citar para que declaren sobre los hechos que se averiguen (sic), a las personas que por cualquier concepto participen en ellos o aparezcan que tengan datos sobre los mismos. En el acta se hará constar quién mencionó a la persona que haya de citarse o por qué motivo el funcionario o agente que practique las diligencias estime conveniente hacer la citación.
 
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+###### Art. 19 Bis
+
+- Cuando con motivo de una averiguación previa el Ministerio Público estime necesario el arraigo del indiciado, tomando en cuenta las características del hecho imputado y las circunstancias personales de aquél, recurrirá al órgano jurisdiccional fundando y motivando su petición, para que éste, oyendo al indiciado, resuelva el arraigo con vigilancia de la autoridad, la que ejercerán el Ministerio Público y sus auxiliares. El arraigo se prolongará por el tiempo estrictamente indispensable para la debida integración de la averiguación de que se trate, no pudiendo exceder de treinta días, pero podrá prorrogarse por igual término a petición del Ministerio Público, el Juez resolverá escuchando al Ministerio Público y al arraigado sobre la subsistencia o el levantamiento del arraigo.
+
 ###### Art. 20.
 
 Cuando una autoridad distinta del Ministerio Público practique diligencias de policía judicial, remitirá a éste dentro de tres días de haberlas iniciado, el acta o actas levantadas y todo lo que con ellas se relacione. Si hubiere detenidos la remisión se hará dentro de las veinticuatro horas siguientes a la detención.
@@ -199,11 +205,79 @@ Cuando se presentare ante el funcionario o agente que hubiere iniciado una averi
 
 Los funcionarios que practiquen diligencias de policía judicial determinarán en cada caso qué personas quedarán en calidad de detenidas y en qué lugar haciéndolo constar en el acta respectiva, siempre y cuando dicha detención se haya efectuado conforme al artículo siguiente.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 1994)</small>
+
 ###### Art. 23.
 
-El Ministerio Público y los agentes que practiquen diligencias de policía judicial, deberán llevar a cabo la detención de los delincuentes que sean sorprendidos infraganti, entendiéndose ésto no sólo cuando es detenido en el momento de estarlo cometiendo, sino cuando, después de ejecutado el delito, el inculpado es perseguido materialmente, o cuando en el momento de haberlo cometido, alguien lo señale como responsable y se encuentre en su poder el objeto del delito, el instrumento con que aparezca haberlo cometido, o huellas o indicios que hagan presumir fundadamente su culpabilidad.
+El Ministerio Público y la Policía Judicial a su mando están obligados a detener al responsable de cualquier delito, sin esperar a tener orden judicial en los casos de flagrancia o urgencia.
 
-En su caso se tendrá presente lo dispuesto en los artículos 239 y 241 de este Código.
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+###### Art. 23 Bis
+
+- Se considera que hay delito flagrante cuando el indiciado es detenido en el momento de estarlo cometiendo, si inmediatamente después de ejecutado el hecho delictuoso:
+
+A) Aquél es perseguido materialmente; o
+
+B) Alguien lo señale como responsable y se encuentre en su poder el objeto del delito, el instrumento con el que aparezca cometido o, huella o indicios que hagan presumir fundadamente su intervención en la comisión del delito.
+
+En esos casos el Ministerio Público iniciará desde luego la averiguación previa bajo su responsabilidad. Según procediere, decretará la detención del indiciado si el delito es perseguible de oficio; recibirá de inmediato la querella u otro requisito equivalente que sea necesario para tal efecto o bien, ordenará la libertad del detenido.
+
+La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y la persona así detenida será puesta en inmediata libertad.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+Art. 23 Bis A.- En casos urgentes el Ministerio Público podrá bajo su responsabilidad, ordenar por escrito la detención de una persona, fundando y expresando los indicios que acrediten:
+
+A).- Que el indiciado haya intervenido en la comisión de alguno de los delitos señalados como graves en este artículo.
+
+B).- Que exista riesgo fundado de que el indiciado puede sustraerse a la acción de la justicia; y
+
+C).- Que por razón de la hora, lugar o cualesquier otra circunstancia, no pueda ocurrir ante autoridad judicial para solicitar la orden de aprehensión.
+
+La violación de esta disposición hará penalmente responsable al Ministerio Público o funcionario que decrete indebidamente la detención y el sujeto será puesto en inmediata libertad.
+
+Se califican como Delitos Graves para todos los efectos legales, por afectar de manera importante valores fundamentales de la sociedad, los previstos en los siguientes artículos del Código Penal para el Estado de Oaxaca:
+
+HOMICIDIO POR CULPA GRAVE: Previsto en el segundo párrafo del artículo 69.
+
+EVASIÓN DE PRESOS: Previsto en el artículo 155.
+
+ATAQUE A LAS VIAS DE COMUNICACIÓN: Previsto en los artículos 169, 170, 172.
+
+CORRUPCIÓN DE MENORES: Previsto en el artículo 195.
+
+PECULADO Y CONCUSION: Previsto por los artículos 213 y 215.
+
+ABUSO DE AUTORIDAD: Previsto por el artículo 208 fracciones XXVI y XXXVIII, en relación con los párrafos sexto y séptimo del artículo 209.
+
+ALLANAMIENTO DE MORADA: Previsto en el artículo 267 in fine.
+
+VIOLACIÓN: Previsto en los artículos 246, 247 y 248.
+
+ASALTO: Previsto en los artículos 268, 269 y 270.
+
+HOMICIDIO: Previsto en los artículos 285 en relación al 289, 291, 292, 296 y 299.
+
+PARRICIDIO: Previsto en los artículos 306 y 307.
+
+SECUESTRO: Previsto en el artículo 348, con excepción de la segunda parte de la fracción V.
+
+ROBO CALIFICADO: Previsto en los artículos 349 en relación con los artículos 353, 354, 355, 359 y 369 fracción VII.
+
+ABIGEATO: Previsto en los artículos 370 en relación al 371, 372, 373, 374 y 375.
+
+DESPOJO: Previsto en el artículo 384.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+Art. 23 Bis B.- En los casos de delito FLAGRANTE y en los URGENTES, ningún indiciado podrá ser detenido por el Ministerio Público por más de 48 horas, plazo en el que deberá ordenar su libertad o ponerlo a disposición de la autoridad judicial, este plazo podrá duplicarse en los casos de delincuencia organizada.
+
+Habrá DELINCUENCIA ORGANIZADA en aquellos casos en los que tres o más personas se organizan bajo reglas de disciplina y jerarquía para cometer de modo violento o reiterado o con fines predominantes lucrativos alguno de los delitos previstos en el artículo 23 Bis A, calificados como Delitos Graves.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 1994)</small>
+
+Art. 23 Bis C.- En casos URGENTES o FLAGRANTES, el Juez que reciba la consignación del detenido procederá de inmediato a determinar si la detención fue apegada a la Constitución de los Estados Unidos Mexicanos o no, en el primer caso ratificará la detención y en el segundo decretará la libertad con las reservas de Ley.
 
 ### CAPITULO V
 
@@ -3360,3 +3434,7 @@ P.O. 26 DE JULIO DE 1986.
 PRIMERO.- Se derogan todas las disposiciones que contravengan el contenido de este Decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE JULIO DE 1994.
+
+UNICO.- Las presentes reformas y adiciones hechas al Código de Procedimientos Penales del Estado de Oaxaca, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
