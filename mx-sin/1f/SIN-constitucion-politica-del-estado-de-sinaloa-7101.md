@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "1974-05-17"
+last_updated: "1976-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCION POLITICA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE MAYO DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 1976.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -1065,6 +1065,14 @@ Los Jueces Menores serán nombrados por el Supremo Tribunal de Justicia y durar�
 
 Para ser Juez Menor se requiere: Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos, mayor de edad, de reconocida buena conducta y tener los conocimientos jurídicos necesarios.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 14 DE ENERO DE 1976)</small>
+
+### CAPITULO V. DE LA JURISDICCION ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 14 DE ENERO DE 1976)</small>
+
+Art.109 Bis.- Se instituye la Jurisdicción Administrativa para conocer de las controversias que se susciten en relación con la legalidad y, en su caso, la interpretación, cumplimiento y efectos de los actos, procedimientos y disposiciones de naturaleza administrativa del Estado, para lo cual podrán crearse Tribunales Administrativos dotados de plena autonomía para dictar sus fallos estableciéndose las normas de su organización, funcionamiento, competencia, procedimiento y recursos contra sus resoluciones.
+
 ### CAPITULO I. DISPOSICIONES DIVERSAS
 
 ### CAPITULO II. DE LA INVIOLABILIDAD Y REFORMAS DE LA CONSTITUCION
@@ -1924,3 +1932,9 @@ P.O. 17 DE MAYO DE 1974.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 14 DE ENERO DE 1976.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial "El Estado de Sinaloa".
