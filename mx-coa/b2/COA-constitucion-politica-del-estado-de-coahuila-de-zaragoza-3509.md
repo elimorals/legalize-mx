@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1959-03-28"
+last_updated: "1966-10-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 1959.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 1966.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -394,7 +394,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
 
 ###### Artículo 56.
 
@@ -566,9 +566,9 @@ XXXI. Visitar por medio de su comisión de Hacienda, la Tesorería General del E
 
 XXXII. Crear o suprimir los empleos públicos del Estado, y aumentar o disminuir los emolumentos respectivos.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 1941)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 1966)</small>
 
-XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos en vista de los Presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios que deberán enviar los Ayuntamientos haciéndoles las modificaciones que estime convenientes. Por considerarse de interés público, el Congreso expedirá una Ley Reglamentaria tendente a favorecer la inversión de capitales en nuevas fuentes de producción y especialmente en nuevas industrias o en la ampliación de las ya existentes, estableciéndose impuestos moderados, por un período no mayor de veinte años.
+XXXIII. Decretar anualmente los gastos públicos y las contribuciones con que hayan de ser cubiertos, en vista de los presupuestos que presente el Ejecutivo. Aprobar los Planes de Arbitrios y Presupuestos de Egresos que deberán enviar los Ayuntamientos anualmente, haciéndoles las modificaciones que estime convenientes. Expedir una Ley de Fomento a la Industria, a fin de estimular el establecimiento de nuevas actividades industriales.
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
@@ -718,9 +718,9 @@ III. Celebrar convenios con los Gobernadores de los Estados limítrofes para la 
 
 IV. Nombrar y remover libremente al Procurador General de Justicia del Estado y a los Agentes del Ministerio Público.
 
-> <small>(REFORMADA, P.O. 18 DE ENERO DE 1941)</small>
+> <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 1966)</small>
 
-V. Celebrar con su carácter de representante del Estado, los convenios y contratos administrativos que fueren convenientes o necesarios en los diversos ramos de la Administración, sin que tenga facultad para celebrar Contratos sobre pago de impuestos, no considerándose que tenga ese carácter, el acto de acogerse las industrias nuevas, o la ampliación de las ya existentes, a la franquicia autorizada por la Fracción XXXIII del Artículo 67 de esta Constitución.
+V. Celebrar, en su carácter de Representante del Estado, los Convenios y Contratos Administrativos que fueren favorables o necesarios en los diversos ramos de la Administración.
 
 > <small>(REFORMADA, P.O. 5 DE MAYO DE 1926)</small>
 
@@ -862,11 +862,11 @@ El Secretario del Ejecutivo del Estado concurrirá a las sesiones del Congreso p
 
 El Secretario del Ejecutivo del Estado, mientras esté en el ejercicio de sus funciones, no podrá litigar ante los Tribunales del Estado, si no es en negocios propios.
 
-> <small>(REFORMADO, P.O. 28 DE MARZO DE 1959)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1966)</small>
 
 ###### Artículo 91.
 
-Las faltas temporales del Secretario se suplirán por el Sub-Secretario del Ejecutivo, quien tendrá, mientras tanto, las mismas prerrogativas, obligaciones y responsabilidades de aquél.
+Las faltas temporales del Secretario, serán suplidas por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto, las mismas prerrogativas, obligaciones y responsabilidades de aquél.
 
 ###### Artículo 92.
 
@@ -902,13 +902,11 @@ Solamente el Congreso, o la Diputación Permanente, cuando haya sido autorizada 
 
 El producto de las contribuciones y bienes del Estado, se invertirá únicamente en los gastos que demande su administración y en obras y mejoras de utilidad pública.
 
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 1936)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1966)</small>
 
 ###### Artículo 97.
 
-El Congreso, cada año, decretará con oportunidad las contribuciones suficientes para cubrir el presupuesto del año fiscal siguiente, con las modalidades contenidas en la fracción XXXIII del artículo 67, y en el artículo 101 de esta Constitución.
-
-Se exceptúan las contribuciones sobre la industria metalúrgica, fabril o manufacturera, que se regirán por lo dispuesto en el artículo 101.
+El Congreso, a proposición del Ejecutivo, cada año, promulgará la Ley de Ingresos para el Estado, conteniendo la enumeración de los impuestos y de las demás percepciones suficientes para cubrir el Presupuesto del año Fiscal siguiente, con las modalidades contenidas en la Ley de Fomento a la Industria.
 
 ###### Artículo 98.
 
@@ -932,11 +930,11 @@ IV. Pedir al Gobernador el castigo o remoción de los empleados subalternos del 
 
 V. Presentar diariamente al Ejecutivo un estado general de Caja, autorizado por el Contador, que manifieste el movimiento diario de caudales.
 
-> <small>(REFORMADO, P.O. 18 DE ENERO DE 1941)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1966)</small>
 
 ###### Artículo 101.
 
-En observancia de lo preceptuado por el Artículo 28 de la Constitución Federal, se declaran sin efecto alguno, las concesiones por concepto de impuestos, otorgados por el Congreso del Estado o por el Ejecutivo. Todas las industrias existentes, así como las no comprendidas dentro de lo dispuesto en la Fracción XXXIII del Artículo 67 de la Constitución, pagarán como único impuesto 2½ al millar anual sobre el valor de las fábricas, incluyendo la maquinaria, y del 1½ al 2½ al millar anual sobre el valor de la producción, sin que pueda agregarse ninguno de los impuestos adicionales que decreten las Leyes del Estado. Este impuesto se dividirá por mitad entre el Estado y el Municipio en que las negociaciones tengan establecidas sus fábricas.- Las Plantas de Beneficio Metalúrgico, incluyendo las de Coke, pagarán como único impuesto al Estado el 5 al millar anual sobre el valor de la Planta y Maquinaria. Las Leyes secundarias reglamentarán la forma de hacer efectivos estos impuestos, sin que pueda alterarse el tip.
+Los impuestos y percepciones establecidos en la Ley de Ingresos del Estado, la Ley de Hacienda y los Planes de Arbitrios Municipales, serán subsidiados a la Industria, por el Estado y los Municipios, en la forma y términos que establezca la Ley de Fomento a la Industria, que se expedirá de conformidad con el Artículo 67, Fracción XXXIII, de ésta Constitución.
 
 ###### Artículo 102.
 
@@ -1066,7 +1064,7 @@ La Instrucción Pública del Estado estará bajo el patrocinio y vigilancia del 
 
 ### CAPITULO I.
 
-> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1939)</small>
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1966)</small>
 
 ###### Artículo 122.
 
@@ -1170,7 +1168,7 @@ Jueces de Primera Instancia, Locales y Auxiliares.
 
 ###### Artículo 135.
 
-El Poder Judicial se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezca la Ley.
+El Poder Judicial se deposita, para su ejercicio, en el Supremo Tribunal de Justicia, en los Tribunales de Menores, en los Jueces de Primera Instancia, en los Jueces Locales Letrados, en los Jueces Locales Legos y en los Jueces Auxiliares, que establezcan las Leyes.
 
 > <small>(REFORMADO, P.O. 16 DE MAYO DE 1951)</small>
 
@@ -1594,7 +1592,7 @@ En ningún caso perderá esta Constitución su fuerza y vigor, aunque por alguna
 
 Dado en la Ciudad de Saltillo, a los cinco días del mes de Febrero de mil novecientos diez y ocho, en el Salón de Sesiones del Poder Legislativo.
 
-F. L. Treviño
+F. L. Treviño,
 
 Presidente.- Diputado por el 15º. Distrito Electoral.
 
@@ -1777,3 +1775,9 @@ P.O. 25 DE ABRIL DE 1956.
 P.O. 28 DE MARZO DE 1959.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 12 DE OCTUBRE DE 1966.
+
+###### ARTICULO UNICO
+
+- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
