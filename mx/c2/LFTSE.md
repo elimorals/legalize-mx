@@ -4,7 +4,7 @@ identifier: "LFTSE"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1963-12-28"
-last_updated: "1975-12-31"
+last_updated: "1978-10-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFTSE"
 
 LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTICULO 123 CONSTITUCIONAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE OCTUBRE DE 1978.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 28 de diciembre de 1963.
 
@@ -344,9 +344,9 @@ El salario no es susceptible de embargo judicial o administrativo, fuera de lo e
 
 Es nula la cesión de salarios en favor de tercera persona.
 
-> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1975)</small>
+> <small>(REFORMADO, D.O.F. 23 DE OCTUBRE DE 1978)</small>
 
-ARTICULO 42 BIS.- Los trabajadores tendrán derecho a un "aguinaldo" anual que estará comprendido en el Presupuesto de Egresos, que deberá pagarse antes del día quince de diciembre y que será equivalente a un mes de salario, cuando menos, sin deducción alguna. El Ejecutivo Federal dictará las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
+ARTICULO 42 BIS.- Los trabajadores tendrán derecho a un aguinaldo anual que estará comprendido en el Presupuesto de Egresos, el cual deberá pagarse en un 50 % antes del 15 de diciembre y el otro 50 % a más tardar el 15 de enero, y que será equivalente a 40 días de salario, cuando menos, sin deducción alguna. El Ejecutivo Federal dictará las normas conducentes para fijar las proporciones y el procedimiento para los pagos en caso de que el trabajador hubiere prestado sus servicios menos de un año.
 
 ### CAPITULO IV
 
@@ -1321,3 +1321,9 @@ La Comisión de Recursos Humanos del Gobierno Federal elaborará los estudios co
 ###### ARTICULO TERCERO.
 
 El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 23 DE OCTUBRE DE 1978.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
