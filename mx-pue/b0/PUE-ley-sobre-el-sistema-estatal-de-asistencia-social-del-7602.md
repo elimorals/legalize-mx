@@ -1,0 +1,518 @@
+---
+title: "LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, DEL ESTADO DE PUEBLA"
+identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
+country: "mx"
+rank: "ley"
+publication_date: "1986-08-05"
+last_updated: "1986-08-05"
+status: "in_force"
+source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
+department: "Periódico Oficial del Estado"
+jurisdiction: "mx-pue"
+scjn_id: "7602"
+scjn_status: "VIGENTE"
+gazette: "Periódico Oficial del Estado"
+original_category: "LEY"
+original_gazette_section: "11 SECCION II"
+reform_count: "13"
+scjn_last_update: "2026-03-15"
+issue_date: "1986-07-25"
+state: "PUE"
+---
+# LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, DEL ESTADO DE PUEBLA
+
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+
+TEXTO ORIGINAL.
+
+Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
+
+Al margen un sello con el Escudo Nacional y una leyenda que dice: Estados Unidos Mexicanos.- H. Congreso del Estado.- Puebla.
+
+GUILLERMO JIMENEZ MORALES, Gobernador Constitucional del Estado Libre y Soberano de Puebla, a los habitantes del mismo sabed:
+
+Que por la Secretaría del H. Congreso se me ha dirigido el siguiente:
+
+EL HONORABLE CUADRAGESIMO NOVENO CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA,
+
+C O N S I D E R A N D O
+
+Que por oficio número 2488 de fecha 11 de Junio de 1986, el Ciudadano Licenciado Guillermo Jiménez Morales, Gobernador del Estado, sometió a la consideración de este Honorable Cuerpo Colegiado la Iniciativa de la "LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".
+
+Que para cumplir con los trámites que establecen los Artículos 64 fracción I de la Constitución Política Local; 99, 105 y 141 fracción VI de la Ley Orgánica y Reglamentaria del Poder Legislativo, se turnó la Iniciativa a la Comisión de Gobernación, Legislación, Puntos Constitucionales, Justicia y Elecciones, la que en Sesión Pública celebrada en este día presentó su Dictamen en favor de la misma Iniciativa.
+
+Que el porvenir de una Patria y su grandeza futura, está en manos de la niñez y de la adolescencia presentes, pues son éstas sus auténticas riquezas; por eso en todas las épocas, en todos los tiempos, se han de escuchar voces autorizadas en defensa de la infancia, unas para salvaguardar su sano desarrollo y otras para fomentar en ellos el valor de la disciplina y la elevada moral en el trabajo.
+
+Que en tal virtud, es necesario combatir el trabajo prematuro y las malas condiciones en que se desarrolla el mismo, por lo que a los niños se refiere, así como la falta de capacitación y empleo para los jóvenes y adultos, la atención al minusválido y al anciano, la asistencia para combatir el alcoholismo y la farmaco-dependencia, factores que disuelven los principios integrales de la Familia, que constituye la célula básica de la Sociedad.
+
+Que todo lo anterior justifica la necesidad de expedir una Ley de Asistencia Social a través de la cual se establezcan acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+Que estando satisfechos además los requisitos de los Artículos 57 fracción I, 63 fracción I y 79 fracción VI de la Constitución Política Local; 1º, 183, 184 y 185 de la Ley Orgánica y Reglamentaria del Poder Legislativo,
+
+D E C R E T A:
+
+LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+###### ARTICULO 1º.
+
+La presente Ley regirá en todo el Estado de Puebla, sus disposiciones son de orden público e interés social y tiene por objeto crear y establecer las bases y procedimientos de un sistema estatal de asistencia social, que promueva la prestación de los servicios de asistencia social que establece la Ley de Salud del Estado de Puebla y coordine el acceso a los mismos, garantizando la concurrencia y colaboración de los Gobiernos Federal, Estatal y Municipales, así como la participación de los sectores social y privado, según la distribución de competencias que establecen la Ley General de Salud y la Ley sobre el Sistema Nacional de Asistencia Social.
+
+###### ARTICULO 2º.
+
+El Gobierno del Estado en forma prioritaria proporcionará servicios de asistencia social, encaminados al desarrollo integral de la familia, entendida ésta como la célula de la sociedad que provee a sus miembros de los elementos que requieren en las diversas circunstancias de su desarrollo, y también a apoyar, en su formación, subsistencia y desarrollo, a individuos con carencias familiares esenciales no superables en forma autónoma por ellos.
+
+###### ARTICULO 3º.
+
+Para los efectos de esta Ley se entiende por asistencia social, el conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral, así como la protección física, mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva.
+
+###### ARTICULO 4º.
+
+Son sujetos a la recepción de los servicios de asistencia social, preferentemente, los siguientes:
+
+I.- Menores en estado de abandono, desamparo, desnutrición o sujetos a maltrato;
+
+II.- Menores infractores; en cuanto a su readaptación e incorporación a la sociedad y sin menoscabo de lo que establezca la legislación penal o los reglamentos aplicables;
+
+III.- Alcohólicos, farmacodependientes e individuos en condiciones de vagancia;
+
+IV.- Mujeres en períodos de gestación o lactancia;
+
+V.- Ancianos en desamparo, incapacidad, marginación o sujetos a maltrato;
+
+VI.- Inválidos, minusválidos o incapaces por causa de ceguera, debilidad visual, sordera, mudez, alteraciones del sistema neuro-músculo-esquelético, deficiencias mentales, problemas de lenguaje u otras deficiencias;
+
+VII.- Indigentes;
+
+VIII.- Personas que por su extrema ignorancia requieran de servicios asistenciales;
+
+IX.- Víctimas de la comisión de delitos en estado de abandono;
+
+X.- Familiares que dependen económicamente de quienes se encuentren detenidos por causas penales y que queden en estado de abandono;
+
+XI.- Habitantes de los medios rural o urbano que carezcan de lo indispensable para su subsistencia; y
+
+XII.- Personas afectadas por desastres.
+
+###### ARTICULO 5º.
+
+Los servicios de asistencia social en el Estado, que sean de jurisdicción federal, se realizarán a través de las dependencias y entidades de la administración pública federal competentes y de acuerdo a sus atribuciones, de conformidad a las Leyes respectivas, con la participación que se convenga con el Gobierno del Estado.
+
+###### ARTICULO 6º.
+
+Conforme a lo dispuesto en la Ley de Salud, corresponde al Gobierno del Estado, como autoridad local en materia de salubridad general, organizar, operar, supervisar y evaluar la prestación de los servicios de salud en materia de asistencia social, con base a las normas técnicas que al efecto establezca la Secretaría de Salud Pública del Estado, a través del organismo a que se refiere el artículo 15 de esta Ley.
+
+###### ARTICULO 7º.
+
+El Sistema Estatal de asistencia social, que se ubica dentro del sistema estatal de salud, se constituye por las dependencias y entidades de la administración pública estatal y municipal y por las personas físicas o morales de los sectores social y privado que presten servicios de asistencia social, así como por los mecanismos de coordinación de acciones que en esta materia se establezcan.
+
+###### ARTICULO 8º.
+
+Los servicios de salud en materia de asistencia social que se presten como servicios públicos a la población en general a nivel estatal o municipal, por las instituciones de seguridad social y los de carácter social y privado, se seguirán rigiendo por los ordenamientos específicos que le son aplicables y supletoriamente por la presente Ley.
+
+###### ARTICULO 9º.
+
+La coordinación del sistema estatal de asistencia social, estará a cargo del organismo a que se refiere el artículo 15 de esta Ley.
+
+###### ARTICULO 10.
+
+Los integrantes del sistema estatal de asistencia social contribuirán al logro de los siguientes objetivos:
+
+I.- Garantizar la extensión cuantitativa y cualitativa de los servicios, preferentemente en las regiones menos desarrolladas y a los grupos más vulnerables;
+
+II.- Definir criterios de distribución de universos de usuarios, de regionalización, de escalonamiento de los servicios, así como de universalización de cobertura; y
+
+III.- Establecer y llevar a cabo conjuntamente programas interinstitucionales que aseguren la atención integral de los grupos sociales vulnerables.
+
+###### ARTICULO 11.
+
+La Secretaría de Salud Pública del Estado, a través del Organismo, a que se refiere el artículo 15 de esta Ley, tendrá respecto de la asistencia social, como materia de salubridad general, las siguientes atribuciones:
+
+I.- Supervisar la aplicación de las normas técnicas que rijan la prestación de los servicios de salud en materia de asistencia social, así como evaluar los resultados de los servicios asistenciales que se presten conforme a las mismas normas;
+
+II.- Vigilar el estricto cumplimiento de esta Ley, así como las disposiciones que se dicten con base en ella;
+
+III.- Apoyar la coordinación entre Instituciones que prestan servicios de asistencia social y aquellas que prestan servicios educativos para formar y capacitar recursos humanos en la materia;
+
+IV.- Promover la investigación científica y tecnológica que tienda a desarrollar y mejorar la prestación de los servicios asistenciales en materia de salubridad general;
+
+V.- Coordinar un sistema estatal de información en materia de asistencia social;
+
+VI.- Coordinar con los municipios, a través de Convenios, la prestación y promoción de los servicios de salud en materia de asistencia social;
+
+VII.- Concertar acciones con los sectores social y privado, mediante convenios y contratos en los que se regulen la prestación y la promoción de los servicios de salud en materia de asistencia social, con la participación que corresponda a otras dependencias o entidades de la administración pública estatal y municipal;
+
+VIII.- Coordinar, evaluar y dar seguimiento a los servicios de salud que en materia de asistencia social presten las instituciones de seguridad social dependientes del Estado;
+
+IX.- Realizar investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social; y
+
+X.- Las demás que le otorgan las Leyes aplicables.
+
+###### ARTICULO 12.
+
+Para los efectos de esta Ley, se entienden como servicios básicos de salud, en materia de asistencia social, los siguientes:
+
+I.- La atención a personas que, por sus carencias socio-económicas o por problemas de invalidez, o incapacidad, se vean impedidas para satisfacer sus requerimientos básicos de subsistencia y desarrollo;
+
+II.- La atención en establecimientos especializados a menores y ancianos en estado de abandono o desamparo;
+
+III.- La promoción del bienestar del senescente y el desarrollo de acciones de preparación para la senectud;
+
+IV.- El ejercicio de la tutela de los menores en los términos de las disposiciones legales aplicables;
+
+V.- La prestación de servicios de asistencia jurídica y de orientación social, especialmente a menores, ancianos, inválidos, o incapaces sin recursos;
+
+VI.- La realización de investigaciones sobre las causas y efectos de los problemas prioritarios de asistencia social;
+
+VII.- La promoción de la participación consciente y organizada de la población con carencias, en las acciones de promoción, asistencia y desarrollo social que se lleven a cabo en su propio beneficio;
+
+VIII.- El apoyo a la educación y capacitación para el trabajo de personas con carencias socio-económicas;
+
+IX.- La prestación de servicios funerarios;
+
+X.- La prevención de invalidez, o incapacidad y su rehabilitación;
+
+XI.- La orientación nutricional y la alimentación complementaria a personas de escasos recursos y a población de zonas marginadas;
+
+XII.- La promoción del desarrollo, el mejoramiento y la integración social y familiar;
+
+XIII.- El desarrollo comunitario en localidades y zonas social y económicamente marginadas;
+
+XIV.- El establecimiento y manejo del sistema estatal de información básica en materia de asistencia social;
+
+XV.- La colaboración y auxilio a las autoridades laborales competentes, en la vigilancia y aplicación de la legislación del trabajo para los menores;
+
+XVI.- El fomento de acciones de paternidad responsable, que propicien la preservación de los derechos de los menores, la satisfacción de sus necesidades y su salud física y mental; y
+
+XVII.- Los análogos y conexos a los anteriores que tiendan a modificar y mejorar las circunstancias de carácter social que impidan al individuo su desarrollo integral.
+
+###### ARTICULO 13.
+
+Se consideran de manera enunciativa servicios básicos de salud de atención local, en materia de asistencia social:
+
+I.- Los que ofrecen en el ámbito estatal, el organismo y el instituto de asistencia pública;
+
+II.- Los que otorgan las instituciones de asistencia privada en la Entidad;
+
+III.- Los que proporcionan los Ayuntamientos en esta materia;
+
+IV.- Aquéllos que por sus características requieran de atención especial en la localidad;
+
+V.- Los demás que otras disposiciones legales señalen.
+
+###### ARTICULO 14.
+
+La operación de los servicios básicos de salud de atención local en materia de asistencia social, se sujetará a la normatividad técnica que emita la Secretaría de Salud Pública del Estado.
+
+### CAPITULO SEGUNDO. DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE PUEBLA
+
+###### ARTICULO 15.
+
+El Gobierno del Estado contará con un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que se denominará Sistema para el Desarrollo Integral de la Familia del Estado, el cual será el Organismo rector de la asistencia social y tendrá como objetivos la promoción de la asistencia social la prestación de servicios en este campo, procurar la interrelación sistemática de acciones que en la materia lleven a cabo las instituciones públicas y privadas, así como la realización de las demás acciones que establece esta Ley y las disposiciones legales aplicables.
+
+###### ARTICULO 16.
+
+Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla.
+
+###### ARTICULO 17.
+
+El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
+
+I.- Promover y prestar servicios de asistencia social;
+
+II.- Apoyar el desarrollo de la familia y de la comunidad;
+
+III.- Realizar acciones de apoyo educativo para la integración social y de capacitación para el trabajo a los sujetos de la asistencia social;
+
+IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
+
+V.- Coordinarse con el Instituto de Asistencia Pública del Estado y con las Instituciones de Asistencia Privada para la elaboración de programas de asistencia social;
+
+VI.- Fomentar y apoyar las actividades que lleven a cabo las instituciones de asistencia, las asociaciones civiles y a todo tipo de entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social;
+
+VII.- Crear y operar establecimientos de asistencia social en beneficio de menores en estado de abandono, de ancianos desamparados y de inválidos o incapaces sin recursos;
+
+VIII.- Llevar a cabo acciones en materia de prevención de invalidez, o incapacidad y de rehabilitación de inválidos, en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+
+IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Estado y de los Municipios;
+
+X.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
+
+XI.- La Secretaría de Salud Pública del Estado, a través del Organismo elaborará y operará el sistema estatal de información básica en materia de asistencia social;
+
+XII.- Prestar servicios de asistencia jurídica y de orientación social a menores, ancianos e inválidos o incapaces, sin recursos;
+
+XIII.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
+
+XIV.- Poner a disposición del Ministerio Público los elementos a su alcance para la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+
+XV.- Realizar estudios e investigaciones en materia de invalidez, o incapacidad;
+
+XVI.- Participar en programas de rehabilitación y educación especial;
+
+XVII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesario para satisfacer los requerimientos de autonomía de los inválidos o incapaces; y
+
+XVIII.- Las demás que establezcan las disposiciones aplicables en la materia.
+
+###### ARTICULO 18.
+
+El Organismo en la prestación de servicios y en la realización de acciones de asistencia social se coordinará con dependencias y entidades de la administración pública federal, estatal y municipal, así como con personas físicas y morales de los sectores social y privado dentro del ámbito de competencia que a cada una corresponda, en esta materia.
+
+###### ARTICULO 19.
+
+En caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen (sic) daño a la población, el organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
+
+###### ARTICULO 20.
+
+La Secretaría de Salud Pública del Estado, a través del Organismo, promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de invalidez o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales.
+
+Para este efecto, el organismo deberá observar una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del sector salud y de los sectores social y privado.
+
+###### ARTICULO 21.
+
+El patrimonio del Organismo se integrará con:
+
+I.- Los derechos y bienes muebles e inmuebles que actualmente le pertenecen y los que en el futuro adquiera;
+
+II.- Los subsidios, subvenciones, aportaciones, bienes y demás ingresos, que los Gobiernos Federal, Estatal y Municipales; el Sistema Nacional para el Desarrollo Integral de la Familia, entidades paraestatales e instituciones públicas y privadas le otorguen o destinen;
+
+III.- Las aportaciones, donaciones, legados y demás liberalidades que reciba de personas físicas o morales;
+
+IV.- Los rendimientos, recuperaciones, derechos y demás ingresos que le generen sus inversiones, bienes y operaciones;
+
+V.- Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley; y
+
+VI.- En general, los demás bienes, derechos e ingresos que se obtengan por cualquier título legal.
+
+###### ARTICULO 22.
+
+Para el estudio, planeación y despacho de los asuntos que le competen, el organismo contará con los siguientes órganos superiores:
+
+a).- Patronato;
+
+b).- Presidencia del Sistema; y
+
+c).- Dirección General.
+
+###### ARTICULO 23.
+
+El patronato será la máxima autoridad del Organismo y se integrará con un Presidente y trece vocales uno y otros designados y removidos libremente por el Gobernador del Estado. Los Vocales serán seis secretarios de la administración pública estatal, cuyas funciones se encuentre relacionadas con los programas del Sistema D.I.F.; un representante por cada uno de los sectores obrero, campesino y popular; dos representantes del sector privado; el Director General del Sistema que será el Secretario del Patronato y el Secretario de Finanzas del Gobierno del Estado que fungirá como tesorero del Patronato.
+
+Los miembros integrantes del patronato no recibirán retribución, emolumento o compensación alguna por su participación.
+
+###### ARTICULO 24.
+
+El patronato contará con las siguientes facultades:
+
+I.- Emitir opinión y recomendaciones sobre los planes de labores, presupuestos, informes y estados financieros anuales del Organismo;
+
+II.- Apoyar las actividades del Organismo y formular sugerencias tendientes a su mejor desempeño;
+
+III.- Contribuir a la obtención de recursos que permitan el incremento del patrimonio del Organismo y el cumplimiento cabal de sus objetivos;
+
+IV.- Conocer y aprobar en su caso, los informes anuales del Presidente del patronato y del Director General;
+
+V.- Aprobar el Reglamento Interior del Organismo;
+
+VI.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+###### ARTICULO 25.
+
+. El patronato celebrará una sesión ordinaria cada seis meses y las extraordinarias que se requieran a juicio de su Presidente.
+
+Para la validez de las sesiones deberá contarse con la asistencia de la mitad más uno de sus miembros y las resoluciones se adoptarán por mayoría de votos, teniendo el Presidente voto de calidad en caso de empate.
+
+###### ARTICULO 26.
+
+Corresponde a la Presidencia del patronato:
+
+I.- Representar legal y administrativamente al Organismo, pudiendo delegar esta facultad en el Director General del Sistema;
+
+II.- Aprobar los programas de trabajo, presupuestos, informes de actividades y estados financieros anuales;
+
+III.- Aprobar los manuales de procedimientos y de servicios al público y los convenios que se celebren con dependencias y entidades públicas o privadas;
+
+IV.- Nombrar y remover libremente al Director General del Organismo y al Contralor Interno;
+
+V.- Designar y remover a propuesta del Director General a los demás servidores públicos que laboren en el Organismo;
+
+VI.- Designar a los asesores que sean necesarios, para el mejor desarrollo de las actividades del Organismo;
+
+VII.- Solicitar al Contralor Interno los análisis financieros y exigirle la vigilancia del correcto ejercicio del presupuesto;
+
+VIII.- Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades, así como los Proyectos de inversión;
+
+IX.- Rendir al patronato un informe anual de labores;
+
+X.- Vigilar el exacto cumplimiento de los acuerdos del patronato;
+
+XI.- Suscribir los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+XII.- Autorizar la creación, supresión o transferencia de las unidades administrativas que se requieran para el mejor funcionamiento del Organismo;
+
+XIII.- Las demás que sean necesarias para el ejercicio de las facultades anteriores.
+
+###### ARTICULO 27.
+
+El Director General del Organismo será ciudadano mexicano por nacimiento, mayor de 30 años de edad, en pleno ejercicio de sus derechos y con experiencia en materia administrativa y asistencia social.
+
+###### ARTICULO 28.
+
+Son facultades del Director General:
+
+I.- Ejecutar los acuerdos y disposiciones del patronato y de la presidencia del mismo;
+
+II.- Presentar al patronato y a su presidente, las propuestas, proyectos e informes que se requieran para el eficaz desempeño de las actividades del Organismo;
+
+III.- Presentar a la presidencia del patronato, para su conocimiento y aprobación, los planes del trabajo, presupuestos, informes de actividades y estados financieros bimestrales y anuales del Organismo;
+
+IV.- Proponer a la presidencia del patronato la designación y remoción de los servidores públicos que laboran en el Organismo;
+
+V.- Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la presidencia del patronato;
+
+VI.- Celebrar, con aprobación de la Presidencia del Patronato los convenios, contratos y actos jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
+
+VII.- Actuar como apoderado del Organismo con facultades generales para actos de administración y para pleitos y cobranzas, pudiendo ejercer actos de dominio con autorización expresa de la Presidencia del Patronato.
+
+###### ARTICULO 29.
+
+El Contralor Interno tendrá las siguientes atribuciones:
+
+I.- Vigilar que la administración de los recursos y el funcionamiento del Organismo, se hagan de acuerdo con lo que dispongan esta Ley y los programas y presupuestos aprobados;
+
+II.- Practicar las auditorías de los estados financieros y las de carácter administrativo que se requieran;
+
+III.- Recomendar al Presidente del Patronato y al Director General del Organismo, las medidas preventivas y correctivas que sean convenientes para el mejor funcionamiento del propio Organismo;
+
+IV.- Asistir a las sesiones del Patronato con voz pero sin voto; y
+
+V.- Las demás que otras leyes le atribuyan y las que sean necesarias para el ejercicio de las anteriores.
+
+###### ARTICULO 30.
+
+El Contralor Interno del Organismo será designado por la presidencia del Patronato y será ciudadano mexicano por nacimiento, mayor de 30 años.
+
+###### ARTICULO 31.
+
+El Organismo deberá emitir opinión sobre el otorgamiento de subsidios, por parte del Gobierno, a instituciones públicas o privadas que actúen en el campo de asistencia social.
+
+###### ARTICULO 32.
+
+Aquellos Municipios del Estado que cuenten, a juicio del Cabildo, con la capacidad de recursos humanos, materiales, financieros y cuyas necesidades en el campo de la asistencia social, lo requieran, constituirán organismos públicos descentralizados con personalidad jurídica y patrimonio propios, que se denominarán sistema municipal-dif, mismos que ejecutarán en su jurisdicción los programas y acciones que corresponden al sistema estatal para el desarrollo integral de la familia.
+
+Dichos Organismos paramunicipales se organizarán de acuerdo con los lineamientos y objetivos señalados en esta Ley al sistema estatal para el desarrollo integral de la familia.
+
+###### ARTICULO 33.
+
+En los Municipios cuya condición socio-económica y política no permita, a juicio del Cabildo, la creación de un organismo paramunicipal encargado de llevar a cabo en su jurisdicción, las tareas asistenciales y de beneficio social, se integrarán Unidades Administrativas D.I.F., del Ayuntamiento, bajo la dirección de un Consejo formado por el Presidente Municipal, el Secretario del Ayuntamiento y los miembros necesarios de los sectores público, social y privado de la Comunidad.
+
+Las Unidades Administrativas D.I.F., del Ayuntamiento, se ajustarán a los objetivos y programas básicos del Sistema Estatal para el Desarrollo Integral de la Familia.
+
+###### ARTICULO 34.
+
+El sistema estatal para el desarrollo integral de la familia, a través de la Presidencia del Patronato, designará a un Coordinador General de los Organismos Dif-Municipales, que se encargará de prestarles asistencia técnica y administrativa y convocarlos a las reuniones generales y regionales que sean necesarias, para la implementación, desarrollo y evaluación de los programas institucionales, acciones que permitirán establecer una efectiva coordinación de sus actividades y fijar los criterios, políticas y objetivos definidos por los sistemas nacional y estatal del dif.
+
+###### ARTICULO 35.
+
+Las relaciones del Organismo con sus trabajadores, se regirán por la Ley de los Trabajadores al Servicio de los Poderes del Estado.
+
+Se considerarán trabajadores de confianza del Organismo a los integrantes del Patronato, al Presidente del mismo, al Director General, al Contralor Interno, al Coordinador General de los Organismos D.I.F.-Municipales y a los demás que realicen funciones de dirección, inspección, vigilancia y fiscalización, cuando tengan carácter general.
+
+###### ARTICULO 36.
+
+Los trabajadores del Organismo estarán incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio de los Poderes del Estado.
+
+### CAPITULO TERCERO. DE LA COORDINACION Y CONCERTACION
+
+###### ARTICULO 37.
+
+Con el propósito de asegurar la adecuada coordinación de acciones en el ámbito de la prestación de los servicios de salud en materia de asistencia socia (sic) a nivel estatal y municipal y con el objeto de favorecer prioritariamente a los grupos sociales más vulnerables, la Secretaría de Salud Pública del Estado con la participación del Organismo, celebrará convenios o acuerdos, dentro del marco del convenio único de desarrollo, con las entidades y dependencias de la administración pública federal, en los términos de la Ley de Planeación y de la Ley General de Salud.
+
+###### ARTICULO 38.
+
+Con el objeto de ampliar la cobertura y la calidad de los servicios de salud en materia de asistencia social a nivel estatal y municipal, la Secretaría de Salud Pública del Estado, a través del Organismo, promoverá la celebración de convenios entre éste y los Gobiernos Municipales, a fin de:
+
+I.- Establecer programas conjuntos;
+
+II.- Promover la participación de los dos niveles de Gobierno en la aportación de recursos financieros;
+
+III.- Distribuir y coordinar acciones entre las partes, de manera proporcional y equitativa;
+
+IV.- Coordinar y proponer programas para apoyo de la beneficencia pública y de la asistencia privada estatal y municipal; y
+
+V.- Fomentar el patrimonio de los sistemas municipales para el desarrollo integral de la familia.
+
+###### ARTICULO 39.
+
+La Secretaría de Salud Pública del Estado directamente o a través del Organismo, promoverá ante los Ayuntamientos de la Entidad el establecimiento de mecanismos idóneos que permitan una interrelación sistemática a fin de conocer las demandas de servicios básicos de salud en materia de asistencia social, para los grupos sociales vulnerables y coordinar su oportuna atención.
+
+###### ARTICULO 40.
+
+La Secretaría de Salud Pública del Estado, directamente o a través del Organismo, con la participación de las dependencias y entidades estatales que corresponda, propiciará la concertación de acciones en materia de asistencia social con los sectores social y privado, mediante la celebración de convenios o contratos que, en todo caso, deberán ajustarse a las siguientes bases:
+
+I.- Definición de las responsabilidades que asuman los integrantes de los sectores social y privado;
+
+II.- Determinación de las acciones de orientación, estímulo y apoyo que llevará a cabo la Secretaría de Salud Pública por conducto del Organismo;
+
+III.- Fijación del objeto, materia y alcances jurídicos de los compromisos que asuman las partes con reserva de las funciones de autoridad que competan al Gobierno del Estado; y
+
+IV.- Expresión de las demás estipulaciones que de común acuerdo establezcan las partes.
+
+###### ARTICULO 41.
+
+La Secretaría de Salud Pública del Estado con el objeto de ampliar la cobertura de los servicios de salud de asistencia social, fincados en la solidaridad ciudadana, promoverá en la entidad, a través del Organismo, la creación de instituciones de asistencia privada, fundaciones, asociaciones civiles y otras similares, las que, con sus propios recursos o con liberalidades de cualquier naturaleza que aporte la sociedad en general, presten dichos servicios, con sujeción a los Ordenamientos que la rijan.
+
+La Secretaría de Salud Pública del Estado directamente o a través del Organismo, aplicará y difundirá las normas técnicas que dichas instituciones deberán observar en la prestación de los servicios de salud en materia de asistencia social. El Organismo les prestará la asesoría técnica necesaria y los apoyos conducentes.
+
+###### ARTICULO 42.
+
+A propuesta del Organismo, el Gobierno del Estado a través de la Secretaría de Salud Pública Estatal, promoverá, ante las autoridades competentes, el otorgamiento de estímulos fiscales, para inducir las acciones de los sectores social y privado en la prestación de servicios de salud en materia de asistencia social.
+
+###### ARTICULO 43.
+
+La Secretaría de Salud Pública del Estado a través del Organismo, promoverá la organización y participación activa de la comunidad en la atención a aquéllos casos de salud, que por sus características requieran de acciones de asistencia social, basadas en el apoyo y solidaridad social, así como el concurso coordinado de las dependencias y entidades públicas, específicamente en el caso de comunidades afectadas de marginación.
+
+La Secretaría de Salud Pública del Estado y el Organismo pondrán especial atención a los casos de menores en estado de abandono, inválidos o incapaces física o mentalmente.
+
+###### ARTICULO 44.
+
+La Secretaría de Salud Pública del Estado directamente o a través del Organismo, promoverá la organización y participación de la comunidad para que, en base al apoyo y solidaridad sociales, coadyuve a la prestación de servicios asistenciales para el desarrollo integral de la familia.
+
+Dicha participación, será a través de las siguientes acciones:
+
+I.- Promoción de hábitos de conducta y de valores que contribuyan a la protección de los grupos vulnerables, a su superación y a la prevención de invalidez;
+
+II.- Incorporación, como auxiliares voluntarios, en la realización de tareas básicas de asistencia social y participación en determinadas actividades de operación de los servicios de salud en materia de asistencia social, bajo la dirección y control de las autoridades correspondientes;
+
+III.- Notificación de la existencia de personas que requieran de asistencia social cuando éstas se encuentren impedidas de solicitar auxilio por sí mismas;
+
+IV.- Formulación de sugerencias para mejorar los servicios de asistencia social; y
+
+V.- Otras actividades que coadyuven a la protección de la salud.
+
+T R A N S I T O R I O S:
+
+###### ARTICULO PRIMERO.
+
+Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se Abroga el Decreto por el que se creó el Organismo Descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, de fecha 31 de Octubre de 1984, publicado en el periódico Oficial el 9 de Noviembre del mismo año, así como las demás disposiciones que se opongan al presente Ordenamiento.
+
+###### ARTICULO TERCERO.
+
+El Organismo que se menciona en el Artículo 15 de esta Ley, es el subrogatario de todos los derechos y obligaciones del diverso del mismo nombre que desaparece con motivo de la abrogación del Decreto que se menciona en el Artículo Transitorio que antecede.
+
+###### ARTICULO CUARTO.
+
+En aquéllos lugares en que no se hayan constituido los Sistemas Municipales DIF o integrado las Unidades Administrativas DIF de los Ayuntamientos, continuarán operando los Comités Municipales dependientes del Sistema Estatal, bajo los lineamientos que señale la Presidencia del Patronato.
+
+###### ARTICULO QUINTO.
+
+Los bienes muebles, inmuebles, acciones y derechos que integran el patrimonio de los Comités Municipales son propiedad del Sistema Estatal, quien al momento de constituirse o integrarse los Organismos DIF Municipales, decidirá el destino que ha de darse a dicho patrimonio.
+
+EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los Veinticuatro días del mes de Julio de Mil Novecientos Ochenta y Seis.- Diputada Presidente.- Lic. Lidia Zarrazaga Molina.- Rúbrica.- Diputado Secretario.- Lic. Jesús Antonio Carlos Hernández.- Rúbrica.- Diputado Secretario.- Dr. Angel Ricaño Bustillos.- Rúbrica.
+
+Por tanto mando se imprima, publique y circule para sus efectos.- Dado en el Palacio del Poder Ejecutivo a los veinticinco días del mes de julio de mil novecientos ochenta y seis.- El Gobernador Constitucional del Estado.- Lic. Guillermo Jiménez Morales.- Rúbrica.- El Secretario de Gobernación.- Lic. Amado Camarillo Sánchez.- Rúbrica.
