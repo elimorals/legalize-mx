@@ -4,7 +4,7 @@ identifier: "NLE-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-7509
 country: "mx"
 rank: "ley"
 publication_date: "1993-10-13"
-last_updated: "1999-12-29"
+last_updated: "2000-10-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 13 de octubre de 1993.
 
@@ -943,9 +943,9 @@ Si el hijo pensionado llegare a los dieciocho años y no pudiere mantenerse con 
 
 En tal caso, el hijo estará obligado a someterse a los reconocimientos y tratamientos que prescriba el Instituto, así como a las investigaciones que en cualquier tiempo se ordenen para certificar su estado de invalidez. En caso contrario, se cancelará el disfrute de esta pensión.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2000)</small>
 
-Los hijos mayores de dieciocho años hasta la edad de veinticinco continuarán percibiendo la pensión concedida en tanto reúnan los requisitos señalados en el artículo 5, fracción VI incisos c) y d) del presente ordenamiento.
+Los hijos mayores de dieciocho años hasta la edad de veinticinco continuarán percibiendo la pensión concedida en tanto reúnan los requisitos señalados en el artículo 5 fracción VI, inciso c) del presente ordenamiento.
 
 La falta de comprobación de alguno de estos requisitos cuando lo solicite el Instituto, será causa fundada para cancelar el disfrute de la pensión.
 
@@ -1630,3 +1630,7 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Para los efectos de lograr la plena vigencia de los artículos 25 fracción VII y 120 bis-2 las entidades públicas entregarán el 1% el primer año a partir de Enero de 1999, y se aumentará en un 0.5% cada año hasta completar el 5% a que se refieren dichos artículos.
 
 TERCERO.- Para el debido cumplimiento de los artículos que se adicionan, el Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, deberá expedir el Reglamento de Préstamos para Vivienda, en un plazo de 30 días contados a partir de la entrada en vigor el presente Decreto, debiendo publicar dicho reglamento en el Periódico Oficial del Estado.
+
+P.O. 16 DE OCTUBRE DE 2000.
+
+Artículo Único.- Este decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
