@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-pensiones-a-empleados-municipales-18902"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-02-09"
-last_updated: "2000-11-13"
+last_updated: "2000-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE PENSIONES A EMPLEADOS MUNICIPALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Puebla, el martes 9 de febrero de 1993.
 
@@ -209,7 +209,7 @@ Si un Funcionario, Empleado o Trabajador del Municipio de Puebla estando en serv
 
 ###### ARTICULO 18.
 
-Si el interesado no gestiona su jubilación dentro de los 2 años siguientes a la fecha en la que haya dejado de prestar su servicio al Ayuntamiento, prescribirá su derecho para recibir la pensión que le conceden las disposiciones de este reglamento.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2000)
 
 T R A N S I T O R I O S
 
@@ -236,3 +236,9 @@ SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMI
 TERCERO.- Que se deroguen todas las disposiciones reglamentarias que se opongan a las presentes reformas, las que entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 CUARTO.- Que se giren los oficios correspondientes para su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2000.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+TERCERO.- Se mande publicar el presente Dictamen en el Periódico Oficial del Estado de Puebla.
