@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1989-06-19"
+last_updated: "1989-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 29 DE DICIEMBRE DE 1989.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -307,7 +307,13 @@ XXII.- Integrar la información necesaria para la formulación del informe que, 
 
 XXIII.- Asesorar a los Municipios del Estado en la instrumentación de métodos y sistemas de planeación, programación, presupuestación, evaluación e informática.
 
-XXIV.- Las demás que le señalen las leyes y reglamentos vigentes.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXIV.- Autorizar en consulta con la Secretaría de la Contraloría General del Estado, los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades no incorporadas al presupuesto de egresos, así como emitir las normas e instructivos que regulen el registro contable del referido gasto y consolidar los estados financieros que emanen de las contabilidades señaladas.
+
+> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+XXV.- Las demás que le señalen las leyes y reglamentos vigentes.
 
 ###### ARTICULO 25.
 
@@ -321,7 +327,9 @@ III.- Determinar los criterios y montos de los estímulos fiscales, estudiar y p
 
 IV.- Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal que prevea la Secretaría de Planeación del Desarrollo, la utilización del crédito público y la sanidad financiera de la administración pública estatal.
 
-V.- Registrar la contabilidad general del Gobierno del Estado.
+> <small>(REFORMADA, B.O. 29 DE DICIEMBRE DE 1989)</small>
+
+V.- Registrar la contabilidad general del Gobierno del Estado, con excepción de la contabilidad de las entidades de la Administración Pública Paraestatal no incorporadas al presupuesto de egresos del Estado, y consolidar los estados financieros que emanen de las contabilidades de las entidades incorporadas en el referido presupuesto.
 
 VI.- Registrar las operaciones en que se haga uso del crédito público.
 
@@ -1114,3 +1122,13 @@ LAS ATRIBUCIONES QUE SE LE CONFIERAN A LA OFICIALÍA MAYOR EN CUALQUIER ORDENAMI
 ###### ARTICULO TERCERO.
 
 LA PRESENTE LEY ENTRARÁ EN VIGOR AL DÍA SIGUIENTE DE SU PUBLICACIÓN EN EL BOLETÍN OFICIAL DEL GOBIERNO DEL ESTADO.
+
+B.O. 29 DE DICIEMBRE DE 1989.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor el 1o. de enero de 1990, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan los Artículos 13, del Decreto que crea un organismo público descentralizado denominado el Hospital Infantil del Estado de Sonora; 16 del Decreto que crea el Centro Ecológico de Sonora; 15 del Decreto que crea el Instituto de Acuacultura del Estado de Sonora y 13 del Decreto que instituye a Radio Sonora como un organismo descentralizado, publicados en el Boletín Oficial del Gobierno del Estado, con fechas 18 de junio de 1984, 24 de diciembre de 1984, 27 de diciembre de 1984 y 26 de agosto de 1985, respectivamente.
