@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1982-07-31"
+last_updated: "1983-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE JULIO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE ABRIL DE 1983.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -291,121 +291,177 @@ Las sociedades, agrupaciones, empresas o personas físicas que exploten bosques 
 
 Para los efectos de este Impuesto se tomarán en cuenta las definiciones que sobre las distintas clases de predio y construcciones contiene la Ley de Catastro.
 
-### CAPITULO II. Impuesto Sobre Transmisión de Dominio
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1980)</small>
+### CAPITULO II. Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 28.
 
-Son objeto del Impuesto sobre transmisión de Dominio:
+Están obligados al pago de este impuesto las personas físicas, morales o unidades económicas que adquieren o enajenen inmuebles que consistan en el suelo y en las construcciones adheridas a él, ubicados en el Territorio del Estado, así como los derechos reales o posesorios sobre los mismos, independientemente del nombre que le asigne la Ley que regule el acto que les de origen.
 
-I.- Los Contratos compra-venta, ó cualesquiera otros por los que se transmitan derechos reales o posesorios sobre bienes inmuebles;
+Para efectos de este artículo el objeto principal de este impuesto es la adquisición de inmuebles y los derechos sobre los mismos y secundariamente se gravará la Transmisión de Dominio y los derechos sobre inmuebles, cuando por acuerdo expreso o tácito de las partes el enajenante asuma la responsabilidad de pagarlo y cuando por determinación de la Ley o por resolución de las autoridades del trabajo, judiciales o administrativas éste se vea obligado al pago.
 
-II.- Los actos constitutivos de fideicomisos, los actos de ejecución de los mismos, y la cesión de Derechos de Fideicomisarios, todos estos sobre bienes inmuebles, y
+En ningún caso se gravará dos veces una misma operación con el impuesto a que se refiere el presente capítulo, por lo que si se paga por la adquisición no se gravará la transmisión o a la inversa, a excepción del contrato de permuta, en virtud de que mediante el se realizan dos adquisiciones.
 
-III.- La adquisición de inmuebles o derechos reales por prescripción.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 29.
 
-Son sujetos de este Impuesto las personas o unidades económicas que transmitan contractualmente los derechos reales o posesorios y cada uno de los permutantes por lo que hace al inmueble cuya propiedad o posesión transmita. En los casos de adjudicación, prescripción, donación o cesión de derechos hereditarios y también en los casos de compra a fraccionadoras debidamente autorizadas, el causante será el adquirente. El Fideicomitente lo será en los casos de constitución o ejecución de fideicomisos; el fideicomisario en los casos de cesión de derechos de fideicomiso.
+No causan este impuesto:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+I.- La adquisición o enajenación que efectúen las instituciones de asistencia y beneficencia pública y privadas, que operen bajo la protección de la Ley de la materia.
+
+II.- Las adquisiciones o enajenaciones que realicen las instituciones públicas de enseñanza y de establecimientos propiedad de los particulares que cuenten con autorización o reconocimiento oficial de estudios en los términos de la Ley Federal de Educación, por los bienes que sean destinados exclusivamente para sus fines educativos.
+
+III.- Las adquisiciones que se realicen para constituir o al liquidar la sociedad conyugal, así como el acto mediante el cual se cambian las capitulaciones matrimoniales. No queda incluida en esta fracción, la trasmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
+
+IV.- Las adquisiciones o enajenaciones efectuadas por la Federación los Estados, incluyendo al Distrito Federal y los Municipios, así como los organismos descentralizados de los mismos, estos últimos únicamente estarán exentos sobre los inmuebles destinados a promover la vivienda de interés social.
+
+V.- Las adquisiciones realizadas por las asociaciones y partidos políticos, para el uso exclusivo de sus fines. No quedan incluidas en esta fracción las enajenaciones en caso de disolución definitiva de dichas sociedades, aún cuando los adquirentes sean miembros de las mismas, excepto cuando el que adquiera haya aportado el inmueble a la asociación en liquidación.
+
+VI.- Las Naciones Extranjeras en caso de reciprocidad.
+
+VII.- Las adquisiciones realizadas en los términos de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 30.
 
-Para los efectos de este Impuesto, la base gravable, tratándose de bienes inmuebles urbanos y rústicos será el valor que resulte más elevado de los valores fiscal, contractual o de avalúo que no podrá tener antigüedad mayor de un año previo a la fecha en que se realice la operación gravable. Tratándose de remates de inmuebles urbanos o rústicos practicados por las autoridades judiciales, del trabajo o administrativas, la base gravable será el valor que resulte más elevado entre el fiscal, el pericial que sirvió de base al remate y el comercial que practique una Institución de Crédito autorizada, que no podrá tener una antigüedad mayor de un año previo a la fecha de escrituración.
+La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, en valor fiscal y el del avalúo que al efecto practique la Secretaría de Finanzas, después de reducirlo en 5 veces al salario mínimo general, elevado al año que rija en el Estado en el momento en que se realice el acto generador.
+
+Para los fines de este Capítulo, se considera que el usufructo y la nuda propiedad tienen un valor, cada uno de ellos, del 50% del valor de la propiedad.
+
+Cuando entre la fecha de adquisición y la fecha en que sea exigible el pago, haya habido diferimiento del mismo a la base determinada para el pago conforme al párrafo anterior, se aplicará el factor que anualmente establezca el Congreso de la Unión.
+
+La reducción a que se refiere el párrafo anterior, se realizará conforme a lo siguiente:
+
+I.- Se considerarán como un sólo inmueble, los bienes que sean o resulten colindantes, adquiridos por la misma persona en un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sale vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El Adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien se formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará en su caso, la diferencia de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
+
+II.- Cuando se adquiere parte de la propiedad o de los derechos de un inmueble, a que se refiere al artículo 34 de esta ley, la reducción se hará en la proporción que corresponda a dicha parte.
+
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
+
+IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos aún cuando se utilicen para otros fines.
+
+Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará sobre el valor de cada uno de ellos, con excepción de los hoteles.
+
+Cuando con motivo de la adquisición, el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio, el impuesto se calculará con base en el avalúo que practique persona autorizada por la Secretaría de Finanzas. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el del avalúo a que se refiere este párrafo.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 31.
 
-Este impuesto se causará y pagará conforme a las tarifas que establezca la Ley de Ingresos del Estado.
+El impuesto sobre Adquisición de Inmuebles, o transmisión de dominio a pagar, será el que resulte de aplicar a la base gravable la tasa que al efecto apruebe anualmente el Congreso del Estado, la que en todo caso deberá ser la misma que se establece como requisito en la Legislación Federal que regula la materia del Impuesto de Adquisición de Inmuebles.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 32.
 
-Este impuesto deberá pagarse por los sujetos del mismo, dentro de los treinta días siguientes a la fecha de la escritura, adjudicación, acto o contrato respectivo, mediante la presentación de declaración que se menciona en el artículo 39 de esta Ley.
+Los sujetos obligados al pago de este impuesto, deberán enterarlo en la Recaudación de Rentas del Estado, en cuya jurisdicción se encuentre ubicado el inmueble, dentro de los 30 días siguientes de la fecha en que se realice el acto generador, mediante declaración utilizando las formas que al efecto apruebe la Secretaría de Finanzas.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+La falta de formas oficiales no exime al contribuyente de la obligación de enterar el pago en el plazo señalado en el párrafo que antecede.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 33.
 
-Los adquirentes contractuales de derechos reales o posesorios sobre bienes inmuebles, así como el donante o el cedente de derechos hereditarios, las fraccionadoras y el fiduciario y fideicomisario en los casos de Fideicomiso, serán responsables solidarios del pago de este impuesto, y el bien quedará afecto preferentemente a dicho fin.
+Los contribuyentes que estén obligados al pago de este impuesto no podrán ser sujetos de impuestos adicionales estatales, ni municipales, por lo que respecta al pago de dicho impuesto.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 34.
 
-El Impuesto sobre Transmisión de Dominio no se causa:
+Esta ley reconoce como fuentes que originan la adquisición de inmuebles o transmisión de dominio así como derechos sobre los mismos, los siguientes actos:
 
-I.- En los casos en que la transmisión se efectúe por herencia;
+I.- Todo acto por el que se transmita la propiedad incluyendo la donación, la que ocurra por causa de muerte y la aportación a toda clase de asociaciones.
 
-II.- En los casos de transmisión de derechos hereditarios a título contractual, entre coherederos.
+II.- La compraventa en la que el vendedor se reserve la propiedad aún cuando la transferencia de ésta opere con posterioridad.
 
-III.- En los casos de constitución, disolución o liquidación de sociedad conyugal.
+III.- La promesa de adquirir, cuando se pacte que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
-IV.- Por la aportación a sociedades o asociaciones o por distribución del haber social entre los socios.
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
 
-V.- Por división de la cosa común entre copropietarios siempre que las partes que correspondan a los partícipes no excedan de sus respectivas porciones.
+V.- Fusión de Sociedades.
 
-VI.- Por recisión (sic) de contrato, siempre que la operación se hubiere consignado en escritura pública, o en contrato privado registrado con anterioridad.
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-VII.- En los casos de expropiación.
+VII.- Constitución de usufructo, transmisión de éste o de la nuda propiedad, así como la extinción del usufructo temporal.
 
-VIII.- En los casos de actos constitutivos de fideicomiso de administración, de garantía o testamentario.
+VIII.- Prescripción positiva.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1978)</small>
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
 
-ARTICULO 34 BIS.- Están exentos de pago del Impuesto sobre Transmisión de Dominio, los actos de ejecución de Fideicomiso cuando los Derechos reales o posesorios que afecten, se transmitan al mismo sujeto señalado en el acto constitutivo de este fideicomiso como fideicomitente.
+X.- Enajenación a través de fideicomisos, en los términos del Código Fiscal de la Federación.
+
+XI.- Cualesquiera otro de naturaleza análoga a las anteriores.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 35.
 
-En los contratos con reserva de dominio, el Impuesto se causará como si fueran puros y simples.
+Las partes que celebren alguno de los actos a que se refiere el Artículo anterior son recíprocamente responsables solidarios del pago de este Impuesto, según sea el caso en los términos del artículo 28 de la presente ley, y el bien quedará afecto preferentemente a este fin.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 36.
 
-Para los efectos del pago del Impuesto en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de bienes ubicados en éste, el adquiriente dentro de los sesenta días siguientes, dará aviso por escrito acompañando copia de la adquisición o contrato, a las autoridades Fiscales en cuya jurisdicción se encuentren ubicados los inmuebles.
+Este Impuesto deberá pagarse dentro del plazo que establece el artículo 32 de esta ley, aún cuando el contrato se celebre con reserva de dominio o la venta sea a plazo.
+
+El pago del impuesto deberá hacerse dentro del mismo plazo cuando se realice cualquiera de los supuestos que a continuación se señalan:
+
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
+
+II.- A la adjudicación de los bienes de la sucesión o a los tres añps (sic) de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado e cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos, el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquiriente.
+
+III.- Tratándose de adquisiciones efectuadas a través de fideicomiso, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
+
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
+
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en registro público, para poder surtir efectos ante terceros en los términos del derecho común; y si no están sujetos a esta formalidad, adquirirse el dominio conforme a las leyes.
+
+El contribuyente podrá pagar el impuesto por anticipado.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 37.
 
-Las autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso por anticipado, a la autoridad fiscal del Estado que se verificará remate de inmuebles y practicado éste enviarán copia certificada de la diligencia o acto del remate.
+Las Autoridades Judiciales, del Trabajo o Administrativas, están obligadas a dar aviso anticipado a la Secretaría de Finanzas del Estado, que se verificará remate de inmuebles y practicado éste, deberán remitirle copia certificada de la Diligencia de Remate y Adjudicación.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 38.
 
-Los Notarios y Jueces no autorizarán escrituras, actos o contratos de transmisión o adquisición de propiedad o derechos reales y posesorios, ni los encargados del Registro Público de la Propiedad y del Comercio inscribirán las escrituras, actos o contratos que se otorguen sin que previamente se acredite haber pagado el impuesto a que se refiere el artículo 28 de esta Ley, y efectuado el deslinde del inmueble por la Dirección General de Catastro del Estado.
+Los Notarios, Jueces, y toda persona que se encuentre investida de fé pública, así como los funcionarios y empleados del Registro Público de la Propiedad y del Comercio, no autorizarán actos o contratos de transmisión de dominio o adquisición de la propiedad raíz o de derechos reales o posesorios de los mismos ni harán inscripción o anotación alguna de escrituras, actos o contratos sin que el solicitante compruebe lo siguiente:
 
-Además el inmueble objeto de la operación deberá estar al corriente en el pago de todas las obligaciones fiscales, lo cual se justificará únicamente con el certificado que expidan las autoridades respectivas.
+I.- Que se ha pagado el Impuesto a que se refiere el Artículo 28 de esta Ley.
 
-Estos comprobantes y justificaciones deberán comprender hasta el mes en que los Jueces y Notarios autoricen la escritura, actos o contratos.
+II.- Que está al corriente en el pago de todas las obligaciones fiscales a que se encuentre sujeto el inmueble objeto de la operación, hasta el mes en que realice la autorización o registro.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1977)</small>
+III.- Que las comprobaciones a que se refieren las fracciones anteriores, se hagan mediante la presentación de los recibos oficiales y el Certificado de Libertad de Gravámenes, los que deberán contener el sello de la máquina registradora y las firmas de los funcionarios correspondientes, y
+
+IV.- Que se ha efectuado el deslinde del predio, por la Dirección de Catastro o por la Dependencia y organismo descentralizado del Estado que legalmente la substituya.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 39.
 
-Los causantes de este impuesto presentarán en la Recaudación de Rentas correspondiente, una declaración que contendrá los datos solicitados en las formas aprobadas por la Secretaría de Finanzas del Estado.
+Los sujetos que realicen o celebren alguno de los actos enumerados en el artículo 34 de la presente ley, están obligados a presentar su declaración aún cuando no existe impuesto a pagar, en el mismo plazo que los que tengan impuestos por enterar.
 
-Las declaraciones se presentarán dentro de los 30 días hábiles siguientes a la fecha de la firma de las escrituras públicas o de los contratos privados respectivos; y dentro del mismo plazo cuando se trate de adjudicaciones judiciales o de cualquier otra autoridad competente.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 40.
 
-Las declaraciones deberán ser firmadas y acompañadas de los documentos en su caso, como se establece en las siguientes fracciones:
+Los Notarios, Jueces y demás funcionarios públicos que violen lo dispuesto en el Artículo 38, serán responsables solidarios del importe total de las prestaciones fiscales que dejaren de pagar los contribuyentes de este impuesto sin perjuicio de las sanciones administrativas y de la responsabilidad penal en que incurran, en los términos de los artículos 62, 63 y del 67 al 78 del Código Fiscal del Estado.
 
-I.- Por el Notario que hubiere autorizado si el acto o contrato se hace constar en escritura pública.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-II.- Por el causante, cuando se trate de actos o contratos que se hagan constar en documentos privados, o por resolución de autoridad judicial, del trabajo o administrativos.
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1974)</small>
-
-En estos casos deberán anexarse a la declaración el certificado de gravámenes fiscales y copias de los actos, adjudicaciones o contratos respectivos.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 1983)</small>
 
 ###### ARTICULO 41.
 
-Los Notarios, Jueces y demás funcionarios del Estado no certificarán las firmas de los contratos privados que celebren los particulares, sin que comprueben que se ha pagado este Impuesto.
+Para los efectos del pago del impuesto, en caso de escrituras, adjudicaciones o contratos que se celebren fuera del Estado, de biene (sic) ubicados en éste, el adquirente dentro de los 60 días siguientes a la fecha de subscripción o protocolización de los mismos, deberá presentar su declaración ante la Secretaría de Finanzas o la dependencia de ésta en cuya jurisdicción se encuentre ubicado él o los inmuebles.
 
 ### CAPITULO III. Impuestos Sobre Actividades Mercantiles e Industriales
 
@@ -2044,3 +2100,9 @@ P.O. 31 DE JULIO DE 1982.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 20 DE ABRIL DE 1983.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
