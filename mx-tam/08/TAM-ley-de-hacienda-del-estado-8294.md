@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-del-estado-8294"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-29"
-last_updated: "1980-11-05"
+last_updated: "1981-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8294&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1980.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1981.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 1976.
 
@@ -149,8 +149,6 @@ DE LA TASA
 
 ###### ARTICULO 7o.
 
-El impuesto predial se causará sobre el valor de los bienes raíces, estableciéndose las siguientes tasas para predios urbanos y suburbanos:
-
 VEASE TABLA ANEXA
 
 ###### ARTICULO 8o.
@@ -247,7 +245,7 @@ Las manifestaciones de alta y los avisos de baja deberán hacerse en las formas 
 
 Cuando en las manifestaciones o avisos no se expresen los datos o no se acompañen los documentos o planos respectivos, la Tesorería General del Estado dará un plazo de quince días para que se corrija la omisión, que se contará a partir de la fecha en que los interesados reciban el requerimiento.
 
-Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomará en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
+Transcurrido dicho plazo si no se expresan los datos o presentan los documentos o planos a que se refiere el párrafo anterior, la Tesorería no tomarán en cuenta las manifestaciones o avisos, sin perjuicio de imponer al infractor, las sanciones que procedan.
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
@@ -813,227 +811,175 @@ La Junta Central de Catastro al resolver el recurso de revisión previsto, valor
 
 Las resoluciones que dicte la Junta Central de Catastro, al resolver el recurso de revisión a que se refieren los artículos anteriores, tendrán el carácter de definitivas.
 
-### CAPITULO II. IMPUESTO SOBRE TRASLACION
+> <small>(REFORMADA SU DENOMINACION. P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-DE DOMINIO DE BIENES INMUEBLES
+### CAPITULO II. IMPUESTO SOBRE ADQUISICION DE INMUEBLES
 
 DEL OBJETO
 
-###### ARTICULO 96o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Es objeto de este impuesto:
+###### ARTICULO 96.
 
-I.- La enajenación o trasmisión de bienes inmuebles o de derechos de copropiedad sobre estos.
+Están obligados al pago del impuesto sobre adquisición de inmuebles las personas físicas o morales que adquieran inmuebles que consistan en el suelo y las construcciones adheridas a él, ubicados en el Estado de Tamaulipas, así como los derechos relacionados con los mismos, a que esta Ley se refiere. El impuesto se calculará aplicando la tasa de 10% al valor del inmueble después de reducirlo en 5 veces el salario mínimo general elevado al año, de la zona económica a que corresponda.
 
-II.- La trasmisión de la propiedad de bienes inmuebles en los casos de constitución o fusión de sociedades, aumento de capital social, adjudicación por disolución y liquidación de sociedades, sean civiles o mercantiles, excepto la conyugal.
-
-III.- La adquisición de la propiedad de bienes inmuebles en virtud de la prescripción.
-
-IV.- La adquisición de la propiedad de bienes inmuebles en virtud de remate judicial o administrativo;
-
-V.- La readquisición de la propiedad de bienes inmuebles a consecuencia de la revocación o rescisión voluntaria del contrato;
-
-VI.- La transmisión de la propiedad de bienes inmuebles como consecuencia de la cesión de derechos hereditarios sobre dichos bienes;
-
-VII.- La compra-venta de bienes inmuebles hecha con reserva de dominio o sujeta a condición;
-
-VIII.- La permuta de bienes inmuebles;
-
-IX.- La trasmisión del dominio sobre bienes inmuebles derivados de la cesión de derechos de estos;
-
-X.- La donación de bienes inmuebles;
-
-XI.- El fideicomiso traslativo de dominio cuando se afecte un bien inmueble.
-
-XII.- La cesión de derechos de fideicomisario, en los casos de fideicomisos traslativos de dominio de bienes inmuebles; y
-
-XIII.- La adquisición de lotes en los panteones.
+Cuando del inmueble formen parte departamentos habitacionales, la reducción se hará por cada uno de ellos. Lo dispuesto en este párrafo no es aplicable a hoteles.
 
 DE LOS SUJETOS
 
-###### ARTICULO 97o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Son sujetos de este impuesto:
+###### ARTICULO 97.
 
-I.- La persona que trasmita la propiedad del inmueble en los casos de las fracciones I, II, V y XIII del articulo anterior. El adquirente es solidariamente responsable del pago de este impuesto.
+No se pagará este impuesto en los siguientes casos:
 
-II.- Cada uno de los permutantes, por lo que hace al inmueble cuya propiedad trasmita en los casos de permuta. Esto mismo se observará en las compra-ventas en que el precio se cubra en parte con otros bienes inmuebles. Los permutantes son solidariamente responsables del monto total de Impuesto que genere la operación;
+I.- En las adquisiciones por las instituciones de asistencia o beneficencia autorizadas por las leyes de la materia, instituciones públicas de enseñanza y establecimientos de enseñanza propiedad de particulares, con autorización o con reconocimiento de validez oficial de estudios en los términos de la Ley Federal de Educación, por los bienes destinados exclusivamente a sus fines educativos.
 
-III.- El adjudicatario en los casos de remates judiciales o administrativos;
+II.- En las adquisiciones que se realicen al constituir o disolver la sociedad conyugal, así como en el acto en que se cambien las capitulaciones matrimoniales. No queda incluida en esta fracción la transmisión hereditaria de la parte correspondiente a cada cónyuge en la sociedad conyugal.
 
-IV.- El adquirente en los casos de prescripción.
+III.- En las adquisiciones por los Estados, la Federación, los Municipios y los Estados extranjeros en caso de reciprocidad.
 
-V.- El fideicomitente cuando trasmita la titularidad de un derecho al fiduciario, sobre bienes inmuebles objeto del fideicomiso. En estos casos, las declaraciones y pago del impuesto los hará el fiduciario por cuenta del fideicomitente;
+IV.- En las adquisiciones por los partidos y asociaciones políticas para su propio uso.
 
-VI.- El cesionario de los derechos hereditarios en los casos de la fracción VI del artículo anterior.
-
-VII.- El cesionario de derechos sobre bienes inmuebles y solidariamente el cedente;
-
-VIII.- El vendedor, en los casos de contratos que impliquen la compra-venta de bienes inmuebles con reserva de dominio o sujetos a condición, siendo el ccmprador solidariamente responsable del pago del impuesto;
-
-IX.- El donatario en los casos a que se refiere la fracción X del artículo anterior, siendo el donante solidariamente responsable del pago del Impuesto;
-
-X.- El cedente en los casos a que se refiere la fracción XII del artículo anterior, siendo el cesionario solidariamente responsable del pago del Impuesto;
+V.- En las adquisiciones realizadas por el Instituto del Fondo Nacional para la Vivienda de los Trabajadores, por el Instituto Nacional para el Desarrollo de la Comunidad Rural y de la Vivienda Popular, por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Departamento de Previsión Social y Pensiones de los Trabajadores del Estado, por el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, por el Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, así como los organismos descentralizados de los Estados y Municipios que realicen estas mismas funciones.
 
 DE LA BASE
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 98o.
+###### ARTICULO 98.
 
-La base de este Impuesto es el valor de los bienes o derechos determinados conforme a las reglas siguientes:
+Se entiende por adquisición la que derive de:
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+I.- Todo acto por el que se transmita la propiedad, incluyendo la donación, la que ocurre por causa de muerte y la aportación a toda clase de asociaciones o sociedades.
 
-Para los efectos fiscales, el Impuusto (sic) de Traslación de Dominio, se calculará tomándose en cuenta el valor más alto entre el declarado en la operación, el indicado en el avalúo o certificado de valor fiscal que, al efecto, expida el Departamento de Catastro, o el avalúo que se practique para el pago de impuestos federales. Tratándose de bienes inmuebles que reporten gravámenes si quedan a cargo del comprador deben formar parte de la base.
+II.- La compra-venta en la que el vendedor se reserva la propiedad, aun cuando la transferencia de ésta opere con posterioridad.
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+III.- La promesa de adquirir, cuando se pacta que el futuro comprador entrará en posesión de los bienes o que el futuro vendedor recibirá el precio de la venta o parte de él, antes de que se celebre el contrato prometido.
 
-Para expedir el avalúo o certificado de Catastro, se tendrá presente lo siguiente:
+IV.- La cesión de derechos del comprador o del futuro comprador en los casos de las fracciones II y III que anteceden, respectivamente.
 
-I.- Que dicho valor corresponda al predio en la situación en que se encuentre al efectuarse la transmisión de la propiedad, por no haber variado ni la extensión del terreno, ni la de las construcciones en su caso.
+V.- Fusión de sociedades.
 
-II.- Que incluya además del valor catastral del terreno y de las construcciones, el costo de las obras cuando se hayan ampliado las construcciones a que se refiere el valor catastral vigente;
+VI.- La dación en pago y la liquidación, reducción de capital, pago en especie de remanentes, utilidades o dividendos de asociaciones o sociedades civiles o mercantiles.
 
-III.- Que se considere la parte proporcional que, del valor catastral total, corresponda al inmueble cuyo dominio se trasmita, cuando se trate de una fracción de un predio no edificado.
+VII.- Constitución de usufructo, transmisión de ésta o de la nuda propiedad, así como la extinción del usufructo temporal.
+
+VIII.- Prescripción positiva.
+
+IX.- La cesión de derechos del heredero o legatario, cuando entre los bienes de la sucesión haya inmuebles, en la parte relativa y en proporción a éstos.
+
+X.- Enajenación a través de fideicomiso, en los términos del Código Fiscal de la Federación.
+
+En las permutas se considerará que se efectúan dos adquisiciones.
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 99o.
 
-El Impuesto sobre Traslación de Dominio de bienes inmuebles se causará, liquidará y pagará a razón de quince al millar sobre su base, con excepción de las adquisiciones por prescripción cuya tasa será del treinta al millar sobre su base.
+El valor del inmueble que se considerará para los efectos del Artículo 96 será el valor más alto entre el declarado en la operación y el certificado de valor catastral que al efecto expida la Tesorería General.
+
+Cuando con motivo de la adquisición el adquirente asuma la obligación de pagar una o más deudas o de perdonarlas, el importe de ellas se considerará parte del precio pactado.
+
+Cuando no se pacte precio el impuesto se calculará con base en el avalúo que practique la Tesorería General del Estado. En la constitución, adquisición o extinción del usufructo o de la nuda propiedad y en la adquisición de bienes en remate, no se tomará en cuenta el precio que se hubiere pactado, sino el de avalúo a que se refiere este párrafo.
+
+Para los fines de este impuesto se considera que el usufructo y la nuda propiedad tiene un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
 DEL PAGO
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 100o.
 
-El Impuesto se pagará dentro de un plazo de treinta días, contados a partir de la fecha de la autorización protocolaria de la escritura pública o de la fecha del contrato privado.
+El pago del impuesto deberá hacerse dentro de mes siguiente a aquél en que se realice cualquiera de los supuestos que a continuación se señalan:
 
-Cuando se trate de adquisición de la propiedad de bienes inmuebles en virtud de prescripción, el impuesto deberá ser pagado dentro del plazo de sesenta días hábiles siguientes a la fecha en que haya causado ejecutoria la resolución judicial respectiva.
+I.- Cuando se constituya o adquiera el usufructo o la nuda propiedad. En el caso de usufructo temporal, cuando se extinga.
 
-Los Notarios podrán, dentro del plazo que para el pago señala el párrafo primero de este artículo, expedir una nota complementaria o rectificar la que hubiesen expedido, cuando en la declaración que se hubiese presentado para el pago del impuesto no se hubiere determinado el impuesto correctamente, sin que esto implique sanción.
+II.- A la adjudicación de los bienes de la sucesión o a los tres años de la muerte del autor de la misma si transcurrido dicho plazo no se hubiera llevado a cabo la adjudicación, así como al cederse los derechos hereditarios o al enajenarse bienes por la sucesión. En estos dos últimos casos el impuesto correspondiente a la adquisición por causa de muerte, se causará en el momento en que se realice la cesión o la enajenación, independientemente del que se cause por el cesionario o por el adquirente.
 
-En las compra-ventas con reservas de dominio o de otros contratos traslativos de dominio sujetos a condición suspensiva, el plazo para el pago del Impuesto se contará a partir de la fecha de la autorización protocolaria de la escritura pública en que se haga constar el cumplimiento de la condición para que la trasmisión se opere; o de la fecha del documento privado que tal circunstancia exprese. El impuesto deberá cubrirse en el plazo que establece este capítulo, contándose dicho plazo a partir de la celebración del contrato respectivo y si la condición no se cumple se devolverá la parte proporcional del impuesto pagado, siempre y cuando se exhiba el contrato y demás documentación comprobatoria de ese hecho.
+III.- Tratándose de adquisiciones efectuadas a través de fideicomisos, cuando se realicen los supuestos de enajenación en los términos del Código Fiscal de la Federación.
 
-###### ARTICULO 101o.
+IV.- Al protocolizarse o inscribirse el reconocimiento judicial de la prescripción positiva.
 
-La Oficina Fiscal que reciba el pago, lo hará constar en todos los ejemplares de la declaración que se distribuirán en la siguiente forma: un ejemplar quedará en poder de dicha Oficina, otro se enviará a la Tesorería General del Estado y los dos restantes se entregarán a la persona que haga el pago del impuesto. De éstos dos últimos, uno se agregará al apéndice respectivo cuando se trate de actos o contratos traslativos de dominio que se hagan constar en escritura pública.
+V.- En los casos no previstos en las fracciones anteriores, cuando los actos de que se trate se eleven a escritura pública o se inscriban en Registro Público, para poder surtir sus efectos ante terceros en los términos del derecho común, y si no están sujetos a esta formalidad, al adquirirse el dominio conforme a las leyes.
 
-###### ARTICULO 102o.
+El contribuyente podrá pagar el impuesto por anticipado.
 
-En los contratos celebrados en la República, pero fuera del Estado de Tamaulipas, con relación a inmuebles ubicados en el territorio del Estado, se causará el impuesto a que este capítulo se refiere conforme a las disposiciones del mismo, exceptuando lo relativo al plazo para el pago, que será de noventa días hábiles, contados a partir de la fecha de la autorización de la escritura pública o de la fecha del contrato privado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Cuando la traslación de dominio se opere en virtud de resoluciones de autoridades de la República, pero de fuera de Tamaulipas, el pago se hará dentro del plazo, que señala el párrafo anterior, contado a partir de la fecha en que haya causado ejecutoria la resolución respectiva.
+###### ARTICULO 101.
 
-Cuando se trate de contratos o actos traslativos de dominio, otorgados o celebrados fuera del territorio de la República o de resoluciones dictadas por autoridades extranjeras en virtud de las cuales se trasmita el dominio de bienes inmuebles ubicados en el territorio del Estado, el pago del impuesto deberá hacerse dentro del término de noventa días hábiles, contados a partir de la fecha en que surtan efectos legales en la República los citados actos, contratos o resoluciones.
+En las adquisiciones que se hagan constar en escritura pública, los notarios, jueces, corredores y demás fedatarios que por disposición legal tengan funciones notariales, calcularán el impuesto bajo su responsabilidad, lo harán constar en la escritura y lo enterarán mediante declaración en la oficina autorizada que corresponda a su domicilio. En los demás casos los contribuyentes pagarán el impuesto mediante declaración ante la oficina autorizada que corresponda a su domicilio fiscal. Se presentará declaración por todas las adquisiciones aun cuando no haya impuesto a enterar.
 
-###### ARTICULO 103o.
+Los fedatarios no estarán obligados a enterar el impuesto cuando consignen en escritura pública operaciones por las que ya se hubiere pagado el impuesto y acompañen a su declaración copia de aquella con la que se efectuó dicho pago.
 
-Los bienes inmuebles con los que realicen cualquier hecho, acto, operación o contrato que genere este impuesto, quedarán afectos preferentemente al pago del mismo.
+El enajenante responde solidariamente del impuesto que deba pagar el adquirente.
 
-DE LAS OBLIGACIONES
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 104o.
+###### ARTICULO 102.
 
-Los causantes de este impuesto presentarán por cuadruplicado en la Oficina Fiscal de su jurisdicción, una declaración que contendrá:
+Para efectuar la reducción a que se refiere el Artículo 96 se aplicará el salario mínimo correspondiente al año de calendario en que se esté en los supuestos de pago del impuesto a que se refiere el Artículo 100.
 
-I.- Los nombres y domicilios de los contratantes.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-II.- Lugar y fecha en que se extendió la escritura pública y su número, del contrato privado o de la resolución administrativa o judicial; así como la fecha en que esta causó ejecutoria en su caso;
+###### ARTICULO 103.
 
-III.- Nombre y domicilio del Notario ante quien se haya extendido la escritura, mención de que se trata de contrato privado o indicación de la autoridad que dictó la resolución.
+La reducción a que se refiere el Artículo 96 se realizará conforme a lo siguiente:
 
-IV.- La naturaleza o concepto del hecho, acto, operación o contrato.
+I.- Se considerarán como un solo inmueble los bienes que sean o resulten colindantes, adquiridos por la misma persona en que un período de 24 meses. De la suma de los precios o valores de los predios únicamente se tendrá derecho a hacer una sola vez la reducción, la que se calculará al momento en que se realice la primera adquisición. El adquirente deberá manifestar, bajo protesta de decir verdad, al fedatario ante quien formalice toda adquisición, si el predio objeto de la operación colinda con otro que hubiere adquirido con anterioridad, para que se ajuste el monto de la reducción, y pagará, en su caso, las diferencias de impuesto que corresponda. Lo dispuesto en esta fracción no es aplicable a las adquisiciones por causa de muerte.
 
-V.- Identificación del inmueble, señalando su ubicación, nomenclatura si la tiene, superficie, linderos y nombre de los colindantes.
+II.- Cuando se adquiera parte de la propiedad o de los derechos de un inmueble a que se refiere el Artículo 98, la reducción se hará en la proporción que corresponda a dicha parte.
 
-VI.- Antecedentes de propiedad o de posesión del inmueble tanto en el Registro Público como Registros Fiscales.
+III.- Tratándose del usufructo o de la nuda propiedad, únicamente se tendrá derecho al 50% de la reducción por cada uno de ellos.
 
-VII.- Valor gravable conforme a las disposiciones contenidas en este capítulo.
+IV.- No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aun cuando se utilicen para otros fines.
 
-VIII.- Clave Catastral, o en su defecto, número de cuenta con que se pague el Impuesto Predial correspondiente al inmueble.
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-IX.- Monto del Impuesto; y
+### CAPITULO II BIS. IMPUESTO SOBRE PLUSVALIA Y MEJORIA DE LA PROPIEDAD PARTICULAR
 
-X.- los demás datos que exijan las formas oficialmente aprobadas.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 105o.
+###### ARTICULO 104.
 
-Las declaraciones deberán ser firmadas y acompañadas de los documentos, en su caso, como establecen las fracciones siguientes:
+Se causará el impuesto sobre Plusvalía y Mejoría de la propiedad particular, según Decreto número 407, publicada en el Periódico Oficial número 104, de fecha 28 de diciembre de 1977.
 
-I.- Si el acto o contrato traslativo de dominio se hace constar en la escritura pública otorgada dentro del Estado, la declaración será firmada por el Notario que hubiere autorizado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Si la escritura es otorgada fuera del Estado, la declaración podrá ser firmada por cualquiera de los contratantes acompañandose en cada caso, copia de la escritura correspondiente.
+###### ARTICULO 105.
 
-II.- Cuando se trate de actos o contratos que se hagan constar en documentos privados, la declaración será firmada por cualquiera de los interesados y deberá acompañarse de una copia del contrato.
-
-III.- En los casos de adquisición de la propiedad como consecuencia de una resolución administrativa o judicial, el causante firmará la declaración y acompañará copia certificada de la resolución respectiva, con la constancia de la fecha en que cause ejecutoria.
-
-IV.- Además de los requisitos que para las fracciones II y III han quedado señalados, deberá acompañarse de la constancia de estar al corriente en el pago del Impuesto Predial o de cualquiera de los otros gravámenes fiscales, estatales y municipales, derivados de los bienes inmuebles en los términos de este capítulo u otros ordenamientos fiscales del Estado. Si en la fecha de expedición del certificado de no adeudo, aparecieren créditos fiscales que tengan relación con el inmueble de que se trate, por encontrarse pendientes o en proceso de liquidación, la responsabilidad del pago se fincará al adquirente del inmueble objeto de la operación gravada en este Impuesto; y
-
-V.- Cuando la Tesorería General del Estado, lo estime necesario podrá solicitar de los Notarios Públicos o de los declarantes, que le proporcionen copia autorizada de la escritura en que se hubiere hecho constar el acto o contrato de que se trata.
-
-### CAPITULO III. IMPUESTO SOBRE ACTOS Y OPERACIONES CIVILES
-
-DEL OBJETO
+Son sujetos de este impuesto los propietarios, copropietarios, condómines, poseedores, ocupantes, detentadores, fideicomitentes y los que por cualquier título o causa se beneficien con la obra respectiva.
 
 ###### ARTICULO 106o.
 
-Las declaraciones a que se refiere este capítulo se presentarán en las formas oficialmente aprobadas, dentro de los treinta días hábiles siguientes a la fecha de la autorización de las escrituras públicas o a la de los contratos privados respectivos y dentro del plazo de sesenta días cuando se trata de resoluciones administrativos o judiciales, contado a partir de que causen ejecutoria. El plazo se ampliará a noventa días si el documento fue otorgado fuera del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 107o.
 
-Cuando la transmisión de la propiedad haya operado teniendo como fundamento contratos de compra-venta con reserva de dominio, o sujetos a condición de los señalados por las disposiciones que contiene este capítulo, los causantes deberán presentar nuevas declaraciones, relacionandolas con lo anterior, dentro de los treinta días hábiles siguientes, a fin de evitar el doble pago de este impuesto.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 DE LAS OBLIGACIONES DE LOS TERCEROS
 
 ###### ARTICULO 108o.
 
-Los Notarios no expedirán testimonio ni copias de escrituras públicas en las que se hagan constar actos o contratos que estén gravados con el impuesto a que se refiere este capítulo, mientras no se les exhiba el comprobante de pago de dicho impuesto.
-
-En los testimonios que los Notarios Públicos, expidan escrituras relativas a actos o contratos traslativos de dominio, deberán hacer constar el número del comprobante oficial del pago del impuesto a que se refiere este capítulo y el importe del mismo y, en su caso de estar exceptuados, deberán expresarlo así señalando la causa de la excención y el fundamento legal de la misma.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 109o.
 
-Los encargados del Registro Público de la Propiedad no inscribirán los actos, contratos o documentos traslativos de dominio de bienes inmuebles, mientras no sean exhibidos los comprobantes del pago del Impuesto o muestren el escrito que ratifica la excención.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 DE LAS EXENCIONES
 
 ###### ARTICULO 110o.
 
-Se exime del pago de este impuesto:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-I.- La adquisición de bienes inmuebles que hagan la federación, las Entidades Federativas y los Municipios en caso de reciprocidad;
-
-II.- La adquisición de bienes inmuebles que hagan los trabajadores al servicio del Estado, Federación o Municipios siempre que no sean propietarios de otro bien raíz en la Entidad y que dicha adquisición sea con fondos suministrados con el carácter de préstamos por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado o por el Instituto de Pensiones de retiro del Estado de Tamaulipas,
-
-III.- La adquisición de casas habitación que se realicen en el cumplimiento de los programas de INDECO e INFONAVIT, cuando tengan como finalidad el fomento y desarrollo de la vivienda popular y que no sean propietarios de otro bien raíz en la Entidad;
-
-IV.- La constitución, disolución o liquidación de la sociedad conyugal;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
-
-V.- La devolución de los bienes inmuebles al enajenante cuando por resolución se realice la revocación, recisión o anulación del contrato respectivo;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
-
-VI.- La división de la cosa común entre los copropietarios, siempre que los valores de las partes adjudicadas a los partícipes no excedan de los valores de sus respectivas porciones y que no existan compensaciones en efectivo entre ellos; y
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 1977)</small>
-
-VII.- Cuando se trate de la transmisión de derechos reales sobre bienes inmuebles, distintos del de dominio o del de copropiedad.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
-
-Las exenciones mencionadas deberán ser solicitadas por escrito a la Tesorería General del Estado.
-
-### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
-
-DE CAPITALES
+### CAPITULO III. IMPUESTO SOBRE ACTOS Y OPERACIONES CIVILES
 
 DEL OBJETO
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 111o.
 
@@ -1083,9 +1029,11 @@ La Tesorería General del Estado, podrá efectuar avalúos de los bienes motivo 
 
 DE LA TASA
 
-###### ARTICULO 115o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-El impuesto se causará sobre el importe del 3% sobre su base.
+###### ARTICULO 115.
+
+El impuesto se causará sobre el importe del 4% sobre su base.
 
 DEL PAGO
 
@@ -1127,13 +1075,13 @@ II.- Los Notarios o Fedatarios Públicos, cuando intervengan en actos, convenios
 
 Se exime del pago de este impuesto los actos, convenios o contratos de carácter civil contemplados en las fracciones I, IV, V y VII del Artículo III (sic), si se causa y se paga por dichos conceptos el Impuesto al Valor Agregado.
 
-### CAPITULO V. IMPUESTO SOBRE JUEGOS PERMITIDOS Y APARATOS
+### CAPITULO IV. IMPUESTO SOBRE PRODUCTOS DE INVERSION
 
-MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS
+DE CAPITALES
 
 DEL OBJETO
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 120o.
 
@@ -1223,9 +1171,11 @@ Cuando el deudor se obligue a devolver una cantidad superior a la recibida, la d
 
 DE LA TASA
 
-###### ARTICULO 125o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Este impuesto se causará, liquidará y pagará a razón del 5% sobre el monto de su base.
+###### ARTICULO 125.
+
+Este impuesto se causará, liquidará y pagará a razón del 6% sobre el monto de su base.
 
 DEL PAGO
 
@@ -1439,11 +1389,13 @@ VIII.- De intereses que se obtengan sobre los créditos destinados a la agricult
 
 IX.- La participación de los trabajadores con las utilidades de las empresas.
 
-### CAPITULO VI. IMPUESTO SOBRE VENTA Y EXPLOTACION DE GANADO, AVES Y COLMENAS
+### CAPITULO V. IMPUESTO SOBRE JUEGOS PERMITIDOS Y APARATOS
+
+MECANICOS, ELECTROMECANICOS Y FONOELECTROMECANICOS
 
 DEL OBJETO
 
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1979)</small>
 
 ###### ARTICULO 140o.
 
@@ -1458,8 +1410,6 @@ Son sujetos de este impuesto, las personas físicas o morales que habitual o acc
 DE LA TARIFA
 
 ###### ARTICULO 142o.
-
-Este impuesto se causará, liquidará y pagará de conformidad con la siguiente:
 
 VEASE TABLA ANEXA
 
@@ -1505,7 +1455,7 @@ Igualmente deben garantizar a satisfacción de la Tesorería General del Estado 
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
-### CAPITULO VII. IMPUESTO SOBRE FRUTOS Y PRODUCTOS AGRICOLAS
+### CAPITULO VI. IMPUESTO SOBRE VENTA Y EXPLOTACION DE GANADO, AVES Y COLMENAS
 
 DEL OBJETO
 
@@ -1550,10 +1500,6 @@ En los casos que no se obtengan ingresos se tomará como base el valor de mercad
 (SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 150o.
-
-Este impuesto se causará, liquidará y pagará a razón del 3% sobre el monto de los ingresos a que se refiere el artículo anterior.
-
-En todo caso el impuesto a pagar no podrá ser inferior a lo que señala la siguiente:
 
 VEASE TABLA ANEXA
 
@@ -1681,9 +1627,9 @@ Los Presidentes Municipales al expedir la guía de transporte para el traslado d
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
-### CAPITULO VIII
+### CAPITULO VII. IMPUESTO SOBRE FRUTOS Y PRODUCTOS AGRICOLAS
 
-IMPUESTOS SOBRE PRODUCCION DE AZUCAR, PILONCILLO Y MIELES CRISTALIZABLES E INCRISTALIZABLES.
+DEL OBJETO
 
 (SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
@@ -1829,9 +1775,11 @@ Los sujetos mencionados anteriormente deberán cumplir con las obligaciones que 
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
-### CAPITULO IX. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+### CAPITULO VIII
 
-DEL OBJETO
+IMPUESTOS SOBRE PRODUCCION DE AZUCAR, PILONCILLO Y MIELES CRISTALIZABLES E INCRISTALIZABLES.
+
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 175o.
 
@@ -1985,13 +1933,9 @@ III.- Exigir a las personas que les encomienden el transporte, las facturas expe
 
 IV.- Poner en lugar visible de los vehículos que utilicen para el transporte, mismo que también deberán registrar en la Tesorería General del Estado, el nombre o razón social de la persona o empresa porteadora y el número de su registro.
 
-### CAPITULO X. IMPUESTO SOBRE INGRESOS QUE SE OBTENGAN POR LA
-
-ENAJENACION DE PESCADOS Y MARISCOS
+### CAPITULO IX. IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
 DEL OBJETO
-
-(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 184o.
 
@@ -2019,11 +1963,7 @@ DE LOS SUJETOS
 
 Son sujetos de este impuesto las personas físicas o morales que habitual u ocasionalmente organicen o administren espectáculos públicos.
 
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1977)</small>
-
 ###### ARTICULO 188o.
-
-El impuesto se causa con la tasa del quince por ciento sobre el precio de entrada al espectáculo. Para este efecto, los pases se considerarán que tienen el mismo valor que las autorizaciones o boletos de admisión, en cada caso. No obstante lo dispuesto anteriormente, los espectáculos que se enumeran a continuación causarán las siguientes tasas:
 
 VEASE TABLA ANEXA
 
@@ -2147,11 +2087,13 @@ Se exime del pago de este impuesto los espectáculos prestados en restaurantes, 
 
 (SUSPENDIDO, POR EL ANEXO 4 AL CONVENIO DE ADHESION AL SISTEMA NACIONAL DE COORDINACION FISCAL, P.O. 5 DE NOVIEMBRE DE 1980)
 
-### CAPITULO XI. IMPUESTO SOBRE HONORARIOS
+### CAPITULO X. IMPUESTO SOBRE INGRESOS QUE SE OBTENGAN POR LA
+
+ENAJENACION DE PESCADOS Y MARISCOS
 
 DEL OBJETO
 
-> <small>(REFORMADO PRIMER PARRAFO P.O. 28 DE DICIEMBRE DE 1977)</small>
+(SUSPENDIDO, P.O. 5 DE NOVIEMBRE DE 1980)
 
 ###### ARTICULO 202o.
 
@@ -2233,11 +2175,11 @@ b).- Quienes con el carácter de comisionistas, consignatarios, agentes, deposit
 
 c).- Quienes presenten servicios a las personas que se dediquen a las actividades objeto de este impuesto en virtud de la maquila, transporte o transformación de los productos gravados.
 
-### CAPITULO XII. IMPUESTO SOBRE PRODUCCION, DISTRIBUCION Y VENTA
-
-DE ALCOHOL Y SOBRE EXPENDIOS DE BEBIDAS ALCOHOLICAS
+### CAPITULO XI. IMPUESTO SOBRE HONORARIOS
 
 DEL OBJETO
+
+> <small>(REFORMADO PRIMER PARRAFO P.O. 28 DE DICIEMBRE DE 1977)</small>
 
 ###### ARTICULO 211o.
 
@@ -2287,11 +2229,11 @@ Para practicar las estimaciones a que se refiere este artículo, se tendrá en c
 
 DE LA TASA
 
-> <small>(REFORMADO P.O. 28 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-###### ARTICULO 215o.
+###### ARTICULO 215.
 
-Este impuesto se causará con la tasa del 1.5% sobre la base a que se refieren los dos artículos anteriores.
+Este impuesto se causará con la tasa del 2% sobre la base a que se refieren los dos artículos anteriores.
 
 DEL PAGO
 
@@ -2355,7 +2297,9 @@ III.- Los conceptos que comprenda el objeto del mismo, si se causa y se paga el 
 
 Las personas a que se refiere este artículo deberán gestionar y obtener de la Tesorería General del Estado en forma expresa la autorización de la exención.
 
-### CAPITULO XIII. IMPUESTO SOBRE NOMINAS
+### CAPITULO XII. IMPUESTO SOBRE PRODUCCION, DISTRIBUCION Y VENTA
+
+DE ALCOHOL Y SOBRE EXPENDIOS DE BEBIDAS ALCOHOLICAS
 
 DEL OBJETO
 
@@ -2418,10 +2362,6 @@ II.- Para los expendios de bebidas alcohólicas, la clasificación por categorí
 Para clasificarlos se atenderá a la actividad a que se dedican, si presentan variedad, y tienen pista de baile, capital en giro, monto de los ingresos, monto de las compras, monto de sus gastos, tipo de instalaciones, población o zona en que se encuentren establecidos y número de trabajadores a su servicio.
 
 ###### ARTICULO 226o.
-
-El impuesto se causará y pagará conforme a la siguiente
-
-TARIFA:
 
 VEASE TABLA ANEXA
 
@@ -2579,7 +2519,7 @@ Asimismo, deberán atender las disposiciones de este capítulo y la reglamentaci
 
 Quedan suspendidos los efectos de vigencia derivados de la distribución, la venta de primera mano de alcohol, así como lo relativo a la gravación sobre los expendios de bebidas alcohólicas que se realicen o que estén establecidos dentro del mismo en tanto subsista el Convenio de Adhesión al Sistema Nacional de Coordinación Fiscal celebrado por el Estado de Tamaulipas con la Federación.
 
-### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
+### CAPITULO XIII. IMPUESTO SOBRE NOMINAS
 
 DEL OBJETO
 
@@ -2603,9 +2543,11 @@ Es base de este impuesto, el monto total de los pagos por concepto de remuneraci
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 248o.
 
-Este impuesto se causará con la tasa del 1 % sobre la base a que se refiere el articulo anterior.
+Este impuesto se causará con la tasa del 2 % sobre la base a que se refiere el articulo anterior.
 
 DEL PAGO
 
@@ -2669,7 +2611,9 @@ e).- Clubes de servicio.
 
 Las personas a que se refiere la fracción II de este artículo, deberán gestionar y obtener de la Tesorería General del Estado en forma expresa la autorización de la exención.
 
-### CAPITULO I. SERVICIOS GENERALES
+### CAPITULO XIV. IMPUESTO PARA LA EDUCACION UNIVERSITARIA
+
+DEL OBJETO
 
 ###### ARTICULO 252o.
 
@@ -2691,9 +2635,11 @@ La base de este impuesto, es el importe de los pagos por concepto de impuestos, 
 
 DE LA TASA
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 255o.
 
-El impuesto se causará y pagará a razón del 5% sobre su base.
+El impuesto se causará y pagará a razón del 5% sobre su base, mismo que está incluido en las tasas y tarifas establecidas para el pago de impuestos y derechos a que se refiere la presente ley, a excepción del impuesto sobre la propiedad urbana, sub-urbana y rústica.
 
 DE LAS OBLIGACIONES
 
@@ -2733,29 +2679,17 @@ Se derogan los efectos de lo preceptuado por los artículos 252 y 254 en lo rela
 
 TARIFA GENERAL DE DERECHOS POR SERVICIOS PUBLICOS EN EL ESTADO.
 
-### CAPITULO II
-
-SERVICIO DE REGISTRO.
+### CAPITULO I. SERVICIOS GENERALES
 
 ###### ARTICULO 258o.
 
-Los derechos por concepto de certificaciones, cotejo, busca y copia de documentos, legalización y ratificación de firmas, resoluciones y opiniones administrativas, por funcionarios y empleados del Gobierno del Estado, se causarán conforme a la siguiente
-
-TARIFA:
-
 VEASE TABLA ANEXA
 
-###### ARTICULO 259o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-La aplicación de la tarifa contenida en el Artículo anterior, se sujetará a las siguientes reglas:
+###### ARTICULO 259.
 
-I.- A los derechos que se causen por certificaciones deberán agregarse los que se originen por busca y cotejo de los documentos respectivos.
-
-II.- La expedición de copias certificadas causarán derechos independientemente, de la busca y certificación, así como de los duplicados autógrafos o de las copias simples que sean requeridas por el solicitante.
-
-III.- Las certificaciones, cotejo, busca y copias de documentos, legalización y ratificación de firmas, sólo podrán realizarse previo pago de los derechos respectivos.
-
-IV.- En todas las certificaciones que se soliciten con carácter de urgente, se hará un recargo de un 100% (cien por ciento).
+El pago de los derechos de la tarifa contenida en el artículo anterior se hará previo a la prestación de los servicios; todas las certificaciones que se soliciten con carácter urgente causarán otro tanto más de la cuota establecida.
 
 ###### ARTICULO 260o.
 
@@ -2769,15 +2703,13 @@ III.- Las legalizaciones de firmas solicitadas oficiosamente por las autoridades
 
 IV.- Las copias certificadas, certificaciones, ratificaciones, cotejo, legalización de firmas, busca de copias de documentos solicitados oficiosamente, por funcionarios del Gobierno del Estado, de los Municipios o de la Federación en ejercicio y para el cumplimiento de sus funciones.
 
-### CAPITULO III. SERVICIOS DE INSPECCION
+### CAPITULO II
+
+SERVICIO DE REGISTRO.
 
 #### SECCION PRIMERA. DEL REGISTRO CIVIL
 
 ###### ARTICULO 261o.
-
-Los derechos por actos del Registro Civil se causarán conforme a la siguiente
-
-TARIFA:
 
 VEASE TABLA ANEXA
 
@@ -2789,17 +2721,17 @@ En los derechos que se causen por matrimonios a domicilio, los Oficiales del Reg
 
 ###### ARTICULO 263o.
 
-Los servicios que se presten en el Registro Público de la Propiedad causarán derechos conforme a la siguiente
-
-TARIFA:
-
 VEASE TABLA ANEXA
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
 ###### ARTICULO 264o.
 
-Para la determinación y cobro de los derechos que establece el Artículo anterior, se observarán las reglas siguientes:
+Para la determinación y cobro de los derechos que establece el artículo anterior se observarán las reglas siguientes:
 
-I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles el declarado por los otorgantes, en los documentos o contratos respectivos o, en su caso, por quien solicite la inscripción; pero cuando dicho valor fuere inferior al fiscal, será este último el que se tomará como base para determinar el importe de los derechos que deban pagarse. En caso de que en la Tesorería General del Estado existieren registrados diversos valores sobre el mismo se tomará en cuenta el mayor.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+I.- Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, el declarado por los otorgantes en los documentos o contratos respectivos o, en su caso, por quien solicite la inscripción; pero cuando dicho valor fuere inferior al catastral, será este último el que se tomará como base para determinar el importe de los derechos que deban pagarse.
 
 II.- En los contratos de arrendamiento servirá de base para determinar los derechos, la suma del alquiler pactado y de todas las demás prestaciones adicionales que estuvieren a cargo del arrendatario. Los contratos del subarrendamiento causarán los mismos derechos que los de arrendamiento.
 
@@ -2807,19 +2739,27 @@ III.- En las emisiones de las cédulas hipotecarias en que se constituya hipotec
 
 IV.- En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes, y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este Artículo.
 
-V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará el ……85% de las tasas establecidas en la Fracción II del Artículo 263 y al practicarse la inscripción complementaria se cobrará el .......................................15%
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-VI.- Para la aplicación de las tasas de la Fracción II del Artículo 263, en su caso, la nula propiedad y el usufructo, se valuarán en los términos del Impuesto sobre Herencias y Legados, en aquellos casos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la Ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
+V.- En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquier otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a las tasas establecidas en la fracción I del Artículo 263.
 
-VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% (cien por ciento), cuando los interesados desearen obtener la inscripción de Título el mismo día de su presentación. Cuando el valor que corresponda a la operación o acto consignado en el documento sea mayor de $ 50,000.00 (Cincuenta Mil Pesos), en su caso, cuando el valor catastral relativo sea superior a esta cantidad, se aumentarán los derechos en un 10% (diez por ciento) sobre lo excedente.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VI.- Para la aplicación de las tasas de la fracción I del Artículo 263, en su caso, la nuda propiedad y el usufructo, se valuarán en los términos del impuesto sobre herencias y legados, en aquellos que el juicio sucesorio se haya iniciado anteriormente a la derogación de la ley citada y que esté pendiente de resolución o liquidación. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+VII.- Los derechos previstos en esta tarifa serán aumentados en un 100% (cien por ciento) cuando los interesados desearan obtener la inscripción del título el mismo día de su presentación.
 
 VIII.- Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de éstas, si se puede determinar exactamente su cuantía, en caso contrario, se tomará como base, la cantidad que resulte, haciendo el cómputo por un año.
 
 IX.- En los casos en que los servicios que preste el Registro Público de la Propiedad no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
 ###### ARTICULO 265o.
 
-No se causarán los derechos a que se refiere el Artículo 262o. en los siguientes casos:
+No se causarán los derechos a que se refieren los Artículos 263 y 266, en los siguientes casos:
 
 I.- Las inscripciones relativas a bienes inmuebles o derechos reales, pertenecientes a la Nación, al Gobierno del Estado, a los Municipios cuando dichas Entidades las soliciten.
 
@@ -2829,15 +2769,13 @@ III.- Los informes que soliciten por causas penales o para juicios de amparo.
 
 IV.- Las fundaciones de beneficencia privada no causarán derechos por la inscripción de la escritura constitutiva y las de las modificaciones a la misma.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1981)</small>
+
+V.- Las inscripciones relativas a bienes inmuebles o derechos reales, contratos de mutuo, adquiridos con fondos suministrados con el carácter de préstamos por el FOVISSSTE, INFONAVIT y la Oficina de Previsión Social y Pensiones del Estado.
+
 #### SECCION TERCERA. DEL REGISTRO PUBLICO DE COMERCIO
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 1978)</small>
-
 ###### ARTICULO 266o.
-
-Los servicios que se presten en el Registro Público de Comercio causarán derechos de acuerdo con la siguiente:
-
-TARIFA:
 
 VEASE TABLA ANEXA
 
@@ -2875,171 +2813,121 @@ AUTORIZACIONES Y PATENTES
 
 ###### ARTICULO 269o.
 
-La expedición de Títulos Profesionales, autorización para ejercer la profesión, expedición de Fiat de Notario, de Patentes de Aspirantes a Ejercicio del Notariado y el registro de Títulos Profesionales, causarán derechos conforme a la siguiente
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-TARIFA:
-
-VEASE TABLA ANEXA
-
-### CAPITULO IV. SERVICIOS CATASTRALES
+### CAPITULO III. SERVICIOS DE INSPECCION
 
 ###### ARTICULO 270o.
 
-Los servicios relativos a la licencia de instalación e inspección de calderas de vapor, causarán derechos conforme a la siguiente
-
-TARIFA:
-
-VEASE TABLA ANEXA:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 271o.
 
-La Inspección de los motores sujetos a este requisito, causarán derechos conforme a la siguiente
-
-TARIFA:
-
-VEASE TABLA ANEXA:
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 272o.
 
-Para el cobro de cuotas, por derechos de inspección de elevadores en el Estado, se aplicará la tarifa contenida en el Artículo 271o. adicionándola en un 20%. La inspección incluirá motor e instalación del elevador y se realizará semestralmente.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 273o.
 
-El cobro de las cuotas establecidas en los Artículos 270, 271 y 272, se aplicarán por revisión de cada unidad.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 274o.
 
-La inspección de vehículos y de construcciones causarán los derechos que se establecen en los Capítulos V y VI de la presente tarifa.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO V. SERVICIOS SANITARIOS
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+### CAPITULO IV. SERVICIOS CATASTRALES
 
 ###### ARTICULO 275o.
 
-Los servicios que se presten por el Departamento de Catastro y demás autoridades catastrales, causarán derechos conforme a la siguiente
-
-TARIFA:
-
 VEASE TABLA ANEXA
 
-### CAPITULO VI. SERVICIOS DE TRANSITO
-
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 1980)</small>
+### CAPITULO V. SERVICIOS SANITARIOS
 
 ###### ARTICULO 276o.
 
-Los derechos por examen e inspección sanitaria se causarán inicial y anualmente conforme a la siguiente
-
-T A R I F A:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 277o.
 
-Los derechos por inmunización y desinfección de establos, granjas, plantas, pasteurizadoras, expendios de comestibles y bebidas y otros similares, se causarán de acuerdo con los gastos directos que importen dichos servicios, en cada caso, aumentados en un 20%.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 278o.
 
-Los derechos por autorización para traslación de cadáveres, se causarán en los casos y conforme a las cuotas siguientes:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 279o.
 
-Los derechos por las licencias que se otorguen a las personas a que se refiere la Fracción VI del Articulo 276o., se causarán de acuerdo con el Capitulo VII de este Titulo, independientemente de los que originen los exámenes e inspecciones sanitarias.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 280o.
 
-Los derechos por concesiones de licencias para prácticas de medicina, obstetricia, enfermería y farmacia, por personas no tituladas, se causarán con la cuota anual de ..................................................................................................................................$ 200. 00.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
+### CAPITULO VI. SERVICIOS DE TRANSITO
 
 ###### ARTICULO 281o.
-
-El Ejecutivo del Estado, por conducto de la Tesorería General del Estado y Oficinas Colectoras, hará efectivos los derechos por servicios que presta la Inspección General de Policía y Tránsito por circulación de vehículos en el Estado de Tamaulipas, conforme a la siguiente:
-
-TARIFA:
 
 VEASE TABLA ANEXA
 
 ###### ARTICULO 282o.
 
-El otorgamiento de concesiones por el Gobierno del Estado, para realizar actividades y obras que las requieran, causará derechos por una sola vez conforme a la siguiente
-
-TARIFA:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 283o.
 
-El otorgamiento de franquicias fiscales e industriales, causará derechos de vigilancia con la cuota del 5% sobre el importe de los impuestos que totalmente o en parte dejen de causarse. Dichos derechos deberán cobrarse dentro de los términos y plazos que establezcan las leyes reglamentarias de los impuestos respectivos. En consecuencia, por el solo efecto del pago de estos derechos, los beneficiarios de las franquicias fiscales, deberán presentar los avisos, declaraciones e informes que sean necesarios para determinar la cuantía de aquellos.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 284o.
 
-Los derechos por licencia o tarjetas de salud que deban obtener las personas a que se refiere la Fracción VI del Artículo 276o., se causarán conforme a una cuota adicional igual a la que en cada caso establece dicho precepto legal.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
+
+### CAPITULO VII. CONCESIONES, LINCENCIAS Y PLACAS
 
 ### CAPITULO VIII. DERECHOS DE COOPERACION
 
-###### ARTICULO 285o.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1981)</small>
 
-Se causarán derechos por cooperación para la ejecución de obras de interés público en los Municipios, según Decreto No. 168, publicado en el Periódico Oficial del Estado No. 43, de mayo 29 de 1976.
+###### ARTICULO 285.
 
-### CAPITULO IX. SERVICIOS DIVERSOS
+Se causarán derechos por cooperación para la ejecución de obras de interés público de conformidad al Decreto No. 406, publicado en el Periódico Oficial No. 104, de fecha 28 de diciembre de 1977.
 
 ###### ARTICULO 286o.
 
 Los propietarios o poseedores de predios que se encuentren dentro del área de beneficio de las obras públicas, causarán los derechos de cooperación que establece el Decreto citado en el Artículo anterior.
 
+### CAPITULO IX. SERVICIOS DIVERSOS
+
 ###### ARTICULO 287o.
 
-La expedición de pasaporte provisional causará derechos con la cuota de ................................................................................................................................ $ 200.00.
-
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1980)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 288o.
 
-El registro o revalidación de fierros, marcas y señales de ganado, causarán los siguientes derechos:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 289o.
 
-Los derechos de cotejo de documento causarán la cuota de ..........$ 25.00
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1977)</small>
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 290o.
 
-Los derechos por avalúo que practiquen funcionarios o empleados del Gobierno del Estado, causarán derechos conforme a la siguiente
-
-TARIFA:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 291o.
 
-Los derechos que se especifican a continuación causarán:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 292o.
 
-Derechos por permiso para ferias, kermeses, etc., por el permiso para la celebración por día, de $100.00 a $200.00
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
-Los derechos a que se refiere el presente Artículo, se pagarán previamente por el periodo de las ferias, kermeses, etc.
+###### ARTICULO 293o.
 
-###### ARTICULO 293o.-I.
-
-Derechos por cada licencia de apertura de establecimientos que expendan bebidas alcoholicas, aún cuando vendan además cervezas:
-
-VEASE TABLA ANEXA
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ###### ARTICULO 294o.
-
-El servicio de suscripciones y publicaciones en el Periódico Oficial del Estado, causará derechos conforme a la siguiente
-
-TARIFA:
 
 VEASE TABLA ANEXA
 
@@ -3063,7 +2951,7 @@ El cobro de los Derechos establecidos en el presente Titulo II, dará lugar, en 
 
 ###### ARTICULO 299º.
 
-Las cuotas a que se refiere el presente Titulo II, causarán los adicionales que establece la Ley de Ingresos del Estado.
+(DEROGADO, P.O. 30 DE DICIEMBRE DE 1981)
 
 ## TRANSITORIOS
 
@@ -3164,3 +3052,11 @@ El Ejecutivo mandará publicar en el Periódico Oficial del Estado el anexo 4 al
 ###### ARTICULO SEGUNDO.
 
 El presente decreto inicia su vigencia el primero de noviembre de 1980.
+
+P.O. 30 DE DICIEMBRE DE 1981
+
+PRIMERO.- Las obligaciones derivadas de los artículos que se reforman o derogan, conforme a este decreto, que hubieren nacido por la realización durante su vigencia de las situaciones jurídicas o de hecho previstas en dichos conceptos, deberán ser cumplidas en la forma y plazo establecido en dichos ordenamientos.
+
+SEGUNDO.- Tratándose de los contratos de promesa a que se refiere el Artículo 98, fracción III, de la Ley de Hacienda, celebrados con anterioridad al 1º. de enero de 1982, causarán el impuesto establecido en el Capítulo II, Título I, del citado ordenamiento, al celebrarse el contrato prometido.
+
+TERCERO.- El presente decreto surtirá sus efectos a partir del 1º. de enero de 1982.
