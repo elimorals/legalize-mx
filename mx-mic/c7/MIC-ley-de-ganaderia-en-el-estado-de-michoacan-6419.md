@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ganaderia-en-el-estado-de-michoacan-6419"
 country: "mx"
 rank: "ley"
 publication_date: "1954-12-30"
-last_updated: "1954-12-30"
+last_updated: "1957-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6419&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE GANADERIA EN (SIC) ESTADO DE MICHOACAN
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE ENERO DE 1957.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Michoacán, el 30 de diciembre de 1954.
 
@@ -31,9 +31,9 @@ DAMASO CARDENAS, Gobernador Constitucional del Estado Libre y Soberano de Michoa
 
 "El H. Congreso del Estado se ha servido dirigirme el siguiente Decreto:
 
-DECRETO N°. 65
+DECRETO No. 65
 
-LEY DE GANADERIA EN (sic) ESTADO DE MICHOACAN.
+LEY DE GANADERIA EN (SIC) ESTADO DE MICHOACAN.
 
 ### CAPITULO I.. DEL OBJETO DE LA LEY
 
@@ -69,7 +69,7 @@ d).- Los Inspectores de Ganadería y los miembros de la Policía Ganadera Honora
 
 e).- Los Cuerpos de Policía del Estado y de los Municipios.
 
-###### ARTICULO 6o.
+###### ARTICULO 6°.
 
 Las Autoridades que se mencionan en el artículo anterior, tendrán las facultades y delegaciones que se establecen en esta Ley y sus Reglamentos.
 
@@ -87,7 +87,7 @@ III.- Servir de intermediaria entre los propietarios de ganados que lo soliciten
 
 IV.- Llevar los libros de estadística que sean necesarios para conocer el progreso o decadencia de la industria ganadera y por consiguiente basar en éstos las medidas que al efecto se dicten.
 
-V.- Estar en comunicación con la Sub-Secretaría de Ganadería de la Secretaría de Agricultura y Ganadería a fin de aprovechar las enseñanzas que dicha dependencia imparta y difundirlas en todo el Estado en forma que estime más eficaz.
+V.- Estar en comunicación con la Sub Secretaría de Ganadería de la Secretaría de Agricultura y Ganadería a fin de aprovechar las enseñanzas que dicha dependencia imparta y difundirlas en todo el Estado en forma que estime más eficaz.
 
 VI.- Establecer campos de experimentación y propagación de plantas forrajeras, para proveer de plantas y semillas, a los ganaderos que deseen recurrir al sistema de praderas
 
@@ -241,7 +241,7 @@ a).- Pugnar por el mejoramiento y desarrollo de la ganadería;
 
 b).- Pugnar por la implantación de métodos técnicos y económicos que permitan organizar y orientar la producción a fin de aumentar su rendimiento económico;
 
-c).- Coadyuvar con las autoridades competentes para regularizar la producción ganadera.
+c).- Coadyuvar con las autoridades competentes para regularizar la produción ganadera.
 
 d).- Hacer una mejor distribución de la producción para el abastecimiento de los mercados local, estatal y nacional;
 
@@ -275,9 +275,7 @@ Los ganaderos deberán recabar anualmente de las Asociaciones Ganaderas Locales 
 
 ###### ARTICULO 26.
 
-Las tarjetas de identificación serán proporcionadas por el Gobierno del Estado a las Uniones Ganaderas Regionales, para que las distribuya por conducto de las Asociaciones
-
-Locales, previo pago de la cantidad cinco pesos por cada tarjeta. El producto que se obtenga, ingresará en la siguiente forma: un peso al Erario del Estado, dos pesos a la Unión Regional respectiva y dos pesos a las Asociaciones locales.
+Las tarjetas de identificación serán proporcionadas por el Gobierno del Estado a las Uniones Ganaderas Regionales, para que las distribuya por conducto de las Asociaciones Locales, previo pago de la cantidad cinco pesos por cada tarjeta. El producto que se obtenga, ingresará en la siguiente forma: un peso al Erario del Estado, dos pesos a la Unión Regional respectiva y dos pesos a las Asociaciones locales.
 
 ###### ARTICULO 27.
 
@@ -297,7 +295,7 @@ Las Uniones y Asociaciones Ganaderas, deberán registrarse en la Dirección de A
 
 ###### ARTICULO 30.
 
-La propiedad de los Ganados se acredita:
+La propiedad de los ganados se acredita:
 
 a).- Tratándose de ganado mayor, con el fierro, marca de fuego, señales de sangre en la oreja, tatuajes o aretes; para ganado menor, con señales de sangre.
 
@@ -323,7 +321,7 @@ La propiedad de los ganados se transferirá por los medios que establece el dere
 
 La propiedad de las pieles se justificará:
 
-a).- Tratándose de animales pertenecientes a criaderos ubicados en la Municipalidad, con documentos en que figuren los fierros, señales y marcas;
+a).- Tratándose de animales pertenecientes a criaderos ubicados en la municipalidad, con documentos en que figuren los fierros, señales y marcas;
 
 b).- Las introducidas de otros Municipios del Estado, con la documentación legal visada por el Inspector de Ganadería de la municipalidad de su origen;
 
@@ -417,7 +415,7 @@ Las Presidencias Municipales no registrarán ninguna marca de herrar, diseño o 
 
 Los animales que se encuentran trasherrados y el fierro modificado o encimado, serán recogidos por las Presidencias Municipales, los Jefes de Tenencia, Encargados del Orden o Asociación Ganadera Local, y consignados a la autoridad competente para que se averigue el móvil de ese hecho, y en su caso, se castiguen las personas responsables.
 
-Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los Ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por él o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
+Los gastos que origine el cuidado y manutención de estos animales, serán cobrados a los ayuntamientos, Jefes de Tenencia a Encargados del Orden a reserva de que sean reintegrados por él o los que resulten responsables, o deducidos del dinero producto del remate, según la resolución que se dicte.
 
 ###### ARTICULO 53.
 
@@ -437,13 +435,17 @@ Toda persona que encuentre o tenga conocimiento de la existencia de animales mos
 
 Cuando las Presidencias Municipales hayan recogido o recibido uno o varios animales mostrencos, procederán a formular una lista por triplicado con la reseña completa de cada animal, dando pelos y señales; una copia se fijará en sitio visible al público en la Presidencia Municipal, enviando otra a la Dirección de Agricultura y Ganadería y otra a la Asociación Ganadera Local respectiva, para la confronta de fierros y señales en el registro correspondiente.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1957)</small>
+
 ###### ARTICULO 57.
 
-Cuando la Asociación Ganadera no logre identificar a los mostrencos, girará oficio a las demás Asociaciones Locales del Estado, dando a conocer fierros y señales, a fin de determinar el nombre y lugar de residencia del propietario, para que éste, en un plazo de noventa días mande recoger sus animales pagando los gastos originados por los mismos.
+Cuando la Asociación Ganadera no logre identificar a los mostrencos, girará oficio a las demás Asociaciones circunvecinas, dando a conocer fierros y señales, a fin de determinar el nombre y lugar de residencia del propitario, (sic) para que éste, en un plazo de veinte días, mande recoger sus animales pagando los gastos originados por los mismos.
+
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 1957)</small>
 
 ###### ARTICULO 58.
 
-Terminado el plazo de referencia si no aparecen los dueños o se negaren a pagar los gastos correspondientes, los animales mostrencos serán rematados en subasta pública, previo cumplimiento de lo dispuesto a este respecto en el Código Civil.
+Terminando el plazo de referencia, si no aparecen los dueños o se negaren a pagar los gastos correspondientes, los animales mostrencos serán rematados en subasta pública, con sujeción a los procedimientos que establecen los artículos 135, 136, 137, 138, 139, 140, 141, 144, 145, 146, 147 y 148 de la Ley de Hacienda vigente en los Municipios del Estado, y al 134 del mismo ordenamiento, únicamente por lo que se refiere a la intervención de los peritos valuadores.
 
 ###### ARTICULO 59.
 
@@ -479,7 +481,7 @@ En los poblados donde no sea necesario un rastro, debido al poco consumo de carn
 
 ###### ARTICULO 66.
 
-Para ser Administrador o Encargado de un rastro, es necesario que se reúnan los mismos requisitos que para ser Inspector de Ganadería.
+Para ser Administrador o Encargado de un rastro, es necesario que se reúnan los mismos requisitos que para ser inspector de Ganadería.
 
 ###### ARTICULO 67.
 
@@ -527,7 +529,7 @@ Toda conducción de ganado deberá ampararse con un documento que se denominará
 
 ###### ARTICULO 76.
 
-Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a Inspectores del ramo, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
+Las guías estarán numeradas progresivamente y las proporcionará la Dirección de Agricultura y Ganadería a las Inspectores del ramo, anotando en su registro especial la cantidad y números de las formas que se entreguen a cada uno.
 
 ###### ARTICULO 77.
 
@@ -681,7 +683,7 @@ Los propietarios o arrendatarios de potreros o agostaderos o agricultores colind
 
 ###### ARTICULO 100.
 
-El incumplimiento a lo dispuesto en el artículo anterior, será sancionado por la Autoridad Municipal respectiva, con la intervención de la Asociación Ganadera Local, con multa de cincuenta o quinientos pesos, que ingresarán por partes iguales a la Hacienda Municipal, del Estado y de la Asociación Gadera.
+El incumplimiento a lo dispuesto en el artículo anterior, será sancionado por la Autoridad Municipal respectiva, con la intervención de la Asociación Ganadera Local, con multa de cincuenta o quinientos pesos, que ingresarán por partes iguales a la Hacienda Municipal, del Estado y de la Asociación Ganadera.
 
 ###### ARTICULO 101.
 
@@ -761,7 +763,7 @@ Se declara de interés público y por lo tanto obligatorio, la prevención y com
 
 ###### ARTICULO 119.
 
-Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al Inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera respectiva.
+Se declara obligatorio para todos los habitantes del Estado, la denuncia de la aparición o existencia de cualquier enfermedad que ataque a las especies animales. La denuncia se hará al Inspector de Ganadería más próximo, a la Autoridad Municipal y a la Asociación Ganadera Respectiva.
 
 ###### ARTICULO 120.
 
@@ -843,7 +845,7 @@ Se declara obligatoria la campaña contra la garrapata.
 
 ###### ARTICULO 134.
 
-Los propietarios o encargados de ganado donde exista garrapata, deberán desinfectarlo de preferencia en tanques construidos según el modelo aprobado por el Ejecutivo del Estado. Los pequeños propietarios podrán bañar su ganado en los tanques más próximos mediante convenio con los propietarios de éstos. El Gobierno del Estado en cooperación con el Federal y los municipios, Uniones o Asociaciones Ganaderas, construirán tanques de esta naturaleza en los lugares que juzgue conveniente, los ganaderos poseedores de más de trescientas cabezas de ganado vacuno, tendrán la obligación de construir en su finca un baño garrapaticida.
+Los propietarios o encargados de ganado donde exista garrapata, deberán desinfectarlo de preferencia en tanques construidos según el modelo aprobado por el Ejecutivo del Estado. Los pequeños propietarios podrán bañar su ganado en los tanques más próximos mediante convenio con los propietarios de estos. El Gobierno del Estado en cooperación con el Federal y los municipios, Uniones o Asociaciones Ganaderas, construirán tanques de esta naturaleza en los lugares que juzgue conveniente, los ganaderos poseedores de más de trescientas cabezas de ganado vacuno, tendrán la obligación de construir en su finca un baño garrapaticida.
 
 ###### ARTICULO 135.
 
@@ -863,7 +865,7 @@ El ganado que pase de la zona libre a la zona infestada, no podrá regresar sin 
 
 ###### ARTICULO 139.
 
-Los Presidentes Municipales, los Inspectores de Ganadería y las Uniones y Asociaciones Ganaderas están obligados a exigir la constancia de baño en todo el trayecto de tránsito del ganado y en caso de no ser presentada, se dará parte inmediatamente al Gobierno del Estado.
+Los Presidentes Municipales, los Inspectores de Ganadería y las uniones y Asociaciones Ganaderas están obligados a exigir la constancia de baño en todo el trayecto de tránsito del ganado y en caso de no ser presentada, se dará parte inmediatamente al Gobierno del Estado.
 
 ###### ARTICULO 140.
 
@@ -948,3 +950,11 @@ GRAL. DAMASO CARDENAS.
 EL SRIO. GRAL. DE GOBIERNO
 
 LIC. EMILIO ROMERO ESPINOSA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 21 DE ENERO DE 1957.
+
+###### ARTICULO UNICO.
+
+Este Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial.
