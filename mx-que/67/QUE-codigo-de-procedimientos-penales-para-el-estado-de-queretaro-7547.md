@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-penales-para-el-estado-de-queretaro-75
 country: "mx"
 rank: "codigo"
 publication_date: "1989-07-06"
-last_updated: "1996-12-19"
+last_updated: "1997-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,13 @@ state: "QUE"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL:19 DE DICIEMBRE DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 1997.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 6 de julio de 1989.
 
 LIC. MARIANO PALACIOS ALCOCER, Gobernador Constitucional del Estado Libre y Soberano de Querétaro Arteaga, a los habitantes del mismo, sabed que:
 
-LA CUADRAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, APROBÓ EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO, EN LOS SIGUIENTES TÉRMINOS:
+LA CUADRAGESIMA NOVENA LEGISLATURA CONSTITUCIONAL DEL ESTADO DE QUERETARO ARTEAGA, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTICULO 63 DE LA CONSTITUCIÓN POLÍTICA LOCAL, APROBÓ EL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERÉTARO, EN LOS SIGUIENTES TÉRMINOS.
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE QUERETARO
 
@@ -519,7 +519,7 @@ Si alguna persona del público se comunica o intenta comunicarse con el imputado
 
 ARTICULO 95 (Orden en el uso de la palabra).- En toda audiencia, el imputado y su defensor tendrán siempre el derecho a hacer uso de la palabra en último lugar.
 
-ARTICULO 96 (Alteración del orden por el imputado) Si el imputado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor.
+ARTICULO 96 ( Alteración del orden por el imputado) Si el imputado altera el orden en una audiencia, se le apercibirá de que si insiste en su actitud se tendrá por renunciado su derecho de estar presente; si no obstante esto, continúa, se le mandará retirar del local y proseguirá la diligencia con su defensor.
 
 Todo esto, sin perjuicio de aplicarle la corrección disciplinaria que el Tribunal estime pertinente.
 
@@ -939,7 +939,7 @@ ARTICULO 170 (Plazo para rendir el dictamen).- El funcionario que practique las 
 
 Si a pesar de haber sido apremiado el perito no cumple con las obligaciones señaladas en el párrafo anterior, se denunciará su conducta ante el Ministerio Público.
 
-ARTICULO 171 (Médicos en los hospitales públicos).- Cuando se trate de una lesión, proveniente de delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
+ARTICULO 171 (Médicos en los hospitales públicos).- Cuando se trate de una lesión, proveniente del delito y el lesionado se encuentre en algún hospital público, los médicos de éste se tendrán por nombrados como peritos, sin perjuicio de que el funcionario que practique las diligencias nombre, además, otros, si lo creyere conveniente, para que dictaminen y hagan la clasificación legal.
 
 ARTICULO 172 (Necropsia en los hospitales públicos).- La necropsia de cadáveres de personas que hayan fallecido en un hospital público, la practicarán los médicos de éste, sin perjuicio de la facultad que concede la parte final del artículo anterior.
 
@@ -1359,7 +1359,7 @@ b) Librar orden de comparecencia en todos los demás casos.
 
 ARTICULO 259 (Plazo y objetivo de la declaración preparatoria).- Dentro de las cuarenta y ocho horas siguientes al momento en que el inculpado esté a disposición del juez, éste le hará saber, en audiencia pública, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en ese acto su declaración preparatoria.
 
-ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda, se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
+ARTICULO 260 (Nombramiento de defensor).- La declaración preparatoria comenzará por las generales del inculpado, en las que se incluirán también los apodos que tuviere. Acto seguido, el juez le hará saber el derecho que tiene para defenderse, por si o por persona de su confianza, a menos que haya designado defensor durante las diligencias de preparación del ejercicio de la acción penal y éste se encuentre presente. En caso de no tener quien lo defienda se le presentará la lista de los defensores de oficio para que elija el que, o los que le convengan. Si el indiciado no quiere nombrar defensor, después de ser requerido para hacerlo, el juez le nombrará uno de oficio.
 
 ARTICULO 261 (Libertad bajo caución).- Una vez satisfecho el requisito del artículo anterior, el Juzgador a continuación dará a conocer al inculpado si tiene derecho a gozar de la libertad bajo caución y, en su caso, las condiciones en que puede gozar de ese beneficio.
 
@@ -1587,7 +1587,7 @@ ARTICULO 300 E.- (Efectos de la suspensión a prueba).- Al beneficiado con la su
 
 ARTICULO 300 F.- (Término de la suspensión a prueba y autoridad que la declara).- Si durante el plazo previsto en el artículo anterior, contado a partir de que se le concedió la suspensión a prueba del procedimiento penal, el beneficiado no diere lugar a nuevo proceso por delito doloso y haya cumplido con las condiciones y medidas impuestas, se sobreseerá el proceso.
 
-> <small>(ADICIONAD,O P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
 
 ARTICULO 300 G.- (Hipótesis de revocación).- La suspensión a prueba se revocará en los casos siguientes:
 
@@ -1707,6 +1707,8 @@ Al notificar al imputado la sentencia de primera instancia, se le hará saber el
 
 La omisión de este requisito surte el efecto de duplicar el plazo legal para interponer el recurso, y al secretario o actuario que haya incurrido en ello, se le aplicará una corrección disciplinaria, por parte del Magistrado Ponente que conozca de la apelación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE MARZO DE 1997)</small>
+
 ### CAPITULO IV. DENEGADA APELACION
 
 ARTICULO 328 (Procedencia).- El recurso de denegada apelación procede contra la resolución del juez de primera instancia que declara improcedente el recurso de apelación, cualquiera que sea el motivo.
@@ -1739,7 +1741,7 @@ Transcurrido este plazo, con informe o sin él, se dictará la resolución que p
 
 ###### ARTICULO 316.
 
-(Resoluciones apelables).- El recurso de apelación procederá contra las siguientes resoluciones:
+El recurso de apelación procederá contra las siguientes resoluciones pronunciadas por los Jueces de Primera Instancia.
 
 I.- Las sentencias definitivas;
 
@@ -1881,7 +1883,9 @@ El Juzgador requerido dará un plazo común de tres días a las partes para que 
 
 ARTICULO 350 (Resolución del Tribunal Superior de Justicia).- Cuando conforme al artículo 16 de este Código el conflicto de competencia deba ser resuelto por el Tribunal Superior de Justicia, éste emitirá su resolución dentro del plazo de diez días contados a partir de la fecha en que reciba el o los incidentes; en el caso de que se determine procedente la incompetencia planteada, el Tribunal Superior de Justicia ordenará lo conducente a fin de que el procedimiento sea continuado por el Juez declarado competente.
 
-ARTICULO 351 (Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
+ARTICULO 351 (
+
+Validez de las actuaciones del Juzgador incompetente).- Lo actuado por un Juzgador incompetente será válido. El Juzgador declarado competente que reciba las actuaciones del incompetente, continuará el proceso a partir del último acto realizado por el primero.
 
 ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se tramitarán siempre por separado.
 
@@ -1889,7 +1893,7 @@ ARTICULO 352 (Tramitación por separado).- Los incidentes sobre competencia se t
 
 RECUSACIONES
 
-ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
+ARTICULO 353 (Calificación del impedimento).- El impedimento se calificará por el superior a quien correspondería resolver de una recusación, en vista del informe que, dentro de tres días, rinda el juez o magistrado. Contra la resolución que se dicte no habrá recurso alguno.
 
 ARTICULO 354 (Plazo para interponer la recusación).- La recusación puede interponerse en cualquier tiempo pero no después de que se haya citado para sentencia, y no suspende la instrucción ni la tramitación del recurso pendiente. Después de la citación para sentencia solo será admisible la recusación, en caso de que hubiere cambio de personal en el juzgado o del tribunal de conocimiento, y deberá proponerse dentro de los tres días siguientes a aquél en que se notifique el auto en que se haga saber tal circunstancia.
 
@@ -2023,7 +2027,7 @@ ARTICULO 374 (Sentencia única).- Si la tramitación del incidente queda termina
 
 ARTICULO 375 (Providencias precautorias).- El actor civil podrá solicitar providencias precautorias en los términos del Código de Procedimientos Civiles para el Estado.
 
-ARTICULO 376 (Liquidación).- Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar en la sentencia a su reparación y ordenar que su liquidación se formule en la vía correspondiente conforme el Código de Procedimientos Civiles para el Estado, ante el juez que se encargue de su ejecución.
+ARTICULO 376 (Liquidación).- Cuando esté comprobada la existencia de los daños y perjuicios, pero no su monto, el Juzgador deberá condenar en la sentencia a su reparación y ordenar que su liquidación se formule en la vía correspondiente conforme el Código de Procedimiento Civiles para el Estado, ante el juez que se encargue de su ejecución.
 
 ARTICULO 377 (Competencia para la ejecución).- Los jueces civiles serán competentes para conocer de la ejecución de la sentencia dictada por la jurisdicción penal en el incidente de reparación de daños y perjuicios exigibles a terceros.
 
@@ -2140,3 +2144,13 @@ P.O. 19 DE DICIEMBRE DE 1996.
 PRIMERO.- Esta Ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a la presente.
+
+P.O. 20 DE MARZO DE 1997.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente Ley.
