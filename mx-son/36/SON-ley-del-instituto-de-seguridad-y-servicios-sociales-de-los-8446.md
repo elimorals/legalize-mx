@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1965-01-13"
+last_updated: "1965-09-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 13 DE ENERO DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE SEPTIEMBRE DE 1965.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -47,7 +47,9 @@ La presente Ley se aplicará:
 
 I.- A los trabajadores del servicio civil del Estado de Sonora;
 
-II.- A los trabajadores de los organismos públicos que por ley o por acuerdo del Ejecutivo del Estado sean incorporados a su régimen.
+> <small>(REFORMADA, B.O. 15 DE SEPTIEMBRE DE 1965)</small>
+
+II.- A los trabajadores o empleados de organismos que por Ley o por acuerdo del Ejecutivo del Estado sean incorporados a su régimen.
 
 III.- A los pensionistas del Estado y de organismos públicos a que se refiere la fracción anterior;
 
@@ -69,9 +71,13 @@ II.- Por pensionista, a toda persona a la que la Dirección de Pensiones del Est
 
 III.- Por familiares derechohabientes, aquellos a los que esta ley les conceda tal carácter.
 
-###### Artículo 3o.
+> <small>(REFORMADO, B.O. 15 DE SEPTIEMBRE DE 1965)</small>
 
-Pueden acogerse a los beneficios de este Ordenamiento los funcionarios y empleados dependientes de la Universidad de Sonora, así como los de los Municipios de la Entidad, previo acuerdo del Ejecutivo y cumpliendo con las obligaciones del mismo Ordenamiento impone.
+###### Artículo 3º.
+
+Pueden acogerse a los beneficios de este Ordenamiento los funcionarios y empleados dependientes de la Universidad de Sonora, de los Municipios de la Entidad y de Organismos o Instituciones que tomando en cuenta la naturaleza del servicio que prestan, determine la junta directiva y apruebe el ejecutivo, cumpliéndose en el caso con las obligaciones que el mismo ordenamiento impone.
+
+Se faculta a la junta directiva del Instituto, para que determine qué organismos o trabajadores podrán incorporarse al régimen y establezca las condiciones, modalidades, requisitos y obligaciones para u ingreso quedando tales acuerdos sujetos a la aprobación del Ejecutivo del Estado.
 
 ###### Artículo 4o.
 
@@ -1184,3 +1190,7 @@ UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el
 B.O. 13 DE ENERO DE 1965.
 
 UNICO.- Esta Ley entrará en vigor a partir del día de su publicación en el Boletín Oficial del Estado.
+
+B.O. 15 DE SEPTIEMBRE DE 1965.
+
+UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
