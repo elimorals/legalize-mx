@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-hacienda-del-estado-de-nayarit-11036"
 country: "mx"
 rank: "ley"
 publication_date: "1990-12-26"
-last_updated: "1991-12-25"
+last_updated: "1995-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11036&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 26 de diciembre de 1990.
 
@@ -49,9 +49,9 @@ LEY DE HACIENDA DEL ESTADO DE NAYARIT
 
 Son objeto de este Impuesto, los Ingresos que se perciben por los siguientes conceptos:
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O.23 DE DICIEMBRE DE 1995)</small>
 
-I.- En el ejercicio de una profesión, arte, oficio o actividad técnica deportiva o cultural, y sobre los obtenidos por las personas que realicen directa o indirectamente, los trabajos de servicios personales cualquiera que sea el nombre con que se les designe.
+I.- En el ejercicio de una profesión, arte, oficio o actividad técnica, deportiva o cultural, y sobre los obtenidos por las personas que realicen directa o indirectamente, los trabajos de servicios personales cualquiera que sea el nombre con que se les designe; respecto de los servicios profesionales de medicina, el impuesto se causará cuando su prestación requiera título de médico conforme a las leyes, siempre que sea prestado por personas físicas, ya sea individualmente o por conducto de sociedades civiles.
 
 II.- En el transporte Público de personas y cosas.
 
@@ -62,8 +62,6 @@ III.- En el ejercicio de una actividad profesional prestado bajo la dirección y
 IV.- Otros que no paguen el impuesto al valor agregado.
 
 En este caso quienes efectúen los pagos están obligados a retener y enterar el impuesto.
-
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -155,11 +153,11 @@ Este impuesto se liquidará de conformidad con la tasa que al efecto establezca 
 
 #### SECCION QUINTA. DEL PAGO
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 14.
 
-El pago del impuesto deberá efectuarse, dentro de los primeros 10 días hábiles del mes siguiente a aquél en que se causó. El pago deberá hacerse mediante declaración en la oficina que corresponda al domicilio fiscal del contribuyente, en las formas oficiales que apruebe la Secretaría de Finanzas.
+El pago del impuesto deberá efectuarse, dentro de los primeros 10 días de calendario del mes siguiente a aquél en que se causó. El pago deberá hacerse mediante declaración en la oficina recaudadora que corresponda al domicilio fiscal del contribuyente, en las formas oficiales que apruebe la Secretaría de Finanzas.
 
 > <small>N. DE E. ESTE PARRAFO NO FUE DEROGADO EXPRESAMENTE EN REFORMA PUBLICADA EL 25 DE DICIEMBRE DE 1991</small>
 
@@ -189,7 +187,9 @@ E) Pagos por gastos funerarios;
 
 F) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto sobre la Renta;
 
-G) Prestaciones sociales.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 1995)</small>
+
+G) Gastos de Previsión Social, en los términos de la Ley del Impuesto Sobre la Renta;
 
 H) Aguinaldos.
 
@@ -235,7 +235,7 @@ I.- Presentar su aviso de inscripción ante la Recaudación de Rentas correspond
 
 II.- Presentar ante las mismas autoridades, dentro del plazo que señala la fracción anterior, los avisos de cambio de domicilio, nombre, razón social o suspensión de actividades.
 
-III.- Presentar los avisos, datos, documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto, y
+III.- Presentar los avisos, datos documentos e informes que les soliciten las autoridades fiscales, en relación con este impuesto, dentro de los plazos y en los lugares señalados al efecto, y
 
 IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz, que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse por separado, y las que estén ubicadas en la misma localidad, se deberán empadronar sólo para efectos de control.
 
@@ -409,7 +409,7 @@ Las personas que accidentalmente organicen o exploten las operaciones gravadas p
 
 > <small>(DEROGADA CON EL ARTICULO QUE LA INTEGRA, P.O. 25 DE DICIEMBRE DE 1991)</small>
 
-#### SECCION TERCERA. DE LA TARIFA
+#### SECCION TERCERA. DE LA T ARIFA
 
 ###### ARTICULO 35.
 
@@ -425,6 +425,8 @@ Las personas que accidentalmente organicen o exploten las operaciones gravadas p
 
 #### SECCION PRIMERA. DEL OBJETO
 
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 37.
 
 (DEROGADO, P.O. 25 DE DICIEMBRE DE 1991)
@@ -432,6 +434,8 @@ Las personas que accidentalmente organicen o exploten las operaciones gravadas p
 #### SECCION SEGUNDA
 
 DEL SUJETO.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O.23 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 38.
 
@@ -463,13 +467,13 @@ DEL SUJETO.
 
 ###### ARTICULO 40.
 
-Es objeto de este Impuesto la Adquisición por compraventa, donación, prescripción o por cualquier otra causa o Título de toda clase de bienes muebles.
+Es objeto de este Impuesto la Adquisición por compraventa, donación, prescripción o por cualquier otra causa o título de toda clase de bienes muebles usados.
 
 #### SECCION QUINTA. PARA EL FOMENTO DE LA EDUCACION
 
 ###### ARTICULO 41.
 
-Es sujeto la persona que adquiere los bienes y solidariamente responsable el transmisor.
+Es sujeto la persona que adquiere los bienes y solidariamente responsable del transmisor, a excepción de los bienes muebles enajenados por las empresas en los términos de la Ley del Impuesto al Valor Agregado.
 
 #### SECCION SEXTA. PARA LA ASISTENCIA SOCIAL
 
@@ -658,3 +662,7 @@ Lic. Javier Germán Rodríguez Jiménez.
 P.O. 25 DE DICIEMBRE DE 1991
 
 UNICO.- El presente Decreto surtirá sus efectos a partir del día 1º. de enero de mil novecientos noventa y dos previa publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 1995.
+
+UNICO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial Organo de Gobierno del Estado.
