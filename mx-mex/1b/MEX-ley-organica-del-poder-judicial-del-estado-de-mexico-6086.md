@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2002-12-31"
+last_updated: "2003-05-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 31 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE MAYO DE 2003.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -331,9 +331,11 @@ Los magistrados concurrirán al desempeño de sus labores los días hábiles y d
 
 ### CAPITULO SEGUNDO. Del Pleno del Tribunal
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ###### Artículo 32.
 
-El pleno del tribunal estará formado por los magistrados que integren las salas y por el presidente de ese cuerpo colegiado, o en su caso, por el magistrado que lo supla interinamente.
+El pleno del tribunal estará formado por los magistrados que integren las salas colegiadas y unitarias y por el presidente de ese cuerpo colegiado, o en su caso, por el magistrado que lo supla interinamente.
 
 ###### Artículo 33.
 
@@ -411,7 +413,9 @@ III. Tramitar los asuntos de la competencia del pleno del tribunal hasta su reso
 
 IV. Designar a los magistrados sustitutos de las salas en los casos de excusa, impedimento o recusación;
 
-V. Vigilar que los presidentes de las salas y los jueces proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+
+V. Vigilar que los presidentes de las salas colegiadas, los magistrados unitarios y los jueces proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
 
 VI. Ordenar y coordinar la atención de la correspondencia del tribunal, así como el trámite, envío y diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias o despachos;
 
@@ -427,43 +431,85 @@ XI. Informar anualmente al pleno del Tribunal Superior de Justicia sobre las act
 
 XII. Representar al Tribunal Superior de Justicia en los actos jurídicos y oficiales o designar, en su caso, representante para tal efecto; y
 
-XIII. Las demás que le confieran las leyes y otras disposiciones legales.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
 
-### CAPITULO CUARTO. De las Salas del Tribunal Superior de Justicia
+XIII. Solicitar a la Sala Colegiada respectiva, que ejerza la facultad de atracción para conocer de asuntos de la competencia de la Sala Unitaria;
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2003)</small>
+
+XIV. Las demás que le confieran las leyes y otras disposiciones legales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 8 DE MAYO DE 2003)</small>
+
+### CAPITULO CUARTO. De las Salas Colegiadas y Unitarias del Tribunal Superior de Justicia
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 43.
 
-El Tribunal Superior de Justicia ejercerá sus funciones en el número de salas regionales que determine el Consejo de la Judicatura, distribuidas en las regiones geográficas que éste estime necesarias; podrán integrarse a ellas, de acuerdo con las necesidades de la función jurisdiccional: salas civiles, que conocerán de los asuntos civiles y mercantiles; salas penales, que conocerán de los asuntos de este ramo; y salas familiares, para los asuntos de esta materia.
+El Tribunal Superior de Justicia ejercerá sus funciones en salas colegiadas y unitarias que determine el Consejo de la Judicatura, distribuidas en las regiones en el número y ubicación geográficas como lo estime necesario; para el despacho de los asuntos, las salas civiles, conocerán de los asuntos civiles y mercantiles; salas penales, conocerán de los asuntos de este ramo; y salas familiares de los asuntos de esta materia.
 
-Cada sala se integrará por tres magistrados y tendrá un número progresivo.
+El Consejo de la Judicatura podrá, por necesidades del servicio, determinar que las salas regionales conozcan indistintamente de diversas materias.
+
+Las salas colegiadas se integrarán por tres magistrados cada una y las unitarias por un solo magistrado, teniendo un número progresivo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 44.
 
-Corresponde a las salas del Tribunal Superior de Justicia, conocer y resolver:
+Corresponde a las salas colegiadas del Tribunal Superior de Justicia, conocer y resolver:
 
-I. De los recursos que se interpongan en contra de las resoluciones de los jueces de primera instancia y de cuantía menor, conforme a las leyes procesales respectivas;
+(REFORMADA, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
 
-II. De los conflictos de competencia que se susciten entre los juzgados pertenecientes a su adscripción. Cuando se trate de juzgados de distintas salas, conocerá la sala a la que pertenezca el juzgado que dio inicio al conflicto;
+I. En materia civil, familiar y mercantil, de los recursos que se interpongan en contra de sentencias definitivas, dictadas por los jueces de primera instancia y de cuantía menor.
 
-III. De las recusaciones o excusas de sus miembros y de los jueces, así como de la oposición de las partes y solicitar, en su caso, la designación del sustituto al presidente del Tribunal Superior de Justicia; y
+En materia penal, de los recursos que conforme a las leyes procesales se interpongan en contra de resoluciones dictadas sobre delitos graves, aun cuando concurra con otro no grave.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+
+II. De los asuntos cuya competencia corresponda a las salas unitarias, cuando por su importancia y trascendencia lo determine el presidente del Tribunal Superior de Justicia.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+
+III. De las recusaciones o excusas de sus miembros, de los magistrados unitarios de su adscripción, así como de la oposición de las partes y solicitar, en su caso, la designación del sustituto al presidente del Tribunal Superior de Justicia; y
 
 IV. De los demás asuntos que les confieran esta ley, el reglamento interior del tribunal y otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1999)</small>
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2003)</small>
+
+###### Artículo 44 Bis.
+
+Corresponde a las Salas Unitarias del Tribunal Superior de Justicia, conocer y resolver:
+
+> <small>(F. DE E., P.O. 27 DE MAYO DE 2003)</small>
+
+I. En materia civil, familiar y mercantil, de los recursos que interpongan en contra de resoluciones diversas a las sentencias definitivas, dictadas por los jueces de cuantía menor y de primera instancia.
+
+En materia penal, de los recursos que se interpongan en contra de resoluciones dictadas en asuntos sobre delitos no graves; con excepción de lo previsto en la fracción II del artículo anterior.
+
+II. De los conflictos de competencia que se susciten entre los juzgados pertenecientes a su adscripción. Cuando se trate de juzgados de distintas salas, conocerá la sala a la que pertenezca el juzgado que dio inicio al conflicto.
+
+> <small>(F. DE E., P.O. 27 DE MAYO DE 2003)</small>
+
+III. De las recusaciones de los jueces de su adscripción, así como de la oposición de las partes a las excusas; y
+
+IV. De los demás asuntos que les confieran esta ley, el reglamento interior del Tribunal y otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 45.
 
-Cada sala elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros por mayoría de votos, un Presidente.
+Cada sala colegiada elegirá anualmente en el mes de enero y en forma alterna de entre sus miembros un Presidente.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 46.
 
-Son atribuciones de los presidentes de sala:
+Son atribuciones de los presidentes de sala colegiada y de los magistrados de la sala unitaria:
 
 I. Realizar los trámites que procedan en los asuntos de la competencia de la sala;
 
-II. Distribuir por riguroso turno entre él y los demás miembros de la sala, los tocas para su estudio y presentación oportuna del proyecto de resolución;
+II. (DEROGADA, P.O. 8 DE MAYO DE 2003)
 
 III. Presidir las audiencias y las sesiones y dirigir los debates, conservando el orden durante éstos;
 
@@ -471,19 +517,29 @@ IV. Tener la representación de la sala y despachar la correspondencia oficial, 
 
 V. Conocer de los asuntos que les encomiende esta ley y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ###### Artículo 47.
 
-Los magistrados adscritos a cada sala desempeñarán por turno el cargo de magistrado semanero, quien proveerá lo conducente a las promociones de las partes, sometiendo los acuerdos a la aprobación de los integrantes de la misma.
+Los magistrados adscritos a cada sala colegiada desempeñarán por turno el cargo de magistrado semanero, quien proveerá lo conducente a las promociones de las partes, sometiendo los acuerdos a la aprobación de los demás integrantes de la misma.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 48.
 
-Las resoluciones de las salas se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
+Las resoluciones de las salas colegiadas se tomarán por unanimidad o mayoría de votos de los magistrados, quienes no podrán abstenerse de votar sino cuando tengan impedimento legal.
 
-Si al llevarse a cabo la votación de un asunto no se obtuviere mayoría, el presidente de la sala lo turnará a otro magistrado para que formule un proyecto de resolución sobre el cual se decidirá en definitiva. El magistrado que disienta formulará voto particular, el cual se insertará en la ejecutoria respectiva.
+Si al llevarse a cabo la votación de un asunto no se obtuviere mayoría, el presidente de la sala colegiada lo turnará a otro magistrado para que formule un proyecto de resolución sobre el cual se decidirá en definitiva. El magistrado que disienta formulará voto particular, el cual se insertará en la ejecutoria respectiva.
+
+Si a pesar de lo señalado en el párrafo anterior, no existe mayoría en la votación, se pasará el asunto a la Sala correspondiente más próxima, para que dicte la resolución.
 
 ###### Artículo 49.
 
 La sala respectiva calificará las excusas e impedimentos de sus integrantes. Si con motivo de la excusa o del impedimento, el asunto no pudiere ser resuelto, se pedirá al presidente del tribunal que designe al magistrado que debe integrar sala en sustitución de aquél.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2003)</small>
+
+Los Presidentes de las salas colegiadas distribuirán por riguroso turno entre él y los demás miembros de la sala, los tocas para su estudio y presentación oportuna del proyecto de resolución.
 
 ###### Artículo 50.
 
@@ -715,7 +771,9 @@ Los demás servidores públicos de los juzgados de primera instancia deberán re
 
 Los jueces de primera instancia de la materia civil, conocerán y resolverán:
 
-I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de 500 veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar si hubiere en el lugar, juzgado de esta materia;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+
+I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mil veces el salario mínimo vigente en el área geográfica respectiva o cuando no sea susceptible de cuantificarse en dinero, con excepción de los que correspondan al derecho familiar si hubiere en el lugar, juzgado de esta materia;
 
 II. De los actos de jurisdicción voluntaria relacionados con inmatriculaciones, informaciones de dominio o ad perpetuam y juicios donde se ejerciten acciones posesorias, cualquiera que sea el valor del negocio;
 
@@ -823,9 +881,13 @@ Los jueces de cuantía menor, dentro de su jurisdicción, tendrán competencia p
 
 I. En materia civil y mercantil:
 
-a) Del procedimiento verbal o escrito de todos los juicios civiles o mercantiles cuyo monto no exceda de 500 veces el salario mínimo vigente en el área geográfica respectiva, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
-b) De las diligencias preliminares de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca no exceda de 500 veces el salario mínimo vigente en el área geográfica respectiva. En los casos de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
+a) De todos los juicios civiles o mercantiles cuyo monto sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva, exceptuando los asuntos que son de la competencia de los jueces de primera instancia.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
+b) De las diligencias de consignación, incluso pensiones alimenticias, cuando el valor de la cosa o la cantidad que se ofrezca sea hasta mil veces el salario mínimo vigente en el área geográfica respectiva. En los casos de prestaciones periódicas deberá estarse a lo dispuesto en el Código de Procedimientos Civiles.
 
 II. En materia penal:
 
@@ -885,11 +947,13 @@ Las disposiciones de este capítulo se aplicarán en los asuntos mercantiles, si
 
 Servidores Públicos de la Administración de Justicia
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ### CAPITULO NOVENO. De los Auxiliares de la Administración de Justicia
 
 ###### Artículo 88.
 
-Los secretarios tienen fe pública en el ejercicio de las funciones a su cargo; también la tienen los servidores públicos judiciales que en cada caso autoricen, la ley, el presidente del Tribunal Superior de Justicia, los presidentes de las salas o el juez.
+Los secretarios tienen fe pública en el ejercicio de las funciones a su cargo; también la tienen los servidores públicos judiciales que en cada caso autoricen, la ley, el presidente del Tribunal Superior de Justicia, los presidentes de las salas colegiadas, los magistrados unitarios o el juez.
 
 ###### Artículo 89.
 
@@ -899,7 +963,9 @@ I. Cumplir con el horario de labores fijado por el Consejo de la Judicatura, vig
 
 II. Recibir por sí o por conducto de la oficialía de partes, los escritos o promociones que se les presenten, anotar al calce la razón del día y la hora de presentación, expresando el número de hojas que contengan los documentos que se acompañen. También deberán asentar razón idéntica en la copia, con la firma del que recibe el escrito y el sello del juzgado o tribunal, para que quede en poder del interesado;
 
-III. Dar cuenta diariamente dentro de las 24 horas siguientes de su recepción, al presidente del Tribunal Superior de Justicia, al presidente de la sala o al juez, según corresponda, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban y tramitar la correspondencia oficial;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2003)</small>
+
+III. Dar cuenta diariamente dentro de las 24 horas siguientes de su recepción, al presidente del Tribunal Superior de Justicia, al presidente de la sala colegiada, al magistrado unitario, o al juez, según corresponda, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban y tramitar la correspondencia oficial;
 
 IV. Autorizar los despachos, exhortos, actas, diligencias y autos, así como toda clase de resoluciones dictadas por el presidente del Tribunal Superior de Justicia o del pleno, magistrados de las salas o juez, según corresponda;
 
@@ -1089,9 +1155,11 @@ XIV. No asistir al desempeño de sus labores o incumplir con el horario reglamen
 
 XV. No cumplir con los términos señalados en los ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
 ###### Artículo 113.
 
-Si la falta se cometiere porque los magistrados de las salas no dicten sus resoluciones dentro del término legal, solamente será responsable el ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los otros magistrados; los tres serán responsables, si al haberse presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no emitieren su voto sin causa justificada.
+Si la falta se cometiere porque los magistrados de las salas colegiadas no dicten sus resoluciones dentro del término legal, solamente será responsable el ponente, cuando no presentare oportunamente el proyecto respectivo a la consideración de los otros magistrados; los tres serán responsables, si al haberse presentado la ponencia correspondiente, no concurrieren a la discusión del negocio o no emitieren su voto sin causa justificada.
 
 ###### Artículo 114.
 
@@ -1347,9 +1415,13 @@ VI. Distribuir las labores entre él y su personal para un mejor funcionamiento.
 
 La jurisprudencia que establezca el Tribunal Superior de Justicia funcionando en Pleno, será obligatoria para las salas regionales y los juzgados. La que establezca funcionando en salas, será obligatoria para los juzgados.
 
-Habrá jurisprudencia, cuando lo resuelto por el Pleno se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Cumplido este requisito el Pleno del Tribunal hará la declaratoria correspondiente y ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia para que surta sus efectos.
+(REFORMADO, P.O. 8 DE MAYO DE 2003) (F. DE E., P.O. 27 DE MAYO DE 2003)
 
-Habrá jurisprudencia, cuando lo resuelto por una sala se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos. Cumplido este requisito la sala ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia del Tribunal para que surta sus efectos.
+Habrá jurisprudencia, cuando lo resuelto por una sala colegiada se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario y haya sido aprobada por unanimidad de votos. Cumplido este requisito la sala colegiada ordenará su publicación en el Boletín Judicial y en el Prontuario de Jurisprudencia del Tribunal para que surta sus efectos.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
+También se constituirá jurisprudencia cuando lo resuelto por tres distintas salas unitarias se sustente en cinco sentencias consecutivas no interrumpidas por otra en contrario. Las salas involucradas o el coordinador general de compilación y sistematización de tesis, deberá (sic) pedir al Pleno del Tribunal Superior de Justicia que haga la declaratoria respectiva, y procederá a su redacción, ordenando su publicación en el boletín judicial y el prontuario de Jurisprudencia para que surta efectos.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1359,7 +1431,9 @@ Cuando dos o más de las salas sustenten tesis contradictorias, el Pleno del Tri
 
 La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicción, tendrá el carácter de jurisprudencia, conforme a lo dispuesto en el primer párrafo del artículo 139 de esta Ley.
 
-La resolución que dirima la controversia no afectará por ningún motivo la situación jurídica concreta definida en juicio con anterior a la misma.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
+
+La resolución que dirima la controversia no afectará por ningún motivo las situaciones jurídicas concretas definidas en juicio con anterioridad a la misma.
 
 > <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
@@ -1379,11 +1453,13 @@ IV.- El Procurador General de Justicia del Estado, cuando considere que se afect
 
 V.- El Coordinador General de Compilación y Sistematización de Tesis del Tribunal Superior de Justicia.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2003)</small>
 
 ###### Artículo 142.
 
-La jurisprudencia sustentada por el Pleno del Tribunal Superior de Justicia o por las salas se interrumpirá y dejará de ser obligatoria, siempre que el órgano que la estableció así lo acuerde, se cumplan los mismos requisitos para integrarla y se expresen las razones que existen para su interrupción. También se interrumpirá la jurisprudencia de las salas cuando el Pleno del Tribunal lo determine al resolver la contradicción de tesis.
+La jurisprudencia sustentada por el Pleno del Tribunal Superior de Justicia o por las salas colegiadas, se interrumpirá y dejará de ser obligatoria, siempre que el órgano que la estableció así lo acuerde, se cumplan los mismos requisitos para integrarla y se expresen las razones que existen para su interrupción. También se interrumpirá la jurisprudencia de las salas cuando el Pleno del Tribunal lo determine al resolver la contradicción de tesis.
+
+La jurisprudencia sustentada por las salas unitarias se interrumpirá y dejará de ser obligatoria, siempre que una de las salas participantes en su formación así lo acuerde, debiéndose proceder como en el caso de criterios contradictorios.
 
 ## TITULO SEPTIMO. De la Dirección de Administración y del Fondo Auxiliar para la Administración de Justicia
 
@@ -1912,3 +1988,21 @@ PRIMERO.- Publíquese el presente decreto en el periódico oficial "Gaceta del G
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
 
 TERCERO.- En cualquier modalidad en la que se mencione el Instituto de Capacitación y Especialización Judicial en el texto de la Ley Orgánica del Poder Judicial del Estado Libre y Soberano de México, deberá ser sustituido por el término "Escuela Judicial".
+
+P.O. 8 DE MAYO DE 2003
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente decreto en la "Gaceta del Gobierno".
+
+###### ARTICULO SEGUNDO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
+
+###### ARTICULO TERCERO.
+
+El Consejo de la Judicatura estará facultado para determinar el inicio de las funciones de las Salas Unitarias, conforme a las necesidades del servicio. Entretanto se establezcan las Salas Unitarias en cada región judicial, las Salas Colegiadas seguirán conociendo de los asuntos que conforme a ésta ley son competencia de las Salas Unitarias.
+
+###### ARTICULO CUARTO.
+
+Los asuntos que estén en trámite ante las Salas Colegiadas al entrar en funciones las Salas Unitarias y que sean de la competencia de éstas últimas, se seguirá sustanciando por la Sala Colegiada respectiva, hasta la resolución definitiva.
