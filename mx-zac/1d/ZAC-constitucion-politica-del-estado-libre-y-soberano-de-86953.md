@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "1998-07-11"
+last_updated: "1998-08-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE AGOSTO DE 1998 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE AGOSTO DE 1998.</small>
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -2043,8 +2043,6 @@ El Estado reconoce como Ley Fundamental para su régimen interior la presente Co
 
 Esta Constitución es de observancia general, y ningún servidor público ni autoridad podrán dispensar el cumplimiento de sus disposiciones
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTOS TRANSITORIOS, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE AGOSTO DE 1998 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ## ARTÍCULOS TRANSITORIOS
 
 Artículo primero. Una vez que se publiquen por una sola vez en el Periódico Oficial, Organo del Gobierno del Estado, las presentes reformas y adiciones a la Constitución entrarán en vigor el día 16 de agosto de 1998, con la salvedad de los casos que se señalan más adelante.
@@ -2067,7 +2065,9 @@ DADO en la Sala de Sesiones de la Honorable Quincuagésima Quinta Legislatura de
 
 Y para que llegue a conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
-DADO en el Despacho del Poder Ejecutivo a los diecinueve días del mes de abril de mil novecientos noventa y ocho.
+> <small>(F. DE E., P.O. 8 DE AGOSTO DE 1998)</small>
+
+DADO en el despacho del Poder Ejecutivo a los diecinueve días del mes de Junio de mil novecientos noventa y ocho.
 
 "Sufragio Efectivo. No Reelección"
 
