@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1965-12-18"
+last_updated: "1965-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 18 DE DICIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1965.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -231,11 +231,11 @@ El Poder Público se divide para su ejercicio en Legislativo, Ejecutivo y Judici
 
 Los Poderes del Estado residirán en Ciudad Victoria.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1965)</small>
 
 ###### Art. 24.
 
-La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por cinco de sus miembros presentes.
+La residencia de los Poderes únicamente podrá cambiarse por resolución del Congreso, aprobada por siete de sus miembros presentes.
 
 ## TITULO IV. DEL PODER LEGISLATIVO
 
@@ -853,11 +853,13 @@ La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este
 
 Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1946)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1965)</small>
 
 ###### Art. 84.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del periodo, el Congreso Local, constituido en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del periodo, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el periodo. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
+En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ya sea por violación a la presente Constitución o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local, constituído en Sesión Permanente y secreta nombrará por el voto cuando menos de siete del número total de sus miembros, un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción XLIX del Artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falta para completar el período. Si los hechos tuvieren lugar dentro de los últimos tres años del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período.
+
+Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 85.
 
@@ -1481,19 +1483,17 @@ Del fuero de los altos funcionarios.
 
 El Gobernador del Estado, los Diputados al Congreso y los suplentes en ejercicio, son responsables de los delitos de orden común que cometan durante el desempeño del mismo.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1965)</small>
 
 ###### Art. 150.
 
-Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso, erigido en Gran Jurado y a votación cuando menos de cinco de los miembros que concurran, declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa, no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero, se continúe la averiguación, comenzando entonces la prescripción, pues la resolución del Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
+Cuando se acuse de un delito del orden común a alguno de los funcionarios enumerados en el artículo anterior, el Congreso erigido en Gran Jurado y a votación cuando menos de siete de los miembros que concurran declarará si ha lugar o no a proceder en contra del acusado. Si la declaración fuese negativa no habrá lugar a ningún procedimiento ulterior; pero tal declaración no será obstáculo para que una vez que el acusado haya dejado de tener fuero se continúe la averiguación, comenzando entonces la prescripción, pues la resolución de Congreso no prejuzga la culpabilidad o inculpabilidad del acusado. Si la resolución fuere que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición de la autoridad judicial competente para juzgarlo.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
-
-Art.- 151.- SI (sic) fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de cinco de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1965)</small>
 
 ###### Art. 151.
 
-Si fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por mayoría absoluta de sus miembros presentes que ha lugar a proceder, el acusado quedará separado de su cargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
+Si fuere oficial el delito de que se acusa al funcionario que goza de fuero, y después de que el Congreso haya declarado por votación cuando menos de siete de los miembros presentes que ha lugar a proceder, el acusado quedará separado de su encargo y a la disposición del Supremo Tribunal de Justicia, que es la autoridad competente para juzgarlo.
 
 ###### Art. 152.
 
@@ -1561,11 +1561,11 @@ En todas las Escuelas de Instrucción Primaria Elemental, Superior y Normal, ser
 
 ### CAPITULO I. De las reformas a la Constitución
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1965)</small>
 
 ###### Art. 165.
 
-Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por cinco de los miembros del Congreso.
+Esta Constitución podrá ser reformada y adicionada; pero para que las adiciones y reformas lleguen a ser parte de la misma se requiere que previamente sea tomada en cuenta la iniciativa de reformas o adición por la declaratoria de la mayoría de los Diputados presentes y que sea aprobada cuando menos por siete de los miembros del Congreso.
 
 ### CAPITULO II. De la Inviolabilidad de la Constitución
 
@@ -1876,5 +1876,11 @@ UNICO.- El presente Decreto surtirá sus efectos a partir de su publicación en 
 P.O. 18 DE DICIEMBRE DE 1965.
 
 PRIMERO.- Este Decreto entrará en vigor a partir de la fecha de su expedición.
+
+SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
+
+P.O. 25 DE DICIEMBRE DE 1965.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Envíese al Ejecutivo para su sanción, publicación y debido cumplimiento.
