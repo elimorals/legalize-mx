@@ -4,7 +4,7 @@ identifier: "CHH-codigo-de-procedimientos-penales-9887"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-03-04"
-last_updated: "2001-02-24"
+last_updated: "2001-05-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO DE PROCEDIMIENTOS PENALES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE FEBRERO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE MAYO DE 2001.
 
 Código publicado en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 4 de marzo de 1987.
 
@@ -3921,6 +3921,12 @@ SEGUNDO.- Las reformas y adicciones contenidas en el presente decreto no serán 
 
 P.O. 24 DE FEBRERO DE 2001.
 
+> <small>(REFORMADO, P.O. 19 DE MAYO DE 2001)</small>
+
 ###### ARTICULO UNICO.
 
-El presente Decreto entrará en vigor noventa días después de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2001.
+
+UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
