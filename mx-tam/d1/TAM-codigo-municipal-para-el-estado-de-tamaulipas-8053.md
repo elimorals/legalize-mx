@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "1984-02-04"
+last_updated: "1987-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE DICIEMBRE DE 1987.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -617,7 +617,7 @@ V.- Concurrir a las ceremonias cívicas y a los demás actos a que fueren citado
 
 VI.- Citar a sesiones extraordinarias del Ayuntamiento si no lo hace el Presidente Municipal, en los términos de este Código y su Reglamento Interior.
 
-VII.- Las demás que les otorguen la Ley y reglamentos.
+VII.- Las demás que les otorguen la Ley y Reglamentos.
 
 ### CAPITULO IX. DE LOS SINDICOS
 
@@ -1221,11 +1221,13 @@ El contribuyente podrá pagar el impuesto por anticipado.
 
 Las reducciones a que se refiere el Artículo 124 se calcularán en la siguiente forma:
 
-I.- En los casos de las fracciones II, III, IV, V, VI, VII, VIII, IX, y X, del Artículo 126.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1987)</small>
 
-La reducción consistirá en 5 veces el salario mínimo general elevado al año de la zona económica a que corresponda.
+I.- En los casos de las fracciones II, III, IV, V, VI, VII, VIII, IX y X del Artículo 126, la reducción consistirá en cinco veces el salario mínimo general elevado al año vigente en la Capital del Estado, en la fecha en que deba efectuarse el pago.
 
-II.- En las Compras-Ventas en que medien créditos de interés social tanto para la construcción o adquisición de viviendas, la reducción consistirá en 8 veces el salario mínimo general elevado al año de la zona económica a que corresponda.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1987)</small>
+
+II.- En las compra-ventas en que medien créditos de interés social tanto para la construcción o adquisición de viviendas, la reducción consistirá en diez veces el salario mínimo general elevado al año, vigente en la Capital del Estado, en la fecha en que deba efectuarse el pago.
 
 ###### ARTICULO 130.
 
@@ -1501,7 +1503,7 @@ Los servicios de agua potable y alcantarillado, y de seguridad pública y tráns
 
 ###### ARTICULO 171.
 
-Los municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la Ley, podrán coordinarse y asociarse para la mas eficaz prestación de los servicios públicos que les corresponda, con la aprobación del Congreso.
+Los municipios, previo acuerdo entre sus Ayuntamientos, y con sujeción a la Ley, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos que les corresponda, con la aprobación del Congreso.
 
 Los servicios públicos municipales serán prestados preferentemente por los municipios, directamente o a través de organismos o empresas paramunicipales. Asimismo, podrán ser concesionados a particulares cuando no se lesione el interés público o social, previa autorización del Congreso y conforme a las bases que se determinen en este Código, sus reglamentos y las contenidas en el propio acto concesión.
 
@@ -2139,7 +2141,7 @@ II.- Ejercer la función de comerciantes con fines de lucro.
 
 III.- Usar la violencia con los trabajadores libres para obligarlos a que se sindicalicen.
 
-IV.- Fomentar actos delictuosos contra personas o sus propiedades,
+IV.- Fomentar actos delictuosos contra personas o sus propiedades.
 
 V.- Adherirse a organizaciones que no sean puramente burocráticas representativas de los Trabajadores al Servicio del Estado y de los Ayuntamientos.
 
@@ -2538,3 +2540,9 @@ Cd. Victoria, Tam., a 2 de febrero de 1984.- Diputado Presidente, LIC. TITO RESE
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, capital del Estado de Tamaulipas, a los tres días del mes de febrero de mil novecientos ochenta y cuatro.- DR. EMILIO MARTINEZ MANAUTOU.- El Secretario General de Gobierno, LIC. JOSE BRUNO DEL RIO CRUZ.- Rúbricas-
+
+N DE E., A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.
+
+P.O. 16 DE DICIEMBRE DE 1987.
+
+UNICO.- El presente Decreto surtirá sus efectos a partir del 1o. de Enero de 1988.
