@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-para-el-gobierno-interior-de-la-asamblea-14921"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-09-13"
-last_updated: "2000-12-29"
+last_updated: "2003-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14921&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,9 @@ issue_date: "1999-08-23"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE DICIEMBRE DE 2000.
+> <small>N. DE E. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO TERCERO TRANSITORIO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DE LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL EL 27 DE MAYO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADO.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 13 de septiembre de 1999.
 
@@ -1285,3 +1287,17 @@ G.O. 29 DE DICIEMBRE DE 2000.
 PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación en el Pleno.
 
 SEGUNDO. - Túrnese a la Jefatura de Gobierno de Distrito Federal para el único efecto de su publicación en la Gaceta Oficial del Distrito Federal, así como en el Diario Oficial de la Federación para su mayor difusión.
+
+G.O. 27 DE MAYO DE 2003.
+
+PRIMERO.- El presente Reglamento entrará en vigor al día 1ero. de mayo de 2003.
+
+SEGUNDO.- Publíquese en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+
+TERCERO.- Se abroga el Reglamento para el Gobierno Interior de la Asamblea Legislativa del Distrito Federal, publicado el 13 de septiembre de 1999 en la Gaceta Oficial del Distrito Federal.
+
+CUARTO.- La Unidad de Estudios y Finanzas Públicas se instalará según las disponibilidades presupuestales del 2003, de conformidad con el acuerdo que al respecto tome el Pleno de la Asamblea, respecto de la propuesta que le formule la Comisión de Gobierno.
+
+QUINTO.- Por lo que se refiere a los nombramientos de los titulares de las Unidades Administrativas, la Asamblea Legislativa del Distrito Federal expedirá el Reglamento específico que regule dicho procedimiento, mismo que será aplicable para los servidores públicos que designe la Asamblea Legislativa del Distrito Federal, Tercera Legislatura.
+
+SEXTO.- La disposición prevista por el artículo 158 de este reglamento, deberá entrar en vigor durante el ejercicio de la III Legislatura de la Asamblea Legislativa del Distrito Federal.
