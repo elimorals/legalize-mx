@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2000-07-03"
+last_updated: "2000-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CODIGO FISCAL DEL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JULIO DE 2000.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE DICIEMBRE DE 2000.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -81,9 +81,9 @@ Las contribuciones se clasifican en impuestos y derechos.
 
 Impuestos son las contribuciones establecidas en la Ley, que deben pagar las personas físicas y morales que se encuentran en la situación jurídica o de hecho, prevista por la misma y que sean distintas a los derechos.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, incluso cuando se presten por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado.
+Son derechos las contribuciones establecidas en ley por el uso o aprovechamiento de los bienes del dominio público del Estado, así como por recibir servicios que presta el Estado en sus funciones de derecho público, excepto cuando se permita el uso o aprovechamiento o se presten los servicios por organismos descentralizados. También son derechos las contribuciones a cargo de los organismos públicos descentralizados por prestar servicios exclusivos del Estado, y que se encuentren incluidos en la Ley de Ingresos del Estado.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
@@ -113,9 +113,9 @@ Son participaciones, aportaciones y reasignaciones, las cantidades que el Gobier
 
 Son créditos fiscales los que tenga derecho a percibir el Estado o sus Organismos Descentralizados que provengan de contribuciones, de aprovechamientos o de sus accesorios, incluyendo los que deriven las responsabilidades que el Estado tenga derecho a exigir de sus servidores públicos o de los particulares, así como aquellos a los que las Leyes les den ese carácter y el Estado tenga derecho a percibir por cuenta ajena.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-La recaudación proveniente de todos los ingresos del Estado aún cuando se destinen a un fin específico se hará a través de la Secretaría de Finanzas del Estado o por las oficinas que la misma designe.
+La recaudación proveniente de todos los ingresos del Estado aun cuando se destinen a un fin específico, se hará a través de la Secretaría de Finanzas y Desarrollo Social o por las oficinas que la misma designe.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -139,7 +139,9 @@ VI.- La Ley para el Federalismo Hacendario del Estado de Puebla.
 
 VII.- Los demás ordenamientos que contengan disposiciones de carácter hacendario.
 
-La aplicación de las leyes a que se refiere este artículo, le coresponderá (sic) al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y demás autoridades administrativas que prevengan las leyes.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+La aplicación de las leyes a que se refiere este artículo, le corresponderá al Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Desarrollo Social y demás autoridades administrativas que prevengan las leyes.
 
 ###### ARTICULO 10.
 
@@ -167,9 +169,13 @@ Son autoridades fiscales del Estado.
 
 I.- El Gobernador del Estado.
 
-II.- El Secretario de Finanzas.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-III.- Los subsecretarios de la Secretaría de Finanzas.
+II.- El Secretario de Finanzas y Desarrollo Social.
+
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+III.- Los Subsecretarios de la Secretaría de Finanzas y Desarrollo Social.
 
 IV.- El Director de Asuntos Jurídicos.
 
@@ -211,17 +217,25 @@ Las autoridades señaladas en este artículo se consideran autoridades fiscales 
 
 En contra de los actos que se realicen cuando actúen de conformidad con este precepto, sólo procederán los recursos y medios de defensa que establece este Código.
 
+(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
+
+ARTICULO 13 A.- Este Código será aplicable para los Municipios que no cuenten con un ordenamiento similar, considerándose a los Servidores Públicos Municipales a los que las leyes confieran facultades específicas en materia de Hacienda Municipal, como Autoridades Fiscales.
+
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 14.
 
-El Gobernador del Estado y el Secretario de Finanzas podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
+El Gobernador del Estado y el Secretario de Finanzas y Desarrollo Social podrán dictar disposiciones de carácter general, para modificar o adicionar el control, forma de pago y procedimiento, siempre que no varíe en forma alguna el sujeto, objeto, base, cuota, tasa o tarifa de los gravámenes, infracciones y sanciones.
 
-De igual forma el Gobernador del Estado y el Secretario de Finanzas quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las contribuciones Federales o Municipales, según el caso.
+De igual forma el Gobernador del Estado y el Secretario de Finanzas y Desarrollo Social quedan facultados para celebrar convenios con la Federación, así como con los Ayuntamientos de la Entidad, sobre la administración de las Contribuciones Federales o Municipales, según el caso.
 
 ###### ARTICULO 15.
 
 Sólo podrá afectarse un ingreso estatal a un fin específico, cuando se cumpla lo que sobre este particular se establezca en las Leyes respectivas.
 
-Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer a la Secretaría de Finanzas.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Los contratos, concesiones, acuerdos y cualesquiera otros actos en los que se afecte un ingreso estatal a un fin específico deberán ser autorizados por el Gobernador del Estado y dados a conocer por la Secretaría de Finanzas y Desarrollo Social.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -240,6 +254,14 @@ Tampoco se contarán en dichos plazos, los días en que tengan vacaciones genera
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 En los plazos establecidos por períodos y aquéllos en que señale una fecha determinada para su extinción se computarán todos los días. Cuando los plazos se fijen por mes o por año sin especificar que sean de calendario, se entenderá que en el primer caso el plazo concluye el mismo día del mes del calendario posterior a aquél en que se inició y en el segundo, el término vencerá el mismo día del siguiente año de calendario a aquél en que se inicio. En los plazos que se fijen por mes o por año cuando no exista el mismo día en el mes de calendario correspondiente, el término será el primer día hábil del siguiente mes de calendario. No obstante lo anterior, si el último día del plazo o en la fecha determinada las oficinas ante las que se vaya a hacer el trámite permanecen cerradas durante el horario normal de labores o se trate de un día inhábil, se prorrogará el plazo hasta el siguiente día hábil. Lo dispuesto en este artículo es aplicable inclusive cuando se autorice a las instituciones de crédito para recibir declaraciones.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+También se prorrogará el plazo hasta el siguiente día hábil, cuando sea viernes el último día del plazo en que se deba presentar la declaración respectiva, ante las Oficinas Recaudadoras, Instituciones de Crédito autorizadas o se utilice algún otro medio de pago.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Las Autoridades Fiscales podrán habilitar los días y horas inhábiles. Esta circunstancia deberá comunicarse a los particulares y no alterará al cálculo de plazos.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -267,7 +289,13 @@ I.- Los créditos a favor del Gobierno del Estado provenientes de impuestos, der
 
 II.- Para que sea aplicable la excepción a que se refiere la fracción anterior, será requisito indispensable que antes de que se notifique al deudor el crédito fiscal, se haya presentado la demanda ante la Autoridad competente, y ésta, hubiere dictado el auto que la admita. En el caso de las garantías hipotecarias y prendarias, el requisito será que éstas se encuentren inscritas en el Registro Público de la Propiedad y del Comercio, antes de la notificación del crédito Fiscal.
 
-III.- La vigencia y exigibilidad en cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso administrativo correspondiente.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+III.- La vigencia y exigibilidad en cantidad líquida del derecho del crédito cuya preferencia se invoque, deberá comprobarse en forma fehaciente al hacerse valer el recurso de revocación a que se refiere este Código.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+En ningún caso la Autoridad Fiscal intervendrá en los juicios universales. Cuando se inicie juicio de quiebra, suspensión de pagos o de concurso, el Juez que conozca del asunto deberá dar aviso a la Autoridad Fiscal para que, en su caso, haga exigibles los créditos fiscales a su favor a través del procedimiento administrativo de ejecución.
 
 ## TITULO SEGUNDO. DE LOS SUJETOS, DE LOS RESPONSABLES SOLIDARIOS Y DEL DOMICILIO
 
@@ -455,27 +483,31 @@ I.- Inscribirse en los registros de contribuyentes que señalan las Leyes Fiscal
 
 II.- Presentar los avisos, declaraciones normales, complementarias y provisionales, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las Leyes Fiscales del Estado, en las formas autorizadas y con los requisitos que en las mismas se señalen.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas del Estado, en el que señalen mes a mes las bases gravables de los impuestos estatales causados y no pagados, por los meses y ejercicios que se señalaron en dicho dictamen.
+Los contribuyentes que en términos de las disposiciones fiscales federales hayan presentado dictamen formulado por Contador Público registrado, sobre estados financieros, y que sean sujetos del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal y Sobre Servicios de Hospedaje, tendrán la obligación de proporcionar, en la misma fecha en que hayan presentado el citado dictamen, un escrito a la Dirección de Fiscalización de la Secretaría de Finanzas y Desarrollo Social del Estado, en el que señalen mes a mes las bases gravables de los impuestos estatales a que se refiere esta fracción, causados por los meses y ejercicios que se señalen en dicho dictamen, indicando en el mismo, en su caso, los meses pendientes de pago.
 
-III.- Pagar las contribuciones que les correspondan en los términos que dispongan las Leyes Fiscales del Estado.
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-IV.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
+III.- Llevar contabilidad en su domicilio fiscal;
+
+IV.- Pagar las contribuciones que les correspondan en los términos que dispongan las Leyes Fiscales del Estado.
+
+V.- Expedir documentación comprobatoria de sus actividades gravadas por las Leyes Fiscales del Estado, con los requisitos fiscales que las mismas señalan.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-V.- Conservar la documentación comprobatoria de las operaciones gravadas por las leyes fiscales del Estado, en el domicilio fiscal, durante un plazo de cinco años contados a partir del día en que se presentó o debió presentarse la declaración correspondiente.
+VI.- Conservar la documentación comprobatoria de las operaciones gravadas por las leyes fiscales del Estado, en el domicilio fiscal, durante un plazo de cinco años contados a partir del día en que se presentó o debió presentarse la declaración correspondiente.
 
 En caso de cancelación del registro estatal o suspensión de actividades, al presentarse el aviso correspondiente ante las Autoridades Fiscales, deberá señalarse el domicilio en donde se conservará la documentación a que se refiere el primer párrafo de esta fracción.
 
-VI.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
+VII.- Proporcionar a las Autoridades Fiscales los datos e informaciones que se le soliciten, dentro del plazo fijado para ello.
 
-VII.- Señalar domicilio fiscal en el Estado.
+VIII.- Señalar domicilio fiscal en el Estado.
 
-VIII.- Liquidar, retener y enterar correctamente las contribuciones en términos de lo que dispone este Código y las Leyes Fiscales del Estado, en tratándose de fedatarios públicos.
+IX.- Liquidar, retener y enterar correctamente las contribuciones en términos de lo que dispone este Código y las Leyes Fiscales del Estado, en tratándose de fedatarios públicos.
 
-IX.- Las demás que señalen las disposiciones fiscales del Estado.
+X.- Las demás que señalen las disposiciones fiscales del Estado.
 
 Los sujetos obligados a presentar declaraciones podrán presentar declaraciones complementarias substituyendo los datos de la normal, dentro de los cinco años siguientes a la fecha en que se hubiera presentado aquella.
 
@@ -494,6 +526,40 @@ Cuando en las disposiciones fiscales no se señalen plazos para la presentación
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 Los avisos y documentos a que se refiere este artículo que se presenten en forma extemporánea, surtirán sus efectos a partir de la fecha en que sean presentados.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 24 A.- En el caso de que las demás disposiciones de este Código hagan referencia a la contabilidad, se entenderá que la misma se integra por los sistemas y registros contables que el contribuyente utilice para realizar sus operaciones, cuentas especiales, libros, registros sociales, equipos y sistemas electrónicos de registro fiscal, así como por la documentación comprobatoria de los asientos respectivos y los comprobantes de haber cumplido con las disposiciones fiscales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 24 B.- Los contribuyentes que de acuerdo a las disposiciones fiscales estén obligados a llevar contabilidad, deberán observar las siguientes reglas:
+
+Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro del mes en que se realicen las actividades respectivas quedando incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, las que lleven los contribuyentes aun cuando no sean obligatorias y los libros y registros sociales a que obliguen otras leyes.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 24 C.- Los sistemas y registros contables a que se refiere el artículo 24 B, deberán llevarse por los contribuyentes mediante los instrumentos, recursos y sistemas de registro y procesamiento que mejor convenga a las características particulares de su actividad, pero en todo caso deberán satisfacer como mínimo los requisitos que permitan:
+
+I.- Identificar cada operación, acto o actividad y sus características, relacionándolas con la documentación comprobatoria, de tal forma que aquéllos puedan identificarse con las distintas contribuciones y tasas, incluyendo los pagos o actividades liberadas de pago de impuestos que señale la ley.
+
+II.- Identificar los pagos por conceptos realizados relacionándolos con la documentación comprobatoria, de tal forma que pueda precisarse la fecha de pago y el monto.
+
+III.- Relacionar cada operación, acto o actividad con los saldos que den como resultado las cifras finales de las cuentas.
+
+IV.- Asegurar el registro total de operaciones, actos o actividades y garantizar que se asienten correctamente, mediante los sistemas de control y verificación internos necesarios.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 24 D.- Cuando se adopte un sistema de registro manual o mecánico, el contribuyente deberá llevar cuando menos el libro diario y el mayor, tratándose del sistema de registro electrónico llevará como mínimo el libro mayor.
+
+Este artículo no libera a los contribuyentes de la obligación de llevar los libros que establezcan las leyes u otros reglamentos.
+
+En el libro diario, el contribuyente deberá anotar en forma descriptiva todas sus operaciones, actos o actividades siguiendo el orden cronológico en que éstos se efectúen, indicando el movimiento de cargo o crédito que a cada una corresponda.
+
+En el libro mayor deberán anotarse los nombres de las cuentas de la contabilidad, su saldo al final de período de registro inmediato anterior, el total del movimiento de cargo o crédito a cada cuenta en el período y su saldo final.
+
+Podrán llevarse libros diarios y mayores, particulares, por establecimientos o dependencias, tipos de actividad o cualquier otra clasificación, pero en todos los casos deberá existir el libro diario y el mayor general en que se concentren todas las operaciones del contribuyente y la documentación que ampare las operaciones.
 
 ### CAPITULO IV. DE LAS PROMOCIONES
 
@@ -553,7 +619,9 @@ El silencio de las Autoridades Fiscales durante el término a que se refiere el 
 
 La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiestos y demás documentos tal y como se exhiban, sin hacer observaciones ni objeciones y devolverá copia sellada y comprobante de pago en su caso, a quien los presente. Además de los casos que señalen las leyes fiscales, se podrá rechazar la presentación cuando no contenga o se anote de manera incorrecta el nombre del contribuyente, su número de registro estatal, su registro federal de contribuyentes y su domicilio fiscal o no aparezcan debidamente firmados, no se acompañen los anexos o tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas, los obligados a presentarlas las formularán en escrito por cuadruplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otro de naturaleza análoga que prevengan las disposiciones fiscales, no hubieran sido aprobados y publicados por la Secretaría de Finanzas y Desarrollo Social, los obligados a presentarlas las formularán en escrito por cuadruplicado que contengan los datos señalados en los artículos 25 y 26 de este Código. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 ## TITULO TERCERO. DEL NACIMIENTO Y PAGO DE LOS CREDITOS FISCALES
 
@@ -597,11 +665,15 @@ La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las di
 
 ### CAPITULO II. DEL PAGO DE LOS CREDITOS FISCALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 33.
 
-Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, cheque personal de la cuenta del contribuyente, transferencias de fondos reguladas por el Banco de México, o en especie en los casos que así lo prevengan las Leyes Fiscales.
+Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, tarjeta de crédito, cheque personal de la cuenta del contribuyente sin certificar, cuando sean expedidos por el mismo, los depósitos referenciados y las transferencias de fondos reguladas por el Banco de México, incluyendo las que se realicen de manera electrónica, o en especie en los casos que así lo prevengan las leyes fiscales.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Las Autoridades Fiscales podrán autorizar alguna otra forma o medio de pago de las anteriormente señaladas, a través de disposiciones de carácter general que emita la Secretaría de Finanzas y Desarrollo Social.
 
 > <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -615,15 +687,25 @@ Transcurrido el plazo señalado sin que se obtenga el pago o se demuestre cualqu
 
 En el caso de que se paguen contribuciones mediante cheque, éste solo podrá aplicarse a un contribuyente, debiendo librarse a cargo de Instituciones de Crédito que se encuentren dentro de la población donde esté establecida la oficina recaudadora de que se trate. Las autoridades fiscales, podrán autorizar mediante disposiciones de carácter general, que el cheque se libre a cargo de Instituciones de Crédito que se encuentren en poblaciones distintas a aquellas en donde esté establecida la autoridad.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-El cheque mediante el cual se paguen las contribuciones y sus accesorios deberá expedirse a nombre de la Secretaría de Finanzas del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
+El cheque mediante el cual se paguen las contribuciones y sus accesorios, deberá expedirse a nombre de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado de Puebla, además deberá tener la inscripción "para abono en cuenta". Dicho cheque no será negociable.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 34.
 
-El pago de las contribuciones y sus accesorios se realizará en la Oficina Recaudadora que corresponda al domicilio fiscal del contribuyente o en las que autorice para tal efecto la Secretaría de Finanzas, mediante las formas oficiales que emita o apruebe dicha Dependencia.
+El pago de las contribuciones y sus accesorios se realizará en cualquiera de las Oficinas Recaudadoras o en las Instituciones Bancarias que para tal efecto autorice la Secretaría de Finanzas y Desarrollo Social, mediante las formas oficiales o medios electrónicos que emita o apruebe dicha Dependencia.
+
+A quien haga el pago señalado, deberá expedírsele por parte de la Oficina Recaudadora la forma oficial, el recibo oficial, la forma valorada, o la documentación que en las disposiciones respectivas se establezca, en la que conste la impresión original de la máquina registradora.
+
+Tratándose de los pagos efectuados en las oficinas de las Instituciones de Crédito, se le deberá expedir comprobante con la impresión de la máquina registradora, el sello, la constancia o el acuse de recibo correspondiente y en relación a los efectuados por transferencia electrónica de fondos, el contribuyente obtendrá el documento que emita el sistema de cómputo, en el que conste el número de referencia que se asigne a la operación autorizada.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+ARTICULO 34 A.- Los contribuyentes que estén obligados a realizar pagos de conformidad con las leyes fiscales respectivas, en lugar de utilizar las formas de declaración a que se refiere el artículo 24 fracción II de este Código, podrán presentarlas a través de medios electrónicos, en los términos que señale la Secretaría de Finanzas y Desarrollo Social mediante reglas de carácter general.
+
+Opcionalmente, estos contribuyentes podrán solicitar en las Oficinas Recaudadoras de la Secretaría de Finanzas y Desarrollo Social, la certificación de las declaraciones y el pago efectuado, en los términos que señale la Ley de Ingresos del Estado, debiendo cumplir los requisitos que dicha Secretaría señale mediante reglas de carácter general.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -927,11 +1009,11 @@ V.- Si al cierre del acta de visita de inspección para verificar el número de 
 
 VI.- Sin con motivo de la visita de inspección para verificar el número de trabajadores y el importe de las remuneraciones pagadas a los mismos se conocieron incumplimientos a las disposiciones fiscales en materia del impuesto sobre erogaciones por remuneraciones al trabajo personal, la Autoridad Fiscal procederá a emitir resolución correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 43.
 
-En el inicio de la visita domiciliaria deberán acatarse las siguientes disposiciones:
+En los casos de visita en el domicilio fiscal, las Autoridades Fiscales, los visitados, responsables solidarios y los terceros estarán a lo siguiente:
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE DICIEMBRE DE 1993)</small>
 
@@ -1097,9 +1179,9 @@ En caso de que los contribuyentes se coloquen en alguna de las causales de estim
 
 I.- Si con base en la contabilidad y documentación del contribuyente, información de terceros y cualquier otro medio probatorio, pudieran reconstruirse las operaciones correspondientes cuando menos treinta días, el ingreso diario promedio que resulte se multiplicará por el número de días que corresponda al período, objeto de la revisión, el resultado de esta operación será la base gravable.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-II.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas tomará como base los ingresos que observe durante cinco días, incluyendo los inhábiles cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda cada mes correspondientes al período, objeto de revisión, el resultado de esta operación será la base gravable para cada uno de los meses.
+II.- Si la contabilidad y documentación del contribuyente no permite reconstruir las operaciones de treinta días, la Secretaría de Finanzas y Desarrollo Social tomará como base los ingresos que observe durante cinco días, incluyendo los inhábiles cuando menos de operaciones normales y el promedio diario resultante se multiplicará por el número de días que comprenda cada mes correspondiente al período objeto de revisión, el resultado de esta operación será la base gravable para cada uno de los meses.
 
 A la base gravable estimada por alguno de los procedimientos anteriores, se le aplicará la tasa o tarifa impositiva que corresponda.
 
@@ -1135,7 +1217,9 @@ II.- Las manifestaciones hechas por la persona con quien se entienda la visita d
 
 Los actos y resoluciones de las autoridades fiscales se presumirán legales; sin embargo, dichas autoridades deberán probar los hechos que motiven los actos o resoluciones cuando el obligado los niegue lisa y llanamente, a menos que la negativa implique la afirmación de otro hecho.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las autoridades fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código, o en las leyes fiscales, o bien que consten en los expedientes o documentos que lleven o tengan en su poder las Autoridades Fiscales, podrán servir para motivar las resoluciones de la Secretaría de Finanzas y Desarrollo Social del Gobierno del Estado y cualquier otra autoridad u organismo descentralizado en el área de su competencia.
 
 Las copias de documentos que tengan en su poder las autoridades fiscales, tienen el mismo valor probatorio que tendrían los originales, siempre que dichas copias sean certificadas por funcionario competente para ello, sin necesidad de cotejo con los originales.
 
@@ -1165,9 +1249,9 @@ Corresponde a las Autoridades Fiscales declarar que se ha cometido una infracci�
 
 La aplicación de las sanciones administrativas se hará sin perjuicio de que se exija el pago de las prestaciones fiscales respectivas, de recargos en su caso y de las penas que impongan las autoridades judiciales cuando se incurra en responsabilidad penal.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 6 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-El monto de las sanciones que establece este capítulo en cantidades determinadas, se actualizará en forma semestral con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35-A de este Código. La Secretaría de Finanzas publicará semestralmente las sanciones que resulten una vez actualizadas.
+El monto de las sanciones que establece este capítulo en cantidades determinadas, se actualizará en forma semestral con el factor de actualización correspondiente al período comprendido desde el séptimo mes inmediato anterior hasta el último mes inmediato anterior a aquél por el cual se efectúa la actualización, mismo que se obtendrá de conformidad con el artículo 35 A de este Código. La Secretaría de Finanzas y Desarrollo Social publicará semestralmente las sanciones que resulten una vez actualizadas.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1221,13 +1305,17 @@ III.- Obtener más de un registro de contribuyente, citarlo incorrectamente u om
 
 IV.- Utilizar interpósita persona para manifestar negociaciones propias.
 
-V.- No presentar las declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, salvo cuando la presentación sea espontánea.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+V.- No presentar las declaraciones, solicitudes, avisos, manifiestos y cualquier otro de naturaleza análoga que dispongan las leyes fiscales del Estado, salvo cuando la presentación sea espontánea.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
 VI.- Presentar incorrectamente los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, por cada obligación a que esté sujeto.
 
-VII.- Presentar en forma alterada o falsificada los avisos, declaraciones, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+VII.- No pagar las contribuciones dentro del plazo que establecen las disposiciones fiscales, cuando se trate de contribuciones que no sean determinables por los contribuyentes, salvo cuando el pago se efectúe espontáneamente.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1255,17 +1343,15 @@ XVII.- No liquidar, retener o enterar correctamente, las contribuciones en térm
 
 XVIII.- Infringir en cualquier forma las disposiciones fiscales, diversas a las señaladas en este artículo.
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-XIX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento identificatorio para ser utilizado en un vehículo nacional distinto a aquél que haya sido manifestado ante las autoridades fiscales.
+XIX.- Adquirir por cualquier título, tarjeta de circulación, placas metálicas de identificación vehicular o cualquier otro documento identificatorio para ser utilizado en un vehículo nacional o de procedencia extranjera, distinto a aquél que haya sido manifestado ante las Autoridades Fiscales.
 
-> <small>(ADICIONADA, P.O. 1 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-XX.- Adquirir por cualquier título, tarjeta de circulación, tarjetón de carga, placas metálicas de verificación vehicular o cualquier otro documento para ser utilizado en un vehículo de procedencia extranjera que sea distinta a aquel que haya sido manifestado ante las autoridades fiscales.
+XX.- No pagar los derechos derivados de los programas que se realicen en la Entidad por acuerdo de las Autoridades Fiscales, en el ejercicio fiscal en que éste se establezca, conforme a las disposiciones legales aplicables.
 
-> <small>(ADICIONADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
-
-XXI.- No pagar los derechos por el uso de la autopista estatal Vía Atlixcáyotl por el tramo comprendido entre Puebla-Atlixco o Atlixco-Puebla.
+XXI.- (DEROGADA, P.O. 11 DE DICIEMBRE DE 2000)
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1281,53 +1367,61 @@ La Autoridad Fiscal impondrá las sanciones por infracción a las disposiciones 
 
 A.- Por las infracciones señaladas en el artículo 58:
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-I.- De $ 23.00 a quien cometa la comprendida en la fracción VI.
+I.- De $ 33.00 a $ 66.00 a la comprendida en la fracción VI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-II.- De $ 71.00 a quien cometa la comprendida en la fracción II.
+II.- De $ 98.00 a $ 196.00 a la comprendida en la fracción II.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-III.- De $ 93.00 a quien cometa la comprendida en la fracción III.
+III.- De $ 131.00 a $ 262.00 a la comprendida en la fracción III.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-IV.- De $117.00 a quien cometa la comprendida en la fracción V.
+IV.- De $ 163.00 a $ 326.00 a la establecida en la fracción V.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-V.- De $ 140.00 a quien cometa la comprendida en la fracción XV.
+V.- De $ 163.00 a $ 326.00 a la establecida en la fracción VII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-VI.- De $ 186.00 a quien cometa la comprendida en la fracción XVIII.
+VI.- De $ 196.00 a $ 392.00 a la comprendida en la fracción XV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-VII.- De $234.00 a quien cometa las comprendidas en las fracciones IX y XI.
+VII.- De $ 262.00 a $ 524.00 a la señalada en la fracción XVIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-VIII.- De $ 351.00 a quien cometa la comprendida en la fracción X.
+VIII.- De $ 327.00 a $ 654.00 a las comprendidas en las fracciones IX y XI.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-IX.- De $ 374.00 a quien cometa las comprendidas en las fracciones IV y VII.
+IX.- De $ 490.00 a $ 980.00 a la establecida en la fracción X.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-X.- De $ 420.00 a quien cometa las comprendidas en la fracciones I, VIII, XII y XIII.
+X.- De $ 523.00 a $ 1,046.00 a la comprendida en la fracción IV.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-XI.- De $467.00 a quien cometa las comprendidas en las fracciones XVII y XXI.
+XI.- De $ 589.00 a $ 1,178.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
 
-(MODIFICADA EN LAS CANTIDADES POR ACUERDO DEL SECRETARIO DE FINANZAS Y DESARROLLO SOCIAL, P.O. 3 DE JULIO DE 2000)
+(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
 
-XII.- De $ 1,166.00 a quien cometa las comprendidas en la fracciones XIX y XX.
+XII.- De $ 654.00 a $ 1,308.00 a las señaladas en la fracción XVII.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+XIII.- De $ 1,635.00 a $ 3,270.00 a la comprendida en la fracción XIX.
+
+(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2000)(F. DE E., P.O. 16 DE FEBRERO DE 2001)
+
+XIV.- De $ 100.00 a $ 250.00 a quien cometa la comprendida en la fracción XX.
 
 B.- Cuando la comisión de la infracción señalada en el artículo 58-A sea descubierta por las Autoridades Fiscales mediante el ejercicio de sus facultades de comprobación, se aplicarán las siguientes sanciones:
 
@@ -1457,6 +1551,8 @@ IV.- Por edictos únicamente en el caso de que la persona a quien deba notificar
 
 V.- Por instructivo, solamente en los casos y las formalidades a que se refiere el último párrafo del artículo 78 de este Código.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 77.
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquél en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique. Cuando la notificación la realice directamente la Autoridad Fiscal, deberá señalarse la fecha y la hora en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia; si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
@@ -1477,9 +1573,11 @@ Toda notificación personal, realizada con quien deba entenderse, será legalmen
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas de los plazos legales, se causará a cargo de quien incurrió en el incumplimiento la cantidad equivalente a dos salarios mínimos vigentes en el Estado en el momento en que se realice la misma. Respecto a estos gastos de notificación, la autoridad fiscal los determinará conjuntamente con la propia notificación y se pagarán al cumplir con el requerimiento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 78.
 
-Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a las oficinas de las Autoridades Fiscales.
+Cuando la notificación se efectúe personalmente y el notificador no encuentre a quien deba notificar, le dejará citatorio, mismo en el que se señalará la hora en que se entrega, para que espere a una hora fija del día hábil siguiente o para que acuda a notificarse dentro del plazo de seis días a las oficinas de las Autoridades Fiscales.
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y si la persona citada o su representante legal no esperasen, se practicará la diligencia con quien se encuentre en el domicilio o en su defecto con un vecino.
 
@@ -1531,9 +1629,9 @@ Procede garantizar el interés fiscal, cuando:
 
 I.- Se solicite la suspensión del procedimiento administrativo de ejecución.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
-II.- Se solicite que los créditos sean cubiertos en plazos, ya sea en forma diferida o en parcialidades; en estos casos sólo se admitirá la fianza como forma de su garantía.
+II.- Se solicite que los créditos sean cubiertos en plazos, ya sea en forma diferida o en parcialidades.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -1553,7 +1651,9 @@ No se ejecutarán loa actos administrativos cuando se solicite la suspensión an
 
 El procedimiento administrativo quedará suspendido hasta que se haga saber la resolución definitiva que hubiere recaído en el recurso o juicio.
 
-En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas ordenará a la Autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir ante el Secretario de Finanzas y Desarrollo Social, acompañando los documentos en que conste el medio de defensa hecho valer y la garantía del interés fiscal. El Secretario de Finanzas y Desarrollo Social ordenará a la autoridad ejecutora que suspenda provisionalmente el procedimiento administrativo de ejecución y rinda informe en un plazo de tres días, debiendo resolver la cuestión dentro de los diez días siguientes a su recepción.
 
 ## TITULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
@@ -1581,7 +1681,9 @@ b) Por la de embargo.
 
 c) Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
 
-Cuando los gastos de ejecución a que se refiere este artículo sean inferiores a una vez el salario mínimo general diario vigente en el Estado, se cobrará esta cantidad en vez del 2 % del crédito.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+Cuando los gastos de ejecución a que se refiere este artículo sean inferiores a dos veces el salario mínimo general diario vigente en el Estado, se cobrará esta cantidad en vez del 2 % del crédito.
 
 Los honorarios por intervención se causarán y pagarán aplicando la tasa del 15 % sobre el total del crédito fiscal, la cantidad que resulte de aplicar la tasa a que se refiere este artículo no será menor a una vez el salario mínimo general diario vigente en el Estado.
 
@@ -1613,9 +1715,11 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Registro Público que corresponda, en todas ellas se inscribirá el embargo.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
 ###### ARTICULO 90.
 
-El ejecutor designado por la Autoridad Fiscal, se constituirá en el domicilio del deudor y practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que este Código señala para las notificaciones personales. De esta diligencia se levantará acta pormenorizada entregando copia a la persona con quien se entienda la misma.
+El ejecutor designado por la Autoridad Fiscal, se constituirá en el domicilio del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que este Código señala para las notificaciones personales. De esta diligencia se levantará acta pormenorizada entregando copia a la persona con quien se entienda la misma.
 
 Si el embargo recayere en bienes muebles, el ejecutor podrá hacer la extración (sic) de los mismos o en su caso nombrar depositario en términos de lo dispuesto por este Código.
 
@@ -1789,7 +1893,9 @@ El remate deberá ser convocado para una fecha fijada dentro de los treinta día
 
 La convocatoria se fijará en el sitio visible y usual de la oficina ejecutora.
 
-En el caso de que el valor de los bienes exceda de una cantidad equivalente a cien veces el salario mínimo diario vigente en el Estado, la convocatoria se publicará en el periódico de mayor circulación de la Entidad dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+
+En el caso de que el valor de los bienes exceda de una cantidad equivalente al salario mínimo general de la zona económica vigente en el Estado, elevado al año, la convocatoria se publicará en uno de los periódicos de mayor circulación de la Entidad, dos veces con intervalo de siete días. La última publicación se hará cuando menos diez días antes de la fecha del remate.
 
 ###### ARTICULO 108.
 
@@ -2168,3 +2274,13 @@ Se derogan las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE JULIO DE 2000.
 
 El presente Acuerdo entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2000.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero de dos mil uno.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
