@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-interno-de-la-contaduria-mayor-de-hacienda-11899"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-12-03"
-last_updated: "1996-12-28"
+last_updated: "2001-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11899&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 REGLAMENTO INTERNO DE LA CONTADURIA MAYOR DE HACIENDA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE DICIEMBRE DE 1996.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO QUINTO TRANSITORIO DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE JALISCO, PUBLICADA EN EL P.O. DE 15 DE MARZO DE 2001, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN VIGENCIA.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: NO VIGENTE.
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 3 de diciembre de 1991.
 
@@ -784,3 +786,15 @@ Lic. Enrique Romero González
 P.O. 28 DE DICIEMBRE DE 1996.
 
 Unico. El presente decreto entrará en vigor el día 1 de enero de 1997, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 15 DE MARZO DE 2001.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, salvo lo dispuesto en los siguientes transitorios.
+
+SEGUNDO.- La Contaduría Mayor de Hacienda revisará las cuentas públicas de los años 1999, 2000 y 2001, conforme a las disposiciones vigentes antes de la entrada en vigor de este Decreto.
+
+TERCERO.- De ser necesario y por única vez, la Legislatura, con el voto de las dos terceras partes de sus integrantes a propuesta de la Comisión de Inspección, designará a la persona que fungirá como Encargado del Despacho de la Contaduría Mayor de Hacienda, por un término que no excederá de sesenta días, contados a partir del inicio de vigencia de este Decreto, a efecto de que se cumpla con lo dispuesto por los artículos 65, 66, 67 y 68 de la presente Ley, para el nombramiento definitivo del Contador Mayor de Hacienda del Estado.
+
+CUARTO.- Dentro del término de noventa días, contados a partir de la entrada en vigor de la presente ley, deberá expedirse el Reglamento Interior de la Contaduría Mayor de Hacienda.
+
+QUINTO.- En tanto se expide el nuevo Reglamento Interno de la Contaduría Mayor de Hacienda, continuará aplicándose el contenido en el decreto número 14389, publicado el 03 de diciembre de 1991, en el Periódico Oficial "El Estado de Jalisco".
