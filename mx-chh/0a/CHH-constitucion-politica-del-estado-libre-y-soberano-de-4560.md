@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2002-11-27"
+last_updated: "2004-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ABRIL DE 2004.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -1097,11 +1097,11 @@ Para que un proyecto tenga carácter de ley o de decreto, se requiere que sea ap
 
 Igual votación requerirán los acuerdos y las iniciativas de ley o de decreto que se presenten ante el Congreso de la Unión.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 70.
 
-El Gobernador podrá, cuando estime conveniente, hacer observaciones a algún proyecto de ley o de decreto, suspender su promulgación y devolverlo con ellas dentro de diez días hábiles, contados desde aquél en que lo reciba.
+El Gobernador podrá, cuando estime conveniente, hacer observaciones a algún proyecto de ley o de decreto, suspender su promulgación y devolverlo con ellas dentro de los treinta días naturales, siguientes a aquel en que lo reciba. Si durante ese lapso se hubiere clausurado el período de sesiones la devolución se hará a la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1109,9 +1109,11 @@ El Gobernador podrá, cuando estime conveniente, hacer observaciones a algún pr
 
 El proyecto de ley o de decreto devuelto al Congreso con observaciones deberá ser discutido de nuevo en cuanto a éstas, previo dictamen de la comisión respectiva, y si fuere confirmado por el voto de los dos tercios de los diputados presentes, o modificado de conformidad con las observaciones hechas, volverá al Gobernador, quien deberá promulgarlo y publicarlo sin más trámite.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
+
 ###### Art. 72.
 
-Se reputará aprobado por el Gobernador todo proyecto no devuelto con observaciones al Congreso en el término prefijado para ese fin; y si durante éste se hubiere clausurado el período de sesiones, la devolución se deberá hacer a la Diputación Permanente.
+Se reputará aprobado por el Gobernador todo proyecto no devuelto con observaciones al Congreso en el término a que se refiere el artículo 70.
 
 > <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
 
@@ -1123,11 +1125,11 @@ Las leyes objetadas quedarán ratificadas si más del cincuenta por ciento de lo
 
 El Instituto Estatal Electoral efectuará el cómputo de los resultados del referéndum y ordenará su publicación en el periódico oficial. Lo mismo hará con el texto de las leyes ratificadas y, en su caso, remitirá al Congreso o a la Diputación Permanente las que no lo hayan sido para que proceda a su derogación o abrogación inmediata. En este último caso, se convocará a período extraordinario de sesiones en un plazo que no excederá de quince días hábiles a partir de la fecha de su recepción.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2004)</small>
 
 ###### Art. 74.
 
-El Congreso podrá ordenar la publicación de sus proyectos de ley o de decreto, si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término para hacer observaciones.
+Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado y el Presidente del Congreso o de la Diputación Permanente, en su caso, podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -3042,3 +3044,15 @@ Conforme lo dispone el artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE ABRIL DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la iniciativa y de los debates del Congreso a los ayuntamientos de los 67 municipios que integran el Estado y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+> <small>(F. DE E., P.O. 12 DE JUNIO DE 2004)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Este decreto entrará en vigor al día siguiente de la publicación de la declaratoria de aprobación respectiva en el Periódico Oficial del Estado.
