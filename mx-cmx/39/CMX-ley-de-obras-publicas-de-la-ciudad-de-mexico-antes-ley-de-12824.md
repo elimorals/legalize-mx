@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-obras-publicas-de-la-ciudad-de-mexico-antes-ley-de-12824
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-29"
-last_updated: "1998-12-29"
+last_updated: "2003-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12824&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-11-18"
 
 LEY DE OBRAS PUBLICAS DEL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 11 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 29 de diciembre de 1998.
 
@@ -48,55 +48,81 @@ LEY DE OBRAS PÚBLICAS DEL DISTRITO FEDERAL
 
 ### Capítulo Único
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 1º.
 
-La presente Ley es de orden público e interés general, y tiene por objeto normar las acciones referentes a la planeación, programación, presupuestación, gasto, ejecución, conservación, mantenimiento y control de la obra pública y de los servicios relacionados con ésta, que realicen las dependencias, entidades y órganos desconcentrados de la Administración Pública del Distrito Federal.
+La presente Ley es de orden público e interés general, y tiene por objeto normar las acciones referentes a la planeación, presupuestación, gasto, ejecución, conservación, mantenimiento y control de la obra pública y de los servicios relacionados con ésta, que realicen las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal.
 
-El Jefe de Gobierno de Distrito Federal emitirá las políticas administrativas, bases y lineamientos para las materias a que se refiere esta Ley y su Reglamento, así como los acuerdos que se referirán a la creación del Comité Central de Obras del Distrito Federal, los Subcomités de Obras de las áreas del Sector Obras, sus funciones, responsabilidades e integración de sus elementos.
+El Jefe de Gobierno del Distrito Federal emitirá las políticas administrativas, bases y lineamientos para las materias que (sic) se refiere esta Ley y su Reglamento, así como los acuerdos que se referirán a la creación del Comité Central de Obras del Distrito Federal, los Subcomités de Obras de las áreas del Sector Obras, sus funciones, responsabilidades e integración de sus elementos.
 
-La Administración Pública del Distrito Federal se abstendrá de crear fideicomisos, otorgar mandatos o celebrar actos o cualquier tipo de contratos, cuya finalidad sea evadir lo previsto en este ordenamiento.
+I. El Jefe de Gobierno del Distrito Federal establecerá un Comité Central de Obras que se integrará con representantes de cada una de las dependencias de la Administración Pública Centralizada del Distrito Federal y dos ciudadanos que serán designados por el Jefe de Gobierno del Distrito Federal.
 
-Los trabajos de intercambio educativo y tecnológico, estudios, investigaciones y en su caso, obras especializadas que la Administración Pública del Distrito Federal lleve a cabo con las Dependencias, Entidades o Estados de la Federación, o con instituciones públicas de investigación y de enseñanza superior, no podrán ser contratados ni subcontratados por éstos con terceros y se regirán de acuerdo con las particularidades de cada caso en concreto, no siendo objeto de esta Ley.
+Las delegaciones establecerán un Comité Delegacional de Obras el cual tendrá autonomía funcional respecto del Comité Central, que se integrará con un representante de cada uno de las delegaciones, y dos ciudadanos propuestos por los titulares de las delegaciones, quienes deberán ser ratificados por el Jefe de Gobierno. Tratándose de obras públicas a realizarse en dos o más delegaciones, corresponderá conocer y resolver al Comité Central.
+
+Las entidades establecerán Comités de Obras Públicas, por aprobación expresa de sus órganos de gobierno, cuya integración y funcionamiento quedaran sujetos a lo dispuesto en esta Ley y su Reglamento, debiendo considerar en su integración a dos ciudadanos designados por el Jefe de Gobierno.
+
+En auxilio de sus funciones los comités establecerán subcomités en cada una de las dependencias y delegaciones, que contarán, en el ámbito de sus respectivas competencias, con las atribuciones señaladas en esta Ley y su reglamento para los comités y sin perjuicio del ejercicio directo; excepto en el aspecto técnico y normativo, que se encuentra reservado exclusivamente para el Comité Central.
+
+Los Comités a que hace referencia este artículo, tendrán cada uno, en su respectiva competencia; las facultades que se especifican en el reglamento correspondiente.
+
+La Administración Pública del Distrito Federal se abstendrá de crear Fideicomisos, otorgar mandatos o celebrar actos o Celebrar actos cualquier tipo de contratos, cuya finalidad sea evadir lo previsto en este ordenamiento.
+
+Los trabajos de intercambio educativo y tecnológico, estudios, investigaciones y en su caso, obras especializas que la Administración Pública del Distrito Federal lleve a cabo con las Dependencias, Entidades o Estados de la Federación, o con instituciones públicas de investigación y de enseñanza superior, no podrán ser contratados ni subcontratados por éstos con terceros y se regirán de acuerdo con las particularidades de cada caso en concreto, no siendo objeto de esta Ley.
 
 No estarán sujetas a las disposiciones de esta Ley, las obras que deban ejecutarse para la infraestructura necesaria en la prestación de servicios públicos que los particulares tengan específicamente concesionados, salvo que ante la falta de cumplimiento de la prestación del servicio público sea necesaria la realización de obra pública durante la construcción u operación de la concesión, en cuyo caso se aplicará la presente Ley.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 2º.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Secretaría: la Secretaría de Obras y Servicios del Distrito Federal;
+I. Administración Pública del Distrito Federal: El conjunto de órganos que componen la Administración Centralizada, Desconcentrada y Paraestatal del Distrito Federal;
 
-II. Contraloría: la Contraloría General del Gobierno del Distrito Federal;
+II. Secretaría: la Secretaría de Obras y Servicios del Distrito Federal;
 
-III. Dependencias: La Jefatura de Gobierno, las Secretarías, la Contraloría General, los Órganos Políticos Administrativos de las Demarcaciones Territoriales y la Procuraduría General de Justicia del Distrito Federal, que integran la Administración Pública Centralizada del Distrito Federal;
+III. Contraloría: la Contraloría General de la Administración Pública del Distrito Federal;
 
-IV. Entidades: Organismos descentralizados, las Empresas de Participación Estatal y los Fideicomisos Públicos del Distrito Federal;
+IV. Dependencias: La Jefatura de Gobierno, las Secretarías, la Contraloría General y la Procuraduría General de Justicia del Distrito Federal, que integran la Administración Pública Centralizada del Distrito Federal;
 
-V. Órganos Desconcentrados: Los Órganos Administrativos diferentes de los Órganos Políticos Administrativos de las Demarcaciones Territoriales, que están subordinados al Jefe de Gobierno del Distrito Federal, o bien a la dependencia que éste determine;
+V. Entidades: Organismos descentralizados, las Empresas de Participación Estatal y los Fideicomisos Públicos del Distrito Federal;
 
-VI. Reglamento: el Reglamento de la Ley de Obras Públicas del Distrito Federal;
+VI. Órganos Desconcentrados: Los Órganos Administrativos diferentes de los Órganos Políticos Administrativos de las Demarcaciones Territoriales, que están subordinados al Jefe de Gobierno del Distrito Federal, o bien a la dependencia que éste determine;
 
-VII. Políticas administrativas, bases y lineamientos: Manual en el cual se establecerán detalladamente procedimientos para dar cumplimiento a los aspectos establecidos en el Reglamento;
+VII. Delegaciones: Los Órganos Político Administrativos en cada un (sic) de las demarcaciones territoriales en que se divide el Distrito Federal;
 
-VIII. Tratados: los definidos como tales en la Fracción I del Artículo 2 de la Ley sobre Celebración de Tratados;
+VIII. Reglamento: el Reglamento de la Ley de Obras Públicas del Distrito Federal;
 
-IX. Concurso: Llamamiento a quienes estén en condiciones de encargarse de ejecutar una obra pública a fin de elegir la propuesta que ofrezca las mayores ventajas;
+IX. Políticas administrativas, bases y lineamientos: Manual en el cual se establecerán detalladamente procedimientos para dar cumplimiento a los aspectos establecidos en el Reglamento;
 
-X. Concursante: la persona física o moral interesada, que adquiere bases y participa en el proceso de concurso de una obra pública;
+X. Tratados: los definidos como tales en la Fracción I del Artículo 2 de la Ley sobre Celebración de Tratados;
 
-XI. Contratista: la persona física o moral que celebre contratos para la ejecución, suministros o servicios en la realización de la obra pública;
+XI. Concurso: Llamamiento a quienes estén en condiciones de encargase de ejecutar una obra pública a fin de elegir la propuesta que ofrezca las mayores ventajas;
 
-XII. Cámara: la asociación privada que agrupa personas físicas o morales con intereses comunes;
+XII. Concursante: la persona física o moral interesa, que adquiere bases y participa en el proceso de concurso de una obra pública;
 
-XIII. Colegio: la asociación privada que agrupa profesionales de una misma disciplina académica con intereses comunes;
+XIII. Contratista: la persona física o moral que celebre contratos para la ejecución, suministros o servicios en la realización de la obra pública;
 
-XIV. Proyecto Ejecutivo de Obra: el conjunto de planos, memorias descriptivas y de cálculo, catálogo de conceptos, normas y especificaciones que contiene la información y definen los aspectos para la construcción de una obra;
+XIV. Comité: El Comité de Obras y Servicios relacionados con las mismas del Distrito Federal, Central, Delegacional o de las Entidades;
 
-XV. Análisis Económico de Obra Pública: el estudio técnico financiero que muestra la viabilidad de la obra; o bien, el estudio del costo/beneficio correspondiente a la evaluación de propuestas en licitaciones de proyectos integrales, y
+XV. Cámara: la asociación privada que agrupa personas físicas o morales con intereses comunes;
 
-XVI. Normatividad del Gobierno del Distrito Federal: el conjunto de disposiciones internas cuyo objeto es definir el marco de referencia para la elaboración de precios unitarios y otros conceptos relacionados con las obras públicas.
+XVI. Colegio: la asociación privada que agrupa profesionales de una misma disciplina académica con intereses comunes;
 
-###### Artículo 3º.
+XVII. Proyecto Ejecutivo de Obra: el conjunto de planos, memorias descriptivas y de cálculo, catálogo de conceptos, normas y especificaciones que contiene la información y definen los aspectos para la construcción de una obra;
+
+XVIII. Análisis Económico de Obra Pública: el estudio técnico financiero que muestra la viabilidad de la obra; o bien, el estudio del costo/beneficio correspondiente a la evaluación de propuestas en licitaciones de proyectos integrales;
+
+XIX. Normatividad de la Administración Pública del Distrito Federal: el conjunto de disposiciones internas cuyo objeto es definir el marco de referencia para la elaboración de precios unitarios y otros conceptos relacionados con las obras públicas;
+
+XX. Arrendamiento: Acto jurídico por el cual se obtiene el uso y goce temporal de bienes muebles a plazo forzoso, mediante el pago de un precio cierto y determinado; y
+
+XXI. Arrendamiento Financiero: El acto jurídico por virtud del cual la arrendadora financiera se obliga a conceder el uso o goce temporal de determinados bienes a plazo forzoso, a una dependencia, órgano desconcentrado, delegación y entidad obligándose éstas a pagar como contraprestación, que se liquidará en pagos parciales, según se convenga, una cantidad de dinero determinada o determinable, que cubra el valor de adquisición de los bienes, las cargas financieras y los demás accesorios, y adoptar al vencimiento del contrato alguna de las siguientes opciones: compra de los bienes. prorroga de contrato a precio inferior o, participación en el precio de venta de los bienes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+###### Artículo 3°.
 
 Para los efectos de esta Ley, se considera obra pública:
 
@@ -108,9 +134,9 @@ II. Los trabajos de localización, exploración geotécnica, y perforación para
 
 III. El despalme, desmonte y mejoramiento de suelos;
 
-IV. El mantenimiento, conservación, rehabilitación, reacondicionamiento, operación, reparación y limpieza de bienes no considerados en la Ley aplicable en la materia relativa a Adquisiciones, Arrendamientos y Servicios en el Distrito Federal, equipos e instalaciones cuyo objetivo sea la impartición de un servicio público a cargo de cualquier dependencia, entidad u órgano desconcentrado;
+IV. El mantenimiento, conservación, rehabilitación, reacondicionamiento, operación, reparación y limpieza de bienes no considerados en la Ley aplicable en la materia relativa a Adquisiciones, Arrendamientos y Servicios en el Distrito Federal, equipos e instalaciones cuyo objetivo sea la impartición de un servicio público a cargo de cualquier dependencia, órgano desconcentrado, delegación o entidad;
 
-V. El suministro de materiales, mobiliario y equipos que se vayan a incorporar a obras nuevas, a las de rehabilitación o aquellas que se construyan para su mejoramiento;
+V. El suministro de materiales, mobiliario y equipos que se vayan a incorporar a obras nuevas, a las de rehabilitación o aquéllas que se construyan para su mejoramiento, cuya adquisición quede exceptuada de lo establecido por la Ley de Adquisiciones para el Distrito Federal;
 
 VI. Los trabajos de infraestructura agropecuaria;
 
@@ -122,21 +148,21 @@ B. Servicios relacionados con la obra pública, dentro de los cuales podrán est
 
 I. Estudios previos.- Investigaciones generales y de experimentación, estudios de tenencia de la tierra o de uso del suelo, topográficos, hidráulicos, hidrológicos, geohidrológicos, de mecánica de suelos, sismológicos, batimétricos, aerofotométricos, de impacto ambiental, de impacto social y de impacto urbano, del medio ambiente, ecológicos, sociológicos, demográficos, urbanísticos, arquitectónicos, otros del ámbito de la ingeniería y anteproyectos diversos;
 
-II. Estudios técnicos.- Trabajos de investigación específica, interpretación y emisión de resultados, de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, geología, geodesia, geotécnia, geofísica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado; peritajes y avalúos;
+II. Estudios técnicos.- Trabajos de investigación especifica, interpretación y emisión de resultados, de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, geología, geodesia, geotécnia, geofísica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado; peritajes y avalúos;
 
 III. Proyectos.- Planeación y diseños de ingeniería civil, industrial, electromecánica y de cualquier otra especialidad de la ingeniería; la planeación, y diseños urbanos, arquitectónicos, de restauración, gráficos, industriales y artísticos, y de cualquier otra especialidad de la arquitectura y del diseño;
 
-IV. Supervisión de obras.- Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, preparación y elaboración de documentos para las licitaciones; verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, integración de grupos técnico-administrativos, capacitación, actualización continua, acorde con las disposiciones de la dependencia, entidad u órgano desconcentrado;
+IV. Supervisión de obras.- Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, preparación y elaboración de documentos para las licitaciones; verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, integración de grupos técnico-administrativos, capacitación, actualización continua, acorde con las disposiciones de la dependencia, órgano desconcentrado, delegación o entidad;
 
-V. Coordinación de supervisión.- Actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos; dichas actividades se basan en la concertación interdisciplinaria para organizar y conjuntar información sistemática de las diversas obras cuya supervisión se coordina. Tal información, proporcionada por las respectivas residencias de supervisión de obra, se verificará mediante visitas periódicas a obras y a otros sitios de trabajo, asistencia a juntas de coordinación y avances de obras y de actividades, corroborando que las supervisiones cumplan con sus funciones. Con objeto de poder evaluar e interpretar esta información se elaborarán informes del estado que guardan las obras que se coordinan, que incluirán el desempeño de las supervisiones, para permitir a la dependencia, entidad u órgano desconcentrado, la oportuna toma de decisiones y lograr que las obras se ejecuten conforme los proyectos, especificaciones, programas y presupuestos.
+V. Coordinación de supervisión.- Actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos; dichas actividades se basan en la concertación interdisciplinaria para organizar y conjuntar información sistemática de las diversas obras cuya supervisión se coordina. Tal información, proporcionada por las respectivas residencias de supervisión de obra, se verificará mediante vistas periódicas a obras y a otros sitios de trabajo, asistencia a juntas de coordinación y avances de obras y de actividades, corroborando que las supervisiones cumplan con sus funciones. Con objeto de poder evaluar e interpretar esta información se elaborarán informes del estado que guardan las obras que se coordinan, que incluirán el desempeño de las supervisiones, para permitir a la dependencia, órgano desconcentrado, delegación o entidad, la oportuna toma de decisiones y lograr que las obras se ejecuten conforme los proyectos, especificaciones, programas y presupuestos;
 
-VI. Gerencia de obra.- Trabajos con un enfoque integrador que propicien con eficacia y eficiencia alcanzar los objetivos y propósitos que para un proyecto tiene la dependencia, entidad u órgano desconcentrado, y que colateralmente incluyan los correspondientes a las Fracciones IV y VII de este Artículo, asimismo ejecutará las acciones pertinentes para la realización oportuna de proyectos específicos;
+VI. Gerencia de obra.- Trabajos con un enfoque integrador que propicien con eficacia y eficiencia alcanzar los objetivos y propósitos que para un proyecto tiene la dependencia, órgano desconcentrado, delegación o entidad, y que colateralmente incluyan los correspondientes a las Fracciones IV y VII de este Artículo, asimismo ejecutará las acciones pertinentes para la realización oportuna de proyectos específicos;
 
-VII. Supervisión de estudios y proyectos.- Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta Ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
+VII. Supervisión de estudios y proyectos.- Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
 
-VIII. Administración de obras.- Los trabajos relativos a la administración de obras, incluyendo los de registro, seguimiento y control, coordinación y dirección de obras, tales como gerencia de proyectos o de construcción, trabajos de coordinación, de organización, de mercadotecnica, los de administración de empresas y organismos, los estudios de producción, de distribución y transporte, de informática, sistemas y comunicaciones, los de desarrollo y administración de recursos humanos, los de inspección y de certificación;
+VIII. Administración de obras.- Los trabajos relativos a la administración de obras, incluyendo los de registro, seguimiento y control, coordinación y dirección de obras, tales como gerencia de proyectos o de construcción, trabajos de coordinación, de organización, de mercadotecnia, los de administración de empresas u organismos, los estudios de producción, de distribución y transporte, de informática, sistemas y comunicaciones, los de desarrollo y administración de recursos humanos, los de inspección y de certificación;
 
-IX. Consultorías.- Los dictámenes, tercerías, opiniones profesionales y auditorías que podrán ser requeridas en cualquier etapa de la obra pública; los servicios de apoyo tecnológicos, incluyendo los de desarrollo y transferencia de tecnología, entre otros, y
+IX. Consultorías.- Los dictámenes, tercerías, opiniones profesionales y auditorías que podrán ser requeridas en cualquier etapa de la obra pública; los servicios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, entre otros, y
 
 X. Todos los servicios que se vinculen con las acciones y el objeto de esta Ley.
 
@@ -146,43 +172,73 @@ C. Proyecto integral: Las acciones que comprenden el desarrollo de un trabajo, i
 
 La aplicación de esta Ley será sin perjuicio de lo establecido en los tratados.
 
-###### Artículo 5º.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Estará sujeta a las disposiciones de esta Ley la obra pública que se realice con cargo total a fondos provenientes de la Administración Pública del Distrito Federal, excepto los casos citados en el Artículo 1, cuarto párrafo. En caso de recursos federales totales o parciales, se atenderá la Ley aplicable en materia federal.
+###### Artículo 5.
 
-###### Artículo 6º.
+Estará sujeta a las disposiciones de esta Ley, la obra pública que se realice con cargo total a recursos del Presupuesto de Egresos del Distrito Federal, excepto los casos citados en el artículo 1°, noveno párrafo de la misma, así como las obras financiadas total o parcialmente con fondos federales, conforme a los convenios que se celebren con el Ejecutivo Federal, y distintos de los ingresos de coordinación fiscal, fondos de aportaciones federales y deuda pública.
 
-Concluida la obra pública, o recibida parte utilizable de la misma, será obligación de la dependencia, entidad u órgano desconcentrado vigilar que el área que debe operarla reciba oportunamente, de la responsable de su realización, el inmueble en condiciones de operación, con planos actualizados, normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes, y los certificados de garantía de calidad de los bienes instalados.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Será responsabilidad de las dependencias, entidades y órganos desconcentrados dar de alta los bienes con que cuenten en Patrimonio del Gobierno, a fin de que sean asegurados; asimismo, las dependencias, entidades y órganos desconcentrados deberán mantener adecuada y satisfactoriamente en condiciones de uso óptimo estos bienes.
+###### Artículo 6°.
 
-###### Artículo 7º.
+Concluida la obra pública, o recibida parte utilizable de la misma, será obligación de la dependencia, órgano desconcentrado, delegación o entidad vigilar que el área que debe operarla reciba oportunamente, de la responsable de su realización, el inmueble en condiciones de operación, con planos actualizados, normas y especificaciones que fueron aplicadas durante su ejecución, así como los manuales e instructivos de operación, conservación y mantenimiento correspondientes, y los certificados de garantía de calidad de los bienes instalados.
 
-El Jefe de Gobierno del Distrito Federal cuidará que en la adopción e instrumentación de las acciones que se deben llevar a cabo en cumplimiento de esta Ley, se observen criterios que promuevan la simplificación administrativa, la descentralización de las funciones y la efectiva delegación de facultades.
+Será responsabilidad de las dependencias. órganos desconcentrados, delegaciones o entidades dar de alta los bienes con que cuenten en Patrimonio del Gobierno, a fin de que sean asegurados; asimismo, las dependencias, órganos desconcentrados, delegaciones o entidades deberán mantener adecuada y satisfactoriamente en condiciones de uso óptimo estos bienes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+###### Artículo 7°.
+
+El Jefe de Gobierno del Distrito Federal, establecerá las políticas necesarias para la adopción e instrumentación de las acciones que se deban llevar a cabo en cumplimiento de esta Ley, y para que se observen criterios que promuevan la simplificación administrativa, la descentralización de las funciones y la efectiva delegación de facultades.
 
 ###### Artículo 8º.
 
 En lo no previsto por esta Ley, será aplicable el Código Civil para el Distrito Federal en Materia Común y para toda la República en Materia Federal, el Código de Procedimientos Civiles para el Distrito Federal y la Ley del Régimen Patrimonial y del Servicio Público.
 
-###### Artículo 9º.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Cuando se requiera la intervención de dos o más dependencias, entidades u órganos desconcentrados en la construcción de una obra pública, quedará a cargo de cada una de ellas la responsabilidad sobre la ejecución de lo que corresponda a cada parte de la misma, independientemente de la responsabilidad que en razón de las atribuciones tenga la encargada de la planeación conjunta.
+###### Artículo 9°.
+
+Cuando en la construcción de una obra pública, una dependencia, delegación, órgano desconcentrado o entidad sea el encargado de la planeación, programación y presupuestación, y otra dependencia, delegación, órgano desconcentrado o entidad sea el encargado de la ejecución quedará en cada uno la responsabilidad que le corresponda en dicha obra, de conformidad con el ámbito de su competencia.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 10.
 
-Las controversias que se susciten con motivo de la interpretación o cumplimiento de esta Ley o de los contratos celebrados con base en ella, en que sean parte las dependencias, entidades y órganos desconcentrados, serán resueltas por los tribunales competentes del Distrito Federal.
+Las diferencias que en el ámbito administrativo se susciten con motivo de la interpretación y aplicación de esta ley, serán resueltas por la Contraloría.
+
+En lo relativo a las controversias en la interpretación y aplicación de los contratos, convenios y actos de que éstos se deriven y que hayan sido celebrados con base en esta Ley, serán resueltas por los Tribunales competentes del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 11.
 
-Los contratos que celebren las dependencias, entidades y órganos desconcentrados para ejecutar obra pública fuera del territorio del Distrito Federal, se regirán en lo conducente por esta Ley, sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto.
+Los contratos que celebren las dependencias, órganos desconcentrados, delegaciones o entidades para ejecutar obra pública fuera del territorio del Distrito Federal, se regirán en lo conducente por esta Ley, sin perjuicio de lo dispuesto por la legislación del lugar donde se formalice el acto.
 
 ###### Artículo 12.
 
 El gasto de la obra pública, incluyendo el de inversión que haya que hacer a las obras concesionadas cuando han pasado a poder del Distrito Federal, se sujetará a las disposiciones específicas anuales de los Presupuestos de Egresos del Distrito Federal, así como a lo previsto en el Código Financiero del Distrito Federal y demás disposiciones aplicables.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 13.
 
-La Contraloría será la facultada para interpretar esta Ley para efectos administrativos y dictará las disposiciones administrativas específicas necesarias para el cumplimiento estricto de esta Ley, tomando en cuenta la opinión de la Secretaría. Tales disposiciones deberán hacerse del conocimiento de los interesados mediante publicaciones en la Gaceta Oficial del Distrito Federal y en el Diario Oficial de la Federación para su mayor difusión.
+Estarán facultados para interpretar esta Ley:
+
+a) La Secretaría en lo relativo para efectos técnicos.
+
+b) La Contraloría en lo relativo a efectos administrativos.
+
+c) La Consejería Jurídica y de Servicios en lo relativo a efectos jurídicos.
+
+d) La Secretaría de Finanzas en lo relativo a las acciones relativas a la programación, presupuestación y gasto por concepto de obras públicas.
+
+Dichas autoridades en el ámbito de su competencia, dictarán los criterios específicos necesarios para su aplicación, en un plazo no mayor a quince días hábiles contados a partir del día siguiente a la presentación de solicitud de interpretación, y salvo que las mismas requieran ampliar el plazo, la autoridad hará del conocimiento por escrito al interesado dentro del período inicial.
+
+Cuando lo juzgue pertinente, la autoridad podrá hacer del conocimiento al interesado del criterio tomado, a través de su publicación en la Gaceta Oficial del Distrito Federal.
+
+La Contraloría, a través de sus órganos de control interno, intervendrá conforme a lo dispuesto en esta Ley, en los procedimientos para contratar obra pública, a fin que de manera preventiva se vigile que las dependencias, delegaciones, órganos desconcentrados y entidades de la Administración Pública del Distrito Federal, cumplan con la contratación y ejecución de la obra pública.
 
 ###### Artículo 14.
 
@@ -190,9 +246,11 @@ La Secretaría, la Secretaría de Finanzas y la Contraloría, en el ámbito de s
 
 Para los efectos del párrafo anterior, las citadas dependencias pondrán a disposición entre sí, los resultados de los trabajos objeto de los respectivos contratos de asesoría técnica.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 15.
 
-Los actos, contratos y convenios que celebren las dependencias, entidades y órganos desconcentrados en contravención a lo dispuesto por esta Ley, serán nulos.
+Los actos, contratos y convenios que celebren las dependencias, órganos desconcentrados, delegaciones y entidades en contravención a lo dispuesto por esta Ley, serán nulos de pleno derecho.
 
 ## TITULO SEGUNDO
 
@@ -200,9 +258,11 @@ De la Planeación, Programación y Presupuestación.
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 16.
 
-En la planeación de la obra pública, incluyendo las obras concesionadas cuando éstas han pasado a poder el Gobierno del Distrito Federal, las dependencias, entidades y órganos desconcentrados deberán sujetarse a los objetivos y prioridades de:
+En la planeación de la obra pública, incluyendo las obras concesionadas cuando éstas han pasado a poder de la Administración Pública del Distrito Federal, las dependencias, órganos desconcentrados, delegaciones y entidades deberán sujetarse a los objetivos y prioridades de:
 
 I. El Plan Nacional de Desarrollo;
 
@@ -216,9 +276,11 @@ V. Otros planes y programas que señalen las disposiciones legales aplicables.
 
 Asimismo, se escuchará y evaluará la opinión de los órganos de participación ciudadana a través de sus representantes, dentro del contexto correspondiente.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 17.
 
-Las dependencias, entidades y órganos desconcentrados elaborarán sus programas y presupuestos de obra pública, considerando:
+Las dependencias, órganos desconcentrados, delegaciones y entidades elaborarán sus programas y presupuestos, puestos de obra pública, considerando:
 
 I. Los objetivos y metas a corto, mediano y largo plazo en los planes correspondientes;
 
@@ -238,7 +300,9 @@ VIII. La calendarización física y financiera de los recursos necesarios para s
 
 IX. Las unidades responsables de su ejecución, así como las fechas previstas de iniciación y terminación de cada trabajo;
 
-X. La adquisición, regulación de la tenencia de la tierra, así como la obtención de los permisos necesarios para la ejecución de los trabajos;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+X. La adquisición, regulación de la tenencia de la tierra, así como la obtención de los dictámenes, licencias y permisos, y demás autorizaciones que se deban tramitar y obtener, necesarios para la ejecución de los trabajos que establezcan las disposiciones jurídicas aplicables;
 
 XI. La ejecución de los trabajos, en donde se deberá estimar lo que se vaya a realizar por contrato, separado de lo que se vaya a realizar con personal de su organización; en cuyo caso habrá que desglosar los costos de los recursos necesarios por aplicar, por concepto de suministro de materiales, maquinaria, equipos o de accesorios, los cargos para pruebas y la asignación de personal tanto para la ejecución como para la supervisión. En caso de contrato deberán preverse los precios unitarios en el mercado, de los trabajos a ejecutar;
 
@@ -248,51 +312,81 @@ XIII. Tratándose de obra pública financiada, total o parcialmente por los cont
 
 XIV. Las demás previsiones que deban tomarse en cuenta, de acuerdo con la naturaleza y características de la obra.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 18.
 
-Las dependencias, entidades y órganos desconcentrados estarán obligadas a prever los efectos sobre el medio ambiente y el medio urbano que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental, impacto urbano, y los referentes a la materia de protección civil, previstos en las Leyes aplicables en la materia. Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias, entidades y órganos desconcentrados con atribuciones en la materia. En cuanto a impacto urbano, se deberán prever los trabajos de restauración de monumentos arqueológicos, históricos y artísticos, así como que se tengan en cuenta los aspectos básicos sobre factibilidad de dotación de servicios, vialidad y facilidades para los discapacitados, atendiendo las leyes y reglamentos respectivos, debiéndose evitar las barreras arquitectónicas que se pudieran producir con los proyectos.
+Las dependencias, órganos desconcentrados, delegaciones y entidades estarán obligadas a prever los efectos sobre el medio ambiente y el medio urbano que pueda causar la ejecución de la obra pública, con sustento en los estudios de impacto ambiental, impacto urbano, y los referentes a la materia de protección civil, previstos en las Leyes aplicables en la materia. Los proyectos deberán incluir las obras necesarias para que se preserven o restauren las condiciones ambientales cuando éstas pudieran deteriorarse, y se dará la intervención que corresponda a las dependencias, órganos desconcentrados, delegaciones y entidades con atribuciones en la materia. En cuanto a impacto urbano, se deberán prever los trabajos de restauración de monumentos arqueológicos, históricos y artísticos, así como que se tengan en cuenta los aspectos básicos sobre factibilidad de dotación de servicios, vialidad y facilidades para los discapacitados, atendiendo las leyes y reglamentos respectivos, debiéndose evitar las barreras arquitectónicas que se pudieran producir con los proyectos.
 
 Cuando se trate de obra pública en monumentos, predios colindantes a estos o zonas de monumentos arqueológicos, artísticos o históricos se dará intervención a las instituciones competentes en los términos de la Ley de la materia.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 19.
 
-Las dependencias, entidades y órganos desconcentrados que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las dependencias, entidades y órganos desconcentrados afines dentro del Distrito Federal, existen estudios o proyectos estrictamente aplicables, o técnica y económicamente adaptables sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la dependencia, entidad u órgano desconcentrado, solamente se procederá a la contratación de la adecuación que haya de hacerle al proyecto.
+Las dependencias, órganos desconcentrados, delegaciones y entidades que requieran contratar o realizar estudios o proyectos, primero verificarán si en sus archivos o en los de las dependencias, órganos desconcentrados, delegaciones y entidades afines dentro del Distrito Federal, existen estudios o proyectos estrictamente aplicables, o técnica y económicamente adaptables sobre la materia. De resultar positiva la verificación y de comprobarse que el estudio o proyecto localizado satisface los requerimientos de la dependencia, órgano desconcentrado, delegación y entidad, solamente se procederá a la contratación de la adecuación que haya que hacerle al proyecto.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 20.
 
-Las dependencias, entidades y órganos desconcentrados del Gobierno del Distrito Federal, remitirán sus programas y presupuestos de obra pública a la Secretaría de Finanzas, en la fecha y forma que ésta señale.
+Las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, remitirán sus programas y presupuestos de obra pública a la Secretaria de Finanzas, en la fecha y forma que ésta señale.
+
+La planeación del gasto deberá ajustarse, en su caso, por las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, a los programas y presupuestos de obra pública remitidos a la Secretaría de Finanzas, conforme al Presupuesto de Egresos definitivo autorizado por la Asamblea Legislativa.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 21.
 
-Las dependencias, entidades y órganos desconcentrados, a más tardar el 31 de marzo de cada año, darán a conocer a través de la Gaceta Oficial del Distrito Federal y del Diario Oficial de la Federación la disponibilidad de sus programas anuales de obra pública, salvo que medie causa debidamente justificada para no hacerlo en dicho plazo.
+Las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, a más tardar el 31 de marzo de cada año, darán a conocer a través de la Gaceta Oficial del Distrito Federal la disponibilidad de sus programas anuales de obra pública, salvo que medie causa debidamente justificada para no hacerlo en dicho plazo.
 
-El documento con dicha programación será de carácter informativo, no implicará compromiso alguno de contratación y se podrá modificar, adicionar, diferir o cancelar sin responsabilidad para el Gobierno del Distrito Federal.
+El documento con dicha programación será de carácter informativo, no implicará compromiso alguno de contratación y se podrá modificar, adicionar, diferir o cancelar sin responsabilidad para la Administración Pública del Distrito Federal.
 
 ###### Artículo 22.
 
 Cuando la ejecución de una obra pública rebase un ejercicio presupuestal, deberá elaborarse tanto el presupuesto total como los correspondientes a cada ejercicio; los presupuestos de los ejercicios subsecuentes al primero, se actualizarán con los costos vigentes en el mercado al inicio del ejercicio correspondiente.
 
-Para efectos de este Artículo, las dependencias, entidades y órganos desconcentrados, observarán lo dispuesto en el Código Financiero del Distrito Federal.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Para efectos de este artículo, las dependencias. órganos desconcentrados, delegaciones y entidades, observarán lo dispuesto en el Código Financiero del Distrito Federal.
 
 ## TITULO TERCERO. De la Licitación Pública y los Contratos
 
 ### Capítulo I. Aspectos Generales
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 23.
 
-Las dependencias, entidades y órganos desconcentrados podrán convocar, adjudicar o llevar a cabo obra pública, solamente cuando se cuente con recursos para asignación específica en la partida autorizada dentro del presupuesto aprobado.
+Las dependencias, órganos desconcentrados, delegaciones y entidades podrán convocar, adjudicar o llevar a cabo obra pública, solamente cuando se cuente con recursos para asignación especifica en la partida autorizada dentro del presupuesto aprobado.
 
-En casos excepcionales, previa autorización de la Secretaría de Finanzas, las dependencias, entidades y órganos desconcentrados podrán hacerlo sin contar con saldo disponible en su presupuesto, debiéndose iniciar de inmediato las gestiones pertinentes para asegurar la suficiencia necesaria para atender los compromisos presupuestales derivados.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Tratándose de obra se requerirá, además, contar los estudios y con el proyecto ejecutivo de la obra o, en su caso, con un grado de avance que asegure que la obra se desarrollará ininterrumpidamente al contarse con las oportunas soluciones en el proceso ejecutivo de aspectos que hubieran quedado pendientes; normas de construcción; especificaciones en su caso; especificaciones particulares de cada proyecto; programa de ejecución, y cuando sea necesario el programa de suministro y un costo estimado de la obra; excepto obras para mantenimiento correctivo en infraestructura que puedan ejecutarse sin necesidad de alguno de los elementos citados, como puede ser el caso de bacheo, reparación de fugas en instalaciones hidráulicas y otras en las que tan sólo será necesaria su presupuestación.
+En casos excepcionales, previa autorización de la Secretaría de Finanzas, las dependencias, órganos desconcentrados, delegaciones y entidades podrán hacerlo sin contar con saldo disponible en su presupuesto, debiéndose iniciar de inmediato las gestiones pertinentes para asegurar la suficiencia necesaria para atender los compromisos presupuestales derivados.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Tratándose de obra se requerirá, además de contar con los estudios y con el proyecto ejecutivo de la obra o, en su caso, con un grado de avance que asegure que la obra se desarrollará ininterrumpidamente al contarse con las oportunas soluciones en el proceso ejecutivo de aspectos que hubieran quedado pendientes; normas de construcción; especificaciones en su caso, especificaciones particulares de cada proyecto; programa de ejecución, y cuando sea necesario el programa de suministro y un costo estimado de la obra.
+
+> <small>(ADICIONADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Se exceptúan de lo anterior:
+
+a) Los casos en los que de acuerdo con la obra a realizar, técnicamente sólo sean necesarios los términos de referencia a las especificaciones de trabajo o los planos o croquis que precisen los trabajos a realizar, independientemente de las especificaciones técnicas y normas de construcción que emita la Secretaría y resulten aplicables; y
+
+b) Las obras para mantenimiento preventivo o correctivo en infraestructura que pueden ejecutarse sin necesidad de alguno de los elementos citados en el inciso anterior, como pueden ser el caso del bacheo, reparación de fuga en instalaciones hidráulicas y otras en las que tan sólo será necesaria su presupuestación.
 
 Los servidores públicos que autoricen actos en contravención a lo dispuesto en este Artículo, se harán acreedores a las sanciones previstas en la Ley Federal de Responsabilidades de los Servidores Públicos.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 24.
 
-La obra pública por regla general se adjudicará a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones que cumplan legal, técnica, económica, financiera, y administrativamente de acuerdo con lo solicitado por las dependencias, entidades y órganos desconcentrados en sobre cerrado, que serán abiertos públicamente a fin de asegurar el Gobierno del Distrito Federal las mejores condiciones disponibles en cuanto a calidad, financiamiento, oportunidad, precio, y demás circunstancias pertinentes de acuerdo a lo que establece la presente Ley.
+La obra pública por regla general se adjudicará a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones que cumplan legal, técnica, económica, financiera, y administrativamente de acuerdo con lo solicitado por las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en sobre cerrado, que serán abiertos públicamente a fin de asegurar a la Administración Pública del Distrito Federal las mejores condiciones disponibles en cuanto a calidad, financiamiento, oportunidad, precio, y demás circunstancias pertinentes de acuerdo a lo que establece la presente Ley.
 
-Las dependencias, entidades y órganos desconcentrados, cumpliendo los requisitos establecidos en esta Ley y en su Reglamento, podrán contratar bajo su responsabilidad, obra pública mediante los procedimientos que a continuación se señalan:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+Las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, cumpliendo los requisitos establecidos en esta Ley y en su Reglamento, podrán contratar bajo su responsabilidad, obra pública mediante los procedimientos que a continuación se señalan:
 
 A. Por licitación pública, y
 
@@ -318,35 +412,45 @@ I. Nacionales, cuando únicamente puedan participar personas de nacionalidad mex
 
 II. Internacionales, cuando puedan participar tanto personas de nacionalidad mexicana como extranjera, y los bienes a adquirir sean de origen nacional o extranjero.
 
-Solamente se realizarán licitaciones de carácter internacional, cuando previa investigación de mercado que realice la dependencia, entidad u órgano desconcentrado convocante, no exista oferta en cantidad o calidad de los contratistas nacionales, o no cuenten con la capacidad para la ejecución de la obra pública; cuando sea conveniente en términos de calidad o de precio; o bien, cuando ello sea obligatorio en obra pública financiada con créditos externos, otorgados al Gobierno del Distrito Federal o con su aval.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Solamente se realizarán licitaciones de carácter internacional, cuando previa investigación de mercado que realice la dependencia, órgano desconcentrado, delegación y entidad convocante, no exista oferta en cantidad o calidad de los contratistas nacionales, o no cuenten con la capacidad para la ejecución de la obra pública; cuando sea conveniente en términos de calidad o de precio; o bien, cuando ello sea obligatorio en obra pública financiada con créditos externos, otorgados a la Administración Pública del Distrito Federal o con su aval.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 26.
 
-La venta de bases comprenderá un lapso de cinco días hábiles contados a partir de la publicación de la convocatoria; la visita al sitio donde se va a ejecutar la obra pública en caso de ser necesaria, será a los ocho días hábiles de publicada la convocatoria.
+La venta de bases comprenderá un lapso de TRES a CINCO días hábiles contados a partir de la publicación de la convocatoria; la visita al sitio donde se va a ejecutar la obra pública, en caso de ser necesario, será de UNO a SEIS días hábiles posteriores a la conclusión de la venta de bases.
 
-La junta o juntas de aclaraciones quedarán comprendidas entre tres y siete días hábiles posteriores a la fecha de visita al sitio de la obra si es el caso; la presentación de propuestas y apertura de las propuestas técnicas, quedará comprendida entre cinco y diez días hábiles posteriores a la fecha que se haya establecido para la junta de aclaraciones o última junta de aclaraciones, en su caso; la fecha de apertura de la propuesta económica se establecerá entre cinco y diez días hábiles a partir de la fecha de apertura de la propuesta técnica; y la fecha del fallo se fijará entre cinco y diez días hábiles posteriores a la fecha que se haya establecido para la apertura económica, y podrá diferirse por una sola vez por causas justificadas en un lapso que no excederá de diez días hábiles. Para efectos de estos plazos, debe regir como referencia la publicación de la convocatoria en el Diario Oficial de la Federación.
+La junta o juntas de aclaraciones quedarán comprendidas entre UNO y SIETE días hábiles posteriores a la fecha de visita al sitio de la obra si es el caso; la presentación de propuestas y apertura de las propuestas técnicas, quedará comprendida entre CINCO y DIEZ días hábiles posteriores a la fecha que se haya establecido para la junta de aclaraciones o última junta de aclaraciones, en su caso; la fecha de apertura de la propuesta económica se establecerá entre UNO y DIEZ días hábiles a partir de la fecha de apertura de la propuesta técnica; y la fecha del fallo se fijará entre DOS y VEINTE días hábiles posteriores a la fecha que se haya establecido para la apertura económica. y podrá diferirse por una sola vez por causas justificadas en un lapso que no excederá de DIEZ días hábiles. Para efectos de estos plazos, debe regir como referencia la publicación de la convocatoria en la Gaceta Oficial del Distrito Federal.
 
-Podrá recurrirse por razones justificadas a plazos fuera de los establecidos en este Artículo, previo análisis y autorización del Comité Central de Obras del Distrito Federal o Subcomités de Obras de las áreas del Sector Obras correspondiente.
+Podrá recurrirse por razones justificadas a plazos fuera de los establecidos en este articulo, siempre y cuando no sean menores a los indicados en el párrafo anterior, dando aviso al Comité o Subcomités de Obras de las áreas del sector de obras correspondiente.
 
 En el caso de proyectos integrales, los plazos anteriores se establecerán en cada caso de acuerdo con el tipo de trabajo a concursar.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 27.
 
-Las dependencias, entidades y órganos desconcentrados podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del contratista.
+Las dependencias, órganos desconcentrados, delegaciones y entidades podrán rescindir administrativamente los contratos en caso de incumplimiento de las obligaciones a cargo del contratista.
 
-Asimismo, las dependencias, entidades y órganos desconcentrados podrán anticipadamente dar por terminados los contratos cuando concurran razones de interés general.
+Asimismo, las dependencias, órganos desconcentrados, delegaciones y entidades podrán anticipadamente dar por terminados los contratos cuando concurran razones de interés general.
 
-Las dependencias, entidades u órganos desconcentrados podrán por causa justificada suspender temporalmente, en todo o en parte, la obra contratada.
+Las dependencias, órganos desconcentrados, delegaciones y entidades podrán por causa justificada suspender temporalmente, en todo o en parte, la obra contratada.
 
-En los casos de suspensión, rescisión y terminación anticipada por causas imputables a la dependencia, entidad u órgano desconcentrado, ésta pagará los gastos no recuperables del contratista; si son imputables a éste, el contratista pagará a la dependencia, entidad u órgano desconcentrado los sobrecostos correspondientes a la obra faltante de ejecutar.
+En los casos de suspensión, rescisión y terminación anticipada por causas imputables a la dependencia, órgano desconcentrado, delegación y entidad, ésta pagará los gastos no recuperables del contratista; si son imputables a éste, el contratista pagará a la dependencia, órgano desconcentrado, delegación y entidad los sobrecostos correspondientes a la obra faltante de ejecutar.
 
 ### Capítulo II. De las Convocatorias y las Bases para Licitación de Obras Públicas
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 28.
 
-Las convocatorias que podrán referirse a una o más obras públicas, se publicarán en la Gaceta Oficial del Distrito Federal y en la sección especializada del Diario Oficial de la Federación; deberán contener:
+Las convocatorias que podrán referirse a una o más obras públicas, se publicarán en la Gaceta Oficial del Distrito Federal deberán contener:
 
-I. Como título, Gobierno del Distrito Federal y el nombre de la dependencia, entidad u órgano desconcentrado convocante;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+I. Como título, Administración Pública del Distrito Federal y el nombre de la dependencia, órgano desconcentrado, delegación o entidad convocante;
 
 II. La indicación de los lugares, fechas y horarios, además de la forma en que los interesados podrán obtener las bases, estableciendo que debe ser en forma directa o a través de medios electrónicos o sistemas informáticos y, en su caso, el costo y forma de pago de las mismas. Cuando el documento que contenga las bases implique un costo, éste será fijado sólo en razón de la recuperación de erogaciones por publicación de la convocatoria y de los documentos que se entreguen; los interesados podrán revisar tales documentos previamente al pago de dicho costo, el cual será requisito para adquirir las bases y participar en el concurso;
 
@@ -364,15 +468,21 @@ VIII. La información sobre los porcentajes a otorgar por concepto de anticipos,
 
 IX. Los criterios generales conforme los cuales se adjudicará el contrato.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 29.
 
-En las bases que emitan las dependencias, entidades y órganos desconcentrados para las licitaciones públicas se establecerá que las propuestas, invariablemente se presenten en unidades de moneda nacional y que contengan como mínimo, lo siguiente:
+En las bases que emitan las dependencias, órganos desconcentrados, delegaciones y entidades, para las licitaciones públicas se establecerá que las propuestas, invariablemente se presenten en unidades de moneda nacional y que contengan como mínimo lo siguiente:
 
-I. Como título, Gobierno del Distrito Federal y el nombre de la dependencia, entidad u órgano desconcentrado convocante;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+I. Como título, Administración Pública del Distrito Federal y el nombre de la dependencia, órgano desconcentrado, delegación o entidad convocante;
 
 II. Garantías por constituir, fecha, hora y lugar de la junta de aclaraciones acerca de las bases del concurso, indicando que si en el proceso se necesitaran más de una, éstas se definirán conforme se requieran, siendo obligatoria la asistencia de personal calificado a las juntas de aclaraciones que, en su caso, se realicen;
 
-III. Señalamiento de que el incumplimiento de alguno de los requisitos establecidos en las bases será causa de descalificación;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+III. Señalamiento de que, el incumplimiento de alguno de los requisitos solicitados en las bases que afecte las condiciones legales, técnicas, económicas, financieras o administrativas de la propuesta, será causa de descalificación y que el incumplimiento de requisitos que no afecten dichas condiciones, se deberá sujetar a lo que señalan las disposiciones jurídicas aplicables;
 
 IV. El idioma o idiomas, además del español en que podrán presentarse las propuestas;
 
@@ -386,7 +496,9 @@ b) En el caso de servicios relacionados con la obra pública, las leyes, normas,
 
 c) En el caso del proyecto integral, el programa de necesidades, las referencias por lo que hace a la legislación general que se debe cumplir en la realización del proyecto ejecutivo de la obra y la obra misma, normas de construcción y especificaciones, reglamento de construcciones y normas técnicas complementarias, con el señalamiento de los procedimientos constructivos, las especificaciones particulares del proyecto ejecutivo de la obra, y todo lo necesario según el proyecto integral de que se trate, será responsabilidad del proponente realizarlo.
 
-La relación de documentos antecedentes que proporcionará la dependencia, entidad u órgano desconcentrado como apoyo a los estudios que deba realizar el concursante en el proyecto integral, aclarando que lo no proporcionado en las bases, y que sea necesario, será responsabilidad del concursante obtenerla, con la acreditación y el apoyo oficial que proceda para fines de trámites.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La relación de documentos antecedentes que proporcionará la dependencia, órgano desconcentrado, delegación o entidad como apoyo a los estudios que deba realizar el concursante en el proyecto integral, aclarando que lo no proporcionado en las bases, y que sea necesario, será responsabilidad del concursante obtenerla, con la acreditación y el apoyo oficial que proceda para fines de trámites.
 
 VII. El origen de los fondos para realizar la obra pública y el importe autorizado para el primer ejercicio del contrato, en el caso de que rebase un ejercicio presupuestal;
 
@@ -418,7 +530,9 @@ XV. Las condiciones de precio y, tratándose de contratos celebrados a precio al
 
 XVI. Otros requisitos:
 
-a) En el caso de obra, la relación de materiales y equipo de instalación permanente, que en su caso proporcione la dependencia, entidad u órgano desconcentrado convocante, y personal necesario para realizar el trabajo, y
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+a). En el caso de obra, la relación de materiales y equipo de instalación permanente, que en su caso proporcione la dependencia, órgano desconcentrado, delegación o entidad convocante, y personal necesario para realizar el trabajo, y
 
 b) En el caso de servicios relacionados con la obra pública, relación de salarios profesionales, técnicos y administrativos con la aclaración de que estos deben corresponder al nivel profesional de técnica y experiencia que se requiera en la ejecución del servicio solicitado, además de la curricula de las personas que participan en la organización del concursante y que van a realizar el servicio, así como el curriculum del concursante mismo;
 
@@ -434,23 +548,33 @@ XVIII. Cualquier otra indicación que se considere conveniente.
 
 Tanto en las licitaciones nacionales como internacionales, los requisitos y condiciones que contengan las bases del concurso deberán ser los mismos para todos los participantes, en especial en lo que se refiere a plazos para la ejecución de los trabajos, la normalización, forma y plazo de pago, penas convencionales, anticipos y garantías.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 30.
 
-Todo interesado que satisfaga los requisitos de la convocatoria y las bases del concurso, tendrá derecho a presentar su propuesta. Para tal efecto, las dependencias, entidades y órganos desconcentrados no podrán exigir requisitos adicionales a los previstas por esta Ley. Asimismo, proporcionarán a todos los interesados, igual acceso a la información relacionada con el concurso, a fin de evitar favorecer a algún participante.
+Todo interesado que satisfaga los requisitos de la convocatoria y las bases del concurso, tendrá derecho a presentar su propuesta. Para tal efecto, las dependencias, órganos desconcentrados, delegaciones y entidades no podrán exigir requisitos adicionales a los previstos por esta Ley. Asimismo, proporcionarán a todos los interesados, igual acceso a la información relacionada con el concurso, a fin de evitar favorecer a algún participante.
+
+Las dependencias, órganos desconcentrados, delegaciones y entidades, debidamente fundando y motivando, previa notificación al Comité de Obras correspondiente, podrán llevar a cabo el proceso de licitación, aún cuando se haya registrado la participación de un sólo concursante que satisfaga los requisitos de la convocatoria y las bases del concurso, previo pago de las mismas, y siempre que el interesado no se encuentre en los supuestos que establece el artículo 37 de esta ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 31.
 
-Las dependencias, entidades y órganos desconcentrados, siempre que ello no tenga por objeto limitar el número de participantes, podrán modificar, por una sola vez, los plazos u otros aspectos establecidos en la convocatoria o en las bases del concurso, notificándolo, cuando menos con cinco días hábiles de anticipación a la fecha señalada para la presentación y apertura de propuestas técnicas, siempre que:
+Las dependencias, órganos desconcentrados, delegaciones y entidades, siempre que ello no tenga por objeto limitar el número de participantes, podrán modificar, por una sola vez, los plazos u otros aspectos establecidos en la convocatoria o en las bases del concurso, notificándolo, cuando menos con cinco días hábiles de anticipación a la fecha señalada para la presentación y apertura de propuestas técnicas, siempre que:
 
 I. Tratándose de la convocatoria, las modificaciones se hagan del conocimiento de los interesados a través de los mismos medios utilizados para su publicación, y
 
-II. En el caso de las bases del concurso, se publique un aviso en la Gaceta Oficial del Distrito Federal y en la sección especializada del Diario Oficial de la Federación, a fin de que los interesados concurran, en su caso, ante la propia dependencia, entidad u órgano desconcentrado para conocer, de manera específica, la o las modificaciones respectivas. Cuando las modificaciones se deriven de las juntas de aclaraciones, no será necesario hacer la publicación del aviso a que se refiere esta Fracción, siempre que con la anticipación señalada en este Artículo se notifique mediante circular o copia del acta respectiva a cada uno de los interesados que hayan adquirido las bases, obteniendo constancia de recepción por parte de los mismos.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+II. En el caso de las bases del concurso, se publique un aviso en la Gaceta Oficial del Distrito Federal, a fin de que los interesados concurran, en su caso, ante la propia dependencia, órgano desconcentrado, delegación o entidad para conocer, de manera específica, la o las modificaciones respectivas. Cuando las modificaciones se deriven de las juntas de aclaraciones, no será necesario hacer la publicación del aviso a que se refiere esta Fracción, siempre que con la anticipación señalada en este Artículo se notifique mediante circular o copia del acta respectiva a cada uno de los interesados que hayan adquirido las bases, obteniendo constancia de recepción por parte de los mismos.
 
 Las modificaciones a que se refiere este Artículo no podrán consistir en la sustitución o variación sustancial de las obras públicas objeto de la convocatoria original.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 32.
 
-La Contraloría deberá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta Ley. Si la Contraloría declara la nulidad del procedimiento de adjudicación sin la reposición del mismo, o declara su repetición, la dependencia, entidad u órgano desconcentrado convocante reembolsará a los concursantes los gastos en que hayan incurrido, siempre que sean comprobados, debidamente justificados, y se relacionen directamente con el proceso suspendido.
+La Contraloría deberá intervenir en cualquier acto que contravenga las disposiciones que rigen las materias objeto de esta ley. Si la Contraloría declara la nulidad del procedimiento de adjudicación sin la reposición del mismo, o declara su repetición, la dependencia, órgano desconcentrado, delegación o entidad convocante reembolsará a los concursantes los gastos en que hayan incurrido, siempre que sean comprobados, debidamente justificados, y se relacionen directamente con el proceso suspendido.
 
 ### Capítulo III. De la Presentación, Apertura y Evaluación de Propuestas de Obras Públicas
 
@@ -486,7 +610,7 @@ b) En el caso de servicios relacionados con la obra pública, la participación 
 
 c) En el caso de proyecto integral, la ejecución de los trabajos, la secuencia en los estudios, el proyecto, la construcción de la obra, así como de la utilización de la maquinaria y equipo de construcción, adquisición de materiales y equipo de instalación permanente, además el de la participación del personal profesional, administrativo, técnico y del servicio responsable de la dirección, supervisión, administración y de mano de obra de los trabajos en las etapas mencionadas;
 
-V. En su caso, manifestación escrita de las partes de la obra pública que subcontratará, o en las que se asociará y de los materiales y equipo que pretenda adquirir y que incluyan su instalación, así como las partes de la obra que cada persona física o moral subcontratada ejecutará y la manera en que cumplirá sus obligaciones, así como la participación financiera y la responsabilidad solidaria;
+V. En su caso, manifestación escrita de las partes de la obra pública que subcontratará, o en las que se asociaciará y de los materiales y equipo que pretenda adquirir y que incluyan su instalación, así como las partes de la obra que cada persona física o moral subcontratada ejecutará y la manera en que cumplirá sus obligaciones, así como la participación financiera y la responsabilidad solidaria;
 
 VI. Curriculum vitae de los trabajos realizados por la organización del concursante, destacando aquellos similares a los del objeto de la licitación.
 
@@ -504,13 +628,17 @@ b) En el caso de servicios relacionados con la obra pública, un informe de acue
 
 c) En el caso de proyecto integral, un informe de acuerdo con lo señalado en el Artículo 29, Fracción VIII, Inciso c.
 
-La admisión de la propuesta técnica por haber cumplido con los requisitos de la convocatoria, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, entidad u órgano desconcentrado lleve a cabo la revisión detallada de las propuestas admitidas.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La admisión de la propuesta técnica por haber cumplido con los requisitos de la convocatoria, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, delegación o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
 
 B. El sobre relativo a la propuesta económica, con todos los documentos que la integran firmados por representante legal y foliados, contendrá:
 
 I. Garantía de seriedad y carta compromiso de la propuesta completa;
 
-II. Catálogo de conceptos por partidas, con unidades de medición, cantidades de trabajo, precios unitarios, importes parciales y monto propuesto; el catálogo de conceptos deberá presentarse en el formato proporcionado en las bases por la dependencia, entidad u órgano desconcentrado, sin modificación alguna, con la excepción de que todas sus hojas deberán contener la razón social del concursante, firma del representante legal, y, en su caso, su logotipo. Respecto a proyectos integrales, catálogo de actividades principales separadas en los rubros de: investigaciones, estudios, proyecto, supervisión, construcción de la obra e inicio de operación, con sus importes parciales, y el monto propuesto;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+II. Catálogo de conceptos por partidas, con unidades de medición, cantidades de trabajo, precios unitarios, importes parciales y monto propuesto; el catálogo de conceptos deberá presentarse en el formato proporcionado en las bases por la dependencia, órgano desconcentrado, delegación o entidad, sin modificación alguna, con la excepción de que todas sus hojas deberán contener la razón social del concursante, firma del representante legal, y, en su caso, su logotipo. Respecto a proyectos integrales, catálogo de actividades principales separadas en los rubros de: investigaciones, estudios, proyecto, supervisión, construcción de la obra e inicio de operación, con sus importes parciales, y el monto propuesto;
 
 III. Análisis de precios:
 
@@ -536,11 +664,15 @@ c) En el caso de proyecto integral, la maquinaria y equipos relativos, serán lo
 
 VI. Carta de conocimiento de haber tomado en cuenta los requerimientos de las bases y de aceptación del modelo del contrato.
 
-La admisión de la propuesta económica por haber cumplido con los requisitos de las bases, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, entidad u órgano desconcentrado lleve a cabo la revisión detallada de las propuestas admitidas.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La admisión de la propuesta económica por haber cumplido con los requisitos de las bases, no implicará su aceptación definitiva, la cual deberá otorgarse una vez que la dependencia, órgano desconcentrado, delegación o entidad lleve a cabo la revisión detallada de las propuestas admitidas.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 34.
 
-Las dependencias, entidades y órganos desconcentrados, en la Gaceta Oficial del Distrito Federal y en la sección especializada del Diario Oficial de la Federación, harán del conocimiento general la identidad del participante ganador de cada licitación pública. Esta publicación contendrá los requisitos que determine la Contraloría, y en ella se indicará el lugar donde se pueden consultar las razones de asignación y de rechazo.
+Las dependencias, órganos desconcentrados, delegaciones y entidades en la Gaceta Oficial del Distrito Federal harán del conocimiento general la identidad del participante ganador de cada licitación pública. Esta publicación contendrá los requisitos que determine la Contraloría, y en ella se indicará el lugar donde se pueden consultar las razones de asignación y de rechazo.
 
 ###### Artículo 35.
 
@@ -548,7 +680,9 @@ Quienes participen en las licitaciones o celebren los contratos a que se refiere
 
 I. La seriedad de sus propuestas en los procedimientos de licitación;
 
-La dependencia, entidad u órgano desconcentrado convocante conservará en custodia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los concursantes, salvo la de aquél a quien se hubiese declarado ganador, la que se retendrá hasta el momento en que el contratista constituya la garantía de cumplimiento del contrato correspondiente, y haya firmado el mismo;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La dependencia, órgano desconcentrado, delegación o entidad convocante conservará en custodia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los concursantes, salvo la de aquél a quien se hubiere declarado ganador, la que se retendrá hasta el momento en que el contratista constituya la garantía de cumplimiento del contrato correspondiente, y haya firmo el mismo;
 
 II. Los anticipos, que en su caso reciban. Esta garantía deberá constituirse por el monto del anticipo, incluyendo el Impuesto al Valor Agregado, y
 
@@ -558,27 +692,39 @@ Para los efectos de las Fracciones I y III, se fijarán las bases, forma y porce
 
 Las garantías previstas en las Fracciones II y III de este Artículo, deberán presentarse dentro de los diez días hábiles siguientes a la fecha en que el concursante ganador reciba copia del fallo de adjudicación. El, o los anticipos correspondientes, se entregarán a más tardar, dentro de los diez días hábiles siguientes a la presentación de la garantía.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 36.
 
-Las garantías que deban otorgarse conforme a la presente Ley, se constituirán a favor de la Secretaría de Finanzas en el caso de las dependencias y órganos desconcentrados, y en el caso de las entidades, a favor de éstas.
+Las garantías que deban otorgarse conforme la presente Ley, se constituirán a favor de la Secretaría de Finanzas en el caso de las dependencias, órganos desconcentrados, y delegaciones, y en el caso de las entidades, a favor de éstas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 37.
 
-Las dependencias, entidades u órganos desconcentrados convocantes se abstendrán de recibir propuesta o celebrar contrato alguno en las materias a que se refiere esta Ley, con las siguientes personas físicas o morales:
+Las dependencias, órganos desconcentrados, delegaciones o entidades convocantes se abstendrán de recibir propuesta o celebrar contrato alguno en las materias a que se refiere esta Ley, con las siguientes personas físicas o morales:
 
 I. Aquéllas en que el servidor público que intervenga de cualquier forma en la adjudicación del contrato tenga interés personal, familiar o de negocios, incluyendo aquéllas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado por afinidad o civiles, o para terceros con los que tenga relaciones laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas referidas formen o hayan formado parte durante el último año;
 
-II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades lucrativas de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme la Ley Federal de Responsabilidades de los Servidores Públicos, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público.
+II. Las que desempeñen un empleo, cargo o comisión en el servicio público, o bien las sociedades lucrativas de las que dichas personas formen parte, sin la autorización previa y específica de la Contraloría conforme la Ley Federal de Responsabilidades de los Servidores Públicos, así como las inhabilitadas para desempeñar un empleo, cargo o comisión en el servicio público;
 
-III. Aquéllas que, por causas imputables a ellas mismas, se les hubiere rescindido administrativamente un contrato por una dependencia, entidad u órgano desconcentrado, y a quienes se les limitará la posibilidad de participar temporalmente como mínimo un año, considerando las causas de la rescisión respectiva; limitación que será determinada por el Comité Central de Obras del Gobierno del Distrito Federal. El impedimento prevalecerá a partir de la fecha de la rescisión.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-IV. Aquéllas que, por causas imputables a ellas mismas, se les hubieren rescindido administrativamente dos contratos por una misma dependencia, entidad u órgano desconcentrado o un contrato por dos dependencias, entidades u órganos desconcentrados, y a quienes se les limitará la posibilidad de participar temporalmente como mínimo dos años o definitivamente, considerando las causas de las rescisiones respectivas; limitación que será determinada por el Comité Central de Obras del Gobierno del Distrito Federal. El impedimento prevalecerá a partir de la fecha de la última rescisión.
+III. Aquéllas que, por causas imputables a ellas mismas, se les hubiere rescindido administrativamente un contrato por una dependencia, órgano desconcentrado, delegación o entidad, y a quienes se les limitará la posibilidad de participar temporalmente como mínimo un año, considerando las causas de la rescisión respectiva; limitación que será determinada por el Comité de Obras correspondiente de la Administración Pública del Distrito Federal. El impedimento prevalecerá a partir de la fecha de la rescisión;
 
-V. Aquéllas que, por causas imputables a ellas mismas, hayan dado motivos para convenir la terminación anticipada de la relación contractual en cualquier dependencia, entidad u órgano desconcentrado. Dicho impedimento prevalecerá durante un año calendario contado a partir de la fecha en que se dé la terminación anticipada.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-VI. Las que, por causas imputables a ellas mismas, en la ejecución de las obras públicas que estén realizando en el momento en que las dependencias, entidades u órganos desconcentrados estén celebrando el concurso respectivo, presenten temporalmente problemas de atrasos en programa, de deficiencias en calidad de obra pública, de tipo administrativo referente al contrato, o en escasez de recursos necesarios en general. El impedimento prevalecerá durante el lapso en el que permanezcan realizando la obra pública y que presente las condiciones que se establecen en esta Fracción.
+IV. Aquéllas que, por causas imputables a ellas mismas, se les hubieren rescindido administrativamente dos contratos por una misma dependencia, órgano desconcentrado, delegación o entidad o un contrato por dos dependencias, órganos desconcentrados, delegaciones o entidades, y a quienes se les limitará la posibilidad de participar temporalmente como mínimo dos años o definitivamente, considerando las causas de las rescisiones respectivas; limitación que será determinada por el Comité de Obras correspondiente de la Administración Pública del Distrito Federal. El impedimento prevalecerá a partir de la fecha de la última rescisión;
 
-VII. Aquéllas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad, siempre y cuando la Contraloría haya notificado tal situación.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+V. Aquéllas que, por causas imputables a ellas mismas, hayan dado motivos para convenir la terminación anticipada de la relación contractual en cualquier dependencia, órgano desconcentrado, delegación o entidad. Dicho impedimento prevalecerá durante un año calendario contado a partir de la fecha en que se dé la terminación anticipada;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+VI. Las que, por causas imputables a ellas mismas, en la ejecución de las obras públicas que estén realizando en el momento en que las dependencias, órganos desconcentrados, delegaciones o entidades estén celebrando el concurso respectivo, presenten temporalmente problemas de atrasos en programa, de deficiencias en calidad de obra pública, de tipo administrativo referente al contrato, o en escasez de recursos necesarios en general. El impedimento prevalecerá durante el lapso en el que permanezcan realizando la obra pública y que presente las condiciones que se establecen en esta Fracción;
+
+VII. Aquéllas que hubieren proporcionado información que resulte falsa, o que hayan actuado con dolo o mala fe en algún proceso para la adjudicación de un contrato en su celebración, durante su vigencia o bien en la presentación o desahogo de una inconformidad, siempre y cuando la Contraloría haya notificado tal situación;
 
 VIII. Las que, en virtud de la información con que cuenta la Contraloría, hayan celebrado contratos en contravención a lo dispuesto por esta Ley;
 
@@ -586,69 +732,103 @@ IX. Aquéllas a las que se les declare en estado de quiebra o, en su caso, sujet
 
 X. Aquéllas que estén realizando o vayan a realizar en relación con la obra correspondiente, por sí o a través de empresas que formen parte del mismo grupo empresarial, trabajos de coordinación, dirección, supervisión, control administrativo, control de obra, gerencia de obra, análisis en laboratorios de resistencia de materiales o radiografías industriales para efectos de control de calidad;
 
-XI. Las que por sí, o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes o avalúos, cuando se requieran dirimir controversias entre tales personas y la dependencia, entidad u órgano desconcentrado;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+XI. Las que por sí, o a través de empresas que formen parte del mismo grupo empresarial, elaboren dictámenes, peritajes y avalúos, cuando se requieran dirimir controversias entre tales personas y la dependencia, órgano desconcentrado, delegación o entidad;
 
 XII. Las personas morales constituidas por socios de empresas que incurran en los ilícitos de cualquiera de las Fracciones mencionadas en este Artículo, y
 
-XIII. Las demás que por cualquier causa se encuentren impedidas para ello, por disposición de la Ley.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-En los supuestos mencionados en las Fracciones de la III a la VI, la dependencia, entidad u órgano desconcentrado deberá dar aviso a la Contraloría para que lo haga del conocimiento del Sector Obras del Distrito Federal. Cuando la dependencia, entidad u órgano desconcentrado tenga conocimiento de aquellas personas físicas o morales que hayan incurrido en las Fracciones I, II y de la IX a la XIII, deberán comunicarlo a la Contraloría.
+XIII. Las demás que por cualquier causa se encuentren impedidas para ello, por disposición de Ley.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+En los supuestos mencionados en las Fracciones de la III a la VI, la dependencia, órgano desconcentrado, delegación o entidad deberá dar aviso a la Contraloría para que lo haga del conocimiento del Sector Obras del Distrito Federal. Cuando la dependencia, órgano desconcentrado, delegación o entidad tenga conocimiento de aquellas personas físicas o morales que hayan incurrido en las fracciones I, II y de la IX a la XIII, deberán comunicarlo a la Contraloría.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 38.
 
-En los procedimientos para la contratación de obras públicas, las dependencias, entidades y órganos desconcentrados optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país, y por la utilización de los materiales y equipos de procedencia nacional, siempre y cuando cumplan con las especificaciones del proyecto.
+En los procedimientos para la contratación de obras públicas, las dependencias, órganos desconcentrados, delegaciones y entidades optarán, en igualdad de condiciones, por el empleo de los recursos humanos del país, y por la utilización de los materiales y equipos de procedencia nacional, siempre y cuando cumplan con las especificaciones del proyecto.
 
 ###### Artículo 39.
 
 La presentación y apertura de propuestas en las que podrán participar los interesados que hayan pagado el costo de las bases del concurso, se llevará acabo en tres actos, de acuerdo con lo siguiente:
 
-I. En el primero, cada concursante entregará su propuesta en dos sobres cerrados de manera que demuestren que no han sido violados, y se procederá a la apertura de las propuestas técnicas exclusivamente, rechazando de inmediato las que hubieren omitido algún documento o requisito exigido en las bases; propuestas técnicas que serán devueltas por la dependencia, entidad u órgano desconcentrado, quince días después del fallo;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-II. Los concursantes y los servidores públicos presentes, rubricarán todas las propuestas técnicas presentadas, así como los correspondientes sobres cerrados que contengan las propuestas económicas de aquellos concursantes, cuyas propuestas técnicas no hubieran sido rechazadas, las que quedarán en custodia de la dependencia, entidad u órgano desconcentrado. En este primer acto, se levantará el acta correspondiente, en la que se harán constar las propuestas técnicas recibidas, y las que se hubieran desechado, incluyendo causas que lo motivaron, así como la fecha de la apertura de las propuestas económicas; esta acta será firmada por los participantes, a quienes se les entregará copia de la misma;
+I. En el primero, cada concursante entregará su propuesta en dos sobres cerrados de manera que demuestren que no han sido violados, y se procederá a la apertura de las propuestas técnicas exclusivamente, rechazando de inmediato las que hubieren omitido algún documento o requisito exigido en las bases; propuestas técnicas que serán devueltas por la dependencia, órgano desconcentrado, delegación o entidad, quince días después del fallo;
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+II. El servidor público responsable de la licitación o su suplente, designado por la convocante, rubricará todas las propuestas técnicas presentadas; además cada propuesta técnica será rubricada por un concursante distinto del que la presentó. Los documentos de las propuestas técnicas que se rubricarán, serán los señalados en el artículo 33 A, fracciones III, lV, V y IX de esta Ley. Los signantes mencionados además rubricarán los correspondientes sobres cerrados que contengan las propuestas económicas de aquellos concursantes cuyas propuestas técnicas no hubieran sido rechazadas, las que quedarán en custodia de la dependencia, órgano desconcentrado, delegación o entidad. En este primer acto, se levantará el acta correspondiente, en la que se harán constar las propuestas técnicas recibidas y las que se hubieran desechado, incluyendo causas que lo motivaron, así como la fecha de la apertura de las propuestas económicas; esta acta será firmada por los participantes, a quienes se les entregará copia de la misma.
 
 En el lapso entre los dos primeros actos, la dependencia, entidad u órgano desconcentrado realizará el análisis detallado de las propuestas técnicas recibidas en principio, para determinar las que son aceptables, y emitirá el dictamen técnico correspondiente.
 
-III. En el segundo acto, se darán a conocer los concursantes cuyas propuestas técnicas no resultaron aceptables en el proceso de análisis y se hará del conocimiento de los concursantes rechazados el resultado del dictamen técnico. Posteriormente se procederá a la apertura de las propuestas económicas correspondientes a las propuestas técnicas finalmente aceptadas, y se dará lectura en voz alta del importe total de las que cubran los requisitos exigidos, desechando aquéllas que no cumplieron. Los participantes rubricarán el catálogo de conceptos o actividades en que se consignen los precios, importes parciales y total de las propuestas.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+III. En el segundo acto, se darán a conocer los concursantes cuyas propuestas técnicas no resultaron aceptables en el proceso de análisis y se hará del conocimiento de los concursantes rechazados el resultado del dictamen técnico. Posteriormente se procederá a la apertura de las propuestas económicas correspondientes a las propuestas técnicas finalmente aceptadas, y se dará lectura en voz alta del importe total de las que cubran los requisitos exigidos, desechando aquéllas que no cumplieron. El servidor público responsable de la licitación, o su suplente, designados por la convocante y un concursante distinto del que presentó la propuesta rubricarán el catálogo de conceptos o actividades en que se consignen los precios, importes parciales y total de las propuestas.
 
 Se levantará acta, haciendo constar las propuestas técnicas aceptadas y propuestas económicas recibidas, sus importes totales, las que fueron rechazadas y las causas que lo motivaron, así como la fecha del fallo; el acta será firmada por los participantes, a quienes se les entregará copia de la misma;
 
-IV. Antes del fallo, deberán evaluarse las propuestas económicas recibidas, las que se sujetarán a revisión y evaluación, para decidir de entre éstas las que reúnan las condiciones legales, técnicas, económicas, financieras y administrativas fijadas por la dependencia, entidad u órgano desconcentrado convocante, que garanticen el cumplimiento de las obligaciones del contratista, y de entre las mismas elegir la ganadora, y
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+IV. Antes del fallo, deberán evaluarse las propuestas económicas recibidas, las que se sujetarán a revisión y evaluación, para decidir de entre éstas las que reúnan las condiciones legales, técnicas, económicas, financieras y administrativas fijadas por la dependencia. órgano desconcentrado, delegación o entidad convocante, que garanticen el cumplimiento de las obligaciones del contratista, y de entre las mismas elegir la ganadora, y
 
 V. En junta pública se dará a conocer el fallo del concurso, acto al que podrán asistir los concursantes de los dos actos previos, así como representantes de las Cámaras y Colegios correspondientes.
 
-En el acto de fallo, las dependencias, entidades u órganos desconcentrados darán a conocer por escrito a los concursantes no triunfadores, la información acerca de las razones por las cuales no fueron seleccionadas sus propuestas, basadas en el dictamen elaborado como resultado del análisis de las mismas.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+En el acto de fallo, las dependencias, órganos desconcentrados, delegaciones o entidades darán a conocer por escrito a los concursantes no triunfadores, la información acerca de las razones por las cuales no fueron seleccionadas sus propuestas, basadas en el dictamen elaborado como resultado del análisis de las mismas.
 
 Se levantará acta del fallo, misma que firmarán los participantes asistentes a quienes se les entregarán copias de la misma. No invalidará el acto el hecho de que algún participante se niegue a firmar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 40.
 
-Las dependencias, entidades u órganos desconcentrados para hacer la evaluación de las propuestas deberán tomar en consideración los informes presentados por los concursantes de acuerdo con lo señalado en el Artículo 29, Fracción VIII, Incisos a, b y c; las aportaciones en trabajos anteriores y la estrategia propuesta para cumplir el compromiso de trabajo solicitado, además tanto en la parte técnica como en la económica, deberán verificar:
+Las dependencias, órganos desconcentrados, delegaciones o entidades para hacer la evaluación de las propuestas deberán tomar en consideración los informes presentados por los concursantes de acuerdo con lo señalado en el Artículo 29, Fracción VIII, Incisos a, b y c, las aportaciones en trabajos anteriores y la estrategia propuesta para cumplir el compromiso del trabajo solicitado, además tanto en la parte técnica como en la económica, deberán verificar:
 
 I. En el caso de obra, que la misma incluya la información, documentos y requisitos solicitados en las bases del concurso; que los precios de los insumos sean acordes con el mercado, que las características, especificaciones y calidad de materiales cumplan con lo solicitado; que el programa de ejecución sea factible de realizar dentro del plazo solicitado, según los recursos considerados por el concursante; que exista congruencia entre el programa, los rendimientos considerados, los procedimientos constructivos, equipos y fuerza de trabajo, y los volúmenes a ejecutar.
 
 En este caso, no será factible introducir precalificación alguna ni cambio del procedimiento señalado en los Artículos 33 y 39 de la presente Ley;
 
-II. En el caso de servicios relacionados con la obra pública, se incluya la información, documentos y demás requisitos solicitados en las bases del concurso, en la que se tomarán fundamentalmente en cuenta la presentación técnica de su propuesta y su experiencia. Verificarán que el programa de realización del servicio sea factible de realizar con los recursos considerados por el concursante, que la propuesta del servicio garantice el cumplimiento de los términos de referencia, normas para la realización de estudios o proyectos, Leyes, Normas y Reglamentos aplicables, programas delegacionales, limitantes establecidas y de desarrollo del trabajo, usos del suelo, y demás referencias establecidas por la dependencia, entidad u órgano desconcentrado.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO 2003)</small>
+
+II. En el caso de servicios relacionados con la obra pública, se incluya la información, documentos y demás requisitos solicitados en las bases del concurso, en la que se tomarán fundamentalmente en cuenta la presentación técnica de su propuesta y su experiencia. Verificarán que el programa de realización del servicio sea factible de realizar con los recursos considerados por el concursante, que la propuesta del servicio garantice el cumplimiento de los términos de referencia, normas para la realización de estudios o proyectos, Leyes, Normas y Reglamentos aplicables, programas delegacionales, limitantes establecidas y de desarrollo del trabajo, usos del suelo, y demás referencias establecidas por la dependencia, órgano desconcentrado, delegación o entidad.
 
 En el caso de proyectos, se verificará que los estudios, las memorias descriptivas y de cálculo y el anteproyecto estén debidamente desarrollados, así como que la relación de la inversión estimada para la construcción del proyecto, su costo de mantenimiento, conservación y operación entre el costo de la propuesta sea la más rentable.
 
 También verificarán que la integración, análisis y cálculo de los precios unitarios de los conceptos del servicio, o de las actividades principales de su propuesta, se encuentren conforme las disposiciones que expida la Secretaría. Se analizará especialmente el costo del servicio con los salarios del personal propuesto, y se revisará que esté acorde con el servicio que se vaya a prestar.
 
-Para estos casos será factible, si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, entidad u órgano desconcentrado, y lo establecerá desde las bases, y
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-III. En el caso de proyecto integral, que las proposiciones incluyan la información, documentos y demás requisitos solicitados en las bases del concurso; que el anteproyecto cumpla con las especificaciones, legislación existente, restricciones establecidas, programa de necesidades planteado por la dependencia, entidad u órgano desconcentrado convocante y demás condiciones aplicables, que los precios considerados para los insumos, tanto para la ejecución de la obra correspondiente al anteproyecto, como de aquéllos empleados para la realización de los estudios e investigaciones sean de acuerdo con el mercado, que el programa de ejecución sea factible de realizar dentro del plazo solicitado según los recursos considerados por el concursante; que exista congruencia entre el programa y los rendimientos considerados, los recursos técnicos, conocimientos científicos, procedimientos constructivos, equipos, fuerza de trabajo y actividades a desarrollar.
+Para estos casos será factible si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, órgano desconcentrado, delegación o entidad, y lo establecerá desde las bases, y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+III. En el caso de proyecto integral, que las proposiciones incluyan la información, documentos y demás requisitos solicitados en las bases del concurso; que el anteproyecto cumpla con las especificaciones, legislación existente, restricciones establecidas, programa de necesidades planteado por la dependencia, órgano desconcentrado, delegación o entidad convocante y demás condiciones aplicables, que los precios considerados para los insumos, tanto para la ejecución de la obra correspondiente al anteproyecto, como de aquéllos empleados para la realización de los estudios e investigaciones sean de acuerdo con el mercado, que el programa de ejecución sea factible de realizar dentro del plazo solicitado según los recursos considerados por el concursante; que exista congruencia entre el programa y los rendimientos considerados, los recursos técnicos, conocimientos científicos, procedimientos constructivos, equipos, fuerza de trabajo y actividades a desarrollar.
 
 Asimismo, se verificará que los estudios, las memorias de cálculo, el anteproyecto, los análisis que sirvieron de antecedente para determinar el flujo de efectivo y la rentabilidad del mismo, estén debidamente soportados y que la razón beneficio/costo sea rentable y esté optimizada.
 
-Para estos casos será factible, si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, entidad u órgano desconcentrado, y lo establecerá desde las bases.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Para estos casos será factible, si se considera necesario, la introducción de un mecanismo de precalificación, así como el cambio de procedimiento señalado en los Artículos 33 y 39, lo cual se llevará a cabo de acuerdo con lo que específicamente sea requerido por la dependencia, órgano desconcentrado, delegación o entidad, y lo establecerá desde las bases.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 41.
 
-Las dependencias, entidades u órganos desconcentrados también verificarán los análisis, cálculos e integración de los precios unitarios, conforme las disposiciones que señale la normatividad del Gobierno del Distrito Federal.
+Las dependencias, órganos desconcentrados, delegaciones o entidades también verificarán los análisis, cálculos e integración de los precios unitarios, conforme las disposiciones que señale la normatividad de la Administración Pública del Distrito Federal.
 
-Hecha la evaluación de las propuestas, se elegirá como ganadora aquélla que reúna las condiciones legales, técnicas, económicas, financieras y administrativas requeridas por la dependencia, entidad u órgano desconcentrado convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Si resultare que dos o más propuestas reúnen las condiciones legales, técnicas, económicas, financieras y administrativas y, por tanto, satisfacen la totalidad de los requerimientos de la dependencia, entidad u órgano desconcentrado convocante, se elegirá como ganadora aquella que:
+Hecha la evaluación de las propuestas, se elegirá como ganadora aquélla que reúna las condiciones legales, técnicas, económicas, financieras y administrativas requeridas por la dependencia, órgano desconcentrado, delegación o entidad convocante, y garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+Si resultare que dos o más propuestas reúnen las condiciones legales, técnicas, económicas, financieras y administrativas y, por tanto, satisfacen la totalidad de los requerimientos de la dependencia, órgano desconcentrado, delegación o entidad convocante, se elegirá como ganadora aquella que:
 
 I. En el caso de la obra, presente el precio más bajo;
 
@@ -656,23 +836,29 @@ II. En el caso de servicios relacionados con la obra pública, presente el indic
 
 III. En el caso de proyecto integral, presente el índice más conveniente producto del análisis económico correspondiente para cada uno de los proyectos, o en su caso el resultado más favorable entre las propuestas. En las bases se especificará, en el caso de los proyectos integrales de obra, que deben incluirse los costos de inversión así como los de operación y mantenimiento.
 
-La dependencia, entidad u órgano desconcentrado emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de las desechadas.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Contra la resolución que contenga el fallo no procederá recurso alguno, pero los concursantes podrán inconformarse en los términos del Artículo 72.
+La dependencia, órgano desconcentrado, delegación o entidad emitirá un dictamen que servirá como fundamento para el fallo, en el que se hará constar el análisis de las propuestas admitidas y se hará mención de las desechadas.
+
+> <small>(DEROGADO ULTIMO PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 42.
 
-Para adjudicar la propuesta ganadora en el caso de proyecto integral, el Comité Central de Obras del Distrito Federal realizará la evaluación y determinará la selección; para el efecto, se formará un subcomité técnico que se encargará de la verificación y análisis de las propuestas, presentando documentación y elementos de toma de decisión al Comité Central de Obras del Distrito Federal. Una vez definido el ganador, éste procederá a realizar el proyecto ejecutivo y no deberá modificar el monto propuesto de su proyecto.
+Para adjudicar la propuesta ganadora en el caso de proyecto integral, el Comité de Obras realizará la evaluación y determinará la selección; para el efecto, se formará un subcomité técnico que se encargará de la verificación y análisis de las propuestas, presentando documentación y elementos de toma de decisión al Comité de Obras correspondiente. Una vez definido el ganador, éste procederá a realizar el proyecto ejecutivo y no deberá modificar el monto propuesto de su proyecto.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 43.
 
-Las dependencias, entidades u órganos desconcentrados no adjudicarán el contrato cuando las posturas presentadas no reúnan los requisitos de las bases del concurso, o:
+Las dependencias, órganos desconcentrados, delegaciones o entidades no adjudicarán el contrato cuando las posturas presentadas no reúnan los requisitos de las bases del concurso, o:
 
 I. En el caso de obra, que los precios de los conceptos más importantes no correspondan a los del mercado;
 
 II. En el caso de servicios relacionados con la obra pública, que aunque exista congruencia entre la propuesta técnica y la propuesta económica, el servicio que se ofrece no es la solución al servicio relacionado con la obra pública solicitado, o no exista congruencia entre los recursos ofrecidos en la propuesta técnica y los costos o precios previstos en la propuesta económica, y
 
-III. En el caso de proyecto integral, que aunque exista congruencia entre la propuesta técnica y la propuesta económica, el proyecto integral que se ofrece no es la solución al proyecto integral solicitado, o que la propuesta no resulta rentable en términos financieros, o resulte perjuiciosa.
+III. En el caso de proyecto integral, que aunque exista congruencia entre la propuesta técnica y la propuesta económica, el proyecto integral que se ofrece no es la solución al proyecto integral solicitado, o que la propuesta no resulta rentable en términos financieros, o resulte perjuiciosa (sic).
 
 En todos estos casos, se declarará desierto el concurso y, en su caso, se expedirá en los días inmediatos siguientes una nueva convocatoria.
 
@@ -696,9 +882,13 @@ Los proyectos integrales, siempre deberán contratarse a base de precio alzado, 
 
 III. Por administración, en cuyo caso el importe de la remuneración que deba cubrirse al contratista se hará vía comprobantes, facturas, nómina pagada y un porcentaje de indirectos sobre lo anterior.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 45.
 
-En el caso de trabajos que abarquen más de un ejercicio, se formulará un contrato por toda la obra pública licitada, comprometiendo en él exclusivamente el importe del primer ejercicio. Para los siguientes ejercicios, se comprometerán los importes respectivos mediante revalidación de tipo presupuestal, de acuerdo con la suficiencia de la partida correspondiente.
+En el caso de trabajos que abarquen más de un ejercicio, se formulará un contrato por toda la obra pública licitada, comprometiéndose en él exclusivamente el importe del primer ejercicio fiscal. Para el o los siguientes ejercicios fiscales se comprometerán únicamente los importes respectivos mediante revalidación de tipo presupuestal, de acuerdo con la suficiencia de la partida correspondiente en cada nuevo ejercicio fiscal hasta la eventual terminación de la obra.
+
+Para cada nuevo ejercicio fiscal, las dependencias, órganos desconcentrados, delegaciones o entidades, a través del Gobierno del Distrito Federal en el proyecto de Presupuesto de Egresos, deberán especificarse los montos de los requerimientos financieros que se destinarán al programa de obras correspondiente para cada ejercicio fiscal hasta su eventual terminación. Además, en la ejecución de las obras se otorgará prioridad a aquellos proyectos y obras que presenten mayores avances físicos.
 
 ###### Artículo 46.
 
@@ -720,7 +910,9 @@ VII. El establecimiento de penas convencionales;
 
 VIII. La forma en que el contratista, en su caso, reintegrará las cantidades que de cualquier manera hubiera recibido en exceso;
 
-IX. Las condiciones y el procedimiento de ajuste de costos, los que deberán ser determinados desde las bases del concurso por la dependencia, entidad u órgano desconcentrado, los cuales regirán durante la vigencia del contrato, excepto si se trata de precio alzado;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+IX. Las condiciones y el procedimiento de ajuste de costos, los que deberán ser determinados desde las bases del concurso por la dependencia, órgano desconcentrado, delegación o entidad, los cuales regirán durante la vigencia del contrato, excepto si se trata de precio alzado;
 
 X. La descripción pormenorizada de los trabajos que se deban ejecutar, debiendo acompañar, como parte integrante del contrato;
 
@@ -728,7 +920,9 @@ a) En el caso de obra, los proyectos, planos, especificaciones, programas y pres
 
 b) En el caso de servicios relacionados con la obra pública, si se trata de coordinación de supervisión, gerencia de obra y supervisión de obras, los proyectos, especificaciones, programas y presupuestos de la obra a supervisar, además de los programas y presupuestos del servicio mismo; si se trata de otro tipo de servicios, las referencias respecto a normas y especificaciones para realizar los estudios o proyectos, así como las Leyes, Normas técnicas y Reglamentos aplicables, los programas de desarrollo y de uso del suelo, en su caso, y
 
-c) En el caso de proyecto integral, la descripción pormenorizada de estudios, proyectos y las principales actividades de la obra, estableciendo que son también parte del contrato los elementos de la propuesta integral del proyecto, incluida la supervisión propia del contratista en la ejecución del proyecto integral, independientemente de la que establezca la dependencia, entidad u órgano desconcentrado;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+c) En el caso de proyecto integral, la descripción pormenorizada de estudios, proyectos y las principales actividades de la obra, estableciendo que son también parte del contrato los elementos de la propuesta integral del proyecto, incluida la supervisión propia del contratista en la ejecución del proyecto integral, independientemente de la que establezca la dependencia, órgano desconcentrado, delegación o entidad;
 
 XI. El señalamiento de que el contrato, sus anexos y, en el caso de obra, la bitácora de los trabajos, son instrumentos que vinculan las partes en sus derechos y obligaciones;
 
@@ -736,29 +930,35 @@ XII. Los plazos para la verificación de terminación y recepción de la obra;
 
 XIII. Los procedimientos mediante los cuales las partes entre sí resolverán controversias futuras que pudieran versar sobre problemas específicos de carácter técnico o administrativo.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 47.
 
-La adjudicación del contrato obligará a la dependencia, entidad u órgano desconcentrado y al concursante en quien hubiera recaído dicha adjudicación, a formalizar el documento respectivo, dentro de los diez días hábiles siguientes al de la adjudicación.
+La adjudicación del contrato obligará a la dependencia, órgano desconcentrado, delegación o entidad y al concursante en quien hubiera recaído dicha adjudicación, a formalizar el documento respectivo, dentro de los diez días hábiles siguientes al de la adjudicación.
 
-Si el interesado no firmara el contrato, perderá en favor de la dependencia, entidad u órgano desconcentrado convocante la garantía que hubiera otorgado y la dependencia, entidad u órgano desconcentrado podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al concursante que haya resultado en segundo lugar, y así sucesivamente en caso de no aceptación, siempre que:
+Si el interesado no firmara el contrato, perderá en favor de la dependencia, órgano desconcentrado, delegación o entidad convocante la garantía que hubiera otorgado y la dependencia, órgano desconcentrado, delegación o entidad podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al concursante que haya resultado en segundo lugar, y así sucesivamente en caso de no aceptación, siempre que:
 
 I. En el caso de obra, la diferencia en precio respecto a la postura que hubiera resultado ganadora, no sea superior al diez por ciento;
 
 II. En el caso de servicios relacionados con obra pública, la diferencia por evaluación respecto a la postura que hubiera resultado ganadora, no sea superior a quince por ciento, según el índice utilizado, y
 
-III. En el caso de proyecto integral, se adjudicará a aquel que también cumpla las condiciones legales, técnicas, económicas, financieras y administrativas requeridas y habiéndose sometido a la consideración del Comité Central de Obras del Distrito Federal.
+III. En el caso de proyecto integral, se adjudicará a aquel que también cumpla las condiciones legales, técnicas, económicas, financieras y administrativas requeridas y habiéndose sometido a la consideración del Comité de Obras correspondiente.
 
-La dependencia, entidad u órgano desconcentrado sólo podrá dejar de firmar el contrato en el plazo señalado por causas justificadas.
+La dependencia, órgano desconcentrado, delegación o entidad sólo podrá dejar de firmar el contrato en el plazo señalado por causas justificadas
 
-El concursante, sin incurrir en responsabilidad, podrá determinar no ejecutar la obra pública si la dependencia, entidad u órgano desconcentrado no firmase en el plazo señalado por causas imputables a éstos. En este supuesto, la dependencia, entidad u órgano desconcentrado liberará la garantía otorgada para el sostenimiento de su proposición y cubrirá los gastos no recuperables en que hubiere incurrido el concursante para preparar y elaborar su propuesta, siempre que estén debidamente comprobados, se justifiquen y se relacionen directamente con el concurso de que se trate.
+El concursante, sin incurrir en responsabilidad, podrá determinar no ejecutar la obra pública si la dependencia, órgano desconcentrado, delegación o entidad no firmase en el plazo señalado por causas imputables a éstos. En este supuesto, la dependencia, órgano desconcentrado, delegación o entidad liberará la garantía otorgada para el sostenimiento de su proposición y cubrirá los gastos no recuperables en que hubiere incurrido el concursante para preparar y elaborar su propuesta, siempre que estén debidamente comprobados, se justifiquen y se relacionen directamente con el concurso de que se trate.
 
-El contratista no podrá hacer ejecutar los trabajos por otro, excepto con autorización previa de la dependencia, entidad u órgano desconcentrado de que se trate, entonces podrá hacerlo en cuanto a partes de la obra pública, o cuando adquiera materiales o equipos que incluyan su instalación para el caso de obra o de proyecto integral. Esta autorización previa nos e requerirá cuando la dependencia, entidad u órgano desconcentrado señale específicamente en las bases del concurso, las partes del trabajo que podrán ser objeto de subcontratación o asociación. En estos casos, el contratista seguirá siendo el único responsable de la ejecución de los trabajos ante la dependencia, entidad u órgano desconcentrado.
+El contratista no podrá hacer ejecutar los trabajos por otro, excepto con autorización previa de la dependencia, órgano desconcentrado, delegación o entidad de que se trate, entonces podrá hacerlo en cuanto a partes de la obra pública, o cuando adquiere materiales o equipos que incluyan su instalación para el caso de obra o de proyecto integral. Esta autorización previa no se requerirá cuando la dependencia, órgano desconcentrado, delegación o entidad señale específicamente en las bases del concurso, las partes del trabajo que podrán ser objeto de subcontratación o asociación. En estos casos, el contratista seguirá siendo el único responsable de la ejecución de los trabajos ante la dependencia, órgano desconcentrado, delegación o entidad.
 
-Los concursantes con los cuales se contrate la ejecución de la obra pública podrán presentar conjuntamente propuestas en los correspondientes concursos para fines financieros, técnicos o de cualquier otra índole, sin necesidad de constituir una nueva sociedad, siempre que para tales efectos al celebrar el contrato respectivo, se establezcan con precisión, a satisfacción de la dependencia, entidad u órgano desconcentrado, la proporción de la participación financiera y las partes de la obra pública que cada persona física o moral se obligará a realizar, así como la manera en que, en su caso, se exigirá el cumplimiento de las obligaciones. En caso de asociación, el representante contratista ante el Gobierno del Distrito Federal, será el de mayor capacidad financiera.
+Los concursantes con los cuales se contrate la ejecución de la obra pública podrán presentar conjuntamente propuestas en los correspondientes concursos para fines financieros, técnicos o de cualquier otra índole, sin necesidad de constituir una nueva sociedad, siempre que para tales efectos al celebrar el contrato respectivo, se establezcan con precisión, a satisfacción de la dependencia, órgano desconcentrado, delegación o entidad, la proporción de participación financiera y las partes de la obra pública que cada persona física o moral se obligará a realizar, así como la manera en que, en su caso, se exigirá el cumplimiento de las obligaciones. En caso de asociación, el representante contratista ante la Administración Publica del Distrito Federal, será el de mayor capacidad financiera.
+
+Los contratistas están obligados a presentar la póliza y el contrato de seguro de responsabilidad civil por daños a terceros, dentro de los cinco días hábiles siguientes a la fecha de la firma del contrato, por el monto que se establezca en las bases correspondientes.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 48.
 
-Los derechos y obligaciones que se deriven de los contratos de obra no podrán cederse en forma parcial o total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia, entidad u órgano desconcentrado de que se trate.
+Los derechos y obligaciones que se deriven de los contratos de obra no podrán cederse en forma parcial o total en favor de cualquier otra persona física o moral, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo supuesto se deberá contar con la conformidad previa de la dependencia, órgano desconcentrado, delegación o entidad de que se trate.
 
 ### Capítulo V. De la Ejecución de los Contratos de Obras Públicas
 
@@ -770,27 +970,41 @@ I. Los importes de los anticipos concedidos serán puestos a disposición del co
 
 a) En el caso de obra, en igual plazo el programa de ejecución pactado; el contratista podrá iniciarla según la fecha de inicio programada, por su voluntad y riesgo;
 
-b) En el caso de servicios relacionados con la obra pública, en igual plazo el programa de ejecución pactado; el contratista podrá iniciar los servicios en la fecha de inicio programada por su voluntad y riesgo, excepto servicios de supervisión en que se ajustará al programa de obra a supervisar y, si por este motivo incurre en gastos financieros, le serán cubiertos;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+b) En el caso de servicios relacionados con la obra pública, en igual plazo el programa de ejecución pactado; el contratista podrá iniciar los servicios en la fecha de inicio programada por su voluntad y riesgo, excepto servicios de supervisión en que se ajustará al programa de obra a supervisar y, si por este motivo incurre en gastos financieros, le serán cubiertos por la dependencia, órgano desconcentrado, delegación o entidad contratante, los cuales señalarán el procedimiento para la cobertura del pago;
 
 c) En el caso de proyecto integral, se aplicará lo señalado en el Inciso a de esta Fracción;
 
 Cuando el contratista no entregue la garantía de los anticipos dentro del plazo señalado en el Artículo 35, no procederá el diferimiento; por tanto, deberá iniciar la obra en la fecha establecida originalmente;
 
-Los concursantes deberán considerar en su propuesta, la repercusión que tienen los importes de los anticipos en el costo de financiamiento de los trabajos a favor del Gobierno del Distrito Federal;
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-II. Se otorgarán anticipos para los convenios que se celebren en términos del Artículo 56 hasta por el veinte por ciento para compra o adquisición de materiales en caso de obra o proyecto, excepto para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate. En casos especiales, y después de la justificación adecuada, este porcentaje podrá ser mayor, siempre que el Jefe de Gobierno del Distrito Federal lo autorice específicamente, y
+Los concursantes deberán considerar en su propuesta, la repercusión que tienen los importes de los anticipos en el costo de financiamiento de los trabajos a favor de la Administración Pública del Distrito Federal;
 
-III. Para la amortización de los anticipos en los casos de rescisión del contrato, el saldo por amortizar se reintegrará a la dependencia, entidad u órgano desconcentrado, en efectivo o en especie, según para lo que hayan sido asignados estos, en un plazo no mayor de veinte días hábiles contados a partir de la fecha en que le sea comunicada la rescisión al contratista.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+II. Se otorgarán anticipos para los convenios que se celebren en términos del artículo 56 hasta por el veinte por ciento para compra o adquisición de materiales en caso de obra o proyecto, excepto para los importes resultantes de los ajustes de costos del contrato o convenios que se generen durante el ejercicio presupuestal de que se trate. En casos especiales, y después de la justificación adecuada por parte de la contratante, este porcentaje podrá ser mayor, siempre que el Jefe de Gobierno lo autorice específicamente, y
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+III. Para la amortización de los anticipos en los casos de rescisión de contrato, el saldo por amortizar se reintegrará a la dependencia, órgano desconcentrado, delegación o entidad, en efectivo o en especie, según para lo que hayan sido asignados éstos, en un plazo no mayor de veinte días hábiles contados a partir de la fecha en que le sea comunicada la rescisión al contratista.
 
 El contratista que no reintegre el saldo por amortizar en el plazo señalado en esta Fracción, cubrirá los cargos que resulten conforme a la tasa y el procedimiento de cálculo establecidos en el segundo párrafo del Artículo 55.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 50.
 
-Las dependencias, entidades u órganos desconcentrados establecerán la residencia de supervisión con anterioridad a la fecha de iniciación de la obra o del proyecto integral, y esta residencia será la responsable directa de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas, de acuerdo con los alcances específicos del trabajo solicitado. Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones para efecto de pago deberá ser autorizada por la residencia de la obra de la dependencia, entidad u órgano desconcentrado, siendo la contratista supervisora solidaria responsable de dicha firma.
+Las dependencias, órganos desconcentrados, delegaciones o entidades establecerán la residencia de supervisión con anterioridad a la fecha de iniciación de la obra o del proyecto integral, y esta residencia será la responsable directa de la supervisión, vigilancia, control y revisión de los trabajos, incluyendo la aprobación de las estimaciones presentadas por los contratistas, de acuerdo con los alcances específicos del trabajo solicitado.
+
+Cuando la supervisión sea realizada por contrato, la aprobación de las estimaciones presentadas por la supervisora para trámite de pago, deberá ser autorizada por la residencia de la obra de la dependencia, órgano desconcentrado, delegación o entidad, previa verificación de la existencia física de la obra o de los servicios contratados, así como de la presentación de la documentación que acredite la procedencia del pago. Lo anterior sin perjuicio de las demás funciones que para la residencia de la obra se establezcan en el Reglamento de la Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 51.
 
-La obra pública deberá iniciarse en la fecha pactada; para este efecto, la dependencia, entidad u órgano desconcentrado contratante pondrá oportunamente a disposición del contratista él o los inmuebles en que deba llevarse a cabo. El incumplimiento prorrogará en igual plazo:
+La obra pública deberá iniciarse en la fecha pactada; para este efecto, la dependencia, órgano desconcentrado, delegación o entidad contratante pondrá oportunamente a disposición del contratista él o los inmuebles en que deba llevarse a cabo. El incumplimiento prorrogará en igual plazo:
 
 I. En el caso de obra, el inicio y la terminación de la obra pública;
 
@@ -798,11 +1012,15 @@ II. En caso de servicios relacionados con la obra pública, si es un inmueble do
 
 III. En el caso de proyecto integral, se aplicará lo señalado en la Fracción I de este Artículo.
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 52.
 
-Las estimaciones de trabajos ejecutados se presentarán por el contratista a la dependencia, entidad u órgano desconcentrado por periodos máximos mensuales, acompañadas de la documentación que acredite la procedencia de su pago. Para este efecto, las dependencias, entidades u órganos desconcentrados deberán fijar la fecha de corte.
+Las estimaciones de trabajos ejecutados se presentarán por el contratista a la dependencia, órgano desconcentrado, delegación o entidad por períodos máximos mensuales, acompañadas de la documentación que acredite la procedencia de su pago. Para este efecto, las dependencias, órganos desconcentrados, delegaciones o entidades deberán fijar la fecha de corte.
 
-Las estimaciones de los trabajos ejecutados deberán pagarse por parte de la dependencia, entidad u órgano desconcentrado, bajo su responsabilidad, dentro de un plazo no mayor de veinte días hábiles, contados a partir de la fecha en que las hubiere autorizado la residencia de supervisión de la obra pública de que se trate.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Las estimaciones de los trabajos ejecutados deberán pagarse por parte de la dependencia, órgano desconcentrado, delegación o entidad, bajo su responsabilidad, dentro de un plazo no mayor de veinte días hábiles, contados a partir de la fecha en que las hubiere autorizado la residencia de supervisión de la obra pública de que se trate.
 
 Las diferencias técnicas o numéricas surgidas en la revisión de una estimación, no resueltas, se incorporarán una vez conciliadas en el periodo de la estimación siguiente o siguientes, haciendo referencia al periodo de su ejecución. Entre tanto, quedará pendiente el pago de los valores en proceso de conciliación.
 
@@ -820,47 +1038,63 @@ I. Los ajustes se calcularán para el incremento o decremento del costo de los i
 
 Cuando el atraso sea por causa imputable al contratista se procederá con el ajuste de costos exclusivamente para la obra que debiera estar pendiente de ejecutar conforme el programa originalmente pactado;
 
-II. Los incrementos o decrementos de los costos de los insumos, serán calculados según las variaciones autorizadas en los índices que determine la Secretaría de Contraloría y Desarrollo Administrativo, o en su defecto con base en los publicados por el Banco de México, considerando las restricciones establecidas en los pactos económicos que el Gobierno Federal formalice con los sectores sociales. Cuando no se encuentren dentro de los publicados, la dependencia, entidad u órgano desconcentrado procederá a calcularlos con base en los precios que investigue, utilizando los lineamientos y metodología que expida la Secretaría;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+II. Los incrementos o decrementos de los costos de los insumos, serán calculados según las variaciones autorizadas en los índices que determine la Secretaria de Contraloría y Desarrollo Administrativo, o en su defecto con base en los publicados por el Banco de México, considerando las restricciones establecidas en los pactos económicos que el Gobierno Federal formalice con los sectores sociales. Cuando no se encuentren dentro de los publicados, la dependencia, órgano desconcentrado, delegación o entidad procederá a calcularlos con base en los precios que investigue, utilizando los lineamientos y metodología que expida la Secretaría;
 
 III. Los precios de los conceptos permanecerán fijos hasta la terminación de los trabajos contratados. El ajuste se aplicará a los costos directos, conservando constantes los porcentajes de indirectos y utilidad originales durante el ejercicio del contrato; el costo por financiamiento estará sujeto a las variaciones de la tasa de interés propuesta, y
 
-IV. Los demás lineamientos que para tal efecto emita el Gobierno del Distrito Federal.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-El ajuste de costos que corresponda a los trabajos ejecutados conforme las estimaciones correspondientes, deberá cubrirse por parte de la dependencia, entidad u órgano desconcentrado, a solicitud del contratista, a más tardar dentro de los treinta días hábiles siguientes a la fecha en que la dependencia, entidad u órgano desconcentrado resuelva por escrito el aumento o reducción respectivo. En caso de ajustes por decremento, el descuento se hará directamente en la estimación inmediata siguiente.
+IV. Los demás lineamientos que para tal efecto emita la Administración Pública del Distrito Federal.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+El ajuste de costos que corresponda a los trabajos ejecutados conforme las estimaciones correspondientes, deberá cubrirse por parte de la dependencia, órgano desconcentrado, delegación o entidad, a solicitud del contratista, a más tardar dentro de los treinta días hábiles siguientes a la fecha en que la dependencia, órgano desconcentrado, delegación o entidad resuelva por escrito el aumento o reducción respectivo. En caso de ajustes por decremento, el descuento se hará directamente en la estimación inmediata siguiente.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 55.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, entidad u órgano desconcentrado, a solicitud del contratista, deberá pagar gastos financieros de acuerdo con una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas, y se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
+En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia, órgano desconcentrado, delegación o entidad, a solicitud del contratista, deberá pagar gastos financieros de acuerdo con una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales. Dichos gastos se calcularán sobre las cantidades no pagadas, y se computarán por días calendario desde que se venció el plazo, hasta la fecha en que se pongan efectivamente las cantidades a disposición del contratista.
 
-Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrarlos, más los intereses correspondientes, conforme una tasa que será igual a la establecida por la Ley de Ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso, y se computarán por días calendario desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia, entidad u órgano desconcentrado.
+Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrarlos, más los intereses correspondientes, conforme una tasa que será igual a la establecida por la Ley de ingresos del Distrito Federal en los casos de prórroga para el pago de créditos fiscales, los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso, y se computarán por días calendario desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia, órgano desconcentrado, delegación o entidad.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 56.
 
-Las dependencias, entidades u órganos desconcentrados podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública mediante convenios, siempre y cuando estos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactados en el contrato, ni impliquen variaciones sustanciales al proyecto original.
+Las dependencias, órganos desconcentrados, delegaciones o entidades, podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obra pública mediante convenios, siempre y cuando éstos, considerados conjunta o separadamente, no rebasen el veinticinco por ciento del monto o del plazo pactados en el contrato, ni impliquen variaciones sustanciales al proyecto original.
 
-Si los cambios exceden el porcentaje indicado, o varía sustancialmente el proyecto, se deberá celebrar, además y por una sola vez, un convenio especial entre las partes respecto a las nuevas condiciones. No será impedimento el no haber celebrado los convenios señalados en el párrafo anterior para la celebración del convenio especial. Este convenio especial será firmado bajo la responsabilidad del titular de la Unidad administrativa, o equivalente, si en estos se ha delegado tal facultad, o por el titular de la dependencia, entidad u órgano desconcentrado correspondiente. Dichas modificaciones no podrán en modo alguno afectar las condiciones que se refieren a la naturaleza y características esenciales de la obra, objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Si los cambios exceden el porcentaje indicado, o varía sustancialmente el proyecto, se deberá celebrar, además y por una sola vez, un convenio especial entre las partes respecto a las nuevas condiciones. No será impedimento el no haber celebrado los convenios señalados en el párrafo anterior para la celebración del convenio especial. Este convenio especial será firmado bajo la responsabilidad del titular de la Unidad administrativa, o equivalente, si en éstos se ha delegado tal facultad, o por el titular de la dependencia, órgano desconcentrado, delegación o entidad correspondiente. Dichas modificaciones no podrán en modo alguno afectar las condiciones que se refieren a la naturaleza y características esenciales de la obra, objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de esta Ley.
 
 No serán aplicables los límites que se establecen en este Artículo cuando se trate de contratos cuyos trabajos se refieran a la conservación, mantenimiento o restauración de los inmuebles a que se refiere el Artículo 5º de la Ley Federal sobre Monumentos y Zonas Arqueológicas, Artísticos e Históricos, o en obras de mantenimiento correctivo en los que no sea posible determinar el catálogo de conceptos, las cantidades de trabajo, especificaciones correspondientes o el programa de ejecución.
 
-De las autorizaciones en monto y plazo de los convenios especiales a que se refiere este Artículo, el titular de las dependencias y entidades, de manera indelegable, informará a la Secretaría de Finanzas y a la Contraloría. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+De las autorizaciones en monto y plazo de los convenios especiales a que se refiere este Artículo, el titular de las dependencias órganos desconcentrados, delegaciones y entidades, de manera indelegable, informará a la Secretaría de Finanzas y a la Contraloría. Al efecto, a más tardar el último día hábil de cada mes, deberá presentarse un informe que se referirá a las autorizaciones otorgadas en el mes calendario inmediato anterior.
 
 En casos necesarios debidamente justificados se elaborará un convenio de liquidación a fin de ajustar números.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 57.
 
-El contratista comunicará por escrito a la dependencia, entidad u órgano desconcentrado la terminación de los trabajos que le fueron encomendados, y ésta verificará que los trabajos estén debidamente concluidos dentro del plazo que se pacte expresamente en el contrato.
+El contratista comunicará por escrito a la dependencia, órgano desconcentrado, delegación o entidad, la terminación de los trabajos que le fueron encomendados, y ésta verificará que los trabajos estén debidamente concluidos dentro del plazo que se pacte expresamente en el contrato.
 
-Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, la dependencia, entidad u órgano desconcentrado procederá a su recepción dentro del plazo que para tal efecto se haya establecido en el propio contrato. Al concluir dicho plazo, sin que la dependencia, entidad u órgano desconcentrado, haya recibido los trabajos, estos se tendrán por recibidos.
+Una vez que se haya constatado la terminación de los trabajos en los términos del párrafo anterior, la dependencia, órgano desconcentrado, delegación o entidad, procederá a su recepción dentro del plazo que para tal efecto se haya establecido en el propio contrato. Al concluir dicho plazo, sin que la dependencia, órgano desconcentrado, delegación o entidad, haya recibido los trabajos, éstos se tendrán por recibidos.
 
-La dependencia, entidad u órgano desconcentrado comunicará a la Contraloría la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre representantes que asistan al acto.
+La dependencia, órgano desconcentrado, delegación o entidad, comunicará a la Contraloría la terminación de los trabajos e informará la fecha señalada para su recepción a fin de que, si lo estima conveniente, nombre representantes que asistan al acto.
 
-En la fecha señalada, la dependencia, entidad u órgano desconcentrado, recibirá bajo su responsabilidad los trabajos y levantará el acta correspondiente, sin perjuicio de proceder con posterioridad a la liquidación y finiquito del contrato.
+En la fecha señalada, la dependencia, órgano desconcentrado, delegación o entidad, recibirá bajo su responsabilidad los trabajos y levantará el acta correspondiente, sin perjuicio de proceder con posterioridad a la liquidación y finiquito del contrato.
 
-La liquidación de la obra pública deberá efectuarse en un período que no excederá de cien días hábiles posteriores a la fecha de recepción de los trabajos, para lo cual la dependencia, entidad u órgano desconcentrado notificará con la debida anticipación al contratista para los efectos procedentes. De no llegar a una liquidación acordada entre las partes, la dependencia, entidad u órgano desconcentrado procederá a realizarla unilateralmente.
+La liquidación de la obra pública deberá efectuarse en un periodo que no excederá de cien días hábiles posteriores a la fecha de recepción de los trabajos, para lo cual la dependencia, órgano desconcentrado, delegación o entidad, notificará con la debida anticipación al contratista para los efectos procedentes. De no llegar a una liquidación acordada entre las partes, la dependencia, órgano desconcentrado, delegación o entidad, procederá a realizarla unilateralmente.
 
-El finiquito de la obra pública se realizará a más tardar a los veinte días hábiles posteriores a la fecha de la liquidación; si para este término no se ha presentado a finiquitar el contratista, la dependencia, entidad u órgano desconcentrado deberá requerir por escrito al contratista que se presente a finiquitar. Una vez notificado debidamente el contratista, se tendrán veinte días hábiles para que se presente y finiquite; transcurrido el plazo, la dependencia, entidad u órgano desconcentrado finiquitará la obra pública unilateralmente.
+El finiquito de la obra pública se realizará a más tardar a los veinte días hábiles posteriores a la fecha de la liquidación; si para este término no se ha presentado a finiquitar el contratista, la dependencia, órgano desconcentrado, delegación o entidad deberá requerir por escrito al contratista que se presente a finiquitar. Una vez notificado debidamente el contratista, se tendrán veinte días hábiles para que se presente y finiquite; transcurrido el plazo, la dependencia, órgano desconcentrado, delegación o entidad finiquitará la obra pública unilateralmente.
 
-En caso de ser necesario variar el plazo para finiquitar una obra, la dependencia, entidad u órgano desconcentrado podrá establecerlo en el contrato de acuerdo con las características particulares de la obra pública a realizar; de no ser especificado en el mismo, se sujetará al plazo señalado en este Artículo.
+En caso de ser necesario variar el plazo para finiquitar una obra, la dependencia, órgano desconcentrado, delegación o entidad podrá establecerlo en el contrato de acuerdo con las características particulares de la obra pública a realizar; de no ser especificado en el mismo, se sujetará al plazo señalado en este Artículo.
 
 ###### Artículo 58.
 
@@ -868,17 +1102,25 @@ Concluidos los trabajos, no obstante su recepción formal, el contratista quedar
 
 Para garantizar durante un plazo de doce meses, en el caso de la obra y de los servicios relacionados con la obra pública, el cumplimiento de las obligaciones a que se refiere el párrafo anterior, previamente a la recepción de los trabajos, el contratista constituirá garantía por el equivalente del diez por ciento del monto total ejercido en la obra. En el lugar de esta garantía, podrá conservar la de cumplimiento de contrato ajustada al diez por ciento del monto total ejercido, siempre y cuando se haya obligado a responder además, por los defectos o vicios ocultos y cualquier otra responsabilidad que llegara a surgir en la obra durante el año posterior a su recepción. En el caso de proyecto integral, plantas industriales y equipos especializados, el plazo de garantía deberá cubrir por lo menos el veinticinco por ciento de la vida útil de los mismos, en un monto y forma que se establezca en las políticas administrativas, bases y lineamientos.
 
-Los contratistas podrán retirar sus garantías, transcurrido el plazo establecido a partir de la fecha de recepción de los trabajos, siempre que a petición de los mismos lo apruebe por escrito la dependencia u órgano desconcentrado correspondiente, quienes lo notificarán a la Secretaría de Finanzas para los efectos procedentes, y en el caso de las entidades, cuando éstas así lo autoricen.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-Quedarán a salvo los derechos de las dependencias, entidades u órganos desconcentrados para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme este Artículo.
+Los contratistas podrán retirar sus garantías, transcurrido el plazo establecido a partir de la fecha de recepción de los trabajos, siempre que a petición de los mismos lo apruebe por escrito la dependencia, órgano desconcentrado o delegación correspondiente, quienes lo notificarán a la Secretaría de Finanzas para los efectos procedentes, y en el caso de las entidades, cuando éstas así lo autoricen.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Quedarán a salvo los derechos de las dependencias órganos desconcentrados, delegaciones o entidades para exigir el pago de las cantidades no cubiertas de la indemnización que a su juicio corresponda, una vez que se hagan efectivas las garantías constituidas conforme este Artículo.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 59.
 
-El contratista será el único responsable de la ejecución de los trabajos en los términos del contrato respectivo, y deberá sujetarse a todos los reglamentos, normas técnicas y ordenamientos de las autoridades competentes en materia de construcción, seguridad y uso de la vía pública, así como a las disposiciones establecidas al efecto por la dependencia, entidad u órgano desconcentrado contratante. Las responsabilidades y los daños y perjuicios que resulten a terceros por su inobservancia, serán a cargo del contratista.
+El contratista será el único responsable de la ejecución de los trabajos en los términos del contrato respectivo, y deberá sujetarse a todos los reglamentos, normas técnicas y ordenamientos de las autoridades competentes en materia de construcción, seguridad y uso de la vía pública, así como a las disposiciones establecidas al efecto por la dependencia, órgano desconcentrado, delegación o entidad contratante. Las responsabilidades y los daños y perjuicios que resulten a terceros por su inobservancia, serán a cargo del contratista.
+
+> <small>(REFORMADO, PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 60.
 
-Las dependencias, entidades u órganos desconcentrados podrán realizar obra pública con personal de la estructura de su organización, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico que se requieran para el desarrollo de los trabajos respectivos, y se cumplan los requisitos establecidos en el Artículo 23; según el caso, se permitirá:
+Las dependencias, órganos desconcentrados, delegaciones o entidades podrán realizar obra pública con personal de la estructura de su organización, siempre que posean la capacidad técnica y los elementos necesarios para tal efecto, consistentes en maquinaria, equipo de construcción y personal técnico que se requieran para el desarrollo de los trabajos respectivos, y se cumplan los requisitos establecidos en el Artículo 23, según el caso, se permitirá:
 
 I. Utilizar la mano de obra local complementaria que se requiera;
 
@@ -888,7 +1130,9 @@ III. Utilizar preferentemente los materiales de la región, siempre y cuando cum
 
 IV. Utilizar los servicios de fletes y acarreos complementarios que se necesiten.
 
-Se entiende como complementario, no más del veinte por ciento del total requerido, salvo casos especiales, los cuales deberán ser autorizados por el titular de la dependencia, entidad u órgano desconcentrado.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Se entiende como complementario, no más de veinte por ciento del total requerido, salvo casos especiales, los cuales deberán ser autorizados por el titular de la dependencia, órgano desconcentrado, delegación o entidad.
 
 En la ejecución de la obra pública con personal de la estructura de su organización, no podrán participar terceros como contratistas.
 
@@ -896,13 +1140,17 @@ En la ejecución de la obra pública con personal de la estructura de su organiz
 
 ### Capítulo Único
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 61.
 
-En los supuestos, y con sujeción a las formalidades que prevén los Artículos 62 y 63, las dependencias, entidades y órganos desconcentrados, bajo su responsabilidad, cuando los procesos de las licitaciones a que hace referencia el Artículo 24, Apartado A, no sean idóneos, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación restringida.
+En los supuestos, y con sujeción a las formalidades que prevén los Artículos 62 y 63, las dependencias, órganos desconcentrados, delegaciones o entidades, bajo su responsabilidad, cuando los procesos de las licitaciones a que hace referencia el Artículo 24, Apartado A, no sean idóneos, podrán optar por no llevar a cabo el procedimiento de licitación pública y celebrar contratos de obra pública, a través de un procedimiento de invitación restringida.
 
 En estos casos se deberá dar aviso a la Contraloría para su intervención.
 
-La opción que las dependencias, entidades y órganos desconcentrados ejerzan deberán fundamentarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, de manera que aseguren las mejores condiciones para el Gobierno del Distrito Federal. En el dictamen a que se refiere el Artículo 41 deberá acreditar, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción, y contendrá además:
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+La opción que las dependencias, órganos desconcentrados, delegaciones o entidades ejerzan, deberá fundamentarse según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez, de manera que aseguren las mejores condiciones para la Administración Pública del Distrito Federal. En el dictamen a que se refiere el Artículo 41 deberá acreditar, de entre los criterios mencionados, aquéllos en que se funda el ejercicio de la opción, y contendrá además:
 
 I. El valor del contrato;
 
@@ -912,33 +1160,49 @@ III. Una descripción general de la obra pública, y
 
 IV. En forma explícita, las razones sociales, técnicas, legales, económicas, financieras, así como administrativas que den lugar al ejercicio de la opción.
 
-De las operaciones que se realicen conforme lo señalado en el Artículo 63, los titulares de las dependencias y entidades, a más tardar el último día hábil de cada mes, enviarán a la Secretaría de Finanzas y a la Contraloría el informe de las operaciones autorizadas en el mes calendario inmediato anterior, acompañando copia de su dictamen correspondiente.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+De las operaciones que se realicen conforme lo señalado en el Artículo 63, los titulares de las dependencias, órganos desconcentrados, delegaciones y entidades, a más tardar el último día hábil de cada mes, enviarán a la Secretaría de Finanzas y a la Contraloría el informe de las operaciones autorizadas en el mes calendario inmediato anterior, acompañando copia de su dictamen correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 62.
 
-Las dependencias, entidades y órganos desconcentrados podrán bajo su responsabilidad contratar obra pública mediante el procedimiento de invitación a cuando menos tres concursantes, o por adjudicación directa cuando el importe de cada operación no exceda de los montos máximos que para cada procedimiento se establecerán en el Presupuesto de Egresos del Distrito Federal, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto.
+Las dependencias, órganos desconcentrados, delegaciones y entidades podrán bajo su responsabilidad contratar obra pública mediante el procedimiento de invitación a cuando menos tres concursantes, o por adjudicación directa cuando el impone de cada operación no exceda de los montos máximos que para cada procedimiento se establecerán en el Presupuesto de Egresos del Distrito Federal, siempre que las operaciones no se fraccionen para quedar comprendidas en este supuesto.
 
 En este caso, se convocará a la persona o personas con capacidad de respuesta inmediata y con los recursos técnicos, financieros y humanos necesarios, y con experiencia en la obra pública por desarrollar.
 
-La suma de las operaciones que se realicen al amparo de este Artículo y por concepto de adjudicación directa, no podrán exceder de veinte por ciento de la inversión total autorizada a la dependencia, entidad u órgano desconcentrado para cada ejercicio fiscal.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
-En casos excepcionales se podrá exceder el porcentaje señalado en el párrafo anterior, siempre que las operaciones sear(sic) aprobadas previamente y de manera indelegable por los titulares de las dependencias y entidades y que sean reportados detalladamente en el informe a que se refiere el Artículo 61. La aprobación del titular será específica para cada caso.
+La suma de las operaciones que se realicen al amparo de este Articulo, y por concepto de adjudicación directa, no podrán exceder del veinte por ciento de la inversión total autorizada a la dependencia, órgano desconcentrado, delegación o entidad para cada ejercicio fiscal.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+En casos excepcionales se podrá exceder el porcentaje señalado en el párrafo anterior, siempre que las operaciones sean aprobadas previamente y de manera indelegable por los titulares de las dependencias órganos desconcentrados, delegaciones y entidades y que sean reportados detalladamente en el informe a que se refiere el Artículo 61. La aprobación del titular será específica para cada caso.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 63.
 
-Las dependencias, entidades y órganos desconcentrados, también podrán bajo su responsabilidad contratar obra pública mediante el procedimiento de invitación restringida, cuando la licitación pública no sea idónea para asegurar al Gobierno del Distrito Federal las mejores condiciones disponibles en cuanto a calidad, oportunidad, financiamiento, precio y demás circunstancias pertinentes, siempre que:
+Las dependencias, órganos desconcentrados, delegaciones y entidades, también podrán bajo su responsabilidad contratar obra pública mediante el procedimiento de invitación restringida, cuando la licitación pública no sea idónea para asegurar a la Administración Pública del Distrito Federal las mejores condiciones disponibles en cuanto a calidad, oportunidad, financiamiento, precio y demás circunstancias pertinentes, siempre que:
 
 I. El contrato, sólo pueda celebrarse con una determinada persona por tratarse de obras de arte, titularidad de patentes, derechos de autor y otros derechos exclusivos;
 
 II. Peligre la integridad física de personas o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona del Distrito Federal o área afectada por la posibilidad de ocurrencia o como consecuencia de desastres producidos por fenómenos naturales, por casos fortuitos o de fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes por una contratación normal;
 
-III. Se hubiere rescindido el contrato originalmente adjudicado por causas imputables al contratista. En este caso, la dependencia, entidad u órgano desconcentrado podrá adjudicar el contrato al concursante que haya presentado la propuesta legal, técnica, económica, financiera y administrativamente aceptable, inmediata superior en importe, siempre que la diferencia respecto al rescindido no sea mayor del diez por ciento en obra y en dos por ciento del indicador correspondiente, en el caso de servicios o en su defecto volver a licitar;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+III. Se hubiere rescindido el contrato originalmente adjudicado por causas imputables al contratista. En este caso, la dependencia, órgano desconcentrado, delegación o entidad, podrá adjudicar el contrato al concursante que haya presentado la propuesta legal, técnica, económica, financiera y administrativamente aceptable, inmediata superior en importe, siempre que la diferencia respecto al rescindido no sea mayor del diez por ciento en obra y en dos por ciento del indicador correspondiente en el caso de servicios, o en su defecto volver a licitar;
 
 IV. Se realicen dos licitaciones públicas, sin que en ambos casos se hubieran recibido propuestas legal, técnica, económica, financiera y administrativamente aceptables, o sus precios no estuviesen conforme los del mercado;
 
-V. Se trate de obra pública, que de ejecutarse bajo un procedimiento de licitación pública pudiera afectar el interés público, o comprometer información de naturaleza confidencial para el Gobierno del Distrito Federal o para la Nación;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-VI. Se trate de obra pública, cuya contratación se realice con campesinos o grupos urbanos marginados y que la dependencia, entidad u órgano desconcentrado contrate directamente con los mismos o con las personas morales constituidas por ellos.
+V. Se trate de obra pública, que de ejecutarse bajo un procedimiento de licitación pública pudiera afectar el interés público, o comprometer información de naturaleza confidencial para la Administración Pública del Distrito Federal o para la Nación;
+
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+VI. Se trate de obra pública, cuya contratación se realice con campesinos o grupos urbanos marginados, y que la dependencia, órgano desconcentrado, delegación o entidad contrate directamente con los mismos o con las personas morales constituidas por ellos;
 
 VII. Se trate de obras o servicios de mantenimiento, conservación, restauración, demolición o reparación de bienes inmuebles, incluyendo los de infraestructura urbana en los que no sea posible precisar previamente su alcance, establecer los conceptos, catálogos y cantidades de trabajo, determinar las especificaciones correspondientes, o elaborar el programa de ejecución;
 
@@ -948,25 +1212,35 @@ IX. No existan en el mercado de trabajo de obra pública más de tres ofertantes
 
 X. Existan razones técnicas justificadas para un suministro de bienes de marca determinada;
 
-XI. Se trate de estudios, servicios o proyectos similares a otros que habiendo sido ejecutados sean aprovechables parcialmente y por tanto, la asignación de los trabajos complementarios resulte conveniente económicamente a la dependencia, entidad u órgano desconcentrado;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+XI. Se trate de estudios, servicios o proyectos similares a otros que habiendo sido ejecutados sean aprovechables parcialmente y, por tanto, la asignación de los trabajos complementarios resulte conveniente económicamente a la dependencia, órgano desconcentrado, delegación o entidad;
 
 XII. Se trate de proyectos urbanos, arquitectónicos, estructurales o artísticos en los que no se puedan establecer los parámetros para evaluar las propuestas en el proceso de adjudicación, como aquéllos en que no es factible establecer la relación costo de proyecto contra costo de ejecución de la obra proyectada, entre otros;
 
 XIII. Se trate de servicios relacionados con la obra pública, cuya ejecución deba ir acompañada de medidas de seguridad especiales;
 
-XIV. Se trate de investigaciones, consultorías, proyectos u otro tipo de apoyos técnicos que por su elevado nivel de especialidad y grado de complejidad, en el proceso de licitación pública, a juicio de la dependencia, entidad u órgano desconcentrado no sea idóneo para garantizar al Gobierno del Distrito Federal las mejores condiciones.
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+XIV. Se trate de investigaciones, consultorías, proyectos u otro tipo de apoyos técnicos que por su elevado nivel de especialidad y grado de complejidad, el proceso de licitación pública, a juicio de la dependencia, órgano desconcentrado, delegación o entidad no sea idóneo para garantizar a la Administración Pública del Distrito Federal las mejores condiciones.
 
 En este caso, el procedimiento de adjudicación se sujetará a lo establecido en el Reglamento;
 
 XV. Se hayan realizado dos licitaciones para la misma obra, mediante el procedimiento de invitación a cuando menos tres proponentes, sin que en ambas se hubieren recibido proposiciones aceptables, en cuyo caso se procederá a la adjudicación directa, y
 
-XVI. El Jefe del Gobierno del Distrito Federal autorice la contratación directa de obra pública, incluido el gasto correspondiente, y establezca los medios de control que estime pertinentes para salvaguardar la seguridad pública, la integridad de los ciudadanos del Distrito Federal, sus bienes o los del propio Gobierno del Distrito Federal ante situaciones de emergencia o especiales.
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
 
-Las dependencias, entidades u órganos desconcentrados invitarán preferentemente a cuando menos tres concursantes según corresponda, salvo que a su juicio no resulte conveniente, en cuyo caso se recurrirá al procedimiento de adjudicación directa. En esta circunstancia, también se convocará a la persona o personas que cuenten con capacidad de respuesta inmediata y con los recursos técnicos, financieros y demás que sean necesarios.
+XVI. El Jefe de Gobierno del Distrito Federal autorice la contratación directa de obra pública, incluido el gasto correspondiente, y establezca los medios de control que estime pertinentes para salvaguardar la seguridad pública, la integridad de los ciudadanos del Distrito Federal, sus bienes o los de la Administración Pública del Distrito Federal ante situaciones de emergencia o especiales.
 
-###### Artículo 64.
+> <small>(REFORMADO G.O. 11 DE MARZO DE 2003)</small>
 
-Las licitaciones mediante los procedimientos de invitación a cuando menos tres concursantes, según el caso a que se refieren los Artículos 62 y 63, se sujetarán a lo siguiente:
+Las dependencias, órganos desconcentrados, delegaciones y entidades invitarán preferentemente a cuando menos tres concursantes según corresponda, salvo que ello a su juicio no resulte conveniente, en cuyo caso se recurrirá al procedimiento de adjudicación directa. En esta circunstancia, también se convocará a la persona o personas que cuenten con capacidad de respuesta inmediata y con los recursos técnicos, financieros, humanos y demás que sean necesarios.
+
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
+###### Artículo 64
+
+El procedimiento de invitación restringida a cuando menos tres concursantes, se sujetará a lo siguiente:
 
 I. Los interesados que acepten participar, lo manifestarán por escrito;
 
@@ -974,9 +1248,13 @@ II. Se les solicitará un cheque cruzado como garantía de obligación de presen
 
 III. La apertura de los sobres se hará en presencia de los correspondientes concursantes e invariablemente se invitará a un representante de la Contraloría;
 
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
 IV. Para llevar a cabo la evaluación económica, se deberá contar con un mínimo de tres propuestas con los requisitos completos;
 
-V. Las disposiciones de la licitación pública de los Capítulos I, II, excepto lo referente a la convocatoria, y III de este Título y modificaciones que al respecto el Comité Central de Obras del Distrito Federal o Subcomités de Obras de la dependencia, entidad u órgano desconcentrado aprueben;
+> <small>(REFORMADA, G.O. 11 DE MARZO DE 2003)</small>
+
+V. Las disposiciones de la licitación pública de los Capítulos I, II, excepto lo referente a convocatoria, y III de este Titulo y modificaciones que al respecto el Comité respectivo de Obras del Distrito Federal o Subcomités de Obras de la dependencia, órgano desconcentrado, delegación o entidad, aprueben;
 
 VI. Los plazos para la presentación de propuestas se fijarán para cada caso atendiendo el monto, características, especialidad, condiciones y complejidad de los trabajos.
 
@@ -984,35 +1262,69 @@ VI. Los plazos para la presentación de propuestas se fijarán para cada caso at
 
 ### Capítulo Único
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 65.
 
-La Secretaría de Finanzas y la Contraloría emitirán los lineamientos generales por medio de los cuales las dependencias, entidades y órganos desconcentrados deberán remitirles la información relativa a los actos y contratos materia de esta Ley.
+La Secretaría de Finanzas y la Contraloría emitirán los lineamientos generales por medio de los cuales las dependencias, órganos desconcentrados, delegaciones y entidades deberán remitirles la información relativa a los actos y contratos materia de esta Ley.
 
-Las dependencias, entidades y órganos desconcentrados conservarán toda la documentación comprobatoria de dichos actos y contratos por un lapso de cinco años, contados a partir de la fecha de su recepción. En la misma forma los contratistas deberán conservar por igual lapso la documentación a que se hace referencia en este Artículo.
+Las dependencias, órganos desconcentrados, delegaciones y entidades conservarán toda la documentación comprobatoria de dichos actos y contratos por un lapso de cinco años, contados a partir de la fecha de su recepción. En la misma forma los contratistas deberán conservar por igual lapso la documentación a que se hace referencia en este Artículo.
 
 ###### Artículo 66.
 
 La Contraloría deberá verificar en cualquier tiempo que la obra pública se ejecute conforme lo establecido en esta Ley o en otras disposiciones aplicables.
 
-La Contraloría, en el ejercicio de sus facultades, podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias, entidades y órganos desconcentrados que contraten obra. Igualmente podrá solicitar de los servidores públicos y de los contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate, quienes estarán obligados a proporcionársela.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La Contraloría, en el ejercicio de sus facultades, podrá realizar las visitas e inspecciones que estime pertinentes a las dependencias, órganos desconcentrados, delegaciones y entidades que contraten obra. Igualmente podrá solicitar de los servidores públicos y de los contratistas que participen en ellas, todos los datos e informes relacionados con los actos de que se trate, quienes estarán obligados a proporcionársela.
 
 ## TÍTULO SEXTO. De las Infracciones y las Sanciones
 
 ### Capítulo Único
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 67.
 
-Los servidores públicos que infrinjan las disposiciones contenidas en esta Ley, serán sancionados por la Contraloría con multa de diez a cincuenta veces el salario mínimo general vigente en el Distrito Federal, equivalente a un mes, en la fecha de la infracción, independientemente de las responsabilidades a las que se haga acreedor en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Los servidores públicos que infrinjan las disposiciones contenidas en esta ley, previo desahogo del procedimiento correspondiente, serán sancionados de conformidad con el régimen de responsabilidades de los servidores públicos.
 
-Los concursantes o contratistas que infrinjan las disposiciones contenidas en esta Ley serán sancionados por la Contraloría con multa de cincuenta a quinientas veces el salario mínimo general vigente en el Distrito Federal, equivalente a un mes, en la fecha de la infracción, independientemente de la obligación a la que se harán acreedores de resarcir los daños y perjuicios que por tal infracción causen a la dependencia, entidad u órgano desconcentrado respectiva.
+La responsabilidad a que se refiere la presente ley, será independiente de la de orden civil o penal que pudieran derivar de los actos irregulares.
+
+Los concursantes o contratistas que se encuentren en los supuestos del artículo 37 de esta Ley, no podrán presentar propuestas ni celebrar contratos sobre las materias objeto de esta ley, durante el plazo que establezca la Contraloría, el cual no será menor de seis meses ni mayor de dos años contados a partir de la fecha en que la Contraloría lo notifique a las dependencias, órganos desconcentrados, delegaciones y entidades, dicha notificación se publicará en la Gaceta Oficial del Distrito Federal.
+
+Para la declaratoria de impedimento para participar en licitaciones publicas, invitaciones restringidas a cuando menos tres contratistas, adjudicaciones directas y celebración de contratos, la Contraloría deberá iniciar el procedimiento administrativo respectivo, otorgando el derecho de audiencia al interesado para que exponga lo que a su derecho convenga y, en su caso, aporte las pruebas que estime pertinentes.
+
+El procedimiento para emitir la declaratoria de impedimento a que se refiere este capítulo, se desarrollará conforme a lo siguiente:
+
+I. Se citará a la persona física o moral a una audiencia, haciéndole saber la presunta irregularidad que se le impute, el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un apoderado.
+
+Entre la fecha de la notificación y la de la audiencia deberá mediar un plazo de diez días hábiles, durante el cual estará a disposición de la persona física o moral el expediente para su revisión y consulta en días y horas hábiles;
+
+II. En la audiencia se recibirán por escrito, o por comparecencia personal, las manifestaciones que a su derecho convenga, se presentarán, admitirán y, en su caso, se desahogarán las pruebas que se hubieren admitido y se formularán alegatos; una vez concluida la audiencia, la Contraloría resolverá dentro de los diez días hábiles siguientes, sobre la presunta irregularidad, determinando, en su caso, el plazo de impedimento que se encuentra previsto en esta ley, notificándose a la persona física o moral la resolución que se emita;
+
+III. Si en la audiencia la Contraloría encontrara que no cuenta con los elementos suficientes para resolver o advierta elementos que impliquen nuevas presuntas irregularidades a cargo de la persona física o moral, podrá requerir mayor información y documentación, así como disponer la práctica de investigaciones y citar para otra u otras audiencias, difiriéndose los plazos previstos para la emisión de la resolución; y
+
+IV. La resolución que emita la Contraloría deberá estar debidamente fundada y motivada, para lo cual tomará en consideración para su individualización:
+
+a) La afectación que hubiere producido o pueda producir el acto irregular a la dependencia, órgano desconcentrado, delegación o entidad;
+
+b) El carácter intencional de la acción u omisión constitutiva de la irregularidad;
+
+c) La gravedad de la irregularidad;
+
+d) La reincidencia de la persona física o moral; y
+
+e) Las condiciones económicas de la persona física o moral.
+
+Emitida la resolución, deberá publicarse en la Gaceta Oficial del Distrito Federal, así como en medios electrónicos, la circular respectiva en la que se haga del conocimiento general, el plazo de impedimento decretado y el nombre o denominación de la persona física o moral.
+
+Los contratos que se hayan formalizado antes de la publicación de la declaratoria de impedimento correspondiente, no quedan comprendidos dentro de los efectos de la misma.
+
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
 
 ###### Artículo 68.
 
-Los contratistas que se encuentren en el supuesto de las Fracciones VII y VIII del Artículo 37, no podrán presentar propuestas ni celebrar contratos sobre las materias de esta Ley, durante el plazo que establezca la Contraloría, el cual no será menor de seis meses ni mayor de dos años, contado a partir de la fecha en que la Contraloría lo notifique a las dependencias, entidades y órganos desconcentrados, dicha notificación se publicará en la Gaceta Oficial del Distrito Federal.
-
-Las dependencias, entidades y órganos desconcentrados informarán, y en su caso remitirán la documentación comprobatoria a la Contraloría sobre el contratista que se encuentre en el supuesto previsto en la(sic) Fracciones III y IV del Artículo 37, a más tardar dentro de los diez días hábiles siguientes a la fecha en que le notifiquen la rescisión al propio contratista.
-
-Para la imposición de las sanciones, se atenderá lo dispuesto en el Título Quinto de la Ley de Procedimiento Administrativo del Distrito Federal.
+Las dependencias, órganos desconcentrados, delegaciones y entidades, informarán, y en su caso remitirán la documentación comprobatoria al Comité de Obras correspondiente del Distrito Federal, sobre el contratista que se encuentre en alguno de los supuestos del artículo 37 a más tardar dentro de los diez días hábiles siguientes a la fecha en que le sea requerido.
 
 ###### Artículo 69.
 
@@ -1020,9 +1332,11 @@ No se impondrán sanciones cuando se haya incurrido en la infracción por causa 
 
 No se considerará que el cumplimiento es espontáneo, cuando la omisión sea descubierta por las autoridades o medie requerimiento, visita, excitativa o cualquier otra gestión efectuada por las mismas.
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 70.
 
-Los servidores públicos de las dependencias, entidades y órganos desconcentrados, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme la Ley. La omisión a lo dispuesto en el párrafo anterior será sancionada en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
+Los servidores públicos de las dependencias, órganos desconcentrados, delegaciones y entidad, que en el ejercicio de sus funciones tengan conocimiento de infracciones a esta Ley o a las disposiciones que de ella deriven, deberán comunicarlo a las autoridades que resulten competentes conforme la Ley. La omisión a lo dispuesto en el párrafo anterior será sancionada en los términos de la Ley Federal de Responsabilidades de los Servidores Públicos.
 
 ###### Artículo 71.
 
@@ -1032,11 +1346,15 @@ Las responsabilidades a que se refiere la presente Ley, son independientes de la
 
 ### Capítulo I. De las Aclaraciones de los Actos
 
+> <small>(REFORMADO PRIMER PARRAFO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 72.
 
-Cualquier concursante o contratista que se considere afectado por actos que deriven de la aplicación de la presente Ley, podrá presentar por escrito ante el órgano interno de control correspondiente de la dependencia, entidad u órgano desconcentrado, solicitud de aclaración respectiva, dentro de un término de diez días hábiles siguientes a partir de que se le haga de su conocimiento el acto por el que se considera afectado.
+Cualquier concursante o contratista que se considere afectado por actos que deriven de la aplicación de la presente Ley, podrá presentar por escrito ante el órgano interno de control correspondiente de la dependencia, órgano desconcentrado, delegación o entidad, solicitud de aclaración respectiva, dentro de un término de tres días hábiles siguientes a partir de que se le haga de su conocimiento el acto por el que se considera afectado.
 
-Lo anterior, sin perjuicio de que quienes se consideren afectados, previamente manifiesten a la dependencia, entidad u órgano desconcentrado, las irregularidades que a su juicio se hayan cometido, a fin de que las mismas se corrijan en su caso.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+Lo anterior, sin perjuicio de que quienes se consideren afectados, previamente manifiesten a la dependencia, órgano desconcentrado, delegación o entidad, las irregularidades que a su juicio se hayan cometido, a fin de que las mismas se corrijan en su caso.
 
 Al escrito de aclaración podrá acompañarse, en su caso, la manifestación aludida en el párrafo precedente, la cual será valorada por el órgano interno de control correspondiente, durante el periodo de investigación.
 
@@ -1046,7 +1364,9 @@ En el escrito de aclaración se deberá manifestar bajo protesta de decir verdad
 
 El escrito de aclaración deberá ser valorado por el órgano interno de control correspondiente y en un plazo de quince días hábiles determinará su admisión o improcedencia.
 
-En caso de ser admitido el escrito de aclaración, el órgano interno de control correspondiente, en el plazo de un día hábil siguiente a la admisión, lo comunicará a la dependencia, entidad u órgano desconcentrado y a los terceros perjudicados en su caso, a efecto de que en un término de tres días hábiles manifiesten lo que a su derecho convenga,
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+En caso de ser admitido el escrito de aclaración, el órgano interno de control correspondiente, en el plazo de un día hábil siguiente a la admisión, lo comunicará a la dependencia, órgano desconcentrado, delegación o entidad y a los terceros perjudicados en su caso, a efecto de que en un término de tres días hábiles manifiesten lo que a su derecho convenga.
 
 ###### Artículo 74.
 
@@ -1080,13 +1400,17 @@ La suspensión no procederá cuando con ello se pueda causar perjuicio al inter�
 
 El órgano interno de control correspondiente, de oficio o en atención a las solicitudes de aclaración que se le presenten, realizará las investigaciones necesarias y resolverá lo conducente.
 
-La dependencia, entidad u órgano desconcentrado y los terceros perjudicados en su caso, proporcionarán al órgano interno de control correspondiente la información requerida para sus investigaciones.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+La dependencia, órgano desconcentrado, delegación o entidad y los terceros perjudicados en su caso, proporcionarán al órgano interno de control correspondiente la información requerida para sus investigaciones.
 
 En el caso de investigaciones iniciadas de oficio, el órgano interno de control podrá suspender los procedimientos cuando:
 
 I. Se advierta que existen o pudieran existir actos contrarios a las disposiciones de esta Ley o de las que de ella deriven, y
 
-II. Con la suspensión no se cause perjuicio al interés público y no se contravengan disposiciones de orden público; o bien, si de continuarse el procedimiento correspondiente, pudieran producirse daños y perjuicios a la dependencia, entidad u órgano desconcentrado de que se trate.
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
+II. Con la suspensión no se cause perjuicio al interés publico y no se contravengan disposiciones de orden público; o bien, si de continuarse el procedimiento correspondiente, pudieran producirse daños o perjuicios a la dependencia, órgano desconcentrado, delegación o entidad de que se trate.
 
 ###### Artículo 79.
 
@@ -1100,11 +1424,13 @@ III. La declaración de improcedencia de la aclaración.
 
 ### Capítulo II. Del Recurso de Inconformidad
 
+> <small>(REFORMADO, G.O. 11 DE MARZO DE 2003)</small>
+
 ###### Artículo 80.
 
-Será aplicable la Ley de Procedimiento Administrativo del Distrito Federal y las disposiciones jurídicas que se deriven de ella, en materia del recurso de inconformidad en contra de los actos de la Administración Pública del Distrito Federal, ordenados o dictados con motivo de la aplicación de la presente Ley y normas jurídicas que de ella emanen.
+Los interesados afectados por cualquier acto o resolución emitido por las dependencias, órganos desconcentrados, delegaciones y entidades de la Administración Pública del Distrito Federal, en los procedimientos de licitación pública e invitación restringida a cuando menos tres contratistas que contravengan las disposiciones que rigen la materia, podrán interponer el recurso de inconformidad en términos de lo dispuesto por la Ley de Procedimiento Administrativo del Distrito Federal.
 
-Para los efectos de esta Ley de Obras Públicas este recurso se presentará ante la Contraloría, la que resolverá en lo conducente.
+En estos casos, el recurso de inconformidad deberá presentarse ante la Contraloría General, dentro del término de 5 días hábiles, contados a partir del día siguiente a la notificación del acto o resolución que se recurra, o de que el recurrente tenga conocimiento del mismo.
 
 ## TRANSITORIOS
 
@@ -1121,3 +1447,15 @@ Quinto.- El Reglamento de la presente Ley deberá expedirse en un plazo de cient
 Salón de Sesiones de la Asamblea Legislativa del Distrito Federal, I Legislatura a veinte de octubre de mil novecientos noventa y ocho.- POR LA MESA DIRECTIVA.- DIP. JESUS GALVAN MUÑOZ, PRESIDENTE.- DIP. JOSE LUIS BENITES GIL, SECRETARIO.- RUBRICAS
 
 En cumplimiento de lo dispuesto en el artículo 122, apartado C, Base Segunda, fracción II, inciso b) de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67 fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los dieciocho días del mes de noviembre de mil novecientos noventa y ocho.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SÓLORZANO.- RÚBRICA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- RÚBRICA.- EL SECRETARIO DE DESARROLLO URBANO Y VIVIENDA, ROBERTO EIBENSCHUTZ HARTMAN.- RÚBRICA.- EL SECRETARIO DE DESARROLLO ECONÓMICO, FRANCISCO CANO ESCALANTE.- RÚBRICA.- EL SECRETARIO DEL MEDIO AMBIENTE, ALEJANDRO ENCINAS RODRÍGUEZ.- RÚBRICA.- EL SECRETARIO DE OBRAS Y SERVICIOS, CESAR BUENROSTRO HERNÁNDEZ.- RÚBRICA.- LA SECRETARIA DE EDUCACIÓN, SALUD Y DESARROLLO SOCIAL, CLARA JUSIDMAN RAPOPORT.- RÚBRICA.- EL SECRETARIO DE FINANZAS, ANTONIO ORTÍZ SALINAS.- RÚBRICA.- EL SECRETARIO DE TRANSPORTES Y VIALIDAD, JORGE MARTÍNEZ Y ALMARAZ.- RÚBRICA.- EL SECRETARIO DE SEGURIDAD PÚBLICA, ALEJANDRO GERTZ MANERO.- RÚBRICA.- EL SECRETARIO DE TURISMO, AGUSTÍN ARROYO LEGASPI.- RÚBRICA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 11 DE MARZO DE 2003.
+
+PRIMERO - El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal
+
+SEGUNDO.- Se derogan todas las disposiciones legales, administrativas y reglamentarias que se opongan a lo establecido en el presente Decreto.
+
+TERCERO.- Los procedimientos que a la entrada en vigor de este documento se encuentren en proceso, se continuarán hasta su terminación conforme a las disposiciones jurídicas aplicables en su inicio.
+
+CUARTO.- El titular del órgano ejecutivo local, deberá realizar las modificaciones reglamentarias correspondientes dentro de los sesenta días hábiles siguientes a la entradavigor (sic) del presente Decreto.
