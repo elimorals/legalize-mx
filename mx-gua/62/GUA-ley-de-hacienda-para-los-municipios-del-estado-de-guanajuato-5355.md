@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-hacienda-para-los-municipios-del-estado-de-guanajuato-53
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-26"
-last_updated: "1994-12-27"
+last_updated: "1995-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1995.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 26 de diciembre de 1989.
 
@@ -1517,6 +1517,10 @@ III.- (DEROGADA, P.O. 25 DE DICIEMBRE DE 1990)
 
 Cuando se trate de vivienda de interés social o popular, en los términos de la fracción II del artículo 3o. de la Ley de Vivienda para el Estado de Guanajuato, la base para el pago de éste impuesto será el setenta por ciento del valor que resulte de la aplicación de la tabla de valores que establezca anualmente la Ley de Ingresos para los Municipios del Estado de Guanajuato, siempre y cuando se trate de la única propiedad o posesión del contribuyente.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Tratándose de los inmuebles en los que se presten exclusivamente el servicio de educación de tipo medio-superior y superior, a que se refiere el artículo 164 inciso a) de esta Ley, la base será el 15% del valor determinado en los términos del párrafo anterior.
+
 ###### ARTICULO 163.
 
 (DEROGADO, P.O. 27 DE DICIEMBRE DE 1994)
@@ -1533,9 +1537,9 @@ Si como resultado de la aplicación de las tasas que señala la Ley de Ingresos 
 
 Asimismo, tributarán bajo la cuota mínima los bienes inmuebles que se encuentren en los siguientes supuestos:
 
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia.
+A).- Los destinados al servicio de educación cuya constitución y funcionamiento se ajusten a las leyes de la materia, no quedan comprendidos en este supuesto, los inmuebles en los que se preste exclusivamente, el servicio de educación medio-superior y superior, en los términos, de la Ley General de Educación, cuando cobren colegiaturas, debiendo tributar de acuerdo a lo que establece el último párrafo del artículo 162 de esta Ley.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 1991)</small>
 
@@ -1545,9 +1549,9 @@ B).- Los que perteneciendo a particulares, estén destinados a un servicio públ
 
 C).- Los que sean propiedad de asociaciones, fundaciones e instalaciones de beneficencia y asistencia social, siempre que estén destinados directamente a los fines de las mismas.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
 
-D).- Los que pertenezcan a jubilados y pensionados o cónyuges, concubina o concubinario, viudos o viudas de éstos, siempre que se trate del inmueble que habiten o sea única propiedad y el valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar en donde se encuentre el inmueble.
+D).- Las casas habitación, que pertenezcan a jubilados y pensionados o cónyuges, concubina o concubinario, viudos o viudas de éstos, así como las personas de sesenta años o más de edad, siempre que se trate del inmueble que habitan o sea su única propiedad, y el valor fiscal no exceda de cuarenta veces el salario mínimo general diario elevado al año, que corresponda al lugar donde se encuentre el inmueble.
 
 En caso de que el valor del inmueble exceda el límite señalado en el párrafo anterior, se deberá aplicar la tasa correspondiente sobre el excedente; y
 
@@ -2151,7 +2155,9 @@ Los inmuebles que las tesorerías municipales se hayan adjudicado en pago de con
 
 Las tesorerías municipales, llevaran un registro de los inmuebles del municipio haciendo relación de títulos y demás características necesarias para su identificación.
 
-Igualmente llevará un inventario de todos los bienes muebles que le pertenecen, cuyo valor exceda de la cantidad que represente cinco veces el salario mínimo general diario que corresponda; ninguno de ellos podrá ser dado de baja sin autorización expresa del ayuntamiento.
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 1995)</small>
+
+Igualmente, llevará un inventario de todos los bienes muebles que le pertenecen, cuyo valor exceda de la cantidad que represente veinte veces el salario mínimo general diario que corresponda, elaborándose el resguardo correspondiente por cada uno de ellos. Ninguno podrá ser dado de baja sin autorización expresa del Ayuntamiento, salvo aquellos bienes muebles cuyo valor sea inferior a la cantidad antes indicada, para los cuales se elaborará el resguardo económico respectivo.
 
 ###### ARTICULO 256.
 
@@ -2320,3 +2326,23 @@ El presente decreto entrará en vigor el cuarto día siguiente al de su publicac
 ###### ARTICULO SEGUNDO.
 
 Las asociaciones religiosas constituidas en los términos de la Ley de Asociaciones Religiosas y Culto Público, no pagarán el impuesto sobre traslación de dominio, que establece esta Ley, por las adquisiciones que realicen hasta el 31 de diciembre de 1995.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+DECRETO NUMERO 157, QUE ADICIONA EL ARTICULO 162 Y REFORMA EL 164 DE LA LEY.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el primero de enero de 1996 mil novecientos noventa y seis.
+
+P.O. 26 DE DICIEMBRE DE 1995.
+
+DECRETO NUMERO 162, QUE REFORMA EL ARTICULO 255 DE LA LEY.
+
+###### ARTICULO PRIMERO.
+
+El presente decreto entrara en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Los bienes inmuebles que hayan sido adquiridos y registrados por los municipios hasta antes de la entrada en vigor del presente decreto, deberán permanecer en el rubro en que hayan sido registrados, independientemente de su valor original.
