@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-hacienda-del-estado-de-baja-california-3578"
 country: "mx"
 rank: "ley"
 publication_date: "1972-12-31"
-last_updated: "1983-07-20"
+last_updated: "1988-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JULIO DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1988.
 
 Ley publicada en la Sección Décimo Tercera del Periódico Oficial del Estado de Baja California, el 31 de diciembre de 1972.
 
@@ -621,13 +621,13 @@ III.- Los almacenes o bodegas que no perciban ingresos, presentarán por una sol
 
 El impuesto se causará y pagará conforme a las tasas y cuotas que fije la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
 
 ###### ARTICULO 54.
 
 El impuesto se causará y pagará mensualmente en razón de los ingresos gravables que obtengan los causantes. Tratándose de ventas de primera mano de gasolina y otros productos derivados del petróleo distintos del gas doméstico, el impuesto se pagará en el momento en que el causante adquiera los productos siendo recaudado por Petróleos Mexicanos en los términos del Reglamento del Artículo 21 de la Ley del Impuesto Sobre Consumo de Gasolina.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1973)</small>
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1976)</small>
 
 ###### ARTICULO 55.
 
@@ -1563,7 +1563,11 @@ DE E. POR DISPOSICION DEL ARTICULO PRIMERO DEL DECRETO No. 164, SE SUSPENDE TOTA
 
 a).- Enajenación de bienes o prestación de servicios, cuando unos u otros se exporten, en los términos del Artículo 29 de la Ley del Impuesto al Valor Agregado;
 
-b).- Operaciones de maquila para exportación en los términos del Reglamento del párrafo tercero del Artículo 321 del Código Aduanero de los Estados Unidos Mexicanos para la Industria Maquiladora.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1988)</small>
+
+b).- Operaciones de maquila para exportación en los términos de la Legislación Aduanera de los Estados Unidos Mexicanos.
+
+La excepción a que se refiere este Artículo en relación con el inciso anterior, sólo será aplicable, respecto de los pagos que se efectúen durante los dos primeros años de haber iniciado operaciones de maquila para exportación.
 
 c).- Enajenación de bienes o prestación de servicios que se realicen por residentes en el Estado, a quien resida en una entidad federativa diferente a Baja California, siempre que la entrega material de bienes o la prestación de servicios se lleve a cabo fuera del Estado.
 
@@ -2156,3 +2160,17 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Cuando con posterioridad a la vigencia del Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio, se protocolice o inscriba el reconocimiento judicial de una prescripción positiva, la adjudicación de inmuebles en sucesión, remate judicial, administrativo o laboral, que se hubieren efectuado con anterioridad a esa fecha, los contribuyentes podrán determinar y pagar el Impuesto correspondiente en los términos de las disposiciones fiscales vigentes o conforme a las que regían en la fecha en que se realizaron los actos a que se refiere este Artículo.
 
 TERCERO.- Tratándose de los contratos a que se refiere la Fracción III del Artículo 34 de la Ley de Hacienda del Estado, celebrados con anterioridad a la vigencia del Impuesto Sobre Adquisición de Inmuebles y Transmisión de Dominio, se causará este Impuesto al celebrarse el contrato prometido, a menos que se hubiere pagado con anticipación el Impuesto Federal Sobre Adquisición de inmuebles.
+
+P.O. 20 DE FEBRERO DE 1988.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial, Organo del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones Leyes o Acuerdos en lo que se contraponga con lo dispuesto en el presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Las personas físicas o morales, que se dediquen a las actividades señaladas en el inciso b), del Artículo 151-13 que hayan iniciado operaciones durante 1987, cumplirán con todas las obligaciones y quedarán sujetas a este Decreto a partir del 1o. de Enero de 1989.
