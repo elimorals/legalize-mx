@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-judicial-del-estado-de-baja-2994"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1996-04-20"
-last_updated: "1999-04-06"
+last_updated: "2004-08-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 6 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE AGOSTO DE 2004.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de abril de 1996.
 
@@ -233,6 +233,14 @@ Las actas que se levanten de los acuerdos y resoluciones del Pleno, deberán fir
 
 El Presidente del Tribunal Superior de Justicia será electo por mayoría de votos en escrutinio secreto en la primera Sesión Plenaria celebrada durante el mes de abril de cada tres años y estará presidida por el Magistrado de más edad, pudiendo ser reelecto para el periodo inmediato. El Presidente no integrará sala.
 
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+El resultado de la elección de Presidente del Tribunal Superior de Justicia se publicará en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 14 A.- El Presidente del Tribunal Superior de Justicia, tendrá las facultades que le confiere la presente Ley, siendo su función principal la de velar para que la administración de justicia sea pronta y expedita, dictando al efecto las providencias que fueren necesarias, vigilando el funcionamiento de los diversos órganos jurisdiccionales y administrativos por si o por conducto de los servidores públicos facultados al efecto.
+
 ###### ARTICULO 15.
 
 El Presidente del Tribunal Superior de Justicia será sustituido en las ausencias accidentales por el Magistrado que él designe, y de la misma manera, cuando se trate de sustituirlo en una Sesión Plenaria o en algún otro Acto Oficial determinado.
@@ -259,9 +267,13 @@ VI. Practicar visitas de inspección a los Juzgados cuando así lo estime conven
 
 VII. Informar al Pleno de las irregularidades que se encontraren en dichas inspecciones, sin perjuicio de dictar de inmediato, en forma provisional, las medidas que estimare pertinentes;
 
-VIII. A petición de parte interesada y aún de oficio, dictar las medidas pertinentes para remediar las demoras o faltas leves en que incurran los Jueces y demás Servidores Públicos del Poder Judicial en el cumplimiento de sus obligaciones y en el despacho de los negocios, imponiendo la corrección disciplinaria acorde a sus facultades, o en su caso, turnar a quien corresponda para que la imponga si procediere. Si las faltas fueren graves, las turnará al Pleno para que éste dicte el acuerdo correspondiente. Debiéndose observar lo dispuesto en el Título Noveno de esta Ley;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-IX. Dictar las medidas que estime conveniente para que la Administración de Justicia sea pronta y expedita, y para que se observen la disciplina y puntualidad debidas en el Tribunal Superior de Justicia y en los Juzgados del Estado;
+VIII. A petición de parte interesada y aún de oficio, dictar las medidas pertinentes para remediar las demoras, o faltas no graves en que incurran los Servidores Públicos bajo su dependencia jerárquica, en el cumplimiento de sus obligaciones y en el despacho de los negocios, imponiéndoles las (sic) corrección disciplinaria en términos de esta Ley. Si las faltas fueran graves las turnará al Pleno para que éste dicte el acuerdo correspondiente, debiéndose observar lo dispuesto en el Título Noveno de esta Ley.
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+IX. Dictar las medidas que estime conveniente para que se observen la disciplina y puntualidad debidas en el Tribunal Superior de Justicia y en los Juzgados del Estado;
 
 X. Registrar a través de la Secretaría General de Acuerdos, las cédulas expedidas por la Dirección General de Profesiones;
 
@@ -291,7 +303,9 @@ XXII. Formar mensualmente una lista de las diligencias cuya práctica se hubiere
 
 XXIII. Tramitar todos los asuntos de la competencia del Pleno hasta su estado de resolución;
 
-XXIV. Remitir los informes previos y con justificación en los juicios de amparo que se promuevan en contra de las resoluciones del Pleno o las Salas del Tribunal Superior de Justicia;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+XXIV. Rendir los informes previos y con justificación en los juicios de amparo que se promuevan en contra de las resoluciones del Pleno y la Presidencia del Tribunal Superior de Justicia;
 
 XXV. Cuidar que se integren las hojas de servicios de los Servidores Públicos del Poder Judicial, haciendo las anotaciones que procedan, incluyendo quejas fundadas y correcciones disciplinarias impuestas;
 
@@ -307,31 +321,105 @@ La Presidencia del Tribunal Superior de Justicia contará con el auxilio de un S
 
 ### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 19.
 
-El Tribunal Superior de Justicia funcionará con dos Salas mixtas, integradas cada una por tres Magistrados. En caso de ausencia, recusación o excusa de alguno de los Magistrados, integrará Sala un Magistrado de la otra Sala que designe el Pleno. Cuando los tres Magistrados que integran la Sala estuvieren impedidos para conocer un negocio, se turnará a la otra Sala. En el supuesto de que los Magistrados de ambas Salas estuvieren impedidos para conocer del negocio, se integrará una especial que conocerá del asunto, con los Magistrados o Jueces de Primera Instancia, designados por el Tribunal en Pleno, que al efecto se reunirá inmediatamente sin perjuicio de sus labores o funciones.
+El Tribunal Superior de Justicia funcionará en Salas especializadas por materia o ramo. Cuando por las necesidades del servicio haya más de una Sala especializada en la misma materia, para distinguirlas, serán designadas por número ordinal. Cada una de las Salas se integrará con tres Magistrados, uno de los cuales fungirá como Presidente de la misma. En caso de ausencia, recusación o excusa de alguno de los Magistrados, integrará Sala un Magistrado de otra Sala que designe el Pleno. Cuando los tres Magistrados que integran la Sala estuvieran impedidos para conocer un negocio, se turnará a la otra Sala. En el supuesto de que los Magistrados de las Salas estuvieren impedidos para conocer del negocio, se integrará una especial que conocerá del asunto, con los Magistrados o Jueces de Primera Instancia, designados por el Pleno del Tribunal Superior de Justicia, que al efecto se reunirá inmediatamente sin perjuicio de sus labores o funciones.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 20.
 
-Cada Sala actuará colegiadamente en la celebración de audiencias, práctica de diligencias, aprobación y firma de acuerdos, discusión y resolución de los asuntos.
+Cada Sala elegirá, de entre los Magistrados que la integren, un Presidente que durará en su cargo un año y podrá ser reelecto. La elección, se hará en la primera sesión del mes de enero de cada año.
+
+En los casos de excusa o recusación de un Presidente de Sala, lo suplirá el Presidente de la otra Sala y en su defecto, por el Magistrado que el propio Tribunal en Pleno determine.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 20 A.- Son atribuciones del Presidente de cada una de las Salas del Tribunal Superior de Justicia en los asuntos de su competencia:
+
+I. Despachar la correspondencia de la Sala autorizándola con su firma;
+
+II. Distribuir por riguroso turno los negocios entre los Magistrados miembros de la Sala, incluido él, para su estudio y presentación oportuna del proyecto de resolución o ponencia que en cada Toca deba dictarse.
+
+III. Rendir los informes previos y con justificación en los Juicios de Amparo que se promuevan en contra de las resoluciones de la Sala del Tribunal Superior de Justicia;
+
+IV. Vigilar que los proyectos de resolución redactados por escrito, sean distribuidos para su estudio, a los Magistrados integrantes de la Sala, cuando menos tres días hábiles antes de la sesión.
+
+V. Convocar y presidir las sesiones de la Sala, cuidar el orden de la misma y dirigir la discusión de los negocios sometidos al conocimiento de la Sala y ponerlos a votación cuando la Sala declare terminado el debate;
+
+VI. Remitir los informes estadísticos de la Sala a la Dirección de Estadística, Informática y Computación; y (sic)
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 21.
 
-Las determinaciones de las Salas se tomarán por unanimidad o por mayoría de votos; y en éste último caso con voto particular del disidente.
+Cada Sala actuará colegiadamente en la celebración de audiencias, práctica de diligencias, aprobación y firma de acuerdos, discusión y resolución de los asuntos.
 
-Cada uno de los Magistrados desempeñará el cargo de Semanero para el efecto del acuerdo de los asuntos.
+Las resoluciones de las Salas del Tribunal Superior de Justicia, se tomarán por unanimidad o por mayoría de votos, sin que ningún Magistrado pueda abstenerse de votar, salvo que tuviera impedimento legal. En los casos de votación por mayoría deberá emitirse el voto particular del disidente.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 21 A.- El día señalado para la sesión, el Secretario de Estudios y Proyectos, dará lectura al Proyecto de resolución y a las constancias que señalen los Magistrados y se pondrá a discusión. El asunto suficientemente discutido, a juicio de los Magistrados, se procederá a la votación y acto continuo, el Magistrado Presidente de la sala declarará el resultado de ésta. De no ser aprobado el proyecto, éste será devuelto al Magistrado ponente para que lo modifique de acuerdo al criterio de la mayoría; en el caso de que no esté de acuerdo el ponente con ello, podrá conservar su proyecto como voto particular, debiendo entregar la causa al Presidente de la sala, para el efecto de que lo turne a otro Magistrado de la Sala, a fin de que formule nuevo proyecto de acuerdo con la opinión de la mayoría.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 21 B.- Toda resolución que pronuncien las Salas, deberán ser firmadas por el Magistrado Presidente de la sala y por el Secretario de Acuerdos que dará fe, así como por los Magistrados que estuvieren conformes con la misma, dentro de los cinco días siguientes a la aprobación del Proyecto, siempre que se hubiere aprobado sin adiciones ni reformas.
+
+Si no fuere aprobado el Proyecto pero el Magistrado Ponente aceptare las adiciones y reformas propuestas en la sesión, procederá a redactar la resolución con base a las consideraciones de la discusión.
+
+Si el proyecto del Magistrado Ponente fue aprobado sin adiciones ni reformas, se tendrá como sentencia definitiva y se firmará dentro de los tres días siguientes.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 22.
 
-Corresponde a las Salas:
+Corresponde a los Magistrados de la Sala Civil y Administrativa:
 
-I. Conocer de los recursos de apelación, queja y cualesquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia y Menores que sean de su competencia;
+I. Conocer de los recursos de apelación, apelación extraordinaria, queja y cualesquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia del Ramo Civil, Familiar o Mixtos y Menores, conforme a las Leyes Procesales;
 
-II. Conocer de las excusas y recusaciones de las autoridades y demás Servidores Públicos del Poder Judicial del Estado, en su competencia;
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
 
-III. Turnar al Pleno los asuntos que sean de su competencia; y
+III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
 
-IV. Conocer de los demás asuntos que le encomienden las Leyes.
+IV. Conocer de los asuntos en los que la Ley establezca la revisión de oficio;
+
+V. Conocer de las competencias que se susciten en materia civil, familiar y mercantil entre las autoridades judiciales del Fuero Común del Estado;
+
+VI. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno por conducto del Presidente de la Sala para los efectos conducentes;
+
+VII. Conocer de las excitativas de justicia que se promuevan en contra de los jueces, en los asuntos del orden civil, familiar o mercantil y administrativa (sic);
+
+VIII. Apercibir, amonestar o imponer multas hasta 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto o (sic) a algún órgano o miembro del Poder Judicial del Estado;
+
+IX. Turnar al Pleno por conducto del Presidente de la Sala los asuntos que sean de su competencia;
+
+X. Conocer de los asuntos contencioso administrativos en los términos que señalen las Leyes; y
+
+XI. Conocer de los demás asuntos que le encomienden las Leyes.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 22 A.- Corresponde a los Magistrados de la Sala Penal:
+
+I. Conocer de los recursos de apelación, denegada apelación, quejas y cualquiera otros que la Ley conceda contra los decretos, autos, sentencias y demás resoluciones dictadas por los Jueces de Primera Instancia y Menores en asuntos del orden penal que sean de su competencia;
+
+II. Intervenir en los juicios de amparo que se promuevan en contra de las resoluciones dictadas por la Sala;
+
+III. Conocer de las excusas y recusaciones de los Jueces y demás servidores públicos de la Sala, en el ámbito de su competencia;
+
+IV. Conocer de las contiendas de acumulación que se susciten en materia penal entre las Autoridades del Fuero Común;
+
+V. Vigilar que los Secretarios de Acuerdos y demás servidores públicos de la Sala cumplan con sus deberes respectivos, aplicando las correcciones disciplinarias que sean necesarias y en su caso, dar cuenta al Pleno, por conducto del Presidente de la Sala para los efectos conducentes;
+
+VI. Conocer de las excitativas de justicia que se promuevan en contra de los Jueces del orden penal;
+
+VII. Apercibir, amonestar o imponer multas hasta de 180 días del importe del salario mínimo vigente en el Estado de Baja California Sur, al día de cometerse la falta, a los abogados, agentes de negocios, procuradores o litigantes, cuando en las promociones que hagan ante la Sala falten al respeto o (sic) a algún órgano o miembro del Poder Judicial del Estado;
+
+VIII. Turnar al Pleno, por conducto del Presidente de la Sala los asuntos que sean de su competencia; y
+
+IX. Conocer de los demás asuntos que le encomienden las Leyes.
 
 ### CAPITULO QUINTO. DE LOS SECRETARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL SUPERIOR DE JUSTICIA
 
@@ -341,13 +429,21 @@ El personal del Tribunal Superior de Justicia se compondrá de:
 
 I. Un Secretario General de Acuerdos para el Pleno y la Presidencia;
 
-II. Un Secretario para cada Sala;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-III. Un Actuario para cada Sala;
+II. Los Secretarios de Acuerdos para cada Sala que las necesidades del servicio requiera;
 
-IV. Un Proyectista de Sentencias para cada Sala; y
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-V. De los demás Servidores Públicos que determine el presupuesto.
+III. Los Actuarios para cada Sala que las necesidades del servicio requiera;
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+IV. Los Secretarios de Estudios y Proyectos que las necesidades del servicio requiera para cada Sala; y
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+V. De los demás Servidores Públicos que las necesidades del servicio requiera.
 
 ###### ARTICULO 24.
 
@@ -401,21 +497,49 @@ I. Suplir en su orden al Secretario General de Acuerdos para el Pleno y la Presi
 
 II. Autorizar y remitir los testimonios de las sentencias que dicte la Sala; y
 
-III. Las consignadas en las Fracciones V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XVI, XVII y XVIII del Artículo anterior, en los negocios que sean de la competencia de la Sala.
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+III. Preparar aquellos proyectos que los Magistrados les encomienden procurando ceñirse a las instrucciones que reciban;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+IV. Guardar bajo responsabilidad los pliegos, documentos, valores y expedientes que la Ley o el Presidente de la Sala disponga y entregarlos con las formalidades legales mientras no se envíen al Archivo Judicial los que procedieran;
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+V. Llevar los libros que prevenga la Ley, o que el Presidente de la Sala le encomiende; y
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+VI. Las consignadas en las Fracciones V, VI, VII, VIII, IX, X, XI, XII, XIV y XVIII, del artículo 25, en los negocios que sean de la competencia de la Sala.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 27.
 
-Para ser Proyectista de Sentencias se requieren los requisitos previstos por el artículo 42 de esta Ley.
+Para ser Secretario de Estudios y Proyectos, se requieren los requisitos previstos por el artículo 42 de esta Ley.
+
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 28.
 
-Corresponde a los Proyectistas de Sentencias de las Salas:
+Corresponde a los Secretarios de Estudios y Proyectos de las Salas:
 
-I. Preparar los proyectos de resoluciones y sentencias de todos los asuntos que los Magistrados le encomienden, procurando señirse (sic) a las instrucciones que de ellos reciban;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+I. Preparar los proyectos de resoluciones y sentencias en todos los asuntos que los Magistrados de su Sala les encomienden procurando ceñirse a las instrucciones que de ellos reciban.
 
 II. Guardar bajo su estricta responsabilidad, los expedientes cuyos proyectos se le encomienden;
 
 III. Entregar al Magistrado ponente los expedientes en el término que se le conceda para elaborar su proyecto.
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+IV. Acudir a las sesiones de la Sala, para los efectos señalados en el artículo 21 A de esta Ley; y
+
+> <small>(ADICIONADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+V. Las demás funciones que les encomienden los Magistrados de la Sala, esta Ley y su reglamento.
 
 ###### ARTICULO 29.
 
@@ -1521,169 +1645,525 @@ La autoridad que ordene o ejecute la detención o privación de la libertad de a
 
 Los demás Servidores Públicos del Poder Judicial del Estado, en la comisión de delitos, serán consignados a las Autoridades Judiciales sin la intervención del Tribunal Superior de Justicia en Pleno, y el procedimiento se regirá por las disposiciones del orden común, al decretárseles la formal prisión o sujeción a proceso hasta en tanto se dicte sentencia; en caso de ser absolutoria, podrá volver a ocupar su cargo.
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 155.
 
-Se consideran como faltas oficiales de los Magistrados, las siguientes:
+Son sujetos de responsabilidad administrativa todos los servidores públicos del Poder Judicial, cualquiera que sea su jerarquía.
 
-I. Faltar a las sesiones del Pleno y audiencias, sin causa justificada;
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
-II. Desintegrar, sin motivo justificado, el quórum en los Plenos, vistas y audiencias, una vez comenzados;
+ARTICULO 155 A.- La acción disciplinaria y la sanción que corresponda, procede aún en los casos en que el servidor público renuncie o abandone su cargo.
 
-III. No presentar, por negligencia, oportunamente, el proyecto de resolución de los asuntos de su ponencia a la Sala o al Pleno,
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
-IV. No concurrir a las sesiones de la Sala o del Pleno;
+ARTICULO 155 B.- La acción disciplinaria prescribe en un año, contado desde el día siguiente a aquél en que se hubiere cometido la falta, o a partir de que hubiere cesado, si fuere de carácter continuo.
 
-V. No cumplir con las obligaciones de Magistrado Semanero;
+La iniciación del procedimiento correspondiente interrumpe la prescripción.
 
-VI. No concurrir, sin causa justificada, al desempeño de sus labores oficiales durante las horas reglamentarias; y
+Cuando los actos u omisiones, que se le imputen al servidor público, sean graves, o se obtenga algún lucro o se causen daños o perjuicios cualquiera que sea su monto, el plazo de prescripción será de tres años.
 
-VII. Todos aquellos actos u omisiones similares a los contemplados en las anteriores fracciones, que se aparten de la rectitud y puedan causar desprestigio al buen nombre de la Justicia.
+(REUBICADO, B.O. 10 DE AGOSTO DE 2004)
 
-### CAPITULO SEGUNDO. DE LAS FALTAS OFICIALES
+### CAPITULO SEGUNDO. DE LA RESPONSABILIDAD Y FALTAS ADMINISTRATIVAS
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 156.
 
-Son faltas oficiales de los Jueces:
+Se consideran faltas administrativas del Presidente del Tribunal Superior de Justicia, de los Magistrados, y de los Presidentes de las Salas, las acciones u omisiones siguientes:
 
-I. No presentarse, sin causa justificada, dentro de los ocho días siguientes a la notificación de su designación, a tomar posesión de su cargo;
+I. No presentar, por negligencia, oportunamente, el Proyecto de Resolución de los asuntos de su Ponencia a la Sala o al Pleno del Tribunal Superior de Justicia;
 
-II. Faltar, sin causa justificada, por más de tres días consecutivos a sus labores;
+II. No concurrir, sin causa justificada, a las sesiones de la Sala o del Pleno del Tribunal Superior de Justicia.
 
-III. No dictar, sin causa justificada, dentro del término señalado por la Ley, los acuerdos que procedan a los escritos y promociones de las partes;
+III. No cumplir con las obligaciones de Magistrado Presidente de Sala.
 
-IV. No dictar, sin causa justificada, dentro del término que señala la Ley, las sentencias interlocutorias o definitivas de los negocios de su conocimiento;
+IV. No concurrir sin causa justificada al desempeño oportuno de sus labores oficiales;
 
-V. No concluir, sin causa justificada, dentro del término de Ley, la instrucción de los procesos de su conocimiento;
+V. Dictar resoluciones o trámites infundados o notoriamente innecesarios que sólo tiendan a dilatar el proceso;
 
-VI. Dictar resoluciones o trámites notoriamente innecesarios, que sólo tiendan a dilatar el procedimiento;
+VI. Actuar en los negocios en que estuvieren impedidos por las causas previstas en los ordenamientos legales, con pleno conocimiento de esta circunstancia;
 
-VII. Admitir fianzas o contrafianzas en los casos que prescriben las Leyes, de personas que no acrediten suficientemente su solvencia y la libertad de gravámenes de los bienes que sirvan para ello.
+VII. Abstenerse, sin causa justificada, de dictar dentro de los términos señalados por la Ley, las resoluciones que provean legalmente las promociones de las partes, o las sentencias definitivas o interlocutorias en los negocios de su conocimiento;
 
-VIII. Hacer uso, en perjuicio de las partes de los medios de apremio sin causa justificada; y
+VIII. Ejercer influencia para que el nombramiento del personal de las Salas o Juzgados, recaiga en persona determinada o que no reúna los requisitos legales.
 
-IX. Las previstas en las fracciones VI y VII del Artículo anterior.
+IX. Asignar a los servidores públicos del Poder Judicial, labores ajenas a sus funciones;
 
-###### ARTICULO 157.
+X. Emitir opinión pública que implique prejuzgar sobre un asunto de su conocimiento;
 
-Son faltas oficiales de los Secretarios:
+XI. Impedir en los procedimientos judiciales que las partes ejerzan los derechos que legalmente les correspondan;
 
-I. No dar cuenta, dentro del término de la Ley, con los oficios, escritos y promociones de las partes;
+XII. Hacer uso, en perjuicio de las partes de los medios de apremio sin causa justificada;
 
-II. No asentar en autos, dentro del término, las certificaciones que procedan de oficio o por mandato judicial;
+XIII. No preservar la dignidad, imparcialidad y profesionalismo propios de la función judicial en el desempeño de sus labores.
 
-III. No diligenciar, dentro de las 24 horas siguientes a aquellas a las que surtan efecto, las resoluciones judiciales, a menos que exista causa justificada;
+XIV. Admitir fianzas o contrafianzas en los casos que prescriben las Leyes, de personas que no acrediten suficientemente su solvencia y la libertad de gravámenes de los bienes que sirvan para ello;
 
-IV. No dar cuenta al Presidente, Magistrados o Jueces, de las faltas u omisiones que personalmente hubieren notado en los Servidores Públicos subalternos de la oficina, o que se le denuncien por el público, verbalmente o por escrito;
+XV. Dirigirse en forma irrespetuosa o atentar contra la dignidad personal de los usuarios del servicio de justicia; y
 
-V. No engrosar, dentro de los ocho días siguientes a la decisión del negocio, la sentencia que corresponda en los casos que fuera su obligación hacerlo;
+XVI. Todos aquellos actos u omisiones similares a los contemplados en las fracciones anteriores que se aparten de la rectitud y puedan causar el desprestigio al buen nombre de la administración de justicia.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 156 A.- Si la falta se cometiere porque los Magistrados de las Salas por retardo injustificado no dicten sus resoluciones dentro de un término prudente, solamente será responsable el ponente, cuando no presentare oportunamente el Proyecto respectivo a la consideración de los otros Magistrados. Los tres Magistrados serán responsables si al haberse presentado la ponencia correspondiente no concurrieren a la discusión del negocio o dejaren de emitir su voto sin causa justificada.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 156 B.- Son faltas administrativas de los Jueces, las acciones u omisiones siguientes:
+
+I. No presentarse, sin causa justificada, dentro de los cinco días siguientes a la notificación de su designación, a tomar posesión de su cargo;
+
+II. No concluir, sin causa justificada, dentro del término de la Ley, la instrucción de los procesos de su conocimiento;
+
+III. Hacer declaraciones de rebeldía en perjuicio de alguna de las partes, sin que las notificaciones o citaciones anteriores hayan sido hechas en forma legal o antes de que transcurra el plazo previsto en la Ley;
+
+IV. Abandonar, sin la autorización correspondiente, la residencia del juzgado al que esté adscrito, o dejar de desempeñar las funciones o labores que tenga a su cargo;
+
+V. No remitir en tiempo los informes estadísticos a la superioridad sin causa justificada; y
+
+VI. Las previstas en las fracciones IV, V, VI, IX, XI, XII, XIII, XIV, XV y XVI del artículo 156 de esta Ley.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 156 C.- Son faltas administrativas de los Secretarios de Acuerdos del Pleno, las Salas y los Juzgados:
+
+I. No dar cuenta, dentro del término de la Ley, con los oficios, escritos y promociones de las partes.
+
+II. No asentar en autos, dentro del término, las certificaciones que procedan de oficio o por mandato judicial.
+
+III. No diligenciar, dentro de las 24 horas siguientes a aquéllas a las que surtan efecto, las resoluciones judiciales, a menos que exista causa justificada.
+
+IV. No dar cuenta al Presidente, Magistrados o Jueces en su caso, de las faltas u omisiones que personalmente hubieren notado en los servidores públicos subalternos de la oficina, o que se le denuncien por el público verbalmente o por escrito;
+
+V. No engrosar, dentro de los ocho días siguientes a la decisión del negocio, la sentencia que corresponda en los casos que fuera su obligación hacerlo.
 
 VI. No remitir al archivo correspondiente los expedientes conforme a la Ley;
 
-VII. No entregar a los Actuarios expedientes de notificación personal o pendientes de diligencia cuando deban hacerse fuera del Juzgado;
+VII. No entregar a la Central de Actuarios o a los Actuarios, en sus respectivos casos, los expedientes de notificación personal o pendientes de diligencia cuando deban hacerse fuera del Juzgado.
 
-VIII. No hacer a las partes las notificaciones personales que procedan, cuando concurran al Juzgado o Tribunal dentro del término de Ley;
+VIII. No hacer a las partes las notificaciones personales que procedan cuando concurran al Tribunal o al Juzgado dentro del término de Ley;
 
-IX. No mostrar a las partes, sin causa justificada, cuando les soliciten los expedientes;
+IX. No mostrar, sin causa justificada, los expedientes a las partes cuando lo soliciten;
 
 X. No obedecer las órdenes que conforme a sus atribuciones les impartan sus Superiores; y
 
-XI. Las señaladas en las fracciones VI y VII del Artículo 155 y I y II del Artículo anterior.
+XI. Las previstas en las fracciones IV, VI, VIII, XI, XII, XIII, XV y XVI, del artículo 156 y en las fracciones I y V del artículo 156 B, de la presente Ley.
 
-### CAPITULO TERCERO. DE LAS CORRECCIONES DISCIPLINARIAS
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 156 D.- Son faltas administrativas de los Actuarios:
+
+I. No hacer, con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones, cuando deban efectuarse fuera del Juzgado o Tribunal;
+
+II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendados.
+
+III. Dar preferencia a alguno o algunos de los litigantes y con perjuicio de otros, por cualquiera causa que sea, en la diligencia de sus asuntos en general y, especialmente, para llevar a cabo las que se determinan en la fracción que antecede;
+
+IV. Practicar notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia;
+
+V. Practicar embargos, aseguramiento, retención de bienes o lanzamientos, a personas físicas o jurídicas que no sean las designadas en el auto respectivo, o cuando en el momento de la diligencia o antes de retirarse el personal del Juzgado, se demuestre fehacientemente que esos bienes no pertenecen al ejecutado y para comprobar tal situación, en todo caso deberá agregar a los autos la documentación que se le presente a efecto de dar a cuenta a quien hubiere ordenada la diligencia;
+
+VI. No levantar el acta relativa a la diligencia que practique, en el lugar y momento en que esta se efectúe; y
+
+VII. Las señaladas en las Fracciones IV, VI, VIII, XI, XIII, XV y XVI del artículo 156; I y V del Artículo 156 B y X del artículo 156 C.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 156 E.- Son faltas administrativas de los servidores públicos de confianza, base y supernumerarios:
+
+I. No observar el debido respeto y subordinación hacia sus superiores jerárquicos inmediatos o mediatos.
+
+II. Incumplir las disposiciones que sus superiores jerárquicos dicten en el cumplimiento de sus atribuciones;
+
+III. Dejar de cumplir con diligencia las instrucciones, requerimientos o trabajos que le sean encomendados;
+
+IV. Recibir gratificaciones de cualquier índole; y
+
+V. Las previstas en el artículo siguiente de esta Ley, en lo que les fueren aplicables.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 157.
+
+Todo servidor público del Poder Judicial, tendrá las siguientes obligaciones para salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia que deben ser observadas en el desempeño de su empleo, cargo o comisión y cuyo incumplimiento, dará lugar al procedimiento y a las sanciones que correspondan, sin perjuicio de sus derechos laborales:
+
+I. Cumplir con la mayor diligencia el servicio que le sea encomendado.
+
+II. Abstenerse de cualquier acto u omisión que causen la suspensión o deficiencia de dicho servicio o implique abuso o ejercicio indebido de su empleo, cargo o comisión;
+
+III. Utilizar los recursos que tengan asignados para el desempeño de su empleo, cargo o comisión, así como las facultades que le sean atribuidas o la información reservada a que tenga acceso por su función exclusivamente para los fines a que están destinados o afectos;
+
+IV. Custodiar y conservar la documentación e información que por razón de su empleo, cargo o comisión, conozca o conserve bajo su cuidado, o a la cual tenga acceso;
+
+V. Abstenerse de destruir, mutilar, ocultar o alterar expedientes o documentos que se conserven en las Salas o los Juzgados;
+
+VI. Observar buena conducta en su empleo, cargo o comisión, tratando con respeto, diligencia, imparcialidad y rectitud a las personas con las que tenga relación con motivo de éste;
+
+VII. Observar en la dirección de sus inferiores jerárquicos las debidas reglas del trato y abstenerse de incurrir en agravio, desviación o abuso de autoridad;
+
+VIII. Observar respeto y subordinación legítimas con respecto a sus superiores jerárquicos inmediatos o mediatos, cumpliendo las disposiciones que éstos dicten en el ejercicio de sus atribuciones;
+
+IX. Abstenerse de ejercer las funciones de un empleo, cargo o comisión, después de concluido el periodo para el cual se le designó, o de haber sido cesado por cualquier otra causa, en el ejercicio de sus funciones;
+
+X. Abstenerse de disponer o autorizar a un subordinado a no asistir sin causa justificada a sus labores, así como de otorgar indebidamente permisos, licencias o comisiones con goce parcial o total de sueldo y otras percepciones, cuando las necesidades del servicio no lo requiera;
+
+XI. Abstenerse de desempeñar algún otro empleo, cargo o comisión oficial o particular, que la Ley prohiba, con excepción de la docencia;
+
+XII. Abstenerse de autorizar la selección, contratación, nombramiento o designación de quien se encuentre inhabilitado por resolución firme de la autoridad competente para ocupar un empleo, cargo o comisión en el servicio público, teniendo conocimiento de ello;
+
+XIII. Excusarse por sí o previa recusación de intervenir en cualquier forma en la atención, tramitación o resolución de asuntos en los que tenga interés personal, familiar o de negocios, incluyendo aquellos de los que pueda resultar algún beneficio para él, su cónyuge o parientes consanguíneos hasta el cuarto grado, por afinidad o civiles, o para terceros con los que tenga relaciones profesionales, laborales o de negocios o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte;
+
+XIV. Abstenerse, durante el ejercicio de sus funciones, de solicitar, aceptar o recibir, por sí o por interpósita persona, dinero, objetos, mediante enajenación a su favor en precio notoriamente inferior al que el bien de que se trate tenga en el mercado ordinario, o cualquier donación, empleo, cargo o comisión para sí, o para las personas a que se refiere la fracción XIII de este artículo, y que procedan de cualquier persona física o jurídica cuyas actividades profesionales, comerciales o industriales se encuentren directamente vinculadas con el servidor público de que se trate en el desempeño de su empleo, cargo o comisión y que implique intereses en conflicto; o cualquier otra dádiva o servicio para sí o para un tercero; o acepte una promesa para hacer o dejar de hacer algo justo o injusto relacionado con sus funciones. Esta prevención, es aplicable hasta un año después de que se haya retirado del empleo, cargo o comisión;
+
+XV. Desempeñar su empleo, cargo o comisión sin obtener o tratar de obtener beneficios adicionales a las contraprestaciones comprobables que el erario público le otorga por el desempeño de su función, sean para él o para las personas a que se refiere la fracción XIII de este artículo;
+
+XVI. Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción, cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios, en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas a que se refiere la fracción XIII de este artículo;
+
+XVII. Presentar con oportunidad y veracidad, las declaraciones sobre situación patrimonial, en los términos que señala la Ley de Responsabilidades para los Servidores Públicos del Estado y Municipios de Baja California Sur;
+
+XVIII. Proporcionar en forma oportuna y veraz, toda la información y datos solicitados por las instituciones a la que legalmente les competa la vigilancia y defensa de los derechos humanos, a efecto de que puedan cumplir con las facultades y atribuciones que les corresponda;
+
+XIX. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público;
+
+XX. Asistir puntualmente al desempeño de sus labores;
+
+XXI. Dejar de asistir sin motivo justificado al despacho de su oficina o cerrarla limitando indebidamente las horas de trabajo;
+
+XXII. Informar a su superior jerárquico o al titular de su dependencia de todo acto u omisión de los servidores públicos sujetos a su dirección que puedan implicar inobservancia de las obligaciones propias del cargo:
+
+XXIII. Abstenerse de desempeñar su labor en estado de embriaguez o bajo el influjo de estupefacientes, o hacer uso de éstos en el lugar en que le tocare desempeñarse;
+
+XXIV. Abstenerse de consumir alimentos fuera de las áreas destinadas para ello; o realizar compras o ventas en el interior del recinto de la Sala, Juzgado u oficina en el horario del trabajo;
+
+XXV. Asistir puntualmente a la celebración de ceremonias o actos oficiales del Poder Judicial a los que fueren convocados;
+
+XXVI. Asistir a los cursos de capacitación, conferencias o reuniones de trabajo a que fueren convocados;
+
+XXVII. Despachar oportunamente los oficios y llevar a cabo las diligencias que se le encomienden; y
+
+XXVIII. Las demás que le impongan las leyes y reglamentos.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 157 A.- Todo servidor público deberá abstenerse de actuar con morosidad, mala conducta pública, impericia o falta de respeto en el desempeño de sus funciones.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 157 B.- Para los efectos de lo dispuesto en el artículo anterior, se entiende por:
+
+I. Morosidad: toda dilación injustificada en el despacho de los negocios de su competencia, demora habitual en acordar y la falta de asistencia consuetudinaria a la oficina, sin causa justificada;
+
+II. Mala conducta pública: todos aquellos actos que sean del dominio público y que resten honorabilidad y responsabilidad al servidor público, a juicio del Tribunal en pleno;
+
+III. Impericia: la falta de aptitud para el desempeño del puesto, a juicio del Tribunal en pleno, juicio que se fundará cuando menos en más de dos casos que revelen notoria incapacidad del servidor público de que se trate; y
+
+IV. Falta de respeto: todo acto ejecutado contra la dignidad y respeto que merece toda oficina pública y contra las consideraciones que deben guardarse al superior respectivo.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 157 C.- También se consideran faltas administrativas y se sancionarán como tales, las infracciones y omisiones en que incurran los servidores públicos del Poder Judicial, con relación a los deberes que le impone esta Ley y las demás sustantivas y adjetivas aplicables en el Estado.
+
+(REUBICADO, B.O. 10 DE AGOSTO DE 2004)
+
+### CAPITULO TERCERO
+
+DE LAS SANCIONES Y SU APLICACIÓN.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 158.
 
-Son faltas oficiales de los Actuarios:
+Las sanciones aplicables a las faltas administrativas podrán consistir en:
 
-I. No hacer, con la debida oportunidad y sin causa justificada, las notificaciones personales, ni llevar a cabo las diligencias de sus atribuciones cuando deban efectuarse fuera del Juzgado ó Tribunal;
+I. Apercibimiento;
 
-II. Retardar indebida o maliciosamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase, que les fueren encomendados;
+II. Amonestación;
 
-III. Dar preferencia a alguno o algunos de los litigantes y con perjuicio de otros, por cualquier causa que sea, en la diligencia de sus asuntos en general y, especialmente, para llevar a cabo las que se determinan en la fracción que antecede;
+III. Sanción económica;
 
-IV. Hacer notificaciones, citaciones o emplazamientos a las partes, por cédula o instructivo, fuera del lugar designado en autos o sin cerciorarse, cuando proceda, de que el interesado tiene su domicilio en donde se lleva a cabo la diligencia;
+IV. Suspensión;
 
-V. Practicar embargos, aseguramiento o retención de bienes o lanzamientos de personas o corporaciones que no sean las designadas en el auto respectivo, o cuando en el momento de la diligencia se le demuestre fehacientemente que esos bienes no pertenecen al ejecutado; y
+V. Destitución del cargo; y
 
-VI. Las señaladas en las fracciones VI y VII del artículo 154, I y II del Artículo 156, y X del artículo anterior.
+VI. Inhabilitación temporal para desempeñar empleo, cargo o comisión en el Poder Judicial del Estado.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 A.- El apercibimiento consiste en la prevención verbal o escrita que se haga al servidor público, en el sentido de que, de incurrir en una nueva falta, se le aplicará una o más de las sanciones previstas en el artículo anterior, según sea el caso.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 B.- La amonestación consiste en la reprensión verbal o escrita que se haga al infractor por la falta cometida.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 C.- La sanción económica que se imponga al infractor, no podrá ser inferior a un día de salario, ni exceder de treinta días de salario, debiendo hacerse efectiva mediante descuento en nómina, de cuotas iguales, no superiores a la quinta parte de su sueldo mensual, o bien, a través del procedimiento económico coactivo con intervención de la autoridad competente.
+
+En el caso de aplicación de sanciones económicas por beneficios obtenidos o daños y perjuicios causados por los actos u omisiones en que incurra, no podrán exceder de tres tantos de la cuantificación de éstos.
+
+Las sanciones económicas se impondrán a razón de días de salario. Para calcular su importe, se tendrá como base el salario mínimo vigente en el Estado de Baja California Sur, al momento de realizarse la conducta sancionada.
+
+Las sanciones económicas establecidas en este artículo, se pagarán una vez determinadas en cantidad líquida, en su equivalencia en salarios mínimos vigentes al día de su pago.
+
+Las sanciones económicas, constituyen créditos fiscales en favor del Fondo Auxiliar para la Administración de Justicia y se harán efectivas mediante el procedimiento económico coactivo, previsto para dichos créditos y se sujetarán en todo, a las disposiciones fiscales en la materia.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 D.- La suspensión consiste en la separación temporal, que salvo lo dispuesto en el artículo 166 B, tercer párrafo, en ningún caso podrá exceder de tres meses del cargo, empleo o comisión, privando al servidor público del derecho de percibir remuneración o cualquiera otra de las prestaciones económicas a que tenga derecho.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 E.- La destitución consiste en la pérdida definitiva del empleo, cargo o comisión.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 158 F.- La inhabilitación implica la incapacidad temporal, hasta por dos años para obtener y ejercer cargo, empleo o comisión, dentro del Poder Judicial, cuando no se obtenga ningún lucro ni se causen daños o perjuicios.
+
+En caso de que se obtenga algún lucro o se causen daños o perjuicios, la inhabilitación será de seis meses a tres años si el monto de éstos no excede de quinientas veces el salario mínimo vigente en el Estado y de tres a diez años si excede de dicho límite. Este último plazo de inhabilitación, también será aplicable cuando sin exceder de dicho monto exista reincidencia o se trate de conductas graves.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 159.
 
-Son faltas oficiales de los Servidores Públicos de los Juzgados y del Tribunal Superior de Justicia:
+Las sanciones administrativas se impondrán tomando en cuenta:
 
-I. No despachar oportunamente los oficios o no llevar a cabo las diligencias que se les encomienden;
+I. La gravedad de la falta en que se haya incurrido;
 
-II. Actuar con morosidad, mala conducta pública, impericia o falta de respeto en el desempeño de sus funciones; y
+II. El grado de participación;
 
-III. Las señaladas en las fracciones VI y VII del Artículo 155, I y II del Artículo 156, y X del artículo 157 todos de la presente Ley.
+III. La circunstancia socioeconómica del infractor;
+
+IV. Los motivos determinantes que haya tenido y los medios de ejecución;
+
+V. La antigüedad en el servicio;
+
+VI. La reincidencia en el cumplimiento de obligaciones;
+
+VII. El monto del beneficio, daño o perjuicios económicos derivados de la falta cometida; y
+
+VIII. El nivel jerárquico, los antecedentes y las condiciones del infractor.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 159 A.- Las sanciones impuestas se anotarán en la hoja de servicios del servidor público, para cuyo efecto deberá enviarse copia autorizada de la resolución a la Dirección de Recursos Humanos del Tribunal Superior de Justicia.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 160.
 
-Para los efectos de lo dispuesto en el artículo anterior, se entiende:
+Para la aplicación de las sanciones a que se hace referencia en el artículo 158 de esta Ley, se observarán las siguientes reglas:
 
-I. Por morosidad: toda dilación injustificada en el despacho de los negocios de su competencia, demora habitual en acordar y la falta de asistencia consuetudinaria a la oficina, sin causa justificada;
+I. El apercibimiento se aplicará por la primera falta cometida cuando sea leve;
 
-II. Por mala conducta pública: todos aquellos actos que sean del dominio público y que resten honorabilidad y responsabilidad al Servidor Público, a juicio del Tribunal en Pleno;
+II. La amonestación se aplicará solo tratándose de la acumulación de dos faltas leves cometidas en un plazo de treinta días;
 
-III. Por impericia: la falta de aptitud para el desempeño del puesto a juicio del Tribunal, juicio que se fundará cuando menos en más de dos casos que revelen notoria incapacidad del Servidor Público del que se trate; y
+III. Después de dos amonestaciones, se impondrá sanción económica no menor al importe de un día, ni mayor de treinta días de salario;
 
-IV. Por falta de respeto: todo acto ejecutado contra la dignidad y respeto que merece toda oficina pública y contra las consideraciones que deben guardarse al Superior respectivo.
+IV. La triple sanción por faltas leves o la comisión de una falta grave, motivará la suspensión del cargo, empleo o comisión;
+
+V. La destitución se aplicará como primera sanción en caso de faltas graves o cuando después de una sanción de suspensión, se cometiere una nueva falta que ajuicio del Pleno así lo amerite.
+
+Para los efectos de esta Ley, se consideran faltas graves las previstas en los artículos 156 fracciones VI y X; 156 E fracción IV y 157 fracciones V, IX, XI, XIII, XIV, XV y XVI. La mala conducta pública, prevista en el artículo 157 A.
+
+Las restantes previstas en los artículos 156, 156 A, 156 B, 156 C, 156 D, 156 E, 157 y 157 A, no se considerarán faltas graves.
+
+Cuando la destitución del cargo, empleo o comisión afecte a un servidor público de base, se procederá a la terminación de su contrato ante quien corresponda; y
+
+VI. La inhabilitación para desempeñar un empleo, cargo o comisión en el Poder Judicial, será aplicable por resolución que dicte el Pleno del Tribunal Superior de Justicia o por la autoridad competente en términos de lo dispuesto por la Constitución Política del Estado de Baja California Sur, y la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 161.
 
-También se consideran faltas oficiales y se sancionarán como tales, las infracciones y omisiones en que incurran los Servidores Públicos del Poder Judicial, con relación a los deberes que les impone esta Ley y las demás sustantivas y adjetivas aplicables en el Estado.
+La potestad disciplinaria se ejercerá:
+
+I. Por el Presidente del Tribunal Superior de Justicia, Magistrados y Jueces, cuando se trate de quejas no graves, en contra de los Secretarios y demás servidores públicos bajo su dependencia jerárquica, y la sanción que les corresponda por la falta cometida sea la de apercibimiento o amonestación;
+
+II. Con excepción de lo dispuesto en la fracción anterior, por el Pleno del Tribunal Superior de Justicia cuando se trate de los Magistrados, Jueces, Secretarios de Acuerdos o cualquier otro servidor público cuya falta amerite sanción de las señaladas en las fracciones III, IV, V y VI del artículo 158 de la presente Ley.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 162.
 
-Para los efectos de las sanciones, se entiende por falta grave, cuando los Servidores Públicos al servicio del Poder Judicial se aparten de las normas de probidad y honradez o disciplina en el desempeño de su cargo.
+En contra del presunto autor de alguna de las faltas previstas en el Capítulo segundo de este Título, se procederá de oficio o en virtud de queja o denuncia presentada por escrito ante el superior jerárquico, o ante el Pleno del Tribunal Superior de Justicia.
+
+Las denuncias que se formulen, deberán estar apoyadas en pruebas documentales o elementos probatorios suficientes, para establecer la existencia de la infracción y presumir la responsabilidad del servidor público denunciado.
+
+Las quejas anónimas o aquéllas que no sean debidamente ratificadas no producirán efecto alguno.
+
+Se desecharán de plano las quejas que sean de manifiesta improcedencia, y aquellas que no estén apoyadas en pruebas suficientes, que permitan presumir la responsabilidad del servidor público denunciado.
+
+Cuando las quejas se promuevan con respecto a los titulares de los Juzgados de Primera Instancia, Mixtos, Menores o de Paz, de un Partido Judicial distinto al de la residencia del Pleno del Tribunal Superior de Justicia, se presentarán directamente ante éstos, o en la Oficialía de Partes, debiendo remitirlas bajo su más estricta responsabilidad, al Pleno del Tribunal Superior de Justicia, dentro del término de 24 horas siguientes a su recepción.
+
+La ratificación correspondiente podrá hacerse ante el propio Juez, o ante el Tribunal Superior de Justicia, a elección del quejoso, dentro del plazo de tres días hábiles, contados a partir de la notificación que se le haga del auto de radicación.
+
+En los casos en que el estarse llevando a cabo una visita de inspección, por Magistrado o por la autoridad que a ese efecto se haya designado, se podrá presentar ante éstos la queja correspondiente, misma que deberá ser ratificada ante quien la reciba.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 162 A.- Todos los servidores públicos tienen la obligación de respetar y hacer respetar el derecho a la formulación de quejas, y de evitar que, con motivo de éstas, se originen molestias indebidas al denunciante.
+
+Incurre en responsabilidad el servidor público que por sí o por interpósita persona, empleando cualquier medio, impida la presentación de alguna queja, o que con motivo de ésta, realice cualquier acto u omisión que lesione injustamente los intereses de quien la formule.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 162 B.- El presidente del Tribunal Superior de Justicia, a petición de parte interesada formulará excitativas a las autoridades que omitan o retarden la iniciación o el trámite de un procedimiento disciplinario.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 162 C.- Si los hechos materia de la queja fueren además constitutivos de responsabilidad política o penal, se ordenará ponerlos en conocimiento de la autoridad competente, acompañándole copia autorizada de las actuaciones conducentes.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 162 D.- Con independencia de si el motivo de la queja o denuncia, da o no lugar a responsabilidad, el Pleno o el presidente del Tribunal Superior de Justicia, en su caso, dictará las providencias oportunas para su corrección o remedio inmediato.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 163.
 
-Las faltas a que se refiere el Artículo anterior, se sancionarán con una corrección disciplinaria, sin perjuicio de consignar el caso al Ministerio Público, cuando pudiere resultar la existencia de un delito.
+La ejecución de las sanciones administrativas impuestas en resolución firme, se llevará a cabo de inmediato en los términos que disponga la resolución
+
+Cuando la resolución haya impuesto como sanción la suspensión, destitución o inhabilitación de los servidores públicos de confianza, surtirá sus efectos al notificarse el auto que la haya declarado firme y se considerará de orden público.
+
+Tratándose de los servidores públicos de base y supernumerarios, la suspensión y la destitución, se sujetará a lo previsto por la Ley para los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California Sur.
+
+Las sanciones económicas que se impongan, constituirán créditos fiscales del erario estatal, y se harán efectivas a favor del Fondo Auxiliar para la Administración de Justicia, mediante el procedimiento económico coactivo de ejecución y tendrán la prelación prevista para dichos créditos y se sujetarán en todo, a las disposiciones fiscales aplicables en la materia.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 163 A.- Si el presunto infractor confesare su responsabilidad, en forma expresa, se procederá de inmediato a dictar la resolución, salvo que existan pruebas que la hagan inverosímil o la contradigan, a no ser que quien conoce el procedimiento, disponga la recepción de pruebas para esclarecer la veracidad de los hechos.
+
+En caso de que se acepte la plena validez probatoria de la confesión, se impondrá al infractor un tercio de la sanción aplicable, si es de naturaleza económica, y siempre deberá restituir lo que hubiere percibido con motivo de la infracción. Quedará al arbitrio prudencial de quien resuelva, dispensar al infractor de la suspensión, separación o inhabilitación en su caso.
+
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
 
 ###### ARTICULO 164.
 
-Se entiende por corrección disciplinaria:
+Si el Pleno o la Sala del Tribunal Superior de Justicia, estimare que la queja fue interpuesta sin motivo, se impondrá al denunciante o a su representante, o abogado, o a ambos una multa de diez a cien días de salario mínimo vigente en el Estado de Baja California Sur, al momento de interponerse la queja.
 
-I. Apercibimiento por escrito;
-
-II. Multa que no exceda del importe del salario de tres días;
-
-III. Suspensión, sin goce de sueldo, que no exceda de un mes; y
-
-IV. Suspensión definitiva.
-
-Las correcciones disciplinarias se impondrán sin sujetarse al orden establecido, y en atención a la gravedad de la falta, y de ellas se tomará razón en la hoja de servicio del servidor público a quien se sancione.
+La resolución de no responsabilidad administrativa, deberá ser publicada en extracto en el Boletín Judicial y en un periódico de mayor circulación a costa del denunciante, cuando el motivo de la falta o queja sea de las consideradas como graves.
 
 ### CAPITULO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
+> <small>(REFORMADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
 ###### ARTICULO 165.
 
-Cuando el Organo sancionador advierta que la falta cometida no es grave para imponer la corrección disciplinaria, deberá, previamente, hacer la declaración de que el infractor incurrió en falta, sin más requisito que oír a éste y al denunciante si lo hubiere y quisiera concurrir, recibiendo en el mismo acto las explicaciones o justificación del caso de una y otra parte. La resolución que corresponda, se pronunciará dentro de los cinco días siguientes, sin ulterior recurso.
+Cuando se trate faltas (sic) que no sean graves, previa ratificación del escrito inicial de queja o denuncia, se correrá traslado al presunto infractor con copia simple de dicho escrito y sus anexos, concediéndole el plazo de tres días hábiles para que conteste por escrito lo que a su interés convenga. Las partes deberán ofrecer las pruebas respectivas en dichos escritos, mismas que de ser admitidas serán desahogadas en una audiencia, la cual deberá celebrarse dentro de los quince días naturales siguientes a la contestación. Una vez contestada la queja o desahogadas las pruebas en su caso, el órgano competente emitirá dictamen dentro de los diez días siguientes.
+
+Se levantará acta circunstanciada de la (sic) diligencias que se practiquen, misma que suscribirán quienes en ellas intervengan, apercibidos de las sanciones en que incurren quienes falten a la verdad.
+
+Contra dicha resolución no procede recurso alguno.
 
 ###### ARTICULO 166.
 
 En los casos de falta grave, el procedimiento se sujetará a las siguientes normas:
 
-I. El Tribunal en Pleno, cuando advierta la falta, podrá iniciar de oficio, el procedimiento;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-II. Los afectados por la comisión de una falta, presentarán su denuncia por escrito ante el Superior jerárquico del infractor, ante quien la ratificarán, previa su identificación, la que contendrá la firma o huella digital del denunciante;
+I. Los afectados por la comisión de una falta administrativa, podrán presentar su denuncia por escrito dirigido al Pleno del Honorable Tribunal Superior de Justicia en el Estado. Cuando el Pleno del Tribunal advierta la falta, podrá iniciar de oficio el procedimiento;
 
-III. De la denuncia se correrá traslado por tres días al infractor para que sea oído y exponga, si lo desea, lo que a su derecho convenga;
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
 
-IV. El Tribunal en Pleno, el denunciante y el infractor, podrán recabar o rendir las pruebas conducentes, dentro de los cinco días siguientes, que no sean contrarias a la moral ni al Derecho; y
+II. Una vez ratificado el escrito de denuncia por la parte afectada, se correrá traslado con la copia simple de dicho escrito, así como de todos y cada uno de los documentos exhibidos, y se emplazará al infractor para que en cinco días hábiles, contados a partir del día siguiente en el que quede debidamente notificado, exprese lo que a su derecho convenga;
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+III. Hecho lo anterior las partes deberán ofrecer las pruebas conducentes en un plazo de cinco días hábiles, mismas que de ser admitidas deberán ser desahogadas en una audiencia, la cual se celebrará dentro de los quince días hábiles siguientes.
+
+El pleno podrá decretar las pruebas que estime necesarias para el debido esclarecimiento de los hechos y el conocimiento de la verdad.
+
+Una vez desahogadas las pruebas, las partes podrán formular alegatos en forma verbal; y
+
+> <small>(REFORMADA, B.O. 10 DE AGOSTO DE 2004)</small>
+
+IV. Agotado el procedimiento, el Tribunal en Pleno emitirá el dictamen correspondiente en los cinco días hábiles siguientes.
 
 V. Agotado el procedimiento, el Tribunal en Pleno, emitirá dictamen fundado y motivado.
 
-## TITULO DECIMO. DE LAS AUSENCIAS, VACACIONES Y LICENCIAS
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 A.- En todo lo no previsto para el procedimiento de responsabilidad administrativa, se aplicará supletoriamente en lo conducente el Código de Procedimientos Civiles vigente en el Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 B.- En cualquier momento, previo o posteriormente a la recepción del informe o a la celebración de la Audiencia de Pruebas, se podrá acordar la suspensión temporal de su cargo, empleo o comisión al presunto infractor, si a juicio del Pleno del Tribunal Superior de Justicia, conviniere para el desarrollo de la investigación. La suspensión temporal no prejuzga sobre la responsabilidad que se impute, lo cual se hará constar expresamente en la determinación de la suspensión.
+
+La suspensión temporal cesará cuando así lo resuelva el Pleno del Tribunal Superior de Justicia, independientemente del estado del procedimiento a que se refiere el presente artículo.
+
+Si el servidor público temporalmente suspendido, no resultare responsable de la falta que se le haya imputado, será restituido en el goce de sus derechos, y se le cubrirán las percepciones que debió recibir durante la suspensión.
+
+La suspensión temporal no deberá exceder de tres meses, salvo que a juicio del Pleno del Tribunal Superior de Justicia, debiera la suspensión subsistir para el debido desahogo de las pruebas, de la investigación, o de la naturaleza propia de la infracción que haya motivado la iniciación del procedimiento disciplinario.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 C.- Entre tanto se substancia el procedimiento disciplinario, y una vez suspendido temporalmente al presunto infractor, deberá proveerse a quien en forma interina deberá suplirlo, a menos que durante el tiempo en que se desahoga este procedimiento, hubiese expirado el período para el que fue nombrado el presunto infractor, caso en el que podrá hacerse nombramiento definitivo. Si se declarara improcedente o infundada la queja a la fecha en que ya se hubiese hecho una designación definitiva, se le cubrirán las percepciones que debió recibir durante la suspensión hasta la fecha en que concluya el período para el que hubiera sido nombrado.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTICULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
+
+## TITULO DECIMO. DE LAS EXCITATIVAS DE JUSTICIA
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 10 DE AGOSTO DE 2004)</small>
+
+### CAPITULO UNICO
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 D.- Las excitativas de justicia tienen por objeto hacer cesar los retardos indebidos en el despacho de los negocios.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 E.- Las excitativas de justicia sólo procederán contra Magistrados y Jueces.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 F.- Procede la excitativa de justicia a petición de cualesquiera de las partes, si transcurren más de 15 días hábiles de la fecha en que deba dictarse una sentencia definitiva, sin que ésta se pronuncie. También a petición de parte agraviada procede dicha excitativa en caso de que transcurran más de 10 días hábiles de la fecha en que deba dictarse un nuevo auto o sentencia interlocutoria, sin que éstos se pronuncien.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 G.- La excitativa de justicia se presentará por escrito ante el Tribunal Superior de Justicia y conocerán el Pleno, cuando se interponga en contra de algún Magistrado y la Sala cuando se trate de un Juez.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 H.- Recibida la excitativa de Justicia el Pleno del Tribunal Superior de Justicia, o la Sala, solicitará informe al funcionario contra quien se promueve, por conducto del actuario adscrito, para lo cual se mandará entregar o remitir la copia simple del escrito de excitativa.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 I.- El plazo para rendir el informe, será dentro del término de tres días siguientes de que se notifique al servidor público.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 J.- Cuando el servidor público del Poder Judicial, no rinda en tiempo oportuno el informe solicitado, se considerará emitido en sentido afirmativo y el Pleno del Tribunal Superior de Justicia, o la Sala, aplicará las medidas de apremio que la Ley establece.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 K.- Rendido el informe se dará vista con él al quejoso por el término de tres días para que exponga o no, lo que a su derecho convenga. El Pleno del Tribunal Superior de Justicia, o la Sala según corresponda, resolverán dentro de los tres días siguientes si ha lugar a la expedición de la excitativa solicitada.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 L.- Encontrándose fundada la excitativa por falta de sentencia en segunda o primera instancia, el Pleno del Tribunal Superior de Justicia, o la Sala según corresponda, concederá un término de 5 días hábiles para que se pronuncie la sentencia.
+
+En caso de ser fundada la excitativa de justicia por falta de pronunciamiento de auto o interlocutoria, el Pleno del Tribunal Superior de Justicia, o la Sala, ordenarán al funcionario público que pronuncie su resolución en un término de 3 días hábiles.
+
+Las excitativas decretadas se notificarán al servidor público por cualquier medio legal, dejando constancia de ello.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 M.- El Tribunal Superior de Justicia, impondrá al Servidor Público contra quien se haya interpuesto la excitativa en caso de que en el término ordenado, no cumpla con el pronunciamiento motivo de ésta, una multa hasta por la cantidad equivalente a 15 días de salario mínimo general vigente en el Estado, que se aplicará al Fondo Auxiliar para la Administración de Justicia.
+
+Asimismo, se remitirá copia certificada de la resolución correspondiente, a la Dirección de Recursos Humanos, para que sea agregada al expediente del servidor público.
+
+> <small>(ADICIONADO, B.O. 10 DE AGOSTO DE 2004)</small>
+
+ARTICULO 166 N.- Cuando el quejoso se desista de su promoción, se tendrá por no interpuesta; pero se procederá a lo que haya lugar, conforme a los datos que arroje el expediente.
+
+> <small>(REFORMADA SU NUMERACION, B.O. 10 DE AGOSTO DE 2004)</small>
+
+## TITULO DECIMO PRIMERO. DE LAS AUSENCIAS, VACACIONES Y LICENCIAS
 
 ### CAPITULO PRIMERO. DEL PROCEDIMIENTO PARA SUPLIR LAS AUSENCIAS DE LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION DE JUSTICIA
-
-## TITULO DECIMO PRIMERO. DEL TRIBUNAL ESTATAL ELECTORAL
-
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
-
-### CAPITULO SEGUNDO. DE LAS AUSENCIAS ACCIDENTALES Y TEMPORALES
 
 ###### ARTICULO 167.
 
@@ -1695,7 +2175,7 @@ Son temporales: por licencia, por falta sin licencia previa, por suspensión de 
 
 Son absolutas: en los casos de renuncia, destitución, imposibilidad física o muerte.
 
-### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
+### CAPITULO SEGUNDO. DE LAS AUSENCIAS ACCIDENTALES Y TEMPORALES
 
 ###### ARTICULO 168.
 
@@ -1725,7 +2205,7 @@ Las ausencias accidentales y temporales de los demás Servidores Públicos Judic
 
 Las ausencias accidentales y temporales de los Servidores Públicos, que excedan de quince días, serán cubiertas por la persona que designe el Pleno del Tribunal Superior de Justicia.
 
-### CAPITULO CUARTO. VACACIONES Y LICENCIAS
+### CAPITULO TERCERO. DE LAS AUSENCIAS ABSOLUTAS
 
 ###### ARTICULO 175.
 
@@ -1739,9 +2219,7 @@ Las ausencias absolutas de los Jueces serán suplidas en la forma prevista por e
 
 Las ausencias absolutas de los Secretarios del Tribunal y de los Juzgados, así como de los demás Servidores Públicos del Poder Judicial, serán cubiertas por nuevos nombramientos, y entre tanto se proceda a ello, se suplirán en la forma prevista para las ausencias temporales.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
+### CAPITULO CUARTO. VACACIONES Y LICENCIAS
 
 ###### ARTICULO 178.
 
@@ -1753,9 +2231,13 @@ En el Poder Judicial del Estado se gozará de los períodos de vacaciones que fi
 
 Los Magistrados podrán obtener licencias, con o sin goce de sueldo, hasta por tres meses, solicitándola por conducto del Gobernador al Congreso del Estado conforme a la fracción XXI, del artículo 64, de la Constitución Política del Estado.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+> <small>(REFORMADA SU NUMERACION, B.O. 10 DE AGOSTO DE 2004)</small>
 
-### CAPITULO SEGUNDO. DE SU INTEGRACION
+## TITULO DECIMO SEGUNDO. DEL TRIBUNAL ESTATAL ELECTORAL
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -1793,7 +2275,7 @@ X. Las demás que le señale esta Ley, la Ley Electoral del Estado de Baja Calif
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
 
-### CAPITULO TERCERO. DE SU FUNCIONAMIENTO
+### CAPITULO SEGUNDO. DE SU INTEGRACION
 
 > <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
@@ -1930,6 +2412,10 @@ II. Auxiliar a los Magistrados Numerarios en el estudio, análisis y valoración
 III. Las demás que les encomiende el Magistrado Presidente del Tribunal.
 
 > <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 19 DE JUNIO DE 1998)</small>
+
+### CAPITULO TERCERO. DE SU FUNCIONAMIENTO
+
+> <small>(ADICIONADO, B.O. 19 DE JUNIO DE 1998)</small>
 
 ###### ARTICULO 191.
 
@@ -2090,3 +2576,25 @@ B.O. 6 DE ABRIL DE 1999.
 PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE AGOSTO DE 2004.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las disposiciones de este decreto no serán aplicables a los recursos o procedimientos que se encuentren en trámite en las Salas del Honorable Tribunal Superior de Justicia, a la fecha de entrada en vigor del mismo, por lo que dichos asuntos deberán seguir tramitándose ante las Salas que conozcan de ellos hasta su total terminación.
+
+###### ARTÍCULO TERCERO.
+
+A la entrada en vigor del presente Decreto cada Sala elegirá, de entre los Magistrados que la integren, al Presidente de su Sala, que por única ocasión durará en su cargo, hasta la primera sesión del mes de enero del año próximo siguiente, en que se elegirá al Presidente de cada Sala, que durará en su cargo el plazo previsto en el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Las disposiciones de este Decreto no serán aplicables a los procedimientos de responsabilidad administrativa, que se encuentren en trámite en el Pleno del Honorable Tribunal Superior de Justicia, a la fecha de entrada en vigor del mismo, por lo que dichos asuntos deberán seguir tramitándose hasta su total terminación, ante dicho órgano colegiado.
+
+###### ARTÍCULO QUINTO.
+
+La Ley de Procedimiento Administrativo, deberá emitirse por el H. Congreso del Estado de Baja California Sur, durante el Segundo Periodo Ordinario del Tercer Año de Ejercicio Constitucional de la X Legislatura.
