@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1966-01-14"
+last_updated: "1967-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 14 DE ENERO DE 1966.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 1967.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1079,17 +1079,35 @@ Se aplicará prisión de 15 a 30 años y multa hasta de treinta mil pesos al que
 
 ### CAPITULO III. Violaciones de los derechos de humanidad en prisioneros, rehenes, heridos u hospitales
 
+> <small>(ADICIONADO CON LOS CAPITULOS QUE LO INTEGRAN, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 130.
 
 Cuando la revelación de secretos o la entrega de planos de que se habla en el artículo anterior es (sic) hagan a una potencia neutral, se impondrán al delincuente de cinco a diez años de prisión y multa hasta de quince mil pesos.
 
-### CAPITULO I. Evasión de presos
+### CAPITULO I. Violación de los deberes de humanidad
+
+> <small>N. DE E. REUBICADO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 131.
 
 Cuando la entrega de planos o la revelación de que hablan los dos artículos anteriores las haga un particular, se le impondrá la mitad de las sanciones señaladas en dichos artículos.
 
-### CAPITULO II. Quebrantamiento de sanción
+### CAPITULO II. Genocidio
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+ARTICULO 149 bis.- Comete el delito de genocidio el que con el propósito de destruir, total o parcialmente a uno o más grupos nacionales o de carácter étnico, racial o religioso, perpetrase por cualquier medio, delitos contra la vida de miembros de aquellos, o impusiese la esterilización masiva con el fin de impedir la reproducción del grupo.
+
+Por tal delito se impondrán de veinte a cuarenta años de prisión y multa de quince mil a veinte mil pesos.
+
+Si con idéntico propósito se llevaren a cabo ataques a la integridad corporal o a la salud de los miembros de dichas comunidades o se trasladaren de ellas a otros grupos menores de diez y seis años, empleando para ello la violencia física o moral, la sanción será de cinco a veinte años de prisión y multa de dos mil a siete mil pesos.
+
+Se aplicarán las mismas sanciones señaladas en el párrafo anterior, a quien con igual propósito someta intencionalmente al grupo a condiciones de existencia que hayan de acarrear su destrucción física, total o parcial.
+
+En caso de que los responsables de dichos delitos fueren gobernantes, funcionarios o empleados públicos y las cometieren en ejercicio de sus funciones o con motivo de ellas, además de las sanciones establecidas en este artículo se les aplicarán las penas señaladas en el artículo 15 de la Ley de Responsabilidades de los Funcionarios y Empleados de la Federación.
+
+> <small>N. DE E. ANTES TITULO CUARTO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 132.
 
@@ -1153,23 +1171,23 @@ A los extranjeros que cometan el delito de rebelión, se les aplicarán de seis 
 
 Los rebeldes no serán responsables de las muertes ni de las lesiones inferidas en el acto de un combate; pero de todo homicidio que se cometa y de toda lesión que se cause fuera de la lucha, serán responsables, tanto el que mande ejecutar el delito como el que lo permita, y los que inmediatamente lo ejecuten.
 
-### CAPITULO III. Armas prohibidas
+### CAPITULO I. Evasión de presos
 
 ###### ARTICULO 139.
 
 No se aplicará sanción a los que depongan las armas antes de ser tomados prisioneros, si no se hubiere cometido alguno de los delitos mencionados en el artículo que sigue.
 
-### CAPITULO IV. Asociaciones delictuosas
+### CAPITULO II. Quebrantamiento de sanción
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
-
-### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
+### CAPITULO III. Armas prohibidas
 
 ###### ARTICULO 140.
 
 Cuando en las rebeliones se pusiere en ejercicio, para hacerlas triunfar, el homicidio, el robo, el secuestro, el despojo, el incendio o el saqueo, se aplicarán las penas que por estos delitos y el de rebelión correspondan según las reglas de acumulación.
 
-### CAPITULO II. Violación de correspondencia
+### CAPITULO IV. Asociaciones delictuosas
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 141.
 
@@ -1177,7 +1195,7 @@ Son reos de sedición los que reunidos tumultuariamente, pero sin armas, resiste
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO I. Desobediencia y resistencia de particulares
+### CAPITULO I. Ataques a las vías de comunicación y violación de correspondencia
 
 ###### ARTICULO 142.
 
@@ -1219,7 +1237,7 @@ Para todos los efectos legales, solamente se considerarán como de carácter pol
 
 ## TITULO SEGUNDO. Delitos contra la seguridad interior de la Nación
 
-### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
+### CAPITULO II. Violación de correspondencia
 
 ###### ARTICULO 146.
 
@@ -1235,7 +1253,7 @@ III.- Los corsarios que, en caso de guerra entre dos o más naciones, hagan el c
 
 Se impondrán de quince a treinta años de prisión y decomiso de la nave, a los que pertenezcan a una tripulación pirata.
 
-### CAPITULO III. Quebrantamiento de sellos
+### CAPITULO I. Desobediencia y resistencia de particulares
 
 ###### ARTICULO 148.
 
@@ -1251,35 +1269,35 @@ IV.- Todo ataque o violencia de cualquier género a los escudos, emblemas o pabe
 
 En el caso de la fracción III, y si las circunstancias lo ameritan, los jueces podrán imponer hasta seis años de prisión.
 
-### CAPITULO IV. Delitos cometidos contra funcionarios públicos
+> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. 20 DE ENERO DE 1967, DEROGA TACITAMENTE EL CAPITULO III DEL TITULO TERCERO; PASANDO SU ARTICULO 149 A FORMAR PARTE DE UN NUEVO TITULO CUARTO DENOMINADO DELITOS CONTRA LA HUMANIDAD.</small>
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO II. Oposición a que se ejecute alguna obra o trabajo públicos
 
 ## TITULO TERCERO. Delitos contra el Derecho Internacional
 
-### CAPITULO V. Ultrajes a las insignias nacionales
+### CAPITULO III. Quebrantamiento de sellos
 
 ###### ARTICULO 149.
 
 Al que violare los deberes de humanidad en los prisioneros y rehenes de guerra, en los heridos, o en los hospitales de sangre, se le aplicará por ese solo hecho: prisión de tres a seis años, salvo lo dispuesto, para los casos especiales, en las leyes militares.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 20 DE ENERO DE 1967)</small>
+
+### CAPITULO IV. Delitos cometidos contra funcionarios públicos
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+
+## TITULO CUARTO. Delitos contra la humanidad
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+### CAPITULO V. Ultrajes a las insignias nacionales
+
+## TITULO QUINTO. Delitos contra la seguridad pública
+
 ### CAPITULO I. De la producción, tenencia, tráfico y proselitismo en materia de enervantes
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
-
-## TITULO CUARTO. Delitos contra la seguridad pública
-
-### CAPITULO II. Del peligro de contagio
-
-> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
-
-## TITULO QUINTO. Delitos en materia de vías de comunicación y de correspondencia
-
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO I. Ultrajes a la moral pública
-
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 150.
 
@@ -1301,9 +1319,9 @@ Si la reaprehensión del prófugo se lograre por gestiones del responsable de la
 
 Al preso que se fugue no se le aplicará sanción alguna, sino cuando obre de concierto con otro u otros presos y se fugue alguno de ellos o ejerciere violencia en las personas, en cuyo caso la pena aplicable será de seis meses a tres años de prisión.
 
-### CAPITULO II. Corrupción de menores
+### CAPITULO II. Del peligro de contagio
 
-> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
 ###### ARTICULO 155.
 
@@ -1331,7 +1349,9 @@ II.- A aquel a quien se hubiere prohibido ir a determinado lugar o a residir en 
 
 El reo suspenso en su profesión u oficio, o inhabilitado para ejercerlos, que quebrante su condena pagará una multa de veinte a mil pesos. En caso de reincidencia, se duplicará la multa y se aplicará prisión de uno a seis años.
 
-### CAPITULO III. Lenocinio
+### CAPITULO I. Ultrajes a la moral pública
+
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
 ###### ARTICULO 160.
 
@@ -1385,19 +1405,25 @@ a). Otorgar fianza por la cantidad que fije la autoridad, y
 
 b). Comprobar la necesidad que tiene para la portación de armas y sus antecedentes de honorabilidad y prudencia, con el testimonio de cinco personas bien conocidas de la autoridad.
 
-### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
+### CAPITULO II. Corrupción de menores
 
-### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
+
+### CAPITULO III. Lenocinio
 
 ###### ARTICULO 164.
 
 Se impondrán prisión de seis meses a seis años y multa de cincuenta a quinientos pesos, al que tomare participación en una asociación o banda de tres o más personas, organizada para delinquir, por el solo hecho de ser miembro de la asociación e independientemente de la pena que le corresponda por el delito que pudiera cometer o haya cometido.
 
+> <small>N. DE E. ANTES TITULO QUINTO, D.O.F. 20 DE ENERO DE 1967</small>
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-## TITULO SEXTO. Delitos contra la autoridad
+## TITULO SEXTO. Delitos en materia de vías de comunicación y de correspondencia
 
-### CAPITULO II. Abuso de autoridad
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+
+### CAPITULO IV. Provocación de un delito y apología de éste o de algún vicio
 
 ###### ARTICULO 165.
 
@@ -1463,11 +1489,9 @@ II.- Al que en estado de ebriedad o bajo el influjo de drogas enervantes cometa 
 
 Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinaria, además de aplicar las sanciones por el delito que resulte, se inhabilitará al delincuente para manejar aquellos aparatos, por un tiempo que no baje de un mes ni exceda de un año. En caso de reincidencia, la inhabilitación será definitiva.
 
-### CAPITULO III. Coalición de funcionarios
+### CAPITULO I. Ejercicio indebido o abandono de funciones públicas
 
-### CAPITULO IV. Cohecho
-
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+### CAPITULO II. Abuso de autoridad
 
 ###### ARTICULO 173.
 
@@ -1495,11 +1519,11 @@ Al empleado de un telégrafo, teléfono o estación inalámbrica que conscientem
 
 Si resultare daño, se duplicará la sanción fijada por el artículo anterior.
 
-## TITULO SEPTIMO. Delitos Contra la Salud
+> <small>N. DE E. ANTES TITULO SEXTO, D.O.F. 20 DE ENERO DE 1967</small>
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
+## TITULO SEPTIMO. Delitos contra la autoridad
 
-### CAPITULO V. Peculado y concusión
+### CAPITULO III. Coalición de funcionarios
 
 ###### ARTICULO 178.
 
@@ -1527,13 +1551,17 @@ El que, debiendo ser examinado en juicio y sin que le aprovechen las excepciones
 
 Cuando la ley autorice el empleo del apremio para hacer efectivas las determinaciones de la autoridad, sólo se consumará el delito de desobediencia cuando se hubieren agotado los medios de apremio.
 
-### CAPITULO I. Responsabilidad médica y técnica
+### CAPITULO IV. Cohecho
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 199 Bis.
 
 El que sabiendo que está enfermo de sífilis o de un mal venéreo en período infectante, ponga en peligro de contagio la salud de otro por medio de relaciones sexuales, será sancionado con prisión hasta de tres años y multa hasta de tres mil pesos, sin perjuicio de la pena que corresponda si se causa el contagio.
 
 Cuando se trate de cónyuges, sólo podrá procederse por querella del ofendido.
+
+> <small>N. DE E. ANTES TITULO OCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
 
@@ -1551,9 +1579,7 @@ Cuando el delito se cometa por varias personas, de común acuerdo, la sanción s
 
 A las sanciones de que hablan los dos artículos que preceden, se podrá agregar una multa de veinte a quinientos pesos, cuando no hubiere lugar a la reparación del daño.
 
-### CAPITULO II. Delitos de abogados, patronos y litigantes
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO V. Peculado y concusión
 
 ###### ARTICULO 187.
 
@@ -1563,7 +1589,7 @@ Al que quebrante los sellos puestos por orden de la autoridad pública, se le ap
 
 Cuando de común acuerdo, quebrantaren las partes interesadas en un negocio civil los sellos puestos por la autoridad pública, pagarán una multa de veinte a doscientos pesos.
 
-### CAPITULO I. Falsificación y alteración de moneda
+### CAPITULO I. Responsabilidad médica y técnica
 
 ###### ARTICULO 189.
 
@@ -1575,9 +1601,9 @@ Al que cometa un delito en contra de un funcionario público o agente de la auto
 
 Los ultrajes hechos a una de las Cámaras, a un tribunal o a un jurado, o a un cuerpo colegiado de la administración de justicia o a cualquiera institución pública, se castigarán con tres días a seis meses de prisión y multa de cinco a doscientos pesos.
 
-### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
+### CAPITULO II. Delitos de abogados, patronos y litigantes
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 191.
 
@@ -1587,13 +1613,15 @@ Al que ultraje el escudo de la República o el pabellón nacional, ya sea de pal
 
 Al que haga uso indebido del escudo, insignia o himno nacionales, se le aplicará de tres días a un año de prisión y multa de veinticinco a mil pesos.
 
+> <small>N. DE E. ANTES TITULO SEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
-## TITULO OCTAVO. Delitos contra la moral pública y las buenas costumbres
+## TITULO OCTAVO. Delitos Contra la Salud
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE NOVIEMBRE DE 1947)</small>
 
-### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+### CAPITULO I. Falsificación y alteración de moneda
 
 ###### ARTICULO 193.
 
@@ -1643,25 +1671,27 @@ Las drogas enervantes, las substancias, aparatos y demás objetos que se emplear
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 14 DE FEBRERO DE 1940)</small>
 
+### CAPITULO II. Falsificación de billetes de banco, títulos al portador y documentos de crédito público
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+
+### CAPITULO III. Falsificación de sellos, llaves, cuños o troqueles, marcas, pesas y medidas
+
+## TITULO NOVENO. Delitos contra la moral pública y las buenas costumbres
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 14 DE ENERO DE 1966)</small>
+
 ### CAPITULO IV. Falsificación de documentos en general
 
 ### CAPITULO V. Falsedad en declaraciones judiciales y en informes dados a una autoridad
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
-## TITULO NOVENO. Revelación de secretos
+## TITULO DÉCIMO. Revelación de secretos
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ### CAPITULO VI. Variación del nombre o del domicilio
-
-### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
-
-> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
-
-## TITULO DECIMO. Delitos cometidos por funcionarios públicos
-
-### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 200.
 
@@ -1685,9 +1715,9 @@ Si además de los delitos previstos en este capítulo resultase cometido otro, s
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+### CAPITULO VII. Usurpación de funciones públicas o de profesión y uso indebido de condecoraciones o uniformes
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(REFORMADO, D.O.F. 30 DE ENERO DE 1947)</small>
 
 ###### ARTICULO 202.
 
@@ -1699,27 +1729,29 @@ Para los efectos de este precepto se considerará como empleado en la cantina, t
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
-### CAPITULO II. Vagos y malvivientes
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+### CAPITULO VIII. Disposiciones comunes a los capítulos precedentes
 
 ###### ARTICULO 203.
 
 Las sanciones que señalan los artículos anteriores se duplicarán cuando el delincuente sea ascendiente, padrastro o madrastra del menor, privando al reo de todo derecho a los bienes del ofendido y de la patria potestad sobre todos sus descendientes.
 
-### CAPITULO III. Juegos prohibidos
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 204.
 
 Los delincuentes de que se trata en este capítulo quedarán inhabilitados para ser tutores y curadores.
 
-### CAPITULO I. Atentados al pudor, estupro y violación
+### CAPITULO II. Vagos y malvivientes
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 205.
 
 (DEROGADO, D.O.F. 14 DE ENERO DE 1966)
 
-### CAPITULO II. Rapto
+### CAPITULO III. Juegos prohibidos
 
 ###### ARTICULO 206.
 
@@ -1739,7 +1771,7 @@ III.- Al que regentee, administre o sostenga directa o indirectamente, prostíbu
 
 > <small>(REFORMADO, D.O.F. 14 DE ENERO DE 1966)</small>
 
-### CAPITULO III. Incesto
+### CAPITULO I. Atentados al pudor, estupro y violación
 
 ###### ARTICULO 208.
 
@@ -1749,17 +1781,19 @@ Cuando la mujer cuyo cuerpo sea explotado por medio del comercio carnal, sea men
 
 Al que provoque públicamente a cometer un delito, o haga la apología de éste o de algún vicio, se le aplicarán prisión de tres días a seis meses y multa de cinco a cincuenta pesos, si el delito no se ejecutare. En caso contrario, se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
+> <small>N. DE E. ANTES TITULO NOVENO, D.O.F. 20 DE ENERO DE 1967</small>
+
+### CAPITULO II. Rapto
+
+### CAPITULO III. Incesto
+
 ### CAPITULO IV. Adulterio
+
+## TITULO VIGÉSIMO. Delitos contra la vida y la integridad corporal
 
 ### CAPITULO UNICO. Violación de las leyes sobre inhumaciones y exhumaciones
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO I. Amenazas
-
-## TITULO VIGESIMO. Delitos contra el honor
-
-### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 210.
 
@@ -1769,13 +1803,17 @@ Se aplicará multa de cinco a cincuenta pesos o prisión de dos meses a un año 
 
 La sanción será de uno a cinco años, multa de cincuenta a quinientos pesos y suspensión de profesión en su caso, de dos meses a un año, cuando la revelación punible sea hecha por persona que presta servicios profesionales o técnicos o por funcionario o empleado público o cuando el secreto revelado o publicado sea de carácter industrial.
 
-### CAPITULO I. Lesiones
+> <small>N. DE E. ANTES TITULO DECIMO, D.O.F. 20 DE ENERO DE 1967</small>
 
-## TITULO VIGESIMO PRIMERO. Privación ilegal de la libertad y otras garantías
+TITULO DECIMOPRIMERO
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+Delitos cometidos por funcionarios públicos
 
-### CAPITULO II. Homicidio
+### CAPITULO I. Amenazas
+
+## TITULO VIGESIMO PRIMERO. Delitos contra el honor
+
+### CAPITULO II. Allanamiento de morada y asalto
 
 ###### ARTICULO 212.
 
@@ -1797,9 +1835,7 @@ V.- Al que sin habérsele admitido la renuncia de una comisión, empleo o cargo,
 
 Al que cometa el delito de abuso de autoridad se le impondrán de seis meses a seis años de prisión, multa de veinticinco a mil pesos y destitución de empleo.
 
-### CAPITULO III. Reglas comunes para lesiones y homicidio
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+### CAPITULO I. Lesiones
 
 ###### ARTICULO 214.
 
@@ -1831,23 +1867,25 @@ XI.- El funcionario que teniendo conocimiento de una privación ilegal de libert
 
 Los delitos a que se refiere este capítulo producen acción popular.
 
-### CAPITULO IV. Parricidio
+### CAPITULO II. Homicidio
 
 ###### ARTICULO 215.
 
 A los que cometan el delito de coalición de funcionarios se les impondrán de seis meses a dos años de prisión y multa de veinticinco a mil pesos.
 
-### CAPITULO V. Infanticidio
+### CAPITULO III. Reglas comunes para lesiones y homicidio
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO VI. Aborto
+### CAPITULO IV. Parricidio
 
 ###### ARTICULO 216.
 
 Cometen el delito de coalición: los funcionarios públicos, empleados, agentes o comisionados del Gobierno que se coaliguen para tomar medidas contrarias a una ley o reglamento, impedir su ejecución o para hacer dimisión de sus puestos con el fin de impedir o suspender la administración pública en cualquiera de sus ramas.
 
-### CAPITULO VII. Abandono de personas
+### CAPITULO V. Infanticidio
+
+> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
 ###### ARTICULO 217.
 
@@ -1859,17 +1897,15 @@ II.- El que de manera espontánea dé u ofrezca dinero o cualquiera otra dádiva
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO I. Golpes y otras violencias físicas simples
+### CAPITULO VI. Aborto
 
-### CAPITULO II. Injurias y difamación
+### CAPITULO VII. Abandono de personas
 
 ###### ARTICULO 218.
 
 El delito de cohecho se castigará con tres meses a cinco años de prisión y multa hasta de dos mil pesos.
 
-### CAPITULO III. Calumnia
-
-> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
+### CAPITULO I. Golpes y otras violencias físicas simples
 
 ###### ARTICULO 219.
 
@@ -1877,13 +1913,15 @@ Al que cometa el delito de peculado se le aplicarán de seis meses a doce años 
 
 (REFORMADO, D.O.F. 9 DE MARZO DE 1946) (F. DE E., D.O.F. 16 DE JULIO DE 1946)
 
-### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
+### CAPITULO II. Injurias y difamación
 
 ###### ARTICULO 220.
 
 Comete el delito de peculado toda persona encargada de un servicio público, del Estado o descentralizado, aunque sea en comisión por tiempo limitado y que no tenga el carácter de funcionario, que, para usos propios o ajenos, distraiga de su objeto dinero, valores, fincas o cualquiera otra cosa perteneciente al Estado, al organismo descentralizado, o a un particular, si por razón de su cargo los hubiere recibido en administración, en depósito o por otra causa.
 
-### CAPITULO UNICO. Privación ilegal de la libertad
+### CAPITULO III. Calumnia
+
+> <small>(F. DE E., D.O.F. 12 DE SEPTIEMBRE DE 1931)</small>
 
 ###### ARTICULO 221.
 
@@ -1891,35 +1929,35 @@ La sanción será de uno a seis meses de prisión, si dentro de los diez días s
 
 Este artículo se entiende sin perjuicio de la destitución, de la inhabilitación y de la multa correspondiente.
 
-### CAPITULO I. Robo
+### CAPITULO IV. Disposiciones comunes para los capítulos precedentes
 
 ###### ARTICULO 222.
 
 Comete el delito de concusión: el encargado de un servicio público que, con el carácter de tal y a título de impuesto o contribución, recargo, renta, rédito, salario o emolumento, exija, por sí o por medio de otro, dinero, valores, servicios, o cualquiera otra cosa que sepa no ser debida, o en mayor cantidad que la señalada por la ley.
 
-### CAPITULO II. Abuso de confianza
+### CAPITULO UNICO. Privación ilegal de la libertad
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
-
-### CAPITULO III. Fraude
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+### CAPITULO I. Robo
 
 ###### ARTICULO 223.
 
 A los funcionarios y empleados públicos que cometan el delito de concusión, se les aplicará destitución de empleo e inhabilitación para obtener otro por un término de dos a seis años, y pagarán una multa igual al duplo de la cantidad que hubieren recibido indebidamente. Si ésta pasare de cien pesos, se les impondrá además de tres meses a dos años de prisión.
 
-### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
+### CAPITULO II. Abuso de confianza
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 ###### ARTICULO 224.
 
 Las sanciones del artículo anterior, se aplicarán también a los encargados o comisionados por un funcionario público que, con aquella investidura, cometan el delito de concusión.
 
-TITULO DECIMOPRIMERO
+> <small>N. DE E. ANTES TITULO DECIMOPRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOSEGUNDO
 
 Delitos cometidos en la administración de justicia
 
-### CAPITULO V. Despojo de cosas inmuebles o de aguas
+### CAPITULO III. Fraude
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
@@ -1945,7 +1983,7 @@ VIII.- Retardar o entorpecer maliciosamente o por negligencia la administración
 
 IV (SIC).- Tratar en el ejercicio de su cargo con ofensa, desprecio o deshonestidad a las personas que asistan a su tribunal u oficina.
 
-### CAPITULO VI. Daño en propiedad ajena
+### CAPITULO IV. De los delitos cometidos por los comerciantes sujetos a concurso
 
 ###### ARTICULO 226.
 
@@ -1959,9 +1997,15 @@ II.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente alg
 
 Las disposiciones anteriores se aplicarán a todos los funcionarios o empleados de la administración pública, cuando en el ejercicio de su encargo ejecuten los hechos o incurran en las omisiones expresadas en los propios artículos.
 
-TITULO DECIMOSEGUNDO
+> <small>N. DE E. ANTES TITULO DECIMOSEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOTERCERO
 
 Responsabilidad profesional
+
+### CAPITULO V. Despojo de cosas inmuebles o de aguas
+
+> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
 
 ###### ARTICULO 228.
 
@@ -1978,6 +2022,8 @@ El artículo anterior se aplicará a los médicos que habiendo otorgado responsi
 ###### ARTICULO 230.
 
 Igualmente serán responsables en la forma que previene el artículo 228, todos los que causen daños indebidos en el ejercicio de una profesión, o un arte o actividad técnica.
+
+### CAPITULO VI. Daño en propiedad ajena
 
 ###### ARTICULO 231.
 
@@ -2003,7 +2049,9 @@ III.- Al defensor de un reo, sea particular o de oficio, que sólo se concrete a
 
 Los defensores de oficio que sin fundamento no promuevan las pruebas conducentes en defensa de los reos que los designen, serán destituídos de su empleo. Para este efecto, los jueces comunicarán al Jefe de Defensores las faltas respectivas.
 
-TITULO DECIMOTERCERO
+> <small>N. DE E. ANTES TITULO DECIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOCUARTO
 
 Falsedad
 
@@ -2108,6 +2156,10 @@ VI.- Al que haga desaparecer alguno de los sellos de que habla la fracción ante
 VII.- Al que procurándose los verdaderos sellos, punzones, marcas, etc., haga uso indebido de ellos; y
 
 VIII.- Al que a sabiendas hiciere uso de los sellos o de algún otro de los objetos falsos de que habla el artículo anterior y las fracciones I, II, V y VI de éste.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscientos a dos mil pesos, al que en cualquier forma altere las señales, marcas de sangre o de fuego, que se utilizan para distinguir el ganado, sin autorización de la persona que los tenga legalmente registradas ante la autoridad competente.
 
 ###### ARTICULO 243.
 
@@ -2241,7 +2293,9 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Las disposiciones contenidas en este título no se aplicarán sino en lo que no estuviere previsto en las leyes especiales o no se opusiere a lo establecido en ellas.
 
-TITULO DECIMOCUARTO
+> <small>N. DE E. ANTES TITULO DECIMOCUARTO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOQUINTO
 
 Delitos contra la economía pública
 
@@ -2325,7 +2379,9 @@ IV.- Los funcionarios o empleados públicos que autoricen, protejan o asistan a 
 
 Para los efectos de este capítulo se considerarán ilícitos los juegos, loterías y rifas en los términos que fijen los reglamentos respectivos expedidos por las autoridades administrativas superiores del Distrito y Territorios Federales.
 
-TITULO DECIMOQUINTO
+> <small>N. DE E. ANTES TITULO DECIMOQUINTO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOSEXTO
 
 Delitos sexuales
 
@@ -2351,13 +2407,25 @@ No se procederá contra el estuprador sino por queja de la mujer ofendida o de s
 
 La reparación del daño, en los casos de estupro, comprenderá el pago de alimentos a la mujer y a los hijos, si los hubiere. Dicho pago se hará en la forma y términos que la ley civil fija para los casos de divorcio.
 
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
 ###### ARTICULO 265.
 
-Al que por medio de la violencia física o moral tenga cópula con una persona sin la voluntad de ésta, sea cual fuere su sexo, se le aplicará la pena de uno a seis años de prisión. Si la persona ofendida fuere impúber, la pena será de dos a ocho años.
+Al que por medio de la violencia física o moral tenga cópula con una persona sea cual fuere su sexo, se le aplicarán las penas de dos a ocho años de prisión y multa de dos mil a cinco mil pesos. Si la persona ofendida fuere impúber, la pena de prisión será de cuatro a diez años y la multa será de cuatro mil a ocho mil pesos.
+
+> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ###### ARTICULO 266.
 
-Se equipara a la violencia, la cópula con persona privada de razón o de sentido, o cuando por enfermedad o cualquiera otra causa no pudiere resistir.
+Se equipara a la violación y se sancionará con las mismas penas, la cópula con persona menor de doce años o que por cualquier causa no esté en posibilidad de producirse voluntariamente en sus relaciones sexuales o de resistir la conducta delictuosa.
+
+> <small>(ADICIONADO, D.O.F. 20 DE ENERO DE 1967)</small>
+
+ARTICULO 266 bis.- Cuando la violación fuere cometida con intervención directa e inmediata de dos o más personas, la prisión será de ocho a veinte años y la multa de cinco mil a doce mil pesos. A los demás partícipes se les aplicarán las reglas contenidas en el artículo 13 de este Código.
+
+Además de las sanciones que señalan los artículos que anteceden, se impondrán de seis meses a dos años de prisión cuando el delito de violación fuere cometido por un ascendiente contra su descendiente, por éste contra aquél, por el tutor en contra de su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. En los casos en que la ejerciera, el culpable perderá la patria potestad o la tutela, así como el derecho de heredar al ofendido.
+
+Cuando el delito de violación sea cometido por quien desempeñe un cargo o empleo público o ejerza una profesión utilizando los medios o circunstancias que ellos le proporcionen, será destituido definitivamente del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión.
 
 ###### ARTICULO 267.
 
@@ -2407,7 +2475,9 @@ Sólo se castigará el adulterio consumado.
 
 Cuando el ofendido perdone a su cónyuge, cesará todo procedimiento si no se ha dictado sentencia, y si ésta se ha dictado, no producirá efecto alguno. Esta disposición favorecerá a todos los responsables.
 
-TITULO DECIMOSEXTO
+> <small>N. DE E. ANTES TITULO DECIMOSEXTO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMOSÉPTIMO
 
 Delitos contra el estado civil y bigamia
 
@@ -2433,9 +2503,11 @@ El que cometa alguno de los delitos expresados en el artículo anterior, perder�
 
 Se impondrán hasta cinco años de prisión y multa hasta de quinientos pesos al que estando unido con una persona en matrimonio no disuelto ni declarado nulo, contraiga otro matrimonio con las formalidades legales.
 
+> <small>N. DE E. ANTES TITULO DECIMOSEPTIMO, D.O.F. 20 DE ENERO DE 1967</small>
+
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
 
-TITULO DECIMOSEPTIMO
+TITULO DECIMOCTAVO
 
 Delitos en materia de inhumaciones y exhumaciones
 
@@ -2461,7 +2533,9 @@ I.- Al que viole un túmulo, un sepulcro, una sepultura o féretro, y
 
 II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutilación, obscenidad o brutalidad.
 
-TITULO DECIMOCTAVO
+> <small>N. DE E. ANTES TITULO DECIMOCTAVO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO DECIMONOVENO
 
 Delitos contra la paz y seguridad de las personas
 
@@ -2511,9 +2585,7 @@ Al que en despoblado o en paraje solitario haga uso de violencia sobre una perso
 
 Si los salteadores atacaren una población, se aplicarán de veinte a treinta años de prisión a los cabecillas o jefes, y de quince a veinte años a los demás.
 
-TITULO DECIMONOVENO
-
-Delitos contra la vida y la integridad corporal
+> <small>N. DE E. ANTES TITULO DECIMONOVENO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 288.
 
@@ -2849,6 +2921,12 @@ Al que exponga en una casa de expósitos a un niño menor de siete años que se 
 
 Los ascendientes o tutores que entreguen en una casa de expósitos un niño que esté bajo su potestad, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
+> <small>N. DE E. ANTES TITULO VIGESIMO, D.O.F. 20 DE ENERO DE 1967</small>
+
+## TITULO VIGESIMO SEGUNDO. Privación ilegal de la libertad y otras garantías
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+
 ###### ARTICULO 344.
 
 Se aplicarán de tres días a un año de prisión y multa de cinco a trescientos pesos:
@@ -2987,7 +3065,11 @@ En tal caso, se hará en el documento una anotación sumaria de la sentencia pro
 
 Siempre que sea condenado el responsable de una injuria, de una difamación o de una calumnia, si lo solicita la persona ofendida, se publicará la sentencia en tres periódicos a costa de aquél. Cuando el delito se cometa por medio de un periódico, los dueños, gerentes o directores de éste, tengan o no responsabilidad penal, estarán obligados a publicar el fallo, imponiéndoseles multa de cien pesos por cada día que pase sin hacerlo, después de aquel en que se les notifique la sentencia. El importe de la multa no podrá exceder de diez mil pesos.
 
+> <small>N. DE E. ANTES TITULO VIGESIMO PRIMERO, D.O.F. 20 DE ENERO DE 1967</small>
+
 > <small>(ADICIONADA SU DENOMINACION, D.O.F. 15 DE ENERO DE 1951)</small>
+
+## TITULO VIGESIMO TERCERO. Delitos en contra de las personas en su patrimonio
 
 ###### ARTICULO 364.
 
@@ -3025,9 +3107,7 @@ V.- Cuando se cometa el robo de infante menor de doce años por quien sea extra�
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
 
-TITULO VIGESIMOSEGUNDO
-
-Delitos en contra de las personas en su patrimonio
+> <small>N. DE E. ANTES TITULO VIGESIMO SEGUNDO, D.O.F. 20 DE ENERO DE 1967</small>
 
 ###### ARTICULO 367.
 
@@ -3131,9 +3211,9 @@ V.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresa
 
 VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación, oficina, bodega u otro lugar al que tengan libre entrada por el carácter indicado.
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 20 DE ENERO DE 1967)</small>
 
-ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 370 y 371 deben imponerse, se aplicarán de 3 días a 10 años de prisión al que robe en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construídos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado en la vía pública y no ocupado por alguna persona.
+ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 370 y 371 deben imponerse, se aplicarán de tres días a diez años de prisión al que robe en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construidos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado en la vía pública y no ocupado por alguna persona; o al que se apdodere (sic) en campo abierto o paraje solitario de una o más cabezas de ganado mayor o de sus crías. Cuando el apoderamiento se realice sobre una o más cabezas de ganado menor, además de lo dispuesto en los artículos 370 y 371, se impondrán hasta las dos terceras partes de la pena comprendida en este artículo.
 
 ###### ARTICULO 382.
 
@@ -3317,29 +3397,43 @@ Si además de los daños directos resulta consumado algún otro delito, se aplic
 
 Cuando por cualquier medio se causen daño, destrucción o deterioro de cosa ajena, o de cosa propia en perjuicio de tercero, se aplicarán las sanciones del robo simple.
 
-TITULO VIGESIMOTERCERO
+> <small>N. DE E. ANTES TITULO VIGESIMOTERCERO, D.O.F. 20 DE ENERO DE 1967</small>
+
+TITULO VIGESIMOCUARTO
 
 Encubrimiento
 
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 20 DE ENERO DE 1967)</small>
 
 ###### ARTICULO 400.
 
-Se aplicarán de cinco días a dos años de prisión y multa de veinte a quinientos pesos al que:
+Se aplicará de cinco días a dos años de prisión y multa de veinte a quinientos pesos, al que:
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 I.- No procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sabe van a cometerse, o se están cometiendo, si son de los que se persiguen de oficio.
 
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
+
 II.- No haya tomado las precauciones indispensables para asegurarse de que la persona de quien recibió la cosa en venta o prenda tendría derecho para disponer de ella, si resultare robada.
+
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
 III.- Requerido por las autoridades, no dé auxilio para la investigación de los delitos o para la persecución de los delincuentes.
 
-IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito; y
+(REFORMADA, D.O.F. 9 DE MARZO DE 1946) IV.- Preste auxilio o cooperación de cualquier especie al autor de un delito, con conocimiento de esta circunstancia, por acuerdo posterior a la ejecución del citado delito; y
 
-V.- Oculte al responsable de un delito, o los efectos objetos o instrumentos del mismo, o impida que se averigüe.
+> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 1946)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 9 DE MARZO DE 1946)</small>
+V.- Oculte al responsable de un delito, o los efectos (sic) objetos o instrumentos del mismo, o impida que se averigüe.
 
-ARTICULO 400 BIS.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer en los casos de encubrimiento a que se refieren las fracciones III, IV, y V del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de la que correspondería al autor del delito; debiendo hacer constar especialmente en la sentencia las razones en que se funda para llevar la sanción que autoriza este artículo.
+> <small>(ADICIONADA, D.O.F. 20 DE ENERO DE 1967)</small>
+
+VI.- Adquiera, a sabiendas, ganado robado.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O.F. 20 DE ENERO DE 1967)</small>
+
+ARTICULO 400 bis.- Los jueces, teniendo en cuenta la naturaleza de la acción, las circunstancias personales del acusado y las demás que consigna el artículo 52, podrán imponer, en los casos de encubrimiento a que se refieren las fracciones III, IV, V y VI del artículo anterior, en lugar de las sanciones establecidas en dicho artículo, hasta las dos terceras partes de las que correspondería al autor del delito: debiendo hacer constar especialmente en la sentencia las razones en que se funda para señalar la sanción que autoriza este artículo.
 
 ARTICULOS TRANSITORIOS:
 
@@ -3502,3 +3596,25 @@ UNICO.- Esta reforma entrará en vigor tres días después a la de su publicaci�
 D.O.F. 14 DE ENERO DE 1966.
 
 UNICO.- Estas reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE ENERO DE 1967.
+
+ADICIONES al Código Penal para el Distrito y Territorios Federales.
+
+###### ARTICULO UNICO.
+
+La presente reforma entrará en vigor a los tres días de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE ENERO DE 1967.
+
+REFORMAS al Código Penal en sus Artículos 265 y 266.
+
+###### ARTICULO UNICO.
+
+Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 20 DE ENERO DE 1967.
+
+SE ADICIONA el Código Penal con un Título Cuarto de su Libro Segundo.
+
+UNICO.- Las presentes reformas entrarán en vigor tres días después de su publicación en el "Diario Oficial" de la Federación.
