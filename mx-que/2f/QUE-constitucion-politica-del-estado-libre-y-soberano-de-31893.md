@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "1929-01-24"
+last_updated: "1929-09-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO ARTEAGA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 1929. (LEY NUMERO 42)
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 1929.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -76,6 +76,12 @@ UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicaci�
 P.O. 24 DE ENERO DE 1929 (LEY NUMERO 42)
 
 UNICO.- Esta ley comenzará a surtir sus efectos desde la fecha de su publicación.
+
+P.O. 13 DE SEPTIEMBRE DE 1929
+
+1°.- En tanto se reforma la Ley Orgánica del Municipio Libre, el Municipio de Colón tendrá los mismos límites que tiene como Delegación Municipal.
+
+2°.- Esta ley comenzará a surtir sus efectos a portir (sic) del día 16 de septiembre del año en curso.
 
 ## TITULO SEGUNDO
 
@@ -1441,17 +1447,17 @@ Esta Constitución se publicará con la mayor solemnidad, y comenzará a regir e
 
 El Estado de Querétaro Arteaga es parte integrante de la Federación Mexicana. Es Libre y Soberano en lo que se refiere a su régimen interior, y sólo delega sus facultades en los Supremos Poderes Federales, para el bien procomunal de la Nación, en todos aquellos puntos que ha fijado o fije expresamente la Constitución Política de los Estado Unidos Mexicanos.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
 
 ###### Art. 2º.
 
-El territorio del Estado se dividirá en seis Municipalidades que son: Amealco, Cadereyta, Jalpan, Querétaro, San Juan del Río y Tolimán.
+El territorio del Estado se divide en siete Municipalidades que son: Amealco, Cadereyta de Montes, Colón, Jalpan, Querétaro, San Juan del Río y Tolimán.
 
-> <small>(REFORMADO, P.O. 1 DE NOVIEMBRE DE 1928)</small>
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1929)</small>
 
 ###### Art. 3°.
 
-Las Municipalidades mencionadas en el artículo anterior conservarán la misma extensión y límites que para el efecto señala la Ley Orgánica del Municipio Libre, siendo las cabeceras de esas Municipalidades las poblaciones de sus mismos nombres.
+Las Municipalidades mencionadas en el artículo anterior tendrán los límites y extensiones que señale la Ley Orgánica del Municipio Libre y sus cabeceras serán las poblaciones de sus mismos nombres.
 
 ###### Art. 3º.
 
