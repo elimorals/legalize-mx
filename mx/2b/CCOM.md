@@ -4,7 +4,7 @@ identifier: "CCOM"
 country: "mx"
 rank: "codigo"
 publication_date: "1889-10-07"
-last_updated: "1946-05-03"
+last_updated: "1954-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=467&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CCOM"
 
 CODIGO DE COMERCIO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 3 DE MAYO DE 1946.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 6 DE ENERO DE 1954.
 
 Código publicado en el Diario Oficial de la Federación, del lunes 7 de octubre al viernes 13 de diciembre de 1889.
 
@@ -70,23 +70,23 @@ Los menores que, con arreglo al artículo anterior, sean comerciantes, se consid
 
 ###### Art. 8°.
 
-La mujer casada, mayor de diez y ocho años, que tenga para ello autorización expresa de su marido, dada en escritura pública, podrá ejercer el comercio. Sin la autorización de su marido podrá ejercerlo en los casos de separación, ausencia, interdicción ó privación de derechos civiles del mismo, declaradas conforme á la ley.
+(DEROGADO, D.O.F. 6 DE ENERO DE 1954)
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1954)</small>
 
 ###### Art. 9°.
 
-La mujer casada, comerciante, puede hipotecar sus bienes raíces para seguridad de sus obligaciones mercantiles, y comparecer en juicio sin la licencia marital.
+Tanto el hombre como la mujer casados comerciantes, pueden hipotecar sus bienes raíces para seguridad de sus obligaciones mercantiles y comparecer en juicio sin necesidad de licencia del otro cónyuge, cuando el matrimonio se rija por el régimen de separación de bienes.
 
-No podrá gravar los inmuebles de su marido, ni los que pertenezcan á la sociedad conyugal, á no ser que en la escritura de autorización para dedicarse al comercio, le haya dado el marido facultad expresa para ello.
+En el régimen Social Conyugal, ni el hombre ni la mujer comerciantes, podrán hipotecar ni gravar los bienes de la sociedad, ni los suyos propios cuyos frutos o productos correspondan a la sociedad, sin licencia del otro cónyuge.
 
 ###### Art. 10.
 
-El marido podrá revocar la autorización que para ser comerciante le haya otorgado á su mujer; pero no producirá efecto contra tercero tal revocación, sino después de noventa días de publicada en un lugar visible del establecimiento mercantil de la mujer, y en alguno de los periódicos de la localidad donde resida, ó de la más inmediata, si en ésta no los hubiere.
+(DEROGADO, D.O.F. 6 DE ENERO DE 1954)
 
 ###### Art. 11.
 
-La mujer que al contraer matrimonio se hallaré ejerciendo el comercio, necesitará autorización de su marido para continuarla.
-
-Esta licencia se presumirá concedida, mientras el marido no publique, en la forma prescrita en el artículo anterior, la cesación de su mujer en el ejercicio del comercio.
+(DEROGADO, D.O.F. 6 DE ENERO DE 1954)
 
 ###### Art. 12.
 
@@ -372,7 +372,9 @@ En los actos mercantiles no es necesaria, sino voluntaria, la intervención del 
 
 Para ser corredor se requiere:
 
-I. Ser varón y de veintiún años cumplidos;
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 1954)</small>
+
+I. Ser mayor de 21 años.
 
 II. Ser mexicano por nacimiento ó por naturalización;
 
@@ -7525,3 +7527,9 @@ Las referencias de esta Ley al Código de Procedimientos Civiles, se entienden h
 D.O.F. 3 DE MAYO DE 1946.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 6 DE ENERO DE 1954.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor 10 días después de la fecha de su publicación en el "Diario Oficial" de la Federación.
