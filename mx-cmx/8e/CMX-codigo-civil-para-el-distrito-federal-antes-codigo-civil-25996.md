@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1951-02-27"
+last_updated: "1952-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE FEBRERO DE 1951.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 18 DE ENERO DE 1952.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -6561,7 +6561,11 @@ ARTICULO 1,549.- Toda persona que tuviere en su poder un testamento cerrado y no
 
 ### CAPITULO IV. Del testamento ológrafo
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
 ARTICULO 1,550.- Se llama testamento ológrafo al escrito de puño y letra del testador.
+
+Los testamentos ológrafos no producirán efecto si no están depositados en el Archivo General de Notarías.
 
 ARTICULO 1,551.- Este testamento sólo podrá ser otorgado por las personas mayores de edad, y para que sea válido, deberá estar totalmente escrito por el testador y firmado por él, con expresión del día, mes y año en que se otorgue.
 
@@ -6571,25 +6575,35 @@ ARTICULO 1,552.- Si contuviere palabras tachadas, enmendadas o entre renglones, 
 
 La omisión de esta formalidad por el testador, sólo afecta a la validez de las palabras tachadas, enmendadas o entre renglones, pero no al testamento mismo.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 1,553.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en la sección correspondiente del Registro Público, y el duplicado, también cerrado en un sobre lacrado y con la nota en la cubierta, de que se hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos, los sellos, señales o marcas que estime necesarios para evitar violaciones.
+ARTICULO 1,553.- El testador hará por duplicado su testamento ológrafo e imprimirá en cada ejemplar su huella digital. El original, dentro de un sobre cerrado y lacrado, será depositado en el Archivo General de Notarías, y el duplicado, también cerrado en un sobre lacrado y con la nota en la cubierta, de que hablará después, será devuelto al testador. Este podrá poner en los sobres que contengan los testamentos los sellos, señales o marcas que estime necesarios para evitar violaciones.
 
-ARTICULO 1,554.- El depósito en el Registro Público se hará personalmente por el testador, quien si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento." A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 1,554.- El depósito en el Archivo General de Notarías se hará personalmente por el testador quien, si no es conocido del encargado de la oficina, debe presentar dos testigos que lo identifiquen. En el sobre que contenga el testamento original, el testador, de su puño y letra, pondrá la siguiente constancia: "Dentro de este sobre se contiene mi testamento". A continuación se expresará el lugar y la fecha en que se hace el depósito. La constancia será firmada por el testador y por el encargado de la oficina. En caso de que intervengan testigos de identificación, también firmarán.
 
 ARTICULO 1,555.- En el sobre cerrado que contenga el duplicado del testamento ológrafo se pondrá la siguiente constancia extendida por el encargado de la oficina: "Recibí el pliego cerrado que el señor ................................. afirma contiene original su testamento ológrafo, del cual, según afirmación del mismo señor, existe dentro de este sobre un duplicado." Se pondrá luego el lugar y la fecha en que se extiende la constancia que será firmada por el encargado de la oficina, poniéndose también al calce la firma del testador y de los testigos de identificación, cuando intervengan.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 1,556.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Registro Público, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
+ARTICULO 1,556.- Cuando el testador estuviere imposibilitado para hacer personalmente la entrega de su testamento en las oficinas del Archivo General de Notarías, el encargado de ellas deberá concurrir al lugar donde aquél se encontrare, para cumplir las formalidades del depósito.
 
-ARTICULO 1,557.- Hecho el depósito, el encargado del Registro tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda hacer su entrega al mismo testador o al juez competente.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 1,558.- En cualquier tiempo el testador tendrá derecho de retirar del archivo, personalmente o por medio de mandatario con poder solemne y especial, el testamento depositado; haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+ARTICULO 1,557.- Hecho el depósito, el encargado del Archivo General de Notarías tomará razón de él en el libro respectivo, a fin de que el testamento pueda ser identificado, y conservará el original bajo su directa responsabilidad hasta que proceda a hacer su entrega al mismo testador o al juez competente.
 
-ARTICULO 1,559.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Registro Público del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo del autor de la sucesión, para que en caso de que así sea, se le remita el testamento.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 1,560.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, lo comunicará al juez competente, quien pedirá al encargado de la oficina del Registro en que se encuentre el testamento, que se lo remita.
+ARTICULO 1,558.- En cualquier tiempo el testador podrá retirar del archivo, personalmente o por medio de mandatario con poder especial otorgado en escritura pública, el testamento depositado, haciéndose constar la entrega en una acta que firmarán el interesado y el encargado de la oficina.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 1,559.- El juez ante quien se promueva un juicio sucesorio pedirá informe al encargado del Archivo General de Notarías del lugar, acerca de si en su oficina se ha depositado algún testamento ológrafo de autos de la sucesión, para que en caso de que así sea, se le remita el testamento.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 1,560.- El que guarde en su poder el duplicado de un testamento, o cualquiera que tenga noticia de que el autor de una sucesión ha depositado algún testamento ológrafo, le comunicará al juez competente, quien pedirá al encargado de la Oficina del Archivo General de Notarías, en que se encuentra el testamento, que se le remita.
 
 ARTICULO 1,561.- Recibido el testamento, el juez examinará la cubierta que lo contiene para cerciorarse de que no ha sido violada, hará que los testigos de identificación que residieren en el lugar, reconozcan sus firmas y la del testador, y en presencia del Ministerio Público, de los que se hayan presentado como interesados y de los mencionados testigos, abrirá el sobre que contiene el testamento. Si éste llena los requisitos mencionados en el artículo 1,551 y queda comprobado que es el mismo que depositó el testador, se declarará formal testamento de éste.
 
@@ -6597,7 +6611,9 @@ ARTICULO 1,562.- Sólo cuando el original depositado haya sido destruído o roba
 
 ARTICULO 1,563.- El testamento ológrafo quedará sin efecto cuando el original o el duplicado, en su caso, estuvieren rotos, o el sobre que los cubre resultare abierto, o las firmas que los autoricen aparecieren borradas, raspadas o con enmendaduras, aun cuando el contenido del testamento no sea vicioso.
 
-ARTICULO 1,564.- El encargado del Registro Público no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador o a los jueces competentes que oficialmente se los pidan.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 1,564.- El encargado del Archivo General de Notarías no proporcionará informes acerca del testamento ológrafo depositado en su oficina, sino al mismo testador, a los jueces competentes que oficialmente se los pidan y a los notarios cuando ante ellos se tramite alguna sucesión.
 
 ### CAPITULO V. Del testamento privado
 
@@ -6691,7 +6707,9 @@ ARTICULO 1,594.- Los Secretarios de Legación, los Cónsules y los Vicecónsules
 
 ARTICULO 1,595.- Los funcionarios mencionados remitirán copia autorizada de los testamentos que ante ellos se hubieren otorgado, al Ministerio de Relaciones Exteriores para los efectos prevenidos en el artículo 1,590.
 
-ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones, en el término de diez días, al encargado del Registro Público del domicilio que, dentro del Distrito o Territorios Federales, señale el testador.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 1,596.- Si el testamento fuere ológrafo, el funcionario que intervenga en su depósito lo remitirá por conducto de la Secretaría de Relaciones Exteriores, en el término de diez días, al encargado del Archivo General de Notarías del domicilio que, dentro del Distrito y Territorios Federales, señale el testador.
 
 ARTICULO 1,597.- Si el testamento fuere confiado a la guarda del Secretario de Legación, Cónsul o Vicecónsul, hará mención de esa circunstancia y dará recibo de la entrega.
 
@@ -8693,13 +8711,15 @@ ARTICULO 2,308.- El derecho adquirido por el pacto de preferencia no puede ceder
 
 ARTICULO 2,309.- Si se venden cosas futuras, tomando el comprador el riesgo de que no llegasen a existir, el contrato es aleatorio y se rige por lo dispuesto en el capítulo relativo a la compra de esperanza.
 
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
 ARTICULO 2,310.- La venta que se haga facultando al comprador para que pague el precio en abonos, se sujetará a las reglas siguientes:
 
-I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o de varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público;
+I.- Si la venta es de bienes inmuebles, puede pactarse que la falta de pago de uno o varios abonos ocasionará la rescisión del contrato. La rescisión producirá efectos contra tercero que hubiere adquirido los bienes de que se trata, siempre que la cláusula rescisoria se haya inscrito en el Registro Público.
 
-II.- Si se trata de bienes muebles tales como automóviles, motores, pianos, máquinas de coser u otros que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior, y esta cláusula producirá efectos contra tercero que haya adquirido los bienes, si se inscribió en el Registro Público;
+II.- Si se trata de bienes muebles que sean susceptibles de identificarse de manera indubitable, podrá también pactarse la cláusula resolutoria de que habla la fracción anterior y esa cláusula producirá efectos contra tercero si se inscribió en el Registro Público. El Reglamento determinará cuáles muebles pueden ser materia de registro.
 
-III.- Si se trata de bienes muebles que no sean susceptibles de identificarse indubitablemente, y que, por lo mismo, su venta no puede registrarse, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio; pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
+III.- Si se trata de bienes que no sean susceptibles de identificarse indubitablemente o que conforme al reglamento no puedan ser materia de registro, los contratantes podrán pactar la rescisión de la venta por falta de pago del precio, pero esa cláusula no producirá efectos contra tercero de buena fe que hubiere adquirido los bienes a que esta fracción se refiere.
 
 ARTICULO 2,311.- Si se rescinde la venta, el vendedor y el comprador deben restituirse las prestaciones que se hubieren hecho; pero el vendedor que hubiere entregado la cosa vendida, puede exigir del comprador, por el uso de ella, el pago de un alquiler o renta que fijarán peritos, y una indemnización, también fijada por peritos, por el deterioro que haya sufrido la cosa.
 
@@ -8711,7 +8731,9 @@ ARTICULO 2,312.- Puede pactarse válidamente que el vendedor se reserve la propi
 
 Cuando los bienes vendidos son de los mencionados en las fracciones I y II del artículo 2,310, el pacto de que se trata produce efectos contra tercero, si se inscribe en el Registro Público; cuando los bienes son de la clase a que se refiere la fracción III del artículo que se acaba de citar, se aplicará lo dispuesto en esa fracción.
 
-ARTICULO 2,313.- El vendedor a que se refiere el artículo anterior, mientras no se vence el plazo para pagar el precio, no puede enajenar la cosa vendida con la reserva de propiedad, y al margen de la respectiva inscripción de venta se hará una anotación preventiva en la que se haga constar esa limitación de dominio.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 2,313.- El vendedor a que se refiere el artículo anterior, mientras no se venza el plazo para pagar el precio, no podrá enajenar la cosa vendida con reserva de propiedad. Esta limitación de dominio se anotará al margen de la inscripción de propiedad del vendedor cuando se trate de inmuebles.
 
 > <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
 
@@ -9903,9 +9925,9 @@ ARTICULO 2,718.- El socio o socios administradores están obligados a rendir cue
 
 ARTICULO 2,719.- Cuando la administración no se hubiere limitado a alguno de los socios, todos tendrán derecho de concurrir a la dirección y manejo de los negocios comunes. Las decisiones serán tomadas por mayoría, observándose, respecto de ésta lo dispuesto en el artículo 2,713.
 
-## TITULO SEGUNDO. DEL REGISTRO PUBLICO
+## TITULO SEGUNDO. Del Registro Público
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
 ### CAPITULO IV. De la disolución de las sociedades
 
@@ -10303,13 +10325,15 @@ La fianza puede substituirse con prenda o hipoteca.
 
 ARTICULO 2,851.- Para otorgar una fianza legal o judicial por más de mil pesos se presentará un certificado expedido por el Encargado del Registro Público, a fin de demostrar que el fiador tiene bienes raíces suficientes para responder del cumplimiento de la obligación que garantice.
 
-ARTICULO 2,852.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que al margen de la inscripción de la propiedad correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se pongan nota relativa al otorgamiento de la fianza.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-Extinguida ésta, dentro del mismo término de tres días, se dará aviso al Registro Público, para que haga la cancelación de la nota marginal.
+ARTICULO 2,852.- La persona ante quien se otorgue la fianza, dentro del término de tres días dará aviso del otorgamiento al Registro Público, para que en el registro correspondiente al bien raíz que se designó para comprobar la solvencia del fiador, se haga una anotación preventiva relativa al otorgamiento de la fianza. Extinguida ésta, dentro del mismo término de tres días se dará aviso al Registro Público, para que haga la cancelación de la anotación preventiva.
 
-La falta de avisos hace responsable al que debe darlos, de los daños y perjuicios que su omisión origine.
+La falta de avisos hace responsable al que deba darlos, de los daños y perjuicios que su omisión origine.
 
-ARTICULO 2,853.- En los certificados de gravamen que se expidan en el Registro Público, se harán figurar las notas marginales de que habla el artículo anterior.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 2,853.- En los certificados de gravamen que expida el Registro Público se harán figurar las anotaciones preventivas de que habla el artículo anterior.
 
 ARTICULO 2,854.- Si el fiador enajena o grava los bienes raíces cuyas inscripciones de propiedad están anotadas conforme a lo dispuesto en el artículo 2,852, y de la operación resulta la insolvencia del fiador, aquélla se presumirá fraudulenta.
 
@@ -10327,7 +10351,11 @@ El que dé los frutos en prenda se considerará como depositario de ellos, salvo
 
 ARTICULO 2,858.- Para que se tenga por constituída la prenda, deberá ser entregada al acreedor, real o jurídicamente.
 
-ARTICULO 2,859.- Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley. En estos dos últimos casos, para que el contrato de prenda produzca efecto contra tercero, debe inscribirse en el Registro Público.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 2,859.- Se entiende entregada jurídicamente la prenda al acreedor, cuando éste y el deudor convienen en que quede en poder de un tercero, o bien cuando quede en poder del mismo deudor porque así lo haya estipulado con el acreedor o expresamente lo autorice la ley.
+
+Cuando la prenda quede en poder del deudor, para que surta efectos contra tercero debe inscribirse en el Registro Público. La inscripción sólo podrá efectuarse si se trata de bienes que sean susceptibles de identificarse de manera indubitable y si conforme al Reglamento del Registro pueden ser materia de inscripción.
 
 El deudor puede usar de la prenda que quede en su poder en los términos que convengan las partes.
 
@@ -10811,147 +10839,589 @@ ARTICULO 2,997.- Pagados los créditos enumerados en los capítulos que preceden
 
 ARTICULO 2,998.- Con los bienes restantes serán pagados todos los demás créditos que no estén comprendidos en las disposiciones anteriores. El pago se hará a prorrata y sin atender a las fechas, ni al origen de los créditos.
 
-### CAPITULO I. De las oficinas del Registro
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 2,999.- El Ejecutivo Federal designará las poblaciones en donde deba establecerse la oficina denominada "Registro Público".
+### CAPITULO I. De la Organización de la Oficina
 
-ARTICULO 3,000.- El reglamento fijará el número de secciones de que se componga el Registro y la sección en que deban inscribirse los títulos que se registren.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,001.- El Registro será Público. Los encargados de la oficina tienen la obligación de permitir a las personas que lo soliciten, que se enteren de las inscripciones constantes en los libros del Registro, y de los documentos relacionados con las inscripciones, que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro; así como certificaciones de no existir asientos de ninguna especie o de especie determinada, sobre bienes señalados o a cargo de ciertas personas.
+ARTICULO 2,999.- El Ejecutivo Federal designará las poblaciones donde deba establecerse la oficina denominada "Registro Público".
 
-Tratándose de testamentos ológrafos depositados en el Registro, se observará lo dispuesto en el artículo 1,564.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-### CAPITULO II. De los títulos sujetos a registro y de los efectos legales del registro
+ARTICULO 3,000.- El reglamento fijará el número de secciones de que se componga el Registro y la Sección en que deban inscribirse los títulos que se registren.
 
-ARTICULO 3,002.- Se inscribirán en el registro:
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-I.- Los títulos por los cuales se adquiere, trasmite, modifica, grava o extingue el dominio, la posesión o los demás derechos reales sobre inmuebles;
+ARTICULO 3,001.- El Registro será Público. Los encargados del mismo tienen la obligación de permitir a las personas que lo soliciten, que se enteren, en presencia de un empleado de la oficina, de los asientos que obren en los libros del Registro y de los documentos relacionados con las inscripciones que estén archivados. También tienen obligación de expedir copias certificadas de las inscripciones o constancias que figuren en los libros del Registro, así como certificaciones de no existir asientos de ninguna especie o de especie determinada sobre bienes señalados o a nombre de ciertas personas.
 
-II.- La constitución del patrimonio de familia;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-III.- Los contratos de arrendamiento de bienes inmuebles por un período mayor de seis años y aquéllos en que haya anticipo de rentas por más de tres;
+ARTICULO 3,002.- El reglamento establecerá los requisitos necesarios para ser Director y registrador, así como sus derechos y obligaciones.
 
-IV.- La condición resolutoria en las ventas a que se refieren las fracciones I y II del artículo 2,310;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-V.- Los contratos de prenda que menciona el artículo 2,859;
+ARTICULO 3,003.- El Director, los registradores y los empleados del Registro, además de las penas en que pueden incurrir, responderán civilmente de los daños y perjuicios a que dieren lugar:
 
-VI.- La escritura constitutiva de las sociedades civiles y la que la reforme;
+I.- Si rehusan admitir el título o si no practican el asiento de presentación por el orden de entrada del documento o del aviso a que se refiere el artículo 3016.
 
-VII.- La escritura constitutiva de las asociaciones y la que la reforme;
+II.- Si practican algún asiento indebidamente o rehusan practicarlo sin motivo fundado.
 
-VIII.- Las fundaciones de beneficencia privada;
+III.- Si retardan sin causa justificada la extensión del asiento a que dé lugar el documento inscribible.
 
-IX.- La resoluciones judiciales o de árbitros o arbitradores que produzcan alguno de los efectos mencionados en la fracción I;
+IV.- Si cometen errores, inexactitudes u omisiones en los asientos.
 
-X.- Los testamentos por efecto de los cuales la propiedad de bienes raíces, o de derechos reales, haciéndose el registro después de la muerte del testador;
+V.- Si cometen errores, inexactitudes u omisiones en los certificados que expidan o no los expiden en el término reglamentario.
 
-XI.- En los casos de intestado, el auto declaratorio de los herederos legítimos y el nombramiento de albacea definitivo;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-En los casos previstos en las dos fracciones anteriores, se tomará razón del acta de defunción del autor de la herencia;
+ARTICULO 3,004.- El registrador que fuere condenado por sentencia firme a la indemnización de daños y perjuicio, quedará suspenso del cargo hasta que asegure a los reclamantes las resultas del juicio.
 
-XII.- Las resoluciones judiciales en que se declare un concurso o se habilita una cesión de bienes;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-XIII.- El testimonio de las informaciones ad-perpetuam promovidas y protocolizadas de acuerdo con lo que dispone el Código de Procedimientos Civiles.
+### CAPITULO II. DISPOSICIONES COMUNES
 
-XIV.- Los demás títulos que la ley ordene expresamente que sean registrados.
+De los documentos registrables
 
-ARTICULO 3,003.- Los documentos que conforme a esta ley deben registrarse y no se registren, sólo producirán efectos entre quienes los otorgue; pero no podrán producir perjuicios a terceros, el cual si podrá aprovecharlos en cuanto le fueren favorables.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,004.- Los testamentos ológrafos no producirán efecto sino son depositados en el Registro.
+ARTICULO 3,005.- Solo se registrarán:
 
-ARTICULO 3,005.- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
+I.- Los testimonios de escrituras o actas notariales u otros documentos auténticos.
 
-I.- Que si los actos o contratos hubiesen sido celebrados o las sentencias pronunciadas en el Distrito o en los Territorios Federales, habría sido necesaria su inscripción en el Registro;
+II.- Las resoluciones y providencias judiciales que consten de manera auténtica.
 
-II.- Que estén debidamente legalizados;
+III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que al calce de los mismos haya la constancia de que el notario, el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por los mencionados funcionarios y llevar el sello de la oficina respectiva.
 
-III.- Si fueren resoluciones judiciales, que se ordene su ejecución por la autoridad judicial nacional que corresponda.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,006.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+ARTICULO 3,006.- Los actos ejecutados, los contratos otorgados y las resoluciones judiciales pronunciadas en país extranjero, sólo se inscribirán concurriendo las circunstancias siguientes:
 
-ARTICULO 3,007.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el registro, aparezcan con derecho para ello, no se invalidará, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+I.- Que si los actos o contratos hubiesen sido celebrados o las resoluciones pronunciadas en el Distrito o en los Territorios Federales, habrían sido inscribibles.
 
-Lo dispuesto en este artículo no se aplicará a los contratos gratuitos, ni a actos o contratos que se ejecuten u otorguen violando una ley prohibitiva o de interés público.
+II.- Que los actos o contratos cuya inscripción se pretenda, no estén en desacuerdo con las leyes mexicanas prohibitivas o de interés público.
 
-ARTICULO 3,008.- No podrá ejercitarse ninguna acción contradictoria del dominio de inmuebles o de derechos reales inscritos a nombre de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derecho.
+III.- Que estén debidamente legalizados y que hayan sido protocolizados ante notario mediante orden judicial. Para que se ordene la protocolización de los documentos redactados en idioma extranjero, deberán ser previamente traducidos por el perito que el juez designe.
+
+IV.- Que si fueren resoluciones judiciales, se ordene su ejecución por la autoridad judicial nacional que corresponda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+De los efectos del Registro
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,007.- Los documentos que conforme a este Código sean registrables y no se registren, sólo producirán efectos entre quienes los otorguen; pero no podrá producir perjuicios a tercero, el cual sí podrá aprovecharlos en cuanto le sean favorables.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,008.- La inscripción no convalida los actos o contratos que sean nulos con arreglo a las leyes.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,009.- No obstante lo dispuesto en el artículo anterior, los actos o contratos que se otorguen o celebren por personas que en el Registro aparezcan con derecho a ello, no se invalidarán, en cuanto a tercero de buena fe, una vez inscritos, aunque después se anule o resuelva el derecho del otorgante en virtud de título anterior no inscrito o de causas que no resulten claramente del mismo registro.
+
+El tercero tendrá a su favor la presunción de buena fe. Lo dispuesto en este artículo no se aplicará a los contratos gratuitos.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,010.- El derecho registrado se presume que existe y que pertenece a su titular en la forma expresada por el asiento respectivo. Se presume también que el titular de una inscripción de dominio o de posesión tiene la posesión del inmueble inscrito.
+
+No podrá ejercitarse acción contradictoria del dominio de inmuebles, de derechos reales sobre los mismos o de otros derechos inscritos o anotados a favor de persona o entidad determinada, sin que, previamente o a la vez, se entable demanda de nulidad o cancelación de la inscripción en que conste dicho dominio o derechos.
 
 En el caso de embargo precautorio, juicio ejecutivo o procedimiento de apremio contra bienes o derechos reales determinados, se sobreseerá todo procedimiento de apremio respecto de los mismos o de sus frutos, inmediatamente que conste en los autos, por manifestación auténtica del Registro de la Propiedad, que dichos bienes o derechos están inscritos a favor de persona distinta de aquella contra la cual se decretó el embargo o se siguió el procedimiento, a no ser que se hubiere dirigido contra ella la acción, como causahabiente del que aparece dueño en el Registro.
 
-ARTICULO 3,009.- No pueden los bienes raíces o los derechos reales impuestos sobre los mismos, aparecer inscritos a la vez en favor de dos o más personas distintas, a menos que éstas sean copartícipes.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-### CAPITULO III. Del modo de hacer el registro y de las personas que tienen derecho de pedir la inscripción
+ARTICULO 3,011.- Los derechos reales y en general cualquier gravamen o limitación de los mismos o del dominio, para que surtan efectos contra tercero, deberán constar en el registro de la finca sobre que recaigan, separada y especialmente, en la forma que determine el reglamento. Lo dispuesto en este artículo se aplicará a los inmuebles que en su caso comprenda la hipoteca industrial prevista por la Ley General de Instituciones de Crédito y Organizaciones Auxiliares, a la hipoteca sobre los sistemas de las empresas, a que se refiere la Ley de Vías Generales de Comunicación, y a casos similares previstos en leyes especiales.
 
-ARTICULO 3,010.- La inscripción de los títulos en el Registro puede pedirse por todo el que tenga de interés legítimo en asegurar el derecho que se va a inscribir, o por el notario que haya autorizado la escritura de que se trate.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,011.- Sólo se registrarán:
+ARTICULO 3,012.- Tratándose de inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, la sociedad conyugal no surtirá efectos contra tercero si no consta inscrita en el registro relativo a dichos inmuebles y derechos.
 
-I.- Los testimonios de escritura pública y otros documentos auténticos;
+Cualquiera de los cónyuges u otro interesado tienen derecho a pedir la rectificación del asiento respectivo, cuando alguno de esos bienes pertenezcan a la sociedad conyugal y aparezca inscrito a nombre de uno solo de aquellos.
 
-II.- Las sentencias y providencias judiciales certificadas legalmente;
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
 
-III.- Los documentos privados que en esta forma fueren válidos con arreglo a la ley, siempre que alcance de los mismos haya la constancia de que el registrador, la autoridad municipal o el juez de paz se cercioró de la autenticidad de las firmas y de la voluntad de las partes. Dicha constancia deberá estar firmada por las mencionadas autoridades y llevar el sello de la oficina respectiva.
+De la Prelación
 
-ARTICULO 3,012.- El interesado presentará el título que va ser registrado y cuando se trate de documentos que implique transmisiones o modificaciones de la propiedad de fincas rústicas o urbanas un plano o croquis de esas fincas.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,013.- El registrador hará la inscripción si se encuentra que el título presentado es de los que deben inscribirse; llenas las formas extrínsecas exigidas por la ley y contienen los datos a que se refiere el artículo 3,015. En caso contrario, devolverá el título sin registrar, siendo necesaria resolución judicial para que se haga el registro.
+ARTICULO 3,013.- La preferencia entre derechos reales sobre una misma finca o derechos, se determinará por la prioridad de su inscripción en el Registro, cualquiera que sea la fecha de su constitución.
 
-ARTICULO 3,014.- En el caso a que se refiere la parte final del artículo anterior, el registrador tiene la obligación de hacer una inscripción preventiva, a fin de que si la autoridad judicial ordena que se registre el título rechazado, la inscripción definitiva surta sus efectos desde que por primera vez se presentó el título. Si el juez aprueba la calificación hecha por el registrador, se cancelará la inscripción preventiva.
+El derecho real adquirido con anterioridad a la fecha de una anotación preventiva será preferente aun cuando su inscripción sea posterior siempre que se dé el aviso que previene el artículo 3016.
 
-Transcurridos tres años sin que se comunique al registrador la calificación que del título presentado haya hecho el juez, a petición de parte interesada se cancelará la inscripción preventiva.
+Si la anotación preventiva se hiciere con posterioridad a la presentación del aviso preventivo, el derecho real motivo de éste, será preferente aun cuando tal aviso se hubiese dado extemporáneamente.
 
-ARTICULO 3,015.- Toda inscripción que se haga en el Registro expresará las circunstancias siguientes:
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que debe inscribirse; su medida superficial, nombre y número si constaré en el título, o a la referencia al registro anterior, en donde consten esos datos; así mismo, constará la mención de haberse agregado el plano o croquis al legajo respectivo.
+ARTICULO 3,014.- Los asientos del Registro, en cuanto se refieren a los derechos inscribibles o anotables, producen todos sus efectos mientras no se declare su inexactitud por la autoridad judicial competente.
 
-II.- La naturaleza, extensión, condiciones y cargas del derecho que se constituya, trasmita, modifique o extinga;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores. Si el derecho no fuere de cantidad determinada, los interesados fijarán en el título la estimación que le den;
+ARTICULO 3,015.- El registro producirá sus efectos desde el día y hora en que el documento se hubiere presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
 
-IV.- Tratándose de hipotecas, la época en que podrá exigirse el pago del capital garantido (sic), y si causaré réditos, la tasa o el monto de éstos y la fecha desde que deban correr;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-V.- Los nombres, edades, domicilios y profesiones de las personas que por sí mismas o por medio de representantes hubieren celebrado el contrato o ejecutado el acto sujeto a inscripción. Las personas morales se designarán por el nombre oficial que lleven, y las sociedades, por su razón o denominación;
+ARTICULO 3,016.- A más tardar dentro de los dos días hábiles siguientes a aquel en que se firme una escritura en que se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga la propiedad o posesión originaria de bienes raíces, o cualquier derecho real sobre los mismos o que sin serlo sea inscribible, el notario ante quien se otorgue dará al Registro un aviso en el que conste la finca de que se trata, el negocio jurídico otorgado, los nombres de los interesados en él, el número y la fecha de la escritura y la de su firma e indicación de los números y demás datos bajo los cuales aparezca inscrita la propiedad o el derecho en su caso. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente el asiento de presentación. Si dentro de los sesenta días naturales siguientes a la fecha en que se hubiere firmado la escritura se presentare el testimonio respectivo, su inscripción surtirá efectos contra tercero desde la fecha del asiento de presentación hecho en virtud del aviso del notario. Si el testimonio se presentare después, su registro sólo surtirá efectos desde la fecha de su presentación.
 
-VI.- La naturaleza del acto o contrato;
+Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberán dar el aviso a que se refiere este artículo, las autoridades de que habla la fracción III del artículo 3005 y el mencionado aviso producirá los mismos efectos que el dado por el notario.
 
-> <small>(F. DE E., D.O.F. 21 DE DICIEMBRE DE 1928)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-VII.- La fecha del título y el funcionario que lo haya autorizado.
+ARTICULO 3,017.- La inscripción definitiva de un derecho que haya sido anotado preventivamente, surtirá sus efectos desde la fecha en que la anotación los estaba produciendo.
 
-VIII.- El día y la hora de la presentación del título en el Registro.
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,016.- El registrador que haga una inscripción sin cumplir con lo dispuesto en el artículo anterior, será responsable de los daños y perjuicios que cause a los interesados, y sufrirá la suspensión de empleo por tres meses.
+De quiénes pueden pedir el registro y de la calificación registral
 
-ARTICULO 3,017.- El registro producirá sus efectos desde el día y la hora en que el documento se hubiese presentado en la oficina registradora, salvo lo dispuesto en el artículo siguiente.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,018.- Una vez que se firme una escritura en que se adquiera, transmita, modifique o extinga la propiedad o posesión de bienes raíces o en la que se haga constar un crédito que tenga preferencia desde que sea registrado, el notario que la autorice dará al Registro un aviso en el que conste la finca de que se trate, la indicación de que se ha transmitido o modificado su dominio o se ha constituído, trasmitido, modificado o extinguido el derecho real sobre ella, los nombres de los interesados en la operación, la fecha de la escritura y la de su firma e indicación del número, tomo y sección en que estuviere inscrita la propiedad en el Registro. El registrador, con el aviso del notario y sin cobro de derecho alguno, hará inmediatamente una anotación preventiva al margen de la inscripción de propiedad. Si dentro del mes siguiente a la fecha en que se hubiere firmado la escritura se presentaré el testimonio respectivo, su inscripción surtirá efecto contra tercero desde la fecha de la anotación preventiva, la cual se citará en el registro definitivo. Si el testimonio se presenta después, su registro sólo surtirá efectos desde la fecha de la presentación.
+ARTICULO 3,018.- La inscripción o anotación de los títulos en el Registro puede pedirse por todo el que tenga interés legítimo en el derecho que se va a inscribir o a anotar, o por el notario a que haya autorizado la escritura de que se trate.
 
-Si el documento en que conste alguna de las operaciones que se mencionan en el párrafo anterior fuere privado, deberá dar el aviso a que este artículos se refiere, las autoridades de que habla la fracción III del artículo 3,011, y el mencionado aviso producirá los mismos efectos que el dado por el notario.
+Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
 
-ARTICULO 3,019.- Los encargados del Registro son responsables, además de las penas en que puedan incurrir, de los daños y perjuicios a que dieren lugar:
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-I.- Si rehusan sin motivo legal o retardo sin causa justificada, la inscripción de los documentos que les sean presentados.
+ARTICULO 3,019.- Para inscribir o anotar cualquier título, deberá constar previamente inscrito o anotado el derecho de la persona que otorgó aquél o de la que vaya a resultar perjudicada por la inscripción, a no ser que se trate de una inscripción de inmatriculación.
 
-II.- Si rehusan expedir con prontitud los certificados que se les piden;
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-III.- Si comenten omisiones al extender las certificaciones mencionadas, salvo si el error proviene de insuficiencia o inexactitud de las declaraciones, que no le sean imputables.
+ARTICULO 3,020.- Inscrito o anotado un título, no podrá inscribirse o anotarse otro de igual o anterior fecha que refiriéndose al mismo inmueble o derecho real, se le oponga o sea incompatible.
 
-ARTICULO 3,020.- En el caso de los números I y II del artículo que precede, los interesados harán constar inmediatamente, por información judicial de dos testigos, el hecho de haberse rehusado el encargado del Registro, a fin de que puedan servirles de pruebas en el juicio correspondiente.
+Si sólo se hubiere extendido el asiento de presentación, tampoco podrá inscribirse o anotarse otro título de la clase antes expresada mientras el asiento esté vigente.
 
-ARTICULO 3,021.- Hecho el registro, serán devueltos los documentos al que los presentó, con nota de quedar registrados en tal fecha y bajo tal número.
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
 
-ARTICULO 3,022.- El reglamento especial establecerá los derechos y obligaciones de los registradores, así como las fórmulas y demás requisitos que deben llenar las inscripciones.
+ARTICULO 3,021.- Los registradores calificarán bajo su responsabilidad los documentos que se presenten para la práctica de alguna inscripción o anotación, la que suspenderán o denegarán en los casos siguientes:
 
-### CAPITULO IV. Del registro de las informaciones de dominio
+I.- Cuando el título presentado no es de los que deben inscribirse o anotarse.
 
-ARTICULO 3,023.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos, y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, sino está en el caso de deducir la acción que le concede el artículo 1,156, por no estar inscrita en el Registro la propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente, que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público, que demuestre que los bienes no están inscritos.
+II.- Cuando el documento no revista las formas extrínsecas que establezca la ley.
 
-La información que se recibirá con citación del Ministerio Público, del respectivo registrador de la Propiedad y de los colindantes.
+III.- Cuando los funcionarios ante quienes se haya otorgado o ratificado el documento, no hayan hecho constar la capacidad de los otorgantes o cuando sea notoria la incapacidad de éstos.
+
+IV.- Cuando el contenido del documento sea notoriamente contrario a las leyes prohibitivas o de interés público.
+
+V.- Cuando el negocio jurídico de que se trate, carezca de validez.
+
+VI.- Cuando haya incompatibilidad entre el texto del documento y los asientos del registro.
+
+VII.- Cuando se trate de resoluciones judiciales que provengan de juez notoriamente incompetente.
+
+VIII.- Cuando no se individualicen los bienes del deudor sobre los que se constituya un derecho real, o cuando no se fije la cantidad máxima que garantice un gravamen en el caso de obligaciones de monto indeterminado, salvo los casos previstos en el último párrafo del artículo 3011.
+
+IX.- Cuando falte algún otro requisito que deba llevar el documento de acuerdo con este Código u otras leyes aplicables.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,022.- La calificación hecha por el registrador podrá recurrirse ante el Director del Registro. Si éste confirma la calificación, el perjudicado por ella podrá reclamarla en juicio sumario, en el que será parte el Director.
+
+En los Territorios no habrá recurso administrativo, y en el procedimiento judicial se considerará impedido el juez que desempeñe las funciones de registrador.
+
+Si la autoridad judicial ordena que se registre el Título rechazado, la inscripción surtirá sus efectos desde que por primera vez se presentó el título, si se hubiere hecho la anotación preventiva a que se refiere la fracción V del artículo 3043.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+De la rectificación de asientos
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,023.- La rectificación de los asientos por causa de error material o de concepto, solo procede cuando exista discrepancia entre el título y la inscripción.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,024.- Se entenderá que se comete error material cuando sin intención conocida se escriban unas palabras por otras, se omita la expresión de alguna circunstancia o se equivoquen los nombres propios o las cantidades al copiarlas del título, sin cambiar por eso el sentido general de la inscripción ni el de ninguno de sus conceptos.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,025.- Se entenderá que se comete error de concepto cuando al expresar en la inscripción alguno de los contenidos en el título, se altere o varíe su sentido porque el registrador se hubiere formado un juicio equivocado del mismo, por una errónea calificación del contrato o acto en él consignado o por cualquiera otra circunstancia.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,026.- Cuando se trate de errores de concepto los asientos practicados en los libros del registro sólo podrán rectificarse con consentimiento de todos los interesados en el asiento.
+
+A falta del consentimiento unánime de los interesados, la rectificación sólo podrá efectuarse por resolución judicial.
+
+En caso de que el registrador se oponga a la rectificación, se observará lo dispuesto en el artículo 3022.
+
+En el caso previsto por el artículo 3012 el que solicite la rectificación deberá acompañar a la solicitud que presente al registro, los documentos con los que pruebe el régimen matrimonial.
+
+En ningún caso la rectificación perjudicará los derechos adquiridos por tercero a título oneroso y de buena fe durante la vigencia del asiento que se declare inexacto.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,027.- El concepto rectificado surtirá efectos desde la fecha de la rectificación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+De la extinción de asientos
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,028.- Las inscripciones no se extinguen en cuanto a tercero sino por su cancelación o por el registro de la transmisión del dominio o derecho real inscrito a otra persona.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,029.- Las anotaciones preventivas se extinguen por cancelación, por caducidad o por su conversión en inscripción.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,030.- Las inscripciones y anotaciones pueden cancelarse por consentimiento de las personas a cuyo favor estén hechas o por orden judicial. Podrán no obstante ser canceladas a petición de parte sin dichos requisitos cuando el derecho inscrito a (sic) anotado quede extinguido por disposición de la ley o por causas que resulten del título en cuya virtud se practicó la inscripción o anotación debido a hecho que no requiera la intervención de la voluntad.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,031.- Para que el asiento pueda cancelarse por consentimiento, éste deberá constar en escritura pública si el monto del derecho cuyo registro se cancela es superior a quinientos pesos.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,032.- La cancelación de las inscripciones y anotaciones preventivas podrá ser total o parcial.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,033.- Podrá pedirse y deberá ordenarse, en su caso, la cancelación total:
+
+I.- Cuando se extinga por completo el inmueble objeto de inscripción.
+
+II.- Cuando se extinga también por completo el derecho inscrito o anotado.
+
+III.- Cuando se declare la nulidad del título en cuya virtud se haya hecho la inscripción o anotación.
+
+IV.- Cuando se declare la nulidad del asiento.
+
+V.- Cuando sea vendido judicialmente el inmueble que reporta el gravamen en el caso previsto en el artículo 2325.
+
+VI.- Cuando tratándose de cédula hipotecaria o de embargo, hayan transcurrido dos años desde la fecha del asiento, sin que el interesado haya promovido en el juicio correspondiente.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,034.- Podrá pedirse y deberá decretarse, en su caso, la cancelación parcial:
+
+I.- Cuando se reduzca el inmueble objeto de la inscripción o anotación preventiva.
+
+II.- Cuando se reduzca el derecho inscrito o anotado.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,035.- Las anotaciones preventivas, cualesquiera que sea su origen, caducarán a los tres años de su fecha, salvo aquellas a las que se les fije un plazo de caducidad más breve. No obstante, a petición de parte o por mandato de las autoridades que las decretaron, podrán prorrogarse una o más veces por dos años cada vez, siempre que la prórroga sea anotada antes de que caduque el asiento.
+
+La caducidad produce la extinción del asiento respectivo por el simple transcurso del tiempo; pero cualquier interesado podrá solicitar en este caso que se registre la cancelación de dicho asiento.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,036.- Cancelado un asiento, se presume extinguido el derecho a que dicho asiento se refiere.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,037.- Los padres como administradores de los bienes de su (sic) hijos, los tutores de menores incapacitados y cualesquiera otros administradores, aunque habilitados para recibir pagos y dar recibos, sólo pueden consentir la cancelación del registro hecho en favor de sus representados, en el caso de pago o por sentencia judicial.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,038.- La cancelación de las inscripciones de hipotecas constituídas en garantía de títulos transmisibles por endoso, puede hacerse:
+
+I.- Presentándose la escritura otorgada por los que hayan cobrado los créditos, en la cual debe constar haberse inutilizado en el acto de su otorgamiento los títulos endosables.
+
+II.- Por ofrecimiento de pago y consignación del importe de los títulos, tramitados y resueltos de acuerdo con las disposiciones legales relativas.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,039.- Las inscripciones de hipotecas constituídas con el objeto de garantizar títulos al portador, se cancelarán totalmente si se hiciere constar por acta notarial estar recogida y en poder del deudor la emisión de títulos debidamente inutilizados.
+
+Procederá también la cancelación total si se presentasen, por lo menos, las tres cuartas partes de los títulos al portador emitidos y se asegurase el pago de los restantes, consignándose su importe y el de los intereses que procedan. La cancelación, en este caso, deberá acordarse por sentencia, previos los trámites fijados en el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,040.- Podrán cancelarse parcialmente las inscripciones hipotecarias de que se trata, presentando acta notarial que acredite estar recogidos y en poder del deudor, debidamente inutilizados, títulos por un valor equivalente al importe de la hipoteca parcial que se trate de extinguir, siempre que dichos títulos asciendan, por lo menos, a la décima parte del total de la emisión.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,041.- Podrá también cancelarse total o parcialmente la hipoteca que garantice tanto títulos nominativos como al portador, por consentimiento del representante común de los tenedores de los títulos, siempre que esté autorizado para ello y declare bajo su responsabilidad que ha recibido el importe por el que cancela.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+### CAPITULO III. DEL REGISTRO DE LA PROPIEDAD INMUEBLE
+
+De los títulos inscribibles y de los anotables.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,042.- En el registro de la propiedad inmueble se inscribirán:
+
+I.- Los títulos por los cuales se cree, declare, reconozca, adquiera, transmita, modifique, limite, grave o extinga el dominio, la posesión originaria o los demás derechos reales sobre inmuebles.
+
+II.- Los contratos de arrendamiento de bienes inmuebles, por un periodo mayor de seis años y aquellos en que haya anticipos de rentas por más de tres años.
+
+III.- Los demás títulos que la ley ordene expresamente que sean registrados.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,043.- Se anotarán preventivamente en el Registro:
+
+I.- Las demandas relativas a la propiedad de bienes inmuebles o a la constitución, declaración, modificación o extinción de cualquier derecho real sobre aquéllos.
+
+II.- El mandamiento y el acta de embargo que se haya hecho efectivo en bienes inmuebles del deudor.
+
+III.- Las demandas promovidas para exigir el cumplimiento de contratos preparatorios o para dar forma legal al acto o contrato concertado cuando tenga por objeto inmuebles o derechos reales sobre los mismos.
+
+IV.- Las providencias judiciales que ordenen el secuestro o prohiban la enajenación de bienes inmuebles o derechos reales.
+
+V.- Los títulos presentados al Registro y cuya inscripción haya sido denegada o suspendida por el registrador.
+
+VI.- Las fianzas legales o judiciales de acuerdo con lo establecido por el artículo 2852 de este Código.
+
+VII.- Las declaraciones de expropiación, de limitación de dominio o de ocupación temporal de bienes inmuebles.
+
+VIII.- Las resoluciones judiciales en materia de amparo que ordenen la suspensión provisional o definitiva, en relación con bienes inscritos en el Registro.
+
+IX.- Cualquier otro título que sea anotable de acuerdo con este Código u otras leyes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+De los efectos de las anotaciones
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,044.- La anotación preventiva, perjudicará a cualquier adquirente de la finca o derecho real a que se refiere la anotación, cuya adquisición sea posterior a la fecha de aquélla, y en su caso, dará preferencia para el cobro del crédito sobre cualquier otro de fecha posterior a la anotación.
+
+En los casos de las fracciones IV y VIII del artículo anterior, podrá producirse el cierre del registro en los términos de la resolución correspondiente.
+
+En el caso de la fracción VI, la anotación no producirá otro efecto que el fijado por el artículo 2854.
+
+En el caso de la fracción VII, la anotación servirá únicamente para que conste la afectación en el registro del inmueble sobre el que hubiere recaído la declaración; pero bastará la publicación del decreto relativo en el "Diario Oficial" de la Federación para que queden sujetos a las resultas del mismo tanto el propietario o poseedor, como los terceros que intervengan en cualquier acto o contrato posterior a dicha publicación, respecto del inmueble afectado, debiendo hacerse la inscripción definitiva que proceda, hasta que se otorgue la escritura respectiva, salvo el caso expresamente previsto por alguna ley en que se establezca que no es necesario este requisito.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,045.- Salvo los casos en que la anotación cierre el registro, los bienes inmuebles o derechos reales anotados podrán enajenarse y gravarse, pero sin perjuicio del derecho de la persona a cuyo favor se haya hecho la anotación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+De la inmatriculación
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,046.- La inmatriculación se practicará:
+
+I.- Mediante información de dominio.
+
+II.- Mediante información posesoria.
+
+III.- Mediante resolución judicial que la ordene y que se haya dictado como consecuencia de la presentación de titulación fehaciente que abarque sin interrupción un periodo por lo menos de cinco años.
+
+IV.- Mediante la inscripción del decreto publicado en el "Diario Oficial" de la Federación que convierta en bien de dominio privado un inmueble que no tenga tal carácter, o del título o títulos que se expidan con fundamento en aquel decreto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,047.- El que haya poseído bienes inmuebles por el tiempo y con las condiciones exigidas para prescribirlos y no tenga título de propiedad o teniéndolo no sea inscribible por defectuoso, si no está en el caso de deducir la acción que le concede el artículo 1156, por no estar inscrita en el Registro la Propiedad de los bienes en favor de persona alguna, podrá demostrar ante el juez competente que ha tenido esa posesión, rindiendo la información respectiva en los términos que establezca el Código de Procedimientos Civiles. A su solicitud acompañará precisamente certificado del Registro Público que demuestre que los bienes no están inscritos y otro relativo al estado actual de la finca en el Catastro y en los padrones de la oficina del Impuesto sobre la Propiedad Raíz.
+
+La información se recibirá con citación del Ministerio Público, de la autoridad municipal, del respectivo registrador de la propiedad, de los colindantes y de la persona que tenga catastrada la finca a su favor o a cuyo nombre se expidan las boletas del impuesto predial.
 
 Los testigos deben ser por lo menos tres de notorio arraigo en el lugar de la ubicación de los bienes a que la información se refiere.
 
-No se recibirá la información sin que previamente se haya dado una amplia publicidad por medio de la prensa y de avisos fijados en los lugares públicos, a la solicitud del promovente.
+No se recibirá la información sin que previamente se publique la solicitud del promovente, por tres veces, de tres en tres días, en el Boletín Judicial y en otro periódico de los de mayor circulación. Además, se fijará un ejemplar del aviso en el predio objeto de la información.
 
-Comprobada debidamente la posesión el juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+Comprobada debidamente la posesión, el Juez declarará que el poseedor se ha convertido en propietario en virtud de la prescripción, y tal declaración se tendrá como título de propiedad y será inscrita en el Registro Público.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,048.- El que tenga una posesión apta para prescribir, de bienes inmuebles no inscritos en el Registro en favor de persona alguna, aun antes de que transcurra el tiempo necesario para prescribir, puede registrar su posesión mediante resolución judicial que dicte el juez competente, ante quien la acredita del modo que fije el Código de Procedimientos Civiles.
+
+A la solicitud acompañará los documentos que se mencionan en la parte final del párrafo primero del artículo anterior.
+
+La información que se rinda para demostrar la posesión se sujetará a lo dispuesto en los párrafos segundo, tercero y cuarto del artículo que precede.
+
+Las declaraciones de los testigos versarán sobre el hecho de la posesión, sobre los requisitos que deba tener para servir de base a la prescripción adquisitiva y sobre el origen de la posesión.
+
+El efecto de la inscripción será tener la posesión inscrita como apta para producir la prescripción al concluir el plazo de cinco años contados desde la misma inscripción.
+
+Las inscripciones de posesión expresarán las circunstancias exigidas para las inscripciones en general y además las siguientes: los nombres de los testigos que hayan declarado; el resultado de las declaraciones y la resolución judicial que ordene la inscripción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,049.- Cualquiera que se crea con derecho a los bienes cuya inscripción se solicita mediante información de dominio o de posesión, podrá alegarlo ante la autoridad judicial competente.
+
+La presentación del escrito de oposición, en la forma que establece el Código de Procedimientos Civiles, suspenderá el curso del expediente de información; si éste estuviere ya concluído y aprobado deberá el juez poner la demanda en conocimiento del registrador para que suspenda la inscripción y si ya estuviese hecha, para que anote dicha demanda.
+
+Si el opositor deja transcurrir seis meses sin promover en el procedimiento de oposición, quedará éste sin efecto, haciéndose en su caso la cancelación que proceda.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,050.- Transcurridos cinco años desde que se practicó la inscripción, sin que en el Registro aparezca algún asiento que contradiga la posesión inscrita, tiene derecho el poseedor, comprobando este hecho mediante la presentación del certificado respectivo, a que el juez competente declare que se ha convertido en propietario en virtud de la prescripción y ordena se haga en el Registro la inscripción de dominio correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,051.- No podrán inscribirse mediante información posesoria, las servidumbres continuas no aparentes, ni las discontinuas, sean o no aparentes, ni tampoco el derecho hipotecario.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,052.- El que tenga títulos fehacientes que abarquen cuando menos un período ininterrumpido de cinco años inmediatamente anteriores a su promoción, podrá inmatricular su predio mediante resolución judicial, siempre y cuando se satisfagan los siguientes requisitos:
+
+I.- Que acompañe a su promoción, además de la titulación:
+
+a).- Un certificado del Registro Público de la Propiedad que acredite que el bien de que se trata no está inscrito a favor de persona alguna; b).- Las boletas que comprueben que el predio está al corriente en el pago del impuesto predial; c).- Un informe del estado actual de la finca en el Catastro, rendido por esta Oficina; d).- Un informe de la Oficina del Impuesto sobre la Propiedad Raíz en el que conste el nombre de la persona que tiene registrado en el padrón correspondiente al predio.
+
+II.- Que en tal promoción manifieste bajo protesta de decir verdad si está poseyendo el predio o el nombre del poseedor en su caso.
+
+III.- Que se publique la solicitud de inscripción en el Boletín Judicial y en uno de los periódicos de mayor circulación en la entidad correspondientes, por tres veces en cada uno de ellos con intervalo de diez días.
+
+IV.- Que se cite a la autoridad municipal correspondiente, a los colindantes, a las personas que figuren en los padrones de las Oficinas del Impuesto sobre la Propiedad Raíz y del Catastro, así como al poseedor cuando sea el caso.
+
+V.- Que transcurra un plazo de treinta días a partir de la última publicación sin que haya oposición.
+
+Si hubiere oposición, estas se ventilará en la vía sumaria; pero sólo podrá tomarse en cuenta si se funda en la posesión o en la titulación fehaciente del mismo inmueble y, para su tramitación se observará lo dispuesto en los dos últimos párrafos del artículo 3049.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+Del modo de llevar el registro
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,053.- El Reglamento establecerá el sistema conforme al cual deben llevarse los libros del Registro y practicarse los asientos.
+
+La primera inscripción de cada finca será de dominio o de posesión.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,054.- Los asientos de presentación expresarán:
+
+I.- La especie de título presentado, su fecha, número si lo tuviere y autoridad o notario que lo autorice o legalice.
+
+II.- La fecha y hora de su presentación.
+
+III.- La naturaleza del hecho o negocio jurídico.
+
+IV.- Los bienes o derechos objeto del título presentado.
+
+V.- Los nombres y apellidos de los interesados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,055.- Los asientos de inscripción, deberán expresar las circunstancias siguientes:
+
+I.- La naturaleza, situación y linderos de los inmuebles objeto de la inscripción o a los cuales afecte el derecho que deba inscribirse; su medida superficial, nombre y número si constare en el título; así como las referencias al registro anterior y las catastrales que prevenga el Reglamento.
+
+II.- La naturaleza, extensión y condiciones del derecho de que se trate.
+
+III.- El valor de los bienes o derechos a que se refieren las fracciones anteriores, cuando conforme a la ley deba expresarse en el título.
+
+IV.- Tratándose de hipotecas, la obligación garantizada; la época en que podrá exigirse su cumplimiento; el importe de ella o la cantidad máxima asegurada cuando se trate de obligaciones de monto indeterminado; los réditos si se causaren y la fecha desde que deban correr.
+
+V.- Los nombres de las personas físicas o morales a cuyo favor se haga la inscripción y de aquellas de quienes procedan inmediatamente los bienes. Cuando el título exprese nacionalidad, lugar de origen, edad, estado civil, ocupación y domicilio de los interesados, se hará mención de esos datos en la inscripción.
+
+VI.- La naturaleza del hecho o negocio jurídico.
+
+VII.- La fecha del título, número si lo tuviere y el funcionario que lo haya autorizado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,056.- Las anotaciones preventivas contendrán las circunstancias que exprese el artículo anterior en cuanto resulte de los documentos presentados y, por lo menos, la finca o derecho anotado, la persona a quien favorezca la anotación y la fecha de ésta.
+
+Las que deban su origen a embargo o secuestro, expresarán la causa que haya dado lugar a aquellos y el importe de la obligación que los hubiere originado.
+
+Las que provengan de una declaración de expropiación, limitación de dominio u ocupación de bienes inmuebles, mencionarán la fecha del decreto respectivo la de su publicación en el "Diario Oficial" y el fin de utilidad pública que sirva de causa a la declaración.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,057.- Los asientos de cancelación de una inscripción o anotación preventiva, expresarán:
+
+I.- La clase, número si lo tuviere y fecha del documento en cuya virtud se cancele y el nombre del funcionario que lo autorice.
+
+II.- La causa por la que se hace la cancelación.
+
+III.- El nombre y apellidos de la persona, a cuya instancia o con cuyo consentimiento se verifique la cancelación.
+
+IV.- La expresión de quedar cancelado total o parcialmente el asiento de que se trate.
+
+V.- Cuando se trate de cancelación parcial, la parte que se segregue o que haya desaparecido del inmueble, o la que reduzca del derecho y la que subsista.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,058.- Las notas marginales deberán contener las indicaciones necesarias para relacionar entre sí las fincas o asientos a que se refieren y, en su caso, el hecho de que se trate de acreditar, y el documento en cuya virtud se entiendan.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,059.- Los requisitos que según los artículos anteriores deban contener los asientos, podrán omitirse cuando ya consten en otros del registro de la finca, haciéndose sólo referencia al asiento que los contenga.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,060.- Todos los asientos, de la clase que fueren, deberán ir firmados por el registrador y expresar la fecha en que se practique, así como el día y la hora del asiento de presentación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,061.- Los asientos del Registro no surtirán efectos mientras no estén firmados por el registrador o funcionario que lo substituya; pero la firma de aquellos puede exigirse por quien tenga el tíulo (sic) con la certificación de haber sido registrado.
+
+Los asientos podrán anularse por resolución judicial con audiencia de los interesados, cuando substancialmente se hubieren alterados dichos asientos, así como en el caso de que hayan cambiado los datos esenciales relativos a la finca de que se trate, o a los derechos inscritos o al titular de éstos, sin perjuicio de los establecidos respecto a la rectificación de errores.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,062.- La nulidad de los asientos de que se trata en el artículo anterior no perjudicará el derecho anteriormente adquirido por un tercero protegido con arreglo al artículo 3009.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+Del registro de operaciones sobre muebles
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,063.- Se inscribirá en el registro de operaciones sobre bienes muebles:
+
+I.- Los contratos de compraventa de bienes muebles sujetos a condición resolutoria a que se refiere la fracción II del artículo 2310.
+
+II.- Los contratos de compraventa de bienes muebles por los cuales el vendedor se reserva la propiedad de los mismos, a que se refiere el artículo 2312.
+
+III.- Los contratos de prenda que menciona el artículo 2859.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,064.- Toda inscripción que se haga en este registro deberá expresar las circunstancias siguientes:
+
+I.- Los nombres y domicilios de los contratantes.
+
+II.- La naturaleza del mueble con la (sic) circunstancias o señales que sirvan para identificarlo de manera indubitable.
+
+III.- El precio y forma de pago estipulados con el contrato, y en su caso, el importe del crédito garantizado con la prenda.
+
+IV.- La fecha en que se practique y la firma del registrador.
+
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1952)</small>
+
+### CAPITULO V (SIC). Del registro de personas morales
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,065.- En el registro de las personas morales se inscribirán:
+
+I.- Los instrumentos por los que se constituyan, reformen o disuelvan las sociedades y asociaciones civiles, y sus estatutos.
+
+II.- Los instrumentos que contenga la protocolización de los estatutos de asociaciones y sociedades extranjeras de carácter civil, y de sus reformas, cuando se haya comprobado el registrador que existe la autorización a que alude el artículo 2337.
+
+III.- Las fundaciones de beneficiencia (sic) privada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,066.- Las inscripciones referentes a la constitución de personas morales, deberán contener las circunstancias siguientes:
+
+I.- El nombre de los otorgantes.
+
+II.- La razón social o denominación.
+
+III.- El objeto, duración y domicilio.
+
+IV.- El capital social, si lo hubiere, y la aportación con que cada socio debe contribuir.
+
+V.- La manera de distribuirse las utilidades y pérdidas, en su caso.
+
+VI.- El nombre de los administradores y las facultades que se les otorguen.
+
+VII.- El carácter de los socios y su responsabilidad ilimitada cuando la tuvieren.
+
+VIII.- La fecha y la firma del registrador.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,067.- Las demás inscripciones que se practiquen en el registro de las personas morales, expresarán los datos esenciales del acto o contrato, según resulten del título respectivo.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE ENERO DE 1952)</small>
+
+ARTICULO 3,068.- Las inscripciones que se practiquen en los registros de operaciones sobre bienes muebles y de personas morales, no producirán más efectos que los señalados en los artículos 2310, fracción II, 2312, 2673, 2694 y 2859 y les serán aplicables a estos registros las disposiciones relativas al de bienes inmuebles, en cuanto sean compatibles con la naturaleza de los actos o contratos materia del presente capítulo y con los efectos que las inscripciones producen.
 
 ### CAPITULO V. De las inscripciones de posesión
 
@@ -11147,6 +11617,24 @@ D.O.F. 27 DE FEBRERO DE 1951.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
 
+D.O.F. 18 DE ENERO DE 1952.
+
+###### ARTICULO 1o.
+
+El presente decreto entrará en vigor al mismo tiempo que el nuevo Reglamento del Registro Público que se expida, en la fecha que fije el Ejecutivo.
+
+###### ARTICULO 2o.
+
+Sus disposiciones se aplicarán a los actos y contratos y a los títulos y documentos de fecha anterior a su vigencia, siempre que su aplicación no resulte retrospectiva.
+
+###### ARTICULO 3o.
+
+Al entrar en vigor el presente decreto, el Director del Registro Público de la Propiedad del Distrito Federal y los registradores de los Territorios, harán entrega a los encargados de los Archivos de Notarías de sus respectivas jurisdicciones, de los testamentos ológrafos depositados en el Registro, mediante relación detallada de los mismos, entregándoles igualmente los libros de registro y los índices en donde se encuentren anotados dichos testamentos, para su guarda y depósito.
+
+###### ARTICULO 4o.
+
+Las personas casadas bajo el régimen de sociedad conyugal, tendrán un plazo de seis meses a partir de la fecha en que este decreto entre en vigor para inscribir en el registro relativo a los inmuebles, derechos reales sobre los mismos u otros derechos inscribibles o anotables, esta circunstancia. Pasado este plazo se aplicará a toda inscripción hecha en el registro lo dispuesto en el artículo 3012.
+
 ###### ARTICULO 1o.
 
 El presente Decreto entrará en vigor diez días después de su publicación en el "Diario Oficial" de la Federación.
@@ -11172,3 +11660,7 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 ###### ARTICULO 4o.
 
 Los bienes adquiridos antes de la vigencia de la Ley de Relaciones Familiares, por matrimonios celebrados bajo el régimen de sociedad legal, constituyen una copropiedad de los cónyuges, si la sociedad no se liquidó conforme a lo dispuesto en el artículo 4o. transitorio de la citada ley; cesando la sociedad de producir sus efectos desde que esa ley entró en vigor.
+
+###### ARTICULO 5o.
+
+Quedan derogadas las disposiciones del Código Civil de 1932, que se opongan al presente decreto.
