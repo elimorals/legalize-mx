@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1990-11-24"
+last_updated: "1991-07-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE NOVIEMBRE DE 1990.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1991.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -257,6 +257,8 @@ Las personas morales no son sujetos activos del delito, pero cuando una persona 
 
 ### CAPITULO II. PRISION
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 25.
 
 Las sanciones son:
@@ -311,7 +313,7 @@ La Autoridad Judicial aplicará las sanciones y éstas serán ejecutadas por las
 
 ###### ARTICULO 28.
 
-La prisión consiste en privación de la libertad, que podrá durar de tres días a cuarenta años y se extinguirá en los lugares o establecimientos que al efecto designe el órgano encargado de la ejecución de las sanciones.
+La prisión consiste en privación de la libertad, que podrá durar de tres días a cincuenta años y se extinguirá en los lugares o establecimientos que al efecto designe el órgano encargado de la ejecución de las sanciones.
 
 ###### ARTICULO 29.
 
@@ -1827,6 +1829,8 @@ III.- Al Servidor Público que en los actos propios de su cargo, atribuyere a un
 
 ### CAPITULO III. VIOLACION
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 249.
 
 Se sancionará con prisión de un mes a tres años y multa de uno a diez días de salario:
@@ -1915,17 +1919,17 @@ PROFANACION DE CADAVERES
 
 ###### ARTICULO 260.
 
-Se sancionará con prisión de tres a diez años y multa de cinco a treinta días de salario, a quien por medio de la violencia física o moral tenga cópula con una persona, cualquiera que sea su sexo.
+Se sancionará con prisión de seis a quince años de (sic) multa de diez a ochenta días de salario, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
-Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pudiera resistir.
+Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir.
 
-Si la persona impúber fuere menor de once años, la sanción será de cuatro a veinte años de prisión y multa de diez a cincuenta días de salario.
+Si la persona impúber fuere menor de once años, la sanción será de diez a treinta años de prisión y multa de diez a ochenta días de salario.
 
-La violación de un ascendiente a su descendiente, o de éste a aquél, se sancionará con prisión de cuatro a veinte años y multa de diez a cincuenta días de salario.
+La violación de un ascendiente a su descendiente, o de éste a aquél, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario.
 
-La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de cuatro a doce años y multa de diez a treinta días de salario.
+La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario.
 
-Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas efectúe la cópula, se aplicarán a todas ellas de cuatro a veinte años de prisión y multa de diez a cincuenta días de salario.
+Cuando en una violación intervengan tres o más personas aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de diez a ochenta días de salario.
 
 ### CAPITULO I. AMENAZAS
 
@@ -1959,6 +1963,8 @@ Los ascendientes o tutores que entreguen a un menor de siete años que esté baj
 
 ### CAPITULO IV. ASALTO
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 264.
 
 Al familiar de un menor de doce años que lo sustraiga, sin causa justificada o sin orden de la autoridad competente, de la custodia o guarda de quien legítimamente la tenga, o bien que lo retenga sin la voluntad de éste, se le impondrá de uno a seis años de prisión y multa de cinco a treinta días de salario.
@@ -1982,6 +1988,8 @@ A quienes ejerzan la patria potestad o la tutela, que a sabiendas dieren su cons
 El término para la prescripción de la acción penal por bigamia, empezará a correr desde que uno de los dos matrimonios haya quedado disuelto por la muerte de alguno de los cónyuges, o desde que el segundo haya sido declarado nulo por la causal de bigamia.
 
 ### CAPITULO VI. SECUESTRO O PLAGIO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 268.
 
@@ -2083,13 +2091,17 @@ Se impondrá de seis meses a dos años de prisión y multa de uno a diez días d
 
 ###### ARTICULO 281.
 
-Al que en vía pública sea urbana o rural, lugar apartado o cerrado, haga uso de violencia sobre una persona con el propósito de causarle un mal, obtener un lucro o beneficio, o de conseguir su consentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia empleado, independientemente de cualquier hecho delictuoso que resulte cometido, se le aplicará prisión de tres a ocho años y multa de cinco a treinta días de salario.
+Comete el delito de asalto el que en despoblado o paraje solitario haga uso de la violencia física sobre una persona con el propósito de causarle un mal, obtener un lucro o beneficio, o de conseguir su consentimiento para cualquier fin y cualesquiera que sean los medios y el grado de violencia empleado, independientemente del hecho delictuoso que resulte cometido, se aplicará prisión de cinco a quince años y multa de treinta a ochenta días de salario.
 
-Si el asalto se efectuare de noche o si fueren varios los asaltantes, se aplicará prisión de cuatro a nueve años y multa de diez a cuarenta y cinco días de salario.
+La misma sanción se aplicará cuando se haga uso de la violencia estando la víctima en un vehículo particular o de transporte público, independientemente del lugar en que se encuentre o cuando se cometa en contra de una Oficina Bancaria, Recaudatoria u otra en que existan caudales, respecto de personas que las custodien o transporten aquéllos.
+
+Si el asalto se efectuare de noche o si fueren varios los asaltantes se aplicará prisión de siete a veinte años y multa de cincuenta a doscientos días de salario.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 282.
 
-A quienes asalten un poblado o ranchería, se les sancionará con prisión de, veinte a treinta años y multa de diez a cien días de salario, si fueren los cabecillas o jefes, y de quince a veinte años y multa de cinco a cincuenta días de salario a los demás, sin perjuicio de aplicar las reglas del concurso por cualesquiera otros delitos que se cometan.
+A quienes asalten un poblado o ranchería se les sancionará con prisión de, veinte a cuarenta años y multa de cincuenta a doscientos días de salario, si fueren los cabecillas o jefes y de veinte a treinta años de prisión y multa de veinte a cien días de salario a los demás, sin perjuicio de aplicar las reglas de concurso por cualesquiera otros delitos que se cometan.
 
 ### CAPITULO II. HOMICIDIO
 
@@ -2109,7 +2121,7 @@ IV.- Al que de alguna manera viole, con perjuicio de otro, los derechos establec
 
 ###### ARTICULO 284.
 
-Se impondrá de diez a cuarenta años de prisión y multa de diez a noventa días de salario, si la privación de la libertad se realiza en alguna de las formas siguientes:
+Se impondrá de veinte a cincuenta años de prisión y multa de cincuenta a doscientos días de salario, si la privación de la libertad se realiza en alguna de las formas siguientes:
 
 I. Cuando se trate de obtener rescate o de causar daño o perjuicio al plagiado o a otra persona relacionada con éste;
 
@@ -2117,9 +2129,9 @@ II. Cuando se haga uso de amenazas graves, de mal trato o de tormento;
 
 III. Cuando la detención se haga en camino público, en paraje solitario o en despoblado;
 
-IV. Cuando el agente se ostente como autoridad;
+IV. Cuando el Agente se ostente como autoridad;
 
-V. Cuando se obre en grupo; y,
+V. Cuando se obre en grupo; y
 
 VI. Cuando el secuestrado sea menor de doce años y se le prive de la libertad por un extraño a su familia.
 
@@ -2359,9 +2371,15 @@ III.- Cuando sean varias las lesiones, unas mortales y otras no y se ignore qui�
 
 IV.- Cuando las lesiones no fueren mortales sino por su número y no se pueda averiguar quiénes las infirieron, se aplicará de cuatro a siete años de prisión, a todos los que hubieren atacado al occiso.
 
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1991)</small>
+
+HOMICIDIO CALIFICADO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
+
 ###### ARTICULO 323.
 
-Al responsable de homicidio calificado se impondrá de dieciséis a cuarenta años de prisión y multa de quince a ciento cincuenta días de salario.
+Al responsable de Homicidio calificado se impondrá de veinte a cincuenta años de prisión y multa de cincuenta a ciento cincuenta días de salario.
 
 ### CAPITULO IV. FRAUDE
 
@@ -2454,6 +2472,8 @@ IV.- Que el infante no sea legítimo.
 Si en el infanticidio tomare participación un médico, cirujano, comadrón o partera, además de las sanciones privativas de la libertad que le corresponda, se le suspenderá de uno a cinco años en el ejercicio de su profesión.
 
 ### CAPITULO UNICO. ENCUBRIMIENTO
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1991)</small>
 
 ###### ARTICULO 335.
 
@@ -2791,9 +2811,11 @@ Las sanciones a que se refiere este artículo son independientes de las que corr
 
 ###### ARTICULO 381.
 
-Se impondrá de un mes a tres años de prisión y multa hasta el equivalente de treinta días de salario al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
+Se impondrá de un mes a tres años de prisión y multa hasta el equivalentes (sic) de treinta días de salario al que después de la ejecución del delito y sin haber participado en éste, ayude en cualquier forma al responsable a eludir las investigaciones de la autoridad correspondiente o a sustraerse a la acción de ésta, u ocultare, destruyere o hiciere desaparecer los rastros, pruebas o instrumentos del delito o asegure para el inculpado el producto o provecho del mismo.
 
-Igual sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa van a cometerse o se estén cometiendo, si son de los que se persiguen de oficio.
+Igual Sanción se aplicará a quien no procure por los medios lícitos que tenga a su alcance, impedir la consumación de los delitos que sepa van a cometerse o se estén cometiendo si son de los que se persiguen de oficio.
+
+Se impondrá de 3 a 8 años de prisión y multa hasta el equivalente de 100 días de salario cuando el encubrimiento sea respecto de delitos de asalto o secuestro.
 
 ###### ARTICULO 382.
 
@@ -2840,3 +2862,7 @@ P.O. 24 DE NOVIEMBRE DE 1990.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE JULIO DE 1991.
+
+UNICO.- El presente Decreto surtirá sus efectos legales a partir de la fecha de su publicación en el Periódico Oficial Organo del Gobierno del Estado.
