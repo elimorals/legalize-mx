@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-fomento-a-la-cultura-del-estado-libre-y-soberano-de-1077
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "1994-11-18"
+last_updated: "1996-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE FOMENTO A LA CULTURA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE MARZO DE 1996.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1994.
 
@@ -361,17 +361,63 @@ El Sistema Estatal de Cultura por conducto de su Presidente en la primera sesió
 
 #### SECCION SEGUNDA. DEL CONSEJO POBLANO DE CULTURA
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 1996)</small>
+
 ###### Artículo 26o.
 
-El Consejo Poblano de la Cultura será el órgano asesor del Sistema Estatal de Cultura y estará integrado por doce ciudadanos poblanos que se hayan distinguido por sus actividades culturales, seis distinguidos jóvenes poblanos, dos representantes de las etnias indígenas, y los Directores Generales de las áreas que integren la Secretaría de Cultura.
+. El Consejo Poblano de la Cultura será el órgano asesor del Sistema Estatal de Cultura y estará integrado por un Presidente Honorario, un Presidente Ejecutivo, un Secretario Técnico y por los siguientes Consejeros: doce ciudadanos poblanos que se hayan distinguido por sus actividades culturales, seis representantes de la juventud poblana, un representante por cada etnia indígena y los Directores Generales de las áreas que integren la Secretaría de Cultura.
 
-Los Consejeros mencionados serán designados por el Gobernador del Estado, a propuesta de los Institutos y Organismos de Cultura.
+El Gobernador del Estado será el Presidente Honorario.
 
-El Gobernador del Estado será el Presidente Honorario, y el Secretario de Cultura fungirá como coordinador general. La duración en el cargo de los miembros del Consejo Poblano de Cultura designados por el Ejecutivo Estatal será de un año con opción a ser reelegidos previa aceptación de su cargo.
+El Presidente Ejecutivo y el Secretario Técnico serán designados y removidos libremente por el Gobernador del Estado.
+
+Los Consejeros mencionados serán designados por el Gobernador del Estado, a propuesta de los Institutos y Organismos de Cultura; Durarán en el cargo un año con opción a ser ratificados por un período igual.
 
 El Consejo expedirá su Reglamento Interior en el que se determinará su funcionamiento.
 
-El Consejo expedirá su Reglamento Interior en el que se determinará su funcionamiento.
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 1996)</small>
+
+Artículo 26 A.- Las atribuciones que tendrán el Presidente Honorario, el Presidente Ejecutivo y el Secretario Técnico serán las siguientes:
+
+I.- Corresponde al Presidente Honorario:
+
+a) Presidir las sesiones ordinarias y extraordinarias del Consejo;
+
+b) Tener voto de calidad;
+
+c) Aprobar, a propuesta del Presidente Ejecutivo, los planes de trabajo del Consejo.
+
+II.- Corresponde al Presidente Ejecutivo:
+
+a) Presidir, en ausencia del Presidente Honorario, las sesiones ordinarias y extraordinarias del Consejo;
+
+b) Suscribir los Acuerdos y Convenios de Coordinación Interinstitucional con las Dependencias y Entidades Federales, Estatales y Municipales que participen en el desarrollo de la cultura en la Entidad;
+
+c) Integrar los grupos de trabajo que se formen al interior del Consejo;
+
+d) Representar legalmente al Consejo;
+
+e) Convocar a las sesiones del Consejo;
+
+f) Dirigir los debates en las sesiones del Consejo;
+
+g) Someter a la consideración del Ejecutivo Estatal, los proyectos de planes relacionados con la protección y conservación del Patrimonio Cultural del Estado;
+
+h) Rendir los informes que le sean solicitados al Consejo;
+
+i) Coordinar el desarrollo de las actividades del Consejo;
+
+j) Las demás inherentes a su cargo y las señaladas por el Reglamento Interior del Consejo.
+
+III.- Corresponde al Secretario Técnico:
+
+a) Levantar las actas de las sesiones del Consejo;
+
+b) Coordinar los grupos de trabajo propuestos por el Presidente Ejecutivo;
+
+c) Coordinar la elaboración de los informes que sean requeridos en el seno del Consejo;
+
+d) Las demás inherentes a su cargo y las señaladas por el Reglamento Interior del Consejo.
 
 ###### Artículo 27o.
 
@@ -462,3 +508,15 @@ LIC. MANUEL BARTLETT DIAZ
 EL SECRETARIO DE GOBERNACION
 
 LIC. CARLOS PALAFOX VAZQUEZ
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 15 DE MARZO DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente ordenamiento.
