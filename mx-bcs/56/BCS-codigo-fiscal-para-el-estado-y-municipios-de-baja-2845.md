@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-para-el-estado-y-municipios-de-baja-2845"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-02-28"
-last_updated: "1987-12-20"
+last_updated: "1988-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1988.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 28 de febrero de 1987.
 
@@ -81,9 +81,11 @@ Son aprovechamientos los ingresos que el Estado o Municipios perciben y que no p
 
 La recaudación proveniente de todos los conceptos previstos en el Artículo 1o. de este Código, aun cuando se destinen a fines específicos se hará en las Oficinas exactoras de la Secretaría de Finanzas del Estado, Tesorerías Municipales o en las instituciones de crédito autorizadas al efecto.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 10.
 
-Las disposiciones convenidas en esta Ley, serán ejercidas por el Ejecutivo Estatal y los Ayuntamientos en los términos que la misma establece y son autoridades fiscales:
+Las disposiciones convenidas en esta Ley, serán ejercidas por el Ejecutivo Estatal y los Ayuntamientos en los términos que la misma Ley establece y son autoridades fiscales:
 
 I.- DEL ESTADO.
 
@@ -97,7 +99,9 @@ d).- Director de Ingresos.
 
 e).- Los Jefes de Departamento de la Dirección de Ingresos.
 
-f).- Los Administradores de Rentas.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+f).- El Director de Auditoría Fiscal.
 
 g).- Los Receptores de Rentas.
 
@@ -377,9 +381,11 @@ La cancelación de créditos fiscales de las cuentas públicas por incosteabilid
 
 Los interesados directamente en situaciones reales y concretas que planteen consulta sobre la aplicación o interpretación de las disposiciones fiscales, tendrán derecho a que las autoridades competentes dicten resolución sobre tales consultas.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
 ###### ARTICULO 49.
 
-Toda consulta o petición que se formule a las autoridades deberá ser resuelta en el plazo que la Ley fija o, a falta de término establecido, en noventa días el silencio de las autoridades se considerará como resolución afirmativa cuando no den respuesta en el término que corresponda.
+Toda consulta o petición que se formule a las autoridades deberá ser resuelta en el plazo que la Ley fija, o a falta de término establecido, en noventa días el silencio de las autoridades se considerará como resolución negativa cuando no den respuesta en el término que corresponda.
 
 ###### ARTICULO 50.
 
@@ -583,7 +589,9 @@ III.- Obtener o usar más de un número de registro o de empadronamiento para el
 
 IV.- Utilizar interpósita persona para manifestar negociaciones propias o para percibir ingresos gravables, dejando de pagar los impuestos o contribuciones correspondientes.
 
-V.- No obtener oportunamente los permisos, placas, boletos de registro o cualquier otro documento exigido por las Leyes Fiscales o no tenerlos en el lugar que señalan dichas disposiciones.
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
+
+V.- No obtener oportunamente los permisos, autorizaciones, placas, boletas de registro o cualquier otro documento exigido por las Leyes Fiscales o no tenerlos en el lugar que señalan dichas disposiciones.
 
 VI.- No devolver oportunamente a las autoridades que se determinen en las Leyes Fiscales, los comprobantes de pago de una prestación fiscal, libros, placas, tarjetas, boletas o cualquier otro documento cuya devolución sea exigida por dichas Leyes.
 
@@ -631,9 +639,9 @@ XXIV.- Faltar en cualquier otra forma no prevista en las Fracciones anteriores a
 
 Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1988)</small>
 
-I.- No cumplir las obligaciones que señalan las disposiciones fiscales de inscribirse, registrarse y obtener la licencia correspondiente al giro o establecimiento.
+I.- No cumplir las obligaciones que señalan las disposiciones fiscales de inscribirse, registrarse y obtener la licencia o autorización correspondiente al giro o establecimiento.
 
 II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales; no comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten.
 
@@ -1858,3 +1866,9 @@ B.O. 20 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día Primero de Enero de 1989.
