@@ -4,7 +4,7 @@ identifier: "SIN-ley-organica-del-fondo-auxiliar-para-la-administracion-de-6505"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1983-03-14"
-last_updated: "1983-03-14"
+last_updated: "1985-06-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY ORGANICA DEL FONDO AUXILIAR PARA LA ADMINISTRACION DE JUSTICIA DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL EL ESTADO DE SINALOA: 12 DE JUNIO DE 1985.
 
 Ley publicada en el Periódico Oficial "El Estado de Sinaloa", el lunes 14 de marzo de 1983.
 
@@ -89,7 +89,9 @@ I.- Podrá invertir las cantidades que integran el fondo en la adquisición de t
 
 II.- Deberá elaborar en diciembre de cada año el Presupuesto de Egresos al cal (sic) deberán sujetarse las erogaciones del período anual que empezará a correr el primero de enero siguiente. El pleno del Supremo Tribunal podrá cambiar los extremos de dicho período anual, sin perjuicio de lo previsto en la fracción siguiente.
 
-III.- En el informe que debe rendir el Supremo Tribunal de Justicia, en acatamiento a lo dispuesto por el Artículo 40 Bis de la Constitución Política del Estado de Sinaloa se incluirá la cuenta justificada de los ingresos, inversiones y erogaciones efectuadas durante el período a que se refiere la fracción inmediata anterior.
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 1985)</small>
+
+III.- Dentro de los primeros diez días hábiles de cada mes, presentará al Congreso del Estado la cuenta justificada de los ingresos, inversiones y erogaciones efectuados por el Fondo, en el mes anterior.
 
 IV.- Podrá designar con cargo al Fondo, a los funcionarios y empleados que deben auxiliarlo en su control y administración.
 
@@ -116,6 +118,34 @@ V.- Sufragar los gastos que origine la participación de Magistrados y Jueces en
 ###### ARTICULO 8.
 
 Independientemente de las visitas ordinarias y extraordinarias a los Juzgados que prevee la Ley Orgánica del Poder Judicial, el Pleno del Supremo Tribunal de Justicia podrá acordar visitas especiales por auditores, para que revisen el manejo de los valores y depósitos a cargo de dichas dependencias; según el resultado de la visita, el Pleno tomará el acuerdo correspondiente.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1985)</small>
+
+###### ARTICULO 9.
+
+La aplicación del patrimonio del Fondo, de acuerdo a los destinos establecidos en el Artículo 7, se sujetará a los siguientes porcentajes que se considerarán en base a las utilidades del ejercicio anual:
+
+I.- Para gastos de administración, el 5%;
+
+II.- En adquisición de mobiliario y libros de consulta, el 45%;
+
+III.- En capacitación y mejoramiento profesional, el 12%;
+
+IV.- Para estímulos económicos y sociales, el 25%; y,
+
+V.- Para la asistencia a Congresos de Tribunales de Justicia, el 3%.
+
+Para efectos de crear una reserva en el patrimonio del Fondo, se conservará el 10%.
+
+El Pleno del Supremo Tribunal de Justicia podrá, al concluir el ejercicio anual, efectuar trasferencias de remanentes en las partidas establecidas en este Artículo, previa autorización del Congreso del Estado y la rendición de los justificandos respectivos.
+
+> <small>(ADICIONADO, P.O. 12 DE JUNIO DE 1985)</small>
+
+###### ARTICULO 10.
+
+A solicitud del Pleno del Supremo Tribunal de Justicia, el Congreso del Estado lo podrá autorizar para que parte de la reserva patrimonial de que habla el Artículo anterior, se ejerza exclusivamente en la atención de los destinos señalados en las fracciones II y III del Artículo 7.
+
+Al hacer la solicitud respectiva, el Pleno entregará al Congreso del Estado su propuesta para la aplicación y erogación.
 
 ## TRANSITORIOS
 
@@ -162,3 +192,21 @@ ANTONIO TOLEDO CORRO
 El Secretario de Gobierno
 
 LIC. JORGE ROMERO ZAZUETA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 12 DE JUNIO DE 1985.
+
+> <small>(F. DE E., P.O. 29 DE JULIO DE 1985)</small>
+
+###### ARTICULO PRIMERO.
+
+En cumplimiento del Artículo Cuarto Transitorio de la Ley Orgánica del Fondo Auxiliar para la Administración de Justicia del Estado de Sinaloa, el Supremo Tribunal de Justicia del Estado, expedirá, en un plazo no mayor de sesenta días, el Reglamento de esta Ley, el cual contemplará la creación de un Instituto de Capacitación para el personal del Poder Judicial, el que deberá iniciar sus actividades en un plazo máximo de ciento veinte días.
+
+###### ARTICULO SEGUNDO.
+
+De los remanentes existentes a la fecha en que entre en vigor el presente Decreto, se aplicará el 30% a la adquisición de mobiliario y libros de consulta, el 30% para la creación del Instituto de Capacitación a que se refiere el artículo anterior y el 40% restante se destinará a la reserva patrimonial del Fondo.
+
+###### ARTICULO TERCERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
