@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-justicia-civica-para-el-distrito-federal-14289"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-01"
-last_updated: "1999-06-01"
+last_updated: "2000-06-01"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14289&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1999-05-07"
 
 LEY DE JUSTICIA CIVICA PARA EL DISTRITO FEDERAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE JUNIO DE 2000.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el martes 1° de junio de 1999.
 
@@ -88,7 +88,7 @@ IX. Elemento de la policía, al elemento de la Policía Preventiva de la Secreta
 
 X. Infracción Cívica, al acto u omisión que altera el orden público; que sanciona la presente Ley;
 
-XI. Presunto infractor, la persona a la cual se le imputa la comisión de una infracción cívica;
+Xl. Presunto infractor, la persona a la cual se le imputa la comisión de una infracción cívica;
 
 XII. Salario mínimo, al salario mínimo general vigente en el Distrito Federal; y
 
@@ -250,9 +250,11 @@ Cuando una infracción se ejecute con la participación de dos o más personas, 
 
 Cuando con una sola conducta se cometan varias infracciones, el juez impondrá la sanción máxima aplicable, pudiendo aumentarse hasta en una mitad más sin que pueda exceder del máximo constitucional. Cuando con diversas conductas se cometan varias infracciones, el juez impondrá la sanción de la que merezca la mayor, pudiendo aumentarse con las sanciones que esta Ley señala para cada una de las infracciones restantes, siempre que tal acumulación no exceda el máximo establecido en la Constitución.
 
+> <small>(REFORMADO, G.O. 1 DE JUNIO DE 2000)</small>
+
 ###### Artículo 13.
 
-Si las acciones u omisiones en que consisten las infracciones se hallan (sic) previstas por alguna disposición reglamentaria, no se aplicarán las sanciones establecidas en esta ley.
+Si las acciones u omisiones en las cuales consisten las infracciones se hayan previstas en alguna otra disposición normativa, se aplicarán las sanciones establecidas en esta ley.
 
 ###### Artículo 14.
 
@@ -1031,3 +1033,9 @@ SEXTO. Las disposiciones relativas a la remuneración de los jueces y secretario
 Salón de sesiones de la Asamblea Legislativa del Distrito Federal, a veintinueve de abril de mil novecientos noventa y nueve.- POR LA MESA DIRECTIVA.- DIP. JOSE LUIS BENITEZ GIL, PRESIDENTE.- DIP. PABLO DE ANDA MARQUEZ, SECRETARIO.- FIRMAS.
 
 En cumplimiento de lo dispuesto en el articulo 122, apartado C, Base Segunda, fracción II, inciso b), de la Constitución Política de los Estados Unidos Mexicanos; 48, 49 y 67, fracción II, del Estatuto de Gobierno del Distrito Federal, y para su debida publicación y observancia, expido el presente Decreto Promulgatorio en la Residencia del Jefe de Gobierno del Distrito Federal, en la Ciudad de México, a los siete días del mes de mayo de mil novecientos noventa y nueve.- EL JEFE DE GOBIERNO DEL DISTRITO FEDERAL, CUAUHTÉMOC CÁRDENAS SOLÓRZANO.- FIRMA.- LA SECRETARIA DE GOBIERNO, ROSARIO ROBLES BERLANGA.- FIRMA.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 1 DE JUNIO DE 2000.
+
+UNICO.- Esta reforma entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
