@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1941-12-03"
+last_updated: "1942-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE DICIEMBRE 1941.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ENERO DE 1942.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -711,25 +711,43 @@ Si se aprobare por segunda vez el proyecto, se devolverá al Gobernador para su 
 
 ###### Art. 74.
 
-(SUPRIMIDO, P.O. 3 DE DICIEMBRE DE 1941)
+En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
 
 ###### Art. 75.
 
-En la interpretación, reforma o derogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocación a nuevas elecciones.
 
 ###### Art. 76.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando este ejerza funciones de Colegio Electoral o de Jurado, ni en los casos de aceptación de renuncias o convocación a nuevas elecciones.
+Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios del Congreso, empléandose la siguiente fórmula: El Congreso del Estado libre y soberano de Tamaulipas, decreta: (texto de la ley o decreto), y los acuerdos económicos sólo por los Secretarios.
 
 ## TITULO V. DEL PODER EJECUTIVO
 
 ### CAPITULO I. Del Ejecutivo
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 28 DE ENERO DE 1942)</small>
 
 ###### Art. 77.
 
-Ninguna resolución del Congreso tendrá otro carácter que el de ley, decreto o acuerdo económico. Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y los Secretarios del Congreso, empléandose la siguiente fórmula: El Congreso del Estado libre y soberano de Tamaulipas, decreta: (texto de la ley o decreto), y los acuerdos económicos sólo por los Secretarios.
+El Poder Ejecutivo se deposita en un funcionario que se denominará "GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS", siendo su elección directa cada cuatro años, el primer domingo de Noviembre en los términos que señale la Ley Electoral.
+
+> <small>(REFORMADO, P.O. 11 DE ENERO DE 1936)</small>
+
+ART. 78.- Para ser Gobernador se requiere:
+
+> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 1941)</small>
+
+I.- Que el candidato esté en pleno goce de los derechos de ciudadanía, de acuerdo con los artículos 34, 35, 36 de la Constitución de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los artículos 37 y 38 de la misma Constitución.
+
+II.- Ser mexicano de nacimiento.
+
+III.- Ser nativo del Estado, con vecindad en el mismo, adquirida por lo menos cinco años antes del día de la elección.
+
+IV.- Ser mayor de treinta años de edad el día de la elección; y
+
+V.- Poseer suficiente instrucción.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
 ###### Art. 78.
 
@@ -755,18 +773,6 @@ V.- Poseer suficiente instrucción.
 
 ###### Art. 79.
 
-Para ser Gobernador se requiere:
-
-I. Ser mexicano por nacimiento.
-
-II. Ser ciudadano del Estado en ejercicio de sus derechos con cinco años de residencia por lo menos en su territorio, o uno si fuere nacido en él.
-
-III. Ser mayor de 30 años de edad para el día de la elección.
-
-IV. Poseer suficiente instrucción.
-
-###### Art. 80.
-
 No pueden obtener el cargo de Gobernador del Estado por elección:
 
 I.- Los Ministros de cualquier culto, aún cuando hayan renunciado su ministerio.
@@ -783,19 +789,29 @@ VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena co
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 81.
+###### Art. 80.
 
 El día cinco de febrero inmediato a la elección entrará el C. Gobernador a ejercer sus funciones por cuatro años y nunca podrá volver a desempeñar este cargo ni por nueva elección ni con el carácter de provisional o interino.
 
-###### Art. 82.
+###### Art. 81.
 
 El Congreso, dentro de los diez primeros días de sus sesiones ordinarias del año que corresponda, procederá, erigido en Colegio Electoral, a hacer conforme a la ley respectiva, el escrutinio de los votos emitidos en la elección y hará la declaración del ciudadano que resulte electo para Gobernador por medio de un decreto.
 
-###### Art. 83.
+###### Art. 82.
 
 La elección de Gobernador prefiere a cualquiera otra. Sólo es renunciable este cargo por causa grave, que calificará el Congreso.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+
+###### Art. 83.
+
+Si no hubiere habido elección de Gobernador, si se hubiere hecho y publicado para el día cuatro de febrero o el nuevamente electo no sé presentare a tomar posesión de su cargo cesará sin embargo el anterior, y el Poder Ejecutivo se depositará interinamente en el ciudadano que nombre el Congreso o la Diputación Permanente constituídos aquel o esta en su caso en sesión permanente y secreta por cinco del número total de sus miembros si se tratare del Congreso o por mayoría si se tratare de la Diputación Permanente.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 1934)</small>
+
+ART. 84.- En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar (sic) formación de causa ya sea por violación a la presnte (sic) Constitución, o por delito del orden común, o ya por violación a la Constitución Federal y Leyes que de ella emanen, en los casos de la competencia de las Cámaras Federales, si ocurriere la falta dentro de los tres primeros años del período, el Congreso Local constituído en sesión permanente y secreta nombrará, por el voto cuando menos de cinco del número total de sus miembrns (sic), un Gobernador Interino que promulgará el Decreto que se expida conforme a la Fracción LIX del Artículo 58 de esta Constitución. El Congreso convocará a alecciones dentro de los diez días siguientes a la toma de posesión del Gobernador Interino nombrado.
+
+El Gobernador que resulte electo durará todo el tiempo que falte para completar el período. Si los hechos tuvieren lugar dentro del último año del período, no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período. Si el Congreso está en receso, la Comisión Permanente, por el voto de la mayoría de sus miembros, en los términos que se indican, convocará desde luego al mismo Congreso a sesiones extraordinarias para que éste ratifique o revoque el nombramiento hecho por la Permanente. En caso de que el H. Congreso revoque dicho nombramiento, procederá a designar Gobernador Interino, para que se haga cargo del Poder Ejecutivo mientras toma posesión el Gobernador Substituto que resulte electo.
 
 ###### Art. 84.
 
@@ -809,35 +825,29 @@ El Gobernador que resulte electo durará todo el tiempo que falte para completar
 
 ###### Art. 85.
 
-En los casos de renuncia o muerte del Gobernador o cuando se le declare con lugar a formación de causa ocurrida durante los dos primeros años del período y que dejan acéfalo el Poder Ejecutivo el Congreso constituido en sesión permanente y secreta nombrará por el voto cuando menos de cinco del número total de sus miembros un Gobernador Interino que promulgará el decreto que se expida conforme a la fracción XLII del artículo 58 de esta Constitución. El Congreso convocará a elecciones dentro de los diez días siguientes a la toma de posesión del Gobernador interino nombrado. El Gobernador que resulte electo durará todo el tiempo que falta para completar el período. Si los hechos tuvieren lugar dentro de los dos últimos años no se convocará a nuevas elecciones y la persona designada por el Congreso durará en funciones de Gobernador hasta terminar el período.
-
-Si el Congreso está en receso, la Comisión Permanente por el voto de la mayoría de sus miembros en los términos que se indican convocando desde luego a sesiones extraordinarias para rectificar o revocar el nombramiento hecho por la Permanente.
+Si al abrirse el período de sesiones ordinarias estuviere corriendo término de licencia concedida al Gobernador por la Permanente, el Congreso ratificará o revocará dicha licencia.
 
 ###### Art. 86.
 
-Si al abrirse el período de sesiones ordinarias estuviere corriendo término de licencia concedida al Gobernador por la Permanente, el Congreso ratificará o revocará dicha licencia.
+Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
 
 ###### Art. 87.
 
-Mientras se hace la designación ordenada en el artículo anterior o en cualquiera otra circunstancia no prevista , el Secretario General de Gobierno se hará cargo del Despacho del Ejecutivo, sin que esta situación pueda durar por más de cuarenta y ocho horas.
+En los casos de licencia temporal concedida al Gobernador, el Congreso o la Comisión Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrará un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Si la licencia no excede de ocho días, no se designará substituto, y el Secretario General se encargará del Poder Ejecutivo.
 
 ###### Art. 88.
 
-En los casos de licencia temporal concedida al Gobernador, el Congreso o la Comisión Permanente, en caso de receso, por mayoría de los Diputados presentes, nombrará un substituto a propuesta en terna del Ejecutivo, para el tiempo que dure la licencia, debiendo tener el substituto los mismos requisitos que el Constitucional. Si la licencia no excede de ocho días, no se designará substituto, y el Secretario General se encargará del Poder Ejecutivo.
+Los Gobernadores que con el carácter de interinos o substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
 
 ###### Art. 89.
 
-Los Gobernadores que con el carácter de interinos o substitutos nombrados por el Congreso, no podrán ser electos para el período inmediato siguiente, ni para el que se convoque, si estuvieren en funciones un año antes de la elección.
+Al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 85 de esta Constitución.
 
 ###### Art. 90.
 
-Al Gobernador nunca se le concederá licencia con el carácter de indefinida, ni tampoco por más de seis meses. Si concluida la licencia no se presentare de nuevo dicho funcionario, se declarará vacante el puesto y se procederá a lo dispuesto en el artículo 85 de esta Constitución.
-
-###### Art. 91.
-
 El Gobernador al tomar posesión de su cargo, prestará ante el Congreso y en sus recesos ante la Diputación Permanente, la protesta que sigue: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ella emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado, y si no lo hiciere así, que la Nación y el Estado me lo demande."
 
-###### Art. 92.
+###### Art. 91.
 
 Las facultades y obligaciones del Gobernador son las siguientes:
 
@@ -943,9 +953,33 @@ XLIV. Conceder con arreglo a las leyes habilitaciones de edad a los menores para
 
 XLV. Los demás que le confiere esta Constitución u otra ley.
 
+###### Art. 92.
+
+Se prohibe al Gobernador:
+
+I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
+
+II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción.
+
+III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
+
+IV. Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal.
+
+V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que estén bajo la acción de la justicia.
+
+VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
+
+VII. Expedir ordenes de recaudación o pago, sino por conducto de la Tesorería General.
+
+VIII. Impedir o retardar la instalación del Congreso.
+
+IX. Salir del territorio del Estado por más de cuarenta y ocho horas, sin permiso del Congreso o de la Diputación Permanente.
+
+X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
+
 ### CAPITULO II. Del Secretario General de Gobierno
 
-Art.- 94.- Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
+Art.- 93.- Para el desempeño de los asuntos oficiales, el Ejecutivo tendrá un funcionario que se denominará "Secretario General de Gobierno."
 
 ###### Art. 93.
 
@@ -971,7 +1005,7 @@ IX. Salir del territorio del Estado por más de cuarenta y ocho horas, sin permi
 
 X. Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente.
 
-###### Art. 95.
+###### Art. 94.
 
 Para ser Secretario General de Gobierno, se requiere:
 
@@ -987,21 +1021,25 @@ V. No haber sido condenado por delito infamante. La calificación la hace el H. 
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 96.
+###### Art. 95.
 
 Los acuerdos, circulares, órdenes y disposiciones que dictare el Gobernador, así como los documentos que subscriba en ejercicio de sus funciones constitucionales, deben ser autorizados por el Secretario General, sin el cual requisito no surtirán efectos legales.
 
-###### Art. 97.
+###### Art. 96.
 
 El Secretario General de Gobierno no podrá desempeñar cargo, empleo ni comisión oficiales remunerados salvo en el Ramo de la Educación.
 
-###### Art. 98.
+###### Art. 97.
 
 El Secretario General de Gobierno sólo podrá litigar en negocios propios o de su familia.
 
-###### Art. 99.
+###### Art. 98.
 
 El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gobernador por los decretos, reglamentos, circulares o acuerdos que firme.
+
+###### Art. 99.
+
+Las faltas temporales del Secretario General de Gobierno se suplirán por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto las mismas prerrogativas, obligaciones y responsabilidades de aquel.
 
 ## TITULO VI. DEL PODER JUDICIAL
 
@@ -1011,59 +1049,55 @@ El Secretario General de Gobierno tendrá responsabilidad solidaria con el Gober
 
 ###### Art. 100.
 
-Las faltas temporales del Secretario General de Gobierno se suplirán por el Oficial Mayor de la Secretaría, quien tendrá mientras tanto las mismas prerrogativas, obligaciones y responsabilidades de aquel.
-
-###### Art. 101.
-
 El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los de Paz y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
 
-###### Art. 102.
+###### Art. 101.
 
 Ningún otro Poder, salvo cuando el Congreso actúe como Jurado, podrá ejercer funciones judiciales, avocarse el conocimiento de las causas pendientes o mandar abrir las fenecidas.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 103.
+###### Art. 102.
 
 Los Funcionarios Judiciales en ningún caso podrán interpretar las leyes, suspender su cumplimiento ni formar reglamentos para la administración de justicia.
 
-###### Art. 104.
+###### Art. 103.
 
 Las leyes arreglarán las formalidades de los procedimientos judiciales.
 
-###### Art. 105.
+###### Art. 104.
 
 En ningún negocio podrá haber más de dos instancias. La ley determinará cuál de las sentencias causa ejecutoria.
 
-###### Art. 106.
+###### Art. 105.
 
 El Juez que haya sentenciado un negocio en alguna instancia, no podrá hacerlo en otra.
 
-###### Art. 107.
+###### Art. 106.
 
 Los delitos de cohecho, soborno o prevaricación, producen acción popular contra los Magistrado, Jueces, Secretarios o empleados que lo cometan, y lo mismo contra los autores que contra sus cómplices.
 
-###### Art. 108.
+###### Art. 107.
 
 El Supremo Tribunal de Justicia se compone de tres Magistrados, que funcionarán en acuerdo pleno o por Salas en la forma que determine la ley.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 109.
+###### Art. 108.
 
 Los Magistrados serán electos por el Congreso erigido en Colegio Electoral cuando menos por cinco votos de sus miembros presentes; durarán en sus funciones tres años y podrán ser reelectos. En los recesos del Congreso, la Diputación Permanente nombrará Magistrados, con el carácter de Provisionales para suplir las faltas temporales de los propietarios.
 
-###### Art. 110.
+###### Art. 109.
 
 Los Magistrados comenzarán a ejercer su encargo el día cinco de febrero inmediato a la elección de Diputados.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 111.
+###### Art. 110.
 
 Durante su encargo, los Magistrados y Jueces sólo podrán ser separados, previo juicio de responsabilidades en el que intervenga el Ministerio Público si se trata de delitos. Cuando dichos funcionarios no cumplan debidamente sus funciones, el Congreso, si se trata de un Magistrado y el Tribunal Superior si se trata de un Juez, podrá separarlos de plano de su encargo si a su juicio considera fundada la separación.
 
-###### Art. 112.
+###### Art. 111.
 
 Para ser Magistrado se requiere:
 
@@ -1079,15 +1113,15 @@ V. No ser militar ni ministro de algún culto, esté o no en ejercicio.
 
 VI. No haber sido condenado por algún delito grave del orden común.
 
-###### Art. 113.
+###### Art. 112.
 
 No podrán formar parte del Tribunal dos o más Magistrados que sean parientes entre sí, por consanguinidad hasta el cuarto grado inclusive, y por afinidad hasta el segundo.
 
-###### Art. 114.
+###### Art. 113.
 
 Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o en sus recesos ante la Diputación Permanente, la siguiente protesta: Presidente.- "¿Protéstais guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado, así como también las leyes que de ellas emanen, mirando en todo por el bien y prosperidad de la Unión y del Estado?." – Magistrado. "Si protesto." – Presidente. "Si no lo hiciéreis así, la Nación y el Estado os lo demandarán".
 
-###### Art. 115.
+###### Art. 114.
 
 Son atribuciones del Supremo Tribunal de Justicia.
 
@@ -1145,6 +1179,12 @@ XIX.- Remover a los Jueces de Primera Instancia y de Paz en los casos en que lo 
 
 XX.- Las demás facultades y obligaciones que le señalen las leyes.
 
+###### Art. 115.
+
+Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
+
+Art.- 116.- En las causas que hubiere de formarse a todos los Magistrados en funciones, una vez que el Congreso, actuando como Gran Jurado o Jurado de Acusación declare por la afirmativa, se reintegrará por los medios señalados en la presente Constitución el Supremo Tribunal de Justicia, y este sentenciará a los encausados, pero separadamente a cada uno de ellos. El Procurador General de Justicia tendrá en esas causas la intervención que le confiere la ley.
+
 ###### Art. 116.
 
 Los Magistrados y Jueces no podrán desempeñar ningún otro cargo del Estado, de la Federación de los Ayuntamientos o de particulares, por los que se reciba remuneración. Quedan exceptuados los cargos de la Beneficencia y de la Educación públicas.
@@ -1153,25 +1193,33 @@ Art.- 117.- En las causas que hubiere de formarse a todos los Magistrados en fun
 
 ### CAPITULO II. De Los Magistrados
 
-###### Art. 118.
+###### Art. 117.
 
 Los Tribunales inferiores para la administración de Justicia, estarán a cargo de los Jueces de Primera Instancia y los de Paz.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 119.
+###### Art. 118.
 
 Los Jueces de Primera Instancia del Estado, serán nombrados por el Supremo Tribunal de Justicia a propuesta en terna del Ejecutivo, pudiéndose nombrar dos o más Jueces de Primera Instancia, con jurisdicción independiente en los Ramos Civil y Penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario, a iniciativa del propio Tribunal o del Ejecutivo.
 
-###### Art. 120.
+###### Art. 119.
 
 Los Jueces de Paz funcionarán cuando menos uno en cada Municipio.
 
-###### Art. 121.
+###### Art. 120.
 
 Una ley determinará el número de Distritos Judicialas (sic) en que se divide el Estado; el número de Jueces de Primera Instancia y de Paz; sus requisitos, su competencia, jurisdicción, duración de sus funciones, dotación de empleados y todo lo relativo a su organización.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+
+###### Art. 121.
+
+Los Juzgados de Primera Instancia serán sostenidos por el Estado y los de Paz por sus respectivos Municipios.
+
+> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+
+Art.- 122.- Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
 
 ###### Art. 122.
 
@@ -1183,7 +1231,7 @@ Art.- 123.- Los Jueces de Primera Instancia, antes de tomar posesión de su empl
 
 ###### Art. 123.
 
-Los Jueces de Primera Instancia y Menores Letrados, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio o Cabecera del Distrito Judicial, si así lo dispusiere aquel.
+Los Jueces de Paz otorgarán la protesta de ley ante los respectivos Ayuntamientos.
 
 ## TITULO VII. DEL MINISTERIO PUBLICO
 
@@ -1193,17 +1241,17 @@ Los Jueces de Primera Instancia y Menores Letrados, antes de tomar posesión de 
 
 ###### Art. 124.
 
-Los Jueces de Paz otorgarán la protesta de ley ante los respectivos Ayuntamientos.
+El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
 
 ###### Art. 125.
 
-El Ministerio Público tiene por misión: en los asuntos del orden criminal, ejercitar la acción penal; en los asuntos civiles, la defensa de los intereses de los menores y demás incapacitados; en el orden administrativo, la defensa de los intereses fiscales y, en general, el Ministerio Público tendrá la intervención que disponga las leyes en aquellos asuntos que afecten el orden público.
+Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
 
 ### CAPITULO UNICO. Disposiciones generales
 
 ###### Art. 126.
 
-Las funciones del Ministerio Público serán desempeñadas en el Estado por el Procurador General de Justicia y por los Agentes adscritos, nombrados por el Ejecutivo.
+Una ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
 
 ## TITULO VIII. DE LA DEFENSORIA DE OFICIO
 
@@ -1211,15 +1259,15 @@ Las funciones del Ministerio Público serán desempeñadas en el Estado por el P
 
 ###### Art. 127.
 
-Una ley reglamentará la organización del Ministerio Público y los requisitos que se necesitan para desempeñar este cargo y el de Procurador.
+En cumplimiento de lo mandado por el artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquiera autoridad a los acusados y aconsejar a los pobres de solemnidad en los asuntos civiles.
 
 ###### Art. 128.
 
-En cumplimiento de lo mandado por el artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquiera autoridad a los acusados y aconsejar a los pobres de solemnidad en los asuntos civiles.
+El personal de esta institución lo forman un Director General y los defensores de oficio subalternos, quienes serán nombrados por el Ejecutivo.
 
 ###### Art. 129.
 
-El personal de esta institución lo forman un Director General y los defensores de oficio subalternos, quienes serán nombrados por el Ejecutivo.
+Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
 
 ## TITULO IX. DE LOS MUNICIPIOS
 
@@ -1229,19 +1277,15 @@ El personal de esta institución lo forman un Director General y los defensores 
 
 ###### Art. 130.
 
-Una ley reglamentará la organización de la Defensoría de Oficio y los requisitos que se necesitan para desempeñar este cargo.
-
-###### Art. 131.
-
 Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las judiciales por los Juzgados de Paz.
 
-###### Art. 132.
+###### Art. 131.
 
 En cada Municipalidad habrá un Ayuntamiento de elección popular directa, el cual tendrá su residencia en la cabecera de la misma.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 133.
+###### Art. 132.
 
 Las atribuciones y obligaciones de los Ayuntamientos, su composición y sus relaciones con los Poderes del Estado, se determinarán en la Ley Orgánica Municipal, la cual deberá sujetarse a las siguientes bases:
 
@@ -1283,21 +1327,25 @@ XIV.- Los miembros de los Ayuntamientos serán responsables personal y colectiva
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 134.
+###### Art. 133.
 
 Los Ayuntamientos no podrán adquirir, enajenar ni gravar sus bienes raíces, ni contratar empréstitos sin la autorización del Congreso. Para celebrar contratos de diversa naturaleza a los enumerados en este artículo cuyo término exceda de un año, necesitan la aprobación de Ejecutivo.
 
-###### Art. 135.
+###### Art. 134.
 
 Cuando un acuerdo del Ayuntamiento sea violatorio de la Constitución Federal o la del Estado, u ostensiblemente perjudicial a los intereses municipales, el Ejecutivo suspenderá su cumplimiento, dando cuenta inmediatamente al Congreso, el que resolverá en definitiva si los revoca o aprueba.
 
-###### Art. 136.
+###### Art. 135.
 
 Los Ayuntamientos no podrán gravar e (sic) tránsito o salida de mercancías.
 
-###### Art. 137.
+###### Art. 136.
 
 Los Municipios arreglarán entre sí por convenios amistosos, las dificultades que se susciten por cuestión de límites; pero dichos convenios no surtirán sus efectos hasta que el Congreso los apruebe.
+
+###### Art. 137.
+
+Una ley organizará la Administración Municipal, fijando el número de Regidores y Síndicos Procuradores que deban componer un Ayuntamiento y demás cuestiones relativas.
 
 ## TITULO X. SECCION DE ADMINISTRACION GENERAL
 
@@ -1305,33 +1353,27 @@ Los Municipios arreglarán entre sí por convenios amistosos, las dificultades q
 
 ###### Art. 138.
 
-Una ley organizará la Administración Municipal, fijando el número de Regidores y Síndicos Procuradores que deban componer un Ayuntamiento y demás cuestiones relativas.
-
-###### Art. 139.
-
 Es obligación del Estado impartir y fomentar enseñanza pública en todos sus grados y muy especialmente la primaria.
 
-###### Art. 140.
+###### Art. 139.
 
 La Educación Primaria Elemental o en su defecto la rudimentaria, será obligatoria para todos los habitantes del Estado y uniforme hasta donde sea posible.
 
 > <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 141.
+###### Art. 140.
 
 La enseñanza primaria que se imparta en las Escuelas Oficiales será gratuita y ésta, y la que se dé en los establecimientos particulares, se sujetarán a los prescrito en el artículo 3º. de la Constitución Federal.
 
-###### Art. 142.
+###### Art. 141.
 
 El Estado protegerá la Enseñanza Profesional. No podrán ejercerce en el Estado las profesiones de Médico, Abogado, Ingeniero, Farmacéutico y otras, sin que sean llenados los requisitos establecidos en la Ley Orgánica respectiva.
 
-###### Art. 143.
+###### Art. 142.
 
 El Estado considera altamente honroso y meritorio servir a la educación pública y enaltecer el ejercicio del Magisterio de educación primaria. La ley determinará las recompensas y distinciones a los Profesores, en atención a mérito de sus labores y a la antigüedad de sus servicios.
 
-### CAPITULO II. De la Higiene Pública
-
-###### Art. 144.
+###### Art. 143.
 
 La Dirección Técnica de las Escuelas Oficiales en el Estado y la administración y distribución de los fondos propios de la Hacienda escolar, estará a cargo del Ejecutivo, por conducto de un Departamento que se denominará "DIRECCION GENERAL DE ENSEÑANZA PUBLICA EN TAMAULIPAS," una ley organizará esta y el número y modo de designación de sus agentes en cada Municipalidad.
 
@@ -1339,17 +1381,19 @@ La Dirección Técnica de las Escuelas Oficiales en el Estado y la administraci�
 
 No obstante lo dispuesto por el párrafo anterior, queda facultado el Ejecutivo para celebrar con el Gobierno Federal, Convenios sobre coordinación de los servicios de enseñanza, pero en dichos convenios deberá reservarse el Ejecutivo la intervención que se estime necesaria para el buen desempeño de la educación pública, y deberá también asegurarse la estabilidad de los profesores al servicio del Estado.
 
-###### Art. 145.
+### CAPITULO II. De la Higiene Pública
+
+###### Art. 144.
 
 Habrá en el Estado una Corporación que se denominará "CONSEJO DE HIGIENE PUBLICA," encargada de dictar disposiciones tendentes a conservar la salubridad y vigilar por su cumplimiento. Las resoluciones que dicte ese Consejo, previo acuerdo con el Ejecutivo, serán de observancia obligatoria para todos los habitantes del Estado. Los miembros del Consejo serán nombrados por el Ejecutivo.
 
-###### Art. 146.
+###### Art. 145.
 
 Una ley organizará todo lo relativo al funcionamiento del Consejo.
 
 > <small>(ADICIONADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
 
-###### Art. 146 Bis.
+###### Art. 146.
 
 No obstante lo expresado en los artículos anteriores, con objeto de que la acción sanitaria encomendada al Gobierno del Estado se intensifique, se faculta al Ejecutivo para celebrar convenios con el Gobierno Federal sobre coordinación de los servicios sanitarios, reservándose al propio Ejecutivo la intervención que estime necesaria en la designación de personal y funcionamiento del Departamento respectivo.
 
@@ -1639,10 +1683,14 @@ P.O. 9 DE ENERO DE 1937.
 
 Transitorio.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
 
-P.O. 3 DE DICIEMBRE DE 1941
+P.O. 3 DE DICIEMBRE DE 1941.
 
 1o.- Se derogan todas las Leyes, Decretos y disposiciones que se opongan al presente Decreto.
 
 2o.- Por razones de comodidad y con objeto de hacer más práctico el manejo y aplicación de la Constitución Política Local, el Ejecutivo vigilará la expedición de una nueva edición, incluyendo todas las reformas y adiciones que están en vigor, corriéndose el orden del articulado de la misma.
 
 3o.- Este Decreto empezará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 1942.
+
+Unico. Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
