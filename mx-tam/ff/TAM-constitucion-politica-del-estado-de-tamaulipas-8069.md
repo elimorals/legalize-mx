@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1983-12-31"
+last_updated: "1984-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1984.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -303,13 +303,17 @@ IV.- Poseer suficiente instrucción.
 
 No pueden ser electos Diputados:
 
-I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, los Diputados y Senadores al Congreso de la Unión, estén o nó (sic) en ejercicio, los Magistrados, Jueces y Empleados de la Federación en el Estado, a menos que se separen seis meses antes de la elección.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-II.- Los militares que hayan estado en servicio dentro de los seis meses anteriores a la fecha de la elección.
+I.- El Gobernador, el Secretario General de Gobierno, los Magistrados del Supremo Tribunal de Justicia, el Procurador General de Justicia, los Diputados y Senadores al Congreso de la Unión, estén o no en ejercicio, los Magistrados, Jueces y Empleados de la Federación en el Estado, a menos que se separen 90 días antes de la elección.
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
+
+II.- Los militares que hayan estado en servicio dentro de los 90 días anteriores a la fecha de la elección.
 
 III.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
-IV.- Los ministros de cualquier culto, estén o nó (sic) en ejercicio.
+IV.- Los ministros de cualquier culto, estén o no en ejercicio.
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 1983)</small>
 
@@ -333,7 +337,7 @@ Los Diputados son inviolables por las opiniones que manifiesten en el ejercicio 
 
 ###### Art. 33.
 
-Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
+Los Diputados Propietarios desde el día de su elección y los Suplentes cuando estén ejerciendo sus funciones, sólo podrán ser procesados por la Comisión de Delitos, previa declaración de procedencia del Congreso, en los términos del Artículo 152 de esta Constitución.
 
 ###### Art. 34.
 
@@ -809,19 +813,21 @@ No pueden obtener el cargo de Gobernador del Estado por elección:
 
 I.- Los Ministros de cualquier culto, aún cuando hayan renunciado su ministerio.
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-II.- Los que tengan mando de fuerza en el Estado, si lo han conservado dentro de los seis meses anteriores al día de la Elección.
+II.- Los que tengan mando de fuerza en el Estado si lo han conservado dentro de los 90 días anteriores al día de la elección;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-III.- Los Militares que no se hayan separado del servicio activo por lo menos ciento ochenta días antes de la Elección.
+III.- Los militares que no se hayan separado del servicio activo por lo menos 90 días antes de la elección;
 
-IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos ciento ochenta días antes de la elección, sean o nó (sic) de elección popular.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 1949)</small>
+IV.- Los que desempeñen algún cargo o comisión de otro Estado o de la Federación, a menos que se separen de ellos noventa días antes de la elección, sean o no de elección popular;
 
-V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia, y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos seis meses antes de la Elección.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 1984)</small>
+
+V.- Los Magistrados del Supremo Tribunal, Procurador General de Justicia y Secretario General de Gobierno, o quien haga sus veces, si no se encuentran separados de sus cargos cuando menos 90 días antes de la elección;
 
 VI.- Los que estén sujetos a un proceso criminal por delito que merezca pena corporal, a contar de la fecha del auto de formal prisión.
 
@@ -1567,7 +1573,7 @@ Las declaraciones y resoluciones del Congreso y del Supremo Tribunal de Justicia
 
 Para proceder penalmente contra los Diputados al Congreso del Estado, los Magistrados del Supremo Tribunal de Justicia, los Secretarios, Procurador General de Justicia, Tesorero General y Directores Generales de la Administración Pública Estatal, por la comisión de delitos durante el tiempo de su encargo, el Congreso declarará, por acuerdo de las dos terceras partes del total de sus miembros, si ha o no lugar a proceder contra el inculpado.
 
-Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
+Si la resolución del Congreso fuese negativa se suspenderá todo procedimiento ulterior, pero ello no será obstáculo para que la imputación por la comisión del delito continúe su curso, cuando el inculpado haya concluido el ejercicio de su encargo, pues la misma no prejuzga los fundamentos de la imputación.
 
 Si el Congreso declara que ha lugar a proceder, el sujeto quedará a disposición de las autoridades competentes para que actúen con arreglo de la Ley.
 
@@ -2150,3 +2156,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1o. de enero de 1984.
 SEGUNDO.- Los servicios públicos que actualmente presta el Estado y deban pasar al Municipio en los términos del Artículo 132, fracción XV, se trasladarán gradualmente conforme lo autorice la ley y lo permita la capacidad técnica, administrativa y financiera de los Municipios, conviniendo éstos con el Gobierno del Estado la mejor forma de prestarlos entre tanto se les trasladan íntegramente.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 1984.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
