@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-266
 country: "mx"
 rank: "codigo"
 publication_date: "1980-09-13"
-last_updated: "1999-04-22"
+last_updated: "1999-08-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE ABRIL DE 1999.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE AGOSTO DE 1999.
 
 Código publicado en la Gaceta Oficial de Veracruz-Llave, el sábado 13 de septiembre de 1980.
 
@@ -211,7 +211,9 @@ Son causas excluyentes de incriminación:
 
 I.- Que la actividad o inactividad del agente sean involuntarias;
 
-II.-Que no se integre alguno de los elementos de la descripción legal;
+> <small>(REFORMADA, G.O. 12 DE AGOSTO DE 1999)</small>
+
+II.-La inexistencia de alguno de los elementos de la descripción legal;
 
 III.-Repeler una agresión ilegítima, actual o inminente, en protección de bienes propios o ajenos, siempre que exista necesidad razonable de la defensa, y no medie provocación suficiente por parte del que rechaza la agresión o de la persona a quien se defiende.
 
@@ -2978,3 +2980,9 @@ G.O. 17 DE ABRIL DE 1999.
 G.O. 22 DE ABRIL DE 1999.
 
 Único. Las presentes reformas entrarán en vigor a los quince días después de su publicación en la Gaceta Oficial del estado.
+
+G.O. 12 DE AGOSTO DE 1999.
+
+Primero. La presente ley entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a la presente Ley.
