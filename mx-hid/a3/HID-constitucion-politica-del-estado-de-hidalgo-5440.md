@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "1931-01-16"
+last_updated: "1932-10-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 CONSTITUCION POLITICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ENERO DE 1931.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE OCTUBRE DE 1932.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -58,6 +58,10 @@ II.- El primer período de cuatro años que deberán durar los Magistrados del T
 P.O. 16 DE ENERO DE 1931.
 
 Continúa en vigor el decreto 170 de 8 de mayo de 1930.
+
+P.O. 8 DE OCTUBRE DE 1932.
+
+Esta Ley comenzará a surtir sus efectos desde la fecha de su publicación.
 
 ###### Artículo 3º.
 
@@ -467,11 +471,15 @@ Para ser Gobernador, se requiere:
 
 I. Ser ciudadano del Estado en ejercicio de sus derechos políticos, nacido en el territorio del mismo y con vecindad no menor de tres años inmediatamente anteriores al día de la elección.
 
-II. Tener más de 35 años de edad.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
+
+II.- Haber cumplido 30 años de edad al tiempo de la elección.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 8 DE OCTUBRE DE 1932)</small>
 
 ###### Artículo 48.
 
-No podrán ser electos Gobernador:
+No podrán ser electos Gobernadores:
 
 I. Los Ministros de cualquier culto.
 
@@ -481,7 +489,9 @@ II. El Gobernador substituto y el provisional para el periodo siguiente a aquél
 
 III.- El Secretario General, el Subsecretario, los Magistrados del Tribunal Superior de Justicia del Estado, el Procurador General de Justicia del mismo y los Funcionarios de la Federación que no se hayan separado de sus respectivos cargos, cuando menos seis meses antes de la elección, no quedando comprendidos en este mandato los Funcionarios de la Federación que ocupen sus puestos por elección popular.
 
-IV. Los militares que no se hayan separado del servicio, cuando menos, seis meses antes de la elección. Para los efectos de esta disposición, no se tienen por militares a los ciudadanos alistados en la Guardia Nacional.
+> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 1932)</small>
+
+IV.- Los militares que no se hayan separado del servicio, cuando menos noventa días antes de la elección. Para los efectos de esta disposición, no se tienen por militares, los ciudadanos alistados en la Guardia Nacional.
 
 ###### Artículo 49.
 
