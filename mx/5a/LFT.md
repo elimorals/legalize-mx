@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "1987-12-22"
+last_updated: "1988-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE DICIEMBRE DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE ENERO DE 1988.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación el miércoles 1 de abril de 1970.
 
@@ -162,13 +162,17 @@ I. Prestarán sus servicios en las mismas condiciones de trabajo y tendrán los 
 
 II. Los intermediarios no podrán recibir ninguna retribución o comisión con cargo a los salarios de los trabajadores.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 15.
 
-En las empresas que ejecuten obras o servicios en forma exclusiva o principal para otra, y que no dispongan de elementos propios suficientes de conformidad con lo dispuesto en el artículo 13, se observarán las normas siguientes:
+En las empresas que ejecuten obras o servicios en forma exclusiva o principal para otra, y que no dispongan de elementos propios suficientes de conformidad con lo dispuesto en el Artículo 13, se observarán las normas siguientes:
 
 I. La empresa beneficiaria será solidariamente responsable de las obligaciones contraídas con los trabajadores; y
 
-II. Los trabajadores empleados en la ejecución de las obras o servicios tendrán derecho a disfrutar de condiciones de trabajo proporcionadas a las que disfruten los trabajadores que ejecuten trabajos similares en la empresa beneficiaria. Para determinar la proporción, se tomarán en consideración las diferencias que existan en los salarios mínimos que rijan en las zonas económicas en que se encuentren instaladas las empresas y las demás circunstancias que puedan influir en las condiciones de trabajo.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+II. Los trabajadores empleados en la ejecución de las obras o servicios tendrán derecho a disfrutar de condiciones de trabajo proporcionadas a las que disfruten los trabajadores que ejecuten trabajos similares en la empresa beneficiaria. Para determinar la proporción, se tomarán en consideración las diferencias que existan en los salarios mínimos que rijan en el área geográfica de aplicación en que se encuentren instaladas las empresas y las demás circunstancias que puedan influir en las condiciones de trabajo.
 
 ###### Artículo 16.
 
@@ -358,7 +362,9 @@ IV. El arresto del trabajador;
 
 V. El cumplimiento de los servicios y el desempeño de los cargos mencionados en el artículo 5°. de la Constitución, y el de las obligaciones consignadas en el artículo 31, fracción III de la misma Constitución;
 
-VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación, Conciliación y Arbitraje, Comisiones Nacional y Regionales de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes; y
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VI. La designación de los trabajadores como representantes ante los organismos estatales, Juntas de Conciliación, Conciliación y Arbitraje, Comisión Nacional de los Salarios Mínimos, Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas y otros semejantes; y
 
 VII. La falta de los documentos que exijan las leyes y reglamentos, necesarios para la prestación del servicio, cuando sea imputable al trabajador.
 
@@ -728,31 +734,41 @@ El salario mínimo deberá ser suficiente para satisfacer las necesidades normal
 
 Se considera de utilidad social el establecimiento de instituciones y medidas que protejan la capacidad adquisitiva del salario y faciliten el acceso de los trabajadores a la obtención de satisfactores.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 91.
 
-Los salarios mínimos podrán ser generales para una o varias zonas económicas, que pueden extenderse a una, dos o más Entidades Federativas, o profesionales, para una rama determinada de la industria o del comercio o para profesiones, oficios o trabajos especiales, dentro de una o varias zonas económicas.
+Los salarios mínimos podrán ser generales para una o varias áreas geográficas de aplicación, que pueden extenderse a una o más entidades federativas o profesionales, para una rama determinada de la actividad económica o para profesiones, oficios o trabajos especiales, dentro de una o varias áreas geográficas.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 92.
 
-Los salarios mínimos generales regirán para todos los trabajadores de la zona o zonas consideradas, independientemente de las ramas de la industria, del comercio, profesiones, oficios o trabajos especiales.
+Los salarios mínimos generales regirán para todos los trabajadores del área o áreas geográficas de aplicación que se determinen, independientemente de las ramas de la actividad económica, profesiones, oficios o trabajos especiales.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 93.
 
-Los trabajadores del campo, dentro de los lineamientos señalados en el artículo 90, disfrutarán de un salario mínimo adecuado a sus necesidades.
+Los salarios mínimos profesionales regirán para todos los trabajadores de las ramas de actividad económica, profesiones, oficios o trabajos especiales que se determinen dentro de una o varias áreas geográficas de aplicación.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 94.
 
-Los salarios mínimos serán fijados por las Comisiones Regionales y serán sometidos para su ratificación o modificación a la Comisión Nacional de los Salarios Mínimos.
+Los salarios mínimos se fijarán por una Comisión Nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la cual podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 95.
 
-Las Comisiones Regionales y la Comisión Nacional fijarán los salarios mínimos profesionales.
+La Comisión Nacional de los Salarios Mínimos y las Comisiones Consultivas se integrarán en forma tripartita, de acuerdo a lo establecido por el Capítulo II del Título Trece de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 96.
 
-Los salarios mínimos profesionales regirán para todos los trabajadores de la rama de la industria o del comercio, de la profesión, oficio o trabajo especial considerado, dentro de una rama o varias zonas económicas.
+La Comisión Nacional determinará la división de la República en áreas geográficas, las que estarán constituidas por uno o más municipios en los que deba regir un mismo salario mínimo general, sin que necesariamente exista continuidad territorial entre dichos municipios.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE ENERO DE 1974)</small>
 
@@ -866,7 +882,7 @@ VI. Pago de las cuotas sindicales ordinarias previstas en los estatutos de los s
 
 > <small>(ADICIONADA, D.O.F. 9 DE ENERO DE 1974)</small>
 
-VII. Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
+VII.- Pago de abonos para cubrir créditos garantizados por el Fondo a que se refiere el artículo 103-bis de esta Ley, destinados a la adquisición de bienes de consumo, o al pago de servicios. Estos descuentos deberán haber sido aceptados libremente por el trabajador y no podrán exceder del veinte por ciento del salario.
 
 ###### Artículo 111.
 
@@ -960,7 +976,7 @@ I. Una comisión integrada por igual número de representantes de los trabajador
 
 II. Si los representantes de los trabajadores y del patrón no se ponen de acuerdo, decidirá el Inspector del Trabajo;
 
-III. Los trabajadores podrán hacer las observaciones que juzguen conveniente, dentro de un término de quince días; y
+III. Los trabajadores podrán hacer las observaciones que juzguen conveniente (sic), dentro de un término de quince días; y
 
 IV. Si se formulan objeciones, serán resueltas por la misma comisión a que se refiere la fracción I, dentro de un término de quince días.
 
@@ -1252,11 +1268,11 @@ f) Los pagos por tiempo extraordinario, salvo cuando este tipo de servicios est�
 
 g) Las cuotas al Instituto Mexicano del Seguro Social a cargo del trabajador que cubran las empresas.
 
-> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 1972)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 144.
 
-Se tendrá como salario máximo para el pago de las aportaciones el equivalente a diez veces el salario mínimo general en la zona de que se trate.
+Se tendrá como salario máximo para el pago de las aportaciones el equivalente a diez veces el salario mínimo general del área geográfica de aplicación que corresponda.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -1488,7 +1504,7 @@ I.- Comprobar que quienes capacitarán o adiestrarán a los trabajadores, están
 
 > <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
-II.- Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
+ll.- Acreditar satisfactoriamente, a juicio de la Secretaría del Trabajo y Previsión Social, tener conocimientos bastantes sobre los procedimientos tecnológicos propios de la rama industrial o actividad en la que pretendan impartir dicha capacitación o adiestramiento; y
 
 III.- No estar ligadas con personas o instituciones que propaguen algún credo religioso, en los términos de la prohibición establecida por la fracción IV del Artículo 3o. Constitucional.
 
@@ -2758,9 +2774,11 @@ Los patrones entregarán gratuitamente a sus trabajadores a domicilio una libret
 
 La falta de libreta no priva al trabajador de los derechos que le correspondan de conformidad con las disposiciones de esta Ley.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 322.
 
-Las Comisiones Regionales y Nacional de los Salarios Mínimos fijarán los salarios mínimos profesionales de los diferentes trabajos a domicilio, debiendo tomar en consideración, entre otras cosas, las circunstancias siguientes:
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales de los diferentes trabajos a domicilio, debiendo tomar en consideración, entre otras, las circunstancias siguientes:
 
 I. La naturaleza y calidad de los trabajos;
 
@@ -2770,7 +2788,9 @@ III. Los salarios y prestaciones percibidos por los trabajadores de establecimie
 
 IV. Los precios corrientes en el mercado de los productos del trabajo a domicilio.
 
-Los libros a que se refiere el artículo 320 estarán permanentemente a disposición de las Comisiones.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
+Los libros a que se refiere el artículo 320 estarán permanentemente a disposición de la Comisión Nacional de los Salarios Mínimos.
 
 ###### Artículo 323.
 
@@ -2788,7 +2808,9 @@ III. Recibir oportunamente el trabajo y pagar los salarios en la forma y fechas 
 
 IV. Hacer constar en la libreta de cada trabajador, al momento de recibir el trabajo, las pérdidas o deficiencias que resulten, no pudiendo hacerse ninguna reclamación posterior; y
 
-V. Proporcionar a los Inspectores y a las Comisiones del Salario Mínimo los informes que les soliciten.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+V. Proporcionar a los Inspectores y a la Comisión Nacional de los Salarios Mínimos los informes que le soliciten.
 
 ###### Artículo 325.
 
@@ -2834,7 +2856,9 @@ V. Vigilar que los salarios no sean inferiores a los que se paguen en la empresa
 
 VI. Practicar visitas en los locales donde se ejecute el trabajo, para vigilar que se cumplan las disposiciones sobre higiene y seguridad; y
 
-VII. Informar a las Comisiones del Salario Mínimo las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VII. Informar a la Comisión Nacional de los Salarios Mínimos las diferencias de salarios que adviertan, en relación con los que se paguen a trabajadores que ejecuten trabajos similares.
 
 ### CAPITULO XIV. Trabajo en Hoteles, Restaurantes, Bares y otros Establecimientos Análogos
 
@@ -2860,15 +2884,17 @@ Los trabajadores domésticos deberán disfrutar de reposos suficientes para toma
 
 Salvo lo expresamente pactado, la retribución del doméstico comprende, además del pago en efectivo, los alimentos y la habitación. Para los efectos de esta Ley, los alimentos y habitación se estimarán equivalentes al 50% del salario que se pague en efectivo.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 335.
 
-Las Comisiones Regionales fijarán los salarios mínimos profesionales que deberán pagarse a estos trabajadores y los someterán a la aprobación de la Comisión Nacional de los Salarios Mínimos.
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 336.
 
 Para la fijación de los salarios mínimos a que se refiere el artículo anterior, se tomarán en consideración las condiciones de las localidades en que vayan a aplicarse.
-
-La Comisión Nacional podrá variar, según lo estime conveniente, la fijación de las localidades y el monto de los salarios que hubiesen fijado las Comisiones Regionales.
 
 ###### Artículo 337.
 
@@ -2926,9 +2952,11 @@ El patrón podrá dar por terminada la relación de trabajo sin responsabilidad,
 
 Las disposiciones de este capítulo se aplican a los trabajadores en hoteles, casas de asistencia, restaurantes, fondas, cafés, bares y otros establecimientos análogos.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 345.
 
-Las Comisiones Regionales fijarán los salarios mínimos profesionales que deberán pagarse a estos trabajadores y los someterán a la aprobación de la Comisión Nacional.
+La Comisión Nacional de los Salarios Mínimos fijará los salarios mínimos profesionales que deberán pagarse a estos trabajadores.
 
 ###### Artículo 346.
 
@@ -3040,7 +3068,7 @@ En relación con este Capítulo, no regirá lo dispuesto por el artículo 39 de 
 
 Son causas especiales de rescisión de la relación de trabajo, sin responsabilidad para el patrón, además de la que establece el artículo 47, las siguientes:
 
-I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353-D;
+I.- El incumplimiento de las obligaciones a que aluden las fracciones I, II, III y VI del artículo 353.D;
 
 II.- La violación de las normas técnicas o administrativas necesarias para el funcionamiento de la Unidad Médica Receptora de Residentes en la que se efectúe la residencia;
 
@@ -3178,7 +3206,7 @@ Los trabajadores y los patrones tienen el derecho de constituir sindicatos, sin 
 
 ###### Artículo 358.
 
-A nadie se puede obligar a formar parte de un sindicado o a no formar parte de él.
+A nadie se puede obligar a formar parte de un sindicato o a no formar parte de él.
 
 Cualquier estipulación que establezca multa convencional en caso de separación del sindicato o que desvirtúe de algún modo la disposición contenida en el párrafo anterior, se tendrá por no puesta.
 
@@ -4108,11 +4136,11 @@ Para determinar las indemnizaciones a que se refiere este Título, se tomará co
 
 La cantidad que se tome como base para el pago de las indemnizaciones no podrá ser inferior al salario mínimo.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 486.
 
-Para determinar las indemnizaciones a que se refiere este Título, si el salario que percibe el trabajador excede del doble del salario mínimo de la zona económica a la que corresponda el lugar de prestación del trabajo, se considerará esa cantidad como salario máximo. Si el trabajo se presta en lugares de diferentes zonas económicas, el salario máximo será el doble del promedio de los salarios mínimos respectivos.
-
-Si el doble del salario mínimo de la zona económica de que se trata es inferior a cincuenta pesos, se considerará esta cantidad como salario máximo.
+Para determinar las indemnizaciones a que se refiere este título, si el salario que percibe el trabajador excede del doble del salario mínimo del área geográfica de aplicación a que corresponda el lugar de prestación del trabajo, se considerará esa cantidad como salario máximo. Si el trabajo se presta en lugares de diferentes áreas geográficas de aplicación, el salario máximo será el doble del promedio de los salarios mínimos respectivos.
 
 ###### Artículo 487.
 
@@ -4316,7 +4344,7 @@ El trabajador que rehuse con justa causa recibir la atención médica y quirúrg
 
 La causa de la muerte por riesgo de trabajo podrá comprobarse con los datos que resulten de la autopsia, cuando se practique, o por cualquier otro medio que permita determinarla.
 
-Si se práctica la autopsia, los presuntos beneficiarios podrán designar un médico que la presencie. Podrán igualmente designar un médico que la practique, dando aviso a la autoridad.
+Si se practica la autopsia, los presuntos beneficiarios podrán designar un médico que la presencie. Podrán igualmente designar un médico que la practique, dando aviso a la autoridad.
 
 El patrón podrá designar un médico que presencie la autopsia.
 
@@ -4490,7 +4518,9 @@ V. Al Servicio Nacional del Empleo, Capacitación y Adiestramiento;
 
 VI. A la Inspección del Trabajo;
 
-VII. A las Comisiones Nacional y Regionales de los Salarios Mínimos;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VII. A la Comisión Nacional de los Salarios Mínimos;
 
 VIII. A la Comisión Nacional para la Participación de los Trabajadores en las Utilidades de las Empresas;
 
@@ -4596,19 +4626,19 @@ En los casos no previstos por los artículos 527 y 528, la aplicación de las no
 
 De conformidad con lo dispuesto por el artículo 527-A, las autoridades de las Entidades Federativas deberán:
 
-I. Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
+I.- Poner a disposición de las Dependencias del Ejecutivo Federal competentes para aplicar esta Ley, la información que éstas les soliciten para estar en aptitud de cumplir sus funciones;
 
-II. Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
+II.- Participar en la integración y funcionamiento del respectivo Consejo Consultivo Estatal de Capacitación y Adiestramiento;
 
-III. Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
+III.- Participar en la integración y funcionamiento de la correspondiente Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo;
 
-IV. Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
+IV.- Reportar a la Secretaría del Trabajo y Previsión Social las violaciones que cometan los patrones en materia de seguridad e higiene y de capacitación y adiestramiento e intervenir en la ejecución de las medidas que se adopten para sancionar tales violaciones y para corregir las irregularidades en las empresas o establecimientos sujetos a jurisdicción local;
 
-V. Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
+V.- Coadyuvar con los correspondientes Comités Nacionales de Capacitación y Adiestramiento;
 
-VI. Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
+VI.- Auxiliar en la realización de los trámites relativos a constancias de habilidades laborales; y,
 
-VII. Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
+VII.- Previa determinación general o solicitud específica de las autoridades federales, adoptar aquellas otras medidas que resulten necesarias para auxiliarlas en los aspectos concernientes a tal determinación o solicitud.
 
 ### CAPITULO VI. Comisión Nacional de los Salarios Mínimos
 
@@ -4660,19 +4690,21 @@ Los reglamentos determinarán las atribuciones, la forma de su ejercicio y los d
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-### CAPITULO VII. Comisiones Regionales de los Salarios Mínimos
+### CAPITULO VII. Comisiones Consultivas de la Comisión Nacional de los Salarios Mínimos
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 537.
 
 El Servicio Nacional del Empleo, Capacitación y Adiestramiento tendrá los siguientes objetivos:
 
-I. Estudiar y promover la generación de empleos;
+I.- Estudiar y promover la generación de empleos;
 
-II. Promover y supervisar la colocación de los trabajadores;
+II.- Promover y supervisar la colocación de los trabajadores;
 
-III. Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
+III.- Organizar, promover y supervisar la capacitación y el adiestramiento de los trabajadores; y,
 
-IV. Registrar las constancias de habilidades laborales.
+IV.- Registrar las constancias de habilidades laborales.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -4688,7 +4720,7 @@ De conformidad con lo que dispone el artículo que antecede y para los efectos d
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-I. En materia de promoción de empleos:
+I.- En materia de promoción de empleos:
 
 a) Practicar estudios para determinar las causas del desempleo y del subempleo de la mano de obra rural y urbana;
 
@@ -4708,7 +4740,7 @@ h) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-II. En materia de colocación de trabajadores:
+II.- En materia de colocación de trabajadores:
 
 a) Encauzar a los demandantes de trabajo hacia aquellas personas que requieran sus servicios, dirigiendo a los solicitantes más adecuados, por su preparación y aptitudes, hacia los empleos que les resulten más idóneos;
 
@@ -4724,7 +4756,7 @@ f) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-III. En materia de capacitación o adiestramiento de trabajadores:
+III.- En materia de capacitación o adiestramiento de trabajadores:
 
 a) Cuidar de la oportuna constitución y el funcionamiento de las Comisiones Mixtas de Capacitación y Adiestramiento;
 
@@ -4746,7 +4778,7 @@ i) En general, realizar todas aquéllas que las leyes y reglamentos encomienden 
 
 > <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 1978)</small>
 
-IV. En materia de registro de constancias de habilidades laborales:
+IV.- En materia de registro de constancias de habilidades laborales:
 
 a) Establecer registros de constancias relativas a trabajadores capacitados o adiestrados, dentro de cada una de las ramas industriales o actividades; y,
 
@@ -4808,9 +4840,9 @@ Las autorizaciones para el funcionamiento de agencias de colocaciones, con fines
 
 Dichas autorizaciones se otorgarán previa solicitud del interesado, cuando a juicio de la Secretaría del Trabajo y Previsión Social se justifique la prestación del servicio por particulares y una vez que se satisfagan los requisitos que al efecto se señalen. En estos casos, de acuerdo con lo establecido en el artículo 539-D, el servicio deberá ser gratuito para los trabajadores y las tarifas conforme a las cuales se presten, deberán ser previamente fijadas por la Secretaría del Trabajo y Previsión Social.
 
-### CAPITULO VIII. Procedimiento ante las Comisiones Nacional y Regionales de los Salarios Mínimos
+### CAPITULO VIII. Procedimiento ante la Comisión Nacional de los Salarios Mínimos
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 540.
 
@@ -4958,9 +4990,11 @@ IV. No pertenecer al estado eclesiástico; y
 
 V. No haber sido condenado por delito intencional sancionado con pena corporal.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 553.
 
-El Presidente de la Comisión tiene los deberes y atribuciones siguientes:
+El Presidente de la Comisión Nacional de los Salarios Mínimos tiene los deberes y atribuciones siguientes:
 
 I. Someter al Consejo de Representantes el plan anual de trabajo preparado por la Dirección Técnica;
 
@@ -4970,9 +5004,13 @@ III. Informar periódicamente al Secretario del Trabajo y Previsión Social de l
 
 IV. Citar y presidir las sesiones del Consejo de Representantes;
 
-V. Cuidar de que se integren oportunamente las Comisiones Regionales y vigilar su funcionamiento;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
 
-VI. Girar las instrucciones que juzgue conveniente para el mejor funcionamiento de las Comisiones Regionales; y
+V. Disponer la organización y vigilar el funcionamiento de las Comisiones Consultivas de la Comisión Nacional;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VI. Presidir los trabajos de las Comisiones Consultivas o designar, en su caso, a quienes deban presidirlos;
 
 VII. Los demás que le confieran las leyes.
 
@@ -5016,17 +5054,31 @@ I. Determinar, en la primera sesión, su forma de trabajo y la frecuencia de las
 
 II. Aprobar anualmente el plan de trabajo de la Dirección Técnica;
 
-III. Conocer del dictamen formulado por la Dirección Técnica y dictar resolución determinando la división de la República en zonas económicas y el lugar de residencia de la comisión en cada una de ellas. La resolución se publicará en el Diario Oficial de la Federación;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
 
-IV. Practicar y realizar directamente las investigaciones y estudios que juzgue conveniente antes de aprobar las resoluciones de las Comisiones Regionales y solicitar de la Dirección Técnica que efectúe investigaciones y estudios complementarios;
+III. Conocer el dictamen formulado por la Dirección Técnica y dictar resolución en la que se determinen o modifiquen las áreas geográficas en las que regirán los salarios mínimos. La resolución se publicará en el Diario Oficial de la Federación;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+IV. Practicar y realizar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica que efectúe investigaciones y estudios complementarios;
 
 V. Designar una o varias comisiones o técnicos para que practiquen investigaciones o realicen estudios especiales;
 
-VI. Revisar las resoluciones de las Comisiones Regionales, modificándolas o aprobándolas según lo juzgue conveniente;
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 21 DE ENERO DE 1988)</small>
 
-VII. Fijar los salarios mínimos generales y profesionales en las zonas económicas en que no hubiesen sido fijados por las Comisiones Regionales; y
+VI. Aprobar la creación de comisiones consultivas de la Comisión Nacional y determinar las bases para su integración y funcionamiento.
 
-VIII. Los demás que le confieran las leyes.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VII. Conocer las opiniones que formulen las comisiones consultivas al término de sus trabajos;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+VIII. Fijar los salarios mínimos generales y profesionales; y
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+IX. Los demás que le confieran las leyes.
 
 ###### Artículo 558.
 
@@ -5054,29 +5106,29 @@ III. No pertenecer al estado eclesiástico; y
 
 IV. No haber sido condenados por delito intencional sancionado con pena corporal.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 561.
 
 La Dirección Técnica tiene los deberes y atribuciones siguientes:
 
-I. Realizar los estudios técnicos necesarios y apropiados para determinar la división de la República en zonas económicas, formular un dictamen y someterlo al Consejo de Representantes;
+I. Realizar los estudios técnicos necesarios y apropiados para determinar la división de la República en áreas geográficas, formular un dictamen y proponerlo al Consejo de Representantes;
 
-II. Proponer al Consejo de Representantes modificaciones a la división de zonas económicas, siempre que existan circunstancias importantes que las justifiquen;
+II. Proponer al Consejo de Representantes modificaciones a la División de la República en áreas geográficas y a la integración de las mismas, siempre que existan circunstancias que lo justifiquen;
 
-III. Practicar las investigaciones y realizar los estudios necesarios y apropiados para que las Comisiones Regionales y el Consejo de Representantes puedan fijar los salarios mínimos;
+III. Practicar las investigaciones y realizar los estudios necesarios y apropiados para que el Consejo de Representantes pueda fijar los salarios mínimos;
 
-IV. Sugerir la fijación de los salarios mínimos profesionales; y
+IV. Sugerir la fijación de los salarios mínimos profesionales;
 
-> <small>(REFORMADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+V. Publicar regularmente las fluctuaciones ocurridas en los precios y sus repercusiones en el costo de la vida para las principales localidades del país;
 
-V.- Publicar regularmente las fluctuaciones ocurridas en los precios y sus repercusiones sobre el costo de la vida, para cada una de las zonas económicas a que se refiere la Fracción III del Artículo 557;
+VI. Resolver, previa orden del Presidente, las consultas que se le formulen en relación con las fluctuaciones de los precios y sus repercusiones en el poder adquisitivo de los salarios;
 
-> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
+VII. Apoyar los trabajos técnicos e investigaciones de las Comisiones Consultivas; y
 
-VI.- Resolver, previa orden del Presidente, las consultas que se le formulen en relación con las fluctuaciones de los precios y sus repercusiones en el poder adquisitivo de los salarios; y
+VIII. Los demás que le confieran las leyes.
 
-> <small>(ADICIONADA, D.O.F. 30 DE SEPTIEMBRE DE 1974)</small>
-
-VII.- Los demás que le confieran las leyes.
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 562.
 
@@ -5084,21 +5136,25 @@ Para cumplir las atribuciones a que se refiere la fracción III del artículo an
 
 I. Practicar y realizar las investigaciones y estudios necesarios y apropiados para determinar, por lo menos:
 
-a) Las condiciones económicas generales de la República y de las zonas en que se hubiese dividido el territorio nacional.
+a) La situación económica general del país.
 
-b) La clasificación de las actividades de cada zona económica.
+b) Los cambios de mayor importancia que se hayan observado en las diversas actividades económicas.
 
-c) El costo de la vida por familia.
+c) Las variaciones en el costo de la vida por familia.
 
-d) El presupuesto indispensable para la satisfacción de las siguientes necesidades de cada familia, entre otras: las de orden material, tales como la habitación, menaje de casa, alimentación, vestido y transporte; las de carácter social y cultural, tales como concurrencia a espectáculos, práctica de deportes, asistencia a escuelas de capacitación, bibliotecas y otros centros de cultura; y las relacionadas con la educación de los hijos.
+d) Las condiciones del mercado de trabajo y las estructuras salariales.
 
-e) Las condiciones económicas de los mercados consumidores;
+II. Realizar periódicamente las investigaciones y estudios necesarios para determinar:
 
-II. Solicitar toda clase de informes y estudios de las instituciones oficiales, federales y estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
+a) El presupuesto indispensable para la satisfacción de las siguientes necesidades de cada familia, entre otras: las de orden material, tales como la habitación, menaje de casa, alimentación, vestido y transporte; las de carácter social y cultural, tales como concurrencia a espectáculos, práctica de deportes, asistencia a escuelas de capacitación, bibliotecas y otros centros de cultura; y las relacionadas con la educación de los hijos.
 
-III. Recibir y considerar los estudios, informes y sugerencias que le presenten los trabajadores y los patrones; y
+b) Las condiciones de vida y de trabajo de los trabajadores de salario mínimo.
 
-IV. Preparar un informe por cada zona económica, que debe contener un resumen de las investigaciones y estudios que hubiese efectuado y de los presentados por los trabajadores y los patrones, someterlo a la consideración de las Comisiones Regionales y asesorar a éstas cuando lo soliciten.
+III. Solicitar toda clase de informes y estudios de las instituciones oficiales, federales y estatales y de las particulares que se ocupen de problemas económicos, tales como los institutos de investigaciones sociales y económicas, las organizaciones sindicales, las cámaras de comercio, las de industria y otras instituciones semejantes;
+
+IV. Recibir y considerar los estudios, informes y sugerencias que le presenten los trabajadores y los patrones; y
+
+V. Preparar un informe de las investigaciones y estudios que hubiese efectuado y de los presentados por los trabajadores y los patrones y someterlo a la consideración del Consejo de Representantes.
 
 ###### Artículo 563.
 
@@ -5110,51 +5166,103 @@ II. Informar periódicamente al Presidente de la Comisión y al Consejo de Repre
 
 III. Actuar como Secretario del Consejo de Representantes; y
 
-IV. Los demás que le confieran las leyes.
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+IV. Disponer, previo acuerdo con el Presidente de la Comisión Nacional, la integración oportuna de los Secretariados Técnicos de las Comisiones Consultivas; y
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+V. Los demás que le confieran las leyes.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ### CAPITULO X. Juntas Federales de Conciliación
 
 ###### Artículo 564.
 
-Las Comisiones Regionales de los Salarios Mínimos funcionarán en cada una de las zonas económicas en que se divida el territorio nacional.
+El Presidente de la Comisión Nacional determinará, en cada caso, las bases de organización y funcionamiento de las Comisiones Consultivas.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 565.
 
-Las Comisiones Regionales se integrarán cada cuatro años, de conformidad con las disposiciones siguientes:
+Las Comisiones Consultivas se integrarán de conformidad con las disposiciones siguientes:
 
-I. Con un representante del Gobierno, que fungirá como Presidente, nombrado por la Secretaría del Trabajo y Previsión Social, previa consulta con los Gobernadores de las Entidades Federativas comprendidas en la zona. El Presidente será asistido por un Secretario;
+I. Con un presidente;
 
-II. Con un número igual, no menor de dos, ni mayor de cinco, de representantes propietarios y suplentes de los trabajadores sindicalizados y de los patrones, designados de conformidad con la convocatoria que al efecto expida la Secretaría del Trabajo y Previsión Social. Si los trabajadores o los patrones no hacen la designación de sus representantes, la hará la misma Secretaría, debiendo recaer en trabajadores o patrones; y
+II. Con un número igual de representantes de los trabajadores y de los patrones, no menor de tres ni mayor de cinco, designados de acuerdo a lo dispuesto en el Capítulo II del Título Trece de esta Ley;
 
-III. En aquellas zonas en que no existan trabajadores sindicalizados, los representantes serán designados por los trabajadores libres.
+III. Con los asesores técnicos y especialistas que se considere conveniente, designados por el Presidente de la Comisión Nacional; y
+
+IV. Con un Secretariado Técnico.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 566.
 
-Los Presidentes de las Comisiones Regionales deberán satisfacer los requisitos señalados en el artículo 560.
+Los representantes de los trabajadores y de los patrones deberán satisfacer los requisitos señalados en el artículo 556.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 567.
 
-Los representantes de los trabajadores y de los patrones deberán satisfacer los requisitos señalados en el artículo 556.
+Las Comisiones Consultivas tendrán los deberes y atribuciones siguientes:
+
+I. Determinar en la primera sesión su forma de trabajo y la frecuencia de sus reuniones;
+
+II. Aprobar el Plan de Trabajo que formule el Secretariado Técnico y solicitarle, en su caso, la realización de investigaciones y estudios complementarios;
+
+III. Practicar y realizar directamente las investigaciones que juzgue pertinentes para el mejor cumplimiento de su función;
+
+IV. Solicitar directamente, cuando lo juzgue conveniente, los informes y estudios a que se refiere el artículo 562, Fracción III;
+
+V. Solicitar la opinión de organizaciones de trabajadores, de patrones y en general de cualquier entidad pública o privada;
+
+VI. Recibir las sugerencias y estudios que le presenten los trabajadores, los patrones y en general cualquier entidad pública o privada;
+
+VII. Allegarse todos los elementos que juzguen necesarios y apropiados para el cumplimiento de su objeto;
+
+VIII. Emitir un informe con las opiniones y recomendaciones que juzgue pertinentes en relación con las materias de su competencia; y
+
+IX. Los demás que les confieran las leyes.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 568.
 
-Las Comisiones Regionales se integrarán al mismo tiempo que el Consejo de Representantes de la Comisión Nacional.
+El Presidente de la Comisión Consultiva tendrá los deberes y atribuciones siguientes:
+
+I. Citar y presidir las sesiones de la Comisión;
+
+II. Someter a la Comisión Consultiva el Plan de Trabajo que formule el Secretariado Técnico y vigilar su desarrollo;
+
+III. Informar periódicamente al Presidente de la Comisión Nacional, en su caso, del desarrollo de los trabajos de la Comisión Consultiva y hacer de su conocimiento la terminación de los mismos;
+
+IV. Presentar al Consejo de Representantes por conducto del Presidente de la Comisión Nacional los resultados de los trabajos de la Comisión Consultiva; y
+
+V. Los demás que le confieran las leyes.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 569.
 
-Las Comisiones Regionales tienen los deberes y atribuciones siguientes:
+El Secretariado Técnico de la Comisión Consultiva tendrá los deberes y atribuciones siguientes:
 
-I. Determinar, en la primera sesión, su forma de trabajo y la frecuencia de las sesiones;
+I. Practicar las investigaciones y realizar los estudios previstos en el Plan de Trabajo aprobado por la Comisión Consultiva y los que posteriormente se le encomienden;
 
-II. Conocer del informe que someta a su consideración la Dirección Técnica de la Comisión Nacional;
+II. Solicitar toda clase de informes y estudios de dependencias e instituciones oficiales y entidades públicas y privadas relacionadas con la materia objeto de sus trabajos;
 
-III. Practicar y realizar directamente las investigaciones y estudios que juzguen conveniente, antes de dictar resolución;
+III. Recibir y considerar los estudios, informes y sugerencias que le presenten los trabajadores y los patrones;
 
-IV. Fijar los salarios mínimos generales y profesionales de su zona y someter su resolución al Consejo de Representantes de la Comisión Nacional;
+IV. Allegarse todos los demás elementos que juzgue necesarios o apropiados;
 
-V. Informar a la Comisión Nacional, cada quince días, del desarrollo de sus trabajos, por lo menos; y
+V. Preparar los documentos de trabajo e informes que requiera la Comisión;
 
-VI. Los demás que les confieran las leyes.
+VI. Preparar un informe final que deberá contener los resultados de las investigaciones y estudios efectuados y un resumen de las sugerencias y estudios de los trabajadores y patrones y someterlo a la consideración de la Comisión Consultiva; y
+
+VII. Los demás que le confieran las leyes.
+
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ### CAPITULO XI. Juntas Locales de Conciliación
 
@@ -5164,71 +5272,63 @@ VI. Los demás que les confieran las leyes.
 
 Los salarios mínimos se fijarán cada año y comenzarán a regir el primero de enero del año siguiente.
 
-La Comisión de los Salarios Mínimos y el Secretario del Trabajo y Previsión Social podrán solicitar la revisión de los salarios mínimos, durante su vigencia, siempre que las circunstancias económicas lo justifiquen.
+Los salarios mínimos podrán revisarse en cualquier momento en el curso de su vigencia siempre que existan circunstancias económicas que lo justifiquen:
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+I. Por iniciativa del Secretario del Trabajo y Previsión Social quien formulará al Presidente de la Comisión Nacional de los Salarios Mínimos solicitud por escrito que contenga exposición de los hechos que la motiven; o
+
+II. A solicitud de los sindicatos, federaciones y confederaciones de trabajadores o de los patrones previo cumplimiento de los siguientes requisitos:
+
+a) La solicitud deberá presentarse a la Secretaría del Trabajo y Previsión Social por los sindicatos, federaciones y confederaciones que representen el cincuenta y uno por ciento de los trabajadores sindicalizados, por lo menos, o por los patrones que tengan a su servicio por lo menos dicho Porcentaje de trabajadores.
+
+b) La solicitud contendrá una exposición de los fundamentos que la justifiquen y podrá acompañarse de los estudios y documentos que correspondan.
+
+c) El Secretario del Trabajo y Previsión Social, dentro de los cinco días siguientes a la fecha en que reciba la solicitud correspondiente y previa certificación de la mayoría a que se refiere el inciso a) de este artículo, la hará llegar al Presidente de la Comisión Nacional de los Salarios Mínimos con los estudios y documentos que la acompañen.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 571.
 
-En la fijación de los salarios mínimos por las Comisiones Regionales, se observarán las normas siguientes:
+En la fijación de los salarios mínimos a que se refiere el primer párrafo del artículo 570 se observarán las normas siguientes:
 
-I.- Los trabajadores y los patrones a más tardar el último día de octubre, podrán presentar los estudios que juzguen conveniente acompañados de las pruebas que los justifiquen.
+I. Los trabajadores y los patrones dispondrán de un término que vencerá el último de noviembre para presentar los estudios que juzguen convenientes;
 
-II.- La Dirección Técnica de la Comisión Nacional hará llegar a las Comisiones regionales en el curso de los primeros quince días del mes de octubre los informes a que se refiere la fracción IV del artículo 562 de esta ley.
+II. La Dirección Técnica presentará a la consideración del Consejo de Representantes, a más tardar el último día de noviembre, el Informe al que se refiere la fracción V del artículo 562 de esta Ley;
 
-III. Las Comisiones dispondrán de un término que vencerá el quince de noviembre para estudiar los informes de la Dirección Técnica de la Comisión Nacional y los estudios presentados por los trabajadores y los patrones, efectuar directamente las investigaciones y estudios que juzgue conveniente y dictar resolución, fijando los salarios mínimos.
+III. El Consejo de Representantes, durante el mes de Diciembre y antes del último día hábil del mismo mes, dictará resolución en la que fije los salarios mínimos, después de estudiar el informe de la Dirección Técnica, y las opiniones, estudios e investigaciones presentadas por los trabajadores y los patrones. Para tal efecto podrá realizar directamente las investigaciones y estudios que juzgue convenientes y solicitar a la Dirección Técnica información complementaria;
 
-Dentro del mismo término podrán solicitar de la Dirección Técnica de la Comisión Nacional investigaciones y estudios complementarios; y
+IV. La Comisión Nacional expresará en su resolución los fundamentos que la justifiquen; y
 
-IV. Los Presidentes de las Comisiones, dentro de los cinco días siguientes a la fecha de la resolución, ordenarán su publicación y remitirán el expediente a la Comisión Nacional.
+V. Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el Diario Oficial de la Federación la que deberá hacerse a más tardar el treinta y uno de Diciembre.
 
 ###### Artículo 572.
 
-Las Comisiones Regionales expresarán en sus resoluciones los fundamentos que las justifiquen. A este fin, deberán tomar en consideración los informes de la Dirección Técnica, las investigaciones y estudios que hubiesen efectuado y los estudios presentados por los trabajadores y patrones. La resolución determinará:
+(DEROGADO, D.O.F. 21 DE ENERO DE 1988)
 
-I. El salario mínimo general;
-
-II. El salario mínimo del campo; y
-
-III. Los salarios mínimos profesionales.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1982)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 573.
 
-En la fijación de los salarios mínimos por la Comisión Nacional, se observarán las normas siguientes:
+En la revisión de los salarios mínimos a la que se refiere el segundo párrafo del artículo 570 de la Ley se observarán los siguientes procedimientos:
 
-I. En el caso del primer párrafo del artículo 570:
+I. El Presidente de la Comisión Nacional, dentro de los tres días siguientes a la fecha en que haya recibido la solicitud del Secretario del Trabajo y Previsión Social, o en su caso la que le hayan presentado las organizaciones de trabajadores o los patrones, convocará al Consejo de Representantes para estudiar la solicitud y decidir si los fundamentos que la apoyan son suficientes para iniciar el proceso de revisión. Si la resolución es en sentido afirmativo ordenará a la Dirección Técnica la preparación de un informe que considere el movimiento de los precios y sus repercusiones en el poder adquisitivo de los salarios mínimos; así como los datos más significativos de la situación económica nacional para que el Consejo de Representantes pueda disponer de la información necesaria para revisar los salarios mínimos vigentes y fijar, en su caso, los que deben establecerse. Si su resolución es negativa la pondrá en conocimiento del Secretario del Trabajo y Previsión Social;
 
-a) Los trabajadores y los patrones, dentro de los diez días siguientes a la fecha en que se publique la resolución de cada Comisión Regional, podrán hacer las observaciones y presentar los estudios que juzguen conveniente, acompañándolos de las pruebas que los justifiquen;
+II. La Dirección Técnica dispondrá de un término de cinco días, a partir de la fecha en que hubiera sido instruida por el Presidente de la Comisión Nacional, para elaborar el informe a que se refiere la fracción anterior y hacerlo llegar al Consejo de Representantes por conducto del Presidente de la Comisión;
 
-b) El Consejo de Representantes, en el curso del mes de diciembre, dictará resolución confirmando o modificando las que hubiesen dictado las Comisiones Regionales después de estudiar las resoluciones correspondientes y las observaciones y estudios presentados por los trabajadores y los patrones. Para tal efecto podrá realizar directamente las investigaciones y estudios que juzgue conveniente y solicitar de la Dirección Técnica estudios complementarios.
+III. El Consejo de Representantes, dentro de los tres días siguientes a la fecha en que reciba el informe de la Dirección Técnica dictará la resolución que corresponda fijando, en su caso, los salarios mínimos que deban establecerse;
 
-c) Si alguna de las Comisiones Regionales no dictare resolución dentro del término señalado en el artículo 571 fracción III, o el expediente no se hubiere recibido a más tardar el treinta de noviembre, el Consejo de Representantes dictara la resolución correspondiente después de estudiar el informe de la Dirección Técnica y en su caso los estudios presentados por los trabajadores y por los patrones ante la Comisión Regional y de efectuar directamente las investigaciones y estudios que juzgue convenientes.
+IV. La resolución de la Comisión Nacional establecerá la fecha en que deba iniciarse la vigencia de los nuevos salarios mínimos que se fijen, la cual no podrá ser posterior a diez días contados a partir de la fecha en que se emita la resolución; y
 
-d) La Comisión Nacional expresará en su resolución los fundamentos que la justifiquen. A este fin, deberá tomar en consideración los expedientes tramitados ante las Comisiones Regionales, las investigaciones y estudios que hubiese efectuado y las observaciones y estudios presentados por los trabajadores y patrones; y
+V. El Presidente de la Comisión Nacional de los Salarios Mínimos ordenará la publicación de la Resolución en el Diario Oficial de la Federación dentro de los tres días siguientes a la fecha en que se haya emitido.
 
-e) Dictada la resolución, el Presidente de la Comisión ordenará su publicación en el Diario Oficial de la Federación, la que deberá hacerse a más tardar el treinta y uno de diciembre.
-
-II. Para lo dispuesto en el segundo párrafo del artículo 570:
-
-a) El Secretario del Trabajo y Previsión Social formulará al Presidente de la Comisión Nacional de los Salarios Mínimos, solicitud que contenga exposición de los hechos que la motive, para que se convoque a las Comisiones Regionales y al Consejo de Representantes de la propia Comisión Nacional, a fin de que procedan a la revisión de los salarios mínimos vigentes.
-
-b) El Presidente de la Comisión Nacional someterá la solicitud a que alude el inciso anterior a las Comisiones Regionales y al Consejo de Representantes de la Comisión Nacional, dentro de los tres días siguientes a la fecha en que la haya recibido y ordenará dentro del mismo término a la Dirección Técnica la preparación de un informe que considere la evolución del poder adquisitivo, las tendencias generales de los precios, las condiciones económicas prevalecientes y, en general, todos aquellos elementos que estime convenientes para que las Comisiones Regionales y el Consejo de Representantes puedan disponer de información relevante para revisar los salarios mínimos vigentes y fijar, en su caso, los que deban establecerse;
-
-c) La Dirección Técnica dispondrá de un término de diez días, a partir de la fecha en que hubiere sido instruida por el Presidente de la Comisión Nacional, para elaborar el informe a que se refiere el inciso anterior y distribuirlo a las Comisiones Regionales. Las mencionadas Comisiones dispondrán de un término de cinco días, a partir de la fecha en que hubieren recibido el informe de la Dirección Técnica para emitir y hacer llegar a la Comisión Nacional su resolución y los fundamentos que la justifiquen. Dicha resolución determinará el salario mínimo general, el salario mínimo del campo y los salarios mínimos profesionales;
-
-d) El Consejo de Representantes, dentro de los cinco días siguientes a la fecha en que reciba cada uno de los expedientes, estudiará las resoluciones de las Comisiones Regionales y dictará resolución confirmando o modificando las que hubiesen dictado dichas Comisiones. Si alguna de éstas no dictare resolución dentro del término establecido en el inciso c), o ésta no se hubiere recibido en la Comisión Nacional en el término señalado, el Consejo de Representantes dictará la resolución correspondiente;
-
-e) La resolución de la Comisión Nacional establecerá la fecha en que deba iniciarse la vigencia de los nuevos salarios mínimos que se fijen, la cual no podrá ser posterior a diez días contados a partir de la fecha en que se emita la resolución. Los nuevos salarios mínimos estarán en vigor hasta el treinta y uno de diciembre, y
-
-f) El Presidente de la Comisión Nacional de los Salarios Mínimos ordenará la publicación de los nuevos salarios mínimos o en su caso, la permanencia de los vigentes, en el Diario Oficial de la Federación, dentro de los tres días siguientes a la fecha en que se haya emitido la resolución correspondiente.
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 574.
 
-En los procedimientos a que se refiere este capítulo se observarán las normas siguientes:
+En los procedimientos a que se refiere este Capítulo se observarán las normas siguientes:
 
-I. Para que puedan sesionar las Comisiones Regionales y el Consejo de Representantes de la Comisión Nacional, será necesario que concurra el cincuenta y uno por ciento del total de sus miembros, por lo menos;
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1988)</small>
+
+I. Para que pueda sesionar el Consejo de Representantes de la Comisión Nacional será necesario que ocurra (sic) el cincuenta y uno por ciento del total de sus miembros, por lo menos;
 
 II. Si uno o más representantes de los trabajadores o de los patrones deja de concurrir a alguna sesión, se llamará a los suplentes; si éstos no concurren a la sesión para la que fueron llamados, el Presidente de la Comisión dará cuenta al Secretario del Trabajo y Previsión Social para que haga la designación de la persona o personas que deban integrar la Comisión en sustitución de los faltistas;
 
@@ -5396,7 +5496,9 @@ En los procedimientos a que se refiere este capítulo se observarán las normas 
 
 ### CAPITULO I. Representantes de los Trabajadores y de los Patrones en las Juntas Federal y Locales de Conciliación y Arbitraje y en las Juntas de Conciliación Permanentes
 
-### CAPITULO II. Representantes de los Trabajadores y de los Patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos
+### CAPITULO II. Representantes de los Trabajadores y de los Patrones en la Comisión Nacional de los Salarios Mínimos y en las Comisiones Consultivas
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 591.
 
@@ -5488,7 +5590,7 @@ V. Cumplimentar los exhortos y practicar las diligencias que les encomienden otr
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-VI. Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
+VI.- Denunciar ante el Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar el salario mínimo general a uno o varios de sus trabajadores; y (sic)
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 2 DE JULIO DE 1976)</small>
 
@@ -5910,7 +6012,7 @@ III. No informar oportunamente al Presidente de la Junta de la conducta irregula
 
 > <small>(ADICIONADA, D.O.F. 24 DE DICIEMBRE DE 1974)</small>
 
-IV. No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
+IV.- No denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que hubiera sido condenado por laudo definitivo al pago del salario mínimo general o las diferencias que aquél hubiera dejado de cubrir, a uno o varios de sus trabajadores.
 
 V. Las demás que establezcan las leyes.
 
@@ -6244,47 +6346,73 @@ V. El acusado podrá ofrecer las pruebas que juzgue conveniente; y
 
 VI. Terminada la recepción de las pruebas, el Jurado escuchará los alegatos y dictará resolución, comunicándola, si fuese condenatoria, a la Autoridad a la que corresponda decretar la destitución.
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ### CAPITULO IV. De los Impedimentos y Excusas
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 676.
 
-Son aplicables a la elección de representantes de los trabajadores y de los patrones en las Comisiones Nacional y Regionales de los Salarios Mínimos, las disposiciones contenidas en el capítulo anterior, con las modalidades de los artículos siguientes.
+Son aplicables a la elección de representantes de los trabajadores y de los patrones en la Comisión Nacional de los Salarios Mínimos, las disposiciones contenidas en el Capítulo anterior, con las modalidades de los Artículos siguientes.
 
 ###### Artículo 677.
 
 El día quince de mayo del año impar que corresponda, el Secretario del Trabajo y Previsión Social convocará a los trabajadores y patrones para la elección de sus representantes. La convocatoria se publicará en el Diario Oficial de la Federación y en los periódicos de mayor circulación que se juzgue conveniente.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 678.
 
 La convocatoria contendrá:
 
-I. El señalamiento de las zonas económicas en que esté dividida la República y el lugar de residencia de las Comisiones Regionales;
+I. La determinación del número de representantes que deba elegirse para integrar la Comisión Nacional, de conformidad con lo dispuesto en el Artículo 554 Fracción II;
 
-II. La determinación del número de representantes que deba elegirse para integrar las Comisiones Nacional y Regionales, de conformidad con lo dispuesto en los artículos 554, fracción II, y 565, fracción II, así como la distribución de las ramas de la industria y de las actividades, según su importancia, entre el número de representantes que se hubiese determinado;
+II. La distribución del número de representantes que se haya determinado entre las distintas actividades económicas según su importancia;
 
 III. Las autoridades ante las que deban presentarse los padrones y credenciales;
 
-IV. El lugar y fecha de presentación de los documentos a que se refiere la fracción anterior; y
+IV. El lugar y la fecha de presentación de los documentos a que se refiere la fracción anterior; y
 
 V. El local y la hora en que deban celebrarse las convenciones.
 
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
 ###### Artículo 679.
 
-Las convenciones se celebrarán el día veinticinco de junio del año impar que corresponda, en la capital de la República para la elección de representantes en la Comisión Nacional, y en el lugar de residencia de las Comisiones Regionales para la elección de sus miembros.
+Las Convenciones se celebrarán el día 25 del mes de junio del año impar que corresponda, en la Capital de la República.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 680.
 
-Para la elección de representantes en las Comisiones Nacional y Regionales se celebrará una convención de trabajadores y otra de patrones por cada uno de los grupos en que se hubiesen distribuido las ramas de la industria y de las actividades.
+Para la elección de representantes en la Comisión Nacional se celebrarán una Convención de trabajadores y otra de patrones por cada uno de los grupos en que se hubiesen distribuido las ramas de la actividad económica.
+
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 681.
 
-Tienen derecho a participar en la elección los sindicatos de trabajadores y de patrones y los patrones independientes. Los representantes ante la Comisión Nacional serán elegidos por la totalidad de los trabajadores sindicalizados y patrones de la República con derecho a voto. Los de las Comisiones Regionales, por los de la zona de que se trate.
+Tienen derecho a participar en la elección los sindicatos de trabajadores y de patrones y los patrones independientes. Los representantes ante la Comisión Nacional serán elegidos por la totalidad de los trabajadores sindicalizados y patrones de la República con derecho a voto.
 
 ###### Artículo 682.
 
 El Secretario del Trabajo y Previsión Social podrá delegar en las autoridades de las Entidades Federativas, total o parcialmente, las atribuciones que le corresponden en la certificación de padrones y credenciales y en el funcionamiento de las convenciones.
+
+> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 1988)</small>
+
+###### Artículo 682-A.
+
+Las Comisiones consultivas serán creadas por resolución del Consejo de Representantes de la Comisión Nacional, que será publicada en el Diario Oficial de la Federación y contendrá:
+
+I. La materia objeto de la Comisión Consultiva;
+
+II. La duración de sus trabajos;
+
+III. El número de representantes de los trabajadores y de los patrones ante la Comisión Consultiva, los que serán designados por los representantes de los trabajadores y de los patrones ante la Comisión Nacional;
+
+IV. El término para la designación de representantes, los requisitos que deberán cumplir en cada caso y el lugar que se determine para la notificación de las designaciones; y
+
+V. El lugar y fecha en el que se iniciarán formalmente los trabajos de la Comisión Consultiva.
 
 ### CAPITULO V. De la Actuación de las Juntas
 
@@ -7790,7 +7918,7 @@ Una vez notificado el laudo, cualquiera de las partes, dentro del término de tr
 
 La interposición de la aclaración, no interrumpe el término para la impugnación del laudo.
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)</small>
+(REFORMADO Y REUBICADO, D.O.F. 4 DE ENERO DE 1980)a
 
 ###### Artículo 848.
 
@@ -8668,7 +8796,7 @@ TITULO QUINCE
 
 Procedimientos de Ejecución
 
-> <small>(REFORMADO SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
 #### Sección Segunda. De la preferencia de créditos
 
@@ -9092,7 +9220,7 @@ Cuando en los juicios seguidos ante la Junta se haya dictado laudo por cantidad 
 
 Si el patrón antes del remate hubiese hecho pago para librar sus bienes, deberá cubrirse con éste el importe de los créditos laborales en que se hubiese hecho la prevención.
 
-> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 4 DE ENERO DE 1980)</small>
 
 ###### Artículo 982.
 
@@ -9272,19 +9400,19 @@ Los trabajadores, los patrones y los sindicatos, federaciones y confederaciones 
 
 Los Presidentes de las Juntas Especiales, los de las Juntas Federales Permanentes de Conciliación, los de las Locales de Conciliación y los Inspectores del Trabajo, tienen la obligación de denunciar al Ministerio Público al patrón de una negociación industrial, agrícola, minera, comercial o de servicios que haya dejado de pagar o pague a sus trabajadores cantidades inferiores a las señaladas como salario mínimo general.
 
-> <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
+> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1988)</small>
 
 ###### Artículo 1004.
 
 Al patrón de cualquier negociación industrial, agrícola, minera, comercial o de servicios que haga entrega a uno o varios de sus trabajadores de cantidades inferiores al salario fijado como mínimo general o haya entregado comprobantes de pago que amparen sumas de dinero superiores de las que efectivamente hizo entrega, se le castigará con las penas siguientes:
 
-> <small>(F. DE E., D.O.F. 30 DE ENERO DE 1980)</small>
+I. Con prisión de seis meses a tres años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general del área geográfica de aplicación correspondiente;
 
-I. Con prisión de tres meses a dos años y multa que equivalga hasta 20 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión no exceda del importe de un mes de salario mínimo general de la zona correspondiente;
+II. Con prisión de seis meses a tres años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general del área geográfica de aplicación correspondiente; y
 
-II. Con prisión de tres meses a dos años y multa que equivalga hasta 50 veces el salario mínimo general, conforme a lo establecido por el artículo 992, cuando el monto de la omisión sea mayor al importe de un mes, pero no exceda de tres meses de salario mínimo general de la zona correspondiente; y
+III. Con prisión de seis meses a cuatro años y multa que equivalga hasta 200 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general del área geográfica de aplicación correspondiente.
 
-III. Con prisión de tres meses a tres años y multa que equivalga hasta 100 veces el salario mínimo general, conforme a lo establecido por el artículo 992, si la omisión excede a los tres meses de salario mínimo general de la zona correspondiente.
+En caso de reincidencia se duplicarán las sanciones económicas a que se refieren cada una de las tres Fracciones de este Artículo.
 
 > <small>(ADICIONADO, D.O.F. 4 DE ENERO DE 1980)</small>
 
@@ -9573,3 +9701,9 @@ D.O.F. 22 DE DICIEMBRE DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 21 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
