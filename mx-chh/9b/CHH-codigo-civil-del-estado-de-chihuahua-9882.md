@@ -4,7 +4,7 @@ identifier: "CHH-codigo-civil-del-estado-de-chihuahua-9882"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-03-23"
-last_updated: "1998-07-01"
+last_updated: "1998-09-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO CIVIL DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JULIO DE 1998.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE SEPTIEMBRE DE 1998.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 23 de marzo de 1974.
 
@@ -93,7 +93,7 @@ El derecho concedido en este artículo dura un año.
 
 > <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-23.- La minoría de edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejecutar sus derechos o contraer obligaciones por medio de sus representantes.
+23.- La minoría edad, el estado de interdicción y las demás incapacidades establecidas por la ley, son restricciones a la personalidad jurídica; pero los incapaces pueden ejecutar sus derechos o contraer obligaciones por medio de sus representantes.
 
 24.- El mayor de edad tiene la facultad de disponer libremente de su persona y sus bienes, salvo las limitaciones que establece la ley.
 
@@ -2167,7 +2167,7 @@ Se exceptúan de lo dispuesto en el párrafo anterior los casos en que el error 
 
 530.- Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de la mayor edad, y el curador o cualquier pariente, pueden ocurrir al Juez, pidiendo que los bienes omitidos se listen y el Juez oído el parecer del tutor, determinará en justicia.
 
-531.- El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados, podrá aumentarse después, sino con aprobación judicial.
+531.- El tutor, dentro del primer mes de ejercer su cargo fijará, con aprobación del Juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleado, podrá aumentarse después, sino con aprobación judicial.
 
 532.- Lo dispuesto en el artículo anterior no liberta al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
 
@@ -2771,7 +2771,7 @@ XIII.- El material rodante de los ferrocarriles, las líneas telefónicas y tele
 
 730.- En general, son bienes muebles, todos los demás no considerados por la ley como inmuebles.
 
-731.- Cuando en una disposición de la ley o en los actos y contratos se use de las palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
+731.- Cuando en una disposición de la ley o en los actos y contratos se use de la palabras BIENES MUEBLES, se comprenderán bajo esa denominación los enumerados en los artículos anteriores.
 
 732.- Cuando se use de las palabras muebles o bienes muebles de una casa, se comprenderán los que formen el ajuar y utensilios de ésta y que sirven exclusiva y propiamente para el uso y trato ordinario de una familia, según las circunstancias de las personas que la integren. En consecuencia, no se comprenderán, el dinero, los documentos y papeles, las colecciones científicas y artísticas, los libros y sus estantes, las medallas, las armas, los instrumentos de arte y oficios, las joyas, ninguna clase de ropa de uso, los granos, caldos, mercancías y demás cosas similares.
 
@@ -2793,7 +2793,7 @@ Los no fungibles son los que no pueden ser substituidos por otros de la misma es
 
 739.- Los bienes de uso común son inalienables e imprescriptibles. Pueden aprovecharse de ellos todos los habitantes, con las restricciones establecidas por la ley; pero para aprovechamientos especiales se necesita concesión otorgada con los requisitos que prevengan las leyes respectivas.
 
-740.- Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a las penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
+740.- Los que estorben el aprovechamiento de los bienes de uso común, quedan sujetos a la penas correspondientes, a pagar los daños y perjuicios causados y a la pérdida de las obras que hubieren ejecutado.
 
 741.- Los bienes destinados a un servicio público y los bienes propios pertenecen en pleno dominio a la Federación, a los Estados o a los Municipios; pero los primeros son inalienables e imprescriptibles, mientras no se les desafecte del servicio público a que se hallen destinados.
 
@@ -3319,297 +3319,411 @@ VIII.- Cuando la cerca que encierra completamente una heredad, es de distinta es
 
 ### CAPITULO VII. DEL REGIMEN DE PROPIEDAD EN CONDOMINIO
 
-942.- El régimen de propiedad en condominio de un inmueble existe cuando habiéndose hecho la declaración de voluntad para la constitución de este régimen en los términos de Ley, sus diferentes departamentos, casas o locales, construidos en forma vertical, horizontal o mixta, susceptibles de aprovechamiento independiente por tener salida propia a un elemento común de aquél o a la vía pública, pertenecieran a distintos propietarios, teniendo cada uno de éstos un derecho individual y exclusivo de propiedad sobre su departamento, casa o local y, además un inseparable derecho de copropiedad sobre los elementos y partes comunes del inmueble, necesarios para su adecuado uso y disfrute.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-943.- Cada propietario podrá enajenar, o gravar su departamento, casa o local individual, sin necesidad de consentimiento de los demás propietarios. En la enajenación, gravamen o embargo de un departamento, casa o local individual, se entenderán comprendidos invariablemente, aun cuando no se exprese, los derechos sobre los bienes comunes que le son inseparables, por lo que no podrá hacerse inscripción en el Registro Público de la Propiedad en relación a una propiedad exclusiva sin que se haga la inscripción correlativa en los bienes comunes inseparables de esa propiedad exclusiva.
+942.- El régimen de propiedad en condominio es una forma de apropiación que otorga a su titular el derecho exclusivo de uso, goce y disfrute de su unidad privativa y a la vez un derecho de copropiedad sobre los bienes de uso común, de acuerdo a las disposiciones de este Código, a la escritura constitutiva, o al reglamento de condominio y administración correspondiente.
 
-El derecho de copropiedad sobre los elementos comunes del inmueble, sólo será enajenable, gravable o embargable conjuntamente con el departamento, casa o local de propiedad exclusiva, respecto del cual se considera anexo inseparable. La copropiedad sobre los elementos comunes del inmueble no es susceptible de división.
+Queda sujeto al régimen de propiedad en condominio:
 
-Los derechos y obligaciones de los propietarios se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compraventa correspondientes, por el Reglamento del Condominio de que se trate y por las disposiciones de este Código.
+I.- Vertical, aquel inmueble construido en varios niveles en donde el uso del suelo de desplante es un elemento común a los condominios; y a la vez coexiste con unidades de propiedad exclusiva.
 
-944.- El régimen de propiedad en condominio puede originarse:
+En este caso cada uno de los condóminos tendrá un derecho de propiedad y exclusiva sobre su unidad y además un derecho de copropiedad sobre el suelo y demás elementos y partes comunes del inmueble necesarias para su adecuado uso, goce o disfrute, de acuerdo a la escritura constitutiva y al reglamento de condominio y administración correspondiente.
 
-I.- Cuando los diferentes pisos, departamentos, casas o locales de que conste un edificio o que hubieran sido construidos dentro de un inmueble con partes de uso común, pertenezcan a distintos dueños;
+II.- Horizontal, aquel inmueble destinado a construirse o desarrollarse en forma horizontal, donde partes del suelo y otros bienes son susceptibles de apropiación exclusiva coexistiendo un derecho de copropiedad sobre los elementos comunes.
 
-II.- Cuando los diferentes pisos, departamentos, casas o locales que se construyan dentro de un inmueble se destinen a la enajenación a personas distintas, siempre que en él existan partes comunes e indivisibles.
+En este caso cada uno de los condóminos tendrá un derecho de propiedad exclusiva sobre el suelo de su propiedad individual y sobre la construcción y un derecho de copropiedad sobre los elementos comunes en los términos de la Escritura Constitutiva o el Reglamento de Condominio y Administración correspondiente.
 
-III.- Cuando el propietario o propietarios de un inmueble lo dividan en diferentes pisos, departamentos, casas o locales, para enajenarlos a distintas personas, siempre que exista un elemento común de propiedad de todos que sea indivisible.
+III.- Mixto, el que se origina cuando en un mismo terreno o edificación condominal se presenten ambas condiciones requeridas para los condominios verticales y horizontales, debiéndose especificar cada una de ellas.
 
-945.- Antes de la constitución del régimen de propiedad en condominio, a que se refiere el Artículo siguiente, los interesados deberán obtener la declaración que expedirán las autoridades municipales, en el sentido de ser realizable el proyecto general, por hallarse dentro de las previsiones sobre desarrollo urbano, de planificación urbana y de prestación de los servicios públicos; entendiendo que dicha declaración no da por cumplidas las obligaciones a que se refiere la fracción II del Artículo siguiente entre las cuales se preverá el otorgamiento de licencia de construcción hasta un máximo de 120 departamentos, viviendas, casas o locales en condominio, aun cuando éste y otros formen parte de un conjunto o unidad urbana habitacional.
+En este caso, les serán aplicables a cada una de las edificaciones o partes de condominio, las disposiciones relativas a los condominios verticales y horizontales, según sea la naturaleza de cada uno de ellos.
 
-946.- Para constituir el régimen de la propiedad en condominio, el propietario o propietarios deberán declarar su voluntad irrevocable en escritura pública, en la cual se hará constar:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-I.- La situación, dimensiones y linderos del terreno que corresponda al condominio de que se trate, con especificación precisa de su separación del resto del área, si está ubicado dentro de un conjunto o unidad urbana;
+943.- Cada condómino podrá usar, gozar y disponer de la superficie de propiedad exclusiva o unidad en condominio sin necesidad de consentimiento de los demás condóminos y en atención a la forma establecida en la escritura constitutiva.
 
-II.- Constancia de que las autoridades competentes han expedido las licencias, autorizaciones o permisos de construcción, que requieran este tipo de obras;
+El derecho sobre los elementos comunes o de copropiedad del inmueble, sólo será enajenable, gravable o embargable conjuntamente con la superficie de propiedad exclusiva o en su caso, con la unidad de condominio, respecto del cual se considera anexo inseparable.
 
-III.- Una descripción general de las construcciones y de la calidad de los materiales empleados o que vayan a emplearse;
+En el régimen de propiedad en condominio, los derechos sobre los elementos comunes o de copropiedad del inmueble no son susceptibles de división.
 
-IV.- La descripción de cada piso, departamento, casa o local, su número, situación, medidas, piezas de que conste, espacio para estacionamiento de vehículos, si lo hubiere, y demás datos necesarios para identificación;
+Las unidades en condominio que conforme a su escritura constitutiva sean susceptibles de sujetarse, a su vez, al régimen de condominio, se regirán por las disposiciones de este último en tanto no contravengan a las que rijan en el régimen de condominio del que forman parte, las cuales tienen primacía.
 
-V.- El valor nominal que para los efectos de este Código, se asigne a cada piso, departamento, casa o local y el porcentaje que le corresponda sobre el valor total, también nominal, de las partes comunes;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-VI.- El destino general del condominio y en especial de cada piso, departamento, casa o local;
+944.- Los derechos y obligaciones de los condóminos se regirán por las escrituras en que se hubiera establecido el régimen de propiedad, por las de compraventa correspondientes, por el reglamento de condominio y administración de que se trate y por las disposiciones de este Código, de conformidad a las siguientes bases:
 
-VII.- Los bienes de propiedad común, su destino, con la especificación y detalles necesarios y, en su caso su situación, medidas, partes de que se compongan, características y demás datos necesarios para su identificación;
+I.- Un derecho compartido sobre los elementos y partes del condominio, que se consideran comunes o de copropiedad, proporcional al valor de su propiedad exclusiva, de acuerdo a lo establecido en la escritura constitutiva o en el reglamento de condominio y administración correspondiente;
 
-VIII.- Características de la fianza que deben exhibir los obligados, para responder de la ejecución de la construcción y de los vicios de ésta. El monto de la fianza y el término de la misma serán determinados por las autoridades que expidan las licencias de construcción;
+II.- Servirse de los bienes comunes o de copropiedad y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino ordinario de acuerdo a la escritura constitutiva o al reglamento de condominio y administración correspondiente;
 
-IX.- Los casos y condiciones en que pueda ser modificada la propia escritura.
+III.- Usar, gozar, disfrutar y disponer de su unidad en condominio, con las limitaciones y prohibiciones que se establezcan en este Código, en la escritura constitutiva o en el reglamento de condominio y administración. En caso de enajenación, se observará lo dispuesto en el artículo 943 de este Código;
 
-Al apéndice de la escritura se agregarán, debidamente certificados por el Notario, el plano general y los planos correspondientes a cada uno de los pisos, departamentos, casas o locales y a los elementos comunes; así como el Reglamento del propio condominio.
+IV.- Realizar por su cuenta las obras necesarias que requiera su unidad en condominio. Tratándose de obras o modificaciones a los entrepisos, suelos, pavimentos, paredes u otras divisiones entre unidades en condominios colindantes, o áreas de uso común, deberán cumplirse las normas que al afecto (sic) establezca el reglamento de condominio y administración o en su defecto las disposiciones que en materia de copropiedad rijan conforme a las leyes aplicables;
 
-947.- La escritura constitutiva del régimen de propiedad en condominio de inmuebles deberá inscribirse en el Registro Público de la Propiedad correspondiente.
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-948.- En todo contrato para adquisición de un piso, departamento, casa o local, sujeto al régimen de propiedad en condominio, se insertarán las declaraciones y cláusulas conducentes de la escritura constitutiva y se hará constar que se entrega al interesado una copia del Reglamento del Condominio, certificada por Notario Público.
+V.- Usar su unidad en condominio en forma ordenada, no pudiendo en consecuencia destinarla a usos contrarios a la moral o a las buenas costumbres, ni afectarla a usos distintos de los convenidos o autorizados expresamente, o que deban presumirse de la naturaleza propia del condominio, en los términos establecidos por el presente Código, en la escritura constitutiva o el reglamento de condominio y administración y demás ordenamientos legales;
 
-949.- La extinción voluntaria del régimen de propiedad en condominio, requerirá el acuerdo de un mínimo del 75% de los propietarios, salvo que la escritura constitutiva prevea porcentaje más alto. Será procedente, además, conforme a lo dispuesto en el Capítulo XIII.
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-950.- El Reglamento interior del Condominio deberá prever los casos en que con base en la Ley y en la correspondiente escritura constitutiva, proceda la modificación de éste.
+VI.- En los condominios horizontales, los condóminos tendrán un derecho de uso, goce y disfrute exclusivo sobre su unidad privativa y un derecho proporcional de uso en los bienes de uso común, en los términos establecidos por el presente Código, en la escritura constitutiva o el reglamento de condominio y administración y demás ordenamientos legales;
+
+VII.- En los condominios verticales, los condóminos tendrán los siguientes derechos:
+
+a).- Un derecho proporcional sobre el suelo afecto al régimen de propiedad en condominio y exclusivo sobre cada unidad en condominio;
+
+b).- Los condóminos propietarios de las unidades en condominios situadas en el acceso al edificio, en la planta baja o en el último piso, no tendrán un derecho preferente, salvo que así se establezca en la escritura constitutiva o en el reglamento de condominio y administración. Los condóminos propietarios de unidades en condominio de las plantas bajas, no podrán ocupar ni hacer obras o construcciones para su uso exclusivo o preferente sobre los bienes de uso común ubicados en la misma. Los condóminos propietarios de unidades en condominio del último piso, no podrán ocupar la azotea o techo ni elevar nuevos pisos o construcciones. Las anteriores restricciones son aplicables en lo conducente a los demás condóminos del inmueble;
+
+c).- Las obras que se requieran en los techos o azoteas en su parte exterior y los sótanos, serán por cuenta de todos los condóminos, así como la reparación de desperfectos ocasionados por casos fortuitos o de fuerza mayor y en general los que se establezcan en la escritura constitutiva o en el reglamento de condominio y administración;
+
+d).- Hacer todas las obras y reparaciones en el interior de su unidad en condominio que deseen, estando prohibida toda innovación o modificación que afecte a la estructura, paredes maestras o partes esenciales del edificio, que puedan perjudicar a su estabilidad, seguridad, salubridad o comodidad. Tampoco podrá abrir claros o ventanas, ni pintar o decorar la fachada o las paredes exteriores de acuerdo a lo establecido en la escritura constitutiva o en el reglamento de condominio y administración.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+945.- Antes de la constitución del régimen de propiedad en condominio, a que se refiere el artículo siguiente, los interesados deberán obtener la declaración que expedirán las autoridades correspondientes, en el sentido de ser realizable el proyecto general, por hallarse dentro de las previsiones sobre desarrollo urbano, de planificación urbana y de prestación de los servicios públicos; entendiendo que dicha declaración no da por cumplidas las obligaciones a que se refiere la fracción II del artículo siguiente entre las cuales se preverá el otorgamiento de licencia de construcción para los de departamentos, viviendas, casas o locales en condominio, aun cuando éste y otros formen parte de un conjunto o unidad urbana habitacional.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+946.- Para sujetar al Régimen de Propiedad en Condominio a un inmueble, el propietario o propietarios deberán declarar su voluntad en escritura pública, en la cual se hará constar:
+
+I.- La ubicación, dimensiones y linderos del terreno;
+
+II.- Las autorizaciones o permisos otorgados por las autoridades competentes conforme a las leyes, normas y lineamientos aplicables y en su caso, las características de las garantías que se hubiesen exigido;
+
+III.- La descripción general del desarrollo o la construcción;
+
+IV.- El destino general del condominio y en su caso, el especial de cada unidad en condominio;
+
+V.- La descripción de cada unidad de condominio, su nomenclatura, ubicación, medidas y demás datos necesarios para identificarlo;
+
+VI.- En los casos de los lotes de terrenos destinados a edificarse horizontalmente en ellos deberán identificarse plenamente la ubicación, medidas, colindancias y linderos precisos de los lotes destinados a unidades privativas; así como las zonas de uso común;
+
+VII.- El porcentaje que le corresponda a cada unidad sobre el valor total nominal de los bienes de uso común del condominio;
+
+VIII.- Los bienes comunes; su destino, con la especificación y detalles necesarios y, en su caso, su ubicación, medidas, colindancias y partes de que se compongan, características y demás datos necesarios para su identificación;
+
+IX.- Los casos y condiciones en que pueda ser modificado el régimen en condominio;
+
+X.- El Reglamento de Condominio y administración que establecerá las bases generales que regirán al propio condominio, el cual podrá insertarse en el cuerpo de la escritura constitutiva o en su caso, podrá agregarse como apéndice a la misma; y
+
+XI.- Al apéndice de la escritura constitutiva del régimen de condominio se agregarán debidamente firmados por las partes y certificados por fedatario público, los planos generales debidamente autorizados por las autoridades competentes.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+947.- La escritura constitutiva de un régimen de propiedad en condominio que reúna los requisitos de la ley, deberá inscribirse en el Registro Público de la Propiedad y el Comercio.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+948.- En todo acto de transmisión de derechos sobre el régimen de propiedad en condominio, se insertarán y agregarán los datos conducentes de la escritura constitutiva incluyendo los relativos a su inscripción en el Registro Público de la Propiedad, haciéndose constar que se entrega al interesado una copia del Reglamento de Condominio y Administración, certificada por Notario Público, presumiéndose en consecuencia que se adquieren todos los derechos y obligaciones en él contenidos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+949.- La extinción voluntaria del régimen de propiedad en condominio, requerirá el acuerdo de un mínimo del 75 por ciento de los votos totales de los condóminos, salvo que la escritura constitutiva prevea un porcentaje más elevado.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+950.- Sólo mediante el cumplimiento de los requisitos previstos en este Código y en su caso en el reglamento de condominio y administración podrá variarse o extinguirse el régimen de condominio.
 
 ### CAPITULO VIII. DE LOS BIENES DE PROPIEDAD EXCLUSIVA Y DE LOS BIENES DE PROPIEDAD COMUN
 
-951.- Se entiende por propietario a la persona física o moral que, en calidad de dueño, esté en posesión de uno o más de los departamentos, viviendas, casas o locales a que se refiere el artículo 942 y, para los efectos de esta ley, a la que haya celebrado contrato en virtud del cual, de cumplirse en sus términos, llegue a ser propietario.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-El propietario tendrá derecho exclusivo a su departamento, vivienda, casa o local, y derecho en copropiedad de los elementos y partes del condominio que se consideren comunes.
+951.- Se entiende por condómino a la persona física o moral que es propietaria de una o más porciones de un condominio, ya sea vertical, horizontal o mixto.
 
-El derecho de cada propietario sobre los bienes comunes, será proporcional al valor de su propiedad exclusiva, fijado en la escritura constitutiva.
+Para los efectos de este capítulo, se entiende por propiedad exclusiva los bienes de uso, goce y disposición privativos de cada uno de los condóminos.
 
-952.- Son objeto de propiedad común:
+El condómino tendrá derecho exclusivo a su departamento, vivienda, casa o local y derecho en copropiedad de los elementos y partes del condominio que se consideren bienes de uso común.
 
-I.- El terreno, sótano, pórticos, puertas de entrada, vestíbulos galerías, corredores, escaleras, patios, jardines, senderos y calles interiores, estacionamiento, siempre que sean de uso general;
+Serán bienes de uso común aquellos que pertenecen en copropiedad y proindiviso a los condóminos y su uso estará regulado por la escritura constitutiva o por el reglamento de condominio y administración correspondiente; también podrá haber bienes de uso común restringido y serán aquellos que pertenecen en copropiedad, proindiviso sólo a dos o varios condóminos, en razón de cercanía o colindancia de sus respectivas unidades en condominio. En todo caso el carácter de los bienes de uso común restringido debe establecerse en la escritura mediante la que se constituya el régimen de condominio o en reformas legalmente aprobadas de la misma.
 
-II.- Los locales destinados a la administración, portería y alojamiento del portero y los vigilantes, más los destinados a las instalaciones generales y servicios comunes;
+Existe copropiedad, para efectos de este Capítulo, sobre los bienes comunes que pertenecen a los condóminos proindiviso, es decir, sin división material de partes.
 
-III.- Las obras, instalaciones, aparatos y demás objetos que sirvan al uso o disfrute común, tales como fosas, pozos, cisternas, tinacos, ascensores, montacargas, incineradores, estufas, hornos, bomba y motores; albañales, canales, conductos de distribución de agua, drenaje, calefacción, electricidad y gas; los locales y las obras de seguridad, deportivas, de recreo, de ornato, de recepción o reunión social y otras semejantes, con excepción de los que sirvan exclusivamente a cada departamento, casa o local;
+El derecho de cada condómino sobre los bienes comunes, será proporcional al valor de su propiedad exclusiva, fijado en la escritura constitutiva.
 
-IV.- Los cimientos, estructuras, muros de carga y los techos de uso general; y
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-V.- Cualesquiera otras partes del inmueble, locales, obras, aparatos o instalaciones que se resuelva, por la unanimidad de los propietarios, usar o disfrutar en común o que se establezcan con tal carácter en el Reglamento del Condominio o en la escritura constitutiva.
+952.- En el régimen de condominio, son objeto de propiedad común o de copropiedad:
 
-953.- Serán de propiedad común, pero sólo de los propietarios colindantes, los entrepisos, muros y demás divisiones que separen entre sí sus departamentos, casas o locales.
+I.- En el condominio vertical, el suelo y muros exteriores, los cimientos, estructuras, muros de carga, y los techos de uso general; asimismo, los demás niveles inferiores, pórticos, puertas de entrada, vestíbulos, galerías, corredores, escaleras, pasillos y patios siempre que sean de uso común, así como los jardines y espacios que hayan señalado las autoridades competentes;
 
-954.- Aunque un propietario haga abandono de sus derechos, no use o renuncie a usar determinados bienes comunes, continuará sujeto a las obligaciones que impone este Código, la escritura constitutiva, el Reglamento del Condominio y las demás disposiciones legales aplicables.
+Serán también de propiedad común únicamente de los condominios colindantes, los entrepisos, muros y demás divisiones que separen entre sí las unidades en condominio y en general los demás que se establezcan en la Escritura Constitutiva o en el Reglamento de Condominio y Administración;
 
-955.- Cada propietario podrá servirse de los bienes comunes y gozar de los servicios e instalaciones generales conforme a su naturaleza y destino ordinarios, sin restringir o hacer más oneroso el derecho de los demás.
+II.- En el condominio horizontal, todo el suelo y los patios interiores de uso común, o de copropiedad, afectos al Régimen de Propiedad en Condominio; Asimismo, los jardines, senderos, andadores, calles, servidumbres y otros espacios que se establezcan con esta naturaleza en la Escritura Constitutiva o en el Reglamento de Condominios y Administración correspondiente. Serán también de propiedad común de dos o más condominios los pasillos, patios, terrazas, áreas de circulación restringida y en general aquellos bienes que por razón de cercanía o colindancia de sus respectivas unidades en condominio corresponda su uso y disfrute exclusivamente a dos o más condominios, siempre que tal carácter se establezca en la Escritura Constitutiva del Condominio o en sus modificaciones o en el reglamento;
 
-956.- El propietario de un piso, departamento, casa o local puede usar, gozar y disponer de él, con las limitaciones y prohibiciones legales y las que establezcan la escritura constitutiva y el Reglamento del Condominio; pero no podrán ser objeto de venta o arrendamiento, partes de los mismos, como piezas o recámaras, cuartos de servicio o lugar privativo para estacionamiento de vehículos. El incumplimiento de esta disposición originará la rescisión del contrato o la aplicación de lo prevenido en el artículo 974.
+III.- En ambos condominios, los locales destinados a la administración, alojamiento de porteros y vigilantes, instalaciones generales y de servicios comunes a obras, instalaciones, aparatos y demás objetos que sirvan al uso o disfrute común, tales como fosas, pozos, cisternas, tinacos, ascensores, montacargas, incineradores, estufas hornos, bombas y motores; albañales, canales, conductos de distribución de agua, drenaje, calefacción, electricidad y gas; los locales y las obras de seguridad, deportivas, de recreo, de ornato, de recepción o reunión social y otras semejantes de uso común; y cualesquier otras partes del inmueble que se establezcan con el carácter de bienes de uso común o de copropiedad en la Escritura Constitutiva o en el Reglamento de Condominio y Administración; y
 
-El propietario y su arrendatario o cualquier otro cesionario del uso, arreglarán entre sí quien deba cumplir determinadas obligaciones ante los demás propietarios, y en qué casos el usuario tendrá la representación del propietario en las asambleas que se celebren; pero en todo caso el propietario es solidario de las obligaciones del usuario. Ambos harán oportunamente las notificaciones del caso al administrador, para los efectos que procedan.
+IV.- Al condominio mixto le serán aplicables en lo conducente las disposiciones anteriores.
 
-957.- En caso de que un propietario deseare vender su piso, departamento, casa o local dados en arrendamiento, lo notificará al inquilino por medio del administrador del inmueble de notario o judicialmente, con expresión del precio ofrecido y demás condiciones de la operación, a efecto de que, dentro de los diez días siguientes, manifieste si hace uso del derecho del tanto.
+953.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+954.- Aunque un condómino haga abandono de sus derechos, no use o renuncie a usar determinados bienes comunes, continuará sujeto a las obligaciones que impone este Código, la escritura constitutiva, el Reglamento de Condominio y Administración y las demás disposiciones legales aplicables.
+
+955.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+956.- El condómino no podrá enajenar o arrendar en forma parcial su unidad en condominio, como piezas o recámaras, cuartos de servicio o lugar privativo para estacionamiento de vehículos. El incumplimiento de esta disposición originará la nulidad del contrato o la aplicación de lo prevenido en el artículo 974 de este Código.
+
+El condómino y su arrendatario o cualquier otro cesionario del uso, arreglarán entre sí quien deba cumplir determinadas obligaciones ante los demás condóminos, y en qué casos el usuario tendrá la representación del condómino en las asambleas que se celebren; pero en todo caso el condómino es solidario de las obligaciones del usuario. Ambos harán oportunamente las notificaciones del caso al administrador, para los efectos que procedan.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+957.- En caso de que un condómino deseare vender su piso, departamento, casa o local dados en arrendamiento, lo notificará al inquilino por medio del administrador del inmueble, de Notario o judicialmente, con expresión del precio ofrecido y demás condiciones de la operación, a efecto de que, dentro de los diez días siguientes, manifieste si hace uso del derecho del tanto.
 
 958.- Si el piso, departamento, vivienda, casa o local arrendados se enajenaren con infracción a lo dispuesto en el artículo anterior, el inquilino podrá subrogarse en lugar del adquirente con las mismas condiciones estipuladas en el contrato de compraventa, siempre que haga uso del derecho del retracto, con exhibición del precio, dentro de los quince días siguientes al en que haya tenido conocimiento de la enajenación. Los notarios o quienes hagan sus veces, se abstendrán de autorizar una escritura de compraventa de esta naturaleza, si antes no se cercioran de que el vendedor ha respetado el derecho del tanto. En caso de que la notificación se haya hecho por conducto del administrador del inmueble, deberá comprobarse ante el Notario o quien haga sus veces, en forma indubitable, el día y la hora en que hizo la notificación a que se refiere el artículo anterior.
 
 El Registrador Público de la Propiedad no inscribirá la escritura en la que no conste que se hizo la notificación al inquilino, para uso del derecho del tanto.
 
-959.- Cada propietario u ocupante usará de su piso, departamento, casa o local, en forma ordenada. No podrá, en consecuencia, destinarlo a usos contrarios a la moral o buenas costumbres; ni hacerlo servir a otros objetos que los convenidos expresamente, y, en caso de duda, a aquellos que deban presumirse de la naturaleza del condominio y su ubicación; ni realizar acto alguno que afecte la tranquilidad de los demás propietarios y ocupantes, o que comprometa la estabilidad, seguridad, salubridad o comodidad del condominio, ni incurrir en omisiones que produzcan los mismos resultados.
+959.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
 
-En cuanto a los servicios comunes e instalaciones generales, deberá abstenerse de todo acto, aun en el interior de su propiedad, que impida o haga menos eficaz su operación, o estorbe o dificulte el uso común, estando obligado a mantener en buen estado de conservación y funcionamiento sus propios servicios e instalaciones.
+960.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
 
-El infractor de estas disposiciones será responsable del pago de los gastos que se efectúen para reparar o restablecer los servicios e instalaciones de que se trate, así como de los daños y perjuicios que resultaren; aparte de que podrá ser sancionado en los términos del artículo 974.
+961.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
 
-960.- Los propietarios de pisos, del departamento bajo o primero y los del último o de viviendas, casas o locales situados en aquél o en éste, no tendrán más derechos que los restantes propietarios. Salvo que lo establezca el Reglamento del Condominio, los propietarios de la planta baja no podrán ocupar para uso exclusivo o preferente sobre los demás propietarios, los vestíbulos, sótanos, jardines, patios, ni otros lugares de tal planta, ni hacer obras en dichos lugares. Con igual salvedad los propietarios del último piso no podrán ocupar la azotea o techo ni elevar nuevos pisos, ni realizar otras construcciones. Las mismas restricciones son aplicables a los demás propietarios del inmueble.
+962.- (DEROGADO, P.O. 30 DE SEPTIEMBRE DE 1998)
 
-961.- Cada propietario podrá hacer toda clase de obras y reparaciones en el interior de su departamento, casa o local, pero le estará prohibida toda innovación o modificación que afecte a la estructura, paredes maestras, u otros elementos esenciales del edificio o que puedan perjudicar a su estabilidad, seguridad, salubridad o comodidad. Tampoco podrá abrir claros o ventanas, ni pintar o decorar la fachada de las paredes exteriores en forma que desentone del conjunto o que perjudique a la estética general del inmueble. En cuanto a los servicios comunes e instalaciones generales, deberá abstenerse de todo acto, aun en el interior de su propiedad, que impida o haga menos eficaz su operación y estará obligado a mantener en buen estado la conservación y funcionamiento de los servicios e instalaciones propias.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-962.- En los condominios serán obligatorias para los respectivos propietarios y por su cuenta, las obras que requieran los entrepisos, suelos, pavimentos, paredes u otras divisiones entre locales colindantes.
+963.- Para la realización de obras en los bienes comunes e instalaciones generales, en cualquiera de los tipos de condominio que reglamenta este Código, se observará lo siguiente:
 
-En los condominios de construcción vertical, las obras que requieran los techos en su parte exterior, y los sótanos serán por cuenta de todos los propietarios; así como la reparación de desperfectos ocasionados por sismos, rayos o hundimientos.
+I.- Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación y, para que los servicios funcionen normal y eficazmente, se efectuarán por el administrador, previo permiso de las autoridades competentes, bastando la conformidad en su caso del Comité consultivo y de vigilancia;
 
-963.- Para las obras en los bienes comunes e instalaciones generales, se observarán las siguientes reglas:
+II.- Los condóminos podrán acordar la reparación de los vicios de construcción de los bienes comunes e instalaciones generales en la proporción que cada uno represente sobre el valor total del condominio, salvo pacto en contrato y sin perjuicio de hacer exigible la responsabilidad al enajenante;
 
-I.- Las obras necesarias para mantener el condominio en buen estado de seguridad, estabilidad y conservación y para que los servicios funcionen normal y eficazmente, se efectuarán por el administrador, previa licencia, en su caso, de las autoridades competentes, bastando la conformidad del comité de vigilancia y sin necesidad del acuerdo de los propietarios, con cargo al fondo de gastos de mantenimiento y administración. Cuando éste no baste o sea preciso efectuar obras no previstas el administrador convocará a asamblea de propietarios, a fin de que, conforme lo prevenga el Reglamento del Condominio, resuelvan lo conducente;
+III.- Para realizar obras que aunque se traduzcan en mejor aspecto o mayor comodidad no aumenten el valor del condominio, u obras que sin ser necesarias si lo aumenten, se requerirá el 51% del total de votos de los condóminos, reunidos en la Asamblea, en los términos de la fracción III del Artículo 964 de este Código;
 
-II.- El enajenante es responsable de los vicios de construcción del condominio. El resto de los propietarios podrá proceder a la reparación del mismo, en la proporción que cada uno represente sobre el valor total del condominio, dejando a salvo sus derechos para repetir contra aquél, o hacer efectiva la fianza que prevee (sic) el artículo 946, fracción VIII;
+IV.- Las reparaciones o reposiciones urgentes, en los bienes comunes e instalaciones generales, podrán ser efectuadas por los condóminos, en caso de faltar el administrador, con cargo al fondo de gastos de mantenimiento u operación.
 
-III.- Para realizar obras puramente voluntarias, que aunque se traduzcan en mejor aspecto o mayor comodidad, no aumenten el valor del condominio, u obras que sin ser necesarias si lo aumenten, se requerirá el voto aprobatorio del 75% de los propietarios reunidos en Asamblea;
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-IV.- Las reparaciones o reposiciones urgentes en los bienes comunes e instalaciones generales, podrán ser efectuadas por los propietarios en caso de falta del Administrador.
+En ningún caso se realizarán obras que puedan poner en peligro la estabilidad y conservación del condominio o que afecten la seguridad o comodidad del mismo, así como que impidan permanentemente el uso de una parte o servicio común, aunque únicamente sea a un solo condómino ni que demerite cualquier otra propiedad de un tercero. En los dos últimos casos, las obras podrán llevarse a cabo si existe acuerdo de por lo menos el 75% de los condóminos, y en el último, además, si se indemniza al afectado.
 
-Se prohiben las obras que puedan poner en peligro la seguridad, estabilidad y conservación o afecten la comodidad del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, y las que demeriten cualquier piso, departamento, casa o local. En los dos últimos casos las obras podrán llevarse a cabo; sin embargo, si existe acuerdo unánime entre los propietarios y en el último, además, si se indemniza al afectado a su plena satisfacción.
+Si las obras se refieren a edificaciones, deberá contarse con los permisos de las autoridades correspondientes.
+
+Se aplicarán, en todo lo conducente, las normas anteriores a los condominios horizontales o mixtos tanto en lo que respecta a mantenimiento y cuidado de las áreas de uso común, como las de propiedad exclusiva de cada condómino, las que deberán someterse a las limitaciones que señale el Reglamento de Condominio y Administración.
 
 ### CAPITULO IX. DE LAS ASAMBLEAS Y DEL ADMINISTRADOR
 
-964.- La Asamblea General de Propietarios es el órgano supremo del condominio. Serán Asambleas de Grupo de Propietarios las convocadas para resolver asuntos que sólo interesen o afecten a un determinado grupo de propietarios del condominio. Unas y otras se regirán por las siguientes prevenciones:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Las generales se celebrarán por lo menos una por año y tanto ellas como las de grupo, cuantas veces sean convocadas conforme a lo dispuesto por este Código y el Reglamento del Condominio;
+964.- La Asamblea General de condóminos es el órgano supremo del condominio. Las asambleas generales podrán ser ordinarias o extraordinarias y serán convocadas por un administrador o en su caso por el Comité Consultivo y de Vigilancia. Las asambleas generales se regirán por lo siguiente:
 
-II.- Cada propietario gozará de un número de votos igual al porcentaje del valor que su piso, departamento, casa o local, represente en el total del condominio;
+I.- Las ordinarias deberán celebrarse, por lo menos, una vez al año y las extraordinarias podrán celebrarse en cualquier tiempo, cuando se traten asuntos de su competencia;
 
-III.- No obstante lo dispuesto en la fracción anterior, en el caso de propietarios colocados en el segundo supuesto del Artículo 951, es decir de quienes hayan celebrado contrato en virtud del cual, de cumplirse en sus términos, lleguen a ser propietarios, si media crédito hipotecario o compraventa con reserva de dominio, el porcentaje de sus votos se reducirá a la proporción del precio que hubieran pagado y corresponderá al acreedor la otra proporción del porcentaje. Esta prevención sólo regirá si los acreedores asisten a la Asamblea, pero para tener derecho a esta asistencia y a intervenir con voz y voto en la proporción de que se trata, deberán contar con la constancia expedida por el Administrador y a la cual se refiere el artículo 968, fracción I;
+II.- Las asambleas generales se celebrarán en el municipio donde se encuentre ubicado el condominio;
 
-IV.- La votación será personal o por representante, nominal y directa; pero el Reglamento del Condominio puede determinar otras formas y procedimientos;
+III.- Cada condómino gozará de un número de votos equivalente al porcentaje del valor que su propiedad represente en el total del condominio, de acuerdo con la escritura constitutiva correspondiente del mismo;
 
-V.- Las resoluciones de la Asamblea, se tomarán por mayoría simple de votos, excepto en los casos en que el presente Código y el Reglamento del Condominio establezca una mayoría especial;
+IV.- La votación será personal, nominal y directa, pudiéndose delegar la representación y determinar otras formas y procedimientos, si la escritura constitutiva o el reglamento de condominio y administración lo permite;
 
-VI.- Cuando un solo propietario represente más del 50% de los votos, se requerirá, además, el 50% de los votos restantes, para que sean válidos los acuerdos. Cuando no se llegue a acuerdo válido, el propietario mayoritario o el grupo de minoritarios podrá proceder en los términos del Artículo 977;
+V.- Las resoluciones de la Asamblea, se tomarán por mayoría simple de votos presentes, excepto en los casos en que el presente Código, la escritura constitutiva o el reglamento de condominio y administración establezcan una mayoría especial;
 
-VII.- Las asambleas serán presididas en la forma que prevea el Reglamento del Condominio, según lo dispuesto en el Artículo 971, fracción IV y fungirá como secretario de ellas el administrador, si es persona física, y si lo es moral, la persona que ésta designe;
+VI.- Cuando un solo condómino represente más del 50 por ciento de los votos, se requerirá además, el 25 por ciento de los votos restantes, para que sean válidos los acuerdos;
 
-VIII.- El secretario llevará un libro de actas, que deberá estar autorizado por el Ayuntamiento que corresponda. Las actas, por su parte, serán autorizadas, con la fe del propio Secretario o de Notario Público, por el Presidente de la Asamblea y el del Comité de Vigilancia, o quien lo sustituya;
+VII.- Será presidente y secretario de las asambleas quienes sean señalados como tales en el reglamento de condominio y administración. No estando presentes éstos, o a falta de tal designación, los condóminos presentes determinarán quiénes fungirán con tal carácter. El Presidente designará de entre los concurrentes a dos personas que actuarán como escrutadores, a fin de constatar la existencia del quórum;
 
-IX.- El secretario tendrá siempre a la vista de los propietarios y de los acreedores registrados, el libro de actas y les informará por escrito a cada uno las resoluciones que adopte la Asamblea.
+> <small>(F. DE E., P.O. 29 DE JULIO DE 2000)</small>
 
-965.- Las convocatorias para la celebración de asamblea se harán en los términos de la fracción XII, del artículo 968 de este Código.
+VIII.- Las actas de las asambleas serán firmadas por su presidente y secretario, y en su caso, por un miembro del Comité Consultivo y de Vigilancia y si es necesario serán protocolizadas ante Notario Público, y;
 
-Cuando la Asamblea se celebre a virtud de primera convocatoria, se requerirá un quórum del 90% de votantes; cuando se realice por segunda convocatoria, el quórum será cuando menos del 51% de votantes. Si la Asamblea se efectuare en razón de tercera convocatoria, las resoluciones se adoptarán por la mayoría de los presentes.
+IX.- Los condóminos que representen por lo menos el 25 por ciento de los votos podrán convocar a asamblea cuando en dos ejercicios consecutivos no se haya celebrado la asamblea ordinaria anual.
 
-Las determinaciones adoptadas por las Asambleas en los términos de este Código, del Reglamento Interior del Condominio y de las demás disposiciones legales aplicables, obligan a todos los propietarios, incluyendo a los ausentes o disidentes.
+Las Asambleas Generales podrán celebrarse sin necesidad de convocatoria, siempre y cuando al momento de la votación se encuentren presentes todos los condóminos o sus representantes.
 
-966.- La Asamblea tendrá las facultades siguientes:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-I.- Nombrar y remover libremente al administrador, en los términos del Reglamento del Condominio, excepto al que funja por el primer año, que será designado por quienes otorguen la escritura constitutiva del condominio. El administrador podrá ser o no alguno de los propietarios y la Asamblea de estos fijará la remuneración relativa;
+965.- Las Convocatorias para la celebración de las Asambleas Generales se deberán hacer cuando menos con 10 días naturales de anticipación, salvo que en el Reglamento de Condominio y Administración se establezca un plazo mayor. La Convocatoria deberá indicar el lugar, hora y día en que se celebrará la asamblea, así como el orden del día, la cual será firmada por quien la realice y se notificará en el domicilio, que tenga registrado la administración, de cada condómino.
 
-II.- Precisar las responsabilidades frente a terceros a cargo directo del Administrador y las que corran a cargo de los propietarios, por actos de aquél ejecutados en o con motivo del desempeño de su cargo;
+Cuando la Asamblea Ordinaria se celebre en virtud de la primera convocatoria requerirá un quórum del 51% de los votantes; cuando sea necesario realizar una segunda convocatoria, la asamblea se llevará a cabo con los condóminos presentes. En las Asambleas Extraordinarias en primera y en ulteriores convocatorias se requerirá por lo menos un quórum del 51% de los votantes, salvo que en la Escritura Constitutiva se establezca quórum o mayoría calificada.
 
-III.- En los términos de las fracciones anteriores, nombrar y remover un comité de vigilancia, que podrá constituirse con una o hasta tres personas;
+Los acuerdos adoptados por la asamblea en los términos de este Código, de la Escritura Constitutiva o del Reglamento de Condominio y Administración serán obligatorios para todos los condóminos, aún para los ausentes o disidentes.
 
-IV.- Resolver sobre la clase y monto de la garantía que deba otorgar el Administrador respecto al fiel desempeño de su misión y al manejo de los fondos a su cuidado, tanto de mantenimiento y administración cuanto de reserva;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-V.- Examinar y, en su caso, aprobar el estado de cuenta anual que someta el Administrador a su consideración;
+966.- La Asamblea General Ordinaria tendrá las siguientes facultades y obligaciones:
 
-VI.- Discutir y, en su caso, aprobar el presupuesto de gastos para el año siguiente;
+I.- Nombrar y remover libremente al administrador y fijarle en su caso su retribución o emolumentos en los términos del Reglamento de Condominio y Administración;
 
-VII.- Establecer las cuotas a cargo de los propietarios para constituir un fondo destinado a los gastos de mantenimiento y administración y otro fondo de reserva, para la adquisición o reposición de implementos y maquinaria con que deba contar el condominio. El pago podrá dividirse en mensualidades, que habrán de cubrirse por adelantado. Las cuotas serán en proporción al valor de cada piso, departamento casa o local establecido en la escritura constitutiva. Las primeras aportaciones para la constitución de ambos fondos, serán determinadas por el Reglamento Interno del Condominio. El fondo de reserva, mientras no se use, deberá invertirse en valores de renta fija, redimibles a la vista. El destinado a mantenimiento de administración será el bastante para contar anticipadamente con el numerario que cubra los gastos de tres meses;
+II.- Precisar las responsabilidades del administrador frente a terceros y las que corran a cargo de los condóminos, por actos de aquel, ejecutados en o con motivo del desempeño de su cargo;
 
-VIII.- Promover lo que proceda ante las autoridades competentes, cuando el Administrador infrinja este Código, el Reglamento del Condominio, la escritura constitutiva y cualesquiera disposiciones legales aplicables;
+III.- Nombrar y remover libremente en forma total o parcial al Comité consultivo y de vigilancia;
 
-IX.- Instruir al Administrador para el cumplimiento de lo previsto en el artículo 968, fracción II;
+IV.- Resolver en su caso sobre la clase y monto de la garantía del desempeño de su cargo que deba de otorgar el administrador;
 
-X.- Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidos dentro de las funciones conferidas al Administrador;
+V.- Aprobar los manuales operativos y examinar, y en su caso, aprobar el informe de la cuenta anual que someta el administrador a su consideración;
 
-XI.- Modificar la escritura constitutiva del condominio y el Reglamento del mismo, en los casos y condiciones que prevean la una y el otro y las disposiciones legales aplicables;
+VI.- Discutir y en su caso aprobar el presupuesto de gastos para el año siguiente;
 
-XII.- Las demás que le confieran la Ley, el Reglamento del Condominio, la escritura constitutiva y demás disposiciones legales aplicables.
+VII.- Establecer el monto, plazo y forma de pago de las cuotas ordinarias a cargo de los condóminos y aprobar la constitución y los fondos de reserva, gastos, mantenimiento, operación, administración y otros que sean necesarios para el condominio;
 
-967.- Los condominios serán administrados por la persona física o moral que designe la Asamblea en los términos de este Código y del Reglamento del Condominio.
+VIII.- Promover lo que proceda ante las Autoridades Competentes, cuando el Administrador o alguno de los condóminos infrinja este Código, el Reglamento de Condominio y Administración o la Escritura Constitutiva y en su caso nombrar delegados especiales para tal efecto;
 
-968.- Corresponderá al Administrador:
+IX.- Instruir al administrador para el cumplimiento de lo previsto en este Código;
 
-I.- Para los efectos de lo previsto en el artículo 964, fracción III, llevar, debidamente autorizado por el Ayuntamiento, un libro de registro de los acreedores que manifiesten, dentro del primer mes de constituidos los créditos o en el de enero de cada año, su decisión de concurrir a las Asambleas. En este registro se anotará la conformidad de acreedor y deudor, sobre los saldos pendientes de cubrirse y en caso de discrepancia o de renuencia del deudor a expresar su voluntad, se anotarán los saldos que determine el Comité de Vigilancia, indicándose la proporción correspondiente al acreedor y al deudor de los votos atribuidos al piso, departamento, casa o local de que se trate. Estas inscripciones sólo tendrán validez por el trimestre en que se practiquen y de ellas el administrador expedirá constancia al acreedor interesado;
+X.- Adoptar las medidas conducentes sobre los asuntos de interés común que no se encuentren comprendidos dentro de las funciones conferidas al administrador, pudiendo nombrar delegados especiales para la ejecución de actos concretos;
 
-II.- Cuidar y vigilar los bienes del condominio y los servicios comunes, y promover la integración, organización y desarrollo de la comunidad;
+XI.- Las demás que le confieran este Código, la Escritura Constitutiva, el Reglamento de Condominio y Administración y demás preceptos legales aplicables.
 
-III.- Recabar y conservar los libros y la documentación relacionada con el condominio, los que en todo tiempo podrán ser consultados por los propietarios;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-IV.- Atender la operación de las instalaciones y servicios generales;
+967.- Las asambleas extraordinarias de condóminos tendrán las siguientes facultades y obligaciones:
 
-V.- Realizar todos los actos de administración y conservación;
+I.- Modificar la Escritura Constitutiva o el Reglamento de Condominio y Administración;
 
-VI.- Realizar las obras necesarias en los términos de la fracción I del Artículo 963 de este Código;
+II.- Aprobar la reconstrucción de la unidad en caso de destrucción, ruina o vetustez del condominio;
 
-VII.- Ejecutar los acuerdos de la Asamblea salvo que ésta designe a otra persona para el efecto;
+III.- Cambiar el destino general del Régimen de Condominio o hacer alteraciones substanciales al mismo;
 
-VIII.- Recaudar de los propietarios lo que a cada uno corresponda aportar para los fondos de mantenimiento y administración, y de reserva;
+IV.- Aprobar las aportaciones extraordinarias;
 
-IX.- Efectuar los gastos de mantenimiento y administración del condominio, con cargo al fondo correspondiente en los términos del Reglamento del Condominio;
+V.- Acordar la extinción del Régimen de Propiedad en Condominio;
 
-X.- Otorgar recibo a cada uno de los propietarios por las cantidades que hayan aportado en el mes anterior para los fondos de mantenimiento y administración y de reserva. En estos recibos se expresarán en su caso, los saldos a cargo de cada propietario;
+VI.- Las demás que establezcan la escritura Constitutiva y en el Reglamento.
 
-XI.- Entregar mensualmente a cada propietario, recabando constancia de quien lo reciba, un estado de cuenta que muestre:
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-a).- Una relación pormenorizada de los gastos del mes anterior, efectuados con cargo al fondo de mantenimiento y administración;
+968.- Los condominios serán administrados por la persona física o moral que designe la asamblea de condóminos en los términos de este Código, de la escritura constitutiva y del reglamento del condominio y administración; quien que de acuerdo a los mismos, tendrá las siguientes facultades y obligaciones:
 
-b).- Un estado consolidado que muestre los montos de las aportaciones y de cuotas pendientes de cubrirse. El Administrador tendrá a disposición de los propietarios que quieran consultarla, una relación de los mismos en la que consten las cantidades que cada uno de ellos aportó para los fondos de mantenimiento y administración y de reserva, con expresión de saldos de cuotas pendientes de cubrirse;
+I.- El administrador tendrá bajo su custodia el libro de actas correspondiente, en donde se deberá llevar el acta levantada con motivo de cada asamblea y se conservarán como apéndice de dichas actas los documentos relativos a la asamblea misma;
 
-c).- El saldo del fondo de mantenimiento y administración y fines para el que se destinará en el mes subsiguiente, o, en su caso, monto y relación de adeudos por cubrirse;
+II.- Cuidar y vigilar los bienes de los condóminos y los servicios comunes de conformidad a lo establecido en el Reglamento de Condominio y Administración;
 
-El propietario tendrá un plazo de cinco días contados a partir de la entrega de dicha documentación, para formular las observaciones u objeciones que considere pertinentes. Transcurrido dicho plazo, se considerará que está de acuerdo con la misma, a reserva de la aprobación de la Asamblea, en los términos de la fracción V del Artículo 966;
+III.- Llevar y conservar los libros y la documentación relacionada con el condominio, los cuales deberán estar en disposición de los condóminos, para consulta en los términos que se establezcan en el Reglamento de Condominio y Administración;
 
-XII.- Convocar a asamblea, cuando menos con diez días de anticipación a la fecha de la misma, indicando lugar dentro del condominio o el que se haya fijado en el Reglamento, más día y hora en que se celebrará, incluyendo la orden del día. Los propietarios y acreedores registrados o sus representantes serán notificados en el lugar que para tal efecto hayan señalado, precisamente por escrito. Además del envío de la convocatoria, el administrador la colocará en uno o más lugares visibles del condominio.
+IV.- Atender la operación y mantenimiento de las instalaciones y servicios comunes;
 
-Los propietarios y los acreedores registrados podrán convocar a asamblea sin intervención del administrador cuando se acredite, ante Juez competente, que representan como mínimo la cuarta parte del valor del condominio. También el Comité de Vigilancia podrá convocar a asamblea, según lo previene el siguiente artículo.
+V.- Realizar todos los actos de administración, créditos, cobranzas y conservación del condominio y los demás que se establezcan en la Escritura Constitutiva o en el Reglamento de Condominio y Administración;
 
-En casos de suma urgencia, se convocará a Asamblea con la anticipación que las circunstancias exijan;
+VI.- Realizar las obras necesarias en los términos de este Código, la Escritura Constitutiva o el Reglamento de Condominio y Administración;
 
-XIII.- Exigir, con la representación de los demás propietarios, al infractor del Artículo 961, las responsabilidades en que incurra;
+VII.- Ejecutar los acuerdos de las Asambleas;
 
-XIV.- Cuidar de la debida observancia de las disposiciones de este Código, del Reglamento del Condominio y de la escritura constitutiva;
+VIII.- Recaudar de los condóminos las cuotas, aportaciones extraordinarias o cualquier tipo de contribución que a cada uno corresponda pagar para los fondos de mantenimiento, operación, administración, reserva y demás que se establezcan en el Reglamento de Condominio y Administración;
 
-XV.- Realizar las demás funciones y cumplir con las obligaciones que establecen a su cargo, este Código, el Reglamento del Condominio, la escritura constitutiva y demás disposiciones legales aplicables.
+IX.- Efectuar los gastos de mantenimiento, operación y administración del condominio con cargo al fondo correspondiente, en los términos del Reglamento de Condominio y Administración o en su caso conforme a la resolución de la asamblea;
 
-969.- El Comité de Vigilancia tendrá las siguientes atribuciones y deberes:
+X.- Otorgar el recibo a cada uno de los condóminos por las cantidades que hayan aportado para los fondos de mantenimiento, operación, administración, reserva y demás que se establezcan en el Reglamento de Condominio y Administración;
 
-I.- Cerciorarse de que el Administrador cumpla los acuerdos de la Asamblea General;
+XI.- Entregar a cada condómino la relación pormenorizada de los gastos realizados y los saldos de los fondos existentes, en los términos previstos en el Reglamento de Condominio y Administración;
 
-II.- Verificar los estados de cuenta que debe rendir el Administrador ante la Asamblea;
+XII.- Convocar a asamblea en los términos previstos por este Código, por la Escritura Constitutiva o por el Reglamento de Condominio y Administración;
 
-III.- Constatar la inversión del fondo de reserva para la adquisición o reposición de implementos y maquinaria;
+XIII.- Exigir la responsabilidad en que incurran los condóminos al realizar obras que afecten la estabilidad y seguridad del condominio;
+
+XIV.- Tendrá las facultades de un apoderado general para pleitos, cobranzas y para actos de administración, con todas las facultades generales y las especiales que requieren cláusula especial de acuerdo con la ley, y podrá desempeñar en general todas las funciones y obligaciones inherentes a su cargo, en los términos previstos por este Código, la Escritura Constitutiva, el Reglamento de Condominio y Administración, los manuales de operación y los acuerdos de asamblea.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+969.- El Condominio podrá contar con un Comité Consultivo y de Vigilancia, que se integrará en los términos que se establezcan en la Escritura Constitutiva, el Reglamento de Condominio y Administración o en los acuerdos que adopte la Asamblea y tendrá las siguientes facultades y obligaciones:
+
+I.- Cerciorarse de que el administrador cumpla los acuerdos de la Asamblea, así como los demás deberes que le impongan este Código, la escritura constitutiva y el Reglamento de Condominio y Administración;
+
+II.- Verificar los estados de cuenta que debe rendir el administrador ante la asamblea;
+
+III.- Constatar las inversiones de los fondos de mantenimiento, administración y de reserva;
 
 IV.- Dar cuenta a la asamblea de sus observaciones sobre la administración del condominio;
 
-V.- Informar a la asamblea de la constatación que haga de incumplimientos de los propietarios con que dé cuenta el Administrador;
+V.- Informar a la asamblea sobre el incumplimiento de las obligaciones de los condóminos;
 
-VI.- Coadyuvar con el Administrador en observaciones a los propietarios sobre el cumplimiento de sus obligaciones;
+VI.- Coadyuvar con el Administrador, en observaciones a los condóminos sobre el cumplimiento de sus obligaciones;
 
-VII.- Convocar a Asamblea de propietarios cuando a requerimiento del propio Comité, el Administrador no lo haga dentro de los tres días siguientes. Asimismo, cuando a juicio del Comité sea necesario informar a la Asamblea de irregularidades en que haya incurrido el administrador, con citación a éste para que comparezca a la Asamblea relativa;
+VII.- Convocar a Asamblea de Condóminos cuando a su requerimiento el administrador no lo haga dentro de los tres días siguientes. Asimismo, convocarla cuando, a su juicio, sea necesario; y
 
-VIII.- Las demás que se deriven de este Código y de la aplicación de otras que impongan deberes a su cargo; así como de la escritura constitutiva y del Reglamento del Condominio.
+VIII.- Las demás que se deriven de este Código, de la escritura constitutiva y del Reglamento de Condominio y Administración.
 
-970.- En relación a los bienes comunes, el administrador tendrá las facultades de representación de un apoderado general de los propietarios para administrar bienes y para pleitos y cobranzas, incluyendo la de absolver posiciones; pero otras facultades especiales y las que requieran cláusula especial, necesitarán acuerdo de la asamblea, por mayoría del 51% de los propietarios.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-Las medidas que adopte y las disposiciones que dicte el administrador, dentro de sus funciones y con base en este Código y el Reglamento Interno del Condominio, serán obligatorias para todos los propietarios. La Asamblea, por mayoría que fije el Reglamento Interno del Condominio, podrá modificar o revocar dichas funciones.
+970.- Con relación a los bienes comunes o de copropiedad, tendrá todas las facultades y obligaciones de un apoderado general de los condóminos para administrar bienes, así como para pleitos y cobranzas, con la facultad de articular y absolver posiciones. Las medidas que adopte y las disposiciones que dicte el administrador, dentro de sus atribuciones, serán obligatorias para todos los condóminos.
 
-### CAPITULO X. DEL REGLAMENTO DEL CONDOMINIO
+> <small>(REFORMADA SU DENOMINACION, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-971.- El Reglamento del Condominio contendrá, por lo menos lo siguiente:
+### CAPITULO X. DEL REGLAMENTO DE CONDOMINIO Y ADMINISTRACION
 
-I.- Los derechos y obligaciones de los propietarios referidos a los bienes de uso común, especificando estos últimos; así como las limitaciones a que queda sujeto el ejercicio del derecho de usar tales bienes, y los propios;
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-II.- Las medidas convenientes para la mejor administración, mantenimiento y operación del condominio;
+971.- El Reglamento de Condominio y Administración deberá contener, por lo menos, disposiciones relativas a:
 
-III.- Las disposiciones necesarias que propicien la integración, organización y desarrollo de la comunidad;
+I.- Los derechos y obligaciones de los condóminos, respecto de sus unidades en condominio y de los bienes de uso común, así como las limitaciones a que pueda estar sujeto el ejercicio del derecho de usar tales bienes;
 
-IV.- La forma de convocar a Asamblea de propietarios y persona que la presidirá;
+II.- La administración, mantenimiento y operación del condominio;
 
-V.- La forma de designación y facultades del Administrador;
+III.- La forma y requisitos de la convocatoria y de desarrollo de las asambleas;
 
-VI.- Los requisitos que debe reunir el Administrador;
+IV.- La forma de designar y remover al administrador o administradores, así como las facultades y obligaciones que se les confieran;
 
-VII.- Las bases de remuneración del Administrador;
+V.- En su caso, la forma de designar y remover al Comité consultivo y de vigilancia o alguno de sus integrantes y las facultades y obligaciones que se les confieran;
 
-VIII.- Los casos en que proceda la remoción del Administrador;
+VI.- Las materias o asuntos que se reservan a la escritura constitutiva, al reglamento de condominio y administración y al presente Código; y
 
-IX.- Las disposiciones de las cuatro fracciones anteriores, en relación al Comité de Vigilancia;
-
-X.- Las materias que le reserven la escritura constitutiva y el presente Código.
+VII.- Las normas a que deban sujetarse las modificaciones de la escritura constitutiva y del reglamento de condominio y administración.
 
 ### CAPITULO XI. DE LOS GASTOS, OBLIGACIONES FISCALES Y CONTROVERSIAS
 
-972.- La contribución de los propietarios a la constitución de los fondos de administración y mantenimiento y de reserva, deberá efectuarse conforme a lo previsto en el Artículo 966, fracción VII.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-973.- Las cuotas para gastos comunes que los propietarios no cubran mensualmente, causarán intereses al tipo legal o al que fije el Reglamento del Condominio.
+972.- Los condóminos tienen obligación de contribuir mediante el pago de cuotas a cubrir los gastos y las inversiones necesarias para mantener y conservar el condominio en buen estado. En los casos de cesión, traspaso, compraventa o enajenación por cualquier título legal, el condómino enajenante y el adquirente responderán solidariamente de las obligaciones del primero hasta la fecha en que la enajenación sea debidamente notificada al consejo directivo del condominio.
 
-Trae aparejada ejecución en la vía ejecutiva civil el estado de liquidación de adeudos, intereses moratorios y pena convencional que estipule el Reglamento del Condominio, si va suscrita por el Administrador y el Presidente del Comité de Vigilancia o quien lo sustituya y acompañada de los correspondientes recibos pendientes de pago, así como de copia certificada por los mismos funcionarios, de la parte relativa del acta de Asamblea o del Reglamento del Condominio, en su caso, en que se hayan determinado las cuotas a cargo de los propietarios, para los fondos de mantenimiento y administración, y de reserva. Esta acción sólo podrá ejercerse cuando existan tres recibos pendientes de pago.
+Cuando un condominio conste de diferentes partes y comprenda varias escaleras, patios, jardines, obras e instalaciones, tales como ascensores, montacargas, y otros elementos o aparatos destinados a servir únicamente a una parte del conjunto, los gastos especiales relativos serán a cargo del grupo de condóminos beneficiados, en los términos del Reglamento de Condominio y Administración.
 
-El Reglamento del Condominio podrá establecer que cuando algún propietario caiga en mora, el Administrador distribuirá el importe del adeudo causado y que se siga causando, entre los restantes propietarios en proporción al valor de sus propiedades. Al efectuarse la recuperación de dicho adeudo, el Administrador reembolsará a los afectados, las cantidades que hubiesen aportado, y los intereses en la parte proporcional que les corresponda.
+La asamblea de propietarios fijará y actualizará el importe de las cuotas ordinarias o aportaciones extraordinarias que los condóminos deben cubrir, las garantías que al efecto los condóminos deben otorgar y en general los términos y condiciones en que pueda exigirse, incluso judicialmente, su cumplimiento.
 
-974.- El propietario que reiteradamente no cumpla con sus obligaciones, además de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado para que se le obligue a vender sus derechos, hasta en subasta pública, respetándose el del tanto, en los términos del Reglamento del Condominio. El ejercicio de esta acción será resuelto en asamblea de propietarios, por un mínimo del 75% de éstos.
+Será cuota ordinaria, la cantidad proporcional al valor de su propiedad exclusiva con respecto al condominio, que cada condómino debe pagar para absorber los gastos de administración, mantenimiento y operación del condominio de acuerdo a lo establecido en la escritura constitutiva o en el reglamento del condominio y administración respectivo. Será aportación extraordinaria, la cantidad que cada condómino debe pagar para absorber gastos extraordinarios por adiciones, conservación y reposición de bienes y equipos, que previa aprobación de la Asamblea General de Condóminos, se considere procedente su erogación como un aumento al valor de la inversión o que son susceptibles de amortizarse en dos o más períodos anuales.
 
-975.- Si quien no cumpla con sus obligaciones fuese un ocupante no propietario, el Administrador le demandará, previo consentimiento del propietario la desocupación del piso, departamento, casa o local. Si el propietario se opusiere, se procederá contra éste y el ocupante, en los términos del Artículo anterior.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-976.- Para los efectos fiscales el piso, departamento, casa o local de cada propietario se empadronará y valuará por separado, comprendiéndose en la valuación su parte proporcional indivisa de los bienes comunes. Los propietarios cubrirán independientemente el Impuesto Predial, así como los demás impuestos de que sean causantes, siempre que ello sea posible.
+973.- Las cuotas para gastos comunes que los condóminos no cubran oportunamente, causarán intereses al tipo que fije el reglamento de condominio y administración.
 
-977.- Las controversias que se susciten con motivo de la interpretación y aplicación de este Código, del Reglamento del Condominio, de la escritura constitutiva y de la traslativa de dominio, así como de las demás disposiciones legales aplicables, serán sometidas al arbitraje, si lo prevé el Reglamento, o a los Tribunales competentes.
+El acta de la asamblea en que se acuerde el pago de cuotas anticipadas o en que se distribuyan los gastos ya efectuados, se protocolizará ante Notario Público.
+
+El administrador deberá exigir a los condóminos que otorguen fianza o garantía suficiente para asegurar el cumplimiento de sus obligaciones.
+
+La asamblea determinará la forma en que se deberán obligar los condóminos a fin de que sus créditos tengan la naturaleza de título ejecutivo. Los créditos respectivos seguirán siempre al dominio de las unidades en condominio, aunque se trasmitan a terceros.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+974.- El condómino que reiteradamente no cumpla con sus obligaciones, además de ser responsable de los daños y perjuicios que cause a los demás, podrá ser demandado para que se le obligue a vender sus derechos, hasta en subasta pública, respetándose el del tanto, en los términos del Reglamento de Condominio y Administración. El ejercicio de esta acción será resuelto en Asamblea de condóminos, por un mínimo del 75 por ciento de éstos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+975.- El condómino es responsable solidario del ocupante no propietario que no cumpla con las obligaciones impuestas por este Código, la escritura constitutiva, el reglamento de condominio y administración o los acuerdos de asamblea.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+976.- Los condóminos cubrirán el impuesto predial de su unidad privativa y la parte que les corresponda sobre los bienes comunes o de copropiedad, así como los demás impuestos o derechos que, en razón del condominio, sean causados por sí mismos.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+977.- Las controversias que se susciten con motivo de la interpretación y aplicación de este Código, del Reglamento de Condominio y Administración, de la escritura constitutiva y de la traslativa de dominio, así como de las demás disposiciones legales aplicables, serán sometidas al arbitraje, si lo prevé el reglamento, o a los tribunales competentes.
 
 ### CAPITULO XII. DE LOS GRAVAMENES
 
-978.- Los gravámenes son divisibles entre los diferentes pisos, departamentos, casas o locales de un condominio.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-Cada uno de los propietarios responderá sólo del gravamen que corresponda a su propiedad. Toda cláusula que establezca mancomunidad o solidaridad de los propietarios para responder de un gravamen sobre el inmueble, se tendrá por no puesta.
+978.- Los gravámenes son divisibles entre las diferentes unidades de condominio.
 
-979.- Los créditos que se originen por las obligaciones contenidas en las escrituras constitutivas y de traslación de dominio, por el Reglamento del Condominio o por este Código y demás disposiciones legales aplicables, gozan de garantía real sobre los pisos, departamentos, casas o locales aunque éstos se trasmitan a terceros.
+Cada uno de los condóminos responderá únicamente del gravamen que corresponda a su propiedad exclusiva y a los derechos sobre los bienes comunes que le son inseparables. Toda cláusula que establezca mancomunidad o solidaridad de los propietarios para responder de un gravamen sobre otro inmueble, se tendrá por no puesta.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+979.- Los créditos que se originen por las obligaciones contenidas en las escrituras constitutivas y de traslación de dominio, por el Reglamento del Condominio o por este Código y demás disposiciones legales aplicables, gozan de garantía real sobre cada unidad en condominio y derechos comunes que le son inseparables, aun cuando se trasmitan a terceros.
+
+La inscripción de este gravamen en el Registro Público de la Propiedad y del Comercio, da derecho a todo interesado para obtener del administrador, y de cualquier acreedor, una liquidación de los adeudos pendientes.
 
 ### CAPITULO XIII. DESTRUCCION, RUINA Y RECONSTRUCCION DEL CONDOMINIO
 
-980.- Si el condominio se destruyere en su totalidad o en una proporción que represente por lo menos las tres cuartas partes de su valor, según peritaje practicado por las autoridades competentes o institución fiduciaria, una mayoría especial del 51% de los propietarios podrá acordar la reconstrucción o la división del terreno y de los bienes comunes que queden, o en su caso la venta.
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
 
-Si la destrucción no alcanza la gravedad que se indica, los acuerdos a que se refiere el párrafo anterior, serán tomados por una mayoría especial del 75% de los propietarios.
+980.- Si el condominio se destruyere en su totalidad o en una proporción que represente por lo menos las tres cuartas partes de su valor, según el peritaje practicado por las autoridades competentes o institución fiduciaria, una mayoría que represente el 51 por ciento de los votos totales de los condóminos podrá acordar la reconstrucción o la división del terreno y de los bienes comunes que queden con arreglo a las disposiciones legales, sobre construcción, planificación, desarrollo o regeneración urbana y demás que fueren aplicables o, en su caso, la venta.
 
-Si en los casos a que se refieren el párrafo anterior, el acuerdo es por la reconstrucción, los propietarios en minoría estarán obligados a contribuir a ella en la proporción que les corresponda o a enajenar sus derechos. La enajenación podrá tener lugar desde luego a favor de la mayoría, si en ella convienen con los minoritarios; pero será forzosa a los seis meses, al precio del avalúo practicado por el corredor público o por institución fiduciaria, si dentro de dicho término no la han logrado los minoritarios.
+Si la destrucción resulta menor a la proporción señalada en el párrafo anterior, dichos acuerdos serán tomados por una mayoría especial del 75 por ciento de los votos totales de los condóminos.
 
-981.- En caso de ruina o vetustez del condominio, una mayoría especial del 51% de los propietarios podrá resolver, previo dictamen de las autoridades competentes, la reconstrucción o la demolición y división de los bienes y en su caso la venta; siguiéndose en adelante las prevenciones del Artículo anterior.
+Si en ambos casos a que se refieren los párrafos anteriores, el acuerdo es por la reconstrucción, los condóminos minoritarios estarán obligados a contribuir a ella en la proporción que les corresponda o a enajenar sus derechos. La enajenación podrá tener lugar desde luego a favor de la mayoría, si en ella convienen los minoritarios; pero será forzosa, a los seis meses, al precio del avalúo practicado por corredor público o institución fiduciaria, si dentro de dicho término no la han logrado los minoritarios.
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 1998)</small>
+
+981.- En caso de ruina o vetustez del condominio, una mayoría que represente el 75 por ciento de los votos totales de los condóminos podrá resolver, previo dictamen o autorización de las autoridades competentes, la reconstrucción o demolición y división de los bienes comunes o en su caso, la venta de los mismos; siguiéndose en adelante las prevenciones del artículo anterior.
 
 ### CAPITULO I. DEL USUFRUCTO EN GENERAL
 
@@ -5627,7 +5741,7 @@ I.- La cosa que el obligado debe dar;
 
 II.- El hecho que el obligado debe hacer o no hacer.
 
-1719.- La cosa objeto del contrato debe: 1° Existir en la naturaleza. 2° Ser determinada o determinable en cuanto a su especie. 3° Estar en el comercio.
+1719.- La cosa objeto del contrato debe: 1° Existir en la naturaleza. 2° ser determinada o determinable en cuanto a su especie. 3° Estar en el comercio.
 
 1720.- Las cosas futuras pueden ser objeto de un contrato. Sin embargo, no puede serlo la herencia de una persona viva, aun cuando ésta preste su consentimiento.
 
@@ -7673,7 +7787,7 @@ III.- En carta poder sin ratificación de firmas.
 
 Cuando el mandato haya sido verbal debe ratificarse por escrito antes de que concluya el negocio para que se dio.
 
-2452.- El mandato puede ser general o especial. Son generales los contenidos, en los tres primeros párrafos del artículo 2453. Cualquier otro mandato tendrá el carácter de especial.
+2452.- El mandato puede ser general o especial. Son generales los contenido, en los tres primeros párrafos del artículo 2453. Cualquier otro mandato tendrá el carácter de especial.
 
 2453.- En todos los poderes generales para pleitos y cobranzas, bastará que se diga que se otorga con todas las facultades generales y las especiales que requieran cláusula especial conforme a la ley, para que se entiendan conferidos sin limitación alguna.
 
@@ -9432,3 +9546,9 @@ UNICO.- El presente decreto entrará en vigor, al día siguiente de su publicaci
 P.O. 1 DE JULIO DE 1998.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE SEPTIEMBRE DE 1998.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
