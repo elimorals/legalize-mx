@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-ordenamiento-territorial-y-desarrollo-urbano-24171"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-25"
-last_updated: "2001-10-25"
+last_updated: "2002-11-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24171&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 NOVIEMBRE DE 2002.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 25 de octubre de 2001.
 
@@ -1451,6 +1451,10 @@ Con fundamento en la licencia de usos del suelo y lineamientos generales, el int
 
 Los proyectos de una nueva construcción o modificación de una edificación ya existente deberán ser revisados por la autoridad municipal competente, para verificar el cumplimiento de las normas de esta ley y demás disposiciones de carácter general o reglamentos municipales, si existieran en materia de desarrollo urbano, construcción, lineamientos viales, instalaciones especiales, seguridad o diseño urbano.
 
+> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2002)</small>
+
+Trátandose de edificaciones no residenciales cuyo uso primordial no sea habitacional ni industrial, se presentará el visto bueno de la unidad verificadora en torno a la aplicación de la norma oficial mexicana de eficiencia energética en edificaciones, envolvente de edificio no residenciales, denominada NOM-008-ENER-2001, y otras aplicables al proyecto.
+
 En el caso de normas reglamentarias cuya aplicación corresponde a dependencias, organismos o entidades concesionarias de servicios públicos, federales o estatales, la autoridad competente deberán realizar las consultas respectivas.
 
 ###### ARTÍCULO 121.
@@ -1751,10 +1755,16 @@ El Ejecutivo del Estado, en un término no mayor de noventa días, contados a pa
 
 Durante el periodo de expedición del Manual referido en el Artículo anterior, la autoridad competente se pronunciará en base a lo establecido por un dictamen del Ayuntamiento.
 
-SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 26 de Septiembre del Año 2001.- DIPUTADO PRESIDENTE, LIC.- JUAN JOSE CAMORLINGA GUERRA.- Rúbrica.- DIPUTADO SECRETARIO.- C. MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- DIPUTADO SECRETARIO, C. UBALDO GUZMAN QUINTERO.- Rúbreca.
+SALON DE SESIONES DEL H. CONGRESO DEL ESTADO.- Cd. Victoria, Tam., a 26 de Septiembre del Año 2001.- DIPUTADO PRESIDENTE, LIC.- JUAN JOSE CAMORLINGA GUERRA.- Rúbrica.- DIPUTADO SECRETARIO.- C. MAURO PATRICIO LONGORIA MARTINEZ.- Rúbrica.- DIPUTADO SECRETARIO, C. UBALDO GUZMAN QUINTERO.- Rúbrica.
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en la residencia del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado de Tamaulipas, a los veintisiete días del mes de Septiembre de año dos mil uno.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN". EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- TOMAS YARRINGTON RUVALCABA.- El SECRETARIO GENERAL DE GOBIERNO.- HOMERO DIAZ RODRIGUEZ.- Rúbricas.
+
+N. DE. E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.
+
+P.O. 19 DE NOVIEMBRE DE 2002.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
