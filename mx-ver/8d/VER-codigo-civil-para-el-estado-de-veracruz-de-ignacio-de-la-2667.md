@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1957-10-12"
+last_updated: "1959-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE OCTUBRE DE 1957.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 1959.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -11089,11 +11089,11 @@ ARTICULO 2251
 
 El contrato de compra-venta no requiere para su validez formalidad alguna especial, sino cuando recae sobre un inmueble.
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 1939)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 1959)</small>
 
 ARTICULO 2252
 
-La venta de un inmueble cuyo valor fiscal no exceda de un mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador ante dos testigos.
+La venta de todo o parte de un inmueble, cuyo valor fiscal no exceda de cinco mil pesos, podrá hacerse en instrumento privado que firmarán el vendedor y el comprador, ante dos testigos.
 
 ARTICULO 2253
 
@@ -11103,11 +11103,11 @@ ARTICULO 2254
 
 De dicho instrumento se formarán dos originales, uno para el comprador y el otro para el Registro Público.
 
-> <small>(REFORMADO, G.O. 18 DE MAYO DE 1939)</small>
+> <small>(REFORMADO, G.O. 13 DE ENERO DE 1959)</small>
 
 ARTICULO 2255
 
-Si el valor fiscal del inmueble, excede de un mil pesos, su venta se hará en escritura pública.
+Si el valor fiscal del inmueble excede de cinco mil pesos, la venta de todo o parte de él, se hará siempre en escritura pública.
 
 > <small>(REFORMADO, G.O. 11 DE JUNIO DE 1940)</small>
 
@@ -12801,7 +12801,7 @@ TITULO DECIMOPRIMERO
 
 DE LAS ASOCIACIONES Y DE LAS SOCIEDADES
 
-> <small>(F. DE E., G.O, 15 DE SEPTIEMBRE DE 1932)</small>
+> <small>(F. DE E., G.O. 15 DE SEPTIEMBRE DE 1932)</small>
 
 SUBTITULO PRIMERO
 
@@ -13351,7 +13351,7 @@ ARTICULO 2710
 
 El contrato de renta vitalicia debe hacerse por escrito, y en escritura pública, cuando los bienes cuya propiedad se transfiere deban enajenarse con esa solemnidad.
 
-ARTICULO 2211
+ARTICULO 2711
 
 El contrato de renta vitalicia puede constituirse sobre la vida del que da el capital, sobre la del deudor o sobre la de un tercero. También puede constituirse a favor de aquella o de aquellas personas sobre cuya vida se otorga o a favor de otra u otras personas distintas.
 
@@ -15002,3 +15002,9 @@ G.O. 12 DE OCTUBRE DE 1957.
 ###### ARTICULO UNICO.
 
 La presente Ley surtirá efectos a partir de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 13 DE ENERO DE 1959.
+
+###### ARTICULO UNICO.
+
+Esta Ley comenzará a surtir sus efectos legales, a partir del día siguiente de su publicación, en la "Gaceta Oficial" del Estado.
