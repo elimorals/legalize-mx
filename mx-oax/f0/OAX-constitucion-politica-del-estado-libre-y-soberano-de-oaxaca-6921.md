@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1939-04-15"
+last_updated: "1940-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 1939.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE DICIEMBRE DE 1940.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -761,7 +761,7 @@ II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las fa
 
 III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguna directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
+IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
 V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
@@ -1045,9 +1045,13 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 ## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 1940)</small>
+
 ###### ARTICULO 164.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere: que la Legislatura del Estado, por el voto de las dos terceras partes de los Diputados que la formen, admita a discusión las reformas o adiciones; que una vez admitidas, se publiquen en el periódico Oficial del Estado, y que sean aprobadas, previo debate, por igual número de votos de los Diputados que integren la Legislatura siguiente.
+La presente Constitución puede ser adicionada o reformada, Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que la Legislatura del Estado, por el voto de las dos terceras partes de los diputados que la formen, admita a discusión las adiciones o reformas; que, una vez admitidas, se publiquen en el "Periódico Oficial" del Estado y que sean aprobadas, previo debate, por igual número de votos de los diputados durante cualquiera de los periodos ordinarios del siguiente o subsiguientes años de su ejercicio legal al en que hayan sido admitidas a discusión.
+
+El mismo procedimiento se observará respecto de un período final de la Legislatura.
 
 ###### ARTICULO 115.
 
@@ -1372,3 +1376,7 @@ Segundo.- En los comicios municipales que se efectuarán en diciembre de mil nov
 P.O. 15 DE ABRIL DE 1939.
 
 Unico.- El presente decreto empezará a surtir sus efectos legales, desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 1940.
+
+Unico.- El presente decreto empezará a surtir sus efectos legales, a partir del día primero del año próximo de mil novecientos cuarenta y uno.
