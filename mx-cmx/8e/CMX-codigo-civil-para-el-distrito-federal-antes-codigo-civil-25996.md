@@ -4,7 +4,7 @@ identifier: "CMX-codigo-civil-para-el-distrito-federal-antes-codigo-civil-25996"
 country: "mx"
 rank: "codigo"
 publication_date: "1928-05-26"
-last_updated: "1976-06-29"
+last_updated: "1976-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25996&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -21,7 +21,7 @@ scjn_last_update: "2026-08-20"
 
 CODIGO CIVIL PARA EL DISTRITO FEDERAL EN MATERIA COMUN, Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE JUNIO DE 1976.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 29 DE DICIEMBRE DE 1976.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación los días sábado 26 de mayo; sábado 14 de julio; viernes 3 de agosto y viernes 31 de agosto, todos de 1928.
 
@@ -465,11 +465,11 @@ Si el nacimiento aconteciere durante un viaje por tierra, podrá registrarse en 
 
 Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos.
 
-> <small>(REFORMADO, D.O.F. 14 DE MARZO DE 1973)</small>
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1976)</small>
 
 ###### ARTICULO 76.
 
-En el acta de nacimiento de gemelos, el Juez del Registro Civil hará constar las particularidades que los distingan y quien nació primero, según las noticias que le comuniquen, el médico, el cirujano, la matrona o las personas que hayan asistido al parto.
+Cuando se trate de más de un nacimiento de un solo parto, se levantará una acta por cada uno de los nacidos, en la que además de los requisitos que señala el artículo 58, se harán constar las particularidades que lo distingan y el orden en que ocurrió su nacimiento, según las noticias que proporcionen el médico, el cirujano, la matrona o las personas que hayan asistido al parto y además se imprimirán las huellas digitales de ambas manos del presentado. El Juez del Registro Civil, hará constar en el acta los elementos de identificación, tales como fecha - libro- foja y partida de cada una de las actas de los nacidos en el mismo parto, a efecto de relacionarlos entre sí.
 
 ### CAPITULO V. De las actas de tutela
 
@@ -12118,3 +12118,9 @@ D.O.F. 29 DE JUNIO DE 1976.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor quince días después de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 29 DE DICIEMBRE DE 1976.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor a los treinta días de su publicación en el "Diario Oficial" de la Federación.
