@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-municipal-del-estado-de-queretaro-7662"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-07-15"
-last_updated: "1998-10-02"
+last_updated: "2000-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2000.
 
 Ley publicada en el Número 28 del Periódico Oficial del Estado de Querétaro, el jueves 15 de julio de 1993.
 
@@ -225,9 +225,11 @@ Previamente a la resolución respectiva, el municipio o municipios cuyos territo
 
 Los municipios conservarán los límites que tengan a la fecha de expedición de la presente Ley, según sus respectivos decretos de constitución o los reconocimientos que en ese sentido existieren.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 8.
 
-Para su organización territorial interna, los municipios se dividirán en Delegaciones, Subdelegaciones, Sectores y Manzanas, cuyas extensiones y límites serán determinados por los propios ayuntamientos en los términos de los reglamentos municipales.
+Para su organización territorial interna, los Municipios se dividirán en delegaciones, subdelegaciones, colonias, fraccionamientos, barrios, sectores y manzanas, cuyas extensiones y límites serán determinados por los propios Ayuntamientos en los términos de los reglamentos municipales.
 
 La división territorial del municipio a que se refiere este artículo se organizará de acuerdo con las siguientes bases:
 
@@ -285,9 +287,29 @@ MUNICIPIO DE TOLIMAN: Tolimán.
 
 La residencia de los ayuntamientos se radicará en las cabeceras municipales, y sólo cumpliendo con los requisitos del párrafo primero del artículo 103 de la Constitución Política del Estado, podrá cambiarse a otro lugar comprendido en los límites territoriales del municipio respectivo.
 
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2000)</small>
+
 ###### ARTICULO 11.
 
-Los centros de población de los municipios podrán tener las denominaciones de ciudad, poblado y comunidad, según el grado de concentración demográfica e importancia y eficiencia de los servicios públicos de los mismos. El Reglamento Interior de cada municipio determinará las características, condiciones y requisitos que deberán reunir los centros de población para que el ayuntamiento respectivo acuerde la denominación que les corresponda.
+Los centros de población de los Municipios, por su grado de concentración demográfica tendrán las siguientes categorías políticas;
+
+I.- Caserío, el que tenga:
+
+De 1 a 99 habitantes;
+
+II.- Ranchería, el que tenga:
+
+De 100 a 499 habitantes;
+
+III.- Pueblo, el que tenga:
+
+De 500 a 19,999 habitantes;
+
+IV.- Ciudad, el centro de población urbana que tenga:
+
+Más de 19,999 habitantes o ser Cabecera Municipal;
+
+Cuando mediante declaración que al respecto realice el Ayuntamiento de cada Municipio, que los centros de población han cumplido con el requisito anterior, ostentarán oficialmente la denominación de categoría política que les corresponda. En la misma forma se precederá para el cambio de categoría política y el Ayuntamiento correspondiente informará a la Legislatura del Estado para su conocimiento.
 
 ### CAPITULO CUARTO. De la Población
 
@@ -2108,3 +2130,11 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Perió
 ###### ARTICULO SEGUNDO.
 
 Se derogan las disposiciones que se opongan al presente decreto.
+
+P.O. 29 DE SEPTIEMBRE DE 2000.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 8 PRIMER PÁRRAFO Y 11 DE LA LEY ÓRGANICA MUNICIPAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. Esta ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan a la presente Ley.
