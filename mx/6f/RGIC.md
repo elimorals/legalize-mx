@@ -4,7 +4,7 @@ identifier: "RGIC"
 country: "mx"
 rank: "reglamento"
 publication_date: "1934-03-20"
-last_updated: "1937-11-01"
+last_updated: "1940-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=586&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "RGIC"
 
 REGLAMENTO PARA EL GOBIERNO INTERIOR DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE NOVIEMBRE DE 1937.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 27 DE ENERO DE 1940.
 
 Reglamento publicado en el Diario Oficial de la Federación el martes 20 de marzo de 1934.
 
@@ -54,7 +54,7 @@ En el año de la renovación del Poder Legislativo los diputados y senadores se 
 
 ###### ARTICULO 4º.
 
-Cuando a dicha reunión o a cualquiera otra posterior, concurrieren más de la mitad del número total de los diputados que deben enviar todos los Distritos Electorales y las dos terceras partes del de senadores, se constituirá Junta Preparatoria, nombrando entonces una y otra Cámara de entre sus respectivos miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y dos Secretarios.
+Cuando a dicha reunión o a cualquiera otra posterior, concurrieren más de la mitad del número total de los diputados que deben enviar todos los Distritos Electorales y las dos terceras partes del de senadores, se constituirá Junta Preparatoria nombrando entonces una y otra Cámara de entre sus respectivos miembros, en escrutinio secreto y a mayoría de votos, un Presidente, un Vicepresidente y dos Secretarios.
 
 ###### ARTICULO 5o.
 
@@ -88,7 +88,7 @@ Se nombrarán en el mismo día tres comisiones de cinco individuos de las respec
 
 ###### ARTICULO 12.
 
-El día primero de septiembre a las 17 horas, se reunirán las dos Cámaras en el Salón de Sesiones de la de Diputados para el solo efecto de la apertura del Congreso. Antes de que se presente el Presidente de la República, el Presidente de la Cámara de Diputados, que en ese acto lo es también del Congreso, hará en alta voz la siguiente declaración: "El Congreso (aquí el número que corresponda), de los Estados Unidos Mexicanos, abre hoy (aquí la fecha) el período de Sesiones ordinarias del primero (segundo o tercero) año de su ejercicio."
+El día primero de septiembre a las 17 horas, se reunirán las Dos Cámaras en el Salón de Sesiones de la de Diputados para el solo efecto de la apertura del Congreso. Antes de que se presente el Presidente de la República, el Presidente de la Cámara de Diputados, que en ese acto lo es también del Congreso, hará en alta voz la siguiente declaración: "El Congreso (aquí el número que corresponda), de los Estados Unidos Mexicanos, abre hoy (aquí la fecha) el período de Sesiones ordinarias del primero (segundo o tercero) año de su ejercicio."
 
 ###### ARTICULO 13.
 
@@ -220,9 +220,11 @@ De las sesiones
 
 Las sesiones de las Cámaras serán ordinarias, extraordinarias, públicas, secretas o permanentes. Ninguna Cámara podrá suspender sus sesiones por más de tres días, sin consentimiento de la otra.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
+
 ###### ARTICULO 28.
 
-Son ordinarias las que se celebren durante los días hábiles de los períodos constitucionales; serán públicas, comenzarán por regla general a las dieciséis horas y durarán hasta cuatro horas; pero por disposición del Presidente de la Cámara o por iniciativa de alguno de los individuos de ella, aprobada en los términos de este Reglamento, podrán ser prorrogadas.
+Son ordinarias las que se celebren durante los días hábiles de los períodos constitucionales; serán públicas, comenzarán por regla general a las 12 horas y durarán hasta cuatro horas; pero por disposición del Presidente de la Cámara o por iniciativa de alguno de los individuos de ella, aprobada en los términos de este Reglamento, podrán ser prorrogadas.
 
 Serán extraordinarias las que se celebren fuera de los períodos constitucionales o en los días feriados, dentro de ellos.
 
@@ -282,7 +284,7 @@ El Congreso tendrá sesiones extraordinarias cada vez que la Comisión Permanent
 
 ###### ARTICULO 36.
 
-Cuando se trate de renuncia, licencia o falta absoluta del Presidente de la República, estando el Congreso en sesiones, las Cámaras deberán reunirse en el local de la de Diputados a las nueve de la mañana del día siguiente a aquel en que se reciba la solicitud de renuncia o la nota de licencia, o haya ocurrido la falta aun cuando ese día sea feriado. La reunión de ambas Cámaras en sesión de Congreso de la Unión, para los efectos de los citados artículos 84, 85 y 86 de la Constitución, se verificará sin necesidad de convocatoria alguna y la sesión será dirigida por la Mesa de la Cámara de Diputados.
+Cuando se trate de renuncia, licencia o falta absoluta del Presidente de la República, estando el Congreso en sesiones, las Cámaras deberán reunirse en el local de la de Diputados a las nueve de la mañana del día siguiente a aquel en que se reciba la solicitud de renuncia o la nota de licencia, o haya ocurrido la falta aun cuando ese día sea feriado. La reunión de ambas Cámaras en sesión de Congreso de la Unión, para los efectos de los citados artículos 84, 85 y 86 de la Constitución, se verificará sin necesidad de convocatoria alguna y la sesión será dirigida por la mesa de la Cámara de Diputados.
 
 ###### ARTICULO 37.
 
@@ -300,7 +302,7 @@ A continuación se preguntará si el asunto que se versa es de tratarse en sesi�
 
 ###### ARTICULO 40.
 
-Cuando el Congreso General se reúna en sesiones extraordinarias, se ocupará exclusivamente del objeto u objetos designados en la convocatoria y si no los hubiere llenado el día en que deban abrirse las sesiones ordinarias, cerrará aquéllas dejando los puntos pendientes para ser tratados en éstas.
+Cuando el Congreso General se reúna en sesiones extraordinarias, se ocupará exclusivamente del objeto u objetos designados en la convocatoria y si no los hubiere llenado el día en que deban abrirse las sesiones ordinarias, cerrará aquellas dejando los puntos pendientes para ser tratados en éstas.
 
 ###### ARTICULO 41.
 
@@ -374,7 +376,7 @@ I.- Al Presidente de la República;
 
 II.- A los diputados y senadores al Congreso General;
 
-III.- A las Legislaturas de los Estados.
+III.- A las legislaturas de los Estados.
 
 ###### ARTICULO 56.
 
@@ -402,9 +404,11 @@ En los casos de urgencia u obvia resolución, calificados por el voto de las dos
 
 Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión o Comisiones correspondientes y éstas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso de la Cámara se calificaren de urgente o de obvia resolución.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
+
 ###### ARTICULO 61.
 
-Toda petición de particulares, corporación o autoridad que no tenga derecho de iniciativa, se mandará pasar por el Presidente de la Cámara a la Comisión que corresponda, según la naturaleza del asunto de que se trate. Las Comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
+Toda petición de particulares, corporaciones o autoridades que no tenga derecho de iniciativa, se mandará pasar directamente por el C. Presidente de la Cámara a la comisión que corresponda, según la naturaleza del asunto de que se trate. Las Comisiones dictaminarán si son de tomarse o no en consideración estas peticiones.
 
 ###### ARTICULO 62.
 
@@ -426,95 +430,11 @@ Para el despacho de los negocios se nombrarán, de cada una de las Cámaras, Com
 
 Las Comisiones Permanentes se elegirán en la primera sesión que verifiquen las Cámaras después de la apertura del período de sesiones de su primer año de su ejercicio.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
+
 ###### ARTICULO 66.
 
-Las Comisiones Permanentes serán:
-
-Aguas e Irrigación Nacionales,
-
-Aranceles y Comercio Exterior,
-
-Beneficencia,
-
-Bienes y Recursos Nacionales,
-
-Bosques, Caza y Pesca,
-
-Colonización,
-
-Comercio Exterior e Interior,
-
-Corrección de Estilo,
-
-Correos y Telégrafos
-
-Crédito Moneda e Instituciones de Crédito,
-
-Departamento del Distrito Federal,
-
-Economía y Estadística,
-
-Educación Pública,
-
-Ejidal,
-
-Fabriles,
-
-Ferrocarriles,
-
-Fomento Agrícola,
-
-Gobernación,
-
-Gran Comisión,
-
-Guerra,
-
-Impuestos,
-
-Industria Eléctrica,
-
-Industrias,
-
-Primera de Insaculación de Jurados,
-
-Segunda de Insaculación de Jurados,
-
-Justicia,
-
-Justicia Militar,
-
-Marina
-
-Migración,
-
-Minas,
-
-Obras Públicas,
-
-Petróleo,
-
-Previsión Social,
-
-Puntos Constitucionales,
-
-Reglamento,
-
-Relaciones Exteriores,
-
-Salubridad,
-
-Sanidad Militar,
-
-Seguros,
-
-Servicio Consular y Diplomático,
-
-Tierras Nacionales,
-
-Trabajo,
-
-Vías Generales de Comunicación.
+Las Comisiones Permanentes serán: Agua o Irrigaciones Nacionales; Agricultura y Fomento; Asistencia Pública; Aranceles y Comercio Exterior; Asuntos Indígenas, Bienes y Recursos Nacionales; Colonización; Comercio Exterior e Interior; Corrección de Estilo; Correos y Telégrafos; Crédito Moneda e Instituciones de Crédito; Defensa Nacional, Departamento Agrario; Departamento del Distrito Federal; Economía y Estadística; Educación Pública; Ejidal; Ferrocarriles; Fomento Agrícola; Fomento Cooperativo; Gobernación; Gran Comisión; Hacienda; Impuestos; Industria Eléctrica; Industrias; Primera de Insaculación de Jurados; Segunda de Insaculación de Jurados; Justicia; Justicia Militar; Marina; Materiales de Guerra; Migración; Minas; Obras Públicas; Petróleo; Previsión Social; Puntos Constitucionales; Reglamentos; Relaciones Exteriores; Salubridad; Sanidad Militar; Seguros; Servicio Consular y Diplomático; Tierras Nacionales; Trabajo, Vías Generales de Comunicación.
 
 ###### ARTICULO 67.
 
@@ -546,7 +466,9 @@ II.- Cuando una Diputación conste solamente de dos Diputados o cuando siendo m�
 
 III.- Si un solo Diputado constituye una Diputación, o uno solo de los que deban formarla está presente al organizarse la Gran Comisión, él será quien represente en ella a su Estado, Territorio o el Distrito Federal, respectivamente;
 
-IV.- En el Senado, el Senador más antiguo que esté presente representará a su Estado o al Distrito Federal;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 1940)</small>
+
+IV.- En el Senado, la elección de los veintinueve miembros de la Gran Comisión se hará por sorteo de entre los dos Senadores de cada Estado y del Distrito Federal, que estuvieren presentes. Si al efectuarse esta elección no estuviere presente más de un Senador por un Estado, aquél formará parte de la Gran Comisión y si no estuviere ninguno, el que primero sea recibido será miembro de ella;
 
 V.- Si ninguno de los diputados o senadores que deban representar en la Gran Comisión a un Estado o Territorio o al Distrito Federal, estuviere presente al nombrarse aquélla, el primero que sea recibido por su respectiva Cámara entrará desde luego a formar parte de dicha Gran Comisión, mientras la Diputación hace la elección por mayoría.
 
@@ -594,9 +516,11 @@ Cada uno o más individuos de una Comisión que tuvieren interés personal en al
 
 Los Presidentes de las Comisiones son responsables de los expedientes que pasen a su estudio, y a este efecto, deberán firmar el recibo de ellos en el correspondiente libro de conocimientos. Dicha responsabilidad cesará cuando fuesen devueltos.
 
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 1940)</small>
+
 ###### ARTICULO 84.
 
-El Presidente de la Cámara, no podrá pertenecer a ninguna Comisión durante el tiempo de su encargo.
+El Presidente y los Secretarios de las Cámaras, no podrán pertenecer a ninguna Comisión durante el tiempo de sus encargos.
 
 ###### ARTICULO 85.
 
@@ -1020,7 +944,7 @@ Los empleados y obreros que presten sus servicios al Congreso de la Unión, no s
 
 ###### ARTICULO 178.
 
-Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto (sic) de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
+Durante los recesos del Congreso, las Comisiones Administrativas de ambas Cámaras, presentarán a la Comisión Permanente, para su examen y aprobación, los Presupuesto de dietas, sueldos y gastos de las mismas, y de sus Secretarías, y la Comisión Inspectora, los de la Contaduría Mayor de Hacienda.
 
 ###### ARTICULO 179.
 
@@ -1032,11 +956,11 @@ El último día útil de su ejercicio, en cada período la Comisión Permanente 
 
 ###### ARTICULO 181.
 
-Además, en los inventarios correspondientes, en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
+Además, en los inventarios correspondientes en el último receso de cada Legislatura, se comprenderán los expedientes que la Comisión Permanente hubiese recibido de las Cámaras al clausurarse sus últimas sesiones ordinarias, para los efectos de la fracción III del artículo 79 de la Constitución.
 
 ###### ARTICULO 182.
 
-Cuando el Congreso General, o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
+Cuando el Congreso General o una sola de las Cámaras que lo componen, celebre sesión extraordinaria, la Comisión Permanente no suspenderá sus trabajos, sino en aquello que se refiere al asunto para el que se haya convocado a sesión extraordinaria.
 
 ###### ARTICULO 183.
 
@@ -1128,7 +1052,7 @@ Los tesoreros cobrarán y recibirán de la Tesorería de la Federación, los cau
 
 ###### ARTICULO 203.
 
-Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o de la Permanente. El Presidente de cada Cámara o el de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
+Los Tesoreros descontarán de las cantidades que deben entregar como dietas a los diputados y senadores, la suma que corresponda a los días que dejaron de asistir conforme a la orden escrita del Presidente de la Cámara o el de la Permanente. El Presidente de cada Cámara o de la Permanente, en su caso, pasarán oportunamente las listas de asistencia a las sesiones.
 
 ###### ARTICULO 204.
 
@@ -1219,5 +1143,9 @@ D.O.F. 1 DE NOVIEMBRE DE 1937.
 ###### ARTICULO UNICO.
 
 Se deroga el Decreto que modifica el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos, aprobado por la XXXVI Legislatura en sesión del 30 de diciembre de 1935 y publicado en el "Diario Oficial" de la Federación, de fecha 16 de octubre actual, quedando en vigor las disposiciones contenidas en el reglamento publicado el 20 de marzo de 1934.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
+
+D.O.F. 27 DE ENERO DE 1940.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE A LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL EN MATERIA COMUN Y PARA TODA LA REPUBLICA EN MATERIA FEDERAL.
