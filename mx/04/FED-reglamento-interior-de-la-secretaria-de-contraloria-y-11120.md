@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-secretaria-de-contraloria-y-11120"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-07-16"
-last_updated: "2003-03-13"
+last_updated: "2003-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11120&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2001-07-12"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE CONTRALORIA Y DESARROLLO ADMINISTRATIVO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 13 DE MARZO DE 2003.
+N. DE. EL PRESENTE REGLAMENTO FUE ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE LA FUNCION PUBLICA PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACION EL VIERNES 12 DE DICIEMBRE DE 2003.
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación el lunes 16 de julio de 2001.
 
@@ -1858,3 +1860,21 @@ Los recursos de revisión presentados en contra de las sanciones impuestas por e
 CUARTO.- Los procedimientos de aplicación de sanciones que en materia de adquisiciones, arrendamientos, servicios de cualquier naturaleza, obras públicas y servicios relacionados con las mismas, se encuentren en trámite o pendientes de resolución bajo los supuestos de la Ley de Adquisiciones y Obras Públicas, se tramitarán y resolverán por la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal.
 
 QUINTO.- Sin perjuicio de lo anterior, el Titular de la Unidad de Normatividad de Adquisiciones, Obras Públicas, Servicios y Patrimonio Federal, podrá turnar los asuntos referidos en el artículo que antecede al titular del área de responsabilidades del órgano interno de control que corresponda de conformidad con el presente Decreto, para su trámite y resolución en los términos señalados en el artículo tercero transitorio de este ordenamiento.
+
+D.O.F. 12 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo de fecha 12 de julio de 2001, publicado en el Diario Oficial de la Federación el 16 del mismo mes y año, y se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos en trámite al entrar en vigor este Reglamento, que conforme al mismo deban pasar de una unidad administrativa a otra u otras, se resolverán y tramitarán conforme a las atribuciones conferidas por este Reglamento a las unidades administrativas correspondientes.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones que en las leyes, reglamentos y demás disposiciones jurídicas o administrativas de carácter federal se hagan del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo se entenderán referidas a este Reglamento.
