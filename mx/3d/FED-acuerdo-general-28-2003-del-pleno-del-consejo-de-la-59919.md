@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-28-2003-del-pleno-del-consejo-de-la-59919"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-06-06"
-last_updated: "2003-09-12"
+last_updated: "2003-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59919&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2003-05-28"
 
 ACUERDO GENERAL 28/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA ORGANIZACION Y FUNCIONAMIENTO DE LA VISITADURIA JUDICIAL DEL CONSEJO DE LA JUDICATURA FEDERAL Y ABROGA LOS DIVERSOS ACUERDOS GENERALES 44/1998 Y 54/1999, DEL PROPIO CUERPO COLEGIADO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE SEPTIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE DICIEMBRE DE 2003.
 
 Acuerdo publicado en la Primera sección del Diario Oficial de la Federación, el viernes 6 de junio de 2003.
 
@@ -377,21 +377,21 @@ GENERALIDADES
 
 Efectos. Las visitas ordinarias de inspección tienen como objeto recabar, en forma metódica, información respecto al funcionamiento de los órganos jurisdiccionales, así como al desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 58/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 91/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 36.
 
-Periodicidad. Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de un informe circunstanciado que rinda el titular, el Presidente en caso de tribunal colegiado, o el encargado del despacho.
+Periodicidad. Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: Una inspección se realizará de manera física por los visitadores judiciales "B" en la sede del órgano jurisdiccional; la otra, se verificará a través de un informe circunstanciado que rinda el titular, el Presidente en caso de tribunal colegiado, o el encargado del despacho.
 
-Los órganos jurisdiccionales itinerantes serán inspeccionados cuando lo sean aquellos a quienes auxilien, sin que obste el tiempo que tengan en funciones.
+Los órganos jurisdiccionales itinerantes serán inspeccionados, conforme a lo dispuesto en el párrafo anterior, de acuerdo con el programa de visitas y el calendario para la presentación de informes circunstanciados, que elabore el Visitador General.
 
-Si un órgano jurisdiccional concluye funciones o termina de apoyar a otro antes de la fecha programada para su inspección ordinaria, deberá rendir un informe de conclusión, que abarque el periodo no inspeccionado. Dicho informe contendrá similares características a las que se refiere, en lo conducente, la Sección 4a. de este capítulo. El informe deberá rendirse el último día en que deje de funcionar o prestar apoyo.
+Si un órgano jurisdiccional concluye funciones antes de la fecha programada para su inspección ordinaria, deberá rendir un informe de conclusión, que abarque el periodo no inspeccionado. Dicho informe contendrá similares características a las que se refiere, en lo conducente, la Sección 4a. de este capítulo. El informe deberá rendirse el último día en que el órgano jurisdiccional de que se trate deje de funcionar o prestar apoyo.
 
-> <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 58/2003 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO POR EL PUNTO UNICO DEL ACUERDO GENERAL 91/2003, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 16 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 37.
 
-Duración. Las visitas ordinarias durarán a lo más dos días tratándose de tribunales colegiados y unitarios de Circuito; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de Procesos Penales Federales y juzgados denominados “A” Y “B”, en cuyo caso la duración de la visita no excederá de cuatro días. Se agregará un día más en caso de que el órgano jurisdiccional visitado cuente con el apoyo de otro itinerante.
+Duración. Las visitas ordinarias durarán a lo más dos días tratándose de tribunales colegiados y unitarios de Circuito; tres días para la inspección de los juzgados de Distrito, con excepción de los juzgados de Procesos Penales Federales y juzgados denominados "A" y "B", en cuyo caso la duración de la visita no excederá de cuatro días, y un día para juzgado itinerante.
 
 El Visitador General podrá autorizar la modificación de los plazos señalados, siempre que exista causa justificada.
 
@@ -612,3 +612,11 @@ PRIMERO.- El presente acuerdo entrará en vigor el día de su aprobación.
 SEGUNDO.- Los Juzgados de Distrito Itinerantes que actualmente apoyan a juzgados de Distrito que hayan sido inspeccionados, serán visitados conforme lo determine el Visitador General.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 16 DE DICIEMBRE DE 2003.
+
+PRIMERO.- Publíquese el presente Acuerdo General, en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+SEGUNDO.- Las visitas ordinarias de inspección a juzgados de Distrito itinerantes que se hubieran programado para realizarse durante el año dos mil tres, con posterioridad a la entrada en vigor del Acuerdo General 75/2003, quedarán sustituidas por el informe correspondiente de terminación de sus funciones de apoyo a diverso órgano jurisdiccional.
+
+TERCERO.- El presente Acuerdo General, entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
