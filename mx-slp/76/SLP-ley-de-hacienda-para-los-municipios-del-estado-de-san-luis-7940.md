@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-los-municipios-del-estado-de-san-luis-7940
 country: "mx"
 rank: "ley"
 publication_date: "1988-01-01"
-last_updated: "1992-12-31"
+last_updated: "1994-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7940&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE SAN LUIS POTOSI
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1994.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de San Luis Potosí, el 1o. de enero de 1988.
 
@@ -69,9 +69,27 @@ Son Derechos las contraprestaciones establecidas por el Poder Público mediante 
 
 Son Productos los ingresos que perciba el Estado por actividades que no correspondan al desempeño de sus funciones propias de Entidad de Derecho Público o por convenios, contratos o cualesquiera otros actos relacionados con la explotación de bienes patrimoniales.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 1994)</small>
+
 ###### ARTICULO 6.
 
-Son Aprovechamientos los recargos, las multas y en general, los ingresos que no queden clasificados en los conceptos anteriores.
+Son Aprovechamientos los que constituyen ingresos por:
+
+I.- Rezagos por ejercicios anteriores.
+
+II.- Recargos por falta de pago oportuno.
+
+III.- Multas.
+
+IV.- Gastos de ejecución.
+
+V.- Herencias, legados y donaciones.
+
+VI.- Reintegros y reembolsos.
+
+VII.- Indemnizaciones.
+
+VIII.- Otros no comprendidos en las fracciones anteriores.
 
 ###### ARTICULO 7.
 
@@ -319,9 +337,13 @@ II.- Los titulares de certificados de participación inmobiliaria no reembolsabl
 
 III.- Los usuarios a título gratuito y los poseedores o detentadores cuando el propietario se encuentre substraído a la tenencia material del predio o éste no sea legalmente conocido.
 
-IV.- Los ejidos representados por los Comisarios Ejidales, respecto a las tierras que se les hubieran entregado conforme a la Resolución Presidencial correspondiente.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1994)</small>
 
-V.- Los núcleos de población que de hecho o por derecho guarden el estado comunal, respecto a las tierras que les pertenezcan y a los que representará la persona que designe la Asamblea General de Comuneros.
+IV.- Los ejidatarios.
+
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 1994)</small>
+
+V.- Los comuneros.
 
 VI.- Los fideicomitentes, mientras el fiduciario no transmita la propiedad del predio al fideicomisario o a terceras personas en ejecución del fideicomiso o de los fideicomisarios que estén en posesión del predio o predios fideicometidos, aún cuando no se les haya transmitido la propiedad.
 
@@ -943,6 +965,46 @@ El entero de estas contribuciones podrá hacerse directamente ante los organismo
 
 ARTICULO 126 BIS.- Los derechos que causen los servicios prestados por la Dirección Municipal de Tránito (sic), serán fijados por las Leyes de Ingresos de los Municipios, o por el Reglamento respectivo, y el Código Fiscal del Estado.
 
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, P.O. 31 DE ENERO DE 1994)</small>
+
+### CAPITULO DECIMO SEXTO. ESTACIONAMIENTOS EN LA VÍA PÚBLICA
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### ARTICULO 126-A.
+
+Es objeto de este derecho la ocupación de la vía pública y los lugares de uso común como estacionamiento de vehículos.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### ARTICULO 126-B.
+
+Son sujetos de este derecho los conductores de vehículos que ocupan la vía pública y los lugares de uso común como estacionamiento de vehículos.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### ARTICULO 126-C.
+
+El estacionamiento de vehículos solamente podrá realizarse en las calles y sitios fijos por los ayuntamientos, en los horarios y con las modalidades que éstos señalen.
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### ARTICULO 126-D.
+
+Los sujetos de este derecho deberán cubrir la tarifa que establezca la Ley de Ingresos de cada municipio.
+
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 31 DE ENERO DE 1994)</small>
+
+### CAPITULO DECIMO SEPTIMO. MONITOREO VEHICULAR
+
+> <small>(ADICIONADO, P.O. 31 DE ENERO DE 1994)</small>
+
+###### ARTICULO 126-E.
+
+Por la verificación obligatoria sobre emisión de contaminantes de vehículos automotores, su propietario o poseedor deberá pagar previamente los derechos establecidos en las leyes de ingresos municipales.
+
+El pago de los derechos de la verificación a que se refiere este artículo deberá hacerse en las fechas y plazos que indique el Programa de Verificación Vehicular que será publicado en el Periódico Oficial del Estado y en los de mayor circulación en la Entidad, previamente a la prestación del servicio.
+
 ### CAPITULO UNICO. PRODUCTOS
 
 ## TITULO CUARTO (SIC)
@@ -979,7 +1041,7 @@ La venta de bienes mostrencos se hará en subasta pública, observando lo dispue
 
 La venta de lotes en panteones se hará de acuerdo con lo establecido en las Leyes de Ingresos Municipales.
 
-## TITULO SEXTO. CONTRIBUCIONES DE MEJORAS
+## TITULO SEXTO. APROVECHAMIENTOS
 
 ###### ARTICULO 134.
 
@@ -1346,3 +1408,7 @@ Estas reformas entrarán en vigor a partir del 1o. de enero de 1993.
 ###### ARTICULO TERCERO.
 
 A partir de la fecha en que se encuentren en vigor estas reformas, se abrogan las disposiciones que se opongan a ellas.
+
+P.O. 31 DE ENERO DE 1994.
+
+UNICO.- No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que realicen durante el año de 1994 las Asociaciones Religiosas constituidas en los términos de la Ley de la materia.
