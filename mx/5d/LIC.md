@@ -4,7 +4,7 @@ identifier: "LIC"
 country: "mx"
 rank: "ley"
 publication_date: "1990-07-18"
-last_updated: "1993-07-23"
+last_updated: "1993-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIC"
 
 LEY DE INSTITUCIONES DE CREDITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE JULIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE DICIEMBRE DE 1993.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 18 de julio de 1990.
 
@@ -154,17 +154,19 @@ En los casos de revocación a que se refieren las fracciones I y II del artícul
 
 En los supuestos de que se niegue la autorización, se desista el interesado o se inicien operaciones en los términos previstos en esta Ley, se devolverá al solicitante el principal y accesorios del depósito a que se refiere la citada fracción III.
 
-Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región, así como preservando el control de la banca mexicana en manos de mexicanos.
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público, con sujeción a lo dispuesto en el Plan Nacional de Desarrollo, promoverá una adecuada descentralización del Sistema Bancario Mexicano, evitando una excesiva concentración de instituciones de crédito en una misma región.|
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 11.
 
-El capital pagado de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la institución.
+El capital social de las instituciones de banca múltiple estará formado por una parte ordinaria y podrá también estar integrado por una parte adicional. El capital social ordinario de las instituciones de banca múltiple se integrará por acciones de la serie "A", que representarán el cincuenta y uno por ciento del capital ordinario de la institución.
 
-Asimismo, el cuarenta y nueve por ciento restante de la parte ordinaria del capital, podrá integrarse indistinta o conjuntamente por acciones series "A", "B" y "C"; la serie "C" sólo podrá emitirse hasta por el treinta por ciento de dicho capital.
+Asimismo, el cuarenta y nueve por ciento restante de la parte ordinaria del capital social, podrá integrarse indistinta o conjuntamente por acciones serie "A", "B" y "C"; la serie "C" sólo podrá emitirse hasta por el treinta por ciento de dicho capital ordinario.
 
-El capital pagado también podrá integrarse con una parte adicional, representada por acciones serie "L", que se emitirán hasta por un monto equivalente al treinta por ciento del capital ordinario de la institución, previa autorización de la Comisión Nacional de Valores.
+En su caso, el capital social adicional estará representado por acciones serie "L", que podrán emitirse hasta por un monto equivalente al treinta por ciento del capital social ordinario de la institución, previa autorización de la Comisión Nacional de Valores.
 
 ###### ARTICULO 12.
 
@@ -232,19 +234,19 @@ La institución deberá tener a disposición de los representantes de los accion
 
 Los escrutadores estarán obligados a cerciorarse de la observancia de lo dispuesto en este artículo e informar sobre ello a la asamblea, lo que se hará constar en el acta respectiva.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 17.
 
-Ninguna persona física o moral podrá adquirir directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones por más del cinco por ciento del capital pagado de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
+Ninguna persona física o moral podrá adquirir directa o indirectamente mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de acciones por más del cinco por ciento del capital social de una institución de banca múltiple. La Secretaría de Hacienda y Crédito Público podrá autorizar, cuando a su juicio se justifique, un porcentaje mayor, sin exceder en caso alguno del diez por ciento.
 
 Se exceptúa de lo dispuesto en el párrafo anterior a:
 
 I. El Gobierno Federal;
 
-> <small>(REFORMADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-II. Los inversionistas institucionales, señalados en las fracciones I del artículo 13 y III del 14 de esta Ley, siempre y cuando su inversión no exceda en lo individual o en conjunto del quince por ciento del capital pagado de la institución emisora. Las instituciones de crédito deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción;
+II. Los inversionistas institucionales, señalados en las fracciones I del artículo 13 y III del 14 de esta Ley, siempre y cuando su inversión no exceda en lo individual o en conjunto del veinte por ciento del capital social de la institución emisora. Las instituciones de banca múltiple deberán establecer mecanismos que permitan el cumplimiento de lo dispuesto en esta fracción;
 
 III. El Fondo Bancario de Protección al Ahorro;
 
@@ -254,11 +256,33 @@ V. Los accionistas de instituciones de banca múltiple que adquieran acciones co
 
 VI. Las instituciones de banca múltiple, cuando adquieran acciones por cuenta propia conforme a lo previsto en programas aprobados por la Secretaría de Hacienda y Crédito Público conducentes a la fusión de las mismas.
 
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+VII. Las entidades financieras del exterior que inviertan en acciones serie "C" del capital social de una institución de banca múltiple quienes, previa autorización de la Secretaría de Hacienda y Crédito Público, podrán adquirir el control de acciones representativas de hasta el veinte por ciento del capital social de una institución de banca múltiple, siempre y cuando el capital social de dichas entidades financieras del exterior se encuentre diversificado a juicio de la propia Secretaría. Si dicha diversificación disminuyera la Secretaría de Hacienda y Crédito Público podrá requerir a la entidad financiera del exterior que ajuste su inversión en acciones de la Serie "C" a los límites señalados en el primer párrafo.
+
 Los mencionados límites se aplicarán, asimismo, a la adquisición del control por parte de personas que la Secretaría de Hacienda y Crédito Público, considere para estos efectos como una sola persona.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+ARTICULO 17 bis.- Se requerirá autorización de la Secretaría de Hacienda y Crédito Público, quien oirá la opinión de la Comisión Nacional Bancaria y del Banco de México, para que cualquier grupo de personas adquiera, directa o indirectamente, mediante una o varias operaciones de cualquier naturaleza, simultáneas o sucesivas, el control de una institución de banca múltiple.
+
+Para los efectos señalados en el presente artículo, se entenderá que un grupo de personas adquiere el control de una institución de banca múltiple cuando sea propietario de treinta por ciento o más de las acciones representativas del capital social de la propia institución, tenga el control de la asamblea general de accionistas, esté en posibilidad de nombrar a la mayoría de los miembros del consejo de administración, o por cualquier otro medio controle a la institución de banca múltiple de que se trate.
+
+Las solicitudes de autorización a que se refiere el primer párrafo de este artículo deberán acompañarse de lo siguiente:
+
+I. Relación de las personas que pretendan adquirir el control de la institución de banca múltiple de que se trate indicando el capital que suscribirán, la manera en que realizarán su pago, así como el origen de los recursos con que se realizará dicho pago;
+
+II. Relación de los consejeros y directivos que nombrarían en la institución de banca múltiple de la que pretenden adquirir el control;
+
+III. Plan general de funcionamiento de la institución de banca múltiple de que se trate, el cual deberá contemplar los aspectos señalados por la fracción II del artículo 10 de esta Ley; y
+
+IV. La demás documentación que a juicio de la Secretaría de Hacienda y Crédito Público se requiera a efecto de evaluar la solicitud correspondiente.
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 ###### ARTICULO 18.
 
-La institución se abstendrá de inscribir en el registro de sus acciones las transmisiones que se efectúen en contravención de lo dispuesto por los artículos 13, 14, 15 y 17 de esta Ley, debiendo rechazar su inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes al que lo conozca.
+La institución se abstendrá de inscribir en el registro de sus acciones las transmisiones que se efectúen en contravención de lo dispuesto por los artículos 13, 14, 15, 17 y 17 bis de esta Ley, debiendo rechazar su inscripción e informar sobre la transmisión a la Secretaría de Hacienda y Crédito Público, dentro de los cinco días hábiles siguientes al que lo conozca.
 
 Las personas que contravengan lo previsto en los artículos señalados en el párrafo anterior, serán sancionadas por la Secretaría de Hacienda y Crédito Público, la cual oyendo previamente al interesado, determinará en su caso, que se vendan a la propia institución las acciones que excedan de los límites fijados al cincuenta por ciento del menor de los valores siguientes:
 
@@ -272,9 +296,11 @@ Lo anterior, sin perjuicio de la imposición de las sanciones que conforme a és
 
 Las acciones así reembolsadas deberán convertirse en acciones de tesorería.
 
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 19.
 
-El capital mínimo de cada una de las instituciones de banca múltiple será la cantidad equivalente al 0.5 por ciento de la suma del capital pagado y reservas de capital que alcancen en su conjunto dichas instituciones al 31 de diciembre del año inmediato anterior.
+El capital mínimo de cada una de las instituciones de banca múltiple será la cantidad equivalente al 0.12 por ciento de la suma del capital neto que alcancen en su conjunto dichas instituciones al 31 de diciembre del año inmediato anterior.
 
 En el transcurso del primer trimestre de cada año, la Comisión Nacional Bancaria dará a conocer el monto del capital mínimo con el que deberán contar las instituciones, a más tardar el último día hábil del año de que se trate. Excepcionalmente, la Secretaría de Hacienda y Crédito Público podrá ampliar este plazo en casos individuales, tomando en cuenta la situación económica tanto de la institución respectiva, como de la región en que opere.
 
@@ -620,13 +646,137 @@ VI. Aprobar los informes anuales de actuación que le presenten los consejeros s
 
 VII. Los demás de carácter consultivo que se señalen en el reglamento orgánico.
 
-### CAPITULO I. De las Reglas Generales
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-### CAPITULO II. De las Operaciones Pasivas
+### CAPITULO III
+
+De las Filiales de Instituciones Financieras del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-A.
+
+Para efectos de esta Ley se entenderá por:
+
+I. Filial: La sociedad mexicana autorizada para organizarse y operar, conforme a esta Ley, como institución de banca múltiple o sociedad financiera de objeto limitado, y en cuyo capital participe una Institución Financiera del Exterior o una Sociedad Controladora Filial en los términos del presente capítulo;
+
+II. Institución Financiera del Exterior: La entidad financiera constituida en un país con el que México haya celebrado un tratado o acuerdo internacional en virtud del cual se permita el establecimiento en territorio nacional de Filiales; y
+
+III. Sociedad Controladora Filial: La sociedad mexicana autorizada para constituirse y operar como sociedad controladora en los términos de la Ley para Regular las Agrupaciones Financieras, y en cuyo capital participe una Institución Financiera del Exterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-B.
+
+Las Filiales se regirán por lo previsto en los tratados o acuerdos internacionales correspondientes, el presente capítulo, las disposiciones contenidas en esta Ley aplicables a las instituciones de banca múltiple o a las sociedades financieras de objeto limitado, según corresponda, y las reglas para el establecimiento de Filiales que al efecto expida la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria.
+
+La Secretaría de Hacienda y Crédito Público estará facultada para interpretar para efectos administrativos las disposiciones sobre servicios financieros que se incluyan en los tratados o acuerdos internacionales a que hace mención el párrafo anterior, así como para proveer a su observancia.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-C.
+
+Para organizarse y operar como Filial se requiere autorización del Gobierno Federal, que compete otorgar discrecionalmente a la Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria. Por su naturaleza estas autorizaciones serán intransmisibles.
+
+Las autorizaciones que al efecto se otorguen, así como sus modificaciones, se publicarán en el Diario Oficial de la Federación y en dos periódicos de amplia circulación del domicilio social de la Filial de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-D.
+
+Las autoridades financieras, en el ámbito de sus respectivas competencias, garantizarán el cumplimiento de los compromisos de trato nacional que en su caso sean asumidos por México, en los términos establecidos en el tratado o acuerdo internacional aplicable.
+
+Las Filiales podrán realizar las mismas operaciones que las instituciones de banca múltiple o las sociedades financieras de objeto limitado, según corresponda, a menos que el tratado o acuerdo internacional aplicable establezca alguna restricción.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-E.
+
+Para invertir en el capital social de una Filial, la Institución Financiera del Exterior deberá realizar, en el país en el que esté constituida, directa o indirectamente, de acuerdo con la legislación aplicable, el mismo tipo de operaciones que la Filial de que se trate esté facultada para realizar en México, de conformidad con lo que señalen la presente Ley y las reglas a las que se refiere el primer párrafo del artículo 45-B.
+
+Se exceptúa de lo dispuesto en el párrafo anterior a las Filiales en cuyo capital participe una Sociedad Controladora Filial de conformidad con la Ley para Regular las Agrupaciones Financieras y las reglas mencionadas en el párrafo anterior.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-F.
+
+La solicitud de autorización para organizarse y operar como Filial deberá cumplir con los requisitos establecidos en la presente Ley y en las reglas a las que se refiere el primer párrafo del artículo 45-B.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-G.
+
+El capital social de las Filiales deberá estar integrado por una sola serie de acciones. Una Institución Financiera del Exterior, directa o indirectamente, o una Sociedad Controladora Filial deberá ser en todo momento propietaria de acciones que representen cuando menos el noventa y nueve por ciento del capital social de la Filial, salvo en el caso a que se refiere el último párrafo del artículo 45-H.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-H.
+
+Las acciones representativas del capital social de una Filial únicamente podrán ser enajenadas previa autorización de la Secretaría de Hacienda y Crédito Público.
+
+Salvo en el caso en que el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, para llevar a cabo la enajenación deberán modificarse los estatutos sociales de la Filial cuyas acciones sean objeto de la operación. Tratándose de instituciones de banca múltiple Filiales, deberá cumplirse con lo dispuesto en el Capítulo I del presente Título.
+
+Cuando el adquirente sea una Institución Financiera del Exterior, una Sociedad Controladora Filial o una Filial, deberá observarse lo dispuesto en las fracciones I, III y IV del artículo 45-I. Cuando estas personas adquieran acciones representativas del capital social de una institución de banca múltiple Filial deberá también observarse lo dispuesto en la fracción V del mencionado artículo 45-I.
+
+No se requerirá autorización de la Secretaría de Hacienda y Crédito Público ni modificación de estatutos cuando la transmisión de acciones sea, en garantía o propiedad, al Fondo Bancario de Protección al Ahorro.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-I.
+
+La Secretaría de Hacienda y Crédito Público podrá autorizar a las Instituciones Financieras del Exterior, a las Sociedades Controladoras Filiales o a las Filiales, la adquisición de acciones representativas del capital social de una institución de banca múltiple o de una sociedad financiera de objeto limitado, según corresponda, siempre y cuando se cumplan los siguientes requisitos:
+
+I. La Institución Financiera del Exterior, la Sociedad Controladora Filial o la Filial, según sea el caso, deberá adquirir acciones que representen cuando menos el noventa y nueve por ciento del capital social;
+
+II. Deberán modificarse los estatutos sociales de la institución de banca múltiple o de la sociedad financiera de objeto limitado, cuyas acciones sean objeto de enajenación, a efecto de cumplir con lo dispuesto en el presente capítulo;
+
+III. Cuando el adquirente sea una Institución Financiera del Exterior o una Sociedad Controladora Filial que ya sea propietaria de acciones representativas del capital social de una Filial, deberá fusionar ambas instituciones de banca múltiple o sociedades financieras de objeto limitado, según corresponda, a efecto de controlar solamente una Filial del mismo tipo;
+
+IV. Cuando el adquirente sea una Filial deberá fusionarse con la institución de banca múltiple o sociedad financiera de objeto limitado que haya sido adquirida; y
+
+V. Tratándose de instituciones de banca múltiple, la suma del capital de la institución adquirida y del capital de la institución de banca múltiple Filial adquirente, o en cuyo capital participe mayoritariamente la Institución Financiera del Exterior o la Sociedad Controladora Filial adquirente, no podrá exceder del límite de capital que en su caso se haya establecido en el tratado o acuerdo internacional aplicable.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-J.
+
+Las Filiales no podrán emitir obligaciones subordinadas, salvo para ser adquiridas por la Institución Financiera del Exterior propietaria, directa o indirectamente, de las acciones de la Filial emisora. Tampoco les estará permitido a las Filiales el establecimiento de sucursales o subsidiarias fuera del territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-K.
+
+El consejo de administración de las instituciones de banca múltiple Filiales estará integrado por lo menos por cinco consejeros. La mayoría de los consejeros de una Filial deberá residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-L.
+
+Se exceptúa a los directores generales de las instituciones de banca múltiple Filiales del requisito previsto en la fracción I del artículo 24 de la presente Ley. Los directores generales de las Filiales deberán residir en territorio nacional.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-M.
+
+El órgano de vigilancia de las Filiales estará integrado por lo menos por un comisario nombrado por la Institución Financiera del Exterior o por la Sociedad Controladora Filial propietaria de las acciones representativas del capital social de la Filial.
+
+> <small>(ADICIONADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+###### ARTICULO 45-N.
+
+Respecto de las Filiales, la Comisión Nacional Bancaria tendrá todas las facultades que le atribuye la presente Ley en relación con las instituciones de banca múltiple y las sociedades financieras de objeto limitado. Cuando autoridades supervisoras del país de origen de la Institución Financiera del Exterior propietaria de acciones representativas del capital social de una Filial o de una Sociedad Controladora Filial, según sea el caso, deseen realizar visitas de inspección, deberán solicitarlo a la Comisión Nacional Bancaria. En todo caso las visitas deberán hacerse por conducto de dicha Comisión la que establecerá los términos en que las visitas deban realizarse.
+
+La solicitud a que hace mención el párrafo anterior deberá hacerse por escrito, cuando menos con treinta días naturales de anticipación y deberá acompañarse de lo siguiente:
+
+I. Descripción del acto de inspección a ser realizado; y
+
+II. Las disposiciones legales pertinentes al acto de inspección objeto de la solicitud.
+
+### CAPITULO I. De las Reglas Generales
 
 ## TITULO TERCERO. De las Operaciones
 
-### CAPITULO III. De las Operaciones Activas
+### CAPITULO II. De las Operaciones Pasivas
 
 ###### ARTICULO 46.
 
@@ -708,7 +858,7 @@ La Secretaría de Hacienda y Crédito Público dictará los lineamientos y estab
 
 Las tasas de interés, comisiones, premios, descuentos, u otros conceptos análogos, montos, plazos y demás características de las operaciones activas, pasivas, y de servicios, así como las operaciones con oro, plata y divisas, que realicen las instituciones de crédito y la inversión obligatoria de su pasivo exigible, se sujetarán a lo dispuesto por la Ley Orgánica del Banco de México, con el propósito de atender necesidades de regulación monetaria y crediticia.
 
-En todo caso, las medidas que dicte el Banco de México se apegarán a las disposiciones legales aplicables y a las directrices de política monetaria y crediticia que determine la Secretaría de Hacienda y Crédito Público en el ejercicio de las atribuciones que le asignan las leyes respecto a la dirección de dicha política, así como para planear, coordinar, evaluar y vigilar el Sistema Bancario Mexicano.
+> <small>(DEROGADO SEGUNDO PARRAFO POR ARTICULO DECIMO OCTAVO TRANSITORIO DE LA LEY DEL BANCO DE MEXICO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -810,7 +960,7 @@ La suma de las inversiones a que se refieren las fracciones I, II y III de este 
 
 La Secretaría de Hacienda y Crédito Público determinará, mediante disposiciones de carácter general, las reservas de capital computables para los efectos de este artículo.
 
-### CAPITULO IV. De los Servicios
+### CAPITULO III. De las Operaciones Activas
 
 ###### ARTICULO 56.
 
@@ -896,7 +1046,7 @@ En el acta de emisión podrá designarse un representante común de los tenedore
 
 La inversión de los pasivos captados a través de la colocación de obligaciones subordinadas, se hará de conformidad con las disposiciones que el Banco de México dicte al efecto. Dichos recursos no podrán invertirse en los activos a que se refieren las fracciones I, II y III del artículo 55 de esta Ley, salvo aquellos que provengan de la colocación de obligaciones subordinadas de conversión obligatoria a títulos representativos de capital.
 
-### CAPITULO I. De las Disposiciones Generales
+### CAPITULO IV. De los Servicios
 
 ###### ARTICULO 65.
 
@@ -1018,7 +1168,7 @@ Las inversiones a que se refiere este artículo, que realicen las instituciones 
 
 La Secretaría de Hacienda y Crédito Público, oyendo la opinión del Banco de México y de la Comisión Nacional Bancaria, determinará mediante disposiciones de carácter general, las bases para la calificación de la cartera de créditos de las instituciones de crédito, la documentación e información que éstas recabarán para el otorgamiento, renovación y durante la vigencia de créditos de cualquier naturaleza, con o sin garantía real, los requisitos que dicha documentación habrá de reunir y la periodicidad con que deba obtenerse, así como la integración de las reservas preventivas, que por cada rango de calificación tengan que constituirse.
 
-### CAPITULO II. De la Contabilidad
+### CAPITULO I. De las Disposiciones Generales
 
 ###### ARTICULO 77.
 
@@ -1072,9 +1222,7 @@ Cuando se trate de operaciones de fideicomiso que constituya el Gobierno Federal
 
 ## TITULO CUARTO. De las Disposiciones Generales y de la Contabilidad
 
-### CAPITULO I. De las Prohibiciones
-
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
+### CAPITULO II. De la Contabilidad
 
 ###### ARTICULO 86.
 
@@ -1117,8 +1265,6 @@ Las solicitudes de autorización de las inversiones a que se refiere el párrafo
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Las instituciones de crédito y las filiales a que se refiere el tercer párrafo de este artículo en cuyo capital participen, podrán utilizar denominaciones iguales o semejantes, actuar de manera conjunta y ofrecer servicios complementarios.
-
-> <small>(DEROGADO SEXTO PARRAFO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 Al ejercer las facultades que le confiere este artículo, la Secretaría de Hacienda y Crédito Público oirá la opinión del Banco de México y de la Comisión Nacional Bancaria.
 
@@ -1164,11 +1310,13 @@ Las instituciones de crédito sólo podrán ceder o descontar su cartera con el 
 
 La Comisión Nacional Bancaria podrá ordenar la suspensión de la publicidad que realicen las instituciones de crédito, cuando a su juicio ésta implique inexactitud, obscuridad, o competencia desleal entre las mismas, o que por cualquier otra circunstancia pueda inducir a error, respecto de sus operaciones y servicios.
 
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
 ###### ARTICULO 95.
 
-Las instituciones de crédito sólo podrán cerrar sus puertas y suspender sus operaciones en los días que autorice al efecto el reglamento que anualmente expida la Comisión Nacional Bancaria.
+Las instituciones de crédito deberán cerrar sus puertas y suspender operaciones en los días que señale la Comisión Nacional Bancaria mediante disposiciones de carácter general.
 
-Los días autorizados en los citados términos se considerarán inhábiles para todos los efectos legales.
+Los días señalados en los citados términos se podrán considerar inhábiles para todos los efectos legales, cuando así lo determine la propia Comisión.
 
 ###### ARTICULO 96.
 
@@ -1192,13 +1340,17 @@ Las operaciones de banca y crédito que realicen las instituciones de crédito y
 
 Las instituciones de crédito estarán obligadas a recabar los datos de su clientela, relativos a su identificación y domicilio, de conformidad con las disposiciones que al efecto dicte la Comisión Nacional Bancaria.
 
-### CAPITULO II. De las Sanciones Administrativas
+### CAPITULO I. De las Prohibiciones
+
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 99.
 
 Todo acto o contrato que signifique variación en el activo o en el pasivo de una institución de crédito o implique obligación directa o contingente, deberá ser registrado en la contabilidad el mismo día en que se efectúen. La contabilidad, los libros y documentos correspondientes y el plazo que deban ser conservados, se regirán por las disposiciones de carácter general que dicte la Comisión Nacional Bancaria.
 
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
+
+ARTICULO 99 A.- Las instituciones de crédito constituirán el fondo de reserva de capital separando anualmente por lo menos un diez por ciento de sus utilidades netas, hasta que dicho fondo alcance una suma igual al importe del capital pagado.
 
 ###### ARTICULO 99-A.
 
@@ -1228,31 +1380,27 @@ Los mencionados auditores deberán suministrar a la Comisión Nacional Bancaria 
 
 La Comisión Nacional Bancaria fijará las reglas para la estimación máxima de los activos de las instituciones de crédito y las reglas para la estimación mínima de sus obligaciones y responsabilidades.
 
-Estas reglas se fundarán en los principios siguientes:
+> <small>(DEROGADO SEGUNDO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-I. Se estimarán por su valor nominal los créditos y documentos mercantiles pendientes de vencimiento o que hayan sido renovados;
+I. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-II. Los bienes o mercancías que tengan un mercado regular se estimarán por su cotización;
+II. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-III. Los bonos, obligaciones y otros títulos de naturaleza análoga que estén al corriente en el pago de sus intereses y amortización, se estimarán al valor presente de los futuros beneficios del título, calculando dicho valor presente al tipo efectivo de interés que devengue el título según el precio en bolsa de valores o, a falta de ésta, en el mercado libre en el momento de su adquisición.
+III. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-Cuando no estén al corriente en el pago de sus intereses y amortización, se estimarán conforme al precio de bolsa o de mercado;
+IV. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-IV. Los títulos representativos de capital de sociedades se valuarán de acuerdo con las reglas que dicte la Comisión Nacional Bancaria;
+V. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-V. Los inmuebles urbanos se estimarán por el promedio de avalúos que practiquen los peritos de las instituciones que apruebe la Comisión Nacional Bancaria, y
+VI. (DEROGADA, D.O.F. 23 DE DICIEMBRE DE 1993)
 
-VI. Los bienes que no reúnan las características señaladas en las fracciones anteriores, se estimarán por su valor de adquisición con las deducciones correspondientes al demérito por uso o explotación, en su caso.
-
-Cuando al aplicar las reglas de valoración fijadas por la Comisión Nacional Bancaria resulte una estimación más elevada de los elementos de activo que el valor original de los títulos, efectos, bienes o inversiones, la diferencia no podrá ser aplicada a cuenta de resultados, hasta en tanto no se realice efectivamente el beneficio como consecuencia del cobro, venta, realización o liquidación de los títulos, efectos, bienes o inversiones respectivos, a menos que la Comisión Nacional Bancaria, vista la estabilidad continuada de los precios y cotizaciones y la importancia relativa de las reservas constituidas de este modo, autorice el ajuste de tales fondos con abono a las cuentas de resultados.
+> <small>(DEROGADO PENULTIMO PARRAFO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
 Sin perjuicio de las normas establecidas en este artículo, la Comisión Nacional Bancaria podrá proponer a la Secretaría de Hacienda y Crédito Público, que se autorice, por disposiciones de carácter general a las instituciones de crédito, para que en caso necesario, por baja extraordinaria, mantengan ciertos valores de su activo a la estimación que resulte de sus precios de adquisición, dándoles un plazo que no podrá exceder de cinco años para que regularicen sus valuaciones, y sometiéndose durante este periodo a las limitaciones respecto a la distribución de utilidades que estime adecuado acordar la propia Comisión.
 
 ## TITULO QUINTO. De las Prohibiciones, Sanciones Administrativas y Delitos
 
-### CAPITULO III. De los Delitos
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
+### CAPITULO II. De las Sanciones Administrativas
 
 ###### ARTICULO 103.
 
@@ -1266,9 +1414,9 @@ II. Los emisores de instrumentos inscritos en el Registro Nacional de Valores e 
 
 III. (DEROGADA, D.O.F. 23 DE JULIO DE 1993)
 
-> <small>(ADICIONADA, D.O.F. 9 DE JUNIO DE 1992)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-IV. Las personas morales autorizadas por la Secretaría de Hacienda y Crédito Público que capten recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios y otorguen créditos para determinada actividad o sector.
+IV. Las sociedades financieras de objeto limitado autorizadas por la Secretaría de Hacienda y Crédito Público que capten recursos provenientes de la colocación de instrumentos inscritos en el Registro Nacional de Valores e Intermediarios y otorguen créditos para determinada actividad o sector.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
@@ -1322,7 +1470,9 @@ XII. Participar en sociedades que no sean de responsabilidad limitada y explotar
 
 XIII. Adquirir con recursos provenientes de sus pasivos, títulos, valores, o bienes de los señalados en las fracciones I y III del artículo 55 de esta Ley. La Secretaría de Hacienda y Crédito Público, podrá autorizar excepciones, mediante reglas de carácter general.
 
-Cuando una institución de crédito reciba en pago de adeudos o por adjudicación en remate dentro de juicios relacionados con créditos a su favor, títulos o valores, que no deba conservar en su activo, así como bienes o derechos de los señalados en esta fracción, deberá computar su valor estimado en las inversiones con cargo al capital pagado y reservas de capital, y venderlos en el plazo de un año a partir de su adquisición, cuando se trate de títulos de bienes muebles; de dos años cuando se trate de inmuebles urbanos; y, de tres años cuando se trate de establecimientos mercantiles o industriales o de inmuebles rústicos. Estos plazos podrán ser renovados por la Comisión Nacional Bancaria;
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+Cuando una institución de crédito reciba en pago de adeudos o por adjudicación en remate dentro de juicios relacionados con créditos a su favor, títulos o valores, que no deba conservar en su activo, así como bienes o derechos de los señalados en esta fracción, deberá sujetarse a las disposiciones de carácter general que establezca la Comisión Nacional Bancaria;
 
 XIV. Mantener cuentas de cheques a aquellas personas que en el curso de dos meses hayan librado tres o más de dichos documentos, que presentados en tiempo no hubieren sido pagados por falta de fondos disponibles y suficientes, a no ser que esta falta de fondos se deba a causa no imputable al librador.
 
@@ -1358,7 +1508,9 @@ d) Administrar fincas rústicas, a menos que hayan recibido la administración p
 
 El Banco de México podrá autorizar, mediante reglas generales, excepciones a lo dispuesto en las fracciones XV a XVIII de este artículo, con vistas a propiciar la captación de recursos por las instituciones o regular la celebración de operaciones, en los términos más adecuados a la situación del mercado o del sistema bancario.
 
-### CAPITULO I. De su Organización y Funcionamiento
+### CAPITULO III. De los Delitos
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 107.
 
@@ -1380,7 +1532,7 @@ En la imposición de estas sanciones, la Comisión Nacional Bancaria tomará en 
 
 La infracción a cualquiera de las disposiciones de esta Ley, que no tengan sanción especialmente señalada, se castigará con multa equivalente de cien a cincuenta mil veces el salario mínimo general diario vigente en el Distrito Federal, que impondrá administrativamente la Comisión Nacional Bancaria.
 
-### CAPITULO II. De la Inspección y Vigilancia
+### CAPITULO I. De su Organización y Funcionamiento
 
 ###### ARTICULO 110.
 
@@ -1419,6 +1571,8 @@ Las multas impuestas por la Comisión Nacional Bancaria a las instituciones de c
 > <small>(ADICIONADO, D.O.F. 23 DE JULIO DE 1993)</small>
 
 El Banco de México realizará los cargos respectivos en la fecha en que la Comisión Nacional Bancaria se lo solicite por tratarse de multas contra las cuales no proceda ya medio de defensa alguno. Para tales efectos, la institución de crédito afectada dará aviso por escrito a la Comisión simultáneamente al ejercicio de cualquier medio de defensa ante la autoridad competente.
+
+### CAPITULO II. De la Inspección y Vigilancia
 
 ###### ARTICULO 111.
 
@@ -1602,17 +1756,21 @@ VII. Formular anualmente sus presupuestos que someterá a la autorización de la
 
 VIII. Rendir un informe anual de sus labores a la Secretaría de Hacienda y Crédito Público;
 
-IX. Proveer lo necesario para que las instituciones de crédito cumplan debida y eficazmente las operaciones y servicios concertados con los usuarios del servicio de banca y crédito, y las sociedades a que se refiere el artículo 88 de esta Ley con los compromisos contraídos;
+IX. Proveer lo necesario para que las instituciones de crédito cumplan debida y eficazmente las operaciones y servicios concertados con los usuarios del servicio de banca y crédito, y las sociedades a que se refiere el artículo 88 de esta Ley con sus compromisos contraídos;
 
 > <small>(REFORMADA, D.O.F. 23 DE JULIO DE 1993)</small>
 
 X. Imponer sanciones administrativas por infracciones a ésta y las demás leyes que regulan las actividades, instituciones y personas sujetas a su inspección y vigilancia, así como de las disposiciones que emanen de ellas. Tales sanciones podrán ser, a juicio de la Comisión, amonestaciones u otras que establezcan las mencionadas leyes y disposiciones;
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-XI. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente, previa aprobación de la Junta de Gobierno, las multas impuestas, y
+XI. Conocer y resolver sobre el recurso de revocación que se interponga en contra de las sanciones aplicadas, así como condonar total o parcialmente, previa aprobación de la Junta de Gobierno, las multas impuestas;
 
-XII. Las demás que le están atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado “B” del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+XII. Para celebrar convenios de diversa naturaleza con organismos supervisores y reguladores nacionales y de otros países, y otros organismos nacionales e internacionales, siempre y cuando los mismos tengan relación con las funciones de inspección, vigilancia y supervisión que tenga a cargo la Comisión Nacional Bancaria respecto de sus entidades supervisadas, así como para participar, dentro del ámbito de sus facultades, en foros de consulta y organismos supervisores a nivel nacional e internacional; y
+
+XIII. Las demás que le están atribuidas por esta Ley, por la Ley Reglamentaria de la Fracción XIII Bis del Apartado "B" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y por otras leyes.
 
 La Comisión Nacional Bancaria en el ejercicio de sus funciones de inspección y vigilancia, respecto de las operaciones que las instituciones de crédito lleven a cabo en términos de la Ley del Mercado de Valores, establecerá los mecanismos de coordinación necesarios con la Comisión Nacional de Valores, para el eficaz cumplimiento de las disposiciones en la materia.
 
@@ -1698,11 +1856,15 @@ XV. Investigar los actos de terceros que hagan suponer la realización de operac
 
 XVI. Representar a la Comisión Nacional Bancaria en los compromisos arbitrales, en los términos que dispongan las respectivas leyes, así como dictar el laudo correspondiente, y
 
-> <small>(ADICIONADA, D.O.F. 23 DE JULIO DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
 
-XVII. Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan, así como conocer y resolver sobre el recurso de revocación, en los términos de ésta y las demás leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta de Gobierno la condonación total o parcial de las multas, y
+XVII. Imponer, de acuerdo a las facultades que le delegue la Junta de Gobierno, las sanciones que correspondan, así como conocer y resolver sobre el recurso de revocación, en los términos de ésta y las demás leyes aplicables y las disposiciones que emanen de ellas, así como proponer a la Junta de Gobierno la condonación total o parcial de las multas;
 
-XVIII. Las demás que le sean atribuidas por esta Ley y otras disposiciones legales.
+> <small>(ADICIONADA, D.O.F. 23 DE DICIEMBRE DE 1993)</small>
+
+XVIII. La suscripción de los convenios que la Comisión Nacional Bancaria celebre con organismos supervisores y reguladores nacionales y de otros países, así como con otros organismos nacionales e internacionales, y para participar y designar participantes en foros de consulta y organismos supervisores a nivel nacional e internacional, de conformidad con la fracción XII del artículo 125 de esta Ley; y
+
+XIX. Las demás que le sean atribuidas por esta Ley y otras disposiciones legales.
 
 ###### ARTICULO 132.
 
@@ -1919,3 +2081,61 @@ TERCERO.- Los recursos a que se refiere el artículo 110 de la Ley de Institucio
 CUARTO.- El porcentaje y el monto máximos previstos para las multas que aplique la Comisión Nacional Bancaria en términos del artículo 108 de la Ley de Instituciones de Crédito, que por virtud de este Decreto se reforma, continuarán siendo aplicables tratándose de incumplimientos o violaciones cometidos con anterioridad a la entrada en vigor del presente Decreto.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+LEY DEL BANCO DE MEXICO
+
+SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO QUE SE RELACIONAN CON LA LEY.
+
+PRIMERO.- Esta Ley entrará en vigor el 1o. de abril de 1994, con excepción del segundo párrafo de este artículo y de los artículos tercero y décimo tercero transitorios, los cuales iniciarán su vigencia al día siguiente de la publicación de la Ley en el Diario Oficial de la Federación.
+
+La designación de los primeros integrantes de la Junta de Gobierno será hecha en los términos previstos en la presente Ley, con anterioridad al 31 de marzo de 1994.
+
+...
+
+DECIMO OCTAVO.- Se abroga la Ley Orgánica del Banco de México del 21 de diciembre de 1984.
+
+Se derogan los artículos 31 fracción IV de la Ley Orgánica de la Administración Pública Federal, 13, párrafos primero y segundo de la Ley Monetaria de los Estados Unidos Mexicanos, 48, párrafo segundo y décimo segundo transitorio de la Ley de Instituciones de Crédito, 24 de la Ley Orgánica del Patronato del Ahorro Nacional y las demás disposiciones que se opongan a la presente Ley.
+
+Se deja sin efecto, en lo referente al Banco de México, lo previsto en la fracción VII del artículo 31 de la Ley Orgánica de la Administración Pública Federal, en los artículos 1o., 8o. y 14 de la Ley que crea el Fondo de Garantía y Fomento para la Agricultura, Ganadería y Avicultura, así como en los artículos 1o., 2o., 8o., y 21, fracción IV, del reglamento de dicha Ley.
+
+D.O.F. 23 DE DICIEMBRE DE 1993.
+
+DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA REGULAR LAS AGRUPACIONES FINANCIERAS, LEY DE INSTITUCIONES DE CREDITO, LEY GENERAL DE ORGANIZACIONES Y ACTIVIDADES AUXILIARES DEL CREDITO, LEY DEL MERCADO DE VALORES, LEY DE SOCIEDADES DE INVERSION, LEY GENERAL DE INSTITUCIONES Y SOCIEDADES MUTUALISTAS DE SEGUROS Y LEY FEDERAL DE INSTITUCIONES DE FIANZAS.
+
+PRIMERO.- El presente Decreto entrará en vigor el primero de enero de 1994.
+
+SEGUNDO.- La Secretaría de Hacienda y Crédito Público autorizará el límite de capital individual que podrá alcanzar cada Filial, así como el límite agregado que en su conjunto podrán alcanzar las Filiales del mismo tipo, de conformidad con los tratados o acuerdos internacionales aplicables.
+
+TERCERO.- Las adquisiciones por parte de Filiales, Instituciones Financieras del Exterior o Sociedades Controladoras Filiales de acciones de intermediarios financieros, en cuyo capital participen mayoritariamente inversionistas mexicanos, o de acciones de Filiales o Sociedades Controladoras Filiales, estarán sujetas a los límites de capital individuales y agregados que en su caso establezcan los tratados o acuerdos internacionales aplicables.
+
+CUARTO.- Cuando una Filial alcance el noventa por ciento del límite de capital individual autorizado, deberá notificar este hecho a la Secretaría de Hacienda y Crédito Público dentro de los cinco días hábiles siguientes.
+
+El incumplimiento de la obligación a que se refiere el párrafo anterior será sancionado por la Comisión Nacional competente, previa audiencia, con multa de hasta 2,500 días de salario mínimo por cada día de retraso en la notificación correspondiente.
+
+QUINTO.- Cuando una Filial exceda el límite de capital individual autorizado, la Secretaría de Hacienda y Crédito Público estará facultada para establecer un programa de reducción de capital a fin de que en un periodo determinado se ajuste a dicho límite. En todo caso, para cumplir con los requerimientos de capitalización aplicables se tomará en cuenta el menor entre el límite de capital individual autorizado y el capital real con que cuente la Filial de que se trate.
+
+Cuando se exceda el límite de capital individual autorizado, la Comisión Nacional competente estará facultada para remover, suspender o imponer veto a los miembros del consejo de administración, directores generales, comisarios, directores, gerentes y funcionarios que puedan obligar con su firma a la sociedad, previa audiencia, de conformidad con el procedimiento establecido en la ley aplicable.
+
+Si la infracción a lo dispuesto en el párrafo anterior es reiterada, o si la Filial no cumple con el programa de reducción de capital a que se refiere el primer párrafo del presente artículo, se podrá declarar la revocación de la autorización para constituir y operar una Filial o una Sociedad Controladora Filial, previa audiencia, en los términos establecidos en la ley aplicable.
+
+SEXTO.- El otorgamiento de autorizaciones para organizarse y operar como Filiales, así como para inscribirse en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, se podrá suspender cuando se hayan alcanzado los límites agregados a la participación de Instituciones Financieras del Exterior, o procedan las cláusulas de salvaguarda que en su caso establezca el tratado o acuerdo internacional aplicable.
+
+SEPTIMO.- Los límites individuales y agregados aplicables a las Filiales que en su caso establezcan los tratados o acuerdos internacionales correspondientes, serán calculados con base en la información proporcionada por la Comisión Nacional competente y por el Banco de México, en los términos de las reglas para el establecimiento de Filiales.
+
+OCTAVO.- Tratándose de instituciones de banca múltiple Filiales, los límites de capital individuales y agregados se fijarán con base en el capital neto de la totalidad de las instituciones de banca múltiple establecidas en México en la fecha de cálculo.
+
+NOVENO.- Tratándose de sociedades financieras de objeto limitado Filiales, los límites individuales y agregados se fijarán con base en la suma de los activos de la totalidad de las instituciones de banca múltiple y las sociedades financieras de objeto limitado establecidas en México en la fecha de cálculo.
+
+DECIMO.- Tratándose de las sociedades Filiales inscritas en la Sección de Intermediarios del Registro Nacional de Valores e Intermediarios, los límites de capital individuales y agregados se fijarán con base en el capital global de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO PRIMERO.- Tratándose de organizaciones auxiliares de crédito Filiales, casas de cambio Filiales e instituciones de fianzas Filiales, los límites de capital individuales y agregados se fijarán con base en la suma del capital contable de la totalidad de las instituciones del mismo tipo establecidas en México en la fecha de cálculo.
+
+DECIMO SEGUNDO.- Los límites de capital individuales y agregados aplicables a las instituciones de seguros se fijarán con base en la cantidad que como requerimiento bruto de solvencia, necesiten las instituciones de seguros. Dicho requerimiento bruto de solvencia corresponderá al capital mínimo de garantía que se establezca, de acuerdo a las reglas que conforme al artículo 60 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros compete emitir a la Secretaría de Hacienda y Crédito Público, y se considerará por separado para la realización de las operaciones de vida, accidentes y enfermedades por una parte y de daños, considerando cada uno de sus ramos, por la otra.
+
+DECIMO TERCERO.- No obstante lo dispuesto en el artículo 29 fracción II de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, las Instituciones Financieras del Exterior podrán adquirir, previa autorización de un programa de inversiones por la Secretaría de Hacienda y Crédito Público, oyendo la opinión de la Comisión Nacional de Seguros y Fianzas, una participación accionaria en una institución de seguros de las previstas en el inciso a) de la fracción I Bis, del artículo 29 de la Ley General de Instituciones y Sociedades Mutualistas de Seguros, por constituirse o ya establecida, de conformidad con lo dispuesto en los tratados o acuerdos internacionales aplicables.
+
+Las Instituciones Financieras del Exterior que antes de la entrada en vigor del tratado o acuerdo aplicable tengan inversiones en instituciones de seguros, podrán incrementar éstas de conformidad con dicho tratado.
+
+A las inversiones señaladas en los dos párrafos anteriores no les serán aplicables los límites de capital individuales y agregados de conformidad con el tratado o acuerdo internacional aplicable.
