@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "1917-11-03"
+last_updated: "1920-10-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, QUE DEROGA LA DEL 29 DE NOVIEMBRE DE 1880
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE OCTUBRE DE 1920.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -219,37 +219,35 @@ De la iniciativa y formación de las leyes.
 
 ###### Artículo 22.
 
-Con las Municipalidades que integran el Estado, se forman quince Distritos, los cuales son los siguientes:
+Con las Municipalidades que integran el Estado, se forman catorce Distritos, los cuales son los siguientes:
 
-ABASOLO, que comprende las Municipalidades de Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca y Cuajinicuilapa; su cabecera, Ometepec.
+Abasolo, que comprende las Municipalidades de Ometepec, Igualapa, Xochistlahuaca, Tlacoachixtlahuaca y Cuajinicuilapa; su Cabecera Ometepec.
 
-ALARCON, las de Taxco de Alarcón y Tetipac; su cabecera Taxco de Alarcón.
+Alarcón, las de Taxco de Alarcón y Tetipac; su Cabecera Taxco de Alarcón.
 
-ALDAMA, con las de Teloloapan, Cuetzala del Progreso, Ixcateopan y Pedro Ascencio Alquisiras; su cabecera Teloloapan.
+Aldama, con las de Teloloapan, Cuetzala del Progreso, Arcelia, Ixcateopan y Pedro Ascencio Alquisiras; su Cabecera Teloloapan.
 
-ALLENDE, con las de Ayutla de los Libres, Cuautepec, Florencio Villareal, Copala, San Luis Acatlán y Azoyú; su cabecera Ayutla de los Libres.
+Allende, con las de Ayutla de los Libres, Cuautepec, Florencio Villareal, Copala, San Luis Acatlán y Azoyú; su Cabecera Ayutla de los Libres.
 
-ALVAREZ, con las de Chilapa de Alvarez, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo y Atenango del Río; su cabecera Chilapa de Alvarez.
+Alvarez, con las de Chilapa de Alvarez, Atlixtac, Ahuacuotzingo, Zitlala, Copalillo y Atenango del Río; su Cabecera Chilapa de Alvarez.
 
-BRAVOS, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo y Tlacotepec; su cabecera Chilpancingo de los Bravos.
+Bravos, con las de Chilpancingo de los Bravos, Zumpango del Río, Leonardo Bravo y Tlacotepec; su Cabecera Chilpancingo de los Bravos.
 
-GALEANA, con las de Tecpan de Galeana y Atoyac de Alvarez; su cabecera Tecpan de Galeana.
+Galeana, con las de Tecpan de Galeana y Atoyac de Alvarez; su Cabecera Tecpan de Galeana.
 
-GUERRERO, con las de Tixtla de Guerrero, Atliaca, Mochitlán y Quechultenango; su cabecera Tixtla de Guerrero.
+Guerrero, con las de Tixtla de Guerrero, Atliaca, Mochitlán y Quechultenango; su Cabecera Tixtla de Guerrero.
 
-HIDALGO, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su cabecera Iguala.
+Hidalgo, con las de Iguala, Tepecoacuilco de Trujano, Cocula y Huitzuco; su Cabecera Iguala.
 
-MINA, con las de Coyuca de Catalán, Zirándaro, Ajuchitlán del Progreso y San Miguel Totolapan; su cabecera Coyuca de Catalán.
+Mina, con las de Coyuca de Catalán, Cutzamala de Pinzón, Tlalchapa, Ajuchitlán del Progreso, San Miguel Totolapan, Zirándaro y Pungarabato; su Cabecera Coyuca de Catalán.
 
-MONTES DE OCA, con las de la Unión y Coahuayutla de Guerrero; su cabecera la Unión.
+Montes de Oca, con las de La Unión y Coahuayutla de Guerrero; su Cabecera La Unión.
 
-MORELOS, con las de Tlapa de Comonfort, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomistláhuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlahuac, Malinaltepec y Tenango Tepexi; su cabecera Tlapa de Comonfort.
+Morelos, con las de Tlapa de Comonfort, Copanatoyac, Atlamajalcingo del Monte, San Vicente Zoyatlán, Totomistláhuaca, Alcozauca de Guerrero, Metlatonoc, Zapotitlán, Xalpatlahuac, Malinaltepec y Tenango Tepexi, su Cabecera Tlapa de Comonfort.
 
-EUTIMIO PINZON, con las de Cutzamala de Pinzón, Pungarabato, Tlalchapa y Arcelia; su cabecera Cutzamala de Pinzón.
+Tabares, con las de Acapulco de Juárez, Coyuca de Benítez, San Marcos y Tecoanapa; su Cabecera Acapulco de Juárez.
 
-TABARES, con las de Acapulco de Juárez, Coyuca de Benitez, San Marcos y Tecoanapa; su cabecera Acapulco de Juárez.
-
-ZARAGOZA, con las de Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá; su cabecera Huamuxtitlán.
+Zaragoza, con las de Huamuxtitlán, Alpoyeca, Xochihuehuetlán, Cualac y Olinalá; su Cabecera Huamuxtitlán.
 
 ###### Artículo 23.
 
@@ -919,6 +917,8 @@ Del Municipio como base de la división territorial del Estado, y su organizaci�
 
 De los Distritos.
 
+> <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 1920)</small>
+
 ### CAPITULO I
 
 ### CAPITULO II.
@@ -982,3 +982,9 @@ S. G. Mariscal.
 El Secretario General,
 
 J. Adams.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 16 DE OCTUBRE DE 1920.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3º. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE GUERRERO.
