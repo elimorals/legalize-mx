@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-numero-16-1998-del-pleno-del-consejo-de-la-6282
 country: "mx"
 rank: "acuerdo"
 publication_date: "1998-06-25"
-last_updated: "1999-04-05"
+last_updated: "1999-08-25"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62820&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "1998-06-17"
 
 ACUERDO GENERAL NUMERO 16/1998 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS EN QUE SE DIVIDE EL TERRITORIO DE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES COLEGIADOS Y UNITARIOS DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ABRIL DE 1999.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL ACUERDO QUE MODIFICA AL PRESENTE ORDENAMIENTO, VER ARTICULO PRIMERO TRANSITORIO DEL MISMO.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE AGOSTO DE 1999.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 26 de junio de 1998.
 
@@ -51,7 +49,9 @@ En consecuencia, con fundamento en las citadas disposiciones constitucionales y 
 
 ACUERDO
 
-PRIMERO.- El territorio de la República se divide en veintitrés circuitos, cuya circunscripción territorial es la siguiente:
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+PRIMERO.- El territorio de la República se divide en veinticuatro circuitos, cuya circunscripción territorial es la siguiente:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
 
@@ -75,7 +75,9 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los Municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur, Nayarit y Sinaloa.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -98,6 +100,10 @@ XXI.- VIGESIMO PRIMER CIRCUITO: Estado de Guerrero.
 XXII.- VIGESIMO SEGUNDO CIRCUITO: Estados de Hidalgo y Querétaro.
 
 XXIII.- VIGESIMO TERCER CIRCUITO: Estados de Aguascalientes y Zacatecas.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
 SEGUNDO.- Cada uno de los circuitos a que se refiere el punto primero comprenderá los tribunales colegiados y unitarios de circuito y los juzgados de distrito que a continuación se precisan:
 
@@ -201,7 +207,7 @@ XII.- DECIMO SEGUNDO CIRCUITO:
 
 3.- Un juzgado de distrito en el Estado de Baja California Sur, con sede en la ciudad de La Paz.
 
-4.- Dos juzgados de distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic.
+4.- (DEROGADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)
 
 XIII.- DECIMO TERCER CIRCUITO:
 
@@ -285,6 +291,14 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 
 3.- Dos juzgados de distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XXIV.- VIGESIMO CUARTO CIRCUITO:
+
+1.- Un tribunal colegiado y un tribunal unitario, con residencia en la ciudad de Tepic.
+
+2.- Dos juzgados de distrito en el Estado de Nayarit, con sede en la ciudad de Tepic.
+
 TERCERO.- La jurisdicción territorial de los tribunales colegiados y unitarios de circuito es la que en seguida se indica:
 
 I.- PRIMER CIRCUITO: Distrito Federal.
@@ -313,7 +327,9 @@ X.- DECIMO CIRCUITO: Estado de Tabasco y los Municipios de Acayucan, Agua Dulce,
 
 XI.- DECIMO PRIMER CIRCUITO: Estado de Michoacán.
 
-XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur, Nayarit y Sinaloa.
+> <small>(REFORMADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XII.- DECIMO SEGUNDO CIRCUITO: Estados de Baja California Sur y Sinaloa.
 
 XIII.- DECIMO TERCER CIRCUITO: Estado de Oaxaca.
 
@@ -348,6 +364,10 @@ XXIII.- VIGESIMO TERCER CIRCUITO: Respecto del tribunal colegiado con residencia
 En cuanto al tribunal colegiado con sede en la ciudad de Aguascalientes, su jurisdicción territorial será el Estado del mismo nombre.
 
 La jurisdicción territorial del tribunal unitario comprenderá los Estados de Aguascalientes y Zacatecas.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XXIV.- VIGESIMO CUARTO CIRCUITO: Estado de Nayarit.
 
 CUARTO.- La jurisdicción territorial de los juzgados de distrito es la siguiente:
 
@@ -441,7 +461,7 @@ Los Juzgados Cuarto, Quinto y Sexto de Distrito en el Estado de Sinaloa, con res
 
 Los Juzgados Séptimo, Octavo y Noveno de Distrito en el Estado de Sinaloa, con residencia en la ciudad de Mazatlán, ejercerán jurisdicción territorial en el distrito judicial conformado por los Municipios de: Concordia, Cosalá, Elota, Rosario, Escuinapa, Mazatlán y San Ignacio.
 
-Los Juzgados Primero y Segundo de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+> <small>(DEROGADO CUARTO PARRAFO POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
 
 El Juzgado de Distrito en el Estado de Baja California Sur, con residencia en la ciudad de La Paz, ejercerá jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
@@ -530,6 +550,12 @@ XXIII.- VIGESIMO TERCER CIRCUITO:
 Los Juzgados Primero y Segundo de Distrito en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 Los Juzgados Primero y Segundo de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
+
+> <small>(ADICIONADA POR EL PUNTO NOVENO DEL ACUERDO GENERAL NUMERO 22/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 25 DE AGOSTO DE 1999)</small>
+
+XXIV.- VIGESIMO CUARTO CIRCUITO:
+
+Los Juzgados Primero y Segundo de Distrito en el Estado de Nayarit, con residencia en la ciudad de Tepic, ejercerán jurisdicción territorial en el distrito judicial conformado por el territorio de la propia entidad federativa.
 
 QUINTO.- El Pleno del Consejo de la Judicatura Federal interpretará y resolverá cualquier cuestión administrativa que pudiera suscitarse con motivo de la aplicación del presente Acuerdo.
 
@@ -652,5 +678,13 @@ ACUERDO GENERAL NUMERO 13/1999, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL.
 PRIMERO.- Este Acuerdo entrará en vigor el día tres de mayo de mil novecientos noventa y nueve.
 
 SEGUNDO.- Se modifica el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
+
+TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 25 DE AGOSTO DE 1999.
+
+PRIMERO.- Este Acuerdo entrará en vigor el día diez de septiembre de mil novecientos noventa y nueve.
+
+SEGUNDO.- Se modifica y adiciona el Acuerdo General número 16/1998, del Pleno del Consejo de la Judicatura Federal, de fecha veinte de mayo de mil novecientos noventa y ocho, en los términos señalados en el presente Acuerdo.
 
 TERCERO.- Publíquese este Acuerdo en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta.
