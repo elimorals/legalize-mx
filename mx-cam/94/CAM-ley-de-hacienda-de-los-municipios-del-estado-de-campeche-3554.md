@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "1999-06-09"
+last_updated: "2000-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JUNIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE ENERO DE 2000.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -232,6 +232,24 @@ Terrenos explotados
 Terrenos inexplotados
 
 2.00% 2.00% 2.00%
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
+
+Previo a la aplicación de la tarifa señalada en este artículo para la determinación del impuesto predial, cuando se trate de jubilados, pensionados, discapacitados o senescentes, se deducirá de la base gravable la cantidad que configure el 50% de ésta, cuando ante la autoridad fiscal se acredite debidamente que el predio:
+
+a).- Es la única propiedad raíz de un jubilado, pensionado, discapacitado o senescente;
+
+b).- Este lo destina para habitarlo por sí; y
+
+c).- Su valor no exceda de 13,470 veces el salario mínimo general diario vigente en la entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
+
+Este beneficio se aplicará sin menoscabo de lo previsto en el artículo 24 y en caso de fallecer el propietario se hará extensivo a quien herede el inmueble, siempre y cuando lo sea su cónyuge, concubino o cuncubina y/o sus hijos menores de edad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2000)</small>
+
+La calidad de jubilado o pensionado la tendrá quien se ubique dentro de los supuestos que previenen las leyes de seguridad social aplicables, y la de discapacitados o senescentes quienes se encuentren en los supuestos que establecen las fracciones I y II del artículo 2 de la Ley de Protección a Discapacitados y Senescentes para el Estado de Campeche. Los Ayuntamientos informarán al Instituto Catastral del Estado, sobre el beneficio otorgado.
 
 #### SECCION SEGUNDA. DE LOS SUJETOS
 
@@ -1840,3 +1858,9 @@ P.O. 9 DE JUNIO DE 1999.
 Primero.- El presente decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado, con efectos retroactivos al 1 de enero de 1999.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE ENERO DE 2000.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
