@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-alcoholes-para-el-estado-de-guanajuato-5273"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-18"
-last_updated: "1996-07-09"
+last_updated: "1996-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5273&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ALCOHOLES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1996.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de diciembre de 1992.
 
@@ -653,9 +653,11 @@ Las licencias de funcionamiento para la venta de pulque y cerveza en envase abie
 
 Las licencias de funcionamiento para los giros que amparan el expendio de bebidas alcohólicas únicamente, se entenderá que autorizan la venta de bebidas de bajo y alto contenido alcohólico.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1996)</small>
+
 ###### ARTICULO CUARTO.
 
-Con motivo de las reformas al artículo 8 de esta Ley, se faculta a la Secretaría de Planeación y Finanzas para que en forma conjunta con las Presidencias Municipales, implemente un programa de regularización de licencias de funcionamiento para la enajenación de bebidas de bajo contenido alcohólico, durante el Ejercicio Fiscal de 1996.
+CON MOTIVO DE LAS REFORMAS AL ARTICULO 8 DE ESTA LEY, SE FACULTA A LA SECRETARIA DE PLANEACION Y FINANZAS PARA QUE EN FORMA CONJUNTA CON LA AUTORIDAD MUNICIPAL, IMPLEMENTE UN PROGRAMA DE REGULARIZACION DE LICENCIAS DE FUNCIONAMIENTO PARA LA ENAJENACION DE BEBIDAS DE BAJO CONTENIDO ALCOHOLICO, DURANTE EL EJERCICIO FISCAL DE 1997.
 
 ###### ARTICULO QUINTO.
 
@@ -674,3 +676,9 @@ LAS PERSONAS A QUIENES SE LES HAYA OTORGADO LICENCIA DE FUNCIONAMIENTO PARA CENT
 ###### ARTICULO TERCERO.
 
 POR ESTA UNICA OCASION, LA LICENCIA DE FUNCIONAMIENTO, QUE SE OTORGUE ATENDIENDO A LO DISPUESTO EN EL ARTICULO ANTERIOR, NO CAUSARA NINGUN DERECHO ESTATAL O MUNICIPAL.
+
+P.O. 24 DE DICIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día primero de enero de 1997 mil novecientos noventa y siete.
