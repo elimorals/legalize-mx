@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1990-09-01"
+last_updated: "1991-06-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE JUNIO DE 1991.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -259,7 +259,7 @@ XIII Cuando se cedan los derechos o se celebren contratos de compra-venta respec
 
 XIV La división de la copropiedad y la disolución de la sociedad conyugal por la parte que adquiere en demasía del porciento (sic) que le correspondía al propietario o cónyuge.
 
-XV La celebración de contratos de arrendamiento financiero y la cesión de derechos del arrendatario financiero.
+XV (DEROGADA, P.O. 28 DE JUNIO DE 1991)
 
 ###### ARTICULO 25.
 
@@ -267,9 +267,25 @@ Están obligadas al pago de este impuesto las personas físicas o morales que ad
 
 El enajenante responde solidariamente del impuesto que deba pagar el adquirirente (sic).
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 28 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 26.
 
-La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el del precio pactado, el valor catastral y el avalúo, que al efecto practique u ordene la Secretaría de Finanzas del Gobierno del Estado, después de reducirlo en diez veces al salario mínimo general, elevado al año que rija en el municipio en el momento en que se realice el acto generador.
+La base para determinar el importe a pagar por concepto de este impuesto, será el valor que resulte mayor entre el precio pactado, el valor catastral y el avalúo que al efecto practique u ordene la Secretaría de Finanzas del Gobierno del Estado, después de reducirlo en los términos siguientes:
+
+VALOR REDUCCION
+
+HASTA 109'999,999.00 10 VECES EL SALARIO MINIMO
+
+ELEVADO AL AÑO.
+
+DE 110'000.000.00 A 179'000,000.00 5 VECES EL SALARIO MINIMO
+
+ELEVADO AL AÑO.
+
+DE 180'000,000.00 EN ADELANTE NO HAY REDUCCION.
+
+Para tales efectos se tomará el salario mínimo que rija en el Municipio en el momento en que se realice el acto generador.
 
 Para los fines de este capítulo, se considera que el usufructo y la nuda propiedad tiene (sic) un valor, cada uno de ellos, del 50% del valor de la propiedad.
 
@@ -287,9 +303,11 @@ Tratándose del usufructo o de la nuda propiedad únicamente se tendrá derecho 
 
 No se considerarán departamentos habitacionales los que, por sus características originales, se destinen a servicios domésticos, portería o guarda de vehículos, aún cuando se utilicen para otros fines.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 27.
 
-El impuesto sobre traslación de dominio y otras operaciones de bienes inmuebles se causará y pagará aplicando la tasa general del 10%.
+El impuesto sobre traslación de dominio y otras operaciones de bienes inmuebles, se causará y pagará aplicando la tasa del 8%.
 
 ###### ARTICULO 28.
 
@@ -313,9 +331,11 @@ En los casos no previstos en las fracciones anteriores, cuando los actos de que 
 
 El contribuyente podrá pagar el impuesto por anticipado.
 
+> <small>(REFORMADO, P.O. 28 DE JUNIO DE 1991)</small>
+
 ###### ARTICULO 30.
 
-Solo los bienes del dominio público de la federación, el estado o de los municipios estarán excentos (sic) de pago de este impuesto.
+No se pagará el impuesto establecido en esta Ley en las adquisiciones de inmuebles que hagan la Federación, El Distrito Federal, los Estados y los Municipios para formar parte del dominio público, así como los que adquieran los Estados extranjeros en caso de reciprocidad y los partidos políticos nacionales, siempre y cuando dichos inmuebles sean para su propio uso.
 
 ###### ARTICULO 31.
 
@@ -1120,3 +1140,15 @@ Oaxaca de Juárez, Oax., a 29 de junio de 1990.- EL GOBERNADOR CONSTITUCIONAL DE
 Y lo comunico a usted, para su conocimiento y fines consiguientes.
 
 SUFRAGIO EFECTIVO. NO REELECCION.- EL RESPETO AL DERECHO AJENO ES LA PAZ.- Oaxaca de Juárez, Oax., a 29 de Junio de 1990.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. ILDEFONSO ZORRILLA CUEVAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE JUNIO DE 1991.
+
+###### ARTICULO PRIMERO.
+
+Estas reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todos los decretos y disposiciones fiscales que se opongan a lo prescrito en estas reformas.
