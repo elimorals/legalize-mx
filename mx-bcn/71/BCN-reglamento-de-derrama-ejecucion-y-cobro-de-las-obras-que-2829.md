@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-derrama-ejecucion-y-cobro-de-las-obras-que-2829"
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-07-20"
-last_updated: "1981-07-20"
+last_updated: "1986-01-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2829&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE DERRAMA, EJECUCION Y COBRO DE LAS OBRAS QUE REALICEN LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1985.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 20 de julio de 1981.
 
@@ -76,6 +76,20 @@ DE LA APROBACION DE LA REALIZACION DE LA OBRA
 ###### ARTICULO 6º.
 
 Una vez que el estudio técnico esté completo, será sujeto a la aprobación del Consejo de Administración de la Comisión Estatal en donde se realizará la obra, ya que es requisito indispensable para iniciar la obra y para que sea obligatorio el pago de la misma por los propietarios o poseedores de predios beneficiados.
+
+> <small>(ADICIONADO, P.O. 10 DE ENERO DE 1986)</small>
+
+###### ARTICULO 6º.
+
+BIS.- Tratándose de obras de emergencia que impliquen la necesidad de una reparación inmediata, se procederá como sigue:
+
+a).- La Comisión Estatal de Servicios Públicos del Municipio que corresponda aprobará la obra y procederá a realizarla;
+
+b).- El costo de la obra será el que se erogue en la ejecución de la misma y será fijado por la Comisión Estatal de Servicios Públicos, se derramará entre los propietarios de los predios beneficiados en proporción de la superficie de cada uno de ellos. Para fijar el precio se tomará en cuenta todos los factores que especifica el artículo 7 de este Reglamento;
+
+c).- El monto de lo que deba pagar cada usuario se notificará en los términos del artículo 14 de este Reglamento;
+
+d).- El recurso de inconformidad previsto en la fracción II del artículo 15 de este Reglamento, se concede a los propietarios de predios beneficiados con la ejecución de obras de emergencia.
 
 DE LA DERRAMA DEL COSTO DE LA OBRA
 
@@ -262,3 +276,9 @@ EL OFICIAL MAYOR DE GOBIERNO ENCARGADO DE LA SECRETARIA GRAL. POR MINISTERIO DE 
 LIC. RAUL POMPA VICTORIA.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMA AL PRESENTE REGLAMENTO.</small>
+
+P.O. 10 DE ENERO DE 1986.
+
+UNICO.- La presente Reforma y Adición al Reglamento de que se trata entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
