@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1994-06-01"
+last_updated: "1994-10-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE JUNIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE OCTUBRE DE 1994.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -511,11 +511,13 @@ La Comisión de Vigilancia de la Contaduría Mayor de Hacienda se integrará por
 
 Las Comisiones Jurisdiccionales y de Colegio Electoral funcionarán en los términos previstos en la Constitución y las leyes cuando así lo acuerde la Asamblea; conocerán específicamente de los hechos que las hayan motivado su integración.
 
+> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1994)</small>
+
 ###### Artículo 70.
 
 Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
-1) De Gobernación.
+1) Gobernación.
 
 2) Legislación y Puntos Constitucionales.
 
@@ -529,47 +531,73 @@ Son Comisiones Permanentes de Dictamen Legislativo las siguientes:
 
 7) Capacitación para el Trabajo y Asuntos Laborales.
 
-8) Salud, Asistencia Social.
+8) Salud Pública.
 
-9) Fomento Económico y Obras Públicas.
+9) Asistencia Social
 
-10) Primera de Hacienda Municipal.
+10) Fomento Económico
 
-11) Segunda de Hacienda Municipal.
+11) Obras Públicas
 
-12) Tercera de Hacienda Municipal.
+12) Primera de Hacienda Municipal.
 
-13) Cuarta de Hacienda Municipal.
+13) Segunda de Hacienda Municipal.
 
-14) Quinta de Hacienda Municipal.
+14) Tercera de Hacienda Municipal.
 
-15) Sexta de Hacienda Municipal.
+15) Cuarta de Hacienda Municipal.
 
-16) Asentamientos Humanos y Ecología.
+16) Quinta de Hacienda Municipal.
 
-17) Transporte Urbano de Pasajeros.
+17) Sexta de Hacienda Municipal.
 
-18) Comisión Editorial.
+18) Séptima de Hacienda Municipal.
 
-19) Comisión de Agua.
+19) Asentamientos Humanos y Desarrollo Urbano.
 
-20) Organización Interna de Gobierno.
+20) Preservación y Protección al Medio Ambiente.
 
-21) Conducta Civil.
+21) Comunicaciones.
 
-22) Presupuesto y Cuenta Pública.
+22) Corrección de Estilo
 
-23) Derechos Humanos.
+23) Relaciones y Asuntos Fronterizos
 
-24) Deporte y Recreación.
+24) Fomento Cultural.
 
-25) Juventud.
+25) Fomento al Desarrollo Regional.
 
-26) Tercera Edad.
+26) Seguridad Pública y Protección Civil.
 
-27) Protección a la Niñez.
+27) Transporte Urbano de Pasajeros.
 
-El Pleno mediante Iniciativa de reforma a esta Ley podrá ampliar o suprimir las Comisiones de Dictamen Legislativo.
+28) Editorial.
+
+29) Agua y Drenaje.
+
+30) Organización interna de Gobierno.
+
+31) Conducta Civil.
+
+32) Presupuesto y Cuenta Pública.
+
+33) Derechos Humanos.
+
+34) Deporte y Recreación.
+
+35) Juventud.
+
+36) Turismo.
+
+37) Tercera Edad.
+
+38) Participación Ciudadana.
+
+39) Protección a la Niñez.
+
+40) Seguridad Social y Bienestar Familiar.
+
+El Pleno mediante Iniciativa de Reforma a esta Ley podrá ampliar o suprimir las Comisiones de Dictamen Legislativo.
 
 ###### Artículo 71.
 
@@ -708,3 +736,7 @@ LIC. ALEJANDRO LAMBRETON NARRO
 P.O. 1 DE JUNIO DE 1994.
 
 UNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE OCTUBRE DE 1994.
+
+UNICO:- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
