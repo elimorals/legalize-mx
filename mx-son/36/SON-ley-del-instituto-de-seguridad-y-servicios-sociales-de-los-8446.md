@@ -4,7 +4,7 @@ identifier: "SON-ley-del-instituto-de-seguridad-y-servicios-sociales-de-los-8446
 country: "mx"
 rank: "ley"
 publication_date: "1962-12-31"
-last_updated: "1965-09-15"
+last_updated: "1966-08-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8446&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 15 DE SEPTIEMBRE DE 1965.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 17 DE AGOSTO DE 1966.
 
 Ley publicada en la Sección Tercera del Boletín Oficial del Gobierno del Estado de Sonora, lunes 31 de diciembre de 1962.
 
@@ -97,13 +97,23 @@ VI.- Préstamos a corto plazo;
 
 VII.- Jubilación;
 
-VIII.- Seguro de Vejez.
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
 
-IX.- Seguro de Invalidez.
+VIII.- Pensión por vejez.
 
-X.- Seguro por causa de muerte.
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+IX.- Pensión por invalidez.
+
+> <small>(REFORMADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+X.- Pensión por muerte.
 
 XI.- Indemnización global.
+
+> <small>(ADICIONADA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+XII.- Pago póstumo para los beneficiarios de los trabajadores en los términos del Capítulo Séptimo Bis y Artículo 88 Bis de esta Ley.
 
 ###### Artículo 5o.
 
@@ -525,7 +535,9 @@ SECCION 1a
 
 GENERALIDADES
 
-### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
+### CAPITULO SEPTIMO BIS.. DEL PAGO POSTUMO
+
+> <small>(ADICIONADO, B.O. 17 DE AGOSTO DE 1966)</small>
 
 ###### Artículo 59.
 
@@ -751,13 +763,27 @@ Cuando fallezca un pensionista, el Instituto o la Pagaduría que viniese cubrien
 
 Si no existiesen parientes o personas que se encarguen de la inhumación, el Instituto la hará, o en su caso, el Pagador correspondiente, quien se limitará al importe de la cuota señalada en el párrafo anterior y a reserva de que el propio Instituto le reembolse los gastos.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, B.O. 17 DE AGOSTO DE 1966)</small>
+
+### CAPITULO OCTAVO. DE LA INDEMNIZACION GLOBAL
+
+###### Artículo 88 Bis.
+
+El Instituto tendrá a su cargo el Pago Póstumo de la cantidad de…$30,000.00, que con independencia de la prestación establecida en el Capítulo Noveno de la Ley del Servicio Civil, se entregará, a la muerte de los trabajadores incorporados al propio Instituto, a los beneficiarios que éstos designen y a la falta de designación de sus herederos legítimos, para el cumplimiento de esta prestación el Gobierno del Estado aportará una cuota mensual de $10.00 por cada trabajador e igual cantidad aportará cada uno de los trabajadores, sin que exista derecho a la devolución de tales cuotas.- En iguales términos podrá proporcionarse el pago póstumo a los trabajadores de otras instituciones u organizaciones que se incorporen al Instituto.- Los trabajadores que se pensionen y los pensionados a partir del primero de enero de 1966 podrán disfrutar del mismo derecho, mediante una cuota mensual de $20.00 previa manifestación de su interés que hagan al Instituto, sin que en este caso exista obligación de parte del Gobierno del Estado de aportar alguna cuota adicional.- El pago póstumo a que se refiere este Capítulo quedará sujeto a las siguientes bases:
+
+PRIMERA.- El Gobierno del Estado, por conducto de la Tesorería General, hará los descuentos a los trabajadores, el día primero de cada mes y entregará de inmediato al Instituto las cuotas correspondientes, tanto del Gobierno como de cada trabajador. Los remanentes que arrojare la operación, se incorporarán al fondo de pensiones. Así como en caso de insuficiencia, el fondo de pensiones proporcionará el faltante para el cumplimiento oportuno de los pagos póstumos.
+
+SEGUNDO.- El Instituto deberá expedir un certificado individual a cada uno de los trabajadores, por lo que, previamente, cada trabajador firmará una solicitud, proporcionando los datos necesarios y designará a sus beneficiarios.
+
+TERCERA.- El trabajador que tenga derecho al pago póstumo podrá en cualquier tiempo hacer una nueva designación del beneficiario, notificándolo al Instituto.
+
+CUARTA.- Con el fin de que el beneficiario compruebe sus derechos, deberá identificarse a satisfacción del Instituto y presentar el acta de defunción del trabajador fallecido.
+
+QUINTO.- Cuando el trabajador no haya designado beneficiario, el importe del pago póstumo se pagará a los herederos de acuerdo con el orden que establece el Código Civil del Estado, en lo relativo a la sucesión legítima.
+
+SEXTA.- Al fallecimiento del trabajador y cuando éste no haya designado beneficiario, el Instituto al enterarse del fallecimiento, convocará, por medio de uno de los periódicos de mayor circulación del lugar en donde haya aquél tenido domicilio y en el Boletín Oficial del Estado, para que dentro de los 30 días siguientes a la última publicación, comparezcan las personas que tengan derecho, de acuerdo con la Ley, a declarar el pago póstumo. Transcurrido el término anterior y una vez estudiadas las reclamaciones y las pruebas presentadas, el Instituto resolverá dentro de quince días a quien corresponde entregar el beneficio.- Para acreditar el derecho a percibir el pago póstumo y en todo lo relativo a la valorización de las pruebas que se ofrezcan, se estará a lo dispuesto en la legislación civil.
+
 ### CAPITULO NOVENO. DE LA PRESCRIPCION
-
-### CAPITULO DECIMO. DE LAS FUNCIONES Y ORGANIZACIONES DEL INSTITUTO
-
-SECCION 1a.
-
-FUNCIONES DEL INSTITUTO.
 
 ###### Artículo 89.
 
@@ -777,11 +803,11 @@ II.- Cuando al trabajador se le impute la comisión de algún delito con motivo 
 
 Si el trabajador o ex-trabajador hubiere cobrado una indemnización global y quisiere que el tiempo que abarque dicha indemnización se le compute, para los efectos de esta ley, reintegrará, en el plazo prudente que le conceda el Instituto; la indemnización global que hubiere recibido, más sus intereses simples a razón del seis por ciento anual. Si falleciere antes de ejercer este derecho o de solventar el adeudo, sus familiares derechohabientes podrán optar por el pago de la indemnización que en su caso hubiere correspondido al trabajador en los términos del artículo 89 o bien por cubrir íntegramente el saldo adeudado para disfrutar de la pensión, en los casos en que ésta proceda.
 
-### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
+### CAPITULO DECIMO. DE LAS FUNCIONES Y ORGANIZACIONES DEL INSTITUTO
 
 SECCION 1a.
 
-PATRIMONIO DEL INSTITUTO
+FUNCIONES DEL INSTITUTO.
 
 ###### Artículo 92.
 
@@ -797,9 +823,11 @@ Las obligaciones que en favor del Instituto señala la presente ley a cargo del 
 
 La prescripción se interrumpirá por cualquier gestión de cobro, hecha por escrito, judicial o extrajudicial.
 
-### CAPITULO DECIMO SEGUNDO.
+### CAPITULO DECIMO PRIMERO. DEL PATRIMONIO E INVERSIONES DEL INSTITUTO
 
-DE LAS RESPONSABILIDADES Y SANCIONES.
+SECCION 1a.
+
+PATRIMONIO DEL INSTITUTO
 
 ###### Artículo 95.
 
@@ -971,7 +999,9 @@ El Director General será auxiliado en sus funciones por los Sub-Directores que 
 
 Los trabajadores del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, quedan incorporados al régimen de la presente Ley y las relaciones de trabajo entre ambos, se regirán por la Ley del Servicio Civil del Estado de Sonora.
 
-### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
+### CAPITULO DECIMO SEGUNDO.
+
+DE LAS RESPONSABILIDADES Y SANCIONES.
 
 ###### Artículo 113.
 
@@ -1050,6 +1080,8 @@ III.- Los de las fracciones III a la XI.
 ###### Artículo 121.
 
 Las cuentas del Instituto quedarán sujetas a la revisión, glosa y aprobación de la Tesorería General del Estado, la cual establecerá el servicio de auditoría permanente. El Instituto remitirá a dicha Tesorería dentro de los tres primeros meses de cada año su balance general de fin de ejercicio, estado de pérdidas y ganancias y cuaderno de cuentas con los anexos correspondientes a fin de poder precisar con la mayor exactitud la situación contable de la institución.
+
+### CAPITULO DECIMO TERCERO. DISPOSICIONES GENERALES
 
 ###### Artículo 122.
 
@@ -1194,3 +1226,7 @@ UNICO.- Esta Ley entrará en vigor a partir del día de su publicación en el Bo
 B.O. 15 DE SEPTIEMBRE DE 1965.
 
 UNICO.- Esta Ley entrará en vigor a partir de la fecha de su publicación en el Boletín Oficial del Estado.
+
+B.O. 17 DE AGOSTO DE 1966.
+
+UNICO.- Esta Ley entrará en vigor a partir de su publicación en el Boletín Oficial del Estado.
