@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1993-10-02"
+last_updated: "1994-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 1994.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -1937,9 +1937,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer; y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
 ###### Artículo 307.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción; existe entre el adoptante y el adoptado y entre éste y los parientes del primero.
 
 ###### Artículo 308.
 
@@ -2419,13 +2421,13 @@ III. A percibir la porción hereditaria y los alimentos que fije la ley.
 
 ### CAPITULO V. De la adopción
 
-> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
+> <small>(ADICIONADO, [N. DE E. REFORMADO], P.O. 1 DE ENERO DE 1994)</small>
 
 ###### Artículo 403.
 
-Adopción es el acto por el cual una persona mayor de veinticinco años en pleno ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
+Adopción es el acto por el cual una persona mayor de veinticinco año (sic) en pleno ejercicio de sus derechos, acepta a uno o más menores o incapacitados como hijos, adquiriendo respecto de él o ellos todos los derechos que los padres tienen y contrayendo todas las responsabilidades que el mismo reporta respecto de la persona de un hijo.
 
-El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores.
+El acto de adopción produce efectos legales entre los adoptantes y adoptados, así como entre éstos y la familia de los primeros, como si se tratara de un hijo consanguíneo, quedando extinguida la filiación entre el adoptado y sus progenitores; subsisten, sin embargo, los impedimentos para contraer matrimonio.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1993)</small>
 
@@ -2517,11 +2519,11 @@ El juez que apruebe la adopción remitirá copia de las diligencias respectivas 
 
 ###### Artículo 416.
 
-Los derechos y obligaciones que nacen de la adopción, así como del parentesco que de ella resulta, se limitarán al adoptante y al adoptado, excepto en lo relativo a los impedimentos del matrimonio respecto de los cuales se observará lo que dispone el artículo 157.
+(DEROGADO, P.O. 1 DE ENERO DE 1994)
 
 ###### Artículo 417.
 
-Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción, excepto la patria potestad que será transferida al padre adoptivo.
+(DEROGADO, P.O. 1 DE ENERO DE 1994)
 
 ###### Artículo 418.
 
@@ -7697,9 +7699,11 @@ Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por 
 
 Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
 ###### Artículo 1482.
 
-El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como un hijo, existiendo el derecho de sucesión entre éste y los parientes del adoptante, en los términos que establece este Código.
 
 ###### Artículo 1483.
 
@@ -7729,11 +7733,13 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 ###### Artículo 1489.
 
-Concurriendo los adoptantes con ascendientes del adoptado la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(DEROGADO, P.O. 1 DE ENERO DE 1994)
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
 
 ###### Artículo 1490.
 
-Si concurre el cónyuge del adoptado con los adoptantes, dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+Si concurre el cónyuge del adoptado con los adoptantes, se estará a lo dispuesto por el artículo 1494.
 
 ###### Artículo 1491.
 
@@ -7749,9 +7755,11 @@ El cónyuge que sobreviva, concurriendo con descendientes, tendrá el derecho de
 
 En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho a recibir lo que baste para igualar sus bienes con la porción mencionada.
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1994)</small>
+
 ###### Artículo 1494.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes, comprendiéndose también los adoptantes.
+Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
 
 ###### Artículo 1495.
 
@@ -14928,3 +14936,7 @@ Esta Ley entrará en vigor al días (sic) siguiente de su publicación en el Per
 P.O. 2 DE OCTUBRE DE 1993.
 
 UNICO.- Las presentes reformas y adiciones entrarán en vigor quince días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 1 DE ENERO DE 1994.
+
+UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
