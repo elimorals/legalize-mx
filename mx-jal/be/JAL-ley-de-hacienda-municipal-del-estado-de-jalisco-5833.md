@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-hacienda-municipal-del-estado-de-jalisco-5833"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-03"
-last_updated: "2004-02-28"
+last_updated: "2004-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5833&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE FEBRERO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE MAYO DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 3 de abril de 1984.
 
@@ -715,15 +715,33 @@ Los particulares podrán solicitar que se declare la prescripción de algún cr�
 
 Si la autoridad determina el crédito o realiza el cobro, sólo podrá ejercitarse el recurso establecido en esta Ley. Contra la resolución que declare y funde la negativa de prescripción o caducidad, será competente el Tribunal de lo Contencioso Administrativo.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2004)</small>
+
 ###### Art. 64.
 
-Procederá la cancelación de los créditos fiscales, por incosteabilidad o insolvencia; debiendo recaer acuerdo escrito sobre el particular, en los siguientes casos:
+La Tesorería Municipal, previa autorización del Ayuntamiento, podrá cancelar créditos fiscales en las cuentas públicas, por incosteabilidad en el cobro o por insolvencia del deudor, de los responsables solidarios o de los responsables objetivos; en los siguientes casos:
 
-I. Cuando su importe sea menor de una sexta parte del salario mínimo diario, y no se pague espontáneamente, dentro de los 90 días siguientes a la fecha de que sea exigible.
+I. Se consideran créditos de cobro incosteable:
 
-Sólo se aplicará esta regla cuando se trate de un solo crédito fiscal a cargo de un solo deudor.
+a) Aquellos cuyo importe sea inferior o igual al equivalente en moneda nacional a cuatro tantos del salario mínimo vigente, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
 
-II. Si existieren varios créditos menores del importe señalado en la fracción anterior, a cargo de un sólo deudor, procederá la acumulación de los mismos para los efectos de cobro.
+b) Aquellos cuyo importe sea inferior o igual a trescientos tantos del salario mínimo vigente, y cuyo costo de recuperación rebase el 75% del importe del crédito, y no se pague voluntariamente, dentro de los 90 días siguientes a la fecha en que sea exigible.
+
+> <small>(F. DE E., P.O. 6 DE NOVIEMBRE DE 2004)</small>
+
+c) Aquellos cuyo costo de recuperación sea igual o mayor a su importe.
+
+II. Se consideran insolventes, en el siguiente orden de preferencia, los deudores, responsables solidarios o responsables objetivos:
+
+a) Cuando no tengan bienes embargables para cubrir el crédito o éstos ya se hubieran realizado;
+
+b) Cuando no se puedan localizar de conformidad a los procedimientos legales.
+
+c) Cuando hubieran fallecido sin dejar bienes que puedan ser objeto del procedimiento administrativo de ejecución.
+
+Cuando el deudor tenga dos o más créditos a su cargo, todos ellos se sumarán para determinar si se cumplen los requisitos señalados, por este artículo.
+
+El Ayuntamiento de cada municipio, deberá dar a conocer las reglas de carácter general, para la aplicación de este artículo.
 
 ###### Art. 65.
 
@@ -3378,3 +3396,7 @@ P.O. 28 DE FEBRERO DE 2004.
 DECRETO NUMERO 20440.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 4 DE MAYO DE 2004.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
