@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-para-el-municipio-de-los-cabos-baja-27802"
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-31"
-last_updated: "2003-06-30"
+last_updated: "2003-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE LOS CABOS, BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 30 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2003.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de diciembre de 2002.
 
@@ -267,13 +267,15 @@ c). Los propietarios de predios que hubieren prometido en venta o hubieren vendi
 
 #### Sección Tercera. Base y Tasa del Impuesto Predial
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 26º.
 
 El Impuesto sobre la Propiedad Rústica se causará sobre el valor catastral de los predios rústicos conforme a las siguientes tasas:
 
-a). 10.04 al millar anual si están explotados por su dueño.
+a). 3.5526 al millar anual si están explotados por su dueño.
 
-b). 19.5 al millar anual si no están explotados por su dueño.
+b). 6.7230 al millar anual si no están explotados por su dueño.
 
 En ningún caso el impuesto predial anual será inferior a tres días de salario mínimo.
 
@@ -283,23 +285,27 @@ En ningún caso el impuesto predial anual será inferior a tres días de salario
 
 El Impuesto sobre la Propiedad Ejidal se ajustará a las disposiciones relativas de la Ley Agraria y de la presente Ley.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTÍCULO 28º.
 
-El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 12 al millar.
+El Impuesto sobre las plantas de beneficio y establecimientos metalúrgicos de cualquier clase, se causará sobre el valor de la finca e instalaciones a razón de 4.25 al millar.
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTÍCULO 29º.
 
 El Impuesto Predial sobre la propiedad urbana se causará:
 
-a). A razón de 6.5 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicará el segundo párrafo del inciso c) de este Artículo.
+a). A razón de 2.3 al millar sobre el valor catastral de los predios destinados exclusivamente para el uso de casa habitación, siempre que en ella habite el propietario; en este caso no se aplicará el segundo párrafo del inciso c) de este Artículo.
 
-b). A razón de 13 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
+b). A razón de 4.6 al millar sobre el valor catastral de los predios destinados a uso distinto del de casa habitación del contribuyente.
 
-c). A razón de 26 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un 2.6 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 52 al millar.
+c). A razón de 9.2 al millar sobre el valor catastral de los predios no edificados o baldíos, incrementándose anualmente en un .92 al millar hasta en tanto no sea construida una edificación. La tasa no excederá de 18.4 al millar.
 
-d). A razón del 13 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
+d). A razón del 4.6 al millar anual sobre el valor catastral de los predios no edificados o baldíos, ubicados en fraccionamientos o en desarrollos urbanos legalmente autorizados; siempre y cuando dichos predios no sean enajenados a terceros; prometidos en venta, con reserva de dominio o que sean materia de cualquier otro acto jurídico preparatorio similar o traslativo de dominio. Esta disposición no será aplicable a los predios no edificados o baldíos que sean producto de una división, fusión o relotificación común.
 
-e). A razón del 9 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específicos de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
+e) A razón del 3.45 al millar sobre el valor catastral de los predios destinados al alquiler de casa habitación y a los de uso mixto, se entiende por uso mixto aquel que se destina a casa habitación y a cualquier otro previsto por la Ley de manera simultánea. Cuando resulte imposible deslindar la superficie utilizada para un uso específicos de los descritos en los incisos a), b), c) o d) que anteceden se aplicará supletoriamente la tasa que corresponde a este inciso.
 
 Se considerará lote baldío, aquel que teniendo construcciones, éstas representen menos del 50% del valor catastral del terreno. En ningún caso el impuesto predial anual será inferior a un día de salario mínimo.
 
@@ -2583,7 +2589,7 @@ Los formatos oficiales que sean requeridos para la realización y expedición de
 
 Productos Diversos son todos aquello productos no considerados en los términos de los Artículo (sic) anteriores.
 
-## TITULO QUINTO. APROVECHAMIENTOS
+## TITULO SEXTO. PARTICIPACIONES
 
 ### Capítulo Segundo. Multas
 
@@ -3215,7 +3221,7 @@ Son rezagos los adeudos por concepto de impuestos, derechos productos y aprovech
 
 Los gastos de ejecución se cobrarán a quien le sean requeridos por haber incurrido en incumplimiento de obligaciones fiscales no solventadas dentro de los plazos legales y en los términos que establece el Código Fiscal para el Estado y Municipios de Baja California Sur.
 
-## TITULO SEXTO. PARTICIPACIONES
+## TITULO SEPTIMO. INGRESOS EXTRAORDINARIOS
 
 ###### ARTÍCULO 163º.
 
@@ -3225,7 +3231,7 @@ Quedan comprendidos dentro de esta clasificación los ingresos que tenga el Muni
 
 Las aportaciones federales para fines específicos que a través de los diferentes fondos le corresponden al Municipio de Los Cabos, se percibirán en los términos que establezcan el Presupuesto de Egresos de la Federación, la Ley de Coordinación Fiscal y los convenios respectivos.
 
-## TITULO SEPTIMO. INGRESOS EXTRAORDINARIOS
+## TITULO OCTAVO. CONTRIBUCIONES ESPECIALES
 
 ###### ARTÍCULO 165º.
 
@@ -3251,7 +3257,7 @@ VI. Telefonía rural.
 
 VII. Otros no especificados.
 
-## TITULO OCTAVO. CONTRIBUCIONES ESPECIALES
+## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD
 
 ### Capítulo Segundo. Registro, licencias y permisos de giros comerciales
 
@@ -3323,7 +3329,7 @@ Los propietarios de 2 o más cabezas de ganado están obligados a presentar para
 
 Si en el plazo de 3 años consecutivos no se cumple con esta obligación, se cancelarán automáticamente los títulos de marcas y señales de herrar.
 
-## TITULO NOVENO. REDUCCIONES PARA PENSIONADOS, JUBILADOS, PERSONAS CON DISCAPACIDAD Y PERSONAS DE LA TERCERA EDAD
+## TITULO DECIMO. ESTIMULOS FISCALES DESTINADOS AL FOMENTO DE LA INVERSION PRODUCTIVA Y LA GENERACION DE EMPLEOS
 
 ###### ARTÍCULO 181º.
 
@@ -3426,3 +3432,9 @@ C. PROFR. VÍCTOR MANUEL LIZÁRRAGA PERAZA
 B.O. 30 DE JUNIO DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial de Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2003.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
