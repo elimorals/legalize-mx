@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-14617"
 country: "mx"
 rank: "ley"
 publication_date: "1996-08-26"
-last_updated: "2001-05-23"
+last_updated: "2003-06-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACION DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2003.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
 
@@ -485,7 +485,7 @@ La educación especial se ofrecerá en planteles educativos estatales, municipal
 
 En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
 
-### CAPITULO I. DE LOS PADRES DE FAMILIA
+### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
 
 ###### ARTICULO 47.
 
@@ -525,7 +525,7 @@ III.- Será bivalente el que atienda las dos finalidades señaladas en las dos f
 
 En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
 
-### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+### CAPITULO I. DE LOS PADRES DE FAMILIA
 
 ###### ARTICULO 52.
 
@@ -919,19 +919,25 @@ I.- Cumplir con lo dispuesto en el Artículo 3º de la Constitución Política d
 
 II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 1998)</small>
+> <small>(REFORMADA, P.O. 4 DE JUNIO DE 2003)</small>
 
-III.- Proporcionar un mínimo de becas para alumnos destacados académicamente y de escasos recursos, en un porcentaje que nunca será inferior al cinco por ciento del total de la matrícula de la institución educativa del ciclo escolar inmediato anterior al en que se asignen las becas y que podrá ampliarse de acuerdo a la capacidad económica de la misma. Las becas a que se refiere esta fracción deberán ser otorgadas por una comisión especial de becas, que estará integrada cuando menos por los siguientes: un representante del Titular del Poder Ejecutivo, un representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión que al interior del Congreso del Estado deba conocer de los asuntos educativos, un representante de las Asociaciones legalmente constituidas de los padres de familia de los Centros de Educación Privados y otro de las correspondientes a las escuelas particulares.
+III.- Proporcionar un mínimo de becas para alumnos de escasos recursos económicos destacados académicamente, en un porcentaje que será del cinco por ciento del total de la matricula de la institución educativa del ciclo escolar de que se trate, pudiendo incrementar ese porcentaje a criterio de las autoridades del plantel. Las becas a que se refiere esta fracción deberán ser otorgadas a través de una sub-comisión de becas integrado por la autoridad administrativa del plantel educativo respectivo, un representante de la asociación de los padres de familia de la escuela que se trate, un representante de la autoridad educativa estatal quién podrá ser el supervisor de la zona escolar;
 
-El Reglamento respectivo determinará las atribuciones, organización y funcionamiento de la comisión a que se refiere esta fracción.
+La escuela para seleccionar a los becarios, deberá tomar en consideración exclusivamente y en orden de prioridad lo siguiente:
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+a) Que el alumno justifique la necesidad económica para tener el beneficio de una beca.
 
-La Comisión Especial de Becas tendrá la obligación de remitir al inicio de cada ciclo escolar el listado oficial de becarios a la Institución Educativa respectiva; para que esté a disposición de los padres de familia, tutores o representantes legales en la Dirección de la Escuela, para su conocimiento.
+b) Que el alumno sea destacado en el ámbito académico.
 
-> <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2000)</small>
+c) Que el alumno acredite con su conducta haber respetado el reglamento interno de la Institución educativa en donde solicita la beca.
 
-El padre de familia, tutor o representante legal que detecte irregularidades en la selección de becarios, interpondrá su inconformidad ante la propia Comisión, para que de existir elementos, ésta modifique la lista respectiva.
+Las escuelas particulares tendrán la obligación de remitir al inicio de cada ciclo escolar, el listado oficial de becarios de cada nivel a la Comisión Estatal de Becas, y ponerla a la vista y disposición de los padres de familia, tutores o representantes legales en la dirección de la escuela para su conocimiento.
+
+El padre de familia, tutor o representante legal que detecte irregularidades en la selección de becarios, interpondrá su inconformidad con base en el Reglamento Artículo 102 de la Ley de Educación del Estado, ante la Comisión Estatal de Becas, para que de existir elementos, ésta modifique el dictamen correspondiente.
+
+La Comisión Estatal de Becas estará integrado (sic) cuando menos por un representante del titular del Poder Ejecutivo, un representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión al Interior del Congreso del Estado que sea responsable de los problemas de carácter educativo, los representantes de las Asociaciones de Padres de Familia legalmente constituidas y los representantes de las Organizaciones de Escuelas Particulares legalmente constituidas y debidamente acreditadas ante la Comisión Estatal de Becas.
+
+El reglamento respectivo determinará las atribuciones, organización y funcionamiento del Comité a que hace referencia esta fracción.
 
 IV.- Rendir semestralmente a la Autoridad Educativa Estatal o Municipal, las estadísticas correspondientes a la organización, administración, escolaridad y aspectos técnicos de las Instituciones, y
 
@@ -1172,3 +1178,9 @@ P.O. 23 DE MAYO DE 2001.
 PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
+
+P.O. 4 DE JUNIO DE 2003.
+
+Primero.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+Segundo.- Se concede al Titular del Poder ejecutivo un plazo de 60 días naturales para que expida y publique el reglamento respectivo.
