@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-comision-de-defensa-de-los-derechos-10999"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-07-13"
-last_updated: "1999-08-21"
+last_updated: "2004-05-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10999&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGANICA DE LA COMISION DE DEFENSA DE LOS DERECHOS HUMANOS PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE AGOSTO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MAYO DE 2004.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -55,9 +55,11 @@ Los Derechos Humanos son las prerrogativas de los individuos, reconocidas por el
 
 Esta Ley es de orden público y de interés social y será aplicable dentro del territorio del Estado de Nayarit, en materia de Derechos Humanos, respecto de los individuos que se encuentren en él, conforme lo establecido por el Apartado "B" del Artículo 102 de la Constitución Política de los Estados Unidos Mexicanos.
 
-###### ARTICULO 3.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2004)</small>
 
-La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit, es un organismo público, descentralizado, con personalidad jurídica y patrimonio propio, dotado de autonomía técnica y operativa y con participación de la sociedad civil, que tiene como finalidades esenciales la protección, la observancia, la promoción, el estudio y la divulgación de los Derechos Humanos establecidos por la Constitución General de la República Mexicana, la particular del Estado y los ordenamientos legales vigentes sobre la materia.
+###### ARTICULO 3º.
+
+La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit, es un organismo público autónomo, con personalidad jurídica y patrimonio propio, dotado de autonomía de gestión, presupuestaria, técnica y operativa, y con participación de la sociedad civil, que tiene como finalidades esenciales la protección, la observancia, la promoción, el estudio y la divulgación de los derechos humanos establecidos por la Constitución general de la República Mexicana, la particular del estado y los ordenamientos legales vigentes sobre la materia.
 
 ###### ARTICULO 4.
 
@@ -81,7 +83,7 @@ Los procedimientos que se sigan ante la COMISION deberán ser breves, sencillos 
 
 ## TITULO SEGUNDO. DE LA INTEGRACION, INCOMPETENCIA Y ATRIBUCIONES DE LA COMISION
 
-### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
+### CAPITULO PRIMERO. DE SU INTEGRACION
 
 ###### ARTICULO 21.
 
@@ -123,9 +125,9 @@ Las decisiones o resoluciones se tomarán por mayoría de votos y el Secretario 
 
 ###### ARTICULO 25.
 
-Cuando no se reuna la mitad más uno de los integrantes del Consejo, la sesión se verificará dentro de las veinticuatro horas siguientes con los miembros que asistan a la misma, incluyendo invariablemente al Presidente de la COMISION.
+Cuando no se reúna la mitad más uno de los integrantes del Consejo, la sesión se verificará dentro de las veinticuatro horas siguientes con los miembros que asistan a la misma, incluyendo invariablemente al Presidente de la COMISION.
 
-### CAPITULO PRIMERO. DE SU INTEGRACION
+### CAPITULO SEGUNDO. INTEGRACION, NOMBRAMIENTO Y FACULTADES DEL CONSEJO
 
 ###### ARTICULO 8.
 
@@ -135,7 +137,9 @@ La COMISION se integrará con un Presidente, un Secretario Ejecutivo, un Visitad
 
 De igual forma se integrará con un Consejo, formado por un total de diez personas de reconocido prestigio, quienes no deberán tener cargo o comisión dentro del servicio público; fungirán con carácter Honorario y sus funciones serán exclusivamente propositivas.
 
-Los miembros del Consejo serán nombrados por el H. CONGRESO DEL ESTADO y durarán en su cargo cuatro años.
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2004)</small>
+
+Los miembros del Consejo serán nombrados por el voto de la mayoría de los miembros presentes de la Cámara de Diputados, o en sus recesos por la Diputación Permanente, con la misma votación, y durarán en su encargo cinco años.
 
 Las ausencias definitivas de un Consejero, darán lugar a su sustitución en los términos que el Reglamento Interno de la COMISION, lo establezca.
 
@@ -143,11 +147,11 @@ Las ausencias definitivas de un Consejero, darán lugar a su sustitución en los
 
 El cargo de Presidente de la COMISION tendrá una remuneración igual a la que perciban los Magistrados del Tribunal Superior de Justicia de la Entidad.
 
-> <small>(REFORMADO, P.O. 21 DE AGOSTO DE 1999)</small>
+> <small>(REFORMADO, P.O. 31 DE MAYO DE 2004)</small>
 
 ###### ARTICULO 11.
 
-El Presidente de la COMISION será nombrado por el H. Congreso del Estado y, en sus recesos, por la Diputación Permanente, y durará en sus funciones cuatro años, pudiendo ser ratificado por el propio Congreso Local, para un segundo período.
+El presidente de la comisión será elegido por el voto de la mayoría de los miembros presentes de la Cámara de Diputados, o en sus recesos por la Diputación Permanente, con la misma votación, durando en su encargo cinco años y no podrá ser ratificado. Sólo podrá ser removido de sus funciones en los términos del Título Octavo de la Constitución Política del Estado Libre y Soberano de Nayarit.
 
 ###### ARTICULO 12.
 
@@ -243,9 +247,7 @@ XVI.- Proponer al Ejecutivo Estatal en los términos de la Legislación aplicabl
 
 XVII.- Las demás que resulten de la presente Ley, de su Reglamento y las que sean propias a su naturaleza.
 
-### CAPITULO QUINTO. DE LAS FACULTADES DEL PRESIDENTE DE LA COMISION
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 1999)</small>
+### CAPITULO CUARTO. DE LA INCOMPETENCIA DE LA COMISION
 
 ###### ARTICULO 27.
 
@@ -267,7 +269,9 @@ V.- Cuando corresponda a la Comisión Nacional o a la Comisión de cualquier Ent
 
 En los términos de esta Ley, la COMISION solo admitirá o conocerá de quejas o inconformidades contra actos u omisiones de autoridades judiciales, cuando dichos actos u omisiones tengan carácter administrativo.
 
-### CAPITULO CUARTO. DE LA INCOMPETENCIA DE LA COMISION
+### CAPITULO QUINTO. DE LAS FACULTADES DEL PRESIDENTE DE LA COMISION
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE AGOSTO DE 1999)</small>
 
 ###### ARTICULO 29.
 
@@ -832,3 +836,7 @@ P.O. 21 DE AGOSTO DE 1999
 ###### ARTICULO UNICO.
 
 Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MAYO DE 2004.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
