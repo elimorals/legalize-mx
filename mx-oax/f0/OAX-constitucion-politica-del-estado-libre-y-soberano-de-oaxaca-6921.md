@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1934-11-03"
+last_updated: "1936-09-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE NOVIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE SEPTIEMBRE DE 1936.
 
 Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
@@ -247,13 +247,17 @@ El Poder público del Estado se divide, para el ejercicio de sus funciones, en L
 
 El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura del Estado y estará integrada por Diputados electos directa y popularmente.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 ###### ARTICULO 32.
 
-Los Diputados durarán en su encargo cuatro años y no podrán ser reelectos para el período inmediato. La Legislatura se renovará por mitad cada dos años.
+Los Diputados durarán en su encargo cuatro años y no serán reelectos para el período inmediato. La Legislatura se renovará totalmente.
+
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
 
 ###### ARTICULO 33.
 
-Se elegirá un Diputado por cada sesenta mil habitantes o por una fracción que pase de treinta mil. Por cada Diputado propietario se elegirá un suplente.
+Se elegirá un Diputado por cada cien mil habitantes o fracción mayor de cincuenta mil. Por cada Diputado Propietario se elegirá un suplente.
 
 ###### ARTICULO 34.
 
@@ -289,15 +293,19 @@ En la segunda junta previa que con este motivo se efectúe, los presentes se dec
 
 Dentro de los cinco días siguientes a la celebración de la primera junta, o de la segunda en su caso, se efectuarán todas las que sean necesarias para la calificación de las credenciales, de manera que la Legislatura pueda instalarse el día quince del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente, Vicepresidente y Secretarios, en los términos del Reglamento.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
 > <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
 ###### ARTICULO 41.
 
-Las juntas previas de la Legislatura se sujetarán a lo que disponga el Reglamento Interior, el cual deberá comprender las bases siguientes:
+Las Juntas Previas de la Legislatura se sujetarán a lo que disponga el Reglamento Interior el cual deberá comprender las bases siguientes:
 
-I. La instalación de las juntas se hará por la mitad de la Legislatura que no se renueva, y los diputados que la compongan asistirán a todas las juntas, eligiéndose de entre ellos la mesa directiva que las presidirá;
+> <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
+I. La instalación de las Juntas se hará por mayoría de los miembros que deben integrar la Legislatura, quienes asistirán a todas las Juntas eligiendo de entre ellos la Mesa Directiva que las presidirá;
 
 II. De los presuntos diputados, solamente asistirán quienes hayan registrado sus credenciales en la Secretaría de la Legislatura;
 
@@ -727,35 +735,33 @@ XXI. Nombrar instructores de la Guardia Nacional del Estado;
 
 XXII. Las demás que le impongan las leyes.
 
+> <small>(REFORMADO, P.O. 19 DE SEPTIEMBRE DE 1936)</small>
+
 ###### ARTICULO 81.
 
 El Gobernador no puede:
 
-I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 54 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirán todos sus efectos legales;
+I. Dejar de promulgar alguna ley o decreto que habiendo sido devuelto a la Legislatura con observaciones, ésta lo ratificare en los términos del artículo 54 de esta Constitución. Si el Ejecutivo no hiciere la promulgación a los cinco días de que la Legislatura le hubiere devuelto la ley o decreto ratificado, la hará el Presidente de la Cámara, y la ley o decreto así promulgados surtirá todos sus efectos legales.
 
-II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones X, XI, XIII y XVI del artículo 59 y el artículo 62;
+II. Observar las leyes o decretos que la Legislatura expidiere ejerciendo las facultades de Colegio Electoral o de Gran Jurado, ni los que expidiere a virtud de las facultades que le conceden las fracciones X, XI, XIII y XVI del artículo 59 y el artículo 62.
 
-III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley;
+III. Impedir que las elecciones se efectúen en los días señalados y con las formalidades exigidas por la ley.
 
-IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura;
+IV. Impedir por motivo alguno, directa ni indirectamente, el libre ejercicio de las funciones de la Legislatura.
 
-V. Intervenir en las funciones del poder judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de las personas de los reos;
+V. Intervenir en las funciones del Poder Judicial, ni dictar providencia alguna que retarde o impida tales funciones. Tampoco podrá disponer de la persona de los reos.
 
-VI. Salir del territorio del Estado sin la previa licencia de la Legislatura, y en sus recesos, de la Diputación Permanente;
+VI. Salir del territorio del Estado sin permiso de la Legislatura y en su recesos de la Diputación Permanente, por un lapso mayor de mayor de cuarenta y ocho horas; previo aviso a la H. Legislatura Local, cuando sea por menos tiempo; pero puede separarse libremente de la Capital para trasladarse a cualquier punto del territorio oaxaqueño, cuando lo requieran las necesidades de la administración, por el tiempo que estimare conveniente, sin más requisitos que comunicar al Congreso o a la Comisión Permanente su decisión y que los puestos de Secretario General del Despacho y Subsecretario queden debidamente cubiertos.
 
-> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+VII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes.
 
-VII. Salir de la Capital del Estado sin permiso de la Legislatura y en sus recesos, de la Diputación Permanente, por más de tres días;
+VIII. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales.
 
-VIII. Distraer las rentas públicas del Estado de los objetos a que estén destinadas por las leyes;
+IX. Disponer sin las formalidades legales y fuera de los casos que la Ley permita, de los bienes pertenecientes al Estado.
 
-IX. Disponer en ningún caso y bajo ningún pretexto de las rentas municipales;
+X. Disponer en ningún caso y por ningún motivo de los bienes que son propios de los Municipios.
 
-X. Disponer sin las formalidades legales y fuera de los casos que la ley permita, de los bienes pertenecientes al Estado;
-
-XI. Disponer en ningún caso y por ningún motivo de los bienes que son propios de los Municipios;
-
-XII. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, peniéndola (sic) inmediatamente y sin excusa alguna a disposición de la autoridad competente.
+XI. Ordenar la aprehensión o la detención de persona alguna, sino en los casos que la Constitución Federal lo autorice, poniéndola inmediatamente sin excusa alguna a disposición de la autoridad competente.
 
 #### SECCION CUARTA. Del Gobierno y Administración Interior del Estado
 
@@ -1312,3 +1318,19 @@ EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORI
 P.O. 3 DE NOVIEMBRE DE 1934.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos el día 1o. de diciembre del año en curso.
+
+P.O. 19 DE SEPTIEMBRE DE 1936.
+
+DECRETO NUM. 3, QUE REFORMA EL ARTICULO 81 DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+EL DECRETO DE REFORMA CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3° DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE OAXACA.
+
+P.O. 19 DE SEPTIEMBRE DE 1936.
+
+DECRETO NUM. 4, QUE REFORMA LOS ARTICULOS 32, 33, Y 41 FRACCION l DE LA CONSTITUCION POLITICA DEL ESTADO.
+
+Primero.- Aprobada esta reforma constitucional, los Diputados locales que se designen en elección extraordinaria, durarán en su encargo dos años contados del 16 de septiembre de 1938 al 15 de septiembre de 1940.
+
+Segundo.- En los comicios que se efectúen en el año de mil novecientos cuarenta, será electa la totalidad de los Diputados locales que deben integrar la Legislatura del Estado.
+
+Tercero.- La instalación de la XXXVII Legislatura, se sujetará a las disposiciones del artículo 41 no reformado y relativos, del Reglamento interior de la H. Legislatura.
