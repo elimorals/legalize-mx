@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-13039"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-10-08"
-last_updated: "1994-07-09"
+last_updated: "1995-08-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE AGOSTO DE 1995.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 8 de octubre de 1988.
 
@@ -1245,6 +1245,8 @@ III.- El Supremo Tribunal de Justicia podrá crear Oficialías de Partes en los 
 
 ### CAPITULO III. PERITOS VALUADORES
 
+> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 1995)</small>
+
 ## TITULO SEGUNDO. CONDICIONES PARA EL INGRESO, FORMACION Y PERMANENCIA EN EL SERVICIO DE LA ADMINISTRACION DE JUSTICIA
 
 ###### ARTICULO 127.
@@ -1513,11 +1515,11 @@ Por traducción de cualquier documento, por las primeras cinco hojas, se pagará
 
 ###### ARTICULO 171.
 
-Los peritos valuadores de toda clase de bienes cobrarán por sus trabajos la mitad de las cuotas que establece el Artículo 167; pero si se tratare de créditos dudosos, litigiosos o algunos otros valores que, para determinarse, sea necesario examinar papeles, expedientes, contabilidades, constancias de archivo, etc., cobrarán las cuotas correspondientes, aumentándose éstas un 10 a un 50% a juicio de peritos.
+La clasificación de los Peritos Valuadores, la expedición de los peritajes y el arancel por honorarios, se normarán por lo dispuesto en la Ley que crea el Registro de Peritos Valuadores en el Estado de Colima.
 
 ###### ARTICULO 172.
 
-Si los peritos tuvieren necesidad de trasladarse a otra población para el despacho de su cometido, cobrarán además de las cuotas anteriores el equivalente de 1.5 a 4.5% de salario mínimo diario vigente por una sola vez, más los gastos de transporte y estancia.
+(DEROGADO, P.O. 26 DE AGOSTO DE 1995)
 
 TRANSITORIOS:
 
@@ -1576,3 +1578,15 @@ PRIMERO.- El presente Decreto entrará en vigor a los 30 días siguientes de la 
 SEGUNDO.- Hasta en tanto sean designados nuevos Magistrados Propietarios el Supremo Tribunal de Justicia funcionará en Salas Colegiadas, integradas cada una de ellas, por dos magistrados propietarios y sesionarán en Pleno los días miércoles y viernes de cada semana, para conocer y resolver los asuntos de su competencia jurisdiccional, como actualmente la tienen determinada. Cada uno de los Magistrados propietarios será ponente en los asuntos que conozca la sala respectiva. La ponencia formulada será sometida a la consideración y resolución del pleno de la sala, pero cada magistrado llevará el trámite de los negocios que le correspondan por turno, que estará bajo control de la Secretaría de Acuerdos de la sala.
 
 TERCERO.- El Presidente del Supremo Tribunal presidirá y formará parte del pleno de cada una de las salas y las resoluciones se tomarán por mayoría de votos. El Presidente tendrá voto de calidad en caso de empate. El pleno válidamente podrá actuar estando presentes dos magistrados siempre y cuando uno de ellos sea el Presidente Propietario o por Ministerio de Ley. En caso de que la ponencia fuera rechazada se entregará el negocio a uno de los magistrados que formaron la mayoría, para que formule nuevo proyecto en el sentido de la votación obtenida.
+
+P.O. 26 DE AGOSTO DE 1995.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Comisión de Peritos Valuadores deberá reestructurarse, a convocatoria de su Presidente, dentro de los noventa días a partir de la entrada en vigor del presente ordenamiento.
+
+TERCERO.- La publicación del directorio de peritos valuadores a que se refiere el artículo 12 que forma parte del artículo primero de este decreto, deberá hacerse por única vez, dentro de los 30 días siguientes a la publicación de este Decreto.
+
+CUARTO.- La exigencia y validez del refrendo bianual comenzará a surtir efectos a partir del mes de enero de 1996.
+
+Los Peritos registrados deberán acreditar haber cubierto los derechos correspondientes a los ejercicios de 1994 y 1995, previamente a la obtención del refrendo bianual a que se refiere el párrafo anterior.
