@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "1994-12-30"
+last_updated: "1995-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO FISCAL DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1995.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -275,6 +275,18 @@ Se considerará empresa la persona física o moral que realice las actividades a
 
 Cuando con motivo de la prestación de un servicio se proporcionen bienes o se otorgue su uso o goce temporal al prestatario, se considerará como ingreso por el servicio o como valor de éste, el importe total de la contraprestación a cargo del prestatario, siempre que sean bienes que normalmente se proporcionen o se conceda su uso o goce con el servicio de que se trate.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+###### ARTICULO 18 Bis.
+
+El monto de las contribuciones o de las devoluciones a cargo del fisco se actualizará por el transcurso del tiempo y con motivo de los cambios de precios en el país, para lo cual se aplicará el factor de actualización a las cantidades que se deban actualizar. Dicho factor se obtendrá dividiendo el Indice Nacional de Precios al Consumidor del mes anterior al más reciente del período entre el citado índice correspondiente al mes anterior al más antiguo de dicho período. Las contribuciones y en su caso el monto de las devoluciones no se actualizarán por fracciones de mes.
+
+Los valores de bienes u operaciones se actualizarán de acuerdo con lo dispuesto por este artículo, cuando las leyes fiscales así lo establezcan. Las disposiciones señalarán en cada caso el período de que se trate.
+
+Las cantidades actualizadas conservan la naturaleza jurídica que tenían antes de la actualización. El monto de ésta, determinado en las declaraciones mensuales, no será deducible ni acreditable.
+
+Para los efectos de este artículo se aplicará el Indice Nacional de Precios al Consumidor, calculado por el Banco de México, que se publica en el Diario Oficial de la Federación.
+
 ## TITULO II
 
 ### CAPITULO UNICO. De los Derechos y Obligaciones de los Contribuyentes
@@ -331,13 +343,15 @@ Cuando el contribuyente interponga algún medio de defensa legal impugnando algu
 
 Para determinar las contribuciones cuyo importe sea o comprenda fracciones en pesos, se efectuarán ajustando su monto a la unidad más próxima. Tratándose de cantidades terminadas en cincuenta centavos, el ajuste se hará a la unidad inmediata inferior.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
 ###### ARTICULO 22.
 
-Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
+Cuando no se cubran las contribuciones en la fecha o dentro del plazo fijado por las disposiciones fiscales, el monto de las mismas se actualizará desde el mes en que debió hacerse el pago y hasta que el mismo se efectúe; además deberán pagarse recargos en concepto de indemnización al fisco estatal por la falta de pago oportuno.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el Procedimiento Administrativo de Ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de las cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos o intereses se causarán conforme a la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
+Los recargos se calcularán sobre el total del crédito fiscal y mientras subsistan las facultades de la autoridad para determinar el crédito fiscal o para obtener su cobro mediante el procedimiento administrativo de ejecución o en su caso, mientras no se haya extinguido el derecho del particular para solicitar la devolución de cantidades pagadas indebidamente o de saldos a favor. En su cálculo se excluirán los propios recargos, la indemnización a que se refiere el cuarto párrafo de este artículo, los gastos de ejecución y las multas. Cuando el pago hubiera sido menor al que corresponda, los recargos se computarán sobre la diferencia. Los recargos se calcularán aplicando al monto de las cantidades actualizadas la tasa que fije la Ley respectiva por todo el mes, independientemente de que no se haya vencido por completo, a partir del día siguiente al en que debió hacerse el pago y hasta que el mismo se efectúe.
 
 Cuando los recargos determinados por el contribuyente sean inferiores a los que calcule la oficina recaudadora, ésta deberá aceptar el pago y procederá a exigir el remanente.
 
@@ -347,15 +361,15 @@ El cheque recibido por las autoridades fiscales que sea presentado en tiempo y n
 
 En el caso de aprovechamientos, los recargos se calcularán de conformidad con lo dispuesto en el segundo párrafo de este artículo.
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 30 DE DICIEMBRE DE 1992)</small>
-
 ###### ARTICULO 23.
 
 Las autoridades fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las leyes fiscales. La devolución podrá hacerse de oficio o a petición del interesado. Los retenedores podrán solicitar la devolución siempre que ésta se haga directamente a los contribuyentes. Cuando la contribución se calcule por ejercicios, únicamente podrá solicitar la devolución del saldo a favor quien presentó la declaración de su ejercicio, salvo que se trate del cumplimiento de resolución o sentencia firme de autoridad competente, en cuyo caso podrá solicitarse la devolución independientemente de la presentación de la declaración.
 
 Si el pago de lo indebido se hubiera efectuado en cumplimiento de acto de autoridad, el derecho a la devolución nace cuando dicho acto hubiera quedado insubsistente. Lo dispuesto en este párrafo no es aplicable a la determinación de diferencias por errores aritméticos las que darán lugar a la devolución siempre que no haya prescrito la obligación en los términos del último párrafo de este artículo.
 
-Cuando se solicite la devolución de un tributo estatal éste deberá efectuarse dentro del plazo de un mes contado a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualesquier otro dato o constancia que se solicite en forma particular. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades que procede devolver, excluyendo los propios intereses, y se computarán desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Cuando se solicite la devolución de un tributo estatal deberá efectuarse dentro del plazo de dos meses contados a la fecha en que se presentó la solicitud ante la autoridad fiscal competente, con todos los datos, informes y documentos que señale la forma oficial respectiva, así como cualquier otro dato o constancia que se solicite en forma particular. Si dentro de dicho plazo no se efectúa la devolución, el fisco deberá pagar intereses conforme a una tasa que se aplicará sobre el monto de la devolución actualizada y que será igual a la prevista para los recargos en los términos del artículo 22 de este Código. Los intereses se calcularán sobre las cantidades actualizadas que proceda devolver, excluyendo los propios intereses, y se computarán desde que venció el plazo hasta la fecha en que se efectúe la devolución o se pongan las cantidades a disposición del interesado.
 
 El contribuyente que habiendo efectuado el pago de una contribución determinada por la autoridad, interponga oportunamente los medios de defensa que las leyes establezcan y obtenga resolución firme que le sea favorable total o parcialmente, tendrá derecho a obtener del fisco estatal el pago de intereses conforme a una tasa que será igual a la prevista para los recargos en los términos del artículo 22 de este Código, sobre las cantidades pagadas indebidamente y a partir de que se efectuó el pago. En estos casos el contribuyente podrá compensar las cantidades a su favor, incluyendo los intereses, contra cualquier contribución que se pague mediante declaración, ya sea a su cargo o que deba enterar en su carácter de retenedor. Tratándose de contribuciones que tengan un fin específico sólo podrán compensarse contra la misma contribución.
 
@@ -363,7 +377,9 @@ El contribuyente que habiendo efectuado el pago de una contribución determinada
 
 En ningún caso los intereses a cargo del fisco estatal excederán del 200% de la cantidad de que se trate.
 
-Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+Cuando las autoridades fiscales procedan a la devolución de cantidades señaladas como saldo a favor en las declaraciones presentadas por los contribuyentes, sin que medie más trámite que la simple comprobación de que se efectuaron los pagos de contribuciones que el contribuyente declara haber hecho, la orden de devolución no implicará resolución favorable al contribuyente. Si la devolución se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 22 de este Código, sobre las cantidades actualizadas devueltas indebidamente y los posibles intereses pagados por las autoridades fiscales, a partir de la fecha de la devolución.
 
 La obligación de devolver prescribe en los mismos términos y condiciones que el crédito fiscal.
 
@@ -423,11 +439,19 @@ I.- Cambio de nombre, denominación o razón social.
 
 II.- Cambio de domicilio.
 
-III.- Alta, cambio o baja de obligaciones fiscales.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-IV.- Liquidación o fusión.
+III.- Alta, cambio, suspensión o baja de obligaciones fiscales.
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+IV.- Liquidación, fusión o escisión.
 
 V.- Cancelación en el Registro de Contribuyentes.
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
+
+VI.- Aumento o disminución de obligaciones fiscales.
 
 Asimismo, presentarán aviso de cambio de la actividad preponderante o sobre la apertura o cierre de establecimientos o de locales que se utilicen como base tipo para el desempeño de sus servicios.
 
@@ -1101,13 +1125,13 @@ II.- No presentar los avisos al registro o hacerlo extemporáneamente.
 
 A quien cometa las infracciones relacionadas con el registro estatal de contribuyentes a que se refiere el artículo 79 se impondrán las siguientes multas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-I.- De N$100.00 a la comprendida en la fracción I.
+I.- De $200.00 a la comprendida en la fracción I.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
-II.- De N$50.00 a la comprendida en la fracción II.
+II.- De $100.00 a la comprendida en la fracción II.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -2486,3 +2510,13 @@ UNICO.- El presente Decreto entrará en vigor el día 1º de Enero de 1994.
 P.O. 30 DE DICIEMBRE DE 1994.
 
 UNICO.- El presente Decreto entrará en vigor el día 1o. de Enero de 1995.
+
+P.O. 29 DE DICIEMBRE DE 1995.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día 1o. de Enero de 1996.
+
+###### ARTICULO SEGUNDO.
+
+Para los efectos de lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado, a fin de proceder a la actualización de contribuciones y devoluciones a partir del año de 1996 y que fueron exigibles con anterioridad a dicho año, se considerará como mes más antiguo del período el de enero de 1996.
