@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-6812"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-29"
-last_updated: "1995-05-24"
+last_updated: "1996-08-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CODIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1996.
 
 Código publicado en la Quinta Sección del Periódico Oficial del Estado de Nayarit, el sábado 29 de noviembre de 1986.
 
@@ -2067,7 +2067,13 @@ El ilícito de atentados al pudor, solo se sancionarán a petición del ofendido
 
 ###### ARTICULO 258.
 
-Al que tenga cópula con mujer púber, casta y honesta, menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión y multa de cinco a veinte días de salario. La castidad, la honestidad y la seducción se presumen, salvo prueba en contrario.
+Al que tenga cópula con mujer púber, casta y honesta, menor de dieciocho años, obteniendo su consentimiento por medio de la seducción o del engaño, se le impondrá de uno a seis años de prisión y multa de cinco a veinte días de salario.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1996)</small>
+
+Al que en el ejercicio de sus funciones, valiéndose de su posición jerárquica derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, cometa el delito de estupro, se le impondrá de tres a nueve años de prisión y una multa de quince a cuarenta días de salario.
+
+La castidad, la honestidad y la seducción se presumen, salvo prueba en contrario.
 
 ###### ARTICULO 259.
 
@@ -2077,7 +2083,7 @@ No se procederá contra el estuprador, sino por queja de la mujer ofendida o de 
 
 ###### ARTICULO 260.
 
-Se sancionará con prisión de seis a quince años de (sic) multa de diez a ochenta días de salario, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
+Se sancionará con prisión de seis a quince años y multa de diez a ochenta días de salario, a quien por medio de la violencia física o moral tenga cópula con una persona cualquiera que sea su sexo.
 
 Se sancionará como violación al que tenga cópula con persona impúber o con persona privada de razón o de sentido, o cuando por enfermedad o por cualquiera otra causa no pueda resistir.
 
@@ -2087,7 +2093,11 @@ La violación de un ascendiente a su descendiente, o de éste a aquél, se sanci
 
 La violación del padrastro a la hijastra o hijastro y la ejecutada por éste a su madrastra, o entre parientes adoptivos, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario.
 
-Cuando en una violación intervengan tres o más personas aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de diez a ochenta días de salario.
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 1996)</small>
+
+La violación cometida por aquél que en ejercicio de sus funciones, valiéndose de su posición jerárquica, derivada de sus relaciones laborales, docentes, domésticas o cualquier otra que implique subordinación, se sancionará con prisión de diez a treinta años y multa de diez a ochenta días de salario mínimo.
+
+Cuando en una violación intervengan tres o más personas, aún cuando sólo una de ellas, efectúe la cópula, se aplicarán a todas ellas de diez a treinta años de prisión y multa de diez a ochenta días de salario.
 
 ### CAPITULO UNICO. DELITOS EN MATERIA DE INHUMACIONES Y EXHUMACIONES
 
@@ -3232,3 +3242,9 @@ El presente decreto entrará en vigor 60 días después de su publicación en el
 P.O. 24 DE MAYO DE 1995.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano de Gobierno del Estado.
+
+P.O. 7 DE AGOSTO DE 1996.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Organo de Gobierno del Estado.
