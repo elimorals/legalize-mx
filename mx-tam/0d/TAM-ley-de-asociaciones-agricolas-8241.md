@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-agricolas-8241"
 country: "mx"
 rank: "ley"
 publication_date: "1945-01-31"
-last_updated: "1945-01-31"
+last_updated: "2004-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES AGRICOLAS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE MAYO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 31 de enero de 1945.
 
@@ -41,21 +41,27 @@ LEY DE ASOCIACIONES AGRICOLAS
 
 ## TITULO PRELIMINAR
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 1o.
 
-Las Asociaciones de Productores Agrícolas y su correspondiente Federación de Asociaciones, son Instituciones de interés publico. El Estado les otorga personalidad jurídica, siempre que llenen los requisitos exigidos por esta Ley.
+La presente ley es de orden público e interés social, tiene por objeto regular la constitución, organización y funcionamiento de las Asociaciones Agrícolas en sus modalidades de Asociaciones Locales, Municipales, Regionales y Federaciones Estatales, en su carácter de Instituciones de interés publico. El Estado les otorga personalidad jurídica, siempre que llenen los requisitos exigidos por esta Ley.
 
 ###### Artículo 2o.
 
 El Estado solamente reconocerá como Asociaciones a las que se organicen conforme a la presente Ley y cuyos estatutos y escritura constitutiva hayan sido aprobados por el Ejecutivo del Estado, por conducto de la Sección correspondiente. Igual requisito deberá llenar la Federación de Asociaciones Agrícolas. El Reglamento de esta Ley determinara la forma de hacer el registro.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 3o.
 
-Las Asociaciones que se constituyan de acuerdo con la presente Ley, gozaran de los subsidios que el Gobierno del Estado establezca anualmente en su presupuesto de Egresos, los que podrán excederse del monto de los impuestos de protección agrícola que se decreten. Para reducir o retirar dichos subsidios oirá previamente a la Asociación relativa y, en su caso a la Federación correspondiente.
+Las Asociaciones que se constituyan de acuerdo con la presente Ley, gozarán de los Programas y acciones que el Gobierno del Estado establezca anualmente conforme a su presupuesto de Egresos.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 4o.
 
-Mientras las Asociaciones cumplan con los preceptos de esta Ley y desempeñen su función en relación con sus miembros y la población agrícola en general, no podrán dejar de tener señalados los subsidios de que se habla en el Artículo anterior.
+Mientras las Asociaciones cumplan con los preceptos de esta Ley y desempeñen su función en relación con sus miembros y la población agrícola en general, no podrán dejar percibir los beneficios que señala el Artículo anterior.
 
 ###### Artículo 5o.
 
@@ -67,9 +73,11 @@ Las Asociaciones que se formen al amparo de esta Ley, deberán hacer constar en 
 
 De las Asociaciones.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 6o.
 
-Para los fines de esta Ley, el Estado se considera divido en las siguientes zonas agrícolas:
+Para los fines de esta Ley, el Estado se dividirá por municipios y en su caso por zonas agrícolas; conforme a la actividad predominante.
 
 1a.- Zona de Matamoros y Reynosa;
 
@@ -81,21 +89,33 @@ Para los fines de esta Ley, el Estado se considera divido en las siguientes zona
 
 5a.- Zona del Cuarto Distrito, comprendiendo los Municipios de Jaumave, Palmillas, Tula, Bustamante y Miquihuana.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 7o.
 
-En cada una de estas zonas se reconocerá una Asociación, la que para constituirse requerirá un mínimo de cincuenta agricultores, requiriéndose además que la extensión territorial de cultivos lo justifiquen, así como que los interesados demuestren sostener los gastos de Administración con sus propios recursos y llenar los beneficios de interés colectivo que inspira esta Ley siendo indispensable la aprobación de la Federación de Asociaciones, en caso de que esta se constituyera, y del gobierno del Estado.
+En cada uno de los Municipios o de estas zonas podrán constituirse las organizaciones que regula esta ley. Para la constitución de las Asociaciones Locales se requerirá un mínimo de seis socios; que la extensión territorial de los cultivos lo justifiquen; y que los interesados demuestren sostener los gastos de Administración con sus propios recursos, y llenar los beneficios de interés colectivo que inspira esta Ley, siendo indispensable la aprobación de la Federación Estatal de Asociaciones que corresponda en caso de que ésta se constituyera, y del gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 8o.
 
-Solamente podrá constituirse mas de una Asociación de una zona cuando el numero de asociados sea muy elevado, o bien que haya grupos que así lo ameriten en sub-zonas perfectamente definidas y cumpliendo con los requisitos del Artículo anterior.
+Cuando en un Municipio o zona funcionen tres o más Asociaciones locales con objetivos similares, podrá constituirse una Asociación Municipal.
+
+Cuando en una región productiva funcionen tres o más Asociaciones Municipales, podrán constituir una Unión Regional de Asociaciones Agrícolas.
+
+Cuando en el Estado existan dos o más uniones regionales, podrán constituir una Federación Estatal.
+
+Las Asociaciones Municipales, las Uniones Regionales y las Federaciones Estatales, se formarán con tres delegados por cada asociación integrante.
 
 ###### Artículo 9o.
 
 La Escritura social o los Estatutos de las Asociaciones, designaran la sede de cada una de ellas.
 
-###### Artículo 10o.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
-Para ser miembro de una asociación es requisito indispensable, ser agricultor de la jurisdicción correspondiente, dueño de terreno, arrendatario, aparcero, colono o ejidatario. Los ejidatarios estarán representados por los Comisariados Ejidales, Comités Regionales o Distritales, o Liga de Comunidades Agrarias.
+###### Artículo 10.
+
+Para ser miembro de una asociación es requisito indispensable, ser productor de la jurisdicción correspondiente, dueño de terreno, arrendatario, aparcero, colono o ejidatario. Los ejidatarios estarán representados por los Comisariados Ejidales, Comités Regionales o Distritales, o Liga de Comunidades Agrarias.
 
 ###### Artículo 11o.
 
@@ -127,9 +147,9 @@ g).- Promover el arbitraje de las diferencias o conflictos que sugieren entre lo
 
 h).- Obtener créditos para sus asociados, siempre que el producto de esos créditos se destine a los cultivos o actividades conexas y los interesados no tengan adeudos con los Bancos Nacionales de Crédito Ejidal y Agrícola.
 
-Será potestativo de las Asociaciones Agrícolas constituir la Federación de Asociaciones Agrícolas mediante la integración de tres o más Asociaciones.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
 
-Con respecto a la Federación las Asociaciones deberán tener las siguientes atribuciones:
+Las Federaciones de Asociaciones tendrán las siguientes atribuciones:
 
 a).- Representar ante la Federación a todos sus miembros;
 
@@ -139,9 +159,13 @@ c).- Obtener créditos con autorización de la Federación tanto para uso de las
 
 d).- Coadyuvar con la Federación en la defensa de los intereses de sus asociados en los términos que prescribe la presente Ley;
 
-e).- Suscribir y exhibir partes de interés del fondo social de la Federación de Asociaciones Agrícolas del Estado de Tamaulipas, y las acciones del capital del Banco de Tamaulipas, S.A., o de cualquier otra empresa que en lo futuro se funde, de acuerdo con la Federación de Asociaciones Agrícolas del Estado de Tamaulipas, la suscripción y exhibición de estas partes de interés y acciones, se hará asignando cuotas a los agricultores asociados por unidad de cada producto o subproducto agrícola incorporado dentro de la organización, el importe de las cuales será fijado por la Asamblea General de la propia Federación.
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
-f).- Proponer a la Federación de Asociaciones Agrícolas del Estado de Tamaulipas todo aquello que se juzgue provechoso para los fines de la organización;
+e).- Suscribir y exhibir partes de interés del fondo social de la Federación que representen y las acciones (sic) cualquier empresa crediticia que en lo futuro se funde, de acuerdo con la Federación de Asociaciones Agrícolas del Estado de Tamaulipas, la suscripción y exhibición de estas partes de interés y acciones, se hará asignando cuotas a los agricultores asociados por unidad de cada producto o subproducto agrícola incorporado dentro de la organización, el importe de las cuales será fijado por la Asamblea General de la propia Federación.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
+f).- Proponer a la Federación todo aquello que se juzgue provechoso para los fines de la organización;
 
 g).- Ejecutar los acuerdos de la Federación respecto al control, calidad, extensión y selección de cultivos y semillas y control de plagas.
 
@@ -163,9 +187,11 @@ VII.- Designar a un miembro del Consejo de Administración para que éste repres
 
 VIII.- Todas las demás que esta Ley o la escritura de la Asociación correspondiente les fijare.
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 14o.
 
-Las Asociaciones tendrán un capital mínimo variable de $ 5,000.00 que se formará por aportaciones estables o determinadas de sus socios en relación con las unidades de productos agrícolas que manejen, las cuales estarán señaladas en los Estatutos correspondientes, así como la forma y tiempo en que deberán ser cubiertas; y por aportaciones indeterminadas, equivalentes al 1 por ciento sobre las ventas de los productos agrícolas de acuerdo con el inciso d), del Artículo 13 de esta Ley.
+Las Asociaciones tendrán un capital mínimo que se formará por aportaciones estables o determinadas de sus socios en relación con las unidades de productos agrícolas que manejen, las cuales estarán señaladas en los Estatutos correspondientes, así como la forma y tiempo en que deberán ser cubiertas; y por aportaciones indeterminadas, equivalentes al 1 por ciento sobre las ventas de los productos agrícolas de acuerdo con el inciso d), del Artículo 13 de esta Ley.
 
 ###### Artículo 15o.
 
@@ -255,13 +281,17 @@ Las Asambleas Generales de las Asociaciones serán ordinarias y extraordinarias,
 
 ### CAPITULO I. DE LA FEDERACION
 
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
+
 ###### Artículo 32o.
 
-Podrán agruparse y formar una Federación que se denominara: " FEDERACIÓN DE ASOCIACIONES AGRÍCOLAS DEL ESTADO DE TAMAULIPAS ", cuya sede será la Capital del Estado. Las Asociaciones que integraren la Federación y dejaren de suscribir su fondo social o de cumplir con los mandatos de esta Ley, automáticamente dejaran de percibir los subsidios establecidos por el Gobierno del Estado.
+Las Asociaciones que regula esta ley, de acuerdo a su especialidad de producción, podrán agruparse y formar una Federación, cuya sede será la Capital del Estado. Las Asociaciones que integraren la Federación y dejaren de suscribir su fondo social o de cumplir con los mandatos de esta Ley, automáticamente dejaran de percibir los beneficios, apoyos o subsidios establecidos por el Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 33o.
 
-La Federación se regirá por la presente Ley y tendrá el fondo social que señala su escritura constitutiva, el cual no será inferior a $ 100,000.00 y deberá ser suscrito por las Asociaciones afiliadas en proporción al numero de sus socios, cuyas cuotas serán fijadas por la Asamblea y pagadas por los agricultores. El fondo social aumentara anualmente con los fondos aportados en tal forma y tendrá por limites máximos las necesidades de crédito de los agricultores del Estado que estén asociados y las inversiones productivas que establezca la misma Federación.
+Las Federaciones se regirán por la presente Ley y tendrá el fondo social que señale su escritura constitutiva, y deberá ser suscrito por las Asociaciones afiliadas en proporción al número de sus socios, cuyas cuotas serán fijadas por la Asamblea y pagadas por los agricultores. El fondo social aumentará anualmente con los fondos aportados en tal forma y tendrá por límites máximos las necesidades de crédito de los agricultores del Estado que estén asociados y las inversiones productivas que establezca la misma Federación.
 
 ###### Artículo 34o.
 
@@ -307,7 +337,9 @@ La Federación queda autorizada para recibir a nombre de las Asociaciones, los s
 
 El fondo social de la Federación de Asociaciones Agrícolas del Estado de Tamaulipas, solamente podrá ser invertido en:
 
-I.- Suscripción y exhibición de acciones del Banco de Tamaulipas, S.A.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2004)</small>
+
+I.- Suscripción y exhibición de acciones Bancarias.
 
 II.- Establecimientos de plantas o empresas de industrialización, almacenamiento, empaque, (adquisición de sementales), Transportes y otras de beneficio general para las organizaciones Asociadas.
 
@@ -317,7 +349,7 @@ IV.- En los gastos de sostenimiento de su organización.
 
 V.- En la cooperación con el Gobierno del Estado para el estudio y construcción de obras de irrigación y de todas aquellas que beneficien a los agricultores; en el concepto de que dicha cooperación no será inferior al 50 por ciento de los ingresos que la propia Federación obtenga en los términos señalados en el Artículo 42 de esta Ley.
 
-Los fondos de las Asociaciones y de la Federación serán depositados, en el Banco de Tamaulipas, S. A., cuando este se constituya y, mientras tanto en la Institución Bancaria que designe el Consejo respectivo.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
 
 ###### Artículo 44o.
 
@@ -407,13 +439,17 @@ Cuando el Ejecutivo del Estado tenga conocimiento de que alguna de las Asociacio
 
 I.- Participara a la Asociación correspondiente o a la Federación, las irregularidades cometidas, y le señalara un plazo no mayor de diez días para que dentro de él presente las pruebas que estime pertinentes para su defensa.
 
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2004)</small>
+
 II.- Concluido el término mencionado en la fracción anterior si la Asociación o la Federación en su caso, no hubieren promovido defensa alguna ni presentado pruebas, o a pesar de unas y otras, se comprobare la existencia de las irregularidades, le concederá un plazo no mayor de quince días para que las corrija.
 
 III.- Si no se corrigieren las irregularidades en el plazo citado en la fracción anterior, el Ejecutivo del Estado impondrá administrativamente, a los miembros del consejo de Administración de la Asociación o a los miembros del Consejo Directivo de la Federación en su caso, que aparezcan responsables, una multa de $ 100.00 a $ 1,000.00 a cada uno que deberá ser pagada a la Tesorería General del Estado.
 
 IV.- Si las irregularidades existentes consistieren en infracciones graves a la Ley, o se comprobare que las funciones de la Asociación o de la Federación perjudica a los asociados o no llenan su objeto, el Ejecutivo del Estado cancelara el registro de la interesada que obre en la Sección de Tesorería del Gobierno del Estado, retirándole, por lo tanto su reconocimiento, y le ordenara que se disuelva en el plazo que al efecto fije.
 
-V.- Si no se disolviere la Asociación o la Federación, en su caso, oportunamente el Ejecutivo del Estado impondrá administrativamente a los miembros del Consejo de Administración o a los del Consejo Directivo de la Federación en su caso, que aparezcan responsables, sanción de $ 500.00 a $ 2,000.00 a cada uno que deberá ser pagada en la Tesorería General del Estado aplicándose como ingresos eventuales.
+> <small>(REFORMADA, P.O. 27 DE MAYO DE 2004)</small>
+
+V.- Si no se disolviere la Asociación o la Federación en su caso, oportunamente el Ejecutivo del Estado impondrá administrativamente a los miembros del Consejo de Administración a los del Consejo Directivo de la Federación en su caso, que aparezcan responsables, sanción de $ 500.00 a $ 2,000.00 a cada uno que deberá ser pagada en la Secretaría de Finanzas del Estado aplicándose como ingresos eventuales.
 
 ###### Artículo 57.
 
@@ -440,3 +476,15 @@ Esta Ley entrará en vigor desde el día de su publicación en el Periódico Ofi
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
 Dado en el Palacio del Poder Ejecutivo, en Ciudad Victoria, Capital del Estado, a los veintitrés días del mes de enero de mil novecientos cuarenta y cinco.- LIC. BENITO JUAREZ OCHOA.- El Oficial Mayor de Gobierno, ARSENIO SAEB.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 27 DE MAYO DE 2004.
+
+###### ARTICULO 1º.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO 2º.
+
+Las Asociaciones que se encuentren constituidas conforme a las disposiciones que se reforman, podrán ajustar su funcionamiento a estas últimas, en todo cuanto les beneficie.
