@@ -4,7 +4,7 @@ identifier: "LGSM"
 country: "mx"
 rank: "ley_general"
 publication_date: "1934-08-04"
-last_updated: "1989-12-28"
+last_updated: "1992-06-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=578&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGSM"
 
 LEY GENERAL DE SOCIEDADES MERCANTILES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 11 DE JUNIO DE 1992.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el sábado 4 de agosto de 1934.
 
@@ -84,11 +84,11 @@ La liquidación se limitará a la realización del activo social, para pagar las
 
 Se reputarán mercantiles todas las sociedades que se constituyan en alguna de las formas reconocidas en el artículo 1°. de esta Ley.
 
-> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 5°.
 
-Las sociedades se constituirán ante Notario y en la misma forma se harán constar sus modificaciones.
+Las sociedades se constituirán ante notario y en la misma forma se harán constar con sus modificaciones. El notario no autorizará la escritura cuando los estatutos o sus modificaciones contravengan lo dispuesto por esta ley.
 
 ###### ARTICULO 6°.
 
@@ -159,6 +159,18 @@ La oposición se tramitará en la vía sumaria, suspendiéndose la reducción en
 ###### ARTICULO 10.
 
 La representación de toda sociedad mercantil corresponderá a su administrador o administradores, quienes podrán realizar todas las operaciones inherentes al objeto de la sociedad, salvo lo que expresamente establezcan la Ley y el contrato social.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+Para que surtan efecto los poderes que otorgue la sociedad mediante acuerdo de la asamblea o del órgano colegiado de administración, en su caso, bastará con la protocolización ante notario de la parte del acta en que conste el acuerdo relativo a su otorgamiento, debidamente firmada por quienes actuaron como presidente o secretario de la asamblea o del órgano de administración según corresponda, quienes deberán firmar el instrumento notarial, o en su defecto lo podrá firmar el delegado especialmente designado para ello en sustitución de los anteriores.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+El notario hará constar en el instrumento correspondiente, mediante la relación, inserción o el agregado al apéndice de las certificaciones, en lo conducente, de los documentos que al efecto se le exhiban, la denominación o razón social de la sociedad, su domicilio, duración, importe del capital social y objeto de la misma, así como las facultades que conforme a sus estatutos le correspondan al órgano que acordó el otorgamiento del poder y, en su caso, la designación de los miembros del órgano de administración.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+Si la sociedad otorgare el poder por conducto de una persona distinta a los órganos mencionados, en adición a la relación o inserción indicadas en el párrafo anterior, se deberá dejar acreditado que dicha persona tiene las facultades para ello.
 
 ###### ARTICULO 11.
 
@@ -424,13 +436,17 @@ La sociedad de responsabilidad limitada existirá bajo una denominación o bajo 
 
 Cualquiera persona extraña a la sociedad que haga figurar o permita que figure su nombre en la razón social, responderá de las operaciones sociales hasta por el monto de la mayor de las aportaciones.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 61.
 
-Ninguna sociedad de responsabilidad limitada tendrá más de veinticinco socios.
+Ninguna sociedad de responsabilidad limitada tendrá más de cincuenta socios.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 62.
 
-El capital social nunca será inferior a cinco mil pesos; se dividirá en partes sociales que pueden ser de valor y categoría desiguales, pero que en todo caso serán de cien pesos o de un múltiplo de cien pesos.
+El capital social nunca será inferior a tres millones de pesos; se dividirá en partes sociales que podrán ser de valor y categoría desiguales, pero que en todo caso serán de mil pesos o de un múltiplo de esta cantidad.
 
 ###### ARTICULO 63.
 
@@ -440,9 +456,11 @@ La constitución de las sociedades de responsabilidad limitada o el aumento de s
 
 Al constituirse la sociedad el capital deberá estar íntegramente suscrito y exhibido, por lo menos, el cincuenta por ciento del valor de cada parte social.
 
+(REFORMADO, D.O.F. 11 DE JUNIO DE 1992) (F. DE E., D.O.F. 12 DE JUNIO DE 1992)
+
 ###### ARTICULO 65.
 
-Para que los socios cedan sus partes sociales, así como para la admisión de nuevos socios, será necesario el consentimiento de todos los demás, a no ser que conforme al contrato social baste el acuerdo de la mayoría que represente, cuando menos, las tres cuartas partes del capital social.
+Para la cesión de partes sociales, así como para la admisión de nuevos socios, bastará el consentimiento de los socios que representen la mayoría del capital social, excepto cuando los estatutos dispongan una proporción mayor.
 
 ###### ARTICULO 66.
 
@@ -534,9 +552,13 @@ XI.- Decidir sobre la disolución de la sociedad, y
 
 XII.- Las demás que les correspondan conforme a la Ley o al contrato social.
 
+> <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 79.
 
-Todo socio tendrá derecho a participar en las decisiones de las asambleas, gozando de un voto por cada cien pesos de su aportación, salvo lo que el contrato establezca sobre partes sociales privilegiadas.
+Todo socio tendrá derecho a participar en las decisiones de las asambleas, gozando de un voto por cada mil pesos de su aportación o el múltiplo de esta cantidad que se hubiere determinado, salvo lo que el contrato social establezca sobre partes sociales privilegiadas.
 
 ###### ARTICULO 80.
 
@@ -588,9 +610,13 @@ La denominación se formará libremente, pero será distinta de la de cualquiera
 
 Para proceder a la constitución de una sociedad anónima, se requiere:
 
-I.- Que haya cinco socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1992)</small>
 
-II.- Que el capital social no sea menor de veinticinco mil pesos y que esté íntegramente suscrito;
+I.- Que haya dos socios como mínimo, y que cada uno de ellos suscriba una acción por lo menos;
+
+> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+II.- Que el capital social no sea menor de cincuenta millones de pesos y que esté íntegramente suscrito;
 
 III.- Que se exhiba en dinero efectivo, cuando menos, el veinte por ciento del valor de cada acción pagadera en numerario, y
 
@@ -976,6 +1002,10 @@ Salvo pacto en contrario, será Presidente del Consejo el Consejero primeramente
 
 Para que el Consejo de Administración funcione legalmente deberá asistir, por lo menos, la mitad de sus miembros y sus resoluciones serán válidas cuando sean tomadas por la mayoría de los presentes. En caso de empate, el Presidente del Consejo decidirá con voto de calidad.
 
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+En los estatutos se podrá prever que las resoluciones tomadas fuera de sesión de consejo, por unanimidad de sus miembros tendrán, para todos los efectos legales, la misma validez que si hubieren sido adoptadas en sesión de consejo, siempre que se confirmen por escrito.
+
 > <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1981)</small>
 
 ###### ARTICULO 144.
@@ -1012,13 +1042,17 @@ La terminación de las funciones del Administrador o Consejo de Administración 
 
 No pueden ser Administradores ni Gerentes, los que conforme a la ley estén inhabilitados para ejercer el comercio.
 
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
 ###### ARTICULO 152.
 
-Los Administradores y los Gerentes prestarán la garantía que determinen los estatutos o, en su defecto, la Asamblea General de Accionistas, para asegurar las responsabilidades que pudieran contraer en el desempeño de sus encargos.
+Los estatutos o la asamblea general de accionistas, podrán establecer la obligación para los administradores y gerentes de prestar garantía para asegurar las responsabilidades que pudieran contraer en el desempeño de sus encargos.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 1992)</small>
 
 ###### ARTICULO 153.
 
-No podrán inscribirse en el Registro Público de Comercio, los nombramientos de los Administradores y Gerentes, sin que se compruebe que han prestado la garantía a que se refiere el artículo anterior.
+No podrán inscribirse en el Registro Público de Comercio los nombramientos de los administradores y gerentes sin que se compruebe que han prestado la garantía a que se refiere el artículo anterior, en caso de que los estatutos o la asamblea establezcan dicha obligación.
 
 ###### ARTICULO 154.
 
@@ -1227,6 +1261,10 @@ Quince días después de la fecha en que la asamblea general de accionistas haya
 ###### ARTICULO 178.
 
 La Asamblea General de Accionistas es el Organo Supremo de la Sociedad; podrá acordar y ratificar todos los actos y operaciones de ésta y sus resoluciones serán cumplidas por la persona que ella misma designe, o a falta de designación, por el Administrador o por el Consejo de Administración.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+En los estatutos se podrá prever que las resoluciones tomadas fuera de asamblea, por unanimidad de los accionistas que representen la totalidad de las acciones con derecho a voto o de la categoría especial de acciones de que se trate, en su caso, tendrán, para todos los efectos legales, la misma validez que si hubieren sido adoptadas reunidos en asamblea general o especial, respectivamente, siempre que se confirmen por escrito. En lo no previsto en los estatutos serán aplicables en lo conducente, las disposiciones de esta ley.
 
 ###### ARTICULO 179.
 
@@ -1484,7 +1522,9 @@ El retiro parcial o total de aportaciones de un socio deberá notificarse a la s
 
 No podrá ejercitarse el derecho de separación cuando tenga como consecuencia reducir a menos del mínimo el capital social.
 
-### CAPITULO IX. De la fusión y de la transformación de las sociedades
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+### CAPITULO IX. De la fusión, transformación, y escisión de las sociedades
 
 ###### ARTICULO 222.
 
@@ -1521,6 +1561,42 @@ Las sociedades constituidas en alguna de las formas que establecen las fraccione
 ###### ARTICULO 228.
 
 En la transformación de las sociedades se aplicarán los preceptos contenidos en los artículos anteriores de este capítulo.
+
+> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 1992)</small>
+
+ARTICULO 228 BIS.- Se da la escisión cuando una sociedad denominada escindente decide extinguirse y divide la totalidad o parte de su activo, pasivo y capital social en dos o más partes, que son aportadas en bloque a otras sociedades de nueva creación denominadas escindidas; o cuando la escindente, sin extinguirse, aporta en bloque parte de su activo, pasivo y capital social a otra u otras sociedades de nueva creación.
+
+La escisión se regirá por lo siguiente:
+
+I.- Sólo podrá acordarse por resolución de la asamblea de accionistas o socios u órgano equivalente, por la mayoría exigida para la modificación del contrato social;
+
+II.- Las acciones o partes sociales de la sociedad que se escinda deberán estar totalmente pagadas;
+
+III.- Cada uno de los socios de la sociedad escindente tendrá inicialmente una proporción del capital social de las escindidas, igual a la de que sea titular en la escindente;
+
+IV.- La resolución que apruebe la escisión deberá contener:
+
+a) La descripción de la forma, plazos y mecanismos en que los diversos conceptos de activo, pasivo y capital social serán transferidos;
+
+b) La descripción de las partes del activo, del pasivo y del capital social que correspondan a cada sociedad escindida, y en su caso a la escindente, con detalle suficiente para permitir la identificación de éstas;
+
+c) Los estados financieros de la sociedad escindente, que abarquen por lo menos las operaciones realizadas durante el último ejercicio social, debidamente dictaminados por auditor externo. Corresponderá a los administradores de la escindente, informar a la asamblea sobre las operaciones que se realicen hasta que la escisión surta plenos efectos legales;
+
+d) La determinación de las obligaciones que por virtud de la escisión asuma cada sociedad escindida. Si una sociedad escindida incumpliera alguna de las obligaciones asumidas por ella en virtud de la escisión, responderán solidariamente ante los acreedores que no hayan dado su consentimiento expreso, la o las demás sociedades escindidas, durante un plazo de tres años contado a partir de la última de las publicaciones a que se refiere la fracción V, hasta por el importe del activo neto que les haya sido atribuido en la escisión a cada una de ellas; si la escindente no hubiere dejado de existir, ésta responderá por la totalidad de la obligación; y
+
+e) Los proyectos de estatutos de las sociedades escindidas;
+
+V.- La resolución de escisión deberá protocolizarse ante notario e inscribirse en el Registro Público de Comercio. Asimismo, deberá publicarse en la gaceta oficial y en uno de los periódicos de mayor circulación del domicilio de la escindente, un extracto de dicha resolución que contenga, por lo menos, la síntesis de la información a que se refieren los incisos a) y d) de la fracción IV de este artículo, indicando claramente que el texto completo se encuentra a disposición de socios y acreedores en el domicilio social de la sociedad durante un plazo de cuarenta y cinco días naturales contado a partir de que se hubieren efectuado la inscripción y ambas publicaciones;
+
+VI.- Durante el plazo señalado, cualquier socio o grupo de socios que representen por lo menos el veinte por ciento del capital social o acreedor que tenga interés jurídico, podrá oponerse judicialmente a la escisión, la que se suspenderá hasta que cause ejecutoria la sentencia que declara que la oposición es infundada, se dicte resolución que tenga por terminado el procedimiento sin que hubiere procedido la oposición o se llegue a convenio, siempre y cuando quien se oponga diere fianza bastante para responder de los daños y perjuicios que pudieren causarse a la sociedad con la suspensión;
+
+VII.- Cumplidos los requisitos y transcurrido el plazo a que se refiere la fracción V, sin que se haya presentado oposición, la escisión surtirá plenos efectos; para la constitución de las nuevas sociedades, bastará la protocolización de sus estatutos y su inscripción en el Registro Público de Comercio;
+
+VIII.- Los accionistas o socios que voten en contra de la resolución de escisión gozarán del derecho a separarse de la sociedad, aplicándose en lo conducente lo previsto en el artículo 206 de esta ley;
+
+IX.- Cuando la escisión traiga aparejada la extinción de la escindente, una vez que surta efectos la escisión se deberá solicitar del Registro Público de Comercio la cancelación de la inscripción del contrato social;
+
+X.- No se aplicará a las sociedades escindidas lo previsto en el artículo 141 de esta ley.
 
 ### CAPITULO X. De la disolución de las sociedades
 
@@ -1724,31 +1800,29 @@ Salvo pacto en contrario, para la distribución de las utilidades y de las pérd
 
 Las asociaciones en participación funcionan, se disuelven y liquidan, a falta de estipulaciones especiales, por las reglas establecidas para las sociedades en nombre colectivo, en cuanto no pugnen con las disposiciones de este capítulo.
 
+> <small>(DEROGADO EL CAPITULO Y LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 11 DE JUNIO DE 1992)</small>
+
 ### CAPITULO XIV. Del registro de las sociedades mercantiles
 
 ###### ARTICULO 260.
 
-La inscripción en el Registro Público de Comercio de la escritura constitutiva de una sociedad mercantil y la de sus reformas, se harán mediante orden judicial, de acuerdo con los artículos siguientes.
+(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
 
 ###### ARTICULO 261.
 
-La solicitud respectiva se formulará ante el Juez de Distrito o ante el Juez de Primera Instancia de la jurisdicción del domicilio de la sociedad, acompañándose con todos los documentos relativos al acto de cuya inscripción se trate.
-
-> <small>(F. DE E., D.O.F. 28 DE AGOSTO DE 1934)</small>
+(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
 
 ###### ARTICULO 262.
 
-El Juez dará vista de la solicitud al Ministerio Público, por el término de tres días y desahogado el traslado citará para una audiencia dentro de los tres días siguientes, en la que se recibirán pruebas y se dictará la resolución que ordene o niegue el registro solicitado.
+(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
 
 ###### ARTICULO 263.
 
-Los interesados podrán interponer el recurso de apelación dentro del término de tres días.
-
-El recurso se decidirá sin más trámite que la celebración de la vista, en la que los apelantes expresarán los agravios que les cause la resolución del inferior y a continuación se pronunciará el fallo correspondiente.
+(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
 
 ###### ARTICULO 264.
 
-Una vez que haya causado ejecutoria la resolución judicial que acuerde la inscripción del acto, el Registrador procederá a efectuar el registro.
+(DEROGADO, D.O.F. 11 DE JUNIO DE 1992)
 
 TRANSITORIOS:
 
@@ -1851,3 +1925,17 @@ La presente Ley entrará en vigor el día 1o. de enero de 1990.
 ###### ARTICULO SEGUNDO.
 
 Quedan sin efectos las disposiciones administrativas, resoluciones, consultas, interpretaciones, autorizaciones o permisos de carácter general o que se hubieran otorgado a título particular, que contravengan o se opongan a lo preceptuado en esta Ley.
+
+D.O.F. 11 DE JUNIO DE 1992.
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+> <small>(F. DE E., D.O.F. 12 DE JUNIO DE 1992)</small>
+
+SEGUNDO.- En el caso de las sociedades de responsabilidad limitada constituidas antes de la entrada en vigor de este decreto, cuyos estatutos no prevean la proporción de votos requerida para la cesión de partes sociales, dichas sociedades gozarán de un plazo de 12 meses para hacer las modificaciones estatutarias pertinentes, en cuyo defecto y al vencimiento de dicho plazo se aplicará lo dispuesto en el artículo 65 que se reforma.
+
+TERCERO.- A las sociedades de responsabilidad limitada y sociedades anónimas existentes a la fecha de entrada en vigor de estas reformas, no les será aplicable lo relativo al capital social mínimo que se establece en los artículos 62 y 89, fracción II de este decreto, respectivamente.
+
+CUARTO.- No se requerirá autorización judicial para la inscripción de escrituras de constitución o modificación de sociedades, aún cuando hayan sido otorgadas con anterioridad a la entrada en vigor del presente decreto.
+
+QUINTO.- Los poderes ya otorgados y los que se encuentren en trámite ante notario a la entrada en vigor de este decreto, que reúnan los requisitos que establece el artículo 10°. de la ley, serán plenamente válidos.
