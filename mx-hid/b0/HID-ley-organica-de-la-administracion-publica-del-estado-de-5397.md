@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-del-estado-de-5397"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1994-06-13"
-last_updated: "1995-08-14"
+last_updated: "1999-05-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE AGOSTO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE MAYO DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 13 de junio de 1994.
 
@@ -57,9 +57,11 @@ La presente ley regula la organización y funcionamiento de la administración p
 
 El ejercicio del Poder Ejecutivo corresponde al Gobernador del Estado, quien tendrá las facultades, atribuciones y obligaciones que le señalan la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Hidalgo, la presente ley y las demás disposiciones legales vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 3.
 
-Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias de la administración pública centralizada que establece esta ley y con las unidades de apoyo, asesoría, coordinación, control de gestión y comunicación social que determine de acuerdo a sus atribuciones y al presupuesto que se autorice, mismas que estarán a cargo del secretario del despacho del Gobernador.
+Para el despacho de los asuntos que competen al Poder Ejecutivo, el Gobernador del Estado se auxiliará de las dependencias de la administración pública centralizada que establece esta ley y con las unidades de apoyo, control de gestión y comunicación social que determine de acuerdo a sus atribuciones y al presupuesto que se autorice, mismas que estarán a cargo del Secretario del Despacho del Gobernador.
 
 Podrá asimismo establecer oficinas de representación del Gobierno del Estado fuera del territorio del mismo, con las atribuciones y facultades que él acuerde.
 
@@ -81,9 +83,11 @@ Las entidades de la administración pública paraestatal podrán integrarse a di
 
 El Gobernador del Estado determinará los asuntos específicos en que las dependencias del ejecutivo estatal y entidades paraestatales deban coordinarse, tanto entre sí, como con las administraciones municipales y, en el marco del Sistema Nacional de Planeación, con dependencias y entidades de la Administración Pública Federal, mediante la celebración de los acuerdos correspondientes.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 8.
 
-El Gobernador del Estado, de conformidad con lo dispuesto por la Ley General de Educación, fijará y conducirá la política educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
+El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
 
 ###### ARTICULO 9.
 
@@ -93,9 +97,11 @@ El Gobernador del Estado podrá convenir con el Ejecutivo Federal, con otras ent
 
 El Gobernador del Estado podrá nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, con las limitaciones que establezcan las leyes.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 11.
 
-El Gobernador del Estado podrá convocar a reuniones de titulares de las dependencias y entidades de la Administración Pública del Estado, cuando se trate de definir o evaluar la política estatal en materias que sean de competencia concurrente. Estas reuniones serán presididas por el Gobernador y el Secretario Técnico de las mismas, estará bajo su dependencia directa.
+El Gobernador podrá convocar a reuniones de titulares de las dependencias y entidades de la administración pública estatal, cuando se trate de definir o evaluar la política en materias que sean de carácter concurrente.
 
 ###### ARTICULO 12.
 
@@ -117,17 +123,37 @@ I.- Secretaría de Gobierno;
 
 II.- Secretaría de Finanzas y Administración;
 
-III.- Secretaría de Desarrollo Regional;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-IV.- Secretaría de Obras Publicas;
+III.- Secretaría de Desarrollo Social;
 
-V.- Secretaría de Industria y Comercio;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-VI.- Secretaría de Agricultura;
+IV.- Secretaría del Despacho del Gobernador;
 
-VII.- Unidad de Contraloría Gubernamental; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-VIII.- (DEROGADA, P.O. 14 DE AGOSTO DE 1995)
+V.- Secretaría Técnica;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VI.- Secretaría de Obras Publicas;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VII.- Secretaría de Desarrollo Económico;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VIII.- Secretaría de Agricultura;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+IX.- Secretaría de Turismo y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+X.- Secretaría de Contraloría.
 
 ###### ARTICULO 14.
 
@@ -141,23 +167,31 @@ Las dependencias y entidades de la administración pública, conducirán sus act
 
 Las dependencias del Ejecutivo estarán obligadas a coordinar entre sí sus actividades y a proporcionarse la información necesaria, cuando el ejercicio de sus funciones así lo requiera.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 17.
 
-Cada dependencia del Poder Ejecutivo formulará, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, acuerdos y convenios que el Gobernador del Estado deba considerar.
+Cada dependencia del Poder Ejecutivo formulará, respecto de los asuntos de su competencia, los proyectos de leyes, reglamentos, decretos, acuerdos, circulares, manual de organización y convenios que el Gobernador del Estado deba considerar.
 
 ###### ARTICULO 18.
 
 Cuando exista duda sobre la competencia en algún asunto, el Gobernador del Estado resolverá a qué dependencia corresponde el despacho del mismo.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 19.
 
-Al frente de cada dependencia del Poder Ejecutivo habrá un titular de la misma, quien para el despacho de los asuntos de su competencia, se auxiliará por las unidades administrativas que establezca el reglamento interior respectivo y demás disposiciones legales vigentes.
+Al frente de cada dependencia del Poder Ejecutivo habrá un titular, quien para el despacho de los asuntos de su competencia, se auxiliará por las unidades administrativas que establezcan el reglamento interior respectivo, el manual de organización y demás disposiciones legales.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
 
 ###### ARTICULO 20.
 
-Para ser titular de las dependencias y entidades del Ejecutivo a que se refiere esta ley, se requiere:
+Para ser titular de las dependencias y Entidades del Ejecutivo a que se refiere esta ley, se requiere:
 
-I.- Ser ciudadano mexicano en pleno goce de sus derechos;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+I.- Ser ciudadano mexicano en pleno goce y ejercicio de sus derechos.
 
 II.- Contar con experiencia en el ramo para el que se le designe;
 
@@ -287,17 +321,23 @@ XIII.- Practicar inspecciones y auditorías a los causantes con objeto de asegur
 
 XIV.- Ejercer la facultad económico-coactiva conforme a las leyes relativas;
 
-XV.- Proponer al Gobernador del Estado, en coordinación con la Unidad de Contraloría Gubernamental, el dictamen de cancelación de cuentas que de acuerdo a la normatividad resulten incobrables, así como el otorgamiento de subsidios fiscales en los casos en que proceda;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XV.- Proponer al Gobernador del Estado, en coordinación con la Secretaría de Contraloría, el dictamen de cancelación de cuentas que de acuerdo a la normatividad resulten incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
 XVI.- Autorizar el ejercicio del gasto público con base en el presupuesto aprobado;
 
-XVII.- Estimar y dar a conocer a la Secretaría de Desarrollo Regional el monto global y la calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta última en materia de programación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVII.- Estimar y dar a conocer a la Secretaría de Desarrollo Social el monto global y la calendarización provisional del presupuesto para el siguiente ejercicio fiscal, a fin de posibilitar las atribuciones de esta última en materia de programación;
 
 XVIII.- Aplicar las políticas que señale el Gobernador del Estado para el ejercicio del presupuesto de egresos;
 
 XIX.- Diseñar, instrumentar y actualizar el sistema de presupuestación del gasto público de acuerdo con los objetivos y necesidades de la Administración Pública del Estado, asesorando a las dependencias y entidades para la integración de su presupuesto específico;
 
-XX.- Establecer en coordinación con la Secretaría de Desarrollo Regional, la programación-presupuestación del gasto público para el ejercicio correspondiente en el programa financiero calendarizado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XX.- Establecer, en coordinación con la Secretaría de Desarrollo Social, la programación-presupuestación del gasto público para el ejercicio correspondiente en el programa financiero calendarizado;
 
 XXI.- Integrar la propuesta de Presupuesto de Egresos del Gobierno del Estado y formular el proyecto de iniciativa de decreto correspondiente;
 
@@ -305,7 +345,9 @@ XXII.- Calendarizar y efectuar los pagos conforme a los programas y presupuestos
 
 XXIII.- Llevar el registro y control de la deuda pública del Estado y sobre la situación que guardan las amortizaciones de capital y pago de intereses;
 
-XXIV.- Emitir, con la opinión de la Unidad de Contraloría Gubernamental, los catálogos de cuentas para la contabilidad del gasto público estatal y formular la cuenta anual de hacienda pública estatal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXIV.- Emitir, con la opinión de la Secretaría de Contraloría, los catálogos de cuentas para la contabilidad del gasto público estatal y formular la cuenta anual de hacienda pública estatal;
 
 XXV.- Revisar las operaciones financieras del Estado, así como llevar a cabo la contabilidad de las operaciones gubernamentales;
 
@@ -335,9 +377,11 @@ XXXVII.- Administrar la intendencia, los almacenes generales y la oficialía de 
 
 XXXVIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 26.
 
-A la Secretaría de Desarrollo Regional corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Social corresponde el despacho de los siguientes asuntos:
 
 I.- Elaborar, ejecutar y evaluar, con la participación de las demás dependencias del Poder Ejecutivo, los municipios y los sectores social y privado, el Plan Estatal de Desarrollo, los programas regionales y sectoriales y aquellos de carácter especial que fije el Gobernador del Estado;
 
@@ -349,7 +393,9 @@ IV.- Coordinar las actividades del Comité de Planeación para el Desarrollo del
 
 V.- Promover estrategias de desconcentración y descentralización hacia las regiones, municipios y comunidades, de los programas y acciones que impacten en el desarrollo regional;
 
-VI.- Establecer los lineamientos que sirvan de base para la elaboración de los programas sectoriales, la programación del gasto de inversión y coadyuvar en la presupuestación que realice la Secretaría de Finanzas y Administración, revisando los programas anuales que deban presentar las dependencias del sector central y los organismos, empresas y fideicomisos del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VI.- Establecer los lineamientos que sirvan de base para la elaboración de los programas sectoriales, regionales y especiales, así como la programación del gasto de inversión;
 
 VII.- Definir por delegación del Ejecutivo, el establecimiento de prioridades en la aplicación de los recursos para los diversos programas en los municipios y proponer las adecuaciones que se requieran para el eficaz cumplimiento de los objetivos y metas programados;
 
@@ -359,7 +405,9 @@ IX.- Promover acciones en los municipios dirigidas al desarrollo de su potencial
 
 X.- Elaborar estudios y proyectos regionales y municipales que permitan apoyar a las comunidades en su desarrollo y productividad;
 
-XI.- Vigilar y evaluar en coordinación con la Unidad de Contraloría Gubernamental, que los programas de inversión de las dependencias y entidades del Ejecutivo, se realicen conforme a los objetivos y metas del plan y los programas de desarrollo regionales, sectoriales y especiales;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XI.- Vigilar y evaluar en coordinación con la Secretaría de Contraloría, que los programas de inversión de las dependencias y entidades del Ejecutivo, se realicen conforme a los objetivos, metas del plan y los programas de desarrollo regionales, sectoriales y especiales.
 
 XII.- Coordinar la vinculación de los municipios, con las dependencias estatales y federales, en el establecimiento de infraestructura, unidades de servicio y acciones que impulsen el desarrollo regional;
 
@@ -375,45 +423,101 @@ XVII.- Fijar los lineamientos que se deban seguir en la elaboración de la docum
 
 XVIII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1999)</small>
+
+ARTICULO 26 BIS.- A la Secretaría del Despacho del Gobernador corresponden los siguientes asuntos:
+
+I.- Conducir las relaciones del titular del ejecutivo, con las dependencias y entidades que integran la administración pública centralizada y descentralizada;
+
+II.- Emitir los comunicados y publicaciones que contengan la información relacionada con acontecimientos oficiales y de cualquier otra índole que sean de interés general para la ciudadanía hidalguense;
+
+III.- Llevar el control y seguimiento de las solicitudes y planteamientos formulados por personas físicas o morales al Gobernador;
+
+IV.- Administrar las instalaciones de los aeropuertos y servicios conexos, de competencia estatal;
+
+V.- Dirigir las unidades administrativas de apoyo para el despacho de los asuntos competencia del Gobernador y
+
+VI.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1999)</small>
+
+ARTICULO 26 TER.- A la Secretaría Técnica corresponde el despacho de los siguientes asuntos:
+
+I.- Proponer y promover ante las dependencias y entidades del ejecutivo estatal, con autorización expresa del Gobernador del Estado, la instrumentación de programas, obras o acciones de carácter estratégico que coadyuven al logro de los objetivos de la política de desarrollo del Estado, así como atender su exacta aplicación;
+
+II.- Analizar, orientar y evaluar la ejecución de las políticas, programas, obras o acciones del desarrollo social, económico y político del Estado de Hidalgo;
+
+III.- Brindar los medios técnicos que faciliten la relación entre el titular del ejecutivo y las dependencias y entidades federales, estatales y los municipios en materia de desarrollo social, económico y político de la Entidad;
+
+IV.- Conocer, promover, facilitar y apoyar los procesos de descentralización y desconcentración de funciones, programas, responsabilidades y recursos de la federación al Estado y de éste a los municipios de la Entidad;
+
+V.- Auxiliar a las dependencias y entidades de la administración pública, mediante la asesoría y coordinación con el titular del ejecutivo estatal, para la toma de decisiones en materia de desarrollo social, económico y político de la Entidad;
+
+VI.- Establecer los mecanismos de control y determinar las políticas de ejecución de los acuerdos tomados por la Comisión Intersecretarial Gasto-Financiamiento;
+
+VII.- Tener a su cargo el registro y seguimiento de los acuerdos institucionales que el Gobernador del Estado celebre con la federación y otras entidades federativas y los municipios;
+
+VIII.- Recopilar, clasificar y analizar las perspectivas de los principales fenómenos sociales, económicos y políticos que se relacionen e incidan en el desarrollo del Estado de Hidalgo;
+
+IX.- Definir, elaborar y orientar con acuerdo del Gobernador del Estado, las políticas públicas sobre las cuales se guiará el desarrollo estatal;
+
+X.- Coordinar y recopilar la información que generen los comités, comisiones, consejos y coordinaciones interinstitucionales creados con base al artículo 6 de esta ley, sean permanentes o transitorios;
+
+XI.- Presidir, cuando el Gobernador no pudiere hacerlo, las reuniones a las que los titulares de las dependencias y entidades de la administración pública, hayan sido convocados por el ejecutivo estatal, cuando en éstas se trate de definir o evaluar la política local en las materias que sean de carácter concurrente y no sean atribución de otra dependencia; y
+
+XII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+
 ###### ARTICULO 27.
 
 A la Secretaría de Obras Publicas corresponde el despacho de los siguientes asuntos:
 
-I.- Instrumentar y conducir las políticas y programas relativos a obras públicas, asentamientos humanos, desarrollo urbano, comunicaciones y vivienda, bajo las directrices que se determinen en el marco del Plan Estatal de Desarrollo;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+I.- Instrumentar y conducir las políticas y programas relativos a obras públicas y comunicaciones bajo las directrices que se determinen en el marco del Plan Estatal de Desarrollo;
 
 II.- Ejecutar y supervisar, directamente o por contrato con particulares, las obras públicas del Gobierno del Estado, de la Federación o de los Ayuntamientos, que le sean encomendadas;
 
-III.- Coordinarse con las dependencias y entidades del Ejecutivo Federal y los Ayuntamientos de la Entidad, para la realización de obras públicas; y en materia de asentamientos humanos, desarrollo urbano, comunicaciones y vivienda, fomentar la capacitación e investigación;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+III.- Coordinarse con las dependencias y entidades del Ejecutivo Federal y los Ayuntamientos de la entidad, para la realización de obras públicas y en materia de comunicaciones, fomentar la capacitación e investigación;
 
 IV.- Formular y proponer al Gobernador del Estado la celebración de acuerdos de coordinación con la Administración Pública Federal y con los Ayuntamientos, tendientes a la construcción de obras, prestación de servicios públicos y en general cualquier otro propósito de beneficio común;
 
-V.- Proporcionar asesoría a los Ayuntamientos en la formulación de sus programas de obras y promover el suministro de servicios públicos y desarrollo urbano;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-VI.- Elaborar planes y programas estacionales para aprovechar la mano de obra y materiales regionales, así como fomentar la organización de sociedades cooperativas en materia de obras públicas y vivienda;
+V.- Proporcionar asesoría a los Ayuntamientos cuando así lo soliciten, en la formulación de sus programas de obras y promover el suministro de servicios públicos;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VI.- Elaborar los planes y programas estacionales para aprovechar la mano de obra y materiales regionales, así como fomentar la organización de sociedades cooperativas en materia de obras públicas;
 
 VII.- Ejercer en las materias de su competencia y por delegación del Gobernador del Estado, las atribuciones y funciones derivadas de los convenios firmados entre el Poder Ejecutivo del Estado y la Administración Pública Federal;
 
-VIII.- Realizar estudios geográficos y cartográficos del territorio del Estado y apoyar a las dependencias que lo requieran, así como participar con aquellas que la ley determine, en el catastro del territorio del Estado y en el sistema para el registro de información gráfica y digital para la fiscalización y administración del uso del suelo;
+VIII.- (DEROGADA, P.O. 24 DE MAYO DE 1999)
 
-IX.- Promover el desarrollo urbano de las comunidades y las medidas necesarias para el mejoramiento de las zonas marginadas, vigilando la aplicación de las disposiciones legales en materia de construcción y desarrollo urbano;
+IX.- (DEROGADA, P.O. 24 DE MAYO DE 1999)
 
-X.- Participar, en coordinación con los municipios y de conformidad con las leyes de la materia, en la elaboración y vigilancia del cumplimiento de las declaraciones de usos, destinos, reservas, provisiones de predios y áreas, que se expidan en el Estado;
+X.- (DEROGADA, P.O. 24 DE MAYO DE 1999)
 
-XI.- Participar, en coordinación con el Gobierno Federal, en el programa tendiente a satisfacer las necesidades de tierra para vivienda y desarrollo urbano;
+XI.- (DEROGADA, P.O. 24 DE MAYO DE 1999)
 
 XII.- Ejecutar y supervisar la remodelación y conservación de los inmuebles propiedad del Estado;
 
-XIII.- Participar con los municipios en el otorgamiento de permisos, alineamientos y licencias para la construcción o reconstrucción de obras públicas o privadas en el Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIII.- Participar con los municipios en el otorgamiento de permisos, alineamientos, licencias para la construcción o reconstrucción de obras públicas en el Estado, previa consulta con los organismos rectores de desarrollo urbano, de la ecología y del uso de agua;
 
 XIV.- Expedir, de conformidad con la legislación aplicable al caso, las bases a que se deberán sujetar los concursos de obras públicas y previo acuerdo del Ejecutivo Estatal, adjudicar los contratos relativos;
 
-XV.- Formular y operar, en coordinación con las autoridades federales y con el concurso de los municipios, los planes y programas para el abastecimiento y tratamiento de aguas, servicios de drenaje, alcantarillado y demás complementarios, en los centros de población;
+XV.- (DEROGADA, P.O. 24 DE MAYO DE 1999)
 
 XVI.- Participar en el desarrollo de las comunicaciones en el Estado y formular y conducir las políticas y programas para el desarrollo de esta área;
 
 XVII.- Construir y conservar por sí misma y con la cooperación que se acuerde con el Gobierno Federal, las carreteras, caminos, puentes, centrales de autotransporte y aeropuertos estatales;
 
-XVIII.- Administrar las carreteras, caminos, puentes y las instalaciones de los aeropuertos y servicios conexos, existentes en la Entidad, de jurisdicción estatal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVIII.- Administrar las carreteras, caminos y puentes de competencia estatal, existentes en la Entidad;
 
 XIX.- Ejecutar las obras necesarias para el establecimiento de estaciones de radio, televisión y en general las que se relacionen con las telecomunicaciones estatales;
 
@@ -421,55 +525,167 @@ XX.- Poseer, vigilar, conservar y administrar los inmuebles de propiedad estatal
 
 XXI.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 28.
 
-A la Secretaría de Industria y Comercio corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Desarrollo Económico corresponde el despacho de los siguientes asuntos:
 
-I.- Instrumentar y conducir las políticas y diseñar, dirigir y promover los programas relativos a la modernización y fomento económico estatal en materia de industria y comercio;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-II.- Promover la inversión en el Estado;
+I.- Promover, instrumentar, fomentar y coordinar el desarrollo económico del Estado de Hidalgo;
 
-III.- Suscribir, por delegación del Gobernador del Estado, convenios y acuerdos entre el Poder Ejecutivo Estatal y la Administración Pública Federal, Municipal, instituciones financieras, representaciones comerciales y de inversión de otros países, instituciones educativas y de investigación, organismos privados de industria y comercio y organizaciones sociales y de producción, en materia de inversiones públicas productivas;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-IV.- Constituirse en enlace con el Gobierno Federal para concertar y ejecutar los programas de impulso al crecimiento y consolidación económica del Estado;
+II.- Participar en los procesos de desarrollo integral de las Comunidades, los Municipios y las Regiones del Estado;
 
-V.- Promover y elaborar estudios socioeconómicos del Estado para orientar, asesorar y apoyar a las dependencias y entidades públicas, así como a los sectores social y privado, en materia de industria y comercio;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-VI.- Propiciar la concertación del sector social con el privado para el desarrollo productivo de la Entidad;
+III.- Realizar el estudio y planeación del desarrollo económico estatal;
 
-VII.- Alentar la constitución de organizaciones productivas para desarrollar el potencial económico del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-VIII.- Promover y orientar a los productores y empresarios del Estado en la comercialización de sus productos en mercados nacionales e internacionales;
+IV.- Difundir y promover nacional e internacionalmente la infraestructura, programas de apoyo, vocaciones productivas y las ventajas que ello representa para la actividad económica en la entidad;
 
-IX.- Impulsar y fomentar alianzas estratégicas y de coinversión entre empresarios locales y extranjeros que contemplen intercambio de tecnología, estudios e investigaciones para el desarrollo de proyectos productivos;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-X.- Elaborar, actualizar y difundir estudios, estadísticas e inventarios, de los recursos, empresas y actividades económicas del Estado, para identificar las regiones, sectores y actividades con potencial de crecimiento, competitividad y desarrollo;
+V.- Establecer e instrumentar las políticas económicas para la modernización, competitividad y crecimiento de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, brindando especial atención a las micro y pequeñas empresas;
 
-XI.- Autorizar los permisos en las actividades de su competencia que sean necesarios para el desarrollo económico del Estado y efectuar el registro de las concesiones que el Gobernador otorgue en esta materia;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XII.- Identificar, promover y orientar el potencial de la fuerza de trabajo en las regiones del Estado y, en coordinación con el Gobierno Federal, ejecutar las acciones y programas de empleo y capacitación;
+VI.- Promover que los agentes económicos realicen su actividad productiva en apego a la normatividad ecológica;
 
-XIII.- Promover en las regiones menos desarrolladas de la Entidad y a través de mecanismos de concertación con los diversos sectores, la generación de fuentes de empleo que permitan arraigar y elevar el nivel de vida de sus habitantes;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XIV.- Promover, estimular e impulsar el establecimiento, desarrollo y modernización de la micro, pequeña y mediana empresa y fomentar la creación de infraestructura industrial y comercial en congruencia con las políticas de protección al medio ambiente;
+VII.- Coordinar con las demás dependencias del Ejecutivo Estatal y con los Municipios, el diseño e instrumentación de proyectos de desarrollo económico sectorial y territorial;
 
-XV.- Promover y orientar a los empresarios de la Entidad, para que obtengan créditos de las instituciones financieras, proponiendo ante las mismas los instrumentos y mecanismos requeridos para tal efecto, de acuerdo a las condiciones del mercado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XVI.- Participar, en coordinación con el Gobierno Federal, en la promoción y supervisión de la observancia de las políticas nacionales de precios, tarifas y competitividad, especialmente de artículos y servicios de consumo generalizado, bajo esquemas de concertación con los sectores económicos del Estado;
+VIII.- Vincularse con el Gobierno Federal y sus representaciones en el Estado en materia de desarrollo económico, a fin de concertar y coordinar los programas de impulso, que la federación proponga para el Estado de Hidalgo;
 
-XVII.- Elaborar y proponer proyectos y medidas que permitan el desarrollo, mejoramiento y modernización del abasto y el comercio en el Estado, bajo las políticas y programas que en estos rubros instituya el Gobierno Federal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XVIII.- Regular, orientar y estimular la afluencia de turismo en la Entidad y vigilar, en coordinación con el Gobierno Federal, el cumplimiento de las disposiciones en materia de servicios turísticos;
+IX.- Promover, concertar y coordinar programas y actividades de desarrollo económico regional e interestatal, con los gobiernos de las entidades federativas del país;
 
-XIX.- Organizar, fomentar y estimular la producción y comercialización del sector artesanal;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XX.- Instrumentar las políticas y lineamientos de fomento a la actividad minera en el Estado;
+X.- Promover y coordinar programas y actividades de desarrollo económico, con organismos internacionales, gobiernos de otros países y sus Estados y/o regiones, así como con sus representaciones diplomáticas y comerciales en México;
 
-XXI.- Promover la desregulación en trámites y procedimientos que inhiban el desarrollo económico de la Entidad;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XXII.- Organizar y participar en ferias y exposiciones industriales, comerciales, turísticas y artesanales; y
+XI.- Establecer vínculos de coordinación y apoyo con los organismos de representación empresarial en el Estado y nacionales;
 
-XXIII.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XII.- Promover y apoyar la realización de inversiones productivas en el Estado, provenientes de los sectores público, social y privado, tanto nacionales como internacionales;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIII.- Analizar y dictaminar la factibilidad de proyectos de inversión en el Estado, de acuerdo con la normatividad aplicable en la materia;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIV.- Fomentar, promover y orientar el desarrollo del comercio internacional hidalguense, estableciendo e instrumentando las políticas económicas para la consecución de tal objetivo;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XV.- Promover fuera del Estado de Hidalgo, en los ámbitos nacional e internacional, el desarrollo económico, las inversiones y el acceso a mercados para los productos hidalguenses;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVI.- Organizar y efectuar misiones nacionales e internacionales de promoción de inversiones, de comercio internacional y otras alianzas estratégicas que propicien la realización de negocios productivos, con la participación de los agentes económicos de la entidad;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVII.- Revisar, promover, y en su caso adecuar la modernización del marco normativo de carácter económico del Estado, así como impulsar la simplificación de trámites y la coordinación interinstitucional en éstas materias;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVIII.- Establecer mecanismos para coordinar propuestas, proyectos y actividades con los gobiernos municipales, en materia de desregulación en trámites y simplificación administrativa;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIX.- Establecer y conducir mecanismos y sistemas de información, gestoría y apoyo, en los trámites y en el cumplimiento de ordenamientos legales, que realicen los diversos agentes económicos del Estado;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XX.- Fomentar y promover mecanismos de coordinación con los sectores productivos de la entidad, así como la integración y concertación entre dichos sectores;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXI.- Fomentar y promover esquemas de asociación empresarial e impulsar el desarrollo y constitución de sistemas organizativos de los productores del sector social;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXII.- Establecer y operar el Registro Estatal de Empresas y Unidades Productivas, en los sectores industrial, minero, artesanal, comercial, de abasto y de servicios;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXIII.- Otorgar permisos y establecer sistemas de precios y tarifas en las actividades de su competencia, así como registrar y dar seguimiento a los apoyos y concesiones que en esta materia sean otorgadas por el gobierno estatal;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXIV.- Promover e instrumentar el desarrollo de sistemas de proveeduría la subcontratación de servicios y procesos industriales y el reciclamiento de residuos de la industria hidalguense;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXV.- Planear y desarrollar la instalación de parques y zonas industriales, la consolidación de sus servicios y sus respectivas áreas habitacionales para los trabajadores, en coordinación con los organismos rectores del desarrollo urbano, la ecología y el agua;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXVI.- Realizar estudios y propuestas para la modernización y fortalecimiento de la infraestructura productiva de la entidad;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXVII.- Instrumentar y coordinar la aplicación de programas de capacitación para el desarrollo directivo empresarial y de los trabajadores en activo, así como operar el programa de becas para la capacitación de trabajadores desempleados y el Sistema Estatal de Empleo;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXVIII.- Supervisar, inspeccionar y promover el cumplimiento de la normatividad laboral aplicable en la competencia estatal;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXIX.- Establecer programas promocionales para el desarrollo de la calidad total y su certificación, de la competitividad empresarial, de los servicios tecnológicos, así como vincular los sectores educativo y productivo con la asistencia técnica, los agentes económicos y con la información de mercados;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXX.- Participar representando al Estado, en foros, congresos, seminarios, conferencias y otros eventos en materia de desarrollo económico, a nivel nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXI.- Fomentar, impulsar, organizar y en su caso coordinar con otras dependencias y entidades de la administración pública federal, estatal y municipal, la organización de ferias, exposiciones y eventos promocionales de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, así como la participación hidalguense en eventos de esta naturaleza, en el interior y exterior del país;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXII.- Coordinar con la banca de desarrollo nacional, el apoyo para la ejecución de sus programas de financiamiento y asistencia a los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, además de promover la captación y aplicación de recursos provenientes de organismos internacionales de fomento para el desarrollo económico;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXIII.- Proponer y operar, en su caso, fideicomisos, fondos y otros instrumentos de intermediación financiera para el apoyo crediticio de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXIV.- Contratar y subcontratar servicios de consultoría, asesoría, asistencia técnica, realización de estudios y capacitación necesarios para el eficiente desarrollo de las actividades de la Secretaría y de la promoción del desarrollo económico estatal;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXV.- Establecer programas para la ampliación, modernización y desarrollo de sistemas e infraestructura para el abasto y el comercio interior;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXVI.- Analizar y evaluar la situación, comportamiento y desarrollo de la economía del Estado, de los sectores industrial, minero, artesanal, comercial, de abasto y de servicios, así como de los mercados laborales, mediante la realización de estudios y estadísticas;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXVII.- Promover y elaborar estudios socioeconómicos del Estado para orientar, asesorar y apoyar a las dependencias y entidades públicas, así como a los sectores social y privado en materia de desarrollo económico;
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXVIII.- Suscribir convenios, acuerdos, contratos y otros instrumentos legales, necesarios para realizar sus actividades, para materializar los objetivos del desarrollo económico estatal y los que por delegación y/o representación del Ejecutivo del Estado se requiera; y
+
+> <small>(ADICIONADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XXXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 29.
 
@@ -489,7 +705,9 @@ VI.- Promover la creación y consolidación de organizaciones de productores agr
 
 VII.- Participar con la federación y los municipios, en la preservación y fomento de los recursos naturales renovables y desarrollar su potencial productivo;
 
-VIII.- Impulsar en coordinación con la Secretarías de Desarrollo Regional e Industria y Comercio, la agroindustria en el Estado considerando la situación del mercado y la disponibilidad de productos en cada región;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+VIII.- Impulsar, en coordinación con las Secretarías de Desarrollo Social y Desarrollo Económico, la agroindustria en el Estado considerando la situación del mercado y la disponibilidad de productos en cada región;
 
 IX.- Elaborar, instrumentar y apoyar los proyectos productivos que generen empleos e ingresos a las familias rurales;
 
@@ -497,17 +715,77 @@ X.- Proyectar e impulsar, conjuntamente con las comunidades rurales, las obras d
 
 XI.- Fomentar la asociación de minifundistas en unidades de producción, para favorecer la tecnificación, financiamiento, industrialización y comercialización de sus productos;
 
-XII.- Promover, en coordinación con las autoridades federales competentes, la eficaz utilización de los recursos hidráulicos del Estado;
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
 
-XIII.- Determinar las necesidades de obras de captación, derivación y alumbramiento de aguas en las comunidades rurales del Estado y controlar al máximo, para su aprovechamiento, los escurrimientos superficiales;
+XII.- Promover en coordinación con las autoridades federales competentes y con la Comisión Estatal del Agua, la eficaz utilización de los recursos hidráulicos del Estado;
 
-XIV.- Organizar, en coordinación con la Secretaría de Industria y Comercio, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Estado; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIII.- Determinar y realizar en coordinación con la Comisión Estatal del Agua las necesidades de obras de captación, derivación y alumbramiento de aguas en las comunidades rurales del Estado, conforme a la normatividad vigente a efecto de controlar al máximo su aprovechamiento;
+
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XIV.- Organizar, en coordinación con las Secretarías de Desarrollo Económico y de Turismo en su caso, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Estado y
 
 XV.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 24 DE MAYO DE 1999)</small>
+
+ARTICULO 29 BIS.- A la Secretaría de Turismo corresponde el despacho de los siguientes asuntos:
+
+I.- Formular y conducir la política de desarrollo de la actividad turística estatal;
+
+II.- Promover en coordinación con los municipios, las zonas de desarrollo turístico en el estado y formular conjuntamente con los organismos rectores en las materias de desarrollo urbano, de ecología y del agua en la Entidad, los planes maestros de desarrollo turístico y la declaratoria respectiva;
+
+III.- Registrar a los prestadores de servicios turísticos;
+
+IV.- Promover y opinar sobre el otorgamiento de facilidades a los prestadores de servicios turísticos para su instalación y participar con los Ayuntamientos en la determinación de los criterios generales para el establecimiento de los estímulos fiscales necesarios para el fomento a la actividad turística y administrar su aplicación, así como vigilar y evaluar sus resultados;
+
+V.- Determinar los mecanismos necesarios para la creación, conservación, mejoramiento, protección, promoción y aprovechamiento de los recursos y atractivos turísticos, preservando el equilibrio ecológico y social de los lugares de que se trate;
+
+VI.- Impulsar la creación y las actividades del Consejo Consultivo Turístico con la participación de los sectores público, social y privado;
+
+VII.- Estimular la formación de asociaciones, comités, fideicomisos y patronatos de carácter público, privado o mixto, de naturaleza turística;
+
+VIII.- Emitir opinión ante la Secretaría de Desarrollo Económico en aquellos casos en que la inversión extranjera concurra en proyectos de desarrollo turístico o en el establecimiento de servicios turísticos;
+
+IX.- Orientar y estimular las medidas de protección al turismo de acuerdo con las leyes, normas oficiales mexicanas, reglamentos aplicables en la materia y vigilar su cumplimiento en coordinación con las dependencias y entidades de la administración pública Federal, Estatal y los Municipios;
+
+X.- Promover y facilitar el intercambio y desarrollo turístico dentro del Estado así como en otras entidades federativas y en el extranjero;
+
+XI.- Promover y en su caso, organizar en coordinación con el Sistema de Educación Pública de Hidalgo, con instituciones educativas, dependencias del sector público, Federal, Estatal y Municipal, así como del sector privado la capacitación, investigación y desarrollo tecnológico en materia turística;
+
+XII.- Formular y difundir la información oficial en materia de turismo; coordinar la publicidad que efectúen las autoridades estatales y municipales y promover la que desarrollen los sectores social y privado en la materia;
+
+XIII.- Organizar en coordinación con otras dependencias y entidades del ejecutivo en su caso, ferias, exposiciones y certámenes en las materias que sean de su competencia, así como participar en congresos, seminarios y reuniones de trabajo que se realicen dentro y fuera del Estado;
+
+XIV.- Organizar, fomentar y estimular el sector artesanal, como complemento del desarrollo turístico;
+
+XV.- Llevar la estadística en materia de turismo;
+
+XVI.- Proyectar, promover y apoyar el desarrollo de la infraestructura turística;
+
+XVII.- Promover y apoyar la coordinación de los prestadores de servicios turísticos para su integración en organismos empresariales relacionados con la actividad, fomentando así su participación en el desarrollo turístico de la entidad;
+
+XVIII.- Fomentar la inversión en materia turística de capitales nacionales y extranjeros;
+
+XIX.- Promover el turismo social y contribuir en la preservación del patrimonio histórico y cultural del Estado de Hidalgo;
+
+XX.- Participar en programas de desarrollo y promoción turística interestatales, así como con la Secretaría de Turismo de la federación, que beneficien a la entidad;
+
+XXI.- Obtener recursos para el financiamiento de sus programas a través de aportaciones por parte de los gobiernos Federal, Estatal y Municipal, del sector privado, por donativos y por servicios y acciones desarrolladas por la Secretaría;
+
+XXII.- Promover y apoyar a los inversionistas en materia turística y a productores de la industria cinematográfica y de televisión, para que obtengan las facilidades necesarias al trabajar e invertir en el Estado;
+
+XXIII.- Fijar e imponer de acuerdo a las leyes y reglamentos, el tipo y monto de las sanciones por el incumplimiento de las disposiciones en materia turística y
+
+XXIV.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 30.
 
-A la Unidad de Contraloría Gubernamental corresponde el despacho de los siguientes asuntos:
+A la Secretaría de Contraloría corresponde el despacho de los siguientes asuntos:
 
 I.- Planear, organizar y coordinar el sistema de control y evaluación gubernamental, inspeccionar el ejercicio del gasto público central y paraestatal y su congruencia con el presupuesto de egresos;
 
@@ -543,7 +821,9 @@ XVI.- Vigilar el cumplimiento de sus normas internas; constituir las responsabil
 
 XVII.- Informar al Gobernador del Estado sobre el resultado de la evaluación a las dependencias y entidades de la administración pública que hayan sido objeto de revisión, así como a otras autoridades que lo requieran de acuerdo a sus funciones y a los convenios que al efecto se celebren;
 
-XVIII.- Proporcionar apoyo técnico a los municipios del Estado que lo soliciten, en caso de que establezcan organismos municipales de control de la asignación, ejercicio y comprobación del gasto; y
+> <small>(REFORMADA, P.O. 24 DE MAYO DE 1999)</small>
+
+XVIII.- Proporcionar apoyo técnico a los municipios del Estado que lo soliciten, en caso de que establezcan organismos municipales de contraloría, respecto a la asignación, ejercicio y comprobación del gasto y
 
 XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -563,7 +843,7 @@ Son organismos descentralizados las entidades creadas por ley o decreto del Cong
 
 Son empresas de participación estatal mayoritaria las sociedades de cualquier naturaleza en que se den uno o varios de los siguientes supuestos:
 
-a) Que el Gobierno del Estado o una o mas entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de mas del cincuenta por ciento del capital social;
+a) Que el Gobierno del Estado o una o más entidades paraestatales, conjunta o separadamente, aporten o sean propietarios de mas del cincuenta por ciento del capital social;
 
 b) Que en la constitución de su capital se hagan figurar títulos representativos de capital social de serie especial, que sólo puedan ser suscritos por el Gobierno del Estado; o
 
@@ -575,9 +855,11 @@ Se asimilan a las empresas de participación estatal mayoritaria, las sociedades
 
 Son fideicomisos públicos del Estado, aquellos que constituya el Gobierno del Estado, con el propósito de auxiliar al Poder Ejecutivo en funciones administrativas, con una estructura orgánica análoga a las otras especies de entidades y con un comité técnico.
 
+> <small>(REFORMADO, P.O. 24 DE MAYO DE 1999)</small>
+
 ###### ARTICULO 35.
 
-El Poder Ejecutivo podrá adscribir las entidades a sectores relacionados con las dependencias según sus respectivas atribuciones y objetos institucionales, a fin de coordinar su programación y presupuestación, conocer y evaluar su operación y participar en sus órganos de gobierno, sin perjuicio de las atribuciones que en materia de congruencia global con el Plan Estatal de Desarrollo y de expedición de lineamientos generales sobre gasto, financiamiento, control y evaluación corresponden a las Secretarías de Desarrollo Regional, Finanzas y Administración y Unidad de Contraloría Gubernamental.
+El Poder Ejecutivo podrá adscribir las entidades a las dependencias según sus respectivas atribuciones y objetos institucionales, a fin de coordinar su programación y presupuestación, conocer y evaluar su operación y participar en sus órganos de gobierno, sin perjuicio de las atribuciones que en materia de congruencia global con el Plan Estatal de Desarrollo y de expedición de lineamientos generales sobre gasto, financiamiento, control y evaluación corresponden a las Secretarías de Desarrollo Social, Finanzas y Administración y Secretaría de Contraloría.
 
 ## TRANSITORIOS
 
@@ -624,3 +906,17 @@ LIC. JUAN MANUEL SEPULVEDA FAYAD
 P.O. 14 DE AGOSTO DE 1995.
 
 UNICO.- EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO.
+
+P.O. 24 DE MAYO DE 1999.
+
+Primero.- Cuando alguna unidad administrativa cambie de adscripción como consecuencia de la transferencia de funciones a una dependencia o entidad de la administración pública estatal diversa, se hará incluyendo la partida presupuestal, el personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general los bienes que haya utilizado para la atención de sus atribuciones.
+
+Segundo.- El personal que por la aplicación de estas reformas, adiciones y derogaciones pase a otra dependencia, en ninguna forma resultará afectado en los derechos que haya adquirido en virtud de su relación laboral con la administración pública estatal.
+
+Tercero.- Los asuntos que con motivo del presente decreto deban pasar a una dependencia o entidad de la administración pública estatal diversa, permanecerán en el último trámite que hubieran alcanzado, hasta que las unidades administrativas se incorporen a la dependencia o entidad que a partir de la fecha que entre en vigor este instrumento, desempeñe la función transmitida, a excepción de los casos urgentes o sujetos a plazos o términos por vencerse.
+
+Cuarto.- Cuando por virtud de la presente reforma se dé una denominación nueva o distinta a alguna dependencia cuyas funciones estén establecidas con anterioridad a la presente iniciativa, dichas atribuciones se entenderán concedidas a la dependencia que determine la reforma y demás disposiciones relativas.
+
+Quinto.- Por lo que hace a las facultades correspondientes al desarrollo urbano, vivienda y asentamientos humanos suprimidos a la Secretaría de Obras Públicas en el presente decreto, estarán provisionalmente a cargo del Instituto de Vivienda y Desarrollo Urbano del Estado de Hidalgo, hasta en tanto se emita el decreto que determine la ubicación correspondiente.
+
+Sexto.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Hidalgo.
