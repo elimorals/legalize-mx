@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "1971-07-10"
+last_updated: "1976-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO CIVIL PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE JULIO DE 1971.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ENERO DE 1976.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -533,31 +533,49 @@ ARTICULO 98
 
 Los cónyuges están obligados a guardarse fidelidad, a contribuir cada uno por su parte a los objetos del matrimonio y a socorrerse mutuamente.
 
+> <small>(ADICIONADO, G.O. 1 DE ENERO DE 1976)</small>
+
+Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+
 ARTICULO 99
 
 Los cónyuges vivirán juntos en el domicilio conyugal. Los Tribunales, con conocimiento de causa, podrán eximir de esta obligación a alguno de ellos cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o cuando se establezca en un lugar insalubre o indecoroso.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 100
 
-Los cónyuges por igual y recíproca y mutuamente deben atender al sostenimiento del hogar; pero quien de ellos tuviese bienes propios, o contase con recursos que falten al otro cónyuge, y ello en proporción suficiente para sobrellevar por sí solo las cargas del hogar, reportará éstas en su totalidad, en todos los casos en que el cónyuge desvalido no pueda trabajar o carezca de bienes. La atención del hogar, por parte de la mujer, se considerará como suficiente aportación para los efectos de este artículo.
+Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y a la de sus hijos, así como a la educación de éstos en los términos que la Ley establece, sin perjuicio de distribuirse la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+
+Los derechos y obligaciones que nacen del matrimonio, serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 101
 
-Los cónyuges tendrán siempre recíproca y mutuamente derecho preferente sobre los productos de los bienes de aquel de ellos que los tenga, y sobre los sueldos, salarios y emolumentos que cualquiera de ellos perciba, por las cantidades necesarias para el sostenimiento del hogar y la educación de los hijos. Puede pedirse el aseguramiento de bienes para hacer efectivos estos derechos.
+Los cónyuges y los hijos en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos estos derechos.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 102
 
-El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales; por lo tanto, de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
+Los cónyuges tendrán en el hogar autoridad y consideraciones iguales, por lo tanto de común acuerdo arreglarán todo lo relativo a la educación y establecimiento de los hijos y a la administración de los bienes que a éstos pertenezcan.
 
-En caso de que el marido y la mujer no estuvieren conformes sobre alguno de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
+En caso de que los cónyuges no estuvieren conformes sobre algunos de los puntos indicados, el Juez de lo Civil correspondiente procurará avenirlos, y si no lo lograre, resolverá, sin forma de juicio, lo que fuere más conveniente a los intereses de los hijos.
 
 ARTICULO 103
 
 Los cónyuges concertarán entre sí la mejor distribución del cuidado y atención de las cargas conyugales y dirección de los trabajos del hogar.
 
+> <small>(ADICIONADO, G.O. 1 DE ENERO DE 1976)</small>
+
+Los cónyuges podrán desempeñar cualquier actividad excepto la que dañe la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe alguna actividad de esa naturaleza y, el Juez de lo Civil resolverá sobre la oposición.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 104
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios y ejercitar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesiten el consentimiento del otro cónyuge; salvo lo que se estipule en las capitulaciones matrimoniales sobre la administración de los bienes y en aquellos para lo que estén impedidos de acuerdo con la Ley.
 
 ARTICULO 105
 
@@ -575,9 +593,11 @@ ARTICULO 107
 
 El contrato de compra-venta sólo puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 108
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges, durante el matrimonio podrán ejercitar los derechos y acciones que tengan el uno en contra del otro; pero la prescripción entre ellos no corre mientras dura el matrimonio.
 
 ### CAPITULO IV. De los matrimonios nulos e ilícitos
 
@@ -771,7 +791,9 @@ IX.- La declaración de ausencia legalmente hecha, o la de presunción de muerte
 
 X.- La sevicia, las amenazas o las injurias graves de un cónyuge para el otro;
 
-XI.- La negativa de los cónyuges de darse alimentos, de acuerdo con lo dispuesto en el artículo 100, siempre que no puedan hacer efectivos los derechos que les concede el artículo 101;
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+XI.- La negativa injustificada de los cónyuges a cumplir las obligaciones señaladas en el artículo 100 y el incumplimiento, sin justa causa, de la sentencia ejecutoriada por alguno de los cónyuges en el caso del artículo 102;
 
 XII.- La acusación calumniosa hecha por un cónyuge contra el otro, por delito que merezca pena mayor de dos años de prisión;
 
@@ -817,7 +839,9 @@ I.- Designación de persona a quien sean confiados los hijos del matrimonio, tan
 
 II.- El modo de subvenir a las necesidades de los hijos, tanto durante el procedimiento como después de ejecutoriado el divorcio;
 
-III.- La casa que servirá de habitación, durante el procedimiento, al cónyuge que la necesite;
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+III.- La casa que servirá de habitación a cada uno de los cónyuges durante el procedimiento;
 
 IV.- La cantidad que a título de alimentos un cónyuge debe pagar al otro durante el procedimiento, la forma de hacer el pago y la garantía que debe darse para asegurarlo;
 
@@ -879,7 +903,9 @@ La sentencia de divorcio fijará la situación de los hijos, conforme a las regl
 
 Primera.- Cuando la causa del divorcio estuviere comprendida en las fracciones I, II, III, IV, VII, XIII y XIV del artículo 141, los hijos quedarán bajo la patria potestad del cónyuge no culpable. Si los dos fueren culpables, quedarán bajo la patria potestad del ascendiente que corresponda, y si no lo hubiere se nombrará tutor.
 
-Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones VIII, IX, X, XI, XII y XV del artículo 141, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entretanto, los hijos quedarán bajo la patria potestad del ascendiente que corresponda, y si no hay quien la ejerza, se les nombrará tutor.
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+Segunda.- Cuando la causa del divorcio estuviere comprendida en las fracciones VIII, IX, XI, XII y XV del artículo 141, los hijos quedarán bajo la patria potestad del cónyuge inocente; pero a la muerte de éste, el cónyuge culpable recuperará la patria potestad. Si los dos cónyuges fueren culpables, se les suspenderá el ejercicio de la patria potestad hasta la muerte de uno de ellos, recobrándola el otro al acaecer ésta. Entre tanto, los hijos quedarán bajo la patria potestad del ascendiente que determine el Juez, tomando en consideración lo más provechoso a los intereses de los menores; y si no hay quien la ejerza se les nombrará tutor.
 
 Tercera.- En el caso de las fracciones V y VI del artículo 141, los hijos quedarán en poder del cónyuge sano; pero el consorte enfermo conservará los demás derechos sobre la persona y bienes de sus hijos.
 
@@ -889,21 +915,31 @@ ARTICULO 158
 
 Antes de que se provea definitivamente sobre la patria potestad o tutela de los hijos, podrán acordar los tribunales, a petición de los abuelos, tíos o hermanos mayores, cualquiera providencia que se considere benéfica a los menores.
 
+> <small>(ADICIONADO, G.O. 1 DE ENERO DE 1976)</small>
+
+El Juez podrá modificar esta decisión atento a lo dispuesto en los artículos 351, 352 y 777 fracción III.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 159
 
-El padre y la madre, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
+Los padres, aunque pierdan la patria potestad, quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
 ARTICULO 160
 
 El cónyuge que diere causa al divorcio perderá todo lo que se le hubiere dado o prometido por su consorte o por otra persona en consideración a éste; el cónyuge inocente conservará lo recibido y podrá reclamar lo pactado en su provecho.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 161
 
-Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes, se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges, o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes, a la subsistencia y educación de los hijos varones hasta que lleguen a la mayor edad, y de las hijas aunque sean mayores de edad, hasta que contraigan matrimonio, siempre que vivan honestamente.
+Ejecutoriado el divorcio, se procederá desde luego a la división de los bienes comunes y se tomarán las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los cónyuges o con relación a los hijos. Los consortes divorciados tendrán obligación de contribuir, en proporción a sus bienes e ingresos, a las necesidades de los hijos, a la subsistencia y a la educación de éstos hasta que lleguen a la mayor edad.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 162
 
-En los casos de divorcio, la mujer inocente tendrá derecho a alimentos mientras no contraiga nuevas nupcias y viva honestamente. El marido inocente sólo tendrá derecho a alimentos cuando esté imposibilitado para trabajar y no tenga bienes propios para subsistir. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
+En los casos de divorcio, el Juez, tomando en cuenta las circunstancias del caso, y entre ellas la capacidad para trabajar de los cónyuges y su situación económica, sentenciará al culpable al pago de alimentos en favor del inocente. Este derecho lo disfrutará en tanto viva honestamente y no contraiga nupcias. Además, cuando por el divorcio se originen daños o perjuicios a los intereses del cónyuge inocente, el culpable responderá de ellos como autor de un hecho ilícito.
 
 En el divorcio por mutuo consentimiento, salvo pacto en contrario, los cónyuges no tienen derecho a pensión alimenticia, ni a la indemnización que concede este artículo.
 
@@ -1103,25 +1139,31 @@ ARTICULO 201
 
 Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuviere por servicios personales, por el desempeño de un empleo o el ejercicio de una profesión, comercio o industria.
 
-ARTICULO 202
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
-Cada uno de los cónyuges debe contribuir a la educación y alimentación de los hijos y a las demás cargas del matrimonio, de acuerdo con lo dispuesto en el artículo 100.
+ARTICULO 202
 
 ARTICULO 203
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en este caso el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 204
 
-Ni el marido podrá cobrar a la mujer, ni ésta a aquél, retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes por causa de ausencia o impedimento del otro, originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Los cónyuges no se deberán retribución u honorario alguno por los servicios personales que se prestaren, o por los consejos y asistencia que se dieren; pero si uno de los consortes por causa de ausencia o impedimento del otro, originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 205
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede.
+Los padres que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la Ley les concede.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 206
 
-El marido responde a la mujer y ésta a aquél, de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+Los cónyuges serán responsables mutuamente de los daños y perjuicios que se causen por dolo, culpa o negligencia.
 
 ### CAPITULO IV. De las donaciones antenupciales
 
@@ -1249,9 +1291,11 @@ ARTICULO 235
 
 Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 236
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos de padre y madre; en defecto de éstos, en los que fueren de madre solamente, y en defecto de ellos, en los que fueren sólo de padre.
+A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos.
 
 Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
 
@@ -1339,9 +1383,11 @@ ARTICULO 252
 
 El derecho de recibir alimentos no es renunciable, ni puede ser objeto de transacción.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 253
 
-En la ausencia de uno de los cónyuges o rehusándose el obligado a entregar al otro lo necesario para los alimentos de la familia y sostenimiento de los gastos indispensables del hogar, el ausente o renuente será responsable de las deudas que su cónyuge contraiga para cubrir aquellas exigencias; pero sólo en la cuantía necesaria para ese objeto, y siempre que no se trate de gastos superfluos o de lujo.
+Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
 
 ARTICULO 254
 
@@ -1589,13 +1635,15 @@ IV.- Por testamento;
 
 V.- Por confesión judicial directa y expresa.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 300
 
-El marido o la esposa podrán reconocer al hijo habido antes de su matrimonio, pero necesitarán el consentimiento expreso del otro cónyuge para llevarlo a vivir al domicilio conyugal.
+El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a llevarlo a vivir al domicilio conyugal si no es con la anuencia expresa de éste.
+
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 301
-
-El marido no podrá reconocer al hijo habido durante su matrimonio en persona distinta de su esposa, sino con el consentimiento escrito de ésta.
 
 ARTICULO 302
 
@@ -1815,15 +1863,15 @@ ARTICULO 342
 
 La patria potestad se ejerce sobre la persona y los bienes de los hijos. Su ejercicio queda sujeto en cuanto a la guarda y educación de los menores, a las modalidades que le impriman las resoluciones que se dicten, de acuerdo con las leyes sobre previsión social y delincuencia infantil que se expidan en el Estado.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 343
 
 La patria potestad sobre los hijos de matrimonio se ejerce:
 
-I.- Por el padre y la madre;
+I.- Por los padres;
 
-II.- Por el abuelo y la abuela paternos;
-
-III.- Por el abuelo y la abuela maternos.
+II.- Por los abuelos.
 
 ARTICULO 344
 
@@ -1839,17 +1887,21 @@ ARTICULO 346
 
 Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se separen, continuará ejerciendo la patria potestad, en caso de que no se pongan de acuerdo sobre ese punto, el progenitor que designe el juez, teniendo siempre en cuenta los intereses del hijo.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 347
 
-A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 343.
+A falta de padres, ejercerán la patria potestad sobre el hijo los demás ascendientes a que se refiere la fracción II del artículo 343, en el orden que determine el Juez de lo Civil, tomando en cuenta las circunstancias del caso.
 
 ARTICULO 348
 
 La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 349
 
-Solamente por falta o impedimento de todos los llamados preferentemente, entrarán al ejercicio de la patria potestad los que sigan en el orden establecido en los artículos anteriores. Si sólo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
+Solamente por falta o impedimento de los padres, entrarán al ejercicio de la patria potestad los demás ascendientes en términos del artículo 347. Si solo faltare alguna de las dos personas a quienes corresponde ejercer la patria potestad, la que quede continuará en el ejercicio de ese derecho.
 
 ARTICULO 350
 
@@ -1861,11 +1913,13 @@ A las personas que tienen al hijo bajo su patria potestad incumbe la obligación
 
 Cuando llegue a conocimiento de los Consejos Locales de Tutela que las personas de que se trata no cumplen esa obligación, lo avisarán al Ministerio Público para que promueva lo que corresponda.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 352
 
-Los que ejercen la patria potestad tienen la facultad de corregir y castigar a sus hijos mesuradamente.
+Los que ejerzan la patria potestad o tengan hijos bajo su custodia, tienen la facultad de corregirlos y la obligación de observar una conducta que sirva a éstos de buen ejemplo.
 
-Las autoridades, en caso necesario, auxiliarán a esas personas, haciendo uso de amonestaciones y correctivos que presten el apoyo suficiente a la autoridad paterna.
+Las autoridades, en caso necesario, auxiliarán a esas personas haciendo uso de amonestaciones y correctivos que les presten el apoyo suficiente.
 
 ARTICULO 353
 
@@ -1877,13 +1931,17 @@ ARTICULO 354
 
 Los que ejercen la patria potestad son legítimos representantes de los que están bajo de ella, y tienen la administración legal de los bienes que les pertenecen, conforme a las prescripciones de este Código.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 355
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre, o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes será el varón; pero consultará en todos los negocios a su consorte, y requerirá su consentimiento expreso para los actos más importantes de la administración.
+Cuando la patria potestad se ejerza a la vez por ambos padres, abuelos o adoptantes, la administración de los bienes será conjunta y, se requerirá el consentimiento expreso de ambos para los actos más importantes de la administración.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 356
 
-La persona que ejerza la patria potestad representará también a los hijos en juicio; pero no podrá celebrar ningún arreglo para terminarlo, si no es con el consentimiento expreso de su consorte, y con la autorización judicial cuando la ley lo requiera expresamente.
+La persona que ejerza la patria potestad representará también a los hijos en juicio, los arreglos para terminarlo requerirán del consentimiento expreso de ambos ascendientes, cuando su ejercicio sea conjunto; y de la autorización judicial cuando la Ley lo requiera expresamente.
 
 ARTICULO 357
 
@@ -1993,11 +2051,15 @@ II.- En los casos de divorcio, teniendo en cuenta lo que dispone el artículo 15
 
 III.- Cuando por las costumbres depravadas de los padres, malos tratamientos o abandono de sus deberes, pudiera comprometerse la salud, la seguridad o la moralidad de los hijos, aun cuando esos hechos no cayeren bajo la sanción de la ley penal;
 
-IV.- Por la exposición que el padre o la madre hiciere de sus hijos, o porque los dejen abandonados por más de seis meses.
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+IV.- Por la exposición que los padres hicieren de sus hijos, o porque los dejen abandonados por más de seis meses.
+
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
 
 ARTICULO 374
 
-El padre o abuelo o la madre o abuela que pase a segundas nupcias, no pierde por este hecho la patria potestad.
+Los padres y los abuelos que pasen a segundas nupcias, no pierden por este hecho la patria potestad.
 
 ARTICULO 375
 
@@ -2221,9 +2283,11 @@ ARTICULO 418
 
 El padre, o la madre, son de derecho tutores de sus hijos, solteros o viudos, cuando ellos no tengan hijos que puedan desempeñar la tutela.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 419
 
-A falta de tutor testamentario y de persona que con arreglo a los artículos anteriores deba desempeñar la tutela, serán llamados a ella sucesivamente: el abuelo paterno, el materno, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 412; observándose, en su caso, lo que dispone el artículo 413.
+A falta de tutor testamentario y de persona que, con arreglo a los artículos anteriores, deba desempeñar la tutela, serán llamados a ella sucesivamente: los abuelos, los hermanos del incapacitado y los demás colaterales a que se refiere la fracción II del artículo 412; observándose en su caso lo que dispone el artículo 413.
 
 ARTICULO 420
 
@@ -2667,9 +2731,11 @@ ARTICULO 498
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita del consentimiento del curador y de la aprobación judicial otorgada con audiencia de éste.
 
+> <small>(REFORMADO, G.O. 1 DE ENERO DE 1976)</small>
+
 ARTICULO 499
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos para sí, sus ascendientes, su cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ARTICULO 500
 
@@ -4417,7 +4483,7 @@ La propiedad puede ser ocupada contra la voluntad de su dueño, por causa de uti
 
 ARTICULO 872
 
-Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que en seguida (sic) se enumeran:
+Se considerará procedente la expropiación por causa de utilidad pública, siempre que sea indispensable para satisfacer alguna necesidad pública o social, semejante a las que enseguida (sic) se enumeran:
 
 I.- Fraccionamiento de latifundios propios para la agricultura o la ganadería;
 
@@ -6643,11 +6709,17 @@ ARTICULO 1301
 
 El testador debe dejar alimentos a las personas que se mencionan en las fracciones siguientes:
 
-I.- A los descendientes menores de veintiún años;
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
 
-II.- A los descendientes que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, unos y otras aun cuando fueren mayores de veintiún años;
+I.- A los descendientes menores de 18 años, respecto de los cuales tenga obligación legal de proporcionar alimentos al momento de la muerte;
 
-III.- Al cónyuge supérstite, varón imposibilitado de trabajo, o mujer que permanezca viuda y viva honestamente;
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+II.- A los descendientes que estén imposibilitados de trabajar, y a las hijas que no hayan contraído matrimonio y vivan honestamente, cualquiera que sea su edad;
+
+> <small>(REFORMADA, G.O. 1 DE ENERO DE 1976)</small>
+
+III.- Al cónyuge supérstite, cuando esté impedido de trabajar y no tenga bienes suficientes, salvo otra disposición expresa del testador, este derecho subsistirá en tanto no contraiga matrimonio y viva honestamente;
 
 IV.- A los ascendientes;
 
@@ -10809,9 +10881,9 @@ ARTICULO 2207
 
 Los extranjeros y las personas morales no pueden comprar bienes raíces, sino sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, y en sus leyes reglamentarias.
 
-ARTICULO 2208
+> <small>(DEROGADO, G.O. 1 DE ENERO DE 1976)</small>
 
-Los consortes no pueden celebrar entre sí el contrato de compra-venta, sino de acuerdo con lo dispuesto en los artículos 105 y 106.
+ARTICULO 2208
 
 ARTICULO 2209
 
@@ -14687,7 +14759,7 @@ I.- Los documentos públicos;
 
 II.- Los documentos privados, que con esta formalidad sean válidos con arreglo a la ley, que contengan certificación de reconocimiento en el texto y firmas, expedida por el Registrador, un Notario, o un Juez Municipal, la cual deberá estar firmada por los signantes del documento, la autoridad que intervenga y tener impreso el sello de autorizar respectivo.
 
-Los funcionarios a que se refiere el párrafo anterior, estarán provistos de un libro denominado "Registro de Certificaciones", autorizado por el Secretario de Gobierno, en el cual harán relación de cada certificación que expidan, asentando el número progresivo que le corresponda, la fecha de expedición, acto jurídico que se certifica, datos generales de los signantes del documento y certificación de aquéllos son de su personal conocimiento, o de los medios de prueba que sobre su identificación hayan presentado. La constancia que con este motivo se levante, deberá estar firmada por los signantes del documento que se haya certificado, por el funcionario que interviene, y tendrá impresión de su sello de autorizar.
+Los funcionarios a que se refiere el párrafo anterior, estarán provistos de un libro denominado "Registro de Certificaciones", autorizado por el Secretario de Gobierno, en el cual harán relación de cada certificación que expidan, asentando el número progresivo que le corresponda, la fecha de expedición, acto jurídico que se certifica, datos generales de los signantes del documento y certificación de que aquéllos son de su personal conocimiento, o de los medios de prueba que sobre su identificación hayan presentado. La constancia que con este motivo se levante, deberá estar firmada por los signantes del documento que se haya certificado, por el funcionario que interviene, y tendrá impresión de su sello de autorizar.
 
 ARTICULO 2945
 
@@ -15102,3 +15174,9 @@ La presente Ley entrará en vigor tres días después de su publicación en la "
 G.O. 10 DE JULIO DE 1971.
 
 La presente Ley entrará en vigor tres días después de su publicación en la "Gaceta Oficial" del Estado.
+
+G.O. 1 DE ENERO DE 1976.
+
+###### ARTICULO UNICO.
+
+Estas reformas y adiciones entrarán en vigor el día de su publicación, en la "Gaceta Oficial" del Estado.
