@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-tramitacion-de-los-procedimientos-para-23276
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-02-12"
-last_updated: "2003-03-10"
+last_updated: "2003-05-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23276&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2001-12-12"
 
 REGLAMENTO PARA LA TRAMITACION DE LOS PROCEDIMIENTOS PARA EL CONOCIMIENTO DE LAS FALTAS Y APLICACION DE SANCIONES ADMINISTRATIVAS ESTABLECIDAS EN EL TITULO QUINTO DEL LIBRO QUINTO DEL CODIGO FEDERAL DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE MAYO DE 2003.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 12 de febrero de 2002.
 
@@ -621,23 +621,17 @@ Artículo 44
 
 1. Una vez que la Junta haya aprobado el dictamen, el Secretario lo remitirá en un plazo no mayor de 5 días a los integrantes de la Comisión.
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2003)</small>
 
 Artículo 45
 
-1. El Presidente de la Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a sesión por lo menos 5 días antes de la fecha que se señale en la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el dictamen e instruya a la Secretaría Técnica sobre el sentido del anteproyecto de resolución o de acuerdo de devolución, atendiendo a lo siguiente:
+1. El Presidente de la Comisión, a más tardar al día siguiente de la recepción del dictamen, convocará a sesión por lo menos 5 días antes de la fecha que se señale en la convocatoria, con la finalidad de que dicho órgano colegiado analice y valore el dictamen e instruya a la Secretaría Técnica sobre el sentido del anteproyecto de resolución o de acuerdo de devolución.
 
-a) Si la Comisión está de acuerdo con el sentido del dictamen emitido por la Junta, el Secretario Técnico elaborará el anteproyecto de resolución, tomando en cuenta, en su caso, los argumentos, consideraciones y razonamientos expresados por la mayoría de los integrantes de la propia Comisión para reforzar los argumentos contenidos en el dictamen.
+2. La Secretaría Técnica contará con un plazo de 10 días para elaborar el anteproyecto de resolución o el de acuerdo de devolución respectivo, conforme con la instrucción de la Comisión.
 
-b) Si la Comisión no está de acuerdo con el sentido o con los razonamientos que sustentan el dictamen emitido por la Junta; o considera que la Junta omitió realizar determinadas diligencias de investigación necesarias para el conocimiento de los hechos denunciados, ordenará se elabore un proyecto de acuerdo de devolución.
+3. Una vez que la Secretaría Técnica elabore el anteproyecto correspondiente, el Presidente de la Comisión convocará a sesión, remitiendo el anteproyecto a los integrantes de dicho órgano colegiado por lo menos 3 días antes de la fecha de sesión, para su discusión y eventual aprobación.
 
-2. La Secretaría Técnica contará con un plazo de 10 días para elaborar el anteproyecto o proyecto respectivo, conforme con la instrucción de la Comisión.
-
-3. Una vez que la Secretaría Técnica elabore el anteproyecto o proyecto correspondiente, el Presidente de la Comisión convocará a sesión, remitiendo el mismo a los integrantes de dicho órgano colegiado por lo menos 3 días antes de la fecha de la sesión, para su discusión y eventual aprobación.
-
-4. Aprobado el acuerdo de devolución por la Comisión, el expediente será turnado a la Junta para los efectos procedentes.
-
-5. Aprobado el proyecto de resolución por la Comisión, éste deberá presentarse junto con el dictamen aprobado por la Junta, a la consideración del Consejo en la siguiente sesión que celebre.
+4. Aprobado el proyecto de resolución o el de acuerdo de devolución por la Comisión, éste deberá presentarse junto con el dictamen aprobado por la Junta, a la consideración del Consejo en la siguiente sesión que se celebre.
 
 > <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
 
@@ -695,7 +689,7 @@ h) Firmas del Presidente y Secretario del Consejo, y
 
 i) Los términos de su notificación.
 
-> <small>(REFORMADO, D.O.F. 10 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2003)</small>
 
 Artículo 47
 
@@ -713,7 +707,7 @@ III. La fecha en que la Junta aprobó el dictamen;
 
 IV. La fecha en que le fue turnado el dictamen a la Comisión;
 
-V. La fecha de la sesión de la Comisión en la que se instruyó a la Secretaría Técnica elaborar el proyecto de acuerdo, y
+V. La fecha de la sesión de la Comisión en la que se instruyó a la Secretaría Técnica elaborar el anteproyecto de acuerdo, y
 
 VI. La fecha en la que se aprobó el acuerdo en Comisión.
 
@@ -729,7 +723,7 @@ d) PUNTOS DE ACUERDO que determinen:
 
 I. Las modificaciones que se deban efectuar al dictamen y, en su caso, la instrucción a la Junta para la realización de nuevas diligencias de investigación, incluida la posibilidad de dar vista a las partes para que manifiesten lo que a su derecho corresponda;
 
-II. La instrucción al Secretario para que se devuelva el expediente a la Junta para los fines que señale la Comisión, y
+II. La instrucción al Secretario para que se devuelva el expediente a la Junta para los fines que señale el Consejo, y
 
 III. La determinación del plazo para que la Junta apruebe el nuevo dictamen.
 
@@ -739,7 +733,7 @@ f) Tipo de sesión;
 
 g) Fecha de aprobación, y
 
-h) Firmas del Presidente y del Secretario de la Comisión.
+h) Firmas del Presidente y del Secretario del Consejo.
 
 > <small>(REFORMADO CON EL ARTICULO QUE LO INTEGRA, D.O.F. 10 DE MARZO DE 2003)</small>
 
@@ -948,3 +942,15 @@ SEGUNDO.- La Junta General Ejecutiva contará con 30 días para aprobar las modi
 TERCERO.- El Secretario Ejecutivo ordenará la edición conjunta y completa del Reglamento aprobado mediante el presente acuerdo y de los Lineamientos que emita la Junta General Ejecutiva.
 
 CUARTO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
+
+D.O.F. 23 DE MAYO DE 2003.
+
+> <small>N. DE E. EL PRESENTE ACUERDO DE REFORMAS NO CUENTA CON ARTICULOS TRANSITORIOS, PERO POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTICULOS DEL DECRETO.</small>
+
+SEGUNDO.- El Secretario Ejecutivo dará cuenta del presente acuerdo, por el que se acata la sentencia SUP-RAP-015/2003, al Tribunal Electoral del Poder Judicial de la Federación.
+
+TERCERO.- La Junta General Ejecutiva contará con un plazo de 30 días para adecuar conforme a los términos del presente acuerdo, los Lineamientos para el Conocimiento y la Sustanciación de los Procedimientos de las Faltas Administrativas, establecidas en el Título Quinto del Libro Quinto del Código Federal de Instituciones y Procedimientos Electorales.
+
+CUARTO.- Se instruye al Secretario Ejecutivo para incorporar las presentes modificaciones a la edición a que alude el artículo quinto transitorio del Acuerdo del Consejo General por el que se aprobó el Reglamento para la Tramitación de los Procedimientos para el Conocimiento de las Faltas y Aplicación de Sanciones Administrativas establecidas en el Título Quinto del Libro Quinto del Código Federal de Instituciones y Procedimientos Electorales, así como la creación de la Comisión de Proyectos de Resolución o Devolución.
+
+QUINTO.- Publíquese en el Diario Oficial de la Federación y en la Gaceta del Instituto Federal Electoral.
