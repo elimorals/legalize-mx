@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-premio-chihuahua-4729"
 country: "mx"
 rank: "ley"
 publication_date: "1981-11-11"
-last_updated: "1981-11-11"
+last_updated: "1983-10-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4729&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY QUE CREA EL "PREMIO CHIHUAHUA"
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE OCTUBRE DE 1983.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el miércoles 11 de noviembre de 1981.
 
@@ -55,9 +55,11 @@ III.- Sociales.
 
 IV.- Literarias.
 
+> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 1983)</small>
+
 ###### ARTICULO 3°.
 
-El premio consistirá en la suma de $100,000.00 (CIEN MIL PESOS 00/100) y diploma alusivo, que se entregarán por cada área.
+El Premio consistirá en la suma de $200,000.00 (DOSCIENTOS MIL PESOS 00/100) y diploma alusivo, que se entregará por cada área.
 
 ###### ARTICULO 4°.
 
@@ -122,3 +124,9 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la ciudad de Chihuahua, Palacio de Gobierno del Estado, a los 29 días del mes de octubre de 1981.
 
 El Gobernador Constitucional, LIC. OSCAR ORNELAS K.; El Secretario General de Gobierno, LIC. ARMANDO ALMEIDA MARTINEZ.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 29 DE OCTUBRE DE 1983.
+
+ARTICULO TRANSITORIO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
