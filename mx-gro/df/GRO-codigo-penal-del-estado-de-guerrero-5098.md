@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-del-estado-de-guerrero-5098"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-11-14"
-last_updated: "1989-01-10"
+last_updated: "1990-07-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO PENAL DEL ESTADO DE GUERRERO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE ENERO DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE JULIO DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el viernes 14 de noviembre de 1986.
 
@@ -1001,6 +1001,14 @@ III.- Prisión de cuatro a diez años y de ciento veinte a trescientos días mul
 
 171.- Al que engañando a alguien o aprovechándose del error en que éste se encuentra, obtenga ilícitamente alguna cosa ajena o alcance un lucro indebido para sí o para otro, se le impondrán las penas del artículo 163, pero si el monto de lo defraudado excede de mil veces el salario, se aplicarán de seis a quince años de prisión y de trescientos a quinientos días multa.
 
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+171 BIS.- Comete el delito de exacción fraudulenta, el que por sí o por interpósita persona, a título de dirigencia, protección, gestoría o representación, sea cual fuere su naturaleza, engañando o aprovechando la ignorancia o la necesidad de alguien, solicite y obtenga dinero o cualquier otra dádiva para sí o para otro, con la promesa de conseguir o facilitar del Gobierno o de cualquier entidad pública, algún empleo, actividad económica no asalariada, concesión, autorización, permiso, licencia, vivienda, local, sitio o área comercial, fraccionamiento urbano o suburbano, lote habitacional u otro de similar naturaleza, sin importar su denominación, cuando ello fuere ilícito; o se provoque una detentación, uso, disfrute o posesión de hecho sin la observancia de los procedimientos de Ley.
+
+Al que cometa el delito de exacción fraudulenta se le impondrá de 2 a 7 años de prisión y multa de 300 a 400 veces el salario mínimo vigente. Esas penas podrán ser hasta de 9 años de prisión, y la multa hasta de 500 veces el salario mínimo vigente si el sujeto pasivo es menor de edad o incapaz o notoriamente ignorante.
+
+El servidor público que participe o intervenga en la comisión de esas conductas, independientemente de que se le apliquen las penas a que se haga acreedor, será destituído de su cargo, inhabilitado hasta por diez años, y será publicada la sentencia.
+
 172.- Se impondrán las mismas penas previstas en el artículo anterior:
 
 I.- Al que habiendo recibido mercancía con subsidio o franquicia para darles un destino determinado, las distraiga de ese destino o en cualquier forma desvirtúe los fines perseguidos con el subsidio o la franquicia;
@@ -1201,9 +1209,17 @@ En ambos casos se estará a lo dispuesto en el artículo 207.
 
 Lo dispuesto en el párrafo anterior no comprende a los que ejerciendo la patria potestad, la tutela o la custodia, abran o intercepten las comunicaciones escritas dirigidas a sus hijos menores de edad o a las personas que se hallen bajo su tutela o guarda.
 
+> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 27 DE JULIO DE 1990)</small>
+
 #### SECCION TERCERA. DELITOS CONTRA LA SOCIEDAD
 
 ## TITULO I. DELITOS DE PELIGRO CONTRA LA SEGURIDAD COLECTIVA
+
+### CAPITULO IV. DELITOS CONTRA LA VIA PUBLICA Y SITIOS DE USO COMUN
+
+> <small>(ADICIONADO, P.O. 27 DE JULIO DE 1990)</small>
+
+209 BIS.- Al que utilice habitualmente la vía pública o sitios de uso común tales como calles, avenidas, andadores públicos, plazas, estacionamientos y otros, independientemente de su denominación, y los bienes destinados a servicio público, para obtener lucro o ventaja económica ofreciendo o enajenando bienes o derechos de uso, goce, disfrute o propiedad de bienes muebles o inmuebles, sin la debida autorización cuando se requiera legalmente de las autoridades competentes, se le impondrá prisión de 3 meses a 3 años y multa equivalente de 3 veces a 200 veces el salario mínimo vigente.
 
 ### CAPITULO I. FALSIFICACION Y USO INDEBIDO DE SELLOS, MARCAS, LLAVES, CONTRASEÑAS Y OTROS OBJETOS
 
@@ -1247,6 +1263,8 @@ IV.- A sabiendas haga uso indebido de cualquier documento, copia, testimonio o t
 
 Las mismas penas se aplicarán al que sin tener título o autorización para ejercer alguna profesión reglamentada, con objeto de lucrar, se una a profesionistas legalmente autorizados con fines de ejercicio profesional o administre alguna asociación profesional.
 
+## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
+
 ### CAPITULO I. CORRUPCION DE MENORES
 
 216.- Al que procure o facilite la depravación sexual de un menor de dieciséis años de edad o lo induzca, incite o auxilie a la práctica de la mendicidad, de hábitos viciosos, a la ebriedad, a formar parte de una asociación delictuosa o a cometer cualquier otra conducta o hecho previstos por la ley como delitos, se le impondrá prisión de seis meses a cinco años, de veinte a doscientos días multa y se le inhabilitará para ser tutor o curador.
@@ -1256,8 +1274,6 @@ Las mismas penas se aplicarán al que sin tener título o autorización para eje
 A los padres o tutores que acepten que los menores sujetos a su patria potestad, custodia o tutela, se empleen en los referidos establecimientos, se les impondrá prisión de seis meses a dos años y se les privará o suspenderá o inhabilitará hasta por cinco años en el ejercicio de aquellos derechos y, en su caso, del derecho a los bienes del ofendido.
 
 Para los efectos de este precepto, se considerará que es empleado, el menor de dieciséis años de edad que preste sus servicios por un salario, gratuitamente o por cualquier prestación.
-
-## TITULO II. DELITOS CONTRA LA SEGURIDAD Y EL NORMAL FUNCIONAMIENTO DE LAS VIAS DE COMUNICACION Y DE LOS MEDIOS DE TRANSPORTE
 
 ### CAPITULO II. LENOCINIO
 
@@ -1282,6 +1298,8 @@ I.- Destruya, mutile, oculte, traslade, incinere, sepulte, exhume o haga uso de 
 II.- Sustraiga o esparza las cenizas de un cadáver o restos humanos o cometa actos de vilipendio sobre los mismos, o viole o vilipendie el lugar donde éstos se encuentren.
 
 221.- Al que profane un cadáver con actos de necrofilia, se le impondrá prisión de uno a cinco años y de treinta a ciento cincuenta días multa.
+
+## TITULO III. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO UNICO. RESPONSABILIDAD PROFESIONAL
 
@@ -1316,8 +1334,6 @@ III.- Retarden o nieguen por cualquier motivo la entrega de un cadáver, excepto
 225.- Las mismas sanciones del artículo anterior se impondrán a los encargados o administradores de agencias funerarias, que aduciendo adeudos o por cualquier otro motivo injustificado retarden o nieguen la salida de cadáveres.
 
 226.- A los encargados, empleados o dependientes de farmacias, que al surtir una receta sustituyan la medicina específicamente señalada, por otra que cause daños o sea evidentemente inapropiada al padecimiento para el cual se prescribió, se les impondrá prisión de tres meses a dos años y hasta cincuenta días multa.
-
-## TITULO III. DELITOS CONTRA LA FE PUBLICA
 
 ### CAPITULO I. SEDICION
 
@@ -1361,13 +1377,13 @@ III.- Voluntariamente sirva un empleo, cargo o comisión en lugar ocupado por lo
 
 No se aplicará pena alguna por el delito de rebelión a los que depongan las armas antes de ser tomados prisioneros, salvo que hubieren cometido otros delitos durante la rebelión o los que se mencionan en el artículo anterior.
 
+## TITULO IV. DELITOS CONTRA LA MORAL PUBLICA
+
 ### CAPITULO IV. TERRORISMO
 
 234.- Se impondrá prisión de tres a treinta años, sin perjuicio de las penas que correspondan por los delitos que resulten, al que utilizando explosivos, sustancias tóxicas, armas de fuego o por incendio, inundación o por cualquier otro medio violento, realice actos en contra de las personas, las cosas o servicios al público, que produzcan alarma, temor, terror, en la población o a un grupo o sector de ella, para perturbar la paz pública o tratar de menoscabar la autoridad del Estado o presionar a la autoridad para que tome una determinación.
 
 Se aplicará prisión de uno a nueve años, al que teniendo conocimiento de las actividades de un terrorista y de su identidad, no lo haga saber a las autoridades.
-
-## TITULO IV. DELITOS CONTRA LA MORAL PUBLICA
 
 ### CAPITULO V. SABOTAJE
 
@@ -1401,6 +1417,8 @@ A los mexicanos que cometan algún delito de carácter político, se les privar�
 
 240.- Los servidores públicos que cometan alguno de los delitos previstos en el presente Título, serán sancionados con las penas de prisión y multa que para cada caso se señalan y privación del cargo e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, hasta por el mismo tiempo que el señalado en las penas privativas de libertad.
 
+## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+
 ### CAPITULO II. EJERCICIO INDEBIDO Y ABANDONO DEL SERVICIO PUBLICO
 
 241.- Comete el delito de ejercicio indebido del servicio público, el servidor público que:
@@ -1421,7 +1439,7 @@ Al responsable de los delitos previstos en las fracciones IV y V se le impondrá
 
 242.- Al servidor público que indebidamente y en perjuicio del servicio abandone las funciones que legalmente tenga conferidas, se le aplicará prisión de tres meses a tres años y de diez a ciento veinte días multa.
 
-## TITULO V. DELITOS CONTRA EL RESPETO A LOS MUERTOS Y CONTRA LAS NORMAS DE INHUMACION Y EXHUMACION
+## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
 
 ### CAPITULO III. DESEMPEÑO IRREGULAR DE LA FUNCION PUBLICA
 
@@ -1449,7 +1467,9 @@ X.- Ejerza algún otro empleo, cargo o comisión oficial o particular, teniendo 
 
 Cuando el monto del producto del delito o de los daños o perjuicios causados, exceda de mil veces el salario, la sanción será de tres a nueve años de prisión y de ciento ochenta a quinientos días multa.
 
-## TITULO VI. DELITOS COMETIDOS EN EL EJERCICIO DE LA PROFESION
+#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
+
+## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO IV. ABUSO DE AUTORIDAD
 
@@ -1468,10 +1488,6 @@ V.- Con cualquier pretexto obtenga de un subalterno parte de los sueldos de ést
 VI.- Haga que se le entreguen fondos, valores u otra cosa que no se le haya confiado a él y se los apropie o disponga de ellos indebidamente.
 
 Al que cometa el delito de abuso de autoridad se le aplicará prisión de uno a seis años y de treinta a trescientos días multa, penas que se aumentarán hasta en una mitad más para el caso previsto en la fracción VI de este artículo.
-
-#### SECCION CUARTA. DELITOS CONTRA EL ESTADO
-
-## TITULO I. DELITOS CONTRA LA SEGURIDAD INTERIOR DEL ESTADO
 
 ### CAPITULO V. INTIMIDACION
 
@@ -1509,6 +1525,8 @@ Se presumirá que existe enriquecimiento ilícito, cuando el servidor público n
 
 Los bienes cuya legítima procedencia no se logre acreditar, serán decomisados en beneficio del Estado.
 
+## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
+
 ### CAPITULO XI. NEGOCIACIONES ILICITAS
 
 251.- Se impondrán de seis meses a cuatro años de prisión y de treinta a doscientos cuarenta días multa al servidor público que:
@@ -1520,8 +1538,6 @@ II.- Mediante la realización de los actos a que se refiere la fracción anterio
 III.- Valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones, adquisiciones o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público, a su cónyuge o a sus parientes consanguíneos o por afinidad hasta el cuarto grado o a sociedades de las que el agente forme parte.
 
 Si el monto de los beneficios económicos obtenidos o de los perjuicios patrimoniales causados, excede de mil veces el salario, se impondrán de cuatro a doce años de prisión y de doscientos cuarenta a quinientos días multa.
-
-## TITULO II. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR LOS SERVIDORES PUBLICOS
 
 ### CAPITULO XII. TRAFICO DE INFLUENCIA
 
@@ -1659,6 +1675,8 @@ XXXI.- Aprovechar el poder, el empleo o el cargo para satisfacer indebidamente u
 
 Además de las penas establecidas en el párrafo que antecede, el agente sufrirá privación del cargo e inhabilitación para obtener otro cargo público hasta por un término igual al de la pena de prisión señalada por la ley para el delito cometido.
 
+## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
+
 ### CAPITULO II. FRAUDE PROCESAL
 
 271.- Al que para obtener un beneficio indebido para sí o para otro, simule un acto jurídico o un juicio o un acto o escrito judiciales, o altere elementos de prueba en perjuicio de otro, se le impondrá prisión de tres meses a cinco años y de veinte a doscientos días multa.
@@ -1666,8 +1684,6 @@ Además de las penas establecidas en el párrafo que antecede, el agente sufrir�
 Se entenderá simulado el juicio que se siga en contra de un depositario, si trae como consecuencia el secuestro de la cosa embargada o depositada con anterioridad en otro procedimiento judicial o administrativo.
 
 También se entenderá simulado el que se siga contra cualquier otra persona, si con ese motivo se desposee al depositario de la cosa previamente embargada o secuestrada en otro juicio o procedimiento, siempre que éste no la reclame dentro de los tres días siguientes.
-
-## TITULO III. DELITOS CONTRA EL SERVICIO PUBLICO COMETIDOS POR PARTICULARES
 
 ### CAPITULO III. IMPUTACION DE HECHOS FALSOS Y SIMULACION DE PRUEBAS
 
@@ -1804,3 +1820,9 @@ P.O. 10 DE ENERO DE 1989.
 PRIMERO.- Se aplaza el dictamen, discusión y aprobación en su caso, de las reformas y adiciones al Código Penal vigente.
 
 SEGUNDO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 27 DE JULIO DE 1990.
+
+###### ARTICULO UNICO.
+
+El presente Decreto de reformas y adiciones entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
