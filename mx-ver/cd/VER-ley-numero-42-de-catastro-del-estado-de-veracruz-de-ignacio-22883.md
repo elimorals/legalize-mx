@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-42-de-catastro-del-estado-de-veracruz-de-ignacio-228
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2003-03-10"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 42 DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-LEY DE CATASTRO DEL ESTADO DE VERACRUZ-LLAVE
+LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2003.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de diciembre de 2001.
 
@@ -39,17 +39,23 @@ LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y S
 
 LEY NÚMERO 42
 
-DE CATASTRO DEL ESTADO DE VERACRUZ-LLAVE
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+LEY DE CATASTRO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público y de observancia general en el Estado de Veracruz-Llave, y tienen por objeto normar el funcionamiento y coordinación que en materia catastral compete a los Gobiernos Estatal y Municipales.
+Las disposiciones de esta Ley son de orden público y de observancia general en el Estado de Veracruz de Ignacio de la Llave, y tienen por objeto normar el funcionamiento y coordinación que en materia catastral compete a los Gobiernos Estatal y Municipales.
+
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
 ###### Artículo 2.
 
-En el Estado de Veracruz-Llave, son autoridades catastrales el Gobierno Estatal y los Gobiernos Municipales, los cuales ejercerán sus respectivas atribuciones de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, la Ley Orgánica del Municipio Libre, el Código de Procedimientos Administrativos para el Estado, esta Ley y demás disposiciones legales y reglamentarias aplicables.
+En el Estado de Veracruz de Ignacio de la Llave, son autoridades catastrales el Gobierno Estatal y los Gobiernos Municipales, los cuales ejercerán sus respectivas atribuciones de conformidad con lo dispuesto por la Ley Orgánica del Poder Ejecutivo, la Ley Orgánica del Municipio Libre, el Código de Procedimientos Administrativos para el Estado, esta Ley y demás disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 3.
 
@@ -81,7 +87,9 @@ X. Certificado de Valor Catastral: Documento expedido por la autoridad, donde se
 
 XI. Clave Catastral: Símbolo numérico que se asigna a un predio para su identificación en el catastro, de acuerdo a lo establecido en el Reglamento de esta Ley;
 
-XII. Congreso: El Congreso del Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
 XIII. Construcción Permanente: La que se edifica con objeto de permanecer adherida al terreno de manera tal que no pueda separarse del suelo sin deteriorarse;
 
@@ -125,7 +133,9 @@ XXXII. Información territorial: Conjunto de planos, documentos y bases de datos
 
 XXXIII. Infraestructura Urbana: Sistemas de dotación y distribución de los servicios básicos: agua, drenaje, alcantarillado, energía eléctrica, teléfono y vías de comunicación, necesarios para el buen funcionamiento de las ciudades;
 
-XXXIV. Ley: La Ley de Catastro para el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XXXIV. Ley: La Ley de Catastro para el Estado de Veracruz de Ignacio de la Llave;
 
 XXXV. Licencia de Construcción: Documento expedido por los Ayuntamientos mediante el cual se autoriza a los propietarios o poseedores de un predio a construir, ampliar, modificar, reparar o remodelar una edificación;
 
@@ -337,9 +347,9 @@ p) Informar a la autoridad catastral estatal sobre los valores de los terrenos y
 
 q) Expedir certificados de valor catastral y demás constancias de los registros catastrales de su circunscripción territorial, previo pago de los derechos correspondientes;
 
-> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-r) Notificar a los interesados los actos relacionados con la función catastral, en los términos que establezcan la presente ley y el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave;
+r) Notificar a los interesados los actos relacionados con la función catastral, en los términos que establezcan la presente ley y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
 s) Recibir y, en su caso, turnar a la autoridad competente, para su resolución, los escritos de interposición del recurso administrativo de revocación que, en materia catastral, presenten los interesados;
 
@@ -359,9 +369,11 @@ Los propietarios o poseedores de bienes inmuebles solicitarán el registro de é
 
 Asimismo, deberán manifestar cualquier modificación realizada por concepto de nuevas construcciones, reconstrucciones, remodelaciones, demoliciones, así como del estado ruinoso de ellas, en el plazo que no excederá de treinta días contado a partir de la terminación de las obras.
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 9.
 
-Los propietarios o poseedores, sus representantes, los inquilinos, administradores o cualquier otra persona encargada de un bien inmueble, están obligados a proporcionar a las autoridades catastrales o a los servidores públicos debidamente autorizados para ese efecto, los datos, documentos e informes que se les soliciten. De igual manera, permitirán el acceso al interior de los mismos y deberán proporcionar todas las facilidades para el levantamiento catastral. Para estos efectos, la autoridad catastral cumplirá con los requisitos y formalidades previstos en el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave.
+Los propietarios o poseedores, sus representantes, los inquilinos, administradores o cualquier otra persona encargada de un bien inmueble, están obligados a proporcionar a las autoridades catastrales o a los servidores públicos debidamente autorizados para ese efecto, los datos, documentos e informes que se les soliciten. De igual manera, permitirán el acceso al interior de los mismos y deberán proporcionar todas las facilidades para el levantamiento catastral. Para estos efectos, la autoridad catastral cumplirá con los requisitos y formalidades previstos en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 10.
 
@@ -858,3 +870,21 @@ SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACI
 PRIMERO.- El presente Código entrara en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 CUARTO.- Las disposiciones relativas a la clasificación de predios suburbanos, de conformidad con lo previsto por el artículo sexto transitorio de la Ley de Catastro del Estado de Veracruz-Llave, entraran en vigor a partir del 1 de enero del año 2004.
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente al de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "...Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "...Estado de Veracruz-Llave", se entenderán referidas al "...Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "...del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SÉPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
