@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "1998-11-28"
+last_updated: "1999-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -2486,10 +2486,6 @@ La acción para exigir la reparación del daño a personas distintas del inculpa
 Ante los Tribunales Penales, la acción de la reparación del daño se tramitará en vía incidental de conformidad con las reglas del juicio sumario del Código de Procedimientos Civiles y se tendrán los recursos que dicho juicio prevé
 
 Los Tribunales Civiles estarán expeditos para dar curso a la acción de reparación del daño derivada de delito, si la víctima o el ofendido por alguna causa no la promueve ante el Tribunal Penal.
-
-> <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 1998)</small>
-
-Cuando promovida la acción y hubiere concluido el proceso penal sin que el incidente de reparación del daño este en estado de sentencia el Juez penal continuará conociendo hasta fallar en definitiva.
 
 ###### Art. 345.
 
