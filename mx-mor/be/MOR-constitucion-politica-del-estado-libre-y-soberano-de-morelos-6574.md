@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "1974-11-13"
+last_updated: "1976-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 13 DE NOVIEMBRE DE 1974.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 1976.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -458,7 +458,7 @@ I.- Los trabajadores solo podrán ser suspendidos o cesados por causa justificad
 
 J.- Los trabajadores tendrán el derecho de asociarse para la defensa de sus intereses comunes. Podrán, asimismo, hacer uso del derecho de huelga previo el cumplimiento de los requisitos que determine la Ley, respecto de una o varias dependencias de los poderes públicos, cuando se violen de manera general y sistemático los derechos que este artículo les consagra.
 
-K.- La seguridad social se organizará conforme a las siguientes bases mínimas;
+K.- La seguridad social se organizará conforme a las siguientes bases mínimas:
 
 a).- Cubrirá los accidentes y enfermedades profesionales; las enfermedades no profesionales y maternidad; y la jubilación, la invalidez, vejez y muerte.
 
@@ -650,7 +650,7 @@ B.- Cuando sea necesario para el cumplimiento de alguna ley general.
 
 C.- En los casos de falta absoluta del Gobernador, o cuando tenga que separase de sus funciones por más de dos meses.
 
-D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la de destitución del cargo.
+D.- Cuando alguno de los funcionarios a que se refiere el artículo 40, fracción XL, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo.
 
 E.- Cuando lo pida el Ejecutivo del Estado.
 
@@ -1084,9 +1084,9 @@ En este período de sesiones, dentro los primeros cinco días, la Cámara deber�
 
 Para ser Magistrado Propietario o Suplente del Tribunal Superior de Justicia, se requiere:
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 1967)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 1976)</small>
 
-I.- Ser ciudadano morelense por nacimiento, estar en pleno ejercicio de sus derechos y tener residencia habitual en el Estado.
+I.- Ser ciudadano mexicano por nacimiento, estar en pleno ejercicio de sus derechos y tener residencia habitual en el Estado, no menor de diez años.
 
 II.- Ser Abogado con título expedido por Autoridad o corporación legalmente facultada para ello.
 
@@ -1671,3 +1671,11 @@ Estas reformas a la Constitución Política Local, entrarán en vigor al día si
 ###### ARTICULO SEGUNDO.
 
 Previo el procedimiento legal, remítase al Ejecutivo del Estado para los efectos de la Fracción XVII del Artículo 70 de la Constitución Política Local.
+
+P.O. 28 DE ABRIL DE 1976.
+
+PRIMERO.- La presente reforma constitucional entrará en vigor el mismo día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Remítase al Ejecutivo para los efectos a que se refiere la Fracción XVII del Artículo 70 de la Constitución Política Local.
