@@ -4,7 +4,7 @@ identifier: "SON-ley-de-prevencion-y-atencion-de-la-violencia-familiar-antes-165
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-31"
-last_updated: "1999-12-31"
+last_updated: "2000-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16568&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -441,7 +441,7 @@ a).- Terapéutico: para que asuma la corresponsabilidad en el conflicto, reforza
 
 b).- Educativo: para influir en la fexibilización (sic) de los roles sexuales y asumir derechos y obligaciones en la familia; y,
 
-c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia intrafamiliar que le permita la reorganización de su vida;
+c).- Protector: para garantizar la integridad y recuperación del trauma en el receptor de la violencia intrfamiliar que le permita la reorganización de su vida;
 
 II.- Será libre de prejuicios de género, raza, condición biopsicosocial, religión o credo, nacionalidad o de cualquier otro tipo, y se abstendrá de asumir entre sus criterios de solución patrones estereotipos de comportamientos o prácticas sociales y culturales basadas en conceptos de inferioridad o de subordinación entre las personas; y,
 
