@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "1994-07-08"
+last_updated: "1996-11-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -291,7 +291,9 @@ V.- Establecer y mantener en el Gobierno del Estado el Servicio Civil de Carrera
 
 VI.- Mantener al corriente el escalafón de los trabajadores al Servicio del Gobierno del Estado;
 
-VII.- Adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las Dependencias de la Administración Pública Centralizada y representar al Gobierno del Estado en los Comités de Compras;
+> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 1996)</small>
+
+VII.- Adquirir y suministrar los bienes y servicios que requiera el funcionamiento de las Dependencias de la Administración Pública Centralizada; y representar al Gobierno del Estado en los Comités de Compras y Ventas;
 
 VIII.- Resguardar los bienes muebles e inmuebles propiedad del Estado, así como levantar y mantener al corriente el inventario de los mismos;
 
@@ -1216,3 +1218,11 @@ Los asuntos a cargo de la Secretaría de Planeación y Presupuesto que se encont
 ###### ARTICULO QUINTO.
 
 Los bienes y recursos que le fueron transferidos a la Secretaría de Planeación y Presupuesto de la Secretaría de la Contraloría General del Estado para el ejercicio de la fiscalización de la obra pública y de la Dirección de Responsabilidades por Decreto Número 149, de fecha 18 de agosto de 1992 de la Legislatura del Estado y publicado en el Periódico Oficial el 10 de octubre de 1992, se destinará a la Dirección de Control y Evaluación Gubernamental, que se crea mediante el presente Decreto.
+
+P.O. 8 DE NOVIEMBRE DE 1996.
+
+PRIMERO.- Remítase de nueva cuenta al Ejecutivo del Estado el Proyecto de Decreto ratificado que adiciona un segundo párrafo al artículo 16, un tercer párrafo con diez apartados al artículo 19, un último párrafo al artículo 33 y un segundo párrafo al artículo 37 de la Ley General de Bienes del Estado de Baja California, y modifica la fracción VII del artículo 20 de la Ley Orgánica de la Administración Pública del Estado de Baja California, para efectos de su promulgación en un término que no exceda de cinco días conforme al último párrafo del artículo 34 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO.- Se derogan las disposiciones que se opongan a las presentes adiciones.
