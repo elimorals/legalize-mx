@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2003-08-07"
+last_updated: "2003-08-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
+LEY DE EDUCACION DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2012.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE AGOSTO DE 2003.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -53,17 +53,15 @@ El objeto de esta ley es regular los servicios educativos que se presten en la e
 
 La función social educativa de las universidades y demás instituciones de educación superior a que se refiere la fracción VII del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, se regulará por las leyes que rigen a dichas instituciones.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2005)</small>
+###### ARTICULO 2o.
 
-###### Artículo 2o.
+Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, trasmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimientos y para formar al hombre de manera que tenga sentido de solidaridad social.
 
-Todos los habitantes del Estado tienen derecho a recibir educación con las mismas oportunidades de acceso, calidad, permanencia y pertinencia, con sólo satisfacer los requisitos que establezcan las disposiciones generales aplicables. La educación es medio fundamental para adquirir, transmitir y acrecentar la cultura; es proceso permanente que contribuye al desarrollo del individuo y a la transformación de la sociedad y es factor determinante para la adquisición de conocimiento y para formar personas con sentido de solidaridad social.
-
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 3o.
 
-La educación es un proyecto fundamental del ser humano que tiene como propósito su desarrollo integral. La educación preescolar, primaria, secundaria y media superior tienen carácter obligatorio y gratuito, en los términos de la presente ley y las demás disposiciones aplicables. Atendiendo al derecho que tienen de educar a sus hijos o pupilos, los padres o tutores están obligados a hacer que cursen la educación correspondiente a estos niveles.
+La educación es un derecho fundamental del ser humano que tiene como propósito su desarrollo integral. La educación primaria, secundaria y media superior tienen carácter obligatorio y gratuito, en los términos de la presente ley y las demás disposiciones aplicables. Atendiendo al derecho que tienen de educar a sus hijos o pupilos, los padres o tutores están obligados a hacer que cursen la educación correspondientes (sic) a estos niveles.
 
 ###### ARTICULO 4o.
 
@@ -75,11 +73,9 @@ II.- Laica, por lo tanto se mantendrá por completo ajena a cualquier doctrina r
 
 III.- La educación que impartan el Estado y sus organismos descentralizados es un servicio público.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
-
 ###### ARTICULO 5o.
 
-La educación preescolar, primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
+La educación primaria y secundaria podrá cursarse tanto en las escuelas oficiales como en las particulares que para tal efecto existan y donde se cumplan los requisitos básicos establecidos en la legislación y demás disposiciones generales.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -87,15 +83,11 @@ La educación preescolar, primaria y secundaria podrá cursarse tanto en las esc
 
 El Gobierno del Estado está obligado a prestar y promover servicios educativos con el fin de que la población pueda cursar la educación preescolar, primaria, secundaria y media superior, además procurará en lo posible capacitar para el trabajo. Asimismo, promoverá y atenderá todos los tipos y modalidades educativas, incluyendo la educación superior.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
 ###### ARTICULO 7o.
 
-La educación que impartan el Estado de Jalisco, sus municipios y sus organismos descentralizados, así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3°. de la Constitución Federal y en la Ley General de Educación, los siguientes:
+La educación que imparta el Estado de Jalisco, sus Municipios, y sus organismos descentralizados; así como los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá además de los fines señalados en el artículo 3o. de la Constitución Federal y en la Ley General de Educación, los siguientes:
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
-
-I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales y la cultura de la igualdad y equidad de género, así como la prevención, detección, atención, sanción y erradicación para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
+I.- Contribuir al desarrollo integral del ser humano, promoviendo los valores éticos-sociales, para que ejerza plenamente sus capacidades dentro del marco de una convivencia social armónica, todo ello con la participación activa del educando, estimulando su iniciativa y un alto sentido de responsabilidad social;
 
 II.- Fomentar la adquisición de conocimientos científicos y culturales, el desarrollo de la capacidad de aprendizaje, el interés y metodología de la investigación y la reflexión crítica;
 
@@ -105,15 +97,11 @@ IV.- Enseñar el español como lengua nacional común de los mexicanos, sin meno
 
 V.- Infundir el conocimiento y la práctica de la democracia como forma de gobierno y como sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general, en la toma de decisiones para el mejoramiento de la sociedad;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2005)</small>
-
-VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entres (sic) las personas;
+VI.- Promover el valor de la justicia, de la observancia de la ley y de la igualdad de derechos entre todos los hombres;
 
 VII.- Impulsar el estudio, conservación y protección del medio físico y el aprovechamiento racional de los recursos naturales, para la solución de los problemas económicos, sociales y culturales del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-VIII.- Promover la difusión y utilización de técnicas modernas y avances científicos en las actividades agropecuarias, pesqueras, industriales, mineras, forestales, de servicios, a efecto de lograr la preservación y restauración del equilibrio ecológico en la entidad, así como la actividad productiva que requiera el desarrollo del estado de Jalisco;
+VIII.- Promover la difusión y utilización de técnicas y avances científicos en las actividades agropecuarias, industriales, mineras, forestales, de servicios y, en general, para toda actividad productiva que requiera el desarrollo del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -123,37 +111,19 @@ X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimi
 
 XI.- Impulsar la educación física y la práctica del deporte escolar;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-XII.- Desarrollar actitudes solidarias en los individuos para crear conciencia, sobre la preservación de la salud, la planificación familiar, la paternidad responsable, y el conocimiento integral de la sexualidad, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+XII.- Desarrollar actitudes solidarias en los individuos, para crear conciencia sobre la preservación de la salud, la planeación familiar, la paternidad responsable y las consecuencias nocivas de los vicios, propiciando su rechazo; sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
 
 XIII.- Fomentar y encausar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio ecológico, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento del medio ambiente y la naturaleza;
 
 XIV.- Fomentar actitudes solidarias positivas para alcanzar el bienestar general mediante el trabajo y el ahorro;
 
-XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y (sic)
+XV.- Fomentar en el educando el estudio, conocimiento y respeto de la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las leyes que de ellas emanen; y
 
-XVI.- Buscar la excelencia en la calidad educativa;
+XVI.- Buscar la excelencia en la calidad educativa.
 
 > <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2000)</small>
 
-XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social;
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE JULIO DE 2004)</small>
-
-XVIII.- Fomentar el desarrollo de habilidades para afrontar los casos de emergencia que se desprendan de los fenómenos destructivos de origen natural o aquellos generados por la actividad humana;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-XIX.- Prevenir y combatir la drogadicción, el alcoholismo, el tabaquismo y otras adicciones que afecten la salud física y mental del individuo y que dañen las estructuras sociales;
-
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-XX.- Fomentar la cultura de transparencia y acceso a la información pública, con la finalidad de propiciar el ejercicio de un derecho fundamental y consolidar el avance democrático en el estado de Jalisco, y
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2011)</small>
-
-XXI.- Divulgar el desarrollo económico, cultural y social de las diversas regiones del estado, en particular en aquellas regiones donde el grado de migración social es alto o muy alto, fomentando la concientización del estudiante como parte de una sociedad jalisciense en constante crecimiento, buscando generar un sentido de pertenencia y confianza en el estado.
+XVII.- Impulsar la educación para la paz y la convivencia ciudadana a través de la promoción y práctica de valores éticos y solidaridad social.
 
 ###### ARTICULO 8o.
 
@@ -163,17 +133,11 @@ I.- Será democrático, considerando a la democracia no solamente como una estru
 
 II.- Será nacional, en cuanto que sin hostilidades ni exclusivismos, atenderá a la comprensión de nuestros problemas, al aprovechamiento de nuestros recursos, a la defensa de nuestra independencia política, al aseguramiento de la independencia económica y a la continuidad y crecimiento de nuestra cultura, y
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2008)</small>
-
-III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando la cultura de la igualdad y equidad de género y el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos, evitando los privilegios de raza, religión, grupos, sexo o condición social.
+III.- Será humanitaria, en tanto que contribuirá a la mejor convivencia humana; tanto por los elementos que aporte a fin de robustecer en el educando el aprecio por la dignidad de la persona, la integridad de la familia y la convicción del interés general de la sociedad, cuanto por el cuidado que ponga en sustentar los ideales de fraternidad e igualdad de derechos de todos los hombres, evitando los privilegios de raza, religión, grupos, sexo o de individuos.
 
 ###### ARTICULO 9o.
 
 En la impartición de todo tipo de educación para menores de edad, se tomarán las medidas que aseguren al educando la protección y cuidados necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad. La aplicación de la disciplina escolar será compatible con su edad.
-
-> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2010)</small>
-
-Para tal fin se implementarán programas permanentes de capacitación y orientación a los directivos, maestros y personal administrativo en prevención y atención de acoso y la violencia escolar, asistencia y primeros auxilios para accidentes en las escuelas, considerando en todo caso, la concurrencia de los padres de familia y vigilando que estos programas sean acordes a la edad de los educandos.
 
 ###### ARTICULO 10.
 
@@ -225,9 +189,9 @@ VI.- Promover permanentemente la investigación que sirva como base a la innovac
 
 VII.- Impulsar el desarrollo de la enseñanza tecnológica y de investigación científica y tecnológica;
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
-VIII.- Fomentar y difundir las actividades artísticas, culturales, ecológicas y fiscales, en todas sus manifestaciones;
+VIII.- Fomentar y difundir las actividades artísticas, culturales y físicas, en todas sus manifestaciones;
 
 > <small>(REFORMADA, P.O. 29 DE ABRIL DE 2000)</small>
 
@@ -259,7 +223,7 @@ DE LAS OBLIGACIONES Y ATRIBUCIONES DEL EJECUTIVO ESTATALA (SIC) TRAVÉS DE LA SE
 
 > <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 14.
+###### Artículo 14.
 
 Corresponden al Ejecutivo Estatal por conducto de la Secretaría de Educación del Estado las siguientes facultades:
 
@@ -323,7 +287,7 @@ XVII.- Promover y fomentar en el Estado las actividades artísticas, culturales 
 
 XVIII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones públicas que ofrezcan nuevas opciones para el educando;
 
-XIX.- Fomentar la producción y difusión de programas de radio, televisión y vídeo, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
+XIX.- Fomentar la producción y difusión de programas de radio, televisión y video, que impulsen el desarrollo cultural y educativo de la población destacando los valores éticos y universales en que se sustenta la convivencia social, así como la difusión de la educación abierta a través de los medios de comunicación;
 
 XX.- Promover que los contenidos de todo tipo de programas transmitidos por los medios de comunicación coadyuven al logro de los fines que la educación debe tener, en orden a lo establecido en la presente Ley;
 
@@ -345,33 +309,15 @@ XVIII.- Cumplir y hacer cumplir esta ley y sus disposiciones reglamentarias;
 
 XXIX.- Promover, coordinar, ejecutar y evaluar un programa anual de capacitación, orientación y formación dirigido a los padres de familia o tutores en los centros de educación básica, incluyendo la indígena y educación especial. Estableciendo en cada institución educativa o zona escolar la escuela de padres;
 
-XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial;
+XXX.- Prestar los servicios de formación, actualización y superación profesional en gestión y administración escolar para los directores, supervisores, jefes de sector de educación básica, incluyendo la inicial, indígena y especial.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2007)</small>
+XXXI.- Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
 
-XXXI. Difundir los derechos de las niñas, los niños y adolescentes, así como los mecanismos y canales de prevención y denuncia de abusos en su integridad física y mental, entre el alumnado de las escuelas de educación básica obligatoria en el Estado, en colaboración con la Comisión Estatal Coordinadora para el Desarrollo y Protección de los Derechos de las Niñas, los Niños y Adolescentes y demás autoridades competentes;
-
-> <small>(ADICIONADA, P.O. 23 DE ENERO DE 2007)</small>
-
-XXXII.- Coordinarse con la Secretaría de Salud para implementar programas que fomenten en los educandos y su familia, el consumo de alimentos con alto valor nutricional, así como establecer lineamientos generales para evitar la venta de alimentos con bajo o nulo valor nutricional en las tiendas escolares y, en general, en los espacios donde se expenden alimentos en las instituciones de nivel básico. Asimismo, realizar las inspecciones necesarias a fin de vigilar el cumplimiento de las disposiciones relativas; y (sic)
-
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
-
-XXXIII. Elaborar los principios y las metodologías para fomentar la cultura educativa científica en la educación básica.
-
-En el caso de que una obra científica o tecnológica sea reconocida como innovadora, coadyuvar y asesorar en el registro de la invención, su procedimiento, metodología y patente, reconociendo la participación del profesor, el alumno y el plantel escolar;
-
-> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2012)</small>
-
-XXXIV. Desarrollar e implementar de manera coordinada con las autoridades competentes, instrumentos y programas de educación para la salud, la prevención de accidentes, así como para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo, y
-
-XXXV. Las demás que con tal carácter establezcan esta ley y otras disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 15.
 
-Además de impartir la educación preescolar, primaria, secundaria y media superior, el estado promoverá y atenderá directamente o mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos necesarios para el desarrollo de la entidad; apoyará la investigación científica y tecnológica encaminada a obtener un desarrollo sustentable; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
+Además de impartir la educación preescolar, primaria, secundaria y media superior, el Estado promoverá y atenderá directamente o mediante sus organismos descentralizados, a través de apoyos financieros, o bien, por cualquier otro medio, todos los tipos y modalidades educativos necesarios para el desarrollo de la entidad; apoyará la investigación científica y tecnológica; alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
 
 Promoverá la formación para el trabajo que impartan los artesanos y técnicos de cada zona o región, procurando que en tales actividades participen los propios padres de familia y vecinos de los educandos.
 
@@ -409,17 +355,9 @@ VI.- Cooperar con las autoridades escolares en la atención de los servicios de 
 
 VII.- Establecer y sostener servicios de vigilancia escolar;
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2012)</small>
+VIII.- Promover y coordinar con las autoridades competentes la realización de programas de educación para la salud y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
 
-IX (SIC). Promover y coordinar con las autoridades competentes, con los Consejos Municipales de Participación Social en Educación y los consejos escolares, la realización de programas de educación para la salud, la prevención de accidentes y mejoramiento del ambiente, así como campañas para prevenir, combatir y erradicar la drogadicción, el alcoholismo y el tabaquismo;
-
-> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
-
-IX. Promover y coordinar con los Consejos Municipales de Participación Social en la Educación y los Consejos Escolares, la realización de programas de educación en fomento de acciones de participación, coordinación y difusión de la cultura de protección civil y la emergencia escolar, y
-
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2011)</small>
-
-X. Todas aquellas que en forma específica les asignen la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Local y las disposiciones de la presente Ley.
+IX.- Todas aquellas que en forma específica les asigne: La Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, La Constitución Local y las disposiciones de la presente Ley.
 
 ###### ARTICULO 20.
 
@@ -497,9 +435,9 @@ El sistema educativo estatal se compone con los tipos, los niveles y las modalid
 
 I.- El tipo básico comprende los niveles de preescolar con tres grados, la primaria, con seis grados y la secundaria, con tres grados.
 
-> <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-a) La educación preescolar es antecedente obligatorio de la primaria;
+a) La educación preparatoria, el bachillerato tecnológico o el bachillerato pedagógico, son antecedentes obligatorios de la educación superior;
 
 b) La educación primaria es antecedente obligatorio de la secundaria.
 
@@ -531,25 +469,19 @@ III.- Vincular la educación inicial con la preescolar; y
 
 IV.- Ofrecer servicios médicos, psicológicos, de trabajo social, pedagógico y de nutrición.
 
-> <small>(REFORMADO, P.O. 28 DE AGOSTO DE 2003)</small>
-
 ###### ARTICULO 28.
 
-El personal que atienda a los niños en este nivel de educación deberá ser egresado de aquellas instituciones que impartan la educación de tipo superior o de educación normal en todos sus niveles y especialidades.
+El personal que atienda a los niños en este nivel de educación deberá contar con una preparación profesional adecuada y acreditarlo.
 
 ### CAPÍTULO IV
 
 DE LA EDUCACION BASICA.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
-
 ###### ARTICULO 29.
 
-La educación preescolar es obligatoria para todos los habitantes del Estado. Tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
+La educación preescolar es la destinada a los menores de entre tres y cinco años once meses, y tiene por finalidad sentar las bases para que el educando se desarrolle de manera integral, vinculándose con su entorno social, así como el desarrollo inicial de sus potencialidades humanas.
 
-Las edades de ingreso de las niñas y los niños para este nivel, serán: tres años para el primero, cuarto año para el segundo y cinco años para el tercero; cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
-
-Se impartirá en instancias infantiles, casas hogar, jardines de niños, e institucionales análogas. Es antecedente obligatorio de la primaria.
+Se impartirá en estancias infantiles, casas hogar, jardines de niños e instituciones análogas. No es antecedente obligatorio de la primaria.
 
 ###### ARTICULO 30.
 
@@ -561,17 +493,13 @@ La educación primaria es obligatoria para todos los habitantes del Estado. Tien
 
 En el sistema educativo estatal se impartirá educación primaria a los niños cuya edad fluctué entre los 6 y 14 años.
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2006)</small>
-
 ###### ARTICULO 32.
 
 En el Estado funcionarán centros de educación primaria para:
 
-I. Niños de los seis hasta los catorce años cumplidos al día de su inscripción, incluyendo a los niños indígenas y a los que tengan necesidades especiales; y
+I.- Niños de los seis hasta los catorce años cumplidos al día de su inscripción, incluyendo a los niños indígenas y a los que tengan necesidades especiales;
 
-La edad mínima para ingresar a este nivel educativo es de 6 años cumplidos hasta el 31 de diciembre del año de inicio del ciclo escolar.
-
-II. Adultos.
+II.- Adultos.
 
 ###### ARTICULO 33.
 
@@ -699,7 +627,7 @@ El Ejecutivo del Estado y los Ayuntamientos promoverán el mejoramiento de la nu
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-###### ARTICULO 49.
+###### Artículo 49.
 
 Para ser docente o directivo de educación indígena se requiere ser bilingüe: lengua autóctona y español, y tener preparación mínima de bachillerato o su equivalente, dando prioridad a los de la misma etnia.
 
@@ -743,10 +671,6 @@ VI.- Fomentar la manifestación de actividades, positivas, individuales y grupal
 
 VII.- Incrementar las actividades sociales favorables de respeto, cooperación y confianza en los demás, mediante las actividades físicas grupales que promuevan su integración al medio y su relación interpersonal.
 
-> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2004)</small>
-
-ARTICULO 54 bis.- La educación artística que imparta el Estado, los Ayuntamientos y sus organismos descentralizados tendrá, además de los propósitos establecidos, los de fomentar en el alumno el gusto por las manifestaciones artísticas y su capacidad de apreciar y distinguir las formas y recursos que éstas utilizan, así como propiciar la manifestación artística a partir de la práctica de actividades artísticas, culturales y recreativas que le permitan integrarse a interactuar con los demás.
-
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2000)</small>
 
 ###### ARTICULO 55.
@@ -757,17 +681,9 @@ La educación física y artística tendrán carácter obligatorio, predominantem
 
 La educación física se impartirá por maestros que acrediten preparación profesional en la materia, con grado de licenciatura.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2004)</small>
-
 ###### ARTICULO 57.
 
-Los docentes de nuevo ingreso al servicio educativo deberán cumplir el perfil profesional requerido por la Ley. En el caso de que dos o más personas reúnan los requisitos legales y el perfil requerido para cubrir una vacante, las autoridades educativas darán preferencia al candidato residente de la región en donde se ubique el centro de trabajo en que se desempeñará.
-
-Quienes ya pertenezcan al servicio educativo y sean propuestos a una asignatura diferente, deberán cumplir el perfil profesional requerido para la nueva asignatura.
-
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2006)</small>
-
-ARTICULO 57 bis.- Dentro de la educación básica deberán desarrollarse programas y proyectos educativos encaminados al combate de los trastornos alimenticios que se presentan entre los jóvenes y niños del estado de Jalisco.
+Los docentes que se contraten de nuevo ingreso al servicio educativo, deberán de cubrir el perfil profesional requerido por la ley. Asimismo, quienes ya perteneciendo al servicio educativo hayan de ser promovidos a una asignatura diferente, deberán cubrir el perfil profesional requerido por la nueva asignatura.
 
 ### CAPÍTULO V
 
@@ -855,9 +771,7 @@ I.- Docencia;
 
 II.- Investigación, y
 
-> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2007)</small>
-
-III.- Difusión de la cultura y de la protección al medio ambiente.
+III.- Difusión de la cultura.
 
 ###### ARTICULO 69.
 
@@ -1149,19 +1063,13 @@ II.- Tomar las medidas que permitan la colaboración efectiva de alumnos, maestr
 
 III.- Facilitar que las autoridades educativas, federales y locales, realicen exámenes para fines estadísticos y de diagnóstico.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2005)</small>
+###### ARTICULO 111.
 
-###### Artículo 111.
+Será obligación de las autoridades educativas dar a conocer a los maestros, alumnos, padres de familia y sociedad en general los resultados de las evaluaciones; de las acciones para el mejoramiento de los servicios educativos, así como la información global del sistema educativo estatal con el objeto de que cada sector de la comunidad educativa haga sus ajustes y correcciones.
 
-Será obligación de las autoridades educativas, dar a conocer a los maestros, alumnos, padres de familia y sociedad en general los resultados de las evaluaciones; de las acciones para el mejoramiento de los servicios educativos, así como la información global del sistema educativo estatal que permita medir el desarrollo y los avances de la educación en el Estado con el objeto de que cada sector de la comunidad educativa haga sus ajustes y correcciones.
+###### ARTICULO 112.
 
-> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2005)</small>
-
-###### Artículo 112.
-
-La Secretaría de Educación del Estado, dará a conocer a la sociedad el resultado de las evaluaciones practicadas, utilizando para tal efecto su página oficial en internet, así como los tiempos y espacios que se le conceda en los medios de comunicación social.
-
-En los mismos términos, la Secretaría de Educación del Estado, dará a conocer los resultados de las evaluaciones que en el Estado realicen los organismos nacionales creados para tal efecto.
+La Secretaría de Educación del Estado dará a conocer a la sociedad el resultado de las evaluaciones practicadas, utilizando para tal efecto los tiempos y espacios que se le conceda en los medios de comunicación social.
 
 ###### ARTICULO 113.
 
@@ -1223,21 +1131,15 @@ IV.- Planes y programas de estudios que la autoridad otorgante considere procede
 
 ###### ARTICULO 121.
 
-Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de la autoridad otorgante.
-
-> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2006)</small>
-
-Así mismo, quienes impartan estudios para los que no sea necesario reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
-
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
+Los particulares que impartan servicios educativos con autorización o reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y la publicidad que hagan, su calidad de autorización así como el número y fecha de acuerdo que se les concedió y el nombre de. la autoridad otorgante.
 
 ###### ARTICULO 122.
 
-La Secretaría de Educación deberá publicar e informar, por los medios que considere idóneos y garanticen el acceso público a la información, la lista de escuelas que cuenten con reconocimiento oficial obligatorio.
+La Secretaría de Educación del Estado publicará en la primera quincena de agosto de cada año, en el Periódico Oficial "El Estado de Jalisco", una relación de las instituciones educativas que conserven su autorización o reconocimiento de validez oficial de estudios. También se publicará oportunamente y en cada caso la inclusión o la supresión en dicha lista de las instituciones a las que se otorguen, revoquen o retiren las autorizaciones o reconocimientos respectivos.
 
 > <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-###### ARTICULO 123.
+###### Artículo 123.
 
 Los particulares que impartan servicios educativos con incorporación o reconocimiento de validez oficial de estudios, en cualquiera de sus niveles, tipos o modalidades, deben proporcionar becas de un cinco por ciento como mínimo del total de la matrícula del periodo escolar en cada nivel educativo, mismas que se destinarán a los alumnos que satisfagan los requisitos que en el reglamento de becas se establezcan.
 
@@ -1245,13 +1147,11 @@ Invariablemente todos los alumnos que reciban becas deberán contar con alta esc
 
 Adicionalmente los particulares podrán asignar medias y cuartos de becas para auxiliar al mayor número de becarios.
 
-> <small>(REFORMADO, P.O. 24 DE MARZO DE 2012)</small>
-
-No formarán parte del porcentaje mínimo las becas otorgadas por algún instituto escolar como prestación a sus trabajadores, ni las otorgadas a los familiares que tengan parentesco por consanguinidad, afinidad o civil, de los directivos, socios o dueños de los planteles escolares.
+No formarán parte del porcentaje mínimo las becas otorgadas por algún instituto escolar como prestación a sus trabajadores.
 
 > <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2003)</small>
 
-ARTICULO 123 bis.- Cada plantel escolar deberá dar a conocer a la Secretaría de Educación el proceso, mecanismos y requisitos mediante los cuales serán otorgadas las becas, mismos que deberán estar contemplados en el reglamento de becas y que serán aprobados por la Secretaría de Educación y dados a conocer en forma completa a estudiantes, maestros y padres de familia, previamente al otorgamiento de becas.
+Artículo 123 bis.- Cada plantel escolar deberá dar a conocer a la Secretaría de Educación el proceso, mecanismos y requisitos mediante los cuales serán otorgadas las becas, mismos que deberán estar contemplados en el reglamento de becas y que serán aprobados por la Secretaría de Educación y dados a conocer en forma completa a estudiantes, maestros y padres de familia, previamente al otorgamiento de becas.
 
 El otorgamiento de becas se deberá hacer en cada plantel por una comisión integrada por maestros, directivos y padres de familia. La integración de las comisiones, así como el proceso de entrega de becas será supervisado y aprobado por la Secretaría de Educación y dado a conocer a la comunidad educativa.
 
@@ -1317,17 +1217,13 @@ Los padres o tutores de los menores de 18 años que no hayan cursado la educaci�
 
 Los padres o tutores de los menores de 18 años con necesidades de educación especial, están obligados a inscribirlos en planteles que presten servicios de este tipo.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2003)</small>
 
-###### ARTICULO 128.
+###### Artículo 128.
 
 En cada plantel en el que se impartan servicios educativos del nivel básico podrá formarse la asociación de padres de familia, a la cual libremente podrán integrarse los padres de familia, tutores o quienes ejerzan la patria potestad de los educandos.
 
-El Ejecutivo del Estado, por conducto de la Secretaría de Educación, deberá promover y coadyuvar la formación de asociaciones de padres de familia, así como la renovación periódica y democrática de sus mesas directivas.
-
-> <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2005)</small>
-
-ARTICULO 128 bis.- Además de lo establecido en el Reglamento de Asociaciones de Padres de Familia, quienes ejerzan algún cargo en la mesa directiva dentro de las escuelas de nivel básico, no podrán ser propuestos para integrarse, con igual representación, para el periodo inmediato; siendo la Secretaría la encargada de vigilar el cumplimiento de esta disposición.
+El Ejecutivo del Estado, por conducto de la Secretaría de Educación, alentará la formación de asociaciones de padres de familia, así como la renovación periódica y democrática de sus mesas directivas.
 
 ###### ARTICULO 129.
 
@@ -1347,21 +1243,19 @@ V.- Propiciar el mejoramiento social y cultural de sus miembros, y
 
 VI.- Todo aquello que prevengan los reglamentos respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE AGOSTO DE 2005)</small>
-
 ###### ARTICULO 130.
 
-Las asociaciones de padres de familia podrán:
+Las Asociaciones de Padres de Familia podrán:
 
 I.- Proponer y promover en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos escolares;
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2003)</small>
 
 II.- Reunir fondos con participaciones voluntarias o actividades que libremente desarrollen sus integrantes para los fines de la educación, mismos que serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa mediante bienes o servicios, mismos que no serán considerados como contraprestaciones del servicio público de educación.
 
-Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota que se solicite a los integrantes son totalmente libres y voluntarias, por lo tanto, las mismas no podrán requerirse en periodo que comprenda los trámites de solicitudes recepción y devolución de documentos, así como inscripción, entrega de constancias y certificados que acrediten los niveles o grados de estudios cursados o algún derecho de los educandos. La ausencia en dicha aportación no podrá condicionar ninguno de los derechos de los educandos.
+Los fondos o aportaciones a que se refiere esta fracción, así como cualquier otro tipo de cuota que se solicite a los integrantes son totalmente libres y voluntarios y por tanto, la ausencia en su pago en ningún caso podrá condicionar algunos de los derechos de los educandos.
 
-Queda estrictamente prohibido a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualquiera otra aportación que con sentido de obligatoriedad sea requerida por estas asociaciones. El Secretario de Educación del Estado de Jalisco tendrá la obligación de vigilar, respetar y hacer valer lo establecido en la presente fracción. La violación a la misma será causa de responsabilidad para los servidores públicos que la cometan;
+Queda estrictamente prohibido a las instituciones educativas del Estado y de sus organismos descentralizados, así como a las instituciones particulares con autorización o reconocimiento de validez oficial de estudios, limitar o condicionar el derecho a la educación de los educandos, debido a la no integración de los padres de familia, tutores o quienes ejerzan la patria potestad a las asociaciones de padres de familia o por falta de pago de las cuotas, fondos o cualesquier otra aportación que deban otorgar a estas asociaciones.
 
 III.- Colaborar en la ejecución de los proyectos estratégicos que mejoren la vida familiar y social de sus miembros;
 
@@ -1399,11 +1293,7 @@ d) Propiciar la colaboración entre los diversos sectores de la comunidad educat
 
 e) Promover, apoyar y realizar actividades extraescolares que complementen y respalden la formación de los alumnos;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
-
-f) Llevar a cabo en coordinación con los Consejos Municipales de Participación Social en la Educación, las acciones de participación, capacitación y difusión necesarias para la cultura de protección civil y la emergencia escolar.
-
-Para fines del inciso anterior, deberá constituir el Comité de Protección Civil y Emergencia Escolar, cuya vigencia será de un año escolar, debiéndose renovar durante el primer mes de inicio de cada ciclo escolar.
+f) Llevar a cabo acciones de protección civil y emergencia escolar, efectuando la difusión necesaria;
 
 g) Fomentar y promover la participación de la familia en beneficio de los educandos y de su plantel;
 
@@ -1420,14 +1310,6 @@ k) Promover la atención de alumnos con problemas de bajo aprovechamiento escola
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
 l) Realizar acciones orientadas a la conservación y mejoramiento ambiental de las zonas en que se ubiquen los planteles educativos.
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2011)</small>
-
-m) Fomentar y promover en los padres de familia y tutores, la vigilancia y orientación que deben realizar en los programas televisivos, cine o videos, así como sitios de Internet que ven los niños y adolescentes, y
-
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2004)</small>
-
-n) Promover la atención de educandos con problemas en lo individual, familiar o en su entorno social, con respecto a asuntos relacionados con las adicciones y sus consecuencias.
 
 ###### ARTICULO 134.
 
@@ -1451,9 +1333,7 @@ f) Contribuir a la formulación de propuestas para el enriquecimiento de los pla
 
 g) Opinar en asuntos pedagógicos;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
-
-h) Coadyuvar con la Unidad Municipal de Protección Civil en la realización de acciones de participación, capacitación y difusión necesarias para la protección civil y la emergencia escolar.
+h) Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar;
 
 i) Promover y organizar certámenes interescolares para la superación educativa en el ámbito municipal;
 
@@ -1469,10 +1349,6 @@ m) Realizar todo tipo de actividades para apoyar y fortalecer la educación en e
 
 n) Coadyuvar a nivel municipal en actividades de protección civil y emergencia escolar.
 
-(ADICIONADO, P.O. 24 DE JULIO DE 2004) (F. DE E., P.O. 2 DE NOVIEMBRE DE 2004)
-
-o) Contribuir en la formulación de propuestas encaminadas a la prevención, combate y erradicación del fenómeno de las adicciones y sus consecuencias.
-
 Será responsabilidad del Presidente Municipal que en los Consejos se alcance una efectiva participación social que contribuya a elevar la calidad y cobertura de la educación.
 
 ###### ARTICULO 135.
@@ -1485,29 +1361,19 @@ Este Consejo tendrá las siguientes funciones:
 
 a) Promover y apoyar actividades extraescolares de carácter cultural, cívico, deportivo y de bienestar social;
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2011)</small>
-
-b) Coadyuvar con la Unidad Estatal de Protección Civil en las acciones de participación, capacitación y difusión necesarias para la protección civil y la emergencia escolar.
+b) Coadyuvar a nivel estatal en actividades de protección civil y emergencia escolar;
 
 c) Sistematizar los elementos y aportaciones relativos a las particularidades de la entidad federativa que contribuyan a la formulación de contenidos estatales en los planes y programas de estudio;
 
 d) Opinar en asuntos pedagógicos;
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+e) Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo, y
 
-e) Conocer las demandas y necesidades que emanen de la participación social en la educación a través de los Consejos Escolares y Municipales conformando los requerimientos a nivel estatal para gestionar ante las instancias competentes su resolución y apoyo;
+f) Conocer los resultados de las evaluaciones que efectúen las autoridades educativas, y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2000)</small>
 
-f) Conocer los resultados de las evaluaciones que efectúen las autoridades educativas, y colaborar con ellas en actividades que influyan en el mejoramiento de la calidad y la cobertura de la educación;
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2006)</small>
-
-g) Otorgar estímulos a alumnos, docentes y escuelas que se destaquen; y
-
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2006)</small>
-
-h) Promover la implementación de programas de avanzada en la detección y preparación de alumnos sobresalientes y la impartición de educación especial para los mismos.
+g) Otorgar estímulos a alumnos, docentes y escuelas que se destaquen.
 
 ###### ARTICULO 136.
 
@@ -1613,9 +1479,7 @@ La autoridad que dicte la resolución adoptará las medidas que sean necesarias 
 
 ### CAPÍTULO II
 
-DEL RECURSOS (SIC) ADMINISTRATIVO.
-
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE NOVIEMBRE DE 2006)</small>
+DEL RECURSOS ADMINISTRATIVO.
 
 ###### ARTICULO 145.
 
@@ -1721,7 +1585,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. RAÚL OCTAVIO ESPINOZA MARTÍNEZ
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 22 DE SEPTIEMBRE DE 1998.
 
@@ -1732,6 +1596,12 @@ P.O. 29 DE ABRIL DE 2000.
 PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentación y aprobación del plan programático pormenorizado que haga factible viabilidad y operatividad de la propuesta. El Ejecutivo elaborará un plan programático para dar cumplimiento a lo que el presente decreto determina, antes del 31 de agosto.
 
 SEGUNDO. Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
+
+P.O. 29 DE ABRIL DE 2000.
+
+PRIMERO. La vigencia del presente decreto de ley estará sujeta a la presentación y aprobación del plan programático pormenorizado que haga factible viavilidad y operatividad de la propuesta: El ejecutivo elaborará un plan programática para dar cumplimiento a lo que el presente decreto determina, antes del 31 de agosto.
+
+SEGUNDO.- Dicho plan deberá, en su caso, ser contemplado en el Presupuesto de Egresos del Estado del año fiscal de su vigencia para su aprobación.
 
 P.O. 4 DE MARZO DE 2003.
 
@@ -1772,165 +1642,3 @@ DECRETO 20040
 PRIMERO.- Este decreto entrará en vigor el próximo ciclo escolar previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- Quedarán a salvo los derechos de quienes ejerzan el cargo previo a la reforma.
-
-P.O. 28 DE AGOSTO DE 2003.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. Quedarán a salvo los derechos de quienes ejerzan el cargo previo a la reforma.
-
-P.O. 10 DE FEBRERO DE 2004.
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-Segundo.- Gírese atento Oficio a la Secretaría de Educación Pública para sugerir se estudie la posibilidad de incluir dentro la currícula de la educación normal la licenciatura de educación artística.
-
-P.O. 5 DE JUNIO DE 2004.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 8 DE JULIO DE 2004
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 24 DE JULIO DE 2004.
-
-EL DECRETO QUE DA ORIGEN A LA PRESENTE REFORMA NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LA MISMA; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO.
-
-P.O. 2 DE OCTUBRE DE 2004.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE NOVIEMBRE DE 2004.
-
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO.- La educación preescolar será obligatoria para todos en los siguientes plazos: en el tercer año de preescolar, a partir del ciclo 2004 - 2005; el segundo año de preescolar, a partir del ciclo 2005 - 2006; el primer año de preescolar, a partir del ciclo 2008 - 2009.
-
-P.O. 4 DE DICIEMBRE DE 2004.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 26 DE ABRIL DE 2005.
-
-DECRETO NÚMERO 20901, QUE REFORMA ARTS. 111 Y 112
-
-PRIMERO. Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. El titular del Poder Ejecutivo deberá realizar las modificaciones necesarias a los reglamentos correspondientes derivadas de la presente reforma.
-
-P.O. 26 DE ABRIL DE 2005.
-
-DECRETO NÚMERO 20902, QUE REFORMA FRACCIONES XXXI Y XXXII DEL ART. 14
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 23 DE AGOSTO DE 2005.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 30 DE AGOSTO DE 2005.
-
-ÚNICO.- Este decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 12 DE NOVIEMBRE DE 2005.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 27 DE DICIEMBRE DE 2005.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 11 DE MARZO DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 22 DE ABRIL DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 22 DE JUNIO DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 1 DE AGOSTO DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 31 DE OCTUBRE DE 2006.
-
-ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-P.O. 25 DE NOVIEMBRE DE 2006.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. En la presentación del Presupuesto para el ejercicio fiscal 2007 el ejecutivo del Estado deberá proponer la partida presupuestal para el debido cumplimiento del presente decreto.
-
-TERCERO. A partir de la entrada en vigor del presente decreto, la Secretaría de Educación conjuntamente con las asociaciones de padres de familia buscará la mejor forma de resolver los accidentes escolares que se presenten en los 3 meses posteriores a la entrada en vigor del presente decreto.
-
-P.O. 23 DE ENERO DE 2007.
-
-PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
-
-SEGUNDO. La Secretaría de Educación en coordinación con la Secretaría de Salud emitirá los lineamientos a que se refiere este decreto, a más tardar en 180 días después de su publicación.
-
-P.O. 22 DE FEBRERO DE 2007.
-
-ÚNICO. Este decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
-
-P.O. 27 DE MAYO DE 2008.
-
-PRIMERO. El presente decreto entrará en vigor a los treinta días siguientes de su publicación en el periódico oficial El Estado de Jalisco.
-
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
-
-TERCERO. El Ejecutivo del Estado y los municipios contarán con un plazo de 90 días naturales, a partir de la entrada en vigor de la presente ley, para expedir y modificar los reglamentos que se deriven de la presente ley, sin que esto sea impedimento para la aplicación de este ordenamiento legal.
-
-CUARTO. El Consejo Estatal deberá integrarse dentro de los siguientes 60 días naturales de la entrada en vigor de la presente ley, otorgándosele un plazo de 120 días naturales para la creación del Programa Estatal para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del Estado de Jalisco.
-
-QUINTO. El Ejecutivo del Estado y los gobiernos municipales, acorde a su disponibilidad presupuestal, procurarán instalar y mantener centros de refugios temporales distribuidos en el estado de acuerdo a las necesidades, buscando tener cobertura para todas las mujeres victimas de violencia que lo requieran.
-
-SEXTO. Los procedimientos de mediación y conciliación contemplados en la Ley para la Prevención y Atención de la Violencia Intrafamiliar del estado de Jalisco, se llevarán acabo (sic) de conformidad con el procedimiento vigente hasta su conclusión, aplicándose los métodos alternos para la prevención y en su caso la solución de conflictos, a partir de que entre en vigor la Ley de Justicia Alternativa del estado de Jalisco.
-
-P.O. 9 DE DICIEMBRE DE 2010.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 17 DE MAYO DE 2011.
-
-ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 15 DE DICIEMBRE DE 2011.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 27 DE DICIEMBRE DE 2011.
-
-DECRETO No. 23912/LIX/11 POR EL QUE SE REFORMA EL ARTÍCULO 7° DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
-
-UNICO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 27 DE DICIEMBRE DE 2011.
-
-DECRETO NÚMERO 23923/LIX/11, POR EL QUE SE ADICIONA LA FRACCIÓN XXXIII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN, DEL ARTÍCULO 14 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 24 DE MARZO DE 2012.
-
-DECRETO NÚMERO 23979/LIX/12, POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 142 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
-
-UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 24 DE MARZO DE 2012.
-
-DECRETO NÚMERO 23980/LIX/12, POR EL QUE SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
-
-UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
-
-P.O. 24 DE MARZO DE 2012.
-
-DECRETO NÚMERO 23981/LIX/12, POR EL QUE SE ADICIONA UNA FRACCIÓN XXXIV Y SE RECORRE LA ACTUAL EN SU ORDEN DEL ARTÍCULO 14 Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE JALISCO.
-
-ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
