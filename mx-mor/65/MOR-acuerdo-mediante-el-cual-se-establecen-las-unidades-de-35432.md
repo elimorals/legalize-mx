@@ -4,7 +4,7 @@ identifier: "MOR-acuerdo-mediante-el-cual-se-establecen-las-unidades-de-35432"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2003-11-28"
-last_updated: "2003-11-28"
+last_updated: "2005-03-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS
 
-ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACION PUBLICA Y SE CREA EL CONSEJO DE INFORMACION CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS
+ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL ACUERDO MEDIANTE EL CUAL SE ESTABLECEN LAS UNIDADES DE INFORMACIÓN PÚBLICA Y SE CREA EL CONSEJO DE INFORMACIÓN CLASIFICADA DE LA GUBERNATURA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 30 DE MARZO DE 2005, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: ABROGADO.
 
 Acuerdo publicado en el Periódico Oficial del Estado de Morelos, el viernes 28 de noviembre de 2003.
 
@@ -126,3 +128,11 @@ EL SECRETARIO DE GOBIERNO
 C. EDUARDO BECERRA PÉREZ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE MARZO DE 2005.
+
+PRIMERO. El presente acuerdo entrará en vigor el mismo día de su publicación en el Periódico Oficial "Tierra y Libertad", órgano informativo del Gobierno del Estado de Morelos.
+
+SEGUNDO. El presente acuerdo abroga el Acuerdo mediante el cual se establecen las Unidades de Información Pública y se crea el Consejo de Información Clasificada de la Gubernatura del Estado de Morelos, publicado el veintiocho de noviembre del año dos mil tres, en el Periódico Oficial "Tierra y Libertad", número cuatro mil doscientos noventa y dos.
