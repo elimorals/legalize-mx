@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-nacional-para-el-ahorro-166"
 country: "mx"
 rank: "reglamento"
 publication_date: "1990-03-30"
-last_updated: "1990-03-30"
+last_updated: "2002-09-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1990-01-08"
 
 REGLAMENTO INTERNO DE LA COMISION NACIONAL PARA EL AHORRO DE ENERGIA.
 
-TEXTO ORIGINAL
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISION NACIONAL PARA EL AHORRO DE ENERGIA, PUBLICADO EN EL D.O.F. DE 9 DE SEPTIEMBRE DE 2002, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: ABROGADO.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 30 de marzo de 1990.
 
@@ -198,3 +200,11 @@ Los casos no previstos en este Reglamento serán resueltos por acuerdo votado en
 Artículo Unico.- El presente Reglamento Interno deberá publicarse en el Diario Oficial de la Federación, para lo cual el Presidente de la Comisión instrumentará lo conducente, entrando en vigor el día siguiente al de su publicación.
 
 Ciudad de México, Distrito Federal, a los ocho días del mes de enero de mil novecientos noventa.- El Secretario de Energía, Minas e Industria Paraestatal, Fernando Hiriart B.- Rúbrica.- El Subsecretario de Ingresos de la Secretaría de Hacienda y Crédito Público, Francisco Gil Díaz.- Rúbrica.- El Subsecretario de Programación y Presupuesto de la Secretaría de Programación y Presupuesto, Rogelio Gasca Neri.- Rúbrica.- EL Subsecretario de Industria e Inversión Extranjera de la Secretaría de Comercio y Fomento Industrial, Fernando Sánchez Ugarte.- Rúbrica.- El Subsecretario de Transporte de la Secretaría de Comunicaciones y Transportes, Gustavo Patiño Guerrero.- Rúbrica.- EL Subsecretario de Ecología de la Secretaría de Desarrollo Urbano y Ecología, Sergio Reyes Luján.- Rúbrica.- EL Oficial Mayor de la Secretaría de Educación Pública, Jesús Hernández Torres.- Rúbrica.- El Asesor Financiero del Jefe del Departamento del Distrito Federal, Fernando Menéndez Garza.- Rúbrica.- EL Subdirector de Planeación y Coordinación de Petróleos Mexicanos, Adrián Lajous Vargas.- Rúbrica.- El Subdirector de Programación de la Comisión Federal de Electricidad, José Luis Aburto.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+D.O.F. 9 DE SEPTIEMBRE DE 2002.
+
+Artículo Primero.- El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Artículo Segundo.- Se abroga el Reglamento Interno de la Comisión Nacional para el Ahorro de Energía de fecha 8 de enero de 1990, publicado en el Diario Oficial de la Federación el 30 de marzo de 1990.
