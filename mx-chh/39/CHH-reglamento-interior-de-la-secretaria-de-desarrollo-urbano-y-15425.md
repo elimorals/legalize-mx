@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-interior-de-la-secretaria-de-desarrollo-urbano-y-154
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-10-06"
-last_updated: "1999-10-06"
+last_updated: "2000-09-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "CHH"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO URBANO Y ECOLOGIA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE SEPTIEMBRE DE 2000.
 
-Reglamento publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 6 de octubre de 1999.
+Reglamento publicado en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 6 de octubre de 1999.
 
 C.P. PATRICIO MARTÍNEZ GARCÍA, Gobernador Constitucional del Estado Libre y Soberano de Chihuahua, en ejercicio de la facultad que me concede el Artículo 93, Fracción IV de la Constitución Política del Estado, y con fundamento en los Artículos 1º, Fracción VII, 10 y 11 de la Ley Orgánica del Poder Ejecutivo del Estado de Chihuahua, he tenido a bien emitir el siguiente:
 
@@ -215,7 +215,11 @@ XIII. Solicitar la expropiación y adquisición de los bienes inmuebles necesari
 
 XIV. Representar en Juicio a la Secretaría por si o por mandato legal a favor de persona que el mismo designe.
 
-XV. Las demás que con carácter exclusivo le atribuyan expresamente las disposiciones de carácter general o le encomiende el Gobernador del Estado.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+XV. Autorizar por conducto del Departamento de Servicios Jurídicos, quien contará para tal efecto con el apoyo del Departamento de Planeación Urbana y Regional, todo contrato que implique la transmisión del dominio de los inmuebles que formen parte del patrimonio estatal y que sean administrados por la Secretaría.
+
+XVI. Las demás que con carácter exclusivo le atribuyan expresamente las disposiciones de carácter general o le encomiende el Gobernador del Estado.
 
 ### CAPITULO CUARTO. DE LA SUPLENCIA TEMPORAL DEL SECRETARIO Y DE LOS TITULARES DE LAS UNIDADES ORGANICAS SUBALTERNAS
 
@@ -343,11 +347,17 @@ II. Participar en la elaboración de los Planes Nacionales y Regionales de Desar
 
 III. Participar con los Gobiernos Estatales y Ayuntamientos en la elaboración y ejecución del Plan de Desarrollo Urbano de las zonas conurbadas.
 
-IV. Regularizar la tenencia de la tierra urbana propiedad del Estado administrada por la Secretaría de Desarrollo Urbano y Ecología, tratándose de asentamientos humanos.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-V. Dotar de tierra administrada por la Secretaría de Desarrollo Urbano y Ecología a familias de escasos recursos que reúnan los requisitos establecidos en las disposiciones aplicables y vigentes en el momento en que se verifique la celebración de los contratos respectivos.
+IV. Regularizar la tenencia de la tierra urbana propiedad del Estado administrada por la Secretaría, tratándose de asentamientos humanos, en la esfera de su competencia, de acuerdo a lo que dispone la fracción IX del artículo 38.
 
-VI. Suscribir los contratos de compraventa y promesa de venta por asignación de lotes administrados por la Secretaría de Desarrollo Urbano y Ecología a posesionarios y solicitantes, que reúnan los requisitos previamente establecidos.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+V. Dotar de tierra administrada por la Secretaría de Desarrollo Urbano y Ecología a familias de escasos recursos que reúnan los requisitos establecidos en las disposiciones aplicables y vigentes en el momento en que se verifique la celebración de los contratos respectivos, en la esfera de su competencia, de acuerdo a lo que dispone la fracción IX del artículo 38.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+VI. Suscribir los contratos de compraventa y promesa de venta por asignación de lotes administrados por la Secretaría de Desarrollo Urbano y Ecología a posesionarías y solicitantes, que reúnan los requisitos previamente establecidos, en la esfera de su competencia, de acuerdo a lo que dispone la fracción IX del artículo 38.
 
 VII. Promover la comercialización de lotes, así como la cobranza por concepto de lotes habitacionales y comerciales.
 
@@ -399,6 +409,10 @@ XV. Participar en la formulación de los planes de zonas conurbadas.
 
 XVI. Participar en la formulación de los planes regionales de la zona fronteriza del norte del Estado, Regional Serrano y de infraestructura de Transporte en apoyo al desarrollo económico.
 
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+XVII. Apoyar al Departamento de Servicios Jurídicos de acuerdo a sus facultades, en la verificación y autorización de los contratos que impliquen la transmisión del dominio de los inmuebles que formen parte del patrimonio estatal y que sean administrados por la Secretaría.
+
 ### CAPITULO NOVENO. DEL DEPARTAMENTO DE REGULARIZACION DEL SUELO URBANO
 
 ###### ARTICULO 21.
@@ -409,13 +423,19 @@ El Departamento de Regularización del Suelo Urbano se integra por su titular, s
 
 Corresponde al Departamento de Regularización del Suelo Urbano las atribuciones siguientes:
 
-I. Regularizar la Tenencia de la Tierra Urbana propiedad del Estado.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-II. Dotar de tierra a familias de escasos recursos, a través de los contratos de compraventa y promesa de venta correspondientes.
+I. Regularizar la Tenencia de la Tierra Urbana propiedad del Estado, en la esfera de su competencia y de acuerdo a la fracción IX del artículo 38.
+
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+II. Dotar de tierra a familias de escasos recursos, a través de los contratos de compraventa y promesa de venta correspondientes, en la esfera de su competencia y de acuerdo a la fracción IX del artículo 38.
 
 III. Elaborar y someter a la aprobación de él Director de Desarrollo Urbano, las Normas de Operación aplicables en asignación, venta, revertimiento y reasignación de lotes administrados por la Secretaría de Desarrollo Urbano y Ecología y los lotes susceptibles de regularización a través del Programa Temporal de Regularización.
 
-IV. Promover con los poseedores de lotes, que acrediten su derecho la regularización de los inmuebles en su favor, así como asignar lotes a los solicitantes, conforme a los procedimientos y requisitos vigentes.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+IV. Promover con los poseedores de lotes, que acrediten su derecho la regularización de los inmuebles en su favor, así como asignar lotes a los solicitantes, conforme a los procedimientos y requisitos vigentes, en la esfera de su competencia y de acuerdo a la fracción IX del artículo 38.
 
 V. Revertir en favor del Gobierno del Estado aquellos lotes cuyos posesionarios no hayan cumplido con los requisitos señalados por esta Dependencia.
 
@@ -451,7 +471,7 @@ XX. Coadyuvar con las comunidades, cuando estas así lo requieran, en la celebra
 
 XXI. Establecer enlaces interinstitucionales con el Instituto de la Vivienda del Estado de Chihuahua y la Junta Central de Aguas y Saneamiento, para acordar condiciones de coordinación y participación en respaldo a los planes de desarrollo comunitario.
 
-### CAPITULO DÉCIMO. DE LA DIRECCION DE CARTOGRAFIA URBANA Y CATASTRO
+### CAPITULO DECIMO. DE LA DIRECCION DE CARTOGRAFIA URBANA Y CATASTRO
 
 ###### ARTICULO 23.
 
@@ -539,7 +559,9 @@ V. Coordinar la ejecución de las acciones y lograr el cumplimiento de los objet
 
 VI. Ordenar la realización de Inspecciones ambientales a fuentes de competencia estatal.
 
-VII. Firmar los acuerdos, calificaciones y resoluciones referentes a procesos administrativos derivados de Inspecciones en materia ecológica.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+VII. Calificar las actas de inspección ambiental y notificar al interesado de su resultado.
 
 VIII. Presentar denuncias ante las autoridades competentes por la comisión de delitos ambientales.
 
@@ -723,13 +745,17 @@ VII. Dar seguimiento legal al procedimiento administrativo en materia ecológica
 
 VIII. Realizar los trámites civiles y administrativos que correspondan para formalizar la adquisición y enajenación de bienes inmuebles a favor del Gobierno del Estado, así como regularizar la propiedad sobre los mismos, en coordinación con la Dirección de Desarrollo Urbano.
 
-IX. Elaborar los convenios necesarios para el desarrollo de las atribuciones de la Secretaría con el Gobierno Federal, Entidades Federativas; Ayuntamientos, Organismos Descentralizados, Empresas de Participación Estatal y Particulares, de acuerdo a las instrucciones del Secretario, Directores, Jefes de Departamento y Delegados Regionales.
+> <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
 
-X. Fungir como coordinador en materia jurídica con el Instituto de la Vivienda del Estado.
+IX. Verificar y autorizar con el apoyo del Departamento de Planeación Urbana y Regional, todo contrato que implique la transmisión del dominio de los inmuebles que formen parte del patrimonio estatal y que sean administrados por la Secretaría, antes de ser asignados a quien reúnan los requisitos en términos de Ley, debiendo otorgar la conformidad por escrito. Dicha conformidad será requisito indispensable para la inscripción de los contratos en el Registro Público de la Propiedad del Distrito Judicial que corresponda.
 
-XI. Tramitar los procedimientos y recursos previstos en la legislación, aplicando supletoriamente las disposiciones relativas al Código Administrativo del Estado y en su defecto las normas del derecho común.
+X. Elaborar los convenios necesarios para el desarrollo de las atribuciones de la Secretaría con el Gobierno Federal, Entidades Federativas; Ayuntamientos, Organismos Descentralizados, Empresas de Participación Estatal y Particulares, de acuerdo a las instrucciones del Secretario, Directores, Jefes de Departamento y Delegados Regionales.
 
-XI. Expedir copias certificadas de las constancias que obren en los expedientes y archivos de su competencia.
+XI. Fungir como coordinador en materia jurídica con el Instituto de la Vivienda del Estado.
+
+XII. Tramitar los procedimientos y recursos previstos en la legislación, aplicando supletoriamente las disposiciones relativas al Código Administrativo del Estado y en su defecto las normas del derecho común.
+
+XIII. Expedir copias certificadas de las constancias que obren en los expedientes y archivos de su competencia.
 
 ###### ARTICULO 39.
 
@@ -767,7 +793,9 @@ III. Elaborar convenios para la preservación y restauración del medio ambiente
 
 IV. Analizar y emitir opiniones en cuanto a proyectos y convenios en la materia.
 
-V. Continuar los procedimientos administrativos derivados de inspecciones en materia ecológica, hasta su resolución definitiva.
+> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2000)</small>
+
+V. Continuar los procedimientos administrativos derivados de inspecciones en materia ecológica, desde el momento posterior a la notificación al interesado del resultado de la calificación del acta de inspección, hasta su resolución definitiva.
 
 VI. Conocer y resolver los recursos administrativos que se interpongan en contra de la Secretaría.
 
@@ -818,3 +846,9 @@ SECRETARIO GENERAL DE GOBIERNO
 LIC. JORGE ESTEBAN SANDOVAL OCHOA
 
 SECRETARIO DE DESARROLLO URBANO Y ECOLOGIA
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 23 DE SEPTIEMBRE DE 2000.
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
