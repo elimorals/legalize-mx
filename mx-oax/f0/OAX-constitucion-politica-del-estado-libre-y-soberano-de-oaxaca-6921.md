@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "1973-12-22"
+last_updated: "1974-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,483 +21,551 @@ state: "OAX"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-REGLAMENTO DE LOS AUXILIARES DE LA ADMINISTRACION DE JUSTICIA INSCRITOS EN EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1974.
 
-Reglamento publicado en el Periódico Oficial del Estado de Coahuila, el viernes 23 de enero de 2004.
+Constitución promulgada por bando solemne el martes 4 de abril de 1922.
 
-EL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 143 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO Y 57, FRACCIÓN XI, DE LA LEY ORGÁNICA DEL PODER JUDICIAL, EN SESIÓN CELEBRADA EL DÍA 6 DE OCTUBRE DEL AÑO DOS MIL TRES EMITIÓ EL ACUERDO NÚMERO C-102/2003, MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL TÍTULO SEXTO, CAPÍTULO PRIMERO AL REGLAMENTO INTERIOR DEL ARCHIVO GENERAL, ARCHIVOS REGIONALES Y DISTRITALES DEL PODER JUDICIAL DEL ESTADO DE COAHUILA A PROBADO POR EL REFERIDO ÓRGANO MEDIANTE ACUERDO C-50/2002, EMITIDO EN SESIÓN CELEBRADA EL DÍA 14 DE MARZO DEL AÑO 2002 CUYO TEXTO ES EL SIGUIENTE:
+MANUEL GARCIA VIGIL, Gobernador Constitucional del Estado Libre y Soberano de Oaxaca, a sus habitantes hace saber:
 
-EXPOSICION DE MOTIVOS.
+Que la XXVIII Legislatura Constitucional del Estado Libre y Soberano de Oaxaca, en funciones de Constituyente, de acuerdo con el artículo quinto del Decreto número ciento veinticinco expedido por el ciudadano Primer Jefe del Ejército Constitucionalista, encargado del Poder Ejecutivo de la Unión, el veintisiete de marzo de mil novecientos diecisiete, y con el artículo noventa y uno del decreto número catorce, expedido con fecha treinta de septiembre de mil novecientos veinte por el ciudadano Jesús Acevedo, Gobernador provisional, reforma la Constitución Política del Estado en los términos siguientes:
 
-Por tanto, con fundamento en lo dispuesto por los artículos 143 de la Constitución Política del Estado y 157, fracción XI de la Ley Orgánica del Poder Judicial del Estado, se emite el Acuerdo número C-103/2003, mediante el cual se aprueba el siguiente
+CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-REGLAMENTO DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA INSCRITOS EN EL TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA.
+## TITULO PRIMERO. De las Garantías Individuales
 
-## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+###### ARTICULO 1°.
 
-###### Artículo 1.
+El Estado de Oaxaca declara que su organización gubernativa tiene por objeto el mejoramiento económico, social y político de todos sus habitantes, armonizando los derechos individuales con los de la colectividad.
 
-El presente ordenamiento tiene por objeto regular la integración de la Lista de Auxiliares de la Administración de Justicia, a que se refieren los artículos 231 de la Ley Orgánica del Poder Judicial del Estado y el 3 de este Reglamento; así como su actuación. Su observancia es general de conformidad con lo dispuesto por el Título Décimo Segundo de la Ley Orgánica.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-###### Artículo 2.
+###### ARTICULO 2°.
 
-Para los efectos del presente Reglamento, se entenderá por:
+La Ley es una para todos y de ella emanan las facultades y los deberes de las autoridades, así como los derechos y las obligaciones de los individuos de la especie humana. Los Poderes Públicos, entidades morales, autoridades y funcionarios sólo tienen las facultades que les dá la ley. Los individuos pueden hacer todo lo que ésta no les prohibe.
 
-LEY ORGANICA: La Ley Orgánica del Poder Judicial.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-REGLAMENTO: El Reglamento de los Auxiliares de la Administración de Justicia Inscritos en el Tribunal Superior de Justicia.
+ARTICULO 3° La manifestación de las ideas no puede ser objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque la ley o los derechos de tercero, provoque algún crimen o delito, o perturbe el orden público.
 
-NORMAS: Las contenidas en la Constitución Política del Estado, el Código Procesal Civil, el Código de Procedimientos Penales, la Ley de Medios de Impugnación en Materia Electoral, el Código de Comercio en los casos de jurisdicción concurrente, y las de otros ordenamientos aplicables.
+En consecuencia, es inviolable la libertad de escribir y publicar escritos sobre cualquier materia. Ninguna ley ni autoridad puede establecer la previa censura, ni exigir fianza a los autores o impresores, ni coartar la libertad de imprenta, que no tiene más límite que el respeto a la vida privada, a la ley y a la paz pública. En ningún caso podrá secuestrarse la imprenta o cualquier otro medio que haya servido para hacer la impresión, como instrumento del delito.
 
-TRIBUNAL: El Tribunal Superior de Justicia.
+Las leyes orgánicas dictarán cuantas disposiciones sean necesarias para evitar que so pretexto de las denuncias por delitos de prensa, sean encarcelados los expendedores, voceadores de periódicos, operarios y demás empleados del establecimiento en que se haya impreso el escrito denunciado, a menos que se demuestre previamente la responsabilidad de aquéllos.
 
-PLENO: El Pleno del Tribunal Superior de Justicia.
+###### ARTICULO 3°.
 
-CONSEJO: El Consejo de la Judicatura del Poder Judicial.
+(DEROGADO, P.O. 28 DE DICIEMBRE DE 1940)
 
-ÓRGANO JURISDICCIONAL: Pleno, las Salas Colegiadas, el Tribunal Electoral, los Tribunales Unitarios Distritales, los Juzgados de Primera Instancia en Materia Civil, Familiar y Penal y los Juzgados Letrados Civiles o Penales.
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-LISTA: La Lista de Auxiliares de la Administración de Justicia aprobada por el Pleno.
+###### ARTICULO 4°.
 
-SECRETARÍA: La Secretaría General de Acuerdos del Tribunal Superior de Justicia.
+Nadie puede ser juzgado por leyes o tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y jueces previamente establecidos por la Ley.
 
-AUXILIAR: Los Auxiliares de la Administración de Justicia enumerados en el artículo 231 de la Ley Orgánica, y el artículo 3 de este Reglamento.
+###### ARTICULO 5°.
 
-###### Artículo 3.
+En los juicios del orden criminal queda prohibido imponer por simple analogía y aun por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho.
 
-Son Auxiliares, los peritos en las diferentes materias, los intérpretes, depositarios, interventores, síndicos de concursos, albaceas, partidores, liquidadores, tutores, y corredores, inscritos en el Tribunal.
+###### ARTICULO 6°.
 
-###### Artículo 4.
+En el Estado, jamás se expedirá ley que imponga penas a personas determinadas, que pretenda surtir efecto retroactivo en perjuicio de alguien, que decrete la infamia de un hombre, una familia o una clase, o que establezca la confiscación de bienes o multas excesivas, entendiéndose por una y otras, las que afecten al patrimonio de familia.
 
-Los cargos de los auxiliares de la administración de justicia son de interés público y deben ser desempeñados por personas de buena conducta, imparciales y de idoneidad absoluta.
+###### ARTICULO 7°.
 
-###### Artículo 5.
+Ninguna detención podrá exceder del término de tres días sin que se justifique con un auto de formal prisión en el que se expresarán: el delito que se impute al acusado, los elementos que constituyan aquél, lugar, tiempo y circunstancias de ejecución y los datos que arroje la averiguación previa, los que deben ser bastantes para comprobar el cuerpo del delito y hacer probable la responsabilidad del acusado. La infracción de esta disposición hace responsable a la autoridad que ordene la detención o la consienta y a los agentes, ministros, alcaides o carceleros que la ejecuten.
 
-La intervención de tutores, albaceas, depositarios, síndicos interventores, partidores, y liquidadores, tendrá lugar cuando se requiera integrar personalidad jurídica, custodia o vigilancia de personas o bienes.
+Todo proceso se seguirá forzosamente por el delito o delitos señalados en el auto de formal prisión. Si en la secuela de un proceso apareciere que se ha cometido un delito distinto del que se persigue, deberá ser objeto de acusación separada, sin perjuicio de que después pueda decretarse la acumulación, si fuere conducente.
 
-Los peritos serán llamados por el juzgador cuando se requieran conocimientos especiales en determinada ciencia, técnica o arte, necesarios para el examen y valoración de personas, hechos u objetos.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE JULIO DE 1949)</small>
 
-###### Artículo 6.
+###### ARTICULO 8°.
 
-La nómina de materias periciales, comprenderá, de manera enunciativa, las siguientes:
+En todo juicio del orden criminal, tendrá el acusado las siguientes garantías:
 
-a) ARQUITECTURA l) PSIQUIATRÍA
+> <small>(REFORMADA, P.O. 23 DE JULIO DE 1949)</small>
 
-b) ASISTENCIA SOCIAL m) QUÍMICA
+I. Inmediatamente que lo solicite será puesto en libertad bajo fianza que fijará el juez tomando en cuenta sus circunstancias personales y la gravedad del delito que se le impute, siempre que dicho delito merezca ser castigado con pena cuyo término medio aritmético no sea mayor de cinco años de prisión y, sin más requisito que poner la suma de dinero respectiva, a disposición de la autoridad u otorgar caución hipotecaria o personal bastante para asegurarla, bajo la responsabilidad del juez en su aceptación.
 
-c) CONTADURÍA PÚBLICA Y n) SOCIOLOGÍA
+En ningún caso la fianza o caución será mayor de $250,000.00 Doscientos Cincuenta Mil Pesos, a no ser que se trate de un delito que presente para su autor un beneficio económico o cause a la víctima un daño patrimonial, pues en estos casos la garantía será, cuando menos, tres veces mayor al beneficio obtenido o al daño ocasionado;
 
-CIENCIAS ECONÓMICAS
+II. No podrá ser compelido a declarar en su contra, por lo cual queda rigurosamente prohibida toda incomunicación o cualquier otro medio que tienda a aquel objeto;
 
-d) CRIMINALÍSTICA o) TOPOGRAFÍA
+III. Se le hará saber en audiencia pública y dentro de las cuarenta y ocho horas siguientes a su consignación a la justicia, el nombre de su acusador y la naturaleza y causa de la acusación, a fin de que conozca bien el hecho punible que se le atribuye y pueda contestar el cargo, rindiendo en este acto su declaración preparatoria;
 
-e) CRIMINOLOGÍA p) TRADUCCIÓN
+IV. Será careado con los testigos que depongan en su contra, los que declararán en su presencia, si estuvieren en el lugar del juicio, para que pueda hacerles todas las preguntas conducentes a su defensa;
 
-f) INFORMÁTICA q) TRÁNSITO
+V. Se le recibirán los testigos y demás pruebas que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, siempre que se encuentren en el lugar del proceso;
 
-(TERRESTRE-AÉREO)
+VI. Será juzgado en audiencia pública por un juez o jurado de ciudadanos que sepan leer y escribir, vecinos del lugar y distrito en que se cometiere el delito, siempre que éste pueda ser castigado con una pena mayor de un año de prisión. En todo caso serán juzgados por un jurado los responsables de delitos cometidos por medio de la prensa, contra el orden público o la seguridad interior del Estado;
 
-g) INGENIERÍA r) VALUACIÓN DE BIENES
+VII. Le serán facilitados, en cualquier tiempo, todos los datos que solicite para su defensa y que consten en el proceso;
 
-(DIVERSAS ESPECIALIDADES) (MUEBLES E INMUEBLES)
+VIII. Será juzgado antes de tres meses, si se tratare de delitos cuya pena máxima no exceda de dos años de prisión; y antes de seis meses, si la pena máxima excediere de este tiempo;
 
-h) MATEMÁTICAS s) VETERINARIA
+IX. Se le oirá en defensa por sí o por personas de su confianza o por uno y otras, según su voluntad. En caso de no tener quien lo defienda, se le presentará lista de los defensores de oficio para que elija el que o los que le convengan. Si el acusado no quiere nombrar defensores después de ser requerido para hacerlo, al rendir su declaración preparatoria, el juez le nombrará uno de oficio. El acusado podrá nombrar defensores desde el momento en que sea aprehendido, y tendrá derecho a que éstos se hallen presentes en todos los actos del juicio; pero estará obligado a hacerlos comparecer cuantas veces se necesite;
 
-i) MEDICINA t) VIALIDAD
+X. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.
 
-(DIVERSAS ESPECIALIDADES)
+Tampoco podrá prolongarse la prisión preventiva por más tiempo del que como máximo fije la ley al delito que motivare el proceso. En toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención.
 
-j) ODONTOLOGÍA
+###### ARTICULO 9°.
 
-k) PSICOLOGÍA
+Ninguna autoridad, ningún poder público, puede suspender el efecto de las leyes, salvo en el caso previsto por el artículo veintinueve de la Constitución Federal.
 
-A la nómina de materias se agregarán aquellas que determine el Pleno, de acuerdo a las necesidades de los órganos jurisdiccionales.
+###### ARTICULO 10.
 
-###### Artículo 7.
+Ningún negocio judicial tendrá más de dos instancias, y el juez que de cualquiera manera haya intervenido en la primera, no podrá conocer en la segunda. Ningún negocio civil o criminal se sujetará por segunda vez a los Tribunales, cuando ya esté resuelto conforme a las leyes.
 
-Para ser Auxiliar, además de lo señalado por artículo 231 de la Ley Orgánica, se requiere:
+###### ARTICULO 11.
 
-I. Ser mayor de veinticinco años de edad;
+Nadie puede ser aprisionado por deudas de carácter puramente civil. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Los Tribunales estarán expeditos para administrar justicia en los plazos y términos que fije la ley; su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales.
 
-II. No haber sido condenado por delitos contra el patrimonio o cualquier otro contra la administración de justicia;
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-III. Contar con la autorización del Tribunal para el desempeño de la función.
+###### ARTICULO 12.
 
-Los peritos, deberán tener, además, título oficial en la ciencia, técnica o arte relativo, o conocimientos prácticos suficientes en la materia, debidamente acreditados.
+Ni la Ley, ni las autoridades reconocerán algún pacto, convenio o contrato que menoscabe la libertad del hombre, ya sea por causa de trabajo, de educación o voto religioso; ni los que impliquen renuncia de cualquiera de las garantías individuales o de beneficio de derecho en asuntos en que el Estado debe intervenir, para garantizar los intereses sociales.
 
-###### Artículo 8.
+> <small>(ADICIONADO, P.O. 22 DE MAYO DE 1943)</small>
 
-No podrán actuar como auxiliares de la administración de justicia, en casos específicos, quienes:
+En el Estado nadie podrá desempeñar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la Autoridad Judicial, el cual se ajustará a lo dispuesto en las fracciones l y II del artículo 123 de la Constitución General de la República.
 
-1).- Intervengan en el procedimiento como testigos o intérpretes o;
+###### ARTICULO 13.
 
-2).- Tengan los motivos de excusa establecidos para el juzgador.
+Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quien se dirija la petición tiene la obligación de contestarla por escrito en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario.
 
-###### Artículo 9.
+###### ARTICULO 14.
 
-Los auxiliares se clasifican en académicos, prácticos, oficiales y privados.
+Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. Ninguna orden de aprehensión o detención podrá librarse, a no ser por la autoridad judicial, sin que preceda denuncia, acusación o querella de un hecho determinado que la ley castigue con pena corporal, y sin que estén apoyadas aquellas por declaración, bajo protesta, de persona digna de fe o por otros datos que hagan probable la responsabilidad del inculpado, hecha excepción de los casos de infraganti delito, en que cualquiera persona puede aprehender al delincuente y a sus cómplices, poniéndolos sin demora a disposición de la autoridad inmediata. Solamente en casos urgentes, cuando no haya en el lugar alguna autoridad judicial, y tratándose de delitos que se persiguen de oficio, podrá la autoridad administrativa, bajo su más estrecha responsabilidad, decretar la detención de un acusado, poniéndolo inmediatamente a disposición de la autoridad judicial.
 
-Son auxiliares académicos los que tengan título profesional oficial. Son auxiliares prácticos los que careciendo de título oficial tengan conocimientos suficientes respecto de la materia de que se trate.
+En toda orden de cateo, que sólo la autoridad judicial podrá expedir y que será escrita, se expresará el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse y los objetos que se buscan; a lo que únicamente debe limitarse la diligencia, levantándose al concluirla, una acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia.
 
-Serán auxiliares de la administración de justicia oficiales, quienes:
+La autoridad administrativa podrá practicar visitas domiciliarias únicamente para cerciorarse de que se han cumplido los reglamentos sanitarios y de policía; y para exigir la exhibición de los libros y papeles indispensables para comprobar que se han acatado las disposiciones fiscales, sujetándose, en estos casos, a las leyes respectivas y a las formalidades prescritas para los cateos.
 
-1) Se desempeñen de manera permanente como tales en alguna entidad pública con nombramiento oficial; o,
+###### ARTICULO 15.
 
-2) Funjan como servidores públicos en las dependencias de la Administración Pública del Estado o en la Administración Pública Municipal, o presten sus servicios como maestros, investigadores o en otra función en las universidades públicas y tengan capacidad pericial académica o práctica;
+Sólo por delito que merezca pena corporal habrá lugar a prisión preventiva. El lugar de ésta será distinto y estará completamente separado del que se destinare para la extinción de las penas.
 
-Los auxiliares académicos y prácticos que no sean oficiales, se considerarán como privados.
+###### ARTICULO 16.
 
-###### Artículo 10.
+Nadie podrá ser detenido por más de setenta y dos horas, sin que se le decrete auto motivado de prisión en los términos prevenidos por el artículo séptimo de esta Constitución; ni arrestado por más de veinticuatro horas, sin que se le ponga a disposición de su Juez o se le comunique la corrección impuesta por la autoridad administrativa, en los casos de su competencia. Dos horas antes de concluir el término respectivo, el alcaide o encargado del lugar en que se guarde la detención o el agente que haga sus veces, que no reciba copia autorizada del auto de formal prisión o prisión preventiva, o el aviso de la autoridad administrativa de la corrección impuesta, deberá llamar la atención de quien corresponda sobre ese particular, y si al concluir el término no recibe la constancia mencionada, pondrá en libertad al detenido.
 
-Para integrar y actualizar la lista, el Pleno acordará lo procedente respecto a la inscripción de quienes deseen formar parte de la misma, señalando el término durante el cual podrán presentarse las solicitudes.
+Si la detención se efectúa fuera del lugar en que resida el Juez o la autoridad administrativa que la ordenó, al término mencionado de veinticuatro horas se agregará el suficiente para recorrer la distancia que hubiere entre dicho lugar y aquel en que se efectúe la detención.
 
-Para integrar la lista de auxiliares oficiales, el Pleno solicitará a las dependencias de la Administración Publica Estatal y Municipal, así como a las instituciones oficiales de educación pública superior, que proporcionen una lista de por lo menos tres personas de las especialidades de su ramo.
+Si pasados los términos indicados, el alcaide o quien haga sus veces no recibe copia de los documentos de que se ha hablado, a más de poner en libertad al detenido, dará cuenta inmediatamente al Tribunal Superior de Justicia para que exija la responsabilidad correspondiente.
 
-###### Artículo 11.
+###### ARTICULO 17.
 
-El Pleno en el acuerdo correspondiente, señalará las materias y el número de auxiliares que se requieran, así como las bases para la solicitud de inscripción, debiendo darle amplia difusión.
+Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones; toda gabela o contribución en las cárceles; toda molestia injustificada que se infiera en una prisión; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto para el que los ordene, como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin, su regeneración social. La autoridad judicial, sólo por causa de urgente administración de justicia que hará constar expresamente en el mandamiento respectivo, podrá decretar la extracción de los reos de sus prisiones.
 
-###### Artículo 12.
+La autoridad administrativa sólo podrá decretarla, respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción.
 
-En el mes de enero de cada año, quienes se encuentren incluidos en la lista, deberán manifestar ante el Pleno, su deseo de continuar figurando en la misma como auxiliares de la administración de justicia.
+###### ARTICULO 18.
 
-Asimismo, deberán comunicar el cambio de domicilio, teléfono o correo electrónico que hubiesen proporcionado, para los efectos de su localización.
+Los habitantes del Estado son absolutamente libres de poseer armas de cualquiera clase, para su seguridad y legítima defensa, excepto las prohibidas expresamente por la ley y las reservadas por la Nación al uso exclusivo del Ejército, Armada y Guardia Nacional; pero para su portación en las poblaciones, quedarán sujetos al reglamento de policía.
 
-###### Artículo 13.
+###### ARTICULO 19.
 
-Quienes deseen figurar en la lista presentarán, dentro del término que señale la convocatoria que al efecto se expida, solicitud por escrito, ante la Presidencia del Tribunal o por conducto de los órganos jurisdiccionales del Estado, en formularios provistos por la Secretaría.
+No se podrá coartar el derecho de asociarse o reunirse pacíficamente con cualquier objeto lícito; pero solamente los ciudadanos de la República podrán hacerlo para tomar parte en los asuntos políticos del país. Ninguna reunión armada tiene derecho de deliberar.
 
-###### Artículo 14.
+Los ministros de los cultos nunca podrán, en una reunión pública o privada constituida en junta, ni en actos del culto o de propaganda religiosa, hacer crítica de las leyes fundamentales del país, de las autoridades, en particular, o en general, del Gobierno.
 
-La solicitud de inscripción se hará bajo protesta de decir verdad y contendrá, cuando menos los siguientes datos:
+Queda estrictamente prohibida la formación de toda clase de agrupaciones políticas cuyo título tenga alguna palabra o indicación cualquiera que la relacione con alguna confesión religiosa. No podrán celebrarse reuniones de carácter político en los templos abiertos al culto.
 
-a) Nombre y Apellidos del solicitante;
+Fuera de las prohibiciones de los dos párrafos anteriores, no se considerará ilegal y no podrá ser disuelta una asamblea o reunión que tenga por objeto hacer una petición o presentar una protesta por algún acto de una autoridad, si no se profieren injurias contra ésta, ni se hace uso de violencias o amenazas para intimidarla u obligarla a resolver en el sentido que se desea.
 
-b) Fecha de nacimiento;
+###### ARTICULO 20.
 
-c) Domicilio y número telefónico;
+Los bienes que originariamente no han sido de la Federación, constituyen el patrimonio del Estado, el cual ha tenido y tiene el derecho de transmitir el dominio de ellos a los particulares, constituyendo la propiedad privada. Esta no podrá ser expropiada sino por causa de utilidad pública y mediante indemnización. Las necesidades de la agricultura, la ciencia, la industria, el comercio y las comunicaciones; las del orden público o de interés general, serán las bases para calificar la causa de la utilidad pública.
 
-d) Tipo de documento de identidad;
+En el territorio del Estado, este tiene el derecho de regular el aprovechamiento de los elementos naturales susceptibles de apropiación para hacer una distribución equitativa de la riqueza pública y para cuidar de su conservación dictando las medidas necesarias para el desarrollo de la pequeña propiedad, para la creación de nuevos, centros de población agrícola con las tierras y aguas que les sean indispensables; para el fomento de la agricultura en intensidad y extensión; y para evitar la destrucción de los elementos nacionales y los daños que la propiedad pueda sufrir en perjuicio de la sociedad, conforme a las facultades que el artículo veintisiete de la Constitución General concede a los Estados.
 
-e) Título profesional;
+###### ARTICULO 21.
 
-f) Declaración de carecer de antecedentes penales;
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial, la cual estará bajo la autoridad y mando inmediato de aquél.
 
-g) Manifestación sobre si realiza funciones en cualquier organismo o dependencia del Estado o Municipio y si percibe sueldo por cargos oficiales desempeñados en virtud de su título profesional;
+Compete a la autoridad administrativa el castigo de las infracciones de los reglamentos gubernativos y de policía, el cual únicamente consistirá en multa o arresto hasta por treinta y seis horas; pero si el infractor no pagare la multa que se le hubiere impuesto, se permutará ésta por el arresto correspondiente, que jamás excederá de quince días.
 
-h) Práctica y experiencia en la especialidad con la cual desea figurar en la lista;
+Si el infractor fuere jornalero u obrero, no podrá ser castigado con multa mayor del importe de su jornal o sueldo en una semana.
 
-i) Distrito judicial en que desea actuar; y,
+###### ARTICULO 22.
 
-j) Correo electrónico, en su caso.
+Son obligaciones de los habitantes del Estado:
 
-###### Artículo 15.
+I. Hacer que sus hijos o pupilos concurran a las escuelas públicas o particulares, para recibir la educación primaria elemental, durante el tiempo que señale la ley de la materia;
 
-Quienes deseen desempeñar el cargo de auxiliares prácticos, señalarán en su solicitud, bajo protesta de decir verdad, las circunstancias por las que adquirieron conocimientos sobre la ciencia, técnica o arte con la que se desea figurar en la lista, y agregarán copias certificadas de las constancias que se tengan al respecto.
+II. Inscribirse en el padrón de la localidad en que residan, manifestando la propiedad que tengan, la industria, profesión o trabajo de que subsistan;
 
-###### Artículo 16.
+III. Contribuir para los gastos públicos de la Federación, del Estado y del Municipio, de la manera proporcional y equitativa que dispongan las leyes.
 
-Con la solicitud se acompañarán los siguientes documentos:
+> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 1958)</small>
 
-a) En caso de primera inscripción, copia certificada del título y cédula profesional, así como del documento oficial que acredite la identidad;
+IV. Cooperar en la Campaña de Alfabetización.
 
-b) Constancia de matriculación expedida por el Colegio Profesional respectivo, en su caso;
+## TITULO SEGUNDO. Del Orden Público
 
-c) Copia de las constancias que acrediten su experiencia y práctica profesional en la materia de que se trate; y
+###### ARTICULO 23.
 
-d) Dos fotografías.
+Son obligaciones del ciudadano:
 
-###### Artículo 17.
+I. Votar en las elecciones;
 
-En el supuesto de que faltare alguno de los requisitos previstos en los artículos 14, 15 y 16 de este Reglamento, la solicitud se reservará en la Secretaría por el término de diez días para que, en su caso, sea subsanada. Cumplido el plazo sin que se reúnan los requisitos, la solicitud será improcedente y serán devueltos al interesado, los documentos que hubiese presentado.
+II. Inscribirse en los padrones electorales;
 
-###### Artículo 18.
+III. Desempeñar los cargos de elección popular, las funciones electorales y las de jurado;
 
-El Secretario del órgano jurisdiccional que reciba la solicitud de inscripción, asentará en la misma razón de ello, detallando la documentación que se acompaña, y entregará una copia al interesado.
+IV. Opinar en asuntos políticos y tomar parte activa en la cosa (sic) pública, en la esfera de sus facultades y con las limitaciones que fije la ley;
 
-###### Artículo 19.
+V. Formar parte de la Guardia Nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriban las leyes.
 
-La recepción de la solicitud de inscripción no significa que el solicitante integre automáticamente la lista. La admisión o rechazo de la inscripción o reinscripción compete al Pleno.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 17 DE NOVIEMBRE DE 1956)</small>
 
-###### Artículo 20.
+###### ARTICULO 24.
 
-Concluido el plazo para la recepción de solicitudes, los Tribunales Unitarios o Juzgados que las hayan recibido, las remitirán a la Secretaría, y esta previo análisis del cumplimiento de los requisitos, recopilará los datos correspondientes y presentará al Pleno la documentación relativa para su análisis y valoración.
+Son prerrogativas de los ciudadanos hombres y mujeres:
 
-###### Artículo 21.
+I.- Votar en las elecciones populares.
 
-Recibida por el Pleno la información condensada de las solicitudes, procederá a su estudio, y emitirá el acuerdo correspondiente respecto de cada una.
+II.- Ser votados para los cargos de elección popular y ser promovidos a cualquier empleo o comisión conforme a las leyes.
 
-###### Artículo 22.
+III.- Alistarse en la guardia nacional para la defensa del territorio y de las instituciones de la República y del Estado, en los términos que prescriben las leyes.
 
-Cuando se trate de solicitudes presentadas fuera de los términos de las convocatorias, la Secretaría las compilará y dará cuenta al Pleno en la última sesión de cada mes, para que acuerde lo procedente.
+###### ARTICULO 25.
 
-El proceso de análisis y selección, se ajustará a lo dispuesto en este capítulo.
+Las elecciones deben ser enteramente libres, y todo ciudadano que reúna los requisitos que previene la ley, tiene derecho de elegir y ser electo.
 
-## TÍTULO SEGUNDO. REQUISITOS PARA EJERCER LA FUNCIÓN DE AUXILIAR DE LA ADMINISTRACIÓN DE JUSTICIA
+## TITULO TERCERO. Del Estado, su soberanía y territorio
 
-###### Artículo 23.
+###### ARTICULO 26.
 
-En caso de ser rechazada la solicitud de inscripción, el Pleno lo notificará al solicitante por lista de acuerdos, pudiendo además comunicarse mediante pieza postal, correo electrónico o fax.
+El Estado de Oaxaca es parte integrante de los Estados Unidos Mexicanos; pero es libre y soberano en todo lo que concierne a su régimen interior, conforme a los preceptos de la Constitución General de la República.
 
-La resolución que al respecto se dicte, no tendrá recurso alguno, sin perjuicio del derecho del interesado de renovar su solicitud.
+###### ARTICULO 27.
 
-###### Artículo 24.
+La soberanía reside esencial y originariamente en el pueblo y se ejerce por medio de los Poderes del Estado, en lo relativo a su gobierno y administración interior, en los términos que establece esta Constitución. Todo poder público dimana del pueblo y se instituye para beneficio de éste.
 
-Aprobadas las inscripciones por el Pleno, la Secretaría integrará la lista o realizará las actualizaciones que se hubiesen autorizado.
+###### ARTICULO 28.
 
-###### Artículo 25.
+El territorio del Estado de Oaxaca es el que posee actualmente conforme a las jurisdicciones de hecho ejercidas por sus respectivas autoridades y el que por derecho le corresponda; y no podrá ser desmembrado sino en los términos prevenidos por la Constitución Federal.
 
-La lista contendrá dos apartados, el relativo a los auxiliares oficiales, académicos o prácticos, y el de auxiliares privados, académicos o prácticos.
+## TITULO CUARTO. Del Gobierno del Estado
 
-En la conformación de los apartados de la lista, se observarán las siguientes reglas:
+### CAPITULO I. De la Forma de Gobierno y División de Poderes
 
-a) Se dividirá por distrito judicial;
+###### ARTICULO 29.
 
-b) En cada apartado, se incluirán las materias por orden alfabético.
+El Estado adopta para su régimen interior la forma de gobierno republicano, representativo y popular, teniendo como base de su organización política y administrativa, el Municipio Libre.
 
-c) De acuerdo a la especialidad, los nombres de los auxiliares serán incluidos alfabéticamente, por sus apellidos.
+###### ARTICULO 30.
 
-d) Los auxiliares oficiales serán agrupados, bajo las reglas anteriores, y de acuerdo a la dependencia Estatal o Municipal o a la Institución Académica en la que presten sus servicios.
+El Poder público del Estado se divide, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial. Estos poderes siempre se ejercerán en la forma y términos establecidos en esta Constitución; en consecuencia, nunca podrán reunirse uno o dos de ellos en cualquiera de los tres; sólo podrán concederse facultades legislativas al Ejecutivo en los términos prevenidos por el artículo 62 de esta Constitución.
 
-Cuando se trate de actualizaciones de la lista, los auxiliares serán incorporados a la misma, de acuerdo a las reglas señaladas en el párrafo anterior, con la anotación de la fecha de su registro.
-
-## TÍTULO TERCERO. DE LA CLASIFICACIÓN DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
-
-###### Artículo 26.
-
-El registro en la lista, se realizará mediante la asignación de un número cardinal progresivo a cada uno de los auxiliares autorizados.
-
-###### Artículo 27.
-
-En las listas o sus actualizaciones, se consignarán las exclusiones, suspensiones, los cambios de domicilio, y cualquier otro dato necesario para el control de los listados.
-
-###### Artículo 28.
-
-Una vez integrada la lista o realizadas las actualizaciones, la Secretaría procederá a su publicación en estrados y las hará llegar a los órganos jurisdiccionales dentro de los ocho días siguientes a su aprobación.
-
-Los secretarios publicarán la lista o actualizaciones, en los estrados de los órganos jurisdiccionales, donde permanecerán a la vista del público.
-
-## TÍTULO CUARTO. PROCEDIMIENTO PARA LA INTEGRACIÓN Y ACTUALIZACIÓN DE LA LISTA DE AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
-
-### CAPÍTULO I. DEL ACUERDO DEL PLENO
-
-###### Artículo 29.
-
-La lista o su actualización, tendrán vigencia a partir del día hábil siguiente al de su recepción por los órganos jurisdiccionales, y hasta nuevo acuerdo que al respecto emita el Pleno.
-
-Sólo las personas incluidas en la lista, estarán oficialmente acreditados como Auxiliares de la Administración de Justicia.
-
-###### Artículo 30.
-
-Corresponde al juzgador la designación del auxiliar que se requiera, de conformidad con las normas de la materia de que se trate y atendiendo a la lista expedida por el Pleno.
-
-Las partes interesadas podrán proponer libremente a los auxiliares, en los casos autorizados por la Ley.
-
-### CAPÍTULO II. DE LA SOLICITUD
+### CAPITULO II. Del Poder Legislativo
 
 #### SECCION PRIMERA. De la Legislatura
 
-###### Artículo 31.
+###### ARTICULO 31.
 
-Los auxiliares propuestos por el juzgador, serán nombrados a través de un sistema informático, cuyo control estará a cargo de la Secretaría, con apoyo de la Oficialía Mayor y la Dirección de Informática.
+El Poder Legislativo se ejerce por una Asamblea que se denominará Legislatura del Estado y estará integrada por Diputados electos directa y popularmente.
 
-El sistema de informática cumplirá los requisitos, que para la designación, establece el artículo 239 de la Ley Orgánica.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-###### Artículo 32.
+###### ARTICULO 32.
 
-Cuando por cualquier motivo no se encuentre disponible el sistema informático para la designación de auxiliares, el Juzgador la hará observando las reglas establecidas en el artículo citado con antelación, en lo conducente.
+La legislatura se renovará totalmente cada tres años, en los términos que dispone la Ley respectiva y de acuerdo con las bases que establece esta Constitución.
 
-La inobservancia de tales reglas, constituirá falta administrativa, que será sancionada en los términos señalados por el artículo 243 de la Ley Orgánica.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 1973)</small>
 
-###### Artículo 33.
+###### ARTICULO 33.
 
-Para la designación de auxiliares en materia penal, se observarán las siguientes reglas:
+Se elegirá un Diputado por cada ciento treinta y cinco mil habitantes o fracción mayor de setenta mil. Por cada diputado propietario se elegirá un suplente.
 
-1.- La designación deberá recaer en cualquiera de los auxiliares oficiales académicos contenidos en la lista expedida por el Pleno.
+Los Diputados propietarios no podrán ser reelectos para el período inmediato ni con el carácter de suplentes. Los diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio.
 
-2.- Si no hubiere en la lista auxiliares oficiales académicos en la materia que se requiera, el juzgador solicitará a las dependencias o instituciones públicas, el nombre de tres profesionales en la materia de que se trate, y de entre ellos hará la designación correspondiente.
+> <small>(REFORMADO, 15 DE JULIO DE 1972)</small>
 
-3.- A falta de auxiliares oficiales académicos, se podrá acudir a los académicos privados acreditados en la lista.
+###### ARTICULO 34.
 
-4.-Si faltan unos u otros, en orden de prelación, se acudirá a prácticos oficiales o privados, que serán designados por el juzgador, aún cuando no se encuentren incluidos en la lista. Para tal efecto el juzgador deberá asentar razón de ello en autos.
+Para ser Diputado Propietario o Suplente se requiere: Ser ciudadano en el ejercicio de sus derechos, ser nativo del Estado de Oaxaca y con residencia en su territorio inmediatamente anterior de un año por lo menos, haber cumplido veintiún años el día de la elección; no haber tomado participación directa ni indirecta en alguna asonada, motín o cuartelazo, y tener un modo honesto de vivir. La vecindad no se pierde por ausencia en el desempeño de cargo público de elección popular.
 
-5.- El juez podrá designar auxiliares académicos que presten sus servicios como servidores públicos de las Entidades Federativas, del Distrito Federal o de la Federación, cuando no haya peritos oficiales en el Estado.
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 1939)</small>
 
-6.- Las propuestas de auxiliares que hagan los interesados o las partes; o la designación que haga el juzgador durante el proceso; debe recaer en cualquiera de los peritos oficiales académicos o prácticos incluidos en la lista.
+###### ARTICULO 35.
 
-###### Artículo 34.
+No pueden ser electos Diputados: el Gobernador del Estado, el Secretario General del Despacho, el Subsecretario, los Magistrados del Tribunal Superior de Justicia, el Procurador General, el Jefe de la Defensoría de Oficio, el Contador Mayor de Glosa y el Tesorero General.
 
-Las designaciones de auxiliares que se realicen a propuesta del juzgador, son irrenunciables, salvo que haya mediado alguna de las causales de justificación siguientes:
+Tampoco podrán ser electos Diputados los funcionarios de la Federación y los demás del Estado, y los militares, si no se separan de sus cargos con anticipación de 90 días antes de la fecha de la elección. Para los efectos de esta última disposición, se consideran también como militares en servicio activo, los Jefes y Oficiales de las fuerzas de seguridad pública del Estado, cualquiera que sea su denominación.
 
-a) Enfermedad sobreviniente que impida el desempeño de la función.
+###### ARTICULO 36.
 
-b) Otros impedimentos de fuerza mayor.
+Ningún ciudadano podrá rehusarse a desempeñar el cargo de Diputado, si no es por causa justa calificada por la Legislatura, ante la cual se presentará la excusa.
 
-c) Solicitud de exclusión por causa justificada ya existente, con una anticipación no menor de treinta días anteriores a la fecha de la designación.
+###### ARTICULO 37.
 
-Para los efectos de este artículo, el auxiliar deberá acreditar, por medios fehacientes, la existencia de la causal de justificación que invoque.
+Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo y nunca podrán ser reconvenidos por ellas.
 
-A falta de auxiliares académicos, se conferirá el cargo a los prácticos.
+###### ARTICULO 38.
 
-###### Artículo 35.
+El ejercicio del cargo de Diputado es incompatible con cualquiera comisión o empleo del gobierno federal o del Estado, por el que se disfrute sueldo, sin licencia previa de la Legislatura; pero cesarán en sus funciones representativas mientras dure la nueva ocupación. La infracción a esta disposición se tendrá por la renuncia del cargo de Diputado con causa justificada, y se llamará desde luego al suplente o se declarará la vacante, en su caso.
 
-Todo nombramiento será notificado al auxiliar designado, mediante oficio remitido por correo certificado, en el domicilio que figure en la lista. En casos urgentes la notificación podrá realizarse por telégrafo, correo electrónico, teléfono o fax. En cualquiera de los casos, el Secretario asentará constancia de ello en el expediente.
+###### ARTICULO 39.
 
-###### Artículo 36.
+Los presuntos diputados, propietarios y suplentes presentarán sus credenciales a la Secretaría de la Legislatura, para que sean registradas y se pase lista de ellas en la primera Junta Previa que deberá efectuarse el día primero de septiembre. En esta o en una segunda Junta Previa, se elegirá Mesa Directiva de las Juntas Preparatorias, con forme a la Fracción I del Artículo 41 de esta Constitución.
 
-Los auxiliares, al aceptar el cargo, tienen la obligación de protestar su fiel y legal desempeño, y declararán, bajo protesta de decir verdad, que no tienen ningún impedimento legal.
+> <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-###### Artículo 37.
+###### ARTICULO 40.
 
-La falta de aceptación injustificada del cargo dará lugar a nueva designación. En todos los casos, el juzgador hará del conocimiento del Pleno, el nombre del auxiliar que se hubiese negado a admitir el cargo o hubiese omitido hacer manifestación alguna al respecto.
+Dentro de los cinco días siguientes a la celebración de la primera Junta Previa, o de la segunda, en su caso, se efectuarán todas las Juntas Preparatorias que sean necesarias para la calificación de las credenciales, de manera que la Lesgislatura (sic) pueda instalarse el día 15 del mismo mes de septiembre, en cuya fecha se hará la elección de Presidente y Vice-presidente y Secretarios, en los términos del Reglamento.
 
-###### Artículo 38.
-
-El auxiliar nombrado por el juzgador puede ser recusado por los mismos impedimentos por los que pueden serlo los jueces.
-
-En los procesos penales los peritos son irrecusables, pero se abstendrán de aceptar el cargo, si se hallan afectados por causales de incompatibilidad o se encuentran inhabilitados de acuerdo a las normas de la materia.
-
-###### Artículo 39.
-
-La recusación será resuelta por el juez, en los términos que, para tal efecto, establecen las normas.
-
-###### Artículo 40.
-
-Los auxiliares deberán presentar su dictamen o informe en la forma y términos que al efecto señalen las normas aplicables.
-
-El incumplimiento de esta obligación será sancionado en los términos previstos por este Reglamento.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1944)</small>
 
 #### SECCION SEGUNDA. De la Instalación de la Legislatura y su Funcionamiento
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 1944)</small>
 
-###### Artículo 41.
+###### ARTICULO 41.
 
-Los peritos, practicarán las operaciones y experimentos que su ciencia, técnica o arte les sugiera; consignarán los conducentes en el dictamen y expresarán, además, los hechos y circunstancias que le sirvan de fundamento.
+Las Juntas Previas y Preparatorias se sujetarán a lo que disponga el Reglamento Interior de la Legislatura, el cual deberá comprender las bases siguientes:
 
-Los demás auxiliares rendirán sus informes en la forma y términos previstos por la ley para cada una de sus especialidades o encargos.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 1944)</small>
 
-Los peritos y auxiliares estarán obligados a prestar declaración relacionada con su dictamen o informe, cuantas veces sean llamados para ello por el juzgador.
+I. La Junta o Juntas Previas serán instaladas y dirigidas por la Comisión respectiva de la Legislatura, la que, una vez designada la Mesa Directiva de las Juntas Preparatorias, hará entrega a ésta de todos los expedientes electorales.
 
-###### Artículo 42.
+La elección de la Mesa Directiva de las Juntas Preparatorias se hará en escrutinio secreto y a mayoría absoluta de votos de los presuntos diputados;
 
-La remuneración de los auxiliares es garantía constitucional y una equitativa retribución del servicio, pero en ningún caso podrá significar una carga excesiva para quienes soliciten su intervención.
+II. De los presuntos diputados, solamente asistirán quienes hayan registrado sus credenciales en la Secretaría de la Legislatura;
 
-###### Artículo 43.
+III. Unicamente se registrarán las credenciales que llenen los requisitos de autenticidad que determine la ley respectiva;
 
-La remuneración de los auxiliares será fijada, de oficio, por el juzgador al momento en que se perfeccione el nombramiento o la designación, según sea el caso, con la aceptación y protesta del cargo.
+IV. Si hubiere dos o más credenciales con los requisitos legales, todas serán registradas; pero ninguno de los tenedores de ellas podrá asistir a las juntas previas, y así será juzgada y calificada la legitimidad;
 
-###### Artículo 44.
+V. La calificación de la legitimidad de las credenciales será hecha por mayoría absoluta de votos de los presentes, y estas resoluciones serán definitivas.
 
-El monto de la remuneración se fijará entre un mínimo del 0.5% y un máximo del 3% sobre la cuantía del asunto de que se trate, y se observarán los indicadores siguientes:
+> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 1923)</small>
 
-1.- La naturaleza del servicio;
+###### ARTICULO 42.
 
-2.- El grado de dificultad que, en su caso, presente el desempeño de la función;
+La Legislatura tendrá períodos ordinarios de sesiones dos veces al año; el primer período de sesiones dará principio el día diez y seis de septiembre, y el segundo, el primero de abril del año siguiente; y no podrán prolongarse más que hasta el diez y seis de diciembre y el treinta de junio, respectivamente.
 
-3.- Los requerimientos profesionales o técnicos propios del cargo, para el caso de que se trate;
+Se reunirá, además, en períodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella.
 
-4.- Las condiciones en que habrá de realizarse;
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE SEPTIEMBRE DE 1972)</small>
 
-5.- La situación económica de quien deba cubrir la remuneración; y,
+###### ARTICULO 43.
 
-6.- Los gastos que se originen cuando el encargo deba desarrollarse fuera del lugar del domicilio del juzgado.
+A la apertura del primer período ordinario de sesiones correspondiente al primer año de su ejercicio legal de toda Legislatura Local que tendrá lugar el 16 de septiembre, asistirá el C. Gobernador del Estado. La Legislatura Local, celebrará una sesión solemne el día 30 de octubre de cada año, a la cual asistirá el C. Gobernador del Estado y leerá el Informe sobre el estado que guarda la Administración Pública.
 
-###### Artículo 45.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 1940)</small>
 
-En los asuntos de valor indeterminado, así como en aquellos que carezcan de cuantía o en los casos en que no pueda determinarse, el juzgador tasará discrecionalmente la remuneración, tomando en cuenta la naturaleza e importancia del servicio, dentro de un mínimo de tres tantos y un máximo de cien tantos del salario mínimo diario, vigente en la capital del Estado.
+Si se tratare de un período extraordinario convocado a petición del Ejecutivo, el informe versará sobre las causas que motivaron la convocatoria. En el caso de que ésta se hubiere hecho por la Diputación Permanente, el Gobernador se limitará a comunicar a la Legislatura que cumplió con el acuerdo de la Diputación haciendo publicar la convocatoria.
 
-###### Artículo 46.
+###### ARTICULO 44.
 
-Admitida la prueba pericial o autorizada la intervención de los demás auxiliares privados a que se refiere el artículo 3 de este Reglamento, y realizada la designación, el juzgador con citación del oferente de la prueba o peticionario, convocará al perito o auxiliar designado para hacer de su conocimiento la materia del peritaje o la función a realizar, las bases conforme a las cuales se tasará su remuneración, así como el nombre de quien deberá cubrirla.
+El primer período de sesiones se destinará de preferencia a la discusión y resolución de los Presupuestos de Ingresos y Egresos del Estado y Presupuestos de Ingresos de los Municipios.
 
-De lo anterior, el secretario levantará constancia al pie del acuerdo relativo, que será suscrita por quienes hayan intervenido.
+###### ARTICULO 45.
 
-En el supuesto de que el oferente de la prueba o peticionario deje de asistir a la diligencia señalada en el párrafo anterior, el encargo no será conferido, con los efectos legales consiguientes.
+El segundo período de sesiones se destinará de preferencia a la revisión y calificación de las cuentas de inversión de las rentas del Estado y de los Municipios, relativas al año anterior.
 
-###### Artículo 47.
+###### ARTICULO 46.
 
-La remuneración será tasada por el juzgador en la diligencia a que se refiere el artículo que antecede, escuchando al auxiliar, y una vez establecida, no podrá ser objetada por este.
+Los períodos extraordinarios de sesiones, se destinarán exclusivamente a estudiar los asuntos contenidos en la convocatoria, y se cerrarán antes del día de la apertura del período ordinario, aun cuando no hubieren llegado a resolverse los asuntos que motivaren su reunión, reservando su conclusión para el período ordinario.
 
-Para el caso en que surjan circunstancias no consideradas en la diligencia señalada en los artículos anteriores, el auxiliar las hará del conocimiento del juzgador quien hará la regulación de la remuneración en forma incidental, sin que ello sea motivo para que el auxiliar incumpla con las obligaciones derivadas de su nombramiento o designación.
+###### ARTICULO 47.
 
-###### Artículo 48.
+La Legislatura no podrá abrir sus sesiones ni ejercer su cometido, sin la concurrencia de más de la mitad del número total de sus miembros; pero los presentes el día señalado por la ley, deberán compeler a los ausentes propietarios y suplentes a que concurran dentro de un plazo que no excederá de diez días apercibiendo a los propietarios de que si no lo hacen, se entenderá que renuncian al cargo; y si tampoco asistieren los suplentes, se declarará vacante el puesto y se convocará a nuevas elecciones.
 
-Una vez que quede firme la providencia que fije el monto de la remuneración, el oferente de la prueba o la parte interesada, exhibirá certificado de depósito por el importe de su valor, quedando a resguardo del juzgado hasta en tanto se cumpla con la función encomendada al auxiliar o perito, así como con las obligaciones derivadas de ello, a satisfacción del órgano jurisdiccional.
+Los diputados que falten a diez sesiones en un mes sin causa justificada, perderán el derecho de ejercer sus funciones en el período de sesiones en que ocurra la falta, y se llamará a los suplentes.
 
-###### Artículo 49.
+###### ARTICULO 48.
 
-La remuneración de los auxiliares privados a los que recurra el juzgador, será a cargo del Estado.
+La Ciudad de Oaxaca de Juárez será el lugar donde la Legislatura celebre sus sesiones y donde residirán los Poderes del Estado; y no podrán trasladarse a otro punto, sin que así lo acuerden las tres cuartas partes de los diputados presentes.
+
+###### ARTICULO 49.
+
+Toda resolución que dicte la Legislatura, tendrá el carácter de ley, decreto, iniciativa ante el Congreso de la Unión o acuerdo.
+
+Las leyes, decretos o iniciativas se comunicarán firmados por el Presidente y los Secretarios, y los acuerdos, por los Secretarios solamente.
 
 #### SECCION TERCERA. De la Iniciativa y Formación de las Leyes
 
-###### Artículo 50.
+###### ARTICULO 50.
 
-La remuneración de los auxiliares designados por el juzgador sin intervención de los interesados, será garantizada y cubierta por ambas partes, por mitad, sin perjuicio de lo que resuelva la sentencia definitiva respecto al pago de las costas.
+El derecho de iniciar leyes corresponde:
 
-###### Artículo 51.
+I. A los Diputados;
 
-No habrá lugar al pago de la remuneración, cuando prosperen las objeciones por dolo, negligencia, soborno o simulación contra la actuación del auxiliar.
+II. Al Gobernador del Estado;
 
-###### Artículo 52.
+III. Al Tribunal Superior de Justicia en todo lo administrativo y orgánico judicial;
 
-Los auxiliares tendrán derecho a que se les reembolsen los gastos que justifiquen haber realizado en el desempeño de su función.
+IV. A los Ayuntamientos en los asuntos que incumben a los Municipios, por lo que se refiere a sus respectivas localidades;
 
-###### Artículo 53.
+V. A los ciudadanos del Estado en todos los ramos de la administración.
 
-La suspensión o exclusión de auxiliares, tendrá lugar por actos u omisiones que afecten la imparcialidad y eficiencia, que deban observar en el desempeño de su encargo.
+###### ARTICULO 51.
 
-###### Artículo 54.
+La discusión y aprobación de las leyes se hará con estricta sujeción al Reglamento de debates; pero las iniciativas del Ejecutivo y del Tribunal Superior de Justicia, se pasarán desde luego a Comisión.
 
-La suspensión consistirá en la separación temporal del auxiliar de la lista y se aplicará en los casos siguientes:
+###### ARTICULO 52.
 
-a).- Cuando no se acepte el cargo, por causa injustificada.
+En la discusión de los proyectos de leyes y decretos, el Ejecutivo tendrá la intervención que le asigna la presente Constitución.
 
-b).- Cundo se omita hacer del conocimiento del Pleno, en los términos señalados en el artículo 12 de este Reglamento, los cambios de domicilio, teléfono o correo electrónico, necesarios para su localización.
+###### ARTICULO 53.
 
-###### Artículo 55.
+Aprobado un proyecto, se remitirá al Ejecutivo, quien, si no tuviere observaciones que hacer, lo publicará inmediatamente.
 
-La exclusión consistirá en la baja definitiva de la lista, y tendrá lugar en los siguientes casos:
+Se reputará aprobado por el Ejecutivo todo proyecto que no sea devuelto dentro de diez días útiles, si el número de artículos que lo forman no excede de cien, o dentro de quince si el articulado pasare de ese número; pero si el período de sesiones hubiere de clausurarse corriendo ese término, se entenderá prorrogado para sólo el efecto de resolver sobre las observaciones; en consecuencia, no podrá tratarse ningún otro asunto durante la prórroga.
 
-a) Cuando se compruebe que el auxiliar ha incurrido en falsedad o inexactitud respecto a la declaración de los requisitos exigidos para su inscripción.
+###### ARTICULO 54.
 
-b) Cuando se rehúse a emitir dictamen o informe, o no los presente en término.
+Todo proyecto que sea devuelto por el Ejecutivo con observaciones, sufrirá los trámites de Reglamento. La discusión se limitará a la parte observada. Si la Legislatura aprueba las observaciones por la mayoría absoluta de votos de los diputados presentes, todo el proyecto será ley o decreto; también será ley o decreto el proyecto que sea ratificado por el voto de la mayoría absoluta del número total de diputados; en caso contrario, se considerará desechado y no podrá volver a discusión sino hasta el siguiente período ordinario de sesiones. Si las observaciones fueren aprobadas en parte y en parte desechadas, se publicará todo lo aprobado, si pudiere hacerse sin perjuicio de lo no aprobado.
 
-c) Cuando renuncie al cargo conferido, sin motivo atendible.
+###### ARTICULO 55.
 
-d) Cuando no acuda a las audiencias o no presente, de serle requerido, el informe ampliatorio o complementario dentro del plazo fijado, y;
+En los casos de urgencia notoria calificada por el voto de los dos tercios de los diputados presentes, la Legislatura puede reducir o dispensar los trámites establecidos por el Reglamento de Debates, menos el relativo al dictamen de comisión, el que sólo podrá suprimirse en los casos de obvia resolución, calificada en la misma forma.
 
-e) Cuando medie negligencia, o mal desempeño de sus funciones.
+###### ARTICULO 56.
 
-###### Artículo 56.
+El Secretario General del Despacho o el Subsecretario en su caso, cuando se trate de iniciativa del Ejecutivo o de los Ayuntamientos; y el Magistrado que designe el Tribunal Superior de Justicia, cuando se trate de iniciativa de ese alto Cuerpo, podrán concurrir a las discusiones de la Legislatura, teniendo voz en ellas, pero se ausentarán en el acto de la votación.
 
-La suspensión o exclusión de la lista, se anotará en el expediente del auxiliar de que se trate, agregando copia certificada del acuerdo que al respecto emita el Pleno.
+La votación de las leyes y decretos será nominal.
 
-###### Artículo 57.
+###### ARTICULO 57.
 
-Corresponde al Pleno, la facultad de instruir el procedimiento para suspender o excluir de la lista a los auxiliares.
+Para la aclaración, interpretación, reforma o derogación de las leyes, se observarán los mismos trámites que para su formación.
 
-###### Artículo 58.
+###### ARTICULO 58.
 
-La aplicación de suspensión o exclusión se hará conforme al siguiente procedimiento:
+Todo proyecto que sea aprobado definitivamente será promulgado por el Ejecutivo en la siguiente forma:
 
-I.- Recibida del órgano jurisdiccional la información correspondiente, el Pleno procederá a notificar al auxiliar para que dentro de los tres días, exprese lo que a su interés convenga respecto de la conducta o hecho de que se trate;
+"N.N. Gobernador (aquí el carácter que tenga, si es constitucional, interino, etc.) del Estado Libre y Soberano de Oaxaca, a sus habitantes, hace saber:
 
-II.- Cumplido ese término, la Secretaría dará cuenta al Pleno, con lo manifestado por el auxiliar, en su próxima sesión;
+Que la Legislatura del Estado ha tenido a bien aprobar lo siguiente:
 
-III.- El Pleno analizará lo expresado, en su caso, por el auxiliar, conjuntamente con los datos proporcionados por el Jugador que hubiese hecho la designación y emitirá la resolución que corresponda, cuyo pronunciamiento podrá diferirse hasta en tanto se tenga conocimiento pleno de la causa.
+La (aquí el número ordinal que le corresponda) Legislatura del Estado, decreta:
+
+"(Aquí el texto de la ley o decreto).
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.- (Fecha y firma del Presidente y Secretarios).
+
+Por tanto, mando que se imprima, publique, circule y se le dé el debido cumplimiento.
+
+(Fecha y firma del Gobernador y el Secretario del Despacho)".
 
 #### SECCION CUARTA. De las Facultades de la Legislatura
 
-###### Artículo 59.
+###### ARTICULO 59.
 
-La resolución será notificada personalmente al auxiliar, y en caso de no contar con los datos relativos a su localización, la misma será notificada mediante su publicación en la lista de acuerdos.
+Son facultades de la Legislatura:
 
-###### Artículo 60.
+I. Dictar leyes para la administración del Gobierno interior del Estado, en todos los ramos; interpretarlas, aclararlas, reformarlas y derogarlas;
 
-Notificada la resolución, la Secretaría realizará las anotaciones correspondientes en la lista, y lo hará del conocimiento de los órganos jurisdiccionales.
+II. Arreglar y fijar los límites del Estado, en los términos que señala el artículo 116 de la Constitución Federal;
+
+III. Informar al Congreso de la Unión en los casos a que se refiere el inciso tercero de la fracción III del artículo setenta y tres de la Constitución General, y resolver lo conducente sobre la determinación del propio Congreso, de acuerdo con el inciso sexto de la misma fracción;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
+
+IV. Erigir nuevos municipios dentro de los ya existentes, siempre que los interesados comprueben debidamente que la nueva Institución contará con los elementos suficientes para su sostenimiento, administración y desarrollo y con una población no menor de DIEZ MIL HABITANTES. En este caso la Legislatura oirá la opinión de los Ayuntamientos que resulten afectados;
+
+> <small>(REFORMADA, P.O. 26 DE ENERO DE 1974)</small>
+
+V. Suprimir Municipios siempre que sus rentas no alcancen a cubrir su Presupuesto de Egresos o carezcan de capacidad para manejarse por sí mismos y administrarse a través de su respectivo Ayuntamiento, o cuando los núcleos de población que lo integren, no lleguen a DIEZ MIL HABITANTES, a partir de la fecha en que entre en vigor esta reforma;
+
+VI. Dictar todas las leyes necesarias para el funcionamiento de los Ayuntamientos, con arreglo a las disposiciones relativas de esta Constitución;
+
+VII. Señalar por una ley general los ingresos que deben constituir la Hacienda Municipal, sin perjuicio de decretar los impuestos especiales que cada Ayuntamiento proponga, de acuerdo con las necesidades locales de sus respectivos Municipios;
+
+VIII. Decretar anualmente, a iniciativa del Ejecutivo, los gastos del Estado e imponer para cubrirlos, las contribuciones indispensables, determinando su cuota, duración y modo de recaudarlas;
+
+IX. Examinar y calificar cada año las cuentas de inversión de las rentas generales del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+
+X. Examinar y calificar cada año las cuentas de inversión de las rentas de los Municipios del Estado, y exigir, en su caso, las responsabilidades consiguientes;
+
+XI. Expedir la ley relativa a la creación de la deuda agraria del Estado;
+
+XII. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
+
+XIII. Dar bases generales conforme a las cuales el Ejecutivo pueda concertar empréstitos interiores, y aprobar esos empréstitos;
+
+XIV. Dictar las disposiciones necesarias para liquidar y amortizar las deudas que tuviere el Estado;
+
+XV. Convocar a elecciones de Gobernador y Diputados en los períodos constitucionales o cuando por cualquiera causa hubiere falta absoluta de esos funcionarios;
+
+XVI. Erigirse en Colegio Electoral para hacer la computación de votos en la elección de Gobernador, y hacer la declaración que corresponda;
+
+> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 1950)</small>
+
+XVII. Erigirse en Colegio Electoral para designar Gobernador sustituto o interino en los casos que determine la presente Constitución. Conocer de la ratificación de los nombramientos de Magistrados del Tribunal Superior de Justicia. La Legislatura otorgará o negara su ratificación a dichos nombramientos dentro del término improrrogables de diez días. Si no resuelve en dicho lapso se tendrán por ratificados los nombramientos. En el caso de que no los ratifique, el Ejecutivo hará nueva designación y, de ser también rechazada, se efectuará una tercera designación que surtirá efectos inmediatamente, a reserva de obtener la ratificación de la Legislatura en el siguiente período ordinario de sesiones;
+
+> <small>(REFORMADA, P.O. 28 DE FEBRERO DE 1923)</small>
+
+XVIII. Recibir la protesta de los Diputados, Gobernador y de los demás funcionarios que ella elija o nombre;
+
+XIX. Conceder licencias a sus propios miembros, al Gobernador y a los demás funcionarios y empleados públicos que ella elija o nombre;
+
+XX. Resolver sobre las renuncias de sus propios miembros, del Gobernador y de los demás funcionarios y empleados públicos que ella elija o nombre;
+
+XXI. Calificar las excusas que presente el Procurador General para intervenir en determinado negocio;
+
+XXII. Ratificar los nombramientos de Secretario General del Despacho y Subsecretario que el Ejecutivo hiciere;
+
+XXIII. Llamar a los diputados suplentes conforme a las prevenciones relativas de esta Constitución;
+
+XXIV. Nombrar y remover al Contador Mayor de Glosa, cuyo nombramiento hará saber por medio de un decreto;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XXV. Nombrar y remover, con las limitaciones que establezcan las leyes, a los empleados de su Secretaría y a los de la Contaduría Mayor de Glosa;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XXVI. Crear y suprimir, con las limitaciones que establezcan las leyes, empleos públicos del Estado, y señalar, aumentar o disminuir sus dotaciones;
+
+XXVII. (DEROGADA, P.O. 11 DE FEBRERO DE 1933)
+
+XXVIII. Legislar en los ramos de Educación y Salubridad Públicas;
+
+XXIX. Expedir leyes sobre vías de comunicación y aprovechamiento de aguas y bosques que no sean de jurisdicción federal;
+
+XXX. Autorizar la formación de asociaciones o sociedades cooperativas de productores para que vendan directamente en los mercados extranjeros los productos naturales o industriales de determinada región del Estado, siempre que no se trate de artículos de primera necesidad; y para derogar dichas autorizaciones cuando las necesidades públicas así lo exijan;
+
+XXXI. Expedir leyes encaminadas a combatir el alcoholismo y el abuso de las drogas denominadas heroicas;
+
+> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 1941)</small>
+
+XXXII. Expedir la Ley del Servicio Civil y la Ley General de Pensiones para los Funcionarios y Empleados Públicos del Estado;
+
+XXXIII. Conceder premios y recompensas por servicios eminentes prestados a la Humanidad, a la Patria o al Estado;
+
+XXXIV. Conceder amnistías por delitos políticos de la competencia de los Tribunales del Estado;
+
+XXXV. Erigirse en Gran Jurado para declarar, en su caso, que ha lugar a formación de causa contra funcionarios públicos que gocen de fuero constitucional, por delitos del orden común, y si son o no culpables los propios funcionarios de los delitos oficiales de que fueren acusados;
+
+XXXVI. Establecer tropas permanentes dentro del territorio del Estado; imponer derechos de tonelaje o de importación y exportación marítima, previo el consentimiento del Congreso de la Unión;
+
+XXXVII. Excitar a los Poderes de la Unión a que presten su protección al Estado en los casos señalados en el artículo 122 de la Constitución Federal, aun en el caso de que los perturbadores del orden interior del Estado declaren que su acción no va en contra del Gobierno Federal;
+
+XXXVIII. Determinar el número de ministros de los cultos que debe haber en el Estado, según las necesidades de cada localidad;
+
+XXXIX. Cumplir con las obligaciones legislativas que le impone la Constitución Federal y las que le impongan las leyes generales;
+
+XL. Expedir todas las leyes orgánicas que se deriven de los artículos 27 y 123 de la Constitución Federal;
+
+XLI. Legislar sobre todos los servicios públicos, oficiales y particulares dentro del Estado;
+
+XLII. Legislar sobre todo aquello que la Constitución General y la Particular del Estado, no someten expresamente a las facultades de cualquier otro poder;
+
+XLIII. Formar su Reglamento Interior;
+
+XLIV. Las demás que le confiere esta Constitución.
+
+###### ARTICULO 60.
+
+La Legislatura tiene facultades para pedir el apoyo de los Jefes y Oficiales de la Guardia Nacional del Estado, y éstos la obligación de dárselo, siempre que trate de hacer efectivas sus disposiciones legales y el Ejecutivo se niegue a obedecerlas o a ejecutarlas.
 
 ###### ARTICULO 61.
 
@@ -549,7 +617,7 @@ X. Dictaminar sobre todos los asuntos que queden sin resolución, a efecto de qu
 
 #### SECCION PRIMERA. Del Gobernador del Estado
 
-### CAPÍTULO III. DEL PROCEDIMIENTO PARA LA SELECCIÓN DE ASPIRANTES
+### CAPITULO III. Del Poder Ejecutivo
 
 #### SECCION SEGUNDA. De las Facultades, Obligaciones y Restricciones del Gobernador
 
@@ -833,9 +901,9 @@ El Gobernador del Estado, el Secretario del Despacho y el Subsecretario, durante
 
 El Estado de Oaxaca, para su régimen interior, se divide en Municipios Libres, los que se agrupan en Distritos rentísticos y judiciales, para la mejor administración de justicia y la fácil recaudación de las rentas generales del Estado.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1962)</small>
+> <small>(REFORMADO, 26 DE ENERO DE 1974)</small>
 
-Para tener la categoría de Municipio, se requiere que él o los núcleos de población en conjunto, cuenten por lo menos con cinco mil habitantes y con los elementos suficientes para su sostenimiento, administración y desarrollo.
+Para tener la categoría de Municipio, se requiere que la localidad respectiva cuente por lo menos con DIEZ MIL HABITANTES y con los elementos suficientes para su sostenimiento, administración y desarrollo.
 
 #### SECCION PRIMERA. Del Ejercicio del Poder Judicial
 
@@ -873,7 +941,7 @@ Los ayuntamientos serán asambleas formadas por elección popular directa, se co
 
 > <small>(REFORMADO, P.O. 14 DE NOVIEMBRE DE 1959)</small>
 
-### CAPÍTULO IV. DE LA INTEGRACIÓN, ACTUALIZACIÓN Y VIGENCIA DE LA LISTA DE AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+### CAPITULO IV. Del Poder Judicial del Estado
 
 #### SECCION TERCERA. De los Jueces de Primera Instancia y de los Jurados
 
@@ -981,13 +1049,13 @@ III. Todas las que le confieran las respectivas leyes reglamentarias.
 
 La recaudación de las contribuciones municipales estará a cargo de un Tesorero Municipal nombrado por el Ayuntamiento.
 
-## TÍTULO QUINTO. DE LA DESIGNACIÓN Y EJERCICIO DEL CARGO DE AUXILIAR DE LA ADMINISTRACIÓN DE JUSTICIA
+## TITULO QUINTO. De la Responsabilidad de los Funcionarios del Estado y Municipales
 
 ###### ARTICULO 113.
 
 Todos los miembros del Ayuntamiento y el Tesorero Municipal serán responsables solidariamente de las irregularidades cometidas en el manejo de los fondos municipales y en consecuencia, todos están obligados a vigilar los actos relacionados con la administración de dichos fondos.
 
-## TÍTULO SEXTO. DE LA REMUNERACIÓN DE LOS SERVICIOS DE LOS AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+## TITULO SEXTO. Principios Generales de Administración Pública
 
 ###### ARTICULO 149.
 
@@ -1083,7 +1151,9 @@ Las cuentas de un Ayuntamiento serán glosadas preventivamente por el que lo sub
 
 ### CAPÍTULO I. DEL PROCEDIMIENTO PARA TASAR LA REMUNERACIÓN
 
-## TÍTULO SÉPTIMO. DE LA SUSPENSIÓN Y EXCLUSIÓN DE LA LISTA DE AUXILIARES DE LA ADMINISTRACIÓN DE JUSTICIA
+## TITULO SEPTIMO. De las Adiciones y Reformas a la Constitución
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 5 DE FEBRERO DE 1949)</small>
 
 ###### ARTICULO 164.
 
@@ -1301,7 +1371,7 @@ De las infracciones a las ordenanzas y reglamentos exclusivos del municipio, com
 
 Son aplicables a los funcionarios municipales las disposiciones de los artículos 142, 143 y 144 de esta Constitución.
 
-## ARTÍCULOS TRANSITORIOS
+## TRANSITORIOS
 
 ###### ARTICULO 1°.
 
@@ -1548,6 +1618,16 @@ UNICO.- El presente decreto surtirá sus efectos a partir de la fecha de su publ
 P.O. 30 DE SEPTIEMBRE DE 1972.
 
 Unico.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE DICIEMBRE DE 1973.
+
+###### ARTICULO UNICO.
+
+Este Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 1974.
+
+UNICO.- El presente decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado y no tendrá efecto retroactivo.
 
 ###### ARTÍCULO PRIMERO.
 
