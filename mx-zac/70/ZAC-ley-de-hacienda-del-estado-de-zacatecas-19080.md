@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2003-12-31"
+last_updated: "2004-08-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE AGOSTO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -1429,11 +1429,11 @@ I. Expedición de título profesional o grado, de egresados de instituciones edu
 
 II. Expedición de diplomas a egresados de:
 
-a) Academias y centros de capacitación para el trabajo 1 cuota;
+a) Academias y centros de capacitación para el trabajo 1 cuota
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo medio básico $ 8.00;
+b) Tipo medio básico $ 8.00
 
 III. Expedición de duplicados de certificados de estudios de:
 
@@ -1451,7 +1451,7 @@ c) Nivel medio superior $ 27.50;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) De tipo superior $ 38.50;
+d) De tipo superior $ 38.50.
 
 IV. Práctica de examen extraordinario por materia:
 
@@ -1465,7 +1465,7 @@ b) De nivel medio superior o academias $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior $ 16.50;
+c) De tipo superior $ 16.50.
 
 V. Exámenes a título de suficiencia:
 
@@ -1479,7 +1479,7 @@ b) De educación secundaria, por materia $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) De tipo superior, por materia $ 27.50;
+c) De tipo superior, por materia $ 27.50.
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
@@ -1507,11 +1507,11 @@ b) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-c) Tipo medio superior 6 cuotas;
+c) Tipo medio superior 6 cuotas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-d) Tipo superior 16 cuotas;
+d) Tipo superior 16 cuotas
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1519,9 +1519,7 @@ VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinari
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio
-
-$ 11.00;
+IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio $ 11.00.
 
 X. Reposición de certificados:
 
@@ -1543,15 +1541,17 @@ XI. Compulsa de documentos, por foja: $ 7.70;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $ 25.00;
+XII. Por cualquier otra certificación o expedición de constancia distintas a
+
+las señaladas en las fracciones anteriores: $ 25.00;
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XIII. Por solicitud, estudios y resolución del trámite de reconocimientos de validez de estudios de tipo superior 137 cuotas;
+XIII. Por solicitud, estudios y resolución del trámite de reconocimiento de validez de estudios de tipo superior 137 cuotas.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio de los niveles preescolar y medio superior o equivalente y deformación para el trabajo sea cual fuere la modalidad 15 cuotas;
+XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudios de los niveles preescolar y medio superior o equivalente y de formación para el trabajo sea cual fuere la modalidad 15 cuotas
 
 XV. Acreditación y certificación de conocimiento de tipo elemental:
 
@@ -1565,7 +1565,7 @@ b) Por área $ 11.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Por grado $ 5.50;
+c) Por grado $ 5.50.
 
 XVI. Acreditación y certificación de conocimiento, por materia de:
 
@@ -1579,7 +1579,7 @@ b) Preparatoria $ 16.50;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-c) Tipo superior $ 27.50;
+c) Tipo superior $ 27.50.
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
@@ -1593,11 +1593,11 @@ a) Secundaria, por grado $ 27.50;
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-b) Tipo medio superior 6 cuotas;
+b) Tipo medio superior 6 cuotas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
-c) Tipo superior 16 cuotas;
+c) Tipo superior 16 cuotas
 
 XIX. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
 
@@ -1623,7 +1623,7 @@ XX. Registro de colegio de profesionistas 28 cuotas;
 
 > <small>(REFORMADA, P.O. 1 DE ENERO DE 2003)</small>
 
-XXI. Registro de títulos profesionales $ 16.50;
+XXI. Registro de títulos profesionales $ 16.50.
 
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -1641,11 +1641,11 @@ b) Medio superior $ 38.50;
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad 15 cuotas;
+XXIV. Por solicitud, estudio y resolución del trámite de autorización para impartir educación primaria, secundaria, normal y demás para la información de maestros, sea cual fuere la modalidad. 15 cuotas.
 
 > <small>(ADICIONADA, P.O. 2 DE ENERO DE 2002)</small>
 
-XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial 59 cuotas.
+XXV. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial. 59 cuotas.
 
 ### CAPITULO X. SERVICIOS DE LA DIRECCION DE TRANSPORTE PUBLICO Y VIALIDAD
 
@@ -1957,6 +1957,12 @@ d) Por cada foja excedente correspondiente a asuntos de cualquier año $ 10.00.
 
 II. Certificado de no antecedentes penales 1 cuota.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
+###### ARTICULO 69-A.
+
+El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que presten las autoridades judiciales, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
+
 ## TITULO IV. DE LOS PRODUCTOS
 
 ###### ARTICULO 70.
@@ -2043,6 +2049,14 @@ Los ingresos por productos se determinarán en los actos, convenios, contratos o
 
 Quedan comprendidos dentro de este título los ingresos que el Estado perciba por concepto de multas, recargos, rezagos, gastos de ejecución, donativos, herencias, legados, bienes vacantes, tesoros ocultos, indemnizaciones, reintegros por responsabilidades administrativas, concesiones, fianzas, depósitos, subsidios federales, empréstitos y financiamientos, aportaciones para obras y servicios públicos, ingresos que cubran los municipios, por la administración de impuestos y servicios públicos municipales y aportaciones federales.
 
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
+Incluyen asimismo los ingresos generados con motivo de las actividades que realizan las autoridades judiciales, por concepto de suspensión condicional de la condena, conmutación de la pena, cauciones que se hacen efectivas, multas y reparación de daños por renuncia expresa o tácita de la parte ofendida o derechohabiente.
+
+> <small>(ADICIONADO, P.O. 25 DE AGOSTO DE 2004)</small>
+
+Los ingresos a que se refiere el párrafo anterior, se enterarán en las oficinas recaudadoras de la Secretaría de Finanzas. De conformidad con el convenio que al efecto se suscriba, los montos serán transferidos al Fondo Auxiliar para el mejoramiento de la Administración de Justicia, con independencia del presupuesto anual de egresos que corresponda al Poder Judicial del Estado.
+
 ###### ARTICULO 74.
 
 Los aprovechamientos se harán efectivos, según proceda en cada caso, de acuerdo a la naturaleza y origen del crédito.
@@ -2108,3 +2122,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 31 DE DICIEMBRE DE 2003.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 25 DE AGOSTO DE 2004.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
