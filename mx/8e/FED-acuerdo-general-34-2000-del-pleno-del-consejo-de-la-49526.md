@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-34-2000-del-pleno-del-consejo-de-la-49526"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2000-07-26"
-last_updated: "2001-06-12"
+last_updated: "2005-03-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49526&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2000-07-19"
 
 ACUERDO GENERAL 34/2000 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DE LOS LIBROS DE CONTROL QUE OBLIGATORIAMENTE DEBERAN LLEVAR LOS ORGANOS JURISDICCIONALES DEL PODER JUDICIAL DE LA FEDERACION, ASI COMO SU DESCRIPCION E INSTRUCTIVOS CORRESPONDIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE JUNIO DE 2001.
-
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE REFORMA, VER ARTICULO PRIMERO TRANSITORIO DEL ACUERDO MODIFICATORIO.</small>
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 4 DE MARZO DE 2005.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 26 de julio de 2000.
 
@@ -261,21 +259,27 @@ Delito. En esta columna se deberá especificar de manera clara y concreta, el de
 
 Inculpado. En esta columna se anotarán el nombre o los nombres de las personas en contra de las que se ejercite la acción penal y tratándose de consignación mixta, deberá atenderse a lo que establece el artículo 14 de este acuerdo.
 
+> <small>(REFORMADO PRIMER PARRAFO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 7/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
+
 ###### Artículo 20.
 
-Orden. La columna Orden se dividirá en tres rubros: Aprehensión, comparecencia o presentación; Entrega al M.P. y Ejecución, los que se utilizarán de la siguiente manera:
+Orden. La columna Orden se dividirá en tres rubros: Aprehensión o comparecencia; Entrega al Ministerio Público y Ejecución, los que se utilizarán de la siguiente manera:
 
-I. En el rubro Aprehensión, comparecencia o presentación, se anotará el tipo de estas resoluciones que se hubiere dictado según fuere procedente, su sentido y la fecha de las mismas, asentando las expresiones “Orden de aprehensión librada”, “Orden de aprehensión negada” y su fecha; o bien “Orden de comparecencia librada”, “Orden de comparecencia negada y su fecha y; “Orden de presentación librada” o “negada” y su fecha;
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 7/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
+
+I. En el rubro Aprehensión o comparecencia, se anotará el tipo de estas resoluciones que se hubiere dictado según fuere procedente, su sentido y la fecha de las mismas, asentando las expresiones "Orden de aprehensión librada", "Orden de aprehensión negada" y su fecha; o bien "Orden de comparecencia librada", "Orden de comparecencia negada” y su fecha;
 
 II. En el rubro Entrega al Ministerio Público, se anotará precisamente la fecha en que se entregue la orden al Ministerio Público, para su ejecución; y,
 
-> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 2/2001 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE ENERO DE 2001)</small>
+> <small>(REFORMADA POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 7/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
 
-III. En el rubro Ejecución, se anotará la fecha en que se ponga al reo a disposición del juzgado o se presente con motivo de la orden librada, por lo que, se entenderá que a partir de la misma debe reanudarse el procedimiento.
+III. En el rubro Ejecución, se anotará la fecha en que se ponga al reo a disposición del juzgado con motivo de la orden de aprehensión o comparecencia librada, por lo que, se entenderá que a partir de la misma debe reanudarse el procedimiento.
+
+> <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 7/2005, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 4 DE MARZO DE 2005)</small>
 
 ###### Artículo 21.
 
-Prescripción. En esta columna que solamente se utilizará en el supuesto de que prescriba la acción ejercitada, se asentará la fecha de la resolución que así lo declare.
+Prescripción. En esta columna que solamente se utilizará en el supuesto de que prescriba la acción ejercitada, en los casos de las órdenes de aprehensión y comparecencia, se asentará la fecha de la resolución que así lo declare.
 
 ###### Artículo 22.
 
@@ -2024,3 +2028,9 @@ D.O.F. 12 DE JUNIO DE 2001.
 PRIMERO.- El presente Acuerdo entrará en vigor para todos los órganos jurisdiccionales del Poder Judicial de la Federación a partir del primero de septiembre de dos mil uno.
 
 SEGUNDO.- Publíquese este Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
+
+D.O.F. 4 DE MARZO DE 2005.
+
+PRIMERO.- El presente Acuerdo entrará en vigor a partir de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
