@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-ley-de-fraccionamientos-de-terrenos-del-10275"
 country: "mx"
 rank: "reglamento"
 publication_date: "1959-04-11"
-last_updated: "1975-02-15"
+last_updated: "1976-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA LEY DE FRACCIONAMIENTOS DE TERRENOS DEL ESTADO DE MEXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 15 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE FEBRERO DE 1976.
 
 Reglamento publicado en la Gaceta del Gobierno del Estado de México, el sábado 11 de abril de 1959.
 
@@ -323,6 +323,10 @@ l).- Los demás datos que se consideren pertinentes para el mejor estudio y trá
 
 VI.- Un plano de conjunto, a escala conveniente, en el que se haga la localización del terreno con respecto a las zonas adyacentes.
 
+> <small>(ADICIONADA, G.G. 3 DE FEBRERO DE 1976)</small>
+
+VII.- Comprobar plenamente que los terrenos a fraccionar no pueden ser aprovechados para fines agrícolas, atendiendo a la calidad y características del suelo.
+
 > <small>(REFORMADO, G.G. 15 DE FEBRERO DE 1975)</small>
 
 ###### Artículo 12.
@@ -460,3 +464,7 @@ Dr. JORGE JIMENEZ CANTU
 G.G. 15 DE FEBRERO DE 1975.
 
 ARTICULO TRANSITORIO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en la Gaceta del Gobierno.
+
+G.G. 3 DE FEBRERO DE 1976.
+
+ARTICULO TRANSITORIO.- La presente adición entrará en vigor al día siguiente de su publicación en lo Gaceta del Gobierno del Estado.
