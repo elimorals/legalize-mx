@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-congreso-del-estado-de-morelos-33694"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-27"
-last_updated: "2004-07-30"
+last_updated: "2004-09-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGANICA DEL CONGRESO DEL ESTADO DE MORELOS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE JULIO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 27 de agosto de 2003.
 
@@ -91,9 +91,11 @@ El Congreso del Estado acordará el proyecto de su Presupuesto anual de Egresos,
 
 El Congreso tiene plena autonomía frente a los otros poderes para el ejercicio de su presupuesto anual, así como para organizarse administrativamente con apego a la Constitución Política del Estado.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
 ###### ARTÍCULO 6.
 
-El Congreso del Estado tendrá cada año de ejercicio legislativo dos períodos ordinarios de sesiones. El primer período iniciará el 1° de septiembre y concluirá el 31 de enero, el segundo período iniciara el 1° de abril y concluirá el 31 de julio.
+El Congreso del Estado tendrá cada año de ejercicio legislativo dos períodos ordinarios de sesiones. El primer período iniciará el 1 de septiembre y concluirá el 15 de diciembre, el segundo período iniciará el 1 de febrero y concluirá el 15 de julio.
 
 Durante los recesos del Congreso habrá una diputación permanente.
 
@@ -515,7 +517,9 @@ XIV. Las demás que les confiera esta ley, su reglamento y demás disposiciones 
 
 En la última sesión de cada período ordinario, el Congreso nombrará por escrutinio secreto y el voto de las dos terceras partes de sus integrantes, una Diputación Permanente, conforme a lo dispuesto por el artículo 53 de la Constitución Política del Estado y tendrá las atribuciones que le confieren los artículos 54, 55 y 56 de la misma.
 
-Las sesiones de la Diputación Permanente tendrán lugar por lo menos, una vez a la semana, a convocatoria de su Presidente, pudiendo ser públicas o secretas en los términos del Reglamento.
+> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+Las sesiones de la Diputación Permanente tendrán lugar por lo menos una vez a la semana, exceptuándose en los periodos vacacionales; las sesiones serán convocadas por su Presidente o cuando así se lo solicite la mayoría de los diputados integrantes de la Conferencia para la Dirección y Programación de los Trabajos Legislativos, pudiendo ser públicas o secretas en los términos del Reglamento.
 
 El Presidente de la Diputación Permanente convocará a todos los diputados a Junta Previa a efecto de elegir Mesa Directiva cuando así corresponda.
 
@@ -551,7 +555,11 @@ IV. Impulsar el trabajo de las comisiones para la elaboración y el cumplimiento
 
 V. Autorizar la plantilla del personal y sus movimientos así como el tabulador de sueldos; asimismo, asignar los recursos humanos, materiales y financieros que correspondan a los grupos parlamentarios; y
 
-VI. Las demás que se derivan de esta Ley y de los ordenamientos relativos.
+> <small>(ADICIONADA, P.O. 29 DE SEPTIEMBRE DE 2004)</small>
+
+VI. Autorizar los periodos vacacionales del personal de apoyo del Congreso, que será preferentemente en los periodos de receso de éste y
+
+VII. Las demás que se derivan de esta Ley y de los ordenamientos relativos.
 
 ### CAPÍTULO II. DE LA JUNTA DE COORDINACIÓN POLÍTICA
 
@@ -1494,3 +1502,9 @@ P.O. 30 DE JULIO DE 2004.
 Primero.- El presente Decreto entrará en vigor el mismo día de su aprobación por el Pleno del Congreso.
 
 Segundo.- Para efectos de su divulgación, publíquese en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado Libre y Soberano de Morelos.
+
+P.O. 29 DE SEPTIEMBRE DE 2004.
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+SEGUNDO.- El presente Decreto túrnese al Titular del Poder Ejecutivo para los efectos de su publicación en el Periódico Oficial "Tierra y Libertad" Órgano de difusión del Gobierno del Estado.
