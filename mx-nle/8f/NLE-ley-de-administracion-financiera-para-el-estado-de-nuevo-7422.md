@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-administracion-financiera-para-el-estado-de-nuevo-7422"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-18"
-last_updated: "1995-07-07"
+last_updated: "1996-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7422&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE ADMINISTRACION FINANCIERA PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JULIO DE 1995.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 1996.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 18 de noviembre de 1994.
 
@@ -1189,11 +1189,15 @@ Las entidades a que se refiere el párrafo anterior deberán además proporciona
 
 El Ejecutivo del Estado y sus organismos descentralizados y fideicomisos rendirán su cuenta pública en forma anual al Congreso del Estado, en los términos previstos por la Ley de la Contaduría Mayor de Hacienda.
 
+> <small>(REFORMADO, P.O. 26 DE ENERO DE 1996)</small>
+
 ###### ARTICULO 145.
 
-Anualmente el titular del Ejecutivo del Estado presentará la cuenta pública correspondiente al año fiscal inmediato anterior, al rendir el informe a que se refiere el artículo 57 de la Constitución Política del Estado.
+Dentro de los tres primeros meses de cada año, el titular del Ejecutivo del Estado presentará al Congreso del Estado o a la Diputación Permanente en su caso, la cuenta pública correspondiente al año fiscal inmediato anterior.
 
-El titular del Ejecutivo del Estado rendirá trimestralmente al Congreso del Estado, basado en lo que dispone el artículo 63, fracción XIII, de la Constitución Política del Estado, un informe que formará parte integrante de la cuenta pública anual, sobre las cuentas de cobro e inversión, que comprenda los ingresos percibidos, el ejercicio de los programas previstos en el presupuesto de la Ley de Egresos y los saldos del crédito público autorizado por el Congreso, comprendiendo los períodos de Enero a Marzo, de Abril a Junio, de Julio a Septiembre y de Octubre a Diciembre, a más tardar el día 15 del segundo mes inmediato posterior al período que corresponda.
+El titular del Ejecutivo del Estado rendirá trimestralmente al Congreso del Estado, basado en lo que dispone el artículo 63, fracción XIII, de la Constitución Política del Estado, un informe para su revisión y en su caso aprobación, que formará parte integrante de la cuenta pública anual, sobre las cuentas de origen y aplicación de los recursos públicos, que incluya los ingresos percibidos, el ejercicio de los programas previstos en la Ley de Egresos y los saldos del crédito público autorizado por el Congreso, comprendiendo los períodos de Enero a Marzo, de Abril a Junio, de Julio a Septiembre y de Octubre a Diciembre, a más tardar el día 15 del segundo mes inmediato posterior al período que corresponda.
+
+Las entidades paraestatales mencionadas en el artículo 144 presentarán los informes trimestrales a que se refiere el párrafo anterior, con el objeto de que la Contaduría Mayor de Hacienda inicie sus facultades de revisión y fiscalización.
 
 ###### ARTICULO 146.
 
@@ -1392,3 +1396,7 @@ P.O. 7 DE JULIO DE 1995.
 ###### ARTICULO SEGUNDO
 
 - El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE ENERO DE 1996.
+
+Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
