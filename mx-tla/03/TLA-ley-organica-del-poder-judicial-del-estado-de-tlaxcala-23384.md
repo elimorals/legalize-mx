@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2002-12-19"
+last_updated: "2003-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 2002.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2003.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -69,9 +69,15 @@ El Tribunal, Salas y Juzgados funcionarán todos los días del año, a excepció
 
 Los Secretarios de las Salas y los Juzgados, deberán recibir en su domicilio las promociones de término fatal, fuera del horario normal de actividades; para este efecto se publicará permanentemente, en lugar visible desde el exterior de la oficina correspondiente, el domicilio particular de sus Secretarios.
 
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2003)</small>
+
 ###### Artículo 6.
 
-Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, de manera escalonada y sin afectar el servicio; en ningún caso, en una Sala o Juzgado se permitirá que se ausente más del equivalente al veinte por ciento del personal.
+Los servidores públicos del Poder Judicial gozarán de dos períodos vacacionales anuales, en las fechas que señale la Comisión de Gobierno Interno y Administración del Poder Judicial, suspendiéndose los términos judiciales en dichos periodos. En materia de control constitucional y penal se establecerán guardias de servicio para conocer de asuntos urgentes y términos constitucionales.
+
+Durante los años en que se desarrollen procesos electorales ordinarios o extraordinarios, las vacaciones del personal de la Sala Electoral Administrativa del Poder Judicial, se otorgarán antes del inicio o a la conclusión de estos.
+
+En ningún caso se podrán acumular las vacaciones correspondientes a más de dos años.
 
 ### Capítulo Segundo. De la Competencia Territorial
 
@@ -507,7 +513,7 @@ IV. Ordenar el envío oportuno al Archivo Judicial de los expedientes concluidos
 
 V. Remitir, dentro de los primeros cinco días de cada mes, al Presidente del Tribunal Superior de Justicia, una relación de la radicación y conclusión de los asuntos de su competencia, así como rendir oportunamente los datos estadísticos que le sean requeridos;
 
-VI. Proponer a la Comisión de Gobierno Interno y Administración el programa de vacaciones escalonadas del personal de su Juzgado;
+VI. (DEROGADA, P.O. 1 DE SEPTIEMBRE DE 2003)
 
 VII. Sugerir al Pleno del Tribunal y a la Comisión de Gobierno Interno y Administración, las adecuaciones que estime necesarias para mejorar la Administración de la Justicia, y
 
@@ -1372,3 +1378,9 @@ Las cauciones que garanticen la libertad provisional de los indiciados y procesa
 ###### ARTÍCULO TERCERO.
 
 Se deroga el Artículo Décimo Primero del Punto de Acuerdo que contiene la Fe de Erratas, publicada con fecha 12 de enero del 2002, en el Periódico Oficial del Gobierno del Estado, Tomo LXXXI, Segunda época, Número Extraordinario.
+
+P.O. 1 DE SEPTIEMBRE DE 2003.
+
+Artículo Primero. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. Los servidores públicos del Poder Judicial que hayan disfrutado su periodo vacacional a la entrada en vigor de esta reforma, les corresponderá gozar de su periodo vacacional hasta el segundo periodo en la fecha que al efecto señale la Comisión de Gobierno Interno y Administración del Poder Judicial.
