@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-tribunal-de-lo-contencioso-3349"
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-09-30"
-last_updated: "1991-09-30"
+last_updated: "1994-10-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3349&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE OCTUBRE DE 1994.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el lunes 30 de septiembre de 1991.
 
@@ -31,9 +31,11 @@ REGLAMENTO INTERIOR DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1994)</small>
+
 ###### ARTICULO 1º.
 
-El Tribunal de lo Contencioso Administrativo del Estado de Baja California se rige por las disposiciones contenidas en la Constitución General de la República, Constitución Política del Estado de Baja California, Ley del Tribunal de lo Contencioso Administrativo del Estado, Ley de Responsabilidades de los Servidores Públicos del Estado, el presente reglamento y demás ordenamientos jurídicos aplicables.
+El Tribunal de lo Contencioso Administrativo del Estado de Baja California se rige por las disposiciones contenidas en la Constitución General de la República, Constitución Política del Estado de Baja California, Ley del Tribunal de lo Contencioso Administrativo del Estado, el presente reglamento y demás ordenamientos jurídicos aplicables.
 
 ###### ARTICULO 2º.
 
@@ -177,6 +179,10 @@ I.- Cuidar que los expediente de la Sala de su adscripción sean debidamente fol
 
 II.- Llevar un libro de control en el que se asiente los asuntos que se turnan al actuario, precisando la fecha de entrega y fecha en que sean devueltos por el actuario.
 
+> <small>(ADICIONADA, P.O. 14 DE OCTUBRE DE 1994)</small>
+
+III.- Expedir y certificar constancias que obren en los expedientes de los juicios radicados en la Sala de su adscripción.
+
 ###### ARTICULO 27.
 
 Para ser Jefe de la Unidad Administrativa se requiere:
@@ -227,9 +233,11 @@ Los peritos y demás auxiliares que requiera la administración de la justicia a
 
 ### CAPITULO SEXTO. DEL TRAMITE DE LOS ASUNTOS
 
+> <small>(REFORMADO, P.O. 14 DE OCTUBRE DE 1994)</small>
+
 ###### ARTICULO 32.
 
-La oficialía de partes central recibirá las promociones y correspondencia dirigida al Pleno del Tribunal, Presidencia del Tribunal y Primera sala. Cada oficialía de partes de las Salas o de las oficinas auxiliares ubicadas fuera de la ciudad sede del Tribunal recibirá las promociones y correspondencia dirigida a las mismas. Una vez que se registren las promociones y correspondencia en el libro respectivo, por riguroso orden numérico, se distribuirán en el mismo día, salvo que sean de carácter urgente caso en que se turnarán en forma inmediata.
+La oficialía de partes central, ubicada en la sede del Tribunal, recibirá las promociones y correspondencia dirigida al Pleno, Presidencia y Primera Sala. Cada oficialía de partes de las Salas o de las Oficinas Auxiliares ubicadas fuera de la ciudad sede del Tribunal recibirá las promociones y correspondencia dirigida a las mismas y, además, actuará como oficialía de partes auxiliar del Pleno, para efectos de la recepción de promociones dirigidas al Pleno o a la Presidencia. Una vez que se registren las promociones y correspondencia en el libro respectivo, por riguroso orden numérico, se turnarán o remitirán como corresponda en el mismo día si las circunstancias lo permiten, sin perjuicio de que en casos urgentes se dé aviso a la Presidencia por vía de telefax para los efectos que procedan.
 
 ###### ARTICULO 33.
 
@@ -238,6 +246,10 @@ Cuando la oficialía de partes se encuentre cerrada, sólo el Secretario General
 ###### ARTICULO 34.
 
 Los abogados autorizados en los expedientes podrán, en auxilio del Tribunal, hacer la entrega de las notificaciones por oficio que corresponda a las autoridades demandadas, para lo cual deberá hacerse constar en el expediente la fecha y documentación que se entrega, así como la firma del abogado que la recibe, con la prevención de que dentro del plazo de tres días, deberá devolverse la copia del oficio respectivo, debidamente sellado de recibido por la autoridad notificada. Entre tanto no se reciba dicha copia, no surtirá efectos las notificación.
+
+> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 1994)</small>
+
+Los Actuarios de las Salas estarán autorizados para que, en auxilio de cualquiera de las otras Salas y del Pleno, puedan efectuar notificaciones de las resoluciones recaídas en los juicios radicados en las primeras, así como de las resoluciones emitidas por el Pleno, sin necesidad de requisitoria previa, debiendo anotarse en la razón correspondiente que el Actuario practica la notificación en esa capacidad y conforme al presente precepto.
 
 ###### ARTICULO 35.
 
@@ -290,3 +302,9 @@ LIC. MARTHA I. SOLENO ESCOBAR,
 SECRETARIO GENERAL DE ACUERDOS.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 14 DE OCTUBRE DE 1994.
+
+UNICO.- Las presentes Reformas y Adiciones entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
