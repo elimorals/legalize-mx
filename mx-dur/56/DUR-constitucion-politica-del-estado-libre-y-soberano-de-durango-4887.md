@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1917-11-01"
+last_updated: "1922-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE ENERO DE 1922.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -879,13 +879,15 @@ Las escuelas primarias particulares sólo podrán establecerse sujetándose a la
 
 En los establecimientos oficiales se impartirá gratuitamente la enseñanza.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 1922)</small>
+
 ###### Artículo 5º.
 
-A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.
+A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la Ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo sino por resolución judicial.
 
-Se considera como ilícito, y por lo tanto prohibido, el establecimiento de casas de juego, de suerte o de azar, ya sea que se admita en ellas libremente al público, ya sólo a personas obonadas (sic) o afiliadas.
+Se considera ilícito, y por lo tanto prohibido, el establecimiento de casas de juego, de suerte o de azar, ya sea que se admita en ellas libremente al público, ya sólo a personas abonadas o afiliadas.
 
-En el Estado se necesita titulo legalmente expedido por alguna Facultad o Escuela de la República, para ejercer las profesiones siguientes: Abogacía, Medicina, Cirugía, Obstetricia, Arte Dental, Farmacia, Ingeniería en todos sus ramos, Arquitectura y carrera de Notario. Lo dispuesto en este artículo relativo a las profesiones enumeradas, no tendrá más restricciones o salvedades que las que determinen las leyes respectivas.
+La ley que expida el Congreso del Estado determinará cuáles son las profesiones que necesitan título legal para su ejercicio y las condiciones que deben llenarse para obtenerlo, así como las autoridades que deban expedirlo.
 
 ###### Artículo 6º.
 
@@ -944,3 +946,9 @@ Dada en el Salón de Sesiones del Congroso (sic) Constituyente en la Ciudad de D
 Publíquese, circúlese y comuníquese a quienes corresponda para su exacta observancia.
 
 Victoria de Durango, octubre 6 de 1917.- Domingo Arrieta- El Srio. Int. de Gob., Ing. A. J. Miranda.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE CONSTITUCION.</small>
+
+P.O. 8 DE ENERO DE 1922.
+
+EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE DURANGO.
