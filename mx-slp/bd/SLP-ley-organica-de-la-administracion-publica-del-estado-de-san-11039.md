@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "1997-10-24"
+last_updated: "1999-06-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -367,7 +367,11 @@ XXVII. Presentar las denuncias y querellas correspondientes cuando la Hacienda P
 
 XXVIII. Fungir como fideicomitente de la administración pública estatal en los fideicomisos constituidos por el Ejecutivo, excepto en fideicomisos traslativos de dominio de bienes inmuebles; y
 
-XXIX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JUNIO DE 1999)</small>
+
+XXIX. Presentar ante el Congreso del Estado, la información a que se refiere la fracción VI del artículo 80 de la Constitución Política del Estado, a más tardar dentro de los treinta días siguientes a la culminación del período que se informa, con excepción del último período de cada año cuyo plazo será de noventa días. El incumplimiento de esta disposición será objeto de responsabilidad administrativa, y
+
+XXX. Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
 
 ###### ARTICULO 34.
 
@@ -978,3 +982,9 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. MARTIN CELSO ZAVALA MARTINEZ.
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 16 DE JUNIO DE 1999.
+
+Unico. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
