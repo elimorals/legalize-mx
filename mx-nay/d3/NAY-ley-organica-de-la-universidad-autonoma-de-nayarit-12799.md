@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-de-la-universidad-autonoma-de-nayarit-12799"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-03-09"
-last_updated: "1997-12-31"
+last_updated: "2003-08-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NAY"
 
 LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DE NAYARIT
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE DICIEMBRE DE 1997.
+> <small>N. DE E. LA PRESENTE LEY HA SIDO ABROGADA POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA DE LA UNIVERSIDAD AUTÓNOMA DE NAYARIT, PUBLICADA EN EL PERIODICO OFICIAL EL 23 DE AGOSTO DE 2003.</small>
+
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: ABROGADA.
 
 Ley Publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit el sábado 9 de marzo de 1985.
 
@@ -524,3 +526,19 @@ JOSÉ FÉLIX TORRES HARO.- Rúbrica.
 P.O. 31 DE DICIEMBRE DE 1997.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 23 DE AGOSTO DE 2003.
+
+Artículo Primero.- La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo Segundo.- La presente ley abroga la Ley Orgánica de la Universidad Autónoma de Nayarit, promulgada mediante decreto 6887, publicado el 09 de marzo de 1985, y sus reformas.
+
+Artículo Tercero.- El marco jurídico universitario que emane de esta ley deberá ser reformado y actualizado dentro de un plazo que no exceda de un año, contado a partir de la entrada en vigor de este ordenamiento. En tanto se revisa, estudia y aprueba la nueva legislación interna, continuarán aplicándose los ordenamientos vigentes que no se opongan a la presente ley.
+
+Artículo Cuarto.- La integración y funcionamiento de los órganos o dependencias creados por esta ley, así como la nueva estructura académica y administrativa que ella establece, se creará en un plazo que no deberá exceder de dos años, contados a partir de la entrada en vigor de este ordenamiento. Mientras tanto, continuará funcionando la actual estructura orgánica, en todo lo que no se oponga al objeto de la Universidad.
+
+Artículo Quinto.- Para los efectos a que se refiere el artículo 24, numeral 1, en relación con el periodo de duración de los directores de unidades académicas, se estará a lo siguiente:
+
+a) Los directores que se encuentren desempeñando el primer periodo se ajustarán a lo dispuesto por el artículo 30 de la Ley Orgánica que se abroga por el presente ordenamiento;
+
+b) Por lo que respecta a los directores que cubren su segundo periodo, al que se refiere el artículo 30 de la Ley que se abroga por el presente Decreto, no podrán ser reelectos.
