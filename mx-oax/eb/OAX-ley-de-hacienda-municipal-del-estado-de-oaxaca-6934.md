@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-hacienda-municipal-del-estado-de-oaxaca-6934"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-01"
-last_updated: "1994-09-24"
+last_updated: "1995-09-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6934&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE SEPTIEMBRE DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE SEPTIEMBRE DE 1995.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 1 de septiembre de 1990.
 
@@ -154,6 +154,10 @@ El impuesto anual mínimo sobre la propiedad raíz rústica será de 1 salario m
 ###### ARTICULO 11.
 
 La cuota de este impuesto se causará anualmente y podrá dividirse en seis partes iguales que se pagarán bimestralmente en las oficinas autorizadas por la Tesorería Municipal, durante los meses de enero, marzo, mayo, julio, septiembre y noviembre. Sin embargo, los pagos podrán hacerse por anualidad anticipada en este caso, dichos cargos se harán durante los dos primeros meses del año y tendrán derecho a una bonificación del 10% de la cuota anual que le corresponda pagar al contribuyente. El pago por anualidad anticipada del impuesto predial, no impide el cobro de diferencias que deba hacerse por el municipio por cambio de las bases gravables.
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 1995)</small>
+
+Tratándose de Jubilados, Pensionados y Pensionistas tendrán derecho a una bonificación adicional que será determinada por los Ayuntamientos.
 
 ###### ARTICULO 12.
 
@@ -1182,3 +1186,9 @@ P.O. 24 DE SEPTIEMBRE DE 1994.
 PRIMERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE SEPTIEMBRE DE 1995.
+
+PRIMERO.- Durante el ejercicio fiscal de 1996, los Ayuntamientos del Estado podrán acordar un descuento hasta del 50% del Impuesto Predial, que cause la casa habitación de los Jubilados, Pensionados y Pensionistas, previa comprobación de tal calidad y siempre que habiten físicamente la propiedad objeto del impuesto, a satisfacción plena de los Ayuntamientos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
