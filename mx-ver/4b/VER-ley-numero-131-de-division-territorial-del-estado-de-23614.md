@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-131-de-division-territorial-del-estado-de-23614"
 country: "mx"
 rank: "ley"
 publication_date: "1988-07-14"
-last_updated: "1989-04-01"
+last_updated: "1996-11-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE DIVISION TERRITORIAL DEL ESTADO DE VERACRUZ-LLAVE, PARA LA ELECCION DEL PODER LEGISLATIVO DEL MISMO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 1989.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE NOVIEMBRE DE 1996.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el jueves 14 de julio de 1988.
 
@@ -483,7 +483,7 @@ Tlalixcoyan
 
 Veracruz (área rural)
 
-> <small>(REFORMADO, G.O. 1 DE ABRIL DE 1989)</small>
+> <small>(REFORMADO, G.O. 30 DE NOVIEMBRE DE 1996)</small>
 
 DECIMO NOVENO DISTRITO
 
@@ -496,6 +496,8 @@ Acula
 Alvarado
 
 Amatitlán
+
+Carlos A. Carrillo
 
 Chacaltianguis
 
@@ -640,3 +642,17 @@ DANTE DELGADO RANNAURO
 G.O. 1 DE ABRIL DE 1989.
 
 UNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en la 'Gaceta Oficial' del Estado.
+
+G.O. 30 DE NOVIEMBRE DE 1996.
+
+###### ARTICULO PRIMERO.
+
+El presente DECRETO entrará en vigor al día siguiente de su publicación en la "Gaceta Oficial", órgano del Gobierno del Estado
+
+###### ARTICULO SEGUNDO.
+
+El Concejo de Administración Municipal, realizará sus funciones en el periodo comprendido del 1° de enero al 31 de diciembre de mil novecientos noventa y siete.
+
+###### ARTICULO TERCERO.
+
+Se derogan cualesquiera disposiciones que contravengan el presente DECRETO.
