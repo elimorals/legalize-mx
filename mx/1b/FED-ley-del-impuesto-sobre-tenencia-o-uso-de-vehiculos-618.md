@@ -4,7 +4,7 @@ identifier: "FED-ley-del-impuesto-sobre-tenencia-o-uso-de-vehiculos-618"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "1983-12-30"
+last_updated: "1984-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=618&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1980-12-19"
 
 LEY DEL IMPUESTO SOBRE TENENCIA O USO DE VEHICULOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1984.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación el martes 30 de diciembre de 1980.
 
@@ -53,9 +53,13 @@ Los contribuyentes pagarán el impuesto por año de calendario durante los tres 
 
 Los importadores ocasionales efectuarán el pago del impuesto a que se refiere esta Ley, correspondiente al primer año de calendario en la aduana respectiva en el momento en que los vehículos queden a su disposición en la aduana, recinto fiscal o fiscalizado o en el caso de importación temporal al convertirse en definitiva. Por el segundo y siguientes años de calendario se estará a lo dispuesto en el párrafo anterior.
 
-Los importadores, comerciantes en vehículos, así como los fabricantes, las plantas ensambladoras y sus distribuidores, de vehículos nuevos que enajenen directamente al público, calcularán el impuesto correspondiente al primer año de calendario y lo enterarán en las oficinas autorizadas a más tardar dentro de los quince días siguientes o al siguiente día hábil, si aquel no lo fuera, en que se realice la enajenación, con excepción de los vehículos que estén a su servicio o de sus funcionarios o empleados, caso en el cual el impuesto se pagará dentro de los quince días siguientes a la fecha de inscripción en el Registro Federal de Vehículos.
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-Tratándose de motocicletas y automóviles nuevos, cuya enajenación al público se realice en los últimos 3 meses del año de calendario correspondiente al año de fabricación o al año modelo del vehículo, según se trate, no se pagará el impuesto por dicho año. En el caso de vehículos importados para su venta al público, cuando la enajenación se realice en los últimos 3 meses del año de calendario en el que se hubiere internado al país el vehículo, no se pagará el impuesto por dicho año.
+Las personas físicas o morales que enajenen vehículos nuevos o importados directamente al público, calcularán el impuesto correspondiente al primer año de calendario y lo enterarán en las oficinas autorizadas a más tardar el día 15 del mes siguiente a aquél en que se enajenó el vehículo, para estos efectos se considerará que la enajenación se realiza en el momento en que se entregue el bien al adquirente. En el caso de los vehículos que se asignen al servicio de las personas a que se refiere este párrafo o al de sus funcionarios o empleados, el impuesto se pagará a más tardar dentro de los 15 días siguientes a la fecha en que esto se realice.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+Tratándose de motocicletas y automóviles nuevos cuya enajenación al público se realice en los últimos 3 meses del año de calendario correspondiente al año de fabricación o el año modelo del vehículo, según se trate, no se pagará el impuesto por dicho año. Lo dispuesto en este párrafo y el siguiente, será aplicable a las enajenaciones que se realicen en el año de calendario anterior al año modelo o año de fabricación del vehículo. En el caso de vehículos importados para su venta al público, cuando la enajenación se realice en los últimos 3 meses del año de calendario en el que se hubiere internado al país el vehículo, no se pagará el impuesto por dicho año.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -101,9 +105,9 @@ Tratándose de automóviles, omnibuses, camiones y tractores no agrícolas, tipo
 
 A.- Vehículos destinados al transporte hasta de diez pasajeros:
 
-> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
 
-I.- Tratándose de vehículos de fabricación nacional o importados equiparables o iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de sumar el 0.3% del precio de venta al público de la unidad típica con la cantidad que se obtenga de multiplicar el factor que corresponda a la unidad, determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
+I.- Tratándose de vehículos de fabricación nacional o importados equiparables o iguales a los de fabricación nacional, aun cuando en el extranjero tengan una denominación comercial diferente, el impuesto será la cantidad que resulte de sumar el 1% del precio de venta al público de la unidad típica con la cantidad que se obtenga de multiplicar el factor que corresponda a la unidad, determinado conforme al artículo 6o. de esta Ley, por la cantidad que anualmente establezca el Congreso de la Unión.
 
 II.- Por lo que se refiere a vehículos importados a las zonas libres y a la franja fronteriza del norte del país, de circulación restringida a esas regiones, diferentes a los de fabricación nacional, el impuesto será la cantidad que resulte de multiplicar el monto que anualmente establezca el Congreso de la Unión, por el factor que a continuación se señala:
 
@@ -322,6 +326,12 @@ VI.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial.
 VII.- Las aeronaves monomotoras de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate.
+
+> <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1984)</small>
+
+###### ARTICULO 15-A.
+
+Las autoridades competentes para expedir los certificados de aeronavegabilidad o de inspección de seguridad a embarcaciones, se abstendrán de expedirlo cuando el tenedor o usuario del vehículo no compruebe el pago del impuesto a que se refiere esta Ley, a excepción de los casos en que se encuentre liberado de este pago. De no comprobarse que se ha cumplido con la obligación de pago, dichas oficinas lo harán del conocimiento de las autoridades fiscales.
 
 ### CAPITULO IV. Participaciones a las Entidades Federativas
 
@@ -627,6 +637,10 @@ UNICA 156000 117000 78000
 
 Los contribuyentes del impuesto sobre tenencia o uso de vehículos podrán optar por pagar dicho impuesto por los vehículos de los años modelo que se indican en este artículo, aplicando lo dispuesto por el mismo o conforme a las disposiciones de la Ley del Impuesto sobre Tenencia o Uso de Vehículos.
 
+D.O.F. 31 DE DICIEMBRE DE 1984.
+
+Disposiciones con Vigencia durante el año de 1985
+
 ###### ARTICULO DECIMO OCTAVO.
 
 Para los efectos del cálculo del Impuesto sobre tenencia o uso de vehículos para el año de 1984, se dan a conocer las siguientes cantidades:
@@ -644,3 +658,55 @@ V.- Aeronaves .......... 138,000.00
 VI.- Motocicletas .......... 30,000.00
 
 SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+
+###### ARTICULO DECIMO OCTAVO.
+
+Durante el año de 1985 se aplicarán en materia del Impuesto sobre Tenencia o Uso de Vehículos, las siguientes disposiciones:
+
+I.- Para los efectos del cálculo del impuesto sobre tenencia o uso de vehículos para el año de 1985, se dan a conocer las siguientes cantidades.
+
+A.- Vehículos a que se refiere el artículo 5o. apartado A fracción I de la Ley de la materia .......... $ 1,500.00
+
+B.- Vehículos comprendidos en el artículo 5o. apartado A fracciones II y III de la Ley de la materia .......... 4,800.00
+
+C.- Vehículos a que se refiere el artículo 5o. apartado B de la ley de la materia .......... 5,300.00
+
+D.- Veleros .......... 6,700.00
+
+E.- Embarcaciones distintas de los veleros .......... 30,200.00
+
+F.- Aeronaves .......... 193,200.00
+
+G.- Motocicletas .......... 42,000.00
+
+II.- Para los efectos del cálculo del impuesto sobre tenencia o uso de vehículos para el año de 1985, se aplicará el 0.70% del precio de venta al público de la unidad típica a que hace referencia el artículo 5o. de la Ley de la Materia.
+
+III.- El precio de la unidad típica de los vehículos del año modelo de aplicación de la Ley, así como de los años modelos anteriores a que hace referencia el artículo 6o. apartado "A", fracción I, inciso f) de la Ley del Impuesto Sobre Tenencia o Uso de Vehículos, será el que resulte de aplicar los siguientes factores:
+
+Año Modelo Factor
+
+1985 0.80
+
+1984 1.30
+
+1983 2.35
+
+1982 4.67
+
+1981 6.01
+
+1980 7.80
+
+1979 9.37
+
+1978 10.88
+
+1977 13.13
+
+1976 16.71
+
+## TRANSITORIO
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor el día 1o. de enero de 1985, ...
