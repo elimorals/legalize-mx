@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "1982-02-20"
+last_updated: "1988-11-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CODIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE FEBRERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE NOVIEMBRE DE 1988.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -5161,15 +5161,7 @@ Todo condueño tiene la plena propiedad de la parte alícuota que le corresponde
 
 ###### Artículo 953.
 
-Cuando los diferentes pisos de una casa pertenecieren a distintos propietarios, si los títulos de propiedad no arreglan los términos en que deben contribuir a las obras necesarias, se observarán las reglas siguientes:
-
-I. Las paredes maestras, el tejado y azotea y las demás cosas de uso común, estarán a cargo de todos los propietarios en proporción al valor de su piso;
-
-II. Cada propietario costeará el suelo de su piso;
-
-III. El pavimento del portal, puerta de entrada, patio común y obras de policía, comunes a todos, se costearán a prorrata por todos los propietarios;
-
-IV. La escalera que conduce al piso primero se costeará a prorrata entre todos, excepto el dueño del piso bajo; la que desde el primer piso conduce al segundo, se costeará por todos, excepto por los dueños del piso bajo y del primero, y así sucesivamente.
+(DEROGADO POR EL ARTICULO PRIMERO TRANSITORIO DE LA LEY DE CONDOMINIO DEL ESTADO DE OAXACA, P.O. 5 DE NOVIEMBRE DE 1988)
 
 ###### Artículo 954.
 
@@ -14874,3 +14866,19 @@ P.O. 20 DE FEBRERO DE 1982.
 ###### ARTICULO UNICO.
 
 EL PRESENTE DECRETO ENTRARA EN VIGOR AL DIA SIGUIENTE DE SU PUBLICACION EN EL PERIODICO OFICIAL DEL ESTADO.
+
+P.O. 5 DE NOVIEMBRE DE 1988.
+
+SE TRANSCRIBEN UNICAMENTE LOS ARTICULOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON EL CODIGO.
+
+###### ARTICULO PRIMERO.
+
+Queda derogado el artículo 953 del Código Civil del Estado de Oaxaca, publicado en el Periódico Oficial del Estado, suplemento al número 48 del 30 de noviembre de 1944 así como las demás disposiciones que se le opongan.
+
+###### ARTICULO SEGUNDO.
+
+Si no se violan derechos adquiridos, las disposiciones de esta Ley regirán los efectos jurídicos de los actos realizados con anterioridad a la vigencia de ésta, en caso contrario se regirán por la Legislación Civil bajo cuyas disposiciones nacieron dichos actos.
+
+###### ARTICULO CUARTO.
+
+Esta Ley entrará en vigor al días (sic) siguiente de su publicación en el Periódico Oficial del Estado.
