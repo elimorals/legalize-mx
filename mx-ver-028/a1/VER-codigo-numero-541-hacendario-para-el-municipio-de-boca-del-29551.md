@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-541-hacendario-para-el-municipio-de-boca-del-2955
 country: "mx"
 rank: "codigo"
 publication_date: "2003-02-19"
-last_updated: "2003-02-19"
+last_updated: "2003-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29551&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CODIGO HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RIO, ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE MARZO DE 2003.
 
 Código publicado en el Alcance a la Gaceta Oficial del Estado de Veracruz-Llave, el miércoles 19 de febrero de 2003.
 
@@ -35,9 +35,11 @@ Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha
 
 LA HONORABLE QUINCUAGÉSIMA NOVENA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE, EN USO DE LA FACULTAD QUE LE CONFIEREN LOS ARTÍCULOS 33 FRACCIÓN I Y 38 DE LA CONSTITUCIÓN POLÍTICA LOCAL; 8 FRACCIÓN I Y 47 SEGUNDO PÁRRAFO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO; Y EN NOMBRE DEL PUEBLO, EXPIDE EL SIGUIENTE:
 
+> <small>(REFORMADA SU DENOMINACION POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 CÓDIGO Número 541
 
-HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
+HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 # LIBRO PRIMERO. DISPOSICIONES GENERALES
 
@@ -45,9 +47,11 @@ HACENDARIO PARA EL MUNICIPIO DE BOCA DEL RÍO, ESTADO DE VERACRUZ-LLAVE
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PARRAFO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 1.
 
-Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en el Municipio de Boca del Río del Estado de Veracruz-Llave, y tienen por objeto regular:
+Las disposiciones de este Código son de orden público, interés general y observancia obligatoria en el Municipio de Boca del Río del Estado de Veracruz de Ignacio de la Llave, y tienen por objeto regular:
 
 I. La planeación, programación y presupuestación del gasto público;
 
@@ -77,11 +81,15 @@ En los casos en que el órgano de gobierno sea un Concejo Municipal, le serán a
 
 IV. Cabildo: La forma de reunión del Ayuntamiento, donde se resuelven, de manera colegiada, los asuntos relativos al ejercicio de sus atribuciones de gobierno, políticas y administrativas;
 
-V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+V. Código de Procedimientos Administrativos: El Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave;
 
 VI. Comisión de Hacienda: La Comisión de Hacienda y Patrimonio Municipal del Ayuntamiento;
 
-VII. Congreso: El Congreso del Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+VII. Congreso: El Congreso del Estado de Veracruz de Ignacio de la Llave;
 
 VIII. Contribuyente: Persona física o moral obligada al pago de las contribuciones municipales, al haber actualizado el supuesto previsto por las leyes fiscales;
 
@@ -93,15 +101,23 @@ XI. Erario: Conjunto de recursos monetarios y medios de pago que tiene el Munici
 
 XII. Fisco: La autoridad fiscal u organismo encargado de recaudar o realizar el cobro coactivo de los ingresos del Municipio;
 
-XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
 
-XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz-Llave;
+XIII. Gaceta Oficial: El órgano informativo oficial del Gobierno del Estado de Veracruz de Ignacio de la Llave;
 
-XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XIV. Gobierno del Estado: El Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la Llave;
 
 XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
 
-XVII. Municipio: El Municipio de Boca del Río del Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+XVII. Municipio: El Municipio de Boca del Río del Estado de Veracruz de Ignacio de la Llave;
 
 XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
 
@@ -191,7 +207,9 @@ IV. Los titulares de organismos públicos descentralizados o de empresas de part
 
 V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
-VI. Las que así considera el Código Financiero para el Estado de Veracruz-Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
 
 Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
 
@@ -1943,9 +1961,11 @@ Los sujetos de este impuesto deberán inscribirse en el registro municipal, dent
 
 Cuando un mismo contribuyente realice más de un fraccionamiento deberá registrarlos por separado, con observancia de lo dispuesto en el párrafo anterior.
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 181.
 
-Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz-Llave.
+Lo previsto en este Capitulo se aplicará sin perjuicio de las obligaciones que se deriven de la Ley de Catastro y de la Ley de Desarrollo Regional y Urbano del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 182.
 
@@ -2405,9 +2425,11 @@ Es objeto de los derechos a que se refiere este Capítulo la prestación de los 
 
 Es sujeto de estos derechos el propietario o poseedor del predio que solicite su conexión al sistema de distribución de agua potable o de drenaje, así como quien, con un carácter distinto, haga uso de estos servicios.
 
+> <small>(REFORMADO POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 214.
 
-Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz-Llave.
+Por los servicios que preste directamente el Ayuntamiento, en términos de este capítulo, se causarán los derechos correspondientes, determinados y actualizados por el Cabildo, en acatamiento a las metodologías que al efecto expida el Consejo del Sistema Veracruzano del Agua y en términos de lo dispuesto por el Capítulo VI del Título Cuarto de la Ley de Aguas del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 215.
 
@@ -3617,7 +3639,9 @@ Las entidades someterán a la consideración de la Tesorería las modificaciones
 
 Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz-Llave;
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 20 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
@@ -3893,7 +3917,9 @@ La Contraloría mantendrá actualizados los manuales de normas, políticas, guí
 
 La Contraloría, por cada una de las auditorías que se practiquen, recibirá un informe sobre el resultado de las mismas; estos informes se darán a conocer a los titulares de las dependencias y entidades auditadas para que, en su caso, ejecuten medidas tendientes a mejorar su gestión y el control interno, así como a corregir las desviaciones y deficiencias que se hubieren encontrado.
 
-Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz-Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+Si, como resultado de las auditorías, se advirtieren irregularidades que afecten a la Hacienda Pública Municipal, o contravengan el presente Código, se procederá en los términos de la Ley Orgánica del Municipio Libre, de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave, del Código de Procedimientos Administrativos, y las disposiciones civiles o penales aplicables, según sea el caso.
 
 ###### Artículo 394.
 
@@ -3925,7 +3951,9 @@ El presente Libro tiene por objeto regular la planeación, contratación, ejerci
 
 Las operaciones de financiamiento serán pagaderas en moneda y territorio nacionales, en cumplimiento de los requisitos que en materia federal y estatal existan sobre el particular.
 
-Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz-Llave.
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+Las operaciones de financiamiento que se otorguen con garantía del Estado, se regirán por el Código Financiero para el Estado de Veracruz de Ignacio de Llave.
 
 ###### Artículo 398.
 
@@ -4237,9 +4265,11 @@ VII. Las variaciones de los endeudamientos.
 
 El número progresivo y la fecha de inscripción en el Registro de Deuda Pública Municipal darán preferencia a los acreditantes para los efectos de exigibilidad en el pago de las obligaciones.
 
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
 ###### Artículo 430.
 
-El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz-Llave.
+El Congreso, por conducto de la dependencia encargada del Registro, expedirá a todos aquellos que acrediten su interés jurídico, las certificaciones que soliciten respecto de las obligaciones inscritas en el Registro de Deuda Pública Municipal del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 431.
 
@@ -4271,7 +4301,9 @@ Las operaciones deberán estar debidamente inscritas en el registro de la Secret
 
 En todos los casos en que se afecten participaciones, el Ayuntamiento, previa autorización del Congreso, podrá solicitar a la Secretaría de Finanzas y Planeación del Gobierno del Estado, que en su nombre y representación realice los pagos de las amortizaciones de operaciones de endeudamiento convenidas, descontando dichos montos de las participaciones que en ingresos federales le correspondan al Municipio.
 
-Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz-Llave.
+> <small>(REFORMADA POR ARTICULOS TERCERO Y CUARTO TRANSITORIOS DEL DECRETO CONSTITUCIONAL NUMERO 547, G.O. 18 DE MARZO DE 2003)</small>
+
+Para todo lo no previsto en este Libro se estará a lo que señale el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
 
 # LIBRO SEXTO. DE LOS BIENES MUNICIPALES
 
@@ -4692,3 +4724,23 @@ A t e n t a m e n t e
 Licenciado Miguel Alemán Velazco
 
 Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+G.O. 18 DE MARZO DE 2003.
+
+PRIMERO. El presente Decreto iniciará su vigencia a los treinta días naturales siguientes al de su publicación, excepto en lo dispuesto por los artículos 1 y 45, que comenzarán su vigencia al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. A partir del inicio de la entrada en vigor del presente Decreto, toda publicación oficial de la Constitución Local tendrá la denominación de "Constitución Política del Estado de Veracruz de Ignacio de la Llave".
+
+TERCERO. En todas las leyes, decretos, códigos u ordenamientos estatales de observancia general que se expidan, promulguen o publiquen con posterioridad al inicio de la vigencia del presente Decreto de Reforma Constitucional, se añadirá la expresión: "... Estado de Veracruz de Ignacio de la Llave".
+
+CUARTO. Para los efectos constitucionales y legales procedentes, todas las leyes, decretos, códigos u ordenamientos estatales de observancia general, vigentes al momento de la entrada en vigor del presente Decreto y que en su denominación contengan la expresión "... Estado de Veracruz-Llave", se entenderán referidas al "... Estado de Veracruz de Ignacio de la Llave".
+
+QUINTO. Los poderes del Estado, los organismos autónomos, los ayuntamientos y las entidades de su administración pública que a la entrada en vigor del presente Decreto contaren con recursos materiales y técnicos con la leyenda "... del Estado Libre y Soberano de Veracruz-Llave", agotarán su existencia antes de ordenar su reabastecimiento.
+
+SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+SEPTIMO. El Congreso del Estado, dentro de los seis meses siguientes a la entrada en vigor de este Decreto, adecuará las leyes relativas al contenido del mismo.
+
+OCTAVO. Publíquese en la Gaceta Oficial, órgano del Gobierno del Estado.
