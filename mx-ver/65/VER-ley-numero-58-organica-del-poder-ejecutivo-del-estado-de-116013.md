@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2001-01-29"
+last_updated: "2001-09-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 58 ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2001.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE SEPTIEMBRE DE 2001.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -361,9 +361,13 @@ XXIII. Coordinar, dirigir y vigilar las actividades de las Juntas de Mejoramient
 
 XXIV. Organizar y mantener actualizado el Archivo General del Gobierno del Estado, así como del Registro Público de la Propiedad y del Comercio;
 
-XXV. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal, y elaborar los programas de readaptación social de sentenciados;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXVI. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+XXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+XXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -397,13 +401,13 @@ XXXIII. Fomentar el desarrollo de la cultura política en la Entidad;
 
 XXXIV. Coordinar las acciones de las dependencias y entidades de la administración pública con las autoridades federales, en materia de protección al consumidor;
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXXV. Coordinar, dirigir y vigilar la política estatal en materia de prevención del delito y readaptación social, de conformidad con las leyes de la materia;
+XXXV. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
-> <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXXVI. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento; y
+XXXVI. (DEROGADA, G.O. 7 DE SEPTIEMBRE DE 2001)
 
 > <small>(REFORMADA, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -413,11 +417,13 @@ XXXVII. Vigilar, en el ámbito estatal, la exacta aplicación de las disposicion
 
 De la Secretaría de Seguridad Pública
 
-> <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
 
 ###### Artículo 18 Bis.
 
-La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
+La Secretaría de Seguridad Pública es la dependencia encargada de coordinar, dirigir y vigilar la política estatal en materia de seguridad pública y privada, prevención y readaptación social, tránsito, transporte, protección civil y de auxilio en caso de desastre, de conformidad con las leyes de la materia.
 
 > <small>(ADICIONADO, G.O. 29 DE ENERO DE 2001)</small>
 
@@ -451,9 +457,41 @@ XII. Autorizar, en el ámbito de su competencia y en términos de la licencia co
 
 XIII. Cumplimentar las solicitudes de auxilio de la fuerza pública que le presenten las autoridades judiciales;
 
-XIV. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en casos de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XV. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado.
+> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XIV. Proveer lo conducente para la ejecución de las penas y medidas de seguridad impuestas por las autoridades judiciales, así como la vigilancia y control de las personas que se encuentren cumpliendo una condena a disposición del Ejecutivo Estatal, y elaborar los programas de readaptación social de sentenciados;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XV. Administrar los centros de readaptación social y tramitar por acuerdo del Gobernador del Estado, las solicitudes de extradición, amnistía, indulto, libertad anticipada y traslado de procesados y sentenciados;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XVI. Coordinar, dirigir y vigilar la política estatal en materia de prevención y readaptación social, de conformidad con las leyes de la materia;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XVII. Custodiar a los individuos sujetos a reclusión y resguardar los centros estatales destinados a su internamiento;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XVIII. Colaborar, cuando así lo soliciten, con las autoridades federales, estatales o municipales, en la protección de la integridad física de las personas y en la preservación de sus bienes, en caso de peligro o amenaza, por situaciones que impliquen violencia o riesgo inminente; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, G.O. 7 DE SEPTIEMBRE DE 2001)</small>
+
+XIX. Autorizar, supervisar, verificar, ratificar, regular y controlar los servicios de seguridad privada en el Estado.
 
 De la Secretaría de Finanzas y Planeación
 
@@ -1354,3 +1392,13 @@ Quinto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia es
 Sexto. En tanto se expiden las normas reglamentarias correspondientes, seguirán siendo aplicables, en lo que no se opongan a este Decreto, los reglamentos en vigor.
 
 Séptimo. Para efectos de lo previsto en el artículo 71, fracción XI, inciso h) de la Constitución Política del Estado de Veracruz-Llave y 35, fracción XXV, inciso h) de la Ley Orgánica del Municipio Libre, los Ayuntamientos podrán asumir la prestación del servicio público de tránsito, de conformidad con lo dispuesto por el artículo Tercero Transitorio del Decreto por el que se declaró reformado y adicionado el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, publicado en el Diario Oficial de la Federación el veintitrés de diciembre de mil novecientos noventa y nueve.
+
+G.O. 7 DE SEPTIEMBRE DE 2001.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 26 QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+
+PRIMERO. Con objeto de adecuar las disposiciones legales en la materia, como consecuencia de esta reforma, el presente Decreto entrará en vigor a partir del 16 de diciembre del presente año.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El personal, así como los recursos materiales y financieros destinados a las funciones de prevención y readaptación social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Seguridad Pública.
