@@ -4,7 +4,7 @@ identifier: "CFPC"
 country: "mx"
 rank: "codigo"
 publication_date: "1943-02-24"
-last_updated: "1943-02-24"
+last_updated: "1988-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CFPC"
 
 CODIGO FEDERAL DE PROCEDIMIENTOS CIVILES
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 12 DE ENERO DE 1988.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el miércoles 24 de febrero de 1943.
 
@@ -598,6 +598,10 @@ La ampliación a que se refiere el párrafo anterior sólo puede presentarse una
 
 Dos o más litigios deben acumularse cuando la decisión de cada uno exige la comprobación, la constitución o la modificación de relaciones jurídicas, derivadas, en todo o en parte, del mismo hecho, el cual tiene necesariamente que comprobarse en todo caso, o tienden en todo o en parte al mismo efecto, o cuando, en dos o más juicios, debe resolverse, total o parcialmente, una misma controversia. Para que proceda la acumulación, es necesario que los juicios no estén para verificarse la audiencia final de la primera instancia. La acumulación se hará del más nuevo al más antiguo.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+La acumulación no procede respecto de procesos que se ventilen en el extranjero.
+
 ###### ARTICULO 73.
 
 Si los juicios se encuentran en el mismo tribunal, la acumulación puede ordenarse de oficio o a petición de parte, por el procedimiento incidental.
@@ -670,9 +674,19 @@ El que afirma que otro contrajo una liga jurídica, sólo debe probar el hecho o
 
 Ni la prueba, en general, ni los medios de prueba establecidos por la ley, son renunciables.
 
+(REFORMADO, D.O.F. 12 DE ENERO DE 1988).
+
 ###### ARTICULO 86.
 
-Sólo los hechos están sujetos a prueba; el derecho lo estará únicamente cuando se funde en leyes extranjeras o en usos, costumbres o jurisprudencia.
+Sólo los hechos estarán sujetos a prueba, así como los usos o costumbres en que se funde el derecho.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 86 Bis.
+
+El tribunal aplicará el derecho extranjero tal como lo harían los jueces o tribunales del Estado cuyo derecho resultare aplicable, sin perjuicio de que las partes puedan alegar la existencia y contenido del derecho extranjero.
+
+Para informarse del texto, vigencia, sentido y alcance del derecho extranjero, el tribunal podrá valerse de informes oficiales al respecto, los que podrá solicitar al Servicio Exterior Mexicano, así como disponer y admitir las diligencias probatorias que considere necesarias o que ofrezcan las partes.
 
 ###### ARTICULO 87.
 
@@ -934,9 +948,7 @@ Los documentos públicos expedidos por autoridades de la Federación, de los Est
 
 ###### ARTICULO 131.
 
-Para que hagan fe, en la República, los documentos públicos procedentes del extranjero, deberán presentarse debidamente legalizados por las autoridades diplomáticas o consulares, en los términos que establezcan las leyes relativas.
-
-En caso de imposibilidad para obtener la legalización a que se refiere el párrafo anterior, se aplicará lo dispuesto en el primer párrafo del artículo 213.
+(DEROGADO, D.O.F. 12 DE ENERO DE 1988)
 
 > <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
 
@@ -1966,23 +1978,9 @@ Los exhortos y despachos que se reciban, se proveerán dentro de los tres días 
 
 Para ser diligenciados los exhortos de los tribunales de la República, no se requiere la previa legalización de las firmas del tribunal que los expida; pero, los de los tribunales del fuero local, se remitirán, a su destino, por conducto del más alto tribunal de justicia de la entidad.
 
-> <small>(F. DE E., D.O.F. 13 DE MARZO DE 1943)</small>
-
 ###### ARTICULO 302.
 
-Los exhortos que se remitan al extranjero o se reciban de él se ajustarán a lo dispuesto en los tratados o convenios internacionales.
-
-A falta de tratado o convenio, se aplicarán las reglas siguientes:
-
-I.- Los exhortos se remitirán, por la vía diplomática, al lugar de su destino. Las firmas de las autoridades que los expidan serán legalizadas por el Secretario de Gobernación, y la de este funcionario por el Secretario de Relaciones Exteriores.
-
-II.- No será necesaria la legalización, si las leyes o prácticas del país a cuyo tribunal se dirige el exhorto no establecen ese requisito para documentos de igual clase;
-
-III.- Respecto de las naciones cuya legislación lo autorice, el exhorto se remitirá directamente, por el tribunal o juez exhortante de la República, al exhortado, sin más legalización que la exigida por las leyes del país en el cual se deba cumplir.
-
-IV.- Los exhortos que se dirijan a los tribunales de la República, podrán enviarse directamente, por el tribunal o juez exhortante, al exhortado, bastando que sean legalizados por el ministro o cónsul mexicano residente en la nación o lugar del tribunal exhortante, y
-
-V.- La práctica de diligencias en países extranjeros podrá también encomendarse a los secretarios de Legación y a los agentes consulares de la República, si lo pidiere la parte que las promueva, caso en el cual el exhorto, legalizado por la Secretaría de Gobernación, se remitirá a su destino, por conducto de la de Relaciones.
+(DEROGADO, D.O.F. 12 DE ENERO DE 1988)
 
 ### CAPITULO III. Notificaciones
 
@@ -2774,7 +2772,7 @@ II.- Cuando judicialmente se haya declarado nula la enajenación por la que adqu
 
 ###### ARTICULO 428.
 
-En los casos en que deban ejecutarse, por los tribunales mexicanos, las sentencias dictadas en país extranjero, el tribunal requerido resolverá previamente si la sentencia es o no contraria a las leyes de la República, a los tratados o a los principios de derecho internacional. En caso afirmativo, se devolverá el exhorto, con la expresión de los motivos que impidan la ejecución de la sentencia.
+(DEROGADO, D.O.F. 12 DE ENERO DE 1988)
 
 ### CAPITULO IV. Oposición de terceros a la ejecución
 
@@ -3540,6 +3538,302 @@ Las informaciones se protocolizarán en la Notaría que designe el promovente.
 
 En ningún caso se admitirán, en jurisdicción voluntaria, informaciones de testigos sobre hechos que fueren materia de un juicio comenzado.
 
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+# LIBRO CUARTO. De la Cooperación Procesal Internacional
+
+> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+## TITULO UNICO
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 543.
+
+En los asuntos del orden federal, la cooperación judicial internacional se regirá por las disposiciones de este Libro y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 544.
+
+En materia de litigio internacional, las dependencias de la Federación y de las Entidades Federativas estarán sujetas a las reglas especiales previstas en este Libro.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 545.
+
+La diligenciación por parte de tribunales mexicanos de notificaciones, recepción de pruebas u otros actos de mero procedimiento, solicitados para surtir efectos en el extranjero no implicará en definitiva el reconocimiento de la competencia asumida por el tribunal extranjero, ni el compromiso de ejecutar la sentencia que se dictare en el procedimiento correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 546.
+
+Para que hagan fe en la República los documentos públicos extranjeros, deberán presentarse legalizados por las autoridades consulares mexicanas competentes conforme a las leyes aplicables. Los que fueren transmitidos internacionalmente por conducto oficial para surtir efectos legales, no requerirán de legalización.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 547.
+
+Las diligencias de notificaciones y de recepción de pruebas en territorio nacional, para surtir efectos en el extranjero, podrán llevarse a cabo a solicitud de parte.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 548.
+
+La práctica de diligencias en país extranjero para surtir efectos en juicios que se tramiten ante tribunales nacionales, podrá encomendarse a los miembros del Servicio Exterior Mexicano por los tribunales que conozcan del asunto, caso en el cual dichas diligencias deberán practicarse conforme a las disposiciones de este Código dentro de los límites que permita el derecho internacional.
+
+En los casos en que así proceda, dichos miembros podrán solicitar a las autoridades extranjeras competentes, su cooperación en la práctica de las diligencias encomendadas.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO II. De los Exhortos o Cartas Rogatorias Internacionales
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 549.
+
+Los exhortos que se remitan al extranjero o que se reciban de él se ajustarán a lo dispuesto por los artículos siguientes, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 550.
+
+Los exhortos que se remitan al extranjero serán comunicaciones oficiales escritas que contendrán la petición de realización de las actuaciones necesarias en el proceso en que se expidan. Dichas comunicaciones contendrán los datos informativos necesarios y las copias certificadas, cédulas, copias de traslado y demás anexos procedentes según sea el caso.
+
+No se exigirán requisitos de forma adicionales respecto de los exhortos que provengan del extranjero.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 551.
+
+Los exhortos o cartas rogatorias podrán ser transmitidos al órgano requerido por las propias partes interesadas, por vía judicial, por intermedio de los funcionarios consulares o agentes diplomáticos o por la autoridad competente del Estado requirente o requerido según sea el caso.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 552.
+
+Los exhortos provenientes del extranjero que sean transmitidos por conductos oficiales no requerirán legalización y los que se remitan al extranjero sólo necesitarán de la legalización exigida por las leyes del país en donde se deban de diligenciar.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 553.
+
+Todo exhorto internacional que se reciba del extranjero en idioma distinto del español deberá acompañarse de su traducción. Salvo deficiencia evidente u objeción de parte, se estará al texto de la misma.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 554.
+
+Los exhortos internacionales que se reciban sólo requerirán homologación cuando implique ejecución coactiva sobre personas, bienes o derechos, en cuyo caso se aplicará lo dispuesto por el Capítulo Sexto de este Libro. Los exhortos relativos a notificaciones, recepción de pruebas y a otros asuntos de mero trámite se diligenciarán sin formar incidente.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 555.
+
+Los exhortos internacionales que se reciban serán diligenciados conforme a las leyes nacionales.
+
+Sin perjuicio de lo anterior, el tribunal exhortado podrá conceder excepcionalmente la simplificación de formalidades o la observancia de formalidades distintas a las nacionales, a solicitud del juez exhortante o de la parte interesada, si esto no resulta lesivo al orden público y especialmente a las garantías individuales; la petición deberá contener la descripción de las formalidades cuya aplicación se solicite para la diligenciación del exhorto.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 556.
+
+Los tribunales que remitan al extranjero o reciban de él, exhortos internacionales, los tramitarán por duplicado y conservarán un ejemplar para constancia de lo enviado, recibido y actuado.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO III. Competencia en materia de actos procesales
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 557.
+
+Las notificaciones, citaciones y emplazamientos a las dependencias de la Federación y de las Entidades Federativas, provenientes del extranjero se harán por conducto de las autoridades federales que resulten competentes por razón del domicilio de aquéllas.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 558.
+
+Las diligencias a que se refiere el artículo anterior y el artículo 545 se llevará a cabo por el tribunal del domicilio de quien vaya a ser notificado, de quien vaya a recibirse la prueba o donde se encuentre la cosa según sea el caso.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO IV. De la Recepción de las Pruebas
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 559.
+
+Las dependencias de la Federación y de las Entidades Federativas y sus servidores públicos, estarán impedidos de llevar a cabo la exhibición de documentos o copias de documentos existentes en archivos oficiales bajo su control en México; se exceptúan los casos en que tratándose de asuntos particulares, documentos o archivos personales lo permita la ley y cuando a través del desahogo de un exhorto o carta rogatoria así lo ordene el tribunal mexicano.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 560.
+
+En materia de recepción de prueba en litigios que se ventilen en el extranjero, las embajadas, consulados y miembros del Servicio Exterior Mexicano estarán a lo dispuesto en los tratados y convenciones de los que México sea parte y a lo dispuesto en la Ley Orgánica del Servicio Exterior Mexicano, su Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 561.
+
+La obligación de exhibir documentos y cosas en procesos que se sigan en el extranjero no comprenderá la de exhibir documentos o copias de documentos identificados por características genéricas.
+
+En ningún caso podrá un tribunal nacional ordenar ni llevar a cabo la inspección general de archivos que no sean de acceso al público, salvo en los casos permitidos por las leyes nacionales.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 562.
+
+Cuando se solicitare el desahogo de prueba testimonial o de declaración de parte para surtir efectos en un proceso extranjero, los declarantes podrán ser interrogados verbal y directamente en los términos del artículo 173 de este Código.
+
+Para ello será necesario que se acredite ante el tribunal del desahogo, que los hechos materia del interrogatorio están relacionados con el proceso pendiente y que medie solicitud de parte o de la autoridad exhortante.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 563.
+
+Para los efectos del artículo 543, los servidores públicos de las dependencias de la federación y de las entidades federativas, estarán impedidos de rendir declaraciones en procedimientos judiciales y desahogar prueba testimonial con respecto a sus actuaciones en su calidad de tales. Dichas declaraciones deberán hacerse por escrito cuando se trate de asuntos privados, y cuando así lo ordene el juez nacional competente.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO V. Competencia en Materia de Ejecución de Sentencias
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 564.
+
+Será reconocida en México la competencia asumida por un tribunal extranjero para los efectos de la ejecución de sentencias, cuando dicha competencia haya sido asumida por razones que resulten compatibles o análogas con el derecho nacional, salvo que se trate de asuntos de la competencia exclusiva de los tribunales mexicanos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 565.
+
+No obstante lo previsto en el artículo anterior, el tribunal nacional reconocerá la competencia asumida por el extranjero si a su juicio éste hubiera asumido dicha competencia para evitar una denegación de justicia, por no existir órgano jurisdiccional competente. El tribunal mexicano podrá asumir competencia en casos análogos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 566.
+
+También será reconocida la competencia asumida por un órgano jurisdiccional extranjero designado por convenio de las partes antes del juicio, si dadas las circunstancias y relaciones de las mismas, dicha elección no implica de hecho impedimento o denegación de acceso a la justicia.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 567.
+
+No se considerará válida la cláusula o convenio de elección de foro, cuando la facultad de elegirlo opere en beneficio exclusivo de alguna parte pero no de todas.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 568.
+
+Los tribunales nacionales tendrán competencia exclusiva para conocer de los asuntos que versen sobre las siguientes materias:
+
+I.- Tierras y aguas ubicadas en el territorio nacional, incluyendo el subsuelo, espacio aéreo, mar territorial y plataforma continental, ya sea que se trate de derechos reales, de derechos derivados de concesiones de uso, exploración, explotación o aprovechamiento, o de arrendamiento de dichos bienes;
+
+II.- Recursos de la zona económica exclusiva o que se relacionen con cualquiera de los derechos de soberanía sobre dicha zona, en los términos de la Ley Federal del Mar;
+
+III.- Actos de autoridad o atinentes al régimen interno del Estado y de las dependencias de la Federación y de las entidades federativas;
+
+IV.- Régimen interno de las embajadas y consulados de México en el extranjero y sus actuaciones oficiales; y
+
+V.- En los casos en que lo dispongan así otras leyes.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE ENERO DE 1988)</small>
+
+### CAPITULO VI. Ejecución de Sentencias
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 569.
+
+Las sentencias, laudos arbitrales privados y demás resoluciones jurisdiccionales extranjeras tendrán eficacia y serán reconocidos en la República en todo lo que no sea contrario al orden público interno en los términos de este Código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+Tratándose de sentencias, laudos o resoluciones jurisdiccionales que sólo vayan a utilizarse como prueba ante tribunales mexicanos, será suficiente que los mismos llenen los requisitos necesarios para ser considerados como auténticos.
+
+Los efectos que las sentencias o resoluciones jurisdiccionales y laudos arbitrales privados extranjeros produzcan en el territorio nacional, estarán regidos por lo dispuesto en el Código Civil, por este Código y demás leyes aplicables.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 570.
+
+Las sentencias, resoluciones jurisdiccionales y laudos arbitrales privados extranjeros se cumplirán coactivamente en la República, mediante homologación en los términos de este Código y demás leyes aplicables, salvo lo dispuesto por los tratados y convenciones de los que México sea parte.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 571.
+
+Las sentencias, laudos arbitrales privados y resoluciones jurisdiccionales dictados en el extranjero, podrán tener fuerza de ejecución si cumplen con las siguientes condiciones:
+
+I.- Que se hayan satisfecho las formalidades previstas en este Código en materia de exhortos provenientes del extranjero;
+
+II.- Que no hayan sido dictados como consecuencia del ejercicio de una acción real;
+
+III.- Que el juez o tribunal sentenciador haya tenido competencia para conocer y juzgar el asunto de acuerdo con las reglas reconocidas en la esfera internacional que sean compatibles con las adoptadas por este Código;
+
+IV.- Que el demandado haya sido notificado o emplazado en forma personal a efecto de asegurarle la garantía de audiencia y el ejercicio de sus defensas;
+
+V.- Que tengan el carácter de cosa juzgada en el país en que fueron dictados, o que no exista recurso ordinario en su contra;
+
+VI.- Que la acción que les dio origen no sea materia de juicio que esté pendiente entre las mismas partes ante tribunales mexicanos y en el cual hubiere prevenido el tribunal mexicano o cuando menos que el exhorto o carta rogatoria para emplazar hubieren sido tramitados y entregados a la Secretaría de Relaciones Exteriores o a las autoridades del estado donde deba practicarse el emplazamiento. La misma regla se aplicará cuando se hubiera dictado sentencia definitiva;
+
+VII.- Que la obligación para cuyo cumplimiento se haya procedido no sea contraria al orden público en México; y
+
+VIII.- Que llenen los requisitos para ser considerados como auténticos.
+
+No obstante el cumplimiento de las anteriores condiciones, el tribunal podrá negar la ejecución si se probara que en el país de origen no se ejecutan sentencias o laudos extranjeros en casos análogos.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 572.
+
+El exhorto del Juez o tribunal requirente deberá acompañarse de la siguiente documentación:
+
+I.- Copia auténtica de la sentencia, laudo o resolución jurisdiccional;
+
+II.- Copia auténtica de las constancias que acrediten que se cumplió con las condiciones previstas en las fracciones IV y V del artículo anterior;
+
+III.- Las traducciones al idioma español que sean necesarias al efecto; y
+
+IV.- Que el ejecutante haya señalado domicilio para oír notificaciones en el lugar del tribunal de la homologación.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 573.
+
+Es tribunal competente para ejecutar una sentencia, laudo o resolución jurisdiccional proveniente del extranjero, el del domicilio del ejecutado, o en su defecto, el de la ubicación de sus bienes en la República.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 574.
+
+El incidente de homologación de sentencia, laudo o resolución extranjera se abrirá con citación personal al ejecutante y al ejecutado, a quienes se concederá término individual de nueve días hábiles para exponer defensas y para ejercitar los derechos que les correspondieren; y en el caso de que ofrecieren pruebas que fueren pertinentes, se fijará fecha para recibir las que fueren admitidas, cuya preparación correrá exclusivamente a cargo del oferente salvo razón fundada. En todos los casos se dará intervención al Ministerio Público para que ejercite los derechos que le correspondiere.
+
+La resolución que se dicte será apelable en ambos efectos si se denegare la ejecución, y en el efecto devolutivo si se concediere.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 575.
+
+Ni el Tribunal de primera instancia ni el de apelación podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre las motivaciones o fundamentos de hecho o de derecho en que se apoye, limitándose a examinar su autenticidad y si deba o no ejecutarse conforme a lo previsto en el derecho nacional.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 576.
+
+Todas las cuestiones relativas a embargo, secuestro, depositaría, avalúo, remate y demás relacionadas con la liquidación y ejecución coactiva de sentencia dictada por tribunal extranjero, serán resueltas por el tribunal de la homologación.
+
+La distribución de los fondos resultantes del remate quedará a disposición del juez sentenciador extranjero.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 1988)</small>
+
+###### ARTICULO 577.
+
+Si una sentencia, laudo o resolución jurisdiccional extranjera no pudiera tener eficacia en su totalidad, el tribunal podrá admitir su eficacia parcial a petición de parte interesada.
+
 ## TRANSITORIOS
 
 ###### ARTICULO 1º.
@@ -3561,3 +3855,11 @@ Todos los negocios en tramitación, al entrar en vigor este Código, continuará
 José Gómez Esparza, D.P.- Esteban García de Alba, S. P.- Mariano Samayoa, D.S.- José Castillo Torres, S. S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente decreto en la residencia del Poder Ejecutivo Federal, en la ciudad de México, D. F., a los treinta y un días del mes de diciembre de mil novecientos cuarenta y dos.- Manuel Avila Camacho.- Rúbrica.- El Secretario de Estado y del Despacho de Gobernación.- Miguel Alemán.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+D.O.F. 12 DE ENERO DE 1988.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los procedimientos relativos a las materias a que se refiere el presente Decreto que se encuentren en trámite al momento de su entrada en vigor, continuarán substanciándose conforme a las disposiciones vigentes al momento de su inicio.
