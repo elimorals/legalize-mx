@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-escuela-militar-de-aplicacion-de-las-armas-43"
 country: "mx"
 rank: "reglamento"
 publication_date: "1993-04-13"
-last_updated: "1993-04-13"
+last_updated: "2001-06-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1993-04-12"
 
 REGLAMENTO DE LA ESCUELA MILITAR DE APLICACION DE LAS ARMAS Y SERVICIOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 22 DE JUNIO DE 2001.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 13 de abril de 1993.
 
@@ -35,15 +35,19 @@ REGLAMENTO DE LA ESCUELA MILITAR DE APLICACIÓN DE LAS ARMAS Y SERVICIOS
 
 ### CAPITULO I. Misión
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-La Escuela Militar de Aplicación de las Armas y Servicios, es un establecimiento de educación militar que tienen como misión capacitar a los Oficiales del Ejercicio Mexicano para desempeñar funciones de Comandantes de Unidades de Arma y Servicio hasta nivel Compañía, así como auxiliares del mando en Grupos de Comando de unidades tipo corporación y fomentar su integración.
+###### ARTÍCULO 1o.
+
+La Escuela Militar de Aplicación de las Armas y Servicios es un establecimiento de educación militar que tiene como misión capacitar a los oficiales del Ejército Mexicano para desempeñar funciones de comandantes de unidades de Arma de nivel Compañía, Escuadrón o Batería; comandantes de células de servicio, así como auxiliares del mando en el Grupo de Comando de unidades tipo corporación y fomentar su integración.
 
 ### CAPITULO II. Dependencia
 
-###### ARTICULO 2o.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-La Escuela Militar de Aplicación de las Armas y Servicios depende del Alto Mando del Ejercicio y Fuerza Aérea a través de la Dirección General de Educación Militar.
+###### ARTÍCULO 2o.
+
+La Escuela Militar de Aplicación de las Armas y Servicios, depende del Alto Mando del Ejército y Fuerza Aérea a través de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
 
 ### CAPITULO III. Objetivos
 
@@ -51,9 +55,13 @@ La Escuela Militar de Aplicación de las Armas y Servicios depende del Alto Mand
 
 La Escuela Militar de Aplicación de las Armas y Servicios tiene los siguientes objetivos:
 
-I.- Capacitar a Oficiales de Arma y de Servicio en funciones de Comandante, acorde a su nivel jerárquico;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II.- Capacitar a Oficiales de Arma y de Servicios para desempeñar las funciones que les corresponda en los Grupos de Comando de unidades tipo corporación;
+I. Capacitar a oficiales de Arma y Servicio de acuerdo a su nivel jerárquico y unidad que comandará;
+
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+II. Capacitar a oficiales de Arma y de Servicio para fungir como comandantes de Compañía, Escuadrón, Batería o Célula de Servicio y desempeñar las funciones que les correspondan en el Grupo de Comando de unidades tipo corporación;
 
 III.- Incrementar la preparación profesional del personal en instrucción en los ámbitos táctico y administrativo de las Armas y Servicios del Ejército Mexicano, así como sus deseos de superación y eficiencia en el desempeño de sus funciones;
 
@@ -61,9 +69,15 @@ IV.- Fomentar entre el personal de Oficiales de las Armas y Servicios su integra
 
 V.- Incrementar en el personal en instrucción su ética militar basada en los principios y valores nacionales y tradicionales del Ejército.
 
-###### ARTICULO 4o.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Para alcanzar los objetivos del plantel, se imparte el curso de Aplicación de las Armas y Servicios.
+###### ARTÍCULO 4o.
+
+Para alcanzar los objetivos del plantel se imparten los cursos siguientes:
+
+I. Curso Básico de Aplicación Táctico-Administrativo (escolarizado y a distancia), y
+
+II. Curso Avanzado de Aplicación Táctico-Administrativo (escolarizado y a distancia).
 
 ## TITULO SEGUNDO. Organización
 
@@ -93,19 +107,33 @@ III.- Sección Pedagógica;
 
 A. Jefatura;
 
-B. Subsección de Planes y Programas; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Subsección de Planes, Programas y Doctrina Militar;
 
 Subsección Psicopedagógica;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+D. Subsección de Estudios a Distancia.
 
 IV. Sección Académica;
 
 A. Jefatura;
 
-B. Jefatura del Curso de Aplicación de las Armas y Servicios;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-C. Subsección de Control Académico; y
+B. Subsección del Curso Básico de Aplicación Táctico-Administrativo;
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+C. Subsección del Curso Avanzado de Aplicación Táctico-Administrativo;
 
 D. Susbsección de Apoyos Didácticos;
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+E. Comandancia del Cuerpo de Oficiales en Instrucción.
 
 V. Ayudantía General;
 
@@ -139,7 +167,9 @@ Subdirector del plantel:
 
 II. Vocales:
 
-Jefes de las Secciones Pedagógica y Académica;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Jefes de las secciones Pedagógica, Académica, Administrativa y Ayudante General;
 
 III. l Secretario, será el vocal de menor jerarquía y antigüedad;
 
@@ -155,9 +185,11 @@ V. Los vocales de la Junta Técnico-Consultiva serán suplidos en sus ausencias,
 
 La Dirección, es el órgano rector de la Escuela Militar de Aplicación de las Armas y Servicios a cargo de un General o Coronel de Arma, Diplomado de Estado Mayor, nombrado por el Alto Mando del Ejército y Fuerza Aérea, a quien se denomina Director.
 
-###### ARTICULO 9o.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Director tiene las mismas atribuciones y responsabilidades que señalan las leyes y reglamentos militares para los Comandantes de Cuerpo de Tropa y además siguientes:
+###### ARTÍCULO 9o.
+
+El Director de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las mismas atribuciones y responsabilidades correspondientes a un Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
 
 I. Representar a la Escuela Militar de Aplicación de las Armas y Servicios;
 
@@ -181,13 +213,17 @@ X. Administrar los recursos humanos, económicos y materiales puestos a su dispo
 
 XI. Promover la afiliación del personal militar y sus derechohabientes conforme a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-XII. Proponer a la Dirección General de Educación Militar el proyecto de Presupuesto de su competencia;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Proponer a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea el proyecto de presupuesto de su competencia;
 
 XIII. Difundir el contenido del presente Reglamento a todo el personal que integra el plantel;
 
 XIV. Proponer la actualización del Manual de Organización y Funcionamiento del plantel cuando corresponda;
 
-XV. Presentar a la Dirección General de Educación Militar un informe general de actividades al término de cada ciclo escolar;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Presentar a la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea un informe general de actividades al término de cada curso;
 
 XVI. Firmar los documentos que acrediten los estudios realizados;
 
@@ -205,9 +241,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
-###### ARTICULO 11.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Subdirector tiene las mismas atribuciones y responsabilidades que señalan las leyes y reglamentos militares para Segundos Comandantes de Cuerpo de Tropa y además las siguientes:
+###### ARTÍCULO 11.
+
+El Subdirector de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las mismas atribuciones y responsabilidades correspondientes a un Segundo Comandante de Cuerpo de Tropa, de conformidad con lo establecido en las leyes y reglamentos militares y además las siguientes:
 
 I. Suplir en sus ausencias temporales al Director del plantel en el ejercicio de sus funciones;
 
@@ -217,7 +255,9 @@ III. Presidir la junta Técnico-Consultiva;
 
 IV. Dirigir, coordinar y supervisar las actividades de los diversos órganos subordinados;
 
-V. Revisar y someter a consideración del Director del plantel los proyectos de planes y programas de estudio, de prácticas, visitas y conferencias, así como de calendario escolar.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+V. Revisar y someter a consideración del Director del plantel los proyectos de planes y programas de estudio, estadas, visitas a instalaciones civiles y militares y conferencias, así como del calendario escolar;
 
 VI. Supervisar el desarrollo de los planes y programas de estudio, del proceso enseñanza-aprendizaje y la elaboración de los estudios estadísticos correspondientes;
 
@@ -257,9 +297,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
-###### ARTICULO 13.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Jefe de la Sección Pedagógica tiene las siguientes funciones y responsabilidades:
+###### ARTÍCULO 13.
+
+El Jefe de la Sección Pedagógica de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las atribuciones y responsabilidades siguientes:
 
 I. Planear, coordinar y supervisar las actividades pedagógicas del plantel;
 
@@ -301,6 +343,86 @@ XIX. Proponer a los instructores de cada asignatura y elaborar los nombramientos
 
 XX. Coordinar sus actividades con los demás órganos del plantel; y
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXI. Coordinar y participar en la elaboración de la bibliografía militar y otros documentos necesarios para la impartición del proceso enseñanza-aprendizaje;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXII. Proponer innovaciones en relación al adiestramiento, actividades logísticas y administrativas, operativas y tácticas, considerando aspectos tácticos, reales y objetivos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIII. Proponer y hacer recomendaciones con relación a la adquisición de material y equipo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIV. Proponer innovaciones en relación a la organización y funcionamiento del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXV. Coordinar los aspectos educativos, culturales y doctrinarios de los cursos que se imparten en el plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVI. Participar en la elaboración de los perfiles de ingreso al plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVII. Elaborar y difundir la doctrina militar a través de los medios a su alcance, proponiendo los que considere convenientes;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVIII. Proponer innovaciones educativas, culturales y doctrinarias, tendientes a lograr una mayor profesionalización de los miembros del Ejército y Fuerza Aérea Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIX. Proponer programas y actividades de investigación científica y tecnológica en el plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXX. Participar en los comités relacionados con la educación, cultura y doctrina militar;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXI. Planear, organizar, dirigir y supervisar las actividades de investigación y desarrollo de la doctrina militar que afecten a este plantel, así como de las actividades que se desarrollen dentro y fuera del mismo;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXII. Conducir y controlar las actividades que realicen las mesas que de ella dependen;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXIII. Controlar y conducir los trabajos de investigación;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXIV. Difundir las actividades del plantel a través de los medios informativos a su disposición;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXV. Planear los eventos cívicos, culturales, sociales y deportivos en los que participe el personal del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXVI. Planear las actividades relativas a la admisión del plantel (convocatoria, trípticos, etc.);
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXVII. Organizar el archivo pedagógico del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXVIII. Mantener enlace con la Dirección General de Comunicación Social, así como con los organismos encargados de esta tarea en la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea y demás planteles militares, a fin de estar actualizado por lo que respecta a directivas, manuales, instructivos y actividades diversas, que coadyuven al logro de los objetivos asignados a este plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXIX. Llevar el control estadístico del personal de oficiales en instrucción que realicen el Curso de Aplicación Táctico-Administrativo correspondiente a distancia, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XL. Las que le sean asignadas por el Director del plantel.
+
 ### CAPITULO IV. De la Sección Académica
 
 ###### ARTICULO 14.
@@ -311,9 +433,11 @@ I. Tener experiencia académica;
 
 II. Tener experiencia docente.
 
-###### ARTICULO 15.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Jefe de la Sección Académica tiene las siguientes funciones y responsabilidades:
+###### ARTÍCULO 15.
+
+El Jefe de la Sección Académica de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las atribuciones y responsabilidades siguientes:
 
 I. Coordinar y supervisar la aplicación y desarrollo de los planes y programas de estudio del plantel, así como proponer las modificaciones necesarias;
 
@@ -363,6 +487,58 @@ XXIII. Coordinar sus actividades con los demás órganos del plantel; y
 
 XXIV. Las que le sean asignadas por la superioridad.
 
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIV. Elaborar el horario diario de actividades académicas, en base al programa mensual y semanal;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXV. Coordinar el avance programático, proporcionando los datos necesarios a la Sección Pedagógica, a fin de que esta última lleve el control del citado avance;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVI. Coordinar y supervisar la aplicación de las conferencias, ejercicios, estadas, visitas de estudio y trabajos relacionados con el curso;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVII. Coordinar los apoyos necesarios para la realización de estadas, ejercicios de aplicación, conferencias, viajes y visitas de estudio;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXVIII. Organizar, controlar y mantener actualizado el material de la biblioteca del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXIX. Exigir permanentemente la observación de la disciplina en el Cuerpo de Oficiales en Instrucción, así como su presentación personal;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXX. Supervisar que el personal de oficiales en instrucción que por algún motivo haya reprobado una o más materias durante el mes, cumplan con el programa de estudio dirigido;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXI. Supervisar que los alumnos se encuentren permanentemente en óptimas condiciones físicas;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXII. Controlar estadísticamente los correctivos disciplinarios impuestos a los oficiales en instrucción;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXIII. Supervisar las actividades en la distribución de tiempo aprobadas por la Dirección del plantel;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXIV. Controlar el desempeño profesional del personal docente y proponer a la superioridad a aquellos jefes u oficiales que por antigüedad y actuación, se hagan acreedores a algún premio o recompensa;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXV. Coordinar y controlar el material que se edite para difundir las actividades del plantel y la doctrina militar, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XXXVI. Las que le sean asignadas por el Director del plantel.
+
 ### CAPITULO V
 
 De la Ayudantía General.
@@ -371,9 +547,11 @@ De la Ayudantía General.
 
 La Ayudantía General de la Escuela Militar de Aplicación de las Armas y Servicios, es el órgano encargado de satisfacer las necesidades de vida interna del plantel, a cargo de un Teniente Coronel o Mayor de Arma, a quien se denomina Ayudante General.
 
-###### ARTICULO 17.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Ayudante General tiene las siguientes funciones y responsabilidades:
+###### ARTÍCULO 17.
+
+El Ayudante General de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las atribuciones y responsabilidades siguientes:
 
 I. Las correspondientes a un Ayudante y a un Jefe de Instrucción de un Cuerpo de Tropa, respecto al personal de la planta de la escuela;
 
@@ -401,19 +579,27 @@ XII. Controlar, coordinar y supervisar el mantenimiento de los vehículos de car
 
 XIII. Coordinar sus actividades con los demás órganos del plantel; y
 
-XIV. Las que le sean asignadas por la superioridad;
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XIV. Supervisar el desempeño de los servicios de armas, económicos y especiales que realizan los oficiales en instrucción;
+
+XV. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VI
 
 De las Sección Administrativa.
 
-###### ARTICULO 18.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-La Sección Administrativa de la Escuela Militar de Aplicación de las Armas y Servicios, es el órgano de apoyo administrativo del plantel, a cargo de un Jefe u Oficial del Servicio de Administración, a quien se denomina Jefe de la Sección Administrativa.
+###### ARTÍCULO 18.
 
-###### ARTICULO 19.
+La Sección Administrativa de la Escuela Militar de Aplicación de las Armas y Servicios, es el órgano de apoyo administrativo del plantel, a cargo de un Jefe u Oficial Oficinista, a quien se denomina Jefe de la Sección Administrativa.
 
-El Jefe de la Sección Administrativa tiene las siguientes funciones y responsabilidades:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 19.
+
+El Jefe de la Sección Administrativa de la Escuela Militar de Aplicación de las Armas y Servicios, tiene las atribuciones y responsabilidades siguientes:
 
 I. Elaborar y tramitar la documentación que se genere con motivo de los movimientos del personal perteneciente al plantel y mantener completos y actualizados los expedientes del mismo;
 
@@ -443,7 +629,9 @@ XIII. Formular los informes de su competencia;
 
 XIV. Coordinar sus actividades con los demás órganos del plantel; y
 
-XV. Las que le sean asignadas por la superioridad.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XV. Las que le sean asignadas por el Director del plantel.
 
 ### CAPITULO VII. De la Unidad Ejecutora de Pago
 
@@ -457,7 +645,7 @@ El Jefe de la Unidad Ejecutora de Pago tiene la responsabilidad de proporcionar 
 
 ###### ARTICULO 22.
 
-La Unidad Ejecutora de Pago normará su estructura y funcionamiento de conformidad con las disposiciones legales respectivas.
+(DEROGADO, D.O.F. 22 DE JUNIO DE 2001)
 
 ### CAPITULO VIII. De la Junta Técnico-Consultiva
 
@@ -465,9 +653,29 @@ La Unidad Ejecutora de Pago normará su estructura y funcionamiento de conformid
 
 La Junta Técnico-Consultiva de la Escuela Militar de Aplicación de las Armas y Servicios, es el órgano colegiado que asesora en materia pedagógica y académica al Director del plantel.
 
-###### ARTICULO 24.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Las funciones de la Junta Técnico-Consultiva son: Analizar, evaluar y proponer lo necesario en relación al proceso enseñanza-aprendizaje del plantel.
+###### ARTÍCULO 24.
+
+Las funciones de la Junta Técnica-Consultiva son:
+
+I. Analizar y proponer soluciones a problemas de carácter pedagógico y académico que surjan en el plantel;
+
+II. Analizar el plan de estudio del plantel recomendando a la Dirección del mismo, su actualización;
+
+III. Revisar los proyectos de planes y programas de estudio sometiéndolos a la consideración del Director;
+
+IV. Revisar los manuales, compendios y otro material bibliográfico, en apoyo de la enseñanza para los efectos correspondientes;
+
+V. Evaluar la actuación del personal académico, docente y en instrucción, para proponer a quienes se hagan acreedores a recibir alguna recompensa;
+
+VI. Analizar los resultados de la evaluación pedagógica para mejorar el nivel enseñanza-aprendizaje en el plantel;
+
+VII. Proponer normas y disposiciones orientadas a la mejor organización y funcionamiento académico y pedagógico del plantel;
+
+VIII. Evaluar el desempeño del personal docente del plantel, y
+
+IX. Las que en materia pedagógica y académica le asigne el Director del plantel.
 
 ## TITULO CUARTO. Del Personal
 
@@ -487,7 +695,9 @@ II. Académico:
 
 A. Jefes de las Secciones Pedagógica y Académica; y
 
-B. Jefes de Subsección de las Secciones Pedagógica y Académica;
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+B. Jefes de las subsecciones de las secciones Pedagógica y Académica.
 
 III. Docente:
 
@@ -511,7 +721,9 @@ D. Jefes de las Subsecciones respectivas; y
 
 VI. De la Planta:
 
-Constituido por el personal de los Servicios Técnicos, Administrativos y Generales y aquél otro no incluido en la clasificación anterior.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Está constituido por el personal de los servicios técnicos, administrativos y generales y aquel otro no incluido en la clasificación anterior.
 
 ### CAPITULO II. Del Personal Directivo y Académico
 
@@ -521,17 +733,29 @@ El personal directivo y académico tiene las atribuciones y responsabilidades qu
 
 ### CAPITULO III. Del Personal Docente
 
-###### ARTICULO 27.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje. Tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las estipuladas en el presente Reglamento y directivas aplicables que emita la superioridad. Este personal puede ser profesor o instructor.
+###### ARTÍCULO 27.
 
-###### ARTICULO 28.
+Al personal docente le corresponde el desarrollo del proceso enseñanza-aprendizaje de las asignaturas a su cargo, tiene las atribuciones y responsabilidades que para su jerarquía establecen las leyes y reglamentos militares, las prescritas en el presente Reglamento y disposiciones que emita la superioridad; este personal puede ser profesor o instructor.
 
-Es profesor, el personal militar o civil que tiene a su cargo labores de enseñanza o transmisión de conocimientos, pudiendo ser titular o adjunto.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-###### ARTICULO 29.
+###### ARTÍCULO 28.
 
-Es instructor, el personal militar o civil a quién se encomienda la importación de conocimientos sobre materias que sólo requieran habilidad, pericia o destreza.
+Es profesor el militar o civil que tiene a su cargo con carácter titular o de adjunto, labores permanentes de enseñanza o transmisión de conocimientos, previa acreditación del título profesional que avale el dominio de la o las asignaturas por impartir.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 29.
+
+Son instructores los militares a quienes se encomienda la impartición de conocimientos sobre materias que requieren habilidad, pericia o destreza y que acrediten previamente ante la Sección Académica el conocimiento de la materia que vayan a impartir.
+
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 29 Bis.
+
+Los profesores o instructores honorarios son los que imparten conocimientos o prácticas y que no perciben remuneración por este hecho, debiendo extendérseles un nombramiento como estímulo a dichas actividades.
 
 ### CAPITULO IV. Del Personal en Instrucción
 
@@ -539,9 +763,11 @@ Es instructor, el personal militar o civil a quién se encomienda la importació
 
 Recibe la denominación de personal en instrucción, los Oficiales de las Armas y de los Servicios que realizan estudios en la Escuela Militar de Aplicación de las Armas y Servicios.
 
-###### ARTICULO 31.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables emitidas por la superioridad, tiene las siguientes obligaciones:
+###### ARTÍCULO 31.
+
+El personal en instrucción además de lo establecido en la legislación militar y disposiciones aplicables emitidas por la superioridad, tiene las atribuciones y responsabilidades siguientes:
 
 I. Asistir puntualmente a las actividades que le señalen las distribuciones de tiempo respectivas;
 
@@ -575,9 +801,11 @@ Las actividades de admisión a la Escuela Militar de Aplicación de las Armas y 
 
 ### CAPITULO I. Generalidades
 
-###### ARTICULO 35.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El Curso de Aplicación de las Armas y Servicios se desarrolla mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
+###### ARTÍCULO 35.
+
+Los cursos Básico y Avanzado de Aplicación Táctico-Administrativo escolarizado y a distancia, se desarrollan mediante el proceso enseñanza-aprendizaje en sus tres fases: planeación, ejecución y evaluación.
 
 ### CAPITULO II. De la Planeación
 
@@ -625,7 +853,9 @@ Es aquel que se aplica al personal en instrucciones al término del programa de 
 
 III. Extraordinario
 
-Es aquel que se aplica al personal en instrucción que repruebe un examen final ordinario o que al término del programa no alcance promedio aprobatorio en alguna asignatura;
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+Es aquel que se aplica al personal en instrucción cuya calificación final de la asignatura sea menor de seis puntos, calculado de acuerdo a lo establecido en el artículo 45 de este Reglamento.
 
 IV. Especiales:
 
@@ -643,21 +873,35 @@ II. Prácticos; o
 
 IV. Una combinación de los anteriores.
 
-###### ARTICULO 43.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Para calificar todos los exámenes se utiliza la escala numérica de CERO a CIEN puntos, sin incluir decimales.
+###### ARTÍCULO 43.
 
-###### ARTICULO 44.
+Para calificar todos los exámenes se utiliza la escala numérica de cero a diez puntos incluyendo decimales.
 
-La calificación mínima aprobatoria es de SESENTA puntos.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-###### ARTICULO 45.
+###### ARTÍCULO 44.
 
-La calificación final de cada asignatura se integra de la siguiente manera.
+La calificación mínima aprobatoria es de seis puntos.
 
-I. El promedio de las evaluaciones parciales constituirá el 60% de la calificación; y
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. El resultado del examen final ordinario constituirá el 40% de la calificación.
+###### ARTÍCULO 45.
+
+La calificación final de los cursos Básico y Avanzado de Aplicación Táctico-Administrativo de cada asignatura se integra de la manera siguiente:
+
+I. Escolarizado:
+
+A. El promedio de las evaluaciones parciales constituye el 60% de la calificación, y
+
+B. El resultado del examen final ordinario constituye el 40% de la calificación.
+
+II. A distancia:
+
+A. El promedio de las evaluaciones bimestrales constituye la calificación final de cada asignatura, y
+
+B. En las asignaturas que se cursen sólo en un bimestre, la calificación final será la que obtenga en el examen final correspondiente.
 
 ###### ARTICULO 46.
 
@@ -667,11 +911,19 @@ La calificación obtenida en un examen extraordinario se asentará en el registr
 
 El personal en instrucción que utilice medios fraudulentos para resolver un examen, será suspendido del mismo y calificado con CERO.
 
+> <small>(ADICIONADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 47 Bis.
+
+El personal en instrucción que falte a sus actividades injustificadamente y esté programado un examen parcial, final o extraordinario se le calificará con cero y esta calificación se le promedia para la obtención de su calificación final, además de imponérsele el correctivo disciplinario correspondiente.
+
 ### CAPITULO V. De los Jurados
 
-###### ARTICULO 48.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Los Jurados para aplicar y evaluar los diferentes tipos de exámenes mencionados en este reglamento, estarán integrados por personal docente del plantel y aquel otro que determine la Secretaría de la Defensa Nacional.
+###### ARTÍCULO 48.
+
+Los jurados para aplicar los exámenes bimestrales, finales y extraordinarios de los cursos Básico y Avanzado de Aplicación Táctico-Administrativo, estará integrado por un presidente y dos vocales designados por la Dirección del plantel; el presidente es el titular de la materia quien levanta un acta del examen para dar fe y cuenta a la superioridad, en la que se asienta quiénes presentaron examen, así como los que resultaron aprobados o reprobados.
 
 ## TITULO SÉPTIMO. De las Faltas, Bajas y Reingresos
 
@@ -711,9 +963,11 @@ El registro y cómputo de faltas se dará a conocer periódicamente al personal 
 
 El personal que concluye satisfactoriamente los estudios del Curso de Aplicación de las Armas y Servicios, queda a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
 
-###### ARTICULO 57.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Son causales de baja del Curso de Aplicación de las Armas y Servicios para el personal en instrucción las siguientes:
+###### ARTÍCULO 57.
+
+Son causales de baja de los cursos para el personal en instrucción las siguientes:
 
 I. Reprobar el 40% o más del total de exámenes parciales en un mismo período de evaluación;
 
@@ -733,15 +987,31 @@ VIII. Quedar comprendido en alguna de las causales de baja establecidas en la Le
 
 IX. Estar comprendido en alguna de las categorías de inutilidad, de acuerdo con las tablas anexas a la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
-###### ARTICULO 58.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-El personal en instrucción que cause baja del Curso de Aplicación de las Armas y Servicios por situarse en alguna de las causales establecidas en el artículo anterior, quedará a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
+X. Adquirir otra nacionalidad;
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XI. Solicitud del interesado que sea aceptada por la superioridad, y
+
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+XII. Encontrarse sujeto a proceso en el fuero de guerra, en el orden común o federal.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 58.
+
+El personal en instrucción que cause baja de los cursos, por situarse en alguna de las causales establecidas en el artículo anterior, queda a disposición de la Secretaría de la Defensa Nacional para los efectos que correspondan.
 
 ### CAPITULO III. De los Reingresos
 
-###### ARTICULO 59.
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-Se considera reingreso para efectos del presente reglamento, al acto mediante el cual el personal en instrucción que habiendo causado baja del Curso de Aplicación de las Armas y Servicios por situarse en alguna de las causales señaladas en el artículo 57 de este Reglamento, es designado nuevamente para realizarlo cuando la Superioridad lo determine.
+###### ARTÍCULO 59.
+
+Para efectos del presente Reglamento, se considera como reingreso el acto mediante el cual el personal en instrucción que habiendo causado baja de la Escuela Militar de Aplicación de las Armas y Servicios antes de terminar sus estudios, es admitido nuevamente para continuarlos.
 
 ## TITULO OCTAVO. De los Reconocimientos Académicos
 
@@ -757,15 +1027,25 @@ El personal en instrucción que termine satisfactoriamente el Curso de Aplicaci�
 
 Los incentivos que se otorgan al personal en instrucción por el aprovechamiento en sus estudios son los siguientes:
 
-I. Premio y diploma de primero, segundo o tercer lugar a quienes obtengan los tres promedios más altos del Curso. Estos premios sólo serán otorgados cuando los promedios obtenidos sean de 85 puntos o más.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-II. Figurar en el cuadro de honor en el mes siguiente a aquél en que haya obtenido en los exámenes un promedio mínimo de 85 puntos; y
+I. Premio y diploma de primero, segundo o tercer lugar a quienes obtengan los tres promedios más altos del curso, estos premios sólo serán otorgados cuando los promedios obtenidos sean de 8.5 puntos o más;
 
-III. Otros que determine la Secretaría de la Defensa Nacional.
+> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2001)</small>
 
-###### ARTICULO 62.
+II. Figurar en el cuadro de honor en el mes siguiente a aquel en que haya obtenido en los exámenes un promedio mínimo de 8.5 puntos;
 
-El personal en instrucción que termine satisfactoriamente el Curso de Aplicación de las Armas y Servicios, además de lo establecido en este Reglamento recibirá Gafete Distintivo correspondiente.
+> <small>(ADICIONADA, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+III. Exento de realizar el examen final ordinario al personal en instrucción que obtenga un promedio mínimo de 9.0 puntos en una materia, después de haber sustentado como mínimo dos exámenes parciales de la misma, asentándose la calificación obtenida en el promedio, quedando a elección del alumno la opción de presentar o no dicha evaluación para incrementar su promedio general, y
+
+IV. Otros que determine la Secretaría de la Defensa Nacional.
+
+> <small>(REFORMADO, D.O.F. 22 DE JUNIO DE 2001)</small>
+
+###### ARTÍCULO 62.
+
+El personal en instrucción que termine satisfactoriamente el curso de Aplicación Táctico-Administrativo correspondiente, además de lo establecido en este Reglamento tendrá derecho a portar el gafete distintivo correspondiente.
 
 ## TITULO NOVENO. De la Disciplina
 
@@ -798,3 +1078,11 @@ PRIMERO.- El presente Reglamento entrará en vigor el día siguiente de su publi
 SEGUNDO.- Se derogan todas la disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de abril de mil novecientos noventa y tres.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de la Defensa Nacional, Antonio Riviello Bazán.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS QUE TIENEN RELACIÓN CON EL DECRETO.</small>
+
+D.O.F. 22 DE JUNIO DE 2001.
+
+PRIMERO.- Este Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
