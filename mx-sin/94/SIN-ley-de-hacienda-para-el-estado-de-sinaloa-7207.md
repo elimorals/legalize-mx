@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "1991-03-08"
+last_updated: "1991-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE MARZO DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 1991.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el 15 de noviembre de 1978.
 
@@ -2757,83 +2757,101 @@ ART. 296.- Los casos no previstos en esta tarifa, serán resueltos por la Direcc
 
 ART. 297.- Los derechos por actos del Registro Civil serán los que establece la siguiente:
 
+> <small>(REFORMADA LA TARIFA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 T A R I F A:
 
-CONCEPTO VECES EL SALARIO
+CONCEPTO CUOTA DE SALARIO
 
-MINIMO VIGENTE
+MINIMO GENERAL
 
-EN SINALOA
+DIARIO VIGENTE EN
 
-I.- Por la expedición de copias
+EL ESTADO DE SINALOA
 
-certificadas de actas de
+I.- Por la expedición de
 
-Registro Civil, por cada hoja
+copias certificadas de
 
-de papel autorizada 0.15
+actas de Registro Civil,
+
+por cada hoja de papel
+
+autorizado 0.25
 
 II.- Por el Registro:
 
-a).- De nacimiento fuera de la
+a).- De nacimiento, fuera
 
-Oficina del Registro Civil 1.00
+de la oficina del Registro Civil 1.50
 
-b).- De matrimonio en la Oficina del
+b).- Extemporáneo de
 
-Registro Civil 0.35
+nacimiento, tratándose de
 
-c).- De matrimonio fuera de la
+personas mayores de siete
 
-Oficina del Registro Civil 2.00
+años, en los términos de los
 
-d).- De reconocimiento de hijos
+Artículos 40 y 42 del
 
-nacidos fuera de matrimonio 0.20
+Reglamento del Registro Civil
 
-e).- De reconocimiento de hijos
+del Estado 2.00
 
-fuera de matrimonio en otro lugar
+c).- De Matrimonio:
 
-que no sea la Oficina del
+1.- En la Oficina del
 
-Registro Civil 0.80
+Registro Civil 1.50
 
-f).- De adopción 0.35
+2.- Fuera de la Oficina del
 
-g).- De tutela 0.35
+Registro Civil 5.00
+
+d).- De reconocimiento de hijos:
+
+1.- En la Oficina del
+
+Registro Civil 0.50
+
+2.- Fuera de la Oficina del
+
+Registro Civil 1.00
+
+e).- De adopción 0.50
+
+f).- De tutela 0.50
 
 III.- Por la anotación de
 
-Emancipación 0.35
+Emancipación 0.50
 
 IV.- Por la inscripción:
 
-a).- De ejecutorias que declaren
+a).- De ejecutorias que
 
-la incapacidad legal para administrar
+declaren la incapacidad legal
 
-bienes, la ausencia,
+para administrar bienes,
 
-o la presunción de muerte 0.50
+la ausencia o la presunción de
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+muerte 1.00
 
-b).- De rectificaciones de las actas
+b).- De rectificaciones de las
 
-del Estado Civil 0.50
+actas del estado Civil 1.00
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+c).- De resoluciones judiciales
 
-c).- De resoluciones judiciales que
+que decreten el divorcio 1.50
 
-decreten el divorcio 0.80
+V.- Por la certificación de la falta
 
-V.- Por la certificación de la falta o
+o la ilegibilidad de actas
 
-de la ilegibilidad de actas o libros
-
-del Registro Civil 0.15
+o libros del Registro Civil 0.25
 
 ART. 298.- No causan los derechos a que se refiere este Capítulo:
 
@@ -2863,87 +2881,93 @@ ART. 301.- Causan derechos fiscales las publicaciones de interés particular que
 
 ART. 302.- Los derechos a que se refiere el artículo anterior, estarán sujetos a la siguiente:
 
+> <small>(REFORMADA LA TARIFA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
 T A R I F A:
 
-CONCEPTO VECES EL SALARIO
+CONCEPTO CUOTA DE SALARIO
 
-MINIMOGENERAL
+MINIMO GENERAL
 
-VIGENTE EN SINALOA
+DIARIO VIGENTE
+
+EN EL ESTADO.
 
 I.- Por la publicación:
 
 a).- De edictos, avisos,
 
-solicitud de ruta, modificación o
+solicitud de ruta, modificación
 
-ampliación de ésta,
+o ampliación de ésta,
 
-aumentos de unidades y
+aumento de unidades y
 
-cualquiera otra similar de interés
+cualquiera otra similar de
 
-particular, por palabra y por cada
+interés particular, por palabra y
 
-publicación 0.05
+por cada publicación 0.05
 
 b).- De convocatorias, balances,
 
-liquidaciones y similares, por plana 5.00
+liquidaciones y similares,
 
-c).- De edictos de remate proveniente
+por plana 15.00
 
-de la Sub-secretaría de Ingresos de las
+c).- De edictos de remate
 
-Oficinas Recaudadoras, por plana. 2.35
+provenientes de la Sub-Secretaría
+
+de Ingreso y de las Oficinas de (sic)
+
+Recaudadoras, por plana 2.50
 
 II.- Por la suscripción:
 
-a).- De un año, en el país 1.65
+a).- De un año, en el País 20.00
 
-b).- De un año, en el extranjero 3.30
+b).- De un año, en el extranjero 40.00
 
-III.- Por la venta de cada número del periódico Oficial.
+III.- Por la venta de cada número del Periódico Oficial.
 
-a).- Del día 0.05
+a).- Del día 0.20
 
-b).- Atrasado, del año corriente- 0.10
+b).- Atrasado, del año
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+corriente 0.30
 
-c).- Atrasado, de años anteriores 0.25
+c).- Atrasado, de años
+
+anteriores 0.40
 
 d).- De dos o más secciones,
 
-independientemente de la cuota que
+independientemente de la cuota
 
-proceda conforme a los tres
+que proceda conforme a los
 
-incisos anteriores 0.55
+tres incisos anteriores 0.60
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+e).- En fotocopia de ediciones
 
-e).- En fotocopias de ediciones agotadas,
-
-por páginas 0.10
+agotadas, por páginas 0.20
 
 f).- De edición especial que
 
 contenga leyes encuadernadas,
 
-como suplemento 0.50
+como suplemento 1.00
 
-g).- Que contenga la Ley de Ingresos
+g).- Que contenga la Ley de
 
-de los municipios 0.25
+Ingresos de los Municipios 0.50
 
-> <small>(F. DE E. P.O. 25 DE ABRIL DE 1988)</small>
+IV.- Por la venta de cada
 
-IV.- Por la venta de cada ejemplar de
+ejemplar de la Ley de Ingresos
 
-la Ley de Ingresos y presupuesto
-
-de Egresos 0.50
+y Presupuesto de Egresos 1.00
 
 ART. 303.- Las cuotas a que se refiere el Artículo 302 son aplicadas únicamente a las palabras que forman el cuerpo del documento incluyendo las contenidas en el sello, timbres y su cancelación, fechas, firmas y denominaciones que la encabecen. Cuando se trate de documentos que contengan operaciones de contabilidad, tales como balances, facturas, o cuentas, se cobrará por plana, de acuerdo con la tarifa señalada en el Artículo anterior.
 
@@ -3035,25 +3059,39 @@ MINIMO GENERAL
 
 VIGENTE EN SINALOA
 
-(REFORMADO, P.O. 18 DE MARZO DE 1988) (F. DE E. P.O. 25 DE ABRIL DE 1988)
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanía, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
+I.- Por cada vehículo que se registre para su circulación y tránsito incluyendo el juego de placas aprobadas por la Secretaría de Comunicaciones y Transportes, tarjeta de circulación y calcomanías, por el período de vigencia autorizado por dicha Secretaría del Estado, se cubrirán las siguientes cuotas:
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 a).- Juego de placas de
 
-Servicio Particular por seis años 3.30
+servicio particular por
+
+seis años 6.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 b).- Juego de placas de
 
-Servicio Público Local, por seis años 4.00
+servicio público local,
 
-c).- Juego de placas de servicio de
+por seis años 6.00
 
-demostración, por seis años 3.30
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991))
 
-d).- Por cada placa para motocicleta,
+c).- Juego de placas de
 
-por un año 0.65
+servicio de demostración,
+
+por seis años 8.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+d).- Por cada placa para
+
+motocicleta, por un año 2.00
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 1990)</small>
 
@@ -3243,11 +3281,11 @@ XVII.- Por expedición de baja
 
 de placas 0.50
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 XVIII.- Por cada placa de remolque,
 
-por seis años 2.65
+por seis años 3.50
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
@@ -3301,25 +3339,37 @@ II.- Por la expedición de pasaportes para dos o más personas 400.00.
 
 ### CAPITULO X. Registro Público de la Propiedad y del Comercio
 
-> <small>(REFORMADO, P.O. 08 DE MARZO DE 19991)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 ART. 313.- Los servicios que se presten en el Registro Público de la Propiedad, causarán derechos fiscales conforme a la siguiente:
 
 T A R I F A:
 
-CONCEPTO VECES EL SALARIO
+CONCEPTO CUOTA SALARIO
 
-MÍNIMO GENERAL
+MINIMO GENERAL
 
 VIGENTE EN SINALOA
 
-I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse ésta por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará:
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-a).- Por las primeras diez hojas 0.05
+I.- El examen de todo documento, sea público o privado, que se presente al registro para su inscripción, cuando se rehuse éste por no ser inscribible, cuando se devuelva sin inscribir a petición de interesados o por resolución judicial, se cobrará:
+
+(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991).
+
+a).- Por las primeras
+
+diez hojas 0.05
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 b).- Por cada hoja adicional 0.01
 
-II.- En la inscripción o registro de títulos, ya se trate de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de las cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial, o el valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+II.- En la inscripción o registro de documentos públicos o privados, de resoluciones judiciales, administrativas o de cualquier otra clase, por virtud de los cuales se adquiera, transmita, modifique o extinga el dominio o la posesión de bienes inmuebles, el cobro se hará sobre la base del valor que resulte mayor entre el declarado en la operación, el avalúo comercial o el valor catastral, aplicándose un porcentaje de 0.75% sobre dicho valor, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo.
+
+Tratándose de adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo, los derechos correspondientes se causarán aplicando la tasa de 0.75% señalada en el párrafo anterior sobre la base del 50% del valor a que se refiere dicho párrafo;
 
 III.- En las operaciones en que medie condición suspensiva o resolutoria, reserva de propiedad o cualquier otra que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, se pagará al hacerse la primera inscripción, con arreglo a la fracción II, y al practicarse la inscripción complementaria, se pagará el 25% de lo que corresponda con arreglo a dicha fracción II;
 
@@ -3327,13 +3377,19 @@ IV.- La inscripción de gravámenes sobre bienes inmuebles sea por contrato, por
 
 V.- En las inscripciones de bienes o derechos reales cuya propiedad se transmita por herencia, se tomará como valor para la cotización el que resulte mayor entre el declarado por las partes, el avalúo comercial y el de valor catastral;
 
-VI.- Las cédulas hipotecarias pagarán el 50% de las cuotas de la Fracción II, sirviendo como base el importe del crédito hipotecario;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+VI.- Las células (sic) hipotecarias pagarán conforme a la tasa de 0.375%, sirviendo como base el monto del crédito hipotecario, sin que el importe de los derechos pueda exceder de 750 días de salario mínimo.
 
 VII.- La inscripción de las demandas a que se refiere el Artículo 67 del Reglamento del Registro Público de la Propiedad pagará el 35% de las cuotas de la Fracción II;
 
 VIII.- Las cancelaciones en los casos a que se refieren las fracciones IV y VI, pagarán el 35% de la cuota que señala la fracción II;
 
 IX.- Los créditos hipotecarios y refaccionarios, así como los créditos de habilitación o avío, causarán por una sola vez sobre el Importe de la operación el 0.25%, sin que en estos casos el importe de los Derechos pueda exceder de la cantidad equivalente a 250 días de salario mínimo general vigente en Sinaloa al momento de hacerse el pago;
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+Tratándose de créditos destinados a la adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo, los derechos correspondientes se causarán aplicando la tasa del 0.25% señalada en el párrafo anterior sobre la base del 50% del importe a que se refiere dicho párrafo.
 
 X.- Tratándose de bienes muebles, las inscripciones de la condición resolutoria en los casos de venta del pacto de reserva de la propiedad, de la limitación del dominio del vendedor, de la prenda en general, de la prenda de frutos pendientes de bienes y raíces y de la prenda de título de créditos, causarán el 50% de la cuotas que señala la Fracción II;
 
@@ -3365,9 +3421,11 @@ civil causarán una cuota
 
 fija de 1.00
 
-XIII.- Tratándose de sociedades civiles se pagará:
+XIII.- Tratándose de sociedades civiles, se pagará:
 
-a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causarán las cuotas de la Fracción II sobre el importe del capital social o de los aumentos, según el caso;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+a).- La inscripción de la escritura constitutiva y de los aumentos de capital, causará la cuota de la Fracción II sobre el importe del capital social o de los aumentos, según el caso, sin que el importe de los derechos pueda exceder de 250 días de salario mínimo.
 
 b).- Cualquier modificación de
 
@@ -3505,9 +3563,13 @@ e).- Cuando se trate de reinscripciones relativas a bienes inmuebles y derechos 
 
 f).- La cancelación del registro de gravámenes sobre créditos hipotecarios, refaccionarios o de habilitación o avío.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 18 DE MARZO DE 1988)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
-ART. 315.- Los servicios que se presten en el Registro Público de Comercio causarán derechos fiscales de acuerdo con la siguiente:
+g).- Por la búsqueda y expedición de certificado de libertad de gravámenes o de no propiedad para la adquisición de casa-habitación cuyo valor catastral en la fecha de la operación no exceda de 9,000 días de salario mínimo.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+ART. 315.- Los servicios que se presten en el Registro Público de Comercio, causarán derechos fiscales de acuerdo con la siguiente:
 
 T A R I F A:
 
@@ -3519,7 +3581,11 @@ MINIMO GENERAL
 
 VIGENTE EN SINALOA
 
-I.- La inscripción de contratos mercantil de cualquier clase no especificados en otras fracciones de esta tarifa, causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313, sobre la base de valor de las operaciones;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+I.- La inscripción de contratos mercantiles de cualquier clase no especificados en otras fracciones de esta tarifa, causará los respectivos derechos de acuerdo con lo dispuesto en la fracción II del Artículo 313, sobre la base de valor de las operaciones;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1991)</small>
 
 II.- Por la matrícula de cada comerciante individual, los derechos se pagarán con arreglo a lo dispuesto en la fracción II del Artículo 313, sobre la base del capital declarado;
 
@@ -3527,7 +3593,9 @@ II.- Por la matrícula de cada comerciante individual, los derechos se pagarán 
 
 III.- Tratándose de sociedades mercantiles la cotización de los servicios se hará en los términos siguientes:
 
-a).- La inscripción de la escritura constitutiva o de los aumentos de capital social causará las mismas cuotas que establece la fracción II del Artículo 313, sobre el importe del capital social o de los aumentos según sea el caso. Las sociedades de capital variable pagarán sobre el capital inicial. En caso de establecimientos de sucursales de sociedades mercantiles se tomará como base el capital afectado a ellas;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1991)</small>
+
+a).- La inscripción de la escritura constitutiva o de los aumentos de capital causará la misma cuota que establece la Fracción II del Artículo 313, sobre el importe del capital social o de los aumentos según sea el caso, sin que el importe de los derechos pueda exceder de 500 días de salario mínimo. Las sociedades de capital variable pagarán sobre el capital inicial. En caso de establecimientos de sucursales de sociedades mercantiles, se tomará como base el capital asignado a ellas;
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 1988)</small>
 
@@ -5750,6 +5818,12 @@ Se entiende como negociación de nueva creación, aquella que ha contribuido a a
 El monto de lo recaudado de este impuesto se integrará a un Fondo de Solidaridad, que será destinado a inversión pública en aquellos renglones que acuerde el organismo que se constituya para tal efecto y por decreto.
 
 P.O. 8 DE MARZO DE 1991.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 30 DE DICIEMBRE DE 1991.
 
 ###### ARTICULO UNICO.
 
