@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-mexicano-de-la-juventud-14770"
 country: "mx"
 rank: "estatuto"
 publication_date: "1999-09-01"
-last_updated: "1999-09-01"
+last_updated: "1999-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-08-11"
 
 ESTATUTO ORGANICO DEL INSTITUTO MEXICANO DE LA JUVENTUD
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 8 DE DICIEMBRE DE 1999.
 
 Estatuto publicado en el Diario Oficial de la Federación, el miércoles 1 de septiembre de 1999.
 
@@ -239,7 +239,11 @@ Dirección de Coordinación Sectorial y Regional
 
 Dirección de Evaluación y Control
 
-V.- Contraloría Interna
+V.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 1999)
+
+> <small>(ADICIONADO, D.O.F. 8 DE DICIEMBRE DE 1999)</small>
+
+El Instituto cuenta con una Contraloría Interna, órgano de control interno, que se regirá conforme a lo dispuesto por el artículo 28 de este Estatuto.
 
 Además contará con las siguientes instancias auxiliares de vigilancia y de apoyo para la toma de decisiones:
 
@@ -393,7 +397,7 @@ XX.- Mantener una estrecha relación con los tres niveles de gobierno y con las 
 
 XXI.- Establecer reuniones y visitas de coordinación y evaluación de proyectos y programas con las instancias estatales correspondientes, en el ámbito de su competencia, y
 
-XXII.- Delinear políticas de atención a jóvenes indígenas, ubicando las particularidades culturales y sociales de la realidad pluriétnica del país;
+XXII.- Delinear políticas de atención a jóvenes indígenas, ubicando las particularidades culturales y sociales de la realidad pluriétnica del país.
 
 ###### ARTICULO 18.
 
@@ -635,63 +639,19 @@ Para el mejor despacho de los asuntos competencia de las Subdirecciones Generale
 
 ###### ARTICULO 27.
 
-El Instituto tendrá un órgano de control interno que será parte integrante de su estructura, mismo que asumirá la responsabilidad de apoyar la función directiva y promover el mejoramiento de la gestión del organismo.
+(DEROGADO, D.O.F. 8 DE DICIEMBRE DE 1999)
 
-Dicho órgano desarrollará sus funciones conforme a los lineamientos que emita la SECODAM y de acuerdo con las bases establecidas en el artículo 62 de la Ley Federal de las Entidades Paraestatales.
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 1999)</small>
 
 ###### ARTICULO 28.
 
-Al frente del órgano de control interno habrá un Contralor Interno quien deberá reunir los requisitos que, para el desempeño de este cargo, establezca la SECODAM y no encontrarse en alguno de los impedimentos que señalan las fracciones II, III, IV y V del artículo 19 de la Ley Federal de las Entidades Paraestatales, quien será auxiliado por el personal que las necesidades del servicio requieran y cuyos puestos figuren en la estructura y presupuesto del Instituto.
+El Instituto cuenta con una Contraloría Interna, órgano de control interno, al frente de la cual el Contralor Interno designado en los términos del artículo 37 fracción XII de la Ley Orgánica de la Administración Pública Federal, en el ejercicio de sus facultades, se auxiliará por los titulares de las áreas de auditoría, quejas y responsabilidades designados en los mismos términos.
 
-El titular de dicho órgano, así como los responsables de las áreas de auditoría, quejas y responsabilidades, serán nombrados y removidos por la SECODAM y dependerán jerárquica y funcionalmente de dicha dependencia.
-
-Los servidores públicos a que se refiere el párrafo anterior ejercerán, en el ámbito de sus respectivas competencias, las facultades previstas en la Ley Orgánica de la Administración Pública Federal, en la Ley Federal de las Entidades Paraestatales y su Reglamento, en la Ley Federal de Responsabilidades de los Servidores Públicos y en las demás disposiciones legales y administrativas aplicables.
-
-El Instituto proporcionará al titular del órgano de control interno, los recursos humanos y materiales que requiera para la atención de los asuntos a su cargo.
-
-Asimismo, los servidores públicos del Instituto estarán obligados a proporcionar el auxilio que requiera el titular de dicho órgano, para el desempeño de sus facultades.
+Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercen las facultades previstas en la Ley Orgánica de la Administración Pública Federal, la Ley Federal de las Entidades Paraestatales, la Ley Federal de Responsabilidades de los Servidores Públicos y en los demás ordenamientos legales y administrativos aplicables conforme a lo previsto por el artículo 26 fracciones III y IV del Reglamento Interior de la Secretaría de Contraloría y Desarrollo Administrativo.
 
 ###### ARTICULO 29.
 
-Compete a la Contraloría Interna:
-
-I.- Recibir quejas y denuncias por incumplimiento de las obligaciones de los servidores públicos del Instituto y darles seguimiento; investigar y fincar las responsabilidades a que hubiere lugar e imponer las sanciones aplicables en los términos de ley, con excepción de las que deba conocer la Dirección General de Responsabilidades y Situación Patrimonial; así como calificar y constituir los pliegos de responsabilidades a que se refiere la Ley de Presupuesto, Contabilidad y Gasto Público Federal y su Reglamento, salvo los que sean competencia de la Dirección General mencionada;
-
-II.- Dictar las resoluciones en los recursos de revocación que interpongan los servidores públicos del Instituto y de revisión que se hagan valer en contra de las resoluciones de las inconformidades previstas en la Ley de Adquisiciones y Obras Públicas, que competa conocer a los titulares de las áreas de responsabilidades;
-
-III.- Realizar la defensa jurídica de las resoluciones que emitan ante las diversas instancias jurisdiccionales, representando al titular de la SECODAM, así como expedir las certificaciones de los documentos que obren en los archivos de la propia Contraloría Interna;
-
-IV.- Implementar el sistema integral de control gubernamental y coadyuvar a su debido funcionamiento; proponer las normas y lineamientos que al efecto se requieran, y vigilar el cumplimiento de las normas de control que expida la SECODAM, así como aquellas que regulan el funcionamiento del Instituto;
-
-V.- Programar y realizar auditorías, inspecciones o visitas de cualquier tipo, para informar periódicamente a la SECODAM sobre el resultado de las acciones de control que se hayan realizado;
-
-VI.- Coordinar la formulación de los anteproyectos de programas y presupuesto de la Contraloría Interna y proponer las adecuaciones que requiera el correcto ejercicio del gasto;
-
-VII.- Denunciar ante las autoridades competentes, los hechos de que tenga conocimiento y puedan ser constitutivos de delitos, e instar al área jurídica del Instituto a formular cuando así se requiera, las querellas a que hubiere lugar;
-
-VIII.- Requerir a las Unidades Administrativas del Instituto, la información necesaria para cumplir con sus atribuciones y brindar la asesoría que le requieran en el ámbito de su competencia;
-
-IX.- Organizar, operar y supervisar un sistema de orientación, información y quejas;
-
-X.- Atender y dar el trámite correspondiente, a las quejas y denuncias que presenten los particulares y servidores públicos del Instituto, practicando las investigaciones relativas y proceder, según el caso, a hacerlo del conocimiento del Director General del Instituto y de la SEP y la SECODAM, en los términos de la legislación respectiva;
-
-XI.- Vigilar que se cumplan las disposiciones que rigen las licitaciones públicas o concursos en materia de obras públicas y de adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
-
-XII.- Cuidar el debido cumplimiento de los contratos o convenios que impliquen canalización de fondos o prestación de servicios por parte del Instituto;
-
-XIII.- Supervisar que los estados financieros e informes administrativos, cumplan oportunamente con las disposiciones normativas y comprueben fehacientemente la transparente aplicación de los recursos presupuestales asignados al Instituto;
-
-XIV.- Vigilar que la estructura orgánica y funcional del Instituto y sus modificaciones, se apeguen a lo autorizado por la Junta Directiva y por la SHCP;
-
-XV.- Opinar respecto de los proyectos normativos que propongan las Subdirecciones Generales y Direcciones de Area del Instituto, a fin de asegurar que existan los elementos necesarios de control administrativo;
-
-XVI.- Verificar el cumplimiento de las normas establecidas para la presentación de la declaración de situación patrimonial por parte de los servidores públicos;
-
-XVII.- Comprobar el correcto ejercicio del presupuesto anual del Instituto y hacer oportunamente las observaciones que procedan, de acuerdo con la Ley de Presupuesto, Contabilidad y Gasto Público y su Reglamento;
-
-XVIII.- Proporcionar la información necesaria a fin de que la SECODAM otorgue el asesoramiento y apoyo necesarios para el debido cumplimiento de las normas de control y supervisión correspondientes, y
-
-XIX.- Las demás que le atribuya expresamente el titular de la SECODAM y aquellas que les confieran las leyes y reglamentos a los Organos Internos de Control.
+(DEROGADO, D.O.F. 8 DE DICIEMBRE DE 1999)
 
 ### CAPITULO NOVENO. DE LOS ORGANOS DE VIGILANCIA
 
@@ -759,7 +719,7 @@ VIII.- Emitir pronunciamientos sobre aquellos temas de la agenda nacional que se
 
 IX.- Dar seguimiento a los proyectos y programas que realice el Instituto, para lo cual deberá recibir oportunamente la información que, para tales efectos, sea requerida, y
 
-X.- Las demás que sean afines con las anteriores y que solicite el Director General;
+X.- Las demás que sean afines con las anteriores y que solicite el Director General.
 
 ###### ARTICULO 35.
 
@@ -812,3 +772,9 @@ PRIMERO.- El presente Estatuto entrará en vigor al día siguiente de su aprobac
 SEGUNDO.- El Director General deberá expedir, en un plazo no mayor de tres meses, contados a partir de la fecha en que entre en vigor este Estatuto, el Manual General de Organización del Instituto; mientras tanto, queda facultado para resolver las cuestiones que sean materia de dicho Manual.
 
 Aprobado por la Junta Directiva del Instituto Mexicano de la Juventud, en su sesión extraordinaria del día 11 de agosto de 1999.- El Presidente Suplente de la Junta Directiva, Carlos Mancera Corcuera.- Rúbrica.- El Secretario de la Junta Directiva, Ramón Díaz de León Espino.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.</small>
+
+D.O.F. 8 DE DICIEMBRE DE 1999.
+
+UNICO.- Estas modificaciones entrarán en vigor el día de su aprobación por la Junta Directiva.
