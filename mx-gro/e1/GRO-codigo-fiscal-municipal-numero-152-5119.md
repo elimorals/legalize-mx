@@ -4,7 +4,7 @@ identifier: "GRO-codigo-fiscal-municipal-numero-152-5119"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-30"
-last_updated: "1989-12-29"
+last_updated: "1990-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO FISCAL MUNICIPAL NUMERO 152
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE DICIEMBRE DE 1989.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el miércoles 30 de diciembre de 1987.
 
@@ -586,6 +586,22 @@ IV.- En su caso, el domicilio para oír y recibir notificaciones dentro de la ju
 Cuando no se cumplan los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente a fin de que en un plazo de cinco días, cumpla con el requisito omitido, de lo contrario se tendrá por no interpuesta dicha promoción.
 
 Quien promueva a nombre de otro, deberá acreditar que la representación le fue otorgada a más tardar en la fecha en que se presenta la promoción.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+V.- El acto que se impugna.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+VI.- Los agravios que le cause el acto impugnado.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+VII.- Las pruebas y los hechos contravertidos (sic) de que se trate.
+
+> <small>(ADICIONADA [N. DE E. DE LA LECTURA DE LAS FRACCIONES IV Y VIII SE OBSERVA QUE TIENEN UN MISMO CONTENIDO, DEBIDO A UNA OMISION PROBABLE DEL LEGISLADOR AL NO HABER REALIZADO LA ADECUACION CORRESPONDIENTE EN LA PRESENTE REFORMA], P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+VIII.- En su caso el domicilio para oír y recibir notificaciones dentro de la jurisdicción municipal y el nombre de la persona autorizada para recibirlas.
 
 ###### ARTICULO 69o.
 
@@ -1225,9 +1241,9 @@ I. Si la exigibilidad se origina por situaciones previstas en el artículo 39 se
 
 II. Al día siguiente de vencido el plazo para el pago del crédito fiscal respectivo, la dependencia recaudadora donde radique el cobro, formulará la liquidación del adeudo e iniciará el procedimiento administrativo de ejecución, con mandamiento debidamente motivado y fundado ordenando que se notifique al deudor el crédito determinado a su cargo, para que se efectúe el pago en la caja de la propia dependencia dentro de los cinco días siguientes al que surta efecto la notificación.
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
-III. Para el caso de que se hubiere celebrado convenio con el deudor para el pago a plazos de un crédito vencido y uno de ellos no sea cubierto oportunamente, se dará por terminado el convenio procediéndose a su cobro como lo señalan las fracciones precedentes.
+III. Para el caso de que se hubiere celebrado convenio con el deudor para el pago a plazos o en parcialidades de un crédito vencido, dicho plazo no excederá de doce meses y cuando uno de ellos no sea cubierto oportunamente, se dará por terminado el Convenio, procediéndose a su cobro como lo señalan las fracciones precedentes.
 
 IV. Transcurrido el término que señala la fracción anterior, se ordenará requerir al deudor para que se efectúe el pago y en caso de no hacerlo en la misma diligencia se le embargarán bienes de su propiedad suficientes para garantizar el crédito fiscal y sus accesorios.
 
@@ -1340,6 +1356,14 @@ d).- Bienes raíces;
 e).- Negociaciones comerciales, industriales y agrícolas;
 
 f).- Créditos o derechos no comprendidos en el inciso b).
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+El dinero, metales preciosos y alhajas y valores inmobiliarios embargados se entregarán por el depositario a la oficina ejecutora, previo inventario, dentro de un plazo que no excederá de veinticuatro horas. Tratándose de los demás bienes, el plazo será de cinco días contados a partir de aquél en que fue hecho el requerimiento para tal efecto.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+Las sumas del dinero objeto del embargo, así como la cantidad que señale el propio ejecutado, la cual nunca podrá ser menor del 25% del importe de los frutos y productos de los bienes embargados, se aplicará a cubrir el crédito fiscal al recibirse en la caja de la oficina ejecutora.
 
 No afectará la validez y legalidad del embargo el hecho de que la persona con quien se entienda la diligencia, se niegue a designar testigos o a señalar los bienes que deban embargarse, bastando que así lo haga constar el ejecutor en el acta.
 
@@ -1519,9 +1543,39 @@ II.- El deudor deberá ponerse de acuerdo con la Tesorería sobre el nombramient
 
 III.- Si el deudor no se pone de acuerdo para los efectos de la fracción que antecede, con la Tesorería Municipal, ésta nombrará perito tercero, escogiéndolo dentro de los de institución bancaria.
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
 
-IV.- Los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles; diez días si son inmuebles y veinte días cuando sean negociaciones, a partir de la fecha de su designación.
+IV.- Si de las supervisiones realizadas se encontraran deficiencias, alteraciones u omisiones de los Peritos Valuadores, sin perjuicio de las sanciones penales o fiscales en que incurran, se les aplicarán las siguientes sanciones administrativas:
+
+a).- Apercibimiento por escrito.- Cuando mediante la supervisión realizada se detecten omisiones, deficiencias y alteraciones que afecten notablemente las bases de tributación del impuesto correspondiente.
+
+b).- Suspensión temporal.- Cuando se reincida en la causal de la fracción que antecede, hasta por el término de un año.
+
+c).- Cancelación de la cédula estatal.- Cuando habiendo suspendido temporalmente al valuador, incida nuevamente, en la causal a que se refiere la fracción anterior.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+V.- El Perito Valuador que se le suspenda temporalmente, no podrá realizar avalúos comerciales para efectos fiscales, durante ese período, sujetándose su reinscripción a los requisitos mencionados en el Artículo 65 de la Ley de Catastro Municipal.
+
+En el momento de la suspensión el perito valuador, reportará los avalúos hechos hasta esta fecha, así como los pendientes, quedando apercibido de que los no reportados no tendrán validez.
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 1990)</small>
+
+VI.- El nombre y el número que les corresponda a los Peritos Valuadores registrados, así como de los que se les aplique la suspensión o la cancelación del registro se hará del conocimiento de las siguientes instituciones:
+
+a).- H. Comisión Nacional Bancaria y de Seguros.
+
+b).- Colegio de Ingenieros.
+
+c).- Colegio de Arquitectos.
+
+d).- Sociedades Nacionales de Crédito que respalden los avalúos.
+
+e).- Notarios Públicos.
+
+f).- Tesoreros Municipales.
+
+Cuando los Peritos Valuadores cometan alguna infracción distinta a las previstas en el presente capítulo, se hará del conocimiento a la autoridad competente, independientemente de la imposición de las sanciones previstas en el Código Fiscal Municipal.
 
 ###### ARTICULO 144o.
 
@@ -1811,6 +1865,8 @@ La tramitación de los recursos administrativos establecidos en este Código y l
 
 I.- Se interpondrá por el recurrente mediante escrito el cual deberá satisfacer los requisitos del artículo 68-BIS, mismo que se presentará ante la autoridad que dictó o realizó el acto impugnado, dentro de los quince días siguientes al en que surta efectos su notificación, expresando los agravios que aquél le cause y ofreciendo las pruebas que se propongan rendir.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 1988)</small>
+
 Cuando no se haga alguno de los señalamientos anteriores, la autoridad fiscal requerirá al promovente para que en el plazo de cinco días lo indique, en caso de incumplimiento, se tendrá por no presentado el recurso.
 
 > <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 1988)</small>
@@ -1992,3 +2048,9 @@ P.O. 29 DE DICIEMBRE DE 1989.
 ###### ARTICULO UNICO.
 
 Este Decreto entrará en vigor el día primero de enero de mil novecientos noventa.
+
+P.O. 25 DE DICIEMBRE DE 1990.
+
+PRIMERO.- Todos los Peritos Valuadores que ejerzan dicha actividad en el ámbito Estatal, tienen noventa días para registrarse ante la Secretaría de Finanzas y Administración del Gobierno del Estado, contados a partir de que entra en vigor el presente Decreto.
+
+SEGUNDO.- Este Decreto empezará a surtir sus efectos al día siguiente de la fecha de su publicación en el Periódico Oficial del Gobierno del Estado.
