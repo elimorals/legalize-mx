@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-registro-publico-de-la-propiedad-de-tamaulipas-8330"
 country: "mx"
 rank: "ley"
 publication_date: "1927-02-02"
-last_updated: "1953-12-19"
+last_updated: "2001-10-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8330&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAM"
 
 LEY DEL REGISTRO PUBLICO DE LA PROPIEDAD DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE DICIEMBRE DE 1953.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTICULO TERCERO TRANSITORIO DEL DECRETO NO. 446, PUBLICADO EN EL P.O. EL 24 DE OCTUBRE DE 2001, POR EL QUE SE REFORMA EL CODIGO CIVIL PARA EL ESTADO DE TAMAULIPAS, EL PRESENTE ORDENAMIENTO QUEDARA ABROGADO A PARTIR DE LA PUBLICACION DEL REGLAMENTO A QUE SE REFIERE EL ARTICULO SEGUNDO TRANSITORIO DE DICHO DECRETO.</small>
+
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, los días 2, 5 y 9 de febrero de 1927.
 
@@ -1268,3 +1270,17 @@ TRANSITORIO UNICO:- Este Decreto surtir sus efectos a partir de su publicación 
 P.O. 19 DE DICIEMBRE DE 1953.
 
 TRANSITORIO UNICO:- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE OCTUBRE DE 2001.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado deberá expedir y publicar el Reglamento del Registro Público de la Propiedad y del Comercio, en un término no mayor de treinta días, contados a partir de la fecha de publicación del presente Decreto.
+
+###### ARTICULO TERCERO.
+
+Se abroga la Ley del Registro Público de la Propiedad de Tamaulipas, expedida mediante Decreto de fecha 25 de enero de 1927, publicado en el Periódico Oficial número 10, de fecha 2 de febrero de 1927, y sus reformas, con efectos a partir de la fecha de publicación del Reglamento a que se refiere el Artículo Transitorio anterior.
