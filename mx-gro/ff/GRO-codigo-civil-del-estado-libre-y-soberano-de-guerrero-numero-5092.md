@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "1993-03-02"
+last_updated: "1998-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 CODIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NUMERO 358
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE ENERO DE 1998.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -14209,6 +14209,14 @@ El crédito podrá cederse, en todo o en parte, siempre que la cesión se haga e
 
 Si la hipoteca se hubiere constituido para garantizar obligaciones a la orden, podrá transmitirse por endoso del título, sin necesidad de notificación al deudor, ni de registro. La hipoteca constituida para garantizar obligaciones al portador, se transmitirá por la simple entrega del título sin ningún otro requisito.
 
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1998)</small>
+
+El acreedor, podrá ceder sus créditos con garantía hipotecaria, sin necesidad de escritura pública, ni de inscripción en el Registro Público de la Propiedad, siempre que continúe con la administración de los créditos; de este acto sólo deberá dar aviso por escrito al deudor. En caso de que el cedente deje de llevar la administración de los créditos, el cesionario deberá únicamente notificar por escrito la cesión al deudor.
+
+> <small>(ADICIONADO, P.O. 6 DE ENERO DE 1998)</small>
+
+En los supuestos previstos en los dos párrafos anteriores, la inscripción de la hipoteca a favor del acreedor original se considerará hecha a favor de él o de los cesionarios, quienes tendrán todos los derechos y acciones derivados de ésta.
+
 ###### Artículo 2778.
 
 La hipoteca generalmente durará por todo el tiempo que subsista la obligación que garantice, y cuando ésta no tuviere término para su vencimiento, la hipoteca continuará vigente hasta en tanto no prescriba la obligación principal o se extinga por alguna otra cosa.
@@ -15306,3 +15314,9 @@ El Secretario General de Gobierno.
 C. CARLOS JAVIER VEGA MEMIJE.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 6 DE ENERO DE 1998.
+
+UNICO.- El presente Decreto entrará en vigor a los tres días siguientes de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
