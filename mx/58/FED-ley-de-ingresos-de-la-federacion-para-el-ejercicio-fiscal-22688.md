@@ -4,7 +4,7 @@ identifier: "FED-ley-de-ingresos-de-la-federacion-para-el-ejercicio-fiscal-22688
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2002-01-01"
-last_updated: "2002-07-05"
+last_updated: "2002-12-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22688&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2002-01-01"
 
 LEY DE INGRESOS DE LA FEDERACION PARA EL EJERCICIO FISCAL DE 2002
 
-TEXTO ORIGINAL.
-
-ULTIMA MODIFICACION MISCELANEA FISCAL DIARIO OFICIAL DE LA FEDERACION: 5 DE JULIO DE 2002.
+ULTIMA MODIFICACION MISCELANEA FISCAL DIARIO OFICIAL DE LA FEDERACION: 26 DE DICIEMBRE DE 2002.
 
 Ley publicada en el Diario Oficial de la Federación el martes 1 de enero de 2002.
 
@@ -57,7 +55,9 @@ El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Públic
 
 Se autoriza:
 
-Al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, para contratar, ejercer y autorizar créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, en los términos de la Ley General de Deuda Pública y para el financiamiento del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2002, por un monto de endeudamiento neto interno hasta por 110 mil millones de pesos. Este monto considera el financiamiento del Gobierno Federal contemplado en el artículo 1o. de esta Ley por un monto de 88,997.4 millones de pesos, así como recursos para cubrir la diferencia entre el valor de colocación y el valor nominal de la deuda pública, y margen solicitado por un monto conjunto de 21,002.6 millones de pesos. Asimismo, podrá contratar endeudamiento interno adicional al autorizado, siempre que los recursos obtenidos se destinen íntegramente a la disminución de la deuda pública externa. Para el cómputo de lo anterior, se utilizará el tipo de cambio que publique el Banco de México en el Diario Oficial de la Federación y que se haya determinado el último día hábil bancario del ejercicio fiscal del año 2002.
+> <small>(REFORMADO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+
+Al Ejecutivo Federal; por conducto de la Secretaría de Hacienda y Crédito Público, para contratar, ejercer y autorizar créditos, empréstitos y otras formas del ejercicio del crédito público, incluso mediante la emisión de valores, en los términos de la Ley General de Deuda Pública y para el financiamiento del Presupuesto de Egresos de la Federación para el ejercicio fiscal del año 2002, por un monto de endeudamiento neto interno hasta por 158 mil 878 millones de pesos. Este monto considera el financiamiento del Gobierno Federal contemplado en el artículo 1o. de esta Ley por un monto de 88,997.4 millones de pesos, así como recursos para cubrir la diferencia entre el valor de colocación y el valor nominal de la deuda pública, y margen solicitado por un monto conjunto de 21,002.6 millones de pesos, y para atender los requerimientos del Sistema Banrural para su disolución y proceso de liquidación, y para la creación de la Financiera Rural por un monto no mayor de 48 mil 878 millones de pesos. Asimismo, podrá contratar endeudamiento interno adicional al autorizado, siempre que los recursos obtenidos se destinen íntegramente a la disminución de la deuda pública externa. Para el cómputo de lo anterior, se utilizará el tipo de cambio que publique el Banco de México en el Diario Oficial de la Federación y que se haya determinado el último día hábil bancario del ejercicio fiscal del año 2002.
 
 También se autoriza al Ejecutivo Federal para que, a través de la propia Secretaría de Hacienda y Crédito Público, emita valores en moneda nacional y contrate empréstitos para canje o refinanciamiento de obligaciones del Erario Federal, en los términos de la Ley General de Deuda Pública. Asimismo, el Ejecutivo Federal queda autorizado para contratar créditos o emitir valores en el exterior con el objeto de canjear o refinanciar endeudamiento externo.
 
@@ -80,6 +80,10 @@ El Banco deberá efectuar la colocación de los valores a que se refiere el pár
 En cumplimiento de lo dispuesto por el artículo 45 de la Ley de Protección al Ahorro Bancario, se dispone que, en tanto se efectúe la colocación referida en el párrafo anterior, el Banco podrá cargar la cuenta corriente que le lleva a la Tesorería de la Federación, sin que se requiera la instrucción del Tesorero de la Federación, para atender el servicio de la deuda que emita el Instituto para la Protección al Ahorro Bancario. El Banco de México deberá abonar a la cuenta corriente de la Tesorería de la Federación, el importe de la colocación de valores que efectúe en términos de este artículo.
 
 Se autoriza a Financiera Nacional Azucarera, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, en liquidación, para que en el mercado interno y por conducto de su liquidador, contrate créditos o emita valores con el único objeto de canjear o refinanciar sus obligaciones financieras, a fin de hacer frente a sus obligaciones de pago, y en general, a mejorar los términos y condiciones de sus obligaciones financieras. Las obligaciones asumidas en términos de la presente autorización, estarán respaldadas por el Gobierno Federal en los términos previstos para los pasivos a cargo de las Instituciones de Banca de Desarrollo conforme a sus respectivas Leyes Orgánicas.
+
+> <small>(ADICIONADO, D.O.F. 26 DE DICIEMBRE DE 2002)</small>
+
+La cantidad de 48 mil 878 millones de pesos que se señala en el segundo párrafo de este artículo solamente se podrá utilizar para dar cumplimiento a lo establecido en los Artículos Octavo y Noveno Transitorios de la Ley Orgánica de la Financiera Rural. Para tal propósito, la Secretaría de Hacienda y Crédito Público, incluirá trimestralmente y en una sección específica en el Informe Sobre la Situación Económica, las Finanzas Públicas y la Deuda Pública, la información relativa al proceso de disolución y liquidación de las sociedades nacionales de crédito que integran el Sistema Banrural, así como de la constitución y puesta en operación de la Financiera Rural.
 
 ###### Artículo 3o.
 
@@ -1044,3 +1048,7 @@ D.O.F. 5 DE JULIO DE 2002.
 Transitorios (sic)
 
 Primero. La presente Resolución entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 26 DE DICIEMBRE DE 2002.
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
