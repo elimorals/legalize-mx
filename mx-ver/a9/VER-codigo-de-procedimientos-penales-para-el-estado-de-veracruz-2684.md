@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-penales-para-el-estado-de-veracruz-268
 country: "mx"
 rank: "codigo"
 publication_date: "1948-02-12"
-last_updated: "2001-11-20"
+last_updated: "2002-02-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE VERACRUZ
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE NOVIEMBRE DE 2001.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE FEBRERO DE 2002.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz-Llave el jueves 12, sábado 14, martes 17, jueves 19, sábado 21, martes 24, jueves 26 y sábado 28 de febrero; martes 2, jueves 4, sábado 6, martes 9, jueves 11, sábado 13 y martes 16 de marzo de 1948.
 
@@ -1075,11 +1075,17 @@ Las resoluciones que se dicten en los casos a que se refieren los dos artículos
 
 Para que el desistimiento de la acción penal produzca el efecto señalado en el artículo anterior, deberá ser formulado expresamente y de acuerdo con los requisitos fijados en este Código y en la Ley Orgánica del Ministerio Público.
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2002)</small>
 
-ARTICULO 141 A.- La persona ofendida por un delito o quien presente denuncia o querella podrá impugnar las resoluciones del Ministerio Público sobre la reserva de la averiguación previa y el no ejercicio de la acción penal mediante el recurso de queja que deberá interponer por escrito, dentro de los diez días siguientes a que se le notifique personalmente la resolución, ante el agente del Ministerio Público que la dictó.
+ARTICULO 141 A.- La persona ofendida por un delito, quien presente denuncia o querella, o sus representantes, podrá impugnar mediante el recurso de queja las determinaciones del Ministerio Público sobre la reserva de la averiguación previa o el no ejercicio de la acción penal, que tendrá como efectos revocar, modificar, confirmar o reponer el procedimiento.
 
-El Agente del Ministerio público que reciba el recurso deberá remitirlo sin dilación alguna y bajo su más estricta responsabilidad, dentro del término de setenta y dos horas de recepción, con un informe y con el expediente respectivo a la sala constitucional del Tribunal Superior de Justicia para los efectos de la fracción II del artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+El recurso se interpondrá por escrito ante el agente del Ministerio Público respectivo dentro del término de diez días, contados a partir de aquel en que surta sus efectos legales la notificación personal de la determinación impugnada, expresando agravios.
+
+Admitido el recurso, el Ministerio Público lo notificará al indiciado conforme a lo dispuesto por el artículo 111 de este Código, para que, dentro del término de tres días, exprese lo que a su interés convenga. Concluido éste, dentro de igual término, remitirá el expediente a la Sala Constitucional para lo previsto en la fracción II del artículo 64 de la Constitución Política del estado Libre y Soberano de Veracruz-Llave.
+
+La Sala Constitucional revisará las actuaciones y si advierte en ellas alguna irregularidad u omisión, las devolverá al Ministerio Público correspondiente para que las subsane; en caso contrario, previstos los trámites legales, procederá a dictar sentencia.
+
+El Ministerio público que reciba la resolución del recurso, informará a la Sala Constitucional, dentro de los tres días siguientes a su recepción, sobre su cumplimiento; hecho lo anterior, la sala archivará el expediente como asunto concluido. La dilación del Ministerio Público en la remisión de las actuaciones, el cumplimiento de la resolución o acuerdo de la Sala, se hará del conocimiento del procurador general de Justicia del estado, para que, en ejercicio de sus funciones, proceda conforme a derecho, sin perjuicio de que aquélla pueda aplicar las correcciones disciplinarias previstas por el artículo 49 fracciones I y II de este Código.
 
 > <small>(REFORMADO, G.O. 9 DE ENERO DE 2001)</small>
 
@@ -2157,11 +2163,13 @@ Si la apelación se declara admisible, o se varía el grado, se pedirá el testi
 
 ### CAPITULO IV. Inconformidad
 
-> <small>(ADICIONADO, G.O. 9 DE ENERO DE 2001)</small>
+> <small>(REFORMADO, G.O. 14 DE FEBRERO DE 2002)</small>
 
-Artículo 323 A.- La persona ofendida por un delito podrá impugnar las resoluciones de sobreseimiento dictadas por los jueces con motivo de las peticiones de desistimiento que formule el Ministerio Público, mediante el recurso de inconformidad; el cual deberá interponer por escrito ante el juez que la dictó, dentro de los diez días siguientes a que se le notifique personalmente la resolución.
+Artículo 323 A.- Las resoluciones de sobreseimiento a que se refiere el artículo 227 en sus fracciones I y II del Código de Procedimientos Penales, podrá ser impugnadas por la persona agraviada mediante el recurso de inconformidad que deberá interponer por escrito con la expresión de agravios, ante el juez que la dictó, dentro de los cinco días posteriores a su notificación personal.
 
-El juez que reciba el recurso, sin dilación alguna y bajo su más estricta responsabilidad, lo remitirá a la Sala Constitucional del Tribunal Superior de Justicia para los efectos de la fracción II del artículo 64 de la Constitución Política del Estado Libre y Soberano de Veracruz-Llave.
+Admitido el recurso, el juez notificará personalmente y dará vista con lo actuado al Ministerio Público, al procesado y a su defensor, para que, en el término de tres días, manifiesten lo que a sus intereses convenga; transcurrido éste en igual lapso, el juez enviará las constancias, debidamente certificadas de la causa penal, a la Sala Constitucional del Tribunal Superior de Justicia del estado, la cual al resolver, confirmará, modificará o revocará el sobreseimiento.
+
+En lo conducente, se aplicarán las disposiciones relativas al recurso de apelación.
 
 TITULO DECIMOPRIMERO
 
@@ -3062,3 +3070,9 @@ G.O. 20 DE NOVIEMBRE DE 2001.
 Artículo primero. El presente decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial del estado.
 
 Artículo segundo. Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+G.O. 14 DE FEBRERO DE 2002.
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Segundo. Remítase al titular del Poder Ejecutivo para su promulgación y publicación en el órgano oficial del gobierno del estado.
