@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "1934-12-15"
+last_updated: "1935-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 15 DE DICIEMBRE DE 1934.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 16 DE ENERO DE 1935.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -514,45 +514,23 @@ DE LAS PARTES INTEGRANTES DE LA FEDERACION Y DEL TERRITORIO NACIONAL.
 
 El territorio nacional comprende el de las partes integrantes de la Federación y además el de las islas adyacentes en ambos mares. Comprende, asimismo, la isla de Guadalupe, y las de Revillagigedo, situadas en el Océano Pacífico.
 
-> <small>(REFORMADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1935)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, y Territorios Norte y Sur de la Baja California.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Campeche, Coahuila, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas, Distrito Federal, Territorios Norte y Sur de la Baja California y de Quintana Roo.
 
 ###### Art. 44.
 
 El Distrito Federal se compondrá del territorio que actualmente tiene, y en el caso de que los Poderes Federales se trasladen a otro lugar, se erigirá en Estado del Valle de México, con los límites y extensión que le asigne el Congreso General.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 1931)</small>
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 1935)</small>
 
 ###### Art. 45.
 
-Los Estados y Territorios de la Federación conservan la extensión y límites que hasta hoy han tenido, siempre que no haya dificultad en cuanto a éstos; sirviendo de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º, de latitud Norte.
+Los Estados y Territorios de la Federación conservan su extensión y límites que hasta hoy han tenido siempre que no haya dificultad en cuanto a éstos, con excepción de los de Yucatán y Campeche, que se modificarán, quedando con los que tenían antes de las reformas constitucionales de 14 de diciembre de 1931 y 10 de enero de 1934. Las porciones territoriales a que se contraen dichas reformas, constituirán el Territorio de Quintana Roo.
 
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
-
-Se amplía la superficie del Estado de Yucatán con una parte del Territorio de Quintana Roo, cuyos límites quedan establecidos como sigue:
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
-
-Partiendo del vértice del ángulo formado por la línea que divide los estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE hasta encontrar el paralelo del 19º 30' latitud Norte en la intersección con el meridiano de 89º (longitud Oeste de Greenwich) continuando hacia el Este el mismo paralelo hasta encontrar el meridiano de 87° 50' (longitud Oeste de Greenwich) y de este punto hacia la bahía de La Ascensión en el punto por donde pasa el paralelo de 19º 35', siguiendo después por la costa Norte de la bahía de La Ascensión y todo el litoral del Mar Caribe hasta el Cabo Catoche; continuando hacia el Occidente las costas del Golfo de México hasta la intersección con la actual línea divisoria entre el Estado de Yucatán y el Territorio de Quintana Roo; siguiendo después sobre esta línea divisoria hasta llegar al punto de partida.
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
-
-Se amplía el territorio del Estado de Campeche, con una parte del Territorio de Quintana Roo, cuyos límites se establecen como sigue:
-
-> <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 1931)</small>
-
-Partiendo del vértice del ángulo formado por la línea que divide los Estados de Yucatán y Campeche, cerca de Put, se seguirá una línea recta inclinada de NO a SE y hacia esta última dirección, hasta la intersección del meridiano de 89º (longitud Oeste de Greenwich) y al paralelo de 19º 30' latitud Norte, siguiendo por este mismo paralelo hacia el Este hasta encontrar el meridiano de 87º 50' (longitud Oeste de Greenwich) y de este punto a la bahía de La Ascensión en el punto interceptado por el paralelo de 19° 35' latitud Norte; de este punto sigue la costa Sur de la bahía de La Ascensión y el litoral Sur del Mar Caribe hasta la frontera con Belice; siguiendo la línea divisoria hasta la desembocadura del río Hondo continuando después por el mismo río y luego la línea divisoria con Belice y Guatemala, hasta encontrar la actual línea divisoria entre el Estado de Campeche y el Territorio de Quintana Roo, y de allí, siguiendo hacia el Norte la misma línea hasta llegar al punto de partida.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 1934)</small>
-
-Las Islas de Cozumel, Cancum (sic), Mujeres, Blanca, Cantoy, Holbox y los cayos adyacentes situados desde la Bahía de la Ascensión al litoral Norte del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, quedan sujetas a la jurisdicción del Estado de Yucatán, y su extensión superficial se considerará comprendida dentro de los límites de dicha entidad federativa.
-
-> <small>(ADICIONADO, D.O.F. 22 DE MARZO DE 1934)</small>
-
-Los islotes y cayos adyacentes situados desde la Bahía de la Ascensión hacia el Sur del Mar Caribe, partiendo del paralelo 19 grados 35 minutos, quedan sujetos a la jurisdicción del Estado de Campeche.
+Servirá de línea divisoria entre los Territorios Norte y Sur de la Baja California, el paralelo 28º de latitud Norte.
 
 ###### Art. 46.
 
@@ -1909,3 +1887,25 @@ Se concede un plazo de seis meses a los agentes aduanales que en la actualidad f
 ###### ARTICULO 2o.
 
 Este Decreto entrará en vigor desde la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 16 DE ENERO DE 1935.
+
+###### ARTICULO 1o.
+
+La presente reforma entrará en vigor a partir de la fecha de su publicación en el "Diario Oficial" de la Federación.
+
+###### ARTICULO 2o.
+
+Los bienes inmuebles ubicados en la nueva entidad federativa, que pasaron a ser propiedad de los Estados de Yucatán y Campeche, con motivo del Decreto de 24 de octubre de 1932, así como los que con posterioridad se hubieren destinado al servicio público, pertenecerán al territorio de Quintana Roo; lo mismo se observará respecto de los bienes muebles que tengan igual destino, ya se encuentren dentro de los inmuebles de referencia o fuera de ellos.
+
+###### ARTICULO 3o.
+
+La organización política y judicial del Territorio de Quitana (sic) Roo, se regirá transitoriamente, en tanto no se reformen las leyes en vigor, por las que le eran aplicables el 14 de diciembre de 1931, en todo lo que no pugnen con la Constitución Federal.
+
+###### ARTICULO 4o.
+
+Las deudas pendientes hasta la fecha en que entre en vigor esta reforma, y que hubieren contraído los Estados de Yucatán y Campeche, con motivo de la administración del territorio anexado, quedarán a cargo de los Erarios respectivos y a su favor, igualmente, los créditos pendientes constituídos por el mismo objeto.
+
+###### ARTICULO 5o.
+
+Los Estados de Yucatán y Campeche, una vez que entre en vigor esta reforma constitucional, harán entrega a las autoridades de la nueva entidad de los archivos y expedientes que obren en las Oficinas Administrativas y en los Tribunales del lugar.
