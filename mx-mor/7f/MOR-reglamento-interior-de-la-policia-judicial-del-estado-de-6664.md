@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-policia-judicial-del-estado-de-6664"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-07-12"
-last_updated: "1995-07-12"
+last_updated: "1999-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA POLICIA JUDICIAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE FEBRERO DE 1999.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 12 de julio de 1995.
 
@@ -129,9 +129,11 @@ I.- Actuar bajo el mando directo e inmediato del Ministerio Público, conforme a
 
 II.- Recabar, por instrucciones del Ministerio Público, las pruebas que tiendan a la comprobación de los elementos del tipo delictivo que se investigue y la acreditación de la probable responsabilidad de los indiciados;
 
-III.- Cumplir inmediatamente con las órdenes de investigación y presentación que el Ministerio Público indique, así como las citaciones y notificaciones que el mismo funcionario solicite;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 1999)</small>
 
-IV.- Atender de inmediato los requerimientos que emita la autoridad jurisdiccional, ejecutando órdenes de aprehensión, cateos y otros mandamientos de la autoridad competente;
+III.- Cumplir inmediatamente con las órdenes de investigación que el Ministerio Público indique;
+
+IV.- (DEROGADA, P.O. 3 DE FEBRERO DE 1999)
 
 V.- Acatar las órdenes de su superior jerárquico con plena observancia de la Ley;
 
@@ -488,3 +490,11 @@ PROCURADOR GENERAL DE JUSTICIA.
 CARLOS PEREDO MERLO.
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 3 DE FEBRERO DE 1999.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Informativo del Estado de Morelos.
+
+SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan a lo establecido en el presente Decreto.
