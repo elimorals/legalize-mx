@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1933-10-01"
+last_updated: "1935-05-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE OCTUBRE DE 1933.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MAYO DE 1935.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -397,19 +397,29 @@ Los Distritos Electorales, se formarán tomando como base el último Censo efect
 
 Para renovarse la Legislatura parcialmente cada dos años, se efectuarán elecciones en los Distritos pares e impares alternativamente y según corresponda.
 
-> <small>(REFORMADO, P.O. 20 DE MAYO DE 1923)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 30 DE MAYO DE 1935)</small>
 
 ###### Artículo 55.
 
-Para ser Diputado se requieren los siguientes requisitos:
+Para ser diputado se requieren los siguientes requisitos:
 
-I.- Ser ciudadano durangueño en ejercicio de sus derechos.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 1935)</small>
+
+I. Ser ciudadano durangueño por nacimiento, en ejercicio de sus derechos.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
 II.- Saber leer y escribir.
 
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+
 III.- Tener para el día de la elección, veinticinco años cumplidos y residencia efectiva dentro del Territorio del Estado, inmediata al mismo día de la elección, cuando menos de seis meses si es nativo de él y de cinco años, si solo es ciudadano durangueño por vecidad (sic). La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular.
 
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
+
 IV.- No ser Ministro de CULTO ALGUNO.
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1923)</small>
 
 V.- No haber sido condenado por cualquier delito a más de un año de prisión, excepto el delito de culpa (sic), cualquiera que haya sido la pena; pero si hubiere sido condenado por robo, fraude, falsificación, abuso de confianza u otro delito que lastime seriamente la buena fama en el concepto público, quedará inhabilitado para el cargo, cualquiera que haya sido la pena.
 
@@ -1134,3 +1144,7 @@ Los Regidores de número par que resultaren electos en las próximas elecciones 
 ###### Artículo 2o.
 
 La reducción de los Magistrados del Supremo Tribunal de Justicia, se efectuará al iniciarse el próximo período Constitucional el primero de agosto del año de 1935.
+
+P.O. 30 DE MAYO DE 1935.
+
+Artículo Unico:- Este Decreto empezará a regir desde la fecha de su publicación en el Periódico Oficial del Estado.
