@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "1987-07-23"
+last_updated: "1990-11-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CODIGO PENAL PARA EL ESTADO DE QUERETARO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 01 DE NOVIEMBRE DE 1990.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987.
 
@@ -625,7 +625,7 @@ MEDIDAS DE SEGURIDAD
 
 ###### ARTICULO 68.
 
-El Órgano Jurisdiccional fijará la pena dentro de los limites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible, la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad del delito y la culpabilidad del sujeto.
+El Organo Jurisdiccional fijará la pena dentro de los límites señalados para cada delito, teniendo en cuenta los aspectos objetivos y subjetivos del hecho punible, la lesión o peligro del bien jurídico; las circunstancias de modo, tiempo y lugar; los motivos determinantes; las demás condiciones del sujeto activo y de la víctima, en la medida en que hayan influido en la comisión del delito, y las que determinen la gravedad del delito y la culpabilidad del sujeto.
 
 El órgano jurisdiccional ordenará de oficio la realización de los estudios criminológicos interdisciplinarios del imputado y tomará conocimiento directo de éste, del ofendido y de la ejecución del hecho en la medida requerida para cada caso.
 
@@ -681,7 +681,7 @@ I.- Cuando la conducta culposa origine por cualquier medio daño en las cosas, c
 
 II.- Cuando la conducta culposa origine lesiones de las comprendidas en el artículo 127 fracción I, y III de este Código.
 
-Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalables o cualquier otra que produzca efectos análogos.
+Este artículo sólo se aplicará cuando el imputado no se encontrare al cometer el delito en estado de ebriedad o bajo los efectos de psicotrópicos, estupefacientes, substancias volátiles inhalantes o cualquier otra que produzca efectos análogos.
 
 ###### ARTICULO 78.
 
@@ -783,7 +783,7 @@ I.- Que el reo haya delinquido por primera vez;
 
 II.- Que tenga modo honesto de vivir y haya observado buena conducta con anterioridad al delito, probada por hechos positivos.
 
-III.- Que durante el proceso no se haya sustraido a la acción judicial.
+III.- Que durante el proceso no se haya sustraído a la acción judicial.
 
 IV.- Que la duración de la pena no exceda de tres años.
 
@@ -1061,19 +1061,37 @@ Al que cause a otro un daño en su salud se le impondrá la pena que corresponda
 
 I.- De 3 a 9 meses de prisión o de 10 a 30 días multa, si tardan en sanar hasta 15 días.
 
-II.- De 3 meses a dos años de prisión si tardan en sanar más de 15 días.
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
-III.- De 3 meses a 4 años de prisión cuando dejen cicatriz permanentemente notable en la cara;
+II.- De tres meses a un año de prisión si tardan en sanar más de 15 días.
 
-IV.- De 1 a 5 años de prisión cuando disminuyan facultades o el normal funcionamiento de órganos o miembros;
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
-V.- De 2 a 6 años de prisión si ponen en peligro la vida;
+III.- De tres meses a tres años de prisión cuando dejen cicatriz permanentemente notable en la cara;
 
-VI.- De 3 a 8 años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
 
-VII.- De 3 a 10 años de prisión si causan incapacidad por más de un mes y menos de un año para trabajar en la profesión, arte u oficio del ofendido;
+IV.- De uno a tres años de prisión cuando disminuyan facultades o el normal funcionamiento de órganos o miembros;
 
-VIII.- De 5 a 10 años de prisión si causan incapacidad por mas de un año para trabajar en la profesión, arte u oficio del ofendido.
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
+
+V.- De dos a cuatro años de prisión si ponen en peligro la vida;
+
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
+
+VI.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
+
+> <small>(N. DE E., ESTA FRACCION SE REPITE CON EL CONTENIDO DE LA FRACCION VI BAJO EL NUMERAL VII)</small>
+
+VII.- De dos a cinco años de prisión si producen la pérdida de cualquier función orgánica, miembro, órgano o facultad, o causan una enfermedad cierta o probablemente incurable o deformidad incorregible;
+
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
+
+VII.- De tres a seis años de prisión si causan incapacidad por más de un mes y menos de un año para trabajar en la profesión, arte u oficio del ofendido;
+
+> <small>(REFORMADA, P.O. 01 DE NOVIEMBRE DE 1990)</small>
+
+VIII.- De cuatro a cinco años de prisión si causan incapacidad por mas de un año para trabajar en la profesión, arte u oficio del ofendido;
 
 IX.- De 6 a 12 años de prisión si causan incapacidad permanente para trabajar en cualquier arte, profesión u oficio.
 
@@ -1107,7 +1125,7 @@ V.- El delito se cometa dolosamente y no concurra ninguna de las circunstancias 
 
 ###### ARTICULO 132.
 
-La riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse reciprocamente.
+La riña es la contienda de obra o la agresión física de una parte y la disposición material para contender de la otra, cualquiera que sea el número de contendientes, cuando actúen con el propósito de dañarse recíprocamente.
 
 Al responsable de homicidio o lesiones en riña, se le impondrá hasta la mitad de la pena de prisión señalada para el delito simple, si se trata del provocador, y hasta la tercera parte en el caso del provocado.
 
@@ -1337,7 +1355,11 @@ E INEXPERIENCIA SEXUALES
 
 ###### ARTICULO 160.
 
-Al que por medio de la violencia realice cópula con una persona sin el consentimiento de ésta, se le impondrá prisión de 3 a 10 años.
+Al que por medio de la violencia realice cópula con una persona sin el consentimiento de ésta, se le impondrá pena de 3 a 10 años.
+
+> <small>(ADICIONADO, P.O. 01 DE NOVIEMBRE DE 1990)</small>
+
+Se impondrán las mismas penas señaladas en el párrafo anterior, al que introduzca por la vía anal o vaginal cualquier objeto o instrumento distinto del órgano sexual masculino, por medio de violencia física o moral, sea cual fuere el sexo del ofendido, sin perjuicio de que se imponga la pena que corresponda en lo establecido en las fracciones II, III, IV, V, VI y IX del artículo 127 de este Código.
 
 ###### ARTICULO 161.
 
@@ -1509,7 +1531,7 @@ Igual sanción se aplicará al que cometa robo de documentos que contengan oblig
 
 ###### ARTICULO 185.
 
-La pena que correponda (sic) al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que corresponda dentro del término señalado en el Código Civil.
+La pena que corresponda al robo simple se reducirá hasta la mitad al que halle en lugar público un bien mostrenco, se apodere de él y no lo entregue a la autoridad que correponda (sic) dentro del término señalado en el Código Civil.
 
 No habrá lugar a la disminución a que se refiere este Artículo, si al que se apoderó de la cosa le fuere reclamada por quien tenga derecho a ella y se rehúse a entregarla.
 
@@ -1589,7 +1611,7 @@ Se aplicarán las mismas penas previstas en el Artículo anterior:
 
 I.- Al que obtenga dinero, valores o cualquiera otra cosa, ofreciendo encargarse de la defensa o gestión a favor de un imputado o reo, o de la dirección o patrocinio en un asunto civil, laboral o administrativo, si no efectúa aquélla o no realiza ésta, sea porque no se haga cargo legalmente de la misma o porque renuncie o abandone el negocio o la causa sin motivo justificado;
 
-II.- Al que por título oneroso enajene alguna cosa, con conocimiento de que no tiene derecho para disponer de ella, o la arriende, hipoteque, empeñe a (sic) grave de cualquier otro modo, si ha recibido el precio, al alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
+II.- Al que por título oneroso enajene alguna cosa, con conocimiento de que no tiene derecho para disponer de ella, o la arriende, hipoteque, empeñe a (sic) grave de cualquier otro modo, si ha recibido el precio, el alquiler, la cantidad en que la gravó, parte de ellos o un lucro equivalente;
 
 III.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro otorgándole o endosándole a nombre propio o de otro un documento nominativo, a la orden o al portador contra una persona supuesta o que el otorgante sabe que no ha de pagarle;
 
@@ -2682,3 +2704,15 @@ LIC. MARIANO PALACIOS ALCOCER
 EL SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS A LAS REFORMAS DE LA PRESENTE LEY.</small>
+
+P.O. 01 DE NOVIEMBRE DE 1990
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial "La Sombra de Arteaga".
+
+###### ARTICULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a la presente.
