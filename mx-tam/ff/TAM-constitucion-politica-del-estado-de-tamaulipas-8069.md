@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1997-10-25"
+last_updated: "1998-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 1998.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -781,7 +781,7 @@ L. Conocer y resolver sobre la renuncia que presenten los Magistrados del Suprem
 
 > <small>(REFORMADA, [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1983)</small>
 
-LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentaria;
+LI. Expedir Leyes que regulen las relaciones laborales del Estado y los Municipios con sus respectivos trabajadores, en base a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias;
 
 LII. (DEROGADA, P.O. 3 DE DICIEMBRE DE 1941)
 
@@ -1245,7 +1245,7 @@ Se prohibe al Gobernador:
 
 I. Negarse a sancionar y publicar las leyes y decretos que expida el Congreso, en los términos que prescribe esta Constitución.
 
-II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción.
+II. Ingerirse directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna ley o hacer observaciones a las que se remitan para su sanción;
 
 III. Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exijan, y aun entonces deberá ponerla en libertad o a disposición de la autoridad competente en el preciso término de treinta y seis horas, salvo lo prevenido en la fracción XXXII del artículo anterior.
 
@@ -1255,9 +1255,9 @@ V. Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cos
 
 VI. Distraer los caudales públicos de los objetos a que están destinados por la ley.
 
-> <small>(REFORMADA, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
-VII.- Expedir órdenes de recaudación o pago, sino por conducto de la Secretaría de Hacienda;
+VII.- Expedir órdenes de recaudación o pago, sino por conducto de la Secretaría del ramo;
 
 VIII. Impedir o retardar la instalación del Congreso.
 
@@ -1837,11 +1837,11 @@ El sistema educativo estatal se constituye por la educación que impartan el Est
 
 En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO, P.O.26 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 141.
 
-La Dirección Técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de una dependencia que se denominará Secretaría de Educación, Cultura y Deporte, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
+La dirección técnica de las Escuelas Oficiales del Estado, de sus Municipios y organismos descentralizados de éstos, con excepción de los que la Ley les otorgue autonomía, estará a cargo del Ejecutivo por conducto de la Secretaría del ramo, la que además ejecutará la vigilancia e inspección oficiales de las escuelas particulares del Sistema Educativo Estatal.
 
 > <small>(REFORMADO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -2049,11 +2049,13 @@ Ningún empleado o funcionario público percibirá más de un sueldo, excepción
 
 Los empleados y funcionarios que manejen fondos públicos, caucionarán su manejo a juicio del Ejecutivo.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 1998)</small>
 
 ###### Art. 162.
 
-La Secretaría de Hacienda del Estado y áreas de su dependencia, no harán pago alguno que no vaya autorizado con la firma del Gobernador y del Secretario General de Gobierno. Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
+La Secretaría del ramo, no hará pago alguno que no haya autorizado con la firma del Gobernador y del Secretario General de Gobierno.
+
+Los Tesoreros Municipales sólo harán pagos obedeciendo órdenes firmadas por el Presidente Municipal y el Secretario del Ayuntamiento. El Tesorero o empleado que desobedeciere esta regla, será castigado con la pena de destitución, sin perjuicio de consignarlo a la autoridad judicial competente.
 
 ###### Art. 163.
 
@@ -2861,13 +2863,11 @@ P.O. 25 DE OCTUBRE DE 1997.
 
 El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
+P.O. 26 DE DICIEMBRE DE 1998.
+
 ###### ARTICULO UNICO.
 
-La presente adición entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 3 DE FEBRERO DE 1983.
-
-DECRETO QUE REFORMA EL ARTÍCULO 21.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTICULO PRIMERO.
 
