@@ -4,7 +4,7 @@ identifier: "SON-codigo-de-procedimientos-penales-para-el-estado-de-sonora-8462"
 country: "mx"
 rank: "codigo"
 publication_date: "1949-08-17"
-last_updated: "1975-02-01"
+last_updated: "1977-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8462&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CODIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 1 DE FEBRERO DE 1975.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 1977.
 
 Código publicado en la Sección Segunda del Boletín Oficial del Estado de Sonora, el miércoles 17 de agosto de 1949.
 
@@ -307,15 +307,17 @@ Los tribunales deben dictar de oficio los trámites y providencias encaminadas a
 
 ### CAPITULO V. Correcciones Disciplinarias y Medios de Apremio
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 47.
 
-Son correcciones disciplinarias:
+Son correscciones (sic) disciplinarias:
 
 I.- Apercibimiento;
 
-II.- Multa de cinco a doscientos pesos;
+II.- Multa de cien a dos mil pesos;
 
-III.- Arresto hasta de quince días; y
+III.- Arresto hasta por quince días, y
 
 IV.- Suspensión de funcionarios y empleados judiciales hasta por un mes.
 
@@ -325,11 +327,13 @@ Contra cualquiera providencia en que se imponga alguna corrección disciplinaria
 
 En vista de lo que manifieste el interesado, el funcionario que la hubiere impuesto resolverá desde luego lo que estime procedente.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 49.
 
-El Ministerio Público en la averiguación previa, y los tribunales, en cualquier período del procedimiento, podrán emplear, para hacer cumplir sus determinaciones, los siguientes medios de apremio:
+El Ministerio Público en la averiguación previa, y los tribunales en cualquier período del procedimiento, podrán emplear, para hacer cumplir sus determinaciones los siguientes medios de apremio:
 
-I.- Multa de cinco a quinientos pesos;
+I.- Multa de cien a dos mil pesos;
 
 II.- Auxilio de la fuerza pública; y
 
@@ -2003,9 +2007,11 @@ V.- La naturaleza de la garantía que se ofrezca.
 
 La naturaleza de la caución quedará a elección del inculpado, quien al solicitar la libertad, manifestará la forma que elige para los efectos de la fracción V del artículo anterior. En caso de que el inculpado, su representante o su defensor, no hagan la manifestación mencionada, el tribunal de acuerdo con el artículo que antecede, fijará las cantidades que correspondan a cada una de las formas de la caución.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 354.
 
-La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas, en la oficina o sucursal del Banco de México, que hubiere en el lugar, o en la Institución de Crédito autorizada para ello, o a falta de una u otra en alguna casa de comercio de reconocida solvencia. El certificado correspondiente se depositará en la caja de valores del tribunal, asentándose constancia de ello en autos. Cuando por razón de la hora o por ser día feriado no pueda constituirse el depósito directamente en las instituciones mencionadas, el tribunal recibirá la cantidad exhibida y la mandará depositar en aquéllas el primer día hábil.
+La caución consistente en depósito en efectivo, se hará por el inculpado o por terceras personas, ante el Tribunal que corresponda y previa razón que se tome en autos, y en el libro de valores respectivo, se remitirá al Fondo para la Administración de Justicia.
 
 ###### ARTICULO 355.
 
@@ -2069,11 +2075,13 @@ III.- Cuando con posterioridad se demuestre la insolvencia del fiador;
 
 IV.- En el caso del artículo 366.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 364.
 
-En los casos de las fracciones I y VII del artículo 362, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto el tribunal enviará el certificado de depósito o el testimonio de la hipoteca a la autoridad fiscal para su cobro.
+En los casos de las fracciones I y VII del artículo 362, se mandará reaprehender al inculpado y la caución se hará efectiva, a cuyo efecto se notificará esa determinación al Fondo para la Administración de la Justicia para los efectos del artículo 368; en caso de que la libertad se hubiese garantizado con hipoteca, se enviará el testimonio de la hipoteca a la autoridad fiscal para su cobro.
 
-En los casos de las fracciones II, III, V y VI del mismo artículo 362 y III del 363, se ordenará la reaprehensión del inculpado. En los casos de las fracciones IV del artículo 362 y II del 363, se remitirá al inculpado al establecimiento que corresponda.
+En los casos de las fracciones II, III, V y VI del mismo artículo 362 y III del 363 se ordenará la reaprehensión del inculpado. En los casos de las fracciones IV del artículo 362 y II del 363, se remitirá al inculpado al establecimiento que corresponda.
 
 ###### ARTICULO 365.
 
@@ -2097,9 +2105,11 @@ Cuando un tercero haya constituído depósito, fianza o hipoteca, para garantiza
 
 El importe de la caución se exigirá por la autoridad fiscal en los términos de la ley que reglamenta la facultad económico-coactiva.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 368.
 
-En los casos del primer párrafo del artículo 364 y de la última parte del artículo 366, la autoridad fiscal conservará en su poder el importe de la caución que se haya hecho efectiva, entretanto se resuelva sobre la reparación del daño, para los efectos del último párrafo del artículo 34 del Código Penal.
+En los casos del primer párrafo del artículo 364 y de la última parte del 366, el Fondo para la Administración de Justicia conservará en su poder el importe de la caución que se haya hecho efectiva, entre tanto se resuelve sobre la reparación del daño, para los efectos del último párrafo del artículo 34 del Código Penal.
 
 ### CAPITULO III. Libertad por desvanecimiento de datos
 
@@ -2795,11 +2805,13 @@ Ejecución
 
 En toda sentencia condenatoria el tribunal que la dicte prevendrá que se amoneste al reo para que no reincida, advirtiéndole de las sanciones a que se expone, lo que se hará en diligencia con las formalidades que señala el artículo 42 del Código Penal. La falta de esa diligencia no impedirá que se hagan efectivas las sanciones de reincidencia que fueren procedentes.
 
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1977)</small>
+
 ###### ARTICULO 480.
 
-La ejecución de las sentencias irrevocable corresponde al órgano que designe el Ejecutivo del Estado, quien determinará en su caso, el lugar en que deba sufrir el reo la sanción privativa de la libertad.
+La ejecución de las sanciones irrevocables que imponga una sanción corporal, corresponde al Organo que designe el Ejecutivo del Estado, quien determinará, en su caso, el lugar en que deba cumplir el reo la pena privativa de libertad; si la sentencia impone además una sanción pecuniaria o solamente ésta, su importe se hará efectivo a favor del Fondo para la Administración de Justicia en lo que corresponda.
 
-Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean cumplidas y lo hará así, ya gestionando cerca de las autoridades administrativas lo que proceda, o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido, en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
+Será deber del Ministerio Público practicar todas las diligencias conducentes a fin de que las sentencias sean cumplidas y lo hará así, ya gestionando cerca de las autoridades administrativas o ya exigiendo ante los tribunales la represión de todos los abusos que aquéllas o sus subalternos cometan, cuando se aparten de lo prevenido, en las sentencias, en pro o en contra de los individuos que sean objeto de ellas.
 
 ###### ARTICULO 481.
 
@@ -3152,3 +3164,7 @@ Se conmuta la pena de muerte por los 30 años de prisión a los condenados por s
 ###### ARTICULO SEGUNDO.
 
 Esta Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado.
+
+B.O. 31 DE DICIEMBRE DE 1977.
+
+UNICO.- La presente ley entrará en vigor tres días después de su publicación en el Boletín Oficial del Estado.
