@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-turismo-del-distrito-federal-14948"
 country: "mx"
 rank: "ley"
 publication_date: "1998-05-22"
-last_updated: "2002-08-29"
+last_updated: "2003-05-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14948&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "1998-05-20"
 
 LEY DE TURISMO DEL DISTRITO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 29 DE AGOSTO DE 2002.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MAYO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el viernes 22 de mayo de 1998.
 
@@ -968,7 +968,7 @@ La interposición del recurso suspenderá la resolución impugnada por cuanto ha
 
 Las sanciones de carácter económico impuestas en los términos de la presente ley, se harán efectivas y ejecutadas por medio de la Secretaría de Finanzas del Gobierno, a través del correspondiente procedimiento administrativo.
 
-### CAPITULO lX. PRESTADORES DE SERVICIOS TURISTICOS
+### CAPITULO IX. PRESTADORES DE SERVICIOS TURISTICOS
 
 ### CAPITULO X. REGISTRO DE TURISMO DEL DISTRITO FEDERAL
 
@@ -1022,11 +1022,19 @@ Se derogan todas aquellas disposiciones que contravengan el contenido del presen
 
 El Jefe de Gobierno del Distrito Federal expedirá las disposiciones reglamentarias correspondientes derivadas del presente decreto, en un plazo no mayor a los noventa días después de la entrada en vigor del mismo.
 
-G.O. 29 DE AGOSTO DE 2002.
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2003)</small>
 
 ###### ARTÍCULO CUARTO.
 
-La integración del Comité Técnico del Fondo Mixto de Promoción Turística del Distrito Federal se renovará conforme lo dispuesto en el presente Decreto a partir del 1° de enero de 2003.
+Los procedimientos para que la totalidad de los prestadores de servicios de turismo alternativo del Distrito Federal obtengan los permisos a los que se refiere el Capítulo VII BIS del presente Decreto, serán determinados por la Secretaría en coordinación con la Secretaría del Medio Ambiente y deberán publicarse en la Gaceta Oficial del Distrito Federal antes del 30 de noviembre de 2003.
+
+> <small>(ADICIONADO, G.O. 27 DE MAYO DE 2003)</small>
+
+###### ARTÍCULO QUINTO.
+
+Los prestadores de servicios turísticos a que se refiere el Capítulo VII Bis del presente Decreto, contarán con un plazo que se extenderá hasta el 31 de diciembre de 2003 a partir de la publicación de los procedimientos que menciona el Artículo anterior, para obtener el permiso correspondiente de la autoridad, de conformidad con lo dispuesto en el mismo Capítulo.
+
+G.O. 29 DE AGOSTO DE 2002.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1039,3 +1047,11 @@ Se derogan todas aquellas disposiciones que contravengan en contenido del presen
 ###### ARTÍCULO TERCERO.
 
 El Jefe de Gobierno del Distrito Federal expedirá las disposiciones reglamentarias correspondientes derivadas del presente decreto, en un plazo no mayor a los noventa días después de la entrada en vigor del mismo.
+
+###### ARTÍCULO CUARTO.
+
+La integración del Comité Técnico del Fondo Mixto de Promoción Turística del Distrito Federal se renovará conforme lo dispuesto en el presente Decreto a partir del 1° de enero de 2003.
+
+G.O. 27 DE MAYO DE 2003.
+
+> <small>N. DE E. EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA ENTRADA EN VIGOR DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL VIGENTE PARA EL DISTRITO FEDERAL.</small>
