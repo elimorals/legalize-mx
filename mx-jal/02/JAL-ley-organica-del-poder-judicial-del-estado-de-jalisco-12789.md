@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-judicial-del-estado-de-jalisco-12789"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-07-01"
-last_updated: "2004-08-26"
+last_updated: "2004-09-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2004.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2004.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 1 de julio de 1997.
 
@@ -911,9 +911,9 @@ V. Decretar las medidas de apremio para hacer cumplir las determinaciones de la 
 
 VI. Emitir opinión, respecto a las solicitudes de licencia que presente el personal de la Sala; y
 
-> <small>(REFORMADA, P.O. 10 DE ENERO DE 1998)</small>
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 1997)</small>
 
-VII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
+VIII. Las demás atribuciones que le confiera el Pleno del Tribunal de lo Administrativo.
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA SER MAGISTRADO ELECTORAL, SECRETARIO GENERAL DE ACUERDOS Y SECRETARIOS RELATORES
 
@@ -1634,6 +1634,10 @@ X. Acatar la jurisprudencia de la Suprema Corte de Justicia de la Nación y del 
 XI. Proponer al Pleno del Consejo General, el personal del juzgado a su cargo; y
 
 XII. Las demás que les impongan las leyes.
+
+> <small>(ADICIONADO, P.O. 18 DE SEPTIEMBRE DE 2004)</small>
+
+En el caso de la fracción XI, los jueces al proponer el personal del juzgado deberán hacerlo preferentemente a favor de quien tenga mejor derecho de acuerdo al sistema de Carrera Judicial, de no ser así, podrán hacerlo a favor de persona ajena al Poder Judicial, en cuyo caso deberá motivarse la propuesta. Si el Consejo no aprueba al candidato, el juez presentará otra y hasta una tercera propuesta, de ser necesario. De ser rechazadas el Consejo elegirá para el cargo a quien hubiere obtenido mayor votación.
 
 ###### Artículo 111.
 
@@ -3038,3 +3042,9 @@ P.O. 26 DE AGOSTO DE 2004.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente a la entrada en vigor del decreto número 20514 que contiene reformas al artículo 111 de la Constitución Política del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO.- El Comité Técnico de Transparencia y Valoración Salarial, deberá reunirse de forma inmediata a fin de aprobar su reglamento interno. El reglamento deberá ser aprobado dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 18 DE SEPTIEMBRE DE 2004.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Publíquese el presente decreto en uno de los diarios de mayor circulación en el Estado, de conformidad a lo previsto en el artículo 15 de la Ley para la Divulgación de la Legislación del Estado de Jalisco.
