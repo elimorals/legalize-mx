@@ -4,7 +4,7 @@ identifier: "BCS-codigo-fiscal-para-el-estado-y-municipios-de-baja-2845"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-02-28"
-last_updated: "1987-02-28"
+last_updated: "1987-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CODIGO FISCAL PARA EL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 20 DE DICIEMBRE DE 1987.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 28 de febrero de 1987.
 
@@ -237,17 +237,19 @@ I.- Cuando desaparezca o resulte insuficiente la garantía del interés fiscal.
 
 II.- Cuando el deudor sea declarado en quiebra o solicite su liquidación judicial.
 
-III.- Cuando en su caso, deje de cubrirse algunas de las parcialidades. Y
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+III.- Cuando en su caso, deje cubrir alguna de las parcialidades; y
 
 IV.- Cuando el interesado, durante la prórroga a la autorización, incurra en incumplimiento de pagos derivados de la misma Ley Fiscal.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 27.
 
-Cuando no se pague un crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco por falta de pago oportuno.
+Cuando no se pague el crédito fiscal en la fecha o dentro del plazo señalado en las disposiciones respectivas, deberán cubrirse recargos en concepto de indemnización al fisco por falta de pago oportuno.
 
-La tasa de recargos será un 50% mayor que la que fije la Ley de Ingresos, debiendo causarse por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos no excederán de dos veces el importe del crédito fiscal de que se trate.
-
-Los créditos fiscales que no se enteren con puntualidad, causarán recargos, que ascenderán hasta el 200% del importe del crédito fiscal de que se trate.
+Dichos recargos se calcularán conforme a una tasa que será 50% mayor que la que fije la Ley de Ingresos, debiendo causarse por cada mes o fracción que transcurra a partir de la fecha de exigibilidad hasta que se efectúe el pago. Los recargos se causarán hasta por cinco años y se calcularán sobre el total del crédito fiscal, excluyendo los propios recargos.
 
 ###### ARTICULO 28.
 
@@ -485,9 +487,11 @@ IV.- Cuando se lleve doble juego de libros de contabilidad o registro con anotac
 
 V.- Lo dispuesto en este precepto no modifica los procedimientos para determinar o estimar la situación fiscal de los sujetos pasivos que contienen otras disposiciones fiscales.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 63.
 
-Para verificar el cumplimiento de las obligaciones fiscales a cargo de los sujetos pasivos o responsables solidarios la Secretaría de Finanzas ordenará la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
+Para verificar el cumplimiento de las obligaciones fiscales a cargo de los sujetos pasivos o responsables solidarios, la Secretaría de Finanzas ordenará la práctica de visitas domiciliarias, las que se sujetarán a lo siguiente:
 
 I.- La orden de visita deberá estar firmada por el Secretario o SubSecretario de Finanzas, que expresará:
 
@@ -515,13 +519,17 @@ V.- El visitado o la persona con la que se entiende la diligencia, los testigos 
 
 VI.- Con las mismas formalidades indicadas en la Fracción anterior, se levantarán actas parciales o complementarias para hacer constar hechos concretos en el curso de una visita o después de una conclusión. Y
 
-VII.- El visitado o quién lo represente, deberá expresar dentro de los 20 días siguientes al cierre del Acta final, ante la Secretaría de Finanzas, las razones de su inconformidad, expresadas en forma circunstanciada; ofreciendo las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad o a más tardar dentro de los 30 días siguientes a la presentación de la misma; el plazo para rendir pruebas podrá ampliarse a instancia justificada del interesado a juicio de la Secretaría de Finanzas. En caso de que no se ofrezcan pruebas se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en el Acta final.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+VII.- El visitado o quien lo represente, deberá expresar dentro de los 45 días siguientes al cierre del Acta Final, ante la Secretaría de Finanzas, las razones de su inconformidad, expresados en forma circunstanciada; ofreciendo las pruebas pertinentes, las que deberán rendir simultáneamente a su inconformidad. El plazo para rendir pruebas podrá ampliarse a instancia del interesado a juicio de la Secretaría de Finanzas. En caso de que no se ofrezcan pruebas, se perderá el derecho de hacerlo posteriormente y se tendrá al visitado conforme con los hechos asentados en el Acta Final.
 
 ###### ARTICULO 64.
 
 Los hechos afirmados en los dictámenes que formulen Contadores Públicos sobre los estados financieros y su relación con las declaraciones fiscales se presumirán ciertos, salvo prueba en contrario, si se reúnen los siguientes requisitos:
 
-I.- Que el Contador Público que dictamine esté registrado en el Departamento de Fiscalización de la Secretaría de Finanzas. Se inscribirá para estos efectos a las personas que tengan título de Contador Público registrado en la Dirección General de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+I.- Que el Contador Público que dictamine, esté registrado en la Dirección de Auditoría Fiscal de la Secretaría de Finanzas; se inscribirán para estos efectos, a las personas que tengan título de Contador Público registrado en la Dirección de Profesiones de la Secretaría de Educación Pública o en la Dirección de Educación Pública del Estado.
 
 II.- Que el dictamen se formule de acuerdo con las disposiciones fiscales y, en su defecto, conforme a las normas y procedimientos de Auditoría Generalmente aceptados. La Secretaría de Finanzas, podrá cerciorarse mediante revisión o pruebas selectivas del cumplimiento de esta Fracción.
 
@@ -611,13 +619,21 @@ XXI.- Declarar ingresos menores de los percibidos; hacer deducciones falsas; ocu
 
 XXII.- Resistirse por cualquier medio a las visitas de inspección; no suministrar los datos e informes que legalmente puedan exigir los inspectores; no mostrar los sistemas de contabilidad, documentos, registros o impedir el acceso a los almacenes, depósitos, bodegas o cualquiera otra dependencia, y en general, negarse a proporcionar los elementos que se requieren para comprobar la situación fiscal del visitado, en relación con el objeto de la visita. Y
 
-XXIII.- Faltar en cualquier otra forma no prevista en las Fracciones anteriores al cumplimiento de las obligaciones que les imponen este Código o cualquier disposición fiscal.
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+XXIII.- No obtener la licencia correspondiente a su giro o actividad, dentro de los primeros diez días de inicio de sus actividades o el refrendo del mismo en el mes de enero de los años subsecuentes; y
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+XXIV.- Faltar en cualquier otra forma no prevista en las Fracciones anteriores al cumplimiento de las obligaciones que les impone este Código o cualquier disposición fiscal.
 
 ###### ARTICULO 72.
 
 Son infracciones cuya responsabilidad recae sobre los responsables solidarios:
 
-I.- No cumplir las obligaciones que señalan las disposiciones fiscales de inscribirse o registrarse.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+I.- No cumplir las obligaciones que señalan las disposiciones fiscales de inscribirse, registrarse y obtener la licencia correspondiente al giro o establecimiento.
 
 II.- No presentar, o hacerlo extemporáneamente, los avisos, declaraciones, manifestaciones, solicitudes, datos, informes, copias, libros o documentos que exijan las disposiciones fiscales; no comprobarlos o aclararlos cuando las autoridades fiscales lo soliciten.
 
@@ -733,17 +749,23 @@ X.- El Secretario de Finanzas o Tesoreros Municipales, se abstendrán de imponer
 
 No se considerará que el entero es espontáneo cuando la omisión sea descubierta por las autoridades fiscales o medie requerimiento visita, excitativa o cualquiera otra gestión efectuada par las mismas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 76.
 
-Se impondrá multa por cada infracción de las previstas en los Artículos 71, 72 y 73, como sigue:
+Se impondrá multa por cada infracción de las revistas (sic) en los Artículos 71, 72 y 73, como sigue:
 
 I.- De un salario mínimo general de la zona al Artículo 71, Fracciones VI y X.
 
-II.- De una a diez veces el salario mínimo general a los ARtículos (sic) 71 Fracciones V, XVII y XXIII; 72, Fracciones II, V y IX; 73, Fracciones III, VII, VIII, XII, XIV, inciso c), XVI y XVII.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+II.- De una a diez veces el Salario Mínimo General de la zona a los Artículos 71 Fracciones V, XVII y XXIV 72 Fracciones II, V y IX; 73 Fracciones III, VII, VIII, XII y XIV inciso c), XVI y XVII.
 
 III.- De una a cincuenta veces salario mínimo de la zona a los Artículos 71 Fracciones VII, XXII, 72 Fracciones VI, VII y VIII; 73 Fracciones V, VI y XV.
 
-IV.- De una a cien veces salario mínimo general de la zona a los Artículos 71, Fracciones I, II, XI, XIII y XVI; 72 Fracción I; 73, Fracciones IX, X, XI, XIII y XIV inciso a), b), d), f) y g).
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+IV.- De una a cien veces el Salario Mínimo General de la zona a los Artículos 71, Fracciones I, II, XI, XIII, XVI y XXIII; 72 Fracción I; 73, Fracciones IX, X, XI, XIII y XIV inciso a), b), d), f) y g.
 
 V.- De diez a 500 veces salario mínimo general de la zona a los Artículos 71, Fracciones III, IV y XIV; Artículo 73, Fracciones I, II y XIV, inciso e).
 
@@ -752,6 +774,10 @@ VI.- Hasta un tanto de la prestación fiscal en el caso del Artículo 71, Fracci
 VII.- De cinco a cien veces salario mínimo general de la zona a los Artículos 71, Fracciones VIII, IX, XII, XVIII, XX y XXI; 72, Fracciones III y IV y 73, Fracción IV, cuando no pueda precisarse el monto de la prestación fiscal omitida. De lo contrario, la multa será hasta de tres tantos del importe de dicha prestación. Y
 
 VIII.- De cincuenta a mil veces salario mínimo general de la zona al Artículo 71, Fracción XV, sin perjuicio de la denuncia ante el Ministerio Público para que ejercite, en su caso, la acción penal correspondiente.
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+IX.- Se clausurará a los giros y establecimientos que no obtengan la licencia o refrendo para operar, que se previenen en los artículos 71 fracción XXIII y 72 fracción I, dentro del plazo establecido por este Código; sin perjuicio de la sanción pecuniaria que corresponda.
 
 ## TITULO QUINTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
@@ -817,23 +843,33 @@ Las autoridades fiscales podrán habilitar, mediante acuerdo escrito, horas o d�
 
 ### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 87.
 
 Cuando un crédito fiscal no quede satisfecho dentro del plazo que para el efecto señalen las disposiciones legales, se exigirá su pago mediante el procedimiento administrativo de ejecución.
 
-Para determinar un crédito fiscal en los casos de falta de presentación de las declaraciones mensuales de ingresos, dentro de los plazos establecidos en esta Ley u otras Leyes Fiscales, la Secretaría de Finanzas o sus oficinas recaudadoras requerirán al causante moroso para que presente en un plazo de tres días la declaración o declaraciones omitidas; de lo contrario, la Secretaría de Finanzas o sus oficinas exactoras procederán a formular una liquidación provisional del impuesto correspondiente, tomando como base el ingreso más alto declarado durante los tres últimos pagos o a falta de estos datos con los que tengan a su alcance, y si en el término da quince días no presentare su declaración, la liquidación provisional se considerará como formulada por el causante, para el efecto de seguir el procedimiento de Ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
+Para determinar un crédito fiscal en los casos de falta de presentación de las declaraciones mensuales de ingresos dentro de los plazos establecidos en esta Ley u otras Leyes Fiscales, la Secretaría de Finanzas o sus Oficinas Recaudadoras requerirán al contribuyente moroso para que presente en un plaso (sic) de seis días las declaraciones omitidas, de lo contrario, la Secretaría de Finanzas o sus Oficinas Extractoras procederán a formular una liquidación provisional del impuesto correspondiente, tomado como base del ingreso más alto declarado durante los seis últimos pagos o a falta de estos datos, con los que tengan a su alcance y, si en término de quince días no presentare su declaración, la liquidación provisional se considera como formulada por el contribuyente para el efecto de seguir el procedimiento de ejecución, sin perjuicio de la facultad de revisión de la Secretaría de Finanzas.
+
+Cuando sea necesario emplear el procedimiento administrativo de ejecución para hacer efectivo un crédito fiscal, las personas físicas y morales estarán obligadas a pagar el 2% del crédito fiscal por gastos de ejecución.
+
+Cuando el 2% del crédito sea inferior a una vez el Salario Mínimo General diario de la zona, se cobrará esta cantidad en vez del 2% del crédito.
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo a las erogaciones extra-ordinarias, podrán exceder de la cantidad equivalente a un Salario Mínimo General de la zona correspondiente al Estado de Baja California Sur elevado al año.
 
 ###### ARTICULO 88.
 
 Los vencimientos que ocurran durante el procedimiento, incluso recargos, gastos de ejecución, y cualesquiera otros, se harán efectivos, juntamente con el crédito inicial, sin necesidad de notificación ni otras formalidades especiales.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 89.
 
-No satisfecho el crédito dentro del plazo legal, la oficina recaudadora requerirá al deudor para que efectúe el pago del crédito dentro de los tres días siguientes, con el apercibimiento de que si no lo hiciere se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales o se le clausurará el establecimiento.
+No satisfecho el crédito fiscal dentro del plazo legal, la Oficina Recaudadora requerirá al deudor para que efectúe el pago del crédito dentro de los seis días siguientes, con el apercibimiento de que si no lo hiciere se le embargarán bienes suficientes para hacer efectivo el crédito fiscal y sus accesorios legales o se le clausurará el establecimiento.
 
-El requerimiento de pago se notificará, según el caso, en los términos de las Fracciones I o III del Artículo 77 de este Código.
+El requerimiento de pago se notificará, según el caso, en los términos de las fracciones I o III del Artículo 77 de este Código.
 
-Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quién entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia.
+Cuando el requerimiento se haga personalmente, el ejecutor entregará copia del mandamiento de ejecución a la persona con quien entienda la diligencia y levantará acta pormenorizada, de la que también entregará copia.
 
 ###### ARTICULO 90.
 
@@ -895,7 +931,9 @@ Cuando habiéndose asegurado un crédito fiscal por haberse manifestado que se a
 
 Procederá el aseguramiento de bienes en la vía administrativa de ejecución, en caso de no clausurarse el establecimiento:
 
-I.- Cuando transcurrido el plazo de tres días del requerimiento de pago, el deudor no ha cubierto totalmente el crédito a su cargo.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
+I.- Cuando transcurrido el plazo de seis días del requerimiento de pago, el deudor no ha cubierto totalmente el crédito a su cargo.
 
 II.- A solicitud del interesado. Y
 
@@ -993,9 +1031,11 @@ Llegado el caso de que un deudor, en cumplimiento de lo dispuesto en el párrafo
 
 En caso de abstención del acreedor, transcurrido el plazo indicado, el Jefe de la Oficina firmará la escritura o documentos relativos en rebeldía de aquel, lo que hará del conocimiento del Registro Público de la Propiedad para los efectos procedentes.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 106.
 
-Cuando se aseguren dinero, metales preciosos, alhajas, objetos de arte o valores mobiliarios, el depositario los entregará inmediatamente, previo inventario, en la caja de la oficina ejecutora y ésta remitirá los bienes, con excepción del dinero a la Secretaría de Finanzas dentro de las 48 horas siguiente al secuestro. La Secretaría de Finanzas proveerá lo conducente respecto de dichos bienes.
+Cuando se aseguren dinero, metales preciosos, alhajas, objeto (sic) de arte o valores mobiliarios, el depositario los entregará inmediatamente, previo inventario, en la caja de la Oficina Ejecutora y ésta remitirá los bienes, con excepción del dinero a la Secretaría de Finanzas dentro de las 24 horas siguientes al secuestro. La Secretaría de Finanzas proveerá lo conducente respecto de dichos bienes.
 
 ###### ARTICULO 107.
 
@@ -1391,11 +1431,13 @@ Las autoridades que figuren como parte en los juicios de nulidad podrán acredit
 
 #### SECCION II. DE LAS NOTIFICACIONES Y LOS TERMINOS
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 1987)</small>
+
 ###### ARTICULO 154.
 
-Toda resolución debe notificarse, a más tardar, el segundo día en que el expediente haya sido turnado al actuario para ese efecto y se asentará la razón respectiva a continuación de la misma resolución.
+Toda resolución debe notificarse a más tardar, el tercer día en que el expediente haya (sic) turnado al actuario para ese efecto se asentará la razón respectiva a continuación de la misma resolución.
 
-Al actuario que no cumpla con esta obligación se le impondrá una multa de dos veces Salario Mínimo General de la zona y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
+El actuario que no cumpla con esta obligación se le impondrá una multa de dos veces el Salario Mínimo General de la zona y será destituido, sin responsabilidad para el Estado, en caso de reincidencia.
 
 ###### ARTICULO 155.
 
@@ -1808,3 +1850,11 @@ ALBERTO ANDRES ALVARADO ARAMBURO.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ANTONIO B. MANRIQUEZ GULUARTE.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+B.O. 20 DE DICIEMBRE DE 1987.
+
+###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
