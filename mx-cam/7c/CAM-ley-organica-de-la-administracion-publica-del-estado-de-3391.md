@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-la-administracion-publica-del-estado-de-3391"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-10-26"
-last_updated: "2003-06-06"
+last_updated: "2004-06-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE CAMPECHE
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE JUNIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE JUNIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 26 de octubre de 1991.
 
@@ -79,37 +79,39 @@ Las dependencias y entidades del Ejecutivo Estatal deberán planear, programar, 
 
 ### CAPITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
 
 ###### Artículo 9o.
 
-Para el estudio, planeación y despacho de los asuntos de la Administración Pública Estatal, el Poder Ejecutivo contará con las siguientes dependencias:
+Para el despacho de los asuntos administrativos, el Poder Ejecutivo del Estado contará con las siguientes dependencias:
 
-- Secretaría de Gobierno;
+I.- Secretaría de Gobierno;
 
-- Secretaría de Desarrollo Social;
+II.- Secretaría de Desarrollo Social;
 
-- Secretaría de Finanzas y Administración;
+III.- Secretaría de Finanzas y Administración;
 
-- Secretaría de la Contraloría;
+IV.- Secretaría de la Contraloría;
 
-- Secretaría de Fomento Industrial y Comercial;
+V.- Secretaría de Fomento Industrial y Comercial;
 
-- Secretaría de Desarrollo Rural;
+VI.- Secretaría de Desarrollo Rural;
 
-- Secretaría de Pesca;
+VII.- Secretaría de Pesca;
 
-- Secretaría de Ecología;
+VIII.- Secretaría de Ecología;
 
-- Secretaría de Educación, Cultura y Deporte;
+IX.- Secretaría de Educación, Cultura y Deporte;
 
-- Secretaría de Salud;
+X.- Secretaría de Salud;
 
-- Secretaría de Obras Públicas y Comunicaciones;
+XI.- Secretaría de Obras Públicas y Comunicaciones;
 
-- Secretaría de Turismo; y
+XII.- Secretaría de Turismo;
 
-- Procuraduría General de Justicia.
+XIII.- Secretaría de Seguridad Pública; y
+
+XIV.- Procuraduría General de Justicia.
 
 ###### Artículo 10.
 
@@ -317,6 +319,10 @@ VI.- Tramitar y resolver los recursos administrativos en la esfera de su compete
 
 VII.- Emitir y notificar las resoluciones que determinen créditos fiscales, citatorios, requerimientos, solicitud de informes y otros actos administrativos, así como llevar a cabo el procedimiento administrativo de ejecución en los términos de las leyes y convenios vigentes;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2004)</small>
+
+VII-Bis.- Ejercitar todos los derechos que correspondan al Estado, en el caso de las garantías que se otorguen a favor del mismo, procediendo a su legal cobro previa solicitud por escrito que le haga la dependencia, entidad, órgano o autoridad que corresponda;
+
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
 
 VIII.- Ejercer las atribuciones derivadas de los Convenios Fiscales que haya celebrado o que celebre el Gobierno del Estado con la Secretaría de Hacienda y Crédito Público de la Federación y con los Gobiernos Municipales;
@@ -345,9 +351,9 @@ XII-A.- Determinar, liquidar las contribuciones, aprovechamientos y sus accesori
 
 XII-B.- Conceder prórrogas y autorizaciones para el pago en parcialidades de los créditos fiscales conforme a las leyes respectivas;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1992)</small>
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
 
-XIII.- Ordenar y practicar verificaciones, inspecciones, revisiones y visitas domiciliarias a los contribuyentes con el objeto de constatar el cumplimiento de las obligaciones fiscales, tanto estatales como federales convenidas;
+XIII.- Ordenar y practicar visitas domiciliarias, auditorías, revisiones, inspecciones, actos de vigilancia, verificaciones, requerimientos de información y documentación, y demás actos que establezcan las disposiciones fiscales, tanto estatales como federales convenidas, para comprobar el cumplimiento de las obligaciones de los contribuyentes, responsables solidarios, terceros con ellos relacionados y demás obligados;
 
 > <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 1997)</small>
 
@@ -467,7 +473,9 @@ II.- Inspeccionar el ejercicio del gasto público estatal y su correspondencia c
 
 III.- Expedir las normas que regulen los sistemas y procedimientos de control de la Administración Pública Estatal, y requerir, cuando sea necesario, la instrumentación de normas complementarias de control;
 
-IV.- Vigilar el cumplimiento de las normas de control y apoyar a los órganos de control interno de las dependencias, organismos auxiliares y fideicomisos del Gobierno Estatal;
+> <small>(REFORMADA, P.O. 15 DE JUNIO DE 2004)</small>
+
+IV.- Vigilar el cumplimiento de las normas de control y coordinar a los órganos internos de control de las dependencias y entidades de la Administración Pública Estatal;
 
 > <small>(ADICIONADA, P.O. 11 DE MARZO DE 1995)</small>
 
@@ -847,6 +855,48 @@ XVIII.- Imponer las sanciones administrativas, en la esfera de su competencia, s
 
 XIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
+> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2004)</small>
+
+###### Artículo 28 Bis.
+
+La Secretaría de Seguridad Pública tiene a su cargo:
+
+I.- Dirigir la Policía Preventiva Estatal;
+
+II.- Participar en el Consejo Estatal de Seguridad Pública, ejerciendo las atribuciones que al efecto le otorguen las disposiciones legales, reglamentarias y administrativas de la materia, y colaborar en la elaboración y evaluación del Programa Estatal de Seguridad Pública;
+
+III.- Proponer al Consejo Estatal de Seguridad Pública las normas y programas relativos a la formación y desarrollo profesional del personal de la Secretaría, mediante su capacitación permanente, promoción y estímulo;
+
+IV.- Aplicar las sanciones y medidas de supervisión y vigilancia permanentes a su personal en los términos de ley;
+
+V.- Colaborar con el Consejo Estatal de Seguridad Pública en la formulación de estudios y estadísticas relacionados con la seguridad pública y la incidencia delictiva en el Estado, proponiendo alternativas de atención;
+
+VI.- Vigilar el cumplimiento de las leyes y reglamentos en materia de seguridad pública, vialidad y tránsito en todo el territorio del Estado, conforme a la competencia que le sea otorgada por las leyes;
+
+VII.- Planificar operaciones de seguridad pública basadas en información estadística y de inteligencia, para el combate de conductas antisociales o de grupos delictivos;
+
+VIII.- Coordinarse con las instituciones federales, estatales y municipales vinculadas con la seguridad pública y la procuración de justicia para la realización de operaciones conjuntas;
+
+IX.- Celebrar convenios con los Municipios del Estado para la organización y prestación del servicio de seguridad pública;
+
+X.- Auxiliar a los cuerpos municipales de seguridad pública y vialidad en la aplicación de las leyes y reglamentos de seguridad pública, vialidad y tránsito, de conformidad con la legislación aplicable;
+
+XI.- Presentar ante el Ministerio Público del fuero común o federal, las renuncias por hechos delictivos de los cuales tuviera conocimiento, así como poner a disposición de la autoridad ministerial a las personas que hayan sido detenidas en flagrancia delictiva;
+
+XII.- Asegurar vehículos, objetos ilícitos o instrumentos del delito, con el objeto de ponerlos a disposición de las autoridades competentes;
+
+XIII.- Otorgar el auxilio requerido por las autoridades judiciales y administrativas estatales para el cumplimiento de sus atribuciones o resoluciones;
+
+XIV.- Auxiliar a la población en caso de emergencia o desastre, en coordinación con las demás dependencias participantes en el Sistema Estatal de Protección Civil;
+
+XV.- Ejercer la vigilancia y resguardo de los inmuebles de la propiedad o en posesión del Estado, cuando así se disponga;
+
+XVI.- Brindar protección a personas o vigilar instalaciones estratégicas, en los términos permitidos por la ley;
+
+XVII.- Aplicar la normatividad relativa a las empresas de seguridad privada que operan en el Estado, vigilando su debido cumplimiento; y
+
+XVIII.- Las demás que le señalen las leyes y reglamentos vigentes en el Estado.
+
 ###### Artículo 29.
 
 La organización, estructura y funcionamiento de la Procuraduría General de Justicia se determinará conforme a lo establecido en su propia Ley Orgánica.
@@ -857,27 +907,9 @@ La organización, estructura y funcionamiento de la Procuraduría General de Jus
 
 Los titulares de las dependencias señaladas en el artículo 9º de la Ley Orgánica de la Administración Pública del Estado, incluido el Procurador General de Justicia, quedan facultados para que, en representación del Gobierno del Estado, suscriban convenios, contratos y demás actos jurídicos, dentro de la órbita de sus atribuciones, con la Federación, con los otros Estados de la República, con los HH. Ayuntamientos de los Municipios de la entidad y con personas físicas y morales.
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
-
 ###### Artículo 29 Ter.
 
-La Secretaría Técnica tiene a su cargo:
-
-I.- Realizar y coordinar, en los términos de la presente ley, las acciones de apoyo técnico y asesoría del Ejecutivo Estatal;
-
-II.- Proporcionar al Ejecutivo Estatal el apoyo y la asesoría que no estén expresamente encomendados a otras áreas del Poder Ejecutivo;
-
-III.- Hacer el seguimiento del debido cumplimiento de los acuerdos y órdenes gubernamentales;
-
-IV.- Verificar la realización de los programas e instrucciones que expresamente le señale el titular del Ejecutivo Estatal, cuando abarquen más de una dependencia;
-
-V.- Coordinar y llevar a cabo el seguimiento de los acuerdos que se tomen en el seno del o de los gabinetes especializados, poniendo a consideración del Gobernador del Estado la situación que guarde el cumplimiento de los mismos;
-
-VI.- Vigilar y supervisar las acciones que lleven a cabo el o los gabinetes especializados conforme a los lineamientos que determine el titular del Ejecutivo Estatal y comunicar al Gobernador del Estado la situación que guarden dichas acciones;
-
-VII.- Proveer los mecanismos de coordinación con la Unidad de Asesoría Jurídica y con la Coordinación de Comunicación Social, ambas del Poder Ejecutivo, para asegurar la aplicación uniforme de los criterios que fije el Ejecutivo Estatal; y
-
-VIII.- Las demás que le encomiende expresamente el titular del Ejecutivo Estatal.
+(DEROGADO, P.O. 15 DE JUNIO DE 2004)
 
 ### CAPITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
@@ -931,7 +963,7 @@ Los Convenios, Contratos y demás Actos Jurídicos que celebre el Gobierno del E
 
 Para que los acuerdos, decretos, órdenes y disposiciones obliguen, deberán ser publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Campeche.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 15 DE JUNIO DE 2004)</small>
 
 ###### Artículo 38.
 
@@ -943,11 +975,17 @@ II.- Secretaría Técnica;
 
 III.- Coordinación General de Asesores;
 
-IV.- Coordinación de Comunicación Social y Relaciones Públicas;
+IV.- Coordinación de Comunicación Social;
 
-V.- Unidad de Asesoría Jurídica; y
+V.- Coordinación de Relaciones Públicas;
 
-VI.- Representación del Gobierno del Estado en el Distrito Federal.
+VI.- Coordinación de Evaluación y Seguimiento de la Acción Gubernamental;
+
+VII.- Consejería Jurídica del Gobernador; y
+
+VIII.- Representación del Gobierno del Estado en el Distrito Federal.
+
+La estructura y atribuciones de las unidades a que se refiere este artículo las establecerá el Gobernador en el acuerdo que emita al efecto.
 
 T R A N S I T O R I O S:
 
@@ -1050,3 +1088,21 @@ P.O. 6 DE JUNIO DE 2003
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE JUNIO DE 2004.
+
+Primero.- El presente decreto entrará en vigor el día 1 de julio de 2004, previa publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones legales, reglamentarias y administrativas en lo que se opongan al contenido del presente decreto.
+
+Tercero.- Hasta en tanto no se decrete su extinción por acuerdo administrativo, el organismo desconcentrado, Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado de Campeche, continuará con el personal y bienes que le han sido otorgados, para lo cual se dictarán las medidas administrativas que regularán la transferencia de bienes a la Secretaría de Seguridad Pública y los lineamientos respecto al personal que integrará a esta Secretaría.
+
+Cuarto.- En los municipios que carezcan de cuerpos de seguridad pública, policía preventiva y tránsito propios, la Coordinación General de Seguridad Pública, Vialidad y Transporte del Estado, continuará en el ejercicio de las atribuciones que le señala su decreto de creación, hasta en tanto no se decrete la extinción de dicho organismo.
+
+Quinto.- La Coordinación de Relaciones Públicas y la Coordinación de Evaluación y Seguimiento de la Acción Gubernamental iniciarán sus funciones cuando así lo determine el Gobernador, previos los trámites y ajustes presupuestales que se requieran.
+
+Sexto.- En lo sucesivo todas las referencias que en las leyes y reglamentos del Estado, convenios, contratos y demás actos jurídicos se hagan a la Unidad de Asesoría Jurídica del Poder Ejecutivo del Estado, se entenderán como hechas a la Consejería Jurídica del Gobernador.
+
+Séptimo.- El Gobernador del Estado en un plazo no mayor de 90 días, expedirá el acuerdo a que alude el último párrafo del artículo 38 de la Ley Orgánica de la Administración Pública del Estado.
+
+Octavo.- El Gobernador del Estado tomará las previsiones presupuestales necesarias para el debido cumplimiento de lo ordenado por este decreto.
