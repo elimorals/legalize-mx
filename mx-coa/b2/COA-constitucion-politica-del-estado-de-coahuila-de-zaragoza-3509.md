@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "1966-10-12"
+last_updated: "1967-05-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 1966.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 1967.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -82,45 +82,43 @@ En el Estado de Coahuila de Zaragoza, la libertad no tiene más límites que las
 
 Clasificación Política de los Habitantes del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
+
 ###### Artículo 9º.
 
-Las personas que de alguna manera se hallen en territorio del Estado, se considerarán como ciudadanos coahuilenses por nacimiento; ciudadanos coahuilenses por naturalización; coahuilenses; vecinos; transeuntes y extranjeros.
+Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos; transeuntes y extranjeros.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
 ###### Artículo 10.
 
-Son ciudadanos coahuilenses por nacimiento:
+Son coahuilenses:
 
-I. Los hijos de padres coahuilenses nacidos dentro o fuera del territorio del Estado y que reunan los requisitos de ciudadano, conforme a la ley.
+I. Los nacidos en el territorio del Estado.
 
-II. Los hijos de madres coahuilenses y de padre desconocido, nacidos dentro o fuera del territorio del Estado y que reunan los requisitos de que habla la última parte del inciso anterior.
+II. Los hijos de coahuilenses sea cual fuere el lugar de su nacimiento.
 
-III. Los hijos de padres mexicanos, nacidos en Coahuila, que reunan, asimismo, la calidad de ciudadanos conforme a la ley y que al llegar a la mayor edad no manifiesten ante autoridad alguna el deseo de adoptar otra ciudadanía.
+III. Los mexicanos por nacimiento o por naturalización, que teniendo diez años de vecindad continua en el Estado, ejerzan algún arte, oficio, industria, trabajo, profesión o modo honesto de vivir.
 
-IV. (DEROGADA, P.O. 16 DE MAYO DE 1951)
+IV. Los que obtengan del Congreso del Estado Carta de Naturalización coahuilense, en los términos de la Ley Reglamentaria que se expida.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
 ###### Artículo 11.
 
-Son ciudadanos coahuilenses por naturalización:
+Son ciudadanos coahuilenses:
 
-I. Los mexicanos mayores de edad que reuniendo la calidad de ciudadanos manifiesten ante la autoridad su deseo de ser coahuilenses, siempre que hayan cumplido tres años de residencia continua en el Estado, al tiempo de hacer la manifestación y ejerzan algún oficio o profesión, tengan modo honesto de vivir y sepan leer y escribir.
+I. Los varones y las mujeres nacidos en el Estado de Coahuila, que tengan 18 años si son casados o 21 si no lo son, y tengan modo honesto de vivir.
 
-II. Los mexicanos que hubieren servido en las fuerzas de seguridad, regulares o irregulares o bien en la guardia nacional del Estado durante un año cuando menos y que reunan los requisitos del ciudadano que establece la ley.
+II. Los mexicanos por nacimiento que reunan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de 10 años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.
 
-III. Los mexicanos a quienes el Congreso del Estado conceda carta de ciudadanía.
+III. Los que obtengan del Congreso del Estado Carta de Ciudadanía, de acuerdo con la Ley Reglamentaria que se expida.
+
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
 ###### Artículo 12.
 
-Son coahuilenses:
-
-I. Los hijos de padres coahuilenses nacidos dentro o fuera del Estado, siempre que en este último caso los padres sean coahuilenses por nacimiento.
-
-II. Los que nazcan en el Estado, siempre que sus padres sean mexicanos.
-
-III. Los nacidos en el territorio del Estado, de padres extranjeros, que además de haber optado por la nacionalidad Mexicana, manifiesten ante el Gobierno del Estado su deseo de considerarse coahuilenses y siempre que esto lo hagan dentro del siguiente año a su mayor edad.
-
-IV. Los mexicanos que, con un año de vecindad en el Estado, ejercieren algún arte, industria o profesión honesta.
-
-V. Los que aún cuando no residan en el Estado tengan en él propiedad raíz y manifiesten su voluntad de serlo.
+Los coahuilenses serán preferidos a los extranjeros, en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno, en que no sea indispensable la calidad de ciudadano.
 
 ###### Artículo 13.
 
@@ -300,9 +298,9 @@ La elección para diputados será directa y en los términos que disponga la Ley
 
 Para ser Diputado Propietario o Suplente se requiere:
 
-> <small>(REFORMADA, P.O. 15 DE JUNIO DE 1938)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
 
-I. Ser ciudadano Coahuilense por nacimiento y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
+I. Ser Ciudadano coahuilense y avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección.
 
 II. Tener veinticinco años cumplidos.
 
@@ -394,7 +392,7 @@ Las sesiones serán públicas; pero cuando se trate de asuntos que exijan reserv
 
 ###### Artículo 55.
 
-El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes.
+El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá transladarse (sic) a otro punto sin que para ello estén de acuerdo las dos terceras partes de los Diputados presentes.
 
 ###### Artículo 56.
 
@@ -664,9 +662,9 @@ I. Ser ciudadano mexicano por nacimiento.
 
 II. Tener veinticinco años cumplidos para el día de la elección.
 
-> <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 1967)</small>
 
-III. Ser ciudadano coahuilense por nacimiento y con una residencia efectiva de cinco años por lo menos, inmediatamente anteriores al día de la elección.
+III. Ser ciudadano coahuilense o con una residencia efectiva de diez años en el Estado, por lo menos, inmediatamente anteriores al de la elección.
 
 > <small>(REFORMADA, P.O. 16 DE MAYO DE 1951)</small>
 
@@ -1102,11 +1100,11 @@ La Elección de los Síndicos será también popular directa y se nombrarán en 
 
 Para que una población se erija en Municipalidad, se requiere que tenga más de mil quinientos habitantes y que cuente con los recursos necesarios para cubrir los gastos que demande su administración y para sostener, cuando menos una escuela de instrucción primaria para cada sexo y una escuela nocturna.
 
-> <small>(REFORMADO, P.O. 15 DE JUNIO DE 1938)</small>
+> <small>(REFORMADO, P.O. 20 DE MAYO DE 1967)</small>
 
 ###### Artículo 129.
 
-Para ser electo Munícipe se requiere: ser ciudadano coahuilense por nacimiento, en ejercicio de sus derechos y con residencia en el Estado, de tres años contínuos inmediatamente anteriores al día de la elección, saber leer y escribir, tener modo honesto de vivir y los demás que exija la Ley Electoral.
+Para ser electo Munícipe se requiere: ser ciudadano coahuilense, en ejercicio de sus derechos y con residencia en el Estado, de tres años contínuos inmediatamente anteriores al día de la elección, saber leer y escribir, tener modo honesto de vivir y satisfacer los demás requisitos que exija la Ley Electoral.
 
 > <small>(REFORMADO, P.O. 20 DE ABRIL DE 1938)</small>
 
@@ -1781,3 +1779,7 @@ P.O. 12 DE OCTUBRE DE 1966.
 ###### ARTICULO UNICO
 
 - El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE MAYO DE 1967.
+
+UNICO:- Este decreto entrará en vigor cinco días después de su publicación en el Periódico Oficial del Estado.
