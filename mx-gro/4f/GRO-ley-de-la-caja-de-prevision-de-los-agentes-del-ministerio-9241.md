@@ -4,7 +4,7 @@ identifier: "GRO-ley-de-la-caja-de-prevision-de-los-agentes-del-ministerio-9241"
 country: "mx"
 rank: "ley"
 publication_date: "1988-12-06"
-last_updated: "1988-12-06"
+last_updated: "1989-11-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9241&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY DE LA CAJA DE PREVISION DE LOS AGENTES DEL MINISTERIO PUBLICO, PERITOS, AGENTES DE LA POLICIA JUDICIAL, AGENTES DE LA POLICIA PREVENTIVA, CUSTODIOS Y DEFENSORES DE OFICIO DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE NOVIEMBRE DE 1989.
 
 Ley Publicada en el Periódico Oficial del Estado de Guerrero, el martes 6 de diciembre de 1988.
 
@@ -139,7 +139,9 @@ El Comité Técnico estará integrado por:
 
 I.- Un presidente, que será nombrado y removido libremente por el Gobernador del Estado; y
 
-II.- Seis vocales, mismos que serán los Titulares de las Secretaría de Gobierno, Planeación y Presupuesto, Finanzas, Desarrollo Administrativo y Control Gubernamental, Oficialía Mayor y el Procurador General de Justicia.
+> <small>(REFORMADO, P.O. 28 DE NOVIEMBRE DE 1989)</small>
+
+II.- Seis vocales, mismos que serán los Titulares de las Secretaría General de Gobierno, Planeación y Presupuesto, Finanzas, Desarrollo Administrativo y Control Gubernamental, Oficialía Mayor y el Procurador General de Justicia.
 
 Por cada integrante del Comité Técnico, el Titular designará un suplente.
 
@@ -810,3 +812,9 @@ Rúbrica.
 El Secretario de Gobierno.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 28 DE NOVIEMBRE DE 1989.
+
+UNICO.- El presente Decreto de reformas y adiciones a la Ley Orgánica de la Administración Pública entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
