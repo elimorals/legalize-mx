@@ -4,7 +4,7 @@ identifier: "FED-ley-organica-del-poder-judicial-de-la-federacion-1988-1995-12"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1988-01-05"
-last_updated: "1988-01-05"
+last_updated: "1990-01-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1987-12-23"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ENERO DE 1990.
 
 Ley publicada en el Número 2 del Diario Oficial de la Federación, el martes 5 de enero de 1988.
 
@@ -385,11 +385,23 @@ X. De los impedimentos, excusas y recusaciones de los magistrados de los tribuna
 
 XI. De la resolución de contradicciones entre tesis que en amparos en materia administrativa, sustenten dos o más tribunales colegiados de Circuito, para los efectos a que se refiere el párrafo final del artículo 196 y el artículo 197-A de la Ley de Amparo.
 
-XII. De los juicios cuyo conocimiento corresponde a la Suprema Corte de Justicia, de acuerdo con la Ley Federal de Reforma Agraria, en relación con lo dispuesto por la fracción VII del artículo 27 Constitucional;
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
 
-XIII. De los asuntos que sean competencia de las otras salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema Corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del artículo 94 de la Constitución; y
+XII. De la resolución de contradicciones entre tesis que, al resolver los recursos de revisión previstos en la fracción I-B del Artículo 104 Constitucional, sustenten dos o más tribunales colegiados de circuito.
 
-XIV. De los demás asuntos que la ley le encargue expresamente.
+La denuncia, la substanciación y la resolución de las contradicciones deberán sujetarse a lo dispuesto en el Artículo 197-A y demás disposiciones aplicables de la Ley de Amparo;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIII. De los juicios cuyo conocimiento corresponde a la Suprema Corte de Justicia, de acuerdo con la Ley Federal de Reforma Agraria, en relación con lo dispuesto por la fracción VII del Artículo 27 Constitucional;
+
+> <small>(REFORMADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XIV. De los asuntos que sean competencia de las otras Salas, cuando por acuerdos generales así lo determine el Pleno de la Suprema Corte de Justicia, en ejercicio de la facultad que le concede el sexto párrafo del Artículo 94 de la Constitución; y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ENERO DE 1990)</small>
+
+XV. De los demás asuntos que la Ley le encargue expresamente.
 
 ###### Art. 26.
 
@@ -1120,3 +1132,11 @@ DECIMO.- Los nombramientos de magistrados y jueces hechos al amparo de la Ley qu
 México, D.F., a 21 de diciembre de 1987.- Sen. Armando Trasviña Taylor, Presidente.- Dip. David Jiménez González, Presidente.- Sen. Alfonso Zegbe Sanén, Secretario.- Dip. Antonio Sandoval González, Secretario.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos ochenta y siete.- Miguel de la Madrid H.- Rúbrica.- El Secretario de Gobernación, Manuel Bartlett D.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 3 DE ENERO DE 1990.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN”.]
+
+UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
