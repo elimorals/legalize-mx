@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-registro-civil-del-estado-de-jalisco-10544"
 country: "mx"
 rank: "ley"
 publication_date: "1995-02-25"
-last_updated: "1999-07-08"
+last_updated: "2000-10-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10544&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 8 DE JULIO DE 1999.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE OCTUBRE DE 2000.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -635,6 +635,10 @@ VI. Copia del acta de defunción del cónyuge fallecido, si alguno de los contra
 
 VII. Copia certificada de la resolución que decrete la dispensa judicial de impedimento si los hubo.
 
+> <small>(ADICIONADA, P.O. 5 DE OCTUBRE DE 2000)</small>
+
+VIII. Constancia expedida por el Sistema Estatal para el Desarrollo Integral de la Familia, en el cual se acredite que el hombre y la mujer recibieron el curso prematrimonial, previsto en el artículo 267 bis del Código Civil.
+
 ###### Artículo 83.
 
 Cuando los pretendientes no sepan escribir, la solicitud y el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlos el oficial del Registro Civil, con los datos que los mismos interesados le manifiesten. En la misma forma se tomará razón de lo declarado por los testigos.
@@ -1166,3 +1170,7 @@ TERCERO.- Los extractos certificados de las actas de divorcio administrativo con
 P.O. 8 DE JULIO DE 1999.
 
 ÚNICO.- Este entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 5 DE OCTUBRE DE 2000.
+
+ÚNICO.- Este decreto entrará en vigor a los sesenta días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
