@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1970-02-21"
+last_updated: "1971-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1970.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE DICIEMBRE DE 1971.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -387,15 +387,17 @@ En lo sucesivo el Congreso de Estado se renovará en su totalidad, cada tres añ
 
 El día 31 de diciembre del año en que deba hacerse la elección, se reunirán en sesión los nuevos Diputados y la Diputación Permanente, funcionando como Presidente y Secretarios los de la misma Diputación. Se leerá el informe de esta sobre la legitimidad de las Credenciales y cualidades de los Diputados, y las dudas que ocurran sobre estos puntos, se resolverán por la misma junta a pluralidad de votos, sin que lo tengan los miembros de la Diputación Permanente.
 
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
+
 ###### Art. 42.
 
-Concluidos los actos de que habla el artículo anterior, los nuevos Diputados otorgarán el día primero de enero siguiente la protesta de ley. Si no hubiere Diputación Permanente, los presuntos Diputados designarán en escrutinio una Comisión de tres miembros de su seno, para hacer las veces de aquella en lo que expresa el artículo anterior.
+Concluídos los actos de que habla el Artículo anterior, los nuevos Diputados otorgarán ese mismo día la protesta de Ley. Si no hubiere Diputación Permanente, los presuntos Diputados designarán en escrutinio una Comisión de tres miembros de su seno, para hacer las veces de aquella en lo que expresa el Artículo anterior.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 1928)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1971)</small>
 
 ###### Art. 43.
 
-En seguida se hará el nombramiento de un Presidente, dos Secretarios y un suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra; el Presidente del Congreso declarará a esta legítimamente constituida y en aptitud de ejercer sus funciones.
+El día primero de Enero siguiente, el Congreso procederá al nombramiento de un Presiente, dos Secretarios y un Suplente, quien cubrirá la falta de cualquiera de los miembros de la Mesa en quien ocurra. El Presidente del Congreso declarará a éste legítimamente constituído e instalado y en aptitud de ejercer sus funciones.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 1946)</small>
 
@@ -533,7 +535,7 @@ XX. Conceder ammistía por delitos cuyo conocimiento corresponde exclusivamente 
 
 XXI. Nombrar y remover a los Magistrados del Supremo Tribunal de Justicia del Estado en los términos que establece la presente Constitución.
 
-XXII. Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
+XXII.- Expedir la Ley de Organización para la Guardia Nacional en el Estado, de conformidad con la facultad que a los Estados concede la fracción XV del artículo 73 de la Constitución General.
 
 > <small>(REFORMADA, P.O. 16 DE JUNIO DE 1934)</small>
 
@@ -1918,3 +1920,9 @@ UNICO.- El presente Decreto entrará en vigor el día de su publicación en el P
 P.O. 21 DE FEBRERO 1970.
 
 UNICO.- Este Decreto comenzará a surtir sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 25 DE DICIEMBRE DE 1971.
+
+PRIMERO.- Los Artículos 5, 6, 7 y 8 del Decreto 121, publicado en el Periódico Oficial del Estado de 15 de diciembre de 1928, que contiene el Reglamento Interior para el Gobierno del Congreso; así como el Artículo 93 de la Ley Electoral del Estado, se sujetarán a lo dispuesto por las anteriores reformas.
+
+SEGUNDO.- El presente Decreto surtirá sus efectos a partir de la fecha de su publicación en el Periódico Oficial del Estado.
