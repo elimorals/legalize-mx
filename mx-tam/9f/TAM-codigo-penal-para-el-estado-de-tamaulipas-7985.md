@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2003-07-10"
+last_updated: "2003-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CODIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 2003.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 2003.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -419,7 +419,7 @@ l).- Suspensión, disolución o intervención de sociedades o prohibiciones de r
 
 m).- Pérdida de los instrumentos, objetos y producto del delito;
 
-(ADICONADO, P.O. 5 DE JUNIO DE 1999)
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 1999)</small>
 
 n).- Confiscación de cosas peligrosas o nocivas;
 
@@ -465,7 +465,7 @@ Quienes cumplan prisión intermitente, en los periodos que deban internarse perm
 
 II.- El trabajo en favor de la comunidad, que consiste en la prestación de servicios no remunerados, en instituciones públicas o privadas, si estas últimas son asistenciales, educativas o no lucrativas. Sin perjuicio de las facultades del juez, este trabajo se llevará a cabo bajo la orientación y vigilancia de la dependencia del Ejecutivo encargada de la ejecución de la pena privativa de libertad, en jornadas distintas al horario de labores que represente la fuente de ingresos para la subsistencia del sentenciado y de su familia, sin exceder de la jornada extraordinaria que establece el artículo 66 de la Ley Federal del Trabajo.
 
-El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa.Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
+El trabajo en favor de la comunidad puede ser pena sustitutiva de la prisión o de la multa. Cada día de prisión será sustituida por una hora de trabajo a favor de la comunidad, de acuerdo a las jornadas que fije el juzgador, según las circunstancias del caso.
 
 Por ningún concepto se desarrollará este trabajo en forma que resulte degradante o humillante al condenado.
 
@@ -497,21 +497,15 @@ III.- Tratándose de los delitos comprendidos en el Título Octavo del Libro Seg
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 47
-
-BIS.- La reparación del daño será fijada por los Jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas durante el proceso.
+ARTICULO 47 BIS.- La reparación del daño será fijada por los Jueces, según el daño que sea preciso reparar, de acuerdo con las pruebas obtenidas durante el proceso.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 47
-
-TER.- La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las obligaciones alimenticias y derechos laborales.
+ARTICULO 47 TER.- La obligación de pagar la sanción pecuniaria es preferente con respecto a cualesquiera otras contraídas con posterioridad al delito, a excepción de las obligaciones alimenticias y derechos laborales.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 47
-
-QUATER.- La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Juez en su caso, los datos y pruebas que tengan para demostrar la existencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
+ARTICULO 47 QUATER.- La reparación del daño proveniente de delito que deba ser hecha por el delincuente tiene el carácter de pena pública y se exigirá de oficio por el Ministerio Público. El ofendido o sus derechohabientes podrán aportar al Ministerio Público o al Juez en su caso, los datos y pruebas que tengan para demostrar la existencia y monto de dicha reparación, en los términos que prevenga el Código de Procedimientos Penales.
 
 Cuando el Ministerio Público incumpla con la obligación de solicitar la reparación del daño, el Juez lo hará saber al Procurador de Justicia del Estado para los efectos legales.
 
@@ -521,9 +515,7 @@ Quien se considere con derecho a la reparación del daño y no la pueda obtener 
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 47
-
-QUINQUIES.- Tienen derecho a la reparación del daño en el siguiente orden:
+ARTICULO 47 QUINQUIES.- Tienen derecho a la reparación del daño en el siguiente orden:
 
 I.- La víctima o el ofendido; y
 
@@ -559,7 +551,7 @@ La caución de no ofender consiste en la garantía que el Juez debe exigir al se
 
 ###### ARTICULO 51.
 
-La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público, en privado, según parezca prudente al Juez.
+La amonestación consiste: En la advertencia que el juez dirige al acusado, haciéndole ver las consecuencias del delito que cometió, exhortándolo a la enmienda y previniéndolo que se le impondrá una sanción mayor si reincidiere. Esta amonestación se hará en público o en privado, según parezca prudente al Juez.
 
 ###### ARTICULO 52.
 
@@ -1041,9 +1033,7 @@ c).- Cuando se demuestre posteriormente que el sentenciado no tenía derecho al 
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
-La victima o el ofendido tendrá legitimación para acudir ante el Ministerio Público y la autoridad
-
-ejecutora e informarles sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutivas.
+La victima o el ofendido tendrá legitimación para acudir ante el Ministerio Público y la autoridad ejecutora e informarles sobre cualquier incumplimiento del sentenciado o del responsable del establecimiento donde deba cumplir con las penas sustitutivas.
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -1155,7 +1145,7 @@ La amnistía extingue tanto la acción penal como las sanciones impuestas, queda
 
 ###### ARTICULO 116.
 
-El perdón del ofendido o de la víctima, en sun caso, extingue la acción penal, cuando concurran los requisitos siguientes:
+El perdón del ofendido o de la victima, en su caso, extingue la acción penal, cuando concurran los requisitos siguientes:
 
 I.- Que el delito sea de los que se persiga a instancia de parte;
 
@@ -1163,7 +1153,7 @@ II.- Que el perdón se conceda antes de que cause ejecutoria la sentencia defini
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2003)</small>
 
-III.- Que lo otorgue el ofendido o la victima por sí, o por medio de su representante legal o convencional con cláusula especial.
+III.- Que lo otorgue el ofendido o la víctima por sí, o por medio de su representante legal o convencional con cláusula especial.
 
 > <small>(ADICIONADO, P.O. 10 DE JULIO DE 2003)</small>
 
@@ -1635,6 +1625,26 @@ Al que quebrante los sellos puestos por orden de la autoridad competente, se le 
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
+ARTICULO 207 BIS.- Al que sin autorización modifique, destruya, o provoque pérdida de información contenida en sistemas o equipo de informática protegidos por algún mecanismo de seguridad o que no tenga derecho de acceso a el, se le impondrá una sanción de uno a cuatro años de prisión y multa de cuarenta a ochenta días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 TER.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistema o equipo de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a seis años de prisión y multa de doscientos a seiscientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 QUATER.- Al que sin autorización conozca o copié información contenida en sistemas o equipos de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a cinco años de prisión y multa de cien a trescientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 QUINQUIES .- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
+
+> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+
+ARTICULO 207 SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
+
+Los delitos previstos en este titulo serán sancionados por querella de la parte ofendida.
+
 ###### ARTICULO 188.
 
 Al que cometa un delito en contra de un servidor público o agente de la autoridad en el acto de ejercer sus funciones o con motivo de ellas, se le impondrá una sanción de uno a tres años de prisión, además de la que le corresponda por, el o los delitos cometidos.
@@ -1703,9 +1713,7 @@ Para los efectos de este precepto se considerará como empleado en el billar, la
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 194
-
-BIS.- Comete el delito de pornografía infantil:
+ARTICULO 194 BIS.- Comete el delito de pornografía infantil:
 
 I.- El que obligue o induzca a uno o mas menores de dieciséis años a realizar actos de exhibicionismo corporal, lascivos, sexuales o pornográficos con la finalidad de videogravarlos (sic), fotografiarlos o exhibirlos mediante anuncios impresos o electrónicos;
 
@@ -1727,9 +1735,7 @@ Independientemente de las sanciones ante señaladas, a los responsables de estos
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 194
-
-TER.- Comete el delito de prostitución sexual de menores:
+ARTICULO 194 TER.- Comete el delito de prostitución sexual de menores:
 
 I.- El que dentro del territorio del Estado, publicite, facilite o gestione por cualquier medio a persona o personas para que se trasladen a cualquier lugar dentro de éste o fuera del mismo, con el propósito o fin de tener u obtener relaciones sexuales con menores de dieciséis años o incapaces;
 
@@ -1741,9 +1747,7 @@ Al responsable de éste delito se le aplicará de siete a dieciséis años de pr
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-###### ARTICULO 194
-
-QUATER.- Las penas que en su caso resulten aplicables por los delitos previstos en los artículos 194 y 194-Ter, serán aumentadas en los siguientes términos:
+ARTICULO 194 QUATER.- Las penas que en su caso resulten aplicables por los delitos previstos en los artículos 194 y 194-Ter, serán aumentadas en los siguientes términos:
 
 I.- Si el delito es cometido con un menor de catorce años de edad, la sanción se aumentará hasta una tercera parte;
 
@@ -1858,24 +1862,6 @@ BIS.- Al que sin autorización modifique, destruya, o provoque pérdida de infor
 TER.- Al que sin autorización modifique, destruya o provoque pérdida de información contenida en sistema o equipo de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a seis años de prisión y multa de doscientos a seiscientos días salario.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 207
-
-QUATER.- Al que sin autorización conozca o copié información contenida en sistemas o equipos de informática de alguna dependencia pública, protegida por algún mecanismo se le impondrá una sanción de dos a cinco años de prisión y multa de cien a trescientos días salario.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 207
-
-QUINQUIES .- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente modifique, destruye o provoque pérdida de información que contengan se impondrá una sanción de tres a ocho años de prisión y multa de trescientos a ochocientos días salario.
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-###### ARTICULO 207
-
-SEXIES.- Al que estando autorizado para acceder a sistemas y equipos de informática de alguna dependencia pública, indebidamente copie, transmita o imprima información que contengan se le impondrá de uno a cuatro años de prisión y multa de cien a trescientos días salario.
-
-Los delitos previstos en este titulo serán sancionados por querella de la parte ofendida.
 
 ## TITULO OCTAVO. DELITOS COMETIDOS POR SERVIDORES PUBLICOS
 
@@ -2267,7 +2253,7 @@ En todos los delitos previstos en este capítulo, además de la sanción de pris
 
 ## TITULO DECIMO. RESPONSABILIDAD PROFESIONAL
 
-### CAPITULO II. ESTRUPO
+### CAPITULO II. ESTUPRO
 
 > <small>(REFORMADO, P.O. 5 DE JUNIO DE 1999)</small>
 
@@ -2547,7 +2533,9 @@ Al responsable del delito previsto en el artículo anterior se le impondrá una 
 
 Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en este título, se aplicarán las reglas del concurso.
 
-## TITULO DECIMO SEGUNDO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUALES
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
+## TITULO DUODECIMO. DELITOS CONTRA LA SEGURIDAD Y LIBERTAD SEXUALES
 
 ### CAPITULO I. AMENAZAS
 
@@ -2581,9 +2569,11 @@ Este delito sólo podrá ser perseguido a petición de la parte ofendida o de su
 
 Al responsable del delito de estupro, se le impondrá una sanción de tres a siete años de prisión y multa de setenta a cien días de salario.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
+
 ###### ARTICULO 272.
 
-No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes. El matrimonio del agente con la mujer ofendida, extingue la acción penal o la ejecución de la sanción impuesta aun por sentencia firme.
+No se procederá contra el responsable del delito de estupro, sino por queja de la mujer ofendida o de sus padres, o a falta de éstos, de sus legítimos representantes.
 
 ### CAPITULO III. ASALTO
 
@@ -2777,11 +2767,11 @@ Si no se puede determinar el monto del ingreso económico del obligado, pero not
 
 Se le impondrá la misma sanción del artículo anterior, al que dolosamente se coloque en estado de insolvencia con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para sus hijos o cónyuge; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
 ###### ARTICULO 298.
 
-El delito de abandono de obligaciones alimenticias solo se perseguirá a petición del cónyuge, concubina o concubinario ofendido, del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público, siempre y cuando no se tenga al alcance los medios legales para exigir los alimentos en otra vía legal. Cuando la acción la inicie el Ministerio Público, éste representará interinamente a los menores hasta en tanto se designe un tutor especial para los efectos de éste artículo.
+El delito de abandono de obligaciones alimenticias sólo se perseguirá a petición del cónyuge, concubina o concubinario ofendido o de sus legítimos representantes o del representante de los hijos y a falta de éste, la acción la iniciará el Ministerio Público. En este último supuesto el Ministerio Público, representará interinamente a los menores hasta en tanto se designe un tutor especial para los efectos del presente artículo.
 
 ###### ARTICULO 299.
 
@@ -3133,7 +3123,7 @@ Se entiende que hay traición, cuando no solamente se empleare la alevosía sino
 
 ###### ARTICULO 346.
 
-Los casos punibles de homicidio y lesiones de que tratan los artículos 338 y 339,deberán castigarse como calificados, cuando se ejecuten con premeditación.
+Los casos punibles de homicidio y lesiones de que tratan los artículos 338 y 339, deberán castigarse como calificados, cuando se ejecuten con premeditación.
 
 ###### ARTICULO 347.
 
@@ -4250,3 +4240,7 @@ P.O. 10 DE JULIO DE 2003.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE DICIEMBRE DE 2003.
+
+Artículo Unico:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
