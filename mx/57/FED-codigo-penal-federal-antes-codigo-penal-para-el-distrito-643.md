@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "1952-12-31"
+last_updated: "1955-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CODIGO PENAL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA DE FUERO COMUN, Y PARA TODA LA REPUBLICA EN MATERIA DE FUERO FEDERAL
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 31 DE DICIEMBRE DE 1952.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 5 DE ENERO DE 1955.
 
 Código publicado en la Sección Tercera del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -177,23 +177,21 @@ I.- Obrar el acusado impulsado por una fuerza física exterior irresistible;
 
 II.- Hallarse el acusado, al cometer la infracción, en un estado de inconsciencia de sus actos, determinado por el empleo accidental e involuntario de substancias tóxicas, embriagantes o enervantes, o por un estado toxinfeccioso agudo o por un trastorno mental involuntario de carácter patológico y transitorio;
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
-III.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente; a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
+III.- Obrar el acusado en defensa de su persona, de su honor o de sus bienes, o de la persona, honor o bienes de otro, repeliendo una agresión actual, violenta, sin derecho y de la cual resulte un peligro inminente, a no ser que se pruebe que intervino alguna de las circunstancias siguientes:
 
-Primera.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
+PRIMERA.- Que el agredido provocó la agresión, dando causa inmediata y suficiente para ella;
 
-Segunda.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
+SEGUNDA.- Que previó la agresión y pudo fácilmente evitarla por otros medios legales;
 
-Tercera.- Que no hubo necesidad racional del medio empleado en la defensa, y
+TERCERA.- Que no hubo necesidad racional del medio empleado en la defensa; y
 
-Cuarta.- Que el daño que iba a causar el agresor, era fácilmente reparable después por medios legales o era notoriamente de poca importancia, comparado con el que causó la defensa.
-
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+CUARTA.- Que el daño que iba a causar el agresor era fácilmente reparable después por medios legales o era notoriamente de poca importancia, comparado con el que causó la defensa.
 
 Se presumirá que concurren los requisitos de la legítima defensa, respecto de aquel que durante la noche rechazare, en el momento mismo de estarse verificando, el escalamiento o fractura de los cercados, paredes o entradas de su casa o departamento habitado o de sus dependencias, cualquiera que sea el daño causado al agresor.
 
-Igual presunción favorecerá al que causare cualquier daño a un extraño a quien encontrare: dentro de su hogar; en la casa donde se encuentre su familia, aunque no sea su hogar habitual; en un hogar ajeno que aquél tenga obligación legal de defender; en el local donde aquél tenga sus bienes o donde se encuentren bienes ajenos que tenga obligación legal de defender, siempre que esto suceda de noche y el intruso ejerza violencia sobre las personas o sobre las cosas que en tales sitios se hallen.
+Igual presunción favorecerá al que causare cualquier daño a un intruso a quien sorprendiera en la habitación u hogar propios, de su familia o de cualquiera otra persona que tenga la misma obligación de defender, o en el local donde se encuentren bienes propios o respecto de los que tenga la misma obligación, siempre que la presencia del extraño ocurra de noche o en circunstancias tales que revelen la posibilidad de una agresión.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -307,11 +305,11 @@ Y las demás que fijen las leyes.
 
 ### CAPITULO II. Prisión
 
-> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1948)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 25.
 
-La prisión consiste en la privación de la libertad corporal; será de tres días a treinta años, y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señale el órgano ejecutor de las sanciones penales.
+La prisión consiste en la privación de la libertad corporal; será de 3 días a 40 años y se extinguirá en las colonias penitenciarias, establecimientos o lugares que al efecto señale el órgano ejecutor de las sanciones penales.
 
 ###### ARTICULO 26.
 
@@ -487,7 +485,7 @@ Si el delito por el que se impuso la publicación de sentencia, fue cometido por
 
 ### CAPITULO II. Aplicación de sanciones a los delitos de imprudencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 10 DE FEBRERO DE 1945)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 51.
 
@@ -543,17 +541,19 @@ Cuando un delito pueda ser considerado bajo dos o más aspectos, y bajo cada uno
 
 ###### ARTICULO 60.
 
-Los delitos de imprudencia se castigarán con prisión de tres días a cinco años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio, según sea la imprudencia leve o grave. Sin embargo, cuando a consecuencia de actos u omisiones imprudentes que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera, o de cualesquiera otros transportes de concesión federal, se causen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obtener otros de la misma naturaleza.
+Los delitos de imprudencia se sancionarán con prisión de 3 días a 5 años y suspensión hasta de dos años, o privación definitiva de derechos para ejercer profesión u oficio. Cuando a consecuencia de actos u omisiones imprudentes, calificados como graves, que sean imputables al personal que preste sus servicios en una empresa ferroviaria, aeronáutica, naviera o de cualesquiera otros transportes de servicio público federal o local, se causen homicidios de dos o más personas, la pena será de cinco a veinte años de prisión, destitución del empleo, cargo o comisión e inhabilitación para obténer otros de la misma naturaleza.
 
 La calificación de la gravedad de la imprudencia queda al prudente arbitrio del juez, quien deberá tomar en consideración las circunstancias generales señaladas en el artículo 52 y las especiales siguientes:
 
-I.- La mayor o menor facilidad de prever y evitar el daño que resulte;
+I.- La mayor o menor facilidad de prever y evitar el daño que resultó;
 
-II.- Si para esto bastaban una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia;
+II.- Si para ello bastaban una reflexión o atención ordinarias y conocimientos comunes en algún arte o ciencia;
 
-III.- Si los acusados han delinquido anteriormente en circunstancias semejantes, y
+III.- Si el inculpado ha delinquido anteriormente en circunstancias semejantes;
 
-IV.- Si tuvieron tiempo para obrar con la reflexión y el cuidado necesarios.
+IV.- Si tuvo tiempo para obrar con la reflexión y cuidado necesarios, y
+
+V.- El estado del equipo, vías y demás condiciones de funcionamiento mecánico, tratándose de infracciones cometidas en los servicios de empresas transportadoras, y en general, por conductores de vehículos.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -563,11 +563,15 @@ En los casos a que se refiere la primera parte del primer párrafo del artículo
 
 Siempre que al delito intencional corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al delincuente por imprudencia.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 62.
 
-Cuando el monto de un delito de daño en propiedad ajena por imprudencia, no sea mayor de cien pesos, o cuando aunque se supere esa suma resulte cometido con motivo del tránsito de vehículos, a menos que se trate del sistema ferroviario, de navíos, de aeronaves, o de cualesquiera otros transportes de concesión federal, únicamente se sancionará con multa hasta por la cantidad de cien pesos y reparación del daño. En tales casos, sólo será perseguible el delito mediante querella de la parte ofendida si no concurren lesiones u homicidio.
+Cuando el delito de imprudencia ocasione únicamente daño en propiedad ajena que no sea mayor de quinientos pesos, sólo se perseguirá a petición de parte y se sancionará con multa hasta de mil pesos.
+
+Las mismas reglas regirán para el caso en que el delito de imprudencia cause únicamente daño en propiedad ajena, cualquiera que sea su valor y se ocasione con motivo del tránsito de vehículos.
+
+Lo dispuesto en los párrafos anteriores no se aplicará cuando el delito se cometa en el sistema ferroviario o de tranvías, en navíos, aeronaves o en cualquiera otro transporte de servicio público federal o local.
 
 ### CAPITULO IV. Aplicación de sanciones a los responsables de varios delitos y a los reincidentes
 
@@ -825,7 +829,7 @@ La rehabilitación tiene por objeto reintegrar al condenado en los derechos civi
 
 ### CAPITULO II. Espionaje
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 100.
 
@@ -981,11 +985,11 @@ Cuando el menor llegue a los dieciocho años antes de terminar el período de re
 
 Comete el delito de traición: el que atenta contra la independencia de la República Mexicana, su soberanía, su libertad o la integridad de su territorio, si el delincuente tiene la calidad de mexicano por nacimiento o por naturalización, o ha renunciado su nacionalidad de mexicano, dentro de los tres meses anteriores a la declaración de guerra o al rompimiento de las hostilidades entre un enemigo extranjero y México, si no ha precedido esa declaración.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 124.
 
-Se impondrán prisión de ocho a treinta años y multa de mil a cincuenta mil pesos, por el delito previsto en el artículo precedente y, además, en los casos siguientes:
+Se impondrá prisión de 8 a 40 años y multa de mil a cincuenta mil pesos, por el delito previsto en el artículo precedente y, además, en los casos siguientes:
 
 > <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1061,13 +1065,11 @@ Lo dispuesto en el artículo anterior se entiende sin perjuicio de lo que previe
 
 ###### ARTICULO 129.
 
-Se aplicará prisión de veinte a treinta años y multa hasta de cincuenta mil pesos, al que declarada la guerra o rotas las hostilidades, esté en relación o tenga inteligencia con el enemigo extranjero, guiándolo, dándole instrucciones, consejos o proporcionándole noticias concernientes a las actividades diplomáticas o militares.
+Se aplicará prisión de 20 a 40 años y multa hasta de cincuenta mil pesos, al que declarada la guerra o rotas las hostilidades esté en relación, o tenga inteligencia con el enemigo extranjero guiándolo, dándole instrucciones, consejos o proporcionándole noticias concernientes a las actividades diplomáticas o militares. Cuando las noticias no tengan este objeto pero fueren útiles al enemigo, la sanción será de 6 a 15 años de prisión y multa hasta de veinte mil pesos.
 
-Cuando las noticias no tengan ese objeto, pero fueren útiles al enemigo, la sanción será de cuatro a diez años de prisión y multa hasta de veinte mil pesos.
+Se aplicará prisión de 25 a 40 años, multa hasta de cincuenta mil pesos y privación de derechos políticos hasta de 20 años, al funcionario o empleado público que declarada la guerra o rotas las hostilidades teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto, rada, establecimientos industriales o militares o conociendo el secreto de una negociación o de una medida militar, entregue aquél o revele éste al enemigo. Cuando estos actos se realicen en tiempo de paz la prisión será de 15 a 30 años, la multa hasta de treinta mil pesos y la privación de derechos políticos hasta de diez años.
 
-Se aplicará prisión de veinte a treinta años, multa hasta de cincuenta mil pesos y privación de derechos políticos hasta por veinte años, al funcionario o empleado público que declarada la guerra o rotas las hostilidades, teniendo en su poder por razón de su empleo o cargo, el plano de alguna fortificación, arsenal, puerto, aeropuerto, rada, establecimientos industriales o militares, o conociendo el secreto de una negociación o de una medida militar, entregue aquél o revele éste al enemigo. Cuando esos actos se realicen en tiempo de paz, la prisión será de diez a veinte años, la multa hasta de treinta mil pesos y la privación de derechos políticos hasta por diez años.
-
-Se aplicará prisión de diez a veinte años y multa hasta de treinta mil pesos, al que en tiempo de paz esté en relación o tenga inteligencia con un gobierno extranjero, con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles actividades o establecimientos militares.
+Se aplicará prisión de 15 a 30 años y multa hasta de treinta mil pesos al que en tiempo de paz esté en relación o tenga inteligencia con un gobierno extranjero con el objeto de guiar una posible invasión del territorio nacional, o provocar alguna alteración de la paz interior, o con estos fines le dé instrucciones o consejos, o le proporcione noticias de las posibles actividades o establecimientos militares.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1433,11 +1435,13 @@ Al que, para la ejecución de los hechos de que hablan los artículos anteriores
 
 Al que ponga en movimiento una locomotora, carro, camión o vehículo similar y lo abandone o, de cualquier otro modo, haga imposible el control de su velocidad y pueda causar daño, se le impondrá de uno a seis años de prisión.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
 ###### ARTICULO 170.
 
-Se impondrán de diez a veinte años de prisión: al que incendiare un avión, una embarcación u otro vehículo, si se encontraren ocupados por una o más personas.
+Al que emplando (sic) explosivos o materias incendiarias, o por cualquier otro medio, destruya total o parcialmente una aeronave, una embarcación u otro vehículo de servicio público federal o local, si se encontraren ocupados por uno (sic) o más personas, se le aplicará prisión de 20 a 30 años.
 
-Si en el vehículo que se incendie no se halla persona alguna, la sanción será de dos a seis años.
+Si en el vehículo de que se trate no se hallare persona alguna, se aplicará prisión de 5 a 20 años.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -1456,6 +1460,8 @@ Cuando se cause algún daño por medio de cualquier vehículo, motor o maquinari
 ### CAPITULO III. Coalición de funcionarios
 
 ### CAPITULO IV. Cohecho
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 173.
 
@@ -1665,9 +1671,9 @@ Se aplicarán prisión de seis meses a dos años y multa de cincuenta a mil peso
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
-### CAPITULO I. Delitos contra el comercio y la industria
+### CAPITULO I. Delitos contra el consumo y la riqueza nacionales
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1952)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 202.
 
@@ -1827,9 +1833,9 @@ Cometen el delito de coalición: los funcionarios públicos, empleados, agentes 
 
 Comete el delito de cohecho:
 
-I.- La persona encargada de un servicio público, que por sí o por interpósita persona solicite o reciba indebidamente dinero o cualquiera otra dádiva, o acepte una promesa directa o indirectamente para hacer o dejar de hacer algo justo o injusto, relacionado con sus funciones, y
+I.- La persona encargada de un servicio público, centralizado o descentralizado, o el funcionario de una empresa en que como accionista o asociado participe el Estado, que por sí o interpósita persona solicite o reciba indebidamente dinero o cualquiera otra dádiva, o acepte una promesa, para hacer dejar de hacer algo justo o injusto relacionado con sus funciones; y
 
-II.- El que directa o indirectamente dé u ofrezca dádivas a la persona encargada de un servicio público, sea o no funcionario, para que haga u omita un acto justo o injusto relacionado con sus funciones.
+II.- El que de manera espontánea dé u ofrezca dinero o cualquiera otra dádiva a alguna de las personas que se mencionan en la fracción anterior, para que éste haga u omita un acto justo o injusto relacionado con sus funciones.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2163,13 +2169,17 @@ IV.- Al que, con arreglo a derecho, con cualquier carácter excepto el de testig
 
 Lo prevenido en esta fracción no comprende los casos en que la parte sea examinada sobre la cantidad en que estime una cosa o cuando tenga el carácter de acusado;
 
-El testigo, perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o judicial antes de que se pronuncie resolución o sentencia, sólo pagará una multa de diez a doscientos pesos. Pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponde, con arreglo a lo prevenido en este capítulo, aumentando la pena de tres días a seis meses de prisión.
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+V.- Al que en juicio de amparo rinda informes como autoridad responsable, en los que afirmare una falsedad o negare la verdad en todo o en parte.
+
+> <small>N. DE E. ESTE ARTICULO ABSORBIO LA REDACCION DEL ARTICULO 247 FRACCION IV TERCER PARRAFO.</small>
+
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 248.
 
-El testigo, el perito o el intérprete que retracte espontáneamente sus falsas declaraciones rendidas en juicio, antes de que se pronuncie sentencia en la instancia en que las dieren, sólo pagarán una multa de diez a doscientos cincuenta pesos.
-
-Pero si faltaren a la verdad al retractar sus declaraciones, se les aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolos como reincidentes.
+El testigo perito o intérprete que retracte espontáneamente sus falsas declaraciones rendidas ante cualquiera autoridad administrativa o ante la judicial antes de que se pronuncie sentencia en la instancia en que las diere sólo pagará una multa de diez a doscientos cincuenta pesos, pero si faltare a la verdad al retractar sus declaraciones, se le aplicará la sanción que corresponda con arreglo a lo prevenido en este capítulo, considerándolo como reincidente.
 
 ###### ARTICULO 249.
 
@@ -2215,21 +2225,33 @@ TITULO DECIMOCUARTO
 
 Delitos contra la economía pública
 
+> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1955)</small>
+
 ###### ARTICULO 253.
 
-Se aplicarán hasta nueve años de prisión y multa de cien a cincuenta mil pesos, a quienes incurran en algunos de los hechos delictuosos que después se enumeran, además de la suspensión hasta de un año o disolución de la empresa, a juicio del juez, cuando el delincuente sea miembro o representante de ella y concurran las demás circunstancias del artículo 11 de este Código:
+Son actos que afectan gravemente el consumo nacional, y se sancionarán con prisión hasta de 9 años y multa de cien a cincuenta mil pesos, los siguientes:
 
-I.- Acaparamiento o monopolio de artículos de primera necesidad o consumo necesario con el objeto de obtener alza de los precios;
+I.- El acaparamiento de artículos de primera necesidad o de consumo necesario con el objeto de obtener una alza en los precios, su ocultación, así como la injustificada negativa para venderlos.
 
-II.- Todo acto o procedimiento en contra de la libre concurrencia en la producción, industria, comercio o servicio público, en perjuicio de la colectividad o de una clase social en particular;
+II.- Todo acto o procedimiento que dificulte o se proponga dificultar la libre concurrencia en la producción o en el comercio;
 
-III.- Todo acuerdo o combinación de productores industriales, comerciantes o empresarios para evitar la competencia entre sí y obligar a los consumidores a pagar precios exagerados;
+III.- La limitación de la producción de un artículo de consumo necesario, con el propósito de mantenerlo en elevado e injusto precio;
 
-IV.- Los actos o procedimientos que constituyan ventaja exclusiva e indebida a favor de una o varias personas determinadas y con perjuicio del público de alguna clase social, y
+IV.- La exportación de artículos de primera necesidad sin permiso de la autoridad competente cuando éste sea necesario de acuerdo con la Ley.
 
-V.- Todo acto o procedimiento que de cualquier manera viole las disposiciones del artículo 28 de la Constitución Federal.
+V.- La venta de un artículo de primera necesidad, con inmoderado lucro, por los productores, distribuidores, mayoristas o comerciantes en general; y
 
-Estas sanciones se entienden sin perjuicio de que la autoridad administrativa tome todas las medidas de su competencia en los términos de la Ley Orgánica del artículo 28 de la Constitución Federal en materia de Monopolios.
+V (SIC).- Todo acto o procedimiento que de alguna manera viole las disposiciones del artículo 28 constitucional.
+
+En cualquiera de los casos antes señalados, el Juez podrá ordenar, además, la suspensión hasta por un año o la disolución de la empresa de la que el delincuente sea miembro o representante, si concurren las demás circunstancias mencionadas en el artículo 11 de este Código.
+
+Lo dispuesto en este artículo se aplicará sin perjuicio de las medidas y sanciones administrativas que establezcan las Leyes Orgánicas y Reglamentaria del artículo 28 constitucional, y de que en los términos del artículo 164 de este Código, se sancione a los productores o comerciantes cuando dos o más de ellos acuerden la realización de los actos antes enumerados.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
+ARTICULO 253 bis.- Se aplicarán las sanciones a que se refiere el artículo anterior, a los comerciantes o industriales que por cualquier medio alteren las mercancías o productos o se reduzcan las propiedades que debieran tener. Si a consecuencia de la alteración resultaren cometidos lesiones u homicidio se aplicarán, además, las sanciones que por estos delitos corresponden.
+
+Lo mandado en este artículo se observará sin perjuicio de las medidas y sanciones que pueda tomar o imponer la autoridad administrativa en virtud de leyes especiales.
 
 ###### ARTICULO 254.
 
@@ -2240,6 +2262,10 @@ I.- Por destrucción indebida de materias primas, árboles, productos agrícolas
 II.- Cuando se ocasione la difusión de una enfermedad de las plantas o de los animales con peligro de la economía rural o forestal, o de la riqueza zoológica del país, y
 
 III.- Cuando se publiquen noticias falsas, exageradas o tendenciosas o por cualquier otro medio indebido se produzcan trastornos en el mercado interior, ya sea tratándose de mercancías, de monedas o títulos y efectos de comercio.
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+IV.- Al que dolosamente, en operaciones mercantiles exporte mercancías nacionales de calidad inferior, o en menor cantidad de lo convenido.
 
 ###### ARTICULO 255.
 
@@ -2581,9 +2607,11 @@ I.- Al que dispare sobre alguna persona un arma de fuego;
 
 II.- Al que ataque a alguien de tal manera que, en razón del arma empleada, de la fuerza o destreza del agresor o de cualquiera otra circunstancia semejante, pueda producir como resultado la muerte.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
 ###### ARTICULO 307.
 
-Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este Código, se le impondrán de ocho a trece años de prisión.
+Al responsable de cualquier homicidio simple intencional y que no tenga señalada una sanción especial en este código, se le impondrán de 8 a 20 años de prisión.
 
 > <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
@@ -2669,11 +2697,11 @@ La alevosía consiste: en sorprender intencionalmente a alguien de improviso, o 
 
 Se dice que obra a traición: el que no solamente emplea la alevosía s.no (sic) también la perfidia, violando la fe o seguridad que expresamente había prometido a su víctima, o la tácita que ésta debía prometerse de aquél por sus relaciones de parentesco, gratitud, amistad o cualquiera otra que inspire confianza.
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 320.
 
-Al autor de un homicidio calificado se le impondrán de trece a treinta años de prisión.
+Al autor de un homicidio calificado se le impondrán de 20 a 40 años de prisión.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -2693,9 +2721,11 @@ II.- Prohibirles ir a determinado lugar, Municipio, Distrito o Estado, o residir
 
 Se da el nombre de parricidio: al homicidio del padre, de la madre o de cualquier otro ascendiente consanguíneo y en línea recta, sean legítimos o naturales, sabiendo el delincuente ese parentesco.
 
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
 ###### ARTICULO 324.
 
-Al que cometa el delito de parricidio se le aplicarán de veinte a treinta años de prisión.
+Al que comete el delito de parricidio se le aplicarán de 13 a 40 años de prisión.
 
 ###### ARTICULO 325.
 
@@ -2957,11 +2987,11 @@ I.- Al que obligue a otro a prestarle trabajos o servicios personales sin la ret
 
 II.- Al que celebre con otro un contrato que prive a éste de la libertad o le imponga condiciones que lo constituyan en una especie de servidumbre o que se apodere de alguna persona y la entregue a otro con el objeto de que éste celebre dicho contrato.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 15 DE ENERO DE 1951)</small>
+> <small>(REFORMADO, D.O.F. 5 DE ENERO DE 1955)</small>
 
 ###### ARTICULO 366.
 
-Se impondrán de cinco a treinta años de prisión y multa de cien a diez mil pesos, cuando la detención arbitraria tenga el carácter de plagio o secuestro, en alguna de las formas siguientes:
+Se impondrán de 5 a 40 años de prisión y multa de cien a diez mil pesos cuando la detención arbitraria tenga el carácter de plagio o secuestro en alguna de las formas siguientes:
 
 I.- Cuando se trate de obtener rescate, o de causar daños o perjuicios al plagiado o a otra persona relacionada con éste;
 
@@ -2969,13 +2999,9 @@ II.- Cuando se haga uso de amenazas graves, de maltrato o de tormento;
 
 III.- Cuando la detención se haga en camino público o en paraje solitario;
 
-IV.- Cuando los plagiarios obren en grupo o banda, y
-
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 1951)</small>
+IV.- Cuando los plagiarios obren en grupo o banda; y
 
 V.- Cuando se cometa el robo de infante menor de doce años por quien sea extraño a su familia y no ejerza la patria potestad sobre él.
-
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1951)</small>
 
 Si el plagiario pone en libertad a la persona secuestrada, espontáneamente, antes de tres días y sin causar ningún perjuicio grave, sólo se aplicará la sanción correspondiente a la detención ilegal, de acuerdo con los dos artículos anteriores.
 
@@ -3069,9 +3095,9 @@ Al que se le imputare el hecho de haber tomado una cosa ajena sin consentimiento
 
 Además de la pena que le corresponda, conforme a los artículos 370 y 371, se aplicará al delincuente de tres días a tres años de prisión, en los casos siguientes:
 
-> <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
 
-I.- Cuando se cometa el delito en un lugar cerrado o en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construídos;
+I.- Cuando se cometa el delito en un lugar cerrado.
 
 II.- Cuando lo cometa un dependiente o un doméstico contra su patrón o alguno de la familia de éste, en cualquier parte que lo cometa.
 
@@ -3084,6 +3110,10 @@ IV.- Cuando lo cometa el dueño o alguno de su familia en la casa del primero, c
 V.- Cuando lo cometan los dueños, dependientes, encargados o criados de empresas o establecimientos comerciales, en los lugares en que presten sus servicios al público, y en los bienes de los huéspedes o clientes, y
 
 VI.- Cuando se cometa por los obreros, artesanos, aprendices o discípulos, en la casa, taller o escuela en que habitualmente trabajen o aprendan o en la habitación, oficina, bodega u otro lugar al que tengan libre entrada por el carácter indicado.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
+ARTICULO 381 bis.- Sin perjuicio de las sanciones que de acuerdo con los artículos 370 y 371 deben imponerse, se aplicarán de 3 días a 10 años de prisión al que robe en edificio, vivienda, aposento o cuarto que estén habitados o destinados para habitación, comprendiéndose en esta denominación no sólo los que están fijos en la tierra, sino también los movibles, sea cual fuere la materia de que estén construídos. En los mismos términos se sancionará al que se apodere de un vehículo estacionado en la vía pública y no ocupado por alguna persona.
 
 ###### ARTICULO 382.
 
@@ -3167,11 +3197,23 @@ XII.- Al fabricante, empresario, contratista, o constructor de una obra cualquie
 
 XIII.- Al vendedor de materiales de construcción o cualquiera especie, que habiendo recibido el precio de los mismos, no los entregare en su totalidad o calidad convenidos;
 
-XIV.- Al propietario de una empresa o negocio, que lo venda o traspase sin autorización de los acreedores de la misma negociación, o sin que el nuevo adquirente se comprometa a responder de los créditos; siempre que aquél resulte insolvente.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+XIV.- Al que venda o traspase una negociación sin autorización de los acreedores de ella, o sin que el nuevo adquirente se comprometa a responder de los créditos, siempre que estos últimos resulten insolutos. Cuando la enajenación sea hecha por una persona moral, serán penalmente responsables los que autoricen aquella y los dirigentes, administradores o mandatarios que la efectúen;
 
 XV.- Al que explote las preocupaciones, la superstición o la ignorancia del pueblo, por medio de supuesta evocación de espíritus, adivinaciones o curaciones.
 
-XVI.- Al que ejecute actos violatorios de derechos a propiedad literaria, dramática o artística, considerados como falsificación en el Código Civil.
+> <small>(REFORMADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+XVI.- Al que ejecute actos violatorios de derechos de propiedad literaria, dramática o artística, considerados como falsificación en las leyes relativas;
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+XVII.- Al que valiéndose de la ignorancia o de las malas condiciones económicas de un trabajador a su servicio, le pague cantidades inferiores a las que legalmente le corresponden por las labores que ejecuta o le haga otorgar recibos o comprobantes de pago de cualquier clase que amparen sumas de dinero superiores a las que efectivamente entrega.
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1955)</small>
+
+XVIII.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos con el subsidio o la franquicia.
 
 > <small>(F. DE E., D.O.F. 31 DE AGOSTO DE 1931)</small>
 
@@ -3179,9 +3221,13 @@ XVI.- Al que ejecute actos violatorios de derechos a propiedad literaria, dramá
 
 Cuando el valor de lo defraudado, conforme a los artículos anteriores de este capítulo, no exceda de cincuenta pesos, se castigará el delito con multa de cinco a cincuenta pesos y prisión de tres días a seis meses.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1955)</small>
+
 ###### ARTICULO 389.
 
-(DEROGADO, D.O.F. 9 DE MARZO DE 1946)
+Se equipara al delito de fraude y se sancionará con prisión de 6 meses a 6 años y multa de cien a mil pesos, al valerse del cargo que se ocupe en el Gobierno, en una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los funcionarios o dirigentes de dichos organismos, para obtener dinero, valores, dádivas, obsequios o cualquier otro beneficio, a cambio de prometer o proporcionar un trabajo en tales organismos.
+
+Si el beneficio se logra como consecuencia de una promesa falsa, se duplicarán las sanciones.
 
 ###### ARTICULO 390.
 
@@ -3420,3 +3466,7 @@ Estas reformas entrarán en vigor tres días después de su publicación en el "
 D.O.F. 31 DE DICIEMBRE DE 1952.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el "Diario Oficial" de la Federación.
+
+D.O.F. 5 DE ENERO DE 1955.
+
+UNICO.- Esta reforma entrará en vigor el día siguiente de su publicación en el "Diario Oficial".
