@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-42-de-catastro-del-estado-de-veracruz-de-ignacio-228
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2001-12-21"
+last_updated: "2003-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22883&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE CATASTRO DEL ESTADO DE VERACRUZ-LLAVE
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ENERO DE 2003.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 21 de diciembre de 2001.
 
@@ -325,7 +325,9 @@ k) Localizar cada predio, mediante su deslinde y medida, incorporando los elemen
 
 l) Contratar los servicios de empresas o particulares especializados en materia de catastro, los trabajos topográficos, fotogramétricos, de valuación y los necesarios para la ejecución del catastro como sistema técnico, bajo la norma y supervisión que establezca el Gobierno Estatal;
 
-m) Valuar los predios conforme a las tablas de valores unitarios en vigor, que establezca el Congreso y conforme a las normas y procedimientos instaurados por el Gobierno estatal para este efecto;
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+m) Valuar y revaluar los predios conforme a las tablas de valores unitarios en vigor, que establezca el Congreso y conforme a las normas y procedimientos instaurados por el Gobierno estatal para este efecto;
 
 n) Elaborar y conservar los registros catastrales mediante el uso de los modelos y las disposiciones reglamentarias establecidas por el Gobierno estatal, así como el archivo de los mismos;
 
@@ -335,7 +337,9 @@ p) Informar a la autoridad catastral estatal sobre los valores de los terrenos y
 
 q) Expedir certificados de valor catastral y demás constancias de los registros catastrales de su circunscripción territorial, previo pago de los derechos correspondientes;
 
-r) Notificar a los interesados, por medio de cédula catastral, el resultado de las operaciones catastrales en su jurisdicción;
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+r) Notificar a los interesados los actos relacionados con la función catastral, en los términos que establezcan la presente ley y el Código de Procedimientos Administrativos para el Estado de Veracruz-Llave;
 
 s) Recibir y, en su caso, turnar a la autoridad competente, para su resolución, los escritos de interposición del recurso administrativo de revocación que, en materia catastral, presenten los interesados;
 
@@ -463,7 +467,9 @@ I. Predio Urbano: El que se ubica en zonas que cuentan con equipamiento y servic
 
 II. Predio Suburbano: El contiguo a las zonas urbanas que carece total o parcialmente de equipamiento y servicios públicos, con factibilidad para uso habitacional, industrial o de servicios;
 
-III. Predio Rural: El que se ubica fuera de las zonas urbanas y suburbanas y se destina para uso agrícola, ganadero, minero, pesquero, forestal o de preservación ecológica, entre otros que señale el Reglamento.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+III. Predio Rural: El que se ubica fuera de las zonas urbanas y suburbanas y se destina para uso agrícola, ganadero, minero, pesquero, forestal o de preservación ecológica, entre otros que señale el Reglamento. Atendiendo a la calidad del suelo, los predios rurales se clasifican en: de riego, de temporal, de humedad, áridos y pantanosos, en los términos que establezca el Reglamento.
 
 ###### Artículo 33.
 
@@ -519,7 +525,9 @@ II. Fusión, subdivisión, relotificación o fraccionamiento de los predios;
 
 III. Ejecución de obras públicas o privadas que alteren el valor del inmueble;
 
-IV. Cambio de uso o destino del suelo o por su incorporación a la zona urbana;
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+IV. Cambio de uso o destino del suelo o por su reclasificación a urbano o suburbano;
 
 V. Cambio del régimen jurídico de propiedad;
 
@@ -527,7 +535,9 @@ VI. Cuando se advierta que el valor catastral se determinó con base en datos fa
 
 VII. Publicación de Tablas de Valores, y
 
-VIII. Cuando las condiciones de los predios suburbanos o rurales hagan necesaria su reclasificación.
+> <small>(REFORMADA, G.O. 6 DE ENERO DE 2003)</small>
+
+VIII. Cuando las condiciones de los predios en términos de su ubicación, vías de comunicación, infraestructura, equipamiento urbano, topografía e inundabilidad, lo determinen.
 
 La revaluación a que se refiere este artículo comprenderá el terreno y las construcciones.
 
@@ -611,7 +621,9 @@ d) Región;
 
 e) Manzana;
 
-f) Código de Calle;
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+f) Código y nombre de la calle;
 
 g) Infraestructura;
 
@@ -635,7 +647,9 @@ d) Región;
 
 e) Manzana;
 
-f) Código de Calle;
+> <small>(REFORMADO, G.O. 6 DE ENERO DE 2003)</small>
+
+f) Código de calle y vía de acceso;
 
 g) Infraestructura;
 
@@ -824,3 +838,15 @@ Atentamente
 Sufragio efectivo. No reelección
 
 Licenciado Miguel Alemán Velazco, Gobernador del Estado.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+G.O. 6 DE ENERO DE 2003.
+
+PRIMERO. Las disposiciones contenidas en el presente Decreto entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. Las visitas domiciliarias y las de verificación ya iniciadas al momento de la entrada en vigor del presente Decreto, se continuarán tramitando conforme a las disposiciones del Código de Procedimientos Administrativos para el Estado de Veracruz-Llave, vigentes al momento de su inicio.
+
+CUARTO. Las disposiciones reglamentarias en materia de catastro, deberán ajustar su contenido a lo dispuesto en el presente Decreto, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
