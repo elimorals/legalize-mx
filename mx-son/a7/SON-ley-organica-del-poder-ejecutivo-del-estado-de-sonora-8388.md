@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "1986-06-19"
+last_updated: "1986-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 19 DE JUNIO DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 26 DE DICIEMBRE DE 1986.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -55,17 +55,21 @@ Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden admi
 
 Integran la administración pública directa las siguientes dependencias: Secretarías de Despacho, Tesorería General del Estado, Oficialía Mayor y Procuraduría General de Justicia del Estado.
 
-Componen la administración pública paraestatal las siguientes entidades: Organismos descentralizados, empresas de participación estatal, fideicomisos y asociaciones y sociedades civiles asimiladas en los términos de la presente ley.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
 
 ###### ARTICULO 4o.
 
 El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Secretaría Particular, la Ayudantía y la Representación del Gobierno del Estado en el Distrito Federal. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
 
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
 ###### ARTICULO 5o.
 
-El Gobernador del Estado podrá crear y suprimir, por decreto, organismos descentralizados, empresas de participación estatal, fideicomisos, sociedades y asociaciones civiles asimiladas y asignarles las funciones que estime convenientes. Asimismo, podrá crear y suprimir comités, patronatos, comisiones y otros organismos auxiliares o de apoyo que juzgue necesarios para el ejercicio de sus atribuciones, fijándoles su organización y funcionamiento.
+El Gobernador del Estado podrá crear y suprimir, por decreto, organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas y fideicomisos públicos y asignarles las funciones que estime convenientes. Asimismo, podrá crear y suprimir comités, patronatos, comisiones y otros organismos auxiliares o de apoyo que juzgue necesarios para el ejercicio de sus atribuciones, fijándoles su organización y funcionamiento.
 
-La constitución de las empresas de participación estatal, fideicomisos y sociedades y asociaciones civiles asimiladas, se formalizará conforme lo señalen las leyes.
+La constitución de las empresas de participación estatal mayoritaria, de las sociedades y asociaciones civiles asimiladas a éstas y de los fideicomisos públicos, se formalizará conforme lo señalen las leyes.
 
 ###### ARTICULO 6o.
 
@@ -135,7 +139,7 @@ Los titulares de las dependencias a que se refiere esta ley, formularán los ant
 
 ###### ARTICULO 17.
 
-Para la eficaz atención y el eficiente despacho de los asuntos de su competencia, las Secretarías, la Tesorería General del Estado y la Oficialía Mayor, podrán contar con órganos administrativos desconcertados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
+Para la eficaz atención y el eficiente despacho de los asuntos de su competencia, las Secretarías, la Tesorería General del Estado y la Oficialía Mayor, podrán contar con órganos administrativos desconcentrados que les estarán jerárquicamente subordinados y tendrán facultades específicas para resolver sobre la materia y dentro del ámbito territorial que se determine en cada caso, de conformidad con las disposiciones legales aplicables.
 
 ###### ARTICULO 18.
 
@@ -229,7 +233,7 @@ XVI.- Realizar los trámites para el ejercicio de las facultades que otorgan al 
 
 XVII.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia.
 
-XVIII.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XIX.- Las demás que le señalen la Constitución Política del Estado, las leyes y los reglamentos vigentes.
 
@@ -277,7 +281,9 @@ XVIII.- Coordinar las actividades del Comité Estatal de Planeación para el des
 
 XIX.- Establecer las normas y procedimientos para la organización y funcionamiento del Sistema Estatal de Información que le permitan establecer modelos alternativos de desarrollo para el Estado, así como coordinar dicho Sistema.
 
-XX.- Normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública estatal.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+XX.- Normar y coordinar los servicios de informática de las dependencias y entidades de la administración pública estatal, así como establecer las especificaciones técnicas para la selección, adquisición y arrendamiento de los equipos de computación relacionados con el Sistema Estatal de Información y vigilar el cumplimiento de las mismas.
 
 XXI.- Integrar conjuntamente con la Tesorería General del Estado la Cuenta Pública del Gobierno del Estado.
 
@@ -321,7 +327,13 @@ XIV.- Efectuar los estudios técnicos catastrales, fijar los valores de los pred
 
 XV.- Elaborar e integrar, conjuntamente con la Secretaría de Planeación del Desarrollo, la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes.
 
-XVI.- Las demás que le señalen las leyes y reglamentos vigentes.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+XVI.- Realizar los actos que, en relación con los bienes inmuebles de dominio privado, les señalen las leyes.
+
+> <small>(ADICIONADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+XVII.- Las demás que le otorguen las leyes y reglamentos vigentes.
 
 ###### ARTICULO 26.
 
@@ -347,7 +359,9 @@ IX.- Coordinarse con los órganos correspondientes de los Poderes Legislativo y 
 
 X.- Designar a los auditores externos de las entidades, normar y controlar su actividad, y contratar los servicios de éstos con cargo al presupuesto de dichas entidades.
 
-XI.- Proponer, en las entidades de la administración pública paraestatal, la designación de comisarios, o de quien haga las funciones de éstos, en los órganos de vigilancia de los consejos, juntas de gobierno y administración o en sus equivalentes.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+XI.- Designar, en las entidades de la administración pública paraestatal, a los comisarios públicos propietarios y suplentes.
 
 XII.- Recibir y registrar las declaraciones de situación patrimonial que deban presentar los servidores públicos, así como verificar y practicar las investigaciones que fueren pertinentes, de acuerdo con las leyes y reglamentos.
 
@@ -405,7 +419,7 @@ XX.- Promover y organizar actividades de recreación y aprovechamiento del tiemp
 
 XXI.- Coordinar, fomentar y dirigir la enseñanza y práctica del deporte en el medio escolar, y organizar la participación de los alumnos en eventos estatales, regionales y nacionales.
 
-XXII.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XXII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XXIII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -435,7 +449,7 @@ X.- Regular la prevención social que corresponde al Estado, en el ejercicio de 
 
 XI.- Establecer las normas que deben orientar los servicios de asistencia social que presten los sectores público, social y privado y proveer a su cumplimiento.
 
-XII.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XIII.- Promover, vigilar y supervisar a las instituciones de beneficencia privada, en los términos de las leyes y reglamentos aplicables.
 
@@ -495,7 +509,7 @@ XV.- Organizar y fomentar la investigación relacionada con el desarrollo urbano
 
 XVI.- Asesorar técnicamente a los Municipios en materia de desarrollo urbano, vivienda, ecología, comunicaciones y en la realización de obras públicas, cuando así lo soliciten los Ayuntamientos.
 
-XVII.- Conducir, aprobar, coordinar y vigilar la actividad de las empresas paraestatales asignadas a su sector.
+XVII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XVIII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -531,7 +545,7 @@ XIII.- Organizar y patrocinar exposiciones, ferias y congresos de carácter indu
 
 XIV.- Asesorar a los Municipios en materia industrial, comercial, minera, pesquera, artesanal y de fomento cooperativo, cuando así lo soliciten los Ayuntamientos.
 
-XV.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XV.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XVI.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -579,7 +593,7 @@ XIX.- Participar en los programas de comercialización de los productos agropecu
 
 XX.- Asesorar a los Municipios y organismos de productores que lo soliciten, en materia agrícola, frutícola y forestal, así como en los asuntos relativos a la tenencia de la tierra, organización y capacitación campesina.
 
-XXI.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XXI.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XXII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -609,7 +623,7 @@ X.- Organizar y patrocinar concursos, ferias y exposiciones ganaderas, porcícol
 
 XI.- Asesorar y apoyar a los Municipios que lo soliciten, en materia pecuaria.
 
-XII.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales de su sector.
+XII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XIII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -651,7 +665,7 @@ XVI.- Promover, organizar y participar en conferencias, ferias, exposiciones, en
 
 XVII.- Establecer, operar y optimizar un sistema de información y orientación al público, así como la recepción de quejas y sugerencias, en relación con los servicios turísticos que se prestan en el Estado.
 
-XVIII.- Conducir, aprobar, coordinar y vigilar la actividad de las entidades paraestatales asignadas a su sector.
+XVIII.- (DEROGADA, B.O. 26 DE DICIEMBRE DE 1986)
 
 XIX.- Las demás que le señalen las leyes y reglamentos vigentes.
 
@@ -671,13 +685,19 @@ V.- Contratar y llevar el registro de las personas sujetas a pago de honorarios.
 
 VI.- Proveer en los términos de la ley de la materia, al otorgamiento de estímulos a los funcionarios y empleados de la administración pública directa, y llevar el registro de los nombres de las personas a quienes se les otorguen premios, estímulos o recompensas.
 
-VII.- Dictar las normas para las adquisiciones de toda clase que realicen las dependencias y entidades de la administración pública estatal, así como las normas y procedimientos para el manejo de almacenes, inventarios y baja de bienes muebles que formen parte del patrimonio del Poder Ejecutivo y en general, aplicar y vigilar el cumplimiento de la Ley sobre Adquisiciones, Arrendamientos, Servicios y Almacenes de la Administración Pública del Estado de Sonora.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+VII.- Dictar las normas para las adquisiciones de bienes, excepto las relativas a los inmuebles, que realicen las dependencias y entidades de la administración pública estatal, así como las normas y procedimientos para el manejo de almacenes y baja de bienes muebles, que formen parte del patrimonio del Poder Ejecutivo; y, en general, aplicar y vigilar el cumplimiento de la Ley Sobre Adquisiciones, Arrendamientos, Servicios y Almacenes de la Administración Pública del Estado de Sonora.
 
 VIII.- Suministrar, en su caso, los bienes y servicios que requiera el funcionamiento de las dependencias del Poder Ejecutivo.
 
-IX.- Asegurar la conservación del patrimonio del Gobierno del Estado.
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
-X.- Mantener al corriente el inventario de los bienes muebles e inmuebles, que constituyen el patrimonio del Gobierno del Estado y proporcionar los servicios para el mantenimiento de los mismos.
+IX.- Tener a su cargo la conservación de los edificios públicos, con sujeción a lo establecido en la Ley de la materia.
+
+> <small>(REFORMADA, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+X.- Elaborar y actualizar los catálogos e inventarios generales de los bienes de dominio público del Estado y de los bienes muebles de dominio privado del mismo.
 
 XI.- Dirigir, organizar y controlar la Oficialía de Partes y el Archivo General de Gobierno.
 
@@ -705,77 +725,245 @@ XXII.- Las demás que le señalen las leyes y reglamentos vigentes.
 
 ## TITULO TERCERO. DE LA ADMINISTRACION PUBLICA PARAESTATAL
 
-### CAPITULO UNICO. DE LAS ENTIDADES PARAESTATALES
+> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+### CAPITULO I. DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 35.
 
-Para los efectos de la presente Ley, se consideran organismos descentralizados las personas morales creadas por disposición del Congreso del Estado o Decreto del Ejecutivo, investidos de personalidad jurídica y patrimonio propios, cualquiera que sea la forma o estructura que adopten, siempre que reúnan los siguientes requisitos:
+Son organismos descentralizados las entidades creadas por disposición del Congreso del Estado o Decreto del Ejecutivo, con personalidad jurídica y patrimonio propios, cualquiera que sea la estructura legal que adopten, siempre que reúnan los siguientes requisitos:
 
-I.- Que su patrimonio se constituya total o parcialmente con recursos o bienes del Estado o de otros organismos descentralizados, asignaciones, subsidios, concesiones o derechos que le aporte u otorgue el Gobierno del Estado.
+I.- Que su patrimonio se constituya total o parcialmente con recursos o bienes del Estado o de otros organismos descentralizados, aportaciones o concesiones que le otorgue el Gobierno del Estado o el Gobierno Federal; y
 
-II.- Que su objeto o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos propiedad del Estado, la investigación científica y tecnológica o la obtención y aplicación recursos para fines de asistencia o seguridad social.
+II.- Que su objeto o fines sean la prestación de un servicio público o social, la explotación de bienes o recursos estatales, la investigación científica o tecnológica y la obtención o aplicación de recursos para fines y asistencia o seguridad social.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 36.
 
-Se consideran empresas de participación estatal mayoritarias, aquéllas que satisfagan alguno de los siguientes requisitos:
+La administración de los organismos descentralizados estará a cargo de un órgano de gobierno que podrá ser una junta directiva o su equivalente y un Director General.
 
-I.- Que el Gobierno del Estado, uno o más organismos descentralizados, otra u otras empresas de participación estatal mayoritarias, uno o más fideicomisos, considerados conjunta o separadamente, aporten o sean propietarios del 50% o más del capital social, y siempre que las resoluciones en las respectivas asambleas de accionistas, se tomen por el voto de las acciones que representen el 50% o más del capital social.
-
-II.- Que en la constitución de su capital se hagan figurar acciones de serie especial que sólo puedan ser suscritas por el Gobierno Estatal; o
-
-III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del consejo de administración, junta directiva u órganos de gobierno, designar al presidente, al director, al gerente o cuando tenga facultades para vetar los acuerdos de la asamblea de accionistas, del consejo de administración, de la junta directiva u órgano de gobierno equivalente.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 37.
 
-Serán empresas de participación estatal minoritaria las sociedades en las que uno o más organismos descentralizados, fideicomisos o empresas de participación estatal mayoritaria, considerados conjunta o separadamente, posean acciones o partes de capital que representen menos del 50% y hasta el 25 % de aquél.
+El órgano de gobierno será presidido por el titular de la dependencia coordinadora del sector, en el que se encuentre agrupado el organismo descentralizado cuando por disposición expresa del ordenamiento jurídico que cree el citado organismo, dicha presidencia no corresponda al titular del Poder Ejecutivo.
 
-La vigilancia de la participación estatal estará a cargo de un Comisario designado por el Gobernador del Estado.
-
-Las relaciones de las empresas de participación estatal minoritaria con la administración pública estatal, serán las que determinen los ordenamientos jurídicos aplicables.
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 38.
 
-Los fideicomisos a que se refiere esta ley, son aquellos constituidos o que en lo futuro se constituyan con recursos del Gobierno del Estado, siendo éste fideicomitente único, para la atención de un objeto específico de interés público o beneficio colectivo, así como los que se creen con recursos de las entidades a que alude el Artículo 3o. de este ordenamiento.
+La Tesorería General del Estado y la Secretaría de Planeación del Desarrollo, tendrán miembros en los órganos de gobierno de los organismos descentralizados. También participarán, en dichos órganos, las otras dependencias y entidades, en la medida que tengan relación con el objeto del organismo descentralizado de que se trate.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 39.
 
-Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles en las que la mayoría de los asociados sean dependencias o entidades paraestatales o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+Son empresas de participación estatal mayoritaria, las sociedades de cualquier naturaleza que satisfagan alguno o varios de los siguientes requisitos:
+
+I.- Que el Gobierno del Estado o una o más entidades de la administración pública paraestatal conjunta o separadamente, aporten o sean propietarios de más del 50% del capital social;
+
+II.- Que en la constitución de su capital, se hagan figurar títulos representativos del capital social de serie especial, que sólo puedan ser suscritos por el Gobierno Estatal; o
+
+III.- Que al Gobierno Estatal corresponda la facultad de nombrar a la mayoría de los miembros del órgano de gobierno o su equivalente, o bien designar al Presidente o al Director General, o cuando tengan facultades para vetar los acuerdos del propio órgano de gobierno o su equivalente.
+
+Las sociedades en las que participen temporalmente en operaciones de fomento y en forma mayoritaria en su capital, el Gobierno del Estado o una o más de las entidades señaladas en el artículo 3o. de esta Ley, no tendrán el carácter de entidades de la administración pública paraestatal, salvo que atendiendo al objeto o fin de la participación estatal, el Gobernador del Estado decida atribuirles tal carácter, mediante acuerdo que expida en cada caso.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 40.
 
-El Gobernador del Estado estará facultado para determinar agrupamientos de entidades paraestatales, por sectores definidos, a efecto de que sus relaciones con el Ejecutivo del Estado, en cumplimiento de las disposiciones legales aplicables, se realicen a través de la dependencia que en cada caso designe como coordinador de sector.
+Se asimilan a las empresas de participación estatal mayoritaria, las sociedades civiles, así como las asociaciones civiles, en las que la mayoría de los asociados sean dependencias o entidades de la administración pública estatal, o alguna o varias de ellas se obliguen a realizar o realicen las aportaciones económicas preponderantes.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 41.
 
-Corresponderá a las dependencias encargadas de la coordinación de los sectores a que se refiere el artículo anterior, conducir la programación, coordinar y evaluar la operación de las entidades de la administración pública paraestatal que determine el Ejecutivo del Estado.
+Los integrantes de los consejos de administración o sus equivalentes de las empresas de participación estatal mayoritaria, que representen la participación de la administración pública estatal, serán los señalados en el artículo 38 de esta Ley y deberán de constituir en todo tiempo más de la mitad de los miembros del Consejo.
+
+Dichos consejos serán presididos por el titular de la dependencia coordinadora de sector, excepto cuando los estatutos establezcan que la presidencia de los mismos, le corresponde al Gobernador del Estado.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 42.
 
-Las entidades paraestatales deberán proporcionar a las demás entidades del sector donde se encuentren agrupadas, los informes y datos que les soliciten.
+Los fideicomisos públicos a que se refiere esta Ley, son aquellos que se constituyen con recursos del Gobierno del Estado, siendo este fideicomitente único, para la atención de un objeto específico de interés público o beneficio colectivo, así como los que se creen con recursos de las entidades a que alude el artículo 3o. de este ordenamiento.
+
+Los fideicomisos públicos deberán contar con una estructura orgánica análoga a las de las otras entidades y deberán tener comités técnicos. Estos, en cuanto a su conformación, se ajustarán a las disposiciones que en este capítulo se establecen para la integración de los órganos de gobierno de los organismos descentralizados y de las empresas de participación estatal mayoritaria, en cuanto le sean compatibles a su naturaleza.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 43.
 
-Las entidades paraestatales deberán formular, aprobar y mantener permanentemente actualizados, en los términos que correspondan, sus reglamentos interiores y los demás instrumentos de apoyo administrativo interno que se señalan en el Artículo 14 de esta Ley.
+En los contratos constitutivos de fideicomisos públicos, cuando el fideicomitente sea el Gobierno del Estado, se deberá reservar a éste, la facultad expresa de revocarlos, sin perjuicio de los derechos que correspondan a los fideicomisarios o a terceros, salvo que se trate de fideicomisos constituidos por mandato de la Ley, que la naturaleza de su objeto no lo permita o que se constituyan con recursos de las entidades paraestatales.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 44.
 
-Las entidades paraestatales deberán inscribirse en el Registro de la Administración Pública Paraestatal que llevará la Secretaría de Planeación del Desarrollo.
+La Secretaría de Planeación del Desarrollo, previa opinión de la dependencia coordinadora del sector respectivo, propondrá al Gobernador del Estado, para su determinación, la fusión, disolución, liquidación o extinción de las entidades de la administración pública paraestatal, cuando dejen de cumplir el objeto o fin para los que fueron creadas, o cuando su funcionamiento no responda a las estrategias y orientaciones del Plan Estatal de Desarrollo y de los programas derivados de éste, o en caso de que su operación resulte contraria al interés público.
 
-Los directores, gerentes o quienes desempeñen funciones similares en las entidades paraestatales, que no cumplan con esta obligación, serán responsables en los términos de la ley.
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
-### CAPITULO I. DE LA JUNTA LOCAL DE CONCILIACION Y ARBITRAJE
+### CAPITULO II. DE LA COORDINACION SECTORIAL
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 45.
 
-La Junta Local de Conciliación y Arbitraje, es un Tribunal Administrativo con autonomía jurisdiccional, y regulará su estructura y funcionamiento conforme a lo dispuesto por el Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la Ley Federal del Trabajo y los reglamentos de ésta.
+El Gobernador del Estado agrupará a las entidades de la administración pública paraestatal en sectores definidos, que serán coordinados por la dependencia que en cada caso y para cada agrupamiento designe como coordinadora del sector respectivo.
+
+El agrupamiento de entidades a que se refiere el párrafo anterior, se realizará considerando el objeto o fin de cada una de dichas entidades, en relación con la esfera de competencia que ésta u otras leyes atribuyen a las dependencias de la administración pública directa.
+
+> <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 ###### ARTICULO 46.
 
-El Tribunal de lo Contencioso administrativo del Estado de Sonora, es un Tribunal Administrativo dotado de plena autonomía, con la organización y atribuciones que establecen su Ley Orgánica y demás disposiciones aplicables.
+Corresponde a los titulares de las dependencias coordinadoras de sector, establecer políticas de desarrollo para las entidades del sector correspondiente; coordinar la programación y presupuestación de conformidad, en su caso, con las asignaciones sectoriales de gasto y financiamiento previamente establecidas y autorizadas; conocer la operación y evaluar los resultados de las entidades de la administración pública paraestatal agrupadas en su sector; promover la generación de fondos propios de éstas y las demás atribuciones que les concedan los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 47.
+
+La intervención que conforme a esta y a las demás leyes aplicables le corresponde al Ejecutivo Estatal en la operación de las entidades de la administración pública paraestatal, se llevará a cabo a través de la dependencia coordinadora del sector respectivo.
+
+La intervención a que se refiere el párrafo anterior, así como las relaciones del Gobernador del Estado con las entidades de la administración pública paraestatal, se regularán por la presente Ley y por sus disposiciones reglamentarias, y en lo no previsto en las mismas, por los ordenamientos jurídicos aplicables según las materias que correspondan.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+### CAPITULO III. DE LA OPERACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 48.
+
+Las entidades de la administración pública paraestatal, para el logro de sus objetivos o fines, gozarán de autonomía de gestión. Sin perjuicio de los anterior, llevarán a cabo su operación, conforme a lo dispuesto en este y en otros ordenamientos jurídicos aplicables y con base en las políticas, lineamientos y prioridades que establezca el Gobernador del Estado.
+
+Las universidades y las demás instituciones de educación superior a las que la Ley otorgue autonomía, se regirán por sus leyes específicas.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 49.
+
+Para su operación, las entidades de la administración pública paraestatal deberán elaborar, con sujeción a las disposiciones legales aplicables y en congruencia con el Plan Estatal de Desarrollo y con los programas sectoriales que se deriven del mismo, sus programas institucionales.
+
+Dichos programas, que constituirán la asunción de compromisos que deben alcanzar las señaladas entidades, deberán contener: La fijación de objetivos y metas; los resultados económicos y financieros esperados; las bases para evaluar las acciones que se lleven a cabo; la definición de estrategias y prioridades; la previsión y organización de recursos para alcanzarlas; la expresión de programas para la coordinación de sus tareas y las previsiones respecto a las posibles modificaciones a sus estructuras.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 50.
+
+Las entidades a que se refiere este Título, para cada ejercicio fiscal, deberán elaborar, conforme a los lineamientos generales que establezca la Tesorería General del Estado, sus programas financieros, los cuales deberán expresar, enunciativamente, los fondos propios, las aportaciones de capital y la contratación de créditos. Estos programas deberán contener, además, los criterios conforme a los cuales se ejecutarán los mismos en cuanto a montos, costos reales, plazos, garantías y avales.
+
+Asimismo, dichas entidades deberán formular, a parir de sus programas anuales, sus presupuestos anuales de egresos. En estas actividades, las entidades de la administración pública paraestatal se sujetarán a las proyecciones y cálculos que en ejercicio de sus facultades, realice la Secretaría de Planeación del Desarrollo, y a los lineamientos generales que en materia de gasto establezca dicha dependencia.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 51.
+
+Los presupuestos de egresos a que se refiere el artículo anterior deberán contener, como mínimo, la descripción detallada de objetivos y metas y el señalamiento de unidades responsables de su ejecución, así como los elementos que permitan la evaluación sistemática de los programas correspondientes.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 52.
+
+Sin perjuicio de lo dispuesto en otros ordenamientos jurídicos, las entidades a que se refiere este Título, manejarán y erogarán sus recursos propios por medio de sus órganos.
+
+Por lo que se refiere a la percepción de subsidios y transferencias, los recibirán de la Tesorería General del Estado en los términos que se fijen en los presupuestos de egresos anuales del Estado, debiendo manejarlos y administrarlos por sus propios órganos, y sujetarse a los controles e informes respectivos, de conformidad con los ordenamientos aplicables.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 53.
+
+Las relaciones entre el Ejecutivo Estatal y las entidades, para fines de congruencia global de la administración pública paraestatal, con el Sistema Estatal de Planeación Democrática y con los lineamientos generales en materia de gasto, financiamiento, control y evaluación se llevarán a cabo en la forma y términos que dispongan los ordenamientos jurídicos respectivos, por conducto de la Tesorería General del Estado y las Secretarías de Planeación del Desarrollo y de la Contraloría General del Estado, sin perjuicio de las atribuciones que competen a las coordinadoras del sector.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 54.
+
+Las entidades de la administración pública paraestatal, a efecto de que cuenten en su funcionamiento con una administración ágil y eficiente, deberán formular, aprobar y mantener permanentemente actualizados sus reglamentos interiores y los demás instrumentos de apoyo administrativo interno que se señalan en el artículo 14 de esta Ley.
+
+Los señalados reglamentos interiores establecerán las bases de organización de la entidad respectiva; las facultades que correspondan a las distintas áreas que integren su estructura orgánica básica, así como la forma en que los titulares de éstas podrán ser suplidos en sus ausencias.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 55.
+
+En su operación, las entidades de la administración pública paraestatal deberán proporcionar, a las demás entidades del sector donde se encuentren agrupadas, la información y datos que les soliciten, así como los que les requieran las dependencias de la administración pública directa.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 56.
+
+Las entidades a que se refiere esta Ley, deberán inscribirse en el registro de la administración pública paraestatal que llevará la Secretaría de Planeación del Desarrollo.
+
+Los Directores Generales de dichas entidades, o sus equivalentes, que no cumplan con esta obligación, serán responsables en los términos de la Ley.
+
+> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+### CAPITULO IV. DEL CONTROL, VIGILANCIA Y EVALUACION DE LAS ENTIDADES DE LA ADMINISTRACION PUBLICA PARAESTATAL
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 57.
+
+Las actividades de control, vigilancia y evaluación en los organismos descentralizados, estarán a cargo de comisarios públicos designados por la Secretaría de la Contraloría General del Estado y de órganos de control interno que serán parte integrante de la estructura orgánica de dichas entidades.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 58.
+
+Los comisarios públicos, que serán propietarios y suplentes, evaluarán el desempeño general y por funciones de los organismos descentralizados; realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Secretaría de la Contraloría General del Estado les asigne específicamente conforme a las leyes.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 59.
+
+Las acciones de los órganos de control interno tendrán por objeto apoyar la función directiva y promover el mejoramiento de gestión de los organismos descentralizados. Dichos órganos desarrollarán sus funciones conforme a los lineamientos que emita la Secretaría de la Contraloría General del Estado.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 60.
+
+Las empresas de participación estatal mayoritaria, en los términos de este Capítulo y sin perjuicio de lo establecido en sus estatutos y en la legislación civil o mercantil aplicable, para su control, vigilancia y evaluación incorporarán, a su estructura, órganos de control interno y contarán con los comisarios Públicos que designe la Secretaría de la Contraloría General del Estado.
+
+Los fideicomisos públicos se ajustarán, en lo que les sea compatible, a las disposiciones anteriores.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
+
+> <small>(REFORMADA SU DENOMINACION, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 61.
+
+La Secretaría de la Contraloría General del Estado podrá realizar visitas y auditorías a las entidades de la administración pública paraestatal, a fin de supervisar el adecuado funcionamiento del sistema de control de éstas y, en su caso, promoverá lo necesario para corregir las deficiencias u omisiones en que se hubiere incurrido.
+
+Los titulares de las dependencias coordinadoras de sector, podrán recomendar la instrumentación de las medidas adicionales que estimen pertinentes sobre las acciones que en materia de control realicen las entidades paraestatales.
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 62.
+
+En aquellas empresas en las que participe la administración pública estatal con la suscripción del 25% al 50% del capital, se vigilarán las inversiones del Estado a través del comisario que designe la Secretaría de la Contraloría General del Estado. El ejercicio de los derechos respectivos se realizará conforme lo señalen los ordenamientos jurídicos correspondientes.
+
+### CAPITULO I. DE LAS JUNTAS LOCALES DE CONCILIACION Y ARBITRAJE
+
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 63.
+
+Las Juntas Locales de Conciliación y Arbitraje, son Tribunales Administrativos con autonomía jurisdiccional, y se regularán, en su estructura y funcionamiento, conforme a lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política Local, la Ley Federal del Trabajo y los reglamentos de ésta.
 
 ### CAPITULO II. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE SONORA
 
-## TITULO CUARTO. DE LOS TRIBUNALES ADMINISTRATIVOS
+> <small>(ADICIONADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
+
+###### ARTICULO 64.
+
+El Tribunal de lo Contencioso Administrativo del Estado de Sonora, es un Tribunal Administrativo dotado de plena autonomía, con la organización y atribuciones que establecen su Ley Orgánica y las demás disposiciones aplicables.
 
 ## TRANSITORIOS
 
@@ -828,3 +1016,25 @@ MANLIO FABIO BELTRONES R.
 B.O. 19 DE JUNIO DE 1986.
 
 UNICO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 26 DE DICIEMBRE DE 1986.
+
+###### ARTICULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan a lo establecido en la presente ley y se abrogan las Leyes número 2 y 16, publicadas en el Boletín Oficial del Gobierno del Estado, de fechas 13 de diciembre de 1967 y 3 de abril de 1968, respectivamente, así como la Ley número 19, publicada en el Boletín Oficial del Gobierno del Estado, de fecha 14 de marzo de 1980 y sus reformas.
+
+###### ARTICULO TERCERO.
+
+En tanto se emitan las disposiciones correspondientes para que los órganos de gobierno y de vigilancia de los organismos descentralizados se ajustan a lo previsto en esta Ley, seguirán funcionando los órganos existentes de acuerdo con sus leyes o decretos de creación.
+
+###### ARTICULO CUARTO.
+
+El Gobernador del Estado, a partir de la entrada en vigor de esta Ley, promoverá por conducto de las coordinadoras de sector la modificación o reforma de los estatutos o escrituras constitutivas de las empresas de participación estatal mayoritaria, para ajustarlos en lo que proceda a los términos de este ordenamiento.
+
+###### ARTICULO QUINTO.
+
+Por lo que concierne a los fideicomisos a que alude el artículo 42 de esta Ley, se dictarán las disposiciones relativas para que en su caso, los comités técnicos se ajusten a la integración y funcionamiento que en esta Ley se señala respecto a los órganos de gobierno y se designarán, en los casos en que proceda, a sus Comisarios Públicos, por la Secretaria de la Contraloría General del Estado.
