@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "1993-06-11"
+last_updated: "1996-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO CIVIL PARA EL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 11 DE JUNIO DE 1993.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE FEBRERO DE 1996.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -169,7 +169,7 @@ Un cambio posterior en las situaciones relevantes en forma constitutiva para la 
 
 Art. 21 Bis V.- Las cuestiones previas, preliminares, o incidentales que se presenten en una cuestión principal, no se resolverán necesariamente conforme a la ley que regule esta última.
 
-En cada caso se observará el principio de la relación mas estrecha a que se refiere el artículo 21 Bis II y la existencia de normas conflictuales que tengan relación con tales cuestiones en forma independiente, de las que se apliquen a la cuestión principal.
+En cada caso se observará el principio de la relación más estrecha a que se refiere el artículo 21 Bis II y la existencia de normas conflictuales que tengan relación con tales cuestiones en forma independiente, de las que se apliquen a la cuestión principal.
 
 > <small>(REFORMADO, P.O. 11 DE JUNIO DE 1993)</small>
 
@@ -225,75 +225,9 @@ El mayor de edad tiene la facultad de disponer libremente de su persona y de sus
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
-#### Sección I
+#### SECCION PRIMERA. DE LA ADOPCION EN GENERAL
 
-De las Obligaciones de Dar.
-
-ART. 1032.- La prestación de dar puede consistir:
-
-I.- En la traslación de dominio de bien cierto;
-
-II.- En la enajenación temporal del uso o goce de bien cierto;
-
-III.- En la restitución de un bien ajeno; o
-
-IV.- En el pago de bien debido.
-
-ART. 1033.- El acreedor de bien cierto no puede ser obligado a recibir otro aun cuando sea de mayor valor.
-
-ART. 1034.- La obligación de dar bien cierto comprende también la de entregar sus accesorios, salvo que lo contrario resulte del título de la obligación o de las circunstancias del caso.
-
-ART. 1035.- Salvo convenio en contrario, en las enajenaciones de bienes ciertos y determinados la traslación de la propiedad se verifica entre los contratantes, por mero efecto del contrato, sin dependencia de tradición, ya natural, ya jurídica, ya virtual o ya simbólica; debiendo en su caso, tenerse en cuenta las disposiciones relativas del Registro Público.
-
-ART. 1036.- En las enajenaciones de alguna especie indeterminada, la propiedad no se transferirá sino hasta el momento en que el bien se hace cierto y determinado con conocimiento del acreedor, bajo el concepto de que si no se designa la calidad del bien, el deudor cumple entregando uno de mediana calidad.
-
-ART. 1037.- En los casos en que la obligación de dar bien cierto importe la traslación de la propiedad de ese bien, y se pierde o se deteriore en poder del deudor, se observarán las reglas siguientes:
-
-I.- Si la pérdida fue por culpa del deudor, éste responderá al acreedor por el valor del bien y por los daños y perjuicios;
-
-II.- Si el bien se deteriorare por culpa del deudor, el acreedor puede optar por la rescisión del contrato y el pago de daños y perjuicios o por recibir el bien en el estado en que se encontrare y exigir la reducción del precio y el pago de daños y perjuicios;
-
-III.- Si el bien se perdiere por culpa del acreedor, el deudor quedará libre de la obligación;
-
-IV.- Si se deteriorare por culpa del acreedor, éste tendrá la obligación de recibir el bien en el estado en que se halle;
-
-V.- Si el bien se pierde por caso fortuito o fuerza mayor, el dueño sufrirá la pérdida, a menos que exista estipulación en contrario, tratándose de enajenaciones puras y simples. Si fueren con reserva de dominio o bajo condición suspensiva, el adquirente sufrirá el riesgo si se encuentra en posesión del bien; y
-
-VI.- En lo general y salvo prueba en contrario, se presume que el bien se pierde por culpa de quien lo posea de hecho.
-
-ART. 1038.- En los contratos en que la prestación del bien no importe la traslación de la propiedad, el riesgo será siempre de cuenta del propietario, a menos que intervenga culpa o negligencia de la otra parte.
-
-ART. 1039.- Hay culpa cuando el obligado ejecuta actos contrarios a la conservación del bien, y negligencia cuando deje de ejecutar los actos que son necesarios para dicha conservación.
-
-ART. 1040.- Si fueren varios los obligados a prestar el mismo bien, cada uno de ellos incurrirá en responsabilidad, proporcionalmente a sus porciones, salvo en los siguientes casos:
-
-I.- Cuando cada uno de ellos se hubiere obligado solidariamente;
-
-II.- Cuando la prestación consistiere en bien cierto y determinado que se encuentre en poder de uno de ellos, o cuando dependa de hecho que sólo uno de los obligados pueda prestar;
-
-III.- Cuando la obligación sea indivisible; y
-
-IV.- Cuando se haya convenido algo distinto.
-
-ART. 1041.- Cuando el deber de restituir un bien cierto y determinado procediere de delito o falta, no se eximirá el deudor del pago de su precio cualquiera que hubiere sido el motivo de la pérdida, a no ser que, habiendo ofrecido el bien al que debió recibirla, se haya éste constituido en mora de recibir.
-
-ART. 1042.- La pérdida del bien puede verificarse:
-
-I.- Pereciendo o quedando fuera del comercio;
-
-II.- Desapareciendo de modo que no se tengan noticias de él o que aunque se tenga alguna, el bien no se pueda recobrar.
-
-ART. 1043.- Cuando la obligación de dar tenga por objeto un bien designado sólo por su género y cantidad, luego que el bien se individualice por la elección del deudor o del acreedor, se aplicarán en caso de pérdida o deterioro, las reglas establecidas al respecto en el artículo 1037.
-
-ART. 1044.- En los casos de enajenación con reserva de la posesión, el uso o el goce del bien hasta cierto tiempo, se observarán las reglas siguientes:
-
-I.- Si hay convenio expreso, se estará a lo estipulado;
-
-II.- Si la pérdida fuere por culpa de alguno de los contratantes, el importe será de la responsabilidad de éste;
-
-III.- A falta de convenio o de culpa, cada interesado sufrirá la pérdida que le corresponda, en todo, si el bien perece totalmente o en parte si la pérdida fuere solamente parcial;
-
-IV.- En el caso de la fracción que preceda, si la pérdida fuere parcial y las partes no se convinieren en la disminución de sus respectivos derechos, se nombrarán peritos que la determinen.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 25.
 
@@ -311,15 +245,9 @@ V.- Las sociedades cooperativas y mutualistas;
 
 VI.- Las asociaciones distintas de las enumeradas que se propongan fines políticos, científicos, artísticos, de recreo o cualquiera otro fin lícito, siempre que no fueren desconocidas por la ley.
 
-#### Sección II. De las obligaciones de hacer y de no hacer
+#### SECCION SEGUNDA. DE LA ADOPCION SEMIPLENA
 
-ART. 1045.- Si el obligado a prestar un hecho no lo hiciere, el acreedor tiene derecho a pedir que a costa de aquél se ejecute por otro, cuando la substitución sea posible.
-
-Esto mismo se observará si no lo hiciere de la manera convenida. En este caso el acreedor podrá pedir que se deshaga lo mal hecho.
-
-ART. 1046.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de contravención. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
-
-ART. 1047.- Si de dos obligaciones recíprocas nacidas de un mismo negocio jurídico, la de hacer o de no hacer se extingue porque una causa fortuita o de fuerza mayor hace imposible su ejecución, la obligación de la otra parte queda también extinguida, salvo convenio en contrario.
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 26.
 
@@ -333,31 +261,9 @@ Las personas morales pueden ejercitar todos los derechos que sean necesarios par
 
 Las personas morales obran y se obligan por medio de los órganos que las representan sea por disposición de la ley o conforme a las disposiciones relativas de sus escrituras constitutivas y de sus estatutos.
 
-#### Sección I
+#### SECCION TERCERA. DE LA ADOPCION PLENA
 
-Del Plazo.
-
-> <small>(F. DE E., P.O. 18 DE MAYO DE 1988)</small>
-
-ART. 1048.- Obligación a plazo es aquella cuya exigibilidad o extinción depende de un acontecimiento futuro de realización segura.
-
-ART. 1049.- El plazo en las obligaciones se contará de la manera prevista en el artículo 17.
-
-ART. 1050.- Lo que se hubiere pagado anticipadamente no puede repetirse.
-
-Si el que paga ignoraba, cuando lo hizo, la existencia del plazo, tendrá derecho a reclamar del acreedor los intereses o los frutos que éste hubiere percibido del bien.
-
-ART. 1051.- El plazo se presume establecido en favor del deudor, a menos que resulte, de la estipulación o de las circunstancias, que ha sido establecido en favor del acreedor o de las dos partes.
-
-ART. 1052.- Perderá el deudor todo derecho a utilizar el plazo:
-
-I.- Cuando después de contraída la obligación resultare en estado de insolvencia o estuviere en peligro de quedar insolvente, salvo que garantice la deuda;
-
-II.- Cuando no otorgue al acreedor las garantías a que estuviese comprometido;
-
-III.- Cuando por actos propios hubiese disminuido las garantías después de establecidas, y cuando por fuerza mayor o caso fortuito desaparecieren, a menos que sean inmediatamente substituidas por otras igualmente seguras.
-
-ART. 1053.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos que en él se designan.
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 28.
 
@@ -775,11 +681,13 @@ Los hechos y actos del estado civil del propio Oficial, de su cónyuge, ascendie
 
 Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia del mismo al lugar donde se encuentre aquél. Esta presentación no tendrá lugar cuando exista el certificado de nacido vivo a que se refiere el artículo siguiente, cuyo documento será suficiente para el registro.
 
-(REFORMADO, P.O. 1 DE ENERO DE 1982) (F. DE E., P.O. 18 DE ENERO DE 1982)
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 58.
 
-Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los 60 días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos, por la línea paterna en primer término y después los de la materna. Los médicos, cirujanos o matronas que hubieren asistido el parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes, mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+Tienen obligación de declarar el nacimiento, el padre y la madre o cualquiera de ellos dentro de los sesenta días de ocurrido. A falta de los padres, están obligados a hacerlo los abuelos, por la línea materna en primer término y después los de la paterna. Los médicos, cirujanos o matronas que hubieren asistido al parto, tienen obligación de asentar en el certificado de nacido vivo las huellas digitales de esté y de la madre y deberán dar aviso del nacimiento al Oficial del Registro Civil dentro de los tres días siguientes mediante la entrega del certificado de nacido vivo o certificado de defunción fetal o del producto, de acuerdo con las formas expedidas por la Dirección del Registro Civil. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 1982)</small>
 
 Recibido el aviso, el Oficial del Registro Civil, en observancia a lo dispuesto por el artículo 337, levantará el acta de nacimiento conforme a las disposiciones relativas, o expedirá la orden de inhumación.
 
@@ -985,11 +893,13 @@ En el Acta de Adopción se insertará la parte resolutiva de la sentencia que ha
 
 La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena señalada en el Artículo 84.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 89.
 
-Extendida el Acta de Adopción se anotará la de Nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del Acta de Adopción. Al expedirse copia certificada del Acta de Nacimiento, los datos de ésta se suplirán por los datos de la anotación si así lo solicitaren.
+Extendida el acta de adopción semiplena, se anotará la de nacimiento del adoptado y se archivará la copia de las diligencias relativas, poniéndole el mismo número del acta de adopción. Al expedirse copia certificada del acta de nacimiento, los datos de ésta se suplirán por los datos de la anotación, salvo petición expresa del interesado de que se anoten los datos originales.
+
+En caso de adopción plena, a partir del levantamiento del acta de adopción no se publicará ni se expedirá alguna que revele el origen del adoptado ni su condición de tal, haciéndose las anotaciones en el acta de nacimiento, cuyo original quedará reservado para los efectos del artículo 410-Bis-II.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE ENERO DE 1982)</small>
 
@@ -1491,9 +1401,13 @@ X.- El matrimonio subsistente con persona distinta de aquélla con quien se pret
 
 De estos impedimentos solo son dispensables la falta de edad y el parentesco de consanguinidad en línea colateral desigual.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 157.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción.
+El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, en tanto que dure el lazo jurídico resultante de la adopción, cuando sea semiplena.
+
+En la adopción plena se deberá de estar a los impedimentos previstos en el artículo anterior.
 
 ###### Art. 158.
 
@@ -2217,7 +2131,7 @@ Ejecutoriada una sentencia de divorcio, el juez de Primera Instancia remitirá c
 
 ### CAPITULO V. DE LA ADOPCION
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ## TITULO SEXTO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
@@ -2235,9 +2149,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 El parentesco de afinidad es el que se contrae por el matrimonio, entre el varón y los parientes de la mujer, y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 295.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado.
+El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, salvo conformidad expresa de los padres de los adoptantes para adquirir dicho parentesco.
 
 ###### Art. 296.
 
@@ -2287,9 +2203,13 @@ Faltando los parientes a que se refieren las disposiciones anteriores, tienen ob
 
 Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 307.
 
-El adoptante y el adoptado tienen obligación de darse alimentos, en los casos en que la tienen el padre y los hijos.
+Tratándose de adopción semiplena, el adoptante y el adoptado tienen obligación de darse alimentos en los casos en que la tienen los padres y los hijos.
+
+En la adopción plena, se aplicará lo dispuesto por los artículos 303, 304, 305 y 306.
 
 ###### Art. 308.
 
@@ -2723,6 +2643,8 @@ II.- A ser alimentado por éste;
 
 III.- A percibir la porción hereditaria y los alimentos que fije la ley.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ### CAPITULO VI. DE LA TUTELA DATIVA
 
 #### Sección I. Del pago
@@ -2803,15 +2725,29 @@ ART. 1148.- Las cantidades pagadas a cuenta de deudas con intereses, no se imput
 
 ###### Art. 390.
 
-El mayor de veinticinco años, libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores o a un incapacitado, aún cuando éste sea mayor de edad, siempre que el adoptante tenga quince años más que el adoptado y que acredite además:
+El mayor de veinticinco años, aún libre de matrimonio, en pleno ejercicio de sus derechos, puede adoptar uno o más menores, aún cuando se encuentren incapacitados, siempre que el adoptante tenga quince años o mas que el adoptado y que acredite además:
 
-I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijo propio, según la circunstancias de la persona que trata de adoptar;
+I.- Que tiene medios bastantes para proveer a la subsistencia y educación del menor, como hijo propio, según las circunstancias de la persona que trata de adoptar;
 
-II.- Que la adopción es benéfica para la persona que trata de adoptarse; y
+II.- Que la adopción es benéfica para la persona que trata de adoptarse;
 
-III.- Que el adoptante es persona de buena costumbres.
+III.- Que el adoptante es persona de buenas costumbres;
 
-Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos o más incapacitados. Lo mismo se observará si se pretende la adopción de menores e incapacitados simultáneamente.
+IV.- Que tiene un certificado de salud;
+
+V.- Evaluación psicológica y socioeconómica practicada por Institución Pública competente;
+
+VI.- Su identidad, antecedentes, historia familiar, entorno social y razones para adoptar;
+
+VII.- La identidad, el origen étnico, el entorno social, los antecedentes familiares, religiosos, culturales y la historia médica del menor que se pretende adoptar, siempre que no se trate de un menor expósito; y
+
+VIII.- Opinión del Consejo Estatal de Adopciones, cuando no exista parentesco entre adoptante y adoptado.
+
+Cuando circunstancias especiales lo aconsejen, el Juez puede autorizar la adopción de dos más menores simultáneamente.
+
+En la adopción siempre será prioritario el interés superior del menor y el respeto de sus derechos fundamentales.
+
+Los trámites y gestiones relativos a la adopción deberán realizarse en forma personal por el que pretende adoptar.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
 
@@ -2821,59 +2757,85 @@ El marido y la mujer que no tengan descendientes y que tengan por lo menos dos a
 
 También podrán adoptar, aún cuando tengan descendientes, en ciertos casos en que el Juez lo estime benéfico y circunstancias especiales lo aconsejen, oyéndose al Ministerio Público sobre el particular.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 392.
 
-Nadie puede ser adoptado por mas de una persona, salvo en el caso previsto en el artículo anterior.
+Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior. Cuando la adopción haya quedado sin efectos por alguna causa legal, podrá tramitarse una nueva adopción.
 
 ###### Art. 393.
 
 El tutor no puede adoptar al pupilo, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de tutela.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 394.
 
-El menor o el incapacitado que hayan sido adoptados, podrán impugnar la adopción dentro del año siguiente a la mayor edad o a la fecha en que haya desaparecido la incapacidad.
+Para que la adopción pueda tener lugar, deberán consentir en ella, en sus respectivos casos:
 
-> <small>(REFORMADO, P.O 26 DE DICIEMBRE DE 1984)</small>
-
-###### Art. 395.
-
-El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres hacia la persona y bienes de los hijos.
-
-El o los adoptados podrán llevar los apellidos del o de los adoptantes, quienes tendrán derecho a cambiar el nombre del adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
-
-###### Art. 396.
-
-El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
-
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
-
-###### Art. 397.
-
-Para que la adopción pueda tener lugar deberá consentir en ella, en sus respectivos casos:
-
-I.- El que ejerce la patria potestad sobre el menor que se trata de adoptar;
+I.- El que ejerce la patria potestad sobre el menor que se va a adoptar;
 
 II.- El tutor del que se va a adoptar;
 
-III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos o teniéndolos se desconozca su paradero.
+III.- El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, o teniéndolos se desconozca su paradero;
 
-Si el menor tiene más de doce años, también se necesita su consentimiento para la adopción.
+IV.- Si el menor que se va a adoptar ha cumplido doce años, también se requerirá su consentimiento. Si es menor de esa edad, deberán ser tomados en cuenta sus deseos y opiniones según su madurez.
+
+El consentimiento para la adopción puede ser expresado ante el Titular de la Procuraduría de la Defensa del Menor y la Familia del Estado, por las madres y padres biológicos, o quienes ejerzan la patria potestad sobre el presunto adoptado, debidamente identificados, quienes además presentarán el certificado de nacido vivo o certificación del acta de nacimiento del menor.
+
+El titular de la dependencia citada en el párrafo anterior, deberá instruir suficientemente a quienes otorguen el consentimiento ante él, así como informarle sobre los efectos de la adoción (sic) y constatar que el consentimiento es dado libremente, sin remuneración alguna y después del nacimiento del menor, y que éste no se ha revocado. Respecto del menor, éste será instruido e informado sobre los efectos de la adopción, y se tomarán en cuenta sus deseos y opiniones de acuerdo con la edad y el grado de madurez que tenga.
+
+Igual obligación tendrá el Juez que conozca de la adopción, respecto del consentimiento que sea manifestado ante él.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Art. 395.
+
+Para los efectos del artículo anterior, si el Tutor o el Ministerio Público sin causa justificada, no consienten en la adopción, el Juez resolverá lo conducente tomando en cuenta el interés superior del menor.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Art. 396.
+
+El procedimiento para hacer la adopción se regulará por lo establecido en el Código de Procedimientos Civiles.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+###### Art. 397.
+
+Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, ésta quedará consumada para todos los efectos legales.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 398.
 
-Si el tutor o el Ministerio Público, sin causa justificada, no consienten en la adopción, podrá suplir el consentimiento el Presidente Municipal del lugar en que resida el incapacitado, cuando encontrare que la adopción es notoriamente conveniente para los intereses morales y materiales de éste.
+El juez que apruebe la adopción remitirá copias de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente. Asimismo, deberá turnar copia de la sentencia correspondiente, al Consejo Estatal de Adopciones para que realice el seguimiento de la adopción del menor hasta por dos años.
+
+Cuando el juez decrete que no procede autorizar la adopción y el menor se encuentre viviendo con quien pretende adoptarlo, el juez decretará la separación del menor de aquél y ordenará su depósito provisional en la Institución Pública que corresponda.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 399.
 
-El procedimiento para hacer la adopción será fijado en el Código de Procedimientos Civiles.
+El que adopta tendrá respecto de la persona y bienes del adoptado los mismos derechos y obligaciones que tienen los padres hacia la persona y bienes de los hijos. El adoptado tendrá para con la persona o personas que lo adopten los mismos derechos y obligaciones que tiene un hijo.
+
+El o los adoptantes adquirirán la patria potestad sobre el menor. En caso de que el padre adoptivo esté casado con alguno de los progenitores del adoptado, dicha patria potestad se ejercerá conjuntamente por ambos cónyuges.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 400.
 
-Tan luego como cause ejecutoria la resolución judicial que se dicte autorizando una adopción, quedará ésta consumada.
+La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 401.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente.
+El que haya sido adoptado podrá impugnar la adopción dentro del año siguiente al que cumpla su mayoría de edad o, en su caso, siendo mayor de edad, dentro del año siguiente al en que tenga conocimiento del hecho, cuando haya violación a lo dispuesto por los artículos 390 al 394.
+
+El Ministerio Público también podrá impugnar la adopción por las mismas causas, cuando se afecte al menor.
+
+> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 1996)</small>
 
 #### Sección II
 
@@ -2895,25 +2857,35 @@ ART. 1155.- Mientras el acreedor no acepte la consignación, o no se pronuncie s
 
 ###### Art. 402.
 
-Los derechos y obligaciones que nacen de la adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157.
+En la adopción semiplena no se extinguen los derechos y obligaciones que resulten del parentesco natural, los cuales permanecerán suspendidos respecto de los progenitores, transfiriéndose el ejercicio de la patria potestad a los adoptantes.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 1983)</small>
+Los derechos suspendidos conforme a lo anterior, se recobran una vez decretada la revocación de la adopción.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 403.
 
-La adopción, no extingue los derechos y obligaciones que resulten del parentesco natural, salvo la patria potestad que se transferirá al padre adoptivo. En caso, que el padre adoptivo esté casado con alguno de los progenitores del adoptado, dicha patria potestad se ejercerá por ambos cónyuges.
+Los derechos y obligaciones que nacen de esta forma de adopción, así como el parentesco que de ella resulte, se limitan al adoptante y al adoptado, excepto en lo relativo a los impedimentos de matrimonio, respecto de los cuales se observará lo que dispone el artículo 157, y salvo lo previsto en el artículo 295.
+
+El o los adoptados llevarán los apellidos del o los adoptantes, quienes tendrán derecho a cambiar el nombre del adoptado, haciéndose las anotaciones correspondientes en el acta de adopción.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 404.
 
-La adopción producirá sus efectos aunque sobrevengan hijos al adoptante.
+La adopción semiplena podrá convertirse en plena siempre que se cumplan los requisitos aplicables a ésta última, debiendo obtenerse el parecer del adoptado si éste ha cumplido doce años. Si fuere menor de esa edad y en todo caso, se recabará la opinión del Ministerio Público y del Consejo Estatal de Adopciones.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 405.
 
-La adopción puede revocarse:
+La adopción semiplena puede revocarse por las siguientes causas:
 
-I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento, conforme al artículo 397;
+I.- Cuando las dos partes convengan en ello, siempre que el adoptado sea mayor de edad. Si no lo fuere, es necesario que consientan en la revocación las personas que prestaron su consentimiento conforme al artículo 394;
 
-II.- Por ingratitud del adoptado;
+II.- Por ingratitud del adoptado; y
+
+III.- Cuando el Consejo Estatal de Adopciones determine alguna causa grave y justificada que ponga en peligro los derechos fundamentales del adoptado, a juicio del juez.
 
 ###### Art. 406.
 
@@ -2941,11 +2913,37 @@ En el segundo caso del artículo 405, la adopción deja de producir efectos desd
 
 Las resoluciones que dicten los jueces, aprobando la revocación, se comunicarán al Oficial del Registro Civil del lugar en que aquélla se hizo para que cancele el acta de adopción.
 
+> <small>(ADICIONADA CON LOS ARTICULOS QUE LA INTEGRAN, P.O. 9 DE FEBRERO DE 1996)</small>
+
 #### Sección III. De la dación en pago
 
 ART. 1156.- La obligación queda extinguida cuando el acreedor recibe en pago un bien distinto en lugar del debido.
 
 ART. 1157.- Si el acreedor sufre la evicción del bien que recibe en pago, renacerá la obligación primitiva, quedando sin efecto la dación en pago.
+
+###### Art. 410 Bis.
+
+Los menores podrán ser adoptados mediante el sistema de adopción plena, aplicándose al efecto las disposiciones de este capítulo.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+Art. 410 Bis I.- El adoptado por adopción plena adquirirá la misma condición de un hijo consanguíneo, es decir, la filiación completa, respecto al adoptante o adoptantes y a la familia de éstos, substituyendo los vínculos que tuvo con su familia de origen, salvo para el efecto de contraer matrimonio. El adoptado adquiere en la familia del o los adoptantes, los mismos derechos y obligaciones del hijo consanguíneo y debe llevar los apellidos del adoptante o adoptantes.
+
+En la adopción plena se requerirá que los ascendientes del o los adoptantes otorguen ante el juez su consentimiento.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+Art. 410 Bis II.- Tratándose de la adopción plena, el Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, excepto en los siguientes casos y siempre por autorización judicial:
+
+I.- Para efectos del impedimento para contraer matrimonio;
+
+II.- Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con la mayoría de edad; si fuere menor de edad, se requerirá el consentimiento del o los adoptantes; y
+
+III.- En los demás casos previstos por las leyes.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
+Art. 410 Bis III.- La adopción plena es irrevocable y sólo es impugnable por el adoptado o por el Ministerio Público en el supuesto previsto en el artículo 401.
 
 #### Sección I. Consecuencias del incumplimiento de las obligaciones
 
@@ -3053,9 +3051,11 @@ Cuando los padres del hijo nacido fuera de matrimonio que vivían juntos se sepa
 
 A falta de padres, ejercerán la patria potestad sobre el hijo reconocido, los demás ascendientes a que se refieren las fracciones II y III del artículo 414.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 419.
 
-La patria potestad sobre el hijo adoptivo, la ejercerán únicamente las personas que lo adopten.
+La patria potestad sobre el hijo adoptivo la ejercerán en la adopción semiplena únicamente los adoptantes, salvo lo previsto en el artículo 295. En la adopción plena, se estará a lo dispuesto por el artículo 414.
 
 ###### Art. 420.
 
@@ -3149,17 +3149,19 @@ Siempre que el juez conceda licencia a los que ejercen la patria potestad, para 
 
 Al efecto, el precio de la venta se depositará en una institución de crédito, y la persona que ejerce la patria potestad no podrá disponer de él, sin orden judicial.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 438.
 
-El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
+El Derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue por:
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 1970)</small>
+I.- La emancipación derivada del matrimonio o por la mayor edad de los hijos;
 
-I.- Por la emancipación derivada del matrimonio o por la mayor edad de los hijos;
+II.- La pérdida de la patria potestad;
 
-II.- Por la pérdida de la patria potestad;
+III.- La revocación o impugnación de la adopción; y
 
-III.- Por renuncia.
+IV.- Renuncia.
 
 ###### Art. 439.
 
@@ -8431,13 +8433,17 @@ Si solo quedaren descendientes de ulterior grado, la herencia se dividirá por e
 
 Concurriendo hijos con ascendientes, éstos solo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 1509.
 
-El adoptado hereda como hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+El adoptado hereda como hijo. En la adopción semiplena no hay derecho de sucesión entre el adoptado y los parientes del adoptante, salvo lo dispuesto por el artículo 295.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 1510.
 
-Concurriendo padres adoptantes y descendientes del adoptado, los primeros solo tendrán derecho a alimentos.
+Concurriendo padres adoptantes y descendientes del adoptado en la adopción semiplena, los primeros sólo tendrán derecho a alimentos.
 
 ###### Art. 1511.
 
@@ -8465,13 +8471,19 @@ Si hubiere ascendientes por ambas líneas, se dividirá la herencia en dos parte
 
 Los miembros de cada línea dividirán entre sí por partes iguales la porción que les corresponda.
 
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
+
 ###### Art. 1517.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de este se dividirá por partes iguales entre los adoptantes y los ascendientes.
+Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes, si la adopción fue semiplena.
+
+En los casos de adopción plena, los parientes de la familia de origen del adoptado no tendrán derecho a herencia.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 1996)</small>
 
 ###### Art. 1518.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieren la adopción.
+Si concurre el cónyuge del adoptado en adopción semiplena con los padres adoptivos, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los segundos.
 
 ###### Art. 1519.
 
@@ -14431,7 +14443,7 @@ Cuando la fianza sea para garantizar el cumplimiento de una obligación cuya cua
 
 La fianza puede substituirse con prenda o hipoteca.
 
-Cuando la fianza consiste en póliza sólo se aceptará cuando se expidan por Compañía Afianzadora legalmente autorizada y con domicilio en el Estado, y que haya constituido, a satisfacción del Ejecutivo del Estado, un depósito en efectivo en alguna institución de crédito de las que operan en esta entidad, para garantizar el cumplimiento de sus obligaciones como fiadora las Compañías Afianzadoras estarán sujetas a las Leyes Ecnómico (sic)-Coactivas del Estado.
+Cuando la fianza consiste en póliza sólo se aceptará cuando se expidan por Compañía Afianzadora legalmente autorizada y con domicilio en el Estado, y que haya constituido, a satisfacción del Ejecutivo del Estado, un depósito en efectivo en alguna institución de crédito de las que operan en esta entidad, para garantizar el cumplimiento de sus obligaciones como fiadora, las Compañías Afianzadoras estarán sujetas a las Leyes Ecnómico (sic)-Coactivas del Estado.
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 1991)</small>
 
@@ -15812,6 +15824,16 @@ P.O. 11 DE JUNIO DE 1993.
 DECRETO No. 178
 
 UNICO:- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE FEBRERO DE 1996.
+
+###### ARTICULO PRIMERO
+
+- Las adopciones realizadas con anterioridad, podrán ser plenas mediante sentencia judicial que se apoye en un informe rendido por el Consejo Estatal de Adopciones y cumpliéndose con el procedimiento señalado en el artículo 937 del Código de Procedimientos Civiles.
+
+###### ARTICULO SEGUNDO
+
+- El presente Decreto entrará en vigor a los treinta días naturales siguientes a su publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTICULO TERCERO.
 
