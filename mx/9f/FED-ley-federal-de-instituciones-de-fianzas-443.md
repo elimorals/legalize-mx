@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-instituciones-de-fianzas-443"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1950-12-29"
-last_updated: "1950-12-29"
+last_updated: "1953-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=443&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1950-12-26"
 
 LEY FEDERAL DE INSTITUCIONES DE FIANZAS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 1953.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 29 de diciembre de 1950.
 
@@ -103,13 +103,15 @@ Satisfechos estos requisitos, la misma Secretaría otorgará permiso para que la
 
 La infracción de cualquiera de las disposiciones de este precepto, imputable a la institución de fianzas, será causa de revocación de la autorización para operar.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 14.
 
-Las responsabilidades que mediante el otorgamiento de fianzas asuma una institución, no deberán exceder, en conjunto, de cincuenta veces el capital más el importe de las inversiones de las reservas de previsión y de contigencia.
+Las responsabilidades que asuma una Institución mediante el otorgamiento de fianzas, no deberán exceder en conjunto, de cincuenta veces el capital más el importe de las inversiones de las reservas de previsión y contingencia.
 
-Cuando las responsabilidades de una institución lleguen a dicho límite, sólo podrá otorgar nuevas fianzas en la medida en que cancele las anteriores o en la proporción en que aumente su capital o las inversiones de las citadas reservas.
+Cuando las responsabilidades de una institución lleguen a dicho límite, sólo podrá otorgar nuevas fianzas en los términos y condiciones que la Secretaría de Hacienda y Crédito Público determine, previo estudio de su situación económica y de la regularidad de sus operaciones.
 
-Para los efectos de este artículo se deducirá del volumen total de responsabilidades por fianzas en vigor, el importe de las cedidas en reafianzamiento o reaseguro a instituciones mexicanas y a empresas extranjeras.
+Para los efectos de este artículo, se deducirá del volumen total de responsabilidades por fianzas en vigor, el importe de la cedidas en reafianzamiento o reaseguro a instituciones mexicanas y a empresas extranjeras.
 
 ## TITULO II. Régimen económico
 
@@ -325,6 +327,10 @@ XIV.- Bienes diversos de los indicados en las fracciones anteriores que la insti
 
 Las instituciones de fianzas deberán invertir en los valores señalados en las fracciones III y V del artículo anterior, el treinta por ciento como mínimo, de su capital y reservas de fianzas en vigor y de previsión.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+Para los efectos de la inversión obligatoria en los valores a que se refiere este artículo, sólo se computarán aquellos que se emitan con un interés no superior al 6% anual.
+
 ###### ARTICULO 42.
 
 La inversión en acciones de las señaladas en las fracciones VI y VII del artículo 40, estará limitada al veinte por ciento del total del activo computable de la institución, siempre que no exceda del veinte por ciento del capital social pagado en la emisora. La inversión realizada en valores de los señalados en la fracción VI emitidos o garantizados por una misma persona, no excederá del diez por ciento del total del activo computable de la institución de fianzas.
@@ -483,6 +489,8 @@ Las reservas de fianzas en vigor y de previsión, sólo podrán invertirse en lo
 
 El dinero en efectivo y los valores que sean inversión de las reservas de fianzas en vigor y de previsión, se depositarán en la institución nacional de crédito que señale la Secretaría de Hacienda y Crédito Público.
 
+(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1953)(F. DE E., D.O.F. 19 DE MARZO DE 1954)
+
 ###### ARTICULO 64.
 
 De las inversiones de las reservas de fianzas en vigor y de previsión sólo podrá disponerse previa autorización u orden de la Secretaría de Hacienda y Crédito Público, en los siguientes casos:
@@ -494,6 +502,10 @@ II.- Cuando existan sobrantes de inversión en relación a las reservas.
 III.- En los casos de liquidación judicial o administrativa.
 
 IV.- En los casos en los que dicha Secretaría deba cumplir mandamientos de ejecución en contra de la institución; a menos que la mencionada Secretaría decida legalmente revocar a la institución su autorización para operar.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+V.- En el caso que establece el artículo 95 en su regla IV.
 
 ###### ARTICULO 65.
 
@@ -715,9 +727,61 @@ b).- Tratándose de mandamientos de embargo dictados por la autoridad judicial o
 
 VI.- El Código Federal de Procedimientos Civiles es supletorio de las reglas procesales contenidas en este artículo.
 
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+VII.- Los particulares podrán elegir libremente jueces federales o locales para el trámite de su reclamación.
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+VIII.- Las disposiciones de este artículo y del anterior, sólo serán aplicables a las fianzas otorgadas a favor de particulares.
+
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
 ###### ARTICULO 95.
 
-Los juicios que siga la Federación, el Gobierno del Distrito Federal y los de los Territorios Federales contra instituciones de fianzas por obligaciones derivadas de fianzas otorgadas, se substanciarán ante los jueces de distrito del Distrito Federal; los que sigan los Gobiernos de los Estados y Municipios contra las mismas instituciones y por obligaciones derivadas también de fianzas otorgadas, se substanciarán ante el juez de distrito del domicilio de la entidad o autoridad beneficiaria, sujetándose en ambos casos a las reglas establecidas en el artículo anterior. Los particulares podrán elegir, a su conveniencia jueces federales o locales para el trámite de su reclamación.
+Las fianzas que las instituciones otorguen a favor de la Federación, del Distrito y Territorios Federales, de los Estados y de los Municipios, se harán efectivas conforme a las siguientes reglas:
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+
+I.- Al hacerse exigible una fianza a favor de la Federación, la autoridad que la hubiere aceptado, deberá comunicarlo a la dependencia especializada de la Tesorería de la Federación, acompañando la documentación relativa a la fianza y a la obligación por ella garantizada.
+
+Las instituciones de fianzas estarán obligadas a enviar a la Tesorería de la Federación, una copia de todas las pólizas de las fianzas que expidan a favor de la Federación. El incumplimiento de esta obligación se sancionará en los términos del artículo 110 de esta ley.
+
+La Tesorería de la Federación procederá a requerir de pago, en forma personal, a la institución deudora en zona matriz o en sus sucursales cuando en dicha matriz se encuentre fuera del Distrito Federal, debiendo hacerse el requerimiento de manera motivada y fundada y acompañado de los documentos que justifiquen la exigibilidad del crédito.
+
+Tratándose del Distrito y Territorios Federales, de los Estados y de los Municipios, el requerimiento de pago, que se hará en los términos anteriores, lo llevarán a cabo las Tesorerías locales correspondientes, y podrá hacerse mediante oficio con acuse de recibo.
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+
+En consecuencia, no surtirán efecto los requerimientos que se hagan a los agentes de las instituciones, y los hechos por autoridades distintas de las tesorerías competentes de acuerdo con las disposiciones de este artículo.
+
+II.- En el mismo requerimiento de pago, se apercibirá a la institución de fianzas deudora, de que si dentro del plazo de 90 días naturales, contado a partir de la fecha en que dicho requerimiento se realice, no hace el pago de las cantidades que se le reclaman, se le rematarán valores en los términos de este artículo.
+
+III.- La Tesorería de la Federación o las Tesorerías del Distrito y de los Territorios Federales o de los Estados y Municipios, deberán remitir a la Dirección de Crédito de la Secretaría de Hacienda y Crédito Público, copia autógrafa del requerimiento, en la que conste la fecha en que fué recibido por la institución fiadora.
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+
+IV.- Dentro del plazo de 90 días naturales, señalado en el requerimiento, la institución de fianzas deudora deberá comprobar, ante la Dirección de Crédito, que hizo el pago o que cumplió con el requisito de la Regla V. En caso contrario, al día siguiente de vencido dicho plazo, la misma Dirección de Crédito ordenará a la institución nacional de crédito que corresponda, se rematen en Bolsa, valores propiedad de la Institución de fianzas, bastantes a cubrir el importe de lo reclamado.
+
+V.- El procedimiento de ejecución de que habla este artículo, se suspenderá cuando se compruebe que se ha presentado la demanda de que habla el artículo siguiente, exhibiéndose al efecto, copia sellada de la misma.
+
+VI.- El procedimiento de ejecución, solamente terminará por una de las siguientes causas:
+
+a).- Por pago voluntario.
+
+b).- Por haberse hecho efectivo el cobro en ejecución forzosa.
+
+c).- Por sentencia firme del Tribunal Fiscal de la Federación, que declare la improcedencia del cobro.
+
+d).- Porque la autoridad que hubiere hecho el requerimiento se desistiere del cobro.
+
+Los oficios de desistimiento de cobro, necesariamente deberán suscribirlos los Tesoreros de las entidades respectivas.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+###### ARTICULO 95 Bis.
+
+En caso de inconformidad contra el requerimiento, las instituciones de fianzas, dentro del término de 90 días naturales, señalado en el artículo anterior, demandarán ante el Tribunal Fiscal de la Federación, la improcedencia del cobro.
 
 ###### ARTICULO 96.
 
@@ -995,6 +1059,16 @@ Deberán informar también sobre la situación del asunto, ya sea judicial, admi
 
 Los poderes que las instituciones de fianzas otorguen, no requerirán otras inserciones que las relativas al acuerdo del consejo que haya autorizado el otorgamiento del poder, a las facultades que en los estatutos se concedan al consejo sobre el particular y a la designación de los consejeros.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 1953)</small>
+
+###### ARTICULO 130.
+
+Las fianzas otorgadas ante autoridades judiciales del orden penal, se harán efectivas conforme a las siguientes reglas:
+
+I.- La autoridad judicial, para el solo efecto de la presentación del fiado, requerirá personalmente a la institución fiadora en su oficina matriz, o mediante oficio con acuse de recibo, cuando la autoridad judicial se encuentre fuera del Distrito Federal.
+
+II.- Si dentro del plazo concedido, no se hiciere la presentación solicitada, la autoridad judicial lo comunicará a la Tesorería Local o Federal, según el caso, para que proceda en los términos del artículo 95 de esta ley. Con dicha comunicación deberá acompañarse constancia fehaciente de la diligencia de requerimiento.
+
 TRANSITORIOS:
 
 ###### ARTICULO I.
@@ -1049,7 +1123,7 @@ Los procedimientos conciliatorios iniciados en la Comisión Consultiva de Fianza
 
 ###### ARTICULO XII.
 
-Los procedimientos contenciosos iniciados ante la Comisión Consultiva de Fianzas continuarán su trámite hasta su conclusión. A dichos procedimientos les serán aplicables las disposiciones de los artículos 96, 97 y 98 de la ley que se abroga y supletoriamente las disposiciones del Código Federal de Procedimientos Civiles.
+(DEROGADO, D.O.F. 30 DE DICIEMBRE DE 1953)
 
 ###### ARTICULO XIII.
 
@@ -1058,6 +1132,32 @@ Los procedimientos incidentales que se hubieren iniciado de conformidad con lo d
 Esteban Uranga, D.P.- Fernando Moctezuma, S.P.- Natalio Vázquez Pallares, D.S.- Eduardo Luque Loyola, S.S.- Rúbricas".
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido la presente Ley en la residencia del Poder Ejecutivo Federal, en la ciudad de México, Distrito Federal, a los veintiséis días del mes de diciembre de 1950.- Miguel Alemán.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Ramón Beteta.- Rúbrica.- El Secretario de Economía, Antonio Martínez Báez.- Rúbrica.- El Jefe del Departamento del Distrito Federal, Fernando Casas Alemán.- Rúbrica.- El Secretario de Gobernación, Adolfo Ruiz Cortines.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+D.O.F. 30 DE DICIEMBRE DE 1953.
+
+###### ARTICULO 1°.
+
+Este decreto entrará en vigor en toda la República, 60 días después del día de su publicación en el "Diario Oficial" de la Federación.
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+
+###### ARTICULO 2°.
+
+Los juicios que conforme al artículo 95 reformado, se hubieren iniciado por la Federación, el Distrito y Territorios Federales, los Estados y Municipios, ante los Juzgados de Distrito, continuarán su trámite hasta su conclusión. La Procuraduría General de la República procederá, inmediatamente después de la publicación de este decreto, a entregar a la Tesorería de la Federación la documentación que corresponda a las fianzas que no se hayan reclamado judicialmente.
+
+Tanto la Tesorería de la Federación, como las Tesorerías del Distrito y Territorios Federales, de los Estados y sus Municipios, procederán a hacer el requerimiento de pago a que se refiere la Regla I del artículo 95 de la ley, por las fianzas que no se hubieren reclamado judicialmente, aún cuando ya se hubieren reclamado en forma extrajudicial.
+
+> <small>(F. DE E., D.O.F. 19 DE MARZO DE 1954)</small>
+
+###### ARTICULO 3°.
+
+Los procedimientos conciliatorios o contenciosos, iniciados ante la Comisión Consultiva de Fianzas y pendientes de resolución, se concluirán por la Dirección de Crédito, de la Secretaría de Hacienda y Crédito Público, para cuyo efecto, dicha Comisión, inmediatamente después de la publicación de este decreto, pondrá a disposición de la misma los expedientes relativos; y, en consecuencia, se deroga el artículo XII Transitorio de la Ley Federal de Instituciones de Fianzas, de 26 de diciembre de 1950.
+
+###### ARTICULO 1°.
+
+Institución de fianzas es una sociedad anónima, autorizada previamente por el Gobierno Federal para otorgar fianzas a título oneroso.
 
 ###### ARTICULO 2°.
 
