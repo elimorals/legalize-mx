@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-instituto-de-capacitacion-y-17869"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-05"
-last_updated: "2000-08-05"
+last_updated: "2001-11-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL EXTRA DEL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de agosto de 2000.
 
@@ -47,9 +47,13 @@ El Instituto tiene como objetivos:
 
 I. Instrumentar los cursos y programas de estudio teórico-prácticos para actualizar permanentemente a los servidores públicos del Poder Judicial del Estado.
 
-II. Preparar a los aspirantes a la carrera judicial, y
+II. Preparar a los aspirantes a la carrera judicial, y (sic)
 
 III. Mantener un sistema de información judicial actualizado tanto estatal como nacional.
+
+> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2001)</small>
+
+IV. Expedir grados académicos y reconocimientos curriculares en los términos que prevén las leyes y ordenamientos educativos aplicables y con estricto apego al artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias, con la finalidad de hacer factible la profesionalización, especialización y actualización de los servidores públicos del Poder Judicial del Estado.
 
 El Instituto procurará, además, la realización de otros objetivos que sean afines a los anteriores.
 
@@ -292,3 +296,13 @@ PRESIDENTE DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE OAXACA.
 LIC. ALFREDO RODRIGO LAGUNAS RIVERA
 
 SECRETARIO GENERAL DE ACUERDOS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 9 DE NOVIEMBRE DE 2001.
+
+PRIMERO:...
+
+SEGUNDO: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
+
+TERCERO: Publíquese en el Periódico Oficial del Gobierno del Estado y en el Boletín Judicial.
