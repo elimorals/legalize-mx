@@ -4,7 +4,7 @@ identifier: "MOR-codigo-electoral-para-el-estado-de-morelos-10583"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-11-28"
-last_updated: "1996-11-28"
+last_updated: "1999-10-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10583&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CODIGO ELECTORAL PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 2 DE OCTUBRE DE 1999.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el jueves 28 de noviembre de 1996.
 
@@ -109,9 +109,21 @@ Los ciudadanos, los Partidos Políticos, los Poderes Ejecutivo y Legislativo son
 
 ### CAPITULO I. DE LOS DERECHOS
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 4.
 
-El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible.
+El sufragio es un derecho y una obligación del ciudadano. El voto es universal, libre, secreto, directo, personal e intransferible. Queda prohibido todo acto de presión, inducción o coacción del voto, los cuales serán sancionados de conformidad a lo que establezca el Código Penal del Estado.
+
+Los ciudadanos morelenses tendrán los siguientes derechos político-electorales:
+
+I.- Votar en las elecciones populares y participar en los procesos de plebiscito y referéndum que se convoquen.
+
+II.- Ser votado para todos los cargos de elección popular de conformidad con las disposiciones legales.
+
+III.- Asociarse individual y libremente en organizaciones políticas.
+
+Los ciudadanos mexicanos podrán participar como observadores en todas las etapas del proceso electoral y los procesos plebiscitarios o referendarios.
 
 ###### ARTICULO 5.
 
@@ -135,11 +147,13 @@ Para el ejercicio de sus derechos políticos electorales, los ciudadanos podrán
 
 ### CAPITULO II. DE LA OBSERVACION ELECTORAL
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 7.
 
-Los ciudadanos mexicanos podrán participar como observadores de la jornada electoral de los procesos ordinarios o extraordinarios de elecciones.
+Los ciudadanos mexicanos podrán participar como observadores de los procesos ordinarios o extraordinarios de elecciones en el que se inscribieron y en los que posteriormente se celebren.
 
-La observación tiene por objeto que la ciudadanía testimonie el desarrollo de la jornada electoral y emita su informe a las autoridades competentes. La observación podrá realizarse en cualquier parte del territorio del Estado de Morelos.
+La observación tiene por objeto que la ciudadanía testimonie el desarrollo de los procesos electorales y de la jornada electoral, emita su informe a las autoridades competentes. La observación podrá realizarse en cualquier parte del territorio del Estado de Morelos.
 
 ###### ARTICULO 8.
 
@@ -147,7 +161,9 @@ Quienes manifiesten su intención de participar como observadores, deberán cump
 
 a).- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
 
-b).- No haber militado en Partido u organización política o religiosa alguna, ni haber sido miembro de dirigencias nacionales, estatales o municipales de organización o de Partido Político alguno; ni haber sido candidato o desempeñado puestos de elección popular en los últimos tres años antes de la elección;
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+b) No ser, ni haber sido dirigente nacional, estatal o municipal de Partido Político alguno, en los últimos tres años anteriores a la elección; ni haber sido candidato o desempeñado puestos de elección popular en los últimos tres años antes del día de la elección;
 
 c).- Presentar solicitud por escrito ante el Consejo Estatal Electoral, en la que señalarán bajo protesta de decir verdad:
 
@@ -161,9 +177,11 @@ d).- Asistir al curso de preparación e información que imparta el Instituto Es
 
 En los contenidos de la capacitación que el Instituto Estatal Electoral imparta a los funcionarios de las Mesas Directivas de Casilla, deberá preverse la explicación relativa a la presencia de los observadores electorales, así como los derechos y obligaciones inherentes a su actuación.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 9.
 
-El Consejo Estatal Electoral, determinará el plazo que se habilite para la recepción, el conocimiento y la resolución de estas solicitudes, que en ningún caso podrá exceder de 45 días previos a la jornada electoral.
+El Consejo Estatal Electoral recibirá la solicitud de registro para participar como observador electoral a partir del inicio del proceso electoral y hasta cuarenta y cinco días antes de la jornada electoral.
 
 Las solicitudes serán sometidas por el Consejero Presidente a la resolución del Consejo Estatal Electoral, órgano que deberá determinar lo conducente en la siguiente sesión que celebre.
 
@@ -182,6 +200,10 @@ d).- Externar cualquier expresión de ofensa en contra de las Instituciones, Aut
 e).- Declarar tendencias sobre la votación, antes y después de la jornada electoral;
 
 f).- Declarar el triunfo de Partido Político o candidato alguno.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+g) Solicitar información a los electores respecto al sentido de su voto.
 
 ###### ARTICULO 11.
 
@@ -225,9 +247,11 @@ No son elegibles para los puestos de elección popular, quienes hubieren ejercid
 
 ### CAPITULO IV. DE LAS OBLIGACIONES DE LOS CIUDADANOS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 16.
 
-Son obligaciones de los ciudadanos:
+Son obligaciones cívico-electorales de los ciudadanos:
 
 I.- Inscribirse en el Registro Federal de Electores;
 
@@ -321,27 +345,29 @@ Para la elección de Diputados, además de los dieciocho Distritos Electorales U
 
 La asignación de Diputados de representación proporcional se sujetará a las bases siguientes:
 
-Tendrán derecho a obtener diputaciones por el principio de representación proporcional los Partidos Políticos que hayan cumplido los siguientes requisitos:
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-A).- Sólo tendrán derecho a participar en la asignación de Diputados según el principio de representación proporcional, los Partidos Políticos que acrediten la postulación de candidatos de mayoría relativa, en cuando menos doce Distritos Electorales y alcance, el 3 % o más del total de la votación emitida en el Estado;
+I.- Tendrán derecho a participar en la asignación de Diputados, según el principio de representación proporcional, los Partidos Políticos que acrediten la postulación de candidatos de mayoría relativa, en cuando menos doce distritos electorales y alcance, el tres por ciento o más del total de la votación emitida en el Estado;
 
-B).- Al Partido que cumpla con lo dispuesto en el párrafo anterior y, no rebase el 6 % de la votación estatal emitida, se le asignará, una sola vez, un Diputado de representación proporcional;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-C).- Al Partido Político que obtenga constancias de mayoría relativa en cuando menos la mayoría de Distritos Uninominales se le asignará el número de diputaciones de representación proporcional, suficientes para acreditar hasta dieciocho Diputados. El Partido que con sus Diputados de mayoría relativa alcance la cifra antes mencionada, no concurrirá a la asignación de Diputados de representación proporcional;
+II.- Para asignar Diputaciones de representación proporcional se estará a los (sic) siguiente:
 
-D).- Para asignar las Diputaciones de representación proporcional a los Partidos Políticos que no estén en los supuestos previstos en los incisos B) y C) anteriores, se estará a lo siguiente:
+1.- De la votación total emitida se sumará el porcentaje obtenido por dichos Partidos Políticos y se dividirá entre el número total de diputaciones pendientes de asignar, el resultado que se obtenga será el cociente de distribución electoral.
 
-1.- De la votación total emitida se sumará el porcentaje obtenido por dichos partidos políticos y se dividirá entre el número total de diputaciones pendientes de asignar, el resultado que se obtenga será el cociente de distribución electoral.
+2.- Si después de efectuar la asignación prevista en el párrafo anterior, quedaren Diputaciones por repartir, se asignarán a los Partidos Políticos que tengan, en el orden decreciente, el remanente mayor, al dividir el porcentaje de su votación entre el cociente natural.
 
-2.- Si después de efectuar las asignaciones previstas en el párrafo anterior, quedaren Diputaciones por repartir, se asignarán a los Partidos Políticos que tenga, en el orden decreciente, el remanente mayor, al dividir el porcentaje de su votación entre el cociente electoral.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-E).- Ningún Partido podrá obtener más de 18 Diputaciones sumados ambos principios.
+III.- Ningún partido podrá tener más de dieciocho Diputaciones sumados ambos principios.
 
 DE LA ELECCION DE LOS AYUNTAMIENTOS
 
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
 ###### ARTICULO 23.
 
-El Municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará administrado por un Ayuntamiento de elección popular directa, integrado por la planilla que haya obtenido el mayor número de votos según el principio de mayoría relativa, denominados Presidente Municipal y Síndico; y por Regidores electos según el principio de representación proporcional.
+El Municipio libre es la base de la división territorial y de la organización política y administrativa del Estado; estará gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente Municipal y un Síndico, electos por el principio de mayoría relativa; y por regidores electos según el principio de representación proporcional.
 
 Para las elecciones de los integrantes de los Ayuntamientos se estará a lo dispuesto por la Constitución Política del Estado Libre y Soberano de Morelos, la Ley Orgánica Municipal y este Código.
 
@@ -353,7 +379,7 @@ Se sumarán los votos de los Partidos que hayan obtenido cuando menos el 1.5 % d
 
 Si aplicado el factor de distribución quedan Regidurías por atribuir, éstas se asignarán en orden decreciente, de acuerdo tanto, con los mayores porcentajes de votación obtenidos por los Partidos Políticos restantes, como con los porcentajes excedentes de aquéllos que obtuvieron Regidurías con la aplicación de dicho factor.
 
-Cuando la diferencia en el resultado de la votación entre la planilla que obtenga la mayoría y la primera minoría no supere el veinte por ciento del total de los votos obtenidos, el Síndico asignado a la planilla ganadora contará con un factor de asignación en la lista de Regidores, en los términos que determine el Consejo Estatal Electoral.
+> <small>(DEROGADO ULTIMO PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ### CAPITULO II. DE LAS ELECCIONES ORDINARIAS Y EXTRAORDINARIAS
 
@@ -361,11 +387,15 @@ Cuando la diferencia en el resultado de la votación entre la planilla que obten
 
 Las elecciones ordinarias de Gobernador del Estado, se celebrarán cada seis años, la de los Diputados del Congreso del Estado y la de los Ayuntamientos cada tres años.
 
-Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las elecciones federales.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Las elecciones de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos se realizarán en las mismas fechas en que se efectúen las elecciones federales, en mesas de casilla diferentes, de acuerdo al convenio que celebren el Instituto Estatal Electoral y el Instituto Federal Electoral.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 26.
 
-Las elecciones extraordinarias, serán convocadas por el Congreso o por el Gobernador del Estado, según lo establecido en la Constitución y se sujetarán a lo dispuesto por este Ordenamiento, celebrándose en las fechas y términos que al efecto se señalen en la convocatoria correspondiente, cuyas disposiciones no podrán restringir los derechos que esta Ley reconoce a los ciudadanos y a los Partidos Políticos, ni alterar las formalidades que establece.
+Las elecciones extraordinarias serán convocadas por el Congreso o por el Gobernador del Estado, según lo establecido en la Constitución y se sujetarán a lo dispuesto por este ordenamiento, celebrándose en las fechas y términos que al efecto se señalen en la convocatoria correspondiente, cuyas disposiciones no podrán restringir los derechos que este Código reconoce a los ciudadanos y a los Partidos Políticos, ni alterar las formalidades que establece.
 
 La convocatoria deberá expedirse a más tardar a los 15 días siguientes en que se actualice la hipótesis de elección extraordinaria, salvo que la Constitución Política de los Estados Unidos Mexicanos o la particular del Estado, determinen periodo expreso.
 
@@ -505,23 +535,31 @@ El cambio de los documentos básicos de un Partido, en su nombre, siglas, signos
 
 Ningún Partido podrá efectuar los cambios a que se refiere el párrafo anterior, en tanto no sea debidamente autorizado; la violación a esta disposición, será sancionada con la cancelación de su registro.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 40.
 
-Los Partidos Políticos Estatales con registro, cuando no obtuvieren el 1.5 % de la votación emitida en un proceso electoral ordinario, perderán su registro en los términos de este Código.
+Los Partidos Políticos Estatales con registro, cuando no obtuvieren el dos por ciento de la votación emitida en un proceso electoral ordinario, perderán su registro en los términos de este Código.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 41.
 
-Para poder participar en los procesos electorales señalados en este Código, los Partidos Políticos deberán obtener su registro, por lo menos un año antes al día de la elección.
+Para poder participar en los procesos electorales señalados en este Código, los Partidos Políticos Estatales deberán obtener su registro, por lo menos un año antes al día de la elección.
 
 ### CAPITULO IV. DE LAS COALICIONES Y FUSIONES
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 42.
 
-Para fines electorales, los Partidos Políticos podrán formar coaliciones a fin de presentar plataforma común, programática e ideológica, y postular a los Candidatos para Gobernador del Estado; Diputados por mayoría relativa y por representación proporcional; y para miembros del Ayuntamiento por elección popular.
+Para fines electorales, los Partidos Políticos podrán formar coaliciones a fin de presentar plataforma común conforme a los programas, principios e ideas que postulan y registrar a los candidatos para Gobernador del Estado; Diputados por mayoría relativa y por representación proporcional; y para miembros del Ayuntamiento por elección popular.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 43.
 
-Para el efecto anterior, los Partidos Políticos deberán suscribir un convenio que cumpla con los requisitos establecidos en este Código el cual deberá registrarse, previa sanción, ante el Consejo Estatal Electoral. En ningún caso podrán los Partidos Políticos postular candidatos comunes sin que medie convenio de coalición.
+Para el efecto anterior, los Partidos Políticos deberán suscribir un convenio de coalición que cumpla con los requisitos establecidos en este Código y que deberá registrarse ante el Consejo Estatal Electoral.
 
 ###### ARTICULO 44.
 
@@ -537,19 +575,29 @@ Los Partidos Políticos que se coaliguen para Diputados de mayoría relativa, de
 
 El convenio de coalición podrá celebrarse por dos o más Partidos Políticos y quedará sin efecto concluida la calificación de las elecciones para las que se hayan coaligado.
 
+(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Concluida la etapa de resultados y de declaraciones de validez de la elección de Diputados de mayoría relativa, terminará automáticamente la coalición por la que se hayan postulado candidatos, en cuyo caso, los candidatos a Diputados de la coalición que resultaren electos quedarán comprendidos en el Partido Político que se haya señalado en el convenio de coalición.
+
 ###### ARTICULO 47.
 
 Los Partidos Políticos que se hubieren coaligado podrán conservar su registro al término de la elección, si la votación de la coalición es equivalente a la suma de votos que requiere cada uno de los Partidos Políticos coaligados como mínimo para mantener su registro en los términos de este Código y de conformidad con lo que establezca el convenio de coalición respecto al porcentaje de votos de cada Partido.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 48.
 
-Para efecto de su participación en los Organismos electorales, los Partidos Políticos coaligados actuarán como un solo Partido y acreditarán el número de representantes que con ese carácter tengan derecho en términos del presente Código.
+Para efecto de su participación en los Organismos Electorales, cada uno de los Partidos Políticos coaligados mantendrá a sus representantes, debiendo designar un representante común, quien ostentará la representación de la coalición, para todos los efectos legales de este Código.
+
+Asimismo la coalición deberá acreditar tantos representantes como correspondiera a un solo Partido Político ante las mesas directivas de casilla, y especiales en el Distrito.
 
 ###### ARTICULO 49.
 
 Para el registro de la coalición los Partidos Políticos deberán cumplir los siguientes requisitos:
 
-I.- Acreditar que la coalición fue aprobada por la Asamblea Estatal de cada uno de los Partidos que pretendan coaligarse;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+I.- Acreditar que la coalición fue aprobada por el órgano competente de cada uno de los partidos que pretendan coaligarse de conformidad con sus estatutos;
 
 II.- Comprobar que los órganos directivos respectivos de cada Partido Político aprobaron la misma plataforma electoral, programática e ideológica;
 
@@ -571,11 +619,17 @@ F).- La forma en que serán contabilizados los votos en favor de la coalición e
 
 G).- La plataforma electoral común que ofrece la coalición y sus Candidatos al electorado, misma que deberá publicarse y difundirse ampliamente durante la campaña.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 50.
 
-El convenio de coalición deberá presentarse para su registro, ante el Consejo Estatal Electoral, cuando menos 90 días antes al día de la elección y será resuelto en un plazo máximo de 30 días hábiles.
+El convenio de coalición deberá presentarse para su registro, ante el Consejo Estatal Electoral, a más tardar 45 días después de iniciado el Proceso Electoral y será resuelto en un plazo máximo de diez días.
 
-La resolución que niegue el registro del Convenio de Coalición, podrá ser impugnada a través del recurso de reconsideración, en el modo y términos previstos por este Código.
+La resolución que otorgue o niegue el registro del convenio de coalición podrá ser impugnada a través del medio de impugnación procedente y se resolverá antes de que inicie el plazo para el registro de candidatos.
+
+Una vez registrado el convenio de coalición, el Instituto Estatal Electoral ordenará su publicación en el Periódico Oficial.
+
+Si una vez registrada la coalición no cumple con el registro de las fórmulas de candidatos dentro de los plazos señalados para tal efecto en el presente Código, la coalición y el registro de fórmulas de candidatos quedarán automáticamente sin efecto.
 
 ###### ARTICULO 51.
 
@@ -601,7 +655,9 @@ En caso de pérdida del registro federal de un Partido Político Nacional, autom
 
 Los Partidos Políticos Estatales perderán su registro por las siguientes causas:
 
-I.- Por no haber obtenido cuando menos el 1.5 % de la votación estatal de las elecciones de Diputados electos por el principio de mayoría relativa;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+I.- Por no haber obtenido cuando menos el dos por ciento de la votación estatal de las elecciones de Diputados electos por el principio de mayoría relativa;
 
 II.- Por haber dejado de reunir los requisitos necesarios para obtener su registro;
 
@@ -685,7 +741,9 @@ VII.- Actuar y conducirse sin ligas de dependencia con Partidos Políticos, orga
 
 VIII.- Comunicar al Consejo Estatal Electoral la propuesta de modificación a sus documentos básicos dentro de los 30 días siguientes a la fecha que se tome el acuerdo respectivo dentro del Partido;
 
-IX.- Rendir los informes anuales sobre el origen y aplicación de los recursos, así como los informes sobre los ingresos y gastos de las campañas electorales, de acuerdo a los lineamientos establecidos por la Comisión de Fiscalización del Consejo Estatal Electoral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+IX.- Rendir los informes anuales sobre el origen y aplicación de los recursos, así como los informes sobre los ingresos y gastos de las campañas electorales, de acuerdo a los lineamientos establecidos;
 
 X.- Destinar los bienes muebles e inmuebles que tengan o adquieran en propiedad, o de los que tengan o adquieran la posesión por cualquier título, al cumplimiento exclusivo, inmediato y directo de sus fines; y
 
@@ -707,35 +765,65 @@ Son prerrogativas de los Partidos políticos:
 
 l.- Participar anualmente del financiamiento público estatal para el ejercicio de sus actividades políticas en el Estado, en la forma y términos previstos en este Código;
 
-II.- No serán sujetos de los impuestos y derechos estatales y municipales que se causen por el desarrollo de sus actividades, excepto en tratándose de:
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-Las contribuciones, incluyendo tasas adicionales que se establezcan sobre la propiedad inmobiliaria y su fraccionamiento; las que establezcan las Leyes y Reglamentos del Estado o Municipios sobre la propiedad, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles; y en los casos de derechos y productos que establezcan los Municipios por la prestación de servicios públicos municipales.
+II.- Tener acceso en forma gratuita a los medios de comunicación social de los que el Estado sea permisionario;
 
-La no sujeción de impuestos o derechos, no excluye a los Partidos Políticos del cumplimiento de las demás obligaciones fiscales y las disposiciones gubernativas para permisos, licencias y autorizaciones.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-III.- Tener acceso en forma gratuita a los medios de comunicación social de los que el Estado sea permisionario.
+III.- Gozar del régimen fiscal que se establece en este Código y en las leyes de la materia. En ningún caso los Partidos Políticos serán sujetos de los impuestos y derechos estatales y municipales que se causen por el desarrollo de sus actividades, excepto en tratándose de las contribuciones sobre la propiedad inmobiliaria y su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles.
 
-ACCESO A MEDIOS DE COMUNICACION
+La no sujeción de impuestos o derechos, no excluyen a los Partidos Políticos del cumplimiento de las demás obligaciones y las demás disposiciones gubernativas para permisos, licencias y autorizaciones;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+IV.- Realizar propaganda electoral en los términos dispuestos por este Código;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+V.- Promover y difundir su plataforma, doctrina, programa de gobierno y campañas de proselitismo en tiempos no electorales con sujeción a las disposiciones administrativas estatales y municipales;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VI.- Utilizar en forma igualitaria las plazas, vías, auditorios, mobiliario y equipo técnico de carácter público, conforme a las disposiciones gubernamentales correspondientes; el ejercicio de este derecho quedará sujeto a las condiciones de tiempo y forma disponibles en dichas plazas, vías, auditorios y elementos técnicos; y
+
+(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+VII.- Los Partidos Políticos tendrán derecho a realizar actos de propaganda para la elección de sus dirigentes en todos sus niveles y sus precandidatos a cargos de elección popular, sujetándose a las bases definidas en el artículo 73, 150 y 151 de este Código.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 64.
 
-Las prerrogativas a los Partidos Políticos en los medios de comunicación social de los que el Estado sea permisionario, tendrán la misma proporcionalidad que el financiamiento público.
+Los Partidos Políticos tendrán acceso de manera equitativa y gratuita en las frecuencias de radio y los canales de televisión propiedad del gobierno del Estado, de acuerdo con los siguientes criterios:
+
+a) Podrán disfrutar de un tiempo de 60 minutos mensuales en cada uno de esos medios de comunicación;
+
+b) La duración de las transmisiones se incrementará en períodos electorales para cada Partido Político, hasta un límite de 120 minutos mensuales, desde la fecha del inicio del proceso electoral ordinario hasta el último día permitido de las campañas electorales;
+
+c) El Consejo Estatal Electoral formará una Comisión de Medios de Comunicación y Propaganda, a cuyas sesiones podrán asistir los representantes de los partidos integrada por tres consejeros electorales, la cual tendrá bajo su responsabilidad realizar los sorteos para determinar el orden de presentación de los mensajes de los Partidos Políticos, en los medios de comunicación electrónica propiedad del Gobierno del Estado, debiendo dar a conocer la programación respectiva a través de los medios de comunicación social locales de acuerdo a su reglamento; y
+
+d) Las áreas técnicas existentes en los medios de comunicación propiedad del Gobierno del Estado, podrán brindar apoyo a los Partidos Políticos para la producción y edición de los programas y materiales que difundirán a través de los mismos.
 
 ###### ARTICULO 65.
 
 Para que los Partidos Políticos puedan tener acceso a las emisoras de radio y televisión estatales, el Consejo Estatal Electoral celebrará convenio con el Gobierno del Estado.
 
-Para el uso de los espacios en la radio y televisión estatales, el Consejo Estatal Electoral será el órgano coordinador y encargado de la difusión de los programas de radio de los Partidos Políticos, con sujeción a lo dispuesto por el ordenamiento federal respectivo.
+> <small>(DEROGADO SEGUNDO PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 66.
 
-Los Partidos Políticos podrán supervisar la difusión de sus programas de radio y televisión. Al efecto el Consejo Estatal Electoral dará a conocer oportunamente el horario y calendario a que se sujetarán las transmisiones.
+Para el caso de las estaciones del radio y televisión comerciales que existan, la comisión antes citada, gestionará la obtención de un catálogo de horarios y tarifas de publicidad, para su contratación por los Partidos Políticos sólo durante los procesos electorales.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 67.
 
-El Consejo Estatal Electoral gestionará la obtención de un catálogo de horarios y tarifas preferentes de publicidad, en las estaciones de radio y televisión privadas que operen en la Entidad.
+El Instituto Estatal Electoral organizará a través de la Comisión Medios de Comunicación y Propaganda dos programas mensuales de 30 minutos cada uno, en donde participen los Partidos Políticos, los que se transmitirán en el sistema de radio y televisión del Gobierno del Estado, en horarios preferentes.
 
-Será derecho de los Partidos Políticos contratar tiempo de radio y televisión para difundir mensajes para la obtención del voto.
+Será derecho exclusivo de los Partidos Políticos contratar tiempos en radio y televisión para difundir sus mensajes, principios ideológicos, programas de acción y plataformas electorales; encaminados a la obtención del voto.
 
 ### CAPITULO V. DE LA PROPAGANDA ELECTORAL
 
@@ -743,57 +831,133 @@ Será derecho de los Partidos Políticos contratar tiempo de radio y televisión
 
 El régimen de financiamiento de los Partidos Políticos tendrá las siguientes modalidades:
 
-1.- Financiamiento público, que prevalecerá sobre el de origen privado;
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-2.- Financiamiento privado; y
+a) Financiamiento público, que prevalecerá sobre el de origen privado;
 
-3.- Financiamiento por ingresos propios.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-Los Partidos Políticos registrados ante el Instituto Estatal Electoral recibirán, durante su actuación y durante la actividad electoral, el financiamiento público, en efectivo o en especie; el monto total del financiamiento público será el que resulte de multiplicar el padrón electoral por el porcentaje que se establezca de entre el 20% y 30% del Salario Mínimo vigente de la zona económica a que corresponda el Estado, de conformidad a la disponibilidad presupuestal del Gobierno Estatal en el ejercicio fiscal de que se trate para ése año; haciendo un corte a la fecha en que deba presentarse el Presupuesto de Egresos del Gobierno del Estado para la sanción del Poder Legislativo en el ejercicio correspondiente.
+b) Financiamiento por militantes y simpatizantes;
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+c) Autofinanciamiento; y
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+d) Financiamiento por rendimientos financieros, fondos y fideicomisos.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Los Partidos Políticos registrados ante el Instituto Estatal Electoral recibirán, durante su actuación y durante la actividad electoral, el financiamiento público en efectivo o en especie. El monto total del financiamiento público será el que resulte de multiplicar el total de ciudadanos inscritos en el padrón electoral por el equivalente al menos al cincuenta por ciento de un día de salario mínimo vigente de la zona económica a la que corresponda el Estado, de conformidad con la disponibilidad presupuestal del gobierno estatal en el ejercicio fiscal de que se trate para ese año; haciendo un corte a la fecha en que deba presentarse el presupuesto de egresos del gobierno del Estado para sanción del Poder Legislativo en el ejercicio correspondiente.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+El monto total del financiamiento otorgado, podrá incrementarse en forma extraordinaria previo acuerdo del Congreso del Estado y de conformidad a la disponibilidad presupuestal del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Cada Partido Político deberá destinar anualmente por lo menos el dos por ciento del financiamiento público que reciba, para el desarrollo de sus fundaciones o institutos de investigación.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Se apoyará con financiamiento público el cual no excederá del cinco por ciento del total que reciban los Partidos Políticos en tiempos no electorales, para los gastos que realicen por concepto de actividades relativas a educación, capacitación política, investigación socioeconómica y política, y tareas editoriales, conforme al Reglamento que establezca el Consejo Estatal Electoral.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+El monto total del financiamiento público que se destine en las actividades mencionadas, deberá distribuirse con un criterio igualitario.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Cada Partido Político podrá recibir previa comprobación, el importe que resulte de dividir la cantidad total a distribuir, entre el número de Partidos Políticos registrados. La suma no reclamada por los Partidos Políticos se distribuirá conforme al mismo método del párrafo anterior.
 
 ###### ARTICULO 69.
 
 El financiamiento público, en efectivo o en especie, que reciban los Partidos Políticos con cargo al Presupuesto de Egresos del Gobierno del Estado, deberá repartirse conforme a las siguientes reglas:
 
-I.- El 30 % de la cantidad total se distribuirá entre todos los Partidos Políticos registrados en forma igualitaria; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-II.- El 70 % se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección inmediata anterior.
+I.- El veinticinco por ciento de la cantidad total se distribuirá en forma igualitaria entre todos los partidos políticos registrados y el setenta y cinco por ciento restante se distribuirá entre los mismos de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de Diputados de mayoría relativa inmediata anterior;
 
-En caso de coalición, esta será considerada como un solo Partido Político, en los términos que establezca el convenio de coalición.
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-Durante los procesos electorales el financiamiento público equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ése año.
+II.- En caso de coalición, ésta será considerada como un solo partido político, en los términos que establezca el convenio de coalición;
 
-El Consejo Estatal Electoral fijará el tope mínimo que por concepto de financiamiento deberá otorgarse a aquellos Partidos Políticos que participen por primera vez en el proceso electoral conforme a las disposiciones de éste Código.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-El Consejo Estatal Electoral aprobará el calendario presupuestal conforme al cual deberá otorgarse a los Partidos Políticos con registro el financiamiento correspondiente.
+III.- Durante los procesos electorales el financiamiento público equivaldrá a una cantidad igual al monto del financiamiento público que le corresponda a cada Partido Político por actividades ordinarias en ese año;
 
-El financiamiento público, en efectivo o en especie, otorgado a cada Partido Político para sus actividades ordinarias le será entregado al representante legalmente acreditado del Partido de que se trate.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-El financiamiento público en ningún caso será mayor a la cantidad que para tal efecto se señale en la partida correspondiente del Presupuesto de Egresos del Gobierno del Estado.
+IV.- A los Partidos Políticos que participen por primera vez en el proceso electoral, conforme a las disposiciones de este Código, se les otorgará el uno por ciento del total del financiamiento público en actividades ordinarias; y otro tanto igual en años en que se desarrolle el proceso electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+V.- El Consejo Estatal Electoral aprobará el calendario presupuestal conforme al cual deberá otorgarse a los Partidos Políticos con registro el financiamiento correspondiente; y
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VI.- El financiamiento público, en efectivo o en especie, otorgado a cada Partido Político para sus actividades ordinarias le será entregado al representante legalmente acreditado del Partido de que se trate.
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 70.
 
-El financiamiento privado, en efectivo o en especie, que reciban los Partidos Políticos o los candidatos, no será deducible de impuestos. En este caso la cantidad máxima que por individuo aportante pueda recibirse tendrá un límite anual equivalente al 0.5% del monto total del financiamiento público otorgado a los partidos políticos en el año que corresponda.
+El financiamiento de militantes o simpatizantes, en efectivo o en especie, que reciban los Partidos Políticos o los candidatos, serán deducibles del Impuesto sobre la Renta, hasta por un monto del veinticinco por ciento. En este caso la cantidad máxima que por individuo aportante pueda recibirse tendrá un límite anual equivalente al cero punto cinco por ciento del monto total del financiamiento público otorgado a los Partidos Políticos en el año que corresponda.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Cada Partido Político no podrá recibir anualmente aportaciones en dinero de simpatizantes por una cantidad superior al diez por ciento del total del financiamiento público para actividades ordinarias que corresponda a todos los Partidos Políticos.
 
 No podrán realizar aportaciones o donativos a los Partidos Políticos, en dinero o en especie, por sí o por interpósita persona y bajo ninguna circunstancia: los Ministros de culto o las asociaciones religiosas; las empresas mercantiles; los Partidos Políticos o las personas físicas o morales extranjeras; los organismos internacionales de cualquier naturaleza y las personas que vivan o trabajen en el extranjero.
 
 Los Partidos Políticos podrán recibir ingresos por sus actividades promocionales, tales como rifas, sorteos y eventos similares, sin más limitaciones que las establecidas por la legislación vigente.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 71.
 
-El Consejo Estatal Electoral contará con una Comisión de Fiscalización de los recursos de los Partidos Políticos, la cual fiscalizará el origen y destino de los recursos anuales entregados a los Partidos Políticos y tendrá la obligación de informar de sus resultados al propio Consejo.
+Los Partidos Políticos deberán presentar ante el Consejo Estatal Electoral los informes del origen, destino y monto de los ingresos que reciban por cualquier modalidad de financiamiento, así como su empleo y aplicación, atendiendo a las siguientes reglas:
 
-Dicha Comisión estará integrada por cinco comisionados designados por el Consejo Estatal Electoral, de entre los que estarán dos Consejeros Electorales y tres de entre los propuestos por los Colegios de Contadores Públicos, Economistas y Licenciados en Administración.
+I.- Los informes anuales, serán presentados a más tardar dentro de los 90 días siguientes al último día de diciembre del año del ejercicio que se reporte; y
+
+II.- Informes de aplicación de recursos sobre gastos de campaña:
+
+a) Deberán presentarse por los Partidos Políticos que participen en el proceso electoral, por cada una de las campañas de las elecciones respectivas, especificando los gastos que el Partido Político y el candidato hayan realizado en el ámbito territorial correspondiente;
+
+b) Los relativos a los gastos de campaña sujetos a topes serán presentados a más tardar dentro de los cuarenta y cinco días naturales siguientes contados a partir del día de la elección;
+
+c) En cada informe será reportado el origen de los recursos que se hayan utilizado para financiar los gastos correspondientes a los rubros comprendidos en los topes de gastos de campaña, así como el monto y destino de dichas erogaciones.
+
+El Consejo Estatal Electoral contratará, mediante concurso público un despacho contable que dictamine los informes que presenten los Partidos Políticos.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 72.
 
-Los Partidos Políticos deberán rendir ante la Comisión de Fiscalización de los recursos de los Partidos Políticos, un informe anual del uso y destino que hayan dado a los recursos asignados a través del Estado de Resultados y presentarán los comprobantes respectivos.
+El procedimiento para la presentación y revisión de los informes de los Partidos Políticos se sujetará a las siguientes reglas:
 
-Con base a dichos informes, la Comisión de Fiscalización elaborará el dictamen correspondiente, en donde se determinará si estos recursos están siendo o no empleados para el fin para el que se otorgaron y lo someterá a la consideración del Consejo Estatal Electoral.
+a) El despacho contable contará con sesenta días, sin posibilidad de prórroga, para revisar los informes anuales y quince días para los informes de campaña presentados por los Partidos Políticos. Tendrá en todo momento la facultad de requerir a los órganos responsables del financiamiento de cada Partido Político, la documentación necesaria para comprobar la veracidad de lo reportado en los informes;
 
-Si el Consejero Estatal electoral, con base en el dictamen, determina que los recursos no están siendo empleados para los fines para los que se otorgaron, oirá en defensa a la directiva del Partido de que se trate, en un plazo de 30 días hábiles dentro del cual recibirá las pruebas que le sean ofrecidas en los términos de este Código; y dictará la resolución correspondiente en un plazo no mayor de 45 días hábiles.
+b) Si durante la revisión de los informes y una vez hechos los requerimientos a que se refiere el párrafo anterior, el despacho advierte la existencia de errores u omisiones técnicas, notificará al Partido Político que hubiere incurrido en ellos y al Consejo Estatal Electoral, para que en un plazo de diez días contados a partir de dicha notificación, presente las aclaraciones o rectificaciones que estime pertinentes;
 
-En caso de que, conforme a los alegatos y las pruebas presentadas, el Consejo estime que no se justifica el gasto, deducirá de la siguiente ministración la cantidad que no se hubiese comprobado o que se hubiese destinado a actividades distintas a aquellas para las que se otorgó el financiamiento.
+c) Al vencimiento de los plazos señalados en los incisos anteriores, el despacho dispondrá de un plazo de veinte días para elaborar un dictamen consolidado que deberá presentar al Consejo Estatal Electoral dentro de los tres días siguientes a su conclusión;
+
+d) El dictamen deberá contener por lo menos:
+
+1. El resultado y las conclusiones de la revisión de los informes que hayan presentado los Partidos Políticos;
+
+2. En su caso, la mención de los errores o irregularidades encontradas en los mismos; y
+
+3. El señalamiento de requerimientos y notificaciones realizados, así como las aclaraciones o rectificaciones que presentaron los Partidos Políticos.
+
+e) El dictamen se presentará ante el Consejo Estatal Electoral, y en su caso, iniciará el procedimiento para determinación e imposición de sanciones; y
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+f) El Consejo Estatal Electoral publicará en el Periódico Oficial del Estado "Tierra y Libertad". El dictamen y, en su caso, la resolución del Tribunal Estatal Electoral. Asimismo acordará otros mecanismos que considere convenientes para la difusión pública del dictamen y, en su caso, de las resoluciones.
+
+Las quejas sobre el origen y la aplicación de los recursos derivados del financiamiento de los Partidos Políticos, deberán ser presentadas ante el Secretario Ejecutivo del Instituto Estatal Electoral, quien las turnará al despacho, a efecto de que las analice previamente a que rinda su dictamen.
 
 ### CAPITULO I. DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -843,6 +1007,10 @@ Las actividades del Instituto Estatal Electoral se regirán por los principios d
 
 Para el desempeño de sus actividades el Instituto contará con el personal calificado necesario para prestar el servicio electoral profesional.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+La organización, dirección y vigilancia de los procesos plebiscitarios y de referéndum estarán a cargo del Instituto Estatal Electoral, el Consejo de Participación Ciudadana coadyuvará con el Instituto Estatal Electoral en la calificación de procedencia o improcedencia de las solicitudes de plebiscito o referéndum que se presenten, en los términos que establecen la Constitución del Estado y la ley de la materia.
+
 ###### ARTICULO 77.
 
 Son fines del Instituto Estatal Electoral:
@@ -861,9 +1029,17 @@ VI.- Coadyuvar en la promoción y difusión de la cultura política; y
 
 VII.- En su caso, celebrar convenios con las Autoridades Electorales de la Federación, que coadyuven con el ejercicio de sus funciones, entre los que podrá ser objeto, el Padrón Electoral del Estado y las listas nominales de electores en la Entidad.
 
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VIII.- Garantizar la transparencia de los procesos de plebiscito y el referéndum de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y la ley de la materia.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 78.
 
-El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Gobierno del Estado.
+El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto del Gobierno del Estado.
+
+Los bienes muebles e inmuebles que integran el patrimonio del Instituto se regirán por lo dispuesto por la Ley General de Bienes del Estado.
 
 ###### ARTICULO 79.
 
@@ -909,7 +1085,9 @@ El Consejero Presidente y los cuatro Consejeros Electorales serán electos suces
 
 I.- Cada grupo parlamentario representado en el Congreso propondrá una lista de cinco ciudadanos para elegir sucesivamente al Consejero Presidente, a los Consejeros Electorales y a cuatro Consejeros Suplentes, identificando al primero en su propuesta;
 
-II.- Las propuestas serán analizadas y dictaminadas a través de la Gran Comisión, en cuyo dictamen, se contenga la propuesta de Consejero Presidente, Consejeros Electorales, así como a los cuatro Consejeros suplentes en orden de prelación;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+II.- Las propuestas serán analizadas y dictaminadas a través de la Comisión de Régimen Interno y Concertación Política del Congreso del Estado, en cuyo dictamen, se contenga la propuesta de Consejero Presidente, Consejeros Electorales, así como a los cuatro Consejeros Suplentes en orden de prelación.
 
 III.- El dictamen respectivo será sometido a la discusión y aprobación del Congreso del Estado o en su caso, de la Diputación Permanente, quien emitirá el Decreto respectivo; y
 
@@ -961,7 +1139,9 @@ El Secretario Ejecutivo a propuesta de quien o quienes estén legitimados para e
 
 En periodo de elecciones ordinarias o extraordinarias todos los días y horas, se consideran hábiles para sesionar.
 
-Las sesiones del Consejo Estatal serán públicas, salvo que exista motivo que justifique que sean privadas, previo acuerdo del mismo Consejo. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto, quien tendrá derecho de voz en las reuniones.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Las sesiones del Consejo Estatal serán públicas, salvo que exista motivo que justifique que sean privadas, previo acuerdo del mismo Consejo; para cada sesión de Consejo se levantará el acta respectiva, misma que deberá ser en forma textual. La Secretaría del Consejo estará a cargo del Secretario Ejecutivo del Instituto, quien tendrá derecho de voz en las reuniones.
 
 ###### ARTICULO 87.
 
@@ -979,77 +1159,151 @@ El Consejero Presidente y los Consejeros Electorales serán removidos de su carg
 
 Son atribuciones del Consejo Estatal Electoral:
 
-I.- Llevar a cabo la preparación, desarrollo y vigilancia del proceso electoral y cuidar el adecuado funcionamiento de los Organismos Electorales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-II.- Designar al Secretario Ejecutivo del Consejo Estatal Electoral;
+I.- Llevar a cabo la preparación, desarrollo y vigilancia de los procesos electorales y los de participación ciudadana, previstos en la Constitución del Estado, cuidando el adecuado funcionamiento de los organismos electorales;
 
-III.- Resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en Partido Político; y sobre la cancelación o pérdida en su caso, del registro;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+II.- Designar al Secretario Ejecutivo y a los directores ejecutivos a propuesta del Consejero Presidente del Consejo Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+III.- Resolver sobre las solicitudes de registro que le formulen los ciudadanos que deseen constituirse en Partido Político Estatal; así como sobre la cancelación o pérdida en su caso del mencionado registro;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 IV.- Celebrar con las Autoridades Federales, Estatales o Municipales, los convenios que sean necesarios para el cumplimiento de sus objetivos;
 
-V.- Aprobar anualmente el anteproyecto de Presupuesto de Egresos del Instituto y presentarlo al Poder Ejecutivo del Estado para su aprobación e incorporación dentro del Presupuesto de Egresos del Estado; dicho proyecto deberá incluir entre sus partidas, el financiamiento y las prerrogativas de los Partidos Políticos;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-VI.- Determinar la integración por secciones de cada Distrito Electoral Uninominal y Municipio y remitirlas al Poder Ejecutivo para su publicación en el Periódico Oficial del Estado;
+V.- Aprobar anualmente el anteproyecto de Presupuesto de Egresos del Instituto y presentarlo al Poder Ejecutivo del Estado para su incorporación dentro del Presupuesto de Egresos de la Entidad mismo que deberá incluir entre sus partidas, el financiamiento y las prerrogativas de los Partidos Políticos;
 
-VII.- Convocar a los Partidos Políticos para que nombren a sus representantes, propietarios y suplentes, a efecto de integrar los Consejos Distritales y Municipales Electorales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-VIII.- Cuidar la debida integración, instalación y funcionamiento de los Consejos Distritales y Municipales electorales, así como de las Comisiones y Direcciones Ejecutivas;
+VI.- Convocar a los Partidos Políticos para que nombren a sus representantes, propietarios y suplentes, a efecto de integrar los Consejos Distritales y Municipales Electorales;
 
-IX.- Designar al Consejero Presidente, Consejeros Electorales y al Secretario de los Consejos Distritales y Municipales;
+VII.- Cuidar la debida integración, instalación y funcionamiento de los Consejos Distritales y Municipales Electorales, así como de las Comisiones y Direcciones Ejecutivas;
 
-X.- Enviar para su publicación en el Periódico Oficial, la lista de los integrantes de los Consejos Distritales y Municipales Electorales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XI.- Nombrar a propuesta del Consejero Presidente, a los servidores públicos que integren el servicio profesional electoral, determinando su competencia y funciones o atribuciones;
+VIII.- Designar y remover al Consejero Presidente, a los Consejeros Electorales y al Secretario de los Consejos Distritales y Municipales;
 
-XII.- Aprobar o no los convenios de coalición de los Partidos Políticos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XIII.- Proporcionar de conformidad a sus disponibilidades presupuestales y en forma equitativa a los Partidos Políticos, el uso de instalaciones y los instrumentos de trabajo mínimos necesarios para que durante el proceso electoral, los representantes acreditados puedan cumplir con las funciones que les son propias dentro de los Organismos Electorales;
+IX.- Enviar para su publicación en el Periódico Oficial, la lista de los integrantes de los Consejos Distritales y Municipales Electorales;
 
-XIV.- Proveer que lo relativo a las prerrogativas y financiamiento de los Partidos Políticos se desarrolle con apego a este ordenamiento; determinar en cantidad líquida los topes del financiamiento público de conformidad a las disponibilidades presupuestales, así como el financiamiento privado, sean ambos en efectivo o en especie, a los Partidos Políticos y Candidatos, y los topes de gastos de las campañas electorales, de acuerdo a las disposiciones de este Código;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XV.- Vigilar y supervisar el cumplimiento de las obligaciones que este Código impone a los Partidos Políticos;
+X.- Nombrar a propuesta del Consejero Presidente, a los servidores públicos que integren el Servicio Profesional Electoral, determinando su competencia, funciones y atribuciones;
 
-XVI.- Registrar las candidaturas a Gobernador del Estado, y la de los candidatos plurinominales al Congreso del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XVII.- Registrar las listas de asignación de los Candidatos a Diputados por el principio de representación proporcional;
+XI.- Aprobar o no los convenios de coalición de los Partidos Políticos;
 
-XVIII.- Registrar supletoriamente, las candidaturas a Diputados por el principio de mayoría relativa y las candidaturas de Presidente y Síndico a los Ayuntamientos, así como las listas de Regidores;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XIX.- Registrar la plataforma electoral que por cada proceso electoral deben presentar los Partidos Políticos en los términos de este Código;
+XII.- Proporcionar de conformidad a las disponibilidades presupuestales y en forma equitativa a los Partidos Políticos, el uso de instalaciones y los instrumentos de trabajo mínimos necesarios para que durante el proceso electoral, los representantes acreditados puedan cumplir con las funciones que le son propias dentro de los organismos electorales. En tiempo no electoral, los representantes de los Partidos Políticos, dispondrán al menos de espacios propios y de la papelería y equipos de oficina mínimos, para realizar sus trabajos dentro de las instalaciones del Instituto Estatal Electoral;
 
-XX.- Resolver sobre la sustitución de candidatos y la cancelación de su registro;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXI.- Aprobar el modelo de las actas de la jornada electoral y los formatos de la documentación electoral;
+XIII.- Proveer que lo relativo a las prerrogativas y financiamiento de los Partidos Políticos se desarrolle con apego a este ordenamiento; determinar en cantidad líquida los topes del financiamiento público de conformidad a las disponibilidades presupuestales, así como el financiamiento privado, sean ambos en efectivo o en especie, a los Partidos Políticos y Candidatos, y los topes de gastos de las campañas electorales, de acuerdo a las disposiciones de este Código;
 
-XXII.- Determinar la integración de las Mesas Directivas de Casilla, realizada la insaculación del Padrón Electoral y evaluados y seleccionados a los ciudadanos que se consideren aptos y no tengan impedimento alguno para fungir como tales; así como la ubicación de las mismas;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXXIII.- Determinar los lineamientos bajo los cuales se instalarán y funcionarán las Casillas Electorales Especiales;
+XIV.- Vigilar y supervisar el cumplimiento de las obligaciones que este Código impone a los Partidos Políticos;
 
-XXIV.- Investigar por los medios legales pertinentes, los hechos relacionados con el proceso electoral y los que denuncien los Partidos Políticos por actos violatorios por parte de las Autoridades o de otros Partidos, en contra de su propaganda, candidatos o miembros; y en su caso, dar cuenta de los hechos u omisiones ilícitos a la autoridad competente;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXV.- Recabar de los Consejos Electorales Distritales y Municipales, así como de las Comisiones y Direcciones Ejecutivas, los informes y certificaciones que estime necesarios para el esclarecimiento de hechos relacionados con el proceso electoral;
+XV.- Registrar las candidaturas a Gobernador del Estado, la de los candidatos de mayoría relativa al Congreso del Estado, las listas de asignación de los candidatos a Diputados por el principio de representación proporcional y en su caso, registrar supletoriamente las candidaturas a Diputados por principio de mayoría relativa y las candidaturas a miembros de los Ayuntamientos;
 
-XXVI.- Solicitar el auxilio de la fuerza pública que sea necesaria para garantizar el desarrollo del proceso electoral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXVII.- Instalar un sistema de Información para recibir los resultados preliminares de las elecciones;
+XVI.- Aprobar el modelo y mandar a imprimir las actas de la jornada electoral y los formatos correspondientes a la documentación electoral;
 
-XXVIII.- Resolver los recursos administrativos de su competencia y turnar de manera inmediata al Tribunal Estatal Electoral aquellos que deba resolver éste, en unión de los informes que procedan y los medios de convicción que se hubieren exhibido;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXIX.- Recibir de los Consejos Distritales y Municipales Electorales, en forma respectiva, el cómputo de la elección de Gobernador, Diputados por el principio de Representación Proporcional y de Regidores a los Ayuntamientos, realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los Diputados Plurinominales y la asignación de Regidores, otorgando en todos los casos las constancias respectivas;
+XVII.- Determinar la ubicación y la integración de las mesas directivas de casilla, una vez realizada la insaculación del padrón electoral, una vez que han sido evaluados y seleccionados los ciudadanos que se consideren aptos y no tengan impedimento alguno para fungir como tales;
 
-XXX.- Revisar y aprobar en su caso, los dictámenes que rinda la Comisión de fiscalización del Financiamiento de los Partidos Políticos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXXI.- Informar al Congreso del Estado de los asuntos que sean de su competencia;
+XVIII.- Registrar y publicar por una sola vez, la plataforma electoral que por cada proceso electoral deben presentar los Partidos Políticos en los términos de este Código;
 
-XXXII.- Proponer al Poder Ejecutivo proyectos de reformas o adiciones a la legislación electoral del Estado, una vez concluido el proceso electoral y con base en las experiencias obtenidas de éste;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXXIII.- Dictar todas las resoluciones que sean necesarias y crear las comisiones que estime convenientes, para hacer efectivas las disposiciones de este ordenamiento en el ámbito de su competencia;
+XIX.- Determinar los lineamientos bajo los cuales se instalarán y funcionarán las casillas electorales especiales;
 
-XXXIV.- Expedir su reglamento interior y el de los demás Organismos Electorales, así como aquellos necesarios para el funcionamiento adecuado de sus atribuciones y los lineamientos generales bajo los cuales se desarrolle la observación electoral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXXV.- Crear las Comisiones que estime conveniente para el pleno desarrollo de sus atribuciones; y
+XX.- Investigar por los medios legales pertinentes, los hechos relacionados con el proceso electoral y los que denuncian los Partidos Políticos por actos violatorios de las autoridades o de otros Partidos, en contra de su propaganda, candidatos o miembros; y en su caso, dar cuenta de los hechos u omisiones ilícitos a las autoridades competentes;
 
-XXXVI.- Las demás que le confiere este Código y las disposiciones legales relativas.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXI.- Recabar de los Consejos Electorales Distritales, Municipales, así como de las Comisiones y Direcciones Ejecutivas, los informes y certificaciones que estime necesarios para el esclarecimiento de los hechos relacionados con el proceso electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXII.- Solicitar el auxilio de la fuerza pública que sea necesario para garantizar, el orden durante las sesiones del Consejo y la seguridad de sus integrantes; el desarrollo pacífico de los procesos electorales y los de participación ciudadana;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXIII.- Instalar un sistema de información para recibir los resultados preliminares de las elecciones;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXIV.- Resolver los recursos administrativos de su competencia y turnar de manera inmediata al Tribunal Estatal Electoral aquellos que deba resolver éste, en unión de los informes que procedan y los medios de convicción que se hubieren exhibido;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXV.- Recibir de los Consejos Distritales y Municipales electorales, en forma respectiva, el cómputo de la elección de Gobernador, Diputados por el principio de mayoría relativa y de Presidentes Municipales y Síndicos; realizar los cómputos totales, declarar la validez de las elecciones y determinar la distribución de los Diputados plurinominales y la asignación de Regidores, otorgando en todos los casos las constancias respectivas una vez que queden firmes los resultados;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXVI.- Revisar y aprobar en su caso, los dictámenes que rinda el despacho contable del Financiamiento de los Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXVII.- Informar al Congreso del Estado y al Poder Ejecutivo de los asuntos que sean de su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXVIII.- Dictar todas las resoluciones que sean necesarias para hacer efectivas las disposiciones de este ordenamiento en el ámbito de su competencia;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXIX.- Expedir su Reglamento Interior así como el de los demás Organismos Electorales, también aquellos que sean necesarios para el funcionamiento adecuado de sus atribuciones y los lineamientos generales bajo los cuales se desarrollen la observación electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXX.- Crear las Comisiones que estime conveniente para pleno desarrollo de sus atribuciones, con participación de los Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXI.- Designar previo concurso público a los Técnicos, Capacitadores y Auxiliares Electorales en general, que se requieran para realizar las funciones de apoyo que de manera específica les sean encomendadas para el proceso electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXII.- Promover y organizar los debates públicos entre candidatos, previa solicitud de los Partidos Políticos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXIII.- Registrar a los representantes de los Partidos Políticos y del Poder Ejecutivo ante el programa de resultados preliminares para el día de la elección;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXIV.- Proveer lo necesario a fin de que los funcionarios de casilla, así como los representantes de Partido, reciban alimentación durante el día de la elección, desde su apertura hasta su cierre;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXV.- Aprobar los Programas Anuales de las Direcciones Ejecutivas y de la Secretaría del Instituto, así como los dictámenes que presenten las respectivas Comisiones sobre el cumplimiento de los mismos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXVI.- La remoción del Secretario Ejecutivo y de los Directores Ejecutivos, sólo procederá por el voto unánime de los consejeros electorales; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXVII.- Las demás que le confiere este Código y las disposiciones legales relativas.
 
 ### CAPITULO IV. DE LOS CONSEJEROS ELECTORALES
 
@@ -1061,17 +1315,25 @@ I.- Tener la representación legal del Instituto Estatal Electoral;
 
 II.- Remitir oportunamente al Titular del Poder Ejecutivo, el anteproyecto de Presupuesto de Egresos del Instituto, una vez aprobado por el Consejo Estatal Electoral;
 
-III.- Vigilar el ejercicio del Presupuesto de Egresos asignado al Instituto;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-IV.- Suscribir, junto con el Secretario Ejecutivo, los convenios que sean necesarios con el Instituto Federal Electoral y con las demás Autoridades de cualquier otro orden de gobierno que se requieran para el cumplimiento de las atribuciones del Instituto;
+III.- Vigilar el ejercicio del presupuesto de egresos asignado al Instituto y presentar al Consejo Estatal Electoral un informe trimestral de los ingresos y egresos del mismo, que deberá contener la información del gasto programado y ejercido por cada una de las partidas autorizadas;
 
-V.- Proponer al Consejo Estatal Electoral la terna de los candidatos a Secretario Ejecutivo del Consejo Estatal Electoral; el nombramiento de Consejero Presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales Electorales; así como de los servidores públicos que integren el Servicio Profesional Electoral;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+IV.- Suscribir, junto con el Secretario Ejecutivo, los convenios que sean necesarios con el Instituto Federal Electoral y otras autoridades de cualquier orden de Gobierno, que se requieran para cumplimiento de las atribuciones del Instituto, previa autorización del Consejo Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+V.- Proponer al Consejo Estatal Electoral la terna de los candidatos a Secretario Ejecutivo y Directores Ejecutivos del Consejo Estatal Electoral; el nombramiento del Consejero presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales Electorales; así como de los servidores públicos que integren el Servicio Profesional Electoral;
 
 VI.- Convocar en tiempo a los Partidos Políticos, para que nombren a sus representantes a efecto de integrar debidamente, en los términos de este Código, el Consejo Estatal Electoral;
 
 VII.- Determinar y presidir las sesiones ordinarias o extraordinarias del Consejo y convocar a sus miembros a través del Secretario Ejecutivo;
 
-VIII.- Remitir para su publicación en el Periódico Oficial del Gobierno del Estado:
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VIII.- Remitir para su publicación en el Periódico Oficial "Tierra y Libertad" órgano del Gobierno del Estado:
 
 a) la integración de los Consejos Distritales y Municipales Electorales;
 
@@ -1081,7 +1343,17 @@ c) la resolución que autorice la sustitución de Candidatos, conforme a lo disp
 
 d) la relación completa de candidatos registrados por los Partidos Políticos, para la elección que corresponda, debiendo, en éste último caso, publicarse también en uno de los diarios de mayor circulación de la Entidad;
 
-IX.- Garantizar el orden durante las sesiones del Consejo Estatal Electoral, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico de la jornada electoral, pudiendo solicitar el auxilio de la fuerza pública en caso necesario;
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+e) La convocatoria para las elecciones ordinarias y extraordinarias en su caso;
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+f) La relación de los Diputados electos que integran la nueva Legislatura local, así como a los integrantes de los Ayuntamientos; debiéndose publicar también en uno de los diarios de mayor circulación en la Entidad;
+
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+IX.- Garantizar el orden durante las sesiones del Consejo Estatal Electoral, así como la seguridad de sus integrantes y vigilar el desarrollo pacífico del proceso electoral y de los demás procesos de participación ciudadana, pudiendo solicitar en su caso, el auxilio de la fuerza pública;
 
 X.- Someter a la consideración del Consejo Estatal Electoral, las solicitudes de registro de candidatos a Gobernador del Estado y las de candidatos a Diputados por el principio de representación proporcional, así como las de Regidores;
 
@@ -1091,9 +1363,11 @@ XII.- Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo; y
 
 XIII.- Las demás que señale este ordenamiento o el Consejo Estatal Electoral le asigne.
 
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
 ###### ARTICULO 92.
 
-La retribución que perciban el Consejero Presidente y los Consejeros Electorales será la prevista en el Presupuesto de Egresos del Gobierno del Estado.
+La retribución que perciban los miembros del Consejo Estatal Electoral será la prevista en el Presupuesto de Egresos del Gobierno del Estado.
 
 ### CAPITULO V. DEL SECRETARIO EJECUTIVO
 
@@ -1107,11 +1381,15 @@ II.- Solicitar por acuerdo de la mayoría, al Consejero Presidente, convoque por
 
 III.- Formar parte de las comisiones que integre el Consejo, siempre que éste así lo decida y no represente incompatibilidad de funciones, afecte su imparcialidad o entorpezca el ejercicio expedito de su cargo;
 
-IV. Vigilar y supervisar el buen funcionamiento de los organismos del Instituto;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+IV. Vigilar y supervisar el buen funcionamiento de los organismos del Instituto, conforme al Reglamento Interior del Instituto Estatal Electoral;
 
 V.- Desempeñar las funciones que le encomiende el Consejo Estatal Electoral; y
 
-VI. Las demás que señale este ordenamiento.
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+VI.- Las demás que señalen este Ordenamiento y el Reglamento Interior del Instituto Estatal Electoral.
 
 ### CAPITULO VI. DE LAS DIRECCIONES EJECUTIVAS
 
@@ -1149,7 +1427,9 @@ II.- Convocar, previo acuerdo del Consejero Presidente a las sesiones ordinarias
 
 III.- Actuar en las sesiones con el carácter de Secretario, teniendo derecho de voz en ellas; preparar el Orden del Día de todas las sesiones del Consejo, declarar la existencia del quórum legal para sesionar, dar fe de todo lo actuado en ellas, levantar las actas correspondientes y autorizarlas conjuntamente con el Presidente;
 
-IV. Auxiliar al Consejo Estatal y a su Presidente en el Ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+IV. Auxiliar al Consejo Estatal, al Consejero Presidente y a los Consejeros Electorales en el ejercicio de sus atribuciones;
 
 V.- Dar cuenta al Consejo de los proyectos de dictamen o resolución de las Comisiones y coordinar el trabajo en las mismas;
 
@@ -1161,7 +1441,9 @@ VIII.- Difundir la estadística electoral seccional, municipal, distrital y esta
 
 IX.- Presentar al Consejero Presidente, para la aprobación del Consejo Estatal Electoral, los proyectos de convenios que pueda celebrar con Autoridades Federales, en relación con la información y documentos que habría de aportar el Registro Federal de Electores para los procesos locales, así como también, aquéllos que pueda celebrar con Instituciones Académicas para impartir cursos de formación, capacitación y actualización, para los integrantes de las Mesas Directivas de Casilla en cada proceso electoral y para aspirantes y miembros titulares del Servicio Profesional Electoral, según sea el caso;
 
-X.- Ejercer las facultades y cumplir las obligaciones que al Instituto Electoral correspondan en los Convenios que celebre con el Instituto Federal Electoral y las demás Autoridades de cualquier orden de gobierno;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+X.- Ejercer las facultades y cumplir las obligaciones que al Instituto Estatal Electoral correspondan en los convenios que en materia Electoral celebre con el Instituto Federal Electoral, con otros Institutos Estatales Electorales y las demás autoridades de cualquier orden de gobierno;
 
 XI.- Recibir de los Partidos Políticos las solicitudes de registro de candidatos y someterlas al Consejero Presidente para su registro; previa sanción del pleno;
 
@@ -1169,15 +1451,21 @@ XII.- Informar por la vía de comunicación más expedita, a los Consejeros Dist
 
 XIII.- Supervisar el cumplimiento de las normas aplicables a los Partidos Políticos y sus prerrogativas;
 
-XIV.- Preparar los proyectos de documentación y materiales electorales, incluidos los formatos de cada una de las actas que se vayan a utilizar para la jornada electoral y ejecutar los acuerdos del Consejo, relativos a su impresión y distribución;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XIV.- Preparar los proyectos de documentación y materiales electorales, incluidos los formatos de cada una de las actas que se vayan a utilizar para la jornada electoral y ejecutar los acuerdos del Consejo relativos a su impresión y distribución, así como los necesarios para los procesos de participación ciudadana;
 
 XV.- Recabar de los Consejos Distritales y Municipales Electorales, copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
 
-XVI.- Instalar por acuerdo del Consejo Estatal Electoral, el Sistema de Información para recibir los resultados preliminares de las elecciones, que incluya el mecanismo para la difusión inmediata de los mismos y administrarlo;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XVI.- Instalar por acuerdo del Consejo Estatal Electoral, el sistema de información para recibir los resultados preliminares de las elecciones, que incluya los mecanismos para la difusión inmediata de los mismos y la forma de administrar el sistema, y podrá, si procediere, instalarlos en los procesos de participación ciudadana;
 
 XVII.- Integrar los expedientes con la documentación necesaria a fin de que el Consejo Estatal Electoral efectúe los cómputos y realice la declaración de validez, así como expedir las constancias que, conforme a este Código deba realizar el Consejo;
 
-XVIII.- Preparar, para la aprobación del Consejo, el proyecto de calendario para las elecciones extraordinarias, cuando éstas deban celebrarse;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XVIII.- Preparar para la aprobación del consejo, los proyectos de calendario para las elecciones ordinarias, extraordinarias o procedimientos de participación ciudadana, cuando éstos deban celebrarse;
 
 XIX.- Recibir y sustanciar los recursos que deba resolver el Consejo Estatal Electoral, informándole sobre los mismos en su sesión inmediata y preparar el proyecto de resolución correspondiente;
 
@@ -1185,17 +1473,23 @@ XX.- Sustanciar el procedimiento de pérdida del registro de los Partidos Polít
 
 XXI.- Informar al Consejo de las resoluciones que le competa cumplimentar, dictadas por el Tribunal Estatal Electoral;
 
-XXII.- Llevar la administración y finanzas de Instituto Estatal Electoral;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+XXII.- Llevar la administración y finanzas del Instituto Estatal Electoral, con estricto apego a las partidas presupuestales aprobadas por el Consejo Estatal Electoral;
 
 XXIII.- Someter a la consideración del Consejero Presidente, el anteproyecto anual de Presupuesto de Egresos del Instituto Estatal Electoral;
 
 XXIV.- Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
 
-XXV.- Previo acuerdo del Consejero Presidente, designar o remover a los Directores Ejecutivos, nombrando al personal que requiera el Instituto y autorice el Presupuesto de Egresos, dirigiendo y coordinando sus funciones;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+XXV.- Dar cumplimiento a los acuerdos del Consejo Estatal Electoral respecto a la designación o remoción de los Directores Ejecutivos o del personal de servicio profesional electoral del Instituto, así como vigilar, dirigir y coordinar las funciones del personal del Instituto;
 
 XXVI.- Proponer al Consejo Estatal Electoral las bases para la organización del Servicio Profesional Electoral;
 
-XXVII.- Elaborar las propuestas de los servidores públicos del Servicio Profesional Electoral, así como de los miembros ciudadanos de la Comisión de Fiscalización del Financiamiento de los Partidos Políticos y de las Comisiones que apruebe el Consejo;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXVII.- Elaborar las propuestas de los servidores públicos del Servicio Profesional Electoral, así como de las Comisiones que apruebe el Consejo;
 
 XXVIII.- Llevar el Archivo del Instituto Estatal Electoral;
 
@@ -1205,13 +1499,27 @@ XXX.- Llevar el registro de los representantes de los Partidos Políticos acredi
 
 XXXI.- Expedir copias certificadas de las constancias que obren en los archivos del Instituto;
 
-XXXII.- Coordinar y supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXII.- Coordinar y supervisar el cumplimiento de los programas y actividades del Instituto;
 
 XXXIII.- Proveer lo necesario a fin de que se hagan oportunamente, las publicaciones que ordena este Código y las que disponga el Consejo Estatal Electoral;
 
-XXXIV.- Elaborar las propuestas de ciudadanos para los cargos de Consejero Presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XXXV.- Las demás que señale este Código o le asigne el Consejero Presidente o el Consejo Estatal Electoral.
+XXXIV.- Preparar la documentación relativa a las propuestas de ciudadanos para los cargos de Consejero Presidente, Consejeros Electorales y Secretario de los Consejos Distritales y Municipales;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XXXV.- Presentar para la aprobación del Consejo Estatal Electoral los programas anuales de las Direcciones Ejecutivas y demás actividades a desarrollar por el Instituto;
+
+(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+XXXVI.- Informar a los distintos Órganos y Direcciones del Instituto sobre los acuerdos adoptados por el Consejo para su conocimiento general; y
+
+(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+XXXVII.- Las demás que señale este Código, le asigne el consejero presidente o el Consejo Estatal Electoral.
 
 ### CAPITULO VII. DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
@@ -1225,9 +1533,11 @@ II.- Dirección Ejecutiva de Capacitación y Educación Cívica; y
 
 III.- Dirección Ejecutiva de Administración y Financiamiento.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 98.
 
-Al frente de cada una de las direcciones habrá un director que será nombrado por acuerdo del Consejero Presidente.
+Al frente de cada una de las direcciones habrá un Director que será nombrado por acuerdo del Consejo Estatal Electoral, conforme a lo dispuesto por este Código.
 
 ###### ARTICULO 99.
 
@@ -1239,19 +1549,29 @@ Son atribuciones de la Dirección Ejecutiva de Organización y Partidos Polític
 
 I.- Apoyar la integración, instalación y funcionamiento de los Consejos Distritales y Municipales electorales;
 
-II.- Elaborar los formatos de la documentación electoral para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-III.- Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
+II.- Elaborar los formatos de los materiales electorales y de los procesos de participación ciudadana, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+III.- Proveer lo necesario para la impresión y distribución de la documentación y materiales electorales en los plazos establecidos por este Código, así como los necesarios para los procesos de participación ciudadana, para someterlos por conducto del Secretario Ejecutivo a la aprobación del Consejo Estatal;
 
 IV.- Recabar de los Consejos Distritales y Municipales Electorales copias de las actas de sus sesiones y demás documentos relacionados con el proceso electoral;
 
 V.- Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo Estatal efectúe los cómputos que conforme a este código debe realizar;
 
-VI.- Llevar la estadística de las elecciones estatales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-VII.- Conocer de las solicitudes que formulen las organizaciones que pretendan constituirse como Partidos Políticos Estatales y realizar las funciones correspondientes;
+VI.- Llevar la estadística de las elecciones estatales, así como de los procesos de participación ciudadana;
 
-VIII.- Inscribir en el libro respectivo, el registro de Partidos, así como los convenios de coalición y fusión;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VII.- Registrar y turnar al Consejo Estatal Electoral las solicitudes que formulen los ciudadanos que pretendan constituir Partidos Políticos Estatales, y realizar las funciones correspondientes;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VIII.- Inscribir en el libro respectivo, el registro de los Partidos Políticos, así como los convenios de coaliciones y fusiones;
 
 IX.- Autorizar y vigilar las ministraciones que por financiamiento público correspondan a los Partidos Políticos con registro, en los términos previstos en este Código y el Presupuesto de Egresos respectivo;
 
@@ -1263,13 +1583,25 @@ XII.- Llevar los libros de registro de los candidatos a puestos de elección pop
 
 XIII.- Acordar con el Secretario Ejecutivo los asuntos de su competencia; y
 
-XIV.- Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal Electoral.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XIV.- Presentar al Consejo Estatal Electoral, a través de la Secretaría Ejecutiva, su programa anual de actividades;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XV.- Coadyuvar en la renovación de las autoridades auxiliares municipales y recabar toda la información necesaria relativa a las mismas, en términos de lo dispuesto por la Ley Orgánica Municipal.
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XVI.- Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal Electoral.
 
 ###### ARTICULO 101.
 
 Son atribuciones de la Dirección Ejecutiva de Capacitación y Educación Cívica las siguientes:
 
-I.- Elaborar y proponer los programas de educación cívica y capacitación electoral que desarrollen los órganos del Instituto;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+I.- Elaborar y proponer al Consejo Estatal Electoral los programas de educación cívica y capacitación electoral que desarrollen los órganos del Instituto, los cuales deberán estar contenidos en su programa anual de actividades;
 
 II.- Coordinar y vigilar el cumplimiento de los programas a que se refiere la fracción anterior;
 
@@ -1291,13 +1623,17 @@ I.- Aplicar las políticas, normas y procedimientos para la administración de l
 
 II.- Organizar, dirigir y controlar la administración de los recursos humanos, materiales y financieros, así como la prestación de los servicios generales en el Instituto;
 
-III.- Formular el anteproyecto anual del presupuesto del Instituto;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+III.- Formular el anteproyecto anual del presupuesto del Instituto, conforme a lo señalado por el Artículo 90 fracción V de este Código;
 
 IV.- Establecer y operar los sistemas administrativos para el ejercicio y control presupuestales;
 
 V.- Atender las necesidades administrativas de los órganos del Instituto;
 
-VI.- Llevar a cabo los programas de reclutamiento, selección, formación y desarrollo del personal profesional;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+VI.- Llevar a cabo los programas que presentará el Secretario Ejecutivo, para la aprobación del Consejo Estatal Electoral, de reclutamiento, formación y desarrollo profesional del personal;
 
 VII.- Cumplir y hacer cumplir las normas y procedimientos del servicio electoral profesional;
 
@@ -1305,15 +1641,33 @@ VIII.- Ejercer y aplicar el presupuesto de egresos del Instituto;
 
 IX.- Suministrar a los Partidos Políticos el financiamiento público al que tengan derecho conforme a este Código;
 
-X.- Llevar a cabo los trámites necesarios para que los Partidos Políticos puedan acceder a las prerrogativas y financiamiento público señaladas en este Código;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XI.- Llevar los informes de finanzas y recursos que presenten los Partidos Políticos y presentarlos al Consejo para los efectos conducentes;
+X.- Recibir de los Partidos Políticos sus informes financieros, mismos que hará del conocimiento del Consejo (sic) los efectos conducentes;
 
-XII.- Elaborar los reglamentos a que se refiere este Código, así como los manuales de organización y procedimientos;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-XIII.- Elaborar el manual de procedimientos que deberán observar los Partidos Políticos en la presentación de sus informes del uso del financiamiento público; y
+XI.- Llevar a cabo los trámites necesarios para que los Partidos Políticos puedan acceder a las prerrogativas y financiamiento público señaladas en este Código;
 
-XIV.- Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal Electoral.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XII.- Llevar el resguardo de los informes de finanzas y recursos de los Partidos Políticos y presentarlos al Consejo para los efectos conducentes;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XIII.- Preparar los reglamentos a que se refiere este Código, así como los manuales de organización y procedimientos;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XIV.- Elaborar el manual de procedimientos que deberán observar los Partidos Políticos en la presentación de sus informes del uso del financiamiento público;
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XV.- Elaborar y proponer al Consejo Estatal Electoral, a través de la Secretaría Ejecutiva, su programa anual de actividades; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+XVI.- Las demás que le confiera este Código, el Consejero Presidente o el Consejo Estatal Electoral.
 
 ### CAPITULO VIII. ATRIBUCIONES DE LOS PRESIDENTES Y SECRETARIOS DE LOS CONSEJOS DISTRITALES Y MUNICIPALES ELECTORALES
 
@@ -1321,9 +1675,11 @@ XIV.- Las demás que le confiera este Código, el Consejero Presidente o el Cons
 
 La coordinación, desarrollo y vigilancia de los procesos electorales ordinarios y en su caso, de los extraordinarios, de los Distritos Uninominales y de los Municipios corresponderá, en forma respectiva, a los Consejos Distritales y Municipales. Dichos órganos tendrán carácter transitorio y dependerán del Consejo Estatal Electoral.
 
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
 ###### ARTICULO 104
 
-En proceso ordinario de elecciones, los Consejos Distritales y Municipales Electorales deberán estar integrados e instalados dentro de los primeros 15 días del sexto mes previo al mes de la elección; residirán en cada una de las cabeceras distritales y municipales, respectivamente, integrándose de la siguiente forma:
+En el proceso ordinario de elecciones los Consejos Municipales Electorales deberán estar integrados e instalados dentro de los primeros quince días del sexto mes previo al mes de la elección. Los Consejos Distritales se integrarán e instalarán a más tardar un mes antes del día de la elección; en tanto se instalen los Consejos Distritales, los Consejos Municipales tendrán a su cargo las labores correspondientes a los Distritales, ambos recidirán (sic) en cada una de las cabeceras Distritales y Municipales, respectivamente, integrándose de la siguiente forma:
 
 I.- Por un Consejero Presidente con derecho a voz y voto designado por el Consejo Estatal Electoral;
 
@@ -1337,17 +1693,21 @@ IV.- Por un representante de cada uno de los Partidos Políticos con registro, c
 
 Los Consejeros Electorales de los Consejos Distritales y Municipales deberán satisfacer los mismos requisitos que este Código exige para los consejeros electorales del Consejo Estatal, excepto el de residencia que se entenderá referido al Distrito o Municipio de que se trate.
 
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
 ###### ARTICULO 106.
 
-Las sesiones de los Consejos Distritales y Municipales, serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los Consejeros y representantes que asistan, entre los que deberá estar el Consejero Presidente. Sus resoluciones se tomarán por mayoría simple de los presentes, excepto lo que por disposición de la Constitución Política del Estado de Morelos o de este Código, requieran de mayoría calificada.
+Las sesiones de los Consejos Distritales Municipales, serán válidas con la asistencia de más de la mitad de sus integrantes, a primera convocatoria; en caso de no reunirse la mayoría, la sesión tendrá lugar dentro de las 24 horas siguientes, con los Consejeros y representantes que asistan. Sus resoluciones se tomarán por mayoría simple de los presentes, excepto lo que por disposición de la Constitución Política del Estado de Morelos o de este Código, requieran de mayoría calificada.
 
 ###### ARTICULO 107.
 
 Las convocatorias a sesiones de los Consejos Distritales o Municipales, que formule el Consejero Presidente a través de su respectivo Secretario, serán hechas por escrito a los integrantes del Consejo.
 
+(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
 ###### ARTICULO 108.
 
-Integrados los Consejos Distritales y Municipales, éstos sesionarán en forma ordinaria o extraordinaria. Las sesiones ordinarias se celebrarán por lo menos dos veces al mes y en forma extraordinaria cuantas veces sea necesario a juicio del Consejero Presidente y hasta la conclusión de los procesos electorales. Las sesiones tendrán carácter público, pudiendo ser privadas previo acuerdo del Consejo de que se trate.
+Integrados los Consejos Distritales y Municipales, éstos sesionarán en forma ordinaria o extraordinaria. Las sesiones ordinarias se celebrarán por lo menos dos veces al mes y en forma de extraordinaria por acuerdo del Consejo cuantas veces sea necesario y hasta la conclusión de los procesos electorales. Las sesiones tendrán carácter público, pudiendo ser privadas previo acuerdo del Consejo de que se trate.
 
 Durante los procesos electorales, ordinarios o extraordinarios, todos los días y horas se consideran hábiles.
 
@@ -1373,7 +1733,9 @@ VIII.- Resolver sobre las peticiones y consultas que sometan a su consideración
 
 IX.- Realizar el cómputo de la elección de Diputados por el principio de mayoría relativa y entregar las constancias de mayoría a los candidatos triunfadores; realizar el cómputo de los Diputados por el principio de representación proporcional y de Gobernador en el Distrito y remitir los resultados y los expedientes respectivos al Consejo Estatal Electoral;
 
-X.- Turnar de inmediato al Consejo Estatal Electoral, los recursos de inconformidad que interpongan los Partidos Políticos; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+X.- Remitir de inmediato al Tribunal Estatal Electoral, los recursos de inconformidad que interpongan los Partidos Políticos; informando al Consejo Estatal Electoral; y
 
 XI.- Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
 
@@ -1387,17 +1749,33 @@ II.- Determinar la ubicación de las Mesas Directivas de Casilla y difundirla, j
 
 III.- Coordinar y supervisar al personal administrativo eventual que coadyuve en las tareas del proceso electoral;
 
-IV.- Entregar a los Presidentes de las Mesas Directivas de Casillas la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-V.- Fijar la lista nominal de electores, durante el tiempo establecido para su exhibición, en el lugar determinado para la ubicación de la casilla, a efecto de facilitar al ciudadano de su adscripción, el conocimiento del lugar donde le corresponde votar;
+IV.- Entregar dentro de los plazos que establezca el código, a los presidentes de las mesas directivas de casillas la documentación, formas aprobadas y útiles necesarios para el cumplimiento de sus funciones;
+
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+V.- Fijar la lista nominal de electores, durante el tiempo establecido para su exhibición en los lugares señalados en el artículo 156 del Código Federal de Instituciones y Procedimientos Electorales y la lista de ubicación de casillas, en el lugar determinado para la ubicación de la casilla, a efecto de facilitar al ciudadano de su adscripción, el conocimiento del lugar donde le corresponde votar;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 VI.- Realizar el cómputo de la elección de Ayuntamientos por el principio de mayoría relativa y entregar las constancias respectivas, remitiendo al Consejo Estatal Electoral, los cómputos y los expedientes respectivos para la asignación de Regidores y la entrega de constancias respectivas;
 
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 VII.- Resolver sobre las peticiones y consultas que sometan a su consideración los candidatos y los Partidos Políticos relativas a la integración y funcionamiento de las Mesas Directivas de Casilla, al desarrollo del proceso electoral y demás asuntos de su competencia;
 
-VIII.- Las señaladas en las fracciones I, II, IV, V, VI y X del artículo anterior; y
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
-IX.- Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
+VIII.- Las señaladas en las fracciones I, II, IV, V, VI y X del artículo anterior;
+
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+IX.- Asumir las atribuciones de los Consejos Distritales, en aquellos Municipios cuya cabecera sea además cabecera de distrito, en tanto éste no se instale; y
+
+> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+X.- Las demás que este ordenamiento les confiere o le asigne el Consejo Estatal Electoral.
 
 ### CAPITULO IX. DE LAS MESAS DIRECTIVAS DE CASILLA
 
@@ -1413,7 +1791,9 @@ III.- Dar cuenta al Secretario Ejecutivo del Instituto, del desarrollo de las el
 
 IV.- Coordinar y garantizar la entrega de la documentación y útiles necesarios para el debido cumplimiento de sus funciones;
 
-V.- Entregar las constancias a los candidatos a Diputados de mayoría relativa que hayan resultado triunfadores y remitir los resultados de los cómputos realizados en el ámbito de su competencia y la documentación relativa al Consejo Estatal Electoral; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+V.- Una vez que haya quedado firme la declaración de validez del resultado electoral, entregar las constancias a los candidatos a Diputados de mayoría relativa que hayan resultado triunfadores y remitir los resultados de los cómputos realizados en el ámbito de su competencia y la documentación relativa al Consejo Estatal Electoral. Una vez conocido el fallo emitido por el Tribunal Electoral, deberá ser el propio Consejo Distrital quien expida la constancia correspondiente; y
 
 VI.- Las demás que le señale este Código o le asigne el Consejo Estatal Electoral.
 
@@ -1423,7 +1803,13 @@ Corresponde al Presidente del Consejo Municipal Electoral:
 
 I.- Recibir las solicitudes de las planillas y listas de candidatos al Ayuntamiento respectivo y notificarlas al Secretario Ejecutivo del Consejo Estatal Electoral;
 
-II.- Expedir la constancia a los candidatos para Presidente y Síndico del Ayuntamiento que hayan obtenido mayoría de votos conforme al cómputo y declaración de validez del Consejo Municipal y remitir los cómputos y los expedientes respectivos al Consejo Estatal Electoral para la asignación y entrega de constancias de Regidores a los Ayuntamientos;
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+II.- Expedir la constancia a los candidatos para Presidente y Síndico del Ayuntamiento que hayan obtenido mayoría de votos conforme al cómputo y declaración de validez del Consejo Municipal, una vez que ésta haya quedado firme y definitiva. En caso de impugnación deberá remitir los cómputos y los expedientes respectivos al Tribunal Electoral.
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+Una vez conocido el fallo emitido por el Tribunal Electoral, deberá ser el propio Consejo Municipal quien expida la constancia correspondiente;
 
 III.- Dar a conocer mediante avisos colocados en el exterior del local del Consejo Municipal respectivo, los resultados de los cómputos municipales;
 
@@ -1455,11 +1841,25 @@ VII.- Las demás que le señale este Código.
 
 Las Mesas Directivas de Casilla son los órganos electorales integrados por ciudadanos facultados para recibir la votación, realizar el escrutinio y cómputo del sufragio en cada una de las casillas ubicadas en las distintas secciones de los Distritos electorales y los Municipios del Estado.
 
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Las mesas directivas de casillas deberán integrarse en forma independiente, autónoma y separada para la elección federal y local.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Para tal efecto se podrá convenir con el Instituto Federal Electoral un procedimiento único de identificación del elector.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+El domicilio de ubicación de casilla debe ser el mismo para la elección federal y la local, mediante convenio entre el Instituto Federal Electoral y el Instituto Estatal Electoral.
+
 ###### ARTICULO 115.
 
 Las Mesas Directivas de Casilla estarán integradas por ciudadanos residentes en la sección respectiva, en ejercicio de sus derechos políticos, de reconocida probidad, que tengan un modo honesto de vivir y los conocimientos suficientes para el desempeño de sus funciones.
 
-Se integrarán con un Presidente, un Secretario, así como de dos escrutadores, todos con sus respectivos suplentes, designados por insaculación por el Consejo Estatal Electoral.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+Se integrarán por un Presidente, un Secretario y por dos Escrutadores, así como dos suplentes generales que actuarán en caso de faltar alguno de los propietarios, que serán designados por insaculación por el Consejo Estatal Electoral; asegurando de que no se repita con la insaculación del Órgano Federal Electoral.
 
 El Consejo Estatal Electoral, a través del Secretario Ejecutivo, tomará las medidas necesarias, a fin de que los ciudadanos designados para integrar las Mesas Directivas de Casilla reciban con la anticipación debida, la capacitación necesaria para el desempeño de sus tareas.
 
@@ -1739,7 +2139,9 @@ Las Autoridades Estatales o Municipales están obligadas a proporcionar sin demo
 
 Los tres días anteriores al de la elección y éste inclusive, los Jueces de Paz de los Municipios, los Síndicos que actúen como auxiliares del Ministerio Público, los Juzgados de Primera Instancia y Menores, los Notarios Públicos en ejercicio, así como las Agencias del Ministerio Público mantendrán abiertas sus oficinas para atender las solicitudes que les hagan los funcionarios de casilla, los ciudadanos y los representantes de los Partidos Políticos, para dar fe de los hechos, o practicar diligencias concernientes a la elección. En el caso de los Notarios Públicos, sus servicios serán gratuitos.
 
-Para dar cumplimiento a esta disposición, el Consejo Estatal Electoral publicará, cinco días antes del día de la elección, los nombres de las Autoridades o fedatarios antes citados, así como la ubicación de sus respectivas oficinas.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Para dar cumplimiento a esta disposición, el Consejo Estatal Electoral publicará, en un diario de mayor circulación o bien mediante circulares u oficios en las casillas o cualquier otro medio de difusión, cinco días antes del día de la elección, los nombres de las Autoridades o Fedatarios antes citados, así como la ubicación de sus respectivas oficinas.
 
 ###### ARTICULO 147.
 
@@ -1785,7 +2187,9 @@ C).- Para los topes de campaña de la elección de Ayuntamientos, se dividirá e
 
 El costo mínimo de campaña a que se refieren los incisos anteriores, en ningún caso podrá ser inferior a la cantidad de cinco pesos por cada elector inscrito en el padrón de electores.
 
-La Comisión de Fiscalización de los recursos de los Partidos Políticos, tendrá la obligación de verificar que lo preceptuado en el artículo anterior se cumpla y deberá informar al Consejo Estatal Electoral de cualquier irregularidad, para que proceda conforme a derecho.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+El despacho contable tendrá la obligación de verificar que lo preceptuado en el artículo anterior se cumpla y deberá informar al Consejo Estatal Electoral de cualquier irregularidad, para que proceda conforme a derecho.
 
 ###### ARTICULO 150.
 
@@ -1815,17 +2219,51 @@ Cualquier infracción a las disposiciones contenidas en el presente Código, ser
 
 El procedimiento para designar a los integrantes de la Mesa Directiva de Casilla, se sujetará a lo siguiente:
 
-I.- El Secretario Ejecutivo del Consejo Estatal Electoral, solicitará al Registro Federal de Electores, seis meses antes del mes de la elección, el número de empadronados por cada sección y Municipio, en caso de no obtenerse en estos términos la información, el Consejo Estatal determinará las secciones electorales en el Estado, por Distrito y por Municipio;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-II.- Una vez recibida la información del número de empadronados en las secciones comprendidas en cada Municipio y Distrito Electoral, el Consejo Estatal sesionará para determinar, por insaculación del padrón electoral, a Presidentes, Secretarios y Escrutadores, propietarios y suplentes, de cada una de las Mesas de Casilla;
+I.- El Secretario Ejecutivo del Consejo Estatal Electoral, solicitará al Registro Federal de Electores, a más tardar el 25 de marzo anterior a la elección, la lista nominal de electores por cada sección y municipio, en caso de no obtenerse en estos términos la información, el Consejo Estatal acordará lo conducente;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+II.- Una vez recibida la información del número de empadronados en las secciones comprendidas en cada municipio y distrito electoral, el Consejo Estatal sesionará para determinar, por insaculación del listado nominal, a presidentes, secretario y escrutadores, propietarios y suplentes generales, de cada una de las mesas de casilla, insaculando el número suficiente de ciudadanos, con el fin de elegir a los que reúnan el perfil;
 
 III.- Los Consejeros tendrán 5 días a partir de la sesión mencionada en la fracción anterior, para evaluar y conocer de objeciones o de impedimentos y seleccionar de entre dichos ciudadanos a los que resulten aptos, con el apoyo de las Direcciones Ejecutivas del Instituto que sean competentes; aprobando las designaciones respectivas en la siguiente sesión; y
 
-IV.- Durante el antepenúltimo mes de la elección, todos los ciudadanos insaculados conforme a la fracción IV de este artículo, deberán recibir la capacitación correspondiente de acuerdo al calendario que para tal efecto apruebe el Consejo Estatal Electoral, en coordinación con los respectivos Consejos Distritales y Municipales Electorales.
+(REFORMADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+IV.- Durante el antepenúltimo mes de la elección, todos los ciudadanos insaculados conforme a la fracción II de este artículo, deberán recibir la capacitación correspondiente de acuerdo al calendario que para tal efecto apruebe el Consejo Estatal Electoral, en coordinación con los respectivos Consejos Distritales y Municipales Electorales.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+ARTICULO 153 bis.- En toda sección electoral por cada 750 electores o fracción se instalará una casilla para recibir la votación de los ciudadanos residentes en la misma, de ser dos o más casillas, se colocarán en forma contigua y se dividirá la lista nominal de electores en orden alfabético.
+
+Cuando el crecimiento demográfico de las secciones lo exija, se estará a lo siguiente:
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+A) En caso de que el número de ciudadanos inscritos en la lista nominal de electores correspondiente a una sección sea superior a 1,500 electores, se instalarán en un mismo sitio o local tantas casillas como resulte de dividir alfabéticamente el número de ciudadanos inscritos en la lista entre 750, procurando queden en cada casilla todos los inscritos en la última letra en que se divida; y
+
+B) No existiendo un local que permita la instalación en un mismo sitio de las casillas necesarias, se ubicaran éstas en lugares diversos atendiendo a la concentración y distribución de los electores en la sección.
+
+Cuando las condiciones geográficas de una sección hagan difícil el acceso de la mayoría de los electores residentes en ella a un mismo sitio, podrá acordarse la instalación de una o varias casillas en lugares que ofrezcan un fácil acceso a los electores. Si técnicamente fuese posible, se deberá elaborar el listado nominal conteniendo únicamente los nombres de los ciudadanos que habitan en la zona geográfica donde se instalen dichas casillas.
+
+En cada casilla deberán instalarse mamparas donde los votantes pueden decidir el sentido de sufragio. El diseño y ubicación de estas mamparas en las casillas se hará de manera que garantice plenamente el secreto del voto.
+
+Estos criterios serán validos en todos sus términos siempre y cuando no contravenga lo dispuesto en el párrafo tercero del artículo 114 del presente Código.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 154.
 
-Las Casillas electorales deberán ubicarse en lugares que hagan posible el fácil y libre acceso de los electores y permitan la emisión secreta del sufragio, podrán ubicarse previo consenso de los integrantes de las Mesas Directivas y de los representantes, en otro lugar siempre y cuando reúnan los anteriores requisitos y no sea casa habitada por servidor público, Ministro de culto de cualquier religión o dirigente de algún Partido, en ningún caso las Casillas se ubicarán en establecimientos fabriles, iglesias o locales de Partidos Políticos.
+Las casillas electorales deberán ubicarse en lugares que hagan posible el fácil y libre acceso de los electores y permitan la emisión secreta del sufragio, podrán ubicarse previo consenso de los integrantes de las mesas directivas y de los representantes, en otro lugar siempre y cuando se encuentre dentro de la misma sección electoral, reúnan los anteriores requisitos y no sean casa habitada por servidor público, ministro de culto de cualquier religión o dirigente de algún partido, procurándose sea en lugar cercano al originalmente señalado.
+
+En ningún caso las casillas se ubicarán en establecimientos fabriles, iglesias o locales de Partidos Políticos.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+ARTICULO 154 bis.- El Consejo Estatal Electoral, determinará la instalación de casillas especiales para la recepción del voto de los electores que se encuentran en tránsito fuera del municipio o distrito correspondiente a su domicilio.
+
+Para la integración de la mesa directiva y ubicación de las casillas especiales, se aplicarán las reglas establecidas en el presente capítulo.
 
 ###### ARTICULO 155.
 
@@ -1941,6 +2379,8 @@ El Consejo Municipal, conservará la copia del nombramiento y devolverá el orig
 
 ### CAPITULO I. DE LA INSTALACION Y APERTURA DE CASILLAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 164.
 
 Para la emisión del voto, el Consejo Estatal Electoral, tomando en cuenta las medidas de certeza que estime pertinentes, aprobará el modelo de boleta electoral que se utilizará en la elección:
@@ -1969,9 +2409,11 @@ VII.- Los colores y emblemas de los Partidos Políticos aparecerán en la boleta
 
 VIII.- En caso de coalición los partidos políticos coaligados ocuparán un solo espacio.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 165.
 
-En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieren impresas serán corregidas en la parte relativa o sustituidas por otras, conforme acuerde el Consejo Estatal Electoral. Si no se pudiese efectuar su corrección o sustitución, los votos contarán para el Partido Político que haya tenido que hacer el cambio.
+En caso de cancelación o sustitución de uno o más candidatos, las boletas que ya estuvieren impresas serán corregidas en la parte relativa o sustituidas por otras, conforme acuerde el Consejo Estatal Electoral.
 
 ###### ARTICULO 166.
 
@@ -2027,9 +2469,11 @@ El Presidente y Secretario de cada Mesa Directiva de Casilla cuidarán las condi
 
 ### CAPITULO II. DE LA VOTACION Y CIERRE DE CASILLAS
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 171.
 
-El día de la elección, a las 8 horas, los ciudadanos nombrados Presidente, Secretario y Escrutadores, propietarios o en su caso suplentes, de las Mesas Directivas de las Casillas, procederán a su instalación en presencia de los Partidos Políticos que concurran, levantando el acta de instalación de casilla, en la que deberán certificar que se comprobó que las urnas estaban vacías.
+El día de la elección, a las 8 horas, los ciudadanos nombrados presidente, secretario y escrutadores, propietarios o en su caso suplentes, de las mesas directivas de las casillas, procederán a su instalación en presencia de los representantes de los Partidos Políticos que concurran, levantando el acta de la jornada electoral en el apartado correspondiente al inicio de la jornada, en la que deberán certificar que se comprobó que las urnas estaban vacías.
 
 Los miembros de la Mesa Directiva de Casilla no podrán retirarse hasta que la casilla sea clausurada.
 
@@ -2053,7 +2497,9 @@ I.- Si a las 08:15 horas no se presentara alguno o algunos de los miembros propi
 
 II.- Si a las 08:20 horas no está instalada la Mesa Directiva conforme a la fracción anterior, pero estuviese el Presidente o su Suplente, cualquiera de los dos designará, de entre los ciudadanos inscritos en el padrón de la sección, a los servidores públicos de casilla necesarios para suplir a los ausentes y proceder a su instalación;
 
-III.- De no estar presente ninguno de los miembros de la Mesa Directiva de Casilla a las 08:30 horas, el servidor público electoral, deberá instalarla con los primeros ciudadanos que acudan a votar.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+III.- De no estar presente ninguno de los miembros de la Mesa Directiva de Casilla a las 08:30 horas, el servidor público electoral nombrado por el Consejo Electoral correspondiente deberá instalarla con los primeros ciudadanos que acudan a votar.
 
 En ningún caso podrán recaer los nombramientos en los representantes de los Partidos Políticos o los observadores; y
 
@@ -2083,7 +2529,7 @@ Cuando haya cambio de casilla por las causas descritas, deberá reubicarse la ca
 
 ###### ARTICULO 175.
 
-Una vez formulada y firmada el acta de inicio, la votación y en general la jornada no podrá suspenderse sino por causa de fuerza mayor, en caso de suspensión, corresponde al Presidente de la Casilla disponer la recepción de la votación, en cuanto haya cesado la causa que motivó la misma, levantándose un acta que dé cuenta de la causa de la suspensión y la hora en que ocurrió, o bien consignar los hechos en el acta de cierre.
+Una vez formulada y firmada el acta de la jornada electoral, en su apartado de inicio de la jornada, no podrá suspenderse la votación sino por causa de fuerza mayor, en caso de suspensión, corresponde al presidente de la casilla disponer la recepción de la votación, en cuanto haya cesado la causa que motivó la misma, levantándose un acta que dé cuenta de la causa de la suspensión y la hora en que ocurrió, o bien consignar los hechos en el acta de la jornada electoral, en su apartado de cierre de la jornada.
 
 El acta referida deberá ser firmada por los integrantes de la Mesa Directiva, pudiendo si así lo determina el Presidente, recabar la firma de dos testigos, siendo éstos preferentemente representantes de Partido. La falta de testigos o de la firma de éstos, no afectará la validez del acta.
 
@@ -2095,19 +2541,23 @@ I.- Exhibir su credencial para votar con fotografía;
 
 II.- Estar inscrito en la lista nominal de electores;
 
-III. El Presidente de la Mesa se cerciorará que el nombre que aparece en la credencial de elector figure en la lista nominal de electores de la sección a que corresponde la casilla; pudiendo recibir el sufragio de aquellos ciudadanos, que teniendo su credencial para votar con fotografía no estén inscritos en la lista nominal, sólo que se encuentren en los siguientes casos:
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-a).- Que sea militar en servicio activo, en cuyo caso votará en la casilla especial más próxima al lugar en donde desempeñe su servicio;
+III. El presidente de la mesa se cerciorará que el nombre que aparece en la credencial de elector figure en la lista nominal de electores de la sección a que corresponde la casilla, pudiendo recibir el sufragio de aquellos ciudadanos que teniendo su credencial para votar con fotografía no estén inscritos en la lista nominal, sólo cuando se trate de los representantes de los Partidos Políticos ante la mesa directiva podrán ejercer su derecho de voto en la casilla en la que estén acreditados, debiéndose anotar su nombre completo, domicilio y clave de la credencial para votar, al final de la lista nominal de electores.
 
-b).- Los representantes de los Partidos Políticos ante la Mesa Directiva podrán ejercer su derecho de voto en la casilla en la que estén acreditados, debiéndose anotar su nombre completo, domicilio y clave de la credencial para votar, al final de la lista nominal de electores;
+Si es militar en servicio activo, en cuyo caso votará en la casilla especial más próxima al lugar en donde desempeñe su servicio.
 
-c).- Que el elector se encuentre fuera del lugar del domicilio el día de la elección, por causa justificada, lo que se deberá acreditar debidamente ante el Presidente de Casilla, hipótesis en las cuales, deberá observar:
-
-1.- Si el elector se encuentra fuera de su Municipio pero dentro de su Distrito, podrá votar sólo para elegir Diputados y Gobernador;
-
-2.- Si el elector se encuentra fuera de su Municipio y Distrito, podrá votar sólo para elegir Gobernador; y
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 IV.- Cumplidos los requisitos para acreditar su calidad de elector, el presidente de la casilla le entregará las boletas según la elección de que se trate.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+ARTICULO 176 bis.- En las casillas especiales, podrá votar, el elector que se encuentre fuera del lugar del domicilio el día de la elección:
+
+Si el elector se encuentra fuera de su Municipio pero dentro de su Distrito, podrá votar sólo para elegir Diputados y Gobernador;
+
+Si se encuentra fuera de su Municipio y Distrito, podrá votar sólo para elegir Gobernador.
 
 ###### ARTICULO 177.
 
@@ -2357,7 +2807,13 @@ Concluido el cómputo, los Consejeros Presidentes de los Consejos Distritales o 
 
 Por cuanto hace a la elección de Gobernador, Diputados por el Principio de Representación Proporcional y la asignación de Regidores a los Ayuntamientos, concluido el proceso de cómputo, el Consejo Estatal Electoral, hará la asignación de los Diputados Plurinominales y Regidores, declarará en su caso, la validez de las elecciones y entregará constancia de mayoría a los candidatos triunfadores.
 
-Los cómputos, la asignación, la declaración y la entrega de constancias a que alude el párrafo que precede, se efectuará el séptimo día siguiente al de la jornada electoral.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+La entrega de constancias a que alude el párrafo que precede se efectuarán cuando el acto electoral haya quedado firme.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+Los cómputos y la asignación, se efectuará el séptimo día siguiente al de la jornada electoral.
 
 ###### ARTICULO 203.
 
@@ -2389,47 +2845,57 @@ En el caso de la elección de Gobernador, el Congreso del Estado al recibir la d
 
 ### CAPITULO II. DE SU INTEGRACION E INSTALACION
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 208.
 
 El Tribunal Estatal Electoral, es el órgano publico autónomo, que en términos de la Constitución local constituye la máxima autoridad jurisdiccional en materia electoral en el Estado.
 
-El Tribunal es competente para conocer y resolver el medio de impugnación previsto en este Código.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+El Tribunal es competente para conocer y resolver de manera definitiva y firme las impugnaciones que se presenten en las distintas etapas del proceso electoral, así como en los tiempos no electorales, en las formas y términos que determine este Código.
 
 ### CAPITULO III. DE SU ORGANIZACION Y FUNCIONAMIENTO
 
 ###### ARTICULO 209.
 
-El Tribunal se integrará con tres magistrados propietarios y tres suplentes, electos por el voto de las dos terceras partes de los Diputados integrantes de la Legislatura y en sus recesos por las dos terceras partes de la Diputación Permanente, de la propuesta que haga ante dicho cuerpo legislativo el Consejo de la Judicatura. Por cada propietario se elegirá un suplente.
-
-Para el efecto anterior, los Partidos Políticos con registro, deberán presentar sus propuestas de Magistrados al Poder Ejecutivo, con 15 días de anticipación, a fin de que éste evalúe y a su vez proponga al Consejo de la Judicatura Estatal.
-
-Las propuestas presentadas a la Legislatura, serán turnadas a la Gran Comisión, la que presentará el dictamen en el que proponga la elección de los integrantes del Tribunal. Una vez aprobada la elección se emitirá el decreto correspondiente y se enviará al Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad".
+El Tribunal se integrará con tres magistrados propietarios y tres suplentes, electos por el voto de las dos terceras partes de los Diputados integrantes de la Legislatura, de la propuesta que haga ante dicho cuerpo legislativo la Comisión Calificadora de conformidad con lo dispuesto en la Constitución Política local.
 
 Los Magistrados electos rendirán protesta el día y la hora que el Congreso señale.
 
-El Congreso o la Diputación Permanente en su caso, deberá designar a los Magistrados Propietarios y Suplentes, a más tardar cinco días previos al en que concluya el encargo de los mismos.
+El Congreso deberá designar a los Magistrados Propietarios y Suplentes, a más tardar cinco días previos al en que concluya el encargo de los mismos.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 210.
 
-Los Magistrados del Tribunal Estatal Electoral durarán en su cargo un proceso ordinario y los procesos extraordinarios que ocurrieren hasta que sean nombrados los Magistrados del siguiente proceso ordinario de elecciones.
+Los Magistrados del Tribunal Estatal Electoral durarán en su cargo cuatro años consecutivos, o en su defecto hasta que sean nombrados los Magistrados del siguiente periodo y podrán ser reelectos por un periodo más.
 
-Los Magistrados podrán ser electos para el proceso ordinario inmediato por una sola vez y los extraordinarios que en su caso ocurrieren.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 211.
 
-No podrán ser Magistrados del Tribunal Estatal Electoral, quienes hubieren ejercido cargos de elección popular o directivos a nivel nacional, estatal, distrital o municipal de algún Partido Político, cuando menos en siete años anteriores a su designación. Dichos Magistrados deberán además reunir los requisitos que la Constitución local establece para ser Magistrado del Tribunal Superior de Justicia.
+Para ser Magistrado del Tribunal Estatal Electoral deberán reunir los requisitos que establece la Constitución Política local para ser Magistrado del Tribunal Superior de Justicia, además de no haber desempeñado cargo de elección popular, haber sido militante en activo o directivo a nivel Nacional, Estatal, Distrital o Municipal de algún Partido Político, cuando menos cinco años anteriores a su designación.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 212.
 
-Durante el tiempo en que ejerzan sus funciones los Magistrados Electorales, en ningún caso, podrán desempeñar cargo o empleo de la Federación, del Estado, de los Municipios o de particulares, excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción a esta disposición será sancionada con la pérdida del cargo.
+Durante el proceso electoral, en que ejerzan sus funciones los Magistrados Electorales, en ningún caso, podrán desempeñar cargo o empleo de la Federación, del Estado, de los Municipios o de particulares, excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción a esta disposición será sancionada con la pérdida del cargo, salvo en aquellos casos en que deba integrarse el Tribunal para resolver recursos fuera del proceso electoral.
 
 Los Magistrados del Tribunal no son recusables, pero deberán excusarse de conocer de algún asunto en el que tengan interés personal, por relaciones de parentesco, negocios, amistad o enemistad, que pueda afectar su imparcialidad.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 213.
 
-El Tribunal se instalará e iniciará sus funciones dentro de la primera semana del sexto mes previo al que corresponda al mes de la elección y concluirá sus actividades con la terminación del proceso electoral.
+Durante el proceso electoral el Tribunal se instalará e iniciará sus funciones dentro de la primera semana del sexto mes previo al que corresponda al mes de la elección y concluirá sus actividades con la resolución de todos los recursos que se hayan interpuesto.
 
-### CAPITULO IV. DE LA COMISION ADMINISTRADORA
+En tiempo no electoral el Tribunal Estatal entrará en receso y se instalará conforme lo determine su Reglamento Interno.
+
+### CAPITULO IV. DE LA ADMINISTRACION DE SUS RECURSOS
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 214.
 
@@ -2439,7 +2905,9 @@ El Tribunal funcionará siempre en Pleno y sus resoluciones se acordarán por ma
 
 Corresponden al Pleno del Tribunal las siguientes atribuciones:
 
-I.- Resolver los recursos que se interpongan durante los procesos electorales;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+I.- Resolver los recursos que se interpongan durante los procesos electorales y no electorales;
 
 II.- Desechar, sobreseer, tener por no interpuestos o por no presentados, cuando proceda, los recursos, los escritos de los terceros interesados y los de los coadyuvantes;
 
@@ -2449,11 +2917,13 @@ IV.- Determinar la fecha y hora de sus sesiones públicas;
 
 V.- Elegir de entre sus miembros, al que fungirá como Presidente del Tribunal;
 
-VI.- A propuesta de la Comisión Administradora de los recursos del Tribunal, aprobar el proyecto de Presupuesto de Egresos, para someterlo a la consideración del Magistrado Presidente del Tribunal Superior de Justicia; a efecto de que pueda ser incluido en el proyecto de Presupuesto de Egresos del Poder Judicial del Estado;
+VI.- (DEROGADA, P.O. 2 DE OCTUBRE DE 1999)
 
-VII.- Designar por insaculación, al Magistrado que formará parte de la Comisión que administre los recursos humanos, materiales y financieros del Tribunal;
+VII.- (DEROGADA, P.O. 2 DE OCTUBRE DE 1999)
 
-VIII.- Autorizar las licencias de uno de sus miembros que no excedan de 30 días, debiendo llamar de inmediato al suplente respectivo en el orden de su designación; e informar al Consejo de la Judicatura Estatal del Poder Judicial del Estado, de la solicitud de licencias que rebasen dicho período o de las renuncias, para los efectos que señala el artículo 92-A de la Constitución Política del Estado;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VIII.- Autorizar las licencias de uno de sus miembros que no excedan de treinta días, debiendo llamar de inmediato al suplente respectivo en el orden de su designación;
 
 IX.- Autorizar la celebración de convenios de colaboración con otros Tribunales, Instituciones y Autoridades, para el mejor desempeño del Tribunal, en los periodos en que este en funciones;
 
@@ -2465,11 +2935,13 @@ XII.- Establecer la Jurisprudencia del Tribunal; y
 
 XIII.- Las demás que le otorga este Código.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 216.
 
 Para la integración, tramitación y substanciación de los medios de impugnación que deba resolver, el Tribunal contará con un Secretario General, con los Secretarios Instructores y Proyectistas, Notificadores y demás personal que sea necesario y autorice el Presupuesto de Egresos respectivo.
 
-Durante el período de funciones del Tribunal Estatal Electoral, el Secretario General, los Secretarios Instructores y Proyectistas estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado, de los Municipios, de los Partidos o de los particulares, excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción a esta disposición será sancionada con la pérdida del cargo.
+Durante el período de funciones del Tribunal Estatal Electoral, el Secretario General, los Secretarios Instructores y Proyectistas estarán impedidos para desempeñar cualquier otro empleo, cargo o comisión de la Federación, del Estado, de los Municipios, de los Partidos o de los particulares, excepto las actividades docentes, científicas, culturales, de investigación o de beneficencia siempre y cuando no les impidan el expedito ejercicio de sus funciones. La infracción a esta disposición será sancionada con la pérdida del cargo, salvo en aquellos casos en que deba integrarse el Tribunal para resolver recursos fuera del proceso electoral.
 
 ###### ARTICULO 217.
 
@@ -2489,9 +2961,13 @@ III.- Presidir las sesiones del Pleno, dirigir los debates y conservar el orden 
 
 IV.- Proponer al Pleno la designación del Secretario General, Secretarios Instructores y Secretarios Proyectistas;
 
-V.- Presidir la comisión Administradora de los recursos del Tribunal;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
 
-VI.- Someter a la consideración del Presidente del Tribunal Superior de Justicia, el proyecto de Presupuesto de Egresos del Tribunal;
+V.- Administrar los recursos del Tribunal;
+
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VI.- Proponer a la consideración del Presidente del Tribunal Superior de Justicia, el proyecto de Presupuesto de Egresos del Tribunal, para que sea integrado al Presupuesto de Egresos de dicho Poder;
 
 VII.- Despachar la correspondencia del Tribunal;
 
@@ -2505,7 +2981,9 @@ X.- Las demás que le confiere este Código.
 
 Las licencias de los Magistrados que no rebasen más de 30 días durante el periodo de funciones del Tribunal, serán competencia del Pleno; en caso de autorizarse, la ausencia será suplida por el Magistrado propietario suplente que le siga en el orden de su designación.
 
-La solicitud de licencias que rebasen el periodo que señala el párrafo que precede, así como las renuncias, se someterán a la aprobación del Poder Legislativo del Estado, o en su caso, de la Diputación Permanente, por conducto del Consejo de la Judicatura Estatal del Tribunal Superior de Justicia.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+La solicitud de licencias que rebasen el periodo que señala el párrafo que precede, así como las renuncias, se someterán a la aprobación del Poder Legislativo del Estado, o en su caso, de la Diputación Permanente, por conducto del interesado.
 
 ###### ARTICULO 220.
 
@@ -2541,13 +3019,21 @@ VI.- Llevar el turno de los Magistrados que deben presentar las ponencias para l
 
 VII.- Auxiliar a los Secretarios Instructores y Proyectistas en el desempeño de sus funciones; y
 
-VIII.- Las demás que le encomiende el Presidente.
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+VIII.- Dar cuenta al Magistrado Presidente de los recursos que se interpongan en tiempo no electoral; y
+
+(ADICIONADA, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
+
+IX.- Las demás que le encomiende el Presidente.
 
 ###### ARTICULO 222.
 
 Los Secretarios Instructores tendrán a su cargo:
 
-I.- Recibir los recursos de inconformidad, admitirlos si reúnen los requisitos legales y, en su caso, recabar de los Magistrados el acuerdo que proceda;
+> <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+I.- Recibir los recursos de apelación, inconformidad y reconsideración, admitirlos si reúnen los requisitos legales y, en su caso, recabar de los Magistrados el acuerdo que proceda;
 
 II.- Sustanciar los recursos, realizando todas las diligencias pertinentes y requiriendo los documentos necesarios hasta ponerlos en estado de resolución; y
 
@@ -2561,405 +3047,563 @@ I.- Estudiar y analizar los expedientes de los recursos planteados; y
 
 II.- Formular los proyectos de resolución que someterán a la consideración del Magistrado ponente.
 
-### CAPITULO I. DE LOS MEDIOS DE IMPUGNACION
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO I. DE LOS RECURSOS
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 224.
 
-El Tribunal Estatal Electoral administrará sus recursos humanos, materiales y financieros a través de una comisión, que será formada por el Magistrado Presidente del Tribunal Estatal Electoral, quién la presidirá, un Magistrado Electoral designado por el Pleno de dicho órgano jurisdiccional electoral a través de insaculación y tres miembros del Consejo de la Judicatura Estatal del Tribunal Superior de Justicia.
+El Tribunal Estatal Electoral administrará sus recursos humanos, materiales y financieros a través de su Presidente.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 225.
 
-Son atribuciones de la Comisión Administradora, las siguientes:
-
-I.- Tener a su cargo la administración, disciplina y vigilancia de los recursos humanos, materiales y financieros del Tribunal;
-
-II.- Elaborar el proyecto de Presupuesto de Egresos del Tribunal, para someterse en primer instancia, a la consideración del Pleno del Tribunal Estatal Electoral;
-
-III.- Expedir acuerdos generales para el adecuado ejercicio de sus funciones;
-
-IV.- Iniciar a solicitud del Pleno del Tribunal Estatal Electoral, Investigación sobre la conducta de alguno de los servidores públicos del Tribunal;
-
-V.- Nombrar y remover a los servidores públicos del Tribunal Estatal Electoral, cuya designación no sea atribución del Pleno;
-
-VI.- Aprobar su reglamento interior y ordenar su publicación en el Periódico Oficial del Estado; y
-
-VII.- Las demás que le señale este Código.
+La fiscalización de los recursos del Tribunal Estatal Electoral, estará a cargo de la Contaduría Mayor de Hacienda del H. Congreso del Estado.
 
 ## TITULO DECIMO SEGUNDO. DEL SISTEMA DE MEDIOS DE IMPUGNACION
 
-### CAPITULO II. DE LA PERSONERIA
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO II. DE LA COMPETENCIA
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 226.
 
-Los medios de impugnación son los recursos con que cuentan los ciudadanos, los candidatos y los Partidos Políticos, tendientes a lograr la nulidad total o parcial de los actos o resoluciones dictados por los Organismos Electorales en los términos del presente ordenamiento.
+Los recursos son los medios de impugnación tendientes a lograr la revocación o la modificación de las resoluciones dictadas por los organismos electorales, o la nulidad de la votación de una o más casillas o de una elección.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 227.
 
-Para garantizar la legalidad de los actos y resoluciones de los órganos electorales y la exactitud de los resultados de las elecciones, se podrán interponer los siguientes recursos:
-
-I.- Durante tiempos no electorales: El recurso de reconsideración; y
-
-II.- Durante el proceso electoral: El recurso de inconformidad.
-
-### CAPITULO III. DE LOS PLAZOS Y DE LOS TERMINOS
-
-###### ARTICULO 228.
-
-El recurso de inconformidad es procedente:
+Se establecen como medios de impugnación:
 
 I.- Durante la etapa preparatoria de la elección:
 
-Contra los actos y resoluciones del Consejo Estatal Electoral, relativos a la negativa del registro de coaliciones o fusiones de los Partidos Políticos registrados en el Estado; y respecto de la negativa de registro de candidatos para cualquier elección.
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-II.- Durante la etapa posterior a la elección:
+A) El recurso de revisión; y,
 
-a) Contra las votaciones emitidas en una o varias casillas según afecte al cómputo o la elección de Diputados o Ayuntamientos por el principio de mayoría relativa, la declaración de validez y la expedición de constancias por éste principio;
+B) El recurso de apelación.
 
-b) Contra los resultados del cómputo de las votaciones emitidas en una o varias casillas según afecte al cómputo o la elección de candidatos a los Ayuntamientos por el principio de representación proporcional, la declaración de validez de las elecciones y la asignación de éstos, así como la entrega de constancias a los candidatos electos bajo este principio;
+II.- Durante la etapa posterior de la elección:
 
-c) Contra los resultados del cómputo de las votaciones en una o varias casillas o de uno o varios Distritos electorales, según afecte la elección de candidatos a Diputados electos por el principio de representación proporcional y de la elección de Gobernador.
+A) El recurso de inconformidad.
+
+III. En tiempos no electorales:
+
+A) El Recurso de Reconsideración.
+
+El recurso de revisión procede contra los actos o resoluciones de los Consejos Distritales o Municipales Electorales.
+
+El recurso de apelación procede contra los actos o resoluciones del Consejo General del Instituto Estatal Electoral.
+
+El recurso de inconformidad se hará valer contra:
+
+1. Los resultados consignados en las actas de cómputo distrital o municipal en la elección de que se trate;
+
+2. La declaración de validez de Diputados por el principio de mayoría relativa y de Ayuntamientos y el otorgamiento de las constancias respectivas;
+
+3. La asignación de Diputados por el principio de representación proporcional y, por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente;
+
+4. La asignación de Regidores por el principio de representación proporcional, y por consiguiente, el otorgamiento de las constancias respectivas, por error en la aplicación de la fórmula correspondiente; y,
+
+5. Los cómputos de cualquier elección por error aritmético.
+
+Los motivos para interponer este recurso en los casos señalados por las fracciones I y II serán las causales de nulidad establecidas en este Código.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO III. REQUISITOS DE PROCEDIBILIDAD
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+###### ARTICULO 228.
+
+El Consejo Estatal Electoral es el órgano competente para resolver los recursos de Revisión interpuestos contra sus propios actos y resoluciones de los Consejos Distritales o Municipales Electorales.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 229.
 
-El Recurso de reconsideración, se substanciará durante tiempos no electorales y se interpondrá contra los actos o resoluciones de:
+El Tribunal Estatal Electoral será competente para conocer de los recursos de apelación, inconformidad y reconsideración.
 
-I.- El Consejo Estatal Electoral;
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
 
-II.- El Secretario Ejecutivo del Consejo Estatal Electoral; y
+### CAPITULO IV. DE LAS PARTES
 
-III.- Las Direcciones Ejecutivas del Instituto Estatal Electoral.
-
-El recurso de reconsideración se interpondrá por escrito ante el propio Consejo Estatal Electoral, por los ciudadanos con interés legítimo o los Comisionados o Representantes de los Partidos Políticos que estén acreditados ante el mismo, dentro de los diez días naturales siguientes al en que haya surtido efectos la notificación respectiva del acto o resolución o de la fecha que hayan tenido conocimiento del mismo.
-
-Para la interposición del recurso se seguirán las reglas establecidas en los artículos 230 al 236, 239, 241 y 253 al 259; podrá declararse improcedente por cualesquiera de las hipótesis contenidas en los artículos 250 y 251, y en su caso, se emitirá la resolución respectiva en un plazo no mayor de treinta días hábiles, en términos de lo dispuesto en los artículos 261 y 263 todos de este Código.
-
-### CAPITULO IV. DE LAS NOTIFICACIONES
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 230.
 
-La interposición de los recursos de reconsideración y de inconformidad corresponde a los Partidos Políticos a través de sus representantes legítimos. Se considerarán representantes legítimos de los Partidos Políticos:
+El escrito de protesta por los resultados contenidos en el acta de escrutinio y cómputo de la casilla, es un medio para establecer la existencia de supuestas violaciones durante el día de la jornada electoral, mismo que deberá presentarse ante la mesa directiva de casilla al término del escrutinio y cómputo de la votación, o ante el Consejo Distrital o Municipal Electoral correspondiente, antes de que se inicie la sesión de cómputo respectiva, y deberá contener:
 
-I.- Los registrados formalmente ante el Consejo Estatal Electoral. En este caso, el escrito inicial deberá ir acompañado de una copia del documento en que conste el registro;
+I.- El Partido Político que lo presenta;
 
-II.- Aquéllos que estén autorizados para representarlos mediante mandato otorgado en escritura pública por los funcionarios del Partido facultados estatutariamente para ello.
+II.- La mesa directiva de la casilla correspondiente;
 
-Los candidatos podrán participar como coadyuvantes del Partido Político al que pertenezcan, acreditando su registro como tales, en los términos que determine este Código, excepto en tratándose de la hipótesis prevista en la fracción I del artículo 227, caso en el cual no se admitirá la coadyuvancia. La coadyuvancia deberá hacerse valer en el escrito de interposición del recurso, si no, será desechada; y
+III.- La elección que se protesta;
 
-III.- Los ciudadanos con interés legítimo para ello y por lo que hace exclusivamente al recurso de reconsideración.
+IV.- La causa por la que se presenta la protesta;
 
-### CAPITULO V. DE LAS REGLAS DE PROCEDIMIENTO PARA LA TRAMITACION DE LOS RECURSOS
+V.- Cuando se presente ante un Consejo Distrital o Municipal Electoral, se deberá además identificar individualmente cada una de las casillas que se impugnan, cumpliendo con lo señalado en las dos fracciones inmediatas anteriores; y,
+
+VI.- El nombre, la firma o huella y el cargo partidario de quien lo presenta.
+
+De la presentación del escrito de protesta, deberá entregarse copia firmada o sellada de recibida por el funcionario a quien se le entregue.
+
+El escrito de protesta no será requisito de procedibilidad para interponer el recurso de inconformidad.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO V. DE LA LEGITIMACION Y PERSONERIA
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 231.
 
-Durante el proceso electoral todos los días y horas son hábiles. Los plazos se computarán de momento a momento; si están señalados por días, estos se considerarán de veinticuatro horas.
+Serán partes en el procedimiento para tramitar un recurso:
 
-Durante los períodos no electorales, son hábiles los días lunes a viernes de cada semana, con excepción de aquéllos que sean de descanso obligatorio.
+I.- El actor, que será quien, estando legitimado en los términos del presente Código, lo interponga;
 
-Fuera del período electoral, el cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiere notificado el acto o la resolución que se impugne, en los demás casos a partir del día en que se notifique o conozca.
+II.- La autoridad, que será el organismo electoral que realice el acto o dicte la resolución que se impugna; y,
 
-### CAPITULO VI. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+III.- El tercero interesado, que será el Partido Político que tenga un interés legitimo en la causa, derivado de un derecho incompatible con el que pretenda el actor.
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+Los candidatos cuya elección esté controvertida, podrán participar como coadyuvantes del Partido Político que los registró.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO VI. DE LAS NOTIFICACIONES
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 232.
 
-En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnadas.
+La interposición de los recursos de reconsideración, revisión, apelación e inconformidad corresponde a los Partidos Políticos, a través de sus representantes acreditados ante los órganos electorales, estando facultado el representante ante el Consejo Electoral Estatal, para interponer todos los recursos previstos en este Código, cuando:
+
+I.- Dentro del plazo señalado en este ordenamiento, se deje de resolver la solicitud de registro;
+
+II.- Se les niegue el registro solicitado; y,
+
+No se les expida el certificado respectivo.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 233.
 
-Los recursos de inconformidad deberán interponerse dentro de los tres días contados a partir del día en que se hubiese notificado el acto o la resolución que se impugne. Se entenderá que el recurrente tiene conocimiento del acto que impugna, desde el momento en que éste se produzca, si aquél asistió a la reunión colegiada donde se dictó, o a partir de la notificación respectiva.
+Para los efectos del precepto anterior, son representantes legítimos de los Partidos Políticos:
 
-### CAPITULO VII. DE LA ACUMULACION
+I.- Los acreditados formalmente ante los órganos electorales del Estado;
+
+II.- Los dirigentes de los Comités Estatales, Distritales o Municipales, que deberán acreditar su personería con la certificación que expida el Consejo Estatal Electoral; y,
+
+III.- Los que estén autorizados para representarlos mediante mandato otorgado en escritura pública por los dirigentes del partido facultados estatutariamente para tal efecto.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO VII. DE LA IMPROCEDENCIA Y DEL SOBRESEIMIENTO
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 234.
 
-Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa de este Código.
+Durante el proceso electoral todos los días y horas serán hábiles. Los plazos se computarán de momento a momento. Si están señalados por días se computarán de 24 horas.
 
-Los estrados son los lugares destinados en las oficinas de los órganos del Instituto y del Tribunal, para que sean colocadas, para su notificación, copias del escrito de interposición del recurso y de los autos y resoluciones que le recaigan.
+Durante los periodos no electorales, son hábiles los días lunes a viernes de cada semana, con excepción de aquellos que sean de descanso obligatorio.
+
+Fuera del periodo electoral, el cómputo de los plazos se hará a partir del día siguiente de aquél en que se hubiere notificado el acto o resolución que se impugne, en los demás casos a partir del día en que se notifique o conozca.
+
+En ningún caso la interposición de los recursos suspenderá los efectos de los actos o resoluciones impugnados.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 235.
 
-Las notificaciones personales se harán al interesado a más tardar al día siguiente de aquél en que se dictó el acto o la resolución. Se entenderán personales sólo aquellas notificaciones que con tal carácter establezca el presente Código.
+El organismo electoral que reciba un recurso de revisión, apelación, o inconformidad, lo hará de inmediato del conocimiento público mediante cédula que se fijará en los estrados.
 
-Las cédulas de notificación personal deberán contener el lugar, hora y fecha en que ésta se hace, la descripción del acto o resolución que se notifica y el nombre de la persona con quien se entiende la diligencia. En caso de que ésta se niegue a recibir la notificación, se hará constar esta circunstancia en la cédula.
+Dentro de las cuarenta y ocho horas siguientes a la de su fijación, los representantes de los Partidos Políticos o terceros interesados podrán presentar los escritos que consideren pertinentes.
 
-El Partido Político recurrente y en su caso el coadyuvante, deberán señalar domicilio común para recibir notificaciones.
+Los escritos a los que se refiere el párrafo anterior, deberán cumplir con los siguientes requisitos:
+
+I.- Hacer constar el nombre del Partido Político o tercero interesado y el domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
+
+II.- Exhibir los documentos que acrediten la personería del promovente, cuando no la tenga reconocida ante el órgano electoral responsable;
+
+III.- Precisar la razón del interés jurídico en que se fundan las pretensiones concretas del promovente;
+
+IV.- Ofrecer las pruebas que junto con el escrito, se aportan y solicitar las que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y,
+
+V.- Hacer constar el nombre y firma autógrafa del promovente.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 236.
 
-El Partido Político y los candidatos del mismo, cuyo representante haya estado presente en la sesión del órgano del Instituto que actuó o resolvió, se entenderán automáticamente notificados del acto o resolución correspondiente para todos los efectos legales.
+Los recursos de revisión y apelación deberán interponerse dentro del término de cuatro días, contados a partir del momento en que se tenga conocimiento o se hubiese notificado el acto o la resolución que se recurra.
 
-### CAPITULO VIII. DE LAS PRUEBAS
+El recurso de inconformidad deberá interponerse dentro del término de cuatro días, contados a partir del momento en que concluya el cómputo correspondiente o se efectúe la notificación de la resolución respectiva.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO VIII. DE LA ACUMULACION
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 237.
 
-Las resoluciones que recaigan a los recursos de inconformidad serán notificadas de la siguiente manera:
+Las notificaciones se podrán hacer personalmente, por estrados, por oficio, por correo certificado o por telegrama, según se requiera para la eficacia del acto o resolución a notificar, salvo disposición expresa en este Código.
 
-I.- A los Partidos Políticos recurrentes y a sus coadyuvantes en forma personal y en la misma sesión en la que se haya determinado la resolución que corresponda, o en caso de inasistencia de éstos a la sesión en que se dicte la resolución, se les hará personalmente en el domicilio que hubieren señalado en la ciudad de Cuernavaca o, en caso de no haber señalado domicilio, por estrados;
+Los estrados son los lugares en las oficinas de los organismos electorales y del Tribunal Estatal Electoral que estarán destinados a colocar, para su notificación, copias del escrito de interposición del recurso, así como de los acuerdos o resoluciones que les recaiga.
 
-II.- Al órgano del Instituto cuyo acto o resolución fue impugnado, en sus oficinas administrativas o por correo certificado. Con la notificación se anexará copia de la resolución recaída al recurso; y
-
-III.- A los terceros interesados, en la primer notificación en forma personal; las ulteriores a través del Partido Político al que pertenezcan.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 238.
 
-Las resoluciones del Tribunal recaídas a los recursos de inconformidad, serán notificadas a los órganos del Instituto que corresponda, a los recurrentes y a los terceros interesados personalmente por correo certificado, por telegrama, o a más tardar al día siguiente de que se pronuncien.
+Se entenderán como personales sólo las notificaciones que con este carácter establezca el presente Código, y las mismas se harán al interesado a más tardar al día siguiente de aquél en que se dio el acto o se dictó la resolución.
 
-Se entiende por tercero interesado al Partido Político o al candidato cuya elección afecte el medio de impugnación interpuesto y la resolución que recaiga a éste.
+Las cédulas de notificación personal deberán contener la descripción del acto o resolución que se notifica, el lugar, hora y fecha en que se hace la notificación, y el nombre de la persona con quien se entiende la diligencia. En el caso de que ésta se niegue a recibir la notificación se hará constar esta circunstancia en la cédula.
 
-A los órganos del Instituto cuyo acto o resolución fue impugnado, junto con la notificación les será enviada copia autorizada de la resolución.
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 239.
 
-No requerirán de notificación personal y surtirán sus efectos al día siguiente de su publicación o fijación, los actos o resoluciones que se hagan públicos a través del Periódico Oficial "Tierra y Libertad" o en los diarios de circulación estatal o mediante la fijación de cédulas en los estrados de los órganos del Instituto y del Tribunal, en los términos de este Código.
+Para los efectos de este Código, se tendrá por automáticamente notificados a los Partidos Políticos de las resoluciones que emitan en sus sesiones los órganos electorales en que tengan representación.
+
+Los órganos electorales habilitarán personal con facultad legal para practicar las notificaciones.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 240.
 
-Los Candidatos podrán participar como coadyuvantes del Partido Político que los registró, conforme a las reglas siguientes:
+Las resoluciones que recaigan a los recursos de revisión serán notificadas de la siguiente manera:
 
-I.- Podrán presentar escritos en los que manifiesten lo que a su derecho convenga, pero no podrán incluir alegatos que amplíen o modifiquen la controversia planteada en el recurso que haya presentado su Partido;
+I.- A los Partidos Políticos que no tengan representantes acreditados ante el órgano competente, se les hará personalmente en el domicilio procesal señalado o por estrados;
 
-II.- Podrán ofrecer y aportar pruebas a través del Partido Político recurrente dentro de los plazos establecidos en este Código, siempre y cuando tengan relación con los hechos controvertidos y con el objeto del recurso interpuesto;
+II.- Al órgano electoral cuyo acto o resolución fue impugnado, se les hará por correo certificado o personalmente. Con la notificación se anexará copia de la resolución; y,
 
-III.- Los escritos deberán estar firmados autógrafamente.
+III.- A los terceros interesados, personalmente.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 241.
 
-Para la interposición de los recursos previstos en este Código, se cumplirán los siguientes requisitos:
+Las resoluciones del Tribunal Estatal Electoral recaídas a los recursos de inconformidad serán notificadas:
 
-I.- Deberán presentarse por escrito;
+I.- Al Partido Político que interpuso el recurso y al tercero interesado, personalmente, dentro de las cuarenta y ocho horas siguientes de dictada la resolución, siempre y cuando hayan señalado domicilio. En caso contrario, la notificación se hará por estrados;
 
-II.- En el escrito del recurso se hará constar el nombre del recurrente, en su caso el coadyuvante y el domicilio común para recibir notificaciones en la ciudad de Cuernavaca; si los promoventes omiten señalar domicilio para recibirlas, se practicarán por estrados;
+II.- Al Consejo Estatal Electoral, la notificación se le hará por escrito, acompañada de copia certificada del expediente y de la resolución, a más tardar dentro de las cuarenta y ocho horas siguientes de dictada la resolución.
 
-III.- El recurrente acompañará a su promoción los documentos necesarios para acreditar su personalidad; que también deberá acreditar en su caso, el coadyuvante;
+Las resoluciones de los órganos electorales se podrán notificar a cualquier hora.
 
-IV.- Se hará mención expresa del acto o resolución que se impugna y del órgano responsable;
-
-V.- Se deberán mencionar con claridad los agravios que cause el acto o resolución impugnados, los preceptos legales que se consideren violados y los hechos en que se basa la impugnación;
-
-VI.- Se acompañarán las pruebas que admite este ordenamiento, debiendo ofrecer aquellas que deban requerirse, cuando el promovente justifique que habiéndolas solicitado por escrito y oportunamente al órgano competente, no le fueron entregadas; y
-
-VII.- Se hará constar el nombre y la firma autógrafa de el o los promoventes, en su caso.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 242.
 
-En el caso del recurso de inconformidad se deberá señalar, además:
+Las resoluciones del Tribunal Estatal Electoral recaídas en los recursos de apelación serán notificadas al Consejo Estatal Electoral, a quien haya interpuesto el recurso y, en su caso, a los terceros interesados, por correo certificado, por telegrama o personalmente, a más tardar el día siguiente de que se pronuncien. Al Consejo Estatal Electoral se enviará, junto con la notificación, copia de la resolución.
 
-I.- El cómputo de la elección que se impugna;
-
-II.- La elección que se impugna;
-
-III.- La mención precisa de las casillas cuya votación se solicite que se anule en cada caso; y
-
-IV.- La relación que, en su caso, guarde el recurso con otras impugnaciones.
-
-Cuando el recurrente omita alguno de los requisitos señalados en las fracciones III y VI del artículo 241 del presente Código, el Consejo Estatal Electoral o el Tribunal, requerirán por estrados al promovente para que lo subsane en un plazo de veinticuatro horas contadas a partir de la fijación en estrados del requerimiento correspondiente, bajo apercibimiento que de no hacerlo se tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 243.
 
-El órgano del Instituto que reciba un recurso de inconformidad, lo turnará de inmediato al Tribunal Estatal Electoral.
+Para la interposición de los recursos se cumplirá con los requisitos siguientes:
 
-Los Partidos Políticos recurrentes, los terceros interesados, así como los coadyuvantes de sus respectivos Partidos, podrán presentar los escritos que consideren pertinentes dentro de las cuarenta y ocho horas siguientes al auto de radicación y notificación del mismo, con la excepción prevista en la fracción II del artículo 240;
+I.- Tratándose de recursos de revisión, apelación e inconformidad:
 
-Los escritos mencionados en el párrafo anterior deberán cumplir con los requisitos siguientes:
+A) Deberán presentarse por escrito;
 
-I.- Hacer constar el nombre del Partido Político que represente;
+B) Se hará constar el nombre del actor y su domicilio para recibir notificaciones. Si el promovente omite señalar domicilio para recibirlas, se practicarán por estrados;
 
-II.- Exhibir los documentos que acrediten la personería del promovente; si no lo está ya ante el Tribunal;
+C) En caso de que el promovente no tenga acreditada la personalidad ante el organismo electoral en el que actúa, acompañará los documentos con los que la acredite;
 
-III.- En el caso de los terceros interesados, precisar la razón del interés legítimo en que se funda, las pretensiones concretas del promovente; y los medios de convicción que ofrezca y en su caso exhiba;
+D) Se hará mención expresa del acto o resolución que se impugna y del organismo electoral;
 
-IV.- En el caso de los coadyuvantes, ofrecer las pruebas que se aporten con el recurso interpuesto por el Partido Político y solicitar las que deban requerirse cuando el promovente justifique que, habiéndolas solicitados por escrito y oportunamente al órgano competente, no le fueron entregadas; y
+E) También se hará mención expresa y clara de los agravios que cause el acto o la resolución que se impugna, los preceptos presuntamente violados y los hechos en que se basa la información;
 
-V.- Hacer constar el nombre y la firma autógrafa del promovente.
+F) Se ofrecerán las pruebas que se anexen, junto con el escrito, con mención de las que habrán de aportarse dentro de los plazos legales, solicitando las que en su caso deban requerirse, cuando el promovente justifique que, habiéndolas pedido por escrito y oportunamente al órgano competente, no le hayan sido entregadas; y,
+
+G) Se hará constar el nombre y la firma autógrafa del promovente.
+
+II.- En el caso del recurso de inconformidad deberán cumplirse, además, los requisitos siguientes:
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+A) Mencionar la elección que se impugna, señalando expresamente si se objeta el cómputo, la declaración de validez de la elección y, por consecuencia, en su caso, el otorgamiento de las constancias respectivas. En ningún caso podrá impugnarse más de una elección con el mismo recurso;
+
+B) Señalar en forma individualizada el acta de cómputo Municipal o Distrital que se combate;
+
+C) Mencionar igualmente en forma individualizada las casillas cuya votación se solicite anular en cada caso y la causal que se invoca para cada una de ellas; y,
+
+D) Relacionar, en su caso, el recurso que se interpone con cualquier otra impugnación.
+
+En el recurso de inconformidad, cuando se impugne el resultado de una asignación de diputaciones por el principio de representación proporcional, además de los requisitos señalados en el párrafo primero de este artículo, se deberá indicar claramente el supuesto y los razonamientos por los que se afirme que debe modificarse el resultado de la elección.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 244.
 
-El Consejo Estatal Electoral del Instituto que reciba un recurso de inconformidad deberá hacerlo llegar al Tribunal, dentro de las veinticuatro horas siguientes, acompañado de:
+En los casos de omisión de requisitos en la interposición de cualquiera de los recursos, se procederá de la manera siguiente:
 
-I.- El escrito mediante el cual se interpone;
+I.- Cuando se omita alguno de los señalados en los incisos C), D) y E) de la fracción I del artículo anterior, o en los incisos A), B) y C) de la fracción II, el Secretario del organismo electoral competente o del Tribunal Estatal Electoral, según sea el caso, dará cuenta al órgano colegiado correspondiente, a fin de que requiera por estrados al promovente para que los cumpla en un plazo de cuarenta y ocho horas, contadas a partir de que se fije en los estrados dicho requerimiento, apercibiéndolo que de no hacerlo se tendrá por no interpuesto el recurso;
 
-II.- La copia del documento en que conste el acto o resolución impugnados, o en su caso, copia certificada de las actas correspondientes del expediente relativo al cómputo municipal, distrital o de representación proporcional de la elección impugnada;
+II.- Cuando se omita el requisito señalado en el inciso F) de la fracción I del artículo anterior, se aplicará la misma regla, salvo cuando no se haya ofrecido ni aportado prueba alguna y se esté en el caso de que el recurso verse sobre puntos de derecho;
 
-III.- En su caso, las pruebas que le sean requeridas; los escritos y pruebas aportadas por los terceros interesados y los coadyuvantes;
+III.- Cuando el recurrente omita señalar en su escrito los preceptos legales presuntamente violados o los cite de manera equivocada, el organismo electoral competente o el Tribunal, en su caso, podrá resolver el recurso tomando en consideración los preceptos legales que debieron ser invocados o los que resulten aplicables al caso concreto; y,
 
-IV.- Un informe circunstanciado en el que se expresarán los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución que se impugna, en el que, además, expresará si el promovente tiene reconocida su personería ante el órgano del Instituto;
+IV.- Cuando exista deficiencia en la argumentación de los agravios, pero éstos puedan ser deducidos claramente de los hechos expuestos en el recurso, el órgano competente o el Tribunal, en su caso, no lo desechará y resolverá con los elementos que obren en el expediente.
 
-V.- Los escritos de protesta que obren en su poder; y
-
-VI.- Los demás elementos que se estimen necesarios para la resolución del recurso.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 245.
 
-Para la tramitación del recurso de inconformidad, una vez que el Tribunal reciba el expediente, será turnado de inmediato a un secretario instructor, quién deberá revisar que reúna todos los requisitos señalados en este Código.
+Los recursos de revisión, de apelación y de inconformidad se interpondrán ante el organismo electoral que realizó el acto o emitió la resolución, dentro de los plazos señalados por este Código.
 
-En los casos en que el recurrente o tercero interesado haya indicado que presentará pruebas dentro del período probatorio, el Tribunal se reservará la admisión de las mismas hasta la presentación de las probanzas señaladas.
+Cuando se trate de impugnar la resolución del Consejo General sobre los informes relativos a gastos de campaña o las cuentas presentadas por los Partidos Políticos, el recurso de apelación se interpondrá ante el propio Consejo y se sujetará, para su tramitación, substanciación y resolución, a las normas establecidas en este título. El Secretario del Consejo podrá solicitar los datos o documentos necesarios para rendir informe circunstanciado o para remitir la documentación requerida por el Tribunal Estatal Electoral.
 
-Si de la revisión que realice el secretario instructor encuentra que el recurso encuadra en alguna de las causales de improcedencia previstas en este Código o que es notoriamente improcedente, someterá desde luego, a la consideración del Tribunal, el acuerdo para su desechamiento de plano.
-
-Si el recurso reúne todos los requisitos, el secretario instructor dictará el auto de admisión correspondiente, ordenando se fije copia del mismo en los estrados del Tribunal.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 246.
 
-El secretario instructor realizará todos los actos y diligencias necesarios para la integración de los expedientes de los recursos de inconformidad, de manera que los pongan en estado de resolución.
+Una vez cumplido el plazo a que se refiere el párrafo segundo del artículo anterior el organismo electoral que reciba un recurso de revisión, apelación o inconformidad deberá de hacer llegar al órgano competente o al Tribunal Estatal Electoral, según corresponda, dentro de las cuarenta y ocho horas siguientes:
 
-Integrado el expediente del recurso de inconformidad por el secretario instructor, será turnado por el Magistrado ponente al secretario proyectista que corresponda para que éste formule y presente un proyecto de resolución a dicho Magistrado, quién de estimarlo conveniente, lo aprobará y lo someterá a la decisión del Pleno.
+I.- El escrito mediante el cual se interpone;
+
+II.- La copia del documento en que conste el acto o resolución impugnados o, si es el caso, copias certificadas de las actas correspondientes del expediente relativo al cómputo de que se trate;
+
+III.- Las pruebas aportadas;
+
+IV.- Los demás escritos de los terceros interesados y de los coadyuvantes;
+
+V.- Un informe circunstanciado sobre el acto o resolución impugnado;
+
+VI.- En el caso del recurso de inconformidad, los escritos de protesta que en su caso obren en su poder; y,
+
+VII.- Los demás elementos que se estimen necesarios para la resolución.
+
+El informe circunstanciado a que se refiere la fracción V de este artículo será rendido por el Secretario del organismo electoral correspondiente y deberá expresar si el promovente del recurso o del escrito del tercero interesado tiene reconocida su personería, y los motivos y fundamentos jurídicos que se consideren pertinentes para sostener la legalidad del acto o resolución impugnada.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 247.
 
-En la sesión del Pleno, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
+Para el recurso de inconformidad, cuando se impugne la asignación de Diputaciones por el principio de representación proporcional, son supuestos los siguientes:
 
-I.- El magistrado ponente presentará el caso e indicará el sentido de su proyecto de resolución, señalando las consideraciones jurídicas y los preceptos legales en que aquél se funde;
+I.- Que se hayan otorgado indebidamente constancias de asignación de esta elección; o,
 
-II.- Los magistrados podrán discutir el proyecto en turno;
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-III.- Cuando el Presidente considere suficientemente discutido el asunto, lo someterá a votación; y
+II.- Que la asignación de Diputados por el principio de representación proporcional resulte afectada por las resoluciones que en su caso hubiere dictado el Tribunal, o que se haya aplicado erróneamente la fórmula que para tal efecto establece la Constitución Política Local.
 
-IV.- Los magistrados podrán presentar voto particular, el cual se agregará al expediente.
-
-En casos extraordinarios el Tribunal podrá diferir la resolución de un asunto listado.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 248.
 
-El Presidente podrá ordenar que se fije en los estrados con una anticipación de por lo menos veinticuatro horas, la lista de los asuntos que serán ventilados en cada sesión.
+Recibido el recurso de revisión por el organismo electoral competente, el Secretario certificará si se cumplió con lo dispuesto en este Código respecto a los términos, y en todo caso se procederá conforme a lo establecido en el presente ordenamiento.
 
-El Tribunal determinará la hora y día de sus sesiones públicas.
+Si el recurso debe desecharse por notoriamente improcedente o, en su caso, si se ha cumplido con todos los requisitos, el Secretario procederá a formular el proyecto de resolución que corresponda, mismo que será discutido en la primera sesión que se celebre después de su recepción, debiéndose dictar en la misma la resolución, que será engrosada en términos de ley.
+
+Si el organismo electoral remitente omitió algún requisito, se requerirá la complementación de los mismos, procurando que se dicte resolución en términos del párrafo anterior.
+
+Los recursos de revisión deberán resolverse con los elementos que se cuente a más tardar en la segunda sesión posterior a la recepción del recurso.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 249.
 
-El Presidente, a petición de los secretarios instructores, podrá solicitar a las autoridades federales, o requerir a los diversos órganos del Instituto o a las autoridades estatales o municipales, cualquier informe o documento, que obrando en su poder, pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+Recibido un recurso de apelación por el Tribunal Estatal Electoral, se seguirá en lo conducente el procedimiento señalado en el artículo anterior. Se substanciará el recurso integrándose el expediente y se turnará al Magistrado Ponente para que se pronuncie la resolución correspondiente.
 
-Las autoridades deberán proporcionar oportunamente los informes o documentos a que se refiere el párrafo anterior.
-
-En casos extraordinarios, el Presidente podrá ordenar que se perfeccione una prueba, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en este Código.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 250.
 
-Los recursos se entenderán como notoriamente improcedentes y serán desechados de plano por las siguientes causales:
+En el recurso de reconsideración se aplicarán en lo conducente las reglas establecidas para el recurso de inconformidad.
 
-I.- No se interpongan por escrito ante el órgano competente que dictó el acto impugnado;
-
-II.- No estén firmados autógrafamente por quien los promueva;
-
-III.- Sean promovidos por quien no tenga interés legítimo;
-
-IV.- Sean presentados fuera de los plazos señalados en este Código;
-
-V.- No se ofrezcan ni se aporten las pruebas en los plazos señalados por este Código, salvo que, por razones justificadas, no obren en poder del promovente. No se requerirá de pruebas cuando el recurso verse en forma exclusiva sobre puntos de derecho;
-
-VI.- No se señalen agravios o los que se expongan, no tengan manifiestamente una relación directa con el acto, resolución o resultado de la elección que se impugna;
-
-VII.- No se reúnan los requisitos que señala este Código para el recurso de inconformidad; y
-
-VIII.- Se impugne más de una elección con un mismo recurso.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 251.
 
-Procede el sobreseimiento de los recursos:
+En la sesión de resolución del Tribunal Estatal Electoral, que deberá ser pública, se discutirán los asuntos en el orden en que se hayan listado, de acuerdo con el procedimiento siguiente:
 
-I.- Cuando el promovente se desista expresamente;
+I.- El Magistrado ponente presentará el caso y el sentido de su resolución, señalando las consideraciones jurídicas y los preceptos legales en que se funda;
 
-II.- Cuando la autoridad electoral modifique o revoque el acto o resolución impugnados, de tal manera que quede sin materia el recurso;
+II.- Los Magistrados podrán discutir el proyecto en turno;
 
-III.- Cuando durante el procedimiento sobrevenga alguna de las causas de improcedencia previstas en el artículo precedente; y
+III.- Cuando el Presidente del Tribunal lo considere suficientemente discutido, lo someterá a votación; y,
 
-IV.- Cuando durante el procedimiento de un recurso, el ciudadano recurrente fallezca o sea suspendido o privado del goce de sus derechos políticos.
+IV.- Los Magistrados podrán presentar voto particular, el cual se agregará al expediente.
+
+La lista de asuntos que serán ventilados en cada sesión será fijada en los estrados respectivos, cuando menos con veinticuatro horas de anticipación.
+
+En casos extraordinarios, el Tribunal podrá diferir la resolución de un asunto listado.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 252.
 
-Podrán acumularse los expedientes de aquellos recursos de inconformidad en que se impugne simultáneamente, por dos o más Partidos Políticos, el mismo acto o resolución.
+El Tribunal requerirá a los diversos organismos electorales, así como a las autoridades estatales o municipales, o solicitará a las autoridades federales cualquier informe o documento que, obrando en su poder, le requiera a las partes o que considere pertinente y que pueda servir para la substanciación de los expedientes, siempre que ello no sea obstáculo para resolver dentro de los plazos establecidos en éste Código.
 
-El Tribunal podrá acumular los expedientes de los recursos que a su juicio lo ameriten.
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO IX. DE LAS RESOLUCIONES
+Las autoridades deberán proporcionar dentro de las 48 horas siguientes, los informes o documentos a que se refiere el párrafo anterior.
+
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
+
+En casos extraordinarios, el Tribunal podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre y cuando ello no sea obstáculo para resolver dentro de los plazos establecidos en éste Código.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO IX. DE LAS PRUEBAS
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 253.
 
-En la tramitación de los recursos previstos por este Código se aceptarán los siguientes medios de prueba:
+Cuando un recurso se considere notoriamente frívolo o su improcedencia se derive de las disposiciones de este Código, el Secretario del organismo electoral correspondiente o el Secretario del Tribunal Estatal Electoral, según sea el caso, dará cuenta del mismo a dicho organismo o al pleno del Tribunal para que resuelvan lo conducente.
 
-I.- Documentales;
-
-II.- Técnicas, cuando por su naturaleza no requieran de perfeccionamiento;
-
-III.- La pericial contable, en el supuesto previsto en el artículo 72 de este Código;
-
-IV.- Instrumental; y
-
-V.- Presuncional.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 254.
 
-Para los efectos de este Código:
+Los recursos se entenderán como notoriamente improcedentes y deberán ser desechados de plano cuando:
 
-I.- Serán pruebas documentales públicas:
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-A).- La documentación expedida por los órganos electorales y las formas oficiales aprobadas por el Consejo Estatal Electoral, en las que consten actuaciones relacionadas con el proceso electoral;
+I.- No se interpongan por escrito ante el Tribunal o ante el organismo electoral que realizó el acto, dictó la resolución o efectuó el cómputo que se impugna;
 
-B).- Los demás documentos originales o certificados que legalmente se expidan por los órganos o funcionarios electorales, dentro del ámbito de su competencia;
+II.- No estén firmados autógrafamente por quien los promueva;
 
-C).- Los documentos expedidos por las demás autoridades estatales y municipales en ejercicio de sus facultades; y
+III.- Sean interpuestos por quien no tenga legitimación o interés en los términos de este Código;
 
-D).- Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con este Código, siempre y cuando en ellos se consignen hechos que les consten.
+IV.- Sean presentados fuera de los plazos que señala este Código;
 
-II.- Serán pruebas documentales privadas todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y se relacionen con sus pretensiones;
+V.- No aporten pruebas en los plazos establecidos en este Código, salvo que señalen las razones justificadas por las que no obren en poder del promovente. No se requerirá de pruebas cuando el recurso verse en forma exclusiva sobre puntos de derecho;
 
-III.- Serán pruebas técnicas todos aquellos medios de reproducción de imágenes y sonidos, que tengan por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar concretamente aquello que pretende probar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduce la prueba;
+VI.- No reúnan los requisitos que señala este Código;
 
-IV.- Será prueba pericial contable aquella prueba que conste en dictamen elaborado por contador público que cuente con título profesional, como resultado del examen de documentos, libros y registros contables;
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-V.- Serán pruebas instrumentales todas las actuaciones que consten en el expediente; y
+VII.- Se impugne más de una elección con un mismo recurso; y
 
-VI.- Se entiende por prueba presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en acta levantada ante el fedatario público que las haya recibido directamente de los declarantes, siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho.
+VIII.- No se señalen agravios o los que se expongan manifiestamente no tengan relación directa con el acto, resolución o resultado de la elección que se pretende combatir.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 255.
 
-Los medios de prueba admitidos serán valorados por el Consejo Estatal y por el Tribunal aplicando las reglas de la lógica, de la sana crítica y de la experiencia, debiendo respetar las reglas siguientes:
+Procede el sobreseimiento de los recursos:
 
-I.- Las documentales públicas tendrán pleno valor probatorio, salvo prueba en contrario; y
+I.- Cuando el promovente se desista expresamente; y,
 
-II.- Las documentales privadas, las técnicas, la pericial contable, la instrumental y la presuncional sólo harán prueba plena cuando a juicio del Consejo Estatal o del Tribunal, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guarden entre sí, generen convicción sobre la veracidad de los hechos afirmados.
+> <small>(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)</small>
 
-### CAPITULO UNICO
+II.- Cuando durante el procedimiento aparezca o sobrevenga alguna causal de improcedencia de las señaladas por este ordenamiento.
+
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO X. DE LAS RESOLUCIONES
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 256.
 
-Serán indicios aquellos que puedan deducirse de los hechos comprobados. También se considerarán como indicios, las declaraciones que consten en acta levantada ante fedatario público que las haya recibido directamente de los declarantes siempre y cuando éstos últimos queden debidamente identificados y asienten la razón de su dicho.
+Podrán acumularse los expedientes de aquellos recursos en que se impugnen simultáneamente por dos o más Partidos Políticos el mismo acto o resolución.
 
-El Tribunal según la naturaleza de los hechos y el enlace lógico y natural que exista entre la verdad conocida y la verdad por conocer, apreciará el valor de los indicios.
+También podrán acumularse los expedientes de recursos interpuestos por un mismo partido en forma separada, pero referentes al mismo acto o resolución.
 
-### CAPITULO UNICO. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+(REUBICADO Y REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)
+
+### CAPITULO I. DE LOS CASOS DE NULIDAD
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 257.
 
-Para el oportuno desahogo de las pruebas a que se refiere este Capítulo, las autoridades y los órganos electorales deberán expedir las que obren en su poder, inmediatamente que se les soliciten.
+En materia electoral sólo serán admitidas las siguientes pruebas:
+
+I. Documentales Públicas y Privadas:
+
+A) Serán Públicas:
+
+I. Las actas oficiales de los escrutinios y cómputos de las mesas directivas de casilla, así como las de los cómputos realizados por los organismos electorales;
+
+2. Las actas oficiales que consten en los expedientes de cada elección, así como las originales autógrafas o las copias certificadas que deben constar en los expedientes de cada elección;
+
+3. Los demás documentos originales expedidos por los organismos o funcionarios electorales, dentro del ámbito de su competencia;
+
+4. Los documentos expedidos por autoridades federales, estatales y municipales, dentro del ámbito de su competencia; y,
+
+5. Los documentos expedidos por quienes estén investidos de fe pública de acuerdo con la ley, siempre y cuando en ellos se consignen hechos que les consten;
+
+B) Serán Privadas:
+
+Todas las demás actas o documentos que aporten las partes, siempre que resulten pertinentes y relacionadas con sus pretensiones;
+
+II.- Técnicas:
+
+Serán admisibles, todos aquellos medios de reproducción de imágenes que tengan por objeto crear convicción en el juzgador acerca de los hechos controvertidos. En estos casos, el oferente deberá señalar concretamente lo que pretende acreditar, identificando a las personas, los lugares y las circunstancias de modo y tiempo que reproduzca la prueba;
+
+III.- Pericial Contable:
+
+La pericial contable será aquella prueba que conste en dictamen elaborado por contador público que cuente con título profesional, como resultado del examen de documentos, libros y registros contables;
+
+IV.- Presuncional;
+
+Se considerará presuncional, además de las que pueda deducir el juzgador de los hechos comprobados, las declaraciones que consten en el acta levantada ante el fedatario público que las haya recibido directamente de los declarantes siempre y cuando estos últimos queden debidamente identificados y asienten la razón de su dicho; y,
+
+V.- Instrumental de Actuaciones.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 258.
 
-Quienes estén legitimados en los términos de este Código aportarán con su escrito inicial, las pruebas que obren en su poder. La única excepción será la de pruebas supervinientes, entendiéndose como tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios y aquellas existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculo que no estaba a su alcance superar, siempre y cuando se aporten antes del cierre de instrucción, y que no altere los plazos que para substanciar y resolver, determine este Código.
+Los medios de prueba aceptados y admitidos serán valorados por los organismos electorales y el Tribunal Estatal Electoral, atendiendo a los principios de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las reglas especiales señaladas en este artículo.
 
-Ninguna prueba aportada fuera de estos casos será tomada en cuenta al resolver el recurso interpuesto.
+Las documentales públicas tendrán valor probatorio pleno, salvo prueba en contrario, respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
-Son objeto de prueba los hechos controvertidos. No lo será el derecho, los hechos notorios o imposibles, ni aquellos hechos que hayan sido reconocidos.
+Las documentales privadas, las técnicas, la pericial contable, las presuncionales y la instrumental de actuaciones sólo harán prueba plena cuando, a juicio de los órganos competentes y del Tribunal, los demás elementos que obren en el expediente, los hechos afirmados, la verdad conocida y el recto raciocinio de la relación que guardan entre sí, generen convicción sobre la veracidad de los hechos afirmados.
 
-El que afirma está obligado a probar. También lo está el que niega cuando su negación envuelva la afirmación expresa de un hecho.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 259.
 
-En tanto no exista disposición expresa o no se opongan a su naturaleza, serán aplicables en lo que sean compatibles, en forma supletoria, las disposiciones del Código Procesal Civil para el Estado de Morelos.
+Quienes estén legitimados en los términos de este Código aportarán con su escrito inicial, las pruebas que obren en su poder; asimismo se concederá al promovente un término de hasta 5 días, contados de momento a momento, a partir de la notificación que se le haga por cédula en estrados, para aportar las pruebas adicionales que haya anunciado en su escrito de impugnación. La única excepción será la de pruebas supervinientes, entendiéndose como tales los medios de convicción surgidos después del plazo legal en que deban aportarse los elementos probatorios y aquellas existentes desde entonces, pero que el promovente, el compareciente o la autoridad electoral no pudieron ofrecer o aportar por desconocerlos o por existir obstáculo que no estaba a su alcance superar, siempre y cuando se aporten antes del cierre de instrucción, y que no altere los plazos que para substanciar y resolver, determine este Código.
+
+La prueba procede sobre los hechos controvertibles. No lo serán controvertibles el derecho, los hechos notorios o imposibles, ni aquellos hechos que hayan sido reconocidos. El que afirma está obligado a probar. También lo está el que niega, cuando su negación envuelva la afirmación expresa de su hecho.
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO II. DE LOS EFECTOS DE LA DECLARACION DE NULIDAD
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 260.
 
-Los recursos de inconformidad serán resueltos por mayoría de los integrantes del Tribunal en el orden en que sean listados para cada sesión, salvo que se acuerde su modificación. Los recursos de inconformidad deberán ser resueltos en su totalidad a más tardar la penúltima semana del mes relativo a la elección, excepto el previsto en la fracción I del artículo 228 de este Código, que deberá resolverse a más tardar a los 30 días naturales siguientes de su recepción.
+Los recursos de inconformidad serán resueltos por mayoría de los integrantes del Tribunal Estatal Electoral en el orden en que sean listados para cada sesión, salvo que se acuerde su modificación. Excepto el caso previsto en el numeral 1, inciso A), fracción III del artículo 227 de este Código, que deberá resolverse dentro de los 30 días naturales siguientes a su recepción, los recursos de inconformidad deberán ser resueltos, a más tardar, en las fechas que se indican a continuación:
+
+I.- En tratándose de actos o resoluciones relativas a la elección de Diputados Locales, hasta el 15 de agosto del año de la elección;
+
+II.- Hasta el primero de septiembre del año de la elección, los que estén relacionados con la elección de Gobernador; y
+
+III.- Hasta el primero de octubre del año de la elección, aquellos recursos que estén relacionados con la elección de Ayuntamientos.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 261.
 
-Toda resolución deberá constar por escrito y contendrá:
+Toda resolución deberá hacerse constar por escrito, y contendrá:
 
-I.- La fecha, lugar y órgano electoral que la dicta;
+I.- La fecha, lugar y autoridad que la dicte;
 
 II.- El resumen de los hechos o puntos de derecho controvertidos;
 
-III.- El análisis de los agravios señalados;
+III.- El examen y la valoración de las pruebas documentales ofrecidas, aportadas y admitidas, y en su caso, las ordenadas por el Tribunal Estatal Electoral;
 
-IV.- El examen y valoración de las pruebas;
+IV.- El análisis de los agravios señalados;
 
 V.- Los fundamentos legales de la resolución;
 
@@ -2967,101 +3611,123 @@ VI.- Los puntos resolutivos; y,
 
 VII.- En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
+
 ###### ARTICULO 262.
 
-Los criterios contenidos en las resoluciones del Pleno del Tribunal constituirán jurisprudencia, siempre que se sustenten en un mismo sentido en cinco resoluciones, sin ninguna en contrario. Para la modificación de la jurisprudencia se deberán observar las reglas establecidas para su formación.
+Las resoluciones que recaigan a los recursos interpuestos tendrán los siguientes efectos:
+
+I.- En tratándose de los recursos de revisión y apelación, el efecto será la confirmación, modificación o revocación del acto o resolución impugnados.
+
+II.- Por cuanto hace a las resoluciones que recaigan sobre los recursos de inconformidad, estas tendrán los siguientes efectos:
+
+A) Confirmar los resultados consignados en las actas de cómputo municipal, distrital o de circunscripción plurinominal;
+
+B) Declarar la nulidad de la votación emitida en una o varias casillas en las hipótesis previstas en el artículo 266; y en consecuencia ordenar al órgano electoral competente la rectificación del cómputo respectivo;
+
+C) Declarar la nulidad de la elección en las hipótesis previstas en el artículo 268, dejando sin efecto el cómputo, la declaración de validez y la entrega de la constancia expedida por el órgano electoral respectivo; y
+
+D) Revocar, confirmar o modificar la resolución que otorgue o niegue el registro de coalición o fusión, así como del registro de un candidato en la etapa preparatoria del proceso electoral.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)(F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 263.
 
-Las resoluciones que recaigan a los recurso de reconsideración tendrán como efecto la confirmación, modificación o revocación del acto o resolución impugnados.
+Los criterios fijados por el Pleno, sentarán Jurisprudencia cuando sustenten el mismo sentido en cinco resoluciones consecutivas, que será obligatoria para todos los órganos electorales de la Entidad.
 
-Las resoluciones que recaigan a estos recursos serán definitivas e inatacables.
+La contradicción de criterios podrá ser planteada por las partes y en cualquier momento. El que prevalezca deberá observarse a partir de que se dicte, sin que puedan modificarse los efectos de las resoluciones pronunciadas con anterioridad.
+
+El Tribunal hará la publicación de los criterios obligatorios dentro de los seis meses siguientes a la conclusión de los procesos electorales.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 264.
 
-Las resoluciones que recaigan a los recursos de inconformidad podrán tener los siguientes efectos:
+Los recursos de revisión deberán ser resueltos por el Consejo Estatal Electoral a más tardar en la segunda sesión que celebre después de su admisión, salvo cuando el recurso de revisión hubiese sido interpuesto dentro de los cinco días anteriores a la elección, siendo en este último caso enviado al Tribunal Estatal Electoral, a fin de que sea resuelto junto con el recurso de inconformidad con el que guarde relación.
 
-I.- Confirmar los resultados consignados en las actas de cómputo municipal, distrital o de circunscripción plurinominal;
+Cuando los recursos de revisión que se presenten cinco días antes de la elección, no guarden relación con uno de inconformidad, se declarará la improcedencia del recurso y se ordenará su archivo.
 
-II.- Declarar la nulidad de la votación emitida en una o varias casillas en las hipótesis previstas en el artículo 267; y en consecuencia ordenar al órgano electoral competente la rectificación del cómputo respectivo;
+Los recursos de apelación serán resueltos por el Tribunal Estatal Electoral, dentro de los cinco días siguientes a aquél en que se admitan.
 
-III.- Declarar la nulidad de la elección en las hipótesis previstas en el artículo 268, dejando sin efecto el cómputo, la declaración de validez y la entrega de la constancia expedida por el órgano electoral respectivo; y
+Los recursos de inconformidad que se presenten en contra de los cómputos distritales o municipales en las elecciones de Diputados o de Ayuntamientos serán resueltos por el propio Tribunal a más tardar quince días antes de que concluya el proceso electoral respectivo y, en el caso del recurso que se interponga en contra del cómputo de circunscripción plurinominal, el Tribunal deberá resolver a más tardar cinco días antes de la conclusión del proceso.
 
-IV.- Declarar la nulidad de la negativa de: registro de coalición o fusión, así como del registro de un candidato en la etapa preparatoria del proceso electoral.
-
-Las resoluciones del Tribunal, deberán también notificarse al Poder Legislativo del Estado.
+(REUBICADO, P.O. 2 DE OCTUBRE DE 1999)
 
 ## TITULO DECIMO TERCERO. DE LAS NULIDADES
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 2 DE OCTUBRE DE 1999)</small>
+
+### CAPITULO UNICO. DE LA IMPOSICION DE SANCIONES POR LA COMISION DE INFRACCIONES ADMINISTRATIVAS
+
 ###### ARTICULO 265.
 
-El Tribunal sólo podrá declarar la nulidad de la votación recibida en una o varias casillas en cualquiera de las elecciones estatales, o la nulidad de una elección de Ayuntamientos o de la elección de Diputados de mayoría relativa, cuando se den los supuestos previstos en este Código.
+Las nulidades establecidas en este Título podrán afectar la votación emitida en una o varias casillas y, en consecuencia, los resultados del cómputo de la elección respectiva. Podrá declararse la nulidad de una elección cuando se den las condiciones que señala el presente código.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 266.
 
-Las nulidades establecidas en este Código, podrán afectar la votación emitida en una casilla y, en consecuencia, los resultados del cómputo de la elección impugnada.
+La votación recibida en una casilla será nula cuando se acredite alguna de las siguientes causales:
 
-Los efectos de las nulidades decretadas por el Tribunal respecto a la votación emitida, modifican exclusivamente la votación o elección para la que expresamente se haya hecho valer el recurso de inconformidad.
+I.- Instalar la casilla, sin causa justificada, en un lugar distinto al señalado por el Consejo Estatal Electoral;
+
+II.- Entregar, sin causa justificada, el paquete de casilla a los Consejos Distritales o Municipales Electorales fuera de los plazos establecidos por este Código.
+
+III.- Realizar, sin causa justificada, el escrutinio y cómputo en local diferente al determinado por el Consejo Estatal Electoral;
+
+IV.- Recibir la votación en fecha distinta a la señalada para la celebración de la elección;
+
+V.- La recepción de la votación por personas u organismos distintos a los facultados por este Código;
+
+VI.- Haber mediado dolo o error en la computación de votos que beneficie a uno de los candidatos o fórmula de candidatos, y esto sea determinante para el resultado de la votación;
+
+VII.- Permitir sufragar sin credencial para votar o permitir el voto a aquéllos cuyo nombre no aparezca en la lista nominal de electores, salvo los casos de excepción previstos en este Código y siempre que ello sea determinante para el resultado de la votación;
+
+VIII.- Haber impedido el acceso a los representantes de los Partidos Políticos, o haberlos expulsado sin causa justificada y siempre que ello sea determinante para el resultado de la elección;
+
+IX.- Cuando exista cohecho o soborno sobre los funcionarios de la mesa directiva de casillas de tal manera que se afecta la libertad o el secreto del voto y esos hechos sean determinantes para el resultado de la votación de la casilla de que se trata;
+
+X.- Cuando el número total de votos emitidos, sea superior al número total de electores que contenga la lista nominal correspondiente, salvo que la diferencia obedezca a los casos de excepción que dispone la Ley;
+
+XI.- Existir irregularidades graves, plenamente acreditadas y no reparables durante la jornada electoral o en las actas de escrutinio y cómputo que, en forma evidente, ponga en duda la certeza de la votación y sean determinantes para el resultado de la misma; y,
+
+XII.- Ejercer violencia física o presión sobre los miembros de la mesa directiva de casilla o sobre los electores, siempre que esos hechos sean determinantes para el resultado de la votación.
+
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 267.
 
-La votación recibida en una casilla electoral, será nula:
+Solo podrá declararse la nulidad de una elección por el principio de mayoría relativa, en un distrito uninominal o municipio, cuando las causas que se invoquen hayan sido plenamente acreditadas y se demuestre que las mismas son determinantes para el resultado de la elección correspondiente.
 
-I.- Cuando, sin causa justificada, la casilla electoral se haya ubicado en distinto lugar del señalado por el Consejo Electoral competente, o se hubiere instalado en hora anterior o en condiciones diferentes a las establecidas por el mismo, o cuando el escrutinio se efectúe en sitio diferente al de la casilla;
+Ningún Partido Político podrá invocar, como causa de nulidad, hechos o circunstancias que él mismo dolosamente haya provocado.
 
-II.- Cuando se ejerza violencia física o presión de alguna autoridad o particular sobre los funcionarios de la Mesa Directiva de Casilla o sobre los electores, de tal manera que afecte la libertad o el secreto del voto, y esos hechos sean determinantes para el resultado de la votación en la casilla de que se trate;
-
-III.- Cuando exista cohecho o soborno sobre los funcionarios de la Mesa Directiva de Casilla, de tal manera que se afecte la libertad o el secreto del voto, y esos hechos sean determinantes para el resultado de la votación en la casilla de que se trate;
-
-IV.- Por haber mediado error grave o dolo manifiesto en el cómputo de votos que beneficie a cualquiera de los candidatos, fórmulas de candidatos o planillas y sea determinante para el resultado de la votación;
-
-V.- Cuando sin causa justificada el paquete electoral sea entregado al Consejo Municipal, fuera de los plazos que este Código establece;
-
-VI.- Cuando se haya permitido sufragar a personas sin credencial para votar o hubiesen votado personas cuyos nombres no aparezcan en la lista nominal de electores, salvo los casos de excepción que señala este Código, y siempre que ello sea determinante para el resultado de la votación en la casilla de que se trate;
-
-VII.- Cuando se reciba la votación en fecha distinta a la señalada para la celebración de la elección;
-
-VIII.- Cuando la recepción de la votación fuere hecha por personas u órganos distintos a los facultados por este Código; y
-
-IX.- Cuando se impida el acceso a las casillas a los representantes de los Partidos Políticos o se les expulse sin causa justificada.
+> <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 268.
 
-Una elección será nula:
+Una elección podrá declararse nula, cuando:
 
-I.- Cuando los integrantes de la fórmula de candidatos que hayan obtenido mayoría de votos en la elección respectiva, no reúnan los requisitos de elegibilidad contenidos en la Constitución Local y en este Código;
+I.- Las causas de nulidad a que se refiere el artículo 266 se declaren existentes en un veinte por ciento de las secciones electorales, en el ámbito de la demarcación correspondiente;
 
-II.- Cuando alguno o algunos de los motivos de nulidad a que se refiere el artículo anterior se declaren existentes en un 20% de las secciones de un Distrito Electoral o Municipio o del Estado, según corresponda a la elección y sean determinantes en el resultado de la elección respectiva;
+II.- No se instalen las casillas en el veinte por ciento de las secciones de la demarcación correspondiente y consecuentemente la votación no hubiere sido recibida; y,
 
-III.- Cuando exista violencia generalizada en el Estado, en un Distrito Electoral o Municipio según afecte a la elección respectiva; y
+III.- Los dos integrantes de una fórmula de candidatos electos por el principio de mayoría relativa no reúnan los requisitos de elegibilidad a que se refiere este Código.
 
-IV.- Cuando no se instalen las casillas en un 35% de las secciones electorales de un Municipio, Distrito o del Estado, según se trate de la elección respectiva.
-
-Solo podrá ser declarada nula la elección en un Distrito Electoral o Municipio cuando las causas que se invoquen hayan sido plenamente acreditadas y sean determinantes para el resultado de la misma.
-
-El Tribunal podrá declarar la nulidad de la elección para Diputados o Ayuntamientos en un Distrito o Municipio cuando se hayan cometido en forma generalizada violaciones substanciales debidamente probadas, durante la jornada electoral en el Distrito o Municipio de que se trate y se demuestre que las mismas son determinantes para el resultado de la elección.
-
-Se entiende por violaciones substanciales:
-
-a) La realización de los escrutinios y cómputos en locales diferentes a los señalados conforme este Código por los organismos electorales competentes o en lugares que no reúnan las condiciones que el propio Código exige;
-
-b) La recepción de la votación en fecha distinta a la señalada para la celebración de la elección; y
-
-c) La recepción de la votación por personas u organismos distintos a los facultados por este Código.
-
-Ningún Partido Político podrá invocar como causa de nulidad hechos o circunstancias que él mismo haya provocado dolosamente.
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 1999)</small>
 
 ###### ARTICULO 269.
 
-Las elecciones cuyos cómputos, constancias de validez, mayoría o de asignación no sean impugnadas en tiempo y forma se considerarán válidas, definitivas e inacatables.
+Los efectos de las nulidades decretadas por el Tribunal Estatal Electoral respecto de la votación emitida en una casilla se limitarán a la elección para la que expresamente se haya hecho valer el recurso.
+
+Las elecciones cuyos cómputos o constancias no sean impugnadas en tiempo y forma se considerarán válidas y definitivas.
+
+(REFORMADO, P.O. 2 DE OCTUBRE DE 1999) (F. DE E., P.O. 24 DE NOVIEMBRE DE 1999)
 
 ###### ARTICULO 270.
 
-Tratándose de la inelegibilidad de la fórmula de candidatos a Diputados por el principio de representación proporcional que deban asignarse a un Partido Político, tomarán el lugar de los declarados no elegibles, los que les sigan en la lista correspondiente del mismo Partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio Partido Político, este derecho, podrá ejercitarlo el Partido Político dentro de la etapa preparatoria del Proceso Electoral.
+Tratándose de la inelegibilidad de candidatos por el principio de representación proporcional, tomará el lugar del declarado no elegible el que le siga en la lista correspondiente al mismo partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio partido político, este derecho podrá ejercitarse dentro de la etapa preparatoria del proceso electoral.
 
-En caso de inelegibilidad de la fórmula de candidatos propietario y suplente incluidos en la planilla de un Partido con derecho a participar en la asignación de Regidores de representación proporcional, tomarán el lugar de los declarados no elegibles los que les sigan en la planilla correspondiente del mismo Partido. Cuando dicha lista se agote o no exista, el que sea designado por el propio Partido Político únicamente dentro de la etapa preparatoria del Proceso Electoral.
-
-Tratándose de inelegibilidad de candidatos propietario y suplente de la planilla que hubiere obtenido mayoría de votos, se estará a lo dispuesto por la Ley Orgánica Municipal.
+En el caso de la declaración de inelegibilidad de un candidato electo por el principio de mayoría relativa, tomará el lugar del declarado no elegible quien fuera su suplente en la fórmula.
 
 ## TITULO DECIMO CUARTO. DE LAS INFRACCIONES Y SANCIONES ADMINISTRATIVAS
 
@@ -3922,3 +4588,13 @@ SECRETARIO GENERAL DE GOBIERNO
 GUILLERMO MALO VELASCO
 
 RUBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 2 DE OCTUBRE DE 1999.
+
+PRIMERO.- Túrnese el presente decreto al Titular del Poder Ejecutivo del Estado para los efectos señalados por los artículos 47 y 70 fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERO.- Todos los reglamentos a los que alude el presente Código; deberán elaborarse en un período no mayor a 60 días por una Comisión que estará integrada por dos Consejeros Electorales y en la que deberán participar los representantes de los Partidos Políticos.
