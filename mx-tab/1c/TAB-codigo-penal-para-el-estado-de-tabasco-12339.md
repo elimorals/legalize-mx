@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "1997-02-05"
+last_updated: "1998-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CODIGO PENAL PARA EL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 21 DE FEBRERO DE 1998.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -1365,6 +1365,8 @@ Al que, en un lugar solitario o desprotegido, haga uso de la violencia sobre alg
 
 ### CAPITULO III. ROBO DE AVES DE CORRAL
 
+(REFORMADO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### Artículo 161.
 
 A quien intimide a otro con causarle daño en su persona o en sus bienes, o en la persona o bienes de un tercero con quien el amenazado tenga vínculos afectivos de cualquier índole, se le aplicará prisión de uno a tres años, sin perjuicio de la pena aplicable, si el agente realiza el mal con el que amenaza.
@@ -1487,11 +1489,17 @@ Toda sentencia de condena por difamación o por calumnia se publicará a solicit
 
 Al que, con ánimo de dominio y sin consentimiento de quien legalmente pueda otorgarlo, se apodere de una cosa mueble ajena se le aplicará:
 
-I.- Trabajo en favor de la comunidad de treinta a sesenta días y multa de veinte a sesenta días multa, cuando el valor de lo robado no exceda de quince veces el salario mínimo, o no sea posible determinar su valor.
+(REFORMADA, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
 
-II.- Prisión de seis meses a dos años y multa de sesenta a ciento veinte días multa, cuando el valor de lo robado exceda de quince pero no de doscientos cincuenta veces el salario mínimo.
+I.- Prisión de tres meses a un año seis meses y multa de veinte a ochenta días multa, cuando el valor de lo robado no exceda de quince veces el salario mínimo;
 
-III.- Prisión de dos a cuatro años y multa de ciento veinte a cuatrocientos días multa, cuando el valor de lo robado exceda de doscientos cincuenta pero no de setecientas cincuenta veces el salario mínimo.
+(REFORMADA, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
+II.- Prisión de un año seis meses a dos años seis meses y multa de ochenta a ciento sesenta días multa, cuando el valor de lo robado exceda de quince pero no de doscientas cincuenta veces el salario mínimo;
+
+(REFORMADA, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
+III. Prisión de dos años seis meses a cuatro años y multa de ciento sesenta a cuatrocientos días multa, cuando el valor de lo robado exceda de doscientas cincuenta pero no de setecientas cincuenta veces el salario mínimo; y
 
 IV.- Prisión de cuatro a diez años y multa de cuatrocientos a seiscientos días multa, cuando el valor de lo robado exceda de setecientas cincuenta veces el salario mínimo.
 
@@ -1503,11 +1511,11 @@ Si el apoderamiento se realiza con ánimo de uso se impondrán de seis meses a u
 
 Para determinar la cuantía del robo se atenderá únicamente al valor de cambio que tenga la cosa en el momento del apoderamiento. Si este valor no puede determinarse o si la cosa por su naturaleza no es estimable en valor de cambio, se aplicará prisión de seis meses a cuatro años.
 
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
 
 ###### Artículo 178.
 
-Las penas previstas en el artículo 175, y en su caso las previstas en los artículos 179 y 180, se aplicarán también:
+Las penas previstas en el artículo 175 y, en su caso, en los artículos 177, 179 y 180 se aplicarán también:
 
 I.- Al que aproveche energía eléctrica o cualquier otro fluído, sin consentimiento de la persona que legalmente pueda otorgarlo;
 
@@ -1519,9 +1527,11 @@ III.- Al que se apodere de frutos pendientes de los árboles o plantas que le di
 
 IV.- Al que se apodere de objetos de naturaleza transportable aunque se encuentren adheridos a un inmueble.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 179.
 
-Se aumentarán en una mitad las penas previstas en el artículo 175 cuando el robo se cometa:
+Se aumentarán en una mitad las penas previstas en los artículos 175 y 177 cuando el robo se cometa:
 
 I.- En lugar cerrado, habitado o destinado para habitación, o en sus dependencias, incluidos los movibles;
 
@@ -1555,9 +1565,29 @@ XIII.- Sobre equipaje o valores de viajero en cualquier lugar durante el transcu
 
 XIV.- Respecto de documentos que se conserven en oficinas públicas, cuando la sustracción afecte el servicio público o cause daño a terceros. Si el delito lo comete un servidor público que labore en la dependencia donde cometió el robo, se le aplicará, además, destitución e inhabilitación para desempeñar otro empleo, cargo o comisión públicos por uno a cinco años.
 
+(ADICIONADO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
+Artículo 179 bis.- Se equiparan al robo y se impondrán las penas previstas en el artículo 175 más una mitad, a quien:
+
+I.- Enajene o trafique de cualquier manera con vehículo o vehículos robados;
+
+II.- Detente, posea o custodie sin derecho, altere o modifique de cualquiera manera, la documentación que acredite la propiedad o identificación de un vehículo robado;
+
+III.- Autorice el traslado de dominio de uno o varios vehículos con documentación apócrifa;
+
+IV.- Desmantele uno o más vehículos cuya propiedad no pueda acreditar, o comercialice conjunta o separadamente sus partes;
+
+> <small>(F. DE E., P.O. 28 DE FEBRERO DE 1998)</small>
+
+V.- Traslade en cualquier forma, el o los vehículos robados dentro del territorio del Estado, a otra entidad federativa o al extranjero; y
+
+VI.- Utilice el o los vehículos robados en la comisión de otro u otros delitos.
+
+(REFORMADO, P.O. 21 DE FEBRERO DE 1998) (F. DE E., P.O. 28 DE FEBRERO DE 1998)
+
 ###### Artículo 180.
 
-Las penas previstas en el artículo anterior y en el artículo 175 se agravarán con prisión de seis meses a cinco años cuando el robo se cometa con violencia física o moral, independientemente de la sanción que corresponda por el delito que se configure con la violencia.
+Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión de seis meses a cinco años cuando el robo se cometa con violencia física o moral, independientemente de la sanción que corresponda por el delito que se configure con la violencia.
 
 ### CAPITULO XVI. DISPOSICIONES COMUNES
 
@@ -1577,11 +1607,17 @@ II.- Marque, señale, contramarque o contraseñale animales ajenos;
 
 III.- A quien expida certificados falsos para obtener guías simulando ventas, o haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros.
 
+> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
 ###### Artículo 183.
 
-Se aplicará prisión de dos a siete años y multa de cien a trescientos días multa al que por sí o por medio de otro o para otro adquiera ganado producto del abigeato, o comercie con pieles o carnes u otros derivados obtenidos del abigeato.
+Se aplicará prisión de seis a doce años y multa de cien a trescientos días multa, al que por sí o por medio de otro o para otro adquiera ganado vacuno, equino o mular producto del abigeato, o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
 
-Al que transporte ganado, carnes, pieles u otros derivados obtenidos mediante abigeato se le impondrá prisión de uno a tres años y multa de veinte a doscientos días multa.
+> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 1998)</small>
+
+Artículo 183 bis.- Se aplicará prisión de dos a cinco años y multa de cien a trescientos días multa, al que por sí o por medio de otro o para otro, adquiera ganado producto del abigeato distinto al señalado en el artículo anterior, o comercie con pieles o carnes u otros derivados obtenidos del abigeato de esta clase de ganado.
+
+Al que transporte ganado, carnes, pieles u otros derivados obtenidos mediante abigeato de cualquiera clase de ganado, se le impondrá prisión de uno a tres años y multa de veinte a doscientos días multa.
 
 ###### Artículo 184.
 
@@ -1605,9 +1641,9 @@ Al servidor público que participe en el abigeato, además de las penas prevista
 
 ###### Artículo 186.
 
-El robo de aves de corral se sancionará con prisión de uno a tres años y de uno a veinte días multa.
+El robo de aves de corral se sancionará con prisión de uno a tres años y multa de veinte a cincuenta días multa.
 
-La reincidencia en el delito previsto en este artículo se castigará con prisión de dos a seis años y de veinte a cuarenta días multa, si fuere la primera; y con prisión de tres a ocho años y de cuarenta a sesenta días multa, la segunda o ulteriores reincidencias.
+La reincidencia en el delito previsto en este artículo se castigará con prisión de dos a seis años y de cincuenta a ochenta días multa, si fuere la primera; y con prisión de tres a ocho años y de ochenta a ciento veinte días multa, la segunda o ulteriores reincidencias.
 
 ### CAPITULO I. SUSTRACCION O RETENCION DE MENORES O INCAPACES
 
@@ -3284,3 +3320,17 @@ LIC. ROBERTO MADRAZO PINTADO.
 LIC. VÍCTOR MANUEL BARCELÓ RODRÍGUEZ.
 
 SECRETARIO DE GOBIERNO.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE CODIGO.</small>
+
+P.O. 21 DE FEBRERO DE 1998.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(F. DE E., P.O. 28 DE FEBRERO DE 1998)</small>
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto las disposiciones que se opongan a lo ordenado en el presente Decreto.
