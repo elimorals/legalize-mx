@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-del-registro-publico-de-la-propiedad-del-estado-5885
 country: "mx"
 rank: "reglamento"
 publication_date: "1981-03-26"
-last_updated: "1983-12-01"
+last_updated: "2000-06-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DEL REGISTRO PUBLICO DE LA PROPIEDAD DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE DICIEMBRE DE 1983.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE JUNIO DE 2000.
 
 Reglamento publicado en el Periódico Oficial del Estado de Jalisco, el jueves 26 de marzo de 1981.
 
@@ -41,9 +41,11 @@ DE LA ORGANIZACION Y FUNCIONAMIENTO DEL REGISTRO
 
 ### CAPITULO PRIMERO (SIC). DISPOSICIONES GENERALES
 
-###### Artículo 1.
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2000)</small>
 
-° Las disposiciones de este Reglamento regularán las funciones registrales que en materia de bienes corresponden al Estado, las que se llevarán a cabo por la dirección del Registro Público de la Propiedad.
+###### Art. 1.
+
+° Las disposiciones de este Reglamento regularán las funciones registrales que en materia de bienes corresponden al Estado, las que se llevarán a cabo por la Dirección General del Registro Público de la Propiedad.
 
 > <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
@@ -59,29 +61,45 @@ DE LA ORGANIZACION Y FUNCIONAMIENTO DEL REGISTRO
 
 ° Para el cumplimiento de su cometido el Registro Público de la Propiedad estará estructurado de la siguiente manera:
 
-l. Una Dirección;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
 
-II. Dos Subdirecciones;
+I. Una Dirección General;
 
-III. Un Departamento Administrativo;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
 
-IV. Un Departamento de Asesoría Técnica;
+II. Una Dirección del Registro Público de La Propiedad;
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCION, VEASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL REGLAMENTO.</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
 
-(REFORMADA, P.O. 30 DE JULIO DE 1983) (F. DE E., P.O. 16 DE AGOSTO DE 1983)
+III. Una Dirección Jurídica y de Comercio;
 
-V. Catorce Oficinas Registrales.
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
 
-### CAPITULO SEGUNDO (SIC). DE LA DIRECCION
+IV. Una Coordinación Metropolitana;
+
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
+
+V. Una Coordinación Foránea;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE JUNIO DE 2000)</small>
+
+VI. Quince Oficinas Registrales.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2000)</small>
+
+### CAPITULO II. DE LA DIRECCION GENERAL
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 4.
 
-° La Dirección del Registro, con resiencia (sic) en la capital, coordinará las actividades registrales en el Estado, y estará a cargo de un director.
+° La Dirección General del Registro, con residencia en la capital, coordinará las actividades registrales en el Estado, estará a cargo de un Director General
+
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 5.
 
-° Para ser director se requiere:
+° Para ser director general se requiere:
 
 I. Ser ciudadano mexicano y haber cumplido veinticinco años de edad.
 
@@ -89,9 +107,11 @@ II. Ser abogado con un mínimo de tres años de práctica profesional, de prefer
 
 III. Encontrarse en pleno ejercicio de sus derechos civiles y políticos.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
+
 ###### Art. 6.
 
-° Son obligaciones del director:
+° Son obligaciones del director general:
 
 I. Ejercer la función directiva del Registro Público de la Propiedad;
 
@@ -99,7 +119,9 @@ II. Vigilar el funcionamiento y mejoramiento de la Institución en el Estado, de
 
 III. Practicar las visitas necesarias a las Oficinas Registrales para cerciorarse de sus necesidades y de la buena marcha del servicio;
 
-IV. Proporcionar a través del Departamento Administrativo, los elementos que se requieran para el correcto funcionamiento de las oficinas registrales;
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
+
+IV. Proporcionar a través de las Direcciones de área y de las coordinaciones, los elementos que se requieran para el correcto funcionamiento de las oficinas registrales;
 
 V. Ordenar en su caso la reposición o restauración de libros y documentos deteriorados, destruidos o extraviados de acuerdo con las constancias existentes en el Registro y las que proporcionen las autoridades, los notarios o los interesados. Al efecto se levantará por el Registrador acta pormenorizada en la que conste la pérdida o destrucción del libro o documento, la que servirá de base para la reposición;
 
@@ -109,9 +131,9 @@ VI. Proporcionar a las Dependencias Oficiales los datos estadísticos necesarios
 
 VII. Rendir a la Secretaría General de Gobierno una vez al año o cuando ésta lo solicite un informe del estado que guarda la Dirección y las oficinas del Registro;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2000)</small>
 
-VIII. Tener a su cargo la Primera y Segunda Oficinas registrales de la capital auxiliado por los Subdirectores con las obligaciones y facultades a que aluden los Arts. 25 y 26 de este Reglamento;
+VIII. Tener a su cargo la Primera y Segunda oficinas registrales de la capital auxiliado por los Directores de área y los coordinadores con las obligaciones y facultades a que aluden los artículos 25 y 26 de este Reglamento;
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
@@ -121,11 +143,11 @@ IX. Rendir los informes que soliciten las autoridades y suscribir la corresponde
 
 X. Las demás que le impongan las Leyes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 7.
 
-° Son facultades del Director:
+° Son facultades del director general:
 
 > <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
@@ -137,43 +159,139 @@ II. Girar los instructivos y circulares que sean necesarios para una eficiente p
 
 III. Las demás que le concedan las Leyes.
 
-### CAPITULO III. DE LAS SUBDIRECCIONES
+> <small>(REFORMADA SU DENOMINACION, P.O. 24 DE JUNIO DE 2000)</small>
+
+### CAPITULO III. DE LAS DIRECCIONES Y COORDINACIONES
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 8.
 
-° Habrá dos subdirecciones con residencia en la capital, a cargo cada una de un subdirector; quienes deberán reunir los mismos requisitos exigidos para el director; (sic)
+° Habrá dos direcciones con residencia en la capital, a cargo cada una de un director; quienes deberán reunir los mismos requisitos exigidos para el director general.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Art. 8 bis. Son obligaciones de los Directores de Registro Público de la Propiedad:
+
+I. Vigilar la legalidad y exactitud de los registros que se practiquen y de las certificaciones que se expidan;
+
+II. Supervisar el proceso de calificación registral de acuerdo al sistema sobre los títulos y documentos presentados para su registro, en los términos y plazos previstos en la Ley del Registro Público ordenando, denegando o suspendiendo los mismos;
+
+III. Autorizar con su firma autógrafa los registros o anotaciones que se practiquen de acuerdo con las secciones previstas por la Ley y el Reglamento, así como las certificaciones y cancelaciones previstas por la Ley, teniendo las facultades y obligaciones a que aluden los artículos 25 y 26 de este Reglamento;
+
+IV. Contestar las demandas interpuestas en contra de la Institución, siguiendo los trámites de los juicios en los casos que corresponda, debiendo siempre integrar un expediente para uso exclusivo de la oficina;
+
+V. Coordinar al personal a su cargo para el óptimo funcionamiento del sistema y de la oficina, vigilando el orden interno y dictando las medidas necesarias;
+
+VI. Rendir a la Dirección General dentro de los primeros cinco días hábiles de cada mes, un informe completo de las operaciones realizadas en el mes inmediato anterior de acuerdo con los formatos que al efecto existan;
+
+VII. Dar seguimiento a los Programas que se implementen por la Dirección General, así como cumplir las indicaciones que de la misma provengan y asistir a las reuniones a las que se les convoque;
+
+VIII. Dar los avisos y proporcionar los informes previstos en los ordenamientos legales correspondientes;
+
+IX. Firmar la correspondencia de la oficina;
+
+X. Orientar gratuitamente a los interesados sobre las dudas que tengan relativas al registro de sus documentos;
+
+XI. Registrar los documentos por el orden de su presentación en un plazo que no exceda de diez días hábiles;
+
+XII. En caso de devolución del documento, fundar la negativa, dentro de un término que no exceda de diez días hábiles siguientes a la presentación del documento, y publicar de acuerdo a las indicaciones de la Dirección los listados diarios de devolución;
+
+XIII. Asegurarse de que los avisos preventivos presentados vía manual se efectúen de manera inmediata posterior a su presentación;
+
+XIV. Rendir a las autoridades los informes que les soliciten; previo pago fiscal correspondiente;
+
+XV. Abstenerse de participar de manera directa en cualquier trámite jurídico procesal relacionado con la Institución;
+
+XVI. Optimizar los recursos humanos y materiales a su cargo, siendo su responsabilidad el cabal cumplimiento de los parámetros de productividad que le establezca la Dirección General de acuerdo a las estadísticas;
+
+XVII. Las demás que le impongan las leyes y las que deriven de la naturaleza de su cargo o se les encomienden.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Art. 8 bis 1. Son facultades del Director del Registro Público de la Propiedad:
+
+I. Colaborar con la Dirección General en la formulación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación de personal de la oficina de su adscripción;
+
+II. Proponer a la Dirección General las medidas que estime necesarias para el mejor logro de los objetivos de la Institución;
+
+III. Autorizar los permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas de acuerdo a lo establecido en la Ley de Servidores Públicos;
+
+IV. Incoar los procedimientos administrativos de sanción a los servidores públicos y dictar las medidas disciplinarias que consideren necesarias;
+
+V. Determinar la actividad a desarrollar por el personal a su cargo según las necesidades que demande la Institución;
+
+VI. Suplir al director General en sus ausencias temporales.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Art. 8 bis 2. Son obligaciones del Director Jurídico y de Comercio:
+
+I. Auxiliar al Director General en la elaboración de planes y proyectos;
+
+II. Proporcionar asesoría jurídica registral a los usuarios del servicio, de forma gratuita;
+
+III. Organizar su área para que los trámites de solicitud de información y seguimiento de procesos jurídicos sean realizados con la mayor diligencia y prontitud posible;
+
+IV. Elaborar los informes estadísticos que deba rendir a la Dirección General y a las autoridades que legalmente lo soliciten;
+
+V. Compilar los criterios de interpretación jurídica que se acuerden y que se emitan mediante circulares, difundiéndolas entre los Directores, personal y usuarios de la Institución, debiendo ser permanente la actualización de dichos criterios y la difusión de las tesis jurisprudenciales aplicables a la materia registral. Con el contenido de las circulares, deberá emitir publicaciones con periodicidad trimestral, debiendo incluir todos aquellos artículos y reformas a las leyes que sean relevantes para la función registral;
+
+VI. Dar posesión de su cargo a funcionarios recién nombrados por delegación de la Dirección General;
+
+VII. Diseñar y aplicar un programa anual de Capacitación jurídica al personal que incluya cursos, conferencias, eventos y congresos;
+
+VIII. Tener a su cargo la sección comercio de (sic) con facultades de autorizar con su firma todos los actos registrales que pasen en la oficina, de suscribir la correspondencia oficial, rendir los informes de ley, recibir notificaciones y contestar demandas;
+
+IX. Las demás que estén relacionadas con el aspecto jurídico de la función registral y las que le encomiende la Dirección General.
+
+> <small>(ADICIONADO, P.O. 24 DE JUNIO DE 2000)</small>
+
+Art. 8 bis 3. Son facultades del Director Jurídico y de Comercio:
+
+I. Representar legalmente al Director General del Registro Público de la Propiedad;
+
+II. Dictaminar la responsabilidad de los servidores públicos que laboren para la Institución de acuerdo con la Ley de Responsabilidades y de Servidores Públicos y conforme a los preceptos que establece la Ley y a este propio ordenamiento;
+
+III. Dar seguimiento a las quejas, demandas y denuncias interpuestas por los servidores públicos que tengan facultades para ello dentro de la Institución;
+
+IV. Supervisar de manera periódica las oficinas registrales foráneas, para verificar el buen funcionamiento de las mismas y el apego al cumplimiento a las normas aplicables, debiendo hacer un reporte de cada visita;
+
+V. Proponer al Director General las medidas que aporten soluciones de carácter jurídico;
+
+VI. Practicar sin previo aviso revisiones jurídicas al personal con funciones registrales y jurídicas;
+
+VII. Tener a su cargo la Sección de Comercio con facultades de autorizar con su firma todos los actos registrales que correspondan a la misma, de suscribir la correspondencia oficial, rendir los informes de ley, recibir notificaciones y contestar demandas, pudiendo ser auxiliado en dicha función por el o los coordinadores que designe el Director General.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 9.
 
-° Son obligaciones de los Subdirectores:
+° Son obligaciones de los coordinadores:
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+I. Auxiliar al Director General y al Director del Registro Público de la Propiedad, en la atención de la Primera y de la Segunda oficinas registrales de la capital, teniendo las obligaciones y facultades a que aluden los artículos 25 y 26 de este Reglamento;
 
-I. Auxiliar al Director, uno de ellos en la atención de la Primera y el otro de la Segunda Oficinas Registrales de la capital, teniendo las obligaciones y facultades a que aluden los Arts. 25 y 26 de este Reglamento;
+II. Suplir al Director de área o al coordinador en caso de impedimento o ausencias temporales, por su orden, quedando facultado en tales casos para autorizar con su firma todos los actos registrales de las oficinas, rendir los informes de ley, suscribir la correspondencia oficial y contestar las demandas;
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
-
-II. Suplir al Director o al Subdirector en caso de impedimento o ausencias temporales, por su orden, quedando facultado en tales casos para autorizar con su firma todos los actos registrales de las oficinas, rendir los informes de Ley, suscribir la correspondencia oficial y contestar demandas;
-
-III. Representar al director, cuando éste así lo disponga, en actos relacionados con la actividad registral;
+III. Representar al director de área, cuando éste así lo disponga, en actos relacionados con la actividad registral;
 
 IV. Auxiliar al director en las labores propias de su cargo y en las que les encomiende;
 
-V. Despachar los asuntos que no estén reservados expresamente al director;
+V. Despachar los asuntos que no están reservados expresamente al director; y
 
-VI. Las demás que les impongan las Leyes.
+VI. Las demás que les impongan las leyes.
+
+> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 10.
 
-° Son facultades de los subdirectores:
+° Son facultades de los coordinadores:
 
-I. Colaborar con el director en la formulación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación del personal de las oficinas registrales;
+I. Colaborar con el director de área del cual dependan en la formación de planes, proyectos y redacción de circulares, así como en las labores de orientación y capacitación del personal de las oficinas registrales;
 
-II. Proponer al director las medidas que estimen necesarias para el mejor logro de los objetivos de la institución;
+II. Proponer al director de área las medidas que estimen necesarias para el mejor logro de los objetivos de la institución; y
 
-III. Las previstas en el Art. 26 de este Reglamento y las demás que les concedan las Leyes.
+III. Las previstas en el artículo 26 de este Reglamento y las demás que les concedan las leyes.
 
 ### CAPITULO IV. DEPARTAMENTO ADMINISTRATIVO
 
@@ -327,21 +445,25 @@ Las oficinas permanecerán abiertas al público, para el desempeño de las labor
 
 En las oficinas de la dirección del Registro Público de la Propiedad, se usará un sello de autorizar con el Escudo Nacional en el centro con el texto: Estados Unidos Mexicanos, que formará el semicírculo superior y fuera en la circunferencia la mención de la Oficina Registral a que corresponda. Con este sello se autorizarán todos los actos del Registro.
 
-> <small>(REFORMADO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 24.
 
-Para ser Jefe de Oficina registral se requiere:
+Para ser Jefe de unidad departamental de oficina registral se requiere:
+
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
 
 I. Ser ciudadano mexicano, abogado con título legalmente registrado y encontrarse en pleno ejercicio de sus derechos civiles y políticos;
 
+> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 1983)</small>
+
 II. Ser de reconocida probidad y buenas costumbres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
 
 ###### Art. 25.
 
-Son obligaciones del Jefe de Oficina:
+Son obligaciones del jefe de unidad departamental de oficina registral:
 
 I. Vigilar la legalidad y exactitud de los registros que se practiquen y de las certificaciones que se expidan;
 
@@ -381,9 +503,11 @@ XIV. Rendir a las Autoridades los informes que le soliciten;
 
 XV. Las demás que le impongan las Leyes y las que deriven de la naturaleza de su cargo o se le encomienden.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE JUNIO DE 2000)</small>
+
 ###### Art. 26.
 
-Son facultades del jefe de oficina:
+Son facultades del jefe de unidad departamental de oficina registral:
 
 l. Autorizar los permisos eventuales de los empleados para dejar de asistir a sus labores por causas justificadas;
 
@@ -1046,3 +1170,9 @@ P.O. 1 DE DICIEMBRE DE 1983.
 Primero. Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
 
 Segundo. Se derogan las disposiciones que se opongan al presente.
+
+P.O. 24 DE JUNIO DE 2000.
+
+###### ARTICULO UNICO.
+
+El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
