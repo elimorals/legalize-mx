@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-procedimientos-civiles-del-estado-de-guanajuato-39958
 country: "mx"
 rank: "codigo"
 publication_date: "1934-03-08"
-last_updated: "1987-08-07"
+last_updated: "1988-01-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CODIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE GUANAJUATO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE AGOSTO DE 1987.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 5 DE ENERO DE 1988.
 
 Código publicado en el Anexo del Periódico Oficial del Estado de Guanajuato, el 8 de marzo de 1934.
 
@@ -254,6 +254,10 @@ II.- El del lugar convenido para el cumplimiento de la obligación;
 III.- El de la ubicación de la cosa, tratándose de acciones reales sobre inmuebles o de controversias derivadas del contrato de arrendamiento. Si las cosas estuvieren situadas o abarcaren dos o más circunscripciones territoriales, será competente el juez que prevenga en el conocimiento del negocio;
 
 IV.- El del domicilio del demandado, tratándose de acciones reales sobre muebles, o de acciones personales o del estado civil;
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 1988)</small>
+
+Tratándose de responsabilidad civil, es juez competente el del lugar donde se realizó el hecho que le haya dado origen, o el del domicilio del demandado a elección del actor o demandante.
 
 > <small>(F. DE E., P.O. 8 DE MARZO DE 1934)</small>
 
@@ -4844,3 +4848,9 @@ P.O. 7 DE AGOSTO DE 1987.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 5 DE ENERO DE 1988.
+
+###### ARTICULO UNICO.
+
+El presente decreto entrará en vigor el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
