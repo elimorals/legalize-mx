@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-fomento-economico-para-el-estado-de-morelos-15915"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "1999-12-22"
+last_updated: "2001-05-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MAYO DE 2001.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 22 de diciembre de 1999.
 
@@ -57,11 +57,13 @@ LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MORELOS
 
 ### CAPÍTULO I. DEL OBJETO DE LA LEY
 
+> <small>(REFORMADO, P.O. 23 DE MAYO DE 2001)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto fomentar el desarrollo económico de los sectores agropecuario, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros en el Estado de Morelos, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como facilitar la constitución e instalación de empresas, simplificando trámites administrativos y promoviendo la coordinación entre Autoridades Federales, Estatales y Municipales, para tal fin.
+La presente Ley es de orden público e interés social y tiene por objeto fomentar el desarrollo económico de los sectores agropecuario, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, turístico, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros en el Estado de Morelos, mediante el otorgamiento de apoyos fiscales, financieros, de mercado y de asistencia técnica, así como facilitar la constitución e instalación de empresas, simplificando trámites administrativos y promoviendo la coordinación entre Autoridades Federales, Estatales y Municipales, para tal fin.
 
-Las actividades de fomento y desarrollo económico se sujetarán a la presente Ley y a lo establecido en el artículo 26 de la Constitución Federal, en la Ley de Planeación, en la Ley Estatal de Planeación y en los Planes Nacional, Estatal y Municipales de Desarrollo.
+Las actividades de fomento y desarrollo económico se sujetarán a la presente Ley y a lo establecido en el artículo 26 de la Constitución Federal, en la Ley de Planeación, en la Ley Estatal y Municipales de Desarrollo.
 
 ### CAPÍTULO II. DE LA APLICACIÓN DE LA LEY
 
@@ -191,7 +193,9 @@ VI.- Apoyar los proyectos productivos que contribuyan a generar nuevos empleos, 
 
 VII.- Invitar a las dependencias federales y a las instituciones nacionales y extranjeras involucradas en las diversas áreas de la actividad económica, para compartir experiencias, realizar estudios y originar propuestas sobre el crecimiento económico del Estado.
 
-VIII.- Impulsar la planta productiva y el empleo, así como la modernización y competitividad de las empresas, en particular el desarrollo económico de los sectores agropecuario, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros en el Estado de Morelos.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+VIII.- Impulsar la planta productiva y el empleo, así como la modernización y competitividad de las empresas, en particular el desarrollo económico de los sectores agropecuario, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, turístico, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros en el Estado de Morelos.
 
 IX.- Sugerir líneas de investigación económica de los asuntos específicos relacionados con los programas de fomento económico en el Estado de Morelos; y
 
@@ -241,7 +245,9 @@ I.- Desarrollar y proponer los criterios, lineamientos y políticas para el impu
 
 II.- Identificar las necesidades de mejora regulatoria respecto de trámites municipales y proponer las medidas para la eliminación de obstáculos en las jurisdicciones.
 
-III.- Identificar proyectos productivos viables que permitan crear empleos dentro de los sectores agropecuario, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros.
+> <small>(REFORMADA, P.O. 23 DE MAYO DE 2001)</small>
+
+III.- Identificar proyectos productivos viables que permitan crear empleos dentro de los sectores agropecuarios, minero, manufacturero o industrial, de electricidad y agua, de construcción, comercial, turístico, de transportes y comunicaciones, financiero y de alquiler, y de servicios no financieros en el Estado de Morelos.
 
 IV.- Captar propuestas y planteamientos relativos al desarrollo económico del Municipio, las regiones y el Estado.
 
@@ -744,3 +750,11 @@ SECRETARIO GENERAL DE GOBIERNO.
 JORGE ARTURO GARCÍA RUBÍ.
 
 RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 23 DE MAYO DE 2001.
+
+PRIMERO.- Remítase el presente Decreto, al Titular del Poder Ejecutivo del Estado, para los efectos de lo dispuesto por los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado.
