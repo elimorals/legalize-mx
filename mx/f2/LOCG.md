@@ -4,7 +4,7 @@ identifier: "LOCG"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-09-03"
-last_updated: "2004-05-10"
+last_updated: "2004-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14771&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOCG"
 
 LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 10 DE MAYO DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 30 DE DICIEMBRE DE 2004.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de septiembre de 1999.
 
@@ -46,7 +46,9 @@ LEY ORGANICA DEL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS
 
 ###### ARTICULO 3o.
 
-1. El Congreso y las Cámaras que lo componen tendrán la organización y funcionamiento que establecen la Constitución General de la República, esta Ley, el Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos y los ordenamientos internos que cada una de las Cámaras expidan en ejercicio de sus atribuciones constitucionales y legales.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2004)</small>
+
+1. El Congreso y las Cámaras que lo componen tendrán la organización y funcionamiento que establecen la Constitución Política de los Estados Unidos Mexicanos, esta ley, las reglas de funcionamiento del Congreso General y de la Comisión Permanente, así como los reglamentos y acuerdos que cada una de ellas expida sin la intervención de la otra.
 
 2. Esta Ley y sus reformas y adiciones no necesitarán de promulgación del Presidente de la República, ni podrán ser objeto de veto.
 
@@ -1935,3 +1937,9 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publi
 SEGUNDO.- El Centro de Estudios para el Desarrollo Rural Sustentable y la Soberanía Alimentaria deberá estar funcionando a los sesenta días naturales posteriores a la publicación de este Decreto en el Diario Oficial de la Federación.
 
 TERCERO.- A efecto de lo anterior, la Cámara de Diputados del H. Congreso de la Unión deberá realizar las previsiones necesarias dentro del término señalado.
+
+D.O.F. 30 DE DICIEMBRE DE 2004.
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- En tanto cada una de las Cámaras del Congreso expide su propio reglamento, seguirán siendo aplicables, en lo que no se opongan a esta Ley, las disposiciones en vigor del Reglamento para el Gobierno Interior del Congreso General de los Estados Unidos Mexicanos.
