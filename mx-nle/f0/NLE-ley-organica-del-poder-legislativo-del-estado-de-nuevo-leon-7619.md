@@ -4,7 +4,7 @@ identifier: "NLE-ley-organica-del-poder-legislativo-del-estado-de-nuevo-leon-761
 country: "mx"
 rank: "ley_organica"
 publication_date: "1992-09-11"
-last_updated: "1997-10-24"
+last_updated: "1998-07-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 1997.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE JULIO DE 1998.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 11 de septiembre de 1992.
 
@@ -647,23 +647,33 @@ El Oficial Mayor será designado por el Pleno del Congreso a propuesta de la Gra
 
 ### CAPITULO I. INSTALACION
 
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
+
 ###### Artículo 83.
 
-La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada por ocho Diputados en ejercicio.
+La víspera del receso, en cada Período de Sesiones Ordinarias, la Legislatura nombrará, a mayoría simple de votos, una Diputación Permanente formada pluralmente por ocho Diputados.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
 
 ###### Artículo 84.
 
-Por el orden de su designación se ocuparán los cargos de Presidente, Vice-Presidente, Primer Secretario, Segundo Secretario y sus respectivos suplentes.
+Por el orden de su designación se ocuparán los cargos de Presidente, Vice-Presidente, Primer Secretario, Segundo Secretario y cuatro vocales.
 
-Los cargos señalados serán para todo el Período de Receso, y los suplentes cubrirán las ausencias de los Propietarios durante la Sesión.
+Los cargos señalados serán para todo el Período de Receso. Las ausencias del Presidente se cubrirán por el Vice-Presidente y las del Primer Secretario se cubrirán por el segundo secretario. Los vocales cubrirán las ausencias en los otros cargos en la forma en que se determine por acuerdo de la mayoría de los presentes.
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 1998)</small>
 
 ###### Artículo 85.
 
-La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo que se trate de día feriado, en cuyo caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por tres miembros de la Permanente.
+La Diputación Permanente tendrá Sesiones Ordinarias los viernes de cada semana a las once horas, salvo acuerdo previo de la misma o que se trate de día feriado, en este último caso la sesión será el día hábil siguiente. Podrá celebrar Sesiones Extraordinarias cualquier día de la semana, previa Convocatoria por escrito signada por el Presidente, o a falta de éste por cinco miembros de la Permanente.
 
 ###### Artículo 86.
 
 Si para sesionar la Permanente no hubiese mayoría, se llamará a alguno o algunos de los integrantes del Congreso, preferentemente los que representen los Distritos del área metropolitana por su cercanía, para lograr la integración de esa mayoría. De no llevarse a cabo la sesión, se pospondrá para la semana siguiente, salvo en caso de urgencia, en que se citará a Sesión Extraordinaria.
+
+> <small>(ADICIONADO, P.O. 10 DE JULIO DE 1998)</small>
+
+Los acuerdos de la Diputación Permanente se tomarán por el voto de la mayoría de los presentes; en caso de empate, el Presidente de la misma tendrá voto de calidad.
 
 ###### Artículo 87.
 
@@ -748,3 +758,7 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 24 DE OCTUBRE DE 1997.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 10 DE JULIO DE 1998.
+
+Artículo Único: El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
