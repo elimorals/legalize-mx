@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-entrega-y-recepcion-de-las-dependencias-37007"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-10-20"
-last_updated: "1992-10-20"
+last_updated: "1998-11-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37007&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO DE ENTREGA Y RECEPCION DE LAS DEPENDENCIAS, DELEGACIONES Y ENTIDADES PARAMUNICIPALES DEL GOBIERNO MUNICIPAL
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 27 DE NOVIEMBRE DE 1998.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de octubre de 1992.
 
@@ -47,9 +47,13 @@ El presente Reglamento establece las disposiciones conforme a las cuales los Tit
 
 Corresponderá a los Titulares de las Dependencias y Delegaciones Municipales, determinaren (sic) sus respectivas áreas de competencia, a los Servidores Públicos de nivel inferior dependientes de su Titularidad, que por la naturaleza e importancia de las funciones públicas que realizan, queden sujetos a estas disposiciones.
 
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
+
 ###### ARTICULO TERCERO.
 
-La entrega y Recepción de los asuntos y recursos a que se refiere el artículo primero, se efectuará mediante Acta Administrativa, en la que se incluirá el informe por escrito, datos adicionales y demas documentación relativa, y contendrá entre otros elementos, situación de los Recursos Financieros, Humanos y Materiales; descripción de los Estudios y Proyectos, Obras Públicas en proceso y, en general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento, o en su caso, desviación de programas, en los términos del Capitulo II del presente Reglamento.
+Para la entrega y recepción de los asuntos y recursos a que se refiere el artículo primero, los Servidores Públicos salientes, deberán llevar a cabo un acto formal en el que se entregará el Acta Administrativa, que incluirá el informe por escrito, datos adicionales y demás documentación relativa, así como la situación de los Recursos Financieros, Humanos y Materiales; descripción de los Estudios y Proyectos, Obras Públicas en proceso y, en general los aspectos relacionados con la situación administrativa, desarrollo, cumplimiento, o en su caso desviación de programas, en los términos del Capitulo II del presente Reglamento.
+
+El Cabildo saliente deberá constituír a mas tardar sesenta días antes de finalizar su gestión, la Comisión o Comisiones de Enlace a que se refieren los artículos 13 y 15 de la Ley para la Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado.
 
 ###### ARTICULO CUARTO.
 
@@ -59,11 +63,15 @@ Si no existe nombramiento o designación de Servidor Público entrante, la entre
 
 ###### ARTICULO QUINTO.
 
-Los documentos e información que se agreguen al Acta Administrativa de Entrega y Recepción del Despacho, deberán circunscribirse a los aspectos más relevantes de la entrega, debiendo presentarse en forma concentrada y global por los Titulares de las Dependencias, Delegaciones Municipales y Entidades Paramunicipales; y en forma analítica por los demás Servidores Públicos obligados en los términos de este Reglamento en tratándose de departamentos y áreas.
+Los documentos e información que se agreguen al Acta Administrativa de Entrega y Recepción del Despacho, deberán circunscribirse a los aspectos más relevantes de la entrega, debiendo presentarse en forma concentrada y global por los Titulares de las Dependencias, Delegaciones Municipales y Entidades Paramunicipales; y en forma analítica por los demás Servidores Públicos obligados en los términos de este Reglamento en tratandose de departamentos y áreas.
+
+> <small>(REFORMADO, P.O. 27 DE NOVIEMBRE DE 1998)</small>
 
 ###### ARTICULO SEXTO.
 
-La verificación del contenido del Acta correspondiente, deberá realizarse a satisfacción del SErvidor Público Entrante, en un término de quince días habiles contados a partir de la fecha de Entrega y Recepción del Despacho, durante dicho lapso el Servidor Público Saliente hara las aclaraciones y proporcionará la información que aquel le solicite, sin perjuicio de las necesidades de aclaraciones que se requieran en tiempo posterior al señalado.
+La verificación del contenido del Acta correspondiente, deberá realizarse a satisfacción del Servidor Público Entrante, en un término de treinta días naturales contados a partir de Entrega y Recepción del Despacho, durante dicho plazo el Servidor Público Saliente, hará las aclaraciones y proporcionará la información que aquél le solicite, sin perjuicio de las necesidades de aclaraciones que se requieran en tiempo posterior al señalado.
+
+Los servidores públicos que se encuentren obligados a realizar la entrega de sus cargos, y que al término de su ejercicio sean ratificados, deberán rendir un informe a su superior jerárquico y a la Sindicatura, en los términos a que se refieren los artículos tercero y decimocuarto del presente Reglamento.
 
 ###### ARTICULO SEPTIMO.
 
@@ -882,3 +890,13 @@ Sin Rúbrica
 C. PROFRA. MA. BELEN MAGALLON C.
 
 Sin Rúbrica
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+
+P.O. 27 DE NOVIEMBRE DE 1998.
+
+SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+
+SEGUNDO: Quedan derogadas todas aquellas disposiciones u ordenamientos municipales de carácter administrativo que se contrapongan a las presentes reformas.
+
+TERCERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, así mismo deberá publicarse en un diario de los de mayor circulación en la localidad para el conocimiento de los vecinos.
