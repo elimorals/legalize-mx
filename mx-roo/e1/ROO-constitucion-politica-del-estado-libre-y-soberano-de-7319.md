@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "1982-01-31"
+last_updated: "1983-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE ENERO DE 1982.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 31 DE MARZO DE 1983.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -215,13 +215,11 @@ Tampoco podrá prolongarse la prisión preventiva por más tiempo del máximo fi
 
 En toda pena de prisión impuesta por una sentencia, se computará el tiempo de la detención.
 
-> <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 ###### ARTICULO 29.
 
-La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la policía judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los reglamentos gubernativos y de policía, que consistirá únicamente en multa o arresto hasta por treinta y seis horas, pero si el infractor no pagare la multa impuesta, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de quince días.
-
-Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayor al importe de su jornal o sueldo de una semana
+La imposición de las penas es propia y exclusiva de la autoridad judicial. La persecución de los delitos incumbe al Ministerio Público y a la Policía Judicial del Estado, la cual estará bajo la autoridad y mando inmediato de aquél. Compete a la autoridad administrativa el castigo de las infracciones a los Reglamentos Gubernativos y de Policía, que consistirá únicamente en multa o arresto hasta por 36 horas, pero si el infractor fuese jornalero, obrero o trabajador no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. La multa impuesta a los trabajadores no asalariados no excederá del equivalente de un día de su ingreso.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -229,7 +227,9 @@ Si el infractor fuese jornalero u obrero, no podrá ser castigado con multa mayo
 
 Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, los azotes, los palos, el tormento de toda especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales.
 
-No se considerará como confiscación de bienes la aplicación total de los bienes de una persona, hecha por la autoridad judicial, para cubrir el monto de la responsabilidad civil derivada de la comisión de un delito, o para el pago de impuestos o multas.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+
+No se considerará como confiscación de bienes la aplicación total de los bienes de una persona, hecha, por la autoridad judicial, para cubrir el monto de la responsabilidad civil derivada de la comisión de un delito, o para el pago de impuestos o multas, ni el decomiso de los bienes en caso de enriquecimiento ilícito en los términos del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos y 170 de la Constitución Política del Estado.
 
 ### CAPITULO II. De las Garantías Sociales
 
@@ -655,9 +655,13 @@ XXXVI.- Resolver los conflictos que surjan entre los ayuntamientos entre sí y e
 
 XXXVII.- Definir los límites de los municipios en caso de duda surgida entre ellos, salvo cuando tengan carácter contencioso.
 
-XXXVIII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave calificada por la propia Legislatura, mediante el voto de las dos terceras partes de la totalidad de los diputados.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
 
-XXXIX.- Designar, a propuesta del Ejecutivo, a los integrantes de las Juntas de Gobiernoo (sic) Municipales.
+XXXVIII.- Decidir sobre la desaparición de poderes municipales, sólo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de los Diputados siempre y cuando los miembros del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.
+
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
+XXXIX.- Designar a los integrantes de las juntas de gobierno municipal en los casos previstos por esta Constitución.
 
 XL.- Expedir la Ley de Expropiación por causa de utilidad pública.
 
@@ -817,7 +821,7 @@ X.- Tener bajo su mando la fuerza pública en los municipios donde resida habitu
 
 XI.- Ejercer las facultades que le otorgue la Constitución Federal en relación a la Guardia Nacional.
 
-XII.- Proponer a la Legislatura o a la Diputación Permanente, en su caso, la integración de las Juntas de Gobierno Municipales, en los casos que señala esta Constitución.
+XII.- (DEROGADA, P.O. 31 DE MARZO DE 1983)
 
 XIII.- Representar al Estado en las comisiones federales y en las comisiones interestatales regionales.
 
@@ -1119,6 +1123,10 @@ Cada municipio será administrado por un ayuntamiento de elección popular direc
 
 Los municipios podrán tener representación en los organismos oficiales, federales y estatales que realicen obras dentro de su circunscripción.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 1983)</small>
+
+Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal; participar en la creación y administración de sus reservas territoriales; controlar y vigilar la utilización del suelo en sus jurisdicciones territoriales; intervenir en la regularización de la tenencia de la tierra urbana; otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas. Para tal efecto y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+
 ###### ARTICULO 129.
 
 El Estado de Quintana Roo, se integra con los siguientes municipios: Othón P. Blanco, Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez e Isla Mujeres.
@@ -1243,15 +1251,29 @@ Los bienes de dominio público municipal son inalienables, imprescriptibles e in
 
 Los bienes de dominio privado, podrán ser enajenados mediante acuerdo del ayuntamiento.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+
 ###### ARTICULO 143.
 
-La hacienda de los municipios del Estado, se formará con las percepciones que establezca su Ley de Ingresos y demás disposiciones relativas y las que adquiera por concepto de subsidios, participaciones, legados, donaciones o por cualquier otra causa.
+La Hacienda Pública de los Municipios se formará con los rendimientos de los bienes que le pertenezcan, las contribuciones y percepciones que establezca su Ley de Ingresos y demás disposiciones relativas, y las que adquieran por:
+
+a) Contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valos (sic) de los inmuebles.
+
+Los Municipios podrán celebrar convenios con el Estado para que ésta se haga cargo de algunas funciones relacionadas con la administración de esas contribuciones.
+
+b) Los ingresos derivados de la prestación de los servicios públicos a su cargo.
+
+No se establecerán ni concederán exenciones o subsidios respecto de las anteriores contribuciones, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de dichas contribuciones.
+
+c) Las participaciones federales que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la Legislatura.
+
+d) Subsidios, legados, donaciones, o por cualquier otra causa.
 
 ###### ARTICULO 144.
 
 El ayuntamiento es el órgano de gobierno municipal a través del cual el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 ### CAPITULO V. Del Gobierno Municipal
 
@@ -1259,11 +1281,13 @@ Concepto e Integración
 
 ###### ARTICULO 145.
 
-Los ayuntamientos se integran de la siguiente forma:
+Los Ayuntamientos se integran de la siguiente forma:
 
-I. En los Municipios de Othón P. Blanco y Benito Juárez, con un presidente, un síndico y ocho regidores.
+I. En los Municipios de Othón P. Blanco y Benito Juárez, con un Presidente, un Síndico, 7 Regidores electos según el principio de mayoría relativa y hasta tres regidores electos según el principio de representación proporcional.
 
-II. En los Municipios de Felipe Carrillo Puerto, José Ma. Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un presidente un síndico y cinco regidores, se elegirá un suplente para el síndico y uno para cada regidor.
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, con un Presidente, un Síndico, 5 Regidores de Mayoría Relativa y hasta 2 regidores de representación proporcional.
+
+Se elegirá un suplente para el Síndico y uno para cada regidor.
 
 ###### ARTICULO 146.
 
@@ -1271,7 +1295,7 @@ Ningún ciudadano puede excusarse de servir al cargo de presidente, síndico o r
 
 ### CAPITULO VI. De la Elección del Ayuntamiento
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 1978)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 ###### ARTICULO 147.
 
@@ -1279,17 +1303,13 @@ El ayuntamiento reside en la cabecera del municipio y sus miembros durarán tres
 
 ###### ARTICULO 148.
 
-Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos.
+Los miembros del Ayuntamiento se elegirán por sufragio universal directo, libre y secreto de los ciudadanos quintanarroenses en ejercicio de sus derechos, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes.
 
-Los Ayuntamientos de Felipe Carrillo Puerto, Benito Juárez, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, se elegirán por planillas y mediante el sistema electoral de mayoría relativa.
+I. En los Municipios de Othón P. Blanco, y Benito Juárez, cada Partido Político postulará una lista de nueve personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas e Isla Mujeres, cada partido político postulará una lista de siete personas para ocupar los cargos de Presidente Municipal, Síndico y Regidores.
 
-El Ayuntamiento de Othón P. Blanco y aquellos que conforme al último censo, su población sea de 100,000 o más habitantes, se elegirán por el sistema electoral mixto de mayoría relativa y representación proporcional, conforme a las bases siguientes y a lo que en particular disponga la Ley.
+II. El Partido Político que obtenga mayoría de votos acreditará a sus miembros en los cargos para los que fueron postulados.
 
-I. Cada partido político deberá postular una lista de diez personas para ocupar los cargos de presidente municipal, síndico y regidores.
-
-II. El partido político que logra la votación más alta se le acreditarán los cargos de Presidente Municipal y Síndico.
-
-III. Las regidurías se asignarán proporcionalmente mediante la fórmula de cociente electoral simple y en su caso por el método de resto mayor.
+III. Los cargos de Regidores de representación proporcional, se asignarán a los partidos políticos que hayan obtenido por lo menos el 1.5 por ciento del total de votos válidos emitidos en los Municipios donde hubieren participado; excepto el Partido Político que haya obtenido mayoría de votos. Para la Asignación se observará lo dispuesto en la Ley Electoral del Estado, la que reglamentará las fórmulas electorales y los procedimientos que se establezcan.
 
 ###### ARTICULO 149.
 
@@ -1337,11 +1357,15 @@ En caso de falta absoluta del presidente municipal, el ayuntamiento por mayoría
 
 En caso de falta absoluta del síndico o regidores, el ayuntamiento llamará a los suplentes respectivos, quienes rendirán la protesta y asumirán el desempeño del cargo.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+
 ###### ARTICULO 156.
 
-Cuando no se hubiere verificado la elección en la fecha que debe renovarse el ayuntamiento, o efectuada ésta, no se presentaren sus miembros a tomar posesión de su cargo, la Legislatura del Estado o la Diputación Permanente, en su caso, a propuesta del Ejecutivo, nombrará una Junta de Gobierno Municipal que asumirá provisionalmente las funciones del ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso deberán celebrarse en un plazo no mayor de 45 días. El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa, desaparezca el ayuntamiento dentro del primer año de su ejercicio.
+Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presentaren sus miembros al tomar posesión de sus cargos y conforme a la ley no procediera que entraren en funciones los suplentes, la Legislatura del Estado o la Diputación Permanente en su caso, nombrará de entre los vecinos a una junta de Gobierno Municipal que asumirá provisionalmente las funciones del Ayuntamiento y convocará a elecciones extraordinarias, las que en todo caso deberán celebrarse en un plazo no mayor de 45 días.
 
-Cuando la desaparición de poderes se dé en los dos últimos años del período de gobierno municipal, la Legislatura del Estado o la Diputación Permanente, en su caso, a propuesta del Gobernador, nombrará una Junta de Gobierno Municipal, que concluirá el periodo de gobierno.
+El mismo procedimiento se seguirá cuando la elección se declare nula o cuando por cualquier causa, desaparezca el Ayuntamiento dentro del primer año de su ejercicio.
+
+Cuando la desaparición de poderes se dé en los dos últimos años del período del Gobierno Municipal, la Legislatura del Estado o la Diputación Permanente en su caso, nombrará entre los vecinos a un concejo municipal que concluirá el periodo de Gobierno.
 
 ### CAPITULO IX. De los Titulares del Gobierno Municipal
 
@@ -1363,19 +1387,43 @@ Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio
 
 ## TITULO SEPTIMO. De los Municipios
 
-### CAPITULO UNICO. De la Responsabilidad de los Funcionarios y Empleados Públicos
+### CAPITULO UNICO. De la Responsabilidad de los Servidores Públicos
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
 
 ###### ARTICULO 170.
 
-Los funcionarios y empleados del gobierno del Estado y de sus ayuntamientos son responsables de los delitos y faltas oficiales cometidas en el desempeño de sus cargos. La Legislatura del Estado expedirá una Ley de Responsabilidad de los Funcionarios y Empleados del Estado y de los Municipios.
+Para los efectos de este título, se reputarán como servidores públicos a los representantes de elección popular, funcionarios y empleados del Gobierno del Estado y de los Ayuntamientos y a toda persona que desempeñe un cargo de cualquier naturaleza en los Poderes Legislativo, Ejecutivo y Judicial, Ayuntamientos, Organismos Descentralizados o de Participación Estatal y Fideicomisos Públicos del Estado.
+
+La Legislatura del Estado expedirá una Ley de Responsabilidades de los servidores públicos así como las demás disposiciones que sancionen conductas que entrañen responsabilidad de los servidores públicos conforme a las siguientes prevenciones:
+
+I. Se impondrá mediante juicio político, a los Diputados de la Legislatura, Magistrados del Tribunal Superior de Justicia, Secretarios del Despacho, Procurador General de Justicia del Estado, Jueces del Fuero Común, Directores Generales o sus equivalentes de los Organismos Descentralizados o Empresas (sic) Participación Estatal o Fideicomisos del Estado y miembros del Ayuntamiento, sanciones que consistirán en destitución del Servidor Público, y en su inhabilitación para desempeñar funciones y empleos, cargos o comisiones de cualquier naturaleza en el Servicio Público, cuando incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Cualquier Ciudadano, bajo su más estricta responsabilidad y aportando los elementos de prueba, podrá formular denuncia ante la Legislatura, de las conductas a que se refiere esta fracción.
+
+La ley correspondiente establecerá el procedimiento del juicio político seguido ante la Legislatura, previniendo la forma de oír al acusado en su defensa.
+
+No procede el juicio político por la mera expresión de ideas.
+
+La Legislatura del Estado conocerá con este procedimiento de los casos que le remita la Cámara de Senadores en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos.
+
+II. El gobernador del Estado, los Diputados a la Legislatura, los Magistrados del Tribunal Superior de Justicia, y los Presidente Municipales, sólo podrán ser sujetos a juicio político por violaciones graves a esta Constitución, y a las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos del Estado.
+
+III. La Legislatura penal del Estado prevendrá como delito común el enriquecimiento ilícito de los Servidores Públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona aumenten sustancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin comprobar su legal procedencia, estableciendo además de la sanción pecuniaria y corporal que corresponda, el decomiso de los bienes que no pudiera justificar legalmente. Así mismo perseguirá y sancionará la comisión de delitos por parte de cualquier servidor público.
+
+IV. Se aplicarán sanciones administrativas a los servidores públicos por actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, mismas que serán determinadas en las Leyes, Reglamentos o Decretos de las Dependencias, Instituciones u Organismos que los creen o regulen su funcionamiento, previniendo el procedimiento la autoridad encargada de aplicarla y la forma de oír al responsable en su defensa.
+
+Los procedimientos para la aplicación de las sanciones mencionadas se desarrollarán autónomamente.
+
+No podrá imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
 ###### ARTICULO 171.
 
 La responsabilidad oficial sólo podrá exigirse durante el tiempo que el funcionario o empleado desempeñe el encargo, y hasta un año después.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 1983)</small>
+
 ###### ARTICULO 172.
 
-El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la patria, violación a la Constitución Federal y del Estado, y delitos graves del orden común.
+El Gobernador del Estado, durante el período de su encargo, sólo podrá ser acusado por los delitos de traición a la Patria y delitos graves del Orden Común.
 
 > <small>(F. DE E., P.O. 13 DE ENERO DE 1975)</small>
 
@@ -1389,7 +1437,9 @@ Son facultades y obligaciones de los ayuntamientos:
 
 I.- Cumplir y hacer cumplir las leyes, decretos y disposiciones federales, estatales y municipales.
 
-II.- Exspedir (sic) su reglamento interior, los gubernativos y de policía.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
+II.- Expedir su Reglamento Interior los Gubernativos y de policía, de acuerdo a las bases normativas establecidas en la Ley Orgánica Municipal.
 
 III.- Convocar a elecciones extraordinarias para cubrir las vacantes de sus miembros en los términos de esta Constitución y de la Ley Electoral.
 
@@ -1399,7 +1449,9 @@ V.- Conceder licencias a sus miembros hasta por treinta días y convocar a quien
 
 VI.- Designar al regidor que deba sustituir al presidente municipal en caso de falta absoluta de éste y convocar a los suplentes del síndico o regidores en los casos de falta absoluta de éstos.
 
-VII.- Mantener los servicios de seguridad pública municipal.
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
+VII.- Mantener los servicios de seguridad pública Municipal y Tránsito.
 
 VIII.- Establecer en el territorio del municipio las delegaciones y subdelegaciones necesarias.
 
@@ -1457,6 +1509,8 @@ XI.- Las demás que le confieran las disposiciones legales aplicables.
 
 ## TITULO OCTAVO
 
+> <small>(REFORMADA SU DENOMINACION, P.O. 31 DE MARZO DE 1983)</small>
+
 ### CAPITULO UNICO. De las Reformas a la Constitución
 
 ###### ARTICULO 174.
@@ -1507,7 +1561,9 @@ II.- Tesorería.
 
 III.- Delegaciones y subdelegaciones municipales.
 
-IV.- De seguridad pública, y
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 1983)</small>
+
+IV.- De seguridad pública y tránsito y
 
 V.- De readaptación social.
 
@@ -1622,3 +1678,13 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 P.O. 31 DE ENERO DE 1982.
 
 UNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE MARZO DE 1983.
+
+PRIMERO.- Las presentes reformas y adiciones a esta Constitución entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las contribuciones señaladas en el artículo 143 que no estén recibiendo los Ayuntamientos comenzarán a percibirlos a partir del 1º de Enero de 1984.
+
+TERCERO. Las leyes locales y sus reglamentos así como los reglamentos municipales respectivos, deberán reformarse o adicionarse en el término que establece el artículo 2º transitorio del decreto que reforma y adiciona el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
+
+CUARTO.- En tanto se deroga en lo conducente la Ley de Tránsito y Explotación de Vías y Carreteras del Estado de Quintana Roo y su reglamento, el Ejecutivo del Estado ejercerá el mando en la corporación de Tránsito del Estado en la forma que lo ha venido haciendo.
