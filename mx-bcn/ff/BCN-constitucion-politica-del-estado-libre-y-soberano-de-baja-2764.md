@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "1974-02-10"
+last_updated: "1979-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1974.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 1979.
 
-Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
+Constitución publicada en el Periódico Oficial del Estado de Baja California, el 16 de agosto de 1953.
 
 Alfonso García González,
 
@@ -57,9 +57,15 @@ La base de la división territorial y de la organización política y administra
 
 El Estado es Libre y Soberano en todo lo concerniente a su régimen interior, sin más limitaciones que las que establece la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 5.
 
 Todo Poder Público dimana del pueblo y se instituye para beneficio de éste.
+
+Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática y hacer posible el acceso de los ciudadanos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo.
+
+Los partidos políticos son entidades de interés público; la ley determinará las formas específicas de su intervención en el proceso electoral.
 
 ### CAPITULO III.. DE LOS SIMBOLOS OFICIALES
 
@@ -123,31 +129,57 @@ No pueden reunirse dos o más poderes en una sola persona o corporación ni depo
 
 El ejercicio del Poder Legislativo se deposita en una Asamblea de representantes del pueblo, que se denomina Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 14.
 
-El Congreso del Estado se compone de diputados electos cada tres años en forma directa y mayoritaria.
+El Congreso del Estado se compone de diputados electos cada tres años. Por cada diputado propietario se elegirá un suplente.
+
+El Congreso del Estado se integrará por doce diputados electos según el principio de votación mayoritaria relativa mediante el sistema de distritos electorales uninominales y hasta dos diputados que serán electos según el principio de representación proporcional mediante el sistema de listas, votadas en una circunscripción plurinominal única que abarcará todo el Estado, de acuerdo con lo establecido por esta Constitución y la ley respectiva.
+
+Los diputados electos por uno y otro sistemas tendrán las mismas obligaciones y gozarán de las mismas prerrogativas.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
 
 ###### ARTICULO 15.
 
-En ningún caso el número de Distritos Electorales para elegir diputados, será menor de siete. Cuando la población del Estado llegue a cuatrocientos mil habitantes, el número de diputados aumentará a nueve; y cuando pase de ochocientos mil el Congreso se compondrá, por lo menos, de once miembros.
+La elección para los dos diputados según el principio de representación proporcional se sujetará a las bases generales siguientes y a lo que en lo particular disponga la Ley:
+
+I.- Para obtener el registro de su lista, el partido político que lo solicite deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos la tercera parte de los distritos uninominales.
+
+II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de representación proporcional todo aquél partido que: A) no haya obtenido 2 o más constancias de mayoría y B) que alcance por lo menos el 1.5% del total de la votación emitida para todas las listas.
+
+III.- Al partido que cumpla con los supuestos señalados en las Fracciones I y II de este Artículo, le serán asignados por el principio de representación proporcional el número de diputados de su lista que corresponda al porcentaje de votos obtenidos en la circunscripción plurinominal.
+
+En caso de que dos o más partidos se encuentren en las condiciones mencionadas, se atribuirá un diputado al que mayor número de votos alcance y uno al partido que le siga en votación.
+
+La Ley determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, en la asignación se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
+
+IV.- En el caso de que dos o más partidos con derecho a participar en la distribución de las listas, obtengan en su conjunto 2 o más constancias de mayoría, sólo se atribuirá una de las curules que deben asignarse por el principio de representación proporcional, al que obtenga mayor número de votos.
 
 ###### ARTICULO 16.
 
 Los diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1974)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 1979)</small>
 
 ###### ARTICULO 17.
 
-Para ser electo Diputado Propietario o Suplente, se requiere:
+Para ser electo diputado propietario o suplente se requiere:
 
-I.- Ser ciudadano mexicano en ejercicio de sus derechos e hijo de padres mexicanos por nacimiento;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1979)</small>
+
+I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.
 
 > <small>(REFORMADA, P.O. 10 DE FEBRERO DE 1974)</small>
 
 II.- Tener 21 años cumplidos al día de la elección;
 
 III.- Ser nativo del Estado con residencia no menor de dos años en el Distrito por el que sea postulado, o vecino del mismo distrito o población cuando en ella haya dos o más distritos, por lo menos durante cuatro años anteriores a la elección.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
+Para poder figurar en las listas de la circunscripción plurinominal como candidato a diputado se requiere ser nativo del Estado o vecino del mismo por lo menos durante cuatro años anteriores a la elección.
 
 ###### ARTICULO 18.
 
@@ -171,9 +203,11 @@ VII.- Los ministros de cualquier culto.
 
 El Congreso se renovará totalmente cada tres años y se instalará el día 1ro. de octubre posterior a la elección.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 20.
 
-El Congreso calificará las elecciones de sus miembros, resolviendo sobre la legalidad de las mismas. Sus resoluciones serán definitivas o inatacables.
+El Congreso calificará la elección de sus miembros a través de un Colegio Electoral que se integrará con los 4 presuntos diputados que, de acuerdo con las constancias de mayoría que registre la Comisión Local Electoral, hubiesen obtenido mayor número de votos, y por un presunto diputado que hubiese resultado electo en la circunscripción plurinominal, con mayor número de votos.
 
 ###### ARTICULO 21.
 
@@ -657,9 +691,15 @@ El Gobierno de los Municipios se ejercerá por los Ayuntamientos que radicarán 
 
 Los Ayuntamientos se compondrán de Munícipes nombrados en elección popular directa y no habrá ninguna autoridad intermedia entre estos organismos y el Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 1979)</small>
+
 ###### ARTICULO 78.
 
-Los Ayuntamientos estarán formados por un Presidente Municipal, y uno o dos Síndicos y los Regidores que determine la Ley reglamentaria, los que tendrán sus respectivos suplentes.
+Los Ayuntamientos estarán formados por un Presidente Municipal, y uno o dos Síndicos y los Regidores que determine la Ley, los que tendrán sus respectivos suplentes.
+
+En los Ayuntamientos de los Municipios cuya población sea de trescientos mil o más habitantes, habrá además un Regidor electo según el principio de representación proporcional. Para determinar el Regidor que resulte electo según el principio de representación proporcional, se tendrá en cuenta la votación obtenida por los partidos minoritarios que participen en la elección, y de la planilla que obtenga una mayor cantidad de votos, se tomará al candidato que figure en primer término entre los postulados para el cargo de Regidor.
+
+La Ley establecerá todo lo relativo al proceso para la elección de los Ayuntamientos.
 
 ###### ARTICULO 79.
 
@@ -797,7 +837,7 @@ Las relaciones entre el Estado y sus servidores estarán reguladas por Ley del S
 
 I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;
 
-II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad (sic) y antecedentes en el servicio;
+II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigiiedad y antecedentes en el servicio;
 
 III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;
 
@@ -845,7 +885,7 @@ El Gobernador del Estado rendirá la protesta de Ley ante el Congreso o la Comis
 
 " Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado de Baja California y las leyes que de ambas emanen, desempeñando leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Unión y del Estado; y si así no lo hiciere que el pueblo me lo demande."
 
-Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente en su caso, en la siguiente forma:
+Igualmente, los Magistrados del Tribunal Superior de Justicia rendirán la protesta de Ley ante el Congreso o la Comisión Permanente, en su caso, en la siguiente forma:
 
 El Presidente del Congreso preguntará: " Protestáis guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, las leyes que de una y otra emanen y cumplir leal y patrióticamente con los deberes del cargo de Magistrado del Tribunal Superior de Justicia que se os ha conferido?". El interrogado contestará: "Sí protesto". Acto contínuo, dirá el Presidente del Congreso: "Si así no lo hiciéreis, que la Nación y el Estado os lo demanden".
 
@@ -1068,3 +1108,7 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 10 DE FEBRERO DE 1974.
 
 UNICO.- Esta reforma entrará en vigor treinta días después de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 1979.
+
+UNICO.- Las reformas a que se refiere el presente Decreto entrarán en vigor una vez cumplido el procedimiento establecido en el Artículo 112 de la Constitución Política del Estado, y al día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
