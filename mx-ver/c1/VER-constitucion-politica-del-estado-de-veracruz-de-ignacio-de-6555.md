@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "1943-01-28"
+last_updated: "1944-11-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "VER"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ-LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 1943.
-
-REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 Y 23 DE NOVIEMBRE DE 1944.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -98,6 +96,16 @@ G.O. 28 DE ENERO DE 1943.
 REPUBLICADO, G.O. 31 DE AGOSTO DE 1943.
 
 La presente Ley surtirá efectos a partir de la fecha de su publicación, por Bando Solemne.
+
+G.O. 21 Y 23 DE NOVIEMBRE DE 1944.
+
+I.- Esta Ley entrará en vigor a partir de la fecha en que se dé a conocer al público por Bando Solemne.
+
+II.- Al concluir el 30 de noviembre de 1946 el período para el cual fueron designados los Magistrados pares del actual Tribunal Superior de Justicia, el Gobernador hará, con aprobación de la Legislatura, la designación de los Magistrados que deberán cubrir esas vacantes, por el término de cuatro años, hasta finalizar el sexenio respectivo, de manera que pueda renovarse totalmente el Tribunal a partir del período que comenzará el 1° de diciembre de 1950.
+
+III.- Los actuales Jueces de Primera Instancia cesarán en sus funciones el 30 de noviembre de 1944, siempre que no hubieren sido removidos antes por el Tribunal Superior, de acuerdo con sus facultades.
+
+IV.- Las presentes reformas entrarán en vigor desde la fecha de su publicación por Bando Solemne en todas las poblaciones del Estado, señalándose al efecto para tal acto el día 26 del mes en curso.
 
 ### CAPITULO II.
 
@@ -703,7 +711,7 @@ V. Cada año los Municipios remitirán a la Legislatura para su revisión y apro
 
 DEL TRIBUNAL SUPERIOR DE JUSTICIA.
 
-> <small>(REFORMADO, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
 
 ###### Artículo 91.
 
@@ -731,35 +739,37 @@ Se reputará aprobado por el Poder Ejecutivo todo proyecto no devuelto con obser
 
 ###### Artículo 95.
 
-El Tribunal Superior de Justicia se compondrá de diez Magistrados propietarios y cuatro supernumerarios, debiendo ser presidido por el Magistrado que en la elección periódica a que corresponda resulte designado en primer término. El Presidente durará como tal, dos años en su encargo, pasando, terminado éste, a integrar la Sala respectiva, y en sus faltas temporales será substituído por el Magistrado propietario que él designe. El mismo Presidente, mientras lo sea, no integrará Sala sino en los casos expresamente determinados por la Ley. Los Magistrados supernumerarios suplirán las faltas, excusas o impedimentos de los propietarios. Cada Magistrado del Tribunal Superior al entrar a ejercer su cargo, protestará ante la Legislatura y en los recesos de ésta, ante la Diputación Permanente, guardar y hacer guardar la Constitución General, la Particular del Estado y las Leyes que de ambas emanen, mirando en todo por el bien y prosperidad del Estado, así como impartir pronta y recta justicia. Los supernumerarios que al suplir a los propietarios hayan rendido una vez la anterior protesta, no tendrán que repetirla. Los Jueces de primera Instancia, protestarán ante el Presidente del Tribunal o ante la Autoridad Judicial que el mismo Presidente designe. Los Jueces Municipales y los Auxiliares, protestarán, los primeros ante los Jueces primeros o únicos de primera Instancia; y los segundos ante los Jueces Municipales primeros o únicos.
+El Tribunal Superior de Justicia estará integrado por diez Magistrados numerarios y cuatro supernumerarios; funcionará en Pleno o en Salas, según lo determine la Ley, y será presidido por un Magistrado que no formará Sala sino en los casos expresamente señalados. El Presidente será designado por el Tribunal en Pleno, en la primera sesión del mes de diciembre de cada año, pudiendo ser reelecto; en sus faltas temporales será substituído por el Magistrado que él designe. Los Magistrados supernumerarios suplirán las faltas de los numerarios. Cada Magistrado del Tribunal Superior, al entrar a ejercer su cargo, protestará ante la Legislatura, y en los recesos de ésta ante la Diputación Permanente, guardar y hacer guardar la Constitución Federal, la Particular del Estado y las leyes que de ellas emanen, mirando en todo por la prosperidad y bien del Estado, así como impartir recta y pronta justicia.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 28 DE DICIEMBRE DE 1920)</small>
+Los Jueces de Primera Instancia protestarán en los mismos términos, ante el Presidente del Tribunal Superior o ante la Autoridad Judicial que el mismo Presidente designe. Los Jueces Municipales y los Auxiliares, protestarán, respectivamente ante los Jueces Primeros o Unicos de Primera Instancia y ante los Jueces Municipales Primeros o Unicos.
+
+> <small>(REFORMADO, G.O. 21 y 23 DE DICIEMBRE DE 1944)</small>
 
 ###### Artículo 96.
 
-Para ser Magistrado propietario o supernumerario, se requiere:
+Para ser Magistrado se requiere:
 
-I. Ser veracruzano, conforme lo determina el artículo 13, o mexicano por nacimiento, con vecindad de cinco años cumplidos en el Estado;
+I. Ser veracruzano conforme lo determina el artículo 13 de esta Ley, o mexicano por nacimiento con vecindad mínima de cinco años en el Estado.
 
-II. Tener treinta años cumplidos en la fecha de su elección;
+II. Ser mayor de treinta años y menor de sesenta y cinco, el día de la designación.
 
-III. Ser del estado seglar;
+III. No ser ministro de ningún culto religioso.
 
-> <small>(REFORMADA, G.O. 8 DE NOVIEMBRE DE 1924)</small>
+IV. Ser abogado, con título oficial expedido por autoridad o corporación legalmente facultada, con antigüedad mínima de cinco años anteriores al día de la designación, y tener una práctica profesional no menor de ese lapso.
 
-IV.- Ser profesor titulado en la Ciencia del Derecho, tener cinco años de práctica profesional reconocida y tener a juicio de la Legislatura o de la Diputación Permanente, el conocimiento necesario en la Legislación Local;
+V. Ser de notoria moralidad y gozar de buena reputación.
 
-V. No tener empleo, cargo o comisión de otros Estados, ni de la Federación, o renunciarlos y estar separado de ellos antes de tomar posesión; y
+VI. No haber sido condenado por sentencia ejecutoria, dictada por los Tribunales Penales.
 
-> <small>(REFORMADA, G.O. 28 DE DICIEMBRE DE 1920)</small>
-
-VI. Gozar de buena reputación y no haber sido condenado por delito grave que merezca pena corporal de más de una año de prisión; pero si se tratare de delitos oficiales, de robo, fraude, estafa, falsificación, abuso de confianza u otros que lastimen la fama en el concepto público o fueren de los que causen afrenta, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-> <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
 
 ###### Artículo 97.
 
-Los nombramientos de los Magistrados Propietarios y los Supernumerarios, serán propuestos por el Gobernador a la Legislatura, la que otorgará o negará su aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación de la Legislatura, no podrán tomar posesión los Magistrados propuestos por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un nombramiento, que surtirá efectos desde luego, como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días la Legislatura deberá aprobar o reprobar el nombramiento, y si no lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones el Magistrado, y el Gobernador hará nueva proposición ante la Legislatura, en los términos señalados. Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reunan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez, en el ejercicio de sus funciones, serán preferidos a cualquiera otro abogado para ser designados Magistrados.
+Los nombramientos de los Magistrados del Tribunal Superior de Justicia serán hechos directamente por el Gobernador, quedando encomendados los trámites relativos a la Secretaría de Gobierno.
+
+Las designaciones de Magistrados serán sometidas a la aprobación de la Legislatura, la que otorgará o denegará esa aprobación dentro del improrrogable término de diez días. Si la Legislatura no resolviere dentro de dicho término, se tendrán por aprobados los nombramientos. Sin la aprobación expresa o tácita de la Legislatura, no podrán tomar posesión de sus cargos los Magistrados nombrados por el Gobernador. En el caso de que la Legislatura no apruebe dos nombramientos sucesivos respecto de la misma vacante, el Gobernador hará un nombramiento, que surtirá efectos desde luego, como provisional y que será sometido a la aprobación de la Legislatura en el siguiente período ordinario de sesiones. En este período de sesiones, dentro de los primeros diez días, la Legislatura deberá aprobar o reprobar el nombramiento, y si lo aprueba o nada resuelve, el Magistrado nombrado provisionalmente continuará en sus funciones con el carácter de definitivo. Si la Legislatura desecha el nombramiento provisional, cesará desde luego en sus funciones el Magistrado y el Gobernador hará nueva proposición en los términos señalados.
+
+Los Jueces de Primera Instancia y los Agentes del Ministerio Público que reúnan los requisitos prevenidos para ser nombrados Magistrados y que se hayan distinguido por su laboriosidad, eficacia, competencia y honradez en el ejercicio de sus funciones, serán preferidos a cualquier otro abogado para ser designados Magistrados.
 
 > <small>(REFORMADO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
 
@@ -769,19 +779,19 @@ Los Jueces de Primera Instancia y los Municipales serán nombrados por el Tribun
 
 Los Jueces Auxiliares serán designados por el Juez Primero o Unico Municipal correspondiente, con aprobación del Primero o Unico de Primera Instancia del Distrito Judicial en cuya jurisdicción vayan a actuar.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 1 DE NOVIEMBRE DE 1938)</small>
+> <small>(REFORMADO, G.O. 21 y 23 DE NOVIEMBRE DE 1944)</small>
 
 ###### Artículo 99.
 
-Los Magistrados del Tribunal Superior de Justicia durarán en su encargo cuatro años y cada dos serán renovados por mitad.
+Los Magistrados del Tribunal Superior de Justicia y los Jueces de Primera Instancia, durarán en su encargo seis años. Sus funciones terminarán el treinta de noviembre del último año del sexenio judicial correspondiente. Los sexenios deberán computarse a partir del 1° de diciembre de 1944.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+Los Jueces Municipales durarán indefinidamente en sus funciones, siempre que en el ejercicio de ellas se distingan por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia.
 
-Los Jueces de primera Instancia y los Municipales, durarán indefinidamente en sus cargos, siempre que se distingan en el ejercicio de sus funciones por medio de una labor ecuánime y efectiva, para el mejoramiento de la Administración de Justicia, pudiendo ser removidos cuando lo estime conveniente el Tribunal, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
+Los Magistrados del Tribunal Superior y los Jueces de Primera Instancia, sólo podrán ser destituídos por mala conducta comprobada. El Gobernador hará la petición correspondiente a la legislatura y si ésta la considera justificada, previo examen de las pruebas aducidas, lo declarará así y el funcionario acusado quedará privado desde luego de su puesto, independientemente de la responsabilidad legal en que hubiere incurrido. Como consecuencia de ello, se procederá a nueva designación.
 
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 1932)</small>
+Los Jueces Municipales serán removidos cuando lo estime conveniente el Tribunal Superior, por mayoría absoluta de votos de los Magistrados presentes o en los casos que determine la Ley.
 
-Los Jueces Auxiliares, cuyo cargo se estimará Concejil, durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
+Los Jueces Auxiliares, cuyo cargo se estimará concejil, durarán en sus funciones un año, pudiendo ser nombrados nuevamente para el siguiente; pero sin que tengan la obligación de servir más de dos años.
 
 ###### Artículo 100.
 
