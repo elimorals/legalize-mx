@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "1994-07-17"
+last_updated: "1994-10-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE JULIO DE 1994.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1994.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º., domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -311,9 +311,61 @@ Los partidos políticos son entidades de interés público; la Ley determinará 
 
 Los Partidos Políticos tienen como finalidad promover la participación del pueblo en la vida democrática, contribuir a la integración de la Representación Estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postula y mediante el sufragio universal, libre, secreto y directo.
 
-> <small>(ADICIONADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
-Los partidos políticos nacionales registrados, tendrán derecho a participar en las elecciones estatales y municipales.
+Los partidos políticos nacionales y estatales registrados, tendrán derecho a participar en las elecciones Estatales y Municipales. Así mismo tendrán derecho, a conservar su registro y a las prerrogativas que establezca la ley, todo aquel partido que alcance cuando menos el 1.5% de la votación emitida.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+La Ley de la materia establecerá las reglas a que se sujetarán el financiamiento de los partidos políticos y sus campañas electorales.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+La organización de las elecciones es una función estatal que se realiza a través de un organismo público autónomo, que se denominará Instituto Estatal Electoral de Durango, dotado de personalidad jurídica y patrimonio propios, en cuya integración concurrirán los Poderes Ejecutivo y Legislativo del Estado, los partidos políticos y los ciudadanos según lo disponga la ley. En el ejercicio de esa función estatal, la certeza, legalidad, imparcialidad y objetividad, serán principios rectores.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Instituto Estatal Electoral de Durango, será autoridad en la materia, profesional en su desempeño y autónomo en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El órgano superior de dirección se integrará por Consejeros y Consejeros Ciudadanos designados por los Poderes Legislativo y Ejecutivo y por Representantes nombrados por los Partidos Políticos con registro, con los requisitos y procedimientos que establezca la Ley de la materia. Los órganos ejecutivos y técnicos dispondrán del personal necesario para prestar el servicio profesional electoral. Los órganos de vigilancia se integrarán mayoritariamente por representantes de los partidos políticos con los requisitos y procedimiento que la Ley establezca. Las mesas directivas de casillas estarán integradas por ciudadanos.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Instituto Estatal Electoral de Durango, agrupará para su desempeño, además de las que le determine la ley, las actividades relativas al padrón electoral, preparación de la jornada electoral, cómputos y otorgamiento de constancias, capacitación electoral y educación cívica e impresión de materiales electorales. Asimismo, atenderá lo relativo a los derechos y prerrogativas de los partidos políticos. Las sesiones de todos los órganos colegiados electorales serán públicas en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+La Ley establecerá un sistema de medios de impugnación de los que conocerá el Instituto Estatal Electoral de Durango y el Tribunal Estatal Electoral. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará que los actos y resoluciones se sujeten invariablemente al principio de legalidad.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+En materia electoral la interposición de los recursos no producirá, en ningún caso, efectos suspensivos del acto o resolución impugnado.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral será órgano autónomo y máxima autoridad jurisdiccional electoral. Los Poderes Legislativo y Ejecutivo garantizarán su debida integración.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral tendrá competencia para resolver en forma definitiva e inatacable, en los términos de esta Constitución y la Ley, las impugnaciones que se presenten en materia electoral y las que establece el Artículo 37 de esta Constitución. Expedirá su Reglamento Interior y realizará las demás atribuciones que le confiera la Ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral funcionará en Pleno y sus sesiones de resolución serán públicas en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+El Tribunal Estatal Electoral se organizará en los términos que señale la ley. Para el ejercicio de su competencia contará con Magistrados, los cuales serán independientes y responderán sólo al mandato de la ley. Los Magistrados del Tribunal deberán satisfacer los requisitos que establezca la Ley, que no podrán ser menores de los que señala esta Constitución para ser Magistrado del Supremo Tribunal de Justicia del Estado. Serán electos por el voto de las dos terceras partes de los Miembros de la Cámara de Diputados, de entre las ternas propuestas por el Titular del Poder Ejecutivo del Estado. Si dicha mayoría no se lograra en la primera votación, el Ejecutivo Estatal presentará nueva terna.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+Los Consejeros Ciudadanos del Instituto Estatal Electoral de Durango deberán satisfacer los requisitos que señale la Ley y serán electos por el voto de las dos terceras partes de los miembros de la Cámara de Diputados de entre las propuestas por los grupos parlamentarios de la propia Cámara.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+La Ley señalará las reglas y el procedimiento correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+Durante los recesos del Congreso del Estado, para la elección a que se refieren los dos párrafos anteriores, se convocará a un período extraordinario de sesiones.
 
 > <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -355,9 +407,13 @@ El Congreso del Estado se integrará con 15 diputados electos según el principi
 
 La elección de los diputados de representación proporcional, bajo el sistema de listas, deberá sujetarse a lo que en particular disponga la legislación electoral relativa, de conformidad con las siguientes bases:
 
-I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa por lo menos en la tercera parte de los distritos electorales uninominales.
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
 
-II.- Tendrá derecho a que le sean atribuidos diputados electos según el principio de proporcionalidad, todo aquel partido que alcance al menos el 2.)% (sic) de la votación emitida para el total de las listas.
+I.- Para obtener la inscripción de sus listas, el partido político que lo solicite, deberá acreditar que tiene su registro y que participa con candidatos a diputados por mayoría relativa en por lo menos dos terceras partes de los distritos electorales uninominales.
+
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+II.- Tendrá derecho a que le sean asignados diputados electos según el principio de proporcionalidad, todo aquel partido que alcance al menos el 2.5% de la votación total emitida.
 
 III.- Al partido que se encuentre dentro de los supuestos señalados en las fracciones I y II de este artículo, le serán asignados los diputados que correspondan de acuerdo al porcentaje de votos obtenidos en la circunscripción. La legislación electoral relativa, determinará las fórmulas electorales y los procedimientos que se observarán en dicha asignación; en todo caso, se seguirá el orden que tuviesen los candidatos en las listas correspondientes.
 
@@ -423,13 +479,15 @@ Los diputados que sin licencia dejaren de concurrir por un mes seguido a cualqui
 
 Igual pena sufrirán los suplentes, en su caso, desde que sean llamados para reemplazar al propietario. Para la aplicación de esta pena se necesita la declaración expresa del Congreso. Las faltas sin licencia, de menos de un mes, se sujetarán a las prescripciones y penas que señale el Reglamento del propio Congreso.
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 1988)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 37.
 
-Las elecciones para integrar el Congreso, serán calificadas a través de un Colegio Electoral que se formará con todos los presuntos diputados que hubieren obtenido constancia expedida por la Comisión Estatal Electoral tanto por los electos por el principio de votación mayoritaria relativa, como los electos por el principio de representación proporcional.
+El Instituto Estatal Electoral de Durango, de acuerdo con lo que disponga la ley, declarará la validez de las elecciones de diputados en cada uno de los distritos electorales uninominales y otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. Asimismo, hará la declaración de validez y la asignación de diputados según el principio de representación proporcional de conformidad con las normas establecidas en la Constitución y en la Ley de la materia.
 
-Corresponde al Gobierno del Estado la preparación, desarrollo y vigilancia de los procesos electorales, la ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen e instituirá un Tribunal de la (sic) Contencioso Electoral, que tendrá la competencia que determine la Ley; las resoluciones serán obligatorias y solo podrán ser modificadas por el Colegio Electoral de la Cámara de Diputados, que será la última instancia en la calificación de las elecciones. Todas estas resoluciones tendrán el carácter de definitivas e inatacables.
+La declaración de validez, el otorgamiento de las constancias y la asignación de diputados podrán ser impugnadas ante el Tribunal Estatal Electoral, en los términos que señala la ley.
+
+Los fallos del Tribunal Estatal Electoral, serán definitivos e inatacables. La ley establecerá los presupuestos, requisitos de procedencia y el trámite para los medios de impugnación.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -441,11 +499,13 @@ SECCION B.- DE LA INSTALACION Y LABORES DEL CONGRESO
 
 El asiento del Congreso es la Capital del Estado. Podrá trasladarse provisionalmente a otro lugar cuando se presenten circunstancias que lo ameriten y así lo acuerden cuando menos las dos terceras partes de los diputados presentes en la sesión en que se trate.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 39.
 
-El Congreso iniciará sus sesiones el primero de Septiembre posterior a la elección. Sesionará ordinariamente del primero de Septiembre al treinta y uno de Diciembre y del quince de Marzo al quince de Julio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los diputados integrantes.
+El Congreso iniciará sus sesiones el 1o. de Septiembre posterior a la elección, sesionará ordinariamente del 1o. de Septiembre al 15 de Diciembre y del 15 de Marzo al 15 de junio de cada año, no pudiendo instalarse ni ejercer sus funciones sin la concurrencia de la mayoría de los Diputados integrantes.
+
+> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
 Cuando los diputados asistentes no reunan el número requerido para la instalación del Congreso, o reuniéndolo no asistiera el total de sus miembros, excitarán a los ausentes para que concurran dentro de los diez días siguientes, con la advertencia de que si no lo hacen sin causa justificada, se entenderá que declinan su responsabilidad, llamándose de inmediato a los Suplentes, los que deberán presentarse dentro de un plazo de diez días. Si los Suplentes no comparecieren sin causa justificada en el plazo señalado, se declararán vacantes los cargos, convocándose a nueva elección, siempre y cuando se trate de diputados de mayoría. En el caso de diputados electos por el principio de representación proporcional, se cubrirá la vacante con aquéllos candidatos del mismo partido que hubieren quedado en lugar preferente en la lista respectiva.
 
@@ -475,7 +535,7 @@ Todas las sesiones serán públicas, con excepción de los casos señalados por 
 
 El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria para las elecciones que procedan de acuerdo con la Ley Electoral del Estado. En caso de falta absoluta de alguno o varios diputados propietarios y de sus respectivos suplentes, el Congreso convocará a elecciones para integrar el total de sus miembros, siempre que ésta circunstancia no ocurra dentro del último semestre del período Constitucional y que estuviere en funciones la mayoría de los diputados; a falta de esta mayoría, el Ejecutivo expedirá la convocatoria respectiva.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ### CAPITULO SEGUNDO. DEL TERRITORIO
 
@@ -483,13 +543,13 @@ El Congreso o la Comisión Permanente, en su caso, expedirá la convocatoria par
 
 ###### ARTICULO 43.
 
-Durante el mes de Agosto del año de la elección la Comisión Permanente convocará a los Diputados electos para que integren el Colegio Electoral en la forma prevista en el Artículo 39 de este Ordenamiento.
+Durante el mes de Agosto del año de la elección, la Comisión Permanente convocará a los Diputados Electos a una Junta Preparatoria.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 44.
 
-Calificadas las elecciones de diputados por el Colegio Electoral, se convocará a los diputados electos a una junta preparatoria en la que se designará la directiva inicial de la nueva Legislatura.
+En la Junta Preparatoria a que se refiere el Artículo anterior, los Diputados electos designarán la Directiva Inicial de la nueva Legislatura.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 1979)</small>
 
@@ -501,27 +561,25 @@ Calificadas las elecciones de diputados por el Colegio Electoral, se convocará 
 
 Los Diputados son defensores de los derechos sociales de los habitantes que representan en el Congreso del Estado. Tienen el deber de ser gestores de los problemas que afecten a los habitantes de sus Distritos o a sus representaciones proporcionales minoritarias. Los Diputados de mayoría relativa tienen además la obligación de recorrer los Municipios de sus Distritos durante los períodos de receso. Se exceptúan de esta obligación los Diputados que integran la Comisión Permanente.
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 46.
 
-Los Diputados de Mayoría Relativa tienen la obligación de rendir ante sus representados un informe de sus gestiones e intervenciones en beneficio de los habitantes de los Municipios comprendidos en sus respectivos Distritos Electorales. Dicho informe será rendido durante la segunda quincena del mes de Julio de cada año.
+Los Diputados de Mayoría Relativa enviarán por escrito a los H.H. Cabildos de los Municipios comprendidos en sus respectivos distritos electorales, un informe de sus gestiones e intervenciones en beneficio de los habitantes de sus respectivos distritos. Los Diputados de representación Proporcional presentaran su informe ante la Comisión Permanente del H. Congreso del Estado.. (sic) Los informes seran presentados durante la segunda quincena del mes de junio de cada año. En ambos casos los Diputados podran comparecer, si así lo estiman pertinente, ante sus representados.
 
 ###### ARTICULO 47.
 
 (DEROGADO, P.O. 27 DE JUNIO DE 1993)
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 48.
 
-El Primero de Septiembre de cada año, al inicio de las sesiones del Congreso, el Gobernador del Estado enviará por escrito un informe de la situación que guarda la Administración Pública, y podrá comparecer a dicha sesión solemne para dirigir un mensaje, en cuyo caso, el Presidente del Congreso podrá hacer las apreciaciones correspondientes.
-
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
+El 12 de Septiembre de cada año, el Gobernador del Estado, enviará al Congreso, por escrito un informe de la situación que guarda la Administración Pública. Podrá comparecer a la sesión para dirigir un mensaje, en cuyo caso, el Presidente del Congreso hará las apreciaciones correspondientes.
 
 ###### ARTICULO 49.
 
-El Gobernador, dentro de los últimos quince días de su mandato, enviará al Congreso una memoria en la que expondrá la situación prevaleciente en todos los ramos de la administración pública.
+(DEROGADO, P.O. 20 DE OCTUBRE DE 1994)
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -811,7 +869,7 @@ b).- El Gobernador provisional cuando hubiere desempeñado el cargo en los dos �
 
 c).- El Gobernador interino cuando haya desempeñado el cargo en los dos últimos años del período, o del ciudadano que con cualquier denominación desempeñe el cargo en ese período por más de tres meses continuos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ## TITULO CUARTO
 
@@ -827,11 +885,11 @@ SECCON A.- DE SU ORGANIZACION
 
 ###### ARTICULO 60.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernador del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 1993)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
 
-I.- Tener la ciudadanía duranguense por nacimiento o tener una residencia efectiva en el Estado no menor de doce años anteriores al día de la elección;
+I.- Tener la ciudadanía Duranguense por nacimiento o siendo ciudadano mexicano por nacimiento, tener una residencia efectiva en el Estado, no menor de doce años anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
@@ -983,13 +1041,15 @@ X.- Facilitar al Poder Judicial los auxilios que requiera para el ejercicio exp�
 
 XI.- Solicitar a la comisión permanente que convoque al Congreso a períodos extraordinarios de sesiones cuando lo considere necesario;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 1993)</small>
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
 
-XII.- Enviar al Congreso, el día primero de septiembre de cada año, al inicio de sus sesiones, un informe por escrito sobre el estado que guarda la Administración Pública;
+XII.- Enviar al Congreso el día 12 de Septiembre de cada año, un Informe por escrito sobre el estado que guarda la Administración Pública;
 
-XIII.- Presentar al Congreso dentro de los últimos quince días de su mandato una memoria por escrito, en la que expondrá la situación del Estado en todos los ramos administrativos;
+XIII.- (DEROGADA, P.O. 20 DE OCTUBRE DE 1994)
 
-XIV.- Presentar al Congreso, dentro del primer período ordinario de sesiones pero a más tardar el día 15 de diciembre de cada año; los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente, incluyendo éste último el Presupuesto respectivo; en el segundo período ordinario de sesiones deberá presentar la Cuenta de Gastos erogados por el Estado durante el año anterior;
+> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 1994)</small>
+
+XIV.- Presentar al Congreso dentro del período ordinario de sesiones pero a más tardar el día 12 de Diciembre de cada año, los proyectos de Ley de Ingresos y de Ley de Egresos para el ejercicio fiscal siguiente, incluyendo éste último el presupuesto respectivo; en el segundo período ordinario de sesiones deberá presentar la Cuenta Pública de gastos erogados por el Estado durante el año anterior;
 
 XV.- Hacer transferencias de las partidas del Presupuesto de Egresos, dando aviso oportuno al Congreso;
 
@@ -1301,21 +1361,21 @@ El Poder Judicial del Estado en el ejercicio de sus funciones, actuará con abso
 
 Los Magistrados y Jueces percibirán una remuneración adecuada que les proporcione una total entrega a sus funciones.
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 91.
 
-La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno y de las Salas, las atribuciones de los Magistrados, el número y competencia de los Jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurren aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
+La competencia del Supremo Tribunal de Justicia, el funcionamiento del Pleno, de las Salas y la competencia de éstas, las atribuciones de los Magistrados, el número y competencia de los jueces, la división del Estado en Distritos Judiciales, las responsabilidades en que incurran aquellos, así como los demás funcionarios y empleados del Poder Judicial, se regirán por lo que dispone esta Constitución y las Leyes relativas.
 
 > <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 1973)</small>
 
 SECCION B.- DEL SUPREMO TRIBUNAL DE JUSTICIA
 
-> <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
+> <small>(REFORMADO, P.O. 20 DE OCTUBRE DE 1994)</small>
 
 ###### ARTICULO 92.
 
-El Supremo Tribunal de Justicia del Estado se integra por siete Magistrados numerarios y siete Magistrados supernumerarios; éstos últimos suplirán a aquéllos en sus faltas temporales y también, temporalmente, en sus faltas definitivas, a cuyo efecto serán llamados en el orden numérico en que hubieren sido electos.
+El Supremo Tribunal de Justicia del Estado se integra por ocho Magistrados Numerarios y ocho Magistrados Súper Numerarios (sic); éstos últimos suplirán a aquellos en sus faltas temporales y también temporalmente en sus faltas definitivas, a cuyo efecto, serán llamados en el orden numérico en que hubieren sido electos.
 
 > <small>(REFORMADO, P.O. 29 DE MAYO DE 1980)</small>
 
@@ -2196,3 +2256,17 @@ P.O. 17 DE JULIO DE 1994.
 DECRETO No. 361.
 
 UNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE OCTUBRE DE 1994.
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, exceptuándose lo relativo a la reforma del Artículo 60, Fracción I, la cual quedará sujeta a lo previsto por el Artículo Primero Transitorio del Decreto 282, publicado en el Periódico Oficial del Estado No. 51 de fecha 23 de Diciembre de 1993.
+
+###### ARTICULO SEGUNDO.
+
+La aplicación del 1.5% de la votación emitida, a que se refiere el párrafo cuarto del Artículo 25 de la Constitución Política Local, se hará en base a los resultados obtenidos de la elección estatal inmediata anterior.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a las reformas establecidas en el presente Decreto.
