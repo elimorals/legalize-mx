@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "1945-08-20"
+last_updated: "1947-07-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1945.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 1947.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -133,7 +133,7 @@ El Supremo Poder del Estado, se divide para su ejercicio en Legislativo, Ejecuti
 
 El Poder Legislativo residirá en una Asamblea que se denominará: Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1935)</small>
+> <small>(REFORMADO, P.O. 27 DE JULIO DE 1947)</small>
 
 ### CAPITULO PRIMERO.
 
@@ -141,7 +141,7 @@ DEL PODER LEGISLATIVO.
 
 ###### Artículo 15°
 
-El Congreso del Estado se compondrá por lo menos de 7 diputados electos popularmente cada cuatro años. Los individuos respecto de quienes la Diputación Permanente declare que han obtenido mayoría de votos conforme a la fracción III del artículo 31, instalados en Junta Preparatoria del Congreso, harán la calificación de la elección, declarando quienes son Diputados conforme a la Ley. Los Diputados a la Legislatura del Estado no podrán ser reelectos para el período inmediato. Los Diputados suplentes podrán ser reelectos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes.
+El Congreso del Estado, a partir de la XXXVIII Legislatura del mismo, se compondrá por lo menos de siete Diputados electos popularmente cada tres años. Los individuos a quienes las Juntas Computadoras hayan extendido credenciales, instalados en Junta Preparatoria del Congreso, harán la calaficación (sic) de la elección, declarando quienes son Diputados conforme a la Ley.
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 1929)</small>
 
@@ -301,7 +301,9 @@ Son atribuciones de la Diputación Permanente:
 
 I. Conceder las licencias y el permiso a que se refiere la fracción XII del artículo 29.
 
-II. Recibir las Actas relativas a la elección de Diputados, para declarar quiénes han obtenido mayoría de votos, a fin de que se reunan los propietarios el día designado por la Ley, y las relativas, a las elecciones de Gobernador, para el solo efecto de entregarlas al Congreso.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 1947)</small>
+
+II. Recibir los documentos electorales que remitan las Juntas Computadoras respecto de elecciones de Gobernador, y convocar a sesiones extraordinarias al Cngreso (sic) para la calificación de las mismas.
 
 III. Instalar las juntas preparatorias del nuevo Congreso.
 
@@ -763,8 +765,10 @@ P.O. 22 DE SEPTIEMBRE DE 1944.
 
 DECRETO NÚMERO 76, QUE REFORMA EL ARTÍCULO 41, FRACCIÓN II DE LA CONSTITUCIÓN POLÍTICA LOCAL.
 
-Este Decreto empezará a surtir sus efectos con relación a los proyectos de presupuestos que deben presentarse para el ejercicio fiscal del año entrante.
-
 P.O. 20 DE AGOSTO DE 1945.
 
 ARTICULO TRANSITORIO.- Esta reforma entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 1947.
+
+UNICO.- Este Decreto entrará en vigor diez días después de su publicación en el Periódico Oficial del Gobierno del Estado.
