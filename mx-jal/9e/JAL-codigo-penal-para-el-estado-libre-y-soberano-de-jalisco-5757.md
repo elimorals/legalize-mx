@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "1991-09-03"
+last_updated: "1994-09-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CODIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE SEPTIEMBRE DE 1991.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 1994.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -80,6 +80,10 @@ II. Culposos.
 Es doloso, cuando el agente quiere que se produzca total o parcialmente el resultado o cuando actúa, o deja de hacerlo, pese al conocimiento de la posibilidad de que ocurra otro resultado cualquiera de orden antijurídico.
 
 Es culposo, cuando se comete sin dolo, pero por imprudencia o negligencia.
+
+> <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+Son delitos graves para los efectos de lo previsto en los artículos 16 y 20, fracción I, ambos de la Constitución Política de los Estados Unidos Mexicanos, aquellos que afecten de manera importante los valores fundamentales de la sociedad, con acciones u omisiones que generan mayor riesgo o con resultados de mayor peligro para la persona, bienes y familia del ofendido.
 
 ###### Art. 7º.
 
@@ -291,7 +295,7 @@ La prohibición no podrá exceder de cinco años.
 
 ###### Art. 25.
 
-La reparación del daño que deba ser hecha por el delincuente, tiene el carácter de pena pública, pero cuando la misma reparación deba exigirse a terceros, tendrá carácter de responsabilidad civil, debiendo tramitarse en la forma y términos que prescribe el Código de Procedimientos Civiles.
+La víctima o el ofendido por algún delito, tienen derecho a que se les satisfaga la reparación del daño, en los casos que ésta proceda. Dicha reparación que debe ser hecha por el delincuente, tiene el carácter de pena pública, pero cuando la misma reparación debe exigirse a terceros, tendrá el carácter de responsabilidad civil, debiendo tramitarse en la forma y términos que prescribe el Código de Procedimientos Civiles.
 
 ###### Art. 26.
 
@@ -318,6 +322,8 @@ Cuando varias personas cometan el delito, el juez fijará la multa por cada uno 
 ## TITULO TERCERO. APLICACION DE SANCIONES
 
 ### CAPITULO VI. Reparación del daño
+
+> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
 
 ###### Art. 28.
 
@@ -1321,7 +1327,19 @@ XII. Cuando otorgue cualquiera identificación que acredite, como servidor públ
 
 XIII. Cuando por sí, o por interpósita persona, intimide a otro para evitar a éste o a un tercero que denuncie, formule querella o aporte información relativa a la presunta comisión de una conducta sancionada por la ley; y
 
-XIV. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+XIV. Cuando se ejecute una orden judicial de aprehensión, sin poner al inculpado a disposición del juez sin dilación alguna;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+XV. No dictar auto de formal prisión o de libertad o de sujeción a proceso al detenido, dentro de las setenta y dos horas siguientes en que fue puesto a disposición del juez, salvo que se haya solicitado la ampliación del término constitucional, en cuyo caso deberá tomarse en consideración este último, con excepción de los casos en que suspenda el procedimiento;
+
+> <small>(ADICIONADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+XVI. Obligar al indiciado o acusado a declarar usando la incomunicación o cualquier otro medio;
+
+XVII. Cuando, con motivo de la querella, denuncia o información a que hace referencia la fracción anterior, realice una conducta ilícita u omita una lícita debida, que lesione los intereses de las personas que las presenten o aporten, o de algún tercero con quien dichas personas guarden algún vínculo familiar, de negocios o afectivo.
 
 Al que cometa el delito de abuso de autoridad, se le impondrán las siguientes sanciones:
 
@@ -1445,7 +1463,9 @@ IV. Dirigir o aconsejar sistemáticamente a las personas que ante ellos litiguen
 
 V. No cumplir, sin causa fundada para ello, una disposición que legalmente se le comunique por superior competente;
 
-VI. Dictar u omitir una resolución o un acto de trámite violando algún precepto terminante de la Ley, o contrario a las actuaciones de un juicio, siempre que se obre por motivos injustos y no por simple error de opinión;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+VI. Realizar la detención sin poner al detenido a disposición del juez dentro de los plazos a que se refiere el artículo 105, párrafo segundo, del Código de Procedimientos Penales del Estado;
 
 VII. Ejecutar actos, o incurrir en omisiones, que produzcan un daño o concedan una ventaja indebida a los interesados en un negocio, o a cualquier otra persona;
 
@@ -1455,7 +1475,9 @@ IX. Retardar o entorpecer dolosamente o por negligencia, la administración de j
 
 X. Concretarse a aceptar el cargo de defensor de oficio de un inculpado, o ya siéndolo, a solicitar la libertad caucional que menciona la frac. I del Art. 20 de la Constitución Política de los Estados Unidos Mexicanos, y no promover injustificadamente, las diligencias conducentes, o no interponer los recursos y medios de defensa procedentes contra las resoluciones en que se adviertan violaciones notorias a la ley;
 
-XI. Dictar una resolución de fondo o una sentencia definitiva, con violación de algún precepto terminante de la ley o manifiestamente contraria a las constancias de autos, cuando se obre por motivos injustificados y no por simple error de opinión;
+> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 1994)</small>
+
+XI. Dictar u omitir una resolución de trámite o de fondo o una sentencia definitiva, con violación de algún precepto terminante de la ley o manifiestamente contraria a las constancias de autos, cuando se obre por motivos injustificados y no por simple error de opinión;
 
 XII. Procurar la impunidad de los delitos o faltas de que tenga conocimiento en el ejercicio de sus funciones, abstenerse de hacer denuncia de ellos o entorpecer su averiguación.
 
@@ -2754,3 +2776,9 @@ Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 3 DE SEPTIEMBRE DE 1991.
 
 Unico. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial El Estado de Jalisco.
+
+P.O. 1 DE SEPTIEMBRE DE 1994.
+
+Primero.- El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
