@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-asistencia-y-prevencion-de-la-violencia-22179"
 country: "mx"
 rank: "ley"
 publication_date: "2001-09-15"
-last_updated: "2001-09-15"
+last_updated: "2005-03-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22179&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ASISTENCIA Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE MARZO DE 2005.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Oaxaca, sábado 15 de septiembre del 2001.
 
@@ -87,7 +87,9 @@ X.- Por el Titular de la Comisión Estatal de Derechos Humanos;
 
 XI.- Por el Titular de la Secretaría de Asuntos Indígenas;
 
-XII.- Por el Titular del Instituto de la Juventud Oaxaqueña;
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+
+XII.- Por el Titular de la Comisión Estatal de la Juventud;
 
 XIII.- Por el Titular del Instituto Estatal de Educación Pública;
 
@@ -249,9 +251,11 @@ IV.- Promover la capacitación y sensibilización de los defensores y personal p
 
 V.- Difundir la presente Ley entre la comunidad indígena.
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 22 DE MARZO DE 2005)</small>
+
 ###### Artículo 18.
 
-Corresponde al Instituto de la Juventud Oaxaqueña:
+Corresponde a la Comisión Estatal de la Juventud:
 
 I.- Promover entre la juventud, la sensibilización en torno a la violencia intrafamiliar, su detección y su prevención; y
 
@@ -396,3 +400,9 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 LIC. HECTOR ANUAR MAFUD MAFUD.
 
 AL C...
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+
+P.O. 22 DE MARZO DE 2005.
+
+UNICO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
