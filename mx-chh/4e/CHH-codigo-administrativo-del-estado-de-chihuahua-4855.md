@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2005-01-01"
+last_updated: "2005-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CODIGO ADMINISTRATIVO DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 1 DE ENERO DE 2005.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 19 DE ENERO DE 2005.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -1641,9 +1641,9 @@ III.- Ejercer las funciones señaladas en este Código a los Registradores y Cer
 
 IV.- Rendir los informes que soliciten las autoridades legalmente facultadas para ello;
 
-> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
 
-V.- Rendir, dentro de los primeros cinco días hábiles de cada mes, a la Dirección General de Finanzas y Administración una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado;
+V.- Rendir a la Secretaría de Finanzas, dentro de los primeros cinco días hábiles de cada mes, una noticia pormenorizada del número de escrituras registradas en cada Sección, el valor de las operaciones correspondientes al ramo y el monto de los derechos causados. Las Oficinas de los Registros Públicos de la Propiedad enviarán esta misma información al Departamento del Registro Público de la Propiedad y del Notariado.
 
 > <small>(REFORMADA, P.O. 26 DE FEBRERO DE 1997)</small>
 
@@ -3793,9 +3793,11 @@ Para la ejecución de sanciones privativas de libertad dictadas por las autorida
 
 El tratamiento será individualizado, con aportación de las diversas ciencias y disciplinas pertinentes para la reincorporación social del sujeto, consideradas sus circunstancias personales. Por consiguiente, toda persona que ingrese a un centro carcelario o penitenciario será sometida a examen médico a fin de conocer su estado físico y mental; a la vez, personal especializado elaborará un estudio de su personalidad con el objeto de calificar su nivel cultural y comprobar su habilidad y capacidad para el trabajo.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 688.
 
-La asignación de los internos al trabajo se hará tomando en cuenta los deseos, la vocación, las aptitudes, la capacitación laboral para el trabajo en libertad y el tratamiento de aquéllos, así como las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éstas y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Para este último efecto, se trazará un plan de trabajo y producción que será sometido a aprobación de la Dirección de Gobernación.
+La asignación del trabajo a los internos se hará tomando en cuenta sus deseos, su vocación, sus aptitudes, la capacitación laboral adquirida y las posibilidades del reclusorio. El trabajo en los reclusorios se organizará previo estudio de las características de la economía local, especialmente del mercado oficial, a fin de favorecer la correspondencia entre las demandas de éstas y la producción penitenciaria, con vistas a la autosuficiencia económica del establecimiento. Para este último efecto, las autoridades del penal y los interesados elaborarán un plan de trabajo y producción que será sometido a aprobación de la Secretaría de Seguridad Pública a través de la Dirección de Penas y Medidas de Seguridad.
 
 ###### ARTICULO 689.
 
@@ -3841,9 +3843,11 @@ En todas las prisiones se destinarán locales para refectorio, cocina, escuela, 
 
 ### CAPITULO III. DE LOS DIRECTORES, ALCAIDES Y PERSONAL DE VIGILANCIA Y ADMINISTRACION
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 699.
 
-La dirección, vigilancia, disciplina y administración de los establecimientos carcelarios estará a cargo de los directores o alcaides, que dependerán de la primera autoridad política, de las autoridades judiciales y de la Dirección de Gobernación dentro de las atribuciones de cada una de esas entidades.
+La dirección, vigilancia, disciplina y administración de los establecimientos carcelarios estarán a cargo de los directores o alcaides que dependerán de la primera autoridad política, de las autoridades judiciales y de la Secretaría de Seguridad Pública a través de la Dirección de Penas y Medidas de Seguridad dentro de las atribuciones de cada una de esas entidades.
 
 ###### ARTICULO 700.
 
@@ -3857,9 +3861,11 @@ En cada establecimiento carcelario habrá un director o alcaide, responsable dir
 
 Los directores y alcaides serán nombrados por el Ejecutivo o los Presidentes Municipales, en su caso, bajo el concepto de que para ocupar el puesto será necesario tener veinticinco años cumplidos, ser de reconocida honorabilidad y capacidad para el desempeño del mismo y no haber sufrido nunca pena corporal por ninguna infracción antisocial. Además tendrán impedimento para litigar en asuntos penales. Será discrecional para el Ejecutivo del Estado o los Presidentes Municipales exigirles fianza por los objetos o fondos de las prisiones y de los reclusos.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 703.
 
-Los directores y alcaides darán cuenta dentro de los primeros cinco días de cada mes, a los Ayuntamientos y a la Dirección de Gobernación del Estado, de la existencia y movimiento de presos, del trabajo desarrollado por éstos y de su producto, y de todos los incidentes importantes que ocurran en el interior de las prisiones. Asimismo comunicarán mensualmente a la Tesorería del Estado o Municipales y a la Dirección de Gobernación el movimiento de caudales por sostenimiento y producto del trabajo de los internos.
+Los directores y alcaides darán cuenta dentro de los primeros cinco días de cada mes, a los Ayuntamientos y a la Secretaría de Seguridad Pública, de la existencia y movimiento de presos, del trabajo desarrollado por éstos y de su producto, y de todos los incidentes importantes que ocurran en el interior de las prisiones. Así mismo comunicarán mensualmente a la Tesorería del Estado o Municipales y a la Dirección de Gobernación, el movimiento de caudales por sostenimiento y producto del trabajo de los internos.
 
 ###### ARTICULO 704.
 
@@ -3869,9 +3875,11 @@ En las ausencias temporales o accidentales del director o alcaide de una institu
 
 Para ser nombrado subdirector o subalcaide se requieren los mismos requisitos que se han señalado para obtener el cargo de director o alcaide, inclusive la fianza en su caso.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 706.
 
-Las faltas de los directores o alcaides serán sancionadas por la autoridad política y la Dirección de Gobernación, según corresponda, de acuerdo con los reglamentos respectivos.
+Las faltas de los directores o alcaides serán sancionadas por al autoridad competente o por la Secretaría de Seguridad Pública, según corresponda, de acuerdo con los reglamentos respectivos.
 
 ### CAPITULO IV. PREVENCIONES GENERALES
 
@@ -3879,17 +3887,21 @@ Las faltas de los directores o alcaides serán sancionadas por la autoridad pol�
 
 Para los efectos de la libertad preparatoria, los alcaides sólo podrán expedir certificado de buena conducta a los reos que tengan menos de tres medidas disciplinarias por año.
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 708.
 
-El incumplimiento de lo anterior será sancionado por la autoridad política o la Dirección de Gobernación, de acuerdo con el reglamento correspondiente.
+El incumplimiento de lo anterior será sancionado por la autoridad competente o por la Secretaría de Seguridad Pública, de acuerdo con el reglamento correspondiente.
 
 ## TITULO SEGUNDO. DE LA PENITENCIARIA DEL ESTADO
 
 ### CAPITULO I. LA PENITENCIARIA, SU OBJETO Y ADMINISTRACION
 
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 709.
 
-La Penitenciaría del Estado dependerá directamente de la Dirección de Gobernación y tendrá por objeto la corrección y rehabilitación de los delincuentes; y, para realizar estos fines son necesarios:
+La Penitenciaría del Estado dependerá directamente de la Secretaría de Seguridad Pública por conducto de la Dirección de Penas y Medidas de Seguridad y tendrá por objeto la corrección y rehabilitación de los delincuentes; y, para realizar estos fines, son necesarios:
 
 I.- La seguridad de los reclusos, para los que se empleará una estricta vigilancia, con el objeto de evitar evasiones, desórdenes y relajamiento de la disciplina que debe existir en todo establecimiento penitenciario;
 
@@ -3927,9 +3939,11 @@ II.- En los documentos mencionados en la fracción anterior deberá estar compre
 
 ### CAPITULO II. INSPECCION
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 715.
 
-La inspección de la Penitenciaría, en lo que se refiere al régimen administrativo, estará a cargo de la Dirección de Gobernación, la cual, cada vez que lo estime conveniente, nombrará personas que practiquen visitas al establecimiento. En lo relativo a los asuntos meramente judiciales, las autoridades de ese ramo practicarán las correspondientes visitas, conforme al Código de Procedimientos de la materia y las extraordinarias que tenga a bien acordar, en uso de sus facultades.
+La inspección de la Penitenciaría, en lo que se refiere al régimen administrativo, estará a cargo de la Secretaría de Seguridad Pública, la cual, cada vez que lo estime conveniente, nombrará personas que practiquen visitas al establecimiento. En lo relativo a los asuntos meramente judiciales, las autoridades de ese ramo practicarán las correspondientes visitas, conforme al Código de Procedimientos de la materia y las extraordinarias que tenga a bien acordar, en uso de sus facultades.
 
 ###### ARTICULO 716.
 
@@ -3969,7 +3983,9 @@ II.- Mandar la fuerza de seguridad del recinto, así como vigilar la higiene, la
 
 III.- Dar aviso al Ejecutivo del Estado de lo que sea necesario reparar o corregir en los distintos departamentos y mobiliario, indicando las reparaciones y mejoras que convengan para la conservación y mejoramiento del edificio;
 
-IV.- Entregar al sucesor, al separarse del empleo, todos los presos, valores y objetos que estén a su cuidado, mediante formal inventario y con intervención de la persona que designe la Dirección de Gobernación y hacer que los demás empleados, en cada caso, hagan otro tanto de lo que a ellos corresponda entregar con intervención del empleado que nombre el Director;
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+IV.- Entregar al sucesor, al separarse del empleo, todos los internos, valores y objetos que estén a su cuidado, mediante formal inventario y con intervención de la persona que designe la Secretaría de Seguridad Pública y hacer que los demás empleados, en cada caso hagan otro tanto de lo que a ellos corresponda entregar con intervención del empleado que nombre el Director;
 
 V.- Las demás que le señalen este Código, Reglamento y demás disposiciones.
 
@@ -3985,7 +4001,9 @@ I.- Determinar la celda que debe ocupar cada preso de conformidad con lo previst
 
 II.- Dar oficialmente al juez que haya dictado la sentencia definitiva o al Supremo Tribunal, en su caso, con quince días de anticipación aviso de la fecha en que los reos han de cumplir su condena, para que esas autoridades ordenen en su oportunidad que sean puestos en libertad;
 
-III.- Avisar a la Dirección de Gobernación cada vez que salga en libertad un reo sentenciado, expresando su salida y la autoridad que concedió la libertad.
+> <small>(REFORMADA, P.O. 19 DE ENERO DE 2005)</small>
+
+III.- Avisar a la Secretaría de Seguridad Pública cada vez que sea puesto en libertad un reo sentenciado, expresando el motivo y la autoridad que concedió la libertad.
 
 > <small>(REFORMADO, P.O. 2 DE OCTUBRE DE 2004)</small>
 
@@ -4029,9 +4047,11 @@ Cuando esta Guardia se cubra con fuerzas del Estado, el Comandante quedará de u
 
 ### CAPITULO VIII. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
+
 ###### ARTICULO 733.
 
-Para todos los casos no previstos por este Título o su Reglamento, el Director de la Penitenciaría pedirá instrucciones a la Dirección de Gobernación, y en los que sean de urgencia, tomará, entre tanto las recibe, las medidas que las circunstancias y la prudencia le sugieran.
+Para todos los casos no previstos por este Título o su Reglamento, el Director de la Penitenciaría pedirá instrucciones a la Secretaría de Seguridad Pública, y en los que sean de urgencia, tomará, entre tanto las recibe, las medidas que las circunstancias y la prudencia le sugieran.
 
 ###### ARTICULO 734.
 
@@ -8265,9 +8285,9 @@ ASENTAMIENTOS HUMANOS
 
 ### CAPITULO IV. REGIMEN DEL TERRITORIO Y ORDENAMIENTO DE LOS SISTEMAS URBANOS
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
+#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
 
 ###### ARTICULO 1489.
 
@@ -8321,7 +8341,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 #### SECCION TERCERA. DE LA FUSION, SUBDIVISION, RELOTIFICACION Y FRACCIONAMIENTO DE TERRENOS
 
@@ -8335,7 +8355,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION QUINTA. DE LA VIVIENDA
+#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
 
 ###### ARTICULO 1504.
 
@@ -8383,7 +8403,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION CUARTA. DE LOS FRACCIONAMIENTOS DE INTERES PUBLICO
+#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
 
 ###### ARTICULO 1515.
 
@@ -8411,7 +8431,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEXTA. DEL MEJORAMIENTO
+#### SECCION PRIMERA. DESTINOS, USOS Y RESERVAS DEL TERRITORIO
 
 ###### ARTICULO 1521.
 
@@ -8431,7 +8451,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-#### SECCION SEGUNDA. DE LA ESTRUCTURA VIAL Y DEL SISTEMA DE TRANSPORTE
+#### SECCION QUINTA. DE LA VIVIENDA
 
 ###### ARTICULO 1525.
 
@@ -8449,9 +8469,13 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
 
-#### SECCION SEPTIMA. DE LA INFRAESTRUCTURA, EQUIPO Y SERVICIOS URBANOS
+DECIMA PRIMERA PARTE
+
+> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+
+#### SECCION SEXTA. DEL MEJORAMIENTO
 
 ###### ARTICULO 1529.
 
@@ -8471,7 +8495,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
+### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
 
 ###### ARTICULO 1533.
 
@@ -8481,9 +8505,9 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
+> <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VI. DE LA REGULARIZACION DE LA PROPIEDAD EN LOS CENTROS DE POBLACION
+### CAPITULO VII. DE LAS CONURBACIONES
 
 ###### ARTICULO 1535.
 
@@ -8515,7 +8539,7 @@ ASENTAMIENTOS HUMANOS
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
-### CAPITULO VII. DE LAS CONURBACIONES
+### CAPITULO V. DE LA PRESERVACION DEL PATRIMONIO CULTURAL
 
 ###### ARTICULO 1542.
 
@@ -8541,11 +8565,7 @@ ASENTAMIENTOS HUMANOS
 
 (DEROGADO POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)
 
-> <small>(ADICIONADA CON EL LIBRO, TITULO, CAPITULOS Y ARTICULOS QUE LA INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
-
-DECIMA PRIMERA PARTE
-
-> <small>(ADICIONADO CON EL TITULO, CAPITULOS Y ARTICULOS QUE LO INTEGRAN, P.O. 28 DE AGOSTO DE 1982)</small>
+> <small>(DEROGADO CON LOS ARTICULOS QUE LO INTEGRAN POR ARTICULO SEGUNDO TRANSITORIO DE LA LEY DE DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA, P.O. 18 DE NOVIEMBRE DE 1995)</small>
 
 # LIBRO UNICO. SERVICIOS PUBLICOS DE AGUA POTABLE Y SANEAMIENTO
 
@@ -9661,7 +9681,7 @@ Los bienes a que se refiere el artículo anterior pasarán a formar parte del do
 
 ### CAPITULO III. DE LOS INMUEBLES DE DOMINIO PRIVADO
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1652.
 
@@ -9811,23 +9831,23 @@ Los bienes a los que se refiere la fracción VII del artículo 1518 excepto los 
 
 Otorgada la autorización a que se refiere el párrafo anterior, los bienes quedarán sometidos de pleno derecho a las reglas del derecho común y los acreedores podrán ejercitar respecto de ellos todas las acciones que les correspondan, sin limitación alguna. El Estado no será parte en los juicios que con este motivo se inicien.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1666.
 
-Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Finanzas y Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Finanzas y Administración.
+Cuando una dependencia del Ejecutivo creyere conveniente la adquisición de un inmueble para destinarlo a servicio público o para uso común, lo comunicará a la Secretaría de Administración, la que estimará las posibilidades del Gobierno para adquirirlo y, previo acuerdo del Gobernador, hará las gestiones necesarias y el arreglo de los términos de la adquisición hasta ultimarlos, llegando al otorgamiento, registro y archivos de los documentos respectivos. La firma de las adquisiciones y enajenaciones de inmuebles corresponde al Gobernador, al Secretario General de Gobierno y al Secretario de Administración.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1667.
 
-Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Finanzas y Administración, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
+Cuando se trate de adquisiciones por vías de derecho público, tocará a la dependencia del ramo respectivo determinar la utilidad pública y a la Secretaría de Administración, todo lo relacionado con la fijación del monto y el régimen de pago, cuando éste sea a cargo del Estado, tocando a la dependencia del ramo los procedimientos encaminados a la ocupación administrativa de las cosas. No será necesaria en estos casos la redacción de la escritura y se reputará que los bienes forman parte del patrimonio del Estado desde la publicación del decreto respectivo en el Periódico Oficial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1668.
 
-Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Finanzas y Administración.
+Para destinar un inmueble propiedad del Estado a determinado servicio público, el Ejecutivo del Estado expedirá un acuerdo que comunicará a la Secretaría de Administración.
 
 El cambio de destino de un inmueble dedicado a un servicio público, así como la declaración de que aquél ya no es propio para tal aprovechamiento, deberá hacerse por decreto que expedirá el Congreso, oyendo previamente la opinión del Poder Ejecutivo o del Judicial, en su caso.
 
@@ -9837,11 +9857,11 @@ El cambio de destino de un inmueble dedicado a un servicio público, así como l
 
 No pierden su carácter de bienes destinados a un servicio público, los que estándolo fueren sin embargo, aprovechados temporalmente en todo o en parte para otro objeto que no pueda considerarse como servicio público, mientras no se dicte la declaración respectiva en la forma prevista por el artículo anterior.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1670.
 
-Los inmuebles destinados a un servicio público quedarán bajo la dependencia de la Secretaría de Finanzas y Administración. Las obras nuevas y las de transformación de los edificios se harán de acuerdo con los planos y proyectos aprobados por el Gobernador.
+Los inmuebles destinados a un servicio público quedarán bajo la vigilancia de la Secretaría de Administración.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9849,9 +9869,9 @@ Los inmuebles destinados a un servicio público quedarán bajo la dependencia de
 
 Si estuvieren alojados en un mismo inmueble propiedad del Estado, varias instituciones u oficinas de diversas dependencias, el inmueble quedará a cargo de la dependencia que nombre y expense a los empleados encargados de su cuidado, pero sólo en lo relativo al aspecto exterior del mismo y a los lugares de servicio común, como patios, escaleras, corredores, pasillos, etc., y no en las partes interiores del edificio que sirvan para uso de las instituciones u oficinas dependientes de otros organismos.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
-En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Finanzas y Administración, resolverá cual de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
+En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Administración, resolverá cuál de las dependencias deberá hacerse cargo de las partes comunes de los inmuebles de que se trata.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9861,7 +9881,7 @@ En caso de duda, el Gobernador del Estado, por conducto de la Secretaría de Fin
 
 ###### ARTICULO 1672.
 
-La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, al Titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Finanzas y Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
+La adquisición, posesión, conservación, administración y enajenación de los bienes del Estado corresponde, por regla general y a falta de prevención en contrario, a la Secretaría de Administración, lo mismo que el conocimiento y resolución de todos los asuntos referentes a contratos u ocupaciones de que sean objeto dichos inmuebles.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9901,11 +9921,11 @@ La enajenación de los bienes a que se refiere el primer párrafo del Artículo 
 
 Se excluyen de dicho trámite las adquisiciones por parte de la Federación, de los Municipios o de los Organismos Descentralizados de la Federación, de los Estados y de los Municipios.
 
-> <small>(REFORMADO, P.O. 8 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1678.
 
-La subasta se hará sobre la base del avalúo que practique alguna institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Finanzas y Administración.
+La subasta se hará sobre la base del avalúo que practique alguna institución de crédito o un especialista en valuación debidamente acreditado ante el Departamento Estatal de Profesiones y en su defecto, servirá de base el avalúo que mande practicar la Secretaría de Administración.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -9919,11 +9939,11 @@ La subasta se practicará el día y a la hora señalados, ante la autoridad que 
 
 Ninguna venta de inmuebles podrá hacerse fijando para el pago total del precio un plazo mayor de diez años y sin que se entere en dinero efectivo, cuando menos el veinticinco por ciento de dicho precio. La finca se hipotecará en favor de la Hacienda Pública del Estado hasta el completo pago de su importe, así como el de los intereses pactados y los de mora, en su caso.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE MAYO DE 2002)</small>
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1681.
 
-Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Finanzas y Administración, mientras no esté pagado íntegramente el precio..
+Los compradores de predios del Estado, no pueden hipotecarlos ni constituir sobre ellos derechos reales en favor de tercero, ni tienen facultad para derribar las construcciones sin permiso expreso y dado por escrito de la Secretaría de Administración, mientras no esté pagado íntegramente el precio.
 
 En los contratos relativos deberá expresarse que la falta de pago de cualquiera de los abonos a cuenta del precio y de sus intereses, en los términos convenidos, así como la violación de las prohibiciones que contiene este artículo, implicará la rescisión del contrato.
 
@@ -9967,15 +9987,15 @@ La Hacienda Pública estará facultada para retener administrativamente los bien
 
 Pertenecen al Estado todos los bienes muebles de las diversas dependencias de los Poderes del mismo.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
-La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades del Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración.
+La clasificación y sistemas de inventario, así como la estimación de la depreciación de los muebles de propiedad estatal son facultades de la Secretaría de Administración.
 
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2005)</small>
 
 ###### ARTICULO 1688.
 
-La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde al Titular del Poder Ejecutivo Estatal, por conducto de la Secretaría de Finanzas y Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
+La adquisición, administración y enajenación de los bienes muebles de propiedad Estatal corresponde a la Secretaría de Administración, con las salvedades que en beneficio de la atención más oportuna de los servicios públicos, establezcan las normas legales.
 
 (REUBICADO, P.O. 28 DE AGOSTO DE 1982)
 
@@ -10954,3 +10974,45 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los expedientes que estén en trámite hasta antes de la entrada en vigor de estas disposiciones, se resolverán conforme a las mismas hasta su conclusión.
+
+P.O.19 DE ENERO DE 2005.
+
+DECRETO NO 121/051 P.E. QUE REFORMA ARTS. 688, 699, 703, 706, 708, 709, 715, 722, 724 Y 733 DEL CODIGO ADMINISTRATIVO DEL ESTADO
+
+###### ARTÍCULO PRIMERO
+
+Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO
+
+Para el correcto desempeño de las atribuciones que se confieren a la Secretaría de Seguridad Pública, el Ejecutivo Estatal deberá expedir el ordenamiento jurídico que regule el funcionamiento de dicha secretaría, dentro de los 60 días posteriores a la entrada en vigor de las reformas aprobadas, así como realizar las reformas necesarias al Reglamento Interior de la Secretaría General de Gobierno y al Reglamento de la Penitenciaría del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil del Estado de Chihuahua, se haga referencia a la Unidad de Protección Civil, se entenderá citada la Coordinación de Protección Civil.
+
+P.O. 19 DE ENERO DE 2005.
+
+DECRETO NO 135/05 I P.E. QUE REFORMA LOS ARTICULOS 276, 1666, 1667, 1668, 1671, 1672, 1678, 1681, 1687 Y 1688 DEL CODIGO ADMINISTRATIVO DEL ESTADO
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Cuando en la Ley de Presupuesto de Egresos, Contabilidad y Gasto Público del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Adquisiciones, Arrendamiento, Contratación de Servicios y Obra Pública del Estado de Chihuahua se haga referencia a la Dirección, se entenderá citada la Secretaría de Administración.
+
+###### ARTÍCULO CUARTO.
+
+Cuando en la Ley de Deuda Pública para el Estado de Chihuahua y sus Municipios se haga referencia a la Dirección General de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas.
+
+###### ARTÍCULO QUINTO.
+
+Cuando en el Código Fiscal del Estado se haga referencia a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración, se entenderá citada la Secretaría de Finanzas y cuando en cualquier otro ordenamiento se haga mención a la Tesorería General del Estado, a la Dirección General de Finanzas, a la Dirección General de Finanzas y Administración, o a la Secretaría de Finanzas y Administración se entenderá citada la Secretaría de Finanzas.
+
+Cuando se haga mención de la Oficialía Mayor o de la Dirección General de Administración, la referencia se entenderá hecha a la Secretaría de Administración.
