@@ -4,7 +4,7 @@ identifier: "SON-ley-de-desarrollo-urbano-para-el-estado-de-sonora-8511"
 country: "mx"
 rank: "ley"
 publication_date: "1985-02-18"
-last_updated: "1992-12-28"
+last_updated: "1993-07-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE DESARROLLO URBANO PARA EL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 28 DE DICIEMBRE DE 1992.
+ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE JULIO DE 1993.
 
 Ley publicada en la Sección Primera el Boletín Oficial del Estado de Sonora, el lunes 18 de febrero de 1985.
 
@@ -99,7 +99,9 @@ I.- El Gobernador del Estado.
 
 II.- Los Ayuntamientos.
 
-III.- La Secretaría de Desarrollo Urbano y Rural.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+III.- Secretaría de Infraestructura Urbana y Ecología.
 
 IV.- El Tribunal de lo Contencioso Administrativo, para efectos del Capítulo III, del Título Sexto de esta ley.
 
@@ -153,9 +155,11 @@ XIX.- Promover la participación ciudadana en la elaboración y ejecución del P
 
 XX.- Las demás atribuciones que le otorguen la presente ley y las disposiciones legales relativas.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 8o.
 
-La Secretaría de Desarrollo Urbano y Rural, es la dependencia del Ejecutivo del Estado que tiene a su cargo poner en práctica las medidas que éste ordene en relación con el desarrollo urbano, la vivienda y la ecología y sus atribuciones serán las siguientes:
+La Secretaría de Infraestructura Urbana y Ecología, es la dependencia del Ejecutivo del Estado que tiene a su cargo poner en práctica las medidas que éste ordene en relación con el desarrollo urbano, la vivienda y la ecología y sus atribuciones serán las siguientes:
 
 I.- Formular, en los términos que fija esta ley, el programa Estatal Sectorial de Desarrollo Urbano y someterlo a la aprobación del Gobernador del Estado.
 
@@ -305,9 +309,11 @@ VIII.- Las acciones para la preservación del patrimonio cultural del Estado.
 
 IX.- El señalamiento de los instrumentos para la ejecución de las acciones previstas en el programa.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 16.
 
-El Programa Estatal Sectorial de Desarrollo Urbano será formulado por la Secretaría de Desarrollo Urbano y Rural del Estado, quien lo someterá a la aprobación del Gobernador. Una vez aprobado por el Gobernador del Estado, éste ordenará su publicación y registro en los términos de esta ley.
+El Programa Estatal Sectorial de Desarrollo Urbano será formulado por la Secretaría de Secretaría de Infraestructura Urbana y Ecología del Estado, quien lo someterá a la aprobación del Gobernador. Una vez aprobado por el Gobernador del Estado, éste ordenará su publicación y registro en los términos de esta ley.
 
 #### SECCION III. DE LOS PROGRAMAS MUNICIPALES DE DESARROLLO URBANO DE LOS CENTROS DE POBLACION
 
@@ -463,9 +469,11 @@ En el caso de que sea de estricta necesidad demoler total o parcialmente las con
 
 Las obras que sean a cargo de las autoridades estatales o municipales, se ejecutarán en los términos previstos en esta ley y demás disposiciones específicas.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 35.
 
-La Secretaría de Desarrollo Urbano y Rural y las autoridades municipales correspondientes, supervisarán la ejecución de los proyectos y vigilarán, en todo momento, que las obras y demás actividades estén de acuerdo con los respectivos lineamientos señalados en los programas de desarrollo urbano aplicables y en los convenios respectivos.
+La Secretaría de Infraestructura Urbana y Ecología y las autoridades municipales correspondientes, supervisarán la ejecución de los proyectos y vigilarán, en todo momento, que las obras y demás actividades estén de acuerdo con los respectivos lineamientos señalados en los programas de desarrollo urbano aplicables y en los convenios respectivos.
 
 ### CAPITULO IV. DE LAS CONURBACIONES
 
@@ -691,9 +699,11 @@ El valor catastral de los predios situados en zona declarada de reserva territor
 
 #### SECCION III. DERECHO DE PREFERENCIA
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 61.
 
-El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias o entidades encargadas del manejo de reservas territoriales para el crecimiento urbano, tendrán derecho de preferencia para adquirir los predios comprendidos en la declaratoria de reserva, cuando dichos predios sean puestos a la venta o cuanto a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad. Igual derecho de preferencia tendrán para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio en que se fije el remate al mejor postor. Para tal efecto, los propietarios de los mismos que deseen enajenarlos, los notarios, los jueces y las autoridades administrativas, deberán notificarlo a la Secretaría de Desarrollo Urbano y Rural y al Ayuntamiento correspondiente, dando a conocer el monto de la operación, a fin de que estos, en un plazo no mayor de treinta días naturales, contados a partir de recibida la notificación, ejerzan el derecho de preferencia si lo consideran conveniente.
+El Gobierno del Estado y los Ayuntamientos, a través de sus dependencias o entidades encargadas del manejo de reservas territoriales para el crecimiento urbano, tendrán derecho de preferencia para adquirir los predios comprendidos en la declaratoria de reserva, cuando dichos predios sean puestos a la venta o cuanto a través de cualquier acto jurídico, vayan a ser objeto de una transmisión de propiedad. Igual derecho de preferencia tendrán para adquirir los predios comprendidos en la declaratoria de reserva, en caso de remate judicial o administrativo, al precio en que se fije el remate al mejor postor. Para tal efecto, los propietarios de los mismos que deseen enajenarlos, los notarios, los jueces y las autoridades administrativas, deberán notificarlo a la Secretaría de Infraestructura Urbana y Ecología y al Ayuntamiento correspondiente, dando a conocer el monto de la operación, a fin de que estos, en un plazo no mayor de treinta días naturales, contados a partir de recibida la notificación, ejerzan el derecho de preferencia si lo consideran conveniente.
 
 Si en el plazo señalado en el párrafo anterior, la autoridad no emite contestación a la notificación, se entenderá que se abstiene de ejercitar su derecho de preferencia en ese acto.
 
@@ -789,9 +799,13 @@ I.- Que el solicitante no sea propietario de inmueble urbano en ninguna localida
 
 II.- Que las condiciones de pago se determinen en atención al ingreso de los solicitantes.
 
-III.- Que la superficie corresponda a los lotes tipo fijados por la Secretaría de Desarrollo Urbano y Rural.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
 
-IV.- El precio de los lotes y predios se determinará con base en dictamen valuatorio de la Secretaría de Desarrollo Urbano y Rural.
+III.- Que la superficie corresponda a los lotes tipo fijados por la Secretaría de Infraestructura Urbana y Ecología.
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+IV.- El precio de los lotes y predios se determinará con base en dictamen valuatorio de la Secretaría de Infraestructura Urbana y Ecología.
 
 Además, las dependencias y entidades de las administraciones públicas municipales, deberán cumplir con los requisitos establecidos en el Artículo 111 de la Ley Orgánica de Administración Municipal.
 
@@ -847,11 +861,13 @@ XI.- La integración de la vivienda a su entorno ecológico y la preservación d
 
 XII.- La promoción al sector privado, para que canalice los recursos a la construcción de vivienda de interés social en el Estado.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 82.
 
-El Programa Estatal Sectorial de Vivienda será formulado por la Secretaría de Desarrollo Urbano y Rural, tomando en cuenta las propuestas de las dependencias y entidades de las administraciones públicas federal, estatal y municipales, de los grupos sociales y de los particulares interesados.
+El Programa Estatal Sectorial de Vivienda será formulado por la Secretaría de Infraestructura Urbana y Ecología, tomando en cuenta las propuestas de las dependencias y entidades de las administraciones públicas federal, estatal y municipales, de los grupos sociales y de los particulares interesados.
 
-La Secretaría de Desarrollo Urbano y Rural, previo dictamen de la Secretaría de Planeación del Desarrollo, someterá el programa a la consideración del Gobernador del Estado y una vez aprobado por este, deberá publicarse en el Boletín Oficial del Gobierno del Estado y en dos diarios de mayor circulación en el Estado, pudiendo publicarse en estos últimos en forma abreviada. Así mismo, la citada dependencia mantendrá para consulta del público dicho Programa Estatal Sectorial.
+La Secretaría de Infraestructura Urbana y Ecología, previo dictamen de la Secretaría de Planeación del Desarrollo, someterá el programa a la consideración del Gobernador del Estado y una vez aprobado por este, deberá publicarse en el Boletín Oficial del Gobierno del Estado y en dos diarios de mayor circulación en el Estado, pudiendo publicarse en estos últimos en forma abreviada. Así mismo, la citada dependencia mantendrá para consulta del público dicho Programa Estatal Sectorial.
 
 ###### ARTICULO 83.
 
@@ -885,21 +901,27 @@ El Programa Estatal Sectorial de Vivienda, una vez aprobado y publicado, será o
 
 El Programa Estatal Sectorial de Vivienda será evaluado anualmente, a efecto de comprobar si han sido cumplidos sus objetivos y de conocer los efectos de las diversas acciones habitacionales realizadas. Los resultados de dicha revisión y las adecuaciones que, en su caso, se propongan, serán aprobados y publicados en los términos del Artículo 82 de esta ley.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 86.
 
 Los programas institucionales que se formulen y que incluyan acciones habitacionales, deberán ajustarse, en lo conducente, a lo dispuesto por el Programa Estatal Sectorial de Vivienda.
 
-Las entidades de la Administración Pública Estatal que realicen acciones de vivienda, deberán coordinarse con la Secretaría de Desarrollo Urbano y Rural, para la elaboración de sus programas institucionales de vivienda.
+Las entidades de la Administración Pública Estatal que realicen acciones de vivienda, deberán coordinarse con la Secretaría de Infraestructura Urbana y Ecología, para la elaboración de sus programas institucionales de vivienda.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 87.
 
 Los informes de las entidades de la Administración Pública Estatal que lleven a cabo acciones de vivienda, sobre los avances y evaluación de sus programas anuales, deberán contener reportes financieros, presupuestales, grados de avances de las obras, causas y explicación de las demoras y de modificaciones a los proyectos originales, si los hubiere.
 
-La Secretaría de Desarrollo Urbano y Rural tomará en cuenta dichos informes y evaluaciones para la revisión y evaluación del Programa Estatal Sectorial de Vivienda.
+La Secretaría de Infraestructura Urbana y Ecología tomará en cuenta dichos informes y evaluaciones para la revisión y evaluación del Programa Estatal Sectorial de Vivienda.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
 ###### ARTICULO 88.
 
-La Secretaría de Desarrollo Urbano y Rural propondrá a las dependencias competentes, medidas de financiamiento y estímulos para el cumplimiento de los programas de vivienda, así como sistemas de control, seguimiento y evaluación de los mismos.
+La Secretaría de Infraestructura Urbana y Ecología propondrá a las dependencias competentes, medidas de financiamiento y estímulos para el cumplimiento de los programas de vivienda, así como sistemas de control, seguimiento y evaluación de los mismos.
 
 ###### ARTICULO 89.
 
@@ -987,15 +1009,19 @@ III.- Plano a escala conveniente del terreno amparado por las Escrituras, con lo
 
 IV.- Plano a escala conveniente en el que se contemple el proyecto definitivo de cualquiera de los tres conceptos anteriormente descritos.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 97.
 
-Recibida la solicitud y documentos anexos, el Ayuntamiento de que se trate procederá a su revisión en un plazo no mayor de quince días hábiles, contados a partir de la fecha de recepción. Si se satisfacen los requisitos señalados en el Artículo 96 se procederá a su autorización. En caso de rechazo, el Ayuntamiento comunicará al solicitante las causas específicas por las que no haya sido aceptada la solicitud y le señalará un plazo que no excederá de treinta días, para que se ajuste a las normas señaladas en esta ley. Vencido este plazo se tendrá por no presentada la solicitud.
+Recibida la solicitud y documentos anexos, el Ayuntamiento de que se trate procederá a su revisión en un plazo no mayor de diez días hábiles, contados a partir del día siguiente de la fecha de recepción, y procederá a la autorización dentro del mismo plazo, si satisface los requisitos señalados en el artículo 96. En caso de no proceder, el Ayuntamiento comunicará al solicitante las causas específicas por las que no haya sido aceptada su solicitud y le señalará un plazo, que no excederá de quince días, para que se ajuste a las normas señaladas en esta ley. Vencido este plazo se tendrá por no presentada la solicitud.
 
 ###### ARTICULO 98.
 
 Las relotificaciones en fraccionamientos previamente autorizados, sólo podrán llevarse a cabo cuando sus lotes no hayan sido vendidos al público, debiéndose otorgar un nuevo convenio previo cumplimiento de las disposiciones que para la autorización de fraccionamientos establezca la presente ley.
 
-El cambio del uso del suelo y el cambio en la clasificación del fraccionamiento, sólo podrá ser autorizado por el Ayuntamiento respectivo, previo dictamen de la Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado, en el que se establezca la capacidad de dotación de servicios de la infraestructura urbana existente.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+El cambio del uso del suelo y el cambio en la clasificación del fraccionamiento, sólo podrá ser autorizado por el Ayuntamiento respectivo, previo dictamen de la Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado, en el que se establezca la capacidad de dotación de servicios de la infraestructura urbana existente.
 
 ### CAPITULO III. DE LOS FRACCIONAMIENTOS
 
@@ -1247,9 +1273,17 @@ IV.- Normas de desagüe pluvial.
 
 V.- Normas de pavimentación asfáltica.
 
-VI.- Normas de concreto hidráulico aplicable a pavimento, guarniciones y banquetas;
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
 
-VII.- Normas de electrificación y alumbrado público
+VI.- Normas de concreto hidráulico aplicable a pavimento, guarniciones y banquetas.
+
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+VII.- Normas de electrificación y alumbrado público; y
+
+> <small>(ADICIONADA, B.O. 8 DE JULIO DE 1993)</small>
+
+VIII.- Normas técnicas para prevención de incendios.
 
 ###### ARTICULO 109.
 
@@ -1291,9 +1325,11 @@ Ninguna de las calles de un fraccionamiento que se proyecte, que sea prolongaci�
 
 Cuando se proyecte una calle o avenida de alta velocidad, o cuando ésta ya exista a través de un fraccionamiento, los lotes habitacionales no deberán tener acceso directo a ella.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 114.
 
-Cuando cualquiera de los tipos de calles descritos en los artículos anteriores, tenga cruzamiento o entronque con una arteria de alta velocidad, carretera o vía de ferrocarril, requerirán de un proyecto especial, que deberá ser aprobado por el Ayuntamiento, previo dictamen de la Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado o, en su caso, de la Secretaría de Comunicaciones y Transportes del Gobierno Federal.
+Cuando cualquiera de los tipos de calles descritos en los artículos anteriores, tenga cruzamiento o entronque con una arteria de alta velocidad, carretera o vía de ferrocarril, requerirán de un proyecto especial, que deberá ser aprobado por el Ayuntamiento, previo dictamen de la Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado o, en su caso, de la Secretaría de Comunicaciones y Transportes del Gobierno Federal.
 
 ###### ARTICULO 115.
 
@@ -1319,7 +1355,9 @@ Siempre que sea necesaria la construcción de obras de liga entre el predio en q
 
 Cuando al ligar un fraccionamiento en proyecto con zonas urbanizadas, sea necesario abrir accesos o conducir servicios públicos a través de predios de terceros, que no formen parte del terreno por fraccionar y no medie el consentimiento del o de los propietarios, el ayuntamiento respectivo solicitará al Gobernador del Estado la expropiación por causa de utilidad pública, de las superficies que se requieran, quedando el fraccionador obligado a urbanizarlas por su propia cuenta.
 
-Si él o los propietarios de los terrenos expropiados por aplicación de lo dispuesto en el párrafo anterior, llegaran a fraccionar o a construir edificaciones con frente a las calles así formadas, estarán obligados a reintegrar el importe de la indemnización y a cubrir, además, un porcentaje valorado por la Secretaría de Desarrollo Urbano y Rural del Estado, por el costo de las obras de urbanización ejecutadas, al primer fraccionador.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+Si él o los propietarios de los terrenos expropiados por aplicación de lo dispuesto en el párrafo anterior, llegaran a fraccionar o a construir edificaciones con frente a las calles así formadas, estarán obligados a reintegrar el importe de la indemnización y a cubrir, además, un porcentaje valorado por la Secretaría de Infraestructura Urbana y Ecología del Estado, por el costo de las obras de urbanización ejecutadas, al primer fraccionador.
 
 ###### ARTICULO 121.
 
@@ -1353,25 +1391,33 @@ IV.- Acta constitutiva de la empresa fraccionadora, cuando se trate de persona m
 
 La licencia del uso del suelo, se otorgará por el Ayuntamiento respectivo, de acuerdo a lo previsto en los programas de desarrollo urbano de declaratorias en vigor.
 
+> <small>(REFORMADO PRIMER PARRAFO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 126.
 
-El interesado en realizar un proyecto de fraccionamiento, o su representante legal, deberá presentar ante el Ayuntamiento respectivo la licencia de uso del suelo y el anteproyecto de fraccionamiento para su revisión, misma que se llevará a cabo en un lapso no mayor de sesenta días. El Ayuntamiento turnará el anteproyecto par su estudio y opinión ante las siguientes dependencias:
+El interesado en realizar un proyecto de fraccionamiento, o su representante legal, deberá presentar ante el ayuntamiento respectivo la licencia de uso del suelo y el anteproyecto de fraccionamiento para su revisión, misma que se llevará a cabo en un lapso no mayor de treinta días; durante este mismo lapso, el Ayuntamiento turnará el anteproyecto para su estudio y opinión ante las siguientes dependencias:
 
-I.- Ante la Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado, para que dictamine acerca de la congruencia entre el anteproyecto de fraccionamiento y lo dispuesto en los programas de desarrollo urbano y en la presente ley.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+I.- Ante la Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado, para que dictamine acerca de la congruencia entre el anteproyecto de fraccionamiento y lo dispuesto en los programas de desarrollo urbano y en la presente ley.
 
 II.- Comisión Federal de Electricidad a quien se le solicitará la aprobación de la demanda de energía eléctrica; y
 
 III.- Organismo Operador Municipal del sistema de Agua Potable y Alcantarillado, donde se le solicitará la aprobación del abastecimiento de agua potable y la conexión del alcantarillado.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 127.
 
-El dictamen de la Secretaría de Desarrollo Urbano y Rural a que se refiere la fracción I del Artículo anterior, deberá ser emitido en un término no mayor de treinta días, a partir de la fecha en que le sea solicitado. De no ser emitido en ese lapso, se tendrá como favorable al establecimiento del fraccionamiento.
+El dictamen de la Secretaría de Infraestructura Urbana y Ecología, a que se refiere la fracción I del artículo anterior, deberá ser emitido en un término perentorio de diez días contados a partir del día siguiente a la fecha de recepción del proyecto. De no ser emitido el dictamen en ese lapso, se tendrá como favorable el establecimiento del fraccionamiento.
 
 ###### ARTICULO 128.
 
 Una vez obtenidas las aprobaciones descritas en los Artículos anteriores, el fraccionador podrá elaborar el proyecto definitivo que presentará acompañado de la documentación técnica ante el Ayuntamiento, quien solicitará la revisión y autorización de los proyectos correspondientes a:
 
-I.- Secretaría de Desarrollo Urbano y Rural, por lo que respecta a los proyectos de construcción y ampliación de las redes de agua potable y alcantarillado.
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+I.- Secretaría de Infraestructura Urbana y Ecología, por lo que respecta a los proyectos de construcción y ampliación de las redes de agua potable y alcantarillado.
 
 II.- Comisión Federal de Electricidad, en lo que respecta a los planos de instalación eléctrica y alumbrado público; y
 
@@ -1407,9 +1453,13 @@ Obtenidas las aprobaciones anteriores, el fraccionador presentará ante el Ayunt
 
 13.- Plano manzanero, que comprenderá: numeración y ubicación de manzanas, áreas verdes, áreas comerciales, áreas de donación con sus ángulos, medidas y superficies en cada una de ellas, nomenclatura de calles y orientación.
 
-14.- Plano de agua potable, que comprenderá: conexión de la red municipal, distribución de la red, longitudes, diámetro, tomas domiciliarias, cuadros de cruceros, simbología y datos de proyecto, debidamente autorizados por la Secretaría de Desarrollo Urbano y Rural.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-15.- Plano de alcantarillado, que comprenderá: Distribución de la red, longitud, diámetro, niveles y pendientes entre pozo y pozo, descarga y datos de proyectos y simbología, debidamente autorizados por la Secretaría de Desarrollo Urbano y Rural.
+14.- Plano de agua potable, que comprenderá: conexión de la red municipal, distribución de la red, longitudes, diámetro, tomas domiciliarias, cuadros de cruceros, simbología y datos de proyecto, debidamente autorizados por la Secretaría de Infraestructura Urbana y Ecología.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+15.- Plano de alcantarillado, que comprenderá: Distribución de la red, longitud, diámetro, niveles y pendientes entre pozo y pozo, descarga y datos de proyectos y simbología, debidamente autorizados por la Secretaría de Infraestructura Urbana y Ecología.
 
 16.- Plano de electrificación, en el que se señale la red de distribución de energía eléctrica, conexión a las líneas de transmisión y subestaciones, simbología, datos de proyecto, sellado y ajustado a las normas y especificaciones que marque la Comisión Federal de Electricidad.
 
@@ -1419,11 +1469,21 @@ Obtenidas las aprobaciones anteriores, el fraccionador presentará ante el Ayunt
 
 19.- Oficio de aprobación del proyecto de electrificación y alumbrado público, que expida la Comisión Federal de Electricidad.
 
-20.- Dictamen de la Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
 
-21.- Costos de adquisición del terreno y avalúo comercial; y
+20.- Dictamen de la Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado.
 
-22.- Resumen pormenorizado de inversiones de las obras de urbanización incluyendo los gastos indirectos y utilidades.
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+21.- Costos de adquisición del terreno y avalúo comercial.
+
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
+22.- Resumen pormenorizado de inversiones de las obras de urbanización incluyendo los gastos indirectos y utilidades; y
+
+> <small>(ADICIONADO, B.O. 8 DE JULIO DE 1993)</small>
+
+23.- Constancia, expedida por el Cuerpo de Bomberos que corresponda, de que el proyecto cumple con las normas técnicas para prevención de incendios.
 
 ###### ARTICULO 130.
 
@@ -1461,7 +1521,9 @@ III.- La Dirección de Catastro de la Tesorería General del Estado.
 
 IV.- La Oficina del Registro Público de la Propiedad.
 
-V.- La Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado; y a
+> <small>(REFORMADA, B.O. 8 DE JULIO DE 1993)</small>
+
+V.- La Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado; y a
 
 VI.- El interesado.
 
@@ -1537,9 +1599,11 @@ Toda inspección o supervisión será en virtud de una orden escrita expedida pa
 
 De acuerdo a las observaciones señaladas por un inspector, se promoverá si procediere, la visita de un supervisor autorizado, quien en cita con el fraccionador, ordenará la corrección de las anormalidades que hubiere.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 147.
 
-Las indicaciones que deriven de la supervisión se darán al fraccionador por escrito, otorgándosele un plazo razonable para su acatamiento. Si el fraccionador no atiende oportunamente las indicaciones dadas por el supervisor se procederá a la suspensión de la obra mediante orden escrita firmada por el encargado de la oficina de Desarrollo Urbano o su equivalente del Municipio de que se trate. En caso de no existir éste, dicha orden la firmarán el Presidente Municipal y el Secretario del Ayuntamiento. En ambos casos se dará aviso de la suspensión a la Secretaría de Desarrollo Urbano y Rural del Gobierno del Estado.
+Las indicaciones que deriven de la supervisión se darán al fraccionador por escrito, otorgándosele un plazo razonable para su acatamiento. Si el fraccionador no atiende oportunamente las indicaciones dadas por el supervisor se procederá a la suspensión de la obra mediante orden escrita firmada por el encargado de la oficina de Desarrollo Urbano o su equivalente del Municipio de que se trate. En caso de no existir éste, dicha orden la firmarán el Presidente Municipal y el Secretario del Ayuntamiento. En ambos casos se dará aviso de la suspensión a la Secretaría de Infraestructura Urbana y Ecología del Gobierno del Estado.
 
 ###### ARTICULO 148.
 
@@ -1599,9 +1663,11 @@ El Ayuntamiento, a fin de regular la venta de lotes, podrá solicitar en cualqui
 
 #### SECCION IX. DE LOS CONDOMINIOS
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 157.
 
-Cuando un edificio en el que se pretenda instituir el régimen de propiedad en condominio a que se refiere el Artículo 1121 del Código Civil del Estado, conste de cinco o más departamentos, viviendas o locales, o se afecte un área de más de cinco mil metros cuadrados, se requerirá, para su autorización, dictamen previo de la Secretaría de Desarrollo Urbano y Rural, en el que se determine si la capacidad de los servicios públicos instalados en la zona de que se trate son suficientes para el número de departamentos, viviendas o locales de que conste la edificación que se pretende realizar.
+Cuando un edificio en el que se pretenda instituir el régimen de propiedad en condominio a que se refiere el Artículo 1121 del Código Civil del Estado, conste de cinco o más departamentos, viviendas o locales, o se afecte un área de más de cinco mil metros cuadrados, se requerirá, para su autorización, dictamen previo de la Secretaría de Infraestructura Urbana y Ecología, en el que se determine si la capacidad de los servicios públicos instalados en la zona de que se trate son suficientes para el número de departamentos, viviendas o locales de que conste la edificación que se pretende realizar.
 
 ###### ARTICULO 158.
 
@@ -1613,7 +1679,7 @@ En caso de que, debido a la ubicación de los condominios, no sea posible donar 
 
 ###### ARTICULO 159.
 
-Se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientos que no estén autorizados por los Ayuntamientos respectivos de acuerdo con esta ley y demás disposiciones aplicables.
+Se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientof que no estén autorizados por los Ayuntamientos respectivos de acuerdo con esta ley y demás disposiciones aplicables.
 
 También se consideran ilegales las fusiones, subdivisiones, relotificaciones y fraccionamientos autorizados, cuyos propietarios no realicen las obras o no hayan satisfecho los requisitos a que estén obligados de acuerdo con la autorización concedida.
 
@@ -1705,9 +1771,11 @@ V.- Instalaciones especiales.
 
 Una vez elaborados los proyectos arquitectónicos, deberán de ser presentados ante las autoridades sanitarias competentes para recabar el permiso de construcción de acuerdo con las disposiciones legales en vigor. Igualmente, se deberá recabar el visto bueno de la Secretaría de Comercio y Fomento Industrial respecto de las instalaciones de gas, combustible y explosivos, de conformidad con el Reglamento Federal respectivo.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 173.
 
-Los proyectos arquitectónicos deberán ser revisados para verificar que reúnan los requisitos mínimos de seguridad contra incendios, de conformidad con las disposiciones legales en vigor.
+Los proyectos arquitectónicos deberán ser revisados para verificar que cumplan con las normas técnicas para prevención de incendios.
 
 ###### ARTICULO 174.
 
@@ -1789,9 +1857,11 @@ Los Desarrollos Turísticos únicamente se permitirán en las zonas declaradas d
 
 Los Desarrollos Campestres estarán ubicados fuera de los centros de población y en ningún caso podrán autorizarse dentro de las zonas destinadas al crecimiento de los mismos. Las autorizaciones que se expidan en contra de lo dispuesto en este artículo, serán nulas de pleno derecho y las autoridades que las concedan serán responsables en los términos que fije el Capítulo respectivo de esta ley.
 
+> <small>(REFORMADO, B.O. 8 DE JULIO DE 1993)</small>
+
 ###### ARTICULO 190.
 
-Para los efectos del aprovechamiento del suelo en los Desarrollos a que se refiere el presente Capítulo, la Secretaría de Desarrollo Urbano y Rural estará a lo que establecen en lo conducente las Secciones III y IX del Capítulo III del Título Tercero de esta ley.
+Para los efectos del aprovechamiento del suelo en los Desarrollos a que se refiere el presente Capítulo, la Secretaría de Infraestructura Urbana y Ecología estará a lo que establecen en lo conducente las Secciones III y IX del Capítulo III del Título Tercero de esta ley.
 
 ## TITULO SEXTO. DE LAS RESPONSABILIDADES, MEDIDAS DE SEGURIDAD SANCIONES Y DEFENSAS DE LOS PARTICULARES
 
@@ -1984,6 +2054,12 @@ Lic. Carlos Gámez Fimbres.
 > <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 B.O. 28 DE DICIEMBRE DE 1992.
+
+###### ARTICULO UNICO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE JULIO DE 1993.
 
 ###### ARTICULO UNICO.
 
