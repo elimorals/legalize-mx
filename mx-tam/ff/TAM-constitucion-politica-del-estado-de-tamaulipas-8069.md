@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "1986-12-06"
+last_updated: "1986-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CONSTITUCION POLITICA DEL ESTADO DE TAMAULIPAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE DICIEMBRE DE 1986.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE DICIEMBRE DE 1986.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1127,11 +1127,11 @@ El Ejecutivo a su vez, tendrá un "Subsecretario General de Gobierno", cuyas fun
 
 ### CAPITULO I. De la Administración de Justicia
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 100.
 
-El Poder Judicial en el Estado se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los juzgados de primera instancia, en los juzgados menores y en los tribunales y jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
+El Poder Judicial en el Estado de Tamaulipas se deposita para su ejercicio en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Conciliadores y en los Tribunales y Jurados que en lo sucesivo establezca la Ley, salvo las excepciones determinadas por esta Constitución.
 
 > <small>(REFORMADO, P.O. 8 DE ENERO DE 1966)</small>
 
@@ -1225,7 +1225,9 @@ Los Magistrados al entrar a desempeñar su cargo, rendirán ante el Congreso, o 
 
 Son facultades y obligaciones del Supremo Tribunal de Justicia.
 
-I.- Conocer en única Instancia, de las controversias de orden civil que se susciten entre los particulares y el Estado o los Ayuntamientos o entre éstos y aquéllos.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
+
+I.- Conocer de la ejecución de las sentencias ejecutorias pronunciadas por los Tribunales de Justicia contra el Estado, los Municipios y sus Entidades Autónomas;
 
 II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Estado, en los términos de las Leyes respectivas.
 
@@ -1233,9 +1235,9 @@ II.- Dirimir las competencias que surjan entre las Autoridades Judiciales del Es
 
 III.- Erigirse en Jurado de sentencia para conocer las causas que se instruyan contra servidores públicos conforme a lo dispuesto en el Título XI de esta Constitución.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
-IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
+IV.- Conocer y fallar en única instancia las causas que se instruyan contra alguno de sus miembros, contra los Jueces de Primera Instancia y Jueces Conciliadores por delitos cometidos en el ejercicio de sus funciones, y de las que deban substanciarse contra los Secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus empleos.
 
 V.- Conocer en segunda instancia de los asuntos civiles o penales que al efecto remitan los jueces de primera instancia.
 
@@ -1247,9 +1249,9 @@ VII.- Elegir Presidente del Tribunal, por mayoría de votos de los Magistrados p
 
 VIII.- Nombrar a los jueces de Primera Instancia, removerlos y cesarlos en los casos en que la ley lo establezca.
 
-> <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
-IX.- Nombrar a los jueces menores previa propuesta en terna de los ayuntamientos respectivos, removiéndolos y cesándolos en los casos que la ley lo establezca.
+IX.- Nombrar a los Jueces Conciliadores, removiéndolos y cesándolos en los casos que la Ley lo establezca.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 1980)</small>
 
@@ -1283,49 +1285,49 @@ En las causas que hubiere de formarse a todos los Magistrados en funciones, una 
 
 ###### Art. 117.
 
-Los Tribunales Inferiores para la administración de justicia, estarán a cargo de los jueces de primera instancia y de los jueces menores.
+Los Tribunales Inferiores para la Administración de Justicia, estarán a cargo de los Jueces de Primera Instancia y de los Jueces Conciliadores.
 
-> <small>(REFORMADO, P.O. 4 DE JUNIO DE 1980)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 118.
 
-Los Jueces de Primera Instancia del Estado serán nombrados por el Supremo Tribunal de Justicia en pleno. Se podrán designar dos o más Jueces de Primera Instancia con jurisdicción independiente en los ramos civil, familiar y penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario.
+Los Jueces de Primera Instancia del Estado serán nombrados por el Supremo Tribunal de Justicia en pleno. Se podrán designar dos o más Jueces de Primera Instancia con Jurisdicción independiente en los ramos civil y penal, para un mismo Distrito Judicial, cuando el número de negocios lo haga necesario.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 119.
 
-Los jueces menores funcionarán cuando menos uno en cada Municipio.
+Los Jueces Conciliadores funcionarán cuando menos uno en cada Municipio.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 120.
 
-Una Ley determinará el número de distritos judiciales en que se divide el Estado; el número de jueces de primera instancia y de jueces menores; sus requisitos, su competencia, jurisdicción, duración de sus funciones, dotación de empleados y todo lo relativo a su organización.
+La ley determinará el número de Distritos Judiciales en que se divide el Estado; el número de Jueces de Primera Instancia y de Jueces Conciliadores; sus requisitos, su competencia, su circunscripción territorial, la duración de sus funciones, la dotación de empleados y todo lo relativo a su organización.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 121.
 
-Los juzgados de primera instancia serán sostenidos por el Estado y los juzgados menores por sus respectivos Municipios.
+Los Juzgados de Primera Instancia y los Conciliadores serán sostenidos por el Estado.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 122.
 
-Los Jueces de Primera Instancia, antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia, o ante el Ayuntamiento del Municipio Cabecera del Distrito Judicial, si así lo dispusiere aquél.
+Los Jueces de Primera Instancia antes de tomar posesión de su empleo, otorgarán la protesta de estilo ante el Supremo Tribunal de Justicia.
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 123.
 
-Los jueces menores otorgarán la protesta de Ley ante el Juez de Primera Instancia, del respectivo distrito judicial.
+Los Jueces Conciliadores otorgarán la protesta de Ley ante el Juez de Primera Instancia del respectivo Distrito Judicial.
 
 ## TITULO VII. DEL MINISTERIO PUBLICO
 
 ### CAPITULO III. De los Tribunales Inferiores
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1961)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 124.
 
@@ -1345,9 +1347,11 @@ Una ley reglamentará la organización del Ministerio Público y los requisitos 
 
 ### CAPITULO UNICO. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
+
 ###### Art. 127.
 
-En cumplimiento de lo mandado por el artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquiera autoridad a los acusados y aconsejar a los pobres de solemnidad en los asuntos civiles.
+En cumplimiento de lo mandado por el Artículo 20, fracción IX, de la Constitución Federal, se establece en el Estado la Defensoría de Oficio, que se encargará de defender ante cualquier autoridad a los inculpados, de intervenir como abogados patronos de las partes en materia civil y de aconsejar, en este ramo, a quien así lo solicite.
 
 ###### Art. 128.
 
@@ -1361,11 +1365,11 @@ Una ley reglamentará la organización de la Defensoría de Oficio y los requisi
 
 ### CAPITULO UNICO. Disposiciones generales
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1941)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 1986)</small>
 
 ###### Art. 130.
 
-Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las judiciales por los Juzgados de Paz.
+Las funciones políticas y administrativas de carácter municipal, serán desempeñadas por los Ayuntamientos y las Judiciales por los Jueces Conciliadores.
 
 > <small>(REFORMADO, P.O. 27 DE AGOSTO DE 1983)</small>
 
@@ -2256,3 +2260,7 @@ UNICO.- Este Decreto inicia su vigencia al día siguiente de su publicación en 
 P.O. 6 DE DICIEMBRE DE 1986.
 
 UNICO.- El presente Decreto entrará en vigor a partir de su expedición.
+
+P.O. 10 DE DICIEMBRE DE 1986.
+
+UNICO.- Este Decreto entrará en vigor quince días después de su publicación en el Periódico Oficial del Estado.
