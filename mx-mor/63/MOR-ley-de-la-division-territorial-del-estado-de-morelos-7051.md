@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-la-division-territorial-del-estado-de-morelos-7051"
 country: "mx"
 rank: "ley"
 publication_date: "1932-12-18"
-last_updated: "1939-07-16"
+last_updated: "1939-08-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LA DIVISIÓN TERRITORIAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 1939.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE AGOSTO DE 1939.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Morelos, el domingo 18 de diciembre de 1932.
 
@@ -137,9 +137,11 @@ Corresponden a la jurisdicción del Municipio de Tetecala, los siguientes centro
 
 Art. s/n. Corresponden a la jurisdicción del Municipio de Tetela del Volcán los siguientes centros de población: Hueyapan, Xochicalco y Taimilulpan, siendo cabecera del Municipio el citado pueblo de Tetela del Volcán.
 
+> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 1939)</small>
+
 ###### Art. 23.
 
-Corresponden a la jurisdicción del Municipio de Tlalnepantla, los siguientes centros de población: Coatepec, El Vigía y Tlalnepantla Cabecera del Municipio.
+Corresponden a la jurisdicción del Municipio de Tetecala los siguientes centros de Población: Actopan, Contlalco, Cuautlita, Francisco Sarabia y Tetecala cabecera del Municipio.
 
 ###### Art. 24.
 
@@ -230,3 +232,7 @@ EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITO
 P.O. 16 DE JULIO DE 1939.
 
 UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la fracción I del artículo 71 de la Constitución Política Local, a fin de que este Decreto empiece a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE AGOSTO DE 1939.
+
+UNICO.- Remítase al Ejecutivo del Estado, para los efectos de la Fracción I del Artículo 71 de la Constitución Política Local, a fin de que este Decreto empiece a surtir sus efectos desde la fecha de su publicación en el Periódico Oficial del Estado.
