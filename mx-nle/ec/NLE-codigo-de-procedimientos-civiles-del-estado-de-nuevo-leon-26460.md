@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-procedimientos-civiles-del-estado-de-nuevo-leon-26460
 country: "mx"
 rank: "codigo"
 publication_date: "1973-02-03"
-last_updated: "2004-04-28"
+last_updated: "2004-07-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26460&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CODIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE NUEVO LEON
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE ABRIL DE 2004.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE JULIO DE 2004.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 3 de febrero de 1973.
 
@@ -335,11 +335,13 @@ Nunca, por ningún motivo, se entregarán los autos en confianza.
 
 El Magistrado, Juez, Secretario o cualquier servidor público que infrinja este artículo sufrirá una multa de cincuenta a doscientas cuotas; y serán responsables de todos los daños y perjuicios que se causaren y si reinciden en dicha falta, serán destituidos del empleo u oficio. Dicha sanción será impuesta en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-> <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
+> <small>(REFORMADO, P.O. 14 DE JULIO DE 2004)</small>
 
 ###### Artículo 39.
 
-Para sacar copia o testimonio de cualquier documento que exista en los archivos o expedientes se requiere decreto judicial, que no se dictará sino con conocimiento de causa y a petición de parte legítima, si se trata de copia simple se expedirá sin requisito alguno, quedando razón y constancia de su recibo en el que se señale las copias que reciba.
+Las copias o testimonios de documentos que existan en los archivos o expedientes se permitirán a toda persona que los solicite, quedando razón y constancia de recibo en el que se señalen los que hubieren sido expedidos. Lo anterior con excepción de los casos en que la Ley de Acceso a la Información Pública obligue a la autoridad a negar el acceso público a la información, en los cuales sólo las partes legitimadas o quienes ellas autoricen podrán consultar y obtener copias de los expedientes.
+
+El Juez o Magistrado dictará las medidas que sean conducentes, para tal efecto.
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 1997)</small>
 
@@ -6005,7 +6007,7 @@ En las sucesiones intestadas o testamentarias que se sometan a la tramitación a
 
 I.- Que los herederos estén de acuerdo en la forma y términos de liquidar el haber hereditario;
 
-II.- Que en los casos de intestado, la denuncia se firme por todos los presuntos herederos o sus representantes legítimos, expresando sus reconocimiento (sic) entre sí y la designación de albacea;
+II.- Que en los casos de intestado, la denuncia se firme por todos los presuntos herederos o sus representantes legítimos, expresando sus reconocimiento(sic) entre sí y la designación de albacea;
 
 III.- Con la denuncia se exhibirán las actas del Estado Civil que acrediten la defunción del autor de la herencia y el entroncamiento de los comparecientes con éste;
 
@@ -7383,7 +7385,7 @@ P.O. 24 DE AGOSTO DE 1977.
 
 PRIMERO.- Las presentes reformas entrarán en vigor el día primero de diciembre del presente año.
 
-SEGUNDO.-Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
+SEGUNDO.- Para la distribución de los negocios de orden familiar, actualmente en trámite en los juzgados 1º. , 2º. , 3º. Y 5º. Del ramo civil de la primera fracción judicial en el Estado, se procederá del modo siguiente:
 
 a).- Cada juzgado formulará el inventario de los citados asuntos.
 
@@ -7487,17 +7489,17 @@ DECRETO NUM. 240, QUE REFORMA EL ARTICULO 935.
 
 UNICO:- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
-P.O. 21 DE ENERO DE 1987.
-
-###### ARTICULO UNICO
-
-- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
-
 P.O. 25 DE FEBRERO DE 1985.
 
 ###### ARTICULO UNICO
 
 - Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 21 DE ENERO DE 1987.
+
+###### ARTICULO UNICO
+
+- Este Decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
 
 P.O. 2 DE AGOSTO DE 1991.
 
@@ -7589,7 +7591,7 @@ P.O. 10 DE FEBRERO DE 1999.
 
 El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
 
-P.O. 3 DE ENERO DEL 2000
+P.O. 3 DE ENERO DEL 2000.
 
 Único.- El presente Decreto entrará en vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
 
@@ -7618,3 +7620,9 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos regulados por las disposiciones que son reformadas a través del presente Decreto y que se encuentren en trámite al entrar en vigor el mismo, se regirán por lo dispuesto por la legislación conforme a la cual se iniciaron.
 
 Las partes, en los procedimientos referidos en el párrafo anterior, podrán optar por los beneficios derivados de las mencionadas reformas.
+
+P.O. 14 DE JULIO DE 2004.
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Las autoridades responsables de los Tribunales del Poder Judicial y del Poder Ejecutivo expedirán los lineamientos mediante los cuales, sin contravenir las disposiciones legales, se facilitará a las personas que lo soliciten el acceso a la información que obre en su poder.
