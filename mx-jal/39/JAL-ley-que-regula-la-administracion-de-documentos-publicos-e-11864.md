@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-regula-la-administracion-de-documentos-publicos-e-11864
 country: "mx"
 rank: "ley"
 publication_date: "1998-01-08"
-last_updated: "1998-01-08"
+last_updated: "2002-07-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE REGULA LA ADMINISTRACION DE DOCUMENTOS PUBLICOS E HISTORICOS DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE JULIO DE 2002.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 8 de enero de 1998.
 
@@ -41,19 +41,31 @@ LEY QUE REGULA LA ADMINISTRACIÓN DE DOCUMENTOS PÚBLICOS E HISTÓRICOS DEL ESTA
 
 ### Capítulo I. De las disposiciones generales
 
-###### Artículo 1º.
+> <small>(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002)</small>
 
-La presente ley es de orden público e interés social, sus disposiciones son de observancia general y tiene por objeto:
+###### Artículo 1°.
+
+La presente Ley es de orden e interés público, sus disposiciones son de observancia general y tiene por objeto:
 
 I. Regular la administración, manejo, cuidado y consulta de los documentos públicos e históricos que estén a cargo de los poderes del estado, de los municipios y demás dependencias de la administración pública;
 
-II. Determinar la creación, reproducción, conservación, restauración, depuración y eliminación de los documentos públicos de carácter oficial e histórico, según sea el caso y que estén a cargo de los poderes del estado, de los municipios y demás dependencias de la administración pública;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
-III. Disponer las obligaciones y sanciones administrativas generales para los servidores públicos que tengan a su cargo el manejo, cuidado y custodia de los documentos públicos;
+II. Garantizar el acceso de los particulares a los documentos públicos de los Poderes, organismos públicos autónomos y sus dependencias y entidades conforme al principio de publicidad de los actos y actividades que realizan;
 
-IV. Establecer el Registro del Patrimonio Documental del Estado; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
-V. Instituir al Sistema Estatal de Documentación y Archivos Públicos.
+III. Determinar la creación, reproducción, conservación, restauración, depuración y eliminación de los documentos públicos de carácter oficial e histórico, según sea el caso y que estén a cargo de los poderes del estado, de los municipios y demás dependencias de la administración pública;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+
+IV. Disponer las obligaciones y sanciones administrativas generales para los servidores públicos que tengan a su cargo el manejo, cuidado y custodia de los documentos públicos;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+
+V. Establecer el Registro del Patrimonio Documental del Estado; e
+
+VI. Instituir al Sistema Estatal de Documentación y Archivos Públicos.
 
 ###### Artículo 2º.
 
@@ -81,57 +93,107 @@ VI. Archivos generales: La expresión genérica que se refiere a los archivos qu
 
 a) Archivo Histórico del Estado de Jalisco del Poder Ejecutivo;
 
-b) Archivo General del Poder Legislativo del Estado de Jalisco;
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
-c) Archivo General del Poder Judicial del Estado de Jalisco;
+b) Archivo de Concentración del Estado de Jalisco del Poder Ejecutivo;
 
-d) Archivos Generales de las dependencias de la administración pública del estado de Jalisco y sus municipios; y
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
-e) Archivos Generales de los municipios del estado de Jalisco
+c) Archivo General del Poder Legislativo del Estado de Jalisco;
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
+d) Archivo General del Poder Judicial del Estado de Jalisco;
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
+
+e) Archivos Generales de las dependencias de la administración pública del estado de Jalisco y sus municipios; y
+
+f) Archivos Generales de los municipios del estado de Jalisco.
 
 VII. Sistema Estatal: El Sistema Estatal de Documentación y de Archivos Públicos, se integra por el conjunto de los archivos generales, su ley, reglamentos internos, usos y costumbres, los recursos humanos y materiales, así como su acervo en general;
 
-VIII. Archivo Histórico: El Archivo Histórico del Estado de Jalisco, es aquél que concentra la documentación del poder Ejecutivo y de sus dependencias de la administración pública;
+(REFORMADA, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
-IX. Comité Técnico: El Comité Técnico de Documentación, es el organismo auxiliar y técnico del Sistema Estatal, encargado de proponer las políticas y lineamientos en administración documental; coordinar a los archivos generales; elaborar y conservar el Registro del Patrimonio Documental del Estado;
+VIII. Dirección General de Archivos del Estado de Jalisco: Dependencia de la Secretaría General de Gobierno del Estado de Jalisco encargada de dirigir trabajos de organización, conservación y difusión de los acervos tanto del Archivo Histórico, como del archivo de Concentración, así como de coordinar y supervisar ambos archivos y a sus titulares; así mismo está encargada de dictar la normatividad de los archivos histórico y de los generales.
 
-X. La Comisión: La Comisión Dictaminadora, es el organismo técnico del Sistema Estatal, encargado de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público, una vez transcurridos 15 años de haber sido dados de baja en los archivos de trámite y que se encuentran en los archivos generales;
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
 
-XI. Depuración: Procedimiento de clasificación de los documentos que por su valor histórico, cultural o de interés público, son objeto de conservación, registro y cuidado, así como la eliminación de aquellos que sean irrelevantes para el estado y la colectividad.
+IX. Archivo Histórico: El Archivo Histórico del Estado de Jalisco, organismo dependiente de la Dirección General de Archivos del Estado de Jalisco, que concentra, organiza, conserva, resguarda y restaura los documentos de interés histórico;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+
+X. Archivo de Concentración: Institución adscrita a la Dirección General de Archivos, y en coordinación con el Archivo Histórico, que se encarga de almacenar los acervos documentales ya no operantes de las diferentes dependencias administrativas del poder ejecutivo, resguarda los documentos dados de baja para ser nuevamente requeridos, consultados y depurados;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
+
+XI. Dependencia Generadora: Entidad dependiente de alguno de los poderes o municipios del estado de Jalisco de la que emana un documento susceptible de ser resguardado por alguno de los archivos generales;
+
+XII. Comité Técnico: El Comité Técnico de Documentación, es el organismo auxiliar y técnico del Sistema Estatal, encargado de proponer las políticas y lineamientos en administración documental; coordinar a los archivos generales; elaborar y conservar el Registro del Patrimonio Documental del Estado;
+
+(REFORMADA, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
+XIII. La Comisión: La Comisión Dictaminadora, es el organismo técnico del Sistema Estatal, encargado de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público, y que se encuentran en los archivos generales, una vez transcurridos los plazos señalados por esta ley;
+
+XIV. Depuración: Procedimiento de clasificación de los documentos que por su valor histórico, cultural o de interés público, son objeto de conservación, registro y cuidado, así como la eliminación de aquellos que sean irrelevantes para el estado y la colectividad.
 
 ###### Artículo 3º.
 
 Los poderes públicos del estado, los municipios y las dependencias de la administración pública, en el manejo de los documentos administrativos e históricos que tengan bajo su custodia, se sujetarán a lo establecido en la presente ley y demás disposiciones que se dicten al respecto.
 
-El Archivo General de la Universidad de Guadalajara, se regulará con su propia normatividad, en lo no previsto por la misma, será supletoria la presente ley.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
+Los ayuntamientos en el ámbito de su competencia deben expedir ordenamientos municipales de acuerdo con los criterios establecidos en la presente ley y fijar los procedimientos administrativos necesarios para garantizar el acceso de los particulares a sus documentos públicos.
+
+(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 4º.
 
-Los documentos administrativos e históricos del Sistema Estatal, son bienes muebles del dominio público, con carácter de inalienables, imprescriptibles e inembargables.
+El acceso a los documentos públicos es gratuito.
+
+Puede fijarse un costo a la expedición de copias de los documentos o elementos técnicos, mismo que debe estar relacionado directamente con el costo del material que origine la reproducción, de conformidad con las leyes de la materia.
+
+Lo establecido en el párrafo que antecede no debe ser motivo de lucro por parte del ente público que entregue el documento público solicitado.
 
 ###### Artículo 5º.
 
 En lo no previsto por esta ley, se aplicarán supletoriamente:
 
-I. El Código Civil del Estado de Jalisco;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
-II. La ley en materia de patrimonio cultural;
+I. La Ley de Transparencia e Información Pública del Estado;
 
-III. Las leyes orgánicas de los poderes públicos del estado, la municipal, así como los reglamentos de las dependencias de la administración pública;
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2002)</small>
 
-IV. Los reglamentos interiores de los archivos histórico y generales;
+II. La Ley del Procedimiento Administrativo del Estado de Jalisco y sus Municipios;
 
-VI(sic). Las demás disposiciones normativas en la materia.
+III. El Código Civil del Estado de Jalisco;
 
-### Capítulo II. Del patrimonio documental histórico y de interés público
+IV. La ley en materia de patrimonio cultural;
+
+V. Las leyes orgánicas de los poderes públicos del estado, la municipal, así como los reglamentos de las dependencias de la administración pública;
+
+VI. Los reglamentos interiores de los archivos histórico y generales;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+
+VII. Las demás disposiciones normativas en la materia.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2002)</small>
+
+### Capítulo II. Del patrimonio documental público histórico y reservado
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
 
 ###### Artículo 6º.
 
-Los documentos de interés público, constituyen el patrimonio documental histórico del estado.
+Son documentos públicos, documentos escritos, fotografías, grabaciones, soporte magnético o digital, o en cualquier otro elemento técnico que haya sido creado u obtenido por los Poderes del Estado, municipios, y demás dependencias de la administración pública en el ejercicio de sus funciones, y que se encuentre en su posesión y bajo su control; y constituyen el patrimonio documental e histórico del estado.
+
+(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 7º.
 
-Los documentos de interés público de los poderes del estado, los Municipios y demás dependencias de la administración pública local son los originales de:
+Los documentos públicos de acceso inmediato de los poderes del estado, los Municipios y demás dependencias de la administración pública son:
 
 I. Las Constituciones Políticas del Estado de Jalisco;
 
@@ -139,25 +201,75 @@ II. Los códigos y leyes;
 
 III. Los reglamentos;
 
-IV. Los presupuestos de egresos, cuentas públicas, documentos contables; facturas, talonarios de cheques; recibos de pagos;
+IV. Los presupuestos de egresos, y cuentas públicas;
 
 V. Las actas de sesiones;
 
-VI. Los decretos de todo género, iniciativas de leyes, las minutas, el Diario de Debates; El Periódico Oficial "El Estado de Jalisco", las gacetas municipales;
+VI. Los decretos de todo género, iniciativas de leyes, las minutas, el Diario de Debates, El Periódico Oficial "El Estado de Jalisco", las gacetas municipales;
 
-VII. Los dictámenes cualesquiera que sea su naturaleza;
+VII. Los convenios, contratos y escrituras, en los cuales participe el gobierno del estado o sus municipios, como promotores o generadores por si mismos;
 
-VIII. Los expedientes de los diferentes asuntos que hayan tenido el carácter de oficial;
+VIII. Los productos documentales derivados, como son los planos, videos, fotografías, cassettes, películas, discos compactos, discos ópticos y cualquier otro formato que constituyen parte de los mencionados; y
 
-IX. Los convenios, contratos y escrituras, en los cuales participe el gobierno del estado o sus municipios, como promotores o generadores por si mismos;
+IX. Los libros, folletos, enciclopedias y colecciones que integran los acervos públicos; así como los producidos por los poderes públicos, los municipios y las dependencias de la administración pública.
 
-X. Los productos documentales derivados, como son los planos, videos, fotografías, cassettes, películas, discos compactos, discos ópticos y cualquier otro formato que constituyen parte de los mencionados; y
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
-XI. Los libros, folletos, enciclopedias y colecciones que integran los acervos públicos; así como los producidos por los poderes públicos, los municipios y las dependencias de la administración pública.
+Las autoridades a que se refiere esta ley deben establecer los mecanismos de accesibilidad inmediata de los documentos públicos a que se refiere el presente artículo, de manera tal que se facilite el uso por los particulares.
 
-## Título Segundo. De la administración de documentos de interés público
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
 
-### Capítulo I. De la administración de documentos de interés público
+Artículo 7 A.- Se consideran documentos históricos todos aquellos, originales o certificados que constituyan evidencias importantes de los acontecimientos históricos del estado, de la actuación biográfica de personajes destacados, así como de la crónica de sucesos importantes que puedan tener contenido de interés social o público.
+
+También se consideran como documentos históricos las colecciones y acervos documentales que el Comité Técnico reconozca como de valor histórico o cultural y que se encuentren bajo la custodia de algún ente público o de particulares.
+
+Los documentos a que se refiere este artículo, pueden encontrarse en los archivos, bibliotecas de los entes públicos o en custodia de particulares y deben estar dados de alta en el Registro del Patrimonio Documental del Estado como documentos con valor histórico o cultural.
+
+Los documentos y elementos técnicos que contienen información histórica se consideran como documentos públicos, sin embargo los usuarios deben acatar las disposiciones que establezcan las respectivas autoridades, con relación al acceso, manejo y cuidado de éstos.
+
+Los servidores públicos o particulares que custodien documentos históricos son responsables de la conservación de los mismos, debiendo tomar las medidas necesarias para que al ser consultados se evite el deterioro, destrucción o daño de los mismos.
+
+Los documentos históricos o los que debido a su estado no pueden ser consultados sin ser destruidos o dañados, deben ser respaldados a través de elementos técnicos que permitan su consulta sin menoscabo de los documentos originales.
+
+(ADICIONADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
+Artículo 7 B.- Son documentos reservados, los que contiene información que de acuerdo a la Ley de Transparencia e Información Pública, se encuentra como reservada, le corresponde a los entes públicos realizar el análisis y la clasificación de la información, determinando su carácter de pública o reservada.
+
+Los documentos que contengan información que ha sido clasificada como reservada pueden permanecer con ese carácter hasta por un período máximo de veinte años, incorporándose como documentos de consulta e interés público pasado dicho plazo o cumplida la condición que dio origen a su reserva.
+
+El tiempo para la depuración de estos tipos de documentos, se empezará a computar a partir de que pasan a ser documentos de interés público.
+
+Dentro de los documentos públicos reservados se consideran los de acceso limitado, que son aquellos a los que pueden acceder quienes demuestren fehacientemente tener interés jurídico directo en el negocio de que se trate.
+
+Son documentos de acceso limitado para los efectos de esta ley, los que contengan:
+
+I. Las averiguaciones previas;
+
+II. Los expedientes y tocas judiciales o los procedimientos administrativos de cualquier tipo, seguidos en forma de juicio;
+
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+III. Los procedimientos de responsabilidades de los servidores públicos en tanto no se halla resolución definitiva;
+
+IV. El contenido de las investigaciones, estudios y análisis por quejas en contra de los actos u omisiones de los servidores públicos, autoridades estatales o municipales, realizados por la Comisión Estatal de Derechos Humanos; y
+
+V. La que se ocupe de cuestiones relativas a los derechos personalísimos y a la esfera de intimidad de la persona, referente a las circunstancias familiares íntimas o de salud de esa persona.
+
+Cualquier persona o su representante puede solicitar documentos de acceso limitado, sin embargo ésta sólo puede obtenerse por quienes demuestren fehacientemente que tienen un legítimo interés jurídico en el negocio de que se trate y para allegarse de ella se debe estar a lo dispuesto por las leyes o reglamentos de los entes públicos generadores o de quienes guarden su custodia.
+
+Los documentos que contienen la información a que se refiere el artículo anterior conservan la calidad de acceso limitado hasta en tanto no haya concluido su trámite, exista disposición expresa por parte de la autoridad generadora o bien, haya transcurrido el plazo a que se refiere éste artículo.
+
+> <small>(ADICIONADO, P.O. 9 DE JULIO DE 2002)</small>
+
+Artículo 7 C.- Para el acceso a los documentos que no se encuentren en los supuestos de los tres artículos anteriores, se estará al procedimiento dispuesto por la Ley de Transparencia e Información Pública.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2002)</small>
+
+## Título Segundo. De la administración de documentos de interés público histórico y reservado
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 9 DE JULIO DE 2002)</small>
+
+### Capítulo I. De la administración de documentos de interés público histórico y reservado
 
 ###### Artículo 8º.
 
@@ -205,13 +317,17 @@ Esta constancia la deberá otorgar el titular del archivo de que se trate y el r
 
 Los documentos que por su estado de deterioro no puedan ser sometidos a restauración y, ante la eminente desaparición de los mismos, deberán ser reproducidos de manera facsimilar, en la medida que lo permita su condición de degradación.
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
 ###### Artículo 15.
 
-Para efectos del proceso de depuración, el archivo de trámite que corresponda, deberá elaborar una tarjeta informativa que contenga la relación de los documentos que se dan de baja y el tiempo que falta para que transcurran los 15 años, a fin de que dichos documentos sean sometidos al proceso de depuración.
+Para efectos del proceso de depuración, el archivo de trámite que corresponda, deberá elaborar una tarjeta informativa que contenga la relación de los documentos que se dan de baja y el tiempo que falta para que transcurran los veinte años, a fin de que dichos documentos sean sometidos al proceso de depuración.
 
-Lo (sic) documentos y la tarjeta informativa a que se refiere el párrafo anterior, deberán remitirse a los archivos histórico o generales, para que éstos a su vez, los tengan recibidos bajo su custodia.
+Los documentos y la tarjeta informativa a que se refiere el párrafo anterior, deberán remitirse al archivo general que corresponda para que éstos a su vez, los tengan recibidos bajo su custodia.
 
-Una vez transcurrido el plazo de 15 años, según sea la antigüedad de los documentos, los archivos histórico o generales, deberán concentrar y entregar el acervo documental que ya no esté activo, a la Comisión Dictaminadora, quien deberá dictaminar su utilidad e importancia; si procede la eliminación de dichos documentos o, en su caso, por el contenido de información, si se consideran como testimonio histórico, cultural o de interés público.
+Una vez transcurrido el plazo de veinte años, según sea la antigüedad de los documentos, los archivos histórico o generales, deberán concentrar y entregar el acervo documental que ya no esté activo, a la Comisión Dictaminadora, quien deberá dictaminar su utilidad e importancia, de acuerdo con los criterios establecidos en la ley; si procede la eliminación de dichos documentos o, en su caso, por el contenido de información, si se consideran como testimonio histórico, cultural o de interés público.
+
+Todo lo anterior sin perjuicio de los procedimientos de acceso a la información, según sea el tipo de documento de que se trate.
 
 ###### Artículo 16.
 
@@ -223,15 +339,15 @@ Todo documento para ser eliminado o destruido queda sujeto al procedimiento que 
 
 ### Capítulo II. Del uso y difusión de los documentos de interés público
 
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
 ###### Artículo 18.
 
-Los documentos que obren en los archivos histórico o generales, serán de consulta pública para la investigación y difusión, hasta transcurridos quince años, después de haber sido generados.
-
-Los periodistas e investigadores académicos, debidamente acreditados, podrán de conformidad con el artículo 8º de la Constitución Política de los Estados Unidos Mexicanos, solicitar el acceso a documentos resguardados cuando su trabajo lo justifique plenamente y por acuerdo del Comité Técnico.
+Los documentos que obren en los archivos histórico o generales, serán de consulta pública salvo las excepciones y restricciones que establezcan las leyes, durante el tiempo que permanezcan en los archivos.
 
 ###### Artículo 19.
 
-Los documentos de interés público que sean de carácter administrativo, podrán ser consultados por él o los sujetos afectados en cualquier etapa del trámite y de conformidad a las leyes aplicables al caso, en los archivos correspondientes.
+(DEROGADO, P.O. 9 DE JULIO DE 2002)
 
 ###### Artículo 20.
 
@@ -257,13 +373,15 @@ Las publicaciones oficiales que difundan el contenido de los documentos objeto d
 
 ### Capítulo I. De los archivos generales
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 24.
 
 Los archivos histórico y generales a que se refiere el artículo 2º de esta ley, establecerán en sus reglamentos, su organización interna.
 
-Cuando los archivos histórico o generales, no cuenten con la capacidad y recursos necesarios para el adecuado manejo que requieran los documentos históricos, podrán celebrar convenios de colaboración con el Archivo Histórico del Estado de Jalisco, a efecto de que el resguardo de los mismos se haga en sus instalaciones.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
+Cuando los archivos histórico o generales, no cuenten con la capacidad y recursos necesarios para el adecuado manejo que requieran los documentos históricos, podrán celebrar convenios de colaboración con la Dirección General de Archivos del Estado de Jalisco, a efecto de que el resguardo de los mismos se haga en sus instalaciones.
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -271,11 +389,11 @@ Cuando los archivos histórico o generales, no cuenten con la capacidad y recurs
 
 El Archivo Histórico de Jalisco, se integrará con los documentos que expida el Poder Ejecutivo, sus dependencias de la administración pública, en el ejercicio de sus funciones, así como los que reciba o adquiera por cualquier título legal.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 26.
 
-La Secretaría General de Gobierno tendrá a su cargo al Archivo Histórico de Jalisco y apoyará a las dependencias de la administración pública y a los municipios, en lo relativo a la organización y funcionamiento de sus archivos de trámite o generales.
+La Secretaría General de Gobierno tendrá a su cargo la Dirección General de Archivos, así como el Archivo Histórico del Estado, y el Archivo de Concentración; y apoyará las dependencias de la administración pública y a los municipios, en lo relativo a la organización y funcionamiento de sus archivos de trámite o generales.
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -289,13 +407,13 @@ El Oficial Mayor del Congreso del Estado estará a cargo del Archivo General del
 
 El Supremo Tribunal de Justicia del Estado, designará el personal responsable de su Archivo General, que se integrará por todos aquéllos documentos que de él emanen, y los que reciba o adquiera por cualquier título legal.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 29.
 
-Las dependencias de la administración pública establecerán un Archivo General, que se integrará por toda la documentación que corresponda, conforme a la presente ley, para lo cual, el titular de cada dependencia, designará el personal responsable de sus archivos.
+Las dependencias de la administración pública establecerán un Archivo General, que se integrará por toda la documentación que corresponda, conforme a la presente ley, para lo cual, el titular de cada dependencia, designará el personal responsable de sus archivos; así como el espacio físico donde se resguardarán sus documentos.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 30.
 
@@ -303,7 +421,9 @@ Los ayuntamientos del estado establecerán un Archivo General Municipal, el cual
 
 El Secretario del Ayuntamiento será el responsable del Archivo General Municipal y deberá procurar que la administración de los documentos históricos queden bajo el cuidado de quien cumpla con el perfil que establece la presente ley.
 
-En caso de carecer de los recursos necesarios para establecer un archivo general municipal, se estará a lo dispuesto por el artículo 27 de esta ley.
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2002)</small>
+
+En caso de carecer de los recursos necesarios para establecer un archivo general municipal, los gobiernos de los municipios podrán celebrar convenios con la Dirección General de Archivos del Estado de Jalisco.
 
 > <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
 
@@ -333,7 +453,7 @@ Tratándose de robo, el responsable de la custodia del documento deberá denunci
 
 ### Capítulo I. De los fines del Sistema Estatal
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 34.
 
@@ -349,23 +469,27 @@ IV. Facilitar el uso de la información documental para la investigación y uso 
 
 V. Fijar los criterios generales que tiendan a homogeneizar la administración, la expedición, reproducción, cuidado, conservación, restauración y depuración de los documentos públicos, a que se refiere la presente ley;
 
-VI. Establecer el Registro del Patrimonio Documental del Estado;
+(REFORMADA, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
+VI. Establecer el Registro del Patrimonio Documental del Estado. Para efectos de creación de dicho Registro, los municipios y las dependencias de la administración pública, deberán presentar por escrito a la Dirección General de Archivos la información necesaria, con la finalidad de ser incluidos en el registro;
 
 VII. La coordinación en materia de protección al patrimonio cultural con el cuidado, conservación, restauración y registro de los documentos históricos del estado y los particulares; y
 
 VIII. Difundir el acervo documental histórico y de interés público que existe en el estado.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+(REFORMADO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 35.
 
-Para el debido funcionamiento del Sistema Estatal, se establecerá una Coordinación Estatal que se integra de la siguiente manera:
+Para el debido funcionamiento del Sistema Estatal, se establecerá una Coordinación Estatal que se integrará de la siguiente manera:
 
-I. El titular del Archivo Histórico del Estado de Jalisco, quien será el coordinador general del Sistema Estatal;
+I. El titular de la Dirección General de Archivos del Estado de Jalisco, quien será el coordinador general del Sistema Estatal;
 
-II. El titular de los archivos generales de los poderes Legislativo y Judicial del estado;
+II. El Titular del Archivo Histórico del Estado de Jalisco;
 
-III. Los titulares de los archivos generales municipales, cuya representación será regional, de manera que se mantenga de forma permanente la adecuada representación regional ante el mismo.
+III. El Titular de los archivos generales de los poderes Legislativo y Judicial del estado; y
+
+IV. Los titulares de los archivos generales municipales, cuya representación será regional, de manera que se mantenga de forma permanente la adecuada representación regional ante el mismo.
 
 La representación regional a que se refiere el párrafo anterior, se establecerá en el Reglamento Interior del Sistema Estatal.
 
@@ -377,7 +501,7 @@ La representación regional a que se refiere el párrafo anterior, se establecer
 
 El Sistema Estatal, para el ejercicio de sus funciones y el cumplimiento de sus objetivos, contará con un órgano denominado Comité Técnico de Documentación, que es un organismo auxiliar, encargado de proponer las políticas y lineamientos en administración documental; coordinar a los archivos generales; elaborar y conservar el Registro del Patrimonio Documental del Estado.
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 37.
 
@@ -389,7 +513,9 @@ II. Un Subdirector;
 
 III. Un Secretario; y
 
-IV. Seis Vocales.
+(REFORMADA, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
+IV. Un vocal por cada una de las regiones del Estado de Jalisco.
 
 Los integrantes del Comité Técnico serán electos por los miembros de la Coordinación Estatal para un período de tres años, de entre los titulares de los archivos histórico o generales que integran el Sistema Estatal, a excepción de su Director que será designado por el Gobernador del Estado.
 
@@ -427,13 +553,15 @@ XIII. Las demás que señale su reglamento interior.
 
 ### Capítulo III. De las sesiones del Comité Técnico del Sistema Estatal
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 39.
 
 El Comité Técnico deberá sesionar de la siguiente manera:
 
-I. De forma ordinaria, cada tres meses y extraordinariamente cuando fuere convocado por el Director o a petición de alguna de sus miembros;
+(REFORMADA, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
+
+I. De forma ordinaria, cada cuatro meses y extraordinaria cuando fuere convocado por el Director o a petición de alguno de sus miembros;
 
 II. Para que las sesiones del Comité Técnico sean válidas se requerirá que exista un quórum de la mayoría de sus integrantes; en caso contrario, se convocará a una nueva sesión que se celebrará dentro de los siete días siguientes y la cual se considerará legal con la asistencia de por lo menos una tercera parte de sus integrantes; y
 
@@ -443,7 +571,7 @@ Las decisiones del Comité Técnico del Sistema Estatal se tomarán por mayoría
 
 ### Capítulo IV. De las obligaciones de los integrantes del Comité Técnico
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
 
 ###### Artículo 40.
 
@@ -455,7 +583,9 @@ II. Evaluar el funcionamiento de las unidades administrativas del Sistema Estata
 
 III. Intervenir en la designación de las comisiones dictaminadora y especiales que se formen para coadyuvar al cumplimiento de los objetivos del Sistema Estatal, así como nombrar comisiones entre los vocales que conforman el Comité Técnico;
 
-IV. Solicitar al titular del archivo histórico, que convoque a reuniones generales del sistema; y
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2002)</small>
+
+IV. Solicitar al titular de la Dirección General de Archivos, que convoque a reuniones generales del sistema; y
 
 V. Las demás que les confiera esta ley y su reglamento.
 
@@ -517,11 +647,11 @@ El Comité Técnico, contará con un Consejo Consultivo como órgano de consulta
 
 ### Capítulo V. De la Comisión Dictaminadora de Depuración de Documentos y del Consejo Consultivo
 
-> <small>(F. DE E., P.O. 12 DE OCTUBRE Y 19 DE NOVIEMBRE DE 2002)</small>
+(REFORMADO PRIMER PARRAFO, P.O. 9 DE JULIO DE 2002) (F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)
 
 ###### Artículo 45.
 
-La Comisión Dictaminadora, es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público, una vez transcurridos 15 años de haber sido dados de baja en los archivos de trámite y hayan sido remitidos a los archivos generales.
+La Comisión Dictaminadora, es nombrada por el Comité Técnico, la cual se encargará de llevar a cabo el procedimiento de depuración de los documentos que carezcan de interés público, una vez transcurridos veinte años de haber sido generados y que se encuentren en los archivos de trámite o hayan sido remitidos a los archivos generales.
 
 Esta Comisión se integrará cada tres años por un mínimo de cinco especialistas en la materia, que serán seleccionados entre los miembros del Sistema Estatal. En dicha comisión participará invariablemente el titular del Archivo Histórico del Estado de Jalisco.
 
@@ -638,3 +768,13 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+
+P.O. 9 DE JULIO DE 2002 .
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+> <small>(F. DE E., P.O. 28 DE SEPTIEMBRE DE 2002)</small>
+
+Segundo.- Los gobiernos municipales deberán adecuar sus ordenamientos de conformidad a las presentes reformas en un plazo no mayor a noventa días a partir de la entrada en vigor del presente decreto.
